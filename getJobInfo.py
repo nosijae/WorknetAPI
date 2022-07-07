@@ -50,7 +50,7 @@ def get_job_detail():
     set_param_dict('jobGb', '1')
     set_param_dict('dtlGb', '1')
 
-    # Looping call xml docs
+    # Looping get call ( 350 calls )
     for key in keyList:
         majorCdList, majorNmList, certNmList = [], [], []
         majorCd, majorNm, certNm = '', '', ''
