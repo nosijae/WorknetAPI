@@ -1,5 +1,6 @@
-import json
-import random as rd
+import csv
+import pandas as pd
+import numpy as np
 import requests as rq
 import xml.etree.ElementTree as ET
 
@@ -16,7 +17,40 @@ spclSrchDict = {}  # 이색직업
 thmSrchDict = {}  # 테마별
 newSrchDict = {}  # 신직업 dict
 
+# save API results
+jobInfoList = []
 
+
+def csv_to_xlsx():
+    r_csv = pd.read_csv('./results/job_info.csv')
+
+    save_xlsx = pd.ExcelWriter('./results/job_info.xlsx')
+    r_csv.to_excel(save_xlsx, index=False)
+
+    save_xlsx.save()
+    save_xlsx.close()
+
+
+def write_job_csv():
+    f = open('./results/job_info.csv', 'w', newline='')
+    wr = csv.writer(f)
+
+    _header = ["직업코드", "직업 대분류명", "직업 중분류명", "직업 소분류명", "하는일", "되는길",
+               "관련 전공 코드", "관련 전공명", "관련자격증명", "임금", "직업만족도", "일자리전망",
+               "일자리현황", "업무수행능력", "지식", "업무환경", "성격", "흥미", "직업 가치관",
+               "업무활동 중요도", "업무활동 수준"]
+
+    wr.writerow(_header)
+
+    for jobInfo in jobInfoList:
+        wr.writerow(jobInfo)
+
+    f.close()
+
+    csv_to_xlsx()
+
+
+# default set Dictionary
 def set_default_dict():
     headerDict.clear()
     paramDict.clear()
@@ -24,25 +58,44 @@ def set_default_dict():
     set_param_dict('returnType', RETURN_TYPE)
 
 
+# set Dictonary parameter
 def set_param_dict(key, value):
     paramDict.setdefault(key, value)
 
 
-def get_job_theme(URI):
-    headerDict.clear()
-    paramDict.clear()
+# def get_job_theme():
+#     headerDict.clear()
+#     paramDict.clear()
+#
+#     # setting params
+#     set_param_dict('target', 'JOBDTL')
+#     set_param_dict('jobGb', '4')
 
-    # setting params
-    set_param_dict('target', 'JOBDTL')
-    set_param_dict('jobGb', '4')
+
+# get from xml ( non-error data )
+def find_normal_target(root, target):
+    rstStr = root.find(target).text if root.find(target) != - 1 else None
+    return rstStr
+
+
+# get from xml ( none type exception )
+def handle_none_exception(root, target):
+    rstStr = root.find(target) if root.find(target) != -1 else None
+
+    if rstStr == None:
+        rstStr = None
+    else:
+        rstStr = rstStr.text
+
+    return rstStr
 
 
 # 일반직업상세 GET
 def get_job_detail():
     set_default_dict()
 
-    # set local variable
-    keyList = list(norSrchDict.keys())
+    # get Cd from normal detail category
+    cdList = list(norSrchDict.keys())
 
     # setting URI & params
     URI = 'http://openapi.work.go.kr/opi/opi/opia/jobSrch.do'
@@ -51,63 +104,54 @@ def get_job_detail():
     set_param_dict('dtlGb', '1')
 
     # Looping get call ( 350 calls )
-    for key in keyList:
-        majorCdList, majorNmList, certNmList = [], [], []
+    for cd in cdList:
         majorCd, majorNm, certNm = '', '', ''
 
-        paramDict['jobCd'] = key
+        paramDict['jobCd'] = cd
 
         requestData = rq.get(URI, headers=headerDict, params=paramDict)
 
         # parsing XML
         root = ET.fromstring(requestData.text)
 
-        jobCd = root.find('jobCd').text if root.find('jobCd') != -1 else None
-        jobLrclNm = root.find('jobLrclNm').text if root.find('jobLrclNm') != -1 else None
-        jobMdclNm = root.find('jobMdclNm').text if root.find('jobMdclNm') != -1 else None
-        jobSmclNm = root.find('jobSmclNm').text if root.find('jobSmclNm') != -1 else None
-        jobSum = root.find('jobSum').text if root.find('jobSum') != -1 else None
-        way = root.find('way').text if root.find('way') != -1 else None
+        # normal Operation
+        jobCd = find_normal_target(root, 'jobCd')
+        jobLrclNm = find_normal_target(root, 'jobLrclNm')
+        jobMdclNm = find_normal_target(root, 'jobMdclNm')
+        jobSmclNm = find_normal_target(root, 'jobSmclNm')
+        jobSum = find_normal_target(root, 'jobSum')
+        way = find_normal_target(root, 'way')
+        sal = find_normal_target(root, 'sal')
+        jobSatis = find_normal_target(root, 'jobSatis')
+        jobProspect = find_normal_target(root, 'jobProspect')
+        jobStatus = find_normal_target(root, 'jobStatus')
+        jobAbil = find_normal_target(root, 'jobAbil')
+        jobVals = find_normal_target(root, 'jobVals')
+        jobActvImprtncs = find_normal_target(root, 'jobActvImprtncs')
+        jobActvLvls = find_normal_target(root, 'jobActvLvls')
 
-        relMajorList = root.findall('relMajorList') if root.find('relMajorList') != -1 else None
-        if relMajorList != None and relMajorList != []:
-            for relMajor in relMajorList:
-                majorCd = relMajor.find('majorCd').text
-                majorNm = relMajor.find('majorNm').text
-                majorCdList.append(majorCd)
-                majorNmList.append(majorNm)
+        # using iter method to find sub tree
+        for relMajor in root.iter('relMajorList'):
+            majorCd += relMajor.find('majorCd').text + '/'
+            majorNm += relMajor.find('majorNm').text + '/'
 
-            majorCd = ', '.join(majorCdList)
-            majorNm = ', '.join(majorNmList)
+        for relCert in root.iter('relCertList'):
+            certNm += relCert.find('certNm').text + '/'
 
-        relCertList = root.findall('relCertList') if root.find('relCertList') != -1 else None
-        if relCertList != None and relCertList != []:
-            for relCert in relCertList:
-                certNm = relCert.find('certNm').text
-                certNmList.append(certNm)
+        # handle Attribute(Nonetype) exception
+        knowldg = handle_none_exception(root, 'knowldg')
+        jobEnv = handle_none_exception(root, 'jobEnv')
+        jobChr = handle_none_exception(root, 'jobChr')
+        jobIntrst = handle_none_exception(root, 'jobIntrst')
 
-            certNm = ', '.join(certNmList)
+        results = [jobCd, jobLrclNm, jobMdclNm, jobSmclNm, jobSum, way,
+                   majorCd, majorNm, certNm, sal, jobSatis, jobProspect,
+                   jobStatus, jobAbil, knowldg, jobEnv, jobChr, jobIntrst, jobVals,
+                   jobActvImprtncs, jobActvLvls]
 
-        sal = root.find('sal').text if root.find('sal') != -1 else None
-        jobSatis = root.find('jobSatis').text if root.find('jobSatis') != -1 else None
-        jobProspect = root.find('jobProspect').text if root.find('jobProspect') != -1 else None
-        jobStatus = root.find('jobStatus').text if root.find('jobStatus') != -1 else None
-        jobAbil = root.find('jobAbil').text if root.find('jobAbil') != -1 else None
-        jobVals = root.find('jobVals').text if root.find('jobVals') != -1 else None
-        jobActvImprtncs = root.find('jobActvImprtncs').text if root.find('jobActvImprtncs') != -1 else None
-        jobActvLvls = root.find('jobActvLvls').text if root.find('jobActvLvls') != -1 else None
+        jobInfoList.append(results)
 
-        # Nonetype exception
-        # knowldg = root.find('knowldg').text if root.find('knowldg') != -1 else None
-        # jobEnv = root.find('jobEnv').text if root.find('jobEnv') != -1 else None
-        # jobChr = root.find('jobChr').text if root.find('jobChr') != -1 else None
-        # jobIntrst = root.find('jobIntrst').text if root.find('jobIntrst') != -1 else None # MBTI 랑 엮을 수 있나?
-
-
-
-        # print(jobCd, jobLrclNm, jobMdclNm, jobSmclNm, jobSum, way, majorCd, majorNm, certNm, end='\n========================================================================\n')
-
-
+    write_job_csv()
 
 
 # 직업목록 GET
@@ -120,7 +164,7 @@ def get_job_srch():
     # API get call
     requestData = rq.get(URI, headers=headerDict, params=paramDict)
 
-    # xml parsing
+    # xml parsing (fromstring()은 문자열에서 Element로 XML을 직접 구문 분석)
     jobSrch = ET.fromstring(requestData.text)
     # looping parsed xml to extract text
     for jobList in jobSrch.findall('jobList'):
@@ -146,34 +190,34 @@ def get_job_srch():
             norSrchDict.setdefault(jobCd, [jobGb, jobNm, jobClcd, jobClcdNM])
 
 
-# 학과정보 GET
-def get_major_srch():
-    return True
-
-
-# 직업전망 GET
-def get_job_prospect():
-    return True
-
-
-# 직업사전 GET
-def get_job_dic():
-    return True
-
-
-# 공채속보 GET
-def get_open_emp_info():
-    return True
-
-
-# 표준직무기술서 GET
-def get_job_by_word():
-    return True
-
-
-# 직무데이터사전 API
-def get_dic_data_by_word():
-    return True
+# # 학과정보 GET
+# def get_major_srch():
+#     return True
+#
+#
+# # 직업전망 GET
+# def get_job_prospect():
+#     return True
+#
+#
+# # 직업사전 GET
+# def get_job_dic():
+#     return True
+#
+#
+# # 공채속보 GET
+# def get_open_emp_info():
+#     return True
+#
+#
+# # 표준직무기술서 GET
+# def get_job_by_word():
+#     return True
+#
+#
+# # 직무데이터사전 API
+# def get_dic_data_by_word():
+#     return True
 
 
 # 항상 호출하여 Source 받아 dict에 저장해 놓는 것이 좋음
