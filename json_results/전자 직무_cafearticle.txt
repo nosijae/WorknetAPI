@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:18 +0900",
+	"total":198800,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"LG<b>전자<\/b> 채용 시작! SW<b>직무<\/b> 합격스펙\/합격자소서 모아보기!",
+			"link":"http:\/\/cafe.naver.com\/specup\/7001824",
+			"description":"서류접수 &gt; LG코팅 테스트 &gt; 최종 서류 전형 &gt; 기술면접 &gt; 최종면접 &gt; 건강 검진 &gt; 정규입사의 절차를 거치게됩니다~ LG<b>전자<\/b> SW<b>직무<\/b> 모집은 위와 같습니다! 관련 전공은 컴퓨터\/소프트웨어 공학, <b>전자<\/b>\/전기\/정보통신... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 면접, <b>직무<\/b>면접\/<b>직무<\/b>역량면접 기출질문 모음",
+			"link":"http:\/\/cafe.naver.com\/specup\/6984678",
+			"description":"삼성<b>전자<\/b> 면접, <b>직무<\/b>면접\/<b>직무<\/b>역량면접 기출질문 모음 다들 면접 준비 잘하고 계시나요~? 이번 시간에는 삼성<b>전자<\/b> 면접, <b>직무<\/b>면접\/<b>직무<\/b>역량면접 기출질문 모음집을 들고왔습니다! 다들 읽어봐주시고 도움이 되길... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>역량면접에서 work sample 이 뭘까요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11721535",
+			"description":"삼성<b>전자 직무<\/b>역량면접에서 work sample 이 뭘까요? 직무역량면접은 사전 Work sample풀이 없이 면접시간 중 풀이 및 질의응답 형식으로 진행됩니다. 라고 되어잇던데 ㅠㅠㅠㅠ ..당황스러워여 꼭... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"전자과 삼성<b>전자 직무<\/b>고민..",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11775319",
+			"description":"반학기 휴학을 해서 이번에 <b>전자<\/b>과 4-1 올라가는 학생입니다..! 신호시스템 설계 : 학부연구생 가능 ( 연구, 프로젝트 참여 많이 시켜주시는 교수님이시고, 이 교수님 밑에서 이 <b>직무<\/b> 합격한 동기가 있어요 ) 관련... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 면접(<b>직무<\/b>면접) 질문",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11707265",
+			"description":"삼성<b>전자 직무<\/b>면접에서는 지원한 분야의 전공과 관련된 지식을 많이 물어보나요, 회사나 산업과 관련된 지식을 많이 물어보나요? 꼭 봐야할 이번주 독취사 인기글 6,784 VIEW | 대기업 → 중소... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"반도체 취업 삼성<b>전자 직무<\/b>면접",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11721376",
+			"description":"삼성<b>전자<\/b> 면접을 준비하려고 합니다 <b>직무<\/b> 면접은 주로 자소서에 쓴 내용을 중점적으로 공부해서 가면 될까요? 꼭 봐야할 이번주 독취사 인기글 2,156 VIEW | 회사에서 퇴사를 거부합니다 ▶ https... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"한수원 전기<b>전자 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1846351",
+			"description":"한국수력원자력 인턴 공고 보고 직무 찾아보고 있는데 전기<b>전자 직무<\/b>에 대한 자료를 찾기가 어렵네요ㅠ 아 인턴 자소서에 작성할 건 아니고 나중에 대졸채용때 감 좀 잡으려구요! 혹시 자료 있으신 분은... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 반도체 <b>직무<\/b>에 대해서 궁금한 것이 있습니다!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11789802",
+			"description":"근데 <b>직무<\/b>관련해서 찾아보고 있는데, <b>전자<\/b>쪽에 기반한 <b>직무<\/b>들이 많이 있더라구요. 그래서 <b>직무<\/b>를 정하는데 앞서서 어려움이 있는데 혹시 전기공학과 출신으로 반도체 기업쪽으로 취업하신분들은... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"포스코 <b>전자<\/b>(정비)<b>직무<\/b>면접!! 선배님덜 부탁드립니다..!!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11776001",
+			"description":"<b>전자<\/b>정비 <b>직무<\/b>는 후기가 잘 없어서 혹시 <b>전자<\/b>정비로 지원하신 경험이있거나 현직자이신 선배님들 꼭좀 도와주십쇼..!! 저 진짜 너무 합격하고싶습니다!!!부탁드립니다!!!! 꼭 봐야할 이번주 독취사... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11529436",
+			"description":"올해 갓 졸업한 <b>전자<\/b>공학과 학생으로, 삼성<b>전자<\/b> 파운드리 사업부의 공정 설계, 공정 기술 부문과 메모리 사업부의 회로설계 쪽을 고민하고 있습니다. 각 <b>직무<\/b>의 장단점을 알고 싶습니다. 꼭... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 면접 관련 질문있습니다.",
+			"link":"http:\/\/cafe.naver.com\/specup\/6896408",
+			"description":"그동안 다른 중견기업들은 인성 면접, 직무 면접으로 두번 봤고, 직무 면접은 그렇게 어렵진 않았는데 삼성<b>전자 직무<\/b> 면접은 어떤가요? 취준생 베스트 인기글 취준생은 용돈받으면 불효야..? https:\/\/vo.la... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>소개",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11473473",
+			"description":"안녕하세요 2022 삼성<b>전자<\/b> 인턴을 준비하고 있는 대학생입니다. <b>직무<\/b>소개 job description을 보고 분야를 선택하라는 말을 듣고 job description을 찾는데 파일이 보이지 않더라구요 혹시 공고가... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/specup\/6896418",
+			"description":"삼성<b>전자 직무<\/b> 어떤거 쓰시나요? SCSA쓰시는 분 있나요? 궁금하네요 취준생 베스트 인기글 취준생은 용돈받으면 불효야..? https:\/\/vo.la\/7sPlNZ 자소서 하나 쓰는데 일주일... 언제늘어ㅜㅜ https:\/\/vo.la\/sNc4gh... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 선정 (환경안전 vs 인프라기술)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11481222",
+			"description":"안녕하세요 삼성<b>전자<\/b> DS 부문에 지원해보고자 하는 취린이입니다~ 현재 환경공학과에서 수처리 분야를 전공하고 있는데요 유튜브나 삼전DS 홈페이지에 있는 <b>직무<\/b>소개를 열심히 찾아보아도 <b>직무<\/b>... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 면접 어떻게 준비하시나요??",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11705441",
+			"description":"이번에 GSAT이후 면접을 볼 것 같습니다. 저는 다른 <b>직무<\/b>들과 함께 자소서랑 <b>직무<\/b>관련 내용을 주고 받는 식으로 준비하고 있는데 다들 어떻게 준비하시고 계시나요??",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>관련 궁금증",
+			"link":"http:\/\/cafe.naver.com\/specup\/6843394",
+			"description":"반도체 회사 취업이 목표라 우선 삼성<b>전자 직무<\/b>부터 알아보고있는데요, 일단은 메모리사업부 회로설계, 평가 및 분석, 공정설계, 공정기술 4가지 직무로 좁혔습니다. 이 중에서 전자공 학사출신이 제일... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"[삼성 면접 기출] 삼성 <b>직무<\/b>면접 준비 이렇게 하세요!",
+			"link":"http:\/\/cafe.naver.com\/winspec\/275245",
+			"description":"https:\/\/cafe.naver.com\/winspec\/269609 두 번째 삼성<b>전자 직무<\/b>면접 기출입니다. 이 지원자의 경우 직무에 관련된 지식 질문 및 인턴 경험에 대한 질문, 수상경력에 대한 질문을 받았다고 하네요! 두 지원자 모두 자기소개와... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"Lg<b>전자<\/b>같은 대기업 서류는 <b>직무<\/b>중심 내용이 중요하겠죠?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11650136",
+			"description":"아무래도 면접때 자소서기반 질문을 무조건 할 것 같은데, lg<b>전자 직무<\/b>관련 경험은없어서 잘 못 쓴거같은데 면접가면 걱정이네요 꼭 봐야할 이번주 독취사 인기글 20대 후반부터 가장 크게 바뀌는... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"대덕<b>전자<\/b> CAM <b>직무<\/b>가 어떤 업무를 진행하는지 궁금합니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11748452",
+			"description":"대덕<b>전자<\/b> CAM <b>직무<\/b>에 지원하여 차주에 면접 예정인데.... 해당 업무 아시는 정보 좀 공유 받기 위해서 글 썼습니다.! 추가로 대덕<b>전자<\/b> 면접 어떤 분위기 인지 궁금해요! 한국사능력검정시험 59회... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 차이",
+			"link":"http:\/\/cafe.naver.com\/biggiup\/120899",
+			"description":"삼성<b>전자<\/b> 설비엔지니어직이랑 제조직은 서로 다른 <b>직무<\/b>인가요?",
+			"cafename":"고졸 채용 (취업, 공채) 시험을 준비하...",
+			"cafeurl":"https:\/\/cafe.naver.com\/biggiup"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>하는 일 질문",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10350886",
+			"description":"삼성<b>전자<\/b> DS부문 취업을 목표로 하고 있는 26살 남자입니다. <b>직무<\/b>선정하기가 너무 어렵고 저하고 잘 맞는게 무엇인지도 모르겠어서 질문드립니다. 회로설계, 공정설계\/기술,설비기술 이정도로 <b>직무<\/b> 생각하고 있는데... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"하이닉스에서 삼성<b>전자<\/b> 공정기술과 유사한 <b>직무<\/b>는 뭔가요?",
+			"link":"http:\/\/cafe.naver.com\/specup\/6749569",
+			"description":"하이닉스와 삼성<b>전자 직무<\/b> 설명이 조금 달라서 공정기술과 가장 유사한 직무가 뭔지 궁금합니다. 양산기술이 그나마 비슷한가요? 취준생 베스트 인기글 업무, 급여 불만으로 나온 회사, 땜빵요청... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>관련 질문입니다.",
+			"link":"http:\/\/cafe.naver.com\/winspec\/248141",
+			"description":"여기서 문제는 삼성<b>전자<\/b>의 경우 설비<b>직무<\/b>가 메모리 설비와 파운드리 설비로 나뉘는 것에 있습니다.설비<b>직무<\/b> 자체를 지원한 이유로는 해당<b>직무<\/b>에 필요한 문제해결능력과 소통능력을 지닌 인재가 저이고 ncs나... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10773207",
+			"description":"전공이 재료+<b>전자<\/b>인데 어떤<b>직무<\/b>가 잘 맞을까용? 반도체공정 등 전문적으로 배우는 과입니다 꼭 봐야할 이번주 독취사 인기글 * 대기업 취업 확실하게 준비하는 방법 ▶ https:\/\/bit.ly\/2XrufUy... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 면접",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10593225",
+			"description":"삼성<b>전자<\/b> 면접에는 <b>직무<\/b>면접이라는 것이 있던데 혹시 이 <b>직무<\/b>면접때 석사는 제출했던 전공소개서로 발표를 하는 것인가요? 아니면 다른 지원자들과 동일하게 문제가 주어지면 푸는 형식으로 진행하는... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>선택관련 상담",
+			"link":"http:\/\/cafe.naver.com\/winspec\/239345",
+			"description":"안녕하세요 홍기찬선생님 오늘 삼성<b>전자<\/b> 채용 라이브 강의를 들으며 삼성<b>전자<\/b>에서 <b>직무<\/b> 선택이 고민되어 상담드립니다. 제 경험을 말씀드리자면 28살 \/ 여자 \/ 지방사립대학 기계공학부 \/ 학점 3.6 \/ 토스6 자격증... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"삼성<b>전자<\/b> DX 문과 <b>직무<\/b> 스터디",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11710348",
+			"description":"삼성<b>전자<\/b> DX부문 문과 <b>직무<\/b> 면접 스터디하실 분 구합니다! <b>직무<\/b> 다르게 3-4명 모아서 같이 하려고 합니다. 자소서 공유해서 예상질문 도출, 기업 분석, 가능하면 모의 면접까지 같이 하실 분들 계시면 댓글이나 쪽지... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11008000",
+			"description":"혹시 삼성<b>전자<\/b>나 sk 하이닉스에 어떤 <b>직무<\/b>가 있는지 어디서 확인할 수 있나요? 꼭 봐야할 이번주 독취사 인기글 * 대기업 취업 확실하게 준비하는 방법 ▶ https:\/\/bit.ly\/2XrufUy * 인성 쓰레기 상사. 참고... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 관련 질문이 있습니다.",
+			"link":"http:\/\/cafe.naver.com\/winspec\/266469",
+			"description":"부경대학교 재료공학과를 졸업하였으며 2020년 하반기 삼성<b>전자<\/b> 파운더리 공정 기술 부분에 최종면접까... 기술 <b>직무<\/b>로 바꿔야 되겠다는 생각이 듭니다. 아래와 같이 몇가지 질문이 있습니다. 1. DS 부분과... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>선택",
+			"link":"http:\/\/cafe.naver.com\/specup\/6489839",
+			"description":"안녕하세요, 저는 취준생은 아니지만 삼성<b>전자<\/b> 채용에 관심있는 전기<b>전자<\/b> 3학년 휴학생입니다. 전공학점도... 여러분은 어떤 기준으로 <b>직무<\/b>를 선택하시나요? 그리고 혹시 SW개발직분들이 계신다면 코딩테스트라든가... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"전기vs<b>전자 직무<\/b> 선택",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11105354",
+			"description":"교통공사 전기or<b>전자직무<\/b>로 지원하려는데 경쟁률이 많이 빡썰까요. 전년도 경쟁률 확인할 수 있는 곳이 있는지 아시면 댓글 부탁드려요. 꼭 봐야할 이번주 독취사 인기글 * 공기업 면접에서 학점... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11157601",
+			"description":"삼성<b>전자<\/b>에서 기계공학도로서 갈 수 있는 <b>직무<\/b>가 어떤것들이 있을까요?..",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"인교공 <b>전자직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1584834",
+			"description":"안녕하세요 이번에 인천교통공사 <b>전자직무<\/b> 처음 서류 넣어본 취린이입니다!인천교통공사 전자일반과목 전자기사 공부하면되나요??? 그리고 선택형이랑 공통 시험 몇분 보나요??? 답변부탁드립니다~ ※ 2020년 기업별... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 반도체 <b>직무<\/b> 관련 질문입니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11761023",
+			"description":"삼전 반도체 <b>직무<\/b>에서 일반 대졸자가 하는 일은 무엇인가요?? 반도체 공정에 투입되서 공정을 진행하는건가요?? 답변 주시면 감사하겠습니다.",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"LG<b>전자 직무<\/b>관련 고민이 있습니다!",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1548054",
+			"description":"혹시 공대계열 전공이어도 LG<b>전자<\/b> HR<b>직무<\/b>로 지원해도 가능할까요?지원 자체에 의미가 아니라, 실제 현직자 중에서 공대 전공 계열에서 해당 <b>직무<\/b>로 넘어가신 경우가 있는지 궁금합니다. · [취준생] 입사 2년차인 저보다... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 선택",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11528328",
+			"description":"공정 기술 준비하다가 평가및분석 <b>직무<\/b>로 다시 고민중인 취준생입니다.. 혹시 중요하게 생각될만한 경험이나 자격증이 뭐가 있을까요? 꼭 봐야할 이번주 독취사 인기글 공기업 자회사 세전... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>박람회후 현직자 자기소개서 tip",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9551503",
+			"description":"대학에서 삼성<b>전자 직무<\/b>박람회가 있어서 참관하였습니다. 삼성전자 TSP 분야에 근무하시는 사원분에게 자소서관련 tip을 들었습니다. 회사에서 자소서를 볼 때 많은 걸 기대하지 않고 회사에 대한 흥미, 직무에 대한 이해도... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 채용 <b>직무<\/b> 질문있습니다!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11786162",
+			"description":"전공은 신소재공학부이고, 삼성<b>전자<\/b> 파운드리보다는 메모리 사업부에 관심이 있습니다. 메모리 사업부에는 8대공정 이외에도 더 심화된 전공지식을 가지고 있어야되는 것으로 알고 있습니다.... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[현직멘토의 조언] 2020 하반기 삼성그룹 \/ 삼성<b>전자<\/b> 채용, 어떤 계열사, 어느 <b>직무<\/b>로 지원할까?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10464852",
+			"description":"JD에 내가 잘 맞는다고 생각하면 삼성<b>전자 직무<\/b>로 소신지원하고, 그렇지 않다면 다른 계열사로 눈을 돌리는 전략을 짜면 좋을 듯 하다. ---------------------- ③삼성전자 외 계열사를 보면, - 삼성SDI나 삼성전기는 이쪽에... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b>(IM) <b>직무<\/b>적합성 평가?",
+			"link":"http:\/\/cafe.naver.com\/specup\/6313826",
+			"description":"삼성<b>전자 직무<\/b> 적합성 평가가 뭔가요?직무적성검사는 인적성이라고 알고있는데..혹시 둘의 차이가 뭔가요? 직무적합성평가도 시험인가요? *중경외시+토익 880점에 이 월급, 호구인가요?(클릭)*29살에 빚 4천만원 있는... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>역량 면접 때...",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11333915",
+			"description":"<b>직무<\/b>역량 면접 때 물론 <b>직무<\/b> 관련해서 물어보기도 하지만 제가 듣기로는 <b>직무<\/b> 얘기는 거의 안 하고 인성 관련된 질문을 많이 한다고 들었는데 혹시 들으신 거 있나요?? 꼭 봐야할 이번주 독취사... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 선택 및 현재 우선순위에 대해 질문 드리고 싶습니다.",
+			"link":"http:\/\/cafe.naver.com\/winspec\/267625",
+			"description":"삼성<b>전자<\/b> 공채에 지원하고자 하는 학생입니다. 현재 물리학과 출신과 제 이력들을 토대로 공정설계와 공정기술 그리고 설비기술 중 어떤 <b>직무<\/b>에 지원하는 것이 유리한지 궁금하여 글을 쓰게 되었습니다.... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>정보",
+			"link":"http:\/\/cafe.naver.com\/specup\/6548979",
+			"description":"그런데 삼성<b>전자<\/b> 지원에는 다양한 <b>직무<\/b>군이 있잖아요. 각 <b>직무<\/b>별 어떤 일을 하는지에 관한 정보는 나와있는데, 혹시 각 <b>직무<\/b>별 워라밸이나, 경쟁률, 근무 지역 같은건 어디서, 뭐라고 검색해야 알아볼 수... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성 <b>전자 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/8521954",
+			"description":"다른 기업의 품질이나 생산은 삼성<b>전자 직무<\/b>에 뭐로 분류돼있는거죠? 독취사 BEST 글 더보기! [자소서]인생 처음 써본 자소서에서 최종합격까지 [면접] 면접관이 취준생에게 전하는 글 [인적성] LG화학 인적성 후기... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11180965",
+			"description":"<b>전자<\/b>과 학사 이신 분들은 보통 삼성<b>전자<\/b> 지원할 때 어떤 <b>직무<\/b>로 지원을 하시나요??",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"안녕하세요 선생님 삼성<b>전자 직무<\/b>관련 상담 요청 드립니다",
+			"link":"http:\/\/cafe.naver.com\/winspec\/266732",
+			"description":"제가 이번 하반기에 삼성<b>전자<\/b>에 지원하려고 하는데요 신소재공학과인데 메모리 사업부... &lt;7월 한달반(화)&gt; https:\/\/bit.ly\/3vVoZri 여름방학동안 하반기 완벽 대비 취업전략&amp;<b>직무<\/b>선정&amp;자소서&amp;인적성&amp;면접까지... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>적합성",
+			"link":"http:\/\/cafe.naver.com\/specup\/6386648",
+			"description":"다름이 아니라 위 분야의 <b>직무<\/b> 적합성이 <b>전자<\/b>제품의 구성 및 동작원리를 이해하기 위한 <b>전자<\/b>기기 관련지식, 전기·<b>전자<\/b>회로, 디지털회로 설계에 필요한 역량 보유자 ex) RF통신, Display구동... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 선택관련해서 질문드립니다.",
+			"link":"http:\/\/cafe.naver.com\/winspec\/238390",
+			"description":"2회 장학내용 : 교내 모범 장학, 강의 수석 장학, 학과 수석 장학, 이공계 우수 장학 어학성적 : OPIc IM 최근 삼성<b>전자<\/b>에서 경력자 채용 수를 늘린다고 하여 공정설계 <b>직무<\/b>에서 경쟁력이 없을까봐 걱정이 되어 질문드립니다.",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 질문입니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9711922",
+			"description":"삼성<b>전자<\/b> 지원시 실제로 회로설계 <b>직무<\/b>가 경쟁이 치열한지 아니면 다른 <b>직무<\/b>와 비슷한지 궁금하네요! 이번주 독취사 회원 20,539명이 본 글 다 찍었는데 GSAT 합격.. 왜 중소기업 욕하는지 알겠네요 나의 첫 직장 이야기... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 엄청 고민되네요...",
+			"link":"http:\/\/cafe.naver.com\/specup\/6493926",
+			"description":"사업부도 고민되고 <b>직무<\/b>도 어디로 쓸지 엄청 고민되네요......자소서를 그에 맞게 써야 하는데... ▶https:\/\/vo.la\/coiy8 휴학 3년공백..이렇게 커버하고 삼성<b>전자<\/b>DS 최종합격했습니다. ▶ https:\/\/bit.ly\/2YcgPfZ... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 공정<b>직무<\/b> 면접에 대해 궁금한 게 있습니다.",
+			"link":"http:\/\/cafe.naver.com\/specup\/6967507",
+			"description":"<b>전자<\/b>공학과 4학년 취준생입니당 공정 관련 <b>직무<\/b>에 지원하면 8대 공정 질문 하나쯤은 받게 될 것 같습니다. 질문은 2가지 유형이 있을 것 같습니다. ① 8대 공정 전체를 설명해 보세요. ② 8대 공정 중 자신... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10306450",
+			"description":"삼성<b>전자<\/b> 면접시 <b>직무<\/b>에 관해 어느정도 지식이 있어야 하나요?? 대기업 인담자가 말하는 취업시장 전망 회사 선택할때 무조건 확인해야 하는 것 면접에서 한 거짓말이 들킨 것 같아요 기업별 인적성교재 총정리 ☞ 채용공고... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"해당 코스가 삼성<b>전자 직무<\/b>와 연관있는지 여쭈어보고 싶습니다",
+			"link":"http:\/\/cafe.naver.com\/daehakwon\/51849",
+			"description":"다름이 아니라 제가 가는 학과의 코스가 <b>직무<\/b> 적합성이 맞는지 여쭈어보고싶습니다. 필요조건: <b>전자<\/b>제품의 구성 및 동작원리를 이해하기 위한 <b>전자<\/b>기기 관련지식, 전기... ",
+			"cafename":"대학원 입학을 준비하는 사람들의 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/daehakwon"
+		},
+		{
+			"title":"<b>전자<\/b>공학 <b>직무<\/b>선택",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11546120",
+			"description":"학사수준 <b>전자<\/b>공이 갈 수 있는 <b>직무<\/b>중에 설계가 주인 <b>직무<\/b>는 어떤것이 있을까요? 꼭 봐야할 이번주 독취사 인기글 2022년도 공공기관 연봉 총정리.txt ▶ https:\/\/bit.ly\/3B3gM8r * 2022 공공기관... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 고민되네요",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1575649",
+			"description":"전공이 기계쪽이라 <b>직무<\/b>가 고민되네요...기구개발 쓸 거 같은데 SDI 써야하나 <b>전자<\/b> 써야 하나 하다가그 마저도 고민되네요... ※ 2020년 기업별 자소서\/인적성\/면접 가이드&amp;가이드북 리스트 &gt; 클릭 공기업 NCS + 전공 무제한... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>면접에 관한 질문이요",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10530748",
+			"description":"삼성<b>전자 직무<\/b>면접에서 어떤 유형이 나올지 아시는분 계시나요?? 꼭 봐야할 이번주 독취사 인기글 * 공무원 올인하다가 포기했습니다. ▶ https:\/\/bit.ly\/3iXimPl * 국민취업제도 등! 2020 청년정책 모음... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 자소서 <b>직무<\/b>관련 경험",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11570236",
+			"description":"삼성<b>전자<\/b> 서류모집이 3월 중순부터 시작되는걸로 알고있습니다. 저는 석사학위를 했는데 학위때 했던 연구내용이 <b>직무<\/b>와 크게 연관되지 않아 자소서를 어떻게 써야 할지 고민이네요 일단은 역량... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> scm <b>직무<\/b> 관련 질문 드립니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11528053",
+			"description":"다름이 아니라, 이번 상반기에 삼성<b>전자<\/b> scm <b>직무<\/b>에 지원해 볼 생각으로 열심히 활동들을 정리해보고 있습니다. (물류관련 전공) 삼성<b>전자<\/b> 사이트에서는 크게 많은 설명이 있지는 않던데 혹시 어떤... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 지원 <b>직무<\/b> 고민되네요ㅠㅠ",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1839883",
+			"description":"화학과 학사,석사 졸업하고 삼성<b>전자<\/b> 지원하려고 하는데, <b>직무<\/b> 어디로 지원해야할지 모르겠네요ㅠㅠ 화학과면 공정기술이나 공정설계가 낫다고 하는데.. 고민되네요 30살 남자 현실적인 급여... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>관련 경력 연구실",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10469256",
+			"description":"삼성<b>전자 직무<\/b>관련 경력란에 해외대학교 연구실에서 인턴한거 써도 될까요? 아님 대외로 써야할지 ㅜ 꼭 봐야할 이번주 독취사 인기글 * 면접 최악의 답변, 꼭 기억하세요! ▶ https:\/\/bit.ly\/2FbI18t... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 채용! 삼성<b>전자<\/b> 자소서 항목 및 <b>직무<\/b>\/합격스펙\/인재상 등 채용정보 확인",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1463628",
+			"description":"▶ 삼성<b>전자 직무<\/b> 더 자세한 내용은 삼성전자 채용공고를 통해서 확인해주세요. 삼성전자 자소서 항목을 알아보겠습니다.삼성전자는 직무별로 자소서 항목이 다르기 때문에 본인이 직원하는 직무를 꼭 확인해주셔야... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>관련 경력",
+			"link":"http:\/\/cafe.naver.com\/specup\/6322284",
+			"description":"삼성<b>전자<\/b> 자소서 강의를 듣는 중에 호프집 경력을 이력서에 쓰고 이를 자소서에 녹였다는 합격 예시를 보았습니다.이력서에 썼다는게 <b>직무<\/b>관련 경력란에 썼다는 걸까요?알바 경력을 <b>직무<\/b>관련 경력란에 써도 될까요?... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"렛유인 삼성<b>전자 직무<\/b>관련강의 들어보신 분 계신가요??",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10759883",
+			"description":"렛유인 삼성<b>전자 직무<\/b>관련강의 들어보신 분 계신가요?? 직무별로 2~3만원, 짧은 강의들이 들어있는 것 같은데 도움이 될지 궁금합니다. 취업 준비나 스펙 준비에 있어 도움이 되는 내용이 있나요?... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> ds 5급 제조직 <b>직무<\/b>적성검사 질문이요 ㅠ",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11805366",
+			"description":"ly\/3ybhrUm ★ 토스&amp;오픽 레벨별 맞춤전략 https:\/\/bit.ly\/3ugUyOp 책 어떤걸로 공부해야할까요?? gsat 아니면 제조<b>직무<\/b>적성검사? 헷갈려서 여쭤봅니다 ㅠ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"하이트진로 전기\/<b>전자 직무<\/b> 자기소개서 첨삭 부탁드립니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10437371",
+			"description":"지원동기 및 해당 직무에 적합하다고 판단할 수 있는 이유 및 근거를 기재해 주십시오.(구체적 사례\/경험) [설비 엔지니어로 나아가는 길] 하이트진로 회사의 전기\/<b>전자 직무<\/b>에서 생각하는 중요한 역량은 생산 현장 설비를... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>관련 질문입니다.",
+			"link":"http:\/\/cafe.naver.com\/winspec\/268696",
+			"description":"ly\/3k6ZfEC 여름방학동안 하반기 완벽 대비 취업전략&amp;<b>직무<\/b>선정&amp;자소서&amp;인적성&amp;면접까지 전 과정 ALL CARE &lt;★소수정예★ 10주 관리형 종합반 103기&gt; https:\/\/bit.ly\/3m9xwWj ★스캔미팅 진행★ 홍기찬 <b>직무<\/b>중심... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"LG <b>전자<\/b> HW <b>직무<\/b>지필고사 무슨 과목나오나요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7077182",
+			"description":"질문 그대로 LG <b>전자 직무<\/b>지필 고사 공부를 좀 해가야 될 거 같은데 졸업한지 좀 지났더니 하나도 기억이 안나네요 ㅠ LG 전자 HW 직무지필고사 무슨 과목나오나요?",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>전자<\/b>공학 <b>직무<\/b>면접 대비 PT발표 스터디 모집",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11706046",
+			"description":"<b>전자<\/b>공학 <b>직무<\/b>면접 대비 PT발표 스터디 모집 (비대면, 회비\/벌금 없음, 참관 가능) 당신은 이 질문에 즉시 논리있게 대답할 수 있나요? - Hysteresis에 대해 설명하라. - Fourier Transform에 대해 설명하라. - Fermi... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"LG<b>전자 직무<\/b>지필시험 준비",
+			"link":"http:\/\/cafe.naver.com\/specup\/5524592",
+			"description":"LG<b>전자 직무<\/b>지필시험은 보통 어떻게 준비하는지 아시나요?어디서 본 바로는 기사 시험하고 비슷한 형식에 비슷한 난이도로 나온다고 하던데...직무지필시험 문제를 어디서 구하시나요? 2018 하반기 SPC 채용 자소서... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>관련 질문 드립니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9103371",
+			"description":"삼성<b>전자 직무<\/b>에 대해서 보고 있었는데 궁금한게 생겨서 여쭤봅니다. 메모리 사업에 공정기술과 설비기술이라는 직무가 있는데 각 직무에 어울리는 추천과목과 필요 역량에 대해서 보고 있었습니다. 그런데 저는 설비기술... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 관련해서 문의드립니다.",
+			"link":"http:\/\/cafe.naver.com\/winspec\/225434",
+			"description":"우선 제 스펙은 지방국립대(부산, 경북대 X) <b>전자<\/b>과, 학점 4.06, 토익 830 토스6 (130), 전기기사, 한국사1급, 장교전역자 입니다. 주변 친구들은 학벌을 고려해서 파운드리 설비 <b>직무<\/b>로 준비해라고 하는데 선생님 강의를... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 질문합니다~",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7453929",
+			"description":"이번 상반기 취업 준비를 하면서 삼성<b>전자 직무<\/b>에 대해 많이 알아보고 전반적으로 이해를 하고 있습니다.. 일단 저는 메모리 사업부 입사를 희망하고 있는데요 물리학과 여학생이라는 관점에서 f직군... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>전자<\/b>공학과 반도체 지망 휴학생 공부할거....",
+			"link":"http:\/\/cafe.naver.com\/specup\/7012963",
+			"description":"하지만 여기서 망설여지는건, 삼성<b>전자 직무<\/b>기술서를 봤을 때 Deep learning이 언급된 분아가 공정설계밖에 없어서 반도체와 크게 관련이 있는지 의문입니다. 답변 주시면 정말정말 감사하겠습니다... 대학생... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 반도체 <b>직무<\/b>(공정설계, 공정기술)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11529485",
+			"description":"삼성<b>전자<\/b> 반도체 공정설계와 공정기술 <b>직무<\/b> 지원을 고민 중인데 부서마다 다르겠지만 <b>직무<\/b>에 있어서 차이를 알고 싶습니다 꼭 봐야할 이번주 독취사 인기글 공기업 자회사 세전 급여표.jpg... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 기계과지원 <b>직무<\/b>좀 알려주세요 ㅜㅜ",
+			"link":"http:\/\/cafe.naver.com\/specup\/6039072",
+			"description":"삼성<b>전자<\/b>에 기계<b>직무<\/b>로 지원하려고 하는데 생산설비 공정설비 이런 쪽으로 가면 무슨일 하는지 현직자분들 알려주실수있나요!!! 정말 궁금해요 현직자분들 어떤일 하시는지 알려주세요 ㅎㅎ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>전자<\/b>공학 <b>직무<\/b>면접 대비 PT발표 스터디 모집",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11695591",
+			"description":"<b>전자<\/b>공학 <b>직무<\/b>면접 대비 PT발표 스터디 모집 당신은 이 질문에 즉시 논리있게 대답할 수 있나요? - Hysteresis에 대해 설명하라. - Fourier Transform에 대해 설명하라. - Fermi-Dirac Function과 Fermi level에 대해... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[공식앱][삼성<b>전자직무<\/b>적성검사 gsat책][30,000원]",
+			"link":"http:\/\/cafe.naver.com\/joonggonara\/808839115",
+			"description":"+가격 : 30,000 원 +상품 : 삼성<b>전자직무<\/b>적성검사 gsat책 +상태 : 중고 배송비있음 안전결제 gsat 책 사진에 나와있는거 4권 묶어서 팝니다. 낙서흔적 1도 없고 거의 새책입니다. 저 네권정도 풀면 합격하기 충분합니다.... ",
+			"cafename":"중고나라",
+			"cafeurl":"https:\/\/cafe.naver.com\/joonggonara"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>적합성",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10232734",
+			"description":"다름이 아니라 위 분야의 <b>직무<\/b> 적합성이 <b>전자<\/b>제품의 구성 및 동작원리를 이해하기 위한 <b>전자<\/b>기기 관련지식, 전기·<b>전자<\/b>회로, 디지털회로 설계에 필요한 역량 보유자 ex) RF통신... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 우대 질문",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10877140",
+			"description":"주로 스펙이나 대외활동보다는 <b>직무<\/b>경험및 실습경험이 더 중요시 하다고 알고있습니다. 이론교육 몇개 들은게 있고 실습은 할 ㅇ예정입니다. 어학도 높이고 있습니다. 그럼 설비직에서 가장 어떤걸... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 반도체 <b>직무<\/b> 면접 어떻게 준비하나요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11704524",
+			"description":"딘순히 지원<b>직무<\/b> 관련 전공면접정도 준비하면 될까요? 아니면 반도체 산업을 포괄하는 방향으로 준비 해야하나요 ? 꼭 봐야할 이번주 독취사 인기글 6,784 VIEW | 대기업 → 중소 반대로... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"LG<b>전자 직무<\/b>지필 질문드려요...",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6686336",
+			"description":"LG<b>전자<\/b> R&amp;D 부분 지원해서 서류합격하게 되었는데요 저는 전기공학과라서 H\/W 희망했는데 기구쪽으로 배정이 되었더라구요... <b>직무<\/b>지필 검사 시행한다고 하는데 학과가 달라도 기구쪽이면 기계공학관련 <b>직무<\/b>지필 검사... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>전자 직무<\/b>선택",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10356773",
+			"description":"안녕하세요 현재 <b>전자<\/b>과 3학년 재학중입니다.현재까지 들은 과목들 중 통신 분야를 제외하곤 다 잘맞는다고 느꼈는데 어떻게 <b>직무<\/b>를 좁혀야할지 모르겠네요ㅠㅠ 다들 <b>직무<\/b>선택 어떻게 하시나요? ★심층 기업분석법 공개!... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 선택",
+			"link":"http:\/\/cafe.naver.com\/specup\/5766083",
+			"description":"첫 취준이라 <b>직무<\/b> 선택부터 막히네요 회로 설계쪽 희망하는데 구체적으로 정하기 힘든 것 같아요... ※스펙업 BEST 이야기※2018 하반기 삼성<b>전자<\/b> 네트워크사업부에 최종합격했습니다. 2018 하반기 SK이노베이션에... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"lg<b>전자<\/b> 인적성 <b>직무<\/b>지필...",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7098423",
+			"description":"lg<b>전자 직무<\/b>지필 신나게 풀다가 너무 신나게 푼 나머지 마킹 시간을 제대로 분배 못해서 다 풀고 12문제 정도밖에 마킹을 못했네요..ㅠㅠㅠㅠ 하...제 자신에게 너무 화가 납니다 ㅠㅠㅠ 이 정도로 마킹 못했으면 그냥... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 지원서 <b>직무<\/b>관련 내용",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1773886",
+			"description":"삼성<b>전자<\/b> 지원서 작성하다 보면 <b>직무<\/b>관련 수상내용, <b>직무<\/b>관련 대내외 활동 같은거 적으라고 돼있는데, 반드시 <b>직무<\/b> 관련 된 것만 적어야되나요? <b>직무<\/b>와 관련은 덜한데, 다른 분야에서 교내 수상... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"LG<b>전자<\/b> 지원동기와 역량 작성팁",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11653064",
+			"description":"https:\/\/meet.lg.com\/learn\/duties\/IntroduceDuties.rmi 위 사이트에서 LG<b>전자 직무<\/b>와 요구하는 역량들을 자세히 볼 수 있으니 참고하시기 바랍니다~ 꼭 봐야할 이번주 독취사 인기글 20대 후반부터 가장 크게 바뀌는... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>전자<\/b>설계 <b>직무<\/b> 어떤가요??",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10390580",
+			"description":"면접을 본 <b>직무<\/b>는 기구설계 <b>직무<\/b>였는데 첫 출근을 해보니 <b>전자<\/b>설계 <b>직무<\/b>로 배정받게 되었습니다. <b>전자<\/b>설계 관련해서는 이론적으로도 아는 지식이 부족하고 관련 경험이나 업무를 수행해본 적도 없는데... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 반도체 <b>직무<\/b> 채용 준비",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11528494",
+			"description":"여러분은 삼성<b>전자<\/b> 반도체 <b>직무<\/b> 채용 준비 어떻게 하시나요? 저는 문과라서 영업마케팅으로 지원할 예정인데 어디서부터 시작해야할지 막막하네요ㅠㅠ 저 같은 분들도 계실까요 꼭 봐야할... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"lg<b>전자 직무<\/b>지필시험",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7475371",
+			"description":"안녕하세요 이번 하반기 취준생입니당 lg<b>전자<\/b> 채용 절차를 보니까 <b>직무<\/b>지필시험이라는 게 있던데 저는 기구쪽 기계공학 문제를 풀어야할 것 같은데 그 수준이 어느 정도인가요??? 경험 있으신 분들 알려주세요!!!!... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"서교공 기술직 <b>전자 직무<\/b>기술서 보기가 어렵네요..",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/941328",
+			"description":"서교공 기술직 <b>전자<\/b>쪽으로 지원하려고 <b>직무<\/b> 기술서 보고 있는데.. 정보통신 같은 경우는 (철도정보통신 시설물 유지보수)라고 따로 구분이 되어 있는것 같은데 <b>전자<\/b> 같은 경우는 능력단위, 필요기술, 필요지식 란에 <b>전자<\/b>가... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"LG<b>전자 직무<\/b>적합시험 어떻게들 준비하시나요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/8628460",
+			"description":"이번에 LG<b>전자<\/b> H&amp;E 부문 기구 서류 합인데 <b>직무<\/b>적합시험 에듀스로만 준비하면 되나요?제가 재료공학 전공인데 <b>직무<\/b>적합시험은 기계문제라 공부하기가 빡세네요;;;그리고 LG 서류 3개다 합격한 후에 인적성도 다 통과하면... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자<\/b> DS <b>직무<\/b> 질문",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11069271",
+			"description":"삼성<b>전자<\/b> DS 취업희망하는 취준생입니다. 지원<b>직무<\/b>를 고민중인데 회로설계, 설비기술, 반도체공정설계, 반도체공정기술 신입채용 대략적인 티오나 결정적인 차이점이 있을까요? 꼭 봐야할 이번주... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>역량 준비에 관련하여 상담 부탁드립니다.",
+			"link":"http:\/\/cafe.naver.com\/winspec\/233196",
+			"description":"26살 남입니다.이번 상반기 공채가 첫 시즌이고, 삼성<b>전자<\/b>에 도전하고자 합니다.가장 가고싶은 <b>직무<\/b>는 생활가전사업부 품질\/서비스 <b>직무<\/b>인데, to가 있을지 모르겠어서파운드리 평가 및 분석 쪽도 준비를 같이 하려고... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 중 공정 설비와 공정 설계가 궁금합니다.",
+			"link":"http:\/\/cafe.naver.com\/specup\/6489485",
+			"description":"삼성<b>전자<\/b> DS 메모리 부서 공정 설비와 공정설계 <b>직무<\/b>의 차이와 TO는 어떻게 차이나는지도 궁금합니다. 기계과는 어디에 지원하는게 좋을까요?",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 반도체 <b>직무<\/b> 질문드립니다",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11527971",
+			"description":"삼성<b>전자<\/b> 공정설계와 공정기술 <b>직무<\/b>의 큰 차이점이 무엇일까요 JD를 읽어봐도 명확한 차이를 알 수 없네요 ㅜ 꼭 봐야할 이번주 독취사 인기글 공기업 자회사 세전 급여표.jpg ▶ https:\/\/bit.ly... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[서울\/강남] (주)인바디 혈압계사업파트 <b>전자<\/b>개발(신입) 채용",
+			"link":"http:\/\/cafe.naver.com\/carroty\/371031",
+			"description":"모집<b>직무<\/b> <b>직무<\/b>소개 및 요구역량 우대사항 지원자격 근무지 <b>전자<\/b>개발 [<b>직무<\/b>소개] • 혈압계 <b>전자<\/b> 회로 설계 - 증폭회로, 필터회로, 제어회로, 센서회로, 모터제어회로, 통신모듈제어회로, 전원회로 • AVR, STM, PIC... ",
+			"cafename":"당근이의 AVR 갖구 놀기",
+			"cafeurl":"https:\/\/cafe.naver.com\/carroty"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/biggiup\/118775",
+			"description":"<b>직무<\/b>면접 때문에 막막한데 기계부분분들 어떻게 준비하고 계시나요 ?ㅠ 전 기계일반 책으로 보고 있는데 맞는지 모르겠네요..",
+			"cafename":"고졸 채용 (취업, 공채) 시험을 준비하...",
+			"cafeurl":"https:\/\/cafe.naver.com\/biggiup"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/specup\/6765928",
+			"description":"화학공학과 전공 했고 ncs기반으로 반도체 이론강의와 패터닝 실습 경험 있습니다 이번에 삼전채용 <b>직무<\/b>에 어느쪽에 맞을가요 Ds부문 반도체 공정기술 지원할라하는데 괜찮을가요? 취준생 베스트 인기글... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>전자<\/b> 면접 전공 질문??",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11705388",
+			"description":"삼성<b>전자 직무<\/b> 면접은 전공 지식을 많이 묻나요 아니면 직무 관련 경험 위주로 많이 물어보나요? 비율이 궁금하네요 꼭 봐야할 이번주 독취사 인기글 6,784 VIEW | 대기업 → 중소 반대로... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>선택",
+			"link":"http:\/\/cafe.naver.com\/specup\/6767075",
+			"description":"다들 <b>직무<\/b>선택하셨나요? 공기 공설... 어디로 써야될지 너무 망설여집니다. ㅠㅠ 너무 어렵네요 취준생 베스트 인기글 입사한지 5일, 꿈의 기업에서 면접제의 왔습니다ㅜ ▶https:\/\/vo.la\/e3qQX 퇴사하고나니... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		}
+	]
+}

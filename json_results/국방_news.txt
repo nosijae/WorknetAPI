@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:19 +0900",
+	"total":2302167,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"‘K-방산’ 폴란드 ‘잭팍’…전차·자주포·경공격기 동시 수출길",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20220727000817",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002021345?sid=100",
+			"description":"마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부 장관은 이날 바르샤바 <b>국방<\/b>부 본부에서 열린 체결식에서 “우크라이나 지원으로 인해 지상·공중전력 공백을 채워야 했는데 기술, 가격, 도입시기 등을 고려할 때... ",
+			"pubDate":"Wed, 27 Jul 2022 18:31:00 +0900"
+		},
+		{
+			"title":"홍콩 입법회 의원 일행 구미 찾아..협력방안 논의",
+			"originallink":"https:\/\/bit.ly\/3bcRTP9",
+			"link":"https:\/\/bit.ly\/3bcRTP9",
+			"description":"홍콩 입법회 의원 일행은 오는 29일까지 구미의 이차전지와 반도체, 메타버스, <b>국방<\/b>분야 등의 협력 방안을 모색할 예정입니다. 한편, 우제좡 의원은 1990년대에 안면인식기와 지문인식기를 개발해 미국 실리콘밸리까지... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"7세대 요가 노트북 韓 출시 레노버 &quot;언밸런스 프리미엄은 그만&quot;",
+			"originallink":"http:\/\/www.bloter.net\/newsView\/blt202207270026",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000039982?sid=105",
+			"description":"다층 탄소섬유로 강화된 상판은 미국 <b>국방<\/b>부 군사 규격 MIL-STD-810H를 통과해 강한 내구성을 입증받았다. 경량, 슬림형 노트북은 내구성이 약할 수밖에 없다는 단점을 보완한 제품이다. 또 TUV 로우 블루라이트 인증을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:23:00 +0900"
+		},
+		{
+			"title":"&quot;구미와 홍콩, 상호 협력하는 동반자 되길&quot;",
+			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490265",
+			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490265",
+			"description":"이들의 이번 구미 방문은 한국 첨단산업의 심장부인 구미시의 산업분야 투자와 이차전지, 반도체, 메타버스, 항공<b>국방<\/b> 분야 협력 타진을 위한 것이다. 김장호 구미시장은 면담에서 홍콩경제와 정치에서 중요한 역할을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"폴란드 정부 &quot;한국에 K2 1000대·FA-50 3개 편대·K-9 600문 주문&quot; [종합]",
+			"originallink":"https:\/\/www.hankyung.com\/politics\/article\/2022072783237",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729979?sid=100",
+			"description":"마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부 장관은 한국에 K2 전차 1000대와 K-9 자주포 600여문, FA-50... 앞서 폴란드 <b>국방<\/b>부는 웹사이트를 통해 브와슈차크 장관이 한국과 무기 도입 계약안을 승인할 것이라고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"현대로템·KAI·한화디펜스, 폴란드에 20조 규모 무기 수출",
+			"originallink":"https:\/\/biz.chosun.com\/industry\/company\/2022\/07\/27\/EQOXQK3IU5AIJEEGS3JM3SJZBU\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000830418?sid=101",
+			"description":"27일 방산업계에 따르면 마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관은 폴란드 <b>국방<\/b>부 웹사이트에 이같은 내용을 공개했다. 공지문에 따르면 폴란드는 1단계로 현대로템(064350)이 생산하는 K2 전차 180대를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:21:00 +0900"
+		},
+		{
+			"title":"[fn스트리트] 한국전 추모의 벽",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271820161365",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874253?sid=110",
+			"description":"27일 이 기념공원에서 이종섭 <b>국방<\/b>장관과 박민식 보훈처장 등이 참석한 가운데 새 조형물이 공개됐다. 화강암 소재의 '추모의 벽'(높이 1m, 둘레 130미터)이다. 벽면엔 한국전에서 전사한 미군(3만6634명)과 카투사(7174명)... ",
+			"pubDate":"Wed, 27 Jul 2022 18:21:00 +0900"
+		},
+		{
+			"title":"폴란드 &quot;K2·FA-50 등 도입계약 추진&quot;... 방사청 &quot;총괄합의 체결&quot;",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075798",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075798",
+			"description":"마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관은 체결식에서 &quot;폴란드의 우크라이나 지원으로 인해... 겸 <b>국방<\/b>부장관, 야로스와프 미카 총사령관, 아르투르 쿱텔 군비청장 등이 참석한 가운데 폴란드 <b>국방<\/b>부에서... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"폴란드 &quot;한국과 K-2전차·FA-50공격기·K-9자주포 도입계약&quot;",
+			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000073769?division=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000296496?sid=100",
+			"description":"폴란드 정부는 마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관이 27일 현지시간 바르샤바 <b>국방<\/b>부 본부에서 폴란드군 장비 구매를 위해 한국과 체결한 군비 계약을 승인할 예정이라고 공식 홈페이지를 통해... ",
+			"pubDate":"Wed, 27 Jul 2022 18:19:00 +0900"
+		},
+		{
+			"title":"폴란드, 한국 무기 3종 도입 계약 체결... K-방산 ‘대박’ 터지나",
+			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065603972280199",
+			"link":"https:\/\/idsn.co.kr\/news\/view\/1065603972280199",
+			"description":"27일 폴란드 정부 웹사이트에서 마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관은 한국과 무기 도입 계약안을 승인할 것이라고 공개했다. 폴란드 <b>국방<\/b>부 공지문에 따르면, 폴란드는 K2 전차를 1차적으로 180대... ",
+			"pubDate":"Wed, 27 Jul 2022 18:18:00 +0900"
+		},
+		{
+			"title":"폴란드 &quot;K-2전차·K-9 자주포· FA-50 경공격기 도입&quot; 공식 발표",
+			"originallink":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072718142155764",
+			"link":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072718142155764",
+			"description":"마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관은 27일(현지시간) 한국과 이런 무기 도입 계약안을 승인할 것이라고 폴란드 <b>국방<\/b>부가 웹사이트를 통해 밝혔다. 웹사이트 공지문에 따르면 폴란드는 1단계로 K2 전차... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"&quot;韓서 K-2 전차·K-9 자주포·FA-50 경공격기 구매&quot;",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1361045",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1361045",
+			"description":"방어력을 실질적으로 강화할 것&quot;이라며 이 같이 밝혔습니다. <b>국방<\/b>부도 동남아 최대 방산 시장인 인도네시아처럼 폴란드 현지에도 조만간 대사관 <b>국방<\/b>무관 외에 계약 이행을 전담하는 무관을 별도로 파견할 계획입니다.",
+			"pubDate":"Wed, 27 Jul 2022 18:14:00 +0900"
+		},
+		{
+			"title":"폴란드, 한국 K2 180대·FA-50 48대·K9 48문 도입…25조원대 규모",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604428",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604428",
+			"description":"마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관이 27일(현지시간) K2 전차 등 무기 도입 계약을... 폴란드 정부는 &quot;이번 한국 무기 도입으로 폴란드의 억지력과 <b>국방<\/b> 잠재력을 실질적으로 강화할 것&quot;이라며... ",
+			"pubDate":"Wed, 27 Jul 2022 18:14:00 +0900"
+		},
+		{
+			"title":"韓총리 &quot;北, 도발 안 멈춰…안보 굳건히 지킬 것&quot;",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=389800",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=389800",
+			"description":"한덕수 국무총리는 27일 &quot;대한민국 정부는 대화와 협력의 노력을 이어가면서 확고한 한미동맹과 튼튼한 <b>국방<\/b>으로 안보를 굳건히 지켜나가겠다&quot;고 강조했다. 한 총리는 이날 서울 동대문디자인플라자에서 열린 6·25전쟁... ",
+			"pubDate":"Wed, 27 Jul 2022 18:14:00 +0900"
+		},
+		{
+			"title":"국토부-<b>국방<\/b>부 민군 기술교류 협약 체결…드론·UAM 산업 활성화",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220727180437378",
+			"link":"https:\/\/www.ajunews.com\/view\/20220727180437378",
+			"description":"com 도심항공교통(UAM) [사진=국토교통부] 국토교통부와 <b>국방<\/b>부가 드론·도심항공교통(UAM) 활성화를 위해 손을 맞잡는다. 국토부와 <b>국방<\/b>부는 27일 오후 서울 용산 육군회관에서 어명소 국토부 2차관과 신범철 <b>국방<\/b>부 차관이... ",
+			"pubDate":"Wed, 27 Jul 2022 18:14:00 +0900"
+		},
+		{
+			"title":"中, 펠로시 대만방문 가능성에 &quot;마지노선 건드리지말라&quot;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958698&cID=10101&pID=10100",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330357?sid=104",
+			"description":"전날 중국 <b>국방<\/b>부도 펠로시 의장이 대만 방문을 강행할 경우 강경 대응할 것이라는 입장을 밝혔다. 중국 <b>국방<\/b>부는 “펠로시의 대만 방문은 중국의 주권과 영토 보존을 심각히 훼손하고 미중관계 정치기초를 파괴할 것”... ",
+			"pubDate":"Wed, 27 Jul 2022 18:13:00 +0900"
+		},
+		{
+			"title":"폴란드 &quot;한국에 K2 1천대·FA-50 3개편대·K-9 600문 주문&quot;(종합2보)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727090752504?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338841?sid=100",
+			"description":"<b>국방<\/b>부 장관 &quot;연말 전에 새 무기 받을 수도&quot; 1단계 K2 180대·FA-50 48대·K-9 48문…전차·자주포 추가물량은... 마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부 장관은 한국에 K2 전차 1천대와 K-9 자주포 600여문, FA-50... ",
+			"pubDate":"Wed, 27 Jul 2022 18:13:00 +0900"
+		},
+		{
+			"title":"경남도, 여당에 &quot;항공우주산업 기관 집적화&quot; 건의",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322482",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322482",
+			"description":"특히 항공우주청 사천 설치 현안은 과기부, 산업부, <b>국방<\/b>부 등 많은 부처의 업무 조정이 필요한 사항이므로 대통령실 또는 총리실 중심으로 적극적인 협의를 할 수 있도록 국민의힘 차원의 지원을 요청했다. 박 지사는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"박완수 경남도지사, 국회 에어로스페이스 발전세미나 참석",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322499",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322499",
+			"description":"\/경남도 우주<b>국방<\/b> 강화·경남항공우주산업클러스터 주제로 세미나 항공우주청 설립 위한 항우연 등... 이날 행사는 하영제 의원의 개회사 및 신원식·홍석준 의원의 환영사, 박완수 도지사의 축사로 시작해 <b>국방<\/b> 우주력... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"홍남표 창원시장, 기재부 찾아 내년 국비확보 박차",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322530",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322530",
+			"description":"행정<b>국방<\/b>예산심의관을 잇따라 만나 창원시 주요 국비 건의사업을 설명하고 적극적인 예산 반영을 요청했다.... 우주<b>국방<\/b> 소재·부품 OPEN FAB 구축사업 등 창원에 위치한 국책기관 사업을 포함해 총 18건 국비 4748억원이다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"대선 전날 ‘北선박 월선’ 文정부, 조사도 마치기 전에 송환 결정",
+			"originallink":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065592028878246",
+			"link":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065592028878246",
+			"description":"국민의힘 국가안보문란 실태조사 태스크포스(TF) 단장인 국민의힘 한기호 의원이 <b>국방<\/b>부로부터 받은 보고에... 한 의원 측은 이 과정에서 조사가 끝나기 전인 오후 5시경 <b>국방<\/b>부 북한정책과는 대북정책관으로부터 “월선... ",
+			"pubDate":"Wed, 27 Jul 2022 18:10:00 +0900"
+		},
+		{
+			"title":"홍남표 창원시장, 기재부 방문…내년 국비 확보 박차",
+			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=557568",
+			"link":"https:\/\/www.cnbnews.com\/news\/article.html?no=557568",
+			"description":"행정<b>국방<\/b>예산심의관을 잇따라 만나 창원시 주요 국비 건의사업을 설명하고 적극적인 예산 반영을... 우주<b>국방<\/b> 소재·부품 OPEN FAB 구축사업 등 창원에 위치한 국책기관 사업을 포함하여 총 18건 국비 4748억 원이다. 시는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"러시아, 위성 방해 '블라인드 레이저' 무기 시스템 구축 추진",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2022072716475451587c4c3f170b_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2022072716475451587c4c3f170b_1\/article.html",
+			"description":"우크라이나전에서 스타링크로 인해 러시아가 전술적 위험에 빠지고 있는 난관을 돌파하고자 레이저 무기 시스템을 발전시켜 스타링크 위성들을 무력화할 가능성이 높다고 전망했다. 이상욱 글로벌이코노믹 <b>국방<\/b>전문기자",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"[만파식적] 하이마스(HIMARS)",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OPNGA0Y",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004081035?sid=110",
+			"description":"측은 100문의 하이마스를 추가 지원해달라고 미국에 요청했다. 누구도 넘볼 수 없는 강력한 군사력을 갖춰야 주변국의 침공에 맞서 나라를 지킬 수 있다는 점을 깨닫게 된다. 자주 <b>국방<\/b>력 강화가 안보의 시작이다.",
+			"pubDate":"Wed, 27 Jul 2022 18:07:00 +0900"
+		},
+		{
+			"title":"레노버, 7세대 ‘요가’로 프리미엄 노트북 시장 공략",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207270174",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207270174",
+			"description":"미국 <b>국방<\/b>부 군사규격 기준을 통과할 정도로 내구성이 뛰어나다. 인텔이보 플랫폼 인증으로 응답처리가 빠르다. 배터리 수명도 지원한다. 색상은 문 화이트, 오닉스 그레이 2종이다. 가격은 135만원부터다. 하이엔드... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"폴란드, K2전차·K9자주포·FA-50경공격기 등 한국산 무기 대거 도입(종합)",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016476",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016476",
+			"description":"마리우슈 부아쉬착 폴란드 부총리 겸 <b>국방<\/b>부장관은 이날 체결식에서 &quot;폴란드의 우크라이나 지원으로... 부아쉬착 <b>국방<\/b>부 장관, 야로스와프 미카 폴란드군 총사령관, 아르투르 쿱텔 군비청장 등이 참석한 가운데... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"폴란드 “K-2전차 1000대 도입”… FA-50 경공격기·K-9 자주포 포함",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/07\/27\/20220727521670.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003719546?sid=100",
+			"description":"폴란드 정부는 27일(현지시간) 마리우시 브와슈차크 부총리 겸 <b>국방<\/b>부 장관이 한국산 K-2 전차, K-9 자주포, FA-50 경공격기 도입 계약을 승인했다고 밝혔다. 폴란드 정부는 공식 홈페이지를 통해 “한국과의 무기... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"[영상] 'K 방산' 대규모 수출길…폴란드 &quot;K2·FA-50 등 도입계약 추진&quot;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727157600704?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338829?sid=100",
+			"description":"마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관은 27일(현지시간) 한국과 이런 무기 도입 계약안을 승인할 것이라고 폴란드 <b>국방<\/b>부가 웹사이트를 통해 밝혔는데요. 웹사이트 공지문에 따르면 폴란드는 1단계로 K2... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"자오리젠 中외교부 대변인 &quot;美하원의장 대만 방문 단호히 반대&quot;",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755705",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244718?sid=104",
+			"description":"전날 중국 <b>국방<\/b>부도 펠로시 의장이 대만을 방문할 경우 &quot;반드시 강력하고 힘 있는 조치를 통해 어떤 외부... 이어 관계자를 인용해 <b>국방<\/b>부가 지난주 펠로시 의장에게 지역 위험성을 브리핑했다고 전했다. 이 자리에는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"[속보] 폴란드 &quot;한국에 K2 1000대·K9 600문·FA-50 3개 편대 주문&quot;",
+			"originallink":"http:\/\/www.busan.com\/view\/busan\/view.php?code=2022072718002518755",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001167017?sid=101",
+			"description":"스푸트니크 통신의 보도에 따르면 마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부 장관은 한국에 K2 전차 1000대와 K-9 자주포 600여문, FA-50 경공격기 3개 편대를 주문했다고 말했다. 브와슈차크 장관은 이날... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"[ET] 한국 반도체 놓고 미·중 힘겨루기…“너는 누구 편이냐?”",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5519297&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011310003?sid=104",
+			"description":"'반도체 지원법'의 근거가 되는 법안이 <b>국방<\/b>과 안보에 관한 <b>국방<\/b>수권법이거든요, 때문에 앞으로 '칩4' 국가들에 대해서는 중국에 반도체 장비를 수출하는 것을 제한하는 내용이 담길 수 있다는 얘기도 나오고 있습니다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"폴란드 &quot;한국 K-2전차·K-9자주포·FA-50 경공격기 도입 계약&quot;",
+			"originallink":"https:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=456298",
+			"link":"https:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=456298",
+			"description":"마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관은 이날 웹사이트를 통해 1단계로 K2 전차 180대를... 한편, 폴란드 <b>국방<\/b>장관의 이같은 공개에 대해 방위사업청은 이 계약이 추진될 것이라고 확인하면서도, 개별... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"폴란드 &quot;한국에 FA-50 3개 편대·K2 1천대·K9 600문 주문&quot;",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022072718021691881",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000768439?sid=104",
+			"description":"마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부 장관은 한국에 K2 전차 1천대와 K-9 자주포 600여문, FA-50... 앞서 폴란드 <b>국방<\/b>부는 웹사이트를 통해 브와슈차크 장관이 한국과 무기 도입 계약안을 승인할 것이라고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:03:00 +0900"
+		},
+		{
+			"title":"檢 ‘서해 공무원 피살’ 당시 해경 홍보 담당자 소환",
+			"originallink":"https:\/\/www.chosun.com\/national\/court_law\/2022\/07\/27\/5XCB7JGMDFCJNCOGMXJA7STNFM\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003706458?sid=102",
+			"description":"이씨 피살 사건을 수사한 인천해양경찰서의 신동삼 서장은 사건 발생 이틀 뒤인 2020년 9월24일 “<b>국방<\/b>부 관련 첩보 등을 종합해 볼 때 자진 월북 가능성을 배제할 수 없다”면서도 “상세하게 조사를 진행해 나갈... ",
+			"pubDate":"Wed, 27 Jul 2022 18:03:00 +0900"
+		},
+		{
+			"title":"폴란드 &quot;한국에 K2 1000대, K9 600문 주문&quot; 수출금액은?",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517405",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517405",
+			"description":"속보 (사진-국제뉴스DB) 폴란드 <b>국방<\/b>부는 27일(현지시간) K2 전차, K9 자주포, FA-50 경공격기 등 한국산 무기 3종을 대거 사들이는 기본계약(Framework Agreement)을 맺었다고 공식 발표했다. K2 전차는 180대를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"'6·25 전사자 유해 발굴' 3년 만에 재개된다",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC50000000&idx=341198",
+			"link":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC50000000&idx=341198",
+			"description":"<b>국방<\/b>부의 유해 발굴 사업이 부산지역을 시작으로 3년 만에 재개됩니다. <b>국방<\/b>부 유해발굴감식단은 이를 위해 27일 6·25 전사자 유가족과 보건소, 보훈처, 군부대 관계자 등 130여 명을 초청해 6.25전사자 유해 발굴... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"&quot;총과 병사 시대?···이젠 R&amp;D로 <b>국방<\/b>기술 키워야&quot;",
+			"originallink":"http:\/\/www.hellodd.com\/news\/articleView.html?idxno=97623",
+			"link":"http:\/\/www.hellodd.com\/news\/articleView.html?idxno=97623",
+			"description":"제68회 대덕이노폴리스포럼이 '신 냉전시대의 우리나라 국가 R&amp;D와 <b>국방<\/b> R&amp;D 융합 전략'을 주제로 27일 개최됐다. [사진=윤예본 기자]최근 세계에서는 미중 패권경쟁이 화두다. AI(인공지능), 반도체, <b>국방<\/b> 기술 등을 두고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"폴란드, 한국산 경공격기·전차·자주포 한꺼번에 산다",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958691&cID=10301&pID=10300",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330349?sid=100",
+			"description":"기사내용 요약 FA-50 48대, K2 전차 980대, K9 자주포 648대 <b>국방<\/b>부 공동취재단, 박대로 기자 = FA-50 국산 경(輕)... 마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>장관은 이날 체결식에서 &quot;폴란드의 우크라이나 지원으로... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"“사랑하오” 김호중, 기다린 보람있는 로맨틱 ‘약속’[들어보고서]",
+			"originallink":"https:\/\/www.newsen.com\/news_view.php?uid=202207271506140410",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/609\/0000608186?sid=106",
+			"description":"2020년 9월부터 서울 서초구 산하 복지시설에서 사회복무요원으로서 성실하게 대체 복무를 이어 온 김호중은 6월 9일 <b>국방<\/b>의 의무를 마무리했다. 소집 해제 후 세계 3대 테너 플라시도 도밍고와의 합동 공연, 서울 콘서트... ",
+			"pubDate":"Wed, 27 Jul 2022 18:01:00 +0900"
+		},
+		{
+			"title":"박동식 사천시장, 항공우주청 조기 사천 설치...어디든 달려간다",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207270171",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207270171",
+			"description":"이번 발전세미나는 하영제, 신원식, 홍석준 국회의원실과 (사)한국<b>국방<\/b>MICE연구원 주최로 뉴 스페이스 시대... 이날 세미나에는 군, 정부기관, 출연연, 학회, 단체 기업 관계자 등이 참여해 <b>국방<\/b>우주력 강화방안, 우주안보... ",
+			"pubDate":"Wed, 27 Jul 2022 18:00:00 +0900"
+		},
+		{
+			"title":"홍남표 창원특례시장, 내년 국비확보 위해 기획재정부 방문",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5793912",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003669152?sid=102",
+			"description":"행정<b>국방<\/b>예산심의관을 잇따라 만나 창원시 주요 국비 건의사업을 설명하고 적극적인 예산 반영을... 우주<b>국방<\/b> 소재·부품 OPEN FAB 구축사업 등 창원에 위치한 국책기관 사업을 포함해 총 18건 국비 4748억 원이다. 시는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:00:00 +0900"
+		},
+		{
+			"title":"<b>국방<\/b>TV <b>국방<\/b>FM 편성표",
+			"originallink":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/19\/BBSMSTR_000000010061\/view.do",
+			"link":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/19\/BBSMSTR_000000010061\/view.do",
+			"description":"※프로그램은 사정에 따라 바뀔 수 있습니다.",
+			"pubDate":"Wed, 27 Jul 2022 18:00:00 +0900"
+		},
+		{
+			"title":"&quot;영일만대교, 군 작전에 방해 안돼… 조속히 추진해야&quot;",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271757127456",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874174?sid=102",
+			"description":"이와 관련 이강덕 시장은 지난 17일 국회 <b>국방<\/b>위원회 소속 의원들을 만나 <b>국방<\/b>부 협의사항에 대해 진지하게 논의를 이어갔고, 이어 <b>국방<\/b>부 각 담당 부대를 찾아 세부협의를 통해 비행안전구역 고도제한 등에 대한 보완책을... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"폴란드 &quot;FA 50, K2전차, K9자주포 기본계약 체결&quot;…총 10조 넘을 듯",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OP9WKRZ",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004081019?sid=100",
+			"description":"마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관은 이날 체결식에서 &quot;폴란드의 우크라이나 지원으로... 겸 <b>국방<\/b>부장관, 야로스와프 미카 총사령관, 아르투르 쿱텔 군비청장 등이 참석한 가운데 폴란드 <b>국방<\/b>부에서... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"한기호·태영호 잇딴 ‘헛발질’에…국힘 안보TF ‘조기 종료’ 수순",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/politics\/assembly\/1052583.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002600229?sid=100",
+			"description":"이유동 티에프 대변인은 “<b>국방<\/b>위원회에서도 다룰 수 있는 영역이어서 (한 의원이) 그렇게 생각했을 것... 통일부·<b>국방<\/b>부 장관마저 이들이 제기한 문제가 사실이 아니라고 팩트를 바로 잡아 망신을 당한 바 있다. 한... ",
+			"pubDate":"Wed, 27 Jul 2022 17:57:00 +0900"
+		},
+		{
+			"title":"이종섭 <b>국방<\/b>부 장관 “참전용사 여러분은 대한민국의 진정한 영웅들”",
+			"originallink":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/4\/BBSMSTR_000000010021\/view.do",
+			"link":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/4\/BBSMSTR_000000010021\/view.do",
+			"description":"미 워싱턴서 유가족 초청 만찬 행사 이 장관, 추모의 벽 건립 의미 강조 알링턴 국립묘지 ‘무명용사의 묘’ 참배 미국을 공식 방문 중인 이종섭 <b>국방<\/b>부 장관은 26일(현지시간) 미 워싱턴DC에서... ",
+			"pubDate":"Wed, 27 Jul 2022 17:56:00 +0900"
+		},
+		{
+			"title":"방사청 대전 이전, 연내 가닥 잡히나",
+			"originallink":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=671935",
+			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=671935",
+			"description":"방산혁신클러스터조성사업은 드론 인프라 및 <b>국방<\/b> R&amp;D 역량 집적을 통한 혁신 생태계 구축하는 내용으로... 시는 방사청 이전을 위해 먼저 기능별 4개 분과(위원장단, 기획분과, 대외협력분과, 홍보분과)로 운영되는 '<b>국방<\/b>... ",
+			"pubDate":"Wed, 27 Jul 2022 17:54:00 +0900"
+		},
+		{
+			"title":"알링턴 참배한 이종섭 “한미동맹, 가장 강력하고 모범적”",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017317624&code=61111911&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001542681?sid=100",
+			"description":"방미 중인 이종섭 <b>국방<\/b>부 장관이 26일(현지시간) 미국 워싱턴DC 알링턴 국립묘지를 참배했다. <b>국방<\/b>부는 27일 이 장관이 알링턴 국립묘지를 찾아 ‘무명용사의 묘’에 헌화했다고 밝혔다. 이 장관은 6·25전쟁을 비롯해... ",
+			"pubDate":"Wed, 27 Jul 2022 17:53:00 +0900"
+		},
+		{
+			"title":"방사청, 폴란드에 탱크·자주포·경공격기 수출",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/politics\/defense\/1052581.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002600225?sid=100",
+			"description":"폴란드 <b>국방<\/b>부가 한국과 K2 흑표 전차, K-9 자주포, FA-50 경공격기 도입 계약을 체결한다고 누리집을 통해 공개했다. 폴란드 <b>국방<\/b>부는 마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관이 27일(현지시각) 오전... ",
+			"pubDate":"Wed, 27 Jul 2022 17:53:00 +0900"
+		},
+		{
+			"title":"“한국은 유엔 참전용사가 보여주신 인류애 늘 기억”",
+			"originallink":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/6\/BBSMSTR_000000010028\/view.do",
+			"link":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/6\/BBSMSTR_000000010028\/view.do",
+			"description":"한미동맹·튼튼한 <b>국방<\/b> 실현” 6·25전쟁 당시 함께 대한민국을 지킨 22개국 유엔 참전용사의 희생·공헌에... 튼튼한 <b>국방<\/b>으로 안보를 굳건히 지켜나가겠다”고 강조했다. 행사는 정전협정 당시 영상과 함께... ",
+			"pubDate":"Wed, 27 Jul 2022 17:52:00 +0900"
+		},
+		{
+			"title":"진격의 K방산, 폴란드에 19조 수출",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662899&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997202?sid=101",
+			"description":"27일 폴란드는 정부 웹사이트를 통해 마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부 장관이 이 같은 한국산 무기 도입 계약을 승인할 것이라고 발표했다. 발표에 따르면 폴란드는 현대로템의 K2 흑표전차와... ",
+			"pubDate":"Wed, 27 Jul 2022 17:52:00 +0900"
+		},
+		{
+			"title":"내달 뜨는 UAM법, 항공규제 확 푼다",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662892&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997197?sid=101",
+			"description":"윤석열 대통령이 대통령 집무실을 청와대에서 용산구 <b>국방<\/b>부 청사로 옮기면서 비행금지구역이 용산구... 국토부는 비행금지구역 규제 해소를 위한 초기 논의를 <b>국방<\/b>부, 서울시 등과 착수한 것으로 알려졌다. 다만... ",
+			"pubDate":"Wed, 27 Jul 2022 17:51:00 +0900"
+		},
+		{
+			"title":"우주청 유치경쟁 대전·경남, '인공위성 클러스터' 두고 2라운드",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727155700063?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338798?sid=101",
+			"description":"세미나 참석자들은 대덕연구개발특구에 모여있는 항공우주연구원, 천문연구원, 전자통신연구원, <b>국방<\/b>과학연... 그러면서 &quot;항공우주청을 사천에 설치하려면 과기부, 산업부, <b>국방<\/b>부 등 많은 부처의 업무 조정이 필요하다&quot;며... ",
+			"pubDate":"Wed, 27 Jul 2022 17:49:00 +0900"
+		},
+		{
+			"title":"5년치 수출 7개월만에 달성한 K방산…세계 톱5가 보인다",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662881&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997189?sid=101",
+			"description":"재검점하고 <b>국방<\/b> 예산을 늘리면서 방산수출 기회가 확대될 것으로 보고 적극 지원한다는 방침이다. 정부는 사실상 대규모 수출이 성사된 폴란드에는 방산 협력을 전담할 무관을 별도 파견할 예정이다. <b>국방<\/b>부도 지난... ",
+			"pubDate":"Wed, 27 Jul 2022 17:49:00 +0900"
+		},
+		{
+			"title":"박동식 사천시장 에어로스페이스 발전 세마나 참석",
+			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/626170",
+			"link":"http:\/\/www.sentv.co.kr\/news\/view\/626170",
+			"description":"한국<b>국방<\/b>MICE연구원 주최로 뉴 스페이스 시대 전환기에 항공우주분야 산업의 효율적 시너지 창출과 군 항공우주력 발전을 도모하기 위해 개최된 것.   이날 군, 정부기관, 출연연, 학회, 단체 기업 관계자 등이 참여해 <b>국방<\/b>우... ",
+			"pubDate":"Wed, 27 Jul 2022 17:48:00 +0900"
+		},
+		{
+			"title":"전쟁 코앞서 지켜본 폴란드, 러 위협 현실화에 군비증강",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662876&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997186?sid=100",
+			"description":"내년 <b>국방<\/b>비 GDP 3%로 증액 ◆ 사상최대 무기 수출 ◆ 폴란드는 지정학적으로 북대서양조약기구(NATO·나토)의... 폴란드 정부는 러시아의 군사적 위협에 대처하기 위해 내년부터 <b>국방<\/b>비를 국내총생산(GDP)의 3% 이상으로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:48:00 +0900"
+		},
+		{
+			"title":"&quot;흉악범 풀어주자는 尹정부에 동의할 국민 많지 않을 것&quot;",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662872&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997182?sid=100",
+			"description":"그러나 신 의원은 &quot;<b>국방<\/b>부에서 상황을 공유받은 유엔사는 특별조사팀 구성과 조사가 필요하다고 밝혔지만, 당시 정부는 이 사건을 최하 단계인 '지역합동정보조사'로 분류해 6시간 만에 북송을 결정했다&quot;고 지적했다.",
+			"pubDate":"Wed, 27 Jul 2022 17:47:00 +0900"
+		},
+		{
+			"title":"대통령실 앞 집회… 코로나 백신 피해자 가족부터 유튜버까지",
+			"originallink":"http:\/\/www.mediatoday.co.kr\/news\/articleView.html?idxno=305146",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/006\/0000114087?sid=102",
+			"description":"민중민주당이 5월11일 오후4시30분 <b>국방<\/b>부 정문 좌·우측에 49명이 집회하겠다고 신고한 것이 윤 대통령 취임... 평통사(평화와통일을여는사람들)는 5월20~22일 <b>국방<\/b>부(현 대통령실) 정문에서 전쟁기념관 인도... ",
+			"pubDate":"Wed, 27 Jul 2022 17:47:00 +0900"
+		},
+		{
+			"title":"&quot;어디 군인 남동생 둔 사람 없소?&quot;…세상에서 제일 싼 'PX 화장품'",
+			"originallink":"http:\/\/www.upinews.kr\/newsView\/upi202207270075",
+			"link":"http:\/\/www.upinews.kr\/newsView\/upi202207270075",
+			"description":"[<b>국방<\/b>부 블로그 캡처] 올해 들어 가파른 인플레이션으로 화장품 가격도 치솟고 있다. 통계청에 따르면, 6월... <b>국방<\/b>부 관계자는 &quot;PX는 유통마진을 적게 책정하는 편&quot;이라며 &quot;PX에 납품하려는 화장품업체들의 경쟁 역시... ",
+			"pubDate":"Wed, 27 Jul 2022 17:46:00 +0900"
+		},
+		{
+			"title":"6·25전쟁 전사자 유해발굴사업 설명회 3년 만에 재개",
+			"originallink":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/8\/BBSMSTR_000000010021\/view.do",
+			"link":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/8\/BBSMSTR_000000010021\/view.do",
+			"description":"<b>국방<\/b>부 유해발굴감식단(국유단)이 27일 부산지역을 시작으로 6·25전쟁 전사자 유해발굴사업 설명회를 재개했다. 코로나19로 2019년 10월 중단된 후 3년 만이다. 국유단은 6·25전쟁 전사자 유가족과 관계 행정기관을... ",
+			"pubDate":"Wed, 27 Jul 2022 17:46:00 +0900"
+		},
+		{
+			"title":"美, 中에 남중국해서 충돌 경고",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662861&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997173?sid=104",
+			"description":"일라이 래트너 미국 <b>국방<\/b>부 인도·태평양 안보 담당 차관보는 26일(현지시간) 전략국제문제연구소(CSIS)에서... 중국 <b>국방<\/b>부는 펠로시 하원의장의 대만 방문이 결정되면 &quot;좌시하지 않겠다&quot;는 단호한 입장을 이날 내놨다. 중국... ",
+			"pubDate":"Wed, 27 Jul 2022 17:45:00 +0900"
+		},
+		{
+			"title":"<b>국방<\/b>부-국토부, 드론·도심항공교통 기술 <b>국방<\/b> 적용 힘 모은다",
+			"originallink":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/7\/BBSMSTR_000000010021\/view.do",
+			"link":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/7\/BBSMSTR_000000010021\/view.do",
+			"description":"함께 <b>국방<\/b>부와 국토교통부가 드론(Drone)·도심항공교통(UAM) 산업의 발전과 과학기술 강군 육성을 위해 손을 맞잡았다. 양 부처는 27일 신범철 <b>국방<\/b>부 차관과 어명소 국토교통부 2차관이 참석한 가운데 미래항공산업... ",
+			"pubDate":"Wed, 27 Jul 2022 17:44:00 +0900"
+		},
+		{
+			"title":"홍남표 창원시장, 내년 국비확보 박차",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2022072716320205526?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002253027?sid=102",
+			"description":"행정<b>국방<\/b>예산심의관을 차례로 만나 창원시 주요 국비 건의사업을 설명하고 적극적인 예산 반영을... 우주<b>국방<\/b> 소재·부품 OPEN FAB 구축사업 등 창원에 위치한 국책기관 사업을 포함해 총 18건 국비 4748억 원이다. 시는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:44:00 +0900"
+		},
+		{
+			"title":"현대로템·KAI·한화디펜스, 방산수출 '20조 잭팟'",
+			"originallink":"https:\/\/www.hankyung.com\/politics\/article\/2022072782381",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729909?sid=100",
+			"description":"본지 7월 20일자 A13면 참조 폴란드 정부에 따르면 마리우시 브와슈차크 <b>국방<\/b>부 장관은 27일 <b>국방<\/b>부에서 이 같은 내용의 계약에 서명했다. 이날 계약식에는 안현호 한국항공우주산업(KAI) 대표, 손재일 한화디펜스 대표... ",
+			"pubDate":"Wed, 27 Jul 2022 17:43:00 +0900"
+		},
+		{
+			"title":"뉼런드 美차관, 외교부인사 연쇄면담…확장억제·담대한계획 논의",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OOXBBWC",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004080992?sid=100",
+			"description":"특히 양측은 윤석열 대통령과 조 바이든 미국 대통령이 5월 서울에서 회담하고 합의한 외교·<b>국방<\/b>(2+2) 고위급 확장억제전략협의체(EDSCG)를 이른 시일 내 개최하자는 데 의견을 같이했다. 양측은 이를 통해 확장억제 강화를... ",
+			"pubDate":"Wed, 27 Jul 2022 17:42:00 +0900"
+		},
+		{
+			"title":"尹공약 '영일만대교' 건설 놓고 市·軍 충돌",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662842&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997162?sid=102",
+			"description":"하지만 최근 해군과 <b>국방<\/b>부는 영일만대교 건설과 관련해 &quot;군함 통행에 장애가 되고 유사시 교량 붕괴 등이... 포항시는 <b>국방<\/b>부와 최대한 빨리 협의를 끝내고 영일만대교를 조속히 착공하겠다는 목표다. 영일만대교는 울산... ",
+			"pubDate":"Wed, 27 Jul 2022 17:41:00 +0900"
+		},
+		{
+			"title":"행안장관이 띄운 '경찰대 불공정'…장교·판검사 직급까지 시끌",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662845&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997165?sid=102",
+			"description":"△고려대 사이버<b>국방<\/b>학과 △세종대 <b>국방<\/b>시스템공학과 △아주대 <b>국방<\/b>디지털융합학과 △한양대 <b>국방<\/b>정보공학과 △충남대 해양안보학과 등의 졸업생은 군과의 계약에 의해 졸업 즉시 소위로서 의무복무를 하게 된다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:41:00 +0900"
+		},
+		{
+			"title":"우크라 전쟁에 'ESG 투자 열풍' 식었다",
+			"originallink":"https:\/\/www.hankyung.com\/international\/article\/2022072782001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729904?sid=104",
+			"description":"SEB는 4월 1일부터 여섯 개 운용펀드를 <b>국방<\/b> 부문에 투자할 수 있도록 제한을 풀었다. 파이낸셜타임스(FT)는 “기업과 투자자, 정부 간의 이해상충은 때때로 E와 S, G 각각의 지표가 서로 경쟁하는 것처럼 보이게 한다”며... ",
+			"pubDate":"Wed, 27 Jul 2022 17:41:00 +0900"
+		},
+		{
+			"title":"국토교통부-<b>국방<\/b>부, 미래항공 모빌리티 및 <b>국방<\/b>드론 발전을 위해 손잡았다",
+			"originallink":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29121",
+			"link":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29121",
+			"description":"국토교통부와 <b>국방<\/b>부가 &quot;드론ㆍ도심항공교통산업의 발전 및 과학기술 강군 육성&quot;을 위해 손을 맞잡았다. 국토교통부와 <b>국방<\/b>부는 드론과 도심항공교통으로 대표되는 미래 항공산업의 발전을 위해 민군 기술개발ㆍ교류... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"[해군] 미래 안보환경에 맞춘 인공지능·무인체계 발전 방향 모색",
+			"originallink":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/2\/BBSMSTR_000000010024\/view.do",
+			"link":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/2\/BBSMSTR_000000010024\/view.do",
+			"description":"<b>국방<\/b>기술진흥연구소·선박해양플랜트연구소와 함께 ‘2022 지능형 자율체계(IAS·Intelligent Autonomous System)... 세미나는 김명수 해군참모차장 개회사, 임영일 <b>국방<\/b>기술진흥연구소장·이한진 선박해양플랜트연구소 부소장... ",
+			"pubDate":"Wed, 27 Jul 2022 17:34:00 +0900"
+		},
+		{
+			"title":"美정무차관, 박진 예방…&quot;北핵위협 시급한 과제&quot;",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03555526632398784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005278470?sid=100",
+			"description":"양측은 “한미 간 외교·<b>국방<\/b>(2+2) 고위급 확장억제전략협의체(EDSCG)를 빠른 시일 내 개최해 ‘확장억제 강화’를 위한 내실 있는 협의를 진행하자”는 데도 의견을 모았다. 또한 공급망 회복, 첨단기술, 기후변화 등 새로운... ",
+			"pubDate":"Wed, 27 Jul 2022 17:34:00 +0900"
+		},
+		{
+			"title":"[뉴스분석] 길어지는 北 김정은 두문불출…2년 연속 참석해온 노병대회 불참",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220727000972",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220727000972",
+			"description":"또 리일환 노동당 비서와 오일정 당 군정지도부장, 리창대 국가보위상, 박수일 사회안전상, 리영길 <b>국방<\/b>상... [사진=조선중앙통신 홈페이지] 2022.07.27 yjlee@newspim.com 2011년 12월 김정일 <b>국방<\/b>위원장의 급작스런 사망으로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:33:00 +0900"
+		},
+		{
+			"title":"우크라전 놀란 폴란드 무기 3종 구매…K방산에 초대박 안겼다",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25090126",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003212698?sid=100",
+			"description":"러시아의 우크라이나 침공으로 <b>국방<\/b>력 강화에 박차를 가하면서다. 한국의 방위산업은 초대박을 터뜨리게 됐다. 폴란드 <b>국방<\/b>부는 27일(현지시간) K2 전차, K9 자주포, FA-50 경공격기 등 한국산 무기 3종을 대거 사들이는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"바이든-시진핑 내일 통화…펠로시 대만행 '뜨거운 감자'",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20220727014500038\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000553054?sid=104",
+			"description":"&lt;자오리젠 \/ 중국 외교부 대변인&gt; &quot;중국은 최근 미국에 펠로시 하원의장의 대만 방문을 단호히 반대한다는 엄중한 우려와 단호한 입장을 거듭 밝혔습니다.&quot; 중국 <b>국방<\/b>부까지 '절대 좌시하지 않을 것'이라고 다시 한번... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"최대 25조원 초대박…폴란드 “한국 무기 도입 계약”",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017317533&code=61111111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001542670?sid=100",
+			"description":"폴란드 <b>국방<\/b>부는 26일(현지시간) 홈페이지를 통해 “마리우시 브와슈차크 부총리 겸 <b>국방<\/b>장관이 27일 오전 바르샤바 <b>국방<\/b>부 본부에서 폴란드군 장비 구매를 위해 한국과 체결한 군비 계약을 승인할 예정”이라고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:31:00 +0900"
+		},
+		{
+			"title":"또 사라진 北 김정은…노병대회 축제에 불참한 속셈은",
+			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2022072714010005464?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000688492?sid=100",
+			"description":"홍민 통일연구원 북한연구실장은 &quot;김 위원장이 5, 6월 내내 당 주요 회의들을 주재하는 이례적 모습을 보였는데 당시 '당 조직' 문제가 핵심이었다&quot;며 &quot;통치 이슈에 집중하다 보니 노병대회를 통한 <b>국방<\/b>정책 홍보 등 메시지... ",
+			"pubDate":"Wed, 27 Jul 2022 17:31:00 +0900"
+		},
+		{
+			"title":"K방산, 유럽 교두보 확보…노르웨이·호주 등 수출확대 속도",
+			"originallink":"https:\/\/www.hankyung.com\/politics\/article\/2022072781281",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729886?sid=100",
+			"description":"지난 5~6월 마리우시 브와슈차크 폴란드 <b>국방<\/b>장관과 육군·공군 평가단 등이 한국을 방문해 우리 군 당국과 방위산업체 관계자들을 접촉했다. 이날 폴란드 <b>국방<\/b>부는 “(한국 무기는) 빠른 공급과 대규모 기술 이전이... ",
+			"pubDate":"Wed, 27 Jul 2022 17:30:00 +0900"
+		},
+		{
+			"title":"폴란드 “한국과 K-2·FA-50·K-9 등 도입 계약”",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5519282&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011309990?sid=100",
+			"description":"폴란드 정부는 마리우시 브와슈차크 부총리 겸 <b>국방<\/b>부장관이 현지 시간 오늘 오후 한국과의 무기 계약을 승인할 예정이라고 공식 발표했습니다. 폴란드는 K-2 전차 180대를 도입하고, 2차로 이를 현지화한 K2PL 8백 대... ",
+			"pubDate":"Wed, 27 Jul 2022 17:29:00 +0900"
+		},
+		{
+			"title":"이종섭 <b>국방<\/b>, 美 알링턴 국립묘지 참배…“한미동맹, 가장 강력하고 모범적”...",
+			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20220727\/114687497\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003442482?sid=100",
+			"description":"‘미국 한국전 전사자 추모의 벽’ 준공식 참석을 위해 워싱턴 DC를 방문한 이종섭 <b>국방<\/b>부 장관이 26일... 준공식에는 한국 정부를 대표해 이종섭 <b>국방<\/b>부 장관, 박민식 보훈처장, 이현승 국회 <b>국방<\/b>위원장이 참석한다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:28:00 +0900"
+		},
+		{
+			"title":"한국레노버 프리미엄 노트북 '요가' 7세대 출시, 김윤호 대표 &quot;성능과 휴대성...",
+			"originallink":"http:\/\/gamefocus.co.kr\/detail.php?number=131950",
+			"link":"http:\/\/gamefocus.co.kr\/detail.php?number=131950",
+			"description":"외부 상판은 다층 탄소섬유로 강화된 마그네슘 합금으로 제작됐으며 미국 <b>국방<\/b>부 군사 규격  MIL-STD-810H 기준을 통과한 강력한 내구성을 갖추고 있다. 13.3형 제품임에도 400니트, 100sRGB 색 재현율을 가지는 QHD... ",
+			"pubDate":"Wed, 27 Jul 2022 17:28:00 +0900"
+		},
+		{
+			"title":"대전시 '우주산업 클러스터' 유치 세미나…&quot;정치논리 배제돼야&quot;",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/1954701.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000163429?sid=102",
+			"description":"발제자들은 대전은 한국항공우주연구원, 한국천문연구원, 한국전자통신연구원, <b>국방<\/b>과학연구소 등 13개 출연연이 집적된 우주 관련 연구개발의 핵심지이며, 연구원마다 위성 관련 다양한 장비가 갖춰져 있어 추가적인... ",
+			"pubDate":"Wed, 27 Jul 2022 17:24:00 +0900"
+		},
+		{
+			"title":"격해지는 남중국해 파고...28일 미중 정상 대화로 풀릴까?",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0104_202207271724356394",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001769372?sid=104",
+			"description":"미 합참의장에 이어, <b>국방<\/b>부 관료도 최근 중국의 군사 행동이 도를 넘었다며 잇따라 경고했습니다. 남중국해 일대에서 미중 간 갈등의 파고가 높아지는 가운데, 시진핑 주석은 조코위 인도네시아 대통령과 만났습니다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:24:00 +0900"
+		},
+		{
+			"title":"‘펠로시 대만행’ 돌발 변수 속 바이든·시진핑 통화",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017317491&code=61131811&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001542664?sid=104",
+			"description":"탄커페이 중국 <b>국방<\/b>부 대변인은 전날 기자회견에서 “미국이 계속 고집을 부리면 중국군은 절대 좌시하지 않을 것”이라며 “반드시 강력한 조치를 취해 외부 세력의 간섭과 대만 독립 분열 도모를 좌절시키고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:23:00 +0900"
+		},
+		{
+			"title":"박완수 경남지사 &quot;사천은 항공우주산업의 중심지&quot;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958630&cID=10812&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330291?sid=102",
+			"description":"이날 행사는 하영제 의원의 개회사 및 신원식·홍석준 의원의 환영사, 박완수 도지사의 축사로 시작해 <b>국방<\/b>... 한국항공우주연구원, 한국<b>국방<\/b>MICE연구원 등 유관기관의 협조와 국민적 관심을 부탁드린다”고 말했다.",
+			"pubDate":"Wed, 27 Jul 2022 17:22:00 +0900"
+		},
+		{
+			"title":"국민의힘 &quot;NLL 월선 선박, 삼척항 귀순 목선 북송… 검찰에 추가 고발&quot;",
+			"originallink":"https:\/\/www.newdaily.co.kr\/site\/data\/html\/2022\/07\/27\/2022072700125.html",
+			"link":"https:\/\/www.newdaily.co.kr\/site\/data\/html\/2022\/07\/27\/2022072700125.html",
+			"description":"당시 <b>국방<\/b>부가 유엔사를 '패싱'했다고 주장했다. 신 의원에 따르면, <b>국방<\/b>부는 2022년 3월8일 오후 1시쯤 유엔사에 NLL을 월선한 선박을 예인해 백령도에 위치한 용기포항에 입항했고, 이를 인천으로 이송할 예정이라고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:22:00 +0900"
+		},
+		{
+			"title":"미군, 펠로시 타이완 방문 때 중국도발 대비 비상계획",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5519277&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011309977?sid=104",
+			"description":"낸시 펠로시 미국 하원의장이 다음달 타이완을 방문할 계획으로 알려진 가운데 미국 <b>국방<\/b>부가 중국의 도발... 보고 <b>국방<\/b>부가 만일의 사태에 대비한 계획을 세우고 있다는 것입니다. AP통신은 미 정부 관계자들을 인용... ",
+			"pubDate":"Wed, 27 Jul 2022 17:21:00 +0900"
+		},
+		{
+			"title":"국토부, <b>국방<\/b>부와 드론 활용 업무협약 체결",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075772",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075772",
+			"description":"어명소 국토교통부 제2차관(왼쪽)과 신범철 <b>국방<\/b>부 차관이 27일 '드론-도심항공 교통산업의 발전과 과학기술 강군 육성'을 위한 업무협약을 체결했다.(사진=국토교통부 제공) 국토교통부와 <b>국방<\/b>부는 오늘 '드론-도심항공... ",
+			"pubDate":"Wed, 27 Jul 2022 17:20:00 +0900"
+		},
+		{
+			"title":"위성하면 대전! 다함께 외치다!",
+			"originallink":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=525125",
+			"link":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=525125",
+			"description":"발제자들은 대전은 한국항공우주연구원, 한국천문연구원, 한국전자통신연구원, <b>국방<\/b>과학연구소 등 13개 출연연이 집적된 우주 관련 연구개발의 핵심지이며, 연구원마다 위성 관련 다양한 장비가 갖춰져 있어 추가적인... ",
+			"pubDate":"Wed, 27 Jul 2022 17:20:00 +0900"
+		},
+		{
+			"title":"“사망 공군 하사 유서에 부대 내 괴롭힘 정황, 이예람 중사 관사 뒤이어 사용...",
+			"originallink":"https:\/\/vop.co.kr\/A00001617013.html",
+			"link":"https:\/\/vop.co.kr\/A00001617013.html",
+			"description":"<b>국방<\/b>부는 유서가 존재한다는 사실을 사망 직후에 이미 인지하여 놓고도 유서를 발견하지 못했다고 발표하기도 했다며 강 하사가 부대적 이유가 아닌 개인적 이유로 사망하였다는 결론을 만들고 싶은 것은 아닌지 되묻고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"윤종영 경기도의원, ‘연천군 장애인복지관’ 건립 정담회",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160280253611848",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160280253611848",
+			"description":"&quot;<b>국방<\/b>부등에 郡입장 전달··· 부지 매입 성과 지역 발전 저해 각종 군사규제 완화 최선&quot; ▲ 연천군 장애인... 하지만 부지로 선정된 미활용 군용지의 토양오염정화 및 지장물 철거 <b>국방<\/b>부 예산이 오는 2025년도에 반영돼... ",
+			"pubDate":"Wed, 27 Jul 2022 17:16:00 +0900"
+		},
+		{
+			"title":"공군-<b>국방<\/b>과학연구소, 항공우주력 발전 손 잡았다",
+			"originallink":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/1\/BBSMSTR_000000010025\/view.do",
+			"link":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/1\/BBSMSTR_000000010025\/view.do",
+			"description":"교류협력 분야 확대 협약서 체결 미래 전장 적합한 무기·전략 협력 공군과 <b>국방<\/b>과학연구소(ADD)가 항공우주력 발전을 위해 두 손을 맞잡았다. 두 기관은 27일 대전시 유성구 ADD에서 미래 <b>국방<\/b>과학기술 정책 발전을 포함한... ",
+			"pubDate":"Wed, 27 Jul 2022 17:16:00 +0900"
+		},
+		{
+			"title":"&quot;우주산업 클러스터, 대전으로&quot; 지역 전문가들 똘똘 뭉쳤다",
+			"originallink":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=273512",
+			"link":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=273512",
+			"description":"발제자들은 &quot;대전은 한국항공우주연구원, 한국천문연구원, 한국전자통신연구원, <b>국방<\/b>과학연구소 등 13개 출연연이 집적된 우주 관련 연구개발의 핵심지&quot;이며 &quot;연구원마다 위성 관련 다양한 장비가 갖춰져 있어 추가적인... ",
+			"pubDate":"Wed, 27 Jul 2022 17:16:00 +0900"
+		},
+		{
+			"title":"미군, 펠로시 대만 방문 때 중국도발 대비 비상계획",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727149700009?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338718?sid=104",
+			"description":"미국 <b>국방<\/b>부가 중국의 도발 가능성에 대비해 비상계획을 수립하고 있다고 AP통신이 27일(현지시간) 보도했다.... 보고 <b>국방<\/b>부가 만일의 사태에 대비한 계획을 세우고 있다는 것이다. AP통신은 미 정부 관계자들을 인용... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"국토교통부-<b>국방<\/b>부, 미래항공 모빌리티·<b>국방<\/b>드론 발전 위해 손잡았다",
+			"originallink":"https:\/\/www.hankyung.com\/realestate\/article\/202207278001i",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729861?sid=101",
+			"description":"국토교통부와 <b>국방<\/b>부가 '드론·도심항공교통산업의 발전 및 과학기술 강군 육성'을 위해 손을 맞잡았다. 국토교통부와 <b>국방<\/b>부는 드론과 도심항공교통으로 대표되는 미래 항공산업의 발전을 위해 민군 기술개발·교류... ",
+			"pubDate":"Wed, 27 Jul 2022 17:10:00 +0900"
+		},
+		{
+			"title":"[포토] 6·25전쟁 유엔군 참전의 날 기념식 &quot;위대한 약속 We Go Together&quot;",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/07\/27\/20220727521479.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003719532?sid=100",
+			"description":"'위대한 약속, We Go Together'란 주제로 27일 서울 동대문구 동대문디자인플라자 알림1관에서 열린 6.25전쟁 유엔군 참전의 날 기념식에서 리틀엔젤스 단원들, 미8군과 <b>국방<\/b>부 군악대원들이 참전국과의 우정을 위한... ",
+			"pubDate":"Wed, 27 Jul 2022 17:08:00 +0900"
+		},
+		{
+			"title":"&quot;지원 부실땐 초격차커녕 기업 해외 이탈&quot;…화평·화관법도 손질",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OPABEUW",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004080973?sid=100",
+			"description":"다만 <b>국방<\/b>부에서 검토했던 병역 특례 인원 조정은 사회적 논란을 고려해 포함하지 않기로 했다. 52시간 근무 예외 조항 적용 역시 법제화까지 할 경우 현재 근로자들의 업무 부담이 과도해질 수 있다는 우려를 반영해 이번... ",
+			"pubDate":"Wed, 27 Jul 2022 17:08:00 +0900"
+		},
+		{
+			"title":"폴란드, K2·FA50·K9 도입한다...K2 성능·제원·스펙은?",
+			"originallink":"https:\/\/www.thedrive.co.kr\/news\/newsview.php?ncode=1065599683803140",
+			"link":"https:\/\/www.thedrive.co.kr\/news\/newsview.php?ncode=1065599683803140",
+			"description":"마리우시 브와슈차크 폴란드 부총리 겸 <b>국방<\/b>부장관은 이날 &quot;이러한 무기 도입 계약을 승인할 것&quot;이라고... NATO 회원국인 폴란드는 러시아의 우크라이나 침공 이후 올해 국내총생산(GDP)의 2.2%에 해당하는 <b>국방<\/b>비를 3... ",
+			"pubDate":"Wed, 27 Jul 2022 17:08:00 +0900"
+		},
+		{
+			"title":"김정은, ‘전승절’ 노병대회 불참···핵실험 언급 없이 내부결속 치중",
+			"originallink":"https:\/\/www.khan.co.kr\/politics\/north-korea\/article\/202207271707001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003162742?sid=100",
+			"description":"리일환 당 비서와 오일정 당 군정지도부장, 리창대 국가보위상, 박수일 사회안전상, 리영길 <b>국방<\/b>상, 정경택... 됐다”며 “<b>국방<\/b> 공업의 비약적 발전을 이룩해 우리 국가의 안전과 평화를 흔들림없이 수호하기 위한 막강한... ",
+			"pubDate":"Wed, 27 Jul 2022 17:08:00 +0900"
+		},
+		{
+			"title":"필리핀, 美 제재 우려해 러시아 헬기 16대 구매 협정 파기",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958551&cID=10101&pID=10100",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330266?sid=104",
+			"description":"필리핀 <b>국방<\/b>장관이 27일 밝혔다. 로렌자나 전 장관은 지난달 30일 임기가 끝나기 전 로드리고 두테르테 당시... 로렌자나는 두테르테 대통령 밑에서 <b>국방<\/b>장관을 지냈으며, 페르디난드 마르코스 주니어 신임 대통령에 의해... ",
+			"pubDate":"Wed, 27 Jul 2022 17:04:00 +0900"
+		},
+		{
+			"title":"방한 美 국무부 차관, 尹 대북정책 '담대한 계획' 협의",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958514&cID=10301&pID=10300",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330265?sid=100",
+			"description":"양측은 또 한미 간 외교·<b>국방<\/b>(2+2) 고위급 확장억제전략협의체(EDSCG)를 이른 시일 내 개최해 확장 억제 강화를 위한 내실 있는 협의를 진행하자는 데 합의했다. 아울러 양측은 양 정상이 함께 발표한 글로벌 포괄적 전략동맹... ",
+			"pubDate":"Wed, 27 Jul 2022 17:03:00 +0900"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:58 +0900",
+	"total":3,
+	"start":1,
+	"display":3,
+	"items":[
+		{
+			"title":"스포츠 에이전트 직무해설서",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32485093479",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3248509\/32485093479.20220527052926.jpg",
+			"author":"문개성",
+			"discount":"0",
+			"publisher":"박영사",
+			"pubdate":"20180301",
+			"isbn":"9791130305219",
+			"description":"▶ 이 책은 스포츠 에이전트 직무해설에 대해 다룬 도서입니다. 스포츠 에이전트 직무해설의 기초적이고 전반적인 내용을 확인할 수 있도록 구성했습니다."
+		},
+		{
+			"title":"스포츠 에이전트 직무해설서: 선수대리인의 비즈니스 관점",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32445283719",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3244528\/32445283719.20220527040728.jpg",
+			"author":"문개성",
+			"discount":"18000",
+			"publisher":"박영사",
+			"pubdate":"20200302",
+			"isbn":"9791130309354",
+			"description":"▶ 이 책은 스포츠마케팅\/스포츠경영을 다룬 이론서입니다. 스포츠마케팅\/스포츠경영의 기초적이고 전반적인 내용을 학습할 수 있습니다."
+		},
+		{
+			"title":"NCS기반 직무분야별 직무능력평가 12 이용.숙박.여행.오락.스포츠",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32497234618",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249723\/32497234618.20220521050653.jpg",
+			"author":"",
+			"discount":"20700",
+			"publisher":"씨마스",
+			"pubdate":"20160120",
+			"isbn":"9791156720560",
+			"description":"NCS(국가직무능력표준) 기반의 채용 방식에 최적화된 정보를 제공한다. 기업들의 최신 채용 공고를 제공하여 채용 시장의 변화와 동향을 파악할 수 있도록 하였고, NCS기반 입사 지원 서류의 작성 방법과 다양한 면접 사례를 제공하여 NCS 기반의 채용 방식에 대한 감을 잡을 수 있도록 해준다. 무엇보다 기존의 인.적성 검사와 전공시험을 대체하는 직업기초능력과 직무수행능력 필기시험에 완벽하게 대비할 수 있도록 다양한 실전 문제를 제공하고 있다."
+		}
+	]
+}

@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:45 +0900",
+	"total":53505,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"2020 <b>농림어업<\/b> 고용 동향 분석",
+			"link":"https:\/\/blog.naver.com\/kreipr?Redirect=Log&logNo=222278214259",
+			"description":"청년들은 다른 세대와 달리 <b>농림어업<\/b>의 발전 가능성에 초점을 두고 종사하는 경향이 있습니다. 농림축산식품부·한국갤럽이 매년 조사하는 귀농·귀촌실태조사 자료의 최근 5년 귀농자의 귀농 이유를 보면... ",
+			"bloggername":"한국농촌경제연구원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kreipr",
+			"postdate":"20210317"
+		},
+		{
+			"title":"지역<b>농림어업<\/b> 발전사업 협력 촉진에 관한 법률안",
+			"link":"https:\/\/blog.naver.com\/3s0011?Redirect=Log&logNo=222693033706",
+			"description":"▼ 법안 원문을 보시려면 하단 첨부파일을 확인해 주세요! ▼ 첨부파일 2115087_지역<b>농림어업<\/b> 발전사업 협력 촉진에 관한 법률안(서삼석의원)_.hwp 파일 다운로드",
+			"bloggername":"서삼석입니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/3s0011",
+			"postdate":"20220406"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사 조사원 후기",
+			"link":"https:\/\/blog.naver.com\/olor_love?Redirect=Log&logNo=222179811489",
+			"description":"하는 업무는 농업, 어업, 임업에 종사하는 사람들에게 여러가지 설문을 하여 답을 듣고 태블릿pc에... <b>농림어업<\/b> 조사원은 이런 느낌으로 진행하는구나~ 라고 참고하신다면 좋을 것 같습니다. 아마 정부에서... ",
+			"bloggername":"부드러운 바람은 자장가가 되어",
+			"bloggerlink":"https:\/\/blog.naver.com\/olor_love",
+			"postdate":"20201220"
+		},
+		{
+			"title":"코로나에도 <b>농림어업<\/b> 취업자 수는 4년째 늘고 있다, 왜?",
+			"link":"https:\/\/blog.naver.com\/nong-up?Redirect=Log&logNo=222285000203",
+			"description":"그러나 <b>농림어업<\/b> 분야는 코로나19로 인한 노동 수요 감소의 영향을 가장 적게 받으면서 타 산업 분야의 노동 수요 감소에 따른 전체 취업자 감소를 일부 완충시키는 역할을 한 것으로 보입니다. 농림업... ",
+			"bloggername":"더농부",
+			"bloggerlink":"https:\/\/blog.naver.com\/nong-up",
+			"postdate":"20210407"
+		},
+		{
+			"title":"<b>농림어업<\/b> 관련 정부보조금",
+			"link":"https:\/\/blog.naver.com\/hhaebitt?Redirect=Log&logNo=222806942958",
+			"description":"한국채택국제회계기준(K-IFRS) 제1041호 <b>농림어업<\/b> 한국회계기준원 회계기준위원회 의결 2018.11.14.... 35 기업이 특정 <b>농림어업<\/b>활동에 종사하지 못하게 요구하는 경우를 포함하여 공정가치에서 처분부대원가를 뺀... ",
+			"bloggername":"Better late than Never",
+			"bloggerlink":"https:\/\/blog.naver.com\/hhaebitt",
+			"postdate":"20220711"
+		},
+		{
+			"title":"북스타트 책꾸러미 신청 \/ <b>농림어업<\/b> 총조사 조사원 모집... ",
+			"link":"https:\/\/blog.naver.com\/yourokcheon?Redirect=Log&logNo=222139604828",
+			"description":"2020년 <b>농림어업<\/b> 총조사 조사요원 모집 <b>농림어업<\/b> 총조사는 전국 농림어가의 규모, 구조, 분포 및... 농립어업총조사 모집 공고（변경）.hwp 파일 다운로드 합격자 선정 : 2020년 11월 16일 개별 통보 문의... ",
+			"bloggername":"옥천군청 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/yourokcheon",
+			"postdate":"20201109"
+		},
+		{
+			"title":"농업의 긍정적 시선, 통계청 <b>농림어업<\/b>총조사도... ",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222140708124",
+			"description":"<b>농림어업<\/b>총조사란, 전국 농림어가의 규모, 구조, 분포 및 특성을 파악하기 위한 국가기본통계조사입니다. 이 조사를 통해 파악된 정보는 농촌 지역개발계획을 위한 기초자료, 학술연구 및 <b>농림어업<\/b>... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20201110"
+		},
+		{
+			"title":"[원주 생활] 여러분의 이야기를 들려주세요, 2020 <b>농림어업<\/b>총조... ",
+			"link":"https:\/\/blog.naver.com\/wonju_city?Redirect=Log&logNo=222133558238",
+			"description":"농립어업총조사 홈페이지 ※ 응시원서를 제외한 제출서류를 <b>농림어업<\/b>총조사 담당자 이메일(*********@*****.**) 또는 읍면동 행정복지센터를 통해 반드시 제출 ② 방문 접수 : 원주시청 기획예산과(8층) 또는... ",
+			"bloggername":"원주시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/wonju_city",
+			"postdate":"20201102"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b> 총조사. 대중교통 수단이 없는 마을은 2... ",
+			"link":"https:\/\/futureplan.tistory.com\/entry\/%EA%B5%B0%EC%9D%8D%EB%A9%B4-%EB%A6%AC%EB%8B%A8%EC%9C%84-%EC%A3%BC%EB%AF%BC%EB%93%A4-%ED%8E%8C-%EB%8C%80%EC%A4%91%EA%B5%90%ED%86%B5-%EC%97%86%EB%8A%94-%EB%86%8D%EC%96%B4%EC%B4%8C-%EB%A7%88%EC%9D%84-2224%EA%B3%B3%EB%B3%91%EC%9B%90-%EC%97%86%EB%8A%94-%EB%A7%88%EC%9D%84-429",
+			"description":"농업․어업회사가 3.8%, 협동조합이 1.8%, 마을기업이 2.2%임. 향후 지방정부가 농업 토지를 어떻게 소유할 것인가 논의가 필요함. 농,어민,임업 종사자의 준공원화 논의 필요함. 2020+<b>농림어업<\/b>총... ",
+			"bloggername":"한국정치 노트 Notes on the Politics of Korea :: 한국정치 노트 Notes on the Politics of Korea",
+			"bloggerlink":"https:\/\/futureplan.tistory.com\/",
+			"postdate":"20220109"
+		},
+		{
+			"title":"농민신문 훑어보기 [ <b>농림어업<\/b> 근로자 절반 최저임금... ",
+			"link":"https:\/\/blog.naver.com\/together_farm?Redirect=Log&logNo=222720422271",
+			"description":"기사전문 지난해 <b>농림어업<\/b>부문에 고용된 임금 근로자 10명 중 5명은 최저임금을 받지 못했다는... 지난해 <b>농림어업<\/b>부문 최저임금 미만율은 54.8%에 달했다. 주요 업종 가운데 가장 높은 수치를 기록했다.... ",
+			"bloggername":"으라찻차! 서울부부 귀농일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/together_farm",
+			"postdate":"20220504"
+		},
+		{
+			"title":"www.affcensus.go.kr <b>농림어업<\/b>총조사",
+			"link":"https:\/\/arabiannight.tistory.com\/521",
+			"description":"<b>농림어업<\/b>총조사는 농어업 관련 통계, 추진 방향, 결과 보고, 용어설명 등을 제공해 주는... 농림 관련한 조사표들을 확인할 수 있습니다. 미국, 캐나다, 일본 등 해외 농업총조사 조사표등을 확인할 수도... ",
+			"bloggername":"아라비안나이트",
+			"bloggerlink":"https:\/\/arabiannight.tistory.com\/",
+			"postdate":"20201210"
+		},
+		{
+			"title":"‘아름다운 말 선플상’‘<b>농림어업<\/b> 경제회복지원 공로대상’수상",
+			"link":"https:\/\/blog.naver.com\/leebangheui?Redirect=Log&logNo=222596989474",
+			"description":"더불어민주당 이원택 의원(김제·부안)이‘최우수 국회의원’‘아름다운 말 선플상’‘<b>농림어업<\/b>... 이 의원은 올 해 농·어업 발전과 농가소득 향상, 식량주권 회복 등을 위해 매월 △농어촌 주민 기본수당... ",
+			"bloggername":"BANGABANGA",
+			"bloggerlink":"https:\/\/blog.naver.com\/leebangheui",
+			"postdate":"20211216"
+		},
+		{
+			"title":"평균 연령 최고 직업은 <b>농림어업<\/b>, 최저 직업은",
+			"link":"https:\/\/blog.naver.com\/kaydenherman?Redirect=Log&logNo=222750890559",
+			"description":"농림수산 평균 연령 53세 예술 방송과 스포츠 평균 연령 37세입니다. 가장 오래된 직업은 <b>농림어업<\/b>이고 평균 나이는 53세입니다. 이는 농촌 인구의 고령화가 심각하다는 증거 중 하나다. 실제로 통계청이 24일... ",
+			"bloggername":"kaydenherman님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kaydenherman",
+			"postdate":"20220529"
+		},
+		{
+			"title":"2021 <b>농림어업<\/b> 고용 동향과 시사점",
+			"link":"https:\/\/blog.naver.com\/kreipr?Redirect=Log&logNo=222672200043",
+			"description":"2021 <b>농림어업<\/b> 고용 동향과 시사점 KREI 현안분석 제88호 지난 2017년 이후 <b>농림어업<\/b> 취업자수는 증가세를 유지하고 있습니다. 작년 2021년의 경우 생산 연령 인구의 감소, 2년째 지속된 코로나19의 위기... ",
+			"bloggername":"한국농촌경제연구원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kreipr",
+			"postdate":"20220314"
+		},
+		{
+			"title":"소개하는 2020년 <b>농림어업<\/b>총조사, <b>농림어업<\/b>총조사 Q&amp;A",
+			"link":"https:\/\/blog.naver.com\/anjr615?Redirect=Log&logNo=222144019068",
+			"description":"우리나라에서는 매 5년 마다 <b>농림어업<\/b>총조사를 실시합니다. 농산 어업민들의 진솔한 이야기를... 이렇게 급변하는 <b>농림어업<\/b> 환경 변화에 신속하고 능동적으로 대처할 수 있는 정책 수립을 위해 농림어가... ",
+			"bloggername":"여행자의 집",
+			"bloggerlink":"https:\/\/blog.naver.com\/anjr615",
+			"postdate":"20201114"
+		},
+		{
+			"title":"근로 사업 <b>농림어업<\/b> 이자소득의 개념과 파악 방법",
+			"link":"https:\/\/blog.naver.com\/answjd890512?Redirect=Log&logNo=222710975654",
+			"description":"파악 ∙ 어업소득은 수협의 어가별 위판기록, 어촌계의 자료 등을 통하여 어종별 출하량 및 수입을 우선적으로 파악함 ○ 효율화 방안 － 농업직불금 관련 자료 및 <b>농림어업<\/b>소득 관련하여 확보 가능한 공적... ",
+			"bloggername":"머니위키",
+			"bloggerlink":"https:\/\/blog.naver.com\/answjd890512",
+			"postdate":"20220425"
+		},
+		{
+			"title":"<b>농림어업<\/b> 기준서 관련 공시사항",
+			"link":"https:\/\/blog.naver.com\/hhaebitt?Redirect=Log&logNo=222806944396",
+			"description":"한국채택국제회계기준(K-IFRS) 제1041호 <b>농림어업<\/b> 한국회계기준원 회계기준위원회 의결 2018.11.14.... ⑶ <b>농림어업<\/b>활동과 관련된 재무위험 관리 전략 50 기초에서 기말로의 생물자산 장부금액의 변동내용을... ",
+			"bloggername":"Better late than Never",
+			"bloggerlink":"https:\/\/blog.naver.com\/hhaebitt",
+			"postdate":"20220711"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사를 실시합니다!",
+			"link":"https:\/\/blog.naver.com\/jewel-jindo?Redirect=Log&logNo=222153310944",
+			"description":"조사대상은 진도군 모든 농림어가로 5,783가구가 해당됩니다. 농가(4,840) \/ 임가(1,753) \/ 어가 1,615) ※<b>농림어업<\/b> 중복 경영 가구 수는 총 가구 수에서 제외 특히 이번 조사는 코로나19 1.5단계에서 진행되는... ",
+			"bloggername":"진도군 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/jewel-jindo",
+			"postdate":"20201124"
+		},
+		{
+			"title":"농어민을 위한 정책이 싹트는 2020 <b>농림어업<\/b>총조사에 응답해... ",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222160617262",
+			"description":"높이는 <b>농림어업<\/b>총조사! 그렇다면 조사의 대상은 누구일까요? 전국의 모든 농림어가와 행정리를 대상으로 하지만 기준이 있습니다! 농가, 임가, 해수면 어업, 내수면 어업, 행정리까지 총 5개 부문에서 위 기준... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20201202"
+		},
+		{
+			"title":"11월 23일부터 2020 <b>농림어업<\/b>총조사 실시",
+			"link":"https:\/\/blog.naver.com\/samcheokcityhall?Redirect=Log&logNo=222149866269",
+			"description":"5년 주기로 시행되는 이번 조사는 농산어촌의 지속 가능한 발전을 위한 정책과 식량자원의 수급 및 식량안보 정책을 수립하기 위해, 전국의 모든 농림어가와 행정리를 대상으로 <b>농림어업<\/b> 경영 가구와... ",
+			"bloggername":"삼척시",
+			"bloggerlink":"https:\/\/blog.naver.com\/samcheokcityhall",
+			"postdate":"20201120"
+		},
+		{
+			"title":"서산시, <b>농림어업<\/b>발전기금 융자지원사업 3월 19일까지 접수",
+			"link":"https:\/\/blog.naver.com\/sinmunman?Redirect=Log&logNo=222245663261",
+			"description":"맹정호 서산시장은 “<b>농림어업<\/b>발전기금의 지원으로 다양한 소득 사업을 펼쳐 시장 경쟁력 강화와 농어업인의 소득증대에 디딤돌 역할을 할 것으로 기대된다.&quot;고 밝혔다. 담당부서 ▶ 농정과 ▶ 041-660-3978",
+			"bloggername":"충청남도",
+			"bloggerlink":"https:\/\/blog.naver.com\/sinmunman",
+			"postdate":"20210218"
+		},
+		{
+			"title":"베트남 2022년 상반기 <b>농림어업<\/b> 수출액, 13.9% 증가 278억... ",
+			"link":"https:\/\/blog.naver.com\/kswkso?Redirect=Log&logNo=222814961995",
+			"description":"베트남 2022년 상반기 <b>농림어업<\/b> 수출액, 13.9% 증가 278억 8천만 달러 베트남의 2022년 상반기 농림수산 수출액은 278억 8000만 달러로 전년 동기 대비 13.9% 증가했다. 이 기간... ",
+			"bloggername":"베트남경제연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/kswkso",
+			"postdate":"20220717"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b> 총조사",
+			"link":"https:\/\/blog.naver.com\/goodchungju?Redirect=Log&logNo=222165805596",
+			"description":"<b>농림어업<\/b>총조사란? 농림어가의 정의에 해당하는 전국의 모든 농가 및 임가, 어가의 총 수와 함께 개별 특성까지 파악하여 <b>농림어업<\/b> 정책 및 농산어촌 지역개발 계획 수립과 평과, 각종 학술 연구 자료와 함께... ",
+			"bloggername":"충주시 블로그- 그 곳에 가면 즐거워 진다",
+			"bloggerlink":"https:\/\/blog.naver.com\/goodchungju",
+			"postdate":"20201207"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사 Q&amp;A, 궁금한 점 다 알려드려요~",
+			"link":"https:\/\/blog.naver.com\/hnstat?Redirect=Log&logNo=222152436978",
+			"description":"농산어촌의 지속 가능한 발전을 위한 정책과 국가의 식량자원 수급 및 식량안보 정책을 수립하기 위하여 매 5년마다 전국의 모든 농림어가와 행정리를 대상으로 <b>농림어업<\/b> 경영 가구와 가구원의 구성, 분포 및... ",
+			"bloggername":"통계로 통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hnstat",
+			"postdate":"20201123"
+		},
+		{
+			"title":"보성군, 2020 <b>농림어업<\/b>총조사를 실시합니다!",
+			"link":"https:\/\/blog.naver.com\/boseonglove?Redirect=Log&logNo=222158672986",
+			"description":"- <b>농림어업<\/b>총조사는 과학적이고 체계적인 조사 방법으로 전국 농림어가의 규모, 인구의 분포... 방문조사 #<b>농림어업<\/b> #농가 #임가 #어가 #행정리 #농업총조사 #임업총조사 #어업총조사 #농업 #정책수립... ",
+			"bloggername":"보성군청님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/boseonglove",
+			"postdate":"20201201"
+		},
+		{
+			"title":"Ch4. 6. <b>농림어업<\/b>",
+			"link":"https:\/\/blog.naver.com\/k_sia007?Redirect=Log&logNo=222774031737",
+			"description":"<b>농림어업<\/b>활동은 판매목적 또는 수확물이나 추가적인 생물자산으로의 전환목적으로 생물자산의 생물적 변환과 수확을 관리하는 활동을 말함. ** 생물자산 등의 측정 구분 최초 취득 후속측정 비고 엄마양... ",
+			"bloggername":"_ 여행(女行) ; 방황과 변화를 사랑하다",
+			"bloggerlink":"https:\/\/blog.naver.com\/k_sia007",
+			"postdate":"20220615"
+		},
+		{
+			"title":"2021년 <b>농림어업<\/b>조사 결과 등 [주간농업농촌식품동향 Vol.15]",
+			"link":"https:\/\/blog.naver.com\/kreipr?Redirect=Log&logNo=222704904671",
+			"description":"· 2021년 <b>농림어업<\/b>조사 결과 · 사회적 거리두기 조치 약 2년1개월 만에 해제 · 쌀 적정 생산 위한 민... 국회 농림축산식품해양수산위원회 의원 일동은 입장문을 내고, CPTPP 가입을 전제로 한 정부의 무리한... ",
+			"bloggername":"한국농촌경제연구원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kreipr",
+			"postdate":"20220419"
+		},
+		{
+			"title":"더 나은 내일을 위해 2020년 <b>농림어업<\/b>총조사 참여하세요!",
+			"link":"https:\/\/blog.naver.com\/yourokcheon?Redirect=Log&logNo=222152320892",
+			"description":"<b>농림어업<\/b>총조사가 오늘부터 시작됐습니다! <b>농림어업<\/b>총조사는 우리나라의 모든 농업, 임업, 어업... 모든 농림어가와 행정리를 대상으로 <b>농림어업<\/b> 경영 가구와 가구원의 구성, 분포 및 변화를 파악하고... ",
+			"bloggername":"옥천군청 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/yourokcheon",
+			"postdate":"20201123"
+		},
+		{
+			"title":"<b>농림어업<\/b>기준서의 인식과 측정",
+			"link":"https:\/\/blog.naver.com\/hhaebitt?Redirect=Log&logNo=222804256165",
+			"description":"한국채택국제회계기준(K-IFRS) 제1041호 <b>농림어업<\/b> 한국회계기준원 회계기준위원회 의결 2018.11.14. 인식과... 11 <b>농림어업<\/b>활동에서 자산에 대한 통제는 예를 들어, 법적 소유권에 의하거나 취득·출생·이유 시점에... ",
+			"bloggername":"Better late than Never",
+			"bloggerlink":"https:\/\/blog.naver.com\/hhaebitt",
+			"postdate":"20220708"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사를 실시합니다!",
+			"link":"https:\/\/blog.naver.com\/yangpyeong63?Redirect=Log&logNo=222147765812",
+			"description":"양평군에서는 통계청 주관으로 5년마다 우리나라 농림어가의 규모, 분포, 구조를 파악하여 정책에 반영하고자 &lt;&lt;<b>농림어업<\/b>총조사&gt;&gt;를 실시합니다  조사기간: 2020. 12. 1. ~ 12. 18. (18일간) ※인터넷... ",
+			"bloggername":"양평군 공식 블로그 양평톡톡",
+			"bloggerlink":"https:\/\/blog.naver.com\/yangpyeong63",
+			"postdate":"20201118"
+		},
+		{
+			"title":"'2020<b>농림어업<\/b>총조사' 방문조사~ 여러분의 이야기를 들려주세요!",
+			"link":"https:\/\/blog.naver.com\/mungyeongsi?Redirect=Log&logNo=222163410715",
+			"description":"<b>농림어업<\/b>총조사는 전국의 모든 농림어가의 규모, 구조, 분포 및 특성을 파악하기 위해 5년마다 실시하는 국가 기본 통계조사입니다. 조사항목은 농림가, 해수면 어가, 내수면 어가, 지역조사표 등 4종... ",
+			"bloggername":"문경시청 대표 블로그입니다.",
+			"bloggerlink":"https:\/\/blog.naver.com\/mungyeongsi",
+			"postdate":"20201208"
+		},
+		{
+			"title":"5년 만에 돌아온 <b>농림어업<\/b>총조사,  우리의 농산어촌의 실태는... ",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222548697230",
+			"description":"<b>농림어업<\/b>총조사란 ‘전국 농림어가의 규모, 구조, 분포 및 특성을 파악하기 위한 국가... 6%) 등 주요 작물별 재배 농가가 감소하는 모습을 보였고, 어가 역시도 2015년 대비 어로어업 어가(-20.5%), 양식어업... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20211026"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사를 실시합니다!",
+			"link":"https:\/\/blog.naver.com\/damyanggun?Redirect=Log&logNo=222154287247",
+			"description":"여러분의 많은 관심과 참여 부탁드려요~ <b>농림어업<\/b>총조사가 뭔가요? 농림어가의 구조, 경영형태와 행정리의 규모와 특성 등을 파악해 주요 정책 수립의 기초자료로 활용하기 위한 국가... ",
+			"bloggername":"대숲맑은담양",
+			"bloggerlink":"https:\/\/blog.naver.com\/damyanggun",
+			"postdate":"20201125"
+		},
+		{
+			"title":"2020년 <b>농림어업<\/b>총조사 실시&lt;11월 23일부터 12월 18일까지&gt;",
+			"link":"https:\/\/blog.naver.com\/fastcheonan?Redirect=Log&logNo=222142161701",
+			"description":"&quot;내일의 변화는 당신의 이야기로부터, 농림어가 대표로 말해주세요!&quot; 2020<b>농림어업<\/b>총조사 !! 농림어가를 대상으로 12월 조사원들이 찾아갑니다. 2020년 <b>농림어업<\/b>총조사 실시 2020 <b>농림어업<\/b>총조사가 11월... ",
+			"bloggername":"새로운 천안 행복한 시민",
+			"bloggerlink":"https:\/\/blog.naver.com\/fastcheonan",
+			"postdate":"20201112"
+		},
+		{
+			"title":"농·산·어촌의 이야기를 들려주세요. 2020 <b>농림어업<\/b>총조사",
+			"link":"https:\/\/blog.naver.com\/cooolbusan?Redirect=Log&logNo=222152196772",
+			"description":"기대 ‘<b>농림어업<\/b>총조사’는 2010년에 농업, 어업, 임업 3개의 총조사를 통합해 5년 주기로 시행하고 있는 조사로써, 통계청이 주관하고 시에서 실시하고 있는데요. 올해는 ▲농림가를 대상으로 54개 항목... ",
+			"bloggername":"부산광역시 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/cooolbusan",
+			"postdate":"20201123"
+		},
+		{
+			"title":"더 나은 농산어촌의 지속가능한 발전을 위한 [2020 <b>농림어업<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/yesuw21?Redirect=Log&logNo=222141283775",
+			"description":"우리나라 농림어가의 규모, 분포, 구조 및 경영형태를 파악하여 <b>농림어업<\/b> 정책 수립에 필요한... 현재 농업·임업·어업을 직접 경영하는 농림어가 ■ 농가 ○ 2020년 12월 1일 현재, 논이나 밭을 1... ",
+			"bloggername":"의왕e야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/yesuw21",
+			"postdate":"20201111"
+		},
+		{
+			"title":"농림어가의 발전을 위한 ‘2020 <b>농림어업<\/b>총조사’ 실시!",
+			"link":"https:\/\/blog.naver.com\/gjcityi?Redirect=Log&logNo=222152293276",
+			"description":"광주시는 오는 11월 23일부터 12월 18일까지 ‘2020 <b>농림어업<\/b>총조사’를 실시합니다. 5년마다 실시하는 이번 조사는 농림어가의 규모, 분포, 구조 및 경영형태 등을 파악하는 전국 규모의 통계 조사인데요.... ",
+			"bloggername":"광주시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gjcityi",
+			"postdate":"20201123"
+		},
+		{
+			"title":"[카드뉴스] 통계로 보는 우리 지역(<b>농림어업<\/b>편) - 남원시",
+			"link":"https:\/\/blog.naver.com\/hnstat?Redirect=Log&logNo=222577087397",
+			"description":"'<b>농림어업<\/b>조사'가 내일부터 실시되오니 많은 관심과 참여 부탁드립니다~ 그럼 다음에 또 만나요~ #통계청 #호남지방통계청 #호남청 #블로그기자단 #남원시 #지역통계 #통계 #농업 #임업 #어업 #<b>농림어업<\/b>조사... ",
+			"bloggername":"통계로 통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hnstat",
+			"postdate":"20211124"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사실시 안내",
+			"link":"https:\/\/blog.naver.com\/anseongsi1?Redirect=Log&logNo=222147819112",
+			"description":"급변하는 <b>농림어업<\/b> 환경의 변화에 2020 <b>농림어업<\/b>총조사를 실시합니다! 안성시의 모든 농림어가 분들은 더 나은 내일을 위해 농산어촌의 이야기를 들려주세요. <b>농림어업<\/b>총조사는 무엇인가요? 전국의... ",
+			"bloggername":"안성 e 좋아",
+			"bloggerlink":"https:\/\/blog.naver.com\/anseongsi1",
+			"postdate":"20201118"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사(전수조사)를 실시합니다.",
+			"link":"https:\/\/blog.naver.com\/khj_dangjin?Redirect=Log&logNo=222150658069",
+			"description":"<b>농림어업<\/b>총조사는 모든 농림어가의 규모, 분포, 구조 및 경영형태를 파악해 <b>농림어업<\/b> 정책수립의 기초자료로 활용하기 위한 국가 기본 통계조사로 5년마다 실시하며, 2020년 12월 1일 0시 현재 관내 모든... ",
+			"bloggername":"지속가능한 당진!",
+			"bloggerlink":"https:\/\/blog.naver.com\/khj_dangjin",
+			"postdate":"20201121"
+		},
+		{
+			"title":"<b>농림어업<\/b> 기준서 관련 용어의 정의",
+			"link":"https:\/\/blog.naver.com\/hhaebitt?Redirect=Log&logNo=222804251930",
+			"description":"예를 들어, 관리하지 않은 자원을 수확하는 것(예: 원양어업, 천연림 벌채)은 <b>농림어업<\/b>활동에 해당하지 않는다. ⑶ 변화의 측정. 생물적 변환이나 수확으로 인해 발생한 질적(예: 유전적 장점, 밀도, 숙성도... ",
+			"bloggername":"Better late than Never",
+			"bloggerlink":"https:\/\/blog.naver.com\/hhaebitt",
+			"postdate":"20220708"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사 조사요원모집 안내",
+			"link":"https:\/\/blog.naver.com\/nyjloving?Redirect=Log&logNo=222122912443",
+			"description":"<b>농림어업<\/b>총조사는 국내 농림어가의 규모, 분포 등 각 특성을 파악하여 추후 <b>농림어업<\/b> 정책 수립을 위한 기초자료 및 표본조사 추출툴을 만들기 위해 진행되는데요. 우리시에서도 관내에 분포되어 있는... ",
+			"bloggername":"남양주시 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/nyjloving",
+			"postdate":"20201022"
+		},
+		{
+			"title":"계룡 <b>농림어업<\/b> 총조사 조사요원 모집!(~11\/9)",
+			"link":"https:\/\/blog.naver.com\/sinmunman?Redirect=Log&logNo=222128804864",
+			"description":"2020 <b>농림어업<\/b>총조사는 5년 마다 시행되는 통계조사로 <b>농림어업<\/b> 종사자의 종사 부문·기간 등의 공통 항목과 농업·임업·어업의 각 특성에 맞는 논·산림 면적, 재배작물 종류 등을 조사한다. 선발인원은... ",
+			"bloggername":"충청남도",
+			"bloggerlink":"https:\/\/blog.naver.com\/sinmunman",
+			"postdate":"20201028"
+		},
+		{
+			"title":"<b>농림어업<\/b>가구 조사 자료",
+			"link":"https:\/\/blog.naver.com\/bobae10088?Redirect=Log&logNo=222700380133",
+			"description":"그래도 농업이나 어업은 힘들며 노력만큼 수익이 되지 않는다고 생각합니다. 과연 현실은 어떨까요? 오늘 통계청 블로그에 &quot;2021년 <b>농림어업<\/b>조사 결과&quot; 보도자료가 올라와서 그림 위주로 정리... ",
+			"bloggername":"부동산 관련 스터디",
+			"bloggerlink":"https:\/\/blog.naver.com\/bobae10088",
+			"postdate":"20220414"
+		},
+		{
+			"title":"통계청, <b>농림어업<\/b>총조사 마무리...2021년 9월 결과 발표",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222182819602",
+			"description":"□ 통계청은 2020<b>농림어업<\/b>총조사에서 사례별로 수집된 자료를 바탕으로 농림어가의 변화, 과학화된 <b>농림어업<\/b> 경영형태, 일손 부족을 겪고 있는 농산어촌의 필요 고용인력 등을 담은 조사결과를 2021년 4월... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20201223"
+		},
+		{
+			"title":"여러분의 이야기를 들려주세요~'2020<b>농림어업<\/b>총조사... ",
+			"link":"https:\/\/blog.naver.com\/mungyeongsi?Redirect=Log&logNo=222155935075",
+			"description":"<b>농림어업<\/b>총조사는... 전국의 모든 농림어가의 규모, 구조, 분포 및 특성을 파악하기 위해 5년마다 실시하는 국가 기본 통계조사 조사항목은 농림가, 해수면 어가, 내수면 어가, 지역조사표 등 4종 127개... ",
+			"bloggername":"문경시청 대표 블로그입니다.",
+			"bloggerlink":"https:\/\/blog.naver.com\/mungyeongsi",
+			"postdate":"20201130"
+		},
+		{
+			"title":"청양군, ‘2020 <b>농림어업<\/b>총조사’ 실시",
+			"link":"https:\/\/blog.naver.com\/cheongyange?Redirect=Log&logNo=222152084866",
+			"description":"<b>농림어업<\/b>총조사는 통계청 주관으로 전국적으로 실시하는 국가 기본 통계조사입니다. 지난 1960년 농업 총조사를 시작으로 어업총조사, 임업총조사로 분리해 실시하다가 2010년부터 통합하여 5년마다... ",
+			"bloggername":"청양군 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/cheongyange",
+			"postdate":"20201123"
+		},
+		{
+			"title":"거제시, 『2020 <b>농림어업<\/b>총조사』조사요원 모집",
+			"link":"https:\/\/blog.naver.com\/jtwon21?Redirect=Log&logNo=222127818810",
+			"description":"#거제시는 올해 12월 1일부터 18일까지 진행되는「2020 <b>농림어업<\/b>총조사」에 참여할 조사요원을... 조사요원 모집기간은 10월 26일부터 11월 6일까지이며, <b>농림어업<\/b>총조사 홈페이지(www.affcensus.go.kr)를 통해... ",
+			"bloggername":"거제통영오늘신문",
+			"bloggerlink":"https:\/\/blog.naver.com\/jtwon21",
+			"postdate":"20201027"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사 실시 안내",
+			"link":"https:\/\/blog.naver.com\/ddm4you?Redirect=Log&logNo=222160511341",
+			"description":"18.(금) ✥ 조사대상 : 관내 모든 농림어가 ✥ 조사목적 : 우리나라 농림어가의 규모, 분포, 구조 및 경영형태를 파악하여 <b>농림어업<\/b> 정책수립의 기초자료 및 표본조사의 표본추출틀로 활용... ",
+			"bloggername":"동대문구청 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ddm4you",
+			"postdate":"20201202"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사, 농산어촌의 이야기를... ",
+			"link":"https:\/\/blog.naver.com\/sokcho_n1?Redirect=Log&logNo=222149602126",
+			"description":"통계상황실 : 033-639-3807~3809 -속초시 기획예산과 법무팀 : 033-639-2124 #속초 #속초시 #속초시청 #2020농립어업총조사 #<b>농림어업<\/b>총조사 #통계청 #소금툰 #농림어가 #많은참여 #부탁드립니다",
+			"bloggername":"속초시공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sokcho_n1",
+			"postdate":"20201120"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b> 총조사 다음 달 18일까지 진행",
+			"link":"https:\/\/blog.naver.com\/coq?Redirect=Log&logNo=222153116216",
+			"description":"<b>농림어업<\/b> 총조사는 농림어가 구성, 분포 및 변화 등을 파악하고자 5년 주기로 시행하는 국가통계다. 조사 기간은 인터넷 다음 달 11일, 방문 면접조사는 다음 달 1일부터 18일까지 진행한다. 총조사는 모든... ",
+			"bloggername":"coq",
+			"bloggerlink":"https:\/\/blog.naver.com\/coq",
+			"postdate":"20201124"
+		},
+		{
+			"title":"<b>농림어업<\/b> 회계처리의 적용범위 \/ 최초 인식",
+			"link":"https:\/\/blog.naver.com\/hhaebitt?Redirect=Log&logNo=222579010343",
+			"description":"<b>농림어업<\/b>활동과 관련되는 경우의 회계처리에 적용한다. ⑴ 생물자산 ⑵ 수확시점의 수확물 ⑶ 문단 27.14와 27.15에서 규정하는 정부보조금 27.3 이 절은 다음의 경우에는 적용하지 아니한다. ⑴ <b>농림어업<\/b>활동... ",
+			"bloggername":"Better late than Never",
+			"bloggerlink":"https:\/\/blog.naver.com\/hhaebitt",
+			"postdate":"20211126"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사 참여",
+			"link":"https:\/\/blog.naver.com\/manjisong?Redirect=Log&logNo=222159965142",
+			"description":"2020년도 <b>농림어업<\/b>총조사 참여에 관한 안내문이었어요. 아마 경영체 등록이 되어있는 모든 농업, 임업, 어업인들에게 안내장이 다 갔을겁니다. 뒷면에는 인터넷으로 참여할 때 개인 ID로 사용되는 참여번호가... ",
+			"bloggername":"하늘을 날고 싶은 다래",
+			"bloggerlink":"https:\/\/blog.naver.com\/manjisong",
+			"postdate":"20201201"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사 실시! &quot;농산어촌의 이야기를 들려주세요&quot;",
+			"link":"https:\/\/blog.naver.com\/nyjloving?Redirect=Log&logNo=222143411563",
+			"description":"<b>농림어업<\/b>총조사는 통계청이 주관하는 사업으로, 우리나라 농림어가의 규모, 분포, 구조 및 경영상태와 행정리 단위의 경제활동, 생활 기반시설 등을 조사하여 <b>농림어업<\/b> 정책 수립의 기초자료로... ",
+			"bloggername":"남양주시 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/nyjloving",
+			"postdate":"20201113"
+		},
+		{
+			"title":"부여 2020 <b>농림어업<\/b>총조사 조사요원 모집!(11\/2~11\/9)",
+			"link":"https:\/\/blog.naver.com\/sinmunman?Redirect=Log&logNo=222133092244",
+			"description":"2020 <b>농림어업<\/b>총조사는 5년마다 실시되는 대규모 국가통계조사이며, 우리나라 농림어가의 규모와 분포, 구조 및 경영 형태 등을 파악하고 <b>농림어업<\/b> 수립의 기초자료로 활용하기 위해 실시하는 조사다.... ",
+			"bloggername":"충청남도",
+			"bloggerlink":"https:\/\/blog.naver.com\/sinmunman",
+			"postdate":"20201102"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사 조사요원 모집",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222123193267",
+			"description":"2020 <b>농림어업<\/b>총조사 조사요원 모집 - 농림어민의 삶터, 농산어촌의 이야기를 들어줄 역량 있는 인력 모집 - □ 통계청(청장 강신욱)이 올해 12월 1일부터 18일까지 실시되는 2020 <b>농림어업<\/b>총조사 조사요원을... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20201022"
+		},
+		{
+			"title":"재무회계 - <b>농림어업<\/b>(생물자산, 수확물)",
+			"link":"https:\/\/blog.naver.com\/10004oky?Redirect=Log&logNo=222290243903",
+			"description":"이승준, 장금주, 강민정, 유영태, 이주삼 저 'IFRS 중급회계 상\/하' &lt;<b>농림어업<\/b>(재고자산 및 유형자산 참고)&gt; 음영 : <b>농림어업<\/b> 기준서 적용 범위 생물자산 (살아있는 동·식물) → 수확물(생산시점) (생물자산에서... ",
+			"bloggername":"▦일상의책갈피▦",
+			"bloggerlink":"https:\/\/blog.naver.com\/10004oky",
+			"postdate":"20210328"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사 농림어가대표로 말해주세요!... ",
+			"link":"https:\/\/blog.naver.com\/dalseonggun?Redirect=Log&logNo=222148754030",
+			"description":"2020 <b>농림어업<\/b>총조사 농림어가대표로 말해주세요! ▶️조사기간◀️ - 인터넷조사 : 2020. 11. 23. ~ 12. 11. - 현장조사 : 2020. 12. 1. ~ 12. 18. 2020 <b>농림어업<\/b>총조사 11월 23일부터 12월 18일까지 '2020... ",
+			"bloggername":"군민이 빛나는 달성",
+			"bloggerlink":"https:\/\/blog.naver.com\/dalseonggun",
+			"postdate":"20201119"
+		},
+		{
+			"title":"2015 <b>농림어업<\/b>총조사 결과",
+			"link":"https:\/\/blog.naver.com\/likegy?Redirect=Log&logNo=220823117980",
+			"description":"<b>농림어업<\/b>총조사는 농림어가 정의에 해당하는 전국의 모든 농가, 임가, 어가의 총수는 물론 개별... 지금 자리를 잡아가고 있는 경북농민사관학교 사업 뿐만 아니라 농업 임업 어업을 이끌어갈 6차 산업... ",
+			"bloggername":"김관용",
+			"bloggerlink":"https:\/\/blog.naver.com\/likegy",
+			"postdate":"20160928"
+		},
+		{
+			"title":"<b>농림어업<\/b> 기준서의 목적과 적용범위",
+			"link":"https:\/\/blog.naver.com\/hhaebitt?Redirect=Log&logNo=222804248761",
+			"description":"한국채택국제회계기준(K-IFRS) 제1041호 <b>농림어업<\/b> 한국회계기준원 회계기준위원회 의결 2018.11.14. 목적 이 기준서의 목적은 <b>농림어업<\/b>활동과 관련된 회계처리와 공시에 관한 사항을 정하는 데 있다. 적용범위... ",
+			"bloggername":"Better late than Never",
+			"bloggerlink":"https:\/\/blog.naver.com\/hhaebitt",
+			"postdate":"20220708"
+		},
+		{
+			"title":"<b>농림어업<\/b>활동 회계처리 실무지침",
+			"link":"https:\/\/blog.naver.com\/hhaebitt?Redirect=Log&logNo=222579960580",
+			"description":"<b>농림어업<\/b>활동 회계처리 실무지침 실27.5 당해 자산에 대한 자금 조달, 세금 또는 수확 후 생물자산의... (문단 27.14) 실27.8 이 절은 순공정가치로 측정하는 생물자산과 관련된 정부보조금이나 특정 <b>농림어업<\/b>활... ",
+			"bloggername":"Better late than Never",
+			"bloggerlink":"https:\/\/blog.naver.com\/hhaebitt",
+			"postdate":"20211127"
+		},
+		{
+			"title":"[기획보도] <b>농림어업<\/b>총조사로 본 전남 농어업 변화상",
+			"link":"https:\/\/blog.naver.com\/hnstat?Redirect=Log&logNo=222831312307",
+			"description":"bmode=read&amp;bSeq=&amp;aSeq=419480&amp;pageNo=1&amp;rowNum=10&amp;navCount=10&amp;currPg=&amp;searchInfo=&amp;sTarget=title&amp;sTxt= #농가 #농가인구 #어가 #어가인구 #농업경영형태 #어업겅영형태 #농업 #어업 #<b>농림어업<\/b> #<b>농림어업<\/b>총조사... ",
+			"bloggername":"통계로 통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hnstat",
+			"postdate":"20220727"
+		},
+		{
+			"title":"&lt;2020 인구주택·<b>농림어업<\/b>총조사 홍보대사 위촉식&gt;",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222024973047",
+			"description":"내일의 변화는 당신의 이야기로부터 2020 인구주택·<b>농림어업<\/b>총조사 홍보대사 위촉식 현장! 2020 인구주택·<b>농림어업<\/b>총조사의 힘찬 출발을 알리는 홍보대사 위촉식이 7월 8일 SKY31 컨벤션에서... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20200708"
+		},
+		{
+			"title":"2020 인구주택 및 <b>농림어업<\/b> 총조사 chong-chong up!... ",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222101763691",
+			"description":"2020 인구주택 및 <b>농림어업<\/b> 총조사와 김세동·김하민 작가가 함께한 chong-chong up! 프로젝트가... *필수 해시태그) #인구주택총조사 #<b>농림어업<\/b>총조사 #총총업 3. 현장 이벤트 참여 후 스탭에게 보여주면... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20200928"
+		},
+		{
+			"title":"2020 인구주택총조사·<b>농림어업<\/b>총조사 홍보대사 촬영현장",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222039301193",
+			"description":"2020 인구주택총조사·<b>농림어업<\/b>총조사 홍보대사 포스터 촬영을 위해 배우 박서준님과 아나운서... 2020 인총·농총 꼭 함께해요 배우 박서준님과 아나운서 박선영님이 함께하는 2020 인구주택총조사·<b>농림어업<\/b>총조... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20200723"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사-더 나은 내일을 위해 농산어촌의... ",
+			"link":"https:\/\/blog.naver.com\/hnstat?Redirect=Log&logNo=222145982972",
+			"description":"<b>농림어업<\/b>총조사(Census of Agriculture, Forestry and Fisheries)란? 농림어가 정의에 해당하는 전국의 모든 농가, 임가, 어가의 총수는 물론 개별 특성까지 파악하여 <b>농림어업<\/b> 정책 및 농산어촌 지역개발계획 수립 및... ",
+			"bloggername":"통계로 통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hnstat",
+			"postdate":"20201116"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사",
+			"link":"https:\/\/blog.naver.com\/hnstat?Redirect=Log&logNo=222154443894",
+			"description":"□ <b>농림어업<\/b>총조사는 농림어가의 구조 변화, <b>농림어업<\/b>의 산업 경쟁력, 농산어촌의 삶의 질측정을... o <b>농림어업<\/b>총조사는 전국의 농업, 임업, 어업을 경영하는 가구를 대상으로 전수 현장조사를 실시 o... ",
+			"bloggername":"통계로 통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hnstat",
+			"postdate":"20201125"
+		},
+		{
+			"title":"보령 12월18일까지 2020 <b>농림어업<\/b>총조사 참여하세요!",
+			"link":"https:\/\/blog.naver.com\/sinmunman?Redirect=Log&logNo=222152232852",
+			"description":"<b>농림어업<\/b>총조사는 5년마다 실시하는 국가 기본 통계조사로, 모든 농림어가의 규모와 분포·구조·경영형태를 파악해 <b>농림어업<\/b> 정책수립의 기초자료로 활용된다. 올해 조사기준 시점은 12월 1일 0시 현재로... ",
+			"bloggername":"충청남도",
+			"bloggerlink":"https:\/\/blog.naver.com\/sinmunman",
+			"postdate":"20201124"
+		},
+		{
+			"title":"농총이즈백! <b>농림어업<\/b>총조사도 돌아왔다!",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222042895375",
+			"description":"#<b>농림어업<\/b>총조사 도 돌아왔습니다! 전국의 모든 농림어가와 행정리 이장님 주목! 하반기에 여러분을 목 빠지게 기다리고 있는 ⭐<b>농림어업<\/b>총조사⭐ 설마 모르시는 분은 없겠죠..? (넝담~( ͡° ͜ʖ ͡° )) #통계청... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20200730"
+		},
+		{
+			"title":"[<b>농림어업<\/b>총조사X소금툰] 부모님이 귀농을 하셨다",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222147462322",
+			"description":"모든 농림어가들이 조사대상이니 주변에 많이 알려주세요 2020 <b>농림어업<\/b>총조사 - 인터넷 조사 : 2020.11.23. ~ 12.18. - 조사원 방문 조사 : 2020.12.01. ~ 12.18. 위 이미지 클릭 시, 통계청 공식 페이스북으로... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20201119"
+		},
+		{
+			"title":"2020 <b>농림어업<\/b>총조사 무엇이든 물어보세요!",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=222160548887",
+			"description":"<b>농림어업<\/b>총조사 왜 실시하나요? 비대면으로 참여할 수 있나요? 2020 <b>농림어업<\/b>총조사에 대한 궁금증! 통계청이 해결해드립니다 2020 <b>농림어업<\/b>총조사 인터넷 조사 : 11월 23일(월) ~ 12월 18일(금) 조사원... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20201203"
+		},
+		{
+			"title":"어가인구 집중 탐구 2016 <b>농림어업<\/b>조사 결과 발표",
+			"link":"https:\/\/blog.naver.com\/suhyup_nf?Redirect=Log&logNo=221004298379",
+			"description":"이 같은 사실은 통계청이 최근 발표한 2016년 <b>농림어업<\/b>조사 결과를 통해 알 수 있는데, 어업부문 조사 결과를 좀더 자세히 알아보도록 하겠습니다. 어가 규모•분포 2016년 12월 1일 현재 어가는 5만 3... ",
+			"bloggername":"우리바다 푸른 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/suhyup_nf",
+			"postdate":"20170512"
+		},
+		{
+			"title":"<b>농림어업<\/b> 세계 17위..현실은 농가부채 역대 최고",
+			"link":"https:\/\/nanse.tistory.com\/entry\/%EB%86%8D%EB%A6%BC%EC%96%B4%EC%97%85-%EC%84%B8%EA%B3%84-17%EC%9C%84%ED%98%84%EC%8B%A4%EC%9D%80-%EB%86%8D%EA%B0%80%EB%B6%80%EC%B1%84-%EC%97%AD%EB%8C%80-%EC%B5%9C%EA%B3%A0?category=322523",
+			"description":"[출처 : 뉴스토마토 2014.3.20 기사자료 ] <b>농림어업<\/b> 세계 17위..현실은 농가부채 역대 최고 우리나라... 농림축산식품부와 농촌경제연구원에 따르면 2008년 175만9000㏊였던 경지면적은 2011년에 169만8000㏊로... ",
+			"bloggername":"아름다운난세상",
+			"bloggerlink":"https:\/\/nanse.tistory.com\/",
+			"postdate":"20140326"
+		},
+		{
+			"title":"통계로 살펴 본 <b>농림어업<\/b> 부문별 산업 현황",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=130106342495",
+			"description":"※ 마치며 지금까지 농업, 어업, 임업의 현황 및 경영 구조 등에 대해 알아보았습니다. 평소 <b>농림어업<\/b> 분야에 대해관심이 깊지 않았다면 조금 생소한 부분이 많았으리라 생각됩니다. 하지만 앞서... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20110407"
+		},
+		{
+			"title":"2015 <b>농림어업<\/b>총조사 조사요원 교육",
+			"link":"https:\/\/blog.naver.com\/gokory?Redirect=Log&logNo=220562454590",
+			"description":"2015 <b>농림어업<\/b>총조사 조사요원 교육 2015년 <b>농림어업<\/b>총조사 조사요원 교육이 11월 23일과 24일 양일간 고령군청 대가야홀에서 있었네요 저도 조사원이라서 서둘러 군청으로 향했어요 아직 조사원들이 많이... ",
+			"bloggername":"고령군 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gokory",
+			"postdate":"20151208"
+		},
+		{
+			"title":"'<b>농림어업<\/b> 최근 고용 동향과 대응 과제' 정책토론회",
+			"link":"https:\/\/blog.naver.com\/kreipr?Redirect=Log&logNo=221361204047",
+			"description":"한국농촌경제연구원(KREI)은 9월 19일 수요일 서울 동자아트홀에서 '<b>농림어업<\/b> 최근 고용 동향과 대응... 송남근 농림축산식품부 농업정책과장 · 심증식 한국농정신문 편집국장 · 윤동열 울산대학교 교수... ",
+			"bloggername":"한국농촌경제연구원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kreipr",
+			"postdate":"20180918"
+		},
+		{
+			"title":"참여해주세요! 2015 <b>농림어업<\/b>총조사!",
+			"link":"https:\/\/blog.naver.com\/gnfeel?Redirect=Log&logNo=220556715138",
+			"description":"경남도는 통계청과 함께 지난 11월 실시한 인구주택총조사에 이어 12월 1일부터 12월 15일까지 <b>농림어업<\/b>총조사를 실시합니다. 이번 조사는 전국의 모든 농림어가의 규모와 분포, 경영구조를 파악하기... ",
+			"bloggername":"경상남도 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gnfeel",
+			"postdate":"20151202"
+		},
+		{
+			"title":"금당실마을, 2015년 <b>농림어업<\/b>총조사 실시하다.",
+			"link":"https:\/\/blog.naver.com\/zhengwen1102?Redirect=Log&logNo=220554785197",
+			"description":"2015년 <b>농림어업<\/b>총조사를 면사무소 2층 회의실에서 실시하고 있습니다. 황병수면장님은 총관리자, 조사관리자, 업무보조원, 조사원 13명에게 11월30일, 면장실에서 국가에서 5년마다 실시하는 <b>농림어업<\/b>총... ",
+			"bloggername":"금당실마을에서 살아가는 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/zhengwen1102",
+			"postdate":"20151130"
+		},
+		{
+			"title":"2015 <b>농림어업<\/b>총조사 조사요원 모집",
+			"link":"https:\/\/blog.naver.com\/boryeongsi?Redirect=Log&logNo=220530673411",
+			"description":"2015 <b>농림어업<\/b>총조사 조사요원 11. 9일부터 16일까지 179명 모집 보령시는 오는 12월 실시되는 ‘2015 <b>농림어업<\/b>총조사’ 실시를 앞두고 11.16일까지 조사에 참여할 조사요원 179명을 모집합니다. ‘2015... ",
+			"bloggername":"보령시 l 대천",
+			"bloggerlink":"https:\/\/blog.naver.com\/boryeongsi",
+			"postdate":"20151106"
+		},
+		{
+			"title":"창녕군, 「2015 <b>농림어업<\/b>총조사」준비에 만전",
+			"link":"https:\/\/blog.naver.com\/cngblog?Redirect=Log&logNo=220551575375",
+			"description":"창녕군은 지난 23일부터 25일까지 3일간 창녕문화예술회관에서 2015 <b>농림어업<\/b>총조사 담당 공무원 및... 2015 <b>농림어업<\/b>총조사에서는 전국의 모든 농·림·어가와 행정리를 대상으로 조사가 진행되며, 창녕군은... ",
+			"bloggername":"창녕군님의 블로그 cngblog",
+			"bloggerlink":"https:\/\/blog.naver.com\/cngblog",
+			"postdate":"20151127"
+		},
+		{
+			"title":"<b>농림어업<\/b>총조사 조사원 모집",
+			"link":"https:\/\/blog.naver.com\/uiseong-good?Redirect=Log&logNo=220530735985",
+			"description":"<b>농림어업<\/b>총조사는 농림어가의 규모, 분포, 구조 및 경영형태를 파악하는 농가․임가부문 51개, 해수 및 내수면 어가 60개 항목과 읍면의 행정리의 <b>농림어업<\/b> 시설 및 토지관리 등 지역조사표 19개로... ",
+			"bloggername":"새로운 도전과 기회의 땅 활력 넘치는 희망의성",
+			"bloggerlink":"https:\/\/blog.naver.com\/uiseong-good",
+			"postdate":"20151106"
+		},
+		{
+			"title":"<b>농림어업<\/b> 취업자 수 전년비 6만1천명 증가, 취업유도 정책... ",
+			"link":"https:\/\/blog.naver.com\/kreipr?Redirect=Log&logNo=221362592525",
+			"description":"한국농촌경제연구원은 어제(9\/19) 서울 동자아트홀에서 '<b>농림어업<\/b> 최근 고용 동향과 대응 과제'를... 최근 농림업 분야 취업자 수가 증가했으며 이는 당분간 지속될 것”이라고 밝혔다. 이러한 추세를... ",
+			"bloggername":"한국농촌경제연구원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kreipr",
+			"postdate":"20180920"
+		},
+		{
+			"title":"직무분야별 직무능력평가 NCS 24. <b>농림어업<\/b> 문제집 추천해요!",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220619157557",
+			"description":"<b>농림어업<\/b>입니다~ NCS 기반 직무분야별 직무능력평가의 마지막이자 NCS 분류체계의 마지막이에요... NCS 기반 직무분야별 직무능력평가24 <b>농림<\/b>,<b>어업<\/b> 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.01.20.... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160205"
+		},
+		{
+			"title":"통계로 본 세계속 한국농업_<b>농림어업<\/b> GDP 세계 22위(1503,농민)",
+			"link":"http:\/\/wjyang.egloos.com\/11160012",
+			"description":"2015-03-18 <b>농림어업<\/b> GDP 세계 22위…파·마늘 생산 ‘최상위권’ 통계로 본 세계속 한국농업... ◆<b>농림어업<\/b> GDP 273억달러…세계 ‘22위’=우리나라의 <b>농림어업<\/b> 국내총생산(GDP) 규모는 2012년 기준... ",
+			"bloggername":"바람따라....",
+			"bloggerlink":"http:\/\/wjyang.egloos.com\/",
+			"postdate":"20150320"
+		},
+		{
+			"title":"[편집의눈]<b>농림어업<\/b> 일자리 5만7000명 증가 수수께끼...한국의... ",
+			"link":"https:\/\/blog.naver.com\/isomis?Redirect=Log&logNo=221378011531",
+			"description":"농업어업 분야를 빼면 마이너스 증가였다는 겁니다. <b>농림어업<\/b> 취업자 1만2000명 때문에 고용... (1)김종욱 한국노동연구원 연구원 “주무부처인 농림축산식품부도 문의를 하는데 왜 늘었는지 잘 모르겠습니다.... ",
+			"bloggername":"빈섬학당 疑問堂",
+			"bloggerlink":"https:\/\/blog.naver.com\/isomis",
+			"postdate":"20181015"
+		},
+		{
+			"title":"<b>농림어업<\/b>총조사 그게 뭔데? 12월 4일부터 시작되는 <b>농림어업<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=221717895265",
+			"description":"이후 1970년에는 '어업총조사'를, 1998년에는 '임업총조사'를 실시합니다. 각 조사들은 관련 부처에서... 각종 표본조사의 모집단 자료로 활용 <b>농림어업<\/b>총조사는 모든 전국 농림어가를 대상으로 실시하여... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20191126"
+		},
+		{
+			"title":"2015 <b>농림어업<\/b>총조사 실시(11월30일~12월15일)",
+			"link":"https:\/\/blog.naver.com\/hwa3789?Redirect=Log&logNo=220561176316",
+			"description":"조사 대상은 올해 12월1일 기준 철원지역 모든 <b>농림어업<\/b>가구이며, 113개 행정리에 대한 지역조사도 진행된다. 조사항목은 농림업가구 51개 항목, 어업가구 30개 항목, 지역조사 19개 항목 등이다.... ",
+			"bloggername":"철원 이상화가 그리는 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/hwa3789",
+			"postdate":"20151207"
+		},
+		{
+			"title":"[경기일보 기고] <b>농림어업<\/b>은 일자리 보고인가",
+			"link":"https:\/\/blog.naver.com\/kreipr?Redirect=Log&logNo=221378443734",
+			"description":"그 중 농업이 96%, 임업이 0.5%, 어업이 3.5% 비중을 차지하는 것으로 볼 수 있다. <b>농림어업<\/b> 일자리의 약 10%는 유급고용이고, 나머지는 무급 일자리이다. 무급 일자리는 자영업자와 무급가족종사자로 나뉜다.... ",
+			"bloggername":"한국농촌경제연구원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kreipr",
+			"postdate":"20181016"
+		},
+		{
+			"title":"2015 <b>농림어업<\/b>총조사 요원 모집",
+			"link":"https:\/\/blog.naver.com\/hiksanin?Redirect=Log&logNo=220530914039",
+			"description":"<b>농림어업<\/b>총조사는 전국 농림어가의 규모, 구조, 분포 및 특성을 파악하여 <b>농림어업<\/b> 정책 및 농산어촌 지역개발계획 수립·평가, 각종 학술연구 자료와 표본조사의 표본틀로 활용하기 위해 실시된다. 이번... ",
+			"bloggername":"익산시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hiksanin",
+			"postdate":"20151106"
+		},
+		{
+			"title":"익산, 2015 <b>농림어업<\/b>총조사 실시",
+			"link":"https:\/\/blog.naver.com\/hiksanin?Redirect=Log&logNo=220554359221",
+			"description":"2015년 <b>농림어업<\/b>총조사는 전국의 모든 농림어가의 규모, 구조, 분포 및 특성을 파악하기 위해 매 5년마다 실시하는 국가 기본 통계조사다. 12월 1일 0시 현재, 전국의 모든 농가, 임가, 어가 및 행정 리를... ",
+			"bloggername":"익산시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hiksanin",
+			"postdate":"20151130"
+		},
+		{
+			"title":"고성군, 2015 <b>농림어업<\/b>총조사 실시",
+			"link":"https:\/\/blog.naver.com\/antnews?Redirect=Log&logNo=220555193333",
+			"description":"한편, <b>농림어업<\/b>총조사는 농림어가의 구조와 분포, 경영실태를 파악해 <b>농림어업<\/b> 정책입안과 지역발전 계획수립의 기초 자료로 활용하기 위해 5년마다 실시하고 있다.",
+			"bloggername":"세계뉴스통신",
+			"bloggerlink":"https:\/\/blog.naver.com\/antnews",
+			"postdate":"20151201"
+		},
+		{
+			"title":"<b>농림어업<\/b>총조사 실시안내",
+			"link":"https:\/\/blog.naver.com\/fastcheonan?Redirect=Log&logNo=130097428469",
+			"description":"2010 <b>농림어업<\/b>총조사 실시안내 ○ 조사목적 우리나라의 농림어가의 규모,분포,경영형태를 파악하여 <b>농림어업<\/b>정책및 농산어촌 지역개발계획을 위한 기초자료 제공, 농산어촌에 대한 학술연구 자료와... ",
+			"bloggername":"새로운 천안 행복한 시민",
+			"bloggerlink":"https:\/\/blog.naver.com\/fastcheonan",
+			"postdate":"20101117"
+		},
+		{
+			"title":"경인지방통계청, 2015년 <b>농림어업<\/b>총조사 실시",
+			"link":"https:\/\/blog.naver.com\/gpjn2011?Redirect=Log&logNo=220555593253",
+			"description":"경인지방통계청 구리사무소(소장 손배환)는 12월 1일부터 15일까지 구리․남양주․하남․가평․양평 소재 농림어가를 대상으로 2015년 <b>농림어업<\/b>총조사를 실시한다. 이번 조사는 전국 농림어가의 규모, 구조... ",
+			"bloggername":"가평저널",
+			"bloggerlink":"https:\/\/blog.naver.com\/gpjn2011",
+			"postdate":"20151201"
+		},
+		{
+			"title":"<b>농림어업<\/b> 분야 고용동향 분석 (11월)",
+			"link":"https:\/\/blog.naver.com\/kreipr?Redirect=Log&logNo=221422503520",
+			"description":"2018년 11월 <b>농림어업<\/b> 분야의 취업자수는 몇명이나 될까요. 한국농촌경제연구원에서는 통계청에서 매달 발표하는 '경제활동 인구조사' 자료를 기반으로 <b>농림어업<\/b> 분야 취업자 특성을 분석하고 있는데요... ",
+			"bloggername":"한국농촌경제연구원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kreipr",
+			"postdate":"20181219"
+		},
+		{
+			"title":"[이벤트] 2015 인구주택 및 <b>농림어업<\/b> 총조사 나도 홍보대사... ",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=220427567428",
+			"description":"[이벤트] 2015 인구주택 및 <b>농림어업<\/b> 총조사 나도 홍보대사 EVENT! 5년마다 한 번씩 실시하는 올바른 국가 정책수립의 토대, 인구주택 및 <b>농림어업<\/b> 총조사가 이제 100일 앞으로 다가왔습니다! 얼마 남지 않은... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20150724"
+		},
+		{
+			"title":"2019년 <b>농림어업<\/b>조사로 보는 호남지역",
+			"link":"https:\/\/blog.naver.com\/hnstat?Redirect=Log&logNo=221964156026",
+			"description":"<b>농림어업<\/b>조사는? - 전국의 농림어가의 규모, 인구, 분포및 경영형태를 파악하여 <b>농림어업<\/b> 농산촌 정책의 수립 및 평가를 위한 기초자료 제공하며, - 2015 <b>농림어업<\/b>총조사 결과를 이용하여 표본으로... ",
+			"bloggername":"통계로 통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hnstat",
+			"postdate":"20200515"
+		},
+		{
+			"title":"화순군 ‘2015 <b>농림어업<\/b> 총조사’ 시행 12월 15일까지 9천여... ",
+			"link":"https:\/\/blog.naver.com\/cleanhwasun?Redirect=Log&logNo=220561084305",
+			"description":"화순군 ‘2015 <b>농림어업<\/b> 총조사’ 시행 12월 15일까지 9천여 농가, 임가, 어가 대상 화순군은 15일까지... 또한 어가는 지난 1년간 판매를 목적으로 1개월 이상 양식어업 등을 경영한 가구, 지난 1년간 직접... ",
+			"bloggername":"화순군블로그, 명품화순",
+			"bloggerlink":"https:\/\/blog.naver.com\/cleanhwasun",
+			"postdate":"20151207"
+		},
+		{
+			"title":"2018년 <b>농림어업<\/b>조사 결과(농업·해수면어업·임업)",
+			"link":"https:\/\/blog.naver.com\/hi_nso?Redirect=Log&logNo=221515932503",
+			"description":"©통계청 2018년 가구 수는 농업 102만 1천 가구, 해수면<b>어업<\/b> 5만 2천 가구, 임업 8만 2천 가구입니다. 인구 수는 농업 231만 5천 명, 해수면<b>어업<\/b> 11만 7천 명, 임업 18만 9천 명입니다. 65세 이상의 고령인구... ",
+			"bloggername":"통계청 공식 블로그-통하는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/hi_nso",
+			"postdate":"20190417"
+		},
+		{
+			"title":"<b>농림어업<\/b>(agriculture, forestry &amp; fishery industry)",
+			"link":"https:\/\/blog.naver.com\/clacudcjs22?Redirect=Log&logNo=70115176055",
+			"description":"<b>농림어업<\/b>(agriculture, forestry &amp; fishery industry) <b>농림어업<\/b>은 재배업, 축산업, 임업, 어업 등을 포함하는 산업활동을 말한다. 재배업이란 농경지에서 곡물류, 채소 및 과일류, 기타 식용작물, 섬유작물 등 각종... ",
+			"bloggername":"시나브로",
+			"bloggerlink":"https:\/\/blog.naver.com\/clacudcjs22",
+			"postdate":"20110804"
+		},
+		{
+			"title":"원희룡 지사-강신욱 통계청장, 인구주택·<b>농림어업<\/b>총조사 면담",
+			"link":"https:\/\/blog.naver.com\/kohj007?Redirect=Log&logNo=222102590187",
+			"description":"원희룡 지사-강신욱 통계청장, 인구주택·<b>농림어업<\/b>총조사 면담 http:\/\/www.newsje.com\/news\/articleView.html?idxno... 원희룡 지사는 이날 오전 11시 집무실에서 인구주택·<b>농림어업<\/b>총조사에 앞서 가진 강신욱 통계청장과... ",
+			"bloggername":"제주도 사랑, 그리고 환경 사랑",
+			"bloggerlink":"https:\/\/blog.naver.com\/kohj007",
+			"postdate":"20200929"
+		}
+	]
+}

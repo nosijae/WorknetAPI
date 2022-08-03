@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:51 +0900",
+	"total":205651,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"사례분석을 통한 건설<b>사업관리<\/b> 대가산정 방법 개선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56565074",
+			"description":"Improvement of estimating method for construction management service fee by case study 본 연구는 국내∙외 건설<b>사업관리<\/b> "
+		},
+		{
+			"title":"종합건설<b>사업관리<\/b> <b>사업관리<\/b>비용산정을 위한 방법연구 - 기획단계에서 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116465206",
+			"description":"A Study on the Method for the Estimate of Construction Management in the Program Management 종합건설<b>사업관리<\/b> 발주의 대형"
+		},
+		{
+			"title":"조달청 맞춤형서비스 <b>사업<\/b>에 대한 ‘감독 권한대행 등 건설<b>사업관리<\/b>용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843065292",
+			"description":"Proposal for Improvement on the Task of Construction Project Management Service(CM) for the Customized Service Project of the Public Pr"
+		},
+		{
+			"title":"건설<b>사업관리<\/b>에서 형상<b>관리<\/b>에 관한 변경 프로세스 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16591609",
+			"description":"A Study of Development of Change Process for Configuration Management in Construction Project Management 형상<b>관리<\/b>는 생산품의 "
+		},
+		{
+			"title":"미용서비스의 개인적 특성, <b>사업관리<\/b>, <b>사업<\/b>성과의 상관관계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=848998050",
+			"description":"A Study on the Relationship between Personal Characteristics, Business Management and Business Performance of Beauty Service 본 연구"
+		},
+		{
+			"title":"해외철도 건설<b>사업관리<\/b> 성공적인 수행을 위한 방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884899220",
+			"description":"A plan study for the successful implementation of overseas railway construction project management(Focused on the Tanzania central line"
+		},
+		{
+			"title":"특허 분석에 의한 건축주용 소규모 공사 건설<b>사업관리<\/b> 지원시스템 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765632649",
+			"description":"Development of Small-Scale Construction Management Supporting SystemFor Owners By Analyzing Patents 공사 규모와 상관없이 설"
+		},
+		{
+			"title":"건설<b>사업관리<\/b> 프로젝트의 성과<b>관리<\/b>모델 구축을 위한 기초적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879203593",
+			"description":"A Preliminary Study on the Development of Performance Management Model for Construction Management Projects   건설<b>사업관리<\/b>, 성"
+		},
+		{
+			"title":"데이터세트 기록<b>관리<\/b>를 위한 기록관의 역할 연구: KR <b>사업관리<\/b>시스템 사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846893402",
+			"description":"A Study on the Role of Records Center for Dataset Records Management: Focused on Case Study of KR Project Management System 행정정"
+		},
+		{
+			"title":"특허 분석에 의한 건축주용 소규모 공사 건설<b>사업관리<\/b> 지원시스템 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765778964",
+			"description":"Development of Small-Scale Construction Management Supporting System For Owners By Analyzing Patents The design of construction work is"
+		},
+		{
+			"title":"민간투자<b>사업 관리<\/b>체계 확립에 관한 비교법적 연구 - 일본의 지정<b>관리<\/b>자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186827548",
+			"description":"A Comparative Study on Establishment of Private Finance Initiative(PFI) Manage System - Through The Designated Manager System in Japan "
+		},
+		{
+			"title":"BIM을 활용한 건설<b>사업관리<\/b>에 관한 연구 - CM Part를 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881022169",
+			"description":"An Analysis of Construction Project Management Using BIM - In Case of CM Part - The purpose of this study was to analyze the direction "
+		},
+		{
+			"title":"향촌진흥전략배경하농촌공공<b>사업관리<\/b>우화대책 (乡村振兴战略背景下农",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896339109",
+			"description":" 近些年随着综合实力不断增强,促使国家积极实施乡村振兴战略,力求农村经济良好发展.然而,对于农村"
+		},
+		{
+			"title":"국내 대형건설회사의 책임형 건설<b>사업관리<\/b> 역량 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420786011",
+			"description":" 최근 국내의 건설회사는 건설경기 침체와 국제금융시장의 연이은 악재로 인해 많은 어려움을 호소하"
+		},
+		{
+			"title":"도로·하천 건설<b>사업 관리<\/b>를 위한 BIM 플랫폼 요구기능 및 활용 방안에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650558141",
+			"description":"A Study on the BIM Platform Required Functions and Application for Road and River Construction Project Management 본 연구는 공공 "
+		},
+		{
+			"title":"계량서지학적 분석을 통한 건설<b>사업관리<\/b> 표준변수 도출",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842509299",
+			"description":"Identifying Standard Variables for Construction Management by Bibliometrics Analysis Due to the nature of the construction industry, ma"
+		},
+		{
+			"title":"국방획득 통합<b>사업관리<\/b>제도의 핵심성공요인(CSF)에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886572282",
+			"description":"A Study on the Critical Success Factors(CSF) of the Integrated Project Management System for the Defense Acquisitions  제1장 서 론 "
+		},
+		{
+			"title":"공공 건설<b>사업<\/b>의 효율적 건설<b>사업관리<\/b>수행을 위한 제도개선방안 - 총사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=614474782",
+			"description":"Improvement of Construction Management System in Public Construction Projects - Focused on the Total Project Cost Management Guidelines"
+		},
+		{
+			"title":"[ZOOM UP_한국수력원자력] “강원지역에 대규모 풍력발전 추진한다” : 양",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879692367",
+			"description":""
+		},
+		{
+			"title":"공공 건설<b>사업<\/b>의 효율적 건설<b>사업관리<\/b>수행을 위한 제도개선방안 - 총사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630739342",
+			"description":"Improvement of Construction Management System in Public Construction Projects - Focused on the Total Project Cost Management Guidelines"
+		},
+		{
+			"title":"사회기술적 접근 기반의 사용자 친화적 건설<b>사업관리<\/b>기법 개발 - 건설현",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879458583",
+			"description":"Development of User-Friendly Project Management System based on Socio-Technical Approach - Focusing on Case Analysis of Data from Const"
+		},
+		{
+			"title":"건설공사에서 실시간 현장 정보 공유에 의한 원가절감, 공기단축을 위한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842509318",
+			"description":"Development of Non-Contact Construction Management Supporting System For Cost Reduction and Duration Reduction By Real-Time Data Sharin"
+		},
+		{
+			"title":"데이터기반 국가연구개발<b>사업 관리<\/b>에 관한 법률의 제·개정 경과와 향후",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843691660",
+			"description":"  목차\n데이터기반 국가연구개발<b>사업 관리<\/b>에 관한 법률의 제·개정 경과와 향후 입법적 연구과제 \/ 진"
+		},
+		{
+			"title":"국내 시공책임형 건설<b>사업관리<\/b> 수행을 위한 기업 역량 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630770837",
+			"description":"Evaluation of Capability for Practicing CM at Risk in Korea 국내 시공책임형 건설<b>사업관리<\/b>(CMAR) 시장은 2019년 12월 현"
+		},
+		{
+			"title":"책임감리가 건설<b>사업관리<\/b>(CM)로 전환시 도입된 역량지수(ICEC)에 대한 도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174246865",
+			"description":"An Analysis of Perceptions by Road Construction Engineers on ICEC Framework at the Time of System Transition, from Responsibility Super"
+		},
+		{
+			"title":"국내 시공책임형 건설<b>사업관리<\/b> 수행을 위한 기업 역량 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=614464746",
+			"description":"Evaluation of Capability for Practicing CM at Risk in Korea 국내 시공책임형 건설<b>사업관리<\/b>(CMAR) 시장은 2019년 12월 현"
+		},
+		{
+			"title":"데이터세트 기록<b>관리<\/b>를 위한 기록관의 역할 연구: KR <b>사업관리<\/b>시스템 사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873500718",
+			"description":"A Study on the Role of Records Center for Dataset Records Management: Focused on Case Study of KR Project Management System 행정정"
+		},
+		{
+			"title":"업무 효율 향상을 위한 <b>사업관리<\/b>정보시스템",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562291214",
+			"description":"The Project Management Information System for the Work Efficiency Improvement 프로젝트의 성공적 수행을 위해 단계별 체"
+		},
+		{
+			"title":"지속가능한 건설<b>사업관리<\/b>를 위한 발전방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890220964",
+			"description":"Suggestions for Sustainable Construction Project Management For the sustainable development of the domestic construction project manage"
+		},
+		{
+			"title":"전사 웹기반 <b>사업관리<\/b>시스템 구축을 위한 정보화전략계획에 관한 사례",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13673242",
+			"description":"A Case Study on Information Strategy Plan of the Web Based on Project Management Information System for Construction Company 최근 건"
+		},
+		{
+			"title":"도로 · 하천 건설<b>사업 관리<\/b>를 위한 BIM 플랫폼 요구기능 및 활용 방안에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879532067",
+			"description":"A Study on the BIM Platform Required Functions and Application for Road and River Construction Project Management 본 연구는 공공 "
+		},
+		{
+			"title":"연구<b>관리<\/b>전문기관의 <b>사업<\/b>형태에 따른 국가 R&amp;D <b>사업관리<\/b> 효율성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562428423",
+			"description":"Efficiency analysis for R&amp;D management according to operation type of funding agencies 본 연구는 정부와 전문기관간에 위"
+		},
+		{
+			"title":"건설<b>사업관리<\/b> 용역비의 합리적인 산정방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650574023",
+			"description":"A study on the rational estimation of construction management fee  표제지\n요약\n목차\n1. 서론 10\n 1.1. 연구의 배경 및 목"
+		},
+		{
+			"title":"연구<b>관리<\/b>전문기관의 <b>사업<\/b>형태에 따른 국가R&amp;D <b>사업관리<\/b> 효율성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=445468722",
+			"description":"Efficiency Analysis for R&amp;D Management according to Operation Type of Funding Agencies 본 연구는 정부와 전문기관간에 위"
+		},
+		{
+			"title":"[엔지니어링 리포트] 보건환경연구원 신청사 신축 건설<b>사업관리<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877867566",
+			"description":"Construction Management of Gwangju Institute of Health and Environment New Building    "
+		},
+		{
+			"title":"주한미군기지이전<b>사업<\/b>의 종합<b>사업관리<\/b> 소개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595215820",
+			"description":"   주한미군기지이전<b>사업<\/b>, yrp종합<b>사업관리<\/b> "
+		},
+		{
+			"title":"지방자치단체 수행 국가복지<b>사업 관리<\/b>체계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=617964770",
+			"description":"Study on the National Welfare service Management System Performed by Local Governments 본 연구는 업무과정재설계의 관점에"
+		},
+		{
+			"title":"한국과 일본의 민간투자<b>사업 관리<\/b>통제방안에 관한 비교법적 연구 - <b>사업<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=580682714",
+			"description":"A Comparative Study on Supervision &amp; Control System in PFI between Korea and Japan - Including Establishment of Management Agency after"
+		},
+		{
+			"title":"주한미군기지이전<b>사업<\/b> 종합<b>사업관리<\/b>를 통한 교훈과 시사점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595215827",
+			"description":"   주한미군기지이전<b>사업<\/b>, 종합<b>사업관리<\/b>, pmc계약 "
+		},
+		{
+			"title":"특허 분석에 의한 발주자용 중.소규모 현장 비대면 건설<b>사업관리<\/b> UI개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846406345",
+			"description":"Development of Non-face-to-face Small and Medium-Sized Construction Project Management UI for Owners through Analyzes construction proj"
+		},
+		{
+			"title":"자원유형이 공적개발원조(ODA) <b>사업관리<\/b>의 효과성에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=600724075",
+			"description":"An Exploratory Study on the Effect of Resource Types on Effectiveness of Official Development Assistance Project Management -Focusing o"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865555984",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890519693",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868804809",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888156880",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888858859",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889758853",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890653088",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873437935",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891216378",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888355684",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881537804",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891177348",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886895605",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889919194",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822554071",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882371940",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822561106",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872849997",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890883311",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874112439",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887660073",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897100345",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886972716",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874667940",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885027770",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871366933",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891360167",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881201125",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842994350",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882873660",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"건설 <b>사업관리<\/b> 업무와 부실공사저감 간의 연관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887339470",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 1.1. 연구의 필요성 12\n 1.2. 연구의 목적 및 절차도 14\n 1.3. 연구"
+		},
+		{
+			"title":"한국과 일본의 민간투자<b>사업 관리<\/b>통제방안에 관한 비교법적 연구-<b>사업<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595113344",
+			"description":"A Comparative Study on Supervision &amp; Control System in PFI between Korea and Japan - Including Establishment of Management Agency after"
+		},
+		{
+			"title":"건설<b>사업관리<\/b> 현장조직의 조직구조가 조직문화 및 직무만족에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841273304",
+			"description":"Influences of Organizational Structure on Organizational Culture and Job Satisfaction in Construction Management Site Organizations 건"
+		},
+		{
+			"title":"[이건행 한전 배전계획처장] “배전분야 <b>사업<\/b>발굴·기술개발과 동반성장",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879000974",
+			"description":""
+		},
+		{
+			"title":"차세대 정지궤도 지구관측 위성시스템 개발 <b>사업관리<\/b> 개선 방안에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594341365",
+			"description":" 오늘날 위성핵심기술은 동보성, 광역성, 고 정밀성, 항 재난성 등을 고려하여 다양한 정보를 제공할 "
+		},
+		{
+			"title":"[엔지니어링 리포트] 건설<b>사업관리<\/b>를 위한 HG BIM Viewer",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880542533",
+			"description":"[Engineering Report] HG BIM Viewer for Project Management    "
+		},
+		{
+			"title":"공공（위생）<b>사업관리<\/b>본과교육개설기초의학개론적교학탐토 (公共（卫",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=697300548",
+			"description":""
+		},
+		{
+			"title":"국내 건설<b>사업관리<\/b> 기술인력 역량평가 개선모델(I2CEC)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630769784",
+			"description":"Improved Model for Index of Construction Engineer’s Competency Evaluation System in Domestic Construction Management ICEC는 경력, "
+		},
+		{
+			"title":"모듈러 건축의 건설<b>사업관리<\/b> 필요성과 역할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595215830",
+			"description":"   모듈러건축, 건설<b>사업관리<\/b>, 건설자동화 "
+		},
+		{
+			"title":"안전을 고려한 건설<b>사업관리<\/b>용역업자(CM) <b>사업<\/b>수행능력 평가기준 요인 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601777461",
+			"description":"A Study on the Determining Factors For Assessment Criteria of Project Performance Capability of CM(Construction Management) Considering"
+		},
+		{
+			"title":"BSC기반 건설<b>사업관리<\/b>프로젝트 수주역량요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606886307",
+			"description":"A study on the factors for strengthening competitiveness of CM projects based on balanced score card 국내 건설산업에서 건설"
+		},
+		{
+			"title":"강은호 방위<b>사업<\/b>청장 11대 청장으로 취임 : 속도감 있는 혁신, 면밀한 사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878741117",
+			"description":""
+		},
+		{
+			"title":"도시정비<b>사업 관리<\/b>처분인가의 법률적 쟁점분석을 통한 개선방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=733094764",
+			"description":"   Transfer tax, Plaintiff, Payment, Local government, Lawsuit, Law and economics, Dismissal, Capital gain, Business, Articles of assoc"
+		},
+		{
+			"title":"날씨 정보를 고려한 건설<b>사업관리<\/b> 앱 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877776104",
+			"description":"Development of Construction Management Application Considering Weather Information Efforts to utilize weather information on constructi"
+		},
+		{
+			"title":"BSC기반 건설<b>사업관리<\/b>프로젝트 수주역량요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=600785913",
+			"description":"A Study on the Factors for Strengthening Competitiveness of CM Projects based on Balanced Score Card 국내 건설산업에서 건설"
+		},
+		{
+			"title":"《<b>관리<\/b>학원리》교학법연구——이배양공공<b>사업관리<\/b>전업능력위도향 (《",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=662323425",
+			"description":""
+		},
+		{
+			"title":"책임감리가 건설<b>사업관리<\/b>(CM)로 전환시 도입된 역량지수(ICEC)에 대한 도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220932981",
+			"description":"An Analysis of Perceptions of Road Construction Engineers on ICEC Framework at the time of System Transition from Responsibility Superv"
+		},
+		{
+			"title":"국내 건설<b>사업관리<\/b> 기술인력 역량평가 개선모델(I2CEC)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=614464743",
+			"description":"Improved Model for Index of Construction Engineer's Competency Evaluation System in Domestic Construction Management ICEC는 경력, "
+		},
+		{
+			"title":"과학적 <b>사업관리<\/b>기법(EVM\/CAIV) 발전 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561714395",
+			"description":"  목차\n과학적 <b>사업관리<\/b>기법(EVM\/CAIV) 발전 동향 \/ 김동휘 1\n 1. 머리말 1\n 2. <b>사업<\/b>성과<b>관리<\/b>(EVM : Earned Value M"
+		},
+		{
+			"title":"천담공공<b>사업관리<\/b>여사회보장 (浅谈公共事业管理与社会保障)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866562333",
+			"description":""
+		},
+		{
+			"title":"국가대형시설장비구축<b>사업<\/b> 종합<b>사업관리<\/b>제도(PM) 추진 방안 마련",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890570407",
+			"description":"Establishment of plan to promote the project management system for the national facility equipment construction project  표제지\n제"
+		},
+		{
+			"title":"국가대형시설장비구축<b>사업<\/b> 종합<b>사업관리<\/b>제도(PM) 추진 방안 마련",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887415781",
+			"description":"Establishment of plan to promote the project management system for the national facility equipment construction project  표제지\n제"
+		},
+		{
+			"title":"국가대형시설장비구축<b>사업<\/b> 종합<b>사업관리<\/b>제도(PM) 추진 방안 마련",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897400088",
+			"description":"Establishment of plan to promote the project management system for the national facility equipment construction project  표제지\n제"
+		},
+		{
+			"title":"국가대형시설장비구축<b>사업<\/b> 종합<b>사업관리<\/b>제도(PM) 추진 방안 마련",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881246497",
+			"description":"Establishment of plan to promote the project management system for the national facility equipment construction project  표제지\n제"
+		},
+		{
+			"title":"국가대형시설장비구축<b>사업<\/b> 종합<b>사업관리<\/b>제도(PM) 추진 방안 마련",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890752694",
+			"description":"Establishment of plan to promote the project management system for the national facility equipment construction project  표제지\n제"
+		},
+		{
+			"title":"국가대형시설장비구축<b>사업<\/b> 종합<b>사업관리<\/b>제도(PM) 추진 방안 마련",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862526992",
+			"description":"Establishment of plan to promote the project management system for the national facility equipment construction project  표제지\n제"
+		},
+		{
+			"title":"국가대형시설장비구축<b>사업<\/b> 종합<b>사업관리<\/b>제도(PM) 추진 방안 마련",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874925954",
+			"description":"Establishment of plan to promote the project management system for the national facility equipment construction project  표제지\n제"
+		},
+		{
+			"title":"국가대형시설장비구축<b>사업<\/b> 종합<b>사업관리<\/b>제도(PM) 추진 방안 마련",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898336163",
+			"description":"Establishment of plan to promote the project management system for the national facility equipment construction project  표제지\n제"
+		},
+		{
+			"title":"국가대형시설장비구축<b>사업<\/b> 종합<b>사업관리<\/b>제도(PM) 추진 방안 마련",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874662982",
+			"description":"Establishment of plan to promote the project management system for the national facility equipment construction project  표제지\n제"
+		}
+	]
+}

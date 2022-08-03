@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:41 +0900",
+	"total":1549,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"고속철도 <b>운전직무<\/b>의 휴먼에러 감축방안을 위한 실증적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=593980332",
+			"description":"   Human Error, Railway Accident, High-Speed Train Drivers "
+		},
+		{
+			"title":"고속철도 <b>운전직무<\/b>의 휴먼에러 감축방안을 위한 실증적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79121999",
+			"description":"An Empirical Study on method to Reduce of Human Error of High-Speed Train Drivers This study tried to propose plan to prevent human err"
+		},
+		{
+			"title":"KTX <b>운전직무<\/b>에 대한 복잡도 평가 - 타당성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594823413",
+			"description":" 기존 연구결과에 따르면, 시스템의 안전성에 가장 큰 영향을 주는 요인 중 하나는 인적수행도의 저하"
+		},
+		{
+			"title":"KTX <b>운전직무<\/b>에 대한 복잡도 평가 - 타당성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879762009",
+			"description":"A Study on the Feasibility of Evaluating the Complexity of KTX Driving Tasks 기존 연구결과에 따르면, 시스템의 안전성"
+		},
+		{
+			"title":"KTX <b>운전직무<\/b>에 대한 복잡도 평가 - 타당성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41615379",
+			"description":"A Study on the Feasibility of evaluating the Complecity of KTX driving Task According to the result of related stuied, the degradation "
+		},
+		{
+			"title":"<b>운전직무<\/b> 수행능력평가 시뮬레이터",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878957123",
+			"description":""
+		},
+		{
+			"title":"<b>운전직무<\/b> 수행능력평가 시뮬레이터",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594310835",
+			"description":""
+		},
+		{
+			"title":"포커스 : <b>운전직무<\/b> 수행능력평가 시뮬레이터",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39893932",
+			"description":" Abstract is not available for this article.   "
+		},
+		{
+			"title":"원자력발전소 비상<b>운전 직무<\/b>의 인간오류분석 및 평가 방법 AGAPE-ET의 개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594343316",
+			"description":"   human reliability analysis, human error analysis, probabilistic safety assessment "
+		},
+		{
+			"title":"2001 춘계 학술발표회 논문집 : 원자력발전소 비상<b>운전 직무<\/b>에 대한 인적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=36397055",
+			"description":""
+		},
+		{
+			"title":"NASA-TLX 방법에 의한 KTX <b>운전 직무<\/b>부하 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=75165190",
+			"description":"Task Load Analysis of KTX Operation by Using NASA-TLX Method Human factors still plays a significant role in railway accidents. The acc"
+		},
+		{
+			"title":"원자력발전소 비상<b>운전 직무<\/b>의 오류 예측을 위한 정보적 분석 ( Information",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878319763",
+			"description":""
+		},
+		{
+			"title":"NASA-TLX 방법에 의한 KTX <b>운전 직무<\/b>부하 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877906458",
+			"description":"Task Load Analysis of KTX Operation by Using NASA-TLX Method Human factors still plays a significant role in railway accidents. The acc"
+		},
+		{
+			"title":"원자력발전소 비상<b>운전 직무<\/b>의 인간오류분석 및 평가 방법 AGAPE-ET의 개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11387251",
+			"description":"AGAPE-ET: A Predictive Human Error Analysis Methodology for Emergency Tasks in Nuclear Power Plants It has been criticized that convent"
+		},
+		{
+			"title":"원자력발전소 비상<b>운전 직무<\/b>의 오류 예측을 위한 정보적 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594042460",
+			"description":"Informational Analysis for Error Prediction of Emergency Tasks in Nuclear Power Plants   Human Error Prediction, Human Reliability Anal"
+		},
+		{
+			"title":"원자력발전소 비상<b>운전 직무<\/b>의 인간 오류분석 및 평가 방법 AGAPE-ET의 개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890013903",
+			"description":"AGAPE-ET: A Predictive Human Error Analysis Methodology for Emergency Tasks in Nuclear Power Plants It has been criticized that convent"
+		},
+		{
+			"title":"시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도 결정요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290273258",
+			"description":"The Determinants of Job Satisfaction for Bus Drivers is a complicated interrelation between task, role, responsibility, and award. Job "
+		},
+		{
+			"title":"원자력발전소 비상<b>운전 직무<\/b>의 오류 예측을 위한 정보적 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186148227",
+			"description":""
+		},
+		{
+			"title":"원자력발전소 비상<b>운전 직무<\/b>에 대한 인적오류분석 절차서의 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890013414",
+			"description":""
+		},
+		{
+			"title":"전세버스운송업 <b>운전<\/b>승무원의 <b>직무<\/b>스트레스, <b>직무<\/b>소진, 이직의도 간의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888997295",
+			"description":" 관광산업 업무환경에서 <b>직무<\/b> 불만족의 일반적 원인인 <b>직무<\/b>스트레스는 과로 및 이직의도에 긍정적인 "
+		},
+		{
+			"title":"도시철도 <b>운전직무<\/b>의 인적오류 감축방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=580512232",
+			"description":"Reduction method of human error associated with driving duties for the urban railway drivers 요  약\n\n제 목 : 도시철도 <b>운전<\/b>직"
+		},
+		{
+			"title":"고속철도 <b>운전직무<\/b>의 휴먼에러 감축을 위한 실증적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=80086840",
+			"description":"An empirical study on reducing the human error of high-speed train drivers 세계의 고속철도는 1964년 일본의 新幹線(신칸"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874111208",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890881984",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888155650",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888857538",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871365700",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891176025",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890512860",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874666322",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889757623",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882369812",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873436699",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891208869",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842993111",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889917964",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872828544",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887338140",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885026303",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888354454",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868803573",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865554400",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873920740",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882872429",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897095269",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877047064",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881536532",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890651767",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887038852",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891358846",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887658695",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881199684",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898699031",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 필요성 11\n 제2절 연구목적 및 방법 16\n제2장 이론"
+		},
+		{
+			"title":"서울지역 법인 택시<b>운전<\/b>기사의 <b>직무<\/b> 스트레스 유발요인이 <b>운전<\/b>스트레스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288845043",
+			"description":"  표제지\n목차\n제1장 서론 10\n 제1절 연구 필요성 및 목적 10\n 제2절 연구내용 13\n제2장 이론적 배경 14\n 제1"
+		},
+		{
+			"title":"특별교통수단 <b>운전<\/b>기사의 <b>직무<\/b>특성이 조직몰입에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=644432395",
+			"description":"A Study on the Effects of Job Characteristics on Organizational Commitment among STS Drivers 본 연구는 전라남도 특별교통수"
+		},
+		{
+			"title":"택시기사의 여가스포츠행동이 <b>운전<\/b>스트레스, <b>직무<\/b>몰입 및 삶의 질에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880343728",
+			"description":"An Effect on Driving Stress, Work Immersion, and Life Quality of Taxi Driver’s Leisure Sports Behavior This paper analyzed the effect"
+		},
+		{
+			"title":"시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도 결정요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879706488",
+			"description":"The Determinants of Job Satisfaction for Bus Drivers   <b>직무<\/b>만족도, 시내버스, <b>운전<\/b>기사, 구조방정식, job satisfaction, "
+		},
+		{
+			"title":"여성택시<b>운전<\/b>기사의 <b>직무<\/b>경험을 통한 직업유지 요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420448832",
+			"description":"A Study on Factors of Job Maintenance through Job Experience of Woman Taxi Driver 본 연구는 부천지역의 여성택시<b>운전<\/b>기"
+		},
+		{
+			"title":"여성택시<b>운전<\/b>기사의 <b>직무<\/b>경험을 통한 직업유지 요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45735742",
+			"description":"A Study on Factors of Job Maintenance through Job Experience of Woman Taxi Driver 본 연구는 부천지역의 여성택시<b>운전<\/b>기"
+		},
+		{
+			"title":"<b>운전<\/b>행동결정요인 및 <b>직무<\/b>만족과 어린이통학버스 <b>운전<\/b>자의 위험<b>운전<\/b>과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177589849",
+			"description":"(The)relation of driving behavior determinants and job satisfaction on school bus driver&apos;s reckless driving behavior  목차\n<b>운전<\/b>행"
+		},
+		{
+			"title":"서울지역 법인 택시<b>운전<\/b>기사의 <b>직무<\/b> 스트레스 유발요인이 <b>운전<\/b>스트레스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=233060886",
+			"description":"Research on the Effect of Factors Causing Job Stress of Corporate Taxi Drivers on Driving Stress and Job Involvement: Based on the Effe"
+		},
+		{
+			"title":"버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준에 관한 실증적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594296167",
+			"description":" 버스의 이용률을 높이기 위해서는 장기적으로 시설적인 측면의 투자가 필요하지만 단기적으로는 버"
+		},
+		{
+			"title":"서울 시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도 결정요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561228350",
+			"description":"  서울시 버스중앙차로제 시행에 따른 환경영향 조사\n서울 시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도 결정요인"
+		},
+		{
+			"title":"직업 <b>운전<\/b>기사들의 <b>직무<\/b>만족도와 교통사고에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9237227",
+			"description":"  국문목차\n표제지 = 0,1,3\n감사의 글 = 0,4,1\n목차 = 0,5,2\n표목차 = 0,7,2\n그림목차 = 0,9,1\nI. 서론 = 1,10,1\n 1. 연"
+		},
+		{
+			"title":"버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준의 상관관계에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12391137",
+			"description":"   버스서비스, <b>직무<\/b>만족도, 서비스제공수준, 영향지수분석, 상관분석 "
+		},
+		{
+			"title":"시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준에 관한 연구 : 대구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12985714",
+			"description":"A Study on Bus Driver&apos;s Job Satisfaction and Passenger Service Performance in Daegu 본 연구에서는 시내버스 <b>운전<\/b>기사를 "
+		},
+		{
+			"title":"원전<b>운전<\/b>절차서 기반의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17460571",
+			"description":"  목차\n원전<b>운전<\/b>절차서 기반의 <b>직무<\/b>분석 \/ 서광락 ; 나정창 ; 최문재 1\n ABSTRACT 1\n I. 서론 1\n II. <b>직무<\/b>분석 "
+		},
+		{
+			"title":"시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880970455",
+			"description":" The aim of this paper is to examine the relationship between job satisfaction for bus drivers and the quality of passenger service per"
+		},
+		{
+			"title":"시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도 결정요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12452355",
+			"description":"The Determinants of Job Satisfaction for Bus Drivers <b>직무<\/b>는 과업, 역할, 책임, 상호작용, 유인, 보상 등의 복잡한 "
+		},
+		{
+			"title":"시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442263726",
+			"description":"  Ⅰ. 서론\nⅡ. 선행연구고찰\nⅢ. <b>운전<\/b>자 <b>직무<\/b>만족도 요인분석\nⅣ. <b>직무<\/b>만족도와 서비스 제공수준과의 "
+		},
+		{
+			"title":"버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준에 관한 실증적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879344857",
+			"description":"A Casual Correlative Analysis of Bus Driver Job Satisfaction on Passenger Service Performance 버스의 이용률을 높이기 위해"
+		},
+		{
+			"title":"버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442265098",
+			"description":"  Ⅰ. 서론\nⅡ. 기존연구검토\nⅢ. 분석모형의 구축\nⅣ. <b>직무<\/b>만족도 평가 및 관계분석\nⅤ. 결론\n참고문헌"
+		},
+		{
+			"title":"버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준에 관한 실증적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16398755",
+			"description":"A Casual Correlative Analysis of Bus Driver Job Satisfaction on Passenger Service Performance 버스의 이용률을 높이기 위해"
+		},
+		{
+			"title":"시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=75238431",
+			"description":"Study on Bus Driver&quot;s Job Satisfaction and Passenger Service Performance in Daegu The aim of this paper is to examine the relationship "
+		},
+		{
+			"title":"<b>운전<\/b>기사들의 <b>직무<\/b>태도에 관한 조사 연구 (運轉技士들의 職務態度에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=8963406",
+			"description":"  국문목차 \n표제지 = 0,1,2\n목차 = 0,3,2\n표목차 = 0,5,2\n그림목차 = 0,6,2\nI. 서론 = 1,8,1\n 1. 문제의 제기 및 연"
+		},
+		{
+			"title":"시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도 결정요인에 관한 연구;논문",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561228719",
+			"description":"  논문\n 퍼지-계층화 분석법을 적용한 서울시의 쾌적성(Amenity) 평가체계 구축을 위한 가중치 도출 \/ 조"
+		},
+		{
+			"title":"직업 <b>운전<\/b>기사들의 <b>직무<\/b>만족도와 교통사고에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79993747",
+			"description":"   직업, <b>운전<\/b>기사, <b>직무<\/b>만족도 "
+		},
+		{
+			"title":"<b>운전<\/b>행동결정요인과 <b>직무<\/b>만족이 택시<b>운전<\/b>자의 위험<b>운전<\/b>행동에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18466494",
+			"description":"The Effects of Driving Behavior Determinants and Job satisfaction on Taxi Drivers` Reckless Driving Behavior 본 연구에서는 택시"
+		},
+		{
+			"title":"웰빙인지가 버스 <b>운전<\/b>기사의 <b>직무<\/b> 스트레스 및 웰빙증진에 미치는 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79780434",
+			"description":" <b>직무<\/b> 스트레스는 결근, 이직, <b>직무<\/b>만족, <b>직무<\/b>몰입, 생산성과 같은 조직 효율성과 심인성 질병이나 심"
+		},
+		{
+			"title":"버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878946455",
+			"description":"An Effect Analysis of Bus Driver&apos;s Job Satisfaction on Passenger Service Performance 서울시와 수도권을 비롯하여 우리나"
+		},
+		{
+			"title":"시내버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879948993",
+			"description":"An Study on Bus Driver’s Job Satisfaction and Passenger Service Performance 산업의 발달과 소득수준의 향상으로 자동"
+		},
+		{
+			"title":"지각 판단능력이 요구되는 기기 <b>운전<\/b>시의 연령대별 <b>직무<\/b>능력의 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78366308",
+			"description":"An Analysis of WAI by Disparity of Age when Operating Perception Judgement Ability Demanded Equipment - Concentrated on Bus Drivers -  "
+		},
+		{
+			"title":"버스 <b>운전<\/b>기사의 <b>직무<\/b>만족도와 서비스 제공수준의 상관관계에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79414136",
+			"description":"   correlation analysis "
+		},
+		{
+			"title":"<b>운전<\/b>기사들의 <b>직무<\/b>태도에 관한 조사 연구 (運轉技士들의 職務態度에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79222388",
+			"description":""
+		},
+		{
+			"title":"지각 판단능력이 요구되는 기기 <b>운전<\/b>시의 연령대별 <b>직무<\/b>능력의 비교 - ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=37246330",
+			"description":"An Analysis of WAI by Disparity of Age when Operating Perception Judgement Ability Demanded Equipment - Concentrated on Bus Drivers -  "
+		},
+		{
+			"title":"지각 판단능력이 요구되는 기기 <b>운전<\/b>시의 연령대별 <b>직무<\/b>능력의 비교 - ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846447537",
+			"description":"An Analysis of WAI by Disparity of Age when Operating Perception Judgement Ability Demanded Equipment - Concentrated on Bus Drivers -  "
+		},
+		{
+			"title":"<b>직무<\/b>만족의 요인들과 그것들이 <b>운전<\/b>행동에 미치는 영향 : 도시철도 전동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9468582",
+			"description":"  표제지\n국문요약\n목차\n제 1 장 서론 10\n 제 1 절 연구의 목적 및 필요성 10\n 제 2 절 연구방법 및 범위 13\n"
+		},
+		{
+			"title":"KTX 기장의 <b>직무<\/b>부하 경감을 위한 <b>운전<\/b>업무 개선 방안에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594230969",
+			"description":"   Safety, Quality improvement, KTX "
+		},
+		{
+			"title":"KTX 기장의 <b>직무<\/b>부하 경감을 위한 <b>운전<\/b>업무 개선 방안에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16583074",
+			"description":"A study on the improvement of operation process to lighten duty-load of the critical tasks of KTX train driver This study suggest a way"
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890395213",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891221884",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889923129",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873441891",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882877592",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881542270",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897589649",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889762788",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896643575",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888733396",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		},
+		{
+			"title":"1호선 <b>운전직무<\/b>자가 인식하는 인적오류와 인구 통계적 특성 차이에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871370874",
+			"description":"A study on the human errors and differentiation by demographic profiles perceived by subway line 1 drivers  표제지\n요약\n목차\nI. "
+		}
+	]
+}

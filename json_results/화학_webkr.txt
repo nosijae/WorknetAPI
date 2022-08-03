@@ -1,0 +1,403 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:13 +0900",
+	"total":69447772,
+	"start":1,
+	"display":79,
+	"items":[
+		{
+			"title":"<b>화학<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%ED%99%94%ED%95%99",
+			"description":"化學 \/ Chemistry <b>화학<\/b>은 물질을 원자와 분자 수준에서 그 구조와 변화를 연구하는 자연과학 분야이다."
+		},
+		{
+			"title":"<b>화학<\/b>공학 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%ED%99%94%ED%95%99%EA%B3%B5%ED%95%99",
+			"description":"化學工學 \/ Chemical Engineering <b>화학<\/b>물질을 공학적 방법으로 연구하는 학문이다. 초기 <b>화학<\/b>공학은 석유와 고분자를 다루는데 집중했으나 현대 <b>화학<\/b>공학은 화장품, 제약, 의료기기, 반도체, 나노기술, 금속, 세라믹 등 다양한 물질을 다룬다."
+		},
+		{
+			"title":"대한<b>화학<\/b>회",
+			"link":"http:\/\/new.kcsnet.or.kr\/",
+			"description":"대한<b>화학<\/b>회는 국내 최대 최고의 학술단체로서 주기율표, <b>화학<\/b>술어, 학회소식 등을 담고 있습니다."
+		},
+		{
+			"title":"LG<b>화학<\/b>",
+			"link":"https:\/\/www.lgchem.com\/",
+			"description":"<b>화학<\/b>을 넘어 과학을 기반으로 고객에게 새로운 가치를 제공하는 세계적 기업, LG<b>화학<\/b> 홈페이지를 방문해주셔서 감사합니다."
+		},
+		{
+			"title":"<b>화학<\/b>물질통합검색 - NCIS | <b>화학<\/b>물질정보시스템",
+			"link":"https:\/\/ncis.nier.go.kr\/mttr\/mttrList.do",
+			"description":"통합검색 - CAS번호, 영문명, 국문명, 고유번호(기존<b>화학<\/b>물질, 유해<b>화학<\/b>물질, 중점관리물질, 암, 돌연변이성물질, 사고대비물질), 함량 및 기존<b>화학<\/b> 물질, 시험자료 등의 정보가 기재된 표. 기존<b>화학<\/b> 물질. 유해<b>화학<\/b>"
+		},
+		{
+			"title":"<b>화학<\/b>공학과 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%ED%99%94%ED%95%99%EA%B3%B5%ED%95%99%EA%B3%BC",
+			"description":"보통 4년제 대학교 학부제\/학과제로 운영된다. 다른 공학계열인 토목\/기계\/전자\/컴퓨터과에 비해 과가 있는 학교가 의외로 많지 않다. 재학생이 적은 대학교나 공과대학이 크지 않은 학교, 다른 분야 특성화 대학교일 경우 설치됐을 확률이 매우 희박하다. 정원도 다른 과에 비해 꽤 적은 편. 그래서인지 다른 공..."
+		},
+		{
+			"title":"<b>화학<\/b> : 네이버 금융",
+			"link":"https:\/\/finance.naver.com\/sise\/sise_group_detail.naver?type=upjong&no=272",
+			"description":"하락 <b>화학<\/b> +0.31% 114 57 8 49 거래량 매수호가... <b>화학<\/b> 182,000 8,500 +4.90% 181,500 182,000 13,030 2,311 8,569 KCI * 8,810 330 +3.89% 8,800 8,810 24,232 209 6,110 코스모<b>화학<\/b> 19... "
+		},
+		{
+			"title":"생활 속 <b>화학<\/b>을 알아야 하는 이유 – Sciencetimes - 사이언스타임즈",
+			"link":"https:\/\/www.sciencetimes.co.kr\/news\/%EC%83%9D%ED%99%9C-%EC%86%8D-%ED%99%94%ED%95%99%EC%9D%84-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0\/",
+			"description":"속에서 ‘<b>화학<\/b>’은 위험을 떠올리게 하는 단어가 되었다. <b>화학<\/b>과 공포증이 결합된 ‘케모포비아(chemophobia)’라는 조어가 만들어지고 <b>화학<\/b> 물질로부터 멀어지려는 움직임도 사회 현상으로 번지고 있다. 하지만... "
+		},
+		{
+			"title":"한국<b>화학<\/b>융합시험연구원",
+			"link":"http:\/\/www.ktr.or.kr\/",
+			"description":"국제공인시험인증기관, 소재부품, 전기전자 ICT, 의료바이오헬스케어분야 시험인증컨설팅 기관"
+		},
+		{
+			"title":"<b>화학<\/b> - 네이버 지식백과",
+			"link":"https:\/\/terms.naver.com\/list.nhn?cid=42418&categoryId=42418",
+			"description":"무기 <b>화학<\/b>, 유기 <b>화학<\/b>, 생물<b>화학<\/b>, 분석 <b>화학<\/b>, 응용<b>화학<\/b> 등 <b>화학<\/b>대사전, <b>화학<\/b>용어사전 제공."
+		},
+		{
+			"title":"LG<b>화학<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/LG%ED%99%94%ED%95%99",
+			"description":"LG그룹 계열 석유<b>화학<\/b>, 생명 과학기업이자 범LG가의 모체 기업. 본사는 서울특별시영등포구여의대로 128 (여의도동) LG트윈타워 동관에 위치해 있다."
+		},
+		{
+			"title":"효성<b>화학<\/b> 고객의 편리한 일상을 위한 발전 - 효성그룹 | Hyosung Group",
+			"link":"https:\/\/www.hyosung.co.kr\/kr\/biz\/chemicals.do",
+			"description":"효성<b>화학<\/b>은 국내 최고의 시장점유율을 보유한 첨단 원천 소재 기업으로, 고객의 편리한 일상을 위한 각종 <b>화학<\/b>제품들을 생산하고 있습니다."
+		},
+		{
+			"title":"효성티앤씨 &gt; 무역 &gt; <b>화학<\/b> &gt; <b>화학<\/b>PU 소개",
+			"link":"https:\/\/www.hyosungtnc.com\/kr\/trade\/chemistry_intro.do",
+			"description":"<b>화학<\/b>PU는 전 세계로 뻗어있는 효성의 Global network를 통해 취급품목을 다변화하고 고객만족에 기여하고... 위한 <b>화학<\/b>제품개발 및 육성에 매진하고 있습니다. 석유<b>화학<\/b>제품, 정밀<b>화학<\/b>제품 등 전통적인 <b>화학<\/b>... "
+		},
+		{
+			"title":"환경부 - 책임운영기관 <b>화학<\/b>물질안전원",
+			"link":"https:\/\/nics.me.go.kr\/",
+			"description":"환경부 소속기관, <b>화학<\/b>사고 예방 대응, 위험범위 예측평가, 과학적 대응기술과 정보 제공"
+		},
+		{
+			"title":"<b>화학<\/b> | 과학 | - 교보문고",
+			"link":"https:\/\/www.kyobobook.co.kr\/categoryRenewal\/categoryMain.laf?linkClass=2911",
+			"description":"<b>화학<\/b>의 다양한 도서를 확인해 보세요. 판매인기순 및 새로나온 순으로 도서들을 확인할 수 있습니다."
+		},
+		{
+			"title":"KRICT 한국<b>화학<\/b>연구원",
+			"link":"https:\/\/www.krict.re.kr\/",
+			"description":"신약연구, <b>화학<\/b>분석 등 연구분야 소개, 기술이전, 기자재 안내, KRICT소식 수록."
+		},
+		{
+			"title":"삼성물산 상사부문 | 사업영역 | <b>화학<\/b>",
+			"link":"http:\/\/trading.samsungcnt.com\/KR\/trading\/bz\/202000\/data.do",
+			"description":"석유<b>화학<\/b> 제품 트레이딩을 시작했으며, 미국, 유럽, 중국, 일본, 대만, 싱가포르 등 세계 각지의 거점을 기반으로 글로벌 정유사 및 <b>화학<\/b>... 포르말린, 초산 등의 제조 원료인 메탄올은 국내 주요 <b>화학<\/b>사 및 글로벌... "
+		},
+		{
+			"title":"한국전기<b>화학<\/b>회",
+			"link":"https:\/\/www.kecs.or.kr\/",
+			"description":"학회소개, 학술대회일정, 국제학술교류, 기술진흥지원 사업분야, 학술지 수록."
+		},
+		{
+			"title":"<b>화학<\/b> - YES24",
+			"link":"http:\/\/www.yes24.com\/24\/Category\/Display\/001001002013",
+			"description":"재미있는 이야기를 통해 배우는 즐거운 <b>화학<\/b> 공부많은 학생들이 <b>화학<\/b>을 너무나도 어려워하며 어디서부터 시작해야 할 지 막막해 하곤 한다. <b>화학<\/b> 교과서에 등장하는 용어 자체가 익숙하지 않은 데다, <b>화학<\/b>... "
+		},
+		{
+			"title":"물리<b>화학<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%AC%BC%EB%A6%AC%ED%99%94%ED%95%99",
+			"description":"物理化學 Physical Chemistry 물리<b>화학<\/b>은 물리학 지식(물리법칙)을 이용하여 각종 <b>화학<\/b>적 현상을 설명하고자 하는 학문이다. 양자<b>화학<\/b>, <b>화학<\/b> 통계열역학, <b>화학<\/b>반응속도론이 주된 분야이며, 고분자<b>화학<\/b>, 표면<b>화학<\/b>, 물리유기<b>화학<\/b>, 생물리<b>화학<\/b>, 광<b>화학<\/b>, 분광학"
+		},
+		{
+			"title":"과학 영역서 ESC <b>화학<\/b> - 강남구청 인터넷수능방송",
+			"link":"https:\/\/edu.ingang.go.kr\/NGLMS\/Middle\/Class.do?lecture_cd=KIL0010098",
+			"description":"▶ 중등 <b>화학<\/b>의 개념을 한 눈에 파악할 수 있는 강좌 ▶ 1%도 놓치지 않는 확실한 <b>화학<\/b> 개념 강좌 ▶ 고등 <b>화학<\/b>을 가기 위한 필수 코스 강좌▶ 쉽고 재미있게 <b>화학<\/b> 개념을 이해하길 원하는 학생 ▶ <b>화학<\/b>내용의 흐름을... "
+		},
+		{
+			"title":"한국<b>화학<\/b>공학회",
+			"link":"https:\/\/www.kiche.or.kr\/",
+			"description":"22 2022 2022년도 <b>화학<\/b>공학 대학생 Fun&amp;Fun Festival 안내(8월 1일(월)... 전국 <b>화학<\/b>공학 공정설계 경진대회 오리엔테이션 영상 안내 2022-07-11 제11회 전국 <b>화학<\/b>공학 공정설계 경진대회 - 문제공고 2022-07"
+		},
+		{
+			"title":"<b>화학<\/b>물질종합정보시스템",
+			"link":"https:\/\/icis.me.go.kr\/",
+			"description":"<b>화학<\/b>물질관리법 종합정보시스템"
+		},
+		{
+			"title":"한국<b>화학<\/b>물질관리협회",
+			"link":"http:\/\/www.kcma.or.kr\/",
+			"description":"협회 소개, <b>화학<\/b>물질, 유독물, 관찰물질 교육 정보, 민원업무, 고객지원 제공."
+		},
+		{
+			"title":"학생백과 <b>화학<\/b> - 네이버 지식백과",
+			"link":"https:\/\/terms.naver.com\/list.nhn?cid=47337&categoryId=47337",
+			"description":"학생백과 <b>화학<\/b>에 관한 정보 제공"
+		},
+		{
+			"title":"<b>화학<\/b>올림피아드 - <b>화학<\/b>올림피아드(Korean Chemistry Olympiad)",
+			"link":"https:\/\/chemolympiad.kcsnet.or.kr\/",
+			"description":"<b>화학<\/b>영재양성 교육프로그램, 대표학생 선발방법, 겨울, 여름학교, 국내, 국제 대회 안내."
+		},
+		{
+			"title":"성균관대학교 <b>화학<\/b>과",
+			"link":"https:\/\/chem.skku.edu\/",
+			"description":"SKKU chemists are actively performing interdisciplinary researches with the six major disciplines of analytical, biological, organic, physical, polymer, and inorganic chemistry. Scholarships"
+		},
+		{
+			"title":"금호석유<b>화학<\/b>",
+			"link":"https:\/\/www.kkpc.com\/",
+			"description":"합성고무, 합성수지, 정밀<b>화학<\/b>, 에너지, 탄소나노튜브, 건자재 등의 사업을 운영하는 석유<b>화학<\/b>기업"
+		},
+		{
+			"title":"<b>화학<\/b> – 백괴사전, 너희 모두의 백과사전",
+			"link":"https:\/\/www.uncyclopedia.kr\/wiki\/%ED%99%94%ED%95%99",
+			"description":"옛날 옛적 <b>화학<\/b>은 연금술이라는 기이한 형태로 등장하였다. 당시 <b>화학<\/b>은 을 캐내지 않고 만들어내는 것이... 그렇지만 <b>화학<\/b>자들도 사람이라, 금을 못 구하자 돈은 떨어지고 배는 고파오는 탓에 당시 존재하던 원소를... "
+		},
+		{
+			"title":"<b>화학<\/b> 전공이 목표인 고3, 학종 준비 어떻게 할까 : 교육 : 사회 : 뉴스 : 한겨레",
+			"link":"https:\/\/www.hani.co.kr\/arti\/society\/schooling\/990691.html",
+			"description":"연재ㅣ이치우의 ‘차이나는 입시 클라스’ ㄱ 학생은 고1 때 전공과목을 <b>화학<\/b>으로 정했다. 고3인 지금 마지막 남은 3학년 1학..."
+		},
+		{
+			"title":"대림 &gt; 사업분야 &gt; 트레이딩 &gt; 석유<b>화학<\/b> 트레이딩 &gt; 석유제품",
+			"link":"https:\/\/www.daelim.co.kr\/ko\/pc\/business-areas\/chemistry\/petroleum-products.do",
+			"description":"나프타는 C5에서 C12에 이르는 탄화수소를 포함하고 있는 화합물로, 에틸렌, 프로필렌 등 석유<b>화학<\/b>... 석유<b>화학<\/b> 공장에서 나프타를 원료로하여 제품을 생산하는 과정에서 생성된 중질의 성분을 가진 제품으로... "
+		},
+		{
+			"title":"<b>화학<\/b>자 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%ED%99%94%ED%95%99%EC%9E%90",
+			"description":"자연과학 중 <b>화학<\/b>을 주 탐구 대상으로 하는 과학자를 칭한다."
+		},
+		{
+			"title":"<b>화학<\/b>과",
+			"link":"https:\/\/chemipia.jbnu.ac.kr\/",
+			"description":"<b>화학<\/b>이 미래산업을 선도합니다. <b>화학<\/b>은 인류복지와 직결되는 폭넓은 응용분야에 기초가 되는 학문입니다. 학과소개 <b>화학<\/b>은 '물질과학의 근본' 입니다.. 연구실 소개 <b>화학<\/b>과 연구실 안내입니다."
+		},
+		{
+			"title":"물가정보 》석유<b>화학<\/b>제품 :: 한국물가정보",
+			"link":"https:\/\/www.kpi.or.kr\/www\/price\/category.asp?CATE_CD=1060",
+			"description":"물가정보 분류 석유<b>화학<\/b>제품 석유<b>화학<\/b>제품 ※ 아래 분류를 클릭하시면 하위분류... kr 용산<b>화학<\/b> 02-3274-9100 무수말레인산, ,푸마르산, 무수프탈산 www.yci.co.kr 화승알앤에이 055-370-3514... "
+		},
+		{
+			"title":"노벨<b>화학<\/b>상 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%85%B8%EB%B2%A8%ED%99%94%ED%95%99%EC%83%81",
+			"description":"노벨<b>화학<\/b>상은 노벨상의 분야 중 하나로 노벨의 유언에 따라 <b>화학<\/b> 분야에서 중요한 발견이나 개발을 한 사람에게 수여한다."
+		},
+		{
+			"title":"한양대학교 <b>화학<\/b>공학과",
+			"link":"http:\/\/chemeng.hanyang.ac.kr\/",
+			"description":"21세기 <b>화학<\/b>공학 인재육성의 요람 한양대학교 <b>화학<\/b>공학과 한국<b>화학<\/b>공학의 차세대 기술을 이끌어 갈 지도자 및 국제적인 경쟁력을 갖춘 인재를 키우기 위한 교육환경 구축에 정진하고 있습니다. 학과소개"
+		},
+		{
+			"title":"건설 <b>화학<\/b> 물질 | Dow Inc. - 다우 케미칼",
+			"link":"https:\/\/www.dow.com\/ko-kr\/market\/mkt-building-construction\/sub-build-construction-chem.html",
+			"description":"다우의 실란, 실록산 및 레진등의 뛰어난 내구성과 내후성을 가진 다우의 건축 <b>화학<\/b>물"
+		},
+		{
+			"title":"안전보건공단 <b>화학<\/b>물질정보",
+			"link":"https:\/\/msds.kosha.or.kr\/",
+			"description":"MSDS,물질안전보건자료,<b>화학<\/b>물질정보,Material Safety Data Sheet,직업병사례,노출시나리오"
+		},
+		{
+			"title":"사업영역 | 기업정보 | Company | LG<b>화학<\/b>",
+			"link":"https:\/\/www.lgchem.com\/company\/company-information\/business-domain\/petrochemical",
+			"description":"석유<b>화학<\/b> 사업은 에틸렌, 프로필렌 등 기초원료부터 PE, ABS, 합성고무 등 다운스트림 제품까지 수직계열화 체제를 구축해 세계적인 수준의 생산성 및 원가 경쟁력을 갖춘 LG<b>화학<\/b>의 대표 사업영역입니다."
+		},
+		{
+			"title":"중앙대학교 <b>화학<\/b>과",
+			"link":"https:\/\/chem.cau.ac.kr\/",
+			"description":"06.08 2021-2 Best TA Award 시상식 열려 <b>화학<\/b>과 총동문회 장학증서 수여식 2021-1 Best TA Award 시상식 열려 주재범 교수님, '2021 CAU R&amp;D Honours Members' 로 선정!! <b>화학<\/b>과 2020 우수 학문 단위 선정"
+		},
+		{
+			"title":"알라딘: <b>화학<\/b>",
+			"link":"https:\/\/www.aladin.co.kr\/shop\/wbrowse.aspx?CID=51035&start=we_left",
+			"description":"종횡무진 <b>화학<\/b> 잡담 - 신비한 주기율표 사전, 118개 원소에는 모두 이야기가 있다 - 세상을 바꾼 작고도 거대한 <b>화학<\/b>의 역사 - <b>화학<\/b>의 역사가 세상의 근원을 바꿨다! - 비타민에서 나일론까지, 세계사 속에 숨겨진... "
+		},
+		{
+			"title":"<b>화학<\/b> 산업 | Emerson KR",
+			"link":"https:\/\/www.emerson.kr\/ko-kr\/industries\/automation\/chemical",
+			"description":"가장 까다로운 <b>화학<\/b>물질 제조 관련 문제를 해결하는 데 도움이 되는 솔루션 및 전문 지식."
+		},
+		{
+			"title":"경상국립대학교 <b>화학<\/b>과",
+			"link":"https:\/\/chem.gnu.ac.kr\/",
+			"description":"경상국립대학교 <b>화학<\/b>과 홈페이지에 오신 것을 환영합니다."
+		},
+		{
+			"title":"<b>화학<\/b> :: 인크루트 채용정보",
+			"link":"https:\/\/job.incruit.com\/entry\/searchjob.asp?ct=1&ty=3&cd=14250",
+			"description":"의약<b>화학<\/b> 채용(신입\/경력) [ALK] Shift Operator(Yeosu) 2022년 현대건설 기술연구원 신사업(수소\/CCUS)... LG<b>화학<\/b> R&amp;D 신입사원 모집(석\/박사) 2022년 7월 롯데케미칼 여수공장 생산지원직 신입사원 채용 (주)... "
+		},
+		{
+			"title":"항암<b>화학<\/b> 치료 후 관리 - 암정보 - 삼성서울병원 암병원",
+			"link":"http:\/\/www.samsunghospital.com\/home\/cancer\/info.do?view=ANTI_CANCER",
+			"description":"항암<b>화학<\/b>요법이란? 항암<b>화학<\/b>요법은 항암제를 투여하여 암세포를 파괴시키는 치료방법으로, 흔히 '항암제치료' 라고 부릅니다. 항암<b>화학<\/b>요법의 기대 암 종류에 따라 암세포 완전히 제거하여 완치를 기대할 수... "
+		},
+		{
+			"title":"KCMA <b>화학<\/b>물질 안전교육센터",
+			"link":"https:\/\/edu.kcma.or.kr\/",
+			"description":"공지사항 [안내] 비대면(원격강의) 운영방법 안내 및 준비사항 2020.10.19 [안내] 자격취득과정 대면 시험운영에 관한 안내 2021.08.03 ‘22년 업종별 맞춤형 특화교육 접수 안내 2022.05.17 유해<b>화학<\/b>물질"
+		},
+		{
+			"title":"<b>화학<\/b> - Wikiwand",
+			"link":"https:\/\/www.wikiwand.com\/ko\/%ED%99%94%ED%95%99",
+			"description":"<b>화학<\/b> 은 물질의 성질, 조성, 구조, 변화 및 그에 수반하는 에너지의 변화를 연구하는 자연과학 의 한 분야이다. 물리학 도 역시 물질을 다루는 학문이지만, 물리학이 원소 와 화합물 을 모두 포함한 물체의 운동과 에너지, 열적·전기적·광학적·기계적 속성을 다루고 이러한 현상으로부터 통일된 이론을 구축하려는 것과는 달리 <b>화학<\/b>에서는 물질 자체를 연구 대상으..."
+		},
+		{
+			"title":"한양대학교 <b>화학<\/b>과",
+			"link":"http:\/\/chem.hanyang.ac.kr\/",
+			"description":"학부 공지사항 대학원 공지사항 Hanyang Chemistry Notice <b>화학<\/b>과 소식 Event Board"
+		},
+		{
+			"title":"성보<b>화학<\/b>",
+			"link":"http:\/\/www.sbcc.kr\/",
+			"description":"작물보호제, 농약 제조 전문업체, 회사 소개, 제초제, 살충제, 살균제 등 제품 안내."
+		},
+		{
+			"title":"<b>화학<\/b>공학과 - 건국대학교 - 창조적 혁신으로 미래를 선도하는 대학",
+			"link":"https:\/\/www.konkuk.ac.kr\/jsp\/Coll\/coll_01_04_04_02_tab01.jsp",
+			"description":"<b>화학<\/b>공학은 자연 현상에 관한 <b>화학<\/b>, 물리학 및 생물학 등의 기초과학 지식을 인류문명의 이기를 위해... 특히 핵심 조작이 <b>화학<\/b>반응인 공정의 설계, 건설 및 조업과 관련이 있는 학문으로 인접 학문인 공업<b>화학<\/b>... "
+		},
+		{
+			"title":"<b>화학<\/b> - 끄코위키",
+			"link":"https:\/\/kkukowiki.kr\/w\/%ED%99%94%ED%95%99",
+			"description":"주제에 대한 내용은 <b>화학<\/b>(주제) 문서를 참조하십시오. 목차 1 주제 &lt;<b>화학<\/b>&gt; 2 주제 &lt;교육&gt; 3 주제 &lt;미술&gt; 4 기타 5 특징 주제 &lt;<b>화학<\/b>&gt;[편집] 주제 &lt;교육&gt;[편집] 주제 &lt;미술&gt;[편집] 기타[편집] 특징[편집] <b>화학<\/b> 주제를 대표하는 단어이다."
+		},
+		{
+			"title":"경희대학교 공과대학 | <b>화학<\/b>공학과",
+			"link":"http:\/\/chemeng.khu.ac.kr\/",
+			"description":"We Are Creating The Culture"
+		},
+		{
+			"title":"KAIST 생명<b>화학<\/b>공학과",
+			"link":"https:\/\/cbe.kaist.ac.kr\/",
+			"description":"2 \/ 3 NOTICE 2022년 후기 생명<b>화학<\/b>공학과 박사자격시험... Qualification Exam Announcement)06.08 제32회 전국대학생 <b>화학<\/b>공학학력 경시대회(이동현상) 06.23 2022년 후기 생명<b>화학<\/b>공학"
+		},
+		{
+			"title":"<b>화학<\/b> - 일본유학시험(EJU)",
+			"link":"http:\/\/www.ejutest.com\/doc\/sub4_03.php",
+			"description":"<b>화학<\/b> HOME &gt; 출제범위 &gt; <b>화학<\/b> <b>화학<\/b> 출제범위 (2015년 6월 시험부터 적용되는 개정판) 출제범위는 일본 고등학교 학습지도 요령의 [<b>화학<\/b>기초] 및 [<b>화학<\/b>]을 범위로 한다. 01. 물질의 구성 02. 물질의 상태와 변화 03.... "
+		},
+		{
+			"title":"인하대학교 <b>화학<\/b>과",
+			"link":"https:\/\/chemistry.inha.ac.kr\/",
+			"description":"차세대 <b>화학<\/b>분야 창의인재 양성 인하대학교 <b>화학<\/b>과 [대학원] 졸업요건(과목이수) 변경안내 (적용... 학과소개 인하대학교 <b>화학<\/b>과의 학과소개, 학과 인재상, 교육목표, 졸업 후 진로 <b>화학<\/b>실험 인하대학교"
+		},
+		{
+			"title":"남해<b>화학<\/b>",
+			"link":"https:\/\/www.nhchem.co.kr\/",
+			"description":"비료, <b>화학<\/b>제품 생산업체, 종합<b>화학<\/b>, 제품정보, 대리점 안내, 채용정보, 비료상식 제공."
+		},
+		{
+			"title":"씨스켐닷컴 - <b>화학<\/b>출판\/단행본(<b>화학<\/b>상품총람상하2권,석유<b>화학<\/b>계통도,정밀<b>화학<\/b>중간체계통도,<b>화학<\/b>제품제조업체디렉....",
+			"link":"https:\/\/www.cischem.com\/",
+			"description":"씨스켐닷컴 - <b>화학<\/b>시장정보, 석유<b>화학<\/b>제품가격, <b>화학<\/b>뉴스, <b>화학<\/b>플랜트신증설프로젝트, <b>화학<\/b>제조업체, <b>화학<\/b>컨설팅시장조사, 석유<b>화학<\/b>계통도, <b>화학<\/b>제품사전, CAS No., 스페셜티케미칼, 파인케미칼"
+		},
+		{
+			"title":"서울대학교 | 서울대학교 <b>화학<\/b>생물공학부",
+			"link":"https:\/\/cbe.snu.ac.kr\/",
+			"description":"공지사항 2022학년도 2학기 기초교양 수강편람 안내 2022.07.22 2022학년도 2학기 전공 및 대학원과정 수강편람 안내2022.07.18 [2022년 8월 졸업예정자] 서울대학교 학생 리더십상 후보자 신청 안내(~7"
+		},
+		{
+			"title":"동서석유<b>화학<\/b> 주식회사",
+			"link":"http:\/\/www.tspc.co.kr\/",
+			"description":"회사소개 제품소개 윤리경영 품질환경안전 사이버홍보실 인재채용 입사지원서"
+		},
+		{
+			"title":"<b>화학<\/b> - Google Play 앱",
+			"link":"https:\/\/play.google.com\/store\/apps\/details?id=com.chemistry",
+			"description":"<b>화학<\/b> 응용 분야를 사용하면 <b>화학<\/b> 반응을 찾고 하나 또는 여러 개의 알 수없는 변수로 <b>화학<\/b> 방정식을 해결할 수 있습니다. 당신은 항상 Mendeleev의주기적인 테이블과 용해도 테이블이 편리하게 가질 것입니다! 그리고 어금  ... "
+		},
+		{
+			"title":"연세대학교 이과대학 <b>화학<\/b>과",
+			"link":"https:\/\/chem.yonsei.ac.kr\/",
+			"description":"<b>화학<\/b>과소개 전공소개 학과장인사말 연혁 조직도 행정안내 오시는 길 구성원 교수진 명예 • 퇴임교수... 연세대학교 <b>화학<\/b>과는 국내 최고의 <b>화학<\/b>과 중 하나로, 스물 한 분의 교수님들과 열두 분의 명예\/퇴임"
+		},
+		{
+			"title":"인하대학교 <b>화학<\/b>공학과",
+			"link":"https:\/\/chemeng.inha.ac.kr\/",
+			"description":"창의적 글로벌 <b>화학<\/b>공학 인재 양성 인하대학교 <b>화학<\/b>공학과 졸업요건(학점 및 논문제출) 및 교양개편... LG<b>화학<\/b>\/한국<b>화학<\/b>공학회 제2회 석유<b>화학<\/b> 올림피아드 접수안내(- 2022.07.06(수)) 인하대학교 공과대학 공식"
+		},
+		{
+			"title":"<b>화학<\/b>정보 - <b>화학<\/b>술어 - 대한<b>화학<\/b>회",
+			"link":"https:\/\/new.kcsnet.or.kr\/cheminfo",
+			"description":"* 이 자료는 대한<b>화학<\/b>회가 기존의 홈페이지에 있는 술어를 2008년에 발간한 &quot;<b>화학<\/b>술어집&quot;(제5개정판)을 검토하여... <b>화학<\/b>술어집 일반<b>화학<\/b>, 물리<b>화학<\/b>, 유기<b>화학<\/b> 술어집 PDF... "
+		},
+		{
+			"title":"<b>화학<\/b> - 충남대학교 | KOCW 공개 강의",
+			"link":"http:\/\/www.kocw.net\/home\/cview.do?cid=09e4828bf6ffd9da",
+			"description":"충남대학교. 김정권. 자연과학의 이해에 필수적인 물질의 구조와 변화 및 <b>화학<\/b> 반응 등에 관한 내용을 기본적 개념을 중심으로 강의함으로써 수강 학생이 각자의 전공에 확장, 적용할 수 있는 응용력을 배양시키고자 함."
+		},
+		{
+			"title":"민주노총 화섬식품 홈페이지",
+			"link":"http:\/\/kctf.nodong.net\/",
+			"description":"안녕하세요, 반갑습니다! ... 검찰의 적극적인 수사와 기소 및 엄벌 촉구 노조 결의대회와 파리바게뜨 공동행동 성명 발표 SPC 파리바게뜨 불법⦁부당노동행위자 엄벌 촉구 화섬노동자 결의대회 파리바게뜨 노동자 힘내라 공동행동 “... 2022.Jul.21 11:4 "
+		},
+		{
+			"title":"<b>화학<\/b>공학부",
+			"link":"https:\/\/che.jbnu.ac.kr\/",
+			"description":"진학 및 취업현황 <b>화학<\/b>공학부 졸업 후, 진로에 대해 보여드립니다! 회의실\/세미나실 예약 중요한... 22 [수강신청]2022학년도 2학기 <b>화학<\/b>공학부 수강 안내 07.22 [수강신청]2022학년도 2학기 3학년 전필 교과목 주"
+		},
+		{
+			"title":"동아대학교 <b>화학<\/b>공학과",
+			"link":"http:\/\/dache.donga.ac.kr\/",
+			"description":"동아대학교 <b>화학<\/b>공학과"
+		},
+		{
+			"title":"서강대학교-<b>화학<\/b>",
+			"link":"https:\/\/chemistry.sogang.ac.kr\/",
+			"description":"News 2022.04.112021.04 자연과학부 뉴스레터 2022.02.042022.01 자연과학부 뉴스레터 2022.01.27신촌지역 <b>화학<\/b>과 대학원생 공동 워크샵 2021.12.232021.11 자연과학부"
+		},
+		{
+			"title":"충북대학교 자연과학대학 <b>화학<\/b>과",
+			"link":"https:\/\/chem.chungbuk.ac.kr\/",
+			"description":"충북대학교 자연과학대학 <b>화학<\/b>과"
+		},
+		{
+			"title":"울산대학교 <b>화학<\/b>과",
+			"link":"https:\/\/chem.ulsan.ac.kr\/",
+			"description":"울산대학교 <b>화학<\/b>과 홈페이지에 오신 것을 환영합니다."
+		},
+		{
+			"title":"<b>화학<\/b>소재정보은행",
+			"link":"https:\/\/www.matcenter.org\/intro.do?cmd=chemicalBankContent",
+			"description":"<b>화학<\/b>소재 DB, 국내외 최신 기술동향 자료 및 심층보고서, 관련분야 전문교육, 기술컨설팅 등 제공."
+		},
+		{
+			"title":"4797번: <b>화학<\/b> - Baekjoon Online Judge",
+			"link":"https:\/\/www.acmicpc.net\/problem\/4797",
+			"description":"분자 M에 대한 <b>화학<\/b>식을 통해 어떤 원소로 이루어져 있는지 알 수 있다. <b>화학<\/b>식은 다음과 같은 문법을... <b>화학<\/b>식이 주어졌을 때, 구성하고 있는 원소를 구하는 프로그램을 작성하시오."
+		},
+		{
+			"title":"SK인천석유<b>화학<\/b>",
+			"link":"http:\/\/www.skincheonpetrochem.com\/",
+			"description":"친환경의 미래를 그리다. SK인천석유<b>화학<\/b>은 깨끗한 환경과 미래의 가치를 만들어 갑니다."
+		},
+		{
+			"title":"로그인 - 안전보건공단 <b>화학<\/b>물질정보",
+			"link":"https:\/\/msds.kosha.or.kr\/msds\/BJ00100M01.do?login_error=2",
+			"description":"로그인 로그인 회원가입 아이디찾기 비밀번호 찾기 * 권장운영체체 : Windows 8 이상 - Windows 7 이하 버전에서는 인증서 설치 모듈 등의 문제로 시스템 사용이 어려울 수 있습니다. * 권장브라우저... "
+		},
+		{
+			"title":"고분자 <b>화학<\/b> 연구실 &amp; 플라스틱 정보소재 연구센타",
+			"link":"http:\/\/pusan-polymer.com\/",
+			"description":"오늘하루 이창을 열지 않기 창닫기 21.07.28 \/차세대 이차전지 기술 동향 및 전망 포럼 21.07.22 \/부산대, 세계 최고 효율 &quot;삼원소 유기태양전지&quot; 개발 21.06.09 \/최근 게재승인 된 논문입니다 21.01.04"
+		},
+		{
+			"title":"2021\/2022 최고의 <b>화학<\/b>에서 박사 학위",
+			"link":"https:\/\/www.phdstudies.kr\/PhD\/%ED%99%94%ED%95%99\/",
+			"description":"2021\/2022 55 <b>화학<\/b>에서 박사 과정을 비교하세요 - 그리고 학교에 직접 문의하세요"
+		},
+		{
+			"title":"동아대학교 <b>화학<\/b>과",
+			"link":"http:\/\/chem.donga.ac.kr\/",
+			"description":"동아대학교 <b>화학<\/b>과 홈페이지"
+		},
+		{
+			"title":"<b>화학<\/b>에 관한 인기 아이디어 520개 - 2022 | <b>화학<\/b>, 과학, 과학실험",
+			"link":"https:\/\/www.pinterest.com\/osaka118\/%ED%99%94%ED%95%99\/",
+			"description":"2022. 3. 8 - Pinterest에서 연주심님의 보드 &quot;<b>화학<\/b>&quot;을(를) 팔로우하세요. <b>화학<\/b>, 과학, 과학실험에 관한 아이디어를 더 확인해 보세요."
+		},
+		{
+			"title":"LG<b>화학<\/b> 공식 블로그 - LG케미토피아",
+			"link":"https:\/\/blog.lgchem.com\/",
+			"description":"LG<b>화학<\/b> 기업 블로그, 기초소재, 정보전자소재, 2차 전지, LG<b>화학<\/b> 소개"
+		}
+	]
+}

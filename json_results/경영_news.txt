@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:51 +0900",
+	"total":8418095,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"코레일, 철도 광통신망 전원시스템 구축...&quot;소나무 2만그루 심는 효과&quot;",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8340",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8340",
+			"description":"이동기 코레일 전기안전기술단장은 &quot;친환경 광통신망 전원시스템 사업을 통해 ESG <b>경영<\/b>에 이바지하겠다&quot;며, &quot;철도 광통신망 서비스의 안정성을 더욱 높여 열차운행 안전을 강화하겠다&quot;고 말했다.",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"[위클리오늘] 대교, 2년 연속 '나홀로' 적자···배당에만 몰두?",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509940",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509940",
+			"description":"대교 관계자는 &quot;배당은 주주 중시 <b>경영<\/b>실천 일환으로 주주가치 제고를 위한 것&quot;이라며 &quot;최근의 <b>경영<\/b>실적을 고려해 배당 규모는 축소했으나 대교의 주식을 매수하는 주주들의 기대감에 부응하고 주주와의 약속을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"김천시, 스포츠 전지 훈련지 각광",
+			"originallink":"https:\/\/bit.ly\/3J8q5YK",
+			"link":"https:\/\/bit.ly\/3J8q5YK",
+			"description":"올해 초부터 수영 <b>경영<\/b>과 다이빙 국가대표팀이 김천에서 전지 훈련을 하는 등 현재까지 19개 팀 3천800여 명의 선수와 임원들이 김천 종합스포츠타운을 찾은 것으로 알려졌습니다. 김천시는 전지 훈련에 따른 지역경제... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"구본성·구미현 사내이사 임기 만료에 '지분 공동 매각' 물건너갔다",
+			"originallink":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072717213305810",
+			"link":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072717213305810",
+			"description":"아워홈 <b>경영<\/b>권 지분은 이사회 승인 없이 제3자에게 매각하기 어렵게 돼 있다. 아워홈 정관에는 주식을... 62%)을 합쳐 매각하면 <b>경영<\/b>권이 넘어가기 때문이다. 이를 구지은 부회장 측이 장악한 이사회가 승인을 해 줄 리는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"태영건설, 정규직 신입·경력사원 공개 채용···서류접수 다음달 16일까지",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509920",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509920",
+			"description":"경력사원 모집부문은 △토목 △건축시공 △기계 △전기 △현장관리 △해외시공 △CS △환경사업 △환경기술개발 △토목영업 △건축기술 △건축견적 △시행도급 △정비사업 △회계\/세무 △<b>경영<\/b>관리 △IR\/공정위 △IT... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"[종합] LGD, 2분기 영업손실 4883억원…LCD 구조조정 '속도'",
+			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=243292",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002129557?sid=105",
+			"description":"김희연 <b>경영<\/b>전략그룹장은 “경쟁력 측면에서 열위인 LCD사업은 향후 경쟁력 차별화가 어렵다고 판단해 내년 상반기까지 사업 축소를 계획하고 있다”며 “다만 중국 공장 LCD라인은 IT와 상업용 패널을 중심으로... ",
+			"pubDate":"Wed, 27 Jul 2022 18:27:00 +0900"
+		},
+		{
+			"title":"교보생명, 폐현수막 업사이클링 신발주머니 제작...ESG<b>경영<\/b> 실천",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8339",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8339",
+			"description":"교보생명은 올해 열린 '교보생명컵 꿈나무체육대회'에서 사용한 폐현수막을 업사이클링해 신발주머니와 장바구니를 만들었다고 27일 밝혔다. 교보생명은 사용한 현수막을 가치 있게 활용하기 위해 체육대회 기획 초기... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"&quot;22분기 연속 흑자&quot;…삼성엔지니어링, 2Q 영업이익 1535억원·전년 比 2.1% ↑",
+			"originallink":"http:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=128799",
+			"link":"http:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=128799",
+			"description":"삼성엔지니어링 관계자는 &quot;수익성 중심의 내실<b>경영<\/b>과 사업 경쟁력을 강화해 안정적인 성장세를 이어갈 계획&quot;이라며, &quot;디지털 기술 기반의 프로젝트 수행 등 혁신 <b>경영<\/b>을 통해 생산성과 효율성을 제고하고, 수소... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"[경제칼럼] 임금피크제의 해법",
+			"originallink":"http:\/\/www.newscj.com\/article\/20220727580590",
+			"link":"http:\/\/www.newscj.com\/article\/20220727580590",
+			"description":"김대종 세종대 <b>경영<\/b>학부 교수 2022년 상반기 대법원에서 나이로 인해 급여만 줄이는 임금피크제에 대해... <b>경영<\/b>계와 노동계는 찬반으로 나뉘어 치열한 논쟁을 벌이고 있다. 가장 좋은 해결방안은 정년연장과 임금 삭감이... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"산림조합중앙회, 산불예방임도 설계·시공 기술교류 현장토론회 개최",
+			"originallink":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=230491",
+			"link":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=230491",
+			"description":"김희선 산림조합중앙회 산림<b>경영<\/b>안전부장은 &quot;임도 시공·설계 분야에서 축적한 기술력을 바탕으로 산림재해 예방·대응을 위한 연구와 매뉴얼 개발을 지속적으로 추진하고 있다&quot;며 &quot;산림분야 대표기관으로서 기술력 제고에... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"중소벤처기업부,폐업 후 재창업 소상공인에 특례보증 1조원 공급 시행",
+			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065603827223060",
+			"link":"https:\/\/idsn.co.kr\/news\/view\/1065603827223060",
+			"description":"17개 지역신용보증재단과 13개 시중은행 각 지점으로 신청하면 된다. 한편 중기부 김주식 과장은 “코로나19로 어려움을 겪은 소상공인 분들의 재기지원과 <b>경영<\/b>안정에 이번 특례자금이 도움이 되길 바란다”라고 전했다.",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"산림청-민간 산림기술부문 간담회, &quot;산림 기술 품질향상과 전문인력 양성 중요...",
+			"originallink":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=230493",
+			"link":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=230493",
+			"description":"참석자들은 미래 산림<b>경영<\/b>을 위해서는 산림 분야 기술 개발과 각종 규제타파가 중요하며 이를 위해 산림청의... 남성현 산림청장은 &quot;선진국형 산림<b>경영<\/b>관리를 통한 산림르네상스 시대를 열기 위해서는 산림 기술... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"중진공 전남본부, 업사이클링 물품 기부",
+			"originallink":"http:\/\/www.jndn.com\/article.php?aid=1658913756341515004",
+			"link":"http:\/\/www.jndn.com\/article.php?aid=1658913756341515004",
+			"description":"윤영회 중진공 전남지역본부장은 “헌옷과 폐현수막으로 에코백을 만들고 필요한 곳에 나눠주며 자원 선순환을 통해 환경보호에 기여할 수 있어 뜻깊었다”며 “앞으로도 ESG<b>경영<\/b> 인식 확산을 위한 다양한 활동을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"[사실상 스태그플레이션] 서민·자영업자 '3高 터널'에 苦苦苦",
+			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=925265",
+			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=925265",
+			"description":"겹치니 <b>경영<\/b>위축이 심화되는 게 사실이다. 납품단가연동제 등 정책적인 장치 마련이 시급하다&quot;고 말했다.... 장수현 대전상권발전위원회장은 &quot;자영업계 부채가 갈수록 쌓이고 소비침체로 <b>경영<\/b>난을 겪는 이들이 많다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"권남주 캠코 사장, '회생기업 자금대여' 100번째 기업 방문해 애로사항 청취",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8323",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8323",
+			"description":"권남주 캠코 사장은 &quot;고금리, 고환율, 고물가 등 중소기업의 <b>경영<\/b> 환경이 갈수록 어려워지고 있다&quot;며, &quot;앞으로 DIP금융을 통한 운전자금 지원, <b>경영<\/b>컨설팅, 보증지원 등 종합지원 프로그램을 제공해 기업의 <b>경영<\/b>... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"광동제약, 제16회 대한민국 패키징 대전 ‘한국생산기술연구원장상’",
+			"originallink":"https:\/\/www.christiantoday.co.kr\/news\/349087",
+			"link":"https:\/\/www.christiantoday.co.kr\/news\/349087",
+			"description":"광동제약 관계자는 “그동안 광동제약은 디자인혁신실을 운영하며 소비자와 환경을 위한 지속가능한 디자인을 고민해 왔다”며 “앞으로도 혁신적인 디자인 <b>경영<\/b>을 계속해 나갈 것”이라고 전했다.",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"국민연금공단 이사장 공개모집…8월 10일 마감",
+			"originallink":"http:\/\/www.bosa.co.kr\/news\/articleView.html?idxno=2178163",
+			"link":"http:\/\/www.bosa.co.kr\/news\/articleView.html?idxno=2178163",
+			"description":"및 면접 심사를 거쳐 보건복지부장관에게 복수의 후보자를 추천하고, 보건복지부장관은 임명권자인 대통령께 임명제청을 한 후 임명된다. 이사장 임기는 3년이며, <b>경영<\/b>실적평가 결과에 따라 1년을 단위로 연임이 가능하다.",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"대상라이프사이언스, 70조 중국 건기식 시장 공략 본격화",
+			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2022\/07\/27\/2022072700239.html",
+			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2022\/07\/27\/2022072700239.html",
+			"description":"합작법인 설립을 통해 특수의료용도식품(환자용식품 등)?건강기능식품?기능성일반식품의 생산 라인을 구축하고, 제품 연구개발, 생산, <b>경영<\/b> 관리 및 마케팅 등 여러 방면에서 전방위로 협력한다. 합작법인은... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"임업직불금 신청기한 임박, 다음달 1일까지 신청해야",
+			"originallink":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=230496",
+			"link":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=230496",
+			"description":"산림청은 임업직불금 신청 시 사전에 지급대상, 수령자격요건, 의무준수사항, 유의사항 등을 산림청 누리집, 지자체 누리집, 임업<b>경영<\/b>체 업무지원포털 '임업-in'(foco.go.kr) 등에서 공고문과 사업시행지침서를 통해 숙지할... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"힘받는 엑스포 유치... 내년 국비확보 속도",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271824319478",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874265?sid=102",
+			"description":"주도의 혁신성장을 위해서는 불필요한 덩어리 규제의 과감한 철폐와 개선이 필요한 만큼 지역 혁신의 자생력을 높여가는 데 국회 차원의 지원과 협조를 부탁드린다&quot;고 국가 <b>경영<\/b>의 과감한 혁신을 강조했다.",
+			"pubDate":"Wed, 27 Jul 2022 18:25:00 +0900"
+		},
+		{
+			"title":"전자·화학·철강 실적 하향세 뚜렷…반도체도 하반기 ‘불투명’",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/economy\/marketing\/1052586.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002600231?sid=101",
+			"description":"하반기엔 반도체 쪽까지도 상황이 나빠질 예상되며, 일부 그룹들이 비상<b>경영<\/b> 체제를 선언하거나 투자를... 지난해 같은 기간에 견줘 매출과 영업이익이 각각 34%와 56% 증가했으나 회사 <b>경영<\/b>진은 불안감을 감추지 못하는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:25:00 +0900"
+		},
+		{
+			"title":"동백전 충전한도 30만원으로 낮춘다",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271824339377",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874266?sid=102",
+			"description":"아울러 내달 8일부터는 제로페이를 월 30만원 한도 내에서 10% 할인된 가격으로 구매할 수 있는 소비쿠폰을 발행해 소상공인의 <b>경영<\/b> 부담을 줄여줄 계획이다. 김효경 시 민생노동정책관은 &quot;동백전에 대한 수요가 계속 늘고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:25:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, ESG보고서 발간...&quot;지난해 2조6227억원 규모 사회적 성과&quot;",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8338",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8338",
+			"description":"하나금융은 ESG보고서를 통해 환경, 사회, 지배구조 중심의 지속가능<b>경영<\/b> 활동과 성과를 사회, 이웃... 지배구조 측면에는 지속가능<b>경영<\/b>위원회, 소비자리스크관리위원회 활동등 소비자보호와 내부통제 강화, 인권... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"부산시 동백전, 내달부터 충전 한도 30만원·캐시백 5%로 조정",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016422",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016422",
+			"description":"아울러, 다음달 8일부터는 제로페이를 월 30만원 한도 내에서 10% 할인된 가격으로 구매할 수 있는 소비 쿠폰을 발행하여 소상공인의 <b>경영<\/b> 부담을 완화할 것으로 기대한다. 김효경 부산시 민생노동정책관은 &quot;동백전에 대한... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"LG디플, 2년 만에 적자 전환...&quot;글로벌 공급망 이슈 직격타&quot;",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8331",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8331",
+			"description":"LG디스플레이가 27일 올해 2분기 <b>경영<\/b>실적을 발표했다. LG디스플레이의 발표에 따르면 2분기 매출은 5조 6073억원, 영업손실은 4883억원을 기록했다. 2분기 중국 코로나 봉쇄 장기화 영향과 경기 변동성 및 불확실성... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"원자잿값·인건비 상승에 전기료 폭탄까지… 뿌리기업 &quot;눈앞 캄캄&quot;",
+			"originallink":"http:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2015876",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000020481?sid=101",
+			"description":"경우 <b>경영<\/b> 악화를 피하지 못할 중소기업들은 파산을 간신히 면하는 한계기업이 늘어날 가능성이 높다&quot;고 우려했다. 특히 전력 사용이 많은 주물·열처리·금형 등 기초 공정을 담당하는 이른바 '뿌리 기업'들은 한계... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"삼성-LG '올레드 동맹' 결렬…&quot;가격·수량 이견 못좁혀&quot;",
+			"originallink":"https:\/\/www.hankyung.com\/economy\/article\/202207278303g",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729981?sid=101",
+			"description":"실제 협상 과정에서 한종희 삼성전자 부회장과 정호영 LG디스플레이 사장 등 양사 최고<b>경영<\/b>자들은 &quot;모든 가능성이 열려 있다&quot;고 언급하기도 했었다. 업계에선 양사 간 이견이 좁혀지지 않아 협상이 난항을 겪고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:23:00 +0900"
+		},
+		{
+			"title":"도드람양돈, 중복맞이 삼계탕 나눔행사 진행",
+			"originallink":"http:\/\/www.nongmin.com\/article\/ar_detail.htm?seq_id=360057",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/662\/0000004174?sid=101",
+			"description":"이번 행사는 무더위와 장마로 어려움을 겪는 지역 어르신의 원기회복을 도움으로써 지역사회와 상생하는 ESG(환경ㆍ사회ㆍ지배구조) <b>경영<\/b>을 실천하고자 마련됐다. 도드람양돈은 이번 행사 외에도 지역 어르신을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:23:00 +0900"
+		},
+		{
+			"title":"울산 북구, 농업용 드론 벼 병해충 공동방제...방제비용 50% 지원",
+			"originallink":"https:\/\/www.sisa-news.com\/news\/article.html?no=207061",
+			"link":"https:\/\/www.sisa-news.com\/news\/article.html?no=207061",
+			"description":"북구 관계자는 &quot;이번 드론 공동방제로 인력난과 고령화로 인한 농가 노동력 부담이 해소되길 기대한다&quot;며 &quot;내년에는 드론 공동방제 지역을 북구 전역으로 확대해 <b>경영<\/b>비는 절감하고 품질은 높여 북구 쌀 경쟁력을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"부산 지역화폐 '동백전', 8월부터 충전 한도 30만원·캐시백 5%로 축소",
+			"originallink":"https:\/\/www.jejutwn.com\/news\/article.html?no=140812",
+			"link":"https:\/\/www.jejutwn.com\/news\/article.html?no=140812",
+			"description":"아울러 내달 8일부터는 제로페이를 월 30만원 한도 내에서 10% 할인된 가격으로 구매할 수 있는 소비 쿠폰을 발행하여 소상공인의 <b>경영<\/b> 부담을 완화를 추진한다. 김효경 부산시 민생노동정책관은 &quot;동백전에 대한 수요가... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"한국체육산업개발, 27일 자율 <b>경영<\/b>혁신 워크숍 개최",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=81637882621",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=81637882621",
+			"description":"한국체육산업개발은 &quot;<b>경영<\/b>효율화, 공공부문 생산성 제고 등 정부의 공공기관 혁신방안 공유 및 자체 혁신과제 발굴로 <b>경영<\/b>혁신에 적극 동참하기 위해 27일 올림픽공원 내 올림픽파크텔 서울홀에서 2022년도 자율 <b>경영<\/b>혁신... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"韓 총리 “이재용·신동빈 등 사면 건의할 것”",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/07\/27\/20220727521641.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003719557?sid=100",
+			"description":"대한상공회의소·한국무역협회·중소기업중앙회·한국<b>경영<\/b>자총협회·한국중견기업연합회 등 경제5단체는 지난 5월 이 부회장과 신 회장, 이중근 부영그룹 회장 등을 포함한 ‘경제발전과 국민통합을 위한 특별사면복권... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"“지속가능한 성장으로 지역경제 활성화 주축 되길”",
+			"originallink":"http:\/\/www.jndn.com\/article.php?aid=1658913539341514004",
+			"link":"http:\/\/www.jndn.com\/article.php?aid=1658913539341514004",
+			"description":"33회째를 맞은 이번 대회에는 수상자 및 강기정 광주시장, 한국전력 이현빈 <b>경영<\/b>지원부사장 등 수상자·중소기업·유관기관 관계자 300여 명이 참석한 가운데 ▲축사 ▲중소기업의 주요 현안 및 정책과제 발표 ▲각... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"국민연금공단 “이사장 공개모집 절차 시작”…내일(28일)부터 공개모집",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5519306&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011310007?sid=102",
+			"description":"이사장 임기는 3년이며 <b>경영<\/b>실적 평가 결과에 따라 1년 단위로 연임할 수 있습니다. 국민연금공단 이사장 자리는 지난 4월 김용진 전 이사장이 자진사퇴면서 약 3개월 동안 공석인 상황입니다. [사진 출처 : 연합뉴스... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"부산항만공사, 부산항 신항 배후단지 활성화 위한 제도개선 TF 구성",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016421",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016421",
+			"description":"이번 TF 운영의 목적은 배후단지 입주기업의 자유로운 <b>경영<\/b>활동에 제약이 되는 규제 요소를 발굴·개선해... 입주기업의 <b>경영<\/b>활성화를 적극 지원하겠다&quot;라고 말했다. 한편, BPA는 부산항을 글로벌 항만물류 중심지로... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"현대미포조선, 노사 임단협 상견례",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271817435820297",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271817435820297",
+			"description":"정영진 노조위원장은 “불확실한 <b>경영<\/b>현황을 최대한 반영해 요구안을 마련했다”며 “조합원들이 회사에 대한 신뢰를 바탕으로 오랜 기간 헌신한 만큼 노사 모두가 승리하는 결과가 나오길 기대한다”고 했다. gw89@",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"SKC, 2022 지속가능<b>경영<\/b>보고서 발간",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220727000969",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220727000969",
+			"description":"SKC가 2022 지속가능<b>경영<\/b>보고서를 발간했다. 27일 SKC에 따르면 올해 세 번째인 이번 보고서에는 그동안의... (ESG) <b>경영<\/b>을 강조했다. SKC는 이날 지속가능<b>경영<\/b>보고서를 발간하고 홈페이지 등에 공개했다. SKC는 내년 의무... ",
+			"pubDate":"Wed, 27 Jul 2022 18:21:00 +0900"
+		},
+		{
+			"title":"[fn광장] 존 리를 보는 또다른 시선",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271820033033",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874251?sid=110",
+			"description":"토론자로 나선 그는 여성인재 활용은 기업 <b>경영<\/b>의 핵심이며, 이는 전 세계적 흐름이라고 강조했다. &quot;여성... 우리나라 자산운용계에서 여성문제 해결을 주장하는 최고<b>경영<\/b>자(CEO)는 찾아보기 힘들기에 그의 토론 내용은 매우... ",
+			"pubDate":"Wed, 27 Jul 2022 18:21:00 +0900"
+		},
+		{
+			"title":"이성희 농협중앙회장 &quot;농촌 소멸 문제 해결 위해 힘쓸 것&quot;",
+			"originallink":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=300695",
+			"link":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=300695",
+			"description":"한편 농협은 지난달 7일 물가 상승 등으로 범국민적 어려움 발생 당시 농민 <b>경영<\/b>안정 지원을 위해 발표한 3600억원 규모의 '국민과 함께하는 따뜻한 동행'과 관련해 7월 현재 1923억원을 지원했으며, 연말까지 국민들과... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, '2021 ESG보고서' 발간",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580793",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580793",
+			"description":"지속가능<b>경영<\/b> 활동과 성과를 사회와 이웃, 공동체를 포함한 모든 이해관계자들에게 공개하고 소통하고... 지배구조 측면에는 지속가능<b>경영<\/b>위원회, 소비자리스크관리위원회 활동등 소비자보호와 내부통제... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"GS건설, 상반기 영업이익 3180억원…신규수주 61.9% 증가",
+			"originallink":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=47542",
+			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=47542",
+			"description":"상반기 <b>경영<\/b> 실적(잠정)을 27일 발표했습니다. 매출은 건축 주택 부문의 견조한 성장세와 신사업 부문에서 호조 덕에 작년 동기 대비 27.7% 증가했습니다. 영업이익은 5.3%가 늘었고 세전이익은 39.0%가... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"김대권 보로노이 대표, 파이프라인 확대 기술수출로 실력 증명한다",
+			"originallink":"http:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=97936",
+			"link":"http:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=97936",
+			"description":"상장 이후 최대주주는 지분율 39.64%로 <b>경영<\/b>부문 총괄을 맡고 있는 김현태 대표다. 전자공시시스템에 따르면, 회사 설립은 김 대표와 특수관계인이 설립한 것으로 파악된다. 세포 내 신호전달을 담당하는 550여개의... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"[이슈해설] 中 철강재 철광석 반등세 &quot;국면전환인가 일시적 회복인가&quot;",
+			"originallink":"http:\/\/www.ferrotimes.com\/news\/articleView.html?idxno=21263",
+			"link":"http:\/\/www.ferrotimes.com\/news\/articleView.html?idxno=21263",
+			"description":"포스코그룹이 최근 10년 만의 비상<b>경영<\/b>체제를 선언한 것도 시사하는 바가 크다. 바오우그룹의 천더룽(Chen... 푸양강철은 앞서 18일 비상<b>경영<\/b>을 선포했다. 바오우그룹과 같이 현재 상황을 2015년과 유사한 '추운 겨울'로... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"박형준 부산시장, 국민의힘, 부·울·경 예산정책협의회 개최",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016419",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016419",
+			"description":"주도의 혁신성장을 위해서는 불필요한 덩어리 규제의 과감한 철폐와 개선이 필요한 만큼, 지역 혁신의 자생력을 높여가는 데 국회 차원의 지원과 협조를 부탁드린다&quot;라고 국가 <b>경영<\/b>의 과감한 혁신을 강조했다. 조영돌",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"‘빚덩이’ 지방공공기관 수술대로… 기능 통폐합·부채 집중 관리",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/07\/27\/20220727520715.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003719555?sid=102",
+			"description":"부실사업과 비핵심자산은 정리토록 하고, 이행력 확보를 위해 <b>경영<\/b>평가의 재무성과 비중 등을 확대할... 이상민 행안부 장관은 “공공기관의 방만한 <b>경영<\/b> 문제는 국가공공기관만의 문제가 아니다”라며 “혁신의... ",
+			"pubDate":"Wed, 27 Jul 2022 18:19:00 +0900"
+		},
+		{
+			"title":"명동엔 여전히 빈 가게만…성장률 이대로면 2%도 위험",
+			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000073748?division=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000296495?sid=101",
+			"description":"[김대종 \/ 세종대 <b>경영<\/b>학부 교수 : 러시아-우크라이나 전쟁이 지속되고 있고 중국의 봉쇄, 코로나의 재확산, 또 국내에서는 가계 부채의 증가와 고금리 등으로 3분기에는 더욱 어려워질 것으로 전망됩니다.] 한국은행은... ",
+			"pubDate":"Wed, 27 Jul 2022 18:19:00 +0900"
+		},
+		{
+			"title":"삼다수, 수질 검사만 연간 2만회… “출시 이래 수질 변화 없다”",
+			"originallink":"https:\/\/biz.chosun.com\/distribution\/food\/2022\/07\/27\/U5Q4E7IELRFU3OKITGB433AOGU\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000830416?sid=103",
+			"description":"삼다수가 취득한 인증으로는 ▲ISO9001(품질<b>경영<\/b>시스템) ▲ISO14001(환경<b>경영<\/b>시스템) ▲ISO45001(안전보건<b>경영<\/b>시스템 ▲미국 NSF International ▲FSSC 22000(식품안전<b>경영<\/b>시스템) 등이다. 공사는 삼다수 완제품의 경우 미국... ",
+			"pubDate":"Wed, 27 Jul 2022 18:19:00 +0900"
+		},
+		{
+			"title":"[마감종합기사] 상한가 5종목, 무상증자 이슈 속 지투파워·엔지켐생명과학 등...",
+			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=925262",
+			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=925262",
+			"description":"보아스에셋은 화천기계(+16.05%) 임시주주총회 소집을 청구, 신규 이사, 감사, 임시의장 선임 등 <b>경영<\/b>권에 적극 참여키로 했다고 27일 밝혔다. 보아스에셋은 지난 5월 금융감독원에 화천기계의 <b>경영<\/b>참여, 임원해임... ",
+			"pubDate":"Wed, 27 Jul 2022 18:18:00 +0900"
+		},
+		{
+			"title":"[인사] 국토교통부 外",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271816290595",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874237?sid=102",
+			"description":"류영수 △<b>경영<\/b>기획본부장 오현환 △전략기획센터장 강현규 △감사부장 안승구 △미래기술전략본부... 박용철 △<b>경영<\/b>기획본부 기획예산실장 김이경 △<b>경영<\/b>기획본부 재정관리실장 정혜윤 △<b>경영<\/b>기획본부 총무전산실장... ",
+			"pubDate":"Wed, 27 Jul 2022 18:17:00 +0900"
+		},
+		{
+			"title":"SKC, 2022 지속가능<b>경영<\/b>보고서 발간…2030년 온실가스 배출량 42% 감축",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016491",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016491",
+			"description":"SKC는 27일 이 같은 내용을 담은 지속가능<b>경영<\/b>보고서를 발간하고 홈페이지 등에 공개했다. SKC는 내년 의무... 또한 이해관계자가 SKC의 ESG <b>경영<\/b>을 빠르게 이해할 수 있도록 상시 업데이트 방식을 도입한다. SKC의 ESG... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"김해 유망 창업기업에 집중 투자 길 열려",
+			"originallink":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800424",
+			"link":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800424",
+			"description":"주목적 투자 대상은 3년 이내 기업 또는 창업자로 설립 후 연간 매출액이 20억 원이 초과하지 않은 창업자, 기술혁신형·<b>경영<\/b>혁신형 중소기업, 벤처기업이다. 이번에 조성되는 모태펀드를 통해 투자를 받을 경우 정부가... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"이재용·신동빈 사면 본격화되나…한 총리 &quot;대통령께 건의할 것&quot;",
+			"originallink":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=281064",
+			"link":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=281064",
+			"description":"풀려 <b>경영<\/b> 일선 복귀도 가능해진다. 아울러 특정경제범죄가중처벌법으로 5년 동안 취업제한이 걸려 있는 이... 마찬가지로 <b>경영<\/b>에 적극 나서기 어려운 점도 있는 만큼 만일 이번에 사면이 이뤄진다면 한층 자유롭게 활동할... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"왓챠 “<b>경영<\/b>권 매각은 사실무근”… 조직 경량화 추진",
+			"originallink":"https:\/\/biz.chosun.com\/it-science\/ict\/2022\/07\/27\/RZ3MAIJWGFHD7HSSSG5SFIZEPY\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000830415?sid=105",
+			"description":"왓챠가 투자은행(IB) 업계에서 제기된 <b>경영<\/b>권 매각설에 대해 “사실 무근”이라는 입장을 밝혔다. 왓챠 관계자는 27일 “다양한 방법으로 투자를 유치하는 과정에서 이야기가 와전된 것 같다”며 이렇게 말했다. 왓챠는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"CJ온스타일, 중소 협력사 'ESG <b>경영<\/b>' 지원 나선다",
+			"originallink":"http:\/\/www.sportsq.co.kr\/news\/articleView.html?idxno=442346",
+			"link":"http:\/\/www.sportsq.co.kr\/news\/articleView.html?idxno=442346",
+			"description":"ESG <b>경영<\/b>이 내재화될 수 있도록 현실적인 지원을 제공하는 것이다. [사진=CJ온스타일 제공] 교육과 함께 ESG... CJ온스타일은 지난 6월 협력사와의 동반성장 세부 방침을 발표하며, 협력사와 함께 ESG <b>경영<\/b>을 적극 실천해... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"핸디소프트 &quot;최대주주 <b>경영<\/b>권 매각 추진설 사실 아냐&quot;",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022072718153702344",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005124311?sid=101",
+			"description":"핸디소프트는 최대주주의 <b>경영<\/b>권 매각 추진설 관련 한국거래소 코스닥시장본부의 조회공시 요구에 대해 &quot;당사 최대주주에 확인한 결과, 사실이 아님을 알려드린다&quot;고 27일 공시했다.",
+			"pubDate":"Wed, 27 Jul 2022 18:15:00 +0900"
+		},
+		{
+			"title":"한덕수,&quot;'특정 성향' 공영방송 장악은 민주주의 위협&quot;‥언론노조 &quot;근거없는 정...",
+			"originallink":"https:\/\/imnews.imbc.com\/news\/2022\/politics\/article\/6392717_35666.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001211811?sid=100",
+			"description":"한 총리는 오늘 대정부질문에서 '이미 민노총이 직원들을, 장악했고 사장을 비롯한 <b>경영<\/b>진까지 영구히 장악하겠다는 저의가 숨어있다고 본다'는 국민의힘 박성중 의원의 질의에 이같이 답했습니다. 한 총리는 이어 &quot;결국... ",
+			"pubDate":"Wed, 27 Jul 2022 18:14:00 +0900"
+		},
+		{
+			"title":"대기업 10곳 중 9곳 &quot;국제 원자재가 상승에 타격&quot;… 하반기 영업익 9.5% 감소...",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271813086483",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874227?sid=101",
+			"description":"27일 전국경제인연합회가 매출액 500대 기업 중 12대 수출 주력업종을 영위하는 100개 대기업을 대상으로 '국제원자재 가격 상승에 따른 기업 영향'을 조사한 결과 국제원자재 가격 상승이 <b>경영<\/b>환경에 '부정적 영향'을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:14:00 +0900"
+		},
+		{
+			"title":"삼성전기·LG이노텍, 2분기 실적 '사상 최대'",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OO7BLR9",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004081044?sid=101",
+			"description":"삼성전기와 LG이노텍, LG디스플레이는 27일 각각 2분기 <b>경영<\/b> 실적을 공개했다. 삼성전기는 2분기 매출 2조 4556억 원, 영업이익 3601억 원을 각각 기록했다고 밝혔다. 전년 동기와 비교해 매출은 2.1%, 영업이익은 0.6... ",
+			"pubDate":"Wed, 27 Jul 2022 18:13:00 +0900"
+		},
+		{
+			"title":"나주시, 농가 부담 완화 위해 농기계용 면세유 인상액 22억원 지원",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2022072715453594731?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002253050?sid=102",
+			"description":"전라남도 나주시(시장 윤병태)는 코로나19 장기화 여파와 유가 급등으로 어려움을 겪는 농가의 <b>경영<\/b>부담... 윤병태 나주시장은 “재정 여건이 녹록치 않지만 시와 시의회가 한 뜻으로 농업인들의 <b>경영<\/b> 안정을 위해 적극... ",
+			"pubDate":"Wed, 27 Jul 2022 18:13:00 +0900"
+		},
+		{
+			"title":"농업<b>경영<\/b>인 합천군연합회 한마음체육대회 열려",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322443",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322443",
+			"description":"▲ 사단법인 한국후계농업<b>경영<\/b>인 합천군연합회가 주최하는 농업인 화합의 장인 제25회 합천군 후계농업<b>경영<\/b>인의 날 및 제34회 한마음 체육대회가 지난 26일 합천군민체육관에서 열렸다. \/합천군연합회 사단법인... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"반기문·손경식 충북도 특별명예고문 위촉(종합)",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5793919",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003669157?sid=102",
+			"description":"한국<b>경영<\/b>자총협회 회장을 충청북도 특별명예고문으로 위촉했다. 김 지사는 반 전 사무총장의 글로벌한 식견과 다양한 분야에서 활동하고 있는 점을, 손 회장은 사회적책임을 실천하는 윤리<b>경영<\/b> 마인드 등을 볼 때... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"김해상공회의소, 적십자사 '씀씀이가 바른기업' 동참",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322532",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322532",
+			"description":"김해상공회의소는 지역상공계의 권익신장과 회원 소통 강화, 최신 <b>경영<\/b>정보 제공, 고용창출 및 차세대 <b>경영<\/b>인육성 등 다양한 서비스로 지역 기업의 경쟁력 제고에 앞장서고 있다.",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"신한카드, 말레이시아 정책담당자들과 빅데이터 활용 정책 수립 사례 공유",
+			"originallink":"http:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=38236",
+			"link":"http:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=38236",
+			"description":"신한카드는 이 자리에서 ESG<b>경영<\/b>, 디지털화 추진 등 신한카드가 지닌 사업 역량을 소개함과 동시에 한국의 데이터 산업 동향을 설명했다. 또 말레이시아 정책 실무에 실질적인 도움을 줄 수 있도록 공공영역의... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"국민연금공단, 28일부터 이사장 공개모집",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022072718022380090",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2022072718022380090",
+			"description":"복지부 장관이 대통령에 임명을 제청하면 대통령이 최종 임명한다.이사장 임기는 3년이며, <b>경영<\/b>실적평가 결과에 따라 1년 단위로 연임이 가능하다. 공모와 관련된 자세한 사항은 28일 국민연금공단 홈페이지에 게시될... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"현대차·기아, 달 탐사 모빌리티 개발연구 착수예정…&quot;인류 진보에 기여할 것...",
+			"originallink":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065597362267877",
+			"link":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065597362267877",
+			"description":"(KATECH) <b>경영<\/b>지원본부장 등의 관계자들이 참석한 것으로 알려진다. 이번 협약과 관련해 현대차그룹 관계자는 “현대차와 기아가 그동안 고객들에게 제시해왔던 로보틱스와 메타모빌리티에 대한 비전을 현실로 만들기... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"조규일 진주시장 '시민과의 데이트' 가져",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322496",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322496",
+			"description":"북카페 건물은 중요무형문화재 제12호 진주검무 보유자이고 故 성계옥 선생이 <b>경영<\/b>하기도 한 옛 '삼락식당'자리로, 故 아천 최재호 선생, 김상옥 시인 등 진주의 시조시인들이 시 낭송을 즐겨하던 장소다. 이후 삼현학원... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"하나금융, 올해도 ESG보고서 발간",
+			"originallink":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=281068",
+			"link":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=281068",
+			"description":"하나금융그룹은 27일 ESG보고서를 통해 환경(E), 사회(S), 지배구조(G) 중심의 지속가능<b>경영<\/b> 활동과 성과를... 지배구조 측면에는 지속가능<b>경영<\/b>위원회, 소비자리스크관리위원회 활동 등 소비자보호와 내부통제 강화... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"수영 황선우가 육상 우상혁에게 &quot;파리서는 함께 금빛 레이스를&quot;",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322407",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322407",
+			"description":"한국 선수로는 11년 만에 롱코스(50ｍ) 세계수영선수권대회 <b>경영<\/b> 종목에서 메달을 수확한 황선우는 27일... 황선우의 은메달은 롱코스 세계선수권대회 <b>경영<\/b> 종목에서 한국 선수로는 2011년 중국 상하이 대회 남자 자유형... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"경남적십자사 기빙클럽 72~74호 참여",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322418",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322418",
+			"description":"나창희 대표이사는 전 창원상공회의소 차세대<b>경영<\/b>인클럽 회장을 역임했고 창원 젊은 <b>경영<\/b>인들과 지역 경제 활성화를 위한 다양한 활동을 펼쳐왔다. 동원건설산업(주)은 토목·건축공사를 수행하는 종합건설사로 장기영... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"경총 “중대재해 사업장 장기 중단 피해 계속돼 개선 필요”",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271807541150295",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271807541150295",
+			"description":"27일 한국<b>경영<\/b>자총협회(경총)이 발표한 ‘중대재해 발생 시 고용노동부 작업중지 명령의 문제점 및 개편방안’ 보고서에 따르면 개정 산업안전보건법 시행 이후 작업 중지 명령을 받은 10개 사업장을 대상으로 문제점을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"진주시 복합문화공간 '진양호 아천 북카페' 준공",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322495",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322495",
+			"description":"중요무형문화재 제12호 진주검무 보유자인 故 성계옥 선생이 <b>경영<\/b>하던 '삼락식당'자리로, 故 아천 최재호 선생과 故 김상옥 시인 등 진주의 시조시인들이 시 낭송을 즐겨하던 장소이다. 이후 삼현학원(現 삼현여자중... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"김해의생명산업진흥원 모태펀드 최종 선정",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322497",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322497",
+			"description":"이는 3년 이내 기업 또는 창업자 설립 후 연간 매출액이 20억원이 초과하지 않는 창업자, 기술혁신형·<b>경영<\/b>혁신형 중소기업, 벤처기업을 주목적 투자대상으로 투자를 하게 된다는 것. 특히 이번에 조성되는 모태펀드를 통해... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"&quot;시원한 여름나기를 한국철도가 응원합니다&quot;",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322421",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322421",
+			"description":"조영문 한국철도 부산경남본부 <b>경영<\/b>인사처장은 &quot;폭염으로 어려움을 겪고 있는 사회적 약자들께 시원한 여름을 날 수 있게 도움을 드릴 수 있어 기쁘며, 앞으로도 지속적인 나눔과 봉사활동을 실천해 지역사회와... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"경남도 농자재값 인상에 따른 무기질비료 지원",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322529",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322529",
+			"description":"경남도가 농자재값 인상으로 어려움을 겪고 있는 도내 농가의 <b>경영<\/b>안정을 위해 무기질비료 구입비를 지원한다. 국제 원자재 가격 인상 등으로 인해 무기질비료 가격이 급등함에 따라 농업인의 <b>경영<\/b>비 부담 완화를 위해... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"함양군 제30회 농업<b>경영<\/b>인가족 한마음대회",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322446",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322446",
+			"description":"▲ 함양농업의 힘찬 미래를 다짐하는 농업<b>경영<\/b>인가족 한마음대회가 (사)한국후계농업<b>경영<\/b>인 함양군연합회(회장 유성연)의 주최로 성황리에 열렸다. \/ 함양군연합회 농업의 새로운 가치창조와 농업인들의 권익향상을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"LG화학, 역대 분기 최대 매출 썼다…전년比 7.0% 오른 12조2399억원",
+			"originallink":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=300697",
+			"link":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=300697",
+			"description":"차동석 LG화학 최고재무책임자(CFO) 부사장은 &quot;고유가 및 글로벌 인플레이션, 중국의 코로나 봉쇄 상황 등 어려운 <b>경영<\/b> 환경이 지속됐으나 차별화된 제품 포트폴리오 기반의 석유 화학 사업과 큰 폭의 매출 성장 및... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"한덕수 &quot;이재용·신동빈 특별사면 대통령에 건의하겠다&quot; [기업인 사면 수면위...",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271809545248",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874220?sid=101",
+			"description":"대한상공회의소, 한국무역협회, 중소기업중앙회, 한국<b>경영<\/b>자총협회, 한국중견기업연합회 등 경제단체들은... 완전한 <b>경영<\/b>복귀는 불가능하다. 원자력발전 재개와 관련해서는 신재생에너지만 사용하는 것은 불가능하다는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:11:00 +0900"
+		},
+		{
+			"title":"[2022 아투 산업포럼] 정책금융의 발전적 운용전략 논의 위해 전문가들 모였다",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010015988",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010015988",
+			"description":"투입해 <b>경영<\/b> 정상화를 지원하는 '정책금융'의 올바른 운용전략을 논의하기 위해 전문가들이 한 자리에... 서강대 <b>경영<\/b>학과 교수 등이 참여했다.공동 주최를 맡은 윤 의원은 &quot;정책 금융기관들이 역할을 하느냐는 질문을 던질... ",
+			"pubDate":"Wed, 27 Jul 2022 18:10:00 +0900"
+		},
+		{
+			"title":"'인재 블랙홀' 된 美 사막…韓은 싸울 두뇌가 없다",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OP5EEWM",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004081039?sid=102",
+			"description":"유럽<b>경영<\/b>대학원(INSEAD)의 ‘2021년 세계인적자원경쟁력지수’에 따르면 한국은 경제협력개발기구(OECD) 38개국 중 24위에 그쳤다. 고등교육의 외국인 유입률(2.8%)은 33위로 최하위권이다. 더 큰 문제는 저출산에 따른... ",
+			"pubDate":"Wed, 27 Jul 2022 18:10:00 +0900"
+		},
+		{
+			"title":"포스코 기업시민헌장 선포 3주년, &quot;기업시민 <b>경영<\/b>의 길을 개척하다&quot;",
+			"originallink":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=239226",
+			"link":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=239226",
+			"description":"2019년 7월, <b>경영<\/b>이념인 기업시민의 지향점과 실천원칙이 담긴 '포스코 기업시민헌장'을 선포한 포스코는 2020년대에 이해관계자 자본주의, ESG<b>경영<\/b> 등이 대두되면서 미래<b>경영<\/b> 롤모델을 만들어 가고 있다는 평가를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:10:00 +0900"
+		},
+		{
+			"title":"[BNK부산은행] ‘꿈담기’ 진로체험 프로그램 실시 外",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=433479",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=433479",
+			"description":"부산은행 박명철 <b>경영<\/b>전략그룹장은 “시민들의 건강증진과 더불어 기부문화에도 함께 동참할 수 있는 BNK건강기부계단에 많은 관심과 참여를 부탁드린다”며 “앞으로도 부산은행은 일상생활과 연계된 다양한... ",
+			"pubDate":"Wed, 27 Jul 2022 18:10:00 +0900"
+		},
+		{
+			"title":"LG화학, 2Q 영업익 59% 급감…&quot;하반기 석화 지고·첨단소재 뜨고&quot;(종합)",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1136982\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002625043?sid=101",
+			"description":"LG화학이 고유가 및 글로벌 인플레이션, 중국의 코로나 봉쇄 상황 등 어려운 <b>경영<\/b>환경에서도 분기 최대... LG화학은 올해 2분기 매출액 12조 2399억원, 영업이익 8785억원의 <b>경영<\/b>실적을 달성했다고 27일 발표했다. 전분기... ",
+			"pubDate":"Wed, 27 Jul 2022 18:09:00 +0900"
+		},
+		{
+			"title":"가스기술公, 지역주민 돌봄 활동가 발대식 개최",
+			"originallink":"http:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=250743",
+			"link":"http:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=250743",
+			"description":"진수남 한국가스기술공사 <b>경영<\/b>전략본부장(앞줄 좌 4번째)과 발대식 참여자들이 기념촬영을 하고 있다.... 발대식에 참석한 진수남 가스기술공사 <b>경영<\/b>전략본부장은 &quot;지역사회의 어려운 이웃들에게 꼭 필요한 통합 돌봄을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"귀뚜리미그룹, 울산 인재양성 지원",
+			"originallink":"http:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=250763",
+			"link":"http:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=250763",
+			"description":"또한 교육기관 발전기금 기탁사업, 학술연구 지원사업, 문화·예술·체육분야 지원사업 등 다양한 사회공헌활동을 통해 37년에 걸쳐 480억원을 사회에 환원하며 나눔<b>경영<\/b>을 실천하는 기업이다. 김두겸 울산시장은 &quot;더욱더... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"한덕수 &quot;윤석열 대통령에 이재용·신동빈 사면 건의할 것&quot;",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016439",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016439",
+			"description":"그러나 손경식 한국<b>경영<\/b>자총협회장이 지난달 추경호 부총리 겸 기획재정부 장관과의 회동에서 경제인 사면... 이 부회장이 지난해 8월 가석방됐지만 5년간 취업이 제한돼 완전한 <b>경영<\/b>복귀는 불가능한 상황이다.한편 한... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"롯데칠성음료, '함께해요 우리 농산물 캠페인'위해 농협과 업무 협약식 진행",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98861",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98861",
+			"description":"한편, 롯데칠성음료는 생수 나눔 공동 캠페인, 착한 소비 캠페인, 탄소중립 실천과 숲 조성을 위한 업무협약, 한국백혈병 어린이 재단 기부금 전달 등 다양한 나눔 활동과 봉사활동을 진행하며 ESG <b>경영<\/b>에 힘쓰고 있다.",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"코레일유통, 소스 맛집 미쓰리 떡볶이 라이브 커머스 판매",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98859",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98859",
+			"description":"공공기관으로서 우수 중소기업 상품 발굴 노력을 통해 동반성장하는 상생<b>경영<\/b>에 앞장서 나갈 것&quot;이라고 밝혔다. 한편 이번 미쓰리 떡볶이 세트 상품은 라이브커머스 방송 이후에도 네이버쇼핑에서 30일까지 구매 가능하다.",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"“공무원 호봉제·5급 공채 폐지…정부의 과잉 규제·지원 없애야” [최광숙의...",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20220727500207&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003290510?sid=100",
+			"description":"적자가 심각한 공공기관이 많아 <b>경영<\/b> 효율화가 불가피하다. <b>경영<\/b> 효율화를 거쳐 기능조정을 해야 한다. <b>경영<\/b> 효율화의 핵심 과제는 적자 구조 해소, 인력 효율화, 임금체계 개편 등이다.” -공공기관 기능을 줄인다는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:07:00 +0900"
+		},
+		{
+			"title":"일본의 '삼성 반도체' 견제…자국 반도체 기업에 8900억원 지원",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12068136",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000307372?sid=104",
+			"description":"옛 이름이 도시바메모리였는데, 도시바 <b>경영<\/b>이 악화하면서 현재 회사로 독립했습니다. 도시바는 플래시 메모리를 최초로 상용화한 원조 격인 회사이기도 합니다. '플래시'라는 이름도 카메라 플래시처럼 데이터를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"삼성엔지니어링, 2분기 영업이익 1535억원…전년比 2.1%↑",
+			"originallink":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065602517915986",
+			"link":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065602517915986",
+			"description":"삼성엔지니어링 관계자는 “수익성 중심의 내실<b>경영<\/b>과 사업 경쟁력 강화 노력으로 안정적인 성장을 이어갈 계획이다”라며 “디지털 기술 기반의 프로젝트 수행혁신을 통해 생산성과 효율성을 제고하고, 수소... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"GH, '제1회 안전보건<b>경영<\/b>위원회' 개최...&quot;안전보건<b>경영<\/b>체계 구축 총력&quot;",
+			"originallink":"http:\/\/www.breaknews.com\/912157",
+			"link":"http:\/\/www.breaknews.com\/912157",
+			"description":"경기주택도시공사(GH)는 27일 안전보건<b>경영<\/b>의 전문성 확보를 위해 안전보건<b>경영<\/b>위원회를 신설하고, 위원회를 개최했다고 밝혔다. 위원회는 안전보건분야 내ㆍ외부... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"반기문 前 UN 사무총장, 손경식 한국<b>경영<\/b>자총협회 회장, 충북특별명예고문 위...",
+			"originallink":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=525151",
+			"link":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=525151",
+			"description":"김영환 충청북도지사는 7월 27일 반기문 前 UN 사무총장과 손경식 한국<b>경영<\/b>자총협회 회장(CJ대표이사 회장)을... 윤리<b>경영<\/b> 마인드 등을 감안해 특별명예고문으로 위촉함으로써 충북도정에 든든한 후원자가 될 것으로... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"금융지주만 호실적?‥지방 금융지주 JB금융 ‘사상 최대’ 실적 기록",
+			"originallink":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065600171052676",
+			"link":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065600171052676",
+			"description":"JB금융지주는 주요 <b>경영<\/b>지표인 지배지분 자기자본이익률(ROE)은 15.2％, 총자산수익률(ROA)은 1.14％로 집계됐다. 아울러 <b>경영<\/b> 효율성 지표인 영업이익경비율(CIR)은 역대 최저치인 38.1％를 달성했다. 계열사들의 실적... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"LG화학, 2Q 매출 12조2399억원…영업익 8785억원 전년比 59% ↓",
+			"originallink":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065600442893041",
+			"link":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065600442893041",
+			"description":"차동석 LG화학 최고재무책임자(CFO) 부사장은 “고유가 및 글로벌 인플레이션, 중국의 코로나 봉쇄 상황 등 어려운 <b>경영<\/b>환경이 지속됐지만 차별화된 제품 포트폴리오 기반의 석유화학 사업과 수익성이 개선된... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"권오수 전 회장 변호인, 도이치모터스 사외이사로 선임",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5793908",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003669155?sid=102",
+			"description":"법조계에서는 기업 <b>경영<\/b>진과 사주 일가의 위법 여부 등을 견제해야 할 사외이사 자리에 대주주의 형사 사건 변호인을 임명한 것이 적절하지 않다는 지적이 나온다. 취재진이 A씨 입장을 듣기 위해 수차례 연락했지만... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"당진 석문국가산업단지 100% 분양 속도낸다",
+			"originallink":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/57596",
+			"link":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/57596",
+			"description":"당진시와 LH, 한국산업단지공단과 석문국가산업단지 <b>경영<\/b>자협의회는 당진시청에서 협약을 맺고... 공단은 기업 사전컨설팅과 <b>경영<\/b>지원, 석문국가산업단지 <b>경영<\/b>자 협의회는 입주업체 의견 수렴 등에 나서게 됩니다",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"포스코그룹 최정우 회장 취임 4주년, 최고 성과에도 산재와 사내성폭력 오점",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=288148",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=288148",
+			"description":"반면 기업시민을 <b>경영<\/b>이념으로 내걸었음에도 최 회장은 산업재해와 사내 성폭력 문제 등 사회적 논란에... 임기 초반 최 회장의 <b>경영<\/b>성적은 신통치 않았다. 업황 악화가 주된 원인이었다. 주력계열사 포스코는 2019년... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"채용·복직 시동 건 항공업계, 코로나 재확산에 ‘노심초사’",
+			"originallink":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065599097656779",
+			"link":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065599097656779",
+			"description":"한 항공업계 관계자는 “여객 수요가 회복되면서 인력 운영과 <b>경영<\/b> 정상화를 꾀하고 있는 와중에 코로나19 재발로 여객 수요가 큰 타격을 입을지 노심초사하고 있다”면서 아직까지는 여객 수요가 견조한 상황이라... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"매각설 휩싸인 토종 OTT `왓챠` 몸집줄이기",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022072802101031029001&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002746217?sid=105",
+			"description":"글로벌 OTT공습으로 힘든데다 투자유치 난항에 긴축<b>경영<\/b> 돌입 오리지널 콘텐츠 제작도 중단 왓챠... 자본 시장 경색으로 상장 전 지분투자(프리 IPO) 유치에 난항을 겪은 끝에 긴축 <b>경영<\/b>에 돌입했고, 야심차게 추진했던... ",
+			"pubDate":"Wed, 27 Jul 2022 18:05:00 +0900"
+		},
+		{
+			"title":"삼성물산 2분기 영업이익 5559억원…전년동기 比 30.7%↑",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207270175",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207270175",
+			"description":"삼성물산 관계자는 “올해 2분기 매출과 영업이익이 증가한 것은 대외 <b>경영<\/b> 여건이 악화된 가운데서도 <b>경영<\/b> 체질 개선 및 경쟁력 강화 노력의 성과가 가시화된 것”이라고 강조했다. 사업 부문별로 살펴보면... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		}
+	]
+}

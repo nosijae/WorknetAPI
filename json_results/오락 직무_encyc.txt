@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:56 +0900",
+	"total":186,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>오락<\/b>장서비스원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026185&cid=42117&categoryId=42117",
+			"description":" 경기장, 유기장, 유원지, 도박장, 전망대 등과 운동설비를 갖춘 장소 등에서 편의와 안전유지 업무를 수행한다. [수행<b>직무<\/b>] 고객의 질서를 위하여 줄을 서도록 유도한다. 고객의 물품을 보관한다. 휴게실... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>장비대여원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026045&cid=42117&categoryId=42117",
+			"description":" 유원지, 공원, 해수욕장, 수영장, 스케이트장, 볼링장, 스키장 등에서 고객에게 놀이용 장비와 비품을 대여한다. [수행<b>직무<\/b>] 고객이 선택하거나 고객의 신장, 몸무게에 적합한 장비와 비품을 제공한다. 고객에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>용승차기구조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026184&cid=42117&categoryId=42117",
+			"description":" 유원지, <b>오락<\/b>장 또는 기타 여흥장소에 설치된 <b>오락<\/b>용 승차기구를 조작하거나 고객에게 운전방법을 알려준다. [수행<b>직무<\/b>] 벨트나 빗장 등의 안전장치에 대하여 설명·착용을 의무화한다. 각종 <b>오락<\/b>기구의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>용승차기구보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026183&cid=42117&categoryId=42117",
+			"description":" <b>오락<\/b>용승차기구조작원의 보조 업무를 수행한다. [수행<b>직무<\/b>] 놀이기구 주변을 청소한다. 손님 입장 시 검표 업무를 본다. 놀이기구 운행 전에 안전장치에 대한 착용을 안내하고 확인한다. 놀이기구가 작동을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"레크리에이션진행자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025808&cid=42117&categoryId=42117",
+			"description":" 모임 및 행사에서 <b>오락<\/b>프로그램을 계획하고 진행한다. [수행<b>직무<\/b>] 기업체, 학교, 복지기관 등 레크리에이션 진행을 의뢰하는 단체와 협의하여 진행을 위한 계획표를 작성한다. 모임의 성격, 장소, 시간, 인원수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대중가수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025654&cid=42117&categoryId=42117",
+			"description":" 대중의 즐거움을 위해 발라드, 댄스, 힙합, 록, R&#38;B, 트로트 등의 대중가요를 부른다. [수행<b>직무<\/b>] 힙합, 댄스, 발라드, 락, 트로트 등 다양한 장르의 작사·작곡된 악보를 보고 노래의 특징을 파악한다. 피아노... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유원지관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024504&cid=42117&categoryId=42117",
+			"description":" <b>오락<\/b>용 승차기구 시설을 갖춘 유원지에 대한 운영 및 관리를 총괄하고, 관련 종사원들의 활동을 조정한다. [수행<b>직무<\/b>] <b>오락<\/b>시설 이용, 동·하절기 개장시간, 행사개최 등 유원지 운영에 대한 계획을 수립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노딜러",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026224&cid=42117&categoryId=42117",
+			"description":" 카지노 영업장에서 고객을 상대로 테이블게임을 진행한다. [수행<b>직무<\/b>] 게임테이블에서 고객의 착석이나 규정된 돈을 확인한다. 카드, 주사위, 룰렛 등을 사용하여 해당 테이블의 게임을 진행한다. 게임 진행 후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청소년캠프관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025570&cid=42117&categoryId=42117",
+			"description":" <b>오락<\/b> 및 교육을 위한 청소년들의 캠프활동을 감독한다. [수행<b>직무<\/b>] <b>오락<\/b> 및 교육활동을 위한 캠프 프로그램을 계획한다. 캠프직원을 고용하고 감독한다. 캠프생활 및 훈련에 따르는 건강과 안전대책을 마련하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사파리버스운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026167&cid=42117&categoryId=42117",
+			"description":" 동물원에서 사파리버스를 운전하며 관광객에게 동물들을 소개한다. [수행<b>직무<\/b>] 안내차량을 이용하는 관광객의 탑승 및 하차를 안내한다. 버스를 운전하면서 미리 준비한 먹이를 이용하여 동물을 유인해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"뮤지컬배우",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025743&cid=42117&categoryId=42117",
+			"description":" 뮤지컬 공연을 위해 무대 위에서 노래, 춤, 연기를 한다. [수행<b>직무<\/b>] 출연할 작품의 대본을 보고 주어진 배역에 대하여 분석한다. 대본을 읽으며 대사를 외우고, 노래를 연습한다. 장면별로 여러 배우들과 함께... ",
+			"thumbnail":""
+		},
+		{
+			"title":"버블리스트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025804&cid=42117&categoryId=42117",
+			"description":" 비눗방울을 이용한 공연을 한다. [수행<b>직무<\/b>] 관객의 특성에 따라 다양한 버블쇼 프로그램을 구성한다. 사전에 공연장소의 환경을 파악하여 온도, 습도, 바람 등 비눗방울에 영향 미치는 요인을 고려한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경륜선수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026190&cid=42117&categoryId=42117",
+			"description":" 경주용 자전거를 타고 우승을 가리는 경륜에 출주한다. [수행<b>직무<\/b>] 경륜의 규정 및 기술을 습득하기 위해 개인 또는 단체로 훈련한다. 경주용 자전거의 정비기술을 습득하고, 이상이 없는지 정비한다. 출발 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프로바둑기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664789&cid=42117&categoryId=42117",
+			"description":" 직업적으로 각종 바둑대회에 참가하여 경기를 한다. [수행<b>직무<\/b>] 언론사, 기업체 등에서 주최, 후원하는 기전에서 상대 프로바둑기사와 대국을 한다. 명국이나 기타 실전 대국을 복기하며 변화를 검토하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프로게이머",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664788&cid=42117&categoryId=42117",
+			"description":" 입상과 소속회사의 홍보를 위해 컴퓨터게임 대회에 참가하여 경기를 한다. [수행<b>직무<\/b>] 게임감독, 팀원들과 함께 전략을 짜고 기술을 익히며 대회를 위해 같은 팀이나 타 소속팀의 프로게이머들과 연습한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비디오자키",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025757&cid=42117&categoryId=42117",
+			"description":" 음악방송에서 뮤직비디오를 소개하거나 방송프로그램을 진행한다. [수행<b>직무<\/b>] 소개할 뮤직비디오나 진행할 방송프로그램에 대해서 작가나 연출자(PD)와 협의한다. 뮤직비디오의 내용이나 방송프로그램의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"게임방송해설가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025749&cid=42117&categoryId=42117",
+			"description":" 방송으로 중계되는 게임의 해설을 담당한다. [수행<b>직무<\/b>] 중계할 경기에 대한 스케줄을 체크한다. 경기에 쓰일 맵과 선수들에 대한 데이터를 수집하고 정리한다. 게임캐스터와 함께 리허설을 실시한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경기장아나운서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025751&cid=42117&categoryId=42117",
+			"description":" 방송장비를 사용하여 운동경기의 상황을 관중들에게 알린다. [수행<b>직무<\/b>] 심판이나 운동경기기록원으로부터 경기상황을 접수한다. 선수명단, 교체선수, 판정내용 등을 방송장비를 이용하여 관중에게 알린다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"게임자키",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025750&cid=42117&categoryId=42117",
+			"description":" 게임프로그램을 진행하면서 게임을 소개하고 관련 소식을 전한다. [수행<b>직무<\/b>] 게임프로그램에서 다룰 게임에 대하여 직접 해보거나 전문가의 의견을 수집하는 등 방송준비를 한다. 방송에서 사용할 대본을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025803&cid=42117&categoryId=42117",
+			"description":" 관객들 앞에서 동전, 카드 등의 각종 마술도구들을 사용하여 마술공연을 한다. [수행<b>직무<\/b>] 공연 의뢰를 받으면, 마술의 종류와 도구, 공연진행순서, 음악선곡 등을 계획한다. 계획에 맞게 마술공연을 연습한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보조연기자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025796&cid=42117&categoryId=42117",
+			"description":" 영화, 드라마에 단역으로 출연하여 대사 없는 단순한 연기를 한다. [수행<b>직무<\/b>] 영화, 드라마 촬영장에서 시대, 배경에 적절한 의상을 지급받아 착용한다. 병사, 백성, 주민, 관객 등 많은 사람이 동원되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경마선수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026191&cid=42117&categoryId=42117",
+			"description":" 경주용 말을 타고 우승을 가리는 경마에 출주한다. [수행<b>직무<\/b>] 경마 규정을 습득하고, 말의 혈통 및 특성을 파악한다. 말의 경주 능력을 향상시키고 경주에 적응시키기 위해 경주마를 훈련한다. 경주에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경음악단지휘자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025645&cid=42117&categoryId=42117",
+			"description":" 청중을 대상으로 악단과 같은 기악연주단의 연주를 지도하고 지휘를 한다. [수행<b>직무<\/b>] 악기연주 심사(오디션)를 실시하여 기악연주자를 모집한다. 연주자들의 재능과 능력에 알맞은 연주곡을 선정한다. 화음이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무용가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025658&cid=42117&categoryId=42117",
+			"description":" 청중의 공연을 위해 혼자 또는 단체로 무용을 한다. [수행<b>직무<\/b>] 한국무용, 발레, 현대무용 등 안무가가 고안한 무용에 따라 무용 동작을 연습한다. 안무의 주제 및 스토리를 이해하며 안무가의 지도를 받는다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"합창단지휘자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025651&cid=42117&categoryId=42117",
+			"description":" 화음을 연출하기 위하여 합창단을 지휘하고 합창단원 및 합창단을 통솔한다. [수행<b>직무<\/b>] 단무장과 함께 협의하여 특별공연, 정기공연 등 공연을 계획한다. 평가를 통해 합창단원을 선발한다. 합창단원들의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"합창단원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025656&cid=42117&categoryId=42117",
+			"description":" 합창단의 일원으로서 청중을 대상으로 노래를 한다. [수행<b>직무<\/b>] 정기공연, 특별공연, 기획공연 등 공연을 위해 소프라노, 테너, 베이스, 알토 등의 한 부분을 담당하여 악보를 익힌다. 고대음악에서부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동화구연사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025385&cid=42117&categoryId=42117",
+			"description":" 어린이들에게 전래동화 등의 동화를 연기하듯 들려준다. [수행<b>직무<\/b>] 어린이집이나 유치원, 지역 어린이도서관, 사설 학원 등에 파견을 나가 어린이들에게 전래동화나 재미있는 이야기를 등장인물의 성격과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연예프로그램진행자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025760&cid=42117&categoryId=42117",
+			"description":" 텔레비전이나 라디오에서 방송연예프로그램을 진행한다. [수행<b>직무<\/b>] 연예프로그램 진행에 대한 전반적인 사항과 방송대본을 숙지한다. 연예프로그램이 원활히 이루어질 수 있도록 계획을 세운다. 작성된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"퍼레이드연기자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025660&cid=42117&categoryId=42117",
+			"description":" 유원지나 놀이공원 등의 각종 공연에서 관람객을 대상으로 캐릭터 공연, 퍼레이드 공연, 무대 연기 등을 한다. [수행<b>직무<\/b>] 캐릭터인형을 쓰고 인형극 등을 연기하는 캐릭터연기자, 춤을 추는 댄서, 음악공연을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"디스크자키",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025754&cid=42117&categoryId=42117",
+			"description":" 유선방송, 라디오방송 등의 음악프로그램에서 음악방송을 진행한다. [수행<b>직무<\/b>] 라디오방송작가, 라디오방송PD와 협의하여 프로그램의 특성과 청취자의 기호, 신청곡 등에 대한 정보를 기초로 방송될 음악 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인형조종사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025810&cid=42117&categoryId=42117",
+			"description":" 인형극을 공연하기 위하여 인형을 제작하고 인형을 조정하여 인형극을 공연한다. [수행<b>직무<\/b>] 대본(시나리오)을 검토하고 연출가와 협의하여 인형의 형태를 결정한다. 각종 수동공구를 사용하여 나무, 천, 종이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"응원단원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026223&cid=42117&categoryId=42117",
+			"description":" 운동경기 중 소속팀의 사기를 북돋우기 위하여 응원을 한다. [수행<b>직무<\/b>] 경기가 시작되기 전에 소속팀의 선수명단을 확인하고 명단이나 구호를 사전에 미리 암기한다. 응원복을 착용하고 확성기와 응원도구를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"레이싱모델",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026064&cid=42117&categoryId=42117",
+			"description":" 전속계약을 맺은 레이싱팀이나 후원업체의 홍보를 위해 사진촬영에 응하고, 소속팀의 선수를 응원한다. [수행<b>직무<\/b>] 레이싱경기장에서 후원업체나 소속 레이싱팀의 로고가 새겨진 레이싱복을 입고 사진촬영에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경주장아나운서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025752&cid=42117&categoryId=42117",
+			"description":" 경마, 경륜 및 경정장에서 관중에게 경주상황을 중계하고, 관련 프로그램을 진행한다. [수행<b>직무<\/b>] 경주에 참여하는 선수 및 장비, 마필 등의 정보를 수집한다. 관중에게 설명할 자료를 정리하고 방송장비... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무술연기자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025742&cid=42117&categoryId=42117",
+			"description":" 영화나 텔레비전 드라마에 출연하여 무술 연기를 한다. [수행<b>직무<\/b>] 무술감독, 무술지도원의 지시하에 액션 연기나 스턴트 연기를 연습한다. 대사가 있는 경우 대본을 연습한다. 영화나 드라마의 각 장면에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"악단지휘자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025648&cid=42117&categoryId=42117",
+			"description":" 관악기, 현악기 및 타악기를 연주하는 관현악단을 지휘한다. [수행<b>직무<\/b>] 관현악단을 구성하기 위하여 기악연주자의 연주를 심사한다. 계획된 공연에 적합하고 연주자들의 재능과 능력에 알맞은 연주곡을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"희극배우",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837787&cid=42117&categoryId=42117",
+			"description":" 관객 및 시청자의 즐거움을 위해 방송의 코미디 프로그램이나 공연장에서 익살스러운 대사나 행동으로 연기한다. [수행<b>직무<\/b>] 방송프로듀서(방송연출가) 또는 공연기획가, 작가 등과 협의를 통해 아이템을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선두유도원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026192&cid=42117&categoryId=42117",
+			"description":" 사이클 트랙경주 중 경륜경기에서 최종주회 전회의 표지선까지 심판이 미리 지시한 주행방법에 의하여 출전선수를 유도한다. [수행<b>직무<\/b>] 출발선으로부터 일정거리 전방에 위치하여 출발 신호에 의거 선수와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직업경주선수(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026195&cid=42117&categoryId=42117",
+			"description":" 경마, 경륜 및 경정 등 경주에서 마필, 경주용 자전거 및 경주용 보트를 타고 시합에 출전한다. [수행<b>직무<\/b>] 경마, 경륜 및 경정의 규정 및 기술을 습득하기 위해 개인 또는 단체로 훈련에 참가한다. 마필의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국악성악가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025644&cid=42117&categoryId=42117",
+			"description":" 청중을 대상으로 각종 국악기의 장단에 맞춰 가곡, 가사, 시조, 판소리, 민요 등을 부른다. [수행<b>직무<\/b>] 원활한 소리를 내기 위해 발성 연습을 한다. 악보를 익히거나 악곡을 연습한다. 발표회 등을 위해 리허설을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"곡예사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025801&cid=42117&categoryId=42117",
+			"description":" 관객을 대상으로 혼자 또는 단체의 일원으로 신체와 사물을 이용한 각종 묘기를 실시한다. [수행<b>직무<\/b>] 공연 전에 자신의 전문 묘기를 연습한다. 관객 앞에서 자신의 전문 분야에 따라 신체를 이용한 묘기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"웃음지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026214&cid=42117&categoryId=42117",
+			"description":" 일반인을 포함하여 환자들이 웃음을 통해 심신의 건강을 유지하고 병환에서 회복하도록 웃음 프로그램을 개발, 운영하고 교육한다. [수행<b>직무<\/b>] 취업, 회사 내 스트레스, 다양한 대인관계에서 오는 불안과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"성악가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025655&cid=42117&categoryId=42117",
+			"description":" 연주회나 독창회 등에서 피아노 반주 또는 관현악단의 연주에 맞추어 독창, 합창, 중창의 형태로 정통 고전음악 및 가곡을 노래한다. [수행<b>직무<\/b>] 원활한 소리를 내기 위해 발성연습을 한다. 악보를 익히거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"배우",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025744&cid=42117&categoryId=42117",
+			"description":" 방송드라마, 영화 및 연극의 등장인물로 출연하여 연기한다. [수행<b>직무<\/b>] 방송드라마, 영화 제작 또는 무대공연을 위해서 희곡(대본)을 읽고 극 중 인물을 분석한다. 배역을 맡기 위해 오디션을 본다. 배역의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기악연주자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025646&cid=42117&categoryId=42117",
+			"description":" 청중을 대상으로 오케스트라, 밴드 등 악단의 일원으로 관악기, 현악기, 타악기 등의 각종 악기를 연주하거나 단독으로 악기를 연주한다. [수행<b>직무<\/b>] 연주에 사용될 악기를 조율한다. 악보를 익히거나 연주할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대중악기연주자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025647&cid=42117&categoryId=42117",
+			"description":" 기타, 드럼, 베이스, 피아노, 신디사이저 등의 대중악기를 직업적으로 연주한다. [수행<b>직무<\/b>] 대중가요가수의 공연이나 밴드 공연을 위해 악보를 익혀 연주할 수 있도록 연습한다. 밴드의 일원 또는 단독으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국악기연주자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025643&cid=42117&categoryId=42117",
+			"description":" 청중을 대상으로 가야금, 거문고, 해금, 아쟁, 장구, 북, 대금, 피리 등의 국악기를 연주한다. [수행<b>직무<\/b>] 연주에 사용될 악기를 조율한다. 악보를 익히거나 연주할 수 있도록 악곡연습을 반복한다. 연주회가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수족관다이버",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025807&cid=42117&categoryId=42117",
+			"description":" 사육어류의 먹이주기, 관찰활동 및 관중을 위하여 물개, 돌고래 등의 묘기를 연출한다. [수행<b>직무<\/b>] 어류사육사의 처방에 따라 먹이를 준비한다. 잠수도구를 착용하고 수조에 잠수하여 어류에게 먹이를 준다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대중무용수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025657&cid=42117&categoryId=42117",
+			"description":" 관객을 대상으로 대중음악에 맞추어 춤을 춘다. [수행<b>직무<\/b>] 안무가에게 춤 동작을 배우고 음악에 맞추어 동작을 연습한다. 혼자 또는 단체로 관객에게 여흥을 제공하기 위하여 대중음악에 맞추어 힙합댄스... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대역배우",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025789&cid=42117&categoryId=42117",
+			"description":" 연극, 영화, 방송, 공연, 광고 등에서 배우가 하기 힘든 고난위도의 연기를 대신한다. [수행<b>직무<\/b>] 각 장면에서 연출되는 특정 상황에 맞는 복장이나 분장을 한다. PD, 영화감독, 상업용영상물제작감독, 무대감독... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025758&cid=42117&categoryId=42117",
+			"description":" 음악회, 나이트클럽, 텔레비전 및 기타 행사 및 집회장소에서 행사진행이 원활하게 이루어질 수 있도록 사회를 본다. [수행<b>직무<\/b>] 행사진행에 대한 전반적인 사항을 숙지하고 행사진행이 원활히 이루어질 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광고모델",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025741&cid=42117&categoryId=42117",
+			"description":" 영상물이나 인쇄물의 광고 촬영을 위해 자세를 취하거나 연기를 한다. [수행<b>직무<\/b>] 대본과 광고 콘셉트에 맞게 의상을 입고 화장을 한다. 광고 효과를 높이기 위하여 알맞은 자세를 취한 후 사진촬영을 하거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직업운동선수(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026196&cid=42117&categoryId=42117",
+			"description":" 대중에게 즐거움을 제공하기 위하여 축구, 야구, 골프, 수영 등 경기에 참가한다. [수행<b>직무<\/b>] 체력을 향상시키고 운동기술을 습득하기 위하여 운동선수트레이너 또는 코치의 지도에 따라 연습한다. 경기규칙을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"구성작가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025582&cid=42117&categoryId=42117",
+			"description":" 텔레비전, 라디오, 인터넷 등의 <b>오락<\/b>프로그램, 교양물 등의 비드라마용 방송프로그램의 진행 원고를 작성한다. [수행<b>직무<\/b>] 텔레비전의 <b>오락<\/b>물, 교양물 프로그램, 라디오프로그램 등의 방송내용 기획과 방향을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도시",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794588&cid=46636&categoryId=46636",
+			"description":" 사회·경제·정치 활동의 중심으로서, 수천·수만 명 이상의 인구가 집단거주하여 가옥이 밀집되어 있고 교통로가 집중되어 있는 지역. [요약문] 도시는 사회·경제·정치 활동의 중심으로, 수천·수만 명 이상의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_17\/20181221190433186_QQ0BJQYCW.jpg\/fd416ec2-9056-4f.jpg?type=m160_160"
+		},
+		{
+			"title":"유기장관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024502&cid=42117&categoryId=42117",
+			"description":" 일반 대중에게 <b>오락<\/b>서비스를 제공하기 위한 유기시설을 운영·유지·관리하는 업무를 총괄하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 당구장, 볼링장, 기원, 전자<b>오락<\/b>실, 댄스홀, 댄스교습소 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무선인터넷연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658423&cid=42117&categoryId=42117",
+			"description":"증권, <b>오락<\/b>, 게임, 멀티미디어, 전자상거래 등을 위한 무선인터넷 단말기를 연구한다. 무선인터넷 플랫폼의 트래픽을 예측하고 용량을 기획한다. 무선인터넷 인프라의 통합을 연구한다. 무선인터넷의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기숙사사감",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024654&cid=42117&categoryId=42117",
+			"description":"단체생활에 잘 적응할 수 있도록 조언하고 지도한다. 기숙사 생활과 관련된 사회활동이나 <b>오락<\/b>활동을 계획하고 실시한다. 기숙사의 보안을 점검하고 시설을 관리한다. 보안 및 안전을 위해 야간에 순회를 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"산림관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024466&cid=42117&categoryId=42117",
+			"description":"산림 내의 캠프장, <b>오락<\/b>시설을 계획하고 전화선 또는 도로부설에 대한 관리를 한다. 산림에 관한 토양침식, 산림병해충 통제에 대한 대책을 세우는 등 산림보호에 관한 계획을 수립한다. 산림에 대한 각종... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소년원교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025426&cid=42117&categoryId=42117",
+			"description":"수용자의 사회복귀를 위해교육을 실시하고 사회정착을 지원한다. 주간 교육 후 야간에 감호 및 생활지도를 위해 근무한다. 지역사회와 연계하여 <b>오락<\/b> 및 교육활동을 진행하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"공중보건전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024532&cid=42117&categoryId=42117",
+			"description":"<b>오락<\/b>장소, 병원, 기타시설의 소음, 환기, 공기 및 방사선오염 등에 관한 규정을 수립·집행한다. 정부, 지역사회, 산업체, 기타 시설 및 단체 등과 협의하여 환경정화를 위한 계획을 수립·발전시킨다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산불감시원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029729&cid=42117&categoryId=42117",
+			"description":"산불이 많이 발생하는 건조기에는 산림지대 내 사람들의 접근과 <b>오락<\/b> 및 나무채취 등을 제한한다. 산불이 발생하면 관련 기관에 무전기를 통하여 알리고 진화작업을 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"유람선관광가이드",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664979&cid=42117&categoryId=42117",
+			"description":"관광, 역사, 안전에 대한 우리말 및 외국어 방송서비스를 한다. 승객의 요구에 응대하고 각종 선내 서비스를 제공한다. 승객이 유람선 하선 시에 하선인사를 한다. 간단한 선내 <b>오락<\/b>시간을 주최하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"맹인적응교육교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025344&cid=42117&categoryId=42117",
+			"description":"등 읽는 기계의 사용을 교육하고 효과적인 청취방법 등의 의사전달기술을 교육한다. 자존감을 통한 환경인지훈련, 수지훈련, 체육 또는 <b>오락<\/b>활동 등을 실시하여 감각기관의 협응 동작을 숙달시킨다.",
+			"thumbnail":""
+		},
+		{
+			"title":"텔레시네마기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025775&cid=42117&categoryId=42117",
+			"description":"광고, 드라마, <b>오락<\/b>물, 기업홍보물, 뮤직비디오, 각종 영상교재 등의 영상물이 비디오카메라(가정용 홈비디오, ENG카메라 등)로 제작된 경우 필름의 형태로 전환하는 작업(디지털을 아날로그로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선박전기의장반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028277&cid=42117&categoryId=42117",
+			"description":"선박 내 조명, 항해통신장비, 전기선로, 선원<b>오락<\/b>장치, 각종 전기설비, 전기계기의 설치에 필요한 케이블포설 자재, 배선공구, 결선공구 및 장비의 수급을 관리하고 작업원에게 작업방법을 설명한다. 작업공정을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"피씨(PC)방관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658488&cid=42117&categoryId=42117",
+			"description":" PC방에서 고객을 응대하고 매장을 관리한다. [수행<b>직무<\/b>] PC방 계산대에서 고객을 맞이하고 회원 및 비회원을 구분하여 사용요금 정산카드를 발급한다. 고객의 흡연 여부에 따라 흡연 및 비흡연 좌석으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자막디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953491&cid=42117&categoryId=42117",
+			"description":"프로그램의 종류에 따라, 뉴스 해설자막, 자막뉴스(뉴스속보), 방송안내, 광고, 예능·<b>오락<\/b>프로그램 자막, 드라마, 영화자막 등을 만든다. 청각장애인용 폐쇄자막방송(Closed Captioning, 음성이나 오디오",
+			"thumbnail":""
+		},
+		{
+			"title":"스케이트얼음판관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026182&cid=42117&categoryId=42117",
+			"description":" 스케이트를 탈 수 있도록 얼음판을 만들고 관리하는 업무를 수행한다. [수행<b>직무<\/b>] 순도가 높은 물을 데워 안개 상태로 냉각코일이 깔린 링크에 뿌려 일정 두께의 얼음을 만든다. 얼음판의 표면을 다듬기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블카안내원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026186&cid=42117&categoryId=42117",
+			"description":" 케이블카를 이용하는 승객의 탑승을 유도하고 안내한다. [수행<b>직무<\/b>] 케이블카를 이용하는 승객의 탑승을 확인한다. 케이블카에 함께 탑승하여 안쪽의 이중문을 개폐한다. 승객 안전에 관한 유의사항 및 비상시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"환전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025110&cid=42117&categoryId=42117",
+			"description":" 경륜장, 경마장, 카지노 등의 <b>오락<\/b>시설에서 고액권, 수표, 외화를 소액권, 현금, 원화로 교환해 준다. [수행<b>직무<\/b>] 당일 환전액을 예상하여 관련부서에서 현금을 수령한다. 고객이 제시한 외화 또는 수표의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"환전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025105&cid=42117&categoryId=42117",
+			"description":" 경륜장, 경마장, 카지노 등의 <b>오락<\/b>시설에서 고액권, 수표, 외화를 소액권, 현금, 원화로 교환해 준다. [수행<b>직무<\/b>] 당일 환전액을 예상하여 관련 부서에서 현금을 수령한다. 고객이 제시한 외화 또는 수표의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"회원관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664848&cid=42117&categoryId=42117",
+			"description":" <b>오락<\/b>시설이나 특정 강습에 참가하려는 참가자를 모집하고 각종 회원관리업무를 수행한다. [수행<b>직무<\/b>] 각종 강습회의 기간, 장소, 회비에 관한 내용을 계획하고 회원에게 통보한다. 회원을 모집하기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"볼링설비조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026181&cid=42117&categoryId=42117",
+			"description":" 볼링핀을 자동으로 레인에 세우는 설비인 핀셋터(Pin Setters) 및 레인시스템 등을 조작·관리한다. [수행<b>직무<\/b>] 프레임(Frame)이 끝난 레인을 확인하고 볼링핀을 다시 세우기 위하여 핀셋터(Pin Setters) 장비를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자전거판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026016&cid=42117&categoryId=42117",
+			"description":" 일반 소비자에게 자전거를 추천하고 판매한다. [수행<b>직무<\/b>] 제조사나 유통업체로부터 특수용, 여성용, 아동용, 일반 자전거의 납품을 요청한다. 납품되는 물품에 대하여 검수·검사를 실시한다. 납품된 물품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음반판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025992&cid=42117&categoryId=42117",
+			"description":" 음반 및 영상물을 소비자에게 판매한다. [수행<b>직무<\/b>] 가요, 팝, 클래식 등이 저장된 CD나 테이프 형태의 음향매체나 뮤직비디오, 영화, 다큐멘터리 등이 저장된 DVD, 블루레이 등과 같은 영상매체를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024505&cid=42117&categoryId=42117",
+			"description":" 카지노의 운영 및 관리 업무를 총괄하고 종사원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 카지노의 영업준칙를 준수하기 위하여 카지노종사원을 지도하고 업무를 감독·조정한다. 카지노 내 칩의 유통상태를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장난감제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027758&cid=42117&categoryId=42117",
+			"description":" 각종 장난감을 제조하는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 제조하고자 하는 장난감의 생산계획을 세운다. 원료와 생산설비를 점검한다. 작업계획에 따라 세부실행항목을 수립하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제설기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026821&cid=42117&categoryId=42117",
+			"description":" 스키장의 슬로프(Slope)에 제설기를 작동하여 눈을 만들어 뿌린다. [수행<b>직무<\/b>] 기온을 측정하여 제설이 가능한 온도인가를 확인한다. 기계실에 무전기로 연락하여 컴프레서와 펌프를 가동한다. 제설기에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"검표원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026121&cid=42117&categoryId=42117",
+			"description":" 극장, 유원지, 경기장 등에서 입장객의 표를 검사하고 출입객을 관리한다. [수행<b>직무<\/b>] 출입문에서 고객의 입장권을 검사·확인하거나 표를 받는다. 출입객, 외래자를 관리하며, 부정으로 출입하려는 자를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"피트보스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832672&cid=42117&categoryId=42117",
+			"description":" 카지노 영업장의 한 구역(피트)을 총괄하고 게임진행을 관장한다. [수행<b>직무<\/b>] 담당 피트(14개 이하의 게임테이블로 구성된 2~3개의 플로어) 내에서 이루어지는 모든 행위를 감독·지휘한다. 영업장 상황을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노출납원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024868&cid=42117&categoryId=42117",
+			"description":" 카지노의 게임운영을 위해 칩을 공급하고 회수하며 회계업무를 수행한다. [수행<b>직무<\/b>] 카운트 룸을 운영하며 카지노에서 사용되는 칩을 공급하고 회수한다. 게임테이블에 장착되어 있는 드롭박스의 드롭(현금... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노출납원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025111&cid=42117&categoryId=42117",
+			"description":" 카지노의 게임 운영을 위해 칩을 공급하고 회수하며 회계업무를 수행한다. [수행<b>직무<\/b>] 카운트룸을 운영하며 카지노에서 사용되는 칩을 공급하고 회수한다. 게임테이블에 장착되어 있는 드롭박스의 드롭(현금... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경마중계소관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024497&cid=42117&categoryId=42117",
+			"description":" 비디오장치를 이용하여 경마경주를 중계하는 경마중계소를 관리한다. [수행<b>직무<\/b>] 경마 시행정보에 따라 경마중계소의 업무계획을 수립한다. 마권의 구입, 승식, 환급과 기타 경마시행과정에 대하여 고객에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"봉제완구재봉사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028019&cid=42117&categoryId=42117",
+			"description":" 봉제완구를 제조하고자 재봉틀을 사용해 완구의 각종 부품을 재봉한다. [수행<b>직무<\/b>] 실패걸이에 실패를 끼운다. 안내대, 신장장치, 바늘귀 사이로 실을 잡아당긴다. 북 속에 실패를 넣고 북구멍 사이로 실을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장난감마무리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027757&cid=42117&categoryId=42117",
+			"description":" 장난감이나 봉제인형에 각종 장식품을 부착해 마무리를 하고 포장을 한다. [수행<b>직무<\/b>] 각종 장식품을 작업대에 준비한다. 반제품에 접착제를 칠하여 각종 장식품을 붙인다. 먼지와 군더더기 섬유를 송풍기나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"승용완구조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658607&cid=42117&categoryId=42117",
+			"description":" 페달형, 전동형, 수동형 승용완구를 제조하기 위하여 각 부품을 조립한다. [수행<b>직무<\/b>] 승용완구에 사용되는 각 부품을 작업대에 준비한다. 전동형 승용완구는 전동장치를 내부에 조립한다. 용접기로 각 부품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장난감모형제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029473&cid=42117&categoryId=42117",
+			"description":" 각종 기계와 수동공구를 사용하여 제조하고자 하는 장난감의 모형을 제작한다. [수행<b>직무<\/b>] 설계도면의 명세서에 따라 알루미늄, 나무, 섬유유리 등의 재료를 선택한다. 측정 및 제도기구를 사용하여 재료 위에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"레이저공연기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025784&cid=42117&categoryId=42117",
+			"description":" 유원지 내에서 레이저 장비를 이용하여 쇼를 구성하고 고객들에게 볼거리를 제공한다. [수행<b>직무<\/b>] 레이저 공연 전에 공연 계획을 구상한다. 레이저 빔 프로젝트의 동작 여부를 수시로 검사하고 이상 발견 시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"봉제완구제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028020&cid=42117&categoryId=42117",
+			"description":" 봉제완구를 재봉·충전·조형하고 몸체에 눈, 코, 입 등의 부착물을 결합한다. [수행<b>직무<\/b>] 봉제완구 속에 넣은 스펀지, 솜, 털실 등의 내용물이 튀어나오지 않도록 송곳을 사용하여 골라주고 바늘을 꿰맨다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블카운영관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024506&cid=42117&categoryId=42117",
+			"description":" 고객 및 화물을 이동시키는 케이블카의 운행 및 안전을 총괄 관리하고 관련 종사자들의 활동을 관리한다. [수행<b>직무<\/b>] 케이블카의 운영 현황을 파악한다. 고객의 안전 및 서비스를 위해 종사원에 대한 업무조정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"완구모조장식품판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025989&cid=42117&categoryId=42117",
+			"description":" 인형, 장난감 등의 완구류와 반지, 핀, 빗, 브로치, 팔찌, 목걸이 등과 같은 모조장식품(귀금속제품 제외)을 도매 또는 소매로 판매한다. [수행<b>직무<\/b>] 고객이 완구점이나 모조장식품 상점을 방문하면 고객에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마리나운영원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026220&cid=42117&categoryId=42117",
+			"description":" 마리나 시설을 유지·관리하고 이용 선박에 접안, 계류 등 관련 서비스를 제공한다. [수행<b>직무<\/b>] 마리나 시설(스포츠 또는 레크리에이션용 요트, 모터보트 등의 선박을 위한 항구)의 선석 배정 현황을 관리한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"골프장코스관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024498&cid=42117&categoryId=42117",
+			"description":" 골프장 코스의 잔디를 관리하며 코스관리원의 활동을 조정 및 감독한다. [수행<b>직무<\/b>] 잔디의 종류에 따른 토양 및 기후에 맞추어 잔디 관리계획을 세운다. 코스를 순찰하며 병충해 및 문제가 있는 코스에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노감시운영원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026084&cid=42117&categoryId=42117",
+			"description":" 카지노 보안실(모니터룸)에서 감시카메라를 통해 영업장을 감시한다. [수행<b>직무<\/b>] 게임테이블, 케이지, 카운터룸 등 카지노 영업장 내에 설치되어 있는 감시카메라(CCTV:폐쇄 회로 텔레비전)로 각 영업장을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유람선운영관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024503&cid=42117&categoryId=42117",
+			"description":" 유람선 운항과 관련 시설 운영을 총괄 관리하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 유람선의 운행일정, 승객 수 및 특성 등을 확인하여 필요 승선인원을 계획한다. 기상 환경, 승객 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"봉제완구충전기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029578&cid=42117&categoryId=42117",
+			"description":" 인형 등 봉제완구의 부속품에 충전물(아크릴 솜)을 투입하는 송풍기를 조작·관리한다. [수행<b>직무<\/b>] 재봉이 끝난 완구의 트인 부분에 충전플러그를 삽입한다. 송풍기의 페달을 눌러 아크릴 솜을 불어 넣는다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"식물원관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029643&cid=42117&categoryId=42117",
+			"description":" 전시용 열대, 아열대식물 및 희귀품종을 보존·배양하고 전시용 식물을 관리한다. [수행<b>직무<\/b>] 선인장 및 다엽식물, 난 및 양치류, 열대 및 아열대 수생식물별로 온실의 습도와 온도를 조절한다. 희귀 종자를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도시민박운영자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024499&cid=42117&categoryId=42117",
+			"description":" 관광객 대상의 민박사업을 기획하거나 직접 민박을 운영한다. [수행<b>직무<\/b>] 도시지역에 거주하고 있는 주택을 이용하여 외국인 관광객에게 한국의 가정문화를 체험할 수 있도록 숙식 등을 제공한다. 한국문화와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노안전관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026085&cid=42117&categoryId=42117",
+			"description":" 카지노 영업장의 원활한 운영을 위해 고객의 출입을 통제하며, 고객 및 카지노종사자의 안전을 보호한다. [수행<b>직무<\/b>] 카지노에 입장하는 고객들을 통제하고 물품을 점검하여 금지목록을 접수·보관한다.... ",
+			"thumbnail":""
+		}
+	]
+}

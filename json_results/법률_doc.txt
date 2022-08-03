@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:12 +0900",
+	"total":227668,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"경영<b>법률<\/b>학회 경영<b>법률<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=367",
+			"description":""
+		},
+		{
+			"title":"<b>법률<\/b>행정논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1556077",
+			"description":""
+		},
+		{
+			"title":"북한<b>법률<\/b>행정논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1556074",
+			"description":""
+		},
+		{
+			"title":"영산<b>법률<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3783",
+			"description":""
+		},
+		{
+			"title":"서강<b>법률<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2611242",
+			"description":""
+		},
+		{
+			"title":"서울시립대학교 <b>법률<\/b>행정논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1046677",
+			"description":""
+		},
+		{
+			"title":"2018년도 개정 「주식회사등의 외부감사에 관한 <b>법률<\/b>」에 대한 고찰 -현",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651443829",
+			"description":"Review on the 「Act on External Audit of Stock Companies etc.」 Revised in 2018 - Proposing Legislation of Introducing So-Called “P"
+		},
+		{
+			"title":"<b>법률<\/b>시보 (法律時報)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3150624",
+			"description":""
+		},
+		{
+			"title":"소위 전자장치부착법(특정 성범죄자에 대한 위치추적 전자장치 부착에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18657270",
+			"description":"A Critical Study on ‘the Act on attachment of electronic device for position tracking on specific sexual crime offenders’ There is "
+		},
+		{
+			"title":"<b>법률<\/b>정보회답 &amp; 최신외국입법정보",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891217270",
+			"description":"  목차\n<b>법률<\/b>정보회답 &amp; 최신외국입법정보 \/ 박진애 1\n [Title] 1\n 1. <b>법률<\/b>정보회답 2\n 2. 최신외국입법정보 3"
+		},
+		{
+			"title":"『공공기록물 관리에 관한 <b>법률<\/b>』 개선 방향에 관한 연구: KS X ISO 15489 표",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17502492",
+			"description":"A Study of Improvement for Public Records Management Act: Based on KS X ISO 15489 우리나라는 1999년 ꡔ공공기관의 기록물"
+		},
+		{
+			"title":"조세<b>법률<\/b>주의와 위임입법의 적정성 유지를 위한 국회의 역할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897126317",
+			"description":"  목차\n조세<b>법률<\/b>주의와 위임입법의 적정성 유지를 위한 국회의 역할 \/ 윤동준 1\n 조세<b>법률<\/b>주의의 구체"
+		},
+		{
+			"title":"초고령사회와 조세<b>법률<\/b>주의의 역할 : 일본의 건강보험에 대한 조세<b>법률<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889811196",
+			"description":"  목차\n초고령사회와 조세<b>법률<\/b>주의의 역할 : 일본의 건강보험에 대한 조세<b>법률<\/b>주의 적용 논의를 중심"
+		},
+		{
+			"title":"집회 및 시위에 관한 <b>법률<\/b>의 헌법적 문제점과 개선방안 : 집회의 자유에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16465625",
+			"description":"The constitutional problems of the law on assembly and demonstration and the plan of their improvement : Focused on the restriction of "
+		},
+		{
+			"title":"“거중심화”수자지부시대경제형법적선역——기우비특폐적<b>법률<\/b>여경제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=726247359",
+			"description":""
+		},
+		{
+			"title":"미국의 학교폭력 및 집단따돌림 실태 및 <b>법률<\/b> 현황",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56563948",
+			"description":"Current State and Laws of School Violence and Bullying in the U.S.A 본 고에서는 최근 미국의 학교폭력 및 집단따돌림 "
+		},
+		{
+			"title":"‘지방교육자치에 관한 <b>법률<\/b>’ 관련 헌법소원 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13620939",
+			"description":"A Study on the cases of the Constitutional Court about ‘Act on local educational autonomy' 이 논문은 지방교육자치에 관한"
+		},
+		{
+			"title":"독일의 &quot;이사 보수 적정화에 관한 <b>법률<\/b>&quot; 제정 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41676590",
+			"description":"  목차\n독일의 &quot;이사 보수 적정화에 관한 <b>법률<\/b>&quot; 제정 동향 \/ 성승제 1\n I. 서론 1\n II. 연방의회 및 연방상"
+		},
+		{
+			"title":"중국（상해）자무구부면청단적<b>법률<\/b>성질급기제도완선 (中国（上海）自",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=700165720",
+			"description":""
+		},
+		{
+			"title":"중국환경법치사십년：법율문본、<b>법률<\/b>실시여미래주향 (中国环境法治四",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=676709558",
+			"description":""
+		},
+		{
+			"title":"외국법위하나이사명——기우《섭외민사관계<b>법률<\/b>괄용법》제10조적실증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=717053930",
+			"description":""
+		},
+		{
+			"title":"<b>법률<\/b>응당여하응대이창규안：종이창규안간“인리교분”여“수단잔인”",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=753103440",
+			"description":""
+		},
+		{
+			"title":"독일에 있어서 집회 및 시위현장에서의 채증활동 관련 <b>법률<\/b> 및 판례",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39160612",
+			"description":"  목차\n독일에 있어서 집회 및 시위현장에서의 채증활동 관련 <b>법률<\/b> 및 판례 \/ 박희영 1\n I. 머리말 1\n II. "
+		},
+		{
+			"title":"전자감시제도(Electronic Monitoring)의 도입에 관한 연구― ‘특정 성폭력범",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18644616",
+			"description":"A Critical Review of the New Electronic Monitoring System for Some Sexual Criminals   전자감시, 성범죄, 이중처벌금지, 사"
+		},
+		{
+			"title":"전자상거래무역 확산을 위한 <b>법률<\/b>개정방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594847299",
+			"description":" 최근 급속히 확산되고 있는 '전자상거래무역' 혹은 '국경을 넘는 전자상거래(CBEC)'에 대하여 우리정부"
+		},
+		{
+			"title":"계약 및 <b>법률<\/b>행위법의 개정방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41637537",
+			"description":"Civil law amendment 2009.2.4., Ministry of Justice organized Civil Law Amendment Commission (hereafter “Commission&quot;) and delegated au"
+		},
+		{
+			"title":"아국《민법총칙》<b>법률<\/b>행위효력규칙통일논 (我国《民法总则》法律行为",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=700354996",
+			"description":""
+		},
+		{
+			"title":"유전자정보수집의 입법목적의 정당성 : 디엔에이신원확인정보의 이용 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41447250",
+			"description":"  목차\n유전자정보수집의 입법목적의 정당성 : 디엔에이신원확인정보의 이용 및 보호에 관한 <b>법률<\/b>을 "
+		},
+		{
+			"title":"<b>법률<\/b> 언어의 가독성 향상을 위한 어휘론적인 기초연구 - <b>법률<\/b>코퍼스에서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=292217794",
+			"description":"Zur Verständlichkeitsverbesserung der Rechtssprache auf lexikologischer Ebene – mithilfe von Korpora-Analyse der Kollokationen der R"
+		},
+		{
+			"title":"작위종뇌물지화폐“점유즉소유”무예외마——겸논신탁여연증재산적법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=697324733",
+			"description":""
+		},
+		{
+			"title":"위치정보의 보호 및 이용 등에 관한 <b>법률<\/b> 해설서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891402547",
+			"description":"  Ⅰ. 위치정보의 보호 및 이용 등에 관한 <b>법률<\/b>\n\nⅡ. <b>법률<\/b>의 적용대상 등\n\nⅢ. 개인위치정보사업의 등록"
+		},
+		{
+			"title":"<b>법률<\/b>석사（법학）연구생적배양목표여정위 (法律硕士（法学）研究生的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=745409993",
+			"description":""
+		},
+		{
+			"title":"딥러닝을 이용한 <b>법률<\/b> 분야 한국어 의미 유사판단에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887491170",
+			"description":"Deep Learning Based Semantic Similarity for Korean Legal Field 기존의 데이터 검색 방법으로는 키워드 중심의 검색 "
+		},
+		{
+			"title":"성폭력범죄대책과 전자감시: 특정 범죄자에 대한 위치추적전자장치부착",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41630817",
+			"description":"Sexual Crime Prevention and Electronic Monitoring: A Study on the act of electronic device attachment for tracking location of specific"
+		},
+		{
+			"title":"임대주택 관계 <b>법률<\/b>이 임대주택법제의 불완전성에 미치는 영향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=498346022",
+			"description":"An Analysis on the Influence of Rental Housing-Related Acts on the Incompleteness of the Rental Housing Act System  국문초록\nAbstra"
+		},
+		{
+			"title":"혼인가정입법적동일성원리-이혼인가정이념、형태여재산<b>법률<\/b>결구위중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=700587730",
+			"description":""
+		},
+		{
+			"title":"민주적 법치국가에서 <b>법률<\/b>수정적 법형성의 현상형식, 조건, 한계에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896637868",
+			"description":"Eine Studie über richterliche Gesetzeskorrektur im demokratischen Rechtsstaat — ihre Erscheinungsformen, Voraussetzungen und Grenzen"
+		},
+		{
+			"title":"<b>법률<\/b> 텍스트 문장의 문법성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41612911",
+			"description":"The Grammaticality of Legal Texts The present paper takes as its object of study the sentences from Korea's representative legal texts,"
+		},
+		{
+			"title":"한국 <b>법률<\/b>비서의 역량 중요도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290344156",
+			"description":"A Study on Identifying and Ranking of the Competencies for Legal Secretaries With the opening and diversification of the legal service "
+		},
+		{
+			"title":"식품표시관련 <b>법률<\/b>의 문제점과 개선방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12448995",
+			"description":"A Study on the Acts Associated with Korean Food Labelling  목차\n식품표시관련 <b>법률<\/b>의 문제점과 개선방향 \/ 이계임 ; "
+		},
+		{
+			"title":"국제<b>법률<\/b>경영",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2513829",
+			"description":""
+		},
+		{
+			"title":"예산<b>법률<\/b>주의 도입을 통한 재정민주주의 확립에 관한 연구: 민주화 이후",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78357682",
+			"description":"The Study on Establishment of Financial Democracy by Introducing Legislation-Based Budget: Based on the Analysis of Deliberation on the"
+		},
+		{
+			"title":"유전자정보은행제도와 인권 : 「디엔에이신원확인정보의 이용 및 보호",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41447248",
+			"description":"  목차\n유전자정보은행제도와 인권 : 「디엔에이신원확인정보의 이용 및 보호에 관한 <b>법률<\/b>」을 중심"
+		},
+		{
+			"title":"환경문제 예방 및 해결을 위한 학교교육 강화 : 환경교육의 활성화 및 지",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898565431",
+			"description":"  목차\n환경문제 예방 및 해결을 위한 학교교육 강화 : 환경교육의 활성화 및 지원에 관한 <b>법률<\/b> \/ 김민"
+		},
+		{
+			"title":"성폭력범죄대책과 전자감시 : &quot;특정 범죄자에 대한 위치추적 전자장치 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41630817",
+			"description":"Sexual Crime Prevention and Electronic Monitoring: A Study on the act of electronic device attachment for tracking Location of specific"
+		},
+		{
+			"title":"“일대일로”적합작궤제：<b>법률<\/b>결함、복타도전여응대책략 (“一带一路",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722354532",
+			"description":""
+		},
+		{
+			"title":"학교폭력 예방 및 대책에 관한 <b>법률<\/b>의 개선방안 － 시론적 고찰 －",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78373604",
+			"description":"A Proposal for the Reformation of &quot;School Violence Prevention and Countermeasure Act&quot; in Korea 학교폭력 예방 및 대책에 관한"
+		},
+		{
+			"title":"교권의 범위와 한계에 관한 연구- <b>법률<\/b>유보원칙을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=50899759",
+			"description":"A Study on The Scope and Limitation of Teachers‘ Authority-Focused on the Reservation of Laws- 최근 사회적으로 문제가 되"
+		},
+		{
+			"title":"프랑스 사전적 위헌<b>법률<\/b>심판제도의 도입방안 - 대상<b>법률<\/b>과 청구권자를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865511096",
+			"description":"Projet d'introduction du système français du contrôle à priori - sur la façon de la loi déférée et les saissants - 우리나라"
+		},
+		{
+			"title":"프랑스의 국민투표<b>법률<\/b>을 통한 헌법개정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16498250",
+			"description":"La r?vision de la Constitution par la loi r?f?rendaire en France 프랑스 헌법 제11조는 대통령의 국민투표 회부권에 "
+		},
+		{
+			"title":"도덕、<b>법률<\/b>、수법의모지간적계통성리논——자연법학설여<b>법률<\/b>실증주의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=694398078",
+			"description":""
+		},
+		{
+			"title":"진ㆍ한초의 <b>법률<\/b> 계승과 관형화 - 유가적 성격을 중심으로 - (秦ㆍ漢初의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420263809",
+			"description":"秦漢初期的法律繼承和寬刑化 -以儒家的性格為中心-   Law of Qin-Han China, Succession to the Law, Mitigation, Confuc"
+		},
+		{
+			"title":"아국야생동물외래물충입침적<b>법률<\/b>응대——겸담대환경법“조정논”반사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=711463046",
+			"description":""
+		},
+		{
+			"title":"부산법조논집 : <b>법률<\/b>학습지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=66614",
+			"description":""
+		},
+		{
+			"title":"아국기본양로금“입시”적풍험급<b>법률<\/b>응대 (我国基本养老金“入市”的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=670155470",
+			"description":""
+		},
+		{
+			"title":"건전한 금융회사 지배구조의 원칙과 운용방안 - 금융회사의 지배구조에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=175283818",
+			"description":"A Study for Enhancing Financial Companies Governance in Korea - in relation to Governance Act for the Financial Companies 회사지배"
+		},
+		{
+			"title":"체육시설의 설치·이용에 관한 <b>법률<\/b> 일부 개정안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889988003",
+			"description":"  체육시설의 설치ㆍ이용에 관한 <b>법률<\/b>\n제2의 골프 대중화 선언\n골프장 분류 체계 개편\n대중형 골프장 "
+		},
+		{
+			"title":"중화법계중“예”“율”관계지변정--질의중국<b>법률<\/b>사연구중적모사“정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=696585809",
+			"description":""
+		},
+		{
+			"title":"<b>법률<\/b>의 부지 및 착오 이론에 대한 재검토 (法律의 不知 및 錯誤 理論에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11004654",
+			"description":"  I. 머리말=95,98,2\nII. '<b>법률<\/b>의 부지'와 '<b>법률<\/b>의 착오'의 관계에 대한 재해석=96,99,1\n 1. 판례의 입장과 그 "
+		},
+		{
+			"title":"사전학습 기반의 <b>법률<\/b>문서 요약방법 비교연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887858422",
+			"description":"Comparative study of legal document summary method based on pre-trained model <b>법률<\/b> 문서는 일반 사용자에게 이해하기 어"
+		},
+		{
+			"title":"딥러닝을 이용한 <b>법률<\/b> 분야 한국어 의미 유사판단에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890093725",
+			"description":"Deep Learning Based Semantic Similarity for Korean Legal Field 기존의 데이터 검색 방법으로는 키워드 중심의 검색 "
+		},
+		{
+			"title":"공공부문 자체감사의 역량수준 변화 분석 : <b>법률<\/b> 시행 전후 비교를 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=62709162",
+			"description":"A study on the Capability of Internal Audit in Government and Public entities : Focusing on the Comparison before and after Act on Publ"
+		},
+		{
+			"title":"국제결혼중개계약 관련 <b>법률<\/b>의 문제점과 해결방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290238337",
+			"description":"The Problems and Policy Recommendations on the Related Law of the International Matrimonial Mediation Contract 다문화 시대가 도"
+		},
+		{
+			"title":"관우“절용”지부보장호행위성질적<b>법률<\/b>문제탐토 (关于“窃用”支付宝",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=699644478",
+			"description":""
+		},
+		{
+			"title":"민법상 취소의 대상은 의사표시인가 <b>법률<\/b>행위인가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888234943",
+			"description":"Is the subject of cancellation under the Civil Act an expression of intent or a legal act? 민법 제109조 제1항은 “착오로 인"
+		},
+		{
+			"title":"<b>법률<\/b>행정논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3293266",
+			"description":""
+		},
+		{
+			"title":"<b>법률<\/b>비서의 경력개발에 대한 요구분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889100877",
+			"description":"A Study on the Needs Assessment for Career Development of Legal Secretaries 본 연구는 변호사 수 200명 이상의 국내 대형 "
+		},
+		{
+			"title":"건강 증진하고 삶의 질 높이는 '치유농업' : '치유농업 연구개발 및 육성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896682614",
+			"description":"  목차\n건강 증진하고 삶의 질 높이는 '치유농업' : '치유농업 연구개발 및 육성에 관한 <b>법률<\/b>'(시행 2021."
+		},
+		{
+			"title":"일본 제5차 지방소멸 위기지역 대응<b>법률<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843928089",
+			"description":"  목차\n일본 제5차 지방소멸 위기지역 대응<b>법률<\/b> \/ 조경희 1\n [요약] 1\n 주요내용 2\n 지원 조치 5\n 「과소지"
+		},
+		{
+			"title":"보건생명의료분야에서 개인정보 관련 <b>법률<\/b> 간의 대립과 모순",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177920345",
+			"description":"Contradictions in the Application of Biomedical and Health Law in South Korea 보건생명의료분야의 연구는 주로 개인의 "
+		},
+		{
+			"title":"민법전총칙편“<b>법률<\/b>행위”일장학자건의고적편사설명 (民法典总则编“",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=698393558",
+			"description":""
+		},
+		{
+			"title":"부권여설화：당대중국<b>법률<\/b>대개체—가정관계변천적회응 (赋权与说和：",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=683682125",
+			"description":""
+		},
+		{
+			"title":"미지의 세계를 오늘도 탐험합니다 : 인공지능 <b>법률<\/b>연구소 인텔리콘 임영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842699654",
+			"description":"  목차\n미지의 세계를 오늘도 탐험합니다 : 인공지능 <b>법률<\/b>연구소 인텔리콘 임영익 대표 [인터뷰] \/ 임"
+		},
+		{
+			"title":"<b>법률<\/b> 특화 번역엔진 성능 평가 - 한영 계약서 번역을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896637559",
+			"description":"Junho Lee (2021), A Study on Performance Evaluation of an Specialized Machine Translation Engine in the Legal Domain: Focusing on the K"
+		},
+		{
+			"title":"방역보단상관<b>법률<\/b>쟁의 (防疫保單相關法律爭議)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897450828",
+			"description":""
+		},
+		{
+			"title":"<b>법률<\/b>문헌 인용(Citation) 방법의 통일화 - 통일화를 위한 시도와 앞으로의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874079106",
+			"description":"Research on Uniform System of Legal Citation <b>법률<\/b>문헌의 작성에 정확한 인용은 매우 중요하다. 정확한 인용을 위"
+		},
+		{
+			"title":"도구적 관점, 규범적 관점, 집합적 유효성 관점이 시민의 <b>법률<\/b>준수행위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881525485",
+			"description":"The Effect of Instrumental, Normative, and Collective Efficacy Perspective on Public Compliance with Law 시민의 <b>법률<\/b>준수는 시"
+		},
+		{
+			"title":"리걸클리닉 교육 현황과 개선안으로서 공익<b>법률<\/b>사무소 운영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891365565",
+			"description":"Clinical Legal Education Improvement Measures and Public Interest Law Center Operation All law schools nationwide have legal clinic cen"
+		},
+		{
+			"title":"영국의 의회 해산 및 조기 총선 실시에 관한 <b>법률<\/b> 개정 사례",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890342553",
+			"description":"  목차\n영국의 의회 해산 및 조기 총선 실시에 관한 <b>법률<\/b> 개정 사례 \/ 임종수 1\n [머리글] 1\n 의회고정임"
+		},
+		{
+			"title":"「부정청탁 및 금품등 수수의 금지에 관한 <b>법률<\/b>」에 대한 문제점과 활성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=876978855",
+			"description":"A Study on the Problems and the activation plans of the Improper Solicitation and Graft Act in Perspective 공직사회뿐만 아니라"
+		},
+		{
+			"title":"소위 수익적 <b>법률<\/b>에서 위임입법의 헌법적 한계- 특수임무수행자보상에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61701714",
+			"description":"Alleged Constitutional Limits of Legislative Delegation in Social Welfare Measures- by discussing Act on Compensation of Members of Spe"
+		},
+		{
+			"title":"국내 유전자은행 관련 <b>법률<\/b> 및 운영의 문제점과 개선 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=46989701",
+			"description":"  목차\n국내 유전자은행 관련 <b>법률<\/b> 및 운영의 문제점과 개선 방안 \/ 이정념 ; 최경석 1\n I. 머리말 1\n II. "
+		},
+		{
+			"title":"<b>법률<\/b>행정논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2141665",
+			"description":""
+		},
+		{
+			"title":"리걸테크와 변호사법 - <b>법률<\/b>서비스 플랫폼에 관한 독일의 논의를 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887980580",
+			"description":"Legal Tech and The Attorneys-at-Law Act - Focusing on Germany’s discussion on legal service platforms - 리걸테크는 4차 혁명 "
+		},
+		{
+			"title":"대학생법제교육실효성탐구——이고교“사상도덕수양여법율기초”과법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=704312475",
+			"description":""
+		},
+		{
+			"title":"<b>법률<\/b> 언어의 가독성 향상을 위한 어휘론적인 기초연구 - <b>법률<\/b>코퍼스에서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561546590",
+			"description":"Zur Verständlichkeitsverbesserung der Rechtssprache auf lexikologischer Ebene – mithilfe von Korpora-Analyse der Kollokationen der R"
+		},
+		{
+			"title":"「통상<b>법률<\/b>」 연구윤리규정 외",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880736410",
+			"description":""
+		},
+		{
+			"title":"<b>법률<\/b>위반과 부정경쟁행위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58329421",
+			"description":"Breach of Law and Unfair Competition 영업주체가 경제활동을 하면서 <b>법률<\/b>을 위반하는 행위는 충분히 발생할 가"
+		},
+		{
+			"title":"조례와 <b>법률<\/b>우위원칙에 대한 소고",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41617435",
+			"description":"The Ordinance of Local Government and the Rule of First-application of the Law 지방자치에 대한 관심이 증가하고, 자치입"
+		},
+		{
+			"title":"디지털 헬스케어 보험 관련 최근 <b>법률<\/b> 개정과 쟁점 : 유전자 차별의 관점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656536",
+			"description":"The expansion of the digital healthcare platform market of insurance companies and the possibility of genetic discrimination 2021년 "
+		},
+		{
+			"title":"프랑스 사전적 위헌<b>법률<\/b>심판제도의 도입방안 - 대상<b>법률<\/b>과 청구권자를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878921641",
+			"description":" 우리나라는 위헌<b>법률<\/b>심판제도로서 구체적 규범통제를 도입하고 있으며 헌법개정을 논의할 때 추상"
+		},
+		{
+			"title":"실험성검측방법위반의사법안：후암견사검지<b>법률<\/b>문제 (實驗性檢測方法",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897184602",
+			"description":""
+		},
+		{
+			"title":"성년후견<b>법률<\/b>에 나타난 의사결정능력의 개념에 관한 연구 - 영국 정신능",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41447320",
+			"description":"A Study on the Concepts of Legal Competence Concerning Adults Guardianship Acts 본 연구는 그동안의 국내의 성년후견제도"
+		},
+		{
+			"title":"뇌사자 장기이식과 장기 등 이식에 관한 <b>법률<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16475862",
+			"description":"  목차\n뇌사자 장기이식과 장기 등 이식에 관한 <b>법률<\/b> \/ 곽진영 1\n [요약] 1\n 서론 1\n 주요경위 1\n 뇌사에 "
+		},
+		{
+			"title":"상담사 등의 처우 및 지위 향상을 위한 <b>법률<\/b>(안) 제안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288765637",
+			"description":"Act on Treatment and Status Enhancement of Counselors  목차\n상담사 등의 처우 및 지위 향상을 위한 <b>법률<\/b>(안) 제안 "
+		},
+		{
+			"title":"「공공기관의 운영에 관한 <b>법률<\/b>」 시행령 개정안 입법예고",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817869",
+			"description":""
+		},
+		{
+			"title":"각국의 스포츠산업 진흥관계 <b>법률<\/b>에 대한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77884976",
+			"description":"Legal Aspects and considerations related to the Law of Sports Industry in Asia and the U.S. 이 연구의 목적은 첫째 스포츠산"
+		},
+		{
+			"title":"<b>법률<\/b>비용보험의 활성화에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843050538",
+			"description":"A Study on Revitalization of Legal Expenses Insurance 본 연구는 <b>법률<\/b>비용보험에 관한 것이다. 일반적으로 <b>법률<\/b>비"
+		},
+		{
+			"title":"장애인체육 지원을 위한 <b>법률<\/b> 제정의 필요와 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881529281",
+			"description":"The Necessity of Legislating and Its Direction for the Supports of the Adapted Physical Activities 이 연구는 이 연구는 장애"
+		},
+		{
+			"title":"<b>법률<\/b>과 관련된 지질유산: 그 가치와 의미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74826112",
+			"description":"Legal geoheritages: their values and meanings 암석, 광물, 지질구조, 화석, 동굴, 지형, 토양 등등의 지질학적 대"
+		}
+	]
+}

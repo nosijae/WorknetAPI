@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:10 +0900",
+	"total":23091,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>바이오<\/b>의약품 공정개발 <b>직무<\/b>에서 종사하기 위해서?!",
+			"link":"http:\/\/cafe.naver.com\/gsk\/220647",
+			"description":"공고를 찾아보니 <b>바이오<\/b>의약품에서 공정개발 <b>직무<\/b>가 많이 보이더라구요! <b>바이오<\/b>의약품의 정제과정을 조금 공부해보았는데 천연물의약품의 정제와는 조금 차이가 있는 것 같아요..!ㅠㅠ 제가 이쪽에서 근무하기 위해서... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"삼성<b>바이오<\/b>로직스 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/specup\/6902648",
+			"description":"얼마 전까지 대학원과 취업을 고민하던 와중에 취업을 하기로 결정했는데요 그 중에서 일단 가장 높은 목표는 삼성<b>바이오<\/b>로직스를 목표로 하고 있습니다 학부생 기준으로 삼성<b>바이오<\/b>로직스에 들어갈 수 있는 <b>직무<\/b>는... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>바이오<\/b> 정제 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/gsk\/215038",
+			"description":"이번에 처음 취업준비를 하며 <b>바이오<\/b>의약품 정제 <b>직무<\/b>에 관심갖게 되었습니다! <b>직무<\/b> 지원에 앞서 어느정도의 <b>직무<\/b>이해도가 필요할지 가늠이 되지않아 도움 요청드립니다!! 제가 알고있는 정제 프로세스로는 분리된... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"산업은행 <b>바이오<\/b> 기술<b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1941252",
+			"description":"혹시 산업은행 <b>바이오 직무<\/b> 관련해서 알고 계시는 분 있을까요 ㅠㅠ 기술직은 정보가 없는데, 더군다나 바이오쪽은 정보가 더없네요 ㅠㅠ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"삼성<b>바이오<\/b>로직스 CDO <b>직무<\/b> 관련 질문 있습니다!",
+			"link":"http:\/\/cafe.naver.com\/gsk\/219615",
+			"description":"삼성<b>바이오<\/b>로직스 CDO <b>직무<\/b>의 경우 Cell line development, 배양, 정제, 분석 등으로 나눠지는 것으로 알고 있는데, 각각 부서에 따라 구체적으로 하는 일이 무엇인지 궁금합니다. 특히 현재 석사 연구의 내용이 ELISA, PCR... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"종근당 <b>바이오 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10117104",
+			"description":"특별히 실험을 하고 하는게 아니라 생산 관리인데,,, 석사학위생이 <b>바이오<\/b> 생산팀에 지원한다면 <b>직무<\/b> 수행하는데 큰 도움이 될까요? 상반기 GSAT &quot;온라인 진행 검토&quot; 면접은 결국 자신감입니다. 취준때 걸러야 하는것 5가지... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"CJ 제일제당 <b>바이오 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/specup\/6908218",
+			"description":"<b>바이오<\/b> 엔지니어 기계 어떤 <b>직무<\/b> 하시는지 아시나요? <b>직무<\/b> 소개 pdf 이런게 없어서 어렵네요 취준생 베스트 인기글 취준생은 용돈받으면 불효야..? https:\/\/vo.la\/7sPlNZ 자소서 하나 쓰는데 일주일...... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"2022 삼성<b>바이오<\/b>로직스 채용 설명회 내용 총정리 ☞",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11594097",
+			"description":"삼성 취업준비생분들에게 가장 사랑받는 취업강의 1위 해커스잡의 삼성합격 0원패스는 자소서+삼성 인적성(GSAT)+면접+<b>바이오 직무<\/b> 인강까지 모두 체계적으로 학습할 수 있도록 합격 커리큘럼이 짜여져... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"하반기 삼성 공채 채용일정 미리 확인하기 ☞",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11809167",
+			"description":"오픽+자소서+기초인적성+GSAT+면접+반도체&amp;<b>바이오 직무<\/b>까지! 삼성 채용 커리큘럼을 0원으로 대비 가능한 삼성 수강료 0원 합격패스를 소개합니다. [0원] 제세공과금 제외, 미션달성시 삼성 채용 합격 커리큘럼... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"취투더UP_제약<b>바이오 직무<\/b> 알아보기 ① &lt;ETC 영업&gt;",
+			"link":"http:\/\/cafe.naver.com\/gsk\/153940",
+			"description":"제약<b>바이오<\/b>에는 다양한 <b>직무<\/b>들이 있습니다. 이제는 보편적인 인재보다는 특성화된 인재를 선호하기에 제약<b>바이오<\/b>회사에 입사하기 위해서는 <b>직무<\/b>이해도는 필수이죠. 여러분들의 <b>직무<\/b>이해를 한층 높여드리기... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"제약\/<b>바이오 직무<\/b>부트캠프 참여 중인 고1 학생 입니다!",
+			"link":"http:\/\/cafe.naver.com\/tnsuhak\/71068",
+			"description":"저는 현재 제약\/<b>바이오<\/b> 품질 관리 <b>직무<\/b> 완벽 이해라는 제목의 캠프에 참여 중이고 방금 1주차 과제를 끝냈습니다 처음에는 대학생 분들과 함께 하는 거라고 하길래 부담이 컸지만 그래도 좋은 경험이 될 것 같아서 신청을... ",
+			"cafename":"☆해외 대학 쉽게 가기☆ 유학│장학금...",
+			"cafeurl":"https:\/\/cafe.naver.com\/tnsuhak"
+		},
+		{
+			"title":"삼성 GSAT 합격 전략 확인하기 ☞",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11800016",
+			"description":"오픽+자소서+기초인적성+GSAT+면접+반도체&amp;<b>바이오 직무<\/b>까지! 삼성 채용 커리큘럼을 0원으로 대비 가능한 삼성 수강료 0원 합격패스를 소개합니다. [0원] 제세공과금 제외, 미션달성시 삼성 채용 합격 커리큘럼... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[사당 월,금] 제약·<b>바이오 직무<\/b> 취업스터디원 모집합니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10097429",
+			"description":"제약·<b>바이오 직무<\/b> 관련 취업 스터디원 2명을 추가모집하고 있습니다.현재 3명으로 구성되어 있으며, 3명 모두 임상시험관련 직무(CRA)로의 진로를 희망하고 있습니다.따라서 임상시험과 관련한 직무를 희망하시는... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"화공과 학생이 갈 <b>바이오 직무<\/b> 알려주실 수 있을까요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9352313",
+			"description":"괜찮은 <b>바이오<\/b> 관련 회사 아시는 선배님들 계실까요? [필독] 나에게 꼭 맞는 <b>직무<\/b>성향 찾는 꿀팁★ [필독] 당황하지 말고 답변하자! 압박면접 예상질문 &amp; 모범답변★ [필독] 현직선배들이 알려주는 <b>직무<\/b>별 취업전략 꿀팁... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"이도<b>바이오 직무<\/b>인터뷰 (마케팅)",
+			"link":"http:\/\/cafe.naver.com\/actor0\/19095",
+			"description":"당뇨전문기업인 이도<b>바이오<\/b>의 현직자 <b>직무<\/b>인터뷰입니다 단축근무와 육아휴직이 자유로운 회사라고 하네요 한번 읽어보세요!",
+			"cafename":"한국사달인-한능검,공무원,한국사능력...",
+			"cafeurl":"https:\/\/cafe.naver.com\/actor0"
+		},
+		{
+			"title":"이번 하반기 삼성 채용을 꼭 대비해야 하는이유 (필독) ☞",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11760592",
+			"description":"오픽+자소서+기초인적성+ GSAT+면접+반도체&amp;<b>바이오 직무<\/b>까지! 삼성 채용 커리큘럼을 0원으로 대비 가능한 삼성 수강료 0원 합격패스를 소개합니다. [0원] 제세공과금 제외, 미션달성시 삼성 채용 합격 커리큘럼... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"셀트리온\/삼성<b>바이오<\/b>로직스 <b>직무<\/b>선택",
+			"link":"http:\/\/cafe.naver.com\/gsk\/170691",
+			"description":"마케팅에 지원하고 싶은데삼성 <b>바이오<\/b>로직스나 <b>바이오<\/b>에피스 <b>직무<\/b>에 다른 계열사와는 달리 해외영업마케팅은 없고 경영지원만 있는데 가능할까요??삼성<b>바이오<\/b>로직스가 중국어 능통자를 우대하나요?ㅜㅜ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"[지속가능경영재단] 모의기업 <b>직무<\/b>체험을 통한 <b>바이오<\/b>헬스케어 비즈니스 인재양성 프로그램(~8\/12)",
+			"link":"http:\/\/cafe.naver.com\/specup\/7043411",
+			"description":"모의기업 <b>직무<\/b>체험을 통한 <b>바이오<\/b>헬스케어 인재양성 프로그램 모집 ✅모집 대상 <b>바이오<\/b>헬스케어 분야에 관심 있는 청년 누구나(만18세~34세이하) - 군필자 경우 복무기간만큼 청년 연령 연장 - 타 훈련 지원... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"석사 전공 정하기 및 연구 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/gsk\/220638",
+			"description":"안녕하세요 저는 생물학 전공으로 대학졸업하고 <b>바이오<\/b>의약품 연구개발 <b>직무<\/b>를 하고싶어 석사진학을 하려고 합니다. 그런데 <b>바이오<\/b>의약품 연구개발이라는게 사실 좀 막막한 부분이 있어서 질문드립니다. 저는 실험을 하는... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"[사당 월,금] 제약·<b>바이오 직무<\/b> 취업스터디원 모집합니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10095260",
+			"description":"제약·<b>바이오 직무<\/b> 관련 취업 스터디원 2명을 추가모집하고 있습니다.현재 3명으로 구성되어 있으며, 3명 모두 임상시험관련 직무(CRA)로의 진로를 희망하고 있습니다.따라서 임상시험과 관련한 직무를 희망하시는... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"고연봉 반도체 채용 대비 취업 전략 확인하기 ☞",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11780393",
+			"description":"오픽+자소서+기초인적성+GSAT+면접+반도체&amp;<b>바이오 직무<\/b>까지! 삼성 채용 커리큘럼을 0원으로 대비 가능한 삼성 수강료 0원 합격패스를 소개합니다. [0원] 제세공과금 제외, 미션달성시 삼성 채용 합격 커리큘럼... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"취투더UP_제약<b>바이오 직무<\/b> 알아보기 ④ &lt;생산QC(품질관리)&gt;",
+			"link":"http:\/\/cafe.naver.com\/gsk\/154127",
+			"description":"오늘은 의약품이 시장에 나가기 위해 마지막으로 검사하는 절차를 담당하는 &lt;생산관리(QC)&gt; <b>직무<\/b>에 대해... 시장에서 품절이 발생하지 않도록 정확한 검사를 하는 <b>직무<\/b>입니다. ※ 다음 <b>직무<\/b>는 개발부문 임상<b>직무<\/b> 입니다.",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"sd<b>바이오<\/b>센서(에스디<b>바이오<\/b>센서) 영업<b>직무<\/b> 궁금합니다..",
+			"link":"http:\/\/cafe.naver.com\/gsk\/211189",
+			"description":"국내 제약회사 영업<b>직무<\/b>로 3년차 근무하고 있습니다. sd<b>바이오<\/b> 다니시는 현직자나 재직하셨던 분들 있으시면 질문 드리고 싶습니다. 체외진단쪽 영업<b>직무<\/b>로 이직이나, 연봉.복지 등 여쭙고 싶습니다. 감사합니다.",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"<b>바이오<\/b>제약회사에서 PT면접, <b>직무<\/b>면접은 무엇을 보는지 알려주실분 계신가요??",
+			"link":"http:\/\/cafe.naver.com\/gsk\/218867",
+			"description":"<b>직무<\/b>면접이라함은 CMO의 정의를 말해라 이런 산업적인 걸 물어보는건가요 혹은 학교 전공 지식을 물어보는 건가요??ㅠ PT면접은 <b>바이오<\/b>기업기준 뭘 준비해야할지 모르겠습니다.. 지금 전공서적 둘러보는데 이렇게... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"<b>바이오<\/b>의약품 연구개발 실제로 어떤 일들을 하고 어떤 실험들을 하는지 궁금합니다.",
+			"link":"http:\/\/cafe.naver.com\/gsk\/220678",
+			"description":"랩실을 정하기 전에 실제로 <b>바이오<\/b>의약품 연구 <b>직무<\/b>에서 필요한 실험이나 자주 사용하는 장비가 있으면 그걸 사용하는 랩실로 정하는게 좋을 것 같은데 실제로 어떤 실험들을 하는지 자세히 알기가 쉽지 않네요ㅠ 랩실에서... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"종근당<b>바이오<\/b> 전기<b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11272193",
+			"description":"이번에 안산공장 전기<b>직무<\/b> 면접 붙었습니다.. 거의 최합이라서 여기 재직자 찾아요 ㅠ 꼭 봐야할 이번주 독취사 인기글 대기업 취업 확실하게 준비하는 방법 ▶ https:\/\/bit.ly\/2VOXvrb * 취준생이... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"제약\/ <b>바이오<\/b> 품질<b>직무<\/b>(QC,QA)관련 궁금증!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11192124",
+			"description":"인턴이나 유사<b>직무<\/b> 경험은 없고, 품질관리 <b>직무<\/b>캠프 수료하고 취준하고 있습니다. 캠프에서 코멘토분이 자격증보다는 품질관련 <b>직무<\/b>지식을 공부하는게 더 좋다고 말씀하시는데, 어떤 지식을 공부해야... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"전자과인데 삼성 <b>바이오<\/b> 어떤 <b>직무<\/b>로 지원하는게 나을까요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11372393",
+			"description":"<b>직무<\/b>가 꽤 많네요 꼭 봐야할 이번주 독취사 인기글 대기업 취업 확실하게 준비하는 방법 ▶ https:\/\/bit.ly\/2VOXvrb * 백신 때문에 해고당한 썰(분노주의) ▶ https:\/\/bit.ly\/3C0tJz0 * 2021 하반기 대기업... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"20명 선정 커피쿠폰 증정 - 제약<b>바이오<\/b> 영업<b>직무<\/b> 인식도 설문조사 진행 (12월30일까지)",
+			"link":"http:\/\/cafe.naver.com\/gsk\/159344",
+			"description":"제약<b>바이오<\/b> 컨설팅 기업인 파사(PASA)에서는 제약<b>바이오<\/b> 영업<b>직무<\/b>에 대한 인식 정도를 알아보기 위해 2018년 12월 30일까지 설문조사를 진행합니다. 다음 설문에 참여하신 분들 중 20명을 선정해 추운 겨울을 녹여낼... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"<b>바이오<\/b>의약품 RnD<b>직무<\/b>에서 미생물학과만의 장점에 대해",
+			"link":"http:\/\/cafe.naver.com\/gsk\/214446",
+			"description":"안녕하세요 제대모 선배님 회원님들 제대모를 통해 지금까지 많은 정보를 익히고 배웠지만 제가 가지는 특별한 조건을 가지고 &quot;<b>바이오<\/b>의약품 신약개발(약리 효능같은)&quot;이라는 <b>직무<\/b>면접때 이것을 어필할 수 있는... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"<b>직무<\/b>에 대해 고민입니다....",
+			"link":"http:\/\/cafe.naver.com\/gsk\/218206",
+			"description":"요즘 여러 정보를 찾고 들으면서 <b>직무<\/b>를 qc,qa(건기식, <b>바이오<\/b>의약품 분야) 두 <b>직무<\/b> 중에 정확하게 정하질 못하겠네요ㅠㅠㅠ qa는 쌩신입은 채용을 잘 안한다고 해서 더 고민이네요... 1. qa에서 경력을 쌓고 qa가... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"2022년 상반기 삼성<b>바이오<\/b>로직스 합격후기입니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11770366",
+			"description":"(여러 군데 합격하셨다면 모두 작성도OK) - 합격시기 : 2022.06.29 - 합격기업 : 삼성<b>바이오<\/b>로직스 - <b>직무<\/b>\/부서 : 공정개발 - 응시 지원 자격(신입\/경력) : 중고신입 ✍미래의 후배님들을 위해 간단한 합격스펙을... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>바이오<\/b>로직스 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10901344",
+			"description":"삼바 공무<b>직무<\/b>에 대해서 궁금한데 재직자분이나 정보아시는분 계실까요? 꼭 봐야할 이번주 독취사 인기글 * 대기업 취업 확실하게 준비하는 방법 ▶ https:\/\/bit.ly\/2XrufUy * 2번의 퇴사, 그리고... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[경북<b>바이오<\/b>산업연구원 채용] 정규직\/계약직 신입\/경력 (백신연구개발\/행정보조) (~4.23)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1935647",
+			"description":"경북바이오산업연구원 전형절차는 서류전형-면접전형으로 이루어진다고 합니다. 첨부파일 경북<b>바이오<\/b>_<b>직무<\/b>수행요건 명세서.hwp 파일 다운로드 첨부파일 경북바이오_응시원서 및 자기소개서 양식.hwp 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"취투더UP_제약<b>바이오 직무<\/b> 알아보기 ③ &lt;생산QA(품질보증)&gt;",
+			"link":"http:\/\/cafe.naver.com\/gsk\/154038",
+			"description":"오늘은 의약품의 생산공정 퀄리티를 유지하고 개선시키기 위한 &lt;생산보증(QA)&gt; <b>직무<\/b>에 대해 살펴보겠습니다.... 적격성 평가를 통해 의약품 생상공정과정을 보증하는 <b>직무<\/b>입니다. 여러분들께 작은 도움이 되시길 바랍니다.",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"취투더UP_제약<b>바이오 직무<\/b> 알아보기 ② &lt;OTC 영업&gt;",
+			"link":"http:\/\/cafe.naver.com\/gsk\/153996",
+			"description":"그동안 제약<b>바이오<\/b> 산업에 종사하는 사람들이라고 하면은 'OTC 영업보다는 ETC 영업이라는 알아준다.' 라는목소리가 높습니다. 저는 이 부분은 잘못된 목소리라고 자신있게 말하고 싶습니다. 왜 그런지 지금부터... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"제약<b>바이오<\/b> SFE <b>직무<\/b> 이해와 비젼",
+			"link":"http:\/\/cafe.naver.com\/gsk\/207281",
+			"description":"Q : SFE <b>직무<\/b>에 대해서 구글링해도 잘 안나오더라구요 혹시 커리어적으로 어떤가요? <b>직무<\/b>가 너무... 제약<b>바이오<\/b> 산업은 어느 한 부서 소중하지 않는곳이 없고, 지속적으로 세분화, 디테일화 되는 창의적... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"취투더UP_제약<b>바이오 직무<\/b> 알아보기 ⑤ &lt;개발(임상)&gt;",
+			"link":"http:\/\/cafe.naver.com\/gsk\/154201",
+			"description":"오늘은 의약품이 식약청으로부터 허가를 받기 위한 임상시험부터 시판 후 연구관리 업무를 담당하고 있는 &lt;개발(임상)&gt; <b>직무<\/b>에 대해 살펴보겠습니다. 좀 더 쉽게 써드려야 하는데, 워낙 전문분야라서 쉽게 쓰는 것이 더... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"<b>바이오<\/b>생산 <b>직무<\/b> 중 완제생산 <b>직무<\/b>가 하는 업무가 무엇인지 알고 싶습니다.",
+			"link":"http:\/\/cafe.naver.com\/gsk\/153935",
+			"description":"이번에 제가 <b>바이오<\/b>시밀러 회사 생산 <b>직무<\/b>에 지원하여 서류 합격을 하게 되었습니다.이와 관련해서 제가 궁금한 부분이 몇가지 있어 글을 쓰게 되었습니다. 다름이 아니라 제가 화학공학을 전공하고 학사졸업을 한... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"Sk<b>바이오<\/b>사이언스 QC<b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/specup\/6758173",
+			"description":"Sk<b>바이오<\/b>사이언스 완제품 포장 인턴에 지원하고 싶은데 어떻게 하는 게 더 좋을까요?? <b>직무<\/b>가 비슷한 게 더 좋을까요 회사가 똑같는 게 더 좋을까요.. 취준생 베스트 인기글 A회사 입사했는데, 일은 B회사... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성<b>바이오<\/b>로직스도 PT면접이라는게 있나요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11762803",
+			"description":"삼성<b>바이오<\/b>로직스 면접이 <b>직무<\/b>면접\/임원면접이 있다는 것을 알게 되었습니다. 이후에 세부적으로 <b>직무<\/b>면접에 전공,자소서관련 면접,PT면접 3가지를 본다고 들었는데 맞나요? 임원면접은 간간히... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>바이오<\/b> 및 제약회사 관련<b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/gsk\/217533",
+			"description":"취업<b>직무<\/b>에 대해 찾아보고 있는데 학사가 할 수 있는 취업도 은근히 여러 종류가 있더라구요 생산부서는 배양, 정제, 공정, 지원, 기회 품질부서는 QC, QA 등이 있던데 각 부서마다 하는 일에 대해서 자세히 알려주실 수... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"<b>바이오<\/b> QC <b>직무<\/b>에 필요한 역량에 대해 궁금합니다!",
+			"link":"http:\/\/cafe.naver.com\/gsk\/106182",
+			"description":"QC (<b>바이오<\/b>QC) 는 구체적으로 어떤일들을 하나요?2. QC<b>직무<\/b>에 필요한 역량은 뭔가요 ? (자기소개서에 어떤 점을 어필하면 좋은지도 조언해주시면 감사하겠습니다) 답변 부탁드려요ㅜㅜ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"제약회사 <b>바이오<\/b>qc <b>직무<\/b> 알려주세요!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/5439028",
+			"description":"<b>바이오<\/b> qc <b>직무<\/b>중에서 동물세포를 이용한 <b>바이오<\/b>어세이, hcd, hcp는 주로 어떤 실험인가요? 공부할 수 있는 교재까지 추천해주시면 감사하겠습니다.",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"이번 보령<b>바이오<\/b>파마 MR<b>직무<\/b> 1차면접을 앞두고 있습니다. 선배님들께 조언을 구하고자 합니다.",
+			"link":"http:\/\/cafe.naver.com\/gsk\/214917",
+			"description":"제약영업 취준중인데 운좋게 보령<b>바이오<\/b>파마 1차면접을 보게 됐습니다. 비단 보령<b>바이오<\/b>파마 뿐만 아니라 제약회사 영업직 면접에 나올만한 단골질문이나 면접시 분위기가 궁금합니다. 어떻게 준비해야할지 감이 잡히지... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"삼성 <b>바이오<\/b>로직스 <b>직무<\/b> 관련 궁금한게 있어서 여쭤봅니다!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/5617741",
+			"description":"제가 신청한 <b>직무<\/b>분야가 연구개발인데 그러면 이 연구개발이 <b>바이오<\/b>쪽 연구개발을 하는건지, 아니면 <b>바이오<\/b> 제품 생산하는 라인 기계 관련 연구개발인지 굉장히 헷갈립니다. 지원서 작성 할 때 어떻게 되있었는지 갑자기... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"종근당 <b>바이오<\/b> 원료생산<b>직무<\/b> 현직자분 계실까요 ?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10295919",
+			"description":"종근당 <b>바이오<\/b> 원료생산<b>직무<\/b> 현직자분 계실까요 ? 도움이 필요합니다 ㅠㅅㅠ ★ 1~2회 기사시험 난이도 &amp; 후기 모음 ★ 47회 한국사능력검정시험 합격 후기 이번 인국공 사태는 참담하네요 기업별 인적성교재 총정리... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"2022 한국 제약<b>바이오<\/b>산업 채용박람회 10월 11일 개최",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1890485",
+			"description":"2022 한국 제약<b>바이오<\/b>산업 채용박람회 10월 11일 개최 - 한국제약<b>바이오<\/b>협회 주관, 3년만에 산업계 단독 개최 - - 기업 부스운영·채용설명회·<b>직무<\/b> 멘토링 등 다양한 프로그램 마련 - 안녕하세요.... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"[삼성<b>바이오<\/b>로직스 채용] <b>직무<\/b>적성검사 및 면접 합격비밀 다량보유중!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6410445",
+			"description":"남은 2주간 삼성<b>바이오<\/b>로직스 <b>직무<\/b>적성검사 뿐 아니라 삼성<b>바이오<\/b>로직스 면접 준비도 함께 하셔야겠죠^^?삼성<b>바이오<\/b>로직스 면접 후기 확인하시고 미리 대비해보자구요^^~삼성<b>바이오<\/b>로직스 면접 탄탄하게 준비해봅시다... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"한스<b>바이오<\/b>메드 <b>직무<\/b>인터뷰 (마케팅)",
+			"link":"http:\/\/cafe.naver.com\/actor0\/18792",
+			"description":"인체이식용 피부와 뼈 이식재 및 실리콘제품 등의 사업등을 진행하고 있는 한스<b>바이오<\/b>메드의 마케팅팀 <b>직무<\/b>인터뷰입니다 관심있으신분들 한번 읽어보세요!",
+			"cafename":"한국사달인-한능검,공무원,한국사능력...",
+			"cafeurl":"https:\/\/cafe.naver.com\/actor0"
+		},
+		{
+			"title":"종근당<b>바이오<\/b> 전기공무<b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11246372",
+			"description":"이번에 종근당<b>바이오<\/b> 전기공무 서합했습니다.. 혹시 이쪽 재직자분 계신가요?? 물어보고 싶은 게 많아서 ㅠㅠ 한국사능력검정시험 55회 정답 최초공개 ▶ https:\/\/bit.ly\/3mh9GId 꼭 봐야할 이번주... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[사당 월,목] 제약<b>바이오<\/b> 스터디원 모집합니다:)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10312976",
+			"description":"제약·<b>바이오 직무<\/b> 관련 취업 스터디원 1명을 추가모집 하고 있습니다.현재 5명으로 구성되어 있으며, 5명 모두 각기 다른분야(연구개발[PK\/PD, 단백질합성], CRA, QC\/QA)로 진로를 희망하고 있습니다. 따라서 제약바이오... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[사당 월,목] 제약<b>바이오<\/b> 취업스터디원 모집합니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10256053",
+			"description":"제약·<b>바이오 직무<\/b> 관련 취업 스터디원 1명을 추가모집 하고 있습니다.현재 5명으로 구성되어 있으며, 5명 모두 각기 다른분야(연구개발[PK\/PD, 단백질합성], CRA, QC\/QA)로 진로를 희망하고 있습니다. 따라서 제약바이오... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[사당 월,목] 제약<b>바이오<\/b> 취업스터디원 모집합니다!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10254220",
+			"description":"제약·<b>바이오 직무<\/b> 관련 취업 스터디원 1명을 추가모집 하고 있습니다.현재 5명으로 구성되어 있으며, 5명 모두 각기 다른분야(연구개발[PK\/PD, 단백질합성], CRA, QC\/QA)로 진로를 희망하고 있습니다. 따라서 제약바이오... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>바이오<\/b>로직스 <b>직무<\/b>경험",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10476906",
+			"description":"3급공채 지원인데 자소서에 <b>직무<\/b>와 다른 경력도 도움이 될까요? 걱정이 많네요ㅠㅠ 꼭 봐야할 이번주 독취사 인기글 * 면접 최악의 답변, 꼭 기억하세요! ▶ https:\/\/bit.ly\/2FbI18t * 하반기 삼성... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>바이오<\/b> VS 제약기업 마케팅 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10720320",
+			"description":"- 제약 : 마케팅\/영업부서 채용 O 인 반면, - <b>바이오<\/b> : BD, 원료 허가 <b>직무<\/b>는 있으나 마케팅\/영업부서 채용은 X 이게 아직 <b>바이오<\/b>의약품 파이프라인이 덜 확보되어서 그런걸까요??? 그럼 신입으로서... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"제약회사, <b>바이오<\/b> QC<b>직무<\/b>로 선택하려고 하는데 대학고민돼요ㅠㅠ",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/8537067",
+			"description":"대학을 다시 가는 거고 나이도 있기에 매우 신중한 결정을 해야하는데 나중에 <b>바이오<\/b> 약품, 제약회사에... 식품제약 <b>직무<\/b>탐색실무 크로마토그래피실습 품질보증실무 둘 중 어디가 나을지 조언... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>직무<\/b>소개 자료",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1870497",
+			"description":"<b>바이오<\/b>·제약, 식음료·외식, 영업 <b>직무<\/b>소개 자료입니다. 첨부파일 잡코리아 <b>바이오<\/b>&amp;제약.pdf 파일 다운로드 첨부파일 잡코리아 식음료,외식.pdf 파일 다운로드 첨부파일 잡코리아 영업.pdf 파일... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"SK<b>바이오<\/b>사이언스 채용 <b>직무<\/b>별 업무 사항 \/ 채용일정, 근무지",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1820080",
+			"description":"생산설비 <b>직무<\/b>는 <b>바이오<\/b> 생산 장비 유지보수 관리, GMP 업무입니다. 유틸리티 설비 <b>직무<\/b>는 공조 시스템, 수처리 시스템, 압축공기 시스템, 보일러, 냉동기 펌프, 열교환기류 등 설비관리입니다.... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"[채용] 제약\/<b>바이오<\/b>산업 취준생분들에게 여쭤봅니다!",
+			"link":"http:\/\/cafe.naver.com\/gsk\/216761",
+			"description":"자소설닷컴, 잡코리아, 사람인 플랫폼을 기본으로 이외에 중견기업 박람회, 제약<b>바이오<\/b> 박람회, <b>직무<\/b>정보카페 등의 활용하시는 경로가 있으신 경우 말씀주시면 감사하겠습니다. 저희 회사 채용<b>직무<\/b>는 주로 해외사업, 품질... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"BGF에코<b>바이오<\/b> 채용 떴네요! 연봉은 얼마일까?",
+			"link":"http:\/\/cafe.naver.com\/specup\/6578774",
+			"description":"BGF에코<b>바이오<\/b> 채용 <b>직무<\/b>는 알앤디, 회계, 사업기획 <b>직무<\/b>입니다! 모두 선릉역 근방에서 근무하게 됩니다! 알앤디 부문은 박사 출신 우대한다고 합니다~! BGF에코<b>바이오<\/b> 채용 마감은 12월 28일 오후 6시입니다!... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"31\/남\/RA 업무변경 이직 희망합니다.",
+			"link":"http:\/\/cafe.naver.com\/gsk\/217850",
+			"description":"RA(해외, 국내, <b>바이오<\/b>, 케미컬 상관 없음) 현재 <b>직무<\/b> : <b>바이오<\/b> 제약사 제조관리자(제조\/3년 3개월째 재직중) 이번 셀트리온 2차 수시모집 신입으로 지원 한번 해보려하는데 허가 국내쪽이 나을까요? 일본쪽이 나을까요?",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"18년 하반기 제일제당 <b>바이오<\/b> 공무 <b>직무<\/b> 자소서 항목이 궁금합니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/8701833",
+			"description":"18년 하반기 제일제당 <b>바이오<\/b> 공무 <b>직무<\/b> 자소서 항목이 궁금합니다. 해당 <b>직무<\/b>로 지원하셨던분 있으면 좀 알려주시면 감사하겠습니다! [토익] 토익 800점이면 낮은건가요? [취준] 꿈 VS 저녁이 있는 삶 ★[필독] 하반기... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[한국보건복지인재원] 제2기 의약품 연구개발 <b>직무<\/b>과정 교육생 모집(~7.3.(일) 23시 까지)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11746738",
+			"description":"한국보건복지인재원에서 진행하는 22년 제2기 제약<b>바이오<\/b> 연구개발 <b>직무<\/b>교육 모집 안내 드립니다. 의약품 연구\/개발분야 전현직자 분들이 진행하는 실무강의! 그리고 인재원에서 제공하는... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"Cj 제일제당 <b>바이오<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11274865",
+			"description":"cj 제일제당 <b>바이오<\/b> 생산 <b>직무<\/b> 정확히 어떤 업무를 하는 지 궁금합니다! 해외 파견 <b>직무<\/b>는 어느 쪽으로 가게 되는 건지도 궁금합니다!",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"26 공대남 <b>바이오<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11758885",
+			"description":"회사\/부서\/<b>직무<\/b> (하나만 선택해도 OK) 셀트리온 \/ 삼성<b>바이오<\/b> QC\/QA 취업카페 회원수 1위, 독취사에서 받고 싶은 조언은? 예시) 1. 무엇을 더 준비해야 할까요? 2. 어디로 취업해야 할 지 모르겠어요. 원래는 대학원만... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"인공지능.빅데이터 배우면 qa<b>직무<\/b>에 도움이되나요?",
+			"link":"http:\/\/cafe.naver.com\/gsk\/220171",
+			"description":"전공은 품질.<b>바이오<\/b>.화학 짬뽕으로 배웠구요. 그래서 제약회사 qa <b>직무<\/b> 원해서 준비중이였는데 인공지능(ai),빅데이터쪽 유망하대서 <b>직무<\/b>교육 무려 6개월짜리로 듣고있어요. 파이썬.r프로그래밍.머신러닝 이런쪽... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"삼성<b>바이오<\/b>로직스 채용 일요일 마감! 정규직 채용입니다, 전형일정 확인하세요.",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1793239",
+			"description":"삼성<b>바이오<\/b>로직스 채용 <b>직무<\/b>는 공정 개발직으로 <b>직무<\/b>는 <b>바이오<\/b>의약품 생산공정운영, 품질관리\/보증, 엔지니어링 입니다. 삼성<b>바이오<\/b>로직스 채용시 근무지는 인천 송도입니다! 모집 전공은 생물, 화학... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"한미약품 <b>바이오<\/b>생산 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6630142",
+			"description":"요번에 한미약품 평택공단 제조공정부문 <b>바이오<\/b> 생산에 서류합격햇는데 혹시 단순 생산직업무를 하는건가요?? 저는 생산관리를 생각하고 지원했거든요 ㅜㅜ 수도권 4년제 대학교 졸업예정자입니다. 혹시 <b>바이오<\/b> 생산... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"반도체∙자동차∙제약 등 이공계 <b>직무<\/b>면접 준비 TIP ☞",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11738271",
+			"description":"전공 공부하기 <b>직무<\/b> 면접에서는 전공 관련 질문이 나오는데요 특히 이공계 계열, 제약∙<b>바이오<\/b> 계열 처럼 전문적 지식을 요구하는 <b>직무<\/b>의 <b>직무<\/b>면접에서는 필수적으로 출제되는 면접 질문입니다. 경력직이 아닌 일반... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>직무<\/b>분석\/평가\/성과보상 구축 컨설팅 견적 요청 드립니다.",
+			"link":"http:\/\/cafe.naver.com\/ak573\/727604",
+			"description":"안녕하세요 저희는 의료<b>바이오<\/b>제품 제조회사로 연매출 약 1700억규모의 회사 입니다. 직원수는 100... <b>직무<\/b>분석\/평가\/성과보상 체계에 대해 견적 요청드리오니 많은 관심 부탁 드립니다. 감사합니다. ******@*****.***",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"[제27536차] 문과생 제약회사로 출근합니다 \/ 예문아카이브 (7.27 ~ 7.29)",
+			"link":"http:\/\/cafe.naver.com\/booknbeanstalk\/1154282",
+			"description":"2030년, 제약산업은 더욱 빛날 것이다 지금이 IT시대라면 미래는 제약·<b>바이오<\/b>시대 제약회사 <b>직무<\/b> 절반 정도가 전공 무관 제약회사 평균연봉이 대기업보다 높다? 모두 대기업이나 공무원을 바라볼 때 나는 제약회사로... ",
+			"cafename":"북카페 책과 콩나무-(독서,서평,베스트...",
+			"cafeurl":"https:\/\/cafe.naver.com\/booknbeanstalk"
+		},
+		{
+			"title":"SK<b>바이오<\/b>사이언스 채용시작! 영업관리 합격자소서 확인하기",
+			"link":"http:\/\/cafe.naver.com\/winspec\/297729",
+			"description":"이번 SK<b>바이오<\/b>사이언스 채용 영업관리 신입 <b>직무<\/b> 지원을 위한 자격요건은 위와 같습니다! 학사 이상, 상경 계통 전공이어야 하며 영어회화가 가능해야한다고 합니다! 우대 자격증도 있으니 있으시다면 꼭 서류에... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"[<b>바이오<\/b>엑스] 미래에너지사업 연구원 정규직 채용 (~8\/7)",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/595253",
+			"description":"기업명: <b>바이오<\/b>엑스 구인<b>직무<\/b>\/직위: 미래에너지사업 연구원 자격요건: 초대졸이상 입사지원서 제출기간: 2022.05.09(월) ~ 2022.08.07(일) 채용사이트 바로가기: [<b>바이오<\/b>엑스] 미래에너지사업 연구원... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"인천 송도 삼성<b>바이오<\/b> 현장에서 안전관리자 구합니다 (경력)",
+			"link":"http:\/\/cafe.naver.com\/anjun\/892796",
+			"description":"보성엔지니어링 ( 냉동설비 ) 지역 : 인천 송도 소재 삼성 <b>바이오<\/b> 현장 <b>직무<\/b>: 안전관리자 (경력자) 급여: 면접시 협의 ***-****-**** 정광율 부장 연락주시면 감사하겠습니다",
+			"cafename":"산준모★산업안전기사｜위험물산업기사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anjun"
+		},
+		{
+			"title":"종근당<b>바이오<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10987550",
+			"description":"종근당<b>바이오<\/b> 프로<b>바이오<\/b>틱스 <b>직무<\/b> 서류결과 나왔나요? 꼭 봐야할 이번주 독취사 인기글 * 대기업 취업 확실하게 준비하는 방법 ▶ https:\/\/bit.ly\/2XrufUy * 솔직히 일자리 없다는 말, 다 핑계 같아요.... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>바이오<\/b> r&amp;d생각 중이에요",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11256086",
+			"description":"연구개발<b>직무<\/b> (삼성 <b>바이오<\/b>로직스, LG 화학 생명과학부, 삼성 <b>바이오<\/b> 에피스) 취업카페 회원수 1위, 독취사 회원님들에게 받고 싶은 조언은? 1. R&amp;D쪽 지원하고 싶은데 어떤 것을 더 준비해야 할까요? <b>바이오<\/b> r&amp;d라고 하면... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"SK<b>바이오<\/b>팜 SKCT <b>직무<\/b>타입?",
+			"link":"http:\/\/cafe.naver.com\/specup\/6782009",
+			"description":"SK<b>바이오<\/b>팜 QA부서는 P(생산) 공부하면 되겠죠? SK는 인적성 시험이 정말 어렵네요ㅠㅠㅠㅠ 공부하시는 분들 모두 홧팅이에요 취준생 베스트 인기글 자격증 10개가 기본?! 자격증따다 시간 다 가겠다..... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>바이오<\/b> 생산<b>직무<\/b>에 관심이 있습니다!",
+			"link":"http:\/\/cafe.naver.com\/gsk\/165079",
+			"description":"혹시 <b>바이오<\/b> 생산<b>직무<\/b>에 답변해주실 분 있나요??",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"대학원 연구 <b>직무<\/b> 고민",
+			"link":"http:\/\/cafe.naver.com\/gsk\/207217",
+			"description":"5. 제약<b>바이오<\/b>에서 연구<b>직무<\/b>로 가시려는 분들은 주로 어떤 분야를 많이 가시고 보편적으로 회사에서 선호하는 연구분야도 무엇인지 궁금합니다. 질문들이 다 간단하지만 답변이 궁금합니다 감사합니다..",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"대구 제약\/<b>바이오<\/b>\/화장품<b>직무<\/b> 품질관리 스터디 팀원 모집합니다",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9021484",
+			"description":"상반기 목표로 <b>직무<\/b>공부, 인적성, 기업분석 주로 진행하고 있으며 자소서첨삭도 스터디원이 원할때 시간을 내서 진행합니다. 현재 스터디원 총 4명이고 원래 하시던분이 사정으로 빠지셔서 1~2분 더 충원 생각중입니다.... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"한미약품 <b>바이오<\/b>생산 <b>직무<\/b> 4년제는 이제 채용하지 않나요??",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6909743",
+			"description":"이상이라고 적혀있으면 4년제를 뽑지 않는다고 하더라구요 저번채용까지만 해도 이런 자격은 없었던 것으로 기억하는데 궁금합니다. 그리구 제약회사 생산 <b>직무<\/b>에서 일하면서 추후에 qa <b>직무<\/b>로 이직할 때 비전도 있을까요??",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"종근당과 종근당 <b>바이오<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10055176",
+			"description":"'종근당' 상반기 채용 <b>바이오<\/b> 공정 연구 분야에 지원하려고 하는데 신약 개발 <b>직무<\/b>만 있는것 같더라구요 종근당 <b>바이오<\/b>는 이후에 따로 채용 공지가 올라오는지 아니면 함께 <b>바이오<\/b> 분야를 채용하는 건지 궁금합니다.... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성<b>바이오<\/b>로직스면접학원 매년 합격자수 많은곳",
+			"link":"http:\/\/cafe.naver.com\/starmapmap\/2318",
+			"description":"삼성<b>바이오<\/b>로직스면접 : 삼성<b>바이오<\/b>로직스면접은 <b>직무<\/b>면접,임원면접 위에 와 내용이 동일하며 20분~25분 보통 면접시간이 주워집니다. 4. 삼성전자면접 : 삼성전자면접도 <b>직무<\/b>면접, 임원면접으로 진행되며 30분정도로... ",
+			"cafename":"[상위1%] 학습\/학원 대표카페 전국 최...",
+			"cafeurl":"https:\/\/cafe.naver.com\/starmapmap"
+		},
+		{
+			"title":"[오늘의 채용정보] MW - <b>바이오<\/b>벤처 \/ 유니콘기업",
+			"link":"http:\/\/cafe.naver.com\/cracrc\/234934",
+			"description":"Medical Writer <b>직무<\/b> 내용 - <b>바이오<\/b>시밀러, <b>바이오<\/b>신약 제품의 임상개발전략 \/ Target Product Profile 수립 - IB\/임상시험계획서\/임상시험결과보고서 작성 - 규제기관과의 소통을 위한 Regulatory Beriefing... ",
+			"cafename":"신약 개발임상 연구원 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/cracrc"
+		},
+		{
+			"title":"제약\/<b>바이오<\/b> 분야 연구개발 <b>직무<\/b>(석사 이상) 스터디원 모집",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10605640",
+			"description":"-진행: 자소서 첨삭, 산업 및 기업 분석, 면접, 인적성준비 -시간: 주 2회(월, 목)\/1회당 2-4시간 월:12:00~15:00 목:12:00~14:00 -비용: 스터디룸 대여1인당 3,900원(1회 3시간 기준) -지원자격: 제약\/<b>바이오<\/b> 분야 연구개발 <b>직무<\/b>... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>바이오<\/b>의약품 개발 <b>직무<\/b>는 어떤 점을 위주로 면접 준비해야할까요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11147461",
+			"description":"<b>바이오<\/b>의약품 개발 <b>직무<\/b>는 어떤 점을 위주로 면접 준비해야할까요?",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"2020년 중소기업 탐방 프로그램(제약,<b>바이오<\/b> 품질<b>직무<\/b>(QC) 특화과정)(~06\/22)",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1602315",
+			"description":"▷ 포스터 ▷ 주최사 \/ 활동명 - 주최\/주관 : 고용노동부 - 시행\/운영 : 인재양성 HR연구소 - 활동명 : 2020년 중소기업 탐방 프로그램(제약,<b>바이오<\/b> 품질<b>직무<\/b>(QC) 특화과정) ▷ 활동내용 - 기업설명회, 주요 <b>직무<\/b>소개... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"제약\/<b>바이오<\/b> 분야 연구개발 <b>직무<\/b>(석사 이상) 스터디원 모집",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10557208",
+			"description":"-진행: 자소서 첨삭, 산업 및 기업 분석, 면접, 인적성준비 -시간: 주 2회(월, 목)\/1회당 2-4시간 월:12:00~15:00 목:12:00~14:00 -비용: 스터디룸 대여1인당 3,900원(1회 3시간 기준) -지원자격: 제약\/<b>바이오<\/b> 분야 연구개발 <b>직무<\/b>... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[차병원·<b>바이오<\/b>그룹] 분야별 인력 채용 (~3\/31)",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/577625",
+			"description":"기업명: 차병원·<b>바이오<\/b>그룹 구인<b>직무<\/b>\/직위: 공고 내 <b>직무<\/b> 참고 자격요건: 공고 내 지원자격 참고 입사지원서 제출기간: 2022.03.16(수) ~ 2022.03.31(목) 채용사이트 바로가기: [차병원·<b>바이오<\/b>그룹]... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"화공 <b>바이오<\/b>회사",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10412340",
+			"description":"혹시 화공이 <b>바이오직무<\/b>로 갈 때 뭘 더 준비해야 하는지 아시는분 계신가요..? 공정보다는 제약쪽으로 지원하고 싶은데 어떻게 준비해야할지 막막하네요 꼭 봐야할 이번주 독취사 인기글 * 코로나 종식 후... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"상장 초임박 <b>바이오<\/b> 기업 포지션 안내 드립니다_ra\/cra\/cta 포지션",
+			"link":"http:\/\/cafe.naver.com\/cracrc\/236256",
+			"description":"안녕하세요 헤드헌터 임덕준 이사입니다 상장 초임박 <b>바이오<\/b> 기업 포지션 안내 드립니다 <b>직무<\/b> 수행업무 자격\/우대조건 근무지 임상팀 • 임상 실무 진행 • CRO 관리 • 임상 관리 • 임상 SOP... ",
+			"cafename":"신약 개발임상 연구원 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/cracrc"
+		},
+		{
+			"title":"휴온스<b>바이오<\/b>파마 선배님들 도와주세요ㅠㅠ",
+			"link":"http:\/\/cafe.naver.com\/gsk\/215539",
+			"description":"안녕하세요 이번에 휴온스<b>바이오<\/b>파마 품질관리<b>직무<\/b> 서류합격해서 면접 볼 수 있는 기회가 생겼는데 정보기 앖어요.. 선배님들 도와주세요ㅠㅠ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"[종로] 제약\/<b>바이오<\/b> 분야 연구개발 <b>직무<\/b>(석사 이상) 스터디원 모집",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10555065",
+			"description":"-진행: 자소서 첨삭, 산업 및 기업 분석, 면접, 인적성준비 -시간: 주 2회(월, 목)\/1회당 2-4시간월:12:00~15:00 목:12:00~14:00 -비용: 스터디룸 대여1인당 3,900원(1회 3시간 기준) -지원자격: 제약\/<b>바이오<\/b> 분야 연구개발 <b>직무<\/b>... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>바이오<\/b> 생산직 <b>직무<\/b> 상담요청합니다!",
+			"link":"http:\/\/cafe.naver.com\/gsk\/165080",
+			"description":"혹시 <b>바이오<\/b> 생산에 대해서 아시는분 계신가요!",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"Cj제일제당 <b>바이오<\/b> 면접스터디 구합니다~(모집완료)",
+			"link":"http:\/\/cafe.naver.com\/specup\/5570051",
+			"description":"페이스북, 카페 메일로) └ 스터디 게시판 활동규정 확인 : http:\/\/cafe.naver.com\/specup\/4891054 스터디 종류 (말머리적용필수) Cj제일제당 <b>바이오직무<\/b> 면접스터디!모집 인원 6-10명장소\/시간 서면\/매일저녁(자세한사항... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"SK<b>바이오<\/b>팜 문과 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/specup\/6570511",
+			"description":"제가 정보가 많이 없어서 그런데요 ㅠㅠ 다들 SK<b>바이오<\/b>팜 문과 <b>직무<\/b>에 대해 어떻게 생각하시나요 ?? 그냥 가볍게 말씀해주셔도 됩니다 ㅎㅎ 취준생 베스트 인기글 졸업 후 빚이 3천만원, 괜히 대학... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"22년 상반기 삼성 채용대비! 나에게 맞는 삼성패스는? (해커스잡vs렛유인vs위포트)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11540616",
+			"description":"해커스의 경우 삼성<b>바이오<\/b>로직스 지원을 희망하는 취준생 분들을 위해 반도체 강의 대신 제약\/<b>바이오<\/b> 강의 <b>직무<\/b>를 제공하는 삼성<b>바이오<\/b>로직스집중반을 추가적으로 개설한 점이 특징입니다. ■ 수강료... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"혹시 종근당 선배님계실까요? 지원<b>직무<\/b>고민",
+			"link":"http:\/\/cafe.naver.com\/gsk\/152360",
+			"description":"공고된 <b>바이오<\/b>생산 <b>직무<\/b>설명을 보니 qc와 겹치는 부분이 있는것 같아 <b>바이오<\/b>생산과 고민됩니다. 여성\/화학공학 전공자인 제게 어느 <b>직무<\/b>가 더 지원시 승산있을까요? 종근당 충남공장 근무자께서 계시면 가장 좋을... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"<b>바이오<\/b>회사 생산부 <b>직무<\/b> 배양, 정제, 완제 어디서 시작하는게 좋을까요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10262960",
+			"description":"어떤 <b>직무<\/b>로 시작을 해야 경력이 경쟁력이 있을지 모르겠습니다. 단백질 의약품 회사라 원료 완제가 아니고 원료를 배양, 정제로 분리를 시켜서 지원을 받네요. 학교를 졸업한지 오래되어 어디 물어볼곳도 없고... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		}
+	]
+}

@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:27 +0900",
+	"total":182358,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>사회복지<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1050674",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b>정책",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2782",
+			"description":""
+		},
+		{
+			"title":"한국<b>사회복지<\/b>행정학",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5883",
+			"description":""
+		},
+		{
+			"title":"한국<b>사회복지<\/b>조사연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5879",
+			"description":""
+		},
+		{
+			"title":"한국학교<b>사회복지<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=8797",
+			"description":""
+		},
+		{
+			"title":"한국<b>사회복지<\/b>교육",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2133098",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b>개발연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2778",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b> 리뷰",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=64467",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3294370",
+			"description":""
+		},
+		{
+			"title":"21세기<b>사회복지<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2133223",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b>실천",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=503705",
+			"description":""
+		},
+		{
+			"title":"교회와 <b>사회복지<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2175498",
+			"description":""
+		},
+		{
+			"title":"한국<b>사회복지<\/b>질적연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3258587",
+			"description":""
+		},
+		{
+			"title":"극동<b>사회복지<\/b>저널",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=999",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b> 실천과 연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3145281",
+			"description":""
+		},
+		{
+			"title":"글로벌<b>사회복지<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2135295",
+			"description":""
+		},
+		{
+			"title":"재정분권 이후 기초지방자치단체의 <b>사회복지<\/b>예산 변화에 대한 결정요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41626825",
+			"description":"A Study of the Determinants on the Change in the Social Welfare Budget of Local Governments Since Fiscal Decentralization 본 연구는"
+		},
+		{
+			"title":"다문화적 환경변화에 따른 <b>사회복지<\/b>실천현장의 문화적 유능감(cultural com",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16565096",
+			"description":"An Explorative Study on the Cultural Competence of Social Work Pactice Settings 본 연구는 <b>사회복지<\/b>실천현장의 문화적 다"
+		},
+		{
+			"title":"바우처 도입에 따른 <b>사회복지<\/b>전문직 정체성의 변화와 그 의미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78372531",
+			"description":"A Study on the Change and Meaning of Identity in Social Work Profession Following the Introduction of Voucher in Korea 이 연구는 "
+		},
+		{
+			"title":"<b>사회복지<\/b>경영연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3096871",
+			"description":""
+		},
+		{
+			"title":"지방자치단체 <b>사회복지<\/b>지출 수준의결정요인 분석 : 1995년-2005년",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13700285",
+			"description":"Determinants of the Social Welfare Expenditure in Local Government:****-****   <b>사회<\/b>서비스, 지방분권, <b>사회<\/b>투자, 지방정"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원 소진에 영향을 미치는 요인 - 개인적 특성, 직무환",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13703625",
+			"description":"Determinants for the Burn-out of Social Welfare Government officials: Personal Characteristics, Work Environment Characteristics and Pr"
+		},
+		{
+			"title":"<b>사회복지<\/b>지원학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2133251",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b>전문요원의 직무만족, 이직의도, Burnout에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=804329919",
+			"description":"   Political science, Media studies "
+		},
+		{
+			"title":"한국<b>사회복지<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=60406",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 직무특성이 자기효능감에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17584498",
+			"description":"The Influence on Self-Effectiveness by Job Feature for Organization Competence of Public Officers in charge of Social Welfare 본 연"
+		},
+		{
+			"title":"<b>사회복지<\/b>법제연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3301285",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b>현장실습이 <b>사회복지<\/b>전공학생들의 진로발달 및 전문직업의식",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=558697390",
+			"description":"The Effect of Social Work Practicum on Career Development and Professional Consciousness 본 연구의 목적은 <b>사회복지<\/b>현장실"
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 <b>사회<\/b>적 자본 척도 구성과 그 적용에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=50896740",
+			"description":"A Study on the Construction and Application of Social Capital Scale in Social Welfare Organizations 본 연구는 <b>사회복지<\/b>조직의"
+		},
+		{
+			"title":"미래<b>사회복지<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2176283",
+			"description":""
+		},
+		{
+			"title":"공공<b>사회복지<\/b>행정의 정보화가 <b>사회복지<\/b>일선관료의 실천에 미친 영향 : ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116481252",
+			"description":"Computer-based public welfare administration and the changes in the practices of street-level welfare bureaucrats 본 연구의 목적"
+		},
+		{
+			"title":"한국인의 <b>사회복지<\/b>에 대한 인식과 분산: 정치적 성향과 정치적 지식의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45701146",
+			"description":"Attitudes toward Social Welfare and Their Variances: The Roles of Political Ideology and Political Knowledge 본 연구에서는 2006"
+		},
+		{
+			"title":"지역기반의 <b>복지<\/b>공급체계: <b>사회복지<\/b>기관의 역할과 네트워크",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61701786",
+			"description":"Community-based welfare provision system: Positioning and network of social welfare agencies 이 논문은 최근 한국에서의 사"
+		},
+		{
+			"title":"<b>사회복지<\/b> 종사자의 보수 실태와 처우 향상",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562423429",
+			"description":"Remuneration and Treatment of Social Welfare Practitioners 2017년 <b>사회복지<\/b>시설 종사자 보수 수준 및 근로 여건 실태"
+		},
+		{
+			"title":"<b>사회복지<\/b>실천의 생태체계 패러다임과 연구방법론에 대한 고찰(1)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=36953063",
+			"description":"A study on the Eco-systems paradigm and the methodology in social work practice (1)  요약\nI. 서론\nII. <b>사회복지<\/b>실천의 생태"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설의 조직윤리에 관한 연구: 윤리적 리더십, 조직윤리풍토, ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78319285",
+			"description":"A Study on Organizational Ethics of Social Welfare Agency: Relationship among Ethical Leadership, Ethical Climate, and Organizational E"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 감정노동 경험에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74826453",
+			"description":"Emotional Labor Experiences of Public Social Workers 본 연구의 목적은 <b>사회복지<\/b>전담공무원들의 감정노동 경험을 "
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 재량행사에 관한 연구: 동사무소 <b>사회복지<\/b>전담공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79120253",
+			"description":"The Study on Welfare bureaucrats` Discretion 이 연구는 동사무소 <b>사회복지<\/b>전담공무원의 재량이 어떠한 상황에서"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 직무스트레스가 직무만족에 미치는 영향: <b>사회<\/b>적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61703526",
+			"description":"The Effect of Job Stress on Job Satisfaction of Public Social Workers: Focused on the Moderating Effects of Social Capital 본 연구"
+		},
+		{
+			"title":"지방정부 <b>사회복지<\/b> 지출 결정요인 : 기초자치단체 세출예산의 규모와 구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11665815",
+			"description":"  국문목차\n표제지=0,1,3\n목차=i,4,2\n표목차=iii,6,2\n국문요약=v,8,2\n제1장 서론=1,10,1\n 1. 연구의 배경 및 필요"
+		},
+		{
+			"title":"<b>사회복지<\/b> 지방이양사업과 지방<b>복지<\/b>재정위기에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290185621",
+			"description":"A Study on the Transferring Social Welfare Service to Local Government and the Financial Crisis of Local Government 본 연구는 사"
+		},
+		{
+			"title":"지역<b>사회복지<\/b>계획의 기반조성을 위한 지역<b>사회<\/b>응집력과 지역<b>사회<\/b>참여",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13900779",
+			"description":"A Study on the Relationship between Community Cohesion and Community Participation for the Foundation of Community Welfare Planning 본"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 <b>사회복지<\/b>교육성과와 직무성과와의 관계 : 임파워",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562294925",
+			"description":"Relationship Between Outcomes of Social Welfare Education and Job Performance of Public Social Worker - Focusing on the Mediating Effec"
+		},
+		{
+			"title":"이화<b>사회복지<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3145283",
+			"description":""
+		},
+		{
+			"title":"도시·농촌간 <b>사회복지<\/b>전문요원의 직무수행과 직무만족에 관한 비교연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878552245",
+			"description":"   Social science, Political science, Media studies, 도시, 농촌, <b>사회복지<\/b>전문요원, 직무만족도 "
+		},
+		{
+			"title":"기초 지방자치단체 <b>사회복지<\/b> 자체사업 지출 결정요인에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77903640",
+			"description":"A study on the determinants of welfare spending on primary local government`s own program 본 연구는 <b>사회복지<\/b>분야의 지방이"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 감정노동 선행요인과 결과요인에 관한 연구: 자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116458370",
+			"description":"Antecedents and Consequences of Emotional Labor in Employee of the Social Welfare Facilities : Focused on the Conservation of Resources"
+		},
+		{
+			"title":"공공 <b>사회복지<\/b>전달체계 내 통합사례관리 운영방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290309974",
+			"description":"The Study of Integrated Case Management in the Public Social Welfare Delivery System 본 연구는 공공 <b>사회복지<\/b>전달체계 내 "
+		},
+		{
+			"title":"<b>사회복지<\/b>실습 목표달성도에 영향을 미치는 요인에 관한 연구 - 실습만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=558697394",
+			"description":"A Study on the Degree of Students' Goals Attainment with Social Work Practicum Influencing Factors: A focused on Student Satisfaction R"
+		},
+		{
+			"title":"지역<b>사회복지<\/b> 수요와 공급에 있어서의 민간 <b>사회복지<\/b> 지위와 역할에 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232460704",
+			"description":"Rethinking the Status and Role of Private Sector in the Context of Demand and Provision within Community Social Welfare 이용자 지"
+		},
+		{
+			"title":"<b>사회복지<\/b>사의 전문성과 윤리적 책임행동 간의 관계를 통한 <b>사회복지<\/b>실",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16587393",
+			"description":"The Imprication of Social Welfare Practice through Relationship between Social Workers Professionalism and Ethical Responsible Behavior"
+		},
+		{
+			"title":"관료제 구조와 <b>사회복지<\/b>업무 속성의 충돌, 그리고 재량행위의 왜곡",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78301525",
+			"description":"Conflicts between the Bureaucratic Structure and the Characteristics of Task in Social Services: Focusing on the Social Services Offici"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설의 윤리경영이 조직몰입에 미치는 영향 -<b>사회<\/b>적 바람직성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153347952",
+			"description":"A Study on the Effect of Ethical Management on Organization Commitment in social welfare Agency -Focusing on Mediating Effect of Social"
+		},
+		{
+			"title":"<b>사회복지<\/b>서비스 전달체계의 현황 및 시사점 : 구성원칙 중 전문성을 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41659158",
+			"description":"Evaluation and Suggestions of Social Welfare Service Delivery System - Focused on Professionalism Out of Principle of Composition 본 "
+		},
+		{
+			"title":"<b>사회복지<\/b>시설평가제도에 대한 비판적 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116464266",
+			"description":"Evaluating the evaluation system of social welfare facilities in Korea 본 연구는 <b>사회복지<\/b>시설평가제도의 전개과정을 "
+		},
+		{
+			"title":"<b>사회복지<\/b>서비스 질에 있어 <b>사회<\/b>복무요원과 <b>사회복지<\/b>사간 관계의 매개효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58314641",
+			"description":"The Study on the Mediated Effect of Public Service Workers and Social Workers about the Quality of Social Services: Based on Job Factor"
+		},
+		{
+			"title":"지방분권과 <b>사회복지<\/b>전달체계의 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12408779",
+			"description":"Decentralization and the Changes of Social Service Delivery System in Korea  jpg\n1. 서론=7,9,2\n2. <b>사회복지<\/b>서비스 분권화를 "
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 임파워먼트가 서비스 질에 미치는 영향에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562516725",
+			"description":"Mediating Effects of Job Satisfaction in the Influence of Empowerment on Service Quality in Social Welfare Facility Workers 본 연구"
+		},
+		{
+			"title":"<b>사회복지<\/b> 현장실습의 실습성과와 실습성과에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13700553",
+			"description":"A Study On Social Work Field Education Related Factors InfluencingOn the Field Education Outcome 본 연구는 <b>사회복지<\/b> 현장실"
+		},
+		{
+			"title":"<b>사회복지<\/b>의 공공성 측정에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39263451",
+			"description":"A study of the measurement of “publicness” in social welfare 이 논문에서는 <b>사회복지<\/b>의 공공성을 형식적 측면과 "
+		},
+		{
+			"title":"우리나라 <b>복지<\/b>행정 개혁과 <b>사회복지<\/b> 환경의 변화 분석을 통한 공공 <b>복지<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153348092",
+			"description":"Searching for Direction of Public Welfare Administration through an Analysis of the Changes in Welfare Administration Reforms and Envir"
+		},
+		{
+			"title":"지역<b>사회복지<\/b>서비스 네트워크 활성화에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=37744512",
+			"description":"A Study on Networks of Community Welfare Service: Donggu of Busan as an Illustration 지역<b>사회<\/b>는 단지 지역 혹은 공간의 개"
+		},
+		{
+			"title":"<b>사회복지<\/b>담당공무원의 전문성, 직무환경, 소진에 관한 실태 및 지역별 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78377215",
+			"description":"A Study on the Condition and Regional Differences about the Professionalism, Work-Environment and Burn-out of Social-Welfare Officials "
+		},
+		{
+			"title":"<b>사회복지<\/b>의 문화적 토대, <b>복지<\/b>태도, 그리고 문화적 문맥 : <b>사회복지<\/b>정책 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=421041344",
+			"description":"A State-Of-The-Art Report of Three Cultural Approaches to Social Welfare <b>사회복지<\/b>정책에 있어서 문화 혹은 문화적 측면"
+		},
+		{
+			"title":"지방자치단체 <b>사회복지<\/b> 예산 비중의 결정요인 탐색: 일반행정비의 경직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45741377",
+			"description":"The Determinants of Municipal Budget Levels on Social Welfare: A Model Considering the Uncontrollability of General Administration Expe"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 <b>사회복지<\/b>교육성과와 직무성과와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562294925",
+			"description":"Relationship between outcomes of social welfare education and job performance of public social worker 본 연구는 <b>사회복지<\/b>전담"
+		},
+		{
+			"title":"<b>사회복지<\/b>와 노동",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3301291",
+			"description":""
+		},
+		{
+			"title":"기독교<b>사회복지<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=64211",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b>실천에서의 문화적 역량과 측정도구에 관한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74837372",
+			"description":"Cultural Competence and Measurements in Social Work Practice 국제결혼의 증가와 외국인 이주 노동자의 유입 등으로 "
+		},
+		{
+			"title":"영국 <b>사회복지<\/b>서비스의 구조와 서비스 질 관리 체계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12976912",
+			"description":"Structure of social care services and minimum quality control in U.K. 최근 우리나라의 <b>사회복지<\/b>서비스 영역에서는 복"
+		},
+		{
+			"title":"한국의 <b>사회복지<\/b>시설 종사자와 육아휴직제도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651417896",
+			"description":"The Parental Leave and the Social Welfare Facilities in South Korea 한국의 <b>사회복지<\/b>시설에서 서비스 질의 향상과 종"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원 직렬통합 논의의 쟁점과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116458364",
+			"description":"The issues and future task about Integration in series of classes of public social workers 공공조직내 <b>사회복지<\/b>전문직인 사"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 평가제도, <b>사회복지<\/b>사는 무엇을 경험하고 무엇을 바라는",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=163764435",
+			"description":"What did Social Workers Experience and What do They Want for the Evaluation System of Social Welfare Facilities? 본 연구는 <b>사회<\/b>"
+		},
+		{
+			"title":"권위주의 국가와 <b>사회복지<\/b>정책: 한국의 관료적 권위주의를 중심으로이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12983755",
+			"description":"Authoritarian State and Social Policy: The Case of the bureaucratic-authoritarian State in Korea 19세기 말 국가 차원에서 실"
+		},
+		{
+			"title":"인권과 <b>사회복지<\/b>: 쟁점 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=421041349",
+			"description":"Human Rights and Social Welfare: Issue Analysis <b>사회복지<\/b>가 ‘인권의 강화’라는 대명제에서 출발하였음에도 불"
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 집단문화가 구성원들의 조직시민행동에 미치는 영향: ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56415576",
+			"description":"Social Welfare Organization's Group Culture on Organizational Citizenship Behavior(OCB) of Employees: Focusing on the Mediating Effect "
+		},
+		{
+			"title":"<b>사회복지<\/b> 전담공무원의 행정재량행위가 국민기초생활보장수급자 선정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77883918",
+			"description":"A Study on Influence Factors of Welfare Bureaucrats' Administrative Discretion on National Basic Livelihood Guarantees 국민기초생"
+		},
+		{
+			"title":"한국 <b>사회복지<\/b>서비스의 변화 : 행위자간 관계의 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78372534",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b> 전달체계의 현안과 전망",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12408801",
+			"description":"Issues and Prospects on the Social Welfare Services Delivery System  jpg\n1. 문제제기=40,42,2\n2. <b>사회복지<\/b> 전달체계 개편의"
+		},
+		{
+			"title":"휴먼서비스 산업체계 모형에 의한 <b>사회복지<\/b>서비스 동향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=37746762",
+			"description":" 휴먼서비스 산업체계 모형에 의한 <b>사회복지<\/b>서비스 동향 분석\n김영종(경성대학교 <b>사회복지<\/b>학과 교수)"
+		},
+		{
+			"title":"학교<b>사회복지<\/b>사업의 효과성 평가 연구: 학교<b>사회복지<\/b>사 파견사업(2007년-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=37745819",
+			"description":"The Effects of School Social Work Service: ****-**** School social work project' co-sponsored by Ministry of Education and Ministry for"
+		},
+		{
+			"title":"기독교<b>사회복지<\/b>운동의 방향과 전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11230950",
+			"description":"A Suggestion for the Direction and Strategies of the Christian Social Welfare Movement  [머리글]=86,91,2\nI. 서론=87,92,3\nII. 기"
+		},
+		{
+			"title":"지적장애인이 인식하는 <b>사회복지<\/b> 서비스제공자와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41605910",
+			"description":"The study on the perception types of the service users with intellectual disability on the relationships with their service workers 본"
+		},
+		{
+			"title":"<b>사회복지<\/b> 교육의 현황과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11497921",
+			"description":"The Issues and Tasks for Social Work Education  【국문요약】=174,179,2\nI. <b>사회복지<\/b> 교육의 현황=175,180,1\n 1. 국내 사"
+		},
+		{
+			"title":"<b>사회복지<\/b>사업법 개정의 시사점 : <b>사회복지<\/b>법인 및 시설을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153594298",
+			"description":"The Implications of the Amended Social Services Act for Social Welfare Corporations <b>사회복지<\/b>사업법은 <b>사회복지<\/b>사업에 관"
+		},
+		{
+			"title":"<b>사회복지<\/b>분야의 기업 <b>사회<\/b>공헌활동에 대한 <b>사회복지<\/b>사의 주관적 인식유",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41598787",
+			"description":"A Study on the Subjective Perception Patterns of Social Workers to Corporate Philanthropy in Social Work Field 본 연구는 한국에"
+		},
+		{
+			"title":"제3기 지역<b>사회복지<\/b>계획, 전략과 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74866175",
+			"description":"The Third Community Welfare Planning,Strategies and Directions 지역<b>사회복지<\/b>계획이 제3기를 맞이하고 있다. 1, 2기 사"
+		},
+		{
+			"title":"윤리경영이 조직신뢰, 조직시민행동, 고객지향성에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=179881208",
+			"description":"A Study on the Effect of Ethical Management on the Organizational Trust, Organizational Citizenship Behavior, and Customer Orientation "
+		},
+		{
+			"title":"공공과 민간의 협치기제로서 지역<b>사회복지<\/b>협의체의 활성화방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12408808",
+			"description":"Community Welfare Committee as a Local Governance System  jpg\n1. 지역<b>사회복지<\/b>협의체의 의미=51,53,1\n 1) 환경의 변화와 "
+		},
+		{
+			"title":"<b>사회복지<\/b> 전달체계 패러다임으로서의 거버넌스, 협영(協營)에 대한 이론",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=62679880",
+			"description":"A Theocratical Exploration of Governance, as a Paradigm for Social Welfare Delivery 거버넌스는 1990년대에서 최근까지 정"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 전문성 향상을 위한 공무원교육원 <b>사회복지<\/b>교과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=558697416",
+			"description":"A Study on Way to Develop Curriculum of Official Institute's Social Training for Social Workers' Professional Improvement 본 연구에"
+		},
+		{
+			"title":"지역<b>사회복지<\/b>협의체의 성공적 정착을 위한 공공과 민간의 Governance구축",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17583689",
+			"description":"Building the Governance between the Public and Private Sectors for the Success of Community Welfare Alliance 지역<b>사회복지<\/b>협의"
+		},
+		{
+			"title":"이명박 정부 시대 <b>사회복지<\/b> : <b>복지<\/b>시장의 전면화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18520457",
+			"description":"  목차\n이명박 정부 시대 <b>사회복지<\/b> : <b>복지<\/b>시장의 전면화 \/ 주은선 1\n ◀논문요약▶ 1\n I. 머리말 1\n II. 복"
+		},
+		{
+			"title":"지역<b>사회복지<\/b>계획의 의의와 제3기 계획 수립 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74866176",
+			"description":"The Significance and Scheme of 3rd Community-based Planning for Social Welfare 지역<b>사회복지<\/b>계획은 지역주민의 <b>복지<\/b>욕구"
+		},
+		{
+			"title":"클라이언트에 대한 부정적 인식이 <b>사회복지<\/b>전담공무원의 소진에 미치는",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116458359",
+			"description":"The Effect of Negative Impression of Clients on Social Welfare Government Officials' Burn-out 이 연구는 클라이언트에 대한 "
+		},
+		{
+			"title":"영성과 <b>사회복지<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3095726",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b>전달체계의 현황과 전망",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878852506",
+			"description":"  1. 들어가며\n2. 그간의 문제점\n3. <b>사회복지<\/b>전달체계 개편\n4. 마무리  "
+		},
+		{
+			"title":"<b>사회복지<\/b>현장실습 수퍼비전에 대한 실습지도교수의 주관적 인식 유형 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41659490",
+			"description":"A Study of the Perception of Faculty Field Liaison on the Social Work Practicum Supervision 성공적인 실습교육은 체계적인 "
+		},
+		{
+			"title":"<b>사회복지<\/b>전달체계 개편의 성과와 발전방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56563911",
+			"description":"Social Welfare Delivery Reform: Achievements and Beyond 최근 몇 년간 <b>복지<\/b> 전달체계가 핵심적인 정책 과제로 논의"
+		},
+		{
+			"title":"조직몰입이 이직의도와 사업성과에 미치는 영향: 부산지역 <b>사회복지<\/b>조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=206390044",
+			"description":"A Study on the Impact of Organizational Commitment on Workers’ Turnover Intention and Organizational Performance: Based on Analysis o"
+		}
+	]
+}

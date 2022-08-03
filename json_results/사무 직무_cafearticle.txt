@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:02 +0900",
+	"total":117762,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"영업직무보다 <b>사무직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/breakjobnaver\/652119",
+			"description":"영업<b>직무<\/b>보다 <b>사무<\/b>직이 더 어울릴 것 같다는 얘기를 면접장에서 들었습니다.. 어떻게 받아쳐야 좋은 대처였을까요??",
+			"cafename":"취업뽀개기-NCS,공기업,인턴,취업,공모...",
+			"cafeurl":"https:\/\/cafe.naver.com\/breakjobnaver"
+		},
+		{
+			"title":"막막한 공기업 자소서 <b>사무<\/b>&amp;행정 예시들 참고해서 작성해보세요!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1924985",
+			"description":"공기업 자소서 예시(한국전력공사) - <b>사무 직무<\/b>역량 출처 : 링커리어 자소서 만능 검색기 1. 직무역량은 경험과 함께 작성하자! 위 자소서는 한국전력공사 2019년 사무직에 지원한 지원자의 자소서입니다. 자소서의... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"비서직으로 지원했는데 <b>사무<\/b>보조로 <b>직무<\/b> 변경 전화를 받았어요..!",
+			"link":"http:\/\/cafe.naver.com\/secretaryship\/193536",
+			"description":"제목 그대로 대기업 비서직(계약직)으로 지원했는데 어제 전화와서 받아보니 어떤 이유때문에( 밖에 있어서 정확히 듣지는 못했습니다..) 지원한 비서부문 말고 혹시 <b>사무<\/b>보조 쪽으로 <b>직무<\/b> 변경해서 면접 본다면 볼 의향... ",
+			"cafename":"비서백서(All That Secretary)",
+			"cafeurl":"https:\/\/cafe.naver.com\/secretaryship"
+		},
+		{
+			"title":"공기업 일반<b>사무직무<\/b>의 특징",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11444336",
+			"description":"공기업 일반<b>사무직무<\/b>준비할때의 인사나 재무같이 구체화시켜서 준비하는게 좋을까요?아님 일반사무행정느낌으로 준비하는게 좋을까요?? 꼭 봐야할 이번주 독취사 인기글 내 나이에 적당한... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"남동발전 <b>사무직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1848238",
+			"description":"한국남동발전 자소서 작성할 때 <b>사무직무<\/b>로서 사업 연계는 어떻게 해야할까요? 다른 기업은 홈페이지에 어떤 어떤 사업하는지도 나와있는데 남동발전은 딱히 그런게 안보이네요 에너지공기업... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"Kgc인삼공사 <b>사무직무<\/b> 질문입니다",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1913058",
+			"description":"이번 공채에 <b>사무<\/b>에 bm과 마케팅이 떳더라구요 경영경제<b>직무<\/b> 생각하다가 전공무관이라 해서 지원해보려규 하는데 bm과 마케팅 차이는 먼가요?? 그리고 혹시 경영관리 <b>직무<\/b>에 관심이 있엇는데 이번엔 안떳더라구요 ㅜ... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"LH 청년인턴 온라인 면접 스터디 모집합니다!(<b>사무직무<\/b>)",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2596033",
+			"description":"지점은 상관없고 <b>사무 직무<\/b>만 받고자 합니다!! 참여하시면 어떻게 스케줄 구성할지 같이 의논하고 온라인 면접 스터디 하면 좋을 거 같네요. 참여 희망하면 댓글 남겨주세요 공취모 핫클립 모음 공기업 필수... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"한전 <b>사무 직무<\/b> 면접",
+			"link":"http:\/\/cafe.naver.com\/biggiup\/116650",
+			"description":"안녕하세요 한전 사무 원서 준비중입니다. <b>사무 직무<\/b>면접에서는 어떤 질문이 나오고 어떤걸 준비해야 하는지 알려주세요~",
+			"cafename":"고졸 채용 (취업, 공채) 시험을 준비하...",
+			"cafeurl":"https:\/\/cafe.naver.com\/biggiup"
+		},
+		{
+			"title":"비상경계인데 <b>사무 직무<\/b> 지원 고민이네요",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1260280",
+			"description":"비상경계인데 <b>사무 직무<\/b> 지원 고민 전공이 비상경계인데 경영, 사무 직렬로 지원하고 싶습니다. 이런 경우는 보통 경영 전공 필기는 어떻게들 준비 하시나요? 그리고 경영, 사무 직렬 자격증은 어떤게 괜찮을까요?",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"비전공자 <b>사무<\/b>전공 공부기간 얼마나 걸리셨나요",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1874946",
+			"description":"<b>사무 직무<\/b> 비전공자로 전공 공부를 시작하려고 합니다. 사무 준비하시는 비전공자분들은 전공 공부하시는 데 보통 얼마나 걸리셨거나 어느 정도의 기간을 두고 준비하시는지 궁금합니다 ! 이번주... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"<b>사무직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2118489",
+			"description":"<b>사무직무<\/b> 지원동기..",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"서울교통공사 <b>사무 직무<\/b>기술서 질문이요!",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1233955",
+			"description":"'<b>사무<\/b>'에 보면 <b>직무<\/b>기술서가 있잖아요.<b>직무<\/b>기술서를 보면 대\/중\/소\/세분류(경영기획, 고객관리, 총무, <b>사무<\/b>행정 등) 로 또 나뉘어져 있습니다. 그리고 <b>직무<\/b>수행내용, 능력단위, 필요지식, 필요기술, <b>직무<\/b>수행태도... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"<b>사무 직무<\/b>..",
+			"link":"http:\/\/cafe.naver.com\/specup\/6466349",
+			"description":"<b>사무 직무<\/b>로 골라도 할게 정말 많네요.... 하나씩 차근차근 준비하고 있는데 요새는 집중이 잘 안 되는 것 같아서 고민이네요... 다들 힘냅시다! 취준생 베스트 인기글 역시 취준은 운빨 7과 실력 3으로... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"공기업 <b>사무<\/b>직은 어떻게 구성되어 있을까요?(+기업별 <b>사무<\/b>직 필기 모음 표를 통해 한번에 확인)",
+			"link":"http:\/\/cafe.naver.com\/gamnyang\/291005",
+			"description":"오늘은 공기업 <b>사무직무<\/b>와 기업별 공기업 사무직 필기에 관한 내용을 준비했으니 같이 살펴보도록 할게용! 공기업 사무직은! 공기업 사무직 공기업 사무직, 통상 교대 근무가 없습니다. 공기업 사무직 지원시 별도의... ",
+			"cafename":"딱공기업-공기업을 준비하는 사람들의...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gamnyang"
+		},
+		{
+			"title":"<b>사무 직무<\/b> 경험",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1009643",
+			"description":"전공은 <b>사무<\/b>와 무관한데,, 관련 <b>직무<\/b> 경험을 어느쪽으로 쓰면 좋을까요 --------------------------------------------------------------- ▼이번주 공취사 인기글▼ 코레일 NCS 붙으면 다른곳도 합격권? 체험형인턴 중인데 아무 일도... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"아이에스동서 (건설) 일반<b>사무직무<\/b> 질문",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7307475",
+			"description":"아이에스동서 일반<b>사무직무<\/b> 쓰는중인데요. 건설회사 일반<b>사무직무<\/b>는 어떤 직무를 하는지 아시는 분 계신가요? 알려주시면 감사하겠습니다ㅎㅎ 독취사 BEST 글 더보기! [현직자] 지방대 무스펙 현직자의 글 [78]... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"소상공인시장진흥공단 채용 이번에 체험형 인턴으로만 32명 뽑네요!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1940600",
+			"description":"소상공인시장진흥공단 채용은 '행정<b>사무<\/b>' <b>직무<\/b>로만 체험형 인턴 32명 예정입니다. 근무시간은 09:00 ~ 18:00 주 5일 근무(1일 8시간, 주 40시간)이며, 보수는 월 200만원 내외입니다. 소상공인시장진흥공단 채용은 32명... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"공기업 <b>사무직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11055447",
+			"description":"현재 컴활 1급 한국사 1급 <b>사무<\/b>자동화산업기사 보유하고 있습니다. 서류 합격률이 좋지 않은데 재경관리사나 다른 자격증이 더 필요할까요? ㅠㅠ 꼭 봐야할 이번주 독취사 인기글 * 20대 중반, 저만... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"SK하이닉스 자회사형 표준사업장 행복모아에서 <b>사무<\/b>보조직원을 모집합니다! (~7.15)",
+			"link":"http:\/\/cafe.naver.com\/samsunghandicap\/170285",
+			"description":"○사업체명: 행복모아 주식회사 ○구인<b>직무<\/b>: <b>사무<\/b>보조직 ○근무장소: 경기도 이천시 대월면 대대리132 ○모집인원: 1명 ○근무시간: 8:30~17:30, 주5일(월~금) 근무 ○고용형태: 정규직(3개월 수습기간... ",
+			"cafename":"[삼.장.사]삼십만 장애인이 취업하는 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/samsunghandicap"
+		},
+		{
+			"title":"공기업 일반 <b>사무<\/b>행정<b>직무<\/b>관련",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1779447",
+			"description":"안녕하세요 늦깎이 공기업 준비인 입니다ㅜㅜ 일반<b>사무<\/b>행정 <b>직무<\/b> 면접준비도 같이 해보려하는데 관련<b>직무<\/b>가 무엇인지 정의가 따로 내려져있는게 있을까요? 혹시 참고로 보시는 서적이나 추천 사이트 있으면... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"한국토지주택공사 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1932769",
+			"description":"같은 <b>사무직무<\/b>여도 각각 차이가 있는 것 같습니다. 6급의 경우 IT시스템이랑 정보기술 항목이 추가로 있습니다. 현재 전공은 인문계열과 경영학을 복수전공을 하는 상태입니다. 어떤 급수로 정하는게... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"<b>사무 직무<\/b> 하나로 정해서 시작하시나요?",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1795742",
+			"description":"다 잊긴 했지만요..ㅎㅎㅎ <b>사무<\/b>로 <b>직무<\/b>를 결정하실 때 특정<b>직무<\/b>를 처음부터 생각하시고 시작하시나요? 몇 가지를 함께 진행하시는 지, <b>직무<\/b> 선택 기준 등이 궁금하고 보통 기간 내 플랜 들도 어떻게 짜서 하시는지도... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"2022 공기업 경쟁률, 제일 높았던 <b>직무<\/b>는 이곳이라고 하네요",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1942388",
+			"description":"공기업 경쟁률 02 : 국가철도공단 국가철도공단에서 가장 공기업 경쟁률이 높았던 <b>직무<\/b>는 일반(<b>사무<\/b>)직이었습니다. 응시인원 1,525명 중 선발인원은 3명으로, 최종경쟁률 508.33 : 1을 기록했습니다. 공기업 경쟁률... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"보험영업과 <b>사무 직무<\/b> 연결지을수 있을까요 ?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10223685",
+			"description":"공공기관에서 인턴생활을 해볼수록 공공기관 업무 환경이 좋다는게 느껴져서 점점 더 들어오고 싶어져서 준비중에 있는데요 그런데 이전에 보험회사에서 영업을 했던거는 <b>사무<\/b> 관련 <b>직무<\/b>가 아니니까 경력및 경험에... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"7\/2 (토) 한수원 ncs 진행! 후기로 알아보는 주의사항, 꿀팁!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1928529",
+			"description":"공통적으로 의사소통, 수리, 문제해결, 자원관리 영역이 출제되며, <b>사무 직무<\/b>는 조직이해, ICT 직무는 정보능력, 그 외 기술 직무는 기술능력이 출제됩니다. 직무수행능력(전공)은 각 응시분야별 해당 기초전공지식... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"[주식회사OO] 서울_마켓컬리 <b>사무<\/b>보조(재택근무 전환 가능)",
+			"link":"http:\/\/cafe.naver.com\/kdeaf\/13106",
+			"description":"<b>직무<\/b>: <b>사무<\/b>보조 ① 계약서 관리 ② 지출결의서 상신 ③ 엑셀데이터 취합, 정리 * <b>사무<\/b>실 출근 혹은 재택근무 선택가능. 단, 재택근무 시 <b>직무<\/b>교육으로 인해 입사 초반에는 <b>사무<\/b>실 근무해야함. 2. 모집인원... ",
+			"cafename":"(사)한국농아인협회 중앙회 직업재활센...",
+			"cafeurl":"https:\/\/cafe.naver.com\/kdeaf"
+		},
+		{
+			"title":"<b>사무직무<\/b>,, 보통 경제학도 하시나요??",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2125947",
+			"description":"공부 제대로 시작한지 얼마 안되었는데,, NCS 경영 회계 재무만으로도 벅찬데 경제까지 하려니까 맘이 넘 조급해지네요 ㅋㅋㅋ하ㅠㅠㅠ 공부할게 산더미라서 머리가 아플정도예요... .....",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"한국전력공사 <b>사무직무<\/b> 자소서 쓰는법 질문",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9631155",
+			"description":"한전 <b>사무<\/b>직은 기획\/감사, 인사\/노무, 영업, 회계, 자재 등으로 소분류가 되던데 지원서의 응시분야는 그냥 '<b>사무<\/b>'로만 선택할 수 있더라고요,, 자소서를 쓸 때, 위의 소분류 <b>직무<\/b>중에 한 가지에만 집중해서 써야하나요... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"포스코 건설 <b>사무직무<\/b> 면접 스터디",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7635289",
+			"description":"포스코건설 <b>사무직무<\/b> 면접스터디원 모집합니다. 혜화나 종로에서 진행할 예정입니다. 이번주 SK 인적성 끝나고 일요일 저녁부터 시작할 예정입니다. 되도록 면접경험 있으신 분이셨으면 좋겠습니다. 쪽지부탁드립니다! :)",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>사무직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/specup\/5563784",
+			"description":"<b>사무직무<\/b> 지원하는데 가장 중요한 자격증이 뭘까요?? 2018 상반기 삼성 채용 최종 합격 했습니다. (feat.공대생)LG 채용, 중고신입 문과생의 LG화학 최종합격후기SK 하이닉스 채용 최종 합격! (상세한 후기 有)... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"한전 <b>사무 직무<\/b>면접 학원을 다니는게 좋을까요?",
+			"link":"http:\/\/cafe.naver.com\/biggiup\/119236",
+			"description":"제 학교가 <b>직무<\/b>와 상관없고 취업도 별로 신경 안쓰는 학교라 학교에서 도움을 못받을 것 같고, 스터디를 하자니 아예 면접 준비도 해본 적이 없어 할줄아는게 없어서 막막하네요... 그냥 학원을 다니는게 좋겠죠?",
+			"cafename":"고졸 채용 (취업, 공채) 시험을 준비하...",
+			"cafeurl":"https:\/\/cafe.naver.com\/biggiup"
+		},
+		{
+			"title":"코레일 <b>사무직무<\/b> 필기 후기",
+			"link":"http:\/\/cafe.naver.com\/askjeon\/224174",
+			"description":"지원하신 &lt;기업&gt; 채용 직렬을 기재해주세요 : (<b>사무<\/b>직, 행정직 등) <b>사무<\/b>직경영학 2. 본인의 NCS 공부법 및 TIP을 구체적으로 3줄 이상 남겨주세요. (이론\/문풀\/회독\/교재\/학습량 등 구체적인 학습방법 기재)... ",
+			"cafename":"전수환★공기업,공공기관취업,경영학,...",
+			"cafeurl":"https:\/\/cafe.naver.com\/askjeon"
+		},
+		{
+			"title":"공기업 <b>사무 직무<\/b>경험은 인턴 말고는 없을까요?",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2114855",
+			"description":"공기업 <b>사무 직무<\/b>경험은 인턴 말고는 없을까요?",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"취준생 질문) 해외영업\/무역<b>사무<\/b>\/해외영업관리 <b>직무<\/b>에 대해",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/3647459",
+			"description":"큰 회사에 해외영업 직무로 들어가도 무역<b>사무 직무<\/b>를 결국엔 하게 되거나 알게 되나요? 작은 회사일수록 해외영업과 무역사무를 병행하게 되는 것 같은 느낌인데... 무역사무 업무를 더 많이 맡았다가 나중에 혹시라도... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"한국토지주택공사 경쟁률 가장 높은 <b>직무<\/b>는 역시 <b>사무<\/b>일반<b>직무<\/b>네요",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2228072",
+			"description":"한국토지주택공사 경쟁률 작년 기준으로는 역시 <b>사무<\/b>일반<b>직무<\/b>가 엄청 경잴률이 높았던 것 같아요! <b>사무<\/b>일반<b>직무<\/b> 한국토지주택공사 경쟁률이 가장 높았던 것 같은데 작년 상반기 한국토지주택공사 경쟁률... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"일반 <b>사무 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1077372",
+			"description":"일반 <b>사무 직무<\/b> 로 자소서 쓸 때 써야 할 교육명 혹시 알려주실 수 있으신가요?? 그냥 행정학 총론 이런거 써도 되나요??",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"SK 고용디딤돌 경영, <b>사무 직무<\/b>!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6419454",
+			"description":"경영 <b>사무 직무<\/b>에서 세부직무로 사무총무법무 선택하였습니다. 혹시, 주식회사 아이비아이 로 합격하신 분 계신가요?",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"앉아서 하는 <b>직무<\/b> <b>사무<\/b> 말고 머 있을까요",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10643356",
+			"description":"28신입 남자입니다 공기업 <b>사무<\/b> 준비중이였는데 지병이 터져서 포기하고 중소들어가고 싶은데 중소 <b>사무<\/b>는 거의 여자만 뽑더라구요...그래서 남자가 앉아서 업무보는 <b>직무<\/b>가 머 있을까요 평발이라... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>사무 직무<\/b>에서 구매와 경영.전략 기획",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10307065",
+			"description":"이 두 <b>직무<\/b>가 보통 대졸에 전공 무관으로 많이 뜨길래 질문드려요 !! 전공이 무관이다보니 다른 <b>직무<\/b>에 비해 연봉이 좀 낮은 편인가요? 구매랑 기획 중 어느 쪽이 보통 연봉이 더 높나요??? 회사마다 다르겠지만 그래도... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"한전 <b>사무 직무<\/b>면접 스터디 모집(사당)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1719357",
+			"description":"한전 <b>사무<\/b>직렬 스터디 모집합니다! 사당에서 진행할 예정입니다. 참여코드는 면접시작일이고 현재 3명있어서 3명 추가모집후 마감할예정입니다. https:\/\/open.kakao.com\/o\/gWUdO7hc",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>사무<\/b>행정업무는 <b>직무<\/b> 관련 경험을 어떻게 답해야 하나요?",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2107952",
+			"description":"체험형 인턴보면 <b>사무<\/b>행정 <b>직무<\/b>도 자주 보이는데 경력 말고 경험은 어떤게 있으려나요?",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>사무직무<\/b>경험",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1275977",
+			"description":"공기업 <b>사무<\/b>직 이제 막 준비단계입니다 기본 스펙은 해놨고, ncs랑 전공공부 중인데 인턴관련 <b>직무<\/b>경험이 없네요 혹시 장교출신 예비역중위도 <b>직무<\/b>경험이 될 수 있나요?",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"대학생 알바 및 인턴 등 방학에 할만한 활동 추천!",
+			"link":"http:\/\/cafe.naver.com\/specup\/7014635",
+			"description":"경영\/<b>사무 직무<\/b>를 모집하며, 채용시, 경기분단구에서 근무하게 된다고하네요! 홈페이지에서 접수 가능합니다:) 지금까지 방학에 할만한 활동으로 대학생 알바 및 인턴에 대해 소개해드렸습니다. 생각보다 많은... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>사무<\/b>행정 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1761846",
+			"description":"<b>사무<\/b>행정 <b>직무<\/b> 준비중인데요 컴활 1급 하고 2급이 있는데 무조건 1급 노려야할까요? 참고로 컴맹수준이라서 준비만큼 제대로 하려구요 보통 얼마나 걸리죠?",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"무역<b>사무 직무<\/b> 준비하시는 분들",
+			"link":"http:\/\/cafe.naver.com\/specup\/6334228",
+			"description":"안녕하세요 중소,중견 무역<b>사무<\/b>로 취업하고싶은 28살 여자입니다.지방분캠 무역학과 졸업했어요. 이전에... 무역<b>사무<\/b> 준비하시는분들은 어떤 것 주로 준비하시나요?그리고 무역<b>사무<\/b>가 포워딩 같은걸까요? 초보적인... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"기계공학과 취업 및 자격증 리스트 의외로 다양하네요 !",
+			"link":"http:\/\/cafe.naver.com\/mdsv\/30772",
+			"description":"1️⃣ 경영,회계,<b>사무<\/b> •<b>직무<\/b>분야 : 생산관리 ➢ 공장관리, 포장기술사(기사,산업기사) 품질관리기술사(기사,산업기사) 등 2️⃣ 건설 •직무분야: 건축 ➢ 건축구조기술사, 건축기계설비 건축기사(산업기사) 건축목공... ",
+			"cafename":"산업마스터-산업안전기사,위험물산업기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mdsv"
+		},
+		{
+			"title":"교보생명 <b>사무<\/b>지원직 지원하신분?",
+			"link":"http:\/\/cafe.naver.com\/dokkm\/2544155",
+			"description":"공채 지원 당시 저랑 적합해보이는건 <b>사무<\/b>지원 <b>직무<\/b>인거같아서 채용 후기나, 연봉같은 부분에 대해서 별달리 조사를 안했었거든용 이번에 어째 서합하고 필기까지 치고나서 조사를 해보니까 알고보니... ",
+			"cafename":"독금사-금융자격증,AFPK,CFP,전산회계...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokkm"
+		},
+		{
+			"title":"한전 <b>사무 직무<\/b>면접에서 어떤 질문 하나요?",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1437322",
+			"description":"한전은 pt 토론 면접없이 <b>직무<\/b>면접만 1차로 보는거로 아는데 어떤식으로 진행되는지 궁금합니다 말그대로 <b>직무<\/b>기술서에 있는 <b>직무<\/b>에 관한 지식을 물어보는 건가요? 회계 재무 인사 등등.... 공취사 BEST... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"공기업 <b>직무<\/b> <b>사무<\/b>행정 준비! 국민내일배움카드로 ncs<b>직무<\/b>고육 듣는중~",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2336606",
+			"description":"저는 지금 공기업 <b>사무<\/b>행정직 <b>직무<\/b>에 취업 하기 위해서 준비하고있는 취준생입니다! 현재 2월6일에 있을 한국사 시험에서 1급 취득을 위해 열심히 공부하고 있는데요! 한국사 시험 준비뿐만아니라 공기업... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"공기업 <b>사무<\/b>행정직 어떤 자격증을 필요로 할까요? 공기업 <b>사무<\/b>직 합격 스펙까지 확인해 보자!",
+			"link":"http:\/\/cafe.naver.com\/gamnyang\/285472",
+			"description":"공기업별 우대 자격증 확인하기 공기업 <b>사무<\/b>직 공기업 <b>사무<\/b>행정직 공기업 <b>사무<\/b>직에는 <b>사무<\/b>행정, 기획<b>직무<\/b>, 회계<b>직무<\/b>, 재무<b>직무<\/b>, 인사<b>직무<\/b> 로 구성되어있습니다. 공기업 <b>사무<\/b>행정직은 조직이나 부서 구성원들이... ",
+			"cafename":"딱공기업-공기업을 준비하는 사람들의...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gamnyang"
+		},
+		{
+			"title":"[<b>사무직무<\/b>]<b>사무직무<\/b> 자소서 첨삭 부탁 드립니다.",
+			"link":"http:\/\/cafe.naver.com\/specup\/5626713",
+			"description":"지원분야(직무) <b>사무직무<\/b> 3. 자소서 첨삭 요청사항 4. 자소서 첨삭 마감기간 자소서 첨삭 받는 기업의 인재상 또는 비전 정보를 표안에 캡쳐해서 첨부해주세요.더욱 자세한 자소서 첨삭이 가능합니다. 자소서 첨삭받을... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"7월 모집중인 대학생 서포터즈와 인턴 추천!",
+			"link":"http:\/\/cafe.naver.com\/specup\/7028038",
+			"description":"경영\/<b>사무 직무<\/b>이며 서울 영등포가 근무지라고 합니다:) 출처: 링커리어 담당업무는 정기채용 행사를 지원하는것인데요. 지원을 원한 경우, 반드시 대학교 학사 이상이어야 한다고 해요!! 롯데중앙연구소 출처: 링커리어... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"코레일 <b>사무 직무<\/b>,기업 분석 같이하실분 (중부 이외 지역)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1722983",
+			"description":"면접 스터디는 이미 하고 있는데,, 서로 다른 직무라 기업 분석이 부족해 같이 기업 분석하실 분 구해요. <b>사무직무<\/b>인데 중부권 아닌분 모집해요 장소는 목동,신도림, 문래 생각합니다. 문자주세요 ***-****-****",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>직무<\/b> 관련 없는 인턴 vs 원하는 <b>직무<\/b> <b>사무<\/b>보조",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/8462551",
+			"description":"<b>직무<\/b>랑 관련 없는 인턴이 나을까요 아니면 원하는 <b>직무<\/b> 관련 있는 <b>사무<\/b>보조가 나을까요??ㅠㅠ 사실 원하는 <b>직무<\/b>인지도 확실한 게 아닌 경험하고 싶은 <b>직무<\/b>라서 너무 고민되네요... 어떤 선택이 더 좋은 경험이 될까요?ㅠㅠ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>사무<\/b> 역량 어떻게 써야 할지 막막하네요ㅠ",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2005177",
+			"description":"<b>사무 직무<\/b> 준비하시는 분들 역량 쓸때 태도가 중심이 아닌 지식과 기술을 바탕으로 사무 쪽에서 다들 역량 어떻게 나타내시나요? 사무쪽은 특히 도달한 성과 같은게 쓸게 없지 않나요ㅠ? 혹시 사무 자소서 합소서나 어떻게... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"한전 <b>사무<\/b> 고졸 <b>직무<\/b>면접 온라인 스터디하실분계신가요?",
+			"link":"http:\/\/cafe.naver.com\/biggiup\/119328",
+			"description":"한전 <b>사무<\/b> 고졸 <b>직무<\/b>면접 온라인 스터디하실분계신가요? 오프라인으로 따로 모여서 준비하는것보다 zoom같은 프로그램을 통해 온라인 면접과 카톡방으로 정보공유등을 통해 준비하실분계신가요? 댓글 남겨주세요!!",
+			"cafename":"고졸 채용 (취업, 공채) 시험을 준비하...",
+			"cafeurl":"https:\/\/cafe.naver.com\/biggiup"
+		},
+		{
+			"title":"대학현장실습) 중견기업 단순<b>사무 직무<\/b> vs 중소기업 원하는 직무",
+			"link":"http:\/\/cafe.naver.com\/specup\/6563076",
+			"description":"단순 <b>사무 직무<\/b>는 거의 90% 합격됩니다. 원래 마케팅 쪽으로 넣어놨는데 학교 측에서 변경가능하다고 연락이 왔습니다. 이번에 안되면 마케팅 직무를 하려면 중소기업이 선택지가 될 확률이 높은데 차라리... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"[재공고-(주)한국미스미] <b>사무<\/b>보조직 1명 채용(~6.24)",
+			"link":"http:\/\/cafe.naver.com\/samsunghandicap\/169118",
+			"description":"○ 사업체명 : (주)한국미스미 * 일본계 무역회사 ○ 근무지 : 서울시 강남구 영동대로511 무역센터 1103호 ○ <b>직무<\/b> : <b>사무<\/b>보조직 → 우편물 수령 및 정리 전달, 우체국 방문 발송 및 법인카드 전표처리, 간단한... ",
+			"cafename":"[삼.장.사]삼십만 장애인이 취업하는 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/samsunghandicap"
+		},
+		{
+			"title":"교원 채용! 일반<b>사무 직무<\/b> 채용 (~01\/16)",
+			"link":"http:\/\/cafe.naver.com\/goodlab\/205402",
+			"description":"일반<b>사무 직무<\/b> 채용 (~01\/16) 채용 직무 : 일반사무전형 절차 : 서류전형 - 온라인역량진단 - 1차면접 - 2차면접 - 채용 신체검사 접수 기간 : 01월 10일(수) ~ 01월 16일(화) 23시 채용 접수 사이트 바로가기 ▶ 교원그룹... ",
+			"cafename":"잡코리아 좋은일연구소 -취업,채용,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goodlab"
+		},
+		{
+			"title":"<b>사무<\/b>행정 <b>직무<\/b> 지원동기 쓰기 어렵네요",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1826082",
+			"description":"회사 지원동기 쓰는거보다 오히려 행정<b>직무<\/b> 지원동기 쓰는게 더 어려운 것 같아요 ㅠㅠ 인문계라 기술직 지원 못해서 행정 쓰는건데...ㅎㅎ.. 작성 팁이나 도움 받을만한 책, 유튜브 같은거 있을까요??... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"팜한농 채용! <b>사무 직무<\/b> 채용 (~02\/14)",
+			"link":"http:\/\/cafe.naver.com\/goodlab\/210133",
+			"description":"<b>사무 직무<\/b> 채용 (~02\/14) 채용 직무 : 사무, 영업지원전형 절차 : 서류전형 - 인성검사 - 면접 - 최종전형접수 기간 : 2월 6일(화) ~ 2월 14일(수) 11시 채용 접수 사이트 바로가기 ▶ 팜한농에서 <b>사무 직무<\/b>로 근무할 사원을... ",
+			"cafename":"잡코리아 좋은일연구소 -취업,채용,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goodlab"
+		},
+		{
+			"title":"LH 필기 <b>사무<\/b> 전공 <b>직무<\/b>역량이 뭘까요?",
+			"link":"http:\/\/cafe.naver.com\/ispring\/47273",
+			"description":"LH는 이번에 처음 지원해보는데... <b>사무<\/b> 안에서 전문이랑 <b>사무<\/b>행정이랑 나뉘는데 전공시험에서도 다르더라구요.... <b>직무<\/b>역량평가...이게 뭘까요? 뭘 보는건지...",
+			"cafename":"공필모-공기업필기,NCS,전공,공부법,스...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ispring"
+		},
+		{
+			"title":"[서울신용보증재단 채용] <b>사무직무<\/b> 자소서 첨삭 요청드립니다!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1333128",
+			"description":"■ 지원분야(직무) : 서울신용보증재단 <b>사무직무<\/b>■ 자소서 첨삭 요청사항 : 이미 제출한 자소서이긴 하지만, 다른 기업 자소서 준비하는데 있어 조언을 얻고자 합니다. 제가 방송이나 콘텐츠 크리에이터 관련 경험들이... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"[민주화운동기념사업회 채용] 정규직 신입 (회계\/<b>사무<\/b>) (~3\/22)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1911596",
+			"description":"우선 채용직렬입니다 현재 회계\/<b>사무 직무<\/b>를 수행하는 인원 1명을 채용 중에 있습니다. 1명의 인원이지만 정규직 채용을 진행 중이오니 많은 분들의 관심바랍니다. 민주화운동기념사업회 채용관련 가점사항은... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"[킨텍스 채용] 정규직 신입 (일반<b>사무<\/b>-보훈\/회계\/소방\/전기\/<b>사무<\/b>보조-장애) (~4.23)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1938413",
+			"description":"온라인 접수 https:\/\/bit.ly\/3dqcden 첨부파일 <b>사무 직무<\/b>기술서.pdf 파일 다운로드 첨부파일 회계 직무기술서.pdf 파일 다운로드 첨부파일 소방 직무기술서.pdf 파일 다운로드 첨부파일 전기 직무기술서.pdf 파일... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"작년꺼 한국토지주택공사 경쟁률 보고있는데 역시 <b>사무<\/b>일반<b>직무<\/b>는 엄청 치열하네요..",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1636951",
+			"description":"다른곳들도 비슷하겠지만 <b>사무<\/b>일반<b>직무<\/b>같은 경우 가장 사람들이 많이 몰리는 <b>직무<\/b>중에 하나인것 같아용. 작년 상반기 한국토지주택공사 경쟁률 <b>사무<\/b>일반쪽은 111대 1이고 하반기가 무려 257대 1로 굉장히... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"코레일 <b>사무<\/b>영업 <b>직무<\/b> 질문",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1472623",
+			"description":"코레일 <b>사무<\/b>영업 <b>직무<\/b>가 일반이랑 수송으로 나눠져 있더라구요. 막연하게 <b>사무<\/b>영업직으로 들어가면 <b>사무<\/b>실에서 행정 업무 하는 줄 알았는데 거의 다 현장직이어서 조금 놀랐습니다. 일반은 찾아보니 말... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"<b>사무<\/b>관리직 <b>직무<\/b>?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9967241",
+			"description":"아시아나 에어포트 <b>사무<\/b>관리직이 어떤 <b>직무<\/b>를 하는 건가요?",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"SK [에스케이건설] <b>사무<\/b>지원 <b>직무<\/b> 채용 (~8\/23)",
+			"link":"http:\/\/cafe.naver.com\/samsunghandicap\/151152",
+			"description":"SK [에스케이건설] <b>사무<\/b>지원 <b>직무<\/b> 채용 (~8\/23) 채용공고 자세히 보기 ▶ http:\/\/joburl.kr\/Etum9 자발적으로 퇴사해도 실업급여를 받을 수 있을까요? (click!) 코로나 시대에 성공적인 해외채용 사례 (click!)",
+			"cafename":"[삼.장.사]삼십만 장애인이 취업하는 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/samsunghandicap"
+		},
+		{
+			"title":"(주)한국엔지니어링 감리단 <b>사무<\/b>여직원 채용",
+			"link":"http:\/\/cafe.naver.com\/cds7500\/45624",
+			"description":"<b>직무<\/b> : 단순 일반<b>사무<\/b> 보조 5. 고용형태 : 근로계약 12개월 (근무기간 : 2022.08 ~ 2023.09) 6. 근무시간 : 08:30~17:30 7. 근무형태 : 주5일 근무 8. 급여 : 월 200만원 (4대보험 가입, 점심식사 제공) 9. 접수마감... ",
+			"cafename":"충북혁신도시닷컴",
+			"cafeurl":"https:\/\/cafe.naver.com\/cds7500"
+		},
+		{
+			"title":"LG디스플레이 <b>사무 직무<\/b> 생각하고 있는데 인적성 팁이 있을까요?",
+			"link":"http:\/\/cafe.naver.com\/specup\/6296011",
+			"description":"*동일 회사\/<b>직무<\/b> 지원자 스펙보고 현타왔습니다(클릭)*취업난에 연봉 2,700주는 중소라도 가야할까요?(클릭)... *동일 회사\/<b>직무<\/b> 지원자 스펙보고 현타왔습니다(클릭)*취업난에 연봉 2,700주는 중소라도 가야할까요?(클릭)... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"[대기업] 대만 신주 회계\/<b>사무<\/b>\/노무관리 <b>직무<\/b> 경력직 채용 정보",
+			"link":"http:\/\/cafe.naver.com\/fomosa\/112070",
+			"description":"대만 현지 회계\/<b>사무<\/b>\/노무 경험 및 관련 지식이 풍부한 분들 위주로 많은 관심 부탁드립니다. 업종 : 반도체 대상 : 한국어가 모국어인 대만 거류자(국적 무관) 학력 : 학사 이상 경력 : 관련 <b>직무<\/b> 5년 이상 위치... ",
+			"cafename":"아름다운 섬 대만 포모사",
+			"cafeurl":"https:\/\/cafe.naver.com\/fomosa"
+		},
+		{
+			"title":"2022년 상반기 인천국제공항공사 채용 필독사항! (+경쟁률 체크까지!)",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1862074",
+			"description":"<b>사무 직무<\/b>에 대한 경쟁률 뿐만아니라 기술 직무에 대한 경쟁률도 정리되어있으니 하단의 게시글 링크를 통해서 인천국제공항공사 경쟁률 내용까지 확인하시고 이번 2022년 상반기 인천국제공항공사 채용을... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"무역<b>사무 직무<\/b>에 무역영어와 국제무역사 정도 있으면 충분하겠죠?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/8576538",
+			"description":"무역<b>사무 직무<\/b>에 지원하고자 할 때 무역영어와 국제무역사 정도 있으면 충분하겠죠? 더 필요한게 있을까요?",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[국민건강보험공단 채용]일반 <b>사무<\/b>\/행정 <b>직무<\/b> 자소서 첨삭 부탁드립니다.",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1899857",
+			"description":"■ 지원분야(<b>직무<\/b>) : 일반 <b>사무<\/b>\/행정 ■ 자소서 첨삭 요청사항 : 자소서의 장점과 단점을 명확히 구분해서 추후 자소서 작성에 유의할 수 있었으면 좋겠습니다. ■ 첨삭받은 자기소개서 텍스트 내용을 하단에... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"<b>사무 직무<\/b>관련 질문드립니다",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/892088",
+			"description":"대부분 공기업이 <b>사무<\/b>로 인원을 뽑는데요 실제 가면 어떤일을 하는지 어느 부서에 티오가 있는지 알아야 어느정도 맞춰서 자소서, 면접 준비를 할텐데 관련 정보를 얻는 방법이 있나요?",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"무역<b>사무<\/b>관련",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10824387",
+			"description":"무역<b>사무 직무<\/b> 연봉은 어느정도 일까요? ㅠㅠ 51회 한국사 정답 확인하기 https:\/\/bit.ly\/2YL9tzZ 꼭 봐야할 이번주 독취사 인기글 * 대기업 취업 확실하게 준비하는 방법 ▶ https:\/\/bit.ly\/2XrufUy * OO... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"1순위 공기업 정할 때 고려하는 요소?(<b>사무<\/b>행정 <b>직무<\/b>)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10002510",
+			"description":"졸업하고 이제 막 취준을 시작한 취린입니다 사회학과라 전공을 토대로 <b>직무<\/b>를 선택하기가 힘들어 일반<b>사무<\/b>행정을 지원할 예정인데 희망 공기업 및 우선순위 정할때 무엇을 보고 선택하시나요?? <b>직무<\/b>환경을 보고... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"공기업 <b>사무직무<\/b> 토익 점수",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10450466",
+			"description":"공기업 <b>사무<\/b>직에 지원하려면 안전하게 850은 해야겠죠..? 꼭 봐야할 이번주 독취사 인기글 * 신입사원은 꼭 알아야할 직장생활 요령 ▶ https:\/\/bit.ly\/34We4DW * 363개 공기업 신입초봉&amp;평균연봉 ▶ https... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"농협은행 <b>사무<\/b>보조 <b>직무<\/b>는?",
+			"link":"http:\/\/cafe.naver.com\/samsunghandicap\/137701",
+			"description":"이번 농협계열사중 농협은행 <b>사무<\/b>보조 지원했는데 <b>사무<\/b>보조 <b>직무<\/b>는 처음이라 궁금하네요..업무량이 많을지 이리저리 불려다는건 아닌지 궁금하네요..은행 <b>사무<\/b>보조 경험있으신분 조언 구해봅니다 게시판성격에 맞지 않는... ",
+			"cafename":"[삼.장.사]삼십만 장애인이 취업하는 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/samsunghandicap"
+		},
+		{
+			"title":"비상경계 공공기관 행정,<b>사무직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7003248",
+			"description":"제가 자연계과목,이과인데.. 취업을 <b>사무<\/b>,행정쪽으로하고싶은 학생입니다 교육이수사항같은거는..어떻게채워야할까요ㅠ 너무나 초보입니다.",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"회사 <b>사무<\/b>직원 <b>직무<\/b>교육을 22년도에 실시 하려고 합니다.",
+			"link":"http:\/\/cafe.naver.com\/ak573\/694971",
+			"description":"1인 1<b>직무<\/b>교육을 22년도에 실시할까 하는데 교육기관에 대한 정보가 부족해서 문의 드립니다. 리더쉽교육 \/ CS교육 \/ HR교육 등등이 필요할 듯 한데 다 다른곳에서 받아야 하는지 생소하여 문의드립니다. 많은 조언... ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"서울교통공사 채용! 공통, <b>사무 직무<\/b> 채용 (~10\/20)",
+			"link":"http:\/\/cafe.naver.com\/goodlab\/190768",
+			"description":"공통, <b>사무 직무<\/b> 채용 (~10\/20) 채용 직무 : 공통, 사무 전형 절차 : 서류전형 - 필기시험 - 인성검사 - 면접 접수 기간 : 10월 13일(금) ~ 10월 20일(금) 17시 채용 접수 사이트 바로가기 ▶ 서울교통공사에서 공통, <b>사무 직무<\/b>로... ",
+			"cafename":"잡코리아 좋은일연구소 -취업,채용,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goodlab"
+		},
+		{
+			"title":"25살 남자 in seoul 일반 <b>사무<\/b>나 인사 <b>직무<\/b> 지원 스펙입니다.",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2425529",
+			"description":"지원하고자 하는 기업명\/<b>직무<\/b>를 적어주세요 - 기업명 : 미정 - 지원직렬: 인사\/ <b>사무<\/b> 간단한 스펙을 공유해주세요. - 학교\/전공\/학점 : 건동홍라인 \/ 경영학과 \/ 4.2 - 어학(토익\/토스\/오픽 등) : 토익 920 - 자격증 (컴활... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"일반<b>사무<\/b>\/행정직 준비생 질문 드립니다.",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1559499",
+			"description":"<b>사무직무<\/b> 준비생인데도 토익 점수가 낮아서 올리고 싶지만, <b>사무직무<\/b> 지원자격이 700인 기관도 많고 필기시험에 대한 공부를 준비해야하는 생각에 토익에 시간을 할애하기가 부담이 되서 조언을 구하고자... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>직무<\/b>(행정)는 선택했는데 공기업을 어떻게 선택해야할지...",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2645098",
+			"description":"지원기업\/ 지원전형 : 지원시기 : 지원직렬 : 문의구분 (서류\/ NCS&amp;필기\/ 면접) : <b>직무<\/b>는 <b>사무<\/b> 행정으로 가고싶은데 공기업을 어떻게 선택해야할지 모르겠습니다. ㅠㅠㅠ 알리오 뒤져보기도하고 지역별로 보기도하고... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"지도사 <b>직무<\/b>규정중 <b>사무<\/b>관리가 있네?",
+			"link":"http:\/\/cafe.naver.com\/kinnofedu\/36378",
+			"description":"등 여러가지 학설이 있었읍니다 근데 최근들어서는 <b>사무<\/b>관리가 가미된 위임계약설이 강력하게 등장합니다 <b>사무<\/b>관리의 본질을 알게되는것이지요 지도사의 <b>직무<\/b>중 <b>사무<\/b>관리,, 음 지도사들에게는 막강한 무기가 될 것입니다",
+			"cafename":"키노프 경영지도사",
+			"cafeurl":"https:\/\/cafe.naver.com\/kinnofedu"
+		},
+		{
+			"title":"한전 고용디딤돌 <b>사무 직무<\/b>교육 받아보신 분 있으신가요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7488863",
+			"description":"고용디딤돌에 대한 내용이 얼마안나와있어서요 ㅠㅠ <b>사무 직무<\/b>교육 받아 보신분 계신가요?? 독취사 BEST 글 더보기! [토익] 단어만 잘 외워서 500점→780점 달성한 후기 [9] [토익] 두달 공부해서 토익 900점 돌파한... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"KGC인삼공사 채용! 일반<b>사무 직무<\/b> 등 신입사원 채용 (~09\/22)",
+			"link":"http:\/\/cafe.naver.com\/goodlab\/182386",
+			"description":"일반<b>사무 직무<\/b> 등 신입사원 채용 (~09\/22) 채용 직무 : 일반사무, 시공감리, SCM, IT, 제조, 품질, 재무회계, R&amp;D, 제조, 기술전형 절차 : 입사지원 및 인성검사 - 적성검사 및 역량(1차)면접 - 임원(2차)면접접수 기간 : 9월... ",
+			"cafename":"잡코리아 좋은일연구소 -취업,채용,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goodlab"
+		},
+		{
+			"title":"<b>사무직무<\/b> 자소서 쓸때",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1257319",
+			"description":"딱히 지금 해당<b>직무<\/b>를 한건 대학시절 동아리 홍보를 위해 기획한거랑 군복무때 행정병차출로 서류업무한거 뿐인데 자소서에 <b>직무<\/b>로 기입할 수 있을까여??? ------------------------------------------------------------*가입인사... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"현대캐터링시스템 채용! 운영관리,행정<b>사무 직무<\/b> 채용 (~02\/13)",
+			"link":"http:\/\/cafe.naver.com\/goodlab\/210017",
+			"description":"운영관리,행정<b>사무 직무<\/b> 채용 (~02\/13) 채용 직무 : 운영관리,행정사무전형 절차 : 서류전형 - 1차면접 - 2차면접 접수 기간 : 2월 6일(화) ~ 2월 13일(화) 23시 채용 접수 사이트 바로가기 ▶ 현대커터링시스템에서 운영관리... ",
+			"cafename":"잡코리아 좋은일연구소 -취업,채용,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goodlab"
+		},
+		{
+			"title":"<b>사무 직무<\/b> 자격증 어떤 거 준비하는 게 좋은가요?",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/962803",
+			"description":"준비 시작한 지 얼마 안 되어서 모르는 게 많은데..<b>사무<\/b>업무는 자격증 뭘 준비하는 게 좋은가요? 지금 한국사1 밖에 없으뮤ㅠㅠㅠ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"SK [에스케이건설] <b>사무<\/b>지원 <b>직무<\/b> 채용 (~8\/23)",
+			"link":"http:\/\/cafe.naver.com\/ableadmin\/45618",
+			"description":"SK [에스케이건설] <b>사무<\/b>지원 <b>직무<\/b> 채용 (~8\/23) 채용공고 자세히 보기 ▶ http:\/\/joburl.kr\/Etum9 자발적으로 퇴사해도 실업급여를 받을 수 있을까요? (click!) 코로나 시대에 성공적인 해외채용 사례 (click!)",
+			"cafename":"장애인 행정 도우미",
+			"cafeurl":"https:\/\/cafe.naver.com\/ableadmin"
+		},
+		{
+			"title":"한국남부발전 채용, 서류 경쟁률 장난 아니었네요,, <b>사무<\/b>ㄷㄷ,,",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1480642",
+			"description":"한국남부발전 채용 경쟁률 직렬별로 보니, 경쟁률이 가장 높은 직렬은 역시, <b>사무 직무<\/b>였습니다. 한국남부발전 채용 <b>사무 직무<\/b> 경쟁률은 선발자 184명에 지원자 2439명으로 13.2 : 1의 경쟁률을 기록했습니다.... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"[서울] 코레일 <b>사무<\/b>영업 상황면접 스터디 모집합니다!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1886988",
+			"description":"<b>사무<\/b>영업<b>직무<\/b> 상황면접 대비 예정입니다!! 이왕이면 서울에서 대면 스터디예정이나, 부득이한 경우 비대면도 진행예정입니다. https:\/\/open.kakao.com\/o\/gyZMoPee",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"한전 <b>사무 직무<\/b>면접 보신 분 있나요??",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/1795718",
+			"description":"<b>사무<\/b> 쪽은 대체로 어느 부분을 물어보나요?? 질문 기억나시면 알려주실 수 있나요ㅠ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"NCS, 전공 강의 추천",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2162828",
+			"description":"공린이입니다!! <b>사무 직무<\/b> 준비하고 있구요 혹시 NCS, 전공 강의 추천 해주실 수 있나요?",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"한전 NCS에 대해 알아보고, 준비하기!",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2607110",
+			"description":"직무별로 <b>사무 직무<\/b>는 자원관리능력, 정보관리능력 과목이 추가되며, 전기 직무는 자원관리능력, 기술능력이 추가됩니다. 기타 직무는 정보능력과 기술능력이 추가로 진행됩니다. &amp; ❤️ 놓칠 수 없는 공취모... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"LH <b>사무<\/b> 일반 <b>직무<\/b>역량",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1440031",
+			"description":"한국토지주택공사 하반기 공고를 봤는데 필기전형중에서 <b>사무<\/b> 일반의 '<b>직무<\/b>관련 직업기초능력 심화'가 어떤 내용일까요? 전공시험은 아닌 것 같고 NCS에서 추가 문제가 나오는 건가요? 헷갈리네요... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"부천역 한국전력공사 <b>사무 직무<\/b> 스터디모집합니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/5458203",
+			"description":"안녕하세요. 부천역 월, 수,목 11시부터 2시까지 3시간 한국전력공사 스터디하실분~ 모집합니다. <b>사무직무<\/b>모집합니다. 카톡 honeyboi 카톡 주세요 현재 4명으로 진행하고 있습니다.",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		}
+	]
+}

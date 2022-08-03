@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:36 +0900",
+	"total":2020525,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"라크라메 핸드메이드 <b>공예<\/b> 취미",
+			"link":"https:\/\/blog.naver.com\/marie81a?Redirect=Log&logNo=222817018861",
+			"description":"저는 작년에 핸드메이드 <b>공예<\/b> 취미를 하나 배웠는데요 바로 서양식 매듭 <b>공예<\/b>인 라크라메에요 두꺼운 실을 사용해 다양한 매듭을 지어 모양을 내는 <b>공예<\/b>로 집에서 배울 수 있을 만큼 어렵지 않다는 특징을... ",
+			"bloggername":"해피해피♬",
+			"bloggerlink":"https:\/\/blog.naver.com\/marie81a",
+			"postdate":"20220719"
+		},
+		{
+			"title":"매듭<b>공예<\/b> 집에서 배우고 공방준비 하기",
+			"link":"https:\/\/blog.naver.com\/xodms0515?Redirect=Log&logNo=222818479870",
+			"description":"월행잉, 커튼 등등 인테리어 소품부터 마크라메 네트백 같이 실용적인 제품으로도 활용할 수 있어 좋은 매듭<b>공예<\/b>! 집에서 간단히 즐길 수 있는 취미로 정말 좋은데 저 같은 경우에는 매듭<b>공예<\/b>로 수익까지 내고... ",
+			"bloggername":"[부산떡집] “ 떡굽는 사람 맛디댜 ” 입니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/xodms0515",
+			"postdate":"20220719"
+		},
+		{
+			"title":"리본<b>공예<\/b>자격증 따고 집에서 핸드메이드 악세사리 판매해요",
+			"link":"https:\/\/blog.naver.com\/lucias83?Redirect=Log&logNo=222820904888",
+			"description":"요즘 주변에서 취미생활 한가지쯤 가지고 있는 것 같아서 저도 좀 더 생산적인 삶을 살아볼겸 퇴근 후 집에서 할 수 있는 수<b>공예<\/b>를 좀 알아봤어요. 그러다, 어렸을 때 잠깐 했던 리본<b>공예<\/b>가 떠오르더라구요... ",
+			"bloggername":"항상 오롯하게 안녕하기를",
+			"bloggerlink":"https:\/\/blog.naver.com\/lucias83",
+			"postdate":"20220722"
+		},
+		{
+			"title":"가죽<b>공예<\/b>체험부터 자격증 취득까지 해본 후기",
+			"link":"https:\/\/blog.naver.com\/ss2379?Redirect=Log&logNo=222829662312",
+			"description":"아는 언니랑 일일 가죽<b>공예<\/b>체험에서 카드지갑을 만든 적이 있는데 넘 제 취향을 직격하더라구요 가죽<b>공예<\/b>는 특유의 고급스러운 분위기부터 바느질 하나까지 손수해서 하나뿐인 작품을 제작한다는게 특히... ",
+			"bloggername":"우주의 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/ss2379",
+			"postdate":"20220726"
+		},
+		{
+			"title":"라탄<b>공예<\/b>자격증 용돈 벌기 딱이에요!",
+			"link":"https:\/\/blog.naver.com\/chaimin80?Redirect=Log&logNo=222822222855",
+			"description":"라탄<b>공예<\/b>죠? 심지어 요즘은 취미, 자급자족에서 끝이 아니라 직접 만든 작품 온라인으로 판매까지 할 수 있답니다 :) 문득 관심 갖게 된 라탄<b>공예<\/b> 배우기 시작해 라탄<b>공예<\/b>자격증 취득까지 딱 3개월 그리고 지금은... ",
+			"bloggername":"오래오래 행복한 롱런이",
+			"bloggerlink":"https:\/\/blog.naver.com\/chaimin80",
+			"postdate":"20220721"
+		},
+		{
+			"title":"가죽<b>공예<\/b>도구, 재료 아끼며 고급 작품까지 마스터함",
+			"link":"https:\/\/blog.naver.com\/ilovelavan?Redirect=Log&logNo=222808217000",
+			"description":"너무나 매력적인 가죽<b>공예<\/b>! 실용성까지 만점이라 가죽제품 없는 생활은 상상하기 힘들 정도인데요.... 가죽<b>공예<\/b>독학하시는 분들의 후기도 찾아봤어요. 그런데 가죽공방에서 배우면 수강료가 너무 비싸고... ",
+			"bloggername":"징징이는 365일 징징징",
+			"bloggerlink":"https:\/\/blog.naver.com\/ilovelavan",
+			"postdate":"20220712"
+		},
+		{
+			"title":"떡<b>공예<\/b>자격증 재료\/도구까지 제공!",
+			"link":"https:\/\/blog.naver.com\/chomujoo79?Redirect=Log&logNo=222829768803",
+			"description":"떡<b>공예<\/b>자격증 따고 어린이 떡클래스, 성인 취미반으로 다른 사람들 가르치는 일도 시작했어요 떡<b>공예<\/b>는 사실 찌기만 하면 끝이라 웬만한 요리나 베이킹보다 훨씬 쉽고 만들기도 간편해요 딱 3개월만 배우면... ",
+			"bloggername":"언제나 블링블링하게",
+			"bloggerlink":"https:\/\/blog.naver.com\/chomujoo79",
+			"postdate":"20220726"
+		},
+		{
+			"title":"라탄<b>공예<\/b> 배우기, 재료 받고 자격증도 따고",
+			"link":"https:\/\/blog.naver.com\/hosuk6564?Redirect=Log&logNo=222815404383",
+			"description":"라탄<b>공예<\/b> 배우기, 재료 받고 자격증도 따고 요즘 제가 만든 라탄<b>공예<\/b> 결과물들로 집 안 곳곳 여름인테리어를 하고 있는데요, 이 계절을 위해서 제가 라탄<b>공예<\/b>를 시작했나!? 싶을 정도로 여름과 라탄의 조합은... ",
+			"bloggername":"당신은 이 시대의 멋쟁이",
+			"bloggerlink":"https:\/\/blog.naver.com\/hosuk6564",
+			"postdate":"20220717"
+		},
+		{
+			"title":"떡<b>공예<\/b>자격증 집에서 취득한 꿀팁!",
+			"link":"https:\/\/blog.naver.com\/nike8319?Redirect=Log&logNo=222818520312",
+			"description":"떡<b>공예<\/b>! 저희 딸아이도 저를 닮아 떡순이라 매번 떡 사 먹는 비용도 만만치 않고 해서 제가 직접... 떡<b>공예<\/b>자격증 과정이 있어 완전 만족스러웠어요! 전 이렇게 온라인 강의로 배웠는데요 떡 교육기관 알아보면... ",
+			"bloggername":"용쓰마켓 수다이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/nike8319",
+			"postdate":"20220719"
+		},
+		{
+			"title":"가죽<b>공예<\/b>공방 집에서 지갑 만들기 체험해요",
+			"link":"https:\/\/blog.naver.com\/migatorang?Redirect=Log&logNo=222808513150",
+			"description":"키링에 네임택에 팔찌에 흔히 알고 있는 가죽지갑이나 가방 말고도 요즘 가죽<b>공예<\/b>공방 제작할 수 있는... 가죽<b>공예<\/b>공방은 배우려면 흔히 재료비부터 수강료까지 드는 비용이 적지 않아서 귀족<b>공예<\/b> 라고도 알고... ",
+			"bloggername":"Torang",
+			"bloggerlink":"https:\/\/blog.naver.com\/migatorang",
+			"postdate":"20220716"
+		},
+		{
+			"title":"서울<b>공예<\/b>박물관 : 로에베 <b>공예<\/b> 프라이즈",
+			"link":"https:\/\/blog.naver.com\/visualeditor?Redirect=Log&logNo=222819535627",
+			"description":"한국 <b>공예<\/b>가가 수상해 장안의 화제인 로에베 재단 2022 <b>공예<\/b>상 전시. <b>공예<\/b>박물관 오픈하기 전에만 와보고 궁금했던 터였는데, 전시도 볼겸 겸사겸사 방문. 다다손손에서 (지금도 하는지는 모르겠다) 계절 별로... ",
+			"bloggername":"VISUAL EDITOR",
+			"bloggerlink":"https:\/\/blog.naver.com\/visualeditor",
+			"postdate":"20220719"
+		},
+		{
+			"title":"비즈<b>공예<\/b>키트 공짜로 받고 배웠어요",
+			"link":"https:\/\/blog.naver.com\/destiny6852?Redirect=Log&logNo=222822486812",
+			"description":"비즈<b>공예<\/b>키트를 무료로 주는 곳이 있더라고요!! 일반적으로 공방을 가서 배울텐데 저는 본업이 따로... 비즈<b>공예<\/b>키트를 무료로 보내줘요 평 플라이어, 라운드플라이어, 니퍼, 오링반지부터 각 차시별로 필요한... ",
+			"bloggername":"프레스티지",
+			"bloggerlink":"https:\/\/blog.naver.com\/destiny6852",
+			"postdate":"20220722"
+		},
+		{
+			"title":"비즈<b>공예<\/b>재료 구매 전 보면 좋아요",
+			"link":"https:\/\/blog.naver.com\/raphy324?Redirect=Log&logNo=222819094641",
+			"description":"비즈<b>공예<\/b>재료 구매 전 알아두심 좋을 꿀 정보 공유해요 :) 저 같은 경우 비즈<b>공예<\/b>재료 따로 구매하지 않고 초도 세트 전부 무료로 받아 배웠는데요 심지어 잘~ 배운 지금은 제가 만든 각종 비즈 아이템 판매까지... ",
+			"bloggername":"글쓰고 만들고 사람도 좋아하는",
+			"bloggerlink":"https:\/\/blog.naver.com\/raphy324",
+			"postdate":"20220719"
+		},
+		{
+			"title":"서양매듭<b>공예<\/b> 체계적으로 배우는 법",
+			"link":"https:\/\/blog.naver.com\/marie81a?Redirect=Log&logNo=222818508708",
+			"description":"기초부터 제대로 서양매듭<b>공예<\/b> 배우고 싶다면 체계적인 커리큘럼을 보유하고 있는 곳에서 시작하는... 서양매듭<b>공예<\/b> 클래스를 이수했는데요 초급부터 고급까지의 과정을 체계적으로 구성하고 있었을 뿐 아니라... ",
+			"bloggername":"해피해피♬",
+			"bloggerlink":"https:\/\/blog.naver.com\/marie81a",
+			"postdate":"20220721"
+		},
+		{
+			"title":"리본<b>공예<\/b>자격증 이렇게 돈 벌어요(+쉽게 따는 팁)",
+			"link":"https:\/\/blog.naver.com\/xodms0515?Redirect=Log&logNo=222824084780",
+			"description":"리본<b>공예<\/b>자격증을 따고 나서 내가 만든 소품을 판매하기도 하고 소소하게 강의도 진행하고 있어요... 리본<b>공예<\/b>자격증 취득하려고 한 목적이 수익을 내기 위해서였거든요 자격증이 있어야 고객이나 수강생들한테... ",
+			"bloggername":"[부산떡집] “ 떡굽는 사람 맛디댜 ” 입니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/xodms0515",
+			"postdate":"20220722"
+		},
+		{
+			"title":"가죽<b>공예<\/b>배우기 공방 안가도 충분히 할 수 있어요",
+			"link":"https:\/\/blog.naver.com\/lucias83?Redirect=Log&logNo=222820829665",
+			"description":"그러다보니 자연스레 취미 생활도 가죽<b>공예<\/b>에 눈길이 갔어요. 재료도 따로 없고 어려워보여서 가죽<b>공예<\/b>배우기에는 공방이 가장 괜찮겠다 싶어 클래스 알아봤었거든요? 그런데 요번에 온라인 클래스 통해서... ",
+			"bloggername":"항상 오롯하게 안녕하기를",
+			"bloggerlink":"https:\/\/blog.naver.com\/lucias83",
+			"postdate":"20220720"
+		},
+		{
+			"title":"라탄<b>공예<\/b>키트 사지않고 무료로 받아 배운 방법",
+			"link":"https:\/\/blog.naver.com\/ss2379?Redirect=Log&logNo=222809747733",
+			"description":"친구들과 최근 인기있는 취미에 대해 이야기하다보면 라탄<b>공예<\/b>는 꼭 나오더라구요 힐링도 되고 요걸로 자격증 취득도 가능하다면서요 하지만 라탄<b>공예<\/b>에 도전하려면 라탄<b>공예<\/b>키트 구매가 필수적으로... ",
+			"bloggername":"우주의 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/ss2379",
+			"postdate":"20220713"
+		},
+		{
+			"title":"비누<b>공예<\/b>자격증 공부하고 수제비누 판매부터 클래스까지!",
+			"link":"https:\/\/blog.naver.com\/ilovelavan?Redirect=Log&logNo=222818325057",
+			"description":"취미든 창업이든 여러 목적으로 비누<b>공예<\/b>를 많이 배우시는데요. 제가 배우고 싶은 이유는 후자에 가까웠어요. 비누<b>공예<\/b>를 배워 돈 벌고 싶었거든요. 취미로 만드는 것도 재밌겠지만 기왕이면 더 똑똑하게... ",
+			"bloggername":"징징이는 365일 징징징",
+			"bloggerlink":"https:\/\/blog.naver.com\/ilovelavan",
+			"postdate":"20220719"
+		},
+		{
+			"title":"나만의 타일<b>공예<\/b> 컵코스터 만들기 DIY 키트 ::: 아이두",
+			"link":"https:\/\/blog.naver.com\/iamsys80?Redirect=Log&logNo=222827399173",
+			"description":"나만의 타일<b>공예<\/b> 컵코스터 만들기 DIY 키트 ::: 아이두 요즘은 만들기 diy 키트 종류가 참 다양한데요. 이번에는 타일<b>공예<\/b>에 도전해보았어요. 컬러풀한 사각타일들이 모여 예쁘고 실용적인 컵코스터가... ",
+			"bloggername":"프롬시스",
+			"bloggerlink":"https:\/\/blog.naver.com\/iamsys80",
+			"postdate":"20220724"
+		},
+		{
+			"title":"가죽<b>공예<\/b>배우기 집에서 성공",
+			"link":"https:\/\/blog.naver.com\/chomujoo79?Redirect=Log&logNo=222823943571",
+			"description":"가죽<b>공예<\/b>배우기는 진입장벽이 높은 수<b>공예<\/b> 중 하나에요. 아무래도 돈이 많이 드니까? 저처럼 엄두를 못 내고 계신 분들에게 조금이나마 도움이 되실 수 있도록 제가 공방 없이 집에서 전문 과정까지 마스터... ",
+			"bloggername":"언제나 블링블링하게",
+			"bloggerlink":"https:\/\/blog.naver.com\/chomujoo79",
+			"postdate":"20220722"
+		},
+		{
+			"title":"칠보<b>공예<\/b> \/ 조금기법 2",
+			"link":"https:\/\/blog.naver.com\/ami5729?Redirect=Log&logNo=222829489271",
+			"description":"2022 우수평생학습프로그램 지원사업 전통 칠보<b>공예<\/b> 자격양성 과정 12회차로 시작한 전통 칠보<b>공예<\/b> 자격 양성과정의 막바지로 입니다. 오늘 수업은 조금기법 2 입니다. 조금이란? 금속 표면에 무늬나 질감을... ",
+			"bloggername":"주) 혜강공예*** 한지공예.칠보공예",
+			"bloggerlink":"https:\/\/blog.naver.com\/ami5729",
+			"postdate":"20220726"
+		},
+		{
+			"title":"[취미부자 피기스트] 라탄<b>공예<\/b>(1) 무턱대고 시작하기ㅋ",
+			"link":"https:\/\/blog.naver.com\/piggest_?Redirect=Log&logNo=222826566013",
+			"description":"(ง •̀_•́)ง✧ 취미부자 피기스트의 이번 취미 이야기는 라탄<b>공예<\/b> :D 평소 라탄 제품을 좋아하는데... ㅋㅋ [라탄<b>공예<\/b> 재료구매] 최종적으로 내가 구매한 사이트는 이 곳. (지금은 더 싸고 좋은 판매처가... ",
+			"bloggername":"Piggest : 피기스트",
+			"bloggerlink":"https:\/\/blog.naver.com\/piggest_",
+			"postdate":"20220724"
+		},
+		{
+			"title":"[<b>공예<\/b> 공방 창업] 알유소이캔들 8년차 운영중이예요.",
+			"link":"https:\/\/blog.naver.com\/chicklmj2?Redirect=Log&logNo=222821115089",
+			"description":"알유소이캔들 <b>공예<\/b> 창업 8년차 입니다. 대표 임미정 이고요 ^^ 저는 올해 6월 8년차에 접어들었어요. 저도 제가 이렇게 오래 공방 운영을 할 것이라고는 예상은 못했었고요. 우연한 계기로 시작한 <b>공예<\/b>가 본업이... ",
+			"bloggername":"알유소이캔들",
+			"bloggerlink":"https:\/\/blog.naver.com\/chicklmj2",
+			"postdate":"20220720"
+		},
+		{
+			"title":"강화 화문석문화관, 왕골로 짜는 우리의 전통 <b>공예<\/b>",
+			"link":"https:\/\/blog.naver.com\/kasdy?Redirect=Log&logNo=222830054483",
+			"description":"여름을 시원하게 만들어주는 우리의 전통 <b>공예<\/b>품 화문석을 알리는 ️ 강화 화문석문화관을 알아보아요~ 왕골은 습지에서 자라는 한해살이풀로, 길게 뻗은 줄기의 껍질을 이용해 <b>공예<\/b>품을 제작하는데 주로... ",
+			"bloggername":"한국관광여행신문",
+			"bloggerlink":"https:\/\/blog.naver.com\/kasdy",
+			"postdate":"20220726"
+		},
+		{
+			"title":"비즈<b>공예<\/b>배우기 전문 과정 마스터하기",
+			"link":"https:\/\/blog.naver.com\/migatorang?Redirect=Log&logNo=222830898140",
+			"description":"코로나가 장기화되면서 저도 집에서 보내는 시간이 길어지다 보니 점점 무기력해져서 취미로 뭐라도 배워볼까 하며 시작한 게 비즈<b>공예<\/b>배우기인데요~ 비즈<b>공예<\/b>배우기를 찾아보니 이걸로 집에서 제작해서... ",
+			"bloggername":"Torang",
+			"bloggerlink":"https:\/\/blog.naver.com\/migatorang",
+			"postdate":"20220727"
+		},
+		{
+			"title":"양말<b>공예<\/b> 재료 걱정없이 배우기 시작!",
+			"link":"https:\/\/blog.naver.com\/raphy324?Redirect=Log&logNo=222828736546",
+			"description":"문화센터에서 양말<b>공예<\/b> 원데이 체험을 해보고 너무 쉽고 재미있어서 제대로 배워보기로 했어요... 집에서 양말<b>공예<\/b> 재료 무료로 받고 배워서 잘 팔리는 작품 위주로 배울 수 있는 곳이 있어서 관심있는 분들께... ",
+			"bloggername":"글쓰고 만들고 사람도 좋아하는",
+			"bloggerlink":"https:\/\/blog.naver.com\/raphy324",
+			"postdate":"20220726"
+		},
+		{
+			"title":"가죽<b>공예<\/b>독학해서 돈 버는 사람이 있다?!",
+			"link":"https:\/\/blog.naver.com\/chaimin80?Redirect=Log&logNo=222824572944",
+			"description":"가장 실용적인 <b>공예<\/b>라면 단연 가죽<b>공예<\/b>가 아닐까요? 키링, 지갑, 가방, 티코스터 등 만들어 직접 사용할 수 있는 아이템 정말 다양하잖아요~ 해서 취미로 즐기는 분들 정말 많은데 심지어! 작품 만들어 온라인... ",
+			"bloggername":"오래오래 행복한 롱런이",
+			"bloggerlink":"https:\/\/blog.naver.com\/chaimin80",
+			"postdate":"20220724"
+		},
+		{
+			"title":"라탄<b>공예<\/b>자격증 따자마자 수익 내는 중",
+			"link":"https:\/\/blog.naver.com\/xodms0515?Redirect=Log&logNo=222810061685",
+			"description":"최종 목표로는 라탄 공방 차리고 싶어서 라탄<b>공예<\/b>자격증 먼저 땄어요 수년간 직장 생활을 해오면서... 수<b>공예<\/b> 제품을 선호하는 추세다 보니 전망도 좋고요 그래서 저도 한번 도전해 볼까 싶어 일단... ",
+			"bloggername":"[부산떡집] “ 떡굽는 사람 맛디댜 ” 입니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/xodms0515",
+			"postdate":"20220713"
+		},
+		{
+			"title":"레진<b>공예<\/b>자격증 용돈이 돼요",
+			"link":"https:\/\/blog.naver.com\/lucias83?Redirect=Log&logNo=222822325940",
+			"description":"레진<b>공예<\/b>자격증 취득하니까 이거 이거 용돈벌이 쏠쏠해요 제가 만든 작품 판매도 하고 때론 제 수업도 하고 있는데요 전 애초 수익 목적으로 레진<b>공예<\/b>자격증 따서 바로 목적을 이룬 건데 관심 있는 분들... ",
+			"bloggername":"항상 오롯하게 안녕하기를",
+			"bloggerlink":"https:\/\/blog.naver.com\/lucias83",
+			"postdate":"20220723"
+		},
+		{
+			"title":"서울가볼만한곳 - 주말데이트코스 서울<b>공예<\/b>박물관",
+			"link":"https:\/\/blog.naver.com\/ksy7298?Redirect=Log&logNo=222747425996",
+			"description":"서울<b>공예<\/b>박물관 서울가볼만한곳 검색하면 정말 다양하게 나오는데 저는 그중에서 미술관 가는걸... 로고 <b>공예<\/b> 뭔가 도장같은 느낌도 들구요 로비도 큼직하고 초창기에는 <b>공예<\/b>와 관련된 다양한 자료,정보들이... ",
+			"bloggername":"두 사람 식탁",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksy7298",
+			"postdate":"20220526"
+		},
+		{
+			"title":"초등학생도 만들 수 있는 가죽<b>공예<\/b> 카드지갑만들기 단체수업... ",
+			"link":"https:\/\/blog.naver.com\/leaf130117?Redirect=Log&logNo=222831322330",
+			"description":"초등학생도 만들 수 있는 가죽<b>공예<\/b> 카드지갑 만들기 단체수업 일로가죽공방 X 다송초등학교 안녕하세요 중앙동에 위치한 가죽<b>공예<\/b>출강 다니는 일로가죽공방입니다. 이번에 다대포에 위치한 다송초등학교에... ",
+			"bloggername":"부산 일로가죽공방",
+			"bloggerlink":"https:\/\/blog.naver.com\/leaf130117",
+			"postdate":"20220727"
+		},
+		{
+			"title":"비즈<b>공예<\/b>재료 아끼면서 악세사리부업으로 이어가기",
+			"link":"https:\/\/blog.naver.com\/ilovelavan?Redirect=Log&logNo=222822204280",
+			"description":"집에서 심심할 때 만들어볼까 해서 고른 비즈<b>공예<\/b>! 근데 이게 소소한 용돈벌이도 될 줄 몰랐네요ㅋㅋ 인터넷으로 비즈<b>공예<\/b>재료 조금 구입해서 반지랑 팔찌 하나씩 만들어보다가 재밌어서 완전 빠졌거든요~ 여러... ",
+			"bloggername":"징징이는 365일 징징징",
+			"bloggerlink":"https:\/\/blog.naver.com\/ilovelavan",
+			"postdate":"20220723"
+		},
+		{
+			"title":"가죽<b>공예<\/b> DIY키트로 가방만들기 ::: 비오공방",
+			"link":"https:\/\/blog.naver.com\/iamsys80?Redirect=Log&logNo=222820726683",
+			"description":"가죽<b>공예<\/b> DIY키트로 가방만들기 ::: 비오공방 가죽<b>공예<\/b>를 배우지 않은 초보자들도 쉽게 할 수 있는 가방만들기 DIY키트가 있어서 이번에 도전해보았어요. 집에서 할 수 있는 취미생활로 가죽<b>공예<\/b>를 배워보고... ",
+			"bloggername":"프롬시스",
+			"bloggerlink":"https:\/\/blog.naver.com\/iamsys80",
+			"postdate":"20220720"
+		},
+		{
+			"title":"라탄<b>공예<\/b>자격증 창업지원 받기",
+			"link":"https:\/\/blog.naver.com\/chomujoo79?Redirect=Log&logNo=222819037468",
+			"description":"라탄<b>공예<\/b>의 인기는 하루가 다르게 점점 높아지는 것 같아요 예전에 티비에서 나온 걸 보고 저도 관심이 생겨서 배우기 시작했는데 2개월 만에 라탄<b>공예<\/b>자격증 따고 지금은 방구석 창업으로 꽤 쏠쏠히 벌고... ",
+			"bloggername":"언제나 블링블링하게",
+			"bloggerlink":"https:\/\/blog.naver.com\/chomujoo79",
+			"postdate":"20220719"
+		},
+		{
+			"title":"칠보<b>공예<\/b> - 조금기법 1",
+			"link":"https:\/\/blog.naver.com\/ami5729?Redirect=Log&logNo=222807848394",
+			"description":"2022 우수 평생학습 프로그램 지원사업 &quot;전통 칠보<b>공예<\/b> 자격 양성과정&quot; 조금기법 1 뒷면을 완성한 후... #2022우수평생학습프로그램지원사업 #전통칠보<b>공예<\/b>자격양성과정 #칠보<b>공예<\/b> #조금기법1... ",
+			"bloggername":"주) 혜강공예*** 한지공예.칠보공예",
+			"bloggerlink":"https:\/\/blog.naver.com\/ami5729",
+			"postdate":"20220711"
+		},
+		{
+			"title":"처음 배워보는 라탄 <b>공예<\/b>",
+			"link":"https:\/\/blog.naver.com\/litl_pierrot?Redirect=Log&logNo=222822321702",
+			"description":"얼마 전 일산 아지매의 더 봄 센터에서 진행하는 일일 클래스인 라탄 <b>공예<\/b>를 배우러 다녀왔다. 오랜만에... 라탄 <b>공예<\/b>는 등나무로 만드는 <b>공예<\/b>로 날대, 사릿대, 덧날대 라는 용어를 사용하는데 날대는 작품의... ",
+			"bloggername":"리틀피에로의 비밀노트",
+			"bloggerlink":"https:\/\/blog.naver.com\/litl_pierrot",
+			"postdate":"20220721"
+		},
+		{
+			"title":"유리<b>공예<\/b> 출강일지 : 시흥 정왕평생학습관",
+			"link":"https:\/\/blog.naver.com\/softbomb?Redirect=Log&logNo=222824620667",
+			"description":"이렇게 4회간의 출강을 감사히 잘 마쳤고요, 간단한 유리<b>공예<\/b>의 단계를 지난 후에는 담당자님 또는... 수업도 출강이 가능해요. 반짝반짝 아름다운 유리<b>공예<\/b> 출강 문의는 언제든 연락주세요! :) 카카오톡 softbomb",
+			"bloggername":"감각성장기록",
+			"bloggerlink":"https:\/\/blog.naver.com\/softbomb",
+			"postdate":"20220722"
+		},
+		{
+			"title":"유리<b>공예<\/b>체험 블로잉체험 대부도유리섬박물관에서 나만의... ",
+			"link":"https:\/\/blog.naver.com\/tory0413?Redirect=Log&logNo=222818669320",
+			"description":"유리<b>공예<\/b>체험 블로잉체험 대부도유리섬박물관에서 나만의 컵만들기 지난번 대부도여행때 첫방문했던 대부도유리섬박물관에서 유리<b>공예<\/b>체험 램프워킹으로 티스틱을 만들고 왔었지요! 그런데 그때... ",
+			"bloggername":"반짝반짝 홍♥",
+			"bloggerlink":"https:\/\/blog.naver.com\/tory0413",
+			"postdate":"20220719"
+		},
+		{
+			"title":"마크라메 그물가방 꽃철사로 네트백 만들기(철사 매듭<b>공예<\/b>)",
+			"link":"https:\/\/blog.naver.com\/flute8248?Redirect=Log&logNo=222782601111",
+			"description":"매듭<b>공예<\/b>. 철사<b>공예<\/b> 와이어<b>공예<\/b>로 분류할 수 있어 더욱 매력만점 가방 만들기라 특별함이 담겼으니 지금부터 만드는 과정 잘 보고 한번 만들어보세요. 사이즈 크기에 따라 그물가방 네트백 만들기로, 또는 작은... ",
+			"bloggername":"초록여신 핑거쇼룸",
+			"bloggerlink":"https:\/\/blog.naver.com\/flute8248",
+			"postdate":"20220621"
+		},
+		{
+			"title":"라탄<b>공예<\/b>재료 안 산 이유",
+			"link":"https:\/\/blog.naver.com\/chaimin80?Redirect=Log&logNo=222817343585",
+			"description":"제가 라탄<b>공예<\/b>재료 따로 안 산 이유! 전 따로 구매할 필요 없이 전부 무료로 받아 배웠거든요! 지금은... 라탄<b>공예<\/b>재료 무료로 배우기 시작해 수입원으로 연결한 방법 공유해 볼게요 :) 감성 가득한 라탄 소품이 제... ",
+			"bloggername":"오래오래 행복한 롱런이",
+			"bloggerlink":"https:\/\/blog.naver.com\/chaimin80",
+			"postdate":"20220718"
+		},
+		{
+			"title":"가죽<b>공예<\/b>배우기 시작하고 집에서 창업",
+			"link":"https:\/\/blog.naver.com\/xodms0515?Redirect=Log&logNo=222809988613",
+			"description":"가죽<b>공예<\/b>의 매력은 정말 무궁무진한 것 같아요 지갑부터 명함케이스, 벨트, 가방, 팔찌 등등..... 가죽<b>공예<\/b> 배우기 시작하시는 분들도 많은데요 저도 처음에는 직장 다니면서 취미로 시작했다가 지금은 이... ",
+			"bloggername":"[부산떡집] “ 떡굽는 사람 맛디댜 ” 입니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/xodms0515",
+			"postdate":"20220713"
+		},
+		{
+			"title":"라탄환심 무료로 받고 집에서 라탄<b>공예<\/b> 배웠어요",
+			"link":"https:\/\/blog.naver.com\/lucias83?Redirect=Log&logNo=222820930596",
+			"description":"인테리어-생활 소품으로 인기를 끌고 있는 ‘라탄<b>공예<\/b>’ 요즘 요 라탄<b>공예<\/b>는 취미를 넘어 판매해서 수입을 낼 수 있다는 것, 다들 아시나요? 내 월급만 그대로고 모든 물가가 전부 다 오른 상황에서 투잡으로... ",
+			"bloggername":"항상 오롯하게 안녕하기를",
+			"bloggerlink":"https:\/\/blog.naver.com\/lucias83",
+			"postdate":"20220724"
+		},
+		{
+			"title":"재생아트<b>공예<\/b>수업-유리병조명만들기",
+			"link":"https:\/\/blog.naver.com\/insunset?Redirect=Log&logNo=222807971821",
+			"description":"오늘은 은청동 도시재생뉴딜사업 관련 재생아트<b>공예<\/b>로 유리병재활용한 예쁜 랜턴을 만들고 왔다.... 잼병 재활용 <b>공예<\/b> 말없이 무한 집중해도 꼴찌다 ㅋㅋㅋ 그렇게 완성한 유리병랜턴 입구쪽에 끈으로 돌돌... ",
+			"bloggername":"우리의 행복한 지금 - 제이블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/insunset",
+			"postdate":"20220712"
+		},
+		{
+			"title":"서울 전시 추천, 서울<b>공예<\/b>박물관 무료전시",
+			"link":"https:\/\/blog.naver.com\/hjmoon01?Redirect=Log&logNo=222822950217",
+			"description":"서울 전시 추천, 서울<b>공예<\/b>박물관 무료전시 자유의 몸이 되어 가장 먼저 다녀온 곳은 바로 서울<b>공예<\/b>박물관! 저는 박물관과 미술관을 무척 좋아하는데, 마음의 여유가 생긴 김에 박물관을 많이 다녀오려고 생각... ",
+			"bloggername":"YURIHYANG",
+			"bloggerlink":"https:\/\/blog.naver.com\/hjmoon01",
+			"postdate":"20220721"
+		},
+		{
+			"title":"［서울\/가볼만한곳］서울<b>공예<\/b>박물관",
+			"link":"https:\/\/blog.naver.com\/sldrlfl16?Redirect=Log&logNo=222829171625",
+			"description":"2021년 종로구 안국동에 새로생긴 서울<b>공예<\/b>박물관 3호선 안국역에서 아주 가까운곳에 위치!!! 서울<b>공예<\/b>박물관은 (구)풍문여고 건물 5개동을 리모델링하여 건축한 한국 최초의 공립 <b>공예<\/b>박물관입니다... ",
+			"bloggername":"소소한 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sldrlfl16",
+			"postdate":"20220726"
+		},
+		{
+			"title":"준에이치 금속<b>공예<\/b> 클래스 &lt;정규반, 취미반&gt;",
+			"link":"https:\/\/blog.naver.com\/junharts?Redirect=Log&logNo=222825505782",
+			"description":"준에이치 스튜디오 금속<b>공예<\/b> 공방 &lt;정규반, 취미반&gt; 안녕하세요 요즘 신나는 취미생활로 즐겁고... 준에이치 스튜디오에서 금속<b>공예<\/b>를 배워가시는 우리 수강생님들도 이 곳에서의 시간이 즐겁길... ",
+			"bloggername":"JUNH studio 금속공예공방",
+			"bloggerlink":"https:\/\/blog.naver.com\/junharts",
+			"postdate":"20220727"
+		},
+		{
+			"title":"악세사리공방 오픈, 레진<b>공예<\/b> 배운 과정",
+			"link":"https:\/\/blog.naver.com\/chomujoo79?Redirect=Log&logNo=222822803210",
+			"description":"레진<b>공예<\/b>를 배우게 됐는데요 직장 생활하면서 악세사리공방 오픈까지 일사천리로 할 수 있었던 방법... 레진<b>공예<\/b>의 기본은 물론이고 귀걸이, 반지, 목걸이 같은 악세사리 제작법과 키링, 그립톡 등 인테리어... ",
+			"bloggername":"언제나 블링블링하게",
+			"bloggerlink":"https:\/\/blog.naver.com\/chomujoo79",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[한국석고<b>공예<\/b>협회 페인팅컬러플라스터] 석고방향제 채색 물감... ",
+			"link":"https:\/\/blog.naver.com\/chicklmj2?Redirect=Log&logNo=222826699690",
+			"description":"석고방향제 채색 물감 만들기 한국석고<b>공예<\/b>협회 페인팅컬러플라스터 수료증 과정 안녕하세요. 한국석고<b>공예<\/b>협회 경기지부 알유소이캔들 입니다 :) 오늘은 석고방향제 만들기에 있어서 중요한 부분을 차지하는... ",
+			"bloggername":"알유소이캔들",
+			"bloggerlink":"https:\/\/blog.naver.com\/chicklmj2",
+			"postdate":"20220724"
+		},
+		{
+			"title":"엄만달 마크라메 벽장식 \/ 월행잉 마크라메 \/ 매듭<b>공예<\/b> 달콤맘마",
+			"link":"https:\/\/blog.naver.com\/namoonura?Redirect=Log&logNo=222828702833",
+			"description":"행잉마크라메 #월행잉 #벽장식 #소품 #인테리어소품 #매듭<b>공예<\/b> #평매듭 #엄마가만드는달콤한세상 #달콤맘마 #엄만달 #남수동공방 #수원공방 #원데이클래스 #창룡문공방 #데이트코스 #화성행궁 #수원<b>공예<\/b>맛집",
+			"bloggername":"엄만달",
+			"bloggerlink":"https:\/\/blog.naver.com\/namoonura",
+			"postdate":"20220725"
+		},
+		{
+			"title":"타일<b>공예<\/b> 액자만들기-특수학급<b>공예<\/b>수업",
+			"link":"https:\/\/blog.naver.com\/zero2264150?Redirect=Log&logNo=222813261711",
+			"description":"[타일<b>공예<\/b> 액자 만들기] 동구 불ㄹ중학교 특수학급 친구들과 토탈<b>공예<\/b> 9회차 수업~ 이번시간에는 비비드 타일로 나만의 액자만들기를 하였어요♡ 원하는 컬러의 타일을 선택하고 패턴에 맞게 열심히 붙여주고... ",
+			"bloggername":"대구 이에스공방",
+			"bloggerlink":"https:\/\/blog.naver.com\/zero2264150",
+			"postdate":"20220715"
+		},
+		{
+			"title":"압화<b>공예<\/b> 책갈피 만들기 말린꽃 보관 압화 액자 만들기",
+			"link":"https:\/\/blog.naver.com\/meekcho?Redirect=Log&logNo=222824643256",
+			"description":"오늘은 압화<b>공예<\/b>로 책갈피 만들기부터 말린꽃 보관하면서 말린꽃 액자 만들기까지 오래도록 아름다운... 꽃도 좋고, 식물도 좋고 드라이플라워와 비슷하지만 압화<b>공예<\/b> 압화 만들기로 실생활에도 소품 등으로... ",
+			"bloggername":"13월의블루 집스토리",
+			"bloggerlink":"https:\/\/blog.naver.com\/meekcho",
+			"postdate":"20220722"
+		},
+		{
+			"title":"가죽<b>공예<\/b> 바늘 추천 + 시스템 S+U 바늘 + feat. 존제임스 바늘... ",
+			"link":"https:\/\/blog.naver.com\/dongsuyeom?Redirect=Log&logNo=222817614769",
+			"description":"이번에는 #가죽<b>공예<\/b> 를 하는데 필수품이라 할 수 있는 #가죽<b>공예<\/b>바늘 에 관한 포스팅을 해볼까 합니다. 가죽<b>공예<\/b>를 공방에서 배운지 약 3개월이 지났는데요. 가린이들에게 인터넷에서는 #국민바늘 이라 불리는... ",
+			"bloggername":"이것저것 체험하자~!",
+			"bloggerlink":"https:\/\/blog.naver.com\/dongsuyeom",
+			"postdate":"20220718"
+		},
+		{
+			"title":"로에베 서울 <b>공예<\/b> 박물관",
+			"link":"https:\/\/blog.naver.com\/jhbarbie?Redirect=Log&logNo=222824100118",
+			"description":"로에베 재단 2022 <b>공예<\/b>상 전시 보러 서울 <b>공예<\/b> 박물관으로-! 제1전시장 들어가자마자 왼편에 있는 <b>공예<\/b> 도서실. 나중에 한번 여유롭게 들르고 싶다. 제5회 로에베 파운데이션 <b>공예<\/b>상 15개 국가 및 지역을 대표하는... ",
+			"bloggername":"그냥 가끔",
+			"bloggerlink":"https:\/\/blog.naver.com\/jhbarbie",
+			"postdate":"20220722"
+		},
+		{
+			"title":"라탄<b>공예<\/b>재료 받고 취미로 돈 버는 방법",
+			"link":"https:\/\/blog.naver.com\/xodms0515?Redirect=Log&logNo=222812713677",
+			"description":"라탄<b>공예<\/b>, 마크라메 제품을 한동안 엄청 사들였었어요ㅋㅋ 그러다가 취미로 직접 만들어보면 어떨까? 싶어서 라탄 <b>공예<\/b> 배울 수 있는 방법 알아봤었는데요 이렇게 시작한 라탄<b>공예<\/b>로 지금은 소소하게 수익까지... ",
+			"bloggername":"[부산떡집] “ 떡굽는 사람 맛디댜 ” 입니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/xodms0515",
+			"postdate":"20220715"
+		},
+		{
+			"title":"가죽<b>공예<\/b> 단체수업 diy키트 하나면 준비끝! 구매는 일로레더",
+			"link":"https:\/\/blog.naver.com\/leaf130117?Redirect=Log&logNo=222823069163",
+			"description":"가죽<b>공예<\/b> 단체수업, <b>공예<\/b>수업 diy키트 하나면 준비끝! 구매는 네이버에서 &quot;일로레더&quot; 검색 안녕하세요 일로가죽공방입니다. 저희는 공방을 운영하며 학교출강을 나가고 가죽<b>공예<\/b> 쇼핑몰 일로레더를 운영합니다.... ",
+			"bloggername":"부산 일로가죽공방",
+			"bloggerlink":"https:\/\/blog.naver.com\/leaf130117",
+			"postdate":"20220721"
+		},
+		{
+			"title":"비즈<b>공예<\/b>재료 시드비즈로 꽃 비즈팔찌 만들기",
+			"link":"https:\/\/blog.naver.com\/flute8248?Redirect=Log&logNo=222746231918",
+			"description":"^^ 비즈<b>공예<\/b>재료 중 요렇게 은은한 색상이 곱고 예쁜 시드비즈 몇 가지 색상만으로도 꽃비즈 팔찌... ㅎㅎ 비즈<b>공예<\/b> 꽃팔찌 만들기 생각보다 쉽고 예쁘게 완성되기 때문에 여러 개 만들어 선물하는 기쁨까지... ",
+			"bloggername":"초록여신 핑거쇼룸",
+			"bloggerlink":"https:\/\/blog.naver.com\/flute8248",
+			"postdate":"20220526"
+		},
+		{
+			"title":"키링 만들기 키트로 레진 <b>공예<\/b> 판매까지",
+			"link":"https:\/\/blog.naver.com\/migatorang?Redirect=Log&logNo=222811064123",
+			"description":"수<b>공예<\/b>, 핸드메이드가 꾸준한 인기 소품이잖아요. 내가 착용하는 악세사리도 좀 더 특별하게 트렌디한 제품을 선호하는데 제가 제작한 수<b>공예<\/b> 제품도 100% 수작업으로 세상에 하나뿐인 제품으로 완성돼서 반응이... ",
+			"bloggername":"Torang",
+			"bloggerlink":"https:\/\/blog.naver.com\/migatorang",
+			"postdate":"20220714"
+		},
+		{
+			"title":"가죽가방 만들기 가죽<b>공예<\/b>체험 - 교사연수",
+			"link":"https:\/\/blog.naver.com\/cats2920?Redirect=Log&logNo=222819083092",
+			"description":"가죽<b>공예<\/b> 원데이 클래스를 진행했어요~ 가죽<b>공예<\/b> 전문가 2920입니다 가죽<b>공예<\/b> 교사연수 체험 - 이구이영 서울 강동송파구 교육지원청과 연계해서 강동구 송파구의 초등학교 중학교 고등학교에 찾아가... ",
+			"bloggername":"2920의 가내수공업",
+			"bloggerlink":"https:\/\/blog.naver.com\/cats2920",
+			"postdate":"20220719"
+		},
+		{
+			"title":"7월 무료전시 추천 - 서울<b>공예<\/b>박물관 로에베 재단 <b>공예<\/b>상 (예매... ",
+			"link":"https:\/\/blog.naver.com\/xoxox_?Redirect=Log&logNo=222829077787",
+			"description":"서울 7월 무료 전시 추천 제5회 로에베 재단 <b>공예<\/b>상 선정 작가 30인의 작품을 만날 수 있는 곳 @서울<b>공예<\/b>박물관 &lt;2022년 로에베 재단 <b>공예<\/b>상&gt; LOEWE FOUNDATION CRAFT PRIZE 2022년 로에베 재단 <b>공예<\/b>상 안국역... ",
+			"bloggername":"도담댁의 식후감 다이어리",
+			"bloggerlink":"https:\/\/blog.naver.com\/xoxox_",
+			"postdate":"20220726"
+		},
+		{
+			"title":"민간자격증등록 완료 - 금속<b>공예<\/b>전문가",
+			"link":"https:\/\/blog.naver.com\/zjian44?Redirect=Log&logNo=222829122214",
+			"description":"◎ 민간자격증등록 완료 - 금속<b>공예<\/b>전문가 바른행정사 정재필 행정사 입니다. 오늘은 민간자격증등록 완료된 금속<b>공예<\/b>전문가 자격증을 포스팅 하겠습니다. 금속<b>공예<\/b>전문가 자격증은 금속<b>공예<\/b>를 하시는... ",
+			"bloggername":"바른행정사 정재필 행정사입니다. 010-2381-8778",
+			"bloggerlink":"https:\/\/blog.naver.com\/zjian44",
+			"postdate":"20220726"
+		},
+		{
+			"title":"<b>공예<\/b>철사 배우고 용돈 벌어요",
+			"link":"https:\/\/blog.naver.com\/chomujoo79?Redirect=Log&logNo=222808811138",
+			"description":"철사를 마음대로 구부려서 반지, 귀걸이와 같은 악세사리도 만들고 인테리어 소품이나 감성적인 캠핑 용품도 만들 수 있는 것이 와이어<b>공예<\/b>랍니다^^ 저는 요 <b>공예<\/b>철사를 이용해서 매달 용돈을 쏠쏠히 벌고... ",
+			"bloggername":"언제나 블링블링하게",
+			"bloggerlink":"https:\/\/blog.naver.com\/chomujoo79",
+			"postdate":"20220712"
+		},
+		{
+			"title":"규방<b>공예<\/b>배우기 왕초보 전통소품만들기~광화문 한국문화센터",
+			"link":"https:\/\/blog.naver.com\/gluck317?Redirect=Log&logNo=222829454049",
+			"description":"광화문 한국문화센터 규방<b>공예<\/b>배우기 강좌문의 02-737-0621 (규방<b>공예<\/b>배우기) 규방<b>공예<\/b>는 전통 규방소품 조각보 등을 만드는 강좌로 한땀한땀 정성스런 손바느질로 완성하는... ",
+			"bloggername":"KoreaCultureCenter 광화문한국문화센터 02)737-0621",
+			"bloggerlink":"https:\/\/blog.naver.com\/gluck317",
+			"postdate":"20220726"
+		},
+		{
+			"title":"리본<b>공예<\/b> 머리끈 만들기 빨리 배워서 용돈 벌기",
+			"link":"https:\/\/blog.naver.com\/hosuk6564?Redirect=Log&logNo=222825625228",
+			"description":"리본<b>공예<\/b> 머리끈 만들기 빨리 배워서 용돈 벌기 저의 첫번째 리본<b>공예<\/b> 머리끈 만들기의 고객(?)은 저의 친조카나 다름 없는 친구의 딸내미였는데요ㅎㅎ 지금은 주변 지인들 뿐 아니라 진짜 찐! 고객 분들께서... ",
+			"bloggername":"당신은 이 시대의 멋쟁이",
+			"bloggerlink":"https:\/\/blog.naver.com\/hosuk6564",
+			"postdate":"20220723"
+		},
+		{
+			"title":"[박물관] 서울<b>공예<\/b>박물관 관람 후기",
+			"link":"https:\/\/blog.naver.com\/kmks6739?Redirect=Log&logNo=222806196576",
+			"description":"안국동 서울<b>공예<\/b>박물관 전경 작년 7월에 개관했다는 서울<b>공예<\/b>박물관을 다녀왔다. 도심 속 시원한 피서지를 찾아 발견한 곳.ㅋㅋ 미술전공자도 아니고 <b>공예<\/b>는 1도 모르지만 예쁜건 좋아하니까 가봤다. 들어가는... ",
+			"bloggername":"So I.",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmks6739",
+			"postdate":"20220710"
+		},
+		{
+			"title":"▶festival\/체험부스◀ 2022 쇠부리축제 은<b>공예<\/b> 체험부스",
+			"link":"https:\/\/blog.naver.com\/pika3145?Redirect=Log&logNo=222816380707",
+			"description":"#울산은<b>공예<\/b> #울산금속<b>공예<\/b> #울산은공방 #쇠부리축제 #울산축제 #울산축제체험행사 뜨거웠던 5월, 코로나 이후로 열리지 않았던 대면행사들이 하나 둘 제자리를 찾아 열렸답니다. 그 중, 울산의 대표... ",
+			"bloggername":"소란은공방 : silver crafts workroom",
+			"bloggerlink":"https:\/\/blog.naver.com\/pika3145",
+			"postdate":"20220720"
+		},
+		{
+			"title":"칠보<b>공예<\/b> 다양한 작품",
+			"link":"https:\/\/blog.naver.com\/ami5729?Redirect=Log&logNo=222808825900",
+			"description":"이제 잊어 버렸네요.ㅋㅋㅋ 2022 우수 평생학습 프로그램 지원사업 &quot;전통 칠보<b>공예<\/b> 자격 양성 과정... 너무 열심히 하시는 샘들 조금기법1 과 분유기법으로 응용작품을 하니 칠보<b>공예<\/b>가 더~~~재미있어 집니다.... ",
+			"bloggername":"주) 혜강공예*** 한지공예.칠보공예",
+			"bloggerlink":"https:\/\/blog.naver.com\/ami5729",
+			"postdate":"20220712"
+		},
+		{
+			"title":"서울 <b>공예<\/b> 박물관",
+			"link":"https:\/\/blog.naver.com\/laveny?Redirect=Log&logNo=222809521009",
+			"description":"안국역 예전 풍문여고 자리에 서울 <b>공예<\/b>박물관이 생겼어요. 학교 건물을 리뉴얼하고 새로 짓기도... 말총 <b>공예<\/b> 정말 입이 다물어지지 않네요, 그림자 좀 보세요... 와우 정말 K- 저력 대단합니다. 옛날에... ",
+			"bloggername":"퀼트마루",
+			"bloggerlink":"https:\/\/blog.naver.com\/laveny",
+			"postdate":"20220713"
+		},
+		{
+			"title":"가죽<b>공예<\/b> 주문제작 \/ 가죽카빙이 들어간 열쇠고리 만들기",
+			"link":"https:\/\/blog.naver.com\/myohan6?Redirect=Log&logNo=222825703263",
+			"description":"서울 신설동 풍물시장 맞은편에 위치한 가죽카빙 전문 가죽<b>공예<\/b> 공방 묘한입니다.^^ 7월 달이 들어 마가... 이 맛에 가죽<b>공예<\/b> 하고 있답니다.^^ 저희 묘한을 찾아주신 주문자님 이용해 주셔서 감사합니다.",
+			"bloggername":"묘한 가죽 카빙 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/myohan6",
+			"postdate":"20220723"
+		},
+		{
+			"title":"서울 전시 | 로에베 재단 2022 <b>공예<\/b>상 서울 <b>공예<\/b>박물관",
+			"link":"https:\/\/blog.naver.com\/ungsblue?Redirect=Log&logNo=222814330160",
+			"description":"공방에서 시작한 브랜드 로에베, 그래서 <b>공예<\/b>상을 만든다 잘은 모르지만 계속해서 꾸준하게 보다 보면 안목과 지식이라는 것이 생긴다. 어느 날 인스타그램에 올라온 로에베 재단 <b>공예<\/b>상 피드. 집에서... ",
+			"bloggername":"크리에이티브를 위한 축적의 시간",
+			"bloggerlink":"https:\/\/blog.naver.com\/ungsblue",
+			"postdate":"20220718"
+		},
+		{
+			"title":"리본<b>공예<\/b>재료 저렴한데 벌이는 쏠쏠!",
+			"link":"https:\/\/blog.naver.com\/nike8319?Redirect=Log&logNo=222830913442",
+			"description":"리본<b>공예<\/b>를 시작했는데 너무 재밌고 아이도 좋아해서 만족스러웠죠. 리본 원단도 다양하고 리본 매는... 하지만 직접 만들면 리본<b>공예<\/b>재료 몇 백 원밖에 안 든답니다~ 마진이 엄청 괜찮은 상품이에요. 딸 아이... ",
+			"bloggername":"용쓰마켓 수다이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/nike8319",
+			"postdate":"20220727"
+		},
+		{
+			"title":"펠트<b>공예<\/b> 버튼홀스티치로 포켓티셔츠 옷만들기",
+			"link":"https:\/\/blog.naver.com\/flute8248?Redirect=Log&logNo=222798564899",
+			"description":"색다른 펠트<b>공예<\/b>로 실용적인 펠트작품 만들고 싶어 도전정신 갖고 만들었던 나름 고민도 많이 하면서... ^^ 커플로 입으면 딱 좋은 나름 만족스럽게 완성했던 펠트<b>공예<\/b> 포켓티만들기는 과정은 고민이 길었던 만큼... ",
+			"bloggername":"초록여신 핑거쇼룸",
+			"bloggerlink":"https:\/\/blog.naver.com\/flute8248",
+			"postdate":"20220704"
+		},
+		{
+			"title":"부산 양말목<b>공예<\/b> 부엉이바구니만들기 금정도서관 북캉스... ",
+			"link":"https:\/\/blog.naver.com\/smcwmj2010?Redirect=Log&logNo=222825819214",
+			"description":"#북캉스 #부산양말목<b>공예<\/b> #양말목바구니 #새활용<b>공예<\/b> #양말목체험 벌써 한학기가 지나고 방학이 시작되었습니다~ 도서관에서는 방학을 맞이하여 방학특강및 체험행사를 많이 준비하고있는데요 금정도서관에서... ",
+			"bloggername":"친환경&아트&3D메이커",
+			"bloggerlink":"https:\/\/blog.naver.com\/smcwmj2010",
+			"postdate":"20220723"
+		},
+		{
+			"title":"서울<b>공예<\/b>박물관 로에베 전시",
+			"link":"https:\/\/blog.naver.com\/jjangnabida?Redirect=Log&logNo=222824177628",
+			"description":"#서울<b>공예<\/b>박물관 #재단<b>공예<\/b>상 #로에베 #전시회 #안국 지나가면서 건물이 예뻐서 사진만 찍었던 서울<b>공예<\/b>박물관, 근처 갔다가 로에베 전시에 다녀왔어요 전시기간 : 2022.07.01 ~ 2022.07.31 위치 : 서울<b>공예<\/b>박물관... ",
+			"bloggername":"나의 즐거운 하루",
+			"bloggerlink":"https:\/\/blog.naver.com\/jjangnabida",
+			"postdate":"20220722"
+		},
+		{
+			"title":"부산가죽공방 가죽<b>공예<\/b>출강, 신선중학교 진로체험 다녀왔어요~",
+			"link":"https:\/\/blog.naver.com\/leaf130117?Redirect=Log&logNo=222827677853",
+			"description":"부산가죽공방 가죽<b>공예<\/b>출강 신선중학교 진로체험 카드지갑 일로가죽공방 안녕하세요 일로가죽공방입니다:) 영도에 위치한 신선중학교에 가죽<b>공예<\/b> 진로체험을 다녀왔습니다. 영도로 가는 길입니다. 요즘... ",
+			"bloggername":"부산 일로가죽공방",
+			"bloggerlink":"https:\/\/blog.naver.com\/leaf130117",
+			"postdate":"20220725"
+		},
+		{
+			"title":"여주시민과 함께하는 금속<b>공예<\/b> 체험교육",
+			"link":"https:\/\/blog.naver.com\/bbockgi?Redirect=Log&logNo=222804256766",
+			"description":"2022년도도 금속<b>공예<\/b>를 경험 체험해 볼 수 있는 좋은 기회가 만들어졌답니다. 각 개인당 6주에 걸쳐... 금속<b>공예<\/b>에 관심이 있으신 분께서는 신청하셔서 좋은 프로그램을 경험하시기 바라며 특히 작년보다... ",
+			"bloggername":"메이드쌤과 노리터쌤의 핸드메이드노리공간",
+			"bloggerlink":"https:\/\/blog.naver.com\/bbockgi",
+			"postdate":"20220708"
+		},
+		{
+			"title":"라탄 <b>공예<\/b>로 힐링한 날",
+			"link":"https:\/\/blog.naver.com\/choiul?Redirect=Log&logNo=222807134117",
+			"description":"바로 옆동으로 이사를 했지만 동네언니가 이사를 축하 한다며 선물로 함께 라탄 <b>공예<\/b>를 하러 가자고... 언니의 지인인 라탄 <b>공예<\/b> 선생님은 한 아이의 엄마라는 것이 믿기지 않을 정도로 참 젊고 아름다웠다.... ",
+			"bloggername":"C o m f o r t , y o u l",
+			"bloggerlink":"https:\/\/blog.naver.com\/choiul",
+			"postdate":"20220711"
+		},
+		{
+			"title":"<b>공예<\/b>품 좋아하세요? <b>공예<\/b>창작자마켓 픽 앤 피크닉(Pick... ",
+			"link":"https:\/\/blog.naver.com\/haechiseoul?Redirect=Log&logNo=222772983158",
+			"description":"사람의 손길이 하나하나 들어가 개성과 정성이 깃들어 있는 수<b>공예<\/b>품! 최근 환경에 대한 관심이 높아지면서 직접 필요한 물품을 만들거나 재활용 <b>공예<\/b>를 하는 분들이 많아졌는데요. 이번 주말 노원구... ",
+			"bloggername":"서울특별시 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/haechiseoul",
+			"postdate":"20220614"
+		},
+		{
+			"title":"인천 가죽<b>공예<\/b> 소품만들기~~",
+			"link":"https:\/\/blog.naver.com\/jewelyyoung?Redirect=Log&logNo=222822341948",
+			"description":"가죽<b>공예<\/b>를 배우고 싶으시다면 지금바로 저희 한국문화센터 인천 남동지부로 문의 주세요~~ 카톡상담... 가죽<b>공예<\/b> 외에도 #리본아트 #선물포장 #펫푸드 #냅킨아트 #홈패션 #패션양재 #캘리그라피 #피오피... ",
+			"bloggername":"인천 평생교육 문화센터 032-469-6654",
+			"bloggerlink":"https:\/\/blog.naver.com\/jewelyyoung",
+			"postdate":"20220721"
+		},
+		{
+			"title":"세계적인 <b>공예<\/b>작가 30인의 작품을 한자리에서",
+			"link":"https:\/\/blog.naver.com\/coreap6?Redirect=Log&logNo=222792359370",
+			"description":"세계적인 <b>공예<\/b>작가 30인의 작품을 한자리에서 관람, 서울<b>공예<\/b>박물관 &lt;로에베 재단 <b>공예<\/b>상&gt; 7월 전시 개최 - 7월 한 달간 서울<b>공예<\/b>박물관-스페인 로에베 재단의 국제협력전 개최 - 세계적 권위의... ",
+			"bloggername":"새서울신문",
+			"bloggerlink":"https:\/\/blog.naver.com\/coreap6",
+			"postdate":"20220628"
+		},
+		{
+			"title":"광주가죽공방 \/ 광주가죽<b>공예<\/b> - 니들웍스 - 데어데블 퍼니셔... ",
+			"link":"https:\/\/blog.naver.com\/truthleather?Redirect=Log&logNo=222822623102",
+			"description":"니들웍스 \/ NeedleWorks \/ 전라도가죽공방 \/ 전라도가죽<b>공예<\/b> \/ 광주가죽공방 \/ 광주가죽<b>공예<\/b> \/ 광주시내가죽공방 \/ 광주 \/ 광주광역시 \/ 예술의거리 \/ 광주예술의거리 \/ 충장로 \/ 궁동 \/ 동명동... ",
+			"bloggername":"니들웍스 광주가죽공방\/전주가죽공방",
+			"bloggerlink":"https:\/\/blog.naver.com\/truthleather",
+			"postdate":"20220721"
+		},
+		{
+			"title":"레진<b>공예<\/b> 자격증반 ♡ 수원레진<b>공예<\/b>",
+			"link":"https:\/\/blog.naver.com\/vendar26?Redirect=Log&logNo=222823914577",
+			"description":"레진으로 만드는 악세사리 클래스 레진자격증 : 나비아뜰리에 오랜만에 진행한 레진<b>공예<\/b> 자격증반!!... 레진<b>공예<\/b>자격증반 https:\/\/blog.naver.com\/vendar26 UV레진과 크리스탈레진으로 이용한 10가지 작품 만드는... ",
+			"bloggername":"나비아뜰리에 since 2010",
+			"bloggerlink":"https:\/\/blog.naver.com\/vendar26",
+			"postdate":"20220722"
+		},
+		{
+			"title":"압화유리잔만들기-성인<b>공예<\/b>수업",
+			"link":"https:\/\/blog.naver.com\/zero2264150?Redirect=Log&logNo=222814710226",
+			"description":"[압화 유리잔 만들기] 남구보건소 정신건강복지센터 가족교육 모임에서 <b>공예<\/b>수업 2회차수업... 즐거운 체험되셧길 바랍니다♡ #압화<b>공예<\/b> #대구압화<b>공예<\/b> #압화유리잔 #압화잔만들기 #압화성인<b>공예<\/b> #압화원데이클래스",
+			"bloggername":"대구 이에스공방",
+			"bloggerlink":"https:\/\/blog.naver.com\/zero2264150",
+			"postdate":"20220716"
+		},
+		{
+			"title":"주간일기 챌린지,7월 3주차\/전자책쓰기, 라탄<b>공예<\/b>,가성비짱... ",
+			"link":"https:\/\/blog.naver.com\/labamba0608?Redirect=Log&logNo=222827397892",
+			"description":"라탄 <b>공예<\/b>를 해준다고 해서 참여해봤습니다^^ 먼저 저희동네 떡집 자랑부터..ㅋ 저희집 부근에는 찹쌀떡... 동생이랑 헤어지고 오후에는 라탄<b>공예<\/b> 배우러 진량초등학교 방문^^ 아이들 학교에서 코로나 이후... ",
+			"bloggername":"學然後知不足(학연후지부족)",
+			"bloggerlink":"https:\/\/blog.naver.com\/labamba0608",
+			"postdate":"20220724"
+		},
+		{
+			"title":"라탄티코스터 : 여름이라서 예쁜 라탄<b>공예<\/b>",
+			"link":"https:\/\/blog.naver.com\/jinsim25?Redirect=Log&logNo=222785386563",
+			"description":"여름이라서 카페에 가면 라탄티코스터 더 예뻐보이는 것 같아요~ 라탄티코스터 라탄<b>공예<\/b> by 겨자씨... 라탄<b>공예<\/b> 관심 있었는데 동네 복지관에서 하는 라탄 원데이클래스에서 티코스터 만들어봤어요~ 아주 아주... ",
+			"bloggername":"겨자씨의 감성살림",
+			"bloggerlink":"https:\/\/blog.naver.com\/jinsim25",
+			"postdate":"20220623"
+		},
+		{
+			"title":"종이라는 오브제로 표현한 관능적인 종이접기 <b>공예<\/b>",
+			"link":"https:\/\/blog.naver.com\/hun1056?Redirect=Log&logNo=222775739880",
+			"description":"^^ 아티스트는 웨일즈 출신의 종이<b>공예<\/b> 아티스트 'Polly Verity' 작품에 표현된 종이는 수채화 용지... 부모 모두 예술가이며 특히 그의 할아버지는 꽤나 유명한 종이<b>공예<\/b> 아티스트였다고 합니다. 이종범 라인에... ",
+			"bloggername":"ART design interior 정면돌파™",
+			"bloggerlink":"https:\/\/blog.naver.com\/hun1056",
+			"postdate":"20220617"
+		},
+		{
+			"title":"세련된 도자기 <b>공예<\/b>? 3D 드로잉 인테리어 소품",
+			"link":"https:\/\/blog.naver.com\/hun1056?Redirect=Log&logNo=222812436635",
+			"description":"지점토 <b>공예<\/b>품을 한다고 했을 때 사실 안 봐도 그려지는 그림은 뻔하죠? 뭐 대충 정적일 것이고 뭐 대충 담백할 것이고 뭐 대충 그러그러할 것인데, 영국의 도예가 'Katharine Morling'이 만든 도자기 <b>공예<\/b>... ",
+			"bloggername":"ART design interior 정면돌파™",
+			"bloggerlink":"https:\/\/blog.naver.com\/hun1056",
+			"postdate":"20220715"
+		},
+		{
+			"title":"울산 유리<b>공예<\/b> \/ 블로그 유입 분석 \/ 식당 1위",
+			"link":"https:\/\/blog.naver.com\/by_0304?Redirect=Log&logNo=222827375471",
+			"description":"울산 유리<b>공예<\/b> 무려 2주치를 빠지고 이번주 첫수업을 다녀왔다 1주차때 냄비받침 2주차에 컵... 유리<b>공예<\/b> 칼! 먼저 유리<b>공예<\/b> 칼에 대한 설명을 해주셨다 천천히 고를걸 색 조합 뭔가 성급하게 고른듯함... ",
+			"bloggername":"아세마",
+			"bloggerlink":"https:\/\/blog.naver.com\/by_0304",
+			"postdate":"20220724"
+		},
+		{
+			"title":"[안국]볼거리가 넘쳐나는 '<b>공예<\/b>박물관'",
+			"link":"https:\/\/blog.naver.com\/junggle2082?Redirect=Log&logNo=222808867757",
+			"description":"사촌동생과 북촌 놀러갔다가 방문했던 <b>공예<\/b>박물관 규모도 굉장히 크고 구성도 상당히 알찬데, 그 동안... 배치나 분위기가 평화로워서 힐링되던 풍경 전통적인 <b>공예<\/b>품부터, 전통적 기법을 재해석한 <b>공예<\/b>품까지... ",
+			"bloggername":"Archive M",
+			"bloggerlink":"https:\/\/blog.naver.com\/junggle2082",
+			"postdate":"20220712"
+		},
+		{
+			"title":"인천 금속<b>공예<\/b> 해랑공방 조카의 미아방지 목걸이 귀욤",
+			"link":"https:\/\/blog.naver.com\/dkgk100?Redirect=Log&logNo=222831100531",
+			"description":"하트와 댓글 스크랩은 해랑지기에게 큰 희망의 불씨를 살려준답니다 저희 해랑 공방은 인천 계양구 병방동에 위치해있으며 은<b>공예<\/b> 금속<b>공예<\/b> 왁스 카빙을 기초로. 원하시는 디자인에 맞게 모든 기법을... ",
+			"bloggername":"해랑 Jewelry 공방",
+			"bloggerlink":"https:\/\/blog.naver.com\/dkgk100",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[<b>공예<\/b>디자인 상품개발지원] 이지은 유리<b>공예<\/b>가",
+			"link":"https:\/\/blog.naver.com\/kcdf2010?Redirect=Log&logNo=222796000379",
+			"description":"2022년 <b>공예<\/b>디자인 상품개발 지원 이지은 유리<b>공예<\/b>가 &lt;흑과 백&gt;시리즈 이지은 작가의 유리 기(器)들은 전통적인 기(器)의 형태에서 영감을 받아 유리의 투명한 물성과 그것만이 지닌 차별화된 색상을... ",
+			"bloggername":"한국공예·디자인문화진흥원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kcdf2010",
+			"postdate":"20220701"
+		},
+		{
+			"title":"[비즈<b>공예<\/b>] 과일 열매 팔찌, 반지 만들기",
+			"link":"https:\/\/blog.naver.com\/cksqufrhdwn?Redirect=Log&logNo=222826710737",
+			"description":"광명비즈<b>공예<\/b> #팔찌만들기 #비즈팔찌 #비즈팔찌만들기 #클레이놀이 #열매팔찌 #과일팔찌 #과일팔찌만들기 #놀이미술 #미술놀이 #점토놀이 #만들기놀이 #클레이아트 #클레이수업 #클레이교실 #냅킨<b>공예<\/b>... ",
+			"bloggername":"Starlight Atelier",
+			"bloggerlink":"https:\/\/blog.naver.com\/cksqufrhdwn",
+			"postdate":"20220724"
+		},
+		{
+			"title":"[가온사랑채]가죽<b>공예<\/b> 함께 배워요~",
+			"link":"https:\/\/blog.naver.com\/zzangu2557?Redirect=Log&logNo=222827266349",
+			"description":"배달학습으로 저희 마을 동아리모임 [가온사랑채] 에서는 6월~8월 동안 매주 월요일 저녁 18:00~20:00시에 가죽<b>공예<\/b>를 하고 있어요 가죽<b>공예<\/b> 도구들이에요 기본재료인 가죽은 소가죽으로~ 그외 펀칭도구, 숫돌... ",
+			"bloggername":"가시랭이사과교육농장",
+			"bloggerlink":"https:\/\/blog.naver.com\/zzangu2557",
+			"postdate":"20220724"
+		},
+		{
+			"title":"가죽<b>공예<\/b> 디스코백 3총사 완성",
+			"link":"https:\/\/blog.naver.com\/yuria8878?Redirect=Log&logNo=222808184430",
+			"description":"여러가지 취미도 많은 바쁜 워킹맘입니다만 지금은 한창 가죽<b>공예<\/b>에 빠져 있어요. 1년이 넘었으니 꽤 오래 가는 취미네요. 그전에도 리본공에 비즈<b>공예<\/b> 등등 손으로 만드는걸 좋아했죠. 유화나 피아노도 좋은데... ",
+			"bloggername":"낑깡공주와 고양이부대 강아지특공대",
+			"bloggerlink":"https:\/\/blog.naver.com\/yuria8878",
+			"postdate":"20220712"
+		},
+		{
+			"title":"규방<b>공예<\/b> 연구소 정기회원전 아름다운 규방<b>공예<\/b> (7.27~8.1)",
+			"link":"https:\/\/blog.naver.com\/kcdf2010?Redirect=Log&logNo=222831358232",
+			"description":"제16회 쌈지사랑 규방<b>공예<\/b> 연구소 정기회원전 아름다운 규방<b>공예<\/b> 제16회 쌈지사랑 규방<b>공예<\/b> 연구소 정기회원전은 70여명의 규방<b>공예<\/b> 작가분들의 정성 가득한 작품과 더불어 강릉자수박물관 유물... ",
+			"bloggername":"한국공예·디자인문화진흥원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kcdf2010",
+			"postdate":"20220727"
+		},
+		{
+			"title":"서울<b>공예<\/b>박물관 인사동 낙원시장",
+			"link":"https:\/\/blog.naver.com\/acefire2001?Redirect=Log&logNo=222828795968",
+			"description":"겨울과 봄이 걸쳐 있던 즈음에 서울<b>공예<\/b>박물관을 다녀왔었습니다. 시전 예약을 해야 관람이... PANASONIC LUMIX S5 + LUMIX S 24mm F1.8 #파나소닉 #루믹스 #LUMIX #S5 #24mm #서울<b>공예<\/b>박물관 #인사동 #낙원상가... ",
+			"bloggername":"DRAGON",
+			"bloggerlink":"https:\/\/blog.naver.com\/acefire2001",
+			"postdate":"20220726"
+		},
+		{
+			"title":"인천가죽공방 가죽<b>공예<\/b> `르아드와`   :::   버버리가방리폼",
+			"link":"https:\/\/blog.naver.com\/raon_atelier?Redirect=Log&logNo=222828180073",
+			"description":"인천가죽공방 가죽<b>공예<\/b> `르아드와` ::: 버버리가방리폼 가죽작업실 르아드와 입니다. :-) 버버리 가방... 레드체크가 귀엽네요 : ) 인천가죽공방 가죽<b>공예<\/b> `르아드와` ::: 버버리가방리폼 이전에 구찌가방 리폼... ",
+			"bloggername":"인천가죽공방 르아드와",
+			"bloggerlink":"https:\/\/blog.naver.com\/raon_atelier",
+			"postdate":"20220726"
+		},
+		{
+			"title":"대나무<b>공예<\/b>-대숲사랑",
+			"link":"https:\/\/blog.naver.com\/nongbooo?Redirect=Log&logNo=222817830995",
+			"description":"대나무<b>공예<\/b> 중급과정 12회차 가운데 다섯번째 수업이 끝났습니다. 삼각눈 채반. 꼼꼼하게 가르쳐 주는 강사님과 하나라도 놓치지 않고 배우려는 그루경영체 구성원들. 지금은 한창 편죽짜기를 합니다. 폭 3mm에... ",
+			"bloggername":"이야기가 있는 산골",
+			"bloggerlink":"https:\/\/blog.naver.com\/nongbooo",
+			"postdate":"20220719"
+		},
+		{
+			"title":"리본<b>공예<\/b>diy 재료 받고 악세사리판매",
+			"link":"https:\/\/blog.naver.com\/chomujoo79?Redirect=Log&logNo=222831460934",
+			"description":"사부작 사부작 집에서 리본<b>공예<\/b> 상품들을 만들어 판매하기 시작한지 벌써 6개월 차에요! 정신 없이 바쁘다가도 통장 보면 뿌듯한 요즘..ㅎㅎ 리본<b>공예<\/b>diy를 시작한지 얼마 되지 않았는데 부업하기 정말 잘한 것... ",
+			"bloggername":"언제나 블링블링하게",
+			"bloggerlink":"https:\/\/blog.naver.com\/chomujoo79",
+			"postdate":"20220727"
+		},
+		{
+			"title":"가죽<b>공예<\/b> 공방 말고 인터넷으로 배우기",
+			"link":"https:\/\/blog.naver.com\/hosuk6564?Redirect=Log&logNo=222831491984",
+			"description":"가죽<b>공예<\/b> 공방말고 인터넷으로 배우기! 가죽<b>공예<\/b>에 관심이 있으신가요? 전 우연한 기회에 못쓰게 된 폐가죽으로 업사이클링 <b>공예<\/b>를 하는 지인의 작업으로 가죽<b>공예<\/b>에 처음 관심을 갖게 됐어요 그 후로 가죽<b>공예<\/b>... ",
+			"bloggername":"당신은 이 시대의 멋쟁이",
+			"bloggerlink":"https:\/\/blog.naver.com\/hosuk6564",
+			"postdate":"20220727"
+		},
+		{
+			"title":"주철장 전수교육관 기획특별전 - 중원의 금속<b>공예<\/b> 장인",
+			"link":"https:\/\/blog.naver.com\/jincheongun?Redirect=Log&logNo=222831451128",
+			"description":"오는 10월 9일까지 진행되는 이번 전시는 ‘중원의 금속<b>공예<\/b> 장인 - 주철장, 유기장, 금속 활자장’을... 이번 특별전은 진천군 지역에 초점을 맞춰 과거 물질문화와 우수한 금속<b>공예<\/b>문화 역량을 이해하고... ",
+			"bloggername":"생거진천 STORY",
+			"bloggerlink":"https:\/\/blog.naver.com\/jincheongun",
+			"postdate":"20220727"
+		}
+	]
+}

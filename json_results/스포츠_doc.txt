@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:02 +0900",
+	"total":119580,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>스포츠<\/b>심리학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5973",
+			"description":""
+		},
+		{
+			"title":"한국<b>스포츠<\/b>교육학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5969",
+			"description":""
+		},
+		{
+			"title":"한국<b>스포츠<\/b>사회학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5970",
+			"description":""
+		},
+		{
+			"title":"한국<b>스포츠<\/b>산업·경영학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5971",
+			"description":""
+		},
+		{
+			"title":"한국<b>스포츠<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=901813",
+			"description":""
+		},
+		{
+			"title":"대한<b>스포츠<\/b>의학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1550",
+			"description":""
+		},
+		{
+			"title":"<b>스포츠<\/b>와 법",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3308",
+			"description":""
+		},
+		{
+			"title":"<b>스포츠<\/b>과학리뷰",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3295",
+			"description":""
+		},
+		{
+			"title":"<b>스포츠<\/b> 동기요인으로서의 재미 : 개념 및 관련연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11278689",
+			"description":"  목차\n<b>스포츠<\/b> 동기요인으로서의 재미 : 개념 및 관련연구 \/ 김병준 ; 성창훈 1\n I. 서론 1\n II. 재미의 개"
+		},
+		{
+			"title":"이<b>스포츠<\/b> 선수들의 수면 양상 및 수면 위험요인에 관한 탐색적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650606638",
+			"description":"  표제지\n논문개요\n목차\nI. 서론 13\nII. 이론적 배경 20\n 1. 이<b>스포츠<\/b> 20\n  가. 이<b>스포츠<\/b>의 정의와 특징 20\n  "
+		},
+		{
+			"title":"<b>스포츠<\/b>인류학연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2139085",
+			"description":""
+		},
+		{
+			"title":"<b>스포츠<\/b>과학연구소논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3304",
+			"description":""
+		},
+		{
+			"title":"베이비붐세대의 <b>스포츠<\/b> 소비행동에 대한 체계적 검토 : MIXED METHODS APPRAISA",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651439548",
+			"description":"Sport Consumption Behavior of Baby Boomers : Using MMAT for Systematic Review 본 연구의 목적은 베이비붐세대의 <b>스포츠<\/b> "
+		},
+		{
+			"title":"<b>스포츠<\/b> 개념 재정립의 필요성과 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651136635",
+			"description":"Redefining Sport: the Necessity and Direction 이 논문의 목적은 <b>스포츠<\/b> 개념에 관한 선행 연구들의 분석을 통해 "
+		},
+		{
+			"title":"<b>스포츠<\/b>와 해양문화",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2138794",
+			"description":""
+		},
+		{
+			"title":"통합적 <b>스포츠<\/b>지도 : 하나로 수업모형의 체육교사교육에의 적용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11515146",
+			"description":"  목차\n통합적 <b>스포츠<\/b>지도 : 하나로 수업모형의 체육교사교육에의 적용 \/ 최의창 1\n 국문초록 1\n I. 서론"
+		},
+		{
+			"title":"해양<b>스포츠<\/b> 참가자들의 참여동기가 참여만족도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13259013",
+			"description":" 본 연구는 클럽<b>스포츠<\/b>의 형태로 이루어지고 있는 해양<b>스포츠<\/b> 참가자들의 참여동기가 참여만족도에 "
+		},
+		{
+			"title":"<b>스포츠<\/b>사이언스",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3257734",
+			"description":""
+		},
+		{
+			"title":"뉴<b>스포츠<\/b>를 활용한 학교<b>스포츠<\/b>클럽 활성화 방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41641961",
+			"description":"An Activation Plan on the Implementation of School Sports Club through New Sports 본 연구는 초등학교에서 뉴<b>스포츠<\/b>를 활"
+		},
+		{
+			"title":"<b>스포츠<\/b>이벤트 개최에 따른 지역사회 기여도와 지역이미지, <b>스포츠<\/b>경기 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78449119",
+			"description":"A Study on Relationship among Community Contribution, Community Image and Re-Hosting Intention for Sports Event Depending on Hosting Sp"
+		},
+		{
+			"title":"해양레저<b>스포츠<\/b> 활성화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11133306",
+			"description":"  목차\n해양레저<b>스포츠<\/b> 활성화 방안 \/ 박명국 ; 김성규 1\n [요약] 1\n I. 서론 2\n  1. 연구의 필요성 및 목적 "
+		},
+		{
+			"title":"한국레저<b>스포츠<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5757",
+			"description":""
+		},
+		{
+			"title":"여가 <b>스포츠<\/b> 참가 노인의 사회적 지지와 자아존중감이 심리적 웰빙에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13281399",
+			"description":" 본 연구는 여가 <b>스포츠<\/b>에 참가하는 노인의 사회적 지지와 자아존중감이 심리적 웰빙에 미치는 인과 "
+		},
+		{
+			"title":"<b>스포츠<\/b> 폭력의 유형과 대책",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41674144",
+			"description":"  목차\n<b>스포츠<\/b> 폭력의 유형과 대책 \/ 최병문 1\n 〈국문초록〉 1\n I. 서론 1\n II. <b>스포츠<\/b> 폭력의 유형과 특"
+		},
+		{
+			"title":"프로<b>스포츠<\/b>팬 성향 및 경기관람 결정요인에 관한 조사 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11121499",
+			"description":"  목차\n프로<b>스포츠<\/b>팬 성향 및 경기관람 결정요인에 관한 조사 연구 \/ 채한승 ; 이종호 1\n [요약] 1\n I. 서"
+		},
+		{
+			"title":"<b>스포츠<\/b> 성폭력의 실태, 규제와 대책",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45733721",
+			"description":"  목차\n<b>스포츠<\/b> 성폭력의 실태, 규제와 대책 \/ 윤상민 1\n 〈국문초록〉 1\n I. 서론 2\n II. <b>스포츠<\/b> 성폭력의 "
+		},
+		{
+			"title":"<b>스포츠<\/b>웨어러블제품에 대한 소비자혁신성이 수용의도에 미치는 영향: ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74825330",
+			"description":"A Study on the Effect of Consumer's Innovation on Sport Wearable Products : Focused on Technology Acceptance Model(TAM) 본 연구는 "
+		},
+		{
+			"title":"<b>스포츠<\/b>과학연구논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1051672",
+			"description":""
+		},
+		{
+			"title":"정형<b>스포츠<\/b>물리치료학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1549",
+			"description":""
+		},
+		{
+			"title":"<b>스포츠<\/b>문화 과학연구지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=899502",
+			"description":""
+		},
+		{
+			"title":"아웃도어 <b>스포츠<\/b>웨어 브랜드 선택속성을 통한포지셔닝 전략 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77888481",
+			"description":"A Study on Positioning Strategy of Outdoor Sportswear Brand Based on Selected Attributes Evaluation 아웃도어 <b>스포츠<\/b>웨어 시장"
+		},
+		{
+			"title":"댄스<b>스포츠<\/b> 참여노인의 참여 동기가 여가만족 및 심리적 행복감에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289995471",
+			"description":"Relations among Motivation, Leisure Satisfaction and Psychological Happiness of Elderly Participating in Dance Sports 본 연구는 댄"
+		},
+		{
+			"title":"<b>스포츠<\/b>과학",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3293",
+			"description":""
+		},
+		{
+			"title":"장애인 <b>스포츠<\/b> 참가자의 기본적 심리욕구, <b>스포츠<\/b> 참여 동기, 운동지속",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74839904",
+			"description":"The Relationships Between Basic Psychological Needs, Sports Participation Motives, and Exercise Adherence Intention in Sports Participa"
+		},
+		{
+			"title":"생활체육 <b>스포츠<\/b>지도사의 역량모델 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=117817969",
+			"description":"Study on the Development to the Competencies Model of Sport-for-all Instructors 본 연구의 목적은 생활체육 <b>스포츠<\/b>지도사"
+		},
+		{
+			"title":"프로<b>스포츠<\/b> 관중의 관여도 수준간의 경기관람 결정요인의 차이 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11125843",
+			"description":"  목차\n프로<b>스포츠<\/b> 관중의 관여도 수준간의 경기관람 결정요인의 차이 분석 \/ 김륭희 ; 신재영 1\n [요약"
+		},
+		{
+			"title":"노인의 여가<b>스포츠<\/b> 참여정도와 사회적 지원, 운동만족 그리고 고독감의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13260016",
+			"description":" 이 연구는 노인의 여가<b>스포츠<\/b> 참여정도와 사회적 지원, 운동만족 및 고독감의 관계를 규명하는데 주"
+		},
+		{
+			"title":"소비자에게 지각된 <b>스포츠<\/b>센터 서비스 품질에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11136925",
+			"description":"  목차\n소비자에게 지각된 <b>스포츠<\/b>센터 서비스 품질에 관한 연구 \/ 이광용 ; 조광민 1\n [요약] 1\n I. 서론 2"
+		},
+		{
+			"title":"<b>스포츠<\/b> 구단의 Social Network Service(SNS)활동 관여도와 구단이미지 및 태도, ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77890663",
+			"description":"The Relationships among the Involvements of Social Network Service(SNS) of the Sports Team's Activity, Team Image, Team Attitude, Team "
+		},
+		{
+			"title":"해양<b>스포츠<\/b> 참여자의 재미요인과 참여제약이 몰입도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74852580",
+			"description":"The influence of enjoyment and perceived constraintsflow degree of marine sports participants 본 연구는 해양<b>스포츠<\/b> 참여자"
+		},
+		{
+			"title":"<b>스포츠<\/b>지도자의 리더십과 선수의 자기관리 및 경기력의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13257291",
+			"description":" 본 연구의 목적은 <b>스포츠<\/b>지도자의 리더십과 선수의 자기관리 및 경기력의 관계를 실증적으로 구명하"
+		},
+		{
+			"title":"<b>스포츠<\/b>과학연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3298",
+			"description":""
+		},
+		{
+			"title":"<b>스포츠<\/b>광고의 <b>스포츠<\/b>스타 이미지가 청소년들의 <b>스포츠<\/b> 참여와 제품구매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79134411",
+			"description":"The Influence of Sports Star Images from Sports Advertisements on Teenagers' Sports Participation and Buying Intention 이 연구는 "
+		},
+		{
+			"title":"12주간의 댄스<b>스포츠<\/b> 활동이 여성노인의 자아탄력성과 주관적 행복감 및",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74825663",
+			"description":"Effect of Chronic Dance Sports Activity on Ego-resilience, Subjective Happiness and Balance in Elderly Women Purpose: The purpose of th"
+		},
+		{
+			"title":"대한정형외과<b>스포츠<\/b>의학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=153579",
+			"description":""
+		},
+		{
+			"title":"사회연결망(social network analysis: SNA)을 이용한 <b>스포츠<\/b> 경기분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16532723",
+			"description":"Notational Analysis of Sports using Social Network Analysis 이 연구의 목적은 <b>스포츠<\/b> 경기분석의 동향 및 경기분석"
+		},
+		{
+			"title":"AHP를 적용한 지방자치단체의 <b>스포츠<\/b>이벤트 성공요인 우선순위 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77887744",
+			"description":"Analysis on Priority of Success Factors in the Provincial Sports Event through AHP Method 본 연구의 목적은 지방자치단체의"
+		},
+		{
+			"title":"한국헌법상의 <b>스포츠<\/b>기본권과 <b>스포츠<\/b>기본법 제정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11506139",
+			"description":"  목차\n한국헌법상의 <b>스포츠<\/b>기본권과 <b>스포츠<\/b>기본법 제정 \/ 김상겸 1\n I. 들어가는 말 1\n II. 헌법국가에 "
+		},
+		{
+			"title":"국내 <b>스포츠<\/b>산업․경영학 연구동향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77895373",
+			"description":"An Analysis of Research Trends of Sport Management in Korea 본 연구의 목적은 국내 <b>스포츠<\/b>산업·경영학 연구동향에 "
+		},
+		{
+			"title":"왜 <b>스포츠<\/b> 문화 교육인가?",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16505722",
+			"description":" <b>스포츠<\/b>는 우리 삶에 존재하고 있는 문화 중의 하나이다. <b>스포츠<\/b> 문화는 사람들로 하여금 자신의 삶속"
+		},
+		{
+			"title":"학교<b>스포츠<\/b>클럽 참가에 따른 기본 심리욕구와 <b>스포츠<\/b>품성 및 <b>스포츠<\/b>맨",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153586335",
+			"description":"The Relationshiops among Persived Psychological Needs, Sports Character and Sportpersonship by Elementary School Students 본 연구는"
+		},
+		{
+			"title":"아웃도어 <b>스포츠<\/b>의류 구매결정요인에 따른 시장 세분화전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155989319",
+			"description":"The Market Segmentation through Purchasing Decision Factors of Outdoor Sports Wear Using Conjoint Analysis 본 연구는 컨조인트 "
+		},
+		{
+			"title":"영화&lt;킹콩을 들다&gt;로 재현된 한국엘리트<b>스포츠<\/b>의 현실고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58338574",
+			"description":"The Realistic Consideration of Korean Elite Sports in the Movie of &lt;Lifting King Kong&gt; 본 연구는 비인기 종목인 역도를 중"
+		},
+		{
+			"title":"<b>스포츠<\/b>이벤트 서비스품질과 고객만족이 고객행동의도에 미치는 영향 : ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77886046",
+			"description":"An Influence of Sports Event Service Quality and Customer's Satisfaction on Customer's Behavioral Intention - Centering on Participants"
+		},
+		{
+			"title":"<b>스포츠<\/b>센터의 핵심서비스품질, 관계혜택, 대안매력도, 전환비용, 고객만",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77891564",
+			"description":"Relationships among Sport Center's Core Service Quality, Relational Benefit, Alternative Attractiveness, Switching Cost, Customer Satis"
+		},
+		{
+			"title":"<b>스포츠<\/b>센터 퍼스널트레이너 관계마케팅 실행요인이 관계품질 및 충성도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77891004",
+			"description":"The Effect of Sport Center Personal Trainer's Relationship Marketing Implementation Factors, Relationship Quality and Loyalty 본 연"
+		},
+		{
+			"title":"한국 태권도 선수의 열정이 <b>스포츠<\/b> 정서 및 인지된 경기력에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562300186",
+			"description":"The Effects of Passion on Sport Emotion and Perceived Performance among Korean Taekwondo Players 본 연구는 한국 태권도 선수"
+		},
+		{
+			"title":"대학생들의 e<b>스포츠<\/b> 참여현황과 관여도에 관한 연구: 경쟁성에 대한 인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651442913",
+			"description":"A Study on Esport Participation and Involvement of College Students: The Influence of Perception of Competitiveness, Gender, and Athlet"
+		},
+		{
+			"title":"지역활성화를 위한 뉴<b>스포츠<\/b> 도입방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11125840",
+			"description":"  목차\n지역활성화를 위한 뉴<b>스포츠<\/b> 도입방안 \/ 임우택 1\n [요약] 1\n I. 서론 2\n II. 연구방법 3\n III. 뉴스포"
+		},
+		{
+			"title":"<b>스포츠<\/b> 자신감 개념 구조 탐색: 투기종목 선수를 대상으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74861157",
+			"description":"An Analysis of the Sport Confidence Construct : Competitive Sports 본 연구는 우리나라의 문화와 현상에 맞는 <b>스포츠<\/b> "
+		},
+		{
+			"title":"<b>스포츠<\/b>사고의 민사적 책임과 합리적인 분쟁해결",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41676066",
+			"description":"  목차\n<b>스포츠<\/b>사고의 민사적 책임과 합리적인 분쟁해결 \/ 김상찬 ; 김상명 1\n 〈국문초록〉 1\n I. 서론 2\n"
+		},
+		{
+			"title":"<b>스포츠<\/b>경영학의 연구동향 분석: 저자 연결망과 핵심어 연결망을 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155989316",
+			"description":"An Analysis of Research Trends of Sport Management: Co-author Network and Keyword Network 본 연구는 사회연결망 분석을 활"
+		},
+		{
+			"title":"<b>스포츠<\/b> 에이전트의 법적 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11506240",
+			"description":"  목차\n<b>스포츠<\/b> 에이전트의 법적 과제 \/ 김용섭 1\n I. 머리말 1\n  1. <b>스포츠<\/b>의 프로화·상업화와 에이전트"
+		},
+		{
+			"title":"아리스토텔레스의 체육사상(19) : <b>스포츠<\/b>에서 모방 논리의 적용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651440929",
+			"description":"Aristotle's Thought on Physical Education(19): Application of Mimetic Logic in Sport 본 연구의 목적은 아리스토텔레스의  "
+		},
+		{
+			"title":"해양<b>스포츠<\/b> 참여자의 참여동기, 여가몰입 및 여가지속의 인과관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77888483",
+			"description":"A Study on the Relationship among Participation Motivation, Flow Experience and Leisure Continuation of Marine Sports Participants 이 "
+		},
+		{
+			"title":"해양<b>스포츠<\/b> 활성화 방안 연구 : 거제시의「바다로 세계로」프로그램 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11125849",
+			"description":"  목차\n해양<b>스포츠<\/b> 활성화 방안 연구 : 거제시의 「바다로 세계로」 프로그램 중심 \/ 박봉률 ; 강진홍 1"
+		},
+		{
+			"title":"<b>스포츠<\/b>기본법 제정을 위한 시론적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11510977",
+			"description":"  목차\n<b>스포츠<\/b>기본법 제정을 위한 시론적 연구 \/ 김상겸 1\n I. 들어가는 말 1\n II. <b>스포츠<\/b>법의 현황과 문"
+		},
+		{
+			"title":"여가<b>스포츠<\/b> 참가자의 자기결정성, 여가제약 협상, 진지한 여가, 운동지",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74843923",
+			"description":"Structural Equation Model Analysis of the Self-Determination, Leisure Constraint Negotiation, Serious Leisure, and Exercise Adherence o"
+		},
+		{
+			"title":"중학교 <b>스포츠<\/b> 강사 제도를 통한 학교<b>스포츠<\/b>클럽 활성화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=180002550",
+			"description":"Activation Plan for School Sports Club through a Sports Instructor System in Middle School 본 연구는 중학교 학교<b>스포츠<\/b>클"
+		},
+		{
+			"title":"복싱선수의 <b>스포츠<\/b>대처전략과 성공지각 및 자아존중감의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13824697",
+			"description":" 이 연구는 복싱선수의 사회․문화적 배경 별 <b>스포츠<\/b>대처전략과 성공지각, 자아존중감에 대한 개념을"
+		},
+		{
+			"title":"<b>스포츠<\/b> 용품 브랜드의 개성과 자아이미지 일치성이 브랜드 충성도와 재 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78449125",
+			"description":"The Effects of the Congruence between Sports Brand Personality and Self-Image on Brand Loyalty and Repurchase Intention 본 연구는 "
+		},
+		{
+			"title":"<b>스포츠<\/b> 스폰서쉽 참여와 소비자 관여도가 기업의 광고효과에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11125826",
+			"description":"  목차\n<b>스포츠<\/b> 스폰서쉽 참여와 소비자 관여도가 기업의 광고효과에 미치는 영향 \/ 차용백 ; 조광민 ; "
+		},
+		{
+			"title":"<b>스포츠<\/b> 참여에 미치는 문화자본의 영향 - 스키와 골프 참여를 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74812592",
+			"description":"The Effect of Cultual Capital on Sports Activities 본 연구는 문화자본의 보유정도를 간접적인 방법뿐만 아니라 "
+		},
+		{
+			"title":"청소년 축구선수들의 성취목표성향과 <b>스포츠<\/b>자신감 간의 관계에서 자기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58328639",
+			"description":"The Mediating Effects of Self-Management in theRelationship Between Achievement Goal Orientation andSport onfidence among Adolescents` "
+		},
+		{
+			"title":"조직공정성이 <b>스포츠<\/b>조직 구성원의조직신뢰와 직무만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77888482",
+			"description":"Influence of organizational justice on Organizational Trust and Job Satisfaction of Member of Sports Administrative Organization 현대"
+		},
+		{
+			"title":"지역사회 진흥을 위한 <b>스포츠<\/b> 이벤트 활용 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11121494",
+			"description":"  목차\n지역사회 진흥을 위한 <b>스포츠<\/b> 이벤트 활용 방안 \/ 정경회 1\n [요약] 1\n I. 서론 1\n II. 연구방법 4\n II"
+		},
+		{
+			"title":"학술지를 통해 본 해양<b>스포츠<\/b> 연구동향과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13255371",
+			"description":" 본 연구는 해양<b>스포츠<\/b>에 관한 연구의 흐름과 과제를 도출하고자 국내 학술지에 게재된 해양<b>스포츠<\/b>에"
+		},
+		{
+			"title":"중학교 학교<b>스포츠<\/b>클럽 활동 외부 <b>스포츠<\/b>강사의 직무불안정성과 직무만",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187878864",
+			"description":"Job Insecurity, Job Satisfaction, Job Commitment and Turnover Intention in External Sports Instructors for Middle School Sports Club Ac"
+		},
+		{
+			"title":"해양레저<b>스포츠<\/b> 관광 활성화에 관한 연구 : 제주 방문 관광객을 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16397815",
+			"description":"  목차\n해양레저<b>스포츠<\/b> 관광 활성화에 관한 연구 : 제주 방문 관광객을 중심으로 \/ 김덕진 1\n ABSTRACT 1\n I"
+		},
+		{
+			"title":"<b>스포츠<\/b> 폭력의 유형과 대책",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41674144",
+			"description":"The Type of Sports Violence and It's Countermeasure 인권사각지대로 남아있는 <b>스포츠<\/b> 폭력은 국가가 적극적으로 "
+		},
+		{
+			"title":"여가<b>스포츠<\/b> 사회화가 청소년 비행에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45698900",
+			"description":"The Effect of Leisure Sports Socialization on Juvenile Delinquency 본 연구의 목적은 여가 사회화 경험이 특정 개인의 "
+		},
+		{
+			"title":"교육권과 학교<b>스포츠<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11511021",
+			"description":"  목차\n교육권과 학교<b>스포츠<\/b> \/ 김상겸 1\n I. 들어가는 말 1\n II. 문화국가에 있어서 <b>스포츠<\/b>와 교육 3\n  1. "
+		},
+		{
+			"title":"댄스<b>스포츠<\/b> 선수들의 중도포기 원인 탐색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177325177",
+			"description":"Exploratory Research on Why Dancesport Athletes Renounce Halfway 본 연구는 중도포기의 개념적 구조를 탐색하기 위한 "
+		},
+		{
+			"title":"<b>스포츠<\/b>센터 강사들의 지식공유와 혁신행동의 관계에서 다차원적 조직몰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77894327",
+			"description":"Moderating effects of multi-dimensional organizational commitment between knowledge sharing and Innovative behavior among instructors i"
+		},
+		{
+			"title":"헬스클럽 이용자의 몰입경험이 <b>스포츠<\/b>재미요인에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12384680",
+			"description":"  국문목차\n표제지=0,1,4\n국문요약=i,5,2\n목차=iii,7,2\nI. 서론=1,9,1\n 1. 연구의 필요성=1,9,2\n 2. 연구의 목적=3,1"
+		},
+		{
+			"title":"<b>스포츠<\/b>과학논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=65104",
+			"description":""
+		},
+		{
+			"title":"기술수용모델(TAM)을 통한 <b>스포츠<\/b> 브랜드 앱(Sports branded apps) 수용 및 구매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=163764358",
+			"description":"Factors Influencing Customers Acceptance of the Sport Branded Apps Provided by the Sport Brand Company : A Case Study on Nike Running A"
+		},
+		{
+			"title":"해양<b>스포츠<\/b> 교육프로그램 참여가 대학생의 열정, 주관적 웰빙 및 만족도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56445835",
+			"description":"The Effects of Marine Sports Education on Passion, Subjective Well-Being and Participation Satisfaction among College Students The purp"
+		},
+		{
+			"title":"<b>스포츠<\/b> 브랜드 연상 척도의 개발 및 표준화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13919843",
+			"description":" 본 연구의 목적은 현재 소비자 행동론에서 가장 보편적으로 사용되어지는 브랜드 연상 측정 도구 중 "
+		},
+		{
+			"title":"지역주민의 <b>스포츠<\/b>이벤트 관심도가 지역경제 변동 및 지역SOC의식변화에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13276810",
+			"description":" 이 연구는 군집별 특성에 따른 지역경제변동 및 지역SOC의식변화에 대한 차이와 지역주민의 <b>스포츠<\/b>이"
+		},
+		{
+			"title":"지역사회 공공체육시설 이용자의 <b>스포츠<\/b> 소비행동과지역사회 애착도의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13606830",
+			"description":"The Relationship between the Consumption Behavior of Community Sports Participants and their Community Attachment 본 연구는 지역"
+		},
+		{
+			"title":"<b>스포츠<\/b>센터 종사자의 직무만족도 및 직무심리상태와 고객만족도와의 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11125829",
+			"description":"  목차\n<b>스포츠<\/b>센터 종사자의 직무만족도 및 직무심리상태와 고객만족도와의 관계 \/ 김양구 ; 전호문 ; "
+		},
+		{
+			"title":"사회트렌드와 <b>스포츠<\/b>(1): 4차 산업혁명과 <b>스포츠<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420309876",
+			"description":"Social Trend and Sports(1): The Fourth Industrial Revolution and Sports 이 연구는 4차 산업혁명의 의미를 살펴보고, 이"
+		},
+		{
+			"title":"<b>스포츠<\/b>목표성향척도(TEOSQ)의 다집단(multi-group) 확인적 요인분석과 잠재평",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13162515",
+			"description":" 본 연구의 목적은 Duda(1992)의 TEOSQ를 김병준(2001)이 번안하여 개발한 국문판 <b>스포츠<\/b>목표성향질문지를 "
+		},
+		{
+			"title":"소비자 가치와 <b>스포츠<\/b>웨어 추구혜택 및 속성평가에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11573260",
+			"description":"A Study on Consumer`s Value, Sportswear`s Benefit Sought and Attribute Evaluation The purpose of this study were to investigate the rel"
+		},
+		{
+			"title":"<b>스포츠<\/b>센터 고객 만족과 구매 후 행동의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11117714",
+			"description":"  목차\n<b>스포츠<\/b>센터 고객 만족과 구매 후 행동의 관계 \/ 김동원 ; 최종진 1\n [요약] 1\n I. 서론 1\n  1. 연구의"
+		},
+		{
+			"title":"<b>스포츠<\/b> 윤리의 정초와 실천과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13919827",
+			"description":" 이 연구는 <b>스포츠<\/b> 윤리라는 담론이 단순히 일상적인 용어로 사용될 뿐 명확한 근거와 개념화를 정립"
+		},
+		{
+			"title":"한국<b>스포츠<\/b>교육학회보",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=513601",
+			"description":""
+		},
+		{
+			"title":"댄스<b>스포츠<\/b> 참가자의 관여도에 따른 이용만족, 지속이용의도 및 구전의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13918156",
+			"description":" 본 연구는 댄스<b>스포츠<\/b> 참가자의 관여도 정도에 따라 이용만족수준, 지속이용의도, 구전의도에는 어"
+		},
+		{
+			"title":"다문화사회 소통 통로로서의 <b>스포츠<\/b> : 문화적응 과정에서의 <b>스포츠<\/b>의 역",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=38297095",
+			"description":"   다문화사회, 다문화주의, 문화적응, <b>스포츠<\/b> "
+		}
+	]
+}

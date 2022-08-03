@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:08 +0900",
+	"total":55105,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"LG<b>화학<\/b> 에너지기후, 지속가능전략, CSR <b>직무<\/b> 인터뷰 2021.... ",
+			"link":"https:\/\/blog.lgchem.com\/2021\/02\/01_sustainability_interview\/",
+			"description":"다같이 성장하는 LG<b>화학<\/b> 에너지기후, 지속가능전략, CSR <b>직무<\/b> 인터뷰 안녕하세요. 자기 소개와 본인의 업무에 대해 이야기해주세요. •정아름 책임: 안녕하세요. 저는 에너지기후팀 정아름 책임입니다. 저는... ",
+			"bloggername":"LG화학 공식 블로그 - LG케미토피아",
+			"bloggerlink":"https:\/\/blog.lgchem.com\/",
+			"postdate":"20210201"
+		},
+		{
+			"title":"금호석유<b>화학<\/b> 생산<b>직무<\/b> 1차면접(역량,토론) 후기",
+			"link":"https:\/\/blog.naver.com\/yesyearim?Redirect=Log&logNo=222674395383",
+			"description":"금호석유<b>화학<\/b>그룹 채용 중에, 나는 금호미쓰이를 지원했었다. 금호미쓰이는 일본의 미쓰비시<b>화학<\/b>과의... 지원<b>직무<\/b> 지원동기 3. 교환학생 어떻게 다녀온 것인가 3-1. 코로나인데 어떻게 다녀온건지, 어떤과목... ",
+			"bloggername":"Diary",
+			"bloggerlink":"https:\/\/blog.naver.com\/yesyearim",
+			"postdate":"20220316"
+		},
+		{
+			"title":"한국동서발전 NCS 직무기술서 <b>화학 직무<\/b> 보기",
+			"link":"https:\/\/blog.naver.com\/ricefield?Redirect=Log&logNo=222722905846",
+			"description":"배출ㆍ방지시설 운용 <b>직무<\/b> 수행내용 (<b>화학<\/b>물질분석) <b>화학<\/b>물질분석은 <b>화학<\/b>물질의 성분, 조성, 구조, 함량, 특성 등을 확인하기 위해 <b>화학<\/b>반응이나 분석기기 등을 활용하여 분석 계획수립, 시료채취, 전처리... ",
+			"bloggername":"커리어 마라톤",
+			"bloggerlink":"https:\/\/blog.naver.com\/ricefield",
+			"postdate":"20220506"
+		},
+		{
+			"title":"LG<b>화학<\/b> 채용 해외영업(B2B영업)<b>직무<\/b> 현직자멘토링_잡스인천... ",
+			"link":"https:\/\/blog.naver.com\/kairos_book?Redirect=Log&logNo=222766450323",
+			"description":"<b>직무<\/b> 소개 LG<b>화학<\/b> 해외영업 <b>직무<\/b>에서 멘토님은 3가지의 업무를 주로 하신다고 합니다. 담당 시장 분석 : 현지 시장 조사 산업 동향 파악 : 플라스틱 산업 동향 파악 끊임 없는 공부 : 공장, 자사 제품 이해, 테크... ",
+			"bloggername":"카이로스의 스케치북",
+			"bloggerlink":"https:\/\/blog.naver.com\/kairos_book",
+			"postdate":"20220609"
+		},
+		{
+			"title":"2022년 2Q 유한<b>화학<\/b> 채용 공고 Review(<b>직무<\/b>, 연봉 정보 등)",
+			"link":"https:\/\/blog.naver.com\/s_manager_s?Redirect=Log&logNo=222708765323",
+			"description":"오늘은 유한<b>화학<\/b>(안산)의 채용 공고를 Review해 보려고 합니다. 우선, 유한<b>화학<\/b>은 우리에게도 친숙하게... 경력에는 특별히 기간에 대한 제한은 없네요 <b>직무<\/b>도 간결하게 품질관리, 시험분석 이라고 적혀... ",
+			"bloggername":"제약회사S과장",
+			"bloggerlink":"https:\/\/blog.naver.com\/s_manager_s",
+			"postdate":"20220423"
+		},
+		{
+			"title":"2020 하반기 LG<b>화학<\/b> 석유<b>화학<\/b>사업본부 <b>직무<\/b> 분석하기",
+			"link":"https:\/\/blog.naver.com\/gongdaesaeng14?Redirect=Log&logNo=222113340740",
+			"description":"원래는 자소서 분석편도 같이 쓸려고 했지만 글이 길어져서 1편- LG<b>화학 직무<\/b> 분석하기 , 2편- LG화학 자소서 분석하기로 글을 나누겠습니다. 직무에 대해 잘 알고 거기에 더 나아가 직무를 해석하는 것은... ",
+			"bloggername":"독취사멘토 공대선배H",
+			"bloggerlink":"https:\/\/blog.naver.com\/gongdaesaeng14",
+			"postdate":"20201012"
+		},
+		{
+			"title":"LG<b>화학<\/b>의 품질 <b>직무<\/b>에 대해 알아보자!",
+			"link":"https:\/\/blog.naver.com\/tjd9807?Redirect=Log&logNo=222811394315",
+			"description":"희망 기업 <b>직무<\/b>(직군)소개 혹은 <b>직무<\/b>기술서 수집 (희망 기업에 <b>직무<\/b>소개 <b>직무<\/b>기술서 없다면, 경쟁사 혹은 다른 기업으로 수집) - <b>직무<\/b> 역할과 목표 - 필요 <b>직무<\/b> 역량 LG<b>화학<\/b> 홈페이지 내 소개 생산 - 품질 <b>직무<\/b>... ",
+			"bloggername":"0하성의 1상",
+			"bloggerlink":"https:\/\/blog.naver.com\/tjd9807",
+			"postdate":"20220714"
+		},
+		{
+			"title":"(주)대연<b>화학 직무<\/b>역량강화 교육",
+			"link":"https:\/\/blog.naver.com\/chunaee?Redirect=Log&logNo=222663584038",
+			"description":"(주) 대연하학 2022년 새로운 도약을 위한 전직원 <b>직무<\/b>역량강화 교육을 진행합니다 * 교육일정: 2022년 3월 10일 * 교육대상: 대연<b>화학<\/b> 직원 * 교육내용: 셀프리더십 * 교육장소: 사내 교육장 발전하는 대한민국... ",
+			"bloggername":"한국서비스교육원,한국서비스연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/chunaee",
+			"postdate":"20220304"
+		},
+		{
+			"title":"제조업 환경안전<b>직무<\/b>, <b>화학<\/b>물질 안전관리 전문인력 양성과정)",
+			"link":"https:\/\/blog.naver.com\/hansg981009?Redirect=Log&logNo=222733356567",
+			"description":"저는 약 두 달 전(3\/7-3\/10)에 중견 제조업 회사 환경<b>직무<\/b> &amp; 화관협에서 진행하는 ‘<b>화학<\/b>물질 안전관리 전문인력 양성과정’ 중 지원한 3개의 회사 에서 면접을 보았습니다 ! (3일에 총 네번 면접 보느라... ",
+			"bloggername":"평범한 신입사원",
+			"bloggerlink":"https:\/\/blog.naver.com\/hansg981009",
+			"postdate":"20220515"
+		},
+		{
+			"title":"[물류채용]2022년 LG<b>화학<\/b> 신입 공채!, LG<b>화학<\/b> 물류<b>직무<\/b>채용... ",
+			"link":"https:\/\/blog.naver.com\/yellowtoss?Redirect=Log&logNo=222725313693",
+			"description":"LG<b>화학<\/b> 물류<b>직무<\/b> LG<b>화학<\/b>은 물류<b>직무<\/b>의 상세 내용으로 물류 관련 계약관리와 물류비용 분석 및 프로세스 개선을 표기하고 있습니다. 따라서 LG<b>화학<\/b>의 물류<b>직무<\/b>를 운송사인 물류사와 계약을 체결하고... ",
+			"bloggername":"물류업 컨설팅 강물류",
+			"bloggerlink":"https:\/\/blog.naver.com\/yellowtoss",
+			"postdate":"20220509"
+		},
+		{
+			"title":"금호석유<b>화학<\/b> _ <b>직무<\/b>역량, 가치관, 습관, 단체활동, 조직문화... ",
+			"link":"https:\/\/blog.naver.com\/lyk00917?Redirect=Log&logNo=222616425479",
+			"description":"금호석유<b>화학<\/b>그룹의 조직문화는 어떠할 것이라고 생각하십니까? 그리고 이러한 조직문화 속에서 어떻게 화합하여 일할 수 있을지 서술하십시오. (300자) 오늘보다 더 나은 내일, 미래를 위해 도전하는... ",
+			"bloggername":"유애옹",
+			"bloggerlink":"https:\/\/blog.naver.com\/lyk00917",
+			"postdate":"20220108"
+		},
+		{
+			"title":"[3D뮤즈] 정유<b>화학 직무<\/b>안전교육 실감형 콘텐츠... ",
+			"link":"https:\/\/blog.naver.com\/3dmuse?Redirect=Log&logNo=222611748138",
+			"description":"3D뮤즈가 자체개발 및 제작한 정유<b>화학 직무<\/b>안전교육 전문 콘텐츠 ! 안전사고의 파급력이 가장 큰 산업인 '정유화학' 분야의 실감형 직무안전교육 콘텐츠, Refinery Master XR은 안전사고예방과... ",
+			"bloggername":"3D뮤즈 공식블로그✔",
+			"bloggerlink":"https:\/\/blog.naver.com\/3dmuse",
+			"postdate":"20220103"
+		},
+		{
+			"title":"[관공서교육] 한국<b>화학<\/b>연구원 대상 <b>직무<\/b>스트레스 진단 및... ",
+			"link":"https:\/\/blog.naver.com\/alltoedu?Redirect=Log&logNo=222554938523",
+			"description":"한국<b>화학<\/b>연구원 대상 <b>직무<\/b>스트레스 진단 및 스트레스 관리, 해소 정말 중요합니다 안녕하세요. 올투게더에듀케이션입니다. 사람은 보통 어떤 일을 하든 간에 외부로부터 어떤 영향을 받게 되면 스트레스를... ",
+			"bloggername":"올투게더에듀케이션",
+			"bloggerlink":"https:\/\/blog.naver.com\/alltoedu",
+			"postdate":"20211102"
+		},
+		{
+			"title":"<b>화학<\/b>·바이오 ISC 제1기... 두 번째 이야기 - 켐바이오넷 <b>직무<\/b>MAP",
+			"link":"https:\/\/blog.naver.com\/godqhr3306?Redirect=Log&logNo=222491832861",
+			"description":"<b>직무<\/b>MAP은 <b>화학<\/b>, 바이오 분야에 어떤 <b>직무<\/b>들이 있고 해당 <b>직무<\/b>를 위해 어떤 것이 필요한지, 어떤 업무를 수행하는지 등을 세세하게 제공해줍니다. 가장 먼저 켐바이오넷에 접속한 후 '직업·진로' 메뉴로... ",
+			"bloggername":"브로코알리",
+			"bloggerlink":"https:\/\/blog.naver.com\/godqhr3306",
+			"postdate":"20210901"
+		},
+		{
+			"title":"LG <b>화학<\/b> 첨단소재 HR <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/ho_bii?Redirect=Log&logNo=222824569768",
+			"description":"LG <b>화학<\/b> (전략 혹은 신)제품\/서비스\/제도가 무엇이라 생각 석유<b>화학<\/b>사업부문 : 에틸렌, 프로필렌, PE... 해당 제품\/서비스\/제도 성공을 위해서 HR 직군\/<b>직무<\/b>에서 수행해야 하는 주요 역할 제시 3. 위 역할... ",
+			"bloggername":"August",
+			"bloggerlink":"https:\/\/blog.naver.com\/ho_bii",
+			"postdate":"20220722"
+		},
+		{
+			"title":"한국중부발전 사무<b>직무<\/b> 정보통신 발전<b>화학<\/b> 토목 건축 정규직... ",
+			"link":"https:\/\/blog.naver.com\/hyejin_1124?Redirect=Log&logNo=222633437435",
+			"description":"한국중부발전 정보통신 채용 첨부파일 한국중부발전 정보통신 직무기술서.pdf 파일 다운로드 3. 한국중부발전 발전화학 채용 첨부파일 한국중부발전 발전<b>화학 직무<\/b>기술서.pdf 파일 다운로드 4. 한국중부발전... ",
+			"bloggername":"취업컨설턴트 요나 | 취업상담소",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyejin_1124",
+			"postdate":"20220128"
+		},
+		{
+			"title":"석유 <b>화학<\/b> 해외 영업 현직자가 들려주는 디테일한 <b>직무<\/b> 역량... ",
+			"link":"https:\/\/blog.naver.com\/nsandyk?Redirect=Log&logNo=222031894050",
+			"description":"자기 소개를 해달라 - 석유 <b>화학<\/b>, 전선, 식품 업계를 두루 경험한 뼈 속까지 해외 영업인인 사람.... 몰랐다면, <b>직무<\/b> 제대로 파악 못했던 것이다.... 잔인하게 이야기 해서 미안하다. 워낙 치열한 경쟁이... ",
+			"bloggername":"젊.다.네 - 인재다락방! 취업 전략과 실무 내공을!",
+			"bloggerlink":"https:\/\/blog.naver.com\/nsandyk",
+			"postdate":"20200715"
+		},
+		{
+			"title":"2022년 2Q LG<b>화학<\/b>(생명과학사업) 채용 공고 Review(<b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/s_manager_s?Redirect=Log&logNo=222736889228",
+			"description":"오늘은 LG<b>화학<\/b>(생명과학사업) 오송 공장의 채용 공고를 Review해 보려고 합니다. 1. 지원 자격 및 접수... 참고해주세요 <b>직무<\/b> 상세 내용이 그렇게 구체적이진 않아 다음과 같이 해당 <b>직무<\/b>를 예상해 봅니다.... ",
+			"bloggername":"제약회사S과장",
+			"bloggerlink":"https:\/\/blog.naver.com\/s_manager_s",
+			"postdate":"20220518"
+		},
+		{
+			"title":"<b>화학<\/b>공학과 진로 화공플랜트 제조업체 <b>직무<\/b> (영업 &amp; PM편)",
+			"link":"https:\/\/blog.naver.com\/missvella?Redirect=Log&logNo=222753822480",
+			"description":"<b>화학<\/b>공학과 진로 생각보다 다양할텐데요, 오늘은 화공플랜트 영업과 피엠 <b>직무<\/b>에 대해 간략하게 소개했습니다. 실무자 입장에서 보는 거라 실제 입사 후에 보시는 모습과 비슷하실거라 생각되네요. 추가... ",
+			"bloggername":"공부하며 성장하는 S.Log",
+			"bloggerlink":"https:\/\/blog.naver.com\/missvella",
+			"postdate":"20220601"
+		},
+		{
+			"title":"[취준 일기] 2021년 하반기 금호석유<b>화학<\/b> 해외영업 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/yonghyeonkim97?Redirect=Log&logNo=222558632117",
+			"description":"금호석유<b>화학<\/b>도 페이 괜찮고, 규모 괜찮고, 마침 해외영업 <b>직무<\/b> 모집해서 지원했다. 자소서는 특이하게 Challenge, Change, Team, Honesty 4 영역으로 구분해 영역별로 100~300자 이내의 짧은 분량의 문항 3~4개로... ",
+			"bloggername":"용궁",
+			"bloggerlink":"https:\/\/blog.naver.com\/yonghyeonkim97",
+			"postdate":"20211104"
+		},
+		{
+			"title":"[브리티쉬아메리칸타바코] 영국ㅣ사천공장 <b>화학<\/b>분석 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/bestfic?Redirect=Log&logNo=222090801923",
+			"description":"브리티쉬아메리칸타바코 사천공장 <b>화학<\/b>분석 <b>직무<\/b> 신입\/경력 채용진행중! (~9\/21) 기업소개 BAT코리아는 1990년 설립된 British American Tobacco의 한국지사로 서울 본사 및 지사, R&amp;D센터, 제조공장을 갖춘 세계... ",
+			"bloggername":"KOTRA 외투기업채용지원팀 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/bestfic",
+			"postdate":"20200916"
+		},
+		{
+			"title":"금호석유<b>화학<\/b>그룹 1차 면접 후기(<b>직무<\/b>+토의면접)",
+			"link":"https:\/\/blog.naver.com\/96bossam?Redirect=Log&logNo=222594513815",
+			"description":"그룹사 계열 중 하나에 지원했는데, 해당 <b>직무<\/b>에 지원한 사람은 지원사 관계없이 다 같이 모여서... 주제는 <b>화학<\/b>업계에 대한 것이 아니라 그냥 시사 뉴스에 대한 지문을 주고 어떠한 주제에 대해 토의를 하여... ",
+			"bloggername":"도비",
+			"bloggerlink":"https:\/\/blog.naver.com\/96bossam",
+			"postdate":"20211213"
+		},
+		{
+			"title":"2021 상반기 LG그룹(전자\/<b>화학<\/b>)1차 <b>직무<\/b>면접 후기",
+			"link":"https:\/\/blog.naver.com\/34125_?Redirect=Log&logNo=222380872017",
+			"description":"* 지원한 <b>직무<\/b>와 면접 질문은 노출\/언급하지 않습니다. 취업 첫 시즌에 수많은 서류탈락 속에서... <b>화학<\/b>의 경우는 3:1로 진행됐고, 면접관 3분에 나 혼자 면접을 보는 다대일 구조였다. 면접관 구성은 현업... ",
+			"bloggername":"Willkommen in Chaellog",
+			"bloggerlink":"https:\/\/blog.naver.com\/34125_",
+			"postdate":"20210602"
+		},
+		{
+			"title":"(선임심사원) 자격 확보 완료 _ LG<b>화학<\/b> QA<b>직무<\/b>_ 로이드인증원",
+			"link":"https:\/\/blog.naver.com\/lyk00917?Redirect=Log&logNo=222623947055",
+			"description":"나름 인증 받은 심사원(auditor)으로 LG<b>화학<\/b>에서 꼼꼼하게 audit 해 볼게요. QA업무 하면서 ISO9001 내부심사도 받았었는데, 내년부터는 심사에 더 잘 대응할 수 있을 것 같아요ㅎㅎ #LG<b>화학<\/b> #로이드인증원... ",
+			"bloggername":"유애옹",
+			"bloggerlink":"https:\/\/blog.naver.com\/lyk00917",
+			"postdate":"20220117"
+		},
+		{
+			"title":"[청년기자단 #3] <b>화학<\/b>·바이오 <b>직무<\/b>가 궁금할 땐? 켐바이오넷!",
+			"link":"https:\/\/blog.naver.com\/dwarfpluto134340?Redirect=Log&logNo=222585455743",
+			"description":"고무와 플라스틱 분야의 <b>직무<\/b>는 나중에 추가될 예정입니다 :D 사진을 클릭하시면 켐바이오넷으로 연결됩니다  ① 의약 분야의 <b>직무<\/b> ② 바이오의약 분야의 <b>직무<\/b> ③ 바이오<b>화학<\/b> 분야의 <b>직무<\/b> ④ 석유<b>화학<\/b>... ",
+			"bloggername":"미지의 세계",
+			"bloggerlink":"https:\/\/blog.naver.com\/dwarfpluto134340",
+			"postdate":"20211203"
+		},
+		{
+			"title":"[코멘토 정유\/석유<b>화학<\/b>\/소재 생산관리 <b>직무<\/b>부트캠프 후기]",
+			"link":"https:\/\/blog.naver.com\/cyg2172?Redirect=Log&logNo=222622447639",
+			"description":"# 코멘토 직부부트캠프 &quot;정유\/석유<b>화학<\/b>\/소재 생산관리 현직자와 함께 하는 공정 분석\/개선&quot; <b>직무<\/b>부트캠프에 참여했다. 본격적으로 취업 준비를 시작하고 난 후 가장 뼈아팠던 점은 기업에서는 당장... ",
+			"bloggername":"일상 아카이브",
+			"bloggerlink":"https:\/\/blog.naver.com\/cyg2172",
+			"postdate":"20220115"
+		},
+		{
+			"title":"나 이번에 SK가스 들어가스 (SK가스 <b>화학<\/b>공학과 <b>직무<\/b>소개 A... ",
+			"link":"https:\/\/blog.naver.com\/dlju777?Redirect=Log&logNo=222101838731",
+			"description":"오늘은 SK가스 <b>화학<\/b>공학과 <b>직무<\/b>에 대해 소개해보려 합니다. 요즘 코로나 때문에 더 얼어붙은 취업시장에 한 줄기 빛까진 아니더라도 조금이나마 도움이 되고 싶어서 이렇게 포스팅을 준비해봤습니다... ",
+			"bloggername":"Minuffff’s blog",
+			"bloggerlink":"https:\/\/blog.naver.com\/dlju777",
+			"postdate":"20200928"
+		},
+		{
+			"title":"LG<b>화학<\/b> CFO <b>직무<\/b>면접",
+			"link":"https:\/\/blog.naver.com\/tsubi99?Redirect=Log&logNo=222387017910",
+			"description":"LG<b>화학<\/b> 면접은 LG전자와 동일하게 다대 일, 화상면접으로 진행되었다. '정장 지양'이라고 안내를 받아서... LG<b>화학<\/b>에 지원한 이유와 자신의 장단점 2. 첫 번째 인턴에서는 세무 관련된 일을 했는데, 왜... ",
+			"bloggername":"숲",
+			"bloggerlink":"https:\/\/blog.naver.com\/tsubi99",
+			"postdate":"20210606"
+		},
+		{
+			"title":"<b>화학<\/b>물질안전원 교육시스템 필수 <b>직무<\/b> 강좌를 효율적으로... ",
+			"link":"https:\/\/blog.naver.com\/qhdtndl12?Redirect=Log&logNo=222644100296",
+			"description":"이 경우 페이지가 로드되기를 기다리면서 <b>화학<\/b>물질안전원 시스템의 강의를 살펴보거나 보안과 <b>직무<\/b> 교육을 위해 다른 시간에 사이트를 방문하는 방법은 하나뿐입니다. 사이트의 필수 <b>화학<\/b>물질안전원 수강... ",
+			"bloggername":"볼로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/qhdtndl12",
+			"postdate":"20220210"
+		},
+		{
+			"title":"금호석유<b>화학<\/b> 생산<b>직무<\/b> 2차면접(임원) 후기",
+			"link":"https:\/\/blog.naver.com\/yesyearim?Redirect=Log&logNo=222677223786",
+			"description":"와 최종이라니. 내가 최종면접을 보게되다니. 이번에는 발표 후 준비시간이 5일정도 있었다. 마찬가지로 회신을 해줘야 한다. 그 사이에 채용검진도 하고 와야 했다. 사...사진이 이것뿐이라... 결과부터... ",
+			"bloggername":"Diary",
+			"bloggerlink":"https:\/\/blog.naver.com\/yesyearim",
+			"postdate":"20220319"
+		},
+		{
+			"title":"[비대면] <b>화학<\/b>회사 <b>직무<\/b>스트레스 관리 특강(1~3회차)",
+			"link":"https:\/\/blog.naver.com\/learntopia?Redirect=Log&logNo=222496224386",
+			"description":"직장 내 마음챙김을 위한 <b>직무<\/b>스트레스 관리 특강 글\/사진 Sean <b>화학<\/b>회사에서 <b>직무<\/b>스트레스 관리 특강을 진행했다. 일반적인 스트레스 관리 교육과 다른 점은 자사의 스트레스 요인을 특별히 꼽아서 강의를... ",
+			"bloggername":"기업기관교육 런토피아",
+			"bloggerlink":"https:\/\/blog.naver.com\/learntopia",
+			"postdate":"20210906"
+		},
+		{
+			"title":"정유<b>화학<\/b>설비 <b>직무<\/b>안전VR교육 시스템 선보인다.",
+			"link":"https:\/\/blog.naver.com\/3dmuse?Redirect=Log&logNo=222612763661",
+			"description":"정유<b>화학<\/b>설비 <b>직무<\/b>·안전 VR 교육 시스템을 선보인다. 정유<b>화학<\/b>설비 <b>직무<\/b>·안전 VR 교육 시스템은 정유·<b>화학<\/b> 공정에서 사용되는 설비인 펌프, 드럼, 탱크, 열교환기, 배관, 밸브 등을 이론 교육에... ",
+			"bloggername":"3D뮤즈 공식블로그✔",
+			"bloggerlink":"https:\/\/blog.naver.com\/3dmuse",
+			"postdate":"20220104"
+		},
+		{
+			"title":"선우준의 &apos;LG<b>화학<\/b> 최신이슈 및 <b>직무<\/b>분석-전지사업본부&apos;",
+			"link":"https:\/\/blog.naver.com\/noseomon1999?Redirect=Log&logNo=222683207186",
+			"description":"LG<b>화학<\/b> 전지사업본부 <b>직무<\/b> 소개(연구 개발, 생산 기술, 품질 업무, 영업\/마케팅\/기획) &lt;전지사업본부 <b>직무<\/b> 소개&gt; 연구개발 학사\/석사\/박사의 개발 업무 내용이 다르지 않음 ▶ 전지의 version-up... ",
+			"bloggername":"몽글몽글 마리모, 매생이",
+			"bloggerlink":"https:\/\/blog.naver.com\/noseomon1999",
+			"postdate":"20220326"
+		},
+		{
+			"title":"석유<b>화학<\/b> 해외영업 현직자가 말해주는 합격전략과 <b>직무<\/b> 역량",
+			"link":"https:\/\/blog.naver.com\/geniusboyz?Redirect=Log&logNo=222391814734",
+			"description":"거의 2주간 영상편집 끝에 드디어 문과생 출신의 석유<b>화학<\/b> 해외영업 관련 현직자 인터뷰 영상을... 석유<b>화학<\/b> 영업하는 방법 - 어떤 사람이 석유<b>화학<\/b> 해외영업을 하는지 - 영어는 얼마나 잘해야 하는지... ",
+			"bloggername":"빠르크의 청춘열차",
+			"bloggerlink":"https:\/\/blog.naver.com\/geniusboyz",
+			"postdate":"20210609"
+		},
+		{
+			"title":"석유<b>화학<\/b>회사 생산<b>직무<\/b>가 하는 일은?",
+			"link":"https:\/\/blog.naver.com\/catalystreactkr?Redirect=Log&logNo=222673750439",
+			"description":"정유회사\/석유<b>화학<\/b>회사 생산<b>직무<\/b>가 다른 팀과 어떤 일을 하는지 정리 한 것입니다. 제가 생산팀이라서 생산 위주로 도식화 한 것도 있습니다. 단순히 제 현업 경험으로 정리한 것이니 이 것이 정답은... ",
+			"bloggername":"변화를 유도하고, 변화를 이뤄낸다",
+			"bloggerlink":"https:\/\/blog.naver.com\/catalystreactkr",
+			"postdate":"20220315"
+		},
+		{
+			"title":"취준 일기 6 - LG<b>화학 직무<\/b> 면접 합격",
+			"link":"https:\/\/blog.naver.com\/lye5584?Redirect=Log&logNo=222772914748",
+			"description":"1차 <b>직무<\/b> 면접 합격했어요... 2차 면접도 잘 준비해보겠습니다..!!!!",
+			"bloggername":"예르디의 취준",
+			"bloggerlink":"https:\/\/blog.naver.com\/lye5584",
+			"postdate":"20220614"
+		},
+		{
+			"title":"국방전직교육원 온라인 <b>직무<\/b>설명회 │ LG<b>화학<\/b> : 생산\/품질",
+			"link":"https:\/\/blog.naver.com\/dudwo219?Redirect=Log&logNo=222557604446",
+			"description":"이과<b>직무<\/b>라 그냥 LG<b>화학<\/b> 회사 소개랑 시야 넓힌다는 생각으로 들어서 제대로 안 들었음 멘토님은 발표 능력이 그닥 좋지는 않았음 중간중간 긴 정적이 있었는데 뭐 문제 생긴 줄 ; 약간 듣다보면 잠오는... ",
+			"bloggername":"잉차이의 일상기록",
+			"bloggerlink":"https:\/\/blog.naver.com\/dudwo219",
+			"postdate":"20211103"
+		},
+		{
+			"title":"어제와 오늘 LG<b>화학<\/b> 여수공장 전기엔지니어 대상으로 <b>직무<\/b>교육... ",
+			"link":"https:\/\/blog.naver.com\/kimih2917?Redirect=Log&logNo=222744388321",
+			"description":"어제 8시 LG<b>화학<\/b> 여수 화치공장에 있는 연수원에 도착 오늘 12시까지 LG<b>화학<\/b> 여수공장 전기엔지니어 11명을 대상으로 전기관련 <b>직무<\/b>교육을 실시하였다. 교육은 전기의 기본이 되는 일반전기와 전동기, 변압기... ",
+			"bloggername":"전기해결사여수낚시꾼의 \"전기는 보인다\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/kimih2917",
+			"postdate":"20220524"
+		},
+		{
+			"title":"<b>화학<\/b>공학 <b>직무<\/b> 공부 (플라스틱 읽어주는 배진영 교수님)",
+			"link":"https:\/\/blog.naver.com\/oknamms?Redirect=Log&logNo=222217560487",
+			"description":"성균관대학교 고분자공학부 배진영 교수님이 석유<b>화학<\/b>, 반도체 등 다양한 분야를 상세하게 설명을 해주신다. 이렇게 좋은 양질의 수업을 들으며 나의 <b>직무<\/b>를 알아보고자 한다. 매일 매일 <b>직무<\/b>를 탐색하며 내가... ",
+			"bloggername":"나를 만나면 누구나 행복할 수 있다",
+			"bloggerlink":"https:\/\/blog.naver.com\/oknamms",
+			"postdate":"20210123"
+		},
+		{
+			"title":"[2021.08.16 <b>직무<\/b>] <b>화학<\/b>성분(금속재료) 공부",
+			"link":"https:\/\/blog.naver.com\/yy190210?Redirect=Log&logNo=222472592845",
+			"description":"<b>화학<\/b>성분 의뢰 사항으로 금속 재료 공부하기 주로 : KS D 6759, KS D6701, EN 573-3 한국 공업규격 <b>화학<\/b>성분 표준명 KS기호 기호 설명 KS D 6759 알루미늄 봉 AlxE Al-Aluminium E-Extruded KS D 6701... ",
+			"bloggername":"Merry, Zero Story",
+			"bloggerlink":"https:\/\/blog.naver.com\/yy190210",
+			"postdate":"20210816"
+		},
+		{
+			"title":"LG<b>화학<\/b> 인사<b>직무<\/b>에 대해 궁금한 사람 모여랏!",
+			"link":"https:\/\/blog.naver.com\/seocho88?Redirect=Log&logNo=222414124756",
+			"description":"LG<b>화학<\/b> 인사 <b>직무<\/b> 관련된 궁금한점 메모해두기! 대 상 : 만19세~34세 취업준비생 장 소 : 실시간 온라인 모집인원 : 20명 모집기간 : 7월1일~7월14일 <b>직무<\/b>분야 : 인사(엘지<b>화학<\/b>) 내 용 : 기업현직자가... ",
+			"bloggername":"서초뉴스",
+			"bloggerlink":"https:\/\/blog.naver.com\/seocho88",
+			"postdate":"20210629"
+		},
+		{
+			"title":"[채용공고] LG<b>화학<\/b> 석유<b>화학<\/b> 신입사원 채용 (<b>직무<\/b>소개... ",
+			"link":"https:\/\/blog.naver.com\/xianjin97?Redirect=Log&logNo=222265559451",
+			"description":"채용공고 <b>직무<\/b>소개 LG<b>화학<\/b> 생산기술 <b>직무<\/b> LG<b>화학<\/b> 생산설비 공무<b>직무<\/b> LG<b>화학<\/b> 마케팅 영업 <b>직무<\/b> LG<b>화학<\/b> TS&amp;D <b>직무<\/b> 기업분석 자료 LG<b>화학<\/b> 기업분석 자료가 필요하신 분들은 비밀 댓글로 받으실 이메일 남겨주세요.... ",
+			"bloggername":"밸라이브 석화, 정유 취업",
+			"bloggerlink":"https:\/\/blog.naver.com\/xianjin97",
+			"postdate":"20210305"
+		},
+		{
+			"title":"[2017]하반기 금호석유<b>화학<\/b> IT<b>직무<\/b> 합격 자기소개서(합격... ",
+			"link":"https:\/\/blog.naver.com\/membrain5?Redirect=Log&logNo=222742121344",
+			"description":"[2017]하반기 금호석유<b>화학<\/b> IT<b>직무<\/b> 합격 자기소개서(합격 자소서) 20171016 금호석유<b>화학<\/b>(IT 운.hwp 해당 자료는 해피레포트에서 유료결제 후 열람이 가능합니다. 분량 : 4 페이지 \/hwp 파일 설명 : [2017년도 하반기]... ",
+			"bloggername":"Better Tomorrow",
+			"bloggerlink":"https:\/\/blog.naver.com\/membrain5",
+			"postdate":"20220522"
+		},
+		{
+			"title":"★ LG<b>화학<\/b> 제품 개발 Process 정리 (<b>직무<\/b> 세부사항)",
+			"link":"https:\/\/blog.naver.com\/duke0516?Redirect=Log&logNo=222159892137",
+			"description":"요즘 LG<b>화학<\/b> 제품 개발 <b>직무<\/b>에 관심이 많으신 분들이 많아 도움이 되실 만한 개발 Process를 소개드리고자 합니다. 서류는 물론 면접에서 <b>직무<\/b>와의 '연관'성은 필수적입니다. 기승전 <b>직무<\/b>로 통해야... ",
+			"bloggername":"carpediem~",
+			"bloggerlink":"https:\/\/blog.naver.com\/duke0516",
+			"postdate":"20201201"
+		},
+		{
+			"title":"[석유<b>화학<\/b>]생산기술 <b>직무<\/b> 총정리 (<b>화학<\/b>공학과)",
+			"link":"https:\/\/blog.naver.com\/dalah46610?Redirect=Log&logNo=222299250501",
+			"description":"<b>직무<\/b>수행에 필요한 역량 인조대리석 공정은 MMA 등 여러 <b>화학<\/b>물질을 이용한 중합반응을 통해 제품을 생산하고, 반응기, 열교환기, Pump 등 다양한 설비를 관리해야 하므로, 유기<b>화학<\/b>, 유체역학, 공정제어 등을... ",
+			"bloggername":"화학공학으로 먹고살기",
+			"bloggerlink":"https:\/\/blog.naver.com\/dalah46610",
+			"postdate":"20210405"
+		},
+		{
+			"title":"People 석유<b>화학<\/b>사업본부 생산, 공무 <b>직무<\/b> 담당자들은 어떤... ",
+			"link":"https:\/\/blog.lgchem.com\/2020\/07\/31_interview_petrochemistry\/",
+			"description":"석유<b>화학<\/b> 생산, 공무 <b>직무<\/b> 담당자들은 어떤 일을 할까요? 이들의 취업 준비부터 회사생활까지! 진솔한 이야기를 지금 시작합니다!",
+			"bloggername":"LG화학 공식 블로그 - LG케미토피아",
+			"bloggerlink":"https:\/\/blog.lgchem.com\/",
+			"postdate":"20200731"
+		},
+		{
+			"title":"[취준 일기] 2021년 하반기 금호석유<b>화학<\/b> 해외영업 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/yonghyeonkim97?Redirect=Log&logNo=222567971319",
+			"description":"대한통운 논술전형에 이은 금호석유<b>화학<\/b> AI역검 합격 후기 및 면접 미응시 후기다. 마이다스였던 현오뱅에 이어 에듀스의 금호석유<b>화학<\/b> AI역량검사에서도 운좋게 합격했다. 자기소개, 지원동기조차 제대로... ",
+			"bloggername":"용궁",
+			"bloggerlink":"https:\/\/blog.naver.com\/yonghyeonkim97",
+			"postdate":"20211114"
+		},
+		{
+			"title":"[<b>직무<\/b>교육] 남해<b>화학<\/b> 신입사원<b>직무<\/b>교육(아인컨설팅 김지현대표)",
+			"link":"https:\/\/blog.naver.com\/jhcw20?Redirect=Log&logNo=222775297094",
+			"description":"밀린 강의들을 부랴부랴 올립니다!!!!!!&gt;&lt; 이 날은 여수에 있는 남해<b>화학<\/b>을 방문했었어요! 신입사원분들 대상으로 서로 친해지기 위한 소통 게임과 직업윤리에 대해 7시간 강의를 진행했습니다 ! 7시간 말하다보면... ",
+			"bloggername":"아인컨설팅*인폴리오",
+			"bloggerlink":"https:\/\/blog.naver.com\/jhcw20",
+			"postdate":"20220616"
+		},
+		{
+			"title":"[<b>화학 직무<\/b> 채용] 화학·화학공학과 채용 &amp; 합격스펙, 자소서... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221331190963",
+			"description":"그러하기에 앞으로도 사람과 행복을 위한 기술을 연구하고, 개발하고, 제작하.......( &gt;&gt;&gt; 더보러가기) <b>화학<\/b>공학 선배 <b>직무<\/b> 인터뷰 <b>화학<\/b>공학과 졸업 후 기업 현장에 있는 선배님들의 생생한 이야기 <b>직무<\/b>... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20180802"
+		},
+		{
+			"title":"<b>화학<\/b> 엔지니어 출신\/ 블라인드채용\/ 생산\/품질관리\/영업\/<b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/career_o?Redirect=Log&logNo=222100225556",
+			"description":"자소서만 잘썼을뿐 금호석유<b>화학<\/b> 채용 <b>직무<\/b> 및 모집분야, 일정 채용<b>직무<\/b>: 생산\/품질관리\/설비(기계,전기), 에너지운전관리(공무 <b>직무<\/b>입니다) 환경안전,인사,국내영업, 해외영업,영업, IT 2020년 10월 6일 화요일... ",
+			"bloggername":"공대선배의 자소서\/면접 컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/career_o",
+			"postdate":"20200926"
+		},
+		{
+			"title":"한국남부발전 NCS <b>직무<\/b>설명서 _ <b>화학<\/b>",
+			"link":"https:\/\/blog.naver.com\/ricefield?Redirect=Log&logNo=222725205147",
+			"description":"한국남부발전 NCS <b>직무<\/b>설명서 _ <b>화학<\/b> #<b>화학<\/b> #화공 #NCS",
+			"bloggername":"커리어 마라톤",
+			"bloggerlink":"https:\/\/blog.naver.com\/ricefield",
+			"postdate":"20220508"
+		},
+		{
+			"title":"[LG화학 면접후기] 엘지<b>화학 직무<\/b>, 인성, 임원면접 후기",
+			"link":"https:\/\/blog.naver.com\/jing_june?Redirect=Log&logNo=221484517950",
+			"description":"LG<b>화학<\/b> 준비하시는 분들에게 많은 도움이 되었으면 좋겠습니다 <b>직무<\/b>, 인성 면접 1차 면접은 <b>직무<\/b>면접과 인성면접으로 구성되어있습니다. <b>직무<\/b>면접은 PT 면접입니다. 노트북으로 30분동안 피피티 한장을... ",
+			"bloggername":"봉봉 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/jing_june",
+			"postdate":"20190310"
+		},
+		{
+			"title":"새내기들, 진로고민인 학생 필독 <b>화학<\/b>공학과 <b>직무<\/b> 뽀개기",
+			"link":"https:\/\/blog.naver.com\/youngdisplay?Redirect=Log&logNo=221487872530",
+			"description":"R&amp;D는 연구 및 개발이라는 <b>직무<\/b>로 <b>화학<\/b>공학과 같은 경우에는 석사 이상 나와야지 뽑는 곳이 많습니다. 만약 이 <b>직무<\/b>를 하고 싶고 자신이 학사라면 대학원 진학을 고려하는 것도 나쁘지 않아요! 이 외에도 많은... ",
+			"bloggername":"LG디스플레이 대학생 인플루언서_디플",
+			"bloggerlink":"https:\/\/blog.naver.com\/youngdisplay",
+			"postdate":"20190315"
+		},
+		{
+			"title":"LG<b>화학<\/b> 직업훈련생 채용 \/ 여수, 서산 공장 \/ 온라인 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/xianjin97?Redirect=Log&logNo=222747486747",
+			"description":"LG<b>화학<\/b> 이외에도 생산기술직에 대한 취업 목표를 갖고 계신분들에게 정보전달의 시간을 갖게 되었습니다. 입사 후 <b>직무<\/b>별 내가 무슨 일을 하게 되는건가? 밸브맨, 오퍼레이터, 엔지니어 다 똑같은 말 아닌가?... ",
+			"bloggername":"밸라이브 석화, 정유 취업",
+			"bloggerlink":"https:\/\/blog.naver.com\/xianjin97",
+			"postdate":"20220526"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 NCS 17. <b>화학<\/b>이에요!",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220616131022",
+			"description":"<b>화학<\/b>을 <b>직무<\/b>능력으로 요구하는 <b>직무<\/b>기술서를 볼 수 있어요. NCS기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가17 <b>화학<\/b> 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.01.20. 리뷰보기",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160202"
+		},
+		{
+			"title":"[LG<b>화학<\/b>] <b>직무<\/b>사내강사 양성과정 완료",
+			"link":"https:\/\/blog.naver.com\/snowlet2?Redirect=Log&logNo=220931414739",
+			"description":"SM&amp;J PARTNERS 이수민 소장은 2017.1월 ~2월 중 LG<b>화학 직무<\/b>사내강사들을 대상으로 '뇌과학 기반의... 직무 사내강사들의 전문지식, 암묵지와 경험이 후배들에게 잘 전달되어 LG화학의 직무역량이 향상되고, 회사가... ",
+			"bloggername":"SM&J PARTNERS_ Integrated HRD Solution Provider",
+			"bloggerlink":"https:\/\/blog.naver.com\/snowlet2",
+			"postdate":"20170209"
+		},
+		{
+			"title":"[취업기초상담후기]30세 남자, 지방대 <b>화학<\/b>공학전공 어떤 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/kil8853?Redirect=Log&logNo=220955523668",
+			"description":"오늘은 <b>화학<\/b>공학을 전공한 30세 남자 회원님의 상담 후기 입니다. 이 분은 아직 어떤 <b>직무<\/b>에 지원을 해야할지, 그리고 지원 과정에 있어 어떻게 준비해야 할지 고민 이라고 했습니다! │ 상담 요청 내용... ",
+			"bloggername":"취업의신 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kil8853",
+			"postdate":"20170311"
+		},
+		{
+			"title":"레알 현직자 밀착 인터뷰 - 석유 <b>화학<\/b> 해외 영업 <b>직무<\/b> 인터뷰",
+			"link":"https:\/\/blog.naver.com\/nsandyk?Redirect=Log&logNo=221089880492",
+			"description":"석유<b>화학<\/b>업계 해외영업 <b>직무<\/b>의 하루 일과는 어떻게 되나? 꽤 루틴한 하루 일과를 가지고 있다. 그러다 문제 터지면 그 날은 야근을 해야 한다.. 하는 일은 크게 4가지 정도로 나눌 수 있다. 첫번째는 출고서류를... ",
+			"bloggername":"젊.다.네 - 인재다락방! 취업 전략과 실무 내공을!",
+			"bloggerlink":"https:\/\/blog.naver.com\/nsandyk",
+			"postdate":"20170905"
+		},
+		{
+			"title":"광주 취업컨설팅]LG<b>화학<\/b> \/ 영업마케팅 <b>직무<\/b> 면접 컨설팅 진행사례",
+			"link":"https:\/\/ecareer.tistory.com\/5063",
+			"description":"[서울, 대전, 대구, 부산 광주 취업컨설팅] LG<b>화학<\/b> \/ 영업마케팅 <b>직무<\/b> 면접 컨설팅 진행사례 안녕하세요 :) 취업컨설팅 대표브랜드 (주)이커리어입니다. 오늘 전해드릴 컨설팅 진행사례는 LG<b>화학<\/b> \/ 영업마케팅 <b>직무<\/b>... ",
+			"bloggername":"취업컨설팅 대표 브랜드 : 이커리어",
+			"bloggerlink":"https:\/\/ecareer.tistory.com\/",
+			"postdate":"20220425"
+		},
+		{
+			"title":"LG<b>화학<\/b> 직업훈련생 서류 합격 \/ 인적성 및 <b>직무<\/b> 클래스(~6월... ",
+			"link":"https:\/\/blog.naver.com\/xianjin97?Redirect=Log&logNo=222768681462",
+			"description":"LG<b>화학<\/b> 직업훈련생 인적성 후기 공유 생산\/공무 <b>직무<\/b>별 업무는? 업무강도? 노동조합? 급여체계? 인적성 및 면접 대기자가 궁금해하는 내용을 주제로 클래스를 진행합니다. 채용공고 게시전 3월 무료 강의를... ",
+			"bloggername":"밸라이브 석화, 정유 취업",
+			"bloggerlink":"https:\/\/blog.naver.com\/xianjin97",
+			"postdate":"20220611"
+		},
+		{
+			"title":"연구원 <b>직무<\/b> 인터뷰! LG<b>화학<\/b> 연구원을 만나다 2017년 3월 10일",
+			"link":"http:\/\/blog.lgchem.com\/2017\/03\/10_1_lg_job-interview\/",
+			"description":"이번에도 여러 <b>직무<\/b>를 채용하고 있지만 연구개발(R&amp;D)<b>직무<\/b>에 관심이 많은 분들도 있으실 거예요.... 오늘 소개해드릴 석유<b>화학<\/b> 연구소 연구원은 두 가지의 모습을 갖고 있다고 합니다. 앞서 설명했던 연구원의... ",
+			"bloggername":"LG화학 공식 블로그 - LG케미토피아",
+			"bloggerlink":"https:\/\/blog.lgchem.com\/",
+			"postdate":"20170310"
+		},
+		{
+			"title":"[서울\/대구\/대전\/부산 취업컨설팅] 동서석유<b>화학<\/b> 계전 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/ecareer?Redirect=Log&logNo=222612639274",
+			"description":"오늘은 이커리어의 동서석유<b>화학<\/b> 계전<b>직무<\/b> 자기소개서 및 면접컨설팅 진행 및 합격사례에 대해 말씀 드리겠습니다. &lt;고객 상황&gt; - 전기공학 전공자로 석유<b>화학<\/b>분야 기업들의 서류 및 면접 전형에서 탈락한... ",
+			"bloggername":"취업컨설팅 및 취업특강 대표 브랜드 - 이커리어",
+			"bloggerlink":"https:\/\/blog.naver.com\/ecareer",
+			"postdate":"20220104"
+		},
+		{
+			"title":"유해<b>화학<\/b>물질 관리자 종류, 자격기준, <b>직무<\/b>범위,선임기준",
+			"link":"https:\/\/blog.naver.com\/safetykoenc?Redirect=Log&logNo=220464368233",
+			"description":"(유해<b>화학<\/b>물질관리자 종류, 자격기준, <b>직무<\/b>범위) - <b>화학<\/b>물질관리법 시행령 제 12조 ① 유해<b>화학<\/b>물질관리자의 종류는 다음 각 호와 같다. 1. 유해<b>화학<\/b>물질관리 책임자 : 유해<b>화학<\/b>물질 취급시설의 안전 확보 및... ",
+			"bloggername":"셉티코 안전환경 블로그 \"100만 돌파!\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/safetykoenc",
+			"postdate":"20150828"
+		},
+		{
+			"title":"[LG<b>화학<\/b>] <b>직무<\/b>사내강사 양성과정 실시",
+			"link":"https:\/\/blog.naver.com\/snowlet2?Redirect=Log&logNo=220919528505",
+			"description":"SM&amp;J PARTNERS 이수민 소장은 LG<b>화학<\/b>의 <b>직무<\/b>교육체계에 따라 <b>직무<\/b>교육을 담당할 사내강사를 2차수에 걸쳐 양성합니다. 이수민 소장은 강의스킬의 핵심과 각 강의스킬이 왜 중요한지에 대해 뇌과학 원리와... ",
+			"bloggername":"SM&J PARTNERS_ Integrated HRD Solution Provider",
+			"bloggerlink":"https:\/\/blog.naver.com\/snowlet2",
+			"postdate":"20170125"
+		},
+		{
+			"title":"채용·승진·이직 준비 <b>직무<\/b>수행능력+<b>직무<\/b>중심 평가 17 <b>화학<\/b>",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220693838945",
+			"description":"NCS 면접준비 \/ 채용·승진·이직 준비 <b>직무<\/b>수행능력 + <b>직무<\/b>중심 평가 17 <b>화학<\/b> NCS기반 <b>직무<\/b>수행능력 + <b>직무<\/b>중심면접 평가 17 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.05.10. 리뷰보기 NCS 면접 준비서!... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160426"
+		},
+		{
+			"title":"[LG<b>화학<\/b> 22년 7월 채용 분석] 영마 <b>직무<\/b> 분석 모음 by 하리하리",
+			"link":"https:\/\/blog.naver.com\/latte_life?Redirect=Log&logNo=222817404170",
+			"description":"오늘은 2022년 7월 25일 14시에 마감하는 LG<b>화학<\/b>의 영업\/마케팅 직군에 대해서만 <b>직무<\/b> 분석을 해 볼까 합니다. 일일이 사업부 영업\/마케팅 별로 캡쳐를 해 두었으니 함께 하나씩 보시면서 어떤 영업\/마케팅이... ",
+			"bloggername":"하리하리의 블로그하리",
+			"bloggerlink":"https:\/\/blog.naver.com\/latte_life",
+			"postdate":"20220718"
+		},
+		{
+			"title":"2019 하반기 LG<b>화학 직무<\/b>역량면접, PT면접 대비 방법... ",
+			"link":"https:\/\/blog.naver.com\/dltmf1427?Redirect=Log&logNo=221687939615",
+			"description":"[1회차] <b>직무<\/b>역량대비 (120분) <b>직무<\/b>역량면접의 경우, 기존의 LG<b>화학<\/b>면접기출 문제와 더불어, 나올 수 있을 법한 예상문제들을 뽑아드리고요. 해당 문제들을 1회차 사전과제로 배포합니다. 직렬마다, 면접장마다... ",
+			"bloggername":"원쌤의 라포르커뮤니케이션",
+			"bloggerlink":"https:\/\/blog.naver.com\/dltmf1427",
+			"postdate":"20191025"
+		},
+		{
+			"title":"LG<b>화학<\/b> 채용공고, 자기소개서(자소서)첨삭, 사업이슈 분석... ",
+			"link":"https:\/\/blog.naver.com\/premiumskyconsulting?Redirect=Log&logNo=222817407938",
+			"description":"이후 지원하는 직무에서 필요로 하는 주요 역량을 2가지 추출해서 본인의 경험 및 성격과 관련 있음을 어필하자 주요 역량 추출을 위해 LG<b>화학 직무<\/b> 소개 페이지를 반드시 읽어볼 것! ★LG화학 자기소개서... ",
+			"bloggername":"얼티밋커리어그룹 (대기업&공기업 취업컨설팅)",
+			"bloggerlink":"https:\/\/blog.naver.com\/premiumskyconsulting",
+			"postdate":"20220718"
+		},
+		{
+			"title":"[캐치카페]LG<b>화학<\/b> TS&amp;D <b>직무<\/b> #면접 #자소서 #합격후기",
+			"link":"https:\/\/job-catch.tistory.com\/476",
+			"description":"캐치가 취준생 여러분을 위해 준비한 현직자 멘토링 LG<b>화학<\/b> TS&amp;D (기술지원 &amp; 개발) 현직자 선배에게 직접 듣는 취업 노하우 내용 - 합격 수기와 입사 꿀팁 - 회사(문화, 복지 등) 및 <b>직무<\/b> 소개 - 실무 프로세스의... ",
+			"bloggername":"대학생·취준생을 위한 무료취업카페 I 캐치카페☕",
+			"bloggerlink":"https:\/\/job-catch.tistory.com\/",
+			"postdate":"20200422"
+		},
+		{
+			"title":"합격실화:) &quot;LG<b>화학<\/b>&quot; 품질 <b>직무<\/b> 합격후기:) 극상세 합격면접 후기... ",
+			"link":"https:\/\/blog.naver.com\/eunci87?Redirect=Log&logNo=221302277778",
+			"description":"LG <b>화학<\/b> 품질<b>직무<\/b> 합격면접 후기 ●기본스펙: 서울4년제 (공백기1년), 전자전기, 학점 3.3, 토스 lv 6(150), 전기기사, 인턴X ●1차 면접 특징: PT면접, 실무진면접, 영어면접 3가지가 진행되었습니다. (1) PT면접... ",
+			"bloggername":"호감부자 :) 취업을 떠먹여드립니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/eunci87",
+			"postdate":"20180619"
+		},
+		{
+			"title":"신산업분야 국가<b>직무<\/b>능력표준(NCS) 신규 개발 및 개선 작업을... ",
+			"link":"https:\/\/blog.naver.com\/molab_suda?Redirect=Log&logNo=222659783171",
+			"description":"* ▴기존 세라믹·음식서비스분야 등 7개 NCS는 공통<b>직무<\/b> 신설 ▴<b>화학<\/b>·전기분야 등 6개 NCS는 14개로 <b>직무<\/b> 분할(8개 증가) ’21년 신규 개발·개선된 국가<b>직무<\/b>능력표준(NCS)은 산업계* 및 교육·훈련기관... ",
+			"bloggername":"고용노동부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/molab_suda",
+			"postdate":"20220228"
+		},
+		{
+			"title":"롯데정밀<b>화학<\/b>_2019년 채용 <b>직무<\/b>를 알아봅시다.",
+			"link":"https:\/\/blog.naver.com\/antj72?Redirect=Log&logNo=221498591334",
+			"description":"오늘은 여러분이 궁금해하는 롯데정밀<b>화학<\/b>의 <b>직무<\/b>에 대해 알아볼까 합니다. 1. 재무 전공분야 : 경영학,재무학,회계학 지역 : 울산 우대사항 : 공인회계사, 세무사 -경영상황과 목표에 맞춰 자금 계획을 세우고... ",
+			"bloggername":"커리어카페수담",
+			"bloggerlink":"https:\/\/blog.naver.com\/antj72",
+			"postdate":"20190327"
+		},
+		{
+			"title":"[미국취업후기] 섬유<b>화학<\/b>기업 회계<b>직무<\/b> 취업성공",
+			"link":"https:\/\/blog.naver.com\/snkpartners?Redirect=Log&logNo=221014887179",
+			"description":"MBA 과정 이수 중 캘리포니아에 위치한 섬유<b>화학<\/b> 기업에 회계<b>직무<\/b>로 취업에 성공하셨습니다. ^^ (2017년 3월 29일 출근시작) MBA 진학부터 CPA공부, 그리고 취업준비까지 플러스커리어를 끝까지 믿고... ",
+			"bloggername":"COED Group - One Touch for Smart Future",
+			"bloggerlink":"https:\/\/blog.naver.com\/snkpartners",
+			"postdate":"20170526"
+		},
+		{
+			"title":"LG<b>화학<\/b> 해외영업 <b>직무<\/b>역량",
+			"link":"https:\/\/blog.naver.com\/solkiloveme?Redirect=Log&logNo=221158355675",
+			"description":"LG<b>화학<\/b> 해외영업 <b>직무<\/b>역량 해외영업 특성상 예상외의 변수가 많고 정상적으로 진행되는 건이 많이 없습니다. 이러한 상황에서 포기하지 않고 끝까지 정상적인 방향으로 만들어갈 수 있는 끈기와 근성이... ",
+			"bloggername":"PB마인드잡연구소 \"MAGISTER\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/solkiloveme",
+			"postdate":"20171210"
+		},
+		{
+			"title":"LG<b>화학<\/b> 구매직 지원 \/ 유학생 자소서, <b>직무<\/b> 및 PT 면접컨설팅... ",
+			"link":"https:\/\/blog.naver.com\/ecareer?Redirect=Log&logNo=221441816723",
+			"description":"오늘은 LG화학의 구매직에 지원하시기 위해 이커리어의 자소서와 직무 및 PT면접컨설팅을 이용하신... LG화학구매직면접후기 #LG<b>화학직무<\/b> #LG면접컨설팅 #대기업면접컨설팅 #대기업자소서설팅... ",
+			"bloggername":"취업컨설팅 및 취업특강 대표 브랜드 - 이커리어",
+			"bloggerlink":"https:\/\/blog.naver.com\/ecareer",
+			"postdate":"20190114"
+		},
+		{
+			"title":"LG<b>화학<\/b>의 최근 채용공고를 살펴보자",
+			"link":"https:\/\/blog.naver.com\/tjd9807?Redirect=Log&logNo=222812861474",
+			"description":"강민혁 취업선수촌 5일차 과제 희망 기업\/<b>직무<\/b> 채용 공고 (가장 최근 버전 3개 이상) 수집 후, 채용 공고에서 확인할 수 있는 <b>직무<\/b>역량이 무엇인가 희망 기업 : LG<b>화학<\/b> 희망 <b>직무<\/b> : 품질 참고 사항 : LG<b>화학<\/b>은... ",
+			"bloggername":"0하성의 1상",
+			"bloggerlink":"https:\/\/blog.naver.com\/tjd9807",
+			"postdate":"20220715"
+		},
+		{
+			"title":"율촌<b>화학<\/b> 자소서, 그리고 회계 <b>직무<\/b>를 고민한다면 이대표와 함께",
+			"link":"https:\/\/blog.naver.com\/riverside79?Redirect=Log&logNo=221570992548",
+			"description":"아래 <b>직무<\/b> 질문이 있으니 회사 중심의 관심을 표현합니다. 예를 들면, ex. 율촌 <b>화학<\/b>에 있어 가장 인상적인 부분과 입사의 결정적 요인이 된 것은 포장재에서 소재 관련 회사로 변화를 준비하는 모습입니다.... ",
+			"bloggername":"커리어튜터 (CareerTutor)",
+			"bloggerlink":"https:\/\/blog.naver.com\/riverside79",
+			"postdate":"20190626"
+		},
+		{
+			"title":"[2019 하반기 자소서 분석] 6. 효성<b>화학<\/b> 편 (필름영업 <b>직무<\/b>)",
+			"link":"https:\/\/blog.naver.com\/thdgurcjswp?Redirect=Log&logNo=221742316488",
+			"description":"&lt;효성<b>화학<\/b> 자소서 항목&gt; 1. 자신의 성장과정과 학창시절에 대해 기술하여 주십시오. (700자) 2. 지원 <b>직무<\/b> 관련 자신이 갖춘 역량에 대하여 구체적으로 기술하여 주십시오. (수강과목, 교내외 활동, 남다른... ",
+			"bloggername":"쓸데있고 싶은 글 모음",
+			"bloggerlink":"https:\/\/blog.naver.com\/thdgurcjswp",
+			"postdate":"20191219"
+		},
+		{
+			"title":"LG<b>화학 직무<\/b> 인터뷰",
+			"link":"https:\/\/blog.naver.com\/ccg_for_dr3?Redirect=Log&logNo=221223293225",
+			"description":"◆ 재료사업부문 전반적으로 유기<b>화학<\/b>(기본)+무기<b>화학<\/b>(청주사업본부)+신소재+재료+기계 생산(연속성) : 생산 계획을 수립하고 문제를 해결 (공정의 흐름에 대해서 배우기 때문에 <b>화학<\/b>공학과 선호) 공정기술... ",
+			"bloggername":"CCG for Dr.3",
+			"bloggerlink":"https:\/\/blog.naver.com\/ccg_for_dr3",
+			"postdate":"20180307"
+		},
+		{
+			"title":"LG상사 (석유<b>화학<\/b>사업) <b>직무<\/b>알아보기",
+			"link":"https:\/\/blog.naver.com\/mkkwon0602?Redirect=Log&logNo=80184695806",
+			"description":"석유<b>화학<\/b>사업의 <b>직무<\/b>는 쉽게 ‘석유<b>화학<\/b> 제품의 해외영업” 입니다. 석유라는 단어 때문에 원유를 거래한다고 오해하시는 분들이 많은데, 원유가 아니라 원유를 정제했을 때 나오는 나프타로부터 파생되는... ",
+			"bloggername":"기업채용전문가 권누님의 독설 :)",
+			"bloggerlink":"https:\/\/blog.naver.com\/mkkwon0602",
+			"postdate":"20130313"
+		},
+		{
+			"title":"[LG<b>화학<\/b>] 뇌과학 기반의 통합적 <b>직무<\/b>사내강사양성과정",
+			"link":"https:\/\/blog.naver.com\/snowlet2?Redirect=Log&logNo=221222687004",
+			"description":"SM&amp;J PARTNERS 이수민 소장은 LG<b>화학<\/b>의 <b>직무<\/b>교육체계 및 <b>직무<\/b>교육과정 개발에 따라 <b>직무<\/b>교육을 담당할 사내강사를 대상으로 2017. 12월~ 2018. 1월까지 3차수에 걸쳐 사내강사양성과정을 진행했습니다.... ",
+			"bloggername":"SM&J PARTNERS_ Integrated HRD Solution Provider",
+			"bloggerlink":"https:\/\/blog.naver.com\/snowlet2",
+			"postdate":"20180306"
+		},
+		{
+			"title":"채용이야기 LG<b>화학<\/b> 생명과학사업본부 <b>직무<\/b> 인터뷰 2017년... ",
+			"link":"https:\/\/blog.lgchem.com\/2017\/03\/10_2_lg-onsan-factory\/?shared=email&msg=fail",
+			"description":"예를 들면 생명과학사업본부 內 온산공장의 역할이나 근무환경 및 조직문화 부분에서요. 오동엽 대리 LG<b>화학<\/b>이 LG생명과학과 한 가족이 되고 팜한농을 인수하면서 더욱 다양한 <b>화학<\/b>분야의 제품을 생산하고... ",
+			"bloggername":"LG화학 공식 블로그 - LG케미토피아",
+			"bloggerlink":"https:\/\/blog.lgchem.com\/",
+			"postdate":"20170310"
+		},
+		{
+			"title":"[채용 <b>직무<\/b>분석] 한국<b>화학<\/b>연구원",
+			"link":"https:\/\/blog.naver.com\/bluegreen0807?Redirect=Log&logNo=221497059763",
+			"description":"한국<b>화학<\/b>연구원에서 채용하는 <b>직무<\/b>를 분석해보자! (출처: 기관 홈페이지) 경영\/회계\/사무 환경을 분석하고 방침을 수립하고 평가를 수행한다. 총무\/인사 복리후생을 관리하고 인사제도를 개선한다. 재무\/회계... ",
+			"bloggername":"직업도서관",
+			"bloggerlink":"https:\/\/blog.naver.com\/bluegreen0807",
+			"postdate":"20190325"
+		},
+		{
+			"title":"LG<b>화학<\/b> 채용 2022 학\/석사 신입 모집 중!",
+			"link":"https:\/\/blog.naver.com\/ehaulee?Redirect=Log&logNo=222811256466",
+			"description":"조직 <b>직무<\/b> 상세 내용 석유<b>화학<\/b> NCC사업부 영업\/마케팅 ▶ 제품 수출 Operation 및 신규 고객 발굴\/관리 - 가격 Nego, 수주 전략 수립 및 실행 - 매출, 수금, 채권관리 - 고객 Pain Point, 핵심 Needs 파악 및 Solution... ",
+			"bloggername":"◈시대고시기획 공식블로그◈",
+			"bloggerlink":"https:\/\/blog.naver.com\/ehaulee",
+			"postdate":"20220714"
+		},
+		{
+			"title":"온산 소방서 <b>화학<\/b>구조대 <b>직무<\/b> 스트레스 제로강의!!",
+			"link":"https:\/\/blog.naver.com\/eibunei?Redirect=Log&logNo=220566879747",
+			"description":"울산 온산소방서 <b>직무<\/b>스트레스 예방강의 다녀왔습니다 강의시간이 오전 9시라 아침일찍챙겨서 출발!... 울산 온산 소방서 <b>화학<\/b>구조대 2015년도 이제 얼마남지않았네요 남은시간 더욱더 보람있게 알차게... ",
+			"bloggername":"다가치인재교육컨설팅 010 7534 7646",
+			"bloggerlink":"https:\/\/blog.naver.com\/eibunei",
+			"postdate":"20151213"
+		},
+		{
+			"title":"[애경<b>화학<\/b> 생산부문] <b>화학<\/b>과 설비에 모두 능통한 생산<b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221755259385",
+			"description":"꿀처럼 영양가득 달콤한 정보를 인터뷰 합니다 : ) 꿀단지 기자는 애경<b>화학<\/b> 생산부문의 최양현 선배님을 만나고 왔습니다! 무엇보다 사람이 가장 중요합니다 <b>직무<\/b>에 대해 Q. 담당하고 계신 업무를 소개해... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20191231"
+		},
+		{
+			"title":"(주)율촌<b>화학<\/b> 전<b>직무<\/b> 장교출신 우대 공채 2018년 18.6.11~6.22",
+			"link":"https:\/\/blog.naver.com\/ajs2001a?Redirect=Log&logNo=221297139569",
+			"description":"(주)율촌<b>화학<\/b> 전<b>직무<\/b> 장교출신 우대 공채 2018년 18.6.11~6.22 (주) 율촌<b>화학<\/b>에서 전역장교 우대 공채를 시작합니다. 전 <b>직무<\/b> 분야에서 입사지원이 가능합니다. 기한은 18년 6월 11일 부터 6월 22일까지... ",
+			"bloggername":"취권 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ajs2001a",
+			"postdate":"20180612"
+		},
+		{
+			"title":"[애경<b>화학<\/b> 연구부문] 신제품... 기술서비스까지 담당하는 연구<b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221740290338",
+			"description":"해당 <b>직무<\/b>를 선택한 이유는 무엇인가요? <b>화학<\/b>을 전공했고 같은 전공으로 석사 학위까지 받았기 때문에 연구직이 잘 맞는다고 생각했어요. 업무 자체도 늘 재미있고 보람을 느끼면서 일하고 있고, 연구업무를... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20191217"
+		},
+		{
+			"title":"2018년 LG<b>화학<\/b>(주) <b>직무<\/b>스트레스 평가 보고서 제출",
+			"link":"https:\/\/blog.naver.com\/kosiceo?Redirect=Log&logNo=221430273457",
+			"description":"한국산업안전보건공단 광주지역본부와 한국산업안전원(주)가 #공생협력 #건강증진사업의 일환으로 실시한 #엘지<b>화학<\/b>(주) 및 #협력업체 #<b>직무<\/b>스트레스평가 완료 소식을 전합니다. #산업안전보건법 제5조 제1항... ",
+			"bloggername":"안전하는사람들",
+			"bloggerlink":"https:\/\/blog.naver.com\/kosiceo",
+			"postdate":"20181230"
+		},
+		{
+			"title":"<b>화학<\/b>공학과 <b>직무<\/b> 정리",
+			"link":"https:\/\/blog.naver.com\/tnqls6039?Redirect=Log&logNo=221573455921",
+			"description":"연구개발(R&amp;D) Research and Development의 약자로 연구개발을 하는 <b>직무<\/b>입니다. <b>화학<\/b>공학과의 경우 석사 이상의 학위를 요구하는 경우가 많습니다. 만약 이 <b>직무<\/b>를 원한다면 대학원 진학을 고려하는 것이 좋습니다.... ",
+			"bloggername":"Subini&apos;s theorem",
+			"bloggerlink":"https:\/\/blog.naver.com\/tnqls6039",
+			"postdate":"20190629"
+		},
+		{
+			"title":"<b>직무<\/b> 상식 - GS리테일, 대한항공, 현대차, 삼성전자, LG<b>화학<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/fkimedia98?Redirect=Log&logNo=220495587567",
+			"description":"삼성전자, 현대차, 대한항공, 이마트 GS리테일, LG<b>화학<\/b> 서류합격자를 위한 면접 대비 <b>직무<\/b> 상식! GS리테일 이것만 알면 면접 킬! 키워드 10가지 1. 코스트코, 이마트의 채널, 상품, 물류 2.... ",
+			"bloggername":"내일을 지키는 책, 와이에치미디어",
+			"bloggerlink":"https:\/\/blog.naver.com\/fkimedia98",
+			"postdate":"20150930"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유<b>화학<\/b>공정운전 <b>직무<\/b>교육 1일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221869210875",
+			"description":"2020년 2월 전문대학 <b>화학<\/b>공학과를 졸업하고 석유<b>화학<\/b> 오퍼레이터로서의 부족한 역량을 기르기 위해 한국폴리텍대학교 울산캠퍼스 석유<b>화학<\/b>공정운전 <b>직무<\/b>교육에 지원하여 면접을 본 후 합격하였습니다.... ",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200323"
+		},
+		{
+			"title":"정유\/석유<b>화학<\/b> 생산관리 <b>직무<\/b>부트캠프 후기",
+			"link":"https:\/\/blog.naver.com\/koreav97?Redirect=Log&logNo=221848435957",
+			"description":"#코멘토 #<b>직무<\/b>부트캠프 20.01.19 ~ 20.02.23 정유, 석유<b>화학<\/b> 생산관리 현직자와 함께하는 공정 분석\/개선 <b>직무<\/b>부트캠프에 참여했다. 취업 준비를 하며 생산관리 <b>직무<\/b>가 어떤 일을 하는지에 대해 막연하게만 알고... ",
+			"bloggername":"koreav97님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/koreav97",
+			"postdate":"20200311"
+		},
+		{
+			"title":"[서울, 대전, 대구, 부산, 광주 면접] LG<b>화학<\/b> \/ 생산기술 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/ecareer?Redirect=Log&logNo=222128968669",
+			"description":"오늘은 LG<b>화학<\/b> - 생산기술 <b>직무<\/b> 면접 컨설팅 진행 사례를 소개해드리도록 하겠습니다! LG<b>화학<\/b>은 현재 채용을 활발하게 진행중입니다! R&amp;D, 생산기술, 품질, 영업\/마케팅, 상품기획, 전략기획, 경영관리, 전산... ",
+			"bloggername":"취업컨설팅 및 취업특강 대표 브랜드 - 이커리어",
+			"bloggerlink":"https:\/\/blog.naver.com\/ecareer",
+			"postdate":"20201028"
+		},
+		{
+			"title":"[잡코리아 채용설명회] 2019 LG<b>화학<\/b> 채용설명회",
+			"link":"https:\/\/blog.naver.com\/jobkorea1?Redirect=Log&logNo=221498958013",
+			"description":"LG<b>화학<\/b> - <b>직무<\/b>정보 Q1. LG화학에서 근무하기를 희망하는 취업 준비생들이 LG화학의 직무를 잘 이해하려면 어떤 방법이 있을까요? 책상에 앉아서 하는 공부도 좋지만 제조업에서 일하려면 한 번쯤은 공장에서... ",
+			"bloggername":"취업의 방법을 바꾸다, 잡코리아",
+			"bloggerlink":"https:\/\/blog.naver.com\/jobkorea1",
+			"postdate":"20190327"
+		},
+		{
+			"title":"희망<b>직무<\/b>요? <b>직무<\/b>가 뭐죠?",
+			"link":"https:\/\/blog.naver.com\/happy_inhatc?Redirect=Log&logNo=220157224765",
+			"description":"com) •네오위즈게임즈 직무소개 (https:\/\/neoin.neowiz.com) •LG<b>화학 직무<\/b>소개 (http:\/\/recruit.lgchem.co.kr) •하이닉스 직무소개 (http:\/\/www.hynix.co.kr\/ko\/employment) •포스코 직무소개 (http:\/\/www.posco.co.kr)... ",
+			"bloggername":"인하공업전문대학",
+			"bloggerlink":"https:\/\/blog.naver.com\/happy_inhatc",
+			"postdate":"20141021"
+		},
+		{
+			"title":"LG<b>화학<\/b> -  R&amp;D<b>직무<\/b>알아보기 (R&amp;D\/TS&amp;D)",
+			"link":"https:\/\/blog.naver.com\/mkkwon0602?Redirect=Log&logNo=80179611143",
+			"description":"<b>직무<\/b>소개<b>직무<\/b><b>직무<\/b>소개유관전공R&amp;D 사업구조 혁신, 고부가 제품 개발, 공정혁신 및 미래 성장엔진... 요구됨 <b>화학<\/b>\/화공\/재료\/ 고분자공학계열 기계\/ 전기전자공학계열 물리학 및 기타 인접분야 TS&amp;D... ",
+			"bloggername":"기업채용전문가 권누님의 독설 :)",
+			"bloggerlink":"https:\/\/blog.naver.com\/mkkwon0602",
+			"postdate":"20130124"
+		},
+		{
+			"title":"[코멘토 후기] 정유\/석유<b>화학<\/b> 생산관리 <b>직무<\/b>부트캠프",
+			"link":"https:\/\/blog.naver.com\/upgrade_me_30min?Redirect=Log&logNo=221664203376",
+			"description":"가장 먼저, 정유\/석유<b>화학<\/b>\/정밀<b>화학<\/b> 업계소개와 <b>직무<\/b> 및 하는 일에 대해서 소개해 주셨다. 사실, 학교에서도 많이 들었던거라 별 기대하지 않았는데 확실히 현직에서 몇 년간 일하시다보니 정말로 자세하고... ",
+			"bloggername":"코멘토 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/upgrade_me_30min",
+			"postdate":"20190930"
+		},
+		{
+			"title":"@1분자기소개서 LG<b>화학<\/b> 영업<b>직무<\/b> (MR) 1분자기소개 코멘트후기!",
+			"link":"https:\/\/blog.naver.com\/karaface?Redirect=Log&logNo=221746974362",
+			"description":"LG<b>화학<\/b>의 경우 이미 서류합격을 하신상태에서 1분자기소개 내용을 문의해주셨습니다! 이미 코멘트를 함께해주신만큼 1분자기소개서 첨삭은 서비스! (심지어 이미 꽤 좋은 탬플릿을... ",
+			"bloggername":"자소설메이트",
+			"bloggerlink":"https:\/\/blog.naver.com\/karaface",
+			"postdate":"20191223"
+		},
+		{
+			"title":"[후기] 코멘토 <b>직무<\/b>캠프 정유\/석유<b>화학<\/b> 참여 후기",
+			"link":"https:\/\/blog.naver.com\/eunjung0876?Redirect=Log&logNo=222092399121",
+			"description":"[후기] 코멘토 <b>직무<\/b>캠프 정유\/석유<b>화학<\/b> 참여 후기 저는 <b>화학<\/b>공학과 4학년 재학중인 학생입니다. 막학기라 서류도 준비해야하고 할게 너무 많더라고요. 모든 대학생분들이 비슷할거라고 생각합니다. 어학... ",
+			"bloggername":"돌이곰 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/eunjung0876",
+			"postdate":"20200917"
+		}
+	]
+}

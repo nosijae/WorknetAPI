@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:32 +0900",
+	"total":4954,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>직무<\/b>만족",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2178792&cid=51072&categoryId=51072",
+			"description":"즉, 조직과 <b>직무<\/b>, 근로조건 등에 대하여 긍정적으로 반응하는 상태, 조직구성원이 자기 자신의 <b>직무<\/b>나 <b>직무<\/b><b>환경<\/b>에서 갖는 좋은 감정, 개인 스스로 <b>직무<\/b>에 대해 평가하고 그 결과 갖게 되는 유쾌하고 긍정적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2178796&cid=51072&categoryId=51072",
+			"description":"이와 같은 <b>직무<\/b>분석을 통해 <b>직무<\/b>별 책임, 작업<b>환경<\/b>, <b>직무<\/b>명세 등을 규정화 한 <b>직무<\/b>기술서(Job Description)와 인력의 자격요건, 즉 지식, 태도, 기술 등에 대한 상세 조건을 명시한 <b>직무<\/b>명세서(Job Specification)로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 스트레스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5811745&cid=40942&categoryId=31910",
+			"description":"개인의 능력이나 욕구가 업무요건과 상충될 때 또는 개인의 욕구와 <b>직무<\/b><b>환경<\/b>이 부적합할 때 <b>직무<\/b>스트레스는 발생된다. 예를 들어, 높은 수준의 세밀함이 요구되는 업무이지만 이를 수행하기 위한 업무수행자의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 만족",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070239&cid=41991&categoryId=41991",
+			"description":" 자신의 직업 혹은 <b>직무<\/b>에 대해 개인이 만족하는 정도. [ 1. 개요] <b>직무<\/b> 만족이란 개인이 자신의 직업 혹은 <b>직무<\/b>에 만족하는 정도를 의미한다. <b>직무<\/b> 만족에 대한 관심은 생산성 향상에 관심을 가진 학자들로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>환경<\/b>체육청소년연맹",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3432205&cid=50867&categoryId=50867",
+			"description":"2007년 <b>환경<\/b>청소년 지도자 연수 특수분야 <b>환경<\/b>교육 <b>직무<\/b>연수 기관에 지정되었다. 2008년 연인원 5,998명이 참가하여 태안반도 기름띠 제거 봉사활동을 전개하였다. 2011년 8월 사막화 방지를 위한 내몽고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2185_000_1\/20160812111601998_UMOEDJTIR.jpg\/socialorg_210_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>환경<\/b>보전교육센터 (시흥)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5757917&cid=63856&categoryId=63881",
+			"description":"[정의] 경기도 시흥시 하중동에 있는 (사)한국<b>환경<\/b>보전실천교육회의 부설 교육기관. [개설] <b>환경<\/b>보전교육센터는 기존의 이론 교육 위주의 <b>환경<\/b> 교육, 생물 분류 형태의 <b>환경<\/b> 교육, 인간 중심적 <b>환경<\/b> 교육을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>교육강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953573&cid=42117&categoryId=42117",
+			"description":" <b>환경<\/b>오염 및 기후변화에 따른 변화와 일상생활에서의 실천 등을 이론과 사례, 체험 등을 통해 <b>환경<\/b>교육을 실시한다. [수행<b>직무<\/b>] <b>환경<\/b>과 기후변화에 대한 올바른 지식과 일상생활에서의 <b>환경<\/b>보호에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2094182&cid=41991&categoryId=41991",
+			"description":" 어떤 일을 어떤 목적으로 어떤 방법에 의해 어떤 장소에서 수행하는지를 알아내고, <b>직무<\/b>를 수행하는 데 요구되는 지식, 능력, 기술, 경험, 책임 등이 무엇인지를 과학적이고 합리적으로 알아내는 것. [ 1.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 지도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=384140&cid=42128&categoryId=42128",
+			"description":"<b>직무<\/b> 지도원이 장애인의 직장으로 찾아가 작업 분석, <b>직무<\/b> 분석, <b>환경<\/b> 분석, 고용주와 직장동료와의 대화 등을 통해 장애인이 직업기술을 현장에서 배우고 적응을 할 수 있도록 지도하는 일이다. <b>직무<\/b> 지도원은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 만족",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4_%EB%A7%8C%EC%A1%B1",
+			"description":"외재적 요인 <b>직무<\/b>만족의 외재적 요인 <b>직무<\/b> 그 자체보다는 <b>직무<\/b>를 둘러싼 <b>환경<\/b>적 요인에 관련된 것이다. 여기에는 보상, 고용안정, 안전한 근무여건, 감독 및 상사와의 관계, 동료관계, 승진 등이 있다. 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>영향평가원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953454&cid=42117&categoryId=42117",
+			"description":" <b>환경<\/b>영향평가 대상 사업의 계획을 수립하는데 당해 사업의 시행으로 인하여 자연<b>환경<\/b>, 생활<b>환경<\/b>, 사회·경제 <b>환경<\/b>에 미치는 해로운 영향을 미리 예측·분석하여 <b>환경<\/b>영향을 줄이는 방안을 강구하고 제안한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산림<b>환경<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025196&cid=42117&categoryId=42117",
+			"description":" 기후변화 등에 따른 산림<b>환경<\/b>변화에 미치는 영향을 조사·분석하여 산림생태계의 보전 및 관리기술, 산지재해 방지 및 생산력 증진기술, 산림해충의 종합관리 등의 기술개발을 위한 연구를 한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산림<b>환경<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5936919&cid=42117&categoryId=42117",
+			"description":" 기후변화 등에 따른 산림<b>환경<\/b>변화에 미치는 영향을 조사·분석하여 산림생태계의 보전 및 관리기술, 산지재해 방지 및 생산력 증진기술, 산림해충의 종합관리 등의 기술개발을 위한 연구를 한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>기술자(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664783&cid=42117&categoryId=42117",
+			"description":" 대기오염, 수질오염, 소음 및 진동 문제, 폐기물처리 등 공해방지시설, 건설공사현장의 <b>환경<\/b>개선 등 이와 관련된 분야를 연구·개발하는 업무를 수행한다. [수행<b>직무<\/b>] 생활<b>환경<\/b>을 오염시키는 대기오염... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>감시원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026127&cid=42117&categoryId=42117",
+			"description":" 발전소 주변을 순시하며 <b>환경<\/b> 및 수질 보호를 위하여 감시하는 업무를 수행한다. [수행<b>직무<\/b>] 발전소의 <b>환경<\/b> 및 수질 보호를 위하여 쓰레기투척, 낚시, 물놀이, 폐수방류 등에 대한 단속을 위하여 도보 및 차량을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"토양<b>환경<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054179&cid=42114&categoryId=42114",
+			"description":"(2) 주요 업무 ① 토양<b>환경<\/b>기사는 토양 및 지하수를 채취하여 토양오염도 측정기를 이용하여 시험, 분석하고 중금속 및 기름 등의 오염분포도를 파악하는 <b>직무<\/b>를 수행한다. ② 화약약품처리나 열처리... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181340115_3ADDYF0VT.jpg\/da6_593_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"선박<b>환경<\/b>설비설치원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026863&cid=42117&categoryId=42117",
+			"description":" 선박에 <b>환경<\/b>설비를 설치하거나 설치된 <b>환경<\/b>설비를 보수·유지·관리한다. [수행<b>직무<\/b>] 선박<b>환경<\/b>설비기술자의 지시에 따라 <b>환경<\/b>설비(오폐수 처리장치, 선박 평형수 처리장치, 온실가스 처리장치 등)를 설치할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선박<b>환경<\/b>검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664758&cid=42117&categoryId=42117",
+			"description":" 선박에서 발생하는 <b>환경<\/b>오염 물질 배출량을 측정하여 선박이 국제 혹은 국내 <b>환경<\/b>기준에 부합하는지 평가한다. [수행<b>직무<\/b>] 국내외 선박 <b>환경<\/b>기준(온실가스 배출량, 에너지 효율, 오폐수 배출량 등)에 대해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"축산시설<b>환경<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025239&cid=42117&categoryId=42117",
+			"description":" 축산물의 생산성 향상을 위한 축산시설 및 분뇨자원화에 관한 연구를 한다. [수행<b>직무<\/b>] 축산종별에 따른 축사의 표준모델을 설정한다. 가축 및 가금의 사양관리 및 <b>환경<\/b>조절에 관한 연구를 한다. 경제적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교통<b>환경<\/b>연구소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%ED%86%B5%ED%99%98%EA%B2%BD%EC%97%B0%EA%B5%AC%EC%86%8C",
+			"description":"소장은 공업연구관·보건연구관 또는 <b>환경<\/b>연구관으로 보한다. <b>직무<\/b> 자동차 배출가스 허용기준 및 측정방법에 관한 조사·연구 자동차 배출가스 특성에 관한 조사·연구 자동차 배출가스 저감대책에 관한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>조정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=472961&cid=42120&categoryId=42120",
+			"description":"장애인들이 수행할 수 있는 <b>직무<\/b>의 가능성을 확대시키기 위하여 <b>직무<\/b>를 재구성하거나 작업<b>환경<\/b>을 수정하는 것을 말한다. <b>직무<\/b> 재구성(job restructure)은 어떤 <b>직무<\/b>를 수행하는데 요구되는 과제(task)들을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 조정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=384139&cid=42128&categoryId=42128",
+			"description":"장애인이 수행할 수 있는 <b>직무<\/b>의 가능성을 확대시키기 위하여 <b>직무<\/b>를 재구성하거나 작업 <b>환경<\/b>을 수정하는 것이다. <b>직무<\/b>재구성(job restructure)은 어떤 <b>직무<\/b>를 수행하는 데 요구되는 과제들을 여러 요소로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금강물<b>환경<\/b>연구소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%88%EA%B0%95%EB%AC%BC%ED%99%98%EA%B2%BD%EC%97%B0%EA%B5%AC%EC%86%8C",
+			"description":"소장은 공업연구관·농업연구관·임업연구관·보건연구관 또는 <b>환경<\/b>연구관으로 보한다. <b>직무<\/b> 유역 내 하천 및 호소의 수질오염 특성에 관한 조사·연구 유역 내 하천 및 호소의 수질오염물질 배출원에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한강물<b>환경<\/b>연구소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B0%95%EB%AC%BC%ED%99%98%EA%B2%BD%EC%97%B0%EA%B5%AC%EC%86%8C",
+			"description":"소장은 공업연구관·농업연구관·임업연구관·보건연구관 또는 <b>환경<\/b>연구관으로 보한다. <b>직무<\/b> 유역 내 하천 및 호소의 수질오염 특성에 관한 조사·연구 유역 내 하천 및 호소의 수질오염물질 배출원에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제품생산<b>환경<\/b>평가기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664770&cid=42117&categoryId=42117",
+			"description":" 제품의 생산 과정에서 배출되는 <b>환경<\/b>오염 물질과 에너지 비효율성을 측정·분석하여 개선을 위한 기술적인 조언을 한다. [수행<b>직무<\/b>] 제품의 생산공정을 파악하고 각 생산공정에서 배출되는 <b>환경<\/b>오염 물질과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"낙동강물<b>환경<\/b>연구소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%82%99%EB%8F%99%EA%B0%95%EB%AC%BC%ED%99%98%EA%B2%BD%EC%97%B0%EA%B5%AC%EC%86%8C",
+			"description":"그리고 낙동강물<b>환경<\/b>연구소의 소장은 공업연구관·농업연구관·임업연구관·보건연구관 또는 <b>환경<\/b>연구관으로 보한다. <b>직무<\/b> 유역 내 하천 및 호소의 수질오염 특성에 관한 조사·연구 유역 내 하천 및 호소의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영산강물<b>환경<\/b>연구소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%81%EC%82%B0%EA%B0%95%EB%AC%BC%ED%99%98%EA%B2%BD%EC%97%B0%EA%B5%AC%EC%86%8C",
+			"description":"소장은 공업연구관·농업연구관·임업연구관·보건연구관 또는 <b>환경<\/b>연구관으로 보한다. <b>직무<\/b> 유역 내 하천 및 호소의 수질오염 특성에 관한 조사·연구 유역 내 하천 및 호소의 수질오염물질 배출원에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 <b>환경<\/b>노동위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%ED%99%98%EA%B2%BD%EB%85%B8%EB%8F%99%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"1995년 3월 3일: 노동<b>환경<\/b>위원회를 <b>환경<\/b>노동위원회로 개편. <b>직무<\/b> 소관 부처 <b>환경<\/b>부 기상청 고용노동부 위원 명단 소위원회 소관 법률 각주 외부 링크 <b>환경<\/b>노동위원회 공식 홈페이지",
+			"thumbnail":""
+		},
+		{
+			"title":"산업보건지도사의 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209841&cid=51088&categoryId=51088",
+			"description":"산업보건지도사의 <b>직무<\/b>는 ① 작업<b>환경<\/b>의 평가 및 개선 지도, ② 작업<b>환경<\/b> 개선과 관련된 계획서 및 보고서의 작성, ③ 근로자 건강진단에 따른 사후관리 지도, ④ 직업성 질병 진단(｢의료법｣에 따른 의사인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837712&cid=42117&categoryId=42117",
+			"description":" 중고등학교에서 생태계에 대한 이해를 바탕으로 <b>환경<\/b>문제 및 <b>환경<\/b>보전에 대한 학문적·기술적 방법을 가르치기 위해 <b>환경<\/b>과목을 전문으로 교육한다. [수행<b>직무<\/b>] 신문기사, TV보도자료, 인터넷자료 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1144612&cid=40942&categoryId=31911",
+			"description":"각 <b>직무<\/b>에 대해서 밝혀야 할 항목은, ① <b>직무<\/b>내용(목적 ·개요 ·방법 ·순서), ② 노동부담(노동의 강도 ·밀도), ③ 노동<b>환경<\/b>(온도 ·환기 ·분진 ·소음 ·습도 ·오염), ④ 위험재해(감전 ·폭발 ·화재 ·고소... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>평가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1144614&cid=40942&categoryId=31911",
+			"description":"평가<b>직무<\/b>를 비교함으로써 평가<b>직무<\/b>가 차지할 위치를 정한다. ④ 점수법:책임·숙련·피로·작업<b>환경<\/b> 등 4항목을 중심으로 각 항목별로, 각 평가 점수를 매겨 점수의 합계로써 가치를 정한다. 이상의 방법 중",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 만족",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3434551&cid=40942&categoryId=31531",
+			"description":" <b>직무<\/b>와 관련하여 근로자가 만족하는 정도를 말한다.  <b>직무<\/b> 만족 연구의 시작은 생산성 향상에 관심을 가진 연구자들이 근로자의 생산성을 향상시키기 위해 필요한 요소를 연구하는 데서 비롯되었다. 초기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953456&cid=42117&categoryId=42117",
+			"description":" 기업이나 공공의 <b>환경<\/b>관리 및 보전상의 문제점을 조사하고 진단하여 이에 대한 해결책을 제시한다. [수행<b>직무<\/b>] 친<b>환경<\/b> 경영시스템, <b>환경<\/b>회계 감사, <b>환경<\/b>법과 <b>환경<\/b>규제에 대한 대응, <b>환경<\/b>경영체제(ISO 14001)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2210822&cid=51088&categoryId=51088",
+			"description":"즉, <b>직무<\/b>에 대하여 종사자의 필요한 자격, 신체적·정신적인 조건, 작업<b>환경<\/b> 등을 명확히 하는 것이 <b>직무<\/b>분석이다. <b>직무<\/b>분석은 근로자의 적정 배치, 직업상담, 근로자의 훈련, 임금결정 등의 기초로 사용된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>신문",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%99%98%EA%B2%BD%EC%8B%A0%EB%AC%B8",
+			"description":"[<b>환경<\/b>신문 기자선서] 1. 기자는 취재로 실천하고, 기사로 말한다. 2. <b>직무<\/b>는 양심에 따라 공정하게 수행한다. 3. 사명감으로 국가와 국민을 이롭게 한다. 4. 법과 도덕을 바탕으로, 청렴을 유지한다. 5. 스스로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>미화원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026104&cid=42117&categoryId=42117",
+			"description":" 공원, 운동장, 상가, 주택가, 거리 등 공공장소에서 청소하고 재활용, 폐기물을 분리, 수거한다. [수행<b>직무<\/b>] 관할 구역 내의 공공장소나 거리에 있는 폐기물을 빗자루와 운반차량을 이용하여 청소한다. 일정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해양<b>환경<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664782&cid=42117&categoryId=42117",
+			"description":" 전국 연근해역의 해양<b>환경<\/b>을 모니터링하고 연안어장 <b>환경<\/b>회복 및 적정관리에 관해 연구한다. [수행<b>직무<\/b>] 바다의 해양오염측정망에서 해양오염을 측정한다. 고분해능 질량분석기, 가스크로마토그래프... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제품<b>환경<\/b>분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025828&cid=42117&categoryId=42117",
+			"description":" 제품의 폐기 시 발생하는 <b>환경<\/b>오염 물질을 측정·분석하거나, 폐기 후의 재활용상태 등을 점검한다. [수행<b>직무<\/b>] 폐기 업체나 폐기 장소를 방문하여 대기오염측정기(입자상측정기, 가스상 측정기)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대기<b>환경<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054001&cid=42114&categoryId=42114",
+			"description":" 대기<b>환경<\/b>기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 대기<b>환경<\/b>기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 대기<b>환경<\/b>기사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210909160550158_0XC7ST5PY.jpg\/da6_415_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"수질<b>환경<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054055&cid=42114&categoryId=42114",
+			"description":" 수질<b>환경<\/b>기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 수질<b>환경<\/b>기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 수질<b>환경<\/b>기사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210909160550316_Q2K9FP3EY.jpg\/da6_469_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"발전<b>환경<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025817&cid=42117&categoryId=42117",
+			"description":" 발전소 운영에 따른 대기, 수질, 토양, 해양 등 <b>환경<\/b>오염에 대한 측정, 평가, 방지 및 예방에 대한 기술개발 및 현장지원을 위한 제반 업무를 수행한다. [수행<b>직무<\/b>] 발전설비의 건설 및 운영이 대기, 수질, 토양... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>발명규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047767&cid=42279&categoryId=42279",
+			"description":"회사에서는 <b>환경<\/b>의 변화에 따라 새로운 <b>직무<\/b>의 창출을 필요로 하는데, 발명자를 통해 <b>직무<\/b>를 새롭게 발명하게 된다. 따라서, 각 <b>직무<\/b> 발명에 대한 책임과 권한 등 여러 가지 규정지어야 할 내용에 따라... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129002913068_Q7SUQ3XCF.jpg\/hb10_11475_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"토양<b>환경<\/b>기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029216&cid=42117&categoryId=42117",
+			"description":" 토양<b>환경<\/b> 오염정화 및 복구에 관한 연구, 설계, 개발업무를 하고 토양정화를 위한 계획수립 및 정화작업 감독 등의 업무를 수행한다. [수행<b>직무<\/b>] 토양 및 지하수를 채취하여 토양오염도 측정기를 이용, 시험... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>배태성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5753633&cid=40942&categoryId=31911",
+			"description":"개인의 비전이나 가치관, 경력목표 등이 현재의 <b>직무<\/b> 및 조직과 부합하다고 지각되는지 그리고 지역사회 및 주변 <b>환경<\/b>과 자신이 잘 맞는다고 지각되는지를 말한다. [연결고리] 개인이 다른 사람들이나 집단... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>명세서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1594679&cid=50304&categoryId=50304",
+			"description":"예컨대 ① <b>직무<\/b>내용, ② 노동부담, ③ 노동<b>환경<\/b>, ④ 위험도, ⑤ <b>직무<\/b>조건, ⑥ 결과책임, ⑦ 지도책임, ⑧ 감독책임, ⑨ 권한 , ⑩ 용구(用具) 및 재료 등을 밝혀 둔 것이다. 경우에 따라서는 <b>직무<\/b>담당자의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>특성이론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5145899&cid=40942&categoryId=31531",
+			"description":" 산업심리학 용어로, <b>직무<\/b>가 가지고 있는 특성이 개인의 내적 심리상태에 영향을 주어 생산성, <b>직무<\/b> 성과 등에 영향을 미친다는 이론이다.  핵심<b>직무<\/b>특성이론(Core Characteristics Model)으로도 알려져... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054204&cid=42114&categoryId=42114",
+			"description":"(2) 주요 업무 ① <b>환경<\/b>기능사는 생활하수나 공장에서 발생되는 산업폐기물을 정화하고 중성화하여 처리하기 위한 열교환기, 펌프, 압축기, 소각로 및 관련 장비를 조작하는 <b>직무<\/b>를 수행한다. ② 각종... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191158586_8T0ZTKVN4.jpg\/da6_618_i3.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>기술서",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4%EA%B8%B0%EC%88%A0%EC%84%9C",
+			"description":"<b>직무<\/b>기술서보다도 <b>직무<\/b>에 대하여 구체적으로 상세한 기술하는 것이 <b>직무<\/b>명세서로서, <b>직무<\/b>명·<b>직무<\/b> 분류 번호·부과명·<b>직무<\/b> 개요를 기재한 후에 작업 조건·작업 <b>환경<\/b>, 담당자에게 요구되는 학력·교육 정도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>연구원(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664786&cid=42117&categoryId=42117",
+			"description":" <b>환경<\/b>문제를 연구·분석·평가하고 <b>환경<\/b>오염의 통제방법 및 <b>환경<\/b>문제의 개선책을 개발한다. [수행<b>직무<\/b>] 연구계획에 따라 자료의 수집방법을 결정한다. <b>환경<\/b>오염원을 추적·분석하여 오염원에 의한 영향력을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>시험원(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953441&cid=42117&categoryId=42117",
+			"description":" 대기, 수질, 소음진동 등 <b>환경<\/b> 시설 및 방법 등의 연구 및 개발과 관련하여 <b>환경<\/b>공학기술자 및 연구원의 지휘·감독 하에 시험업무를 수행한다. [수행<b>직무<\/b>] 대기, 수질, 소음진동, 토양, 폐기물 등의 오염분석을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 특성 이론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070240&cid=41991&categoryId=41991",
+			"description":" <b>직무<\/b> 특성 이론은 특정한 <b>직무<\/b> 특성이 특정한 심리 상태를 유발하고 이것이 다시 <b>직무<\/b> 성과와 연관되는데, 이때 종업원의 개인차가 이러한 일련의 과정에 영향을 줄 수 있다는 이론이다. [ 1. 개요]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2883_000_1\/20140311193050896_O17H8FZG2.jpg\/af2_210_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"수자원<b>환경<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664756&cid=42117&categoryId=42117",
+			"description":" 수자원<b>환경<\/b> 및 생태계 모니터링, 유역 오염원 관리와 오염물질의 저감 방안, <b>환경<\/b>영향평가, 수질개선관리, 수질모델링, 수자원<b>환경<\/b> 정보구축을 위한 연구·개발을 한다. [수행<b>직무<\/b>] 수질데이터를 분석하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>수준평가표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047772&cid=42279&categoryId=42279",
+			"description":"인사고과 등에 중요한 자료가 되므로, 최대한 공정하고 객관적으로 작성해야 한다. 또 조직구조와 업무<b>환경<\/b>을 폭넓게 고려하고, 경영자의 경영 철학 등에 따라 평가 요소 또한 다양하게 구성하도록 한다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129002916901_J8HJUQKSD.jpg\/hb10_11480_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"국립<b>환경<\/b>과학원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%ED%99%98%EA%B2%BD%EA%B3%BC%ED%95%99%EC%9B%90",
+			"description":"<b>직무<\/b> 보안·문서·인사·감사·예산·결산 및 회계에 관한 사항 중장기 국가<b>환경<\/b>연구사업의 목표설정 및 기획, 주요업무계획 수립, 국제협력 및 홍보, 연구사업에 대한 평가 및 심사분석 <b>환경<\/b>오염에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지하철<b>환경<\/b>관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029142&cid=42117&categoryId=42117",
+			"description":" 안전한 지하철 역사 및 주변 <b>환경<\/b>을 유지하기 위해 공기오염도 및 소음 등을 측정하고 관리한다. [수행<b>직무<\/b>] 지하철의 승강장, 객차를 포함하여 지하 및 지상 역사와 주변 터널 등 지하철 주변의 소음, 진동... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>능력평가표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047764&cid=42279&categoryId=42279",
+			"description":"<b>직무<\/b>능력평가표는 인사고과 등에 중요한 자료가 되므로, 최대한 공정하고 객관적으로 작성해야 한다. 또 조직구조와 업무<b>환경<\/b>을 폭넓게 고려하고, 경영자의 경영 철학 등에 따라 평가 요소 또한 다양하게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해양<b>환경<\/b>감시원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1162134&cid=40942&categoryId=31861",
+			"description":"및 폐유처리사업자 등의 구조설비와 방제자재의 비치상황에 관한 검사 ③ 기타 해양오염방지에 관한 사항 등이다. <b>직무<\/b>를 수행하는 데 있어서 해양<b>환경<\/b>감시원은 그 권한을 표시하는 증표를 지니고 이를",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>스트레스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2178802&cid=51072&categoryId=51072",
+			"description":"개인의 욕구 사이에 불균형이 생길 때 일어난다. 그 원인은 물리적 <b>환경<\/b>, 조직관련 스트레스 요인, <b>직무<\/b>관련 스트레스 요인, 개인관련 스트레스 요인, 그리고 조직 외 관련 스트레스 요인 등으로 볼 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"해양<b>환경<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053940&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 해양<b>환경<\/b>기사 ① 해양<b>환경<\/b>기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 해양<b>환경<\/b>기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 해양개발은 생물자원, 해저광물자원... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181341315_V5J2EW7PX.jpg\/da6_354_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>환경<\/b>방사선관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953442&cid=42117&categoryId=42117",
+			"description":" <b>환경<\/b>방사선 분석을 통해 방사성폐기물 처리장의 처분시설 주변 지역주민에게 노출되는 방사선량을 평가한다. [수행<b>직무<\/b>] 조사계획을 수립하고 처분시설 부지주변 <b>환경<\/b>방사능 분석을 위해 <b>환경<\/b>방사능 분석용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"개인-<b>직무<\/b> 적합성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5677846&cid=40942&categoryId=31910",
+			"description":"개인의 능력과 <b>직무<\/b> 요구사항간의 적합성은 개인이 <b>직무<\/b> 요구사항을 충족시켜주는 능력을 보유하고 있는 정도와 관련된다. 개인-<b>직무<\/b> 적합성은 개인의 특성과 업무<b>환경<\/b>과의 긍정적 부합을 의미하는 개인-",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 스트레스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1944753&cid=41989&categoryId=41989",
+			"description":"목표와 개인의 욕구 사이에 일어난 불균형에 의해 일어난다. 그 원인은 물리적 <b>환경<\/b>, 조직관련 스트레스원, <b>직무<\/b>관련 스트레스원, 개인관련 스트레스원, 그리고 조직 외 관련 스트레스원 등으로 볼 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"식물<b>환경<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025211&cid=42117&categoryId=42117",
+			"description":" 농작물의 수량증대 및 품질향상을 위하여 토양개량, 시비(施肥:거름주기)개선, 병충해방제법, 농산물의 저장, 가공, 이용 등에 관한 연구를 한다. [수행<b>직무<\/b>] 토양개량 및 시비개선연구를 위하여 연구항목을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제품생산<b>환경<\/b>평가원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664771&cid=42117&categoryId=42117",
+			"description":" 특정 제품의 생산 과정에서 배출되는 <b>환경<\/b>오염 물질과 에너지 비효율성을 측정·분석하여, 개선을 위한 기술적 조언을 제공한다. [수행<b>직무<\/b>] 제품의 생산공정을 파악하고 각 생산공정에서 배출되는 <b>환경<\/b>오염... ",
+			"thumbnail":""
+		},
+		{
+			"title":"발전<b>환경<\/b>입지계획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024613&cid=42117&categoryId=42117",
+			"description":" 발전소 주변의 <b>환경<\/b>보전 및 유지를 위한 기본계획 및 정책을 수립하고 입지선정, <b>환경<\/b>피해에 대한 종합적 방지 및 대책을 위한 <b>환경<\/b> 관련 각종 기술업무를 수행한다. [수행<b>직무<\/b>] 발전소의 입지, 설비 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농업<b>환경<\/b>생태연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658807&cid=42117&categoryId=42117",
+			"description":" 각종 <b>환경<\/b>오염 및 기후변화로부터 농업<b>환경<\/b> 및 생태계를 보전하기 위한 연구를 한다. [수행<b>직무<\/b>] 토양과 농작물에 대한 유해물질조사 및 안전기준을 설정한다. 각종 유해물질에 대한 농작물 피해분석을 통한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생산시설<b>환경<\/b>기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664759&cid=42117&categoryId=42117",
+			"description":" 공장에서 발생하는 대기오염, 수질오염, 폐기물오염 등을 방지하는 대책을 수립하고 개선한다. [수행<b>직무<\/b>] 제품제조 시 발생하는 대기, 수질(폐수, 오수), 폐기물 등의 오염량을 산출하여 규정에 위반되었는지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>설비연구개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664784&cid=42117&categoryId=42117",
+			"description":" 오염된 토양의 정화와 상·하수 등의 수질 개선 관련한 설비 및 설비공정 등을 연구·개발한다. [수행<b>직무<\/b>] 대지, 대기, 폐기물 및 수질 등의 <b>환경<\/b>오염 방지와 처리를 위한 장비와 설비를 연구한다. 기름, 화학물... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수도권대기<b>환경<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%88%98%EB%8F%84%EA%B6%8C%EB%8C%80%EA%B8%B0%ED%99%98%EA%B2%BD%EC%B2%AD",
+			"description":"<b>직무<\/b> 보안·문서·인사·관인 관리·예산·결산 및 회계에 관한 사항 수도권대기<b>환경<\/b>관리기본계획의 수립 및 시행계획의 승인에 관한 사항 수도권 지역에서의 인구·자동차·산업 및 대기배출량 등 대기와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>발명보상규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047768&cid=42279&categoryId=42279",
+			"description":"회사에서는 <b>환경<\/b>의 변화에 따라 새로운 <b>직무<\/b>의 창출을 필요로 하는데, 발명자를 통해 <b>직무<\/b>를 새롭게 발명하게 된다. 따라서, 각 <b>직무<\/b> 발명자에 대한 보상에 대해 여러 가지 규정지어야 할 내용에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"토양<b>환경<\/b>기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054180&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① 과다한 농약사용, 화학비료사용, 각종 생활 쓰레기 및 <b>환경<\/b>폐기물 매립... ③ 최근 우리나라에서도 토양<b>환경<\/b>평가제도를 도입하여 더욱더 전문가의 필요성이 대두되고 있는데... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716204017642_3QLTMQG72.jpg\/da6_594_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"제품<b>환경<\/b>컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024529&cid=42117&categoryId=42117",
+			"description":" 기업의 요구에 따라 제품개발과 생산, 폐기까지 제품의 전 생애에 걸친 친<b>환경<\/b> 전략을 분석·평가하고 대안을 제시한다. [수행<b>직무<\/b>] 기업의 제품개발 부서 또는 관련 담당자와 협의하여 상품기획, 제품설계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>위해관리기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5843950&cid=42114&categoryId=42114",
+			"description":" <b>환경<\/b>위해관리기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>환경<\/b>위해관리기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과해야 한다. 필기시험은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원주지방<b>환경<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9B%90%EC%A3%BC%EC%A7%80%EB%B0%A9%ED%99%98%EA%B2%BD%EC%B2%AD",
+			"description":"<b>직무<\/b> 보안·문서·인사·관인 관리·예산·결산 및 회계에 관한 사항 생태계 보전지역의 관리 및 자연<b>환경<\/b>보전·이용시설의 설치·운영 등 자연<b>환경<\/b>에 관한 사항 전략<b>환경<\/b>영향평가, 소규모 <b>환경<\/b>영향평가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금강유역<b>환경<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%88%EA%B0%95%EC%9C%A0%EC%97%AD%ED%99%98%EA%B2%BD%EC%B2%AD",
+			"description":"<b>직무<\/b> 보안·문서·인사·관인 관리·예산·결산 및 회계에 관한 사항 생태계보전지역의 관리 및 자연<b>환경<\/b>보전·이용시설의 설치·운영 등 자연<b>환경<\/b>에 관한 사항 도립공원·군립공원의 계획결정·변경 시의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대구지방<b>환경<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EA%B5%AC%EC%A7%80%EB%B0%A9%ED%99%98%EA%B2%BD%EC%B2%AD",
+			"description":"<b>직무<\/b> 보안·문서·인사·관인 관리·예산·결산 및 회계에 관한 사항 생태계 보전지역의 관리 및 자연<b>환경<\/b>보전·이용시설의 설치·운영 등 자연<b>환경<\/b>에 관한 사항 전략<b>환경<\/b>영향평가, 소규모 <b>환경<\/b>영향평가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한강유역<b>환경<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B0%95%EC%9C%A0%EC%97%AD%ED%99%98%EA%B2%BD%EC%B2%AD",
+			"description":"<b>직무<\/b> 보안·문서·인사·관인 관리·예산·결산 및 회계에 관한 사항 생태계보전지역의 관리 및 자연<b>환경<\/b>보전·이용시설의 설치·운영 등 자연<b>환경<\/b>에 관한 사항 도립공원·군립공원의 계획결정·변경 시의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전북지방<b>환경<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EB%B6%81%EC%A7%80%EB%B0%A9%ED%99%98%EA%B2%BD%EC%B2%AD",
+			"description":"<b>직무<\/b> 보안·문서·인사·관인 관리·예산·결산 및 회계에 관한 사항 생태계 보전지역의 관리 및 자연<b>환경<\/b>보전·이용시설의 설치·운영 등 자연<b>환경<\/b>에 관한 사항 전략<b>환경<\/b>영향평가, 소규모 <b>환경<\/b>영향평가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"폐기물<b>환경<\/b>관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029143&cid=42117&categoryId=42117",
+			"description":" 공장 또는 유원지, 동물원 등에서 발생되는 산업폐기물을 정화하고 중성화하여 처리하는 관련 작업을 기획하고 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 처리하기 위한 폐기물의 양과 종류에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>소재연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953555&cid=42117&categoryId=42117",
+			"description":" 저비용 완전분해성 소재를 개발하고 응용하는 연구를 수행한다. [수행<b>직무<\/b>] 광분해, 미생물 분해가 용이한 소재를 개발한다. 전분과 석유계 물질을 합성하여 분해가 용이한 소재를 개발한다. 자료조사를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"개인-<b>환경<\/b>일치이론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5676745&cid=62841&categoryId=62841",
+			"description":" 개인의 특성, 흥미, 적성, 성격 등을 포함하는 개인의 요구와 작업 <b>환경<\/b>이나 조건 등의 요구가... 다른 <b>환경<\/b>에도 적용할 수 있는 이론으로 발전시켜 개인-<b>환경<\/b>일치이론으로 불렀다. 개인은 자신과 작업 <b>환경<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립<b>환경<\/b>인재개발원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%ED%99%98%EA%B2%BD%EC%9D%B8%EC%9E%AC%EA%B0%9C%EB%B0%9C%EC%9B%90",
+			"description":"<b>직무<\/b> 보안·문서·인사·관인 관리·예산·결산 및 회계에 관한 사항 <b>환경<\/b> 분야 교육훈련 기법의 연구·개발 등 기본계획의 수립 <b>환경<\/b> 분야 교육훈련 수요조사 및 교육훈련과정의 개발·운영... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>스트레스설문지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545837&cid=42279&categoryId=42279",
+			"description":"<b>직무<\/b>스트레스설문지를 작성함으로써 기업에서는 직원들의 <b>직무<\/b>스트레스에 관한 정보를 정확히 확인하여 기업의 업무 <b>환경<\/b>을 개선하고 직원들의 복지 향상에 신경 쓸 수 있다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228183012275_J66PGO32W.jpg\/hb10_79852_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"지역<b>환경<\/b>정책연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832748&cid=42117&categoryId=42117",
+			"description":"지역발전에 따라 발생할 수 있는 <b>환경<\/b>오염의 방지와 <b>환경<\/b>보전의 측면에서 <b>환경<\/b>정책을 수립할 수 있는 방향을 제시한다. 국제대회유치, 국제박람회개최, 공단조성 및 지역개발에 따라 지역 및 국가경제에 미칠... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선박<b>환경<\/b>설비기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028186&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 선박에서 발생가능한 <b>환경<\/b>오염원을 분석하고 그에 적합한 선박용 오폐수처리설비(평형수처리설비 등), 대기오염처리설비(질소산화물·황산화물·이산화탄소처리설비 등) 등을 개발한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대기<b>환경<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054002&cid=42114&categoryId=42114",
+			"description":"측정하여 분석하고, 오염원인이 무엇인지 알아내어 오염방지대책을 강구하는 <b>직무<\/b>를 담당한다. ② 생활<b>환경<\/b>의 오염물질을 제거 또는 감소시키기 위한 대처방안을 연구하고, 대기오염방지시설을 설",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181342502_DBH8016UZ.jpg\/da6_416_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"수질<b>환경<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054056&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 수질<b>환경<\/b>산업기사 ① 수질<b>환경<\/b>산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 수질<b>환경<\/b>산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 수질<b>환경<\/b> 문제가 심각한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191130981_V9QZJ3HLD.jpg\/da6_470_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"원예작물<b>환경<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837706&cid=42117&categoryId=42117",
+			"description":"친<b>환경<\/b>원예작물에 대한 근권(식물 뿌리둘레의 영역) <b>환경<\/b>개선 및 지구온난화에 대비한 기술을 개발한다. 그 외에 연구원(일반)이 수행하는 일반적인 업무를 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>재앙의 역사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3579909&cid=59020&categoryId=59032",
+			"description":"150여명이 목숨을 잃은 것으로 집계됐습니다만, 인명피해만큼이나 <b>환경<\/b>에 미칠 장기적인 영향도 걱정됩니다. 폭발사고 현장 부근의 강에서 떼죽음을 당한 물고기 사진들이 중국판 트위터인 웨이보에 올라왔고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118184833467_YMLQ0XAK5.jpg\/01_461.jpg?type=m160_160"
+		},
+		{
+			"title":"영산강유역<b>환경<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%81%EC%82%B0%EA%B0%95%EC%9C%A0%EC%97%AD%ED%99%98%EA%B2%BD%EC%B2%AD",
+			"description":"<b>직무<\/b> 보안·문서·인사·관인 관리·예산·결산 및 회계에 관한 사항 생태계보전지역의 관리 및 자연<b>환경<\/b>보전·이용시설의 설치·운영 등 자연<b>환경<\/b>에 관한 사항 도립공원·군립공원의 계획결정·변경 시의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"낙동강유역<b>환경<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%82%99%EB%8F%99%EA%B0%95%EC%9C%A0%EC%97%AD%ED%99%98%EA%B2%BD%EC%B2%AD",
+			"description":"<b>직무<\/b> 보안·문서·인사·관인 관리·예산·결산 및 회계에 관한 사항 생태계보전지역의 관리 및 자연<b>환경<\/b>보전·이용시설의 설치·운영 등 자연<b>환경<\/b>에 관한 사항 도립공원·군립공원의 계획결정·변경 시의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생활<b>환경<\/b>유해인자연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025205&cid=42117&categoryId=42117",
+			"description":" 생활<b>환경<\/b> 유해인자에 대한 진단·평가를 하고, 석면, 라돈, 빛공해, 소음 등의 저감, 관리 등에 관한 연구를 수행한다. [수행<b>직무<\/b>] 휘발성유기화합물(VOC:Volatile Organic Compound), 미세먼지, 폼알데하이드... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직업<b>환경<\/b>의학과전문의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025446&cid=42117&categoryId=42117",
+			"description":" 산업체 근로자들의 직업성 질환과 일반<b>환경<\/b> 요인에 의해 발생하는 <b>환경<\/b>성 질환을 진단, 치료하며 관련 질환발생의 예방대책을 연구하고 조언한다. [수행<b>직무<\/b>] 직업성 또는 <b>환경<\/b>성 질환자의 치료계획을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자연<b>환경<\/b>관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054114&cid=42114&categoryId=42114",
+			"description":"자연<b>환경<\/b>의 훼손이 생태계 파괴로 이어져 모든 생물의 생존뿐만 아니라 우리 삶의 터전마저 크게 위협받고 있다. ② 공기 및 수질은 오염되고, 산림은 황폐해지며, 멸종해가는 종이 증가하면서 자연<b>환경<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203746399_KYHENROKC.jpg\/da6_528_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"중앙<b>환경<\/b>분쟁조정위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=561354&cid=46625&categoryId=46625",
+			"description":" <b>환경<\/b>오염의 피해로 인한 민사상 분쟁의 조정을 위하여 <b>환경<\/b>부에 두는 위원회. [내용] 1991년 5월 18일에 설립하였다. 이 위원회는 분쟁의 재정, 2 이상의 특별시·광역시 또는 도에 걸치는 분쟁의 알선 또는 조정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>환경<\/b>오염피해분쟁조정법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155405&cid=40942&categoryId=31708",
+			"description":"등의 <b>직무<\/b>, 운영규정, 지방<b>환경<\/b>위원회의 구성 등, 지방<b>환경<\/b>위원회 위원의 해임 ·해촉, 비밀누설 금지, 위원회의 조사권, 규칙 제정, 알선 ·조정의 신청, 재정(裁定)의 신청, 참가, 알선위원의 지명, 알선위원의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"과테말라의 투자<b>환경<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5716347&cid=48534&categoryId=48539",
+			"description":"[ 가. 투자유치제도] [외국인투자법] 1) 투자 관련법 개요 ㅇ 외국인 투자법 기존의 타 법률에 산재되어 있던 외국인 투자 관련 내용을 통합해 시행령(Decreto 9-98)호로 발표된 1998년의 외국인 투자법(Ley... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 <b>환경<\/b>부 차관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%99%98%EA%B2%BD%EB%B6%80_%EC%B0%A8%EA%B4%80",
+			"description":"역할 <b>환경<\/b>부 차관은 장관을 보좌하여 소관사무를 처리하고 소속공무원을 지휘·감독하며, 장관이 사고로 <b>직무<\/b>를 수행할 수 없으면 그 <b>직무<\/b>를 대행한다. 역대 차관 <b>환경<\/b>청 차장 <b>환경<\/b>처 차관 <b>환경<\/b>부 차관 같이... ",
+			"thumbnail":""
+		}
+	]
+}

@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:11 +0900",
+	"total":596575,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"대한금속·<b>재료<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1406",
+			"description":""
+		},
+		{
+			"title":"전기전자<b>재료<\/b>학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4388",
+			"description":""
+		},
+		{
+			"title":"희유금속<b>재료<\/b>여공정 (稀有金属材料与工程)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2166824",
+			"description":""
+		},
+		{
+			"title":"Nature Nanotechnology최신종술:납미기술재전동차동력전지<b>재료<\/b>발전중적응용 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=523802314",
+			"description":"The role of nanotechnology in the development of battery materials for electric vehicles    "
+		},
+		{
+			"title":"대한치과<b>재료<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1053761",
+			"description":""
+		},
+		{
+			"title":"E²M-전기 전자와 첨단 소재(구 전기전자<b>재료<\/b>)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4383",
+			"description":""
+		},
+		{
+			"title":"항공<b>재료<\/b>학보 (航空材料学报)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2853558",
+			"description":""
+		},
+		{
+			"title":"<b>재료<\/b>마당",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4343",
+			"description":""
+		},
+		{
+			"title":"혼합여기복합<b>재료<\/b>적력학성능화내마성 (混合铝基复合材料的力学性能和",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=218260203",
+			"description":"Evaluation of mechanical and wear properties of hybrid aluminium matrix composites 混合金属基复合材料是重要的工程材料"
+		},
+		{
+			"title":"선경화 시간에 따른 항공기 De-icing용 나노실리카\/폴리우레탄 복합<b>재료<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651626854",
+			"description":"Hydrophobicity and Adhesion of SiO2\/Polyurethane Nanocomposites Topcoat for Aircraft De-icing with Different Pre-curing Time 항공기"
+		},
+		{
+			"title":"양화석묵희대수이기복합<b>재료<\/b>미관결구화력학성능적영향 (氧化石墨烯对",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=156973794",
+			"description":"Influence of graphene oxide additions on the microstructure and mechanical strength of cement 研究了不同掺量下氧化石墨烯( "
+		},
+		{
+			"title":"증강상대여기복합<b>재료<\/b>내마성적영향 (增强相对铝基复合材料耐磨性的影",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=214743895",
+			"description":"Effects of reinforcement on wear resistance of aluminum matrix composites 通过考虑不同的参数，包括滑动距离(6 km)、压"
+		},
+		{
+			"title":"수니-강사-광사복합교응<b>재료<\/b>적수화특성 (水泥-钢渣-矿渣复合胶凝材料的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=711712682",
+			"description":""
+		},
+		{
+			"title":"이심주조제비공능제도여기복합<b>재료<\/b>급증강상대기력학화마손성능적영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=308734207",
+			"description":"Development of functionally graded aluminium composites using centrifugal casting and influence of reinforcements on mechanical and wea"
+		},
+		{
+			"title":"생체<b>재료<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2978",
+			"description":""
+		},
+		{
+			"title":"Bi 2 WO 6 \/ZnO:일충재가현광하구유우량광최화성능적화상신형복합<b>재료<\/b> (Bi 2",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=677319857",
+			"description":"   X-ray photoelectron spectroscopy, Visible spectrum, Transmission electron microscopy, Scanning electron microscope, Photochemistry, "
+		},
+		{
+			"title":"기계와 <b>재료<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1065241",
+			"description":""
+		},
+		{
+			"title":"대산피기다공탄<b>재료<\/b>적수열법제비급기CO2 흡부성능 (大蒜皮基多孔炭材料",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=625589461",
+			"description":"Activated carbons prepared by the KOH activation of a hydrochar from garlic peel and their CO2 adsorption performance 以大蒜皮为"
+		},
+		{
+			"title":"생물가강해금속<b>재료<\/b>체외부식측시체계종술 (生物可降解金属材料体外腐",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=219907708",
+			"description":"A review on in vitro corrosion performance test of biodegradable metallic materials 随着生物可降解金属材料日益受到关注"
+		},
+		{
+			"title":"연초기활성탄<b>재료<\/b>용우예화학초급전용기 (烟草基活性炭材料用于电化学",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=519916964",
+			"description":"An activated carbon derived from tobacco waste for use as a supercapacitor electrode material 烟草基活性炭(TAC)成功制备并用"
+		},
+		{
+			"title":"다공CuCo2S4\/석묵희복합<b>재료<\/b>적합성급기재초급전용기상적응용 (多孔CuCo2S4\/",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187452816",
+			"description":"A hierarchically porous CuCo2S4\/graphene composite as an electrode material for supercapacitors 采用水热法合成了纳米带状多"
+		},
+		{
+			"title":"CNT\/TiO2복합<b>재료<\/b>적합성、표정급기광최화성능분석 (CNT\/TiO2复合材料的合成",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=89027372",
+			"description":"Synthesis, characterization, and photocatalytic analysis of CNT\/TiO 2 composites derived from MWCNTs and titanium sources 采用多壁"
+		},
+		{
+			"title":"기우수응교연생적규\/탄납미관\/석묵희납미복합<b>재료<\/b>급저이성능 (基于水",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=657761160",
+			"description":"   Materials science "
+		},
+		{
+			"title":"교반주조SiC과립증강여기복합<b>재료<\/b>적조직여마손성능 (搅拌铸造SiC颗粒增",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220338034",
+			"description":"Microstructural and abrasive wear properties of SiC reinforced aluminum-based composite produced by compocasting 　　研究SiC颗粒"
+		},
+		{
+			"title":"기우금속유궤광가연생적Fe-N-C납미복합<b>재료<\/b>작위고효적양환원최화제 (基",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=688112384",
+			"description":"   Materials science "
+		},
+		{
+			"title":"통변일종신형공전구체적방법간단합성능증강TiO 2 가현광광최화활성적C",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=654867121",
+			"description":"   X-ray photoelectron spectroscopy, Raman spectroscopy, Photoluminescence, Photocurrent, Photocatalysis, Metal, Materials science, Hig"
+		},
+		{
+			"title":"자동차 경량화를 위한 탄소섬유강화 복합<b>재료<\/b>의 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=493021783",
+			"description":"Trend of Carbon Fiber-reinforced Composites for Lightweight Vehicles 최근 전세계적으로 자원 고갈로 인한 에너지 절약"
+		},
+		{
+			"title":"석류상선질피(Bi)구여g-C3N4복합<b>재료<\/b>표현출초강가현광양화NO성능 (石榴状",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=465985939",
+			"description":"Enhanced visible-light photo-oxidation of nitric oxide using bismuth-coupled graphitic carbon nitride composite heterostructures 采用"
+		},
+		{
+			"title":"도학\/고밀도취을희복합<b>재료<\/b>여도학탄\/고밀도취을희복합<b>재료<\/b>성능대비 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=669903198",
+			"description":""
+		},
+		{
+			"title":"탄납미관화탄화규대동혼합납미복합<b>재료<\/b>현미조직화간활동마손행위적영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=458786201",
+			"description":"Effect of carbon nanotube and silicon carbide on microstructure and dry sliding wear behavior of copper hybrid nanocomposites 研究了"
+		},
+		{
+			"title":"TiO 2 @Ag수칙적분매회미집료증강수이기<b>재료<\/b>광최화성능 (TiO 2 @Ag修饰的粉",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=697740812",
+			"description":"   Zeolite, Photocatalysis, Maximum reaction rate, Materials science, Fly ash, Composite material, Chemical engineering, Cementitious, "
+		},
+		{
+			"title":"비석분자사<b>재료<\/b>재소제휘발성유기화합물반응중적흡부여최화성능 (沸石",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=214296976",
+			"description":"Adsorptive and catalytic properties in the removal of volatile organic compounds over zeolite-based materials 作为空气污染物的"
+		},
+		{
+			"title":"간활동마찰조건하Al?Si3N납미복합<b>재료<\/b>급 Al?Gr?Si3N4혼타복합<b>재료<\/b>마찰마손",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=524872014",
+			"description":"Optimization of friction and wear behaviour of Al–Si3N4 nano composite and Al–Gr–Si3N4 hybrid composite under dry sliding conditi"
+		},
+		{
+			"title":"초순자성양화석묵희복합<b>재료<\/b>고정랄근변양화물매최화거제록분 (超顺磁",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=509297557",
+			"description":"Enzymatic removal of chlorophenols using horseradish peroxidase immobilized on superparamagnetic Fe3O4\/graphene oxide nanocomposite 采"
+		},
+		{
+			"title":"펄스전류활성 가열에 의한 나노구조의 4Cr-3ZrO2 복합<b>재료<\/b> 급속소결과 특",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=154128005",
+			"description":"Properties and Rapid Consolidation of Nanostructured 4Cr-3ZrO2 Composite by Pulsed Current Activated Sintering Despite of many attracti"
+		},
+		{
+			"title":"SiC함량대Al\/SiC납미복합<b>재료<\/b>간활동마손、부식이급부식마손행위적영향 (S",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=215394349",
+			"description":"Effect of SiC content on dry sliding wear, corrosion and corrosive wear of Al\/SiC nanocomposites 纳米复合材料的腐蚀、腐蚀"
+		},
+		{
+			"title":"“호연망＋”배경하대학생창신창업교육탐색실천——이계림전자과기대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=702537850",
+			"description":""
+		},
+		{
+			"title":"Al\/Cu 쌍금속복합<b>재료<\/b>재액고복합주조변정중적조직화성능 (Al\/Cu 双金属复",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=215622308",
+			"description":"Microstructure and properties of Al\/Cu bimetal in liquid–solid compound casting process 采用化学镀法在纯铜基体上镀上镍"
+		},
+		{
+			"title":"이유<b>재료<\/b>한역단원자최화제연구진전 (二维材料限域单原子催化剂研究进",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=698054049",
+			"description":"Two-dimensional materials confining single atoms for catalysis 近年来,单一原子或单一位点催化剂因其独特的结构和"
+		},
+		{
+			"title":"다벽탄납미관증강동기금속복합<b>재료<\/b>간활동마손행위적참수우화 (多壁碳",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=499977067",
+			"description":"Parametric optimization of dry sliding wear loss of copper–MWCNT composites 利用实验、统计学及人工神经网络方法研究"
+		},
+		{
+			"title":"채용마찰교반공예제비Al\/Al2Cu원위납미복합<b>재료<\/b> (采用摩擦搅拌工艺制备Al",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=471210078",
+			"description":"Fabrication of Al\/Al2Cu in situ nanocomposite via friction stir processing 采用摩擦搅拌工艺制备Al\/Al2Cu原位纳米复合材"
+		},
+		{
+			"title":"채용기우회도적혼합방법우화 Al6061\/공심미주복합<b>재료<\/b>전화화절할공예참",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=496786851",
+			"description":"Optimization of electrical discharge machining process parameters for Al6061\/cenosphere composite using grey-based hybrid approach 粉"
+		},
+		{
+			"title":"전침적법제비초순배탄납미관증강동기층상복합<b>재료<\/b> (电沉积法制备超顺",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=215014563",
+			"description":"Fabrication of superaligned carbon nanotubes reinforced copper matrix laminar composite by electrodeposition 采用电沉积法,使用"
+		},
+		{
+			"title":"동／여복합<b>재료<\/b>적고-액복합법제비급기계면결합궤리 (铜／铝复合材料的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=675401334",
+			"description":""
+		},
+		{
+			"title":"부동관능화탄납미관대MWCNTs-탄견유\/환양수지복합<b>재료<\/b>역학성능적영향 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=711290526",
+			"description":""
+		},
+		{
+			"title":"기우취새분\/WO3적유궤-무궤복합<b>재료<\/b>저온NO2전감기 (基于聚噻吩\/WO3的有机-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220984774",
+			"description":"Low-temperature NO2 sensors based on polythiophene\/WO3 organic-inorganic hybrids 通过化学氧化聚合法和胶溶法分别制备了"
+		},
+		{
+			"title":"원위합성구유고가현광최화활성적C3N4\/CdS납미복합<b>재료<\/b> (原位合成具有高",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=453753239",
+			"description":"In-situ synthesis of C3N4\/CdS composites with enhanced photocatalytic properties 以硫氰酸铵和氯化镉为原料，采用无模板"
+		},
+		{
+			"title":"구기공능화납미Fe 3 O 4 고분자자성복합<b>재료<\/b>적합성급기대수중아갑기감적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=703857122",
+			"description":""
+		},
+		{
+			"title":"부점매기활성탄작초급전용기전극<b>재료<\/b>:붕、담삼타대기예화학성능적영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=521810825",
+			"description":"The effect of nitrogen and\/or boron doping on the electrochemical performance of non-caking coal-derived activated carbons for use as s"
+		},
+		{
+			"title":"기우수구분류유전산법적Al\/15％ SiCp복합<b>재료<\/b>예화학가공공예참수적우화 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=221750456",
+			"description":"Parametric optimization of electrochemical machining of Al\/15% SiC p composites using NSGA-II 电化学加工(ECM)是一种重要的非"
+		},
+		{
+			"title":"ZnCuAl-LDH\/Bi2MoO6납미복합<b>재료<\/b>적구건급기가현광최화강해성능 (ZnCuAl-LDH\/Bi2Mo",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=669639297",
+			"description":""
+		},
+		{
+			"title":"담삼타적탄<b>재료<\/b>중석묵화담화비정담대양환원반응적최화특성 (氮掺杂的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=506753139",
+			"description":"Catalytic properties of graphitic and pyridinic nitrogen doped on carbon black for oxygen reduction reaction 目前,开发高效的阴"
+		},
+		{
+			"title":"삼유(3D)석묵희급기복합<b>재료<\/b>적응용 (三维(3D)石墨烯及其复合材料的应用)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=699362873",
+			"description":""
+		},
+		{
+			"title":"고효양최화반응중적금속유궤골가<b>재료<\/b> (高效氧催化反应中的金属有机骨",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=512316062",
+			"description":"Metal-organic frameworks for highly efficient oxygen electrocatalysis &quot;氧电催化反应包括氧气还原反应(ORR)和氧气析出"
+		},
+		{
+			"title":"화공신형<b>재료<\/b> (化工新型材料)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2861690",
+			"description":""
+		},
+		{
+			"title":"초임계정병순회수탄견유증강환양수지복합<b>재료<\/b> (超临界正丙醇回收炭纤",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=469644814",
+			"description":"Recycling of carbon fibers in epoxy resin composites using supercritical 1-propanol 研究了降解温度、反应时间和添加剂对"
+		},
+		{
+			"title":"목분\/취을희복합<b>재료<\/b>적등이자체표면처리——등이자체처리시간대복합",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=670643516",
+			"description":""
+		},
+		{
+			"title":"어린 보릿가루를 첨가한 설기떡의 <b>재료<\/b> 혼합비의 최적화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16607504",
+			"description":"Ingredient mixing ratio optimization for the preparation of Sulgidduk with barley(Hordeum vulgare L.) sprout powder 본 논문은 어"
+		},
+		{
+			"title":"궤충부동개성제대도초\/병희정-정이희-분을희복합<b>재료<\/b>성능적영향 (几种",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=656765083",
+			"description":""
+		},
+		{
+			"title":"해수격활전지양극<b>재료<\/b>Mg-Al-Sn합금적방예행위급예화학성능 (海水激活电",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=516098563",
+			"description":"Discharge behavior and electrochemical properties of Mg–Al–Sn alloy anode for seawater activated battery Mg-Al-Sn合金是海水激"
+		},
+		{
+			"title":"이이자전지부극<b>재료<\/b>용Co 3 O 4 급기복합<b>재료<\/b>연구진전 (锂离子电池负极材",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=733258531",
+			"description":"   Organic chemistry, Chemistry "
+		},
+		{
+			"title":"혼합분말반고태성형Al7075\/B4C복합<b>재료<\/b>재부동실험조건하적현미조직화력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=500604242",
+			"description":"Microstructural and mechanical behavior of blended powder semisolid formed Al7075\/B 4 C composites under different experimental conditi"
+		},
+		{
+			"title":"미세역학적 실험법과 젖음성을 이용한 CNT-에폭시 나노복합<b>재료<\/b> 경사형 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=37746251",
+			"description":"Interfacial Properties of Gradient Specimen of CNT-Epoxy Nanocomposites using Micromechanical Technique and Wettability 유리섬유 "
+		},
+		{
+			"title":"제6회 한국전기전자<b>재료<\/b>학회 <b>재료<\/b>사진공모전 수상작",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896911122",
+			"description":""
+		},
+		{
+			"title":"양보수열법제비환원양화석묵희\/납미TiO 2 복합<b>재료<\/b>급기광최화성능 (两步",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=718316101",
+			"description":""
+		},
+		{
+			"title":"Cu-Al 금속간화합물적형성여생장급기대전도 Cu\/Al 층상복합<b>재료<\/b>전성능적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=471132813",
+			"description":"Formation and growth of Cu–Al IMCs and their effect on electrical property of electroplated Cu\/Al laminar composites 采用纯 Al 片"
+		},
+		{
+			"title":"탄납미관대환양수지기납미복합<b>재료<\/b>적력학화전학성능영향 (碳纳米管对",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=507510101",
+			"description":"Effects of carbon nanotube content on the mechanical and electrical properties of epoxy-based composites 以碳纳米管( MWCNT)为添"
+		},
+		{
+			"title":"파채엽기분급공활성탄작대칭초급전용기전극<b>재료<\/b> (菠菜叶基分级孔活性",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=113679100",
+			"description":"Hierarchical porous activated carbon produced from spinach leaves as an electrode material for an electric double layer capacitor 采"
+		},
+		{
+			"title":"금속유궤골가<b>재료<\/b>MIL-53(Al)부대납미Pd과립：일종CO양화적활성최화제 (金",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=717602983",
+			"description":""
+		},
+		{
+			"title":"ZrC-SiC함량대C\/C복합<b>재료<\/b>현미결구화소식성능적영향 (ZrC-SiC含量对C\/C复合",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=213524757",
+			"description":"Effect of ZrC–SiC content on microstructure and ablation properties of C\/C composites 通过先驱体浸渍裂解法制备了不同Zr"
+		},
+		{
+			"title":"유성금속유궤골가<b>재료<\/b>（MOFs）용우기체흡부분리 (柔性金属有机骨架材料",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=711419845",
+			"description":""
+		},
+		{
+			"title":"여기복합<b>재료<\/b>선삭가공변정참수적예측여우화 (铝基复合材料铣削加工过",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=221801102",
+			"description":"Prediction and optimization of end milling process parameters of cast aluminium based MMC 研究了LM25Al\/SiCp复合材料的铣削加"
+		},
+		{
+			"title":"불화처리대식입<b>재료<\/b>Mg-Ca이원합금부식행위적영향 (氟化处理对植入材料Mg",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=112342641",
+			"description":"Effect of fluoride treatment on corrosion behavior of Mg–Ca binary alloy for implant application 在室温下,将Mg-0.5Ca合金在不"
+		},
+		{
+			"title":"SiCp\/2024 Al복합<b>재료<\/b>계면적표정급평개 (SiCp\/2024 Al复合材料界面的表征及评",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=469741565",
+			"description":"Characterization and evaluation of interface in SiCp\/2024 Al composite 采用粉末冶金方法制备体积分数为35%的SiCp\/2024 Al"
+		},
+		{
+			"title":"포벽<b>재료<\/b>성능대포말여압축성능적영향 (泡壁材料性能对泡沫铝压缩性能",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=458311844",
+			"description":"Effects of cell wall property on compressive performance of aluminum foams 针对吹气法制备的高孔隙率闭孔泡沫铝,通过"
+		},
+		{
+			"title":"다벽탄납미관-취유산복합<b>재료<\/b>적원위취합제비급열성능화도전성능 (多壁",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220140181",
+			"description":"Enhanced thermal and electrical properties of poly (D,L-lactide)\/multi-walled carbon nanotubes composites by in-situ polymerization 采"
+		},
+		{
+			"title":"전자현미학진전급기재<b>재료<\/b>과학중적응용 (电子显微学进展及其在材料科",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=91946990",
+			"description":"Transmission electron microscopy and its applications in material science 文章简要介绍了高分辨电子显微学方法和电子"
+		},
+		{
+			"title":"생물가강해Mg-Zn-Zr\/β-TCP복합<b>재료<\/b>조직결구급성능 (生物可降解Mg-Zn-Zr\/β-TCP",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=91290426",
+			"description":"Microstructure and properties of biodegradable β-TCP reinforced Mg-Zn-Zr composites 镁合金具有优异的生物相容性,但在生"
+		},
+		{
+			"title":"혼합기질수처리막:<b>재료<\/b>、제비여성능 (混合基质水处理膜:材料、制备与",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=699720159",
+			"description":""
+		},
+		{
+			"title":"유연법제비고예도솔정향석묵\/고분자복합편층<b>재료<\/b> (流延法制备高热导率",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=101272242",
+			"description":"Preparation of oriented graphite\/polymer composite sheets with high thermal conductivities by tape casting 以天然鳞片石墨为原"
+		},
+		{
+			"title":"밀도화견유취향대탄\/탄복합<b>재료<\/b>소식성능적영향 (密度和纤维取向对炭\/",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=89103329",
+			"description":"Effect of density and fibre orientation on the ablation behaviour of carbon-carbon composites 采用不同的预制体和致密化方"
+		},
+		{
+			"title":"기계적 합금화법으로 제조된 Mg-5wt.% TiCr_10_Nb_X_ (x=1,3,5) 복합<b>재료<\/b>의 수소",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45749104",
+			"description":"Hydrogenation properties of Mg-5 wt.% TiCr10Nbx (x=1,3,5) composites by mechanical alloying process Hydrogen and hydrogen energy have b"
+		},
+		{
+			"title":"채용향응면방법대원위반응주조제비Al\/TiB2금속기복합<b>재료<\/b>공예참수진행",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220140112",
+			"description":"Optimization of process parameters for in situ casting of Al\/TiB2 composites through response surface methodology 开发了数学模型"
+		},
+		{
+			"title":"한국전기전자<b>재료<\/b>학회 뉴스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896911123",
+			"description":"KIEEME News    "
+		},
+		{
+			"title":"에너지 <b>재료<\/b>과학 연구실",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896911117",
+			"description":"Energy &amp; Materials Science Laboratory    "
+		},
+		{
+			"title":"등이자전이호퇴한탄화오\/Ni기복합<b>재료<\/b>퇴한층적참수우화 (等离子转移弧",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=489176140",
+			"description":"Parameter optimization for tungsten carbide\/Ni-based composite coating deposited by plasma transferred arc hardfacing 采用等离子"
+		},
+		{
+			"title":"납미<b>재료<\/b>생물효응급기독리학연구진전 (纳米材料生物效应及其毒理学研",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=90840960",
+			"description":" 纳米科学与信息科学和生命科学并列, 已经成为21世纪的三大支柱科学领域. 由于纳米材料独特的物理"
+		},
+		{
+			"title":"구유고순환온정성적담유삼잡다공탄납미구납이자전지부극<b>재료<\/b> (具有高",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=447426845",
+			"description":"N, S co-doped porous carbon nanospheres with a high cycling stability for sodium ion batteries 开发高性能和低成本的负极材"
+		},
+		{
+			"title":"광용주장<b>재료<\/b>적굉세관고척도공극결구특정 (矿用注浆材料的宏细观跨尺",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=617696700",
+			"description":"Macroscopic and microscopic trans-scale characteristics of pore structure of mine grouting materials 采取薄层断面分析和低场"
+		},
+		{
+			"title":"고과립함량B4C\/Al복합<b>재료<\/b>적고온압축력학행위 (高颗粒含量B4C\/Al复合材料",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=217939113",
+			"description":"Compressive behavior of high particle content B4C\/Al composite at elevated temperature 利用Gleeble 3500热模拟机对高颗粒含量"
+		},
+		{
+			"title":"첨가 Mg 대 Al-Al2O3납미복합<b>재료<\/b>역학성능화예전성능적영향 (添加 Mg 对 Al-A",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=486627858",
+			"description":"Effect of Mg addition on mechanical and thermoelectrical properties of Al–Al2O3 nanocomposite 采用机械合金化制备不同 Mg "
+		},
+		{
+			"title":"부동방법합성적불석미서지골가결구<b>재료<\/b>(ZIF-8)적표정화최화성능 (不同方",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=695599010",
+			"description":""
+		},
+		{
+			"title":"공극률대탄<b>재료<\/b>전조률적영향 (孔隙率对炭材料电阻率的影响)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=113353916",
+			"description":"Effect of porosity on the electrical resistivity of carbon materials 依据经典流体力学理论,建立了真实密度和孔隙率"
+		},
+		{
+			"title":"용우CRH3적SiC\/6061여합금공연속복합<b>재료<\/b>제동반재긴급제동변정중고여기류",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220854060",
+			"description":"Thermal analysis for brake disks of SiC\/6061 Al alloy co-continuous composite for CRH3 during emergency braking considering airflow coo"
+		},
+		{
+			"title":"기우TOPSIS화개진NSGA-Ⅱ법적교반마찰공예제비B4C\/A356복합<b>재료<\/b>현미조직화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=493169422",
+			"description":"Hybrid multi-objective optimization of microstructural and mechanical properties of B 4 C\/A356 composites fabricated by FSP using TOPSI"
+		},
+		{
+			"title":"목분함량대목분-전분\/취유산복합<b>재료<\/b>성능적영향 (木粉含量对木粉-淀粉\/",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=725976425",
+			"description":""
+		},
+		{
+			"title":"보강된 적층 복합<b>재료<\/b> 주름판의 진동해석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651627155",
+			"description":"Vibration Analysis of Stiffened Corrugated Composite Plates 본 연구에서는 Rayleigh-Ritz 법을 이용하여 열린 단면보로 "
+		},
+		{
+			"title":"<b>재료<\/b>시험 : journal of the Japan Society for Testing Materials (材料試験 : journal of the",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3161827",
+			"description":""
+		},
+		{
+			"title":"탄질<b>재료<\/b>대린산철이정극<b>재료<\/b>물리화예화학성능적영향 (碳质材料对磷酸",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=87826287",
+			"description":"Effects of carbonaceous materials on the physical and electrochemical performance of a LiFePO 4 cathode for lithium-ion batteries 通"
+		},
+		{
+			"title":"이이자전지정극<b>재료<\/b>LiNi0.5Co0.2Mn0.3O2적제비급예화학성능 (锂离子电池正极",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=739003577",
+			"description":""
+		}
+	]
+}

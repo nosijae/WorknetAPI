@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:59 +0900",
+	"total":7503,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2275496&cid=42192&categoryId=51147",
+			"description":"[유머와 <b>오락<\/b> 프로그램] 2000년 이후 캐릭터 중심의 스케치 코미디(sketch comedy) 프로그램이 유행하고 있는 영국은 해외 시장에서도 관심이 높다. 대표 프로그램으로 BBC의 &#60;리틀 브리튼(Little... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=498219&cid=60408&categoryId=55558",
+			"description":"작업요법의 하나로서도 행하여진다. 환자가 한정된 범위에서도 일상생활 또는 일이 가능하면, 나아가서 더 하나의 중요한 요구로서 <b>오락<\/b>이 있다. 그 방법은 환자의 요구에 의해서 조절되어야 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2395310&cid=50762&categoryId=51387",
+			"description":"술취함(암 6:1-6), 잡담(행 17:21) 등의 의미로 많이 사용된다. 따라서 <b>오락<\/b>이 널리 유행하는 때는, 말세(딤후 3:1, 4) 곧 그리스도 재림의 때(마 24:38-39)요 멸망의 때(계 18:21-24)라고 경고하고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2376159&cid=50762&categoryId=51365",
+			"description":"환락(전2:1-8), 술취함(암6:1-6), 잡담(행17:21) 등의 의미로 많이 사용된다. 따라서 <b>오락<\/b>이 널리 유행하는 때는, 말세(딤후3:1,4) 곧 그리스도 재림의 때(마24:38-39)요 멸망의 때(계18:21-24)라 경고한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1648401&cid=50354&categoryId=50354",
+			"description":"쉬는 시간에 긴장을 풀고 즐기며 노는 일.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2022088&cid=50826&categoryId=50826",
+			"description":"5가지의 즐거움. 1) 출가락(出家樂), 2) 원리락(遠離樂: 욕계의 번뇌를 떠나는 선정의 기쁨), 3) 적정락(寂靜樂), 4) 보리락(菩提樂), 5) 열반락(涅槃樂).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%A4%EB%9D%BD",
+			"description":"<b>오락<\/b> (娛樂) 또는 엔터테인먼트 ( Entertainment )는 수많은 사람들을 즐겁게 하는 것을 바탕으로 하는 문화 활동의 하나이며, 여흥 (餘興), 모임 도 이를 가리킨다. 정의 넓게 보면 인공적이면서 합법적이고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"레크리에이션",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1087938&cid=40942&categoryId=31936",
+			"description":" 일로 피로해진 심신을 정상적인 상태로 회복하기 위하여 자유시간을 활용하여 즐기는 여러 활동.  레크리에이션은 '회복하다', '새롭게하다'라는 의미의 라틴어 '레크레아사오'에서 유래되었다. 일반적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_34\/20180930194304185_Z7HM2EGMZ.jpg\/26258.jpg?type=m160_160"
+		},
+		{
+			"title":"레크리에이션",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=447572&cid=42876&categoryId=42876",
+			"description":"&#60;개념&#62; 일반적으로는 여가나 자유시간에 개인적으로 혹은 집단적으로 하는 활동으로서, 어떤 보수나 생존의 필요성에 의해서가 아니라 그 자체에서 직접적인 의미를 발견할 수 있는 자유롭고도 즐거운... ",
+			"thumbnail":""
+		},
+		{
+			"title":"레크리에이션",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=510538&cid=42126&categoryId=42126",
+			"description":"예를 들면 <b>오락<\/b>을 위한 연극·영화·음악·독서·스포츠 등은 모두 레크리에이션이다. 그리고 레크리에이션이라 하는 경우에는 여가를 보람있게 사용해서 건강을 증진하고 교양을 높이며 인생을 풍부하게 하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"엔터테인먼트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1650389&cid=50342&categoryId=50342",
+			"description":"쉬고 즐길 수 있는 <b>오락<\/b>적 여흥거리. 일반적으로는 영화, 무용, 공연예술, 만화, 애니메이션, 여행, 취미생활 등.",
+			"thumbnail":""
+		},
+		{
+			"title":"유락",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1648445&cid=50293&categoryId=50293",
+			"description":"즐겁게 놀며 장난함.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>요법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225838&cid=40942&categoryId=32763",
+			"description":" <b>오락<\/b>성을 띤 동작이나 행위를 통하여 치료효과를 얻는 대체의학.  <b>오락<\/b>과 여가를 통해 질병을 치료하거나 예방하는 치료법이다. 재활의학 분야에서도 자주 응용되는 대체의학으로, 미술이나 서예·도예·음악... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6065419&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] <b>오락<\/b>을 할 수 있도록 다양한 설비를 갖춘 곳.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>문학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=390290&cid=42612&categoryId=42612",
+			"description":"<b>오락<\/b>문학은 독자가 가볍게 읽어 내려갈 수 있도록, 제기된 문제에 대해 근본적인 분석을 시도하지 않는다. 통속문학과 고상한 문학 사이에 놓일 수 있는 <b>오락<\/b>문학의 대표적인 예로는 베스트셀러가 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정보<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3586551&cid=59277&categoryId=59278",
+			"description":"인포테인먼트는 정보(information)와 <b>오락<\/b>(entertainment)을 합성해 만든 신조어로서 정보<b>오락<\/b>이란 의미다. 정보 혁명의 성과물을 실생활에 이용하면 인류의 삶을 재미있고 즐겁고 안락하고 풍요롭게 만들 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4874_000_1\/20170502190745789_8OW400UV0.jpg\/ka39_105_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기내<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1645232&cid=50323&categoryId=50323",
+			"description":"기내의 <b>오락<\/b>장치로서 디스플레이를 통해 영화, 음악 등을 제공하는 장치.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6065418&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] <b>오락<\/b> 용도가 주된 시설을 말함. 게임방, 극장, 놀이터, 영화관, 유원지 등이 있음.",
+			"thumbnail":""
+		},
+		{
+			"title":"가족<b>오락<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6072300&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 가족의 <b>오락<\/b> 행위를 위해 주택에 설치하며, 서양에서는 지하층 전체를 이용하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"고급<b>오락<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=46268&cid=50347&categoryId=50347",
+			"description":"지방세법상의 개념으로서 도박장, 유흥주점영업장, 특수목욕장 등의 건축물과 그 부속토지를 말하며, 고급<b>오락<\/b>장용 부동산은 사치성재산으로 분류되어 취득세 및 재산세가 중과세된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"중국의 <b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1525178&cid=42989&categoryId=42989",
+			"description":"(1) 고대의 <b>오락<\/b>문화 중국의 <b>오락<\/b>문화는 고대에서부터 매우 활성화되어 있던 것으로 알려져 있다. 유가 경전인 『논어(論語)』에서는 &quot;배불리 먹고 할 일 없이 종일을 보내는 것보다 장기와 바둑 같은 놀이를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1341_000_1\/20120717192929455_2SCB830HQ.jpg\/ea3_0073_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"전자 <b>오락<\/b>실",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EC%9E%90_%EC%98%A4%EB%9D%BD%EC%8B%A4",
+			"description":"전자 <b>오락<\/b>실 (電子娛樂室, 영어: amusement arcade, video arcade 또는 arcade, 이전 명칭 penny arcades )은 전자<b>오락<\/b>기를 설치하여 고객에게 게임을 할 수 있게 한 시설이다. 간단히 <b>오락<\/b>실 이라 부르는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"찰리의 <b>오락<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B0%B0%EB%A6%AC%EC%9D%98_%EC%98%A4%EB%9D%BD",
+			"description":"찰리의 <b>오락<\/b> (Tango Tangles)은 미국에서 제작된 마크 센넷 감독의 1914년 영화이다. 찰리 채플린 등이 주연으로 출연하였고 맥 세네트 등이 제작에 참여하였다. 영화 출연 주연 찰리 채플린 조연... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>장서비스원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026185&cid=42117&categoryId=42117",
+			"description":"<b>오락<\/b>이나 게임의 방법, 규칙 등에 대하여 개략적인 설명을 한다. <b>오락<\/b>설비, 운동장비, 비품 등을 관리하고 간단한 수리를 한다. 고객의 이용접수를 받고 인원을 확인하며 이용장소를 배정한다. 점수기록... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>적 휴양법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=452455&cid=42876&categoryId=42876",
+			"description":"휴양법의 하나로 주로 기분 전환•작업 전환에 의하여 피로 회복을 꾀하는 것이며, 그 수단이 <b>오락<\/b>적이고 위안적 성질을 띠는 것을 말한다. 독서•라디오•TV•연극•영화•담소, 레크리에이션의 성격을 지닌... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기호ㆍ<b>오락<\/b>용품",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2014965&cid=50826&categoryId=50826",
+			"description":"조선시대 선비들은 학문의 연마 외에 취미, <b>오락<\/b> 등을 즐겼기에 사랑채에는 이를 위한 용구들도 갖추었다. 이들을 통틀어 기호ㆍ<b>오락<\/b>용품이라 부르고, 주로 담배합,재떨이,투호, 바둑, 장기, 쌍륙 등이 이에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"엠페러<b>오락<\/b>호텔",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1821249&cid=46629&categoryId=46629",
+			"description":"[개설] 엠페러<b>오락<\/b>호텔은 비파해수욕장 뒷산 기슭에 위치해 있는 특급 호텔이다. 이 호텔은 비파도 일대의 관광자원을 높게 평가한 홍콩의 엠페러 그룹이 1억 8,000만 달러를 투자하여 1998년에 지은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_2\/20190719225818841_4FOUGDSQ8.jpg\/f37f15d5-a342-4b.jpg?type=m160_160"
+		},
+		{
+			"title":"엠페러<b>오락<\/b>호텔",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%97%A0%ED%8E%98%EB%9F%AC%EC%98%A4%EB%9D%BD%ED%98%B8%ED%85%94",
+			"description":"엠페러<b>오락<\/b>호텔 (Emperor Hotel &#38; Casino)은 라선특별시에 위치한 호텔이다. 라선시에서 20km 떨어져 있다. 이 호텔은 1998년에 홍콩의 엠페러 그룹이 세웠다. 홍콩자본으로 지어진 북한의 호텔이다. 이곳은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조선의 향토<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3561989&cid=58721&categoryId=58725",
+			"description":"[정의] 조선총독부가 조선의 사회생활과 민간신앙 등을 조사하여 간행한 총 47집 시리즈의 한 권으로 전국의 민속놀이를 수집·정리한 자료집. [내용] 이 책은 1924년부터 1941년 사이에 간행된 조선총독부 조사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조선의 향토<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2024970&cid=50826&categoryId=50826",
+			"description":"이러한 목적 하에 조선총독부 촉탁으로 조선의 민간신앙 연구에 종사한 무라야마 지준[村山智順]에 의해 정리된 조선의 향토 <b>오락<\/b> 조사 자료.(朝鮮總督府 調査資料), 村山智順撰, 朝鮮總督府,昭和16年(1941)",
+			"thumbnail":""
+		},
+		{
+			"title":"조선의 향토<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2024971&cid=50826&categoryId=50826",
+			"description":"이러한 목적 하에 조선총독부 촉탁으로 조선의 민간신앙 연구에 종사한 무라야마지준[村山智順]에 의해 정리된 조선의 향토 <b>오락<\/b> 조사 자료.(朝鮮總督府 調査資料), 村山智順撰, 朝鮮總督府, 昭和16年(1941)",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>실 (음악 그룹)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%A4%EB%9D%BD%EC%8B%A4_(%EC%9D%8C%EC%95%85_%EA%B7%B8%EB%A3%B9)",
+			"description":"<b>오락<\/b>실 (5Rock室)은 1998년 황혜영이 리더로서 주도한 대한민국의 프로젝트 록 음악 보컬 듀오이다. 활동 1998년 8월에 1집 음반을 발표하여 프로젝트 활동 후 이듬해 1999년 2월 해체하였다. 활동... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>실을 파괴할 권리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1309624&cid=40942&categoryId=33093",
+			"description":" <b>오락<\/b>에 중독된 주인공에게 벌어지는 사건을 그린 2005년 제작된 전재훈 감독의 단편드라마 영화.  2005년 제작되었다. 각본과 감독은 전재훈이 맡았다. 이동재, 조한나 등이 출연하였다. 상영시간은 25분이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자 <b>오락<\/b>실의 변화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2167017&cid=50857&categoryId=50857",
+			"description":"어두운 조명과 탁한 공기 등 열악한 조건을 갖추었던 전자 <b>오락<\/b>실의 환경은 1980년대 초반 이후 급격하게 개선되며 발전해갔다. 이러한 변화는 &#60;제비우스&#62; 같은 다채로운 색상의 화려한 게임과 &#60;팩맨&#62;같이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자 <b>오락<\/b>의 마법사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EC%9E%90_%EC%98%A4%EB%9D%BD%EC%9D%98_%EB%A7%88%EB%B2%95%EC%82%AC",
+			"description":"《 전자 <b>오락<\/b>의 마법사 》( 영어: The Wizard )는 1989년에 나온 영화로 조이스틱 히어로즈 라고도 알려져 있다. 프레드 새비지, 루크 에드워즈, 제니 루이스 등이 주연이고 자폐증에 걸린 한 남자아이가 두 친구와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>용승차기구조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026184&cid=42117&categoryId=42117",
+			"description":" 유원지, <b>오락<\/b>장 또는 기타 여흥장소에 설치된 <b>오락<\/b>용 승차기구를 조작하거나 고객에게 운전방법을 알려준다. [수행직무] 벨트나 빗장 등의 안전장치에 대하여 설명·착용을 의무화한다. 각종 <b>오락<\/b>기구의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국민의 <b>오락<\/b> 드라마",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3378531&cid=42219&categoryId=58232",
+			"description":"드라마는 한국인들이 가장 좋아하는 <b>오락<\/b>물이다. 방송사들은 시청률이 높게 나오는 드라마를 시사 프로그램이나 교양 프로그램보다 많이 편성한다. 방송사들이 경쟁적으로 드라마를 편성하면서 드라마의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b> 기반 저항 이론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2275358&cid=42251&categoryId=51163",
+			"description":"특히, <b>오락<\/b> 기반 저항 이론은 설득에 대한 저항을 무력화하는 도구로서 이야기의 힘에 대해 자세하게 설명하고 있다. [내러티브 효과] 커뮤니케이션 이론을 살피다 보면 에듀테인먼트(edutainment)라는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>용승차기구보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026183&cid=42117&categoryId=42117",
+			"description":" <b>오락<\/b>용승차기구조작원의 보조 업무를 수행한다. [수행직무] 놀이기구 주변을 청소한다. 손님 입장 시 검표 업무를 본다. 놀이기구 운행 전에 안전장치에 대한 착용을 안내하고 확인한다. 놀이기구가 작동을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국의 전자 <b>오락<\/b>실 현황",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2167021&cid=50857&categoryId=50857",
+			"description":"초창기부터 부정적인 인식 속에 운영되었던 한국의 전자 <b>오락<\/b>실은 자발적인 개선 노력과 액션 · 슈팅 · 대전 격투 · 체감형 · 리듬 · 댄싱 게임 등 다양한 장르의 도입을 통해 대중적인 공간으로 이미지를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제1단계: 전자 <b>오락<\/b>실 시대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2167081&cid=50857&categoryId=50857",
+			"description":"제1단계에서는 아케이드 게임이 주를 이루었던 시기이니만큼 게임보다는 장소에 더 많은 비중을 두고 입법이 추진되었으며 입법의 목적은 주로 영업장소의 관리였다. ‘유기장 영업은 허가제로 운영된다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>실 문화의 보급과 제약",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2166936&cid=50857&categoryId=50857",
+			"description":"전자 <b>오락<\/b>실은 1970년대 말에 전자상가를 중심으로 일본 개발사의 게임을 대량으로 복제하여 공급하면서 급격하게 증가했고, 그중 대부분이 무허가로 영업하였다. 당시 전자 게임의 수입과정에서 일본 폭력... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>과 무덤 배 오세베르그",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4296292&cid=62109&categoryId=62109",
+			"description":"815~820년 조립하였으며, 834년 사망한 바이킹 왕비를 위한 매장용 배로 바뀔 때까지 해안을 따라 항해한 왕궁 <b>오락<\/b>용 배였다. 바이킹이 자주 보트나 배에 그들의 죽은 자를 매장함을 언급하였는데 이것은 특히... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5052_000_1\/20171023184129604_K2XF8RQ06.jpg\/hc1_39_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"전자 <b>오락<\/b>실의 태동과 변천",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2167012&cid=50857&categoryId=50857",
+			"description":"한국 게임 문화에서 ‘전자 <b>오락<\/b>실’이라 불리는 아케이드 게임장은 매우 중요한 의미를 갖는다. 아케이드 게임이 다른 장르의 게임과 가장 뚜렷하게 구별되는 점은 게임을 하기 위해 기계에 동전을 넣는다는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3325_000_1\/20140711112129224_UOS2EHOPV.jpg\/bk03_96_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>오락<\/b> 소프트웨어 등급 위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%A4%EB%9D%BD_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EB%93%B1%EA%B8%89_%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"<b>오락<\/b> 소프트웨어 등급 위원회 ( Entertainment Software Rating Board, ESRB )는 미국과 캐나다에서 사용되는 게임물 등급 심의 체계이다. 1994년에 IDSA(현재 Entertainment Software Association)와 함께... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b> 소프트웨어 등급 위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=859875&cid=42346&categoryId=42346",
+			"description":"비디오, 게임, 인터넷 등 <b>오락<\/b> 소프트웨어 제품에 대한 등급 문제를 다루는 위원회. 대화형 디지털 소프트웨어 협회(IDSA: Interactive Digital Software Association)의 하부 조직으로, 연령에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>기관으로는 식도원과 명월관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1797697&cid=49282&categoryId=49282",
+			"description":"일련번호 cp0805a00242 종(잡지\/신문) 신문 자료명 조선일보 연도 \/ 월(호) 1931년 09월 28일 페이지 제목(타이틀) <b>오락<\/b>기관으로는 식도원과 명월관 내용 요약 명월관과 식도원의 <b>오락<\/b>기관으로써 의미... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b> 취미 본위 대중지 모던조선",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2211877&cid=42192&categoryId=51076",
+			"description":"《모던조선(―― 朝鮮)》은 1936년 9월 1일자로 창간된 <b>오락<\/b> 취미 중심의 대중지인데, 속간 여부는 미상이다. 판권장을 보면, 편집 겸 발행인 강훈(姜勳), 인쇄인 고응민(高應敏), 인쇄소 (주)창문(彰文)사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3028_000_1\/20140918153619439_EOKHTHYNO.jpg\/eb72_363_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"20세기 박람회의 예술 및 유흥<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2851735&cid=56776&categoryId=56776",
+			"description":"미드웨이는 박람회장에서 장기지속적으로 재현되었다. 형식과 내용이 각양각색인 흥미로운 것들을 테마공원 식으로 조합한 것이었다. 어떤 것은 1893년 사례를 바탕으로 하면서, 어떤 것은 당대의 놀이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4044_000_1\/20150911181241592_7Y4R07KRZ.jpg\/ea36_105_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"19세기 후반 상업적 대중<b>오락<\/b>의 등장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3546244&cid=42171&categoryId=58560",
+			"description":"산업혁명 이후 가속화된 도시-산업화 변동으로 도시 노동자 인구가 증가하고 노동조건이 개선되면서 이전까지 뚜렷했던 <b>오락<\/b> 영역 내 계급적 경계가 와해된다.이를 바탕으로 거대한 대중 소비자군이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대중<b>오락<\/b>으로서 게임의 역사와 의의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3546252&cid=42171&categoryId=58560",
+			"description":"19세기 후반의 상업적 대중<b>오락<\/b> 형식으로 거슬러 올라가는 게임의 오랜 과거는 그 놀이 속성이 당대의 다양한 맥락과 긴밀하게 관계 맺으면서 형성되어 왔음을 보여 준다.동시에 변화무쌍했던 변천 과정은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>요법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=498220&cid=60408&categoryId=55558",
+			"description":"정신과에서 재활의 일환으로서 정신활동의 향상과 행동면의 개선을 목적으로 행하는 것이다. 정신병원에서는 병원단위의 활동(운동회, 크리스마스, 신년회, 불꽃놀이 등), 병동단위의 것(체조, 각종... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사당<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=674149&cid=50293&categoryId=50293",
+			"description":"[한자 뜻과 음] 넉 사, 해당할 당, 다섯 오, 떨어질 락. [풀이] 네 시간을 자면서 공부하면 당선이나 합격이고, 다섯 시간을 자면서 하면 낙선이나 불합격이라는 말.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>진망중",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=678614&cid=50293&categoryId=50293",
+			"description":"[한자 뜻과 음] 그릇될 오, 떨어질 락, 티끌 진, 그물 망, 가운데 중. [풀이] 잘못하여 세속의 번거로운 근심과 걱정 속에 떨어졌다. 전원을 버리고 벼슬길에 올랐음을 이름. 출전 陶潛(도잠)의 말.",
+			"thumbnail":""
+		},
+		{
+			"title":"백두산지구의 체육문화<b>오락<\/b> 및 편의시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2088115&cid=44454&categoryId=44471",
+			"description":"백두산지구는 관광지로 꾸려져 관광량이 늘어남에 따라 그에 맞게 체육문화<b>오락<\/b> 및 편의시설이 잘 꾸려지고 있다. 백두산지구의 리명수, 삼지연, 신무성, 무두봉, 백두산밀영, 무봉, 신사동, 농사동, 대홍단... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>서비스업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=258308&cid=50305&categoryId=50305",
+			"description":"연극·영화나 연예 등을 공중에게 관람시키거나 유기장(遊技場) 또는 유람소(遊覽所) 등을 설치해 공중에게 이용시키는 것을 업으로 하는 것을 말한다. 흥행업자가 극장 또는 흥행장을 일시적으로 대여하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"컴퓨터 <b>오락<\/b>을 너무 오래 하면 왜 해로울까요",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2038986&cid=47309&categoryId=47309",
+			"description":"컴퓨터 <b>오락<\/b>을 너무 오래 하면 전자파 때문에 위험하다는데, 전자파는 왜 위험한가요? 전자파는 전기가 흐르는 곳이면 어디에서나 발생합니다. 눈에 보이지는 않지만, 우리는 많은 전자파에 둘러싸여 있죠.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2831_000_1\/20131218111153984_TJV1WR27S.jpg\/s_gn3_77_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"비디오 <b>오락<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1839617&cid=49110&categoryId=49110",
+			"description":"사람이 컨트롤러로 화면에 나타나는 게임의 작동을 조정할 수 있게 만든 장치 세트(게임 콘솔과 모니터). [꺼냄 단추(eject button)] 게임하는 사람이 게임 콘솔에서 디스크를 꺼낼 수 있도록 한 단추.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1592_000_4\/20130506224338215_C9HSR10NJ.jpg\/z1_2507_i1_org.jpg?type=m160_160"
+		},
+		{
+			"title":"스페인의 <b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1328710&cid=40942&categoryId=33054",
+			"description":" 에스파냐의 화가 프란시스코 고야(Francisco Jose de Goya Y Lucientes)의 작품. ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_315\/20190118024732550_7H6Q4HH7K.jpg\/1651608.jpg?type=m160_160"
+		},
+		{
+			"title":"중국 소수민족 사교<b>오락<\/b>성 관련 명절 및 절기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2324398&cid=62055&categoryId=62055",
+			"description":"사교<b>오락<\/b>성 절기는 주로 남녀가 사교를 하거나 함께 모여 가무를 즐기는 내용이 주가 된다. 예를 들어, 묘족의 화산절(花山節: 지역에 따라 坐花場, 踩花山, 跳花山 및 串年坡 등으로 부르기도 함)은 가장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>문화비 상위 5개 분야의 지출액 변화 추이",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2806921&cid=55608&categoryId=55611",
+			"description":"<b>오락<\/b>문화비 상위 5개 분야의 지출액 변화 추이 출처 : KPIPA 출판산업 동향",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2430_000_1\/20150514123031886_3X5OXI6BB.jpg\/l25_86_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"얼음 위의 <b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1547792&cid=46702&categoryId=46753",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_91\/20141110085214105_ZH99K84XB.jpg\/2011021817041671.jpg?type=m160_160"
+		},
+		{
+			"title":"박람회 예술 및 유흥<b>오락<\/b>의 전환점인 미드웨이",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2851734&cid=56776&categoryId=56776",
+			"description":"미국에서는 유럽 박람회와 전혀 다른 차원의 구경거리가 준비되고 있었다. 적극적인 계기는 이미 19세기 후반인 1893년 시카고만국박람회에서 잉태되고 구축되기 시작하였다. 이전 박람회가 주로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4044_000_1\/20150911181013707_O9CA93BI1.jpg\/ea36_104_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"추억의 <b>오락<\/b>실 게임기 만들기!(arcade machine making)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5926924&cid=51701&categoryId=62927",
+			"description":"[추억의 <b>오락<\/b>실 게임기 만들기!(arcade machine making)] 추억의 <b>오락<\/b>실 게임기를 CNC 가공을 활용해 직접 만들어 봤습니다.(동영상 출처 : 손잡이닷컴의 DIYcast)",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20200305_213\/BRSi3_1583373252321neiKK_JPEG\/1583373048472.jpg#1492x840#m"
+		},
+		{
+			"title":"엠페러<b>오락<\/b>호텔",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2863729&cid=57924&categoryId=57995",
+			"description":"함경북도 나선시 신해동에 있는 호텔. 비파해수욕장 뒷산 기슭에 위치해 있는 특급호텔이다. 영황호텔이라고도 한다. 풍치 수려한 바다풍경에 면하고 있으며, 특히 해수욕장까지 끼고 있어 더욱 각광을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4090_000_1\/20150904215658971_BVY9O5AU3.jpg\/A32025002180139.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>오락<\/b>장비대여원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026045&cid=42117&categoryId=42117",
+			"description":" 유원지, 공원, 해수욕장, 수영장, 스케이트장, 볼링장, 스키장 등에서 고객에게 놀이용 장비와 비품을 대여한다. [수행직무] 고객이 선택하거나 고객의 신장, 몸무게에 적합한 장비와 비품을 제공한다. 고객에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"메디<b>오락<\/b>토키디",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3565931&cid=58440&categoryId=58442",
+			"description":"[성상] 이미, 이취가 없고 고유의 향미가 있는 흰 노란색의 분말 [섭취방법] 2g 스틱 1포를 1일 1회, 1포를 씹어서 섭취하거나 녹여서 섭취하세요. [주된 기능성] ①유산균 증식 및 유해균 억제에 도움을 줄 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>기 납치사건",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1305903&cid=40942&categoryId=33093",
+			"description":" 2000년에 제작된 이현철 감독의 한국영화. ",
+			"thumbnail":""
+		},
+		{
+			"title":"가구당 월평균 <b>오락<\/b>문화비와 서적구입비 변화 추이",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2806920&cid=55608&categoryId=55611",
+			"description":"가구당 월평균 <b>오락<\/b>문화비와 서적구입비 변화 추이 출처 : KPIPA 출판산업 동향",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2430_000_1\/20150514123031059_O3F6D2P77.jpg\/l25_85_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가구당 월 평균 <b>오락<\/b>문화비와 서적구입비 변화 추이",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3338758&cid=55608&categoryId=58131",
+			"description":"가구당 월 평균 <b>오락<\/b>문화비와 서적구입비 변화 추이 출처 : KPIPA 출판산업 동향 ※ 전국 가구(2인 이상) 기준",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2430_000_1\/20151204163332388_WD17SNREU.jpg\/l27_86_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"전자<b>오락<\/b>의 마법사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1328469&cid=40942&categoryId=33098",
+			"description":" 1990년에 제작된 토드 홀란드(Todd Holland) 감독의 미국 영화. ",
+			"thumbnail":""
+		},
+		{
+			"title":"풍성한 판토비<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6606411&cid=58440&categoryId=58442",
+			"description":"[성상] 고유의 향미를 지니고 이미, 이취가 없는 백색의 장방형 제피정제. [섭취방법] 1일 3회, 1회 1정씩 물과 함께 섭취 [주된 기능성] (1) 탄수화물과 에너지 대사에 필요 (1) 지방, 탄수화물, 단백질 대사와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"7종바이<b>오락<\/b>유산균",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5699703&cid=58440&categoryId=58442",
+			"description":"[성상] 이미, 이취가 없고 고유의 향미가 있는 흐린 노란색의 분말 [섭취방법] 건강기능식품 제조시 일일 섭취량에 적합한 양을 사용. [주된 기능성] ①유산균 증식 및 유해균 억제에 도움을 줄 수 있음... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>오락<\/b>에 이용된 수레",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2058818&cid=43117&categoryId=43117",
+			"description":"마야 문명권에서는 수레바퀴를 알았지만, 단지 어린이용 장난감으로만 이용했다. 굴러가는 것 자체가 재미있어 보였던 모양이다. 인더스 문명권에서도 점토를 구워 만든 장난감 수레가 나왔다. 두 개의 바퀴를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2895_000_1\/20140127122204501_7KYZD5M47.jpg\/hf31_36_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가구당 월 평균 <b>오락<\/b>문화비 상위 5개 분야의 지출액 변화 추이",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3338759&cid=55608&categoryId=58131",
+			"description":"가구당 월 평균 <b>오락<\/b>문화비 상위 5개 분야의 지출액 변화 추이 출처 : KPIPA 출판산업 동향 ※ 문화서비스 : 공연, 극장, 공원 및 관람시설 이용, 문화강습, 콘텐츠, 방송수신료, 독서실 이용, 기타 문화서비스... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2430_000_1\/20151204163333028_8EULGHW2U.jpg\/l27_87_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"프로바이<b>오락<\/b> 베이비 튼튼",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3565477&cid=58440&categoryId=58442",
+			"description":"[성상] 미색 분말 [섭취방법] 1일 2회, 1회 1포를 직접 또는 물이나 분유에 타서 섭취 하십시오. [주된 기능성] ①정상적인 면역기능에 필요②정상적인 세포분열에 필요 ①유산균 증식 및 유해균 억제에 도움을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내부 정경 : 왕비의 <b>오락<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1463435&cid=46715&categoryId=46715",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_18\/20140923140554368_REX7BRHQD.jpg\/87-002042.jpg?type=m160_160"
+		},
+		{
+			"title":"프로바이<b>오락<\/b> 베이비 뼈건강",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3565384&cid=58440&categoryId=58442",
+			"description":"[성상] 미색 분말 [섭취방법] 1일 2회, 1회 1포를 직접 또는 물이나 분유에 타서 섭취 하십시오. [주된 기능성] ①칼슘과 인이 흡수되고 이용되는데 필요②뼈의 형성과 유지에 필요③골다공증발생 위험... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이탈리아 희극배우들의 <b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1546344&cid=46720&categoryId=46817",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_91\/20141110050501816_L7KDLZO4S.jpg\/2011012514354536.jpg?type=m160_160"
+		},
+		{
+			"title":"병풍, 왕비 <b>오락<\/b>실, 로마왕 처소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1499975&cid=46704&categoryId=46704",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_96\/20141114015249069_QAEZGKVXE.jpg\/2011031617155283.jpg?type=m160_160"
+		},
+		{
+			"title":"마리 앙투아네트의 <b>오락<\/b>실 : 의자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1491323&cid=46704&categoryId=46747",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_94\/20141113170817724_CMV530QS9.jpg\/2011022313282704.jpg?type=m160_160"
+		},
+		{
+			"title":"중국 굿 나희(儺戱)의 <b>오락<\/b>적 연희",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2434688&cid=46696&categoryId=46696",
+			"description":"나희에는 중국 신화 중 홍수가 나서 나모, 나공 남매만 남아 부부가 되어 인류의 시조가 된 이야기도 펼쳐진다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_3\/20150225071640143_8MOV3G501.jpg\/031A3-31996JPGE.jpg?type=m160_160"
+		},
+		{
+			"title":"21세기 박람회의 예술 및 유흥<b>오락<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2851736&cid=56776&categoryId=56776",
+			"description":"1970년 오사카박람회 이래로 아시아권의 박람회는 필름과 오디오비주얼을 강조하는 경향을 보여주고 있다. 전자와 커뮤니케이션의 발달로 유비쿼터스 박람회가 강조되면서 2012년 여수세계박람회도... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4044_000_1\/20150911181325343_ZXB4LSMMC.jpg\/ea36_106_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>오락<\/b> 당트롤 난소화성말토덱스트린",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3420165&cid=58440&categoryId=58442",
+			"description":"[성상] 미황색의 분말 [섭취방법] 1일 2회, 1회 2포를 식사시 물과 함께 섭취 [주된 기능성] 1. 식후혈당상승 억제 2. 배변활동 원활 [섭취 시 주의사항] ① 어린이의 경우 섭취 시 목에 걸릴 우려가 있으니... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마리-앙투아네트의 <b>오락<\/b>실 : 벽난로",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1463294&cid=46715&categoryId=46715",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_18\/20140923135947107_443JOMLYM.jpg\/06-507236.jpg?type=m160_160"
+		},
+		{
+			"title":"밀레니엄 시리즈(6): <b>오락<\/b>과 공연 우표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4376390&cid=59943&categoryId=59945",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5193_000_2\/20180105191955927_JBZYMDYC1.jpg\/l45_38_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"마리-앙투아네트의 <b>오락<\/b>실 : 문의 상부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1463290&cid=46715&categoryId=46715",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_18\/20140923135941805_4WV3FMQV7.jpg\/06-507232.jpg?type=m160_160"
+		},
+		{
+			"title":"[평가문제] 생활습관과 건강, 운동, 취미, <b>오락<\/b>, 여행 등 여가선용, 동식물, 계절, 날씨등 자연현상 (2)",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/subjectView.do?menu_id=3&contents_id=642f66a8-a705-4398-8b9b-63804ef826b8&sub_clss_id=CLSS0000082172&svc_clss_id=CLSS0000059598,CLSS0000059599&contents_openapi=naverdic",
+			"description":"중학교 2학년 &#60;생활습관과 건강, 운동, 취미, <b>오락<\/b>, 여행 등 여가선용, 동식물, 계절, 날씨등 자연현상 (2)&#62;의 평가문제지 및 해설지로 말하기듣기 10문항, 읽기쓰기 (서술형포함) 20문항, 총 30문항으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"두 쪽으로 된 병풍 : 자연 속 왕족의 <b>오락<\/b>거리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1486254&cid=46702&categoryId=46740",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_89\/20141110011041157_QSTQGSAAD.jpg\/2011012512490272.jpg?type=m160_160"
+		},
+		{
+			"title":"제라르 신부 또는 앙리 4세의 내기의 <b>오락<\/b>거리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1481231&cid=46723&categoryId=46969",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_25\/20140925031936991_AADPFL4KM.jpg\/03-011275.jpg?type=m160_160"
+		},
+		{
+			"title":"마리-앙투아네트의 <b>오락<\/b>실 : 거울 위의 독수리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1463288&cid=46715&categoryId=46715",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_18\/20140923135939919_URY2ZNWI4.jpg\/06-507229.jpg?type=m160_160"
+		},
+		{
+			"title":"우리아이첫유산균 프로바이<b>오락<\/b> 베이비 뼈건강",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5830873&cid=58440&categoryId=58442",
+			"description":"[성상] 고유의 향미가 있고 이미, 이취가 없는 연한 노랑색 분말 [섭취방법] 1일 2회, 1회 1포를 직접 또는 물과 같은 액상에 타서 섭취 [주된 기능성] ①칼슘과 인이 흡수되고 이용되는데 필요②뼈의 형성과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마리-앙투아네트 왕비의 <b>오락<\/b>실 : 조각 장식된 판",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1463279&cid=46715&categoryId=46715",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_18\/20140923135916140_MTPK8WKTG.jpg\/06-507219.jpg?type=m160_160"
+		},
+		{
+			"title":"우리아이첫유산균 프로바이<b>오락<\/b> 베이비 면역건강",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5830876&cid=58440&categoryId=58442",
+			"description":"[성상] 고유의 향미가 있고 이미, 이취가 없는 연한 노랑색 분말 [섭취방법] 1일 2회, 1회 1포를 직접 또는 물과 같은 액상에 타서 섭취 [주된 기능성] 유산균 증식 및 유해균 억제·배변활동 원활·장건강에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마리-앙투아네트의 <b>오락<\/b>실 : 손잡이 부분의 문 세부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1463292&cid=46715&categoryId=46715",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_18\/20140923135943226_318Q629LZ.jpg\/06-507234.jpg?type=m160_160"
+		},
+		{
+			"title":"안락의자, J.B. 스네가 만든 루이 16세의 <b>오락<\/b>실 자리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1497968&cid=46704&categoryId=46747",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_93\/20141112184228638_VAE9IVU11.jpg\/2011022314292114.jpg?type=m160_160"
+		},
+		{
+			"title":"마리-앙투아네트의 <b>오락<\/b>실 : 예술을 대표하는 두 정령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1463287&cid=46715&categoryId=46715",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_18\/20140923135939064_JRG01UST9.jpg\/06-507227.jpg?type=m160_160"
+		},
+		{
+			"title":"마리-앙투아네트 왕비의 <b>오락<\/b>실 : 조각 장식된 판 (리라)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1463291&cid=46715&categoryId=46715",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_18\/20140923135942714_HVG31P8K6.jpg\/06-507233.jpg?type=m160_160"
+		},
+		{
+			"title":"마리-앙투아네트의 <b>오락<\/b>실 : 꽃장식을 들고 있는 어린 천사들",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1463285&cid=46715&categoryId=46715",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_18\/20140923135922845_5ZBREX7YM.jpg\/06-507225.jpg?type=m160_160"
+		},
+		{
+			"title":"생 클루 <b>오락<\/b>실에서 나온, 두 안락의자와 네 의자를 포함한 가구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1496259&cid=46720&categoryId=68788",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_93\/20141112134544652_RX0Q01X89.jpg\/2011022314072919.jpg?type=m160_160"
+		}
+	]
+}

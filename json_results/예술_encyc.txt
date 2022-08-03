@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:33 +0900",
+	"total":116391,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1127642&cid=40942&categoryId=32856",
+			"description":" 미적 작품을 형성시키는 인간의 창조 활동.  원래는 기술과 같은 의미를 지닌 어휘로서, 어떤 물건을 제작하는 기술능력을 가리켰다. <b>예술<\/b>이라는 한자에서 ‘예(藝)’에는 본디 ‘심는다(種·樹)’는 뜻이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5673230&cid=62841&categoryId=62841",
+			"description":" 넓은 의미에서 <b>예술<\/b>이고, 좁은 의미에서는 미술.  ‘art’의 넓은 의미에서의 <b>예술<\/b>에는 동서양을 막론하고 어원적 의미에 ‘기술’이 포함되어 있다. 먼저, 한자어 ‘<b>예술<\/b>(藝術)’에서 ‘藝’는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문화와 <b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=957838&cid=47304&categoryId=47304",
+			"description":" 문화(culture, 文化) : 한 사회의 주요한 행동 양식이나 상징 구조. <b>예술<\/b>(art, 藝術) : 문화의 한 부분으로, <b>예술<\/b> 활동과 그 성과의 총칭.  문화는 단순한 게 아니야. 밥 먹을 때의 예절이나 말버릇... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1779_000_1\/20120319122751801_BVQ17AGOM.jpg\/bh11_6_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=521138&cid=60517&categoryId=60517",
+			"description":"<b>예술<\/b>이란, 어원상 그에 해당하는 그리스어가 모방 기술(mimētikē technē)이며, 라틴어가 기술(ars)이듯이, 본래 기술 · 기능과 동의어(동양의 경우도 마찬가지)로서, 넓게는 인간의 생산 · 제작 내지 연기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2275732&cid=42251&categoryId=51187",
+			"description":"문자가 아닌 형태를 빌려와 메시지를 전달하는 부드러운 표현 방법이 <b>예술<\/b>이다. [미적 기술] 우리가 누군가에게 사랑을 고백할 때 말이나 글로 ‘사랑한다’고 전달하기가 매우 쑥스러워 좀처럼 실행하지... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20141113212334769_HX2Q9EJKO.jpg\/m186_17_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=894804&cid=42642&categoryId=42642",
+			"description":"본래 반드시 <b>예술<\/b>만을 의미하는 것은 아니고, 일반적으로 일정한 생활 목적을 효과적으로 달성하기 위하여 어떠한 재료를 가공하고 형성하여 객관적인 성과나 물건을 산출하는 능력 또는 활용으로서의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2432452&cid=51392&categoryId=51394",
+			"description":"중세의 <b>예술<\/b>개념은 너무나 지성화되어 있어서 사변적인 학문들만이 거기에 답할 수 있을 정도였기에 그런 학문들만이 진정한 <b>예술<\/b>로 여겨질 수 있었다. 그러나 12세기에는 <b>예술<\/b>이 다시 실천적 활동으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=388350&cid=41978&categoryId=41985",
+			"description":"사회적 의식의 표현 중 하나로, 실재하는 것을 <b>예술<\/b>적 형상, 즉 감성적으로 받아들여진 형상으로 반영하여, 세계를 미적 견지에서 인식하고 묘사해 내는 것을 주로 하는 인간의 활동을 말한다. <b>예술<\/b>은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=567930&cid=46668&categoryId=46668",
+			"description":" 1935년에 창간되었던 종합<b>예술<\/b>지. [내용] 박송(朴松)이 편집, 발행하였으며, 1936년 1월 통권 3호로 종간되었다. <b>예술<\/b>사(藝術社) 발행. A5판. 90면 내외. 시·소설·희곡·영화·해외문학·평론 등을 종합적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_16\/20150401232829914_QIQ26JBQI.jpg\/9d9ee70f-9905-44.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1712919&cid=41908&categoryId=41954",
+			"description":"오늘날의 일반적 용법에서 Kunst와 Art란 말은 곧바로 '<b>예술<\/b>'을 가리키지만, 칸트의 경우 Kunst는 Technik과 동의어로서 폭넓게 '기술' 일반을 가리키며, 의미의 한정은 오로지 이 말을 수식하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>의 정의(定義)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=997964&cid=41908&categoryId=41916",
+			"description":"『우상의 황혼』에서 제시된 니체의 <b>예술<\/b> 개념은 <b>예술<\/b>생리학(Physiologie der Kunst)의 일환이다. 이것은 그의 초기 <b>예술<\/b>관인 <b>예술<\/b>가-형이상학(Artisten-Metaphysik)과는 달리, <b>예술<\/b>을 힘에의 의지의 형태학으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=728689&cid=42140&categoryId=42140",
+			"description":"‘<b>예술<\/b>’이란 말은 기예와 학술을 가리키는 것으로서 이미 고대 동양의 『후한서(後漢書)』에 '백가<b>예술<\/b>(百家藝術)’이라는 기록이 나온다. '<b>예술<\/b>’이라는 말이 실제로 현대적인 의미에서의 <b>예술<\/b>, 즉... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6183104&cid=42856&categoryId=42856",
+			"description":"[개요] <b>예술<\/b>은 관광두레 주민사업체인 '컬러팜포레스트웨딩 협동조합' 소속으로 우리 전통주를 몸소 체험할 수 있는 전통 주조 공방이다. ‘예로부터 내려온 술’이라는 뜻으로 품격있는 우리... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2818_000_30\/20201217172741485_RAEZAE13E.bmp\/2698695_image2_1.bmp?type=m160_160"
+		},
+		{
+			"title":"문화와 <b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2169215&cid=50852&categoryId=50852",
+			"description":"미학적인 관점에서 <b>예술<\/b>가 개인의 작품이나 행동을 분석하는 <b>예술<\/b>평론가들과는 달리, 인류학자들은 어떤 사회 또는 민족집단의 전형적인 감정 또는 생활특성을 나타내는 <b>예술<\/b>, 즉 집단적인 차원에서의 <b>예술<\/b>을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=262693&cid=42635&categoryId=42635",
+			"description":"서구에서 <b>예술<\/b>의 관념이 성립된 것은 근대에 들어서이며, 르네상스 무렵부터는 회화, 조각, 시, 음악이 같은 종류의 활동으로 의식되어 비교 ∙ 대조되기 시작했으며, 18세기에 이르러서는 이것을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=942972&cid=47331&categoryId=47331",
+			"description":"오늘날 우리가 일상적으로 쓰는 '<b>예술<\/b>'의 한자에서 예(藝)라는 자에는 본래 '심는다[種(종), 樹(수)]'는 뜻이 있다. 이에 따라 예(藝)는 기능 내지 기술을 의미한다. 고대 그리스어나 라틴어에서는 오늘날과 같은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1127641&cid=40942&categoryId=31773",
+			"description":" 1935년 박송이 편집·발행한 종합 <b>예술<\/b>지.  1935년 1월에 창간되어 1936년 1월 통권 3호로 종간되었다. 국판, 90면 내외이고 가격은 25전이다. 편집 겸 발행인은 박송이었고, 경성<b>예술<\/b>사에서 펴냈다. 일반인의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>의 정의(定義)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=998407&cid=41908&categoryId=41917",
+			"description":"『유고』에서 표명되는 니체의 후기 <b>예술<\/b>관은 그의 관점주의와 해석 이론의 틀 안에서 구성된다. 그는 <b>예술<\/b>을 <b>예술<\/b>가의 활동이나 이것에 의한 <b>예술<\/b> 작품이라는 협의적 제한을 넘어서서, 세계-의미-형식... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1521023&cid=42121&categoryId=42121",
+			"description":"<b>예술<\/b>적 형식은 항상 어느 정도까지는 문화적으로 표준화되어 있지만, 틀 내에서의 개별적 표현의 양은 한 문화적, 혹은 역사적 기간에서 또 다른 기간에 이르기까지, 매우 큰 변화를 허용한다. <b>예술<\/b>은 사회적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1510540&cid=46704&categoryId=46704",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_111\/20141115135458804_3TCDIJEJN.jpg\/2011050312483532.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%88%EC%88%A0",
+			"description":"<b>예술<\/b> (藝術, art )은 학문·종교·도덕 등과 같은 문화의 한 부문으로, <b>예술<\/b> 활동(창작, 감상)과 그 성과(<b>예술<\/b> 작품)의 총칭이다. 문학, 음악, 미술, 영화, 무용 등의 공연<b>예술<\/b>이 포함된다. 그러나 이러한 <b>예술<\/b>작품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2073286&cid=44411&categoryId=44411",
+			"description":"미학의 개념 및 정의] [ 1) 개념 및 정의] 미학(美學, aesthetics), 즉 미나 <b>예술<\/b>에 관한 이론적 반성·사색은 멀리 고대 희랍에 그 기원을 두고 있지만, 하나의 학문으로서 ‘미학’이라는 명칭은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140403183352603_45M8WC5JV.jpg\/z4_term32_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"성령강림",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3572624&cid=58858&categoryId=58858",
+			"description":"오순절이 되었을 때 그들은 모두 한자리에 모여 있었다. 그런데 갑자기 하늘에서 거센 바람이 부는 듯한 소리가 나더니, 그들이 앉아 있는 온 집 안을 가득 채웠다. 그리고 불꽃 모양의 혀들이 나타나... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118154238081_UNPZWOHDV.jpg\/01-1_91.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>체육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2054489&cid=44415&categoryId=44415",
+			"description":"개념 및 정의] <b>예술<\/b>체육(藝術體育, art and physical education)은 미적(美的) 작품을 만들고 표현하는 인간의 창조 활동을 뜻하는 <b>예술<\/b>(藝術, art)과 육체적 운동을 통하여 신체를 단련시키는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140509150007780_M3B5ZGA38.jpg\/z10_term3_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2083792&cid=44415&categoryId=44415",
+			"description":"개념 및 정의] <b>예술<\/b>학(藝術學, science of arts)은 본래 <b>예술<\/b>의 의미에 국한되어 있는 것은 아니고, 일반적으로 일정한 생활 목적을 효율적으로 달성하기 위하여 어떠한 재료를 가공하여 만들어 객관적인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140509150030179_3XE9X93FF.jpg\/z10_term51_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"라누와 저택 풍요의 방 장식 : <b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=973621&cid=46720&categoryId=68783",
+			"description":"저택 1층에 위치한 응접실에는 수많은 거울과 여러 패널 그림, 반부조가 어우러져 상업을 통해 얻은 부유함으로 <b>예술<\/b>의 후원자가 된 저택 주인에게 적합한 주제를 표현했다. 프뤼동은 &#60;부귀&#62;와 &#60;<b>예술<\/b>&#62;, &#60;쾌락... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_1\/20140912041051934_XEHNGKV3P.jpg\/05-523257.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5569524&cid=60550&categoryId=63763",
+			"description":"종합<b>예술<\/b>지를 표방하며 1934년 12월에 창간한 잡지다. 발행일은 34년 12월로 되어 있으나, 창간호의 표지에 ‘신춘특집호’라는 표시와 함께 ‘1935’라는 년도가 쓰여 있는 것으로 보아, 실제 잡지의 발간은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1530585&cid=60657&categoryId=60657",
+			"description":"<b>예술<\/b>(藝術)은 서양의 아트(art)를 번역한 말이다. 서구에서 아트라는 용어는 원래 모든 방면에 있어서의 기술 일반을 뜻하는 말이었다. 아트가 오늘날과 같은 근대적 의미를 획득하기 위해서는 '미적인'(fine)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=694715&cid=60533&categoryId=60533",
+			"description":"1935년에 발행된 종합 <b>예술<\/b>지. A5판. 90면 정도. 박송(朴松)이 편집하여 <b>예술<\/b>사(藝術社)에서 발행하였다. 1936년 1월에 통권 3호로 폐간되었다. 시 · 소설 · 희곡 · 영화 · 해외문학 · 평론 등을 종합적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"물리 변화와 화학 변화",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000144&svc_clss_id=CLSS0000055953&contents_openapi=naverdic",
+			"description":"물리 변화와 화학 변화가 무엇인지, 그 공통점과 차이점을 안다. 석회 동굴이 생성되는 원리를 생각해보고 물리 변화와 화학 변화가 어떻게 작용하고 있는지 생각해본다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819070250606_VS4OQGIY6.jpg\/m3_sci_17_46_img.jpg?type=m160_160"
+		},
+		{
+			"title":"부천의 <b>예술<\/b> (부천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2597741&cid=51883&categoryId=53337",
+			"description":"이러한 기본적인 문제 의식 속에서 부천시는 민선 1기 이해선 시장이 당선된 후 부천 국제 판타스틱 영화제[BiFan]를 시작함으로써 문화 <b>예술<\/b> 도시로의 전환을 도모하였다. 이후 부천 국제 판타스틱 영화제, 부천... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음성의 <b>예술<\/b> (음성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2620569&cid=51892&categoryId=53762",
+			"description":"[정의] 충청북도 음성군 지역에서 창작되거나 전승되고 있는 미적 표현물이나 표현 행위. [개설] 충청북도 음성 지역은 지형적으로 궁벽하지만 농경 문화를 기반으로 해 왔으며 산업화 속에서도 농촌의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공주의 <b>예술<\/b> (공주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2581347&cid=51898&categoryId=54018",
+			"description":"[정의] 충청남도 공주시에서 이루어지고 있는 문화와 <b>예술<\/b> 활동. [개설] <b>예술<\/b>은 특별한 재료, 기교, 양식 등으로 감상의 대상이 되는 아름다움을 표현하려는 인간의 활동 및 그 작품 또는 작품의 창작과 감상에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양산의 <b>예술<\/b> (양산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2606916&cid=51941&categoryId=54755",
+			"description":"특히 양산 지역의 전통 문화를 대표하는 통도사에서는 전통 춤 <b>예술<\/b>을 계승, 발전시켜 무형문화재 제40호로 지정된 「양산사찰학춤」 또는 「양산학춤」을 완성하는 데 크나큰 공헌을 하였다. 이외에도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"성남의 <b>예술<\/b> (성남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2599964&cid=51884&categoryId=53388",
+			"description":"[개관] 성남<b>예술<\/b>이란 성남시민들 각각 삶의 가치를 높여주고 현대생활의 각박함 속에서도 정서적 활력을 되찾게 하는 삶의 총체적 개념이라 할 수 있다. 성남시는 1946년 광주군 중부면 성남출장소가 설치된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"강릉의 <b>예술<\/b> (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2575635&cid=51890&categoryId=53702",
+			"description":"[정의] 인간이 가지고 있는 정신적 육체적 활동을 통해 그림·모양·빛깔·소리·글·표정·인형 등으로 아름답게 표현하는 것 [개관] 예로부터 강릉 지방은 <b>예술<\/b>이 있는 지방이라는 뜻의 ‘예향(藝鄕)’이라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b> (울릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2616963&cid=51936&categoryId=54503",
+			"description":"[개설] 전통시대부터 현대에 이르기까지 울릉도의 수려한 자연 경관과 개척시대부터 이어온 울릉 지역 사람들의 투박하고 질박한 삶의 모습은 <b>예술<\/b>인들에게 끝없는 창작의 소재를 제공해 왔다. 그동안 울릉... ",
+			"thumbnail":""
+		},
+		{
+			"title":"용인의 <b>예술<\/b> (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2615351&cid=51887&categoryId=53547",
+			"description":"[개설] <b>예술<\/b>은 경험과 상상력을 통해 아름다움을 표현하기 위한 인간의 활동 및 작품을 말한다. 즉 특별한 재료, 기교, 양식 등으로 감상의 대상이 되는 아름다운 작품의 창작을 통하여 정신의 충실 체험을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b> (구미)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2586763&cid=51932&categoryId=54292",
+			"description":"[정의] 경상북도 구미시에서의 <b>예술<\/b> 활동과 <b>예술<\/b> 단체 및 시설. [개설] <b>예술<\/b>은 다른 사람들과 공유할 수 있는 심미적 대상과 환경·경험을 창조하는 과정에서 기술과 상상력을 발휘하는 인간의 활동과 그 성과를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청주의 <b>예술<\/b> (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2643827&cid=51895&categoryId=53909",
+			"description":"청주의 문화<b>예술<\/b>이 타 지역만 못하다고 타박하는 사람이 있지만 청주야말로 우리나라의 한가운데에 위치한 중요한 자리에 놓여있는 도시다. 특히, 교육문화도시로서 청주가 발전해 온 모습을 자랑으로 여기지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여수의 <b>예술<\/b> (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2608752&cid=51950&categoryId=55232",
+			"description":"[개설] <b>예술<\/b>이란 독특한 표현 양식에 의하여 의식적으로 아름다움을 창조해 내는 활동으로, 인간의 정신적·육체적 활동을 빛깔·모양·소리·글 등에 의하여 아름답게 표현하는 일을 아울러 이르는 말이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진주의 <b>예술<\/b> (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2632276&cid=51942&categoryId=54807",
+			"description":"[개설] <b>예술<\/b>은 다른 사람들과 공유할 수 있는 심미적 대상과 환경, 경험을 창조하는 과정에서 기술과 상상력을 발휘하는 인간의 활동과 그 성과를 가리킨다. 또 <b>예술<\/b>이라는 용어는 사용된 매개물이나 제작물의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"성남의 Arts",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2654986&cid=51884&categoryId=53388",
+			"description":"[Definition] A piece of work expressing the creation of beauty through such distinct genres as fine arts, music, and literature. [Details] The Mother’s Choir, which was founded in... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330194838560_WR0AXSOV3.jpg\/EC001P0027.jpg?type=m160_160"
+		},
+		{
+			"title":"한국민족문화대백과 <b>예술<\/b>\/체육",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=46613",
+			"description":"건축, 공예, 국악, 대중음악, 무용, 서예, 연극, 영화, 조각, 체육, 현대음악, 회화.",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 <b>예술<\/b>과 건축",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49011",
+			"description":"미술, 건축, 그래픽아트, 무대<b>예술<\/b>, 음악, 공예.",
+			"thumbnail":""
+		},
+		{
+			"title":"홍콩<b>예술<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2741084&cid=40942&categoryId=40021",
+			"description":"1962년 설립 당시 홍콩 시청 내에 시청 박물관 및 미술관(City Hall Museum and Art Gallery)으로 개관하였다가 1975년 홍콩역사박물관과 홍콩<b>예술<\/b>관으로 분리되었다. 1983년 주룽공원으로 이전하였다가 1991년 홍콩... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>과 <b>예술<\/b>이론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2432407&cid=51392&categoryId=51394",
+			"description":"이제는 <b>예술<\/b>에 관한 중세의 텍스트들 속에서 찾을 수 있는 것을 고찰해보아야 한다. <b>예술<\/b>에 관한 전문적 논술은 아주 이례적으로 우연히 만나게 된다. 보통은 도시(특히 로마)에 대한 서술, 순례자들(특히... ",
+			"thumbnail":""
+		},
+		{
+			"title":"리샹궈<b>예술<\/b>거리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1279353&cid=40942&categoryId=34068",
+			"description":" 타이완 중서부 타이중에 있는 <b>예술<\/b>의 거리이다.  타이중시(市)의 도시구획사업에 따라 조성한 <b>예술<\/b>의 거리로 유럽식 분위기와 현대적인 건축물들이 많다. 거리 곳곳에 <b>예술<\/b>적 분위기가 짙게 배어 있는 상점과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>을 위한 <b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=997979&cid=41908&categoryId=41916",
+			"description":"'<b>예술<\/b>을 위한 <b>예술<\/b>'이라는 기치는 칸트의 체계를 토대로 하여, 다른 가치들과는 완전히 무관한 미적 경험의 내재적 가치를 확보하기 위한 19세기 초의 <b>예술<\/b>의 자율성 선언 및 <b>예술<\/b>가의 미적 독립 선언이었다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>을 위한 <b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=775758&cid=50342&categoryId=50342",
+			"description":"‘<b>예술<\/b>지상주의’를 뜻하는 것으로, <b>예술<\/b> 자체를 최고의 목적으로 여기는 태도이다. <b>예술<\/b>지상주의는 1830년대 프랑스 시인 테오필 고티에(Théophile Gautier)가 주창한 <b>예술<\/b> 이론이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>을 위한 <b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=388352&cid=41978&categoryId=41985",
+			"description":"<b>예술<\/b>지상주의라고도 불리운다. <b>예술<\/b> 작품은 순수하게 미 그 자체만을 추구, 표현하는 것이고, 그것 이외의 영역에 속하는 가치(종교적 선ㆍ도덕적인 선ㆍ역사적 이상ㆍ사회적 진실 등)와는 관계하지 않는 것이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"구상<b>예술<\/b>\/추상<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1529630&cid=60657&categoryId=60657",
+			"description":"구상<b>예술<\/b>은 기본적으로 외부 대상을 재현적, 객관적으로 표현하는 <b>예술<\/b>의 총칭을 뜻한다. 20세기에 들어와 형이상학적인 순수한 관념을 표현하는 기하학적인 추상<b>예술<\/b>이 등장하며 크게 유행하자 이에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"샹위엔<b>예술<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6022296&cid=40942&categoryId=39995",
+			"description":" 중국 베이징직할시 창핑구 샹위엔<b>예술<\/b>촌에 위치한 사립 미술관. 아티스트 레지던시 프로그램과 전시를 개최한다.  중국 베이징직할시 북부의 창핑구[昌平区] 샹위엔<b>예술<\/b>촌[上苑艺术村]에 위치한 사립... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고전<b>예술<\/b>과 대중<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1691459&cid=42266&categoryId=42274",
+			"description":"순수<b>예술<\/b> 애호가들은 대중문화는 감정적이고 통제 당하기나 하며 야만스러워 관객에게 정서적으로 해롭다는 주장을 펴고 있다. 이에 대해 대중문화 애호가들은 순수<b>예술<\/b> 작품은 지적이고 여성적이고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20130205220311759_ALH4TAMJJ.jpg\/m62_s2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1127647&cid=40942&categoryId=32856",
+			"description":" <b>예술<\/b>가나 사상가가 자신의 <b>예술<\/b>관에 입각하여 <b>예술<\/b> 전반에 걸쳐 논한 논리.  <b>예술<\/b>론의 개념에 대한 논의는 매우 다양하다. 실제로 <b>예술<\/b> 각 부문의 성격이 현격하게 다르고 그 범위가 너무 넓어서 <b>예술<\/b> 전반을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1127658&cid=40942&categoryId=32856",
+			"description":" <b>예술<\/b>의 본질 ·특성 등을 연구하는 학문.  넓은 뜻으로는 개별적인 ‘<b>예술<\/b>의 과학(science of arts)’을 가리키지만, 좁은 뜻으로는 19세기 후반∼20세기에 걸쳐 독일에서 일어난 미학(美學)과 대립적 ·병립적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1127645&cid=40942&categoryId=31773",
+			"description":" 1969년 12월 한국<b>예술<\/b>문화단체총연합회에서 창간한 기관지.  계간. 국판으로 350면 정도. 문예 창작물과 음악·<b>예술<\/b> 등 <b>예술<\/b> 전반에 걸친 내용을 수록했으나, 1973년 이후 중단되었다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1954906&cid=60486&categoryId=60486",
+			"description":" 지방에서 거행되는 <b>예술<\/b>행사.  각 도(道)의 지방 특색을 살린 <b>예술<\/b>제로는 충북의 우륵문화제(于勒文化祭)와 난계<b>예술<\/b>제(蘭溪藝術祭), 경북의 가야문화제(伽倻文化祭), 경남의 밀양아리랑제, 전라도의 춘향제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고전 <b>예술<\/b>과 고딕 <b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2432406&cid=51392&categoryId=51394",
+			"description":"중세 <b>예술<\/b>, 즉 로마네스크 <b>예술<\/b>과 더욱이 고딕 <b>예술<\/b>이 고전 <b>예술<\/b>과 어떻게 다른지는 잘 알려져 있다. 그러나 그리스 <b>예술<\/b>조차도 항시 고전적 이상에 매달려 있지는 않았다. 그저 잠깐 동안만 고전적이었을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"극<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5569519&cid=60550&categoryId=63763",
+			"description":"1930년대 식민지 조선의 대표적 신극운동단체인 극<b>예술<\/b>연구회의 기관지로 발행된 연극전문잡지다.1934년 4월에 창간호가 간행되었고, 이후 1936년 9월 5호를 마지막으로 잡지 발간이 중단되었다. 현재 3호를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마카오<b>예술<\/b>박물관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5920462&cid=40942&categoryId=40022",
+			"description":" 중국 마카오 특별행정구에 위치한 국립 <b>예술<\/b> 박물관. 중국화, 서예, 인장, 석기, 도자기, 사진, 현대미술 작품 등을 소장 및 전시한다.  중국 마카오 특별행정구 동남부 대당구(大堂區)에 위치한 국립 <b>예술<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"극<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=550547&cid=46664&categoryId=46664",
+			"description":" 1934년 4월 극<b>예술<\/b>연구회의 기관지로 서울에서 창간된 우리나라 최초의 연극전문지. [내용] 편집책임은 극<b>예술<\/b>연구회의 창립동인인 함대훈(咸大勳)·김광섭(金珖燮)·조희순(曺喜淳)·이헌구(李軒求) 등... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_8\/20180906195751418_K6L5N3WZX.jpg\/d4eb649e-f232-44.jpg?type=m160_160"
+		},
+		{
+			"title":"홍콩시각<b>예술<\/b>센터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2741071&cid=40942&categoryId=40021",
+			"description":" 중국 홍콩 특별행정구 홍콩 공원 내에 위치한 국립 시각<b>예술<\/b>센터. 미술 교육, 체험, 연구 및 교류 활동을 위한 공간으로 운영되고 있다.  중국 홍콩 특별행정구 홍콩 공원 내에 위치한 국립 시각<b>예술<\/b>센터로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"왕샤오후이<b>예술<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6022318&cid=40942&categoryId=40010",
+			"description":"<b>예술<\/b>가 왕샤오후이와 전 세계 동시대미술 작가들의 작품을 전시한다.  중국 장쑤성[江苏省] 쑤저우시[苏州市]의 역사문화보호구역인 구수취[姑苏区]에 위치한 사립 현대미술관으로 2013년 9월 개관하였다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"극<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1069399&cid=40942&categoryId=31773",
+			"description":" 1934년 4월 18일 창간된 극<b>예술<\/b>연구회의 기관지.  편집 겸 발행인 박용철(朴龍喆). 당시 시문학사(詩文學社)를 주재하던 박용철에 의해 발행되었으므로 발행소는 시문학사로 되었다. 국판 60면 내외로 통권... ",
+			"thumbnail":""
+		},
+		{
+			"title":"15세기 <b>예술<\/b>과 <b>예술<\/b> 이론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2432588&cid=51392&categoryId=51396",
+			"description":"곧이어 시각<b>예술<\/b>이 뒤따랐고, 오래지 않아 시각<b>예술<\/b>이 대단한 업적을 기록하며 문학보다 중요해지기 시작했다. 이런 추이는 피렌체에서 먼저 일어났다. 피렌체에 거주하는 <b>예술<\/b>가의 사회 · 행정적 여건은 타... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시마네<b>예술<\/b>문화센터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1330847&cid=40942&categoryId=39969",
+			"description":" 일본 시마네현 마스다시에 있는 <b>예술<\/b> 문화 시설.  2005년 10월 8일 개관하였다. 시마네현립이와미미술관[島根県立石見美術館]과 시마네현립이와미<b>예술<\/b>극장[島根県立いわみ芸術劇場]으로 구성된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"리커란구쥐<b>예술<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1283315&cid=40942&categoryId=40010",
+			"description":"<b>예술<\/b>품은 상하 양층 전시실로 나누어져 전시되고 있으며, 리커란이 생전에 기부했던《漓江山水天下殊(리강산수천하수)》를 비롯하여,《黄山烟云(황산연운)》, 《江南喜雨图(강남희우도)》,《荷塘消夏图... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전위<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139695&cid=40942&categoryId=33131",
+			"description":" 20세기 초 프랑스와 독일, 스위스, 이탈리아, 미국 등에서 일어난 <b>예술<\/b>운동으로 기존의 <b>예술<\/b>에 대한 인식과 가치를 부정하고 새로운 <b>예술<\/b>의 개념을 추구하였다.  전위라는 용어는 프랑스어 아방가르드:avant... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=567931&cid=46615&categoryId=46615",
+			"description":" <b>예술<\/b>적 능력과 창조적 가능성을 개발하고, <b>예술<\/b>을 통한 전인적 인격을 형성하고자 하는 교육. [개설] [개념과 목적] <b>예술<\/b>교육(art education)은 예능교육이라 부르는 경우도 있으나, 같은 의미는 아니다. 후자의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_6\/20170822031241597_VKR4PD7GQ.jpg\/3ea2c7da-c588-4d.jpg?type=m160_160"
+		},
+		{
+			"title":"조선<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=548860&cid=46629&categoryId=46629",
+			"description":" 북한의 종합<b>예술<\/b>잡지. [내용] 조선문학<b>예술<\/b>총동맹 산하 무용·연극동맹에서 발행하며 문예출판사(文藝出版社)에서 발간된다. 크기는 B5판 60면 내외이고, 편집내용은 음악·미술·연극·무용 등 <b>예술<\/b>분야 전반에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20150326193225813_QX83PYE81.jpg\/2af57b04-2925-4e.jpg?type=m160_160"
+		},
+		{
+			"title":"공연<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1169552&cid=40942&categoryId=32856",
+			"description":" 무대에서 공연되는 모든 형태의 <b>예술<\/b>.  무대와 같이 공개된 자리에서 연주·상연·가창(歌唱)되거나 그밖의 방법으로 연출되는 음악·무용·연극 등 기타 <b>예술<\/b>적 또는 오락적 관람물을 말한다. 공연<b>예술<\/b>은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_71\/20181115182616654_XF3C1E0A2.jpg\/88169.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>운동",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1127652&cid=40942&categoryId=31773",
+			"description":" 1927년 11월에 창간된 카프(조선프롤레타리아<b>예술<\/b>가동맹)의 기관지.  조선프롤레타리아<b>예술<\/b>가동맹 도쿄[東京] 지부의 명의로 발행되었다. 편집 겸 발행인은 김두용(金斗鎔). 표지에 공공연히 ‘조선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"종합<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1142592&cid=40942&categoryId=32856",
+			"description":" 음악·회화·문학·건축·무용 등 여러 분야의 <b>예술<\/b>을 혼합하여 창조하는 하나의 통일적인 <b>예술<\/b>.  극히 막연한 개념으로 쓰이는 수가 있지만 정확히는 19세기 중기 이후, 작곡가 R.바그너가 처음으로 제창한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공간<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1062997&cid=40942&categoryId=32856",
+			"description":" 일정한 공간을 구성하는 일에 의하여 형상화되는 <b>예술<\/b>.  <b>예술<\/b> 일반을 각종 <b>예술<\/b>로 분류할 때, 그 <b>예술<\/b>의 표상(表象)이 시간적 계기(繼起) 형식으로 나타나는가, 또는 한 공간에 같이 있는 공간적 병렬... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>평론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1127657&cid=40942&categoryId=31773",
+			"description":" 1981년 12월에 창간된 <b>예술<\/b>평론지.  한국<b>예술<\/b>평론가협의회 발행. 편집 겸 발행인 박용구(朴容九). 무용·미술·연극·영화·음악·문학 등 6개 분야의 평론가들이 집필하는 종합적인 <b>예술<\/b>비평 전문지.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시간<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1117803&cid=40942&categoryId=32856",
+			"description":" 내용이 시간의 추이에 따라 전개될 수 있는 <b>예술<\/b>.  공간<b>예술<\/b>과 대비되는 말이다. <b>예술<\/b>현상은 그것이 아무리 다양해도 일정한 이론적 관점에서 체계적으로 분류할 수 있으며, 순수한 직관형식(시간과 공간)을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"구체<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066556&cid=40942&categoryId=32856",
+			"description":" 내면의 관념을 시각적으로 형상화한 <b>예술<\/b>.  추상<b>예술<\/b>의 별칭이다. 추상<b>예술<\/b>이 일반인들의 눈에는 보이지 않는 무엇을 <b>예술<\/b>가의 힘으로 구체적으로 가시화한 것이라면, 추상<b>예술<\/b>이라는 개념은 부적절한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조형<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6225615&cid=40942&categoryId=33048",
+			"description":" 회화·조각·건축·공예 등의 물질적, 공간적, 시각적 <b>예술<\/b>을 말한다.  조형<b>예술<\/b>은 여러 가지 재료를 이용하여 구체적인 형태나 형상을 만드는 '조형(造型)'의 과정을 통해 창작되는 <b>예술<\/b>로, 다양한 재료를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>비평",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1127649&cid=40942&categoryId=32856",
+			"description":" <b>예술<\/b>작품이나 그것에 관련한 문제들을 음미하고 평가를 내리는 일.  미학이나 <b>예술<\/b>사와 중복되는 부분이 많으나, 오히려 그것들의 기초 위에서, 주로 오늘의 사상을 취급하는 특색이 있다. <b>예술<\/b>비평이라고 말할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"행위<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1157551&cid=40942&categoryId=32856",
+			"description":" 개념미술의 관념 등을 보다 구체적으로 육체 그 자체를 통하여 실행하는 <b>예술<\/b>행위.  실행 ·연기 ·연주 등의 어학사전적 의미에서 볼 수 있듯이 회화 ·조각 등이 전통적인 장르개념으로는 충족할 수 없는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_74\/20181118191129199_7RP9FTGIL.jpg\/107485.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>영화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1199557&cid=40942&categoryId=33091",
+			"description":" 할리우드적인 상업영화와 달리 <b>예술<\/b>적인 가치에 중점을 두고 만들어진 영화.  1950년대에 사용되기 시작한 이 용어는 스토리를 중시하는 할리우드의 전통적인 영화 스타일을 벗어나 사회적이고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기계<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070605&cid=40942&categoryId=33048",
+			"description":" 기계의 합리성·기능성에서 나온 조형미를 주장하는 <b>예술<\/b>.  1934년 뉴욕현대미술관에서 열린 '기계미 전시회'를 계기로 미술의 한 장르를 이루었다. 본래 기계란 미적인 표현과는 관계없이 설계·제작되었으나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=894811&cid=42642&categoryId=42642",
+			"description":"넓은 의미로는 ‘<b>예술<\/b>에 관한 학문’을 가리키지만, 좁은 의미로는 19세기 후반에서 20세기 초반에 독일에서 미학과 대립 내지 병립적으로 제창된 학문을 말한다. <b>예술<\/b>학에서는 미의 개념을 가장 좁은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"환경<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155403&cid=40942&categoryId=33131",
+			"description":" 보는 사람을 둘러싸며, 빛·소리·색채를 포함한 모든 소재로 이루어져 공간 전체를 채우는 <b>예술<\/b> 형식.  현대의 새로운 작품은 전시(展示) 형태에서도 새로운 수법이 요구되며, 따라서 작품과 보는 사람과의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=388353&cid=41978&categoryId=41985",
+			"description":"넓은 의미로는 <b>예술<\/b>에 관한 학문을 뜻하며 좁은 의미로는 <b>예술<\/b>철학과 구별하여 <b>예술<\/b>을 과학적으로 연구하는 학문을 의미한다. <b>예술<\/b>학이라고 하는 말이 사용된 것은 19세기 중엽의 독일에서이고 이전에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2083794&cid=44415&categoryId=44415",
+			"description":"개념 및 정의] <b>예술<\/b>사(藝術史, art history)는 ‘<b>예술<\/b>(藝術, art)’과 ‘사(史, history)’가 합쳐진 말로 <b>예술<\/b>의 기원과 시대의 변화에 다른 변천 과정과 양식을 연구하고 해석하며 기록하는 학문이다. <b>예술<\/b>은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140509150100262_3OYDE0839.jpg\/z10_term53_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1712920&cid=41908&categoryId=41954",
+			"description":"한편 <b>예술<\/b>이란 인간이 일정한 의도에 따라서, 요컨대 일정한 개념을 전제로 하여 그 실재화를 목적으로 하는 '기술(Kunst)'의 일종이다. 그러나 개념을 전제하는 기술이 그럼에도 불구하고 오로지 표상의 형식에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>미",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=894805&cid=42642&categoryId=42642",
+			"description":"<b>예술<\/b>미란 넓은 의미의 미(美)의 범주 속에 존재하며, 일반적으로 자연미와 구별하여 사용한다. 자연미는 자연적 현실의 사물에서 찾아낼 수 있는 미이지만, 통상적으로는 비인간적인 대상의 미, 예를 들면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>운동",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=658016&cid=46645&categoryId=46645",
+			"description":" 1927년에 창간되었던 카프(KAPF : 조선프롤레타리아<b>예술<\/b>동맹)의 기관지. [개설] 1927년 11월 김두용(金斗鎔)·조중곤(趙重滾)·이북만(李北滿) 등의 일본 유학생이 중심이 되어 발간하였다. 김두용이 주재하였고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>가",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%88%EC%88%A0%EA%B0%80",
+			"description":"<b>예술<\/b>가 (藝術家) 또는 아티스트 (Artist)는 <b>예술<\/b> 활동, 곧 <b>예술<\/b> 작품을 창작 하거나 표현 하는 것을 직업으로 하는 사람이다. 특히 사회적으로도 인정받은 사람을 가리킨다. 자격 제도가 아니기 때문에 <b>예술<\/b>가와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>운동",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5569503&cid=60550&categoryId=63762",
+			"description":"『<b>예술<\/b>운동』은 1927년 11월 15일자로 창간된 조선프롤레타리아<b>예술<\/b>가동맹(KAPF)의 기관지이다.창간호는 일제의 검열을 피하기 위해 동경에서 발행되었는데, 발행 겸 인쇄인은 김두용이고, 발행처는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5132_000_1\/20180509161039865_C9Y81CXOJ.jpg\/eb93_51_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>예술<\/b>미",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1716914&cid=41908&categoryId=41971",
+			"description":"<b>예술<\/b>미는 헤겔 미학의 본래적 대상이자 &quot;이념의 감성적 가현&quot;을 의미한다[『미학』 13. 151]. (1) 우선 <b>예술<\/b>미가 '감성적'이라는 것은 <b>예술<\/b>의 감성적 소재를 가리키는 것이 아니다. 감성적 소재는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=262699&cid=42635&categoryId=42635",
+			"description":"<b>예술<\/b>을 연구대상으로 하는 학문. 19세기 후반 독일에서 성립했으며 그 내용은 다음 세가지로 대별된다. ⑴ 자연과학의 발전에 따라 경험과학적인 방법에 의한 <b>예술<\/b>의 연구를 목표로 하는 것.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%88%EC%88%A0%EB%B2%95",
+			"description":"<b>예술<\/b>법 이란 <b>예술<\/b>분야를 다루는 법을 말한다. 엔터테인먼트법, 패션법, 미술법 등을 포괄한다. 내용 미술관 박물관 제휴 또는 설립, 미술품의 거래 및 전시에 필요한 법률, 디자인의 저작권과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=696154&cid=60533&categoryId=60533",
+			"description":"19세기 후반 이래 <b>예술<\/b>의 역사와 본질에 관한 실증적 조사와 과학적 연구가 급속하게 성행되어, 그때까지의 미학에 빠져 있던 관념적, 사변적(思辨的)인 경향 또는 미의식의 심리적 분석의 경향에 대하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>로",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%88%EC%88%A0%EB%A1%9C",
+			"description":"<b>예술<\/b>로 는 다음 지역에 위치한 대한민국의 도로 이름이다. <b>예술<\/b>로 는 인천광역시 남동구와 미추홀구, 연수구 등을 잇는 도로이다. <b>예술<\/b>로 는 충청북도 음성군에 있는 도로이다. 같이 보기 제목에 &quot;<b>예술<\/b>로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"극<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=694611&cid=60533&categoryId=60533",
+			"description":"우리나라 최초의 연극전문지 1934년 4월 극<b>예술<\/b>연구회의 기관지로 서울에서 창간되었다. 편집책임은 극<b>예술<\/b>연구회의 창립동인인 함대훈(咸大勳) · 김광섭(金珖燮) · 조희순(曺喜淳) · 이헌구(李軒求) 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>예술<\/b>미",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=262695&cid=42635&categoryId=42635",
+			"description":"<b>예술<\/b>작품에 실현된 미로서 흔히 자연미와 대비된다. 헤겔(Georg Wilhelm Friedrich Hegel, 1770~1831)은 인간의 정신에 의해서 창조된 미이므로 이것은 단순한 자연미보다 가치가 높다고 하였지만, 반대로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문학<b>예술<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1095598&cid=40942&categoryId=31773",
+			"description":"편집 겸 발행인은 오영진, 발행사는 문학과<b>예술<\/b>사이다. 국판. 200면 내외. 당시 피난지 부산에서 문총구국대 북한지부가 발행하던 타블로이드판 《주간문학<b>예술<\/b>》을 이어서 발행한 것으로 박남수·원응서... ",
+			"thumbnail":""
+		}
+	]
+}

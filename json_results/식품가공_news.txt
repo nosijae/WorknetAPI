@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:27 +0900",
+	"total":533044,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"&quot;밀가루 대신 쌀가루&quot;…분질미 상용화 시동",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OPAJ0JF",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004081050?sid=101",
+			"description":"이들 업체는 지원받은 분질미를 기존 설비로 제분하고 제분한 쌀가루를 우동면 등 <b>가공<\/b><b>식품<\/b>에 활용하는 실험을 진행했다. 분질미는 쌀가루로 활용하기 위해 개발된 쌀이다. 일반 쌀과 달리 전분 구조가 밀처럼 둥글고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:23:00 +0900"
+		},
+		{
+			"title":"식약처, ‘아플라톡신 초과 검출’ 한식된장 2개 판매 중단·회수",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5519304&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011310005?sid=102",
+			"description":"<b>식품<\/b>의약품안전처는 국내 <b>식품<\/b>제조·<b>가공<\/b>업체에서 제조해 판매한 한식 된장 2개 제품에서 아플라톡신이 초과 검출돼 해당 제품을 판매 중단하고 회수한다고 밝혔습니다. 식약처는 오늘(27일) 아플라톡신이 초과 검출된... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"'아플라톡신 초과 검출' 한식된장 2개 제품 판매 중단 및 회수",
+			"originallink":"https:\/\/mdtoday.co.kr\/news\/view\/1065604042796247",
+			"link":"https:\/\/mdtoday.co.kr\/news\/view\/1065604042796247",
+			"description":"▲ 회수 대상 제품 (사진=<b>식품<\/b>의약품안전처 제공) <b>식품<\/b>의약품안전처는 국내 <b>식품<\/b>제조‧<b>가공<\/b>업체에서 제조‧판매한 한식된장 2개 제품에서 아플라톡신이 초과 검출돼 해당 제품을 판매 중단하고 회수 조치한다고 27일... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"'엔데믹시대 첫 명절 대목'...유통업계, 이른 추석 준비 분주",
+			"originallink":"http:\/\/www.newspost.kr\/news\/articleView.html?idxno=100664",
+			"link":"http:\/\/www.newspost.kr\/news\/articleView.html?idxno=100664",
+			"description":"또한 최근 물가급등에 따라 <b>가공<\/b><b>식품<\/b> 선물 수요가 증가될 것으로 예상되어 <b>가공<\/b><b>식품<\/b> 선물 군의 품목을 예전보다 20% 늘렸다. (사진=롯데마트 제공) 대형마트는 지난 21일부터 추석 준비 앞서 롯데마트‧이마트... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"산청군 '지리산 산청곶감' 전문가 육성 박차",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322447",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322447",
+			"description":"곶감·감말랭이·반건조 <b>가공<\/b>기술, 감나무 생육관리 및 곶감 위생관리, 온라인 마케팅기법, 곶감을 활용한 디저트 만들기 체험, 타제품 소규모 포장 현장 견학 등이다. 특히 올해에는 다양한 산청곶감 활용<b>식품<\/b> 개발을 위한... ",
+			"pubDate":"Wed, 27 Jul 2022 18:13:00 +0900"
+		},
+		{
+			"title":"사천시 코로나19 재유행 선제적 대응",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322435",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322435",
+			"description":"사천시가 코로나19 재유행에 따라 <b>식품<\/b>제조<b>가공<\/b>업체 및 즉석판매제조<b>가공<\/b>업체에 대한 특별방역과 여름철 <b>식품<\/b> 사고 예방 안전관리 특별점검을 실시한다고 27일 밝혔다. 시는 지난 25일부터 5주간 특별점검을 통해... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"천영기 통영시장, 시정방향 주요공약 제시",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322524",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322524",
+			"description":"이 밖에도 KTX 역세권 개발 박차, 굴 껍데기 등 처리 재활용 관련 예산 확대 지원, 수산<b>가공<\/b><b>식품<\/b> 연구개발 및 <b>가공<\/b>산업 고도화, 마리나 비즈센터 조기 건립, 근대역사문화공간 재생활성화사업 정상 추진, 통영 특색에 맞는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"동원F&amp;B, 로우푸드 시장 공략...'리챔 더블라이트', 나트륨·지방 25%↓",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2022049",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2022049",
+			"description":"동원F&amp;B는 수산업에 이어 축산업까지 다양한 단백질 <b>식품<\/b>을 생산하는 토탈 프로틴 프로바이더로 '리챔... 캔햄 제품 <b>가공<\/b>에 있어 소금은 고기 배합과 형태 유지를 위해 필수적인 재료로, 소금의 함량을 계속 낮추면... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"종근당건강, 맛∙영양 모두 갖춘 건강 간편식 '테이스틴(Tasty'n)' 런칭",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98850",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98850",
+			"description":"'단백질 다이닝밀'은 최소화된 <b>가공<\/b> 과정을 통해 얻은 원물 단백질 15~20g을 함유하고 있으며 식이섬유 함량도 강화했다. '단백질 곤약밥'은 저칼로리 <b>식품<\/b>의 대표인 곤약을 비롯해 두부 크럼블 등 다양한 원재료로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"단국대, 국내 최초 수산부산물 활용 '아토피 치료제' 만든다",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154539",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154539",
+			"description":"강현 교수는 &quot;수산물 어획·<b>가공<\/b> 과정에서 연 85만t의 수산부산물이 발생하지만 대다수 폐기되고 있다&quot;며... 강 교수는 &quot;아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"국내 최초…단국대, 버려지는 수산부산물 활용 ‘아토피치료제 개발한다’",
+			"originallink":"http:\/\/www.sisanews24.co.kr\/8529",
+			"link":"http:\/\/www.sisanews24.co.kr\/8529",
+			"description":"강현 교수는 “수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수 폐기되고 있다”며... 강 교수는 아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"산청군 ‘지리산 산청곶감’ 전문가 육성 박차",
+			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/626171",
+			"link":"http:\/\/www.sentv.co.kr\/news\/view\/626171",
+			"description":"곶감·감말랭이·반건조 <b>가공<\/b>기술, 감나무 생육관리 및 곶감 위생관리, 온라인 마케팅기법, 곶감을 활용한 디저트 만들기 체험, 타제품 소규모 포장 현장 견학 등이다.   특히 올해에는 다양한 산청곶감 활용<b>식품<\/b> 개발을... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"의성군, '2022 K-웰니스 브랜드 대상' 수상",
+			"originallink":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=584511",
+			"link":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=584511",
+			"description":"‘2022 K-웰니스 푸드 &amp; 투어리즘 페어’ 는 한국웰니스산업협회가 주최하고 농림축산<b>식품<\/b>부... 다양하게 <b>가공<\/b>되어 소비자들을 찾고 있다. 김주수 의성군수는 “그동안의 웰니스 관광 인프라구축과 웰니스 산업육성... ",
+			"pubDate":"Wed, 27 Jul 2022 17:48:00 +0900"
+		},
+		{
+			"title":"&quot;인생 2막 준비&quot;…세종시 '신중년센터' 개소",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1006838656&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0000988813?sid=102",
+			"description":"치매돌봄전문가 과정과 펫의상 디자이너, AI가 학습할 수 있게 데이터를 <b>가공<\/b>하는 데이터 라벨러, 발효<b>식품<\/b> 전문가 등 14개 교육과정에서 자격증이 수료되거나 수료와 동시에 연계된 기관에 취업까지 가능한 다양한... ",
+			"pubDate":"Wed, 27 Jul 2022 17:44:00 +0900"
+		},
+		{
+			"title":"&quot;믿고 먹는 국내산 우유&quot;...'수입우유에 뒤떨어진다'는 온라인 괴담 골치",
+			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=243281",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002129550?sid=105",
+			"description":"특히 <b>가공<\/b>하지 않은 신선<b>식품<\/b>은 철저한 관리 속에 생산, 유통되는 것이 중요하다. 우유도 그 중 하나다. 고품질의 원유를 최소한의 생산 과정을 거쳐 소비기한 내에 빠르게 섭취할 때, 건강에 가장 유익하다. 이 같은... ",
+			"pubDate":"Wed, 27 Jul 2022 17:30:00 +0900"
+		},
+		{
+			"title":"종근당건강, 간편식 브랜드 '테이스틴' 런칭...<b>식품<\/b> 사업 본격 진출",
+			"originallink":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2011967",
+			"link":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2011967",
+			"description":"'단백질 다이닝밀'은 최소화된 <b>가공<\/b> 과정을 통해 얻은 원물 단백질 15~20g을 함유하고 있으며 식이섬유 함량도 강화했다. '단백질 곤약밥'은 저칼로리 <b>식품<\/b>의 대표인 곤약을 비롯해 두부 크럼블 등 다양한 원재료로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:28:00 +0900"
+		},
+		{
+			"title":"우유자조금관리위원회 &quot;믿고 먹을 수 있는 국내산 우유 드세요&quot;",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022072702109919608010&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002746210?sid=101",
+			"description":"특히 신선<b>식품<\/b>은 <b>가공<\/b>하지 않은 만큼 철저한 관리 속에 생산·유통되어야 한다. 우유도 마찬가지다. 고품질의 원유를 최소한의 생산 과정을 거친 신선한 제품을 소비기한 내에 빠르게 섭취하는 게 건강에 가장 유익하다고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:27:00 +0900"
+		},
+		{
+			"title":"사천해경, 유통기한 지난 수입 손질황태 유통 적발",
+			"originallink":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800411",
+			"link":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800411",
+			"description":"재임<b>가공<\/b> 한 후 도·소매업체에 유통·판매·보관해 온 일당이 붙잡혔다. 사천해양경찰서는 유통기한이 지나 폐기해야 할 손질황태를 판매·보관한 ㄱ 씨(구속) 등 5명(법인 2명)을 <b>식품<\/b>위생법 위반 혐의로 입건했다. ㄱ 씨... ",
+			"pubDate":"Wed, 27 Jul 2022 17:26:00 +0900"
+		},
+		{
+			"title":"인천시 남동구, 공동브랜드 소래찬 김치 출시 1주년 기념 이벤트 진행",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281275247723",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281275247723",
+			"description":"소래찬 김치는 <b>식품<\/b>제조<b>가공<\/b>업체의 위생적인 제조환경과 지역의 천연자원을 활용해 개발한 남동구만의 특색을 살린 김치 브랜드로, 지난해 7월 27일 출시했다. 남동구 관계자는 “출시 후 꾸준한 사랑을 주고 있는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:16:00 +0900"
+		},
+		{
+			"title":"[인터뷰] 민경천 한우자조금 위원장 &quot;곡물관세 철폐로 한우 농가 살려야&quot;",
+			"originallink":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=79840",
+			"link":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=79840",
+			"description":"2~3등급은 주로 학교 급식이나 군납, <b>가공<\/b><b>식품<\/b> 등 여러 경로를 통해 유통된다. 경상권 등 지역 시장에는 암소 시장이 특화돼 그쪽을 통해 유통이 이루어질 것으로 보인다. 민경천 한우자조금 위원장 [오두환 기자] - 한우... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"전남도, 수산<b>가공<\/b>품 생산액 1조 6773억 달성",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=905302",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=905302",
+			"description":"최정기 도 해양수산국장은 &quot;앞으로도 <b>가공<\/b>시설 현대화 지원 등 수산<b>가공<\/b>산업을 지속해서 육성, 2026년까지 생산액 2조 5000억원을 달성, 명실상부 수산<b>식품<\/b>산업이 전남의 경제를 선도하는 중추산업으로 우뚝 서도록... ",
+			"pubDate":"Wed, 27 Jul 2022 17:06:00 +0900"
+		},
+		{
+			"title":"단국대, ‘국내최초 수산부산물 활용’ 아토피치료제 개발",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271629223450243",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271629223450243",
+			"description":"강현 교수는 “수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수 폐기되고 있다”며... 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재 연구에도 나서겠다고 밝혔다. 천안= ksg4610@",
+			"pubDate":"Wed, 27 Jul 2022 17:02:00 +0900"
+		},
+		{
+			"title":"프리미엄 캔햄 '리챔 더블라이트'...나트륨·지방 25% 이상 낮춘 '로우 푸드'",
+			"originallink":"http:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=99115",
+			"link":"http:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=99115",
+			"description":"동원F&amp;B는 수산업에 이어 축산업까지 다양한 단백질 <b>식품<\/b>을 생산하는 '토탈 프로틴 프로바이더(Total Protein... 캔햄 제품 <b>가공<\/b>에 있어서 소금은 고기 배합과 형태 유지를 위해 필수적인 재료로, 소금의 함량을 계속... ",
+			"pubDate":"Wed, 27 Jul 2022 16:56:00 +0900"
+		},
+		{
+			"title":"여름휴가 바비큐도 '부담'…축산물 원산지 위반 두 배↑",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220726010007541",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220726010007541",
+			"description":"삼겹살값 상승으로 돼지고기 전체 가격이 상승하면서 관련 <b>가공<\/b>품 가격도 크게 올랐다. CJ 제일제당과... 한국농수산<b>식품<\/b>유통공사 농산물유통정보(KAMIS)에 따르면, 26일 대전 역전시장 깻잎(상품, 100g)은 1870원으로... ",
+			"pubDate":"Wed, 27 Jul 2022 16:54:00 +0900"
+		},
+		{
+			"title":"종근당건강, <b>식품<\/b>사업 진출…간편식 전문 브랜드 '테이스틴' 런칭",
+			"originallink":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=133368",
+			"link":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=133368",
+			"description":"종근당건강 테이스틴 (제공=종근당건강) ©열린뉴스통신ONA 건강기능<b>식품<\/b> 기업인 종근당건강(대표 김호곤)... '단백질 다이닝밀'은 최소화된 <b>가공<\/b> 과정을 통해 얻은 원물 단백질 15~20g을 함유하고 있으며 식이섬유... ",
+			"pubDate":"Wed, 27 Jul 2022 16:54:00 +0900"
+		},
+		{
+			"title":"의성군, K-웰니스 브랜드 대상 수상 외 [의성소식]",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207270151",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207270151",
+			"description":"‘2022 K-웰니스 푸드 &amp; 투어리즘 페어’는 한국웰니스산업협회가 주최하고 농림축산<b>식품<\/b>부... 다양하게 <b>가공<\/b>되어 소비자들을 찾고 있다. 김주수 의성군수는 “앞으로도 다양한 웰니스 관광 콘텐츠 발굴과 웰니스... ",
+			"pubDate":"Wed, 27 Jul 2022 16:52:00 +0900"
+		},
+		{
+			"title":"유통기한 지난 수입 황태채 15톤 <b>가공<\/b>·판매 일당 검거",
+			"originallink":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=378971",
+			"link":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=378971",
+			"description":"55톤을 <b>가공<\/b> 후 판매하거나 보관해 온 일당을 검거했다고 27일 밝혔다. A씨(43) 등 5명은 유통기한이 지나 폐기해야 할 황태채를 유통 판매 및 보관해 지난 15일 <b>식품<\/b>위생법 위반 혐의로 입건됐다. 이들은 부산시 소재... ",
+			"pubDate":"Wed, 27 Jul 2022 16:46:00 +0900"
+		},
+		{
+			"title":"의성군, 2022 K-웰니스 브랜드 대상 수상 '쾌거'",
+			"originallink":"http:\/\/www.smartfn.co.kr\/view.php?ud=2022072716335090392a13d34d32_46",
+			"link":"http:\/\/www.smartfn.co.kr\/view.php?ud=2022072716335090392a13d34d32_46",
+			"description":"‘2022 K-웰니스 푸드 &amp; 투어리즘 페어’는 (사)한국웰니스산업협회가 주최하고 농림축산<b>식품<\/b>부... 다양하게 <b>가공<\/b>되어 소비자들을 찾고 있다. 김주수 의성군수는 “그동안의 웰니스 관광 인프라구축과 웰니스 산업육성... ",
+			"pubDate":"Wed, 27 Jul 2022 16:44:00 +0900"
+		},
+		{
+			"title":"홍콩 입법회 의원 군위 방문…투자단과 면담 외 [군위소식] ",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207270141",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207270141",
+			"description":"농산물종합가공센터가 준공되면 지역농산물을 활용한 <b>식품가공<\/b>기술 이론 및 제조실습과 시제품 코칭 과정을 추가로 운영할 계획이다. 신회용 농업기술센터 소장은 “내가 만들 제품을 구체화하고 네이밍과 디자인... ",
+			"pubDate":"Wed, 27 Jul 2022 16:30:00 +0900"
+		},
+		{
+			"title":"의성군, 2022 K-웰니스 브랜드 대상 수상",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580724",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580724",
+			"description":"‘2022 K-웰니스 푸드 &amp; 투어리즘 페어’는 (사)한국웰니스산업협회가 주최하고 농림축산<b>식품<\/b>부... 다양하게 <b>가공<\/b>되어 소비자들을 찾고 있다. 김주수 군수는 “그동안의 웰니스 관광 인프라구축과 웰니스 산업육성... ",
+			"pubDate":"Wed, 27 Jul 2022 16:28:00 +0900"
+		},
+		{
+			"title":"전남도, 수산<b>가공<\/b>품 생산액 2년 연속 전국 1위",
+			"originallink":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=230550",
+			"link":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=230550",
+			"description":"이런 가운데 전남도는 수산물의 고부가가치화를 통한 수산<b>식품<\/b>산업의 글로벌 경쟁력 강화를 위해 지난해 제2수산<b>가공<\/b>･유통산업 발전 종합계획을 수립해 추진하고 있다. 이에 따라 오는 2026년까지 <b>가공<\/b>･유통... ",
+			"pubDate":"Wed, 27 Jul 2022 16:20:00 +0900"
+		},
+		{
+			"title":"[포토] 농협유통, 국산 쌀 <b>가공<\/b><b>식품<\/b> 모음전 실시",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220727161240308",
+			"link":"https:\/\/www.ajunews.com\/view\/20220727161240308",
+			"description":"아주경제=유대길 기자 dbeorlf123@ajunews.com 27일 서울 서초구 하나로마트 양재점에서 모델들이 국산 쌀 소비촉진을 위한 '국산 쌀 <b>가공<\/b><b>식품<\/b>(라이스에이드) 모음전'을 소개하고 있다. 살 맛나는 가격으로 준비한... ",
+			"pubDate":"Wed, 27 Jul 2022 16:16:00 +0900"
+		},
+		{
+			"title":"롯데제과vs빙그레, 경쟁 본격화…빙과시장이 뜨겁다",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20220727500572",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20220727500572",
+			"description":"<b>식품<\/b>산업통계정보시스템(FIS)에 따르면 지난해 상반기 기준 롯데제과(30.6%)와 롯데푸드(14.7%)의 시장... 업계 관계자는 &quot;올해 원유 가격이 상승하면서 유제품을 주로 <b>가공<\/b>·취급하는 빙과업계가 인플레이션 타격을 받았다... ",
+			"pubDate":"Wed, 27 Jul 2022 16:10:00 +0900"
+		},
+		{
+			"title":"사천해경,유통기한 지난 수입 손질황태 유통업자 검거",
+			"originallink":"http:\/\/www.busan.com\/view\/busan\/view.php?code=2022072716045917938",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001166986?sid=102",
+			"description":"사천해양경찰서(서장 옥창묵)는 유통기한이 지난 수입산 손질황태를 재임<b>가공<\/b>한 뒤 전국에 유통시킨 혐의(<b>식품<\/b>위생법 위반)로 A(43·부산시)씨 등 5명을 검거, 이 가운데 1명을 구속했다고 27일 밝혔다. A씨 등은 유통기한이... ",
+			"pubDate":"Wed, 27 Jul 2022 16:08:00 +0900"
+		},
+		{
+			"title":"비즈업경리실무, 출장경리와 온라인경리를 결합한 경리아웃소싱 서비스 출시",
+			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=202207271605423711992c130dbe_30",
+			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=202207271605423711992c130dbe_30",
+			"description":"한편, 비즈업경리실무 서비스는 관계법령에 따라 사업을 해야 하는 특수한 업종인 주유소, <b>식품<\/b>제조<b>가공<\/b>업, 건설업. 병원 등의 업종 및 기업회생 준비\/진행중인 회사의 경리업무에도 적용할 수 있는 다양한 경험을 갖고... ",
+			"pubDate":"Wed, 27 Jul 2022 16:08:00 +0900"
+		},
+		{
+			"title":"어류와 패각류 부산물이 아토피 치료제로",
+			"originallink":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=273505",
+			"link":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=273505",
+			"description":"강현 교수는 &quot;수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수 폐기되고 있다&quot;며... 이어 아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재 연구에도... ",
+			"pubDate":"Wed, 27 Jul 2022 16:04:00 +0900"
+		},
+		{
+			"title":"종근당건강, 맛∙영양 모두 갖춘 건강 간편식 브랜드로 <b>식품<\/b>사업 진출",
+			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202207271554523772204ead0791_12",
+			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202207271554523772204ead0791_12",
+			"description":"‘단백질 다이닝밀’은 최소화된 <b>가공<\/b> 과정을 통해 얻은 원물 단백질 15~20g을 함유하고 있으며 식이섬유 함량도 강화했다. ‘단백질 곤약밥’은 저칼로리 <b>식품<\/b>의 대표인 곤약을 비롯해 두부 크럼블 등 다양한 원재료로... ",
+			"pubDate":"Wed, 27 Jul 2022 15:56:00 +0900"
+		},
+		{
+			"title":"의성군 ‘K-웰니스 브랜드 대상’ 수상",
+			"originallink":"http:\/\/www.newscj.com\/article\/20220727580490",
+			"link":"http:\/\/www.newscj.com\/article\/20220727580490",
+			"description":"‘2022 K-웰니스 푸드 &amp; 투어리즘 페어’는 ㈔한국웰니스산업협회 주최, 농림축산<b>식품<\/b>부, 문화체육관광부가... 다양하게 <b>가공<\/b>돼 소비자를 찾고 있다. 김주수 의성군수는 “그동안 웰니스 관광 인프라구축과 웰니스... ",
+			"pubDate":"Wed, 27 Jul 2022 15:48:00 +0900"
+		},
+		{
+			"title":"종근당건강, 건강간편식 '테이스틴' 출시…&quot;맛·영양 모두 갖춰&quot;",
+			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=115177",
+			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=115177",
+			"description":"단백질 다이닝밀은 최소화된 <b>가공<\/b>과정을 통해 얻은 원물 단백질 15~20g을 함유하고 있으며 식이섬유 함량도 강화했다. 단백질 곤약밥은 저칼로리 <b>식품<\/b>의 대표인 곤약을 비롯해 두부 크럼블 등 다양한 원재료로 식감과... ",
+			"pubDate":"Wed, 27 Jul 2022 15:48:00 +0900"
+		},
+		{
+			"title":"“된장찌개까지 간편식으로 사먹어야 하나요”",
+			"originallink":"https:\/\/www.khan.co.kr\/economy\/economy-general\/article\/202207271538001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003162703?sid=101",
+			"description":"코로나19 장기화에 일품요리로 구입하던 ‘반조리 <b>가공<\/b><b>식품<\/b>’을 식탁 대표 메뉴로 올리는 등 폭등하는 식재료 값을 견디지 못해 탕과 찌개류까지 <b>가공<\/b><b>식품<\/b>으로 사먹고 있는 추세다. 식재료를 따로따로 구입해 직접... ",
+			"pubDate":"Wed, 27 Jul 2022 15:40:00 +0900"
+		},
+		{
+			"title":"유통기한 지난 수입 손질황태 유통업자 검거...먹거리 안전 '비상'",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207270107",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207270107",
+			"description":"유통기한이 지나 폐기해야 할 손질황태를 판매해 온 A(43·부산광역시)씨 등 5명(법인 2명)중 <b>식품<\/b>위생법 위반 혐의로 한 명은 구속영장이 발부됐다. 또한 이들 중 2명은 수입·<b>가공<\/b>·유통 영업장을 함께 운영한 것으로... ",
+			"pubDate":"Wed, 27 Jul 2022 15:38:00 +0900"
+		},
+		{
+			"title":"단국대, '국내최초 수산부산물 활용' 아토피치료제 개발 나서",
+			"originallink":"https:\/\/news.unn.net\/news\/articleView.html?idxno=531686",
+			"link":"https:\/\/news.unn.net\/news\/articleView.html?idxno=531686",
+			"description":"강 교수는 &quot;수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수 폐기되고 있다&quot;며... 또 &quot;아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재 연구에도... ",
+			"pubDate":"Wed, 27 Jul 2022 15:36:00 +0900"
+		},
+		{
+			"title":"종근당건강, 건강 간편식 브랜드로 <b>식품<\/b>사업 진출",
+			"originallink":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=58310",
+			"link":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=58310",
+			"description":"'단백질 다이닝밀'은 최소화된 <b>가공<\/b> 과정을 통해 얻은 원물 단백질 15~20g을 함유하고 있으며 식이섬유 함량도 강화했다. '단백질 곤약밥'은 저칼로리 <b>식품<\/b>의 대표인 곤약을 비롯해 두부 크럼블 등 다양한 원재료로... ",
+			"pubDate":"Wed, 27 Jul 2022 15:36:00 +0900"
+		},
+		{
+			"title":"사천해경, 유통기한 지난 수입 손질황태 판매․보관해온 일당 검거",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/1954624.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000163377?sid=102",
+			"description":"열처리 등 과정 거쳐 유통기한 스티커 제거해 판매 유통기한이 지난 수입 러시아산 손질황태를 재 임<b>가공<\/b>, 도·소매업체에 유통 판매·보관해온 일당이 경찰에 붙잡혔다. 사천해양경찰서는 A(43)씨 등 5명을 <b>식품<\/b>위생법... ",
+			"pubDate":"Wed, 27 Jul 2022 15:35:00 +0900"
+		},
+		{
+			"title":"단국대 강현 교수팀, 해수부 바이오 소재화 기술개발 사업 선정",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022072715127443847",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004775977?sid=102",
+			"description":"강 교수는 &quot;수산물 어획·<b>가공<\/b> 과정에서 연 85만 톤의 수산부산물이 발생하지만 대다수 폐기되고 있다&quot;며... 그는 이어 &quot;아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재... ",
+			"pubDate":"Wed, 27 Jul 2022 15:34:00 +0900"
+		},
+		{
+			"title":"[양주소식] 시, '농산물<b>가공<\/b> 기술 전문가 양성' 교육생 모집 등",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958374&cID=10817&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011329851?sid=102",
+			"description":"인·허가사항, <b>식품<\/b>위생 관련 법규 등으로 구성됐다. 모집대상은 관내 농업인 또는 농산물 <b>가공<\/b>창업에 관심있는 양주시민이라면 누구나 가능하며, 다만 관내 농업인을 우선 선발한다. 신청방법은... ",
+			"pubDate":"Wed, 27 Jul 2022 15:32:00 +0900"
+		},
+		{
+			"title":"‘곡성 멜롱살롱’ 생산·<b>가공<\/b>·관광 산업 아우르는 복합체험센터",
+			"originallink":"http:\/\/www.jndn.com\/article.php?aid=1658903246341446190",
+			"link":"http:\/\/www.jndn.com\/article.php?aid=1658903246341446190",
+			"description":"‘곡성 멜롱살롱’ 생산·<b>가공<\/b>·관광 산업 아우르는 복합체험센터 당일 생산한 멜론으로 신선한 음료 마셔... 지난해 10월 곡성군과 농림축산<b>식품<\/b>부에서 공모한 6차산업화 조성사업인 ‘곡성 기차 타고 멜론마을... ",
+			"pubDate":"Wed, 27 Jul 2022 15:30:00 +0900"
+		},
+		{
+			"title":"단국대, 수산부산물로 아토피치료제 개발 추진",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755385",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244154?sid=102",
+			"description":"강현 교수는 “수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 부산물이 발생하지만 대다수 폐기되고 있다”며... 강 교수는 아토피 피부염 치료제 개발과 함께 수산부산물을 활용한 의약품·건강기능<b>식품<\/b>·화장품 소재 연구에도... ",
+			"pubDate":"Wed, 27 Jul 2022 15:28:00 +0900"
+		},
+		{
+			"title":"단국대, 국내최초 수산부산물 활용 아토피치료제 개발 나서",
+			"originallink":"http:\/\/www.jbnews.com\/news\/articleView.html?idxno=1367179",
+			"link":"http:\/\/www.jbnews.com\/news\/articleView.html?idxno=1367179",
+			"description":"강현 교수는 &quot;수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수 폐기되고 있다&quot;며... 이어 &quot;아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재 연구에도... ",
+			"pubDate":"Wed, 27 Jul 2022 15:22:00 +0900"
+		},
+		{
+			"title":"단국대, 국내 최초 수산부산물 황용 아토피피료제 개발 착수",
+			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=667402",
+			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=667402",
+			"description":"강현 교수는 &quot;수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수 폐기되고 있다&quot;며... 강 교수는 아토피 피부염 치료제 개발과 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재 연구에도... ",
+			"pubDate":"Wed, 27 Jul 2022 15:22:00 +0900"
+		},
+		{
+			"title":"대다수 국민, 수입 수산물 <b>식품<\/b>안전에 민감…검역강화 요구",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1136873\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002624940?sid=101",
+			"description":"수산 분야 중 관심도와 발전 가능성이 모두 높은 세부 분야로 ‘수산물 <b>식품<\/b>안전’의 항목이 상대적으로... 4%p 상승했으며, 그 반대로 국내 수산물 <b>가공<\/b> 과정에서의 안전성 확보는 2.2%p 감소했다. 이에 수산물 안전성... ",
+			"pubDate":"Wed, 27 Jul 2022 15:20:00 +0900"
+		},
+		{
+			"title":"종근당건강, 간편식 전문 브랜드 '테이스틴' 런칭",
+			"originallink":"http:\/\/www.kmedinfo.co.kr\/news\/articleView.html?idxno=74407",
+			"link":"http:\/\/www.kmedinfo.co.kr\/news\/articleView.html?idxno=74407",
+			"description":"'단백질 다이닝밀'은 최소화된 <b>가공<\/b> 과정을 통해 얻은 원물 단백질 15~20g을 함유하고 있으며 식이섬유 함량도 강화했다. '단백질 곤약밥'은 저칼로리 <b>식품<\/b>의 대표인 곤약을 비롯해 두부 크럼블 등 다양한 원재료로... ",
+			"pubDate":"Wed, 27 Jul 2022 15:16:00 +0900"
+		},
+		{
+			"title":"하나로마트, 국산 쌀 <b>가공<\/b><b>식품<\/b> 모음전 양재점에서 개최...쌀 소비 촉진 앞장",
+			"originallink":"http:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=36347",
+			"link":"http:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=36347",
+			"description":"27일 서울시 서초구에 위치한 하나로마트 양재점에서 모델들이 국산 쌀 소비촉진을 위한 &quot;국산 쌀 <b>가공<\/b><b>식품<\/b>(라이스에이드) 모음전&quot;을 소개하고 있다. [사진=농협유통 제공]  하나로마트를 운영하고 있는 농협유통(대표이사... ",
+			"pubDate":"Wed, 27 Jul 2022 15:16:00 +0900"
+		},
+		{
+			"title":"사천해경, 유통기한 지난 '손질 황태' 재<b>가공<\/b> 유통 일당 검거",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5793660",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003669000?sid=102",
+			"description":"유통기한이 지난 수입 손질황태를 손질 먹태로 재<b>가공<\/b>해 도·소매업체에 유통시킨 혐의로 법인 2곳 등 5명이 해경에 검거됐다. 경남 사천해양경찰서는 <b>식품<\/b>위생법 위반 혐의로 A(40대)씨를 구속하고 법인 2곳 등 4명을... ",
+			"pubDate":"Wed, 27 Jul 2022 15:15:00 +0900"
+		},
+		{
+			"title":"유통업계, 올 추석선물세트 키워드는 '실속'...5만·10만원대 '대세'",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20220727010004639",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20220727010004639",
+			"description":"등 <b>가공<\/b><b>식품<\/b>까지 다양하게 구성했다. 롯데마트는 5만 원 미만의 선물세트를 전년 추석보다 10% 가량 늘리고, ‘가성비(가격 대비성능’에 집중한 선물세트를 선보였다. 홈플러스는 총 585종의 사전예약 추석선물 세트 중... ",
+			"pubDate":"Wed, 27 Jul 2022 15:14:00 +0900"
+		},
+		{
+			"title":"백화점 업계, 추석 마케팅 돌입…실속세트·온라인 상품 강화 ",
+			"originallink":"http:\/\/www.sporbiz.co.kr\/news\/articleView.html?idxno=626800",
+			"link":"http:\/\/www.sporbiz.co.kr\/news\/articleView.html?idxno=626800",
+			"description":"롯데백화점은 오는 18일까지 축산·과일·수산 등 신선<b>식품<\/b> 60여종과 건강<b>식품<\/b> 40여종, 주류 20여종, <b>가공<\/b><b>식품<\/b> 50여종 등 총 170여종의 선물세트를 사전 예약 판매한다. 이 기간 동안 주요 상품별로 축산 10~15%, 수산 20... ",
+			"pubDate":"Wed, 27 Jul 2022 15:08:00 +0900"
+		},
+		{
+			"title":"유통기한 경과 황태채 15t 판매한 일당 5명 검거",
+			"originallink":"http:\/\/www.knnews.co.kr\/news\/articleView.php?idxno=1382130",
+			"link":"http:\/\/www.knnews.co.kr\/news\/articleView.php?idxno=1382130",
+			"description":"사천해양경찰서는 손질황태를 불법으로 판매 및 보관한 혐의(<b>식품<\/b>위생법 위반)로 A(43·부산광역시)씨를... 황태채로 <b>가공<\/b>해 판매한 것으로 알려졌다. 부산시 소재 한 냉동창고에 유통기한이 경과한 수입산 손질황태... ",
+			"pubDate":"Wed, 27 Jul 2022 15:06:00 +0900"
+		},
+		{
+			"title":"의성군, 2022 K-웰니스 브랜드 대상 수상",
+			"originallink":"http:\/\/www.idaegu.com\/newsView\/idg202207270031",
+			"link":"http:\/\/www.idaegu.com\/newsView\/idg202207270031",
+			"description":"‘2022 K-웰니스 푸드＆투어리즘 페어’는 한국웰니스산업협회가 주최하고 농림축산<b>식품<\/b>부... 품질을 자랑하는 마늘소가 높은 사랑을 받고 있으며, 마늘, 유기농 과일들이 다양하게 <b>가공<\/b>돼 소비자들을 찾고 있다.",
+			"pubDate":"Wed, 27 Jul 2022 15:06:00 +0900"
+		},
+		{
+			"title":"넘치는 팜유 재고에 골머리…인도네시아의 어설픈 시장 개입",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220727070700884",
+			"link":"https:\/\/www.ajunews.com\/view\/20220727070700884",
+			"description":"인도네시아인들에게 팜유는 없어서는 안 될 <b>식품<\/b>이다. 특유의 덥고 습한 기후로 인해 기름을 이용한... 식용유와 음식물 <b>가공<\/b>에 널리 쓰이는 팜유는 바이오디젤 원료로도 쓰인다. 바이오디젤은 팜유·대두유·유채유... ",
+			"pubDate":"Wed, 27 Jul 2022 15:02:00 +0900"
+		},
+		{
+			"title":"산청군, 지리산 산청곶감 생산기술교육 개강식 진행",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20220727500194",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20220727500194",
+			"description":"반건조 <b>가공<\/b>기술 ▲감나무 생육관리 및 곶감 위생관리 ▲온라인 마케팅기법 ▲▲곶감을 활용한 디저트 만들기 체험 ▲다른 제품 소규모 포장 현장 견학 등이다. 특히 올해는 다양한 산청곶감 활용<b>식품<\/b> 개발을 위한 체험... ",
+			"pubDate":"Wed, 27 Jul 2022 14:54:00 +0900"
+		},
+		{
+			"title":"경북 군위군, 농<b>식품 가공<\/b> 전문가 육성",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006883",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006883",
+			"description":"농산물종합가공센터가 준공되면 지역농산물을 활용한 <b>식품가공<\/b>기술 이론 및 제조실습과 시제품 코칭 과정을 추가로 운영할 계획이다. 신회용 농업기술센터 소장은 “이번 교육을 통해 농업인들이 가공창업의 꿈에 한걸음... ",
+			"pubDate":"Wed, 27 Jul 2022 14:54:00 +0900"
+		},
+		{
+			"title":"가격 인상 뒤 탈세. 자녀는 법인명의 7억 슈퍼카…국세청, 민생침해 탈세혐의...",
+			"originallink":"https:\/\/www.khan.co.kr\/economy\/economy-general\/article\/202207271452001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003162690?sid=101",
+			"description":"<b>식품<\/b> 도매업체를 운영하는 A씨는 K-푸드 유행으로 수요가 급증하자 가격을 인상하며 사주 자녀 명의... 특히 A사 대표는 실제 근무하지 않은 자녀에게 수억원의 연봉을 지급하는 등 <b>가공<\/b> 경비를 계상해 법인세를 탈루했다.... ",
+			"pubDate":"Wed, 27 Jul 2022 14:53:00 +0900"
+		},
+		{
+			"title":"천영기 통영시장, 민선8기 출범 기자 간담회 개최",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006872",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006872",
+			"description":"이 밖에도 KTX 역세권 개발 박차, 굴 껍데기 등 처리 재활용 관련 예산 확대 지원, 수산<b>가공<\/b><b>식품<\/b> 연구개발 및 <b>가공<\/b>산업 고도화, 마리나 비즈센터 조기 건립, 근대역사문화공간 재생활성화사업 정상 추진, 통영 특색에 맞는... ",
+			"pubDate":"Wed, 27 Jul 2022 14:52:00 +0900"
+		},
+		{
+			"title":"사천시, <b>식품<\/b> 관련 업체 방역수칙 특별점검",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20220727500184",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20220727500184",
+			"description":"사진\/사천시 사천시는 코로나19 재유행에 대응해 <b>식품<\/b>제조<b>가공<\/b>업체 및 즉석판매제조<b>가공<\/b>업체에 대한 특별방역과 여름철 <b>식품<\/b> 사고 예방 안전관리 특별점검을 진행한다고 27일 밝혔다. 시는 지난 25일부터 5주간... ",
+			"pubDate":"Wed, 27 Jul 2022 14:52:00 +0900"
+		},
+		{
+			"title":"[포토] 농협 하나로마트 '국산 쌀 <b>가공<\/b><b>식품<\/b> 모음전'",
+			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2022\/07\/27\/2022072700128.html",
+			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2022\/07\/27\/2022072700128.html",
+			"description":"뉴데일리 이종현 기자 = 농협 하나로마트가 최근 쌀값 하락으로 어려움을 겪는 농민들을 위해 하나로마트 양재점에서 오는 28일 부터 8월 10일까지 14일간 살맛 나는 가격으로 준비한 '국산 쌀 <b>가공<\/b><b>식품<\/b> 모음전'을... ",
+			"pubDate":"Wed, 27 Jul 2022 14:48:00 +0900"
+		},
+		{
+			"title":"상주시 돌나라 한농복구회 '스타팜 힐링캠프' 3년 만에 열려 ‘북적북적’",
+			"originallink":"http:\/\/www.breaknews.com\/912040",
+			"link":"http:\/\/www.breaknews.com\/912040",
+			"description":"돌나라 오아시스 체험관 1층에는 토종단지에서 진열해 놓은 유기농산물과 <b>가공<\/b><b>식품<\/b>을 구입하는 사람들로 북적였다. 그리고 오늘 행사를 주관한 발효의 꽃을 피우는... ",
+			"pubDate":"Wed, 27 Jul 2022 14:48:00 +0900"
+		},
+		{
+			"title":"사천해경, 유통기한 지난 수입 손질황태 유통업자 검거",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2022072714302499281?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002252986?sid=102",
+			"description":"2명)을 <b>식품<\/b>위생법 위반 혐의로 입건, 지난 15일 1명에 대한 구속영장이 발부했다고 27일 밝혔다. 이들 중 2명은 수입·<b>가공<\/b>·유통 영업장을 함께 운영한 것으로 확인했다. A씨 등은 부산시 소재 냉동창고에 보관돼 있는... ",
+			"pubDate":"Wed, 27 Jul 2022 14:46:00 +0900"
+		},
+		{
+			"title":"유통기한 지난 수입 황태채 15톤 <b>가공<\/b>·판매 일당 검거",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755262",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006243955?sid=102",
+			"description":"55톤을 <b>가공<\/b> 후 판매하거나 보관해 온 일당을 검거했다고 27일 밝혔다. A씨(43) 등 5명은 유통기한이 지나 폐기해야 할 황태채를 유통 판매 및 보관해 지난 15일 <b>식품<\/b>위생법 위반 혐의로 입건됐다. 이들은 부산시 소재... ",
+			"pubDate":"Wed, 27 Jul 2022 14:45:00 +0900"
+		},
+		{
+			"title":"단국대 &quot;생선 머리뼈로 아토피치료제 개발한다&quot;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958219&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011329618?sid=102",
+			"description":"강현 교수는 “수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수 폐기되고 있다”며... 이어 &quot;아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재... ",
+			"pubDate":"Wed, 27 Jul 2022 14:40:00 +0900"
+		},
+		{
+			"title":"3년 새 5배 커진 새벽배송 시장 롯데 철수, 네이버 참전… 배송전쟁 ‘2라운드...",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=661509&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004996973?sid=004",
+			"description":"CJ대한통운이 배송을 맡고 취급 품목은 과일·채소 등 신선제품, 치즈·버터·우유 등 유제품, 베이컨·소시지 등 <b>가공<\/b> 육류제품 등으로 한정했다. 달걀, 채소, 육류 등 신선<b>식품<\/b>을 포함한 전체 음식료 온라인 시장 규모는... ",
+			"pubDate":"Wed, 27 Jul 2022 14:31:00 +0900"
+		},
+		{
+			"title":"의성군, 2022년도 'K-웰니스 브랜드 대상' 수상",
+			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2022072714232375849",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000836830?sid=102",
+			"description":"군에 따르면 K-웰니스 푸드&amp;투어리즘 페어는 한국웰니스산업협회가 주최하고, 농림축산<b>식품<\/b>부... 다양하게 <b>가공<\/b>되어 소비자들을 찾고 있다. 김주수 의성군수는 &quot;그동안의 웰니스 관광 인프라구축과 웰니스 산업육성... ",
+			"pubDate":"Wed, 27 Jul 2022 14:30:00 +0900"
+		},
+		{
+			"title":"&lt;단독&gt; 부여군의회, 부여군농업회의소 존치 심각하게 고민",
+			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=925196",
+			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=925196",
+			"description":"부여군농업회의소는 ▲식량분과 ▲<b>식품가공<\/b>·유통분과 ▲축수산분과 ▲친환경분과 ▲농업기술분과 ▲원예특작분과 ▲첨단농업분과 ▲산림분과 ▲농업정책분과 등 9개 분과회의를 두고있다. 그동안 부여군농업회의소는... ",
+			"pubDate":"Wed, 27 Jul 2022 14:30:00 +0900"
+		},
+		{
+			"title":"동해시, ‘우수 <b>식품<\/b>제조업체’ 선정",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2022072711161557642?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002252975?sid=102",
+			"description":"한편 위생관리 등급평가는 ‘HACCP(해썹)’ 의무 인증 대상이 아닌 ‘<b>식품<\/b>제조<b>가공<\/b>업체’의 위생·품질관리 능력을 평가해 차등 관리함으로써 효율적인 위생관리는 물론 제조업체의 자율적 위생관리 수준을 향상하고자... ",
+			"pubDate":"Wed, 27 Jul 2022 14:29:00 +0900"
+		},
+		{
+			"title":"유통기한 지난 황태, ‘손질 먹태’로 둔갑시켜 판 일당 검거",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022072714151891046",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005124143?sid=102",
+			"description":"경남 사천해양경찰서는 43세 A 씨 등 5명을 <b>식품<\/b>위생법 위반 혐의로 입건하고 지난 15일 1명에 대한 구속영장이 발부됐다고 27일 밝혔다. 이들 중 2명은 수입·<b>가공<\/b>·유통 영업장을 함께 운영한 것으로 확인된다고 덧붙였다.... ",
+			"pubDate":"Wed, 27 Jul 2022 14:28:00 +0900"
+		},
+		{
+			"title":"'락토핏' 종근당건강, 간편식 도전...'테이스틴' 론칭",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220727000646",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220727000646",
+			"description":"'단백질 다이닝밀'은 최소화된 <b>가공<\/b> 과정을 통해 얻은 원물 단백질 15~20g을 함유하고 있으며 식이섬유 함량도 강화했다. '단백질 곤약밥'은 저칼로리 <b>식품<\/b>의 대표인 곤약을 비롯해 두부 크럼블 등 다양한 원재료로... ",
+			"pubDate":"Wed, 27 Jul 2022 14:20:00 +0900"
+		},
+		{
+			"title":"&quot;온라인 플랫폼에 기반한 농산물 유통 활성화 정책 필요해&quot;",
+			"originallink":"http:\/\/www.bokuennews.com\/news\/article.html?no=219108",
+			"link":"http:\/\/www.bokuennews.com\/news\/article.html?no=219108",
+			"description":"소비자들은 온라인 채널이 구매 편리성, 가격 저렴성, 구매 <b>식품<\/b> 안전성, 고객 대응 등의 측면에서... 위한 <b>가공<\/b>시설, 소포장, 꾸러미 등에 대한 보완이 필요하다고 밝혔다. 유통 부문에서는 '온라인 플랫폼 기반의 광역... ",
+			"pubDate":"Wed, 27 Jul 2022 14:14:00 +0900"
+		},
+		{
+			"title":"단국대, '수산부산물 활용' 아토피치료제 개발 나서...'국내 최초'",
+			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=264332",
+			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=264332",
+			"description":"강현 교수는 &quot;수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수 폐기되고 있다&quot;며... 아울러 &quot;아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재... ",
+			"pubDate":"Wed, 27 Jul 2022 14:14:00 +0900"
+		},
+		{
+			"title":"[카드뉴스] 경기 양주시 주요뉴스 (7월 27일)",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509801",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509801",
+			"description":"인․허가사항 △<b>식품<\/b>위생 관련 법규 등으로 구성됐다. 모집대상은 관내 농업인 또는 농산물 <b>가공<\/b>창업에 관심있는 양주시민이라면 누구나 가능하며, 다만 관내 농업인을 우선선발한다. ▣ 양주시새마을회, 화재사고... ",
+			"pubDate":"Wed, 27 Jul 2022 14:12:00 +0900"
+		},
+		{
+			"title":"경북 의성군, 2022 K-웰니스 브랜드 대상 수상",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006845",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006845",
+			"description":"‘2022 K-웰니스 푸드 &amp; 투어리즘 페어’는 (사)한국웰니스산업협회가 주최하고 농림축산<b>식품<\/b>부... 다양하게 <b>가공<\/b>되어 소비자들을 찾고 있다. 김주수 의성군수는 “그동안의 웰니스 관광 인프라구축과 웰니스 산업육성... ",
+			"pubDate":"Wed, 27 Jul 2022 14:08:00 +0900"
+		},
+		{
+			"title":"단국대 국내최초 '수산부산물 활용' 아토피치료제 개발 나서",
+			"originallink":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=423767",
+			"link":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=423767",
+			"description":"강현 교수는 &quot;수산물 어획\/<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수 폐기되고 있다&quot;며... 강 교수는 아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품\/건강기능<b>식품<\/b>\/화장품 소재 연구에도... ",
+			"pubDate":"Wed, 27 Jul 2022 14:06:00 +0900"
+		},
+		{
+			"title":"[인터뷰] “RE100 달성, 내년 4월 가능”…김대연 한국엡손 이사",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20220727500178",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20220727500178",
+			"description":"엡손 로봇은 반송, 조립, <b>가공<\/b>, 검사 등 다양한 제조 공정에서 적용되고 있다. 추후 엡손 로봇은 성능과... <b>식품<\/b>, 서비스, 의료 분야 등 다양한 산업군에도 엡손 로봇이 적용 중이다. 고정밀... ",
+			"pubDate":"Wed, 27 Jul 2022 13:54:00 +0900"
+		},
+		{
+			"title":"[포토]농협 하나로마트 &quot;쌀 <b>가공<\/b><b>식품<\/b> 반값에 들여가세요&quot;",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006842",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006842",
+			"description":"농협 하나로마트 &quot;쌀 <b>가공<\/b><b>식품<\/b> 반값에 들여가세요&quot; 농협 하나로마트를 운영하고 있는 농협유통은 최근 쌀값 하락으로 어려움을 겪는 농민들을 위해 하나로마트 양재점에서 오는 28일부터 내달 10일까지 ‘국산 쌀... ",
+			"pubDate":"Wed, 27 Jul 2022 13:54:00 +0900"
+		},
+		{
+			"title":"&quot;누룽지 등 최대 50% 할인&quot;...농협유통, 국산 쌀 <b>가공<\/b><b>식품<\/b> 모음전 실시",
+			"originallink":"http:\/\/www.thekpm.com\/news\/articleView.html?idxno=130074",
+			"link":"http:\/\/www.thekpm.com\/news\/articleView.html?idxno=130074",
+			"description":"27일 서울시 서초구에 위치한 하나로마트 양재점에서 모델들이 국산 쌀 소비촉진을 위한 '국산 쌀 <b>가공<\/b><b>식품<\/b>(라이스에이드) 모음전'을 소개하고 있다. 즉석밥, 쌀국수컵, 쌀부침가루, 고추장 등 국산 쌀 <b>가공<\/b><b>식품<\/b>을 최대... ",
+			"pubDate":"Wed, 27 Jul 2022 13:52:00 +0900"
+		},
+		{
+			"title":"&quot;우리 농가에 힘 보탠다&quot;… 허영인 SPC 회장의 '우리밀' 사랑",
+			"originallink":"http:\/\/www.newswell.co.kr\/news\/articleView.html?idxno=7106",
+			"link":"http:\/\/www.newswell.co.kr\/news\/articleView.html?idxno=7106",
+			"description":"지난해 12월 농림축산<b>식품<\/b>부와 '국산밀 소비 활성화 협약'을 체결하고 국산밀을 활용한 신제품을 개발해... \/사진=SPC그룹 SPC그룹은 2008년 국산밀 전문 <b>가공<\/b>업체 '밀다원'을 인수하며 국산밀 사업을 시작했다. 이후 군산... ",
+			"pubDate":"Wed, 27 Jul 2022 13:52:00 +0900"
+		},
+		{
+			"title":"사천시, <b>식품<\/b> 관련 업체 방역수칙 점검 실시",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006828",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006828",
+			"description":"사천시, <b>식품<\/b> 관련 업체 방역수칙 점검 실시 경남 사천시가 코로나19 재유행에 따라 <b>식품<\/b>제조<b>가공<\/b>업체 및 즉석판매제조<b>가공<\/b>업체에 대한 특별방역과 여름철 <b>식품<\/b> 사고 예방 안전관리 특별점검을 실시한다. 시는 지난... ",
+			"pubDate":"Wed, 27 Jul 2022 13:52:00 +0900"
+		},
+		{
+			"title":"경주 박람회에 참가한 강원도 사회적경제기업은 어디?",
+			"originallink":"https:\/\/www.eroun.net\/news\/articleView.html?idxno=29137",
+			"link":"https:\/\/www.eroun.net\/news\/articleView.html?idxno=29137",
+			"description":"2013년부터 지역 특산물을 활용한 다양한 가공식품을 선보이고 있는 아라리한과농원은 도라지, 생강 등을 직접 재배ㆍ수확해 원액, 한과, 약과, 조청류 등 전통<b>식품 가공<\/b>을 하고 있습니다. 또한, 황기 조청 제조 등에... ",
+			"pubDate":"Wed, 27 Jul 2022 13:50:00 +0900"
+		},
+		{
+			"title":"단국대 국내최초 수산부산물 활용 아토피 치료제 개발 나서",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2145044",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2145044",
+			"description":"강 교수는 &quot;수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수 폐기되고 있다&quot;며... 또 &quot;아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재 연구에도... ",
+			"pubDate":"Wed, 27 Jul 2022 13:44:00 +0900"
+		},
+		{
+			"title":"강현 단국대 임상병리학과 교수, 국내최초 수산부산물 활용 아토피치료제 개발...",
+			"originallink":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=62469",
+			"link":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=62469",
+			"description":"강현 단국대 임상병리학과 교수는 &quot;수산물 어획·<b>가공<\/b> 과정에서 연 85만톤의 수산부산물이 발생하지만 대다수... 한편 그는 아토피 피부염 치료제 개발과 더불어 수산부산물을 활용해 의약품·건강기능<b>식품<\/b>·화장품 소재... ",
+			"pubDate":"Wed, 27 Jul 2022 13:36:00 +0900"
+		},
+		{
+			"title":"사천시, <b>식품<\/b> 관련 업체 방역수칙 점검 실시",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580362",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580362",
+			"description":"경남 사천시는 코로나19가 재유행함에 따라 <b>식품<\/b>제조<b>가공<\/b>업체 및 즉석판매제조<b>가공<\/b>업체에 대한 특별방역과 여름철 <b>식품<\/b> 사고 예방 안전관리 특별점검을 실시한다고 27일 밝혔다. 시는 지난 25일부터 5주간 특별점검을... ",
+			"pubDate":"Wed, 27 Jul 2022 13:32:00 +0900"
+		},
+		{
+			"title":"농협유통, 국산 쌀 <b>가공<\/b><b>식품<\/b> 모음전 실시",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5498705",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006243631?sid=101",
+			"description":"= 27일 서울 서초구 하나로마트 양재점에서 모델들이 국산 쌀 소비촉진을 위한 '국산 쌀 <b>가공<\/b><b>식품<\/b>(라이스에이드) 모음전'을 소개하고 있다. 이번 모음전에서는 즉석밥, 쌀국수컵, 쌀부침가루, 고추장 등 국산 쌀... ",
+			"pubDate":"Wed, 27 Jul 2022 13:08:00 +0900"
+		},
+		{
+			"title":"농협유통, ‘국산 쌀 <b>가공<\/b><b>식품<\/b> 모음전’ 진행",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5498707",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006243629?sid=101",
+			"description":"= 27일 서울 서초구 하나로마트 양재점에서 모델들이 국산 쌀 소비촉진을 위한 '국산 쌀 <b>가공<\/b><b>식품<\/b>(라이스에이드) 모음전'을 소개하고 있다. 이번 모음전에서는 즉석밥, 쌀국수컵, 쌀부침가루, 고추장 등 국산 쌀... ",
+			"pubDate":"Wed, 27 Jul 2022 13:08:00 +0900"
+		},
+		{
+			"title":"농협유통 '쌀 <b>가공<\/b><b>식품<\/b>이 다 모였다'",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5498706",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006243630?sid=101",
+			"description":"= 27일 서울 서초구 하나로마트 양재점에서 모델들이 국산 쌀 소비촉진을 위한 '국산 쌀 <b>가공<\/b><b>식품<\/b>(라이스에이드) 모음전'을 소개하고 있다. 이번 모음전에서는 즉석밥, 쌀국수컵, 쌀부침가루, 고추장 등 국산 쌀... ",
+			"pubDate":"Wed, 27 Jul 2022 13:08:00 +0900"
+		},
+		{
+			"title":"[신팔도명물]통영 바닷장어…바다의 스테미너 보양식",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022072617593611781",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000768337?sid=103",
+			"description":"이 같은 생태만 보더라도 최고의 강정<b>식품<\/b>으로 꼽기에 손색이 없다. 영양성분에서도 바닷장어는 단백질을... 또 아예 특제 간장양념을 묻혀 바로 구워 먹을 수 있도록 <b>가공<\/b>한 제품도 선보이고 있다. 근해통발수협 이충경... ",
+			"pubDate":"Wed, 27 Jul 2022 13:06:00 +0900"
+		},
+		{
+			"title":"2022 해양수산 창업 콘테스트, 내달 11일까지 모집",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268ONMZVF5",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004080826?sid=101",
+			"description":"한편, 대표적인 창업 성공 사례로는 ‘저요오드 해조류 <b>가공<\/b><b>식품<\/b>’ 아이템으로 2018년 아이디어 학생부문 대상을 수상한 Yo_od팀이 있다. 2019년 ㈜씨위드를 설립하고 해양수산부의 사업화 자금 및 컨설팅 지원, 해양수산... ",
+			"pubDate":"Wed, 27 Jul 2022 13:05:00 +0900"
+		},
+		{
+			"title":"동해시, ‘우수 <b>식품<\/b>제조업체’ 8개소 선정",
+			"originallink":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=584354",
+			"link":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=584354",
+			"description":"한편 위생관리 등급평가는 ‘HACCP(해썹)’ 의무 인증 대상이 아닌 ‘<b>식품<\/b>제조<b>가공<\/b>업체’의 위생·품질관리 능력을 평가해 차등 관리함으로써 효율적인 위생관리는 물론 제조업체의 자율적 위생관리 수준을 향상하고자... ",
+			"pubDate":"Wed, 27 Jul 2022 13:00:00 +0900"
+		},
+		{
+			"title":"[포토] 농협유통, 국산 쌀 <b>가공<\/b><b>식품<\/b> 최대 50% 할인",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02512486632398784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005278117?sid=101",
+			"description":"27일 서울 서초구 하나로마트 양재점에서 모델들이 국산 쌀 소비촉진을 위한 “국산 쌀 <b>가공<\/b><b>식품<\/b>(라이스에이드) 모음전”을 소개하고 있다. 살 맛나는 가격으로 준비한 “국산 쌀 <b>가공<\/b><b>식품<\/b> 모음전”에서는 즉석밥... ",
+			"pubDate":"Wed, 27 Jul 2022 12:40:00 +0900"
+		},
+		{
+			"title":"[포토] 농협유통, 국산 쌀 <b>가공<\/b><b>식품<\/b> 모음전",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02509206632398784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005278116?sid=101",
+			"description":"27일 서울 서초구 하나로마트 양재점에서 모델들이 국산 쌀 소비촉진을 위한 “국산 쌀 <b>가공<\/b><b>식품<\/b>(라이스에이드) 모음전”을 소개하고 있다. 살 맛나는 가격으로 준비한 “국산 쌀 <b>가공<\/b><b>식품<\/b> 모음전”에서는 즉석밥... ",
+			"pubDate":"Wed, 27 Jul 2022 12:39:00 +0900"
+		},
+		{
+			"title":"종근당건강, 건강 간편식 브랜드로 <b>식품<\/b>사업 진출",
+			"originallink":"http:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=88360",
+			"link":"http:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=88360",
+			"description":"'단백질 다이닝밀'은 최소화된 <b>가공<\/b> 과정을 통해 얻은 원물 단백질 15~20g을 함유하고 있으며 식이섬유 함량도 강화했다. '단백질 곤약밥'은 저칼로리 <b>식품<\/b>의 대표인 곤약을 비롯해 두부 크럼블 등 다양한 원재료로... ",
+			"pubDate":"Wed, 27 Jul 2022 12:34:00 +0900"
+		},
+		{
+			"title":"해남군, 여왕의 과일 ‘무화과’ 본격 수확",
+			"originallink":"http:\/\/www.newscj.com\/article\/20220727580285",
+			"link":"http:\/\/www.newscj.com\/article\/20220727580285",
+			"description":"생과 뿐 아니라 잼, 말랭이, 식초, 즙으로도 <b>가공<\/b>해 판매한다. 클레오파트라가 즐겨 먹어 ‘여왕의 과일’로 불리는 무화과는 알칼리성 건강<b>식품<\/b>으로 항암효과가 주목받고 있으며 풍부한 섬유질과 단백질 분해요소가... ",
+			"pubDate":"Wed, 27 Jul 2022 12:32:00 +0900"
+		},
+		{
+			"title":"전남 수산<b>가공<\/b>품 생산액 1조6773억 달성…2년 연속 전국 1위",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017316123&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001542593?sid=102",
+			"description":"이런 가운데 전남도는 수산물의 고부가가치화를 통한 수산<b>식품<\/b>산업의 글로벌 경쟁력 강화를 위해 지난해 제2차 수산<b>가공<\/b>·유통산업 발전 종합계획을 수립해 추진하고 있다. 이에 따라 2026년까지 <b>가공<\/b>·유통 분야별... ",
+			"pubDate":"Wed, 27 Jul 2022 12:25:00 +0900"
+		}
+	]
+}

@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:00 +0900",
+	"total":12233,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"전시기 <b>오락<\/b> 담론과 이동연극",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78403200",
+			"description":"The Wartime Recreation Discourse and Traveling Theatre in Colonial Korea 이동연극은 문자 해득력과 문화적 경험이 계급"
+		},
+		{
+			"title":"한국청소년의 일본대중문화매체 접촉 및 태도에 관한 연구 : 일본번역만",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10651184",
+			"description":"  I. 서론=43,41,4\nII. 연구문제=47,45,3\nIII. 연구 방법=49,47,1\n 1. 자료와 표집=49,47,2\n 2. 종속변인=50,48,4\n 3. 독"
+		},
+		{
+			"title":"TV <b>오락<\/b> 프로그램의 건강정보 실천에 미치는 영향에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12547042",
+			"description":"Study on the Influence of Health Information from TV -Amusement Programs on Practice of Health Behavior 방송 프로그램 중 <b>오락<\/b> "
+		},
+		{
+			"title":"인구구조 변화가 <b>오락<\/b>문화 서비스 소비지출에 미치는 영향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874232178",
+			"description":"The impacts of demographic change on entertainment culture service consumption expenditure 본 논문은 인구구조 변화가 <b>오락<\/b>"
+		},
+		{
+			"title":"시청자와 공영방송의 편성 전략: 대중<b>오락<\/b>과 뉴스 저널리즘을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289891378",
+			"description":"Public Broadcast Programming and Viewers: Focusing on Popular Entertainment Programs and News Journalism This paper examines programmin"
+		},
+		{
+			"title":"송대 도시민 <b>오락<\/b>문화의 형성과 발전 -남송 임안 도시민 <b>오락<\/b>문화의 상",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630727176",
+			"description":"The formation and development of civil amusement culture in the Song dynasty -Focused on the marketisation of civil amusement culture i"
+		},
+		{
+			"title":"연산군의 신체활동과 취미·<b>오락<\/b> 및 놀이가국가와 백성들에게 미친 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289916337",
+			"description":" 본 연구는 15세기 조선의 제10대 왕인 연산군이 국정운영으로 인한 스트레스를 어떻게 극복했으며, 과"
+		},
+		{
+			"title":"식민지기 `<b>오락<\/b> 부재(不在)` 담론의 양상",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232967554",
+			"description":"A Study on the “Absence of Entertainment” Discussion of Chosun Colonized 본고의 목적은 식민지기 조선인의 <b>오락<\/b>문제"
+		},
+		{
+			"title":"전시기 조선총독부의 <b>오락<\/b>정책과 그 특징",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177920147",
+			"description":""
+		},
+		{
+			"title":"소셜미디어에서의 정치적 상호작용 참여와 정당지지 의도에 미치는 유",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843050342",
+			"description":"Exploring the Effects of the Uses of YouTube’s News·Current Affairs and Entertainment Contents on Political Interactions on Social M"
+		},
+		{
+			"title":"12세기 남중국 독서인의 <b>오락<\/b>과 유흥 (12世紀 南中國 讀書人의 <b>오락<\/b>과 유",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595094068",
+			"description":"The Reader's Game and Entertainment in Southern China in the 12th Century 송대는 농업생산력이 증가하고 수공업이 발전"
+		},
+		{
+			"title":"중국 유학생의 한국 드라마 및 <b>오락<\/b> 프로그램 몰입 결정 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594141652",
+			"description":" 본 연구는 한국 TV 드라마에 따른 한국 내 중국 유학생들의 프로그램 몰입을 결정하는 요인이 무엇인"
+		},
+		{
+			"title":"정서적 허기인가 정보와 <b>오락<\/b>의 추구인가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=714730932",
+			"description":""
+		},
+		{
+			"title":"친구들과의 노는 시간과 컴퓨터\/게임기 <b>오락<\/b>시간이 아동의 또래애착에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=644832065",
+			"description":"The Effects of Children's Playtime with Peers and Computer\/Game Console Entertainment Time on Peer Attachment: Focused on Children in S"
+		},
+		{
+			"title":"송대 도시민 <b>오락<\/b>문화의 형성과 발전 - 남송 임안 도시민 <b>오락<\/b>문화의 상",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=609229460",
+			"description":"The formation and development of civil amusement culture in the Song dynasty - Focused on the marketisation of civil amusement culture "
+		},
+		{
+			"title":"친구들과의 노는 시간과 컴퓨터\/게임기 <b>오락<\/b>시간이 아동의 또래애착에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=644923764",
+			"description":"The Effects of Children s Playtime with Peers and Computer\/Game Console Entertainment Time on Peer Attachment: Focused on Children in S"
+		},
+		{
+			"title":"청소년의 컴퓨터 <b>오락<\/b>추구 행동을 예측하기 위한 신경망 활용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595033491",
+			"description":" 본 연구에서는 신경망을 활용하여 청소년의 컴퓨터 <b>오락<\/b>추구 행동을 설명하는 예측모형을 조사하고"
+		},
+		{
+			"title":"청소년의 컴퓨터 <b>오락<\/b>추구 행동을 예측하기 위한 신경망 활용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58326835",
+			"description":"Application of the Neural Network to Predict the Adolescents' Computer Entertainment Behavior 본 연구에서는 신경망을 활용"
+		},
+		{
+			"title":"무라야마 지준(村山智順) 『조선의 향토<b>오락<\/b>(朝鮮の鄕土娛樂)』을 통해 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=638313856",
+			"description":"Study of the Situations of the Traditional Plays in the Pyeongannam-do Region Viewed through Chijun Murayama’s Indigenous Entertainme"
+		},
+		{
+			"title":"천담망락범<b>오락<\/b>주의사조적특정、위해급응대 (浅谈网络泛娱乐主义思潮",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896420887",
+			"description":" 随着互联网技术的发展和新兴媒介的快速涌现,泛娱乐主义日益呈现出与网络的紧密结合,出现泛娱乐主"
+		},
+		{
+			"title":"베이지안 추론을 이용한 컴퓨터 <b>오락<\/b>추구 행동 예측 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594553068",
+			"description":" 본 연구에서는 컴퓨터 <b>오락<\/b>추구 행동의 예측 분석을 목적으로 한국아동 청소년패널조사(KCYPS) 데이터"
+		},
+		{
+			"title":"<b>오락<\/b>프로그램 편성비율 규제의 쟁점과 프로그램 분류체계의 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16416436",
+			"description":"  목차\n<b>오락<\/b>프로그램 편성비율 규제의 쟁점과 프로그램 분류체계의 과제 \/ 김수정 1\n [요약] 1\n 1. 문제"
+		},
+		{
+			"title":"<b>오락<\/b> 프로그램 시청이 여성의 자존감 및 신체 만족감에 미치는 영향: 개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846791925",
+			"description":""
+		},
+		{
+			"title":"베이지안 추론을 이용한 컴퓨터 <b>오락<\/b>추구 행동 예측 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561839959",
+			"description":"An Analysis on Prediction of Computer Entertainment Behavior Using Bayesian Inference 본 연구에서는 컴퓨터 <b>오락<\/b>추구 행동"
+		},
+		{
+			"title":"시석범<b>오락<\/b>화대고교사정과적영향 (试析泛娱乐化对高校思政课的影响)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896366723",
+			"description":" &quot;新时代背景下,高校思政课肩负着重要使命,提升思政课教学质量必须克服泛娱乐化倾向.高校思政课泛"
+		},
+		{
+			"title":"사교매체신문전파범<b>오락<\/b>화적치리로경탐구 (社交媒体新闻传播泛娱乐化",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896332872",
+			"description":" 新媒体时代,由于竞争激烈,一些社交媒体为了获得更多用户,在信息传播时呈现出越来越明显的泛娱乐"
+		},
+		{
+			"title":"TV <b>오락<\/b> 토크쇼의 포맷 차별화 분석: 〈유 퀴즈 온 더 블록〉을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865516902",
+			"description":"An Analysis of Format Differentiation in Television Talk Shows, with a Focus on You Quiz on the Block 본 연구는 코로나19로 인"
+		},
+		{
+			"title":"식민지기 <b>오락<\/b>문제와 전통<b>오락<\/b> 통제에 관한 일고찰 -줄다리기 사례를 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290054527",
+			"description":"A Study on Entertainment and Control of Traditional Plays during the Colonial Period : Focusing on conflict over a tug of war 본고의"
+		},
+		{
+			"title":"<b>오락<\/b>문화 산업의 소비지출에 관한 실증연구 : 인구고령화를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601694054",
+			"description":"Consumption expenditure in the entertainment culture industry : Focusing on population aging effects 본 연구는 회귀분석 모형"
+		},
+		{
+			"title":"방송프로그램의 언어 건전성 평가를 위한 측정도구 개발에 관한 연구: ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420425966",
+			"description":"Development for Measurement of Language Soundness in TV programs 이 논문은 방송언어의 건전성 측정 척도를 개발하고,"
+		},
+		{
+			"title":"<b>오락<\/b>문화 산업의 소비지출에 관한 실증연구 : 인구고령화를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606848977",
+			"description":"Consumption expenditure in the entertainment culture industry : Focusing on population aging effects 본 연구는 회귀분석 모형"
+		},
+		{
+			"title":"TV <b>오락<\/b> 프로그램에 나타나는 자막이 시청자의 인지 반응과 태도에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9396095",
+			"description":"  국문목차\n표제지=0,1,3\n감사의 글=0,4,1\n차례=i,5,4\n표차례=v,9,1\n국문요약=vi,10,4\n제1장 서론=1,14,1\n 1.1 문제"
+		},
+		{
+			"title":"SNS 이용과 정치참여 : 정치적 사회자본과 정보 및 <b>오락<\/b>추구 동기의 조절",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420442701",
+			"description":"The Effects of SNS Use on Political Participation : Focusing on the Moderated Mediation Effects of Politically-Relevant Social Capital "
+		},
+		{
+			"title":"교훈이냐 <b>오락<\/b>이냐? : 『에밀과 탐정들』을 통해 본 아동·청소년문학의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18472152",
+			"description":"  목차\n교훈이냐 <b>오락<\/b>이냐? : 『에밀과 탐정들』을 통해 본 아동·청소년문학의 영화화 \/ 정미경 1\n 1. "
+		},
+		{
+			"title":"현대음악과 <b>오락<\/b>영화의 탈경계적 상상력: 니콜 리제의 ≪타란티노 에튀",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875353706",
+			"description":"Trans-boundary Imagination of Contemporary Music and Entertainment Movie: Studying on ≪Tarantino Études≫ of Nicole Lizeé 본 논"
+		},
+		{
+			"title":"데이터마이닝을 이용한 컴퓨터 <b>오락<\/b>추구 행동 상승의 예측요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594506091",
+			"description":" 본 연구에서는 초등학교 6학년에서부터 중학교 2학년까지의 컴퓨터 <b>오락<\/b>추구 행동 상승을 예측하는 "
+		},
+		{
+			"title":"식민지기 ‘<b>오락<\/b> 부재’ 담론의 양상 (식민지기 ‘<b>오락<\/b> 不在’ 담론의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595064358",
+			"description":"A Study on the “Absence of Entertainment” Discussion of Chosun Colonized 본고의 목적은 식민지기 조선인의 <b>오락<\/b>문제"
+		},
+		{
+			"title":"일제 식민지기 ‘음주 취미’의 통제와 양면성－<b>오락<\/b> 부재(不在)와 음주",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595136427",
+			"description":"Control and Duplicity of ‘Hobby Drinking’ in Colonial Korea－A Study on the Absence of Entertainment and Drinking Issues in Coloni"
+		},
+		{
+			"title":"베이지안 추론을 이용한 컴퓨터 <b>오락<\/b>추구 행동 예측 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877970122",
+			"description":"An Analysis on Prediction of Computer Entertainment Behavior Using Bayesian Inference 본 연구에서는 컴퓨터 <b>오락<\/b>추구 행동"
+		},
+		{
+			"title":"다공능영음실K가영원양불오,만족전가<b>오락<\/b>수구북경천축신신가원 (多功",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841427034",
+			"description":""
+		},
+		{
+			"title":"한국 드라마 및 <b>오락<\/b> 프로그램 시청이 중국인 유학생들의 외모에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595086579",
+			"description":"The Impact of Watching Korean TV Dramas and Entertainment Programs on the Sociocultural Attitude toward Appearance, the Body Image Diss"
+		},
+		{
+			"title":"&quot;20세기80년대&quot;&quot;<b>오락<\/b>편&quot;&quot;토론적전인후과——필자친역적&quot;&quot;<b>오락<\/b>편&quot;&quot;토논여",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=828150542",
+			"description":"&quot;The Discussion and Debates on the &quot;&quot;Entertainment Film&quot;&quot; Witnessed by the Author in the 1980s&quot; &quot;20世纪80年代关于&quot;&quot;娱乐片&quot;&quot;的"
+		},
+		{
+			"title":"<b>오락<\/b>요법이 치매노인의 치매행동 및 정서와 일상생활수행능력에 미치는",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594048685",
+			"description":"   <b>오락<\/b>요법, 치매행동 및 정서, 일상생활수행능력, 치매노인 "
+		},
+		{
+			"title":"<b>오락<\/b> 커뮤니케이션 : '촛불혁명', 분노에서 유희로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561915174",
+			"description":"The Communication of Entertainment : The &quot;Candlelight Revolution&quot;, From Anger to Amusement 허구적인 현실’을 즐기는 놀이"
+		},
+		{
+			"title":"텔레비전 <b>오락<\/b> 프로그램에 나타난 아동권리 침해 : 아동권리 보호를 위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=176756625",
+			"description":" 이 연구는 텔레비전 <b>오락<\/b> 프로그램에서 나타나고 있는 아동권리 침해의 다양한 특성과유형을 다각적"
+		},
+		{
+			"title":"전시신문<b>오락<\/b>화적신특점——이《초급신문장》《신문대구진》위례 (电",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=701562028",
+			"description":""
+		},
+		{
+			"title":"1950년대 <b>오락<\/b>잡지에 나타난 대중소설의 판타지와 문화정치학－『명랑』",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77898853",
+			"description":"The Fantasy and the Cultural Politics of a Popular Novel based on a magazine of the masses's entertainment of the 1950’s - focused on"
+		},
+		{
+			"title":"국내 <b>오락<\/b> 토크쇼 흐름과 소통 형태 및 구조에 대한 연구-자기노출 관점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79129293",
+			"description":"Korean TV Talk Shows Trend from a Self-disclosure Perspective 2011년 종합편성 채널 등장과 함께 본격화된 국내 방송"
+		},
+		{
+			"title":"식민지기 <b>오락<\/b>문제와 전통<b>오락<\/b> 통제에 관한 일고찰-줄다리기 사례를 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846260993",
+			"description":"A Study on Entertainment and Control of Traditional Plays during the Colonial Period : Focusing on conflict over a tug of war 본고의"
+		},
+		{
+			"title":"전시기 조선총독부의 <b>오락<\/b>정책과 그 특징",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880289464",
+			"description":" 본고의 목적은 1938년에 발표된 조선총독부의 <b>오락<\/b>정책을 중심으로, 이것이 어떠한 배경에서 나온 것"
+		},
+		{
+			"title":"전우애의 상징 혹은 파멸적 병기, 폭격기 : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562453158",
+			"description":"  목차\n전우애의 상징 혹은 파멸적 병기, 폭격기 : 김민석의 군사<b>오락<\/b> \/ 김민석 1\n [Title] 1\n 고향으로 가"
+		},
+		{
+			"title":"밀리터리와 대중문화, 그 얽히고설킨 관계 : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562453244",
+			"description":"  목차\n밀리터리와 대중문화, 그 얽히고설킨 관계 : 김민석의 군사<b>오락<\/b> \/ 김민석 1\n [Title] 1\n 잊혀진 역"
+		},
+		{
+			"title":"MBC 뉴스 및 <b>오락<\/b>프로그램 여성 진행자의 외모 이미지에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=670759267",
+			"description":"   Variety (cybernetics), Multimedia, Information technology, Computer science, Beauty "
+		},
+		{
+			"title":"수궤전시절목형태특정여내용적<b>오락<\/b>화소구——이《시신중국》수궤전시",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=752075847",
+			"description":""
+		},
+		{
+			"title":"<b>오락<\/b>프로그램을 통한 전통극 교수ㆍ학습의 한 사례",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442298193",
+			"description":"A Study of Teaching-Learning a Traditional Theater Through an Entertainment Program  〈요약〉\n1. 전통극과 <b>오락<\/b>프로그램의"
+		},
+		{
+			"title":"전설적인 공중전 영화, 'Top Gun' : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561706886",
+			"description":"  목차\n전설적인 공중전 영화, 'Top Gun' : 김민석의 군사<b>오락<\/b> \/ 글: 김민석 1\n [Title] 1\n [머리글] 1\n 탑건 영"
+		},
+		{
+			"title":"망락신식범<b>오락<\/b>화대청소년적영향연구 (网络信息泛娱乐化对青少年的影",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887129622",
+			"description":" 在网络技术飞速发展的今天,网络已经成为我们获取信息、表达观点、抒发感情的重要之地.但网络上的"
+		},
+		{
+			"title":"<b>오락<\/b>문화 산업의 소비지출에 관한 실증연구 : 인구고령화를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879668240",
+			"description":"Consumption expenditure in the entertainment culture industry : Focusing on population aging effects 본 연구는 회귀분석 모형"
+		},
+		{
+			"title":"중국<b>오락<\/b>마주속1신종(지주목:도주과) (中国奥诺玛蛛属1新种(蜘蛛目:跳蛛",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=847370729",
+			"description":"A new species of the spider genus Onomastus Simon,1900 from China(Araneae:Salticidae) 记述了采自中国广东的奥诺玛蛛属Onom"
+		},
+		{
+			"title":"역사상 가장 참혹한 전장, 스탈린그라드 전투 : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562453180",
+			"description":"  목차\n역사상 가장 참혹한 전장, 스탈린그라드 전투 : 김민석의 군사<b>오락<\/b> \/ 김민석 1\n [Title] 1\n 200만 명"
+		},
+		{
+			"title":"연예·<b>오락<\/b> 프로그램 방송 언어에 대한 시청자 인식 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=175283857",
+			"description":"Audience Perception of Broadcasting Language on Entertainment Programs 본 연구는 연예·<b>오락<\/b> 프로그램 방송 언어에 대"
+		},
+		{
+			"title":"구어화표체여<b>오락<\/b>화소구:단시빈시이어언탐석 (口语化表达与娱乐化诉求",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896473384",
+			"description":" &quot;UGC模式背景下,手机如同笔墨,影像如同文字,视听语言成为日常用语.&quot;&quot;短、平、快&quot;&quot;的短视频重新定义"
+		},
+		{
+			"title":"몽타주 기법을 활용한 다목적 <b>오락<\/b> 공간 계획에 관한 연구 -디자인 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879284056",
+			"description":"A Study on the use of Montage in Entertainment Space -The development of Montage technique in design   experience, Montage, entertainme"
+		},
+		{
+			"title":"사교매체범<b>오락<\/b>화적영향급치리책략연구 (社交媒体泛娱乐化的影响及治",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866540640",
+			"description":" 新媒体时代,社交平台成了大众表达自我和了解世界的重要工具,但是由于市场逻辑的大举进军、传播权"
+		},
+		{
+			"title":"무라야마 지준(村山智順) 『조선의 향토<b>오락<\/b>(朝鮮の鄕土娛樂 )』을 통해",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846385903",
+			"description":"Study of the Situations of the Traditional Plays in the Pyeongannam-do Region Viewed through Chijun Murayama’s Indigenous Entertainme"
+		},
+		{
+			"title":"&quot;종전시절목범<b>오락<\/b>화전파간&quot;&quot;오요지사&quot;&quot;&quot; (&quot;从电视节目泛娱乐化传播看&quot;&quot;",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=827523163",
+			"description":""
+		},
+		{
+			"title":"최고의 전쟁놀이 장난감 G.I Joe : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561706993",
+			"description":"  목차\n최고의 전쟁놀이 장난감 G.I Joe : 김민석의 군사<b>오락<\/b> \/ 김민석 1\n [Title] 1\n [머리글] 1\n 인형을 가지"
+		},
+		{
+			"title":"영화 '지옥의 묵시록'과 헬리본 부대 : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561706908",
+			"description":"  목차\n영화 '지옥의 묵시록'과 헬리본 부대 : 김민석의 군사<b>오락<\/b> \/ 글: 김민석 1\n [Title] 1\n [머리글] 1\n 전"
+		},
+		{
+			"title":"치명적인 미래전을 다룬 소설,『유령함대』 : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561707013",
+			"description":"  목차\n치명적인 미래전을 다룬 소설,『유령함대』 : 김민석의 군사<b>오락<\/b> \/ 글: 김민석 1\n [머리글] 1\n 군"
+		},
+		{
+			"title":"연경화、<b>오락<\/b>화수단시부회성위영소신상태? (年轻化、娱乐化手段是否会",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=832237045",
+			"description":""
+		},
+		{
+			"title":"가정용 <b>오락<\/b>기기의 가치 요소 도출 및 분석을 통한 가정용 <b>오락<\/b>기기의 So",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290088478",
+			"description":"A Study of Home Entertainment Solution Trend Forecasting by Home Entertainment Value Deduction and Analyzing 디지털 융복합이 진"
+		},
+		{
+			"title":"망락직파범<b>오락<\/b>화대청소년적영향여인도연구 (网络直播泛娱乐化对青少",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887200228",
+			"description":" 网络直播是一种信息传播的方式,也是一个全新的娱乐文化现象.然而,一个行业异军突起的背后,问题也"
+		},
+		{
+			"title":"토르가 망치 대신 M4를 들다! 영화 '12 솔져스' : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561585495",
+			"description":"  목차\n토르가 망치 대신 M4를 들다! 영화 '12 솔져스' : 김민석의 군사<b>오락<\/b> \/ 글: 김민석 1\n [머리글] 1\n 영"
+		},
+		{
+			"title":"강남대중<b>오락<\/b>문화여명청통속소설적굴기——겸륜명대통속소설사“근량",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=726493706",
+			"description":""
+		},
+		{
+			"title":"충분만족가인적일상영음<b>오락<\/b>수구북경향강화원별서 (充分满足家人的日",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841425996",
+			"description":""
+		},
+		{
+			"title":"스포츠<b>오락<\/b> 방송 프로그램의 상황적 호기심이 스포츠태도 및 스포츠 참",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=720978137",
+			"description":""
+		},
+		{
+			"title":"중국 TV 방송의 <b>오락<\/b>프로그램 현황과 규제에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=531937205",
+			"description":"Research on the present situation and regulation of Chinese TV entertainment programs 21세기에 들어서면서 경제 글로벌 시"
+		},
+		{
+			"title":"<b>오락<\/b> 프로그램 유형과 VOD 시청 관계에 대한 탐색적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879995768",
+			"description":" 본 연구는 <b>오락<\/b> 프로그램 유형 및 이와 같은 유형이 VOD 시청에 미치는 영향을 살펴보기 위한 것이다. "
+		},
+		{
+			"title":"《일생적여정》:<b>오락<\/b>제국적사이적성공밀마 (《一生的旅程》:娱乐帝国",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=831312092",
+			"description":"&quot;&quot;&quot;The Journey of a Lifetime&quot;&quot;: The Code of Success for the Entertainment Empire Disney&quot;    "
+		},
+		{
+			"title":"1980년대 미국영화에 나타난 가상공간의 원형성 : &lt;트론&gt;과 &lt;전자<b>오락<\/b>의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561622429",
+			"description":"An Archetype of Cyber-space of American Movies in 1980s : focused on ≪Tron≫ and ≪The Wizard≫ 가상공간은 네트워크 기"
+		},
+		{
+			"title":"캐주얼 밀리터리 게임의 교과서, 카운터 스트라이트 : 김민석의 군사오",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561706973",
+			"description":"  목차\n캐주얼 밀리터리 게임의 교과서, 카운터 스트라이트 : 김민석의 군사<b>오락<\/b> \/ 글: 김민석 1\n [Title] "
+		},
+		{
+			"title":"데이터마이닝을 이용한 컴퓨터 <b>오락<\/b>추구 행동 상승의 예측요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879843357",
+			"description":"Predicting Factors on the Increase in Computer Entertainment Behavior with Data Mining 본 연구에서는 초등학교 6학년에서"
+		},
+		{
+			"title":"<b>오락<\/b>프로그램을 통한 전통극 교수ㆍ학습의 한 사례",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78376334",
+			"description":"A Study of Teaching-Learning a Traditional Theater Through an Entertainment Program 이 연구는 구술성과 <b>오락<\/b>성을 중심으"
+		},
+		{
+			"title":"<b>오락<\/b>프로그램 자막언어의 특징과 문제점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442206133",
+			"description":"A Characteristic and Problem of Caption Language on TV Program  1. 서론\n2. <b>오락<\/b>프로그램 자막언어의 연구 경향\n3. &lt;효"
+		},
+		{
+			"title":"1960년대 기계<b>오락<\/b>문화현상과 전(前)게임기의 맥락",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880790075",
+			"description":"Mechanical Amusement Culture Phenomenon and the Context of Pre-Game Period in 1960s 본 연구의 목적은 전(前)게임기의 사회"
+		},
+		{
+			"title":"2017년 최대 히트 게임 '배틀그라운드' 속 무기들 : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561585444",
+			"description":"  목차\n2017년 최대 히트 게임 '배틀그라운드' 속 무기들 : 김민석의 군사<b>오락<\/b> \/ [글·사진]: 김민석 1\n [머"
+		},
+		{
+			"title":"최고의 밀리터리 e-스포츠 게임, 레인보우 식스 시즈 : 김민석의 군사오",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561706933",
+			"description":"  목차\n최고의 밀리터리 e-스포츠 게임, 레인보우 식스 시즈 : 김민석의 군사<b>오락<\/b> \/ 글: 김민석 1\n [Title] "
+		},
+		{
+			"title":"TV <b>오락<\/b> 프로그램의 표절 요소 분석에 대한 탐색적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630777364",
+			"description":"A Study on the Plagiarism Factor Analysis of TV Entertainment Formats: Cases of Korean &amp; Chinese Similar Formats  1. 서론\n\n2. 이론"
+		},
+		{
+			"title":"<b>오락<\/b> 프로그램 유형과 VOD 시청 관계에 대한 탐색적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845734407",
+			"description":"An Explorative Study of the Relationship between Types of Entertainment Programs and Viewing Behaviors of VOD Programs 본 연구는 "
+		},
+		{
+			"title":"한국 드라마 및 <b>오락<\/b> 프로그램 시청이 중국인 유학생들의 외모에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880285559",
+			"description":"The Impact of Watching Korean TV Dramas and Entertainment Programs on the Sociocultural Attitude toward Appearance, the Body Image Diss"
+		},
+		{
+			"title":"육·해·공 전투의 종합선물세트 '워 썬더' : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561585473",
+			"description":"  목차\n육·해·공 전투의 종합선물세트 '워 썬더' : 김민석의 군사<b>오락<\/b> \/ 글: 김민석 1\n [머리글] 1\n 2차 "
+		},
+		{
+			"title":"재한(在韓) 중국유학생 한국 TV <b>오락<\/b> 프로그램 유형별 진행자 선호도에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845510614",
+			"description":" 본 연구는 한국TV<b>오락<\/b> 프로그램과 진행자, 진행자와 수용자의 상관관계에 대한 이해를 기본으로 중국"
+		},
+		{
+			"title":"책과 영화뿐만 아니라 게임으로도 등장한 '블랙호크 다운' : 김민석의 군",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561585460",
+			"description":"  목차\n책과 영화뿐만 아니라 게임으로도 등장한 '블랙호크 다운' : 김민석의 군사<b>오락<\/b> \/ 글: 김민석 1\n "
+		},
+		{
+			"title":"전투감각과 지휘력을 시험한다 : 분대 전술 게임 :김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291899364",
+			"description":"  목차\n전투감각과 지휘력을 시험한다 : 분대 전술 게임 : 김민석의 군사<b>오락<\/b> \/ 김민석 1\n [Title] 1\n 잠입 "
+		},
+		{
+			"title":"무라야마 지준(村山智順) 『조선의 향토<b>오락<\/b>(朝鮮の鄕土娛樂 )』을 통해",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=643131259",
+			"description":"Study of the Situations of the Traditional Plays in the Pyeongannam-do Region Viewed through Chijun Murayama’s Indigenous Entertainme"
+		},
+		{
+			"title":"사회주의핵심개치관대범<b>오락<\/b>주의적교정궤리연구 (社会主义核心价值观",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887148213",
+			"description":"Study on the Modification Mechanism of Pan Entertainment based on Core Socialist Values &quot;泛娱乐主义作为我国近年来出现的"
+		},
+		{
+			"title":"데이터마이닝을 이용한 컴퓨터 <b>오락<\/b>추구 행동 상승의 예측요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291041893",
+			"description":"Predicting Factors on the Increase in Computer Entertainment Behavior with Data Mining 본 연구에서는 초등학교 6학년에서"
+		},
+		{
+			"title":"재한 중국인 유학생들의 한국 미디어의 <b>오락<\/b> 콘텐츠 이용이 문화변용에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887525648",
+			"description":"The Effects of Uses of Korean Media Entertainment Contents on Acculturatioion among Chinese Students in Korea : Focusing on TV and port"
+		},
+		{
+			"title":"평안시대문학에 나타난 <b>오락<\/b>과 놀이문화 연구 (平安時代文學에 나타난 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41606026",
+			"description":""
+		},
+		{
+			"title":"밀리터리 게임의 은둔고수, 보헤미아 인터랙티브 : 김민석의 군사<b>오락<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561585425",
+			"description":"  목차\n밀리터리 게임의 은둔고수, 보헤미아 인터랙티브 : 김민석의 군사<b>오락<\/b> \/ [글·사진]: 김민석 1\n ["
+		}
+	]
+}

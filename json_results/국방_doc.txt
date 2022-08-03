@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:20 +0900",
+	"total":90952,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>국방<\/b>전력지원체계의 효과적 운용을 위한 정책·제도 발전방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650690093",
+			"description":"  목차\n<b>국방<\/b>전력지원체계의 효과적 운용을 위한 정책·제도 발전방향 \/ 장원준 ; 송재필 1\n 요약 1\n 1. 서"
+		},
+		{
+			"title":"<b>국방<\/b>정책연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1065118",
+			"description":""
+		},
+		{
+			"title":"주간<b>국방<\/b>논단",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1043796",
+			"description":""
+		},
+		{
+			"title":"한국<b>국방<\/b>경영분석학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5664",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b>과기술",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=867",
+			"description":""
+		},
+		{
+			"title":"공공갈등해결에 관한 담론연구 : <b>국방<\/b>갈등 사례를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650606191",
+			"description":"The study of discourse in public conflict resolution : focusing on the cases of national defense conflict  표제지\n요약\n목차\n제1"
+		},
+		{
+			"title":"새 '<b>국방<\/b>혁신' 정책 논의 활성화를 통한 <b>국방<\/b>력 강화방안 모색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896682509",
+			"description":"  목차\n새 '<b>국방<\/b>혁신' 정책 논의 활성화를 통한 <b>국방<\/b>력 강화방안 모색 \/ 김부년 1\n [머리글] 1\n '<b>국방<\/b>혁신"
+		},
+		{
+			"title":"미군정 법령체제와 <b>국방<\/b>경비법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13276539",
+			"description":"The Legal System under the American Military Occupation and the Legality of the Articles for the Government of Korean Constabulary   th"
+		},
+		{
+			"title":"<b>국방<\/b>품질",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=64217",
+			"description":""
+		},
+		{
+			"title":"2022년 미국 <b>국방<\/b>예산의 주요 특징 및 시사점 - 태평양억제구상(PDI)을 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896262071",
+			"description":""
+		},
+		{
+			"title":"쿼드 정상회의의 결과와 한국 <b>국방<\/b>전략에 대한 함의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896262074",
+			"description":""
+		},
+		{
+			"title":"미국의 국가전략 관련 최근 동향 : 바이든 행정부의 <b>국방<\/b>전략 변화를 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889962179",
+			"description":"  목차\n미국의 국가전략 관련 최근 동향 : 바이든 행정부의 <b>국방<\/b>전략 변화를 중심으로 \/ 오민 1\n I. 들어"
+		},
+		{
+			"title":"'강한 안보, 자랑스러운 군, 함께하는 <b>국방<\/b>'",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889982888",
+			"description":"  목차\n'강한 안보, 자랑스러운 군, 함께하는 <b>국방<\/b>' \/ 서욱 1\n [본문] 1 국군장병, <b>국방<\/b>운용능력, <b>국방<\/b>정"
+		},
+		{
+			"title":"<b>국방<\/b>과학기술정보",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=869",
+			"description":""
+		},
+		{
+			"title":"“행정치리부빈”여반빈곤적중<b>국방<\/b>안——회응오신협교수 (“行政治理",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=659487396",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b> AI 플랫폼 개발을 위한 제언",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897326562",
+			"description":"  <b>국방<\/b> 플랫폼 개발을 위한 제언 AI \n1. 서론\n2. AI <b>국방<\/b> 플랫폼이란\n3. 우리의 현주소\n4. AI <b>국방<\/b> 플랫폼의 "
+		},
+		{
+			"title":"<b>국방<\/b>학술논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=63026",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b>정보시스템 구축 사업의 성과 제고를 위한 연구 - <b>국방<\/b>획득정보시스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898491282",
+			"description":"A Study on the Performance Improvement of Defense Information System Construction Project - Focusing on the Defense Acquisition Informa"
+		},
+		{
+			"title":"비화 모바일 네트워크 기반 Dex 활용 <b>국방<\/b> 클라우드 VDI와 DaaS 적용 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897763557",
+			"description":"Application Methods for the Desktop-as-a-Service (DaaS) on the Virtual Desktop Infrastructure (VDI) of the National Defense Cloud Syste"
+		},
+		{
+			"title":"<b>국방<\/b> 인공지능 모델 기술과제 분석과 발전방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898390741",
+			"description":" 본 연구는 <b>국방<\/b> 인공지능 모델이 가져야 할 기술과제를 분석하고 그 해결방안을 제안하는 것을 목적"
+		},
+		{
+			"title":"<b>국방<\/b> 군수분야 설명가능 인공지능 도입 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891396607",
+			"description":""
+		},
+		{
+			"title":"휴대전화를 활용한 내부고발과 <b>국방<\/b>정책 의제설정 변화: 토픽모델링 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891396625",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b> 분야",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841649777",
+			"description":"  목차\n<b>국방<\/b> 분야 \/ 김경곤 1\n [본문] 1 <b>국방<\/b>분야예산, 병력운영비, <b>국방<\/b>개혁2.0 "
+		},
+		{
+			"title":"<b>국방<\/b>개혁 2.0, 스마트 <b>국방<\/b>혁신 정책 방향 제시 : 안보환경 진단 등 <b>국방<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841645091",
+			"description":"  목차\n<b>국방<\/b>개혁 2.0, 스마트 <b>국방<\/b>혁신 정책 방향 제시 : 안보환경 진단 등 <b>국방<\/b>정책 소개 \/ 맹수열 1\n ["
+		},
+		{
+			"title":"<b>국방<\/b> 신속획득제도의 한계와 개선 방안: 신기술 활용의 통합적 관리 문",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891396623",
+			"description":""
+		},
+		{
+			"title":"추동군민융합심도발전적전략거조——대관철《관우경제건설화<b>국방<\/b>건설",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=721232756",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b>분야 인공지능 저변화를 위한 대한민국 <b>국방<\/b> 인공지능 추진전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877223135",
+			"description":"The AI Promotion Strategy of Korea Defense for the AI Expansion in Defense Domain 최근 인공지능은 민간분야에서는 급속"
+		},
+		{
+			"title":"<b>국방<\/b>전략서 작성의 이론과 실제 : 미국과 영국 <b>국방<\/b>전략서가 한국에 주",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843049723",
+			"description":"Writing the ROK’s National Defense Strategy: Theories and Practices 본 연구는 한국의  <b>국방<\/b>전략서 신설 필요성과 작"
+		},
+		{
+			"title":"미·러 관계의 불안정성과 미 <b>국방<\/b>전략의 딜레마",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891396612",
+			"description":""
+		},
+		{
+			"title":"1990년대 전환기 안보환경과 <b>국방<\/b>정책 연구: 노태우･김영삼 정부를 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881692666",
+			"description":" 안보상황의 전환기였던 1990년대 노태우·김영삼 정부시기의 <b>국방<\/b>정책을 안보환경의 변화에 주목하여"
+		},
+		{
+			"title":"<b>국방<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2133368",
+			"description":""
+		},
+		{
+			"title":"통합적 억제 개념과 미 바이든 행정부의 <b>국방<\/b>전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891396676",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b>리더십저널",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2179920",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b>정보체계 실시간 서비스 통합 방안 연구: <b>국방<\/b> REST API Server 참조모델",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877222985",
+			"description":"Real-time service integration of defense information system: defense REST API server reference model design analysis 본 연구는 repr"
+		},
+		{
+			"title":"전쟁이론과 <b>국방<\/b>개혁: 정당전쟁론을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897471711",
+			"description":"War Theories and Defense Reform 2.0: Focused on the Just War Theory 오늘날 우리와 국경을 마주하고 있는 북한의 핵무"
+		},
+		{
+			"title":"&quot;강한 안보, 자랑스러운 군, 함께하는 <b>국방<\/b> 구현&quot; : <b>국방<\/b>부, 2021년 <b>국방<\/b> 업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841645146",
+			"description":"  목차\n&quot;강한 안보, 자랑스러운 군, 함께하는 <b>국방<\/b> 구현&quot; : <b>국방<\/b>부, 2021년 <b>국방<\/b> 업무보고 발표 \/ 맹수열 1"
+		},
+		{
+			"title":"<b>국방<\/b>정보시스템 구축 사업의 성과 제고를 위한 연구 : <b>국방<\/b>획득정보시스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897471637",
+			"description":"A Study on the Performance Improvement of Defense Information System Construction Project : Focusing on the Defense Acquisition Informa"
+		},
+		{
+			"title":"대국민 <b>국방<\/b>정보서비스 성과 영향요인에 관한 실증연구-<b>국방<\/b>표준종합정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865842607",
+			"description":"An Empirical Study of Performance Influencing factors on Public Defense Information System : Focusing on Defense Standard Information S"
+		},
+		{
+			"title":"한국의 대 중동 <b>국방<\/b>외교에 관한 연구:알제리를 중심으로 (한국의 對 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822316793",
+			"description":"  &lt;목 차&gt; 제1장 서론 1.1. 연구의 목적 및 문제제기 1.2. <b>국방<\/b>외교 제2장 한국의 대 중동 외교 2.1. 한국의 "
+		},
+		{
+			"title":"한국 <b>국방<\/b>정책 경로의존성에 관한 연구: <b>국방<\/b>목표를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843061879",
+			"description":"A Study on Path Dependence of Korean Defense Policy: Focused of Defense Goal 본 연구의 목적은 한국 <b>국방<\/b>정책의 경로의"
+		},
+		{
+			"title":"AHP 기법을 적용한 <b>국방<\/b>정보시스템 보호를 위한 사이버전 교육 방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=154003299",
+			"description":"Research on cyber warfare manpower training strategy for securing Defense Information System using AHP analysis 본 논문은 사이버"
+		},
+		{
+			"title":"쿼드(Quad) 국가 간 신흥기술 협력과 <b>국방<\/b> 분야에의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891409434",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b>부장관 주관, ‘제1차 <b>국방<\/b>과학기술위원회’ 개최 : <b>국방<\/b>과학기술의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879900880",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b>분야 표준화 업무의 발전을 위한 <b>국방<\/b> 표준서 개선방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842510080",
+			"description":" 군수품의 품질보증을 위해 개발단계부터 운영유지단계까지 전순기 규격관리가 필요하다. 개발단계"
+		},
+		{
+			"title":"기동 전략의 논리로 본 미국의 인도 태평양 전략: 미국의 대동맹국 <b>국방<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891409666",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b>중기계획 단계에서 방위산업육성을 고려하려면",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891409435",
+			"description":""
+		},
+		{
+			"title":"문재인정부 국정백서(<b>국방<\/b>_제17권 평화를 뒷받침하는 강한 <b>국방<\/b>)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890474063",
+			"description":"  제1편 책임<b>국방<\/b>, 강한 안보\n\n제2편 <b>국방<\/b>개혁 2.0을 통한 튼튼한 <b>국방<\/b>태세 확립 \n제1장 <b>국방<\/b>개혁 2.0 실"
+		},
+		{
+			"title":"<b>국방<\/b> 정보통신 기반체계 발전방향 : IP 네트워크를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=128441236",
+			"description":"  목차\n<b>국방<\/b> 정보통신 기반체계 발전방향 : IP 네트워크를 중심으로 \/ 김한경 1\n 개요 1\n IP 네트워크의 "
+		},
+		{
+			"title":"<b>국방<\/b> 분야의 민간화 의미와 정책설계 논리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891409437",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b> ICT 체제의 보안전략에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881870356",
+			"description":"Security Strategy in the ICT-based National Defense <b>국방<\/b>개혁 2.0의 주요 내용은 <b>국방<\/b>의 물적, 인적자원 관리의 변"
+		},
+		{
+			"title":"<b>국방<\/b> 교육훈련을 위한 게임 효과분석 및 활용방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887530479",
+			"description":"Effectiveness Analysis and Utilization of Game System for Military Education and Training <b>국방<\/b>에서 교육훈련의 목표는 적과"
+		},
+		{
+			"title":"북한 <b>국방<\/b>과학의 정책과 전망 : <b>국방<\/b>과학기술을 통한 북한의 <b>국방<\/b>개혁",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630798306",
+			"description":"  목차\n북한 <b>국방<\/b>과학의 정책과 전망 : <b>국방<\/b>과학기술을 통한 북한의 <b>국방<\/b>개혁 \/ 양욱 1\n I. 머리말 1\n II. "
+		},
+		{
+			"title":"<b>국방<\/b>강소벤처 Tech-Fi Net을 활용한 <b>국방<\/b>특허기술 민간이전 활성화 방안 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896403329",
+			"description":"A Study on A Measure on National Defense Patent Technology Transfer Activation Using Tech-Fi Net 최근 기술의 시장 내 경쟁이 "
+		},
+		{
+			"title":"이스라엘 군사전략과 <b>국방<\/b>획득체계에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884700194",
+			"description":"A Study of Israel’s Military Strategy and Defense Acquisition System 이스라엘 군은 4차례의 중동전쟁과 수차례의 대"
+		},
+		{
+			"title":"&quot;디지털 강군·스마트 <b>국방<\/b> 구현 앞당겨야&quot; : 문재인 대통령, <b>국방<\/b>과학연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650675789",
+			"description":"  목차\n디지털 강군·스마트 <b>국방<\/b> 구현 앞당겨야 : 문재인 대통령 ; <b>국방<\/b>과학연구소 방문 \/ 이주형 1\n ["
+		},
+		{
+			"title":"<b>국방<\/b>과학기술혁신 촉진법 제정에 따른 <b>국방<\/b> R&amp;D의 도전적·혁신적 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=645554774",
+			"description":"  목차\n<b>국방<\/b>과학기술혁신 촉진법 제정에 따른 <b>국방<\/b> R&amp;D의 도전적·혁신적 변화 \/ 김상모 1\n 그간의 <b>국방<\/b> "
+		},
+		{
+			"title":"<b>국방<\/b>도면 관리 프로그램을 활용한 전자문서화 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880410041",
+			"description":""
+		},
+		{
+			"title":"첨단 전력 증강과 안정적인 <b>국방<\/b>운영에 집중 : <b>국방<\/b>중기계획, 무엇이 담",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650675809",
+			"description":"  목차\n첨단 전력 증강과 안정적인 <b>국방<\/b>운영에 집중 : <b>국방<\/b>중기계획 ; 무엇이 담겼나 \/ 맹수열 1\n 방위"
+		},
+		{
+			"title":"&quot;국민 신뢰받고, 군심 하나로 모으는 <b>국방<\/b>정책으로 강군 실현&quot; : 한기호 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765789384",
+			"description":"  목차\n국민 신뢰받고, 군심 하나로 모으는 <b>국방<\/b>정책으로 강군 실현 : 한기호 <b>국방<\/b>위원회 간사(국민의"
+		},
+		{
+			"title":"독일 <b>국방<\/b>감독관 제도의 운영실태와 그 함의 : <b>국방<\/b>감독관 연례 보고서 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843054248",
+			"description":"The State of the Wehrbeauftragte des Deutschen Bundestages and its Implications 내적지휘의 산증인인 독일 <b>국방<\/b>감독관은 "
+		},
+		{
+			"title":"특별회계 <b>국방<\/b> 시설사업의 효율적인 사업추진을 위한 고려사항",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891409439",
+			"description":""
+		},
+		{
+			"title":"비용분석과 원가산정 환류를 통한 <b>국방<\/b>획득사업 비용분석의 신뢰성 향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889238316",
+			"description":"Improving Defense Acquisition Program Cost Analysis through Cost Estimating-Accounting Feedback System 기획재정부는 <b>국방<\/b>획득"
+		},
+		{
+			"title":"창립 51주년 맞이한 <b>국방<\/b>과학연구소, 첨단 연구소로 도약 : 비닉 및 첨단 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878835698",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b>웰니스 개념을 활용한 <b>국방<\/b>분야 전력지원체계의 우선개선물자 선정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61696686",
+			"description":"Prioritizing the Defense Materials of Force Support System Using the Concept of Army Wellness - The Case of the Development of Design R"
+		},
+		{
+			"title":"<b>국방<\/b> 패러다임 변화에 따른 군인의 가치관 재정립의 필요성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=597649640",
+			"description":"A Study on the Necessity of Re-establishing the Soldier's Values(the soldier spirit) by the Change in the National Defense Paradigm 우"
+		},
+		{
+			"title":"독도 침탈의 의미와 <b>국방<\/b>안보",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896403784",
+			"description":"The Meaning of the Aggression\/Invasion of Dokdo and National Defense Security This study is about the application of the basic principl"
+		},
+		{
+			"title":"<b>국방<\/b>과학연구소, 첨단 <b>국방<\/b>과학기술 선도를 위한 <b>국방<\/b>우주기술센터 출",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877852155",
+			"description":""
+		},
+		{
+			"title":"충북 <b>국방<\/b>벤처센터 개소 : 충북지역 우수 중소 벤처기업 <b>국방<\/b>기술 경쟁",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879579434",
+			"description":""
+		},
+		{
+			"title":"미래<b>국방<\/b>2030기술전략(요약본)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=883029604",
+			"description":"  제1절 요약\n제2절 관련문서\n제3절 인공지능 개요\n제4절 <b>국방<\/b> AI 기술로드맵 요약  "
+		},
+		{
+			"title":"자주<b>국방<\/b>과 안보경제: 박정희, 노무현 정부를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291044135",
+			"description":"The Self-Relient Defense and Security Economy: Focusing on the Park Chung-hee and Roh Moo-hyun Administrations 경제력은 국력의 "
+		},
+		{
+			"title":"강한 <b>국방<\/b>과 국가 경제 발전에 이바지하는 '<b>국방<\/b>과학기술혁신 촉진법'",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=612516639",
+			"description":"  목차\n강한 <b>국방<\/b>과 국가 경제 발전에 이바지하는 '<b>국방<\/b>과학기술혁신 촉진법' \/ 배용근 1\n [머리글] 1\n '"
+		},
+		{
+			"title":"진화하는 사이버 위협과 <b>국방<\/b>의 대응전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878585721",
+			"description":""
+		},
+		{
+			"title":"&quot;디지털 강군·스마트 <b>국방<\/b> 건설 매진&quot; : <b>국방<\/b>부, 연말 <b>국방<\/b>개혁 2.0 및 스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=638381327",
+			"description":"  목차\n디지털 강군·스마트 <b>국방<\/b> 건설 매진 : <b>국방<\/b>부, 연말 <b>국방<\/b>개혁 2.0 및 스마트 <b>국방<\/b>혁신 추진점검"
+		},
+		{
+			"title":"<b>국방<\/b>부, 첨단과학기술군 도약 위한 ‘미래<b>국방<\/b>혁신구상’ 추진 : AI · 무",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878374381",
+			"description":""
+		},
+		{
+			"title":"국가R&amp;D와 <b>국방<\/b>R&amp;D의 연계·협력 강화방안 연구: 기초원천기술의 <b>국방<\/b>핵심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=760882409",
+			"description":"A Study on the Connectivity and Cooperation between the National R&amp;D and the Defense R&amp;D with Focus on the Linkage of the Basic Source "
+		},
+		{
+			"title":"<b>국방<\/b>부, ’22~’26 <b>국방<\/b>중기계획 수립 : 첨단과학기술군으로 도약할 필수 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880722811",
+			"description":""
+		},
+		{
+			"title":"선진국 및 국내 <b>국방<\/b>과학기술 개발 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561815318",
+			"description":"  목차\n선진국 및 국내 <b>국방<\/b>과학기술 개발 동향 \/ 김찬수 1\n [머리글] 1\n 선진국 <b>국방<\/b>과학기술개발 동향 "
+		},
+		{
+			"title":"전통·비전통적 안보위협 동시 대처 능력 강화 : <b>국방<\/b> 업무보고 주요 내",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841645145",
+			"description":"  목차\n전통·비전통적 안보위협 동시 대처 능력 강화 : <b>국방<\/b> 업무보고 주요 내용 \/ 맹수열 1\n [본문] 1 "
+		},
+		{
+			"title":"2021년 <b>국방<\/b>예산 52조8401억 원 확정 : 장병 마스크 등 코로나 예산 새로 반",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841645156",
+			"description":"  목차\n2021년 <b>국방<\/b>예산 52조8401억 원 확정 : 장병 마스크 등 코로나 예산 새로 반영 \/ 맹수열 1\n [본문] 1 "
+		},
+		{
+			"title":"대체복무·일과 후 휴대전화…국민 관심사 세부 설명 : <b>국방<\/b>백서 특별부",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841645089",
+			"description":"  목차\n대체복무·일과 후 휴대전화…국민 관심사 세부 설명 : <b>국방<\/b>백서 특별부록, 무슨 내용 담겼나 \/ "
+		},
+		{
+			"title":"방위산업분야 제조공정에 로봇 투입 : 방진회-로봇산업협회, <b>국방<\/b>기술품",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879418876",
+			"description":""
+		},
+		{
+			"title":"문 대통령 &quot;강한 <b>국방<\/b>이 평화의 기반&quot; 강조 : 문재인 대통령 2021년 업무보",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841645147",
+			"description":"  목차\n문 대통령 &quot;강한 <b>국방<\/b>이 평화의 기반&quot; 강조 : 문재인 대통령 2021년 업무보고 받아 \/ 이주형 1\n [본"
+		},
+		{
+			"title":"19세기 말, 일본의 지정학적 상상력과 <b>국방<\/b>전략에 대한 고찰: 야마가타 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887017614",
+			"description":"A Study of Japanese Geopolitical Imagination and Defense Strategy at the End of 19th Century: Focusing on Idea of Yamagata Aritomo 19"
+		},
+		{
+			"title":"<b>국방<\/b> 우주개발 내실화 위한 핵심기술개발 추진 : 올해 14개 과제에 1,800억",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879166276",
+			"description":""
+		},
+		{
+			"title":"S&amp;T Text Mining을 이용한 <b>국방<\/b> 유망기술 식별에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41647528",
+			"description":"  목차\nS&amp;T Text Mining을 이용한 <b>국방<\/b> 유망기술 식별에 관한 연구 \/ 이태봉 ; 이춘주 1\n 초록 1\n ABSTRACT 1\n 1. "
+		},
+		{
+			"title":"트럼프 행정부의 대한반도 정책 결정에 관한 연구 : <b>국방<\/b>정책 결정요소 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650611063",
+			"description":"A study on the policy making of the Korean Peninsula by the Trump administration : focusing on analysis of defense policy determinants "
+		},
+		{
+			"title":"중국 <b>국방<\/b>과학기술의 컨트롤타워 국가<b>국방<\/b>과기공업국",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880596443",
+			"description":""
+		},
+		{
+			"title":"메타버스의 <b>국방<\/b>분야 구현 방안에 대한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880723706",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b> 인력\/인사관리의 새로운 분석접근, HRAnalytics",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891409446",
+			"description":""
+		},
+		{
+			"title":"방위사업청, 내년 게임체인저 8대 분야 집중 투자 : 미래 군사력 건설의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878755435",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b> 우주력 발전을 위한 국가 R&amp;D 투자 결정 방안 (Weak Signal Detection)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879449206",
+			"description":""
+		},
+		{
+			"title":"메타물질을 이용한 <b>국방<\/b>기술 성능 고도화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880998704",
+			"description":""
+		},
+		{
+			"title":"2022년 <b>국방<\/b> 예산안으로 55조 2,277억 원 편성 : 2021년 대비 4.5% 증가, 경항공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877798195",
+			"description":""
+		},
+		{
+			"title":"<b>국방<\/b>우주력 발전 방향: 정책 및 법령 개선을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891409449",
+			"description":""
+		},
+		{
+			"title":"'국민과 함께 평화를 만드는 강한 <b>국방<\/b>' 구현",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=645562976",
+			"description":"  목차\n'국민과 함께 평화를 만드는 강한 <b>국방<\/b>' 구현 \/ 민홍철 1\n [머리글] 1\n 안보위협 대응 최우선 점검"
+		},
+		{
+			"title":"한미 <b>국방<\/b>협력 범위 확대·심화 : 미래 한미동맹 <b>국방<\/b>비전 요약",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=638381307",
+			"description":"  목차\n한미 <b>국방<\/b>협력 범위 확대·심화 : 미래 한미동맹 <b>국방<\/b>비전 요약 \/ 윤병노 1\n [본문] 1 한미동맹, "
+		},
+		{
+			"title":"김정일 시대 ‘선군경제건설노선’ 연구: ‘<b>국방<\/b>건설’과 ‘경제건설’",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843064967",
+			"description":"A Study on ‘First-Military Economic Construction Route’ in Kim Jong Il’s Age: The Relationship between Defense Construction and E"
+		},
+		{
+			"title":"<b>국방<\/b> 연구개발 ‘지식재산권’, 기업과 공동 소유·활용한다 : <b>국방<\/b> 분야",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880934551",
+			"description":""
+		},
+		{
+			"title":"국가안보를 위한 군 장병 심리기반 <b>국방<\/b>보안 정책 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877221993",
+			"description":"Discussion of Defence Security Policies Based on the Psychology of Military Employees for National Security 우리 군의 보안태세 "
+		},
+		{
+			"title":"<b>국방<\/b>문민화의 본질에 관한 소고: 문민통제 vs <b>국방<\/b>의 효율성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843045962",
+			"description":"The Substance of Civilianization of ROK Defense Ministry : Civilian Control vs. Defense Efficiency <b>국방<\/b>부의 존재 이유는 ‘안"
+		}
+	]
+}

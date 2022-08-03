@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:04 +0900",
+	"total":803,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>금융<\/b>연수원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EA%B8%88%EC%9C%B5%EC%97%B0%EC%88%98%EC%9B%90",
+			"description":"주요사업 <b>금융<\/b>전문 교육과정운영 10개 <b>금융직무<\/b>분야에 걸쳐 집합연수, 통신연수, 사이버연수를 운영하고 있으며, 해당 기관의 특성에 맞게 교과과정을 편성 운영하는 주문형 맞춤연수도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025268&cid=42117&categoryId=42117",
+			"description":" 국내외 경제환경 변화에 대응하여 <b>금융<\/b>산업의 업무조정 및 각종 <b>금융<\/b>제도의 선진화방안을 연구한다. [수행<b>직무<\/b>] <b>금융<\/b>의 자율화와 국제화 등 국내외 경제환경 변화에 따른 <b>금융<\/b>산업 업무영역의 조정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=659510&cid=42152&categoryId=42152",
+			"description":"<b>금융<\/b>위원회의 <b>직무<\/b>는 <b>금융<\/b>산업의 선진화와 <b>금융<\/b>시장의 안정을 꾀하고, 건전한 신용질서와 공정한 <b>금융<\/b>거래 관행의 확립 등에 관한 사무를 수행하는 일이다. <b>금융<\/b>위원회의 조직은 위원장 1명과 부위원장 1명을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>정보분석원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%88%EC%9C%B5%EC%A0%95%EB%B3%B4%EB%B6%84%EC%84%9D%EC%9B%90",
+			"description":"설치 근거 「특정 <b>금융<\/b>거래정보의 보고 및 이용 등에 관한 법률」 제3조제1항 <b>직무<\/b> 특정<b>금융<\/b>거래정보의 보고제도의 기획 및 지침의 수립·운영 특정<b>금융<\/b>거래정보의 보고제도 관련 <b>금융<\/b>기관 등에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>위험관리관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024385&cid=42117&categoryId=42117",
+			"description":" <b>금융<\/b>회사의 이익을 보전하고 손실을 방지하기 위해 <b>금융<\/b>위험 관리계획을 세우고 위험관리업무에 종사하는 종업원들의 활동을 지휘·감독한다. [수행<b>직무<\/b>] <b>금융<\/b>회사 전체의 <b>금융<\/b>위험을 관리하기 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>회사자산운용가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024950&cid=42117&categoryId=42117",
+			"description":" <b>금융<\/b>회사의 고유자산을 안정적으로 유지 및 증식하기 위하여 회사 명의로 각종 <b>금융<\/b>투자 및 부동산투자를 한다. [수행<b>직무<\/b>] <b>금융<\/b>회사(은행, 보험사, 증권회사 등)의 주식, 채권, 선물옵션 및 부동산 등 자산을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>정보분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=659511&cid=42152&categoryId=42152",
+			"description":"<b>금융<\/b>정보분석원의 <b>직무<\/b>는 <b>금융<\/b>기관으로부터의 자금세탁을 방지하고 외화의 불법 유출입에 대처하는 일이다. 즉, 이 기관은 일반 <b>금융<\/b>기관으로부터 자금 세탁관련 혐의거래를 수집·분석하여 불법거래 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>공동망제도기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024978&cid=42117&categoryId=42117",
+			"description":" <b>금융<\/b>공동망 제규약 정비, 전자<b>금융<\/b> 관련 표준화추진, 전자<b>금융<\/b>위원회 등 <b>금융<\/b>공동망 전반에 걸친 기획업무를 담당한다. [수행<b>직무<\/b>] <b>금융<\/b>결제원 업무로서 <b>금융<\/b>공동망업무 관련 사업추진계획을 수립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>기관지역사업부장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024383&cid=42117&categoryId=42117",
+			"description":" 지역사업부 관할 내의 <b>금융<\/b>지점 및 영업점의 업무를 총괄 관리한다. [수행<b>직무<\/b>] <b>금융<\/b>기관(일반은행, 특수은행, 비은행예금취급기관, 보험사, 증권사, 카드사 등)의 각 지역별 영업 및 판매실적을 분석하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행기업<b>금융<\/b>상품개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953581&cid=42117&categoryId=42117",
+			"description":" 은행에서 기업고객이 필요한 자금이 적기에 공급될 수 있도록 기업<b>금융<\/b>상품을 개발한다. [수행<b>직무<\/b>] <b>금융<\/b>시장의 변화 추이를 조사·분석한다. 경쟁 <b>금융<\/b>회사의 상품을 조사·분석한다. 기업고객의 자금수요 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행개인<b>금융<\/b>상품개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024964&cid=42117&categoryId=42117",
+			"description":" 은행에서 <b>금융<\/b>고객의 요구에 부합하는 상품개발전략을 수립·시행하고 고객편의를 제고할 수 있는 제도개선 및 수신 관련 대고객 홍보업무를 기획하며, 개인<b>금융<\/b>업무 전산화를 주관하는 업무를 수행한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>기관지점관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024995&cid=42117&categoryId=42117",
+			"description":" 지역사업부의 관할하에 있는 지점 및 점포의 운영과 실적을 관리하며 영업점교육을 실시하는 업무를 수행한다. [수행<b>직무<\/b>] <b>금융<\/b>기관(일반은행, 특수은행, 비은행예금취급기관, 보험사, 증권사, 카드사 등) 각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>영업점이익관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024603&cid=42117&categoryId=42117",
+			"description":" 영업점 이익계획 수립, 매월 이익관리, 간이경영평가, 경영평가에 대한 손익분석업무를 수행한다. [수행<b>직무<\/b>] <b>금융<\/b>기관(일반은행, 특수은행, 비은행예금취급기관, 보험사, 증권사, 카드사 등)의 각 지역점 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권사구조화<b>금융<\/b>운용원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665333&cid=42117&categoryId=42117",
+			"description":" 증권사에서 구조화<b>금융<\/b>(Structured Finance)을 운용한다. [수행<b>직무<\/b>] 구조화<b>금융<\/b>(Structured Finance:기존의 정형화된 기법이나 과정으로 만족시킬 수 없는 특별한 <b>금융<\/b> 관련 수요에 부응하기 위해 기존 <b>금융<\/b>상품에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인터넷<b>금융<\/b>상품개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024966&cid=42117&categoryId=42117",
+			"description":" 인터넷비즈니스(E-business) 등 신사업 관련 신상품 및 서비스를 개발·운용하는 업무를 수행한다. [수행<b>직무<\/b>] 국내외 인터넷<b>금융<\/b>상품의 정보와 자료를 수집·분석한다. 인터넷 사업정책을 수립한다. 수익성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>자동화기기인식요소개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665038&cid=42117&categoryId=42117",
+			"description":" <b>금융<\/b>자동화기기의 신뢰성 및 효율성을 극대화하기 위해 기기 인식요소의 분석, 개선 및 개발을 위한 연구를 한다. [수행<b>직무<\/b>] 각종 <b>금융<\/b>자동화기기(Automatic Teller Machine) 및 주변장치에 대한 자료를 수집... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권사장외파생<b>금융<\/b>상품운용원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953344&cid=42117&categoryId=42117",
+			"description":" 증권사에서 장외파생<b>금융<\/b>상품을 투자자의 이익을 위하여 정해진 투자목적에 맞게 운용한다. [수행<b>직무<\/b>] 장외파생<b>금융<\/b>상품(거래소를 통하지 않고 쌍방 간의 협정에 따라 거래되는 파생상품)의 구조설계를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>확인서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3333909&cid=51373&categoryId=51373",
+			"description":"주로 <b>금융<\/b>거래시 제출용도로 많이 발급받으며 <b>직무<\/b>와 관련한 교육에 참가하는 경우에도 활용하기도 한다. <b>직무<\/b>확인서의 내용은 현재 <b>직무<\/b>에 관한 내용을 기록하며 재직 근로자의 성명과 담당 업무... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209160724074_DC03TPYZC.jpg\/ba17_37532.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>금융<\/b>기관감독원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024979&cid=42117&categoryId=42117",
+			"description":" <b>금융<\/b>회사 및 자본시장 등에 관하여 검사·감독하며, <b>금융<\/b>소비자를 보호하고 분쟁을 조정한다. [수행<b>직무<\/b>] 은행, 비은행, 증권사, 보험사, <b>금융<\/b>지주회사 등의 인허가 및 경영건전성을 감독한다. <b>금융<\/b>회사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권<b>금융<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025048&cid=42117&categoryId=42117",
+			"description":" 유가증권과 관련된 모든 융자업무(증권<b>금융<\/b>업무)를 담당한다. [수행<b>직무<\/b>] 증권회사에서 실행하는 신용대출, 주식담보대출, 예탁증권담보융자, 주식매도자금대출, <b>금융<\/b>상품담보대출, 공사채를 담보로 하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무역<b>금융<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025000&cid=42117&categoryId=42117",
+			"description":" 은행에서 기업고객의 기업<b>금융<\/b>거래와 연관된 외환거래 및 기업의 영업활동에 수반되는 외환거래업무를 담당한다. [수행<b>직무<\/b>] 외환거래의 법적 적정성 여부를 판단한다. 외환거래 관련 서류를 심사 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자<b>금융<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832884&cid=42117&categoryId=42117",
+			"description":" 텔레뱅킹, PC뱅킹, 인터넷뱅킹 등 전자<b>금융<\/b>서비스 신청에 대한 접수 및 승인, 이용안내 등의 제반 업무를 수행한다. [수행<b>직무<\/b>] 고객이 은행에 나오지 않고 전자매체(PC, 핸드폰, 태블릿PC, 전화기)를 통해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>매매담당원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024970&cid=42117&categoryId=42117",
+			"description":" 투자할 종목이 선정되면 해당 종목에 대해 매매할 타이밍을 결정하여 매수·매도한다. [수행<b>직무<\/b>] 딜링룸(Dealing Room:매매전용사무실)에서 뉴스, 방송 등 각종 통신매체 및 자료를 이용하여 세계<b>금융<\/b>정보를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회적 <b>금융<\/b>가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3578503&cid=58886&categoryId=58886",
+			"description":"유누스가 방글라데시에 1976년에 설립한 사회적 <b>금융<\/b>기관인 그라민은행 &#60;출처: Wikipedia&#62; 시중 <b>금융<\/b>기관은 돈이 필요한 사람이 아니라 돈이 많은 사람들에게 대출을 해준다. 일반적인 <b>금융<\/b>기관이 대출을 해줄... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118175754374_1GDK0TRUH.jpg\/01-1_12.jpg?type=m160_160"
+		},
+		{
+			"title":"녹색<b>금융<\/b>컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024958&cid=42117&categoryId=42117",
+			"description":" 환경개선상품과 서비스에 자금을 제공하여 저탄소 녹색성장을 지원하는 녹색투자<b>금융<\/b>, 녹색보험, 녹색자산관리, 녹색소매<b>금융<\/b>에 대한 컨설팅업무를 수행한다. [수행<b>직무<\/b>] 경제활동 전반에 걸쳐 자원 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>투자분석사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970434&cid=42114&categoryId=42114",
+			"description":" <b>금융<\/b>투자분석사란 한국<b>금융<\/b>투자협회에서 시행하는 <b>금융<\/b>투자분석사 시험에 합격하여 자격을 취득한 자를 말한다. 응시자격에는 제한이 없다. 응시자는 과목별 정답비율이 40% 이상인 자 중에서, 응시... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100945260_V3MKV29QS.jpg\/da6_40_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>금융<\/b>리스크매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024980&cid=42117&categoryId=42117",
+			"description":" 국내외 주식, 선물옵션, 채권, 자금, 외환시장 등에서 시장위험을 인식하여 분석하고 통제하는 일을 수행한다. [수행<b>직무<\/b>] 수학, 통계학, (<b>금융<\/b>)보험학, 경제학, 경영학 등 관련 지식 및 경제동향, 산업전반에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>통화위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%88%EC%9C%B5%ED%86%B5%ED%99%94%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"한은의 독립성을 보장하는 취지에서 금통위 위원은 심신장애나 <b>직무<\/b>상 의무 위반으로 <b>직무<\/b>를 수행할 수 없는 경우가 아니면 자신의 의사에 반하여 해임되지 않는다. 운영 <b>금융<\/b>통화위원회의 회의의 소집과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"미소<b>금융<\/b>신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3382414&cid=42279&categoryId=42279",
+			"description":" 미소<b>금융<\/b>신청서란 미소<b>금융<\/b>제도를 이용하기 위해 작성하는 서식이다.  미소<b>금융<\/b>은 정부가 직접 운영하는 공익<b>금융<\/b>재단으로, 저소득 계층을 대상으로 대출을 진행하는 공공기관이라고 볼 수 있다. 미소<b>금융<\/b>은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510120445716_1EO2MWSEJ.jpg\/hb10_21380_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"은행기업<b>금융<\/b>심사역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024945&cid=42117&categoryId=42117",
+			"description":" 은행에서 기업<b>금융<\/b>고객상담역이 요청한 기업<b>금융<\/b>심사요청서의 적정성 및 기업<b>금융<\/b> 취급가능 여부를 심사한다. [수행<b>직무<\/b>] 기업고객의 계량 및 비계량부문을 분석한다. 기업고객의 사업성(산업 동향 분석... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행기업<b>금융<\/b>상담역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024955&cid=42117&categoryId=42117",
+			"description":" 은행에서 기업고객의 자금수요를 적기에 제공할 수 있도록 기업대출에 관련된 제반실무를 진행한다. [수행<b>직무<\/b>] 기업고객의 경영 상황을 지속적으로 파악 및 분석한다. 국내외 경제동향 및 기업고객이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행기업<b>금융<\/b>상담역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025035&cid=42117&categoryId=42117",
+			"description":" 은행에서 기업고객의 자금수요를 적기에 제공할 수 있도록 기업대출에 관련된 제반 실무를 진행한다. [수행<b>직무<\/b>] 기업고객의 경영상황을 지속적으로 파악 및 분석한다. 국내외 경제동향 및 기업고객이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"파생<b>금융<\/b>상품개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658652&cid=42117&categoryId=42117",
+			"description":" 외환, 예금, 채권, 주식 등과 같은 기초자산으로부터 파생<b>금융<\/b>상품(Financial Derivatives:손실위험을 회피하거나 최소화하여 수익을 확보하도록 거래자에 맞게 각종 <b>금융<\/b>상품을 결합한 <b>금융<\/b>상품)을 개발한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국정책<b>금융<\/b>공사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EC%A0%95%EC%B1%85%EA%B8%88%EC%9C%B5%EA%B3%B5%EC%82%AC",
+			"description":"또 정규 직원으로 뽑힌 한나라당 출신자들은 대부분 기획관리, 홍보 분야 모집을 통해 입사했으나 모집분야와 입사시 <b>직무<\/b>가 상이할 수 있다는 채용 공고문에 따라 향후 보직 순환 업무를 맡게 된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>통화 위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=659512&cid=42152&categoryId=42152",
+			"description":"<b>금융<\/b>통화위원회는 한국은행법에 의해 설립되었으며, 통화·신용정책의 수립, 한국은행 기준금리의... 의장은 한국은행 총재가 맡으며, 의장이 부득이한 사유로 <b>직무<\/b>를 수행할 수 없을 때에는 이 위원회가 미리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수입업무<b>금융<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025012&cid=42117&categoryId=42117",
+			"description":"관련된 <b>금융<\/b>사무를 수행한다. [수행<b>직무<\/b>] 수·출입 무역회사 등 개설의뢰인의 신용장개설신청서를 접수하여 과거수출실적, 세금납부 여부 등을 심사한다. 과거수출실적을 근거로 일정한 산식에 따라 산정된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>금융<\/b>투자협회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EA%B8%88%EC%9C%B5%ED%88%AC%EC%9E%90%ED%98%91%ED%9A%8C",
+			"description":"주요<b>직무<\/b> 종사자 증권시장에 상장되지 아니한 주권의 장외매매거래에 관한 업무 <b>금융<\/b>투자업 관련제도의 조사·연구에 관한 업무 투자자 교육 및 이를 위한 재단의 설립·운영에 관한 업무 <b>금융<\/b>투자업 관련... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행개인<b>금융<\/b>심사역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024943&cid=42117&categoryId=42117",
+			"description":" 은행 개인대출담당자가 요청한 심사요청 내용의 적정성을 판단하여 개인<b>금융<\/b> 취급 여부를 결정한다. [수행<b>직무<\/b>] 개인고객의 신용도 적정성을 검토한다. 개인고객의 자금용도 적정성을 검토한다. 개인고객의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>기관지점관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024384&cid=42117&categoryId=42117",
+			"description":" 지점의 영업활동을 책임지고 대외활동 계획수립 및 이행사항을 점검하며 종업원들의 활동을 지휘·감독한다. [수행<b>직무<\/b>] 각 지점의 예금영업 및 대출영업 등의 영업운영방침 및 예금, 대출업무계획을 수립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행개인<b>금융<\/b>상담역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024953&cid=42117&categoryId=42117",
+			"description":" 은행에서 개인고객이 필요로 하는 자금수요에 맞추어 적기에 대출할 수 있도록 관련 채권보전절차를 거쳐 대출을 실시하며, 대출 조건에 따라 원리금을 회수한다. [수행<b>직무<\/b>] 대출을 요청하는 개인고객의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>대출감정사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025036&cid=42117&categoryId=42117",
+			"description":" 연체 시의 대출금 회수를 위한 대출담보물의 가격을 감정하기 위해 현황을 조사하고 평가한다. [수행<b>직무<\/b>] 창구사무원이나 관계부서로부터 담보물감정의뢰서를 접수한다. 자체처리가 가능한 물건은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행기업<b>금융<\/b>심사보조역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024944&cid=42117&categoryId=42117",
+			"description":" 은행에서 기업<b>금융<\/b>심사역이 기업<b>금융<\/b> 취급가능 여부를 판단할 수 있도록 심사기초자료를 작성한다. [수행<b>직무<\/b>] 기업고객의 계량 및 비계량 부문 분석을 위한 기초자료를 작성한다. 기업고객의 사업성(산업... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>고객관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024994&cid=42117&categoryId=42117",
+			"description":" 고객정보를 분석하여 신규고객을 유치하거나 기존고객을 관리한다. [수행<b>직무<\/b>] 고객을 유치하기 위해 마케팅 프로모션을 기획한다. 기존 고객의 특성을 분석하여 프로모션의 테마를 개발하고 거래를 심화할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>위험모니터링원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024996&cid=42117&categoryId=42117",
+			"description":" 은행 및 증권사의 자산운용과 영업행위과정에서 발생가능한 각종 위험을 모니터링한다. [수행<b>직무<\/b>] 은행 및 증권사에서 운용 중인 고유자산현황을 파악하고 발생가능한 각종 위험을 모니터링한다. 모니터링한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제2<b>금융<\/b>권대출신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383751&cid=42279&categoryId=42279",
+			"description":" 제2<b>금융<\/b>권 대출신청서란 제2<b>금융<\/b>권에 대출을 신청하기 위해 작성하는 서식이다.  대출은 돈이나 물건 따위를 빌리는 것으로, 대체로 <b>금융<\/b>기관에서 기업이나 개인에게 자금을 공급하는 형태를 띄고 있다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122137758_3TP4GLGTT.jpg\/hb10_22718_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"수출업무<b>금융<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025013&cid=42117&categoryId=42117",
+			"description":" 수출환어음 매입 및 사후관리, 신용장 통지 및 신용장 양도 등 수출무역에 관련된 <b>금융<\/b>사무를 수행한다. [수행<b>직무<\/b>] 화환어음(환어음이 첨부되지 않은 선적서류)의 매입 및 추심 등 수출거래약정 및 체결... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권사<b>금융<\/b>상품기획개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024967&cid=42117&categoryId=42117",
+			"description":" 증권사에서 각종 <b>금융<\/b>상품전략을 수립하고 관리·지원한다. [수행<b>직무<\/b>] 증권사에서 취급하는 각종 <b>금융<\/b>상품의 판매전략을 수립한다. 시장 및 경쟁사의 동향을 파악한다. 자사의 중점추진상품을 선정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행기업<b>금융<\/b>상담보조역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024954&cid=42117&categoryId=42117",
+			"description":" 은행에서 기업<b>금융<\/b>고객상담역을 보조·지원하여 기업대출에 관련된 제반실무, 원리금 회수업무, 채권보전 등 사후관리 업무를 담당한다. [수행<b>직무<\/b>] 기업고객의 경영 상황을 지속적으로 파악 및 분석하기 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행기업<b>금융<\/b>상담보조역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953623&cid=42117&categoryId=42117",
+			"description":" 은행에서 기업<b>금융<\/b>고객상담역을 보조·지원하여 기업대출에 관련된 제반 실무, 원리금 회수업무, 채권보전 등 사후관리업무를 담당한다. [수행<b>직무<\/b>] 기업고객의 경영상황을 지속적으로 파악 및 분석하기 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"종합<b>금융<\/b>회사에 관한 법률",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1142582&cid=40942&categoryId=31704",
+			"description":"종합<b>금융<\/b>회사는 법령을 준수하고 재산운용을 건전하게 하며 고객을 보호하기 위하여 임·직원이 <b>직무<\/b>수행에 있어서 따라야 할 내부통제기준을 정하여야 하며, 그 준수여부를 점검하고 조사하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권사장외파생<b>금융<\/b>상품영업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665328&cid=42117&categoryId=42117",
+			"description":" 증권사에서 장외파생<b>금융<\/b>상품 영업활동을 수행한다. [수행<b>직무<\/b>] 수요예측(Book Bilding:업을 공개할 때 공모가격 산정을 위해 주간사가 사전에 공모주식수요를 파악하여 공모가격을 결정하는 제도), 청약... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>산업의 구조개선에 관한 법률",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225460&cid=40942&categoryId=31704",
+			"description":" <b>금융<\/b>산업의 구조개선을 지원하여 <b>금융<\/b>기관 사이의 건전한 경쟁을 촉진하고 <b>금융<\/b>업무의 효율성을 높임으로써 <b>금융<\/b>산업의 균형있는 발전에 이바지하기 위해 제정한 법(일부개정 2009.05.27 법률 제9741호).  1991년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 IMF 구제<b>금융<\/b> 요청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_IMF_%EA%B5%AC%EC%A0%9C%EA%B8%88%EC%9C%B5_%EC%9A%94%EC%B2%AD",
+			"description":"IMF 구제<b>금융<\/b> 사태를 불러일으킨 책임으로 사임했던 강경식 재정경제부 장관은 '환란 사건'의 <b>직무<\/b>유기 등의 혐의로 재판을 받았지만, 무죄판결을 받았다. 집권 여당이었던 신한국당(現 새누리당)의 후보... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 <b>금융<\/b>위원회 부위원장",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B8%88%EC%9C%B5%EC%9C%84%EC%9B%90%ED%9A%8C_%EB%B6%80%EC%9C%84%EC%9B%90%EC%9E%A5",
+			"description":"역할 <b>금융<\/b>위원회 부위원장은 위원장을 보좌하여 소관사무를 처리하고 소속공무원을 지휘·감독하며, 위원장이 사고로 <b>직무<\/b>를 수행할 수 없으면 그 <b>직무<\/b>를 대행한다. 역대 부위원장 <b>금융<\/b>감독위원회 부위원장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 IMF 구제<b>금융<\/b> 요청의 연표",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_IMF_%EA%B5%AC%EC%A0%9C%EA%B8%88%EC%9C%B5_%EC%9A%94%EC%B2%AD%EC%9D%98_%EC%97%B0%ED%91%9C",
+			"description":"김인호 <b>직무<\/b>유기 및 직권남용 혐의 구속 1998년 5월 20일 : 64조 원 규모의 <b>금융<\/b> 구조조정 재원(1차 공적자금) 조달 방안 마련 1998년 6월 5일 : 강경식, 김인호 구속 기소 및 환란 수사 결과 발표... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특정 <b>금융<\/b>거래정보의 보고 및 이용 등에 관한 법률",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6234059&cid=43667&categoryId=43667",
+			"description":" <b>금융<\/b>거래 등을 이용한 자금세탁행위와 공중협박 자금조달행위를 규제하는 데 필요한 특정<b>금융<\/b>거래정보의 보고 및 이용 등에 관한 사항을 규정한 법안이다.  출처: 게티이미지 코리아 '특정 <b>금융<\/b>거래정보의... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTAzMjJfMTMw%2FMDAxNjE2MzkwOTYyNjkw._zSDkV6bQAak1tGx8k1sRvaze09-FS668akzRf8eFL0g.EzIUNdaQaqZvwMjVvBUJqO1A8zK7HbZP3MH_iJVrclYg.JPEG%2FIPiHiGbebJqtqkrP04dKMmKvrDeA.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x359"
+		},
+		{
+			"title":"우정공무원교육원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1205646&cid=40942&categoryId=34632",
+			"description":"타부처 공무원, 별정우체국직원 과정으로 나뉜다. 전문교육은 공통역량, 사업지원, 우편<b>직무<\/b>, <b>금융직무<\/b>, 정보활용·업무정보화, 글로벌 6개 선택 전문과정으로 나뉘며, 특별교육은 정부정책, 핵심역량,",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_380\/20210729090012983_WFWKIOE37.jpg\/10867047.jpg?type=m160_160"
+		},
+		{
+			"title":"우정공무원교육원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=813592&cid=43139&categoryId=43139",
+			"description":" 과학기술정보통신부 우정사업본부 소속의 교육연수기관.  우정공무원교육원은 과학기술정보통신부 소속 우정사업본부 공무원을 대상으로 지식과 기술을 교육하는 교육훈련기관이다. 1900년 11월 1일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"투자권유자문인력",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5666518&cid=40942&categoryId=31830",
+			"description":" 투자권유 및 자문업무를 수행하는 <b>금융<\/b>투자회사 종사자.  투자권유 및 자문업무를 수행하는 <b>금융<\/b>투자회사 종사자를 말한다. 2014년까지는 일반인도 투자권유자문인력이 될 수 있었으나, 투자권유자문인력이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신탁사무관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024391&cid=42117&categoryId=42117",
+			"description":" 신탁업무를 기획·운용하고 총괄 관리한다. [수행<b>직무<\/b>] <b>금융<\/b>, 부동산 등 자산 관련 신탁상품(증권, 채권, 부동산 등)에 대한 정보와 자료를 수집한다. <b>금융<\/b>시장 및 부동산시장의 동향을 분석한다. 신탁보수 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지로자료처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664824&cid=42117&categoryId=42117",
+			"description":" 지로 관련 자료의 접수, 전산처리 및 정정·집계, 결제자료 작성 등 지로자료처리에 관한 업무를 수행한다. [수행<b>직무<\/b>] <b>금융<\/b>결제원 업무로서, 장표지로의 수납은행이나 전자지로의 이체의뢰기관 및 은행이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지로고객관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025072&cid=42117&categoryId=42117",
+			"description":" 각종 지로거래와 특수장표의 이용안내 및 승인, 지로업무 관련 조회 응답 등 지로이용고객 관련 업무를 수행한다. [수행<b>직무<\/b>] <b>금융<\/b>결제원 업무로서, 장표지로에 의해 자금을 수납하고자 하는 기관의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사업자금대출원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025005&cid=42117&categoryId=42117",
+			"description":" 사업자금(PF:Project Finance) 적용 대상사업(SOC:민영화, 구조조정사업 등) 개발, 사업성 검토, 관련 <b>금융<\/b>기법 및 조건의 연구·개발을 실시하여 국내외 <b>금융<\/b>기관의 <b>금융<\/b>지원 참여를 유도하며, 거액이 투자되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교환어음처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024989&cid=42117&categoryId=42117",
+			"description":" 어음(수표 포함)교환 시 입회하여 교환어음 관련 자료를 접수·배부하고, 교환어음 관련 자료를 집계·확인하여 결제자료를 작성하는 업무를 수행한다. [수행<b>직무<\/b>] <b>금융<\/b>결제원 업무로서, 각 은행 간의 수교환... ",
+			"thumbnail":""
+		},
+		{
+			"title":"어음교환제도기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025022&cid=42117&categoryId=42117",
+			"description":" 어음교환제도에 대한 사업추진계획 수립, 제규약 정비 및 업무지도, 지방어음교환소 개폐, 어음교환심사위원회운영, 어음교환회비 산출 등 어음교환업무 전반에 걸친 기획업무를 담당한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정보검색원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024921&cid=42117&categoryId=42117",
+			"description":" <b>금융<\/b>, 경제, 통계, 기술 등의 각종 자료를 검색하여 수정·평가·분석한다. [수행<b>직무<\/b>] <b>금융<\/b>, 경제, 통계, 기술 등 정보수요자의 요구를 정확하게 파악하고, 자료가 수록되어 있는 데이터베이스시스템과의 온라인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지로자료처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025031&cid=42117&categoryId=42117",
+			"description":" 지로 관련 자료의 접수, 전산처리 및 정정·집계, 결제자료 작성 등 지로자료 처리에 관한 업무를 수행한다. [수행<b>직무<\/b>] <b>금융<\/b>결제원 업무로서, 장표지로의 수납은행이나 전자지로의 이체의뢰 기관 및 은행이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지로제도기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025032&cid=42117&categoryId=42117",
+			"description":" 지로업무에 관한 사업추진계획을 수립하고 제 규약을 정비하며 지로업무 이용촉진, 지로운영위원회 운영, 지로회비 산출 등 지로업무 전반에 걸친 기획업무를 수행한다. [수행<b>직무<\/b>] <b>금융<\/b>결제원 업무로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부가가치통신망기획사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024615&cid=42117&categoryId=42117",
+			"description":" 부가가치통신망(VAN:Value Added Network) 업무에 관한 사업추진계획을 수립하고 제 규약을 정비하며 신규업무 발굴추진 및 단말기 수급관리 등 부가가치통신망 업무 전반에 걸친 기획업무를 수행한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부도관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665243&cid=42117&categoryId=42117",
+			"description":" 부도어음과 부도수표의 집중관리, 어음(수표포함, 이하동일) 거래정지정보의 작성 및 제공, 미결제어음 및 부도어음 통보시각 조정, 부도거래자의 제재조치에 관한 업무를 수행한다. [수행<b>직무<\/b>] <b>금융<\/b>결제원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권투자권유자문인력",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3581888&cid=42114&categoryId=42114",
+			"description":"시행기관 : <b>금융<\/b>투자협회 (3) 응시자격 : 제한 있음 (4) 홈페이지 : license.kofia.or.kr [ 2. 자격정보] (1) 증권투자권유자문인력   ① 증권투자권유자문인력이란 관련 투자자보호교육을 사전 이수한 <b>금융<\/b>회사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100929703_28LCI6RNZ.jpg\/da6_817_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"재무위험관리사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%AC%EB%AC%B4%EC%9C%84%ED%97%98%EA%B4%80%EB%A6%AC%EC%82%AC",
+			"description":"경력인증 <b>직무<\/b>대상은 <b>금융<\/b>권의 모든 <b>직무<\/b>, 리서치, 비<b>금융<\/b>권 재무 업무 등 매우 폭넓게 인정하고 있다. 경력인증을 기한내로 실시하지 못하면 최종합격이 취소된다. 같이 보기 en... ",
+			"thumbnail":""
+		},
+		{
+			"title":"준법감시",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2079740&cid=42107&categoryId=42107",
+			"description":"준법감시기능은 <b>금융<\/b>회사 임직원이 <b>직무<\/b>를 수행할 때 법규를 준수해 나가도록 하는 준법감시체계를 마련하고 이를 운영 점검하는 활동을 말하며 준법감시인(Compliance Officer)은 이런 업무에 종사하는 자를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"준법감시(compliance)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6589416&cid=67200&categoryId=67200",
+			"description":"<b>금융<\/b>회사 임직원이 <b>직무<\/b>를 수행할 때 스스로 내부통제 기준을 준수해 나가도록 하는 준법감시체계를 마련하게 된 거죠. 현재 준법감시는 <b>금융<\/b>권뿐 아니라 다양한 영역으로 확대되고 있어요. 클릭하면... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjAxMTdfMjE1%2FMDAxNjQyMzgwNjk1Njk1.swEPMcjh3MHFbVyZEoqfcn_Ev1m4GgcW3cfSIs4iZtQg.B1ieXz3OsGNzSDwuemHQy5P1thnMzgILg0dN3h4rhngg.JPEG%2FIjCF4Se9EhCu9WeElUSMoM8Gk_TY.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x485#c485"
+		},
+		{
+			"title":"자본시장분석가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024946&cid=42117&categoryId=42117",
+			"description":" <b>금융<\/b>산업·<b>금융<\/b>제도의 변화, 금리변동의 전망, 주식·채권 및 파생상품시장의 전망, 현안문제 등을 분석하여 중장기 투자전략 수립에 필요한 기초자료를 제공한다. [수행<b>직무<\/b>] 국내외 <b>금융<\/b>시장의 동향을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수신상품개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953580&cid=42117&categoryId=42117",
+			"description":" 수신상품(<b>금융<\/b>기관이 거래관계에 있는 다른 <b>금융<\/b>기관이나 고객으로부터 받는 신용·예금취급, 채권발행 등)을 개발하고, 수신 관련 제도 개선, 대고객 홍보기획 등의 업무를 수행한다. [수행<b>직무<\/b>] 국내외... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수신제도기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024982&cid=42117&categoryId=42117",
+			"description":" 수신관련 각종 <b>금융<\/b>제도 및 상품연구, 산업<b>금융<\/b>채권 국내신용평가, 영업전략 수립을 통해 수신제도를 기획한다. [수행<b>직무<\/b>] 산업<b>금융<\/b>채권 및 예수금 상품개발, 타<b>금융<\/b>기관과의 수신관련 상품제휴, 파생상품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수신제도기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025010&cid=42117&categoryId=42117",
+			"description":" 수신 관련 각종 <b>금융<\/b>제도 및 상품연구, 산업<b>금융<\/b>채권 국내신용평가, 영업전략 수립을 통해 수신제도를 기획한다. [수행<b>직무<\/b>] 산업<b>금융<\/b>채권 및 예수금 상품개발, 타 <b>금융<\/b>기관과의 수신 관련 상품제휴... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제투자사무관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024382&cid=42117&categoryId=42117",
+			"description":" 국제 투·융자업무, 외환딜링(국제외환시장에서의 은행 간 거래) 및 외화자금관리업무, 해외점포 경영지원업무 등을 총괄 관리한다. [수행<b>직무<\/b>] 국제<b>금융<\/b>정세 및 국제주식·채권보고서, 경제예측, 증권편람... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수뢰",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6137&cid=43659&categoryId=43659",
+			"description":"다만 <b>금융<\/b>기관의 임직원이 <b>직무<\/b>와 관련해 금품을 받는 경우는 특정경제범죄 가중처벌법상의 수재죄에 해당돼 공무원과 같은 형량을 받게 된다. 뇌물액수가 5천만원 이상일 경우 특정범죄가중처벌법에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"외자조달사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025029&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 국제<b>금융<\/b>시장의 자금을 조달·유치하기 위하여 외자조달 전략계획을 수립한다. 국내외 <b>금융<\/b>시장 동향분석, 각국 <b>금융<\/b>제도조사 등을 통해 채권발행전략을 수립하기도 한다. 외국기관 투자가를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장쩌민",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%A5%EC%A9%8C%EB%AF%BC",
+			"description":"경제 개발 장쩌민은 경제에서 전문화하지 않았고 1997년 국가의 경제 관리의 대부분을 총리가 된 주룽지에게 넘기고 아시아 <b>금융<\/b> 위기를 통하여 <b>직무<\/b>에 남아있었다. 그들의 합동 리더십 아래 중국 본토는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경제범죄",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%A0%9C%EB%B2%94%EC%A3%84",
+			"description":"<b>금융<\/b>기관의 임직원이 <b>직무<\/b>에 관하여 금품, 기타 이익을 수수하는 때에 그 수수액이 1천만원 이상인 경우 등을 가중처벌하고 있으며, 수수액이 5천만원 이상인 때에는 더 가중처벌한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"여신제도기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024965&cid=42117&categoryId=42117",
+			"description":" 여신(<b>금융<\/b> 기관에서 고객에게 돈을 빌려 주는 일)제도 개선, 여신상품 개발, 여신 업무절차의 개발·보완 등 여신관련 업무를 총괄적으로 조정·통제하는 업무를 수행한다. [수행<b>직무<\/b>] 여신관련 <b>금융<\/b>제도, 자사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여신제도기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025028&cid=42117&categoryId=42117",
+			"description":" 여신(<b>금융<\/b>기관에서 고객에게 돈을 빌려 주는 일)제도 개선, 여신상품 개발, 여신 업무절차의 개발·보완 등 여신 관련 업무를 총괄적으로 조정·통제하는 업무를 수행한다. [수행<b>직무<\/b>] 여신 관련 <b>금융<\/b>제도, 자사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특정경제범죄가중처벌 등에 관한 법률",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225782&cid=40942&categoryId=31716",
+			"description":" 특정경제범죄에 대한 가중처벌과 그 범죄 행위자에 대한 취업제한 등을 규정함으로써 경제질서를 확립하고 국민경제발전에 이바지하기 위해 제정한 법(1983. 12. 31, 법률 제3693호).  1983년 제정된 뒤 2009년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특정경제범죄 가중처벌 등에 관한 법률",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%8A%B9%EC%A0%95%EA%B2%BD%EC%A0%9C%EB%B2%94%EC%A3%84_%EA%B0%80%EC%A4%91%EC%B2%98%EB%B2%8C_%EB%93%B1%EC%97%90_%EA%B4%80%ED%95%9C_%EB%B2%95%EB%A5%A0",
+			"description":"<b>금융<\/b>기관의 임직원이 <b>직무<\/b>에 관해 금품 등의 이익을 수수·요구 또는 약속하는 등의 행위를 한 때에는 5년 이하의 징역 또는 10년 이하의 자격정지에 처한다. 수수액이 5000만 원 이상이면 무기 또는 10년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수신총괄사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025011&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 중장기수신<b>금융<\/b>업무계획을 수립한다. 수신영업전략회의 및 자금조달전략회의 등을 개최한다. 수신업무와 관련된 각종 보고서를 작성한다. 영업점 마케팅전략을 수립한다. 영업점 교육훈련을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"12세기 이탈리아: 자치 도시",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1007655&cid=62115&categoryId=62115",
+			"description":"도시와 자치 도시 상호간의 연관성은 부인될 수 없을뿐더러, 특히 이는 본질적이라고 할 수 있다. 자치 도시의 탄생과 발전, 그리고 그 변모는 도시의 발전과 변천의 전후 관계에서 이해되어야 하고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1026_000_1\/20120416183058556_S2KESA4TG.jpg\/hf14_33_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"대전지방검찰청 천안지청",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=646118&cid=43124&categoryId=43124",
+			"description":"차장검사는 소속장을 보좌하며, 소속장 유고시 그 <b>직무<\/b>를 대리한다. <b>금융<\/b>·경제범죄전담부(형사제1부)는 천안동남경찰서, 노동청을 수사지휘하며, 공안, 기획, 외사, <b>금융<\/b>, 공무집행방해, 명예훼손, 안전사고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이탈리아 자치 도시의 성립",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1007730&cid=62115&categoryId=62115",
+			"description":"도시와 자치 도시 상호간의 연관성은 부인할 수 없고, 특히 이는 본질적이라고 할 수 있다. 자치 도시의 성립과 발전, 그리고 변모가 도시의 발전과 변천의 전후 관계에서 이해되고 유도되어야 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권사리스크관리역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024985&cid=42117&categoryId=42117",
+			"description":" 증권사에서 발생하는 <b>금융<\/b>리스크를 사전에 점검하거나 실시간 감시한다. [수행<b>직무<\/b>] 리스크 측정 및 평가업무(리스크의 측정 및 보고, 측정의 적정성 평가 및 각종 가정모델 검증, 리스크관리시스템 운영... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행경영전략연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025025&cid=42117&categoryId=42117",
+			"description":" 은행에 소속되어 경영환경 분석 및 예측, 장기발전전략의 연구, 국내외 경제·<b>금융<\/b>·자본시장의 조사 연구 등 은행의 중장기 경영전략 및 기업<b>금융<\/b>, 개인<b>금융<\/b> 등에 대한 연구를 수행한다. [수행<b>직무<\/b>] 은행... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권사준법감시인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024986&cid=42117&categoryId=42117",
+			"description":" 증권사에서 내부통제, 민원처리, 소송, 법제 등 준법감시업무를 수행한다. [수행<b>직무<\/b>] 내부통제기준을 제정 및 개정한다. 법규준수프로그램을 입안하고 관리한다. 내부통제기준 등 법규 준수실태를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"은행경영전략연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025288&cid=42117&categoryId=42117",
+			"description":" 은행에 소속되어 경영환경분석 및 예측, 장기발전전략의 연구, 국내외 경제·<b>금융<\/b>·자본시장의 조사 연구 등 은행의 중장기경영전략 및 기업<b>금융<\/b>, 개인<b>금융<\/b> 등에 대한 연구를 수행한다. [수행<b>직무<\/b>] 은행... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권사투자은행법률자문역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025065&cid=42117&categoryId=42117",
+			"description":" 증권사에서 IB(Investment Bank)업무의 법률자문을 전문적으로 수행한다. [수행<b>직무<\/b>] IB(Investment Bank), 기업공개(IPO), 증자, 회사채 발행, 구조화<b>금융<\/b>(Structured Finance), 인수합병(M&#38;A) 등을 주관하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"투자권유대행인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658689&cid=42117&categoryId=42117",
+			"description":" <b>금융<\/b>투자회사(증권사)와 전속 계약을 맺고 업무위탁을 받아 투자자를 상대로 <b>금융<\/b>투자상품의 매매 또는 투자자문, 투자일임, 신탁계약을 체결하도록 권유한다. [수행<b>직무<\/b>] 투자자와 면담하여 투자권유... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자산유동화증권발행주선사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025040&cid=42117&categoryId=42117",
+			"description":" 기업, <b>금융<\/b>기관의 부실채권 처리, 신용보강, 자금조달 등을 목적으로 기업, <b>금융<\/b>기관이 보유한 유동성이 없는 자산을 증권으로 전환하고 자본시장에서 현금화하는 자산유동화증권 발행... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카드신청서심사사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832851&cid=42117&categoryId=42117",
+			"description":" 각 지점에서 보내온 가맹점가입신청서 및 카드발급신청서를 접수하고 회원자격을 심사하여 발급을 위한 기재사항을 전산으로 입력한다. [수행<b>직무<\/b>] 가맹점가입신청서 및 카드발급신청서를 접수하여 기재하지... ",
+			"thumbnail":""
+		}
+	]
+}

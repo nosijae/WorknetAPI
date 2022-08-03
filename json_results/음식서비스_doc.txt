@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:04 +0900",
+	"total":7505,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"관광지에서의 <b>음식서비스<\/b> 경험이 관광자만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57924420",
+			"description":"Analysis the relations between foodservice experience and tourist satisfaction 한국의 국가 이미지에 대한 조사 결과 조"
+		},
+		{
+			"title":"AHP를 이용한 배달<b>음식 서비스<\/b>품질의 중요도 조사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843036994",
+			"description":"An Investigation on the Importance of Delivery Food Service Quality using AHP 본 연구는 배달<b>음식 서비스<\/b>품질에 대한 주"
+		},
+		{
+			"title":"길거리 <b>음식<\/b>의 <b>서비스<\/b> 품질 속성이 긍정적 감정, 고객만족 및 충성도에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=560429815",
+			"description":"The Effects of Service Quality Attribute of Street food on Customer’s Positive Emotion, Customer Satisfaction and Loyalty 본 연구"
+		},
+		{
+			"title":"AHP를 이용한 배달<b>음식 서비스<\/b>품질의 중요도 조사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879928824",
+			"description":"An Investigation on the Importance of Delivery Food Service Quality using AHP 본 연구는 배달<b>음식 서비스<\/b>품질에 대한 주"
+		},
+		{
+			"title":"배달 <b>음식 서비스<\/b>의 고객 재구매 의사결정 요인에관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651405939",
+			"description":"Analysis of Factors affecting Customer Repurchase Decisions in Food Delivery Services 언택트 시대에 배달 <b>음식<\/b>의 수요가 "
+		},
+		{
+			"title":"배달<b>음식 서비스<\/b>품질 발전방안에 관한 연구 : 프랜차이즈 배달<b>음식<\/b> 서비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562393230",
+			"description":"A Study on Developing better Franchise Delivery Food's Service Quality which influences on Customers' Emotional Response and Franchise "
+		},
+		{
+			"title":"AHP를 이용한 배달<b>음식 서비스<\/b>품질의 중요도 조사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873413425",
+			"description":"An Investigation on the Importance of Delivery Food Service Quality using AHP 본 연구는 배달<b>음식 서비스<\/b>품질에 대한 주"
+		},
+		{
+			"title":"레스토랑 <b>음식서비스<\/b>품질의 영향요인에 의한 고객들의 이용유형 판별",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12469575",
+			"description":"Discriminating Customers′Frequent Usage of Western Style Restaurant using Foodservice Quality Dimension The purpose of this study was"
+		},
+		{
+			"title":"배달 <b>음식 서비스<\/b>의 고객 재구매 의사결정 요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846408512",
+			"description":"Analysis of Factors affecting Customer Repurchase Decisions in Food Delivery Services 언택트 시대에 배달 <b>음식<\/b>의 수요가 "
+		},
+		{
+			"title":"AHP를 이용한 배달<b>음식 서비스<\/b>품질의 중요도 조사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765963316",
+			"description":"An investigation on the importance of delivery food service quality using AHP  표제지\n목차\n국문초록 8\nI. 서론 11\n 1. 연구"
+		},
+		{
+			"title":"AHP를 이용한 배달<b>음식 서비스<\/b>품질의 중요도 조사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=647180133",
+			"description":" 최근 국민 생활수준이 향상됨에 따라 외식　배달　산업의 양적인 성장도 발전하고 있다. 바쁜 생활 "
+		},
+		{
+			"title":"배달<b>음식 서비스<\/b>품질 발전방안에 관한 연구 : 프랜차이즈 배달<b>음식<\/b> 서비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=297433587",
+			"description":"A Study on Developing better Franchise Delivery Food’s Service Quality which influences on Customers’ Emotional Response and Franch"
+		},
+		{
+			"title":"순천시 <b>음식서비스<\/b>에 대한 관광객 선호도의 컨조인트 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290108473",
+			"description":"Conjoint Measurement of Tourist Preferences for Foodservice in Sunchon City The purpose of this study was to identify combinations of f"
+		},
+		{
+			"title":"<b>음식<\/b> 배달 <b>서비스<\/b>에 대한 빅데이터 거버넌스 체계 구축 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889238720",
+			"description":"Building Big Data Governance Systems for Food Delivery Service 최근 코로나 환경에 따른 <b>음식<\/b> 배달 <b>서비스<\/b>가 많이 활"
+		},
+		{
+			"title":"남해안 관광지 식당의 <b>음식서비스<\/b>에 대한 내국인 관광객들의 가치 지각",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594651715",
+			"description":"   value perception, customer satisfaction, loyalty intention, structural equation model, causal effects "
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889923437",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881542591",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887042998",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885032388",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822561501",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891302166",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887565829",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888359924",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891067517",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842998611",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890395618",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882377327",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890593096",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896643954",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868810814",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890779402",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888733801",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872857025",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897590054",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882877902",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874522609",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888163405",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873442199",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886962098",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822554467",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865561840",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891222192",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874116676",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871371182",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880104880",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889763096",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"일반고 직업위탁교육과정 학생들의 가족건강성, 전공선택동기 및 전공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898516722",
+			"description":"  표제지\n목차\n논문개요 10\n제1장 서론 12\n 제1절 연구의 배경 및 목적 12\n  제1항 연구배경 및 문제제기 12"
+		},
+		{
+			"title":"배달<b>음식 서비스<\/b>품질 발전방안에 관한 연구 : 프랜차이즈 배달<b>음식<\/b> 서비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562393230",
+			"description":"A Study on Developing better Franchise Delivery Food's Service Quality which influences on Customers' Emotional Response and Franchise "
+		},
+		{
+			"title":"배달<b>음식 서비스<\/b>품질 발전방안에 관한 연구: 프랜차이즈 배달<b>음식<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879879110",
+			"description":" As standard of living in Korea increases, the volume of domestic food industry has grown enormously. The preference of consumers on de"
+		},
+		{
+			"title":"프랜차이즈 배달<b>음식 서비스<\/b>품질이 고객감정반응 및 브랜드자산에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=233326176",
+			"description":"Franchise delivery food's service quality influencing customer's emotional response and franchise brand equity : focused on the deliver"
+		},
+		{
+			"title":"O2O 기반의 배달 <b>음식 서비스<\/b> 매장에 대한 상권범위 특성 분석을 위한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890470574",
+			"description":" O2O(Online To Offline)라는 용어는 지난 2010년 미국의 IT 전문지인 테크크런치(techcrunch.com)에서 처음 언급되"
+		},
+		{
+			"title":"관광지에서의 <b>음식서비스<\/b> 경험이 관광자만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845627287",
+			"description":"Analysis the relations between foodservice experience and tourist satisfaction 한국의 국가 이미지에 대한 조사 결과 조"
+		},
+		{
+			"title":"관광지에서의 <b>음식서비스<\/b> 경험이 관광자만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56522399",
+			"description":"Analysis the relations between foodservice experience and tourist satisfaction 한국의 국가 이미지에 대한 조사 결과 조"
+		},
+		{
+			"title":"COVID-19 불안감과 식생활 라이프스타일에 따른 드론 <b>음식<\/b>배달 <b>서비스<\/b>에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887307875",
+			"description":"The Influence of the COVID-19 Anxiety and Dietary Lifestyles on the Drone Food Delivery Service Attitude 본 연구는 COVID-19 불안"
+		},
+		{
+			"title":"신규창업 전략: 이태리 <b>음식서비스<\/b>산업의 국제 프랜차이즈",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845623461",
+			"description":"Startup Strategies: the (International) Franchisor in the Italian Food Service Industry 심각한 경기 침체기에도 외식산업"
+		},
+		{
+			"title":"신규창업 전략: 이태리 <b>음식서비스<\/b>산업의 국제 프랜차이즈",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420625204",
+			"description":"Startup Strategies: the (International) Franchisor in the Italian Food Service Industry 심각한 경기 침체기에도 외식산업"
+		},
+		{
+			"title":"<b>음식서비스<\/b>업종의 작업환경 및 안전보건 특성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594083835",
+			"description":"   Food Service Industry, Working Condition, Statistical analysis, Survey "
+		},
+		{
+			"title":"연구논문 : 신규창업 전략: 이태리 <b>음식서비스<\/b>산업의 국제 프랜차이즈",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177185603",
+			"description":"Startup Strategies: the (International) Franchisor in the Italian Food Service Industry 심각한 경기 침체기에도 외식산업"
+		},
+		{
+			"title":"제주방문 중국관광객의 <b>음식서비스<\/b> 품질 인식",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45704240",
+			"description":"Research Articles : A study on food service quality perception of Chinese tourists to Jeju island This study was aimed to analyze the p"
+		},
+		{
+			"title":"제주방문 중국관광객의 <b>음식서비스<\/b> 품질 인식",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890143788",
+			"description":"Research Articles : A study on food service quality perception of Chinese tourists to Jeju island This study was aimed to analyze the p"
+		},
+		{
+			"title":"<b>음식서비스<\/b>에 대한 지각된 가치와 고객 만족이 전환 의도와 충성도에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13824470",
+			"description":"Assessing the Effects of Perceived Value and Satisfaction with Foodservice on Switching Intention and Loyalty The objective for this st"
+		},
+		{
+			"title":"방한관광객 <b>음식서비스<\/b>품질의 인과모형",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879561367",
+			"description":" This article examines the relations between the service quality of food tourism and related variable factors. First of all, it demonst"
+		},
+		{
+			"title":"관광객 행동의도에 미치는 종업원의 <b>음식서비스<\/b>품질, 가치와 만족의 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12958864",
+			"description":"Measuring the Effects of Employee’s Foodservice Quality, Value, and Satisfaction on Tourist Behavioural Intention The purpose of this"
+		},
+		{
+			"title":"방한관광객 <b>음식서비스<\/b>품질의 인과모형 : 중, 미, 일 방한관광객을 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74999949",
+			"description":"Casuality Model of Food Service Quality for Foreign Tourists to Korea This article examines the relations between the service quality o"
+		},
+		{
+			"title":"신규창업 전략: 이태리 <b>음식서비스<\/b>산업의 국제 프랜차이즈",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882327036",
+			"description":""
+		},
+		{
+			"title":"재미 한국 식당을 이용하는 외국인 고객들의 한국 <b>음식<\/b> 및 <b>서비스<\/b> 속성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=421035929",
+			"description":"Expectation and Satisfaction of Foreign Customers Visiting Korean Restaurants Located in USA: Analysis for Food and Service Attributes "
+		},
+		{
+			"title":"<b>음식서비스<\/b>업종의 작업환경 및 안전보건 특성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=175056647",
+			"description":"A Study on the Characteristics of Working Condition and Occupational Safety and Health in the Food Service industry The primary purpose"
+		},
+		{
+			"title":"관광지의 <b>음식서비스<\/b>가 관광자만족에 미치는 영향 : 경주지역을 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79385588",
+			"description":"Analysis the relations between foodservice and tourist satisfaction : A case of Gyeongju city study  국문목차\n표제지=0,1,4\n목"
+		},
+		{
+			"title":"이태리 레스토랑의 실내 공간과 <b>음식 서비스<\/b> 품질 평가 도구 개발 및 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594522334",
+			"description":" 이 연구의 목적은 이태리 레스토랑의 실내 공간과 <b>음식 서비스<\/b> 품질 평가를 개발하고, 개발된 도구로"
+		},
+		{
+			"title":"이태리 레스토랑의 실내 공간과 <b>음식 서비스<\/b> 품질 평가 도구 개발 및 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289829223",
+			"description":"Development of Quality Assessment Tools and Application Plans for Interior Space and Foodservice in Italian Restaurants 이 연구의 "
+		},
+		{
+			"title":"이태리 레스토랑의 실내공간과 <b>음식서비스<\/b> 품질에 대한 고객과 종사자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=750017058",
+			"description":"   Mathematics, Interior space, Combinatorics "
+		},
+		{
+			"title":"이태리 레스토랑의 실내 공간과 <b>음식 서비스<\/b> 품질 평가 도구 개발 및 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18519520",
+			"description":"Development of Quality Assessment Tools and Application Plans for Interior Space and Foodservice in Italian Restaurants 이 연구의 "
+		},
+		{
+			"title":"제주방문 중국관광객의 <b>음식서비스<\/b> 품질 인식",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=732025169",
+			"description":"   Work (electrical), Taste (sociology), Quality (business), Marketing, Kindness, International airport, Healthy food, Food service, Fo"
+		},
+		{
+			"title":"사용자 리뷰 다차원 감성분석을 활용한 <b>음식<\/b> 배달 <b>서비스<\/b> 평점 예측",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878905195",
+			"description":"   감성 분석, 다차원 분석, 리뷰 분석, <b>음식<\/b> 배달 <b>서비스<\/b>, BERT "
+		},
+		{
+			"title":"이태리 레스토랑의 실내공간과 <b>음식서비스<\/b> 품질에 대한 고객과 종사자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594342327",
+			"description":" 이 연구의 목적은 이태리 레스토랑에서 <b>음식서비스<\/b> 전달자인 종사자와 고객을 대상으로 실내공간과 "
+		},
+		{
+			"title":"중국 관광객의 한국<b>음식<\/b> 및 <b>서비스<\/b> 기대 불일치가 만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290203403",
+			"description":"Study of the influence of satisfaction into the IPA of chinese tourists on Korean food and service 본 연구는 한국을 방문 중"
+		},
+		{
+			"title":"이태리 레스토랑의 실내공간과 <b>음식서비스<\/b> 품질에 대한 고객과 종사자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290129686",
+			"description":"An Analysis of Perception Gap on the Interior Space and Foodservice Quality of Italian Restaurants between Customers and Personnel 이 "
+		},
+		{
+			"title":"이태리 레스토랑의 실내공간과 <b>음식서비스<\/b> 품질에 대한 고객과 종사자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59529484",
+			"description":"An Analysis of Perception Gap on the Interior Space and Foodservice Quality of Italian Restaurants between Customers and Personnel 이 "
+		},
+		{
+			"title":"남해안 관광 지역 레스토랑의 <b>음식서비스<\/b>에 대한 고객의 지각된 가치와 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594641925",
+			"description":"   지각된 희생, <b>서비스<\/b>품질, 가치, 만족, 충성도, 구조방정식모형, perceived sacrifice, service quality, value, sa"
+		},
+		{
+			"title":"이태리 레스토랑의 실내 공간과 <b>음식 서비스<\/b> 품질 평가 도구 개발 및 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=691496143",
+			"description":"   Physics, Mathematical analysis, Interior space "
+		},
+		{
+			"title":"드론 <b>음식<\/b>배달 <b>서비스<\/b>에서 소비자 혁신적 동기에 연구: 인구통계학적 특",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881525934",
+			"description":"Application of Motivated Consumer Innovativeness to the Context of Drone Food Delivery Services: Focusing on the Different Test of Demo"
+		},
+		{
+			"title":"이태리 레스토랑의 실내 공간과 <b>음식 서비스<\/b> 품질 평가 도구 개발 및 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879320508",
+			"description":"Development of Quality Assessment Tools and Application Plans for Interior Space and Foodservice in Italian Restaurants   Italian resta"
+		},
+		{
+			"title":"<b>음식서비스<\/b>에 대한 지각된 가치와 고객 만족이 전환 의도와 충성도에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=693721964",
+			"description":"   Structural equation modeling, Psychology, Loyalty, Customer satisfaction, Business administration "
+		},
+		{
+			"title":"대학생들의 서양<b>음식<\/b>점 <b>음식서비스<\/b>에 대한 만족도에 미치는 성과 지출",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79995424",
+			"description":"Effects of Gender and Expenditure on Satisfaction with Food service at Western Restaurant among University Students The purpose of this"
+		},
+		{
+			"title":"관광지 식당 고객의 행동의도에 대한 <b>음식서비스<\/b> 질, 가치와 만족의 상",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16441760",
+			"description":"Measuring the Interaction Effects of Foodservice Qaulity, Value, and Satisfaction on Behavioral Intention of Customers in Tourist Resta"
+		},
+		{
+			"title":"관광객 선호도에 미치는 <b>음식 서비스<\/b>의 영향 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878565803",
+			"description":"Measuring the Effect of Foodservice on Tourist Preference   conjoint, attribute, attribute Level, preference, foodservice, utility "
+		},
+		{
+			"title":"관광객 선호도에 미치는 <b>음식 서비스<\/b>의 영향 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594002691",
+			"description":"   conjoint, attribute, attribute level, preference, foodservice, utility "
+		},
+		{
+			"title":"<b>음식서비스<\/b>에 대한 지각된 가치와 고객 만족이 전환 의도와 충성도에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878519396",
+			"description":"Assessing the Effects of Perceived Value and Satisfaction with Foodservice on Switching Intention and Loyalty   Perceived value, custom"
+		},
+		{
+			"title":"<b>음식서비스<\/b>에 대한 지각된 가치와 고객 만족이 전환 의도와 충성도에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594610289",
+			"description":"   perceived value, customer satisfaction, switching intention, loyalty, mediating role, structural equation model "
+		},
+		{
+			"title":"<b>음식서비스<\/b>의 과정디자인분기모델에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10791989",
+			"description":"A Study on the Break-Even Model of Food Service Process Designs This study is presented the analysis showing that there is an interacti"
+		},
+		{
+			"title":"남해안 관광 지역 레스토랑의 <b>음식서비스<\/b>에 대한 고객의 지각된 가치와 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879200449",
+			"description":"The Effects of Customer's Perceived Value and Satisfaction with Restaurant's Foodservice on Loyalty Intention in Namhaean Tourist Area "
+		},
+		{
+			"title":"드론 <b>음식<\/b>배달 <b>서비스<\/b>로 전환의도를 가진 잠재 소비자에 관한 연구 : 기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843037967",
+			"description":"A study on potential consumers with willingness to switch to drone food delivery services: Focusing on perceived risks of existing food"
+		},
+		{
+			"title":"남해안 관광 지역 레스토랑의 <b>음식서비스<\/b>에 대한 고객의 지각된 가치와 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16473816",
+			"description":"The Effects of Customer`s Perceived Value and Satisfaction with Restaurant`s Foodservice on Loyalty Intention in Namhaean Tourist Area "
+		},
+		{
+			"title":"관광지 식당 고객의 행동의도에 대한 <b>음식서비스<\/b> 질, 가치와 만족의 상",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594085742",
+			"description":"   foodservice quality, value, satisfaction, behavioral intention, moderator regression analysis "
+		},
+		{
+			"title":"프랜차이즈 배달<b>음식 서비스<\/b>품질이 고객감정반응 및 브랜드자산에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=182050239",
+			"description":" 외식 산업에서 배달<b>음식<\/b>이 차지하는 비중은 나날이 증가하고 있으며, 이러한 추세는 외식 프랜차이"
+		},
+		{
+			"title":"현대 장례식장 <b>음식서비스<\/b>의 질이 조문객의 장례식장 이미지 및 만족도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79914872",
+			"description":"The Effect of Food Service Quality on the Funeral Hall Image and Mourners' Satisfaction Food service quality including quality of food,"
+		},
+		{
+			"title":"드론 <b>음식<\/b>배달 <b>서비스<\/b>에서 기대편익에 관한 시장세분화 연구: 의사결정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846892636",
+			"description":"A Study on the Market Segmentation of Drone Food Delivery Services by Expected Benefits: Focusing on the Analysis of Answertree CHAID A"
+		},
+		{
+			"title":"이태리 레스토랑 종사자의 실내공간과 <b>음식서비스<\/b> 품질 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=494054165",
+			"description":" The purpose of this study was to evaluate the quality assessment on the viewpoint of personnel for interior space and foodservice in I"
+		},
+		{
+			"title":"패밀리레스토랑 <b>음식서비스<\/b>에 대한 만족에 영향을 미치는 요인들의 평",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880729771",
+			"description":""
+		},
+		{
+			"title":"전남 동부권 <b>음식서비스<\/b>에 대한 관광객의 만족과 행동의도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79610727",
+			"description":"(A) Study on the determination factors for tourist to dine at restaurants in the eastern area of Jeonnam The purpose of this study was "
+		}
+	]
+}

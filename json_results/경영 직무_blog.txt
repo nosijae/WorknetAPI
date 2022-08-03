@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:03:57 +0900",
+	"total":272835,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"(그냥 생각나서 써보는) <b>경영<\/b>지원 <b>직무<\/b>로 취업에 도움이 되는... ",
+			"link":"https:\/\/blog.naver.com\/sonyloves?Redirect=Log&logNo=222831745374",
+			"description":"<b>경영<\/b>지원의 범위는 다양하다 어떤 회사에서는 인사\/총무\/회계\/세무\/법무\/구매 등 모든걸 다해야하고... 총무는 <b>직무<\/b>에 따라서 차이가 있지만 1) 운전면허 (가능하면 1종) 2) 산업안전기사, 소방설비기사 3) CCNA 4)... ",
+			"bloggername":"평범한 직장인의 투자\/공부 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/sonyloves",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[면접후기] <b>경영<\/b>지원<b>직무<\/b> 면접후기(ft. 공백기 면접질문답변 팁)",
+			"link":"https:\/\/blog.naver.com\/kil8853?Redirect=Log&logNo=222731452087",
+			"description":"취신스텝이 전달해드리는 면접후기는 <b>경영<\/b>지원<b>직무<\/b> 면접후기 입니다 오늘의 교육생이 공백기가 긴편이라 면접컨설팅때 공백기 면접답변 팁을 알려줬는데 공백기로 고생하는 여러분을 위해 알려드릴게요... ",
+			"bloggername":"취업의신 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kil8853",
+			"postdate":"20220513"
+		},
+		{
+			"title":"영업기획 3년 경력자 → <b>경영<\/b>기획으로 <b>직무<\/b>전환&amp;이직 대성공!",
+			"link":"https:\/\/blog.naver.com\/zorr0?Redirect=Log&logNo=222643451360",
+			"description":"#합격후기, #합격, #이직후기, #기획이직, #경력이직후기, #컨설팅, #이직컨설팅, #취업조로, #컨설팅후기, #기획, #<b>경영<\/b>기획, #<b>직무<\/b>전환, #<b>직무<\/b>전환이직, #이직성공후기, #예체능출신 성별 SPEC <b>직무<\/b>\/경력 상황... ",
+			"bloggername":"취업 A to Z with zorro",
+			"bloggerlink":"https:\/\/blog.naver.com\/zorr0",
+			"postdate":"20220211"
+		},
+		{
+			"title":"사회조사분석사 2급, <b>경영 직무<\/b> 필수 자격증을 알아보아요!",
+			"link":"https:\/\/blog.naver.com\/interviewbox?Redirect=Log&logNo=222791027456",
+			"description":"사회조사분석사 2급이란 통계청의 수탁을 받아 2000년도부터 한국산업인력공단에서 시행하는 경영... <b>경영직무<\/b> 필수 자격증 사회조사분석사 2급 여러분들도 한 번 도전해 보시는 건 어떨까요? 인터뷰박스는... ",
+			"bloggername":"인터뷰박스",
+			"bloggerlink":"https:\/\/blog.naver.com\/interviewbox",
+			"postdate":"20220705"
+		},
+		{
+			"title":"[흑자경영연구소] 여의도 내부감사교육, <b>경영직무<\/b>교육추천!",
+			"link":"https:\/\/blog.naver.com\/kimsun5306?Redirect=Log&logNo=222795875117",
+			"description":"#흑자<b>경영<\/b>연구소 #<b>직무<\/b>교육 #내부감사분야 [흑자<b>경영<\/b>연구소] 내부감사분야 <b>직무<\/b>교육 수강하고왔습니다~* ‘기업내부정진단 및 예방 실무과정’ 후기 스타트 여의도에 위치한 백상빌딩 10층 여의도-용산역... ",
+			"bloggername":"내가좋아하는것들",
+			"bloggerlink":"https:\/\/blog.naver.com\/kimsun5306",
+			"postdate":"20220701"
+		},
+		{
+			"title":"<b>경영<\/b>기획 <b>직무<\/b> 수행 시 갖고 있으면 좋을 역량",
+			"link":"https:\/\/blog.naver.com\/algud81?Redirect=Log&logNo=222179657797",
+			"description":"일단, 두 번째 <b>직무<\/b>는 <b>경영<\/b>기획이에요. 이 업무를 수행하면서 많이 배웠어요 기본적으로 익힐 수밖에 없는 회사의 손익구조! 정말 많은 요소들이 매출과 비용으로 귀속되더라고요. 어떤 건 비용의 어느 계정... ",
+			"bloggername":"긍정적인 사고",
+			"bloggerlink":"https:\/\/blog.naver.com\/algud81",
+			"postdate":"20201220"
+		},
+		{
+			"title":"회계<b>직무<\/b>, <b>경영<\/b>지원 vs 회계팀 vs 재무팀?! 뭐가 다른 건가요?!... ",
+			"link":"https:\/\/blog.naver.com\/riverside79?Redirect=Log&logNo=222668051501",
+			"description":"팀과 <b>직무<\/b>의 범위가 가지는 관계는 대략 아래와 같습니다. 작은 회사 - <b>경영<\/b>지원 큰 회사 - 회계팀 &gt; 회계\/세무 각각의 팀 이는 일이 많아지고, 커지면서 담당자의 수가 늘어나기 때문인데요. <b>경영<\/b>지원은 꽤나... ",
+			"bloggername":"커리어튜터 (CareerTutor)",
+			"bloggerlink":"https:\/\/blog.naver.com\/riverside79",
+			"postdate":"20220309"
+		},
+		{
+			"title":"패션 <b>직무<\/b>의 이해_<b>경영<\/b>기획",
+			"link":"https:\/\/blog.naver.com\/heechang95?Redirect=Log&logNo=222808532726",
+			"description":"<b>경영<\/b>기획 <b>직무<\/b>를 준비하는 지원자라면 무엇을 준비 해 오면 좋을까요? <b>경영<\/b> 기획 업무는 전사를 담당하는 부서이기 때문에 사실은 타 부서의 팀장급 이상의 직원들과 커뮤니케이션이 많다. 그래서 본인이 사원... ",
+			"bloggername":"Creative HPC가 되자",
+			"bloggerlink":"https:\/\/blog.naver.com\/heechang95",
+			"postdate":"20220712"
+		},
+		{
+			"title":"<b>경영<\/b>지원<b>직무<\/b>분석-부울경연합 <b>직무<\/b>박람회",
+			"link":"https:\/\/blog.naver.com\/sea8429?Redirect=Log&logNo=222615498314",
+			"description":"#<b>경영<\/b>지원 #<b>경영<\/b>지원<b>직무<\/b>분석 #<b>경영<\/b>지원특강 #신수연강사 #<b>경영<\/b>지원취업경쟁력강화 #부울경연합 #감사합니다 https:\/\/www.instagram.com\/p\/CQdbxNEpNjt6LtaVE62jAPP_uib6KKyzp_uVOo0\/?utm_medium=share_sheet",
+			"bloggername":"퍼펙트커리어교육컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/sea8429",
+			"postdate":"20220107"
+		},
+		{
+			"title":"구리남양주교육지원청 신규교사<b>직무<\/b>연수 진행!  - 학급<b>경영<\/b>과... ",
+			"link":"https:\/\/blog.naver.com\/geosangni?Redirect=Log&logNo=222523214661",
+			"description":"(수) 이번 연수는 내가 속해있는 구리남양주교육지원청에서 학급경영과 학부모 상담에 대한 연수요청이... 이번 겨울방학에 경기도교육청에서 학급<b>경영 직무<\/b> 연수를 진행했었는데 해당 자료와 올해 아이들과 한... ",
+			"bloggername":"The Beauties of Geography",
+			"bloggerlink":"https:\/\/blog.naver.com\/geosangni",
+			"postdate":"20211001"
+		},
+		{
+			"title":"SBS채용 <b>경영직무<\/b> 필기시험 후기~(feat.떨어져도 펜하 하차는... ",
+			"link":"https:\/\/blog.naver.com\/re7079_2?Redirect=Log&logNo=222290325474",
+			"description":"알고보니까, <b>경영직무<\/b> 수험번호를 봐야되는데 라디오pd수험번호로 잘못보고 들어옴ㅋㅋㅋㅋㅋㅋ... #SBS #SBS채용 #SBS공채 #SBS필기시험 #SBS필기 #SBS<b>경영직무<\/b> #방송사 #언론사 #방송국채용 #필기시험 #필기 #시험... ",
+			"bloggername":"고등유민高等遊民의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/re7079_2",
+			"postdate":"20210328"
+		},
+		{
+			"title":"금융권 취업준비, 금융IT <b>경영<\/b>(문과)<b>직무<\/b>가 IT를 알아야 하는... ",
+			"link":"https:\/\/blog.naver.com\/se_in_the_galaxy?Redirect=Log&logNo=222564355056",
+			"description":"현업 <b>경영직무<\/b>가 IT직무보다 더 힘들게 공부해야한다는 생각이 든다. 전혀 다른 분야를 아는 것은 어렵지만, 본인이 선택한 회사 입사이기 때문에.. 입사 후 공부는 필수다. 현직자 말씀 IT기업 경영직렬... ",
+			"bloggername":"GALAXYSTAR",
+			"bloggerlink":"https:\/\/blog.naver.com\/se_in_the_galaxy",
+			"postdate":"20211110"
+		},
+		{
+			"title":"[공부] 취직을 위해선 직무부터 정해야한다?! <b>경영 직무<\/b> 알아보기",
+			"link":"https:\/\/blog.naver.com\/sye0219?Redirect=Log&logNo=222548229114",
+			"description":"똑같은 고민을 하고 있는 행정학도인 제가, 오늘은 <b>경영 직무<\/b>의 종류와 그 내용에 대해 함께 알아가고... 이번 기회를 통해 경영의 일반적인 직무 종류에 대해 알아보고 각 분야 별로 저를 대입하면서 직무를... ",
+			"bloggername":"Surprise!",
+			"bloggerlink":"https:\/\/blog.naver.com\/sye0219",
+			"postdate":"20211025"
+		},
+		{
+			"title":"[한국직업방송-다쓰배이더] KGS 한국가스안전공사 <b>경영 직무<\/b>편",
+			"link":"https:\/\/blog.naver.com\/potentsol?Redirect=Log&logNo=222277964103",
+			"description":"공기업 직무 중에서도 <b>경영직무<\/b>를 지원하였는데요 <b>경영직무<\/b>는 사기업의 경우에는 경쟁률 500:1이... 특히, 위 지원자의 경우 행정학 전공에서 더 플러스하자면 경영업무에 필요한 전산회계, 재경관리사 등... ",
+			"bloggername":"솔기로운생활",
+			"bloggerlink":"https:\/\/blog.naver.com\/potentsol",
+			"postdate":"20210317"
+		},
+		{
+			"title":"[<b>직무<\/b>] <b>경영<\/b>전략 하는 일?",
+			"link":"https:\/\/blog.naver.com\/jh4332?Redirect=Log&logNo=222724709062",
+			"description":"[<b>직무<\/b>정리 1편] <b>경영<\/b>기획\/전략부서는 어떤 업무를 하나요? 신입 때를 생각해 보면, 보통 팀 이름을 들으면 어떤 업무를 하는지는 상상이 가지만 정확하게 어떤 일을 하는지는 와닿지 않을 때가 있었다. 그래서... ",
+			"bloggername":"여행작가 체리",
+			"bloggerlink":"https:\/\/blog.naver.com\/jh4332",
+			"postdate":"20220509"
+		},
+		{
+			"title":"[대외활동] [DB온라인기업경영스쿨 62회] 마케팅, <b>경영직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/irionangel?Redirect=Log&logNo=222829682857",
+			"description":"온라인 DB 온라인기업경영스쿨 블로그를 읽으신 분은 아시겠지만 제 3학년 여름방학 버킷리스트에는... 그리고, 제가 이 <b>경영 직무<\/b>에 관심을 가지게 된 계기를 잘 풀어서 설명했는데요! 우리학교에는... ",
+			"bloggername":"뭐든 할 수 있어",
+			"bloggerlink":"https:\/\/blog.naver.com\/irionangel",
+			"postdate":"20220726"
+		},
+		{
+			"title":"빌딩관리사(빌딩<b>경영<\/b>관리사) 수행<b>직무<\/b>와 전망은?",
+			"link":"https:\/\/blog.naver.com\/ink2777?Redirect=Log&logNo=222805678281",
+			"description":"이에 따라 빌딩<b>경영<\/b>관리 <b>직무<\/b>종사자에 대한 업무수행 상 빌딩산업, 지식, 정보와 기술을 향상을 꾀하고 이와 관련된 인적자원개발을 위해 빌딩관리사 자격증이 나오게 된 것이죠. 정확한 자격 명칭은... ",
+			"bloggername":"잇찌와 업글인간",
+			"bloggerlink":"https:\/\/blog.naver.com\/ink2777",
+			"postdate":"20220709"
+		},
+		{
+			"title":"충남대학교 취업전문가 온라인 특강_<b>경영<\/b>마케팅<b>직무<\/b>_이지영강사",
+			"link":"https:\/\/blog.naver.com\/nudia?Redirect=Log&logNo=222334824963",
+			"description":"#취업전문가특강 #충남대학교취업특강 #경영지원마케팅직무 #<b>경영직무<\/b>특강 #경영지원마케팅직무이해 #직무역량을살리는컨텐츠작성 #직무분석의중요성 #직무분석방법 #NCS를활용한직무분석... ",
+			"bloggername":"붙여주는 이 언니(이지영)",
+			"bloggerlink":"https:\/\/blog.naver.com\/nudia",
+			"postdate":"20210503"
+		},
+		{
+			"title":"[코멘토\/<b>직무<\/b>부트캠프후기] 5주간 <b>경영<\/b>기획 <b>직무<\/b> 체험하기",
+			"link":"https:\/\/blog.naver.com\/rose25rose?Redirect=Log&logNo=222626086372",
+			"description":"그렇게 해서 내가 신청하게 된 강의는 예산 적정성 검토부터 kpi수립까지, <b>경영<\/b>기획 <b>직무<\/b>에서 하는 일 체험 이었다. 캠프는 크게 총 4가지의 과제로 나뉘어져 있었는데 중간중간 온라인 세션이 있어 멘토님께... ",
+			"bloggername":"rose25rose님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/rose25rose",
+			"postdate":"20220119"
+		},
+		{
+			"title":"[<b>직무<\/b>인터뷰] 손끝 야무진 살림꾼! <b>경영<\/b>지원실 이성환 과장",
+			"link":"https:\/\/blog.naver.com\/bexcoblog?Redirect=Log&logNo=222711995072",
+			"description":"<b>경영<\/b>지원실은 무슨 일을 하는 곳이야? <b>경영<\/b>지원실은 회사의 살림꾼, 골키퍼 역할을 하고 있어. 사업... 지금 하고 있는 <b>직무<\/b>에 대해 간단히 소개를 해줘! 현재 계약업무, 복리후생업무, 자산관리업무, 기타... ",
+			"bloggername":"벡스코 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/bexcoblog",
+			"postdate":"20220426"
+		},
+		{
+			"title":"현대자동차 연구개발본부 기술<b>경영 직무<\/b> 합격과정 !",
+			"link":"https:\/\/blog.naver.com\/romeo0314?Redirect=Log&logNo=222792792538",
+			"description":"<b>직무<\/b>는 R&amp;D기획 쪽인 기술<b>경영<\/b>인데, 연구개발기획조정실 소속이다. 이름만 멋진게 아니라,, 하는일도 멋있잖아!? 아무튼. 공공기관 경력으로 과연 사기업을 갈 수 있을까 싶었는데, 결론적으로는 성공했다.... ",
+			"bloggername":"moonslog",
+			"bloggerlink":"https:\/\/blog.naver.com\/romeo0314",
+			"postdate":"20220628"
+		},
+		{
+			"title":"품질<b>경영<\/b> 품질관리 교육도 여기에서! 스마트캠퍼스 <b>직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/hyunila?Redirect=Log&logNo=222735985793",
+			"description":"산업현장에서 보다 더 효율적인 운영기법과 실무능력, <b>직무<\/b>능력 향상을 도와드리기 위해 제작된 강의랍니다. 품질관리에 있어서 아마 가장 중요하고 많은 분들이 찾으실 내용이 &quot;품질<b>경영<\/b>&quot;일 것 같아요... ",
+			"bloggername":"스마트캠퍼스",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyunila",
+			"postdate":"20220517"
+		},
+		{
+			"title":"2021 상반기 SBS 신입 공개채용 논술시험(<b>경영직무<\/b>) 후기",
+			"link":"https:\/\/blog.naver.com\/ssoso717?Redirect=Log&logNo=222311311749",
+			"description":"(결국 <b>경영직무<\/b>도 탈~~) 2021 상반기 SBS 신입 <b>경영 직무<\/b>에 지원했고 서류 합격 후 논술 시험 보고 탈락했다. 논술 시험에서 많이 탈락해서 그런지 확실히 타 기업에 비해 서류 합격이 많이 되는 느낌이었다.... ",
+			"bloggername":"소르니의 도전 기록",
+			"bloggerlink":"https:\/\/blog.naver.com\/ssoso717",
+			"postdate":"20210415"
+		},
+		{
+			"title":"[<b>직무<\/b>분석] <b>경영<\/b>지원직 교육(HRD)편",
+			"link":"https:\/\/blog.naver.com\/goodjob_company?Redirect=Log&logNo=222190483477",
+			"description":"세상 모든 <b>직무<\/b>를 분석한다 <b>경영<\/b>지원직 기획·전략 <b>직무<\/b>편 이미지 출처 : 좋은일컴퍼니 DB - [<b>직무<\/b>분석] <b>경영<\/b>지원직 교육(HRD)편 안녕하세요 굿잡이입니다. 그동안 마케팅, 인사, 생산관리, 구매 등 여러 가지... ",
+			"bloggername":"좋은일컴퍼니 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/goodjob_company",
+			"postdate":"20201230"
+		},
+		{
+			"title":"글로벌Sales, 마케팅, ESG<b>경영 직무<\/b>ㅣ자소서항목 확인",
+			"link":"https:\/\/blog.naver.com\/cherish_unme2021?Redirect=Log&logNo=222782777458",
+			"description":"이번에도 역시 국내영업부터 시작해서 마케팅, ESG <b>경영<\/b> 등 문과생들을 위한 <b>직무<\/b>가 가득 ~!!!! 중견기업이지만, 연봉 역시 4천 이상의 아주 탄탄한 기업이니만큼 이번에 꼭 지원하셔서... ",
+			"bloggername":"호감부자 당근쌤의 대기업 취업 컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/cherish_unme2021",
+			"postdate":"20220621"
+		},
+		{
+			"title":"해커스<b>경영<\/b>지도사 <b>직무<\/b> 역량 취업가산점 한 번에 알아보기",
+			"link":"https:\/\/blog.naver.com\/hackerscpta?Redirect=Log&logNo=222745690169",
+			"description":"<b>직무<\/b>내용 그렇다면 <b>경영<\/b>지도사의 <b>직무<\/b> 내용은 어떻게 될까요? <b>경영<\/b>지도사라는 이름에 걸맞게 중소기업 <b>경영<\/b>의 전반에 관한 업무를 맡는데요, 조직관리 마케팅 세무관리 인사기법 투자효율분석 이렇게 광범위한... ",
+			"bloggername":"챔프스터디 경영아카데미",
+			"bloggerlink":"https:\/\/blog.naver.com\/hackerscpta",
+			"postdate":"20220528"
+		},
+		{
+			"title":"관광<b>경영<\/b>과 <b>직무<\/b>특강 및 입사서류 작성서류",
+			"link":"https:\/\/blog.naver.com\/happy_inhatc?Redirect=Log&logNo=222129157154",
+			"description":"취업시장에 어떻게 준비해야하는지 설명해주셨답니다 ㅎ 이렇게 오늘은 관광<b>경영<\/b>과 <b>직무<\/b>특강 및 입사서류에 대한 특강 후기에 대해 포스팅을 해보았습니다 ㅎㅎ 다음에도 즐거운 소식으로 돌아올께요 ^6^ BY EW",
+			"bloggername":"인하공업전문대학",
+			"bloggerlink":"https:\/\/blog.naver.com\/happy_inhatc",
+			"postdate":"20201028"
+		},
+		{
+			"title":"<b>직무<\/b>수행계획서 작성법 사회서비스원 <b>경영<\/b> 기획팀",
+			"link":"https:\/\/blog.naver.com\/mdmanse?Redirect=Log&logNo=222674413217",
+			"description":"<b>직무<\/b>수행계획서 작성법 강좌로 이번 시간에는 사회서비스원 <b>경영<\/b> 기획팀 <b>직무<\/b>에 대한 강의를 진행해 볼까? 합니다. 사회서비스원은 신설된 지 얼마 되지 않은 국가 산하기관에 속하는 기관입니다. 어린이집... ",
+			"bloggername":"DMF",
+			"bloggerlink":"https:\/\/blog.naver.com\/mdmanse",
+			"postdate":"20220316"
+		},
+		{
+			"title":"[면접관의 팩트폭력 끄적끄적] &quot;<b>경영<\/b>지원 <b>직무<\/b>들은 왜 조금... ",
+			"link":"https:\/\/blog.naver.com\/yonjae33?Redirect=Log&logNo=222762217875",
+			"description":"#지원<b>직무<\/b>조금뽑는이유 #<b>경영<\/b>지원<b>직무<\/b> #<b>경영<\/b>지원<b>직무<\/b>TO적은이유 #돈을쓰는<b>직무<\/b> #돈을버는<b>직무<\/b> * 명확한 의사 전달을 위해 경어체는 사용하지 않겠습니다. * 글 제목은 일부러 자극적으로 작성했습니다. * 본... ",
+			"bloggername":"부채선인의 노오력주의보",
+			"bloggerlink":"https:\/\/blog.naver.com\/yonjae33",
+			"postdate":"20220607"
+		},
+		{
+			"title":"1500년만의 서합_SBS신입공채_<b>경영직무<\/b>(feat.다시... ",
+			"link":"https:\/\/blog.naver.com\/re7079_2?Redirect=Log&logNo=222281214266",
+			"description":"3월 초였나 그때 <b>경영직무<\/b>로 서류넣었는데 당황스럽게도 합격..ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 사실 작년에 JTBC 계열사 글로벌컨텐츠 직무 안넣었던거 뼈저리게 후회하고 있었는데 SBS뜬다고해서 오개이득 하고... ",
+			"bloggername":"고등유민高等遊民의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/re7079_2",
+			"postdate":"20210319"
+		},
+		{
+			"title":"경상북도교육청연수원 신규교장 학교<b>경영 직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/papercup2?Redirect=Log&logNo=222121027199",
+			"description":"- 신규교(원)장역량강화(학교<b>경영<\/b>)<b>직무<\/b>연수 개최 경상북도교육청연수원(원장 김옥례)은 10월 20일(화)부터 10월 21일(수) 이틀간 유초등교(원)장 43명을 대상으로 경상북도교육청연수원에서 신규교(원)장역량강화... ",
+			"bloggername":"내일뉴스",
+			"bloggerlink":"https:\/\/blog.naver.com\/papercup2",
+			"postdate":"20201020"
+		},
+		{
+			"title":"청년인턴 <b>직무<\/b>캠프 인턴십] 1기 합격 후기! :D - 글로벌<b>경영<\/b>일... ",
+			"link":"https:\/\/blog.naver.com\/psw2290?Redirect=Log&logNo=222360400776",
+			"description":"아무래도 제가 <b>경영<\/b> 일반 <b>직무<\/b>다보니까 어떤 질문이 나올지 많이 걱정 됐어요. 줌을 키고 테스트를 보는건데 <b>직무<\/b> 질문이 나온다는데 이게 NCS 질문일지? 뭘 보고 공부해야 하는지 좀 걱정이 많이 됐는데 의외로... ",
+			"bloggername":"What&apos;s your color? XD",
+			"bloggerlink":"https:\/\/blog.naver.com\/psw2290",
+			"postdate":"20210521"
+		},
+		{
+			"title":"취준 시작 첫 단추, <b>직무<\/b> 정하기 (1) <b>경영<\/b>지원",
+			"link":"https:\/\/blog.naver.com\/clolina78?Redirect=Log&logNo=222771718323",
+			"description":"<b>경영<\/b>지원 <b>직무<\/b> <b>경영<\/b>학과를 졸업한 학생들이 많이 지원하는 학과이지만, 비상경학과라도 해당 산업에 대한 꾸준한 관심을 보여줄 수 있다면 충분히 지원 가능합니다. 이공계 학생분들도 당연히 지원 가능한... ",
+			"bloggername":"직장인 자존감 가꾸기",
+			"bloggerlink":"https:\/\/blog.naver.com\/clolina78",
+			"postdate":"20220614"
+		},
+		{
+			"title":"반도체 회사 <b>경영<\/b>기획 <b>직무<\/b> 인터뷰 (feat. 이공계열 취업)... ",
+			"link":"https:\/\/blog.naver.com\/yejiny217?Redirect=Log&logNo=222821143281",
+			"description":"충분히 기획, 전략 <b>직무<\/b>도 수행할 수 있습니다 :) 실제로 화학공학을 전공하셨지만 <b>경영<\/b>기획 <b>직무<\/b>를 맡고 계시는 SK머티리얼즈의 인터뷰이님을 만나보았습니다. 전략 및 기획 업무를 수행하기... ",
+			"bloggername":"ʚHAPPINESSɞ",
+			"bloggerlink":"https:\/\/blog.naver.com\/yejiny217",
+			"postdate":"20220721"
+		},
+		{
+			"title":"코로나 자가격리 10일차(2021.02.02 화)(초등학급<b>경영 직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/iamjs17?Redirect=Log&logNo=222229426382",
+			"description":"#코로나19 #자가격리 #연수 #학급경영 #알차군 오늘은 자가격리 후 처음으로 8시 20분에 일어났다 왜냐 오늘 9시 30분부터 줌으로 하는 학급<b>경영 직무<\/b>연수가 있기 때문이다. 어제 새벽3시에 자서그런지... ",
+			"bloggername":"❤추억창고❤",
+			"bloggerlink":"https:\/\/blog.naver.com\/iamjs17",
+			"postdate":"20210202"
+		},
+		{
+			"title":"KBU NEWS ::   경복대학교 서비스<b>경영<\/b>과, 2021년 <b>직무<\/b>능력 맞춤형... ",
+			"link":"https:\/\/blog.naver.com\/kbumanager?Redirect=Log&logNo=222585915562",
+			"description":"#경복대학교 #경복대 #서비스<b>경영<\/b>과 #유통<b>경영<\/b>전공 #<b>직무<\/b>능력 #봉사활동 #<b>경영<\/b>컨설팅지원 이번 맞춤형 지역사회 봉사활동은 의정부 및 남양주 지역의 중소기업과 경복대 창업보육센터 입주기업 등 지역사회... ",
+			"bloggername":"Futuristic Innovator, 경복대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/kbumanager",
+			"postdate":"20211203"
+		},
+		{
+			"title":"방송<b>경영 직무<\/b> 면접 대비 SWOT 분석 ~KBS를 중심으로~",
+			"link":"https:\/\/blog.naver.com\/juhyuk333?Redirect=Log&logNo=222154442719",
+			"description":"아래 표는 KBS에 특화된 것이지만, '방송<b>경영<\/b>'이라는 <b>직무<\/b> 전반적으로 나아가 방송 유관 <b>직무<\/b>라면 아마 참고가 되실 수 있을 것 같습니다. 작성 기준은 2018년인 점 감안해서 봐주시기 바랍니다. S(강점)... ",
+			"bloggername":"여니세상 : 성공과 실패의 기록들",
+			"bloggerlink":"https:\/\/blog.naver.com\/juhyuk333",
+			"postdate":"20201125"
+		},
+		{
+			"title":"<b>경영<\/b>기획 및 <b>경영<\/b>관리, 어떤 <b>직무<\/b>고, 또 어떤 역량이 필요할까요?",
+			"link":"https:\/\/blog.naver.com\/itdaaworld?Redirect=Log&logNo=222209366013",
+			"description":"재경 부분 중 경영관리 직무가 궁금한 취준생 멘티입니다! 재경 파트라고 하면 일반적으로 회계만... <b>경영직무<\/b>는 그런 비용들을 어떤 방식으로 산정할지 주관하고, 결정해서 ‘회사의 진짜 매출과 이익을... ",
+			"bloggername":"잇다 (itdaa) 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/itdaaworld",
+			"postdate":"20210116"
+		},
+		{
+			"title":"충남대학교 <b>경영<\/b>지원 <b>직무<\/b> 파헤치기",
+			"link":"https:\/\/blog.naver.com\/sea8429?Redirect=Log&logNo=222681581092",
+			"description":"#<b>경영<\/b>지원<b>직무<\/b>분석 #<b>경영<\/b>지원취업경쟁력강화 #신수연강사 #<b>직무<\/b>박람회 #저녁강의 #화요일스타그램 #강의 https:\/\/www.instagram.com\/p\/CTzMX-6J9KDa292TLy0kAwQxpP-wvHrNXeSW6A0\/?utm_medium=share_sheet",
+			"bloggername":"퍼펙트커리어교육컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/sea8429",
+			"postdate":"20220324"
+		},
+		{
+			"title":"인사\/총무\/<b>경영 직무<\/b> 기업별... 경력) *인사총무경영에... ",
+			"link":"https:\/\/blog.naver.com\/wjdcjf1197?Redirect=Log&logNo=222624261310",
+			"description":"인사총무경영에 지원해라 2탄을 만들기로 했습니다. ㅎㅎ 영업 직무나 기타 직무도 준비하고... 그럼 오늘도 이렇게 1월 인사직무, 총무직무, <b>경영직무<\/b> 채용에 대해서 알아보는 시간을 가졌네요!! 그럼... ",
+			"bloggername":"JCBLOG",
+			"bloggerlink":"https:\/\/blog.naver.com\/wjdcjf1197",
+			"postdate":"20220117"
+		},
+		{
+			"title":"#<b>경영<\/b>시뮬레이션(레고) - 주임급 <b>직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/hjpower0201?Redirect=Log&logNo=222414127266",
+			"description":"있어서, <b>경영<\/b>하면서 관심을 가져야 하는 사항임을 안내합니다. 강의를 마치고 나와서 본 노을이 이뻐서 담아봅니다. 기업에서 성과를 내기 위해서 각자 <b>직무<\/b>에 대한 전문성을 높이고 자기계발과 사람들에 대한... ",
+			"bloggername":"(주)마중물교육 강효정 010 3875 8044",
+			"bloggerlink":"https:\/\/blog.naver.com\/hjpower0201",
+			"postdate":"20210629"
+		},
+		{
+			"title":"CSM<b>경영 직무<\/b> 교육",
+			"link":"https:\/\/blog.naver.com\/matata1471?Redirect=Log&logNo=222804103564",
+			"description":"직장예절 &amp; 고객만족 CSM<b>경영<\/b> 교육했어요~~~^^ 6시간동안 수고많으셨어요~~~♥️ 홍쌤 Dream. #교육컨설팅 #CS강사 #CS강좌 #고객만족<b>경영<\/b> #기업강좌 #기관강좌 #홍은선강사 #홍쌤 #홍쌤행복연구소... ",
+			"bloggername":"에듀피아 홍쌤행복연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/matata1471",
+			"postdate":"20220708"
+		},
+		{
+			"title":"도제 교육 MBTI 를 활용한 진로 <b>직무<\/b> 강의 - <b>경영<\/b>지도사 최재현",
+			"link":"https:\/\/blog.naver.com\/dpmarketing?Redirect=Log&logNo=222809525230",
+			"description":"도제 교육 MBTI 를 활용한 진로 <b>직무<\/b> 강의 - <b>경영<\/b>지도사 최재현 작년이었던 것으로 기억합니다. 비대면으로 온라인 마케팅 강의를 하게 되었는데 그 때 수강생 중에 한 분이셨던 선생님께서 저에게 강의가... ",
+			"bloggername":"경영지도사 최재현",
+			"bloggerlink":"https:\/\/blog.naver.com\/dpmarketing",
+			"postdate":"20220713"
+		},
+		{
+			"title":"[캠·취·뽀] <b>직무<\/b>인사이드 1편 \/ <b>경영<\/b>본부편",
+			"link":"https:\/\/blog.naver.com\/blogkamco?Redirect=Log&logNo=222618560261",
+			"description":"오늘 준비한 내용은 바로~~ <b>직무<\/b>人사이드 1편! <b>경영<\/b>본부편입니다~ <b>경영<\/b>본부에는 무슨 팀이 있고 어떤 일을 할까요? 구체적이고 꿀팁 가득한 캠취뽀 <b>직무<\/b>인사이드 1편! 함께 살펴보아요~! 지금의 캠코人분들도... ",
+			"bloggername":"캠코(한국자산관리공사) 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/blogkamco",
+			"postdate":"20220111"
+		},
+		{
+			"title":"[고용노동부 중소기업탐방 프로그램] &apos;<b>경영<\/b>지원분야&apos; <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/gateneo0707?Redirect=Log&logNo=222625941768",
+			"description":"#고용노동부 #한국직업개발원 #온라인중소기업탐방 #중소기업탐방 #중탐 #온라인 #기업탐방 #온라인기업탐방 #<b>경영<\/b>지원<b>직무<\/b> #<b>경영<\/b>지원 #서울청년 #경기청년 #인천청년 #수도권청년 #청년 #졸업생 #구직희망자... ",
+			"bloggername":"스몰에이의 소소한 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/gateneo0707",
+			"postdate":"20220119"
+		},
+		{
+			"title":"[Who We Are] 더아이엠씨 <b>직무<\/b>소개 <b>경영<\/b>지원팀_신입사원편",
+			"link":"https:\/\/blog.naver.com\/theimc?Redirect=Log&logNo=222565176338",
+			"description":"안녕하세요, <b>경영<\/b>지원팀 성소윤입니다. Q. 더아이엠씨에 입사하게 된 계기는 무엇인가요? A. 사실 <b>직무<\/b>에 대한 정보는 크게 없었지만 출퇴근하기에 위치도 좋고 건물도 신축이라 깨끗하여 업무환경이 좋을 것... ",
+			"bloggername":"The IMC 더아이엠씨 : 마케팅에 빅데이터를 더하다",
+			"bloggerlink":"https:\/\/blog.naver.com\/theimc",
+			"postdate":"20211111"
+		},
+		{
+			"title":"인사담당자가 보는 <b>경영<\/b>지원 <b>직무<\/b> 이해, 성남고용센터",
+			"link":"https:\/\/blog.naver.com\/imkey111?Redirect=Log&logNo=222032995796",
+			"description":"성남고용센터에서 처음 진행한 청년 구직자를 위한 취업스터디 이번 주제는 <b>경영<\/b>지원 <b>직무<\/b>를 목표로 하는 청년구직자분들과 함께 했습니다. <b>경영<\/b>지원 <b>직무<\/b>를 올바로 이해하고 <b>경영<\/b>지원 <b>직무<\/b>에서 필요로 하는... ",
+			"bloggername":"행복한 &apos;커리어&apos;는 행복한 &apos;삶&apos;을 만듭니다.",
+			"bloggerlink":"https:\/\/blog.naver.com\/imkey111",
+			"postdate":"20200717"
+		},
+		{
+			"title":"윤리<b>경영<\/b> - 4. <b>직무<\/b>윤리란?",
+			"link":"https:\/\/blog.naver.com\/skh2342?Redirect=Log&logNo=222824634612",
+			"description":"<b>직무<\/b>윤리란? <b>직무<\/b>윤리는 회사의 임직원 개개인들이 자신이 맡은 업무를 수행하면서 지켜야 하는 윤리적 행동 기준을 구체화한 것이다. <b>직무<\/b>윤리는 기업윤리의 한 요소이면서도 추상적인 선언에 그칠 수 있는... ",
+			"bloggername":"skh2342님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/skh2342",
+			"postdate":"20220722"
+		},
+		{
+			"title":"[<b>직무<\/b>담담] <b>경영<\/b>전략•<b>경영<\/b>기획 <b>직무<\/b> 미식회를 진행합니다",
+			"link":"https:\/\/blog.naver.com\/hyeyeonsong?Redirect=Log&logNo=222668991914",
+			"description":"<b>경영<\/b>전략 <b>직무<\/b>란? 기업의 장기적 목적 및 목표를 결정하고 목표 달성을 위해 필요한 의사결정을 하는 <b>직무<\/b>로 기업에 따라 <b>경영<\/b>전략, <b>경영<\/b>기획, <b>경영<\/b>관리 등으로 표현되기도 합니다 <b>직무<\/b>역량코치는... ",
+			"bloggername":"소복소복 쌓이는",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyeyeonsong",
+			"postdate":"20220310"
+		},
+		{
+			"title":"SK하이닉스 [경력] 안전보건환경 - 안전<b>경영 직무<\/b> 경력사원 채용",
+			"link":"https:\/\/blog.naver.com\/career-n?Redirect=Log&logNo=222726640513",
+			"description":"us\/page\/82680275\/post\/140 &quot; &quot; &quot; [경력] 안전보건환경 - 안전<b>경영 직무<\/b> 경력사원 채용 https:\/\/recruit.skhynix.com\/servlet\/reap_rcrtSearchForm.view &lt; &lt; &lt;",
+			"bloggername":"환경안전보건 전문 취업컨설팅, 커리어앤",
+			"bloggerlink":"https:\/\/blog.naver.com\/career-n",
+			"postdate":"20220509"
+		},
+		{
+			"title":"2022년 제1차 자활사업 참여자 <b>경영직무<\/b>교육 실시",
+			"link":"https:\/\/blog.naver.com\/arim9978?Redirect=Log&logNo=222706373775",
+			"description":"센터는 자활근로 참여자의 경영 마인드 확장을 위해 4월 20~21일 이틀에 걸쳐 <b>경영직무<\/b>교육을 실시하였다. *교육내용:<b>경영직무<\/b>에 대한 이해, <b>경영직무<\/b> 분야별 주요 업무, <b>경영직무<\/b> 종류별 갖추어야 할 능력",
+			"bloggername":"경남거창지역자활센터-땀으로 꿈을 디자인하다",
+			"bloggerlink":"https:\/\/blog.naver.com\/arim9978",
+			"postdate":"20220421"
+		},
+		{
+			"title":"카카오 <b>경영<\/b>기획 <b>직무<\/b> 자기소개서 첨삭 후기",
+			"link":"https:\/\/blog.naver.com\/rightjung0301?Redirect=Log&logNo=222824195548",
+			"description":"오늘은 카카오 <b>경영<\/b>기획 <b>직무<\/b> 자기소개서 첨삭 후기입니다. 이번 지원자분께서는 경력직이셨어요. <b>경영<\/b>기획 부서에 계신 분은 아니셨지만, 그동안 사내에서 각종 프로젝트를 성공적으로 추진한 경험이... ",
+			"bloggername":"이든의 올바른 자소서",
+			"bloggerlink":"https:\/\/blog.naver.com\/rightjung0301",
+			"postdate":"20220722"
+		},
+		{
+			"title":"인사\/총무\/<b>경영 직무<\/b> 기업별... 경력) *인사총무경영에... ",
+			"link":"https:\/\/blog.naver.com\/wjdcjf1197?Redirect=Log&logNo=222629166411",
+			"description":"+ #구매<b>직무<\/b>채용 (인근에 거주하신다면 꼭 지원하세요!!) 채용공고 | 채용정보 | 포스코플랜텍 (recruiter.co.kr) Previous image Next image 4. #세아제강채용 신입_관리직( <b>경영<\/b> -&gt; 주식,행사관리_서울, 인사_창원)... ",
+			"bloggername":"JCBLOG",
+			"bloggerlink":"https:\/\/blog.naver.com\/wjdcjf1197",
+			"postdate":"20220123"
+		},
+		{
+			"title":"<b>직무<\/b> 시리즈별 카드뉴스 2탄 - <b>경영<\/b>지원편",
+			"link":"https:\/\/blog.naver.com\/dscareer14?Redirect=Log&logNo=222104494219",
+			"description":"세부 업무 - 인사 인사 <b>직무<\/b>는 <b>경영<\/b>성과의 극대화 및 직원들의 능력 개발과 역량발휘를 위하여 인적자원의 효율적 운영체계를 기획하고 관리합니다. 인적자원의 조정을 위한 <b>경영<\/b>학적인 시각과 사람들에 대한... ",
+			"bloggername":"덕성여자대학교 대학일자리본부",
+			"bloggerlink":"https:\/\/blog.naver.com\/dscareer14",
+			"postdate":"20201001"
+		},
+		{
+			"title":"롯데푸드, <b>경영<\/b>지원·마케팅 등 5개 <b>직무<\/b> 신입사원 채용",
+			"link":"https:\/\/blog.naver.com\/8olive?Redirect=Log&logNo=222742731291",
+			"description":"모집<b>직무<\/b>는 △<b>경영<\/b>지원 △정보보호 △마케팅 △제품개발 △생산관리 등 총 5개 <b>직무<\/b>다. 원서 접수기간은 이달 27일 오후 4시까지다. 지원 자격은 올해 6월 입사 가능한 학사 이상 학위 취득자, 올해 8월... ",
+			"bloggername":"\"♡하 · 늘 · 생 · 명♡\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/8olive",
+			"postdate":"20220523"
+		},
+		{
+			"title":"[<b>직무<\/b>담담 서포터즈 1기] <b>경영<\/b>전략 <b>직무<\/b> 미식회 소식",
+			"link":"https:\/\/blog.naver.com\/wlgml013?Redirect=Log&logNo=222670619888",
+			"description":"이번에는 <b>경영<\/b>전략 <b>직무<\/b>미식회가 있어요 ~ <b>경영<\/b>전략<b>직무<\/b>란 ? 기업의 장기적 목적 및 목표를 결정하고 목표 달성을 위해 필요한 의사결정을 하는 <b>직무<\/b> 입니다. 기업에 따라 <b>경영<\/b>전략, <b>경영<\/b>기획, <b>경영<\/b>관리... ",
+			"bloggername":"쯰 닷컴",
+			"bloggerlink":"https:\/\/blog.naver.com\/wlgml013",
+			"postdate":"20220312"
+		},
+		{
+			"title":"<b>경영<\/b>전략 <b>경영<\/b>기획 <b>직무<\/b> 미식가를 모집합니다",
+			"link":"https:\/\/blog.naver.com\/thewhhylab?Redirect=Log&logNo=222666994348",
+			"description":"오늘 소개해 드릴 <b>직무<\/b>는 <b>경영<\/b>전략 <b>직무<\/b>입니다. <b>경영<\/b>전략 <b>직무<\/b>란? 기업의 장기적 목적 및 목표를 결정하고 목표 달성을 위해 필요한 의사결정을 하는 <b>직무<\/b> 입니다. 기업에 따라 <b>경영<\/b>전략... ",
+			"bloggername":"더와이랩[지금당장필요한역량개발]",
+			"bloggerlink":"https:\/\/blog.naver.com\/thewhhylab",
+			"postdate":"20220308"
+		},
+		{
+			"title":"예술의 전당 예술<b>경영 직무<\/b>기술서 알아보기",
+			"link":"https:\/\/blog.naver.com\/dreamgodream?Redirect=Log&logNo=221416783836",
+			"description":"예술경영 분야의 직무기술서에 대해 알아보겠습니다. 직무 수행 내용 예술<b>경영 직무<\/b>의 수행 내용은 다음과 같습니다. 기관 운영을 위한 경영 총무 지원 인사, 회계, 재무 관리 공연, 음악 전시 홍보마케팅 필요... ",
+			"bloggername":"꿈날개 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dreamgodream",
+			"postdate":"20181211"
+		},
+		{
+			"title":"숭실대학교 <b>경영<\/b>지원 <b>직무<\/b> 비대면 특강",
+			"link":"https:\/\/blog.naver.com\/imkey111?Redirect=Log&logNo=222189358433",
+			"description":"<b>경영<\/b>지원 <b>직무<\/b> 이해라는 주제로 <b>직무<\/b>분석 및 <b>직무<\/b>정보 탐색 목적, 탐색 방법, 역량도출 및 활용 방법까지.. 강의 후에도 다양한 질문도 하고 취업에 실질적으로 도움이 되었다는 피드백까지 감사합니다.",
+			"bloggername":"행복한 &apos;커리어&apos;는 행복한 &apos;삶&apos;을 만듭니다.",
+			"bloggerlink":"https:\/\/blog.naver.com\/imkey111",
+			"postdate":"20201229"
+		},
+		{
+			"title":"[방송경영]방송국의 지원, 기획을 담당하는 방송<b>경영 직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/jkskbs?Redirect=Log&logNo=70171362241",
+			"description":"방송사의 경영지원부서, 기획부서 등에서 정보력과 적극적인 대외협력 기획을 통해 유리한 비지니스 기회를 창출하는 직무가 방송경영이라고 할 수 있습니다:-) 방송<b>경영 직무<\/b> 준비하기 방송<b>경영 직무<\/b>를... ",
+			"bloggername":":: KBS방송아카데미",
+			"bloggerlink":"https:\/\/blog.naver.com\/jkskbs",
+			"postdate":"20130710"
+		},
+		{
+			"title":"사람인 자기소개서 중소기업, 스타트업 재무회계\/<b>경영<\/b>지원 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/rightjung0301?Redirect=Log&logNo=222735585284",
+			"description":"오늘은 중소기업, 스타트업 재무회계 \/<b>경영<\/b>지원 <b>직무<\/b> 자기소개서 첨삭 후기입니다! 이번 지원자분께서는 이전에 잡코리아 즉시 지원 양식 자소서 첨삭으로 저와 인연을 맺으신 분이셨는데요! <b>직무<\/b>를 바꿔서... ",
+			"bloggername":"이든의 올바른 자소서",
+			"bloggerlink":"https:\/\/blog.naver.com\/rightjung0301",
+			"postdate":"20220517"
+		},
+		{
+			"title":"[현직자에게 물어봐] <b>경영 직무<\/b>관련, 공기업은 어떻게 준비를... ",
+			"link":"https:\/\/blog.naver.com\/youthhopefoundation?Redirect=Log&logNo=221408637310",
+			"description":"<b>경영 직무<\/b>관련, 공기업은 어떻게 준비를 해야할지 막막합니다. 안녕하세요! 울산대를 재학중인 3학년... 사기업의 경우 실제로 해당 직무에 경영 분들이 많으시더라구요. 사실 경영관리나 업무지원 노경팀 등... ",
+			"bloggername":"청년재단 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/youthhopefoundation",
+			"postdate":"20181129"
+		},
+		{
+			"title":"[<b>경영<\/b>관리 수행<b>직무<\/b>] <b>경영<\/b>관리 수행<b>직무<\/b>, <b>경영<\/b>관리 <b>직무<\/b>분류 및... ",
+			"link":"https:\/\/blog.naver.com\/gigo73?Redirect=Log&logNo=222832655753",
+			"description":"<b>경영<\/b>관리 수행<b>직무<\/b> <b>경영<\/b>관리 수행<b>직무<\/b>를 살펴보기에 앞서 먼저 전체 수행<b>직무<\/b>를 <b>경영<\/b>관리의 5요소(계획, 조직, 지휘, 조정, 통제)를 기준으로 분류하여 정리해 보겠습니다. [<b>경영<\/b>관리 수행<b>직무<\/b>] 구분... ",
+			"bloggername":"MAS Planning (관리회계 시스템 플래닝)",
+			"bloggerlink":"https:\/\/blog.naver.com\/gigo73",
+			"postdate":"20220728"
+		},
+		{
+			"title":"<b>직무<\/b>를 알아야 합격이 보인다!<b>경영<\/b>기획",
+			"link":"https:\/\/blog.naver.com\/dreamgodream?Redirect=Log&logNo=221409640010",
+			"description":"<b>직무<\/b>를 알아야 합격이 보인다!<b>경영<\/b>기획 <b>경영<\/b>기획 <b>직무<\/b>란?<b>경영<\/b>기획 업무는 <b>경영<\/b>목표를 효과적으로 달성하기 위한 전략을 수립하고 최적의 자원을 효율적으로 배분하도록 <b>경영<\/b>진의 의사결정을... ",
+			"bloggername":"꿈날개 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dreamgodream",
+			"postdate":"20181130"
+		},
+		{
+			"title":"LF 채용_<b>직무<\/b> 소개_<b>경영<\/b>기획",
+			"link":"https:\/\/blog.naver.com\/heechang95?Redirect=Log&logNo=221339870552",
+			"description":"타 <b>직무<\/b>의 경우 사원급 직원은 주어진 일 외에는 알기 어려운 반면, <b>경영<\/b>기획 <b>직무<\/b>는 회사 사업 구조와 프로세스 전반에 대한 이해도를 높이고 폭 넓게 경험 해 볼 수 있는 좋은 기회가 되고 있습니다. 특히... ",
+			"bloggername":"Creative HPC가 되자",
+			"bloggerlink":"https:\/\/blog.naver.com\/heechang95",
+			"postdate":"20180816"
+		},
+		{
+			"title":"[강점<b>경영<\/b>] <b>직무<\/b>만족이 왜 중요할까?",
+			"link":"https:\/\/blog.naver.com\/credu?Redirect=Log&logNo=220091972405",
+			"description":"직원들이 만족하면서 일을 하면 어떤 결과가 있을까?” 에 대해 많은 <b>경영<\/b>학자들이 연구를 진행했다. 여러 연구들을 종합해 볼 때 결과적으로 <b>직무<\/b>에 대해 만족을 하면서 일을 하는 직원들이 훨씬 업무생산성이... ",
+			"bloggername":"공감지기, 이동우",
+			"bloggerlink":"https:\/\/blog.naver.com\/credu",
+			"postdate":"20140814"
+		},
+		{
+			"title":"[기획·전략·<b>경영 직무<\/b> 채용] 합격스펙, 출신대학, 전공... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221421592429",
+			"description":"오늘 포스팅의 주제는 [ 기획·전략·경영 ] 입니다. 기획·전략·<b>경영직무<\/b>에 관심 있는 분들은 집중해주세요~ 기획·전략·경영 채용공고 내가 바로 남다른 기획력을 자랑하는 인재! 그렇다면 '기획·전략·경영... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20181218"
+		},
+		{
+			"title":"<b>직무<\/b>를 알아야 합격이 보인다! <b>경영<\/b>평가",
+			"link":"https:\/\/blog.naver.com\/dreamgodream?Redirect=Log&logNo=221411346158",
+			"description":"<b>경영<\/b>평가 <b>경영<\/b>평가 <b>직무<\/b>란? <b>경영<\/b>평가는 조직의 지속적 성장을 위하여 <b>경영<\/b>목표에 따른 평가기준을 마련하고, 일정기간 동안 조직이 수행한 성과를 이 기준에 따라 분석\/정리하여 보고하는 일입니다.... ",
+			"bloggername":"꿈날개 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dreamgodream",
+			"postdate":"20181204"
+		},
+		{
+			"title":"중소기업 실비용 0원 교육과정 (무료강의) <b>경영직무<\/b>, 리더십... ",
+			"link":"https:\/\/blog.naver.com\/giftsmile4u?Redirect=Log&logNo=220124381472",
+			"description":"중소기업 실비용 &quot;0원&quot; 교육과정(중소기업에 반드시 필요한 핵심과정 50개를 무료로 제공할 예정인가 보네요) <b>경영직무<\/b>과정(직장인의 기본상식! 회계기초와 재무제표) ○교육시간 : 1개월(16시간)... ",
+			"bloggername":"스마일이 전하는 생활건강",
+			"bloggerlink":"https:\/\/blog.naver.com\/giftsmile4u",
+			"postdate":"20140917"
+		},
+		{
+			"title":"독서<b>경영<\/b> :: 독서를 통한 <b>직무<\/b>교육!! 데이앤라이프신촌점에... ",
+			"link":"https:\/\/blog.naver.com\/ksunhawk?Redirect=Log&logNo=220099195486",
+			"description":"독서경영 :: 독서를 통한 직무교육!! 데이앤라이프신촌점에 초인용샘과 거따덩이 다녀왔어요^^ 독서의... 다음에 만날 때 독서를 통한 이야기를 더 많이 나눠보자 약속하고 즐거운 독서<b>경영 직무<\/b>교육을 마무리... ",
+			"bloggername":"거칠지만따뜻한덩치 거따덩",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksunhawk",
+			"postdate":"20140821"
+		},
+		{
+			"title":"[한솔교육 <b>직무<\/b>소개] 선배들의 이야기_<b>경영<\/b>관리편",
+			"link":"https:\/\/blog.naver.com\/eduhansol1?Redirect=Log&logNo=220427781317",
+			"description":"“사업을 바라보는 포괄적인 시각을 가지고 싶다면 <b>경영<\/b>관리 <b>직무<\/b>에 도전해보세요” <b>경영<\/b>관리팀에서는 어떤 일을 할까요? 이름만 들어서는 알쏭달쏭한 <b>경영<\/b>관리 <b>직무<\/b>. 그래서 한솔교육 산학협력연수생으로... ",
+			"bloggername":"한솔플라톤 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/eduhansol1",
+			"postdate":"20150722"
+		},
+		{
+			"title":"<b>경영<\/b>관리팀 <b>직무<\/b>교육 &quot;내 업무 소개하기&quot;",
+			"link":"https:\/\/blog.naver.com\/dasan_books?Redirect=Log&logNo=221196680774",
+			"description":"한 달에 한번 팀 독서<b>경영<\/b>시간을 활용한 <b>직무<\/b>교육 “내 업무 소개하기” 우리 부서는 각자가 다른 영역의 업무를 하기 때문에 분야가 다른 동료의 업무에 대해서는 깊이 알지 못합니다. 그렇지만 영역이... ",
+			"bloggername":"다산북스 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dasan_books",
+			"postdate":"20180130"
+		},
+		{
+			"title":"▷ (주)호텔인 교육센터 호텔<b>경영 직무<\/b>교육기관 으로 등록 ◁",
+			"link":"https:\/\/blog.naver.com\/hotelmate?Redirect=Log&logNo=220312938239",
+			"description":"호텔인 <b>경영직무<\/b> 교육기관 으로 등록되었습니다. 현재 많은 호텔과 MOU를 체결하고 있으며, 더욱더... 전문경영, 객실 판매, 호텔사업, 호텔 교육아카데미, 호텔 사업방향, 호텔사업 동문회, 호텔 네트워크... ",
+			"bloggername":"(주)메이트아이 교육센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/hotelmate",
+			"postdate":"20150327"
+		},
+		{
+			"title":"[홍석환의 3분 <b>경영<\/b>] <b>직무<\/b>역량을 강화해야 하는 이유",
+			"link":"https:\/\/blog.naver.com\/no1gsc?Redirect=Log&logNo=220654971870",
+			"description":"최근 <b>직무<\/b>교육을 강화하기 위하여 저희 회사의 이러닝부를 <b>직무<\/b>교육부로 바꾸고 15개의 <b>직무<\/b> 분야별 추천학습경로를 제공하고 Expert과정 및 <b>경영<\/b>관리과정에 선발 인력 교육을 강화하고 있습니다. 현업 중심의... ",
+			"bloggername":"3분 경영",
+			"bloggerlink":"https:\/\/blog.naver.com\/no1gsc",
+			"postdate":"20160314"
+		},
+		{
+			"title":"한국문학번역원 <b>경영<\/b>기획 <b>직무<\/b>기술서 알아보기",
+			"link":"https:\/\/blog.naver.com\/dreamgodream?Redirect=Log&logNo=221427445599",
+			"description":"한국문학번역원 <b>경영<\/b>기획 <b>직무<\/b>기술서 알아보기 한국문학번역원은 한국의 문학과 문화를 세계와 공유하려는 정부의 의지에 따라 ‘한국문학번역금고’를 모체로 출범한 기관입니다. 한국문학번역원의 주요... ",
+			"bloggername":"꿈날개 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dreamgodream",
+			"postdate":"20181226"
+		},
+		{
+			"title":"한국전력공사 <b>경영<\/b>\/기획 <b>직무<\/b> 면접질문",
+			"link":"https:\/\/blog.naver.com\/tippingtnt0117?Redirect=Log&logNo=221800084830",
+			"description":"<b>경영 직무<\/b>답게 SWOT에 대해서도 질문하고 있는 게 흥미롭네요ㅎㅎ 2. 공익 공기업이다보니 공적인... 아주 간략하게 한전 경영기획 직무의 기출 면접 질문에 대해 알아보았는데요~ 면접 질문을 다운 받고 싶다면?... ",
+			"bloggername":"티엔티 스피치 취업 면접",
+			"bloggerlink":"https:\/\/blog.naver.com\/tippingtnt0117",
+			"postdate":"20200207"
+		},
+		{
+			"title":"<b>경영직무<\/b> 스킬업! 교육생 모집!",
+			"link":"https:\/\/blog.naver.com\/heemangfdn?Redirect=Log&logNo=221491336010",
+			"description":"교육은 소상공인들이 기술력 향상과 변화된 경영환경에 효율적으로 대처하는데 도움을 주고자 실습 위주로 구성된 직무 교육입니다. 이번 <b>경영직무<\/b> 스킬업은 '냉동공조' 편인데요, 냉방시설 점검(세척) 및... ",
+			"bloggername":"소상공인 이야기 소문내는 소리소문",
+			"bloggerlink":"https:\/\/blog.naver.com\/heemangfdn",
+			"postdate":"20190318"
+		},
+		{
+			"title":"실무자가 직접 말하는 KT 人사이드 (<b>경영<\/b>지원 <b>직무<\/b> 편)",
+			"link":"https:\/\/blog.kt.com\/900",
+			"description":"여러분의 고민을 조금이라도 덜어드릴 수 있도록 이번에는 <b>경영<\/b>지원 <b>직무<\/b>를 맡고 계신 KT인들의 이야기를 준비했습니다. 전사적인 목표수립과 각 부서와의 커뮤니케이션으로 업무를 서포트하며, 기업이... ",
+			"bloggername":"늘 곁에 kt, KT그룹 블로그",
+			"bloggerlink":"https:\/\/blog.kt.com\/",
+			"postdate":"20170904"
+		},
+		{
+			"title":"NCS <b>직무<\/b>기술서 요약정리 - <b>경영<\/b>지원\/인사",
+			"link":"https:\/\/blog.naver.com\/kimgr1010?Redirect=Log&logNo=220534514379",
+			"description":"NCS <b>직무<\/b>기술서 요약정리 - <b>경영<\/b>지원\/인사 분야 : <b>경영<\/b> NCS분류 - 정보통신(대분류:20) - 정보기술(중분류:01) - 정보기술개발(소분류:02) 세부<b>직무<\/b> : <b>경영<\/b>지원\/인사 역할 인사는 크게 보면 회사의 구성원들이 회사에... ",
+			"bloggername":"기로킴의 머니 아카이브",
+			"bloggerlink":"https:\/\/blog.naver.com\/kimgr1010",
+			"postdate":"20151110"
+		},
+		{
+			"title":"인천항만공사, <b>경영<\/b>공백 최소화 위한 본부장 <b>직무<\/b>대행 체제 구축",
+			"link":"https:\/\/incheonport.tistory.com\/3199",
+			"description":"○ 김순철(52) <b>경영<\/b>본부장 <b>직무<\/b>대행은 공사에서 항만물류팀, 내항운영팀, 창의<b>경영<\/b>팀장, 마케팅팀장 등을 역임하므로써 내부 사정에 정통하고 관련 부처 및 지역사회 등과의 원활한 소통과 협력을 이끌어 낼 수... ",
+			"bloggername":"인천항만공사 공식 블로그",
+			"bloggerlink":"https:\/\/incheonport.tistory.com\/",
+			"postdate":"20170530"
+		},
+		{
+			"title":"<b>경영<\/b>지원 업무의 꽃! &quot;&quot;기획 ·전략&quot; <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/donga-cia?Redirect=Log&logNo=221030341465",
+			"description":"<b>경영<\/b>지원<b>직무<\/b>의 꽃이라고 할 수 있는 <b>직무<\/b>인 &quot;기획 ·전략 <b>직무<\/b>&quot; 에 대해서 알려드리려 해요! 박수쵸우~~~ 박수쵸우 ~~~ (짝짝~짝! 짝!짝!) . . . 저번 해외영업 및 무역 <b>직무<\/b> 포스팅과 같은 구성으로 기획 ·전략... ",
+			"bloggername":"동아대학교 취업지원실 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/donga-cia",
+			"postdate":"20170616"
+		},
+		{
+			"title":"<b>경영<\/b> 기획 분야 <b>직무<\/b> 기술 및 <b>직무<\/b> 능력 자가 진단 문항",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220873761934",
+			"description":"같이 읽으면 도움되는 포스팅 http:\/\/blog.naver.com\/bosungabi\/220868101800 <b>경영<\/b> 기획 분야 <b>직무<\/b> 기술 및 <b>직무<\/b> 능력 자가진단 문항 ▣ <b>경영<\/b> 기획 01. 사업 환경 분석 ① 목적 : 재료 설계를 시행할 때 고객의 요구... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20161203"
+		},
+		{
+			"title":"[<b>경영<\/b>기획<b>직무<\/b>] 어떤 경험을 해야 좋을까요?",
+			"link":"https:\/\/blog.naver.com\/itdaaworld?Redirect=Log&logNo=220802161236",
+			"description":"그런데 어떤 경험을 쌓아야 제가 원하는 방향의 <b>직무<\/b>성향(자료분석 및 기획 등)을 가진 직업을 갖는데 도움이 되는지 알고싶어요^^ [<b>경영<\/b> 기획 <b>직무<\/b> 현직자 멘토 답변] 경험이라고 말씀드린다면 무조건 실무... ",
+			"bloggername":"잇다 (itdaa) 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/itdaaworld",
+			"postdate":"20160901"
+		},
+		{
+			"title":"2016년 호텔<b>경영<\/b>과 <b>직무<\/b>특강 &quot;호텔에 빠져봅시다&quot;",
+			"link":"https:\/\/blog.naver.com\/happy_inhatc?Redirect=Log&logNo=220846408656",
+			"description":"지난 10월 28일 3시에 2호관 502호 시청각실에서 호텔<b>경영<\/b>과 1학년 학생들을 대상으로 <b>직무<\/b> 특강이 있었어요~! 현재 호텔에서 근무하시는 호텔리어가 강의를 하셔서 인이도 많은 기대를 하고있었습니다! 바쁜... ",
+			"bloggername":"인하공업전문대학",
+			"bloggerlink":"https:\/\/blog.naver.com\/happy_inhatc",
+			"postdate":"20161027"
+		},
+		{
+			"title":"08년 KSA(<b>경영 직무<\/b>역량&amp;공통역량) 사업계획(교육일정) 안내",
+			"link":"https:\/\/blog.naver.com\/ksaqm?Redirect=Log&logNo=110023951614",
+			"description":"첨부1: 08년 <b>경영<\/b>전략교육(<b>직무<\/b>&amp;공통역량) 일정표(엑셀파일) 첨부2: 08년 <b>경영<\/b>전략교육(<b>직무<\/b>&amp;공통역량) 인쇄본 책자와 동일한 PDF안내 첨부3: 08년 <b>경영<\/b>전략교육(<b>직무<\/b>&amp;공통역량) 일정표&amp;내용_DB용... ",
+			"bloggername":"표준&품질&인증&교육=KSA님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksaqm",
+			"postdate":"20071106"
+		},
+		{
+			"title":"[<b>경영<\/b>지원] 재무 <b>직무<\/b> 소개 및 인터뷰",
+			"link":"https:\/\/blog.naver.com\/daou_data?Redirect=Log&logNo=221184304516",
+			"description":"[<b>경영<\/b>지원] 재무 <b>직무<\/b> 소개 및 인터뷰 재무 <b>직무<\/b> 소개 회계처리 및 자금관리 등 재무 관련 업무를 총괄합니다. 정확한 재무정보는 <b>경영<\/b>진과 투자자들이 신속하게 현황을 파악하고 의사결정을 할 수 있게 합니다.... ",
+			"bloggername":"다우데이타 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daou_data",
+			"postdate":"20180113"
+		},
+		{
+			"title":"손에 잡히는 학급<b>경영<\/b> 노하우 <b>직무<\/b>연수 실시",
+			"link":"https:\/\/blog.naver.com\/djenews?Redirect=Log&logNo=220936763735",
+			"description":"대전교육 #대전 #대전교육연수원 #교육 #교육현장 #교사 #학생 #교실 교사와 학생이 행복한, 공동체적 감수성이 있는 교실 - 손에 잡히는 학급<b>경영<\/b> 노하우 <b>직무<\/b>연수 실시 - 대전교육연수원(원장 김원중)은 지난 2월... ",
+			"bloggername":"대전광역시교육청",
+			"bloggerlink":"https:\/\/blog.naver.com\/djenews",
+			"postdate":"20170216"
+		},
+		{
+			"title":"[<b>경영<\/b>지원] 인사 <b>직무<\/b> 소개 및 인터뷰",
+			"link":"https:\/\/blog.naver.com\/daou_data?Redirect=Log&logNo=221184302331",
+			"description":"[<b>경영<\/b>지원] 인사 <b>직무<\/b> 소개 및 인터뷰 인사총무 <b>직무<\/b> 소개 인사의 주요업무는 인사관리, 교육\/훈련, 복리후생 제도 수립 및 실행입니다. 인재 유지 및 육성을 통해 회사의 무형 경쟁력 확보를 목표로 두고... ",
+			"bloggername":"다우데이타 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daou_data",
+			"postdate":"20180113"
+		},
+		{
+			"title":"고객만족<b>경영 직무<\/b>능력향상",
+			"link":"https:\/\/arisu1000.tistory.com\/1755",
+			"description":"고객만족경영이란 무엇인가에 관해서 나와있는 책입니다. 수험서 성격도 있어서 이것저것 정리는... 03 고객만족<b>경영 직무<\/b>능력향상 (0) 2010.04.26 고객 서비스 어떻게 할 것인가? (0) 2010.04.21 이채원의... ",
+			"bloggername":"아리수 :: 아리수",
+			"bloggerlink":"https:\/\/arisu1000.tistory.com\/",
+			"postdate":"20100426"
+		},
+		{
+			"title":"<b>경영<\/b>지원 <b>직무<\/b>와 <b>경영<\/b>기획 <b>직무<\/b>의 모든 것",
+			"link":"https:\/\/blog.naver.com\/resumake?Redirect=Log&logNo=221676420431",
+			"description":"직무의 비전 <b>경영 직무<\/b>의 경우 세부 직무나 역할에 따라 발전 가능성이 무궁무진합니다. 다만 경영진의 대행 역할을 하고 나아가 사업을 기획하는 결정적인 역할을 하는 부서이다 보니 해당 영역 근무자들은... ",
+			"bloggername":"외국계기업 채용, 취업컨설팅, 영문이력서, 영어면접",
+			"bloggerlink":"https:\/\/blog.naver.com\/resumake",
+			"postdate":"20191013"
+		},
+		{
+			"title":"효율적인 <b>직무<\/b>교육, 한우리에서 확인하는 독서<b>경영<\/b>",
+			"link":"https:\/\/blog.naver.com\/supapa13?Redirect=Log&logNo=221443647442",
+			"description":"한우리독서<b>경영<\/b>, 효율적인 <b>직무<\/b>교육을 위해 출처 : 한우리 독서<b>경영<\/b> 홈페이지 '책 속에 길이 있다' 사실 좀 뻔한 이야기일 수도 있겠지만, 세월이 흐르고 시대가 아무리 변화한다고 한들 이 진리는 결코 변질되지... ",
+			"bloggername":"세수하면이병헌 IT, 육아",
+			"bloggerlink":"https:\/\/blog.naver.com\/supapa13",
+			"postdate":"20190116"
+		},
+		{
+			"title":"한국폴리텍대학 원주캠퍼스 <b>경영<\/b>지원 <b>직무<\/b>실무프로젝트... ",
+			"link":"https:\/\/blog.naver.com\/snsedu2011?Redirect=Log&logNo=220727937486",
+			"description":"여름이 가까운 오후입니다 한국폴리텍대학 원주캠퍼스 <b>경영<\/b>지원 <b>직무<\/b>실무프로젝트 &quot;SNS창업마케팅 실무&quot; 과정 운영중~~^^ 본 과정은 중장년층들을위한 취업 및 창업 프로그램으로서 역량강화를 위한 목적입니다.... ",
+			"bloggername":"정보근앤컴퍼니",
+			"bloggerlink":"https:\/\/blog.naver.com\/snsedu2011",
+			"postdate":"20160605"
+		},
+		{
+			"title":"[<b>직무<\/b>탐구] LG디스플레이 사업부의 컨트롤 타워, IT <b>경영<\/b>관리... ",
+			"link":"https:\/\/blog.naver.com\/youngdisplay?Redirect=Log&logNo=221600897887",
+			"description":"대학생 때 어떤 전공을 공부하셨고 <b>경영<\/b>관리 <b>직무<\/b>를 선택한 계기는 무엇인지 궁금합니다. 저는 불어불문학과를 전공했습니다. 제가 입사할 당시 LG디스플레이가 프랑스 관련 사업이 없었던 점을 고려하면... ",
+			"bloggername":"LG디스플레이 대학생 인플루언서_디플",
+			"bloggerlink":"https:\/\/blog.naver.com\/youngdisplay",
+			"postdate":"20190731"
+		},
+		{
+			"title":"실무자에게 배우는 &quot;<b>경영<\/b>전략 <b>직무<\/b> 쉽게 이해하기&quot; 강의 소개",
+			"link":"https:\/\/blog.naver.com\/jiven?Redirect=Log&logNo=220335767559",
+			"description":"<b>직무<\/b> 교육을 전문으로 하는 슈퍼트랙에서 <b>경영<\/b>전략 강의를 오픈하였습니다 <b>경영<\/b>전략 <b>직무<\/b>에 관심 있는 분들은 참고바랍니다~ 슈퍼트랙의 소식을 얻고 싶으신 분은 아래 슈퍼트랙 블로그 이웃추가... ",
+			"bloggername":"40대 서울남자의 커리어 백과사전",
+			"bloggerlink":"https:\/\/blog.naver.com\/jiven",
+			"postdate":"20150420"
+		},
+		{
+			"title":"<b>경영<\/b>지원 업무 &quot;<b>직무<\/b> 설명 및 필요 자질&quot;",
+			"link":"https:\/\/blog.naver.com\/economyplay?Redirect=Log&logNo=140161188598",
+			"description":"경영과 경영지원 직무이다. 경영\/경영지원 직무를 수행하는 데 필요한 자질은 무엇인지 살펴보겠다.... 특히 진두에 서서 기업을 끌어나가야 할 <b>경영 직무<\/b>에 있어서 그 중요성은 더욱 부각되는 분위기다. 이는... ",
+			"bloggername":":::: 경제놀이터™ ::::",
+			"bloggerlink":"https:\/\/blog.naver.com\/economyplay",
+			"postdate":"20120613"
+		},
+		{
+			"title":"21상 SBS <b>경영 직무<\/b> 자소서 4번 예시",
+			"link":"https:\/\/blog.naver.com\/latte_life?Redirect=Log&logNo=222252381758",
+			"description":"<b>경영 직무<\/b> 자소서 4번 문항 예시를 공유 드리겠습니다. 유료로 문의할 게 있으신 분들은 카톡 아이디, hori1017로 연락 주세요. 연락 주시기 전에 아래 두 카페 링크 글을 꼭 읽고 연락 주세요. &lt; &gt;&lt; 4. 기업 경영... ",
+			"bloggername":"하리하리의 블로그하리",
+			"bloggerlink":"https:\/\/blog.naver.com\/latte_life",
+			"postdate":"20210222"
+		},
+		{
+			"title":"관광<b>경영<\/b>과 전공<b>직무<\/b>특강!!",
+			"link":"https:\/\/blog.naver.com\/happy_inhatc?Redirect=Log&logNo=220845181766",
+			"description":"오늘 우리대학 4호관 610호에서 16시30분부터 관광<b>경영<\/b>과 재학생들을 대상으로 전공<b>직무<\/b>특강이 있었어요~! 추운날씨에도 불구하고 롯데그룹 취업설명회를 담당하시는 롯데 제이티비의 이종옥... ",
+			"bloggername":"인하공업전문대학",
+			"bloggerlink":"https:\/\/blog.naver.com\/happy_inhatc",
+			"postdate":"20161025"
+		},
+		{
+			"title":"<b>경영<\/b>지원 사업관리 <b>직무<\/b> &amp; 자소서팁",
+			"link":"https:\/\/blog.naver.com\/munite?Redirect=Log&logNo=220556841486",
+			"description":"<b>경영<\/b>지원 사업관리 <b>직무<\/b> &amp; 자소서팁 자기소개서를 쓸 때나 면접을 보러갈 때 중요한 것 중에 하나가 바로 <b>직무<\/b>에 대한 이해라고 할 수 있죠. 그래서 <b>직무<\/b>에 대해서 하나하나 공부해 가보려고 하고 있어요.... ",
+			"bloggername":"누수119",
+			"bloggerlink":"https:\/\/blog.naver.com\/munite",
+			"postdate":"20151202"
+		},
+		{
+			"title":"실전 <b>직무<\/b>전문화 아카데미 2일차 - <b>경영<\/b>지원직 -",
+			"link":"https:\/\/blog.naver.com\/speralist?Redirect=Log&logNo=120123078186",
+			"description":"[ 관련글 ] 실전 <b>직무<\/b>전문화 아카데미 1일차 - 공통역량과정 - 실전 <b>직무<\/b>전문화 아카데미 2일차 - <b>경영<\/b>지원직 - 실전 <b>직무<\/b>전문화 아카데미 3일차 - <b>경영<\/b>지원직 - 실전 <b>직무<\/b>전문화 아카데미 4일차... ",
+			"bloggername":"플로우라이프, 애씀 없는 삶",
+			"bloggerlink":"https:\/\/blog.naver.com\/speralist",
+			"postdate":"20110131"
+		},
+		{
+			"title":"경북교육청연수원 중등교장역량강화 학교<b>경영 직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/so7712yee?Redirect=Log&logNo=221492711798",
+			"description":"- 중등교장역량강화(학교<b>경영<\/b>)<b>직무<\/b>연수 - 경상북도교육청연수원(원장 김인한)은 3월 20일(수)부터 3월 22일(금)까지 경북도내 중등초임교장 40명을 대상으로 학교경영 전반에 대한 역량강화 직무연수를 진행한다.... ",
+			"bloggername":"내일신문 대구경북구미",
+			"bloggerlink":"https:\/\/blog.naver.com\/so7712yee",
+			"postdate":"20190320"
+		}
+	]
+}

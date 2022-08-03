@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:22 +0900",
+	"total":607,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>국방<\/b>대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525245&cid=46628&categoryId=46628",
+			"description":" 국가안보에 관한 연구와 교육을 위해 설립된 <b>국방<\/b>부 산하의 교육·연구기관. [개설] 1955년 8월 15일 서울시 종로구 관훈동에서 창설된 <b>국방<\/b>대학이 모체이다. 1999년 12월 31일 해체될 때까지 군의 고급장교와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_6\/20170818010433658_XCSXN0C4N.jpg\/e8c93e74-4274-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>홍보원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%ED%99%8D%EB%B3%B4%EC%9B%90",
+			"description":"<b>직무<\/b> <b>국방<\/b>일보, 국군방송 TV 및 라디오 등 군 홍보물 제작에 관한 사무 연혁 1950년 7월 4일: <b>국방<\/b>부 촬영대 창설. 1963년 12월 16일: <b>국방<\/b>부 정훈부 방송실을 설치. . 1963년 12월 16일: 촬영대를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6479193&cid=43667&categoryId=43667",
+			"description":"kr | <b>국방<\/b>대학교는 국가 안전보장과 관련된 정책 및 전략수립 능력을 갖춘 최고의 인재를 육성하기 위해 설치된 국내 유일의 국가안보 종합대학으로, <b>국방<\/b>부장관 소속이다. 충남 논산에 위치해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미국 <b>국방<\/b>부 장관실",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AF%B8%EA%B5%AD_%EA%B5%AD%EB%B0%A9%EB%B6%80_%EC%9E%A5%EA%B4%80%EC%8B%A4",
+			"description":"그 외의 <b>직무<\/b>로서 <b>국방<\/b> 연구기술국장, <b>국방<\/b> 차관보, 법률 고문, 운용시험평가국장, <b>국방<\/b>장관 보좌관, 행정 관리국장 등이 <b>국방<\/b>장관을 보좌한다. 같이 보기 미국의 <b>국방<\/b>부 장관 외부 링크 (영어)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"멕시코의 <b>국방<\/b>기구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5796013&cid=43970&categoryId=43972",
+			"description":"국가안보 기본체계] ○ 체계상 특징 - 대통령은 군(軍) 최고 통수권자이며, <b>국방<\/b>부(SEDENA)와 해군부(SEMAR)의 장관은 현역 대장이 <b>직무<\/b> 수행 - <b>국방<\/b>부 장관은 육군 및 공군을 관장하며, 육군은 12개... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2361_000_1\/20220614155626327_2YJE8CWQD.png\/gb17_52_i1.png?type=m160_160"
+		},
+		{
+			"title":"대한민국 국회 <b>국방<\/b>위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EA%B5%AD%EB%B0%A9%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"1951년 3월 15일: 외무<b>국방<\/b>위원회를 외무위원회로 <b>국방<\/b>위원회로 분리. <b>직무<\/b> 소관 부처 <b>국방<\/b>부 병무청 방위사업청 위원 명단 소위원회 소관 법률 각주 외부 링크 <b>국방<\/b>위원회 공식 홈페이지",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>정책연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025266&cid=42117&categoryId=42117",
+			"description":" 국가방위를 위한 안보전략, 군사발전, <b>국방<\/b>인력, <b>국방<\/b>자원, 전력투자분석 등의 정책과 제도를 연구하고 <b>국방<\/b>정책수립을 지원한다. [수행<b>직무<\/b>] 안보전략 환경을 분석하여 국가차원의 안보전략, <b>국방<\/b>정책 기조... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066953&cid=40942&categoryId=37404",
+			"description":"이와 같은 교육기관은 1927년 영국의 <b>국방<\/b>대학이 창설되어 군·관·민의 간부들이 정치·경제·군사적... 미국은 1946년에 워싱턴시(市)에 NWC(National War College:<b>국방<\/b>연수원)를 창설하고 3군에서 선발된 장교와 다른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=871224&cid=43142&categoryId=43142",
+			"description":"1955년 8월 15일 서울시 종로구 관훈동에 창설된 <b>국방<\/b>대학에서 출발했다. 1956년 3월 은평구 수색동으로 이전했으며, 그 해 8월 제1기 졸업생을 배출했다. 1957년 <b>국방<\/b>연구원으로 이름을 바꾼 데 이어, 1961년... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2351_000_1\/20111219160628255_9UGJYDFVX.jpg\/1216.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>과학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028162&cid=42117&categoryId=42117",
+			"description":" 국가방위에 필요한 병기·장비 및 물자에 대한 기술적 조사, 연구, 개발, 시험을 수행한다. [수행<b>직무<\/b>] 병기, 장비 및 군용물자에 관한 기술적 조사, 연구, 개발과 이와 관련된 계통공학, 인간공학 관련... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인도네시아 <b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6603366&cid=40942&categoryId=31661",
+			"description":"독립 이전 네덜란드령 동인도 내의 군사력은 네덜란드왕립군(KNIL)과 네덜란드왕립해군(KM, Royal Netherlands Navy)로 구성되었다. 군인은 주료 네덜란드 자원군과 유럽 용병들로 구성되었으며, 다수 종족인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미국의 <b>국방<\/b>부 장관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AF%B8%EA%B5%AD%EC%9D%98_%EA%B5%AD%EB%B0%A9%EB%B6%80_%EC%9E%A5%EA%B4%80",
+			"description":"통괄·지휘하는 <b>직무<\/b>를 담당하는 직책으로서 창설되었다. 초대 <b>국방<\/b>장관인 제임스 포레스탈은 태평양 전쟁 당시에 해군 장관으로서 활약했었는데, 이후 <b>국방<\/b>장관으로 취임하면서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 <b>국방<\/b>부 차관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B5%AD%EB%B0%A9%EB%B6%80_%EC%B0%A8%EA%B4%80",
+			"description":"역할 <b>국방<\/b>부 차관은 장관을 보좌하여 소관사무를 처리하고 소속공무원을 지휘·감독하며, 장관이 사고로 <b>직무<\/b>를 수행할 수 없으면 그 <b>직무<\/b>를 대행한다. 역대 차관 미군정 통위부 차장 <b>국방<\/b>부 차관 같이 보기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 <b>국방<\/b>부 차관보",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B5%AD%EB%B0%A9%EB%B6%80_%EC%B0%A8%EA%B4%80%EB%B3%B4",
+			"description":"그 <b>직무<\/b>를 대행한다. 역대 차관보 <b>국방<\/b>부 재정차관보(<b>국방<\/b>부 이재차관보) 장건식(張健植), 1955년 2월 26일 ~ 1956년 1월 26일, 현역 해군 준장, 재정담당차관보 안춘생(安椿生), 1956년 1월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자립경제와 <b>국방<\/b> 경제 병진 노선 그리고 경제난",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2829693&cid=55643&categoryId=55643",
+			"description":"북한은 1960년대에 들어서 경제 건설의 기본 전략으로 ‘자립적 민족경제 건설 노선’을 제창했다. 이 노선은 개별 사회주의 국가들의 자립경제보다는 사회주의적 국제분업을 강조한 소련과 갈등하면서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안춘생",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%95%88%EC%B6%98%EC%83%9D",
+			"description":"안춘생 (安椿生, 1912년 8월 1일 ( 1912-08-01 ) ~ 2011년 1월 26일 ( 2011-01-26 ) )은 안중근의 5촌 조카로서, 독립운동가 출신인 대한민국 군인, 정치가이며 예비역 대한민국 육군 중장이다. 주요 이력 1942년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"박시창",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%95%EC%8B%9C%EC%B0%BD",
+			"description":"박시창 (朴始昌, 1900년 2월 5일 ( 1900-02-05 ) 대한제국 경기도 시흥 출생 ~ 1986년 6월 7일 ( 1986-06-07 ) 대한민국 서울에서 별세.)은 대한민국의 독립운동가 겸 군인이자 예비역 대한민국 육군 소장 출신이며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김창룡",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%EC%B0%BD%EB%A3%A1",
+			"description":"김창룡 (金昌龍, 1920년 7월 18일 일제 강점기 조선 함경남도 영흥 출생 ~ 1956년 1월 30일 대한민국 서울에서 암살됨.)은 일본군과 대한민국 국군에서 복무를 한 대한민국의 군인이다. 호(號)는 옥도(玉島)이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"엄현성",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%97%84%ED%98%84%EC%84%B1",
+			"description":"엄현성 (嚴賢聖, 1958년 6월 4일 ~ )은 대한민국 제32대 해군참모총장이다. 학력 1971년 호산초등학교 졸업 1974년 원덕중학교 졸업 1977년 삼척고등학교 졸업 1981년 해군사관학교 35기 1986년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이왕근",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%99%95%EA%B7%BC",
+			"description":"이왕근 (李旺根, 1961년 7월 1일 ~ )은 대한민국의 제36대 공군참모총장을 역임한 군인이었다. 생애 1961년에 대전에서 태어나 충남고등학교를 졸업하고, 1983년 공군사관학교 31기로 임관해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김진기",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%EC%A7%84%EA%B8%B0",
+			"description":"김진기 (金晋基, 1932년 4월 19일 ~ 2006년 12월 28일)는 대한민국의 군인 겸 정치인이다. 예비역 육군 준장이며, 1979년 12·12 군사 반란 당시 육군본부 헌병감 및 육군 준장이었다. 평안북도 후창... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이병기 (1891년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EB%B3%91%EA%B8%B0_(1891%EB%85%84)",
+			"description":"이병기 (李秉岐, 1891년 3월 5일 ∼ 1968년 11월 29일)는 대한민국의 시조 작가 겸 국문학자이다. 본관은 연안(延安)이고 호는 가람(嘉藍)이며 전라북도 익산에서 출생하였다. 생애 한성사범학교를 나와 경성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"권영해 (1937년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B6%8C%EC%98%81%ED%95%B4_(1937%EB%85%84)",
+			"description":"권영해 (權寧海, 1937년 9월 9일~)는 육군 소장으로 전역한 대한민국의 정치인이다. <b>국방<\/b>부 차관·<b>국방<\/b>부 장관 등을 거쳐 국가안전기획부장 직책을 지냈다. 주요 이력 경력 육군 소장 예편 <b>국방<\/b>부 기획관리실... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이희근 (1929년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%ED%9D%AC%EA%B7%BC_(1929%EB%85%84)",
+			"description":"이희근 (李喜根, 1929년 12월 13일 ( 1929-12-13 ) ~ )은 대한민국의 공군 장성을 지낸 국영기업가 겸 정치가이다. 생애 학력 대구상업고등학교 졸업 대한민국 공군사관학교 1기 대한민국 육군보병학교... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이형석 (1909년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%ED%98%95%EC%84%9D_(1909%EB%85%84)",
+			"description":"이형석 (李炯錫, 1909년 ~ 1991년)은 대한민국의 군인이다. 생애 젊은 시절 이형석(李炯錫)은 1909년 평안북도 선천군에서 출생하였고 지난날 한때 황해도 수안군을 거쳐 충청북도 단양군에서 잠시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지만원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%80%EB%A7%8C%EC%9B%90",
+			"description":"지만원 (池萬元, 1942년 12월 27일 ~ )은 대한민국의 군인 출신 군사평론가이다. 또한 5.18 광주 민주화 운동 희생자에 대한 2차적 피해를 가한 최대 피의자 이자 망언을 하는 인물이다.그 망언과 사실 왜곡... ",
+			"thumbnail":""
+		},
+		{
+			"title":"백홍석 (1890년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%B1%ED%99%8D%EC%84%9D_(1890%EB%85%84)",
+			"description":"백홍석 (白洪錫, 일본식 이름: 德川榮一 도쿠가와 에이이치 , 1890년 1월 11일 ( 1890-01-11 ) ~ 1960년 10월 4일 ( 1960-10-04 ) )은 일제 강점기와 대한민국의 군인이다. 평안남도 덕천 출생. 본관은 수원. 생애... ",
+			"thumbnail":""
+		},
+		{
+			"title":"박희재",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%95%ED%9D%AC%EC%9E%AC",
+			"description":"박희재 (朴喜宰, 1932년 10월 30일 ~ 2020년 4월 24일)는 대한민국의 군인 출신 정치가, 기업가 겸 사회운동가이자 저술가 겸 대학 교수였으며 예비역 대한민국 해병대 중장이다. 그의 유해는 국립... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서정갑 (1940년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%9C%EC%A0%95%EA%B0%91_(1940%EB%85%84)",
+			"description":"서정갑 (徐貞甲, 1940년 11월 29일 ~ )은 대한민국의 군인 출신으로 육해공군예비역 대령연합회 회장이자 국민행동본부 본부장이다. 이력 연세대학교 4학년 때 ROTC 소위로 임관, 베트남 전쟁에 참전, 이 후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"박인용",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%95%EC%9D%B8%EC%9A%A9",
+			"description":"박인용 (朴仁鎔, 1952년 9월 1일 ~ )은 대한민국의 예비역 해군 대장이자 前 국민안전처 장관이다. 학력 1964년 화접초등학교 졸업 1970년 경희고등학교 졸업 1974년 해군사관학교 28기 학사 1977년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이희성 (1924년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%ED%9D%AC%EC%84%B1_(1924%EB%85%84)",
+			"description":"이희성 (李熺性, 1924년 12월 29일~2022년 6월 6일)은 대한민국의 군인, 정치가, 국영기업인이다. <b>국방<\/b>부 특명검열단 단장, 중앙정보부 부장 서리, 교통부 장관 등을 역임하였다. 본관은 합천 이씨이며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장경근",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%A5%EA%B2%BD%EA%B7%BC",
+			"description":"장경근 (張暻根, 일본식 이름: 長山暻根 나가야마 게이네 , 1911년 5월 18일 일제 강점기 조선국 평안북도 용천 출생 ~ 1978년 7월 25일 대한민국 서울에서 별세.)은 판사 출신의 대한민국 정치인, 법조인이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신현준 (군인)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8B%A0%ED%98%84%EC%A4%80_(%EA%B5%B0%EC%9D%B8)",
+			"description":"신현준 (申鉉俊, 1915년 10월 23일 ~ 2007년 10월 15일)은 대한민국의 군인, 정치가, 외교관이다. 본관은 평산(平山)이다. 창씨개명 당시의 일본식 이름은 우다가와 요시히토(宇田川義人)이다. 생애 일제 강점기에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유승렬 (1893년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9C%A0%EC%8A%B9%EB%A0%AC_(1893%EB%85%84)",
+			"description":"유승렬 (劉升烈, 1893년 3월 9일 ( 1893-03-09 ) ~ 1968년 5월 18일 ( 1968-05-18 ) )은 일제 강점기와 대한민국의 군인이다. 본관은 강릉(江陵)이다. 생애 충청남도 공주군 출신으로, 대한제국 말기에 관비... ",
+			"thumbnail":""
+		},
+		{
+			"title":"송호성",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%A1%ED%98%B8%EC%84%B1",
+			"description":"길을 걸은 그를 기려 조국해방 45돐이 되는 때에 조국통일상을 수여하였다. (주일봉 기자, 통일신보 2018년 3월 13일) 참조 외부 링크 송호성 前 대한민국 <b>국방<\/b>부 차관 <b>직무<\/b>대행 서리 - 두산세계대백과사전",
+			"thumbnail":""
+		},
+		{
+			"title":"손원일",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%90%EC%9B%90%EC%9D%BC",
+			"description":"손원일 (孫元一, 1909년 5월 5일(음력) ~ 1980년 2월 15일)은 대한민국 제5대 <b>국방<\/b>부 장관, 초대 서독 주재 대한민국 대사 등을 지낸 대한민국 독립운동가 및 예비역 대한민국 해군 중장 출신이자, 군인, 정치가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마크 에스퍼",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%A7%88%ED%81%AC_%EC%97%90%EC%8A%A4%ED%8D%BC",
+			"description":"그는 <b>국방<\/b>부 장관 <b>직무<\/b>대행을 역임했으며, 2017년부터 2019년까지 제23대 미육군 장관이었다. <b>국방<\/b>부에 임용되기 전에는 미국 기업의 임원이자 전역 군인이었다. 미국의 주요 방위산업체(U.S. defense... ",
+			"thumbnail":""
+		},
+		{
+			"title":"최영희 (1921년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B5%9C%EC%98%81%ED%9D%AC_(1921%EB%85%84)",
+			"description":"최영희 (崔榮喜, 1921년 3월 1일 ( 1921-03-01 ) 일제 강점기 조선 경성부 출생 ~ 2006년 1월 11일 ( 2006-01-11 ) 대한민국 서울에서 별세.)는 터키 주재 대한민국 대사·<b>국방<\/b>부 장관·3선 국회의원 등을 지낸... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이종찬 (1916년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%A2%85%EC%B0%AC_(1916%EB%85%84)",
+			"description":"이종찬 (李鐘贊, 1916년 3월 10일 ( 1916-03-10 ) ~ 1983년 2월 10일 ( 1983-02-10 ) )은 대한민국 <b>국방<\/b>부 장관·이탈리아 주재 대한민국 대사·재선 국회의원 등을 지낸 대한민국 군인 겸 정치가이자 외교관이다. 그는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"향리 (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2644098&cid=51895&categoryId=53911",
+			"description":"[정의] 고려, 조선시대 때 지방 행정의 말단 기능을 담당한 계층. [개설] 고려시대와 조선시대에 지방관 아래에서 행정실무를 담당하였던 계층이다. 일반적으로 지방관청에 속하여 각 지방의 행정을 맡아... ",
+			"thumbnail":""
+		},
+		{
+			"title":"권기옥",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B6%8C%EA%B8%B0%EC%98%A5",
+			"description":"권기옥 (權基玉, 1901년 1월 11일 ~ 1988년 4월 19일)은 대한민국의 독립운동가이다. 1925년 중화민국 윈난 육군강무학교(항공군사학부)를 나온 한국 최초의 여자 비행사 출신이며, 대한민국 최초의 여성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"향리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1820438&cid=46621&categoryId=46621",
+			"description":" 고려·조선시대 지방 관청의 행정실무를 처리하던 하급 관인계층. [개설] 향리(鄕吏)는 토착적이고 세습적인 성격을 가지며, 고려시대에는 장리(長吏) 또는 외리(外吏)라고도 하였다. 그리고 지방행정단위에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스가 요시히데",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8A%A4%EA%B0%80_%EC%9A%94%EC%8B%9C%ED%9E%88%EB%8D%B0",
+			"description":"방문 첫날에는 마이크 폼페이오 국무장관, 패트릭 섀너핸 <b>국방<\/b>장관 <b>직무<\/b>대행과 만났고, 다음 날에는 마이크 펜스 부통령과 만났다. 도널드 트럼프 대통령과는 만나지 않았지만, 미국 트럼프 정권을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"최창석 (동음이의)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B5%9C%EC%B0%BD%EC%84%9D_(%EB%8F%99%EC%9D%8C%EC%9D%B4%EC%9D%98)",
+			"description":"최창석 이라는 이름에는 다음과 같은 동명이인이 있다. 최용덕(崔用德) 최창석 (崔滄石) - 창석 최용덕 (滄石 崔用德) ... 최용덕 (崔用德, 전직 대한민국 제10대 체신부 장관 역임. 호(號)는 창석(滄石).)의 아호... ",
+			"thumbnail":""
+		},
+		{
+			"title":"허태영",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%97%88%ED%83%9C%EC%98%81",
+			"description":"허태영 (許泰榮, 1919년 12월 11일 ( 1919-12-11 ) ~ 1957년 9월 24일 ( 1957-09-24 ) )은 대한민국의 군인 겸 정치인이며 육군 대령 출신이다. 일생 직계 가족 및 친인척 관계 첫째 남동생 허태석(許泰錫)은 퇴역... ",
+			"thumbnail":""
+		},
+		{
+			"title":"노정기",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%85%B8%EC%A0%95%EA%B8%B0",
+			"description":"노정기 (盧正基, 1934년 10월 8일 일본 오사카 출생 ~ )는 대한민국의 군인이며 외교관 겸 정치가이다. 생애 생애 초기 하나회 첫 기수 구성원 가운데 일원이기도 한 그의 본관(관향)은 광주(光州)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양봉직",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%96%91%EB%B4%89%EC%A7%81",
+			"description":"1963년 <b>국방<\/b>부 운영차관보 <b>직무<\/b>대리 전보(1963년 6월 1일). 1963년 국가재건최고회의 연합참모국 부국장 전보(1963년 7월 1일). 1963년 육군본부 기획보안참모국 차장 전보(1963년 8월 16일). 1966년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김영관 (1925년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%EC%98%81%EA%B4%80_(1925%EB%85%84)",
+			"description":"김영관 (金榮寬, 1925년 9월 9일 ~ 2021년 3월 21일)은 대한민국의 군인, 외교관, 정치가, 행정관료, 기업가, 교육행정가, 사회기관단체인, 스포츠기관단체인였다. 생애 생애 초기 본관은 김해(金海)이며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"강기천 (1927년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%95%EA%B8%B0%EC%B2%9C_(1927%EB%85%84)",
+			"description":"1963년 박정희 국가재건최고회의 제2대 의장 예하 비서실장 <b>직무<\/b>대리. 1963년 대한민국 <b>국방<\/b>부 행정차관보 <b>직무<\/b>대리. 1964년 대한민국 해병대 군단장. 1964년 베트남 전쟁에 참전. 1965년 베트남 전쟁 참전을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가봉의 주요 정치 연혁",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6598972&cid=69785&categoryId=69786",
+			"description":"○ 1960. 8. 17. 프랑스로부터 독립 ○ 프랑스로부터의 독립 운동을 이끌던 Léon Mba 초대 대통령이 1961년 취임 ○ 초대 Léon Mba 대통령 서거에 따라 1967년 32세의 나이에 대통령직을 승계한 Omar Bongo... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2361_000_1\/20220328135601766_GZZC2J59C.jpg\/gb78_11_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"사면법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107262&cid=40942&categoryId=31701",
+			"description":" 사면, 감형과 복권에 관한 사항을 규정하기 위해 제정한 법률(1948. 8. 30, 법률 제2호).  사면은 일반사면과 특별사면으로 한다. 일반사면은 죄를 범한 자, 특별사면과 감형은 형의 선고를 받은 자, 복권은 형의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사면권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1201395&cid=40942&categoryId=31721",
+			"description":" 죄를 용서하여 형벌을 면제해주는 국가원수의 직권.  사면은 군주국가시대에 군주의 은전권(恩典權:군주의 특권적인 자비로써 베풀어지는 은사)의 유물이며, 사법권의 독립에 대한 예외적 현상의 하나이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사면권",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%A9%B4%EA%B6%8C",
+			"description":"[전문개정 2012.2.10.] 사면법 제27조(군사법원에서 형을 선고받은 자의 사면 등) 군사법원에서 형을 선고받은 자에 대하여는 이 법에 따른 법무부장관의 <b>직무<\/b>는 <b>국방<\/b>부장관이 수행하고, 검찰총장과 검사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"벨기에의 최근 정치 정세",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5759114&cid=43869&categoryId=43870",
+			"description":"신뢰와 기대가 점증하고 있는 것으로 관측 - △오랜 기간 동안 왕위 승계 수업을 받아 준비된 국왕으로서의 정치 감각과 <b>직무<\/b> 능력 확보, △네덜란드어권 지역 방문 및 네덜란드어권 인사 등용, △국민",
+			"thumbnail":""
+		},
+		{
+			"title":"군제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=657651&cid=46628&categoryId=46628",
+			"description":"[개설] 한 나라의 군제는 <b>국방<\/b>체제·병역제도·군비·교육훈련 등의 광범위한 내용을 포괄하는 것으로서, 국가제도와 표리관계를 이루면서 시대적 성격이나 전쟁의 형태에 영향을 받는다. 따라서, 군제는 국력을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_11\/20180927201433310_J7SCFJ628.jpg\/0b5553ea-1a24-42.jpg?type=m160_160"
+		},
+		{
+			"title":"토미 라이언 (1893년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%86%A0%EB%AF%B8_%EB%9D%BC%EC%9D%B4%EC%96%B8_(1893%EB%85%84)",
+			"description":"<b>국방<\/b>내무행정분과비서관 <b>직무<\/b>를 하였다. 그 후 1945년 8월 15일을 기하여 2차 대전이 종전되자 미국과도 모종의 친분을 갖던 그는 1948년 1월 8일 이후 미 군정 남조선 과도정부 서울 미군정청에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이재수 (군인)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%9E%AC%EC%88%98_(%EA%B5%B0%EC%9D%B8)",
+			"description":"2014년 10월 16일 ~ 2016년 6월 1일 - 대한민국 <b>국방<\/b>부 인사행정특보보좌관 <b>직무<\/b>대리(육군 중장). 2016년 6월 1일 - 대한민국 육군 중장 예편. 학력 서울 중앙고등학교 졸업 대한민국 육군사관학교 문학사 37기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"페루의 군부의 개혁 정치",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1004929&cid=62120&categoryId=62120",
+			"description":"페루 군부는 1968년 정권을 장악할 때 민족주의 기치하에 비자본주의와 비공산주의를 기초로 불평등을 제거하고 화합, 정의, 존엄성의 개혁주의를 표방하였다. 벨라스코 알바라도는 집권 후 사회 정의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1059_000_1\/20120416204249229_Q8BT4LO86.jpg\/hf6_241_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"이거인 (김천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2589793&cid=51933&categoryId=54376",
+			"description":"사직의 <b>직무<\/b>를 수행하였고, 1467년(세조 13) 세조가 모화관에 나가 군사를 지휘하고 사열할 때 장용대장(壯勇隊將)이 되어 군사 112명을 거느리고 참여하였다. 같은 해 운수부수(雲水副守)가 되어 군사를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국군통수권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=571936&cid=46628&categoryId=46628",
+			"description":" 육·해·공군을 포함한 <b>국방<\/b>기구와 조직상 편제된 모든 국군을 지휘통할할 권한. [개설] 대한민국 헌법과 법률, 그리고 국군조직법에 의하면 <b>국방<\/b>기구와 조직상 대통령이 국군의 최고통수권자이며, 국군통수 상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"구상권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=524812&cid=46625&categoryId=46625",
+			"description":" 남의 채무를 갚아준 사람이 그 사람에 대하여 갖는 반환청구의 권리. [내용] 광의의 구상권은 일방이 어떠한 이유로 인하여 실질적·궁극적으로 부담하여야 할 것을 타방이 대신하여 변제한 경우, 그 타방에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국가배상법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EA%B0%80%EB%B0%B0%EC%83%81%EB%B2%95",
+			"description":"국가배상법 제2조 제1항 단서 다만, 군인, 군무원, 경찰공무원 또는 향토예비군대원이 전투, 훈련, 기타 <b>직무<\/b>집행과 관련하거나 <b>국방<\/b> 또는 치안유지의 목적상 사용하는 시설 및 자동차, 함선, 항공기, 기타... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대통령비서실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1187328&cid=40942&categoryId=34709",
+			"description":" 대통령의 <b>직무<\/b>를 보좌하는 중앙행정기관이다. 1960년 대통령비서실로 설립된 뒤 2008년 대통령실로 개편되었다가 2013년 지금의 대통령비서실로 재편되었다.  정부조직법(14조)에 따라 대통령의 <b>직무<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이재항 (1920년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%9E%AC%ED%95%AD_(1920%EB%85%84)",
+			"description":"이재항 (李載沆, 1920년 5월 4일 ~ 1985년 7월 15일)은 대한민국의 경제관료, 외교관, 정치가, 언론인이다. 생애 생애 초기와 어린 시절 본관은 전주이며, 선조 서자 영성군의 후손이다. 일제 강점기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"윤종호 (1949년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9C%A4%EC%A2%85%ED%98%B8_(1949%EB%85%84)",
+			"description":"윤종호 ( 尹鍾皓 , 아명(兒名)은 尹鍾鎬 , 1949년 10월 13일 ~ )는 대한민국의 군인 겸 정치가 및 대학 교수이다. 생애 일생 서울에서 출생하였고 지난날 한때 어린 시절 한국 전쟁 피난기를 거쳐... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김유근 (1958년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%EC%9C%A0%EA%B7%BC_(1958%EB%85%84)",
+			"description":"김유근 (金有根, 1958년 12월 29일 ( 1958-12-29 ) ~ )은 육군 중장 예편한 대한민국의 군인 출신 관료이다. 국가안보실 제1차장 직책에 있는 그는 2020년 7월 2일을 기하여 국가안보실장 <b>직무<\/b>대리 직책을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이양호 (1937년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%96%91%ED%98%B8_(1937%EB%85%84)",
+			"description":"이양호 (李養鎬, 1937년 6월 16일 ~ 2020년 5월 28일)는 대한민국의 군인 겸 정치가이다. 생애 일생 충청북도 괴산군 증평면에서 출생하였고 지난날 한때 충청북도 괴산군 괴산면에서 잠시 유아기를 보낸... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이진복 (관료)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%A7%84%EB%B3%B5_(%EA%B4%80%EB%A3%8C)",
+			"description":"이진복 (李晋馥, 1913년 4월 30일 ( 1913-04-30 ) ~ 1984년 2월 29일 ( 1984-02-29 ) )은 대한민국의 관료 겸 정치가이다. 본관은 한산(韓山), 호(號)는 포룡(浦龍)·산남(山南)이다. 생애 주요 경력 대한민국... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김상길 (1926년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%EC%83%81%EA%B8%B8_(1926%EB%85%84)",
+			"description":"김상길 (金相吉, 1926년 12월 29일 ( 1926-12-29 ) ~ 2018년 4월 22일 ( 2018-04-22 ) )은 대한민국 원로 반일반공(大韓民國 元老 反日反共) 계파 독립운동가 겸 해군 제독 및 예비역 대한민국 해군 소장 출신이다. 호... ",
+			"thumbnail":""
+		},
+		{
+			"title":"군무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525491&cid=46628&categoryId=46628",
+			"description":" 군이라는 특정분야에서 복무하는 국가공무원. [개설] 군무원은 국군을 구성하고 있는 특정직국가공무원으로서 <b>국방<\/b>부 직할기관 및 부대, 합동참모본부, 육·해·공군의 각급부대에서 정비·보급·수송 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국가안전보장회의법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1203532&cid=40942&categoryId=31713",
+			"description":"헌법의 규정에 의하여 국가안전보장회의의 조직·<b>직무<\/b>범위 기타 필요한 사항을 규정함을 목적으로 하는 법률이다(1963. 12. 14, 법률 제1508호). 대통령·국무총리·통일부장관·외교통상부장관·<b>국방<\/b>부장관 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이성가",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%84%B1%EA%B0%80",
+			"description":"이성가 (李成佳, 1922년 10월 9일 ~ 1975년 12월 1일)는 대한민국 독립운동가이자 군인 겸 정치가 및 외교관이다. 생애 독립운동가 이관석의 막내아들로 중화민국 만저우 지방 지린성 퉁화에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대통령 권한 대행자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=67241&cid=43667&categoryId=43667",
+			"description":"대통령이 대통령직을 수행할 수 없는 경우 혹은 <b>직무<\/b>를 수행할 수 없을 때, 대통령의 권한행사가... 등으로 <b>직무<\/b>를 수행할 수 없는 경우 ▲탄핵결정이 있을 때까지 권한행사가 정지된 경우 등 대통령직의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"육군대학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=870475&cid=43142&categoryId=43142",
+			"description":" 영관장교의 <b>직무<\/b>보수교육을 담당하는 육군의 군사교육기관이었으나 2011년 12월 창설된 합동군사대학교에 통합되었다.  육군대학은 영관장교의 <b>직무<\/b>보수교육을 담당한 대한민국 육군의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2351_000_1\/20111219160257145_7EJCZA2JW.jpg\/457.jpg?type=m160_160"
+		},
+		{
+			"title":"박찬주 (1958년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%95%EC%B0%AC%EC%A3%BC_(1958%EB%85%84)",
+			"description":"직권남용 권리행사 방해죄는 형식적·외형적으로 자신의 <b>직무<\/b> 범위 내에서 그 권한을 남용해서 시켰냐는 게 구성요건인데, GOP에서 근무한 피해 공관병들은 <b>국방<\/b>부 운영지원과가 인사권자이므로 박 대장의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선우진 (1926년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%A0%EC%9A%B0%EC%A7%84_(1926%EB%85%84)",
+			"description":"1960년 장면(張勉) 대한민국 부통령 예하 공보특보보좌관 <b>직무<\/b>대리. 1960년 백낙준(白樂濬) 대한민국 국회 참의원 의장 예하 공보비서관. 1961년 대한공론사 이사장. 1966년 한국독립당 행정공보위원.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장성택",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1381427&cid=40942&categoryId=34322",
+			"description":" 북한의 정치가로 김일성 전 주석의 큰딸 김경희의 남편이자 김정일 전 <b>국방<\/b>위원장의 매제이며, 김정은의 고모부이다. <b>국방<\/b>위원회 부위원장 겸 조선노동당 행정부장, 조선노동당 정치국 위원을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 육군대학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EC%9C%A1%EA%B5%B0%EB%8C%80%ED%95%99",
+			"description":"장교의 <b>직무<\/b> 보수 교육을 하는 기관이었다. 2011년 12월 1일에 합동군사대학교 로 신설되며 해체하였다. 2020년 12월 1일에 육군본부 예하로 육군대학 이 다시 신설되었다. 교과 과정 대한민국 육군의 소령... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대통령 재신임",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=67247&cid=43667&categoryId=43667",
+			"description":" 대통령이 재임기간 중 <b>직무<\/b>의 수행에 있어 신임을 얻지 못한다고 판단이 들어 이를 심사하는 것이다.... 외교·<b>국방<\/b>·통일·기타 국가안위에 관한 중요정책을 국민투표에 붙일 수 있다.'고 명시하고 있다. 그러나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"군사안보지원사령부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1169617&cid=40942&categoryId=36070",
+			"description":" 군사보안, 군 방첩 및 군에 관한 정보의 수집·처리 등에 관한 업무를 수행하는 <b>국방<\/b>부 직할부대. 2018년 9월 1일 국군기무사령부 해체 후 이를 대체하여 창설되었다. [역사] 1948년 5월 27일 육군정보국... ",
+			"thumbnail":""
+		},
+		{
+			"title":"행정사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832823&cid=42117&categoryId=42117",
+			"description":"국회사무처, 헌법재판소사무처, 중앙선거관리위원회사무처, 각급선거관리위원회사무처, 노동위원회, 노동청, 근로복지공단, 고위공직자범죄수사처, 세관, 경찰서, <b>국방<\/b>부, 해양안전심판원 등의 행정기관에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정부조직법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=547171&cid=46625&categoryId=46625",
+			"description":"조직과 <b>직무<\/b>범위의 대강을 정한 법률. [개설] 행정조직법정주의는 「행정조직법」의 영역에서 법치주의 원리의 반영·실현을 뜻한다. 현행 「헌법」 제96조는 “행정각부의 설치·조직과 <b>직무<\/b>범위는 법률로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20171013192424187_0RWB0QDQ8.jpg\/1ff063e7-51d8-4b.jpg?type=m160_160"
+		},
+		{
+			"title":"무인항공촬영기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5931269&cid=42117&categoryId=42117",
+			"description":"지방항공청, <b>국방<\/b>부에 촬영승인을 요청하여 촬영허가를 받는다. 헬리캠 배터리 점검, 장비의 작동 점검 등을 한다. 촬영현장을 답사하여 촬영에 영향을 줄 수 있는 요인을 분석하고, 촬영에 필요한 제반 사항을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"브로니스와프 코모로프스키",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1352123&cid=40942&categoryId=34317",
+			"description":"<b>국방<\/b>부장관·하원의장 등을 지냈으며, 2010년 7월 대통령으로 당선되어 2015년까지의 임기를... 1993까지 <b>국방<\/b>부 차관을 지냈다. 1990년 민주연합, 자유연합과 관계를 맺고 1993년부터 1995년까지 이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_368\/20201105083850890_43TQG0ZHB.jpg\/11607362.jpg?type=m160_160"
+		},
+		{
+			"title":"대통령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024362&cid=42117&categoryId=42117",
+			"description":"필요하다고 인정할 때에는 외교·<b>국방<\/b>·통일 기타 국가안위에 관한 중요정책을 국민투표에 붙일 수 있다. 조약을 체결·비준한다. 외교사절을 신입·접수 또는 파견한다. 헌법과 법률이 정하는 바에 의하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특별감찰관법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2175253&cid=43667&categoryId=43667",
+			"description":"임명과 <b>직무<\/b> 등에 관하여 필요한 사항을 규정한 법. 2014년 3월 13일 제정, 6월 19일 시행됨.  | 외국어... 다만, 이들을 감찰하려는 경우 ▲국무총리로부터 국가기밀에 속한다는 소명이 있는 사항 ▲<b>국방<\/b>부장관으... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한미연합군사령부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EB%AF%B8%EC%97%B0%ED%95%A9%EA%B5%B0%EC%82%AC%EB%A0%B9%EB%B6%80",
+			"description":"1978년 한미연합사령부가 창설된 이후부터는 유엔군 사령관은 휴전선 관련 <b>직무<\/b>만 수행하고, 한미연합사령관이 작전통제권을 행사하는 것으로 전환되었다. 대한민국 <b>국방<\/b>부는 대한민국 국군의 &quot;지휘권... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립서울현충원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%EC%84%9C%EC%9A%B8%ED%98%84%EC%B6%A9%EC%9B%90",
+			"description":"위험한 <b>직무<\/b>를 수행하는 공무원으로서 대통령령으로 정하는 요건에 해당하는 <b>직무<\/b> 수행 중 사망하여 관계 기관의 장이 순직공무원으로 안장을 요청한 사람 「국가유공자 등 예우 및 지원에 관한 법률」... ",
+			"thumbnail":""
+		},
+		{
+			"title":"계룡대 근무지원단",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%84%EB%A3%A1%EB%8C%80_%EA%B7%BC%EB%AC%B4%EC%A7%80%EC%9B%90%EB%8B%A8",
+			"description":"이와 별개로 <b>직무<\/b>상 비위가 확인된 16명과 6개 기관에 대해서는 각각 징계요구와 기관경고 처분했다. 2010년 5월 13일 <b>국방<\/b>부 보통군사법원은 계룡대근무지원단 납품비리와 관련, 특수<b>직무<\/b>유기 등의 혐의로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전월선 (1923년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EC%9B%94%EC%84%A0_(1923%EB%85%84)",
+			"description":"경리행정비서관 <b>직무<\/b>대리 직책을 지내었으며 1955년에서 1956년까지 한국독립당 대표전임위원을 잠시 지냈다. 그녀의 유해는 대한민국 국립 대전현충원에 안장되어 있다. 서훈 그녀는 1990년 3월 1일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"리영호",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1381426&cid=40942&categoryId=34334",
+			"description":"2012년 7월 신병관계로 모든 <b>직무<\/b>에서 해임되었다.  1942년 10월 5일 북한 지역의 강원도 통천군에서... 중앙위원회 위원으로 선임되었다. 2011년 12월 김정일 전 <b>국방<\/b>위원장이 사망한 뒤 북한의 권력 서",
+			"thumbnail":""
+		},
+		{
+			"title":"국군기무사령부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EA%B5%B0%EA%B8%B0%EB%AC%B4%EC%82%AC%EB%A0%B9%EB%B6%80",
+			"description":"군대가 <b>직무<\/b>를 유기하는 것'이라는 입장을 냈다. 반면 정부와 더불어민주당, 바른미래당, 정의당에서는 문건 작성 가담자 처벌, 각 부대 압수수색, 국회 청문회와 함께 광역시도에 설치된 기무부대의 폐지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"윤성민",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9C%A4%EC%84%B1%EB%AF%BC",
+			"description":"제1군사령관 <b>직무<\/b>대리에 보임되었으며 11일 후 1979년 12월 24일을 기하여 육군 제1군사령관직을 수락, 취임하였고, 1980년 5월 20일에는 육군 대장으로 진급했다. 국가보위비상대책위원회 위원, <b>국방<\/b>부... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 중앙정보연구위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EC%A4%91%EC%95%99%EC%A0%95%EB%B3%B4%EC%97%B0%EA%B5%AC%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"수사, <b>직무<\/b>와 관련된 범죄에 대한 수사, 정보 및 보안 업무의 기획·조정에 관한 사무를 관장하는 대한민국의 중앙행정기관이었다. 첩보 수집의 필요성을 느낀 장면 대한민국 총리는 11월 11일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장만",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3574737&cid=59015&categoryId=59015",
+			"description":"흔히 문치주의의 시대로 이해되는 조선시대에도 문무를 겸비한 인물이 많았다. 정조는 문무를 겸비한 대표적인 군주로 평가를 받고 있고, 조식(曺植)은 평시에 칼을 차고 다니며 항시 무(武)와 <b>국방<\/b>의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118161749181_BWAKC9Q9B.jpg\/001_13.jpg?type=m160_160"
+		},
+		{
+			"title":"윤일균",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9C%A4%EC%9D%BC%EA%B7%A0",
+			"description":"윤일균 (尹鎰均, 1926년 6월 28일 ~ 2017년 6월 17일)은 중앙정보부 제1차장 겸 부장 <b>직무<\/b>대행 등을 지낸 대한민국의 경찰 출신 군인 겸 정치인이며 언론기업가이다. 생애 생애 초기 그의 본관은 파평... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국가안전보장회의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=12991&cid=43659&categoryId=43659",
+			"description":"1998년 새 정부가 들어서면서 외교·<b>국방<\/b>·통일 정책을 총체적이고 통합적으로 운영하기 위한... 대통령·국무총리·통일부장관·외교통상부장관·<b>국방<\/b>부장관·국가정보원장과 대통령이 정하는 약간의 위원으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"외교관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024377&cid=42117&categoryId=42117",
+			"description":" 본국을 대표하여 외국에 파견되어 각종 외교업무를 수행한다. [수행<b>직무<\/b>] 부임한 나라의 정치적 상황, 경제통상정보, 생활정보 등을 수집, 분석하여 본국의 정부나 기업에 알린다. 본국을 대신해 본국의 이익과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국군기무사령부 계엄령 준비 사건",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EA%B5%B0%EA%B8%B0%EB%AC%B4%EC%82%AC%EB%A0%B9%EB%B6%80_%EA%B3%84%EC%97%84%EB%A0%B9_%EC%A4%80%EB%B9%84_%EC%82%AC%EA%B1%B4",
+			"description":"군대가 <b>직무<\/b>를 유기하는 것'이라는 입장을 냈다. 그러나 상세적인 계엄계획이 발표된 이후에는 송영무 <b>국방<\/b>부장관이 쿠데타 모의문건을 왜 3개월간 아무런 행동을 취하지 않았는지에 대한 의문을 제기하였다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국가안전보장회의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=73916&cid=43667&categoryId=43667",
+			"description":"NSC 의장은 대통령이며, NSC 위원은 국무총리와 외교부·통일부·<b>국방<\/b>·행정안전부 장관... 대통령으로, NSC 전체회의 역시 대통령이 주재한다. NSC 위원은 국무총리와 외교부·통일부·<b>국방<\/b>·행정안전부",
+			"thumbnail":""
+		}
+	]
+}

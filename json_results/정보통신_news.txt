@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:25 +0900",
+	"total":1834904,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"검찰, 文 정부 '블랙리스트' 의혹 과기부 압수수색 [TF사진관]",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/photomovie\/1954729.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000163451?sid=102",
+			"description":"문재인 정부 '블랙리스트' 의혹을 수사중인 검찰이 27일 오후 세종시 과학기술<b>정보통신<\/b>부에 대해 압수수색을 하고 있다. 검찰은 장관 비서실 등에서 소속 기관장 인사 관련 자료를 확보 중인 것으로 알려졌다. 압수수색... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"CJ올리브네트웍스, ‘이음 5G’ 주파수 할당 신청",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271816415362",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874268?sid=105",
+			"description":"CJ올리브네트웍스는 과학기술<b>정보통신<\/b>부(과기정통부)에 5G 특화망용 주파수 할당신청 및 회선설비 보유 무선사업 기간<b>통신<\/b>사업자 등록 신청서를 제출했다고 27일 밝혔다. CJ올리브네트웍스는 연내 CJ그룹 계열사... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"[아!이뉴스] 과방위, 첫 전체회의 '반쪽'…라이엇, 여섯번째 환수유물 '보록'...",
+			"originallink":"http:\/\/www.inews24.com\/view\/1504871",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000688231?sid=105",
+			"description":"이에 그간 업계 숙원이었던 SW 분야 불공정 관행을 뿌리뽑기 위해 소관부서인 과학기술<b>정보통신<\/b>부는 물론, 관계부처가 힘을 합쳤다. SW산업이 4차산업 시대에 국가기반이자 미래 성장동력이라는 데 공감해서다. SW계약... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"[단독] 직원 횡령 불똥이 왜 고객에게? LG U+ 위약금 폭탄 논란",
+			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000073750?division=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000296498?sid=103",
+			"description":"과기부라던지 <b>정보통신<\/b> 그쪽까지 (횡령 관련) 소송까지 걸려있는 상황이거든요.] 관련해서 LG유플러스는 &quot;명의 변경 관련 프로세스는 수시로 바뀐다&quot;면서 &quot;본사 차원에서 명의 변경을 막은 적이 없다&quot;고 밝혔습니다. SBS... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"교사 노트북 고교생 해킹…&quot;<b>정보<\/b>보안 윤리교육 의무화해야&quot;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958612&cID=10809&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330372?sid=102",
+			"description":"평소 <b>정보통신<\/b>(IT) 분야에 관심이 많고 프로그램 코딩 등을 다룰 줄 알았다. 노트북 전원을 켰을 때 처음 뜨는 잠김 설정 비밀번호는 자판을 몇 차례 두드려 일부러 3차례 오류를 냈다. 이어 자신의 휴대전화로 암호 해독... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"과기부 ‘블랙리스트’ 의혹 압수수색…임기철 &quot;유영민·문미옥 책임져야&quot;",
+			"originallink":"http:\/\/www.inews24.com\/view\/1504862",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000688230?sid=105",
+			"description":"검찰이 27일 과학기술<b>정보통신<\/b>부와 한국과학기술기획평가원(KISTEP)을 대상으로 압수 수색을 진행하고 있다. 서울동부지검은 이날 &quot;과거 과학기술<b>정보통신<\/b>부와 통일부 산하 공공기관장 사표 징구와 관련된... ",
+			"pubDate":"Wed, 27 Jul 2022 18:21:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220727000994",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220727000994",
+			"description":"조원석 △<b>정보통신<\/b>과 손종석 △농업기술원 최돈우·류정아·도한우 △보건환경연구원 환경조사과장 직무대리 이준호.먹는물검사과장 직무대리 박순길 △안동농수산물검사소장 직무대리 박명섭 ◇ 5급 전보 △감사관실... ",
+			"pubDate":"Wed, 27 Jul 2022 18:19:00 +0900"
+		},
+		{
+			"title":"&quot;메타버스 신사업 진흥? 오히려 정부가 발목 잡는다&quot;",
+			"originallink":"https:\/\/byline.network\/?p=9004111222479340",
+			"link":"https:\/\/byline.network\/?p=9004111222479340",
+			"description":"이 자리에서 이원욱 기술<b>정보<\/b>방송<b>통신<\/b>위원장은 이에 대해 “신사업과 관련해 국회나 정부가 무엇을 해야 할지 논의하고 있지만, 사실 국회나 정부는 아무것도 하지 않고 관련 모든 규제를 푸는 것이 맞다”고 말했다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:18:00 +0900"
+		},
+		{
+			"title":"민주 대구시당 &quot;국가로봇테스트필드 유치 약속 지켜져야, 홍 시장이 책임지고...",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=389812",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=389812",
+			"description":"5'로 크게 넘겨 최종 부지로 선정됐지만, 어떠한 이유인지 관할부서인 과학기술<b>정보통신<\/b>부로 넘어가 한국과학기술평가원이 진행 중인 예비타당성조사 결과를 낙관할 수 없다고 언론에 보도됐다&quot;며 이 같이 주장했다. 이어... ",
+			"pubDate":"Wed, 27 Jul 2022 18:14:00 +0900"
+		},
+		{
+			"title":"경남도, 여당에 &quot;항공우주산업 기관 집적화&quot; 건의",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322482",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322482",
+			"description":"V-힐링 스타트업 로드 조성 등 8개 신규 사업을 건의했다. 또 <b>정보통신<\/b>기술(ICT) 융합 제조운영체제 개발 및 실증, 창원 간선급행버스체계(BRT) 구축, 발굴유물 역사문화공간 조성 등 3건은 계속사업으로 지원을 요청했다.",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"경상국립대 공공연구성과 가치창출 기술키움 사업 선정",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322538",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322538",
+			"description":"▲ 김현준 경상국립대 교수 경상국립대학교는 '티로신 펩타이드 기술키움 연구단'이 과학기술<b>정보통신<\/b>부 주관 '2022년도 공공연구성과 가치창출 기술키움' 사업에 최종 선정됐다고 27일 밝혔다. 티로신 펩타이드 기술키움... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"안산시 한양대 ERICA캠퍼스 혁신파크 산·학·연 혁신허브 착공",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=433478",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=433478",
+			"description":"2020년 10월 도시첨단산업단지로 지정된 한양대 혁신파크는 1단계로 7만 8579㎡규모에 청년 중심의 <b>정보통신<\/b>기술(ICT), 첨단 제조·연구산업, 문화기술(CT) 등 관련기업 1천개 유치와 1만 명 일자리 창출을 목표로 추진되고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"[인사]사천시",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322413",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322413",
+			"description":"김성일 ▲민원교통과장 박은영 ▲<b>정보통신<\/b>과장 곽정란 ▲지역경제과장 권남석 ▲녹지공원과장 김종수 ▲보건위생과장 김삼수 ▲동서동장 전흥국 ◇전입(5급) ▲정동면장 권형기 ◇전출(5급) ▲사천시의회 정종기",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"우경<b>정보<\/b>기술, 한국<b>정보<\/b>사회진흥원 '실내외 군중 식별 데이터 구축 사업' 선정",
+			"originallink":"http:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=455277",
+			"link":"http:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=455277",
+			"description":"[자료: 우경<b>정보<\/b>기술] 인공지능(AI) 영상분석 전문기업 우경<b>정보<\/b>기술은 과학기술<b>정보통신<\/b>부가 주관하고 한국지능<b>정보<\/b>사회진흥원(NIA)이 추진하는 2022 인공지능 학습용 데이터 구축 지원사업에서 지정과제 '실내외 군중... ",
+			"pubDate":"Wed, 27 Jul 2022 18:10:00 +0900"
+		},
+		{
+			"title":"한양대 ERICA 캠퍼스 혁신파크 산학연 혁신허브 착공",
+			"originallink":"http:\/\/www.upinews.kr\/newsView\/upi202207270072",
+			"link":"http:\/\/www.upinews.kr\/newsView\/upi202207270072",
+			"description":"2020년 10월 도시첨단산업단지로 지정된 한양대 혁신파크는 1단계로 7만 8579㎡ 규모의 청년 중심의 <b>정보통신<\/b>기술(ICT), 첨단 제조·연구산업, 문화기술(CT) 등 관련기업 1000개 유치와 1만 명 일자리 창출을 목표로... ",
+			"pubDate":"Wed, 27 Jul 2022 18:10:00 +0900"
+		},
+		{
+			"title":"안산시, 한양대 ERICA캠퍼스 혁신파크 산·학·연 혁신허브 착공",
+			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2022072718020575376",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000836968?sid=102",
+			"description":"2020년 10월 도시첨단산업단지로 지정된 한양대 혁신파크는 1단계로 7만8천579㎡규모에 청년 중심의 <b>정보통신<\/b>기술(ICT), 첨단 제조·연구산업, 문화기술(CT) 등 관련기업 1천개 유치와 1만 명 일자리 창출을 목표로... ",
+			"pubDate":"Wed, 27 Jul 2022 18:09:00 +0900"
+		},
+		{
+			"title":"HN 컨소시엄, 2022 메타버스 플랫폼 개발지원 사업 선정",
+			"originallink":"https:\/\/www.ciokorea.com\/news\/246874",
+			"link":"https:\/\/www.ciokorea.com\/news\/246874",
+			"description":"HN은 과학기술<b>정보통신<\/b>부가 추진하는 ‘2022년 메타버스 플랫폼 개발지원 사업’에 HN 주관 컨소시엄이 최종 선정됐다고 27일 밝혔다. HN이 주관한 컨소시엄(이하 HN 컨소시엄)은 HN, 심스리얼리티, 쉐어박스, 주스... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"녹록치 않은 원내 여건…후반기 상임위 TK 의원, 현안 실속 챙겨야",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022072716595142561",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000768440?sid=100",
+			"description":"그나마 기획재정, 산업통상자원중소벤처기업, 국토교통, 과학기술<b>정보<\/b>방송<b>통신<\/b>위원회 등 지역 현안을 챙기기에 유리한 상임위에 다수 TK 의원이 배치된 점이 위안거리다. TK 정치권의 원내 영향력에 대한 우려를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"시작부터 '반쪽'된 과방위…여야, 방송 두고 기싸움 치열",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03663766632398784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005278503?sid=105",
+			"description":"27일 국회에서 과학기술<b>정보<\/b>방송<b>통신<\/b>위원회 전체회의가 국민의힘 의원들이 불참한 가운데 열렸다. [국회사진기자단] 제21대 후반기 과학기술<b>정보<\/b>방송<b>통신<\/b>위원회(이하 과방위) 첫 회의가 시작부터 여당 의원들이 모두... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"'블랙리스트 의혹' 수사 확대...檢, 통일부·과기부 압수수색",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202207271804181042",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001769394?sid=102",
+			"description":"문재인 정부 블랙리스트 의혹을 수사해온 검찰이 과학기술<b>정보통신<\/b>부와 통일부를 전격 압수수색 했습니다. 백운규 전 산업부 장관에 대한 구속영장이 기각된 뒤 한동안 잠잠했던 블랙리스트 의혹 수사가 다른 부처로... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"[인사] 경상북도",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075795",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075795",
+			"description":"조원석 △<b>정보통신<\/b>과 손종석 ◆ 연구관 △농업기술원 최돈우(농업연구관) △농업기술원 류정아(농업연구관) △농업기술원 도한우(농업연구관) △보건환경연구원 환조사과장 직무대리 이준호(환경연구관)... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"LG유플러스, 철도공사 전원시스템 사업자 단독 선정…카카오, 부산시와 UAM 상...",
+			"originallink":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=141344",
+			"link":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=141344",
+			"description":"LG유플러스는 △애니콤<b>정보통신<\/b> △와이어블 △엔키아 △케이알넷(정류기) △코리아비티에스(축전지) 등과 컨소시엄을 구성하고 이번 사업에 참여했다. LG유플러스 컨소시엄은 에너지 손실이 적은 고효율 정류기와... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"[포토]이기재 양천구청장 어르신과 함께 즐거운 장기 한 판 펼쳐",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022072718023092924",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005124305?sid=102",
+			"description":"이와 함께 고품질의 영상<b>정보<\/b> 수집과 네트워크 안정성 확보를 위한 <b>정보통신<\/b>실과 영상<b>정보<\/b> 처리기기를 체험하고 견학할 수 있는 홍보·체험관 등 관제센터 구석구석을 점검했다. 이날 김 구청장은 관제센터 직원들의... ",
+			"pubDate":"Wed, 27 Jul 2022 18:03:00 +0900"
+		},
+		{
+			"title":"휴젤, 과기정통부 주관 ‘2022 상반기 우수 기업연구소’ 선정",
+			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202207271800234899204ead0791_12",
+			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202207271800234899204ead0791_12",
+			"description":"글로벌 토탈 메디컬 에스테틱 전문 기업 휴젤㈜(대표집행임원 손지훈)은 자사의 기업부설연구소가 과학기술<b>정보통신<\/b>부(이하 과기정통부) 주관 ‘2022년 상반기 우수 기업연구소’에 선정됐다고 27일 밝혔다. ‘우수... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"“스마트 농업의 미래를 한 눈에” ‘AWC 2022 in Gwangju’, 오는 8월 개최",
+			"originallink":"http:\/\/digitalchosun.dizzo.com\/site\/data\/html_dir\/2022\/07\/27\/2022072780110.html",
+			"link":"http:\/\/digitalchosun.dizzo.com\/site\/data\/html_dir\/2022\/07\/27\/2022072780110.html",
+			"description":"특히 ‘인공지능(AI)’은 가장 기본적인 IT(<b>정보통신<\/b>) 산업 분야부터 의료, 가정 등 우리 일상생활까지 거의 모든 산업 분야에서 활약하는 추세다. 이는 가장 전통적인 산업 분야 중 하나인 ‘농업’분야... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"&quot;총과 병사 시대?···이젠 R&amp;D로 국방기술 키워야&quot;",
+			"originallink":"http:\/\/www.hellodd.com\/news\/articleView.html?idxno=97623",
+			"link":"http:\/\/www.hellodd.com\/news\/articleView.html?idxno=97623",
+			"description":"박준범 <b>정보통신<\/b>기획평가원 국방ICT지원단장은 &quot;AI 소프트웨어가 국가적으로 중요해진 추세다. 그러나 향후 5년 동안 인력이 부족한 상황이다. 국내 최대 플랫폼 네이버나 카카오도 마찬가지&quot;라며 &quot;국방부에서도 AI... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"한·미·중·EU, 6G 주도권 잡아라…ETRI &quot;R&amp;D 성공하려면 민간과 정부의 역할...",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604426",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604426",
+			"description":"과학기술<b>정보통신<\/b>부는 지난 24일 6G 이동<b>통신<\/b> 핵심 기술 선제 확보를 위해 1조원 규모의 예비타당성 조사를 추진한다고 발표했다. 과기부는 예타를 통해 6G 핵심 기술 48건을 확정하고, 확보한 예산으로 기술 개발 및... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"[연합뉴스 이 시각 헤드라인] - 18:00",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727159200011?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338822?sid=004",
+			"description":"전문보기: https:\/\/www.yna.co.kr\/view\/AKR20220727090900530 ■ '블랙리스트 의혹' 수사 확대…통일부·과기부 압수수색 문재인 정부 '블랙리스트 의혹'을 수사 중인 검찰이 통일부와 과학기술<b>정보통신<\/b>부 압수수색에 나섰다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:01:00 +0900"
+		},
+		{
+			"title":"LG U+, 전국 25개 역사에 친환경 철도 광<b>통신<\/b>망 공급",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271759587615",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874188?sid=105",
+			"description":"LG유플러스는 △애니콤<b>정보통신<\/b> △와이어블 △엔키아 등 <b>정보통신<\/b> 전문기업과 △케이알넷(정류기) △코리아비티에스(축전지) 등 중소 제조사와 함께 컨소시엄을 맺고 이번 사업에 참여했다. LG유플러스 컨소시엄은... ",
+			"pubDate":"Wed, 27 Jul 2022 18:01:00 +0900"
+		},
+		{
+			"title":"과기부, 디지털 플랫폼 자율규제 법제도TF 발족",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271759469295",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874185?sid=105",
+			"description":"과학기술<b>정보통신<\/b>부(과기정통부)는 업계, 전문가, 관계부처와 '디지털 플랫폼 자율기구 법제도TF 발족회의를 개최했다고 27일 밝혔다. 법제도TF에는 네이버, 카카오, 쿠팡, 우아한형제들, 당근마켓, 강남언니... ",
+			"pubDate":"Wed, 27 Jul 2022 18:00:00 +0900"
+		},
+		{
+			"title":"SK에코플랜트, 음식물쓰레기·하수찌꺼기로 수소 생산",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271759359415",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874183?sid=101",
+			"description":"27일 SK에코플랜트는 한국생산기술연구원(박정훈 박사 연구팀), 연세대(김상현 교수 연구팀)와 함께 과학기술<b>정보통신<\/b>부 산하 한국연구재단에서 공고한 국책과제인 '미래수소원천기술개발사업'을 수행하게 됐다고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:00:00 +0900"
+		},
+		{
+			"title":"더불어민주당 &quot;홍준표 시장 책임지고 국가로봇테스트필드 유치 확정시켜야&quot;",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5793907",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003669151?sid=102",
+			"description":"하지만 어떤 이유인지 관할 부서인 과학기술<b>정보통신<\/b>부로 넘어가 한국과학기술평가원이 진행 중인 예비타당성조사 결과를 낙관할 수 없다고 보도되고 있는 것에 우려를 표시했다. 민주당은 그러면서 &quot;홍준표 시장은... ",
+			"pubDate":"Wed, 27 Jul 2022 17:59:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022072717175724589",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000768438?sid=102",
+			"description":"조원석 ▷<b>정보통신<\/b>과 손종석 ▷농업기술원 최돈우(농업연구관) ▷농업기술원 류정아(〃) ▷농업기술원 도한우(〃) ▷보건환경연구원 환경조사과장 직무대리 이준호(환경연구관) ▷보건환경연구원 먹는물검사과장... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"[이시각헤드라인] 7월 27일 뉴스워치",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20220727015500038\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000553062?sid=102",
+			"description":"■ '블랙리스트 의혹' 통일부·과기부 압수수색 지난 정부에서 이뤄졌던 블랙리스트 의혹을 수사 중인 검찰이 통일부와 과학기술<b>정보통신<\/b>부에 대한 압수수색에 나섰습니다. 산업통상자원부에 초점이 맞춰져온 수사가... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"인포인-국민대, 메타버스 사업 분야 산학협력 MOU 체결",
+			"originallink":"https:\/\/www.dailysecu.com\/news\/articleView.html?idxno=138612",
+			"link":"https:\/\/www.dailysecu.com\/news\/articleView.html?idxno=138612",
+			"description":"올해엔 과학기술<b>정보통신<\/b>부 산하 <b>정보통신<\/b>기획평가원(IITP)이 지원하는 SW중심대학에 선정돼 4월 1일부터 2027년 12월까지 약 6년간 지원을 받아 국내 SW 교육의 중심 허브로 자리매김하게 된다. 인포인은 자체 개발한 3D.R... ",
+			"pubDate":"Wed, 27 Jul 2022 17:56:00 +0900"
+		},
+		{
+			"title":"디지털 플랫폼 자율규제 기구 제도화 본격화",
+			"originallink":"http:\/\/www.koit.co.kr\/news\/articleView.html?idxno=100594",
+			"link":"http:\/\/www.koit.co.kr\/news\/articleView.html?idxno=100594",
+			"description":"과학기술<b>정보통신<\/b>부는 디지털 플랫폼 자율기구 관련 법제도 사항을 논의하기 위해 27일 서울 종로구 교보빌딩 회의실에서 업계·전문가·관계부처와 '디지털 플랫폼 자율기구 법제도TF' 발족회의를 개최했다. 이는 '범부처... ",
+			"pubDate":"Wed, 27 Jul 2022 17:56:00 +0900"
+		},
+		{
+			"title":"檢 ‘블랙리스트 의혹’ 수사 확대…통일부·과기부 압수수색",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OOIEZWN",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004081012?sid=102",
+			"description":"문재인 정부 시절 ‘산업통상자원부 블랙리스트’ 의혹을 수사 중인 검찰이 과학기술<b>정보통신<\/b>부·통일부 등에 대한 압수 수색에 나섰다. 검찰이 산업부에 이어 다른 부처에 대해서도 강제 수사에 나서는 등 수사를... ",
+			"pubDate":"Wed, 27 Jul 2022 17:56:00 +0900"
+		},
+		{
+			"title":"&quot;은행 안가도 휴대폰은 쓰니까&quot;…금융권, 알뜰폰 사업에 '눈독'",
+			"originallink":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2011961",
+			"link":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2011961",
+			"description":"과학기술<b>정보통신<\/b>부의 무선<b>통신<\/b>서비스 가입 회선 통계에 따르면 지난 5월 국내 알뜰폰 가입자 수는 1139만 4610명으로, KB리브엠 진출 전인 2019년 10월보다 43%가량 증가했다. 다른 업계 관계자는 &quot;토스가 알뜰폰에 진출하면... ",
+			"pubDate":"Wed, 27 Jul 2022 17:54:00 +0900"
+		},
+		{
+			"title":"SK에코플랜트, 하수찌꺼기로 수소 개발",
+			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065602996063696",
+			"link":"https:\/\/idsn.co.kr\/news\/view\/1065602996063696",
+			"description":"SK에코플랜트는 한국생산기술연구원(박정훈 박사 연구팀), 연세대학교(김상현 교수 연구팀)와 과학기술<b>정보통신<\/b>부 산하 한국연구재단에서 공고한 국책과제인 ‘미래수소원천기술개발사업’을 수행한다고 27일 밝혔다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:54:00 +0900"
+		},
+		{
+			"title":"검찰, 과기부·통일부 압수수색…'블랙리스트 의혹' 수사 확대",
+			"originallink":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=281056",
+			"link":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=281056",
+			"description":"사진 \/ 시사포커스DB 검찰이 27일 문재인 정부가 전 정부 인사에 대한 사임을 종용했다는 블랙리스트 의혹과 관련해 수사범위를 산업통상자원부 뿐 아니라 과학기술<b>정보통신<\/b>부와 통일부로 확대했다. 서울동부지검은 이날... ",
+			"pubDate":"Wed, 27 Jul 2022 17:54:00 +0900"
+		},
+		{
+			"title":"[종합] 삼성전기ㆍLG이노텍, 이번에도 모두 성장…3분기에 주목",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2158048",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2158048",
+			"description":"삼성전기는 “2분기는 스마트폰 등 IT(<b>정보통신<\/b>)용 시장의 수요 둔화로 전 분기 대비 실적이 감소했지만, 산업ㆍ전장용 MLCC(적층세라믹콘덴서)와 고사양 CPU(중앙처리장치)용 등 반도체 패키지기판 매출 증가로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:52:00 +0900"
+		},
+		{
+			"title":"[인사] 경남 통영시",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755688",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244700?sid=102",
+			"description":"Δ〃 <b>정보통신<\/b>과장 윤병철 Δ〃 민원지적과장 김실환 Δ문화관광체육경제국 관광과장 공수성 Δ〃 지역경제과장 송호천 Δ안전도시국 안전총괄과장 구태헌 Δ〃 도시과장 임석현 Δ〃 도로과장 김상배 Δ수산환경국... ",
+			"pubDate":"Wed, 27 Jul 2022 17:52:00 +0900"
+		},
+		{
+			"title":"내달 뜨는 UAM법, 항공규제 확 푼다",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662892&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997197?sid=101",
+			"description":"이 밖에 LG유플러스는 파블로항공, 카카오모빌리티, 제주항공, GS칼텍스, GS건설, 버티컬 등과 컨소시엄을 구성했고 롯데렌탈은 롯데건설, 롯데<b>정보통신<\/b>, 민트에어, 모비우스에너지와 컨소시엄을 결성했다. 대우건설과... ",
+			"pubDate":"Wed, 27 Jul 2022 17:51:00 +0900"
+		},
+		{
+			"title":"[기자수첩] 5G 중간요금제 출시도 전에 뭇매 맞는 이유",
+			"originallink":"http:\/\/www.sisajournal-e.com\/news\/articleView.html?idxno=281573",
+			"link":"http:\/\/www.sisajournal-e.com\/news\/articleView.html?idxno=281573",
+			"description":"SK텔레콤이 지난 11일 주무부처인 과학기술<b>정보통신<\/b>부에 복수의 5G 중간요금제를 깜짝 신고하면서 다. 구체적으로 SK텔레콤은 ▲월 3만4000원에 데이더 8GB를 제공하는 언택트(온라인 전용) 요금제 ▲월 4만2000원에 24GB를... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"[7월 27일 인사] 세종시·HMG퍼블리싱·한국과학기술기획평가원·서울대·국토...",
+			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220727500334",
+			"link":"https:\/\/www.news2day.co.kr\/article\/20220727500334",
+			"description":"최은열 ▲<b>정보통신<\/b>과장 윤병철 ▲민원지적과장 김실환 ▲관광과장 공수성 ▲지역경제과장 송호천 ▲안전총괄과장 구태헌 ▲도시과장 임석현 ▲건축과장 직무대리 김이용 ▲도로과장 김상배 ▲해양개발과장 송무원... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"&quot;기다려도 안왔다&quot;…과방위 첫날 與의원 전원 불참, 무슨일",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25090133",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003212705?sid=100",
+			"description":"21대 후반기 국회의 과학기술<b>정보<\/b>방송<b>통신<\/b>위원회 첫 회의에 여당인 국민의힘 의원들이 전원 불참했다. 반쪽짜리 회의가 열린 것을 두고 여야는 '네 탓' 공방을 벌이고 있다. 과방위는 27일 오전 첫 전체회의를 열었다. 여야... ",
+			"pubDate":"Wed, 27 Jul 2022 17:49:00 +0900"
+		},
+		{
+			"title":"우주청 유치경쟁 대전·경남, '인공위성 클러스터' 두고 2라운드",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727155700063?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338798?sid=101",
+			"description":"대전시, 전문가 세미나 열고 논리 개발…경남, 정치권 지원 요청 정부 신설 조직으로 논의 중인 항공우주청을 두고 치열한 유치전을 벌였던 대전시와 경남도가 과학기술<b>정보통신<\/b>부가 추진하는 '우주산업 클러스터'를... ",
+			"pubDate":"Wed, 27 Jul 2022 17:49:00 +0900"
+		},
+		{
+			"title":"공학한림원 ‘혁신성장’ 토론회 “9대 미래 기술 키워 성장동력 확충을”",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OOMHIWR",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004081004?sid=105",
+			"description":"도심항공모빌리티(UAM) 분야는 국내 <b>통신<\/b>·<b>정보<\/b>기술(IT) 경쟁력을 바탕으로 항공전자시스템, 비행체 제작, 데이터 활용, 지상관제, 보수·점검 등 막대한 신규 시장 창출이 가능하다. 우리가 추격자인 입장에서 원천기술과... ",
+			"pubDate":"Wed, 27 Jul 2022 17:49:00 +0900"
+		},
+		{
+			"title":"오늘의 인사 종합",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03591606632398784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005278482?sid=102",
+			"description":"최은열 △<b>정보통신<\/b>과장 윤병철 △민원지적과장 김실환 △관광과장 공수성 △지역경제과장 송호천 △안전총괄과장 구태헌 △도시과장 임석현 △건축과장 직무대리 김이용 △도로과장 김상배 △해양개발과장 송무원... ",
+			"pubDate":"Wed, 27 Jul 2022 17:46:00 +0900"
+		},
+		{
+			"title":"교육부, 재외동포 대상 온라인 평생교육 콘텐츠 제공",
+			"originallink":"http:\/\/www.lecturernews.com\/news\/articleView.html?idxno=103004",
+			"link":"http:\/\/www.lecturernews.com\/news\/articleView.html?idxno=103004",
+			"description":"운동, <b>정보통신<\/b>(IT) 등 다양한 분야의 수요 맞춤형 평생교육 혜택을 국내에 거주하는 국민과 동일한 수준으로 누릴 수 있게 될 것으로 기대된다. 박순애 부총리 겸 교육부 장관은 &quot;이번 조치가 재외동포 대상 평생교육... ",
+			"pubDate":"Wed, 27 Jul 2022 17:46:00 +0900"
+		},
+		{
+			"title":"CJ올리브네트웍스, 과기부 '이음 5G' 주파수 할당 신청",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022072717443800678",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005124298?sid=105",
+			"description":"CJ올리브네트웍스는 과학기술<b>정보통신<\/b>부에 5G 이동<b>통신<\/b> 특화망용 주파수 할당 신청 및 회선설비 보유 무선사업 기간<b>통신<\/b>사업자 등록 신청서를 제출했다고 27일 밝혔다. 신청서에는 인천 송도의 클라우드 센터... ",
+			"pubDate":"Wed, 27 Jul 2022 17:44:00 +0900"
+		},
+		{
+			"title":"정부, 플랫폼 자율 규제 속도…업계 &quot;서두르지 말고 다양성 인정하며 가야&quot;",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03575206632398784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005278477?sid=105",
+			"description":"김현수 <b>정보통신<\/b>정책연구원(KISDI) <b>통신<\/b>전파연구본부 본부장이 간사를 맡았다. 디지털 플랫폼 정책포럼 분과장, 2분과 위원은 당연직으로 참여했다. 과기정통부는 자율 기구를 만들기 위한 법적 근거를 마련하는 것을 우선... ",
+			"pubDate":"Wed, 27 Jul 2022 17:42:00 +0900"
+		},
+		{
+			"title":"블랙리스트 의혹 수사 확대…檢, 통일·과기부 압수수색",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662840&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997161?sid=102",
+			"description":"문재인 정부의 '산업통상자원부 블랙리스트 의혹'을 수사 중인 검찰이 이번에는 통일부와 과학기술<b>정보통신<\/b>부에 대한 압수수색에 나섰다. 27일 법조계에 따르면 서울동부지검 형사6부는 이날 오전 과기정통부, 통일부... ",
+			"pubDate":"Wed, 27 Jul 2022 17:41:00 +0900"
+		},
+		{
+			"title":"광주시교육청, 학생평가(시험) 보안관리 강화 대책 발표",
+			"originallink":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072717345568486",
+			"link":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072717345568486",
+			"description":"'찾아가는 학생평가 관리 연수'를 진행해 첨단 <b>정보통신<\/b>기술을 이용한 부적절한 사례 예방에도 나설 계획이다. 시교육청 오경미 교육국장은 &quot;이번 학생평가 보안관리 강화 대책으로 각급 학교 학생평가에서 발생할 수... ",
+			"pubDate":"Wed, 27 Jul 2022 17:40:00 +0900"
+		},
+		{
+			"title":"[인사] 서울대, 국토교통부, 경남 통영시, 국민의힘 세종시당",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=288190",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=288190",
+			"description":"최은열 △<b>정보통신<\/b>과장 윤병철 △민원지적과장 김실환 △관광과장 공수성 △지역경제과장 송호천 △안전총괄과장 구태헌 △도시과장 임석현 △건축과장 직무대리 김이용 △도로과장 김상배 △해양개발과장 송무원... ",
+			"pubDate":"Wed, 27 Jul 2022 17:40:00 +0900"
+		},
+		{
+			"title":"안산시, ‘한양대 에리카캠퍼스 혁신파크 산학연 혁신허브’ 착공",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5519289&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011309988?sid=102",
+			"description":"지난 2020년 10월 도시첨단산업단지로 지정된 한양대 혁신파크는 1단계로 7만 8천579㎡ 규모에 청년 중심의 <b>정보통신<\/b>기술과 첨단 제조·연구산업, 문화기술 등 관련 기업 1,000개 유치와 1만 명 일자리 창출을 목표로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2108205",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2108205",
+			"description":"조원석 △<b>정보통신<\/b>과 손종석 △농업기술원 최돈우 △농업기술원 류정아 △농업기술원 도한우 △보건환경연구원 환경조사과장 직무대리 이준호△보건환경연구원 먹는물검사과장 직무대리 박순길 △안동농수산물검사소장... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"과기정통부, 공개SW 개발 독려 'R&amp;D 가이드라인 배포'",
+			"originallink":"http:\/\/it.chosun.com\/site\/data\/html_dir\/2022\/07\/27\/2022072702192.html",
+			"link":"http:\/\/it.chosun.com\/site\/data\/html_dir\/2022\/07\/27\/2022072702192.html",
+			"description":"과학기술<b>정보통신<\/b>부(과기정통부)는 공개 SW 방식의 연구개발을 확산시키기 위해 ‘공개 소프트웨어 연구개발 실무 가이드라인’을 27일 배포했다. 제3자가 소스코드를 사용·복제·수정·배포할 수 있도록 공개한... ",
+			"pubDate":"Wed, 27 Jul 2022 17:34:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958647&cID=10810&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330310?sid=102",
+			"description":"조원석 ▲<b>정보통신<\/b>과 손종석 ▲농업기술원 최돈우 ▲농업기술원 류정아▲농업기술원 도한우 ▲보건환경연구원 환경조사과장 직무대리 이준호 ▲보건환경연구원 먹는물검사과장 직무대리 박순길... ",
+			"pubDate":"Wed, 27 Jul 2022 17:34:00 +0900"
+		},
+		{
+			"title":"LG이노텍 '아이폰 효과'…비수기 2분기에 날았다",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662790&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997134?sid=101",
+			"description":"김동원 KB증권 연구원은 &quot;전 세계 <b>정보통신<\/b>(IT) 제품 유통 재고가 연초 대비 40% 증가했지만, LG이노텍 매출의 79%를 차지하는 아이폰13의 글로벌 유통 재고는 연초 대비 20% 감소한 것으로 추정된다&quot;고 분석했다. 그... ",
+			"pubDate":"Wed, 27 Jul 2022 17:33:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도(5급 이하 승진 전보)",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220727001659141",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220727001659141",
+			"description":"조원석 △<b>정보통신<\/b>과 손종석 △농업기술원 최돈우 △농업기술원 류정아 △농업기술원 도한우 △보건환경연구원 환경조사과장 이준호 △보건환경연구원 먹는물검사과장 박순길 △안동농수산물검사소장 박명섭◆6급 승진... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"유럽·한국 과학자, 인류의 미래를 고민하다…EKC2022 성료",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755628",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244674?sid=105",
+			"description":"세부적으로는 건축환경, 기초과학, 화학 및 재료, 전기전자 <b>정보통신<\/b>기술(ICT), 환경에너지, 바이오등 9개 분야로 세션이 진행됐다. 이외에도 산업포럼, 핵융합에너지포럼, EU-한국 탄소중립과 지역혁신 융합포럼... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"재외동포도 온라인 평생교육콘텐츠 이용",
+			"originallink":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/3\/BBSMSTR_000000010031\/view.do",
+			"link":"http:\/\/kookbang.dema.mil.kr\/newsWeb\/20220728\/3\/BBSMSTR_000000010031\/view.do",
+			"description":"이를 통해 재외동포가 국가평생교육진흥원 ‘늘배움’ 등 17개의 온라인 평생교육 홈페이지 등에 재외교육기관포털을 통해 접근해 자기 계발, 취미, 운동, <b>정보통신<\/b> 등 여러 분야의 평생교육 혜택을 누릴 수 있게 된다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:30:00 +0900"
+		},
+		{
+			"title":"포스코, ‘체인지업 그라운드 포항’ 개관 1주년…기업가치 1조원 돌파",
+			"originallink":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022072717145071547",
+			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022072717145071547",
+			"description":"전기·전자·반도체, <b>정보통신<\/b>·소프트웨어, 바이오·의료, 화학·에너지·자원 등 다양한 분야에 걸쳐 있다. 특히 체인지업 그라운드가 입지한 포항은 3·4세대 방사광 가속기 등 2조원 규모의 세계 2위에 달하는 연구시설과... ",
+			"pubDate":"Wed, 27 Jul 2022 17:28:00 +0900"
+		},
+		{
+			"title":"광주시교육청, 학생평가(시험) 보안관리 강화 대책 발표",
+			"originallink":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2011959",
+			"link":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2011959",
+			"description":"'찾아가는 학생평가 관리 연수'를 진행해 첨단 <b>정보통신<\/b>기술을 이용한 부적절한 사례 예방에도 나설 계획이다. 시교육청 오경미 교육국장은 &quot;이번 학생평가 보안관리 강화 대책으로 각급 학교 학생평가에서 발생할 수 있는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:28:00 +0900"
+		},
+		{
+			"title":"CJ올리브네트웍스, 과기정통부에 '이음 5G' 주파수 할당 신청",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727153800017?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338757?sid=105",
+			"description":"CJ올리브네트웍스는 과학기술<b>정보통신<\/b>부(과기정통부)에 5G 이동<b>통신<\/b> 특화망용 주파수 할당 신청 및 회선설비 보유 무선사업 기간<b>통신<\/b>사업자 등록 신청서를 제출했다고 27일 밝혔다. CJ올리브네트웍스가 5G 특화망인... ",
+			"pubDate":"Wed, 27 Jul 2022 17:27:00 +0900"
+		},
+		{
+			"title":"박윤규 과기정통부 2차관, ICT 협단체와 간담회",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03532566632398784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005278462?sid=105",
+			"description":"과학기술<b>정보통신<\/b>부는 27일 서울 중구 프레스센터에서 한국<b>정보<\/b>방송<b>통신<\/b>대연합(ICT 대연합) 등 ICT 협단체들과 간담회를 진행했다고 27일 밝혔다. 이번 간담회는 새 정부 국정과제의 성공과 ICT 시장 발전을 위해 해결해야... ",
+			"pubDate":"Wed, 27 Jul 2022 17:26:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=853144",
+			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=853144",
+			"description":"조원석 △<b>정보통신<\/b>과 손종석 △농업기술원 최돈우 △농업기술원 류정아 △농업기술원 도한우 △보건환경연구원 환경조사과장 직무대리 이준호 △보건환경연구원 먹는물검사과장 직무대리 박순길... ",
+			"pubDate":"Wed, 27 Jul 2022 17:26:00 +0900"
+		},
+		{
+			"title":"정부, 바이오헬스 핵심전략산업 육성",
+			"originallink":"http:\/\/www.jeollailbo.com\/news\/articleView.html?idxno=663283",
+			"link":"http:\/\/www.jeollailbo.com\/news\/articleView.html?idxno=663283",
+			"description":"회의에는 추경호 경제부총리와 이종호 과학기술<b>정보통신<\/b>부 장관, 이창양 산업통상자원부 장관이 참석했다. 장관이 임명되지 않은 복지부에서는 이기일 2차관이 배석했다. 윤 대통령은 회의에 앞서 항암 치료용 초음파... ",
+			"pubDate":"Wed, 27 Jul 2022 17:24:00 +0900"
+		},
+		{
+			"title":"안산시 한양대 ERICA캠퍼스 혁신파크 산·학·연 혁신허브 착공",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580787",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580787",
+			"description":"2020년 10월 도시첨단산업단지로 지정된 한양대 혁신파크는 1단계로 7만8천579㎡규모에 청년 중심의 <b>정보통신<\/b>기술(ICT), 첨단 제조·연구산업, 문화기술(CT) 등 관련기업 1천개 유치와 1만 명 일자리 창출을 목표로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:24:00 +0900"
+		},
+		{
+			"title":"휴젤, 과기정통부 주관 '2022 상반기 우수 기업연구소' 선정",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98822",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98822",
+			"description":"▲26일 서울 웨스틴 조선호텔에서 열린 '2022년 상반기 우수 기업연구소 지정서 수여식'에서 휴젤㈜ 오동훈 상무(우측)가 과학기술<b>정보통신<\/b>부 오태석 제1차관(좌측)으로부터 지정서를 수여받고 있다.  글로벌 토탈 메디컬... ",
+			"pubDate":"Wed, 27 Jul 2022 17:20:00 +0900"
+		},
+		{
+			"title":"대전 우주산업 위성 클러스터 유치 나서… 전문가들 &quot;산학연 시스템 구축 강점...",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220727010007935",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220727010007935",
+			"description":"우주산업 클러스터는 과학기술<b>정보통신<\/b>부가 민간 주도 우주산업 육성을 위해 집적단지를 지정·지원하는 것으로 발사체와 위성 클러스터를 한 곳씩을 선정한다. 2022년 6월 우주개발진흥법 개정에 따라 우주산업 클러스터... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"['퇴근길' 한눈에 훑는 뉴스] 권성동, '尹 문자 유출 파문'에 사과... 이준석...",
+			"originallink":"http:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=99119",
+			"link":"http:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=99119",
+			"description":"문재인 정부 '블랙리스트  의혹'을 수사 중인 검찰이 통일부와 과학기술<b>정보통신<\/b>부에 대한 압수수색을 실시한 27일 정부세종청사 과학기술<b>정보통신<\/b>부(과기부) 정책기획관실에서 검찰 관계자들이 오가고 있다. [사진... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"경북도 인사(5급)",
+			"originallink":"http:\/\/www.idaegu.com\/newsView\/idg202207270046",
+			"link":"http:\/\/www.idaegu.com\/newsView\/idg202207270046",
+			"description":"조원석 △<b>정보통신<\/b>과 손종석 △농업기술원 최돈우 △〃 류정아 △〃 도한우 △보건환경연구원 환경조사과장 직무대리 이준호 △〃 먹는물검사과장 직무대리 박순길 △안동농수산물검사소장 직무대리 박명섭 〈5급 전보〉... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"과기정통부, 휴대용 선풍기 전자파 검증 나서",
+			"originallink":"https:\/\/dgmbc.com\/article\/ary0ZbGH2WyFn_a",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/657\/0000005312?sid=102",
+			"description":"과학기술<b>정보통신<\/b>부는 휴대용 선풍기의 전자파 발생 위험과 관련해 본격 검증에 나선다고 밝혔습니다. 과기정통부는 시중에 판매하는 목 선풍기와 손 선풍기를 확보해 법에 정한 기준을 충족하는지 여부를 파악하기... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"&quot;우주산업 클러스터, 대전으로&quot; 지역 전문가들 똘똘 뭉쳤다",
+			"originallink":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=273512",
+			"link":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=273512",
+			"description":"대전시가 27일 과학기술<b>정보통신<\/b>부에서 추진하는 우주산업 클러스터 유치를 위해 지역의 다양한 산·학·연·관 전문가가 참석해 카이스트 인공위성연구소에서 전문가 세미나를 개최했다. 대전시 제공 \/ 굿모닝충청 윤지수... ",
+			"pubDate":"Wed, 27 Jul 2022 17:16:00 +0900"
+		},
+		{
+			"title":"[인사]경상북도(5급 이하)",
+			"originallink":"http:\/\/www.smartfn.co.kr\/view.php?ud=2022072717033517232a13d34d32_46",
+			"link":"http:\/\/www.smartfn.co.kr\/view.php?ud=2022072717033517232a13d34d32_46",
+			"description":"(시설5급의결) ▷<b>정보통신<\/b>과 손종석(방송<b>통신<\/b>5급의결) ▷농업기술원 최돈우(농업연구관의결) ▷농업기술원 류정아(농업연구관의결) ▷농업기술원 도한우(농업연구관의결) ▷보건환경연구원 환경조사과장 직무대리... ",
+			"pubDate":"Wed, 27 Jul 2022 17:16:00 +0900"
+		},
+		{
+			"title":"스콥<b>정보통신<\/b>, 브레인네트웍스와 홈네트워크 세대보안 솔루션 업무협약 체결",
+			"originallink":"https:\/\/biz.chosun.com\/it-science\/ict\/2022\/07\/27\/HABFYDJZYBBNRNYACU3FYCMQRA\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000830405?sid=105",
+			"description":"스콥<b>정보통신<\/b>이 브레인네트웍스와 홈네트워크 세대보안 솔루션 공급을 위한 업무협약(MOU)을 맺었다고 27일 밝혔다. 스콥<b>정보통신<\/b>에 따르면 지난 21일 스콥<b>정보통신<\/b> 사옥 1층에서 진행된 업무협약식에는 이창훈... ",
+			"pubDate":"Wed, 27 Jul 2022 17:15:00 +0900"
+		},
+		{
+			"title":"시각장애인 대중교통 이용 불편, 개선 방안은?",
+			"originallink":"http:\/\/www.ekoreanews.co.kr\/news\/articleView.html?idxno=61985",
+			"link":"http:\/\/www.ekoreanews.co.kr\/news\/articleView.html?idxno=61985",
+			"description":" 경기도에서 <b>정보통신<\/b>기술(ICT)을 활용해 시각장애인의 대중교통 이용편의를 개선할 예정이다. 경기연구원은 '교통복지 사각지대에 방치된 시각장애인 이동편의 보고서'를 26일 발간했다. 시각장애인의 버스, 지하철 등... ",
+			"pubDate":"Wed, 27 Jul 2022 17:14:00 +0900"
+		},
+		{
+			"title":"&quot;市 경쟁력 높이자&quot;… 안산시, 한양대 ERICA캠퍼스 혁신파크 산·학·연 혁신...",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363552054",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363552054",
+			"description":"2020년 10월 도시첨단산업단지로 지정된 한양대 혁신파크는 1단계로 7만8천579㎡규모에 청년 중심의 <b>정보통신<\/b>기술(ICT), 첨단 제조·연구산업, 문화기술(CT) 등 관련기업 1천개 유치와 1만 명 일자리 창출을 목표로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:14:00 +0900"
+		},
+		{
+			"title":"尹 &quot;바이오헬스는 국가핵심 산업…K바이오·백신 1조 메가펀드 조성&quot;",
+			"originallink":"https:\/\/www.hankyung.com\/it\/article\/2022072780391",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729863?sid=105",
+			"description":"이와 별개로 보건복지부, 과학기술<b>정보통신<\/b>부, 산업통상자원부 등 3개 부처가 2030년까지 신약 후보물질 발굴에 2조2000억원(국비 1조5000억원)을 투입한다. 국산 신약 후보물질을 확보한 기업은 지난해 기준 1477곳이다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:14:00 +0900"
+		},
+		{
+			"title":"오픈소스 방식 연구개발 A to Z 가이드",
+			"originallink":"http:\/\/www.koit.co.kr\/news\/articleView.html?idxno=100633",
+			"link":"http:\/\/www.koit.co.kr\/news\/articleView.html?idxno=100633",
+			"description":"과학기술<b>정보통신<\/b>부는 '공개 소프트웨어 연구개발 실무 가이드라인'을 마련, 배포했다고 27일 밝혔다. 공개 소프트웨어는 제3자가 소스코드를 사용·복제·수정·배포할 수 있도록 공개한 소프트웨어로서, △최신 기술의... ",
+			"pubDate":"Wed, 27 Jul 2022 17:14:00 +0900"
+		},
+		{
+			"title":"안산시 한양대 캠퍼스에 '산학연 혁신허브' 착공…2024년 완공",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727148300061?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338720?sid=102",
+			"description":"2020년 10월 도시첨단산업단지로 지정된 한양대 혁신파크는 1단계로 7만8천㎡ 부지에 청년 중심의 <b>정보통신<\/b>기술(ICT), 첨단 제조·연구산업, 문화기술(CT) 등 관련 기업 1천개 유치와 1만명 일자리 창출을 목표로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:13:00 +0900"
+		},
+		{
+			"title":"[기고문] 신약연구개발 혁신 저해하는 관행 걷어내야 한다",
+			"originallink":"http:\/\/www.medisobizanews.com\/news\/articleView.html?idxno=89343",
+			"link":"http:\/\/www.medisobizanews.com\/news\/articleView.html?idxno=89343",
+			"description":"상근이사, 산업통상자원부 전 바이오헬스신산업기술로드맵총괄위원장, 중앙약사심의위원(현), 가톨릭대학교 의생명과학과 겸임교수(현), 전 과학기술<b>정보통신<\/b>부 신약타겟발굴 및 검증 사업단 총괄주관관리책임자",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"[종합] ‘상해 봉쇄’ 직격탄 맞은 LGD…수주 활동ㆍ하이엔드 제품에 집중",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2157934",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2157934",
+			"description":"IT(<b>정보통신<\/b>)와 커머셜(상업용 제품)을 중심으로 점차 전환해 나갈 계획이다”라고 밝혔다. 이와 함께 OLED(유기발광다이오드)만의 경쟁력을 바탕으로 프리미엄 시장 내 지배력을 강화하고 하이엔드 제품에 주력한다는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"검찰, ‘블랙리스트 의혹’ 과기부·통일부 압수수색",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5519268&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011309974?sid=102",
+			"description":"검찰이 이른바 '블랙리스트' 의혹과 관련해 과학기술<b>정보통신<\/b>부와 통일부를 압수수색 중입니다. 서울동부지검은 오늘 오전 9시반부터 통일부가 있는 정부서울청사와 세종의 과기부 청사, 그리고 각 부처 산하... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"과기부, 휴대용 선풍기 전자파 검증 착수...1일 발표",
+			"originallink":"https:\/\/science.ytn.co.kr\/program\/program_view.php?s_mcd=0082&s_hcd=&key=202207271614598975",
+			"link":"https:\/\/science.ytn.co.kr\/program\/program_view.php?s_mcd=0082&s_hcd=&key=202207271614598975",
+			"description":"과학기술<b>정보통신<\/b>부는 환경보건시민센터가 전자파를 측정한 목걸이 선풍기 4개와 손 선풍기 6개의 동일 모델을 확보해 오는 29일까지 전자파를 측정할 계획이라고 밝혔습니다. 전자파 측정은 국제전기기술위원회... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"고준용 시큐어링크 대표, 과학기술<b>정보통신<\/b>부장관상 수상",
+			"originallink":"http:\/\/www.etnews.com\/20220727000266",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003033449?sid=105",
+			"description":"시큐어링크(대표 고준용)는 고준용 대표가 지난 13일 열린 제 11회 <b>정보<\/b>보호의 날 기념식에서 과학기술<b>정보통신<\/b>부장관상을 수상했다고 27일 밝혔다. 고대표는 개인<b>정보<\/b>보호 관련 신기술을 이용한 특허 및 기술을 개발하고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:10:00 +0900"
+		},
+		{
+			"title":"【인사】경북도 5급이하",
+			"originallink":"https:\/\/www.hankyung.com\/society\/article\/202207278007h",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729854?sid=102",
+			"description":"(시설5급의결) ▷<b>정보통신<\/b>과 손종석(방송<b>통신<\/b>5급의결) ▷농업기술원 최돈우(농업연구관의결) ▷농업기술원 류정아(농업연구관의결) ▷농업기술원 도한우(농업연구관의결) ▷보건환경연구원 환경조사과장 직무대리... ",
+			"pubDate":"Wed, 27 Jul 2022 17:07:00 +0900"
+		},
+		{
+			"title":"바이오헬스 민간투자 13조…K-바이오·백신펀드 올해 5000억",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1586957",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1586957",
+			"description":"복지부와 과학기술<b>정보통신<\/b>부, 산업통상자원부 등 3개 부처가 10년간 국비 1조5000억원, 민간 7000억원의 연구개발 투자를 진행한다. ◇ 혁신 의료기기 등 규제 대폭 완화 혁신 의료기기가 임상 현장에서 쓰이는데 거쳐야... ",
+			"pubDate":"Wed, 27 Jul 2022 17:07:00 +0900"
+		},
+		{
+			"title":"‘전쟁은 이제부터…’ 21대 국회 후반기 원구성 톺아보기",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=433426",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=433426",
+			"description":"민주당 몫은 정무위·교육위·과학기술<b>정보<\/b>방송<b>통신<\/b>위·문화체육관광위·농림축산식품해양수산위·산업통상자원중소벤처기업위·보건복지위·환경노동위·국토교통위·여성가족위·예산결산특별위원회 등 11곳으로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:06:00 +0900"
+		},
+		{
+			"title":"우리금융그룹, 디지털 기업 쇄신 분주…손태승 회장 &quot;재창업한다는 각오로&quot;",
+			"originallink":"http:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=430594",
+			"link":"http:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=430594",
+			"description":"아울러 우리은행은 지난해 8월 정부 디지털 뉴딜 정책의 일환으로 과학<b>정보통신<\/b>부에서 추진하는 메타버스 얼라이언스 회원사로 가입하면서 메타버스 기반 미래금융 사업을 본격적으로 추진하기도 했다. 2021년... ",
+			"pubDate":"Wed, 27 Jul 2022 17:06:00 +0900"
+		},
+		{
+			"title":"검찰, '블랙리스트 의혹' 통일부·과기부 압수수색",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220727170052341",
+			"link":"https:\/\/www.ajunews.com\/view\/20220727170052341",
+			"description":"아주경제=장한지 기자 hanzy0209@ajunews.com 문재인 정부 '블랙리스트 의혹'을 수사 중인 검찰이 통일부와 과학기술<b>정보통신<\/b>부(과기부) 압수수색에 나섰다. 그간 산업통상자원부(산업부)를 상대로 칼날을 세우던 검찰이... ",
+			"pubDate":"Wed, 27 Jul 2022 17:06:00 +0900"
+		},
+		{
+			"title":"SK에코플랜트, 음식물 쓰레기로 수소 만드는 국책과제 수행",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022072702109963075002&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002746202?sid=101",
+			"description":"SK에코플랜트는 27일 한국생산기술연구원(박정훈 박사 연구팀), 연세대학교(김상현 교수 연구팀)와 함께 과학기술<b>정보통신<\/b>부 산하 한국연구재단에서 공고한 국책과제인 '미래수소원천기술개발사업'을 수행하게 됐다고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:06:00 +0900"
+		},
+		{
+			"title":"[종합] 현대重 발사대 위에서 한화 추진체 타고 달나라 가는 현대차",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2158005",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2158005",
+			"description":"27일 현대차그룹과 과학기술<b>정보통신<\/b>부 등에 따르면 현대차ㆍ기아는 이미 월면차에 버금가는 모빌리티 기술 개발을 상당 부분 진행 중인 것으로 확인됐다. 자율주행과 인공지능(AI), 로봇기술 등에서 기술력을 갖췄고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:04:00 +0900"
+		},
+		{
+			"title":"검찰, 통일부·과기부 압수수색....'공공기관 블랙리스트' 수사 확대",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075787",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075787",
+			"description":"문재인 정부의 '산업부 블랙리스트 의혹'을 수사 중인 검찰이 통일부와 과학기술<b>정보통신<\/b>부에 대한 압수수색에 나섰습니다. 검찰 안팎에서는 &quot;교육부 등 다른 정부 부처를 대상으로도 강제 수사가 이어질 것&quot;이라는 전망이... ",
+			"pubDate":"Wed, 27 Jul 2022 17:04:00 +0900"
+		},
+		{
+			"title":"다시 되살아난 '과기계 블랙리스트 의혹'…과기정통부, 압수수색에 '당혹'",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755522",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244579?sid=105",
+			"description":"서울동부지검의 압수수색으로 문재인 정부 출범 초기 있었던 과기계 기관장 블랙리스트 논란이 재점화되자, 과학기술<b>정보통신<\/b>부는 당혹스러워하는 분위기다. 27일 법조계와 과기계에 따르면 서울동부지검은 이날... ",
+			"pubDate":"Wed, 27 Jul 2022 17:02:00 +0900"
+		},
+		{
+			"title":"SK에코플랜트, 바이오수소 원천기술 개발 착수",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220727000924",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220727000924",
+			"description":"[사진=SK에코플랜트] 2022.07.27 min72@newspim.com SK에코플랜트는 한국생산기술연구원, 연세대학교와 함께 과학기술<b>정보통신<\/b>부 산하 한국연구재단이 공고한 국책과제인 '미래수소 원천기술 개발사업'을 수행한다고 27일... ",
+			"pubDate":"Wed, 27 Jul 2022 17:02:00 +0900"
+		},
+		{
+			"title":"경남도, 항공우주산업 기관 집적화 요구",
+			"originallink":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800393",
+			"link":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800393",
+			"description":"항공우주청 사천 설치와 관련해서는 과학기술<b>정보통신<\/b>부·산업통상자원부·국방부 등에 나뉘어 있는 항공·우주 관련 업무 조정을 해 청 규모를 확대해야 한다는 점을 강조했다. 나아가 한국 항공우주산업 발전을 위해... ",
+			"pubDate":"Wed, 27 Jul 2022 17:02:00 +0900"
+		},
+		{
+			"title":"과기정통부, 휴대용 선풍기 전자파 검증 착수",
+			"originallink":"https:\/\/imnews.imbc.com\/replay\/2022\/nw1700\/article\/6392682_35729.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001211795?sid=102",
+			"description":"과학기술<b>정보통신<\/b>부는, 환경보건시민센터에서 전자파가 발생한다고 지목한 목걸이 선풍기 4개와 손 선풍기 6개 동일 모델을 확보해 오는 29일까지 전자파를 측정한 뒤 결과는 다음 달 1일 발표할 방침입니다. 앞서... ",
+			"pubDate":"Wed, 27 Jul 2022 17:01:00 +0900"
+		}
+	]
+}

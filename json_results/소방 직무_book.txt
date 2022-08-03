@@ -1,0 +1,52 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:18 +0900",
+	"total":4,
+	"start":1,
+	"display":4,
+	"items":[
+		{
+			"title":"NCS기반 직무분야별 직무능력평가 05 법률.경찰.소방.교도.국방 \/ 경비.청소 (직업기초 + 직무수행 능력평가)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32440665395",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3244066\/32440665395.20220518173905.jpg",
+			"author":"",
+			"discount":"20700",
+			"publisher":"씨마스",
+			"pubdate":"20160120",
+			"isbn":"9791156720508",
+			"description":"NCS(국가직무능력표준) 기반의 채용 방식에 최적화된 정보를 제공한다. 기업들의 최신 채용 공고를 제공하여 채용 시장의 변화와 동향을 파악할 수 있도록 하였고, NCS기반 입사 지원 서류의 작성 방법과 다양한 면접 사례를 제공하여 NCS 기반의 채용 방식에 대한 감을 잡을 수 있도록 해준다. 무엇보다 기존의 인.적성 검사와 전공시험을 대체하는 직업기초능력과 직무수행능력 필기시험에 완벽하게 대비할 수 있도록 다양한 실전 문제를 제공하고 있다."
+		},
+		{
+			"title":"소방공무원 채용시험 인.적성검사 (인성 및 직무능력검사)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32493326304",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249332\/32493326304.20220521012509.jpg",
+			"author":"",
+			"discount":"14400",
+			"publisher":"서원각",
+			"pubdate":"20190116",
+			"isbn":"9791125724704",
+			"description":""
+		},
+		{
+			"title":"인천국제공항공사 소방직 NCS+소방학개론+실전모의고사 3회(2020) (인천국제공항공사 NCS 및 직무지식(소방학개론) 문제 최다 제공!)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32466806978",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3246680\/32466806978.20220527070316.jpg",
+			"author":"NCS직무능력연구소",
+			"discount":"18000",
+			"publisher":"시대고시기획",
+			"pubdate":"20200620",
+			"isbn":"9791125473701",
+			"description":"[특징]\n\n[Add＋] 2019년 주요 공기업 NCS 기출복원문제 수록!\n1. 기업 소개 및 최신이슈를 담은 인천국제공항공사 가이드 수록!\n2. NCS 직업기초능력검사 기출유형 분석 및 기출예상문제 수록!\n3. 소방학개론 기출예상 100제 수록!\n4. 인성검사 소개 및 모의테스트 수록!\n5. 실제 유형과 유사한 실전모의고사 수록!\n6. 온라인 모의고사 2회(NCS 통합 모의고사\/인천국제공항공사 모의고사) 제공!\n7. NCS 채용 가이드 제공!\n8. 난이도 체크를 통한 반복 학습!\n\n[특별혜택] NCS 영역별 전략 무료특강, NCS 기출풀이 무료특강, NCS 대표유형 분석자료, AI면접 무료 쿠폰"
+		},
+		{
+			"title":"소방공무원 인.적성검사 (인성검사 + 직무능력검사 + 소방 면접 기출 질문 + 부록 - 조직부적응검사, 임상적 성격검사)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32496620745",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249662\/32496620745.20220521041203.jpg",
+			"author":"",
+			"discount":"14400",
+			"publisher":"서원각",
+			"pubdate":"20200717",
+			"isbn":"9791125731368",
+			"description":""
+		}
+	]
+}

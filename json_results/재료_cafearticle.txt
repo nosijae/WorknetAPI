@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:11 +0900",
+	"total":8617758,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>재료<\/b>.도구 어떻게 사야할까요?!",
+			"link":"http:\/\/cafe.naver.com\/bakingschool\/397303",
+			"description":"오늘 오븐과 반죽기 구입했습니다 이젠 도구와 <b>재료<\/b>를 구입해야 하는데요.. 종류도 많고 가격대도 천차만별이네요.. 같은 가루라도 뭐가 좋은건지 잘 모르겠고...^^;; 팬 종류도 많은데 가격대가 어마무시 하네요 <b>재료<\/b>는... ",
+			"cafename":"베이킹스쿨 - 굽고 먹고 나누는 따뜻한...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bakingschool"
+		},
+		{
+			"title":"<b>재료<\/b> 준비 끌냈어요.ㅋㅋ",
+			"link":"http:\/\/cafe.naver.com\/momspanggju\/3391126",
+			"description":"낼 출장이라~출발이 빨라서요^^ 미리 김밥 <b>재료<\/b> 준비해두고~ 기본으로 쌀거라서.ㅋㅋ큼직하게~ 일단 <b>재료<\/b> 준비 끝났으니~ 저녁에 먹을 거 싸드리구~^^ 새벽에 일어나서 싸두면~ 아침 먹고 가겠지요~ 김치찌개 미리 끓여놔야... ",
+			"cafename":"광주맘 - 광주맘카페 맘스팡",
+			"cafeurl":"https:\/\/cafe.naver.com\/momspanggju"
+		},
+		{
+			"title":"<b>재료<\/b> 어디서 구입하세요?!",
+			"link":"http:\/\/cafe.naver.com\/delonghi\/953116",
+			"description":"오늘 오븐과 반죽기 구입했습니다 이젠 도구와 <b>재료<\/b>를 구입해야 하는데요.. 종류도 많고 가격대도 천차만별이네요.. 같은 가루라도 뭐가 좋은건지 잘 모르겠고...^^;; <b>재료<\/b> 납품하는 오프라인을 가서 물어보며 사야 할까요..?!... ",
+			"cafename":"오븐엔조이 - 365일 즐거운 홈베이킹",
+			"cafeurl":"https:\/\/cafe.naver.com\/delonghi"
+		},
+		{
+			"title":"응? 신규 <b>재료<\/b> 갯수가 먼가 조금 이상한데..",
+			"link":"http:\/\/cafe.naver.com\/destinychild\/2380529",
+			"description":"근데 신규 <b>재료<\/b>의 갯수가 좀 이상한데? 각 부위별 <b>재료<\/b> 갯수가 다 다름. (융화제, 천연석) 버그임? 아니면 내가 지옥행 깰 때 멀 안한건가? 나 이제서야 한번 써볼라고 확인한건데? 이거 왜 이러는지 아시는분... ",
+			"cafename":"데스티니 차일드 공식카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/destinychild"
+		},
+		{
+			"title":"실기시험 보러가서 <b>재료<\/b> 계량하는거요",
+			"link":"http:\/\/cafe.naver.com\/bakerynet\/50697",
+			"description":"<b>재료<\/b> 계량해서 검사받는 그릇이나 종이를 따로 주나요? 아니면 <b>재료<\/b> 계량해서 검사받는 그릇같은거 따로 가져가야하나요?",
+			"cafename":"베이커리넷",
+			"cafeurl":"https:\/\/cafe.naver.com\/bakerynet"
+		},
+		{
+			"title":"블랙앤데커 온라인 공방교실 <b>재료<\/b> 왔어요",
+			"link":"http:\/\/cafe.naver.com\/dewalt\/56406",
+			"description":"온라인 공방교실 <b>재료<\/b>입니다 먼저 공구들입니다 함마드릴과 멀티에보 드릴, 컷소, 임펙, 멀티커터, 센딩 등... 만들 <b>재료<\/b>가 같이 왔내요 이번에 만들 책장 입니다 이렇게 만들게 되는구요 전에 디월트 공방교실에서 만든... ",
+			"cafename":"디월트 전동공구",
+			"cafeurl":"https:\/\/cafe.naver.com\/dewalt"
+		},
+		{
+			"title":"<b>재료<\/b>소진.....",
+			"link":"http:\/\/cafe.naver.com\/gumimom7\/5686173",
+			"description":"쪼매만 늦엇으면 못 먹을뻔요....ㅋㅋ지금은 <b>재료<\/b>소진이래요 2개만 시켯더니 생각보다 양이 적어서 깜놀....2개 시켯다고 슾도2개만주고... 그래도 돈까스 맛잇네요",
+			"cafename":"구미맘 수다방(임신,출산,육아,구미맘...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gumimom7"
+		},
+		{
+			"title":"<b>재료<\/b>원가율이 40프로면....",
+			"link":"http:\/\/cafe.naver.com\/jihosoccer123\/1602483",
+			"description":"1인으로 충분히 운영가능 다만 메인 <b>재료<\/b>원가율이 40프로 커피는 제외. 라고 하면 창업조건으로 어떠신지요...? 디저트까페 입니다. 생지받아서 데코? 해서 판매",
+			"cafename":"아프니까 사장이다 [소상공인·자영업...",
+			"cafeurl":"https:\/\/cafe.naver.com\/jihosoccer123"
+		},
+		{
+			"title":"캐릭터 강화시 <b>재료<\/b>",
+			"link":"http:\/\/cafe.naver.com\/ydgoh\/2107848",
+			"description":"쫄작 4&gt;5&gt;6성 각 단계마다 강화시 <b>재료<\/b>를 어떤것들을 주로 사용하시나요? 4성 강화시 3성으로 강화 5성 강화시 3성? 4성?으로 강화 6성 강화시 4성? 5성?으로 강화 전 대부분 2단계 낮은 <b>재료<\/b>들로 강화하는데 다른분들은... ",
+			"cafename":"갓오브하이스쿨 게임공식카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/ydgoh"
+		},
+		{
+			"title":"엇그제 한끼_실곤약 팽이버섯 김치말이국수와 아무<b>재료<\/b> 월남쌈.",
+			"link":"http:\/\/cafe.naver.com\/gongju2008\/410616",
+			"description":"나박김치가 너무 맛있어서 삶아낸 <b>재료<\/b>에 붓기만 하면 완성이에요 ㅋ 다음은 남은 <b>재료<\/b>와 반찬 처치용 월남쌈이에요. 가지나물, 콩나물, 파채 보이죠?? ㅋㅋ 냉장고 속 야채랑 남은 반찬을 막 쌌어요. 우리에겐 월남쌈... ",
+			"cafename":"공주맘들의 사랑방",
+			"cafeurl":"https:\/\/cafe.naver.com\/gongju2008"
+		},
+		{
+			"title":"국가대표 <b>재료<\/b>카드 사용처 추가 건의(+추가글)",
+			"link":"http:\/\/cafe.naver.com\/com2usbaseball2015\/1513347",
+			"description":"국가대표 <b>재료<\/b>카드 사용처 추가에 대해서 건의를 드립니다 스카우트에서 국가대표 코치가 떠 클럽원이 국가대표 <b>재료<\/b>카드를 이용하여 획득 시도를 하였으나 <b>재료<\/b>카드란에는 국가대표 <b>재료<\/b>카드가 노출이 되지 않습니다... ",
+			"cafename":"컴투스프로야구2022 공식카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/com2usbaseball2015"
+		},
+		{
+			"title":"소소하게 리본<b>재료<\/b> 드림해요",
+			"link":"http:\/\/cafe.naver.com\/cjcjmommy\/1525019",
+			"description":"초보분들 <b>재료<\/b> 느낌 아시기 좋을정도의 양이에요. 악어삔, 롱삔대도 조금 있구요 머리띠1개, 검정... <b>재료<\/b>들도 있어요. 한마디로 다양하게 이것저것 시도해보실수있는패키지로보심 됩니다. 예~~전에 애정을가지고... ",
+			"cafename":"청주맘블리",
+			"cafeurl":"https:\/\/cafe.naver.com\/cjcjmommy"
+		},
+		{
+			"title":"케익상자(포장<b>재료<\/b>)",
+			"link":"http:\/\/cafe.naver.com\/anggeums\/278236",
+			"description":"개인거래(판매), 판매중, 가격 2,000원, 직접결제(네이버페이 송금), 케익상자(포장<b>재료<\/b>), *공단리본 50야드 6개 일괄 15000원(판매완료) *4호쉬폰투명케익상자 3개\/4호이단투명케익상자 8개 총 11개 일괄 20... ",
+			"cafename":"앙금플라워,떡,수제디저트 독학카페 스...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anggeums"
+		},
+		{
+			"title":"<b>재료<\/b>보관....ㅡㅡ;;;;",
+			"link":"http:\/\/cafe.naver.com\/yimom\/633097",
+			"description":"마라탕집에서 <b>재료<\/b>보관을 저렇게....... 단순 드러운 보관법이 아닌 유해물질을..... 안그런곳도 있겠지만 어떤곳이 저렇게 하는지 모르니... 전 마라탕 안먹을랍니다.... 먹어도 직접 만들어서....ㅜㅜ",
+			"cafename":"용인맘_용인엄마들의모임(기흥맘,수지...",
+			"cafeurl":"https:\/\/cafe.naver.com\/yimom"
+		},
+		{
+			"title":"김밥 <b>재료<\/b> 준비",
+			"link":"http:\/\/cafe.naver.com\/unicorn1212\/93035",
+			"description":"김밥 <b>재료<\/b>는 유통기한이 길어 여유 있게 사다 놓는 편이거든요. 계란이 떨어져서 계란 대신 노란 파프리카를 넣고 당근 채 썰고 햄만 데치면 김밥 <b>재료<\/b> 준비 끝이네요. 이제 예쁘게 말아~ 말아 볼게요.",
+			"cafename":"주부메카",
+			"cafeurl":"https:\/\/cafe.naver.com\/unicorn1212"
+		},
+		{
+			"title":"폭군 얻을 수 있는 <b>재료<\/b> 갯수",
+			"link":"http:\/\/cafe.naver.com\/irisflag\/1789387",
+			"description":"<b>재료<\/b>상자랑 22일 24일 <b>재료<\/b> 각 1개씩 3번 얻을 수 있는 도전과제 포함해서 그러니까 지금부터 풀참한다 치고 가지고 있는 <b>재료<\/b>에서 34개 더해보셈. 이것두 못하면 뇌에 문제 있는거 이벤 12일 남음 22, 24일... ",
+			"cafename":"겟앰프드 콤보수록 카페 -겟콤카 [겟앰...",
+			"cafeurl":"https:\/\/cafe.naver.com\/irisflag"
+		},
+		{
+			"title":"값싼? <b>재료<\/b>로 만들수 있는 그럴싸한 메뉴 뭐가 있을까요?",
+			"link":"http:\/\/cafe.naver.com\/seochom\/789135",
+			"description":"전 손이 엄청 커서 손님 초대할라고 하면 좋은 <b>재료<\/b>를 많~~~~이 사서 돈을 어마어마하게 써요. 좀 적당히 해야할 것 같은데 이렇게 싼? <b>재료<\/b>로 이런 요리를? 싶어 보이는 메뉴 추천 해주실 수 있을까요?",
+			"cafename":"서초 엄마들의 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/seochom"
+		},
+		{
+			"title":"델리퀸 삼계닭2+건강백숙<b>재료<\/b> 후기",
+			"link":"http:\/\/cafe.naver.com\/osong1\/414612",
+			"description":"무료제공: 영계2(개당 4200원) 백숙<b>재료<\/b>(2400원) 내돈내산: 마늘(1600원) 가게에서 영계 손질 다해서 주셨어요!... 집으로 델코와서 <b>재료<\/b>랑 마늘 별도로 파 미원(필수) 들깨가루 넣어서 보글보글 50분간 끓였어요. 누룽지도... ",
+			"cafename":"아이러브오송",
+			"cafeurl":"https:\/\/cafe.naver.com\/osong1"
+		},
+		{
+			"title":"태고 진화 <b>재료<\/b> 및 육성 캐릭 문의",
+			"link":"http:\/\/cafe.naver.com\/ydgoh\/2107244",
+			"description":"기미라 2성 가려고 하는데 태고 진화 <b>재료<\/b> 상만진이랑 마왕 한대위, 수트 박일표, 마왕 단모리중에 누구를 <b>재료<\/b>로 하는게 나을까요? <b>재료<\/b>로 안쓰게 된다면 누구부터 키우는게 좋을까요? 답변 미리 감사합니다.",
+			"cafename":"갓오브하이스쿨 게임공식카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/ydgoh"
+		},
+		{
+			"title":"아이 이유식 <b>재료<\/b>준비 끝.",
+			"link":"http:\/\/cafe.naver.com\/ungsangjang\/524345",
+			"description":"이육식 <b>재료<\/b> 손질하고 있어요. 요거요거 은근 손이 많이 가네요. 두세번 이유식 만들 수 있게 손질을 하다보니... 그냥 <b>재료<\/b> 슥슥 꺼내서 넣고 만들면 되거든요. 이제 곧 아가가 일어날꺼 같아요. 날씨가 오늘은 그렇게... ",
+			"cafename":"부산 경남 맘스홀릭 초상화,육아,마스...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ungsangjang"
+		},
+		{
+			"title":"샌드위치 속<b>재료<\/b>",
+			"link":"http:\/\/cafe.naver.com\/cosmania\/35002460",
+			"description":"이건 제가만든건데 그냥집에있는<b>재료<\/b>로 만들었긴했거든요 치킨 상추 베이컨 아보카도 케챱 딸기잼 마요 넣었어요 집에 치즈 계란 이런게없어서 대충만들긴했거든여 샌드위치 속에 넣을<b>재료<\/b>중 아 이건 꼭 넣어라 있으실까요?",
+			"cafename":"카페 파우더룸 [ 화장품.뷰티.쇼핑.일...",
+			"cafeurl":"https:\/\/cafe.naver.com\/cosmania"
+		},
+		{
+			"title":"혼자하려니 <b>재료<\/b>가 ..",
+			"link":"http:\/\/cafe.naver.com\/jejumam\/968645",
+			"description":"초보가 뭘 만드려니 어젠 실이 없어서 사왔는데 오늘보니 접착 심지도 필요하네요 ㅎㅎㅎㅎ 공방쌤은 다 사다놓으셔서 이렇게 감사함을 몰랐네요ㅡ 집에도 <b>재료<\/b>가 한가득인줄 알았는데 오늘또 필요한게 생겼어요 ㅋㅋ... ",
+			"cafename":"제주맘 - 제주도 엄마들의 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/jejumam"
+		},
+		{
+			"title":"금속<b>재료<\/b>산기\/기사 실기",
+			"link":"http:\/\/cafe.naver.com\/dkqdus\/280909",
+			"description":"저희지역(지방)은 금속<b>재료<\/b> 산기 , 기사 실기시험 둘다 시험 장소와 배울수 있는곳이 없던데 혹시나 금속<b>재료<\/b>, 산기,기사 취득하신분들 중에 독학으로 한 계신분 있으신가요? 그렇다면 공부방법 시험팁이라던지 정보... ",
+			"cafename":"예비철강인",
+			"cafeurl":"https:\/\/cafe.naver.com\/dkqdus"
+		},
+		{
+			"title":"벤츠 VISION EQXX의 지속 가능한 <b>재료<\/b> – 동물 <b>재료<\/b> 없음",
+			"link":"http:\/\/cafe.naver.com\/benzglkml\/316831",
+			"description":"벤츠 VISION EQXX의 지속 가능한 <b>재료<\/b> – 동물 <b>재료<\/b> 없음 지속가능한 <b>재료<\/b>와 유기적으로 설계된 디자인 디테일은 VISION EQXX에서 가볍고 럭셔리함을 제공합니다. 기본 원칙은 최소한의 무게로 최대한의 편안함과... ",
+			"cafename":"벤츠 GL CLUB (벤츠SUV,GLC,GLE,GLA,G...",
+			"cafeurl":"https:\/\/cafe.naver.com\/benzglkml"
+		},
+		{
+			"title":"베이킹<b>재료<\/b> 파는곳",
+			"link":"http:\/\/cafe.naver.com\/kunsanbeauty\/1108020",
+			"description":"100g 이상 바닐라빈 1\/2개 무염버터 150g 이상 식용색소(노랑 갈색 검정 핑크)등 이런건 어디파나요? 이거 필요하다는데 안사봐서 모르겠네요 마트에판다는데 롯마가면 있겠죠? 따로 베이킹<b>재료<\/b> 파는곳 있을까요?",
+			"cafename":"군산맘 \/ 미녀맘[비영리카페]",
+			"cafeurl":"https:\/\/cafe.naver.com\/kunsanbeauty"
+		},
+		{
+			"title":"저도 <b>재료<\/b> 말고 완성된 요리로 받고싶어요ㅜㅜ",
+			"link":"http:\/\/cafe.naver.com\/masanmam\/6131711",
+			"description":"--------------------------------------------------------- 저도 완성된 요리를 받아 먹고싶네요ㅜㅜ 저도 시어머님이 해주시는 음식 먹고픈데 언제부터인지 엄니가 <b>재료<\/b>를 주시면서 해먹어라하세요ㅡㅡ 시댁가도 <b>재료<\/b>를 사놓으시고 나는... ",
+			"cafename":"창원 줌마렐라 [경남,마산,진해,함안,...",
+			"cafeurl":"https:\/\/cafe.naver.com\/masanmam"
+		},
+		{
+			"title":"스타우브에 김밥 <b>재료<\/b> 준비~♡",
+			"link":"http:\/\/cafe.naver.com\/mjann\/3148678",
+			"description":"정말 오랫만에 김밥 만들었어요~^^ 김밥 <b>재료<\/b>는 스타우브에~ㅎㅎ 시금치는 스몰웍에 데쳐 무쳤는데... 김밥 <b>재료<\/b> 끝~ㅎ 오랫만에 싼 집김밥이라 그런지 맛있네요~ 오늘 세남자 다 따로따로~ㅋ 라면 세번 끓여... ",
+			"cafename":"예쁜카페 예카(예쁜그릇,인테리어,리모...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mjann"
+		},
+		{
+			"title":"<b>재료<\/b>쓰기 아까울까요?",
+			"link":"http:\/\/cafe.naver.com\/mfkr\/1269902",
+			"description":"이적시장 <b>재료<\/b>쓸 매물이 너무없어서 구매못하고 있는데 115<b>재료<\/b>로 쓰기엔 아까울까요?",
+			"cafename":"FIFA MOBILE [피파모바일 카페] 모피투",
+			"cafeurl":"https:\/\/cafe.naver.com\/mfkr"
+		},
+		{
+			"title":"레전드<b>재료<\/b>선수팩 어느 레전드인지는 지정할수있나요?",
+			"link":"http:\/\/cafe.naver.com\/com2usbaseball2015\/1512040",
+			"description":"야생마 레재저격해보려고 하는데 야생마 <b>재료<\/b>중 하나로 지정은 되는지요? 설마 모든 레전드의 <b>재료<\/b>중 하나가 나온건가요? 이상훈 선택하고 이상훈 레재중 하나가 나오는게 아닌지요?",
+			"cafename":"컴투스프로야구2022 공식카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/com2usbaseball2015"
+		},
+		{
+			"title":"이그니스 타이런트 <b>재료<\/b> 여유 기간",
+			"link":"http:\/\/cafe.naver.com\/irisflag\/1787630",
+			"description":"이벤트로 각 <b>재료<\/b>를 최대 12개까지 추가 획득 가능합니다. 이벤트는 15일 \/ 17일 \/ 22일 \/ 24일 진행됩니다.... 4일 전부 참여하면 각 <b>재료<\/b>별로 12개씩 획득하므로, 평일 6일치 분량을 더 획득하는 것입니다. 매일 풀참시 총... ",
+			"cafename":"겟앰프드 콤보수록 카페 -겟콤카 [겟앰...",
+			"cafeurl":"https:\/\/cafe.naver.com\/irisflag"
+		},
+		{
+			"title":"<b>재료<\/b>만큼만 말아야죠",
+			"link":"http:\/\/cafe.naver.com\/momspanggju\/3384575",
+			"description":"오늘은 바쁘다 바뻐하는날이니 일찍이 말아버려야겠어요 <b>재료<\/b>소진되는만큼 말아야겠어요",
+			"cafename":"광주맘 - 광주맘카페 맘스팡",
+			"cafeurl":"https:\/\/cafe.naver.com\/momspanggju"
+		},
+		{
+			"title":"[류트] 요리<b>재료<\/b> 무나합니다",
+			"link":"http:\/\/cafe.naver.com\/mabinogidsg\/716854",
+			"description":"요리<b>재료<\/b> 무나합니다 인당 10뭉까지 가능하고 우편으로 보내드려요 우편은 되도록 바로 받아주세요~",
+			"cafename":"마비노기 도서관 카페. 마도카!",
+			"cafeurl":"https:\/\/cafe.naver.com\/mabinogidsg"
+		},
+		{
+			"title":"미용<b>재료<\/b> 파는 곳 !!?",
+			"link":"http:\/\/cafe.naver.com\/jejumam\/969930",
+			"description":"제주에 속눈썹펌이나 연장 <b>재료<\/b> 파는 곳 있나요 ㅠㅡ ㅠ?",
+			"cafename":"제주맘 - 제주도 엄마들의 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/jejumam"
+		},
+		{
+			"title":"메이크업 수염 속눈썹<b>재료<\/b>",
+			"link":"http:\/\/cafe.naver.com\/remonterrace\/29449408",
+			"description":"개인거래(판매), 판매중, 가격 45,000원, 안전결제, 네이버페이, 메이크업 수염 속눈썹<b>재료<\/b>, 안전거래 필수... 불법 거래 금지 수염<b>재료<\/b> 속눈썹 <b>재료<\/b> 있고요 글루랑 집게는 없어요 마네킹 남자. 여자, 홀더 까지 있고요... ",
+			"cafename":"레몬테라스 [인테리어,리폼,DIY,요리,...",
+			"cafeurl":"https:\/\/cafe.naver.com\/remonterrace"
+		},
+		{
+			"title":"근데 남은 <b>재료<\/b>는 어디에 씀?",
+			"link":"http:\/\/cafe.naver.com\/irisflag\/1790066",
+			"description":"출석보드도 여러 번 구매가능한게 아니라면 남은 이벤트 기간 동안 <b>재료<\/b> 계속 줄텐데 나머지 <b>재료<\/b>들로 뭐하죠...",
+			"cafename":"겟앰프드 콤보수록 카페 -겟콤카 [겟앰...",
+			"cafeurl":"https:\/\/cafe.naver.com\/irisflag"
+		},
+		{
+			"title":"떡볶이 배달 소분(포션) <b>재료<\/b>보관 문의드려요",
+			"link":"http:\/\/cafe.naver.com\/jihosoccer123\/1562175",
+			"description":"충분히 헹궈서 물기 탈탈 털고 조리시작할까 해요 유명 떡볶이 프차업체들은 어터케 하나 요령 이 궁금하네요 여름이라 <b>재료<\/b>보관하는데 더 신경쓰이기도 하구,, 요지는 시큼한 향이 나는 <b>재료<\/b>들(밀떡,소세지,수제비) 같은... ",
+			"cafename":"아프니까 사장이다 [소상공인·자영업...",
+			"cafeurl":"https:\/\/cafe.naver.com\/jihosoccer123"
+		},
+		{
+			"title":"수제간식 <b>재료<\/b> 추천부탁드려요~",
+			"link":"http:\/\/cafe.naver.com\/dogpalza\/17694398",
+			"description":"뼈닭발, 닭근위, 소고기 홍두께상, 사과, 배, 참외는 만들어서 급여해봤는데 다른 추천해주실 <b>재료<\/b>있으신가쿄~?? 슬개골케 좋은 <b>재료<\/b>면 더욱 좋을 것 같아요 ㅎ 파는 사이트도 함께 추천하신다면 감사합니다! 참고로... ",
+			"cafename":"강사모-반려견 훈련 교육법, 강아지 종...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dogpalza"
+		},
+		{
+			"title":"근처에 좋은 <b>재료<\/b> 쓰는 빵집 있나요?",
+			"link":"http:\/\/cafe.naver.com\/3gumomclub\/1181508",
+			"description":"아기한테 이동중에 먹일 거라서요~ㅠㅠ 오늘 일이 있어 요리할 시간이 없어 사먹여야할것 같은데 좋은 <b>재료<\/b> 쓰는 빵집있나요? 무방부제에 <b>재료<\/b>도 최대한 유기농이나 non gmo쓰는 곳이요..",
+			"cafename":"세클맘 with 성북맘\/동대문맘\/종로맘\/...",
+			"cafeurl":"https:\/\/cafe.naver.com\/3gumomclub"
+		},
+		{
+			"title":"한방(백숙,삼계탕) <b>재료<\/b>, 야생 참옻나무(껍질)",
+			"link":"http:\/\/cafe.naver.com\/yccungi\/550989",
+			"description":"<b>재료<\/b>, 야생 참옻나무(껍질), 이곳은 농.수산물 을 판매하는곳입니다. 형식은 자유롭게 하시되 아래사항은 필수 기재사항 입니다. ☞인증번호(모든판매자) : 장 0112-44 ♣약 초 명 : 한방(백숙,삼계탕) <b>재료<\/b>... ",
+			"cafename":"약초천지",
+			"cafeurl":"https:\/\/cafe.naver.com\/yccungi"
+		},
+		{
+			"title":"재봉틀<b>재료<\/b> 구매처",
+			"link":"http:\/\/cafe.naver.com\/pusanmom\/3674960",
+			"description":"재봉틀 배우는데 <b>재료<\/b> 진시장가면 구입할 수 있나요? 재단가위나 초크 북집등등 어디서 파는지 모르겠네요 ㅠㅠ 몇시까지 하는지 아시는분있으면 댓글 부탁드립니다",
+			"cafename":"★☆부경맘(부산맘\/경남맘)☆★",
+			"cafeurl":"https:\/\/cafe.naver.com\/pusanmom"
+		},
+		{
+			"title":"층진<b>재료<\/b>준비-정기구(화) 완료&amp;결산",
+			"link":"http:\/\/cafe.naver.com\/gersangjjang\/2500569",
+			"description":"층진 만드려고 <b>재료<\/b> 준비하느라 요새 많이 바쁩니다 그래서 시작으로 정기구(화)부터 털었습니다 일단 완료된 <b>재료<\/b>는 정기구화 250개 작은불의정령석 130개 생정 19개 불의결정체 30개 요렇게 되었고 생정 나온 것 중... ",
+			"cafename":"* 파란만장 거상 *",
+			"cafeurl":"https:\/\/cafe.naver.com\/gersangjjang"
+		},
+		{
+			"title":"기본이 제일 어렵네요(실기 <b>재료<\/b> 썰기)",
+			"link":"http:\/\/cafe.naver.com\/koreancook\/252817",
+			"description":"어제 학원 첫수업을 <b>재료<\/b> 썰기 했네요 무가 없어서 빼고 있는 <b>재료<\/b> 했는데 역시나 기본기 부족이네요 매일 해야겠어요",
+			"cafename":"&lt;조리모카페&gt; 조리기능사 자격증의 모...",
+			"cafeurl":"https:\/\/cafe.naver.com\/koreancook"
+		},
+		{
+			"title":"소모성 <b>재료<\/b> 요양비 청구 처음 입니다",
+			"link":"http:\/\/cafe.naver.com\/t1d\/38547",
+			"description":"2월에 진단받고 소모성 <b>재료<\/b> 공단 요양비 청구를 처음 해보려고합니다 리브레는 약국에서 대행 해주셨어요 소모성 <b>재료<\/b>는 처음 신청해보려고 하는데 카페글을 보니 코로나 때문에 처방전이 없어도 된다면서요? 병원... ",
+			"cafename":"1형 당뇨인의 슈거 트리",
+			"cafeurl":"https:\/\/cafe.naver.com\/t1d"
+		},
+		{
+			"title":"7\/20 <b>재료<\/b>판매합니다",
+			"link":"http:\/\/cafe.naver.com\/ensoen\/127288",
+			"description":"각종<b>재료<\/b> 판매해용 gs반택 2000 일택 3500 1 왕관집게핀 6개 1셋 1000원 (5셋 가능) 색상 6개중에 랜덤으로 가요! 2 완료 3 완료 4 알파벳비즈 구매후 포장도 안뜯은걸로봐선 100g아닐까요..? 1000 5 완료 6 완료 7... ",
+			"cafename":"맘스리본공예★리본\/펠트\/양말인형\/퀼...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ensoen"
+		},
+		{
+			"title":"김밥 남는 <b>재료<\/b>는 잔치국시로 ^^",
+			"link":"http:\/\/cafe.naver.com\/ungsangstory\/1015419",
+			"description":"김밥 <b>재료<\/b>가 남아서 국수를 삶았습니다. 배 부르게 잘 먹었어요. ^^ 근데 설거지가 엄청나네요. .",
+			"cafename":"웅상이야기",
+			"cafeurl":"https:\/\/cafe.naver.com\/ungsangstory"
+		},
+		{
+			"title":"장비 <b>재료<\/b>가 없어짐",
+			"link":"http:\/\/cafe.naver.com\/tidesofwar\/86668",
+			"description":"점검후 사냥으로 받은 <b>재료<\/b> 아이템이 점검전 보유한 수량은 없어지고 사냥한 수량만 있음.",
+			"cafename":"캐리비안의 해적: 전쟁의 물결 공식 카...",
+			"cafeurl":"https:\/\/cafe.naver.com\/tidesofwar"
+		},
+		{
+			"title":"일식 <b>재료<\/b> '오보로' 만들어 봤어요.",
+			"link":"http:\/\/cafe.naver.com\/koreancook\/253826",
+			"description":"일식 독학을 시작하며 가장 먼저 한 일이 전체 메뉴에 들어갈 <b>재료<\/b> 파악이었어요. 무엇이 필요한지를 알아야 준비를 할 수 있을테고, 미리 준비를 해 놓아야 내가 하고 싶은 메뉴에 맞는 <b>재료<\/b>들을 척척 꺼내어 연습할 수... ",
+			"cafename":"&lt;조리모카페&gt; 조리기능사 자격증의 모...",
+			"cafeurl":"https:\/\/cafe.naver.com\/koreancook"
+		},
+		{
+			"title":"도라지배즙, 의외로 모르는 <b>재료<\/b> 배합의 중요성",
+			"link":"http:\/\/cafe.naver.com\/tlsxh\/2247128",
+			"description":"얼마나 <b>재료<\/b> 아낌 없이 듬뿍 갈아넣어야 하는지~ 한번 드셔보시면 차이를 느끼실 거에요! <b>재료<\/b> 아끼지 않고 오직 맛과 영양을만 생각하며 정성으로 만듭니다. 저희 아들도 실제로 아침 저녁으로 매일 먹고 있답니다.... ",
+			"cafename":"농라 -농산물 수산물 직거래 장터",
+			"cafeurl":"https:\/\/cafe.naver.com\/tlsxh"
+		},
+		{
+			"title":"제지 관련주 <b>재료<\/b> \/ 이슈 분석",
+			"link":"http:\/\/cafe.naver.com\/ustock\/4147102",
+			"description":"<b>재료<\/b> https:\/\/cafe.naver.com\/ustock\/4052775 이번 국제펄프 가격 상승도 국내 제지 업체들의 판매가격 상승으로 이어질 전망으로 국내 제지 관련주에 대한 관심이 쏠리고 있는 중이니까요. 위에 공유해 놓은 제지 관련주 <b>재료<\/b>... ",
+			"cafename":"평생주식카페 (SBS 쩐의전쟁 출연 재야...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ustock"
+		},
+		{
+			"title":"진화<b>재료<\/b> fv 혜자인가요?",
+			"link":"http:\/\/cafe.naver.com\/mfkr\/1261868",
+			"description":"12500fv로 114 진화<b>재료<\/b> 50장 살 수 있는데 전부 실금 달면 115 진화<b>재료<\/b> 50장인데 혜자 맞나요? 115 진화<b>재료<\/b> 50장 살려면 최소 25억tp 이상은 들거같은데,,",
+			"cafename":"FIFA MOBILE [피파모바일 카페] 모피투",
+			"cafeurl":"https:\/\/cafe.naver.com\/mfkr"
+		},
+		{
+			"title":"아기 유아식 <b>재료<\/b> 고민",
+			"link":"http:\/\/cafe.naver.com\/imsanbu\/61850435",
+			"description":"아기 유아식 <b>재료<\/b> 어떤거 구입하시나요? 이유식은 초기부터 시판이유식 사먹여서 별로 고민이 없었는데... 한우 무항생제 이런거 따져 먹이려니 가격도 후덜덜하고 다른 맘님들은 유아식 <b>재료<\/b> 어디까지 골라먹이시나요?",
+			"cafename":"맘스홀릭 베이비 (300만 엄마들의 임신...",
+			"cafeurl":"https:\/\/cafe.naver.com\/imsanbu"
+		},
+		{
+			"title":"제작과정 공유 - <b>재료<\/b> 다듬기",
+			"link":"http:\/\/cafe.naver.com\/hungrya\/16085",
+			"description":"지난 주는 내내 마지막에 추가된 여러 부품들을 구매하고, 서포트, 나사, 고무링에 이르기까지 매우 세부적인 <b>재료<\/b>들을 준비하였습니다. 열심히 <b>재료<\/b> “장보기”를 한 지난 주가 지나고.. 속속들히 도착한 <b>재료<\/b>들.. 어제... ",
+			"cafename":"헝그리오디오 3.0",
+			"cafeurl":"https:\/\/cafe.naver.com\/hungrya"
+		},
+		{
+			"title":"이유식 <b>재료<\/b> 어디서 구매하세요?",
+			"link":"http:\/\/cafe.naver.com\/imsanbu\/61803012",
+			"description":"이유식이 다음주로 다가왔어요! 이유식 <b>재료<\/b> 어디서 구매하세요? 고기는 정육각에서 사려하는데 야채가 걱정이예요 ㅎ 지금 열심히 공부하는데 궁금증만 더해가네요 ㅠ",
+			"cafename":"맘스홀릭 베이비 (300만 엄마들의 임신...",
+			"cafeurl":"https:\/\/cafe.naver.com\/imsanbu"
+		},
+		{
+			"title":"프랑스 자수 <b>재료<\/b>",
+			"link":"http:\/\/cafe.naver.com\/wjswnaka\/4448458",
+			"description":"개인거래(판매), 판매중, 가격 80,000원, 직접결제(네이버페이 송금), 프랑스 자수 <b>재료<\/b>, 프랑스 자수<b>재료<\/b> 팔아요 아가씨때 좋은 취미를 가져 보겠다며 하나씩 모았던게 이렇게나 많아지고 실력은 안늘었네요.. 만들고 나면... ",
+			"cafename":"전주&전북 알뜰맘",
+			"cafeurl":"https:\/\/cafe.naver.com\/wjswnaka"
+		},
+		{
+			"title":"새로운 <b>재료<\/b>는 오전에 먹이는게 맞죠?",
+			"link":"http:\/\/cafe.naver.com\/imsanbu\/61726974",
+			"description":"다음달에 후기 들어가는데요~ 튼이이유식보니까 아침 소 점심 닭 저녁에 생선 이런식으로 짜여있어서 저녁메뉴인데 새로운 <b>재료<\/b> 들어가는 경우가 있더라고요 그냥 무시하고 새로운 <b>재료<\/b>를 아침으로 줘도 되는거죵?..",
+			"cafename":"맘스홀릭 베이비 (300만 엄마들의 임신...",
+			"cafeurl":"https:\/\/cafe.naver.com\/imsanbu"
+		},
+		{
+			"title":"라면 끓여 먹을때 어떤 <b>재료<\/b> 넣으시나요?^^",
+			"link":"http:\/\/cafe.naver.com\/miniatureheaven\/9108",
+			"description":"라면 끓여 먹을때 넣는 <b>재료<\/b> 베스트 10 와우~~ 모든 <b>재료<\/b>가 라면과 잘 어울리는 것 같아요~^^ <b>재료<\/b> 저마다의 개성 있어서 어떤 <b>재료<\/b>를 넣느냐에 따라 다른 라면요리가 되는 것 같아요~ 오늘 저는 만두를 넣어 볼까 합니다~^^",
+			"cafename":"미니어처 헤븐",
+			"cafeurl":"https:\/\/cafe.naver.com\/miniatureheaven"
+		},
+		{
+			"title":"베이킹<b>재료<\/b>,카페<b>재료<\/b> 판매합니다",
+			"link":"http:\/\/cafe.naver.com\/delonghi\/952516",
+			"description":"개인거래(판매), 판매중, 가격 12,345원, 직접결제(네이버페이 송금), 베이킹<b>재료<\/b>,카페<b>재료<\/b> 판매합니다, * 판매글 게시전에 상단의 [★판매글 필수 규칙★]을 꼭 확인해주세요 * * 동일 물품 반복... ",
+			"cafename":"오븐엔조이 - 365일 즐거운 홈베이킹",
+			"cafeurl":"https:\/\/cafe.naver.com\/delonghi"
+		},
+		{
+			"title":"여름타파 백숙<b>재료<\/b>~",
+			"link":"http:\/\/cafe.naver.com\/yccungi\/549227",
+			"description":"ㅎ 냉동고 정리하면서 그동안 모아두었던 약재들 전부 정리하면서 ~ 백숙<b>재료<\/b>모음 만들어 봤어요~ 전부 직접한것들로~ 삼들도 한뿌랑씩 넣고~ 냉동실로 고고~ 삼지구엽초,산삼,더덕,도라지,지치,잔대,진삼,하수오,접골목... ",
+			"cafename":"약초천지",
+			"cafeurl":"https:\/\/cafe.naver.com\/yccungi"
+		},
+		{
+			"title":"소모성 <b>재료<\/b> 신청에 대해...",
+			"link":"http:\/\/cafe.naver.com\/dangsamo\/1225748",
+			"description":"저번달에 처음 소모성<b>재료<\/b> 급여신청하고.. 7월 22일 부터 소모성 <b>재료<\/b> 급여신청 가능하다 고 안내문자 받았는데요 ... 헷갈리는게 소모성 <b>재료<\/b>를 22일 이전에 구매하고 신청만 22일 이후해도 된다는 건가요? 아니면 22일... ",
+			"cafename":"당뇨와건강(당뇨환우회\/당뇨관리\/당건...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dangsamo"
+		},
+		{
+			"title":"<b>재료<\/b>없이 만들어야 했던..작년 오늘과~진짜 오늘.",
+			"link":"http:\/\/cafe.naver.com\/yuasam\/638912",
+			"description":"<b>재료<\/b>도 없는데..생일 카드 만들고 퇴근하래요. 사무실에 있는 포장지랑 에이포종이로 뚝딱 만들고... 두번째 사진은?오늘도 <b>재료<\/b>없이 그냥 종이로~ 장팀장은 <b>재료<\/b>없어도 뚝딱 만든다며..엄지척 해주는데.. 저도 예쁜<b>재료<\/b>로... ",
+			"cafename":"★지혜쌤★유아교육자료,보육교사,유치...",
+			"cafeurl":"https:\/\/cafe.naver.com\/yuasam"
+		},
+		{
+			"title":"<b>재료<\/b> 많이 들어간 시판이유식 어디가 있을까요",
+			"link":"http:\/\/cafe.naver.com\/imsanbu\/61876052",
+			"description":"근데 먹이는 내내 속<b>재료<\/b>가 좀 부실하다고해야하나.. 소고기도 후기 적정양보다 부족하고 야채도 총 20그램 정도 수준...이더라구요. 이 <b>재료<\/b>로 어떻게 180그램 총량이 나오는건지 궁금;; 직접 만들어먹이면 쌀죽 100그램에... ",
+			"cafename":"맘스홀릭 베이비 (300만 엄마들의 임신...",
+			"cafeurl":"https:\/\/cafe.naver.com\/imsanbu"
+		},
+		{
+			"title":"센터 <b>재료<\/b> 누적",
+			"link":"http:\/\/cafe.naver.com\/kof98umonline\/578890",
+			"description":"아래 쌓이고 있는 <b>재료<\/b> 어디에 쓰나요?",
+			"cafename":"더 킹 오브 파이터즈`98 UM온라인 공식...",
+			"cafeurl":"https:\/\/cafe.naver.com\/kof98umonline"
+		},
+		{
+			"title":"배달 줄이고 냉장고 <b>재료<\/b> 소진하기..!",
+			"link":"http:\/\/cafe.naver.com\/onepieceholicplus\/3881268",
+			"description":"급 땡겨서 배달시켜먹는게 많은데 그럴때마다 죽어가는 냉장고 <b>재료<\/b>들 ... 냉장고 앞에 포스트잇 만들어서, 소진해야하는 냉장실 냉동실 <b>재료<\/b> 적어두고 있어요. 깜빡하는 것도 많잖아요.. ? 조오금씩 개선되고 있는것... ",
+			"cafename":"월급쟁이 재테크 연구카페(예금,적금,...",
+			"cafeurl":"https:\/\/cafe.naver.com\/onepieceholicplus"
+		},
+		{
+			"title":"집에있는<b>재료<\/b>로~(떡갈비)",
+			"link":"http:\/\/cafe.naver.com\/momspanggju\/3379067",
+			"description":"집에있는<b>재료<\/b>로 조금만 말아야지했는데, 김밥김 한봉지를 말았어요ㅋㅋ 3-4줄만 말고싶었는데,이상하게 김밥싸면 적은게 10줄ㅜㅜㅎ 애셋이서 인당 두줄먹어요ㅋㅋㅋ 화꾸어 떡갈비돌려서 김밥<b>재료<\/b>로 두툼하니... ",
+			"cafename":"광주맘 - 광주맘카페 맘스팡",
+			"cafeurl":"https:\/\/cafe.naver.com\/momspanggju"
+		},
+		{
+			"title":"피부실기 <b>재료<\/b> 풀셋트 판매합니다",
+			"link":"http:\/\/cafe.naver.com\/bnjob\/851243",
+			"description":"개인거래(판매), 판매중, 가격 150,000원, 안전결제, 네이버페이, 피부실기 <b>재료<\/b> 풀셋트 판매합니다, 피부미용 실기 <b>재료<\/b> 판매합니다. 실기시험 <b>재료<\/b> 그대로 다있어요. 모델 속바지, 메이크업(아이라인,마스카라)도... ",
+			"cafename":"[뷰앤잡] 피부관리사,네일아트,속눈썹...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bnjob"
+		},
+		{
+			"title":"남은 <b>재료<\/b>로 저녁~",
+			"link":"http:\/\/cafe.naver.com\/daegudasa00\/346409",
+			"description":"오늘 딸램 현장체험 도시락 싸고 남은 <b>재료<\/b>로 방금 다시 김밥 몇줄 말았어요~ 라면이랑 먹고 저녁 땡하고 쉬어야겠어요",
+			"cafename":"No.1 대구 서재맘,세천맘,다사맘 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/daegudasa00"
+		},
+		{
+			"title":"<b>재료<\/b>를 잘못샀나봐요ㅎ",
+			"link":"http:\/\/cafe.naver.com\/handmade486486\/91580",
+			"description":"초초보라 실물을 보니 이걸로 어떻게 만들어야하나 머리가 아팠어요ㅋ 글루건처리도 깔끔하지못하구요ㅋ 그래도 샀는데 뭐라도 만들어졌으니 된거죠?ㅋ 만들려고 산 <b>재료<\/b>인데 어려워요ㅠㅋ",
+			"cafename":"[리본빌 홀릭] 리본 공예를 사랑하는 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/handmade486486"
+		},
+		{
+			"title":"당뇨소모성<b>재료<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dangsamo\/1226091",
+			"description":"어머니가 인슐린처방환자로 최초 약국에서 처방전등록하시고 소모성<b>재료<\/b>구입하고 계셨습니다 얼마전 제가 인터넷으로 시험지,채혈침등 구매했는데 공단에 청구할때 서류가 1. 처방전 2. 거래명세서 3. 카드영수증을... ",
+			"cafename":"당뇨와건강(당뇨환우회\/당뇨관리\/당건...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dangsamo"
+		},
+		{
+			"title":"여름<b>재료<\/b>소진용 3가지 머핀만들기",
+			"link":"http:\/\/cafe.naver.com\/delonghi\/950295",
+			"description":"요새 너어무 더워 <b>재료<\/b>들이 걱정되긴 하지만 걱정만할뿐 몸땡이는 침대와 혼연일체.... 더이상은 안되겟어서... 생각하여 기본베이스 반죽은 앙꼬님꺼 참고하여 다양하게 <b>재료<\/b> 넣어서 만들어봤어요 사과크럼블과... ",
+			"cafename":"오븐엔조이 - 365일 즐거운 홈베이킹",
+			"cafeurl":"https:\/\/cafe.naver.com\/delonghi"
+		},
+		{
+			"title":"포토케이크 <b>재료<\/b> 레터링 케이크 <b>재료<\/b>",
+			"link":"http:\/\/cafe.naver.com\/delonghi\/954730",
+			"description":"개인거래(판매), 판매중, 가격 2,000원, 직접결제(네이버페이 송금), 포토케이크 <b>재료<\/b> 레터링 케이크 <b>재료<\/b>, * 판매글 게시전에 상단의 [★판매글 필수 규칙★]을 꼭 확인해주세요 * * 동일 물품 반복 판매, 자필 인증... ",
+			"cafename":"오븐엔조이 - 365일 즐거운 홈베이킹",
+			"cafeurl":"https:\/\/cafe.naver.com\/delonghi"
+		},
+		{
+			"title":"충치치료 <b>재료<\/b> 선택",
+			"link":"http:\/\/cafe.naver.com\/studymokdong\/171623",
+			"description":"충치치료 할 때 금, 세라믹, 레진 중에만 가능하다면 어떤 <b>재료<\/b>가 제일 나을까요? 다른 <b>재료<\/b>는 안되고 셋 중 하나만 가능할 경우에요~",
+			"cafename":"목동의 공부잘하는 아이",
+			"cafeurl":"https:\/\/cafe.naver.com\/studymokdong"
+		},
+		{
+			"title":"빙수집 오늘 <b>재료<\/b>소진 조기퇴근해요",
+			"link":"http:\/\/cafe.naver.com\/jihosoccer123\/1552581",
+			"description":"준비해놓은 <b>재료<\/b>들 다 바닥나서 사실은 저도 죽을것같아요 단가를 낮게 팔아서 진짜 매출 이라말하기에도 뭐하지만 어쨌든 오늘 빙수집은 너무 힘든 하루였어요 더 이상 떨어진 <b>재료<\/b>들 다시 준비할 힘도 없네요 그냥... ",
+			"cafename":"아프니까 사장이다 [소상공인·자영업...",
+			"cafeurl":"https:\/\/cafe.naver.com\/jihosoccer123"
+		},
+		{
+			"title":"서중 콘크리트 중 <b>재료<\/b>관리 여쭤보겠습니다.",
+			"link":"http:\/\/cafe.naver.com\/esip21\/23739",
+			"description":"이제 서중관리 들어가는데 <b>재료<\/b>관리에서 골재 및 사용수 등 온도를 몇도 이하로 하라는 기준이 어디에 나와있을까요? 콘크리트 온도는 35도 이하로 알고 있는데 <b>재료<\/b>관리는 잘 모르겠네요.",
+			"cafename":"품질시험실",
+			"cafeurl":"https:\/\/cafe.naver.com\/esip21"
+		},
+		{
+			"title":"잔이탈리아 왁싱 제모 <b>재료<\/b> 판매",
+			"link":"http:\/\/cafe.naver.com\/joonggonara\/929575198",
+			"description":"개인거래(판매), 판매완료, 가격 25,000원, 안전결제, 네이버페이, 잔이탈리아 왁싱 제모 <b>재료<\/b> 판매, 잔이탈리아 왁싱 <b>재료<\/b>팝니다. 개인적으로 관리할려고 많이샀었던건데 전문가도움받으면서 안쓰게되어팔아요... ",
+			"cafename":"중고나라",
+			"cafeurl":"https:\/\/cafe.naver.com\/joonggonara"
+		},
+		{
+			"title":"<b>재료<\/b>준비끄읕!",
+			"link":"http:\/\/cafe.naver.com\/jihosoccer123\/1570125",
+			"description":"점심때 확몰리고 <b>재료<\/b>떨어져서 <b>재료<\/b>준비 다하고 잠시 쉬고있는데 하루중에 젤 기분 뿌듯하고 좋네요ㅎㅎㅎ 이제 <b>재료<\/b> 준비 다 해놔서 쉬면서 팔기만 하면 끝ㅡ 상쾌합니다요ㅎㅎㅎㅎ",
+			"cafename":"아프니까 사장이다 [소상공인·자영업...",
+			"cafeurl":"https:\/\/cafe.naver.com\/jihosoccer123"
+		},
+		{
+			"title":"코끝 <b>재료<\/b> 의견 감사해요~~",
+			"link":"http:\/\/cafe.naver.com\/fox5282\/3298582",
+			"description":"코끝 <b>재료<\/b>로 고민이였는데 귀연골이랑 비중격으로도 귀끝 오똑하게 잘 세울 수 있다고 하시더라구요... 따라 <b>재료<\/b>도 달라질 수 있다고는 해서 직접 상담 가봐야 알겠죠 ㅎㅎ ㅇㄹ, ㄴㅇㄷ, ㅇㅍ(한원장님), ㅇㄷ(최원장님)... ",
+			"cafename":"A+여우야 ❤️ [성형 정보 공유 카페]",
+			"cafeurl":"https:\/\/cafe.naver.com\/fox5282"
+		},
+		{
+			"title":"캔들 만들기 <b>재료<\/b>\/ 채소다지기",
+			"link":"http:\/\/cafe.naver.com\/djnoen\/1121539",
+			"description":"1. 캔들만들기 <b>재료<\/b> 보이는거 말고도 가방안에 많아요..! 이형제, 필라왁스, 몰드 등등 ! 몰드들은 몇번 사용해서 아무래도 사용감 있어요..! 2.채소다지기 드림합니다.",
+			"cafename":"대전 노은맘들의 수다방",
+			"cafeurl":"https:\/\/cafe.naver.com\/djnoen"
+		},
+		{
+			"title":"다이소<b>재료<\/b>로 돈방석제작",
+			"link":"http:\/\/cafe.naver.com\/no1sejong\/3379436",
+			"description":"친정엄마 생일선물로 돈방석제작 다이소에서파는<b>재료<\/b> 만들었어요 뭐니뭐니 해도 머니선물이 최고겠죠?",
+			"cafename":"세종맘카페 세종맘들의 행복한 이야기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/no1sejong"
+		},
+		{
+			"title":"기본연습♡<b>재료<\/b>썰기♡",
+			"link":"http:\/\/cafe.naver.com\/koreancook\/251748",
+			"description":"<b>재료<\/b>썰기부터 차근히 다시 시작하려구요 메뉴운 따라주면 좋겠지만 열심히 연습해서 합격하고 싶어요 썰고남은 무채랑 당근으로 반찬도 만들고 어제 학원서 만든 육회 볶고 <b>재료<\/b>썰기 연습한 당근 오이 지단채 넣고 김밥도... ",
+			"cafename":"&lt;조리모카페&gt; 조리기능사 자격증의 모...",
+			"cafeurl":"https:\/\/cafe.naver.com\/koreancook"
+		},
+		{
+			"title":"햄 빠진김밥<b>재료<\/b>입니다.",
+			"link":"http:\/\/cafe.naver.com\/momspanggju\/3376923",
+			"description":"신랑이 새벽출근하는데 김치만넣고 김밥싸주래서 <b>재료<\/b>준비해놨습니다. 신랑꺼는 묵은지넣고 싸주고 저 3가지 <b>재료<\/b>로는 아침에 애들 아침밥으로 싸줘야지요~~~ 햄이없이 아쉽지만 우짤수없구만요ㅋㅋ",
+			"cafename":"광주맘 - 광주맘카페 맘스팡",
+			"cafeurl":"https:\/\/cafe.naver.com\/momspanggju"
+		},
+		{
+			"title":"[안내] 레전드 <b>재료<\/b> 미리넣기 오류 안내 (조치 완료)",
+			"link":"http:\/\/cafe.naver.com\/com2usbaseball2015\/1496628",
+			"description":"레전드 <b>재료<\/b> 미리 넣기만 진행한 경우 - 등록한 카드 모두 취소 2. 레전드 <b>재료<\/b> 미리 넣기 진행 후 카드 생성한 경우 - 레전드 카드 회수 및 이전 상태로 복원 아울러, 06\/07(화) 20:12 이후부터는 정상적으로 레전드 카드... ",
+			"cafename":"컴투스프로야구2022 공식카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/com2usbaseball2015"
+		},
+		{
+			"title":"애플카 관련주 <b>재료<\/b> &amp; 이슈 분석 총정리",
+			"link":"http:\/\/cafe.naver.com\/ustock\/4146170",
+			"description":"애플카 관련주 <b>재료<\/b> https:\/\/cafe.naver.com\/ustock\/3939516 잠잠했던 애플카 관련주들이 이번 특허 기술 확보 소식 등에 따라 관련 종목들 새롭게 떠오르고 있으니까요. 공유해 놓은 애플카 관련주 <b>재료<\/b> 잘 체크해보시면서... ",
+			"cafename":"평생주식카페 (SBS 쩐의전쟁 출연 재야...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ustock"
+		},
+		{
+			"title":"피부실기<b>재료<\/b> 구매했어용",
+			"link":"http:\/\/cafe.naver.com\/bnjob\/850030",
+			"description":"취미삼아 해볼려고 당근으로 <b>재료<\/b> 넉넉하게 구매했어용 화장품은 연습하다가 모자랄까봐 3세트씩구매했습니다. 문제는 화장품 3세트가 종류가 다달라용ㅋㅋ 방학동안 해볼려구용 알코올같은건 약국들려서... ",
+			"cafename":"[뷰앤잡] 피부관리사,네일아트,속눈썹...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bnjob"
+		},
+		{
+			"title":"폭염 관련주 <b>재료<\/b> &amp; 이슈 분석 총정리",
+			"link":"http:\/\/cafe.naver.com\/ustock\/4147872",
+			"description":"폭염 관련주 <b>재료<\/b> https:\/\/cafe.naver.com\/ustock\/4092112 &quot; &quot; 중복을 기점으로 무더운 폭염이 이어지고 있어 폭염 관련주 부각되고 있는 중이니까요. 공유해 놓은 폭염 관련주 <b>재료<\/b> 잘 체크해보시면서 투자 방향도 잘... ",
+			"cafename":"평생주식카페 (SBS 쩐의전쟁 출연 재야...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ustock"
+		},
+		{
+			"title":"❤️ <b>재료<\/b> 나눔 했어요 ❤️",
+			"link":"http:\/\/cafe.naver.com\/wtac\/5198998",
+			"description":"1시 25분 3번째 댓글 남겨주시는 분에게 사진 속 <b>재료<\/b> 40셋 나눔 합니다 저희 섬으로 와주셔야 해요 ♀️ 도우님",
+			"cafename":"WTAC :: 닌텐도 동물의 숲 대표카페 [...",
+			"cafeurl":"https:\/\/cafe.naver.com\/wtac"
+		},
+		{
+			"title":"만들기?<b>재료<\/b> 파는곳이요~",
+			"link":"http:\/\/cafe.naver.com\/jejumam\/969380",
+			"description":"혹시 애월~외도~노형 사이에 이런 만들기 <b>재료<\/b>들 파는곳 있을까요?",
+			"cafename":"제주맘 - 제주도 엄마들의 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/jejumam"
+		},
+		{
+			"title":"❤️ <b>재료<\/b> 나눔 했어요 ❤️",
+			"link":"http:\/\/cafe.naver.com\/wtac\/5199018",
+			"description":"1시 32분 첫번째 댓글 남겨주시는 분에게 사진 속 <b>재료<\/b> 40세트 나눔 합니다 저희 섬으로 와주셔야 해요 ♀️ 00님",
+			"cafename":"WTAC :: 닌텐도 동물의 숲 대표카페 [...",
+			"cafeurl":"https:\/\/cafe.naver.com\/wtac"
+		},
+		{
+			"title":"❤️ <b>재료<\/b> 나눔 했어요 ❤️",
+			"link":"http:\/\/cafe.naver.com\/wtac\/5199037",
+			"description":"사진 속 <b>재료<\/b> 40세트 1시 42분 첫번째 댓글 남겨주시는 분에게 나눔 합니다 저희 섬으로 와주셔야 해요 ♀️ 00님",
+			"cafename":"WTAC :: 닌텐도 동물의 숲 대표카페 [...",
+			"cafeurl":"https:\/\/cafe.naver.com\/wtac"
+		},
+		{
+			"title":"빗썸 관련주 <b>재료<\/b> \/ 이슈 분석 총정리",
+			"link":"http:\/\/cafe.naver.com\/ustock\/4146142",
+			"description":"빗썸 관련주 <b>재료<\/b> https:\/\/cafe.naver.com\/ustock\/3298329 &gt; 빗썸의 매각설에 따라 국내 가상화폐 관련 종목들 부각 되고 있어 참고해 보실만한 빗썸 관련주 <b>재료<\/b> 공유해 놓을테니까요. 공유해 놓은 관련 종목들 잘... ",
+			"cafename":"평생주식카페 (SBS 쩐의전쟁 출연 재야...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ustock"
+		},
+		{
+			"title":"(업데이트 중)가게 정리_ 베이킹 <b>재료<\/b>들 판매합니다",
+			"link":"http:\/\/cafe.naver.com\/delonghi\/953207",
+			"description":"베이킹 <b>재료<\/b>들 판매합니다, * 판매글 게시전에 상단의 [★판매글 필수 규칙★]을 꼭 확인해주세요... 베이킹 <b>재료<\/b>들 저렴하게 판매합니다! 초콜릿 포함 <b>재료<\/b> 모두 비건입니다 모두 미개봉 새상품이며... ",
+			"cafename":"오븐엔조이 - 365일 즐거운 홈베이킹",
+			"cafeurl":"https:\/\/cafe.naver.com\/delonghi"
+		},
+		{
+			"title":"잡채<b>재료<\/b>준비끝",
+			"link":"http:\/\/cafe.naver.com\/gumibabyparty\/236194",
+			"description":"잡채<b>재료<\/b>준비해달라고 부탁받았거든요 오전에 장봐와서 점심전에 후딱했어요 ~",
+			"cafename":"::구미맘맘맘::구미맘,구미,구미맘카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/gumibabyparty"
+		},
+		{
+			"title":"김밥 <b>재료<\/b>소진 주방문 닫습니다",
+			"link":"http:\/\/cafe.naver.com\/gwanjeohealing\/578334",
+			"description":"꼭 속<b>재료<\/b>가 어중간하게 남는데,, 오늘은 아쥬 딱 떨어지네요 배불리 먹고 요만큼 남았으니 출출하면 아이들오며가며 먹을듯해요 뒷 정리하고 남편과 데이트 나가보려구요~ 그런데,,, 나가는것도 왜케 귀찮죠???",
+			"cafename":"관저맘의 힐링그루터",
+			"cafeurl":"https:\/\/cafe.naver.com\/gwanjeohealing"
+		},
+		{
+			"title":"타일 <b>재료<\/b>분리대 마감..이거 맞는건가요..?",
+			"link":"http:\/\/cafe.naver.com\/overseer\/793947",
+			"description":"타일시공 마감에 <b>재료<\/b>분리대라고 붙여둔 저 플라스틱이.. 외관도 지저분하고 마감도 미흡해 보이는데 저거밖에 방법이 없는걸까요..? 엉망인 부분이 한두군데가 아닌데 저 <b>재료<\/b>분리대 마감은 도무지 납득이 되지가 않네요..... ",
+			"cafename":"셀프 인테리어 My Home (혼자하는 집수...",
+			"cafeurl":"https:\/\/cafe.naver.com\/overseer"
+		},
+		{
+			"title":"❤️ <b>재료<\/b> 나눔 했어요 ❤️",
+			"link":"http:\/\/cafe.naver.com\/wtac\/5199118",
+			"description":"오늘 <b>재료<\/b> 나눔 마지막 저희 상점 무 가격 맞춰주시는 분에게 나눔 합니다 중참 가능 저희 섬으로 바로 와주셔야 해요 ♀️ 제일 싫고 애매한 400~499 입니다 정답은 463벨이었습니당✨️ 보슬님",
+			"cafename":"WTAC :: 닌텐도 동물의 숲 대표카페 [...",
+			"cafeurl":"https:\/\/cafe.naver.com\/wtac"
+		},
+		{
+			"title":"국산<b>재료<\/b>만 사용하여 만든 전통 한식간장!!!!",
+			"link":"http:\/\/cafe.naver.com\/tlsxh\/2245424",
+			"description":"<b>재료<\/b>, 숙성, 장을 담근 거꺼지 하나 하나 수작업으로 이루어지고 있습니다!! 천연<b>재료<\/b>만의 고집하여 첨가물이 일체 들어있지 않음을 자부할 수 있습니다. *전문연구기관에 정기적으로 검사를 받고있으니 더욱... ",
+			"cafename":"농라 -농산물 수산물 직거래 장터",
+			"cafeurl":"https:\/\/cafe.naver.com\/tlsxh"
+		},
+		{
+			"title":"토목기사 &amp; 건설<b>재료<\/b>시험기사 질문",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/607817",
+			"description":"건축기사, 건설안전기사 취득 후 건축기계설비 준비하려다가 회사에서 토목이나 건설<b>재료<\/b>시험기사가 필요하다고 하여 두 기사중 알아보고 있는데 건설<b>재료<\/b>시험기사는 실기가 작업형이... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"레진아트 <b>재료<\/b> 일괄 처분",
+			"link":"http:\/\/cafe.naver.com\/joonggonara\/931690446",
+			"description":"개인거래(판매), 판매중, 가격 100,000원, 안전결제, 네이버페이, 레진아트 <b>재료<\/b> 일괄 처분, 이사짐을 줄이기 위해 레진아트 <b>재료<\/b> 전부 처분합니다! 글리터 4종류, 금박, 파디코 조색제 11색, 해외 직구 조색제 21색, 몰드... ",
+			"cafename":"중고나라",
+			"cafeurl":"https:\/\/cafe.naver.com\/joonggonara"
+		},
+		{
+			"title":"디비전 라이벌과 풋챔을 많이해야 <b>재료<\/b>를 많이주는군요?",
+			"link":"http:\/\/cafe.naver.com\/realfifaarena\/1050764",
+			"description":"방금 디비 보상얻어서 <b>재료<\/b>를 받앗는데 풋얼음 코레라와 윈터 파비뉴를 얻엇고 그외 많은 <b>재료<\/b>들을 얻어서 피엘토츠및 ss픽을 햇거든요? 그래서 토츠베르나루드실바및 토츠프레드 떳어요 그래서 제 스쿼드 멤버상... ",
+			"cafename":"RFA :: Real Fifa Arena 국내 최대 피...",
+			"cafeurl":"https:\/\/cafe.naver.com\/realfifaarena"
+		},
+		{
+			"title":"코 끝 낮은 편이면 <b>재료<\/b> 어떤거 쓰는게 나을까요",
+			"link":"http:\/\/cafe.naver.com\/juliett00\/883537",
+			"description":"막 화려하게 하고싶진 않고 적당히 모양 변화시키는 느낌으로 하고싶으면 역시 귀연골일가요? 아니면 다른 <b>재료<\/b>도 괜찮은거 있으면 추천 해주세요 자연스럽게 바꿀 수 있는 <b>재료<\/b>면 더 좋습니다 콧대는 거의 실리콘 쓰죠?",
+			"cafename":"성형위키백과 - 성형후기, 성형실패, ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/juliett00"
+		},
+		{
+			"title":"스컬피 <b>재료<\/b> 일괄",
+			"link":"http:\/\/cafe.naver.com\/joonggonara\/929834383",
+			"description":"개인거래(판매), 판매완료, 가격 40,000원, 직접결제, 스컬피 <b>재료<\/b> 일괄, 중고나라에서 5천원 상품권 드리는 거 아시나요? ...더보기 버튼을 눌러 확인해 주세요 ---------------------------------------------- 스컬피 만드는 <b>재료<\/b>... ",
+			"cafename":"중고나라",
+			"cafeurl":"https:\/\/cafe.naver.com\/joonggonara"
+		}
+	]
+}

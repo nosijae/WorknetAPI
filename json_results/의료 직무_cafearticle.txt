@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:26 +0900",
+	"total":68107,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"간호, 보건, <b>의료 직무<\/b> 중에서 빡센?",
+			"link":"http:\/\/cafe.naver.com\/05425\/1015326",
+			"description":"가장 힘든 <b>직무<\/b>가 어딘가요? 업무가 많거나 야근, 철야 등 많이 하는데요.",
+			"cafename":"[맨살모임]간호직\/보건직\/의료기술직\/...",
+			"cafeurl":"https:\/\/cafe.naver.com\/05425"
+		},
+		{
+			"title":"한국보훈복지<b>의료<\/b>공단 NCS 및 필기자료 분석해봐요!",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2166692",
+			"description":"한국보훈복지<b>의료<\/b>공단 NCS <b>직무<\/b>수행능력평가 (전공필기) 한국사 (+ 근현대사) 로 구성되고, 한국보훈복지<b>의료<\/b>공단 NCS 직업기초능력평가 출제범위는 문제해결능력, 대인관계능력 조직이해능력, 의사소통능력... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>의료<\/b>기기 RA <b>직무<\/b> 어떤가요??",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10716385",
+			"description":"이직 준비중인데요, <b>의료<\/b>기기 RA 채용공고가 많은 것 같더군요 기업마다 다르고 개인마다 느끼는 점이 다르겠지만, 일반적인 QC <b>직무<\/b>랑 비교했을 때, 많이 힘든 <b>직무<\/b>인지, 미래에도 유망한 <b>직무<\/b>인지 어느... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"plc와 <b>의료<\/b>기기 수리 <b>직무<\/b>고민",
+			"link":"http:\/\/cafe.naver.com\/power119\/786931",
+			"description":"<b>의료<\/b>기기 업체에서 맡게 될 <b>직무<\/b>는 기기수리?로 예상됩니다. 먼저 제의가 온 곳은 <b>의료<\/b>기기업체여서 이곳에서 일을하다 연차가 쌓이면 이직을 해야겠다 생각을 했는데 plc가 이후에 독립이 가능하다는 점에서... ",
+			"cafename":"전기박사",
+			"cafeurl":"https:\/\/cafe.naver.com\/power119"
+		},
+		{
+			"title":"2022년 국제<b>의료<\/b>관광코디네이터 시험일정, 시험과목, 합격기준 등 정리",
+			"link":"http:\/\/cafe.naver.com\/imtcedu\/7480",
+			"description":"국제의료관광코디네이터는 서비스 분야, 보건, <b>의료 직무<\/b> 분야 국가기술자격입니다. 원서접수는 한국산업인력공단 운영 웹사이트 큐넷에서 접수 기간에 할 수 있습니다. http:\/\/www.q-net.or.kr\/rcv001.do?id=rcv00103... ",
+			"cafename":"(사) K-의료관광협회",
+			"cafeurl":"https:\/\/cafe.naver.com\/imtcedu"
+		},
+		{
+			"title":"심평원 <b>직무<\/b>수행능력평가 보건<b>의료<\/b> 관련 질문용 ㅋ",
+			"link":"http:\/\/cafe.naver.com\/publiccor\/85562",
+			"description":"건강보험심사평가원에서 이번에 하반기 정규직 채용 공고 떴잖아요~~~ 저 간호사인데 도전하려는데 필기시험에 <b>직무<\/b>수행능력평가 (보건<b>의료<\/b> 및 <b>직무<\/b>관련지식평가) 평가한다고 했는데 어디서 공부해야하나요 ? NCS... ",
+			"cafename":"국준모｜국민건강보험공단,건강보험심...",
+			"cafeurl":"https:\/\/cafe.naver.com\/publiccor"
+		},
+		{
+			"title":"한국보훈복지<b>의료<\/b>공단 전공과 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1357996",
+			"description":"한국보훈복지<b>의료<\/b>공단 쓰려고 하는데요사무행정 안에서도 어떤 전공을 보느냐에 따라 <b>직무<\/b>가 나눠져 있떠라구요법\/행정은 총무,인사 등등경영\/회계\/경제는 기획,재무,회계 <b>직무<\/b> 등등이게 총무,인사 <b>직무<\/b>를... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>의료<\/b>기기 CRA",
+			"link":"http:\/\/cafe.naver.com\/cracrc\/222357",
+			"description":"다름이 아니라 3학년 때부터 <b>의료<\/b>기기 RA <b>직무<\/b>를 희망하여 RA만을 바라보고 취업 준비를 시작하였는데요. 최근 <b>의료<\/b>기기 전 주기 과정을 살펴보게 되면서 CRA라는 <b>직무<\/b>를 알게 되었고 RA와는 결이 많이 다르다는 것을... ",
+			"cafename":"신약 개발임상 연구원 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/cracrc"
+		},
+		{
+			"title":"<b>의료<\/b>기기 RA로 일하시는 생명과학 전공자분 계신가요?",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/31157",
+			"description":"<b>의료<\/b>기기 RA <b>직무<\/b> 고민 중인 생명과학 전공자입니다. 제약회사 QC와 <b>의료<\/b>기기 RA 두 <b>직무<\/b> 중에서 고민하고 있는데요! 사실 <b>의료<\/b>기기 RA에 관심과 열정이나 흥미를 가지고 있어서 이 <b>직무<\/b>를 고민 중이기 보단...QC에 맘이... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"<b>의료<\/b>통역사 자격증 국제<b>의료<\/b>관광코디네이터 응시자격 어떻게?",
+			"link":"http:\/\/cafe.naver.com\/maljjang2\/1301174",
+			"description":"아직까지 이 <b>의료<\/b>통역사 계열의 <b>직무<\/b>에 대해 알려진 게 많이 없다보니 국제<b>의료<\/b>관광코디네이터를 희망해도 진행방법을 모르는 분들이 꽤나 많았을 텐데요! 오늘은 이 국제<b>의료<\/b>관광코디네이터를 하려면 어떤 자격이... ",
+			"cafename":"황인영 영어 카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/maljjang2"
+		},
+		{
+			"title":"<b>의료<\/b>기기 qa <b>직무<\/b> 관해서",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/14465",
+			"description":"그래서 <b>의료<\/b>기기 업계의 qa <b>직무<\/b> 현실에 대해서 좀 알고 싶습니다.. 쫌 걱정되는게 물론 현 회사가 품질이 관리되지 않고 방치된 것도 있긴 한데, 인식이 모든 품질 문서의 작성이 qa부서라고 되어있더라고요.. 타... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"[한국보훈복지<b>의료<\/b>공단] 2022년 사무직 신입사원 공개채용 경쟁률 \/ 1,801명 지원, 139.5 대 1을 기록한 직...",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1880657",
+			"description":"[한국보훈복지<b>의료<\/b>공단] 2022년 사무직 신입사원 공개채용 경쟁률 1,801명 지원, 139.5 대 1을 기록한 <b>직무<\/b>는? 한국보훈복지<b>의료<\/b>공단이 2022년 사무직 신입직원 채용의 응시인원, 선발인원 정보를 공개했습니다. 총... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"특수<b>직무<\/b>수당-읍면동수당+<b>의료<\/b>업무수당 병급이 가능한가요",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/271312",
+			"description":"특수<b>직무<\/b>수당-읍면동수당과 <b>의료<\/b>업무수당(감염병대응)이 병급이 가능한가요..?",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"보건<b>의료<\/b>정보학과 취업처_원무과",
+			"link":"http:\/\/cafe.naver.com\/suhui\/26680433",
+			"description":"그러나 거의 다수의 병원에서 <b>직무<\/b>에 적합한 인재를 찾다보니 보건<b>의료<\/b>정보 등의 학과 졸업자를 선호하여 거의 동종 학과 학생들이 근무하고 있는 것이 현실입니다. 원무과는 접수와 수납만 하지 않습니다. - 원무과에서... ",
+			"cafename":"수만휘-수능날만점시험지를휘날리자★...",
+			"cafeurl":"https:\/\/cafe.naver.com\/suhui"
+		},
+		{
+			"title":"온라인 소프트웨어 인증 구축에 필요한 <b>직무<\/b> 스킬이 궁금합니다.",
+			"link":"http:\/\/cafe.naver.com\/hacosa\/290742",
+			"description":"※ 해야되는 <b>직무<\/b> : <b>의료<\/b>기기 GUI에서 &quot;라이센스 키 또는 별도 인증 방법&quot;을 통해 정품 인증을 진행하고자 하고 이는 별도 서버에 DB로 저장되어 지속적인 유지 관리가 되어야 하는 환경을 만들고자 합니다. 이에 따른 <b>직무<\/b>... ",
+			"cafename":"하드코딩하는사람들",
+			"cafeurl":"https:\/\/cafe.naver.com\/hacosa"
+		},
+		{
+			"title":"대학교 3학년인데, 희망 <b>직무<\/b>와 다른 <b>직무<\/b>는 인턴할 필요 없을까요?",
+			"link":"http:\/\/cafe.naver.com\/gsk\/212386",
+			"description":"희망<b>직무<\/b>는 <b>의료<\/b>기기 혹은 의약품 QA\/RA 입니다. 아직 스펙 쌓아가는 단계라 정확히 정하지는 않았구요. 회사에서 제안한 <b>직무<\/b>는 <b>의료<\/b>기기 마케팅인데 .. 너무 딴 판인 <b>직무<\/b>라 고민되네요.. 마케팅 쪽으로 나갈 생각 전혀... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"★총33명 [대구경북첨단<b>의료<\/b>산업진흥재단 채용] 정규직 신입\/경력 (연구\/행정) (~8.12)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2189865",
+			"description":"이루어진다고 합니다. 온라인 접수 https:\/\/kmedihub.recruiter.co.kr 첨부파일 2.★(2022-1)<b>직무<\/b>기술서.hwp 파일 다운로드 첨부파일 대구경북첨단<b>의료<\/b>산업진흥재단 붙임.hwp 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"직업교육 06.보건.<b>의료<\/b> 관련이용~~~~",
+			"link":"http:\/\/cafe.naver.com\/publiccor\/217146",
+			"description":"NCS코드 대로 찾아서 듣고는 있는데 06.보건.<b>의료<\/b>는 세분류에 (전체) 건강관리로 되어있더라구요 06010201 병원행정에서 <b>의료<\/b>서비스 실전 <b>직무<\/b>교육 들었는데 맞게들은거 맞나요..??;; 아시는분 답변 부탁드려요 아니면... ",
+			"cafename":"국준모｜국민건강보험공단,건강보험심...",
+			"cafeurl":"https:\/\/cafe.naver.com\/publiccor"
+		},
+		{
+			"title":"<b>직무<\/b>분석\/평가\/성과보상 구축 컨설팅 견적 요청 드립니다.",
+			"link":"http:\/\/cafe.naver.com\/ak573\/727604",
+			"description":"안녕하세요 저희는 <b>의료<\/b>바이오제품 제조회사로 연매출 약 1700억규모의 회사 입니다. 직원수는 100... <b>직무<\/b>분석\/평가\/성과보상 체계에 대해 견적 요청드리오니 많은 관심 부탁 드립니다. 감사합니다. ******@*****.***",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"간호사 공기업, 채용하는 공기업 리스트와 간호사 <b>직무<\/b> 확인하기!",
+			"link":"http:\/\/cafe.naver.com\/gamnyang\/287902",
+			"description":"간호사 공기업, 채용하는 공기업 리스트와 간호사 <b>직무<\/b> 확인하기! 간호사 공기업 안녕하세요, 간호사... 간호사 공기업 5급(일반\/보훈) 총 75명을 채용했죠, 간호사 공기업 5급 일반직의 경우, 간호사, <b>의료<\/b>기사... ",
+			"cafename":"딱공기업-공기업을 준비하는 사람들의...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gamnyang"
+		},
+		{
+			"title":"[(주)로완]<b>의료<\/b>기기 RA채용(FDA담당자)",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/33285",
+			"description":"수행<b>직무<\/b> ▷DTx(디지털치료제), 소프트웨어 <b>의료<\/b>기기 해외 인허가 등록전략 및 실행계획 수립 ▷해외 인허가 등록서류 작성 ▷해외 인허가 등록업무(신규\/갱신\/관리)진행 및 규제당국 대응 3. 지원자격 ▷경력 3년... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"[EFC박람회]캐나다컬리지 플레밍컬리지 <b>의료<\/b>정보관리학과 Health Inforamtion Management",
+			"link":"http:\/\/cafe.naver.com\/soscanada\/24944",
+			"description":"의료기록은 병원과 의료 관리시설에서 코드를 활용하여 상환과정을 진행하는데 필요하며, 이정보는 또한 의료연구가와 분석가들이 공공<b>의료 직무<\/b>로써 질병의 패턴과 동향을 분석하고 비교하여 결정을 내리는데... ",
+			"cafename":"SOS 유학센터",
+			"cafeurl":"https:\/\/cafe.naver.com\/soscanada"
+		},
+		{
+			"title":"산업안전산업기사 군경력 <b>직무<\/b>경력 질문있습니다.",
+			"link":"http:\/\/cafe.naver.com\/anjun\/937041",
+			"description":"응시요건 갖출려면 군경력+ <b>직무<\/b>경력6개월 이상이잖아요? 그때 <b>직무<\/b>경력을 인정받으려면 자격증과 연관성?을 많이 갖춰야하나요?그리고 정규직이어야만 인정되나요?? 제가 공장 자재 관리랑 그후 다른 공장 제조직... ",
+			"cafename":"산준모★산업안전기사｜위험물산업기사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anjun"
+		},
+		{
+			"title":"올바른 <b>의료<\/b>이용지원사업 전문인력-기간제",
+			"link":"http:\/\/cafe.naver.com\/publiccor\/221711",
+			"description":"올바른 <b>의료<\/b> 이용지원사업 기간제 근무하신분 계시나요? <b>직무<\/b>기술서 말고는 정보가 거의 없네요 면접 예정인데 어떤걸 준비해야할지 막막하네여 ㅜ 지원동기, 자기소개는 기본적으로 준비할건데용 ㅠ",
+			"cafename":"국준모｜국민건강보험공단,건강보험심...",
+			"cafeurl":"https:\/\/cafe.naver.com\/publiccor"
+		},
+		{
+			"title":"<b>의료<\/b>기기 V&amp;V <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9713286",
+			"description":"연구소에서 verification &amp; validation <b>직무<\/b> 해보신적 있는 분 계실까요?? 제품 테스트, 검증, 버그테스트, 신 기술테스트 이런거니까.. 좀 지겨운가요?? 이 <b>직무<\/b> 하고 계신뷴들 <b>직무<\/b>의 특,장단점 부탁좀 드리겠습니다!",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"(주)케어젠 <b>의료<\/b>기기 인허가 담당자 구인",
+			"link":"http:\/\/cafe.naver.com\/gsk\/205307",
+			"description":"기업명 : 케어젠 <b>직무<\/b> : <b>의료<\/b>기기 인허가 담당자 상세 내용 : <b>의료<\/b>기기 인허가 담당자 (팀장) 담당업무 ㆍ조직수복용생체재료(필러제품), 유럽 CE인증(Class III) 유지 관리 (기술문서 작성 및 대응) ㆍ러시아... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"특수업무수당 관련 문의입니다.(<b>의료<\/b>업무수당\/특수<b>직무<\/b>수당-사회복지)",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/257665",
+			"description":"특수업무수당 중 <b>의료<\/b>업무수당(5만원)을 받고 계시는 간호직으로 이루어진 팀이 있는데 이 팀은 사회복지업무를 맞고 있습니다.. 특수업무수당 내에서는 병급이 불가하여 그동안은 <b>의료<\/b>업무-간호직렬 수당(5만원)만... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"대한나래)의사소통 기술\/<b>직무<\/b>윤리\/최신치과<b>의료<\/b>관리 팔아요",
+			"link":"http:\/\/cafe.naver.com\/1stdh\/231484",
+			"description":"치과진료 의사소통 기술의 이론과 실습=7000원 <b>직무<\/b>윤리와 환자관계=5000원 최신치과<b>의료<\/b>관리=7000원 상태안좋아서 싸게 팔아요 https:\/\/open.kakao.com\/o\/s1KWCF4d",
+			"cafename":"명품 치과위생사",
+			"cafeurl":"https:\/\/cafe.naver.com\/1stdh"
+		},
+		{
+			"title":"외국계 <b>의료<\/b>기기 CS <b>직무<\/b> 면접후기",
+			"link":"http:\/\/cafe.naver.com\/peoplenjob\/11299",
+			"description":"서울역 쪽에 위치한 가전제품 제조 회사로 알려진 회사인데, <b>의료<\/b>기기 부문 CS <b>직무<\/b>로 면접을 보았습니다. 피플앤잡 면접 후기를 읽어봤는데, 대부분 이 회사의 후기들이 좋아서 어느 정도 기대를 하고 방문했습니다.... ",
+			"cafename":"피플앤잡 - 외국계기업채용,외국기업취...",
+			"cafeurl":"https:\/\/cafe.naver.com\/peoplenjob"
+		},
+		{
+			"title":"<b>의료<\/b>기기 V&amp;V <b>직무<\/b> 궁금해요",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9929329",
+			"description":"연구소에서 verification &amp; validation <b>직무<\/b> 해보신적 있는 분 계실까요?? 제품 테스트, 검증, 버그테스트, 신 기술테스트 이런거니까.. 좀 지겨운가요? V&amp;V <b>직무<\/b> 담당하시는 분들 근무환경에 대해서 말씀좀 부탁드랴요!... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"커리어에듀 ncs+통합전공+<b>의료직무<\/b> 강의 들을까요 말까요?ㅠㅠ",
+			"link":"http:\/\/cafe.naver.com\/publiccor\/93444",
+			"description":"들어 보신분 계세요? ㅠㅠ 40만원이 넘던데요 ㅠㅠㅠㅠ 너무 고민이예요 지금 ㅠㅠ 흑.. <b>의료<\/b>쪽이야 홈페이지나 인터넷 보면서 할만 하겠지만 통합전공...이쪽에서 문제가 많이 나온다면 너무 힘들거 같아서요 ㅠㅠ",
+			"cafename":"국준모｜국민건강보험공단,건강보험심...",
+			"cafeurl":"https:\/\/cafe.naver.com\/publiccor"
+		},
+		{
+			"title":"화장품\/<b>의료<\/b>기기 쪽 RA<b>직무<\/b> 하시는 분 있으신가요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9751750",
+			"description":"최근 화장품\/<b>의료<\/b>기기 산업 RA <b>직무<\/b>에 관심가지게 되었는데필요한 역량에 어떤것들이 있나요? 신입으로 들어가면 어떤일부터 시작하나요?그리고 영어를 굉장히 중요시하는거 같은데독해랑 쓰기는 얼마나 중요한가요?... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>의료<\/b>기기 sw 인증 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/8258",
+			"description":"혼자 인증이나 하기는 어렵지만 <b>의료<\/b>기기 sw인증이라고 해서 이 <b>직무<\/b>는 많이 다른가요?? 한 회사에 담당자로 오실생각 없냐는데 교육이런것도 지원해주고요.. 너무 급여나 이런걸 보고 가면 안되지만 많은걸 배워보고... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"RA <b>의료<\/b>기기 인허가 <b>직무<\/b> 질문..",
+			"link":"http:\/\/cafe.naver.com\/gsk\/210308",
+			"description":"현재 실무경험이 없는 신입입니다 Ra 국내4등급 인허가 면접을 합격한 했고 다른 회사의 품질관리 <b>직무<\/b> 면접도 있는 상황입니다 이것도 면접 보는게 맞을까요? 품질관리 <b>직무<\/b>랑 RA<b>직무<\/b>중에 어떤게 더 좋을지 모르겠습니다... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"구매선배님들 구매<b>직무<\/b>의 미래, 비전에 대해 궁금합니다",
+			"link":"http:\/\/cafe.naver.com\/gumecpm\/51823",
+			"description":"우선 저는 <b>의료<\/b>기기 제조기업 자재구매팀에 입사한지 1년이 되가는 계약직 병아리입니다. 자재관리(납품온... 제가 궁금한건 구매<b>직무<\/b>만으로 미래에 제가 계속해서 기업에서 살아남을 수 있을지가 궁금합니다. 그리고... ",
+			"cafename":"구매전문가",
+			"cafeurl":"https:\/\/cafe.naver.com\/gumecpm"
+		},
+		{
+			"title":"[한국보훈복지<b>의료<\/b>공단] 부산보훈병원 체험형 인턴 채용(~06\/12)",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1378829",
+			"description":"[한국보훈복지<b>의료<\/b>공단] 부산보훈병원 체험형 인턴 채용 (~06\/12) ▶ 접수기간 : 2020.06.03(수) ~ 2020.06.12(금)▶ 모집<b>직무<\/b> : <b>의료<\/b>정보관리▶ 고용형태 : 체험형 인턴▶ 전형절차 : 서류전형 - 면접전형 - 최종합격... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"간호사맘님들~종로구청에서 <b>의료<\/b>급여관리사(무기계약직)로 근무하실 분 구합니다",
+			"link":"http:\/\/cafe.naver.com\/imsanbu\/60960479",
+			"description":"종로구에서 <b>의료<\/b>급여관리사로 근무하실 분 구합니다. 자격요건은 <b>의료<\/b>기관에서 2년이상 근무 경력이 있는 간호사면허증 소지자 이시면 되시구요..자세한 사항은 링크걸겠습니다..... ",
+			"cafename":"맘스홀릭 베이비 (300만 엄마들의 임신...",
+			"cafeurl":"https:\/\/cafe.naver.com\/imsanbu"
+		},
+		{
+			"title":"다들 원무과와 보건<b>의료<\/b>정보관리사 중 어느 <b>직무<\/b>로 취업 준비하고계시나요? 혹은 취업하셨나요?",
+			"link":"http:\/\/cafe.naver.com\/rhia\/114580",
+			"description":"다들 원무과와 보건<b>의료<\/b>정보관리사 중 어느 <b>직무<\/b>로 취업 준비하고계시나요? 혹은 취업하셨나요?",
+			"cafename":"@보건&의료정보 A~Z@",
+			"cafeurl":"https:\/\/cafe.naver.com\/rhia"
+		},
+		{
+			"title":"[입시] [식품의약품안전처 지정 특성화대학원] 2022학년도 후기 동국대학교 식품<b>의료<\/b>제품규제정책학과 수시...",
+			"link":"http:\/\/cafe.naver.com\/daehakwon\/105795",
+			"description":"동국대학교 일반대학원 식품·<b>의료<\/b>제품규제정책학과는 식품의약품안전처 지정 특성화대학원으로... 현장<b>직무<\/b> 관련 다양한 교육과정을 교차수강할 수 있는 등 많은 혜택이 제공되므로 업무와 병행하여... ",
+			"cafename":"대학원 입학을 준비하는 사람들의 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/daehakwon"
+		},
+		{
+			"title":"출산휴가 중 수당관련하여 문의드립니다(가족수당,위험근무수당,특수<b>직무<\/b>수당,<b>의료<\/b>업무수당)",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/136342",
+			"description":"출산휴가 중 수당관련하여 문의드립니다(가족수당,위험근무수당,특수<b>직무<\/b>수당,<b>의료<\/b>업무수당) 7\/12~7\/26까지는 연가를 사용하고 출산휴가를 7\/27부터 나간경우 위험근무수당,특수<b>직무<\/b>수당,<b>의료<\/b>업무수당이 지급되는지... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"[부산] <b>의료직무<\/b>분야(약물, 호스피스, 신체보호대) 특강 강사님을 구합니다.",
+			"link":"http:\/\/cafe.naver.com\/freecs\/82743",
+			"description":"구인자의 업무(특강,컨설팅일 경우 과목명)\/일시,시간,근무조건등 -강의내용: <b>의료직무<\/b>분야 특강(약물, 호스피스 \/ 신체보호대) -업체명: 김해**요양병원 -일자(총 2H 진행) 1) 11\/21(월): 약물, 호스피스_1H 2) 11\/28(월)... ",
+			"cafename":"FreeCS강사&기업교육",
+			"cafeurl":"https:\/\/cafe.naver.com\/freecs"
+		},
+		{
+			"title":"시대고시 심평원 문제집 팔아요:)",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2655610",
+			"description":"개인거래(판매), 판매중, 가격 21,000원, 직접결제, 시대고시 심평원 문제집 팔아요:), 2022년 올해 심평원 NCS+전공+모의고사 책 팝니다~ 직업기초능력평가,보건<b>의료<\/b>지식,<b>직무<\/b>수행능력평가는 물론 면접 기출질문 및... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"<b>의료<\/b>기기 마케팅 <b>직무<\/b>에 대해 질문드려요(게시판성격에 맞지않으면 삭제할게요)",
+			"link":"http:\/\/cafe.naver.com\/gsk\/97991",
+			"description":"준비 이렇게 되잇는데요 이건 영업이나, 영업지원,관리 <b>직무<\/b> 아닌가요 ? 그런데 카테고리는 sales &amp;marketing 으로 되잇어서요 <b>의료<\/b>기기 회사 마케팅 부 <b>직무<\/b> 좀 알려주실분 있나요 ?",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"8개직종 <b>의료<\/b>기사 국가시험 '<b>직무<\/b>중심' 개편",
+			"link":"http:\/\/cafe.naver.com\/busanhospital\/16537",
+			"description":"이에 따라 단편적인 지식 측정이 아닌 <b>의료<\/b>기사 <b>직무<\/b>수행능력과 관련된 종합적 문제해결 능력을 평가할 수 있도록 시험과목을 <b>직무<\/b>중심으로 통합했다. 국시원은 이를 위해 지난 2002년부터 국가시험 과목 타당성 연구 및... ",
+			"cafename":"대한의료행정",
+			"cafeurl":"https:\/\/cafe.naver.com\/busanhospital"
+		},
+		{
+			"title":"[(주)더OOOO]<b>의료<\/b>기기 생산직 (마감)",
+			"link":"http:\/\/cafe.naver.com\/kdeaf\/12727",
+			"description":"<b>직무<\/b>: <b>의료<\/b>기기제조 클린룸내 생산업무(방진복착용), <b>의료<\/b>기기 조립 및 포장업무 2. 모집인원: 1명 3. 우대사항: 문어사용이 원활하거나 구어사용자(필수X) 4. 고용형태: 12개월 근로계약 만료 후 상용직... ",
+			"cafename":"(사)한국농아인협회 중앙회 직업재활센...",
+			"cafeurl":"https:\/\/cafe.naver.com\/kdeaf"
+		},
+		{
+			"title":"간호사 공기업 탈임상 가능한 채용 공고와 후기 정보까지 확인한세요!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1933246",
+			"description":"실제로 보건 <b>의료<\/b>계열에서 <b>직무<\/b>를 필요로 하는 공기업들은 채용 공고를 통해서 간호사 <b>직무<\/b>에 종사하는 분들을 채용하고 간호사 분들 중에서는 임상에서 일하는 간호사를 벗어나는 이른바 탈임상을 목표로 실제... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"<b>직무<\/b>교육 어떻게 해야할지 어렵네요...",
+			"link":"http:\/\/cafe.naver.com\/publiccor\/199675",
+			"description":"보건, <b>의료<\/b> 부분도 건보 <b>직무<\/b>와 연관성이 있을까 싶은데 ncs코드만 맞으면 들으면 되는지 궁금합니다. 국준모 실시간 합격후기모음 국민건강보험공단 상반기 요양직 합격수기 https:\/\/cafe.naver.com... ",
+			"cafename":"국준모｜국민건강보험공단,건강보험심...",
+			"cafeurl":"https:\/\/cafe.naver.com\/publiccor"
+		},
+		{
+			"title":"[식품의약품안전처 지정 특성화 대학원] 동국대식품<b>의료<\/b>제품규제정책학과 2022학년도 2학기 후기 특별전형 ...",
+			"link":"http:\/\/cafe.naver.com\/daehakwon\/103543",
+			"description":"동국대학교 일반대학원 식품·<b>의료<\/b>제품규제정책학과는 식품의약품안전처 지정 특성화대학원으로 글로벌... 현장<b>직무<\/b> 관련 다양한 교육과정을 교차수강할 수 있는 등 많은 혜택이 제공되므로 업무와 병행하여... ",
+			"cafename":"대학원 입학을 준비하는 사람들의 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/daehakwon"
+		},
+		{
+			"title":"AI <b>의료<\/b>기기 _ QC (신입) 모집",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/29932",
+			"description":"모집부분: QC(신입) 해당업무 자격요건 우대사항 - SW 품질관리\/테스트 - SW 기능 검증 - 제품 검사성적서 기록 - 학사이상 - 영어가능자 - 전공: 자연계열, 공학계열, 임상병리학 - 관련<b>직무<\/b>경험 (<b>의료<\/b>영상관련... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"보건<b>의료<\/b>통합봉사회 2022 하반기 중앙본부원 모집",
+			"link":"http:\/\/cafe.naver.com\/specup\/7034882",
+			"description":"보건<b>의료<\/b>통합봉사회 IHCO입니다! IHCO에서 2022년도 하반기를 함께 할 성실하고 열정 넘치는... ㄴ이것만큼 <b>직무<\/b> 이해에 도움되는 게 없음 http:\/\/abit.ly\/zadkfh 필기\/면접후기만 남기면 오천원 바로... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"병원 면접 스터디 하실분",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11762212",
+			"description":"병원<b>직무<\/b>(<b>의료<\/b> 보건계열) 면접 스터디하실분 구해요 하실분은 여기로 카톡주세요 장소는 서울생각중입니다 병원 면접 자소서 스터디 https:\/\/open.kakao.com\/o\/gOsGWYme 꼭 봐야할 이번주 독취사... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[입시] [식품의약품안전처 지정 특성화대학원] 2022학년도 후기 동국대학교 식품<b>의료<\/b>제품규제정책학과 수시...",
+			"link":"http:\/\/cafe.naver.com\/foodbbo\/137222",
+			"description":"동국대학교 일반대학원 식품·<b>의료<\/b>제품규제정책학과는 식품의약품안전처 지정 특성화대학원으로... 현장<b>직무<\/b> 관련 다양한 교육과정을 교차수강할 수 있는 등 많은 혜택이 제공되므로 업무와 병행하여... ",
+			"cafename":"식품(산업)기사 뽀개기",
+			"cafeurl":"https:\/\/cafe.naver.com\/foodbbo"
+		},
+		{
+			"title":"CRA <b>직무<\/b>를 신입으로 시작할 때 분야(제약, <b>의료<\/b>기기, 건기식)가 다음 커리어에 얼마나 영향을 미칠까요?",
+			"link":"http:\/\/cafe.naver.com\/cracrc\/202678",
+			"description":"CRA <b>직무<\/b>를 하고 싶은 취업준비생입니다. CRA관련 경험이 전무한 상태로, CRA든 CTA든 신입 채용공고 있는... 회사들이 <b>의료<\/b>기기 회사, 건기식 관련 CRO 입니다. 혹시 제가 커리어를 발전시켜 나갈때, <b>의료<\/b>기기 회사의... ",
+			"cafename":"신약 개발임상 연구원 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/cracrc"
+		},
+		{
+			"title":"심평원 ncs 유형과 <b>직무<\/b>지식(보건<b>의료<\/b>) 필기시험 출제영역",
+			"link":"http:\/\/cafe.naver.com\/publiccor\/96317",
+			"description":"에듀 홈피 공지사항 보니까 심평원 출제영역이 나와 있던데요, ncs는 아래 영역만 공부하면 되는건가요? 그리고 심사직의 경우 <b>직무<\/b>수행능력평가는 보건<b>의료<\/b>지식만 공부하면 되는건가요? 사무직은 통합전공이 나오네요ㅠ",
+			"cafename":"국준모｜국민건강보험공단,건강보험심...",
+			"cafeurl":"https:\/\/cafe.naver.com\/publiccor"
+		},
+		{
+			"title":"가천대 길병원 <b>의료<\/b>기기임상시험센터 연구간호사 모십니다.",
+			"link":"http:\/\/cafe.naver.com\/cracrc\/140244",
+			"description":"◉ 모집부문 및 업무내용 : 연구간호사 <b>직무<\/b> <b>의료<\/b>기기 임상시험 수행 ◉ 모집인원 : 0명 ◉ 지원자격 : - 학력 : 대졸 이상 - 경력 : 연구간호사 경력자 우대 경력 없어도 지원 가능합니다. ◉ 근무지 : 가천대 길병원... ",
+			"cafename":"신약 개발임상 연구원 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/cracrc"
+		},
+		{
+			"title":"임상병리사",
+			"link":"http:\/\/cafe.naver.com\/kihgroup\/18368",
+			"description":"임상병리학과나왔는데 산업위생기사 치려고합니다 읽다보니 관련학과아니라고 경력있는사람은 큐넷에 문의해야 한다던데 보건,<b>의료 직무<\/b>분야와 관련된 학과에 임상병리 포함되지않나여???",
+			"cafename":"산업위생관리기사＊산업기사",
+			"cafeurl":"https:\/\/cafe.naver.com\/kihgroup"
+		},
+		{
+			"title":"[오송첨단<b>의료<\/b>복합단지 면접] 2022년도 상반기 오송첨단<b>의료<\/b>복합단지 면접후기",
+			"link":"http:\/\/cafe.naver.com\/specup\/6956426",
+			"description":"오송첨단<b>의료<\/b>복합단지는 <b>직무<\/b>질문 및 상황판단 질문이 많기 때문에 본인의 경험사항 정리 및 디테일을 준비하고 상황판단 질문이 있기에 본인이 어떤 기준점을 토대로 상황을 어떻게 해결할지 생각해서 답변하는 연습을... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"연령별 평균연봉, 연봉 높은직업\/<b>직무<\/b> 총정리! 내 몸값 올리기 대작전",
+			"link":"http:\/\/cafe.naver.com\/allft1\/322180",
+			"description":"보건·<b>의료<\/b> 관리자 8,752 48 경영·진단 전문가 6,105 24 연구 관리자 8,317 49 금융상품개발원 6,057 25 대학 교수 8,117 50 마케팅·광고·홍보 관리자(부서장) 6,037 연봉 높은<b>직무<\/b> TOP 10 직업 외에도 평균연봉이 높은... ",
+			"cafename":"공인마스터-공인중개사,시험,청약,독학...",
+			"cafeurl":"https:\/\/cafe.naver.com\/allft1"
+		},
+		{
+			"title":"[의정부시일자리센터]2022년 경력단절여성 <b>직무<\/b>향상교육 「간호조무사 재취업 실무과정」 참여자 15명 모집...",
+			"link":"http:\/\/cafe.naver.com\/minraknewcity\/266396",
+			"description":"2022년 경력단절여성 <b>직무<\/b>향상교육 「간호조무사 재취업 실무과정」 참여자 모집 담당부서... 23.(화), (월~금, 09:30~13:30, 총 64시간) ▣ 교육내용: 기본간호실무실습 (주사\/도뇨\/심폐소생\/멸균 등) 및 <b>의료<\/b>기관별... ",
+			"cafename":"의정부 민락신도시카페 커뮤니티",
+			"cafeurl":"https:\/\/cafe.naver.com\/minraknewcity"
+		},
+		{
+			"title":"<b>의료<\/b>기기ra 2급 자격증 많이어렵나요?..",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/28260",
+			"description":"생명공학과 졸업 취준생입니다 얼마전에 <b>의료<\/b>기기ra<b>직무<\/b>를 알게됐는데 자격증이있더군요 공부해볼까하는데 시험이 7월 10월에있어서 ;; 당장 내년상반기를 준비해야하는데...(27살이라ㅠ) 어떻게해야할지 난감하네요... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"[입시] [식품의약품안전처 지정 특성화대학원] 2022학년도 후기 동국대학교 식품<b>의료<\/b>제품규제정책학과 수시...",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/33518",
+			"description":"동국대학교 일반대학원 식품·<b>의료<\/b>제품규제정책학과는 식품의약품안전처 지정 특성화대학원으로... 현장<b>직무<\/b> 관련 다양한 교육과정을 교차수강할 수 있는 등 많은 혜택이 제공되므로 업무와 병행하여... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"가천대길병원 <b>의료<\/b>기기 임상시험센터 연구간호사 모십니다.",
+			"link":"http:\/\/cafe.naver.com\/cracrc\/135244",
+			"description":"◉ 모집부문 및 업무내용 : 연구간호사 <b>직무<\/b> <b>의료<\/b>기기 임상시험 수행 ◉ 모집인원 : 0명 ◉ 지원자격 : - 학력 : 대졸 이상 - 경력 : 연구간호사 경력자 우대 경력 없어도 지원 가능합니다. ◉ 근무지 : 가천대 길병원... ",
+			"cafename":"신약 개발임상 연구원 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/cracrc"
+		},
+		{
+			"title":"[국립마산병원] 흉부내과(<b>의료<\/b>기술서기보9급)(~1\/28)",
+			"link":"http:\/\/cafe.naver.com\/rtusaim\/65386",
+			"description":"공무원 경력경쟁채용시험 국민제보 ❍ 기타 문의사항은 국립마산병원 서무과(055-249-5006)로 문의하시기 바랍니다. 붙임 1 <b>직무<\/b>기술서(<b>의료<\/b>기술직(방사선사)) 임용예정기관명 근무예정부서 임용예정직급 선발예정인원 국",
+			"cafename":"해방사",
+			"cafeurl":"https:\/\/cafe.naver.com\/rtusaim"
+		},
+		{
+			"title":"소방설비기사 관련학과에 간호학과 포함!",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/523786",
+			"description":"소방설비기사 관련학과에 보건, <b>의료 직무<\/b> 분야와 관련된 학과도 포함된다고 합니다. 간호학과도 소방설비기사 관련학과로 분류되어 시험 응시가 가능하니 모르셨던 분들은 참고하세요! 간호학과... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"<b>의료<\/b>계통 <b>직무<\/b>를 보시는분?",
+			"link":"http:\/\/cafe.naver.com\/djsnc\/14287",
+			"description":"<b>의료<\/b>계통에 일하시는 분 이런 환자 받아보신 적 있나요? 평소 잔 기침 ㅡ 약 육개월 ㅡ 있고 역류성 식도염이있다고도 들었습니다. 진료차례를 기다리고있는데 원인을 찾을 수 없을까 걱정되네요. 서울로... ",
+			"cafename":"대전에서 친목을 다지는 사람들의 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/djsnc"
+		},
+		{
+			"title":"[하이케어넷] <b>의료<\/b>기기 소프트웨어 RA QC <b>직무<\/b> 담당자 채용",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/25229",
+			"description":"대리급 우대사항 ㆍ<b>의료<\/b>기기 RA 전문가 1급, <b>의료<\/b>기기 RA 전문가 2급 ㆍ영어가능자, 해당<b>직무<\/b> 근무경험, 문서작성 우수자, 컴퓨터활용능력 우수 https:\/\/www.saramin.co.kr\/zf_user\/jobs\/view?rec_idx=39906319&amp;view_type=etc",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"[안양평촌] 휴비츠 <b>의료<\/b>기기 담당자분을 모십니다.",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/32911",
+			"description":"안과\/안광학 <b>의료<\/b>기기 업체인 휴비츠에서 인허가를 담당하실 분을 충원합니다. 회사에 대한 정보는 인터넷에서 쉽게 검색할 수 있습니다. 채용인원은 2명이상이며, <b>직무<\/b>는 구직... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"[칼럼] 근로복지공단 면접 전, 채용 <b>직무<\/b>부터 체크!",
+			"link":"http:\/\/cafe.naver.com\/dokkm\/1356370",
+			"description":"근로복지공단 채용은 보험사업 <b>직무<\/b>의 채용형 인턴으로 일반직 6급, 전산직 6급, 심사직 6급이 있고 <b>의료<\/b>사업 <b>직무<\/b>에는 일반직 6급을 모집한다고 하네요! 근로복지공단 면접을 준비하시기 위해선 본인이 지원한 <b>직무<\/b>에... ",
+			"cafename":"독금사-금융자격증,AFPK,CFP,전산회계...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokkm"
+		},
+		{
+			"title":"ES 82도 30mm 아이피스 팝니다",
+			"link":"http:\/\/cafe.naver.com\/skyguide\/238579",
+			"description":"24만 택포 *만 5세이하 자녀 육아, 3자녀, 독립유공자 직계 후손, 경찰, 소방, 군인, 응급의료, 코로나 관련 <b>의료 직무<\/b> 직접 종사자, 대학생 이하 실수요자 23만 택포 *장난 없기, 기타 네고 없기 입니다.. 연락주세요^^",
+			"cafename":"별하늘지기",
+			"cafeurl":"https:\/\/cafe.naver.com\/skyguide"
+		},
+		{
+			"title":"주)OOO_수원_<b>의료<\/b>기기생산[마감]",
+			"link":"http:\/\/cafe.naver.com\/kdeaf\/11259",
+			"description":"<b>직무<\/b>: <b>의료<\/b>기기 포장, 라벨, 물류 2. 모집인원: 00명 3. 지원자격: 학력·경력 무관, 20대 우대, 경증 청각장애 우대 4. 근무시간: 주간근무(8:00~17:30) 5. 급여: 월157만원(※잔업, 특근 수당 미포함) 6.... ",
+			"cafename":"(사)한국농아인협회 중앙회 직업재활센...",
+			"cafeurl":"https:\/\/cafe.naver.com\/kdeaf"
+		},
+		{
+			"title":"[삼광<b>의료<\/b>재단] 2022년 상반기 <b>직무<\/b>별 정규직 인력 채용 (~1\/23)",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/560252",
+			"description":"기업명: 삼광<b>의료<\/b>재단 구인<b>직무<\/b>\/직위: 특수건강진단, 사업장안전관리자, 시설관리 자격요건: 공고 내 모집부문 참고 입사지원서 제출기간: 22.1.12(수) ~ 1.23(일) 24:00까지 채용사이트 바로가기... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"가천대길병원 <b>의료<\/b>기기 임상시험센터 연구간호사 모십니다.",
+			"link":"http:\/\/cafe.naver.com\/cracrc\/133720",
+			"description":"◉ 모집부문 및 업무내용 : 연구간호사 <b>직무<\/b> <b>의료<\/b>기기 임상시험 수행 ◉ 모집인원 : 0명 ◉ 지원자격 : - 학력 : 대졸 이상 - 경력 : 연구간호사 경력자 우대 경력 없어도 지원 가능합니다. ◉ 근무지 : 가천대 길병원... ",
+			"cafename":"신약 개발임상 연구원 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/cracrc"
+		},
+		{
+			"title":"보안인력 <b>직무<\/b>교육",
+			"link":"http:\/\/cafe.naver.com\/hospconsult\/51111",
+			"description":"<b>의료<\/b>기관에서 경비원을 직접 고용하신경우 월 <b>직무<\/b>교육을 어떻게 진행하고 계신가요? 보안인력 배치 기준 Q&amp;A에 헷갈리게 써있어서요.. &quot; 보안인력의 자격 기준을 충족한 경우에는 <b>직무<\/b>교육을 받지 않았다고 하여... ",
+			"cafename":"의료기관(병원) 인증 준비를 위한 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/hospconsult"
+		},
+		{
+			"title":"OOOO <b>의료<\/b>기기 검수 및 포장 근로자 모집 (구로동)",
+			"link":"http:\/\/cafe.naver.com\/kdeaf\/11775",
+			"description":"구인정보 • <b>직무<\/b>: <b>의료<\/b>기기 부품검수 및 포장 업무 - 클린룸에서 방진복을 입고 앉아서 하는 근무로 양손사용 및 기민이 좋아야 합니다. • 모집인원: 2명 (-39세 까지, 선착순 마감) • 계약형태: 정규직... ",
+			"cafename":"(사)한국농아인협회 중앙회 직업재활센...",
+			"cafeurl":"https:\/\/cafe.naver.com\/kdeaf"
+		},
+		{
+			"title":"[한국보훈복지<b>의료<\/b>공단 사무직 신입 채용] 오픈채팅 채용설명회 Q&amp;A 정리 어학점수가 빠진 이유?",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1873493",
+			"description":"한국보훈복지<b>의료<\/b>공단은 작년부터 어학점수가 폐지되었습니다. <b>직무<\/b>와 연관성이 크지 않다고 판단하여 어학성적을 지원자격에서 제외하게 되었다고 하네요 자세한 사항은 아래의 Q&amp;A 정리를 통해... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"ES 2인치 2배 바로우 팝니다",
+			"link":"http:\/\/cafe.naver.com\/skyguide\/237427",
+			"description":"직계 후손 10만 택포 경찰, 소방, 군인, 응급의료, 코로나 관련 <b>의료 직무<\/b> 직접 종사자 10만 택포 대학생 실수요자 11만 택포 고교생 이하 실수요자 10만 택포 (부모님 대신 구입 무효) 말씀 잘하시는 분 택포 연락주세요^^",
+			"cafename":"별하늘지기",
+			"cafeurl":"https:\/\/cafe.naver.com\/skyguide"
+		},
+		{
+			"title":"<b>의료<\/b>기기 시험원 영어실력",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/16727",
+			"description":"<b>의료<\/b>기기 시험원 <b>직무<\/b>에 지원하게된 취준생입니다. 궁금한게 RA<b>직무<\/b>는 해외인증이나 이런 부분에서 커뮤니케이션하는데 영어가 필요하다고 들었는데요 시험원은 규격대로 기기가 잘 만들어졌는지 시험하는 <b>직무<\/b>인데... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"[정보 공유] <b>의료<\/b>기기 RA 2급 시험 VS 의약품 RA 인증시험",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/22707",
+			"description":"4년제 대학을 졸업한 자로서 <b>의료<\/b>기기 RA <b>직무<\/b>분야에서1년 이상 실무에 종사한 자 4. 전문대학 관련학과를 졸업한 자로서 <b>의료<\/b>기기 RA <b>직무<\/b>분야에서 2년 이상 실무에 종사한 자 5. 전문대학을 졸업한 자로서... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"30세\/서울\/<b>의료<\/b>기기회사 엔지니어 3년차\/영어상\/외국계로 이직시 <b>직무<\/b> 추천좀...",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10523829",
+			"description":"-<b>의료<\/b>기기 부설연구소에서 3년 근무 (<b>직무<\/b>: 현장설비 설계제작, 생산지그 제작, 신제품개발, 해외 업체 관리, 실험 프로토콜 확립, 회사 제품 BOM 작업, 계약서 번역 등)... 너무 많은업무들을 해서 힘들고 야근도... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"한국보건<b>의료<\/b>정보원 채용 우대사항은? 한국보건<b>의료<\/b>정보원 채용 접수중이에요~",
+			"link":"http:\/\/cafe.naver.com\/dokkm\/2191202",
+			"description":"이번 한국보건<b>의료<\/b>정보원 채용 모집은 2021 제1차 정규직 직원 모집 공고이며 다양한 한국보건<b>의료<\/b>정보원 채용 분야 중 표준화 분야의 한국보건<b>의료<\/b>정보원 채용 세부 <b>직무<\/b>는 위와 같이 예정되어 있다고 합니다.... ",
+			"cafename":"독금사-금융자격증,AFPK,CFP,전산회계...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokkm"
+		},
+		{
+			"title":"(코스닥상장예정)<b>의료<\/b>기기 QA\/RA 부서장 스카웃",
+			"link":"http:\/\/cafe.naver.com\/gsk\/210654",
+			"description":"부서장직급으로 임원 및 대표이사면접 1회 2.품질 책임, 제품 인허가 관련 <b>직무<\/b>로(<b>의료<\/b>기기, 전자기기 등 업종경력) 3. 무조건 현재 연봉보다 상향(내규가 높으면 내규에 따름) 4. 출근은 7-10시 정할 수 있음... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"<b>의료<\/b>기기 업체 면접보러가는 신입 취준생 질문이요!",
+			"link":"http:\/\/cafe.naver.com\/tqcquality\/184400",
+			"description":"원했던 <b>직무<\/b>와 일치하는 것 같아 지원하였고 면접 통보 받았습니다. 궁금한 점은 의공학과가 아닌데 과연 이 업무를 잘해낼 수 있을지, 또한 여기서 배워나간다면 <b>의료<\/b>기기 품질 분야로 제 전공으로도 커리어를 쌓아나갈 수... ",
+			"cafename":"품질과 QCD(Quality, Cost, Delivery)",
+			"cafeurl":"https:\/\/cafe.naver.com\/tqcquality"
+		},
+		{
+			"title":"&quot;90 : 1 최대 경쟁률 <b>직무<\/b>는?!&quot; 한국보훈복지<b>의료<\/b>공단 2021년 사무직 신입 채용 경쟁률 공개",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1751385",
+			"description":"&quot;90 : 1 최대 경쟁률 <b>직무<\/b>는?!&quot; 한국보훈복지<b>의료<\/b>공단 2021년 사무직 신입 채용 경쟁률 공개 2021년 한국보훈복지<b>의료<\/b>공단 신입 사무직 채용 경쟁률이 공개되었습니다. 이번 사무직 신입 채용에는 총 2... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"2021 보건<b>의료<\/b>정보관리사 교재 팝니다.",
+			"link":"http:\/\/cafe.naver.com\/rhia\/114521",
+			"description":"국제<b>의료<\/b>행위분류-판매완료- 구입시기: 기억안남 상태: 들고다녀서 사용감은 있으나 내부는 깨끗함 8. <b>직무<\/b>중심 의무기록실무-판매완료- 구입시기: 기억안남 상태: 연필 필기 드물게 있음 가격: 24,000원 9.... ",
+			"cafename":"@보건&의료정보 A~Z@",
+			"cafeurl":"https:\/\/cafe.naver.com\/rhia"
+		},
+		{
+			"title":"건보 이력서에 교육사항에 질문이 있습니다ㅜㅜ",
+			"link":"http:\/\/cafe.naver.com\/publiccor\/81357",
+			"description":"꼭 필요한 병원감염관리 의료인을 위한 직무수행 필수교육 병원근무자를 위한 cs 교육과정 이숙영의 전사원이 알아야 할 커뮤니케이션 전략 고민해결 의료기관 인증제 완전정복 의료인이 알아야 할 <b>의료직무<\/b>과정... ",
+			"cafename":"국준모｜국민건강보험공단,건강보험심...",
+			"cafeurl":"https:\/\/cafe.naver.com\/publiccor"
+		},
+		{
+			"title":"소방설비기사 관련학과 생각보다 많아요!",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/484203",
+			"description":"소방설비기사 관련학과에는 경영, 회계, 사무 중 생산관리 직무분야와 관련된 학과, 보건 <b>의료 직무<\/b> 분야와 관련된 학과, 건설, 기계, 화학 직무분야와 관련된 학과 등 다양한 학과들이 있어요!... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"<b>의료<\/b>분야 속기 (의무기록 전사) 취업 및 전망이 궁금합니다",
+			"link":"http:\/\/cafe.naver.com\/qodbsdud82\/248803",
+			"description":"<b>의료<\/b> 속기\/전사 분야 일자리가 많이 있나요? 현실적인 일자리가 중요한데 아무리 찾아봐도 안보이네요ㅠㅠ 이 분야에 해당하는 회사나 <b>직무<\/b>도 알려주신다면 많은 도움되겠습니다.",
+			"cafename":"속기홀릭★속기사카페 랭킹1위 (속기공...",
+			"cafeurl":"https:\/\/cafe.naver.com\/qodbsdud82"
+		},
+		{
+			"title":"안녕하세요! 을지대학교 <b>의료<\/b>경영학과 3학년 재학생들입니다 연구논문과 관련한 설문조사 부탁드립니다",
+			"link":"http:\/\/cafe.naver.com\/rhia\/116581",
+			"description":"연구논문 팀프로젝트 활동과 관련하여 '<b>의료<\/b>기관 행정직 근로자 중 MZ세대(1980년대 초반~2000년대 초반 출생)를 대상으로 <b>직무<\/b>만족과 조직몰입이 이직의도에 미치는 영향' 을 주제로 설문조사를 진행중입니다! 아래는... ",
+			"cafename":"@보건&의료정보 A~Z@",
+			"cafeurl":"https:\/\/cafe.naver.com\/rhia"
+		},
+		{
+			"title":"연구직에서 RA로 <b>직무<\/b> 옮기신 분 있으실까요?",
+			"link":"http:\/\/cafe.naver.com\/raspecialist\/30540",
+			"description":"현재 체외진단<b>의료<\/b>기기 연구직 종사자 입니다. 연구직이지만 주로 CE, 기술문서, 허가문서 작성 업무 위주로 하고 있습니다. 혹시 연구직에서 RA<b>직무<\/b>로 옮길 때, 경력을 인정받을 수 있는지가 궁금합니다. 문서 작성방법에... ",
+			"cafename":"RA Specialist",
+			"cafeurl":"https:\/\/cafe.naver.com\/raspecialist"
+		},
+		{
+			"title":"[한국보훈복지<b>의료<\/b>공단] 2022년 한국보훈복지<b>의료<\/b>공단 보훈병원 간호직 공개채용공고 (8\/10 ~ 8\/19 17:00)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11191614",
+			"description":"scout.co.kr 첨부파일 붙임1. 2022년 한국보훈복지<b>의료<\/b>공단 간호직 공개채용 공고문.jpg 파일 다운로드 첨부파일 붙임2. 2022년 한국보훈복지<b>의료<\/b>공단 간호직 <b>직무<\/b>기술서.pdf 파일 다운로드",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"응시가능 진단에 대해서",
+			"link":"http:\/\/cafe.naver.com\/anjun\/114701",
+			"description":"안전관리 유사직무분야는 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계 직무분야 - 17 재료 직무분야 - 18 화학... ",
+			"cafename":"산준모★산업안전기사｜위험물산업기사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anjun"
+		},
+		{
+			"title":"일본계 회사 면접 후기",
+			"link":"http:\/\/cafe.naver.com\/peoplenjob\/13082",
+			"description":"회사에 대한 정보와 의료분야에 관심을 갖게 된 계기 저는 어머니가 병원쪽에 근무하고 이모가 간호사여서 <b>의료 직무<\/b>는 관심있었고, 무역전시회 활동 참여하면서 주로 의료관련 상품이 매력도가 높고 성장가능성이... ",
+			"cafename":"피플앤잡 - 외국계기업채용,외국기업취...",
+			"cafeurl":"https:\/\/cafe.naver.com\/peoplenjob"
+		},
+		{
+			"title":"★총21명 [한국보건<b>의료<\/b>연구원 채용] 정규직\/무기계약직\/계약직\/체험형인턴 신입\/경력 (연구\/행정) (~5.23)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2150084",
+			"description":"[한국보건<b>의료<\/b>연구원 채용] 정규직\/무기계약직\/계약직\/체험형인턴 신입\/경력 (연구\/행정) (~5.23)... 온라인 접수 https:\/\/bit.ly\/3LWbYql 첨부파일 2022년_제3차_직원채용(제한경쟁_포함)_<b>직무<\/b>기술서(공고용).pdf 파일... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"(긴급) <b>의료<\/b>기기 품질인허가 부서장(부장님)",
+			"link":"http:\/\/cafe.naver.com\/gsk\/210843",
+			"description":"부서장직급으로 임원 및 대표이사면접 1회 2.품질 책임, 제품 인허가 관련 <b>직무<\/b>로(<b>의료<\/b>기기, 전자기기 등 업종경력) 3. 무조건 현재 연봉보다 상향(내규가 높으면 내규에 따름) 4. 출근은 7-10시 정할 수 있음... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"[바이오다인] <b>의료<\/b>장비 A\/S, 금형설계 신입 또는 경력직 채용(~5\/9) (연봉 3400~5800만)",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/484672",
+			"description":"기업명: (주)바이오다인 구인<b>직무<\/b>\/직위: 1) <b>의료<\/b>장비 A\/S 신입~대리 , 2) 금형설계 대리~과장 자격요건: 공고 첨부하겠습니다. 회사소개: 암진단 <b>의료<\/b>장비 및 진단시약 키트를 제조 판매하는... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"씨젠<b>의료<\/b>재단 서부지점 인력구합니다.",
+			"link":"http:\/\/cafe.naver.com\/hco2\/37894",
+			"description":"지역: 서울 서대문,용산,마포,은평 <b>직무<\/b>: 검체수거 및 영업 인턴 및 정규직 기회 있으니 관심있으신분 연락주세요 연락처: 박상준 *** **** ****",
+			"cafename":"임상병리사 자료실",
+			"cafeurl":"https:\/\/cafe.naver.com\/hco2"
+		},
+		{
+			"title":"<b>의료<\/b>법인 삼광<b>의료<\/b>재단 재무<b>직무<\/b> 경력직 채용공고",
+			"link":"http:\/\/cafe.naver.com\/ceocheon\/100637",
+			"description":"[ <b>의료<\/b>법인 삼광<b>의료<\/b>재단 재무 <b>직무<\/b> 경력사원 채용공고 ] ○ 모집부문 및 자격요건 <b>직무<\/b> 구분 자격요건 <b>직무<\/b>내용 근무지 채용 형태 재무 경력 3~6년 이상 -학사 이상 -회계학과, 세무학과 졸업자 우대 -세무... ",
+			"cafename":"경리회계실무카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/ceocheon"
+		},
+		{
+			"title":"보건<b>의료<\/b>정보관리사(의무기록사) 보수교육 유예 신청 해보신분 도와주세요",
+			"link":"http:\/\/cafe.naver.com\/bobathconsulting\/75755",
+			"description":"보수교육을 이수 해야하는 상황인데 지금까지 한번도 보수교육을 받은적이 없어요 협회에 문의하니 전 근무지 경력증명서와 <b>직무<\/b>기술서 보내달라는데 저와 비슷한 상황으로 처리 하셨던분 있을까요? 도움 부탁드려요",
+			"cafename":"전국요양병원실무자모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/bobathconsulting"
+		},
+		{
+			"title":"소방공무원 종류별 하는 일",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/609259",
+			"description":"소방공무원 종류별 하는 일 같은 소방공무원이라고 해도, 각자가 담당하는 <b>직무<\/b>에는 큰 차이가 있습니다.... 응급<b>의료<\/b> 업무 또는 간호업무 경험을 해야만 소방공무원 경채 구조직 시험에 지원할 수 있습니다. 소방헬기직도... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"한국보훈복지<b>의료<\/b>공단 필기 후기",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2469901",
+			"description":"- 응시한 기업명 : 한국보훈복지<b>의료<\/b>공단 - 지원 <b>직무<\/b>\/직군명 : 사무직 - 응시 지원 자격(신입\/경력) : 신입 - 시험시간 및 장소 : 09:30 , 잠실중학교 - 결시율 : 제 교실 기준으로는 16명중 7명 참석했어요. - 내가... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		}
+	]
+}

@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:00 +0900",
+	"total":953,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"경리<b>회계<\/b>자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3381658&cid=42279&categoryId=42279",
+			"description":"특히 경리<b>회계<\/b> 자기소개서를 작성할 때에는 경리<b>회계 직무<\/b>와 관련한 경력 및 이력, 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510115517761_FLYJQO01W.jpg\/hb10_20624_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"공인<b>회계<\/b>사법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1202032&cid=40942&categoryId=31709",
+			"description":"<b>회계<\/b>사의 <b>직무<\/b>범위, 공인<b>회계<\/b>사 시험, 공인<b>회계<\/b>사의 등록과 개업·권리와 의무 등에 관해 상세한 규정을 두고 있다. 주요내용은 다음과 같다. 공인<b>회계<\/b>사란 공인<b>회계<\/b>사시험에 합격한 자로서, 타인의 위촉을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>검사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=78561&cid=42155&categoryId=42155",
+			"description":"<b>회계<\/b>검사는 한편 '<b>회계<\/b>감사'(會計監査)라고 부르기도 하나, 우리 나라의 감사원법은 <b>회계<\/b>검사와 <b>직무<\/b>감찰(職務監察)을 합쳐 감사(監査)라고 부르고 있다. <b>회계<\/b>검사의 개념은 예산제도의 변천에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공인<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063611&cid=40942&categoryId=31850",
+			"description":"1년 이상의 실무실습을 종료한 후 기획재정부장관에게 등록하여야 하는데, 1차 시험면제자는 바로 등록할 수 있다(5조). 공인<b>회계<\/b>사는 제1조의 <b>직무<\/b>를 조직적으로 수행하기 위해 <b>회계<\/b>법인을 설립할 수 있으며",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>법인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1201107&cid=40942&categoryId=31821",
+			"description":"공인<b>회계<\/b>사 10인 이상을 직원으로 하여 <b>회계<\/b>에 대한 감사·감정·증명·계산·정리·입안 또는 법인설립 등에 관한 <b>회계<\/b> 및 세무 등의 <b>직무<\/b>를 조직적이고 전문적으로 행하기 위한 목적으로 설립되었다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전산<b>회계<\/b>운용사 2급",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977038&cid=42114&categoryId=42114",
+			"description":"③ 전산<b>회계<\/b>운용사는 컴퓨터 프로그램을 이용하여 재무<b>회계<\/b>처리, 세금계산 등의 <b>회계<\/b>업무와 ERP<b>회계<\/b> 정보시스템을 이용하여 각종 <b>회계<\/b>정보를 운용하는 <b>직무<\/b>를 수행한다. (2) 자격 특징 ① 전산<b>회계<\/b>운용사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191007423_RHLL7TQU2.jpg\/da6_230_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"공인<b>회계<\/b>사에 대한 조치",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1987845&cid=42088&categoryId=42088",
+			"description":"공인<b>회계<\/b>사회가 실시하는 <b>직무<\/b>연수, ⑤ 경고 또는 주의, ⑥ 시정요구, 각서 제출요구, 관계기관 통보, 개선권고 등 기타 필요한 조치 등을 규정하고 있다. 이와 같은 조치수준에 대한 증권선물위원회의 원활한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국공인<b>회계<\/b>사회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EA%B3%B5%EC%9D%B8%ED%9A%8C%EA%B3%84%EC%82%AC%ED%9A%8C",
+			"description":"한국공인<b>회계<\/b>사회 (韓國公認會計士會, Korea Institute of Certified Public Accountants , KICPA )는 공인<b>회계<\/b>사의 품위향상과 <b>직무<\/b>의 개선·발전을 도모하고, 회원의 지도 및 감독에 관한 사무를 행하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공인<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=46324&cid=42095&categoryId=42095",
+			"description":"공인<b>회계<\/b>사는 타인의 위촉에 의하여 <b>회계<\/b>에 관한 감사 · 감정 · 증명 · 계산 · 정리 · 입안 또는 법인설립 등에 관한 <b>회계<\/b> 및 세무대리 등에 부대되는 업무를 그 <b>직무<\/b>로 한다. 공인<b>회계<\/b>사는 타인이 위촉 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전산<b>회계<\/b>운용사 3급",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977039&cid=42114&categoryId=42114",
+			"description":"③ 전산<b>회계<\/b>운용사는 컴퓨터 프로그램을 이용하여 재무<b>회계<\/b>처리, 세금계산 등의 <b>회계<\/b>업무와 ERP<b>회계<\/b> 정보시스템을 이용하여 각종 <b>회계<\/b>정보를 운용하는 <b>직무<\/b>를 수행한다. (2) 자격 특징 ①... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191007152_5DF55BQDV.jpg\/da6_231_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"전산<b>회계<\/b>운용사 1급",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977037&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① 전산<b>회계<\/b>운용사 1급이란 대한상공회의소에서 시행하는 전산<b>회계<\/b>운용사 1급 국가기술자격 시험을 말한다. ② 전산<b>회계<\/b>운용사 1급 시험은 4년제 대학 졸업수준의 <b>회계<\/b>에 관한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326192124141_P90XPR2SS.jpg\/da6_229_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024535&cid=42117&categoryId=42117",
+			"description":" <b>회계<\/b>에 관한 용역업무를 계획 및 관리하고, 의뢰인의 위임에 따라 재무<b>회계<\/b>서류의 작성, 기업의 소득세보고서 작성, 재무<b>회계<\/b>감사 또는 증명을 하며, 재무서류의 조정, 재무조사 및 기타 <b>회계<\/b>사무에 관한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>감찰",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=72442&cid=43667&categoryId=43667",
+			"description":"<b>직무<\/b>감찰은 국가의 세입 세출의 결산 검사, <b>회계<\/b>검사와 함께 감사원의 대표적인 권한이다. 감사원법에 규정되어 있는 <b>직무<\/b>감찰은 행정기관 등의 사무와 공무원 등의 <b>직무<\/b> 및 이와 관련된 행위에 대하여 조사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024860&cid=42117&categoryId=42117",
+			"description":" 기업 또는 <b>회계<\/b>사무소에서 사업체의 재무 거래에 대해서 분기, 전기, 결산 등의 업무를 수행한다. [수행<b>직무<\/b>] 발생한 거래 즉 자산, 부채, 자본의 증감 및 손익의 발생에 따라 차변계정과목과 대변계정과목을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공인<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2074657&cid=50305&categoryId=50305",
+			"description":"공인<b>회계<\/b>사법에 의하여 공인된 국가시험에 합격하고 타인의 위탁에 의하여 <b>회계<\/b>에 관한 감사·감정·증명·계산·입안 또는 법인 설립에 관한 <b>회계<\/b>와 세무대리 업무를 그 <b>직무<\/b>로 하는 사람. 최근에는 업무의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 공인<b>회계<\/b>사 시험",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B3%B5%EC%9D%B8%ED%9A%8C%EA%B3%84%EC%82%AC_%EC%8B%9C%ED%97%98",
+			"description":"그 <b>직무<\/b>가 된다. 공인<b>회계<\/b>사 시험은 기획재정부 장관이 매년 1회 이상 실시하는데(공인<b>회계<\/b>사법시행령 6조), 1 · 2차 시험으로 구분되며, 공인<b>회계<\/b>사법에 의해 일정한 경력이 있는 자는 1차 시험이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>이력서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3384476&cid=42279&categoryId=42279",
+			"description":"여기서 <b>회계<\/b>란 개인이나 기업 따위의 경제 활동 상황을 일정한 계산 방법으로 기록하고 정보화하는 것을 의미한다. 따라서 이러한 <b>직무<\/b>와 관련된 개인의 이력을 파악하기 쉽도록 정확하고 간결하게 작성하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510123059922_KLWELG84L.jpg\/hb10_23445_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>기술서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831239&cid=42279&categoryId=42279",
+			"description":" <b>직무<\/b>기술서란 해당 <b>직무<\/b>의 특징과 <b>직무<\/b>에 필요한 요건을 기록한 서식이다. [<b>직무<\/b>기술서의 개요] 1) <b>직무<\/b>기술서의 정의 <b>직무<\/b>기술서란 어떠한 <b>직무<\/b>에 대해 <b>직무<\/b>분석을 통하여 해당<b>직무<\/b>의 성격이나 <b>직무<\/b>개요... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20220602171810328_LYVQ9S7KU.jpg\/hb10_3786_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>감사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%9A%8C%EA%B3%84%EA%B0%90%EC%82%AC",
+			"description":"한국의 공인<b>회계<\/b>사법 상 외부감사는 공인<b>회계<\/b>사나 <b>회계<\/b>법인만 가능한 것으로 되어 있어 공인<b>회계<\/b>사이외의 자격자가 하는 외부감사는 모두 불법이다. 감사기준 감사기준은 직업적 감사인이 그 <b>직무<\/b>를 성실하게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>감사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2098118&cid=44412&categoryId=44412",
+			"description":"<b>회계<\/b>감사의 정의] [ 1) 개 요] <b>회계<\/b>감사(會計監査, auditing)의 정의는 많은 학자나 연구 단체에 의하여 계속적으로 시도되고 있는데, 가장 널리 알려진 것은 1973년에 미국<b>회계<\/b>학회(AAA... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140612165956949_050KXXGUQ.jpg\/z5_term96_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>감사관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024376&cid=42117&categoryId=42117",
+			"description":" 의뢰인의 요청에 따라 <b>회계<\/b>감사, 세무조정계산서 작성, 국세심판 청구대리, 경영진단 및 경영제도의 개선과 원가계산 등을 수행하고 <b>회계<\/b>감사를 총괄 관리한다. [수행<b>직무<\/b>] 회사 혹은 기타 조직의 <b>회계<\/b>감사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>감사관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024381&cid=42117&categoryId=42117",
+			"description":" 의뢰인의 요청에 따라 <b>회계<\/b>감사, 세무조정계산서 작성, 국세심판 청구대리, 경영진단 및 경영제도의 개선과 원가계산 등 수행한다. [수행<b>직무<\/b>] &quot;회사 혹은 기타 조직의 <b>회계<\/b>감사, 법정감사, 주식회사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관리<b>회계<\/b>규칙",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926576&cid=42279&categoryId=42279",
+			"description":" 관리 <b>회계<\/b> 업무를 수행할 때 반드시 준수해야 할 사항들을 기록한 서식.  관리자는 특정 기관이나 특정 단체에서 물품, 자재 등을 관리하거나 금전의 출납 등을 맡아 처리하는 <b>직무<\/b>를 맡은 사람을 가리킨다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_7\/20160601152416463_L0VKR7O7P.jpg\/hb10_6934_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경리<b>회계<\/b>규칙",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925572&cid=42279&categoryId=42279",
+			"description":" 경리 및 <b>회계<\/b> 업무를 수행하는 데 준수해야 할 기준들을 기록한 서식.  경리는 특정 기관이나 특정 단체에서 물품, 자재 등을 관리하거나 금전의 출납 등을 맡아 처리하는 <b>직무<\/b>를 맡은 사람을 가리킨다. 또한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128230537433_9TI06ZXME.jpg\/hb10_5916_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"공인<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1601066&cid=50305&categoryId=50305",
+			"description":"A 공인<b>회계<\/b>사매일경제 공인<b>회계<\/b>사법에 의해 국가로부터 공인된 자격을 취득하고 타인의 위탁에 따라 <b>회계<\/b>에 관한 감사·감정·증명·계산·입안 또는 법인설립에 관한 <b>회계<\/b>와 세무대리 업무를 그 <b>직무<\/b>로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>경력기술서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2778236&cid=51373&categoryId=51373",
+			"description":" <b>회계<\/b> 경력에 관한 내용을 중심으로 작성하는 문서.  <b>회계<\/b> 경력기술서란, 자신의 <b>회계<\/b> 경력을 중심으로 내용을 작성하는 문서로써, 자신이 앞으로 어떤 일을 할 수 있는지 보여주는 경력 중심의 자기소개서라고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508185918675_91OVM483P.jpg\/ba17_34202_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>검사기관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=660095&cid=42152&categoryId=42152",
+			"description":"행정부가 집행한 세입·세출의 결산에 대하여 그 <b>회계<\/b>를 검사하는 기관. <b>회계<\/b>검사기관은 여러 가지 기준에 따라 그 유형을 분류해 볼 수 있다. 여기서는 <b>회계<\/b>검사기관이 어느 국가 기관에 소속되어 있는가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b> 영문이력서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1832303&cid=42279&categoryId=42279",
+			"description":"경력 기재 시에는 최근의 경력부터 역순으로 쓰되, 근무기간과 회사명 및 소재 도시, 직위, <b>직무<\/b> 내용 등을 상세히 기재하도록 한다. 또 <b>회계<\/b> 업무와 관련이 있는 자격증의 경우 좋은 평가를 받을 수 있으므로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128214258948_EIXRZG9Q6.jpg\/hb10_4860_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>회계<\/b> 자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355437&cid=51373&categoryId=51373",
+			"description":" 회사나 조직의 <b>회계<\/b> 분야에 취업하기 위해 지원자가 자신을 소개하는 문서.  회사나 조직의 <b>회계<\/b>, 관리 부서에서 일하기를 희망하는 지원자가 취업을 위해 제출하는 문서로, 자신의 성장 과정, 성격, 학창시절... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209152215690_NSX6LGBH7.jpg\/ba17_267_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경영<b>회계<\/b>정보과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917498&cid=44346&categoryId=44346",
+			"description":"목적으로 <b>회계<\/b> ㆍ 금융관리, 기획 ㆍ 총무 ㆍ 인사관리, 마케팅 ㆍ 구매관리, 경영정보관리, 생산관리 등 다양한 부문의 <b>직무<\/b>능력을 습득하는 학과입니다. 기업경제의 중요성이 확대됨에 따라 기업의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세무<b>회계<\/b>자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3382826&cid=42279&categoryId=42279",
+			"description":"특히 세무<b>회계<\/b> 자기소개서를 작성할 때에는 해당 <b>직무<\/b>와 관련한 경력 및 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510121011671_OYB2LJEVB.jpg\/hb10_21793_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"재무<b>회계<\/b>자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383664&cid=42279&categoryId=42279",
+			"description":"특히 재무<b>회계<\/b> 자기소개서를 작성할 때에는 해당 <b>직무<\/b>와 관련한 경력 및 이력, 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122031853_VWE3CN5GU.jpg\/hb10_22631_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"ERP <b>회계<\/b>정보관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5550853&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) ERP <b>회계<\/b>정보관리사 ① ERP <b>회계<\/b>정보관리사란 한국생산성본부에서 시행하는 ERP <b>회계<\/b>정보관리사 시험에 합격하여 그 자격을 취득한 사람을 말한다. ② ERP(Enterprise Resource Planning)는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180412180254794_I21FWIBEH.jpg\/da6_862_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"광고물제작<b>회계<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658881&cid=42117&categoryId=42117",
+			"description":" 광고물의 실제 제작에 소요되는 비용을 산출하여 자금집행서를 작성한다. [수행<b>직무<\/b>] 광고제작에 소요되는 원가를 산정한다. 최종 원가내역을 상업용 영상물 제작감독과 협의하여 산출하고 그 내역을 집행할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제실제도정리국",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=548113&cid=46623&categoryId=46623",
+			"description":"1906년 1월 30일 폐지될 때까지 약 1년간 궁내부 관제의 전면개정, 경리원(經理院)의 독립 저지, 황실재정 정리를 위하여 「제실재정회의장정」·「제실<b>회계<\/b>심사국<b>직무<\/b>장정」·「제실<b>회계<\/b>규칙」 등 7개... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비서행정과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917635&cid=44346&categoryId=44346",
+			"description":"[학과개요] 산업사회가 고도화 되면서 복잡하고 어려운 기업 경영에서 경영자의 일을 효율적으로 관리ㆍ보좌하는 비서의 역할은 매우 중요합니다. 비서행정과는 국제화, 전문화되어가는 현대사회에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1056518&cid=40942&categoryId=31667",
+			"description":" 행정기관과 공무원의 <b>직무<\/b>에 대한 감찰을 목적으로 설립된 대통령 직속의 국가 최고 감사기관.  법률 제1286호로 제정된 감사원법에 의해 정부의 <b>회계<\/b>를 검사하는 심계원(審計院)과 공무원의 <b>직무<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=65720&cid=43667&categoryId=43667",
+			"description":"감사원은 대통령 직속의 국가최고 감사기관으로, 대통령 소속하에 있는 행정각부에 대한 <b>회계<\/b>검사와 <b>직무<\/b>감찰을 주된 임무로 한다. 대한민국 정부가 수립된 1948년에 국가의 수입·지출에 대한 결산검사를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"캐셔의 드롭",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=463725&cid=50304&categoryId=50304",
+			"description":"영업<b>회계<\/b>원(식음료, 기타 부대시설 <b>회계<\/b>원)이 <b>직무<\/b> 마감시 프론트 데스크(Front Desk)에 위치한 예치금(預置金) 장소이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"여항문화 경아전 선발과 충원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1773234&cid=49394&categoryId=49394",
+			"description":"[조선 전기의 선발과 충원] 경아전의 선발과 충원 과정은 조선 왕조 전체를 통해서 많은 변화가 있었다. 1392년(태조 원년)에는 서리를 선발하는 제도로 이과 취재 또는 이임 취재가 있었다. 그후에는 상급... ",
+			"thumbnail":""
+		},
+		{
+			"title":"뉴질랜드의 통상환경정보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1522567&cid=44010&categoryId=44011",
+			"description":"[ 1. 수입 정책상의 장벽] 1) 관세 장벽 뉴질랜드는 세계에서 가장 개방적이고 투명한 통상정책을 운영하고 있다. 그동안 관세인하를 꾸준히 확대한 결과, 총수입액 중 약 95% 이상이 무관세 혜택을 받고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감사원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1056519&cid=40942&categoryId=31713",
+			"description":"감사원은 사무처와 감사 교육원을 두며, 징계위원회를 둔다. 감사원은 <b>회계<\/b>의 검사와 <b>직무<\/b>의 감찰을 수행한다. 감사원은 국가, 지방자치단체, 한국은행, 국가 또는 지방자치단체가 자본금의",
+			"thumbnail":""
+		},
+		{
+			"title":"가사소송(소멸시효 일람표)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775954&cid=51373&categoryId=51373",
+			"description":"채권 ⑤ 변호사, 변리사, 공증인, 공인<b>회계<\/b>사 및 법무사의 <b>직무<\/b>에 관한 채권 ⑥ 생산자 및 상인이 판매한 생산물 및 상품의 대가 ⑦ 수공업자 및 제조자의 업무에 관한 채권 소멸시효 기간 : 3년 근거",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508174031448_4N5LB8FXI.jpg\/ba17_rd475_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"대한민국 민법 제163조",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%AF%BC%EB%B2%95_%EC%A0%9C163%EC%A1%B0",
+			"description":"변호사, 변리사, 공증인, 공인<b>회계<\/b>사 및 법무사의 <b>직무<\/b>에 관한 채권 6. 생산자 및 상인이 판매한 생산물 및 상품의 대가 7. 수공업자 및 제조자의 업무에 관한 채권 사례 원고가 의류판매업체를 운영하였던... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의료법인정관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926981&cid=42279&categoryId=42279",
+			"description":" 의료법인을 효과적으로 운영하기 위한 규칙을 기록한 문서.  의료법인정관이란 의료법인을 운영하기 위한 근본 규칙을 명시한 문서를 말한다. 의료법인 내부에서 발생하는 모든 사항은 정관을 근거로 하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128224111582_1QNTBW749.jpg\/hb10_7345_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경리이력서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828090&cid=42279&categoryId=42279",
+			"description":" <b>회계<\/b> 직종 중에서도 경리부에 취업을 원하는 사람이 자신의 이력을 소개하기 위해 작성하는 문서.  이력서는 신상 내력을 작성한 작문식 이력서, 국문 이력서 서식과 비슷한 기입식 이력서, 신상명세와 같은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128185415211_ZQE7NJDYB.jpg\/hb10_626_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"국가정보원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1203533&cid=40942&categoryId=31713",
+			"description":" 국가정보원의 조직 및 <b>직무<\/b> 범위 등에 관한 사항을 정한 법률.  국가정보원의 조직 및 <b>직무<\/b> 범위와 국가안전보장업무의 효율적인 수행을 위하여 필요한 사항을 규정함을 목적으로 하는 법률이다(1980. 12. 31... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조준",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1672133&cid=62131&categoryId=62163",
+			"description":"조준(趙浚)의 자는 명중(明仲)으로 시중(侍中) 조인규(趙仁規)의 증손이다. 어려서부터 기개가 빼어났으며 큰 뜻이 있었다. 공민왕(恭愍王)이 수덕궁(壽德宮)에 있다가 조준이 책을 끼고 궁전 앞을 지나는 것을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1614_000_1\/20121116222147059_O7HTHLNGA.jpg\/ha12_y_1232_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"감사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=565067&cid=46625&categoryId=46625",
+			"description":"감사의 주요한 <b>직무<\/b>권한은 법인의 재산상황의 감사, 이사의 업무집행상황의 감사, 이들에게 부정... 또한, 감사는 법인에 대하여 <b>직무<\/b>를 충실히 수행할 의무를 지며, 이 의무를 게을리한 감사는 채무불이행으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인수인계서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830712&cid=42279&categoryId=42279",
+			"description":" 인수인계서란 업무 인수자와 인계자가 인수인계에 관한 제반 사항을 명시한 양식이다. [인수인계서의 개요] 인수인계서는 직원이 퇴사를 하거나 부서 이동을 할 경우, 신입사원이 해당 직원의 업무를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20220620184945247_196PAOBBW.png\/hb10_3258_i1.png?type=m160_160"
+		},
+		{
+			"title":"감찰원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110276&cid=50765&categoryId=50778",
+			"description":"[[개요]] 원불교 중앙총부의 한 기구로서 교단의 중앙감찰기관. 감찰원은 공평정직(公平正直)ㆍ엄명관대(嚴明寬大)ㆍ주밀정확(周密精確)의 원훈(院訓) 아래 교단 전반의 행정과 출가ㆍ재가 교도의 선(善)ㆍ불선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경영관리학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025378&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 수강생들에게 <b>회계<\/b>원리, 재무관리, 경제학, 통계학, 채권분석, 금융자산관리, 부동산업무 등 각종 시험에 출제되는 과목을 가르친다. 최신 시험 출제경향을 분석하고 정보를 제공한다. 수강생들의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 정치",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%A0%95%EC%B9%98",
+			"description":"감사원은 국가의 세입·세출 결산권, <b>회계<\/b> 검사권을 가지며 또한 <b>직무<\/b> 감찰권도 가지고 있다. 사법부 사법부의 구성 대한민국의 사법부는 재판에 대한 관할권에 따라 두 개의 조직으로 이원화되어 있다. 첫째는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"맘메트한 차키예프 교통 · 통신 부총리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5811301&cid=43818&categoryId=50733",
+			"description":"여러 <b>직무<\/b> 수행(자동<b>회계<\/b> 소프트웨어 수석 엔지니어, 물품 출납부장, 중앙<b>회계<\/b> 수석<b>회계<\/b>사, 기술 및 군사보급부 책임자) ○ 2008~2014 내무부 차관 ○ 2014~2016 관세청 부청장 ○ 2016~2017 관세청... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2361_000_1\/20190814160501763_AGBO6HQNT.png\/gb74_27_i1.png?type=m160_160"
+		},
+		{
+			"title":"동진 공제",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8F%99%EC%A7%84_%EA%B3%B5%EC%A0%9C",
+			"description":"안제를 대신하여 <b>직무<\/b>는 숙부인 <b>회계<\/b>왕 사마도자가 맡았다. 그러나 사마도자는 귀신에 빠져서 일을 아예 안하며 주색에 여념이 없었다. 결국 할 수 없이 399년에 사마도자의 아들인 사마원현으로 <b>직무<\/b>대리를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대기환경기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054001&cid=42114&categoryId=42114",
+			"description":" 대기환경기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 대기환경기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 대기환경기사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210909160550158_0XC7ST5PY.jpg\/da6_415_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"수질환경기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054055&cid=42114&categoryId=42114",
+			"description":" 수질환경기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 수질환경기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 수질환경기사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210909160550316_Q2K9FP3EY.jpg\/da6_469_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"원자력기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977034&cid=42114&categoryId=42114",
+			"description":"운영상태를 검사하고 지휘 · 감독하는 <b>직무<\/b>를 수행한다. ② 2020년에는 원자력기사 자격시험을 실시하지 않았다. [ 3. 시험정보] (1) 응시자격 : 응시자격에는 제한이 있다. || 기술자격 소지자 || 관련학과",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100911616_WPQKX7HTG.jpg\/da6_226_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"미용장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053854&cid=42114&categoryId=42114",
+			"description":"[ 3. 시험정보] (1) 응시자격 : 응시자격에는 제한이 있다. || 기술자격 소지자 || 관련학과 졸업자 || 비관련학과 졸업자 || 순수 경력자 || | ㆍ산업기사 이상+5년 ㆍ기능사+7년 | 해당<b>직무<\/b>분야의 산업기사",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716202920502_NWXCRZYF5.jpg\/da6_268_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"섬유산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053868&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 섬유산업의 국제경쟁력을 향상시키기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120720145601353_HH9GVCBW8.jpg\/da6_282_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"통신설비기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977057&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국방송통신전파진흥원 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.CQ.or.kr [ 2. 자격정보] (1) 자격 개요 ① 우리의 생활을 편리하게 해주는 통신의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210630184055741_Z701QLXFI.jpg\/da6_249_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"정밀측정산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054143&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 정밀측정산업기사 ① 정밀측정산업기사란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171135834_7DPFZZQAI.jpg\/da6_557_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"의공기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054092&cid=42114&categoryId=42114",
+			"description":"② 의공기사 자격은 선진국의 기술 수준을 따라 잡기 위해 의료기기 산업분야에서 관련<b>직무<\/b>를... 등에 대한 <b>직무<\/b>를 수행한다. [ 3. 시험정보] (1) 응시자격 : 응시자격에는 제한이 있다. || 기술자격 소지자",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20211214142831371_OEMW6NOHI.jpg\/da6_506_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"원자력발전기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977035&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국원자력안전기술원 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.kins.re.kr [ 2. 자격정보] (1) 원자력발전기술사 ① 원자력발전기술사란 응시자격을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100911351_N9JPZ98ME.jpg\/da6_227_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"건설기계설비산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053952&cid=42114&categoryId=42114",
+			"description":"② 건설기계설비기사 자격은 건설기계의 기술향상을 통한 건설사업의 원활한 수행을 위하여 기계에 관한 공학적인 이론을 바탕으로 건설현장의 플랜트 기계설비의 설계, 제작, 견적, 시공, 감리 등의 <b>직무<\/b>를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724153703563_3TD626YMA.jpg\/da6_366_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"산림산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054023&cid=42114&categoryId=42114",
+			"description":"가지고 영림계획편성, 경영분석, 산림휴양시설의 설계 및 관리 등의 기술업무 수행 및 산림실무의 사방설계 및 시공, 임도설계, 시공 임업기계 비용, 기술 등의 <b>직무<\/b>를 수행한다. [ 3. 시험정보] (1) 응시자격 :",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185118318_7BAPZ4EPL.jpg\/da6_437_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"건설기계설비기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053950&cid=42114&categoryId=42114",
+			"description":"② 건설기계설비기사 자격은 건설기계의 기술향상을 통한 건설사업의 원활한 수행을 위하여 기계에 관한 공학적인 이론을 바탕으로 건설현장의 플랜트 기계설비의 설계, 제작, 견적, 시공, 감리 등의 <b>직무<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724153703374_JPI0NORFQ.jpg\/da6_364_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"조선산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054154&cid=42114&categoryId=42114",
+			"description":"② 선박의 건조와 시험을 감독하고 중력의 중심, 이상적인 선체제작, 부력 및 안정성을 유지하기 위하여 선체의 각 부분과 수선여부를 검토하는 <b>직무<\/b>를 담당한다. [ 3. 시험정보]",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203926260_EFI4DK94B.jpg\/da6_568_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"판금제관기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054183&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 판금제관공업은 기계, 자동차, 조선, 건설... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716204021376_FKFUTGOXG.jpg\/da6_597_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"어로기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054074&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 어로기술사 ① 어로기술사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210622184303061_CND6XHAR8.jpg\/da6_488_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"조선기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054152&cid=42114&categoryId=42114",
+			"description":"② 선박의 건조와 시험을 감독하고 중력의 중심, 이상적인 선체제작, 부력 및 안정성을 유지하기 위하여 선체의 각 부분과 수선여부를 검토하는 <b>직무<\/b>를 담당한다. [ 3. 시험정보] (1)",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203921245_W77A23JAB.jpg\/da6_566_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"어로산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054075&cid=42114&categoryId=42114",
+			"description":"② 어로 작업에 직접 적용하여 어업의 생산성을 높일 수 있는 각종 어업기기의 조작방법의 문제점을 개선하는 <b>직무<\/b>를 담당한다. ③ 어구, 어업기기 등을 이용하여 유용한 동식물을 잡거나 포획, 어구의 구성... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402090552177_77R3M35WH.jpg\/da6_489_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"조선기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054153&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 조선기술사 ① 조선기술사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210622143613103_W1UZZ0H57.jpg\/da6_567_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"의공산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054093&cid=42114&categoryId=42114",
+			"description":"② 선진국의 기술 수준을 따라 잡기 위해 의료기기 산업분야에서 관련<b>직무<\/b>를 수행할 전문화된... 안전관리 등에 대한 <b>직무<\/b>를 수행한다. (3) 과정평가형 자격제도 ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(N",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191131213_42Y5A5XFV.jpg\/da6_507_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"에너지관리산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970491&cid=42114&categoryId=42114",
+			"description":"③ 2014년부터 <b>직무<\/b> 분야가 유사한 것으로 평가된 '보일러산업기사', '에너지관리산업기사' 자격종목은 '에너지관리산업기사' 자격으로 통합되었다. (2) 주요업무 ① 에너지관리산업기사는 각종 산업기계... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20181116121731677_4R57C2F64.jpg\/da6_98_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"건축일반시공기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970419&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요   ① 건축구조물이 대형화되고, 특수재료의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120717191718845_M5ZFAE5F9.jpg\/da6_25_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"산림기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054021&cid=42114&categoryId=42114",
+			"description":"설계 및 관리 등의 기술업무 수행 및 산림실무의 사방설계 및 시공, 임도설계, 시공 임업기계 비용, 기술 등의 <b>직무<\/b>를 수행한다. [ 3. 시험정보] (1) 응시자격 : 응시자격에는 제한이 있다. || 기술자격 소지자",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20211214142814609_VRERQ0RWP.jpg\/da6_435_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"방사선관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977022&cid=42114&categoryId=42114",
+			"description":"② 방사선에 관한 전문적인 지식과 풍부한 경험을 바탕으로 산업현장에서 요구되는 방사선이용과 관련된 <b>직무<\/b>를 수행할 수 있는 전문기능인력을 양성하기 위해 방사선관리기술사 자격제도가 제정되었다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100911282_Q403XM6GX.jpg\/da6_214_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"용접산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054083&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 용접산업기사 ① 용접산업기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171152780_IRSX5GKF8.jpg\/da6_497_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"표면처리기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053924&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 각종 화학약품과 도금장치를 이용한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203135735_FLE1AOQO7.jpg\/da6_338_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"바이오화학제품제조산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900720&cid=42114&categoryId=42114",
+			"description":" 바이오화학제품제조산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 바이오화학제품제조산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자격에는 제한이 있다. 응시자는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191952601_RYAOUUVSU.jpg\/da6_907_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"교통기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053969&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 교통기사 ① 교통기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220615115812899_HFPZSPNNT.jpg\/da6_383_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"섬유기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053866&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 섬유기술사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20201231183106038_AGIIRRFO8.jpg\/da6_280_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"기계가공기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053986&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 기계가공은 기계제조 전반에 걸친 매우... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724153645279_S0AVGU51H.jpg\/da6_400_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"철도차량정비기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970547&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 철도차량정비기능장 ① 철도차량정비기능장이란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210621181350147_AFSQMSDOO.jpg\/da6_154_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"수산양식기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054050&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 인구가 증가와 소득증대에 따라 수산물... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203543444_YI2C17CQV.jpg\/da6_464_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"교통산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053971&cid=42114&categoryId=42114",
+			"description":" 교통산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 교통산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 필답형 실기시험을 통과해야 한다. [ 1.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220610142258917_5D6MX3IZE.jpg\/da6_385_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"어업생산관리기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054076&cid=42114&categoryId=42114",
+			"description":"대응하는 제 요인들을 조사 · 분석하여 어장의 환경변화를 규명하는 업무를 수행한다. ② 어로 작업에 직접 적용하여 어업의 생산성을 높일 수 있는 각종 어업기기의 조작방법의 문제점을 개선하는 <b>직무<\/b>를",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210622182711590_XF4RLKKFH.jpg\/da6_490_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"수산양식산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054051&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 인구가 증가와 소득증대에 따라 수산물... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203544963_LG7ZUBGDS.jpg\/da6_465_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"시설원예기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054060&cid=42114&categoryId=42114",
+			"description":"② 시설원예기사는 시설원예에 관한 기술이론 지식을 가지고 온실, 하우스 같은 시설을 계획, 설계 및 설치하고 재배환경조건을 조절하여 각종 원예작물을 집약적으로 재배관리 하는 <b>직무<\/b>를 수행한다. [ 3.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220613163923339_23HP6RF9P.jpg\/da6_474_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"철도차량기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970543&cid=42114&categoryId=42114",
+			"description":"구조를 이해하고, 구조, 원리 및 작용과 장치 상호간의 관계를 고려한 경제적이면서도 효과적이고 안전한 철도차량을 설계하고 제작하는 업무를 수행한다. 또한 검수 및 운용과 관계된 <b>직무<\/b>도 행한다. [",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120717191801073_88DDHRCKI.jpg\/da6_150_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"바이오화학제품제조기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900723&cid=42114&categoryId=42114",
+			"description":" 바이오화학제품제조기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 바이오화학제품제조기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과해야 한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191954224_AH1T3AS4K.jpg\/da6_906_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"용접기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054081&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 용접기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801151449026_080C4LMLC.jpg\/da6_495_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"수산양식기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054049&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 인구가 증가와 소득증대에 따라 수산물... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203542105_8163EI0O6.jpg\/da6_463_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"지적기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053903&cid=42114&categoryId=42114",
+			"description":" 지적기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 지적기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 복합형(필답형 + 작업형) 실기시험을 통과해야 한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200924152931509_ZN5FH4U7J.jpg\/da6_317_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"철도차량기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970544&cid=42114&categoryId=42114",
+			"description":"② 철도차량기술사 자격은 철도차량에 관한 기계공학적 이론을 바탕으로 공정, 기계 및 기술과 관련된 <b>직무<\/b>를 수행할 수 있도록 고도의 전문지식과 풍부한 실무 경험을 갖춘 기술인력을 양성하기 위하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402035334377_W3ZPHKRJJ.jpg\/da6_151_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"의류기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053878&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 실을 뽑아내는 방사에서부터 염색가공하고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203002207_NV4ZPDLC3.jpg\/da6_292_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"철도신호산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054165&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 철도신호산업기사란 한국산업인력공단에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180212184912540_T4LT566GM.jpg\/da6_579_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"식품기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054067&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 식품기술사란 한국산업인력공단에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160520141221696_7MEHYBVLO.jpg\/da6_481_i1.jpg?type=m160_160"
+		}
+	]
+}

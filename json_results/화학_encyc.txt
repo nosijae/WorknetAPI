@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:12 +0900",
+	"total":656881,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2055300&cid=44413&categoryId=44413",
+			"description":"개념 및 정의] <b>화학<\/b>(化學, chemistry)은 물질의 조성과 성질을 연구하는 과학(科學, science)이라고 정의할 수 있다. 오래전부터 우리가 접하고 있는 다양한 물질의 성질을 이해하고 이를 이용하기 위해서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140310160821341_GMH2BBBIU.jpg\/z6_term16_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=570790&cid=46637&categoryId=46637",
+			"description":" 물질의 조성·구조·성질 및 변화·제법·응용 등을 연구하는 학문. [내용] 이를 물리<b>화학<\/b>·무기<b>화학<\/b>·분석<b>화학<\/b>·유기<b>화학<\/b>·생<b>화학<\/b>·고분자<b>화학<\/b> 또는 공업<b>화학<\/b> 등으로 분류하고 있다. 물질의 조성이란 어떠한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155302&cid=40942&categoryId=32251",
+			"description":" 물질의 성질·조성·구조 및 그 변화를 다루는 학문으로, 물리학과 달리 완전한 체계화는 이루어지지 않은 상태이나, 라부아지에의 <b>화학<\/b>적 변화에서의 질량보존의 법칙, 돌턴의 원자설, 아보가드로는 분자설... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1713175&cid=41908&categoryId=41954",
+			"description":"<b>화학<\/b>과 칸트의 관계는 시대와 사람의 밀접한 영향관계의 한 가지 좋은 예이다. 칸트는 『자연과학의 형이상학적 원리』 서문[Ⅳ 470\/1]에서 수학이 적용될 수 없다는 이유로 <b>화학<\/b>을 정밀과학이 아니라 단순한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1015151&cid=50314&categoryId=50314",
+			"description":"<b>화학<\/b>환경공학용어사전 자연 과학의 일부분으로 물질의 조성, 성질 및 물질간의 작용, 변화를 해명하고 제법, 응용 등을 연구하는 학문이다. 무기 <b>화학<\/b>, 유기 <b>화학<\/b>, 물리 <b>화학<\/b>, 생물 <b>화학<\/b>, 방사 <b>화학<\/b> 등이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=119092&cid=41826&categoryId=41826",
+			"description":"<b>화학<\/b>(畫學)의 생도(生徒)는 15인이 정원임. 여기에는 양반(兩班)의 자제(子弟)들이 들어가기를 꺼려 양인(良人)을 비롯하여 천인(賤人)까지도 들어갔음. ≪경국대전(經國大典)≫에 <b>화학<\/b>(畫學)이 십학(十學)인 유... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6172590&cid=67725&categoryId=67725",
+			"description":"원소와 화합물의 조성, 구조와 성질 따위를 연구하는 학문. 자연 과학의 한 분야이다. 무기 <b>화학<\/b>, 유기 <b>화학<\/b>, 생<b>화학<\/b>, 물리 <b>화학<\/b>, 분석 <b>화학<\/b>, 이론 <b>화학<\/b>, 응용 <b>화학<\/b> 따위로 나눈다.",
+			"thumbnail":""
+		},
+		{
+			"title":"CHEMISTRY",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1838764&cid=49131&categoryId=49131",
+			"description":"Chemistry is the study of the constitution of matter and its interactions; it has numerous applications, including biochemistry, electrochemistry and nuclear chemistry.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1838670&cid=49078&categoryId=49078",
+			"description":"<b>화학<\/b>은 물질의 구성과 그 상호작용을 연구하는 학문이다. 생<b>화학<\/b>, 전기 <b>화학<\/b>, 핵<b>화학<\/b> 등 그 응용 분야가 매우 다양하다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=32915",
+			"description":"연금술에 의한 경험을 이어받아 과학적 연구로서의 근대<b>화학<\/b>이 태동한 것은 겨우 200년 가량 전이다.물리학(物理學)이 20세기에 이르러 완전히 체계화되어 사실상 이론적인 학문으로 정립된 데 대해서 <b>화학<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3014_000_1\/20140408190047204_OCJGY9YU3.jpg\/20100826_C3ACNyp.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=42418",
+			"description":"Basic 고교생을 위한 <b>화학<\/b> 용어사전, 고교생이 알아야 할 <b>화학<\/b> 스페셜, 생활 속의 <b>화학<\/b>과 고분자, 사진으로 이해하는 원소의 모든 것, 묻고 답하는 과학톡톡카페: <b>화학<\/b>·물리, 상위5%로 가는 <b>화학<\/b>교실... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 <b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49078",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%99%94%ED%95%99",
+			"description":"<b>화학<\/b> (化學, 영어: chemistry )은 물질의 성질, 조성, 구조, 변화 및 그에 수반하는 에너지의 변화를 연구하는 자연과학(自然科學)의 한 분야이다. 물리학(物理學)도 역시 물질을 다루는 학문이지만, 물리학이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=935884",
+			"description":"인간이 할 수 있는 공부가 아닌 <b>화학<\/b>을 가끔씩 어쩔 수 없이 공부하다가 찾아 본 이것 저것",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=228891",
+			"description":"<b>화학<\/b>에 관련한 것 들",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=14372",
+			"description":"<b>화학<\/b>반응속도",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=141424",
+			"description":"<b>화학<\/b>용어",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=239487",
+			"description":"업무지식",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=783596",
+			"description":"과학지식",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=1115665",
+			"description":"<b>화학<\/b>\\",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=154627",
+			"description":"ㅇㅇ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=756585",
+			"description":"도료",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=913451",
+			"description":"<b>화학<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=20043",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5662775&cid=62802&categoryId=62802",
+			"description":"<b>화학<\/b>(化學)은 물질의 정체와 변환을 연구하는 자연과학의 핵심 분야이다. <b>화학<\/b>은 물질의 정체와 성질을 원자와 분자의 수준에서 설명하고, 새로운 화합물을 합성하는 <b>화학<\/b> 반응의 특성을 연구한다. 1981년... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5506_000_1\/20180704191742014_YK4CUAP6Y.jpg\/%25EC%2584%25B8%25.jpg?type=m160_160"
+		},
+		{
+			"title":"자연과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2053694&cid=44413&categoryId=44413",
+			"description":"자연과학은 크게 물리학(物理學, physics), <b>화학<\/b>(化學, chemistry), 생물학(生物學, biology), 천문학(天文學, astronomy), 지학(地學, earth science)으로 구분되어 왔다. 또한 근대에 수학의 적용과 실험이라는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140612165958482_SLAOGKH7U.jpg\/z6_term3_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>화학<\/b>의 시작",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3389358&cid=47337&categoryId=47337",
+			"description":"[<b>화학<\/b>이란] 인간은 태어나면서부터 여러 가지 물질을 보고 만지면서 살아간다. 이 때문에 인간은 자연스레 눈에 보이는 물질들이 무엇으로 이루어졌는지 의문을 가졌고, 주변에서 일어나는 변화에 호기심을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4373_000_1\/20160404150343732_E0K7HBWNN.jpg\/s_ca19_4_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"약학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117564&cid=44416&categoryId=44416",
+			"description":"생<b>화학<\/b>(生化學, biochemistry), 미생물학(微生物學, microbiology), 면역학(免疫學, immunology), 분자생물학(分子生物學, molecular biology), 세포생물학(細胞生物學, cell biology) 등이 있다. 둘째, 생리활성물질의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140702174051061_E95B7GWJS.jpg\/z8_term201_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"효도하는 <b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3567358&cid=58949&categoryId=58983",
+			"description":"[ ‘만물의 근원은 물’, 탈레스로부터 <b>화학<\/b>은 시작되었다 ] <b>화학<\/b>은 물질의 조성, 구조, 성질, 그리고 이들의 변환 (<b>화학<\/b>반응)을 탐구한다. 탈레스가 우주의 원소에 대한 질문을 하고 답을 제시하는 것으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170116192801229_3ZG1J93XS.jpg\/1111111111_6.jpg?type=m160_160"
+		},
+		{
+			"title":"서울특별시 과학 전시관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3583338&cid=58584&categoryId=59155",
+			"description":"[ 1. 학교 밖에서 과학을 배운다고요?] 준비물: 사진기, 편안한 옷, 필기도구 * 다양한 체험 활동을 위해 편안한 옷차림으로 가요. * 30명 이상 단체로 방문할 경우 꼭 예약을 해야 해요. * 토요 자연 탐구 교실... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_1\/20170428171125730_VSXOT62TP.jpg\/940_167598_11304.jpg?type=m160_160"
+		},
+		{
+			"title":"회전의 마법 속으로",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6085452&cid=67478&categoryId=67478",
+			"description":" 섞이지 않는 용액들이 밀도 순서대로 쌓이는 것에 착안해 회전하는 원통에 용매를 넣고 돌려 층층이 쌓은 후 반응물을 넣어 <b>화학<\/b>반응을 일으키는 새로운 시스템을 개발했다 (바르토슈... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMDEwMDVfMjgw%2FMDAxNjAxODU4MTU1MTYw.96V4IYOyNceED-dpYQJ-sMn9SzaF3Dr-P5EfPHQ1q8kg.dkMgDkP76tVdHZQmxwJXfdyaJSjV1TAr33pudXcqvKog.JPEG%2FIUgvwBRA7lixyz7dsBMdp0Pidurc.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x717#c540"
+		},
+		{
+			"title":"일본학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=729068&cid=42140&categoryId=42140",
+			"description":"고학(古學) 또는 <b>화학<\/b>(和學)이라고도 한다. 전통적인 중국문화 숭배에 기초한 한적(漢籍) 중심의 학문에 대해, 에도 시대에 이르러 내셔널리즘에 기초하여 새롭게 나타난 일본 고전의 학문과 거기에서 발생한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=419857&cid=60277&categoryId=60277",
+			"description":"그리고 <b>화학<\/b>에서 의<b>화학<\/b>자의 관심과 동물기능에 대한 병리(pathology)에 관심이 있었다; 그러나 부분적으로는 <b>화학<\/b>현상이 완전히 복잡했고, 순도의 기준에 대한 부재, 원소의 정의와 확인에 대한 불확실성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2322489&cid=60227&categoryId=60227",
+			"description":"물질에 관한 자연 과학의 한 부문으로, 특히 물질의 구조, 성질 및 어떤 하나의 물질이 다른 물질로 변화하는 소위 <b>화학<\/b> 반응을 취급하는 학문. 내용적으로는 각종의 <b>화학<\/b>적 사실을 발견해 정리하고 다시 상호... ",
+			"thumbnail":""
+		},
+		{
+			"title":"물리 변화와 <b>화학<\/b> 변화",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000144&svc_clss_id=CLSS0000055953&contents_openapi=naverdic",
+			"description":"물리 변화와 <b>화학<\/b> 변화가 무엇인지, 그 공통점과 차이점을 안다. 석회 동굴이 생성되는 원리를 생각해보고 물리 변화와 <b>화학<\/b> 변화가 어떻게 작용하고 있는지 생각해본다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819070250606_VS4OQGIY6.jpg\/m3_sci_17_46_img.jpg?type=m160_160"
+		},
+		{
+			"title":"브라우니와 초콜릿 케이크",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000145&svc_clss_id=CLSS0000055953&contents_openapi=naverdic",
+			"description":"브라우니와 케이크를 만드는 과정을 통해 <b>화학<\/b>반응을 이해할 수 있다. 탄산수소나트륨의 분해 과정이 브라우니와 케이크의 차이를 만들어 낸다는 것을 안다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819070251254_QXXYJZ3XT.jpg\/m3_sci_17_47_img.jpg?type=m160_160"
+		},
+		{
+			"title":"우리나라에 산성비가 내리는 까닭은?",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000151&svc_clss_id=CLSS0000055955&contents_openapi=naverdic",
+			"description":"산성이란 무엇인지 그 특징을 살펴보고 산성 여부를 판단하기 위한 확인 방법을 안다. 산성비가 우리 생활에 어떠한 피해를 주는지 살펴본다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_2\/20170818045850741_0ZSUBKXCR.jpg\/fs_a0000-2015-07.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>화학<\/b> 전지의 원리",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000200&svc_clss_id=CLSS0000017612&contents_openapi=naverdic",
+			"description":"<b>화학<\/b> 전기가 어떻게 발견되었는지 살펴보고 볼타 전지의 작동 원리와 그 원리를 이용한 전지에는 무엇이 있는지 안다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819071252066_CAEYIZJ1R.jpg\/fs_a0000-2015-07.jpg?type=m160_160"
+		},
+		{
+			"title":"학생백과 <b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=47337",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"보호필름용 LDPE(Low Density Polyethylene)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5775095&cid=63839&categoryId=63839",
+			"description":" 가구나 전자제품을 구매하면 제품에 붙어 있는 필름이 바로 보호필름이다. 이 보호필름은 제품을 만들고 가공, 운송하는 과정에서 생기는 먼지, 오염, 흠집 등에서 제품을 보호한다. 보호필름 제작에... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxOTA1MjlfMjI1%2FMDAxNTU5MDg1NDc2ODM3.ZWBcwgQyNShT8WXjJPkxlg-qphcngy6gNxHfg4nIO-og.0IHKjGYqN1S3U9POz6OJ-AaibLdhYrMpVFNaxvfZwAIg.JPEG%2FIS0Vq1HPu5u9E2yxwYSse8y2Fu9E.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>화학<\/b> · <b>화학<\/b>적 연관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1717267&cid=41908&categoryId=41971",
+			"description":"본성은 행위와 경동(傾動, Streben, 스피노자의 conatus)이지만, 그것은 도달되지 않는 노력, 충족되지 않는 당위이다. (2) <b>화학<\/b>적 연관. 객관들의 기계적 통일은 추상적인 중심화의 단계에서 완결되며, 객관들",
+			"thumbnail":""
+		},
+		{
+			"title":"LG<b>화학<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/LG%ED%99%94%ED%95%99",
+			"description":"LG<b>화학<\/b> (엘지化學)은 대한민국의 <b>화학<\/b>물질 제조기업이다. 슬로건 럭키표는 품질을 보증한다. (1961년 ~ 1974년) 풍요로운 생활을 창조하는 럭키 (1974년 ~ 1984년) 유전공학을 선도하는 럭키 (1984년 ~ 1988년)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5827665&cid=62802&categoryId=62802",
+			"description":"<b>화학<\/b>제(chemical agent)는 <b>화학<\/b> 무기(chemical warfare, CW)로서 독성을 가지는 <b>화학<\/b> 물질을 일컫는다. 넓게는 식물을 죽이는 용도까지도 <b>화학<\/b> 무기에 포함되며, 20세기에 70여 종의 <b>화학<\/b> 물질이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5506_000_1\/20190828194306330_ET3LFKX8T.jpg\/SPL_C019_4901_%25.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>화학<\/b>식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=419873&cid=60277&categoryId=60277",
+			"description":"화합물에 대한 <b>화학<\/b>식의 명명이 가능해질 수 있었던 것은 프르스트(J. L. Proust, 1754-1826)와 베르톨레(C. L. Berthollet, 1748-1822)의 논쟁이후에, 화합물의 일정 조성(일정성분비)이 혼합물(mixture)들과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5662856&cid=62802&categoryId=62802",
+			"description":"<b>화학<\/b>식은 약속된 기호(원소 기호 등)를 이용하여 물질을 이루는 분자, 이온 등을 표현하는 식이다. <b>화학<\/b>식에는 표현 방법에 따라 실험식, 시성식, 분자식, 구조식 등이 있다. [목차] 1.간단한 <b>화학<\/b>식의 예 2.... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20190311_232\/OUFlY_1552287543889zvYkN_JPEG\/31816852-43ca-11e9-a17c-505dac8c3607_03.jpg#1920x1080#m"
+		},
+		{
+			"title":"C<sub>1<\/sub> <b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=933766&cid=43667&categoryId=43667",
+			"description":" 나프타(naphtha)를 원료로 하는 석유<b>화학<\/b>에 대해 제철폐유가스나 천연가스에서 발생하는 일산화탄소 또는 메탄올 등을 원료로 탄화수소제품을 만드는 <b>화학<\/b>.  | 외국어 표기 | C1 chemistry(영어)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"C1 <b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=221&cid=43659&categoryId=43659",
+			"description":"나프타를 원료로 하는 석유<b>화학<\/b>에 대해 제철폐유가스나 천연가스에서 발생하는 일산화탄소나 메탄올 등을 원료로 탄화수소제품을 만드는 것을 지칭한다. 일산화탄소나 메탄올의 탄소수가 1이기 때문에 C1... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155325&cid=40942&categoryId=32251",
+			"description":"나타낸 <b>화학<\/b>식이다.  <b>화학<\/b>식은 실험식, 시성식, 분자식, 구조식으로 분류된다. 실험식 성분원소의 종류와 그들의 상대적인 비를 나타낸 <b>화학<\/b>식이다. 벤젠(C6H6 )과 아세틸렌(C2H2)은 분자식은 다르지만... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_74\/20181118200759396_I3CG4LV2T.jpg\/374190.jpg?type=m160_160"
+		},
+		{
+			"title":"LG<b>화학<\/b>㈜",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=581077&cid=46630&categoryId=46630",
+			"description":" 1947년에 설립된 <b>화학<\/b>공업제품 제조업체. [연원 및 변천] LG그룹의 모기업으로 1947년 1월 락희<b>화학<\/b>공업사로부터 출발하였다. 락희<b>화학<\/b>공업사는 화장품 생산을 주로 하였으나, 1951년 국내 최초로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무기<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1094601&cid=40942&categoryId=32260",
+			"description":" 탄소 및 탄소화합물 이외의 모든 원소 및 무기화합물을 다루는 <b>화학<\/b> 분야로서 역사적으로 가장 오래 된 <b>화학<\/b> 분야이다. 연구 대상에 따라 착염<b>화학<\/b>(錯鹽化學)·지구<b>화학<\/b>·핵<b>화학<\/b>·방사<b>화학<\/b>·광물<b>화학<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공업<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063533&cid=40942&categoryId=32391",
+			"description":" <b>화학<\/b>변화를 포함하는 조작에 의해 원료로부터 공업제품을 만드는 기계나 방법 등을 연구하는 <b>화학<\/b>의 한 분야로 <b>화학<\/b>제조학이라고도 한다. 즉, 이론<b>화학<\/b>을 기초로 하고, <b>화학<\/b>공업을 목표로 하여 행하여지는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"응용<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1133807&cid=40942&categoryId=32251",
+			"description":" 실생활에 활용될 수 있는 <b>화학<\/b>적인 기술을 연구하는 <b>화학<\/b>의 한 분야.  순수<b>화학<\/b>에 대응되는 말이다. 순수<b>화학<\/b>이 주로 기초적 <b>화학<\/b>을 연구하는 분야인 데 대하여, 생산 또는 생활에 어떤 형태의 응용을 의식하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전기<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139415&cid=40942&categoryId=32252",
+			"description":" 전기현상과 이에 따르는 <b>화학<\/b>변화와의 관계를 연구하는 <b>화학<\/b>의 한 분야.  전지·전기분해·계면 전기현상·전기열<b>화학<\/b>과 기체 내 방전 외에 고체·액체·기체의 구조, 물체 내의 도전현상·이온화 상태 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광물<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1064910&cid=40942&categoryId=32305",
+			"description":" 광물학의 한 분야로서, 광물의 <b>화학<\/b>적 성질을 연구한다. <b>화학<\/b>분석을 통해 광물의 동정을 행하거나 성분비를 밝히는 것이 주 목적이며, 기기분석<b>화학<\/b>의 발전으로 분석<b>화학<\/b>적 연구도 주요 부분이 되었다.  광물을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>발광",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5827553&cid=62802&categoryId=62802",
+			"description":"<b>화학<\/b>발광(chemiluminescence)은 <b>화학<\/b>반응을 통하여 전자적으로 들뜬 상태(excited state)의 <b>화학<\/b>종이 바닥 상태(ground state)로 되돌아올 때 빛을 방출하는 현상을 말한다. 공연장에서 흔히 쓰이는 불빛... ",
+			"thumbnail":""
+		},
+		{
+			"title":"녹색<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3568494&cid=58949&categoryId=58983",
+			"description":"[ 녹색<b>화학<\/b>, 지속 가능한 성장을 위해 <b>화학<\/b>이 나아가야 할 방향 ] <b>화학<\/b>없이 인류의 생존을 논할 수 없으므로, 녹색<b>화학<\/b>에 대한 논의는 매우 중요하다. 인간의 생활에 필요한 것은 에너지와 물질이며, 물질은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170117201012827_NCRT14M7G.jpg\/1111111111_20.jpg?type=m160_160"
+		},
+		{
+			"title":"양자<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1124392&cid=40942&categoryId=32252",
+			"description":" 양자역학에 입각해서 <b>화학<\/b>상의 여러 문제를 논하는 물리<b>화학<\/b>의 한 분야.  1927년에 독일의 이론 물리학자인 W.하이틀러와 독일계 미국인 이론 물리학자인 F.프리츠의 ‘하이틀러-런던의 이론’으로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>흡착",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3396551&cid=60289&categoryId=60289",
+			"description":" <b>화학<\/b>적 결합에 의한 흡착으로, 전자 이동을 수반하는 <b>화학<\/b>반응과 유사.  <b>화학<\/b> 흡착은 흡착제와 흡착된 물질사이에 <b>화학<\/b> 결합이 생성되는 경우로서 새로운 종류의 표면 화합물이 형성된다고 할 수 있다. <b>화학<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지구<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1144039&cid=40942&categoryId=32287",
+			"description":" <b>화학<\/b>적인 방법으로 지구를 연구하는 학문으로 <b>화학<\/b>지질학적 연구방법을 개척한 미국의 F. W. 클라크가 선구자이다.  연구의 최소단위는 <b>화학<\/b>원소 또는 핵종(核種)이다. <b>화학<\/b>지질학적 연구방법을 개척한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>혁명",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3573535&cid=58949&categoryId=58983",
+			"description":"[ 혁명의 시대와 새로운 <b>화학<\/b> ] 이런 상황에서 18세기 <b>화학<\/b>혁명은 물질에 대한 탐구로서 <b>화학<\/b>을 근대과학의 한 분야로 이끈 중요한 계기가 됐다. <b>화학<\/b>혁명이 진행되던 당시는 미국혁명이나 프랑스혁명과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118155817362_7IYN2XW78.jpg\/3-1_33.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>화학<\/b>반응",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155314&cid=40942&categoryId=32251",
+			"description":" 어떤 물질이 자체적으로 또는 다른 물질과 상호작용하여 <b>화학<\/b>적 성질이 다른 물질로 변하는 현상을 <b>화학<\/b>반응이라고 한다. 이때 <b>화학<\/b>결합이 파괴되고 생성되면서 분자를 이루는 원자들의 재배치가 일어난다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_15\/20180808182639609_UJGOY6I2F.gif\/173186_0.gif?type=m160_160"
+		},
+		{
+			"title":"우주<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1130590&cid=40942&categoryId=32252",
+			"description":" 우주에 존재하는 물질을 <b>화학<\/b>적인 방법으로 해명하려고 하는 <b>화학<\/b>의 한 분야.  지구를 포함한 각종 천체 물질, 즉 우주에 존재하는 물질을 <b>화학<\/b>적 방법으로 해명하려고 하는 <b>화학<\/b>의 한 분야를 말한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대기<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5702005&cid=64656&categoryId=64656",
+			"description":"대기<b>화학<\/b>은 대기과학의 한 분야로 대기의 조성과 대기 중에 일어나는 <b>화학<\/b>과정을 연구하는 학문이다1). 대기 중의 <b>화학<\/b>과정은 대기와 생물권 (biosphere), 바다나 호수, 얼음 표면, 구름 등의 수권... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5687_000_1\/20181205145230912_43UDMLMXS.png\/%25EB%258C%2580%25.?type=m160_160"
+		},
+		{
+			"title":"<b>화학<\/b>원론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2028277&cid=40942&categoryId=32251",
+			"description":" 프랑스의 <b>화학<\/b>자 앙투안 라부아지에의 저서. 1789년에 출간되었으며, <b>화학<\/b>이론을 체계적으로 정리하여 최초의 근대적 <b>화학<\/b>교과서라는 평가를 받는다.  18세기 <b>화학<\/b>혁명의 중심 인물인 앙투안... ",
+			"thumbnail":""
+		},
+		{
+			"title":"석탄<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1111684&cid=40942&categoryId=32405",
+			"description":" 석탄의 성상(性狀)·구조·성인 등에 관한 기초<b>화학<\/b>, 나아가서는 석탄의 건류 또는 <b>화학<\/b>적 변환에 의한 각 성분을 사용한 유기합성반응 등을 포괄하는 <b>화학<\/b> 분야이다. 석유<b>화학<\/b>공업의 발전과 더불어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155307&cid=40942&categoryId=32391",
+			"description":" <b>화학<\/b>제품의 제조공정을 능률적·경제적으로 만들기 위한 <b>화학<\/b> 프로세스의 계획 및 제조장치의 설계·건설·운전 등에 관한 공학으로 <b>화학<\/b>공업 및 제철공업 뿐아니라 환경보전 등의 여러 분야에 그 원리와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"분석<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1104672&cid=40942&categoryId=32254",
+			"description":" 물질을 분석하는 기술이나 이론 등을 연구하는 <b>화학<\/b>의 한 분야로 무기분석, 유기분석, <b>화학<\/b>분석, 물리분석, 정성분석, 정량분석 등으로 나뉘며 <b>화학<\/b>의 여러 분야중 가장 오랜 역사를 가지고 있다.  대상으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"염색<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1126956&cid=40942&categoryId=32271",
+			"description":" 염색현상을 과학적으로 연구하는 학문 분야로 염색이 물리<b>화학<\/b>적으로 용액 ·분산상 ·섬유상 사이의 염료 및 조제의 침투 ·정착을 포함한 현상이므로 염색<b>화학<\/b>은 많은 물리적 ·<b>화학<\/b>적 ·물리<b>화학<\/b>적인 과제를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"입체<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6173362&cid=62802&categoryId=62802",
+			"description":"입체<b>화학<\/b>(stereochemistry)은 화합물의 3차원적인 입체배치 및 이와 관련되는 모든 현상을 다루는 <b>화학<\/b>이다.1) 화합물의 입체<b>화학<\/b>은 연속적인 몇 가지의 역사적 발견에 기초하여 발전하게... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5506_000_1\/20201119161624845_LPAW3QJUP.png\/%25EC%259E%2585%25.png?type=m160_160"
+		},
+		{
+			"title":"<b>화학<\/b>양론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1275770&cid=40942&categoryId=32251",
+			"description":" <b>화학<\/b>반응에서 반응물과 생성물의 양적 관계에 대한 이론이다. <b>화학<\/b>반응 전후 원자의 개수와 양이 보존된다는 사실에 바탕을 둔다.  <b>화학<\/b>양론은 기본적으로, <b>화학<\/b>반응이 일어날 때 원래의 원자가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"결정<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1059564&cid=40942&categoryId=32252",
+			"description":" 결정의 <b>화학<\/b>조성, 결정구조, <b>화학<\/b>결합, <b>화학<\/b>반응 등을 연구하는 학문이다. 현재 금속이나 합금, 무기 및 유기화합물에 관한 계통적인 연구를 진행하고 있다.  결정의 <b>화학<\/b>조성·결정구조·<b>화학<\/b>결합·<b>화학<\/b>반응... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>장치",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155332&cid=40942&categoryId=32351",
+			"description":" <b>화학<\/b>제품을 제조하는 기계장치.  인류는 예부터 음료용 알코올을 제조해왔으며 그때 사용한 발효용 용기류도 개념은 달랐으나 일종의 <b>화학<\/b>장치였다. 그러나 오늘날과 같은 공업적 규모에서의 <b>화학<\/b>장치는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이론<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1134468&cid=40942&categoryId=32251",
+			"description":" <b>화학<\/b>에서 다루는 모든 문제를 이론적으로 해석하는 <b>화학<\/b>의 한 분야.  양자역학(量子力學) ·통계역학 ·열역학(熱力學) 등 물리학의 이론에 의하여 <b>화학<\/b>을 체계화시킨 것으로 물리<b>화학<\/b>과 같은 뜻으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>진화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155342&cid=40942&categoryId=32251",
+			"description":" <b>화학<\/b>물질의 우주에서의 진화를 말하는데, 예를 들어, 성간에서 발견된 분자의 생성과, 태양계가 생길 때 원시태양계의 성운 속에 <b>화학<\/b>반응의 흔적으로서 남아 있는 탄소질운석은 모두 우주에서의 <b>화학<\/b>진화의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양자<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=933691&cid=43667&categoryId=43667",
+			"description":" 양자역학에 입각해서 <b>화학<\/b>상의 여러 문제를 논하는 이론<b>화학<\/b>.  | 외국어 표기 | 量子化學(한자) quantum chemistry(영어) | 양자역학의 원리를 특히 전자의 운동에 적용하여 물질과 물질의 변화를 이해하려는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유지<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1132789&cid=40942&categoryId=32282",
+			"description":" 유지의 성분, <b>화학<\/b>적 성상, <b>화학<\/b>적 반응 등을 탐구하는 학문 분야.  유지는 지질(脂質)로서 생체에 함유되어 있으므로 생체 내에서의 유지의 <b>화학<\/b>적 탐구도 유지<b>화학<\/b>의 범주에 속한다. 유지의 지방산 성분... ",
+			"thumbnail":""
+		},
+		{
+			"title":"펨토<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1224714&cid=40942&categoryId=32252",
+			"description":" 원자와 분자의 운동을 펨토 초 단위로 추적하여, <b>화학<\/b>반응이 일어나는 동안에 원자와 분자가 어떻게 움직이는지를 연구하는 <b>화학<\/b>의 한 분야.  이집트계 미국의 <b>화학<\/b>자 A.H.즈웨일에 의해 확립되었으며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>비료",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155321&cid=40942&categoryId=31873",
+			"description":" <b>화학<\/b>적 처리로 제조되는 비료로 천연 유기질 비료와 구별된다. 1900년대에 암모니아 합성과 석회질소의 발견 등으로 <b>화학<\/b>비료공업으로까지 발전했다.  인조비료라고도 하는데 천연 유기질 비료와 구별할 때의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"암석<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1123200&cid=40942&categoryId=32301",
+			"description":" 암석이 가지고 있는 <b>화학<\/b>성분의 특징이나 암석을 구성하는 성분의 분화경로 또는 공통된 <b>화학<\/b>조성을 가진 암석이 있는 지역을 연구하는 분야이다.  암석학의 한 분과이나 지구<b>화학<\/b>적(地球化學的)인 내용이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"착물<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1145481&cid=40942&categoryId=32260",
+			"description":" 착물(착체)을 연구대상으로 하는 <b>화학<\/b>의 한 분야.  배위<b>화학<\/b>이라고도 한다. 19세기 말~20세기 초에 A.G.베르너가 무기화합물 특히 금속화합물의 구조에 대해 올바른 개념을 발견하여 이 분야를 확립한 이래... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5830603&cid=40942&categoryId=32251",
+			"description":" 10억분의 1미터인 나노미터 단위에 근접한 크기에서 물질을 조작하는 기술을 나노기술이라고 하며, 나노<b>화학<\/b>은 이러한 나노기술로 나노소재를 만들기 위해 주로 <b>화학<\/b>적인 방법을 이용하고 이들의 물성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"우주<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6211036&cid=61234&categoryId=61234",
+			"description":"[목차] 1.정의 2.우주<b>화학<\/b>의 연구 대상 및 방법 3.참고문헌 [ 정의 ] 우주<b>화학<\/b>(cosmochemistry)이란 넓게는 우주(cosmos, universe)의, 좁게는 태양계(solar system)의 <b>화학<\/b>적 조성에 대해, 그리고 그런... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>요법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=419858&cid=60277&categoryId=60277",
+			"description":"그리고 어떤 <b>화학<\/b>물질의 능력은 생체 밖에서(in vitro) 선택적으로 미생물의 성장을 억제(inhibit)한다는 것이다. 이어서 아닐린 염료를 말라리아와 트리파노소마 감염에 훌륭히 성공을 거두었고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>식량",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155326&cid=40942&categoryId=32251",
+			"description":" <b>화학<\/b>식에 포함되어 있는 원자의 원자량 총합을 말한다. 예를 들어 염화나트륨 NaCl의 <b>화학<\/b>식량은 Na＝22.991, Cl＝35.457에서 22.991＋35.457＝58.448이다.  식량(式量)이라고도 한다. 염화나트륨과 같은 무기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방사<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1099411&cid=40942&categoryId=32252",
+			"description":" 방사성 물질을 <b>화학<\/b>적으로 연구하는 학문.  방사체<b>화학<\/b>이라고도 한다. 넓은 뜻에서는 원자핵<b>화학<\/b>을 포함시키는 경우도 있다. 보통 천연 상태로 존재하는 방사성 원소의 정량이나 분포상태, 인공방사성 원소의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>화상",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1251185&cid=40942&categoryId=32783",
+			"description":" 유독성 <b>화학<\/b>물질이 피부에 접촉하여 유발되는 화상.  <b>화학<\/b>화상의 대부분은 공장이나 실험실에서 일어나며, 피부나 의복이 강산이나 강알칼리와 접촉 시에 일어난다. 일반적으로 알칼리성 물질이 산성보다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"물리<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1095792&cid=40942&categoryId=32252",
+			"description":" 물리학 이론 및 실험을 통해 얻은 결과를 이용하여 물질의 <b>화학<\/b>적 성질을 연구하는 <b>화학<\/b>의 한 분야로, 열역학의 기초가 확립되면서 학문적 체계가 이루어졌다. 통계학의 진보로 이론적으로는 양자론이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"펨토<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=73534&cid=43667&categoryId=43667",
+			"description":"펨토<b>화학<\/b>이란 새로운 학문영역을 구축한 사람은 이집트계 미국인 아흐메드 즈웨일(Ahmed H. Zewail) 박사이다. <b>화학<\/b>반응에 의한 반응물에서 생성물로의 변화에는 <b>화학<\/b>결합의 소멸과 생성이 반드시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공업<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=523603&cid=46637&categoryId=46637",
+			"description":" <b>화학<\/b>을 산업적으로 응용하는 학문. [내용] 새로운 가치를 지닌 <b>화학<\/b>재료나 물질을 제조하는 <b>화학<\/b>반응에 대한 연구와 개발을 하는 학문이다. 공업<b>화학<\/b>적으로 연구·개발된 화합물을 산업적으로 대량생산하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지구<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5960947&cid=61234&categoryId=61234",
+			"description":"지구<b>화학<\/b>은 지구와 행성을 형성하고 바꿔온 <b>화학<\/b>적 과정, 구성 물질들의 <b>화학<\/b>조성, 구성하고 있는 계들 사이의 상호작용을 포함하는 물질들의 순환을 다루는 학문분야이다(그림). 지구<b>화학<\/b>은 지구를 넘어... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5284_000_1\/20200709160700655_WBD2PMQJR.png\/%25EC%25A7%2580%25.png?type=m160_160"
+		},
+		{
+			"title":"미량<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1096273&cid=40942&categoryId=32251",
+			"description":" 미량물질을 취급하는 <b>화학<\/b>의 한 분야이다.  H.쿨만이 0.001 mg까지 잴 수 있는 미량천칭을 완성하였고, 또 F.프레글이 2∼5 mg의 유기화합물을 분석할 수 있는 미량분석법을 확립하였으며, 이에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"구조<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066503&cid=40942&categoryId=32252",
+			"description":" 물리적·<b>화학<\/b>적 방법으로 물질의 구조를 조사하여 물질의 성질과 구조를 관련지어 연구하는 물리<b>화학<\/b>의 한 분야.  양자역학이 발달함에 따라 물질의 구성단위인 원자·분자·이온 등이 나타내는 각종... ",
+			"thumbnail":""
+		},
+		{
+			"title":"효성<b>화학<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%9A%A8%EC%84%B1%ED%99%94%ED%95%99",
+			"description":"효성<b>화학<\/b>(주) (曉星化學, 영어: Hyosung Chemical )는 석유<b>화학<\/b>제품, 광학필름 등의 사업을 하는 대한민국의 <b>화학<\/b> 기업이다. 역사 1979년 - PET 병용 칩 개발 1983년 - 국내 최초 컴파운딩... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이수<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650624&cid=43167&categoryId=43167",
+			"description":" 이수그룹 계열사로 석유<b>화학<\/b> 및 정밀<b>화학<\/b> 제품을 주력으로 생산해 판매하는 기업. 세탁세제의 원료인 연성알킬벤젠(LAB)과 연성알킬벤젠의 주원료가 되는 노말파라핀(NP)을 국내에서 유일하게... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20210104162601399_6BDP75LWA.png\/company_953_i1.png?type=m160_160"
+		},
+		{
+			"title":"<b>화학<\/b>철학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4353221&cid=40942&categoryId=31443",
+			"description":" <b>화학<\/b>의 기초적인 전제들과 방법론을 연구하는 과학철학의 한 분야를 말한다.  원자, 분자, <b>화학<\/b>결합과 같은 <b>화학<\/b>에서 기본이 되는 개념들을 연구하고 정의함으로써, 이 개념들이 서로 정합적인지를 따지고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>화학<\/b>무기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155312&cid=40942&categoryId=32430",
+			"description":" 유독성 <b>화학<\/b>작용제 또는 그것을 충전한 무기이다. <b>화학<\/b>약품을 사용하여 인원을 살상하거나 초목을 말려 죽이고, 또는 소이효과나 발연효과를 내게 되어 있는 모든 무기를 가리킨다.  넓은 의미로는 화염방사제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전기<b>화학<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EA%B8%B0%ED%99%94%ED%95%99",
+			"description":"전기<b>화학<\/b> (電氣化學, 영어: electrochemistry )은 물질간의 전자의 이동과 그것들에 의한 여러 현상을 취급하는 <b>화학<\/b>의 한 분야이다. 물리<b>화학<\/b>, 분석<b>화학<\/b>, <b>화학<\/b>공학 등과의 연관이 깊다. 전기<b>화학<\/b>에서 취급되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국도<b>화학<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%8F%84%ED%99%94%ED%95%99",
+			"description":"국도<b>화학<\/b>주식회사 (國都化學株式會社, Kukdo Chemical Company, 한국: 007690 )는 대한민국의 <b>화학<\/b>회사다. 본사는 서울특별시 금천구 가산동에 있으며 1972년에 설립했다. 역사 1972년 국도<b>화학<\/b>공업 설립하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"환경<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155413&cid=40942&categoryId=32411",
+			"description":" 환경과학의 한 분야로서 환경과 관련되는 모든 <b>화학<\/b>적 사상을 대상으로 하는 학문.  넓은 의미로는 지구<b>화학<\/b> ·우주<b>화학<\/b> ·해양<b>화학<\/b> 등을 포함하지만, 보통 인간의 주거환경과 가장 관련 깊은 것에 한정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농예<b>화학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1077791&cid=40942&categoryId=31870",
+			"description":" 농업생산의 기술적인 면에서의 <b>화학<\/b>적 현상을 연구하는 응용<b>화학<\/b>의 한 분야로 생물에 의한, 또는 생물의 생산 및 이용을 목적으로 하고 있다. 기초 및 응용의 두 분야가 불가분의 관계를 가지면서 공존하는... ",
+			"thumbnail":""
+		}
+	]
+}

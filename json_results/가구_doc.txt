@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:36 +0900",
+	"total":124603,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>가구<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=8974",
+			"description":""
+		},
+		{
+			"title":"우리나라 세대별 1인<b>가구<\/b> 현황과 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187678764",
+			"description":"Single-Person Households in South Korea and Their Policy Implications 본 원고는 우리나라 청년층(20~39세), 중년층(40~64"
+		},
+		{
+			"title":"1인 <b>가구<\/b>의 현황과 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561492957",
+			"description":"One-person Households and Their Policy Implications 전 연령층에서 1인 <b>가구<\/b>가 급증해 명실공히 우리 사회의 대표"
+		},
+		{
+			"title":"1인 <b>가구<\/b>의 주관적 삶의 만족감에 관한 연구: 미혼 1인 <b>가구<\/b>와 기혼 1인 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561778803",
+			"description":"Subjective Well-being of One-person Households: Focus on Non-married and Married One-person Households 본 연구는 1인 <b>가구<\/b>가 느"
+		},
+		{
+			"title":"우리나라 노인<b>가구<\/b>의 소득 및 자산빈곤 실태와 정책방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77218315",
+			"description":"Policy Strategies for Reducing Income and Asset Poverty Among Korean Old-Age households 현재 우리나라 노인들의 상대적 빈"
+		},
+		{
+			"title":"우리나라 세대별 1인<b>가구<\/b> 현황과 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187678764",
+			"description":"  목차\n우리나라 세대별 1인<b>가구<\/b> 현황과 정책과제 \/ 강은나 ; 이민홍 1\n [요약] 1\n 1. 들어가며 1\n 2. 1인가"
+		},
+		{
+			"title":"노인 <b>가구<\/b>의 소비지출 유형화 및 영향요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45698092",
+			"description":"The Categorization of Consumption for Elderly in Korea : Focused on Poverty and Receipt of the Public Assistance 본 고에서는 노"
+		},
+		{
+			"title":"주관적 건강상태와 삶의 만족도 관계에서 문화ㆍ여가 참여의 조절효과: ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651440241",
+			"description":" 본 연구의 목적은 중고령장애인 1인<b>가구<\/b>의 주관적 건강상태와 삶의 만족도의 관계에서 문화ㆍ여가활"
+		},
+		{
+			"title":"빈곤 노인<b>가구<\/b>의 유형별 소득 및 지출 특성과 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155243776",
+			"description":"The Income and Consumption Characteristics of Elderly Households in Poverty 본 연구는 빈곤 노인<b>가구<\/b>의 소득 및 지출 특"
+		},
+		{
+			"title":"경제위기 이후 <b>가구<\/b>단위 소득 구성요소와 직업의 소득불평등 효과: 도시",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16605548",
+			"description":"Effect of Income-composing Factors and Occupations on Family Income Inequality after the Economic Crisis: Focusing on the Urban Wage­-"
+		},
+		{
+			"title":"노인 <b>가구<\/b>형태의 변화가 노인 빈곤율 변화에 미친 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=185832017",
+			"description":"The Impact of Changes in Household Living Arrangements on the Changes in Poverty Rate among Elderly People in South Korea 노인의 가"
+		},
+		{
+			"title":"청년세대 일인<b>가구<\/b>의 여가활동 및 가족가치관에 관한 연구: 청년세대 다",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157469953",
+			"description":"A Study on Leisure Activities and Family Values of the Younger Generation in the One-Person Household: Focusing on Comparisons with the"
+		},
+		{
+			"title":"금강 중·하류역 송국리형 취락에 대한 <b>가구<\/b>고고학적 접근 : 다차원척도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12465070",
+			"description":"  목차\n금강 중·하류역 송국리형 취락에 대한 <b>가구<\/b>고고학적 접근 : 다차원척도법을 이용한 <b>가구<\/b>간 빈"
+		},
+		{
+			"title":"노년층의 <b>가구<\/b>구성 및 주택점유형태에 따른 주거비 부담능력에 관한 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157525545",
+			"description":"A Study on Housing Affordability of Elderly Households According to Household Types and Housing Tenure 본 연구는 <b>가구<\/b>구성 및 "
+		},
+		{
+			"title":"여성<b>가구<\/b>주 빈곤<b>가구<\/b>와 남성<b>가구<\/b>주 빈곤<b>가구<\/b> 간의 빈곤탈피 영향 요인 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32707118",
+			"description":"A Study on the Factors Affecting the Likelihood of Poverty Exit: A Comparison of Female-Headed Households and Male-Headed Households "
+		},
+		{
+			"title":"부부단독<b>가구<\/b> 노인과 자녀동거 <b>가구<\/b> 노인의 삶의 질과 관련 변인 연구 : ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11102594",
+			"description":"Variables Belated to Quantity of Life of Elderly Women Residing Only with Their Spouses and of Those with Their Adult Children The purp"
+		},
+		{
+			"title":"[논문] <b>가구<\/b>특성에 따른 주택의 점유형태 및 유형 선택에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=34737151",
+			"description":"A Study on the Choice of Housing Tenure and Housing Type according to Household Characteristics Currently, the structure of housing mar"
+		},
+		{
+			"title":"중국동부NWW향활동단열대구조특정:이장<b>가구<\/b>-봉내단열대위례 (中国东部NW",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=746306428",
+			"description":""
+		},
+		{
+			"title":"비혼 여성 1인<b>가구<\/b>의 사회적 배제에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157471568",
+			"description":"A Study on Social Exclusion of Women Single Household 여성 1인<b>가구<\/b>의 증가와 함께 경제적, 사회적, 정서․심리적 "
+		},
+		{
+			"title":"[논문] 지역주택가격이 임차<b>가구<\/b>의 점유형태와 주거입지 이동에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=34738353",
+			"description":"The Effects of Regional Housing Prices on Changes in Tenure and Residential Location of Tenants in Korea This paper empirically examine"
+		},
+		{
+			"title":"노인<b>가구<\/b>의 소득유형 및 소득원이 노인의 우울과 자아존중감에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=117818411",
+			"description":"The Effects of Household Income Types and Sources on the Depression and Self-respect in Elderly Koreans 본 연구는 노인<b>가구<\/b>의 "
+		},
+		{
+			"title":"노인부부<b>가구<\/b>의 생활현황과 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153946311",
+			"description":"Living Conditions and Policy Implications of Elderly couple Households in Korea 노인중 부부<b>가구<\/b>의 규모가 증대하고 부부"
+		},
+		{
+			"title":"노인 1인 <b>가구<\/b>의 취약성과 범죄ㆍ차별피해경험에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651416765",
+			"description":"A Study on the Vulnerabilities of Single-Household Elderly People and Criminal Victimization and Being Discriminated Experiences 노인"
+		},
+		{
+			"title":"도시지역 1인<b>가구<\/b> 중고령자의 여가활동유형과 우울수준",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561468818",
+			"description":"Leisure Activity Types and Depressive Symptoms among Middle-Aged People Living Alone 본 연구는 혼자 생활하고 있는 중고령"
+		},
+		{
+			"title":"유동하는 한국가족 : 1인<b>가구<\/b>를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116469738",
+			"description":"Floating Families in Korea: Focusing on One-person households 신자유주의의 시장제일주의는 친밀한 공간으로서의 가"
+		},
+		{
+			"title":"빈곤노인<b>가구<\/b>의 특성과 빈곤탈피에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16607624",
+			"description":"The characteristics of elderly households in poverty and identifying factors contributing to escape from poverty status 본 연구는 "
+		},
+		{
+			"title":"여성장애인의 취업에 영향을 미치는 요인: 1인 <b>가구<\/b>와 다인 <b>가구<\/b> 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898228783",
+			"description":"The Factors Affecting the Employment of Women with Disabilities:Comparison of Single-Person and Multi-Person Household 본 연구의 "
+		},
+		{
+			"title":"<b>가구<\/b>소득과 아동기의 건강 불평등",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=117817817",
+			"description":"Family Income and Child Health Gradient in Korea 소득과 건강 간의 관계는 중요한 보건정책관련 이슈이며 그간 경"
+		},
+		{
+			"title":"<b>가구<\/b> 형태가 식품 산업별 음식물비 소비지출패턴에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=117819909",
+			"description":"The Effect of Household Demographic Trend on Food Expenditure Pattern 본 연구는 1인 독신 <b>가구<\/b>와 2인 <b>가구<\/b>가 증가하고, "
+		},
+		{
+			"title":"주택자산이 고령자<b>가구<\/b>의 재정수지에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57809454",
+			"description":"The Effects of Housing Wealth on the Balance of Elderly Household Accounts 본 연구는 2011년 가계금융조사 자료를 이용하"
+		},
+		{
+			"title":"중고령자 1인<b>가구<\/b> 삶의 만족도 변화 및 영향 요인 분석: 중고령자 다인가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656340",
+			"description":"Analysis of Changes in Life Satisfaction and Influence Factors in Single-Person Households of Middle-Aged and Elderly People: Comparati"
+		},
+		{
+			"title":"한국 맞벌이 <b>가구<\/b>에서 가사노동과 경제적 의존의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16422074",
+			"description":"Housework and Economic Dependency among Dual-Earner Couples in Korea 이 연구는 2004년 통계청 생활시간조사 자료를 이"
+		},
+		{
+			"title":"대구·경북 <b>가구<\/b>의 <b>가구<\/b>특성별 주거입지 선호요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290876872",
+			"description":"Analysis of Residential Location Preference Factors by Characteristics of Households in the Case of Daegu · Gyeongbuk Households 이 "
+		},
+		{
+			"title":"토지이용변화대생태계통복무적영향——이장<b>가구<\/b>-승덕지구위례 (土地利",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=655381700",
+			"description":""
+		},
+		{
+			"title":"성시망격화관리：운행<b>가구<\/b>、공능한도여우화로경——이상해위례 (城市",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=724558183",
+			"description":""
+		},
+		{
+			"title":"장애노인 <b>가구<\/b>의 과부담 보건의료비 결정요인에 관한 종단적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290013126",
+			"description":"The Longitudinal Study on the Factors of Catastrophic Health Expenditure Among Disabled Elderly Households 본 연구는 장애노인"
+		},
+		{
+			"title":"노인부양<b>가구<\/b>의 가족갈등에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74822037",
+			"description":"A Study on the Family Conflicts in the Elderly Supporting 본 연구는 한국복지패널 4차 자료 중 <b>가구<\/b>주용 및 <b>가구<\/b>원"
+		},
+		{
+			"title":"비혼 여성 1인<b>가구<\/b>의 사회적 배제에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=585209512",
+			"description":"A Study on Social Exclusion of Women Single Household 여성 1인<b>가구<\/b>의 증가와 함께 경제적, 사회적, 정서ㆍ심리적 "
+		},
+		{
+			"title":"[논문] 소득별 1인<b>가구<\/b>의 거주지 선택에 영향을 미치는 요인에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41653386",
+			"description":"The Factors affecting on the Residential Location Choice of Single Person Households across Income levels - Focused on working people i"
+		},
+		{
+			"title":"청동기시대 전기 주거양상과 <b>가구<\/b>발달주기 : 호서지역 역삼동 및 흔암리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45702129",
+			"description":"  목차\n청동기시대 전기 주거양상과 <b>가구<\/b>발달주기 : 호서지역 역삼동 및 흔암리유형 취락을 중심으로 "
+		},
+		{
+			"title":"1인 <b>가구<\/b>의 경제적 노후 준비에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=154003747",
+			"description":"Single Households’ Financial Preparation for Retirement 본 연구에서는 1인 <b>가구<\/b>의 주관적 경제인식과 노후준비 특"
+		},
+		{
+			"title":"운계산:체계<b>가구<\/b>여관건기술 (云计算:体系架构与关键技术)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=104550298",
+			"description":"Cloud computing: architecture and key technologies 系统地分析和总结云计算的研究现状,划分云计算体系架构为核"
+		},
+		{
+			"title":"능효여자원우화적초봉와이동통신계통신<b>가구<\/b>급기기술도전 (能效与资源",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=526300095",
+			"description":""
+		},
+		{
+			"title":"1인 <b>가구<\/b>의 인구.경제.사회학적 특성에 따른 성장패턴과 공간분포",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594407790",
+			"description":" 본 연구는 지난 10년(****-****년)동안 급증하고 있는 1인<b>가구<\/b>의 인구 경제 사회학적 특성에 따른 성장패"
+		},
+		{
+			"title":"노인복지정책의 현황과 과제 : 사회참여활동과 <b>가구<\/b>형태변화를 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=72364789",
+			"description":"Elderly Welfare and Policy Issues 길어지고 있는 노년기를 보낼 사회구성원을 위해 관심을 두어야 할 다양한 "
+		},
+		{
+			"title":"남성일인생계부양자<b>가구<\/b>와 이인생계부양자<b>가구<\/b>의 소득특성과 빈곤실태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13624273",
+			"description":"Family income and Poverty status in Male-breadwinner families and dual-earner families   생계부양형태, 일인생계부양자가"
+		},
+		{
+			"title":"노인<b>가구<\/b>의 소비실태와 소득적정성： 연금생활<b>가구<\/b>와 비연금생활<b>가구<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289170545",
+			"description":"Consumption and Income Adequacy of the Elderly Households： Pensioner Households and Non-pensioner Households Comparison 본 연구는"
+		},
+		{
+			"title":"노동시장 불평등과 <b>가구<\/b>소득 불평등",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=127677419",
+			"description":"Individual Earnings Inequality and Household Income Inequality 이 글은 소득 불평등의 영향 요인들을 종합적으로 고"
+		},
+		{
+			"title":"1인 <b>가구<\/b>의 현황과 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291472862",
+			"description":"One-person Households and Their Policy Implications 전 연령층에서 1인 <b>가구<\/b>가 급증해 명실공히 우리 사회의 대표"
+		},
+		{
+			"title":"자가 거주 <b>가구<\/b>와 임차<b>가구<\/b>의 주거이동 특성 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47013533",
+			"description":"A Comparative Study of Residential Mobility between Home-owning Households and Renting Households The purpose of the study is to analyz"
+		},
+		{
+			"title":"사용자의 선호도에 따른 가변적 주거공간계획 연구 : 신혼<b>가구<\/b>의 라이프",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650609539",
+			"description":"A study on the flexible residential space plans according to user preference : focused on the lifestyle and lifecycle of newlywed house"
+		},
+		{
+			"title":"20․30대 1인<b>가구<\/b>의 소비지출양식에 관한 연구 - 다인<b>가구<\/b>와의 비교를 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186828492",
+			"description":"A Study on the Consumption Expenditure of Young Single-person Households through Comparison with Multi-person Households 본 연구는 "
+		},
+		{
+			"title":"노인<b>가구<\/b>의 소비불평등 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17604775",
+			"description":"Consumption Inequality of Elderly Households 일생동안 누적된 불평등이 극대화되는 것은 노년기이며, 특히 노년"
+		},
+		{
+			"title":"우리나라 중·고령자 <b>가구<\/b>의 자산분포 현황과 빈곤 분석: 국민노후보장",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16615345",
+			"description":"Asset Distribution, Inequality, and Poverty among Elderly Households in Korea 본 연구는 국민연금연구원의 국민노후보장"
+		},
+		{
+			"title":"1인<b>가구<\/b>의 품목별 소비지출 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153348152",
+			"description":"An Analysis of Single-person Households’ Expenditure Pattern 본 연구에서는 토빗모형을 이용하여 1인<b>가구<\/b>의 소비패"
+		},
+		{
+			"title":"1인 <b>가구<\/b>의 주관적 삶의 만족감에 관한 연구 :미혼 1인 <b>가구<\/b>와 기혼 1인 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=696883046",
+			"description":""
+		},
+		{
+			"title":"주관적 측정 방식에 의한 노인<b>가구<\/b>의 최저생계비 측정에 관한 연구* - 비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18533761",
+			"description":"Measuring the Minimum Cost of Living for the Elderly by Subjective Approach - Comparing the Nonelderly Households - 본 연구에서는"
+		},
+		{
+			"title":"청년 1인<b>가구<\/b>의 사회적 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561887362",
+			"description":"Social Relationships of Young Single-Person Households 본 연구는 최근 급증하고 있는 청년 1인<b>가구<\/b>에 주목하여 그"
+		},
+		{
+			"title":"만성질환자의 <b>가구<\/b>형태별 신체활동과 우울감",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889972601",
+			"description":"Depressive mood and Physical activity among Korean Adults with Chronic Diseases by Household type  Ⅰ. 서론 1\n 1. 연구 배경 1\n 2"
+		},
+		{
+			"title":"싱글족을 위한 다기능 <b>가구<\/b> 디자인 컨셉연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78438799",
+			"description":"A Study on the Multi-function Furniture Design Concept for the 'Singles' 전통사회로부터의 발전 및 변화에 따라 사람들"
+		},
+		{
+			"title":"상속ㆍ증여가 임차<b>가구<\/b>의 자가전환에 미치는 영향에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897735937",
+			"description":"A Study on the Impact of Inheritance and Gift on the Housing Tenure Choice of Tenant Households 본 연구는 상속ㆍ증여금액이 "
+		},
+		{
+			"title":"<b>가구<\/b>의 경제적 수준이 출산행위에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=103120062",
+			"description":"The Effects of Household’s Economic Status on the Childbirth 본 연구는 <b>가구<\/b>의 경제적 여건, 즉 소득과 자산 등의 "
+		},
+		{
+			"title":"역사<b>가구<\/b>여유개발여거민생활환경발전연구——이양주“쌍동”역사<b>가구<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=742862264",
+			"description":""
+		},
+		{
+			"title":"소형단위공간을 위한 수납<b>가구<\/b> 모듈시스템 디자인연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651416931",
+			"description":"A Study on the Design of Furniture Module System for Small Unit Space (디자인배경과 목적)국내의 1인<b>가구<\/b>의 거대한 증"
+		},
+		{
+			"title":"노인1인<b>가구<\/b>의 삶의 만족에 영향을 미치는 고령친화 지역사회환경 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656602",
+			"description":"The Age-Friendly Community Environment Factors Contributing to Life Satisfaction of Older Adults Living Alone 본 연구는 점차 증"
+		},
+		{
+			"title":"청년 1인<b>가구<\/b>(家口)를 위한 가변식 업사이클 <b>가구<\/b>(家具) 디자인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897763785",
+			"description":"A Study on Transformable Up-cycled Furniture Design for Single-person Households Our country is changing from a large family society in"
+		},
+		{
+			"title":"1인<b>가구<\/b>와 다인<b>가구<\/b>의 영양소섭취, 식행동 및 식품섭취빈도에 대한 차이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562509802",
+			"description":"Analysis of the Difference in Nutrients Intake, Dietary Behaviors and Food Intake Frequency of Single- and Non Single-Person Households"
+		},
+		{
+			"title":"여성 1인 <b>가구<\/b> 증가에 따른 법제적 대응방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232433001",
+			"description":"Legislative Measures against Increase of Single Women Household 1인 <b>가구<\/b>의 급속한 증가는 전통적 가족 개념의 해체를"
+		},
+		{
+			"title":"독신<b>가구<\/b>의 재정상태 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=421067170",
+			"description":"The Financial Status of Single households This study attemped to analyze the financial stati of single households. The financial stati "
+		},
+		{
+			"title":"노인의 미충족 의료 경험의 결정요인 – <b>가구<\/b> 유형을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595155828",
+			"description":"Unmet Health Care Needs and Impact of Type of Household among the Elderly in Korea 이 연구는 노인의 미충족 의료 경험에 "
+		},
+		{
+			"title":"시민의 삶의 질 선행 요인 규명에 관한 연구 : 일반 <b>가구<\/b>와 저소득층 가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561834497",
+			"description":"  목차\n시민의 삶의 질 선행 요인 규명에 관한 연구 : 일반 <b>가구<\/b>와 저소득층 <b>가구<\/b>의 비교를 중심으로 \/ "
+		},
+		{
+			"title":"1인 <b>가구<\/b> 증가에 따른 <b>가구<\/b>브랜드 발전 방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=233038412",
+			"description":"Furniture Brand Development Plan Study according to Increasing Single-Person Households - Focused on hanssem and ikea 본 연구는 최"
+		},
+		{
+			"title":"여성의 시간제 근로가 <b>가구<\/b>소득 불평등에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153939985",
+			"description":"The Influence of Women's Part-Time Work on Household Income Inequality 이 연구는 한국노동연구원의 한국노동패널을 이"
+		},
+		{
+			"title":"노인 <b>가구<\/b> 유형 변화와 그 영향 요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77878549",
+			"description":"Factors Affecting the Change in Living Arrangements for Elderly Factors Affecting the Change in Living Arrangements for Elderly 본 고"
+		},
+		{
+			"title":"중년 1인<b>가구<\/b>와 다인<b>가구<\/b>의 건강행태 및 질병 이환 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=599108465",
+			"description":"Comparison of Health Behaviors, Disease Prevalence between Middle Aged One-Person Households and Multi-Member Households in South Korea"
+		},
+		{
+			"title":"청년층 의료이용 양상: 1인 <b>가구<\/b> 청년과 동거 <b>가구<\/b> 청년 간 비교를 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=599107027",
+			"description":"Medical Service Use of Young Adults in Korea: A Comparative Study of Young Adults Living Alone and Those Living With Others 본 연구"
+		},
+		{
+			"title":"1인 <b>가구<\/b> 특성이 청년 및 노년 세대에 미치는 영향분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889388585",
+			"description":"An analysis of young and older adults generations influenced by the characteristics of Single-Person Household 1인 <b>가구<\/b>가 보편적"
+		},
+		{
+			"title":"제7기 국민건강영양조사 자료를 활용한 EQ-5D를 사용하여 1인<b>가구<\/b>와 다인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886426557",
+			"description":"Comparison of Health Related Quality of Life of One- and Multi-Person Households Using EQ-5D Based on the 7th Korea National Health and"
+		},
+		{
+			"title":"1인 <b>가구<\/b> 특성이 청년 및 노년 세대에 미치는 영향분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889241730",
+			"description":"An analysis of young and older adults generations influenced by the characteristics of Single-Person Household 1인 <b>가구<\/b>가 보편적"
+		},
+		{
+			"title":"서울시 1인 <b>가구<\/b> 주거이동량과 소형주택 재고량의 지역별 차이 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887309805",
+			"description":"Regional Differences between One Person Household Residential Mobility and Small Housing Stocks in Seoul 이 연구는 첫째, 1인 가"
+		},
+		{
+			"title":"코로나19 이후 아동<b>가구<\/b> 부모의 우울 변화에서 빈곤 여부에 따른 격차",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656571",
+			"description":"A Longitudinal Study of Changes in Depression Level in Parents of Households with Children after COVID-19: Focusing on Poverty 본 연"
+		},
+		{
+			"title":"1인 <b>가구<\/b>의 식생활 행태와 식생활 라이프스타일이 식생활 만족에 미치는",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=233329132",
+			"description":"The Effects of Eating Habit and Food Consumption Lifestyles on Dietary Life Satisfaction of One-person Households 본 연구는 1인 "
+		},
+		{
+			"title":"재난적 의료비 지출이 <b>가구<\/b> 경제에 미치는 영향: 재정적 대응과 빈곤을 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420665380",
+			"description":"The Effect of Catastrophic Health Expenditure on Household Economy: Focusing on Financial Coping and Poverty 이 연구는 재난적 "
+		},
+		{
+			"title":"노인 1인<b>가구<\/b>의 주거특성이 주거만족도에 미치는 영향 - 노인<b>가구<\/b>와 일",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846893436",
+			"description":"The Effects of Residential Characteristics of Elderly Single Person Households on Residential Satisfaction - Comparing Elderly househol"
+		},
+		{
+			"title":"코로나19로 인한 <b>가구<\/b> 경제 악화가 청소년의 일상생활 스트레스를 통해 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909600",
+			"description":"The influence of COVID-19-induced household economic deterioration on academic achievement through daily stress among adolescents: Focu"
+		},
+		{
+			"title":"영구임대주택 입주<b>가구<\/b>의 주거환경 및 가족기능에 관한 시론적 연구 : ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11266068",
+			"description":"A Pilot Study on the Living Environment and Family Function of Public Rental Housing Residents ; Before - and - After Comparison of Bun"
+		},
+		{
+			"title":"1인 <b>가구<\/b>와 다인 <b>가구<\/b>의 범죄두려움 수준과 영향요인의 차이 : 시간의 흐",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877226867",
+			"description":"The Differences of the Level and the Factors of Fear of Crime between Single-person and Multi-person Households : Focusing on the Trend"
+		},
+		{
+			"title":"소득계층별 사교육비 증가에 따른 <b>가구<\/b>의 소비지출 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56550662",
+			"description":"The difference of the effects of private tutoring expenditure on the change of consumption structure of households depending on income "
+		},
+		{
+			"title":"재난적 의료비 지출이 <b>가구<\/b> 경제에 미치는 영향: 재정적 대응과 빈곤을 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722268886",
+			"description":""
+		},
+		{
+			"title":"북촌도시한옥의 지붕<b>가구<\/b>(架構) 특징에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12448105",
+			"description":"The Roof Construction Method of Urban Hanok in Bukchon, Seoul 본 논문에서는 이러한 차이로부터 북촌도시한옥들의 "
+		},
+		{
+			"title":"기우실내정위계통(IPS)대수거적환경행위분석초탐——이만과송화호도가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=705319680",
+			"description":""
+		},
+		{
+			"title":"장애 <b>가구<\/b>와 비장애 <b>가구<\/b>의 복지사업 중요성 인식 유형과 영향요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896637975",
+			"description":"Analysis of Types of Recognition of Importance of Welfare Projects by Disabled and Non-Disabled Households and Influence Factors: Focus"
+		},
+		{
+			"title":"1인 <b>가구<\/b> 주거공간의 코하우징 커뮤니케이션 특성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651416994",
+			"description":"Study on the communication characteristics of Single-person Households Co-housing (연구배경 및 목적) 최근 가족해체 및 학"
+		},
+		{
+			"title":"성인 뇌병변장애인 생활만족도 영향 요인: 1인 <b>가구<\/b>와 다인<b>가구<\/b> 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846902419",
+			"description":"Factors of the Life Satisfaction of Adults with Brain Lesions Disabilities: A Comparison of One-Person and Multi-Person Households 본 "
+		},
+		{
+			"title":"저소득 <b>가구<\/b>의 현금자산형성의 주관적 의미에 관한 현상학적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47044536",
+			"description":"A Phenomenological Study on Subjective Meaning of a Participant in Assets-building Program for Low-income Families 본 연구는 최근"
+		},
+		{
+			"title":"수도권 저소득 <b>가구<\/b>의 주거이동 패턴에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595084214",
+			"description":"A Study on low-income Households Residential mobility patterns 본 연구에서는 저소득 <b>가구<\/b>의 주거이동을 탐색적으로 "
+		},
+		{
+			"title":"노인의 <b>가구<\/b>유형별 빈곤과 공적 이전의 빈곤감소효과 분석 : 정책적 함",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=421041325",
+			"description":"Old-age Poverty by Household Type and Policy Efforts to Reduce it 본 연구는 노인의 <b>가구<\/b>유형별 빈곤 실태 및 특성과, "
+		},
+		{
+			"title":"독거<b>가구<\/b> 고령여성장애인 생활만족도에 영향을 미치는 요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=579071070",
+			"description":"A Study on Influence of the Life Satisfaction for the Elderly women with disabilities Living Alone 본 연구는 고령화와 단독가"
+		},
+		{
+			"title":"1인<b>가구<\/b> 중년의 사회경제적 박탈이 우울에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561620031",
+			"description":"The effect of socioeconomic deprivation on depression of middle-aged single person households 본 연구의 목적은 최근 증가하"
+		},
+		{
+			"title":"<b>가구<\/b>유형을 고려한 생애주기와 소비지출양식에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=700596426",
+			"description":""
+		}
+	]
+}

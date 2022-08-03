@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:54 +0900",
+	"total":13788,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155820&cid=40942&categoryId=31914",
+			"description":" 특정의 경제적 실체(economic entity)에 관하여 이해관계를 가진 사람들에게 합리적인 경제적 의사결정을 하는 데 유용한 재무적 정보(financial information)를 제공하기 위한 일련의 과정 또는 체계.  오늘날... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2380456&cid=50762&categoryId=51370",
+			"description":"<b>회계<\/b>는 무엇보다 금전에 신용이 있어야 하며 회(會)가 요구하면 언제든지 보고할 준비를 갖추고 있어야 한다. 또 금전 출납은 회장의 승인(장부에 회장 결재)을 얻어 두어야 한다. ･ <b>회계<\/b>의 업무(會計-業務)",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=571264&cid=46630&categoryId=46630",
+			"description":" 일반적으로 사회적 승인을 얻은 제도에 의하여 경제주체의 경제활동 내용을 나타내는 방법의 하나. [내용] 우리 나라 특유의 경제 및 사회환경에 적응되어 온 <b>회계<\/b>의 발달과정을 <b>회계<\/b>사적인 관점에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_15\/20181029205018159_EYHD4J8E8.jpg\/17004fd9-55ed-40.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3608637&cid=42279&categoryId=42279",
+			"description":" <b>회계<\/b>란 사회적 승인을 얻은 제도에 의해 경제주체의 경제활동 내용을 나타내는 방법이다.  <b>회계<\/b>란 좁게는 나가고 들어오는 돈을 따져서 셈을 하는 것을, 넓게는 개인, 기업, 국가 등 경제 주체의 경제활동과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20220620191407865_NOI1QJL7D.png\/hb10_83874_i1.png?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>의 정의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2272871&cid=51299&categoryId=51303",
+			"description":"20세기 중반의 <b>회계<\/b>에 대한 정의는 주로 거래를 기록하여 장부를 처리하는 데 초점을 맞추어 왔다. 1941년 미국<b>회계<\/b>사회(the America Institute of Certified Public Accountants, AICPA)는 <b>회계<\/b>를 “재무적 속성을 가진... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1615587&cid=50304&categoryId=50304",
+			"description":"<b>회계<\/b><b>회계<\/b>·세무 용어사전 전통적 <b>회계<\/b>기능의 관점에서 <b>회계<\/b>란 거래 사상(事象)을 기록·분류·요약하고 그 결과를 해석하는 기술(art)로서 주로 <b>회계<\/b>보고서의 작성에 관련된 것으로 보고 있으나 최근에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=660094&cid=42152&categoryId=42152",
+			"description":"즉, <b>회계<\/b>(會計)란 <b>회계<\/b>정보의 이용자가 그들의 판단이나 의사결정을 할 수 있도록 경제적 정보를 식별하고 측정해서 전달하는 과정인 것이다. 따라서 <b>회계<\/b>의 목적은 정보의 이용자에게 유용한 정보를 정확... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=119435&cid=41826&categoryId=41826",
+			"description":"조선 시대 전곡의 출납 및 <b>회계<\/b>에 관한 법은 태종 2년(1402) 1월에 처음으로 정하였으며, 육조(六曹)의 분직(分職)과 속사(屬司)의 제도가 확립되면서 주관처가 사평부(司平府)에서 호조(戶曹)의 <b>회계<\/b>사(會計司)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062990&cid=50305&categoryId=50305",
+			"description":"개인이나 사업체의 재무상태에 관해 수치적인 정보를 제공하는 체제.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2477851&cid=51778&categoryId=51778",
+			"description":"춘추(春秋) 시대 저장(浙江) 성 동쪽에 있던 도시.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=119434&cid=41826&categoryId=41826",
+			"description":"임금의 물음에 대하여 심의하여 상주(上奏)함.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2028109&cid=50826&categoryId=50826",
+			"description":"지금의 절강성[浙江省] 소흥현[紹興縣] 일대.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%9A%8C%EA%B3%84",
+			"description":"<b>회계<\/b> (會計, 영어: accountancy, accounting )는 이해관계자의 재산의 변동을 측정하고 분석하여 이를 이해관계자에게 보고하는 시스템을 말한다. 역사 최초의 <b>회계<\/b>는 돈이 들어오고 나가는 것을 기록한 것이며 고대... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2911197&cid=57926&categoryId=58013",
+			"description":"황해북도 연산군 대군리 소재지의 서쪽에 있는 마을. 여러 가닥의 골물이 이곳에서 합류하여 흐른다 하여 <b>회계<\/b>라 한다. 개울이 마을을 감돌아 흐른다 하여 회포라고도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=826794",
+			"description":"재무<b>회계<\/b> Study를 하면서 궁금한 정보를 모아봅니다 :)",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=86102",
+			"description":"<b>회계<\/b>용어 앞으로 자주 쓰게 될 단어들..",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=873624",
+			"description":"<b>회계<\/b>용어",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=154882",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1668583&cid=60558&categoryId=60558",
+			"description":"① 사람을 모아 놓고 각기의 공을 잼. ② 산 이름. 절강성 소흥현(浙江省紹興縣) 동남에 있는데, 춘추시대 월(越)의 구천(勾踐)이 오(吳)의 부차(夫差)에게 패하여 성하지맹(城下之盟)을 맺은 곳임.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155827&cid=40942&categoryId=31914",
+			"description":" 관찰대상으로서의 <b>회계<\/b>현상, 즉 <b>회계<\/b>의 산출물(output), <b>회계<\/b>담당자의 행위, <b>회계<\/b>의 요소 등에 관한 일반적인 원리 및 체계를 연구하는 일, 또는 학문.  <b>회계<\/b>학은 현대 경제사회의 매우 중요한 기능인 <b>회계<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926272&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>회계<\/b>사는 개인이나 기업, 공공시설, 정부기관 등의 경영상태, 재무상태, 지급능력 등의 다양한 재무보고와 관련하여 상담을 해주거나 관련서류를 작성한다. 대상 기업에서 작성한 재무제표가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024535&cid=42117&categoryId=42117",
+			"description":" <b>회계<\/b>에 관한 용역업무를 계획 및 관리하고, 의뢰인의 위임에 따라 재무<b>회계<\/b>서류의 작성, 기업의 소득세보고서 작성, 재무<b>회계<\/b>감사 또는 증명을 하며, 재무서류의 조정, 재무조사 및 기타 <b>회계<\/b>사무에 관한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=571268&cid=46630&categoryId=46630",
+			"description":" <b>회계<\/b>현상에 관련된 사항을 체계적으로 연구하는 학문. [내용] <b>회계<\/b>는 재무보고(財務報告)·세액산정(稅額算定)과 세무계획(稅務計劃)·감사(監査)·원가<b>회계<\/b>(原價會計)와 관리<b>회계<\/b>(管理會計)·비영리<b>회계<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"발생주의<b>회계<\/b> · 현금주의<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=299510&cid=43665&categoryId=43665",
+			"description":" 발생주의<b>회계<\/b>는 거래나 사건 그리고 환경이 기업에 미치는 재무적 효과를 현금이 수취되거나 지급되는 기간에 기록하는 것이 아니라, 그 거래가 발생한 기간에 기록하는 것을 말한다.  발생주의<b>회계<\/b>는 거래나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1832299&cid=42279&categoryId=42279",
+			"description":" <b>회계<\/b>처리에 관한 규정을 명시한 문서.  <b>회계<\/b>규정이란 회사 내 <b>회계<\/b>업무 처리에 관한 주요기준을 규정한 문서를 말한다. <b>회계<\/b>규정에는 <b>회계<\/b> 처리의 원칙 및 출납담당자의 책임과 의무사항을 명시해야 한다. 또... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128214249647_UZPGGWOV7.jpg\/hb10_4856_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>변경",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=12109&cid=43659&categoryId=43659",
+			"description":"기업이 전기와는 다른 <b>회계<\/b>처리기준 또는 절차를 적용하여 <b>회계<\/b>처리하는 것을 말한다. 기업<b>회계<\/b>기준은 재무제표의 기간간 비교가능성 제공을 위하여 <b>회계<\/b>처리방법을 매기 계속 적용하도록 하되, 기업 내외의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세무<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5914&cid=43659&categoryId=43659",
+			"description":"국가재정조달을 위해 세법의 규정에 따라 공평타당한 조세부담의 배분기준으로서 과세소득의 계산파악을 목적으로 하는 <b>회계<\/b>를 말하며 기업<b>회계<\/b>에 대응된다. 세무<b>회계<\/b>는 세무소득을 적정히 계산하고 납세자... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특별<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1153957&cid=40942&categoryId=31836",
+			"description":" 일반<b>회계<\/b>와는 별도의 세입세출 예산을 경리하는 <b>회계<\/b>.  근대 예산제도는 예산통일성의 원칙을 바람직한 예산원칙으로 인정하고 있으나, 자본주의경제가 고도화하고 국가기능이 복잡해짐에 따라 일반<b>회계<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공장<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063662&cid=40942&categoryId=31914",
+			"description":" 제조공업을 경영하는 기업에서, 본사의 <b>회계<\/b>에 대하여 공장에서 행하는 <b>회계<\/b>.  공장<b>회계<\/b>의 특색은 고정자산에 대한 <b>회계<\/b>, 재고자산에 대한 <b>회계<\/b> 및 원가계산이다. 고정자산에 관한 <b>회계<\/b>로서는 생산설비를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>변경",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062993&cid=42107&categoryId=42107",
+			"description":"기업<b>회계<\/b>기준의 일반원칙 중 ‘계속성의 원칙’이라는 것이 있다. 이는 <b>회계<\/b>처리에 관한 기준 및 추정인 기간별 비교가 가능하도록 매기마다 계속하여 적용하고 정당한 사유없이 이를 변경하여서는 안된다는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세무<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=66714&cid=43667&categoryId=43667",
+			"description":"세무<b>회계<\/b>(Tax Accounting)란 기업<b>회계<\/b>와 관련된 기업<b>회계<\/b>기준에 따라서 측정된 기업이익을 세법의 규정에 따라 과세소득을 측정하는 과정을 말한다. 또한 광의의 세무<b>회계<\/b>는 현행 세법상 규정된 모든 세목에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특별<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=930273&cid=43667&categoryId=43667",
+			"description":" 특정 목적에 의해 일반<b>회계<\/b>와 분리하여 별도로 설치한 <b>회계<\/b>.  | 외국어 표기 | 特別會計(한자) special account(영어) | 특정한 세입으로 특정한 세출을 충당하기 위한 <b>회계<\/b>를 말한다. 특정 목적의 사업을 운영할 때... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특별<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=11034&cid=43659&categoryId=43659",
+			"description":"정부예산은 일반<b>회계<\/b>와 특별<b>회계<\/b>로 구성되어 있는데, 이 중 특별<b>회계<\/b>는 한 국가의 <b>회계<\/b> 중 특정한 세입으로 특정한 세출을 충당하는 것이다. 예산통일성의 원칙에 따라 국가의 세입세출은 하나의 <b>회계<\/b>로 통합해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2776770&cid=51373&categoryId=51373",
+			"description":" 기업 내 <b>회계<\/b>업무와 관련한 규칙을 정하여 작성한 문서.  <b>회계<\/b> 규정이란 기업 내부의 <b>회계<\/b> 처리와 관련한 기준을 정하고 기업 경영에 대한 원활한 업무처리를 수행하기 위해 필요한 거래 정보나 제반사항을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508181046089_KVY2YWQFF.jpg\/ba17_5526_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"관리<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2032&cid=43659&categoryId=43659",
+			"description":"기업<b>회계<\/b>의 한 분야로 경영자가 경영관리활동에 도움을 주는 것을 목적으로 한 내부보고<b>회계<\/b>를 가리킨다. 이에 비해 재무<b>회계<\/b>는 기업의 경영성적과 재정상태를 외부의 이해관계자(주주·채권자·투자가 등)에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>연도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=74340&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | Fiscal Year(영어) | <b>회계<\/b>연도(會計年度)란 국가나 지방자치단체, 기업의 세입과 세출을 구분하기 위하여 설정하는 일정한 기간을 말한다. 우리나라의 <b>회계<\/b>연도는 매년 1월1일 시작하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"책임<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1145985&cid=40942&categoryId=31914",
+			"description":" 기업에서의 분권적 관리의 진전에 수반 하여 <b>회계<\/b>수치와 관리조직상의 책임과를 연계시키도록 하는 <b>회계<\/b>제도.  업적평가를 위한 <b>회계<\/b>이다. 업적평가를 위해서는 업적의 판단기준이 될 예산 또는 표준을 미리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재무<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062366&cid=42107&categoryId=42107",
+			"description":"대차대조표와 손익계산서의 결과를 제공하는 <b>회계<\/b>시스템. 이것의 목적은 일정 기간에 취득한 확정계산과 기업자본의 소유나 운영상태를 채권자, 노동조합 등 외부의 이해관계자들에게 알리는 것이다. 이런... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>보고",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3546008&cid=42279&categoryId=42279",
+			"description":" <b>회계<\/b>보고란 기업의 <b>회계<\/b> 내역을 기록한 문서이다.  <b>회계<\/b>는 개인이나 기업 따위의 모든 경제 활동 상황을 일정한 계산 방법으로 기록하고 정보화하는 것을 말한다. 따라서 <b>회계<\/b>보고란 기업의 재정상태 및... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181607333_IC6WYQN61.jpg\/hb10_78612_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기업<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1071317&cid=40942&categoryId=31914",
+			"description":" 영리기업에서 행하고 있는 <b>회계<\/b>.  현대에 있어서의 기업<b>회계<\/b>의 중요한 목적은 기업의 재정상태 및 경영성적을 적정하게 보고하는 자료를 작성하는 데 있다. 재정상태를 나타내는 자료는 재산계산에 의하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>법인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=19598&cid=43659&categoryId=43659",
+			"description":"<b>회계<\/b> 및 세무 등의 업무를 조직적이고 전문적으로 수행하기 위해 설립된 법인으로 감사, 감정, 증명, 계산, 정리, 입안, 법인설립 등을 그 업무 내용으로 한다. 법인설립을 위해서는 공인<b>회계<\/b>사 10인 이상을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특별<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=779760&cid=42085&categoryId=42085",
+			"description":"국가가 특별사업을 시행하거나 특별자금의 운용 및 지출을 특별수입에 의존할 때 독립계정을 설치하여 일반<b>회계<\/b>와는 별도로 특별예산을 집행할 수 있으며 이를 특별<b>회계<\/b>라 한다. 예산이 객관성 및 명료성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>연도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=779889&cid=42085&categoryId=42085",
+			"description":"세입 · 세출의 수지상황을 명확히 하고 예산과 관련된 실적을 평가할 <b>회계<\/b>목적을 위해서 설정된 예산효력의 존속기간으로, 1년을 <b>회계<\/b>연도단위로 하는 것이 일반적이다. 역년(曆年)의 어느 때를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>문서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3608596&cid=42279&categoryId=42279",
+			"description":" <b>회계<\/b> 문서란 기업에서 <b>회계<\/b>에 대한 내용을 기재한 문서 전반을 이르는 말이다.  <b>회계<\/b> 문서란 기업 또는 기관 등에서 자금, <b>회계<\/b>에 대한 내용을 작성한 문서 전반을 이르는 말로, <b>회계<\/b> 문서를 작성할 때에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_16\/20170705143651126_4YH77Y9DF.jpg\/hb10_83344_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"일반<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1136619&cid=40942&categoryId=31838",
+			"description":" 국가·지방자치단체의 고유기능을 수행하는 예산<b>회계<\/b>.  특별<b>회계<\/b>와 대립되는 개념이다. 일반적 국가활동에 관한 세입(歲入)·세출(歲出)을 포괄하는 정부 <b>회계<\/b>의 기간(基幹)을 이룬다. 일반<b>회계<\/b>예산은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재무<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1138852&cid=40942&categoryId=31914",
+			"description":" 기업<b>회계<\/b> 중에서 외부보고를 목적으로 한 영역.  외부<b>회계<\/b>보고라고도 하여, 기업 내부에 대한 보고를 목적으로 하는 관리<b>회계<\/b>와 대비된다. 기업을 단위로 하는 계산체계이며, 기업<b>회계<\/b>의 영역에서는 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1108285&cid=40942&categoryId=31914",
+			"description":" 국민경제를 기업<b>회계<\/b>의 원리를 이용하여 나타내는 방식.  거시적 <b>회계<\/b>(巨視的會計) ·경제<b>회계<\/b> ·국민<b>회계<\/b> ·국민경제계산이라고도 한다. 사회<b>회계<\/b>는 다음의 5개 분야로 구성된다. ① 국민경제에서의 소비재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특별<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2063316&cid=50305&categoryId=50305",
+			"description":"특정한 지출을 목적으로 하는 예산이다. 특정 용도를 사전에 정해 놓은 돈이다. 재정투융자특별<b>회계<\/b> 군인연금특별<b>회계<\/b> 등이 대표적이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"일반<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=299745&cid=43665&categoryId=43665",
+			"description":" 일반적인 국가활동에 관한 세입 · 세출을 포괄하는 <b>회계<\/b>를 말한다.  일반적인 국가활동에 관한 세입 · 세출을 포괄하는 <b>회계<\/b>를 말한다. 국가 예산은 보통 일반<b>회계<\/b> 예산을 지칭한다. 이러한 일반<b>회계<\/b> 예산은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특별<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=299935&cid=43665&categoryId=43665",
+			"description":" 국가의 <b>회계<\/b> 중 특정한 세입으로 특정한 세출을 충당하는 것을 말한다.  국가의 <b>회계<\/b> 중 특정한 세입으로 특정한 세출을 충당하는 것을 말한다. 특별<b>회계<\/b>는 특정한 사업을 운영할 때, 특정한 자금을 보유하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일반<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=8501&cid=43659&categoryId=43659",
+			"description":"국가의 가장 기본적인 <b>회계<\/b>로 국가에서 공공사업, 사회보장, 교육, 외교, 방위 등 일반행정을 추진하는 데 필요한 경비를 처리하는 <b>회계<\/b>이다. 조세수입, 국채발행 등을 재원으로 한다. 국가재정의 세입세출은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>검사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=78561&cid=42155&categoryId=42155",
+			"description":" 예산집행에서의 수지의 결말에 관한 사실을 확인하기 위해 <b>회계<\/b>의 기록과 장부 등을 체계적으로 검사하는 행위를 말한다. 즉 <b>회계<\/b>검사란 <b>회계<\/b> 체제(accounting system)의 정확성을 검증하고, 나아가서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기업<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2684&cid=43659&categoryId=43659",
+			"description":"기업경영의 성과인 손익계산과 재정 상태를 일정한 방법에 의하여 기록, 계산하는 <b>회계<\/b>를 말한다. 즉 기업의 경영활동에 대하여 <b>회계<\/b>이론을 바탕으로 한 계정형식을 사용하여 계수를 기록·계산·정리·보고하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소비<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1113905&cid=40942&categoryId=31836",
+			"description":" 국가·지방자치단체를 비롯한 비영리목적의 여러 단체 및 가계의 <b>회계<\/b>.  소비<b>회계<\/b>는 영리를 목적으로 하는 기업의 생산<b>회계<\/b>와 구별된다. 이 <b>회계<\/b>는 비교적 단순한 <b>회계<\/b>로 현금의 출납 및 현재 잔액의 계속적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재특<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=299121&cid=50304&categoryId=50304",
+			"description":"재정융자특별<b>회계<\/b>법에 따라 정부가 국민복지 향상과 주요산업의 지원에 필요한 자금을 대여할 목적으로 설치되어 재정경제부 장관이 관리ㆍ운용하는 재정융자특별<b>회계<\/b>의 약어이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>서식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1832301&cid=42279&categoryId=42279",
+			"description":" <b>회계<\/b>업무 처리에 사용되는 각종 문서.  <b>회계<\/b>서식이란 각종 <b>회계<\/b> 업무를 처리하는 데 필요한 문서 양식을 말한다. <b>회계<\/b>서식은 지출결의서, 손익계산서, 대차대조표, 금전출납부, 거래명세표 등 그 종류가 매우... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128214256413_9PRK8099D.jpg\/hb10_4858_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>장부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1832305&cid=42279&categoryId=42279",
+			"description":" <b>회계<\/b> 거래 내역을 기록한 문서.  <b>회계<\/b>장부란 기업 활동에서 발생하는 <b>회계<\/b> 상의 거래를 기록, 정리하기 위한 문서로서, 재무제표의 기초가 되는 <b>회계<\/b> 자료라 할 수 있다. <b>회계<\/b>장부는 날짜별로 관, 항, 목의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20220602171823692_RRZ8FQB7V.jpg\/hb10_4862_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>감사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155821&cid=40942&categoryId=31914",
+			"description":" 독립의 제3자가 타인이 작성한 <b>회계<\/b>기록을 검토하고 <b>회계<\/b>기록의 적부 또는 정부에 대하여 비판적인 의견을 제시하는 일.  감사의 일종으로 넓은 뜻의 경영감사 또는 업무감사에 포함되나 일반적으로 감사라고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>서류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3334386&cid=51373&categoryId=51373",
+			"description":" 현금 지출 및 입금내역을 정리할 수 있는 <b>회계<\/b> 서류 서식.  <b>회계<\/b>는 나가고 들어오는 돈을 확인하여 계산하는 것을 뜻한다. <b>회계<\/b> 서류는 기업이나 기관 및 단체에서 재정상황이나 경영에 대한 것들을 기록하고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209161250480_FJP3Q2X5Q.jpg\/ba17_38070.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2098113&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] <b>회계<\/b>학(會計學, accounting)은 사회적·역사적 산물이라는 특성과 함께 시대와 지역에 따라 내용, 범위가 계속 변하기 때문에 완벽하게 정의를 내리는 것은 쉽지 않다. 그럼에도 불구하고 간단히... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140612165907515_6F1SA2PV2.jpg\/z5_term91_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%9A%8C%EA%B3%84%EC%82%AC",
+			"description":"<b>회계<\/b>사 (會計士)는 <b>회계<\/b> 실무 종사자이며, 경영자와 투자자, 과세 당국 등 의사 결정에 관련된 사람들이 자원 배분시 필요로 하는 재정 상황에 관한 조사, 공개 인증서 작성 등을 담당하는 사람이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"분식<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1208357&cid=40942&categoryId=31914",
+			"description":" 기업이 재정 상태나 경영 실적을 실제보다 좋게 보이게 할 목적으로 부당한 방법으로 자산이나 이익을 부풀려 계산하는 <b>회계<\/b>.  분식결산(粉飾決算)이라고도 한다. 기업이 자산이나 이익을 실제보다 부풀려... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>연도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=299985&cid=43665&categoryId=43665",
+			"description":" <b>회계<\/b>상의 정리기술 면에서 편의에 따라 일정한 기간을 정하고 그 수지상황을 명확히 하는 예산의 기간적 단위를 말한다.  <b>회계<\/b>상의 정리기술 면에서 편의에 따라 일정한 기간을 정하고 그 수지상황을 명확히... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일반<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=930258&cid=43667&categoryId=43667",
+			"description":" 정부가 일반행정을 추진하기 위해 필요한 예산을 처리하는 <b>회계<\/b>.  | 외국어 표기 | General Account(영어) 一般會計(한자) | 정부가 공공사업ㆍ사회보장ㆍ교육ㆍ외교ㆍ국방 등 일반행정을 추진하는 데 필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>군",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%9A%8C%EA%B3%84%EA%B5%B0",
+			"description":"<b>회계<\/b>군 (會稽郡)은 진·한시대에 설치한 중국의 옛 군이다. 동쪽으로 황해를 접했다. 이름은 <b>회계<\/b>산에서 따왔다. 진나라 춘추전국시대에는 오나라와 월나라의 땅이었다. 오나라는 월나라에 병탄당했고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>감사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3334382&cid=51373&categoryId=51373",
+			"description":" <b>회계<\/b>감사에 대한 결산 내역을 정리한 사항 및 의견으로 구성되어 있는 서식.  <b>회계<\/b>는 나가고 들어오는 돈을 확인하여 계산하는 것을 뜻하고, <b>회계<\/b>감사는 <b>회계<\/b>업무에 대한 기록이나 재무제표의 내용이 올바른지... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209161242156_1YAJ0PO6B.jpg\/ba17_38065.jpg?type=m160_160"
+		},
+		{
+			"title":"세무<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1113042&cid=40942&categoryId=31836",
+			"description":" 기업의 소득에 대한 과세를 목적으로 하는 세법(법인세법 ·소득세법 등)의 규정에 따라 과세소득을 계산하기 위한 <b>회계<\/b>실무.  세무<b>회계<\/b>는 상법, ‘상장법인 등의 <b>회계<\/b>처리에 관한 규칙’, ‘기업<b>회계<\/b>기준’... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관리<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1064412&cid=40942&categoryId=31914",
+			"description":" 기업이 관리를 실천함에 있어 각 계층(top ㆍmiddle ㆍlow line)의 관리자가 수행하는 경영관리활동에 대하여 <b>회계<\/b>적 방법을 통해 기하는 계수적 수단.  관리<b>회계<\/b>는 특히 내부보고(內部報告)를 목적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>산",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1986040&cid=43740&categoryId=44171",
+			"description":"<b>회계<\/b>산은 현대 지도 뿐만 아니라 조선시대 산청의 지리지나 군현지도에도 위치 정보가 일치하지 않아서 정확한 현 소재지의 비정에 어려움이 있다. 『1872년지방지도』(산청) 등의 군현지도를 근거해 볼 때는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2355_000_1\/20130207145035342_WSR7LIYN3.jpg\/2845_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"분식<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=299544&cid=43665&categoryId=43665",
+			"description":" 회사의 실적을 좋게 보이도록 하기 위해 회사 자산이나 이익을 <b>회계<\/b>처리 기준에 어긋나는 방법으로 처리해 사실과 다른 재무제표를 만드는 것을 의미한다.  회사의 실적을 좋게 보이도록 하기 위해 회사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>산",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1322703&cid=40942&categoryId=33147",
+			"description":"고려시대 범곡(凡谷)이 호계(虎溪)로 바뀌고 나중에 <b>회계<\/b>로 발음되었다. 이에 호계동 뒷산을 <b>회계<\/b>산으로 불렀다. 복모음이 겹홀소리와 결합한 구조인 <b>회계<\/b>를 경상남도 양산 지역민들이 발음하기 어려워... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공업<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063534&cid=40942&categoryId=31914",
+			"description":" 기계 ·설비 ·노동력 등을 이용하여 사들인 원료를 제품으로 만들고, 그 제품을 판매하여 이익을 얻으려는 영리조직체의 경제활동에 관한 정보를 수집 ·측정 ·보고하는 <b>회계<\/b>.  일반적인 상적(商的) 기업은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155825&cid=40942&categoryId=33383",
+			"description":"1894년(고종 31) 설치하여 <b>회계<\/b>사(會計司)라 하다가, 1895년에 이 이름으로 고쳐서 경(卿:勅任官) ·주사(主事:判任官)를 두고, 출납사(出納司) ·검사사(檢査司) ·금고사(金庫司)로 나누어 사무를 맡았는데, 각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"리스<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3781&cid=43659&categoryId=43659",
+			"description":"각 국에서 기업금융의 한 형태로 리스 이용이 늘어나고 있는데 이에 따른 <b>회계<\/b>처리 방법을 말한다. 미국에서는 FASB(재무<b>회계<\/b>기준심의회) 기준서 제13호로 상세히 정하고 있어 일반적인 설비 리스의 형태인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"환경<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=17922&cid=43659&categoryId=43659",
+			"description":"미 IBM 등이 시작한 환경<b>회계<\/b>는 경영자의 경영 자료로서, 소비자와 투자가의 새로운 기업평가 지표로 자리잡고 있다. 환경<b>회계<\/b>의 정확한 집계와 공개가 기업의 경쟁력과 직결될 가능성이 높아지고 있는 것이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"분식<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5069&cid=43659&categoryId=43659",
+			"description":"이렇게 분식<b>회계<\/b>를 통해 그 기업의 가치를 실제보다 부풀리고 투자자들은 그 가치를 믿고 투자를 했다가 손해를 보게 된다. 분식<b>회계<\/b>가 일어나는 이유는 우선 자금 차입이 쉬워질 뿐만 아니라 금융 비용을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>거래",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2067556&cid=42107&categoryId=42107",
+			"description":"단, 재화·서비스 구매 공급 시에는 계약 당시가 기준이 아니라 실제 재화·서비스를 받거나 제공했을 때 <b>회계<\/b>장부에 기록된다. 즉 계약 단계에서는 <b>회계<\/b> 거래로 인식되지 않는다는 것이다. 현행 부가가치세법은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=571265&cid=46622&categoryId=46622",
+			"description":"[내용] 서울과 지방의 각 관청에 비축된 미곡·포(布)·전(錢) 등의 연도별 <b>회계<\/b>, 관리 교체 때 맡은 물건의 휴흠(虧欠 : 정수 부족의 유무를 밝히는 일)을 살펴 해유(解由 : 관원을 교체할 때 전임자의 책임을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>연도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062995&cid=42107&categoryId=42107",
+			"description":"우리나라는 1월1일부터 12월31일까지를 1<b>회계<\/b>연도로 삼지만 영국이나 일본은 4월1일, 미국은 10월1일부터 시작하여 1년을 한 <b>회계<\/b>연도로 하고 있다. 이는 재정의 수지상황을 명확히 하고 그 실적을 평가해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관리<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2061082&cid=50305&categoryId=50305",
+			"description":"재무<b>회계<\/b>기록을 기본자료로 이용하여 더 나은 경영계획이나 의사결정을 가능하게 하는 시스템. 의사결정계획과 통제를 돕도록 설계된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=571266&cid=46623&categoryId=46623",
+			"description":"[내용] 1894년 갑오경장 때 군국기무처의 의안(議案)에 의하여 설치된 <b>회계<\/b>사(會計司)를 이듬해 개칭한 기관이다. 관원으로 칙임관(勅任官)인 경(卿) 1인과 그 아래 판임관(判任官) 1인, 주사 1인을 두고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b> 문서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3334385&cid=51373&categoryId=51373",
+			"description":" <b>회계<\/b>에 대한 내용을 작성하는 <b>회계<\/b> 문서 서식.  <b>회계<\/b> 문서는 기업에 대한 이해관계를 가지기 위해 작성하는 경우가 있다. 이해관계를 가지는 것은 개개인 혹은 그룹을 뜻하며 주주, 하청업체, 소비자 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209161249021_BR4YHK8XH.jpg\/ba17_38068.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>기간",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=12104&cid=43659&categoryId=43659",
+			"description":"인위적으로 6개월 또는 1년 등으로 적당히 구분한다. 또한 이것을 사업년도·<b>회계<\/b>년도라고도 말한다. 현행 상법에서는 상인은 1년에 1회 이상 결산을 하도록 규정하고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>단위",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=12107&cid=43659&categoryId=43659",
+			"description":"기업주 개인 기계와 엄격히 구별하여 기업의 입장에서만 한정하여 기록 계산 정리하여야 한다는 것이다. 기업은 경우에 따라서 본점과 지점·본사와 공장을 구별하여 각각 하나의 <b>회계<\/b>단위로 할수도 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b> 연도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=78563&cid=42155&categoryId=42155",
+			"description":"현재 거의 모든 나라가 1년을 <b>회계<\/b>연도로 하고 있지만 그 시기는 나라에 따라 차이를 나타내고 있다. 우리나라의 ‘국가재정법’ 제2조는 정부와 지방자치단체의 <b>회계<\/b>연도를 매년 1월 1일에 시작해 동년 12월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>책",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6361203&cid=51293&categoryId=51293",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226085022677_D567SRPK6.jpg\/PS01001001016009.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>초",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6293276&cid=51293&categoryId=51293",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226111231675_GAHOV0W9G.jpg\/PS01001001016008.jpg?type=m160_160"
+		},
+		{
+			"title":"공인<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3579888&cid=58886&categoryId=58886",
+			"description":"잘못된 점이 있는 지 잘 봐주십시오.” (제조업체 A사 재무담당 이 모 상무) “잘 부탁드릴 쪽은 저희죠.” (딜로이트안진<b>회계<\/b>법인 김병근 <b>회계<\/b>사) 제조업체인 A사 15층 회의실. 올해 처음으로 이 회사의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118184748642_8X5W3DP2P.jpg\/01_445.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926303&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>회계<\/b>사무원은 기업에서 이루어지는 수입 및 지출 등 모든 거래 사항을 기록ㆍ정리하고 기업의 경제적 상태를 나타내기 위한 <b>회계<\/b> 보고서를 작성한다. 손익예상과 결산업무를 하며, 주요 장부의 기장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공인<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=523624&cid=46630&categoryId=46630",
+			"description":" 다른 사람의 위촉에 의하여 <b>회계<\/b>에 관한 감사·감정·증명·계산·정리·입안, 또는 법인설립에 관한 <b>회계<\/b>와 세무대리 등의 업무를 수행하는 <b>회계<\/b>전문인. [내용] 공인<b>회계<\/b>사제도의 변천과정을 보면 우리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예산<b>회계<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=77209&cid=42155&categoryId=42155",
+			"description":" 1961년 12월 19일 공포된 국가의 예산과 <b>회계<\/b>에 관한 기본법으로 2006년 국가재정법의 제정으로 폐지되었다. 예산<b>회계<\/b>법은 통일국고주의·예산<b>회계<\/b>주의·<b>회계<\/b>연도 독립의 원칙 등을 채택한 점에서는 기존의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>라운드",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062992&cid=42107&categoryId=42107",
+			"description":"<b>회계<\/b>라운드는 각 나라의 <b>회계<\/b>지준을 통일하여 국제비교가 가능토록 하자는 것으로, 국제증권감독기구(IOSC)가 통일된 국제<b>회계<\/b>기준 제정작업을 진행하고 있다. 어느 나라나 상장기업에 대해서는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>결의서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437686&cid=42279&categoryId=42279",
+			"description":" <b>회계<\/b>결의서란 회사에서 <b>회계<\/b>와 관련하여 결의한 내용을 기재한 문서이다.  <b>회계<\/b>란 경제 주체의 경제활동에 관해 경제적 변동 상황을 일정한 계산 방법으로 기록하고 정보화하는 일을 의미하며, 정보의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902182524310_LI0ZPRO6N.jpg\/hb10_72803_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"공인<b>회계<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063611&cid=40942&categoryId=31850",
+			"description":" 타인의 위촉에 의하여 <b>회계<\/b>에 관한 감사·감정·증명·계산·정리·입안 또는 법인설립에 관한 <b>회계<\/b>와 세무 대리를 직무로 하는 자로서 공인<b>회계<\/b>사법에 의한 자격을 얻은 자.  1966년 8월 31일 이전에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기계화<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070633&cid=40942&categoryId=31914",
+			"description":" <b>회계<\/b>정리를 자동기계에 의하여 처리하는 방식.  좁은 뜻으로는 복식부기의 처리(분개 ·원장 기록 ·보조부의 작성, 결산 제표의 작성 등)가 기계화된 것을 가리키며 기계부기(機械簿記)라고도 한다. 그러나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>이력서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3384476&cid=42279&categoryId=42279",
+			"description":" <b>회계<\/b>이력서란 <b>회계<\/b>관련직에 지원하기 위해 개인의 학력이나 경력 등의 정보를 작성한 서식이다.  이력이란 지금까지 거쳐온 학업, 직업, 경험 등의 내력으로, 이를 기록해 채용을 원하는 업체 등에 제출하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510123059922_KLWELG84L.jpg\/hb10_23445_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>회계<\/b>라운드",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1847084&cid=40942&categoryId=31863",
+			"description":" 1990년대 중반, 국제적 경제교류가 확대됨에 따라 국제<b>회계<\/b>를 표준화할 목적으로 등장한 논의이다.  영문 약칭은 AR(Account Round)이다. 1990년대 중반, 국제적 경제교류가 확대되고 각국의 기업이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>상거래",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2067287&cid=42107&categoryId=42107",
+			"description":"보통 거래라 하면 개인 간이나 회사 간에 특정한 목적으로 이뤄지는 약정 등을 의미하나, <b>회계<\/b>상에서의 거래는 회사 재산상의 증감 사항을 가져오는 사건을 뜻한다. <b>회계<\/b>상 거래로 인식되기 위해서는 △회사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>회계<\/b>라운드",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=930070&cid=43667&categoryId=43667",
+			"description":" 범세계적인 기업<b>회계<\/b>의 기준을 통일하기 위한 새로운 라운드.  | 외국어 표기 | account round(영어) | | 약어 | AR | 기업<b>회계<\/b>기준을 범세계적으로 통일시키자는 논의가 구체화되면서 급부상한, 국제증권감독기구... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이디피<b>회계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1134435&cid=40942&categoryId=31914",
+			"description":" 컴퓨터 <b>회계<\/b>.  EDP는 'electronic data processing'의 약자이다. 종래에 손이나 수동식 또는 전동식 계산기를 이용하였던 <b>회계<\/b>계산의 프로세스 중 전부 또는 일부를 컴퓨터, 즉 데이터 처리장치로 하는 것을... ",
+			"thumbnail":""
+		}
+	]
+}

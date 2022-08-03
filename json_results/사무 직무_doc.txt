@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:03 +0900",
+	"total":4440,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"중소기업 <b>사무<\/b>직 근로자의 기초경영<b>사무 직무<\/b> 및 교육요구 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=585213858",
+			"description":"Analysis of basic business &amp; office work and educational needs of office workers in SMEs 이 연구는 중소기업 <b>사무<\/b>직 근로자"
+		},
+		{
+			"title":"중소기업 <b>사무<\/b>직 근로자의 기초경영<b>사무 직무<\/b> 및 교육요구 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846342567",
+			"description":"Analysis of Basic Business &amp; Office Work and Educational Needs of Office Workers in SMEs 이 연구는 중소기업 <b>사무<\/b>직 근로자"
+		},
+		{
+			"title":"중소기업 <b>사무<\/b>직 근로자의 기초경영<b>사무 직무<\/b> 및 교육요구 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561199876",
+			"description":"Analysis of Basic Business &amp; Office Work and Educational Needs of Office Workers in SMEs 이 연구는 중소기업 <b>사무<\/b>직 근로자"
+		},
+		{
+			"title":"NCS비서<b>사무<\/b>행정 <b>직무<\/b>수행능력향상을 위한 70:20:10 ARCS-Gamification 교수·학",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442066443",
+			"description":"Development and Application of 70:20:10 ARCS-Gamification Model for Job Performance Competency of National Competency Standards 본 연"
+		},
+		{
+			"title":"NCS를 활용한 <b>사무<\/b>행정 <b>직무<\/b>의 실천지능검사 도구 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290176422",
+			"description":"A Study on the Development of the Practical Intelligence Test for Administrative Job using NCS 이 연구의 목적은 <b>사무<\/b>행정 직"
+		},
+		{
+			"title":"NCS비서<b>사무<\/b>행정 <b>직무<\/b>수행능력향상을 위한 70:20:10 ARCS-Gamification 교수·학",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880383442",
+			"description":"Development and Application of 70:20:10 ARCS-Gamification Model for Job Performance Competency of National Competency Standards 본 연"
+		},
+		{
+			"title":"개인-환경 적합성이 NCS<b>사무<\/b>행정 <b>직무<\/b>종사자의 혁신적 업무행동에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290176388",
+			"description":"Study on the Effects of the Person-Environment Fit on the Innovative Work Behavior of NCS Office Administration Job Workers - Focusing "
+		},
+		{
+			"title":"NCS를 활용한 <b>사무<\/b>행정 <b>직무<\/b>의 실천지능검사 도구 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880867004",
+			"description":"A Study on the Development of the Practical Intelligence Test for Administrative Job using NCS 이 연구의 목적은 <b>사무<\/b>행정 직"
+		},
+		{
+			"title":"<b>사무<\/b>행정 <b>직무<\/b> NCS의 중요도 분석 및 전문대학에서의 활용 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=233169623",
+			"description":"The Importance Analysis of NCS on Administrative Job for Developing and Implementing a Curriculum in Colleges 이 연구는 계층적 "
+		},
+		{
+			"title":"<b>직무<\/b>수행지침에 기반한 자기관리전략 교수가 특수학교 전공과 발달장애",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890470547",
+			"description":" 특수교육의 궁극적인 목적은 ‘장애학생이 자아실현과 사회통합을 이루는 것’으로, 이를 위해 학교"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868569131",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=848410933",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862873174",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896533863",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868657627",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886766866",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871610968",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882647821",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886751473",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874379702",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890744885",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875546380",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891242134",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=848397762",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897392230",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875315091",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890562598",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889841305",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873714697",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890995074",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881927235",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873206316",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888623013",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=848403579",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898396928",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890354368",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886349660",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887912188",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875462575",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898316130",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886902123",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888015844",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884670689",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897479226",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889141571",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890937481",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881352699",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877608555",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887428395",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"(2020년) 사학기관 <b>사무<\/b>직원 <b>직무<\/b>연수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875197039",
+			"description":"  표제지\n목차\nI. 2019학년도 사립학교회계 결산 지침 4\n 1. 결산의 의의 5\n 2. 결산의 운용 방향 5\n 3. 결산"
+		},
+		{
+			"title":"개인-환경 적합성이 NCS<b>사무<\/b>행정 <b>직무<\/b>종사자의 혁신적 업무행동에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880564864",
+			"description":" 본 연구는 NCS<b>사무<\/b>행정 <b>직무<\/b> 종사자 161명을 대상으로 다중회귀분석, 매개효과 검정기법을 사용하여NCS"
+		},
+		{
+			"title":"자치경찰<b>사무<\/b> 담당 경찰관의 <b>직무<\/b>만족에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884860722",
+			"description":"Factors Affecting Job Satisfaction of Police Officers in Charge of Autonomous Police Affairs 자치경찰제 시행 이후 많은 논"
+		},
+		{
+			"title":"자치경찰<b>사무<\/b> 담당 경찰관의 <b>직무<\/b>만족에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884860672",
+			"description":"Factors Affecting Job Satisfaction of Police Officers in Charge of Autonomous Police Affairs 자치경찰제 시행 이후 많은 논"
+		},
+		{
+			"title":"NCS <b>사무<\/b>행정 및 마케팅 <b>직무<\/b>역량이 사회혁신기업의 지속가능성에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=530014681",
+			"description":"NCS office administration and marketing job competence Impact on the Sustainability of Social Innovation Firms 본 연구는 우리나"
+		},
+		{
+			"title":"세계 전자의회 컨퍼런스, 전자강국 모습 보일 절호의 기회 : 임병규 국회",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78430255",
+			"description":"  목차\n세계 전자의회 컨퍼런스, 전자강국 모습 보일 절호의 기회 : 임병규 국회<b>사무<\/b>총장 <b>직무<\/b>대리 〈"
+		},
+		{
+			"title":"자치경찰<b>사무<\/b> 담당 경찰관의 <b>직무<\/b>만족에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877227645",
+			"description":"Factors Affecting Job Satisfaction of Police Officers in Charge of Autonomous Police Affairs The purpose of this study is to identify d"
+		},
+		{
+			"title":"사립학교 <b>사무<\/b>직원 <b>직무<\/b>연수 교재 (私立學校 事務職員 職務硏修 敎材)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41734654",
+			"description":"  목차\n[표제지]=0,1,1\n사도헌장=0,2,1\n목차=i,3,1\n소양=1,4,2\n 특강\/김영식=3,6,2\n 교육행정직의 역할\/김택균=5,"
+		},
+		{
+			"title":"경영ㆍ<b>사무<\/b>분야 <b>직무<\/b>체계 개발 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=75522641",
+			"description":"Study on the development of national skill framwork in management and business affairs The purpose of this paper falls into the develop"
+		},
+		{
+			"title":"전문대학의 조직문화와 <b>사무<\/b>직원 <b>직무<\/b> 만족도와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79989331",
+			"description":" 조직문화에 기초로 한 전문대학 문화는 전문대학을 단위로 한 작은 체제 속에 기반을 두고 있다. 아"
+		},
+		{
+			"title":"사립대학 <b>사무<\/b>직원의 <b>직무<\/b>만족도에 관한 연구 (私立大學 事務職員의 職",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9189353",
+			"description":"  국문목차\n표제지 = 0,1,3\n목차 = ⅰ,4,1\n표목차 = ⅱ,5,1\n도목차 = ⅱ,5,1\nⅠ. 서론 = 1,6,1\n 1. 연구의 필요성 ="
+		},
+		{
+			"title":"사립대학 <b>사무<\/b>직원의 <b>직무<\/b>만족에 관한 연구 : 부산광역시 소재 사립대학",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10935980",
+			"description":"   교육행재정, 사립대학교, 대학행정, <b>사무<\/b>직원, <b>직무<\/b>만족 "
+		},
+		{
+			"title":"<b>사무<\/b>직원의 <b>직무<\/b>수행에 대한 교원의 인식도에 관한 연구 (事務職員의 職",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9048360",
+			"description":"  국문목차\n표제지 = 0,1,4\n목차 = i,5,2\n표목차 = iii,7,1\nⅠ. 서론 = 1,8,1\n 1. 연구의 필요성 = 1,8,1\n 2. 연구의 "
+		},
+		{
+			"title":"전문대학 <b>사무<\/b>직원의 <b>직무<\/b>만족에 관한 연구 (專門大學 事務職員의 職務",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9094756",
+			"description":"  국문목차\n표제지 = 0,1,3\n감사의 글 = 0,4,1\n목차 = i,5,1\n그림·표목차 = ii,6,2\n제1장 서론 = 1,8,1\n 제1절 연구"
+		},
+		{
+			"title":"사립대학 <b>사무<\/b>직원의 <b>직무<\/b>만족도에 관한 연구 : 강원지역 사립대학을 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9269450",
+			"description":"  국문목차\n표제지=0,1,3\n감사의 글=0,4,1\n목차=i,5,2\n표차례=iii,7,2\n그림차례=v,9,1\n국문요약=vi,10,2\n제1장. 서"
+		},
+		{
+			"title":"고등학교 <b>사무<\/b>직원의 <b>직무<\/b>수행과 역할 갈등 및 역할모호성과의 관계연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=8988494",
+			"description":"  국문목차\n표제지 = 0,1,1\n목차 = i,2,2\n표목차 = iii,4,1\n도목차 = iii,4,1\nⅠ. 서론 = 1,5,1\n A. 연구의 필요성 및"
+		},
+		{
+			"title":"<b>사무<\/b>자동화가 <b>직무<\/b>에 미치는 영향에 관한 실증 연구 (事務自動化가 職務",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17352024",
+			"description":"   <b>사무<\/b>자동화, <b>직무<\/b>, 영향, 실증 "
+		},
+		{
+			"title":"종합병원 <b>사무<\/b>직원의 <b>직무<\/b> 만족도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=8903671",
+			"description":"   병원, <b>사무<\/b>직원, <b>직무<\/b>만족도, 종합병원, <b>직무<\/b>만족 "
+		},
+		{
+			"title":"금융기관 <b>사무<\/b>자동화의 <b>직무<\/b>만족도에 관한 연구 (金融機關 事務自動化",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9193016",
+			"description":"  국문목차\n표제지 = 0,1,4\n국문초록 = i,5,2\n목차 = iii,7,2\n표목차 = v,9,1\n그림목차 = vi,10,1\n제1장 서론 = 1,11,1"
+		},
+		{
+			"title":"<b>사무<\/b> 종사자의 차별경험이 <b>직무<\/b>열의에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=753256528",
+			"description":"The Effect of Discrimination Experience on Job Engagement in Office Workers 본 연구는 <b>사무<\/b> 종사자를 대상으로 일반적 "
+		},
+		{
+			"title":"전문대학 <b>사무<\/b>직원의 <b>직무<\/b>만족과 조직유효성에 관한 연구 (專門大學 事",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9187988",
+			"description":"  국문목차\n표제지 = 0,1,2\n감사의 글 = 0,3,1\n목차 = ⅰ,4,2\n표목차 = ⅲ,6,1\n그림목차 = ⅳ,7,1\n제1장 서론 = 1,8"
+		},
+		{
+			"title":"전문대학 <b>사무<\/b>직원의 <b>직무<\/b>행태에 관한 연구 (專門大學 事務職員의 職務",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9060179",
+			"description":"  국문목차\n표제지 = 0,1,3\n목차 = 1,4,2\n표목차 = 3,6,4\nⅠ. 서 론 = 7,10,1\n 1. 연구의 필요성 = 7,10,4\n 2. 연구의 "
+		},
+		{
+			"title":"학교<b>사무<\/b>직원의 <b>직무<\/b>만족도 분석 (學校事務職員의 職務滿足度 分析)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9002795",
+			"description":"  국문목차\n표제지 = 0,1,2\n목차 = i,3,3\n영문초록 = v,6,3\n제1장 서론 = 1,9,1\n 제1절 문제제기와 연구목적 = 1,9"
+		},
+		{
+			"title":"NCS <b>사무<\/b>행정 및 마케팅 <b>직무<\/b>역량이 사회혁신기업의 지속가능성에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878009322",
+			"description":" 본 연구는 우리나라의 사회혁신기업을 대상으로 NCS <b>사무<\/b>행정 및 마케팅 <b>직무<\/b>역량이 지속가능성에 미"
+		},
+		{
+			"title":"NCS <b>사무<\/b>행정 및 마케팅 <b>직무<\/b>역량이 사회혁신기업의 지속가능성에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846714535",
+			"description":"NCS office administration and marketing job competence Impact on the Sustainability of Social Innovation Firms 본 연구는 우리나"
+		},
+		{
+			"title":"대학 <b>사무<\/b>직원의 <b>직무<\/b>만족에 관한 연구 (大學 事務職員의 職務滿足에 關",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=8864113",
+			"description":"  국문목차\n표제지 = 0,1,2\n목차 = 1,3,2\n표목차 = 4,6,1\n도목차 = 3,5,1\n제１장 서론 = 5,7,1\n 제１절 연구의 목"
+		},
+		{
+			"title":"제조업체 <b>사무<\/b>. 관리직 <b>직무<\/b>순환제도의 개선방안 (製造業體 事務. 管理",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9069269",
+			"description":"  국문목차\n표제지 = 0,1,3\n감사의 글 = 0,4,1\n목차 = ⅰ,5,3\n표목차 = ⅳ,8,1\n그림목차 = ⅴ,9,1\n제1장 서론 = 1,1"
+		},
+		{
+			"title":"사립대학 <b>사무<\/b>직원의 <b>직무<\/b>만족에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879758129",
+			"description":""
+		},
+		{
+			"title":"<b>사무<\/b>자동화가 <b>직무<\/b>에 미치는 영향에 관한 연구 (事務自動化가 職務에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79280592",
+			"description":"(A) Study of The Impact in Their Jobs by Adopting on Office Automation The purpose of this study is to prove that the implementation of"
+		},
+		{
+			"title":"<b>사무<\/b>자동화에 따른 <b>직무<\/b>만족도에 관한 연구 (事務自動化에 따른 職務滿",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9074019",
+			"description":"  국문목차\n표제지 = 0,1,2\n사사 = 0,3,1\n목차 = 0,4,1\n표목차 = 0,5,1\n그림목차 = 0,6,1\n제1장 서론 = 1,7,1\n 제1절 "
+		},
+		{
+			"title":"경력단절여성의 <b>직무<\/b>교육이 창업과 재취업에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=80043006",
+			"description":"(A)study on the influence of career-interrupted women&apos;s job training on business start-up and re-employment : 창업, 재무, <b>사무<\/b>자"
+		},
+		{
+			"title":"사립대학 <b>사무<\/b>직원의 <b>직무<\/b>만족에 관한 연구 - 부산광역시 소재 사립대학",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845947420",
+			"description":""
+		},
+		{
+			"title":"대구·경북지역 사립대학 <b>사무<\/b>직원의 <b>직무<\/b>만족 결정요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79794446",
+			"description":"The study of the critical factors concerning the office workers&apos; satisfaction at private colleges in Daegu and Gyungbuk province  표"
+		},
+		{
+			"title":"NCS <b>사무<\/b>행정 및 마케팅 <b>직무<\/b>역량이 사회혁신기업의 지속가능성에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=607089926",
+			"description":"NCS office administration and marketing job competence Impact on the Sustainability of Social Innovation Firms 본 연구는 우리나"
+		},
+		{
+			"title":"사립대학 <b>사무<\/b>직원의 <b>직무<\/b>만족도에 관한 연구 : 강원지역 사립대학을 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79350338",
+			"description":"(A) study on the job satisfaction for private university employees in Korea 본 연구는 우리나라 사립대학의 <b>사무<\/b>직원의 "
+		},
+		{
+			"title":"<b>사무<\/b>혁신이 <b>직무<\/b>성과에 미치는 영향 : P사의 <b>사무<\/b>혁신을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79564250",
+			"description":"Influence of Innovation of Business upon Work Accomplishment : Business renovation of P companies in center The object of this study is"
+		},
+		{
+			"title":"사립대학 <b>사무<\/b>직원의 <b>직무<\/b>만족도에 관한 조사연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=309100168",
+			"description":"   <b>직무<\/b>만족도 "
+		},
+		{
+			"title":"종합병원 <b>사무<\/b>직원의 <b>직무<\/b> 만족도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594183212",
+			"description":""
+		},
+		{
+			"title":"종합병원 <b>사무<\/b>직원의 <b>직무<\/b> 만족도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594183212",
+			"description":""
+		},
+		{
+			"title":"사립대학 <b>사무<\/b>직원의 <b>직무<\/b>만족에 관한 실증적 연구 : 대전지역권 대학을",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79728517",
+			"description":"A STUDT ON THE JOB SATISFACTION OF CLERKS IN THE PRIVATE UNIVERSITY  목차\n第1章 序論 = 1\n 第1節 硏究의 目的 = 1\n 第2節 "
+		},
+		{
+			"title":"<b>사무<\/b> 종사자의 차별경험이 <b>직무<\/b>열의에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873381919",
+			"description":"The Effect of Discrimination Experience on Job Engagement in Office Workers 본 연구는 <b>사무<\/b> 종사자를 대상으로 일반적 "
+		},
+		{
+			"title":"전문대학 <b>사무<\/b>직원의 <b>직무<\/b>만족과 조직유효성에 관한 연구 (專門大學 事",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79337015",
+			"description":""
+		},
+		{
+			"title":"전문대학 <b>사무<\/b>직원의 <b>직무<\/b>행태에 관한 연구 (專門大學 事務職員의 職務",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=309094567",
+			"description":"A study on the performance behaviors of classified personnel in junior colleges    "
+		},
+		{
+			"title":"<b>사무<\/b>직원의 <b>직무<\/b>수행에 대한 교원의 인식도에 관한 연구 (事務職員의 職",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79318127",
+			"description":" First, for satisfaction of personal relation between teachers &amp; administrative staffs, male teachers, national &amp; public school teacher"
+		},
+		{
+			"title":"<b>사무<\/b>자동화가 은행원의 <b>직무<\/b>만족도에 미치는 영향: 단순 <b>사무<\/b>기기 사용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79223516",
+			"description":"  국문목차\n표제지 = 0,1,3\n감사의 글 = 0,4,1\n목차 = ⅰ,5,2\n그림목차 = ⅲ,7,1\n표목차 = ⅳ,8,1\n제1장 서론 = 1,9"
+		},
+		{
+			"title":"대학<b>사무<\/b>직원의 <b>직무<\/b>만족에 관한 연구 : 전남대학교 <b>사무<\/b>직원을 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79977121",
+			"description":"(A) study on the job satisfaction of civil servants serving at national university 1. Introduction\nToday we experience the rap id expan"
+		},
+		{
+			"title":"<b>사무<\/b>자동화 실행에 따른 <b>직무<\/b>효과에 미치는 영향요인 (事務自動化 實行",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9107767",
+			"description":"  국문목차\n표제지 = 0,1,2\n목차 = I,3,2\n표목차 = III,5,1\n그림목차 = III,5,1\n제1장 서론 = 1,6,1\n 제1절 연구의 "
+		},
+		{
+			"title":"<b>사무<\/b>관리직 여성의 <b>직무<\/b>만족 및 조직몰입에 관한 연구 : 외국투자법인 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79853854",
+			"description":"(A) Study on the Job Satisfaction and Organizational Commitment of Clerical &amp; Managerial Women 2004년 현재 대한민국의 고용 "
+		},
+		{
+			"title":"<b>직무<\/b>요구-통제 모형에 의한 사원들의 <b>직무<\/b>소진(job burnout)에 관한 연구 : ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12543258",
+			"description":"An Empirical Study on the Effects of Proactive Personality and Self-Efficacy on Job Burnout as Moderators of the Job Demand-Control Mod"
+		},
+		{
+			"title":"수사<b>사무<\/b>환경이 경찰 수사관의 <b>직무<\/b>스트레스에 미치는 영향 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186516772",
+			"description":"Office Environment for Criminal Investigation and Its Impact on the Investigators 본 연구는 수사<b>사무<\/b>환경이 경찰 수사관"
+		},
+		{
+			"title":"고등학교 <b>사무<\/b>직원의 <b>직무<\/b>수행과 역할 갈등 및 역할모호성과의 관계연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79259019",
+			"description":" This study aims at looking into the effect which the role-conflict and role-ambiguity have on high school business officers. In order "
+		}
+	]
+}

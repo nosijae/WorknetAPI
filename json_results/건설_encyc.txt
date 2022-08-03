@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:06 +0900",
+	"total":80325,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1021122&cid=50320&categoryId=50320",
+			"description":"<b>건설<\/b>토목용어사전 구조물을 새로 만들어 설치하는 것. 철도, 도로, 댐, 교량 등의 공공 시설에 대한 토목 공사와 건축물에 대한 건축 공사로 나누어지며, 모두 <b>건설<\/b> 업자에 의해 시공되고 있다. 외국어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6414026&cid=68110&categoryId=68110",
+			"description":"토목이나 건축 따위의 일",
+			"thumbnail":""
+		},
+		{
+			"title":"건축\/<b>건설<\/b>\/토목",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=42315",
+			"description":"건축설계대사전, 건축용어사전, 대한건축학회 건축용어사전, 목재용어사전, 공조냉동건축설비 용어사전, 남북 도로 용어집, 산림임업 용어사전, 세계 다리명 백과, 지형 공간정보체계 용어사전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B1%B4%EC%84%A4",
+			"description":"<b>건설<\/b> (建設, 영어: construction )은 건축(architecture)과 토목(civil engineering)의 총칭으로, 보통 건물을 짓거나 만들거나 하는 일이다. 토목건축 이라고도 하며, 줄여서 토건 이라는 말도 쓰인다. 대한민국... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=461685",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"크레인의 종류와 탑형 크레인의 원리",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000194&svc_clss_id=CLSS0000018047&contents_openapi=naverdic",
+			"description":"지레와 도르래의 원리를 그림을 통해 알아본다. 고층 건물의 <b>건설<\/b> 현장에서 자주 볼 수 있는 탑형 크레인이 작동하는 원리를 두 원리로 설명할 수 있다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_2\/20170818050008960_N50BVJ6IT.jpg\/m2_sci_60_29_img.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2165378&cid=60556&categoryId=60556",
+			"description":"작품소개 5회로 연재 중단된 소설이다. 지식인 주인공이 고향에 돌아가 일본어 보급에 앞장선다는 내용의 소설이다. 내용 서울에서 공부를 하다 고향에 돌아온 봉주는 고향 사람들에게 일본어를 가르치면서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>주 기본 <b>건설<\/b>투자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415638&cid=68110&categoryId=68110",
+			"description":"<b>건설<\/b>주기관, 기업소가 대상<b>건설<\/b>에 투하하는 자금 (북) <b>건설<\/b>주 (남) 발주자, 도급인, 건축주",
+			"thumbnail":""
+		},
+		{
+			"title":"DL<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/DL%EA%B1%B4%EC%84%A4",
+			"description":"DL<b>건설<\/b> 은 DL그룹 계열의 종합<b>건설<\/b>사로 1956년 천광사로 설립 후 1981년 종합<b>건설<\/b>업체로 발돋움하면서 삼호로 사명 변경, 2020년 고려개발(주)과 합병하여 7월 1일 대림<b>건설<\/b>로 공식 출범했다. 본사는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"GS<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=649818&cid=43167&categoryId=43167",
+			"description":" GS그룹의 계열사로 주택건축공사, 토목공사, 플랜트공사 등을 전문으로 하는 종합<b>건설<\/b>업체.  1969년 12월 락희개발(주)로 설립되었고, 1975년 12월 상호를 럭키개발로 변경하였다. 1979년 1월... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_2\/20110926125428261_W8VSLH47V.jpg\/n147.jpg?type=m160_160"
+		},
+		{
+			"title":"GS<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/GS%EA%B1%B4%EC%84%A4",
+			"description":"GS<b>건설<\/b> (지에스建設)은 1969년에 설립되어 대한민국의 본사를 둔 GS그룹에 소속된 <b>건설<\/b> 회사다. 국토교통부의 2021년 토목건축공사업 시공능력평가 결과, 평가액 9조 9,286억 원으로 삼성물산... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1058611&cid=40942&categoryId=32342",
+			"description":" 토목, 건축 기타 이와 관련되는 <b>건설<\/b>공사의 도급 받는 영업을 말하는데 공사의 종류에 따라 일반<b>건설<\/b>업, 특수<b>건설<\/b>업, 전문<b>건설<\/b>업으로 구분된다.  <b>건설<\/b>업법에 따르면 &quot;도급(都給)이란 원도급(原都給), 하도급... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_16\/20180828125303884_L45ZAW5IP.jpg\/26498.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>사업 정보화, <b>건설<\/b> 칼스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3473933&cid=58439&categoryId=58439",
+			"description":"<b>건설<\/b>(Construction) CALS\/EC란 기획, 설계, 시공, 유지관리 등 <b>건설<\/b> 사업의 모든 과정(Whole-Life)에서 발생되는 정보(Information)를 발주기관, 수주업체 등 관련 주체가 정보 통신망(Network)을 통해 교환, 공유하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>CALS",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1431&cid=43659&categoryId=43659",
+			"description":"<b>건설<\/b> CALS란 기획·설계·계약·시공·유지관리 등 <b>건설<\/b> 생산 활동 전 과정의 정보를 발주자 <b>건설<\/b>관련자가 전산망을 통해 신속히 교환·공유하여 <b>건설<\/b> 사업을 지원하는 통합 정보시스템이다. 여기에는 5백여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>CALS",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2079395&cid=50305&categoryId=50305",
+			"description":"<b>건설<\/b>사업정보화, <b>건설<\/b>사업의 설계, 시공, 유지관리 등 전 과정의 생산정보를 발주자, 관련업체 등이 전산망을 통해 교환ㆍ공유하기 위한 통합 정보화 체계.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b> MOU",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1827978&cid=42279&categoryId=42279",
+			"description":" <b>건설<\/b>업자의 <b>건설<\/b>공사에 대한 시공허가를 조건으로 일정한 투자 의향을 상호 확인하는 내용으로 구성된 <b>건설<\/b>사업투자 양해각서.  mou는 양해각서로 부르기도 한다. 계약 당사자 사이에서 합의된 내용을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128185008277_Z992Z16D3.jpg\/hb10_514_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"두산<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650400&cid=43167&categoryId=43167",
+			"description":" 토목, 건축, 주택 <b>건설<\/b> 등을 주요 사업으로 하는 <b>건설<\/b>업체.  두산<b>건설<\/b>의 전신은 1960년 세워진 동산토건(주)이다. 당시 OB그룹(현 두산그룹)의 주력 회사였던 동양맥주가 자본금 5,000만 원을 출자했다. 초대... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20220104111411411_DRA13UDX6.jpg\/company_729_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"한솔<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650750&cid=43167&categoryId=43167",
+			"description":" 한솔그룹 계열의 종합<b>건설<\/b>업체였으나 2011년 12월 파산했다.  한솔<b>건설<\/b>의 전신은 1976년 세워진 영창무역(주)이었다. 1993년 10월 한솔<b>건설<\/b>로 상호를 변경했다. 한솔<b>건설<\/b>은 고급 펜션 브랜드의 대명사인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_2\/20110926125530892_6QJBAWD2N.jpg\/n1143.jpg?type=m160_160"
+		},
+		{
+			"title":"모아<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AA%A8%EC%95%84%EA%B1%B4%EC%84%A4",
+			"description":"계열사로 모아종합<b>건설<\/b>(주),미래도<b>건설<\/b>(주),세종모아(주),미래도이엔씨(주),장영<b>건설<\/b>(주),미래이엔씨(주),진원생명과학(주),우신그룹,모아 과수원(주),미래에셋금융그룹,완주농공단지개발(주)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>지역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6414293&cid=68110&categoryId=68110",
+			"description":"<b>건설<\/b>공사를 시행하고자 하는 지역 예)고속도로 <b>건설<\/b>공사는 도로구역 결정후 공사 시행",
+			"thumbnail":""
+		},
+		{
+			"title":"극동<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650630&cid=43167&categoryId=43167",
+			"description":" 토목, 건축, 플랜트 공사, 아파트 <b>건설<\/b>을 주로 하는 <b>건설<\/b>업체.  극동<b>건설<\/b>의 전신은 1947년 창업자 김용산 회장이 세운 대영<b>건설<\/b>사다. 대영<b>건설<\/b>사는 1953년 극동<b>건설<\/b>(주)로 이름을 바꿨다. 극동<b>건설<\/b>은 1954년... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20140317103123045_W0Z8CU1DV.jpg\/n996.jpg?type=m160_160"
+		},
+		{
+			"title":"한일<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650719&cid=43167&categoryId=43167",
+			"description":" 토목, 건축, 주택, 플랜트 <b>건설<\/b>을 주요 사업으로 하는 <b>건설<\/b>업체.  1970년 2월 20일 삼원진흥<b>건설<\/b>(주)로 설립돼 출발한 뒤, 1978년 5월 한일시멘트에 인수되어 한일<b>건설<\/b>산업(주)으로 상호를 변경했다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20180801162917053_A28JZF5WG.jpg\/n1106.jpg?type=m160_160"
+		},
+		{
+			"title":"롯데<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=649835&cid=43167&categoryId=43167",
+			"description":" 롯데그룹 계열사로 종합<b>건설<\/b>업체. 롯데<b>건설<\/b>의 모태는 1952년 2월에 설립된 평화건업사이다. 1979년 9월 롯데그룹이 평화건업을 인수, (주)롯데<b>건설<\/b>과 합병시킨 후, 1981년 3월 지금의 롯데<b>건설<\/b>(주)이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20191129160410447_1CCIVXLAK.png\/company_164_i1.png?type=m160_160"
+		},
+		{
+			"title":"동서<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8F%99%EC%84%9C%EA%B1%B4%EC%84%A4",
+			"description":"대상<b>건설<\/b> (Daesang E&#38;C)은 대한민국의 <b>건설<\/b> 회사이다. 동서<b>건설<\/b>에서 사명을 대상<b>건설<\/b> 로 변경되었다. 연혁 1970년 4월 : 미원식품(주) <b>건설<\/b>사업부 설립. 1978년 2월 : 전기공사업 면허취득... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>공해",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1058607&cid=40942&categoryId=32411",
+			"description":" <b>건설<\/b>활동에 수반하여 발생하는 공해.  소음과 진동 및 폐기물이 대표적이다. <b>건설<\/b>소음은 <b>건설<\/b>기간에만 한정되어 있어서 도로교통 소음이나 항공기 소음 등에 비해 시민들의 고정건수(苦情件數)가 적은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_16\/20180828125939422_1QW03SQ6M.jpg\/38308.jpg?type=m160_160"
+		},
+		{
+			"title":"동부<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650577&cid=43167&categoryId=43167",
+			"description":" 토목, 플랜트, 아파트 건축 등 <b>건설<\/b> 전문업체.  동부<b>건설<\/b>의 전신은 1969년 1월 설립된 미륭<b>건설<\/b>이다. 1969년 4월 토목, 건축, 도로포장 면허와 전기공사업 면허를 각각 취득했다. 1970년 8월 연세대... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_2\/20110926125517630_NKTD8ISHT.jpg\/n930.jpg?type=m160_160"
+		},
+		{
+			"title":"극동<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B7%B9%EB%8F%99%EA%B1%B4%EC%84%A4",
+			"description":"극동<b>건설<\/b> (極東建設, Kuk Dong Engineering &#38; Construction Co., Ltd. )은 1947년 김용산이 설립한 <b>건설<\/b>회사이다. 현재는 문정동 사장이 극동<b>건설<\/b>의 대표이사이다. 부산광역시 남구에 본점이 있으며 서울특별시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>공채",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1058606&cid=40942&categoryId=31843",
+			"description":" 사회자본의 <b>건설<\/b>을 위한 재정에 충당하기 위한 공채.  <b>건설<\/b>공채는 공채수입을 직접적 또는 간접적으로 국민경제의 생산력을 향상시키기 위하여 사용하는 생산적 공채(reproductive debt)에 속한다. <b>건설<\/b>공채는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공공<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415540&cid=68110&categoryId=68110",
+			"description":"공공건물을 <b>건설<\/b>하는 기본<b>건설<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"지방<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6416391&cid=68110&categoryId=68110",
+			"description":"지방 경제생활에 필요한 <b>건설<\/b>을 주로 지방 자체의 역량으로 진행하는 <b>건설<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>능력",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415703&cid=68110&categoryId=68110",
+			"description":"일정한 기간 <b>건설<\/b>단위에서 수행할 수 있는 최대<b>건설<\/b>작업량",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>부재",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415693&cid=68110&categoryId=68110",
+			"description":"여러가지 <b>건설<\/b>자재들을 미리 일정한 형태로 가공하거나 조립하여 만든 부분품으로 <b>건설<\/b>에 쓰이는 부재",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>워커",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B1%B4%EC%84%A4%EC%9B%8C%EC%BB%A4",
+			"description":"<b>건설<\/b>워커 는 대한민국의 <b>건설<\/b> 전문 취업 포털이다. 개요 <b>건설<\/b>워커는 1997년 천리안, 하이텔, 유니텔, 나우누리 등 PC통신망을 통해 <b>건설<\/b> 구인구직 서비스를 시작했다. 1999년 7월에 인터넷 취업플랫폼 <b>건설<\/b>워커... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>소음",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1170241&cid=40942&categoryId=32412",
+			"description":" 도로나 건물의 <b>건설<\/b> 과정에서 발생하는 소음.  <b>건설<\/b>현장에서 각종 공사로 인하여 발생하는 소음으로 생활소음과 같이 소음진동규제법에서 <b>건설<\/b>소음 ·진동 규제지역과 범위 등을 법으로 규제하고 있다. 시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"쌍용<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650529&cid=43167&categoryId=43167",
+			"description":" 국내외에서 토목, 건축, 주택, 플랜트 등의 <b>건설<\/b> 서비스를 제공하는 종합<b>건설<\/b>회사.  쌍용<b>건설<\/b>의 전신은 쌍용양회 <b>건설<\/b>사업본부로부터 독립해 1977년 10월 세워진 쌍용종합<b>건설<\/b>(주)이다. 1979년 8월... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_2\/20110926125514208_5KI8FHLUC.jpg\/n872.jpg?type=m160_160"
+		},
+		{
+			"title":"대우<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EC%9A%B0%EA%B1%B4%EC%84%A4",
+			"description":"대우<b>건설<\/b> (大宇建設)은 1973년 설립되어 대한민국에 본사를 둔, 중흥그룹의 관계사이며 소속된 코스피 상장 <b>건설<\/b> 회사이다. 대한민국의 주요 시공물에는 월성원자력발전소 3,4호기, 동작대교, 누리마루... ",
+			"thumbnail":""
+		},
+		{
+			"title":"삼익<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=649973&cid=43167&categoryId=43167",
+			"description":" 2002년 증권거래소에서 상장이 폐지된 <b>건설<\/b>업체.  1957년 설립된 <b>건설<\/b>업체로 서울 구로구 오류동에 본사를 두고 있었다. 토목 건축 해외<b>건설<\/b> 도로포장 아파트 <b>건설<\/b> 분양 등을 주요 사업으로 해왔다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호반<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3552063&cid=43167&categoryId=43167",
+			"description":" 주택<b>건설<\/b> 전문기업. 호반<b>건설<\/b>의 모태는 1996년 8월 할부금융업을 목적으로 설립된 현대파이낸스(주)다. 이후 현대파이낸스는 여러 번 상호 변경과정을 거친 뒤 <b>건설<\/b>업에 진출하면서 2006년 5월 지금의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20190315095457983_6LPN9KQYG.jpg\/company_3538_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"성원<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%B1%EC%9B%90%EA%B1%B4%EC%84%A4",
+			"description":"성원<b>건설<\/b> (Sung Won Corporation, 盛源建設)은 종합<b>건설<\/b>업체로, 주거용 아파트 분야에서는 상떼빌이라는 브랜드를 사용한 중견업체다. 1977년 설립해서 2014년 7월 파산선고를 받았다. 하지만 2019년 12월 대구를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>통계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1058614&cid=40942&categoryId=32337",
+			"description":" <b>건설<\/b>활동에 관한 동태를 파악하기 위한 통계로, 한국에서는 주로 <b>건설<\/b>교통부에 의하여 작성되고 있는데, 사업주체 또는 발주자로부터의 통계와 시행자 또는 수주자로부터의 통계로 구분된다.  국민경제에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"성지<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650714&cid=43167&categoryId=43167",
+			"description":" 토목, 건축, 주택 <b>건설<\/b> 등을 주요 사업으로 하는 <b>건설<\/b>업체.  성지<b>건설<\/b>(주)은 1969년 세워진 <b>건설<\/b>회사다. 1980년 이후 과천 주공아파트, 부천 성지아파트, 인천 송도성지 리벨루스 아파트 등을 지었다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20171215154842893_1L7GCKVTB.jpg\/n1100.jpg?type=m160_160"
+		},
+		{
+			"title":"벽산<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650328&cid=43167&categoryId=43167",
+			"description":" 아파트 <b>건설<\/b>업, 항만·도로·플랜트 등 종합<b>건설<\/b>업체였으나 2014년 4월 파산했다.  1958년 11월 한국스레트공업(주)을 세웠다. 1963년 10월 제일스레트공업(주)을 인수하고 이듬해 1월에는 <b>건설<\/b>사업부를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_2\/20110926125500072_IUBP14G4U.jpg\/n657.jpg?type=m160_160"
+		},
+		{
+			"title":"삼성<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=649966&cid=43167&categoryId=43167",
+			"description":" 1995년 삼성물산(주)에 흡수합병된 <b>건설<\/b>업체이다.  삼성종합<b>건설<\/b>이 1979년 신원개발(주)과 합병한 후 1993년 삼성<b>건설<\/b>(주)로 사명을 바꾸었다. 항만 고층빌딩 등 해외<b>건설<\/b>업에 참여하였으며 1995년... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_2\/20110926125439039_739QR8A7T.jpg\/n295.jpg?type=m160_160"
+		},
+		{
+			"title":"해외<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=527104&cid=46631&categoryId=46631",
+			"description":" 일정한 나라의 업체가 다른 나라에서 벌이는 <b>건설<\/b>에 관련된 사업. [개설] 자국의 <b>건설<\/b>업체들이 인력과 <b>건설<\/b>기자재를 자국에서 가지고 가거나 또는 외국에서 조달하여 해외에서 벌이는 <b>건설<\/b>사업인 해외<b>건설<\/b>은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20190628225108274_0LESI53LJ.jpg\/9f0c56d9-2809-42.jpg?type=m160_160"
+		},
+		{
+			"title":"성원<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650621&cid=43167&categoryId=43167",
+			"description":" 국내외 민간 및 관급 건축 및 토목시공을 전문으로 해온 종합<b>건설<\/b>업체로서 아파트 브랜드 '상떼빌'을 보유한 중견업체였으나 2014년 7월 파산선고를 받고 해산했다.  1977년 3월 용산구 이태원에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_2\/20110926125521226_TX8M4LCO6.jpg\/n985.jpg?type=m160_160"
+		},
+		{
+			"title":"현대<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650385&cid=43167&categoryId=43167",
+			"description":" 현대자동차그룹 계열의 종합<b>건설<\/b>업체. 현대<b>건설<\/b>은 1947년 현대토건사로 출발한 후, 1950년 현대자동차공업사를 합병하고 현대<b>건설<\/b>주식회사로 출범했다. 2001년 현대그룹으로부터 계열분리됐으며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20190529144548082_IPP48P9PE.jpg\/company_714_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"현대<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%98%84%EB%8C%80%EA%B1%B4%EC%84%A4",
+			"description":"현대<b>건설<\/b> (現代建設, HYUNDAI ENGINEERING &#38; CONSTRUCTION )은 1947년 정주영이 설립하였으며 대한민국에 본사를 둔, 현재 현대자동차그룹에 소속된 <b>건설<\/b> 회사이다. 토목사업, 건축, 주택, 플랜트 등으로 구분되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"성일<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%B1%EC%9D%BC%EA%B1%B4%EC%84%A4",
+			"description":"성일<b>건설<\/b> 주식회사 (Sungil Construction Co., Ltd.)는 서울특별시 강남구에 위치한 대한민국의 <b>건설<\/b>회사이다. 1971년 설립되었다. 각종 기간산업과 민간 공사의 <b>건설<\/b>에 참여하여 반세기 많은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문학<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5750845&cid=60550&categoryId=63823",
+			"description":"『문학<b>건설<\/b>』은 1932년 12월 5일에 창간된 종합 문학잡지로, 1호로 종간되었다. 판권장에는 편집 겸 발행인은 박동수, 인쇄인은 김용규, 인쇄소는 요시오까(吉岡)인쇄소(조선 경성부 가회동 170번지), 발행소는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5132_000_1\/20190325181333134_6375EI9YQ.jpg\/eb97_49_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>대상",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415691&cid=68110&categoryId=68110",
+			"description":"<b>건설<\/b> 작업을 하는 대상",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>현장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415636&cid=68110&categoryId=68110",
+			"description":"<b>건설<\/b> 공사를 실제로 진행하고 있는 곳",
+			"thumbnail":""
+		},
+		{
+			"title":"운수<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6416440&cid=68110&categoryId=68110",
+			"description":"교통운수를 보장하기 위한 기본<b>건설<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>물량",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6414276&cid=68110&categoryId=68110",
+			"description":"<b>건설<\/b>장에 날라야 할 물량",
+			"thumbnail":""
+		},
+		{
+			"title":"도시<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6416448&cid=68110&categoryId=68110",
+			"description":"도시형성과 그 발전을 위한 기본<b>건설<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"원림<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6416433&cid=68110&categoryId=68110",
+			"description":"공원과 유원지, 정원에서 녹지를 이루기 위한 <b>건설<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"농촌<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6416002&cid=68110&categoryId=68110",
+			"description":"농촌에서 생산적 및 비생산적 시설물을 일으켜 세우거나 농촌마을을 꾸미기 위하여 하는 <b>건설<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>치수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415628&cid=68110&categoryId=68110",
+			"description":"<b>건설<\/b>물의 평면과 용적, 구조요소, <b>건설<\/b> 재료, 설비품 등의 크기를 나타내는 치수",
+			"thumbnail":""
+		},
+		{
+			"title":"복구<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6416226&cid=68110&categoryId=68110",
+			"description":"본래의 상태대로 회복하는 복구와 새로 짓고 일떠세우는 <b>건설<\/b>을 아울러 이르는 말",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6414214&cid=68110&categoryId=68110",
+			"description":"기획 단계부터 설계, 계약, 시공 후 단계에 이르는 전체 <b>건설<\/b>공사 수명주기 동안의 종합적인 관리업무",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>예산",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415689&cid=68110&categoryId=68110",
+			"description":"<b>건설<\/b>에 앞서 <b>건설<\/b>물에 지출하게 되는 자금과 자재, 노력, 기계설비소요규모를 미리 타산하는 사업",
+			"thumbnail":""
+		},
+		{
+			"title":"대림<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6119246&cid=40942&categoryId=34657",
+			"description":" 대림그룹 계열사인 종합<b>건설<\/b>사로, 2020년 7월 (주)삼호와 고려개발(주)의 합병으로 출범하였다.  건축 사업과 토목 사업을 운영하는 종합<b>건설<\/b>사이다. 대림그룹에 속한 <b>건설<\/b> 부문 계열사였던 (주)삼호와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794313&cid=46631&categoryId=46631",
+			"description":"[내용] ＜<b>건설<\/b>업법＞에 따르면, <b>건설<\/b>업이란 원도급(元都給)·하도급(下都給) 기타 명칭 여하에 불구하고 <b>건설<\/b>공사의 도급을 받는 영업을 말하며, <b>건설<\/b>공사는 일반공사·특수공사 및 단종공사(單種工事)로 크게... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_14\/20181023194240163_I71L1732U.jpg\/f10c5f14-f5d6-4a.jpg?type=m160_160"
+		},
+		{
+			"title":"특수<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%8A%B9%EC%88%98%EA%B1%B4%EC%84%A4",
+			"description":"특수<b>건설<\/b> 은 토목업을 영위하는 <b>건설<\/b>업체로, 철도 및 도로 입체화공사를 전문 분야로 한다. 지하횡단구조물 비개착시공, 대구경 교량기초시공, 쉴드터널 시공, 산업플랜트 제작 등을 한다. 서해대교... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동신<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8F%99%EC%8B%A0%EA%B1%B4%EC%84%A4",
+			"description":"동신<b>건설<\/b> 은 토목사업(도로, 상하수도, 댐, 항만, 하수처리시설 등) 및 건축사업(관공서 및 주택 건축), 문화재공사 등을 하는 <b>건설<\/b> 회사이다. 최대주주는 김근한 외 74.59%로, 대주주 지분이 매우 높은 편이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6050590&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] ① 토목, 건축 기타 <b>건설<\/b> 공사에 관련된 사업을 통틀어 말하는 것. ② <b>건설<\/b>산업기본법에 의한 <b>건설<\/b>공사의 도급을 받는 영업. ③ <b>건설<\/b>업은 공사의 종류에 따라 일반<b>건설<\/b>업 · 특수<b>건설<\/b>업... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6461157&cid=58453&categoryId=58453",
+			"description":"[정의] 계약 또는 자기계정에 따라 지반조성을 위한 발파 · 시굴 · 굴착 · 정지 등의 지반공사, <b>건설<\/b>용지에 각종 건물과 구축물의 신축 · 설치, 증축 · 재축 · 개축 · 수리 · 보수 · 해체 등을 수행하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2079995&cid=50305&categoryId=50305",
+			"description":"<b>건설<\/b> 사업이 성공할 수 있도록 공사 전체를 관리하는 선진화된 <b>건설<\/b> 서비스다. 건축주 입장을 반영해 사업계획부터 설계 발주 시공 착공까지 원가,공사기간,품질 등을 종합 관리하는 '컨트롤 타워' 역할을 하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"STX<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/STX%EA%B1%B4%EC%84%A4",
+			"description":"STX<b>건설<\/b> 주식회사는 대한민국 STX그룹에서 분리된 <b>건설<\/b>사이다. ‘Rebuild the Value for Vision 2030’이라는 슬로건을 목표로 그간 전경련 회관 신축, 부산국제금용센터 복합개발, 한강플로팅 아일랜드, OSTT... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동부<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8F%99%EB%B6%80%EA%B1%B4%EC%84%A4",
+			"description":"동부<b>건설<\/b> 은 대한민국의 종합<b>건설<\/b>사이며, 코스피 상장기업이다. 국토교통부가 발표한 2020년 시공능력평가 결과 토목건축공사업에서 1조 7,116억 원으로 21위를 기록했다. 1969년 미륭<b>건설<\/b> 로 출발해 1989년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"우미<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B0%EB%AF%B8%EA%B1%B4%EC%84%A4",
+			"description":"우미<b>건설<\/b> (宇美建設)은 1982년 설립되어 주택, 건축, 토목 등의 다양한 사업을 영위하고 있는 대한민국의 종합<b>건설<\/b>회사이다. 주택분야에서는 ‘Lynn’, ‘Lynn StrauS’ 등의 브랜드를 사용하고 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=46232&cid=42095&categoryId=42095",
+			"description":"세법은 <b>건설<\/b>업의 범위를 건축<b>건설<\/b>업, 토목<b>건설<\/b>업, 전문직별 공사업(미장공사업, 목공사업, 도장공사업 등) 및 주택신축판매업으로 규정하고 있으나 <b>건설<\/b>산업기본법에 의한 <b>건설<\/b>업의 범위는 이와는 다소 차이가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한진<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650367&cid=43167&categoryId=43167",
+			"description":" 한진그룹의 계열사로, 1999년 한진중공업에 흡수 합병된 <b>건설<\/b>회사.  한진<b>건설<\/b>의 전신은 1968년 세워진 한일개발(주)이다. 한진<b>건설<\/b>은 한진그룹 계열회사로 주요 사업은 도로포장업, 토목·건축업... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>공채",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1434&cid=43659&categoryId=43659",
+			"description":"국가가 도로·철도 등의 <b>건설<\/b>, 개량사업이나 전원개발사업 등 <b>건설<\/b>사업 경비를 조달하기 위해 발행하는 공채를 말한다. 이에 대하여 일정한 용도가 정해져 있지 않고 단지 경상수입의 일시적 부족을 보충하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"우성<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650142&cid=43167&categoryId=43167",
+			"description":" 1989년 증권거래소에 상장하였으나 2000년 파산한 <b>건설<\/b>업체다.  1973년 백천상사(주)로 시작하여 1979년 우성<b>건설<\/b>(주)로 사명을 바꾸었다. 1978년 아파트 <b>건설<\/b> 및 분양 사업을 시작하여 크게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1914503&cid=50320&categoryId=50320",
+			"description":"<b>건설<\/b>비전기용어사전 발전소, 송전선로, 변전소 및 배전선로 등, 전력공급 시설의 <b>건설<\/b>에 소요되는 비용으로, 자본적 지출로 경리되는 것을 이른다. 외국어 표기 construction cost, first cost... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6413378&cid=42094&categoryId=42094",
+			"description":"<b>건설<\/b>공사를 수행하는 업으로 종합적인 계획 · 관리 및 조정 하에 시설물을 시공하는 업을 말한다. <b>건설<\/b>업은 크게 종합공사업과 전문공사업로 나눌 수 있다. 종합공사업의 종류(5종)는 토목공사, 건축공사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6413382&cid=42094&categoryId=42094",
+			"description":"<b>건설<\/b>에 소요된 비용을 말한다. 건물 등 자산을 도급으로 <b>건설<\/b>할 때 그 취득가액은 도급액과 부대비용의 합계액으로 하며 자가 <b>건설<\/b> 시에는 모든 재료비, 노무비, 경비를 취득가액에 포함하지만 일반관리비를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=337020&cid=60555&categoryId=60555",
+			"description":"프롤레타리아 연극의 <b>건설<\/b>을 목표로 서울시 동대문구 숭인동에 위치해 있던 ‘집단사’에서 창립되었으며, 창단시의 단원들은 문예부에 송영(宋影)‧권환(權煥), 연출부에 신고송(申鼓松), 미술부에 강호... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>로봇",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=301286&cid=50321&categoryId=50321",
+			"description":"건물, 도로, 하천, 터널 등의 <b>건설<\/b>이나 개ㆍ보수에 사용되는 로봇",
+			"thumbnail":""
+		},
+		{
+			"title":"한화<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%ED%99%94%EA%B1%B4%EC%84%A4",
+			"description":"한화<b>건설<\/b> (韓華建設)은 한화그룹의 주요 계열사로 2002년에 설립된 <b>건설<\/b>회사다. 2019년 국토교통부 발표 시공능력평가액 3조 5,018억원으로 12위를 기록했다. 2018년에는 시평액 2조 8,623억 원으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금호<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%88%ED%98%B8%EA%B1%B4%EC%84%A4",
+			"description":"금호<b>건설<\/b> (Kumho Engineering and Construction, Kumho E&#38;C )은 대한민국의 <b>건설<\/b>회사이다. 연혁 창업 금호(錦湖)는 광주에서 여객자동차 운송사업을 성장하였으며 버스 운송사업과 관련해 타이어, 고무 등 사업을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2458200&cid=46664&categoryId=46664",
+			"description":"[설립목적] 1932년 8월 초에 ‘활발하게 프롤레타리아 연극 <b>건설<\/b>’을 목표로 삼아 창단된 극단으로, 소위 좌익 극단들이 가졌던 불성실을 배제하고 좌익연극 활동을 활발하게 전개하겠다는 의지 아래... ",
+			"thumbnail":""
+		},
+		{
+			"title":"태영<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650541&cid=43167&categoryId=43167",
+			"description":" 태영그룹의 모기업으로 토목, 건축, 환경플랜트, 레저사업을 하는 종합<b>건설<\/b>업체.  태영<b>건설<\/b>의 전신은 1973년 윤세영 창업회장이 자본금 300만 원으로 세운 태영개발(주)이다. 1985년 6월 상호를 (주)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_2\/20110926125515197_83YF358D4.jpg\/n890.jpg?type=m160_160"
+		},
+		{
+			"title":"선원<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%A0%EC%9B%90%EA%B1%B4%EC%84%A4",
+			"description":"선원<b>건설<\/b> (鮮苑建設, SUNWON CONSTRUCTION)은 2000년 4월 창립되어 대한민국에 본사를 둔, 통일그룹에 소속된 종합<b>건설<\/b>회사이다. 토목, 건축, 주택, 산업설비 등으로 구분되는 사업부문을 영위하며 본사는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"계룡<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%84%EB%A3%A1%EA%B1%B4%EC%84%A4",
+			"description":"계룡<b>건설<\/b>산업 주식회사 (Kyeryong Construction Industrial Co.,Ltd., 鷄龍建設産業)는 대한민국의 <b>건설<\/b>회사이다. 1970년 1월 20일 합자회사 계룡<b>건설<\/b> 로 설립되어 1978년 주식회사로 전환하면서 사명을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>역",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B1%B4%EC%84%A4%EC%97%AD",
+			"description":"<b>건설<\/b>역 (建設驛)은 평양 지하철 혁신선의 역이다. 부역명은 류경호텔 이다. 평양 지하철에서는 드물게 상대식 승강장을 가지고 있다. 역 주변 류경호텔 인접한 역",
+			"thumbnail":""
+		},
+		{
+			"title":"양우<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%96%91%EC%9A%B0%EA%B1%B4%EC%84%A4",
+			"description":"양우<b>건설<\/b> (陽宇建設)은 대한민국의 <b>건설<\/b>회사이다. 본사는 서울특별시 영등포구 영등포동에 위치하고 있으며, 1989년 양우주택으로 설립되어 2001년 양우<b>건설<\/b> 주식회사로 상호를 변경했다. 국토교통부가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문학<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1095591&cid=40942&categoryId=31773",
+			"description":"1932년 문학<b>건설<\/b>사에서 발행한 문예지로, 창간호가 종간호이다. 편집 겸 발행인은 박동수이다. 국판. 124쪽. 이기영·이북만·한설야 등 경향적(傾向的)인 문인들이 창간하였다. 처음에는 대중종합예술지를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일성<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%BC%EC%84%B1%EA%B1%B4%EC%84%A4",
+			"description":"일성<b>건설<\/b> 은 대한민국의 <b>건설<\/b> 기업이다. 2016년 12월 업계 상위 27위에 해당한다. 아파트 브랜드로는 일성트루엘 이 있다. 각주",
+			"thumbnail":""
+		},
+		{
+			"title":"GS<b>건설<\/b>(주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1087503&cid=40942&categoryId=34657",
+			"description":" GS그룹 계열의 종합 <b>건설<\/b>업체. 1969년 락희개발(로)로 설립한 뒤 1975년 럭키개발(주), 1995년 LG<b>건설<\/b>(주)을 거쳐 2005년 4월 지금의 명칭으로 변경하였다.  (단위... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_34\/20180930221658541_PMPWGWS3D.jpg\/6609723.jpg?type=m160_160"
+		},
+		{
+			"title":"중흥<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A4%91%ED%9D%A5%EA%B1%B4%EC%84%A4",
+			"description":"중흥<b>건설<\/b> 은 대한민국 광주광역시에 본사를 두고 있는 <b>건설<\/b> 기업이다. 2022년 기준 재계서열 20위로 대한민국의 대기업 기업집단으로 지정되어 있다. 또한 아파트 브랜드로는 중흥 S-클래스이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>의 날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1689741&cid=43667&categoryId=43667",
+			"description":" <b>건설<\/b>업 종사자들의 화합과 결의를 다지기 위해 국토해양부에서 정한 날.  | 날짜 | 매년 6월 18일 | '<b>건설<\/b>의 날'은 <b>건설<\/b>부(현, 국토해양부)가 창립된 1962년 6월 18일을 기념하여 선정된 날로 1981년 국가적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문학<b>건설<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=657831&cid=46645&categoryId=46645",
+			"description":"편집 겸 발행인은 박동수(朴東洙)이며, 문학<b>건설<\/b>사에서 발행되었다. 창간호가 종간호이다. [내용] 작품으로는 소설에 이기영의 「양잠촌(養蠶村)」, 이북만의 「출근정지(出勤停止)」, 김한(金漢)의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"두산<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%91%90%EC%82%B0%EA%B1%B4%EC%84%A4",
+			"description":"두산<b>건설<\/b> (斗山建設, Doosan Engineering &#38; Construction)은 대한민국의 <b>건설<\/b> 기업이다. 1976년 설립되어 도로, 철도, 교량, 항만, 건축물, 주거시설 등의 사회 인프라 시설들을 건립했다. 기업연혁... ",
+			"thumbnail":""
+		},
+		{
+			"title":"DL<b>건설<\/b>(주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=649978&cid=43167&categoryId=43167",
+			"description":" DL그룹 계열의 종합<b>건설<\/b>업체로 주력 분야는 주택사업.  DL<b>건설<\/b>(주)의 모태는 1956년 10월에 세워진 천광사(주)다. 천광사는 1974년 이름을 (주)삼호주택으로 바꾸고 아파트 <b>건설<\/b> 사업에 뛰어들었다. 당시... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20210916141122758_DL54JCKYF.jpg\/n3346.jpg?type=m160_160"
+		},
+		{
+			"title":"쌍용<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8C%8D%EC%9A%A9%EA%B1%B4%EC%84%A4",
+			"description":"쌍용<b>건설<\/b> (雙龍建設, Ssangyong Engineering &#38; Construction Co., Ltd.)은 1977년 설립된 대한민국의 <b>건설<\/b>회사이다. 본사는 서울특별시 송파구 신천동에 있다. 쌍용<b>건설<\/b>은 2015년 세계적 국부펀드인 두바이투자청... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>이자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1438&cid=43659&categoryId=43659",
+			"description":"철도, 운하, 축항, 전기, 가스 산업 등과 같이 <b>건설<\/b>공사에 장기간을 요하며 곧 개업하기 어려운 사업은 장기간 이익배당을 할 수 없으므로, 원대하고 유망한 사업이면서도 주식을 인수할 자가 없을 우려가 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"롯데<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%A1%AF%EB%8D%B0%EA%B1%B4%EC%84%A4",
+			"description":"롯데<b>건설<\/b>(주) ( 영어: Lotte Engineering &#38; Construction Co., Ltd )는 1959년 설립되어 대한민국에 본사를 둔, 롯데그룹에 소속된 <b>건설<\/b>회사이다. 국토교통부가 발표한 '종합<b>건설<\/b>사 시공능력평가'에서 시평액 6조 7... ",
+			"thumbnail":""
+		},
+		{
+			"title":"벽산<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B2%BD%EC%82%B0%EA%B1%B4%EC%84%A4",
+			"description":"벽산<b>건설<\/b> (碧山建設)은 인천광역시 연수구에 위치한 대한민국의 <b>건설<\/b>기업이며, 벽산그룹의 주력회사이다. 1958년에 설립되었으나 2014년 4월 16일 법원(서울중앙지법 파산6부)로부터 파산을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서희<b>건설<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%9C%ED%9D%AC%EA%B1%B4%EC%84%A4",
+			"description":"서희<b>건설<\/b> (瑞熙建設, 영어: Seohee Construction Co., Ltd. )은 경기도 성남시 분당구 수내동에 위치한 <b>건설<\/b>기업이다. 1982년 10월 22일에 운송 업체인 영대운수가 시초이며 1994년 9월에 <b>건설<\/b>업으로... ",
+			"thumbnail":""
+		}
+	]
+}

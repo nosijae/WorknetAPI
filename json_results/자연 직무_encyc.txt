@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:10 +0900",
+	"total":1190,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>자연<\/b>학습교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025391&cid=42117&categoryId=42117",
+			"description":" 초등학생 등을 대상으로 동물, 식물, 곤충에 관한 <b>자연<\/b>학습을 지도하고 설명한다. [수행<b>직무<\/b>] 계절별 <b>자연<\/b>학습 일정을 수립한다. 일 년간 교육 일정을 각종 학교에 배포한다. <b>자연<\/b>학습에 대한 교육을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 지도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=384140&cid=42128&categoryId=42128",
+			"description":"보조와 조정 방법을 연구하여 변경해 주며, 장애인이 주기적인 <b>직무<\/b> 지도원의 도움이 없이도 독립적으로 업무를 수행할 수 있도록 <b>자연<\/b>적 지원을 활용할 수 있는 방법을 최대한 연구해 가르치는 역할을 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>과학교수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837685&cid=42117&categoryId=42117",
+			"description":" 대학에서 <b>자연<\/b>과학 분야의 전문가를 양성하기 위해 물리학, 수학, 화학, 생명과학, 지구과학, 환경학 등에 대한 이론과 지식을 강의하고 관련 학문을 연구한다. [수행<b>직무<\/b>] 대학에서 대학생들을 대상으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 특성 이론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070240&cid=41991&categoryId=41991",
+			"description":" <b>직무<\/b> 특성 이론은 특정한 <b>직무<\/b> 특성이 특정한 심리 상태를 유발하고 이것이 다시 <b>직무<\/b> 성과와 연관되는데, 이때 종업원의 개인차가 이러한 일련의 과정에 영향을 줄 수 있다는 이론이다. [ 1. 개요]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2883_000_1\/20140311193050896_O17H8FZG2.jpg\/af2_210_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>자연<\/b>치즈전처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028919&cid=42117&categoryId=42117",
+			"description":" <b>자연<\/b>치즈를 제조하고자 살균된 원유의 접종, 혼합, 응고, 절단 등에 사용하는 각종 설비를 조작·관리한다. [수행<b>직무<\/b>] 살균된 원유를 이송펌프를 조작하여 치즈제조탱크로 이송한다. 유산균이 적절하게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>과학연구관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627251&cid=42117&categoryId=42117",
+			"description":" 물리학, 화학, 기상학 등 <b>자연<\/b>과학에 대한 상업, 비상업적 연구개발 등과 관련된 활동을 기획, 지휘 및 조정하는 등 R&#38;D 총괄업무를 한다. [수행<b>직무<\/b>] 물리학, 화학, 기상학 등 <b>자연<\/b>과학 분야의 단기 및 중장기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>치즈제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028920&cid=42117&categoryId=42117",
+			"description":" 젖산균, 응유효소와 산을 이용하여 우유 중의 카세인(Casein:치즈성분)을 응고시키고 부산물(Whey:훼이)을 제거하여 <b>자연<\/b>치즈를 제조한다. [수행<b>직무<\/b>] 치즈제조 용기에 전유, 탈지유, 크림, 버터밀크 등의 원료를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>치즈후처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028921&cid=42117&categoryId=42117",
+			"description":" 전처리된 <b>자연<\/b>치즈용 커드(Curd)를 압착, 냉각, 성형, 가염, 숙성하고자 관련 기계 및 설비를 조작·관리한다. [수행<b>직무<\/b>] 전처리과정을 거쳐서 마무리저장조(Finish Vat)로 이송된 커드의 양을 확인한다. 커드... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>생태복원기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054112&cid=42114&categoryId=42114",
+			"description":"인한 <b>자연<\/b>환경의 훼손이 생태계 파괴로 이어져 모든 생물의 생존뿐만 아니라 우리 삶의 터전마저 크게 위협받고 있다. ② 공기 및 수질은 오염되고, 산림은 황폐해지며, 멸종해가는 종이 증가하면서 <b>자연<\/b>환... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203741381_YFEF46MX8.jpg\/da6_526_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>환경관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054114&cid=42114&categoryId=42114",
+			"description":"인한 <b>자연<\/b>환경의 훼손이 생태계 파괴로 이어져 모든 생물의 생존뿐만 아니라 우리 삶의 터전마저 크게 위협받고 있다. ② 공기 및 수질은 오염되고, 산림은 황폐해지며, 멸종해가는 종이 증가하면서 <b>자연<\/b>환... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203746399_KYHENROKC.jpg\/da6_528_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>생태복원산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054113&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>자연<\/b>생태복원산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>자연<\/b>생태복원산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>자연<\/b>생태복원산업기사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191130472_QF0JIRD8J.jpg\/da6_527_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"파논할마의 베네딕트회 수도원과 <b>자연<\/b> 환경",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1392113&cid=62346&categoryId=62353",
+			"description":" 베네딕트회 수도사들은 996년 파논할마(Pannonhalma)에 정착하여, 첫 학교를 설립하고 헝가리 인들을 교화시켰으며, 1055년에는 최초의 헝가리어 문헌을 작성했다. 베네딕트회 수도원은 창설 때부터 중부... ",
+			"thumbnail":""
+		},
+		{
+			"title":"야생동물생태복원사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025212&cid=42117&categoryId=42117",
+			"description":" <b>자연<\/b>생태 관련 법·제도 및 전문지식을 이용하여 야생동물생태계 요인을 분석하고 훼손된 생태계를 복원한다. [수행<b>직무<\/b>] <b>자연<\/b>생태 관련 법·제도와 전문지식, 숙련기능을 바탕으로 현장에서 야생동물조사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"핵융합로연구개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832686&cid=42117&categoryId=42117",
+			"description":" 핵융합로(제어된 핵융합 반응을 일으켜 거기에서 얻어지는 에너지를 발전 등에 이용하기 위한 시스템)의 구조, 재료, 운영방법 등을 연구·개발한다. [수행<b>직무<\/b>] <b>자연<\/b>상태에서는 불가능한 연속적이고 지속적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"숲해설사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664978&cid=42117&categoryId=42117",
+			"description":" 휴양림, 수목원 등에서 탐방객들에게 <b>자연<\/b>생태 등을 설명하고 스스로 관찰할 수 있도록 도와준다. [수행<b>직무<\/b>] <b>자연<\/b>휴양림, 수목원, <b>자연<\/b>생태공원 등을 찾아오는 탐방객들에게 숲과 <b>자연<\/b>생태, <b>자연<\/b>과 인간과의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"환경영향평가원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953454&cid=42117&categoryId=42117",
+			"description":" 환경영향평가 대상 사업의 계획을 수립하는데 당해 사업의 시행으로 인하여 <b>자연<\/b>환경, 생활환경, 사회·경제 환경에 미치는 해로운 영향을 미리 예측·분석하여 환경영향을 줄이는 방안을 강구하고 제안한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025593&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>자연<\/b>, 인생 등 여러 현상을 작가의 주관적이고 독특한 시각으로 관찰하여 시적 어구로 기록하여 전달한다. 각 신문사, 출판사, 문예지, 문학상, 인터넷을 통해 등단한다. 각종 문예지에 기고하거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수필가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025592&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>자연<\/b>현상이나 사물, 현상을 보고 느낀 감정을 자유로운 문장형식으로 기록한다. 작가 자신의 경험을 바탕으로 자신의 정서를 표현하여 전달한다. 각 신문사, 출판사, 문예지, 문학상, 인터넷을 통해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"쾌감과 지성의 관계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1001139&cid=41908&categoryId=41953",
+			"description":"발견하였을 때 느끼는 쾌감을 염두에 둔 것으로 생각된다. 즉 <b>자연<\/b>에 대한 주관적 표상을 지성의 <b>직무<\/b>(<b>자연<\/b>질서의 발견)와 이성의 관심(체계의 통일)과 성공적으로 결합시켰을 때 발생하는 쾌감이다. 우리는",
+			"thumbnail":""
+		},
+		{
+			"title":"반성적 판단력과 쾌의 감정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1001107&cid=41908&categoryId=41953",
+			"description":"우선 지성적인 쾌 중에서 개념에 의한 쾌를 우리는 지성에 의한 <b>자연<\/b>인식의 성공에서 유래하는 쾌의 감정으로 추측해 볼 수 있다. 아리스토텔레스도 언급하였듯이 우리는 흔히 대상에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"판단력비판",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=800914&cid=41978&categoryId=41982",
+			"description":"희망할 수 있는 바는 이 세계가 아름답고 조화로운 합목적적인 질서를 가진 세계라는 것이다. 칸트 스스로가 밝히고 있는 바에 따르면 『판단력비판』은 본래 <b>자연<\/b>과 자유 사이에 놓인 커다란 심연을 매개하",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0850_000_1\/20111213164037764_EWO6ZE6Q9.jpg\/mod_kant_judgement.jpg?type=m160_160"
+		},
+		{
+			"title":"Priest",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2368841&cid=69168&categoryId=51340",
+			"description":"[영] 사제(司祭), 신부, 사제직. Priest라는 말은 라틴어 Praesbyter, 그리스어 presbyteros의 축소형이며 신약성서 영역 Authorized Version과 Revision에서는 eld-er(장로)라고 번역했는데 이 말은 교회의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립문화재연구원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%EB%AC%B8%ED%99%94%EC%9E%AC%EC%97%B0%EA%B5%AC%EC%9B%90",
+			"description":"<b>직무<\/b> 문화유산 및 <b>자연<\/b>유산에 관한 학술조사·연구 문화유산 및 <b>자연<\/b>유산의 보존·복원기술의 연구개발 문화유산 및 <b>자연<\/b>유산의 복원 및 활용에 관한 연구 문화유산 및 <b>자연<\/b>유산 연구를 위한 국내... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양산희망학교 (양산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5949034&cid=51941&categoryId=54760",
+			"description":"[정의] 경상남도 양산시 상북면에 위치한 공립 특수 학교. [교육 목표(교훈 포함)] 경상남도 동부권 장애 학생들이 희망을 잃지 않고 내일의 꿈을 키워 나갈 수 있는 쉼터이자 배움터로서 제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생선절단원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028864&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 물탱크에서 <b>자연<\/b> 해동시켜 내장 등을 제거한 수산물의 상태를 확인한다. 전기톱을 사용하여 수산물을 일정한 크기로 절단한다. 그라인더를 사용하여 불필요한 부위를 제거한다. 용도에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"통계학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025170&cid=42117&categoryId=42117",
+			"description":" 통계방법의 자문, 통계조사의 계획·실시, 통계자료의 조직, 분석, 해석 등의 업무를 수행한다. [수행<b>직무<\/b>] 통계학의 기초가 되는 수학이론과 증명을 연구한다. 계수적 자료를 구하고 평가하는 새롭고 개선된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지질자원연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837700&cid=42117&categoryId=42117",
+			"description":" 지질 및 지하자원 전반에 대한 연구·개발업무를 한다. [수행<b>직무<\/b>] 지질도 작성, 지질 및 지구조 등 지질기반정보연구를 한다. 지하수오염 방지 및 <b>자연<\/b>저감, 지하수 환경보존 등의 지하수 관련 연구를 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생태계복원관리연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025202&cid=42117&categoryId=42117",
+			"description":" 기후변화 및 환경오염으로 인한 생태계 영향, 훼손된 생태계 복원기술 등에 관한 연구를 수행한다. [수행<b>직무<\/b>] 기후변화 및 환경오염, 도시개발 등과 같은 <b>자연<\/b>적, 인위적 간섭에 의해 훼손된 중요한 서식처나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광산지질조사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025149&cid=42117&categoryId=42117",
+			"description":" 지하자원의 채굴 및 광구관리를 위하여 지질의 광상을 조사한다. [수행<b>직무<\/b>] 탐사자료, 지질도 등을 검토하여 조사대상지역을 선정한다. 광맥발달상태 및 지질구조를 파악한다. 유용한 광물매장이 예상되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지질학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025168&cid=42117&categoryId=42117",
+			"description":" 지구상에서 일어나는 제현상을 지구작용의 원리(지각, 맨틀 및 핵 그리고 이와 연계된 지구 구성물질의 특징과 생성, 소멸 및 순환)를 근간으로 하여 연구한다. [수행<b>직무<\/b>] 광물학(Mineralogy)분야의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지구물리학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837699&cid=42117&categoryId=42117",
+			"description":" 물리학적 방법을 이용하여 지구내부 현상의 물리적 반응 또는 이에 따른 이상(Anomaly)을 측정하여 분석 및 해석하는 연구를 수행한다. [수행<b>직무<\/b>] 지열·지구내부물리·지구동력학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조경학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025231&cid=42117&categoryId=42117",
+			"description":" 산림자원을 효율적으로 이용·관리하는 기술과 도시 및 <b>자연<\/b>환경을 미적·기능적으로 계획·설계·보존·복원하기 위한 기술을 연구·개발한다. [수행<b>직무<\/b>] 생물자원, 무생물자원, 환경자원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"어류생태연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025215&cid=42117&categoryId=42117",
+			"description":" 각종 어류의 사육실험, 치어생산, 질병연구, 어류의 사육·전시방법 등을 연구·개발한다. [수행<b>직무<\/b>] 각종 어류의 습성, 사료, 생태환경 등에 관한 자료를 수집·분석한다. 사육실험을 위하여 수족관을 설치하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안드로이드로봇공학기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832794&cid=42117&categoryId=42117",
+			"description":" 사람과 닮은 안드로이드 로봇을 연구·개발한다. [수행<b>직무<\/b>] 사람의 모습과 행동을 로봇에 구현하기 위해 인간의 외형을 모델링하여 얼굴, 골격, 손 등의 생체모방 로봇구조를 설계한다. 인간의 외모와 비슷한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유치원교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025348&cid=42117&categoryId=42117",
+			"description":" 유치원에서 취학 전 유아들의 신체적·정신적·사회적 발달을 증진시키기 위하여 기초적인 <b>자연<\/b>과학, 사회과학, 예체능 등의 교육활동을 지도한다. [수행<b>직무<\/b>] 유아의 인지발달과 학습능력 개발을 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"곤충연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025175&cid=42117&categoryId=42117",
+			"description":" 농업분야의 유용곤충 자원을 탐색·증식하고, 새로운 유용곤충을 개발한다. [수행<b>직무<\/b>] 국내의 자생 유용곤충자원을 수집·탐색한다. 곤충의 분류체계를 확립한다. 곤충인공사료의 개발 및 실용화, 곤충자원의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농약활성연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027396&cid=42117&categoryId=42117",
+			"description":" 활성미지물에 대한 농약의 이용가능성을 평가하고 농업생물의 생리·생태·생화학적인 특성을 규명하여 환경조화형 신농약을 개발하며 그 생명현상에 대한 활용성을 연구한다. [수행<b>직무<\/b>] 농업유해 생물의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립김천치유의숲",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5957092&cid=42856&categoryId=42856",
+			"description":"도모, 오감자극 수도산 웰니스 테라피 - 대상 : 직장인, <b>직무<\/b>스트레스 노출 성인 - 주요내용 : 건강트레킹, 반식욕, 족욕, 다도 등 - 기대효과 : <b>직무<\/b>스트레스 감소, 노폐물 배출 찾아가는 산림치유 서비스 - 대상",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2818_000_29\/20201013171023238_0RMVJ8OSJ.JPG\/2675641_image2_1.JPG?type=m160_160"
+		},
+		{
+			"title":"토끼사육사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832810&cid=42117&categoryId=42117",
+			"description":"번식지의 <b>자연<\/b>환경과 유사한 사육장을 설치한다. 토끼의 사육 및 번식을 위하여 먹이와 물을 주기적으로 공급한다. 난로 또는 보온장비를 사용하여 사육에 적합한 온도, 습도를 유지한다. 가벼운 질병 및 상처를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공봉합원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028013&cid=42117&categoryId=42117",
+			"description":"실에 밀(실이 잘 빠지도록 하는 윤활제)을 칠하여 <b>자연<\/b> 건조시킨다. 바늘에 실을 끼운 후 손으로 실을 잡아당기면서 꿰맨다. 공의 종류에 따라 봉합된 끝부분을 순간접착제로 붙인 후 마무리하기 위해 망치로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전통놀이강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837727&cid=42117&categoryId=42117",
+			"description":"전통놀이 외에도 가을 송편 빚기나 전래동화 읽기, 식물채집 등 다양한 전통문화 활동을 교육하기도 한다. 교구재 제작을 위해 구입이 어려운 <b>자연<\/b>재료는 직접 산과 들로 다니며 재료를 구해서 만들기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"애니메트로닉스제작자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832761&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 만들고자 하는 모형을 모델링 프로그램과 동역학 프로그램을 사용해 문제점을 수정하고 <b>자연<\/b>스러운 움직임을 위한 시뮬레이션 작업을 한다. 흙이나 점토 등을 사용하여 원형을 조각하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현장편집기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837794&cid=42117&categoryId=42117",
+			"description":"<b>자연<\/b>스러운 장면 연결을 위해 장면의 전환, 배우들의 의상 및 분장 등이 일관적이고 통일성이 있는지 확인한다. 영화감독과 함께 부족한 장면이 있는지 검토한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"모델강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025370&cid=42117&categoryId=42117",
+			"description":"<b>자연<\/b>스러운 걸음걸이가 되도록 교정한 후 무대배경이나 의상 종류 등에 따라 자기연출이 되도록 지도한다. 지망생 및 모델 등에게 장점을 발전시키도록 지도하고 단점은 시범과 반복교육을 통하여 올바른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"잠종보호원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029674&cid=42117&categoryId=42117",
+			"description":"누에씨를 일정 기간 <b>자연<\/b>온도 상태로 방치한 후 누에씨를 씻어 음지에서 말려 잠종보호고에 보관한다. 누에치기에 적당한 시기가 되면 잠종의 품종이나 수량을 확인하여 포장하고 잠종 배부준비를 한다. 잠종을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대안학교교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025343&cid=42117&categoryId=42117",
+			"description":"종교·환경·시민단체에서, 주말이나 방학에 <b>자연<\/b>답사, 체험활동, 방과 후 학습활동 등의 대안교육 프로그램을 운영하는 비상설 대안학교에서 학생들을 가르치기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"양사육사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029664&cid=42117&categoryId=42117",
+			"description":"발정기를 관찰하여 <b>자연<\/b>교배시키고 임신 후, 일정 기간이 지나면 충분한 영양분을 공급한다. 분만 전에는 예방주사 및 구충제를 투여한다. 양모가 가장 좋은 시기에 털깎기를 한다. 양들을 검사하여 무리로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"적재원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025921&cid=42117&categoryId=42117",
+			"description":"손으로 들거나 운반도구를 이용하여 물품을 운반하고 균형을 잡으며 적재한다. 적재량을 작업일지에 기록한다. <b>자연<\/b>재해로부터 적재품을 보호하기 위하여 방호조치를 하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"장례복원메이크업전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026155&cid=42117&categoryId=42117",
+			"description":"파운데이션을 선택하고 손으로 바르는 스펀지, 붓, 에어브러시 기구를 사용하여 고인의 피부 <b>자연<\/b>스럽게 보정하고, 변색피부는 생전의 피부색에 가깝도록 <b>자연<\/b>스럽게 커버하여 복원시킨다. 색조화장은 피부색... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가축결박원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028834&cid=42117&categoryId=42117",
+			"description":"<b>자연<\/b>스러운 자세로 섀클체인에 감긴 가축을 들어 올려 방혈컨베이어에 올린다. 컨베이어를 작동시켜 가축을 방혈공정으로 이송한다. 작업한 수량을 작업일지에 기록하고 물호스를 사용하여 작업장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장신구석고형틀제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029504&cid=42117&categoryId=42117",
+			"description":"석고를 말리기 위해 플라스크를 일정한 그늘에 놓는다. 왁스를 용해시키기 위하여 전기가마에 넣는다. 전기가마에서 석고형틀을 꺼내고 <b>자연<\/b> 상태에서 건조시킨 후 물에 넣어 석고를 제거한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"모피판장원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028113&cid=42117&categoryId=42117",
+			"description":"고정한 원피를 건조실에 넣어 건조하거나 <b>자연<\/b>건조 시킨다. 건조실에서 원피를 꺼내어 작업대에 놓는다. 원피에서 스테이플러의 핀을 제거하고 스팀기로 털을 편다. 작업이 완료된 원피를 다음 공정으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소목장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026366&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 목부재의 종류에 따라 목재를 선정·구입하고 통풍이 잘되는 곳에서 <b>자연<\/b>상태로 건조시킨다. 설계도와 고증자료를 검토하고 작업내용을 작업원들에게 지시한다. 목재의 보관상태나 함수상태가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"토피어리디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665185&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 만들고자 하는 토피어리(Topiary:<b>자연<\/b> 그대로의 식물을 여러 가지 동물 모양으로 자르고 다듬어 보기 좋게 만드는 기술 또는 작품)의 주제 및 모형을 구상한다. 제작의뢰가 들어올 경우 고객이 어떠한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"디핑작업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028063&cid=42117&categoryId=42117",
+			"description":"열경화성수지를 용제에 담그고 집게를 꺼내어 일정 시간 <b>자연<\/b>건조 한다. 갑피뒤축에 풀칠을 한다. 건조한 열경화성수지를 갑피 뒤축에 끼우고 갑피 게이지 선에 맞추어 손으로 고정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"롤러압착기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029287&cid=42117&categoryId=42117",
+			"description":"도포된 접착제가 <b>자연<\/b>건조 되도록 일정 시간 방치한다. 기계 부착된 폭 조정 핸들을 돌려 소재 규격보다 약간 높게 압축롤러를 조정한다. 테두리를 목재 패널에 가접착시킨 후 롤러를 가동한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예술사진작가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025627&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 사회, 문화, <b>자연<\/b>, 인간 등을 소재로 스튜디오 또는 야외에서 사진을 촬영한다. 출사(출장사진, 야외촬영)의 경우 바닷가, 산, 도시, 유적지 등의 현장을 답사하여 작품의 소재를 구상하고 사진을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"석부원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029641&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 석부작(石附昨:돌에 바닷가 벼랑 등지에서 서식하는 풍란과 나도풍란 또는 나무, 초목 등 여러 형태의 것을 붙여서 만든 것)을 작품으로 또는 <b>자연<\/b>의 형태로 만드는 대상이 위치할 장소에 따라 조화를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국악기가죽가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029442&cid=42117&categoryId=42117",
+			"description":"못을 박아 가죽을 틀에 고정하고 일정한 시간동안 <b>자연<\/b> 건조한다. 건조된 가죽의 테를 실로 꿰매고 실과 철사 고리를 이용하여 부전(가죽이 강도를 조절하는 판)을 끼워 가죽을 통에 맨다. 부전을 밀거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"주화표면처리연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026938&cid=42117&categoryId=42117",
+			"description":"문양의 음영효과를 <b>자연<\/b>스럽게 표현할 수 있는 착색피막을 벗겨내는 작업인 조색기법을 연구한다. 각종 금형의 내마모성을 증대시키기 위한 경질크롬도금, 진공증착 등의 표면처리방법을 연구한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"수자원환경연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664756&cid=42117&categoryId=42117",
+			"description":"하천유역의 물순환을 분석하고, <b>자연<\/b>형 하천복원을 위한 하천의 특성을 연구한다. 생태환경관리를 위한 기초자료를 축적하고 연구한다. 수질·생태환경 정책 개발 및 대안을 제시한다. 기타 연구원(일반)들이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"입체영상애니메이터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837753&cid=42117&categoryId=42117",
+			"description":"오브젝트의 모션컨트롤러를 조작하여 기본 동작을 만들고 모션 중간에 키값을 만들어 점차 <b>자연<\/b>스러운 동작을 구현한다. 함수곡선과 모션컨트롤 기법을 사용하여 오브젝트의 사실적인 움직임(가속... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수산물원료처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028867&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 어패류 또는 해동(저온, <b>자연<\/b>)된 어패류를 작업명세표의 규격을 확인한 후, 크기별로 선별한다. 패류는 껍질을 제거하고자 탈각공정으로 운반한다. 어류는 종류에 따라 지느러미, 꼬리, 머리를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"밴드절단기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027655&cid=42117&categoryId=42117",
+			"description":"떨어지는 밴드를 운반상자에 받아 물로 씻어낸다. 세척된 고무밴드는 끊어짐을 방지하기 위한 약품을 칠한 후에 건조기에 통과시켜 건조를 하거나 <b>자연<\/b>건조를 시킨다.",
+			"thumbnail":""
+		},
+		{
+			"title":"간접광고마케터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024547&cid=42117&categoryId=42117",
+			"description":"작가, PD, 소품팀, 연출팀, PPL 담당자 등 제작 관련 인원과 협의하여 광고아이템이 <b>자연<\/b>스럽게 노출되고 광고효과가 높은 장면, 장소, 소품, 스토리, 방영차수, 노출방식 등 세부사항을 결정하고 진행한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항로표지설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953506&cid=42117&categoryId=42117",
+			"description":"항로한계선, 등·부표배치선, 항로상 변칙점, 준설항로 및 협소한 <b>자연<\/b>적 항로, 법정권고 설치기준, 항만표지 배치기준 등을 검토한다. 등·부표의 중량분포, 중심·부심·경심의 높이, 진동주기, 외력에 의한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문화관광해설사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026166&cid=42117&categoryId=42117",
+			"description":"문화유적에 대한 관광객의 이해를 돕기 위해 가벼운 이야기 위주의 해설로부터 역사, 문화, <b>자연<\/b>에 대한 전문적인 해설을 한다. 관광객들의 바람직한 관람예절과 건전한 관광문화를 유도한다. 문화재를 비롯한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신경과전문의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025437&cid=42117&categoryId=42117",
+			"description":"노인의 <b>자연<\/b>적 퇴화로 인하여 발생할 수 있는 장애에 관하여 상담하고 정상적 혹은 이와 상응하는 일상생활이 가능하도록 전신적 건강상태 점검 및 조언과 가족상담을 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"한지제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953512&cid=42117&categoryId=42117",
+			"description":"풀칠을 하여 붙여 디딜방아나 방망이로 두들겨서 종이가 치밀하고 매끄러우며 윤기가 나도록 한다. <b>자연<\/b>소재인 식물의 뿌리, 줄기, 잎 등에서 얻는 천연염료를 물에 끊여 종이를 각종 색상으로 염색한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"신재생하이브리드시스템개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665263&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 신재생에너지(지열, 태양열, 태양광, 풍력 등)을 활용한 생산개념의 액티브기술과 <b>자연<\/b>형 태양열기술, 배열회수기술 등 패시브기술을 접목시킨다. 건물일체형 태양열시스템, 태양광시스템... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보험금심사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025084&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 보험사고조사기법에 대한 지식을 숙지하고 사고가 <b>자연<\/b>적 사고인지 인위적 사고인지를 판단하기 위해 사고의 발생시기와 정도를 파악하여 보험금 지급이 적절히 될 수 있도록 조사한다. 보험사고 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광산측량기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665370&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 광산의 측량을 실시하여 광상(鑛床:광물자원이 암석 속에 <b>자연<\/b>상태로 집중되어 있는 것)의 위치, 심도, 규모, 광맥의 변화 등 광산의 조건변화에 대한 조사보고서를 작성한다. 측량현장에서 사용되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부채제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029460&cid=42117&categoryId=42117",
+			"description":"이 반제품을 압착기로 압착한 후에 건조기에 건조하거나 <b>자연<\/b>건조를 한다. 부채 손잡이에 수술이나 매듭, 염주 등의 장식용 끈을 달고 상표를 부착한다. 접부채를 제조할 경우에는 재단한 부채꼴 원단을 손으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"애니메이션리깅원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837743&cid=42117&categoryId=42117",
+			"description":"오브젝트의 사실적인 움직임(가속, 감속, 포물선 운동, 불규칙 운동, 유연한 운동, 기계적인 운동 등) 및 캐릭터가 해부학적으로 <b>자연<\/b>스러운 동작(걷기, 던지기, 들기, 앉기, 돌기, 구부리기 등)이 되도록... ",
+			"thumbnail":""
+		},
+		{
+			"title":"게임콘셉트디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028721&cid=42117&categoryId=42117",
+			"description":"게임의 공간적 배경에 따라 게임에서 구현하는 <b>자연<\/b>·인공환경에 대한 기획서를 작성한다. 게임 내 세계에 대한 역사적 배경과 세계관 속의 규칙, 세계관 요소에 대한 개요를 작성하고, 이를 바탕으로 게임 내의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가공치즈원료분쇄원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028875&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 제조하고자 하는 치즈의 종류에 따라 유산균의 비중, 숙성도가 서로 다른 체더, 콜비, 몬테레이 등의 <b>자연<\/b>치즈 중에서 필요한 원료치즈를 선별한다. 선별된 원료치즈들의 비닐포장상태를 점검하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"낚싯대도장공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027040&cid=42117&categoryId=42117",
+			"description":"필요한 공정은 붓에 도료를 묻혀서 권사부위에 골고루 칠한다. 도료를 칠한 소재를 <b>자연<\/b>건조 시키거나 건조기 물림대에 끼워 건조한다. 도장된 상태를 검사하고 소재의 중량·명칭 등을 기록표에 기록한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"만두소제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028970&cid=42117&categoryId=42117",
+			"description":"선별된 재료를 세척통에 넣어 흙과 이물질 등을 세척한 후, <b>자연<\/b>건조를 시키거나 탈수기에 투입하여 물기를 제거한다. 세절기의 투입구에 여러 가지 재료를 정해진 순서에 따라 투입한 후, 기계를 가동하여 제품... ",
+			"thumbnail":""
+		},
+		{
+			"title":"효과음향기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025771&cid=42117&categoryId=42117",
+			"description":"편집에 참여하여 음향효과 장비를 조작한다. 여러 물건이나 재료를 사용하여 천둥, 발자국 소리 등을 연출하여 CD, 멀티트랙터레코더 등에 녹음한다. 야외에서 <b>자연<\/b>에 관련된 소리를 녹음하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"과학교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025325&cid=42117&categoryId=42117",
+			"description":"<b>자연<\/b>과학적 현상의 올바른 이해를 위해 실험·실습을 계획, 지도한다. 환경과 실생활 문제를 학습의 소재로 활용하고 탐구활동을 통하여 문제해결능력 육성에 중점을 둔다. 과학지식의 각 분야는 전 학년에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027748&cid=42117&categoryId=42117",
+			"description":"몸체를 풀칠작업대 위에 올려놓고 붓으로 접착제를 칠한 후, 일정 시간 <b>자연<\/b> 건조시킨다. 건조시킨 몸체를 작업대에 올려놓고 대나무칼을 사용하여 이음매를 따라 문지른다. 몸체에 드릴로 밸브구멍을 뚫는다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가발원사가공처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028087&cid=42117&categoryId=42117",
+			"description":"통에서 꺼낸 원사를 줄에 걸어 <b>자연<\/b> 건조시킨다. 건조한 원사를 작업대에 놓는다. 가발원사에 약품처리 및 열처리를 하기도 한다. 원사를 고정된 빗니 사이로 당겨서 엉킨 부분을 제거한다. 원사의 길이에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고체화학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025148&cid=42117&categoryId=42117",
+			"description":" 고체에 대한 문제를 화학적으로 연구한다. [수행<b>직무<\/b>] 무기물질의 정확한 구조와 결정성장의 원리, 대칭요소, 결정의 표현 등을 분석한다. 무기고체화합물을 응용하여 발광재료, 자성재료, 초전도재료 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항로표지설치기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953499&cid=42117&categoryId=42117",
+			"description":"항로한계선, 등·부표배치선, 항로상 변칙점, 준설항로 및 협소한 <b>자연<\/b>적 항로, 법정권고 설치기준, 항만표지 배치기준 등을 검토한다. 등·부표의 중량분포, 중심·부심·경심의 높이, 진동주기, 외력에 의한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"옥녀봉 (당진)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5149156&cid=60111&categoryId=60190",
+			"description":"전설에 의하면 연헌(蓮軒) 이의무(李宜茂)가 홍주 목사로 재임할 때 <b>직무<\/b> 가운데 가장 큰 일 하나가 군마를 기르는 일이었다. 당진시 송산면 도문리와 유곡리, 무수리 접경 산록에 높은 토성을 쌓고 목장을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"분무시유원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027302&cid=42117&categoryId=42117",
+			"description":"전체 면에 고른 두께로 유약이 시유되도록 분무기와 제품 간의 간격을 유지한다. 시유된 제품을 건조대에 올려 <b>자연<\/b> 건조시킨다. 시유 및 건조를 2~3회 반복한다. 작업이 완료되면 분무기를 세척하고, 공기 압축",
+			"thumbnail":""
+		},
+		{
+			"title":"슬리브제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027267&cid=42117&categoryId=42117",
+			"description":"완전 경화된 슬리브의 선단부(Tip)를 작업표준에 의하여 선반으로 절삭하고 <b>자연<\/b>상태에서 완전 건조한다. 건조된 슬리브를 저온소성(가소)한다. 완성된 슬리브의 가공상태를 검사한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"전자계산이론연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837698&cid=42117&categoryId=42117",
+			"description":" 계산기하학, 수학적 논리, 계산복잡도 등의 컴퓨터과학이론을 연구한다. [수행<b>직무<\/b>] 각종 자료를 처리하기 위하여 컴퓨터 계산방법을 적용하고 처리과정을 추적한다. 컴퓨터의 처리절차를 분석하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항만해안설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953619&cid=42117&categoryId=42117",
+			"description":"대상지역의 지형, 수심, 지질, 조류, 파도, 조석간만의 차, 온도변화, 일조량 등 대상지역의 <b>자연<\/b>조건에 대한 자료를 수집한다. 대상지역과 인접지역의 취급화물량, 교통량추이, 인구동향, 수요량 변화추이 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유약처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029470&cid=42117&categoryId=42117",
+			"description":"시유두께가 알맞으면 손이나 집게로 성형품을 집어 유약에 담근 후 꺼내어 철망 위에 올려놓아 그늘에서 <b>자연<\/b> 건조시킨다. 오목한 부분에 고여 있는 유약은 붓으로 닦아낸다. 유약이 손에 묻어나지 않을 정도로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국악현악기제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029445&cid=42117&categoryId=42117",
+			"description":"절단한 재료를 <b>자연<\/b> 건조한다. 절단한 나무를 대패, 끌 등을 사용하여 일정한 두께와 폭으로 깎는다. 위판(오동나무)과 뒤판(밤나무)을 접착제를 사용하여 붙인다. 오동나무판을 나무못이나 접착제를 사용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"초등학교교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025342&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 도덕, 국어, 사회, 수학, <b>자연<\/b>, 영어, 체육, 음악, 미술 및 실과 등의 초등교과목에 대한 학습지도안을 작성한다. 수업자료를 개발하고 준비한다. 출석을 확인하고 교과서 및 시청각자료를 활용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생태어메니티전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024563&cid=42117&categoryId=42117",
+			"description":"농촌체험마을, 농촌전통테마마을, <b>자연<\/b>생태마을, 팜스테이 등 농촌관광사업에 대해 컨설팅한다. 농촌관광사업을 운영할 수 있도록 지역주민들을 교육한다. 생태어메니티사업을 이끌어갈 지역리더들을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"솔제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029541&cid=42117&categoryId=42117",
+			"description":"접착제가 흘러나오지 않도록 구관을 세워 놓고 완전히 굳을 때까지 <b>자연<\/b> 건조한다. 착관이 된 꺼칠꺼칠한 모를 손으로 잡고 구관을 돌려가면서 칼로 다듬는다. 잘라진 모를 제거하기 위해 테이프 전면에 모의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수산종묘관리기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025311&cid=42117&categoryId=42117",
+			"description":"품종에 따라 <b>자연<\/b> 또는 인공적으로 채묘(採苗:천연 종묘생산의 한 과정)하고 일정기간 사육한다. 종업원들을 지휘하여 행망, 틀, 바구니, 크레인 등을 사용하여 종묘나 사상체를 채취하고 분류, 포장하는 일을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유기분석연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025164&cid=42117&categoryId=42117",
+			"description":" 유기 및 가스, 생화학물질의 분석에 관련된 측정법 개발과 표준기준물을 개발·보급한다. [수행<b>직무<\/b>] 각종 표준가스, 임상검사용 혈청표준기준물, 유해환경오염유기물질측정용 표준기준물 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기후변화연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025152&cid=42117&categoryId=42117",
+			"description":" 기후변화의 원인을 분석하고 기후변화에 따른 적응, 온실가스 저감 등의 대응책을 연구한다. [수행<b>직무<\/b>] 지구온난화 등에 따라 장기간에 걸쳐 진행되는 기후의 변화를 예측하고 온실가스와 같이 인위적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광산기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025819&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 광상(鑛床:광물자원이 암석 속에 <b>자연<\/b> 상태로 집중되어 있는 것)의 위치, 심도, 규모, 가치, 광맥의 변화, 출수 등 조건변화에 따라 가장 효율적인 채광방법 및 지질학적 연구를 한다. 광산공학적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경관디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627195&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 자원의 중요도와 가치 등을 기준으로 경관자원(<b>자연<\/b>경관자원, 산림경관자원, 농산어촌경관자원, 시가지경관자원, 역사문화경관자원 등)을 조사하고 평가한다. 평가 결과에 따라 경관디자인의 목적... ",
+			"thumbnail":""
+		}
+	]
+}

@@ -1,0 +1,162 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:54 +0900",
+	"total":14,
+	"start":1,
+	"display":14,
+	"items":[
+		{
+			"title":"NCS기반 직무분야별 직무능력평가 12 이용.숙박.여행.오락.스포츠",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32497234618",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249723\/32497234618.20220521050653.jpg",
+			"author":"",
+			"discount":"20700",
+			"publisher":"씨마스",
+			"pubdate":"20160120",
+			"isbn":"9791156720560",
+			"description":"NCS(국가직무능력표준) 기반의 채용 방식에 최적화된 정보를 제공한다. 기업들의 최신 채용 공고를 제공하여 채용 시장의 변화와 동향을 파악할 수 있도록 하였고, NCS기반 입사 지원 서류의 작성 방법과 다양한 면접 사례를 제공하여 NCS 기반의 채용 방식에 대한 감을 잡을 수 있도록 해준다. 무엇보다 기존의 인.적성 검사와 전공시험을 대체하는 직업기초능력과 직무수행능력 필기시험에 완벽하게 대비할 수 있도록 다양한 실전 문제를 제공하고 있다."
+		},
+		{
+			"title":"항공사 객실승무원 직무와 면접",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32487798142",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3248779\/32487798142.20220527023750.jpg",
+			"author":"안명숙",
+			"discount":"16200",
+			"publisher":"새로미",
+			"pubdate":"20200901",
+			"isbn":"9788964767221",
+			"description":"『항공사 객실승무원 직무와 면접』은 〈직무의 이해〉, 〈직무요구와 직무역량〉, 〈직무동기와 만족〉, 〈항공운송사업의 이해〉 등 항공사 객실승무원 직무와 면접의 기초적이고 전반적인 내용이 수록되어 있다."
+		},
+		{
+			"title":"정보능력 (직업기초능력평가 NCS(국가직무능력표준)기반)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32473645661",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3247364\/32473645661.20220527031210.jpg",
+			"author":"김진규",
+			"discount":"14220",
+			"publisher":"한올",
+			"pubdate":"20190305",
+			"isbn":"9791156857341",
+			"description":"- 독자대상 : 정보능력 학습자 \t\n- 구성 및 특징 : \t\n① 최근 경향 반영\t\n② 학습 내용 체계적으로 구성"
+		},
+		{
+			"title":"문화예술경영(문헌정보관리) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32441778917",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3244177\/32441778917.20220527041538.jpg",
+			"author":"한국산업인력공단",
+			"discount":"19800",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093732",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화예술경영(문헌정보관리)에 대해 다룬다."
+		},
+		{
+			"title":"문화콘텐츠제작(영사) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32436245506",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3243624\/32436245506.20220527075644.jpg",
+			"author":"한국산업인력공단",
+			"discount":"19800",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093824",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화콘텐츠제작(영사)에 대해 다룬다."
+		},
+		{
+			"title":"관광학개론 (NCS 직무능력 수행준거에 의한, 제2판)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32482524644",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3248252\/32482524644.20220527051408.jpg",
+			"author":"김도영^김한주",
+			"discount":"22000",
+			"publisher":"이프레스",
+			"pubdate":"20200310",
+			"isbn":"9791187570592",
+			"description":"▶ 이 책은 관광이론을 다룬 이론서입니다. 관광이론의 기초적이고 전반적인 내용을 학습할 수 있습니다."
+		},
+		{
+			"title":"항공기내방송실무 (NCS(국가직무능력표준)기반)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32436277051",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3243627\/32436277051.20220527035256.jpg",
+			"author":"심지연",
+			"discount":"16200",
+			"publisher":"새로미",
+			"pubdate":"20200920",
+			"isbn":"9788964767313",
+			"description":"예비승무원을 위한 『항공기내방송실무』는 〈항공기내방송 준비하기〉, 〈항공 기내방송의 이해〉, 〈기내방송 요령〉, 〈기내방송을 위한 기본연습〉 등 항공기내방송실무에 대한 기초적이고 전반적인 내용이 수록되어 있다."
+		},
+		{
+			"title":"호텔음료 주장관리론 (NCS(국가직무능력표준) 바텐더 직무 기준에)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32466667967",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3246666\/32466667967.20220527083946.jpg",
+			"author":"이원옥^양웅식",
+			"discount":"25200",
+			"publisher":"신화전산기획",
+			"pubdate":"20160831",
+			"isbn":"9788955341973",
+			"description":"[호텔음료 주장관리론]은 NCS 바텐더 직무 기준에 맞춰 스피리츠, 와인, 커피, 티 등을 비롯한 기본적인 음료의 이해와 음료 혼합의 역사 속에서 찾을 수 있는 믹솔로지의 흐름과 변화를 읽어낼 수 있도록 담아냈으며, 또한 마케팅, 영업관리, 메뉴관리, 서비스, 위생, 어학 등의 실무적인 직무 능력 요소들을 체계적으로 설명하고 있다."
+		},
+		{
+			"title":"관광종사원 자격제도 개선방안 (국가직무능력표준(NCS) 기반형)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32436328720",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3243632\/32436328720.20220527081203.jpg",
+			"author":"문화체육관광부",
+			"discount":"28800",
+			"publisher":"진한엠앤비(진한M&B)",
+			"pubdate":"20150908",
+			"isbn":"9791170091370",
+			"description":"국가직무능력표준(NCS)을 기반으로 관광종사원 자격제도의 개선방안을 제시하는 책이다. 이를 통해 관광종사원 자격제도의 검정과목 및 면접 방식 등 이론 중심의 자격제도 운영체계를 현장 및 실무 중심형으로 개선하기 위한 기준을 마련하는데 도움을 줄 것이다."
+		},
+		{
+			"title":"항공객실 서비스 실무 (NCS 국가직무능력표준 기반)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32454982089",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3245498\/32454982089.20220527055452.jpg",
+			"author":"이영희^이지민",
+			"discount":"19600",
+			"publisher":"센게이지러닝(Cengage Learning)",
+			"pubdate":"20170215",
+			"isbn":"9788962184037",
+			"description":"▶ 이 책은 항공객실 서비스 실무에 대해 다룬 이론서입니다. 항공객실 서비스 실무의 기초적이고 전반적인 내용을 학습할 수 있도록 구성했습니다."
+		},
+		{
+			"title":"승객 탑승 전 준비 & 승객 탑승 및 이륙 전 서비스 (NCS 기반 항공 객실 서비스 직무 능력 단위 반영)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32492213862",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249221\/32492213862.20220527024747.jpg",
+			"author":"최성수",
+			"discount":"11520",
+			"publisher":"한올",
+			"pubdate":"20170228",
+			"isbn":"9791156855712",
+			"description":"▶ 이 책은 항공서비스의 승객 탑승 전 준비 & 승객 탑승 및 이륙 전 서비스에 대해 다룬 도서입니다. 승객 탑승 전 준비 & 승객 탑승 및 이륙 전 서비스의 기초적이고 전반적인 내용을 학습할 수 있도록 구성했습니다."
+		},
+		{
+			"title":"비행 중 서비스 (NCS 기반 항공 객실 서비스 직무 능력 단위 반영)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32466820273",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3246682\/32466820273.20220527041403.jpg",
+			"author":"최성수",
+			"discount":"14652",
+			"publisher":"한올",
+			"pubdate":"20180210",
+			"isbn":"9791156856344",
+			"description":"▶ 이 책은 비행 중 서비스에 대해 다룬 도서입니다. NCS 기반 항공 객실 서비스 직무 능력 단위 반영 비행 서비스의 기초적이고 전반적인 내용을 확인할 수 있도록 구성했습니다."
+		},
+		{
+			"title":"항공 객실 서비스 영어 (NCS 항공객실 승무원 직무 능력 단위별 교재)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32489637081",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3248963\/32489637081.20220527042014.jpg",
+			"author":"최경희",
+			"discount":"0",
+			"publisher":"한올",
+			"pubdate":"20170530",
+			"isbn":"9791156854326",
+			"description":"『항공객실 서비스 영어』는 항공승무원을 위한 영어회화책으로 실무에서 직접 적용하여 쓸 수 있는 다양한 객실 서비스영어를 담았다. 마지막장에는 단원별 연습문제를 수록하여 배운 내용을 평가할 수 있다."
+		},
+		{
+			"title":"관광기업 인적자원관리 (관광호텔종사원의 직무스트레스관리)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/33435891786",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3343589\/33435891786.20220712050544.jpg",
+			"author":"김혜영",
+			"discount":"13500",
+			"publisher":"한국학술정보",
+			"pubdate":"20060720",
+			"isbn":"9788953454026",
+			"description":"관광호텔 종사원의 호텔직무특성이 호텔직무 스트레스, 조직몰입, 이직의사에 미치는 효과를 살펴본 연구보고서. 본 연구는 직무스트레스에 관한 문헌적 고찰을 통하여 직무스트레스에 영향을 미치는 요인이 무엇이며, 직무스트레스의 변화가 개인적 행동과 조직성과에 미치는 효과를 검토하였다. \n\n또한 관광호텔 종사원의 인구통계학적 특성에 따라서 호텔직무특성, 호텔직무 스트레스, 조직몰입, 이직의사, 성취욕구는 차이가 있는지, 직무특성과 직무스트레스의 관계가 개인에 따라 차이가 있는지 알아보았다. 이런 검증결과를 바탕으로 직무스트레스와 이직의사를 저하시키고 조직몰입을 제고시키기 위한 직무스트레스 관리 시사점을 제시하였다."
+		}
+	]
+}

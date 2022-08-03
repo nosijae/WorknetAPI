@@ -1,0 +1,383 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:00 +0900",
+	"total":190886333,
+	"start":1,
+	"display":75,
+	"items":[
+		{
+			"title":"네이버 <b>금융<\/b>",
+			"link":"https:\/\/finance.naver.com\/",
+			"description":"국내 해외 증시 지수, 시장지표, 뉴스, 증권사 리서치 등 제공"
+		},
+		{
+			"title":"<b>금융<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B8%88%EC%9C%B5",
+			"description":"<b>금융<\/b>(金融, finance)이란 금전(金錢)의 융통(融通), 곧 '돈이 오고 가는 것', '돈의 흐름'이라 할 수 있다. 일상적으로 <b>금융<\/b>은 <b>금융<\/b>거래를 가리키며, 이는 신용을 바탕으로 자금을 빌려 주거나 빌려 쓰는 거래를 이른다. <b>금융<\/b>거래를 통해 돈은 자금의 여유가 있는 저축자(흑자주체, surplus unit)에서 자금이 부족..."
+		},
+		{
+			"title":"<b>금융<\/b>감독원",
+			"link":"https:\/\/www.fss.or.kr\/",
+			"description":"소비자보호센터, <b>금융<\/b>감독 법규, 통계자료, 상품표준약관, 전자공시 시스템 등 제공."
+		},
+		{
+			"title":"Daum <b>금융<\/b>",
+			"link":"http:\/\/finance.daum.net\/",
+			"description":"펀드, 대출, 부동산, 보험, 신용관리, 경제뉴스, 투자정보 등 제공."
+		},
+		{
+			"title":"<b>금융<\/b>위원회",
+			"link":"https:\/\/www.fsc.go.kr\/",
+			"description":"혁신적 <b>금융<\/b>, 포용적 <b>금융<\/b>, 신뢰받는 <b>금융<\/b>, <b>금융<\/b>위원회 입니다."
+		},
+		{
+			"title":"MSN <b>금융<\/b> - <b>금융<\/b> 분석, 투자 정보와 뉴스",
+			"link":"https:\/\/www.msn.com\/ko-kr\/money",
+			"description":"MSN <b>금융<\/b>은 자산관리의 시작점입니다. MSN과 다양한 매체에서 전달하는 오늘의 시세, 분석리포트, 도구와 뉴스로 앞서가는 투자자가 되세요"
+		},
+		{
+			"title":"<b>금융<\/b>투자교육원",
+			"link":"https:\/\/www.kifin.or.kr\/",
+			"description":"<b>금융<\/b>교육,투자교육,<b>금융<\/b>사이버교육, <b>금융<\/b>이러닝교육,<b>금융<\/b>전문인력양성, 여의도강의실대관, 여의도강당\/회의실대관"
+		},
+		{
+			"title":"<b>금융<\/b>감독원 <b>금융<\/b>상품통합비교공시",
+			"link":"https:\/\/finlife.fss.or.kr\/",
+			"description":"<b>금융<\/b>상품 한눈에, <b>금융<\/b>소비자의 합리적인 <b>금융<\/b>상품 선택을 위한 전업권을 포괄하는 <b>금융<\/b>상품통합비교공시"
+		},
+		{
+			"title":"합격의 기준 해커스<b>금융<\/b>",
+			"link":"https:\/\/fn.hackers.com\/",
+			"description":"해커스<b>금융<\/b>,전산회계1급,전산회계2급,전산세무1급,전산세무2급,AFPK,CFP,투자자산운용사,재경관리사,국제무역사,무역영어,국제무역사,신용분석사,매경테스트,테셋,매경TEST,자산관리사,은행fp ... "
+		},
+		{
+			"title":"<b>금융<\/b>감독원 서민<b>금융<\/b> 1332",
+			"link":"https:\/\/www.fss.or.kr\/s1332\/",
+			"description":"<b>금융<\/b>감독원 서민맞춤대출 서비스, 사<b>금융<\/b>애로종합지원센터, 제도권 <b>금융<\/b>기관 조회, <b>금융<\/b>사기 대처, 자활지원제도 안내."
+		},
+		{
+			"title":"<b>금융<\/b> | 업종별 제안 | Samsung Business 대한민국 - 삼성전자",
+			"link":"https:\/\/www.samsung.com\/sec\/business\/finance\/",
+			"description":"디지털 혁신으로 Smart <b>금융<\/b>을 선도하다 고객\/직원 편의를 위한 디지털 창구 혁신 디지털 <b>금융<\/b>의 핵심 보안 솔루션 프리미엄 공간 브랜치 차별화 고객 유치를 위한 프로모션 파트너십 <b>금융<\/b> 특장점 추천... "
+		},
+		{
+			"title":"<b>금융<\/b> 서브메인 &lt; <b>금융<\/b> &lt; 신한카드",
+			"link":"https:\/\/www.shinhancard.com\/pconts\/html\/finance\/main\/main.html",
+			"description":"신한카드 대출서비스는 빠르고 편리하게 대출신청이 가능한 <b>금융<\/b>상품입니다."
+		},
+		{
+			"title":"<b>금융<\/b>결제원",
+			"link":"https:\/\/www.kftc.or.kr\/",
+			"description":"고객의 가치를 극대화하는 지급결제 파트너 <b>금융<\/b>결제원"
+		},
+		{
+			"title":"<b>금융<\/b> 뉴스 | 파이낸셜뉴스",
+			"link":"https:\/\/www.fnnews.com\/section\/002002000",
+			"description":"파이낸셜뉴스의 <b>금융<\/b> 뉴스입니다. <b>금융<\/b>정책, 은행, 채권, 보험 등 최신 <b>금융<\/b> 기사와 많이 본 뉴스를 제공합니다."
+		},
+		{
+			"title":"한국<b>금융<\/b>연수원",
+			"link":"https:\/\/www.kbi.or.kr\/",
+			"description":"사이버, 통신, 집합연수 과정, 실무 교육과정 운영, 전문도서 출판, 국가공인 자격증 등 안내."
+		},
+		{
+			"title":"<b>금융<\/b> - 디지털타임스",
+			"link":"http:\/\/www.dt.co.kr\/section.html?section_num=3100",
+			"description":"신한은행과 한국무역보험공사(무보)가 중소·중견기업을 위한 <b>금융<\/b>... 2008년 글로벌 <b>금융<\/b>위기 등을 예측해 `닥터 둠`으로 불리는 누리엘... 4대 <b>금융<\/b>지주, 간편결제는 아이템결제 뿐 아니라 증권·보험... "
+		},
+		{
+			"title":"<b>금융<\/b>민원센터",
+			"link":"https:\/\/www.fcsc.kr\/",
+			"description":"<b>금융<\/b>감독원, <b>금융<\/b>위원회 민원업무센터, <b>금융<\/b>회사 인허가, 등록 및 신고, 유권해석 등 제공."
+		},
+		{
+			"title":"<b>금융<\/b> | 경제 | 연합뉴스",
+			"link":"https:\/\/www.yna.co.kr\/economy\/finance",
+			"description":"AICC·불완전판매 방지 솔루션·마이데이터·<b>금융<\/b> 전용 클라우드 등 시중은행·카드사 등 <b>금융<\/b>사 규모... CEO스코어 분석 결과…해외 자산 234%·해외 순익 186%↑ 5대 <b>금융<\/b>지주, 은행 비중 5.6%p↓·보험 비중 3.1%p↑ ...... "
+		},
+		{
+			"title":"<b>금융<\/b> | 서울신문",
+			"link":"https:\/\/www.seoul.co.kr\/news\/newsList.php?section=money",
+			"description":"<b>금융<\/b>위원회가 <b>금융<\/b>회사의 부실을 예방하고자 일시적 어려움에 부닥친 회사에 선제적으로 자금을 지원하는 ‘<b>금융<\/b>안정계정’ 도입을 추진한다. <b>금융<\/b>위와 <b>금융<\/b>감독원, 예금보험공사는 26일 김소영 <b>금융<\/b>위... "
+		},
+		{
+			"title":"제도권<b>금융<\/b>회사조회 | <b>금융<\/b>소비자 정보포털 파인",
+			"link":"https:\/\/fine.fss.or.kr\/main\/fin_comp\/fincomp_inqui\/comsearch01list.jsp",
+			"description":"제도권<b>금융<\/b>회사조회 : 번호, <b>금융<\/b>기관명, 홈페이지, 전화번호 정보를 확인 할 수 있습니다.. 5018. 주식회사 페트라자산운용. http:\/\/www.petracm.com. 02-3774-0978 ... "
+		},
+		{
+			"title":"[<b>금융<\/b>업계 콘텐츠 마케팅] <b>금융<\/b> 브랜드의 콘텐츠 마케팅 활용법 - Contenta M",
+			"link":"https:\/\/magazine.contenta.co\/2019\/10\/%EA%B8%88%EC%9C%B5%EC%97%85-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%89%BD%EA%B3%A0-%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%8A%94-%EC%BD%98%ED%85%90%EC%B8%A0\/",
+			"description":"대부분의 <b>금융<\/b> 브랜드들이 고객이 원하는 정보를 언제든 찾을 수 있게 콘텐츠를 중심에 둔 마케팅 프로그램을 이미 실행에 옮기고 있습니다. 어떤 콘텐츠가 고객의 마음을 열고 있을까요? 한국의 톱 <b>금융<\/b> 브랜드들은 어떤 방식으로 이런 고객 중심의 세계에서 마케팅 퍼널을 구축하고 있을까요?"
+		},
+		{
+			"title":"<b>금융<\/b> - 아시아경제",
+			"link":"https:\/\/www.asiae.co.kr\/list\/finance",
+			"description":"하나<b>금융<\/b>그룹이 지속가능경영에 맞춘 투자 성과, 회계기준 등... 한국주택<b>금융<\/b>공사(HF)가 평균 연 7.2% 금리였던 학자금대출의 이자율을 연 2.9%... <b>금융<\/b>감독원의 조사결과 은행권의 수상한 외화송금 거래가... "
+		},
+		{
+			"title":"서민<b>금융<\/b>진흥원",
+			"link":"https:\/\/www.kinfa.or.kr\/",
+			"description":"서민<b>금융<\/b>상품(근로자햇살론, 햇살론15, 안전망대출Ⅱ, 햇살론유스, 햇살론뱅크, 햇살론카드, 미소<b>금융<\/b>), 서민생활지원, 서민<b>금융<\/b>한눈에, 휴면예금 지급서비스, 자산형성지원(청년희망적금) 제공 ... "
+		},
+		{
+			"title":"한국증권<b>금융<\/b>",
+			"link":"https:\/\/www.ksfc.co.kr:4443\/",
+			"description":"증권<b>금융<\/b> 전문업체, 증권담보대출, 투자자예탁금, 우리사주제도, 수탁자산관리 등 안내."
+		},
+		{
+			"title":"<b>금융<\/b>투자협회",
+			"link":"http:\/\/www.kofia.or.kr\/",
+			"description":"협회소개, 자본시장통합법 관련 법령 및 리서치자료, 회원사 정보 등 제공."
+		},
+		{
+			"title":"제2<b>금융<\/b>권 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EC%A0%9C2%EA%B8%88%EC%9C%B5%EA%B6%8C",
+			"description":"1970년대부터 당시 광범위했던 사<b>금융<\/b> 시장을 제도권 안으로 포함하고, 나아가 경제 발전에 필요한 자금 수요의 다양화를 꾀하기 위해 발전해 왔다. 은행법의 적용을 받지 않으며 중앙은행의 규제를 받지 않는다."
+		},
+		{
+			"title":"<b>금융<\/b>감독원 e-<b>금융<\/b>교육센터 홈페이지",
+			"link":"https:\/\/www.fss.or.kr\/edu\/main\/main.do",
+			"description":"<b>금융<\/b>감독원 운영, 어린이, 청소년, 교사 및 학부모 <b>금융<\/b> 교육 전문 홈페이지."
+		},
+		{
+			"title":"<b>금융<\/b> 자격증 한눈에 모아보기! <b>금융<\/b> 강의 무료로 보고 싶다면? - 합격의 기준 해커스<b>금융<\/b>",
+			"link":"https:\/\/fn.hackers.com\/site\/?st=free&lnb=1",
+			"description":"해커스 <b>금융<\/b>에서 알려드리는 소식입니다 해커스 합격선배들의 생생한 합격후기! 해커스 <b>금융<\/b> 회원가입시 다양한 혜택을 제공합니다.... 무료강의 TOP 5 # 가장 HOT한 해커스<b>금융<\/b>의 무료강의 TOP5를 제공합니다. HOME... "
+		},
+		{
+			"title":"<b>금융<\/b>보안원 교육센터",
+			"link":"https:\/\/edu.fsec.or.kr\/",
+			"description":"<b>금융<\/b>보안원 교육센터 ... <b>금융<\/b>보안교육센터와 함께 만들어가는 안전한 <b>금융<\/b>세상 <b>금융<\/b>보안의 핵심리더를 양성하는 <b>금융<\/b>보안교육센터 <b>금융<\/b>미래를 열어가는 <b>금융<\/b>보안 파트너 <b>금융<\/b>보안교육센터 모집중인 과정 컨소시엄 이더리움 블록체인 기술의 "
+		},
+		{
+			"title":"하나증권",
+			"link":"https:\/\/www.hanaw.com\/",
+			"description":"증권, 주식거래, <b>금융<\/b>상품, 재테크 및 투자, 자산관리 정보, 주식시세"
+		},
+		{
+			"title":"서민<b>금융<\/b>진흥원 맞춤대출",
+			"link":"https:\/\/loan.kinfa.or.kr\/",
+			"description":"어서오세요! 서민<b>금융<\/b>진흥원 맞춤대출을 통해 나에게 적합한 상품을 찾아보세요! 맞춤대출 자동차담보대출 햇살론15 서민<b>금융<\/b>진흥원 소개 ... "
+		},
+		{
+			"title":"대출상품 한눈에 | 서민<b>금융<\/b> 한눈에 | 서민<b>금융<\/b> 한눈에 | 서민<b>금융<\/b>진흥원",
+			"link":"https:\/\/www.kinfa.or.kr\/promotion\/fineUseLoanProdList.do",
+			"description":"갱생보호대상자로서 사업자 또는 사업예정자서민<b>금융<\/b>통합지원센터... 서민<b>금융<\/b>통합지원센터 41개 (특례보증), 대출협약은행 15개(위탁보증) 근로자, 사업자, 소상공인, 채무조정자, <b>금융<\/b>취약계층... "
+		},
+		{
+			"title":"보도자료&gt;<b>금융<\/b> - 아주경제",
+			"link":"https:\/\/www.ajunews.com\/presskit\/finance",
+			"description":"하나<b>금융<\/b>그룹과 SK텔레콤이 4000억원 규모의 지분을 교환하고 디지털 <b>금융<\/b>, ESG(환경·사회·지배구조) 협력에 나선다. 하나<b>금융<\/b>과 SKT는 지난 22일 서울 중구 SKT 사옥에서 전략적 파트너십을 체결했다고 24일... "
+		},
+		{
+			"title":"우리<b>금융<\/b>그룹",
+			"link":"https:\/\/www.woorifg.com\/",
+			"description":"오늘의 혁신으로 내일의 가치를 만드는 <b>금융<\/b>그룹 공식 사이트 입니다."
+		},
+		{
+			"title":"<b>금융<\/b> - <b>금융<\/b>·증권 - 이투데이",
+			"link":"https:\/\/www.etoday.co.kr\/news\/section\/subsection?MID=1206",
+			"description":"다만 오는 28일 미국 중 <b>금융<\/b>감독원이 약 700억 원의 우리은행... 수은은 기획재정부 소관 정책<b>금융<\/b>기관으로 행장은 기재부 장관이... 국제<b>금융<\/b>부장, 자금시장단장 등을 거쳐 혁신성장<b>금융<\/b>본부장을 역임한... "
+		},
+		{
+			"title":"고객 | YESKEY",
+			"link":"https:\/\/www.yeskey.or.kr\/",
+			"description":"전자인증센터,공인인증센터,서버인증서,G-PIN 서버인증서,공공아이핀,공인전자서명,NPKI"
+		},
+		{
+			"title":"<b>금융<\/b>감독원 <b>금융<\/b>통계정보시스템",
+			"link":"https:\/\/fisis.fss.or.kr\/",
+			"description":"<b>금융<\/b>회사 경영정보, 통계월보 수록."
+		},
+		{
+			"title":"<b>금융<\/b>감독원 인재채용",
+			"link":"https:\/\/www.fss.or.kr\/emp\/",
+			"description":"채용인원, 인사제도, 복지제도, 응시자격, 전형방법, 접수 및 조회 등 채용 정보 제공."
+		},
+		{
+			"title":"KB<b>금융<\/b>그룹 - 홈",
+			"link":"https:\/\/www.facebook.com\/kb.financialgroup",
+			"description":"KB<b>금융<\/b>그룹, 서울. 좋아하는 사람 828,086명 · 이야기하고 있는 사람들 3,900명. 국민의 평생 <b>금융<\/b>파트너 KB<b>금융<\/b>그룹 입니다. KB<b>금융<\/b>그룹은 국내 최대 고객 기반 및 지점망을 갖춘 종합<b>금융<\/b>그룹으로 언제나 고객과 함께합니다 ... "
+		},
+		{
+			"title":"2022 <b>금융<\/b>권 공동채용 박람회",
+			"link":"https:\/\/www.financejobfair.co.kr\/",
+			"description":"2022 <b>금융<\/b>권 공동채용 박람회"
+		},
+		{
+			"title":"동아미디어그룹 - 동아일보",
+			"link":"https:\/\/www.donga.com\/news\/Economy\/Money",
+			"description":"<b>금융<\/b>감독원은 우리은행에 …삼성증권은 애플리케이션(앱) ‘모니모’에서 증권 계좌를 신규 개설하는... 모니모는 4월 삼성 <b>금융<\/b>계열사의 공동 브랜드인 삼성<b>금융<\/b>네트웍스(삼성<b>금융<\/b>)가 선보인 통합 앱으로... "
+		},
+		{
+			"title":"YESKEY",
+			"link":"https:\/\/mobi.yessign.or.kr\/",
+			"description":"휴대폰 전자서명 서비스, 공인인증서, 전자서명, 서비스체험 등 안내."
+		},
+		{
+			"title":"신한<b>금융<\/b>투자",
+			"link":"https:\/\/www.shinhaninvest.com\/",
+			"description":"주식, 펀드, 청약, 대출, 채권, 신탁, CMA, ELS, ETF 및 자산관리 상담 전문."
+		},
+		{
+			"title":"<b>금융<\/b> - 화이트페이퍼",
+			"link":"https:\/\/www.whitepaper.co.kr\/news\/articleList.html?sc_sub_section_code=S2N103&view_type=sm",
+			"description":"하나<b>금융<\/b>그룹의 올해 2분기(4~6월)... ■ 비화폐성 환차손 등 발생…그래도 핵심이익은 13.6%↑하나<b>금융<\/b>지주... 하나<b>금융<\/b> 관계자는 &quot;글로벌 경기[화이트페이퍼=고수아 기자]... "
+		},
+		{
+			"title":"JB<b>금융<\/b>그룹",
+			"link":"https:\/\/www.jbfg.com\/",
+			"description":"지주 및 계열사 소개, 기업지배구조, 투자정보, 지속가능경영, 뉴스룸 등 정보 제공"
+		},
+		{
+			"title":"서민<b>금융<\/b>진흥원 <b>금융<\/b>교육포털",
+			"link":"https:\/\/edu.kinfa.or.kr\/academy\/main\/main.do",
+			"description":"서민<b>금융<\/b>진흥원 <b>금융<\/b>교육 소개 수강신청안내 방문교육 신청 온택트 공개교육 신청 <b>금융<\/b>교육 한눈에 수료증출력 홍보동영상 교육문의 국번없이 1397 (평일 09:00 ~ 18:00 ) 온라인 교육검색 검색 햇살론유스... "
+		},
+		{
+			"title":"서민<b>금융<\/b>진흥원 휴면예금찾아줌",
+			"link":"https:\/\/sleepmoney.kinfa.or.kr\/",
+			"description":"서민<b>금융<\/b>진흥원 출연 휴면 예ㆍ보험금 조회 및 지급신청 등"
+		},
+		{
+			"title":"<b>금융<\/b>실명제 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B8%88%EC%9C%B5%EC%8B%A4%EB%AA%85%EC%A0%9C",
+			"description":"당일 KBS 뉴스 9 기사 <b>금융<\/b>실명제(金融實名制 \/ Real-Name Financial System)는 <b>금융<\/b> 기관에서 <b>금융<\/b> 거래를 할 때에 가명 혹은 무기명에 의한 거래를 금지하고 실명임을 확인한 후에만 <b>금융<\/b>거래가 이루어지도록 하는 제도이다."
+		},
+		{
+			"title":"App Store에서 제공하는 서민<b>금융<\/b>진흥원",
+			"link":"https:\/\/apps.apple.com\/kr\/app\/%EC%84%9C%EB%AF%BC%EA%B8%88%EC%9C%B5%EC%A7%84%ED%9D%A5%EC%9B%90\/id1492433957",
+			"description":"서민<b>금융<\/b>진흥원의 리뷰를 읽고 고객 평점을 비교할 수 있습니다. 스크린샷을 보고 자세한 내용을 확인해 보세요. 서민<b>금융<\/b>진흥원 항목을 다운로드하고 iPhone, iPad 및 iPod touch에서 즐겨보세요."
+		},
+		{
+			"title":"신한<b>금융<\/b>투자 채용정보",
+			"link":"https:\/\/recruit.shinhaninvest.com\/",
+			"description":"채용공고, 모집요강 및 입사지원, 합격자 조회 등 안내."
+		},
+		{
+			"title":"<b>금융<\/b>규제·법령해석포털",
+			"link":"https:\/\/better.fsc.go.kr\/",
+			"description":"<b>금융<\/b>규제 개선활동, 법령해석, 행정지도, 공지사항, 정보 제공."
+		},
+		{
+			"title":"<b>금융<\/b> 홈 | OK캐쉬백",
+			"link":"https:\/\/www.okcashbag.com\/finance\/home\/financeHome.do",
+			"description":"여행 <b>금융<\/b> <b>금융<\/b> 홈 카드 <b>금융<\/b>\/보험사 이벤트 상품쿠폰 이벤트 유틸메뉴 로그인 회원가입 고객 정보 검색 버튼 기타메뉴 My캐쉬백 이용안내 공동인증센터 <b>금융<\/b>소비자보호포털 <b>금융<\/b><b>금융<\/b> 홈 카드... "
+		},
+		{
+			"title":"분류:<b>금융<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%B6%84%EB%A5%98:%EA%B8%88%EC%9C%B5",
+			"description":"이 분류에 대한 설명은 <b>금융<\/b> 문서 를 참고하십시오."
+		},
+		{
+			"title":"우리종합<b>금융<\/b>",
+			"link":"https:\/\/www.wooriib.com\/",
+			"description":"오늘의 혁신으로 내일의 가치를 만드는 우리종합<b>금융<\/b> 공식 사이트입니다."
+		},
+		{
+			"title":"<b>금융<\/b> - iTunes에서 App Store 다운로드",
+			"link":"https:\/\/apps.apple.com\/kr\/genre\/ios-%EA%B8%88%EC%9C%B5\/id6015",
+			"description":"App Store에서 <b>금융<\/b> 앱을 둘러보고 iPad, iPhone, iPod touch에 다운로드하십시오. App Store에는 iOS 기기에서 이용할 수 있는 다양한 <b>금융<\/b> 앱이 있습니다."
+		},
+		{
+			"title":"서민<b>금융<\/b>진흥원 교육포털",
+			"link":"http:\/\/edu.kinfa.or.kr\/",
+			"description":"서민과 <b>금융<\/b>소비자 무료 온라인 교육 및 방문 <b>금융<\/b>교육, 종합상담사 양성, 1:1 재무 상담 교육포털"
+		},
+		{
+			"title":"SC제일은행",
+			"link":"https:\/\/www.standardchartered.co.kr\/",
+			"description":"상품 및 국제<b>금융<\/b>안내, 예금조회, 이체, 인터넷뱅킹, 대출, 신용카드, 재형저축 등 서비스 제공."
+		},
+		{
+			"title":"<b>금융<\/b> - 머니S",
+			"link":"https:\/\/moneys.mt.co.kr\/news\/mwMain.php?code=w0200",
+			"description":"은행, 보험, 증권, 재테크, 정책, 생활<b>금융<\/b> 등 <b>금융<\/b> 뉴스 제공"
+		},
+		{
+			"title":"한국투자 <b>금융<\/b>지주",
+			"link":"https:\/\/www.koreainvestment.com\/",
+			"description":"<b>금융<\/b>지주 회사, 증권, 자산운용, 창업투자, 상호 저축 은행 등 안내."
+		},
+		{
+			"title":"여신<b>금융<\/b>협회",
+			"link":"https:\/\/www.crefia.or.kr\/",
+			"description":"신용카드 및 할부<b>금융<\/b>상품, 리스신기술 소개, 위장가맹점신고, 민원상담 등 수록."
+		},
+		{
+			"title":"재테크&gt;<b>금융<\/b> - 아주경제",
+			"link":"https:\/\/www.ajunews.com\/investment\/finance",
+			"description":"김주현 <b>금융<\/b>위원장은 27일 '우리은행 직원 700억 횡령사건'에 따른 CEO 제재 가능성에 대해 &quot;절차에 따라 처리할 것&quot;이라고 말했다. <b>금융<\/b>회사와 임직원 제재에 대한 법률 검토와 관련자 범위 등 의견 제시를 <b>금융<\/b>... "
+		},
+		{
+			"title":"<b>금융<\/b>규제 샌드박스",
+			"link":"https:\/\/sandbox.fintech.or.kr\/",
+			"description":"혁신<b>금융<\/b>서비스, 지정대리인, 위탁테스트, 규제신속확인 등 <b>금융<\/b>규제 샌드박스 안내"
+		},
+		{
+			"title":"제도안내 | 상속인 <b>금융<\/b>거래 조회 | <b>금융<\/b>소비자 정보포털 파인",
+			"link":"https:\/\/fine.fss.or.kr\/main\/fine_common\/inherit\/heir.jsp",
+			"description":"서비스별 조회범위 : <b>금융<\/b>채권, <b>금융<\/b>채무, 보관금품, 공공정보 구성. <b>금융<\/b>채권. 각종 예금, 보험계약, 예탁증권 등 피상속인 명의의 <b>금융<\/b>자산 ... "
+		},
+		{
+			"title":"제3<b>금융<\/b>권 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EC%A0%9C3%EA%B8%88%EC%9C%B5%EA%B6%8C",
+			"description":"과거 사채, 일수라고 부르던 음성적 형태의 시장이 2002년 제정된 대부업법을 통해 양성화된 <b>금융<\/b>권. 사<b>금융<\/b>에 속한다. 새롭게 생겨난 <b>금융<\/b>권이라 볼 수 있기 때문에 명확한 개념 정의가 필요하다."
+		},
+		{
+			"title":"<b>금융<\/b>(金融) - 한국민족문화대백과사전",
+			"link":"http:\/\/encykorea.aks.ac.kr\/Contents\/Item\/E0007933",
+			"description":"자금, 즉 화폐나 통화의 융통을 가리키는 경제용어.<b>금융<\/b>은 자금, 즉... 자금의 유통, 즉 <b>금융<\/b>이 행해지게 되면 화폐가 이전되고 화폐청구권이 발생하면서 채권·채무관계가 성립한다. 이 화폐청구권을 <b>금융<\/b>자산이... "
+		},
+		{
+			"title":"<b>금융<\/b> - 대한민국 최고 <b>금융<\/b> 경제지 FNTIMES",
+			"link":"https:\/\/www.fntimes.com\/html\/secindex.php?ct=g0300",
+			"description":"확보하고 차별화된 경쟁력을 갖출 수 있는 핵심 사업이다. 한국<b>금융<\/b>신문은 전열을 정비하고 해외시장 진출에 나서는 시중은행들의 전략을 살펴본다. 〈편집자 주〉윤종규 KB<b>금융<\/b>그룹 회장이 동남아시아 지역 외..."
+		},
+		{
+			"title":"하나<b>금융<\/b>경영연구소",
+			"link":"http:\/\/www.hanaif.re.kr\/",
+			"description":"연구소 소개, <b>금융<\/b>시장 분석, 경영전략 수립, <b>금융<\/b>상품 개발, 연구보고서 등 제공."
+		},
+		{
+			"title":"베스트셀러 1위 해커스<b>금융<\/b> 교재로 단기합격!",
+			"link":"https:\/\/fn.hackers.com\/site\/?st=book_all",
+			"description":"전산회계,전산세무부터 <b>금융<\/b>,무역,테셋 자격증까지! 베스트셀러 1위 해커스 교재로 단기합격할 수 있습니다!"
+		},
+		{
+			"title":"대한<b>금융<\/b>신문",
+			"link":"http:\/\/www.kbanker.co.kr\/",
+			"description":"<b>금융<\/b>의 흐름을 파악하는 힘 \/ <b>금융<\/b>에 능통한 신문 \/ 1995년 창간 \/ 국내 유일 <b>금융<\/b>전문지"
+		},
+		{
+			"title":"<b>금융<\/b>소비자연맹",
+			"link":"http:\/\/www.kfco.org\/",
+			"description":"[2021-06-04] <b>금융<\/b>소비자연맹 2022년 01월호 뉴스레터 [2022.01.12] <b>금융<\/b>소비자연맹 2021년 07월호 뉴스레터 [2021.07.28] <b>금융<\/b>소비자연맹 2021년 06월호 뉴스레터 [2021.06.30] <b>금융<\/b>소비자연맹 2021년 04월호"
+		},
+		{
+			"title":"<b>금융<\/b>보안원",
+			"link":"http:\/\/www.fsec.or.kr\/fsec\/index.do",
+			"description":"정보공유분석센터, 전자<b>금융<\/b>거래 보안연구, 정보보호기술 연구사업 등 안내."
+		},
+		{
+			"title":"<b>금융<\/b> - Android 앱 Google Play",
+			"link":"https:\/\/play.google.com\/store\/apps\/category\/FINANCE",
+			"description":"Pro-는 <b>금융<\/b> 회계를 하기 위한 입니다 Home Budget with Sync Tilla Premium - 구독 관리 매니저 Money Manager Expense &amp; Budget Stoxy PRO - Stock Market Live Bitget - 비트켓 암호화폐 거래소 PASS by... "
+		},
+		{
+			"title":"한국대부<b>금융<\/b>협회",
+			"link":"http:\/\/www.clfa.or.kr\/",
+			"description":"대부업 인식개선, 법률감독, 인증, 채무조정 등 운영사업 안내."
+		},
+		{
+			"title":"<b>금융<\/b> - 뉴스핌",
+			"link":"https:\/\/www.newspim.com\/news\/lists\/?category_cd=010140",
+			"description":"시장전문가들은 한국은행 <b>금융<\/b>통화... 2일 <b>금융<\/b>권에 따르면 은행권 중 주 52시간 근무제를 ... 'TODAY ANDA'는 뉴스핌 편집국이 생산한 경제정책 산업 <b>금융<\/b> 증시 부동산 생활경제 기사... "
+		},
+		{
+			"title":"900+개의 <b>금융<\/b> 아이디어 | <b>금융<\/b>, 공부, 책",
+			"link":"https:\/\/www.pinterest.com\/soungs0310\/%EA%B8%88%EC%9C%B5\/",
+			"description":"2021. 9. 17 - Pinterest에서 631명이 팔로우한 seongsoo Kim님의 &quot;<b>금융<\/b>&quot; 보드를 살펴보세요. <b>금융<\/b>, 공부, 책에 관한 아이디어를 더 확인해 보세요."
+		}
+	]
+}

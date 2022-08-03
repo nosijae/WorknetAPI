@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:54 +0900",
+	"total":1786875,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"태영건설, 정규직 신입·경력사원 공개 채용···서류접수 다음달 16일까지",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509920",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509920",
+			"description":"정비사업 △<b>회계<\/b>\/세무 △경영관리 △IR\/공정위 △IT △법무 △내부<b>회계<\/b> 등이다. 지원자격은 △직무별 경력 충족자 △국내외 4년제 정규대학(원) 관련학과 졸업자 △관련 자격증 소지자 필수 또는 우대 △해외부문은... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"[종합] LGD, 2분기 영업손실 4883억원…LCD 구조조정 '속도'",
+			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=243292",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002129557?sid=105",
+			"description":"한국채택국제<b>회계<\/b>기준(K-IFRS) 연결기준 지난 2분기 매출액은 5조6073억원 영업손실은 4883억원이다. 매출액은 전기대비 13.35% 전년동기대비 19.50% 떨어졌다. 영업이익은 전기 및 전년동기대비 적자전환했다. 2020년... ",
+			"pubDate":"Wed, 27 Jul 2022 18:27:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, ESG보고서 발간...&quot;지난해 2조6227억원 규모 사회적 성과&quot;",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8338",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8338",
+			"description":"지속가능성 <b>회계<\/b>기준 (SASB) 보고서'도 국내 금융회사 최초로 발간했다. 지속가능성 <b>회계<\/b>기준(SASB)는 미국의 지속가능성 <b>회계<\/b>기준위원회가 제정한 ESG 관련 지속가능성 공시 기준으로, 기업의 재무제표에 반영되지... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"LG이노텍, 2분기 2899억원...전년比 91%↑",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8334",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8334",
+			"description":"LG이노텍이 2022년 2분기에 한국채택 국제<b>회계<\/b>기준(K-IFRS)으로 매출 3조7026억원, 영업이익 2899억원을 기록했다. 전년 동기 대비 매출은 57.2%, 영업이익은 90.8% 증가했다. 전분기 대비 매출은 6.3%, 영업이익은 21.0... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"7세대 요가 노트북 韓 출시 레노버 &quot;언밸런스 프리미엄은 그만&quot;",
+			"originallink":"http:\/\/www.bloter.net\/newsView\/blt202207270026",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000039982?sid=105",
+			"description":"2021년~2022년 <b>회계<\/b>연도 기준 레노버 매출은 전년 대비 100억달러 성장한 710억달러를 기록했다. 레노버에 따르면 해당 성장 배경 가운데에는 코로나19 대유행 기간 동안 가심비(가격 대비 마음의 만족도), 보상소비... ",
+			"pubDate":"Wed, 27 Jul 2022 18:23:00 +0900"
+		},
+		{
+			"title":"이스타항공, 원희룡 장관에 호소문…&quot;재운항 도와달라&quot;",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1586992",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1586992",
+			"description":"이들은 호소문에서 &quot;국토부는 현재 이스타항공이 <b>회계<\/b>자료를 허위로 제출했다는 이유로 이스타항공의... 앞서 국토부는 지난 5일 이스타항공이 지난해 국제항공운송사업 변경 면허를 발급받는 과정에서 제출한 <b>회계<\/b>자료... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, '2021 ESG보고서' 발간",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580793",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580793",
+			"description":"지속가능성 <b>회계<\/b>기준(SASB) 보고서'도 국내 금융사 중 처음으로 발간했다. 지속가능성 <b>회계<\/b>기준(SASB, Sustainability Accounting Standards Board)은 미국의 지속가능성 <b>회계<\/b>기준위원회가 제정한 ESG 관련 지속가능성 공시... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220727000994",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220727000994",
+			"description":"김재원 △<b>회계<\/b>과 정창호 △체육진흥과 정홍일 △환경정책과 차순애 △보건환경연구원 총무과 배윤종·오준엽 △동해안정책과 조영준△경상북도자치경찰위원회 사무국 김경곤 △사회복지과 오화선 △장애인복지과 이정미... ",
+			"pubDate":"Wed, 27 Jul 2022 18:19:00 +0900"
+		},
+		{
+			"title":"감사원, 세무사 2차 시험 출제 조작 없었다고 결론",
+			"originallink":"http:\/\/www.jmbc.co.kr\/news\/view\/25618",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/659\/0000004455?sid=102",
+			"description":"감사원은 지난해 2차 시험에서 세무공무원 경력자가 응시하지 않는 <b>회계<\/b>학1부 과목이 예년보다 쉽게 출제된 원인에 대해 조사를 벌인 결과, 출제위원의 공모로 난이도가 조정된 정황은 발견하지 못했다고 밝혔습니다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:17:00 +0900"
+		},
+		{
+			"title":"[인사] 광주 서구",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727162900054?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338843?sid=102",
+			"description":"김일 ▲ <b>회계<\/b>정보과장 류선석 ▲ 민원봉사과장 서상곤 ▲ 건강증진과장 심효정 ▲ 건강생활지원센터장 정인국 ▲ 양동장 오일성 ▲ 치평동장 조진옥 ▲ 화정2동장 이영대 ▲ 금호2동장 신정욱 ▲ 풍암동장 임철진... ",
+			"pubDate":"Wed, 27 Jul 2022 18:14:00 +0900"
+		},
+		{
+			"title":"경남교육청 학교 조리실 환기 시설 개선",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322394",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322394",
+			"description":"사업비는 55억원으로 2022년도 경상남도 교육비특별<b>회계<\/b> 제1회 추가경정 예산에서 확보했으며, 내년 7월까지 시설을 개선할 계획이다. 또한 연구용역도 같이 진행한다. 급식소 상황에 따른 환기 시설과 단계별 맞춤 환기... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"LG이노텍, 2분기 영업익 2899억…전년 대비 90% 증가",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1137572&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1137572&inflow=N",
+			"description":"LG이노텍은 올해 2분기에 한국채택 국제<b>회계<\/b>기준(K-IFRS)으로 매출액 3조7026억원, 영업이익 2899억원을 기록했다고 27일 밝혔다. 전년 동기보다 매출액은 57.2%, 영업이익은 90.8% 증가했지만, 전분기보다 매출액은 6.3... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"밀양시, (구)법원 등 주변부지 매입 박차",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322507",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322507",
+			"description":"이정영 <b>회계<\/b>과장은 &quot;원만한 보상협의가 되도록 최선을 다해 매입을 추진할 방침이며 국립무형유산원 영남분원·무형문화재전수교육관 조성으로 아리랑의 고장 밀양이 명실상부한 문화도시로 발돋움할 수 있는 기회가... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"하나금융, 올해도 ESG보고서 발간",
+			"originallink":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=281068",
+			"link":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=281068",
+			"description":"지속가능성 <b>회계<\/b>기준(SASB) 보고서 '도 국내 금융회사 최초로 발간했다. 지속가능성 <b>회계<\/b>기준(SASB)은 미국의 지속가능성 <b>회계<\/b>기준위원회가 제정한 ESG 관련 지속가능성 공시 기준으로, 기업의 재무제표에 반영되지... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"남해대학-6개 농협 금융<b>회계<\/b> 전문인력 양성 맞손",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322400",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322400",
+			"description":"금융<b>회계<\/b> 전문인력 양성을 위한 상호협력협약을 체결했다. \/남해대학 경남도립남해대학(조현명 총장)이 지난 25일 농협 남해군지부(지부장 차용선) 및 남해군 관내 농협 6곳과 산학협력협의체 구축 및 금융<b>회계<\/b> 전문인력... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"[인사]사천시",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322413",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322413",
+			"description":"차우정 ▲<b>회계<\/b>과장 배성주 ▲문화체육과장 김성일 ▲민원교통과장 박은영 ▲정보통신과장 곽정란 ▲지역경제과장 권남석 ▲녹지공원과장 김종수 ▲보건위생과장 김삼수 ▲동서동장 전흥국 ◇전입(5급) ▲정동면장... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"[IB토마토](크레딧시그널)SK에코플랜트, 1조원 유증…신용도 긍정적",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1137574&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1137574&inflow=N",
+			"description":"이번 증자는 오는 2023년을 목표로 추진 중인 기업공개(IPO)를 전제로 한 상장 전 투자유치(Pre-IPO) 성격의 투자로 <b>회계<\/b>상 자본으로 분류될 예정이며, 국내 주요 금융기관 및 사모펀드 등이 투자자로 참여했다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:10:00 +0900"
+		},
+		{
+			"title":"피에스엑스, '서울거래 비상장'서 증권형 토큰 거래 지원",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022072717515332347",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2022072717515332347",
+			"description":"투자자에게 공지할 내부 <b>회계<\/b> 감사가 마무리되는 대로 8월 말경 STO를 진행할 예정이다. 피에스엑스 김세영 대표는 “최근 유동성 경색으로 스타트업 및 벤처 투자 시장이 위축된 상황”이라며 “피에스엑스의 증권형... ",
+			"pubDate":"Wed, 27 Jul 2022 18:10:00 +0900"
+		},
+		{
+			"title":"가상자산 <b>회계<\/b>감사 가이드라인 나오나",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271806545442",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874210?sid=105",
+			"description":"가상자산의 <b>회계<\/b> 및 감사 가이드라인이 마련될 전망이다. 금융당국이 <b>회계<\/b>업계 관계자들과 첫 간담회를 열기로 하고, 그 필요성을 언급했다. 금융감독원은 28일 한국<b>회계<\/b>기준원, 한국공인<b>회계<\/b>사회 등과 가상자산 관련... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"충북도, 2022 국가균형발전사업 우수사례 2건 선정",
+			"originallink":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=525148",
+			"link":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=525148",
+			"description":"균형위는 매년 국가균형발전특별<b>회계<\/b> 지역자율계정을 대상으로 전년도 실적을 평가하고 있으며, 올해 전국 17개 시․도에서 제출한 사례 중 서면심사를 통과한 32건에서 최종 20건을 선정했고, 그 중 충북은 전년도 1건에... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"[인사] 경상북도",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075795",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075795",
+			"description":"김재원 △<b>회계<\/b>과 정창호 △체육진흥과 정홍일 △환경정책과 차순애 △보건환경연구원 총무과 배윤종 △보건환경연구원 총무과 오준엽 △동해안정책과 조영준 △경북도자치경찰위원회 사무국 김경곤 △사회복지과 오화선... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"[인사]광주시 서구(7월29일자)",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/775686",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/775686",
+			"description":"김일 ▲<b>회계<\/b>정보과장 류선석 ▲민원봉사과장 서상곤▲건강증진과장 심효정 ▲건강생활지원센터장 정인국... 고진희 ▲<b>회계<\/b>정보과 김민숙▲민원봉사과 최권태 ▲보건위생과 정재만 ▲농성2동 박시영 ▲유덕동 김종창... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"&quot;다시 비상할 수 있게 기회 달라&quot; 이스타항공 임직원 호소",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022072717574230266",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2022072717574230266",
+			"description":"제출한 <b>회계<\/b>자료에 허위내용이 있었다는 것입니다.이에 대해 이스타항공은 국토부에 제출한 자료의 경우 회사가 운항중단(셧다운) 되기 전인 2020년 5월 기준 자료이고 최근 공시된 <b>회계<\/b> 자료의 경우 셧다운 이후 발생한... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"中알리바바 홍콩 이중상장으로 21조 투자 유치 기대",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220727091933975",
+			"link":"https:\/\/www.ajunews.com\/view\/20220727091933975",
+			"description":"명보는 &quot;미·중 <b>회계<\/b> 감독 권한 갈등으로 미국에서 상장 폐지를 해야 할 경우에 대비해 대안을 준비해야 하는 인터넷 기업들에게 참고가 될 것&quot;이라면서 알리바바와 비슷한 처지에 놓여 있는 중국 기업들도 알리바바와... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"“언제까지 검토만?”…‘공매도 합리화’ 예고에도 뿔난 개미들",
+			"originallink":"https:\/\/economist.co.kr\/2022\/07\/27\/stock\/stockNormal\/20220727180010763.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000029243?sid=101",
+			"description":"이날 간담회에는 김갑래 박사(자본연), 김기경 상무(한국거래소), 김소형 부장(NH투자증권), 김영도 박사(금융연), 김우진 교수(서울대), 김재윤 부대표(삼일<b>회계<\/b>법인), 안동현 교수(서울대), 안희준 교수(성균관대), 이창화... ",
+			"pubDate":"Wed, 27 Jul 2022 18:01:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 2021년 ESG 보고서 발간",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727160500002?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338825?sid=101",
+			"description":"하나금융은 또 국내 금융사 최초로 지속가능 <b>회계<\/b>기준(SASB)에 대한 보고서도 발간했다. 지속가능성 <b>회계<\/b>기준은 미국의 지속가능<b>회계<\/b>기준위원회가 제정한 공시 기준으로, 기업의 재무제표에 반영되지 않은 비재무적... ",
+			"pubDate":"Wed, 27 Jul 2022 18:01:00 +0900"
+		},
+		{
+			"title":"강릉시, 추경예산안 2016억 시의회 제출…총예산 1조 5342억",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001957420&cID=10899&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330348?sid=102",
+			"description":"<b>회계<\/b>별로는 일반<b>회계<\/b>에서 1698억원 증가했고 특별<b>회계<\/b>는 317억원 증가했다. 주요 재원은 지방세 25억원, 세외수입 20억원, 지방교부세 512억원, 국·도비 보조금 553억원, 순세계잉여금 393억원 등이다. 주요... ",
+			"pubDate":"Wed, 27 Jul 2022 18:01:00 +0900"
+		},
+		{
+			"title":"[인사] 아산시",
+			"originallink":"http:\/\/www.sisanews24.co.kr\/8530",
+			"link":"http:\/\/www.sisanews24.co.kr\/8530",
+			"description":"윤성필‧김미연 <b>회계<\/b>과 심흥수‧황국향 사회복지과 김은성 경로장애인과 이현우 문화관광과 윤호준‧최욱진 체육진흥과 이영일 공원녹지과 양선모 도로과 신무균‧이석용 대중교통과 권영희‧임종민 개발정책과... ",
+			"pubDate":"Wed, 27 Jul 2022 18:00:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022072717175724589",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000768438?sid=102",
+			"description":"김재원 ▷<b>회계<\/b>과 정창호 ▷체육진흥과 정홍일 ▷환경정책과 차순애 ▷보건환경연구원 총무과 배윤종... 황서경 ▷<b>회계<\/b>과 손영선 ▷문화산업과 장숙희 ▷관광정책과 류재하 ▷체육진흥과 김동민 ▷사회복지과 박영심... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, '2021 ESG보고서' 발간",
+			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=86877",
+			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=86877",
+			"description":"지속가능성 <b>회계<\/b>기준 (SASB) 보고서 '도 국내 금융회사 최초로 발간했다. 지속가능성 <b>회계<\/b>기준 (SASB, Sustainability Accounting Standards Board)는 미국의 지속가능성 <b>회계<\/b>기준위원회가 제정한 환경·사회·지배구조(ESG)... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"청주시 오는 9월 중 시금고 지정",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2145139",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2145139",
+			"description":"차기 시금고는 공개경쟁을 통해 복수금고(1금고-일반<b>회계<\/b>와 특별<b>회계<\/b>, 2금고-기금)로 지정하게 되며, 2023년부터 2026년까지 4년간 금고 업무를 맡게 된다. 신청자격은 청주시 지역 내 본점 또는 지점을 둔 은행법에... ",
+			"pubDate":"Wed, 27 Jul 2022 17:54:00 +0900"
+		},
+		{
+			"title":"장기연체 자영업자 '파격 탕감'에…금융사 &quot;빚 폭탄 커져&quot; 속앓이",
+			"originallink":"https:\/\/www.hankyung.com\/economy\/article\/2022072782261",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729936?sid=101",
+			"description":"이에 대해 금융위원회 관계자는 “<b>회계<\/b>사 감정을 받은 가격으로 (채권을) 넘기는 것이고, 나중에 많이... 하지만 시장에서 경쟁입찰을 통해 채권을 팔 땐 <b>회계<\/b>사 감정가에 프리미엄이 붙지만, 캠코 매각 시 이런... ",
+			"pubDate":"Wed, 27 Jul 2022 17:53:00 +0900"
+		},
+		{
+			"title":"[인사] 경남 통영시",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755688",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244700?sid=102",
+			"description":"Δ〃 <b>회계<\/b>과장 최은열 Δ〃 정보통신과장 윤병철 Δ〃 민원지적과장 김실환 Δ문화관광체육경제국 관광과장 공수성 Δ〃 지역경제과장 송호천 Δ안전도시국 안전총괄과장 구태헌 Δ〃 도시과장 임석현 Δ〃 도로과장... ",
+			"pubDate":"Wed, 27 Jul 2022 17:52:00 +0900"
+		},
+		{
+			"title":"[7월 27일 인사] 세종시·HMG퍼블리싱·한국과학기술기획평가원·서울대·국토...",
+			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220727500334",
+			"link":"https:\/\/www.news2day.co.kr\/article\/20220727500334",
+			"description":"윤성필 ▲<b>회계<\/b>과장 최은열 ▲정보통신과장 윤병철 ▲민원지적과장 김실환 ▲관광과장 공수성 ▲지역경제과장 송호천 ▲안전총괄과장 구태헌 ▲도시과장 임석현 ▲건축과장 직무대리 김이용 ▲도로과장 김상배... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"[컨콜] LG화학, 북미 EV 공략 본격화…&quot;LG엔솔 지분 매각 없다&quot;",
+			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=243287",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002129554?sid=105",
+			"description":"이 기간 LG화학의 한국채택국제<b>회계<\/b>기준(K-IFRS) 연결기준 2022년 2분기 매출액 12조2399억원 영업이익 8785억원으로 집계됐다.. 매출액은 전기대비 5.6% 전년동기대비 7.0% 올랐다. 영업이익은 전기대비 14.3% 전년동기대비... ",
+			"pubDate":"Wed, 27 Jul 2022 17:48:00 +0900"
+		},
+		{
+			"title":"원광대 이남희 교수 저서, 대한민국학술원 우수학술도서 선정",
+			"originallink":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=584507",
+			"link":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=584507",
+			"description":"이남희 교수는 “의술을 담당한 의관, 통역을 맡은 역관, <b>회계<\/b>를 담당한 산원 등 기술직 중인들이 조선 후기 하나의 계층을 형성하고, 이들은 중인 신분을 유지한 채 경제적 부를 축적했다”며 “기술직 중인의 족보... ",
+			"pubDate":"Wed, 27 Jul 2022 17:48:00 +0900"
+		},
+		{
+			"title":"오늘의 인사 종합",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03591606632398784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005278482?sid=102",
+			"description":"윤성필 △<b>회계<\/b>과장 최은열 △정보통신과장 윤병철 △민원지적과장 김실환 △관광과장 공수성 △지역경제과장 송호천 △안전총괄과장 구태헌 △도시과장 임석현 △건축과장 직무대리 김이용 △도로과장 김상배... ",
+			"pubDate":"Wed, 27 Jul 2022 17:46:00 +0900"
+		},
+		{
+			"title":"이스타항공 임직원 &quot;허위자료 오해, 충분히 소명… 재운항 기회 달라&quot; 호소",
+			"originallink":"http:\/\/www.sisaweek.com\/news\/articleView.html?idxno=155277",
+			"link":"http:\/\/www.sisaweek.com\/news\/articleView.html?idxno=155277",
+			"description":"이스타항공 측은 &quot;국토부는 현재 이스타항공이 <b>회계<\/b>자료를 허위로 제출했다는 이유로 재운항에 필요한 모든... 나타나 '<b>회계<\/b>자료를 허위로 제출했다'는 것이다. 이에 원희룡 국토부 장관은 &quot;변경면허 신청 및 발급 과정에... ",
+			"pubDate":"Wed, 27 Jul 2022 17:42:00 +0900"
+		},
+		{
+			"title":"[인사] 서울대, 국토교통부, 경남 통영시, 국민의힘 세종시당",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=288190",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=288190",
+			"description":"윤성필 △<b>회계<\/b>과장 최은열 △정보통신과장 윤병철 △민원지적과장 김실환 △관광과장 공수성 △지역경제과장 송호천 △안전총괄과장 구태헌 △도시과장 임석현 △건축과장 직무대리 김이용 △도로과장 김상배... ",
+			"pubDate":"Wed, 27 Jul 2022 17:40:00 +0900"
+		},
+		{
+			"title":"[종합] 삼성전기, 2분기 체질 개선 지속…하반기 ‘반등’",
+			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=243286",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002129553?sid=105",
+			"description":"한국채택국제<b>회계<\/b>기준(K-IFRS) 연결기준 지난 2분기 매출액은 2조4556억원 영업이익은 3601억원이다. 매출액은 전기대비 6.2% 감소했지만 전년동기대비 2.1% 증가했다. 영업이익은 전기대비 12.3% 하락했지만 전년동기대비... ",
+			"pubDate":"Wed, 27 Jul 2022 17:40:00 +0900"
+		},
+		{
+			"title":"[단독] &quot;30억 빚, 최대 9억 깎아준다&quot;…자영업자 '파격 탕감' 논란",
+			"originallink":"https:\/\/www.hankyung.com\/economy\/article\/2022072782361",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729902?sid=101",
+			"description":"이에 대해 금융위원회 관계자는 “<b>회계<\/b>사 감정을 받은 가격으로 (채권을) 넘기는 것이고, 나중에 많이... 하지만 시장에서 경쟁입찰을 통해 채권을 팔 땐 <b>회계<\/b>사 감정가에 프리미엄이 붙지만, 캠코 매각 시 이런... ",
+			"pubDate":"Wed, 27 Jul 2022 17:40:00 +0900"
+		},
+		{
+			"title":"이스타항공 임직원 일동 &quot;국토부, 생존 기회 달라&quot; 호소",
+			"originallink":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=462582",
+			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=462582",
+			"description":"현재 국토부는 이스타항공이 <b>회계<\/b>자료를 허위로 제출했다는 사실을 확인하고 현재 재운항에 필요한 모든... 이 과정에서 국토부 측에 자본잠식 사실이 반영되지 않은 <b>회계<\/b>자료를 제출했고 올해 5월 13일 금융감독원... ",
+			"pubDate":"Wed, 27 Jul 2022 17:38:00 +0900"
+		},
+		{
+			"title":"‘허위 자료 제출’ 조사 받는 이스타항공, 국토부 장관에 “재운항 기회 달라...",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017317562&code=61141111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001542674?sid=101",
+			"description":"임직원들은 “국토부는 현재 이스타항공이 <b>회계<\/b>자료를 허위로 제출했다는 이유로 이스타항공의 재운항에... 있는 <b>회계<\/b> 자료를 제출한 사실을 확인하고, 특별 조사에 착수했다. 당시 이스타항공은 지난해 이익잉여금... ",
+			"pubDate":"Wed, 27 Jul 2022 17:38:00 +0900"
+		},
+		{
+			"title":"충북도, 2022 국가균형발전사업 우수사례 2건 선정",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517384",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517384",
+			"description":"균형위는 매년 국가균형발전특별<b>회계<\/b> 지역자율계정을 대상으로 전년도 실적을 평가하고 있으며, 올해 전국 17개 시․도에서 제출한 사례 중 서면심사를 통과한 32건에서 최종 20건을 선정했고, 그 중 충북은 전년도 1건에... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"경남교육청, 도내 30개 학교 조리실 환기 시설 개선",
+			"originallink":"http:\/\/www.gimhaenews.co.kr\/news\/articleView.html?idxno=45951",
+			"link":"http:\/\/www.gimhaenews.co.kr\/news\/articleView.html?idxno=45951",
+			"description":"도교육청은 사업비 55억 원으로 2022년도 경상남도 교육비특별<b>회계<\/b> 제1회 추가경정 예산에서 확보했으며 내년 7월까지 시설을 개선할 계획이다. 아울러 급식소 상황에 맞춰 환기 시설과 단계별 맞춤 환기 시스템 지침서를... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"경남도선관위, 선거운동 대가 금품 수수·수당 허위 지급 12명 고발",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958648&cID=10812&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330315?sid=102",
+			"description":"또 이들은 선거비용 <b>회계<\/b>보고서, 증빙자료를 허위로 작성한 혐의도 받고 있다. 경남선관위 관계자는 &quot;정당하게 신고된 선거사무관계자 외에 선거운동 대가를 지급하는 행위는 중대한 선거범죄&quot;라며 &quot;특히 선거운동 대가... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"삼바, 상반기 매출 1조원 돌파…&quot;CMO 사업 순항&quot;",
+			"originallink":"http:\/\/www.dailypharm.com\/Users\/News\/NewsView.html?ID=290413&REFERER=NP",
+			"link":"http:\/\/www.dailypharm.com\/Users\/News\/NewsView.html?ID=290413&REFERER=NP",
+			"description":"삼성바이오에피스 실적은 5월부터 연결 <b>회계<\/b> 처리로 반영하고 있다. 삼성바이오에피스의 상반기 매출은 4319억원, 영업이익은 932억원이다. 2분기의 경우 매출은 전년동기 대비 24.2% 증가한 2328억원, 영업이익은 95.7... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"희비 엇갈린 지주계 보험사…생보사만 실적 급락 이유는",
+			"originallink":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022072715214119332",
+			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022072715214119332",
+			"description":"내년 도입 예정인 새 국제<b>회계<\/b>기준(IFRS17)에 대비해 수익성이 높은 저축성보험의 판매를 줄인 점도 영향을 미쳤다. 이 같은 차이는 실적 발표를 앞둔 상장 보험사에서도 나타날 전망이다. 증권가는 생보사 실적에... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958647&cID=10810&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330310?sid=102",
+			"description":"김재원 ▲<b>회계<\/b>과 정창호 ▲체육진흥과 정홍일 ▲환경정책과 차순애 ▲보건환경연구원 총무과 배윤종 ▲보건환경연구원 총무과 오준엽 ▲동해안정책과 조영준 ▲경상북도자치경찰위원회 사무국 김경곤 ▲사회복지과... ",
+			"pubDate":"Wed, 27 Jul 2022 17:34:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, '2021 ESG보고서' 발간",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=938146",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=938146",
+			"description":"지속가능성 <b>회계<\/b>기준 (SASB) 보고서 '도 국내 금융회사 최초로 발간했다. 지속가능성 <b>회계<\/b>기준 (SASB, Sustainability Accounting Standards Board)는 미국의 지속가능성 <b>회계<\/b>기준위원회가 제정한 환경·사회·지배구조(ESG)... ",
+			"pubDate":"Wed, 27 Jul 2022 17:34:00 +0900"
+		},
+		{
+			"title":"경남선관위, 지방선거 관련 불법 행위 12명 검찰 고발",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517383",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517383",
+			"description":"D씨는 E씨의 지시에 따라 선거비용 <b>회계<\/b>보고서 및 그 증빙자료를 허위로 작성한 혐의를 받고 이다. 공직선거법에는 수당·실비 등을 제공하는 경우를 제외하고는 수당·실비 기타 자원봉사에 대한 보상 등 명목 여하를... ",
+			"pubDate":"Wed, 27 Jul 2022 17:34:00 +0900"
+		},
+		{
+			"title":"[헬로 이슈토크] 공동주택 종사자 처우 개선 대책은?",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC91000000&idx=341160",
+			"link":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC91000000&idx=341160",
+			"description":"네, 일반적으로 관리사무소에는 업무를 총괄하는 관리사무소장과 전기, 설비, <b>회계<\/b>, 경비, 미화 분야 담당들이 있습니다. 공동주택관리 종사자 수는 전국적으로 대략 30여만 명 정도 되구요, 충남도 내에는 1천 3백여 단지에... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도(5급 이하 승진 전보)",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220727001659141",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220727001659141",
+			"description":"류동근 △<b>회계<\/b>과 정찬우◆8급 승진·전보△청년정책관실 이현서 △정책기획관실 권재욱 △세정담당관실 서정민 △사회재난과 윤상훈 △민생경제과 김주엽 △자치행정과 우동엽 △<b>회계<\/b>과 조연단 △장애인복지과 임강래... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"[DD퇴근길] ‘롤’ 라이엇게임즈, 한국 위해서라면 이것까지 한다",
+			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=243283",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002129549?sid=105",
+			"description":"SK하이닉스는 2022년 2분기 한국채택국제<b>회계<\/b>기준(K-IFRS) 연결기준 매출액 13조8110억원 영업이익 4조1926억원을... 한국채택국제<b>회계<\/b>기준(K-IFRS) 연결기준 2분기 매출액은 5조706억원 영업이익은 1956억원입니다. 매출액은... ",
+			"pubDate":"Wed, 27 Jul 2022 17:29:00 +0900"
+		},
+		{
+			"title":"경남교육청, 학교 조리실 환기 시설 개선한다",
+			"originallink":"http:\/\/www.knnews.co.kr\/news\/articleView.php?idxno=1382133",
+			"link":"http:\/\/www.knnews.co.kr\/news\/articleView.php?idxno=1382133",
+			"description":"사업비는 55억원으로 2022년도 경상남도 교육비특별<b>회계<\/b> 제1회 추가경정 예산에서 확보했으며, 내년 7월까지 시설을 개선할 계획이다. 연구용역도 같이 진행한다. 급식소 상황에 따른 환기 시설과 단계별 맞춤 환기... ",
+			"pubDate":"Wed, 27 Jul 2022 17:28:00 +0900"
+		},
+		{
+			"title":"한국레노버 프리미엄 노트북 '요가' 7세대 출시, 김윤호 대표 &quot;성능과 휴대성...",
+			"originallink":"http:\/\/gamefocus.co.kr\/detail.php?number=131950",
+			"link":"http:\/\/gamefocus.co.kr\/detail.php?number=131950",
+			"description":"한국레노버 김윤호 대표는 “코로나로 인해 전세계 경제가 불안정한 상황에서도 레노버는 2021-2022<b>회계<\/b>년도 기준 10억달러의 매출을 기록하며 큰 폭으로 성장했다. 한국에서도 소확행, 가심비로 비롯되는 소비심리가... ",
+			"pubDate":"Wed, 27 Jul 2022 17:28:00 +0900"
+		},
+		{
+			"title":"하나금융, ESG보고서 발간…“지난해 성과 총 2조6227억원”",
+			"originallink":"https:\/\/economist.co.kr\/2022\/07\/27\/finance\/bank\/20220727172630379.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000029242?sid=101",
+			"description":"지속가능성 <b>회계<\/b>기준(SASB) 보고서’도 국내 금융회사 최초로 발간했다. 지속가능성 <b>회계<\/b>기준은 미국의 지속가능성 <b>회계<\/b>기준위원회가 제정한 ESG 관련 지속가능성 공시 기준으로, 기업의 재무제표에 반영되지... ",
+			"pubDate":"Wed, 27 Jul 2022 17:27:00 +0900"
+		},
+		{
+			"title":"삼성바이오로직스, 올해 상반기 매출 1조 원 돌파",
+			"originallink":"http:\/\/www.mediapen.com\/news\/view\/741714",
+			"link":"http:\/\/www.mediapen.com\/news\/view\/741714",
+			"description":"삼성바이오로직스는 지난 4월 바이오젠으로부터 에피스 지분을 전량 인수했으며, 이후부터 에피스의 손익을 합산해 연결 <b>회계<\/b>처리하고 있다. 삼성바이오로직스의 별도 기준 2분기 매출은 5037억 원, 영업이익은... ",
+			"pubDate":"Wed, 27 Jul 2022 17:26:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=853144",
+			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=853144",
+			"description":"김재원 △<b>회계<\/b>과 정창호 △체육진흥과 정홍일 △환경정책과 차순애 △보건환경연구원 총무과 배윤종 △보건환경연구원 총무과 오준엽 △동해안정책과 조영준 △경북도자치경찰위원회 사무국 김경곤 △사회복지과 오화선... ",
+			"pubDate":"Wed, 27 Jul 2022 17:26:00 +0900"
+		},
+		{
+			"title":"국제유가, 미국 비축유 방출로 하락",
+			"originallink":"http:\/\/www.energydaily.co.kr\/news\/articleView.html?idxno=129619",
+			"link":"http:\/\/www.energydaily.co.kr\/news\/articleView.html?idxno=129619",
+			"description":"소식통에 따르면 미 에너지부는 방출했던 비축유를 재구입하기 위해 원월물 구입을 가능토록 하는 행정규칙을 입안할 예정이며 단기 수요 증가를 방지하기 위해 2023 <b>회계<\/b>연도 이후에 재구입을 추진할 계획이다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:26:00 +0900"
+		},
+		{
+			"title":"&quot;3년만에 오프라인&quot;…'바이오플러스' 관전 포인트는",
+			"originallink":"http:\/\/news.bizwatch.co.kr\/article\/industry\/2022\/07\/27\/0028",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/648\/0000009406?sid=101",
+			"description":"미래 성장 가능성의 크기를 평가하기 어려운 만큼 <b>회계<\/b>·투자 등 여러 방면에서 현재 바이오 기업의 실질적인 가치를 측정할 계획이다. 바이오협회 관계자는 &quot;업계 최고의 벤처캐피탈 투자가, <b>회계<\/b>사, 상장거래소... ",
+			"pubDate":"Wed, 27 Jul 2022 17:26:00 +0900"
+		},
+		{
+			"title":"아산시의회, 제2회 추경 의결…제237회 임시회 폐회",
+			"originallink":"http:\/\/www.sisanews24.co.kr\/8528",
+			"link":"http:\/\/www.sisanews24.co.kr\/8528",
+			"description":"일반<b>회계<\/b>에서 48건 33억 480만 원을 삭감하는 내용으로 수정 가결했으며, 의원발의 조례안 2건, 집행부가... 특별<b>회계<\/b> 세입세출 추가경정 예산안 2022년도 제2회 기금운용계획 변경안 2022년도 행정사무 감사 계획서... ",
+			"pubDate":"Wed, 27 Jul 2022 17:24:00 +0900"
+		},
+		{
+			"title":"개편 앞둔 인천 이음카드…캐시백 혜택 축소될까...시민들 촉각세워",
+			"originallink":"http:\/\/www.ifm.kr\/news\/340649",
+			"link":"http:\/\/www.ifm.kr\/news\/340649",
+			"description":"인천연구원의 <b>회계<\/b> 정산 용역도 마무리돼 기초단체의 의견을 청취하고 있는 상황.다만 일각에서는 힘들어진 민생 경제를 고려해 지급율 10%대로 돌아가야 한다는 주문도 나옵니다.[임지훈\/시의원]&quot;재정 승수효과를... ",
+			"pubDate":"Wed, 27 Jul 2022 17:24:00 +0900"
+		},
+		{
+			"title":"전북도의회 예산결산특위, 제1회 추가경정예산안 심사 돌입",
+			"originallink":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=396615",
+			"link":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=396615",
+			"description":"일반<b>회계<\/b>는 8조 3,929억 원(본예산대비 9,521억 원 증가, 12.8%↑), 특별<b>회계<\/b>는 1조 50억 원(본예산대비 96억 원 증가, 0.96%↑), 기금은 9,238억 원(본예산대비 2,595억 원 증가, 39.1%↑)으로 추경 규모로는 역대 최대규모이다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:24:00 +0900"
+		},
+		{
+			"title":"농협생명, 악화되는 보험영업···저축성보험 '직격탄'",
+			"originallink":"http:\/\/www.sisajournal-e.com\/news\/articleView.html?idxno=281540",
+			"link":"http:\/\/www.sisajournal-e.com\/news\/articleView.html?idxno=281540",
+			"description":"최근 보험사들은 내년에 도입될 새 <b>회계<\/b>기준(IFRS17) 도입에 대비해 저축성상품의 비중을 줄이는데 집중한다. 저축성보험은 변동금리형 상품이기에 금리 변화에 따른 위험도가 적어 새 제도 아래서도 건전성 악화를... ",
+			"pubDate":"Wed, 27 Jul 2022 17:24:00 +0900"
+		},
+		{
+			"title":"하나금융, 2021 ESG보고서 발간",
+			"originallink":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=167381",
+			"link":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=167381",
+			"description":"또한 하나금융그룹은 올해 ESG공시기준이 강화됨에 따라, 투자자들에게 투자 결정의 판단 요소가 되는 정보들을 제공하기 위한  '2021 하나금융그룹 지속가능성 <b>회계<\/b>기준 (SASB) 보고서'도 국내 금융회사 최초로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:24:00 +0900"
+		},
+		{
+			"title":"&quot;기업 보유 코인, 주석공시 해야&quot;…금감원, 가상자산 <b>회계<\/b>감독 논의",
+			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202207270309&t=NN",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001045345?sid=004",
+			"description":"금융감독원은 27일 가상자산에 대한 <b>회계<\/b> 및 감사 등 감독 강화를 위한 논의에 착수할 것이라고 밝혔다. 금감원은 오는 28일 한국<b>회계<\/b>기준원, 한국공인<b>회계<\/b>사회 등과 함께 가상자산 관련 <b>회계<\/b>감독 이슈를 논의하기 위한 첫... ",
+			"pubDate":"Wed, 27 Jul 2022 17:22:00 +0900"
+		},
+		{
+			"title":"김경율 &quot;이재명 성남시장 시절 영수증 다 어디로 갔나&quot; [시사톡톡]",
+			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=243061",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000042262?sid=100",
+			"description":"김경율 <b>회계<\/b>사(경제민주주의21 공동대표)가 이재명 더불어민주당 의원의 성남시장 재직 시절 업무추진비와 관련한 영수증 증빙이 제대로 이뤄지지 않았다고 주장했다. 김 <b>회계<\/b>사는 27일 방영된 시사저널TV 《시사톡톡》에... ",
+			"pubDate":"Wed, 27 Jul 2022 17:21:00 +0900"
+		},
+		{
+			"title":"바이오 '핫한' 인물 다 모인다…'BIX 2022' 3년 만의 대면 행사",
+			"originallink":"https:\/\/www.kpanews.co.kr\/article\/show.asp?idx=235104&category=D",
+			"link":"https:\/\/www.kpanews.co.kr\/article\/show.asp?idx=235104&category=D",
+			"description":"미래 성장 가능성의 크기를 평가하기 어려운 만큼, <b>회계<\/b>, 투자 등의 방면에서 현재 바이오 기업의... 바이오 및 헬스케어 분야 기업의 상장 전략을 자문해 온 <b>회계<\/b>법인 더올의 조완석 <b>회계<\/b>사와 서용범 PWC 파트너의... ",
+			"pubDate":"Wed, 27 Jul 2022 17:20:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, '2021 ESG보고서' 발간",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98837",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98837",
+			"description":"지속가능성 <b>회계<\/b>기준 (SASB) 보고서 '도 국내 금융회사 최초로 발간했다. 지속가능성 <b>회계<\/b>기준 (SASB, Sustainability Accounting Standards Board)는 미국의 지속가능성 <b>회계<\/b>기준위원회가 제정한 환경·사회·지배구조(ESG)... ",
+			"pubDate":"Wed, 27 Jul 2022 17:20:00 +0900"
+		},
+		{
+			"title":"동대문구,재개발·재건축 조합 임원 역량강화··· 조합원 분쟁 방지",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160291827846383",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160291827846383",
+			"description":"이와 함께 오는 2023년에는 변호사, <b>회계<\/b>사, 정비사업 전문가 등을 초빙해 동대문구에서 진행하고 있는 정비사업 조합(추진위) 임원을 대상으로 교육을 직접 실시해 조합(추진위) 임원이 복잡한 정비사업에 대한 정보를 쉽게... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"경북도 인사(5급)",
+			"originallink":"http:\/\/www.idaegu.com\/newsView\/idg202207270046",
+			"link":"http:\/\/www.idaegu.com\/newsView\/idg202207270046",
+			"description":"김재원 △<b>회계<\/b>과 정창호 △체육진흥과 정홍일 △환경정책과 차순애 △보건환경연구원 총무과 배윤종 △〃 오준엽 △동해안정책과 조영준 △경북도자치경찰위원회 사무국 김경곤 △사회복지과 오화선 △장애인복지과... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 2021 ESG보고서 발간",
+			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=97401",
+			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=97401",
+			"description":"지속가능성 <b>회계<\/b>기준 (SASB) 보고서 '도 국내 금융회사 최초로 발간했다. 지속가능성 <b>회계<\/b>기준 (SASB, Sustainability Accounting Standards Board)는 미국의 지속가능성 <b>회계<\/b>기준위원회가 제정한 환경·사회·지배구조(ESG)... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"속초시의회, 5개 부서 주요업무 보고청취",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=905309",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=905309",
+			"description":"강원 속초시의회는 최근 제315회 속초시의회 임시회 제3차 본회의를 개회해 <b>회계<\/b>과, 민원토지과, 일자리경제과, 지역발전전략과, 복지정책과 5개 부서로부터 2022년 주요업무에 대해 보고를 받았다. 최종현 의원은... ",
+			"pubDate":"Wed, 27 Jul 2022 17:16:00 +0900"
+		},
+		{
+			"title":"[인사]경상북도(5급 이하)",
+			"originallink":"http:\/\/www.smartfn.co.kr\/view.php?ud=2022072717033517232a13d34d32_46",
+			"link":"http:\/\/www.smartfn.co.kr\/view.php?ud=2022072717033517232a13d34d32_46",
+			"description":"(방송통신7급) ▷<b>회계<\/b>과 정찬우(운전7급) ▷청년정책관실 이현서(행정8급) ▷정책기획관실 권재욱(행정8급)... (행정8급) ▷<b>회계<\/b>과 조연단(행정8급) ▷장애인복지과 임강래(행정8급) ▷도시계획과 이시환(행정8급)... ",
+			"pubDate":"Wed, 27 Jul 2022 17:16:00 +0900"
+		},
+		{
+			"title":"아산시의회, 제237회 임시회 제2차 본회의 및 폐회식",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271704078780272",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271704078780272",
+			"description":"일반<b>회계<\/b>에서 48건, 33억480만원을 삭감해 수정 가결됐다. 또한, 2022년도 출자·출연 운용계획 변경안으로... 특별<b>회계<\/b> 세입세출 추가경정 예산안 △2022년도 제2회 기금운용계획 변경안 △2022년도 행정사무 감사 계획서... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"하나금융, ‘2021 ESG보고서’ 발간…“사회적 성과 2.6조원”",
+			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220727500324",
+			"link":"https:\/\/www.news2day.co.kr\/article\/20220727500324",
+			"description":"국내 금융회사 최초 지속가능성 <b>회계<\/b>기준(SASB) 보고서 발간 하나금융그룹이 지난 1년간 그룹의 ESG활동... 지속가능성 <b>회계<\/b>기준 (SASB) 보고서’도 국내 금융회사 최초로 발간했다. SASB는 미국의 지속가능성... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"이스타항공 임직원들 “술수‧특혜 없었다” 호소문",
+			"originallink":"http:\/\/www.mhj21.com\/150960",
+			"link":"http:\/\/www.mhj21.com\/150960",
+			"description":"국토부, <b>회계<\/b>자료 허위제출 문제 삼으며 AOC 발급 미뤄 방문조사 후 20일 넘게 결론 안 나와…시간끌기 논란도 직원‧협력사들 고정비 부담…국토부 빨리 결론 내줘야 이스타항공이 <b>회계<\/b>자료를 허위로 제출했다며 AOC... ",
+			"pubDate":"Wed, 27 Jul 2022 17:10:00 +0900"
+		},
+		{
+			"title":"국토부 이스타항공 중간 조사 결과 발표...다양한 의견 수렴중",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20220727165123101036846677e3_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20220727165123101036846677e3_1\/article.html",
+			"description":"이스타항공은 27일 임직원 일동 명의의 '국토부장관에게 보내는 호소문'을 통해 &quot;이스타항공이 <b>회계<\/b>자료를 허위로 제출했다는 이유로 국토부가 특별 조사와 감사를 하고 있다&quot; 며 &quot;조사 결과에 따라 이스타항공 임직원과... ",
+			"pubDate":"Wed, 27 Jul 2022 17:10:00 +0900"
+		},
+		{
+			"title":"&quot;스마트폰 부품 실적 견인&quot;…LG이노텍, 2Q 영업익 전년比 90.8% 급등",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2157955",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2157955",
+			"description":"LG이노텍은 2022년 2분기에 한국채택 국제<b>회계<\/b>기준(K-IFRS)으로 매출액은 3조7026억 원, 영업이익은 2899억 원을 기록했다고 27일 공시했다. 매출은 지난해 같은 기간보다 57.2%, 영업이익은 90.8% 증가했다. 다만 전분기와... ",
+			"pubDate":"Wed, 27 Jul 2022 17:10:00 +0900"
+		},
+		{
+			"title":"이스타항공 국토부 장관에 '재운항 기회' 호소, &quot;수천 명의 생계 달려&quot;",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=288171",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=288171",
+			"description":"이스타항공은 국제항공운송사업 변경 면허를 발급받는 과정에서 <b>회계<\/b>자료를 허위로 제출했다는 이유로 앞서 7월5일부터 국토부의 특별 감사와 조사를 받고 있다. 조사 결과에 따라 이스타항공은 2021년 12월 발급받은 변경... ",
+			"pubDate":"Wed, 27 Jul 2022 17:08:00 +0900"
+		},
+		{
+			"title":"포스코그룹, 포스코인터내셔널-포스코에너지 합병 검토",
+			"originallink":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=169510",
+			"link":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=169510",
+			"description":"<b>회계<\/b>법인을 통해 양사의 적정 합병비율을 도출하기 위한 기업가치 평가 절차를 진행 중인 것으로 전해졌다. 포스코홀딩스는 포스코인터내셔널의 지분 62.9%, 포스코에너지의 지분 89.0%를 보유하고 있다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:08:00 +0900"
+		},
+		{
+			"title":"【인사】경북도 5급이하",
+			"originallink":"https:\/\/www.hankyung.com\/society\/article\/202207278007h",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729854?sid=102",
+			"description":"(방송통신7급) ▷<b>회계<\/b>과 정찬우(운전7급) ▷청년정책관실 이현서(행정8급) ▷정책기획관실 권재욱(행정8급)... (행정8급) ▷<b>회계<\/b>과 조연단(행정8급) ▷장애인복지과 임강래(행정8급) ▷도시계획과 이시환(행정8급)... ",
+			"pubDate":"Wed, 27 Jul 2022 17:07:00 +0900"
+		},
+		{
+			"title":"LG이노텍, 2분기 악재 속 '선방'…영업이익 전년比 90.8%↑",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604406",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604406",
+			"description":"LG이노텍은 올해 2분기 국제<b>회계<\/b>기준(K-IFRS) 매출 3조7026억원, 영업이익 2899억원을 기록했다고 27일 밝혔다. 전년 동기 대비 매출은 57.2%, 영업이익은 90.8% 증가했다. 전분기와 비교하면 매출은 6.3%, 영업이익은 21.0... ",
+			"pubDate":"Wed, 27 Jul 2022 17:04:00 +0900"
+		},
+		{
+			"title":"SK하이닉스 2분기 매출 13조8110억원 '사상 최대'...하반기는 물음표",
+			"originallink":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=239194",
+			"link":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=239194",
+			"description":"사진=연합뉴스 SK하이닉스가 한국채택국제<b>회계<\/b>(K-IFRS) 기준으로 올해 2분기 13조8110억원의 매출을 달성했다. 이는 전년 대비 33.8%가 증가한 수치로 사상 최대 분기 매출이다. SK하이닉스는 27일 경영실적 발표회... ",
+			"pubDate":"Wed, 27 Jul 2022 17:04:00 +0900"
+		},
+		{
+			"title":"뉴욕증시 선물, 연준 FOMC 발표 앞두고 일제히 상승...나스닥 1.52%↑",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20220727010004764",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20220727010004764",
+			"description":"블룸버그통신에 따르면 마이크로소프트는 컨퍼런스 콜에서 2023년 <b>회계<\/b>연도에 매출과 영업이익이 두 자릿수 속도로 증가할 것으로 예상한다고 발표했다. 구글의 경우 모회사 알파벳이 발표한 실적에 따르면 2분기... ",
+			"pubDate":"Wed, 27 Jul 2022 17:04:00 +0900"
+		},
+		{
+			"title":"목포체육회 횡령…직원 월급부터 '막막'",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SCN0000000&idx=341120",
+			"link":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SCN0000000&idx=341120",
+			"description":"최근 석 달 새 <b>회계<\/b>를 담당한 직원이 남편과 함께 빼돌려 가상화폐나 인터넷 도박에 탕진했습니다. 횡령한 공금의 대부분은 운영비와 인건비. 각 종목별 대회에 쓸 6천만 원을 제외하고 모두 체육회 직원과 생활체육... ",
+			"pubDate":"Wed, 27 Jul 2022 17:02:00 +0900"
+		},
+		{
+			"title":"공공기관이 기재부의 봉(鳳)인가?",
+			"originallink":"http:\/\/www.ifs.or.kr\/bbs\/board.php?bo_table=YTT_board&wr_id=863",
+			"link":"http:\/\/www.ifs.or.kr\/bbs\/board.php?bo_table=YTT_board&wr_id=863",
+			"description":"한전처럼 요금인상은 하지 못하고, 발전원가가 높은 전기를 계속 매입해 적자가 발생했는가 하면, 위탁 사업을 하는 기업은 정부 사업을 대행하기 위해 받은 기금을 빌린 것으로 <b>회계<\/b>처리를 하다 보니 적자처럼 보이는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:02:00 +0900"
+		},
+		{
+			"title":"장현국 위메이드 대표 &quot;당장 실적보다 성장성 봐달라&quot;",
+			"originallink":"http:\/\/news.bizwatch.co.kr\/article\/mobile\/2022\/07\/27\/0019",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/648\/0000009405?sid=101",
+			"description":"장 대표는 &quot;투자는 성과가 되고, 성과가 <b>회계<\/b>적인 숫자로 이어지기까지 기본적인 타임래그(경제적 성과가 나타나기까지 걸리는 시간)가 있다&quot;며 &quot;암호화폐에 대한 <b>회계<\/b>처리가 정립되지 않은 상황에선 더욱 그렇다&quot;고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:01:00 +0900"
+		},
+		{
+			"title":"시끄러운 울산장애인당구협회…선수들 &quot;협회 비위 철저 조사해야&quot;",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755580",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244574?sid=102",
+			"description":"이들은 이날 울산시청 프레스센터에서 기자회견을 열고 &quot;울산장애인당구협회는 매년 지원되는 보조금이 2000만원 가량 된다&quot;며 &quot;협회 운영의 실권자라 할 수 있는 A회장과 B사무국장은 일반적인 사무는 물론이고 <b>회계<\/b>... ",
+			"pubDate":"Wed, 27 Jul 2022 17:00:00 +0900"
+		},
+		{
+			"title":"KB증권, 리테일 위축에 IPO 불황까지… 엎친데 덮친격",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220727163156318",
+			"link":"https:\/\/www.ajunews.com\/view\/20220727163156318",
+			"description":"IPO 조직을 4부 체제로 확대하고 <b>회계<\/b>사, 애널리스트 등 다양한 분야에서 인재를 영입했다. KB증권은 지난 1월 LG에너지솔루션 대표 주관을 맡았다. 기존 ‘IPO 빅3’였던 미래에셋증권, 한국투자증권, NH투자증권 등을... ",
+			"pubDate":"Wed, 27 Jul 2022 17:00:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, '2021 ESG보고서' 발간",
+			"originallink":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072716533185974",
+			"link":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072716533185974",
+			"description":"지속가능성 <b>회계<\/b>기준 (SASB) 보고서'도 국내 금융회사 최초로 발간했다. 지속가능성 <b>회계<\/b>기준 (SASB, Sustainability Accounting Standards Board)는 미국의 지속가능성 <b>회계<\/b>기준위원회가 제정한 환경·사회·지배구조(ESG)... ",
+			"pubDate":"Wed, 27 Jul 2022 17:00:00 +0900"
+		},
+		{
+			"title":"경기도, 집합건물 민원 자문 '효과 톡톡'",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=905293",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=905293",
+			"description":"지난 2020년 출범한 경기도 집합건물관리지원단은 변호사, 주택관리사, <b>회계<\/b>사, 건축사, 노무사 등 30명의... 주요 사례로 고양시 A 오피스텔 입주민들은 투명한 관리비 운영을 위한 <b>회계<\/b>감사 방법을... ",
+			"pubDate":"Wed, 27 Jul 2022 17:00:00 +0900"
+		},
+		{
+			"title":"중국 알리바바, 미국증시 상장폐기 위기에 홍콩증시 이중상장 신청",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=288155",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=288155",
+			"description":"미국과 중국 당국의 <b>회계<\/b>감독권 갈등이 이어지고 있어 알리바바가 2022년 연간 실적 보고서를 발표한 뒤... 미국 증권거래위원회(SEC)는 2020년 말부터 실시한 외국기업문책법(HFCAA)에 따라 자국 <b>회계<\/b>기준을 충족하지 못하는... ",
+			"pubDate":"Wed, 27 Jul 2022 16:58:00 +0900"
+		},
+		{
+			"title":"자이에스앤디, 2분기 어닝서프라이즈…영업익 전년比 440%↑",
+			"originallink":"http:\/\/www.mediapen.com\/news\/view\/741648",
+			"link":"http:\/\/www.mediapen.com\/news\/view\/741648",
+			"description":"실행원가 확정에 따른 <b>회계<\/b>적 이익 반영 현장이 늘어났으며, 자체사업과 일부 고수익 외주 사업의 일시적 매출 인식 확대도 이번 실적에 주요한 영향을 미친 것으로 보인다. 자이에스앤디 관계자는 “현재... ",
+			"pubDate":"Wed, 27 Jul 2022 16:58:00 +0900"
+		},
+		{
+			"title":"'BIX 2022' 3년 만에 오프라인으로 열려",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03358726632398784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005278404?sid=101",
+			"description":"바이오 및 헬스케어 분야 기업의 상장 전략을 자문해 온 <b>회계<\/b>법인 더올의 조완석 <b>회계<\/b>사와 서용범 PWC 파트너의 목소리를 통해 <b>회계<\/b>사가 바라본 가치평가에 대한 시각을 확인할 수 있다. 이밖에도 강지수... ",
+			"pubDate":"Wed, 27 Jul 2022 16:57:00 +0900"
+		},
+		{
+			"title":"【인사】사천시",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006981",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220727010006981",
+			"description":"공보감사담당관 ▲배성주 <b>회계<\/b>과장 ▲김성일 문화체육과장 ▲박은영 민원교통과장 ▲곽정란 정보통신과장... 세무과 ▲김동국 <b>회계<\/b>과 ▲김정환 <b>회계<\/b>과 ▲권가연 문화체육과 ▲김성현 문화체육과 ▲서주현 해양수산과... ",
+			"pubDate":"Wed, 27 Jul 2022 16:56:00 +0900"
+		},
+		{
+			"title":"LG이노텍, 2분기 영업익 2899억원…비수기에도 ‘선방’",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20220727010004762",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20220727010004762",
+			"description":"LG이노텍이 올해 2분기에 한국채택국제<b>회계<\/b>기준(K-IFRS)으로 매출 3조7026억원, 영업이익 2899억원을 기록했다고 27일 밝혔다. 전년 동기 대비 매출은 57.2%, 영업이익은 90.8% 증가했다. 전분기 대비 매출은 6.3%, 영업이익은... ",
+			"pubDate":"Wed, 27 Jul 2022 16:52:00 +0900"
+		},
+		{
+			"title":"가상자산 <b>회계<\/b>기준 마련 착수…전문가 간담회 구성",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271641250850258",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271641250850258",
+			"description":"금융감독원은 한국<b>회계<\/b>기준원, 한국공인<b>회계<\/b>사회 등과 오는 28일 첫 전문가 간담회를 개최한다고 27일 밝혔다. 이는 가상자산 거래의 정보 유용성을 제고하고 투자자 보호를 위한 <b>회계<\/b>감독 이슈 등을 논의하기 위함이다.... ",
+			"pubDate":"Wed, 27 Jul 2022 16:52:00 +0900"
+		},
+		{
+			"title":"청주시, 금고지정 제안모집 공고",
+			"originallink":"https:\/\/www.inews365.com\/news\/article.html?no=725085",
+			"link":"https:\/\/www.inews365.com\/news\/article.html?no=725085",
+			"description":"차기 시금고는 공개경쟁을 통해 복수금고(1금고 : 일반<b>회계<\/b>와 특별<b>회계<\/b>, 2금고 : 기금)로 지정된다. 각 금고는 2023년부터 2026년까지 4년간 금고업무를 맡게 된다. 현재 1금고는 NH농협은행, 2금고는 KB국민은행이... ",
+			"pubDate":"Wed, 27 Jul 2022 16:52:00 +0900"
+		}
+	]
+}

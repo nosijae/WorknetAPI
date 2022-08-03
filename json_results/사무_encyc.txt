@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:57 +0900",
+	"total":62263,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961853&cid=42149&categoryId=42149",
+			"description":"전통적 의미에 있어서의 <b>사무<\/b>의 개념은 문서의 기록과 보관을 뜻하였으나 현대적인 <b>사무<\/b>의 개념은 행정 및 경영활동의 진행을 간접적으로 촉진하고 이들 활동 간에 일정한 질서를 유지하도록 작용하는 것을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107294&cid=40942&categoryId=31909",
+			"description":" 조직체의 운영에 사용되는 계수, 기타의 정보를 작성하고 이를 전달하는 작업.  즉, 각종 데이터를 수집·기록·분류·정리·계산·분석함으로써 특정 목적에 도움이 되는 정보로 바꾸어, 이를 필요로 하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2393230&cid=50762&categoryId=51387",
+			"description":"책임감을 가지고 감당해야 할 직임. 직무. 제사장의 성소 직무와 관련하여 언급된다(민 4:33). 히브리어로 ‘아보다’인데 ‘노동하다’, ‘봉사하다’는 뜻이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=94841&cid=41826&categoryId=41826",
+			"description":"무당(巫堂), 특히 임금의 측근에 있으면서 그의 자문(咨文)에 응하는 무당을 일컫는 말.",
+			"thumbnail":""
+		},
+		{
+			"title":"오피스",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%A4%ED%94%BC%EC%8A%A4",
+			"description":"오피스 (office→<b>사무<\/b>)는 사람들이 일을 하는 장소나 방인 <b>사무<\/b>실 (事務室, 문화어: 판공실), <b>사무<\/b>소 (事務所)를 뜻하기도 하지만, 특정한 의무를 가진 조직의 지위를 말하기도 한다. 같이 보기 공장 창고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"Samu (sunim)",
+			"link":"https:\/\/en.wikipedia.org\/wiki\/Samu_(sunim)",
+			"description":"The Venerable Samu Sunim (1941), born Sam-Woo Kim , is a Korean Seon sunim previously of the Jogye Order. He claims to have received Dharma transmission from Zen Master Weolha Sunim in... ",
+			"thumbnail":""
+		},
+		{
+			"title":"Samo",
+			"link":"https:\/\/en.wikipedia.org\/wiki\/Samo",
+			"description":"Samo ( c.  600 – c.  658 ) founded the first recorded political union of Slavic tribes, known as Samo's Empire ( realm , kingdom , or tribal union ), stretching from Silesia to... ",
+			"thumbnail":""
+		},
+		{
+			"title":"Samo (singer)",
+			"link":"https:\/\/en.wikipedia.org\/wiki\/Samo_(singer)",
+			"description":"Samuel Parra Cruz (born December 2, 1975), known professionally as Samo , is a Mexican pop singer and songwriter, born and raised in Veracruz. Samo rose to fame in the late 2000s as a... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>소 <b>사무<\/b>기기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2268849&cid=51331&categoryId=51333",
+			"description":"<b>사무<\/b>기기의 규격화는 경비 및 관리의 양면에서 널리 보급되어 있으며 또한 주변 <b>사무<\/b>가구의 기본적인 치수도 결정한다. 규격화된 기기는 성인의 인체치수, 쉽게 손이 미치는 범위 등을 충족시킨다. 156... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1913_000_1\/20120706161248605_HMCT4OZ15.jpg\/db3_236_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"증권일반<b>사무<\/b>수탁<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025055&cid=42117&categoryId=42117",
+			"description":" 증권투자회사 등과의 위탁계약에 따라 수행하는 계산에 관한 <b>사무<\/b>, 증권투자회사의 운영에 관한 <b>사무<\/b> 등을 수행한다. [수행직무] 증권투자회사의 설립, 금감위 등록 및 청산<b>사무<\/b>, 판매회사, 자사보관회사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권지점<b>사무<\/b>총괄<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025061&cid=42117&categoryId=42117",
+			"description":" 증권 관련 회사의 영업점에 근무하면서 유가증권거래에 관한 일을 처리하는 종사원들이 효율적으로 일할 수 있도록 조언하고 <b>사무<\/b>를 총괄하는 업무를 수행한다. [수행직무] 유가증권거래에 관한 고객계좌부의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>외",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4340016&cid=46648&categoryId=46648",
+			"description":"<b>사무<\/b>소외. [개설] 범어로는 catvāri vaiśāradyāni이다. <b>사무<\/b>소외(四無所畏)라고도 한다. 크게 부처의 <b>사무<\/b>외와 보살의 <b>사무<\/b>외로 나뉘는데, 그 내용에 있어 약간의 차이가 있으나 설법을 하는 데 두려움이 없다는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"남북공동연락<b>사무<\/b>소 <b>사무<\/b>처",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%82%A8%EB%B6%81%EA%B3%B5%EB%8F%99%EC%97%B0%EB%9D%BD%EC%82%AC%EB%AC%B4%EC%86%8C_%EC%82%AC%EB%AC%B4%EC%B2%98",
+			"description":"남북 공동연락<b>사무<\/b>소 (南北 共同連絡事務所) 또는 북남 공동련락<b>사무<\/b>소 (北南 共同連絡事務所)는 2018년 제1차 남북정상회담에서 합의된 추진 항목이 기록된 판문점 선언에 따른 양국의 엑션 플랜의 현실화... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위임<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=77274&cid=42155&categoryId=42155",
+			"description":" 국가나 상급 자치단체의 위임에 의해 지방자치단체가 처리하는 <b>사무<\/b>를 말한다. 이에 대비되는 자치<b>사무<\/b>는 지방자치단체 존립의 목적이 되는 지방적 복리<b>사무<\/b>를 말한다. 위임<b>사무<\/b>는 또한 자치단체 그 자체에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"행정<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1162395&cid=40942&categoryId=31664",
+			"description":" 행정작용으로서 하는 <b>사무<\/b>.  권력분립주의를 전제로 할 때 입법<b>사무<\/b> 및 사법<b>사무<\/b>에 속하지 아니하는 모든 <b>사무<\/b>를 행정<b>사무<\/b>라 한다. 행정<b>사무<\/b>는 대통령을 수반으로 하는 정부가 처리하는 것이나, 현실적으로는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공공<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063064&cid=40942&categoryId=31691",
+			"description":" 지방자치단체의 목적을 달성하기 위한 <b>사무<\/b>.  지방자치단체의 주민의 복리에 관한 <b>사무<\/b>(헌법 117조 1항)와 같은 개념이다. 공공<b>사무<\/b>는 직접 지방 주민의 복지를 증진하기 위하여 행하여지는 비권력적인 성질의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>기계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107299&cid=40942&categoryId=32433",
+			"description":" <b>사무<\/b>를 능률화하고 합리화하기 위해 사용되는 기계.  타자기·복사기·인쇄기계·마이크로사진기·시간기록기계(타이머 등)·연락기계(인터폰 등)·정리기계(스테이플러 등)·계산기계·금전등록기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_43\/20181008194647550_RBY91FYOT.jpg\/28536.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사무<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107298&cid=40942&categoryId=31721",
+			"description":" 법률상 의무 없이 타인을 위하여 그 <b>사무<\/b>를 관리하는 행위.  적법행위(適法行爲)로서 준법률행위(準法律行爲) 중 혼합사실행위(混合事實行爲)이며, 채권(債權)의 발생원인의 하나이다. <b>사무<\/b>관리를 인정하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=76702&cid=42155&categoryId=42155",
+			"description":" 조직의 목적을 달성하기 위해 <b>사무<\/b>(office work)를 계획·조직하고, 인원과 물자, 기계, 방법, 금전 및 대상자 사이의 관계를 조정하고 통제하는 행위를 말한다. 종래의 <b>사무<\/b>관리에서는 레핑웰(W. H. Leffingwell)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위임<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1131869&cid=40942&categoryId=31664",
+			"description":" 지방자치단체 또는 그 기관이 국가 또는 다른 공공단체의 위임에 따라 행하는 <b>사무<\/b>.  고유<b>사무<\/b>(공공<b>사무<\/b>)에 대응하는 개념이다. 단체위임<b>사무<\/b>, 기관위임<b>사무<\/b>, 사인(私人)위임<b>사무<\/b> 등이 있다. 현행법상 하천의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107297&cid=40942&categoryId=31909",
+			"description":" 경영활동의 보조활동으로서 행해지는 <b>사무<\/b>를 가장 효과적인 것으로 만들기 위한 일련의 체계적 업무.  <b>사무<\/b>란 계수(計數)를 비롯하여 경영활동에 관한 의사결정에 필요한 여러 정보를 작성·전달·처리하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위임<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=929284&cid=43667&categoryId=43667",
+			"description":" 지방자치단체가 국가 또는 다른 공공단체의 위임에 의하여 행하는 <b>사무<\/b>.  | 외국어 표기 | 委任事務(한자) | 지방자치단체의 <b>사무<\/b>는 고유<b>사무<\/b>와 위임<b>사무<\/b>로 나뉘는데, 이 위임<b>사무<\/b>는 다시 단체위임<b>사무<\/b>와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고유<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1062182&cid=40942&categoryId=31691",
+			"description":" 서울특별시·광역시·도·시·군·구 등의 지방자치단체가 그 존립목적을 달성하기 위하여 행하는 <b>사무<\/b>.  위임<b>사무<\/b>(委任事務)에 대립하는 개념이다. 지방자치단체는 지방에서의 공공복리(公共福利) 증진을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%AC%B4%EA%B4%80",
+			"description":"<b>사무<\/b>관 (事務官)은 대한민국의 공무원의 직급 중의 하나로서 주무관(6급)의 위이며 서기관(4급) 아래이다. 일반적으로 행정고등고시를 합격하면 5급<b>사무<\/b>관이 되며, 대한민국에서 고위관료와 권력층으로 가는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107296&cid=40942&categoryId=33385",
+			"description":"5급 직급을 행정직군에서는 행정<b>사무<\/b>관·교육행정<b>사무<\/b>관·사회복지<b>사무<\/b>관·노동<b>사무<\/b>관·문화<b>사무<\/b>관·공보<b>사무<\/b>관·통계<b>사무<\/b>관·사서<b>사무<\/b>관·부감사관 등으로, 광공업직군에서는 기계<b>사무<\/b>관·전기<b>사무<\/b>관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578513&cid=46625&categoryId=46625",
+			"description":"[내용] 가장 넓은 의미로는 모든 5급공무원을, 넓은 의미로는 5급공무원 중 행정직의 5급국가공무원인 행정<b>사무<\/b>관·검찰<b>사무<\/b>관·출입국관리<b>사무<\/b>관·통계<b>사무<\/b>관 등과 행정직의 5급지방공무원인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=659659&cid=42152&categoryId=42152",
+			"description":"넓은 뜻으로는 모든 5급 공무원의 직급을 말하나 좁은 뜻으로는 <b>사무<\/b>계 5급 국가 공무원인 행정 <b>사무<\/b>관·노동<b>사무<\/b>관·사회복지 <b>사무<\/b>관·통계<b>사무<\/b>관 등과 <b>사무<\/b>계 5급 지방공무원인 지방행정<b>사무<\/b>관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1763106&cid=49233&categoryId=49233",
+			"description":"[<b>사무<\/b>원 - 주판알만으로 회계의 달인이 되다] <b>사무<\/b>원은 은행 등 관공서에 근무하는 여성으로 1926년경 여성<b>사무<\/b>원의 분포는 전화국에 319명, 철도국 234명, 저금 관리소 153명, 경성우편국 60명, 조선은행 40명... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_8\/20130315223724628_QM8J82EG7.jpg\/z2_cp04230074000.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사무<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6073204&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] ① 사람들이 일을 하는 장소나 방인 <b>사무<\/b>실(事務室), <b>사무<\/b>소(事務所)를 뜻함 ② 건축 설계나 공사 관리, 건축에 관한 조사 감정 따위를 업으로 하는 <b>사무<\/b>소는 건축<b>사무<\/b>소라 함 .",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107309&cid=40942&categoryId=31861",
+			"description":" 상선의 한 직계로서 선장의 지시를 받아 <b>사무<\/b>부를 관장하는 사람.  <b>사무<\/b>부는 <b>사무<\/b>장 이하 <b>사무<\/b>원·주방장·주방원·조리장·조리원 등으로 구성된다. 대외적으로 세관·검역관계 등의 입출항<b>사무<\/b>, 선객관계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>장",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%AC%B4%EC%9E%A5",
+			"description":"<b>사무<\/b>장 은 주로 항공기, 배에서 돈을 다루는 일을 담당하는 사람이다. 현대에서는 <b>사무<\/b>장이 모든 관리(객실의 화물과 승객)와 공급을 담당하는 장교, 승무원을 기장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>감사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107295&cid=40942&categoryId=31664",
+			"description":" <b>사무<\/b>의 처리가 일정한 규정이나 원칙에 따라 체계적·효율적으로 이루어졌는가를 살피는 감독권 행사.  학문상으로나 실정법상으로 이에 관한 뚜렷한 정의는 없으나, 어느 다른 기관이 고유한 자기의 업무로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>일",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%AC%B4%EC%9D%BC",
+			"description":"<b>사무<\/b>일 ( 불가리아어: Самуил , 958년 ~ 1014년 10월 6일)은 불가리아의 군주이다. 초기 생애 그는 마케도니아 프릴레프 출신으로 그의 아버지인 코미타 니콜라는 원래 페타르 1세 때의 대귀족이었다. 그러나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1664087&cid=60558&categoryId=60558",
+			"description":"思無邪 思馬斯徂(<b>사무<\/b>사 사마사조 ; 거짓 없이 훌륭한 말이로다.)&#60;시경詩經 노송 경魯頌駉&#62; 子曰 詩三百 一言以蔽之 曰思無邪(자왈 시삼백 일언이폐지 왈<b>사무<\/b>사 ; 공자 가로되, 시경 3백 편의 시를 한 마디로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6073300&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 도면용 약어는 'OFf'로 표기하며 특정 개인 또는 <b>사무<\/b>적인 일을 하는 방으로 <b>사무<\/b>소, 일터, 집무실이라고도 함.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1530193&cid=60657&categoryId=60657",
+			"description":"<b>사무<\/b>사(思無邪)를 있는 그대로 풀이하자면 '생각이 바르므로 사악함이 없음'이라는 의미를 가지고 있다. 공자는 『논어(論語)·위정(爲政)』편에서 '시경 삼백편은 한마디로 생각에 사특함이 없다'(詩三百... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>에",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%AC%B4%EC%97%90",
+			"description":"<b>사무<\/b>에 (作務衣)는 일본의 선의 승려들이 입는 옷이다. 목화와 아마포로 만들어지며, 전통적으로 남색이나 갈색으로 염색한다. 절에서 승려들이 <b>사무<\/b>에를 입는 것은 의무다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1914266&cid=50350&categoryId=50350",
+			"description":"<b>사무<\/b>장선박항해용어사전 선박의 운항 기술과 관계없는 일반적인 관리업무와 여객 및 선원에 대한 접대관계 업무를 맡아보는 <b>사무<\/b>부(事務部) 업무를 총괄하는 선원 외국어 표기 purser(영어), 事務長(한자)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2414657&cid=51399&categoryId=51399",
+			"description":"문서작성, 간단한 게임을 즐길 수 있는 <b>사무<\/b>용 데스크탑PC 입니다. 고사양 3D게임, 고화질 동영상 실행하기는 힘들지만 영화감상, 간단한 게임, 문서 작성, 사진 편집 등 일반 가정 및 <b>사무<\/b>실에서 사용하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2393232&cid=50762&categoryId=51387",
+			"description":"또 천부장이나 백부장보다 나중에 거명되는 것으로 보아 행정(<b>사무<\/b>)을 담당하는 중간 관리자 정도로 여겨진다. 개역한글판에서는 ‘<b>사무<\/b> 감독’으로 번역되는데, 영어성경 LB에서는 ‘행정관’... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5844003&cid=40942&categoryId=32972",
+			"description":"공자는 인간의 순수한 감정이 담긴 시를 읽음으로써 바른 본성을 찾게끔 하고 생각에 못된 마음이 없게 하는 효용을 가진다는 점에서 《시경》을 <b>사무<\/b>사라는 말로 요약하고 강조하였다. 여기서 전하여 성정이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"핫<b>사무<\/b>역",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%AB%EC%82%AC%EB%AC%B4%EC%97%AD",
+			"description":"핫<b>사무<\/b> 역 ( 일본어: 発寒駅 핫<b>사무<\/b>에키 [*] )은 일본 홋카이도 삿포로시 니시구에 있는 홋카이도 여객철도 하코다테 본선의 철도역이다. 역 구조 2면 2선의 승강장이 있는 지상역이다. 업무를 홋카이도 JR... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1835013&cid=49067&categoryId=49067",
+			"description":"[개인 <b>사무<\/b> 공간(workstation)] 1명 이상의 직원이 일련의 직무를 수행할 수 있도록 설비가 이루어진 공간. [직원 식당(employee lunchroom)] 직원들이 식사를 하는 공간. [주방(kitchen facilities)] 식사를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1592_000_1\/20130322235846029_NPBN8FGLB.jpg\/z1_1404_i1_org.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사무<\/b>직",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%AC%B4%EC%A7%81",
+			"description":"<b>사무<\/b>직 (事務職)은 주로 책상에서 직무를 수행하는 직업을 일컫는 말이다. 기업의 경우, 회계, 총무, 법무 서비스업 등의 관리 부문과 간접 부문 (어드미니스트레이션)이 이에 해당한다. 영업직의 대비어로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1670811&cid=50801&categoryId=50804",
+			"description":"‘자왈(子曰) 시삼백(詩三百) 일언이폐지왈(一言以蔽之曰) <b>사무<\/b>사(思無邪)’ 하나 더! 위 문장에 나오는 일언이폐지(一言以蔽之) 또한 자주 쓰는 표현인데요, ‘길게 말할 것 없이 한마디로’라는 의미입니다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>일",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3330523&cid=56790&categoryId=56805",
+			"description":" <b>사무<\/b>일은 10세기 초반 불가리아를 다스린 차르로 코미토풀리 왕가의 시조이다. 그는 불가리아 영토가 비잔틴제국의 속주화되고 있을 무렵 남슬라브를 통일하여 불가리아를 재건하기 위해 힘쓴 인물이다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4033_000_1\/20150914115248576_OTZYU282N.jpg\/hf43_bul8_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사무<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2268848&cid=51331&categoryId=51333",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b> 관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5568408&cid=60366&categoryId=60367",
+			"description":"[[질문] 시키지도 않은 일을 했다] ‘이웃사촌’이라는 말도 있지만, 앞뒷집에 사는 여포 씨와 장비 씨는 바로 옆에 살면서도 사이가 좋지 않다. 그러던 중 여포 씨가 부친상을 당하여 부득이 온 가족이 집을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926300&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>사무<\/b>보조원은 기업체나 공공기관 <b>사무<\/b>직원의 업무를 보조하여 각종 문서 수발, 정리, 전표정리, 자료복사 등의 일을 담당한다. 서류를 정리하고 문서를 수발하며, 근태 및 작업일지 등의 자료를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"입영<b>사무<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=298545&cid=60362&categoryId=60362",
+			"description":"지방병무청장 또는 입영부대의 장이 현역병 입영대상자의 인도․인접에 관한 <b>사무<\/b>를 처리하기 위하여 입영부대 또는 그 외의 장소에 설치한 <b>사무<\/b>소를 말한다. ❍ 병역법 제22조(현역병입영<b>사무<\/b>소의 설치 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"법률<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926299&cid=42116&categoryId=42116",
+			"description":"[직업설명] 법률<b>사무<\/b>원은 주로 변호사나 법무사, 변리사 등 법률관련 전문가의 감독하에 관련 업무를 보조하고 처리하는 일을 담당한다. 법원이나 검찰에서 서류 접수 및 분류 등 사법 관련 행정업무가 원활하게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국회<b>사무<\/b>처",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1067611&cid=40942&categoryId=34709",
+			"description":" 국회의 일반 행정<b>사무<\/b>를 처리하는 기관.  1948년 제헌국회가 개원되면서 설치되었으며, 그 후 국회의 기능 강화와 축소에 따라 여러 차례 개편되었다. <b>사무<\/b>총장은 국회의장의 지휘·감독을 받아 국회의 회의와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>용집기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107307&cid=40942&categoryId=32157",
+			"description":" <b>사무<\/b>실에서 사용되는 집기류의 총칭.  널리 사용하는 것으로는 <b>사무<\/b>용 책상, 의자, 회의용탁자, 서고(書庫), 서가(書架)·파일링캐비닛, 로커, 카드캐비닛·금고, 응접세트, 칸막이 등을 들 수 있다. 이런 것들은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>자동화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107308&cid=40942&categoryId=31909",
+			"description":" 전자기기 등을 사용한 <b>사무<\/b>처리의 자동화.  <b>사무<\/b>활동의 효율화 및 내용의 질적 향상을 지향하는 것을 목적으로 한다. 오토메이션이라는 개념은 제조업 생산공정의 자동화에서 비롯된 것으로, 이를 <b>사무<\/b>실... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>자동화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=14732&cid=43659&categoryId=43659",
+			"description":"정보처리기술·정보통신기술·<b>사무<\/b>기기 관련기술을 한데 묶어 <b>사무<\/b>실에서의 업무처리를 종합적으로 수행케 함으로써 업무 생산성 향상과 효과적 정보관리가 가능토록 하는 것을 말한다. 특히, 컴퓨터의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"준<b>사무<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1143245&cid=40942&categoryId=31721",
+			"description":" 타인의 <b>사무<\/b>처리라는 사실은 존재하지만 타인을 위하여 관리한다는 의사가 없거나, 본인의 의사에 반하거나 자기의 이익을 위한 의사로써 행하여진 <b>사무<\/b>관리.  부진정(不眞正) <b>사무<\/b>관리라고도 한다. 예컨대... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>실건축",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1163787&cid=40942&categoryId=32340",
+			"description":" 주요부분이 <b>사무<\/b>실과 그 부속실로 설계된 건축을 말하며, 산업혁명 이후의 상공업의 발달로 능률과 경제성의 면에서 <b>사무<\/b>기능의 합리화를 위하여 비약적으로 증가하였는데, 한국의 대한생명 63빌딩 등이 이에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_14\/20180802182013906_MHXR99U4I.jpg\/56294.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사무<\/b>카와정",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%AC%B4%EC%B9%B4%EC%99%80%EC%A0%95",
+			"description":"<b>사무<\/b>카와 정 ( 일본어: 寒川町 )은 가나가와현 고자군의 정으로 사가미 만에 면해있다. 역사 <b>사무<\/b>카와 촌은 1889년에 성립되었다. 1921년에 지가사키 역에서의 사가미 선이 개통되었다. 1지선이 <b>사무<\/b>카와부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가설<b>사무<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6414416&cid=68110&categoryId=68110",
+			"description":"건설공사 시행을 위해 임시로 지은 <b>사무<\/b>실",
+			"thumbnail":""
+		},
+		{
+			"title":"무인<b>사무<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1095029&cid=40942&categoryId=32433",
+			"description":" 전화 ·비서 ·<b>사무<\/b>실이 없어도 업무를 수행할 수 있는 시스템.  1978년부터 <b>사무<\/b>자동화(office automation:OA)라는 용어가 사용되기 시작한 이래 OA기기는 급속도로 발전, 특히 전자식 교환기의 대량보급에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이동<b>사무<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1227203&cid=40942&categoryId=31614",
+			"description":" 시간과 장소에 구애받지 않고 <b>사무<\/b>실 밖에서 회사 업무를 처리하는 시스템.  출장·외근 등으로 인해 <b>사무<\/b>실 밖에서 근무하는 시간이 많은 직원들이 이동통신기기를 이용해 사내 컴퓨터 네트워크에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>자동화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=932944&cid=43667&categoryId=43667",
+			"description":" 컴퓨터 등을 이용하여 <b>사무<\/b>처리를 자동화하는 것.  | 외국어 표기 | office automation(영어) | | 약어 | OA | <b>사무<\/b>실에 전자 기술을 도입하여 종래 사람이 하던 사고ㆍ판단ㆍ기획 등의 일부를 기계로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위임<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3657867&cid=42131&categoryId=42131",
+			"description":"위임<b>사무<\/b>란 지방자치단체 또는 그 기관이 국가 또는 다른 공공단체의 위임에 근거하여 행하는 <b>사무<\/b>를 뜻한다. 고유<b>사무<\/b>에 대응하는 개념이다.위임<b>사무<\/b>(委任事務)는 단체위임<b>사무<\/b>(團體委任事務)와 기관위임<b>사무<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자치<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=77493&cid=42155&categoryId=42155",
+			"description":"국가로부터 간섭받지 않고 자율적으로 처리할 수 있는 지방자치단체 본래의 고유<b>사무<\/b>를 말한다. 지방자치단체의 존립 근거가 되는 자치<b>사무<\/b>는 대개 주민의 복리와 관련된 <b>사무<\/b>다. 지방자치단체의 <b>사무<\/b>는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"판단<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962786&cid=42149&categoryId=42149",
+			"description":"능력 및 독창력이 필요하고 사고와 탐색을 필요로 하는 정신 작업으로 대부분 관리적인 <b>사무<\/b>이다. 판단<b>사무<\/b>에 속하는 내용으로는 경영자나 각급 관리자가 행하는 결재<b>사무<\/b>, 계획입안<b>사무<\/b>, 제도고안이나 각종... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자치<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=472216&cid=42120&categoryId=42120",
+			"description":"국가로부터 간섭받지 않고 자율적으로 처리할 수 있는 지방자치단체 본래의 고유<b>사무<\/b>를 말한다. 지방자치단체의 존립근거가 되는 자치<b>사무<\/b>는 대개 주민의 복리와 관련된 <b>사무<\/b>다. 지방자치단체의 <b>사무<\/b>는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고유<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=659434&cid=42152&categoryId=42152",
+			"description":"지방자치단체가 자체의 존립의 목적을 달성하기 위하여 수행하는 <b>사무<\/b>. 위임<b>사무<\/b>와 대응되는 개념이며, 일명 자치<b>사무<\/b>(自治事務)라고도 부른다. 헌법 제117조에 규정된 '주민의 복리에 관한 <b>사무<\/b>' 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고유<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3657868&cid=42131&categoryId=42131",
+			"description":"고유<b>사무<\/b>란 지방자치단체가 그의 존립목적을 달성하기 위하여 행하는 <b>사무<\/b>를 말한다.헌법 제117조 1항에 규정된 「주민의 복리에 관한 <b>사무<\/b>」 또는 지방자치법 제9조 1항에 규정된 「그 지방의 자치<b>사무<\/b>」가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위임<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=471804&cid=42120&categoryId=42120",
+			"description":"국가나 상급 자치단체의 위임에 의해 지방자치단체가 처리하는 <b>사무<\/b>를 말한다. 이에 대비되는 자치<b>사무<\/b>는 지방자치단체 존립의 목적이 되는 지방적 복리<b>사무<\/b>를 말한다. 위임<b>사무<\/b>는 또 자치단체에 그 자체에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위임<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962253&cid=42149&categoryId=42149",
+			"description":"지방자치단체 또는 그 기관이 국가 또는 다른 공공단체의 위임에 의하여 행하는 <b>사무<\/b>로서 고유<b>사무<\/b>(공공<b>사무<\/b>)에 대응하는 개념이다. 단체위임<b>사무<\/b>와 기관위임<b>사무<\/b> 및 사인에 대한 위임<b>사무<\/b> 등이 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3656971&cid=42131&categoryId=42131",
+			"description":"법률상의 의무없이 타인을 위하여 그 <b>사무<\/b>를 관리하는 행위를 말한다(민법 제734~740조). 부탁받지 않고 부재자의 집을 수리하는 것이나 일주(逸走)한 가축(家畜)을 잡아서 먹이를 주는 행위 등이다.타인의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국회<b>사무<\/b>처",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525456&cid=46625&categoryId=46625",
+			"description":" 국회의 의정활동을 지원하고 행정<b>사무<\/b>를 처리하기 위하여 ＜국회<b>사무<\/b>처법＞에 의하여 설치된 입법부의 기관. [내용] <b>사무<\/b>처는 국회의장의 지휘·감독을 받아 국회의 회의와 운영에 관련된 <b>사무<\/b>를 처리한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>조합",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=659660&cid=42152&categoryId=42152",
+			"description":"2개 이상의 지방자치단체가 그 권한에 속하는 특정 <b>사무<\/b>의 일부 또는 전부를 공동처리하기 위하여 관련 지방자치단체간에 합의에 의해 설립한 법인(法人). 우리 나라 지방자치법은 이를 '지방자치단체조합'이라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관리",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%AC%B4%EA%B4%80%EB%A6%AC",
+			"description":"<b>사무<\/b>관리 (事務管理)는 관리자가 법률상 또는 계약상 의무없이 타인을 위하여 <b>사무<\/b>를 처리함으로써 관리자와 본인 사이에 생기는 법정채권관계로서, 법률요건의 하나이다. 미국에서는 <b>사무<\/b>관리·부당이득의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>인계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961858&cid=42149&categoryId=42149",
+			"description":"일정한 사유의 발생 또는 일정한 자의 신분변동으로 인하여 보직이 변경된 때 그 책임소재를 명백히 하기 위하여 전·후임자가 <b>사무<\/b>를 인계인수하는 것을 말한다. 인계의 사유, 절차는 단위책임자로서 면직... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>환경",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961860&cid=42149&categoryId=42149",
+			"description":"효율적이고 창의적으로 업무를 수행할 수 있도록 심리적·신체적으로 쾌적한 환경을 조성하는 것으로 일상 <b>사무<\/b>를 처리하는 데 있어서 환경의 쾌적성과 분위기의 조성 또는 능률적인 조직, 조직 및 용품설치... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국가<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=75812&cid=42152&categoryId=42152",
+			"description":"국가의 존립 목적이 되어있는 <b>사무<\/b>. 고유<b>사무<\/b>[자치<b>사무<\/b>]에 대응되는 개념. 국가<b>사무<\/b>의 예로는 국가의 조직과 재정에 관한 <b>사무<\/b>, 수출 및 수입, 통화량, 사법행정, 출입국관리, 검찰, 각종 개발계획, 정보통신... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연락<b>사무<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=7310&cid=43659&categoryId=43659",
+			"description":"아직 정식으로 외교 관계를 수립하지 않은 국가간에 외교 관계를 수립하기 위한 전단계로 상호간에 설치하는 <b>사무<\/b>소를 말한다. 국제 사회에서 두 나라간의 외교 관계 수립은 절차상 처음부터 대사관을 설치하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"작업<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962387&cid=50300&categoryId=50300",
+			"description":"생산·판매·구매 등의 직접 활동과 인사·재무 등의 간접 활동에서의 운영에 수반되는 <b>사무<\/b>로 전표나 장부의 기입, 컴퓨터 단말기나 워드프로세서 입력 등의 <b>사무<\/b>가 포함된다. 작업<b>사무<\/b>는 <b>사무<\/b> 활동 중에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>편람",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%AC%B4%ED%8E%B8%EB%9E%8C",
+			"description":"<b>사무<\/b>편람 이란 <b>사무<\/b>에 대해 처리부서, 처리기간, 처리절차, 처리기준, 구비서류, 서식 및 수수료 등을 구분하여 구체적으로 정리한 문서이다. <b>사무<\/b>편람이 단순히 <b>사무<\/b>의 기준과 처리절차를 명시한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>분장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961856&cid=42149&categoryId=42149",
+			"description":"경찰<b>사무<\/b>분장의 경우 경찰청은 행안부 <b>사무<\/b>분장규정에, 경찰국은 각시·도 <b>사무<\/b>분장 규정에, 경찰서는 각시·도 경찰서 조직규칙에, 경찰교육원은 경찰교육원<b>사무<\/b>분장규정에, 해양경찰대는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관리<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961377&cid=42149&categoryId=42149",
+			"description":"관리통제에 관한 <b>사무<\/b>로써 관리자·감독자가 행하는 <b>사무<\/b>를 계획·조직·통제 등의 관리에 부가하여 행해지며, 자원의 유효한 활용을 기하기 위한 의사결정을 위해 행해진다. 대부분 사안의 결정·심사·조사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"행정<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=473720&cid=42120&categoryId=42120",
+			"description":"행정<b>사무<\/b>는 주민의 권리를 제한하고 자유를 규제하도록 권력행사를 동반한 <b>사무<\/b>를 말하는 것으로 구체적으로 벌칙, 기타 규제규정이 있다. 즉 미성년자, 정신병자의 보호·양호를 위한 규제<b>사무<\/b>, 각종 생산물... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자치<b>사무<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%90%EC%B9%98%EC%82%AC%EB%AC%B4",
+			"description":"자치<b>사무<\/b> (自治事務)는 지방자치단체의 존립 목적에 속하는 본래의 <b>사무<\/b>로 그 지방주민의 복리에 관한 <b>사무<\/b>를 포괄적으로 처리하는 기능을 가리킨다. 고유<b>사무<\/b> 라고도 한다. 이러한 <b>사무<\/b>는 지방자치단체가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>인계서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2046148&cid=42279&categoryId=42279",
+			"description":" <b>사무<\/b> 업무를 인수인계 받을 시 작성하는 문서.  퇴사나 부서 이동으로 신입사원이 퇴사 직원의 업무를 넘겨받거나 기존 사원이 새로운 업무를 인수할 시, 인계자는 인수자가 알아두어야 할 업무의 내용과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128233916292_ASWOIIROG.jpg\/hb10_9842_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사무<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961855&cid=42149&categoryId=42149",
+			"description":"즉 <b>사무<\/b>작업의 과학적 관리를 기초로 하면서 능률적인 <b>사무<\/b>처리에 의하여 생산된 업무정보를 조직 전체에 침투시킴으로써 조직운영의 효율화를 도모코자 하는 것이다. 새로운 <b>사무<\/b>관리는 <b>사무<\/b>의 작업관리와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"총무<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024669&cid=42117&categoryId=42117",
+			"description":" 자산의 매입과 처분, 행사진행, <b>사무<\/b>환경개선 등 물적자원의 활용방안을 검토하고 적용한다. [수행직무] 집기비품 등 고정자산에 대한 구매, 관리, 폐기에 대한 전반적인 업무를 한다. 조직개편 등에 따른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>연회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2378294&cid=50762&categoryId=51367",
+			"description":"만 19세 이상의 입회원(세례교인)으로 조직되며, 정기 <b>사무<\/b>연회와 임시 <b>사무<\/b>연회로 구분된다. 정기 <b>사무<\/b>연회는 매 해 연말이나 연초에 1회 소집되며, 임시 <b>사무<\/b>연회는 필요시 수시로 개최된다. 정기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연락<b>사무<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062074&cid=50305&categoryId=50305",
+			"description":"아직 정식 외교관계를 수립하지 않은 국가간에 외교관계를 수립하기 위한 전단계로 상호간에 설치하는 <b>사무<\/b>소. 외교관계 수립을 위한 이익대표부, 상주대표부, 영사관, 총영사관, 대사관 개설 등 일련의 단계에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>카와역",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%AC%B4%EC%B9%B4%EC%99%80%EC%97%AD",
+			"description":"<b>사무<\/b>카와 역 ( 일본어: 寒川駅 )은 일본 가나가와현 고자군 <b>사무<\/b>카와정에 위치한 동일본 여객철도 사가미 선의 철도역이다. 섬식 승강장 1면 2선의 구조를 갖춘 지상역이다. 타는 곳 이용 현황 역 주변 <b>사무<\/b>카와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"민원<b>사무<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AF%BC%EC%9B%90%EC%82%AC%EB%AC%B4",
+			"description":"민원<b>사무<\/b> (民願事務)란 민원인이 행정기관에 대하여 처분등 특정한 행위를 요구하는 사항에 관한 <b>사무<\/b>를 뜻한다.(민원법 제2조 제2호). 민원<b>사무<\/b>가 반드시 법적인 행위를 요구하는 <b>사무<\/b>만을 뜻하는 것은 아니다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=929459&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | 事務管理(한자) | 법률상의 의무 없는 자(관리자)가 타인을 위하여 가장 이익이 될 수 있는 방법으로 그 <b>사무<\/b>를 관리하는 것을 말한다(민법 734조). 예를 들면 우연히 지나가다 교통사고로 다친... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고유<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961330&cid=50300&categoryId=50300",
+			"description":"지방자치단체가 그 존립을 달성하기 위하여 행하는 <b>사무<\/b>로서 주민의 복리에 관한 <b>사무<\/b> 또는 지방자치법에 규정된 지방의 공공<b>사무<\/b>를 말한다. 지방자치단체는 주민의 복리에 관한 <b>사무<\/b>의 처리를 그의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여신<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953627&cid=42117&categoryId=42117",
+			"description":"대출금지급계산서를 작성하여 결재를 받고 대전을 예금주의 예금구좌에 입금시킨다. 급부금에 대하여 만기일에 회수 및 회수된 채권의 담보권해지에 관련된 <b>사무<\/b>를 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470710&cid=42120&categoryId=42120",
+			"description":"조직의 목적을 달성하기 위해, <b>사무<\/b>(office work)를 계획·조직하고, 인원과 물자, 기계, 방법, 금전 및 대상자 사이의 관계를 조정하고 통제하는 행위를 말한다. 종래의 <b>사무<\/b>관리에서는 W. H. Leffingwell과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>색정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4338999&cid=46648&categoryId=46648",
+			"description":"초기불교에서 사선정(四禪定)과 함께 자주 언급되는 수행법인 <b>사무<\/b>색정의 4가지 선정은 공무변처정(空無邊處定)·식무변처정(識無邊處定)·무소유처정(無所有處定)·비상비비상처정(非想非非想處定)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=510948&cid=42126&categoryId=42126",
+			"description":"이제까지는 주로 서면으로 업무를 집행하거나 처리하여 왔으나 이러한 <b>사무<\/b>관리는 각종 조직규모의 확대에 의한 <b>사무<\/b>량의 증대, <b>사무<\/b>의 복잡화와 그 능률적 처리의 요청에 따라, 과학적이며 합리적인 방법과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>차관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578517&cid=46625&categoryId=46625",
+			"description":"[내용] 중앙행정기관 각부의 인사·복무·일상업무 등 일반<b>사무<\/b>의 처리와 소속공무원에 대한 지휘·감독을 통하여 장관을 보좌하고 대리할 수 있는 보조기관이다. 대통령중심제를 채택하고 있는 나라에서와는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>위임",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1827163&cid=42154&categoryId=42154",
+			"description":"<b>사무<\/b>위임은 「정부조직법」 과 「지방자치법」 에 따라 행정능률의 향상, 행정<b>사무<\/b>의 간소화 및 행정기관의 권한과 책임을 일치시키기 위하여 각종 법령에 규정된 행정기관의 장의 권한 중 일부를 그 보조기관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>차관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=76705&cid=50305&categoryId=50305",
+			"description":"내각책임제 하에서 장관을 <b>사무<\/b>적으로 보좌하고 내부<b>사무<\/b>를 관리하는 차관을 말한다. <b>사무<\/b>차관은 일반적으로 직업공무원 출신 중에서 임명된다. 국회의원 중에서 임명되며, 장관을 정치적으로... ",
+			"thumbnail":""
+		}
+	]
+}

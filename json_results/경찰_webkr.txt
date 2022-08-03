@@ -1,0 +1,388 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:14 +0900",
+	"total":111117967,
+	"start":1,
+	"display":76,
+	"items":[
+		{
+			"title":"<b>경찰<\/b>청",
+			"link":"https:\/\/www.police.go.kr\/",
+			"description":"<b>경찰<\/b>백서, 홍보동영상, <b>경찰<\/b>화보 등 <b>경찰<\/b>소개자료, 정책참여 안내, 지능형교통시스템 수록."
+		},
+		{
+			"title":"<b>경찰<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B2%BD%EC%B0%B0",
+			"description":"警察 '<b>경찰<\/b>'은 사회의 일반적인 법 질서를 유지하기 위한 행정작용(활동) 또는 그러한 목적을 위해 조직된 기관을 말한다. 대부분의 나라에서 <b>경찰<\/b>은 공무원 에 속하며, 공무원들 중 행정 집행을 대표하는 기관이다. 따라서 <b>경찰<\/b>은 국가 행정기관을 뜻하는 말로도 흔하게 쓰이며, 이를 위한 행정활동은 공권력이라..."
+		},
+		{
+			"title":"<b>경찰<\/b>공무원 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B2%BD%EC%B0%B0%EA%B3%B5%EB%AC%B4%EC%9B%90",
+			"description":"행정안전부 산하 대한민국 <b>경찰<\/b>청, 해양수산부 산하 대한민국 해양<b>경찰<\/b>청에 소속된 특정직 공무원이다. 이 항목에서는 대한민국 검찰청의 지명을 받아 한정된 분야에서만 <b>경찰<\/b>권을 행사하는 특별사법<b>경찰<\/b>관리가 아닌, <b>경찰<\/b>권의 행사범위에 제약이 없는 일반사법<b>경찰<\/b>관리를 다룬다. 어디까지나 강학상에서나 행정경..."
+		},
+		{
+			"title":"사이버<b>경찰<\/b>청 인터넷원서접수",
+			"link":"http:\/\/gosi.police.go.kr\/",
+			"description":"<b>경찰<\/b>공무원, <b>경찰<\/b>특공대요원 등 시험공고, 원서접수 및 응시 안내, 서식자료, 응시표 출력, 합격자 발표 제공."
+		},
+		{
+			"title":"<b>경찰<\/b>대학교",
+			"link":"https:\/\/www.police.ac.kr\/",
+			"description":"국립<b>경찰<\/b>대학, 입학안내, 학사정보 등 제공."
+		},
+		{
+			"title":"<b>경찰<\/b> 민원포털",
+			"link":"https:\/\/minwon.police.go.kr\/",
+			"description":"<b>경찰<\/b> 민원 관련 온라인 신청 교통, 경비, 수사, 생활안전 관련 민원 대응 등 제공."
+		},
+		{
+			"title":"<b>경찰<\/b>(警察) - 한국민족문화대백과사전",
+			"link":"http:\/\/encykorea.aks.ac.kr\/Contents\/Item\/E0002952",
+			"description":"현대국가에 있어 <b>경찰<\/b>개념은 보통 형식적 의미와 실질적 의미로 구별하여 파악되고 있다. 형식적 의미의 <b>경찰<\/b>은 제도상의 <b>경찰<\/b>을 뜻하는 것으로, 실정법상 보통 <b>경찰<\/b>행정기관에 의하여 관장되는 모든 행정작용을... "
+		},
+		{
+			"title":"서울<b>경찰<\/b>청",
+			"link":"https:\/\/www.smpa.go.kr\/",
+			"description":"서울시 종로구 소재, 입찰 · 채용 안내 등 공지사항 제공."
+		},
+		{
+			"title":"윌비스<b>경찰<\/b>학원",
+			"link":"https:\/\/police.willbes.net\/",
+			"description":"<b>경찰<\/b>공무원 교육학원, <b>경찰<\/b>기숙학원, 강사진 소개, 동영상 및 PMP 강의, 상담신청, 시험정보 제공."
+		},
+		{
+			"title":"<b>경찰<\/b>대학 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B2%BD%EC%B0%B0%EB%8C%80%ED%95%99",
+			"description":"<b>경찰<\/b>간부 육성을 위해 설립된 4년제 특수대학이다. 각 군의 사관학교를 떠올리면 쉽다. 사관학교가 졸업과 동시에 100% 소위로 임관하듯 <b>경찰<\/b>대학 역시 졸업과 동시에 100% 경위로 임용된다."
+		},
+		{
+			"title":"공무원 1위 에듀윌 :: <b>경찰<\/b>공무원",
+			"link":"http:\/\/cop.eduwill.net\/",
+			"description":"2022 대한민국 브랜드만족도 <b>경찰<\/b>학원 교육 1위 (한경 비즈니스) 에듀윌, <b>경찰<\/b>공무원시험, 공무원인강, 합격자 전략 14,000명 학습자 분석, 체계적 학습관리,기출문제, 모의고사, 시험일정, 영어테스트 무료 ... "
+		},
+		{
+			"title":"해커스<b>경찰<\/b> :: <b>경찰<\/b>공무원 1위!",
+			"link":"https:\/\/police.hackers.com\/",
+			"description":"*한경비즈니스 선정 2019 한국 소비자 만족지수 교육(<b>경찰<\/b>공무원) 부문 1위*<b>경찰<\/b>공무원시험,<b>경찰<\/b>시험,<b>경찰<\/b>공무원가답안,<b>경찰<\/b>공무원시험합격예측,<b>경찰<\/b>공무원시험가답안,<b>경찰<\/b>공무원시험점수,<b>경찰<\/b>공무원필기시험"
+		},
+		{
+			"title":"공무원 시험\/<b>경찰<\/b>공무원 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B3%B5%EB%AC%B4%EC%9B%90%20%EC%8B%9C%ED%97%98\/%EA%B2%BD%EC%B0%B0%EA%B3%B5%EB%AC%B4%EC%9B%90",
+			"description":"<b>경찰<\/b>청 및 해양<b>경찰<\/b>청에서 각각 실시하는 <b>경찰<\/b>공무원 선발 시험으로 크게 특별한 자격을 요구하지 않는 공개경쟁채용시험과 기존의 경력(특정 학위 혹은 연구 및 재직)을 요구하는 경력경쟁채용시험으로 구분되어 있다. 두 기관 모두 대부분 공개 채용 방식이나 시험 과목 등은 유사하나, 수사와 일반범죄 대응에..."
+		},
+		{
+			"title":"<b>경찰<\/b>민원포털 : HOME &gt; 신고\/지원 &gt; 범죄신고\/상담 &gt; <b>경찰<\/b>민원포털 - <b>경찰<\/b>청",
+			"link":"https:\/\/www.police.go.kr\/www\/security\/report\/report01.jsp",
+			"description":"열린 행정으로 시민과 함께하는 따뜻한 <b>경찰<\/b>이 되겠습니다 <b>경찰<\/b>민원포털 <b>경찰<\/b>민원포털 분야별 바로가기 신고하기 제보하기 수사민원 교통민원 민원결과조회 ... "
+		},
+		{
+			"title":"해양<b>경찰<\/b>청",
+			"link":"http:\/\/www.kcg.go.kr\/",
+			"description":"해상경비, 해난구조, 범죄수사, 해양오염방제."
+		},
+		{
+			"title":"<b>경찰<\/b>청 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B2%BD%EC%B0%B0%EC%B2%AD",
+			"description":"문서의 제목은 <b>경찰<\/b>청으로 주로 각국의 <b>경찰<\/b>을 총괄하는 기관을 가르키지만 국가마다 <b>경찰<\/b>조직의 범위와 권한은 다양한 편이다."
+		},
+		{
+			"title":"대한민국 <b>경찰<\/b>청",
+			"link":"https:\/\/blog.naver.com\/polinlove2",
+			"description":"약 2.3만 명의 구독자를 보유한\n대한민국 <b>경찰<\/b>청의 블로그. 약 4.8천 건의 게시물이 있습니다. 범죄 예방 정보와 <b>경찰<\/b> 활동을 소개하는 <b>경찰<\/b>청 공식계정입니다.❤️ 여러분의 사랑과 관심으로 <b>경찰<\/b>청 공식계정의"
+		},
+		{
+			"title":"인천 미추홀<b>경찰<\/b>서",
+			"link":"https:\/\/www.icpolice.go.kr\/police.php?dcode=nb",
+			"description":"<b>경찰<\/b>서 소개, 민원안내, 교통 및 범죄정보, <b>경찰<\/b>서견학 안내."
+		},
+		{
+			"title":"커넥츠 경단기",
+			"link":"https:\/\/gyung.conects.com\/",
+			"description":"<b>경찰<\/b>공무원 1위! 최종합격자 15,218명, <b>경찰<\/b>시험 전문 강사진 강의 평생 무제한 수강, 2022개편 시험 완벽대비!"
+		},
+		{
+			"title":"<b>경찰<\/b>공무원\/계급 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B2%BD%EC%B0%B0%EA%B3%B5%EB%AC%B4%EC%9B%90\/%EA%B3%84%EA%B8%89",
+			"description":"경무관 이상 <b>경찰<\/b>공무원은 판사 및 검사와 함께 고위공직자범죄수사처의 수사 및 기소 대상인 고위공직자에 해당한다."
+		},
+		{
+			"title":"군사<b>경찰<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%B0%EC%82%AC%EA%B2%BD%EC%B0%B0",
+			"description":"군사<b>경찰<\/b>(軍事警察  \/ Military Police)은 군대의 병과 중 하나다. 군대 내 치안 담당을 하는 <b>경찰<\/b> 역할의 군인이다."
+		},
+		{
+			"title":"대구<b>경찰<\/b>청",
+			"link":"https:\/\/www.dgpolice.go.kr\/",
+			"description":"<b>경찰<\/b>청 소개, 민원안내, 교통, 사고, <b>경찰<\/b>혁신사례 수록."
+		},
+		{
+			"title":"<b>경찰<\/b>행정학과 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B2%BD%EC%B0%B0%ED%96%89%EC%A0%95%ED%95%99%EA%B3%BC",
+			"description":"전문적인 <b>경찰<\/b>공무원을 양성하는데 그 목적이 있는 학과. 다만 졸업 후 <b>경찰<\/b> 임용이 보장되지는 않으며 <b>경찰<\/b>행정학과 출신자 특채가 존재한다. 참고로 법학과 출신자 특채도 있다"
+		},
+		{
+			"title":"해양<b>경찰<\/b>청 의무<b>경찰<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%ED%95%B4%EC%96%91%EA%B2%BD%EC%B0%B0%EC%B2%AD%20%EC%9D%98%EB%AC%B4%EA%B2%BD%EC%B0%B0",
+			"description":"의무<b>경찰<\/b> 중에서 <b>경찰<\/b>청 소속이 아닌 해양<b>경찰<\/b>청 소속의 사람들을 부르는 말. 지원제인 해양<b>경찰<\/b>청 의무<b>경찰<\/b>은 대한민국의 전환복무제도의 하나로, 복무기간은 대한민국 해군의 해군기초군사교육단에서 받는 기초군사훈련과 '해양<b>경찰<\/b>교육원'에서 받는 교육까지 포함하여 1년 8개월이다."
+		},
+		{
+			"title":"<b>경찰<\/b>합격 페이스메이커 ★모두경★",
+			"link":"https:\/\/www.modoocop.com\/",
+			"description":"22년동안 노량진에서 합격으로 검증된 컨텐츠를 합리적인 가격에! ★모두경패스★"
+		},
+		{
+			"title":"<b>경찰<\/b>서장 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B2%BD%EC%B0%B0%EC%84%9C%EC%9E%A5",
+			"description":"<b>경찰<\/b>서의 수장이다. <b>경찰<\/b>서장에 보임 되는 수는 251명이다. 대규모 자치구나 인구 50만 이상의 일반구가 있는 대도시 특례를 받는 도시에는 3개 이상의 <b>경찰<\/b>관서가 있는 경우에는 중심<b>경찰<\/b>서제를 도입할 수 있고 이 경우는 경무관이, 나머지는 총경이 보임되는 경우가 대부분이다. 근래에는 경정급 이상의 인원 수..."
+		},
+		{
+			"title":"전라북도<b>경찰<\/b>청",
+			"link":"https:\/\/www.jbpolice.go.kr\/",
+			"description":"<b>경찰<\/b>청 소개, 조직 및 업무소개, <b>경찰<\/b>통계, 폴리스리포트 수록."
+		},
+		{
+			"title":"전라남도<b>경찰<\/b>청",
+			"link":"https:\/\/www.jnpolice.go.kr\/",
+			"description":"<b>경찰<\/b>청 소개, 민원 및 신고센터, 조회서비스, <b>경찰<\/b> 기사 제공."
+		},
+		{
+			"title":"의무<b>경찰<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EC%9D%98%EB%AC%B4%EA%B2%BD%EC%B0%B0",
+			"description":"전환복무 중의 하나로(대체복무가 아니라는 점에 유의) 의무<b>경찰<\/b>은 복무기간 동안 <b>경찰<\/b>공무원이지만 전역하면 예비역병장 대한민국 육군\/해군 소속으로 만기전역이 된다."
+		},
+		{
+			"title":"경상북도<b>경찰<\/b>청",
+			"link":"https:\/\/www.gbpolice.go.kr\/",
+			"description":"청문감사관, 민원상담실, 교통업무, 공개수배, 성폭력 신고 및 <b>경찰<\/b>관 채용 등 안내."
+		},
+		{
+			"title":"경기남부<b>경찰<\/b>청",
+			"link":"https:\/\/www.ggpolice.go.kr\/",
+			"description":"<b>경찰<\/b>청 소개, 공개수배 게시, 신고민원센터, 정보마당 제공."
+		},
+		{
+			"title":"울산<b>경찰<\/b>청",
+			"link":"https:\/\/www.uspolice.go.kr\/",
+			"description":"울산<b>경찰<\/b>청 - 우리는 국민의 생명과 재산을 보호하고 법과질서를 수호하는 국민의 <b>경찰<\/b>로서 모든 국민이 안전하고 평온한 삶을 누릴 수 있도록 하겠습니다. ... "
+		},
+		{
+			"title":"서울 마포<b>경찰<\/b>서",
+			"link":"http:\/\/www.smpa.go.kr\/home\/homeIndex.do?menuCode=mp",
+			"description":"<b>경찰<\/b>서 소개, 미아, 분실물 등 조회서비스, 신고제보, 민원센터 운영."
+		},
+		{
+			"title":"<b>경찰<\/b>박물관",
+			"link":"https:\/\/www.policemuseum.go.kr\/",
+			"description":"<b>경찰<\/b>박물관 힘내라 대한민국"
+		},
+		{
+			"title":"강원<b>경찰<\/b>청",
+			"link":"https:\/\/www.gwpolice.go.kr\/",
+			"description":"<b>경찰<\/b>청 소개, 민원안내, 범죄사고율, <b>경찰<\/b>법령자료 수록."
+		},
+		{
+			"title":"안전Dream에 오신 것을 환영합니다.",
+			"link":"https:\/\/www.safe182.go.kr\/",
+			"description":"센터소개, 실종아동예방법, 대처요령, 생활안전지도, 법령 및 기관정보 수록."
+		},
+		{
+			"title":"제주<b>경찰<\/b>청",
+			"link":"https:\/\/www.jjpolice.go.kr\/",
+			"description":"<b>경찰<\/b>청 소개, 민원안내, 범죄, 교통사고율 수록."
+		},
+		{
+			"title":"한국<b>경찰<\/b>학원 대구원",
+			"link":"https:\/\/daegu.koreapolice.co.kr\/",
+			"description":"대구 한국<b>경찰<\/b>학원,대구광역시 중구 동성로 위치, <b>경찰<\/b> 공무원 전문학원, 교육 프로그램, 동영상 강의, 시험 정보 등 안내."
+		},
+		{
+			"title":"분당<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/bd\/",
+			"description":"<b>경찰<\/b>서 소개, 민원상담, 교통정보, 조회 및 신고서비스 제공."
+		},
+		{
+			"title":"<b>경찰<\/b> 갤러리 - 커뮤니티 포털 디시인사이드",
+			"link":"https:\/\/gall.dcinside.com\/board\/lists\/?id=police",
+			"description":"정부\/기관 카테고리로 분류된 <b>경찰<\/b> 갤러리입니다. <b>경찰<\/b> 갤러리에 다양한 이야기를 남겨주세요."
+		},
+		{
+			"title":"광주서부<b>경찰<\/b>서",
+			"link":"https:\/\/www.gjpolice.go.kr\/sb\/",
+			"description":"<b>경찰<\/b>서 소개, 민원안내, 범죄사고 신고, 청문감사관 수록."
+		},
+		{
+			"title":"군포<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/gunpo\/",
+			"description":"<b>경찰<\/b>서 소개, 신고 및 민원센터, 조회서비스, 교통정보 안내."
+		},
+		{
+			"title":"용인동부<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/yidb\/",
+			"description":"<b>경찰<\/b>서소개, 사이버 민원, 조회 및 신고센터, 교통정보 수록."
+		},
+		{
+			"title":"충남서산<b>경찰<\/b>서",
+			"link":"https:\/\/www.cnpolice.go.kr\/SEO\/SS\/index.php",
+			"description":"<b>경찰<\/b>서 소개, 채용정보, 청사안내, 범죄신고, 민원신청 안내."
+		},
+		{
+			"title":"인천서부<b>경찰<\/b>서",
+			"link":"https:\/\/www.icpolice.go.kr\/police.php?dcode=sb",
+			"description":"<b>경찰<\/b>서 소개, 민원안내, 지구대, 파출소 안내, 교통 및 범죄정보 수록."
+		},
+		{
+			"title":"경상남도<b>경찰<\/b>청",
+			"link":"https:\/\/www.gnpolice.go.kr\/",
+			"description":"주요활동, 민원 안내, 법령, 교통사고처리예시, 통계자료 수록."
+		},
+		{
+			"title":"충남천안서북<b>경찰<\/b>서",
+			"link":"https:\/\/www.cnpolice.go.kr\/SEO\/SB\/index.php",
+			"description":"<b>경찰<\/b>서 소개, 교통정보, 전자민원, 신고 및 조회서비스 등 안내."
+		},
+		{
+			"title":"박문각 <b>경찰<\/b>",
+			"link":"https:\/\/www.pmg.co.kr\/User\/pco\/pmglab_new\/pmglab.asp",
+			"description":"2022.07.31(일) 온\/오프라인 동시 시행헌법(20문제), 형사법(40문제), <b>경찰<\/b>학(40문제)"
+		},
+		{
+			"title":"강화<b>경찰<\/b>서",
+			"link":"https:\/\/www.icpolice.go.kr\/police.php?dcode=gw",
+			"description":"<b>경찰<\/b>서소개, 민원안내, 법령자료, 교통 및 범죄정보 수록."
+		},
+		{
+			"title":"동래<b>경찰<\/b>서",
+			"link":"https:\/\/www.bspolice.go.kr\/dongnae\/main.do",
+			"description":"<b>경찰<\/b>서 소개, 치안자료, 민원안내, 교통 및 범죄 예방활동 수록."
+		},
+		{
+			"title":"인천남동<b>경찰<\/b>서",
+			"link":"https:\/\/www.icpolice.go.kr\/police.php?dcode=nd",
+			"description":"<b>경찰<\/b>서 소개, 범죄신고 및 민원서비스, 교통정보 제공."
+		},
+		{
+			"title":"대한민국 의무<b>경찰<\/b>",
+			"link":"https:\/\/ap.police.go.kr\/",
+			"description":"의무<b>경찰<\/b> 소개, 모집정보 및 복무생활 정보, 교육과정 안내."
+		},
+		{
+			"title":"평택<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/pt\/",
+			"description":"<b>경찰<\/b>서 소개, 청문감사관, 사이버민원실, 알림마당 제공."
+		},
+		{
+			"title":"해운대<b>경찰<\/b>서",
+			"link":"https:\/\/www.bspolice.go.kr\/haeundae\/main.do",
+			"description":"<b>경찰<\/b>서소개, 민원안내, 관내치안상황, 법령 수록."
+		},
+		{
+			"title":"동해지방해양<b>경찰<\/b>청",
+			"link":"http:\/\/www.kcg.go.kr\/donghaecgh\/main.do",
+			"description":"동해지방해양<b>경찰<\/b>청 홈페이지에 오신 것을 환영합니다."
+		},
+		{
+			"title":"성남수정<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/snsj\/",
+			"description":"<b>경찰<\/b>서 소개, 청사 안내, 보도자료 및 민원서비스 제공."
+		},
+		{
+			"title":"안성<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/as\/",
+			"description":"<b>경찰<\/b>서 소개, 참여마당, 사이버 조회서비스, 신고 및 제보 안내."
+		},
+		{
+			"title":"과천<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/gc\/",
+			"description":"<b>경찰<\/b>서 소개, 전자민원, 범죄사고율, 민원봉사실 안내."
+		},
+		{
+			"title":"인천부평<b>경찰<\/b>서",
+			"link":"https:\/\/www.icpolice.go.kr\/police.php?dcode=bp",
+			"description":"<b>경찰<\/b>서 소개, 민원신고 및 조회, 교통정보, 범죄통계, 방범상식 수록."
+		},
+		{
+			"title":"경기도 광주<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/gj\/",
+			"description":"경기도 광주<b>경찰<\/b>서 소개, 신고 및 민원센터, 교통정보 제공."
+		},
+		{
+			"title":"수원 남부<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/swnb\/",
+			"description":"<b>경찰<\/b>서 소개, 민원안내, 교통정보, 사이버 신고센터 제공."
+		},
+		{
+			"title":"인천중부<b>경찰<\/b>서",
+			"link":"https:\/\/www.icpolice.go.kr\/police.php?dcode=jb",
+			"description":"<b>경찰<\/b>서 소개, 청사안내, 신고 및 민원, 조회서비스 제공."
+		},
+		{
+			"title":"이천<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/ic\/",
+			"description":"<b>경찰<\/b>서 소개, 조회 및 신고센터, 민원서비스, 알림마당 제공."
+		},
+		{
+			"title":"광명 <b>경찰<\/b>서에 오신걸 환영합니다",
+			"link":"https:\/\/www.ggpolice.go.kr\/gm\/",
+			"description":"<b>경찰<\/b>서 소개, 범죄신고, 알림마당, 민원 및 조회서비스 제공."
+		},
+		{
+			"title":"청주흥덕<b>경찰<\/b>서",
+			"link":"http:\/\/www.cbpolice.go.kr\/cjhd\/",
+			"description":"<b>경찰<\/b>서 소개, 채용정보, 청사안내, 범죄신고, 민원신청 안내."
+		},
+		{
+			"title":"수원 중부<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/swjb\/",
+			"description":"<b>경찰<\/b>서 소개, 정보공개, 알림마당, 신고 및 민원센터 안내."
+		},
+		{
+			"title":"용인서부<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/yisb\/",
+			"description":"<b>경찰<\/b>서 소개, 민원창구, 보도자료, 현장사진 및 동영상 등 수록."
+		},
+		{
+			"title":"김포<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/gimpo\/",
+			"description":"<b>경찰<\/b>서 소개, 알림마당, 각종 조회 및 민원서비스 제공."
+		},
+		{
+			"title":"창원중부<b>경찰<\/b>서",
+			"link":"http:\/\/www.gnpolice.go.kr\/cwjb\/",
+			"description":"<b>경찰<\/b>서 소개, 신고, 제보센터, 정보마당, 조회 및 민원 서비스 제공."
+		},
+		{
+			"title":"윌비스 <b>경찰<\/b>간부학원",
+			"link":"https:\/\/spo.willbes.net\/",
+			"description":"<b>경찰<\/b>간부 동영상 강의, 1, 2, 3 순환, 강사진 안내."
+		},
+		{
+			"title":"안산단원<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/ansan\/",
+			"description":"<b>경찰<\/b>서 소개, 민원서비스, 알림마당, 사이버 조회 및 상담서비스 제공."
+		},
+		{
+			"title":"남해지방해양<b>경찰<\/b>청",
+			"link":"http:\/\/www.kcg.go.kr\/namhaecgh\/main.do",
+			"description":"남해지방해양<b>경찰<\/b>청 홈페이지에 오신 것을 환영합니다."
+		},
+		{
+			"title":"안산상록<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/assn\/",
+			"description":"<b>경찰<\/b>서 소개, 신고 및 민원안내, 알림마당, 범죄현황 제공."
+		},
+		{
+			"title":"전주완산<b>경찰<\/b>서",
+			"link":"https:\/\/jjws.jbpolice.go.kr\/",
+			"description":"<b>경찰<\/b>서 소개, 사건 검색, 유실물센터, 전자민원창구 및 조회서비스 제공."
+		},
+		{
+			"title":"시흥<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/sh\/",
+			"description":"시흥 사이버<b>경찰<\/b>서 소개, 청문감사관, 행정발전위원회 안내."
+		},
+		{
+			"title":"부천오정<b>경찰<\/b>서",
+			"link":"https:\/\/www.ggpolice.go.kr\/bcoj\/",
+			"description":"<b>경찰<\/b>서 소개, 민원창구, 보도자료, 현장사진 및 동영상 등 수록."
+		}
+	]
+}

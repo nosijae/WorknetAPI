@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:29 +0900",
+	"total":10800,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[가죽<b>공예<\/b>출강] 부산 학생교육원 <b>직무<\/b>연수프로그램, 카드지갑... ",
+			"link":"https:\/\/blog.naver.com\/leaf130117?Redirect=Log&logNo=222698102265",
+			"description":"가죽<b>공예<\/b>출강, 학생교육원 선생님들을 위한 <b>직무<\/b>연수프로그램,카드지갑 일로가죽공방 아주 햇살이 맑은 날이었네요:) 부산 금정구에 위치한 부산 학생교육원의 선생님들 대상 <b>직무<\/b>연수 프로그램을 다녀왔어요.... ",
+			"bloggername":"부산 일로가죽공방",
+			"bloggerlink":"https:\/\/blog.naver.com\/leaf130117",
+			"postdate":"20220412"
+		},
+		{
+			"title":"석고방향제 만들기\/ 제로웨이스트\/ <b>공예<\/b>\/ <b>직무<\/b>스트레스관리... ",
+			"link":"https:\/\/blog.naver.com\/miy0405?Redirect=Log&logNo=222697042763",
+			"description":"#석고방향제만들기 #<b>공예<\/b> #체험프로그램 #<b>직무<\/b>스트레스관리 #스트레스관리 #힐링테라피 #컬러테라피 #강사섭외 #강의의뢰 #핸드메이드힐링 #부산강사 #거제도강사 #김해강사 #창원강사 #울산강사",
+			"bloggername":"취업, 스피치, 이미지메이킹, 서비스, 창업, 퍼스널",
+			"bloggerlink":"https:\/\/blog.naver.com\/miy0405",
+			"postdate":"20220411"
+		},
+		{
+			"title":"[20.7~]진로와 직업-<b>공예직무<\/b>체험-휴대용 손소독겔, 카드형... ",
+			"link":"https:\/\/blog.naver.com\/smartmj38?Redirect=Log&logNo=222708899222",
+			"description":"저는 큰 행사가 끝나면 다시 공허해지는 것이 개미처럼 일을 계속 해야하는 스타일인가봐요.ㅋㅋㅋ 오늘은 제가 20년도에 했었던 진로와 직업 <b>공예직무<\/b>체험으로 손소독제 만들기를 소개하려고 해요. 벌써 2년 전... ",
+			"bloggername":"스페셜백쌤의 특별한 교육",
+			"bloggerlink":"https:\/\/blog.naver.com\/smartmj38",
+			"postdate":"20220423"
+		},
+		{
+			"title":"[재단 <b>직무<\/b> 인터뷰 A to Z] <b>공예<\/b>진흥팀 이지선 대리",
+			"link":"https:\/\/blog.naver.com\/fpcp2010?Redirect=Log&logNo=222120045247",
+			"description":"전통<b>공예<\/b> 관련 전시기획에 대한 모든것 #무형문화재 #전시 #퍼포먼스 #아이디어 #커뮤니케이션 Q. 먼저 간단한 자기소개 부탁드립니다. 제가 재단에 입사한지 벌써 4년이나 되었네요. 현재 전통<b>공예<\/b> 관련... ",
+			"bloggername":"전통문화와 아름다운 만남, 한국문화재재단",
+			"bloggerlink":"https:\/\/blog.naver.com\/fpcp2010",
+			"postdate":"20201024"
+		},
+		{
+			"title":"<b>직무<\/b>강화by 일하기센터 #깔깔공작소   #양말목<b>공예<\/b>",
+			"link":"https:\/\/blog.naver.com\/sonkim5962?Redirect=Log&logNo=222424247737",
+			"description":"#포천여성새로 일하기센터 #<b>직무<\/b>역량강화 #양말목<b>공예<\/b> 매일 신는 양말목부분을 이용하여 작품을 만드는<b>공예<\/b> 양말을 만들고 폐기물로 버렸던 것을 이제는 좋은 재료가 되어 다양한 생활용품으로 변신 새롭게... ",
+			"bloggername":"힐링천사 씨니어토탈강사",
+			"bloggerlink":"https:\/\/blog.naver.com\/sonkim5962",
+			"postdate":"20210708"
+		},
+		{
+			"title":"소상공인협업아카데미\/찾아가는 <b>직무<\/b>교육\/라탄<b>공예<\/b>",
+			"link":"https:\/\/blog.naver.com\/seytoo70?Redirect=Log&logNo=222043428796",
+			"description":"소상공인 협동조합회원들을 대상으로 한 찾아가는 <b>직무<\/b>교육 라탄<b>공예<\/b>로 함께했어요 세분 선생님들 기초과정은 이수하신터라 좀 더 난이도가 있는 작품으로 함께했구요 워낙 꼼꼼히 잘들하셔서 중간 중간 기법... ",
+			"bloggername":"아름다운 공예사랑",
+			"bloggerlink":"https:\/\/blog.naver.com\/seytoo70",
+			"postdate":"20200727"
+		},
+		{
+			"title":"가죽<b>공예<\/b>\/전주청소년시설\/지도자\/<b>직무<\/b>연수\/풀잎문화센터전주... ",
+			"link":"https:\/\/blog.naver.com\/59901234?Redirect=Log&logNo=222582505575",
+			"description":"지난 금요일 전주 청소년시설 <b>직무<\/b>연수가 저희 센터에서 이루어졌답니다 &quot;야호학교&quot; 청소년시설 이라네요 야호학교에서 근무하시는 선생님들께서 <b>직무<\/b>연수로 가죽<b>공예<\/b>를 선택 하셨어요. 청소년시설 연합회인... ",
+			"bloggername":"풀잎문화센터전주지부 063-283-2143",
+			"bloggerlink":"https:\/\/blog.naver.com\/59901234",
+			"postdate":"20211130"
+		},
+		{
+			"title":"나주 <b>공예<\/b>전파 위해 지역 <b>공예<\/b>인 강사로 참여해 교원<b>직무<\/b>연수... ",
+			"link":"https:\/\/blog.naver.com\/bukgu?Redirect=Log&logNo=222061433713",
+			"description":"교원<b>직무<\/b> 연수는 학교 현장에서 <b>공예<\/b> 활용 능력 향상, 나주의 <b>공예<\/b>의 육성 및 확산 차원에서 나주에서 살고, 나주에서 작품 활동을 하는 목<b>공예<\/b> 작가, 팝 아티스트 작가, 섬유<b>공예<\/b> 작가들이 강사로 참여해서... ",
+			"bloggername":"잡화창고",
+			"bloggerlink":"https:\/\/blog.naver.com\/bukgu",
+			"postdate":"20200815"
+		},
+		{
+			"title":"보자기<b>공예<\/b> 외부강의 외부출강... 참여주민 <b>직무<\/b>교육 전주 익산... ",
+			"link":"https:\/\/blog.naver.com\/suyeon700?Redirect=Log&logNo=222748893135",
+			"description":"3579 #덕진지역자활센터 #참여주민<b>직무<\/b>교육 #전주보자기수업출장 #전주전통<b>공예<\/b> #전주전통<b>공예<\/b> #전주보자기<b>공예<\/b> #전주평생학습 #전주취미<b>공예<\/b> #전주학부모수업 #전주보자기취미반 #전주단체수업... ",
+			"bloggername":"예단포장전문 예단비함포장 전주익산군산",
+			"bloggerlink":"https:\/\/blog.naver.com\/suyeon700",
+			"postdate":"20220527"
+		},
+		{
+			"title":"[<b>직무<\/b>교육]라탄<b>공예<\/b>^^",
+			"link":"https:\/\/blog.naver.com\/weavingday?Redirect=Log&logNo=222592434541",
+			"description":"#<b>직무<\/b>교육 #위빙데이 #대구라탄 <b>직무<\/b>교육의뢰가 들어와서 공방에서 진행했어요^^ 반응이 좋아서 타부서에서도 진행하고싶다고 하셨답니다~ 모두들 이쁘게 완성하셨어요^^* <b>직무<\/b>교육도 위빙데이와 함께~~~",
+			"bloggername":"weaving_day",
+			"bloggerlink":"https:\/\/blog.naver.com\/weavingday",
+			"postdate":"20211211"
+		},
+		{
+			"title":"[새활용양말목<b>공예<\/b>]세종시 특수교사 <b>직무<\/b>연수\/성북문화 재단... ",
+			"link":"https:\/\/blog.naver.com\/withboom?Redirect=Log&logNo=221633841561",
+			"description":"강화 <b>직무<\/b>연수 프로그램으로 양말목 <b>공예<\/b>가 채택이 되어 세종시 양말목 강사님이신 리지핸드 선생님과 함께 진행한 수업 후기 올려드려요 - 정성스럽게 수업 준비 - 프린트물과 당 떨어질 것을 대비하여... ",
+			"bloggername":"감성위빙아트센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/withboom",
+			"postdate":"20190830"
+		},
+		{
+			"title":"&lt;제주공방 엘씨에로&gt; 제주영지학교 생활<b>공예 직무<\/b>체험... ",
+			"link":"https:\/\/blog.naver.com\/hangssi07?Redirect=Log&logNo=222144624388",
+			"description":"제주영지학교 전공반 <b>직무<\/b>체험 생활<b>공예<\/b> 카드지갑만들기 1년차 2년차 학생들과 함께 만들었는데 완성사진은 2년차 학생들꺼뿐 없네요~ 앞면이구요~ 뒤에는 카드 두장 수납 가능하게 되어... ",
+			"bloggername":"제주핸드메이드공방 엘씨에로(El Cielo)",
+			"bloggerlink":"https:\/\/blog.naver.com\/hangssi07",
+			"postdate":"20201115"
+		},
+		{
+			"title":"[20.07]진로와 직업 수업-<b>공예 직무<\/b> 수업-비즈마스크스트랩... ",
+			"link":"https:\/\/blog.naver.com\/smartmj38?Redirect=Log&logNo=222613494751",
+			"description":"ㅠㅠ ) 진로와 직업 시간에 했던 <b>공예직무<\/b>체험으로 비즈 마스크 스트랩 만들기를 소개하고자 합니다.... 과거 특수학급에서 비즈 공예 수업이 유행하던 시절에는 상상도 할 수 없는 20년도의 비즈마스크스트랩이... ",
+			"bloggername":"스페셜백쌤의 특별한 교육",
+			"bloggerlink":"https:\/\/blog.naver.com\/smartmj38",
+			"postdate":"20220105"
+		},
+		{
+			"title":"한국<b>공예<\/b>디자인문화진흥원 사업관리 <b>직무<\/b>기술서 알아보기",
+			"link":"https:\/\/blog.naver.com\/dreamgodream?Redirect=Log&logNo=221420853408",
+			"description":"한국<b>공예<\/b>디자인문화진흥원 사업관리<b>직무<\/b> 수행을 위해서는다음과 같은 기술이 필요 합니다. 문화기관 경영관련 정보 수집 및 분석 능력, 기획 능력예산계획 이해 능력, 성과 종합 분석 능력상품개발, 브랜드... ",
+			"bloggername":"꿈날개 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dreamgodream",
+			"postdate":"20181219"
+		},
+		{
+			"title":"2013. 전통<b>공예<\/b> 문화체험 <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/jangdojang60?Redirect=Log&logNo=10173641345",
+			"description":"전통<b>공예<\/b> 문화체험 <b>직무<\/b>연수 교시 일시 1교시 (9:00-09:50) 2교시 (10:00-10:50) 3교시 (11:00-11:50) 점심시간 (11:50-13:00) 4교시 (13:00-13:50) 5교시 (14:00-14:50) 6교시 (15:00-15:50) 7교시 (16:00-16:50) 7월 29일 (월)... ",
+			"bloggername":"광양장도박물관",
+			"bloggerlink":"https:\/\/blog.naver.com\/jangdojang60",
+			"postdate":"20130803"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인, 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221630883696",
+			"description":"오늘은 저희가 소상공인, 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램 이라는 수업을 들고 찾아뵈었는데요! 소상공인, 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램이란? 섬유<b>공예<\/b>에 대한 이해와 색상의 조합, 패턴 개발을... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20190828"
+		},
+		{
+			"title":"(부산 교사 <b>직무<\/b>연수) 도자기 <b>공예<\/b> 연수-청자 접시 완성작품",
+			"link":"https:\/\/blog.naver.com\/kpottery?Redirect=Log&logNo=120113314632",
+			"description":"부산 교육청에서 위탁받아 교사분들의 <b>직무<\/b>연수로 도자기 <b>공예<\/b>를 부산 교육대학교 미술관에서 실시 하였습니다. 미술관 공사와 연수 시기가 겹쳐서 많은 선생님들께서 불편함을 겪으셨지만 , 이에 아랑곳 없이... ",
+			"bloggername":"강무창 도예공방 -가온",
+			"bloggerlink":"https:\/\/blog.naver.com\/kpottery",
+			"postdate":"20100816"
+		},
+		{
+			"title":"교사힐링<b>직무<\/b>연수 창원가죽<b>공예<\/b> 창원용호풀잎문화센터",
+			"link":"https:\/\/blog.naver.com\/kims2428?Redirect=Log&logNo=221723022142",
+			"description":"9328 #창원가죽<b>공예<\/b> #직원문화교실 #동아리체험 #창원문화센터 #창원용호풀잎 #단체수업 #<b>공예<\/b>체험 #진로체험 #용호동풀잎 #창원용호동 #가죽<b>공예<\/b>배우는곳 #교사<b>직무<\/b>연수 #교권연수 #창원풀잎문화센터... ",
+			"bloggername":"창원용호풀잎문화센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/kims2428",
+			"postdate":"20191130"
+		},
+		{
+			"title":"포천여성새로일하기센터 동아리<b>직무<\/b>소양교육 토탈<b>공예<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/prismaim?Redirect=Log&logNo=221597855929",
+			"description":"이제 7월 12일, 포천여성새로일하기센터에서 동아리<b>직무<\/b>소양교육으로 '오색빛깔쌤의 뚝딱<b>공예<\/b>'를 진행했습니다. '오색빛깔쌤의 뚝딱<b>공예<\/b>'는 요양원, 장애인시설에서 쉽게 수업에 적용가능한 커리들만 골라서... ",
+			"bloggername":"오색빛깔쌤의 3D펜창작공예",
+			"bloggerlink":"https:\/\/blog.naver.com\/prismaim",
+			"postdate":"20190728"
+		},
+		{
+			"title":"원장겸직, 전통목칠<b>공예<\/b>) <b>직무<\/b>수행계획서 작성 대행 안내",
+			"link":"https:\/\/ebizbrain.tistory.com\/7735",
+			"description":"한국전통문화대학교 전문임기제 공무원(문화재정책\/원장겸직, 전통목칠<b>공예<\/b>) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 10만원 : 5매 기준 \/ 3일 (공휴일 제외)... ",
+			"bloggername":"사업계획서\/제안서\/기획서\/보고서 :: 사업계획서\/제안서\/기획서\/보고서",
+			"bloggerlink":"https:\/\/ebizbrain.tistory.com\/",
+			"postdate":"20161111"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별... 의복 \/ 22. 인쇄·목재·가구·<b>공예<\/b>",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220617243458",
+			"description":"인쇄·목재·가구·<b>공예<\/b>를 추천합니다. NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가에는 NCS기반 채용방법의 전후로 신규직원 채용방법의 변화를 알려줘요. NCS에 따른 분류체계에 따라 대중소세분류를 정리하고... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160203"
+		},
+		{
+			"title":"[채용 <b>직무<\/b>분석] 한국<b>공예<\/b>디자인문화진흥원",
+			"link":"https:\/\/blog.naver.com\/bluegreen0807?Redirect=Log&logNo=221525503607",
+			"description":"한국<b>공예<\/b>디자인문화진흥원에서 채용하는 <b>직무<\/b>를 분석해보자! (출처: 기관 홈페이지) 사무처, <b>공예<\/b>본부, 디자인본부, 한복진흥센터로 구성된다. 문화예술행정 기관경영, 정책개발\/평가, 사업기획\/운영을... ",
+			"bloggername":"직업도서관",
+			"bloggerlink":"https:\/\/blog.naver.com\/bluegreen0807",
+			"postdate":"20190501"
+		},
+		{
+			"title":"[2018.11]진로와 직업 수업-금속<b>공예 직무<\/b>체험",
+			"link":"https:\/\/blog.naver.com\/smartmj38?Redirect=Log&logNo=222080229495",
+			"description":"[2018.11.] 진로와 직업 수업-금속<b>공예직무<\/b> 체험 ★ 나만의 은 반지 만들기 수업 ★ 이 수업은 금속공예공방에서 현장체험학습으로 진행되었던 수업이예요. 나만의 반지 디자인을 선택하고, 길쭉한 은 스틱을... ",
+			"bloggername":"스페셜백쌤의 특별한 교육",
+			"bloggerlink":"https:\/\/blog.naver.com\/smartmj38",
+			"postdate":"20200904"
+		},
+		{
+			"title":"<b>직무<\/b>능력평가 18 섬유.의복 \/ 22 인쇄.목재.가구.<b>공예<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/witheos?Redirect=Log&logNo=220714611620",
+			"description":"면접평가의 변화_35 (2) NCS 분류 <b>직무<\/b> 해설_38 - 18 섬유.의복 - 22 인쇄.목재.가구.<b>공예<\/b> 1) NCS(국가<b>직무<\/b>능력표준)의 분류 체계_38 2) ‘18 섬유.의복’의 하위 분류_39 3) ‘18 섬유.의복’의 능력단위_39 4)... ",
+			"bloggername":"인터넷서점 북마우스",
+			"bloggerlink":"https:\/\/blog.naver.com\/witheos",
+			"postdate":"20160520"
+		},
+		{
+			"title":"<b>직무<\/b>능력평가 18: 섬유 의복 22: 인쇄 목재 가구 <b>공예<\/b> (2016)... ",
+			"link":"https:\/\/blog.naver.com\/gosimart?Redirect=Log&logNo=220508525036",
+			"description":"인쇄·목재·가구·<b>공예<\/b> 1) NCS(국가<b>직무<\/b>능력표준)의 분류 체계_38 2) ‘18 섬유·의복’의 하위 분류_39 3) ‘18 섬유·의복’의 능력단위_39 4) 능력단위별로 요구되는 ‘지식·기술·태도’_42 5) ‘22... ",
+			"bloggername":"온라인교육 플랫폼 캠버스에듀",
+			"bloggerlink":"https:\/\/blog.naver.com\/gosimart",
+			"postdate":"20151014"
+		},
+		{
+			"title":"한국<b>공예<\/b>디자인문화진흥원 행정지원사서 <b>직무<\/b>기술서 알아보기",
+			"link":"https:\/\/blog.naver.com\/dreamgodream?Redirect=Log&logNo=221420862886",
+			"description":"한국<b>공예<\/b>디자인문화진흥원 행정지원사서 <b>직무<\/b>기술서 알아보기 www.dream.go.kr 한국<b>공예<\/b>디자인문화진흥원은 <b>공예<\/b> 및 디자인 문화의 진흥과 발전을 돕기 위하여 설립된 문화체육관광부 산하의 공공기관입니다.... ",
+			"bloggername":"꿈날개 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dreamgodream",
+			"postdate":"20181221"
+		},
+		{
+			"title":"소상공인,섬유<b>공예<\/b>작가 강사파견을 위한 <b>직무<\/b>능력향상 프로그램",
+			"link":"https:\/\/blog.naver.com\/canbab0435?Redirect=Log&logNo=221624439955",
+			"description":"소상공인,섬유<b>공예<\/b>작가 강사파견을 위한 <b>직무<\/b>능력향상 프로그램 3회차 스마트IT + 패브릭아트접목~ #섬유<b>공예<\/b> 수석사범과정 #부산패브릭메이커랩 #한국생활아트디자인협회의 #패브릭아트 #패션소품... ",
+			"bloggername":"한국생활아트디자인협회",
+			"bloggerlink":"https:\/\/blog.naver.com\/canbab0435",
+			"postdate":"20190822"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인, 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221639858588",
+			"description":"ㅠㅠ 그런데도 불구하고 9월 첫째주 수요일, 9월 4일 아침 10시부터 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램 참여를 위해 교육생분들께서 오셔서 열심히 참여해주셨습니다! 소상공인 섬유<b>공예<\/b>작가... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20190905"
+		},
+		{
+			"title":"2010 교원<b>직무<\/b>연수-전통<b>공예<\/b>문화-칠보장신구제작",
+			"link":"https:\/\/blog.naver.com\/jangdojang60?Redirect=Log&logNo=10078885187",
+			"description":"※ 칠보장신구제작(보타이,목걸이,브러치) 명 칭 : 전통<b>공예<\/b>문화 연수기간 : 2010. 1. 4(월)~1. 15(금) (10일간 63시간) 연수장소 : 광양장도박물관 연수대상 및 인원 : 전국 초‧중.고 현직 교원",
+			"bloggername":"광양장도박물관",
+			"bloggerlink":"https:\/\/blog.naver.com\/jangdojang60",
+			"postdate":"20100120"
+		},
+		{
+			"title":"(부산교사 <b>직무<\/b>연수)도자기<b>공예<\/b>-유약이론및 시유",
+			"link":"https:\/\/blog.naver.com\/kpottery?Redirect=Log&logNo=120113351276",
+			"description":"드디어 8월 9일 !! 열심히 작업한 결과물들이 초벌구이가 되어져 나왔습니다. 지금부터는 이 작업에 옷을 입히는 과정이 남아 있는데요 유약에 관한 이론적인 이해를 돕기 위해 부산교대 전광수 교수님께서... ",
+			"bloggername":"강무창 도예공방 -가온",
+			"bloggerlink":"https:\/\/blog.naver.com\/kpottery",
+			"postdate":"20100817"
+		},
+		{
+			"title":"사업)&quot;<b>직무<\/b>역량 강화... &quot;시니어 강사 역량 강화 &amp; 토탈<b>공예<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/ame-silver?Redirect=Log&logNo=221952563014",
+			"description":"만들기 <b>공예<\/b> 수업 2020디딤돌 취업지원 사업, <b>직무<\/b>역량 강화 심화교육, 풍선과 간단한 재료를 이용한 토탈<b>공예<\/b> 시니어 강사 레벨업 시간, 어버이날 맞이 카네이션 만들기 <b>공예<\/b> 수업 노인과 치매 등 시니어 강사... ",
+			"bloggername":"고(GO)! 시니어 라이프매니지먼트",
+			"bloggerlink":"https:\/\/blog.naver.com\/ame-silver",
+			"postdate":"20200508"
+		},
+		{
+			"title":"기록물관리요원, <b>공예<\/b>박물관 디자인요원) <b>직무<\/b>수행계획서 작성... ",
+			"link":"https:\/\/blog.naver.com\/pcg44?Redirect=Log&logNo=221169193146",
+			"description":"서울특별시 시간선택제임기제공무원(<b>공예<\/b>박물관 기록물관리요원, <b>공예<\/b>박물관 디자인요원) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 10만원 : 5매 기준 \/ 3일... ",
+			"bloggername":"사업계획서 & 제안서 & 기획서 & 회사소개서",
+			"bloggerlink":"https:\/\/blog.naver.com\/pcg44",
+			"postdate":"20171222"
+		},
+		{
+			"title":"공연, 제품\/<b>공예<\/b>, 디지털미디어) <b>직무<\/b>수행계획서 작성 대행 안내",
+			"link":"https:\/\/ebizbrain.tistory.com\/8585",
+			"description":"서울디자인재단 비상임이사(패션, 건축인테리어, 법률, IT, 영상\/영화, 공연, 제품\/<b>공예<\/b>, 디지털미디어) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 10만원 : 5매 기준... ",
+			"bloggername":"사업계획서\/제안서\/기획서\/보고서 :: 사업계획서\/제안서\/기획서\/보고서",
+			"bloggerlink":"https:\/\/ebizbrain.tistory.com\/",
+			"postdate":"20170228"
+		},
+		{
+			"title":"[온라인수업]진로와 직업-<b>공예 직무<\/b> 탐색- 보석 십자수 손거울... ",
+			"link":"https:\/\/blog.naver.com\/smartmj38?Redirect=Log&logNo=222350523549",
+			"description":"안녕하세요. 내일이 스승의 날이네요. 스승의 날 학교에 있으면 아이들이 편지 써주고 그랬었는데 육휴중이라 우리 반 아이들이 더욱 보고싶네요. 오늘은 제가 20년 4월 진로와 직업 온라인 수업을 위해 제작했던... ",
+			"bloggername":"스페셜백쌤의 특별한 교육",
+			"bloggerlink":"https:\/\/blog.naver.com\/smartmj38",
+			"postdate":"20210514"
+		},
+		{
+			"title":"도자<b>공예<\/b>기능사 필기와 실기시험 출제기준, 실기시험... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222675825972",
+			"description":"도자공예기능사(Craftsman Ceramics) 자격은 기능·기술 분야, 인쇄·목재·가구·<b>공예 직무<\/b> 분야, 목재·가구·공예 중직무 분야 기능사 등급 국가기술자격으로 2022년 현재 정부 관련 부처는 고용노동부, 자격검정... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220318"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221679306253",
+			"description":"오늘도 어김없이 찾아온 수요일 아침, 매주 수요일 아침 수업은 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램 수업이 진행되는데요, 오늘도 이어 진행했습니다 :) 힘드실 수도 있으실텐데 열심히... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20191016"
+		},
+		{
+			"title":"2010 교원<b>직무<\/b>연수-전통<b>공예<\/b>문화-오리엔테이션 및... ",
+			"link":"https:\/\/blog.naver.com\/jangdojang60?Redirect=Log&logNo=10078697181",
+			"description":"※ 오리엔테이션 및 떡살염색컵받침, 낙죽열쇠고리 제작 명 칭 : 전통<b>공예<\/b>문화 연수기간 : 2010. 1. 4(월)~1. 15(금) (10일간 63시간) 연수장소 : 광양장도박물관 연수대상 및 인원 : 전국 초‧중.고 현직 교원",
+			"bloggername":"광양장도박물관",
+			"bloggerlink":"https:\/\/blog.naver.com\/jangdojang60",
+			"postdate":"20100118"
+		},
+		{
+			"title":"(부산교사<b>직무<\/b>연수)도자기 <b>공예<\/b>-분청사기 제작과정",
+			"link":"https:\/\/blog.naver.com\/kpottery?Redirect=Log&logNo=120113349900",
+			"description":"분청 작업시에 잘 마르지 않아 밖에서 말리는 모습입니다. 흙의 자연스러운 형태와 자유스러운 붓질이 매력적으로 보이네요 제가 선생님들 열심히 작업하시는 동안 한컷트씩 찍었는데 ㅎㅎ 유독 찍히는걸... ",
+			"bloggername":"강무창 도예공방 -가온",
+			"bloggerlink":"https:\/\/blog.naver.com\/kpottery",
+			"postdate":"20100817"
+		},
+		{
+			"title":"[2020.06~]진로와 직업 수업-나전칠기<b>공예<\/b> 체험",
+			"link":"https:\/\/blog.naver.com\/smartmj38?Redirect=Log&logNo=222549963166",
+			"description":"오늘은 제가 2020년에 진로와 직업 <b>공예 직무<\/b> 체험으로 진행했던 수업을 소개할게요. 늘 1년씩 늦게 포스팅하는 저예요.ㅠㅠ 이번에 소개할 수업은 나전칠기공예 예요. 제가 이전 학교에 있을 때는 공방에서 체험... ",
+			"bloggername":"스페셜백쌤의 특별한 교육",
+			"bloggerlink":"https:\/\/blog.naver.com\/smartmj38",
+			"postdate":"20211027"
+		},
+		{
+			"title":"위빙<b>공예<\/b> 타피스트리 티코스터 만들기 f. 그로우",
+			"link":"https:\/\/blog.naver.com\/cyh_0919?Redirect=Log&logNo=222805803632",
+			"description":"위빙<b>공예<\/b>라는 걸 알게 되면서 전용틀과 해당기법을 통해 타피스트리 티코스터 만들기를 해보았다. 먼저... 외국어나 <b>직무<\/b>관련까지 정말 다양한 범위의 주제들이 있어 관심있는 분야를 한 번 찾아봐도... ",
+			"bloggername":"오늘의 탠저린",
+			"bloggerlink":"https:\/\/blog.naver.com\/cyh_0919",
+			"postdate":"20220709"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221722133036",
+			"description":"안녕하세요 부산패브릭메이커랩입니다 :) 날씨가 엄청 쌀쌀해요 다들 감기 조심하세요 ㅠㅇㅠ 이제 곧 12월을 앞두고 있는 지금, 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램 11월 넷째주 소식... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20191129"
+		},
+		{
+			"title":"2010 교원<b>직무<\/b>연수-전통<b>공예<\/b>문화-특강-우리 문화속의 민화 및... ",
+			"link":"https:\/\/blog.naver.com\/jangdojang60?Redirect=Log&logNo=10078698534",
+			"description":"※ 특강-우리 문화속의 민화 및 칠보장신구 제작 명 칭 : 전통<b>공예<\/b>문화 연수기간 : 2010. 1. 4(월)~1. 15(금) (10일간 63시간) 연수장소 : 광양장도박물관 연수대상 및 인원 : 전국 초‧중.고 현직 교원",
+			"bloggername":"광양장도박물관",
+			"bloggerlink":"https:\/\/blog.naver.com\/jangdojang60",
+			"postdate":"20100118"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221761423624",
+			"description":"안녕하세요 부산패브릭메이커랩입니다 :) 벌써 2019년의 마지막 달이네요 ㅠㅠ 12월을 첫소식은 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램 12월 첫째주 소식 입니다~, 너무나 열심히 수업을 듣고 계시네요... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20200106"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221704219790",
+			"description":"안녕하세요 부산패브릭메이커랩입니다 :) (❁´▽`❁) 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램 11월의 첫번째주를 맞이하였습니다 ! 8월부터 시작했으니, 벌써 반이나 지났네요 ㅠㅠ 오늘은... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20191111"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221718867154",
+			"description":"안녕하세요 부산패브릭메이커랩입니다 :) 이번에는 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램 11월 셋째주 소식을 들고 찾아왔습니다 추운 날씨에도 불구하고 많은 교육생분들이 수업을 열심히... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20191126"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221665958087",
+			"description":"(◍•ᴗ•◍) 날마다 수요일은 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램을 진행하는데요, 오늘 태풍영향권에 의하여 비가 많이 오는 짖궂은 날씨에도 어김없이 많은 교육생분들께서 출석하셨네요 ! و... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20191002"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221645493421",
+			"description":"소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램 수강생분들은 오늘도 참석하여 자리를 빛내주셨습니다 :) 오늘은 어떤 수업일까요?? 왠지 레진을 이용한 수업인듯 하네요 ! (*&gt;_&lt;*) 강사님께서 보여주시는... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20190911"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221686518859",
+			"description":"안녕하세요 부산패브릭메이커랩입니다 :) 오늘은 또 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상 프로그램 소식을 들고 찾아왔는데요! 이번주 수요일도 소상공인 프로그램이 진행되었습니다.... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20191023"
+		},
+		{
+			"title":"부산패브릭메이커랩: 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/bfmlab?Redirect=Log&logNo=221706511096",
+			"description":"안녕하세요 부산패브릭메이커랩입니다 :) 오늘은 소상공인 섬유<b>공예<\/b>작가 <b>직무<\/b>능력 향상 프로그램 11월 둘째주차 수업 소식 업데이트를 위해 찾아왔습니다 날씨가 이제는 쌀쌀하다 못해... ",
+			"bloggername":"부산패브릭메이커랩(Busan Fabric Maker Lab)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bfmlab",
+			"postdate":"20191113"
+		},
+		{
+			"title":"취미생활추천 그로우 온라인클래스로 매듭<b>공예<\/b> 실팔찌만들기... ",
+			"link":"https:\/\/blog.naver.com\/lalala0415?Redirect=Log&logNo=222793859190",
+			"description":"재테크, 취업<b>직무<\/b>, 취미교양, 구독 서비스 등 다양한 카테고리의 강의가 준비되어 있답니다. 그중에서 제가 들은 수업은 니드비비드의 매듭<b>공예<\/b> 클래스예요. 손으로 만드는 거라면 종류를 가리지 않고 다... ",
+			"bloggername":"너는나의인생의별",
+			"bloggerlink":"https:\/\/blog.naver.com\/lalala0415",
+			"postdate":"20220629"
+		},
+		{
+			"title":"그로우 매듭<b>공예<\/b> - 집콕취미 온라인클래스로 들어요~",
+			"link":"https:\/\/blog.naver.com\/lantern?Redirect=Log&logNo=222789178411",
+			"description":"무료수업으로 선생님 수업에 대해 알아보고 수업신청하기 좋게끔 무료수업도 제법 있답니다~ 취업<b>직무<\/b>, 구독서비스등 다양한 카테고리가 있어 좋았습니다. 아래는 제가 들은 매듭<b>공예<\/b> 링크입니다~ 반지와... ",
+			"bloggername":"수리수리마수리 여행과 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/lantern",
+			"postdate":"20220626"
+		},
+		{
+			"title":"전국 선생님들 주목! 교원 문화유산 <b>직무<\/b>연수 연수생 모집 공고",
+			"link":"https:\/\/blog.naver.com\/fpcp2010?Redirect=Log&logNo=222812634165",
+			"description":"문화유산 <b>직무<\/b>연수를 실시합니다. 교원 문화유산 <b>직무<\/b>연수 연수생 모집 지금 문화유산교육 역량 및... 문화유산의 이해와 활용을 주제로 다양한 연수를 받으며 전통 <b>공예<\/b>와 전통 음식 조리 등 다양한... ",
+			"bloggername":"전통문화와 아름다운 만남, 한국문화재재단",
+			"bloggerlink":"https:\/\/blog.naver.com\/fpcp2010",
+			"postdate":"20220715"
+		},
+		{
+			"title":"매듭<b>공예<\/b> 실팔찌 만들기 그로우 온라인클래스로 집콕취미",
+			"link":"https:\/\/blog.naver.com\/qhwn0130?Redirect=Log&logNo=222794170774",
+			"description":"그로우 온라인클래스 매듭<b>공예<\/b> 실팔찌 만들기 ✔️point 니드비비드님 강의 기초부터 고급 매듭<b>공예<\/b>까지... 재테크, 취업<b>직무<\/b>, 외국어, 취미교양, 교육, 도서, 굿즈, 챌런지 등 강의도 다양하다. 그로우는 강의... ",
+			"bloggername":"라임보돌 감성 더하기",
+			"bloggerlink":"https:\/\/blog.naver.com\/qhwn0130",
+			"postdate":"20220629"
+		},
+		{
+			"title":"어떤 <b>직무<\/b>가 나한테 맞을지 모르겠어요.. 나한테 맞는 <b>직무<\/b> 찾는... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=222801341137",
+			"description":"모두들 어려워하는것 같아요, 자신에게 맞는 직업과 <b>직무<\/b>를 찾는다는것은.. 어른이 되어서도 끊이질... 그래서 34살에 중소기업 신입면접도 봐보고, 플라워클래스부터 가죽<b>공예<\/b>까지 발 안담근게 없네요... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20220706"
+		},
+		{
+			"title":"그로우 취미생활\/ 마카쥬 가죽<b>공예<\/b> 온라인클래스 후기",
+			"link":"https:\/\/blog.naver.com\/ragi1018?Redirect=Log&logNo=222720102499",
+			"description":"안녕하세요 나의계절이예요 :) 저는 평소 손으로 만드는것들을 좋아하는데 최근 가죽<b>공예<\/b> 및 마카쥬에... 취업<b>직무<\/b>, 취미교양, 구독 서비스등 다양한 카테고리가 있었어요 지금 핫하고 바로 사용할 수 있는... ",
+			"bloggername":"여행과 감성육아를 그리다",
+			"bloggerlink":"https:\/\/blog.naver.com\/ragi1018",
+			"postdate":"20220503"
+		},
+		{
+			"title":"반짝반짝 유리<b>공예<\/b>공작소, 2021 메이커 스페이스 사업에... ",
+			"link":"https:\/\/blog.naver.com\/nsuniversity?Redirect=Log&logNo=222585963153",
+			"description":"유리<b>공예<\/b> 공작소'를 개소해 미취업 청년, 경력 단절 여성들을 대상으로 디지털을 접목한 <b>공예<\/b>교육과 <b>직무<\/b>, 창업교육을 하고있습니다~ 다시한번 축하하며 남서울대 유리세라믹디자인학과 많은 응원 부탁드려요~~",
+			"bloggername":"남서울대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/nsuniversity",
+			"postdate":"20211203"
+		},
+		{
+			"title":"집에서하는 취미생활 가죽<b>공예<\/b> 마카쥬 그로우 온라인클래스!",
+			"link":"https:\/\/blog.naver.com\/mouse80?Redirect=Log&logNo=222717806204",
+			"description":"코로나 이후 더 온라인 강의에 대한 수요가 높아지면서 요즘엔 재테크 수업부터 취업\/<b>직무<\/b>관련 강좌와 취미교양 프로그램, 구독서비스까지 정말 다양한 강좌들을 그로우에서 들으실 수 있어요~^^ 가죽<b>공예<\/b> 재료... ",
+			"bloggername":"일상여행기를 쓰다.",
+			"bloggerlink":"https:\/\/blog.naver.com\/mouse80",
+			"postdate":"20220502"
+		},
+		{
+			"title":"취미생활추천 : 집에서 배우는 그로우 레진<b>공예<\/b> 온라인클래스",
+			"link":"https:\/\/blog.naver.com\/ebbeni1028?Redirect=Log&logNo=222709848445",
+			"description":"레진<b>공예<\/b> 온라인클래스 그로우 사이트를 처음 이용해보았는데, 정말 다양한 클래스들이 있더라고요. 재테크, 취업\/<b>직무<\/b>, 외국어, 취미교양, 중고등교육, 도서, 준비물\/굿즈, 구독\/챌린지 없는 클래스가 없을... ",
+			"bloggername":"매일 운동하고 매일 사랑하기",
+			"bloggerlink":"https:\/\/blog.naver.com\/ebbeni1028",
+			"postdate":"20220424"
+		},
+		{
+			"title":"온라인클래스 그로우 레진<b>공예<\/b> 듣고 있는데 역시",
+			"link":"https:\/\/blog.naver.com\/yuri831211?Redirect=Log&logNo=222707048915",
+			"description":"혹시 레진<b>공예<\/b> 들어보셨나요? 요즘 제가 직접 아이들 열쇠고리, 반지, 마스크 스트랩 등을 만들어주고... 재테크, 취업\/<b>직무<\/b>, 취미교양, 구독 서비스 등 카테고리를 살펴보았는데요. 제가 관심 있는 분야도... ",
+			"bloggername":"까치맘&apos;s 디자인세상♥",
+			"bloggerlink":"https:\/\/blog.naver.com\/yuri831211",
+			"postdate":"20220424"
+		},
+		{
+			"title":"취미생활 그로우 레진<b>공예<\/b> 온라인클래스",
+			"link":"https:\/\/blog.naver.com\/sailorsaturn?Redirect=Log&logNo=222709427580",
+			"description":"집에서 사부작사부작 취미생활을 즐길 수 있는 온라인클래스 그로우 grow 평소에 레진<b>공예<\/b>에 관심이... 재테크, 취업<b>직무<\/b>, 취미교양, 구독 서비스 등등 다양한 카테고리가 있어 취미생활 추천하고 싶어요.... ",
+			"bloggername":"카카오썬 살롱",
+			"bloggerlink":"https:\/\/blog.naver.com\/sailorsaturn",
+			"postdate":"20220423"
+		},
+		{
+			"title":"그로우 가죽<b>공예<\/b>와 마카쥬로 취미생활 추천~",
+			"link":"https:\/\/blog.naver.com\/attine?Redirect=Log&logNo=222717910785",
+			"description":"가죽<b>공예<\/b> 예전부터 배워보고 싶었는데 그로우에서 온라인 수업이 있어서 배워보기로 했다. 그로우는 웹사이트도 있고 앱도 있다. 그래서 어디서든 편리하게 배울 수 있다. 그로우 살펴보니 재테크, 취업\/<b>직무<\/b>... ",
+			"bloggername":"여행은 나에게 숨쉬는 것~♬",
+			"bloggerlink":"https:\/\/blog.naver.com\/attine",
+			"postdate":"20220502"
+		},
+		{
+			"title":"섬유<b>공예<\/b> 교육가가 되기 위한 밑거름 &apos;<b>공예<\/b>교육프로그램개... ",
+			"link":"https:\/\/blog.naver.com\/bobodoli?Redirect=Log&logNo=222752284396",
+			"description":"목적은 <b>공예<\/b>분야문화예술교육사 2급 교육과정의 <b>직무<\/b>역량 과목이기 때문에 배워야 하는 것이고, 이 과목은 문화예술교육의 <b>공예<\/b>교육을 실행하는데 있어서 우리가 기본이 되는 프로그램 개발 원리를... ",
+			"bloggername":"특성화교육의 힘!!! 명문사이버대학 원광디지털대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/bobodoli",
+			"postdate":"20220530"
+		},
+		{
+			"title":"다운복지관\/다운증후군 직업적응훈련반 생활<b>공예<\/b>활동 진행",
+			"link":"https:\/\/blog.naver.com\/downwelfare?Redirect=Log&logNo=222548912938",
+			"description":"소근육 활성화 및 손과 눈의 협응성 향상을 지원할 수 있었습니다 #다운복지관 #다운증후군 #발달장애인 #직업지원 #직업적응훈련 #생활<b>공예<\/b>활동 #<b>직무<\/b>체험 #소근육발달 글쓴이 : 직업지원팀 양동명(070-8255-1013)",
+			"bloggername":"다운과 함께 누리는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/downwelfare",
+			"postdate":"20211026"
+		},
+		{
+			"title":"즐거운 취미생활 : 그로우 온라인클래스로 가죽<b>공예<\/b>와 마카쥬까지",
+			"link":"https:\/\/blog.naver.com\/namheezi?Redirect=Log&logNo=222717692893",
+			"description":"가죽<b>공예<\/b>도 온라인으로 배울 수 있더라고요. 시간 제약이 많은 분들은 앱으로 언제 어디서나 강의 들을 수 있는 온라인 클래스가 유용하잖아요. 재테크, 취업<b>직무<\/b>, 외국어, 취미교양 등 다양한 장르의 온라인... ",
+			"bloggername":"나, Me :)",
+			"bloggerlink":"https:\/\/blog.naver.com\/namheezi",
+			"postdate":"20220501"
+		},
+		{
+			"title":"패션디자인과정에서 금속<b>공예<\/b>과정으로 전과! 졸업생 인터뷰",
+			"link":"https:\/\/sart.tistory.com\/5725",
+			"description":"서울예술실용전문학교 금속<b>공예<\/b>과정 20학번 홍보팀 팀장 박소연입니다. 2. 졸업 전시 준비 위원장 홍보... 저는 제가 원하는 <b>직무<\/b> 쪽의 일을 할 수 있는 좋은 기회라고 생각해 홍보팀 팀장에 지원하게... ",
+			"bloggername":"서울예술실용전문학교",
+			"bloggerlink":"https:\/\/sart.tistory.com\/",
+			"postdate":"20211124"
+		},
+		{
+			"title":"가죽<b>공예<\/b> + 마카쥬 온라인클래스! 나만의 특별한... ",
+			"link":"https:\/\/blog.naver.com\/hellomini486?Redirect=Log&logNo=222718926349",
+			"description":"취업<b>직무<\/b>, 취미교양, 구독 서비스 등 정말 다양한 카테고리의 강의들을 만나실 수 있는데요 그중 저는 취미 온라인 클래스인 몽몽이야옹해 가죽<b>공예<\/b>+마카쥬 올인원 클래스 강의로 초이스 했어요! 그로우... ",
+			"bloggername":"헬로우미니 ᴴᴱᴸᴸᴼ ᴹᴵᴺᴵ",
+			"bloggerlink":"https:\/\/blog.naver.com\/hellomini486",
+			"postdate":"20220502"
+		},
+		{
+			"title":"[서초구청소년상담복지센터] 소진방지를 위한 네온사인 <b>공예<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/bakbht?Redirect=Log&logNo=222596791722",
+			"description":"1부에서는 월례 회의로 10월 우수 사업내용과 11월 사업 추진 계획과 관련하여 진행하였으며, 이어서 센터 강당에서 네온사인 <b>공예<\/b> 프로그램으로 함께하는 <b>공예<\/b>작업! 상담과 사업이 아닌 타 <b>직무<\/b> 체험을 하면서... ",
+			"bloggername":"푸른나무재단 (청소년폭력예방재단)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bakbht",
+			"postdate":"20211216"
+		},
+		{
+			"title":"부산 등<b>공예<\/b> 라탄 연필꽂이 만들기 <b>직무<\/b>연수 진로체험",
+			"link":"https:\/\/blog.naver.com\/smcwmj2010?Redirect=Log&logNo=222778041313",
+			"description":"#부산라탄 #부산등<b>공예<\/b> #진로체험 6월 남구지역자활센터 연수주제는 라탄<b>공예<\/b> 라탄연필꽂이 다용도함만들기를 하였습니다 먼저 라탄(등나무) 에 대하여 알아보았지요~ 등나무는 열대지방에서 자라는 야자과... ",
+			"bloggername":"친환경&아트&3D메이커",
+			"bloggerlink":"https:\/\/blog.naver.com\/smcwmj2010",
+			"postdate":"20220618"
+		},
+		{
+			"title":"도자<b>공예<\/b>기능사 2022년 시험일정과 합격률",
+			"link":"https:\/\/blog.naver.com\/bion28?Redirect=Log&logNo=222772900747",
+			"description":"도자<b>공예<\/b> 실무 시험을 치루는데, NCS 국가<b>직무<\/b>능력표준이 도입되 <b>직무<\/b>중심으로 22년1월부터 시험 출제 범위가 개편되었습니다. 실기는 작업형으로 6시간이 주어지고, 위의 출제범위에서 랜덤으로... ",
+			"bloggername":"디엘에듀 원격평생교육원",
+			"bloggerlink":"https:\/\/blog.naver.com\/bion28",
+			"postdate":"20220614"
+		},
+		{
+			"title":"[한국복식과학학과] 사이버대학 최초 <b>공예<\/b>분야... ",
+			"link":"https:\/\/blog.naver.com\/bobodoli?Redirect=Log&logNo=222577616771",
+			"description":"교수학습방법, △<b>공예<\/b> 교육프로그램 개발, △문화예술교육개론 과목을 개설하여 교육과정 적합여부 및 전공인정 심의를 거쳐 <b>직무<\/b>역량 교육과정으로 인정받았습니다. 따라서 학생들은 지정교육기관에서... ",
+			"bloggername":"특성화교육의 힘!!! 명문사이버대학 원광디지털대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/bobodoli",
+			"postdate":"20211124"
+		},
+		{
+			"title":"[대전가죽공방\/미스터제이\/외부출강] 대전 충남대학교병원 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/gongbang_mrj?Redirect=Log&logNo=222789549681",
+			"description":"대전 둔산동 가죽공방 작은 공간에서 만드는 가방 충남대병원 힐링 프로그램 가죽<b>공예<\/b> 체험 외부출강 오늘 소개해드릴 외부출강 수업은대전 유일의 상급종합병원인 충남대학교 병원의 임직원분들 <b>직무<\/b>교육... ",
+			"bloggername":"작은 공간에서 만드는 가방",
+			"bloggerlink":"https:\/\/blog.naver.com\/gongbang_mrj",
+			"postdate":"20220711"
+		},
+		{
+			"title":"만남임가공사업단, 가죽<b>공예<\/b> 자활생산품 판매",
+			"link":"https:\/\/blog.naver.com\/snmnk3500?Redirect=Log&logNo=221024258067",
+			"description":"성남만남지역자활센터의 임가공사업단에서는 직무능력 향상과 아이템 개발을 위한 생활용품 가죽전화<b>공예 직무<\/b>교육을 통하여 “파우치형 핸드폰 장지갑“을 제작 생산하였습니다. 느리기에 한 작품을... ",
+			"bloggername":"성남만남지역자활센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/snmnk3500",
+			"postdate":"20170608"
+		},
+		{
+			"title":"가죽<b>공예<\/b> 집에서도 쉽게 따라해 보아요",
+			"link":"https:\/\/blog.naver.com\/skdud6232?Redirect=Log&logNo=222716673938",
+			"description":"여러분들도 저처럼 그로우와 함께 집에서 간편하게 취미생활을 즐겨보세요!! 그로우에 접속하시면 가죽<b>공예<\/b> 외에도 재테크, 취업<b>직무<\/b>, 취미교양 등등 다양한 분야의 강의들이 준비되어 있으니 한 번 방문해보세요",
+			"bloggername":"Midnight In Sunday",
+			"bloggerlink":"https:\/\/blog.naver.com\/skdud6232",
+			"postdate":"20220430"
+		},
+		{
+			"title":"매듭<b>공예<\/b>로 나만의 액세서리만들기 그로우(grow)온라인... ",
+			"link":"https:\/\/blog.naver.com\/writerjs?Redirect=Log&logNo=222798904648",
+			"description":"온라인클래스 플랫폼 그로우(grow)에는 매듭<b>공예<\/b> 같은 취미고양 카테고리 외에도 재테크, 취업<b>직무<\/b>, 구독서비스 등 다양한 카테고리의 강의를 편리하게 이용할 수 있는데요. 다른 유익한 클래스는 없을까 찾던... ",
+			"bloggername":"Hi 봄봄 <이작가의 뻔뻔(funfun)한 이야기>",
+			"bloggerlink":"https:\/\/blog.naver.com\/writerjs",
+			"postdate":"20220703"
+		},
+		{
+			"title":"네일국비무료훈련생 모집 및 가죽<b>공예<\/b> 훈련생 모집중",
+			"link":"https:\/\/blog.naver.com\/hj7826?Redirect=Log&logNo=222089392229",
+			"description":"com 훈련과정 정보에 주관부처, 훈련유형 정보 제공 주관부처 고용노동부 훈련유형 근로자직업능력개발훈련 NCS <b>직무<\/b>분류 : 섬유<b>공예<\/b>(22020107) 수강생 평균만족도 : 만족도 100점 기준 0점... ",
+			"bloggername":"거제국비 티나아트가죽학원",
+			"bloggerlink":"https:\/\/blog.naver.com\/hj7826",
+			"postdate":"20200914"
+		},
+		{
+			"title":"대구 <b>공예<\/b> 전문 사회적기업 아이나리 강사 양성과 업사이클... ",
+			"link":"https:\/\/blog.naver.com\/meteorslove?Redirect=Log&logNo=222572532157",
+			"description":"다섯번째 수<b>공예<\/b>전문기업으로써 2018년부터 전문강사를 양성하고 자격증을 발급하는 사업을 하고 있는 전문 기관으로 전문강사들은 유아교육기관 및 초, 중, 고등학교와 경로당 <b>직무<\/b>교육 등 다양한 교육기관과... ",
+			"bloggername":"깜찍이브의 하루하루 신나는 스토리",
+			"bloggerlink":"https:\/\/blog.naver.com\/meteorslove",
+			"postdate":"20211119"
+		},
+		{
+			"title":"대청초등학교 공모형 교사 <b>직무<\/b> 연수 토트백 만들기",
+			"link":"https:\/\/blog.naver.com\/redjudy?Redirect=Log&logNo=222750179366",
+			"description":"가죽<b>공예<\/b> 인데 처음부터 난이도 상 에구~ㅎㅎ 그래도 하실수 있습니다!!!! 다른 학교도 했으니까요 수업 끝나고 좀 쉬셔야 하는데 연수도 해야 하시고 선생님 들도 참~고생이 많으십니다!! 아웃스티치 가방 이라... ",
+			"bloggername":"제이아이앤 디자인 스튜디오 since 2013",
+			"bloggerlink":"https:\/\/blog.naver.com\/redjudy",
+			"postdate":"20220528"
+		},
+		{
+			"title":"국민건강보험 #정신건강특화사업 #<b>공예<\/b>활동 #실버인지놀이",
+			"link":"https:\/\/blog.naver.com\/rlarudwl0415?Redirect=Log&logNo=222824903328",
+			"description":"졌답니다 #<b>공예<\/b>활동 #실버인지놀이 민속제기는 어르신들의 어린시절 놀이를 추억하는 시간이 되구요... 시니어감정코칭강사 #시니어인문학강사 #실버인지놀이강사 #<b>직무<\/b>교육강사 #생애설계노후준비강사 김경지",
+			"bloggername":"노후준비와치매예방",
+			"bloggerlink":"https:\/\/blog.naver.com\/rlarudwl0415",
+			"postdate":"20220722"
+		},
+		{
+			"title":"&apos;제1회 고양시 <b>공예<\/b>명장&apos;을 선발합니다!(8\/9~8\/20, 1인당... ",
+			"link":"https:\/\/blog.naver.com\/letsgoyang?Redirect=Log&logNo=222447081647",
+			"description":"심사기준 *신청제외자 - <b>공예<\/b>분야의 교육·훈련이 주된 <b>직무<\/b>인 자 - 정부포상지침에 합당하지 않다고 판단되는 자 <b>공예<\/b>명장 선정자 발표 및 예우 □ 발표 2021. 10.(예정) ※ 발표일은 심사일정 등 사정에 따라... ",
+			"bloggername":"고양시청 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/letsgoyang",
+			"postdate":"20210727"
+		},
+		{
+			"title":"디딤돌 취.창업지원사업 <b>직무<\/b>역량강화교육강의by포천여성새일... ",
+			"link":"https:\/\/blog.naver.com\/slsdudehdud?Redirect=Log&logNo=222416050006",
+			"description":"중.고 의 건강.웃음.<b>공예<\/b>.놀이.운동 프로그램을 강의합니다 특히 장기요양기관 사회복지기관 어르신들에게 딱 맞춤인 맞춤형프로그램에 자신있습니다 저와 함께한 <b>직무<\/b>역량강화 교육모습 그림으로 보셔요",
+			"bloggername":"#치매예방#직업훈련#실버강사교육.파견.컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/slsdudehdud",
+			"postdate":"20210701"
+		},
+		{
+			"title":"[블챌-4주차] <b>직무<\/b>변경에 대한 고민 ..",
+			"link":"https:\/\/blog.naver.com\/bans0903?Redirect=Log&logNo=222798574682",
+			"description":"비슷하겠지만 <b>직무<\/b>에 대한 고민이라.. 앞으로 이 일을 계속 하는게 맞을까 하는 생각이 계속드네요 어떤... 대신에 저는 요리 제빵 <b>공예<\/b> 글쓰기 등 다른 취미생활에서 제가 추구하는 것들 채우고 있었더라구요... ",
+			"bloggername":"GO FOR IT :D",
+			"bloggerlink":"https:\/\/blog.naver.com\/bans0903",
+			"postdate":"20220703"
+		},
+		{
+			"title":"#충남<b>공예<\/b>협동조합  이사회 다녀왔습니다",
+			"link":"https:\/\/blog.naver.com\/ami5729?Redirect=Log&logNo=222327520407",
+			"description":"#중국심천 국제문화산업박람회 공식 에이전시 #중국 하얼빈 동북아문화예술박람회 공식 에이전시 #중국 경덕진 도자문화사업 진행 #일본 구마모토 전통<b>공예<\/b>관 전시 파트너 #NCS 국가<b>직무<\/b>능력표준 개발 및 개선... ",
+			"bloggername":"주) 혜강공예*** 한지공예.칠보공예",
+			"bloggerlink":"https:\/\/blog.naver.com\/ami5729",
+			"postdate":"20210429"
+		},
+		{
+			"title":"부산초등학교 교장교감 <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/tekim20?Redirect=Log&logNo=221720011128",
+			"description":"부산초등학교 교장교감 <b>직무<\/b>연수 부산<b>공예<\/b>명장 박영혜 섬유예술연구소 색깔사랑 2019.11.26. 아침 9시, 이른시간에 <b>직무<\/b>연수가 있었습니다. 교장교감선생님들을 위한 연수였어요. 18분께서 방문해주셨습니다.... ",
+			"bloggername":"맘핸즈 작업실",
+			"bloggerlink":"https:\/\/blog.naver.com\/tekim20",
+			"postdate":"20191127"
+		},
+		{
+			"title":"[한국<b>공예<\/b>.디자인문화진흥원] 2022년 제6차 계약직(일반... ",
+			"link":"https:\/\/blog.naver.com\/aci2013?Redirect=Log&logNo=222776692414",
+			"description":"(안국동) <b>직무<\/b>내용 [일반] ㅇ 문화예술행정지원(전통생활문화) : 1명 - 한식문화 홍보 - 근무기간... 갤러리숍 ‘<b>공예<\/b>정원’ 매장 운영 및 관리 - 근무기간 : 채용일(7월말 또는 8월초)로 부터... ",
+			"bloggername":"문화예술교육사",
+			"bloggerlink":"https:\/\/blog.naver.com\/aci2013",
+			"postdate":"20220617"
+		},
+		{
+			"title":"조립포장\/<b>직무<\/b>교육\/특수학급진로체험",
+			"link":"https:\/\/blog.naver.com\/hyangdabang?Redirect=Log&logNo=222798749092",
+			"description":"●<b>공예<\/b>체험 및 <b>공예<\/b>품판매 ●전주<b>공예<\/b>체험 ●진로직업체험 카카오톡 : hyangdabang 전화번호 : ***.****.**** 조립포장\/ 조립포장<b>직무<\/b>교육 \/ 전주특수교육 드디어 우리집도 에어컨이 가동되었습니다+_+ 오늘은... ",
+			"bloggername":"향다방 (향기담은다육공예방)",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyangdabang",
+			"postdate":"20220703"
+		},
+		{
+			"title":"<b>공예<\/b> 매개인력 양성사업 참여자 모집(~3\/25)",
+			"link":"https:\/\/blog.naver.com\/dongduk_w_univ?Redirect=Log&logNo=222678807274",
+			"description":"이 <b>공예<\/b> 매개인력 양성사업은 <b>공예<\/b> 분야로 진출을 희망하는 청년들이 관련 분야의 <b>직무<\/b> 경험을 할 수 있도록 일자리 경험 기회를 제공하기 위한 사업이라고 하네요! 접수기간, 모집인원 등을 잘 확인하시고... ",
+			"bloggername":"동덕여대 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dongduk_w_univ",
+			"postdate":"20220321"
+		},
+		{
+			"title":"토탈<b>공예<\/b> 어렵지 않게 배울 수 있어요",
+			"link":"https:\/\/blog.naver.com\/eddoosisi?Redirect=Log&logNo=221615180908",
+			"description":"토탈 <b>공예<\/b>지도사<b>직무<\/b>스트레스관리사방과후생태탐구지도사스마트교육지도사미술심리상담지도사창의사고력지도사간병사자격증PIA사설정보관리사 토탈 <b>공예<\/b> [wis]전문가과정가정관리사 많습니다 종류를 손에... ",
+			"bloggername":"사랑이란 말이 어울리는 사람",
+			"bloggerlink":"https:\/\/blog.naver.com\/eddoosisi",
+			"postdate":"20190813"
+		},
+		{
+			"title":"부산교육대학교 교사<b>직무<\/b>연수 다녀왔습니다.",
+			"link":"https:\/\/blog.naver.com\/somadleather?Redirect=Log&logNo=222456932875",
+			"description":"가죽가방 #장지갑 #다이러리커버 #다이어리케이스 #여권케이스 #수첩커버 #클러치백 #쇼퍼백 #크로스백 #프레임백 #주문제작 #가죽<b>공예<\/b>정규수강 #핸드메이드 #가죽<b>공예<\/b>배우기#교육연수원 #교사<b>직무<\/b>연수",
+			"bloggername":"SOMAD LEATHER WORK",
+			"bloggerlink":"https:\/\/blog.naver.com\/somadleather",
+			"postdate":"20210804"
+		},
+		{
+			"title":"토탈<b>공예<\/b> 토탈<b>공예<\/b>지도사 국비 경력단절여성 거제시",
+			"link":"https:\/\/blog.naver.com\/hj7826?Redirect=Log&logNo=221459146563",
+			"description":"토탈<b>공예<\/b>지도사의 <b>직무<\/b>를 소화할수있는 능력과 교육분야 자격증 소지자 (정교사) 방과후교사 경험있으신분 교육일시 : 2019. 03.05~ 2019.07.02 월.수.금 오후 :13:00~16:00 보충훈련 : 2019.07.03~ 2019.07.20 월.수.... ",
+			"bloggername":"거제국비 티나아트가죽학원",
+			"bloggerlink":"https:\/\/blog.naver.com\/hj7826",
+			"postdate":"20190206"
+		},
+		{
+			"title":"정기간행물 「<b>공예<\/b>+디자인」 객원편집장 공모 (11\/20~12\/12)",
+			"link":"https:\/\/blog.naver.com\/kcdf2010?Redirect=Log&logNo=221712282581",
+			"description":"<b>직무<\/b> 내용 ○ 주요 <b>직무<\/b> - 정기간행물「<b>공예<\/b>+디자인」발행 업무 총괄 ․연간 발행계획 및 각호 편집기획안 구성 ․편집위원회 운영 ․에디터, 포토그래퍼 등 인력구성 및 운영 ․취재, 기사 작성... ",
+			"bloggername":"한국공예·디자인문화진흥원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kcdf2010",
+			"postdate":"20191119"
+		},
+		{
+			"title":"2017년 서울시 청년일자리&apos;소잉<b>공예<\/b> 전문디자이너 양성사업... ",
+			"link":"https:\/\/blog.naver.com\/singerkorea?Redirect=Log&logNo=221178468914",
+			"description":"2017년 마무리를 예비 소잉디자이너분들과 함께했어요~ 2017년 서울시 청년일자리 민관협력사업 '소잉<b>공예<\/b> 전문디자이너 양성사업' <b>직무<\/b>역량향상 워크샵이 2107년 12월 29일 (사)한국재봉기술개발원... ",
+			"bloggername":"싱거미싱 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/singerkorea",
+			"postdate":"20180105"
+		},
+		{
+			"title":"특수분야 <b>직무<\/b>연수과정[한국수<b>공예<\/b>발전협회... ",
+			"link":"https:\/\/blog.naver.com\/lhj2360?Redirect=Log&logNo=220260096225",
+			"description":"<b>직무<\/b>연수과정이 드뎌 다 끝났네요... 오신 샘들이 너므 좋으셔서... 수업하는 내내 즐거운 시간이었어요.. 올 여름에 입으신다고 ....열시미 신을려고 얼마전에 사셨다는 모카신을 가지고 오셔서.. 간단하게... ",
+			"bloggername":"handmade\"퐁당\"\/한국문화센터공예학원",
+			"bloggerlink":"https:\/\/blog.naver.com\/lhj2360",
+			"postdate":"20150202"
+		},
+		{
+			"title":"31일차, <b>직무<\/b>교육 4일차\/종이<b>공예<\/b>\/현지경험교사 초대 및... ",
+			"link":"https:\/\/blog.naver.com\/suryon89?Redirect=Log&logNo=220536379514",
+			"description":"11월 11일 수요일, 국내교육 31일차 그리고 <b>직무<\/b>교육 4일차, 오늘도 좋은아침!! 일찍 일어나서 운동장 돌고... 인줄알았는데 종이<b>공예<\/b>가 먼저였다.ㅋㅋㅋ그것도 강의가 평소보다 30분 당겨져서 서둘러 준비하고... ",
+			"bloggername":"수부리의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/suryon89",
+			"postdate":"20151111"
+		},
+		{
+			"title":"섬유<b>공예<\/b>를 전공하고 있는 4학년 여학생의 패션분야 <b>직무<\/b> 정하기",
+			"link":"https:\/\/blog.naver.com\/voicec?Redirect=Log&logNo=100176378164",
+			"description":"전공은 섬유<b>공예<\/b>이고 복수전공이 패션디자인과 비지니스 입니다. 학점은 3.83 이고 영어 점수는 아직... 그걸 아는 것이 <b>직무<\/b>를 정하는데 도움이 될 겁니다. 2.저도 정말 이렇게 결정 못하는 제가 한심합니다. 제가... ",
+			"bloggername":"상품기획전문가 최낙삼의 &apos;HIDDEN CARD&apos;",
+			"bloggerlink":"https:\/\/blog.naver.com\/voicec",
+			"postdate":"20130116"
+		},
+		{
+			"title":"2010 교원<b>직무<\/b>연수-현대사회와 전통<b>공예<\/b>문화-전통수<b>공예<\/b>비누",
+			"link":"https:\/\/blog.naver.com\/jangdojang60?Redirect=Log&logNo=10092884765",
+			"description":"※ 전통수<b>공예<\/b>비누 제작 및 트럼펫 감상 시간 명 칭 : 현대사회와 전통<b>공예<\/b>문화 연수기간 : 2010. 8. 2(월)~8.13(금) (10일간 63시간) 연수장소 : 광양장도박물관 연수대상 및 인원 : 전국 초‧중.고 현직 교원",
+			"bloggername":"광양장도박물관",
+			"bloggerlink":"https:\/\/blog.naver.com\/jangdojang60",
+			"postdate":"20100825"
+		},
+		{
+			"title":"&lt;하늘닮은도자기&gt;국가 자격증*도자기 <b>공예<\/b> 기능사*",
+			"link":"https:\/\/blog.naver.com\/dmswn0220?Redirect=Log&logNo=80197816458",
+			"description":"도자기 <b>공예<\/b> 기능사 출제기준&lt;필기와 실기&gt; (도예기능사)도자기<b>공예<\/b>기능사 출제기준-2013년1월1일~2017년 12월 31일까지 출제기준(필기) <b>직무<\/b> 분야 인쇄․목재․가구․<b>공예<\/b> 중<b>직무<\/b>분야 목재․가구․<b>공예<\/b> 자격... ",
+			"bloggername":"하늘 닮은 도자기",
+			"bloggerlink":"https:\/\/blog.naver.com\/dmswn0220",
+			"postdate":"20130910"
+		},
+		{
+			"title":"(광주체험학습) 광주 <b>직무<\/b>연수\/초등학교체험\/바람떡<b>공예<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/tesis89?Redirect=Log&logNo=221652187422",
+			"description":"견학 #이벤트 #바람떡만들기 #환갑 #부모님선물 #돌잔치 #백일 #아이간식 #어린이 #바람떡 #떡체험 #<b>공예<\/b> #웨딩케이크 #수제케이크 #광주떡 #키즈쿠킹클래스 #광주베이킹클래스 #희망교실 #전남체험학습 #떡만들기",
+			"bloggername":"광주 디저트공방 달나들이",
+			"bloggerlink":"https:\/\/blog.naver.com\/tesis89",
+			"postdate":"20190918"
+		},
+		{
+			"title":"2010 교원<b>직무<\/b>연수-현대사회와 전통<b>공예<\/b>문화-낙죽 열쇠고리",
+			"link":"https:\/\/blog.naver.com\/jangdojang60?Redirect=Log&logNo=10092830233",
+			"description":"※ 낙죽 열쇠고리 명 칭 : 현대사회와 전통<b>공예<\/b>문화 연수기간 : 2010. 8. 2(월)~8.13(금) (10일간 63시간) 연수장소 : 광양장도박물관 연수대상 및 인원 : 전국 초‧중.고 현직 교원",
+			"bloggername":"광양장도박물관",
+			"bloggerlink":"https:\/\/blog.naver.com\/jangdojang60",
+			"postdate":"20100824"
+		},
+		{
+			"title":"2014 전통<b>공예<\/b> 문화체험 <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/jangdojang60?Redirect=Log&logNo=220082428742",
+			"description":"",
+			"bloggername":"광양장도박물관",
+			"bloggerlink":"https:\/\/blog.naver.com\/jangdojang60",
+			"postdate":"20140805"
+		},
+		{
+			"title":"온라인 홍보 마케팅 지원단 <b>직무<\/b>교육 (2022-06-07)",
+			"link":"https:\/\/blog.naver.com\/dosim_senior?Redirect=Log&logNo=222780783696",
+			"description":"● 온라인 홍보마케팅 지원 <b>직무<\/b>교육 ● 일시 : 2022.6. 7(화) 13:00 ~ 18:30 ● 장소 : 도심권센터 1층 배움터... 제이<b>공예<\/b>협동조합\/수<b>공예<\/b>품 판매, <b>공예<\/b>체험&amp;원 데이 클레스가 소재하고 있다. 사회적 기업 온라인... ",
+			"bloggername":"서울시도심권50플러스센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/dosim_senior",
+			"postdate":"20220627"
+		}
+	]
+}

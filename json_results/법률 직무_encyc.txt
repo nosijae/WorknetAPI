@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:15 +0900",
+	"total":2277,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>직무<\/b>유기죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1233666&cid=40942&categoryId=31721",
+			"description":" 공무원이 정당한 이유없이 <b>직무<\/b>수행을 거부하거나 그 <b>직무<\/b>를 유기함으로써 성립하는 범죄(형법 122조).  공무원의 범위는 널리 법령에 따라 공무에 종사하는 사람을 포함하며, 여기에는 공무집행을 위탁받은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3655216&cid=42131&categoryId=42131",
+			"description":"국민의 자유와 권리의 보호 및 사회공공의 질서유지를 위한 경찰관의 <b>직무<\/b>수행에 필요한 사항(주로 행정경찰의)을 규정함을 목적으로 하여 제정된 <b>법률<\/b>이다(경찰관<b>직무<\/b>집행법 제1조 1항).경찰관은 이 법에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>발명",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4%EB%B0%9C%EB%AA%85",
+			"description":"<b>직무<\/b>발명에 대한 보상 기업들은 일반적으로 직원의 발명품을 장려하기 위하여 발명 보상 시스템을 제공하고, 많은 국가에서 <b>직무<\/b>발명 제도가 <b>법률<\/b>에 의하여 정하여 있다. <b>직무<\/b>발명에 따른 보상은 시기적으로는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>법률<\/b>자문",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B2%95%EB%A5%A0%EC%9E%90%EB%AC%B8",
+			"description":"시장개방 변호사의 2대 <b>직무<\/b>는 소송대리와 <b>법률<\/b>자문이다. 그러나 소송대리는 국내법원이 변호사 자격증을 요구하기 때문에, 시장봉쇄가 완벽하게 가능하지만, <b>법률<\/b>자문은 시장봉쇄가 근본적으로 불가능한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관 <b>직무<\/b>집행법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%B0%B0%EA%B4%80_%EC%A7%81%EB%AC%B4%EC%A7%91%ED%96%89%EB%B2%95",
+			"description":"13.에 전문개정되었고 <b>법률<\/b> 제3427호이다. <b>직무<\/b>의 범위(경찰관<b>직무<\/b>집행법 제2조) 국민의 생명·신체 및 재산의 보호 범죄의 예방·진압 및 수사 경비·주요인사 경호 및 대간첩 대테러 작전수행 치안정보의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사법경찰관 <b>직무<\/b>수행",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209750&cid=51088&categoryId=51088",
+			"description":"근로감독관은 ｢근로기준법｣이나 그 밖의 노동관계 법령 위반의 죄에 관하여 ｢사법경찰관리의 <b>직무<\/b>를 행할 자와 그 <b>직무<\/b>범위에 관한 <b>법률<\/b>｣에서 정하는 바에 따라 사법경찰관의 <b>직무<\/b>를 수행한다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제주자치경찰단의 담당<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962512&cid=42149&categoryId=42149",
+			"description":"지역 경비에 관한 사무를, '사법경찰관리의<b>직무<\/b>를행할자와그<b>직무<\/b>범위에관한<b>법률<\/b>'에서 자치경찰공무원의 <b>직무<\/b>로 규정하고 있는 사법 경찰 관리의 <b>직무<\/b> 등을 내용으로 하고 있다. 이 법에 따르면 자치경찰은",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>감찰",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=72442&cid=43667&categoryId=43667",
+			"description":"<b>직무<\/b>감찰은 국가의 세입 세출의 결산 검사, 회계검사와 함께 감사원의 대표적인 권한이다. 감사원법에... 정부조직법 및 기타 <b>법률<\/b>에 의하여 설치된 행정기관(군기관과 교육기관 포함. 다만 군기관에는 소장급... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰<b>직무<\/b>응원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1203513&cid=40942&categoryId=31713",
+			"description":" 경찰의 <b>직무<\/b> 응원에 관한 사항을 정한 <b>법률<\/b>.  경찰의 <b>직무<\/b> 응원에 관한 사항을 정함을 목적으로 하는 <b>법률<\/b>이다(1955. 6. 30, <b>법률<\/b> 제358호). 지방경찰청장 또는 지방해양경찰관서의 장은 돌발 사태의 진압 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>관련성",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4%EA%B4%80%EB%A0%A8%EC%84%B1",
+			"description":"<b>직무<\/b>관련성 은 법인과 대표기관 사이의 내부적인 <b>직무<\/b>수행관계와는 별도로 외부에서 객관적으로 볼... 것으로 <b>법률<\/b>상 명백히 규정하고 있으니 자금차입에 관한 군농업협동조합 자체의 불법행위 책임은 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관 <b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6515108&cid=43667&categoryId=43667",
+			"description":" 국민의 자유와 권리 및 모든 개인이 가지는 불가침의 기본적 인권을 보호하고 사회공공의 질서를 유지하기 위한 경찰관의 <b>직무<\/b> 수행에 필요한 사항을 규정한 <b>법률<\/b>이다. 이 법에 규정된 경찰관의 직권은 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"경찰관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2065213&cid=42107&categoryId=42107",
+			"description":"경찰관이 법령 집행의 <b>직무<\/b>를 수행하는 데 필요한 사항을 규정한 <b>법률<\/b>로, 1981년 4월에 공포되었다. 국민의 자유와 권리의 보호, 사회 공공질서 유지를 위해 제정됐으며 대인적 즉시 강제, 대가택 즉시 강제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060564&cid=40942&categoryId=31713",
+			"description":" 경찰관의 <b>직무<\/b>수행에 필요한 사항을 규정한 <b>법률<\/b>(전문개정 1981. 4. 13, <b>법률<\/b> 제3427호).  국민의 자유와 권리의 보호 및 사회공공의 질서유지를 위한 경찰관의 <b>직무<\/b>수행에 필요한 사항을 규정함을 목적으로 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰<b>직무<\/b>응원법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%B0%B0%EC%A7%81%EB%AC%B4%EC%9D%91%EC%9B%90%EB%B2%95",
+			"description":"제2조 및 제3조 생략 제4조 (다른 <b>법률<\/b>의 개정) ① 내지 ⑧생략 ⑨경찰<b>직무<\/b>응원법중 다음과 같이 개정한다. 제1조제1항중 &quot;서울특별시장 또는 도지사(以下 地方長官이라 한다)는&quot;을 &quot;지방경찰청장은&quot;으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566911&cid=46625&categoryId=46625",
+			"description":" 경찰관의 <b>직무<\/b>수행에 관한 사항을 규정한 <b>법률<\/b>. [내용] 경찰관은 국민의 자유와 권리의 보호 및 사회공공의 질서유지를 그 <b>직무<\/b>로 하는데 그 구체적인 <b>직무<\/b>의 범위는 ① 국민의 생명·신체 및 재산의 보호 ②... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>이행명령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=929307&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | 職務履行命令(한자) | 예를 들어 시ㆍ도 교육감은 지방교육자치에 관한 <b>법률<\/b> 제3조에 의해 지방자치단체장과 같은 자격을 갖는다. 시ㆍ도에 대하여 주무부 장관, 시ㆍ군 및 자치구에 대하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감독회장의 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2377949&cid=50762&categoryId=51367",
+			"description":"그 <b>직무<\/b>는 다음과 같다. ① 감리교회를 대표하는 영적 지도자로서 행정 수반이 되며 본부의 행정을... ③ 입법의회에서 의결한 헌법 또는 <b>법률<\/b>의 시행을 공포한다. ④ 각 국 위원회(이사회)에서 선출한 총무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>법률<\/b>사무 보조원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B2%95%EB%A5%A0%EC%82%AC%EB%AC%B4_%EB%B3%B4%EC%A1%B0%EC%9B%90",
+			"description":"<b>법률<\/b>회사에서 변호사의 <b>법률<\/b>적 업무를 지원하는 직책으로 한국의 법무사, 사무장과 <b>직무<\/b>가 유사하다. 법학교육을 받았고, 소송을 위한 자료 수집부터 서면작성까지 변호사의 업무를 거의 다 하는데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"집회및시위에관한<b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=562399&cid=46625&categoryId=46625",
+			"description":" 집회 및 시위를 최대한 보장하고 위법한 시위로부터 국민을 보호함으로써 집회 및 시위의 권리 보장과 공공의 안녕질서를 조화롭게 하기 위하여 제정된 <b>법률<\/b>. [내용] 이 법은 1962년 12월 제정되었다가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공익법무관에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1224232&cid=40942&categoryId=31701",
+			"description":"법무부 장관은 편입된 사람을 소집하여 <b>직무<\/b>수행에 필요한 교육을 실시하고, 대통령령이 정하는 바에 따라 근무할 각급 기관과 근무지역을 정하여 <b>법률<\/b>구조 업무 및 국가소송 등 관련사무에 종사할 것을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권사투자은행<b>법률<\/b>자문역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025065&cid=42117&categoryId=42117",
+			"description":" 증권사에서 IB(Investment Bank)업무의 <b>법률<\/b>자문을 전문적으로 수행한다. [수행<b>직무<\/b>] IB(Investment Bank), 기업공개(IPO), 증자, 회사채 발행, 구조화금융(Structured Finance), 인수합병(M&#38;A) 등을 주관하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국가정<b>법률<\/b>상담소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EA%B0%80%EC%A0%95%EB%B2%95%EB%A5%A0%EC%83%81%EB%8B%B4%EC%86%8C",
+			"description":"가정<b>법률<\/b>전문 상담 시작 2009년 8월 서울특별시교육청으로부터 교원<b>직무<\/b>연수 특수 분야 연수기관 지정 2009년 8월 20일 법제처로부터 '찾기 쉬운 생활법령정보' 사업 협력기관 지정 2009년 10월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보호관찰 등에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1209611&cid=40942&categoryId=31701",
+			"description":" 범죄자에 부과된 보호관찰 등의 처분의 시행에 관하여 필요한 사항을 정한 <b>법률<\/b>(일부개정 2009.05.28 <b>법률<\/b> 제9748호).  죄를 범한 자로서 재범방지를 위하여 보호관찰, 사회봉사·수강 및 갱생보호 등 체계적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"주민소환에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1240736&cid=40942&categoryId=31710",
+			"description":" 주민들이 거주지역의 지방자치단체장과 지방의원을 소환하고 해임할 수 있다는 내용의 <b>법률<\/b>.  2006년... 핵심 내용은 지방단체장이나 지방의원이 임기 중 위법·부당행위와 <b>직무<\/b>유기, 직권남용 등을 저지를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"종합금융회사에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1142582&cid=40942&categoryId=31704",
+			"description":" 종합금융회사의 육성에 관한 사항을 정한 <b>법률<\/b>(전문개정 1995. 12. 29 <b>법률<\/b> 5045호).  기업에 대한... 종합금융회사는 법령을 준수하고 재산운용을 건전하게 하며 고객을 보호하기 위하여 임·직원이 <b>직무<\/b>수행에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"집회 및 시위에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1145231&cid=40942&categoryId=31713",
+			"description":"하는 <b>법률<\/b>(일부개정 2016.1.27. <b>법률<\/b> 제13834호).  적법한 집회 및 시위를 최대한 보장하고 위법한 시위로부터 국민을 보호함으로써 집회 및 시위의 권리의 보장과 공공의 안녕질서가 적절히 조화되게 함을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_30\/20180920200449497_N0VCCBUGU.jpg\/50255.jpg?type=m160_160"
+		},
+		{
+			"title":"대통령 등의 경호에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225471&cid=40942&categoryId=31718",
+			"description":" 대통령 등에 대한 경호를 효율적으로 수행하기 위하여 경호의 조직과 <b>직무<\/b>범위, 그 밖에 필요한 사항을 규정하기 위해 제정된 법(1963. 12. 14, <b>법률<\/b> 제1507호).  1963년에 제정된 뒤 2008년 2월 29일 <b>법률<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"육아휴직 전 <b>직무<\/b>로 복귀",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2210291&cid=51088&categoryId=51088",
+			"description":"지급하는 <b>직무<\/b>에 복귀시켜야 한다. 또한 육아휴직기간은 근속기간에 포함한다(｢남녀고용평등과 일·가정 양립 지원에 관한 <b>법률<\/b>｣ 제19조제4항). 육아휴직기간 만료 후 복직을 시키지 않거나 근무지를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국내 정보보호 관련 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3432550&cid=58445&categoryId=58445",
+			"description":"전자정부 보호체계에서는 2006년 '전자정부법'으로 명칭이 변경된 '전자정부 구현을 위한 행정업무 등의 전자화 촉진에 관한 <b>법률<\/b>'(2001년 2월26일 제정)을 기준으로 전자정부 추진과 더불어 정보보호에 관한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4535_000_1\/20160729162612110_LIRO5ZZWJ.jpg\/ka15_94_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"뉴스통신진흥에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225468&cid=40942&categoryId=31707",
+			"description":" 뉴스통신의 건전한 발전과 민주적 여론형성을 도모하고, 뉴스통신과 관련된 국익을 보호하기 위해 제정한 법(일부개정 2009.06.09 <b>법률<\/b> 제9755호).  '뉴스통신'이란 전파법에 따라 무선국의 허가를 받거나 그 밖의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특정범죄가중처벌등에관한<b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1153987&cid=40942&categoryId=31716",
+			"description":" 특정범죄의 가중처벌을 위해 제정한 <b>법률<\/b>(1966. 2. 23 <b>법률<\/b> 제1744호).  형법·관세법·조세범처벌법... 범죄에 대하여 무고죄를 범한 자는 3년 이상의 유기징역에 처한다. 범죄수사의 <b>직무<\/b>에 종사하는",
+			"thumbnail":""
+		},
+		{
+			"title":"대통령직 인수에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225472&cid=40942&categoryId=31718",
+			"description":"4, <b>법률<\/b> 제6854호).  대통령 당선자의 지위·권한·예우와 활동 등에 관한 사항을 법제화하여 정권... 부여된 <b>직무<\/b>를 말한다. 대통령 당선자는 당선자로 결정된 날부터 대통령 임기개시 전날까지 그 지위를 가지며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공무원 노조 관련 우리나라 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=66036&cid=43667&categoryId=43667",
+			"description":"우리나라 공무원의 노동기본권은 현행 <b>법률<\/b>상·사실상 노무에 종사하는 공무원에 한해서만 보장해... 우리나라는 헌법 규정에도 불구하고 공무원이 국민 전체에 대한 봉사자로서 <b>직무<\/b>수행의 공공성·중립성이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공공기관의정보공개에관한<b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=572429&cid=46625&categoryId=46625",
+			"description":" 공공기관이 보유·관리하는 정보에 대한 국민의 공개청구 및 공공기관의 공개의무에 관하여 필요한 사항을 정한 <b>법률<\/b>. [개설] 정보공개는 헌법상의 요청으로 ‘알 권리’에 근거를 두며, 이는 「헌법」... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보호소년 등의 처우에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1113677&cid=40942&categoryId=31701",
+			"description":"규정한 <b>법률<\/b>.  보호소년 등의 처우에 관한 <b>법률<\/b>은 1958년 제정된 뒤, 1988년 <b>법률<\/b> 제4058호로 전면개정을... 대해 징계 및 포상을 할 수 있고, 친권자 또는 후견인의 <b>직무<\/b>를 행사할 수 있다. 보호소년 등의 보호",
+			"thumbnail":""
+		},
+		{
+			"title":"금융산업의 구조개선에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225460&cid=40942&categoryId=31704",
+			"description":"27 <b>법률<\/b> 제9741호).  1991년 '금융기관의 합병 및 전환에 관한 <b>법률<\/b>'로 제정된 뒤 1997년 전문개정되면서 현재의 명칭으로 바뀌었다. 금융기관의 합병·전환 또는 정리등 금융산업의 구조개선을 지원하여 금융기관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아동·청소년의 성보호에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1203498&cid=40942&categoryId=31713",
+			"description":" 아동·청소년과 관련한 성범죄로부터 아동·청소년을 보호·구제하기 위한 <b>법률<\/b>.  아동·청소년의... 하는 <b>법률<\/b>(전부개정 2009.06.09 <b>법률<\/b> 제9765호)이다. 시행일은 2010년 1월 1일이다. 전부개정 이전에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관<b>직무<\/b>집행법의 목적과 연혁",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961080&cid=42149&categoryId=42149",
+			"description":"1981년 4월 13일 제1차개정(<b>법률<\/b> 제3427호)에서는 경찰관<b>직무<\/b>범위를 구체화하고 범죄예방을 위한 가택방문, 사실의 확인, 유치장, 장구의 사용 등이 신설되었다. 1988년 12월 31일 제2차 개정(<b>법률<\/b> 제4048호)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특정경제범죄가중처벌등에관한<b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=572734&cid=46625&categoryId=46625",
+			"description":" 특정경제범죄에 대한 가중처벌과 그 범죄 행위자에 대한 취업제한 등을 규정함으로써 경제질서를 확립하고 국민경제발전에 이바지하기 위해 제정한 <b>법률<\/b>. [개설] 제5공화국 출범이후 ‘장영자 어음사기 사건’... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고독사 예방 및 관리에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6472972&cid=40942&categoryId=31708",
+			"description":" 고독사로 인한 개인적·사회적 피해를 방지하기 위하여 제정한 <b>법률<\/b>(2020.3.31, <b>법률<\/b> 제17172호).  약칭은 고독사 예방법이다. 고독사 예방 및 관리에 필요한 사항을 규정함으로써 고독사로 인한 개인적·사회적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"근로자참여 및 협력증진에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1226760&cid=40942&categoryId=31705",
+			"description":"13, <b>법률<\/b> 제5312호).  1997년 노사협의회법을 폐지하고 이를 대체하여 제정된 뒤 2001년 8월 <b>법률<\/b>... 사용자는 근로자 위원의 선출에 개입하거나 방해해서는 안 되고, <b>직무<\/b>수행과 관련하여 불이익한 처분을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특정범죄 가중처벌 등에 관한 <b>법률<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%8A%B9%EC%A0%95%EB%B2%94%EC%A3%84_%EA%B0%80%EC%A4%91%EC%B2%98%EB%B2%8C_%EB%93%B1%EC%97%90_%EA%B4%80%ED%95%9C_%EB%B2%95%EB%A5%A0",
+			"description":"직원이 <b>직무<\/b>상 알게 된 비밀누설 「회계관계직원 등의 책임에 관한 <b>법률<\/b>」 제2조제1호ㆍ제2호 또는 제4호 국고손실 만13세 미만의 미성년자에 대한 형법 제287조 약취•유인 도주차량 운전자가 피해자를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부활발전기(1991~현재) : <b>법률<\/b>제개정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5686794&cid=62011&categoryId=63027",
+			"description":"1988년 4월 6일 <b>법률<\/b> 제4004호로 제6차 「지방자치법」 의 개정이 이루어졌다. 제6차 개정은 기존의... 따로 <b>법률<\/b>로 정할 때까지는 정부에서 임명하고, 지방자치단체의 장에게 지방의회 의결사항에 관한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5622_000_1\/20181121222743178_F3XWI5P44.jpg\/bb16_18_i590.jpg?type=m160_160"
+		},
+		{
+			"title":"특정경제범죄 가중처벌 등에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=73334&cid=43667&categoryId=43667",
+			"description":"제정된 <b>법률<\/b>이다.  특정경제범죄 가중처벌 등에 관한 <b>법률<\/b>(약칭 특정경제범죄법)은 특정재산범죄의 가중처벌, 재산국외도피의 죄, 저축 관련 부당행위의 죄, 무인가 단기금융업의 가중처벌을 비롯하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특정경제범죄가중처벌 등에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225782&cid=40942&categoryId=31716",
+			"description":"31, <b>법률<\/b> 제3693호).  1983년 제정된 뒤 2009년 5월 <b>법률<\/b> 제9646호까지 11차례 개정되었다. 경제범죄는 갈수록 대형화·조직화·지능화되는 데 비해 지나치게 가벼운 법정형을 대폭 강화하여 가중처벌하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공익법인의 설립·운영에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063597&cid=40942&categoryId=31714",
+			"description":" 공익법인에 관한 사항을 규율하기 위해 제정한 <b>법률<\/b>(1975. 12. 31, <b>법률<\/b> 제2814호).  법인의 설립·운영 등에 관한 민법의 규정을 보완함으로써 법인으로 하여금 그 공익성을 유지하며 건전한 활동을 할 수 있도록... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신문 등의 자유와 기능 보장에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1234887&cid=40942&categoryId=31707",
+			"description":" 신문 등 정기간행물의 발행의 자유와 독립 보장, 사회적 책임 등에 관해 규정한 <b>법률<\/b>(2008.6.5, <b>법률<\/b> 제9099호).  줄여서 '신문법'이라고도 한다. 1987년 말 언론기본법 대신 제정된 '정기간행물의 등록 등에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특정경제범죄 가중처벌 등에 관한 <b>법률<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%8A%B9%EC%A0%95%EA%B2%BD%EC%A0%9C%EB%B2%94%EC%A3%84_%EA%B0%80%EC%A4%91%EC%B2%98%EB%B2%8C_%EB%93%B1%EC%97%90_%EA%B4%80%ED%95%9C_%EB%B2%95%EB%A5%A0",
+			"description":"특정경제범죄 가중처벌 등에 관한 <b>법률<\/b> 은 경제범죄를 억제하기 위해 1983년 제정된 <b>법률<\/b>이다. 개요... 금융기관의 임직원이 <b>직무<\/b>에 관해 금품 등의 이익을 수수·요구 또는 약속하는 등의 행위를 한 때에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국가에 귀속하는 상속재산이전에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3656207&cid=42131&categoryId=42131",
+			"description":"12. 23. <b>법률<\/b> 제860호).이 경우에 피상속인의 주소가 외국인 때에는 영사(領事) 또는 영사의 <b>직무<\/b>를 행하는 자(者)에게 지체없이 그 상속재산의 관리를 이전할 것을 규정하고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"남녀고용평등과 일·가정 양립 지원에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=931661&cid=43667&categoryId=43667",
+			"description":"한 <b>법률<\/b>이다.  2007년 12월 21일 남녀고용평등법의 법제명을 ‘남녀고용평등과 일·가정 양립 지원에 관한 <b>법률<\/b>’로 변경하고 내용을 일부 개정한 것으로, 총 6장 39개조와 부칙으로 구성돼 있다. 이 <b>법률<\/b>은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부정청탁 및 금품등 수수의 금지에 관한 <b>법률<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B6%80%EC%A0%95%EC%B2%AD%ED%83%81_%EB%B0%8F_%EA%B8%88%ED%92%88%EB%93%B1_%EC%88%98%EC%88%98%EC%9D%98_%EA%B8%88%EC%A7%80%EC%97%90_%EA%B4%80%ED%95%9C_%EB%B2%95%EB%A5%A0",
+			"description":"부정청탁 및 금품 등 수수의 금지에 관한 <b>법률<\/b> (不正請託및金品等授受의禁止에關한法律), 약칭... 받으면 <b>직무<\/b> 관련성이 없더라도 처벌하는 것을 골자로 하고 있다. 김영란이 2012년에 제안한 후 2년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특정 금융거래정보의 보고 및 이용 등에 관한 <b>법률<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6234059&cid=43667&categoryId=43667",
+			"description":"출처: 게티이미지 코리아 '특정 금융거래정보의 보고 및 이용 등에 관한 <b>법률<\/b>(이하 특금법)'은 금융거래... 관한 <b>법률<\/b>에 따른 업무 등을 효율적으로 수행하기 위하여 금융위원회 소속으로 금융정보분석원을 둔다.... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTAzMjJfMTMw%2FMDAxNjE2MzkwOTYyNjkw._zSDkV6bQAak1tGx8k1sRvaze09-FS668akzRf8eFL0g.EzIUNdaQaqZvwMjVvBUJqO1A8zK7HbZP3MH_iJVrclYg.JPEG%2FIPiHiGbebJqtqkrP04dKMmKvrDeA.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x359"
+		},
+		{
+			"title":"부정청탁 및 금품등 수수의 금지에 관한 <b>법률<\/b>(김영란법)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2724013&cid=43667&categoryId=43667",
+			"description":"(출처: 게티이미지 코리아) ‘부정청탁 및 금품등 수수의 금지에 관한 <b>법률<\/b>(청탁금지법, 일명 김영란법)’은 2015년 3월 3일 국회 본회의에서 통과돼 3월 27일 공포됐다. 2011년 6월 김영란 당시... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxODExMTlfMzQg%2FMDAxNTQyNjE3NDg2NzMx.skS21msD5D4Vdjilomqu_Eh13M5v_Wl_2KjTaBtSFasg.x--Y1oTprkf1WWvPjm9cjy83nzRP96MvyZX-Ismp4w0g.JPEG%2FICNOWqiFFcw0BVSsSabJq21TVctg.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#484x726"
+		},
+		{
+			"title":"형사소송(국민의 형사재판 참여에 관한 <b>법률<\/b> 배심원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775599&cid=51373&categoryId=51373",
+			"description":"② 배심원은 법령을 준수하고 독립하여 성실히 <b>직무<\/b>를 수행하여야 한다. ③ 배심원은 <b>직무<\/b>상 알게 된 비밀을 누설하거나 재판의 공정을 해하는 행위를 하여서는 아니 된다. - 제13조(배심원의 수) ① 법정형이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508172700916_749CWEUZL.jpg\/ba17_rd1852_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가사소송(가족관계의 등록 등에 관한 <b>법률<\/b> 제1장 총칙)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2776000&cid=51373&categoryId=51373",
+			"description":"■ 제1장 총 칙 - 제1조(목적) 이 법은 국민의 출생⋅혼인⋅사망 등 가족관계의 발생 및 변동사항에 관한 등록과 그 증명에 관한 사항을 규정함을 목적으로 한다. - 제2조(관장) 가족관계의 발생 및 변동사항에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508174201872_L0VGJUJLC.jpg\/ba17_rd516_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"형사소송(국민의 형사재판 참여에 관한 <b>법률<\/b> 대상사건 및 관할)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775598&cid=51373&categoryId=51373",
+			"description":"■ 대상사건 및 관할 - 제5조(대상사건) ① 다음 각 호에 정하는 사건을 국민참여재판의 대상사건(이하 '대상사건'이라 한다)으로 한다. 1. ｢형법｣제144조 제2항 후단(특수공무집행방해치사)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508172700761_97465FH21.jpg\/ba17_rd1851_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"형사소송(국민의 형사재판 참여에 관한 <b>법률<\/b> 벌칙 및 부칙)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775602&cid=51373&categoryId=51373",
+			"description":"■ 벌 칙 - 제56조(배심원 등에 대한 청탁죄) ① 배심원 또는 예비배심원에게 그 <b>직무<\/b>에 관하여 청탁을 한 자는 2년 이하의 징역 또는 500만 원 이하의 벌금에 처한다. ② 배심원후보자에게 그 <b>직무<\/b>에 관하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508172722705_HUA8AHZ9D.jpg\/ba17_rd1855_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"형사소송(가정폭력방지 및 피해자보호 등에 관한 <b>법률<\/b> 제11조 감독)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775572&cid=51373&categoryId=51373",
+			"description":"■ 가정폭력방지 및 피해자보호 등에 관한 <b>법률<\/b> - 제11조(감독) ① 여성가족부장관 또는 시장･군수... 18.&#62; ② 제1항에 따라 그 <b>직무<\/b>를 수행하는 관계 공무원은 그 권한을 표시하는 증표를 지니고 이를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508172612417_Y9GHN78YT.jpg\/ba17_rd1828_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"형사소송(국민의 형사재판 참여에 관한 <b>법률<\/b> 국민참여재판의 절차)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775600&cid=51373&categoryId=51373",
+			"description":"■ 국민참여재판의 절차 공판의 준비 - 제36조(공판준비절차) ① 재판장은 제8조에 따라 피고인이 국민참여재판을 원하는 의사를 표시한 경우에 사건을 공판준비절차에 부쳐야 한다. 다만, 공판준비절차에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508172703252_86ITXPUUH.jpg\/ba17_rd1853_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"시성성",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8B%9C%EC%84%B1%EC%84%B1",
+			"description":"시성성에는 세 가지 <b>직무<\/b>를 줬는데, 첫째는 사법 소송 절차를 다루는 <b>직무<\/b>, 둘째는 신앙을 보호하는 <b>직무<\/b>, 셋째는 역사적 <b>법률<\/b>적 <b>직무<\/b>이다. 1983년 교황 요한 바오로 2세에 의해 도입된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"로마 교황청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%A1%9C%EB%A7%88_%EA%B5%90%ED%99%A9%EC%B2%AD",
+			"description":"시성성에는 세 가지 <b>직무<\/b>를 줬는데, 첫째는 사법 소송 절차를 다루는 <b>직무<\/b>, 둘째는 신앙을 보호하는 <b>직무<\/b>, 셋째는 역사적 <b>법률<\/b>적 <b>직무<\/b>이다. 1983년 교황 요한 바오로 2세에 의해 도입된 시성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전여옥",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EC%97%AC%EC%98%A5",
+			"description":"이에 유원일 의원은 진상조사는 국회의원의 <b>법률<\/b>상 <b>직무<\/b>이며, 처음부터 경찰에게 국회의원임을 밝혔다며 강하게 항의했다. 또 조중동이 이번 사건에 대해 지나치게 편향적인 보도를 한다는 비판도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 기획재정위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EA%B8%B0%ED%9A%8D%EC%9E%AC%EC%A0%95%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"<b>직무<\/b> <b>법률<\/b>안 및 청원 등 심사 소관 <b>법률<\/b>안의 심사 및 제안 소관 청원의 심사 동의안·결의안 등 기타 소관 의안의 심사 및 제안 예·결산 등 심사 소관부처의 예산안·결산의 심사 소관부처의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 농림축산식품해양수산위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EB%86%8D%EB%A6%BC%EC%B6%95%EC%82%B0%EC%8B%9D%ED%92%88%ED%95%B4%EC%96%91%EC%88%98%EC%82%B0%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"<b>직무<\/b> <b>법률<\/b>안 심사 예산안 및 기금운용계획안 심사 세입세출결산 및 기금결산, 예비비지출 승인의 건 심사 결의안 심사 청원 등 심사 소관 부처 농림축산식품부 농촌진흥청 산림청 해양수산부... ",
+			"thumbnail":""
+		},
+		{
+			"title":"당사자적격",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8B%B9%EC%82%AC%EC%9E%90%EC%A0%81%EA%B2%A9",
+			"description":"(2) 민사소송법 62조의 검사와 같이 <b>법률<\/b>상 어떤 <b>직무<\/b>가 주어진 자(<b>직무<\/b>에 의한 당사자). (3) 어음의 추심위임배서에 있어서 피배서인과 같이 거래상 정당한 필요가 있는 경우에 본인의 의사로서 선택된 경우... ",
+			"thumbnail":""
+		},
+		{
+			"title":"드루킹의 인터넷상 불법 댓글 조작 사건과 관련된 진상규명을 위한 특별검사의 임명 등에 관한 <b>법률<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%93%9C%EB%A3%A8%ED%82%B9%EC%9D%98_%EC%9D%B8%ED%84%B0%EB%84%B7%EC%83%81_%EB%B6%88%EB%B2%95_%EB%8C%93%EA%B8%80_%EC%A1%B0%EC%9E%91_%EC%82%AC%EA%B1%B4%EA%B3%BC_%EA%B4%80%EB%A0%A8%EB%90%9C_%EC%A7%84%EC%83%81%EA%B7%9C%EB%AA%85%EC%9D%84_%EC%9C%84%ED%95%9C_%ED%8A%B9%EB%B3%84%EA%B2%80%EC%82%AC%EC%9D%98_%EC%9E%84%EB%AA%85_%EB%93%B1%EC%97%90_%EA%B4%80%ED%95%9C_%EB%B2%95%EB%A5%A0",
+			"description":"드루킹의 인터넷상 불법 댓글 조작 사건과 관련된 진상규명을 위한 특별검사의 임명 등에 관한 <b>법률<\/b>... 김경수 도지사의 구속에 따라 <b>직무<\/b>정지 상태가 되었으며, 박성호 경상남도 행정부지사가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"박근혜 정부의 최순실 등 민간인에 의한 국정농단 의혹 사건 규명을 위한 특별검사의 임명 등에 관한 <b>법률<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%95%EA%B7%BC%ED%98%9C_%EC%A0%95%EB%B6%80%EC%9D%98_%EC%B5%9C%EC%88%9C%EC%8B%A4_%EB%93%B1_%EB%AF%BC%EA%B0%84%EC%9D%B8%EC%97%90_%EC%9D%98%ED%95%9C_%EA%B5%AD%EC%A0%95%EB%86%8D%EB%8B%A8_%EC%9D%98%ED%98%B9_%EC%82%AC%EA%B1%B4_%EA%B7%9C%EB%AA%85%EC%9D%84_%EC%9C%84%ED%95%9C_%ED%8A%B9%EB%B3%84%EA%B2%80%EC%82%AC%EC%9D%98_%EC%9E%84%EB%AA%85_%EB%93%B1%EC%97%90_%EA%B4%80%ED%95%9C_%EB%B2%95%EB%A5%A0",
+			"description":"관한 <b>법률<\/b> 은 대한민국의 <b>법률<\/b> 중 하나이다. 2016년 11월 14일, 더불어민주당, 국민의당, 새누리당(현... 대통령은 1) 특검법 제4조의 결격사유, 2) <b>직무<\/b>수행이 현저히 곤란한 신체적·정신적 질환이 있는 경우, 3)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국회법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1067610&cid=40942&categoryId=31698",
+			"description":" 국회의 민주적·효율적 운영을 위하여 국회의 조직과 의사, 기타 필요한 사항을 규정한 <b>법률<\/b>(1948.10.2, <b>법률<\/b> 제5호).  국회의 조직, 의사, 그 밖의 필요사항을 규정함으로써 국회의 민주적·효율적인 운영에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"법제사법위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6624607&cid=40942&categoryId=31698",
+			"description":"상임위원회는 그 소관에 속하는 의안과 청원 등의 심사, 그 밖에 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행하는데, 〈국회법〉 제37조 제1항은 상임위원회의 종류와 그 소관 사항을 규정하고 있다. 법제사법위원회의 소관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부정청탁",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3407360&cid=42107&categoryId=42107",
+			"description":"누구든지 <b>직무<\/b>를 수행하는 공직자 등에게 직접 또는 제3자를 통한 부정청탁을 할 수 없다. 국민권익위원회의 정의에 따르면 부정청탁은 △인가·허가·면허 등 처리 <b>직무<\/b> △각종 행정처분 또는 형벌 부과의 감경... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 정보위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EC%A0%95%EB%B3%B4%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"설치 근거 및 소관 업무 설치 근거 국회법 [<b>법률<\/b> 제4761호, 1994.06.28 일부개정] 제37조 소관 업무 국가정보원의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행한다. 연혁... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 법제사법위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EB%B2%95%EC%A0%9C%EC%82%AC%EB%B2%95%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"02 제정] 제16조 소관 업무 법무부, 법제처, 감사원, 헌법재판소, 법원 및 군사법원의 사법행정의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행한다. 연혁 1948년 10월 2일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 국방위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EA%B5%AD%EB%B0%A9%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"설치 근거 및 소관 업무 설치 근거 국회법 [<b>법률<\/b> 제179호, 1951.03.15 일부개정] 제16조 소관 업무 국방부의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행한다. 연혁 1948년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 여성가족위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EC%97%AC%EC%84%B1%EA%B0%80%EC%A1%B1%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"설치 근거 및 소관 업무 설치 근거 국회법 [<b>법률<\/b> 제10047호, 2010.03.12 일부개정] 제37조 소관 업무 여성가족부의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행한다. 연혁... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 외교통일위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EC%99%B8%EA%B5%90%ED%86%B5%EC%9D%BC%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"설치 근거 및 소관 업무 설치 근거 국회법 [<b>법률<\/b> 제11717호, 2013.03.23 일부개정] 제37조 소관 업무 외교부와 통일부의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 환경노동위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%ED%99%98%EA%B2%BD%EB%85%B8%EB%8F%99%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"설치 근거 및 소관 업무 설치 근거 국회법 [<b>법률<\/b> 제4943호, 1995.03.03 일부개정] 제37조 소관 업무 환경부와 고용노동부의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 정무위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EC%A0%95%EB%AC%B4%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"설치 근거 및 소관 업무 설치 근거 국회법 [<b>법률<\/b> 제12502호, 2014년 3월 18일 일부개정] 제37조 소관 업무 국무총리실 직속 기관의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 행정안전위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"26 일부개정] 제37조 소관 업무 행정안전부, 인사혁신처, 중앙선거관리위원회, 그리고 지방자치단체의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행한다. 연혁 1948년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 산업통상자원중소벤처기업위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EC%9E%90%EC%9B%90%EC%A4%91%EC%86%8C%EB%B2%A4%EC%B2%98%EA%B8%B0%EC%97%85%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"26 일부개정] 제37조 소관 업무 산업통상자원부와 중소벤처기업부의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행한다. 연혁 1948년 10월 2일: 상공위원회를 설치. 1988년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 과학기술정보방송통신위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%A0%95%EB%B3%B4%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"26 일부개정] 제37조 소관 업무 과학기술정보통신부와 방송통신위원회, 그리고 원자력안전위원회의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행한다. 연혁 1948년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 국회운영위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EA%B5%AD%ED%9A%8C%EC%9A%B4%EC%98%81%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"15 일부개정] 제16조 소관 업무 국회 소속기관, 대통령 소속기관 및 국가인권위원회의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행한다. 연혁 1951년 3월 15일: 국회운영위원회를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사보임",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5756355&cid=43667&categoryId=43667",
+			"description":"[ 국회 상임위원회와 특별위원회 ] 국회 상임위원회 국회 상임위원회는 행정부 각 부처 소관에 따라 국회 내에서 구성되어 소관부처 안건을 미리 심사하는 위원회이다. 국회의원이나 정부가 <b>법률<\/b>안을 제출하면",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxOTA0MjRfMTc4%2FMDAxNTU2MDk1NDMzMzQ1.zIHeyXKUvLtMVLYKJP8PJ-jpfGGFqzHAj3RKWOEeSzIg.GHTu3KQ7OK65_-Wd0nz_tOGdcbaGm0X6CcFdwpEVQZog.JPEG%2FIvx6JaoQmqmHE2lCX6aOash9_V8w.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x342"
+		},
+		{
+			"title":"제권판결에 대한 불복의 소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3655258&cid=42131&categoryId=42131",
+			"description":"판사가 <b>법률<\/b>에 따라 <b>직무<\/b>집행에서 제척된 때, (5) 전속관할에 관한 규정에 어긋난 때, (6) 권리 또는 청구의 신고가 있음에도 <b>법률<\/b>에 어긋나는 판결을 한 때, (7) 거짓 또는 부정한 방법으로 제권판결을 받은 때... ",
+			"thumbnail":""
+		},
+		{
+			"title":"법조윤리",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B2%95%EC%A1%B0%EC%9C%A4%EB%A6%AC",
+			"description":"품위유지의무 변호사법 제24조에 명시되어 있으며 여기서 품위란 <b>법률<\/b>전문직으로서 <b>직무<\/b>수행에 필요한 인품이다. 윤리규칙 제2조 기본윤리에서는 변호사는 <b>직무<\/b>의 내외를 불문하고 품위를 해하여서는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 교육위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EA%B5%90%EC%9C%A1%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"설치 근거 및 소관 업무 설치 근거 국회법 [<b>법률<\/b> 제15713호, 2018.7.17 일부개정] 제37조 소관 업무 교육부의 소관에 속하는 의안과 청원 등의 심사, 기타 <b>법률<\/b>에서 정하는 <b>직무<\/b>를 수행한다. 연혁 1948년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국회 상임위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=66466&cid=43667&categoryId=43667",
+			"description":"의결을 <b>법률<\/b>적으로 구속하는 것은 아니다. 위원회에는 '상임위원회'와 '특별위원회' 2종이 있다. 국회의원이나 정부가 <b>법률<\/b>안을 제출하면 국회의장은 이를 상임위원회나 특별위원회에 회부하고 이곳의 심의를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보건소장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837682&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>법률<\/b>로 정해진 보건소의 업무인 국민건강증진·보건교육·구강건강 및 영양관리사업, 감염병의 예방·관리 및 진료, 모자보건 및 가족계획사업, 노인보건사업, 공중위생 및 식품위생, 의료인 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이철환 (법조인)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%B2%A0%ED%99%98_(%EB%B2%95%EC%A1%B0%EC%9D%B8)",
+			"description":"주요 판결 서울형사지방법원 항소7부 재판장으로 재직하던 1982년 11월 2일에 대한화재보험빌딩 화재사건 관련 피고인에 대해 <b>법률<\/b>상 피고인의 <b>직무<\/b>와 관련이 없거나 증거가 없다는 이유로 무죄를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"개인 정보 국외 이전",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3581930&cid=42238&categoryId=58700",
+			"description":"대상으로 서비스를 제공하기 위해서는 대체 수단을 강구해야 한다.유럽집행위원회의 결정에 따라 유럽연합 회원국은 자국의 <b>법률<\/b>에 따라 대서양을 횡단해 전송되는 데이터에 적절한 보호 수준(ad",
+			"thumbnail":""
+		},
+		{
+			"title":"변호사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%80%ED%98%B8%EC%82%AC",
+			"description":"있는 <b>직무<\/b> 일반 <b>법률<\/b> 사무 <b>법률<\/b>상의 권리, 의무에 관하여 다툼 또는 의문이 있거나 새로운 권리의무관계의 발생에 관한 사건 일반을 의미한다. 구체적으로 <b>법률<\/b>자문행위, 채무변제독촉행위, 채무취심업무... ",
+			"thumbnail":""
+		},
+		{
+			"title":"검사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%80%EC%82%AC",
+			"description":"관련 <b>법률<\/b> 검사의 보수에 관한 <b>법률<\/b> 시행령 검사의 <b>직무<\/b>, 직급 및 자격, 관할 특별검사의 임명과 <b>직무<\/b> 관련 <b>법률<\/b> 보수 로스쿨 졸업후 변호사시험에 합격한 검사는 1호봉을, 사법연수원을 수료한 검사는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"실업급여의 수급조건",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2210038&cid=51088&categoryId=51088",
+			"description":"본인이 직장을 스스로 그만 두었거나 ｢형법｣·<b>직무<\/b>관련<b>법률<\/b> 위반으로 금고이상의 형을 받고 해고된 경우나 공금횡령, 회사기밀누설, 기물파괴, 허위서류작성 등으로 회사에 막대한 손실을 끼쳐 해고된 경우... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선거 (남원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2591769&cid=51948&categoryId=55131",
+			"description":"[정의] 전라북도 남원시에서 선거권을 가진 지역민이 공직에 임용될 사람을 직접 투표를 통해 뽑는 행위. [개설] 남원시의 선거 역사는 1960년 제5대 국회의원 선거에서 투표함 소각 사건을 경험하였듯이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1134747&cid=40942&categoryId=31714",
+			"description":" 법인의 업무를 집행하고 또 원칙적으로 이를 대표하여 <b>법률<\/b>행위를하는 <b>직무<\/b>권한을 가진 상설적 필요 기관(민법 57~59조, 상법 561 ㆍ562조).  ⑴ 비영리법인의 이사 : 사무의 집행은 이사의 과반수로써... ",
+			"thumbnail":""
+		},
+		{
+			"title":"오가와 도시오",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%A4%EA%B0%80%EC%99%80_%EB%8F%84%EC%8B%9C%EC%98%A4",
+			"description":"사형 집행 후의 기자회견에서 오가와는 &quot;내각부의 여론조사에서 85%의 국민이 사형 제도를 지지하고 있으며 재판관들 사이에서도 사형이 지지를 받고 있다&quot;며 &quot;사형 집행은 법무대신의 <b>직무<\/b>로써 <b>법률<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"독립신문 1897년 2월 6일(한글 현대문)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2326185&cid=62142&categoryId=62340",
+			"description":"독립신문 현대문 콘텐츠는 원문의 한글 옛 글자를 현대 한글 표기로 단순 변환한 것으로, 현재의 한글 맞춤법과는 다소 차이가 있습니다. [논설] ○ 근일에 강원도 수령과 관찰사의 보고를 보니 강원도 각... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3483_000_2\/20141128212240028_BK4RR8PX0.jpg\/he21_ko_18970206.jpg?type=m160_160"
+		},
+		{
+			"title":"독립신문 1897년 2월 6일(한글 원문)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2324884&cid=62142&categoryId=62340",
+			"description":"[논설] ○ 근일에 강원도 슈령과관찰<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e97d_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>의 보고를 보니강원도 각 디방에 비도가다시 <img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e9a2_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>겨 인민이 곤란<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/f53a_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>거슬 <img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/eaab_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/> 당 <img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/f53a_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>다니 이<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/ea7f_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>를 당<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/f537_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>야 졍부에셔별노히 쥬의 <img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/f537_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>고 신칙<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/f537_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>야 이 비도들을 쇽히간졍 식히고 불샹... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3483_000_1\/20141128042626404_OWM27THX1.jpg\/he21_or_18970206.jpg?type=m160_160"
+		},
+		{
+			"title":"블라인드 채용법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5752885&cid=43667&categoryId=43667",
+			"description":"구직자의 외모·출신지역 등의 이력서 기재를 금지하는 '채용절차의 공정화에 관한 <b>법률<\/b> 개정안'으로 <b>직무<\/b> 중심의 공정한 채용을 목적으로 한 법안이다. 2019년 3월 28일 국회 본회의를 통과했다. '블라인드... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxOTAzMjlfMjE1%2FMDAxNTUzODE5MzAxMjY1.bv3Ab73zXRvqNazKwLv_Q8z0q-cxUVKp1ov17IXraY0g.mbo-jFrSmocbUCQdO-7ycl5hcVqUAvqdy0hcr6WrS8Mg.JPEG%2FIm39xmHNr64soplNSF6L12d4FmgY.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x405#c405"
+		},
+		{
+			"title":"경찰관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060563&cid=40942&categoryId=31690",
+			"description":" 국민의 생명·신체 및 재산의 보호와 범죄의 예방·진압 및 수사, 그리고 교통의 단속 등 공공의 안녕과 질서유지를 그 <b>직무<\/b>로 하는 공무원.  경찰관<b>직무<\/b>집행법에 의하면 경찰관의 <b>직무<\/b>로는 ① 범죄의 예방... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_376\/20210617085658909_XEH8F8V9N.jpg\/12034482.jpg?type=m160_160"
+		}
+	]
+}

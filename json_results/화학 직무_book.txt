@@ -1,0 +1,30 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:08 +0900",
+	"total":2,
+	"start":1,
+	"display":2,
+	"items":[
+		{
+			"title":"NCS 기반 직무수행능력+직무중심면접 평가 17: 화학 (NCS 기반 신규 채용ㆍ승진ㆍ이직 \/ 직무 능력 중심 채용 대비)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32506684669",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3250668\/32506684669.20220527034250.jpg",
+			"author":"NCS 채용 시험 연구회",
+			"discount":"18000",
+			"publisher":"씨마스",
+			"pubdate":"20160510",
+			"isbn":"9791156721048",
+			"description":"- 독자대상 : NCS기반 채용 시험 준비생 \n- 구성 및 특징 : \n① 직무 수행 능력 중심 채용에 대비 가능\n② 해당 직무에 관한 기출 면접 질문 문항 제시"
+		},
+		{
+			"title":"NCS 기반 직무분야별 직무능력평가 17 화학 (직업기초 + 직무수행 능력평가)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32436403623",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3243640\/32436403623.20220518132157.jpg",
+			"author":"",
+			"discount":"20700",
+			"publisher":"씨마스",
+			"pubdate":"20160120",
+			"isbn":"9791156720614",
+			"description":"- 독자대상 : NCS기반 채용 시험 준비생 \n- 구성 : 문제 + 이론 \n- 특징 : \n① Wrap-up Keypoint를 통한 요약 정리 \n② NCS 누리집에서 제공하는 예시문제와 기업체 기출문제로 실전 감각 키우기 \n③ 기본 문제와 심화 문제를 통한 단계 학습 \n④ 직무수행능력 평가문항 제공"
+		}
+	]
+}

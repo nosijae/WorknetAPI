@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:42 +0900",
+	"total":78002,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>운전<\/b>자의 정서가 <b>운전<\/b>행동에 미치는 영향에 관한 연구: <b>운전<\/b>스트레스 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78412992",
+			"description":"A Study on Effects of the Driver's Emotion on the Driving Behavior 교통사고의 원인은 크게 차량요인, 도로환경요인, "
+		},
+		{
+			"title":"사고데이터 기반 음주<b>운전<\/b>의 시공간적 패턴분석과 유형화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891405061",
+			"description":"Spatio-temporal Pattern Analysis and Categorization of Drunk driving based on Crash data  I. 서론\n\t1. 연구의 배경 및 목적\n\t2."
+		},
+		{
+			"title":"<b>운전<\/b>행동 결정요인과 위험<b>운전<\/b> 행동요인이 난폭<b>운전<\/b>과 보복<b>운전<\/b>에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562348627",
+			"description":"A Study on Preparing Measures for Reducing Aggressive Driving and Road Rage by Analysing Mechanism of How the Driving Behavior Determin"
+		},
+		{
+			"title":"인 고도처리를 위한 일체형 침전부상공정(SeDAF)의 적정 <b>운전<\/b>조건에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650608410",
+			"description":"A study on appropriate operation conditions of SeDAF (sedimentation and dissolved air flotation) process for enhanced phosphorus remova"
+		},
+		{
+			"title":"DTG 데이터를 이용한 차내 전도사고에 영향을 주는 <b>운전<\/b>행동 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891405075",
+			"description":"Analysis of Driving Behavior of Bus Drivers Affecting Falling events among Passenger Using Digital Tachongraph Data   DTG, 위험<b>운전<\/b>"
+		},
+		{
+			"title":"<b>운전<\/b>적성검사와 <b>운전<\/b>면허 기능시험 평가항목을 연계한 고령자 <b>운전<\/b>능력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866879955",
+			"description":"A Study on the Dhving Ability Evaluation of the Elderly by linking the Driver's Aptitude Test and the Driver's License Function Test Ev"
+		},
+		{
+			"title":"컨테이너 내륙운송에 있어서 <b>운전<\/b>기사에 대한 컨테이너 관리의 전가문",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898228684",
+			"description":"A Study on the Transfer of Container Management Responsibilities to Drivers in the Inland Transportation of Containers 우리나라에"
+		},
+		{
+			"title":"AGV 로봇에 내장된 배터리용 병렬<b>운전<\/b> 전압가변형 충전기 구현에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650737065",
+			"description":"A study on the implementation of voltage variation type charger in parallel operation for AGV robot-embedded battery  표제지\n국문"
+		},
+		{
+			"title":"뇌졸중 환자를 대상으로 한 <b>운전<\/b>재활에 대한 인식 및 요구도 조사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116092937",
+			"description":"Awareness and Need for Driving Rehabilitation: A Survey of Stroke Patients 목적 : 부산 내 거주하고 있는 뇌졸중 환자를 "
+		},
+		{
+			"title":"자동<b>운전<\/b> 자동차(self-driving car), 어떻게 볼 것인가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58319578",
+			"description":"  목차\n자동<b>운전<\/b> 자동차(self-driving car), 어떻게 볼 것인가 \/ 공영일 1\n [요약] 1\n I. 문제 제기 2\n II. 자동운"
+		},
+		{
+			"title":"타인의존 자기애와 보복<b>운전<\/b> 경험 간의 관계에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887308556",
+			"description":"A study on the Relationship between Other-dependent Narcissism and Road Rage Experience 본 연구는 타인의존 자기애가 보복"
+		},
+		{
+			"title":"<b>운전<\/b>중 텔레매틱스 장치 사용이 <b>운전<\/b>행동에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420535825",
+			"description":"The effect of operating telematics device in vehicle on driver behaviors 최근 IT 기술의 비약적인 발전으로 위성 및 지"
+		},
+		{
+			"title":"기능시험장을 활용한 고령<b>운전<\/b>자 <b>운전<\/b>능력 평가방법 개발 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887307211",
+			"description":"A Study on Evaluation Method for Older Drivers Driving Ability Using Driving Course Test Site 고령<b>운전<\/b>자를 대상으로 하는 "
+		},
+		{
+			"title":"음주<b>운전<\/b>과 처벌효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10584272",
+			"description":"  1. 서론:음주<b>운전<\/b>과 처벌의 속성=28,30,2\n2. 강화입법의 효과=29,31,3\n3. 면허정지 및 취소=31,33,1\n4. 무작위 "
+		},
+		{
+			"title":"상습음주<b>운전<\/b>에 대한 뇌신경과학적 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882786209",
+			"description":"A Neuroscientific Perspective on Habitual Drunk Driving 음주<b>운전<\/b> 재범의 위험요인에 대한 국내문헌은 대부분 설문"
+		},
+		{
+			"title":"자율주행시스템의 <b>운전<\/b>면허에 관한 수용성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887307932",
+			"description":"Empirical Analysis on the Acceptance of Driver’s License for the Automated Driving System 자율주행자동차의 상용화는 자"
+		},
+		{
+			"title":"인지된 억제력의 형성과 효과 : 음주<b>운전<\/b>을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45695013",
+			"description":"An Empirical Study on Perceived deterrence of Punishment The purpose of this study is to examine on perceived deterrence of punishment "
+		},
+		{
+			"title":"발전소 <b>운전<\/b>조건에 따른 증기터빈 로터의 열응력 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638377",
+			"description":"Analysis of Thermal Stress in the Steam Turbine Rotor according to the Power Plant Operation Condition As renewable energy sources such"
+		},
+		{
+			"title":"음주<b>운전<\/b>과 성격과의 관계에서 인지 요인의 매개효과 검증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41626223",
+			"description":"The Mediating effect of Cognition on Personality and Drunk Driving : A Structural Equation Modeling Approach 이 연구는 선행연구"
+		},
+		{
+			"title":"<b>운전<\/b>조건 변화에 따른 혼합냉매 Joule-Thomson 냉동기의 성능특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887530608",
+			"description":" 줄-톰슨 냉동기는 구조가 간단하여 제작비용이 비교적 낮고 저온부에 기계적인 요소가 없어 높은 신"
+		},
+		{
+			"title":"<b>운전<\/b>형태 감시를 위한 차량 위험<b>운전<\/b> 검지장치 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45700478",
+			"description":"A Study on In-vehicle Aggressive Driving Detection Reconler System for Monitoring on Drivers’ Behavior This paper presents the potent"
+		},
+		{
+			"title":"시내버스 준공영제가 시내버스 교통사고 및 시내버스 <b>운전<\/b>자의 <b>운전<\/b>태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420535360",
+			"description":"Influence of a Semi-Public Management System of Intra-City Bus Service on the Decrease of Traffic Accidents and the Attitude Change of "
+		},
+		{
+			"title":"뇌손상 <b>운전<\/b>자의 MMSE-K와 TMT 점수에 따른 충돌위험 시나리오별 충돌회피 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595087784",
+			"description":"Effect of Difference in Stroke Driver's MMSE-K and TMT Levels on Avoiding Collision in Simulated Risky Driving Situations 뇌손상 운"
+		},
+		{
+			"title":"&lt;최고<b>운전<\/b>&gt;의 설화적 전승과 ‘최치원설화’의 연원",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47047916",
+			"description":"The folklore of ChoiGoWoonCheon(崔孤雲傳) and the origin of the tale of ChoiChiWon(崔致遠說話) 본고에서는 &lt;최고<b>운전<\/b>&gt;"
+		},
+		{
+			"title":"콜 대리업체 서비스에서 O2O 방식이 적용된 대리<b>운전<\/b> 사업 모델로의 소비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232460842",
+			"description":"Factors which Influence Customers' Intention to Switch from Call-Based Driver-for-hire Services to App-Based Driver-for-hire Services B"
+		},
+		{
+			"title":"고령자의 <b>운전<\/b>패턴 인식을 통한 <b>운전<\/b>면허증 갱신 및 반납 정책에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594395886",
+			"description":" 본 연구는 고령<b>운전<\/b>자의 교통사고율 감소를 위하여 고령자의 <b>운전<\/b>패턴 인식을 통해 교통사고위험지"
+		},
+		{
+			"title":"공조설비 <b>운전<\/b>방법 및 시설개선을 통한 에너지절약 효과분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78355915",
+			"description":"An Analysis of the Energy Saving Effect Through the Retrofit and the Optimal Operation for HVAC Systems The major goal of building ener"
+		},
+		{
+			"title":"모바일 <b>운전<\/b> 시뮬레이션 검사를 이용한 <b>운전<\/b>자의 집중력과 <b>운전<\/b>능력에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866702705",
+			"description":"Study on Drivers’ Attention and Driving Ability Using the Mobile Driving Simulation Assessment: A Correlational Study 목적 : 본 "
+		},
+		{
+			"title":"모바일 <b>운전<\/b> 시뮬레이션 검사를 이용한 <b>운전<\/b>자의 집중력과 <b>운전<\/b>능력에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822335738",
+			"description":"Study on Drivers’ Attention and Driving Ability Using the Mobile Driving Simulation Assessment: A Correlational Study 목적 : 본 "
+		},
+		{
+			"title":"등경유 탈황 공정의 <b>운전<\/b> 최적화를 위한 가상 분석기 모델링 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889972586",
+			"description":"Soft Sensor Modeling to Optimize the Operation of the Kerosene and Gasoil Hydrotreating Unit  I. 서론 1\n 1.1 연구의 목적 1\n 1.2 "
+		},
+		{
+			"title":"텍스트마이닝을 활용한 <b>운전<\/b>재활시뮬레이터 관련 해외연구 동향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877222313",
+			"description":"An Analysis of Overseas Research Trends on Driving Rehabilitation Simulator Using Text Mining 본 연구는 텍스트마이닝(Text Min"
+		},
+		{
+			"title":"노인의 <b>운전<\/b> 경험에 대한 현상학적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78424338",
+			"description":"A Phenomenological Study of the Driving Experience of Elderly Koreans 목적 : 본 연구의 목적은 한국 노인이 경험한 운"
+		},
+		{
+			"title":"<b>운전<\/b>프로파일 실시간 공유를 통한 <b>운전<\/b>시격 최소화 알고리즘",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=760882046",
+			"description":"Algorithm for minimizing headway by real-time sharing the operation profiles of preceeding train 도시철도에 있어서 최소<b>운전<\/b>"
+		},
+		{
+			"title":"한국형 자가보고식 노인 안전<b>운전<\/b>행동 측정도구(K-SDBM) 개발 및 신뢰도 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116092931",
+			"description":"Development and Reliability of Korean Safe Driving Behavior Measure (K-SDBM) 목적 : 본 연구는 한국형 노인 안전<b>운전<\/b>행동"
+		},
+		{
+			"title":"음주<b>운전<\/b> 억제를 위한 실효적 정책 구상",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18654257",
+			"description":"A conception of effective prevention policy against DUI Despite rigorous crackdown and strengthened punishment, tendency towards DUI an"
+		},
+		{
+			"title":"웨어러블 기기를 이용한 음주<b>운전<\/b> 감지 시스템",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=894154524",
+			"description":"Drunk Driving Detection System Using Wearable Devices Drunk driving may cause traffic accidents that result in human casualties. Even t"
+		},
+		{
+			"title":"자율주행자동차 주행안전성 확보를 위한 딜레마 상황 정의 및 <b>운전<\/b> 전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877226987",
+			"description":"Development of Dilemma Situations and Driving Strategies to Secure Driving Safety for Automated Vehicles 자율주행자동차 평가 "
+		},
+		{
+			"title":"음주<b>운전<\/b> 실태 및 유발요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78374919",
+			"description":"A Study on Realities of Drunken Driving and Trigger Factors 음주<b>운전<\/b>에 대한 균형적인 대응이 필요함에도 불구하고 "
+		},
+		{
+			"title":"위험<b>운전<\/b>치사상죄의 성립 요건과 적용상의 문제점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888164511",
+			"description":"The Requirements for the Establishment of the Dangerous Driving Deadly Crime and Problems in Application 도로교통법에서는 술"
+		},
+		{
+			"title":"도로 위의 분노(Road Rage), 보복<b>운전<\/b>의 사건 유형별 피해 경향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882786196",
+			"description":"An Analysis on the Tendency of Victimization of Road Rage Cases in South Korea 이 연구의 목적은 소위 ‘도로 위의 분노"
+		},
+		{
+			"title":"Four-Switch 인버터의 전압 변동 보상 기법을 통한 전동기 <b>운전<\/b> 기법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=737168731",
+			"description":"   Voltage regulation, Voltage reference, Voltage multiplier, Voltage divider, Open-circuit voltage, Engineering, Dropout voltage, Dist"
+		},
+		{
+			"title":"1P-748 : 중공사 막을 이용한 진공 막증발법(VMD) 장기 <b>운전<\/b>에서의 막오염",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890104996",
+			"description":"   중공사 막, 진공 막증발법, 장기<b>운전<\/b>, 막오염 "
+		},
+		{
+			"title":"도로 위의 분노(Road Rage), 보복<b>운전<\/b>의 사건 유형별 피해 경향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881871065",
+			"description":"An Analysis on the Tendency of Victimization of Road Rage Cases in South Korea 이 연구의 목적은 소위 ‘도로 위의 분노"
+		},
+		{
+			"title":"고령 <b>운전<\/b>자의 안전한 <b>운전<\/b>을 위한 기능적 평가 요소에 대한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873620547",
+			"description":"A Study on Evaluation of the Key Functional Factors of Safe Driving in Elderly 본 연구는 노인<b>운전<\/b>자의 <b>운전<\/b> 면허를 갱신"
+		},
+		{
+			"title":"태양열원 연계 지열원 히트펌프 시스템의 최적 설계 및 <b>운전<\/b> 방안에 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886572576",
+			"description":"A study on the optimal design and operation for the solar thermal energy assisted geothermal heat pump system  제 1 장 서 론 1\n 1. "
+		},
+		{
+			"title":"음주<b>운전<\/b>에 의한 복수 <b>운전<\/b>면허취소처분 판례의 문제점과 관련법제의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561840703",
+			"description":"A Problem about a Precedent of the Multiple Driver's License Cancellation Caused by Drunk Driving, and an Improvement of Related Legisl"
+		},
+		{
+			"title":"가상환경 기반 자율주행 <b>운전<\/b>능력 평가방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865533414",
+			"description":"Study on the Evaluation Method of Autonomous Vehicle Driving Ability Based on Virtual Reality 세계 최대 차량공유업체 우버"
+		},
+		{
+			"title":"동력<b>운전<\/b> 분산 시각표 작성을 위한 수리모형 및 해법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41615310",
+			"description":"A Model and Approaches for Smoothing Peaks ofTraction Energy in Timetabling 본 연구는 도시철도 시스템에서 동일시간에 "
+		},
+		{
+			"title":"<b>운전<\/b>시뮬레이터 훈련이 뇌졸중 환자의 시각 및 신체 반응 속도에 미치는",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177478673",
+			"description":"The Effect of Driving Simulator Training to Visual and Physical Response Speed in Patients of Strokes: A Single Case Study 목적 : 본"
+		},
+		{
+			"title":"시내버스 <b>운전<\/b>기사의 직무만족도 결정요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290273258",
+			"description":"The Determinants of Job Satisfaction for Bus Drivers is a complicated interrelation between task, role, responsibility, and award. Job "
+		},
+		{
+			"title":"열차<b>운전<\/b>사고 분석 기반의 열차<b>운전<\/b>방법 적용 시나리오 개발에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187690965",
+			"description":"A Study on Scenario Development Applied to Train Operation Methods Based on Train Accidents Analysis 열차의 <b>운전<\/b>은 충돌사고"
+		},
+		{
+			"title":"<b>운전<\/b>프로파일 실시간 공유를 통한 <b>운전<\/b>시격 최소화 알고리즘",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879132700",
+			"description":"Improvement of Urban Railway Service Evaluation 도시철도에 있어서 최소<b>운전<\/b>시격의 감소는 수송용량 증대와 차내"
+		},
+		{
+			"title":"고속 <b>운전<\/b>조건을 고려한 하이브리드 자동차용 ISG 모터 방열설계 및 해석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=715908229",
+			"description":"   Water cooling, Thermal, Regenerative brake, Mechanical engineering, Magnet, Idle, High load, Engineering, Electromagnetic coil, Dura"
+		},
+		{
+			"title":"사업용 화물자동차 운행특성에 따른 위험<b>운전<\/b>행동 및 교통사고 위험도 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890262718",
+			"description":"A Study on the Analysis of Dangerous Driving Behavior and Traffic Accident Risk according to the Operation Characteristics of Commercia"
+		},
+		{
+			"title":"스마트 하수처리장 도입에 필요한 <b>운전<\/b>제어기술에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887717683",
+			"description":"A Study on Operation Control Technology Required for Introduction of Intelligent Sewage Treatment Plant 스마트(Smart) 하수처리"
+		},
+		{
+			"title":"최고<b>운전<\/b>의 출생담고 : 최치원의 출생과 관련하여",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9539013",
+			"description":"  I.서언=815,841,2\nII.출생설화와「최고<b>운전<\/b>」=816,842,7\nIII.소설의 배경으로 본 최고운의 생장지=822,848,9\nIV."
+		},
+		{
+			"title":"2LD-1 : 동적<b>운전<\/b>이 가능한 고밀도 알칼라인 수전해 스택 기술 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890104159",
+			"description":"2LD-1 : Advanced stack for a high-rate alkaline electrolyser operating in a dynamic mode   그린수소, 수전해, 스택, 동적운"
+		},
+		{
+			"title":"역방향 공기주입 무화염 연소의 LPG 연료 유량과 분사공기속도에 따른 운",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846902131",
+			"description":"Study on the Operation Range and Performance of Reverse Air Injection Flameless Combustion depending on LPG Flow Rate and Air Injection"
+		},
+		{
+			"title":"노인<b>운전<\/b>자의 안전<b>운전<\/b>이 가족관계 만족도를 매개로 삶의 만족도에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=853151784",
+			"description":"Safe Driving and Life Satisfaction, Mediating Effect of Family Relationships Satisfaction among Older Drivers 본 연구는 노인운"
+		},
+		{
+			"title":"음주<b>운전<\/b>억제 방안에 관한 실증적 연구 - 경찰활동을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58315436",
+			"description":"An Empirical Study about Plans for Deterring Drunk Driving - Toward Police's Activities - 본 연구는 음주 <b>운전<\/b>자에 관한 경"
+		},
+		{
+			"title":"안전벨트 착용과 음주<b>운전<\/b>의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843056068",
+			"description":"Relationship Between Wearing Seatbelt and Drunk Driving 목적: 본 연구에서는 인구사회학적 요인을 통제하여 안전벨"
+		},
+		{
+			"title":"노인<b>운전<\/b>자의 안전<b>운전<\/b>이 가족관계 만족도를 매개로 삶의 만족도에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846894699",
+			"description":"Safe Driving and Life Satisfaction, Mediating Effect of Family Relationships Satisfaction among Older Drivers 본 연구는 노인운"
+		},
+		{
+			"title":"개인적 특성 및 처벌인식과 음주<b>운전<\/b>의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532180",
+			"description":"A Study on effect individual characteristics and perceived threat of punishment on drunk - driving intention 본 논문은 <b>운전<\/b>자의"
+		},
+		{
+			"title":"외상성 뇌손상 <b>운전<\/b>자의 <b>운전<\/b>능력과 측정방법에 관한 체계적 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78300426",
+			"description":"A Systematic Review on Driving Ability and Measurement Method of Drivers After a Traumatic Brain Injury 목적 : 본 연구는 체계"
+		},
+		{
+			"title":"DTG데이터를 활용한 대구광역시 택시 <b>운전<\/b>자 위험<b>운전<\/b>성향 지표 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866879951",
+			"description":"Dangerous Driving Propensity Index(DDPI) Development for commercial Taxi drivers in Deagu Metropolitan using DTG data  I. 서론\nII. "
+		},
+		{
+			"title":"중증 지체장애인의 자가<b>운전<\/b>을 저해하는 법적·제도적 문제점과 개선방",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=37749671",
+			"description":"Problems and Improvement Scheme in Legal and Institutional System for Self-Driving of the People with Severe Physical Disabilities 장"
+		},
+		{
+			"title":"530MW급 열병합발전 <b>운전<\/b>조건에 따른 스팀터빈의 열효율 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889813917",
+			"description":"Thermal efficiency analysis of steam turbine according to the operating condition of 530MW cogeneration  1. 서론 1\n  1.1 연구필요"
+		},
+		{
+			"title":"자기애와 공격적 <b>운전<\/b> 간의 관계: 분노반추의 매개효과와 공감의 조절효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862534153",
+			"description":"The Relationship between Narcissism and Aggressive Driving: The Mediating Effects of Anger Rumination and Moderating Effects of Empathy"
+		},
+		{
+			"title":"졸음<b>운전<\/b> 없는 더 안전한 공공버스 만들기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889905356",
+			"description":" 경부고속도로에서 일어난 광역버스 졸음<b>운전<\/b> 사고(2017년)는 사회에 큰 파장을 일으켰고, 정부는 버스"
+		},
+		{
+			"title":"음주<b>운전<\/b> 재범 가능성에 영향을 미치는 <b>운전<\/b>자 요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843060447",
+			"description":"Investigating Drivers’ Characteristics That Influence the Likelihood of Driving under the Influence of Alcohol (DUIA) Recurrence 본 "
+		},
+		{
+			"title":"계통연계형 태양광 인버터의 단독<b>운전<\/b> 방지를 위한 새로운 알고리즘 개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=732901708",
+			"description":"   Power quality, Photovoltaic system, Islanding, Inverter, Frequency drift, Engineering, Electronic engineering, Electric shock, Contr"
+		},
+		{
+			"title":"보험설계사, 대리<b>운전<\/b> 기사도 고용보험으로 보호 : '고용보험법'(2021.7.1. ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889811464",
+			"description":"  목차\n보험설계사, 대리<b>운전<\/b> 기사도 고용보험으로 보호 : '고용보험법'(2021.7.1. 시행, 2021.1.5.일부개정)"
+		},
+		{
+			"title":"기어 물림 상태의 타행 주행 저항을 이용한 엔진 <b>운전<\/b> 조건의 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=731814313",
+			"description":"   Work (physics), Vehicle driving, Torque, Test rig, Engineering, Driving mode, Drivetrain, Chassis dynamometer, Brake, Automotive eng"
+		},
+		{
+			"title":"바닥난방시스템의 외기온도 변화특성을 고려한 <b>운전<\/b>방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=729753507",
+			"description":"   Heating system, Engineering, Energy consumption, Control system, Control methods, Control (management), Automotive engineering, Arch"
+		},
+		{
+			"title":"음주 <b>운전<\/b>자들의 <b>운전<\/b>확신수준 특성이 교통사고에 미치는 영향: 경로분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16418656",
+			"description":"The effects of driving confidence level on drunken drivers: A path analysis study 음주는 <b>운전<\/b>자에게 비정상적인 <b>운전<\/b>행"
+		},
+		{
+			"title":"음주<b>운전<\/b> 교통사고 피해 여성을 위한 미술치료 단일사례연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=853152530",
+			"description":"A Single Case Study on Art Therapy for a Woman Victimized by Drunk Driving Accident 본 연구는 음주<b>운전<\/b> 교통사고 피해 여"
+		},
+		{
+			"title":"인지된 억제력의 형성과 효과: 음주<b>운전<\/b>을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45695013",
+			"description":"An Empirical Study on Perceived deterrence of Punishment The purpose of this study is to examine on perceived deterrence of punishment "
+		},
+		{
+			"title":"고정자 자속의 해석을 통한 직접 토크 제어 SPMSM의 최대 토크 <b>운전<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=705316790",
+			"description":"   Voltage, Trajectory, Synchronous motor, Stator, Maximum torque, Flux, Engineering, Direct torque control, Control theory, Constant p"
+		},
+		{
+			"title":"자동차가 스스로 <b>운전<\/b>하는 시대, 언제 가능해질까?",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887994079",
+			"description":"  목차\n자동차가 스스로 <b>운전<\/b>하는 시대, 언제 가능해질까? \/ 양훼영 1\n <b>운전<\/b>자 보조부터 스스로 <b>운전<\/b>까"
+		},
+		{
+			"title":"13[kV]급 수력발전기 고정자 권선의 <b>운전<\/b> 및 정지 중 진단시험 현장적용 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=733627179",
+			"description":"   Stator, Solid insulation, Partial discharge, Insulation resistance, Hydro generator, High voltage, Generator (circuit theory), Engin"
+		},
+		{
+			"title":"경제상황에 따른 글로벌 자동차 부품과 완성차 산업의 <b>운전<\/b>자본관리 전",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843058085",
+			"description":"Analysis of the Working Capital Management Strategies of Global Auto Parts and Vehicle Manufacturing Industries in Changing Economies "
+		},
+		{
+			"title":"음주<b>운전<\/b> 교통사고 피해 여성을 위한 미술치료 단일사례연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=856012801",
+			"description":"A Single Case Study on Art Therapy for a Woman Victimized by Drunk Driving Accident 본 연구는 음주<b>운전<\/b> 교통사고 피해 여"
+		},
+		{
+			"title":"<b>운전<\/b>능력 등급화 및 판단지표 도출을 통한 자율주행차 수용성 평가 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891405106",
+			"description":"A Study on the Evaluation of Autonomous Vehicle Acceptance by Rating Driving Ability and Deriving Judgment Indicators   자율주행차"
+		},
+		{
+			"title":"지능형 <b>운전<\/b> 가이던스 및 실시간 성능진단 스마트통합운영관리 시스템 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907392",
+			"description":""
+		},
+		{
+			"title":"철도장비 모의<b>운전<\/b>연습기 요구 성능에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879232906",
+			"description":"A Study on the Required Performance of Railway Equipment Simulators   철도장비, 모의<b>운전<\/b>연습기, 철도차량 <b>운전<\/b>면허 "
+		},
+		{
+			"title":"비상용 디젤동기발전시스템기반 독립<b>운전<\/b> 하이브리드에너지시스템 모",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=716966193",
+			"description":"   Simulation, Power (physics), Permanent magnet synchronous generator, MATLAB, Hybrid system, Engineering, Diesel generator, Diesel fu"
+		},
+		{
+			"title":"정서조절 방략을 반영한 <b>운전<\/b>자의 부정적 정서와 <b>운전<\/b>행동 간의 구조모",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77905407",
+			"description":"A Study on the Development of a Structural Equation Model between the Driver's Negative Emotion and Driving Behavior Based on Emotion R"
+		},
+		{
+			"title":"경제상황에 따른 글로벌 자동차 부품과 완성차 산업의 <b>운전<\/b>자본관리 전",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862891313",
+			"description":"Analysis of the Working Capital Management Strategies of Global Auto Parts and Vehicle Manufacturing Industries in Changing Economies "
+		},
+		{
+			"title":"주행시뮬레이터를 활용한 보행자 돌발 횡단 상황에서의 고위험 <b>운전<\/b>자 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865533420",
+			"description":"The Effect Analysis of Safe Driving Education for High-Risk Driver Groups in Sudden Pedestrian Crossing Situation Using a Driving Simul"
+		},
+		{
+			"title":"온수용 이중관 열교환기의 열유동 특성을 이용한 최적<b>운전<\/b> 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822341967",
+			"description":"Study on Optimal Operation using Characteristics of Thermal Flow of Double Tube-type Heat Exchanger for Hot Water 열교환기는 가"
+		},
+		{
+			"title":"기능시험장을 활용한 고령<b>운전<\/b>자 <b>운전<\/b>능력 평가방법 개발 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887601154",
+			"description":"A Study on Evaluation Method for Older Drivers Driving Ability Using Driving Course Test Site 고령<b>운전<\/b>자를 대상으로 하는 "
+		},
+		{
+			"title":"텍스트마이닝을 활용한 <b>운전<\/b>재활시뮬레이터 관련 해외연구 동향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890095074",
+			"description":"An Analysis of Overseas Research Trends on Driving Rehabilitation Simulator Using Text Mining 본 연구는 텍스트마이닝(Text Min"
+		},
+		{
+			"title":"뇌졸중 후 편마비 <b>운전<\/b>자의 <b>운전<\/b> 경험에 관한 현상학적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116474650",
+			"description":"The Phenomenological Study on Driving Experience of the Drivers With Stroke 목적 : <b>운전<\/b>을 하고 있는 뇌졸중 <b>운전<\/b>자를 대"
+		},
+		{
+			"title":"교통안전을 위한 고령자 <b>운전<\/b>면허 관리 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=829990714",
+			"description":"A Study on a Driver’s License Management Plan of Elder for Traffic Safety 우리나라의 전반적인 교통사고 피해 추세와"
+		},
+		{
+			"title":"교통안전을 위한 고령자 <b>운전<\/b>면허 관리 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822315058",
+			"description":"A Study on a Driver’s License Management Plan of Elder for Traffic Safety 우리나라의 전반적인 교통사고 피해 추세와"
+		},
+		{
+			"title":"태양광 발전 시스템 연계 그린수소 생산의 <b>운전<\/b> 연구 리뷰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878939632",
+			"description":"Review on Operational Research of Green Hydrogen Production with Solar Power System   Hydrogen(수소), Solar power system(태양광발"
+		},
+		{
+			"title":"알코올이 정신운동 및 <b>운전<\/b>행태에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57811625",
+			"description":"The Effects of Alcohol on Psychomotor Skill and Driving Behaviors 국내 2010년도 음주<b>운전<\/b> 교통사고는 28,641건으로 전체"
+		},
+		{
+			"title":"도로 유형과 <b>운전<\/b>자 연령대에 따른 <b>운전<\/b> 시뮬레이터 멀미 차이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865843012",
+			"description":"The Effects of Road Type and Driver’s Age on Simulator Sickness 본 연구는 <b>운전<\/b> 시뮬레이션 상황에서 <b>운전<\/b>자가 경험"
+		},
+		{
+			"title":"난폭･보복<b>운전<\/b> 대응을 위한 입법적 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638454",
+			"description":"The legislative adjustment for the prevention of the reckless driving including road rage in Korea The aim of this thesis is to analyze"
+		},
+		{
+			"title":"자동<b>운전<\/b> 도시철도차량의 <b>운전<\/b>특성을 고려한 절연구분장치 이론적 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=739561749",
+			"description":"   Structural engineering, Section (archaeology), Proper length, Power (physics), Pantograph, Line (geometry), Interval (mathematics), "
+		}
+	]
+}

@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:22 +0900",
+	"total":557481,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>전기<\/b>학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4395",
+			"description":""
+		},
+		{
+			"title":"조명·<b>전기<\/b>설비학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4747",
+			"description":""
+		},
+		{
+			"title":"<b>전기<\/b>전자재료학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4388",
+			"description":""
+		},
+		{
+			"title":"<b>전기<\/b>화학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4428",
+			"description":""
+		},
+		{
+			"title":"<b>전기<\/b>전자학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4391",
+			"description":""
+		},
+		{
+			"title":"Electrospun core-shell fibers for robust silicon nanoparticle-based lithium ion battery anodes =",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=149524750",
+			"description":"Electrospun core-shell fibers for robust silicon nanoparticle-based lithium ion battery anodes. Because of its unprecedented theoretica"
+		},
+		{
+			"title":"E²M-<b>전기<\/b> 전자와 첨단 소재(구 <b>전기<\/b>전자재료)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4383",
+			"description":""
+		},
+		{
+			"title":"<b>전기<\/b>의 세계",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1065268",
+			"description":""
+		},
+		{
+			"title":"<b>전기<\/b>저널",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1053008",
+			"description":""
+		},
+		{
+			"title":"<b>전기<\/b>학회논문지 C권",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127175",
+			"description":""
+		},
+		{
+			"title":"<b>전기<\/b>자동차 전력연계시스템의 리뷰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651417591",
+			"description":"Review of Electric Vehicle to Grid System Whilst vehicle-to-every (V2X) is still at a research and development phase, we are nearing th"
+		},
+		{
+			"title":"<b>전기<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127179",
+			"description":""
+		},
+		{
+			"title":"대한임상<b>전기<\/b>생리학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=59264",
+			"description":""
+		},
+		{
+			"title":"대한근전도 <b>전기<\/b>진단의학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=8910",
+			"description":""
+		},
+		{
+			"title":"인공지능 기반 4WD <b>전기<\/b>자동차 동력분배 시스템 제어 최적화 알고리즘 개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650607952",
+			"description":"Development of artificial intelligence based optimal power-distribution management algorithm for 4WD electric vehicles  표제지\n국"
+		},
+		{
+			"title":"중아예대4종삼림조락물량、조성、동태급기주<b>전기<\/b> (中亚热带4种森林凋",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=709403179",
+			"description":""
+		},
+		{
+			"title":"<b>전기<\/b>학회논문지ABCD",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127178",
+			"description":""
+		},
+		{
+			"title":"<b>전기<\/b>분해공정을 이용한 유기물저감 및 수소 생산을 위한 최적 조건에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651417626",
+			"description":"A Study on Optimal Conditions for Organic Matter Reduction and Hydrogen Production Using Electrolysis Process In this study, optimizati"
+		},
+		{
+			"title":"노년기 우울에 영향을 미치는 종단적 요인： <b>전기<\/b>·후기 노인의 비교를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291263167",
+			"description":"The Longitudinal Factors related to the Depression of the Korean Elderly：Comparison of younger-old and older-old 본 연구에서는 "
+		},
+		{
+			"title":"국민안전 강화 및 <b>전기<\/b> 안전관리시스템 마련 : '<b>전기<\/b>안전관리법'[시행 202",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898565788",
+			"description":"  목차\n국민안전 강화 및 <b>전기<\/b> 안전관리시스템 마련 : '<b>전기<\/b>안전관리법'[시행 2021.4.1.] \/ 박민선 1\n [머리"
+		},
+		{
+			"title":"<b>전기<\/b>설비",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2513950",
+			"description":""
+		},
+		{
+			"title":"경량화를 위한 <b>전기<\/b>자동차 로터 샤프트의 구조해석에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561706787",
+			"description":"A Study on the Structural Analysis of Electric Vehicle Rotor Shaft for Light-Weight A study has been conducted on the structural analys"
+		},
+		{
+			"title":"제주특별자치도 <b>전기<\/b>차 충<b>전기<\/b> 전력사용량 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891405060",
+			"description":"Analysis of Electrical energy for Electric Vehicle Charger in Jeju  I. 서론\nII. 제주지역 <b>전기<\/b>차충<b>전기<\/b> 전력사용량 데"
+		},
+		{
+			"title":"비상발<b>전기<\/b> 보호용 원판형 지락과전류계<b>전기<\/b>의 고조파영향에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=703213299",
+			"description":"   Relay, Protective system, Power (physics), Overcurrent, Harmonics, Generator (circuit theory), Engineering, Electrical network, Elec"
+		},
+		{
+			"title":"하이브리드 <b>전기<\/b>추진시스템의 축전지 충․방전 특성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561917147",
+			"description":"Charging and Discharging Characteristics Analysis of a Battery for a Hybrid Electric Propulsion System 본 논문에서는 엔진 구"
+		},
+		{
+			"title":"학령<b>전기<\/b>와 학령기 아동에서의 아토피 피부염 유병률과 위험인자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=672668690",
+			"description":"   Pediatrics, Medicine, Logistic regression, Lifetime prevalence, Disease, Demography, Atopic dermatitis, Asthma, Allergy "
+		},
+		{
+			"title":"<b>전기<\/b>자동차 모터 유냉식 방열성능 향상을 위한 열전달 해석 및 최적화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651443307",
+			"description":"HEAT TRANSFER ANALYSIS AND OPTIMIZATION FOR IMPROVING OIL COOLING PERFORMANCE OF THE ELECTRIC VEHICLE MOTOR This paper presents the hea"
+		},
+		{
+			"title":"학령<b>전기<\/b>와 학령기 아동에서의 아토피 피부염 유병률과 위험인자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420183831",
+			"description":"Prevalence and Risk Factors for Atopic Dermatitis in Pre-school and School Aged Children Purpose: This study was done to estimate the p"
+		},
+		{
+			"title":"일본 사국지역 조선조 <b>전기<\/b> 불화 조사 연구 (日本 四國地域 朝鮮朝 前期 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74872710",
+			"description":" 조선조 <b>전기<\/b> 불화는 불화연구의 필수적 자료임에도 불구하고 국내에는 거의 없으나 四國地域에는 22\n"
+		},
+		{
+			"title":"조선<b>전기<\/b> 금선묘아미타삼존도 일례 (朝鮮前期 金線描阿彌陀三尊圖 一例",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41593525",
+			"description":"朝鮮前期 金線描阿彌陀三尊圖 一例  목차\n조선<b>전기<\/b> 금선묘아미타삼존도 일례 \/ 鄭于澤 1\n [머리글] 1\n 1"
+		},
+		{
+			"title":"정분태간예APP\/PS1<b>전기<\/b>인소서(아이자해묵병모형)적인지공능 (丁苯酞干预A",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=671182840",
+			"description":""
+		},
+		{
+			"title":"청동기시대 <b>전기<\/b> 주거양상과 가구발달주기 : 호서지역 역삼동 및 흔암리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45702129",
+			"description":"  목차\n청동기시대 <b>전기<\/b> 주거양상과 가구발달주기 : 호서지역 역삼동 및 흔암리유형 취락을 중심으로 "
+		},
+		{
+			"title":"우리나라 <b>전기<\/b>전자산업의 수출경쟁력 분석과 시사점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13994796",
+			"description":"An Empirical Analysis on the Export Competitiveness of Korean Electric &amp; Electronic Industry 본 논문의 목적은 <b>전기<\/b>전자산업"
+		},
+		{
+			"title":"항공기 <b>전기<\/b>추진시스템 기술 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187940640",
+			"description":"Technology trends on the electric propulsion system for aircraft  목차\n항공기 <b>전기<\/b>추진시스템 기술 동향 = Technology tre"
+		},
+		{
+			"title":"위양<b>전기<\/b>인T2A-1수도90천대대서장도건강적영향 (喂养转基因T2A-1水稻90天",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=112449732",
+			"description":"Effects of Genetically Modified T2A-1 Rice on the GI Health of Rats after 90-day Supplement Bacillus thuringiensis insecticidal toxin ("
+		},
+		{
+			"title":"<b>전기<\/b> 렌터카 이용 만족도가 <b>전기<\/b>차 구매에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887306473",
+			"description":"Effect of Satisfaction with the EV Rent-a-car on the Purchase of the EV 본 연구는 <b>전기<\/b>차를 렌트한 이용자의 만족도가 "
+		},
+		{
+			"title":"한국<b>전기<\/b>전자재료학회 뉴스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896911123",
+			"description":"KIEEME News    "
+		},
+		{
+			"title":"제6회 한국<b>전기<\/b>전자재료학회 재료사진공모전 수상작",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896911122",
+			"description":""
+		},
+		{
+			"title":"마이크로 볼로미터 초점면 배열에서 <b>전기<\/b>-열적 피드백 현상이 신호에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=752174647",
+			"description":"   Voltage, Transient (oscillation), Thermal conductivity, Signal, Responsivity, Materials science, Electronic engineering, Dynamic ran"
+		},
+		{
+			"title":"<b>전기<\/b> 자동차 계통 연계 시 BESS의 협조제어를 이용한 전력품질 향상 대책 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=711062208",
+			"description":"   Voltage, Power quality, Power control, Load factor, Engineering, Energy storage, Electronic engineering, Electric power system, Cont"
+		},
+		{
+			"title":"안전식별등을 장착한 초소형<b>전기<\/b>차의 도로주행 안전성 판단 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891405083",
+			"description":"A Study on the Road Safety of Micro Car with Safety Identification Lamp   안전식별등, 초소형<b>전기<\/b>차, 시인성, 도로주행 "
+		},
+		{
+			"title":"AZO 박막의 <b>전기<\/b>전도특성 및 필름형 염료 태양전지의 광전 변환 특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=669081580",
+			"description":"   Nuclear chemistry, Materials science "
+		},
+		{
+			"title":"한국형 부모양육태도 검사를 이용한 학령<b>전기<\/b> 아동 아버지의 양육태도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420183841",
+			"description":"Child-rearing Attitudes of Fathers of Preschool Children: Korean Parent As A Teacher Inventory Purpose: The purpose of this study was t"
+		},
+		{
+			"title":"<b>전기<\/b> 자동차 긴급 충전서비스 데이터셋 표준 개발을 위한 기초 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891405163",
+			"description":"Basic Study on the Development of the Data Set Standard for Electric Vehicle Emergency Charging Service   스마트시티, <b>전기<\/b> 자"
+		},
+		{
+			"title":"중도자간<b>전기<\/b>병발태반조박적특정급모영결국분석 (重度子痫前期并发胎",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=721115768",
+			"description":"   Traditional medicine, Medicine "
+		},
+		{
+			"title":"우언의 전통과 조선<b>전기<\/b> 몽유기 (寓言의 전통과 조선<b>전기<\/b> 夢遊記)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45697182",
+			"description":"  목차\n우언의 전통과 조선<b>전기<\/b> 몽유기 \/ 윤주필 1\n I. 서론 1\n  1. 문제제기 1\n  2. 연구사 검토 3\n II. 우언"
+		},
+		{
+			"title":"통신시장의 특성과 <b>전기<\/b>통신사업법상의 공정경쟁 관련 사후규제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45698398",
+			"description":"  목차\n통신시장의 특성과 <b>전기<\/b>통신사업법상의 공정경쟁 관련 사후규제 \/ 김희수 1\n 국문초록 1\n I. 개"
+		},
+		{
+			"title":"구강보건교육이 학령<b>전기<\/b> 아동의 구강보건지식과 구강위생상태에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=668168726",
+			"description":"   Nursing, Medicine, Health care, Dental hygiene, Dental health, Day care center "
+		},
+		{
+			"title":"제3전극에 의한 전계변화가 수중 <b>전기<\/b>물리화학적 특성에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=667738048",
+			"description":"   Working electrode, Standard hydrogen electrode, Standard electrode potential, Reversible hydrogen electrode, Reference electrode, Qu"
+		},
+		{
+			"title":"<b>전기<\/b>투석 시스템의 이온교환막의 부분 마스킹에 따른 이온 전달 및 <b>전기<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887307657",
+			"description":"Study on Ion Transport and Electroconvection for Partially Masked Ion Exchange Membrane in Microfluidic Electrodialysis <b>전기<\/b>투석은"
+		},
+		{
+			"title":"기관사의 각성상태 평가를 위한 소형 피부<b>전기<\/b>활성도 측정 시스템 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=716755451",
+			"description":"   State (computer science), Simulation, Signal, Set (psychology), Psychology, Interval (mathematics), Human error, Event (probability "
+		},
+		{
+			"title":"토픽모형을 이용한 중국 <b>전기<\/b>차 산업의 기술 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891365580",
+			"description":" 본 연구는 중국 <b>전기<\/b>차 산업의 기술 수준을 텍스트마이닝 기법인 토픽 모형을 통해 분석한다. 구체적"
+		},
+		{
+			"title":"<b>전기<\/b> 렌터카 이용 만족도가 <b>전기<\/b>차 구매에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887601157",
+			"description":"Effect of Satisfaction with the EV Rent-a-car on the Purchase of the EV 본 연구는 <b>전기<\/b>차를 렌트한 이용자의 만족도가 "
+		},
+		{
+			"title":"조선 <b>전기<\/b>의 경서 해석과 퇴계의 「시석의」 (朝鮮 前期의 經書 解釋과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10614334",
+			"description":"  목차\n朝鮮 前期의 經書 解釋과 退溪의 『詩釋義』 \/ 崔錫起 1\n I. 머리말 1\n II. 조선 <b>전기<\/b>의 경서 해석 "
+		},
+		{
+			"title":"CNT <b>전기<\/b>분해를 이용한 돈사폐수 3차 처리특성 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651442066",
+			"description":"Evaluation of Tertiary treatment Characteristics of Livestock Wastewater Using Carbon Nano Tube Electrolysis Livestock wastewater has a"
+		},
+		{
+			"title":"한국<b>전기<\/b>전자재료학회 뉴스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890142708",
+			"description":"KIEEME News    "
+		},
+		{
+			"title":"애구각인소대APP\/PS-1쌍<b>전기<\/b>인AD소서흉중DNA、단백질、지질양화응격적영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=697267168",
+			"description":""
+		},
+		{
+			"title":"인터리브 방식을 이용한 <b>전기<\/b>자동차용 고효율 승압형 양방향 DC\/DC 컨버",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=752972697",
+			"description":"   Voltage, Leakage inductance, Forward converter, Flyback converter, Engineering, Electronic engineering, Ćuk converter, Charge pump,"
+		},
+		{
+			"title":"학령<b>전기<\/b> 아동의 사고예방을 위한 안전교육 프로그램 개발 및 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10983675",
+			"description":"Development and Effect of Safety Education Program in Preschooler   학령<b>전기<\/b>아동, 사고예방, 안전교육프로그램, 학령"
+		},
+		{
+			"title":"<b>전기<\/b>인식품안전성적법률사변——“무죄추정”선시“유죄추정” (转基",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=707360507",
+			"description":""
+		},
+		{
+			"title":"<b>전기<\/b>구동 트랙터의 연구 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896915423",
+			"description":"Research Trends of Electric Tractor 최근 환경문제가 대두됨에 따라 오염 물질 배출 감소는 전세계적으로 큰 "
+		},
+		{
+			"title":"지방<b>전기<\/b>、집체기억여국가인동——이황포군교구지급기참관자위중심적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=748778864",
+			"description":""
+		},
+		{
+			"title":"고려후기~조선<b>전기<\/b> 면역승의 증가와 도첩제 시행의 성격 (고려후기~조선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77897915",
+			"description":"The Population Increase of the Corvee-exempted Monks &amp; Characteristics of the Enforcement of Dochubje(度牒題) during the Period from"
+		},
+		{
+			"title":"조선<b>전기<\/b> 선묘불화;순금화 (조선<b>전기<\/b> 線描佛畵;純金畵)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17533979",
+			"description":"  목차\n조선<b>전기<\/b> 선묘불화 : 순금화 \/ 朴銀卿 1\n 1. 머리말 1\n 2. 선묘불화의 성립 2\n 3. 화법상의 특징 5\n 4."
+		},
+		{
+			"title":"보정시북삼배관랑<b>전기<\/b>공정설계 (保定市北三环管廊电气工程设计)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=827416303",
+			"description":"Electrical engineering design of north third ring utility tunnel in baoding 电气工程是管廊最重要的附属设施.本文结合"
+		},
+		{
+			"title":"수소 <b>전기<\/b>자동차의 사용 후 안전관리 및 재사용·재활용 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907415",
+			"description":"Strategy for Safe Management, Reuse and Recycling of the Spent Fuel Cell Electric Vehicle   수소 <b>전기<\/b>자동차, 연료전지 스택"
+		},
+		{
+			"title":"<b>전기<\/b>비저항 탐사와 무수보링을 이용한 국내 필 댐 코어존의 건전성 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=156143125",
+			"description":"Structural-Health Evaluation for Core Zones of Fill Dams in Korea using Electrical Resistivity Survey and No Water Boring Method 본 "
+		},
+		{
+			"title":"자삼순지질체혹상규자삼순연합S-1치료진<b>전기<\/b>위암:약대동력학、요효급",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=712191557",
+			"description":""
+		},
+		{
+			"title":"유기성 폐기물에서 발생하는 악취물질의 <b>전기<\/b>화학적 처리 공정에서 전",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907514",
+			"description":"The correlation between characteristics of electrodes and oxidation kinetic constant of odorant generated from organic waste using elec"
+		},
+		{
+			"title":"20세기 <b>전기<\/b> 구어 자료의 격조사 실현 양상에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=175280655",
+			"description":"The study on the case markers of spoken language in the former part of 20th century 이 논문의 목적은 20세기 <b>전기<\/b> 구어 자"
+		},
+		{
+			"title":"<b>전기<\/b>차의 제품마케팅 소구점에 대한 가중치 분석: 대구지역 Mercedes-Benz ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601684",
+			"description":"Analysis of the Weights for the Product Marketing Appeal Points of an Electric Vehicle with an Emphasis on the Viewpoint of Mercedes-Be"
+		},
+		{
+			"title":"석재와 거리에 따른 영국 <b>전기<\/b>구석기 유물의 고찰 : 태임즈강 상류와 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17576224",
+			"description":"  목차\n석재와 거리에 따른 영국 <b>전기<\/b>구석기 유물의 고찰 : 태임즈강 상류와 중류지역의 주요 유적지"
+		},
+		{
+			"title":"방향성 강판을 적용한 <b>전기<\/b>자동차용 매입형 영구자석 동기전동기 설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897374111",
+			"description":"Design of the Interior Permanent Magnet Synchronous Motor for Electric Vehicles Using Grain-Oriented Electrical Steel In this paper, th"
+		},
+		{
+			"title":"가축분뇨 혐기성소화 탈리액의 질소·인 분리를 위한 <b>전기<\/b>투석 공정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907464",
+			"description":"Electrodialysis process for nitrogen and phosphorus seperation from anaerobic digestate of livestock wastewater   가축분뇨, 혐기"
+		},
+		{
+			"title":"빌딩 유형 별 차량 운행패턴 모델링과 유연한 빌딩 가이드 기반 <b>전기<\/b>차 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562376882",
+			"description":"Vehicle-to-Building Availability Analysis based on the Flexible Building Guide and the Vehicle Fleet Modeling Associated with the Build"
+		},
+		{
+			"title":"미래형 신개념 <b>전기<\/b>추진선박 기술",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879419074",
+			"description":"New Concept Electric Powered Ship Technology of the Future 본 원고에서는 산업선박의 주요이슈를 고찰하고, 한국전"
+		},
+		{
+			"title":"월간<b>전기<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3303573",
+			"description":""
+		},
+		{
+			"title":"학령<b>전기<\/b> 아동과 로봇애완동물의 놀이 상호작용 사례분석 : 예비연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18515092",
+			"description":"A Case Study on Preschool Children-Robot Pet Play Interaction: Pilot Stu  목차\n학령<b>전기<\/b> 아동과 로봇애완동물의 놀이 "
+		},
+		{
+			"title":"<b>전기<\/b>누전과 화재보호 대책시스템",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896615660",
+			"description":"  1. <b>전기<\/b>누전 방재를 위한 법적, 사회적 배경\n2. 누설전류 분석과 누전차단 기술 로드 맵\n3. 누전차단과"
+		},
+		{
+			"title":"조선 <b>전기<\/b> 음악사 연구의 성과와 쟁점 - 2000년대 이후 연구를 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890989893",
+			"description":"  I. 머리말\nII. 조선 <b>전기<\/b> 음악사 연구의 성과\nIII. 조선 <b>전기<\/b> 음악사 연구의 쟁점\nIV. 맺음말\n참고문헌\n"
+		},
+		{
+			"title":"탄성파 속도와 <b>전기<\/b>비저항 자료의 지구통계학적 복합해석에 의한 암반",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13261439",
+			"description":"Geostatistical Integration of Seismic Velocity and Resistivity Data for Probabilistic Evaluation of Rock Quality 암반등급 평가를"
+		},
+		{
+			"title":"안전교육이 학령<b>전기<\/b> 아동의 사고경향 예측에 미치는 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10922620",
+			"description":"The Effect of Safety Education on Accident Proneness Prospect in Preschooler   간호학, 안전교육, 학령<b>전기<\/b>, 아동, 학령전"
+		},
+		{
+			"title":"중국 <b>전기<\/b>자동차 기업들의 유형 분류와 전략집단",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289079775",
+			"description":"Chinese Electric Vehicle (EV) Makers’ Type Classification and Strategic Group 세계적으로 <b>전기<\/b>자동차는 자동차 산업 혁"
+		},
+		{
+			"title":"조선<b>전기<\/b>의 제사 담론―인정과 교감의 사례를 중심으로― (조선<b>전기<\/b>의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888278558",
+			"description":"Discourse on Ancestral rites on Early Joseon―Focusing on the cases of Empathy and Communion― 15세기에서 17세기 전반에 이"
+		},
+		{
+			"title":"<b>전기<\/b>통신사업법상 통신자료 제공제도의 문제점과 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74858015",
+			"description":"The Problem and Improvement of Communication Data in the Telecommunications Business Act 최근에 우리나라에서는 개인정보"
+		},
+		{
+			"title":"<b>전기<\/b>에너지저장장치(EES) 실시간 상태 모니터링을 위한 실증단지 구축 방",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879294007",
+			"description":"A Test-bed for Real-time Condition Monitoring of Electrical Energy Storage 본 논문은 국내 ESS 화재사고 조사활동에서 제"
+		},
+		{
+			"title":"자기<b>전기<\/b>복합체의 비공진 및 공진 상태에서의 자기<b>전기<\/b> 결합 특성 평가 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638439",
+			"description":"Demonstration of Magnetoelectric Coupling Measurement at Off-Resonance and Resonance Conditions in Magnetoelectric Composites Magnetoel"
+		},
+		{
+			"title":"탈냉<b>전기<\/b> 일본의 대국(大國) 구상 : 보통국가론과 평화국가론의 국가구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12497927",
+			"description":"  목차\n탈냉<b>전기<\/b> 일본의 대국(大國) 구상 : 보통국가론과 평화국가론의 국가구상 비교를 중심으로 \/ 박"
+		},
+		{
+			"title":"인간존재에 대한 근본적 물음: 필립 딕의 『안드로이드는 <b>전기<\/b>양을 꿈꾸",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=46979849",
+			"description":"A Fundamental Question on Human Beings in Philip K. Dick’s Do Androids Dream of Electric Sheep? Unlike conventional science fiction, "
+		},
+		{
+			"title":"기술에 기반한 자동차 외형 변천사와 근미래 상용 <b>전기<\/b> 세단 외형디자인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898271262",
+			"description":"Research on Technology-Based Transformation of Automotive Appearance and the Trend of Electrical Sedan in the Near Future 요즘 자동"
+		},
+		{
+			"title":"기우극단혼합지（BSA）<b>전기<\/b>인조중측서적감감형유채유한화서기인정위 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=682567415",
+			"description":""
+		},
+		{
+			"title":"BESS 모델링 및 <b>전기<\/b>철도 급전계통에의 전압보상 적용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=738073199",
+			"description":"   Voltage compensation, Voltage, Static VAR compensator, MATLAB, Harmonic, Grid, Engineering, Electrical engineering, Compensation (en"
+		},
+		{
+			"title":"중세 여성폭력과 여아유기에 대한 기독교의 정당화 메커니즘에 대한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638711",
+			"description":"A Study on the Justification Mechanism of Church for Domestic Violence against Women and Female Child Abandonment in the Middle Ages: F"
+		},
+		{
+			"title":"<b>전기<\/b>저장장치 국내 시설기준 개정에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880854306",
+			"description":"Study of Korea Electro-technical Regulation Revision for Energy Storage System 국내외 리튬이온 배터리를 활용한 <b>전기<\/b>저"
+		},
+		{
+			"title":"조선<b>전기<\/b> 문소전의 성립과 그 운영 (조선<b>전기<\/b> 文昭殿의 성립과 그 운영)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290230829",
+			"description":"A study on the Sacrificial rites of Munsojeon in the early Choson dynasty This study analyzed the process of establishing Wonmyo(the Ro"
+		},
+		{
+			"title":"유럽 <b>전기<\/b>통신 표준기구(ETSI)의 표준 특허 현황 및 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=699263846",
+			"description":""
+		},
+		{
+			"title":"일본 <b>전기<\/b>설비기술기준 제·개정 동향과 국내 현황 비교에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878283204",
+			"description":"A comparative study on the Electrotechnical Regulations between Korea and Japan 우리나라는 원활한 <b>전기<\/b>공급 및 <b>전기<\/b>설비"
+		},
+		{
+			"title":"<b>전기<\/b>자동차용 구동 모터의 특허 동향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880232527",
+			"description":"Patent Trend Analysis of Traction Motor for Electric Vehicle 최근 이슈가 되고 있는 <b>전기<\/b>자동차용 구동 모터와 관련"
+		},
+		{
+			"title":"저압직류<b>전기<\/b>설비 표준화 정책 도입의 필요성 및 제안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=719119561",
+			"description":"   Standardization, Reliability engineering, Power (physics), Low voltage, International standard, High-voltage direct current, Enginee"
+		},
+		{
+			"title":"<b>전기<\/b>저항 용접 시 발생하는 지그의 비정상 마모현상 원인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=697410046",
+			"description":"   Nail (fastener), Metallurgy, Inflow, High current density, Flow distribution, Fixture, Engineering, Electric resistance welding, Ele"
+		}
+	]
+}

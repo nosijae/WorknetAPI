@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:33 +0900",
+	"total":36190,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"감정노동자의 <b>직무<\/b><b>환경<\/b>과 스트레스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78349615",
+			"description":" 인간 본연의 속성인 &apos;감정&apos;을 노동과정 속에서 교환가치로 추상화하여 상품으로 판매하는 특별한 유"
+		},
+		{
+			"title":"사회복지전담공무원 소진에 영향을 미치는 요인 - 개인적 특성, <b>직무<\/b>환",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13703625",
+			"description":"Determinants for the Burn-out of Social Welfare Government officials: Personal Characteristics, Work Environment Characteristics and Pr"
+		},
+		{
+			"title":"임금근로자의 <b>직무<\/b><b>환경<\/b>이 <b>직무<\/b>만족도, 불평행동 및 충성도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45673331",
+			"description":"The Impact of Job Environment on the Job Satisfaction, Complaining Behavior and Loyalty of Labor 본 연구는 임금근로자들을 "
+		},
+		{
+			"title":"요양보호사의 <b>직무<\/b><b>환경<\/b>이 고객지향성에 미치는 영향 : 충북지역 노인요",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61700367",
+			"description":"The Effects of Working Environment on Client-Oriented Tendency of Care Workers in Long-Term Care Facilities for the Elderly-Focused on "
+		},
+		{
+			"title":"청소년상담사 개인 및 <b>직무<\/b><b>환경<\/b>특성에 따른 소진 차이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58065661",
+			"description":"Difference in Youth Counselors’ Burnout according to Personal and Job Environment Characteristics 본 연구는 전국의 청소년"
+		},
+		{
+			"title":"요양보호사의 조직<b>환경<\/b>과 <b>직무<\/b>만족간의 관계에 대한 심리적 임파워먼트",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61700389",
+			"description":"The caretakers Mediating Effect of Psychological Empowerment on the Relationship between Job Environment and Job Satisfaction 본 연"
+		},
+		{
+			"title":"노인요양공동생활가정 요양보호사의 <b>직무<\/b><b>환경<\/b> 및 <b>직무<\/b>스트레스가 이직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186827472",
+			"description":"An Impact of Job Environment and Job Stress on Turnover Intention in Care Helpers Working for Senior Group Homes - Focusing on Daegu Me"
+		},
+		{
+			"title":"학교상담자의 자기효능감과 <b>직무<\/b><b>환경<\/b>위험요소가 소진에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561758809",
+			"description":"The Influence of Self-Efficacy and Risk Factors at Job Environment on Burnout in School Counselors 본 연구는 학교상담자의 소"
+		},
+		{
+			"title":"국제회의 종사자의 <b>직무<\/b><b>환경<\/b>이 <b>직무<\/b>스트레스와 <b>직무<\/b>만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561852759",
+			"description":"The effect of work environment on job stress and satisfaction- A case of professional convention organizer This study aims to examine t"
+		},
+		{
+			"title":"사회복지담당공무원의 전문성, <b>직무<\/b><b>환경<\/b>, 소진에 관한 실태 및 지역별 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78377215",
+			"description":"A Study on the Condition and Regional Differences about the Professionalism, Work-Environment and Burn-out of Social-Welfare Officials "
+		},
+		{
+			"title":"영아보육교사의 <b>직무<\/b><b>환경<\/b>과 <b>직무<\/b>만족이 이직의도에 미치는 영향 - 경기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594028472",
+			"description":" 본 연구는 영아보육교사의 <b>직무<\/b><b>환경<\/b>과 <b>직무<\/b>만족이 이직의도에 미치는 영향을 분석하기 위해 시도되"
+		},
+		{
+			"title":"노인요양인력의 <b>직무<\/b>애착과 이직의도에 영향을 미치는 <b>직무<\/b><b>환경<\/b> 요인들",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45734769",
+			"description":"comparison study of job environmental factors on job affection and turnover intention among Japanese and Korean paid caregivers 본 연"
+		},
+		{
+			"title":"보조공학서비스 종사자의 근무<b>환경<\/b>이 <b>직무<\/b>만족과 이직의도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116465025",
+			"description":"Effect of Working Environment for Employees in Assistive Technology Services on Job Satisfaction and Turnover Intention 본 연구는 "
+		},
+		{
+			"title":"호텔리어의 <b>직무<\/b><b>환경<\/b>이 감정소진과 <b>직무<\/b>만족 그리고 이직의도에 미치는",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594869826",
+			"description":" 본 연구는 특급호텔 호텔리어의 <b>직무<\/b><b>환경<\/b>이 감정소진과 <b>직무<\/b>만족 그리고 이직의도에 미치는 영향을 "
+		},
+		{
+			"title":"응급실 간호사의 업무<b>환경<\/b>, <b>직무<\/b>만족도 및 이직의도 간의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77868792",
+			"description":"Relationships among Work Environment, Job Satisfaction and Turnover Intention of Nurses in an Emergency Department 연구목적: 본 "
+		},
+		{
+			"title":"외식 종사원의 <b>직무<\/b><b>환경<\/b>변화가 <b>직무<\/b>불안정성, 프리젠티즘, 이직의도에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897315664",
+			"description":"The Effect of Changes in the Job Environment on Job Insecurity, Presenteeism, and Turnover Intention of Restaurant Employees: For Moder"
+		},
+		{
+			"title":"<b>직무<\/b><b>환경<\/b>에서의 자기효능감의 예측변수에 대한 탐색적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11322415",
+			"description":"An exploratory nanlysis of the antecedents of self-efficacy in the work environment 이 연구의 목적은 작업<b>환경<\/b>에서 자기"
+		},
+		{
+			"title":"대학내 성희롱 고충상담원의 자기효능감, <b>직무<\/b><b>환경<\/b>, 사회적 지지가 소진",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61703528",
+			"description":"The Impact of Self-efficacy, Work Environment and Social Support on Burnout among Sexual Harassment Counselors 본 연구는 대학내 "
+		},
+		{
+			"title":"호텔 식음료부서 종사원의 <b>직무<\/b><b>환경<\/b>이 <b>직무<\/b>만족, 조직몰입 및 이직의도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=558807486",
+			"description":"The Effects of F&amp;B Service Employees&apos; Job Environment on Job Satisfaction, Organizational Commitment and Turnover Intention in Hotel Co"
+		},
+		{
+			"title":"관계적 <b>직무<\/b><b>환경<\/b>이 서비스 품질에 미치는 영향과 <b>직무<\/b>만족도의 매개효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78321697",
+			"description":"Effects of Service Quality on Relational Job Environment and mediation effects of Job satisfaction -Focucing on evaluation of Home Care"
+		},
+		{
+			"title":"요양보호사의 정서적 탈진 연구: 감정노동과 <b>직무<\/b><b>환경<\/b>의 상호작용효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232440080",
+			"description":"A Study of the Relationship between Emotional Labor and Emotional Exhaustion: the Moderating Effect of Emotional Display Rule and Suppo"
+		},
+		{
+			"title":"관종별 도서관 사서의 <b>직무<\/b><b>환경<\/b>요인과 <b>직무<\/b>만족도의 상관성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57605467",
+			"description":"A Study on Correlation between Work Environment Factors and Job Satisfaction of Librarians Working in Different Types of Libraries 본 "
+		},
+		{
+			"title":"항공사 아웃소싱 종사원의 <b>직무<\/b><b>환경<\/b>이 <b>직무<\/b>만족, 이직의도와 조직성과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594438354",
+			"description":" 본 연구는 한국지역 항공사 아웃소싱의 적용분야 등 점차 확대추세에 있는바, 아웃소싱 관계지속 요"
+		},
+		{
+			"title":"<b>직무<\/b><b>환경<\/b>과 감정노동이 <b>직무<\/b>스트레스, 이직의도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891402415",
+			"description":"The Effects of Job Environment and Emotional Labor on Job Stress and Turnover Intention : Focusing on private enterprises in Hebei Prov"
+		},
+		{
+			"title":"유아교육서비스 종사자의 <b>직무<\/b><b>환경<\/b> 인식이 <b>직무<\/b>만족 및 조직몰입에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897131157",
+			"description":"A Study on the Effect of Early Childhood Education Service Workers&apos; Work Environment Awareness on Job Satisfaction and Organizational C"
+		},
+		{
+			"title":"바리스타의 <b>직무<\/b><b>환경<\/b>요인에 따른 <b>직무<\/b>만족과 이직의도 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887336458",
+			"description":"Effects of Baristas&apos; Job Environment factors on Job Satisfaction and Turnover Intention  제 1 장  서  론  1\n 제 1 절 문제제기"
+		},
+		{
+			"title":"청소년지도사의 역량과 <b>직무<\/b><b>환경<\/b>이 소진에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889238034",
+			"description":"The Effects of Youth Instructors&apos; Competence and Job Environment on Their Burnout 본 연구의 목적은 청소년지도사의 역량"
+		},
+		{
+			"title":"종합병원 진료협력간호사의 전문직업성, 역할갈등, 근무<b>환경<\/b>이 <b>직무<\/b>배",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594817832",
+			"description":"Influence of Professionalism, Role Conflict and Work Environment in Clinical Nurses with Expanded Role on Job Enbeddedness 본 연구"
+		},
+		{
+			"title":"작은도서관 순회사서 <b>직무<\/b><b>환경<\/b> 개선방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889100845",
+			"description":"A Study on Improving Strategies of Itinerant Librarians’ Job Environment at Small Libraries 작은도서관은 양적으로 꾸준히"
+		},
+		{
+			"title":"중학교 스포츠클럽강사의 <b>직무<\/b><b>환경<\/b> 인식 및 이직의도의 인과관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562371073",
+			"description":"An Analysis on Job Environment awareness and Turnover Intension of Middle School Sports Club Activities Instructors 본 연구의 목"
+		},
+		{
+			"title":"학교사회복지사의 전문직 정체성에 미치는 요인: 개인특성요인과 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186123179",
+			"description":"A study on factors affecting the professional identity of school social worker 본 연구는 학교사회복지사들을 대상으로 "
+		},
+		{
+			"title":"유아체육지도자의 <b>직무<\/b><b>환경<\/b>에 따른 직업 소명의식 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897316121",
+			"description":"Job Calling Consciousness Early Childhood Physical Education Instructor Job Environment The purpose of this study is to identify the st"
+		},
+		{
+			"title":"일학습병행 학습근로자가 인식하는 <b>직무<\/b><b>환경<\/b>, 경력몰입과 <b>직무<\/b>성과 간",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881478251",
+			"description":"The Effect of Job Environment and Career Commitment on Job Performance of Korean Apprenticeships - Focused on the Mediating Effects of "
+		},
+		{
+			"title":"서울특별시 자치구청 소속 기록연구사의 <b>직무<\/b>특성 및 <b>직무<\/b><b>환경<\/b>에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595045858",
+			"description":" 기록연구사들이 기록관리업무를 효율적으로 수행하기 위해서는 <b>직무<\/b>가 조직화되고, <b>직무<\/b><b>환경<\/b>에서는"
+		},
+		{
+			"title":"공공기관에 근무하는 청소년상담사의 부정정서전염, <b>직무<\/b><b>환경<\/b>특성 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561768751",
+			"description":"The influence of negative emotional contagion, job circumstances, and compassion fatigue on burn-out amongst public institution youth c"
+		},
+		{
+			"title":"지역문화예술단체 종사자들의 <b>직무<\/b><b>환경<\/b>이 협력적 거버넌스에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877223961",
+			"description":"The Effects of Job Environment of Local Culture and Art Organizations on Collaborative Governance: Mediating Effect of Social Capital "
+		},
+		{
+			"title":"혈액투석 간호사의 언어폭력경험, 감정노동, 간호근무<b>환경<\/b>이 <b>직무<\/b>스트",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889239525",
+			"description":"The Effects of Verbal Abuse Experience, Emotional Labor and Nursing Practice Environment on Job Stress of Nurses in Hemodialysis Units "
+		},
+		{
+			"title":"영아교사의 <b>직무<\/b><b>환경<\/b>에 대한 인식이 자기개발 욕구에 미치는 영향: 셀프",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887309163",
+			"description":"The Effect of Infant Teacher&apos;s Perception of the Job Environment on Self-Development Needs: Focusing on the Mediating Effect of Self-Le"
+		},
+		{
+			"title":"연구논문(硏究論文) : 호텔연회부서의 <b>직무<\/b><b>환경<\/b>이 종사원의 조직몰입 및",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=54819759",
+			"description":"Effects of Job Environment of the Hotel Banquet on Organizational Commitment and Turnover Intention: Focused on Super Deluxe Hotels in "
+		},
+		{
+			"title":"중소벤처기업의 <b>직무<\/b><b>환경<\/b>이 조직몰입에 미치는 영향에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875541730",
+			"description":"A Study on the Effect of Small and Medium-sized Venture companies Job environment on Organizational Commitment: Focused on the Moderati"
+		},
+		{
+			"title":"엄동성위해생태<b>환경직무<\/b>범죄실증연구 (广东省危害生态环境职务犯罪实",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=840144128",
+			"description":" 从近年查办案件的情况来看,广东省生态环境监管领域存在思想认识不到位、环境污染危害后果难以实"
+		},
+		{
+			"title":"보육교사의 소명의식과 <b>직무<\/b><b>환경<\/b>이 영유아권리존중 보육실행에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873620005",
+			"description":"The Effect of Childcare Teacher’s Calling and Job environment on Care-giving Practice in Respecting Young Children’s Rights 본 연"
+		},
+		{
+			"title":"중소기업 <b>직무<\/b><b>환경<\/b>이 임직원의 이직의도에 미치는 영향에 관한 연구: 혁",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874518988",
+			"description":"A Study on the Factors Affecting the Job Environment of SMEs on Turnover Intention: Focused on the Moderating Effect of Innovation Acce"
+		},
+		{
+			"title":"<b>직무<\/b><b>환경<\/b>과 <b>직무<\/b>만족 간의 영향 관계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873327210",
+			"description":"A study on the relationship between job environment and job satisfaction: Applying the moderating effect of career development support "
+		},
+		{
+			"title":"중소 서비스기업의 <b>직무<\/b><b>환경<\/b>이 임직원의 조직 몰입에 미치는 영향에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=870463162",
+			"description":"A Study on the Factors Affecting the Job Environment of Small and Medium-sized Service Companies on Organizational Commitment 본 연"
+		},
+		{
+			"title":"호텔연회부서의 <b>직무<\/b><b>환경<\/b>이 종사원의 조직몰입 및 이직의도에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=498212882",
+			"description":"Effects of Job Environment of the Hotel Banquet on Organizational Commitment and Turnover Intention: Focused on Super Deluxe Hotels in "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b>스트레스와 이직의도의 관계에서 <b>직무<\/b><b>환경<\/b>의 조절효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843280670",
+			"description":"The Relationship between Job Stress and Turnover Intention: Moderating Effects of Job Environments of Child Care Teachers 본 연구는"
+		},
+		{
+			"title":"<b>직무<\/b><b>환경<\/b>과 <b>직무<\/b>만족 간의 영향 관계 연구 : 경력개발지원의 조절효과를",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843046200",
+			"description":"A study on the relationship between job environment and job satisfaction : Applying the moderating effect of career development support"
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b>스트레스와 이직의도의 관계에서 <b>직무<\/b><b>환경<\/b>의 조절효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765557390",
+			"description":"The Relationship between Job Stress and Turnover Intention: Moderating Effects of Job Environments of Child Care Teachers 본 연구는"
+		},
+		{
+			"title":"간호사의 환자관련 스트레스와 <b>직무<\/b>탈진의 관계에서 <b>직무<\/b><b>환경<\/b> 요인의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561502761",
+			"description":"Convergent Interaction Effects of Six Worklife Area on Relation between Nurse’s Patients related Stress and Burnout 본 연구는 임"
+		},
+		{
+			"title":"중소기업의 물리적 업무<b>환경<\/b>이 <b>직무<\/b>만족 및 <b>직무<\/b>성과에 미치는 영향 -개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=876979660",
+			"description":"Influences of Physical Work Environment on Job Satisfaction and Job Performance -Focusing on Personal Working, Co-Working and Amenity S"
+		},
+		{
+			"title":"호텔리어의 <b>직무<\/b><b>환경<\/b> 불만이 신체적 소진 및 정신적 소진에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291780714",
+			"description":"Dissatisfaction on job environment influencing hoteliers&apos; physical exhaustion and psychological exhaustion 본 연구의 목적은 호"
+		},
+		{
+			"title":"전문상담교사의 윤리적 의사 결정과 소진의 관계: 윤리적 실천 자기효능",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881045055",
+			"description":"The Relationship between Ethical Decision-Making and Burnout among School Counselors: A Mediating Effect of Ethical Practice Self-Effic"
+		},
+		{
+			"title":"지체부자유학교 교사의 <b>직무<\/b><b>환경<\/b> 인식이 교직헌신 및 교직적응탄력성에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186123235",
+			"description":"The Influence of Teachers’ Working Environment Perception at Special School for Physical Disabilities on their Commitment &amp; Teaching "
+		},
+		{
+			"title":"전문상담교사의 윤리적 의사 결정과 소진의 관계: 윤리적 실천 자기효능",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877221322",
+			"description":"The Relationship between Ethical Decision-Making and Burnout among School Counselors: A Mediating Effect of Ethical Practice Self-Effic"
+		},
+		{
+			"title":"어린이집 <b>직무<\/b><b>환경<\/b>과 교사-유아 상호작용의 관계에서 교사효능감의 매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822770260",
+			"description":"The Relationship between Job Environments and Teacher-Child Interactions: Mediating Effects of Teacher Efficacy of Child care Teachers "
+		},
+		{
+			"title":"선사 종사자의 <b>직무<\/b><b>환경<\/b>요인이 <b>직무<\/b>만족도와 이직의도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887702828",
+			"description":"The Effects of Job Environment factors on the Job Satisfaction and Turnover Intention in shipping company 2017년 한진해운이 파"
+		},
+		{
+			"title":"보육교사의 공감능력과 <b>직무<\/b>소진의 관계에 대한 <b>직무<\/b><b>환경<\/b>의 조절효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881523718",
+			"description":"Effect of Empathy on Burnout of Childcare Teachers: Focusing on Moderating Effects of Job Environments This study attempts to contribut"
+		},
+		{
+			"title":"어린이집 <b>직무<\/b><b>환경<\/b>과 교사-유아 상호작용의 관계에서 교사효능감의 매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822770815",
+			"description":"The Relationship between Job Environments and Teacher-Child Interactions: Mediating Effects of Teacher Efficacy of Child care Teachers "
+		},
+		{
+			"title":"보육교사의 정서노동과 이직의도: <b>직무<\/b><b>환경<\/b>의 조절효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561578403",
+			"description":"Child-care teachers’ emotional labor and their turnover intention: The moderating effect of job environment 연구목적: 본 연구"
+		},
+		{
+			"title":"항공사 객실승무원의 비행 스케줄에 따른 취항지 체류 시 <b>직무<\/b><b>환경<\/b>이 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873327216",
+			"description":"Effect of Airline Cabin Crew s Work Environment on Job Stress and Turnover Intention While Staying in Destinations Based on Flight Sche"
+		},
+		{
+			"title":"어린이집 교사의 <b>직무<\/b><b>환경<\/b>과 민감성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420723701",
+			"description":"A Study on Analysis of Working Environment and the Sensitivity of Childcare Center Teacher 본 연구는 어린이집에 근무하는 "
+		},
+		{
+			"title":"<b>직무<\/b><b>환경<\/b>과 적성이 보육교사의 <b>직무<\/b>만족도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842982192",
+			"description":"The effects of work environments and aptitude on childcare teachers’ job satisfaction 본 연구는 <b>직무<\/b><b>환경<\/b>과 적성이 보육"
+		},
+		{
+			"title":"남자간호사의 간호업무<b>환경<\/b> 및 <b>직무<\/b>공정성과 <b>직무<\/b>만족과의 관련성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594873637",
+			"description":"   <b>직무<\/b>만족, 간호업무<b>환경<\/b>, <b>직무<\/b>공정성, 남자간호사 "
+		},
+		{
+			"title":"요양보호사의 <b>직무<\/b><b>환경<\/b>에 따른 <b>직무<\/b>스트레스와 소진이 <b>직무<\/b>만족에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=678336333",
+			"description":"   Psychology, Job stress, Job satisfaction, Job burnout, Care giver, Applied psychology "
+		},
+		{
+			"title":"혈액투석 간호사의 언어폭력경험, 감정노동, 간호근무<b>환경<\/b>이 <b>직무<\/b>스트",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889987896",
+			"description":"The Effects of Verbal Abuse Experience, Emotional Labor and Nursing Practice Environment on Job Stress of Nurses in Hemodialysis Units "
+		},
+		{
+			"title":"요양보호사의 <b>직무<\/b> 스트레스, <b>직무<\/b><b>환경<\/b>특성이 이직 의도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=753260262",
+			"description":"A Study on the Influence of job Stress and Job Environment Characteristics on Turnover Intention 본 연구는 장기요양시설에 "
+		},
+		{
+			"title":"객실승무원의 <b>직무<\/b><b>환경<\/b>이 <b>직무<\/b>만족과 조직몰입에 미치는 영향: 국내 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874232524",
+			"description":"The Effects of Airline Cabin Crew’ Job environment on Job Satisfaction, Organizational Commitment: Focus on Full Service Carrier Purp"
+		},
+		{
+			"title":"학교급식 조리종사원의 <b>직무<\/b><b>환경<\/b>에 따른 <b>직무<\/b>만족도와 이직의도 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886737980",
+			"description":"A Study on Job Satisfaction and Turnover rate of School Cooking Staffs according to Working Environment: Focused on High Schools in Seo"
+		},
+		{
+			"title":"유아교사가 지각하는 <b>직무<\/b><b>환경<\/b>과 <b>직무<\/b>만족간의 관계에서 교사효능감의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651405445",
+			"description":"The Mediating Effects of Early Childhood Teachers’ Teacher Efficacy on the Relationship Between Work Environment and Job Satisfaction"
+		},
+		{
+			"title":"자기위로능력이 청소년상담사의 <b>직무<\/b><b>환경<\/b> 스트레스와 심리적 소진의 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594056358",
+			"description":" 본 연구는 자기위로능력이 청소년상담사의 <b>직무<\/b><b>환경<\/b> 스트레스와 심리적 소진의 관계에 미치는 매개 "
+		},
+		{
+			"title":"직업상담사의 <b>직무<\/b><b>환경<\/b>과 심리적 소진의 관계에서 자기격려의 조절효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843047191",
+			"description":"The Moderating Effect of Self-encouragement on the Relationship Between the Job Environment and Psychological Burnout of Vocational Cou"
+		},
+		{
+			"title":"다문화가정 방문지도사의 <b>직무<\/b><b>환경<\/b>과 자기효능감이 심리적 소진에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153940021",
+			"description":"The Effects of Work Environment, Self-Efficacy on Visiting Supervisors for Multicultural Families’s Psychological Burnout 본 연구"
+		},
+		{
+			"title":"보육교사의 소명의식과 <b>직무<\/b><b>환경<\/b>이 영유아권리존중 보육실행에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890021805",
+			"description":"The Effect of Childcare Teacher’s Calling and Job environment on Care-giving Practice in Respecting Young Children’s Rights 본 연"
+		},
+		{
+			"title":"모델리스트의 <b>직무<\/b>특성과 <b>직무<\/b><b>환경<\/b>이 <b>직무<\/b>만족 및 조직몰입에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186823845",
+			"description":"Effect of job characteristics and job environment of modelists on the job commitment and job satisfaction 연구배경  본 연구에"
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881560779",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891335337",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885180643",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865578821",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886996963",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889779637",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862854660",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890621910",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887054199",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874550621",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891099165",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896673112",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868831419",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890424436",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890809922",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871388036",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872875026",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887594627",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874133208",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898352994",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891239530",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862837245",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888762596",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888212196",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		},
+		{
+			"title":"보육교사의 <b>직무<\/b><b>환경<\/b>이 삶의 질에 미치는 영향 : 교사효능감과 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882894661",
+			"description":"  표제지\n목차\n국문초록 10\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 17\nII. 이론적 배경 18\n 1. "
+		}
+	]
+}

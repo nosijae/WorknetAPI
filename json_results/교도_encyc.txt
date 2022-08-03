@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:17 +0900",
+	"total":8688,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1065407&cid=40942&categoryId=33383",
+			"description":" 조선 전기 향교에 파견한 교관.  건국 무렵에는 각 주 ·부(州府)의 향교에만 삼관(三館:承文院 ·成均館 ·校書館) 권지(權知)로서 교수를 파견하고, 나머지 군현에는 그 지방에서 스승이 될 만한 사람을 뽑아... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=524489&cid=46615&categoryId=46615",
+			"description":" 고려와 조선시대 각 지방의 교육기관에 파견한 교관(학관)의 하나. [내용] 1127년(인종 5)에 처음으로 각 주의 향학에 2인씩 파견되었다. 그러나 그 이전 문종 때 최충(崔冲)이 설립한 사학(私學)과 예종 때의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110577&cid=50765&categoryId=50778",
+			"description":"〈원불교교헌〉 제2장 교단과 <b>교도<\/b>에서는 ‘본교의 교리를 신봉하는 <b>교도<\/b>로써 교단을 구성한다’고 제시하고 있다. <b>교도<\/b>를 교단 구성단위의 최초 인자로 보고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2726240&cid=55596&categoryId=55596",
+			"description":"[인문사회환경] • 용도 구분 : 보전녹지지역 • 지목 : 임야 • 타법에 의한 관리 현황 : 특별관리해역(해양환경관리법) \/ 연안관리지역계획(연안관리법) \/ 산업단지",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2374949&cid=50762&categoryId=51365",
+			"description":"종교를 믿는 사람. 신앙을 가진 사람. 신자(信者). 신도. → '신도'를 보라.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=82689&cid=41826&categoryId=41826",
+			"description":"고려•조선 시대 학교에서 학생들을 가르치던 선생.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%EB%8F%84",
+			"description":"<b>교도<\/b> 의 다른 뜻은 다음과 같다. <b>교도<\/b>(敎徒): 종교를 믿는 사람(신자) <b>교도<\/b>: 교정직 공무원의 계급 <b>교도<\/b>(敎導): 조선 전기의 향교에 판견한 교관 <b>교도<\/b>작업 <b>교도<\/b>역: 일본 도쿄도 세타가야구에 위치한 철도역 <b>교도<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>역",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%EB%8F%84%EC%97%AD",
+			"description":"<b>교도<\/b> 역 ( 일본어: 経堂駅 쿄오도오에키 [*] )은 일본 도쿄도 세타가야구에 위치한 오다큐 전철 오다와라 선의 철도역이다. 역 번호는 OH 11 이다. 승강장 2면 5선 구조의 철도역이며 개찰은 승강장 밑에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025424&cid=42117&categoryId=42117",
+			"description":" <b>교도<\/b>소, 구치소, 보호감호소와 같은 교정시설에서 수용자를 관리·감독하고, 교정·교화하며, 교정행정 전반에 대한 정책방향 설정 및 이를 구체화하기 위한 제도 시행 등의 기획업무를 한다. [수행직무]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=524490&cid=46625&categoryId=46625",
+			"description":"[내용] 교정직렬은 교정이사관(2급)·교정부이사관(3급)·교정감(4급)·교정관(5급)·교감(6급)·교위(7급)·교사(8급)·<b>교도<\/b>(9급)로, 보도직렬은 교정이사관·교정부이사관·보도감(4급)·보도관(5급)·보도사(6급)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1065408&cid=40942&categoryId=31689",
+			"description":"교정직 공무원에는 1급으로 교정본부장, 2급으로 지방교정청장, 2~3급 상당의 나급 기관장, 3급으로 부이사관, 4급으로 서기관, 5급으로 교정관, 6급으로 교감, 7급으로 교위, 8급으로 교사, 9급으로 <b>교도<\/b>가 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926378&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>교도<\/b>관은 <b>교도<\/b>소, 구치소 등에서 수용자를 관리하고 교정 교육을 한다. 사형수의 사형을 집행하며, 수용자의 행실을 시찰, 기록하며 수용자가 건전한 정신과 올바른 생활 자세를 가지도록 생활지도와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%EB%8F%84%EA%B4%80",
+			"description":"<b>교도<\/b>관 (矯導官)은 행형에 대한 행정에 종사하는 공무원이다. 개요 대부분의 <b>교도<\/b>관들은 구치소와 <b>교도<\/b>소에서 근무하는데 일부 <b>교도<\/b>관들은 법무부 교정본부와 지방교정청에서 근무하며 교정행정을 맡아... ",
+			"thumbnail":""
+		},
+		{
+			"title":"묘<b>교도<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AC%98%EA%B5%90%EB%8F%84",
+			"description":"묘<b>교도<\/b> ( 일본어: 明経道, みょうぎょうどう )는 일본 율령제 시대의 다이가쿠료( 大学寮 , 옛 일본의 최고교육기관)에서 유교를 연구하고 교수했던 학과이다. 명칭 본래 다이가쿠료의 본과였으며 특별한 명칭은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1821063&cid=46629&categoryId=46629",
+			"description":"[변천과 현황] 1963년 ‘노농적위대’의 병력 가운데 제대군인을 주축으로 하여 편성된 이 <b>교도<\/b>대는 지역과 직장의 규모에 따라 사단과 여단에 준하는 편제와 무장을 하고 있다. 해당 지역 위수(衛戍) 담당... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1171383&cid=40942&categoryId=33081",
+			"description":"교회는 그리스도로부터 사제직 ·예언직 ·왕직을 받았는데, 이 가운데 진리를 선포하는 임무를 예언직이라 하고, 이에 상응하는 권리 ·의무를 <b>교도<\/b>권이라 한다. 일찍이 그리스도는 이 진리를 선포하는 직무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110578&cid=50765&categoryId=50778",
+			"description":"입교절차를 마치고 원불교 <b>교도<\/b>가 된 자에게 발급하여 주는 증명서. 불법연구회 시대에는 ‘회원지증(會員之證)’이라 하다가 원불교 체제를 갖춘 후부터는 입교절차를 거쳐 <b>교도<\/b>증을 발급받아 <b>교도<\/b>가 된 후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=82690&cid=41826&categoryId=41826",
+			"description":"또한 고려 시대의 국학이나 조선 시대의 성균관에서 나이가 많고 학식이 있는 이들을 <b>교도<\/b>관으로 임명하기도 하였음. 그러나 지위와 대우에 대해 불만을 가진 이들이 점차 많아지고 서원이 발달하면서 조선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>병",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1533886&cid=50307&categoryId=50307",
+			"description":"<b>교도<\/b>시설에 감금된 수형자의 감금 및 취체(取締)를 유지할 목적으로 <b>교도<\/b>시설에 소속되거나 또는 파견된 개인 또는 집단.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=928825&cid=43667&categoryId=43667",
+			"description":"부대편성 시 대학생은 정규군의 병종ㆍ병과의 초급장교 임무를 수행할 수 있도록 전공별로 편성된다. <b>교도<\/b>대는 전쟁 시 당의 통제하에 인민무력부의 직접 지휘를 받으며 후방 방어 및 예비대로 투입된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225197&cid=40942&categoryId=39726",
+			"description":" 북한의 핵심 민간 군사조직.  북한의 민간 군사조직 가운데 가장 핵심적인 예비전력이다. 1963년 노동적위대 병력 가운데 전역군인을 주축으로 조직되었다. 북한 주민들 가운데 현역군인과 준군사요원 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재가<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2113691&cid=50765&categoryId=50778",
+			"description":"원불교의 출가<b>교도<\/b>가 아닌 일반<b>교도<\/b>. 원불교 <b>교도<\/b>는 크게 출가<b>교도<\/b>와 재가<b>교도<\/b>로 구분한다. 출가<b>교도<\/b>는 개인 가정을 떠나 공사에 전일하는 교역자 곧 전무출신(專務出身)을 말하고, 재가<b>교도<\/b>는 원불교에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>작업",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%EB%8F%84%EC%9E%91%EC%97%85",
+			"description":"<b>교도<\/b>작업 (矯導作業)은 <b>교도<\/b>소 등 교정기관에서 복역하는 수형자에게 부과하는 강제노동이다. 징병제에서 병역의무부과와 함께 ILO가 인정한 국제법상으로도 합법적인 강제노동이다. <b>교도<\/b>작업의 대상이 되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>회장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110579&cid=50765&categoryId=50778",
+			"description":"교당의 재가 <b>교도<\/b>들을 대표하는 회장. <b>교도<\/b>회장은 교당 교의회 의장이 되며 <b>교도<\/b>의 대표가 된다. 당연직 교구 교의회 의원이 되며, 교구 <b>교도<\/b>회장은 중앙교의회 위원의 선발대상이 되고 선발되면 중앙 행사와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>작업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1065411&cid=40942&categoryId=31721",
+			"description":"<b>교도<\/b>작업은 징역과 노역장유치(勞役場留置)의 형을 선고받은 자에게는 강제적으로 과하고, 금고와 구류의 형을 선고받은 자에게는 자원신청(自願申請)에 의하여 과한다. 이 작업은 형사정책상 여러 의의를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>사격",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1533887&cid=50307&categoryId=50307",
+			"description":"교관의 조력을 받아 사격장에서 실시하는 연습사격으로써, 주간 <b>교도<\/b> 사격은 주간에 야간 안경을 착용하여 야간과 동일한 조건을 조성한 후 사격하며 주간 <b>교도<\/b>사격 합격자에 한하여 야간 연습 및 기록사격을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>소장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837679&cid=42117&categoryId=42117",
+			"description":" <b>교도<\/b>소의 행정·사무를 총괄하고 소속 <b>교도<\/b>관 및 직원을 지휘·감독한다. [수행직무] 형의 집행 등 형행에 관한 사무와 미결수용자의 수용에 관한 업무를 관장한다. <b>교도<\/b>소 내 서무과, 보안과, 분류심사과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"후지<b>교도<\/b>단",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%9B%84%EC%A7%80%EA%B5%90%EB%8F%84%EB%8B%A8",
+			"description":"후지<b>교도<\/b>단 ( 일본어: 富士教導団 ( ふじきょうどうだん ) 후지쿄도단 [*] , 영어: JGSDF Fuji School(Combined Training)Brigade )는 후지 주둔지에 있는 육상자위대 후지학교에서 보통과, 기갑과, 특과 특기를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기갑<b>교도<\/b>연대",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%B0%EA%B0%91%EA%B5%90%EB%8F%84%EC%97%B0%EB%8C%80",
+			"description":"기갑<b>교도<\/b>연대 ( 機甲教導連隊 ( きこうきょうどうれんたい ) 기코쿄다이렌타이 [*] )는 시즈오카현 고텐바시 고바카도 주둔지에 있는 육상자위대의 전차 교육훈련부대이다. 역사 1954년 8월 20일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>소장실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900070&cid=66381&categoryId=66400",
+			"description":"치치리 <b>교도<\/b>소장실의 입구",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_18\/20191224191751002_WRCHXOBJZ.jpg\/bGVlam9uZ2h1bmNv.jpg?type=m160_160"
+		},
+		{
+			"title":"세이커<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=775676&cid=50341&categoryId=50341",
+			"description":"미국의 무용가이자 안무가인 도리스 험프리(Doris Humphrey)가 1931년 발표한 작품. 전형적인 표현무용으로, 미국 기독교 일파인 세이커<b>교도<\/b>들의 종교 의식을 담은 강력히 몸을 흔드는 안무 방식을 썼다.",
+			"thumbnail":""
+		},
+		{
+			"title":"야지디<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2051340&cid=62098&categoryId=62098",
+			"description":"애매모호한 이원론자들의 교단으로 북부 이라크, 시리아, 터키, 이란 등지에서 사는 쿠르드인(Kurds)들 가운데 그 추종자가 발견된다. 그들은 십만 혹은 그 이상에 이를 수도 있다. 많은 종교... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>적 수업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=510010&cid=42126&categoryId=42126",
+			"description":"설명식에 가까운 <b>교도<\/b>적 수업과 발견식에 가까운 <b>교도<\/b>적 수업의 둘로 구분할 수 있다. 또한, 안내를 제공하는 방식에서 보기를 먼저 제시한 후 정의나 원리를 제시하게 되면 귀납적(歸納的) 계열의 <b>교도<\/b>적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b> 통신사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%EB%8F%84_%ED%86%B5%EC%8B%A0%EC%82%AC",
+			"description":"<b>교도<\/b> 통신사 ( 일본어: 共同通信社, きょうどうつうしんしゃ )는 1945년에 설립된 일본의 통신사인 사단법인이다. 국내외의 뉴스나 사진, 기사 관련 정보를 일본 전역의 신문사나 NHK, 민간방송국을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>작업관용법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1203529&cid=40942&categoryId=31701",
+			"description":" <b>교도<\/b> 작업에 의하여 생산되는 물건 및 자재를 관용에 우선 사용하도록 정한 법률.  <b>교도<\/b> 작업에 의하여 생산되는 물건 및 자재를 국가 또는 지방공공단체의 기관이나 국영기업체 또는 정부관리기업체에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보통과<b>교도<\/b>연대",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%B4%ED%86%B5%EA%B3%BC%EA%B5%90%EB%8F%84%EC%97%B0%EB%8C%80",
+			"description":"보통과<b>교도<\/b>연대 ( 普通科教導連隊 ( ふつうかきょうどうれんたい ) 후쓰카쿄도렌타이 [*] , 영어: JGSDF Infantry School Regiment(Mechanized) : ISchR )는 시즈오카현 고텐바시 다키가하라 주둔지에 있는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기갑<b>교도<\/b>사단",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%B0%EA%B0%91%EA%B5%90%EB%8F%84%EC%82%AC%EB%8B%A8",
+			"description":"기갑<b>교도<\/b>사단 (機甲敎導師團, 독일어: Panzer-Lehr-Division 판처리허디비지온 [*] )은 제2차 세계 대전 당시 독일 국방군 전체를 통틀어 최정예 기갑사단 중 하나였다. 연합군의 서유럽 침공을 대비해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>보병연대",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%EB%8F%84%EB%B3%B4%EB%B3%91%EC%97%B0%EB%8C%80",
+			"description":"<b>교도<\/b>보병연대 ( 독일어: Lehr-Infanterie-Regiment )는 제1차 세계 대전 당시 독일 제국 육군의 보병연대 중 하나다. 1914년 8월 2일 독일 육군에 동원령이 내려지면서 <b>교도<\/b>보병대대가 연대로 확장되며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>민주주의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1065409&cid=40942&categoryId=33420",
+			"description":"따라서 일반 대중에 대한 엘리트의 <b>교도<\/b>적 역할을 강조하였다. 서구사회는 사회적·정치적인 여러 문제를 장기간에 걸쳐 해결하였으나 인도네시아는 많은 문제를 단시일에 해결하여야 하였고, 그러기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>민주주의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=928330&cid=43667&categoryId=43667",
+			"description":"수카르노는 서구 정치제도의 모방이 아닌 인도네시아에 적합한 민주주의를 일반 대중에 대한 엘리트의 <b>교도<\/b>적 역할을 강조한 <b>교도<\/b>민주주의라 주장했다. <b>교도<\/b>민주주의는 인도네시아의 특유한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"셰이커<b>교도<\/b>들",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=812267&cid=42687&categoryId=42687",
+			"description":"원래 ‘셰이커<b>교도<\/b>’는 그리스도교 프로테스탄티즘의 한 종파인데, 그녀는 이 작품을 통해 그들의 공동생활과 정화 의식을 묘사했다. &#60;셰이커<b>교도<\/b>들&#62;은 라바노테이션(Labanotation)으로 기록되어 있어... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0848_000_1\/20111212174302005_WAOWA65SO.jpg\/eh5_320_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"위그노 <b>교도<\/b>들",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=895755&cid=60512&categoryId=60512",
+			"description":"그의 오페라 중 《악마 로베르》(1831년)는 낭만주의의 아이콘이 되었으며, 야외극 《위그노 <b>교도<\/b>들》은 더 큰 성공을 거두었다. 《예언자》의 경우 가수들이 마음에 들지 않아 공연을 미뤘다가 1849년에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0908_000_1\/20120207173234109_NUL6BAQ8Z.jpg\/ec5_280_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"구가톨릭 <b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117246&cid=69168&categoryId=50853",
+			"description":"구가톨릭교는 1871년 독일의 뮌헨(München)에서 있었던 구가톨릭 <b>교도<\/b> 회의에 그 설립의 기원을 두고 있다. 1872년 독일의 쾰른(Köln)에서 개최된 제2차 회의는 주교직의 설정을 결의하였다. 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>관 대기실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900068&cid=66381&categoryId=66400",
+			"description":"<b>교도<\/b>관들의 대기실로 사용되는 건물",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_18\/20191224191740376_I4AS1OH2W.jpg\/bGVlam9uZ2h1bmNv.jpg?type=m160_160"
+		},
+		{
+			"title":"제1<b>교도<\/b>비행단",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%9C1%EA%B5%90%EB%8F%84%EB%B9%84%ED%96%89%EB%8B%A8",
+			"description":"제1<b>교도<\/b>비행단 ( 독일어: Lehrgeschwader 1; LG 1 리허게슈바더 아인 [*] )은 제2차 세계 대전 당시 루프트바페의 다목적 비행단이다. 산하에 전투비행집단, 폭격비행집단... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대승<b>교도<\/b>의 난",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=628933&cid=50766&categoryId=50794",
+			"description":"중국, 북위 말의 효명제가 즉위한 515년의 6월, 발해(산동성)에서 사문법경(沙門法慶)의 지도하에 일어난 민중반란. 법경은 익주(하북성)사람. 스스로 대승(大乘)이라고 하였으며, &#60;십주보살&#62; 이귀백과 함께... ",
+			"thumbnail":""
+		},
+		{
+			"title":"백련<b>교도<\/b>의 난",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%B1%EB%A0%A8%EA%B5%90%EB%8F%84%EC%9D%98_%EB%82%9C",
+			"description":"백련<b>교도<\/b>의 난 (白蓮敎徒－亂, 1796년 3월 - 1804년 8월)은 청나라 가경 연간에 일어난 대반란이다. 백련교의 신도가 대거 참가했기 때문에 그 명칭이 되었다. 사천성(四川省)(약칭 川)과 호북성(湖北省)(약칭 楚)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가톨릭<b>교도<\/b>해방령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1055473&cid=40942&categoryId=31584",
+			"description":" 영국에서 1829년에 가톨릭 <b>교도<\/b>에 대한 여러 가지 권리상 ·자격상의 제한적 규정을 철폐한 법령.  비국<b>교도<\/b> 중에서도 가톨릭 <b>교도<\/b>는 종교개혁 때 영국국교회(성공회)를 확립한 엘리자베스 1세(재위 1558∼1603)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교정시설경비<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=298527&cid=60362&categoryId=60362",
+			"description":"국방부장관이 법무부장관의 요청에 따라 보호감호소․구치소 및 <b>교도<\/b>소에 대한 경비임무와 무장공비 등의 침투거부 등 작전임무를 수행하기 위하여 현역병으로 입영하여 군사교육을 마친 사람 중에서 배정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대기중인 <b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900096&cid=66381&categoryId=66400",
+			"description":"<b>교도<\/b>소 바깥에서 휴식중인 <b>교도<\/b>관",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_18\/20191224192424403_PQIZTNFMY.jpg\/bGVlam9uZ2h1bmNv.jpg?type=m160_160"
+		},
+		{
+			"title":"허무<b>교도<\/b>의 찬성가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2385340&cid=51280&categoryId=51352",
+			"description":"허무 <b>교도<\/b>의 찬송가(\/strong&#62; 오를지어다, 있다는 너희들의 천국으로. 내려 보내라, 있다는 너희들의 지옥으로. 나는 하나님과 운명에게 사로잡힌 세상을 떠난, 너희들의 보지 못할 머어ㄴ길 가는 나그네일다!... ",
+			"thumbnail":""
+		},
+		{
+			"title":"네스토리우스<b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2050825&cid=62098&categoryId=62098",
+			"description":"그리스도교의 한 분파. 알렉산드리아의 주교 성 시릴(St. Cyril)은 교황 셀레스틴(Celestine) 1세의 후원을 얻어 그리스도교 대다수의 견해를 대표하여 콘스탄티노플의 네스토리우스(Nesto-rius) 대주교의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가톨릭<b>교도<\/b> 해방령",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%80%ED%86%A8%EB%A6%AD%EA%B5%90%EB%8F%84_%ED%95%B4%EB%B0%A9%EB%A0%B9",
+			"description":"가톨릭<b>교도<\/b> 해방령 (Catholic Emancipation)은 1829년 영국 정부에서 로마 가톨릭에 대한 차별을 철폐한 정책이다. 배경과 발단 1673년 심사율로 가톨릭신자들은 공직취임, 토지구입등에서 차별을 받았는데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"그리스도 <b>교도<\/b> 박해",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=628727&cid=50766&categoryId=50794",
+			"description":"여기에서는 그리스도교 사상 가장 심하다는 로마제국하 초기 그리스도 <b>교도<\/b>가 받은 박해에 대해서 언급하기로 한다. 원시 그리스도 교단이 성립한 이후, <b>교도<\/b>는 유대교 당국이나 그리스 도시의 민중 등에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교정시설경비<b>교도<\/b>대",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%EC%A0%95%EC%8B%9C%EC%84%A4%EA%B2%BD%EB%B9%84%EA%B5%90%EB%8F%84%EB%8C%80",
+			"description":"교정시설경비<b>교도<\/b>대 또는 법무부 교정시설 경비<b>교도<\/b>대 는 국가 주요 보안시설인 전국 <b>교도<\/b>소, 구치소 등의 법무부 교정시설에서 경비임무 및 무장공비로부터 시설 방호의 임무를 수행함을 목적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비 오는 <b>교도<\/b>실 전경",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5902475&cid=66381&categoryId=66427",
+			"description":"<b>교도<\/b>관들에게는 우비가 보급되지만 우비를 비롯한 기타 의복의 질은 낮은 편이다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_19\/20191231132452273_FXCXU1I0X.jpg\/bGVlam9uZ2h1bmNv.jpg?type=m160_160"
+		},
+		{
+			"title":"핸콕 셰이커 <b>교도<\/b> 마을",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=949950&cid=43081&categoryId=43081",
+			"description":"대략 1783년쯤 한 무리의 셰이커 <b>교도<\/b>가 이곳에 도착했으며, 점차 마을을 세워 나갔다. 셰이커교란 영국에서 기원하여 미국으로 전파된 독실하고 엄격한 프로테스탄트의 한 종파로, 이들은 1774년에 뉴욕에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인원 점검 중인 <b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5899972&cid=66381&categoryId=66401",
+			"description":"이전 <b>교도<\/b>소에서 넘겨받은 서류를 확인 중인 <b>교도<\/b>관으로 이 날 대략 100여 명의 재소자가 이감되었다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_18\/20191224185401232_UOMP9SAJQ.jpg\/bGVlam9uZ2h1bmNv.jpg?type=m160_160"
+		},
+		{
+			"title":"위그노 <b>교도<\/b>들 (오페라)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9C%84%EA%B7%B8%EB%85%B8_%EA%B5%90%EB%8F%84%EB%93%A4_(%EC%98%A4%ED%8E%98%EB%9D%BC)",
+			"description":"위그노 <b>교도<\/b>들 ( 프랑스어: Les Huguenots )은 자코모 마이어베어가 작곡한 5막의 그랜드 오페라이다. 대본은 외젠 스크리브와 에밀 데샹이 역사적 사실을 기초하여 작성하였다. 이 작품은 1836년 2월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"힌두<b>교도<\/b>들이 남긴 제물",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5717833&cid=63386&categoryId=63439",
+			"description":"힌두<b>교도<\/b>들이 마나사로바 호숫가에서 의식을 행하고 남긴 제물",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_1\/20190105110026165_HU0YR0TTZ.JPG\/Y2hpZWZwZHwzNDcy.JPG?type=m160_160"
+		},
+		{
+			"title":"서류를 확인하는 <b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5899975&cid=66381&categoryId=66401",
+			"description":"이전 <b>교도<\/b>소에서 넘겨받은 서류를 확인 중인 <b>교도<\/b>관으로 이 날 대략 100여 명의 재소자가 이감되었다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_18\/20191224185411488_L99HP3ROE.jpg\/bGVlam9uZ2h1bmNv.jpg?type=m160_160"
+		},
+		{
+			"title":"서로 인사 나누는 <b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5899990&cid=66381&categoryId=66401",
+			"description":"오랜만에 만나 인사를 나누는 <b>교도<\/b>관",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_18\/20191224185043332_VBET39HWR.jpg\/bGVlam9uZ2h1bmNv.jpg?type=m160_160"
+		},
+		{
+			"title":"제200원거리수색<b>교도<\/b>중대",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%9C200%EC%9B%90%EA%B1%B0%EB%A6%AC%EC%88%98%EC%83%89%EA%B5%90%EB%8F%84%EC%A4%91%EB%8C%80",
+			"description":"제200원거리수색<b>교도<\/b>중대 ( 독일어: Fernspählehrkompanie 200; FeSpäLehrKp 200 페른슈페를리허콤파니 츠바이훈더트 [*] )는 독일 연방방위군의 장거리수색대다. 2011년 연방방위부는 제200중대의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교정시설 경비<b>교도<\/b>대 설치법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225453&cid=40942&categoryId=31701",
+			"description":" 보호감호소·구치소 및 <b>교도<\/b>소 등의 교정시설에 대한 경비임무와 무장공비의 침투 등에 효과적으로 대처할 목적으로 교정시설경비<b>교도<\/b>대를 설치하기 위해 제정한 법으로 1981년 법률 제3431호로 제정되어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마나사로바의 힌두<b>교도<\/b>들",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5717837&cid=63386&categoryId=63439",
+			"description":"마나사로바의 힌두<b>교도<\/b>들",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_1\/20190105110224873_CXM59VFJ0.JPG\/Y2hpZWZwZHwzNDcy.JPG?type=m160_160"
+		},
+		{
+			"title":"마나사로바의 힌두<b>교도<\/b>들",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5717822&cid=63386&categoryId=63439",
+			"description":"마나사로바에서 힌두<b>교도<\/b>들의 기념촬영",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_1\/20190105110419527_6LCZA54TP.JPG\/Y2hpZWZwZHwzNDcy.JPG?type=m160_160"
+		},
+		{
+			"title":"마나사로바의 힌두<b>교도<\/b>들",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5717819&cid=63386&categoryId=63439",
+			"description":"인도에서 단체로 온 마나사로바의 힌두<b>교도<\/b>들",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_1\/20190105110410657_C2K4YPYPY.JPG\/Y2hpZWZwZHwzNDcy.JPG?type=m160_160"
+		},
+		{
+			"title":"마나사로바의 힌두<b>교도<\/b>들",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5717820&cid=63386&categoryId=63439",
+			"description":"마나사로바의 순례를 마치고 떠날 준비를 하고 있는 힌두<b>교도<\/b>들",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_1\/20190105110454400_GH52GPX8T.JPG\/Y2hpZWZwZHwzNDcy.JPG?type=m160_160"
+		},
+		{
+			"title":"퀘이커 <b>교도<\/b>들의 필라델피아",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1005884&cid=62122&categoryId=62122",
+			"description":"펜실베이니아의 건설은 1681년에 영국 스튜어트 왕가의 찰스 2세가 퀘이커 <b>교도<\/b> 귀족인 윌리엄 펜(William Penn)에게 신대륙의 땅을 줌으로써 시작되었다. 퀘이커 신앙(Quakerism)은 그 당시로서는 가장... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1063_000_1\/20120611154755853_F47C6E7CH.jpg\/hf8_29_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"보은 장내리 동학<b>교도<\/b> 집결지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2055844&cid=42840&categoryId=42853",
+			"description":"선병국 가옥이 있는 하개리와 이웃한 장내리(장안마을)는 고종 30년(1893)에 수많은 동학<b>교도<\/b>들이 모여 척왜양창의(斥倭洋倡儀)를 부르짖었던 보은집회의 현장이다. 하개리 선씨댁 입구를 지나 서원리를 향해... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2710_000_1\/20130902191714303_KZCY3QLAO.jpg\/fb16_62_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"이슬람 <b>교도<\/b>의 이베리아 지배",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1008834&cid=62112&categoryId=62112",
+			"description":"711년에 아랍과 베르베르 족의 이베리아 반도 침공으로 이슬람 <b>교도<\/b>의 지배가 시작되어, 1492년에 그라나다의 나사리 왕국이 완전히 축출될 때까지 장기간에 걸쳐 지속되었다. 초기 아랍 인들의 이베리아 반도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이슬람 <b>교도<\/b> 이베리아의 형성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1008837&cid=62112&categoryId=62112",
+			"description":"이스람 <b>교도<\/b>들은 계속해서 프랑스 영토로 진격했으나, 732년에 투르와 프와티에 전투의 패전과 740년에 카르카소나 전투의 패전으로 피레네 산맥 남부로 퇴각하고, 갈리시아와 아스투리아스 지역에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인도 힌두<b>교도<\/b>들의 축제 - 세인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2445073&cid=51670&categoryId=51672",
+			"description":"[인도 힌두<b>교도<\/b>들의 축제 - 세인] 인도 힌두<b>교도<\/b>들의 축제인 세인을 소개하는 내용이다. 숭배신의 탄신일을 기념하는 축제의 의미와 행사들을 살펴본다. 세계의 문화를 살펴볼 수 있는 참고자료로... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/16\/1050\/531C04F3A30EF3EC4CE33374134098B3649_muploader_l_480P_854_1024_128_logo.jpg#1280x720#m"
+		},
+		{
+			"title":"<b>교도<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1623253&cid=69168&categoryId=50768",
+			"description":"교황을 비롯한 주교들의 권위 있는 가르침이나 가르치는 권한을 가리키는 말로 “(교회의) 가르침”이라고도 한다. 라틴어 표기는 영어 표기처럼 magisterium이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1533885&cid=50307&categoryId=50307",
+			"description":"북한 민병조직의 하나로써 1973년 창설되어 정무원 인민무력부에 예속되어 있으며, 만45세까지의 제대자로 편성된 예비전투사단으로써의 기능을 수행하여 유사시에는 3일 이내 동원하도록 되어 있음.",
+			"thumbnail":""
+		},
+		{
+			"title":"인도의 힌두<b>교도<\/b>들이 생각한 지구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3555126&cid=58584&categoryId=58685",
+			"description":"[ 1. 6대륙에 위치한 여러 나라] - 아시아에 있는 나라 : 대한민국, 중국, 일본, 인도, 베트남, 필리핀, 사우디아라비아, 이란 등 - 유럽에 있는 나라 : 폴란드, 벨기에, 영국, 프랑스, 스위스, 독일, 이탈리아, 체코... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_4\/20211104181030803_FJF419Z11.jpg\/77930_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"미국 테러와의 전쟁과 이슬람 <b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1006205&cid=62122&categoryId=62122",
+			"description":"9 · 11 테러 사건으로 미국의 사회 분위기는 보수 우파적인 것으로 바뀌기 시작하였다. 국가적 위기감의 팽배와 함께, 애국심이 자생적으로 퍼져 나갔다. 초등학교에서는 기도 시간이 부활되었다. 사형... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2083_000_1\/20120611135215811_X2JHOXU9D.jpg\/hf8_350_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"새벽 <b>교도<\/b>소 문을 열고 있는 <b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5902429&cid=66381&categoryId=66427",
+			"description":"새벽 5시경 <b>교도<\/b>소 진입을 위해 문을 여는 <b>교도<\/b>관",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_19\/20191231131434386_8ME5CL6NS.jpg\/bGVlam9uZ2h1bmNv.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교도<\/b>신문",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1222727&cid=40942&categoryId=31755",
+			"description":" 일본 교포들이 일본어로 발행하는 주간신문.  1958년 9월 19일 창간되었으며, 본사는 오사카[大阪] 후쿠시마구[福島區]에 있다. 대판(大版)으로 8면을 발행한다. 통상적인 일본 신문들의 편집 체재에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>하다",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2390497&cid=50762&categoryId=51387",
+			"description":"히브리어로 ‘야아츠’인데, ‘조언하다’, ‘권고하다’는 뜻이다. 성경에서는, 효율적인 국가 경영을 위해 조언하고 지혜를 베푸는 것을 말한다(대하 10:6). 개역개정판은 ‘충고하다’(왕상 12:6).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>중대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1533888&cid=50307&categoryId=50307",
+			"description":"죄수들을 교화시켜 명예로운 근무상태로 복귀시킬 임무를 수행하도록 군<b>교도<\/b>소에 설치된 단위대.",
+			"thumbnail":""
+		},
+		{
+			"title":"오스만 제국: 비 이슬람 <b>교도<\/b>의 지위",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1004070&cid=62106&categoryId=62106",
+			"description":"또한, 이슬람 법률은 비회<b>교도<\/b>에 대해 종교의 자유를 주면서 그들의 생활 관습, 의식, 제도까지 인정하였기 때문에 모든 비회<b>교도<\/b> 신하들은 그들의 종교 지도자와 더불어 공동체를 조직할 수 있었다. 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청 중기의 민란과 5성 백련<b>교도<\/b>의 난",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2165197&cid=62058&categoryId=62058",
+			"description":"청은 만주족의 지배였기 때문에 끊임없이 한인들의 반항을 받았다. 이들은 백련교(白蓮敎)나 천지회(天地會) 등과 같은 비밀 종교나 비밀 결사를 조직하고 조직적인 반만 활동을 전개하였으며, 민족 의식을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1079_000_1\/20120417103520075_KBVG7Z6E2.jpg\/hf17_379_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"시크 <b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2389824&cid=43780&categoryId=51296",
+			"description":"펀잡 사람들 중에 머리에 큰 역삼각형에 가까운 터번을 두른 사람들이 시크<b>교도<\/b>들이다. 미국에서는 이들이 무슬림이나 테러리스트로 오해받고 폭행을 당하는 경우가 발생하지만 사실은 교리상이나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>통신사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1065412&cid=40942&categoryId=31759",
+			"description":" 일본의 대표적인 통신사.  제2차 세계대전 중 독점적 통신사였던 도메이[同盟] 통신사가 1945년 10월 해산한 뒤, 11월 신문사의 조합조직으로 창립하였다. 도쿄에 본사를 둔 사단법인으로 일본 전국에 5지사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_325\/20190124004004548_ZQJA79412.jpg\/9451099.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교도<\/b>돈체사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=82691&cid=41826&categoryId=41826",
+			"description":"조선 시대 임시 벼슬의 하나. 국장(國葬)이 있을 때 장례 행렬이 지나갈 교량과 도로를 미리 수리하고 대비하는 일을 책임졌는데, 대개 판한성부사(判漢城府事)가 역임함. [유사어] 교량돈체사(橋梁頓遞使)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"힌두교와 이슬람<b>교도<\/b> 서로 싸운다면서요",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2843544&cid=47305&categoryId=47305",
+			"description":"이슬람<b>교도<\/b>들은 지금으로부터 1200여 년 전에 인도를 침략하여 약 200년간 지배했어요.두 종교는 다른 점이 매우 많아서 처음부터 서로 좋은 관계를 유지하기가 어려웠답니다. 힌두교는 많은 신을 인정하고 있는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2831_000_1\/20150731164447476_9N49SF9XH.jpg\/s_gn6_38_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"군 <b>교도<\/b>중대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1534060&cid=50307&categoryId=50307",
+			"description":"군 죄수들을 교육하기 위하여 군 <b>교도<\/b>소에 설치된 부대.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>실 전경",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5902484&cid=66381&categoryId=66427",
+			"description":"해 질 녘의 <b>교도<\/b>소 전경",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_19\/20191231132048670_2S1JB89NN.jpg\/bGVlam9uZ2h1bmNv.jpg?type=m160_160"
+		},
+		{
+			"title":"이슬람 <b>교도<\/b> 이베리아 지배의 역사적 단계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1008835&cid=62112&categoryId=62112",
+			"description":"이슬람 <b>교도<\/b>의 이베리아 반도 지배사는 두 시기로 확연히 구분할 수 있다. 제1기는 711년에서 1031년까지이고, 제2기는 1238년까지이나, 1492년에 그라나다에서 나사리 왕국이 축출될 때까지로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"1986년 벨파스트 가톨릭<b>교도<\/b> 거주지역의 벽보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6224708&cid=67030&categoryId=67307",
+			"description":"가톨릭 <b>교도<\/b>들이 밀집해 살고 있는 폴스 로드(Falls Road)거리의 벽에 영국으로부터 독립을 요구하는 포스터와 낙서가 어지럽다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_31\/20210216193956198_4RPPR8KEP.jpg\/YXJ0ZXIxfDM0NzI0.jpg?type=m160_160"
+		},
+		{
+			"title":"이슬람<b>교도<\/b> 축출 - 국토 회복 운동 완료(1492년)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2073199&cid=62111&categoryId=62111",
+			"description":"[국토 회복 운동의 전개] 711년에 이슬람<b>교도<\/b>가 이베리아 반도를 침략하자, 그들의 지배 아래 들어가지 않은 스페인의 가톨릭<b>교도<\/b>들은 북부 산악지대인 아스투리아스의 산속에 집결했다. 가톨릭<b>교도<\/b>들은 718년... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2908_000_1\/20140217155545567_KD6U8YLVJ.jpg\/hf30_31_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"이슬람 국가, 이집트에서의 콥트 <b>교도<\/b>들(809년 ~ 868년)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1712430&cid=62099&categoryId=62099",
+			"description":"아랍이 이집트를 정복하기 이전에 비잔틴 제국은 이집트의 콥트 <b>교도<\/b>들이 비록 기독<b>교도<\/b>들이기는 하지만 자신들의 공식교리인 칼케돈 파와 다르다는 이유로 가혹한 종교적 탄압을 일삼았었다. 그러나 이집트를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1760_000_1\/20130117144421697_94009TYEQ.jpg\/hf22_65_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"참을 수 없는 유혹 - 이슬람<b>교도<\/b>들의 이베리아 반도 침입(711년)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2073185&cid=62111&categoryId=62111",
+			"description":"[이슬람교] 7세기 초, 아라비아 반도 사막에 통일된 국가를 세우지 못하고 부족 단위로 흩어져 있던 아랍인들에게 유일신의 계시를 받은 예언자가 등장했다. 바로 메카에서 태어난 무함마드(570~632)였다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2908_000_1\/20140217155529700_MT02X7LBW.jpg\/hf30_17_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"튤립의 어원은 이슬람<b>교도<\/b>가 쓰는 터번에서 유래되었다?",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5729172&cid=51648&categoryId=63595",
+			"description":"[튤립의 어원은 이슬람<b>교도<\/b>가 쓰는 터번에서 유래되었다?] &quot;네덜란드가 원산지인 줄 알았던 튤립의 고향은 터키다? 튤립의 어원 또한 이슬람<b>교도<\/b>가 쓰는 터번에서 유래되었다고 하는데, 튤립에 얽힌 재미난 이... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20180518_178\/7nJ15_1526635983254rliXi_JPEG\/73412baa-5a7e-11e8-b642-0000000049b9_07.jpg#1920x1080#m"
+		},
+		{
+			"title":"여<b>교도<\/b>관의 미녀 사냥",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1335337&cid=40942&categoryId=33098",
+			"description":" 2006년에 제작된 사카모토 후토시 감독의 일본 영화. ",
+			"thumbnail":""
+		},
+		{
+			"title":"가톨릭<b>교도<\/b> 연맹 행렬",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1456222&cid=46703&categoryId=46703",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_15\/20140922185848957_243TGB9WD.jpg\/04-002108.jpg?type=m160_160"
+		},
+		{
+			"title":"스위스의 재침례파 <b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1452334&cid=46703&categoryId=46703",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_12\/20140922153936752_G9Q1UOI3M.jpg\/08-516509.jpg?type=m160_160"
+		},
+		{
+			"title":"암스테르담의 퀘이커 <b>교도<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1454860&cid=46703&categoryId=46703",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_12\/20140922174303690_43PNXEHVV.jpg\/07-519890.jpg?type=m160_160"
+		},
+		{
+			"title":"노역중인 재소자와 <b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5901979&cid=66381&categoryId=66427",
+			"description":"재소자들은 하루 7~8시간 가량 노역장에서 일을 한다. 재소자 개개인의 능력에 따라 다양한 직업이 부여되지만 다수는 밭을 일구는 작업에 투입된다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_19\/20191231133553857_O2KXNKTWB.jpg\/bGVlam9uZ2h1bmNv.jpg?type=m160_160"
+		}
+	]
+}

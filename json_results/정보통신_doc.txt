@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:27 +0900",
+	"total":234094,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>정보통신<\/b>학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2142374",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>정책연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4648",
+			"description":""
+		},
+		{
+			"title":"<b>정보<\/b>과학회논문지 : <b>정보통신<\/b> (Journal of KISS : Information networking)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2890629",
+			"description":""
+		},
+		{
+			"title":"전자<b>정보통신<\/b>학회기술연구보고 = IEICE Technical Report (電子情報通信学会技",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2800376",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>정책 ISSUE",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2513958",
+			"description":""
+		},
+		{
+			"title":"한국위성<b>정보통신<\/b>학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=59247",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>산업동향",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=64696",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3097049",
+			"description":""
+		},
+		{
+			"title":"초등학교 <b>정보통신<\/b>기술 교과서의「<b>정보<\/b> 처리의 이해」영역의 내용 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58326624",
+			"description":"Analysis of 「Understanding of Information Processing」 Area in the ICT Textbooks for Elementary Schools 2005년 12월에 <b>정보<\/b>통"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업의 경제적 파급효과에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290208051",
+			"description":"A Study on the Economic Ripple Effect of IT Industry 본 논문의 연구목적은 <b>정보통신<\/b>산업 강국을 자처하는 한국이 "
+		},
+		{
+			"title":"컴퓨터<b>정보통신<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5260",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>기술(ICT)수출, 역대 5월 수출액 중 최고치 달성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817852",
+			"description":""
+		},
+		{
+			"title":"일본, '<b>정보통신<\/b>법(가칭)' 무산 원인과 <b>통신<\/b>·방송 관련법 주요 개정 내용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47050202",
+			"description":"  목차\n일본, '<b>정보통신<\/b>법(가칭)' 무산 원인과 <b>통신<\/b>·방송 관련법 주요 개정 내용 \/ 박민성 1\n [요약] 1\n I."
+		},
+		{
+			"title":"“과학기술·<b>정보통신<\/b> 분야 현안 해결해 대한민국 4차 산업혁명 성공 이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887993962",
+			"description":"  목차\n&quot;과학기술·<b>정보통신<\/b> 분야 현안 해결해 대한민국 4차 산업혁명 성공 이끌 것&quot; : 박성중 과학기술"
+		},
+		{
+			"title":"과기정통부, <b>정보통신<\/b>기술 분야 유망기업, 미래 거대신생기업(유니콘)으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891365161",
+			"description":""
+		},
+		{
+			"title":"계획된 행동이론(TPB)에 의한 청소년 <b>정보통신<\/b>윤리 실천 행동의도의 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41615471",
+			"description":"The Analysis of Behavioral Intention to Perform the Information Communication Ethics of Adolescent through TPB 10대 청소년들을 "
+		},
+		{
+			"title":"<b>정보통신<\/b>기술(ICT) 분야 창업·벤처 지원사업, 기업 성장의 날개 되다",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890312739",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>범죄의 전망",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18658960",
+			"description":"Zur Cyberkriminalitt in der kommenden Digital Umwelt   <b>정보통신<\/b>범죄, 도래할디지털환경, 유비쿼터스, 형법의역할, "
+		},
+		{
+			"title":"창의적 문제해결 과정 기반의 <b>정보통신<\/b> 윤리교육 교수-학습과정 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58326872",
+			"description":"A Study of a Teaching and Learning Process of the Information and Communication Ethics Based on Creative Problem Solving Method 인터"
+		},
+		{
+			"title":"공공부문 소프트웨어·<b>정보통신<\/b>기술장비·<b>정보<\/b>보호 수요예보 ’22년 확",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889910948",
+			"description":""
+		},
+		{
+			"title":"초등학생의 <b>정보<\/b>화 역기능과 <b>정보통신<\/b>윤리교육 실태-충북지역 5·6학년 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58326766",
+			"description":"The Current Status of Elementary School Students' Information Dysfunction and the Information &amp; Communication Ethics Education- focus o"
+		},
+		{
+			"title":"실천적 <b>정보통신<\/b>윤리 교육을 위한사이버 일탈행위 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58326768",
+			"description":"An Analysis of Cyber Deviant Behaviors for the Practical Education of Information Ethics 본 연구는 사이버 일탈행위와 사이"
+		},
+		{
+			"title":"컨조인트 분석을 이용한 초,중등학교 <b>정보통신<\/b>윤리교육 수업 설계 요소 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12970442",
+			"description":"Analysis of instruction Design Factors for Information Communication Ethics Education of Primary and Secondary Schools by Using Conjoin"
+		},
+		{
+			"title":"<b>정보통신<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4644",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>기술을 활용한 고령층의 사회참여활동 촉진을 위한 서비스 모",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32733495",
+			"description":"Development of Service Model to Promote Older Adults' Social Activity Participation with Information &amp; Communication Technology 본 연"
+		},
+		{
+			"title":"과기정통부, 디지털 대전환시대를 선도할 <b>정보통신<\/b>기술(ICT) 창업·개척(",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887344302",
+			"description":""
+		},
+		{
+			"title":"PBL기반 <b>정보통신<\/b>윤리교육 수업자료 개발 및 적용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58326603",
+			"description":"Development and Application of PBL-Based Teaching Materials for Information Communication Ethics Education 본 연구는 초등학교 5"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술과 환경의 상호 관계 : OECD 그린 IT 지수 개발 주요 논의 내",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16623651",
+			"description":"  목차\n<b>정보통신<\/b>기술과 환경의 상호 관계 : OECD 그린 IT 지수 개발 주요 논의 내용 \/ 정은희 1\n [요약] 1\n I"
+		},
+		{
+			"title":"모바일 <b>정보통신<\/b>기술과 아웃도어 레크리에이션 연구의 배경과 추후 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898228769",
+			"description":"Backgrounds and Suggestions on Mobile Technology and Outdoor Recreation Research Purpose The purpose of this review is to investigate t"
+		},
+		{
+			"title":"코로나19 이후 장애인의 <b>정보통신<\/b> 서비스 이용 변화 유형화 및 영향요인 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889907536",
+			"description":"A study on the categorization and determinants of changes in the use of IT services by people with disabilities after COVID-19: Focusin"
+		},
+		{
+			"title":"남북한 <b>정보통신<\/b> 교류협력 현황 및 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10749528",
+			"description":"  I. 서론=29,32,2\nII. 통일에 있어서의 <b>정보통신<\/b>의 의미=30,33,2\nIII. 남북한 <b>정보통신<\/b>부문의 교류협력 현황="
+		},
+		{
+			"title":"<b>정보통신<\/b>기술이 기술수용모델과 테크노스트레스에 미치는 영향: MICE 기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887781723",
+			"description":"Effects of Information and Communication Technology on Technology Acceptance Model and Technostress: Focusing on MICE Companies 본 연"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술(ICT) 수출, 역대 최고 월 수출액 달성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887344671",
+			"description":""
+		},
+		{
+			"title":"과기정통부, ’22년 91개 중소·개척(벤처)기업을 선정, <b>정보통신<\/b>기술 융",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887344520",
+			"description":""
+		},
+		{
+			"title":"국방 <b>정보통신<\/b> 기반체계 발전방향 : IP 네트워크를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=128441236",
+			"description":"  목차\n국방 <b>정보통신<\/b> 기반체계 발전방향 : IP 네트워크를 중심으로 \/ 김한경 1\n 개요 1\n IP 네트워크의 "
+		},
+		{
+			"title":"개인<b>정보<\/b> 법체계 정합성 확보를 위한 소고 -금융, 의료, <b>정보통신<\/b> 법역(",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232434373",
+			"description":"Study on Consistency of the Personal Information Legal Framework - focusing on the finance·healthecare·ICT areas 우리나라는「"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술(ICT) 수출, 17개월 연속 증가세 기록",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887344854",
+			"description":""
+		},
+		{
+			"title":"웹 2.0기반의 ‘팟캐스트’ <b>정보통신<\/b>기술을 이용한 미국의 도서관서비스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41642302",
+			"description":"A Study on the Library Services by ‘Podcast’ Information Communication Technology Based on Web 2.0 in USA 이 연구는 웹 2.0기"
+		},
+		{
+			"title":"복지기술 융합의 도전과 과제 : <b>정보통신<\/b>기술을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78299496",
+			"description":"Welfare Technology Convergence: Focused on Information Communication Technology 본 원고는 복지 부문에서 복지기술 융합"
+		},
+		{
+			"title":"과기정통부, <b>정보통신<\/b>기술 분야 공급망 안정화 본격 추진",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887344929",
+			"description":""
+		},
+		{
+			"title":"사이버 공간상의 자아정체성 확립을 통한 <b>정보통신<\/b>윤리 의식 함양 교수-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12478554",
+			"description":"Computer-Aided Education : A Teaching-Learning Model for Cultivating Consciousness of Information and Communication Ethics by the Estab"
+		},
+		{
+			"title":"리코나의 통합적 인격을 적용한 <b>정보통신<\/b>윤리 수업 설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45493665",
+			"description":"The Instructional Design of Information Communication Ethics Based on Integrated Character of Lickona 본 연구는 현재까지의 정"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술의 교육적 활용에 요구되는 교사의 지식과 기술 요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78367467",
+			"description":"An Investigation of Teachers` Knowledge and Skills on the Use of Information and Communication Technology in Classrooms 본 연구의 "
+		},
+		{
+			"title":"보건의료분야 <b>정보통신<\/b>기술 활용동향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11383399",
+			"description":"ICT Trends and Implications in Healthcare Sector 보건의료분야는 자료 및 <b>정보<\/b>의 집약도가 높은 영역이며, 컴퓨터"
+		},
+		{
+			"title":"상표권 침해<b>정보<\/b>제공에 따른 <b>정보통신<\/b>서비스 제공자의 규제에 관한 문",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289686315",
+			"description":"A Study on Regulations Against Information and Communications Service Provider -With Its Emphasis on Trademark Infringement- 최근 인"
+		},
+		{
+			"title":"전문계 고등학생의 <b>정보통신<\/b>윤리 교육에서 사고력 신장 도구를 활용한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58326806",
+			"description":"Analysis of Effectiveness in Project Based Learning Using Thinking Tool on IT Ethics Education for the Technical High School Students "
+		},
+		{
+			"title":"초등학교 수업에서 <b>정보통신<\/b> 테크놀로지 활용에 대한 교사의 인식 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291025211",
+			"description":"A study on teachers’ perceptions of ICT utilization in elementary school` 본 연구는 초등학교 수업에서 <b>정보통신<\/b> 테크"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술(ICT) 수출, 역대 8월 수출액 중 1위 달성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887345153",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3145407",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>윤리 의식 강화를 위한 마음공부기반 역할놀이 수업모형 개발 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58325805",
+			"description":"A Development and Application of Role-Playing Instruction Model based on Mind Practice for Intensifying Information &amp; Communication Eth"
+		},
+		{
+			"title":"<b>정보통신<\/b>윤리지수 모델 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16446932",
+			"description":"Development of an Index Model on the Information and Communication Ethics 국가 경제성장에만 집중되어 추진된 <b>정보<\/b>화 "
+		},
+		{
+			"title":"디지털 뉴딜 2.0 확산 및 국민 체감 <b>정보통신<\/b>정책 수립!",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887345194",
+			"description":""
+		},
+		{
+			"title":"주요<b>정보통신<\/b>기반시설에 대한 사이버 위협을 예방하기 위한 맞춤형 보",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=103116868",
+			"description":"The Customized Scheme Structure for Prevent Cyber Threats on the Critical Information and Communication Infrastructure 최근 발생한"
+		},
+		{
+			"title":"한국<b>정보<\/b>전자<b>통신<\/b>기술학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127286",
+			"description":""
+		},
+		{
+			"title":"주요<b>정보통신<\/b>기반시설 (CII)의 보호 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878451310",
+			"description":"A Security plan for the Critical Information Infrastructure 본 논문에서는 <b>정보통신<\/b>기반 보호법의 따른 주요<b>정보<\/b>통"
+		},
+		{
+			"title":"장애인과 디지털 기술: <b>정보통신<\/b>기술 광고의 장애인 재현을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874105273",
+			"description":"People with Disabilities and Digital Technologies: Focusing on ICT Advertisements 2010년대 이후 장애인이 출연하는 <b>정보<\/b>통"
+		},
+		{
+			"title":"과기정통부, 양자·반도체 등 <b>정보통신<\/b>기술 원천연구개발에 904억원 투자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887344497",
+			"description":""
+		},
+		{
+			"title":"정부조직개편의 제도논리와 성과논리: <b>정보통신<\/b>분야 ‘컨트롤 타워’의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291046449",
+			"description":"Institution and Performance as Reorganizing Logic: Birth, Death, and Resurrection of ICT Control Tower in South Korea 19대 대선을 "
+		},
+		{
+			"title":"<b>정보통신<\/b>사고 위기관리표준매뉴얼 현황 및 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561816738",
+			"description":"Analysis of the Standard Manual for Risk Management in Information Communication Accidents 우리사회가 <b>정보<\/b>화사회로 급진전"
+		},
+		{
+			"title":"한국 헌법상 <b>정보통신<\/b>기반에 대한 국가책임의 실현에 관한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442243731",
+			"description":"A Study on the Realization of Constitutional State Responsibility for Information and Telecommunications Infrastructure in Korea  Ⅰ. "
+		},
+		{
+			"title":"과기정통부,「<b>정보통신<\/b>기술(ICT) 예산정책협의체」 제1차 전체 회의 개최",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822776710",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>기술이 문화와 경영에 미치는 영향에 관한 연구 : 홉스테드 모",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291543845",
+			"description":"(A)Study of Information Communication Technology's impact on Culture and Management : Focusing on Hofstede's Cultural Dimension   문"
+		},
+		{
+			"title":"OECD 국가의 경제성장 수렴에 대한 연구: <b>정보통신<\/b>기술과 공간모형 접근",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887310140",
+			"description":"Growth Convergence in OECD Countries: Focusing on the ICT and Using Spatial Regression Approach In this paper, we examine how Informati"
+		},
+		{
+			"title":"정부와 대기업이 협력하여 <b>정보통신<\/b>기술 새싹기업 성장 지원",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822776789",
+			"description":""
+		},
+		{
+			"title":"R&amp;D협업 기관들의 공간적 분포와 지역 간 네트워크 분석 -<b>정보통신<\/b>, 바이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891365441",
+			"description":" 국가균형발전을 위한 지역혁신이 주목받아 왔다 그 이유는 지역 특화산업의 R&amp;D역량을 향상시킴으로"
+		},
+		{
+			"title":"코로나 19시대의 업무시간 외 업무관련 <b>정보통신<\/b>기술의 사용이 지식은폐",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891365342",
+			"description":" 코로나 19 발발 이후, 업무시간 외 업무관련 <b>정보통신<\/b>기술(ICT)의 사용이 조직에 더욱 보편화되었다. "
+		},
+		{
+			"title":"OECD 국가의 경제성장 수렴에 대한 연구 : <b>정보통신<\/b>기술과 공간모형 접근",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888321021",
+			"description":"Growth Convergence in OECD Countries : Focusing on the ICT and Using Spatial Regression Approach 본 연구는 <b>정보통신<\/b>기술이 20"
+		},
+		{
+			"title":"초·중등 학생의 <b>정보통신<\/b> 윤리 실태 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11557479",
+			"description":"Computer Education Curriculum and Instruction : Analysis on the Actual Condition of Information Communication Ethics of Students 국가"
+		},
+		{
+			"title":"과학기술·<b>정보통신<\/b>을 통한 대학의 혁신역량 강화 방안 모색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887344682",
+			"description":""
+		},
+		{
+			"title":"디지털·<b>정보통신<\/b>기술 해외진출, 민관이 힘 모은다!",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822373986",
+			"description":""
+		},
+		{
+			"title":"특허 인용 네트워크 분석을 통한 기술지식의 확산 경로 분석: <b>정보통신<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=128440289",
+			"description":"Patent Citation Network Analysis as a Measure of Technical Knowledge Diffusion in Korea: Focusing on ICT 최근 다양한 기술분야"
+		},
+		{
+			"title":"<b>정보통신<\/b>시장에서 다양한혁신상품 수용의도간 연관성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420311023",
+			"description":" <b>정보통신<\/b>시장에서는 유무선통합, 통방융합 추세로 인해 다양한 혁신상품들이 출시되고 있다. 본 연"
+		},
+		{
+			"title":"초등 <b>정보통신<\/b> 윤리수준 개선을 위한 사례 기반 다중형 교수학습모형",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58334076",
+			"description":"A Case based Multiplex Teaching and Learning Model to Improve the Educational Level of Information and Communication Ethics in Elementa"
+		},
+		{
+			"title":"최근 일본의 <b>정보통신<\/b>산업 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17543282",
+			"description":"  목차\n최근 일본의 <b>정보통신<\/b>산업 동향 \/ 이주영 1\n 1. 개요 1\n 2. <b>정보통신<\/b>산업 동향 및 전망 2\n  (1) 체감"
+		},
+		{
+			"title":"OECD 국가의 경제성장 수렴에 대한 연구 : <b>정보통신<\/b>기술과 공간모형 접근",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888101074",
+			"description":""
+		},
+		{
+			"title":"전자<b>정보통신<\/b>학회지 (電子情報通信学会誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2800392",
+			"description":""
+		},
+		{
+			"title":"산림지역의 <b>정보통신<\/b>서비스를 위한 IoT 네트워크 구축방법 비교분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=596516644",
+			"description":"Comparative Analysis of IoT Network Implementing Method for Information and Communication Service in Forest Area 본 논문에서는 "
+		},
+		{
+			"title":"<b>정보통신<\/b>연구지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4645",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>기술 활용에 대한 인식과 장애요인 －한국농수산대학 학생들을",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881525500",
+			"description":"An Assessment of Readiness and Barriers toward ICT Tools －The Case of Korea National College of Agriculture and Fishery－ This study"
+		},
+		{
+			"title":"경제지표를 통해 살펴본 <b>정보통신<\/b>산업의 현황과 시사점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47048130",
+			"description":"  목차\n경제지표를 통해 살펴본 <b>정보통신<\/b>산업의 현황과 시사점 \/ 정현준 ; 박현신 1\n [요약] 1\n I. 서론 2\n"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술(ICT) 규제 샌드박스, 모바일 운전면허증 공유 주방 등 5건 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765723741",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>기술을 활용한 교육 실태 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11021099",
+			"description":"A Study of the Current Situation of the Use of ICT in Schools  요약=47,49,1\nI. 문제 제기=47,49,4\nII. 학교에서의 <b>정보통신<\/b>"
+		},
+		{
+			"title":"공동주택 <b>정보통신<\/b>공사 하자 유형 및 원인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841273303",
+			"description":"A Study on the Types and Causes of Defects in Apartment Housing Information and Communication Work 4차 산업혁명 시대로 접어"
+		},
+		{
+			"title":"전자정부와 행정<b>정보<\/b>서비스의 보편성 : 공공<b>정보통신<\/b>, 키오스크, 전자우",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10789422",
+			"description":"  I.서언=114,116,2\nII.행정<b>정보<\/b>서비스의 보편성과 의의=115,117,1\n 1.전자정부와 전자적 행정<b>정보<\/b>서비스=115,1"
+		},
+		{
+			"title":"<b>정보통신<\/b>사업의 투자평가요인과 사업성과: 기업관점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889072750",
+			"description":"The Impact of Investment Evaluation Factors o the Project Success in Information and Communication Technology(ICT) Area: from Firms's P"
+		},
+		{
+			"title":"<b>정보통신<\/b> 정책변화에 따른 <b>통신<\/b>사업자간 경쟁구도 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289349311",
+			"description":"The study on effect of policy change on competitive aspect between telecommunication companies 본 연구는 이동<b>통신<\/b> 정책변화"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술(ICT) 분야 창업·벤처 지원사업, 디지털 뉴딜 관련 창업·벤",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765723832",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>윤리 교육을 위한 네트웍 기반 협력학습 시스템의 개발 및 적용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9267542",
+			"description":"  국문목차\n표제지=0,1,3\n목차=i,4,2\n표목차=iii,6,2\n그림목차=v,8,2\n논문요약=vii,10,3\nI. 서론=1,13,1\n 1.1. 연구의"
+		},
+		{
+			"title":"창조경제에서 <b>정보통신<\/b>기술의 활용과 일자리 창출 및 성장",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79123020",
+			"description":"Elasticity of Substitution between ICT Capital and Labor: Its Implications on the Creative Economy in Korea In this study, We measured "
+		},
+		{
+			"title":"포스트 코로나에서 <b>정보통신<\/b>의 헌법적 의미와 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862891661",
+			"description":"A Constitutional Overview of Information and Telecommunication in Post COVID-19 in Korea 첨단과학기술사회에서 국가는 일"
+		},
+		{
+			"title":"패션 매장의 <b>정보통신<\/b>기술(ICT) 서비스 중요도가 행동 의도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890110714",
+			"description":"A study on the effect of importance of information and communication technology service in fashion stores on behavior intention Recent "
+		},
+		{
+			"title":"<b>정보통신<\/b>서비스 제공자의 불법 게시물에 대한 법적 책임 - 유통방지의무",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846894516",
+			"description":"Legal Liability for illegal posts of Information and Communication Service Providers - Focusing on Criminal Liability according to Dist"
+		},
+		{
+			"title":"제13차 <b>정보통신<\/b>전략위원회 개최 디지털 뉴딜 성과 창출 가속화를 위한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=761056514",
+			"description":""
+		},
+		{
+			"title":"<b>정보통신<\/b>서비스 제공자의 불법 게시물에 대한 법적 책임",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=853152455",
+			"description":"Legal Liability for illegal posts of Information and Communication Service Providers <b>정보통신<\/b>망이용촉진및<b>정보<\/b>보호등에"
+		},
+		{
+			"title":"<b>정보통신<\/b>전문대학원논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=65866",
+			"description":""
+		},
+		{
+			"title":"표시과목 ‘기술’ 중등교사 임용시험의 <b>정보통신<\/b>기술 영역 출제 동향 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=839146770",
+			"description":"The Analysis of the Questions Trend in the ICT area of the Technology Teacher Recruitment Examination for Secondary School 목적 이 "
+		},
+		{
+			"title":"ERGM 기반의 모수적 및 비모수적 방법을 활용한 수출 유망국가 분석: <b>정보<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889240418",
+			"description":"Analysis of promising countries for export using parametric and non-parametric methods based on ERGM: Focusing on the case of informati"
+		},
+		{
+			"title":"고등학교 <b>정보<\/b>보안단원의 체험형 스마트교육 콘텐츠 적용 수업이 <b>정보<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288871082",
+			"description":"The Effect on Information Communication Ethics of Experience Type Smart Learning Contents Application for High School Information Secur"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술(ICT) 기반 &quot;스마트관광 서비스&quot;활성화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562355486",
+			"description":"  목차\n<b>정보통신<\/b>기술(ICT) 기반 &quot;스마트관광 서비스&quot;활성화 방안 \/ 김경태 1\n 1. 스마트관광 시대 1\n 2. 스"
+		},
+		{
+			"title":"디지털 소비여건 신뢰와 기업의 신뢰가 <b>정보통신<\/b> 기기 및 서비스 만족도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=760882176",
+			"description":"The Effects of Digital Consumption Trust and Corporate Trust on IT Device and Service Satisfaction 최근 온라인, 모바일, SNS플"
+		}
+	]
+}

@@ -1,0 +1,383 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:22 +0900",
+	"total":146022197,
+	"start":1,
+	"display":75,
+	"items":[
+		{
+			"title":"<b>보건<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%B3%B4%EA%B1%B4",
+			"description":"保健. 건강을 온전하게 잘 지키며, 병의 예방, 치료 따위로 사람의 건강과 생명을 보호하고 증진시키는 활동을 의미한다. 오늘날 많은 사람들의 관심사이기도 하다."
+		},
+		{
+			"title":"힘이 되는 평생 친구, <b>보건<\/b>복지부",
+			"link":"http:\/\/www.mohw.go.kr\/",
+			"description":"<b>보건<\/b>복지부, 건강보험 보장성 강화, 치매국가책임제, 아동수당, 기초연금, 사회서비스 일자리"
+		},
+		{
+			"title":"한국산업안전<b>보건<\/b>공단 | 자료마당 | 통합자료실 | 안전<b>보건<\/b>자료실 | 전체자료보기",
+			"link":"https:\/\/www.kosha.or.kr\/kosha\/data\/mediaBankMain.do",
+			"description":"안전<b>보건<\/b>자료실 문의처 콘텐츠개발부 심경진 052-703-0736 개선의견 (매우만족) (만족) (보통) (불만족) (매우불만족) 보내기 *컨텐츠 내용에 만족하십니까? 현재 페이지의 만족도를 평가해 주십시요. 의견을... "
+		},
+		{
+			"title":"한국<b>보건<\/b>복지인재원 홈페이지",
+			"link":"https:\/\/www.kohi.or.kr\/",
+			"description":"<b>보건<\/b>복지인력 교육기관, 사회복무 교육, 정책연계, 협력 등 사업 및 학습 지원 안내."
+		},
+		{
+			"title":"대한산업<b>보건<\/b>협회",
+			"link":"http:\/\/kiha21.or.kr\/",
+			"description":"대한산업<b>보건<\/b>협회는 근로자 건강을 최우선으로 하는 53년 전통의 비영리기관입니다. 근로자의 건강은 정기적인 검진, 지속적인 <b>보건<\/b>관리, 작업환경 관리를 통해서 얻을 수 있습니다. 산업재해는 충분히 예방이"
+		},
+		{
+			"title":"질병관리청 질병<b>보건<\/b>통합관리시스템",
+			"link":"https:\/\/is.kdca.go.kr\/",
+			"description":"<b>보건<\/b>소 및 예방접종 등록 병의원 업무지원 서비스, 접종 정보, 인플루엔자 일일보고 안내."
+		},
+		{
+			"title":"임산부 건강관리 - 임산부 - 모자<b>보건<\/b> - <b>보건<\/b> -<b>보건<\/b>소",
+			"link":"https:\/\/www.wonju.go.kr\/health\/contents.do?key=1717",
+			"description":"방문신청 : <b>보건<\/b>소 2층 모자<b>보건<\/b>실 또는 주민등록주소지 읍면동 주민센터 제출서류 신분증 임신확인서... 시는 <b>보건<\/b>소 방문 수령 표준보자<b>보건<\/b>수첩 지원 임신초기부터 신청가능(택배신청가능\/택배요금... "
+		},
+		{
+			"title":"<b>보건<\/b>소 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%B3%B4%EA%B1%B4%EC%86%8C",
+			"description":"대한민국의 <b>보건<\/b>소는 지방자치단체가 설치하며, 지역의 공중<b>보건<\/b> 향상 및 증진을 도모하기 위해 시·군·구 단위에 설치되어 있는 기관이다. 기본 의료 업무도 보며, 각종 <b>보건<\/b>행정을 전담한다."
+		},
+		{
+			"title":"군포시<b>보건<\/b>소",
+			"link":"http:\/\/www.gunpo.go.kr\/health\/index.do",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 건강상담, 진료 및 검진 안내, 예방접종, 검사결과 조회 등 안내."
+		},
+		{
+			"title":"KOHI <b>보건<\/b>복지배움인",
+			"link":"https:\/\/edu.kohi.or.kr\/",
+			"description":"사이버교육 소개, 교육 후기, 분야별 강의, 수강 신청 및 문의 안내."
+		},
+		{
+			"title":"제천<b>보건<\/b>소",
+			"link":"https:\/\/www.jecheon.go.kr\/health\/index.do",
+			"description":"<b>보건<\/b>소 소개, 진료, 예방접종, 민원, 사업 안내."
+		},
+		{
+			"title":"산업안전<b>보건<\/b>교육원 - 안전<b>보건<\/b>공단",
+			"link":"https:\/\/edu.kosha.or.kr\/",
+			"description":"안전<b>보건<\/b>교육 전문, 분야별 전문화교육, 직무교육, 통신교육 등 안내."
+		},
+		{
+			"title":"<b>보건<\/b>교사 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%B3%B4%EA%B1%B4%EA%B5%90%EC%82%AC",
+			"description":"保健敎師 \/ Health teacher 학교에서 <b>보건<\/b>교육을 담당하며 <b>보건<\/b>관리를 책임지는 교사로 간호사에게 꿈과 희망의 진로 중 하나."
+		},
+		{
+			"title":"용인시<b>보건<\/b>소",
+			"link":"https:\/\/www.yongin.go.kr\/health\/index.do",
+			"description":"경기도 용인시 <b>보건<\/b>소, <b>보건<\/b>서비스, 예방접종, <b>보건<\/b> 상식 등 제공."
+		},
+		{
+			"title":"안전<b>보건<\/b>교육포털",
+			"link":"https:\/\/www.koshats.or.kr\/",
+			"description":"안전<b>보건<\/b>공단 교육신청(사내교육,안전<b>보건<\/b>관리담당자양성교육,안전체험교육,건설업기초안전<b>보건<\/b>교육 기관검색등)"
+		},
+		{
+			"title":"이천시<b>보건<\/b>소",
+			"link":"https:\/\/www.icheon.go.kr\/depart\/healthSubMain.do?key=2324",
+			"description":"<b>보건<\/b>소 소개, 민원 및 진료안내, 전염병, 예방접종정보, 건강상담 제공."
+		},
+		{
+			"title":"산청군 <b>보건<\/b>의료원",
+			"link":"https:\/\/www.sancheong.go.kr\/health\/index.do",
+			"description":"경상남도 산청군 산청읍 위치, 의료원 소개, 진료 및 예방접종 안내."
+		},
+		{
+			"title":"시흥시<b>보건<\/b>소",
+			"link":"https:\/\/www.siheung.go.kr\/portal\/contents.do?mId=0307010000",
+			"description":"시흥시 분야별포털 홈페이지 입니다."
+		},
+		{
+			"title":"안산시 단원구 <b>보건<\/b>소",
+			"link":"https:\/\/www.ansan.go.kr\/health\/main\/main.do",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 예방접종, 진료안내, 감염병정보, 공지사항 등 제공."
+		},
+		{
+			"title":"수원시<b>보건<\/b>소",
+			"link":"https:\/\/health.suwon.go.kr\/",
+			"description":"수원시<b>보건<\/b>소 ... 카드뉴스 건강진단결과서(구 <b>보건<\/b>증) 발급 사전 예약 ※ 7.25.~ 중단 장안구 권선구 팔달구 영통구 감염병 뉴스레터 바로가기 <b>보건<\/b>소식 <b>보건<\/b>소 공통 시험목적의 외출 허용 안내사항(2022년도 대전광역시 청원경찰 채용 면 "
+		},
+		{
+			"title":"질병관리청 국립<b>보건<\/b>연구원",
+			"link":"https:\/\/nih.go.kr\/",
+			"description":"감염병, 만성병, 유전체 등 질병관리연구, 실험실 감시∙조사, <b>보건<\/b>의료 관련 연구 인프라 및 정보 제공."
+		},
+		{
+			"title":"양평군<b>보건<\/b>소",
+			"link":"https:\/\/www.yp21.go.kr\/health\/index.do",
+			"description":"행복을 더하고 건강을 나눕니다."
+		},
+		{
+			"title":"하남시<b>보건<\/b>소",
+			"link":"https:\/\/www.hanam.go.kr\/health\/index.do",
+			"description":"하남시 <b>보건<\/b>소 소개, 건강정보 및 지역<b>보건<\/b>사업 안내."
+		},
+		{
+			"title":"양양군<b>보건<\/b>소",
+			"link":"https:\/\/www.yangyang.go.kr\/gw\/healthcenter",
+			"description":"양양군 <b>보건<\/b>소 홈페이지 방문을 진심으로 환영합니다."
+		},
+		{
+			"title":"한국<b>보건<\/b>의료인국가시험원",
+			"link":"https:\/\/www.kuksiwon.or.kr\/",
+			"description":"<b>보건<\/b>의료인 시험 국가고시 전문기관, 시험안내, 원서접수, 합격자발표 등 정보 제공."
+		},
+		{
+			"title":"<b>보건<\/b>산업 대표 종합전문지-<b>보건<\/b>신문",
+			"link":"http:\/\/www.bokuennews.com\/",
+			"description":"한국언론진흥재단 인터넷신문 솔루션"
+		},
+		{
+			"title":"[<b>보건<\/b>복지부] 따스한 메아리 따스아리",
+			"link":"https:\/\/blog.naver.com\/mohw2016",
+			"description":"약 3.3만 명의 구독자를 보유한\n<b>보건<\/b>복지부의 블로그. 약 6.8천 건의 게시물이 있습니다. <b>보건<\/b>복지부 공식 블로그입니다."
+		},
+		{
+			"title":"안양시<b>보건<\/b>소",
+			"link":"https:\/\/www.anyang.go.kr\/health\/index.do",
+			"description":"<b>보건<\/b>소 소개, 내과 및 치과 진료안내, <b>보건<\/b>사업, 진료민원, 상담 안내, 예방접종 등 제공."
+		},
+		{
+			"title":"여수시<b>보건<\/b>소",
+			"link":"https:\/\/www.yeosu.go.kr\/health",
+			"description":"<b>보건<\/b>소안내, 진료\/검사, <b>보건<\/b>민원, <b>보건<\/b>사업, 식품공중위생, 정보마당 등의 정보제공"
+		},
+		{
+			"title":"부산광역시 강서구 <b>보건<\/b>소",
+			"link":"https:\/\/www.bsgangseo.go.kr\/health\/main.do",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 건강상담, 진료 및 검진 안내, 예방접종 등 안내."
+		},
+		{
+			"title":"중랑구<b>보건<\/b>소",
+			"link":"https:\/\/www.jungnang.go.kr\/health\/main.do",
+			"description":"중랑구<b>보건<\/b>소,모두의 삶이 행복한 건강도시 중랑"
+		},
+		{
+			"title":"삼육<b>보건<\/b>대학교",
+			"link":"https:\/\/www.shu.ac.kr\/",
+			"description":"사립전문대학교, 대학 및 학과 소개, 학사 정보, 입학 안내 등 제공."
+		},
+		{
+			"title":"대구<b>보건<\/b>대학교",
+			"link":"https:\/\/www.dhc.ac.kr\/",
+			"description":"대학 소개, 입학안내, 학과안내, 공지사항, 학사 정보 등 제공."
+		},
+		{
+			"title":"대한<b>보건<\/b>협회",
+			"link":"http:\/\/www.kpha.or.kr\/",
+			"description":"협회소개, 음주예방 교육, 금연절주 강의, 홍보물, 강사, 동아리, 웹진 건강생활 등 안내."
+		},
+		{
+			"title":"은평구 <b>보건<\/b>소",
+			"link":"https:\/\/www.ep.go.kr\/health\/index.do",
+			"description":"<b>보건<\/b>소 소개, 진료 안내, 예방접종, 건강 정보 등 제공."
+		},
+		{
+			"title":"전주시<b>보건<\/b>소",
+			"link":"http:\/\/health.jeonju.go.kr\/",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료민원, 상담 안내, 예방접종 등 제공."
+		},
+		{
+			"title":"용산구 <b>보건<\/b>소",
+			"link":"https:\/\/www.yongsan.go.kr\/health\/main\/main.do",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b> 사업, 진료 및 검진, 예방접종 등 안내."
+		},
+		{
+			"title":"화성시 <b>보건<\/b>소",
+			"link":"https:\/\/www.hscity.go.kr\/health\/index.do",
+			"description":"<b>보건<\/b>소 진료 및 예약안내, 모자<b>보건<\/b>, 구강<b>보건<\/b>, 암검진, 전염병관리 등 건강정보 제공."
+		},
+		{
+			"title":"구로구<b>보건<\/b>소",
+			"link":"https:\/\/www.guro.go.kr\/health\/index.do",
+			"description":"<b>보건<\/b>소 소개, 진료 및 민원, 예방접종시기, 전염병관리 안내 등 수록."
+		},
+		{
+			"title":"강남구<b>보건<\/b>소",
+			"link":"https:\/\/health.gangnam.go.kr\/",
+			"description":"강남구에 위치한 구민의 <b>보건<\/b>을 위한 공공 서비스 및 진료 관련 콘텐츠를 제공"
+		},
+		{
+			"title":"성동구 <b>보건<\/b>소",
+			"link":"https:\/\/www.sd.go.kr\/health",
+			"description":"정신<b>보건<\/b>, 건강증진, 전염병관리 등 사업 소개, 건강정보, 검사 및 진료 <b>보건<\/b>교육 안내."
+		},
+		{
+			"title":"성남시<b>보건<\/b>소",
+			"link":"https:\/\/www.seongnam.go.kr\/health\/",
+			"description":"건강도시 성남! 성남시민의 건강한 삶을 함께 만들어가겠습니다"
+		},
+		{
+			"title":"봉화군 <b>보건<\/b>소",
+			"link":"https:\/\/www.bonghwa.go.kr\/open.content\/health\/",
+			"description":"<b>보건<\/b>소 안내, <b>보건<\/b>사업, 건강정보, 진료검사 등 안내."
+		},
+		{
+			"title":"<b>보건<\/b>복지부 면허민원안내",
+			"link":"https:\/\/lic.mohw.go.kr\/",
+			"description":"면허증명서 신청, 재교부 처리절차, 발급신청, 온라인 조회 등 안내."
+		},
+		{
+			"title":"서울특별시 강서구 <b>보건<\/b>소",
+			"link":"https:\/\/www.gangseo.seoul.kr\/health\/index",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료 및 검진 안내, 예방접종 정보 등 제공."
+		},
+		{
+			"title":"창원시<b>보건<\/b>소",
+			"link":"https:\/\/www.changwon.go.kr\/depart\/contents.do?mId=0602010000",
+			"description":"경상남도 창원시 <b>보건<\/b>소 안내 및 건강 상식, <b>보건<\/b> 산업 안내 제공."
+		},
+		{
+			"title":"의정부시 <b>보건<\/b>소",
+			"link":"https:\/\/www.ui4u.go.kr\/health\/main.do",
+			"description":"행복특별시 의정부입니다. 열린민원 서비스와 시정소식 각 분야별 정보를 제공합니다."
+		},
+		{
+			"title":"광진구청 <b>보건<\/b>소",
+			"link":"https:\/\/www.gwangjin.go.kr\/health\/main\/main.do",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료 및 검진 안내, 예방접종 정보 등 제공."
+		},
+		{
+			"title":"양천구 <b>보건<\/b>소",
+			"link":"https:\/\/www.yangcheon.go.kr\/health\/health\/main.do",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료 및 검진 안내, 예방접종 정보 등 제공."
+		},
+		{
+			"title":"마포구 <b>보건<\/b>소",
+			"link":"https:\/\/www.mapo.go.kr\/site\/health\/home",
+			"description":"마포구청-마포구청소개, 전자민원 안내 ,행정정보 안내, 참여마당, 생활복지 안내"
+		},
+		{
+			"title":"천안시 서북구<b>보건<\/b>소",
+			"link":"http:\/\/www.cheonan.go.kr\/shealth.do",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료민원, 상담 안내, 예방접종 등 제공."
+		},
+		{
+			"title":"동작구 <b>보건<\/b>소",
+			"link":"http:\/\/www.dongjak.go.kr\/healthcare\/main\/main.do",
+			"description":"<b>보건<\/b>소소개, 지역<b>보건<\/b>의료계획, 예방접종, 전염병예방안내, 상담 수록."
+		},
+		{
+			"title":"<b>보건<\/b>대학원 - 서울대학교",
+			"link":"https:\/\/health.snu.ac.kr\/",
+			"description":"[중요]종합교육연구동(220동) 호실방범 시행안내(21.11.15 시행) • 서울대학교 코로나19 대응 매뉴얼 등을 붙임과 같이 안내하오니 참고하시기 바랍니다. •  * 상세내용은 마이스누 코로나19 게시판( •  참조하십시오. • 코로나19 확진자(의심자) 발생시 <b>보건<\/b>진료소(02-880-5342, 평일\/주말\/공휴일 9:00~18:00)와  • <b>보건<\/b>대학원 행정실(02-880-2704"
+		},
+		{
+			"title":"고성군<b>보건<\/b>소",
+			"link":"https:\/\/www.gwgs.go.kr\/health\/",
+			"description":"강원도 고성군 <b>보건<\/b>소 소개, 아기 건강 관리, 건강 정보 수록."
+		},
+		{
+			"title":"영등포구 <b>보건<\/b>소",
+			"link":"https:\/\/www.ydp.go.kr\/health\/main.do",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료민원, 상담 안내, 예방접종 등 제공."
+		},
+		{
+			"title":"마산<b>보건<\/b>소",
+			"link":"https:\/\/www.changwon.go.kr\/depart\/contents.do?mId=0605010000",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료민원, 상담 안내, 예방접종 등 제공."
+		},
+		{
+			"title":"관악구 <b>보건<\/b>소",
+			"link":"https:\/\/www.gwanak.go.kr\/site\/health\/main.do",
+			"description":"<b>보건<\/b>소 소개, 진료안내, <b>보건<\/b>사업, 예방접종, 건강정보 제공."
+		},
+		{
+			"title":"강동구 <b>보건<\/b>소",
+			"link":"https:\/\/www.gangdong.go.kr\/health\/site\/main\/home",
+			"description":"<b>보건<\/b>소 소개 및 사업, 진료, 민원 안내, 병원, 약국 연락처 제공."
+		},
+		{
+			"title":"경기도<b>보건<\/b>환경연구원",
+			"link":"http:\/\/www.gg.go.kr\/gg_health",
+			"description":"<b>보건<\/b>환경자료실, 오존경보제, 민원안내, 주요업무, 학술정보 등 제공."
+		},
+		{
+			"title":"세종특별자치시 <b>보건<\/b>소",
+			"link":"https:\/\/www.sejong.go.kr\/health.do",
+			"description":"세종특별자치시 <b>보건<\/b>소,통계작성기관"
+		},
+		{
+			"title":"부산광역시 금정구 <b>보건<\/b>소",
+			"link":"https:\/\/www.geumjeong.go.kr\/health\/index.geumj",
+			"description":"<b>보건<\/b>소 소개, 예방접종, 민원, 진료안내, 의약업무, 건강정보 제공."
+		},
+		{
+			"title":"진도군<b>보건<\/b>소",
+			"link":"https:\/\/www.jindo.go.kr\/home\/sub.cs?m=603",
+			"description":"<b>보건<\/b>소 현황, 전염병 예방관리, 임산부 및 영유아 관리, 의료상담 서비스 안내."
+		},
+		{
+			"title":"서초구 <b>보건<\/b>소",
+			"link":"https:\/\/www.seocho.go.kr\/site\/sh\/main.do",
+			"description":"<b>보건<\/b>소 소개, 진료 및 민원, 건강상식, 건강상담 안내."
+		},
+		{
+			"title":"태안군<b>보건<\/b>의료원",
+			"link":"https:\/\/taean.go.kr\/life\/sub02_10_01.do",
+			"description":"<b>보건<\/b>의료원 안내, 예방접종 및 전염병 정보 수록."
+		},
+		{
+			"title":"완도군 <b>보건<\/b>의료원",
+			"link":"https:\/\/www.wando.go.kr\/health",
+			"description":"완도군 <b>보건<\/b>의료원, <b>보건<\/b>의료원"
+		},
+		{
+			"title":"문경시 <b>보건<\/b>소",
+			"link":"https:\/\/www.gbmg.go.kr\/portal\/contents.do?mId=0604020100",
+			"description":"<b>보건<\/b>소 소개, 민원, 진료안내, 건강검진, <b>보건<\/b>소 사업 소개."
+		},
+		{
+			"title":"완주군 <b>보건<\/b>소",
+			"link":"http:\/\/www.wanju.go.kr\/health\/",
+			"description":"<b>보건<\/b>소 소개, 민원안내, 사업, 위생분야 정보, 건강상담 수록."
+		},
+		{
+			"title":"도봉구<b>보건<\/b>소",
+			"link":"https:\/\/health.dobong.go.kr\/",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료 및 검진 안내, 예방접종 정보 등 제공."
+		},
+		{
+			"title":"인천광역시 부평구 <b>보건<\/b>소",
+			"link":"https:\/\/www.icbp.go.kr\/clinic\/",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료 및 검진 안내, 예방접종 정보 등 제공."
+		},
+		{
+			"title":"부산광역시 사상<b>보건<\/b>소",
+			"link":"https:\/\/www.sasang.go.kr\/health\/index.sasang",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료민원, 상담 안내, 예방접종 등 제공."
+		},
+		{
+			"title":"부천시<b>보건<\/b>소",
+			"link":"http:\/\/pubhealth.bucheon.go.kr\/",
+			"description":"부천시, 코로나19"
+		},
+		{
+			"title":"김천시 <b>보건<\/b>소",
+			"link":"https:\/\/www.gc.go.kr\/health\/main.do",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료민원, 상담 안내, 예방접종 등 제공."
+		},
+		{
+			"title":"강북구 <b>보건<\/b>소",
+			"link":"https:\/\/ehealth.gangbuk.go.kr\/",
+			"description":"<b>보건<\/b>소 소개, <b>보건<\/b>사업, 진료민원, 상담 안내, 예방접종 등 제공."
+		},
+		{
+			"title":"서천군 <b>보건<\/b>소",
+			"link":"http:\/\/www.seocheon.go.kr\/health.do",
+			"description":"우리 서천군 <b>보건<\/b>소 홈페이지를 방문해주셔서진심으로 감사드립니다. 우리 서천군<b>보건<\/b>소 홈페이지를 방문해 주셔서 감사합니다.우리 <b>보건<\/b>소는 지역주민의 질병을 예방하고 건강증진은 물론 충실한 <b>보건<\/b>의료 서비스를"
+		},
+		{
+			"title":"수원치과 <b>보건<\/b>치과",
+			"link":"http:\/\/www.bogeon.co.kr\/",
+			"description":"수원치과, 수원치과추천, 수원 임플란트, 영통, 권선동, 매탄동 진료가능, 인계동치과"
+		}
+	]
+}

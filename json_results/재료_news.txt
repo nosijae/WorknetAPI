@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:10 +0900",
+	"total":1575077,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"LG화학, 2Q 영업이익 8785억원…전년比 59%↓",
+			"originallink":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=58324",
+			"link":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=58324",
+			"description":"전지<b>재료<\/b> 출하 확대, 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며, 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심의 출하 증가, 우호적 환율 환경 등으로 수익성도 개선됐다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"박수정 단선부채 신작을 만나다",
+			"originallink":"http:\/\/www.jjn.co.kr\/news\/articleView.html?idxno=916548",
+			"link":"http:\/\/www.jjn.co.kr\/news\/articleView.html?idxno=916548",
+			"description":"단선 부채의 가장 기본 <b>재료<\/b>인 대나무와 한지는 이수자 박수정이 성장하는 과정에서 만난 친숙한 <b>재료<\/b>였다. 대나무로 살을 만들고 한지를 붙여 부채를 만들고 선면에 수묵담채화를 그려 넣으면 그녀만의 부채 작품이... ",
+			"pubDate":"Wed, 27 Jul 2022 18:30:00 +0900"
+		},
+		{
+			"title":"[맛 이야기] 초밥의 위기…기후 변화, 일본 가다랑어·와사비에 영향",
+			"originallink":"http:\/\/www.busan.com\/view\/busan\/view.php?code=2022072718265279784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001167024?sid=103",
+			"description":"가다랑어는 일본에서 회나 초밥, 또는 가쓰오부시(가다랑어포)를 만들어 먹는 중요한 요리 <b>재료<\/b>다. 고치 현의... 두 <b>재료<\/b>가 없는 초밥은 생각할 수도 없기 때문이다. 과연 기후변화는 일본 음식문화의 상징인 초밥마저... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"'현대건설기계·현대두산인프라코어' 中 리스크 '발목'…상반기 수익성 하락(...",
+			"originallink":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072717544184845",
+			"link":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072717544184845",
+			"description":"중국 봉쇄 장기화와 원<b>재료<\/b>값 등 일시적 비용 부담이 증가한 영향이다. 양사는 신흥시장 중심으로 판매... 특히 <b>재료<\/b>비와 물류비 상승 등 일시적 요인으로 수익성이 하락했다. 다만 양사 모두 중국시장보다는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"던퍼 여런처, 여스핏, 미스트리스 리뉴얼! 2인 입장 개선까지, 퍼스트서버 선...",
+			"originallink":"http:\/\/df.gamechosun.co.kr\/board\/view.php?bid=report&num=3593871",
+			"link":"http:\/\/df.gamechosun.co.kr\/board\/view.php?bid=report&num=3593871",
+			"description":"이원화된 엘븐미어 보상 엘븐미어는 초심자와 기존 유저가 자신에게 적합한 보상을 챙겨갈 수 있게 하위 지역과 상위 지역의 획득 <b>재료<\/b>를 구분 짓는다. 60층까지는 '씨앗의 형상'을, 61층부턴 '잎의 형상'을 얻을 수 있으며... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"[게임뉴스] 스마일게이트 'CFS 썸머 챔피언십' 개최 외 주요 소식",
+			"originallink":"http:\/\/www.gamevu.co.kr\/news\/articleView.html?idxno=23682",
+			"link":"http:\/\/www.gamevu.co.kr\/news\/articleView.html?idxno=23682",
+			"description":"던전을 완료하면 전설 무기, 전설 장신구, 전설 무공서 등의 장비와 성장<b>재료<\/b>를 획득할 수 있다. - 컴투스홀딩스는 '2022 게임빌프로야구 슈퍼스타즈'의 글로벌 업데이트로 레전드 트레이너 요한나를 추가했다. 근력과... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"사천시어린이도서관 '과학나눔 배움터' 운영",
+			"originallink":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800425",
+			"link":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800425",
+			"description":"한국실크연구원에서 운영하는 삼성꿈장학재단 사업의 하나로 강사비, <b>재료<\/b>비 등 전액 지원받는다, 아동들의 독서 생활화와 자기주도적 학습능력을 길러주기 위한 도서관 교육, 강의 연계 도서 대출도 함께 진행된다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"목재문화진흥회가 알려주는 목재 바로알기 시리즈➀ \/ 피톤치드",
+			"originallink":"http:\/\/www.imwood.co.kr\/news\/articleView.html?idxno=27832",
+			"link":"http:\/\/www.imwood.co.kr\/news\/articleView.html?idxno=27832",
+			"description":"화학물질의 위험성이 제기되고 물질 안전성에 대한 요구도가 높은 요즘 천연<b>재료<\/b>인 목재의 많은 사용으로 그 답을 찾으면 좋을 것 같다. \/나무신문. 자료=목재문화진흥회 아토피 피부염 마우스의 혈청 IgE 농도. 수종별... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"창원시여성단체협의회 사랑의 밑반찬 봉사 활동 펼쳐",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322423",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322423",
+			"description":"이날 여성단체회원 20여명은 여성회관 창원관 조리실에서 직접 음식<b>재료<\/b>를 손질해 깍두기를 담그고 삼계탕과 밑반찬을 직접 전달했다. 김필운 여성단체협의회 회장은 &quot;무더운 여름이지만 밑반찬을 기다리는 분들에게... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"동원F&amp;B, 로우푸드 시장 공략...'리챔 더블라이트', 나트륨·지방 25%↓",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2022049",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2022049",
+			"description":"캔햄 제품 가공에 있어 소금은 고기 배합과 형태 유지를 위해 필수적인 <b>재료<\/b>로, 소금의 함량을 계속 낮추면 고기를 햄 모양으로 만들어낼 수 없고 맛도 유지할 수 없다. 동원F&amp;B는 당시 시중에 개발돼 있던 여타... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"“폭망했다” 112만 구독자 운동 유튜버 핏블리, 누구도 예상치 못한 근황 전...",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/775475",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/775475",
+			"description":"조금 남겼어야 했다”면서 “마이너스로 계속 가다가 사람들이 많이 오면 플러스될 줄 알고 <b>재료<\/b>도 아낌없이 싸게 제공했는데, 한 달에 적자가 거의 한 1000만 원 가까이 나가니까…제 불찰이다”라며 술을 들이켰다. 폐업... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"사천시 어린이도서관 '슬기로운 과학나눔 배움터' 추진",
+			"originallink":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322438",
+			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=322438",
+			"description":"한국실크연구원이 운영하는 삼성꿈장학재단 사업의 일환으로 강사비, <b>재료<\/b>비 등 전액 지원받고 아동들의 독서 생활화 및 자기주도적 학습능력을 길러주기 위한 도서관 교육 및 강의 연계 도서 대출도 함께 진행된다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:12:00 +0900"
+		},
+		{
+			"title":"[현장스케치] '뉴욕 맛집' 렌위치코리아, 상암에 2호점 상륙",
+			"originallink":"http:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=132732",
+			"link":"http:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=132732",
+			"description":"[사진=김선주 기자] 렌위치 샌드위치는 다양한 <b>재료<\/b>를 아낌없이 넣기 때문에 한 입만 먹어도 '알차다'는 느낌을 받을 수 있다. 쫄깃한 빵과 신선한 <b>재료<\/b>를 담은 속은 직접 배합한 소스와 함께 조화롭게 어우러진다. 각... ",
+			"pubDate":"Wed, 27 Jul 2022 18:10:00 +0900"
+		},
+		{
+			"title":"LG화학, 2Q 영업익 59% 급감…&quot;하반기 석화 지고·첨단소재 뜨고&quot;(종합)",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1136982\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002625043?sid=101",
+			"description":"전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며, 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심의 출하 증가 및 우호적 환율 환경 등으로 수익성도... ",
+			"pubDate":"Wed, 27 Jul 2022 18:09:00 +0900"
+		},
+		{
+			"title":"[스브스뉴스] 라면+라임+요거트+핫소스? 해외에서 핫한 라면 챌린지??",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1006838946&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0000988830?sid=103",
+			"description":"그냥 먹어도 맛있지만, 취향에 따라 <b>재료<\/b>를 첨가하면 더 맛있는 '라면'! 최근 해외에서도 한국 라면에 다양한 <b>재료<\/b>를 추가해 먹는 이른바 'Ramyun hack'이 유행하고 있다고 합니다. 그런데... 파나 계란같이 우리에게도... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"'2TV 생생정보' 솥뚜껑 닭볶음탕, 토종닭 사용 '쫀득쫀득'",
+			"originallink":"http:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=430585",
+			"link":"http:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=430585",
+			"description":"닭볶음탕에 들어가는 모든 양념과 <b>재료<\/b> 역시 직접 농사를 지은 친환경 먹거리로 조리를 해 손님상에 낸다. 토종닭을 사용하기 때문에 살이 실하고 쫀득쫀득한 데다 양념의 감칠맛이 일품이다. 솥뚜껑 닭볶음탕에는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"러시아, 위성 방해 '블라인드 레이저' 무기 시스템 구축 추진",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2022072716475451587c4c3f170b_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2022072716475451587c4c3f170b_1\/article.html",
+			"description":"고체 레이저는 맞춤형 결정질 <b>재료<\/b>를 사용하여 전기 에너지를 광자로 변환한다. 모든 레이저에서 광자는 이득 매질이라는 특수한 유형의 물질을 통과하여 증폭된 다음 빔 디렉터에 의해 일관된 빔으로 집중된다. 광자... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"[지속가능한 식탁] 포장재 없는 마트를 찾아라",
+			"originallink":"http:\/\/www.greenpostkorea.co.kr\/news\/articleView.html?idxno=201311",
+			"link":"http:\/\/www.greenpostkorea.co.kr\/news\/articleView.html?idxno=201311",
+			"description":"우리가 먹는 음식이 지속가능하려면 탄소배출량이 적은 식<b>재료<\/b>를 사용하고 유통과정에서 플라스틱 포장재... 탄소배출량이 적은 식<b>재료<\/b>를 선택하고 그 <b>재료<\/b>가 소비자에게 전달되는 과정이 환경적이어야 한다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"청정지역 무주 귀농-귀촌 메카로 뜨는 비결은?",
+			"originallink":"http:\/\/www.jjn.co.kr\/news\/articleView.html?idxno=916563",
+			"link":"http:\/\/www.jjn.co.kr\/news\/articleView.html?idxno=916563",
+			"description":"# 각종 귀농귀촌 지원 정책을 통해 지역활력 불어 넣는다 군은 이들 문화예술인들에게 작품 <b>재료<\/b>비 등을 지원하면서 무주 생활에 힘을 보탰다. 물론 군에서 문화예술인 창작지원금으로 월 50만 원이 지원됐다. 군은... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"LG화학, 2Q 매출 12조2399억원…영업익 8785억원 전년比 59% ↓",
+			"originallink":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065600442893041",
+			"link":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065600442893041",
+			"description":"전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며, 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심의 출하 증가 및 우호적 환율 환경 등으로 수익성이... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"유럽은 MMC로 건물 '뚝딱', 국내는 '미흡'…“정부 지원방안 마련돼야”",
+			"originallink":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065602226235068",
+			"link":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065602226235068",
+			"description":"MMC는 단위 기술이나 방식을 포괄할 수 있는 개념의 용어로 OSC(탈현장화) DfMA(공장 제작 및 조립 방식), 모듈러, 프리팹 등을 포함해 <b>재료<\/b>, 장비, 인력, 프로세스 등 다양한 사업 투입 요소의 혁신 기술을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"감자튀김 vs 구운 감자...혈당 천천히 올리는 음식은?",
+			"originallink":"http:\/\/www.hidoc.co.kr\/healthstory\/news\/C0000720238",
+			"link":"http:\/\/www.hidoc.co.kr\/healthstory\/news\/C0000720238",
+			"description":"<b>재료<\/b>의 입자 크기가 감소하면 표면적이 증가하여 소화효소가 더욱 쉽게 작용한다. 이로써 으깬 감자를 먹으면 채 썬 감자를 먹었을 때보다 혈당이 더 빠르게 올라간다. 팥죽 같은 각종 죽도 <b>재료<\/b>를 으깨어 만들므로... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"증평군 농업기술센터, 추석 대비 예취기 정비교육 진행",
+			"originallink":"http:\/\/www.breaknews.com\/912129",
+			"link":"http:\/\/www.breaknews.com\/912129",
+			"description":"또한 예취기 정비에 필요한 교육<b>재료<\/b>도 지급해 장기적으로 자가수리 능력 향상에 도움을 줄 계획이다. 농업기술센터 관계자는“물가상승으로 어려움이 많은 농촌에... ",
+			"pubDate":"Wed, 27 Jul 2022 18:04:00 +0900"
+		},
+		{
+			"title":"日 서민들의 '눈물'…라멘 가격 '사상 최고치' 찍었다",
+			"originallink":"https:\/\/www.hankyung.com\/international\/article\/2022072781951",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729962?sid=104",
+			"description":"여러 가지 식<b>재료<\/b>를 사용하기 때문에 서민 물가의 온도계 역할을 한다는 평가를 받는다. 그만큼 <b>재료<\/b>값 상승의 영향을 쉽게 받는 품목이기도 하다. 라면값 인상의 ‘주범’은 면의 주원료인 밀가루였다. 총무성의... ",
+			"pubDate":"Wed, 27 Jul 2022 18:03:00 +0900"
+		},
+		{
+			"title":"나무에 새긴 사랑…샤프 깎는 '안강 할배'",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SCJ0000000&idx=341205",
+			"link":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SCJ0000000&idx=341205",
+			"description":"기초수급자이면서도 한 달에 50여만 원 받는 돈에서 3분의 2는 떼어가지고 <b>재료<\/b> 사가지고 어린이들한테 나눕니다. 어르신은 경주 지역아동센터 등 어린이들에게 매월 200여 개의 나무 샤프를 나누고 있습니다. 최근에는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"전남농업박물관, 봉숭아 물들이기 체험 운영",
+			"originallink":"http:\/\/www.jndn.com\/article.php?aid=1658912348341505003",
+			"link":"http:\/\/www.jndn.com\/article.php?aid=1658912348341505003",
+			"description":"꽃물들이기에 필요한 모든 <b>재료<\/b>를 박물관에서 제공하며 참가자들은 맘에 드는 색의 봉숭아꽃잎을 따 봉숭아 물들이기의 유래와 물들이는 방법 등에 대한 자세한 안내문을 보고 체험을 즐길 수 있다. 쉽게 할 수 있는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:02:00 +0900"
+		},
+		{
+			"title":"[ET] 드라마 ‘우영우’ 속 팽나무의 절규 “쓰레기 제발 좀 가져가세요”",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5519296&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011310000?sid=102",
+			"description":"김밥이 담긴 접시 앞에선 <b>재료<\/b>를 하나씩 눈에 담습니다. 내 이름은, 우.영.우입니다. 자폐 스펙트럼 장애를 겪고 있는 변호사 우영우는 최근 한 인기 드라마의 주인공으로, 번뜩이는 천재성으로 통쾌한 변론을 펼치며... ",
+			"pubDate":"Wed, 27 Jul 2022 18:01:00 +0900"
+		},
+		{
+			"title":"컴투스 아이들루카, 블록체인 P2O버전 글로벌 출시",
+			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20220727162929",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002263746?sid=105",
+			"description":"7일간의 특별 출석 보상 및 미션 달성 이벤트를 통해 게임 재화로 사용할 수 있는 ‘다이아’를 비롯해 ‘종합 성장 <b>재료<\/b>’, ‘소환권’ 등 각종 육성 아이템을 선물한다. 컴투스는 이번 ‘아이들 루카’의 글로벌... ",
+			"pubDate":"Wed, 27 Jul 2022 17:59:00 +0900"
+		},
+		{
+			"title":"2분기 영업익 급감한 LG화학·LG엔솔, 실적개선·주가부양 과제",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016447",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016447",
+			"description":"원<b>재료<\/b> 가격 상승으로 영업이익은 악화됐지만, 판가 인상이 지속되면서 분기 최대 매출을 달성했다.LG화학... 전지<b>재료<\/b> 사업 중심으로 성장이 지속될 것으로 예상했다. 생명과학부분의 경우 당뇨치료제, 백신 등 주요... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"넷마블, '블레이드&amp;소울 레볼루션' 대규모 업데이트 실시",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98854",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98854",
+			"description":"'희생의 무덤' 완료 시 전설 무기, 전설 장신구, 전설 무공서 등의 장비와 성장<b>재료<\/b>를 획득할 수 있다. 이와 함께 넷마블은 문파 활동이 활성화될 수 있도록 '문파 도전' 시스템을 개편하고, 획득 가능한 문파 주화 수량을... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업익 59%↓…LG엔솔 지분, 당분간 매각 안 해",
+			"originallink":"http:\/\/www.upinews.kr\/newsView\/upi202207270076",
+			"link":"http:\/\/www.upinews.kr\/newsView\/upi202207270076",
+			"description":"전지<b>재료<\/b> 출하 확대와 원<b>재료<\/b> 가격 상승에 따른 판매 가격 인상이 분기 최대 매출을 이끌었다. 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심으로 출하량이 늘고 환율도 회사 매출에 우호적으로 작용해... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 매출 12조 2399억원 달성",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98847",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98847",
+			"description":"전지<b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것&quot;이라고... 전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"LG화학, GM에 전기차 500만대분 양극재 공급",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271755370876",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874165?sid=101",
+			"description":"확보했다&quot;면서 &quot;대외 불확실성이 큰 상황 속에서 수익성 개선을 위한 내부적인 노력을 강화하고 전지<b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것&quot;이라고 말했다.",
+			"pubDate":"Wed, 27 Jul 2022 17:56:00 +0900"
+		},
+		{
+			"title":"LG화학, 분기 최대 매출에도…영업익 전년비 59% ↓'뚝'",
+			"originallink":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=141350",
+			"link":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=141350",
+			"description":"전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되면서 분기 최대 매출을 달성했고, 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심의 출하 증가 및 우호적 환율 환경 등으로 수익성도... ",
+			"pubDate":"Wed, 27 Jul 2022 17:56:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업익 8784억 전년比 59%↓ &quot;석유화학 부진&quot;(종합)",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755671",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244703?sid=101",
+			"description":"전지<b>재료<\/b> 판매량 확대와 판가 인상이 수익성을 대폭 끌어올렸다. LG화학은 첨단소재 부문 사업 확장을... 성장하는 전지<b>재료<\/b> 사업에 대해선 지속적인 투자와 안정적 메탈 수급 체계를 구축할 것&quot;이라고 강조했다.",
+			"pubDate":"Wed, 27 Jul 2022 17:55:00 +0900"
+		},
+		{
+			"title":"백종원도 극찬한 ‘강남역 핫도그 할아버지’…뒤늦게 알려진 비보",
+			"originallink":"https:\/\/www.chosun.com\/national\/national_general\/2022\/07\/27\/MB3Q54MYQZD7PE6IS32M4GE2RI\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003706455?sid=102",
+			"description":"7개월 동안 손님이 없어 <b>재료<\/b>를 버리거나 일찍 문 닫기 일쑤였다. 그러다 우연히 ‘백종원의 푸드트럭’에... 덕분에 <b>재료<\/b>는 매번 소진되고 매출은 10배나 늘었다. SNS, 블로그에도 호평만 쏟아졌다. 백종원씨도 알고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:52:00 +0900"
+		},
+		{
+			"title":"[SR산업] LG화학 2분기 영업익 8,785억원…전년比 59%↓",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=117880",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=117880",
+			"description":"전지<b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것&quot;이라고... 전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며... ",
+			"pubDate":"Wed, 27 Jul 2022 17:52:00 +0900"
+		},
+		{
+			"title":"국제피플투피플 동두천챕터, 미군장병과 도시락 나눔행사 진행",
+			"originallink":"http:\/\/www.breaknews.com\/912113",
+			"link":"http:\/\/www.breaknews.com\/912113",
+			"description":"이날 행사는 지난 5월에 이어 두 번째 진행됐으며, 봉사자들은 며칠 전부터 도시락 메뉴를 정하고 음식 <b>재료<\/b>와 요리도구를 미2사단 안으로 운반했으며 아이들이... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"동두천시종합자원봉사센터·PTP 동두천챕터, 동두천 아동센터에 '도시락 전달...",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154534",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154534",
+			"description":"이날 행사는 지난 5월에 이어 두 번째 진행, 봉사자들은 도시락 메뉴를 정하고 음식 <b>재료<\/b>와 요리도구를 미2사단 안으로 운반했으며 아이들이 좋아하는 짜장 소스, 너 겟, 치킨, 김말이, 떡꼬치, 소시지 꼬치 튀김과... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"中 태양광株, 여전히 쨍쨍하네",
+			"originallink":"https:\/\/www.hankyung.com\/finance\/article\/2022072780761",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729931?sid=101",
+			"description":"태양광 소재·부품업체들은 초과 수요와 <b>재료<\/b> 가격 상승 등에 맞춰 제품 가격을 올리면서 실적이 빠르게... 융기실리콘은 원<b>재료<\/b>인 폴리실리콘 가격이 올라도 이를 판매가격에 전가할 수 있는 ‘가격 결정력’을... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"[제철음식 즐기기] 한여름 튼튼한 혈관 만드는 '옥수수'",
+			"originallink":"http:\/\/www.k-health.com\/news\/articleView.html?idxno=60400",
+			"link":"http:\/\/www.k-health.com\/news\/articleView.html?idxno=60400",
+			"description":"옥수수영양밥(도움말=농촌진흥청) - <b>재료<\/b>: 쌀(3컵), 당근(⅓개), 우엉(30g), 표고버섯(3개), 초당옥수수(½개), 다시마(1장), 냉동완두콩(4큰술) - 양념: 참기름(2큰술), 맛술(1큰술), 소금(약간) 1. 쌀을 깨끗이 씻어... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업이익 8785억원…전년比 59% ↓",
+			"originallink":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022072717442578638",
+			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022072717442578638",
+			"description":"전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했다. 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심의 출하 증가 및 우호적 환율 환경 등으로 수익성도 개선됐다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"[컨콜] LG화학, 북미 EV 공략 본격화…&quot;LG엔솔 지분 매각 없다&quot;",
+			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=243287",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002129554?sid=105",
+			"description":"양극재 중간<b>재료<\/b>인 전구체 관련 JV 설립도 공식화했다. LG화학은 고려아연 자회사 켐코와 JV를 세우기로 했다. 켐코는 전구체 원<b>재료<\/b>인 황산니켈을 생산하고 배터리 리사이클 기술을 확보한 상태다. 해당 JV는 국내... ",
+			"pubDate":"Wed, 27 Jul 2022 17:48:00 +0900"
+		},
+		{
+			"title":"'오딘: 발할라 라이징', 챕터6 '아스가르드' 오픈",
+			"originallink":"http:\/\/www.econovill.com\/news\/articleView.html?idxno=583533",
+			"link":"http:\/\/www.econovill.com\/news\/articleView.html?idxno=583533",
+			"description":"각반은 게임 플레이 도중 획득하거나 제작 가능하며, 이외에도 이용자들은 각종 <b>재료<\/b>들을 모아 새롭게 업데이트된 전설 장비들을 제작할 수 있다. 추가로 클래스별 신규 전설 및 영웅 등급 '아바타'가 1종씩 추가됐다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:46:00 +0900"
+		},
+		{
+			"title":"(주)삼촌네푸드, '찰순이 양념게장' 전국 택배 판매 개시",
+			"originallink":"http:\/\/www.interview365.com\/news\/articleView.html?idxno=102922",
+			"link":"http:\/\/www.interview365.com\/news\/articleView.html?idxno=102922",
+			"description":"'찰순이양념게장'은 국내산 싱싱한 꽃게와 강원도 양구의 고랭지 고추가루만을 사용하여 게장을 정성스레 만들고, 이외의 모든 <b>재료<\/b>들 역시 전부 국산만을 고집한다. '찰순이양념게장'을 제조하는 ㈜삼촌네푸드 관계자는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:46:00 +0900"
+		},
+		{
+			"title":"[이상민의 건치로 지키는 백세건강] 나는 대한민국 치과의사다 ⑫작은 고추가...",
+			"originallink":"http:\/\/www.k-health.com\/news\/articleView.html?idxno=60399",
+			"link":"http:\/\/www.k-health.com\/news\/articleView.html?idxno=60399",
+			"description":"뼈이식 <b>재료<\/b> 쪽으로도 눈을 돌려 개발역량을 집중했다. 그 결과 코웰메디는 rhBMP-2 기반의 골이식<b>재료<\/b>를 2010년 개발해 국내외로 수출하고 있다. BMP(Bone Morphogenetic Protein)는 뼈를 만들어내는 단백질이라는 뜻의... ",
+			"pubDate":"Wed, 27 Jul 2022 17:46:00 +0900"
+		},
+		{
+			"title":"'보록'의 귀환 뒤엔 lol 게임사 있었다",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OP4HEBA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004080996?sid=103",
+			"description":"재단 측 전문가들은 <b>재료<\/b>와 장식의 특성 등이 1800년대 이후에 제작된 보록의 특성을 보인다고 진단했다. 현존하는 312건의 보록과 인록(인장함)은 모두 임진왜란 이후인 1600년대로부터 순종대까지 300여 년에 걸쳐 제작된... ",
+			"pubDate":"Wed, 27 Jul 2022 17:44:00 +0900"
+		},
+		{
+			"title":"TSMC·인텔, 섭씨 40도에도 증설 한창…애리조나 '사막의 新오아시스'로 인재...",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268OORV16H",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004080993?sid=104",
+			"description":"인텔과 TSMC라는 글로벌 반도체 기업들을 둘러싸고 장비 제조 업체, 화학물질 및 <b>재료<\/b> 공급 업체, 반도체 패키징 업체 등도 줄줄이 들어서고 있다. 이미 인텔 오코틸로 캠퍼스 인근에는 세계적인 반도체 디자인 회사 NXP를... ",
+			"pubDate":"Wed, 27 Jul 2022 17:43:00 +0900"
+		},
+		{
+			"title":"‘형’ LG화학 사상 최대 분기 매출…‘동생’ LG엔솔은 고전(종합)",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271722067760285",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207271722067760285",
+			"description":"첨단소재 부문은 양극재 등 배터리 <b>재료<\/b> 수요가 늘어나는 가운데 가격 상승에 따른 판가 인상도 지속되면서 사상 최대 분기 매출을 기록했다. 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심으로 출하량이... ",
+			"pubDate":"Wed, 27 Jul 2022 17:42:00 +0900"
+		},
+		{
+			"title":"신세계푸드, 소고기 대체육 연구하고 정육점 열고… 식물성 식품 강화",
+			"originallink":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022072714180418370",
+			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022072714180418370",
+			"description":"식물성 <b>재료<\/b>를 활용해 기타 <b>재료<\/b>들을 첨가, 최대한 소고기의 맛과 향을 내는 것이 관건이다. 소고기는 부위별로 맛이 다르기 때문에 연구진은 소고기 부위별 맛 성분과 냄새 성분의 데이터베이스도 연구할 예정이다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:42:00 +0900"
+		},
+		{
+			"title":"[신제품] 엔제리너스·GS25·던킨 외",
+			"originallink":"http:\/\/sports.hankooki.com\/news\/articleView.html?idxno=6803162",
+			"link":"http:\/\/sports.hankooki.com\/news\/articleView.html?idxno=6803162",
+			"description":"핫 샌드위치는 '갓 구운 따뜻한 오븐 토스트'라는 콘셉트로 생크림 번을 구워 스모크 햄ㆍ치즈 등 다양한 속 <b>재료<\/b>를 채운 햄치즈, 에그햄치즈, 불고기햄치즈 총 3종이다. 매장 오픈 시간부터 오후 12시까지, 오전... ",
+			"pubDate":"Wed, 27 Jul 2022 17:42:00 +0900"
+		},
+		{
+			"title":"넷마블 블소 레볼루션, 새 전설 시즌 던전 추가",
+			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20220727161825",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002263740?sid=105",
+			"description":"‘희생의 무덤’ 완료 시 전설 무기, 전설 장신구, 전설 무공서 등의 장비와 성장<b>재료<\/b>를 획득할 수 있다. 이와 함께 넷마블은 문파 활동이 활성화될 수 있도록 ‘문파 도전’ 시스템을 개편하고, 획득 가능한 문파 주화... ",
+			"pubDate":"Wed, 27 Jul 2022 17:40:00 +0900"
+		},
+		{
+			"title":"[신상품] 롯데GRS·SPC·오뚜기·동서식품",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2022046",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2022046",
+			"description":"HOT 샌드위치는 '갓 구운 따뜻한 오븐 토스트'라는 콘셉트로 촉촉한 생크림 번을 구워 스모크 햄·치즈 등의 다양한 속 <b>재료<\/b>를 채운 △햄치즈, △에그햄치즈, △불고기햄치즈 등 3종으로 출시됐다. 롯데GRS관계자는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:40:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업이익 8985억원...전년 대비 '반토막'",
+			"originallink":"https:\/\/www.fetv.co.kr\/news\/article.html?no=120952",
+			"link":"https:\/\/www.fetv.co.kr\/news\/article.html?no=120952",
+			"description":"전지<b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것”이라고... 전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되면서 분기 최대 매출을 달성했다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:40:00 +0900"
+		},
+		{
+			"title":"[AT 유통 소식] 오뚜기·CJ제일제당·hy·매일유업·롯데제과·롯데GRS",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20220727500337",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20220727500337",
+			"description":"이번에 선보인 HOT 샌드위치는 ‘갓 구운 따뜻한 오븐 토스트’라는 콘셉트로 촉촉한 생크림 번을 구워 스모크 햄ㆍ치즈 등의 다양한 속 <b>재료<\/b>를 든든하게 채운 △햄치즈, △에그햄치즈, △불고기햄치즈 총 3종이다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:38:00 +0900"
+		},
+		{
+			"title":"LG화학, 2Q 매출 '12조원'…전년比 7% 늘어",
+			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=476015",
+			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=476015",
+			"description":"전지<b>재료<\/b> 출하 확대와 원자재가격 상승에 따른 판가 인상이 지속된 탓이다. 하이니켈 양극재, 반도체... 전지<b>재료<\/b>사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비를 지속해 나가겠다&quot;고 강조했다.",
+			"pubDate":"Wed, 27 Jul 2022 17:38:00 +0900"
+		},
+		{
+			"title":"컴투스, 노바코어 개발 방치형 RPG '아이들 루카' 글로벌 출시",
+			"originallink":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=218454",
+			"link":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=218454",
+			"description":"먼저 7일간의 특별 출석 보상·미션 달성 이벤트를 통해 게임 재화로 사용할 수 있는 '다이아'와 '종합 성장 <b>재료<\/b>', '소환권' 등 각종 육성 아이템을 선물한다. '아이들 루카'의 게임 소개와 이벤트에 대한 자세한 정보는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:38:00 +0900"
+		},
+		{
+			"title":"올팩코리아, KOREA PACK 2022서 요식업소용 식품포장기 선보여... &quot;슬라이드 ...",
+			"originallink":"http:\/\/kr.aving.net\/news\/articleView.html?idxno=1770213",
+			"link":"http:\/\/kr.aving.net\/news\/articleView.html?idxno=1770213",
+			"description":"패키지 <b>재료<\/b> 및 컨버팅 그리고 패키징 이후에 이어지는 물류·유통·자동화 분야의 전체 공급망(Supply... 킨텍스 1전시장(1~5홀)에서는 1홀 국제물류산업대전(Korea Mat), 2~5홀은 포장기계(Korea Pack), <b>재료<\/b>, 친환경 패키징... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업이익 8785억원...전년동기비 59% 감소",
+			"originallink":"https:\/\/www.ngetnews.com\/news\/articleView.html?idxno=409508",
+			"link":"https:\/\/www.ngetnews.com\/news\/articleView.html?idxno=409508",
+			"description":"전지<b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것&quot;이라고... 전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업이익 8785억원...지난해 동기 대비 59% 감소",
+			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220727500317",
+			"link":"https:\/\/www.news2day.co.kr\/article\/20220727500317",
+			"description":"전지<b>재료<\/b> 사업 등 3대 신성장 동력에 중점 투자해 미래 성장 위한 대비 나선다 LG화학은 27일 컨퍼런스콜을... 차 부사장은 또 “최근 비약적으로 성장하고 있는 전지<b>재료<\/b> 사업 등 3대 신성장 동력에 대한 투자를 늘려... ",
+			"pubDate":"Wed, 27 Jul 2022 17:34:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업익 8785억원…전년比 59%↓",
+			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20220727522354?OutUrl=naver",
+			"link":"http:\/\/www.segyebiz.com\/newsView\/20220727522354?OutUrl=naver",
+			"description":"전지<b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것”이라고... 전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며... ",
+			"pubDate":"Wed, 27 Jul 2022 17:34:00 +0900"
+		},
+		{
+			"title":"LG화학, 불쑥 큰 '전지소재' 사업…석유화학 부진 속 유일한 위안",
+			"originallink":"http:\/\/www.bloter.net\/newsView\/blt202207270025",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000039977?sid=105",
+			"description":"첨단소재 사업 부문은 전지<b>재료<\/b>, IT∙반도체 소재, 엔지니어링 소재, 기타 등 4개 사업으로 구성돼 있는데 전지소재 사업 비중은 57%로 대부분을 차지하고 있다. 첨단소재 사업 호실적은 배터리 핵심 소재인 양극재... ",
+			"pubDate":"Wed, 27 Jul 2022 17:33:00 +0900"
+		},
+		{
+			"title":"美 라이스대 &quot;죽은 거미 다리를 그리퍼로 만들어&quot;",
+			"originallink":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29122",
+			"link":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29122",
+			"description":"<b>재료<\/b>를 사용하는 소프트 로봇 시스템을 전문적으로 연구해왔다. 왼쪽이 다니엘 프레스턴 교수 프레스턴 교수는 &quot;우리는 화학반응, 공기압, 빛과 같은 것에 의해 작동되는 하이드로젤과 탄성체 등 새로운 <b>재료<\/b>에 흥미를... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"LG화학 CFO &quot;석화 수요부진으로 반등 쉽지 않아…위기를 기회로 만들것&quot;",
+			"originallink":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4226072",
+			"link":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4226072",
+			"description":"전지 <b>재료<\/b> 사업은 투자와 더불어 안정적 메탈 수급 구축과 프리미엄 제품 확대, 주문자상표부착(OEM) 협력 등으로 지속적 도약을 이루도록 하겠다&quot;고 설명했다. 이어 &quot;전사 수익성은 7.2%로 전분기 대비 소폭 감소했으나... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"LG화학, 석유화학·첨단소재 호조에 '분기 최대 매출' 달성",
+			"originallink":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=183197",
+			"link":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=183197",
+			"description":"전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며, 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심의 출하 증가 및 우호적 환율 환경 등으로 수익성도... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"유럽·한국 과학자, 인류의 미래를 고민하다…EKC2022 성료",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755628",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244674?sid=105",
+			"description":"세부적으로는 건축환경, 기초과학, 화학 및 <b>재료<\/b>, 전기전자 정보통신기술(ICT), 환경에너지, 바이오등 9개 분야로 세션이 진행됐다. 이외에도 산업포럼, 핵융합에너지포럼, EU-한국 탄소중립과 지역혁신 융합포럼... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"LG화학, 고유가 속 2분기 선방…&quot;배터리 소재 M&amp;A 적극 검토&quot;(종합)",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022072716383658427",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004776089?sid=101",
+			"description":"전지<b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것&quot;이라고... 전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했다. 하이니켈... ",
+			"pubDate":"Wed, 27 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"롯데백화점 대전점, ‘가을학기 문화센터’ 수강생 모집",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755656",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244669?sid=102",
+			"description":"초코머핀, 샌드위치 만들기 강좌는 제철 <b>재료<\/b>를 가지고 만드는 '가을에 어울리는 밤 생크림 케이크 만들기' 와 이벤트 날에 선물용으로 활용 가능한 쿠키 빼빼로 만들기 등 다양한 쿠킹 클래스를 선보인다. 다양한 마음... ",
+			"pubDate":"Wed, 27 Jul 2022 17:30:00 +0900"
+		},
+		{
+			"title":"한전 전력연구원, 변압기 상태진단용 유중가스센서 및 프로브 개발",
+			"originallink":"http:\/\/www.epj.co.kr\/news\/articleView.html?idxno=30902",
+			"link":"http:\/\/www.epj.co.kr\/news\/articleView.html?idxno=30902",
+			"description":"변압기 내부에 국부과열이나 절연파괴와 같은 이상현상이 발생하면, 고열로 인해 내부의 절연유와 절연지 등의 절연<b>재료<\/b>는 온도 대역별로 열분해돼 다양한 가스를 발생시킨다. 발생한 가스의 조성과 양을 분석함으로써... ",
+			"pubDate":"Wed, 27 Jul 2022 17:28:00 +0900"
+		},
+		{
+			"title":"핵심기술 지키는 민간경비",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2145121",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2145121",
+			"description":"이는 음식을 만드는 비법과 핵심<b>재료<\/b> 유출되어 며느리 친정 식구 등 다른 사람들이 알게 되면 음식 장사가 위협받을 수 있다는 생각에서일 것이다. 핵심기술을 보유한 대부분의 기업은 핵심기술보호를 위하여... ",
+			"pubDate":"Wed, 27 Jul 2022 17:28:00 +0900"
+		},
+		{
+			"title":"바오밥목공전문학원, kt그룹 희망나눔인상 선정",
+			"originallink":"https:\/\/www.sisa-news.com\/news\/article.html?no=207049",
+			"link":"https:\/\/www.sisa-news.com\/news\/article.html?no=207049",
+			"description":"‘바오밥목공전문학원’에서 기부하는 가구와 주택은 모두 이 곳에 다니고 있는 훈련생들이 재능기부를 하고 학원 자체적으로 추가적으로 들어가는 <b>재료<\/b>비를 충당해 기부활동을 벌인다. 올해 고용노동부 ‘청년친환경... ",
+			"pubDate":"Wed, 27 Jul 2022 17:28:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 '분기 최대 매출' 달성",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220727000920",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220727000920",
+			"description":"전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속돼 분기 최대 매출을 달성했다. 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심의 출하 증가 및 우호적 환율 환경 등으로 수익성도 개선됐다고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:27:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업이익 8785억원···전년비 59.0%↓",
+			"originallink":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=462602",
+			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=462602",
+			"description":"전지<b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것&quot;이라고... 전지<b>재료<\/b> 출하 확대와 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했다. 특히... ",
+			"pubDate":"Wed, 27 Jul 2022 17:27:00 +0900"
+		},
+		{
+			"title":"부산대, 양산캠퍼스에 최첨단 전문분석센터 운영",
+			"originallink":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800401",
+			"link":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800401",
+			"description":"농수산학, <b>재료<\/b>공학 등 다양한 첨단 연구에 활용할 수 있다. 암과 같은 난치병 진단법과 치료제 개발 연구로 구조생물학계와 의학계 최첨단 연구를 활성화하고 학제간 최첨단 융합 연구 촉진에도 도움을 줄 것으로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:26:00 +0900"
+		},
+		{
+			"title":"[종합] LG화학, 2분기 매출액 최고 기록 달성했지만 영업익 59% 줄어",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220727171607351",
+			"link":"https:\/\/www.ajunews.com\/view\/20220727171607351",
+			"description":"전지<b>재료<\/b> 출하가 늘고, 원<b>재료<\/b> 가격 상승에 따라 제품 판매가가 오르며 2분기 최대 매출을 기록했다. 생명과학 부문은 당뇨치료제·성장호르몬 등 주요 제품의 판매가 늘어나 매출 2217억원에 영업이익 242억원의... ",
+			"pubDate":"Wed, 27 Jul 2022 17:24:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 매출 12.2조·영업익 8785억…&quot;엔솔 지분 매각 안해&quot;(종합2보)",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022072717233855131",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005124294?sid=101",
+			"description":"전지<b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것&quot;이라고... 전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며... ",
+			"pubDate":"Wed, 27 Jul 2022 17:23:00 +0900"
+		},
+		{
+			"title":"LG화학, 2Q 영업익 8785억 원…전분기비 14.3% 하락",
+			"originallink":"http:\/\/www.mediapen.com\/news\/view\/741655",
+			"link":"http:\/\/www.mediapen.com\/news\/view\/741655",
+			"description":"전지<b>재료<\/b> 출하량 증가 및 원<b>재료<\/b>값 상승분 반영 등으로 분기 최대 매출을 냈고, 하이니켈 양극재와 반도체 소재를 비롯한 고수익성 제품 및 환율 효과 등에 힘입어 수익성도 개선됐다. 3분기의 경우 메탈값 하락... ",
+			"pubDate":"Wed, 27 Jul 2022 17:22:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업이익 8785억원…전년比 59%↓",
+			"originallink":"https:\/\/economist.co.kr\/2022\/07\/27\/industry\/car\/20220727172030763.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000029241?sid=103",
+			"description":"전지 <b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며, 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심의 출하 증가 및 우호적 환율 환경 등으로 수익성도... ",
+			"pubDate":"Wed, 27 Jul 2022 17:21:00 +0900"
+		},
+		{
+			"title":"[우난순의 식탐] 일주일 동안 열무비빔밥 먹은 사연",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220727010007712",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220727010007712",
+			"description":"겨우 두 줌 뜯어다 김밥 <b>재료<\/b>로 썼다. 여러 사람과 같이 밭을 가꾸다 보니 밭마다 주인의 성향이 보였다. 욕심많은 사람은 공간이 안보이게 빽빽하게 심었다. 풀 한포기 없이 깔끔한 밭도 있다. 나는? 적당히 방목하는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:20:00 +0900"
+		},
+		{
+			"title":"엔제리너스, 간편하고 든든한 모닝 메뉴 선봬",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98821",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=98821",
+			"description":"이번에 선보인 HOT 샌드위치는 '갓 구운 따뜻한 오븐 토스트'라는 콘셉트로 촉촉한 생크림 번을 구워 스모크 햄ㆍ치즈 등의 다양한 속 <b>재료<\/b>를 든든하게 채운 △햄치즈, △에그햄치즈, △불고기햄치즈 총 3종이다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:20:00 +0900"
+		},
+		{
+			"title":"LG화학, 분기 최대 매출 12조2399억원 기록...&quot;배터리 소재 인수합병 적극 검...",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022072702109932049006&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002746207?sid=101",
+			"description":"전기차 배터리 <b>재료<\/b>인 양극재 출하 증대로 첨단소재 부문의 수익성이 개선된 영향이다. 향후 차세대 배터리... 전지<b>재료<\/b> 출하 증대와 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:19:00 +0900"
+		},
+		{
+			"title":"컴투스, 방치형 수집 RPG '아이들 루카' 전 세계 출시",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580760",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580760",
+			"description":"7일간의 특별 출석 보상 및 미션 달성 이벤트를 통해 게임 재화로 사용할 수 있는 ‘다이아’를 비롯해 ‘종합 성장 <b>재료<\/b>’, ‘소환권’ 등 각종 육성 아이템을 선물한다. 한편 컴투스는 이번 ‘아이들 루카’의... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"[독자민원실] 비산먼지 '폴폴'…숨 막히는 장애인들",
+			"originallink":"http:\/\/www.jemin.com\/news\/articleView.html?idxno=741065",
+			"link":"http:\/\/www.jemin.com\/news\/articleView.html?idxno=741065",
+			"description":"최근 A장애인시설을 확인한 결과 인근에는 아스콘 공장과 아스콘 생산 <b>재료<\/b>인 돌을 쌓아 둔 야적장이 조성돼 있었다. 특히 아스콘 공장 굴뚝에서 매연이 나오고 야적장에서 돌을 깨는 작업이 한창 이뤄지면서... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"[미술시장 완전정복] 생명의 끝에 남는 숯으로…미술시장 대세로 떠오르다",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=662694&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004997103?sid=103",
+			"description":"<b>재료<\/b> 살 돈도 없던 그의 눈에 값싼 바비큐용 숯이 들어왔습니다. 파리 근교의 빈 담배공장에서 숯으로... '무제'는 단순한 드로잉 같지만 <b>재료<\/b> 덕분에 특별한 물성을 얻습니다. '불로부터'는 20여 년을 이어온... ",
+			"pubDate":"Wed, 27 Jul 2022 17:15:00 +0900"
+		},
+		{
+			"title":"고령 소재 ENF에너지, 커피박 업사이클링 제품으로 중기부 ESG 우수사례 선정",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220726010003274",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220726010003274",
+			"description":"이 업체는 업사이클링(버려진 제품을 새로운 제품으로 만드는 과정)을 통해 연료·도자기 유약 <b>재료<\/b>로... 커피박으로 만든 도자기 유약 역시 천연<b>재료<\/b>로 안전성이 좋다.올해로 3회째를 맞은 이 대회는 환경·사회... ",
+			"pubDate":"Wed, 27 Jul 2022 17:14:00 +0900"
+		},
+		{
+			"title":"예천군, 카페 창업에 초점 둔 맞춤형 교육 실시",
+			"originallink":"http:\/\/www.breaknews.com\/912097",
+			"link":"http:\/\/www.breaknews.com\/912097",
+			"description":"특히, 바리스타(1.2급), 떡제조기능사 등 관련 자격 보유자 또는 관련프로그램 수료자를 우대하며 수강료는 무료이나 교육<b>재료<\/b>비 등은 일부 본인 부담금이 발생할 수... ",
+			"pubDate":"Wed, 27 Jul 2022 17:14:00 +0900"
+		},
+		{
+			"title":"울산 발달장애인 대상 ‘주제 없는 공모전’ 작품 모집",
+			"originallink":"http:\/\/www.ablenews.co.kr\/News\/NewsContent.aspx?CategoryCode=0040&NewsCode=004020220727162256685827",
+			"link":"http:\/\/www.ablenews.co.kr\/News\/NewsContent.aspx?CategoryCode=0040&NewsCode=004020220727162256685827",
+			"description":"이번 그림 공모전은 정해진 주제, 작품의 규격 및 <b>재료<\/b> 또한 자유로 진행되지만, 그래픽 작품이나 조소 작품은 심사에서 제외된다. 울산발달센터는 심사를 통해 대상 1명과 금상 1명, 은상 2명 등 모두 20개 작품을... ",
+			"pubDate":"Wed, 27 Jul 2022 17:14:00 +0900"
+		},
+		{
+			"title":"경남 고성에 6M 높이 거대공룡 출현",
+			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=853131",
+			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=853131",
+			"description":"이판철 씨는 지난 5월부터 국내 공룡 관련 조형물과 화석 등의 자료를 수집·분석해 왔으며, 나무가 가진 <b>재료<\/b>의 특성을 가장 잘 표현하면서도 대중의 선호도가 높은 트리케라톱스를 조각할 것을 결정했다. 또 공룡 논... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업이익 8785억원…전년 대비 59% 감소",
+			"originallink":"http:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=38231",
+			"link":"http:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=38231",
+			"description":"전지<b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했다. 하이니켈 양극재, 반도체 소재 등 고수익성 제품 중심의 출하 증가 및 우호적 환율 환경 등으로 수익성도 개선됐다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"LG화학, 대외 불확실성에 영업이익 반토막…첨단소재부문은 수익성 개선",
+			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000073730?division=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000296473?sid=101",
+			"description":"첨단소재 부문은 매출 2조184억원, 영업이익 3354억원을 기록했고, 전지<b>재료<\/b> 출하 확대로 분기 최대 매출을... 전지<b>재료<\/b>사업등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속할 것&quot;이라고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"LG화학, 2Q 영업익 전년比 59%↓…“고유가ㆍ인플레이션 영향”",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2157942",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2157942",
+			"description":"전지 <b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 이어지며 분기 최대 매출을 달성했다. 하이니켈 양극재, 반도체 소재 등 고수익성 제품도 출하 증가 및 우호적 환율 환경 등으로 수익성도 개선됐다.... ",
+			"pubDate":"Wed, 27 Jul 2022 17:12:00 +0900"
+		},
+		{
+			"title":"컴투스, 방치형 수집 RPG '아이들 루카' 글로벌 서비스 개시",
+			"originallink":"http:\/\/www.koreaittimes.com\/news\/articleView.html?idxno=114798",
+			"link":"http:\/\/www.koreaittimes.com\/news\/articleView.html?idxno=114798",
+			"description":"7일간의 특별 출석 보상 및 미션 달성 이벤트를 통해 게임 재화로 사용할 수 있는 '다이아'를 비롯 '종합 성장 <b>재료<\/b>', '소환권' 등 각종 육성 아이템을 선물한다. 한편, 컴투스는 이번 '아이들 루카'의 글로벌 출시로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:10:00 +0900"
+		},
+		{
+			"title":"엔제리너스, 모닝 세트 출시…&quot;즉시 조리한 아침 메뉴 제공&quot;",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016420",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016420",
+			"description":"생크림 번을 굽고, 사이에 스모크 햄·치즈 등의 다양한 속 <b>재료<\/b>를 넣은 샌드위치로 △햄치즈, △에그햄치즈, △불고기햄치즈 총 3종이다.롯데GRS 관계자는 &quot;엔제리너스의 샌드위치 메뉴는 완제품을 단순히 데워 제공하지... ",
+			"pubDate":"Wed, 27 Jul 2022 17:10:00 +0900"
+		},
+		{
+			"title":"‘생방송 투데이’ 오늘방송맛집- 리얼 맛집, 산해진미 불철판 코스요리 ‘티...",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2158014",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2158014",
+			"description":"신선한 <b>재료<\/b>와 특별한 맛, 화려한 불 쇼 등 세 요소가 조화롭게 어우러진다는 후문이다. 바다를 품었다! 산해진미 불철판 코스요리 편 ‘티○○○○’의 특별한 맛 이야기는 27일 오후 7시 방송되는 SBS ‘생방송 투데이’... ",
+			"pubDate":"Wed, 27 Jul 2022 17:08:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 12.2조원 '최대 매출'...영업익은 전년비 59% 감소",
+			"originallink":"http:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=99111",
+			"link":"http:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=99111",
+			"description":"전지<b>재료<\/b> 출하 확대와 원<b>재료<\/b> 가격 상승에 따라 판가 인상이 지속되면서 분기 최대 매출을 달성했다. 아울러 하이니켈 양극재와 반도체 소재 등 고수익성 중심의 출하 증가와 우호적인 환율 환경으로 수익성이... ",
+			"pubDate":"Wed, 27 Jul 2022 17:08:00 +0900"
+		},
+		{
+			"title":"대우조선 원하청 문제를 바라보는 세 가지 시선",
+			"originallink":"http:\/\/www.mediaus.co.kr\/news\/articleView.html?idxno=300766",
+			"link":"http:\/\/www.mediaus.co.kr\/news\/articleView.html?idxno=300766",
+			"description":"곽태원 원장은 &quot;2016년 한국노동연구원의 연구보고서 '조선산업의 구조조정과 고용대책'에 의하면 사내하청업체는 생산라인의 일부를 배정받고, 조선소의 기계와 시설을 이용하며, 조선소가 제공하는 도구와 <b>재료<\/b>로 작업을... ",
+			"pubDate":"Wed, 27 Jul 2022 17:08:00 +0900"
+		},
+		{
+			"title":"인천 검단선사박물관, 머그컵 만들기와 발굴 체험 '여름방학 체험프로그램' 운...",
+			"originallink":"http:\/\/www.lecturernews.com\/news\/articleView.html?idxno=103033",
+			"link":"http:\/\/www.lecturernews.com\/news\/articleView.html?idxno=103033",
+			"description":"각 프로그램 정원은 10명으로 선착순으로 모집하고 수강료, <b>재료<\/b>비는 무료이다. 시립박물관 관계자는 &quot;무더위가 일찍 시작된 이번 여름 어린이들이 시원한 박물관에서 인천의 고고학과 선사시대에 흠뻑 빠져 즐거운... ",
+			"pubDate":"Wed, 27 Jul 2022 17:06:00 +0900"
+		},
+		{
+			"title":"LG화학, 2022년 2분기 경영실적 발표",
+			"originallink":"http:\/\/www.fintechpost.co.kr\/news\/articleView.html?idxno=159434",
+			"link":"http:\/\/www.fintechpost.co.kr\/news\/articleView.html?idxno=159434",
+			"description":"전지 <b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것&quot;이라고... 전지 <b>재료<\/b> 출하 확대 및 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며... ",
+			"pubDate":"Wed, 27 Jul 2022 17:06:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 12조2399억원, 역대 최대 분기 매출 속 영업익 하락",
+			"originallink":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=47540",
+			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=47540",
+			"description":"전지<b>재료<\/b> 출하 확대와 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되면서 분기 최대 매출의 동력이 됐습니다. 이 외에도 하이니켈 양극재와 반도체 소재 등 고수익성 제품 중심의 출하 증가와 환율 덕으로 등으로... ",
+			"pubDate":"Wed, 27 Jul 2022 17:04:00 +0900"
+		},
+		{
+			"title":"LG화학, 2분기 영업익 8785억…전년比 59%↓",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/economy\/1954663.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000163420?sid=101",
+			"description":"전지<b>재료<\/b> 사업 등 3대 신성장 동력 중심의 투자를 통해 미래 성장을 위한 준비도 지속해 나갈 것&quot;이라고... 전지<b>재료<\/b> 출하 확대, 원<b>재료<\/b> 가격 상승에 따른 판가 인상이 지속되며 분기 최대 매출을 달성했으며, 하이니켈... ",
+			"pubDate":"Wed, 27 Jul 2022 17:03:00 +0900"
+		}
+	]
+}

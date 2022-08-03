@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:37 +0900",
+	"total":11904,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"기업 <b>안전직무<\/b>교육 평가 시스템 설계에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77899872",
+			"description":"A Study on the Design for the Assessment System of Safety Job Skill Training in the Enterprise Prevention of the disasters is the best "
+		},
+		{
+			"title":"보육교사의 <b>안전<\/b>의식, <b>안전<\/b>태도가 <b>안전직무<\/b>수행에 미치는 영향 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=604073672",
+			"description":"A Study on the Effects of the Safety Consciousness and Safety Attitude on Safety Job Performance in the Organization Recognized by Chil"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843002009",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889926765",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888195849",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822311724",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822273643",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873920142",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871374626",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885036054",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891225584",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891351701",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874120000",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882382844",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891119087",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886893098",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877034824",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888363252",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881546050",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868817941",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896889903",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874588998",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890644736",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888811334",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872860745",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886960355",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882881233",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889766424",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890825009",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873453466",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887281547",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865565211",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887630818",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890472486",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881134597",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898588483",
+			"description":"A study on the relationship between the safety of the workplace climate, safety awareness, the safety procedures of the daycare center,"
+		},
+		{
+			"title":"RP(Rapid Prototyping) 접근법에 기반한 농작업 <b>안전 직무<\/b>교육 프로그램 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290326603",
+			"description":"Job Training Program Development for Agricultural Safety and Health based on Rapid Prototyping Approach 이 연구는 농작업 <b>안전<\/b>"
+		},
+		{
+			"title":"어린이집의 <b>안전<\/b>풍토, <b>안전<\/b>의식 <b>안전<\/b>태도와 보육교사의 <b>안전직무<\/b>수행과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630767687",
+			"description":"(A) Study on the Relationship Between the Safety of the Workplace Climate, Safety Awareness, the Safety Procedures of the Daycare Cente"
+		},
+		{
+			"title":"버스 운전자들의 성격 특성이 <b>안전 직무<\/b>수행과 교통사고에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79177003",
+			"description":"  Ⅰ. 서론 1\n 1. 직업 운전자의 <b>안전 직무<\/b>수행 4\n 2. 성격과 <b>안전 직무<\/b>수행 7\n 3. 성격과 <b>안전 직무<\/b>수행 간"
+		},
+		{
+			"title":"기계 시스템 생산 작업관리자 <b>직무<\/b> 분석에 의한 <b>안전직무<\/b>교육 개발에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595040873",
+			"description":"   NCS, Career Clusters in USA, Production and Safety Management "
+		},
+		{
+			"title":"철도<b>안전<\/b>업무수행자 <b>직무<\/b> 역량관리를 위한 <b>안전직무<\/b> 분류체계 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880808280",
+			"description":" 2014년 부터 시행된 철도<b>안전<\/b>관리체계에서 <b>안전<\/b>한 철도운영을 위하여 인력 부문의 공통된 요구사항은"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준을 활용한 <b>안전직무<\/b>의 BSC 인사평가 시스템 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594946870",
+			"description":"   Safety Duty, BSC, NCS "
+		},
+		{
+			"title":"기업 <b>안전직무<\/b>교육 평가 시스템 설계에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594010156",
+			"description":"   safety job skill training, assessment system, AHP "
+		},
+		{
+			"title":"기계 시스템 생산 작업관리자 <b>직무<\/b> 분석에 의한 <b>안전직무<\/b>교육 개발에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290871497",
+			"description":"A Study on Development of Safety Duty Education According to Production Manager Job Analysis in the Mechanical System As the demand for"
+		},
+		{
+			"title":"버스 운전자들의 성격 특성과 <b>안전 직무<\/b>수행 및 교통사고와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594487675",
+			"description":"   personality traits, safety job performance, traffic accident, HEXACO, occupational bus drivers "
+		},
+		{
+			"title":"<b>직무<\/b>역량관리를 위한 핵심<b>안전직무<\/b> 도출 기준 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157670915",
+			"description":""
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준을 활용한 <b>안전직무<\/b>의 BSC 인사평가 시스템 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157474834",
+			"description":"A Study on Development of Balanced ScoreCard Personnel Assessment Using of Safety Duty Using National Competency Standards If examining"
+		},
+		{
+			"title":"사업장의 <b>안전직무<\/b>교육제도 개선 방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11538965",
+			"description":"Study on the Improvement of Industrial Safety Education and Ttaining Regulation  목차\n사업장의 <b>안전직무<\/b>교육제도 개선 "
+		},
+		{
+			"title":"RP(Rapid Prototyping) 접근법에 기반한 농작업 <b>안전 직무<\/b>교육 프로그램 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45680149",
+			"description":"Job Training Program Development for Agricultural Safety and Health based on Rapid Prototyping Approach 이 연구는 농작업 <b>안전<\/b>"
+		},
+		{
+			"title":"오행체질론에 의한 <b>안전직무<\/b> 설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11527262",
+			"description":"Job Design for Safety Based on Five Elements Constitution In the Oriental Medicine, the physical constitution of a human being can be c"
+		},
+		{
+			"title":"버스 운전자들의 성격 특성과 <b>안전 직무<\/b>수행 및 교통사고와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890018219",
+			"description":"The Relationship among Bus Driver`s Personality Traits, Safety Job Performance and Traffic Accidents The study examined the relationshi"
+		},
+		{
+			"title":"연구실 <b>안전<\/b>환경 기반구축사업 : 연구실 <b>안전<\/b> 환경 기반구축을 위한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77556553",
+			"description":"   연구실, 연구실<b>안전<\/b> "
+		},
+		{
+			"title":"농작업 <b>안전 직무<\/b>교육 프로그램 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18328978",
+			"description":"  Ⅰ. 연구 개요\t\n1.농작업 <b>안전<\/b>보건 관리자의 인재상 및 정의\t\t\t\t\t\t\t\t\t\n2.농작업 <b>안전<\/b>보건 일반관리자의 "
+		},
+		{
+			"title":"RP(Rapid Prototyping) 접근법에 기반한 농작업 <b>안전 직무<\/b>교육 프로그램 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878702186",
+			"description":"Job Training Program Development for Agricultural Safety and Health based on Rapid Prototyping Approach 이 연구는 농작업 <b>안전<\/b>"
+		},
+		{
+			"title":"동양 체질론의 감성적 기질을 이용한 <b>안전 직무<\/b>설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11090635",
+			"description":"Job Design for Safety by Sensibility Based on the Oriental Human Constitution Human sensibility ergonomics is the technique that qualit"
+		},
+		{
+			"title":"RP(Rapid Prototyping)모형에 기반한 농작업 <b>안전 직무<\/b>교육 프로그램 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879059925",
+			"description":""
+		},
+		{
+			"title":"오행체질론에 의한 <b>안전직무<\/b> 설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594726037",
+			"description":"   Oriental Medicine, five elements constitution, job design, safety of job "
+		},
+		{
+			"title":"버스 운전자들의 성격 특성과 <b>안전 직무<\/b>수행 및 교통사고와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74861128",
+			"description":"The Relationship among Bus Driver`s Personality Traits, Safety Job Performance and Traffic Accidents The study examined the relationshi"
+		},
+		{
+			"title":"농작업 <b>안전 직무<\/b>교육 프로그램 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45378499",
+			"description":""
+		},
+		{
+			"title":"동양 체질론의 감성적 기질을 이용한 <b>안전 직무<\/b>설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594990149",
+			"description":""
+		},
+		{
+			"title":"동양 체질론의 감성적 기질을 이용한 <b>안전 직무<\/b>설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=86021272",
+			"description":"Job Design for Safety by Sensibility Based on the Oriental Human Constitution 감성과학은 인간의 감성을 정성하고, 더 정"
+		},
+		{
+			"title":"연구실 <b>안전<\/b> 환경 기반 구축을 위한 연구실 <b>안전 직무<\/b> 특별교육 결과 보",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16479407",
+			"description":"  표제지\n제출문\n보고서 초록\n요약문\n목차\n제1장 서론 14\n 제1절 &apos;연구실 <b>안전 직무<\/b> 특별교육&apos;의 필요성 "
+		},
+		{
+			"title":"오행체질론에 의한 <b>안전직무<\/b> 설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=86021574",
+			"description":"Job Design for Safety Based on Five Elements Constitution Human being can be divided into five elements in the Oriental Medicine. The r"
+		},
+		{
+			"title":"국내 교육기관의 이란 석유･가스분야 교육시장진출 방안에 관한 연구: ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561572914",
+			"description":"A Study on the Advancement of Korean Educational Institutions into Iranian Oil &amp; Gas Education Market : Focusing on Offshore Plant Safe"
+		},
+		{
+			"title":"사업장의 <b>안전직무<\/b>교육제도 개선 방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594668859",
+			"description":""
+		},
+		{
+			"title":"상급종합병원 환자와 간호사의 <b>안전<\/b> 인식 비교와 간호사의 환자<b>안전<\/b>관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=605343865",
+			"description":"Comparison of Safety Perception between Patients and Nursesand Factors Affecting Nurses Safety Management Activities in Tertiary Hospit"
+		},
+		{
+			"title":"의료기관인증이 병원 근로자가 지각하는 환자<b>안전<\/b>과 질, <b>직무<\/b>만족 및 조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290126849",
+			"description":"The impact of healthcare accreditation on patient safety and quality, job satisfaction and organizational commitment: about a general h"
+		},
+		{
+			"title":"산업<b>안전<\/b>보건법이 규정한 <b>안전<\/b>관리자 <b>직무<\/b> 실천에 대한 개선 방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630838679",
+			"description":"A study on improvement plan of practice safety manager job by Industrial Safety and Health Act  표제지\n목차\n국문초록 11\nI. 서"
+		},
+		{
+			"title":"상급종합병원 환자와 간호사의 <b>안전<\/b> 인식 비교와 간호사의 환자<b>안전<\/b>관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606507986",
+			"description":"Comparison of Safety Perception between Patients and Nurses and Factors Affecting Nurses Safety Management Activities in Tertiary Hospi"
+		},
+		{
+			"title":"상급종합병원 환자와 간호사의 <b>안전<\/b> 인식 비교와 간호사의 환자<b>안전<\/b>관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873367445",
+			"description":"Comparison of Safety Perception between Patients and Nurses and Factors Affecting Nurses Safety Management Activities in Tertiary Hospi"
+		},
+		{
+			"title":"용모 규정 수용도가 <b>안전<\/b> 및 서비스 <b>직무<\/b>수행에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886121814",
+			"description":"Effect of acceptance of appearance regulations on safety and service performance  제 1 장 서론 1\n  1.1 연구 배경 및 목적 1\n "
+		},
+		{
+			"title":"상급종합병원 간호사의 환자<b>안전<\/b>관리 중요성 인식이 환자<b>안전<\/b>관리 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630764024",
+			"description":"Patient Safety Perception of Nurses as related to Patient Safety Management Performance in Tertiary Hospitals 연구목적: 본 연구"
+		},
+		{
+			"title":"건설<b>안전<\/b>관리자 <b>직무<\/b>교육 과정 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594591279",
+			"description":"   Prevention of disasters, safety education, constructional safety "
+		},
+		{
+			"title":"상급종합병원 간호사의 환자<b>안전<\/b>관리 중요성 인식이 환자<b>안전<\/b>관리 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594596841",
+			"description":"Patient Safety Perception of Nurses as related to Patient Safety Management Performance in Tertiary Hospitals   환자<b>안전<\/b>, 인식, "
+		},
+		{
+			"title":"건설<b>안전<\/b>관리자 <b>직무<\/b>교육 과정 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=308152574",
+			"description":"An Empirical Study on Education Process Improvement for Effective Job Training of Construction Safety Manager Industrial disasters caus"
+		},
+		{
+			"title":"건설<b>안전<\/b>관리자 <b>직무<\/b>교육 과정 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562533972",
+			"description":"An empirical study on education process improvement for effective job training of construction safety manager Industrial disasters caus"
+		},
+		{
+			"title":"CIPP 모형에 기반한 산업<b>안전<\/b>보건 <b>직무<\/b>교육기관의 교육운영 실태 진단 및",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187942630",
+			"description":"A study on measures to improve training implementation at job-related training institutes in occupational safety and health based on CI"
+		},
+		{
+			"title":"상급종합병원 간호사의 환자<b>안전<\/b>관리 중요성 인식이 환자<b>안전<\/b>관리 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561822673",
+			"description":"Patient Safety Perception of Nurses as related to Patient Safety Management Performance in Tertiary Hospitals Purpose: This study was d"
+		},
+		{
+			"title":"상급종합병원 간호사의 환자<b>안전<\/b>관리 중요성 인식이 환자<b>안전<\/b>관리 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880885207",
+			"description":"Patient Safety Perception of Nurses as related to Patient Safety Management Performance in Tertiary Hospitals Purpose: This study was d"
+		},
+		{
+			"title":"DACUM을 활용한 연구실<b>안전<\/b>관리사 <b>직무<\/b>분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561540521",
+			"description":"Study on Job Analysis of Laboratory Safety Officer Using DACUM 이 연구는 연구실<b>안전<\/b>관리사 국가자격종목 개발을 위"
+		},
+		{
+			"title":"전기공사 현장 <b>안전<\/b>관리자의 <b>직무<\/b>자원, <b>직무<\/b>요구 및 조직몰입의 영향 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843047518",
+			"description":"A Study on the Influence of Electronic Construction Site Safety Managers&apos; Job Resources, Job Demands, and Organizational Commitment   o"
+		},
+		{
+			"title":"청소년지도자의 <b>안전<\/b>행동에 미치는 영향요인의 관계분석 - <b>안전<\/b>의식, 안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=600723037",
+			"description":"Relation Analysis on Factors Affecting Safety Behavior of Youth Leaders - Focusing on the Factors in Safety Consciousness, Safety Educa"
+		},
+		{
+			"title":"조직의 <b>안전<\/b>풍토에 대한 종업원의 인식과 개인의 <b>안전<\/b>의식이 <b>직무<\/b>만족·",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77477441",
+			"description":"(The)effect of safety climate and safety awareness on the job satisfaction and organizational commitment : mediation effect of organiza"
+		},
+		{
+			"title":"국내 교육기관의 이란 석유ㆍ가스분야 교육시장 진출 방안에 관한 연구 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291883664",
+			"description":"A Study on the Advancement of Korean Educational Institutions into Iranian Oil &amp; Gas Education Market : Focusing on Offshore Plant Safe"
+		},
+		{
+			"title":"CIPP 모형에 기반한 산업<b>안전<\/b>보건 <b>직무<\/b>교육기관의 교육운영 실태 진단 및",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890001104",
+			"description":"A study on measures to improve training implementation at job-related training institutes in occupational safety and health based on CI"
+		},
+		{
+			"title":"독일의 노동자 정신건강과 산업<b>안전<\/b>보건상의 <b>직무<\/b>스트레스 위험평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822378102",
+			"description":"Job Stress Risk Assessment in Mental Health and Industry Safety Health for German Workers 한국은 OECD 국가 중 산업재해가 많"
+		},
+		{
+			"title":"건설<b>안전<\/b>관리자 <b>직무<\/b>교육 모델 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=557623620",
+			"description":"A Study on the Improvement of Education Model for Construction Safety Management The damage caused by dry weather accounts for a great "
+		},
+		{
+			"title":"제조업 근로자의 지각된 <b>안전<\/b> 분위기가 <b>직무<\/b>만족과 이직의도에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77209887",
+			"description":"Impact of Workers’Perceptions of the Safety Climate on Job Satisfaction and Intention to Turnover in the Manufacturing Industry This "
+		},
+		{
+			"title":"중소병원 간호사 감정노동과 환자<b>안전<\/b>관리활동이 <b>직무<\/b>만족에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=867104057",
+			"description":"Mediating Effects of Resilience between Influence of Emotional Labor and Patient Safety Management Activities on Job Satisfaction, Nurs"
+		},
+		{
+			"title":"<b>안전<\/b>관리 <b>직무<\/b>에 대한 대학의 교육 과정 설계에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=86038528",
+			"description":"A Study on Development of Vacational Education Program for Safety Manager As people make efforts on accident prevention, the number of "
+		},
+		{
+			"title":"중소병원 간호사 감정노동과 환자<b>안전<\/b>관리활동이 <b>직무<\/b>만족에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866451938",
+			"description":"Mediating Effects of Resilience between Influence of Emotional Labor and Patient Safety Management Activities on Job Satisfaction, Nurs"
+		},
+		{
+			"title":"IPA 분석기법을 통한 해양경비 <b>안전<\/b>의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=308866922",
+			"description":"  서론\n 연구 방법\n IPA 분석\n IPA 매트릭스\n IAP 분석 결과  "
+		},
+		{
+			"title":"IPA 분석기법을 통한 해양경비 <b>안전<\/b>의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=172144238",
+			"description":"  서론\n 연구 방법\n IPA 분석\n IPA 매트릭스\n IPA 분석결과  "
+		},
+		{
+			"title":"신형세하식품약품<b>안전<\/b>영역<b>직무<\/b>범죄적특점급예방 (新形势下食品药品安",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841047731",
+			"description":" 随着经济发展和社会的进步,人民群众对保障食品药品安全的呼声越来越高,成为国内关注的一个重点."
+		},
+		{
+			"title":"청소년지도자의 <b>안전<\/b>행동에 미치는 영향요인의 관계분석- <b>안전<\/b>의식, 안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601759079",
+			"description":"Relation Analysis on Factors Affecting Safety Behavior of Youth Leaders - Focusing on the Factors in Safety Consciousness, Safety Educa"
+		},
+		{
+			"title":"전기공사 현장 <b>안전<\/b>관리자의 <b>직무<\/b>자원, <b>직무<\/b>요구 및 조직몰입의 영향 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890020872",
+			"description":"A Study on the Influence of Electronic Construction Site Safety Managers&apos; Job Resources, Job Demands, and Organizational Commitment Thi"
+		},
+		{
+			"title":"<b>안전<\/b>한 <b>직무<\/b> 기반 접근 제어에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11045869",
+			"description":"Study on Secure Role-Based Access Control 본 논문에서는 실제적인 접근 제어 시스템에 적용이 가능하도록 기존"
+		},
+		{
+			"title":"<b>안전<\/b>관리자 <b>직무<\/b>의식이 현장 <b>안전<\/b>관리에 미치는 영향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289696843",
+			"description":"An analysis on the effect of safety managers&apos; perception of duties on safety management on site 요    약\n\n제목 : <b>안전<\/b>관리자 "
+		},
+		{
+			"title":"델파이 기법을 활용한 해양경비<b>안전<\/b>본부 <b>직무<\/b>분석 : 해양경찰<b>안전<\/b>국을 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=171638201",
+			"description":"A Study on Job Duties Analysis of Maritime Security and Safety with Delphi Technique 미래의 성장동력이라고 할 수 있는 해"
+		},
+		{
+			"title":"건설현장 <b>안전<\/b>관리자의 <b>직무<\/b>수행시 문제점에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887859278",
+			"description":"A Study on the Problems of Construction Site Safety Managers in performing their jobs 정부는 산업재해로 발생되는 사고사"
+		}
+	]
+}

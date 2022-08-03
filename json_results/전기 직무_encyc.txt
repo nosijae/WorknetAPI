@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:16 +0900",
+	"total":1716,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>전기<\/b>기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665281&cid=42117&categoryId=42117",
+			"description":" 발송배전, 건축<b>전기<\/b>설비, 산업<b>전기<\/b>설비, 변압기 제조업 등에서 관련 <b>전기<\/b>분야의 장·단기 기술정책 입안, 산업표준화 및 기술규격표준 등의 조정·보완, <b>전기<\/b>설비의 설계, 시공, 관리 등의 업무를 수행한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>로용해원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027138&cid=42117&categoryId=42117",
+			"description":" 철강제품을 생산하기 위하여 고철 및 부재료가 용해되어 용강상태가 된 이후부터 출강되기까지의 공정에서 <b>전기<\/b>로를 조작·운영한다. [수행<b>직무<\/b>] <b>전기<\/b>로 작동상태 및 이상 유무를 점검하여 노의 작업을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>안<b>전기<\/b>술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665278&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>설비 및 장비의 안전과 관련하여 연구·개발한다. [수행<b>직무<\/b>] <b>전기<\/b>설비 및 장비검사 및 점검기술을 개발한다. 검사 및 점검을 통한 이상 유무 판정기준을 개발한다. 안전검사 및 점검을 위한 장비를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>공사기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139335&cid=40942&categoryId=31851",
+			"description":"<b>전기<\/b>공사기사의 <b>직무<\/b>는 <b>전기<\/b>공사에 따른 위험 및 장애가 발생하지 않도록 <b>전기<\/b>공사업법 및 기타 법령에 적합하게 <b>전기<\/b>공사를 시공 관리하는 것이다. <b>전기<\/b>공사기사는 현장에서 특급 <b>전기<\/b>공사 기술자, 고급... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>자전거검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658615&cid=42117&categoryId=42117",
+			"description":" 조립 완성된 <b>전기<\/b>자전거 각 부분의 프레임 및 부품의 조립상태, 용접상태, <b>전기<\/b>배선통전 등의 규격 및 품질을 검사한다. [수행<b>직무<\/b>] <b>전기<\/b>자전거의 결선도를 확인하고 검사한다. 품질기준서 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>로용해보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027137&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>로용해원(철강제품을 만들기 위해 스크랩을 용해한 용강을 출강하는 작업원)을 보조한다. [수행<b>직무<\/b>] <b>전기<\/b>로용해원의 지시를 받아 <b>전기<\/b>로 설비의 점검을 보조한다. <b>전기<\/b>로에서 원재(고철)의 용해를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>자전거조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026725&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>자전거를 조립하기 위하여 핸들, 프레임, 배터리, 모터, 휠 등 각 부분품을 조립순서에 따라 조립한다. [수행<b>직무<\/b>] <b>전기<\/b>자전거를 조립하기 위해 작업표준서 및 조립순서도를 숙지한다. <b>전기<\/b>자전거의 각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건축<b>전기<\/b>설비감리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029117&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>설비의 시공, 보수공사가 설계도서 및 기타 관계서류의 내용대로 시공되는지 감독·확인한다. [수행<b>직무<\/b>] <b>전기<\/b>설비 감리업무 수행에 요구되는 절차와 세부내용을 발주자, 건설사, 공사업자 등과 협의한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>공사현장관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028294&cid=42117&categoryId=42117",
+			"description":" 사업체의 <b>전기<\/b>설비 개선방안을 검토하고 설비의 유지·관리에 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] <b>전기<\/b> 분야의 각종 자료를 수집·분석하고 설비의 가동상태, 운전상태, 통계 및 정비분석... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건축<b>전기<\/b>설비기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029118&cid=42117&categoryId=42117",
+			"description":" 빌딩, 플랜트, 상가, 아파트 등의 건축구조물에 전력인입설비, 수변전설비, 예비전원설비, 동력설비, 조명설비, 특수설비, 접지·피뢰설비 및 기타 약전설비와 같은 <b>전기<\/b>설비의 기본계획을 수립하고 설계 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>평가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1144614&cid=40942&categoryId=31911",
+			"description":"② 분류법:<b>전기<\/b>한 제반 요소로써 <b>직무<\/b>의 가치를 단계적으로 구분하는 등급표를 만들고 평가<b>직무<\/b>를 이에 맞는 등급으로 분류한다. ③ 요인비교법(要因比較法):급여율이 가장 적정하다고 생각되는 <b>직무<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>저장장치시설기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665271&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>저장장치를 계통연계, 상용부하전원, 비상용전원 등에 사용할 수 있도록 설계 및 시공하고 안전을 관리한다. [수행<b>직무<\/b>] <b>전기<\/b>저장장치(이차전지, 플라이휠, 압축공기 등을 이용한 <b>전기<\/b>저장장치) 수용가의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054119&cid=42114&categoryId=42114",
+			"description":" <b>전기<\/b>기능장이란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>전기<\/b>기능장 자격시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 복합형 실기시험을 통과해야 한다. 두... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724153708759_IDHZ0GXE3.jpg\/da6_533_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전기<\/b>화학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837707&cid=42117&categoryId=42117",
+			"description":" 화학반응을 통해 <b>전기<\/b>에너지를 발생시키거나 또는 <b>전기<\/b>에너지를 이용해 화학반응을 일으키는 현상을 연구하고 관련 장치를 개발하며, 이러한 현상과 장치를 응용하는 연구를 수행한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"풍력발<b>전기<\/b><b>전기<\/b>설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832865&cid=42117&categoryId=42117",
+			"description":" 증속기(Gear Box)로부터 전달받은 기계적 에너지를 <b>전기<\/b>적 에너지로 변환시키는 발<b>전기<\/b>(Generator) 등 <b>전기<\/b>에너지로 바꾸어 주는 <b>전기<\/b>적 부품을 설계한다. [수행<b>직무<\/b>] <b>전기<\/b>식 모터드라이브로 블레이드 각도를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054121&cid=42114&categoryId=42114",
+			"description":" <b>전기<\/b>산업기사란 응시자격을 갖춘 자가 한국산업인력공단에서 시행하는 <b>전기<\/b>산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. <b>전기<\/b>산업기사 시험은 필기시험과 실기시험으로 이루어지며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100745357_9TXSDKWTY.jpg\/da6_535_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전기<\/b>철도기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054124&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>전기<\/b>철도기사란 한국산업인력공단에서 시행하는 <b>전기<\/b>철도기사 자격시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>전기<\/b>철도의 부실시공에 따른 안전저해요인을 감소시키고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100745763_C5X5Z019V.jpg\/da6_538_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전기<\/b>수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028295&cid=42117&categoryId=42117",
+			"description":" 사업체 내에 설치되어 있는 <b>전기<\/b>공작물, <b>전기<\/b>시설, <b>전기<\/b>장비 등의 원활한 가동 및 유지를 위하여 수배전설비·조명설비·생산설비 등을 유지, 보수, 관리한다. [수행<b>직무<\/b>] 사업체 내의 <b>전기<\/b>배선설계도를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"발전<b>전기<\/b>설비정비원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028365&cid=42117&categoryId=42117",
+			"description":" 발전에 사용되는 각종 <b>전기<\/b>설비 및 측정계기를 점검하여 유지·관리하고, 결함을 제거하기 위해 검사기, 계측기 등의 장비를 사용하여 정비한다. [수행<b>직무<\/b>] 발전<b>전기<\/b>설비를 정기적으로 점검하고, 점검사항을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>응용기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054123&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>전기<\/b>응용기술사란 한국산업인력공단에서 시행하는 <b>전기<\/b>응용기술사 자격시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>전기<\/b>응용기술사 국가기술자격제도는 전 산업에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180212184158368_TAHEE0UUK.jpg\/da6_537_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"수도사업<b>전기<\/b>설비기술원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551192&cid=42117&categoryId=42117",
+			"description":" 상수도 및 하수도 관련 <b>전기<\/b>설비를 유지·관리하고, 고장정비를 위한 기술지원을 한다. [수행<b>직무<\/b>] 수도<b>전기<\/b>설비의 개량 및 유지·보수를 위한 예산안 및 계획을 수립하고 수립된 계획에 따라 설비를 점검하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>철도산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054126&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>전기<\/b>철도산업기사란 한국산업인력공단에서 시행하는 <b>전기<\/b>철도산업기사 자격시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>전기<\/b>철도산업기사는 <b>전기<\/b>철도의 부실시공에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180212184622467_C7P5LXS50.jpg\/da6_540_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전기<\/b>설비조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926558&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>전기<\/b>설비조작원은 병원, 대학, 공공기관, 상업시설물 등 건물 내에 설치되어 있는 <b>전기<\/b>시설을 조작하여 건물내 <b>전기<\/b>시스템이 원활하게 가동될 수 있도록 하며, <b>전기<\/b>시설에 대한 보수작업을 하기도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>공사산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054117&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>전기<\/b>공사산업기사란 한국산업인력공단에서 시행하는 <b>전기<\/b>공사산업기사 자격시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>전기<\/b>공사산업기사는 전력시설물을 안전하게... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180212183951694_Q3B0IKKH5.jpg\/da6_531_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전기<\/b>계량기설치원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028293&cid=42117&categoryId=42117",
+			"description":" 수요자의 신·증설 요구에 따라 <b>전기<\/b>계량기를 기준 및 규격에 맞도록 설치한다. [수행<b>직무<\/b>] 수요자의 <b>전기<\/b>계량기 설치요구 접수사항에 대한 의뢰내용을 확인한다. 배전설비의 규정 및 기준에 맞는 계량기 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철도차량<b>전기<\/b>반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028282&cid=42117&categoryId=42117",
+			"description":" 철도차량의 각종 기기취부 및 <b>전기<\/b>의장 작업에 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 철도차량의 <b>전기<\/b>배선을 위하여 철도차량의 <b>전기<\/b>배선 및 작업도면을 확인한다. <b>전기<\/b>회로 도면에 의해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>설비공무기술원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658616&cid=42117&categoryId=42117",
+			"description":" 생산라인의 <b>전기<\/b>설비 및 장비를 설치·관리·수리한다. [수행<b>직무<\/b>] 생산라인의 <b>전기<\/b>설비 및 장비를 설치한다. 생산라인에서 제품 생산 공정이 원활히 이루어지는지 중앙제어장치로 감시한다. 생산라인의 <b>전기<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>장비설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665273&cid=42117&categoryId=42117",
+			"description":" 새로운 <b>전기<\/b>장비나 기능이 바뀐 제품을 설계하고, 기술적 검증을 하여 양산용 도면을 작성한다. [수행<b>직무<\/b>] 새로운 종류의 <b>전기<\/b>장비, 기존 제품의 변경된 기능 또는 양산되고 있는 제품을 설계하기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>작가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953440&cid=42117&categoryId=42117",
+			"description":" 대상인물의 삶에 관련된 자료를 조사하거나 직접 청취하여 재구성한 <b>전기<\/b>(인물이 실제 겪은 사실을 바탕으로 기록한 글)를 집필한다. [수행<b>직무<\/b>] 일기, 편지, 개인서류 등 대상인물이 관계된 사건의 기록이나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054120&cid=42114&categoryId=42114",
+			"description":" <b>전기<\/b>기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>전기<\/b>기사 시험에 합격하여 그 자격을 취득한 자를 말한다. <b>전기<\/b>기사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은 객관식으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100744755_8GSCQEZXZ.jpg\/da6_534_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전기<\/b>로반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658617&cid=42117&categoryId=42117",
+			"description":" 자용로 및 <b>전기<\/b>로에서 운반된 매트(Matte)를 정제하기 위하여 전로를 조작하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 작업원에게 안전교육 및 제반 기술교육을 실시한다. 자용로 및 <b>전기<\/b>로로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054118&cid=42114&categoryId=42114",
+			"description":" <b>전기<\/b>기능사란 산업인력공단에서 시행하는 <b>전기<\/b>기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자격에는 제한이 없다. <b>전기<\/b>기능사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191227113718791_JR5UQ595S.png\/da6_532_i4.png?type=m160_160"
+		},
+		{
+			"title":"광산<b>전기<\/b>반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028299&cid=42117&categoryId=42117",
+			"description":" 광산에서 착암, 운반, 선광 등의 작업에 필요한 <b>전기<\/b>공작물, <b>전기<\/b>시설, <b>전기<\/b>장비 등을 설치·유지·수리·관리하는 일을 하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 광산보안법과 <b>전기<\/b>안전수칙을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>공사기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054116&cid=42114&categoryId=42114",
+			"description":"(2) 주요 업무 ① <b>전기<\/b>공사기사는 공사비의 적산, 공사공정계획의 수립, 시공과정에서 <b>전기<\/b>의 적정여부 관리 등 주로 기술 적인 <b>직무<\/b>를 수행한다. ② 또한 공사현장 대리인으로서 시공자를 대리하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20211214142621785_83WBHBYC6.jpg\/da6_530_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전기<\/b>도금원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027083&cid=42117&categoryId=42117",
+			"description":" 방식, 표면경화, 표면미화, 표면평활화 또는 빛 등의 반사율을 개선할 목적으로 <b>전기<\/b>분해를 이용해 금속 표면 또는 비금속 표면에 니켈, 아연, 은, 주석, 크롬 등의 밀착성 금속피막을 전착하는 표면처리 업무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선박<b>전기<\/b>의장원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028278&cid=42117&categoryId=42117",
+			"description":" 도면에 따라 선박 내외의 케이블 포설 및 결선, 조명기구 설치, 동력기계 결선 등의 <b>전기<\/b>의장 작업을 한다. [수행<b>직무<\/b>] 작업지시서 또는 도면을 읽고 필요한 장비, 공구, 자재 및 소모품을 준비한다. 축계장치 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>기구수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028340&cid=42117&categoryId=42117",
+			"description":" 계측기기 및 공구를 사용하여 각종 <b>전기<\/b>기구를 수리 및 조립한다. [수행<b>직무<\/b>] 수리가 필요한 제조제품의 명세서를 접수하고 현장 또는 수리실에서 기구에 전원을 연결하여 전력계, 전압계, 전류계 같은 부착된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>장비검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028268&cid=42117&categoryId=42117",
+			"description":" 작업표준 및 검사기준에 따라 각종 시험기기 및 계측기기를 사용하여 전동기, 변압기, <b>전기<\/b>공급 및 제어장치 등의 조립상태와 성능을 검사·시험한다. [수행<b>직무<\/b>] 작업표준 및 검사기준에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>장비수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028341&cid=42117&categoryId=42117",
+			"description":" 제조공정 상에 발생한 불량품이나 소비자에 의해 수리를 요구받은 제품의 이상 원인을 찾아내어 수리하고 점검한다. [수행<b>직무<\/b>] 작업표준에 따라 수리할 제품의 명세서를 확인·검토한다. 용접기, 트렌치 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>방식반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027084&cid=42117&categoryId=42117",
+			"description":"설계도면을 확인하고 현장여건에 알맞은 양극(양전극)설치 계획을 세운다. 필요한 양극(마그네슘, 아연)·모래·전선 등의 각종 자재를 구입한다. <b>전기<\/b>방식원에게 양극설치에 따른 제반 요건 및 방법을 교육한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>방식기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026934&cid=42117&categoryId=42117",
+			"description":" 발전소, 항만, 화학단지의 토중, 수중, 해수 중에 설치되어 있는 철구조물의 부식을 방지하기 위하여 토양과 물의 <b>전기<\/b>적인 저항가를 접지저항측정기로 측정·조사하고 양극설치에 따른 작업순서와 방법을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>방식원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027085&cid=42117&categoryId=42117",
+			"description":" 상수도공사의 지중에 매설된 상수관의 부식을 방지하기 위하여 양극(양전극)을 설치한다. [수행<b>직무<\/b>] 용접할 부분의 배관도장을 끌과 망치로 제거한다. 배관 표면의 습기나 녹 및 기름기를 제거한다. 전선을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선박<b>전기<\/b>의장반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028277&cid=42117&categoryId=42117",
+			"description":" 선박 및 해양시설에 <b>전기<\/b>설비 및 계기 등을 배선, 결선, 설치하는 <b>전기<\/b> 의장 및 계장 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 작업도면 및 장치도를 확인하고 작업방법을 결정한다. 선박<b>전기<\/b>의장원을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>자전거기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665274&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>자전거제품을 설계 및 개발하고, 제조과정에서 기술적 자문을 한다. [수행<b>직무<\/b>] 국내외의 각종 납축전지의 자료를 수집·종합한다. 소요부품의 구입예산을 산정한다. 개발장비 및 도구를 준비하고 새로운... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>자전거정비원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026724&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>자전거를 최적의 상태로 만들기 위하여 정비·수리지침서를 기준으로 <b>전기<\/b>자전거 각 부분의 부품과 납축전지의 이상 유무를 확인하고 정비한다. [수행<b>직무<\/b>] 정비지침서 및 수리지침서를 보고 정비방법... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"기능직 ▷<b>전기<\/b>·전자 관련 기능직 ▷화학·의료·식품·기타 기능직 ▷신직업 ▷기타 <b>직무<\/b> 등 14개 분야의 74개 <b>직무<\/b>(2021년 기준)가 있다. 한편, 고용노동부에서는 만 50세 이상 구직자를 신중년 적합<b>직무<\/b>에... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>전기<\/b>자동차조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026846&cid=42117&categoryId=42117",
+			"description":" 배터리, 타이어, 도어, 전장 모듈, 동력전달장치, 구동계 등을 장착하여 <b>전기<\/b>자동차를 조립한다. [수행<b>직무<\/b>] 생산계획에 따라 필요한 공구 및 자재를 확인한다. 자동차 프레임에 자체를 조립한다. 차량의 내... ",
+			"thumbnail":""
+		},
+		{
+			"title":"발전<b>전기<\/b>공무기술원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028259&cid=42117&categoryId=42117",
+			"description":" 발전소의 원활한 운영을 위하여 발전<b>전기<\/b>설비의 유지·정비를 위한 제반 기술공무를 수행한다. [수행<b>직무<\/b>] 발전소의 원활한 가동 및 정지를 위하여 발<b>전기<\/b>, 전동기, 차단기류, 보호장치, 조명설비, 배전설비 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>로용해반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027136&cid=42117&categoryId=42117",
+			"description":" 강재를 생산하기 위해 고철 및 부재료를 <b>전기<\/b>로에 장입하여 용강 상태로 용해시키는데 종사하는 작업원의 활동을 감독·조정 한다. [수행<b>직무<\/b>] 용해작업 계획을 검토하고 고철이나 부재료의 재고 현황을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>이용기술연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665277&cid=42117&categoryId=42117",
+			"description":" 생산된 전력을 효율적으로 이용할 수 있는 <b>전기<\/b>이용기술에 대한 개발 및 응용기술을 연구한다. [수행<b>직무<\/b>] 빙축열 및 히트펌프시스템과 축열식 난방시스템에 대한 설계 및 성능평가기술을 개발한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철도차량<b>전기<\/b>검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028273&cid=42117&categoryId=42117",
+			"description":" 명세서와 도면에 따라 철도차량의 각종 기기 및 배전반 등의 배선 및 결선상태를 검사한다. [수행<b>직무<\/b>] 작업지시서 및 검사절차서를 보고 검사방법을 숙지한다. <b>전기<\/b>기계 도면과 <b>전기<\/b>·전자도면을 파악하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>안전관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029179&cid=42117&categoryId=42117",
+			"description":" 송·변전 및 배전설비에서 발생하는 안전사고 및 재해로부터 인명과 재산을 보호하기 위하여 안전검사실시, 사고조사, 사고예방대책수립 등의 업무를 수행한다. [수행<b>직무<\/b>] 안전사고 사례집, 통계집 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>철도기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054125&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>전기<\/b>철도기술사란 한국산업인력공단에서 시행하는 <b>전기<\/b>철도기술사 자격시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>전기<\/b>철도기술사는 <b>전기<\/b>철도의 부실시공에 따른... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180212184828923_GDWXURRRK.jpg\/da6_539_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전기<\/b>로전극운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027139&cid=42117&categoryId=42117",
+			"description":"<b>전기<\/b>로 상황을 조절하고 소모되는 전극을 보충하기 위하여 페이스트를 충전한다. 전극이 고온에 견딜 수 있도록 냉각수량을 조절하고 전극과 연결된 유압장치를 점검·관리한다. 코크스 등의 환원제를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>안<b>전기<\/b>술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054122&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>전기<\/b>안<b>전기<\/b>술사 ① <b>전기<\/b>안<b>전기<\/b>술사란 <b>전기<\/b>안<b>전기<\/b>술사 시험의 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>전기<\/b>안<b>전기<\/b>술사 시험에 합격하여 그 자격을 취득한 자를 말한다. ②... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171253100_QT9JKHGWB.jpg\/da6_536_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"선박<b>전기<\/b>계장원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028276&cid=42117&categoryId=42117",
+			"description":" 선박 및 해양시설에 각종 제어장치 및 계측장치를 설치한다. [수행<b>직무<\/b>] 작업도면을 보고 각종 기기의 설치위치를 확인하고 작업방법을 설정한다. 드라이버, 스패너(Spanner:볼트나 너트를 죄거나 푸는 데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>계량기관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028339&cid=42117&categoryId=42117",
+			"description":" 신규신청 이후 설치된 수용가(소비자)의 계량기에 대한 유지·보수 및 관리하는 업무를 수행한다. [수행<b>직무<\/b>] 계량기 고장에 대한 수용가(소비자)의 민원사항을 처리하기 위하여 계량기의 이상점검을 실시한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>장비제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028574&cid=42117&categoryId=42117",
+			"description":" 전동기, 변압기, 전원공급 및 제어장치 등을 조립 및 검사하거나 가공장비를 조작하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 주문서에 따라 작업지시서를 만든다. 납기일에 따라 일일생산량계획을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>기사자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383687&cid=42279&categoryId=42279",
+			"description":"특히 <b>전기<\/b>기사 자기소개서를 작성할 때에는 해당 <b>직무<\/b>와 관련한 경력 및 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122049990_2R8T1JZKD.jpg\/hb10_22654_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전기<\/b>전자자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383696&cid=42279&categoryId=42279",
+			"description":"특히 <b>전기<\/b>전자 자기소개서를 작성할 때에는 해당 <b>직무<\/b>와 관련한 경력 및 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122053538_4A6R8Y3DC.jpg\/hb10_22663_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가정용<b>전기<\/b>기구검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028253&cid=42117&categoryId=42117",
+			"description":" 냉장고, 세탁기, 에어콘 등 제조된 가정용 전자·<b>전기<\/b>제품을 일정 시간 가동시켜 성능 및 외관검사를 실시하고 관련 설비를 유지·관리·보수한다. [수행<b>직무<\/b>] 조립 완료된 가정용 <b>전기<\/b>기구를 샘플링 기법을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가정용<b>전기<\/b>기구조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028500&cid=42117&categoryId=42117",
+			"description":" 표준작업공정에 따라 냉장고·선풍기·세탁기 등 가정용 <b>전기<\/b>기구제품을 제조하기 위해 관련 부품 또는 부분품을 조립·용접·시험한다. [수행<b>직무<\/b>] 컨베이어벨트 옆이나 자동화된 생산라인 주위에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가정용<b>전기<\/b>기구수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028320&cid=42117&categoryId=42117",
+			"description":" 계측기기 및 공구를 사용하여 냉장고, 선풍기, 세탁기 등의 가정용 전자·<b>전기<\/b>제품을 수리·조정한다. [수행<b>직무<\/b>] 수리가 필요한 제조제품의 명세서를 접수한다. 현장 또는 수리실에서 기구에 전원을 연결하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가스생산<b>전기<\/b>설비운용원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5920017&cid=42117&categoryId=42117",
+			"description":" 가스를 생산하기 위한 각종 <b>전기<\/b>설비의 유지·관리 및 정비를 위한 제반 업무를 수행한다. [수행<b>직무<\/b>] 가스생산을 위한 <b>전기<\/b>설비의 유지·관리 및 정비에 대한 계획을 수립한다. 계획된 일정에 따라 <b>전기<\/b>설비를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가스공급<b>전기<\/b>설비운용원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028380&cid=42117&categoryId=42117",
+			"description":" 가스를 공급하는 배관망 및 설비의 유지·관리와 개선을 위하여 <b>전기<\/b>설비를 운영·관리한다. [수행<b>직무<\/b>] 가스공급 배관망에 부착되어 있는 각종 계측기 및 센서에 대한 정비계획을 세운다. <b>전기<\/b>공사를 감독하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"온라인<b>전기<\/b>자동차연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665285&cid=42117&categoryId=42117",
+			"description":" 온라인 <b>전기<\/b>자동차에 전력을 전송하는 온라인 급전장치 및 집전장치시스템 등을 개발한다. [수행<b>직무<\/b>] 자체 배터리를 이용하여 주행하는 일반 <b>전기<\/b>자동차와 달리, 정차 또는 주행 중에 도로에 매설된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>전자장비부품가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026800&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>전자장비의 부품과 재료를 가공 처리하기 위하여 기계가공장비를 사용하여 전동기, 발<b>전기<\/b>, 변압기 등의 부품 또는 재료를 절단하거나 일정한 모양으로 가공한다. [수행<b>직무<\/b>] 전동기, 발<b>전기<\/b>, 변압기 등과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>자동차설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026576&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 저속에서 높은 토크와 일정 동력전달, 연속적이고 부드러운 운행 및 제어, 높은 효율과 회생제동, 낮은 소음과 경량화 등 <b>전기<\/b>자동차 목표기능을 설정한다. 목표기능을 달성하기 위한 차량성능 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중세 <b>전기<\/b>의 교육",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A4%91%EC%84%B8_%EC%A0%84%EA%B8%B0%EC%9D%98_%EA%B5%90%EC%9C%A1",
+			"description":"중세 <b>전기<\/b>의 교육 은 5세기 경부터 10~11세기 경까지 서부 유럽에서 있었던 교육활동을 의미한다. 이... 그러나 그가 성직자와 교황 <b>직무<\/b>에 복무하는 동안 그의 마음가짐은 수도사의 것과 같았으며, 교육과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건축<b>전기<\/b>설비기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053960&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① 모든 산업에서 기초가 되는 <b>전기<\/b>는 편리하고 깨끗한 에너지이지만 <b>전기<\/b>의 생산, 수송, 사용에 이르기까지 모든 설비는 <b>전기<\/b>특성에 적합하게 시공되어야만 위험성을 배제할 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203250481_4GP8HMCF9.jpg\/da6_374_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"철도<b>전기<\/b>신호기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054166&cid=42114&categoryId=42114",
+			"description":"② 열차의 안전운행을 위해 <b>전기<\/b>철도 설비와 철도신호 설비에 관련한 <b>직무<\/b>를 수행할 숙련기능인력을 양성하기 위해 철도<b>전기<\/b>신호기능사 자격제도를 제정하였다. (2) 주요 특징 ① <b>전기<\/b>철도기능사와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180212184336698_9N15XY055.jpg\/da6_580_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"소방설비기사(<b>전기<\/b>분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054042&cid=42114&categoryId=42114",
+			"description":" 소방설비기사(<b>전기<\/b>분야)란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 소방설비기사... 대한 감독, 소방계획에 의한 소화, 통보 및 피난 등의 훈련을 실시하는 방화관리자의 <b>직무<\/b>를 수행한다.  ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100726749_TZPL9S5YR.jpg\/da6_456_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"발전<b>전기<\/b>설비정비반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028364&cid=42117&categoryId=42117",
+			"description":" 발전소에서 열, <b>전기<\/b>를 생산하는 발전설비 중 <b>전기<\/b>설비의 이상 및 장애요인을 제거하고 파손된 부품을 교체·보수하는데 종사하는 작업원들의 활동을 관리·감독한다. [수행<b>직무<\/b>] 작업계획에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>자동차컨트롤러개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665275&cid=42117&categoryId=42117",
+			"description":" 트랜지스터, 저항 등의 전력소재를 이용한 모터동작 제어회로설계와 제어프로그램개발을 통해 <b>전기<\/b>자동차(EV:Electric Vehicle) 컨트롤러를 연구·개발한다. [수행<b>직무<\/b>] 트랜지스터, 저항 등의 전력소재를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해양플랜트<b>전기<\/b>전자관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953471&cid=42117&categoryId=42117",
+			"description":" 해양플랜트의 전자·<b>전기<\/b>, 통신 장비의 유지 및 보수업무를 수행한다. [수행<b>직무<\/b>] 해양플랜트 내 장비구동 중 발생하는 <b>전기<\/b>·전자 관련 문제점에 대해 보고를 받고 이에 대한 조치를 취한다. 각 작업이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공항<b>전기<\/b>설비관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028275&cid=42117&categoryId=42117",
+			"description":" 항공기가 이착륙하는 활주로의 각종 등화시설 및 기타 전력설비를 유지·보수한다. [수행<b>직무<\/b>] 활주로의 등화시설을 조사하여 파손된 전등을 교체한다. 비상등, 공항경계·통제등 및 기타 조명장치를 검사하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조선 <b>전기<\/b> 간관론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=990793&cid=41884&categoryId=41888",
+			"description":"대관과 간관의 임무는 조선 초기에는 이와 같이 달랐지만, 시간이 흐르면서 대관이 간관의 영역인 국왕에 대한 간쟁의 임무를 함께 수행하고, 간관 또한 대관의 영역인 고위 관료에 대한 탄핵을 자기 <b>직무<\/b>에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>공사업무경력확인서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3333702&cid=51373&categoryId=51373",
+			"description":"<b>전기<\/b>시설을 담당하거나 <b>전기<\/b>설비에 따른 유지보수 작업을 수행하는 경우도 <b>전기<\/b>공사에 포함되므로 경력으로 인정하며 이러한 <b>직무<\/b>를 담당하는 경우도 경력확인서 발급이 가능하다. [작성팁] • <b>전기<\/b>공사 업무... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209160603581_1UDIQ2VUS.jpg\/ba17_37462.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전기<\/b>자동차전장품연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665276&cid=42117&categoryId=42117",
+			"description":" 파워컨트롤유닛(PCU), <b>전기<\/b>자동차릴레이(EV-Relay)와 같은 <b>전기<\/b>자동차 핵심전장부품을 연구·개발한다. [수행<b>직무<\/b>] 파워컨트롤유닛에 있어 차륜구동용 모터의 제어를 실시하는 인버터와 엔진으로부터 최적화된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가정용<b>전기<\/b>기구제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028499&cid=42117&categoryId=42117",
+			"description":" 냉장고·선풍기·세탁기 등 가정용 <b>전기<\/b>·전자제품을 제조하는 일을 하는 가정용<b>전기<\/b>기구조립원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 주문서에 따라 작업지시서를 만든다. 납기일에 따라 일일생산량계획을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>자동차전장품설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832886&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>자동차의 부품기술을 완성차 회사별로 고객맞춤형(커스트마이징:Customizing) 제품이 될 수 있도록 설계한다. [수행<b>직무<\/b>] 파워컨트롤유닛(PCU), <b>전기<\/b>자동차릴레이(EV-Relay) 등 <b>전기<\/b>자동차 전장부품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b> 부품 및 제품 생산직",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926559&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>전기<\/b> 부품 및 제품 생산직은 건전지, 전동기, 발<b>전기<\/b> 등 <b>전기<\/b> 장비에 사용되는 부품을 제조하는 기계를 조작하여 생산과정이 원활히 진행될 수 있도록 관리한다. 작업지시서 또는 명세서에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>자동차전장품개발시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028267&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>자동차의 파워컨트롤유닛(PCU), 릴레이(EV-Relay) 등 주요 전장품의 기능, 성능, 환경 및 내구성시험을 계획하고 시험설비를 이용하여 시험한다. [수행<b>직무<\/b>] 진공밸브의 진공도 및 손상 여부를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가정용<b>전기<\/b>기구제조기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029115&cid=42117&categoryId=42117",
+			"description":" 가정용 <b>전기<\/b>·전자제품을 제조하기 위하여 연구·설계·개발하며 제품양산을 위해 생산라인에서 감독·지원·조언한다. [수행<b>직무<\/b>] 신제품 개발을 위한 시장조사 및 원가구조를 검토하여 사업성 여부를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소방설비산업기사(<b>전기<\/b>분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054044&cid=42114&categoryId=42114",
+			"description":" 소방설비산업기사(<b>전기<\/b>분야)란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 소방설비산업기사... 대한 감독, 소방계획에 의한 소화, 통보 및 피난 등의 훈련을 실시하는 방화관리자의 <b>직무<\/b>를",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191855634_AV40223P2.jpg\/da6_458_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"소수력발전<b>전기<\/b>설비안전관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029168&cid=42117&categoryId=42117",
+			"description":" 소수력발전 <b>전기<\/b>설비의 유지 및 운용과 <b>전기<\/b>수용설비 및 비상용 예비발전설비의 안전관리를 실시한다. [수행<b>직무<\/b>] 수소력발전소에 설치된 변압기, 배전반, 발<b>전기<\/b>의 제어시설 등과 <b>전기<\/b>선로, 계측기기 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"태양전지<b>전기<\/b>발광장비조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028466&cid=42117&categoryId=42117",
+			"description":" 육안검사로 판단할 수 없는 내부결함 유무를 검사하기 위해 화상검사가 가능한 전자발광(EL:Electro Luminescence) 장비를 조작한다. [수행<b>직무<\/b>] 모듈의 결함을 검사하기 위해 생산 로트별로 일정 수의 모듈을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전기<\/b>통신 교육훈련과 연구개발 체제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2052327&cid=42348&categoryId=42349",
+			"description":"[ 1. 체신고등학교 및 체신대학의 변천] 1918년 통신사업 요원을 양성하기 위해 발족되었던 체신이원(吏員)양성소가 1946년 체신학교로 개편되었고 1947년에는 전문학교 과정의 국립체신대학과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마산역(철도체험학습장)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5666028&cid=42856&categoryId=42856",
+			"description":"선로보수, <b>전기<\/b>통신 <b>직무<\/b> 체험 프로그램 : 야구 및 레일바이크 체험 [문의및안내] 051-440-2818 [관련 홈페이지] http:\/\/info.korail.com\/mbs\/www\/jsp\/rail_exp\/list.jsp?boardId=9863393&#38;id=www_050600000000 [상세정보] [입 장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제천역 (철도체험학습장)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665924&cid=42856&categoryId=42856",
+			"description":"[이용안내] [이용시간] 협의 후 결정 [주차시설] 불가 [체험가능연령] 학생 단체 [체험안내] * 견학 프로그램 : (문화체험) 철도역사 전시관 관람 (진로체험) 역무원, 기관사, 차량검수, <b>전기<\/b>통신 <b>직무<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2818_000_31\/20210401171035721_Z2EPQ6IU4.jpg\/2555504_image2_1.jpg?type=m160_160"
+		},
+		{
+			"title":"익산역 (철도체험학습장)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665927&cid=42856&categoryId=42856",
+			"description":"열차승무원, <b>전기<\/b>통신 <b>직무<\/b> * 체험 프로그램 : 체험시간(6시간)이내에 대상별 프로그램 구성 * 신청방법 : http:\/\/info.korail.com\/ &#62; 고객지원 &#62; 철도체험학습장 [문의및안내] 063-850-2328 [관련 홈페이지] http... ",
+			"thumbnail":""
+		},
+		{
+			"title":"종판탈취원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027157&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>분해에 의해 모판에 형성된 <b>전기<\/b>동판을 떼어낸다. [수행<b>직무<\/b>] <b>전기<\/b>분해에 의해 모판에 형성된 <b>전기<\/b>동판을 탈취대에 놓는다. 종판 탈취용 칼이나 막대를 사용하여 모판 양쪽에 형성된 종판을 떼어낸다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내선반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028286&cid=42117&categoryId=42117",
+			"description":" 주택, 공장 및 기타 건축물에 옥내전선공사를 하는 내선전공의 활동을 감독·조정한다. [수행<b>직무<\/b>] <b>전기<\/b>배선도면을 검토하고 작업상황을 파악하여 작업 계획을 세운다. 전선 및 부속자재의 규격과 수량을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수력발전설비유지보수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026657&cid=42117&categoryId=42117",
+			"description":" <b>전기<\/b>설비, 기계설비, 제어설비 등 수력발전설비 및 주변기기를 유지·보수한다. [수행<b>직무<\/b>] <b>전기<\/b>설비(발<b>전기<\/b>, 변압기 등), 기계설비(터빈(수차)) 및 제어설비 등의 수력발전설비 및 주변기기들의 기계적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"낚싯대경화원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658826&cid=42117&categoryId=42117",
+			"description":" 낚싯대 제조 시 굴대(Mandrel)의 원단에 사용한 결합제를 접착·경화시키기 위해 고온으로 소성하는 <b>전기<\/b>로를 조작·관리한다. [수행<b>직무<\/b>] <b>전기<\/b>로의 스위치를 돌린다. 굴대(Mandrel)에 도포한 낚싯대 재료의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업안전지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2809905&cid=42114&categoryId=42114",
+			"description":"(2) 주요 특징 ① 산업안전지도사는 기계안전, <b>전기<\/b>안전, 화공안전, 건설안전 분야로 구성된... 시행되며, 2차 시험은 전공필수과목(1과목)으로 기계안전, <b>전기<\/b>안전, 화공안전, 건설안전 분야별로 나누어 시",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191200146_MGGUBKGRK.jpg\/da6_754_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경기스마트고등학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1183143&cid=40942&categoryId=34667",
+			"description":"기계 설계 및 용접, 기계 가공 등 기계 분야의 <b>직무<\/b>, <b>전기<\/b> 기기 생산 및 <b>전기<\/b> 관련 시스템 유지·보수 등 <b>전기<\/b> 분야의 <b>직무<\/b>를 수행하는 전문기술인과 헤어·스킨·메이크업·네일 등의 미용 분야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_109\/20181130072111905_AEROHC2X0.jpg\/1476153.jpg?type=m160_160"
+		},
+		{
+			"title":"산업보건지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2809904&cid=42114&categoryId=42114",
+			"description":" 산업보건지도사란 산업인력공단에서 시행하는 산업보건지도사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자격에는 제한이 없다. 응시자는 1차, 2차 필기시험과 3차 면접시험 3단계를 통과해야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191200037_CBEI3LDPG.jpg\/da6_753_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"검침사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026115&cid=42117&categoryId=42117",
+			"description":" 수요자의 전력사용과 관련된 계량기검침, 사용량협정, 위약조사 등의 행정 및 민원 사항에 대한 사무업무를 수행한다. [수행<b>직무<\/b>] <b>전기<\/b> 사용에 대한 신규계약 후 발생하는 무단사용, 용도 외 사용 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기성콘크리트미장공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026393&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>전기<\/b>히터식 콘크리트양생기를 사용하는 경우는 타설된 콘크리트 표면을 1차 미장한다. 타이머를 조정하여 덮개를 덮고 1차 양생한 후 표면을 2차 미장한다. <b>전기<\/b>히터의 타이머를 조정하여 2차... ",
+			"thumbnail":""
+		}
+	]
+}

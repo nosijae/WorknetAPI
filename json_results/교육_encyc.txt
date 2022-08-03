@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:04 +0900",
+	"total":172492,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794430&cid=46615&categoryId=46615",
+			"description":" 인간이 삶을 영위하는 데 필요한 모든 행위를 가르치고 배우는 과정이며 수단을 가리키는 <b>교육<\/b>학용어. [개설] [개념] <b>교육<\/b>은 인간형성의 과정이며 사회개조의 수단이다. 바람직한 인간을 형성하여 개인생활... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_4\/20180524191457563_3J6EV154O.jpg\/14f771c0-681c-40.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3580902&cid=59124&categoryId=59124",
+			"description":"오늘날 <b>교육<\/b>에 대한 담론에서 중심이 되는 주제는 <b>교육<\/b>의 형식이 아니라 내용에 대한 것이다. 어떤 교과를 강화할 것인지, 선택과목의 수를 어떻게 할 것인지. 더 근본적으로 논의되어야 하는 것은 <b>교육<\/b>의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118194007475_NHWQOJQ7G.jpg\/01_252.jpg?type=m160_160"
+		},
+		{
+			"title":"미국의 <b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=957865&cid=47304&categoryId=47304",
+			"description":" <b>교육<\/b>(education, 敎育) : 사람이 살아가는 데 필요한 지식이나 기술 등을 가르치고 배우는 활동.  요즘은 초등학생들도 외국에 나가 공부하는 경우가 많대.나라마다 <b>교육<\/b> 제도가 다르기 마련인데, 다른... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1779_000_1\/20120319123223542_QSP15FSZN.jpg\/bh11_33_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1714552&cid=43938&categoryId=43947",
+			"description":"미국은 식민 시대 초기부터 <b>교육<\/b>을 중요하게 생각해 왔다. 매사추세츠 주에 초기 정착지가 설립된 1620년부터 30년이 채 되기도 전에 모든 마을에 교사를 두는 것이 의무화되었다. 1787년에 열린 대륙... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2281_000_1\/20120611144858795_0E27K5BN7.jpg\/bf1_261_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>의 정의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2272793&cid=51299&categoryId=51302",
+			"description":"<b>교육<\/b>의 본질을 밝히기 위해 많은 <b>교육<\/b>학자들은 <b>교육<\/b>에 대한 정의들을 내렸다. 그 가운데 기능적 정의, 규범적 정의, 준거적 정의를 소개하면 다음과 같다(이문영, 2008). [ 1) 기능적 정의] 기능적 정의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=726265&cid=42140&categoryId=42140",
+			"description":"넓은 의미에서의 <b>교육<\/b>은 개인의 단위로 생각하면 그 탄생과 함께 시작된다. 인간은 성장과 함께 자신의 정체성의 형성, 자신의 가능성의 실현을 목표로 하지만 이 과정은 부단한 학습의 과정이다. <b>교육<\/b>이란 우선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1690763&cid=41908&categoryId=41930",
+			"description":"18세기 말 독일(프로이센)의 <b>교육<\/b>제도는 오늘날과는 전혀 다른 상황에 있었다. 한편으로는 고등<b>교육<\/b>기관인 대학이 있는 동시에, 다른 한편으로는 초등<b>교육<\/b>기관인 민중학교가 병존하고 있었지만, 양자는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1716497&cid=41908&categoryId=41971",
+			"description":"어떠한 <b>교육<\/b>관의 경우에도 그 근저에는 인간관이 놓여 있다. 헤겔에서도 예외가 아니다. 그리고 그의 인간관은 &quot;인간은 정신이다&quot;[『종교철학』 16. 11; 『철학사』 18. 13]에서 남김없이 드러난다. 이것은 첫째... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2169189&cid=50852&categoryId=50852",
+			"description":"육아양식과는 달리, <b>교육<\/b>은 어른들이 어린이들의 인성을 형성하기 위한 더욱 공식적인 노력들을 의미하고 있다. 그러나 원시사회들에서는 위의 양자 간의 차이는 우리 사회에서만큼 현저하지는 않다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2390503&cid=50762&categoryId=51387",
+			"description":"그런데 이스라엘의 <b>교육<\/b>은 하나님을 알고, 하나님께서 조상들과 맺은 거룩한 언약(계약)의 내용을 알게 하여 그 언약을 이루어 나가게 하는 데 주된 목적이 있었다(출 10:2; 12:26-27). <b>교육<\/b>은 일차적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110620&cid=50765&categoryId=50778",
+			"description":"소태산대종사는 《정전》 ‘타자녀<b>교육<\/b>의 강령’에서 “<b>교육<\/b>의 기관이 편소하거나 그 정신이 자타의 국한을 벗어나지 못하고 보면 세상의 문명이 지체되므로, <b>교육<\/b>의 기관을 확장하고 자타의 국한을 벗어나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=510035&cid=42126&categoryId=42126",
+			"description":"자연적 성장이나 우연적 학습은 엄격한 의미의 <b>교육<\/b>에서 제외된다. <b>교육<\/b>은 적어도 그것을 계획하고 주도하는 사람이나 사회의 의도를 내포하고 있다. 그 의도는 직접적이고 명시적인 것일 수도 있지만... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1520222&cid=42121&categoryId=42121",
+			"description":"이러한 의미에서, 정치활동이나 가족생활과 같은 사회구조의 모든 부분은 <b>교육<\/b>적으로 영향을 줄 수 있다. 그러나 이 용어는 광의로도 협의로도 모두 사용되어 왔다. 광범하게는, 생애주기의 모든 단계에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2374953&cid=50762&categoryId=51365",
+			"description":"성경이 제시하는 <b>교육<\/b>은, 하나님께서 주신 거룩한 언약(계약) 내용을 통해, 하나님이 창조하신 이 세상에서, 하나님을 알게 하고, 그 언약을 이루어 나가게 하는 것이다(출10:2; 12:26-27). 즉, 하나님의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=487597&cid=60408&categoryId=55558",
+			"description":"<b>교육<\/b>에는 다음 3가지의 기본구조가 있고 이것이 조합을 이뤄 <b>교육<\/b>의 현실이 성립된다. (1) <b>교육<\/b>자가 피<b>교육<\/b>자를 상대로 교재를 사용하고 정해진 장소에서 행하는 것, 학교의 교실에서의 수업에서 가장 많이 볼... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1065539&cid=40942&categoryId=31723",
+			"description":" 인간의 가치를 높이고자 하는 행위 또는 그 과정.  '敎育'이란 한자는 《맹자(孟子)》의 〈得天下英才而敎育之(천하의 영재를 모아 <b>교육<\/b>하다)〉란 글에서 비롯되었다고 한다. 글자의 구성면에서 보면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=800947&cid=50291&categoryId=50291",
+			"description":"『국가』편에서 플라톤이 설파하는 <b>교육<\/b>은 나라의 법과 관습을 유지 보존하는 수호자들을 지속적으로 키워내는 것을 목표로 한다. 이는 법질서를 내면화하고 품성으로 배양하는 과정을 수반한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1533906&cid=50307&categoryId=50307",
+			"description":"군사요원에게 군사지식과 기술을 부여하며, 지적능력, 덕성, 체력을 함양하기 위한 교수(敎授) 및 학습활동이며, 광의의 <b>교육<\/b>에는 훈련이 포함됨.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2753526&cid=50307&categoryId=50307",
+			"description":"군사 요원에게 군사 지식과 기술을 부여하며, 지적 능력 · 덕성 · 체력을 함양하기 위한 교수 및 학습 활동. 광의의 <b>교육<\/b>에는 훈련이 포함된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=839288&cid=50376&categoryId=50376",
+			"description":"인간이 플레이백 로봇에게 동작 순서를 가르치는 것. 교습을 받은 플레이백 로봇은 가르침을 받은 대로 동작을 정확히 반복한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1838898&cid=49085&categoryId=49085",
+			"description":"개인을 가르치고 훈련시키는 기술.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=42124",
+			"description":"교과서로 보는 시대별 <b>교육<\/b>, <b>교육<\/b>평가용어사전, <b>교육<\/b>학용어사전, 부모가 시작하는 내 아이 성<b>교육<\/b>, 재미있는 사춘기와 성 이야기, 커리어넷 학과정보, 특수<b>교육<\/b>학 용어사전, 한국<b>교육<\/b>사이해, EBS 60분 부모... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 <b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49085",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%EC%9C%A1",
+			"description":"<b>교육<\/b> (敎育, 영어: education ) 또는 가르침 은 사람이 살아가는 데 필요한 지식이나 기술 등을 가르치고 배우는 활동이다. <b>교육<\/b>은 개인이나 집단이 가진 지식, 기술, 기능, 가치관 등을 대상자에게 바람직한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=1103739",
+			"description":"5세 필요 책 리스트",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=297686",
+			"description":"<b>교육<\/b> 프로그램",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=406350",
+			"description":"빛과 그림자",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=76721",
+			"description":"<b>교육<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=47142",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"유아<b>교육<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2164890&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] 유아<b>교육<\/b>학(幼兒敎育學, early childhood education)은 유아의 개념을 어떻게 정의하느냐에 따라 약간씩 차이를 보일 수 있다. 고대 그리스의 철학자인 플라톤(Platōn)과 아리스토텔레스(Aristoteles)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140805142905530_VBFO4A0UA.jpg\/z5_term176_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"부산의 <b>교육<\/b> (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2820106&cid=55772&categoryId=55807",
+			"description":"[정의] 전근대기에서부터 현대에 이르기까지의 부산 지역 <b>교육<\/b>의 역사와 현황. [개설] 부산 지역 <b>교육<\/b>의 역사와 현황을 각각 학교 <b>교육<\/b>, 사회 <b>교육<\/b>, 특수 <b>교육<\/b>, 평생 <b>교육<\/b>, 유아 <b>교육<\/b>으로 나누어 살펴보면 다음과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718032415673_DFEJ79V2F.jpg\/GC042P08996.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b> (제천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2627794&cid=51893&categoryId=53809",
+			"description":"[개설] 제천 지역의 경우 해방 이전에는 초등 <b>교육<\/b>이 겨우 보급되는 상황에서 일반 중등 <b>교육<\/b>은 이루어지지 않았고, 제천여자실과여학교와 제천공립농업학교의 설립으로 실업 <b>교육<\/b>이 시작되어 운영되던 중... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150316023240800_K5CECM6ZP.jpg\/GC033P0509.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b> (하동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2660880&cid=51944&categoryId=54917",
+			"description":"[정의] 경상남도 하동군에 있는 <b>교육<\/b> 기관, 시설 및 관련 시책. [개설] 인류의 발생과 더불어 시작된 생활의 근본이자 그 자체인 <b>교육<\/b>은 몇 가지로 구분할 수 있다, 우선 법에 따라 자격증을 가진 교원들이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150318142739743_L6Z82XKKM.jpg\/GC034P2275.jpg?type=m160_160"
+		},
+		{
+			"title":"의성의 Education",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2653372&cid=51938&categoryId=54600",
+			"description":"[Definition] Every activity which is being done in Uiseong-gun, Gyeongsangbuk-do related with teaching and learning what is necessary to live as a human being [Education institutes... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330230237986_PXUWYD7RR.jpg\/EC052P03248.jpg?type=m160_160"
+		},
+		{
+			"title":"의성의 <b>교육<\/b> (의성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2621022&cid=51938&categoryId=54600",
+			"description":"[근대 이전 <b>교육<\/b> 기관] 조선 시대 경상북도 의성군의 관학(官學) <b>교육<\/b> 기관은 1394년(태조 3)에 경상북도 의성군 의성읍 도동리에 건립된 의성 향교[경상북도 유형 문화재 제150호]와 경상북도 의성군 비안면... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150315154852883_QY2WK0HJT.jpg\/GC052P03248.jpg?type=m160_160"
+		},
+		{
+			"title":"미추홀구의 <b>교육<\/b> (미추홀구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2622863&cid=51927&categoryId=53651",
+			"description":"[정의] 근대 이후 현대까지 인천광역시 미추홀구에서 이루어진 <b>교육<\/b>에 관련된 제도 및 정책, 기관, 시설. [개설] 강화도 조약이 체결된 후 조선의 유교 중심 <b>교육<\/b>은 변화하기 시작했다. 외국인들이 통변 학교... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150315190232572_2AQXE4NAE.jpg\/GC047P02246.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b> (청도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2641415&cid=51939&categoryId=54650",
+			"description":"근대 이전의 <b>교육<\/b> 경상북도 청도 지역은 일찍이 이서국이 있었던 곳으로 예악(禮樂)으로 이름이 높았다 한다. 예악의 바탕은 <b>교육<\/b>으로 추측되나 자세히 알 수 없다. 삼국 시대에는 신라 화랑도의 <b>교육<\/b> 지침이자... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150317144951892_4AZ4EQBAF.jpg\/GC055P02682.jpg?type=m160_160"
+		},
+		{
+			"title":"영암의 Education in Yeongam-gun",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2653188&cid=51951&categoryId=55287",
+			"description":"[Definition] This covers educational policies and facilities in Yeongam-gun, Jeollanam-do. [Introduction] Education is a fundamental activity of human society. Where there is society... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330201534432_UQQI2I3VL.jpg\/EC044P00567.jpg?type=m160_160"
+		},
+		{
+			"title":"양주의 <b>교육<\/b> (양주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2658194&cid=51886&categoryId=53492",
+			"description":"[개설] 양주 지역의 <b>교육<\/b>을 주요 <b>교육<\/b> 기관을 중심으로 개항기에서 일제 강점기까지의 근대와 해방 이후의 현대로 나누어 살펴보면 다음과 같다. [근대] 구식 한학 <b>교육<\/b>을 지양하고 계몽 <b>교육<\/b>을 추구한 양주... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150314080754898_FQV48WMM8.jpg\/GC043P1229.jpg?type=m160_160"
+		},
+		{
+			"title":"영천의 Education",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2653239&cid=51935&categoryId=54452",
+			"description":"[Definition] The contents and current state of the organizations devoted to the spread of knowledge and skills and training amongst the people of Yeongcheon-si, Gyeongsangbuk-do... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330203750789_CIUSWV62W.jpg\/EC051P00423.jpg?type=m160_160"
+		},
+		{
+			"title":"포천의 <b>교육<\/b> (포천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2648599&cid=51888&categoryId=53602",
+			"description":"[정의] 경기도 포천지역의 <b>교육<\/b> 관련 기관, 시설, 시책 및 역사. [고려 시대·조선 시대] 경기도 포천지역의 첫 <b>교육<\/b> 시설은 1173년(명종 3)에 설립된 포천 향교[경기도 문화재 자료 제16호]와 경기도 포천시... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150318082707101_GVOH4JNL1.jpg\/GC050P00422.jpg?type=m160_160"
+		},
+		{
+			"title":"인천남구의 Education",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2653513&cid=51927&categoryId=53651",
+			"description":"[Definition] Institutions, policies, organizations and facilities related education provided in Nam-gu, Incheon, from modern times to present days. [Summary] Since the Ganghwado Treaty... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330231507622_0DLY0MOF4.jpg\/EC047P00335.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b> (안동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2604428&cid=51934&categoryId=54399",
+			"description":"[개설] 안동은 예로부터 <b>교육<\/b>을 중시하는 고장이었으며 조선시대에는 많은 선비들과 관료들을 배출한 유교문화의 본고장이라 할 수 있다. 근대에 들어서도 안동의 <b>교육<\/b>열은 조금도 줄어들지 않았으며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_13\/20211013142101541_EER5M2DNC.jpg\/GC024P3335.jpg?type=m160_160"
+		},
+		{
+			"title":"천안의 <b>교육<\/b> (천안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2570062&cid=51930&categoryId=54182",
+			"description":"[정의] 고대부터 현대까지 충청남도 천안 지역의 <b>교육<\/b>. [근대 이전] 천안 지역에 고려 시대 이전에 존재하였던 <b>교육<\/b> 기관은 현재 문헌상으로 확인할 수 없다. 천안 지역에서 본격적으로 <b>교육<\/b> 기관이 설립되어... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150123211341102_GDEPSGI57.jpg\/GC045P02198.jpg?type=m160_160"
+		},
+		{
+			"title":"청주의 <b>교육<\/b> (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2643073&cid=51895&categoryId=53909",
+			"description":"[개관] <b>교육<\/b>은 인간형성의 과정이며 사회개조의 수단이다. 바람직한 인간을 형성하여 개인생활, 가정생활, 사회생활에서 보다 행복하고 가치 있는 나날을 보내게 하며 나아가 사회발전을 꾀하는 작용인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도봉의 <b>교육<\/b> (도봉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2595880&cid=51880&categoryId=51905",
+			"description":"[정의] 근세부터 현대까지의 서울특별시 도봉구 지역의 <b>교육<\/b>. [학교 <b>교육<\/b>] 1. 조선 시대 고려 시대까지의 서울 <b>교육<\/b>에 대한 구체적인 내용을 전해주는 자료는 없다. 서울 <b>교육<\/b>이 획기적으로 발전한 것은 조선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영암의 <b>교육<\/b> (영암)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2611638&cid=51951&categoryId=55287",
+			"description":"[정의] 전라남도 영암군에 있는 <b>교육<\/b> 기관, 시설 및 관련 시책. [개설] <b>교육<\/b>은 인간사회가 본디 가지고 있는 근본적인 기능이다. 사회가 있는 곳에는 <b>교육<\/b>이 존재하기 마련이다. 그러나 원시 시대에는 <b>교육<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도봉의 Education",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2652851&cid=51880&categoryId=51905",
+			"description":"[Definition] Education from the modern era to the present day in the Dobong-gu, Seoul region. [Changes] 1. School Education 1) Joseon period There are no detailed records on education... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음성의 <b>교육<\/b> (음성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2620631&cid=51892&categoryId=53762",
+			"description":"전통시대 역사서를 통해서 확인할 수 있는 음성의 최초 <b>교육<\/b> 기관은 고려시대 향교로 볼 수 있다. 고려시대에는 관학과 사학으로 분리하여 <b>교육<\/b>을 운영하였는데, 관학은 개성의 국자감·동서학당·오부학당과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"군산의 <b>교육<\/b> (군산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2688206&cid=51946&categoryId=55024",
+			"description":"[정의] 전라북도 군산시에 있는 <b>교육<\/b> 기관, 시설 및 관련 시책. [개설] 군산 지역은 비옥한 평야와 더불어 항구를 끼고 있어 유사 이래 신문물과 지식에 개방적이고 <b>교육<\/b>열이 강한 곳이었다. 변화에 대처하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b> (진천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2633771&cid=51894&categoryId=53860",
+			"description":"[개설] 삼국시대의 진천 지역은 삼국이 접경한 지역이었기 때문에 고구려, 백제, 신라의 지배 영역 속에서 삼국의 <b>교육<\/b> 제도와 문화적 영향을 받았으리라 보여 진다. 고구려는 각 지방에 사립 학교인 경당을 세워... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세종시의 <b>교육<\/b> (세종시)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6121956&cid=67578&categoryId=67599",
+			"description":"[정의] 전근대기부터 현대에 이르기까지의 세종 지역 <b>교육<\/b>의 역사와 현황. [개설] 세종특별자치시의 전신인 충청남도 연기군을 중심으로 세종 지역 <b>교육<\/b>의 역사와 현황을 각각 조선시대부터 개화기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영주의 <b>교육<\/b> (영주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5947930&cid=66911&categoryId=66932",
+			"description":"[정의] 전근대시기부터 현대까지 경상북도 영주시 <b>교육<\/b>의 역사와 현황. [개설] 영주 지역의 <b>교육<\/b>은 고려시대의 향교, 조선시대의 향교·서원·서당, 근대의 신식학교, 현대의 초·중·고등학교와 대학교... ",
+			"thumbnail":""
+		},
+		{
+			"title":"울산의 <b>교육<\/b> (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5788257&cid=64866&categoryId=64887",
+			"description":"[정의] 고대부터 시작하여 현대까지 이루어지고 있는 울산광역시 <b>교육<\/b>의 변천과 현황. [학교 <b>교육<\/b>] 1. 삼국시대~고려시대 한국 <b>교육<\/b>사 측면에서 최초의 형식적 학교 <b>교육<\/b>에 관한 기록은 고구려의 태학(太學)과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광명의 <b>교육<\/b> (광명)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2582080&cid=51882&categoryId=53288",
+			"description":"[개설] 조선의 유교 중심 <b>교육<\/b>은 1870년대 외국과 수교 관계를 맺고 문호를 개방하면서 변화하기 시작하였다. 외국의 새로운 제도 및 기술을 도입하여 근대 문화를 이룩하려는 움직임이 활발해지고, 근대식... ",
+			"thumbnail":""
+		},
+		{
+			"title":"순천의 <b>교육<\/b> (순천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5958239&cid=67067&categoryId=67088",
+			"description":"[정의] 전근대기에서부터 현대에 이르기까지의 전라남도 순천 지역 <b>교육<\/b>의 역사 [전근대 순천의 <b>교육<\/b>] 순천 지역은 구석기시대 이후 한반도 남부의 중심 고을이었다. 낙안 지역을 포함한 순천 지역에는 마한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여수의 <b>교육<\/b> (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2608496&cid=51950&categoryId=55232",
+			"description":"[개설] <b>교육<\/b>은 인간이 삶을 영위하는 데 필요한 것을 가르치고 배우는 과정이며 사회 개조의 수단이다. 동서양을 막론하고 <b>교육<\/b>은 내부의 자연적 성장의 힘과 외부 영향력과의 합력(合力)에 의하여 성립되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경산의 <b>교육<\/b> (경산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6594997&cid=69588&categoryId=69609",
+			"description":"[정의] 전통 시대부터 현대까지 경상북도 경산 지역 <b>교육<\/b>의 역사와 현황. [개설] 경산 지역의 <b>교육<\/b>은 시대별로 고려 시대의 향교, 조선 시대의 향교·서원·서당, 근대의 신식학교, 현대의 초·중·고등학교 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b> (김천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2589035&cid=51933&categoryId=54345",
+			"description":"[정의] 고대부터 현대까지 경상북도 김천 지역의 <b>교육<\/b>. [변천] 1. 전근대 시기[고려·조선 시대] 고려 시대 이전에 김천 지역에 존재하였던 <b>교육<\/b> 기관은 현재 문헌상으로 확인할 수 없다. 1123년(인종 4) 각 주(州)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"충주의 <b>교육<\/b> (충주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2646105&cid=51896&categoryId=53964",
+			"description":"[개설] 강화도 조약이 체결된 후 조선의 유교 중심 <b>교육<\/b>은 변화하기 시작했다. 외국인들이 통변학교·광혜원 등을 세워 외국어·서양 의학을 가르쳤고, 일반 <b>교육<\/b>을 위해 1885년 아펜젤러가 세운 배재학당... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b> (칠곡)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2648372&cid=51940&categoryId=54704",
+			"description":"[변천 과정] 조선 시대 초기부터 세상의 좋은 재목을 육성하고 백성들을 교화하여 풍속을 이루며 인륜을 밝히기 위하여 지방민의 <b>교육<\/b>과 교화를 위한 중앙의 4부 학당과 지방의 향교(鄕校)를 설치하였다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"삼척의 <b>교육<\/b> (삼척)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5698403&cid=62938&categoryId=62959",
+			"description":"[정의] 전근대기에서부터 현대에 이르기까지 강원도 삼척 지역 <b>교육<\/b>의 역사와 현황. [개설] 삼척 지역 <b>교육<\/b>의 역사와 현황을 각각 조선시대 이전, 조선시대, 근대, 현대로 나누어 살펴보면 다음과 같다. [조선시대... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부천의 <b>교육<\/b> (부천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2596773&cid=51883&categoryId=53337",
+			"description":"고려 시대 1914년에 부천이라는 행정명이 탄생하기 전까지 부천 지역의 <b>교육<\/b>은 부평(富平)[조선 시대에는 부평 도호부(富平 都護府)로 불리다 대한 제국 시기 부평군으로 불림]이 관할하였다. 고려 시대 부천... ",
+			"thumbnail":""
+		},
+		{
+			"title":"순창의 <b>교육<\/b> (순창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2827503&cid=55683&categoryId=55685",
+			"description":"[정의] 조선 시대부터 현대까지 전라북도 순창군의 <b>교육<\/b>. [개설] <b>교육<\/b>은 인간의 심신 가치를 높이고 내부적 능력을 계발하여 미숙 상태를 성숙 상태로 이끌어 자기 형성을 보조해 가는 인간 활동이며, 태교부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가평의 <b>교육<\/b> (가평)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6444838&cid=68119&categoryId=68140",
+			"description":"[개설] 가평군에는 2020년 5월 기준 취학전 <b>교육<\/b>기관은 유치원을 비롯하여 초등학교, 중학교, 고등학교 모두 총 38개의 <b>교육<\/b>기관을 보유하고 있다. 유치원은 가평유치원을 비롯한 공립유치원이 13개, 청심유치원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서귀포의 <b>교육<\/b> (서귀포)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2657570&cid=51954&categoryId=55442",
+			"description":"[전근대 서귀포 지역의 <b>교육<\/b>(고려, 조선 시대)] 고려 시대의 제주 <b>교육<\/b>은 당시 제주도의 상황상 과도한 조공의 부담 때문에 <b>교육<\/b> 재정 형편이 좋지 않아 제대로 된 <b>교육<\/b> 활동이 이루어지지 않았다. 특히 고려... ",
+			"thumbnail":""
+		},
+		{
+			"title":"성남의 <b>교육<\/b> (성남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2599877&cid=51884&categoryId=53388",
+			"description":"[개관] <b>교육<\/b>은 인간 형성의 과정이며, 사회 개조의 수단이다. 바람직한 인간을 형성하여 개인 생활, 가정 생활, 사회 생활에서 보다 행복하고 가치 있는 나날을 보내게 하며 나아가 사회 발전을 꾀하는 작용인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b> (창원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2637050&cid=51943&categoryId=54859",
+			"description":"[개설] <b>교육<\/b>의 양태는 시대나 장소에 따라 다르게 나타나지만 어느 경우에나 인간을 인간답게 만드는 중요한 활동의 하나이다. 경상남도 창원 지역의 <b>교육<\/b>을 시대별 변천 과정과 현재의 현황을 중심으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"함안의 <b>교육<\/b> (함안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4349569&cid=59699&categoryId=59720",
+			"description":"[개설] <b>교육<\/b>은 인간의 심신 가치를 높이고 내부적 능력을 계발하여 미숙 상태를 성숙 상태로 이끌어 자기 형성을 보조해 가는 인간 활동이며, 태교부터 시작하여 일생 동안 단절 없이 계속된다. 함안군을 비롯한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b> (고창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2578510&cid=51945&categoryId=54970",
+			"description":"[개설] <b>교육<\/b>은 인간이 삶을 영위하는 데 필요한 지식과 기술 등을 가르치며 인격을 길러 주는 일이다. 근본적으로 상대편 인간에게 영향을 끼쳐서 가치 있는 모습으로 성장하게 하는 사회 기능이다. 일반적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"구리의 <b>교육<\/b> (구리)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4337609&cid=59618&categoryId=59639",
+			"description":"[개설] 경기도 구리시에는 2015년 현재 유치원 32개, 초등학교 15개, 중학교 7개, 고등학교 6개가 있으며 고등 <b>교육<\/b> 기관인 대학교나 대학원은 설립되어 있지 않다. 2005년부터는 구리시 평생 학습 도시를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b> (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3533595&cid=51890&categoryId=53704",
+			"description":"[정의] 고대로부터 현대에 이르기까지 강원도 강릉 지역에서 행해진 <b>교육<\/b>의 역사와 현황. [개설] 강릉은 유서 깊은 <b>교육<\/b>의 고장으로서 이미 고려 말경부터 향교가 설립되고 지역 내에 서당과 서원 등 유학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부안의 <b>교육<\/b> (부안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6588452&cid=69471&categoryId=69492",
+			"description":"[정의] 전라북도 부안군 <b>교육<\/b>의 변천과 현황. [조선 시대] 조선 시대에는 <b>교육<\/b> 진흥을 위해 서울에 성균관(成均館)과 사학을 두고 지방에는 향교(鄕校)를 두었다. 1414년(태종 14) 전라북도 부안 지역에도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"거창의 <b>교육<\/b> (거창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4347735&cid=59782&categoryId=59803",
+			"description":"[정의] 경상남도 거창군에 있는 <b>교육<\/b> 기관, 시설 및 관련 시책. [개설] 통일 신라 시대 이전의 거창 지역 <b>교육<\/b>에 대해서는 관련 기록이 현존하지 않아 상세한 모습을 알 수 없다. 고려 시대에는 지방 관학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"용인의 <b>교육<\/b> (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2615494&cid=51887&categoryId=53547",
+			"description":"[정의] 경기도 용인시에 있는 <b>교육<\/b> 기관, 시설 및 관련 시책. [개설] 용인 지역에서 <b>교육<\/b>은 오래전부터 어떤 형태로든 실시가 되었지만 기록에 전하는 것은 조선시대 이후이다. 조선시대에는 공적 <b>교육<\/b>기관인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공주의 <b>교육<\/b> (공주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2581418&cid=51898&categoryId=54018",
+			"description":"[개설] 역사 문화 도시이자 <b>교육<\/b> 도시인 공주의 지역 정체성이 확립된 것은 공주가 백제의 수도(首都)였다는 사실과 관련된다. 백제가 한대(漢代)의 오경박사(五經博士)제도를 도입하고, 논어와 천자문을 일본에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"울릉의 Education",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2656197&cid=51936&categoryId=54501",
+			"description":"[Definition] The act of imparting and acquiring knowledge required to live as a human being carried out in Ulleung-gun, Gyeongsangbuk-do. [Details] Education is the act of imparting the... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330214836599_SEY7L2PRG.jpg\/EC015P1356.jpg?type=m160_160"
+		},
+		{
+			"title":"강남구의 Education",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2652614&cid=51878&categoryId=51901",
+			"description":"[Definition] Education in Gangnam-gu, Seoul from the pre-modern era to the present day. [Characteristics of Education in Gangnam] Gangnam, the home of many middle and upper class... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무주의 <b>교육<\/b> (무주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5146283&cid=60026&categoryId=60047",
+			"description":"[개설] 전라북도 무주군에서 근대 <b>교육<\/b>의 시작은 대부분 다른 지역의 근대 <b>교육<\/b>이 선교사들의 선교 활동에 의해 시작된 것과는 달리, 1909년(순종 3)에 민간인의 주도에 의해 무주 향교(茂朱鄕校) 명륜당... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영천의 <b>교육<\/b> (영천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2612120&cid=51935&categoryId=54452",
+			"description":"[개설] 영천 지역에서 본격적인 <b>교육<\/b> 기관이 설립되어 체계적인 <b>교육<\/b>이 실시된 시기는 조선 시대에 향교와 서원이 설립되면서이다. 그 후 대한제국 말과 일제 강점기를 거치면서 근대 <b>교육<\/b> 기관이 설립되어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진주의 <b>교육<\/b> (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2632993&cid=51942&categoryId=54807",
+			"description":"[개설] <b>교육<\/b>은 원만한 사회생활을 위해 갖추어야 할 인간 형성의 과정이며 사회 개조의 수단이다. 따라서 개인적으로는 인격완성과 자아실현을 위해 반드시 필요한 과정임과 동시에 가정, 사회, 국가 공동체... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청도의 Education",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2654046&cid=51939&categoryId=54650",
+			"description":"[Definition] A process and tools of teaching and learning of knowledge and techniques, which are needed to make a living, in Cheongdo-gun, Gyeongsangbuk-do [History] 1. Education prior... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150331001446325_Y9K1OIKQR.jpg\/EC055P00235.jpg?type=m160_160"
+		},
+		{
+			"title":"서산의 <b>교육<\/b> (서산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2598183&cid=51929&categoryId=54127",
+			"description":"[정의] 충청남도 서산시에 있는 <b>교육<\/b> 기관, 시설 및 관련 시책. [전통 <b>교육<\/b>] 백제가 관할했던 삼국 시대의 서산 지역 <b>교육<\/b>에 대해서는 관련 기록이 현존하지 않아 상세한 모습을 알 수 없다. 통일신라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청송의 <b>교육<\/b> (청송)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5736528&cid=63640&categoryId=63661",
+			"description":"[개설] 청송군의 <b>교육<\/b>기관으로는 조선시대에 청송향교(靑松鄕敎)와 진보향교(眞寶鄕敎)를 비롯하여 봉람서원(鳳覽書院), 병암서원(屛巖書院), 송학서원(松鶴書院), 사양서원(泗陽書院), 백호서당(栢湖書堂)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b> (논산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2593222&cid=51928&categoryId=54072",
+			"description":"[정의] 충청남도 논산시의 <b>교육<\/b> 기관, 시설 및 관련 시책. [개설] 논산 지역의 <b>교육<\/b>을 일제강점기에 해당하는 근대<b>교육<\/b>과 논산<b>교육<\/b>청 및 논산 <b>교육<\/b> 기관 중심의 현대<b>교육<\/b>으로 나누어 살펴보면 다음과 같다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제주의 <b>교육<\/b> (제주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2627572&cid=51955&categoryId=55495",
+			"description":"[정의] 제주특별자치도 제주시에 있는 학교 등의 <b>교육<\/b> 기관·시설 및 관련 시책. [변천] 조선 시대 제주 지역에서는 관학 <b>교육<\/b>과 사학 <b>교육<\/b>, 그리고 유배인에 의한 <b>교육<\/b>이 이루어졌다. 관학 <b>교육<\/b>의 상징이었던... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b> (고령)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2576962&cid=51931&categoryId=54236",
+			"description":"[정의] 경상북도 고령군에 있는 <b>교육<\/b> 기관, 시설 및 관련 시책. [변천] 조선 초기 고령 지역에서는 정확한 건립 연대는 알 수 없지만 향교가 설립되어 <b>교육<\/b> 기능을 수행하였고, 서당과 서원 등의 <b>교육<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양산의 <b>교육<\/b> (양산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2607990&cid=51941&categoryId=54755",
+			"description":"[개설] <b>교육<\/b>은 인간이 삶을 영위하는 데 필요한 지식과 기술 등을 가르치며 인격을 길러 주는 일이다. <b>교육<\/b>은 역사 발전에 따라 그 전개 양상을 달리해 왔는데, 우리나라에서도 최초의 고대 국가인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"남원의 <b>교육<\/b> (남원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2592437&cid=51948&categoryId=55129",
+			"description":"[전통시대] 전통시대의 <b>교육<\/b>은 주로 향교, 서원, 서당에서 실시되었다. 특히 향교는 조선시대에 지방 재정에 의해 설치 운영된 지방의 중등 <b>교육<\/b> 기관이다. 향교의 목적은 성현에 대한 제사와 지방의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"완주의 <b>교육<\/b> (완주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5868992&cid=65973&categoryId=65994",
+			"description":"[개설] 전라북도 완주군의 <b>교육<\/b>은 지역의 어려운 경제사정과 불리한 환경에도 불구하고 적극적인 지역민들의 노력으로 성공적인 <b>교육<\/b> 발전을 이룰 수 있었다. [완주<b>교육<\/b>의 시초] 근대 이전 전라북도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b> (구로)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2584909&cid=51879&categoryId=51903",
+			"description":"[개설] 서울특별시 <b>교육<\/b>위원회는 1991년 <b>교육<\/b>자치제의 본격 시행으로 당시까지 합의제 집행 기관이었던 <b>교육<\/b>위원회를 심의·의결 기관과 집행 기관으로 분리하면서 구성되었다. 즉, 1991년 3월 8일에 공포된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"익산의 <b>교육<\/b> (익산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6198611&cid=67842&categoryId=67863",
+			"description":"[개설] 익산시의 <b>교육<\/b>은 개화기를 기점으로 향교·서원을 중심으로 하는 전통 <b>교육<\/b>과 근대 이후의 학교<b>교육<\/b>을 중심으로 살펴볼 수 있다. [근대 이전의 <b>교육<\/b>] 전통 <b>교육<\/b>의 대표기관으로 향교를 들 수 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아산의 <b>교육<\/b> (아산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5912488&cid=66498&categoryId=66519",
+			"description":"[정의] 조선 후기에서부터 현대에 이르기까지 충청남도 아산 지역의 <b>교육<\/b> 연혁. [개설] 충청남도 아산 지역에서는 조선시대 향교와 서원을 거쳐 개항기 근대 학교, 광복 이후 초·중·고 학교, 6·25전쟁... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해남의 <b>교육<\/b> (해남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5934463&cid=66793&categoryId=66815",
+			"description":"[정의] 개항이전부터 현대에 이르기까지의 해남 지역 <b>교육<\/b>의 역사와 현황. [개설] 해남지역의 <b>교육<\/b>은 우리나라가 개항한 1876년 이후 근대<b>교육<\/b>을 확대하는 과정과 함께 발전하여 왔다. 우리 민족의 힘으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"강남구의 <b>교육<\/b> (강남구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2573391&cid=51878&categoryId=51901",
+			"description":"[정의] 전근대부터 현대까지의 서울특별시 강남 지역의 <b>교육<\/b>. [강남 <b>교육<\/b>의 특징] 중상류층이 많이 모여살고 있는 강남의 <b>교육<\/b>열풍은 ‘8학군’, ‘대치동 학원가’, ‘고액과외’, ‘조기유학’, ‘조기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진도의 <b>교육<\/b> (진도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2629730&cid=51952&categoryId=55342",
+			"description":"물론 그 전에도 서당과 같은 <b>교육<\/b>기관이 마을이나 문중 단위로 운영되어 후학을 양성했을 것이다. 진도향교는 이리저리 옮겨 다니기는 했지만 임진왜란을 제외하고는 계속해서 그 기능을 유지했다. 1602년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"함양의 <b>교육<\/b> (함양)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5870965&cid=66065&categoryId=66086",
+			"description":"[정의] 경상남도 함양군에서 인간으로서의 삶을 영위하는 데 필요한 것을 가르치고 배우는 모든 행위와 그와 관련된 <b>교육<\/b> 기관, 시설 및 관련 시책. [개설] 함양군을 비롯한 우리나라의 <b>교육<\/b>은 삼국 시대와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시흥의 <b>교육<\/b> (시흥)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5757792&cid=63856&categoryId=63877",
+			"description":"[개설] <b>교육<\/b>이란 사회 생활에 필요한 지식이나 기술 및 바람직한 인성과 체력을 갖도록 가르치는 조직적이고 체계적인 활동을 말한다. 시흥 지역에서의 <b>교육<\/b> 환경은 지역적 불균형 속에서도 꾸준히 증가해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예산의 <b>교육<\/b> (예산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5706465&cid=63071&categoryId=63092",
+			"description":"[정의] 전통시대부터 현대에 이르기까지 예산 지역 <b>교육<\/b>의 역사와 현황. [전통 <b>교육<\/b>] 삼국시대 예산 지역에 대한 <b>교육<\/b>은 기록이 현존하지 않아서 알기 어렵다. 고려시대부터 향교와 서당이 있었다. 성종 때... ",
+			"thumbnail":""
+		},
+		{
+			"title":"당진의 <b>교육<\/b> (당진)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5149111&cid=60111&categoryId=60132",
+			"description":"[정의] 충청남도 당진 지역 <b>교육<\/b>의 발전 과정과 현황. [근대 이전의 당진 <b>교육<\/b>] 근대 이전의 당진 <b>교육<\/b>에 대한 내용은 전해지는 기록이 없어 거의 살필 수가 없다. 다만 관학으로서 향교가 두 곳, 서원이 한 곳... ",
+			"thumbnail":""
+		}
+	]
+}

@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:43 +0900",
+	"total":14317,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=984609&cid=50305&categoryId=50305",
+			"description":"<b>운송<\/b>인(Carrier)이 화물을 수송하는 것을 말한다. 미국에서는 해상, 공중, 육상<b>운송<\/b>의 경우 모두 <b>운송<\/b>비(Cost of Transportation)를 Carriage 또는 Freight라고 부른다. 영국에서는 해상<b>운송<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=923427&cid=47326&categoryId=47326",
+			"description":"원료나 제품을 공장이나 소비자에게 전달시켜 주는 것. 또 생산지와 소비지의 장소적 불일치를 해소하는 역할을 하기도 하며 수송이라고도 부른다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5767971&cid=64628&categoryId=64628",
+			"description":"사람을 태워 보내거나 물건 따위를 실어 보냄 북한의 철도용어<b>운송<\/b> 짐을 날라보내는 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B4%EC%86%A1",
+			"description":"<b>운송<\/b> 은 다음을 가리킨다. <b>운송<\/b>(輸送)은 여객이나 화물을 나르는 일을 가리킨다. <b>운송<\/b>(雲松)은 장덕진의 호이다. <b>운송<\/b>(雲松)은 김해의 호이다. 같이 보기 제목에 &quot;<b>운송<\/b>&quot; 항목을 포함한 모든 문서",
+			"thumbnail":""
+		},
+		{
+			"title":"수송",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1115507&cid=40942&categoryId=32185",
+			"description":" 여객·화물을 <b>운송<\/b>하는 일.  수송을 통로에 따라 구분하면 육운(陸運)·수운(水運)·공운(空運)으로 크게 나누어지며, 다시 육운은 철도·도로 수송, 수운은 해상(해운)·하천·호수·운하 수송으로 구별된다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_37\/20181006020114345_LNU5PMTWG.jpg\/36342.jpg?type=m160_160"
+		},
+		{
+			"title":"장덕진",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1138349&cid=40942&categoryId=33384",
+			"description":" 한말 독립 운동가. 강석훈 등 10명의 연서로 국민대표회 주비회를 후원하는 선언문을 발표, 민족의 대동단결을 촉구하였고, 이어 상하이 교민단의 경호대원을 지냈다.  본관 결성(結城). 호 <b>운송<\/b>(雲松)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수송",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1612730&cid=50350&categoryId=50350",
+			"description":"수송농업용어사전: 농촌진흥청 재화나 인력을 한 장소로부터 다른 장소로 이동시키는 활동. 외국어 표기 transportation(영어), transport(영어), 輸送(한자), ゆそう(일본어) 수송해양과학용어사전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 운반",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49071",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1130789&cid=40942&categoryId=32185",
+			"description":" 화물 또는 여객의 <b>운송<\/b>을 목적으로 하는 영업.  <b>운송<\/b>의 대상에 따라 화물<b>운송<\/b>과 여객<b>운송<\/b>으로 분류되며, 또 <b>운송<\/b>이 행해지는 장소에 따라 육상<b>운송<\/b>업·해상<b>운송<\/b>업·항공<b>운송<\/b>업 등으로 구분된다. 통신<b>운송<\/b>도... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_61\/20181026142904030_NE4BVZA5L.jpg\/238804.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355576&cid=51373&categoryId=51373",
+			"description":" 물품의 <b>운송<\/b> 내역을 기록한 문서.  <b>운송<\/b>장은 화물을 <b>운송<\/b>할 때 그 내용을 기재한 문서를 말한다. 이는 화물이 <b>운송<\/b>되었음을 증명하는 서류로 활용되므로 <b>운송<\/b>물의 품명과 중량, 개수, 도착지, 수하인 등의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209152736352_6ZHFUD313.jpg\/ba17_666_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926228&cid=42279&categoryId=42279",
+			"description":" 화물의 <b>운송<\/b> 내용을 기재한 문서.  <b>운송<\/b>장이란 화물 <b>운송<\/b>에 관한 제반 사항을 기록한 증서로서, 송하인이 <b>운송<\/b>화물의 명세 등을 기록하여 <b>운송<\/b>인에게 제출하는 문서를 말한다. <b>운송<\/b>장에는 <b>운송<\/b>물의 품명, 중량... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128221855848_A7X8RKYVF.jpg\/hb10_6580_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>중개인화물<b>운송<\/b>증명서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=7741&cid=43659&categoryId=43659",
+			"description":"복합<b>운송<\/b>중개인이 발행한 <b>운송<\/b>증명서를 가리키며, FIATA에 가입한 중개인이 발행한 서류를 FIATA FCT라고 한다. FCR이 단순한 수취증인데 반하여 FCT는 화물상환증이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790499&cid=55615&categoryId=55615",
+			"description":"화물의 내용, 발착역, 송화인의 인적사항 등 <b>운송<\/b>계약에 필요한 사항을 기재한 증명서류로서 송화인이 신고토록 되어 있음.",
+			"thumbnail":""
+		},
+		{
+			"title":"통과<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=10826&cid=43659&categoryId=43659",
+			"description":"두 가지 이상의 <b>운송<\/b>기관에 의하여 <b>운송<\/b>품이 <b>운송<\/b>되는 경우를 통과<b>운송<\/b>이라고 한다. 통과<b>운송<\/b>에는 해상통과<b>운송<\/b>과 해륙통과<b>운송<\/b>이 있다. 해상 통과<b>운송<\/b>이란, 해상<b>운송<\/b>기관이 릴레이식 <b>운송<\/b>을 하는 경우를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2074776&cid=50305&categoryId=50305",
+			"description":"두 가지 이상 서로 다른 <b>운송<\/b>방법에 의하여 물품이 이송되는 <b>운송<\/b>방법을 말한다. 즉 해상<b>운송<\/b>기관과 육상<b>운송<\/b>기관, 해상<b>운송<\/b>기관과 항공<b>운송<\/b>기관 또는 육상<b>운송<\/b>기관과 항공<b>운송<\/b>기관이 결합하여 릴레이식... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545272&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b>대장이란 물품을 <b>운송<\/b>한 내역을 기록한 서식이다.  <b>운송<\/b>대장이란 회사에서 거래처 및 납품처에 필요에 따른 물품 및 제품, 상품을 <b>운송<\/b>한 내역을 기록하여 체계적 관리하기 위해 작성하는 장부 형식의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181533340_MM4V0ZRTI.jpg\/hb10_78562_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"복합<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4887&cid=43659&categoryId=43659",
+			"description":"적어도 두 가지 이상의 방법에 의하여 <b>운송<\/b>품이 수송되는 <b>운송<\/b>을 가리킨다. 부산에서 시애틀까지 <b>운송<\/b>되는 경우, 부산에서 고베까지는 경주호 선박이 <b>운송<\/b>을 담당하고, 고베에서 시애틀까지는 마리아호 선박이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1227668&cid=40942&categoryId=31864",
+			"description":" 2가지 이상의 다른 <b>운송<\/b>수단에 의한 <b>운송<\/b> 형태.  통<b>운송<\/b>(through carriage) 또는 협동일관<b>운송<\/b>(intermodal carriage)이라고도 한다. 선박과 철도, 선박과 항공과 같이 서로 다른 2가지 이상의 <b>운송<\/b>수단으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"순차<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1116227&cid=40942&categoryId=31916",
+			"description":" 동일한 <b>운송<\/b>품에 대하여 몇 사람의 <b>운송<\/b>인이 <b>운송<\/b>구간을 담당하는 중계<b>운송<\/b>.  순차<b>운송<\/b>은 손해가 어느 <b>운송<\/b>구간에서 발생하였는지를 입증하기가 곤란하다. 송하인(送荷人)이나 수하인(受荷人)이 보호를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=383097&cid=42329&categoryId=42329",
+			"description":" 2개 이상의 서로 다른 <b>운송<\/b>수단을 이용하여 화물을 <b>운송<\/b>하는 방식.  단일의 복합<b>운송<\/b>인(Multimodal Transport Operator, MTO)이 복합<b>운송<\/b>증권(multimodal transport bill of lading)을 발행하여 2개 이상의 서로 다른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545271&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b>규정이란 <b>운송<\/b>과 관련된 내용을 담은 규정 문서이다.  <b>운송<\/b>의 개념은 사람을 태워 보내거나 혹은 물건 등을 교통수단을 통해 실어 보내는 일을 뜻한다. 이는 회사에서 일반적으로 생산된 제품 및 물자를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181533346_AD3ATLF4L.jpg\/hb10_78561_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>계약",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=7735&cid=43659&categoryId=43659",
+			"description":"당사자의 <b>운송<\/b>인이 물건 또는 여객의 장소적 이동을 약속하고 상대방이 이에 대한 보수의 지급을 약정하는 계약. <b>운송<\/b>이라는 일의 완성을 목적으로 하는 것으로서 도급계약에 속하지만 민법상의 도급계약에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>서류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=7737&cid=43659&categoryId=43659",
+			"description":"종래의 무역 <b>운송<\/b>수단은 대부분 해상<b>운송<\/b>에 의존하였으나 <b>운송<\/b>수단의 급속한 발달로 항공, 복합<b>운송<\/b>수단 등으로 선적이 이루어짐으로써 선적서류(shipping documents)란 용어가 <b>운송<\/b>서류로 변경되었다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=302076&cid=43668&categoryId=43668",
+			"description":"복합<b>운송<\/b>이란 두 가지 이상의 상이한 <b>운송<\/b>수단(선박과 철도, 선박과 비행기)으로 화물을 목적지까지 운반하는 <b>운송<\/b>형태를 말한다. 복합<b>운송<\/b>의 '복합'이라는 용어는 multimodal, combined intermodal... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>보험",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1130788&cid=40942&categoryId=31831",
+			"description":" 육상<b>운송<\/b>에 관한 사고로 인하여 <b>운송<\/b>되는 화물에 생기는 손해를 보상하기 위한 손해보험(상법 688조).  해상<b>운송<\/b>의 화물인 경우에는 해상보험이 이에 갈음한다. <b>운송<\/b>보험의 목적은 <b>운송<\/b>물이고 <b>운송<\/b>계약이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연락<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790375&cid=55615&categoryId=55615",
+			"description":"장거리 여러 구간의 <b>운송<\/b>에 있어서 각 구간의 <b>운송<\/b>인들이 공동으로 <b>운송<\/b>을 맡아 구간이 바뀔 때의 승차권의 교환 및 탁송환(換하) 등을 필요로 하지 아니하는 <b>운송<\/b>. * 현재는 “연락” 보다는 “연계“라는 말이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>계약",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790497&cid=55615&categoryId=55615",
+			"description":"<b>운송<\/b>인이 화물 또는 여객을 <b>운송<\/b>할 것을 약속하고 송화인 또는 여객이 이에 대하여 운임을 지불할 것을 보증하는 계약",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>위험",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1227971&cid=40942&categoryId=31864",
+			"description":" 무역 상품이 <b>운송<\/b>되는 도중의 위험.  화물이 <b>운송<\/b>되는 동안의 위험을 말한다. 적하보험에서 일반적으로 부보되는 위험으로, <b>운송<\/b>하는 수단에 따라 해상위험과 육상위험·창고위험 등으로 나뉜다. 위험은 손해의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"육상<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1133071&cid=40942&categoryId=32194",
+			"description":" 육로 또는 호수·강·항만 등에서 행하여지는 화물·여객의 <b>운송<\/b>(상법 125조).  해상<b>운송<\/b>과 대비되는 말이다. 항만과 해상의 분계점은 평수구역(平水區域)에 의하며, 평수구역은 선박안전법 시행령에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_61\/20181026142904030_NE4BVZA5L.jpg\/238804.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>약관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1228044&cid=40942&categoryId=31864",
+			"description":" 적하보험에서 보험자의 책임을 <b>운송<\/b>과정까지 확대한 약관.  적하보험의 담보시기의 개시와 종료를 확대한 약관으로, 보험자의 책임은 화물이 보험증권에 기재된 지역의 창고에서 선적항으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>약관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2800702&cid=42279&categoryId=42279",
+			"description":" 해운법 시행규칙에 의한 <b>운송<\/b>약관 행정서식.  해운법 시행규칙 [시행 2014. 1. 1.] [해양수산부령 제63호, 2013. 12. 30., 타법개정]에 의한 [서식 7의2] <b>운송<\/b>약관(신고서, 변경신고서) 양식입니다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150605111652794_J4YZSGG51.jpg\/hb10_15100_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>조건",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790500&cid=55615&categoryId=55615",
+			"description":"여객 화물 또는 소화물 <b>운송<\/b>상의 제반조건",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>인수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790498&cid=55615&categoryId=55615",
+			"description":"<b>운송<\/b>의 수탁 현품의 수취 수송현품 인도등 화물의 소재를 변경시키는 일체의 인수행위",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>업",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B4%EC%86%A1%EC%97%85",
+			"description":"<b>운송<\/b>업 이란 육상 또는 호천, 항만에서 물건 또는 여객의 <b>운송<\/b>을 영업으로 하는 것을 말한다. <b>운송<\/b>업은 원래 해상<b>운송<\/b>으로부터 발달하였다. <b>운송<\/b>행위가 이루어지는 장소에 따라 육상<b>운송<\/b>·해상<b>운송<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1223104&cid=40942&categoryId=32185",
+			"description":"좁은 뜻으로는 상법 제125조에서 규정하는 육상 또는 호천(湖川)·항만에서 물품 또는 여객의 <b>운송<\/b>을 영업으로 하는 자, 즉 육상<b>운송<\/b>인(호천·항만 포함)을 말한다. 해상<b>운송<\/b>인에 관해서는 상법 제5편 해상편... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=944725&cid=47334&categoryId=47334",
+			"description":"교통 기관을 이용할 때 드는 비용을 뜻하는 <b>운송<\/b>비는 종착지 비용과 운반 거리 비용으로 구성된다. 종착지 비용은 하역비 · <b>운송<\/b> 업무비 · 관리 유지비 등으로 운반 거리와 상관없이 드는 일정한 비용이며, 운반... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0903_000_1\/20120130144636070_NJT1KOD17.jpg\/gc1_469_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926226&cid=42279&categoryId=42279",
+			"description":" 그날그날의 제품 <b>운송<\/b> 내역을 기록하는 문서.  <b>운송<\/b>일지란 제품 <b>운송<\/b> 현황을 일자별로 기록한 표 형식의 문서를 말한다. <b>운송<\/b>일지를 작성하는 담당자는 작성 일자를 비롯하여 <b>운송<\/b>한 제품의 품목 및 규격을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128221855181_5XGGZSQHW.jpg\/hb10_6578_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>약관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=7738&cid=43659&categoryId=43659",
+			"description":"<b>운송<\/b>서류에 기재되어 있는 약관을 말하며 일반면책약관, 기타 약관과 상관습에 관한 약관으로 구성된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415110&cid=68110&categoryId=68110",
+			"description":"<b>운송<\/b>인이 화물의 주인에게 물건과 함께 보내는 통지서",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5767953&cid=64628&categoryId=64628",
+			"description":"태워 나르거나 물건을 실어 나르는 영업을 하는 사람 2. 운임이나 수수료를 받고 사람을 태워 나르거나 물건을 직접 실어 나르는 사람 북한의 철도용어<b>운송<\/b>인 짐을 실어나르는 사람 또는 그런 영업을 하는 사람",
+			"thumbnail":""
+		},
+		{
+			"title":"개품<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1354&cid=43659&categoryId=43659",
+			"description":"다수의 선적인으로부터 개별적으로 <b>운송<\/b>품을 수집하여 이행하는 <b>운송<\/b>을 가리키며, 다수의 화주로부터 화물을 인수하여 혼적하므로 정기선이 주로 이용된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"철물 <b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1726725&cid=49387&categoryId=49387",
+			"description":"철물(鐵物) <b>운송<\/b>의 주된 수단은 수운(水運)이었다. 목재의 <b>운송<\/b>이 병선(兵船)과 방선(防船)을 주로 이용하고 부족한 물량수송에 사선(私船)을 이용한 것과 달리, 철물의 <b>운송<\/b>은 사선이 주로 담당하였다. 황해도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목재 <b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1726723&cid=49387&categoryId=49387",
+			"description":"목재 <b>운송<\/b>의 주된 수단은 수운(水運)과 조운(漕運)이었는데 벌목지에 따라 크게 두 가지 유형으로 나눌 수 있다. 황해도의 장산곶(長山串), 충청도의 안면도(安眠島), 전라도의 경우에는 각 수영(水營) 및 읍진... ",
+			"thumbnail":""
+		},
+		{
+			"title":"석재 <b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1726724&cid=49387&categoryId=49387",
+			"description":"석재 <b>운송<\/b>은 주로 육운(陸運)을 이용하였다. 육운에서는 수레가 주요 <b>운송<\/b>수단이기 때문에 수레의 제작과 확보가 중요하게 다루어 졌다. 정조17년 정의조(鄭毅祚)는 수원은 지형이 평평하므로 함흥 지역에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"송장<b>운송<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437396&cid=42279&categoryId=42279",
+			"description":" 송장<b>운송<\/b>장이란 화물의 <b>운송<\/b> 내용을 기재한 문서이다.  송장<b>운송<\/b>장이란 화물 <b>운송<\/b>에 관한 제반 사항을 기록한 증서로서, 송하인이 <b>운송<\/b>화물의 명세 등을 기록하여 <b>운송<\/b>인에게 제출하는 문서를 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902181639871_CH2VNR6AH.jpg\/hb10_72666_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"계약<b>운송<\/b>인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1227097&cid=40942&categoryId=31864",
+			"description":" <b>운송<\/b>계약을 하주와 직접 체결한 <b>운송<\/b>인.  하주와 계약하여 <b>운송<\/b>관련 업무를 하는 자를 말한다. 무역이 발달하면서 해상<b>운송<\/b> 업무가 복잡해져 점차 확대된 것으로, 선박이나 항공기·기차 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항공<b>운송<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=11736&cid=43659&categoryId=43659",
+			"description":"항공<b>운송<\/b>을 위하여 화물이 수취되었음을 증명하는 <b>운송<\/b>서류를 말한다. 해상선하증권이 유가증권인데 반하여 항공<b>운송<\/b>장은 수취증에 불과하다. 항공<b>운송<\/b>장은 12매로 발급되며 원본은 3매이다. 원본 1은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>영수증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926222&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b>비 지급 사실을 증명하는 문서.  <b>운송<\/b>영수증이란 <b>운송<\/b> 업무에 관한 계약상 금액의 지급 사실을 증명하는 내용의 문서를 말한다. <b>운송<\/b>영수증에는 계약자의 상호 및 대표자의 성명, 주소 등을 비롯하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128221848207_L314OGWJL.jpg\/hb10_6574_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3380315&cid=51373&categoryId=51373",
+			"description":" <b>운송<\/b> 작업에 대한 계획을 기재한 문서.  <b>운송<\/b>이란 어떠한 대상을 기존의 위치에서 다른 위치로 옮기는 것을 말한다. 사람의 힘으로 옮기기 힘든 물건이나 대량의 물건을 옮겨야 할 경우 <b>운송<\/b> 관련 장비나 차량... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503120058166_FEXP0HRHP.jpg\/ba17_10008_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>신고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926218&cid=42279&categoryId=42279",
+			"description":" 보세 <b>운송<\/b>에 관한 내용을 신고하는 문서.  보세<b>운송<\/b>이란 수입통관이 끝나지 않은 외국물품을 국내에서 <b>운송<\/b>하는 제도를 말한다. 보세<b>운송<\/b>을 하고자 하는 자는 세관장에게 보세<b>운송<\/b>에 관한 신고를 해야 하며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128221836920_JIC3TH85R.jpg\/hb10_6570_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>약관서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926219&cid=42279&categoryId=42279",
+			"description":" 수하물 <b>운송<\/b>에 관한 약관을 기재한 문서.  <b>운송<\/b>약관서란 수하물 <b>운송<\/b>에 관한 공정한 계약체결을 위해 계약의 제반 조건을 제시하는 문서를 말한다. <b>운송<\/b>약관서에는 적용운임과 <b>운송<\/b> 거절, 수하물 <b>운송<\/b> 및... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129015917448_SAK2QB8DL.jpg\/hb10_6571_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"항만<b>운송<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1161790&cid=40942&categoryId=32185",
+			"description":" 해상<b>운송<\/b>과 육상<b>운송<\/b>을 연결하기 위하여 항만 내 또는 지정구역 내에서 이루어지는 경제활동.  항만<b>운송<\/b>업은, ① 선박에 의해 <b>운송<\/b>된 화물을 인수하여 화주(貨主)에게 인도하거나 반대로 선박에 의해 <b>운송<\/b>된... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_54\/20181015190354652_FDPG4NDQS.jpg\/54495.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>허가서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545436&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b>허가서란 유상<b>운송<\/b> 허가를 증명하는 문서이다.  <b>운송<\/b>은 사람이나 물건 등을 차량, 선적을 이용하여 보내는 일을 말한다. 자가용 또는 화물차 등으로 유상<b>운송<\/b>을 하고자 할 시에는 담당 부처로부터 이에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182112613_H6PBMJSC4.jpg\/hb10_79091_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>주선업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1130790&cid=40942&categoryId=32185",
+			"description":" 물건<b>운송<\/b>을 주선하는 영업.  자기 명의로 이 영업을 하는 자를 <b>운송<\/b>주선인이라 한다(상법 114조). 물품<b>운송<\/b>에 한하는 것이므로 여객<b>운송<\/b>의 주선을 목적으로 하는 것은 포함되지 않는다. <b>운송<\/b>주선인은 <b>운송<\/b>을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830573&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b>계약서란 <b>운송<\/b>인이 목적지까지 물품이나 상품을 운반할 것을 약정하고 의뢰자는 그 일의 결과에 대한 보수를 지급할 것을 약정하는 문서이다. [<b>운송<\/b>계약서의 개요] 1) <b>운송<\/b>의 정의 <b>운송<\/b>(運送)이란 판매자나... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128203249927_142LHSR0R.jpg\/hb10_3119_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>발령장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545434&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b>발령장이란 화물의 <b>운송<\/b> 내용을 기재한 문서이다.  <b>운송<\/b>발령장이란 화물 <b>운송<\/b>에 관한 제반 사항을 기록한 증서로서, 송하인이 <b>운송<\/b>화물의 명세 등을 기록하여 <b>운송<\/b>인에게 제출하는 양식을 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182112489_427Y38IVE.jpg\/hb10_79089_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>리스트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545433&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b>리스트란 <b>운송<\/b>한 물품의 목록을 정리한 표 형식의 문서이다.  <b>운송<\/b>리스트란 <b>운송<\/b>한 물품의 목록을 정리한 표 형식의 양식을 의미한다. <b>운송<\/b>리스트는 정해진 양식이 있는 것은 아니며 작성 목적에 따라... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182112145_G0ZESJ6TP.jpg\/hb10_79088_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>확인증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545437&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b>확인증이란 <b>운송<\/b> 내역을 확인하는 내용의 문서이다.  <b>운송<\/b>확인증이란 해상 <b>운송<\/b> 등을 통해 물품을 <b>운송<\/b>한 내역을 확인하기 위한 목적으로 작성하는 양식을 말하며, <b>운송<\/b>확인증을 작성할 때에는 업체명과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182113480_PPPBAJHGP.jpg\/hb10_79092_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>협약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2049310&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b> 용역에 관한 협약 내용을 명시한 문서.  <b>운송<\/b>협약서란 제품 <b>운송<\/b>을 위한 용차 사용계약을 체결하고, 그 내용을 명시한 문서를 말한다. 협약의 내용에 따라 <b>운송<\/b> 회사의 차량을 용차하게 되면 그에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129011509844_YB4W78M07.jpg\/hb10_13026_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>용역서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2049309&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b> 용역에 관한 계약 내용을 명시한 문서.  <b>운송<\/b>용역서란 제품 <b>운송<\/b>을 위한 용차 사용계약을 체결하고, 그 내용을 명시한 문서를 말한다. <b>운송<\/b>용역서의 내용에 따라 <b>운송<\/b> 회사의 차량을 용차하게 되면... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129011509813_8A5ZQOWCJ.jpg\/hb10_13025_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>지시문",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545435&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b>지시문이란 <b>운송<\/b> 업무에 대해 지시를 하는 경우에 사용하는 문서이다.  업무지시는 상사가 소속사원에게 일정한 업무에 대해 지시를 내리는 것을 말하는데, 각각의 회사마다 업무의 성격과 업종에 따라... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182112516_6UXUXU45M.jpg\/hb10_79090_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2049305&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b> 사업에 관한 구체적인 계획을 명시한 문서.  <b>운송<\/b>계획서란 <b>운송<\/b> 사업에 관한 세부 계획을 수립하고 그 내용을 명시한 문서를 말한다. <b>운송<\/b>계획서에는 업체명과 대표자, 주사무소, 사업 종류 등의 기본... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129011450291_5C715NEAG.jpg\/hb10_13021_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>내역표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545432&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b>내역표란 <b>운송<\/b> 내역을 표 형식으로 정리한 문서이다.  <b>운송<\/b>은 화물을 <b>운송<\/b>하는 행위를 말하며, <b>운송<\/b>내역표란 화물 등을 <b>운송<\/b>한 내역을 기록, 확인하기 위해 작성하는 표 형식의 양식을 의미한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182111614_M50U6K3MM.jpg\/hb10_79087_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>인인도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1226697&cid=40942&categoryId=31864",
+			"description":" 수출업자가 지정된 <b>운송<\/b>인에게 물품을 인도할 때까지 책임을 부담하는 무역거래조건.  무역거래에서, 매도인이 화물을 지정된 장소에서 <b>운송<\/b>인에게 인도하는 가격조건이다. 주로 여러 가지 <b>운송<\/b>수단을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>서약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2049308&cid=42279&categoryId=42279",
+			"description":" 화물 <b>운송<\/b> 등에 관한 서약 내용을 명시한 문서.  <b>운송<\/b>서약서란 수출입 화물 등의 <b>운송<\/b>과 관련한 사항을 철저히 준수하겠음을 서약하는 내용의 문서를 말한다. <b>운송<\/b>서약서는 단순히 의지를 표명하는 것뿐만... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129011455333_55XL8N5MT.jpg\/hb10_13024_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>견적서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830572&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b> 업무에 있어서 공급 가능한 내용 및 제반 비용을 적산형태로 기술한 문서.  견적서는 거래 당사자 간의 신규거래 또는 새로운 품목거래 개설을 위하여 거래가격 및 조건을 미리 알아보고 결정하기 위해서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128203249542_FR55R3MZU.jpg\/hb10_3118_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>확인서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926232&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b> 내역을 확인하는 내용의 문서.  <b>운송<\/b>확인서란 해상 <b>운송<\/b> 등을 통해 물품을 <b>운송<\/b>한 내역을 확인하기 위한 목적으로 작성하는 문서를 말한다. <b>운송<\/b>확인서에는 업체명과 <b>운송<\/b> 일시, <b>운송<\/b> 품목 등의 항목을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128221904171_TNS2O2ARP.jpg\/hb10_6584_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>현황표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830575&cid=42279&categoryId=42279",
+			"description":" 화물이나 여객, 항만 등의 <b>운송<\/b>현황을 기록한 서식.  화물 또는 여객의 <b>운송<\/b>을 목적으로 하는 기업은 <b>운송<\/b>장비가 직접적인 이윤창출의 수단이며 보유 자산이 된다. 그렇기 때문에 <b>운송<\/b>장비 관리는 기업의 필수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128203309449_2AKJXDW7K.jpg\/hb10_3121_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>매뉴얼",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2049307&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b> 업무 관리에 필요한 절차 및 방법 등을 기재한 문서.  <b>운송<\/b>매뉴얼이란 <b>운송<\/b> 업무 관리 시 기준이 되는 업무 절차 및 방법 등을 규정하고 그 내용을 기술한 문서를 말한다. <b>운송<\/b>매뉴얼은 <b>운송<\/b>요구서를 받은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129011451175_9JHV3FUD6.jpg\/hb10_13023_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>허가증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926231&cid=42279&categoryId=42279",
+			"description":" 유상<b>운송<\/b> 허가를 증명하는 문서.  자가용 또는 화물차 등으로 유상<b>운송<\/b>을 하고자 할 시에는 담당부처로부터 이에 관한 허가를 받는 절차가 필요하다. <b>운송<\/b>허가증이란 화물자동차 운수사업법 시행규칙에 따라... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20190514160918980_BPIGNNDBC.jpg\/hb10_6583_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>지시서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926230&cid=42279&categoryId=42279",
+			"description":" <b>운송<\/b> 업무에 관한 제반 사항을 명시한 문서.  <b>운송<\/b>지시서란 용역 업무 전반의 구체적 내용을 규정한 문서로서, <b>운송<\/b> 업무를 원활하게 수행하도록 하는 데 목적이 있다. <b>운송<\/b>지시서에는 적용 범위 및 원칙 등의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128221856403_5OTEBMVRD.jpg\/hb10_6582_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"항공<b>운송<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2074991&cid=50305&categoryId=50305",
+			"description":"항공<b>운송<\/b>장은 화물이 항공<b>운송<\/b>을 위하여 수취되었음을 증명하는 서류를 말하며 항공화물 수탁서(air consign-ment note)라고도 한다. 화물이 수취된 상태에서 발급되므로 해상선하증권에서 수취선하증권과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보세<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1920083&cid=50305&categoryId=50305",
+			"description":"보세<b>운송<\/b>무역용어사전 양하항에서 통관을 하지 않고 다른 보세지역에 수입화물을 <b>운송<\/b>하여 거기에서 수입통관절차를 취한다. 수출물품의 보세<b>운송<\/b>은 경기도 의왕에서 수출신고필증을 받아 수출물품이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"계약 <b>운송<\/b>인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=301323&cid=50305&categoryId=50305",
+			"description":"송하인과 <b>운송<\/b>계약을 체결하여 스스로 <b>운송<\/b>증권을 발행하고 <b>운송<\/b>책임을 인수하는 자로서 실제<b>운송<\/b>인(Actual Carrier) 사이에는 자기가 송하인으로서 <b>운송<\/b>계약을 체결한다. 계약<b>운송<\/b>인은 선박이나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>계약",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1223105&cid=40942&categoryId=32185",
+			"description":"당사자의 일방(<b>운송<\/b>인)이 물건 또는 여객의 장소적 이동을 약속하고, 상대방이 이에 대한 보수(<b>운송<\/b>임 또는 운임)의 지급을 약정하는 계약을 말한다. <b>운송<\/b>이라는 일의 완성을 목적으로 하는 것으로서 도급계약에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>보험",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B4%EC%86%A1%EB%B3%B4%ED%97%98",
+			"description":"<b>운송<\/b>보험 이란 육상<b>운송<\/b>에 있어서 <b>운송<\/b>물에 대하여 발생할 수 있는 손해를 보상할 것을 목적으로 하는 손해보험이다. 보험의 목적물은 <b>운송<\/b>물이므로 <b>운송<\/b>용구(運送用具)는 포함되지 아니한다. <b>운송<\/b>보험에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"로컬<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1227648&cid=40942&categoryId=31864",
+			"description":"국제<b>운송<\/b>에 상대되는 개념으로, 국내<b>운송<\/b> 또는 내륙<b>운송<\/b>이라고도 한다. 해운에 접속하는 단거리 육상<b>운송<\/b>을 말하기도 한다. 예를 들면 컨테이너 화물을 마산항에서 부산항까지 해상<b>운송<\/b>하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=984034&cid=42093&categoryId=42093",
+			"description":"복합<b>운송<\/b>이란 두 가지 이상의 상이한 <b>운송<\/b>수단(선박과 철도, 선박과 비행기)에 의하여 화물이 목적지까지 운반되는 <b>운송<\/b>형태를 말한다. 복합<b>운송<\/b>의 “복합”이라는 용어는 multimodal... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연락<b>운송<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%97%B0%EB%9D%BD%EC%9A%B4%EC%86%A1",
+			"description":"연락<b>운송<\/b> (連絡運送) 또는 연계<b>운송<\/b> (連繫運送\/聯繫運送)은 둘 이상의 <b>운송<\/b>사업자가 협정을 맺고 여객 또는 화물을 <b>운송<\/b>하는 것을 말한다. 개요 자동차(버스, 트럭), 철도, 도시철도, 해운, 항공 등 <b>운송<\/b>사업자가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"로컬<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=983809&cid=42093&categoryId=42093",
+			"description":"예컨대 컨테이너화물을 마산에서 부산까지 해상<b>운송<\/b>하고 컨테이너선으로 미국까지 <b>운송<\/b>하는 경우 마산·부산 간의 <b>운송<\/b>을 Local Carriage(Transport)라고 부른다. 또한 해운에서는 해상<b>운송<\/b>에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연대<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=984530&cid=50305&categoryId=50305",
+			"description":"복수의 <b>운송<\/b>인이 서로 연락하여 수송하는 업무제휴를 맺는 연대<b>운송<\/b>을 말한다. 이에 대하여 오늘날의 국제복합<b>운송<\/b>은 최초의 <b>운송<\/b>인이 전부 또는 일부의 <b>운송<\/b>을 하청받는 하청<b>운송<\/b>의 형태가 많다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>업자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=984616&cid=50305&categoryId=50305",
+			"description":"일반공중(公衆)에 대하여 일정한 <b>운송<\/b>로에서 <b>운송<\/b>서비스를 제공하는 공표된 조건에 맞는 <b>운송<\/b>의뢰에 대해서는 이것을 반드시 인수하는 것을 약속하고 있는 공중 <b>운송<\/b>업자이다. 정기선에 의한 <b>운송<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공동<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=983535&cid=50305&categoryId=50305",
+			"description":"통<b>운송<\/b>(通運送 : Through Transportation)에 있어서 제1차 <b>운송<\/b>인이 자기 이외에 다른 <b>운송<\/b>인의 대리인으로서 <b>운송<\/b>계약에 서명하고 이들 <b>운송<\/b>인 전원이 동시에 계약당사자로서 <b>운송<\/b>을 인수하는 경우를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항만<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=382845&cid=42329&categoryId=42329",
+			"description":"항만 안에서 이루어지는 해상 및 육상 <b>운송<\/b>행위를 말한다. 항만 밖에서 이루어지는 해상<b>운송<\/b>행위를 말하는 해운과는 구별되는 개념이다. 특히, 항만<b>운송<\/b>사업법에 따른 항만<b>운송<\/b>은 타인의 수요에 응하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"물품<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1095929&cid=40942&categoryId=32185",
+			"description":"물품<b>운송<\/b>계약은 <b>운송<\/b>을 위탁하는 송하인(送荷人)과 이를 맡는 <b>운송<\/b>인 사이에 이루어지는 낙성불요식(諾成不要式)계약이며, 원칙적으로 유상(有償)계약이고 법적 성질은 도급(都給)계약에 속한다. <b>운송<\/b>인은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_64\/20181108184338232_6UGNPLTBP.jpg\/238806.jpg?type=m160_160"
+		},
+		{
+			"title":"동일<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2428436&cid=42329&categoryId=42329",
+			"description":"두 사람 이상의 <b>운송<\/b>인이 공동으로 전 구간의 <b>운송<\/b>을 인수하는 경우의 <b>운송<\/b>. 이 경우 상행위에 의한 연대채무 관계가 되어 모든 <b>운송<\/b>인이 연대책임을 부담한다. 선하증권도 <b>운송<\/b>인 모두가 서명하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=377614&cid=50305&categoryId=50305",
+			"description":"<b>운송<\/b>품을 육상, 해상 및 공중 <b>운송<\/b> 등 둘 이상의 종류가 다른 <b>운송<\/b> 수단을 일관된 체계로 결합시켜 <b>운송<\/b>하는 것으로, 수송의 합리화 및 효율화를 도모하는 <b>운송<\/b> 형태. <b>운송<\/b>의 일관성을 강조하여 복합 일관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항공<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=985356&cid=50305&categoryId=50305",
+			"description":"항공기에 의한 여객, 화물, 우편물의 <b>운송<\/b>을 말한다. 민간항공회사의 국제적인 기관으로서 국제항공<b>운송<\/b>협회(IATA)가 있다. CIF조건의 수출에서 항공<b>운송<\/b>을 이용하는 경우에는 사전에 당사자간의 동의가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부분<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=984073&cid=50305&categoryId=50305",
+			"description":"부분<b>운송<\/b>으로서 복합<b>운송<\/b>의 경우에 여러명의 <b>운송<\/b>인이 각각 독립하여 송하인으로부터 특정구간의 <b>운송<\/b>을 인수하는 것을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>보험",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=984610&cid=50305&categoryId=50305",
+			"description":"육상<b>운송<\/b> 중의 화물에 대한 보험을 말한다. 이에 대하여 해상<b>운송<\/b> 중의 보험이 해상보험(Marine Insurance)이고, 항공<b>운송<\/b> 중의 보험이 항공<b>운송<\/b>보험(Air Cargo Insurance)이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"여객<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=383003&cid=50305&categoryId=50305",
+			"description":"해상에서 사람을 <b>운송<\/b>하는 것을 말한다. 여객<b>운송<\/b>과 관련하여, 해운법은 여객<b>운송<\/b>을 영업으로 하는 사업에 대한 행정적 사항을, 상법 · 해상편(海商編)은 여객<b>운송<\/b>과 관련하여 당사자 간의 권리 · 의무관계와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내항<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=983691&cid=50305&categoryId=50305",
+			"description":"동일국 내의 항 사이에서 행하여지는 해상<b>운송<\/b>을 말한다. 해상<b>운송<\/b>은 트럭이나 화차에 비해 싸고 대량으로 <b>운송<\/b>할 수 있으므로 시멘트, 철강 등의 원자재의 국내<b>운송<\/b>에 이용된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>서류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=984613&cid=42093&categoryId=42093",
+			"description":"1993년 개정 신용장 통일규칙 제23조에서 제29조까지의 7개조는 8개 종류의 <b>운송<\/b>서류 각각에 대하여 규정하고 있다. 규정의 방법은 먼저 <b>운송<\/b>서류의 종류별로 기본적인 수리요건이라고 할 수 있는 사항에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>수단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4368543&cid=59926&categoryId=59926",
+			"description":"여기에서 설명하는 <b>운송<\/b>수단(transportation)은 오늘날 사람들이나 화물을 이동시키기 위해 사용되는 수많은 기기들 가운데 몇 가지일 뿐이다. 가장 오래된 것 가운데 하나인 범선의 경우에는 그 기원이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>용구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=984617&cid=50305&categoryId=50305",
+			"description":"Vessel or Conveyance(<b>운송<\/b>구간. <b>운송<\/b>용구)의 난이 있는데 특히 오지(奧地)에서 부보하는 경우에 Local Vessel(접속내항선)명 또는 이용하는 <b>운송<\/b>요구로서 Rail, Truck. Lighter(부선) 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>내역서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926211&cid=42279&categoryId=42279",
+			"description":" 화물 등의 <b>운송<\/b> 내역을 기록한 문서.  <b>운송<\/b>내역서란 화물 등을 <b>운송<\/b>한 내역을 기록, 확인하기 위해 작성하는 표 형식의 문서를 말한다. <b>운송<\/b>내역서에는 신청부서와 신청인, 운임, 등급 등에 관한 기본 사항을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128221826071_C8OAOUQ1V.jpg\/hb10_6562_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운송<\/b>수단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415196&cid=68110&categoryId=68110",
+			"description":"화물의 <b>운송<\/b>에 사용되는 <b>운송<\/b>기관의 총칭",
+			"thumbnail":""
+		},
+		{
+			"title":"직항<b>운송<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=985048&cid=50305&categoryId=50305",
+			"description":"<b>운송<\/b>도중 환적없이 목적지까지 직행하는 <b>운송<\/b>을 말한다. 이 경우 직항선하증권(Direct B\/L)이 발행된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>원가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5767952&cid=64628&categoryId=64628",
+			"description":"원가와 비용은 다른 개념이지만 손익계산 상의 중성비용과 부가원가를 제외한다면 그 값은 같으므로 <b>운송<\/b>원가란 <b>운송<\/b>이라는 용역을 생산하여 판매하기까지의 총비용이다. 북한의 철도용어수송원가 수송형태별... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운송<\/b>수단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5767954&cid=64628&categoryId=64628",
+			"description":"화물의 <b>운송<\/b>에 사용되는 <b>운송<\/b>기관의 총칭으로 선박, 철도차량, 트럭, 항공기 및 파이프라인 등을 말한다. 북한의 철도용어운수수단 짐이나 사람을 실어나르는 수단. 수송기재들인 기관차, 객화차, 자동차, 배... ",
+			"thumbnail":""
+		}
+	]
+}

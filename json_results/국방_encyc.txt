@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:19 +0900",
+	"total":18077,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794460&cid=46628&categoryId=46628",
+			"description":" 적국이나 내부의 침략에 대응하기 위하여 국가가 마련하는 일련의 사상·제도 및 방위활동. [내용] 이 방위활동은 국가의 안전과 평화를 지키기 위해서 행해지므로, <b>국방<\/b>의 주체는 기본적으로 국가이고 객체는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_14\/20181023221350711_UN4EKVG6R.jpg\/068903fe-cc33-43.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066947&cid=40942&categoryId=31734",
+			"description":" 국가와 민족의 안전을 보장하기 위한 모든 수단과 체제의 총칭.  안정을 보장하는 일이기 때문에 현실적인 위협을 전제로 하지 않고, 일반적인 위협의 가능성을 바탕으로 한다. <b>국방<\/b>에는 2가지 정의가 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1534014&cid=50307&categoryId=50307",
+			"description":"국가의 안전을 보장하기 위한 업무.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6038587&cid=46727&categoryId=46984",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_1\/20200826021633479_5GCR5D0SO.jpg\/9753361_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>\/군사",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=42156",
+			"description":"<b>국방<\/b>과학기술용어사전, 군사용어사전, 그림자 전사, 세계의 특수부대(그들의 성공과 실패의 역사), 무기사전, 병역관련용어해설, 세계의 특수작전1, 세계의 특수작전2, 전쟁기념관, 해전의 모든 것... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9",
+			"description":"<b>국방<\/b> (國防) 또는 안전보장 (安全保障), 안보 (安保)는 국가가 국민과 국제적으로 인정된 자국의 영역(영토, 영해, 영공)을 외부 또는 내부에서 발생되는 위협으로부터 사전에 예방하고 지키며, 경우에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=773297",
+			"description":"육군사관학교 면접대비",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=298484&cid=60362&categoryId=60362",
+			"description":"협의의 <b>국방<\/b>은 영토, 영해, 영공에 대한 외부의 침입을 방지하고 격퇴하는 것이며, 광의의 <b>국방<\/b>은 군사뿐만 아니라 정치, 경제, 사회, 문화, 과학기술 등 국가의 모든 총력을 동원하여 외부의 무력적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나로드나 오드브라나",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1073973&cid=40942&categoryId=40125",
+			"description":" 세르비아 애국주의자 정치문화단체.  나로드나오드브라나는 원래 <b>국방<\/b>이라는 뜻이다. 1908년 10월 6일 오스트리아헝가리제국이 보스니아와 헤르체고비나를 합병하려하자 이에 대처하여 생긴 혁명조직이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국민족문화대백과 <b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=46628",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"나노카본 복합재료의 핵심 '탄소나노튜브'",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5725195&cid=63839&categoryId=63839",
+			"description":" 복합재료(Composite Materials) 중 가장 주목받는 나노카본 복합재료. 그 핵심인 탄소나노튜브(CNT)는 강도, 탄성계수, 내마모성이 우수하고 전기전도율과 열전도율이 뛰어나다. 탄소나노튜브(CNT)를... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxOTAxMjlfMTMz%2FMDAxNTQ4NzQyNTE5Mzgw.fW7C2sotzyzG2Zoskcv6QCFR2Xn6EY_HFgvRVb5GPt0g.k_AF6-O1Ojk5gz0CnnxXCEnDMcTIqqJ3meHhJYuVsT8g.JPEG%2FIWijbJFj55VspkCD34hukH00FX6o.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x394#c394"
+		},
+		{
+			"title":"<b>국방<\/b>TV",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9TV",
+			"description":"<b>국방<\/b>TV ( 구 국군방송 , 國防TV)는 대한민국 <b>국방<\/b>부에서 관할하고 있는 방송국이다. 현재 하루 24시간 동안 군인과 군사 정보에 관한 매체물만을 방영하고 있다. 직원 편성은 공무원 62명 비정규직... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>FM",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9FM",
+			"description":"<b>국방<\/b>FM (國防FM)은 대한민국 <b>국방<\/b>부에서 관할하고 있는 라디오 방송국이다. 방송 현황 방송 시간 : 매일 아침 6시부터 자정까지 하루 18시간 방송, 그 외 KBS 제1라디오의 프로그램을 자정부터 아침 6시까지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6456984&cid=67200&categoryId=67200",
+			"description":"함께 뉴스를 보며 시사용어의 뜻과 쓰임을 익혀보자구~ <b>국방<\/b>에 관련된 군정·군령과 기타 군사에 관한 사무를 관장하고 군 통수권자(군대 전체를 지휘·통솔하는 권한을 가진 사람)인 대통령을 보좌하는... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA2MTRfMTMz%2FMDAxNjIzNjM0MTI5MjM3.lsGbi4yi3Hjm1ZOEopGtHmJy-WMhVWqF2418dHxGJXUg.tOlaqX8qmzs5rKO4dB0rhdzP7o3rrQUyzCzsNS1fJo8g.JPEG%2FIzfKQkgCPMhhNaRXtI5EZu12EWqQ.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x379#c379"
+		},
+		{
+			"title":"<b>국방<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066950&cid=40942&categoryId=34709",
+			"description":" <b>국방<\/b>에 관련된 군정 및 군령과 그밖에 군사에 관한 사무를 관장하는 중앙행정기관이다.  광복 직후인 1945년 11월 미 군정청의 <b>국방<\/b>사령부로 시작하여 1946년 <b>국방<\/b>부로 개칭한 뒤, 1948년 대한민국 정부 수립과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_22\/20180916202001986_H6KROW5MW.jpg\/100872.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=646865&cid=43124&categoryId=43124",
+			"description":" <b>국방<\/b>에 관련된 사무를 관장하는 중앙행정기관.  <b>국방<\/b>부는 <b>국방<\/b>에 관련된 사무를 관장하는 중앙행정기관이다. 1945년 11월 13일 <b>국방<\/b>에 관련된 군정(軍政) 및 군령(軍令)과 군사에 관한 사무를 관장하기 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525247&cid=46625&categoryId=46625",
+			"description":" <b>국방<\/b>에 관련된 군정 및 군령과 기타 군사에 관한 사무를 관장하는 중앙행정관서. [내용] 1945년 8월 15일 연합군의 승리와 그 동안 국내외에서의 독립투쟁의 보람으로 광복이 되자, 우선 남한의 국군은 미군정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>회의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066957&cid=40942&categoryId=31736",
+			"description":" 국가안위에 관계되는 중요 정책이나 <b>국방<\/b> 기본방침·<b>국방<\/b>계획 등을 심의하는 <b>국방<\/b>에 관한 정부의 최고 자문기관.  <b>국방<\/b>문제가 군대만의 전문업무에서 벗어나고, 일국의 완전한 방위를 위해서는 외국과의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>백서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1233915&cid=40942&categoryId=34708",
+			"description":" 국민들에게 <b>국방<\/b>정책을 알리기 위해 <b>국방<\/b>부에서 발행하는 보고서 형태의 책자.  <b>국방<\/b>정책에 대한 국민적 안보 공감대 형성과 <b>국방<\/b>정책의 투명성 확보를 통한 국제적 신뢰 조성 및 군사협력 증진... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_170\/20181217021457566_Y4NPUMXH1.jpg\/240995.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>백서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=66312&cid=43667&categoryId=43667",
+			"description":" 국민들에게 <b>국방<\/b>정책을 공개하기 위해 <b>국방<\/b>부에서 발행하는 책자로, 1967년 처음 발간돼 이후 2년에 한 차례 나오고 있다. <b>국방<\/b>백서는 국회를 비롯한 언론기관, 정부부서, 교육기관 등에 배포·활용된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1232551&cid=40942&categoryId=31734",
+			"description":" <b>국방<\/b>홍보원에서 발행하는 군사 전문 일간신문.  <b>국방<\/b>홍보원에서 발행하는 군사 전문 일간신문으로, 1964년 11월 16일 《전우》 창간호로 출발하였다. 1967년 1월 타블로이드 배판 4면으로 증면함과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>광장",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%EA%B4%91%EC%9E%A5",
+			"description":"《 <b>국방<\/b>광장 》은 대한민국의 방송국 <b>국방<\/b>FM의 라디오 채널 <b>국방<\/b>FM에서 평일 오전 7시부터 오전 9시까지 방송되는 라디오 시사 안보 프로그램이다. 역사 2007년 4월 16일에 신설했다. 코너 매일 코너 주요 군사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>체육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525250&cid=46629&categoryId=46629",
+			"description":" 노동과 <b>국방<\/b>에 기여함을 목적으로 하는 북한의 체육정책. [내용] 1959년 내각결정 제15호에서 “근로인민들 속에서 체력단련을 위해 체육을 대중화하는 동시에 <b>국방<\/b>체육과 민족체육을 발전시키도록 한다.”... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794461&cid=46668&categoryId=46668",
+			"description":" <b>국방<\/b>홍보원에서 발간하는 일간 특수신문. [발간 경위 및 변천] 1964년 11월 16일 <b>국방<\/b>부 정훈국은 ‘각 군 장병 공히 똑같은 공명을 일으키고 60만 장병이 하나의 이념으로 뭉칠 수 있는 지표’를 내걸고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20161005004727130_V5M87DBFF.jpg\/19673e60-ef55-4f.jpg?type=m160_160"
+		},
+		{
+			"title":"자주<b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137870&cid=40942&categoryId=31736",
+			"description":" 자국의 <b>국방<\/b>태세를 타국에 의존하지 않고, 자주성을 가지고 자기 책임하에 실시하는 것.  자주방위이라고도 한다. 국가간의 역학관계가 미묘한 국제환경 속에서는 침공해 오리라 예상되는 적성국이 단일국가에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%EB%B6%80",
+			"description":"<b>국방<\/b>부 (國防部, 영어: Ministry of National Defense )는 <b>국방<\/b>을 담당하는 행정기관으로, 일반적으로 쓰이는 행정부의 부처 이름이다. 독일 <b>국방<\/b>부 대한민국 <b>국방<\/b>부 미합중국 <b>국방<\/b>부 베트남 <b>국방<\/b>부 영국 <b>국방<\/b>부... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>력",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3353208&cid=42251&categoryId=58222",
+			"description":"국가의 기본적인 사명은 외침으로부터 국토를 보전하고, 국민의 생명과 재산을 보호하는 것이기 때문에 전체 국력에서 <b>국방<\/b>력이 차지하는 비중은 매우 크다. 외국의 침략을 받을 경우 <b>국방<\/b>력이 열세라면 다른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2753741&cid=50307&categoryId=50307",
+			"description":"<b>국방<\/b>비는 다음의 세 가지 개념으로 정의할 수 있다. (1) <b>국방<\/b>의 군사력 건설 · 유지 및 운용에 소요되는 비용을 말하며, <b>국방<\/b>비는 방위력 개선비와 경상 운영비로 구분된다. (2) <b>국방<\/b>비는 국가, 국민의 생존... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066951&cid=40942&categoryId=31838",
+			"description":"넓은 뜻으로는 <b>국방<\/b>상의 목적으로 지출되는 모든 경비를 말한다. 넓은 뜻의 <b>국방<\/b>비는 군비비(軍備費) ·전비(戰費) ·전후처리비(戰後處理費) 등으로 구분되며, 좁은 뜻의 <b>국방<\/b>비 외에 군인연금, 군사공채의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1714166&cid=43938&categoryId=43955",
+			"description":"<b>국방<\/b>부는 세계 최대의 사무실용 빌딩인 펜타곤에 본부를 두고 있으며, 국가의 군사 안보와 관련된 모든 문제들에 책임을 진다. <b>국방<\/b>부는 백만 명의 남녀 현역군인으로 구성된 미합중국 군대를 운영한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2281_000_1\/20120611144111667_XXHU21VU2.jpg\/bc3_37_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>체조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1821408&cid=46629&categoryId=46629",
+			"description":" 북한에서 <b>국방<\/b>에 필요한 육체활동을 여러 가지 동작으로 표현한 체조. [내용] 북한의 <b>국방<\/b>체조는 <b>국방<\/b>활동과 밀접히 연결된 체조로, 군대 활동에서 주로 많이 쓰이는 다양한 동작들을 연결한 것이다. 체조는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>일보",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%EC%9D%BC%EB%B3%B4",
+			"description":"<b>국방<\/b>일보 (國防日報)는 대한민국 <b>국방<\/b>부 산하 <b>국방<\/b>홍보원에서 발행하는 대한민국 국군 일간지이다. 장병의 정훈교육, 정서순화를 위한 신문이며 군사정책, 군 동정 등 군 관련 소식도 다룬다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>문학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066949&cid=40942&categoryId=32894",
+			"description":" 1935년 8월 1일 중국공산당이 발표한 항일민족통일전선 제창의 8 ·1선언에 호응하여, 그 중 <b>국방<\/b>정부의 제창에 촉구되어 발상된 슬로건 및 그에 부합되는 작품.  상하이에 있는 당원 문학자 저우양[周揚] ·샤옌... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=906661&cid=62061&categoryId=62061",
+			"description":"<b>국방<\/b>관련 업무를 총괄하는 국무원(国务院) 소속 내각의 하나.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=75869&cid=50300&categoryId=50300",
+			"description":"<b>국방<\/b>과 관련된 군정(軍政) 및 군령(軍令)과 기타 군사에 관한 사무를 장리(掌理)하기 위해 설치된 중앙행정기관을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b> 정보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2753761&cid=50307&categoryId=50307",
+			"description":"서류, 스케치, 사진, 계획, 모델, 세부 사항, 설계, 프로토 타입, 또는 다른 기록물 및 <b>국방<\/b> 물자나 <b>국방<\/b> 용역 관련 구두 정보를 포함하나 원자력과 관련하여 정의된 제한된 자료는 포함하지 않는 정보.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b> 칼스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2753704&cid=50307&categoryId=50307",
+			"description":"<b>국방<\/b> 체계(Defense System)의 전 수명 주기(Lifecycle)에서 발생되는 기술 자료를 전자화하여 통합 데이터베이스(TDB)를 구축하고 정보통신망을 통하여 자료 공유 및 교환이 가능한 통합된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b> M&amp;S",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6481330&cid=55599&categoryId=55599",
+			"description":"<b>국방<\/b> M&#38;S는 모델링(Modeling)과 시뮬레이션(Simulation)의 합성어로서 기존의 워게임 영역을 대폭 확대하여 <b>국방<\/b> 기획 관리상의 소요 제기, 획득 관리 및 분석 평가는 물론, 군의 훈련까지를 과학적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525245&cid=46628&categoryId=46628",
+			"description":" 국가안보에 관한 연구와 교육을 위해 설립된 <b>국방<\/b>부 산하의 교육·연구기관. [개설] 1955년 8월 15일 서울시 종로구 관훈동에서 창설된 <b>국방<\/b>대학이 모체이다. 1999년 12월 31일 해체될 때까지 군의 고급장교와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_6\/20170818010433658_XCSXN0C4N.jpg\/e8c93e74-4274-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>홍보원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=813271&cid=43152&categoryId=43152",
+			"description":" 안보와 <b>국방<\/b> 관련 홍보서비스를 제공하는 <b>국방<\/b>부 소속기관.  안보와 <b>국방<\/b>에 관한 홍보서비스를 제공하기 위해 설립된 대한민국 <b>국방<\/b>부 소속기관. 설립 목적은 「<b>국방<\/b>일보」와 「<b>국방<\/b>TV」 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>홍보원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%ED%99%8D%EB%B3%B4%EC%9B%90",
+			"description":"<b>국방<\/b>홍보원 (國防弘報院, Defense Media Agency )은 <b>국방<\/b>일보 및 국군방송 등의 제작에 관한 사무를 관장하는 대한민국 <b>국방<\/b>부의 소속기관이다. 2000년 8월 28일 발족하였으며, 서울특별시 용산구... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>홍보원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1200973&cid=40942&categoryId=34709",
+			"description":" <b>국방<\/b>부장관의 관장사무를 지원하기 위하여 설립한 <b>국방<\/b>부 소속의 홍보기관.  1981년 11월 2일 국군홍보관리소로 설립되었으며 2000년 1월 1일 책임운영기관으로 새롭게 설치되고, 2000년 8월 18일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>과학원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%EA%B3%BC%ED%95%99%EC%9B%90",
+			"description":"<b>국방<\/b>과학원 (國防科學院)는 북한의 <b>국방<\/b>력 강화와 자주<b>국방<\/b>의 실현에 기 여토록 설립된 특수법인으로 군수공업부 산하의 기타공공기관이다. 업무 <b>국방<\/b>과학원은 미사일 개발을 핵심 분야로 신형무기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>FM 뉴스",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9FM_%EB%89%B4%EC%8A%A4",
+			"description":"《 <b>국방<\/b>FM 뉴스 》은 <b>국방<\/b>FM에서 평일 낮 12시에 방송되는 <b>국방<\/b>FM의 낮 뉴스 프로그램이다. 앵커 <b>국방<\/b>FM 아나운서 동시 시간대 뉴스 프로그램 KBS 제1라디오 정오종합뉴스 (KBS 제1라디오) MBC... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>위원장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=571939&cid=46629&categoryId=46629",
+			"description":" 북한 <b>국방<\/b>위원회의 위원장으로 국가의 최고 직책. [개설] 북한은 1972년 사회주의 헌법에서 <b>국방<\/b>위원회를 중앙인민위원회 산하 기관으로 신설하였다. <b>국방<\/b>위원회 신설 당시 주석은 “전반적 무력의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>정책",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3346060&cid=62011&categoryId=62014",
+			"description":"[배경] 한국의 <b>국방<\/b>정책은 <b>국방<\/b>제도와 함께 <b>국방<\/b>발전을 견인하고 국가안보정책의 틀을 형성하는 중요한 수단이다. <b>국방<\/b>정책은 국가(안보)목표를 구현하기 위해 1972년 공식적으로 국무회의에서 의결, 제정된... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4027_000_1\/20160121155825601_0VS8WY14R.jpg\/s_l6_29_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>백서",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%EB%B0%B1%EC%84%9C",
+			"description":"<b>국방<\/b>백서 (國防白書)는 <b>국방<\/b>부에서 발행하는 보고서 형태의 책자로, 국민들에게 <b>국방<\/b>정책을 알리기 위해서 2년에 한 번씩 발행하고 있다. 1967년부터 2020년까지 24번째 발간하고 있다. 개요... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자주<b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3346037&cid=62011&categoryId=62014",
+			"description":"자주<b>국방<\/b>1 자주<b>국방<\/b>2 자주<b>국방<\/b>3 자주<b>국방<\/b>4 자주<b>국방<\/b>5 자주<b>국방<\/b>6",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4027_000_1\/20160121155653743_Y1GLB6H7O.jpg\/s_l6_6_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>대학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%EB%8C%80%ED%95%99",
+			"description":"<b>국방<\/b>대학 은 다음을 의미한다. <b>국방<\/b>대학교 미국 <b>국방<\/b>대학교 <b>국방<\/b>대학 (중화민국) 중국인민해방군 <b>국방<\/b>대학 같이 보기 제목에 &quot;<b>국방<\/b>대학&quot; 항목을 포함한 모든 문서",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>경제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066948&cid=40942&categoryId=31734",
+			"description":"전쟁준비 ·전쟁수행 ·전후복구 등 일련의 <b>국방<\/b>목적을 충족시키기 위한 모든 경제활동의 포괄적인 개념이다. 전시의 <b>국방<\/b>경제는 군수산업의 확충, 민수산업의 군수에의 전환, 근로자의 동원 등 국민경제의 전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525248&cid=46629&categoryId=46629",
+			"description":"2009년 사회주의헌법 개정으로 국가최고기관으로 변화되었고 <b>국방<\/b>위원장은 북한 최고영도자로 명시되었다. 2016년 6월 <b>국방<\/b>위원회는 폐지되고 국무위원회가 신설되었다. [내용] 김정일 시대의 <b>국방<\/b>위원장은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>의무",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3657799&cid=42131&categoryId=42131",
+			"description":"<b>국방<\/b>의무란 모든 국민이 법률이 정하는 바에 의하여 외적의 공격에 대해 국가를 방어할 의무를 지는 것을 말한다. 우리 헌법도 <b>국방<\/b>의무에 관해 규정하고 있다(헌법 제39조).우리나라는 국제평화의 유지에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>기획",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1534017&cid=50307&categoryId=50307",
+			"description":"국가목표와 정책을 달성하기 위하여 <b>국방<\/b>목표를 설정하고, 이를 달성하기 위한 최선의 <b>국방<\/b>정책과 군사전략을 선택하여, 이 정책과 전략을 수행하는 데 필요한 <b>국방<\/b>자원을 가장 효율적으로 배분하는 일련의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화제<b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155248&cid=40942&categoryId=32811",
+			"description":"《태평혜민화제<b>국방<\/b>(太平惠民和劑局方)》이라고도 한다. 총 10권으로 송나라 때 태의국(太醫局)에서 편찬하였으며, 1078년 이후에 처음 발간되었다. 태의국 소속 약국의 성약처방집(成藥處方集)으로, 여러... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>대학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"<b>국방<\/b>대학교 (國防大學校, 영어: Korea National Defense University (KNDU) )는 1955년 8월 15일에 설립된 <b>국방<\/b>부 산하의 국립 대학이다. 원래는 서울특별시 은평구와 경기도 고양시에 있었으나, 2017년 9월 혁신도시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>규격",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1645155&cid=50307&categoryId=50307",
+			"description":"1) 미 <b>국방<\/b>성이 제정하는 <b>국방<\/b>표준규격. 2) 미국 군수부 표준굴에서 발생하는 규격으로 다른 규격보다 내구성, 기능 등이 우수하다.",
+			"thumbnail":""
+		},
+		{
+			"title":"미국<b>국방<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066956&cid=40942&categoryId=40541",
+			"description":"조직은 육군·해군·공군 3부, 통합참모본부, 군사참의원, 군수위원회, 연구개발위원회로 구성되어 있으며, 육·해·공 3군의 총사령관인 대통령 밑에서 무관 우위의 원칙에 따라 <b>국방<\/b>의 임무를 수행한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_22\/20180916194134637_6CQYG5GDI.jpg\/23161.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>심리학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066952&cid=40942&categoryId=31531",
+			"description":" <b>국방<\/b>에 관한 각종 심리학적 문제를 연구하고, 그 응용책을 모색하는 심리학.  나치스 독일시대에 군부는 심리학을 그들의 필요에 따라 군사문제에 적응할 수 있도록 이데올로기적으로 체계화하는 작업을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>보안법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525246&cid=46623&categoryId=46623",
+			"description":" 일제가 <b>국방<\/b>보안을 목적으로 제정한 법. [내용] 1941년 3월 6일에 공포되고 그 해 5월 10일부터 시행되었다. 제1장 죄 15개조와 제2장 형사수속 25개조의 총 40조와 부칙으로 되어 있었다. 이 법은 국가기밀, 즉... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미국<b>국방<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=813290&cid=43152&categoryId=43152",
+			"description":"미국<b>국방<\/b>부는 미국의 군사 관련 정책을 총괄하고 육•해•공 3군을 총괄하는 최고 군사 기관이다. <b>국방<\/b>부 건물이 5각형(Pentagon)의 독특한 모양을 하고 있어 펜타곤이라는 애칭으로 널리 알려져 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화제<b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2350612&cid=58505&categoryId=58527",
+			"description":"태평혜민화제<b>국방<\/b>(太平惠民和劑局方)의 항을 보라.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>자원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1534023&cid=50307&categoryId=50307",
+			"description":"<b>국방<\/b>소요를 충족할 인적, 물적 또는 잠재적이거나 현존하는 모든 능력.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>정보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1534024&cid=50307&categoryId=50307",
+			"description":"<b>국방<\/b>업무에 관련된 의사결정을 위한 적 및 아군에 대한 모든 자료와 지식.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>헌금",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=46432&cid=50307&categoryId=50307",
+			"description":"법인세법과 소득세법에 의하면 내국법인 또는 거주자가 각 사업연도에 <b>국방<\/b>헌금과 국군장병위문금품으로 지출한 기부금은 법정기부금으로 보아 손금에 산입하도록 하고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>규격",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6481337&cid=55599&categoryId=55599",
+			"description":"군수품의 조달을 위하여 필요한 제품 및 용역에 대한 성능, 재료, 형상, 치수 등 기술적인 요구 사항과 요구 필요 조건의 일치성 여부를 판단하기 위한 절차와 방법을 서술한 사항으로 규격서, 도면, QAR... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>정부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066955&cid=40942&categoryId=31645",
+			"description":"1871년 1월 말 프로이센에 굴복하였으며, 베르사유에서 휴전협정이 체결되었다. 2월에 총선거를 실시하여 보르도에 국민의회가 성립됨으로써, <b>국방<\/b>정부의 임무도 끝났다.",
+			"thumbnail":""
+		},
+		{
+			"title":"영국 <b>국방<\/b>부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%81%EA%B5%AD_%EA%B5%AD%EB%B0%A9%EB%B6%80",
+			"description":"영국 <b>국방<\/b>부 ( MOD , M inistry o f D efence)는 영국의 방위 문제를 담당하는 영국 정부의 부처이자 영국군의 사령부이다. 영국 <b>국방<\/b>부의 주요 목적은 영국과 영국의 이익을 지키는 것이며 국제 평화와 안정을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>의 의무",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525249&cid=46625&categoryId=46625",
+			"description":" 헌법에 따라 모든 국민이 지는 <b>국방<\/b>에 관한 의무. [내용] 헌법상 모든 국민은 법률이 정하는 바에 따라 <b>국방<\/b>의 의무를 지며, 누구든지 병역의무의 이행으로 불이익한 처우를 받지 않는다. 국토방위의 의무가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"몽골 <b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6598224&cid=40942&categoryId=31661",
+			"description":"1990년 사회주의 체제에서 민주주의 체제로 전환하고 1990년대 초 몽골에 잔류하던 마지막 러시아 부대가 철수함으로써 몽골은 자주<b>국방<\/b> 정책을 수립할 수 있게 되었다. 1994년 발표한 몽골의 <b>국방<\/b>정책... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b> 기획",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2753728&cid=50307&categoryId=50307",
+			"description":"국가 목표와 정책을 달성하기 위하여 <b>국방<\/b> 목표를 설정하고, 이를 달성하기 위한 최선의 <b>국방<\/b> 정책과 군사 전략을 선택하여, 이 정책과 전략을 수행하는 데 필요한 <b>국방<\/b> 자원을 가장 효율적으로 배분하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"북한 <b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1180400&cid=40942&categoryId=31661",
+			"description":"[ 군사 정책기조] 북한의 군사정책 기조는 <b>국방<\/b>자위 원칙을 표방하면서 대남한 우위의 군사력을 건설·유지하는 데 있다. 중·소에 의존한 북한의 군사력 건설이 이처럼 자위원칙을 주장하기 시작한 것은 1962년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"네팔 <b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6547926&cid=40942&categoryId=31661",
+			"description":"<b>국방<\/b>은 군사 및 보안은 공군을 포함한 네팔군과 네팔의 무장경찰이 맡으며, 병역은 지원제이며 18세부터 지원이 가능하다. 대통령이 최고사령관으로서 군의 편성과 유지 권한을 보유하며, <b>국방<\/b>부... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_391\/20220311064401030_3UC8P0KSB.jpg\/7262848.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b> 공업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2753709&cid=50307&categoryId=50307",
+			"description":"나라의 <b>국방<\/b>력을 강화하는 데 요구되는 군수품을 전용으로 생산하는 공업 부문. 군수품에는 무기 · 탄약 · 군복을 비롯하여 군대를 유지하며 전투를 진행하는 데 필요한 일체의 물자들이 포함된다. <b>국방<\/b> 공업은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>개혁 2020",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2065978&cid=50305&categoryId=50305",
+			"description":"<b>국방<\/b>운영체계 선진화, 군 구조 · 전력체계 및 3군 균형발전, 병영문화 발전 문민화 등을 목표로 <b>국방<\/b>부가 마련한 미래 선진정예 <b>국방<\/b>을 위한 장기적 <b>국방<\/b>개혁 청사진을 말한다. <b>국방<\/b>부 본부의 문민기반을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"태국 <b>국방<\/b>부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%83%9C%EA%B5%AD_%EA%B5%AD%EB%B0%A9%EB%B6%80",
+			"description":"<b>국방<\/b>부 ( 태국어: กระทรวงกลาโหม )는 태국의 내각 부서이다. 태국 육군과 태국 해군, 그리고 태국 공군으로 구성되어 있다. 각주",
+			"thumbnail":""
+		},
+		{
+			"title":"일본 <b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1176984&cid=40942&categoryId=31661",
+			"description":"일본은 패전 이후 연합군 점령 아래에 놓였고, 연합군 최고사령관 총사령부(GHQ)의 주도하의 전후 개혁 속에서 일본국헌법이 제정되었다. 이 일본국헌법의 9조에는 전쟁을 포기하고, 교전권을 부인하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b> 과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2753712&cid=50307&categoryId=50307",
+			"description":"<b>국방<\/b> 분야에 필요한 과학기술적 문제를 연구하는 학문.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b> 물자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2753735&cid=50307&categoryId=50307",
+			"description":"기타 기계류, 시설, 연장, 물자, 보급품, 기타 제작, 생산, 처리, 수리, 용역, 저장, 건설, 수송, 운영을 위해 필요한 품목, 기타 <b>국방<\/b> 물자의 사용, 위에 열거한 물자의 부속 등을 포함한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"미국 <b>국방<\/b>부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AF%B8%EA%B5%AD_%EA%B5%AD%EB%B0%A9%EB%B6%80",
+			"description":"미국 <b>국방<\/b>부 (美國國防部, 영어: United States Department of Defense, DoD )는 미국의 방위를 담당하는 정부 기관으로, 이전의 육군부 및 해군부가 있었으나 공군부가 설치되면서 이를 통솔할 <b>국방<\/b>부가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"오만 <b>국방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6556597&cid=40942&categoryId=31661",
+			"description":"1950년대까지 오만은 영국군에 국가 방위를 의존해왔으며 오만 자체적으로는 무스카트 수비대와 부족 병력, 발루치족 용병대만 보유하고 있었다. 1954년 내륙 부족의 반란으로 체계적이고 현대화된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>정보본부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%EC%A0%95%EB%B3%B4%EB%B3%B8%EB%B6%80",
+			"description":"<b>국방<\/b>정보본부 (國防情報本部, Defense Intelligence Agency , 약칭: DIA)는 <b>국방<\/b>부 직할부대로 1981년 한국군의 첩보, 정보수집을 총괄하기 위해 창설된 군사 정보기관이다. 미국의 DIA를 모방하여 설치되었는데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>아키텍처",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6481342&cid=55599&categoryId=55599",
+			"description":"<b>국방<\/b>조직 전체 관점에서 업무, 응용, 데이터, 기술, 보안 등의 구성 요소들을 일정한 기준과 절차에 따라 통합적으로 분석한 뒤 이들 간의 관계를 구조적으로 정리한 체제 및 이를 바탕으로 정보 시스템 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>기술과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5682612&cid=44346&categoryId=44346",
+			"description":"외부의 군사적 위협과 침략으로부터 국가를 보위하고 지역안정과 세계평화 그리고 평화통일을 위해서는 <b>국방<\/b>이 필수적인 것입니다. 현대전은 고도화, 첨단화, 전문화된 현대적 무기, 비무기 체계로 구성된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=871224&cid=43142&categoryId=43142",
+			"description":"1955년 8월 15일 서울시 종로구 관훈동에 창설된 <b>국방<\/b>대학에서 출발했다. 1956년 3월 은평구 수색동으로 이전했으며, 그 해 8월 제1기 졸업생을 배출했다. 1957년 <b>국방<\/b>연구원으로 이름을 바꾼 데 이어, 1961년... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2351_000_1\/20111219160628255_9UGJYDFVX.jpg\/1216.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6479193&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | 國防大學校(한자) Korea National Defense University(영어) | | 소재지 | 충청남도 논산시 양촌면 황산벌로 1040 | | 개교 | 1955년 8월 15일 | | 홈페이지 | www.kndu.ac.kr | <b>국방<\/b>대학교는 국가 안전보장과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자주<b>국방<\/b>론",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%90%EC%A3%BC%EA%B5%AD%EB%B0%A9%EB%A1%A0",
+			"description":"자주<b>국방<\/b>론 은 박정희 정부, 노무현 정부 당시 두차례 대한민국 정부가 내놓았던 대한민국에 있는 이론이다. 그러나 둘의 자주<b>국방<\/b>론은 사뭇 방향에 차이가 있다. 한국 외에도 세계에서는 많은 세력들에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066953&cid=40942&categoryId=37404",
+			"description":"이와 같은 교육기관은 1927년 영국의 <b>국방<\/b>대학이 창설되어 군·관·민의 간부들이 정치·경제·군사적 여러 요소를 조직적으로 연구하게 된 데에서 비롯되어, 그후 주요 국가에서 창설을 보게 되었다. 미국은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>정책론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117468&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] <b>국방<\/b>정책론(國防政策論, theory of defense policy)이란 정책학(政策學, policy science)의 한 분야로 외부의 군사적 위협으로부터 국가의 안전을 보장하기 위한 정책을 연구하는 것이다. 즉, 외부의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140702172727594_AT5NBFMVR.jpg\/z5_term128_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>국방<\/b>위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"<b>국방<\/b>위원회 의 다른 뜻은 다음과 같다. 대한민국 국회 <b>국방<\/b>위원회 (大韓民國國會國防委員會)는 대한민국 국회에 설치된 상임위원회의 하나이다. 조선민주주의인민공화국 <b>국방<\/b>위원회... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>정보화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1534027&cid=50307&categoryId=50307",
+			"description":"전·평시 <b>국방<\/b>업무 수행에 필요한 정보와 지식의 유통, 활용 및 가치발휘를 극대화하여 <b>국방<\/b>구조 전반을 지식중심(Knowledge Base) 두뇌집약적 구조로 전환시키는 제반활동 및 행위로써 군사력 구조 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>정보본부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=571940&cid=46628&categoryId=46628",
+			"description":"[개설] 1981년 10월 12일 <b>국방<\/b>정보본부의 창설로 한국군은 군사정보 및 보안업무에 대한 효율적인 관리와 체계적인 발전의 기반을 마련하였다. 1983년 8월에는 정보기획 및 예산업무마저 조정·통제할 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>수권법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4356582&cid=42107&categoryId=42107",
+			"description":"도널드 트럼프 미국 대통령이 2017년 12월 12일(현지시간) 북한의 핵미사일 위협에 대응한 미사일방어체계 확충 예산 123억 달러가 포함된 7000억 달러(약 764조500억원) 규모의 2018 회계연도 <b>국방<\/b>수권법안(NDAA)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>헬프콜",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%B0%A9%ED%97%AC%ED%94%84%EC%BD%9C",
+			"description":"<b>국방<\/b>헬프콜 은 2014년 경기도 연천 의무병 살인사건 이후에 신설된 대한민국 국군의 가혹 행위 고발 기관이다. 대한민국 <b>국방<\/b>부 조사본부에서 운영하며 전화 1303 또는 사이버 공간을 통해 운영한다. 군... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>양격산",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1601778&cid=50365&categoryId=50365",
+			"description":"<b>국방<\/b>양격산한국전통지식포탈 열이 안에서 쌓여서 번조(煩躁)하고 입안과 혀가 헐며, 눈에 핏발이 서고 머리가 어지러우며, 장위(腸胃)가 건조하여 대소변이 잘 나오지 않는 것을 치료하는 처방임... ",
+			"thumbnail":""
+		},
+		{
+			"title":"절대<b>국방<\/b>권",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%88%EB%8C%80%EA%B5%AD%EB%B0%A9%EA%B6%8C",
+			"description":"절대<b>국방<\/b>권 (絶対国防圏)은 제2차 세계 대전 말기인 1943년 9월 30일 일본 어전회의에서 채택한 전쟁 수행 계획이다. 수세에 몰린 일제가 본토 방위를 확보하고, 전쟁 지속을 위해 필요불가결하다고 설정한 영토... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>부 검찰단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=75172&cid=43667&categoryId=43667",
+			"description":"군내 1차 수사기관으로, 헌병으로 구성된 <b>국방<\/b>부 합동조사단과 함께 대표적인 <b>국방<\/b>부 직할 수사기관이다. 1965년 <b>국방<\/b>부 군법회의법이 제정됨에 따라 <b>국방<\/b>부 군법회의 검찰부로 시작했으며, 2000년 7월 <b>국방<\/b>부... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b> 아키텍처",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2753746&cid=50307&categoryId=50307",
+			"description":"<b>국방<\/b>에 관련된 조직 및 체계를 표현한 아키텍처를 최상위 엔터프라이즈 아키텍처(EA). <b>국방<\/b> 전체 관점에서 체계적인 정보 서비스를 업무 지원의 도구로 활용하기 위해 일정 기준과 절차에 따라 업무, 체계, 기술... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>국방<\/b>위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1534022&cid=50307&categoryId=50307",
+			"description":"국회에서 <b>국방<\/b>문제를 취급하는 분과위원회. 2. 북한의 중앙인민위원회 안에 설치된 기구로써 위원장은 국가주석이, 부위원장은 인민무력부장, 총참모장, 노농적위대 사령관이, 위원은 중앙인민위원회... ",
+			"thumbnail":""
+		},
+		{
+			"title":"러시아 <b>국방<\/b>부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%9F%AC%EC%8B%9C%EC%95%84_%EA%B5%AD%EB%B0%A9%EB%B6%80",
+			"description":"러시아 연방 <b>국방<\/b>부 ( 러시아어: Министерство обороны Российской Федерации )는 러시아의 군사 업무를 담당하는 정부 기관이다. 역사 1991년 소비에트 사회주의 공화국 연방이 붕괴된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"베트남 <b>국방<\/b>부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B2%A0%ED%8A%B8%EB%82%A8_%EA%B5%AD%EB%B0%A9%EB%B6%80",
+			"description":"베트남 <b>국방<\/b>부 ( 베트남어: Bộ Quốc phòng  \/ 部國防 )는 베트남 정부의 부서 가운데 하나로서 모든 군부대, 준군사 단위와 유사 기관을 포함하여 군사를, 관리, 조정, 감독한다. <b>국방<\/b>부의 주요... ",
+			"thumbnail":""
+		}
+	]
+}

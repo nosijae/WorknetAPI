@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:27 +0900",
+	"total":6879,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>의료직무<\/b>범죄종합예방감독체계적설상 (医疗职务犯罪综合预防监督体系",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=88784823",
+			"description":" 天津市和平区人民检察院针对天津市医疗行业的职务犯罪情况进行了调查问卷,根据调查情况,提出了综"
+		},
+		{
+			"title":"서번트 리더십이 <b>의료<\/b>종사자 <b>직무<\/b>소진에 미치는 영향 : 효능감의 매개 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77472124",
+			"description":"Influence of servant leadership on the burnout of health professionals : focused on self-efficacy as a mediator  표제지\n목차\n제1"
+		},
+		{
+			"title":"<b>의료<\/b>기관의 조직지원이 <b>의료<\/b>사회복지사의 <b>직무<\/b>만족에 미치는 영향: 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153347950",
+			"description":"The Effect of the Organizational Support on Job Satisfaction of Medical Social Workers: Focused on the Mediating Effect of Job Stress "
+		},
+		{
+			"title":"의사적풍험--<b>의료직무<\/b>보험제도적건립 (医师的风险--医疗职务保险制度的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=88421655",
+			"description":"The risk of physician-establishment the insurance system of medical post 该文论述了医疗职务保险在美国的发展及现状,"
+		},
+		{
+			"title":"산업간호사의 일차 <b>의료 직무<\/b> 범위에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594192622",
+			"description":" 본 연구는 1990년 7월 산업안전보건법이 개정된 이후 새로이 명시된 산업간호사의 일차<b>의료 직무<\/b>의 범"
+		},
+		{
+			"title":"산업간호사의 일차 <b>의료 직무<\/b> 범위에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594192622",
+			"description":" 본 연구는 1990년 7월 산업안전보건법이 개정된 이후 새로이 명시된 산업간호사의 일차<b>의료 직무<\/b>의 범"
+		},
+		{
+			"title":"델파이 방법을 이용한 완화<b>의료<\/b> 도우미 <b>직무<\/b>범위 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561617216",
+			"description":"Development of the Scope of Practice for Palliative Care Aides with Delphi Method 목적: 본 연구의 목적은 델파이 합의방"
+		},
+		{
+			"title":"델파이 방법을 이용한 완화<b>의료<\/b> 도우미 <b>직무<\/b>범위 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594761938",
+			"description":" 목적: 본 연구의 목적은 델파이 합의방식을 통해 &apos;완화<b>의료<\/b> 도우미&apos;라는 새로운 직종의 <b>직무<\/b>범위를 "
+		},
+		{
+			"title":"<b>의료<\/b>기관 <b>직무<\/b>환경이 <b>의료<\/b>관광 전문인력의 <b>직무<\/b>만족과 인지된 경영성과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=436456864",
+			"description":" 국문초록\n   본 연구는 해외<b>의료<\/b>관광객 유치 및 대응 업무를 수행하는 국제<b>의료<\/b>관광코디네이터 및 마"
+		},
+		{
+			"title":"보건·<b>의료<\/b>분야 <b>직무<\/b>체계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595095416",
+			"description":"A Study on the Development of Skill Framework for Health and Medical Field 이 연구는 보건·<b>의료<\/b>분야의 <b>직무<\/b>분류와 <b>직무<\/b>"
+		},
+		{
+			"title":"119구급대의 스마트<b>의료<\/b>지도 <b>직무<\/b>수행능력 영향요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=607926577",
+			"description":"Factors influencing the performance of emergency medical technicians utilizing smart advanced life support (SALS)   Emergency medical t"
+		},
+		{
+			"title":"보건ㆍ<b>의료<\/b>분야 <b>직무<\/b>체계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=445892406",
+			"description":"A Study on the Development of Skill Framework for Health and Medical Field 이 연구는 보건·<b>의료<\/b>분야의 <b>직무<\/b>분류와 <b>직무<\/b>"
+		},
+		{
+			"title":"119구급대의 스마트<b>의료<\/b>지도 <b>직무<\/b>수행능력 영향요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601396052",
+			"description":"Factors influencing the performance of emergency medical technicians utilizing smart advanced life support (SALS) =Abstract= Purpose: T"
+		},
+		{
+			"title":"119구급대의 스마트<b>의료<\/b>지도 <b>직무<\/b>수행능력 영향요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=602980843",
+			"description":"Factors influencing the performance of emergency medical technicians utilizing smart advanced life support (SALS) Purpose: The present "
+		},
+		{
+			"title":"<b>의료<\/b>기관 구성원이 <b>직무<\/b>만족도와 자기효능감에 느끼는 감성지능의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875434175",
+			"description":"Analysis of emotional intelligence affected by medical institution members on job satisfaction and self-efficacy  목차\n<b>의료<\/b>기관 "
+		},
+		{
+			"title":"<b>의료<\/b>계통<b>직무<\/b>범죄적예방급분석 (医疗系统职务犯罪的预防及分析)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=835575718",
+			"description":" 由于医疗制度不健全,政策宣传不到位,一些患者对医疗费用的报销范围、程序等并不清楚,一些医务工"
+		},
+		{
+			"title":"119구급대의 스마트<b>의료<\/b>지도 <b>직무<\/b>수행능력 영향요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=605629969",
+			"description":"Factors influencing the performance of emergency medical technicians utilizing smart advanced life support (SALS) Purpose: The present "
+		},
+		{
+			"title":"<b>의료<\/b>기관 구성원이 <b>직무<\/b>만족도와 자기효능감에 느끼는 감성지능의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843033111",
+			"description":"Analysis of Emotional Intelligence Affected by Medical Institution Members on Job Satisfaction and Self-Efficacy 본 연구에서는 "
+		},
+		{
+			"title":"천담<b>의료<\/b>궤구<b>직무<\/b>범죄원인급기예방대책 (浅谈医疗机构职务犯罪原因及",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=827917930",
+			"description":" 文章浅析医疗机构职务犯罪的原因、特点,以及预防措施.  医疗卫生系统, 职务犯罪, 预防措施 "
+		},
+		{
+			"title":"<b>의료<\/b>미용사 <b>직무<\/b>의 중요도-실행도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846296393",
+			"description":"An Analysis of Importance and Practice of Job in Medical Estheticians This study aims to analyse the importance and practice of job nee"
+		},
+		{
+			"title":"119구급대원의 스마트<b>의료<\/b>지도 <b>직무<\/b>수행능력 영향요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=558013968",
+			"description":"Factors Influencing the Perfomance of 119 Emergency Medical Technician(EMT) Utilizing Smart Advanced Life Support(SALS) 본 연구는 "
+		},
+		{
+			"title":"119구급대의 스마트<b>의료<\/b>지도 <b>직무<\/b>수행능력 영향요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606911473",
+			"description":"Factors influencing the performance of emergency medical technicians utilizing smart advanced life support (SALS) =Abstract= Purpose: T"
+		},
+		{
+			"title":"<b>의료<\/b>미용사 <b>직무<\/b>의 중요도-실행도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561716553",
+			"description":"An Analysis of Importance and Practice of Job in Medical Estheticians This study aims to analyse the importance and practice of job nee"
+		},
+		{
+			"title":"천석기층<b>의료<\/b>위생행업<b>직무<\/b>범죄원인급방치대책 (浅析基层医疗卫生行业",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187406295",
+			"description":"Reasons and Prevention measures for Duty Crimes in Basic Healthcare System 中国改革开放以来,国有医疗卫生事业获得了"
+		},
+		{
+			"title":"<b>의료<\/b>비서의 <b>직무<\/b>특성이 <b>직무<\/b>태도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291943134",
+			"description":"The Effects of Medical Secretaries&apos;s Job Characteristics on Job Attitudes <b>의료<\/b>분야는 최근 서비스업종의 대표업종으로,"
+		},
+		{
+			"title":"재활<b>의료<\/b>기관 간호사의 <b>직무<\/b>분석에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891368311",
+			"description":"A study on the job analysis of nurses in rehabilitation medical institutions  표제지\n목차\n국문초록 7\n제1장 서론 9\n 제1절"
+		},
+		{
+			"title":"재활<b>의료<\/b>기관 간호사의 <b>직무<\/b>분석에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896654661",
+			"description":"A study on the job analysis of nurses in rehabilitation medical institutions  표제지\n목차\n국문초록 7\n제1장 서론 9\n 제1절"
+		},
+		{
+			"title":"재활<b>의료<\/b>기관 간호사의 <b>직무<\/b>분석에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891376405",
+			"description":"A study on the job analysis of nurses in rehabilitation medical institutions  표제지\n목차\n국문초록 7\n제1장 서론 9\n 제1절"
+		},
+		{
+			"title":"재활<b>의료<\/b>기관 간호사의 <b>직무<\/b>분석에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898528263",
+			"description":"A study on the job analysis of nurses in rehabilitation medical institutions  표제지\n목차\n국문초록 7\n제1장 서론 9\n 제1절"
+		},
+		{
+			"title":"개인의무기록 기반 헬스케어 어플리케이션을 통한 건강관리 가이드 제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890635614",
+			"description":"A Study on the Provision of Health Care Guides and Evaluation of Service Satisfaction through Healthcare APP Using Personal Healthcare "
+		},
+		{
+			"title":"코로나 19 이후 <b>의료<\/b>사회복지사의<b>직무<\/b> 변화와 대응 실태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873621131",
+			"description":"Changes in Roles and Responses of Medical Social Workers during the COVID-19 Pandemic This study was conducted to provide basic data fo"
+		},
+		{
+			"title":"<b>의료<\/b>계통<b>직무<\/b>범죄특점급방공대책——기우남경시2011년<b>의료<\/b>계통<b>직무<\/b>범",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=111333898",
+			"description":"Characteristics of Duty Crimes and Its Countermeasures——Based on the Empirical Study of Duty Crimes in Nanjing City Medical System "
+		},
+		{
+			"title":"<b>의료<\/b>기사의 <b>직무<\/b>스트레스와 만족도의 영향요인 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=445436951",
+			"description":"Comparison of Factors Affecting Job Stress and Satisfaction of Medical Technician : Focus on Incheon Area  Ⅰ. 서 론\nⅡ. 연구 대"
+		},
+		{
+			"title":"<b>의료<\/b>관광코디네이터의 <b>직무<\/b>역량이 <b>직무<\/b>성과에 미치는 영향분석 : <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=560024718",
+			"description":"The Effect of Job Competency of Medical Tourism Coordinator on Job Performance : Focusing on the Moderating Effect of Job Involvement "
+		},
+		{
+			"title":"<b>의료<\/b>관광코디네이터의 <b>직무<\/b>역량이 <b>직무<\/b>성과에 미치는 영향분석 : <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562325996",
+			"description":"The Effect of Job Competency of Medical Tourism Coordinator on Job Performance : Focusing on the Moderating Effect of Job Involvement "
+		},
+		{
+			"title":"<b>의료<\/b>비서의 <b>직무<\/b>특성이 <b>직무<\/b>태도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878476408",
+			"description":"The Effects of Medical Secretaries&quot;s Job Characteristics on Job Attitudes <b>의료<\/b>분야는 최근 서비스업종의 대표업종으로,"
+		},
+		{
+			"title":"중소병원 간호사의 <b>의료<\/b>기관인증제 인식 및 <b>직무<\/b>스트레스, 조직몰입이 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=725746913",
+			"description":"   Turnover intention, Psychology, Job stress, Andrology "
+		},
+		{
+			"title":"군 <b>의료<\/b>종사자들의 <b>직무<\/b> 스트레스 해소를 위한 집단 미술치료 프로그램 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562491000",
+			"description":"  표제지\n국문요지\n목차\nI. 서론 7\n 1. 연구의 목적 7\n 2. 연구의 범위 및 방법 9\nII. 집단 미술치료프로그"
+		},
+		{
+			"title":"<b>의료<\/b>계통<b>직무<\/b>범죄신특점급방공대책--이남경시2011년실증조사위시각 (医",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=115214307",
+			"description":" 医疗系统职务犯罪,主要由思想教育缺位、自我控制弱化、内部管理不善、医疗体制不顺等原因所引起."
+		},
+		{
+			"title":"부산지역 <b>의료<\/b>기관 종사자들의 <b>직무<\/b>스트레스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594017815",
+			"description":" 본 연구는 <b>의료<\/b>기관 종사자들의 특성에 따른 스트레스 정도와 <b>직무<\/b>스트레스에 스트레스 측정영역들"
+		},
+		{
+			"title":"산업간호사의 <b>의료<\/b>행위 <b>직무<\/b>지침서 활용 및 <b>의료<\/b>행위<b>직무<\/b> 수행실태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594712126",
+			"description":"   산업간호사, 일차<b>의료<\/b>행위 "
+		},
+		{
+			"title":"<b>의료<\/b>기관 종별 간호사의 <b>직무<\/b> 압박감, 감정노동, 근로환경 만족도 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888853490",
+			"description":"Influencing Factors on Job Pressure, Emotional Labor, and Work Environment Satisfaction of Nurses by Types of Medical Institutions  Ⅰ"
+		},
+		{
+			"title":"중소병원 간호사의 <b>의료<\/b>기관인증제 인식 및 <b>직무<\/b>스트레스, 조직몰입이 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420822759",
+			"description":"The Influence of Awareness of Healthcare Accreditation, Job Stress and Organizational Commitment on Turnover Intention of Small and Med"
+		},
+		{
+			"title":"<b>의료<\/b>사회복지사의 <b>직무<\/b>요구가 <b>직무<\/b>만족, 이직의도에 미치는 영향에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=720497083",
+			"description":""
+		},
+		{
+			"title":"데이컴 (DACUM)기법을 이용한 <b>의료<\/b>급여관리사의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594509904",
+			"description":"   <b>직무<\/b>분석, <b>의료<\/b>급여관리사 "
+		},
+		{
+			"title":"대학병원과 종합병원 <b>의료<\/b>기사의 <b>직무<\/b>스트레스와 만족도의 영향요인 비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562407311",
+			"description":"Comparison of factors affecting job stress and satisfaction of medical staff in university hospital and general hospital : focus on Inc"
+		},
+		{
+			"title":"호스피스·완화<b>의료<\/b> 병동 간호사의 <b>직무<\/b>스트레스가 소진과 <b>직무<\/b>만족에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630640342",
+			"description":"  표제지\n목차\nI. 서론 7\n 1. 연구의 필요성 7\n 2. 연구 목적 11\n 3. 용어의 정의 12\n  1) 호스피스·완화<b>의료<\/b> "
+		},
+		{
+			"title":"<b>의료<\/b>사회복지사의 <b>직무<\/b>요구가 <b>직무<\/b>만족, 이직의도에 미치는 영향에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420828615",
+			"description":"A study on the effect of job demands on job satisfaction and turnover intention among medical social workers 사회복지 영역에서 "
+		},
+		{
+			"title":"물리치료사와 타 <b>의료<\/b>기사간 <b>직무<\/b>스트레스와 <b>직무<\/b>만족도의 차이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174994669",
+			"description":"The differences of job stress and job satisfaction between physical therapists and other medical technicians 본 연구의 목적은 "
+		},
+		{
+			"title":"재활<b>의료<\/b>기관 간호사의 <b>직무<\/b>분석에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=826203132",
+			"description":"A Study on the Job Analysis of Nurses in Rehabilitation Medical Institutions 우리나라는 고령화로 인한 만성질환의 증가"
+		},
+		{
+			"title":"응급구조사의 <b>의료<\/b>기관 <b>직무<\/b>만족도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16404953",
+			"description":"  표제지\n목차\n(Abstract) 7\nI. 서론 9\n 1. 연구의 필요성 9\n 2. 연구의 목적 11\n 3. 용어의 정의 11\n  가. <b>직무<\/b>만"
+		},
+		{
+			"title":"국제<b>의료<\/b>기관평가 관련 <b>직무<\/b>스트레스 및 이직의도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561932100",
+			"description":"JCI-Related Job Stress and Turnover Intention among General Hospital Nurses in Korea  1. 서론\n2. 연구방법\n3. 연구 결과\n4. 결"
+		},
+		{
+			"title":"국제<b>의료<\/b>기관평가 관련 <b>직무<\/b>스트레스 및 이직의도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442066728",
+			"description":"JCI-Related Job Stress and Turnover Intention among General Hospital Nurses in Korea 본 연구는 한국간호사가 느끼는 JCI관"
+		},
+		{
+			"title":"데이컴 기법을 이용한 일개 권역응급<b>의료<\/b>센터 간호사의 <b>직무<\/b> 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630758325",
+			"description":"Nurses&apos; Job Analysis in a Regional Emergency Center Using the DACUM 목적: 본 연구의 목적은 데이컴 방법을 이용해 권"
+		},
+		{
+			"title":"<b>의료<\/b>관광 코디네이터의 <b>직무<\/b>역량과 서비스지향성이 조직성과에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56508020",
+			"description":"  표제지\n목차\n제1장 서론 8\n 제1절 연구의 필요성 8\n 제2절 연구의 목적 및 구성 10\n제2장 이론적 배경 11\n"
+		},
+		{
+			"title":"<b>의료<\/b>기관 구성원이 <b>직무<\/b>만족도와 자기효능감에 느끼는 감성지능의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873501335",
+			"description":"Analysis of Emotional Intelligence Affected by Medical Institution Members on Job Satisfaction and Self-Efficacy 본 연구에서는 "
+		},
+		{
+			"title":"<b>의료<\/b>기사의 <b>직무<\/b>스트레스와 만족도의 영향요인 비교 : 인천지역을 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562422031",
+			"description":"Comparison of Factors Affecting Job Stress and Satisfaction of Medical Technician : Focus on Incheon Area The purpose of this study was"
+		},
+		{
+			"title":"국제<b>의료<\/b>기관평가 관련 <b>직무<\/b>스트레스 및 이직의도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442142145",
+			"description":"JCI-Related Job Stress and Turnover Intention among General Hospital Nurses in Korea  1. 서론\n2. 연구방법\n3. 연구 결과\n4. 결"
+		},
+		{
+			"title":"<b>의료<\/b>미용 종사자의 <b>직무<\/b>요구가 전문성 및 <b>직무<\/b>만족에 미치는 영향: <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594673201",
+			"description":" 건강하고 아름답게 살고자 하는 욕구가 높아지면서 <b>의료<\/b>미용분야도 양적 질적 성장을 거듭하고 있으"
+		},
+		{
+			"title":"산업간호사의 <b>의료<\/b>행위 <b>직무<\/b>지침서 활용 및 <b>의료<\/b>행위<b>직무<\/b> 수행실태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11394713",
+			"description":"A Survey on the Occupational Health Nursing Activities for primary care The occupational health nursing guideline for primary care was "
+		},
+		{
+			"title":"<b>의료<\/b>미용 종사자의 <b>직무<\/b>요구가 전문성 및 <b>직무<\/b>만족에 미치는 영향 : 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562511319",
+			"description":"The Effects of Job Demand in Medical Estheticians on Expertise and Job Satisfaction : A Focus on the Manipulating Role of Job Resources"
+		},
+		{
+			"title":"<b>의료<\/b>기관 종사자의 <b>직무<\/b>스트레스가 정서적 소진에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879811381",
+			"description":"The Effect of Job Stress on Burnout in Hospital Employees    "
+		},
+		{
+			"title":"<b>의료<\/b>조직 <b>직무<\/b>특성과 조직성과의 관계 : 셀프리더십의 매개효과를 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79892055",
+			"description":" 급격한 경쟁 환경에 직면하고 있는 <b>의료<\/b>조직들은 경영성과 향상을 위하여 셀프리더십의 중요성을 인"
+		},
+		{
+			"title":"군대<b>의료<\/b>계통<b>직무<\/b>범죄적예방 (军队医疗系统职务犯罪的预防)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=101102045",
+			"description":"Prevention of Duty Guilty in Military Medical System 作者通过对某地区军队医疗系统职务犯罪情况的调查,分析了军"
+		},
+		{
+			"title":"대학병원과 종합병원 <b>의료<\/b>기사의 <b>직무<\/b>스트레스와 만족도의 영향 요인 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=438139106",
+			"description":" 국문초록\n목적 : 본 연구는 대학병원과 종합병원에 근무하는 방사선사, 물리치료사, 임상병리사들의 "
+		},
+		{
+			"title":"수평현검찰원사판<b>의료<\/b>위생영역<b>직무<\/b>범죄안건적주법 (遂平县检察院查办",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=838819140",
+			"description":""
+		},
+		{
+			"title":"장애인복지시설 재활<b>의료<\/b>종사자의 <b>직무<\/b>환경에 따른 <b>직무<\/b>만족에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79488561",
+			"description":"  국문목차\n표제지=0,1,1\n목차=i,2,2\n표차례=iii,4,1\nI. 서론=1,5,1\n 1. 문제제기=1,5,2\n 2. 연구의 의의 및 목적=2,"
+		},
+		{
+			"title":"<b>의료<\/b>위생계통<b>직무<\/b>범죄분석급대책 (医疗卫生系统职务犯罪分析及对策)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=838855829",
+			"description":""
+		},
+		{
+			"title":"<b>의료<\/b>관광 코디네이터의 <b>직무<\/b>특성이 <b>직무<\/b>스트레스, <b>직무<\/b>만족, 조직몰입",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=233360026",
+			"description":"A Study on The Effect of Job Characteristics of Medical Tourism Coordinator on Job Stress, Job Satisfaction and Organizational Commitme"
+		},
+		{
+			"title":"보건소 <b>의료<\/b>기술직 공무원의 <b>직무<\/b>만족에 관한 연구 : 서울·경기·강원 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9441544",
+			"description":"  표제지\n감사의 글\n목차\n국문요약 10\n제1장 서론 12\n 1. 연구의 필요성 12\n 2. 연구의 목적 14\n제2장 이론적"
+		},
+		{
+			"title":"성형외과 중국환자전담 <b>의료<\/b>관광코디네이터의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=578397356",
+			"description":"A study on the job analysis of plastic surgery medical tourism coordinators for Chinese 본 연구는 데이컴(DACUM) <b>직무<\/b>분석방"
+		},
+		{
+			"title":"고용형태에 따른 <b>직무<\/b>스트레스와 우울의 관계: <b>의료<\/b>사회복지사를 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291535472",
+			"description":"Employment status, Job stress and Depression among Medical social workers 비정규직에 대한 사회적인 관심에도 불구하고"
+		},
+		{
+			"title":"<b>의료<\/b>사회복지사의 <b>직무<\/b>요구가 <b>직무<\/b>만족, 이직의도에 미치는 영향에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846261129",
+			"description":"A study on the effect of job demands on job satisfaction and turnover intention among medical social workers 사회복지 영역에서 "
+		},
+		{
+			"title":"<b>의료<\/b>기관 보건관리자의 <b>직무<\/b> 수행도에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=605643536",
+			"description":"Factors Affecting the Job Performance of Occupational Health Manager at the Hospital Purpose: To identify the importance and performanc"
+		},
+		{
+			"title":"노인환자에 대한 <b>의료<\/b>직원의 <b>직무<\/b>스트레스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79827782",
+			"description":"A study on duty stress of the workers in the medical organization serving elderly patients 고령사회에서 노인환자가 <b>의료<\/b>직"
+		},
+		{
+			"title":"데이컴 기법을 이용한 일개 권역응급<b>의료<\/b>센터 간호사의 <b>직무<\/b> 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846380655",
+			"description":"Nurses&apos; Job Analysis in a Regional Emergency Center Using the DACUM Purpose: This study aimed to establish the role of and to analyze t"
+		},
+		{
+			"title":"<b>의료<\/b>기관 보건관리자의 <b>직무<\/b> 수행도에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606845155",
+			"description":"Factors Affecting the Job Performance of Occupational Health Manager at the Hospital Purpose: To identify the importance and performanc"
+		},
+		{
+			"title":"성형외과 중국환자전담 <b>의료<\/b>관광코디네이터의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=560544483",
+			"description":"A Study on the Job Analysis of Plastic Surgery Medical Tourism Coordinators for Chinese 본 연구는 데이컴(DACUM) <b>직무<\/b>분석방"
+		},
+		{
+			"title":"데이컴 기법을 이용한 일개 권역응급<b>의료<\/b>센터 간호사의 <b>직무<\/b> 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873367519",
+			"description":"Nurses&apos; Job Analysis in a Regional Emergency Center Using the DACUM    "
+		},
+		{
+			"title":"데이컴 기법을 이용한 일개 권역응급<b>의료<\/b>센터 간호사의 <b>직무<\/b> 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630235503",
+			"description":"Nurses&apos; Job Analysis in a Regional Emergency Center Using the DACUM 목적: 본 연구의 목적은 데이컴 방법을 이용해 권"
+		},
+		{
+			"title":"<b>의료<\/b>기관 보건관리자의 <b>직무<\/b> 수행도에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561749038",
+			"description":"Factors affecting the job performance of occupational health manager at the hospital  표제지\n목차\n초록 6\n머리말 8\n재료 및 "
+		},
+		{
+			"title":"데이컴 기법을 이용한 일개 권역응급<b>의료<\/b>센터 간호사의 <b>직무<\/b> 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=613473390",
+			"description":"Nurses&apos; Job Analysis in a Regional Emergency Center Using the DACUM Purpose: This study aimed to establish the role of and to analyze t"
+		},
+		{
+			"title":"<b>의료<\/b>기관의 조직지원이 <b>의료<\/b>사회복지사의 <b>직무<\/b>만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880778833",
+			"description":" 본 연구는 <b>의료<\/b>기관의 조직지원이 <b>의료<\/b>사회복지사의 <b>직무<\/b>만족에 미치는 영향에서 <b>직무<\/b>스트레스의 "
+		},
+		{
+			"title":"지역사회 융합 보건<b>의료<\/b> 전문직 여성의 <b>직무<\/b> 스트레스로 인한 고통 체험",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=614471234",
+			"description":"Experience of Job Stress among Female Community Convergence Health Care Experts: Applying Parse&apos;s Human Becoming 한국은 고령화에"
+		},
+		{
+			"title":"인증여부에 따른 병원 직원의 <b>직무<\/b>스트레스, <b>직무<\/b>만족도, <b>의료<\/b>서비스 효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232957194",
+			"description":"Comparative Analysis of Job Stress, Job Satisfaction and the Effects of Medical Services among Hospital Employees According to the Hosp"
+		},
+		{
+			"title":"보건<b>의료<\/b>인력의 <b>직무<\/b>만족도에 관한 연구 : 부산시 중소병원 행정직을 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18635120",
+			"description":"   병원행정직원, <b>직무<\/b>만족, 병원조직관리 "
+		},
+		{
+			"title":"<b>의료<\/b>위생계통<b>직무<\/b>범죄안건적조연보고 (医疗卫生系统职务犯罪案件的调",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=833374907",
+			"description":" 近年来,医疗卫生系统职务犯罪案件呈现高发、多发态势,由于与群众生活息息相关,该系统贿赂犯罪不"
+		},
+		{
+			"title":"치과위생사와 타 <b>의료<\/b>기사간 <b>직무<\/b>만족도 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79730629",
+			"description":"The comparison of degree of job satisfaction between the dental hygienists and the medical engineers  목차\nⅠ. 서론 6\n 1. 연구"
+		},
+		{
+			"title":"<b>의료<\/b>위생계통<b>직무<\/b>범죄성인급예방 (医疗卫生系统职务犯罪成因及预防)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=838610510",
+			"description":" 归结医疗卫生系统职务犯罪的原因,主要有放松了职工的思想教育、医药构销竞争激烈、医疗体制不完"
+		},
+		{
+			"title":"<b>의료<\/b> 종사자의 <b>직무<\/b> 스트레스와 지속학습활동의 관계에서 프로티언 경",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561797481",
+			"description":"The mediating effect of protean career attitute on the relationship between job stress and continuous learning activity of the health p"
+		},
+		{
+			"title":"<b>의료<\/b>관광 코디네이터의 <b>직무<\/b>특성과 <b>직무<\/b>소진이 <b>직무<\/b>만족도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174202091",
+			"description":"(The)impacts of medical tourism coordinationator&apos; job characteristics and job burnout on job satisfaction In this survey research study"
+		},
+		{
+			"title":"<b>의료<\/b>위생계통<b>직무<\/b>범죄적예방——기우혁장현사판해류안건적조사사고 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841082317",
+			"description":""
+		},
+		{
+			"title":"<b>의료<\/b>급여관리사 <b>직무<\/b>분석을 통한 사례관리업무 개편방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862527558",
+			"description":"  표제지\n제출문\n목차\n요약 17\n제1장 서론 32\n 제1절 연구의 필요성 및 목적 32\n  1. 연구의 필요성 32\n  2. "
+		},
+		{
+			"title":"<b>의료<\/b>급여관리사 <b>직무<\/b>분석을 통한 사례관리업무 개편방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891260626",
+			"description":"  표제지\n제출문\n목차\n요약 17\n제1장 서론 32\n 제1절 연구의 필요성 및 목적 32\n  1. 연구의 필요성 32\n  2. "
+		},
+		{
+			"title":"<b>의료<\/b>급여관리사 <b>직무<\/b>분석을 통한 사례관리업무 개편방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873215476",
+			"description":"  표제지\n제출문\n목차\n요약 17\n제1장 서론 32\n 제1절 연구의 필요성 및 목적 32\n  1. 연구의 필요성 32\n  2. "
+		},
+		{
+			"title":"<b>의료<\/b>급여관리사 <b>직무<\/b>분석을 통한 사례관리업무 개편방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877618617",
+			"description":"  표제지\n제출문\n목차\n요약 17\n제1장 서론 32\n 제1절 연구의 필요성 및 목적 32\n  1. 연구의 필요성 32\n  2. "
+		},
+		{
+			"title":"<b>의료<\/b>급여관리사 <b>직무<\/b>분석을 통한 사례관리업무 개편방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896543924",
+			"description":"  표제지\n제출문\n목차\n요약 17\n제1장 서론 32\n 제1절 연구의 필요성 및 목적 32\n  1. 연구의 필요성 32\n  2. "
+		},
+		{
+			"title":"<b>의료<\/b>급여관리사 <b>직무<\/b>분석을 통한 사례관리업무 개편방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868666773",
+			"description":"  표제지\n제출문\n목차\n요약 17\n제1장 서론 32\n 제1절 연구의 필요성 및 목적 32\n  1. 연구의 필요성 32\n  2. "
+		},
+		{
+			"title":"<b>의료<\/b>급여관리사 <b>직무<\/b>분석을 통한 사례관리업무 개편방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890948389",
+			"description":"  표제지\n제출문\n목차\n요약 17\n제1장 서론 32\n 제1절 연구의 필요성 및 목적 32\n  1. 연구의 필요성 32\n  2. "
+		},
+		{
+			"title":"<b>의료<\/b>급여관리사 <b>직무<\/b>분석을 통한 사례관리업무 개편방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875207000",
+			"description":"  표제지\n제출문\n목차\n요약 17\n제1장 서론 32\n 제1절 연구의 필요성 및 목적 32\n  1. 연구의 필요성 32\n  2. "
+		}
+	]
+}

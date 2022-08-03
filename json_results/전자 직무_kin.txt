@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:18 +0900",
+	"total":49927,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"lg <b>전자 직무<\/b> 역량",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=420716151&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=1&search_sort=0&spq=0",
+			"description":"자소서 써야하는데 lg <b>전자<\/b> 지원 <b>직무<\/b> 수행을 위해 필요한 역량이 무엇인지 어디에 나와있나요?  좋은 질문이십니다. 많은 분들이 궁금해 하시는 부분이기도 합니다. 안녕하십니까? 저는 그룹사 인사팀 출신이자 현직 공공기관... "
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>적성 검사 질문있습니다",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=410289827&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=2&search_sort=0&spq=0",
+			"description":"... 안녕하세요 해커스잡입니다 :) 질문자님께서 이번에 삼성<b>전자<\/b> 채용을 준비 중이시군요! 삼성의 경우 GSAT이라는 <b>직무<\/b>적성검사를 통해 필기전형을 진행하고 있는데요. GSAT은 최종학력에 따라 3급 \/ 4급 \/ 5급으로 구분됩니다. 3급... "
+		},
+		{
+			"title":"삼성<b>전자<\/b> 실무면접은 <b>직무<\/b>면접(일문일답)인가요 PT면접... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=424577233&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=3&search_sort=0&spq=0",
+			"description":"삼성<b>전자<\/b> 실무면접은 <b>직무<\/b>면접(일문일답)인가요 PT면접 같은 주제에 대한 발표면접인가요? 학사-석사-박사 간에 차이가 있나요? 삼성면접 <b>직무<\/b> 역량 면접 경우, 1대다 형식으로 전공별 문제 풀이 후, 프리젠테이션을 진행하게 됩니다.... "
+		},
+		{
+			"title":"<b>전자<\/b>공학과 <b>직무<\/b> 고민",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=412360901&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=4&search_sort=0&spq=0",
+			"description":"<b>전자<\/b>공학과 마지막 1년 남았습니다. 아직도 어떤 <b>직무<\/b>를 공부하고 취업할지 고민중입니다. 혹시 추천해주실만한 <b>직무<\/b>나 회사를 알려주시면 채용공보를 찾아보며 정보를 얻을 수 있을 것 같습니다. 그리고 추후 취업과 진로에 큰 도움이... "
+		},
+		{
+			"title":"<b>전자<\/b>소송으로 <b>직무<\/b>집행정지 가처분 신청을 하고자... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60211&docId=398185438&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=5&search_sort=0&spq=0",
+			"description":"... 상대로 <b>직무<\/b>집행정지 가처분신청을 하라고 하는데 행정소송인지 민사소송인지 모르겠고 어떤사람은 민사소송이 맞다 다른사람은 행정소송이 맞다는데 누구의 말이 맞는지 모르겠고 어떻게 <b>전자<\/b>소송으로 신청해야 하는지 몰라서요... "
+		},
+		{
+			"title":"품질관리 <b>직무<\/b> 질문이요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=411975126&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=6&search_sort=0&spq=0",
+			"description":"면접을 보게되었는데 품질관리 - 전기\/<b>전자<\/b>자격증 우대 라고 되어있던데 보통 자격증은 우대해도 전기<b>전자<\/b> 자격증 우대는 못봤는데 품질관리 자체가 무슨<b>직무<\/b>고 전기<b>전자<\/b>자격증을 왜 우대해서 그런 <b>직무<\/b>가 되었는지... "
+		},
+		{
+			"title":"같은 <b>직무<\/b> 업종 변환 가능할지",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=409683277&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=7&search_sort=0&spq=0",
+			"description":"... 제조업 품질관리직인데 같은 삼성<b>전자<\/b> 협력사인데 업종을 변환해서 품질<b>직무<\/b>로 옮길수 있을까요? 흠....  안녕하세요 삼성<b>전자<\/b> 1차협력사 중소기업 재직중입니다. 2년의 경력이 있구요 저희 회사는 주임이 없고 3년부터 대리 직급으로... "
+		},
+		{
+			"title":"lg 디스플레이에도 삼성<b>전자<\/b> 인프라나 하이닉스... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=413587361&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=8&search_sort=0&spq=0",
+			"description":"제목그대로입니다 삼성<b>전자<\/b> 인프라나 하이닉스 유틸리티같은 <b>직무<\/b>가있나요 lg디스플레이에도? 네, 있습니다. LG 디스플레이에도 여느 반도체 공장과 마찬가지로, 유틸리티를 담당하는 엔지니어와 설비 엔지니어가 있습니다. 원래... "
+		},
+		{
+			"title":"<b>전자<\/b>회로설계 관련 <b>직무<\/b> 내공100",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=422311706&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=9&search_sort=0&spq=0",
+			"description":"<b>전자<\/b>회로설계관련 <b>직무<\/b> 알려주세요  네 조언 드립니다. https:\/\/cafe.naver.com\/modulecircuit\/8288 영상을 보시면 잘 나와 있습니다. 설계 관련 <b>직무<\/b>에 대하여는 영상에도 언급되어 있습니다만. 1. OR CAD 등을 이용한 회로설계 2.... "
+		},
+		{
+			"title":"한수원 전기<b>전자 직무<\/b> 관련 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=328198114&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=10&search_sort=0&spq=0",
+			"description":"이번 대졸 공채 전기<b>전자직무<\/b>에 썼는데요.. 자격 전공이 전자, 전기, 전자통신, 머 이런식인데 마지막에 그냥 &apos;컴퓨터&apos;이런식으로 되어있길래 컴퓨터과학과라서 지원했습니다. 하지만 이제 와서 알아보니 전자, 전기, 회로같은... "
+		},
+		{
+			"title":"현대모비스, 삼성<b>전자<\/b>, LG<b>전자<\/b> 등 대기업 <b>직무<\/b>적성검사... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=333420300&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=11&search_sort=0&spq=0",
+			"description":"각 대기업마다 직무적성검사가 있는데 직무적성검사 공부할 때 예를 들어 현대 모비스를 공부하면 그 공부한 내용이 삼성전자나 LG<b>전자 직무<\/b>적성검사 시험과 많이 유사하나요? 아니면 따로따로 다 공부해줘야하나요? 질문자님의... "
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>적성검사 5급은 GSAT 과목이 어떻게... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=405065856&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=12&search_sort=0&spq=0",
+			"description":"올해 2021년12월에 <b>직무<\/b>적성검사 5급 gsat를 치는데 과목 종류가 어떻게 되는지 정확히 멀씀해주세요 ㅠㅠㅠ 교제를... 치는지 말씀해주세요 없는것도 괜찮습니다 그냥 어떤과목치는지 정확히 말씀해주세요 ㅠㅠ 삼성<b>전자<\/b> ds부문 일까요? "
+		},
+		{
+			"title":"포스코 생산기술직(전기,<b>전자<\/b>) <b>직무<\/b>소개",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=363910486&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=13&search_sort=0&spq=0",
+			"description":"... 외부에서 자세히 볼수는 없구요.다음사항을 참고하시기 바랍니다 1.전기 , <b>전자<\/b>는 <b>직무<\/b>는 가.공장의 생산직 전기관련 <b>직무<\/b> (고졸~전문대) ㄴ. 주로 고졸,전문 학교를 졸업하고 공장 전력계통의 유지보수 업무(점검,수리,자재 준비 등)... "
+		},
+		{
+			"title":"LG<b>전자 직무<\/b>, 인성 최종면접",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40403&docId=341296037&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=14&search_sort=0&spq=0",
+			"description":"... LG<b>전자 직무<\/b>, 인성 최종면접 준비하려고 학원을 알아보는 중입니다. 스피치학원이 아닌 대기업 면접에 필요한 기업특성과 최종면접에서 나올법한 예상질문들과 답변들을 꼼꼼하게 체크하고 싶은데요 관련해서 교육을 하는 기관이... "
+		},
+		{
+			"title":"LG <b>전자 직무<\/b> 질문이요(급해요!!)",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=159778040&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=15&search_sort=0&spq=0",
+			"description":"... <b>전자<\/b>제품은 크게 하드웨어와 소프트웨어로 구성이 됩니다. 소프트웨어가 어떤 것을 의미하시는 지는... <b>전자<\/b>제품의 모든 소프트웨어 개발 등에 관련된 업무라고 이해하시면 됩니다. IT\/ communication -&gt; 이건 R&amp;D... "
+		},
+		{
+			"title":"산업안전산업기사 비전공자 해당<b>직무<\/b>경력 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=366820993&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=16&search_sort=0&spq=0",
+			"description":"... 19 섬유ㆍ의복 직무분야 - 20 전기ㆍ<b>전자 직무<\/b>분야 - 21 정보통신 직무분야 - 22 식품가공 직무분야 - 23 인쇄ㆍ목재ㆍ가구ㆍ공예 직무분야 - 24 농림어업 직무분야 - 25 안전관리 중 251 안전관리 직무분야 - 26 환경ㆍ에너지 직무분야 "
+		},
+		{
+			"title":"LG<b>전자<\/b>의 <b>직무<\/b>와 그 <b>직무<\/b> 하는 일",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=250940436&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=17&search_sort=0&spq=0",
+			"description":"LG<b>전자<\/b>에 어떤 <b>직무<\/b>가 있고 그 <b>직무<\/b>가 어떤 일을 하는 지 자세히 적어주세요 부탁드립니다. 내공60입니다. <b>전자<\/b>회사에는 여러조직과 기능이있습니다 1.본사부분 : 경영.회계.총무.구매부서에는 사무직 회계직.구매직 등이 있을거고 2.... "
+		},
+		{
+			"title":"삼성<b>전자<\/b> DS부문 5급 <b>직무<\/b>적성검사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=379847499&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=18&search_sort=0&spq=0",
+			"description":"이번에 학교장 추천으로 삼성<b>전자<\/b> DS부문 5급 서류 넣고 합격 했는데요 (제조직으로 넣었습니다) 이번에는 15분 밖에... <b>직무<\/b>적성검사를 gsat로 보는 건가요? 고졸은 지사트 말고 다른 거 본다는 데 뭐가 맞는 거죠? 지사트 본다면 작년과... "
+		},
+		{
+			"title":"전기기사응시자격에 대한 유사<b>직무<\/b>분야의 종류",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=186652947&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=19&search_sort=0&spq=0",
+			"description":"... 2년 이상 실무경력 기 능 사 제한 없음 전기,<b>전자 직무<\/b>분야는 경력에 해당됩니다. 디자인업무는 전기 관련업무에 해당되지 않습니다. 경력분야는 아래와 같습니다. 전기기사,산업기사에 해당되는 경력에 해당되려면 아래... "
+		},
+		{
+			"title":"LG<b>전자<\/b> 자기소개서 <b>직무<\/b>관련 향후 계",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40608&docId=335452707&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=20&search_sort=0&spq=0",
+			"description":"LG<b>전자<\/b> 자기소개서 <b>직무<\/b>관련 향후 계획 어떻게 작성을 하는게 좋을까요? 혹시 도움을 주실수 있으시면 답변 좀 부탁드립니다. LG<b>전자<\/b>쪽으로 준비를 해보셨거나 일을 하고 있는 분이시면 더 감사하겠습니다. 질문자님 안녕하세요!... "
+		},
+		{
+			"title":"lg <b>전자<\/b> 부서 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=410&docId=412344597&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=21&search_sort=0&spq=0",
+			"description":"... 외관적인 부분은 디자인 관련 부서에서 담당하고 전체 제품에 대한 개발은 R&amp;D 부서에 담당을 합니다. LG<b>전자 직무<\/b> 참고 https:\/\/blog.naver.com\/kingnnothing\/222406091599 https:\/\/blog.naver.com\/kingnnothing\/222173272395 &amp; &amp; "
+		},
+		{
+			"title":"<b>전자<\/b>산업기사 관련 <b>직무<\/b> 내공100",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=422311621&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=22&search_sort=0&spq=0",
+			"description":"<b>전자<\/b>산업기사 관련 <b>직무<\/b> 좀 알려주세요 안녕하세요:) 교육상담 전문 학습설계 IVY Team의 킴쌤 담당자 입니다! 답변을 도와드리자면, 산업기사 준비 하시는 거면 현재 학력을 알 수있을까요? 2년제 졸업 이상+ 관련41과목 있어야지 준비가... "
+		},
+		{
+			"title":"삼성<b>전자<\/b> 네트워크 사업부 회로설계 <b>직무<\/b>에 지원할때... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=329809744&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=23&search_sort=0&spq=0",
+			"description":"혹시 악성코드 분석 경험이 삼성<b>전자<\/b> 네트워크 사업부 회로설계 <b>직무<\/b>에 지원할때 도움이 될까요?  <b>전자<\/b>공학의 분석경험을 파악합니다. 지원부분으로 도움부분이우선됩니다. 전산공학으로 전산관련도움이됩니다. 무선통신으로... "
+		},
+		{
+			"title":"한전(한국전력) 전기기사 <b>직무<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=331565671&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=24&search_sort=0&spq=0",
+			"description":"... 한전에서의 전기,<b>전자<\/b> 관련 <b>직무<\/b>는 현장직 밖에 없나요? 사무직은 없나요?  사무직이라는 개념이 사무실에서 근무하는것을 말하는것이죠 한전의 <b>직무<\/b>분야를 보면 기술직과 사무직 그리고 기능직, 사무보조원이 있습니다 기술직은... "
+		},
+		{
+			"title":"<b>전자<\/b> 산업기사 자격증",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=111&docId=371649452&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=25&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야 - 21 정보통신 직무분야 - 25 안전관리 직무분야 - 26 환경ㆍ에너지 직무분야 그리고 전자기기는 기능사 등급만 있어요. 전자기기기사, 전자기기산업기사라는 이름을 가진 자격증은 없습니다. 전자산업기사로... "
+		},
+		{
+			"title":"전기 <b>전자 직무<\/b> 어휘",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=324135187&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=26&search_sort=0&spq=0",
+			"description":"실용국어 시간에 전기 <b>전자<\/b>에 관한 <b>직무<\/b> 용어가 뭐가있는지 알아오려고하는데 어떤 용어가있나요?? 이게 필요하신가요? =====( A )===== A (전류계) : Ammeter A (가속, 증속) : Accelerating... "
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=324332956&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=27&search_sort=0&spq=0",
+			"description":"경북대 <b>전자<\/b>공학부를나오면 삼성<b>전자<\/b>입사할때 무슨<b>직무<\/b>로 들어가나요 <b>전자<\/b>공학의 삼성<b>전자<\/b>를 파악합니다. 신뢰성검사로 부서부분을입사합니다. 무선통신으로 <b>전자<\/b>공학부서가됩니다. 반도체부서로 이직부분도되어집니다. 그리고... "
+		},
+		{
+			"title":"<b>전자<\/b>기기기능사 자격증 관련문의",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=377585664&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=28&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야 - 21 정보통신 직무분야 - 25 안전관리 직무분야 - 26 환경ㆍ에너지 직무분야 기능사+1년 이상 이 조건으로 해서 바로 응시 못할 경우는 정보처리산업기사를 먼저 공부해서 취득하세요. 정보처리산업기사는 모든... "
+		},
+		{
+			"title":"기계가공기능장시험의 해당<b>직무<\/b>분야??",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1114&docId=184188994&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=29&search_sort=0&spq=0",
+			"description":"... 전기ㆍ<b>전자직무<\/b>분야와 관련된 학과 - 21 정보통신 중 212 방송무선 직무분야와 관련된 학과 - 21 정보통신 중 213 통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 162... "
+		},
+		{
+			"title":"LG<b>전자<\/b> 합격자소서 쓰는방법 궁금합니다~",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=340372270&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=30&search_sort=0&spq=0",
+			"description":"... &lt; LG전자 채용 합격공채자료 &gt; ▶ LG전자 기업정보 자세히 보기(클릭!) ▶ LG전자 채용설명회 자세히 보기(클릭!) ▶ LG전자 인적성\/면접후기 자세히 보기(클릭!) ▶ LG<b>전자 직무<\/b>인터뷰 자세히 보기(클릭!) ▶ LG전자 합격스펙 자세히... "
+		},
+		{
+			"title":"LG<b>전자<\/b> 채용설명회 후기 궁금해요!",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=340521593&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=31&search_sort=0&spq=0",
+			"description":"... &lt; LG전자 채용 합격공채자료 &gt; ▶ LG전자 기업정보 자세히 보기(클릭!) ▶ LG전자 합격자소서 자세히 보기(클릭!) ▶ LG전자 인적성\/면접후기 자세히 보기(클릭!) ▶ LG<b>전자 직무<\/b>인터뷰 자세히 보기(클릭!) ▶ LG전자 합격스펙 자세히... "
+		},
+		{
+			"title":"반도체기업 다니는 상경계열 마케팅 <b>직무<\/b>인데 전기<b>전자<\/b>... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1105&docId=417998032&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=32&search_sort=0&spq=0",
+			"description":"... 전기<b>전자<\/b> 이수를 몇학점정도 해야하나요? 2. 인서울 상경계열 출신인데, 야간 전기<b>전자<\/b> 공학대학원에서 저를... 전기<b>전자<\/b> 학점 이수하지 않아도 가능합니다. 1. 야간 공대원의 경우 인문계열은 거의 받아주지 않지만 그나마... "
+		},
+		{
+			"title":"정보처리기사 경력인정 <b>직무<\/b>에 <b>전자<\/b> 생산직도 포함되나요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=67130752&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=33&search_sort=0&spq=0",
+			"description":"전문대를 졸업하고 직장생활을 하다 정보처리기사 시험을 봤는데 <b>전자<\/b>쪽 생산직 경력을 제출해도 되나요 관련직종은 맞는거 같은데 <b>직무<\/b>(업무)까지 작성하라고 해서 가능한지가 의심이 되네요 <b>직무<\/b>에 어떤걸 작성해야하는지 잘아시는... "
+		},
+		{
+			"title":"<b>전자<\/b>,전기산업기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=311257526&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=34&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 202 전자 - 산업계측제어기술사, 전자응용기술사 - 임베디드기사 - 광학기사... "
+		},
+		{
+			"title":"LG<b>전자<\/b> 채용중인데 인적성에 대해서 궁금합니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=343210994&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=35&search_sort=0&spq=0",
+			"description":"... &lt; LG전자 채용 합격공채자료 &gt; ▶ LG전자 기업정보 확인하기(클릭!) ▶ LG전자 합격자소서 확인하기(클릭!) ▶ LG전자 채용설명회 확인하기(클릭!) ▶ LG<b>전자 직무<\/b>인터뷰 확인하기(클릭!) ▶ LG전자 합격스펙 확인하기(클릭!) ▶ LG전자... "
+		},
+		{
+			"title":"<b>전자<\/b>공학과도 전기기사 딸수있나요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=346052167&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=36&search_sort=0&spq=0",
+			"description":"... - 20 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 4학년 1학기등록시에 졸업예정자로 지정돼 전기기사 응시하실 수 있습니다. 참고로 관련자격증으로 전기공사기사, 전기철도기사, 철도신호기사도... "
+		},
+		{
+			"title":"2년제 대학 <b>전자<\/b>계산학과를 나왔는데",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=309039932&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=37&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야와 관련된 학과 &lt;----- 전자계산학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 전자계산학과는 전기, <b>전자 직무<\/b>분야에 있고... "
+		},
+		{
+			"title":"Soil생산직 전기<b>전자 직무<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=235192068&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=38&search_sort=0&spq=0",
+			"description":"... 선택란에 화공 전기<b>전자<\/b> 기계 이런식으로 나뉘던데 하는<b>직무<\/b>가 다른건가요? 2. 화학시험이 추가되었던데 화공 기계 전기<b>전자<\/b> 지원자 합해서 성적을 내나요? 아니면 전기<b>전자<\/b>끼리 경쟁을 하는건가요?  안녕하세요, 여러분의 경험... "
+		},
+		{
+			"title":"<b>전자<\/b>전기공학부 자격증질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=111&docId=186982957&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=39&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 202 전자 - 산업계측제어기술사, 전자응용기술사 - 임베디드기사... "
+		},
+		{
+			"title":"삼성<b>전자<\/b> 제조기술센터 <b>직무<\/b>에 대해 문의드립니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=183405863&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=40&search_sort=0&spq=0",
+			"description":"이번 삼성<b>전자<\/b> 제조기술센터 연구개발직 면접을 보게 된 사람입니다. 면접에 대비하여 제조기술센터 연구개발직으로 수행하는 <b>직무<\/b>에 대해 알고자 찾아봤으나 마땅한 자료들이 없어 이렇게 문의드립니다. 현직에 종사하시거나... "
+		},
+		{
+			"title":"<b>전자<\/b>산업기사, 전기산업기사 응시자격되는지 궁금해요~",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=214423061&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=41&search_sort=0&spq=0",
+			"description":"... 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 20 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 큐넷 "
+		},
+		{
+			"title":"소방설비산업기사 경력 인증방식에 대해 궁금합니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=422902820&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=42&search_sort=0&spq=0",
+			"description":"... 19 섬유ㆍ의복 직무분야 - 20 전기ㆍ<b>전자 직무<\/b>분야 - 21 정보통신 직무분야 - 22 식품가공 직무분야 - 23 인쇄ㆍ목재ㆍ가구ㆍ공예 직무분야 - 24 농림어업 직무분야 - 25 안전관리 중 251 안전관리 직무분야 - 26 환경ㆍ에너지 직무분야 "
+		},
+		{
+			"title":"<b>전자<\/b>기사 전기기사 를 따고싶은데",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=316627897&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=43&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 전자기사 관련학과로 이중 해당되는 학과가 있으면 전자기사 시험에... "
+		},
+		{
+			"title":"현재 <b>전자<\/b>공학 3학년을 재학중인 (4년제) 공대생입니다.... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=393853252&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=44&search_sort=0&spq=0",
+			"description":"... 반도체 <b>직무<\/b>는 대졸 엔지니어 직군에서 크게 설계\/설비\/공정 이 세부분으로 나뉘고요. <b>전자<\/b>공학과라면 칩을 설계하는 거나 공정 분야 설비 분야 모두 가능합니다. 그런데, <b>전자<\/b>공학 중에서도 어떤 분야를 전공하고 있는지가... "
+		},
+		{
+			"title":"<b>전자<\/b> 파운드리와 메모리사업부의 설비엔지니어의 <b>직무<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=328010157&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=45&search_sort=0&spq=0",
+			"description":"제목 그대로 삼성<b>전자<\/b> 파운드리에서 설비 엔지니어와 메모리에서 설비 엔지니어의 <b>직무<\/b> 차이가 있나요? 차이가 있다면 설명 부탁드립니다. 메모리나 파운드리나 업무의 차이는 없습니다. 그 사업부가 만드는 제품의 차이만 있습니다.... "
+		},
+		{
+			"title":"전지,<b>전자<\/b> 산업기사,기사 자격증관련해서 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=186982511&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=46&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 202 전자 - 산업계측제어기술사, 전자응용기술사 - 임베디드기사... "
+		},
+		{
+			"title":"안녕하세요 <b>전자<\/b>공학과4학년1학기까지하고... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=262314215&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=47&search_sort=0&spq=0",
+			"description":"... 직무분야와 관련된 학과 전자공학과는 20 전기,<b>전자직무<\/b>분야에 관련된학과로 소방설비기사에 응시가 가능한 관련학과입니다. 즉, 전자공학과 4학년 1학기 휴학증명서로 소방설비기사 전기분야,기계분야에 모두 응시가 가능합니다. "
+		},
+		{
+			"title":"<b>직무<\/b>가 등록된 경력증명서어디서 발급받나요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=7&dirId=709&docId=424119980&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=48&search_sort=0&spq=0",
+			"description":"경력증명서는 뜨는 거같은데 <b>직무<\/b>가 들어간 경력증명서는 어디서 ㅠㅠ때나요? 제가요양보호사로 일했는데... 국민연금공단 홈페이지를 접속하시게 되면 <b>전자<\/b>민원 &gt; 개인민원 &gt; 가입증명서(국\/영문) 순서로 클릭을 하셔서 발급 받으시면... "
+		},
+		{
+			"title":"전기기사와 <b>전자<\/b>기사 둘다있으면 좋은점좀알려주세요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=395395238&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=49&search_sort=0&spq=0",
+			"description":"... <b>전자<\/b>기사의 경우 분류: &gt;전기\/<b>전자<\/b> &gt; <b>전자<\/b>일반 <b>직무<\/b>번호 : 01 전기기사의 경우 분류: &gt;전기\/<b>전자<\/b> &gt; 전기일반 <b>직무<\/b>번호 : 02 이므로 둘의 자격증은 겹치지 않습니다! 만약 분류와 <b>직무<\/b>번호가 같으면 자격증은 한가지만 인정되기 때문에... "
+		},
+		{
+			"title":"대기환경기사, 수질환경기사 자격조건 문의 드립니다",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1122&docId=407684492&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=50&search_sort=0&spq=0",
+			"description":"... 대기환경기사, 수질환경기사 관련실무경력 중 전기<b>전자 직무<\/b>분야로 <b>전자 직무<\/b>분야와 연관되어 있는 경력이어야 합니다. 가장 정확한 실무경력 인정여부는 시험 주관처인 큐넷으로 직접 전화하셔서 확인 받으셔야 하며, 2년제... "
+		},
+		{
+			"title":"전기<b>전자<\/b>에 관해서",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=205142462&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=51&search_sort=0&spq=0",
+			"description":"... 전기ㆍ<b>전자 직무<\/b>분야와 관련된 학과 - 24 농림어업 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 142 토목 - 농어업토목기술사, 토목구조기술사, 토질및기초기술사... "
+		},
+		{
+			"title":"삼성<b>전자<\/b>에 들어가서 일하는게 꿈인데",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=12&dirId=12013754&docId=408187876&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=52&search_sort=0&spq=0",
+			"description":"... 삼성<b>전자<\/b>의 <b>직무<\/b>는 크게 연구, 생산, 경영지원으로 나눌 수 있고, 연구의 경우에는 연구직, 생산의 경우에는 반도체 엔지니어 or <b>전자<\/b>기기 엔지니어, 경영지원의 경우 인사직, 재무직, 관리직, 마케팅 등을 적으시면 됩니다.... "
+		},
+		{
+			"title":"LG<b>전자<\/b> 입단에 필요한 자격증",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=373456724&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=53&search_sort=0&spq=0",
+			"description":"... &gt;&gt; LG<b>전자<\/b> 영업<b>직무<\/b> 자소서는 어떻게 써야할까? &lt;취준생이라면 꼭 확인 해야 하는 취업꿀팁&gt; ▶[실전TEST] 취업문이 열리는 실전 문제풀이! 최신시사 TEST(클릭!) ▶직장인을 위한 초능력 딱 한 가지만 고른다면?(클릭!) ▶[헤드헌터... "
+		},
+		{
+			"title":"전기 및 <b>전자<\/b> 관련 기사\/산업기사 응시가능여부",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=244633968&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=54&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 202 전자 - 산업계측제어기술사, 전자응용기술사 - 임베디드기사 - 광학기사... "
+		},
+		{
+			"title":"삼성<b>전자<\/b> DS부문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=416017101&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=55&search_sort=0&spq=0",
+			"description":"... 대부분 현장직이 주를 이룹니다. 이를 더 자세히 알아보기 위해서는 삼성<b>전자<\/b> 채용 공고에 들어가셔서, <b>직무<\/b> 기술서를 살펴보시면 훨씬 자세하게 나옵니다. 이수 과목, 필요 역량, <b>직무<\/b> 정의 등.. 감사합니다. 채택 부탁드려요! "
+		},
+		{
+			"title":"하드웨어에 대한 지식이 있을 때 소프트웨어 개발 <b>직무<\/b>... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=409608863&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=56&search_sort=0&spq=0",
+			"description":"... 소프트웨어 <b>직무<\/b>라도 전기, <b>전자<\/b> 제품을 개발, 생산하는 회사에서는 하드웨어를 반드시 알아야 합니다. 이런 곳에서는 주로 제품을 동작시키기 위한 펌웨어를 개발하거나, OS를 사용할 때는 임베디드 개발을 하게 됩니다. 따라서, 주로... "
+		},
+		{
+			"title":"전기기사 유사<b>직무<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=401121205&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=57&search_sort=0&spq=0",
+			"description":"... 유사<b>직무<\/b>는 <b>전자<\/b>, 기계, 통신, 건설, 토목, 품질, 안전관리 등에서 일하면 경력으로 인정이 됩니다 큐넷에 전화해도 위와 같은 답변을 할 것입니다 인테리어 회사에서 어떤일을 하는가가 중요합니다 전기설비일을 하였다면... "
+		},
+		{
+			"title":"군산대학교 4년제 <b>전자<\/b>정보공학부... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=611&docId=185815152&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=58&search_sort=0&spq=0",
+			"description":"... 202 <b>전자 직무<\/b>분야와 관련된 학과 - 24 농림어업 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경․에너지 중 261 환경 직무분야와 관련된 학과 261-2 환경 - 자연환경관리기술사, 토양환경기술사... "
+		},
+		{
+			"title":"구미 삼성<b>전자<\/b> HDD조립<b>직무<\/b> 여사원 모집 공고",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=33662512&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=59&search_sort=0&spq=0",
+			"description":"... 아래 내용 참고하시고 많은 참여 바라며 중요한것은 추천인에 삼성<b>전자<\/b> 스토리지 사업부 제조혁신 그룹 김상환 대리로 해주시면 됩니다. 참고로 입사시 기숙사도 제공됩니다. www.gumisamsung.com 저기 여사원만 모집하는... "
+		},
+		{
+			"title":"<b>전자<\/b>공학과 자동차정비산업기사 응시 가능하나요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=266257568&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=60&search_sort=0&spq=0",
+			"description":"... 학점은행제 41학점 이수자 자동차정비산업기사 응시가능한 관련학과 중 <b>전자 직무<\/b>분야의 관련된 학과에 해당되어 전자공학과는 응시가 가능합니다. 학교측에서 2학년까지 수료했다는 수료(예정)증명서 발급이 가능한지 꼭 확인해... "
+		},
+		{
+			"title":"기술영업 \/ 구매<b>직무<\/b> 취업관련 여쭤봅니다 (전기<b>전자<\/b>공... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40607&docId=340538247&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=61&search_sort=0&spq=0",
+			"description":"서울소재 4년제 전기<b>전자<\/b>공학 전공 2021년 졸업예정자입니다. 기술영업, 구매<b>직무<\/b>로 취업하기를 희망합니다, 전체학점 3.7, 전공학점 4.3 학부 학생회장 교내 각종 서포터즈 관련 경력이 있고, 그외 자격증, 인턴을 이제 준비하려고... "
+		},
+		{
+			"title":"전기기사 자격요건 유사<b>직무<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=331853399&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=62&search_sort=0&spq=0",
+			"description":"... (훈련병 제외) 전기관련분야애서 일하거나 유사<b>직무<\/b>분야인 <b>전자<\/b>, 통신, 건설, 토목, 품질, 안전관리 등에서 일하면 경력으로 인정이 됩니다 질문내용을 보면 금융회계를 제외하고 다 해당이 되며, 전기관련 행정업무도 인정이 됩니다 "
+		},
+		{
+			"title":"전기 . <b>전자<\/b> , 정보처리 산업기사 응시자격 질문이요!(50)",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=208186362&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=63&search_sort=0&spq=0",
+			"description":"... 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 20 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 "
+		},
+		{
+			"title":"학점 은행 동일<b>직무<\/b> 자격증",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40101&docId=57307171&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=64&search_sort=0&spq=0",
+			"description":"... 동일<b>직무<\/b> 자격증2개(<b>전자<\/b>상거래2급,텔레마케팅관리사)를 제가 전공하려는 경영학으로 전공선택과 일반선택으로 나눌때는 둘중 하나를 포기하지 않아도 되는지요? 안녕 하세요. 편입학 컨설턴트 입니다. 질문에 답변을 드립니다. 질문... "
+		},
+		{
+			"title":"조립원 <b>직무<\/b>내용 전기, <b>전자<\/b>분야 설치및 조립업무... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=306200777&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=65&search_sort=0&spq=0",
+			"description":"전기취업 전기·<b>전자<\/b> 부품·제품 조립원 <b>직무<\/b>내용 전기, <b>전자<\/b>분야 설치및 조립업무 - 전기판넬설치 - PLC 수배전반 조립등의 업무 - <b>전자<\/b>부품 조립 업무 - 제품개발 연구 국민연금 고용보험 산재보험 의료보험 퇴직금 청년층,전기<b>전자<\/b>과... "
+		},
+		{
+			"title":"산업안전산업기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=423270544&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=66&search_sort=0&spq=0",
+			"description":"... 전기ㆍ<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 22 식품가공 직무분야와 관련된 학과 - 23 인쇄ㆍ목재ㆍ가구ㆍ공예 직무분야와 관련된 학과 - 24 농림어업 직무분야와 관련된 학과 - 25 안전관리 중 251... "
+		},
+		{
+			"title":"<b>직무<\/b>정지가처분신청 가능 한가요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60206&docId=353410505&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=67&search_sort=0&spq=0",
+			"description":"... 진실을 알리는것 때문에 고소를 당했는데 공무원한테 민원을 넣으니 반복민원이지 않은데 반복민원이라고 하고 고소인측 변호사는 허위사실로 저를 고소했는데 억울해서 그러는데 <b>전자<\/b>소송으로 <b>직무<\/b>정지가처분 신청 가능할까요?... "
+		},
+		{
+			"title":"산업안전기사 응시자격 문의",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=414379936&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=68&search_sort=0&spq=0",
+			"description":"... 전기ㆍ<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 22 식품가공 직무분야와 관련된 학과 - 23 인쇄ㆍ목재ㆍ가구ㆍ공예 직무분야와 관련된 학과 - 24 농림어업 직무분야와 관련된 학과 - 25 안전관리 중 251... "
+		},
+		{
+			"title":"건출설비 산업기사 자격요건 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=415270021&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=69&search_sort=0&spq=0",
+			"description":"... 전기ㆍ<b>전자 직무<\/b>분야와 관련된 학과 &lt;------ 전자공학과 - 24 농림어업 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 따라서 전자공학 전공해서 2년제 전문대 졸업하신... "
+		},
+		{
+			"title":"전기산업기사 <b>직무<\/b>분야",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=341777208&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=70&search_sort=0&spq=0",
+			"description":"전기산업기사 <b>직무<\/b>분야가 20.전기-<b>전자<\/b> 인데 유사인정 <b>직무<\/b>분야가 여러가지가 있더라구요 제가 공군 항공운수로 전역을 했는데 항공운수가 국기검에서 인정되는 <b>직무<\/b>분야가 16.기계 이더라구요 기계가 전기 산업기사 유사인정... "
+		},
+		{
+			"title":"품질경영기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=415954016&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=71&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 22 식품가공 직무분야와 관련된 학과 - 23 인쇄․목재․가구․공예 직무분야와 관련된 학과 - 24 농림어업 직무분야와 관련된 학과 - 25 안전관리... "
+		},
+		{
+			"title":"해외영업마케팅 <b>직무<\/b>의 업무가 궁금합니다 (빌트인... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40607&docId=327747420&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=72&search_sort=0&spq=0",
+			"description":"안녕하세요 삼성<b>전자<\/b> 해외영업마케팅 <b>직무<\/b>에 지원하였습니다. 최근 삼성<b>전자<\/b>와 LG<b>전자<\/b>가 빌트인 가전 공략을 시작했는데요, 빌트인 가전과 관련해 해외영업마케팅 <b>직무<\/b>의 업무 범위와 일과 등이 궁금합니다. 마케팅 <b>직무<\/b>에 포커스를... "
+		},
+		{
+			"title":"기사 자격증 취득 조건 중 동일<b>직무<\/b> 분야 항목에 대하여..",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=56740405&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=73&search_sort=0&spq=0",
+			"description":"... 항 공 기계, <b>전자<\/b>, 통신<b>직무<\/b>분야 및 산업응용<b>직무<\/b>분야 중 공장관리, 품질경영, 품질관리, 포장 업무 9. 토 목 기계, 전기, 건축, 광업자원, 국토개발, 농림, 해양, 에너지, 안전관리, 환경, 교통<b>직무<\/b>분야 및 산업응용<b>직무<\/b>분야중 공장관리... "
+		},
+		{
+			"title":"<b>전자<\/b>제품, 생산직 혹은 오퍼레이터의 전기 유사<b>직무<\/b>... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=185787578&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=74&search_sort=0&spq=0",
+			"description":"... 유사<b>직무<\/b> 분야 인건가요? 전기<b>전자<\/b>관련 제품제조직도 응시자격 <b>직무<\/b>에 관련하여 인정가능합니다. 다만 기술사까지 바라보신다면 나중을 위해서라도 기술직으로 취업하심이 좋을뜻 합니다. 나이나 학력때문에 공장 공무쪽으로 취업이... "
+		},
+		{
+			"title":"무선설비산업기사 관련 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=417528802&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=75&search_sort=0&spq=0",
+			"description":"... ※ 무선설비기사, 무선설비산업기사 등에 모두 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 16 기계 중 165항공 직무분야와 관련된 학과 - 20 전기ㆍ<b>전자 직무<\/b>분야와 관련된 학과... "
+		},
+		{
+			"title":"sk이노베이션 , lg<b>전자<\/b> 연봉 어떤",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=10903&docId=306658627&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=76&search_sort=0&spq=0",
+			"description":"... ■ SK이노베이션 연봉정보 &gt;&gt; SK이노베이션 직급\/<b>직무<\/b>\/연령별 연봉정보 더 자세히보러가기 ■ LG<b>전자<\/b> 연봉정보 &gt;&gt; LG<b>전자<\/b> 직급\/<b>직무<\/b>\/연령별 연봉정보 더 자세히보러가기 답변에 도움이 되셨길 바라며, 원하시는 곳에 취업하시기를... "
+		},
+		{
+			"title":"<b>전자<\/b>정보공학과 졸업후 할수 있는 <b>직무<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110504&docId=325231107&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=77&search_sort=0&spq=0",
+			"description":"4년제 대학교 <b>전자<\/b>정보공학과 2학년을 마치고 입대했습니다. 군대에서 진로에 대한 방향을 고민하다가 공기업으로... <b>직무<\/b>선택란에 &quot;IT\/인터넷, 연구개발\/설계, 전문\/특수직&quot; 등이 있던데 저희학과는 어느 <b>직무<\/b>부분으로 가는지... "
+		},
+		{
+			"title":"삼성<b>전자 직무<\/b> 및 채용 관련 질문입니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=349727176&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=78&search_sort=0&spq=0",
+			"description":"안녕하세요 현재 대학교 3학년인데 비단 삼성<b>전자<\/b> 뿐이 아니라, 채용 방식에 궁금한 점이 있어서 질문드립니다.... 있는 <b>직무<\/b>?들인것같습니다.) 이런식으로 나뉘어서 지원을 하게 되어있나요? 감사합니다. 다 나눔 대기업은... "
+		},
+		{
+			"title":"산업기사에서 기사로 넘어갈려하는데 경력관련해서... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=415063734&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=79&search_sort=0&spq=0",
+			"description":"월요일 공군 기술병(통신전자전기) 입대 청년입니다 제가 의공산업기사가 있고(전기<b>전자직무<\/b>분야) 기사로 넘어갈려 하는데 군경력으로 추후에 응시할려 합니다 그런데 제가 아직 자대배치를 안해서 큐넷 군경력 인정 범위 기준... "
+		},
+		{
+			"title":"전기전공 승강기 기사 응시자격 되나요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=357378957&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=80&search_sort=0&spq=0",
+			"description":"... 전기ㆍ<b>전자직무<\/b>분야와 관련된 학과 - 21 정보통신 중 212 방송무선 직무분야와 관련된 학과 - 21 정보통신 중 213 통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 162... "
+		},
+		{
+			"title":"방송통신산업기사는 저의 상황에서 딸수있나요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=11004&docId=414592032&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=81&search_sort=0&spq=0",
+			"description":"... ※ 방송통신산업기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 16 기계 중 165항공 직무분야와 관련된 학과 - 20 전기ㆍ<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 중 212 방송․무선... "
+		},
+		{
+			"title":"육군 기술행정병 전기산업기사 경력인정 지망",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=6030201&docId=422802595&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=82&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 그리고 장비를 취급하는 주특기는 대부분 기계 분야에 해당되어... "
+		},
+		{
+			"title":"전문대 건축과 졸업시 전기산업기사 시험 칠 자격 되나요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=422451970&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=83&search_sort=0&spq=0",
+			"description":"... 전기ㆍ<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 건축과는 건설 직무분야와 관련된 학과로 전기산업기사에 응시가... "
+		},
+		{
+			"title":"전기공학과 <b>전자<\/b>공학과 어느곳이 더 좋",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=11050403&docId=408766776&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=84&search_sort=0&spq=0",
+			"description":"... 두 학과의 강점을 알려주세요 그리고 한국전력 ict<b>직무<\/b>에서는 <b>전자<\/b>공학과가 유리할까요? 전기공학은 에너지 전문 분야이고 <b>전자<\/b>공학은 데이터, 반도체 등 더 광범위한 분야입니다. 한전의 경우 전기공학이 조금 더 밀접전공입니다. "
+		},
+		{
+			"title":"산업안전산업기사 자격요건 군경력",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=422521084&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=85&search_sort=0&spq=0",
+			"description":"... 전기ㆍ<b>전자 직무<\/b>분야 - 21 정보통신 직무분야 - 22 식품가공 직무분야 &lt;------- 조리병 (2131) - 23 인쇄ㆍ목재ㆍ가구ㆍ공예 직무분야 - 24 농림어업 직무분야 - 25 안전관리 중 251 안전관리 직무분야 - 26 환경ㆍ에너지 직무분야... "
+		},
+		{
+			"title":"전기기능장 유사<b>직무<\/b> 경력에 관련해서..",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=419870633&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=86&search_sort=0&spq=0",
+			"description":"... 전기기능장에 응시가 가능한 유사<b>직무<\/b>분야의 경력은 다양합니다. 전기,<b>전자<\/b>,정보통신,정보처리,기계,건축,토목,생산관리,품질관리,안전관리등의 실무경력은 모두 전기기능장에 응시가 가능한 유사<b>직무<\/b>분야의 경력입니다. 즉... "
+		},
+		{
+			"title":"건축전기설비 기술사 경력 인정 범위 관련 질문드립니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=410552563&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=87&search_sort=0&spq=0",
+			"description":"... ※ 유사 직무 분야 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 08 문화ㆍ예술ㆍ디자인ㆍ방송 중 083 방송 직무분야 - 14 건설 직무분야 - 16 기계 직무분야 - 17 재료 직무분야 - 20 전기․<b>전자 직무<\/b>분야 - 21 정보통신 직무분야 - 25... "
+		},
+		{
+			"title":"정보통신기사 고졸 직장인 취득 질문입니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=11004&docId=411470399&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=88&search_sort=0&spq=0",
+			"description":"... ※ 유사 직무 분야 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 16 기계 중 165항공 직무분야 - 20 전기ㆍ<b>전자 직무<\/b>분야 - 21 정보통신 중 212 방송․무선 직무분야 - 21 정보통신 중 213 통신 직무분야 "
+		},
+		{
+			"title":"산업안전기사 시험에 응시하고 싶은데",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1126&docId=393472360&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=89&search_sort=0&spq=0",
+			"description":"... 안녕하세요. - 보건.의료 중 - 보건.의료 직무분야 - 건설 직무분야 - 광업자원 직무분야 - 기계 직무분야 - 재료 직무분야 - 화학 직무분야 - 섬유ㆍ의복 직무분야 - 전기ㆍ<b>전자 직무<\/b>분야 - 정보통신 직무분야 "
+		},
+		{
+			"title":"삼성<b>전자<\/b> 무선사업부 마케팅 해외영업 차이",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40401&docId=382935652&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=90&search_sort=0&spq=0",
+			"description":"삼성<b>전자<\/b> 무선사업부 <b>직무<\/b>에 마케팅 해외영업이 있던데 이 둘 차이가 뭔가요?? 해외영업은 말 그대로 해외 다른 나라 고객과의 영업활동을 전담하는 <b>직무<\/b>입니다. 마케팅은 무선사업부의 판매 활성화, 판매 촉진, 시장 조사 등의 마케팅... "
+		},
+		{
+			"title":"산업안전산업기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=421349398&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=91&search_sort=0&spq=0",
+			"description":"... 전기ㆍ<b>전자 직무<\/b>분야와 관련된 학과 - 정보통신 직무분야와 관련된 학과 - 식품가공 직무분야와 관련된 학과 - 인쇄ㆍ목재ㆍ가구ㆍ공예 직무분야와 관련된 학과 - 농림어업 직무분야와 관련된 학과 - 안전관리 중 안전관리... "
+		},
+		{
+			"title":"<b>전자<\/b>기사, 전기기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=111&docId=141972353&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=92&search_sort=0&spq=0",
+			"description":"... 답변 - <b>전자<\/b>기사, 전기기사의 <b>직무<\/b> 및 진로 1).<b>전자<\/b>기사 -<b>직무<\/b> <b>전자<\/b>에 관한 공학기초지식을 바탕으로 기술기초이론을 소지하고 <b>전자<\/b>기기 및 <b>전자<\/b>회로 설계업무 담당. 또한 부품가공 및 조립, 검사 등의 작업전반을 관리하며 부분적으로... "
+		},
+		{
+			"title":"큐넷 응시자격 자가진단 정확한가요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110704&docId=408003532&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=93&search_sort=0&spq=0",
+			"description":"... 전기ㆍ<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 22 식품가공 직무분야와 관련된 학과 - 23 인쇄ㆍ목재ㆍ가구ㆍ공예 직무분야와 관련된 학과 - 24 농림어업 직무분야와 관련된 학과 - 25 안전관리 중 251... "
+		},
+		{
+			"title":"<b>전자<\/b>공학과 지원",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=11050404&docId=375369671&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=94&search_sort=0&spq=0",
+			"description":"... <b>전자<\/b>공학과에 지원했냐 하면 어떤식으로 기계와 <b>전자<\/b>를 섞어야 할까요? 도무지 감이 안잡혀서...  기계나 <b>전자<\/b>나 <b>직무<\/b>랑 하는일이 그렇게 차이가없습니다 전기차로가면 기계보다는 반도체쪽인. <b>전자<\/b>가 필요하므로 그런식으로 어필하세요"
+		},
+		{
+			"title":"전기기사 <b>전자<\/b>기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=111&docId=159603859&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=95&search_sort=0&spq=0",
+			"description":"... 2).<b>전자<\/b>공학과 <b>직무<\/b> - <b>전자<\/b>에 관한 공학기초지식을 바탕으로 기술기초이론을 소지하고 <b>전자<\/b>기기 및 <b>전자<\/b>회로 설계업무 담당. 또한 부품가공 및 조립, 검사 등의 작업전반을 관리하며 부분적으로 기계기구의 설치와 보수작업을 수행.... "
+		},
+		{
+			"title":"<b>전자<\/b>전기공학부 여학생 진로.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=160059239&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=96&search_sort=0&spq=0",
+			"description":"... 1).<b>전자<\/b>분야의 <b>직무<\/b> 및 진로 -<b>직무<\/b> <b>전자<\/b>에 관한 공학기초지식을 바탕으로 기술기초이론을 소지하고 <b>전자<\/b>기기 및 <b>전자<\/b>회로 설계업무 담당. 또한 부품가공 및 조립, 검사 등의 작업전반을 관리하며 부분적으로 기계기구의 설치와... "
+		},
+		{
+			"title":"카카오 삼성<b>전자<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40612&docId=398682022&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=97&search_sort=0&spq=0",
+			"description":"제 목표가 카카오나 삼성<b>전자<\/b>에 취업하는거라서 지금 공부 빡시게 하고싶은데 카카오랑 삼성<b>전자<\/b>에 각각 어떤 부서가 있는지랑 부서별 나오면 좋은 학과??들 이나 대학교 좀 알려주세요 헉~ 10만명 근무하는 삼성<b>전자<\/b> 부서와 <b>직무<\/b>를... "
+		},
+		{
+			"title":"LG<b>전자<\/b> 연구원 평균 연봉은 얼마정도일까요??",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=311393420&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=98&search_sort=0&spq=0",
+			"description":"... &lt; LG<b>전자<\/b> _ 연구 <b>직무<\/b> 직급별 평균연봉 &gt; &gt;&gt; LG<b>전자<\/b> 평균연봉정보 더 자세히 보러가기 사원기준 4,224만원 이며, 무엇을 연구하느냐에 따라 연봉이 달라질 수 있으니 참고용으로만 이용해주시길 바랍니다.^^ 답변에 도움이 되셨길... "
+		},
+		{
+			"title":"항공정비사전공 관련학과 전기맞나요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=11050404&docId=419954200&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=99&search_sort=0&spq=0",
+			"description":"... 전기․<b>전자 직무<\/b>분야와 관련된 학과 - 21 정보통신 직무분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 202 전자 - 산업계측제어기술사, 전자응용기술사 - 임베디드기사... "
+		},
+		{
+			"title":"자격증 응시자격이 되는지 여쭤봐요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=420756371&qb=7KCE7J6QIOyngeustA==&enc=utf8&section=kin.qna&rank=100&search_sort=0&spq=0",
+			"description":"... - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 14 건설직무분야 - 16 기계 직무분야 - 17 재료 직무분야 - 18 화학 직무분야 - 20 전기ㆍ<b>전자직무<\/b>분야 - 21 정보통신 중 212 방송무선 직무분야 - 21 정보통신 중 213 통신 직무분야 - 25... "
+		}
+	]
+}

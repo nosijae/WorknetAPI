@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:06 +0900",
+	"total":1017,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"식품<b>재료<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028799&cid=42117&categoryId=42117",
+			"description":" 식품제조 및 가공에 사용되는 식품<b>재료<\/b>를 연구·개발한다. [수행<b>직무<\/b>] 식품<b>재료<\/b>에 대한 추출, 분리, 정제, 반응, 발효 등의 공정을 수립하고 저장성, 안전성 및 안정성을 실험한다. 생산된 식품이 소비단계에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바이오세라믹<b>재료<\/b>시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658769&cid=42117&categoryId=42117",
+			"description":" 바이오세라믹<b>재료<\/b>의 적절한 제조·판매를 위해 물리, 화학, 생물학적 안정성 및 성능을 시험한다. [수행<b>직무<\/b>] 생체<b>재료<\/b>의 제조 및 품질관리기준(GMP:Good Manufacturing Practice, 의료기기, 의약품 및 화장품 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바이오세라믹<b>재료<\/b>포장원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658766&cid=42117&categoryId=42117",
+			"description":" 생체<b>재료<\/b>를 제시된 유효기간 내에 안전하게 보존하기 위한 세척, 포장, 라벨링, 멸균, 클린룸 관리 업무를 수행한다. [수행<b>직무<\/b>] 생체<b>재료<\/b>의 종류에 따라 세척방법을 확인한다. 세척제의 종류, 양, 비율... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체<b>재료<\/b>성능평가기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026945&cid=42117&categoryId=42117",
+			"description":" 반도체 공정기술 및 고객 요구성능을 이해하고, <b>재료<\/b>개발 또는 생산계획수립을 지원하고, 반도체 <b>재료<\/b>의 분석, 시험평가, 보완, 검증작업을 반복·수행한다. [수행<b>직무<\/b>] 반도체<b>재료<\/b> 성능평가 계획을 수립하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>조직평가산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054115&cid=42114&categoryId=42114",
+			"description":" <b>재료<\/b>조직평가산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>재료<\/b>조직평가산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 복합형(필답형+작업형)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191924034_RWX0W8IN8.jpg\/da6_529_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"반도체<b>재료<\/b>안전관리기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029164&cid=42117&categoryId=42117",
+			"description":" 반도체<b>재료<\/b>의 물성, 물질안전자료, 제반 법규 및 관리규정 등을 이해하고, <b>재료<\/b> 개발·생산현장을 고려한 사고발생 요인을 분석·예방하여 안전한 작업환경을 확보한다. [수행<b>직무<\/b>] 반도체<b>재료<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체<b>재료<\/b>생산관리기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658743&cid=42117&categoryId=42117",
+			"description":" 반도체 공정기술 및 고객 요구성능을 이해하고, <b>재료<\/b>개발·생산계획에 따라 원료, 부품, 장치 및 장비를 선정하고, 생산공정관리기법을 활용하여 납기, 생산성 향상을 지원한다. [수행<b>직무<\/b>] 반도체 <b>재료<\/b>개발... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바이오세라믹<b>재료<\/b>품질관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658765&cid=42117&categoryId=42117",
+			"description":" 수요자의 요구에 적합한 품질의 생체<b>재료<\/b>를 합리적으로 생산하기 위해 수입·공정·출하검사 및 밸리데이션업무를 수행한다. [수행<b>직무<\/b>] 고품질의 생체<b>재료<\/b>를 합리적으로 생산하기 위해 수입검사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>기술서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831239&cid=42279&categoryId=42279",
+			"description":" <b>직무<\/b>기술서란 해당 <b>직무<\/b>의 특징과 <b>직무<\/b>에 필요한 요건을 기록한 서식이다. [<b>직무<\/b>기술서의 개요] 1) <b>직무<\/b>기술서의 정의 <b>직무<\/b>기술서란 어떠한 <b>직무<\/b>에 대해 <b>직무<\/b>분석을 통하여 해당<b>직무<\/b>의 성격이나 <b>직무<\/b>개요... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20220602171810328_LYVQ9S7KU.jpg\/hb10_3786_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>명세서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1594679&cid=50304&categoryId=50304",
+			"description":"예컨대 ① <b>직무<\/b>내용, ② 노동부담, ③ 노동환경, ④ 위험도, ⑤ <b>직무<\/b>조건, ⑥ 결과책임, ⑦ 지도책임, ⑧ 감독책임, ⑨ 권한 , ⑩ 용구(用具) 및 <b>재료<\/b> 등을 밝혀 둔 것이다. 경우에 따라서는 <b>직무<\/b>담당자의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전선<b>재료<\/b>시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658602&cid=42117&categoryId=42117",
+			"description":" 각종 분석방법을 사용해서 전선제조에 사용되는 금속, 플라스틱, 화학제품 등의 원료들의 특성을 시험·검사한다. [수행<b>직무<\/b>] 각종 검사기구를 사용해서 시험할 금속선재의 경도, 중량, 하중, 인장력 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>재료<\/b>용해원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027095&cid=42117&categoryId=42117",
+			"description":" 전선의 원<b>재료<\/b>로 사용되는 선재를 제조하기 위해서 동·알루미늄 등의 금속<b>재료<\/b>를 용해하고 용탕을 관리하는 설비를 조작한다. [수행<b>직무<\/b>] 용해로의 이상 유무를 확인하고 용해작업을 통제하는 제어장치에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>재료<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053976&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 금속<b>재료<\/b>기사 ① 금속<b>재료<\/b>기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는... 금속을 얻는 제련, 제련된 금속을 순도 높게 만드는 정련작업과 관련된 <b>직무<\/b>를 수행한다. (3) 과정평가형",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191953956_XW4ETZJIV.jpg\/da6_390_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"고분자<b>재료<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025146&cid=42117&categoryId=42117",
+			"description":" 고분자구조 및 물성, 중합체의 결정성 등에 관한 고분자<b>재료<\/b>의 구조에 관하여 연구한다. [수행<b>직무<\/b>] 고분자의 합성법, 중합반응 메커니즘과 반응속도, 고분자의 구조 및 분자량 결정법, 고분자의 구조와 물성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"탄소<b>재료<\/b>시험분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026950&cid=42117&categoryId=42117",
+			"description":" 화학적, 물리적, 광학적, 표면분석 등을 실시하여 탄소로 이루어진 다양한 <b>재료<\/b>의 특성을 파악한다. [수행<b>직무<\/b>] 카본블랙, 탄소섬유, 활성탄소, 인조흑연, 탄소복합<b>재료<\/b> 등 다양한 탄소제품원료의 원소특성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>재료<\/b>기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053977&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 금속<b>재료<\/b>기능장   ① 금속<b>재료<\/b>기능장이란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 금속<b>재료<\/b>기능장 시험에 합격하여 그 자격을 취득한 자를 말한다.   ② 금속에 관한 전문적인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180521180340854_71T80B2DB.jpg\/da6_391_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"금속<b>재료<\/b>기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053978&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요   ① 금속<b>재료<\/b>기술사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 금속<b>재료<\/b>기술사 시험에 합격하여 그 자격을 취득한 자를 말한다.   ② 금속<b>재료<\/b>기술사는 현장에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180521181042641_2AS6A3FEC.jpg\/da6_392_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"콘크리트<b>재료<\/b>시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665267&cid=42117&categoryId=42117",
+			"description":"콘크리트 <b>재료<\/b>의 품질시험을 한다. 공인기관에서 시험성적서를 확인하여 혼화재를 선정한다. 구조물에 따른 강도분류와 계절에 따른 대기온도에 따라 기본배합을 설계한다. 콘크리트 <b>재료<\/b>를 계량하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>재료<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053979&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 금속<b>재료<\/b>산업기사   ① 금속<b>재료<\/b>산업기사란 산업인력공단에서 시행하는 금속<b>재료<\/b>산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다.   ② 금속<b>재료<\/b>에 관한 기본적인 지식과 기술을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20170712203818081_HC14W378E.jpg\/da6_393_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"건설<b>재료<\/b>시험기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970406&cid=42114&categoryId=42114",
+			"description":"건설<b>재료<\/b>가 배합설계도의 강도와 일치하는지 철저한 검사를 통해 건물 및 시설의 안전이 확보될 수 있도록 이를 담당할 전문인력이 필요하게 되어 건설<b>재료<\/b>시험기사자격이 제정되었다. (2) 주요 업무 ①... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120703181601313_PCBR6CIK6.jpg\/da6_12_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"통조림<b>재료<\/b>세척원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029006&cid=42117&categoryId=42117",
+			"description":" 표면의 먼지, 흙 등의 이물질을 제거하고자 통조림 원료인 농·수산물을 세척용수(수돗물, 해수)로 세척한다. [수행<b>직무<\/b>] 컨베이어를 통해 자동세척기(Rotary Washer)에 원료를 넣는다. 세척용수 밸브를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"탄소복합<b>재료<\/b>제조기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953560&cid=42117&categoryId=42117",
+			"description":" 탄소<b>재료<\/b>에 점결재를 혼합하고 성형, 건조 경화, 저온탄화, 고온탄화 공정을 통하여 탄소·탄소 간의 복합재로 구성된 탄소제품을 제조한다. [수행<b>직무<\/b>] 탄소-탄소복합<b>재료<\/b>(Carbon-Carbon Composites:탄소계의 입자... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>재료<\/b>시험기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053980&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 금속<b>재료<\/b>시험기능사 ① 금속<b>재료<\/b>시험기능사란 산업인력공단에서 시행하는 금속<b>재료<\/b>시험기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 금속공학에 관한 기본적인 지식과 기술을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801161647603_TQN0WXJOQ.jpg\/da6_394_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"전자세라믹<b>재료<\/b>성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027382&cid=42117&categoryId=42117",
+			"description":"형성), 박막성형(박막성형기를 이용하여 세라믹 <b>재료<\/b>를 1um 미만의 균일한 막 상태로 모양을 형성) 작업을 수행한다. 성형검사기 또는 성형검사 설비를 운영하여 성형체를 검사한다. 검사성적서를 작성한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>재료<\/b>시험기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970405&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 건설<b>재료<\/b>시험기능사 ① 건설<b>재료<\/b>시험기능사란 산업인력공단에서 시행하는 건설<b>재료<\/b>시험기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 건설<b>재료<\/b>시험기능사는 이를 예방하기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191008997_XTT4HX3EX.jpg\/da6_11_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"바이오세라믹<b>재료<\/b>용융원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658768&cid=42117&categoryId=42117",
+			"description":" 결정화 유리의 적절한 제조를 위해 배치설계(원<b>재료<\/b> 조성에 따른 용융<b>재료<\/b> 조성을 배합), 용융성형, 결정화 열처리 공정을 수행한다. [수행<b>직무<\/b>] 원<b>재료<\/b>의 조성에 따라 산술적 근사법, 모의 방정식 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체금속<b>재료<\/b>개발연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026922&cid=42117&categoryId=42117",
+			"description":" 반도체소자·공정·<b>재료<\/b> 기술로드맵 및 고객 요구성능을 이해하고, 소자제조공정을 위한 금속<b>재료<\/b>를 연구·개발하여 반도체소자의 미세화 및 고집적화를 지원한다. [수행<b>직무<\/b>] 반도체 금속막증착, 칩접합 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체광학<b>재료<\/b>개발연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664921&cid=42117&categoryId=42117",
+			"description":" 반도체소자·공정·<b>재료<\/b> 기술로드맵 및 고객 요구성능을 이해하고, 소자제조 공정·장비응용을 위한 광학<b>재료<\/b>를 연구·개발하여 반도체소자의 미세화 및 고집적화를 지원한다. [수행<b>직무<\/b>] 반도체 사진현상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체가스<b>재료<\/b>개발연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026919&cid=42117&categoryId=42117",
+			"description":" 반도체소자·공정·<b>재료<\/b> 기술로드맵 및 고객 요구성능을 이해하고, 소자제조공정을 위한 가스<b>재료<\/b>를 연구·개발하여 반도체소자의 미세화 및 고집적화를 지원한다. [수행<b>직무<\/b>] 반도체 식각, 이온주입, 확산... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유기<b>재료<\/b>피복연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025165&cid=42117&categoryId=42117",
+			"description":" 강판에 유기물질을 피복(Coating)하여 도장성과 내구성을 높이기 위한 연구를 수행한다. [수행<b>직무<\/b>] 합성하고자 하는 수지의 견본(Sample)을 전처리하여 분자구조를 파악한다. 합성하고자 하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체금속<b>재료<\/b>공정연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026923&cid=42117&categoryId=42117",
+			"description":" 반도체소자·공정 기술로드맵 및 고객 요구성능을 이해하고, 소재, 부품, 장치, 장비기술 기반으로 금속<b>재료<\/b> 공정기술을 연구·개발하여 반도체 미세화 및 고집적화를 지원한다. [수행<b>직무<\/b>] 반도체 금속막증착... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체광학<b>재료<\/b>공정연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026921&cid=42117&categoryId=42117",
+			"description":" 반도체소자·공정 기술로드맵 및 고객 요구성능을 이해하고, 소재, 부품, 장치, 장비기술 기반으로 공학<b>재료<\/b> 공정기술을 연구·개발하여 반도체 미세화 및 고집적화를 지원한다. [수행<b>직무<\/b>] 반도체 사진현상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체가스<b>재료<\/b>공정연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026920&cid=42117&categoryId=42117",
+			"description":" 반도체소자·공정 기술로드맵 및 고객 요구성능을 이해하고, 소재, 부품, 장치, 장비기술 기반으로 가스<b>재료<\/b> 공정기술을 연구·개발하여 반도체 미세화 및 고집적화를 지원한다. [수행<b>직무<\/b>] 반도체 식각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체<b>재료<\/b>구매관리기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024713&cid=42117&categoryId=42117",
+			"description":" 반도체 <b>재료<\/b>의 개발 또는 생산을 위해 필요한 소재, 부품, 장치 제조업체 평가·선정, 구매발주, 납기관리, 재고관리 등의 업무를 수행한다. [수행<b>직무<\/b>] 반도체 소재, 부품, 장치 제조업체 대상으로 구매물품에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자세라믹<b>재료<\/b>후가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027384&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 가공작업 표준에 따라 세라믹소성체, 세정액, 전극<b>재료<\/b>, 코팅<b>재료<\/b>, 분위기 형성 가스(산소, 질소, 아르곤 등)를 준비한다. 세정설비, 코팅설비, 현미경, 전기로, 스크린프린터, 기타 가공설비 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체<b>재료<\/b>품질관리기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024760&cid=42117&categoryId=42117",
+			"description":" 반도체 공정기술 및 고객의 요구성능을 이해하고, <b>재료<\/b>개발·생산을 위한 원료선정, 제조사양, 취급방법, 품질요구수준 등을 결정하고, 평가, 개선, 유지관리업무를 수행한다. [수행<b>직무<\/b>] 반도체 공정 및 고객... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>재료<\/b>시험산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970407&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요   ① 건설<b>재료<\/b>는 토목공사, 건축공사 등 각종 건축물의 기초가 되고, 건축물의 견고함과 내구성을 좌우한다.   ② 건설현장에서 사용되는 건설<b>재료<\/b>가 배합설계도의 강도와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120703181601310_8EFV7RTEZ.jpg\/da6_13_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"반도체웨이퍼<b>재료<\/b>개발연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026924&cid=42117&categoryId=42117",
+			"description":" 반도체소자·공정·<b>재료<\/b> 기술로드맵 및 고객 요구성능을 이해하고, 소자제조공정을 위한 웨이퍼<b>재료<\/b>를 연구·개발하여 반도체소자의 미세화 및 고집적화를 지원한다. [수행<b>직무<\/b>] 반도체소자 및 공정연구원과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자세라믹<b>재료<\/b>소결원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027383&cid=42117&categoryId=42117",
+			"description":" 세라믹 소재에 전기전자 소재의 특성을 구현하기 위해 소결, 재열처리 작업을 수행한다. [수행<b>직무<\/b>] 작업표준에 따라 소결로, 온도표준표, 소성로, 측정기구, 온도측정표준시편, 온도측정설비, 내화판을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체웨이퍼<b>재료<\/b>공정연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026925&cid=42117&categoryId=42117",
+			"description":" 반도체소자·공정 기술로드맵 및 고객 요구성능을 이해하고, 소재, 부품, 장치, 장비기술 기반으로 웨이퍼<b>재료<\/b> 공정기술을 연구·개발하여 반도체 미세화 및 고집적화를 지원한다. [수행<b>직무<\/b>] 반도체 계측검사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바이오세라믹<b>재료<\/b>가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658772&cid=42117&categoryId=42117",
+			"description":" 연마, 기계가공, CNC가공 등의 작업을 수행하여 바이오세라믹 <b>재료<\/b>를 만든다. [수행<b>직무<\/b>] 작업표준서, 도면 및 제조지시서에 따라 작업순서를 확인하고 가공작업 방법, 측정 및 수정방법을 결정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바이오세라믹<b>재료<\/b>합성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658764&cid=42117&categoryId=42117",
+			"description":" 생체<b>재료<\/b>의 적절한 제조를 위해 필요한 원료분말을 선정하고, 분말특성 확인, 분쇄, 과립화 및 혼합·안료배합을 한다. [수행<b>직무<\/b>] 제품 생산에 필요한 원료(지르코니아, 알루미나, 용매 등)의 적합 유무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바이오세라믹<b>재료<\/b>성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658771&cid=42117&categoryId=42117",
+			"description":" 사출, 프레스, 슬립캐스팅, 냉간정수압성형(CIP) 등의 공정을 수행하여 바이오세라믹<b>재료<\/b>를 성형한다. [수행<b>직무<\/b>] 작업 방법에 따라 사출성형 공정(점성을 가진 원료를 희망하는 형상을 가진 틀 안에 압력을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체화학약품<b>재료<\/b>개발연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658629&cid=42117&categoryId=42117",
+			"description":" 반도체소자·공정·<b>재료<\/b> 기술로드맵 및 고객 요구성능을 이해하고, 소자제조공정을 위한 화학약품<b>재료<\/b>를 연구·개발하여 반도체소자의 미세화 및 고집적화를 지원한다. [수행<b>직무<\/b>] 반도체 사진현상, 세정, 연마... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체화학약품<b>재료<\/b>공정연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026926&cid=42117&categoryId=42117",
+			"description":" 반도체소자·공정 기술로드맵 및 고객 요구성능을 이해하고, 소재, 부품, 장치, 장비기술 기반으로 화학약품<b>재료<\/b> 공정기술을 연구·개발하여 반도체 미세화 및 고집적화를 지원한다. [수행<b>직무<\/b>] 반도체... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내열구조소재<b>재료<\/b>혼합원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658815&cid=42117&categoryId=42117",
+			"description":" 내열구조 세라믹을 제조하기 위해 원료혼합, 혼합분말의 특성 확인, 과립제조 작업을 수행한다. [수행<b>직무<\/b>] 선별된 원료 분말의 특성을 확인하고 제품 생산에 적합한지 판단한다. 원료 혼합기의 종류, 용량... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바이오세라믹<b>재료<\/b>소결원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658770&cid=42117&categoryId=42117",
+			"description":" 세라믹 분말 성형체를 열처리하여 제품에 필요한 기계적 특성을 부여하는 소결체 공정을 수행한다. [수행<b>직무<\/b>] 소결로(상압소결로, 가압소결로, 분위기소결로, 진공소결로), 성형품 운반대차, 소결로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화학제품포장<b>재료<\/b>검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027626&cid=42117&categoryId=42117",
+			"description":" 의약품, 화장품의 포장용기 및 부<b>재료<\/b>를 표준과 비교·분석하고 필요한 검사를 한다. [수행<b>직무<\/b>] 포장용기와 부<b>재료<\/b>에 부스러기가 있거나, 금이 가 있거나, 상표가 찢어졌거나, 변색되어 있는지를 검사한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내열구조세라믹<b>재료<\/b>가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658819&cid=42117&categoryId=42117",
+			"description":" 내열구조 세라믹 제조공정에서 도면에 따라 반제품을 치수에 맞게 가공한다. [수행<b>직무<\/b>] 작업표준서 및 도면에 따라 피가공물의 작업순서를 결정하고 가공방법을 결정한다. 절삭공구, 연마공구, 절삭유... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내열구조세라믹<b>재료<\/b>세정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658818&cid=42117&categoryId=42117",
+			"description":" 내열구조 세라믹 제조과정에서 건식세정, 습식세정을 통해 불필요한 부산물 및 이물질을 제거하고 포장한다. [수행<b>직무<\/b>] 작업표준서에 따라 세정할 품목과 수량을 확인한다. 저울, 세정기, 건조기, 포장기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내열구조세라믹<b>재료<\/b>소결원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658817&cid=42117&categoryId=42117",
+			"description":" 내열구조 세라믹 제조공정에서 성형체에 열을 가해 최종 제품을 생산하는 소결작업을 수행한다. [수행<b>직무<\/b>] 작업표준서에 따라 소결조건, 소결방법을 결정하고 작업계획을 수립한다. 소결방법에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"에프알피선박건조<b>재료<\/b>제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027715&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] FRP(유리섬유강화플라스틱)선박에 필요한 <b>재료<\/b>를 결정하기 위해 도면 및 작업지시서를 읽고 <b>재료<\/b>를 요청한다. 작업원을 각 공정에 배치시키고 작업 활동을 감독한다. 공정을 순회하여 작업상의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지반굴착 안전담당자의 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=508853&cid=50298&categoryId=50298",
+			"description":"그리고 다음과 같은 <b>직무<\/b>를 수행한다(산안법 안전규칙 제367조). (1) 안전한 작업방법을 결정하고 작업을 지휘하는 일. (2) <b>재료<\/b>, 기구의 결함유무를 점검하고 불량품을 제거하는 일. (3) 작업중 안전대 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내열구조세라믹<b>재료<\/b>품질관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658816&cid=42117&categoryId=42117",
+			"description":" 수요자의 요구에 적합한 품질의 내열구조 세라믹소재를 합리적으로 생산하기 위해 수입검사, 공정검사, 출하검사를 수행한다. [수행<b>직무<\/b>] 수입검사를 실시하여 원자재 또는 부자재의 적합 유무를 판단한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"흙막이지보공 안전담당자의 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=509552&cid=50298&categoryId=50298",
+			"description":"흙막이지보공 안전담당자의 <b>직무<\/b>는 다음과 같다(산안법 안전규칙 제396조). (1) 안전한 작업방법을 결정하고 불량품을 제거하는 일. (2) <b>재료<\/b>, 기구의 결함유무를 점검하고 작업을 지휘하는 일. (3) 작업중... ",
+			"thumbnail":""
+		},
+		{
+			"title":"저마다 다른 색상과 문양, <b>재료<\/b>를 이용하여 완성해 놓은 천장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808632&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222753790_VCEEHUW3S.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"천막제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028141&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>재료<\/b>의 재단, 절단, 조립 및 바느질에 종사하는 작업원을 감독한다. 표준작업계획 및 생산량 등에 의해 생산계획을 수립하고 작업내용을 작업원에게 지시한다. 작업도구의 이상 유무를 확인하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광학세라믹소재포장원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658854&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 광학<b>재료<\/b>의 경도 및 오염도에 따라 1차 포장지(PE 필름, 스펀지, 종이 박스, PVC 박스 등)를 선정하고 1차 포장한다. 품질 유지와 포장 전 포장 내부의 청정도를 유지하기 위한 분위기가스(질소 등)를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원가관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658662&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 직접 <b>재료<\/b>비, 직접 노무비 등 과거의 자료를 기초로 표준원가를 정한다. 원가회계업무를 수행하는 경우 외부이용자를 위한 재무제표를 작성한다. 내부이용자를 위해 경영계획을 수립·통제한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"타이어개발연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658500&cid=42117&categoryId=42117",
+			"description":" 타이어의 <b>재료<\/b>, 컴파운드, 공정구조, 특성, 회전저항, 패턴, 소음, 주행성능 등을 연구하고, 효율적인 제조공정을 분석·개발한다. [수행<b>직무<\/b>] 타이어 원부<b>재료<\/b>(천연고무, 합성고무, 카본블랙, 실리카... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세라믹기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054039&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① 금속<b>재료<\/b>나 유기<b>재료<\/b>에 비해 내식성, 내열성, 내마모성 등이 강한 세라믹은 정보화, 전자화, 환경친화의 시대에 있어 중요한 <b>재료<\/b>로서 인간생활에 필요한 기계, 건조물, 생활용품... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203521948_OWOIHBRWM.jpg\/da6_453_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"바리스타",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026235&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 조리할 <b>재료<\/b>를 준비하고 커피머신 등의 작동상태를 확인한다. 고객의 주문을 확인하고 원두를 갈고 커피머신을 작동하여 커피를 추출한다. 커피에 따라 우유, 크림 등을 넣고 하트, 꽃, 동물 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"브루마스터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026232&cid=42117&categoryId=42117",
+			"description":" 맥주의 주<b>재료<\/b>를 감별하는 일에서부터 분쇄기, 여과기, 가열기 등을 조작하는 등 맥주가 나오기까지의 모든 맥주 제조공정을 관리하고, 완성된 맥주의 품질을 관리한다. [수행<b>직무<\/b>] 맥주의 주 <b>재료<\/b>인 효모... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스마트섬유연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658705&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 섬유와 전자<b>재료<\/b>를 접목시켜 안정성을 확보하는 기술과 스마트섬유 회로설계기술, 스마트섬유와 IT기기 간의 커넥팅 기술 등을 연구한다. 스마트섬유의 편의성, 내구성, 안정성, 내열성 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가스설비방식연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026909&cid=42117&categoryId=42117",
+			"description":" 가스를 생산·공급하기 위한 각종 설비 및 배관<b>재료<\/b>의 물성, 부식방지를 위한 <b>재료<\/b>와 방법을 연구·개발한다. [수행<b>직무<\/b>] 가스를 생산·공급하는 설비 및 배관의 부식원인을 규명하고 예방하기 위한 방안을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"핵연료연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837702&cid=42117&categoryId=42117",
+			"description":" 핵반응을 지속적으로 발생시키기 위한 핵연료설계 및 핵연료 성형가공을 위한 핵연료<b>재료<\/b>의 기술을 연구한다. [수행<b>직무<\/b>] 핵연료주기, 방사선 산물관리 및 처분, 처분장의 안전성 평가, 사용 후 핵연료의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속제품시험원(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658846&cid=42117&categoryId=42117",
+			"description":" 각종 분석장비를 사용하여 강, 열연제품, 냉연제품 등 금속제품(중간제품, 최종제품 등)의 특성을 시험·검사한다. [수행<b>직무<\/b>] 품질검사 등을 목적으로 시험계획을 세운다. 각종 시험장비의 이상 유무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노기반기술연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026913&cid=42117&categoryId=42117",
+			"description":" 현재의 마이크로기술을 대체할 나노관련 기반기술을 연구한다. [수행<b>직무<\/b>] 물질을 원자, 분자수준단계에서 물리적 혹은 화학적으로 제어하여 나타나는 새로운 현상 및 특성, 유용한 구조와 기능을 규명·제어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노소재설계원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658832&cid=42117&categoryId=42117",
+			"description":" 기존 소재를 개선하거나 새로운 특성의 나노소재를 설계한다. [수행<b>직무<\/b>] 기존 소재의 특성 개선요구사항, 신소재 개발 필요성을 파악하고 성능분야(전자적, 열적, 기계적 특성)별로 분류·분석한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자동차휠공정관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026933&cid=42117&categoryId=42117",
+			"description":" 자동차휠 생산을 위하여 용해, 주조, 탕구(湯口:Pouring Gate, 주조작업에서용해된 금속을 주형에 부어 넣는 입구), 열처리, 쇼트, 가공, 기밀시험, 도장 공정을 점검하고 작업자를 관리·감독한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"분식점조리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953566&cid=42117&categoryId=42117",
+			"description":" 분식점에서 음식 <b>재료<\/b>를 준비하고 고객이 주문한 음식을 조리한다. [수행<b>직무<\/b>] 조리에 필요한 <b>재료<\/b>의 목록을 작성하고 품질을 고려하여 구입한다. 영업이 시작되기 전에 <b>재료<\/b>를 다듬거나 조합하여 조리를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속품질관리기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026911&cid=42117&categoryId=42117",
+			"description":" 금속제품을 생산하는 공정상의 품질관리를 하며 품질표준을 개선하기 위한 연구, 개발, 시험, 적용 등을 수행한다. [수행<b>직무<\/b>] 생산되는 제품의 품질을 관리한다. 품질관리체계를 수립한다. 연도·분기별... ",
+			"thumbnail":""
+		},
+		{
+			"title":"강정제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028824&cid=42117&categoryId=42117",
+			"description":" 각종 강정을 만들기 위하여 <b>재료<\/b>를 세척한 후, 가열·혼합·절단하는 기계를 조작·관리한다. [수행<b>직무<\/b>] 강정의 종류에 따라 사용할 <b>재료<\/b>(깨, 밥풀, 흑임자, 땅콩, 계피, 잣 등)를 준비한 후, 자동계량기나 저울을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"섬유공예가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029464&cid=42117&categoryId=42117",
+			"description":" 섬유 <b>재료<\/b>를 가공하고 가공된 소재로 섬유공예품을 만든다. [수행<b>직무<\/b>] 디자인을 개발하고 섬유의 종류에 따라 <b>재료<\/b>를 선택한다. 원부자재의 특성을 파악하여 <b>재료<\/b>를 선택하고 조합한다. 소재별 가공제를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026929&cid=42117&categoryId=42117",
+			"description":" 유리원료의 화학성분분석, 유리제조기술연구, 유리제조실험, 유리제품분석 등의 연구를 하거나 유리제조를 위한 기술지도 및 감독을 한다. [수행<b>직무<\/b>] 유리의 개발 및 제조를 위한 각종 첨단기술 및 정보를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"할랄제품연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658483&cid=42117&categoryId=42117",
+			"description":" 할랄식품 제조 및 가공에 사용되는 대체 <b>재료<\/b>를 연구·개발한다. [수행<b>직무<\/b>] 할랄식품에 사용이 불가한 돼지, 젤라틴, 알코올 성분 등을 대체하기 위한 <b>재료<\/b>를 연구한다. 대체 <b>재료<\/b>의 원<b>재료<\/b>와의 맛, 효능의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"만두소제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028970&cid=42117&categoryId=42117",
+			"description":" 각종 <b>재료<\/b>(고기, 김치, 야채 등)를 조미향신료와 혼합해 만두소를 제조하는 기계를 조작·관리한다. [수행<b>직무<\/b>] 만두의 종류에 맞는 각종 <b>재료<\/b>(고기, 김치, 두부, 당면, 야채 등)를 보관창고(냉동, 냉장, 실온)에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"콘덴서가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953570&cid=42117&categoryId=42117",
+			"description":" 자기 단일체 콘덴서(축전기)를 만들기 위하여 기질·전극·성단<b>재료<\/b>를 가공·처리한다. [수행<b>직무<\/b>] 일정한 점도를 유지하기 위하여 혼합물에서 성분요소를 첨가 또는 증발시키고, 혼합물을 분쇄한 후에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"착자원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028591&cid=42117&categoryId=42117",
+			"description":" 자석의 생산을 위해 착자, 탈자 검사 등을 통해 <b>재료<\/b>를 자화하고 자력을 갖게 한다. [수행<b>직무<\/b>] 자력의 설곗값에 따라 착자기의 전류량을 설정하고 충전상태를 점검한다. 요크코일(Yoke Coil)의 고정구에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모조장신용품디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025668&cid=42117&categoryId=42117",
+			"description":" 귀금속, 보석 이외의 각종 <b>재료<\/b>를 사용하여 모조장신용품을 디자인하고 제품화한다. [수행<b>직무<\/b>] 개발할 액세서리 제품의 모양 및 기능, 편리성, <b>재료<\/b>, 생산방법, 생산원가, 시장특성, 고객의 요구사항 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광학세라믹소재혼합원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658853&cid=42117&categoryId=42117",
+			"description":" 요구되는 광학특성을 지닌 세라믹<b>재료<\/b>를 혼합하기 위해 계량, 혼합, 조제, 배치평가 업무를 수행한다. [수행<b>직무<\/b>] 칭량장비, 혼합분말(볼밀, 비즈밀 등), 혼합균일도 분석장비, 조성분석기(XRF,ICP 등), 기초원료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전기전자장비부품가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026800&cid=42117&categoryId=42117",
+			"description":" 전기전자장비의 부품과 <b>재료<\/b>를 가공 처리하기 위하여 기계가공장비를 사용하여 전동기, 발전기, 변압기 등의 부품 또는 <b>재료<\/b>를 절단하거나 일정한 모양으로 가공한다. [수행<b>직무<\/b>] 전동기, 발전기, 변압기 등과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"색박기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029238&cid=42117&categoryId=42117",
+			"description":" 가죽, 직물, 종이, 플라스틱 및 여러 <b>재료<\/b> 위에 문자나 도안을 금, 은, 카본, 청, 적 등의 색상을 입히기 위하여 박프레스기를 조작한다. [수행<b>직무<\/b>] 작업지시서에 따라 인쇄할 문양의 금형을 프레스에 고정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내화물기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026916&cid=42117&categoryId=42117",
+			"description":" 내화벽돌, 도가니 등의 내화제품의 제조방식에 관한 시험·분석, 원료분석, 요로의 성능, 연료와 연소효율 등에 관한 연구업무를 수행하고 기술적인 문제에 대하여 지도 및 조언한다. [수행<b>직무<\/b>] 내화벽돌... ",
+			"thumbnail":""
+		},
+		{
+			"title":"매니플레이트운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026969&cid=42117&categoryId=42117",
+			"description":" 매니플레이터(가열된 금속<b>재료<\/b>를 집게로 고정하여 이동·운반하는 기구)를 운전한다. [수행<b>직무<\/b>] 매니플레이터의 주유 상태를 확인하는 등 시험작동을 한다. 단조작업을 위한 준비를 한다. 전기로에서 가열된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"임산공학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025227&cid=42117&categoryId=42117",
+			"description":" 친환경적이며 재생가능자원인 임산자원의 합리적 이용을 위한 물리·화학적 성질규명과 화학성분의 구조해석 및 효율적 가공·이용기술을 확립하기 위한 연구를 한다. [수행<b>직무<\/b>] 목재의 재질·조직과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사출성형기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027708&cid=42117&categoryId=42117",
+			"description":" 시계플라스틱기어, 플라스틱의료용품 등을 제조하기 위하여 열가소성 플라스틱<b>재료<\/b>를 사용하여 사출 성형하는 사출성형기를 조작한다. [수행<b>직무<\/b>] 제품의 성격에 따라 형체압력, 사출압력, 사출작업의 온도 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"타이어블래더제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027679&cid=42117&categoryId=42117",
+			"description":" 타이어의 블래더(Bladder)를 제조하기 위하여 고무<b>재료<\/b>를 접합·성형시키는 기계를 조작·관리한다. [수행<b>직무<\/b>] 브래더(Bladder)를 만들기 위한 고무<b>재료<\/b>의 끝에 접착제를 바르고 양 끝을 접합하는 압착기를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목관악기제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029509&cid=42117&categoryId=42117",
+			"description":" 나무나 에보나이트 등의 비금속<b>재료<\/b>를 사용하여 목관악기를 제조한다. [수행<b>직무<\/b>] 목관악기 제조에 필요한 <b>재료<\/b>를 준비한다. 선반, 연마기 등의 동력공구나 수공구를 사용하여 부품을 절삭 가공한다. 접착제와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"핵융합로연구개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832686&cid=42117&categoryId=42117",
+			"description":" 핵융합로(제어된 핵융합 반응을 일으켜 거기에서 얻어지는 에너지를 발전 등에 이용하기 위한 시스템)의 구조, <b>재료<\/b>, 운영방법 등을 연구·개발한다. [수행<b>직무<\/b>] 자연상태에서는 불가능한 연속적이고 지속적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호스제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027689&cid=42117&categoryId=42117",
+			"description":" 고무질화된 직물이나 고무튜브, 점성고무, 플라이 <b>재료<\/b> 등을 가공해 공업용 호스를 제조한다. [수행<b>직무<\/b>] 고무튜브와 플라이<b>재료<\/b>를 용제와 고무시멘트를 이용하여 접착성 표면으로 만든다. 내면 고무층에 철심... ",
+			"thumbnail":""
+		},
+		{
+			"title":"떡제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028825&cid=42117&categoryId=42117",
+			"description":" 다양한 종류의 떡, 떡 케이크를 제조하기 위해 떡을 반죽하고 <b>재료<\/b>를 넣는 기계를 조작·관리한다. [수행<b>직무<\/b>] 제조하려는 떡의 종류(시루떡, 인절미, 경단, 가래떡, 떡 케이크 등)를 파악하고, 필요한 <b>재료<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"천막제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028142&cid=42117&categoryId=42117",
+			"description":" 방수 처리한 직물, 플라스틱, 고무 및 기타 <b>재료<\/b> 위에 도안하고 천막, 텐트 및 방수포를 제조·조립한다. [수행<b>직무<\/b>] 분필이나 매직 등을 사용해 도면에 따라 <b>재료<\/b> 위에 재단자를 대어 도면을 그리고 가위나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광학세라믹소재가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658859&cid=42117&categoryId=42117",
+			"description":" 제조된 <b>재료<\/b>를 가공, 코팅, 표면관리, 세정 작업을 거쳐 성형가공 한다. [수행<b>직무<\/b>] 도면에 따라 물체의 모양, 크기, 구조, 제작방법 등을 파악한다. 제품 가공에 맞는 장비, 도구, 작업 순서를 결정하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"첨가물제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028821&cid=42117&categoryId=42117",
+			"description":" 제조하고자 하는 빵에 맞는 적당한 당액을 만들거나 빵 속을 채우는 데 필요한 <b>재료<\/b>를 혼합·조리하는 설비를 조작·관리한다. [수행<b>직무<\/b>] 제조할 첨가물(당액, 속)의 종류에 따라 제품 표준에 맞는 원료를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"간판제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029562&cid=42117&categoryId=42117",
+			"description":" 전기 간판 등 간판을 제작하기 위해 아크릴판에 글자나 문양 등을 새기고 일정한 크기로 자른 후 조명을 위한 형광등과 전기<b>재료<\/b>를 부착·조립한다. [수행<b>직무<\/b>] 설계도면에 따라 아크릴판이나 기타 <b>재료<\/b> 위에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"포장용기설계원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837759&cid=42117&categoryId=42117",
+			"description":" 종이·합성수지·골판지 등의 각종 <b>재료<\/b>를 이용하여 포장할 물품의 특성 및 목적에 맞게 상자·종이백 등의 각종 포장용기로 제조하기 위한 설계업무를 한다. [수행<b>직무<\/b>] 제품 사양서를 확인하고 포장특성(형태... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방사선투과검사기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029157&cid=42117&categoryId=42117",
+			"description":" 방사선 동위원소와 X선 장비를 이용하여 제품 또는 <b>재료<\/b>의 내부상태를 촬영하여 검사·판정한다. [수행<b>직무<\/b>] 금속, 플라스틱, 콘크리트 또는 기타 <b>재료<\/b>를 사용한 주물, 견본품, 파이프 및 각 부품과 용접부위... ",
+			"thumbnail":""
+		},
+		{
+			"title":"송풍기제관공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026959&cid=42117&categoryId=42117",
+			"description":" 송풍기의 각종 부품을 도면의 형태로 만들기 위하여 금속<b>재료<\/b>를 절단, 용접, 쇼트, 기계 가공을 수행한다. [수행<b>직무<\/b>] 송풍기제조반장의 지시에 따라 도면과 작업지시서를 검토하고 작업의 내용을 파악한다.... ",
+			"thumbnail":""
+		}
+	]
+}

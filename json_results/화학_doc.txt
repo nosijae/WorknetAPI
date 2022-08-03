@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:14 +0900",
+	"total":458510,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"대한<b>화학<\/b>회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1772",
+			"description":""
+		},
+		{
+			"title":"한국공업<b>화학<\/b>회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=965682",
+			"description":""
+		},
+		{
+			"title":"감염과<b>화학<\/b>요법",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=197",
+			"description":""
+		},
+		{
+			"title":"분석<b>화학<\/b> (分析化学)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2830196",
+			"description":""
+		},
+		{
+			"title":"일본<b>화학<\/b>잡지 (日本化学雑誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3199840",
+			"description":""
+		},
+		{
+			"title":"<b>화학<\/b>공학논문집 (化学工学論文集)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2482500",
+			"description":""
+		},
+		{
+			"title":"공업<b>화학<\/b>잡지 (工業化学雑誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3199746",
+			"description":""
+		},
+		{
+			"title":"일본<b>화학<\/b>회지 (日本化学会誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2956575",
+			"description":""
+		},
+		{
+			"title":"한국지역정보<b>화학<\/b>회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=8780",
+			"description":""
+		},
+		{
+			"title":"고분자<b>화학<\/b> (高分子化学)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3199752",
+			"description":""
+		},
+		{
+			"title":"<b>화학<\/b>공학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2134349",
+			"description":""
+		},
+		{
+			"title":"전기<b>화학<\/b>회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4428",
+			"description":""
+		},
+		{
+			"title":"응용<b>화학<\/b> (应用化学)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3086017",
+			"description":""
+		},
+		{
+			"title":"<b>화학<\/b>사고 대비 육상생태 취약성 평가기법 개발 연구:(2) 초본류를 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651442405",
+			"description":" 목적:현대사회에서 산업이 급속도로 발전함에 따라 <b>화학<\/b>물질의 사용량은 증가하며, 육상 환경에서 "
+		},
+		{
+			"title":"고교<b>화학<\/b>공정학보 (高校化学工程学报)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2841416",
+			"description":""
+		},
+		{
+			"title":"중국생물<b>화학<\/b>여분자생물학보 (中国生物化学与分子生物学报)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2548292",
+			"description":""
+		},
+		{
+			"title":"<b>화학<\/b>연구여응용 (化学研究与应用)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2861868",
+			"description":""
+		},
+		{
+			"title":"응용<b>화학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4043",
+			"description":""
+		},
+		{
+			"title":"<b>화학<\/b>교육",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6891",
+			"description":""
+		},
+		{
+			"title":"청해기만탑격중만삼첩세화강암：연대학、지구<b>화학<\/b>급성광의의 (青海祁",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=739007099",
+			"description":""
+		},
+		{
+			"title":"일본<b>화학<\/b>회지 (日本化學會誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3201562",
+			"description":""
+		},
+		{
+			"title":"계산궤여응용<b>화학<\/b> (计算机与应用化学)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2891817",
+			"description":""
+		},
+		{
+			"title":"반공호대다불타부금반암동광상반암-화산암적지구<b>화학<\/b>특정여시대：대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=671267746",
+			"description":""
+		},
+		{
+			"title":"강서대호당오광상사반상백운모화강암고석U-Pb연대학、지구<b>화학<\/b>급성인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=745422921",
+			"description":""
+		},
+		{
+			"title":"계서북객사특삼림식물-조락물-토양생태<b>화학<\/b>계량특정 (桂西北喀斯特森",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=728368800",
+			"description":""
+		},
+		{
+			"title":"운남보이계풍상록활엽림연체계열식물화토양C、N、P<b>화학<\/b>계량특정 (云南",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=664132902",
+			"description":""
+		},
+		{
+			"title":"아납선황막전형식물엽편탄、담、인<b>화학<\/b>계량특정 (阿拉善荒漠典型植物",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=726545988",
+			"description":""
+		},
+		{
+			"title":"하구습지식물활체-고락물-토양적탄담인생태<b>화학<\/b>계량특정 (河口湿地植",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=750203851",
+			"description":""
+		},
+		{
+			"title":"신강서준갈이체납포특사록암E-MORB형미철질암적지구<b>화학<\/b>、연대학급기지",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=657074768",
+			"description":""
+		},
+		{
+			"title":"지구<b>화학<\/b> (地球化学)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2775027",
+			"description":""
+		},
+		{
+			"title":"전형객사특봉총외지식피군낙조락물C∶N∶P생태<b>화학<\/b>계량특정 (典型喀斯",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=738210477",
+			"description":""
+		},
+		{
+			"title":"고려인삼의 <b>화학<\/b>성분에 관한 고찰 (高麗人蔘의 化學成分에 관한 考察)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594715828",
+			"description":"Recent Studies on the Chemical Constituents of Korean Ginseng(Panax ginseng C.A. Meyer) 본 논문은 고려인삼(高麗人蔘)의 화"
+		},
+		{
+			"title":"<b>화학<\/b>과당교학정경적평가연구——기우<b>화학<\/b>“우질과”교학정경적분석 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=733122338",
+			"description":""
+		},
+		{
+			"title":"동곤윤기만탑격조오도세도호：중기성화성암지구<b>화학<\/b>、Sm-Nd동위소급연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=729966392",
+			"description":""
+		},
+		{
+			"title":"《분석<b>화학<\/b>》 (《分析化学》)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=93593446",
+			"description":""
+		},
+		{
+			"title":"통변rGO여g-C3N4적π–π퇴적작용제고담화탄광<b>화학<\/b>양화능력 (通过rGO与g-C3N4",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=448119047",
+			"description":"Enhanced photochemical oxidation ability of carbon nitride by π–π stacking interactions with graphene 石墨相氮化碳(g-C3N4)具"
+		},
+		{
+			"title":"차문<b>화학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5072",
+			"description":""
+		},
+		{
+			"title":"절강천동상록활엽림、상록침엽림여락협활엽림적C:N:P<b>화학<\/b>계량특정 (浙",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=668872331",
+			"description":""
+		},
+		{
+			"title":"아납선황막구6종주요관목식물엽편C:N:P<b>화학<\/b>계량비적계절변화 (阿拉善荒",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=737544928",
+			"description":""
+		},
+		{
+			"title":"동곤윤조산대조중생대미철질암장군LA-ICP-MS고석U-Pb정년、원소화Sr-Nd-Hf동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=744593612",
+			"description":""
+		},
+		{
+			"title":"가목사지괴동북연조이첩세육연암체적암장혼합성인：암상학、연대학화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=748693835",
+			"description":""
+		},
+		{
+			"title":"전서삼강지구임창화강암적암석성인：지구<b>화학<\/b>、고석U-Pb연대학급Hf동위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=739843355",
+			"description":""
+		},
+		{
+			"title":"연초기활성탄재료용우예<b>화학<\/b>초급전용기 (烟草基活性炭材料用于电化学",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=519916964",
+			"description":"An activated carbon derived from tobacco waste for use as a supercapacitor electrode material 烟草基活性炭(TAC)成功制备并用"
+		},
+		{
+			"title":"하남기우구김성광계통휘목광Re-Os연영화고석U-Pb연영급Hf동위소지구<b>화학<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=667804688",
+			"description":""
+		},
+		{
+			"title":"부동림영유송( Pinus tabulaeformis )인공림식물、조락물여토양C、N、P<b>화학<\/b>계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722030341",
+			"description":""
+		},
+		{
+			"title":"화북육괴남연호산지구연산기화강암류지구<b>화학<\/b>、Sr-Nd-Pb동위소특정급기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=742096685",
+			"description":""
+		},
+		{
+			"title":"일본식품<b>화학<\/b>학회지 (日本食品化学学会誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2956215",
+			"description":""
+		},
+		{
+			"title":"재FTO도전파리상예<b>화학<\/b>침자고효가현광광예<b>화학<\/b>분해수Cu 2 O\/g-C 3 N 4 이질",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=708207571",
+			"description":"   Water splitting, Thin film, Substrate (electronics), Photocurrent, Materials science, Inorganic chemistry, Heterojunction, Electroph"
+		},
+		{
+			"title":"신강동천산토옥반암동광상지구<b>화학<\/b>、연대학、Lu-Hf동위소급기지질의의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=728724531",
+			"description":""
+		},
+		{
+			"title":"서장반과지구침입암연대학화지구<b>화학<\/b>：대반공호-노강양분연화시한적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=743685613",
+			"description":""
+		},
+		{
+			"title":"서천산사강락이화지박철광구화산암지구<b>화학<\/b>특정、고석U-Pb연영급지질",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=742678242",
+			"description":""
+		},
+		{
+			"title":"부동림영삼목인공림토양C:N:P<b>화학<\/b>계량특정급기여토양이화성질적관계 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=687731588",
+			"description":""
+		},
+		{
+			"title":"남아이김적목나리극화강암지구<b>화학<\/b>、고석U-Pb연대학여Hf동위소특정급기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=736215891",
+			"description":""
+		},
+		{
+			"title":"북기련서단소유구광구화강질암석고석U-Pb연대학、지구<b>화학<\/b>급성인연구 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=696696514",
+			"description":""
+		},
+		{
+			"title":"담소첨가대황토고원전형초원장망초담인중흡수율급C:N:P<b>화학<\/b>계량특정적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=734566366",
+			"description":""
+		},
+		{
+			"title":"임산<b>화학<\/b>여공업 (林产化学与工业)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2922980",
+			"description":""
+		},
+		{
+			"title":"서준갈이북부만고생대양기침입암적지구<b>화학<\/b>、Sr-Nd동위소특정급기지질",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=663969945",
+			"description":""
+		},
+		{
+			"title":"<b>화학<\/b>발광면역분석방법여응용진전 (化学发光免疫分析方法与应用进展)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=89059068",
+			"description":"Chemiluminescent Immunoassay and Its Application 化学发光免疫分析方法具有选择性好、灵敏度高、分析速度快、"
+		},
+		{
+			"title":"종정품도정채：<b>화학<\/b>미과적현상、창작여사용 (从精品到精彩：化学微课",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=708994766",
+			"description":""
+		},
+		{
+			"title":"화북극납통고원고대중기신전체제신증거：안산-궁장령지구변질휘장암",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=742388378",
+			"description":""
+		},
+		{
+			"title":"서장청초산반암동금광함광반암고석U-Pb연대학、미량원소지구<b>화학<\/b>급지",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=744386124",
+			"description":""
+		},
+		{
+			"title":"예<b>화학<\/b>양극양화법제비류납미관결구WO 3 광양극용우광전최화전분해수 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=720466756",
+			"description":"   Water splitting, Quantum efficiency, Photocatalysis, Nanotube, Materials science, FOIL method, Electrode, Electrochemistry, Crystall"
+		},
+		{
+			"title":"손오지구중주나세백운모화강암적연대학여지구<b>화학<\/b>：대몽고-악곽자극",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=720691313",
+			"description":""
+		},
+		{
+			"title":"조고생대고아주양부충기여:내자동천산가납탑격고미안산암적연대학、",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722617917",
+			"description":""
+		},
+		{
+			"title":"길림성중부지구조고생대영운섬장암적성인：고석U-Pb연대학화지구<b>화학<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=713794466",
+			"description":""
+		},
+		{
+			"title":"합서성3종주요수종엽편、조락물화토양N、P<b>화학<\/b>계량특정 (陕西省3种主要",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=709822345",
+			"description":""
+		},
+		{
+			"title":"천우동얼광상적암상학、고석U-Pb연대학、지구<b>화학<\/b>특정:대동강미철-초미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=683281757",
+			"description":""
+		},
+		{
+			"title":"교동청산군기성화산암적Ar-Ar연대학화지구<b>화학<\/b>특정: 대화북극납통파배",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=732373779",
+			"description":""
+		},
+		{
+			"title":"1,4-쌍정병양기주[7]방경적합성급주객체<b>화학<\/b> (1,4-双正丙氧基柱[7]芳烃的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=736285054",
+			"description":"   Medicinal chemistry, Chemistry "
+		},
+		{
+			"title":"신강호호동얼광상고석U-Pb연대학、박족원소지구<b>화학<\/b>특정급기지질의의 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=671980262",
+			"description":""
+		},
+		{
+			"title":"황토구릉우자괴、요동로림지토양탄、담、인생태<b>화학<\/b>계량특정 (黄土丘",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=696028261",
+			"description":""
+		},
+		{
+			"title":"이양화규입자적표면<b>화학<\/b>수식——방법、원리급응용 (二氧化硅粒子的表",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=752870196",
+			"description":""
+		},
+		{
+			"title":"동진령화산복식암기중호평여금산묘화강암체암석지구<b>화학<\/b>、고석U-Pb연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=730189233",
+			"description":""
+		},
+		{
+			"title":"상남왕선령화강암체적고석U-Pb연대학、지구<b>화학<\/b>、고석Hf동위소특정급기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=730190445",
+			"description":""
+		},
+		{
+			"title":"내몽고오납특중기북칠가도휘장암SHRIMP고석U-Pb연영、지구<b>화학<\/b>특정급기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=747094866",
+			"description":""
+		},
+		{
+			"title":"동곤륜고Nb-Ta유문암적연대학、지구<b>화학<\/b>급성인 (东昆仑高Nb-Ta流纹岩的年",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=735501429",
+			"description":""
+		},
+		{
+			"title":"화북지괴남연로우산타암체시대、성인급지질의의——고석년영、Hf동위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=744786848",
+			"description":""
+		},
+		{
+			"title":"신강합밀향산서동얼-태철광상계동원암장분리연화산물——광상학、고",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=673146529",
+			"description":""
+		},
+		{
+			"title":"희마랍아조산대중신세암장형석류자석적광물<b>화학<\/b>특정:종고Sr\/Y화강암도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=657128471",
+			"description":"   Nuclear medicine, Geology "
+		},
+		{
+			"title":"부동림영삼목인공림식물-조락협-토양C、N、P<b>화학<\/b>계량특정급호작관계 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=681894917",
+			"description":""
+		},
+		{
+			"title":"황토구릉구부동삼림뇌형엽편-조락물-토양생태<b>화학<\/b>계량특정 (黄土丘陵",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=660769272",
+			"description":""
+		},
+		{
+			"title":"호서북신성금광상이장화강암암석지구<b>화학<\/b>、고석U-Pb연영급Lu-Hf동위소조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=711769322",
+			"description":""
+		},
+		{
+			"title":"파양호습지우핵식물엽편-조락물-토양탄담인<b>화학<\/b>계량특정 (鄱阳湖湿地",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=709876991",
+			"description":""
+		},
+		{
+			"title":"납살지괴중북부만백악세(약90Ma)발납찰함광반암지구<b>화학<\/b>특정급기성인 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=734240191",
+			"description":""
+		},
+		{
+			"title":"신강박격체조산대만고생대구조-암장연화변정:화산암조합급지구<b>화학<\/b>증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=690335485",
+			"description":""
+		},
+		{
+			"title":"원소화합물인치모형급기재복습교학중적응용——이고중《<b>화학<\/b>1》“금",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=723006106",
+			"description":""
+		},
+		{
+			"title":"호남황사평W-Mo-Bi-Pb-Zn다금속광상유연동위소지구<b>화학<\/b>연구 (湖南黄沙坪W-M",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=729491812",
+			"description":""
+		},
+		{
+			"title":"계서남조중생대산성화산암연대학화지구<b>화학<\/b>：대음-항결합대서남단구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=735977233",
+			"description":""
+		},
+		{
+			"title":"교-요-길대료동관전지구고원고대이장(정장)화강지편마암적고석U-Pb연대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=719620307",
+			"description":""
+		},
+		{
+			"title":"대별북록양가평화강반암고석LA-ICPMS U-Pb정년화암석지구<b>화학<\/b>특정급기대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=671969291",
+			"description":""
+		},
+		{
+			"title":"전서마창정황반암성인:지구<b>화학<\/b>、연대학급Sr-Nd-Pb-Hf동위소약속 (滇西马",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=733325565",
+			"description":""
+		},
+		{
+			"title":"Ag2S\/Ag2WO4미미봉적성<b>화학<\/b>합성、표정급기고광최화성능 (Ag2S\/Ag2WO4微米棒的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=522312841",
+			"description":"Sonochemical fabrication, characterization and enhanced photocatalytic performance of Ag2S\/Ag2WO4 composite microrods TiO2作为一种"
+		},
+		{
+			"title":"황토구릉구연구유역전형식물엽편C、N、P<b>화학<\/b>계량특정계절변화 (黄土丘",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=742798431",
+			"description":"   Plant growth, Nutrient, Growth rate, Geography, Ecology, Agronomy, Adaptation, Adaptability "
+		},
+		{
+			"title":"부동양이자(NH 4 + ,Na + ,K + ,Ca 2+ )취화물대상용SCR최화자<b>화학<\/b>중독영향궤제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=683183575",
+			"description":"   Selectivity, Selective catalytic reduction, Redox, Oxygen, NOx, Inorganic chemistry, Chemistry, Catalysis, Alkali metal, Adsorption "
+		},
+		{
+			"title":"아이금남연탑특륵극포납극복식화강질암체동단편마상화강암적지구<b>화학<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=736709449",
+			"description":""
+		},
+		{
+			"title":"대한<b>화학<\/b>요법학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1771",
+			"description":""
+		},
+		{
+			"title":"운남보이계풍상록활엽림우핵물충부동생장계단엽편탄、담、인<b>화학<\/b>계량",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=695427020",
+			"description":""
+		},
+		{
+			"title":"대흥안령중부시하지구갑장화강암적성인급구조배경：암석지구<b>화학<\/b>、고",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=738777825",
+			"description":""
+		},
+		{
+			"title":"호서북고Ba-Sr곽가영형화강암암장혼합성인：암석지구<b>화학<\/b>여Sr-Nd동위소",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=709160348",
+			"description":""
+		},
+		{
+			"title":"심수시PM_（2.5）<b>화학<\/b>조성여시공분포특정 (深圳市PM_（2.5）化学组成与时",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=732792678",
+			"description":""
+		}
+	]
+}

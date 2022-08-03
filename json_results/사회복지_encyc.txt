@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:26 +0900",
+	"total":21917,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=76744&cid=42155&categoryId=42155",
+			"description":" <b>사회<\/b>구성원의 일정한 생활 수준 및 보건 상태를 확보하기 위한 <b>사회<\/b>정책 및 제도의 조직적인 체계라고 규정할 수 있다. <b>사회복지<\/b>의 개념을 좁은 의미로 사용할 때는 노인·신체장애자와 같이 평균적 생활... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1108208&cid=40942&categoryId=31638",
+			"description":" 국민의 생활 안정 및 교육·직업·의료 등의 보장을 포함하는 <b>복지<\/b>를 추구하기 위한 <b>사회<\/b>적 노력, 즉 넓은 의미의 <b>사회<\/b>적 방책의 총칭.  <b>사회<\/b>보장제도 등의 근저(根底)에 공통적으로 작용하는 정책목표로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회<\/b>보장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794904&cid=46634&categoryId=46634",
+			"description":" 국민의 기본적 욕구 중에서 주로 빈곤·실업·질병과 같은 <b>사회<\/b>적 위험을 예방하고 치료하기 위한 정부의 입법과 조직적 행정. [개설] <b>사회<\/b>보장제도는 옛날에도 존재했지만 보편적으로 시행된 것은 아니었다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_17\/20190329215805001_G9U1SL4RS.jpg\/830d6105-0cfa-45.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1714550&cid=43938&categoryId=43947",
+			"description":"19세기 말에서 20세기 초에 일부 유럽 국가에서 공공 <b>복지<\/b> 프로그램을 실시하기 시작했다. 그러나... 공황기에 시작된 이들 프로그램은 대부분 임시적인 구제 조치에 불과했으나 이 중 <b>사회<\/b> 보장 프로그램은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2281_000_1\/20120611144854764_S8Y9KNRZK.jpg\/bf1_259_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2111986&cid=50765&categoryId=50778",
+			"description":"원불교에서는 소태산대종사가 만년에 “우리의 사업목표는 교화ㆍ교육ㆍ자선의 세 가지니 앞으로 이를 늘 병진하여야 우리의 사업에 결함이 없으리라”(《대종경》 부촉품15)고 한 자선사업을 <b>사회복지<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=510998&cid=42126&categoryId=42126",
+			"description":"<b>복지<\/b><b>사회<\/b>·<b>복지<\/b>국가의 개념이 보편화됨에 따라서 개개인이 스스로의 힘이나 사경제(私經濟) 행위를 통해서 충족시킬 수 없는 <b>사회<\/b>적 욕구는 국가나 <b>사회<\/b>의 공동노력을 통하여 충족되어야 하며, 생활능력이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5674777&cid=62841&categoryId=62841",
+			"description":" 개인과 가족에게서 생기는 생활에서의 곤란과 장애를 <b>사회<\/b>적 노력과 대책에 의해 해결하거나 경감시키는 활동.  <b>사회복지<\/b>의 개념에는 '보다 나은 생활의 지향'이라는 의미와 '<b>사회복지<\/b>의 제도와 활동의 실체... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회<\/b> 보장 제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=941446&cid=47333&categoryId=47333",
+			"description":"1935년, 미국의 뉴딜 정책에서 <b>사회<\/b> 보장법이 채택되면서부터 <b>사회<\/b> 보장이라는 말이 사용되기 시작하였다. <b>사회<\/b> 보장에서 가장 기초가 되는 것은 소득 보장으로, 국가는 최소한의 소득을 보장하기 위하여 고용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470796&cid=42120&categoryId=42120",
+			"description":"<b>사회복지<\/b>의 개념을 좁은 의미로 사용할 때는 노인·신체장애자와 같이 평균적 생활수준에서 낙오된 <b>사회<\/b>적 약자에 대한 특수한 <b>사회<\/b>적 보호의 방책이라고 규정할 수 있으며 좀 더 넓은 의미로 는 <b>사회<\/b>적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=728084&cid=42140&categoryId=42140",
+			"description":"<b>복지<\/b>라는 말은 원래 ‘행복’이라는 의미를 가지고 있으며 이러한 원래의 뜻에 입각하여 생각하면 <b>사회복지<\/b>는 ‘<b>사회<\/b> 전체의 행복’을 의미하게 된다. 그러나 일반적으로는 <b>사회<\/b>적으로 약한 입장에 있는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1520695&cid=42121&categoryId=42121",
+			"description":"기존의 <b>사회<\/b>사업이 개인적 수준을 벗어나서 국가적 사업으로 확대되고 나서는 <b>사회<\/b>사업을 <b>사회복지<\/b>로 대칭하려는 경험을 보이고 있다. <b>복지<\/b>국가는 정치학적인 의미가 강하고, <b>사회복지<\/b>는 <b>사회<\/b>적인 차원에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회 복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449711&cid=42876&categoryId=42876",
+			"description":"개인이 <b>사회<\/b>보험•공중위생•교육 등의 일반 시책에 병행하거나 혹은 보완, 보호•조장하는 <b>사회<\/b>적 조직활동을 말한다. 종래는 생활 곤궁자의 현상 구제에 그쳤으나 앞으로는 곤궁의 예방이나 적극적인 생활... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=690789",
+			"description":"용어정리",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=157196",
+			"description":"크당",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=7577",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3578819&cid=58886&categoryId=58886",
+			"description":"[ ‘<b>사회 복지<\/b>’ 어떻게 봐야할까 ] 진부한 물음을 던져 보자. ‘가난은 나랏님도 구제 못할까?’ <b>사회 복지<\/b>를 바라보는 관점은 각각 차이가 있다. 시장경제의 합리성을 중요시 하는 이들은 산업화가 경제 발전과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118180905575_GERN67YWH.jpg\/01_439.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회 복지<\/b> 제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1718554&cid=47336&categoryId=47336",
+			"description":"가난은 '잘못이 아니라 조금 불편한 것'일 뿐이라고 하지만 자본주의 <b>사회<\/b>에서 가난은 사람을 아주 힘들게 한다. 특히 요즘 생활고를 비관하여 자살했다는 이야기는 가난이 단순한 개인 문제가 아님을 알 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2325_000_1\/20130124225150541_6KLO7J66K.jpg\/ba13_27_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>행정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2164876&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] <b>사회복지<\/b>행정(社會福祉行政, social welfare administration)은 <b>사회복지<\/b>학(社會福址學, social welfare)과 행정학(行政學, public administration)이 결합된 학문으로서 공사 <b>사회복지<\/b> 기관의 <b>사회복지<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140822135704770_GVLQYCS19.jpg\/z5_term162_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회<\/b>보장제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=985836&cid=43667&categoryId=43667",
+			"description":" <b>사회<\/b>구성원이 생활의 곤궁에 처하게 될 경우 삶의 질 향상을 위해 공공의 재원으로 그 최저생활을 보장해 주는 제도.  | 외국어 표기 | 社會保障制度(한자) social security(영어)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회<\/b>보장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1108202&cid=40942&categoryId=31638",
+			"description":" <b>사회<\/b>보장에 관한 제도.  <b>사회<\/b>보장이란 용어가 공적으로 사용되기 시작한 것은 근래의 일로, 1935년 미국의 <b>사회<\/b>보장법(Social Security Act)에서였다고 한다. <b>사회<\/b>보장 개념의 등장에 앞서 이미 영국에서는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b> (하동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2660605&cid=51944&categoryId=54917",
+			"description":"[정의] 경상남도 하동군에서 시행되고 있는 국민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] 산업 <b>사회<\/b>가 심화되면서 <b>사회복지<\/b>에 대한 관심과 욕구도 증대되고 있다. <b>사회복지<\/b>는 <b>사회<\/b>생활의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150318133555850_W130XZI1T.jpg\/GC034P1362.jpg?type=m160_160"
+		},
+		{
+			"title":"천안의 <b>사회<\/b>·<b>복지<\/b> (천안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2570052&cid=51930&categoryId=54182",
+			"description":"[정의] 충청남도 천안시에서 시행되고 있는 주민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] 변화하는 천안시의 지역 특성을 새롭게 반영하고 지역 주민의 새로운 욕구, 정부 정책 변화에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150123203758536_UR3ZXHFPJ.jpg\/GC045P01790.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b> (안산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2606351&cid=51885&categoryId=53440",
+			"description":"[정의] 경기도 안산시에서 시행되고 있는 국민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] <b>사회복지<\/b>는 <b>사회<\/b>[social]와 <b>복지<\/b>[welfare]의 합성어이다. 즉 불만이 없이 평안하고 만족할 만한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회 복지<\/b> (창원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2637040&cid=51943&categoryId=54859",
+			"description":"[정의] 경상남도 창원시 주민의 생활 향상과 <b>사회<\/b> 보장을 위한 <b>사회<\/b> 정책과 제반 시설. [개설] 창원시의 <b>사회 복지<\/b> 비전은 세계적인 선진 <b>복지<\/b> 도시 창원을 목표로 한다. 이러한 <b>복지<\/b> 목표의 실현을 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진주의 <b>사회복지<\/b> (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2632025&cid=51942&categoryId=54807",
+			"description":"[정의] 국민의 생활 안정 및 교육·직업·의료 등의 보장을 포함하는 <b>복지<\/b>를 추구하기 위한 <b>사회<\/b>적 노력. [개설] 공적부조의 가장 핵심이 되는 법률로 1961년 12월 30일 생활보호법이 제정·공포되었으며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서산의 <b>사회<\/b>·<b>복지<\/b> (서산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2598175&cid=51929&categoryId=54127",
+			"description":"[정의] 충청남도 서산시에서 시행되고 있는 주민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] 서산시는 시민의 건강한 삶이 보장되는 <b>복지<\/b> 서산을 목표로 맞춤형 <b>복지<\/b> 발전 5개년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b> (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2575103&cid=51890&categoryId=53704",
+			"description":"[정의] 강원도 강릉 지역에서 인간의 <b>사회<\/b>적 욕구와 <b>사회<\/b> 문제를 해결하기 위한 <b>사회<\/b>적 노력. [개설] 한국의 <b>사회복지<\/b>는 서구 <b>사회<\/b>와 같이 <b>사회복지<\/b> 제도나 체계적인 <b>사회복지<\/b>의 발달 과정을 상대적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진도의 <b>사회복지<\/b> (진도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2630150&cid=51952&categoryId=55342",
+			"description":"[정의] 인간의 <b>사회<\/b>적 욕구와 <b>사회<\/b>문제를 해결하기 위한 <b>사회<\/b>적 노력. [개설] <b>사회복지<\/b>의 개념은 <b>사회<\/b>발전과 시대적 변천에 따라 바뀐다. 특히 <b>사회복지<\/b>는 그 나라의 정치·경제·<b>사회<\/b>·문화 등 <b>사회<\/b> 각 분야의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제주의 <b>사회복지<\/b> (제주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2625340&cid=51955&categoryId=55495",
+			"description":"[정의] 제주특별자치도 제주시에서 시행하고 있는 인간의 <b>사회<\/b>적 욕구와 <b>사회<\/b> 문제를 해결하기 위한 <b>사회<\/b>적 노력. [개설] <b>사회복지<\/b>는 사람들의 욕구를 파악하고 <b>사회<\/b> 문제의 원인을 규명함과 동시에 그러한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청주의 <b>사회복지<\/b> (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2643791&cid=51895&categoryId=53909",
+			"description":"[정의] 인간의 <b>사회<\/b>적 욕구와 <b>사회<\/b>문제를 해결하기 위한 <b>사회<\/b>적 노력. [개설] <b>사회복지<\/b>가 우리나라에 소개된 지는 얼마 되지 않았다. 한국동란 후 전쟁고아나 빈곤문제를 해결하기 위해 외원단체 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b> (구미)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2586487&cid=51932&categoryId=54292",
+			"description":"[정의] 경상북도 구미시에서 주민의 생활 향상과 <b>사회<\/b> 보장을 위해 실시하는 광범위한 <b>사회<\/b> 정책. [개설] <b>사회복지<\/b>는 인간이 <b>사회<\/b>에 적응하지 못하는 문제를 해결하기 위한 조직적이고 <b>사회<\/b>적인 활동이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공주의 <b>사회복지<\/b> (공주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2581060&cid=51898&categoryId=54018",
+			"description":"[정의] 충청남도 공주시에서 시행되고 있는 국민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] <b>사회 복지<\/b>는 교육, 문화, 의료, 노동 등 <b>사회<\/b> 생활의 모든 분야와 관계되는 조직적인 개념으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"군산의 <b>사회복지<\/b> (군산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2687992&cid=51946&categoryId=55024",
+			"description":"[정의] 전라북도 군산시에서 시행되고 있는 국민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] 군산시의 <b>사회복지<\/b>는 주로 군산 시청 주민 <b>복지<\/b>국 주민 생활 지원과, <b>복지<\/b> 지원과, 여성 아동... ",
+			"thumbnail":""
+		},
+		{
+			"title":"용인의 <b>사회복지<\/b> (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2614946&cid=51887&categoryId=53547",
+			"description":"[정의] 경기도 용인시에서 시행되고 있는 국민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] <b>사회복지<\/b>는 교육, 문화, 의료, 노동 등 <b>사회<\/b>생활의 모든 분야와 관계되는 조직적인 개념으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"울산의 <b>사회 복지<\/b> (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5786006&cid=64866&categoryId=64887",
+			"description":"[정의] 울산광역시 시민의 생활 향상과 <b>사회<\/b> 보장을 위한 <b>사회<\/b>정책과 제반 시설. [개설] <b>사회 복지<\/b>는 <b>사회<\/b>[social]와 <b>복지<\/b>[welfare]의 합성어이다. <b>복지<\/b>는 물질적·신체적·정신적으로 편안하고 만족한 상태와 그에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예산의 <b>사회복지<\/b> (예산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5705828&cid=63071&categoryId=63092",
+			"description":"[정의] 충청남도 예산군에서 시행되고 있는 지역민들의 생활 향상과 <b>사회<\/b>보장을 위하여 실시되는 정책 및 활동. [개설] 헌법에 보장되어 있는 바와 같이 모든 국민들은 행복을 추구할 권리가 있다. <b>사회<\/b>가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대구동구의 <b>사회 복지<\/b> (대구동구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5781225&cid=59463&categoryId=64767",
+			"description":"[정의] 대구광역시 동구에서 시행되고 있는 주민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] <b>사회<\/b>·<b>복지<\/b>는 국민의 생활 안정 및 교육·직업·의료 등의 보장을 포함하는 <b>복지<\/b>를 추구하기 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해남의 <b>사회복지<\/b> (해남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5933818&cid=66793&categoryId=66815",
+			"description":"[정의] 전라남도 해남군 주민의 삶의 질 향상을 위한 <b>사회<\/b>보장 정책과 <b>복지<\/b>사업. [<b>사회<\/b>보장정책] <b>사회<\/b> 구성원의 기본적 욕구를 충족시키기 위한 조직적인 <b>사회복지<\/b> 활동은 민간과 공공영역에서 이루어진다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여수의 <b>사회복지<\/b> (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2608936&cid=51950&categoryId=55232",
+			"description":"[정의] 전라남도 여수시에서 시행하고 있는 국민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] <b>사회복지<\/b>는 교육, 문화, 의료, 노동 등 <b>사회<\/b> 생활의 모든 분야에 관계되는 조직적인 개념으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b> (울릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2616878&cid=51936&categoryId=54503",
+			"description":"[정의] 경상북도 울릉군에서 시행되고 있는 국민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] <b>사회복지<\/b>는 교육, 문화, 의료, 노동 등 <b>사회<\/b>생활의 모든 분야에 관계하는 조직적인 개념으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"울진의 <b>사회복지<\/b> (울진)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2618195&cid=51937&categoryId=54549",
+			"description":"[정의] 경상북도 울진 지역 군민들의 <b>사회<\/b>적 욕구와 <b>사회<\/b> 문제를 해결하기 위한 원조와 노력. [개설] <b>사회복지<\/b>는 <b>사회<\/b> 문제가 끊임없이 발생하고 있는 현대 <b>사회<\/b>에서 중요한 위치를 차지하고 있으며 관심도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"충주의 <b>사회복지<\/b> (충주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2645644&cid=51896&categoryId=53964",
+			"description":"[정의] 충청북도 충주시에서 시행되고 있는 주민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] 공적 부조의 가장 핵심이 되는 법률로 1961년 12월 30일 ‘생활보호법’이 제정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b> (논산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2593595&cid=51928&categoryId=54072",
+			"description":"[정의] 충청남도 논산시에서 시민의 생활 향상과 <b>사회<\/b> 보장을 위해 이루어지는 <b>사회<\/b> 시책이나 관련 시설. [개설] <b>사회복지<\/b>는 교육, 문화, 의료, 노동 등 <b>사회<\/b>생활의 모든 분야에 관계하는 조직적인 개념으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무주의 <b>사회 복지<\/b> (무주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5146527&cid=60026&categoryId=60047",
+			"description":"[정의] 전라북도 무주군 주민의 생활 향상과 <b>사회<\/b> 보장을 위한 <b>사회<\/b> 정책과 제도 및 시설. [지역 <b>사회 복지<\/b> 서비스의 출발] 우리나라에서 근대적 <b>사회 복지<\/b>가 시작될 수 있었던 것은 광복 이후 제공된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시흥의 <b>사회복지<\/b> (시흥)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5757348&cid=63856&categoryId=63877",
+			"description":"[정의] 경기도 시흥시에서 시행하고 있는 국민의 생활 향상과 <b>사회<\/b>보장을 위한 다양한 정책. [개설] '<b>사회<\/b>적으로 행복한 생활 상태'를 뜻하는 <b>사회복지<\/b>는 교육, 문화, 의료, 노동 등 <b>사회<\/b>생활의 모든 분야에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회 복지<\/b> (칠곡)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2648362&cid=51940&categoryId=54704",
+			"description":"[정의] 경상북도 칠곡군에서 지역민의 쾌적하고 안녕한 생활을 위한 체계적이고 조직적인 활동 및 노력. [개설] 일반적으로 지역 <b>사회<\/b>에서 실현하고자 하는 <b>사회<\/b>·<b>복지<\/b>의 개념은 <b>사회<\/b>생활에서 곤란 또는 장애를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음성의 <b>사회복지<\/b> (음성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2620301&cid=51892&categoryId=53762",
+			"description":"[정의] 충청북도 음성군에서 시행되고 있는 국민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] <b>사회복지<\/b>는 교육, 문화, 의료, 노동 등 <b>사회<\/b> 생활의 모든 분야에 관계하는 조직적인 개념으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b> (고령)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2576953&cid=51931&categoryId=54236",
+			"description":"[정의] 경상북도 고령군에서 시행되고 있는 주민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] 1961년 12월 30일 공적 부조의 가장 핵심이 되는 법률로 「생활보호법」이 제정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b> (남원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2591949&cid=51948&categoryId=55131",
+			"description":"[정의] 전라북도 남원시에서 지역 주민의 <b>복지<\/b>를 추구하기 위한 <b>사회<\/b>적 노력, 즉 넓은 의미의 <b>사회<\/b>적 방책의 총칭. [개설] 1960년대부터 1980년대까지 우리나라는 생활 유지 능력이 없는 이들에 대해 구호사업... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b> (구로)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2584899&cid=51879&categoryId=51903",
+			"description":"[정의] 서울특별시 구로구에서 시행되고 있는 주민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] <b>사회복지<\/b>는 교육, 문화, 의료, 노동 등 <b>사회<\/b>생활의 모든 분야와 관계되는 조직적인 개념으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b> (양산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2607778&cid=51941&categoryId=54755",
+			"description":"[정의] 경상남도 양산시에서 시행되고 있는 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] <b>사회 복지<\/b>는 교육·문화·의료·노동 등 <b>사회<\/b> 생활의 모든 분야와 관련되는 조직적인 개념으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b> (고창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2578500&cid=51945&categoryId=54970",
+			"description":"[정의] 전라북도 고창군에서 시행되고 있는 주민의 생활 향상과 <b>사회<\/b> 보장을 위한 광범위한 <b>사회<\/b> 정책. [개설] 공적 부조의 가장 핵심이 되는 법률로 1961년 12월 30일 「생활보호법」이 제정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>복지<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%B5%EC%A7%80",
+			"description":"<b>사회복지<\/b>학에서는 높은 삶의 질이 보장되는 것을 뜻한다. 이러한 맥락에서 국민의 생활 향상과 <b>사회<\/b> 보장을 위한 <b>사회<\/b> 정책과 시설을 통틀어 이르는 말로 <b>사회복지<\/b> (社會福祉)라고 한다. 교육, 문화, 의료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>복지<\/b><b>사회<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1171026&cid=40942&categoryId=31614",
+			"description":"<b>복지<\/b><b>사회<\/b>는 <b>복지<\/b>국가와 대비되는 경우가 많은데, 제2차 세계대전 후 국민의 <b>복지<\/b> 증진을 목표로 정하고 완전고용·<b>사회<\/b>보장·<b>사회복지<\/b>를 실현하는 국가를 <b>복지<\/b>국가라 하며, <b>복지<\/b>국가의 <b>사회<\/b>적 기반을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5674783&cid=62841&categoryId=62841",
+			"description":" <b>사회복지<\/b>사업의 지식과 기술을 이용하여 내담자에게 <b>사회복지<\/b>적 서비스를 제공하는 전문가.  구체적으로 말하면 <b>사회복지<\/b>사업가는 사례(개인) 관리, 집단관리, 지역<b>사회<\/b>조직, 지역원조 등의 방법으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926391&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>사회복지<\/b>사는 청소년, 노인, 여성, 가족, 장애인 등 다양한 <b>사회<\/b>적, 개인적 욕구를 가진 사람들의 문제에 대한 사정과 평가를 통해 문제 해결을 돕고 지원한다.<b>사회<\/b>적, 개인적 문제로 어려움에 처한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2067318&cid=42107&categoryId=42107",
+			"description":"<b>사회복지<\/b>사는 <b>사회복지<\/b>센터, 지자체의 <b>사회복지<\/b>전담공무원, 학교 상담사, 정신보건<b>복지<\/b>사, 국가 <b>복지<\/b> 정책 분야 연구원 등 다양하게 진출할 수 있다. <b>사회복지<\/b>사 2급 소지자는 공무원 시험 응시 시 가산점이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>복지<\/b> <b>사회<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449229&cid=42876&categoryId=42876",
+			"description":"<b>복지<\/b>(well-being, welfare)란 인간적 여러 욕구나 여러 능력이 충분히 충족•표현되어있는 상태를 의미하나, 그러한 상태를 개인적인 자선 활동 만에 의존하지 않고 입법조치나 정책에 의한 조직적 사업을 통하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>복지<\/b><b>사회<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1103125&cid=40942&categoryId=31638",
+			"description":" <b>사회복지<\/b>의 영역을 <b>사회<\/b>학적으로 연구하는 학문.  <b>사회복지<\/b>란 현대<b>사회<\/b>의 구조적 소산인 <b>사회<\/b>제도의 하나로서, 생활문제의 예방 ·해결을 목표로 하며, <b>사회<\/b>보장을 중요한 구성부분으로 포함한다. 그 밖에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1165833&cid=40942&categoryId=31638",
+			"description":" 현대산업<b>사회<\/b>에서 모든 국민들의 생활과 관련되어 있는 <b>사회복지<\/b>라는 <b>사회<\/b>현상을 파악하고, 그 실천을 추구하는 <b>사회<\/b>과학의 한 분야.  <b>사회복지<\/b>학은 본질적으로 인간과 <b>사회<\/b>문제에 대한 과학적 분석과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578980&cid=46634&categoryId=46634",
+			"description":" <b>사회복지<\/b>에 관한 전문지식과 기술을 가지고 <b>사회<\/b>사업에 종사하는 직업인. [내용] 1970년대 <b>사회복지<\/b>사업종사자로 시작하여 1983년 5월 <b>사회복지<\/b>사업법이 개정되면서 <b>사회<\/b>사업가 또는 <b>사회<\/b>사업종사자의 명칭이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1259405&cid=40942&categoryId=31856",
+			"description":" <b>사회복지<\/b>에 관한 전문지식과 기술을 가진 자로서 보건<b>복지<\/b>부 장관으로부터 자격증을 교부받은 사람을 가리킨다. 자격증 등급은 1·2·3급으로 구분하며, 1급 자격증은 국가시험에 합격하여야 취득할 수 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회 복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=876921&cid=60621&categoryId=60621",
+			"description":"이 소설은 콘라드 자신이 7년 동안 경험한 <b>사회복지<\/b>사의 삶에 그 바탕을 두고 있다. 공립 <b>복지<\/b> 기관의 어린이들을 담당하고 있는 화자이자 주인공은 자신의 일을 보고서 형식으로 이야기한다. 그의 파일은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578982&cid=46634&categoryId=46634",
+			"description":"[연원 및 변천] <b>사회복지<\/b>가 학문으로서 체계화된 지는 오래되지 않았다. 한동안 <b>사회복지<\/b>에 대해 올바로 이해하지 못한 채 <b>사회<\/b>사업, 특히 미국의 전문<b>사회<\/b>사업과 동일시하는 경우가 있었으나 이는 해방 이후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2808548&cid=47305&categoryId=47305",
+			"description":"있나요?] · <b>사회복지<\/b>사가 되려면 한국<b>사회복지<\/b>사협회에서 발급하는 <b>사회복지<\/b>사 자격증이 필요합니다. · 전문대학이나 대학교에서 <b>사회복지<\/b>학과를 졸업하면 2급 자격증이 나오고 시험에 합격하면 1급... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3981_000_1\/20190405112311421_HZMOENKLZ.jpg\/dbp08_40_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>정관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545202&cid=42279&categoryId=42279",
+			"description":" <b>사회복지<\/b>정관이란 <b>사회복지<\/b>법인 설립에 필요한 정관이 기재된 문서이다.  법인을 설립하기 위해서는 기준이 되는 정관을 정하고 그에 관한 세부 사항을 기재해야 한다. <b>사회복지<\/b>정관이란 <b>사회복지<\/b>법인 설립에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182545161_9F1N6HZMU.jpg\/hb10_79489_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"임상<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5675835&cid=62841&categoryId=62841",
+			"description":" 기본적인 <b>사회복지<\/b>역할뿐만 아니라 개인, 가족, 소집단을 대상으로 긍정적 대인관계형성, <b>사회<\/b>적 기술향상 등의 심리<b>사회<\/b>적 기능을 증진시키고자 관리하거나 지역<b>사회<\/b>의 지원에 대한 정보 혹은 직접적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>상담",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5674785&cid=62841&categoryId=62841",
+			"description":" <b>사회복지<\/b>사의 자격을 지니고 가족치료나 집단상담과 같은 분야에서 전문적인 훈련을 받아 개업하거나 <b>사회복지<\/b>기관, 병원, 교도소, 학교, 중독치료센터 등의 상담기관에서 이루어지는 조력활동.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917642&cid=44346&categoryId=44346",
+			"description":"[학과개요] <b>사회복지<\/b>과는 삶의 질에 대한 관심도가 높아지고 국가와 지방자치단체의 <b>복지<\/b>정책과 연계하여 지역<b>사회<\/b>뿐 아니라 국가의 건강한 삶과 <b>복지<\/b> 향상을 위한 학과로 다양한 분야에 적용되고 있습니다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2164873&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] <b>사회복지<\/b>학(社會福祉學, social welfare)의 개념을 제대로 이해하기 위해서는 <b>사회복지<\/b>의 성립 및 그 발전과정에 대한 이해가 필요하다. 그것은 <b>사회복지<\/b>학이 <b>사회<\/b>구성원의 <b>사회<\/b>생활상 변화와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140805142536249_57HTIEGLU.jpg\/z5_term159_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1834747&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>사회복지<\/b>사 ① <b>사회복지<\/b>사란 <b>사회복지<\/b>에 관한 전문지식과 기술을 가진 사람으로서, 보건<b>복지<\/b>부장관이 발급하는 <b>사회복지<\/b>사 자격증을 받은 사람을 말한다. ② <b>사회복지<\/b>사 자격의 등급은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191023185917614_HFPPYLQDL.jpg\/da6_650_i3.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%82%AC",
+			"description":"<b>사회복지<\/b>사 (社會福祉士, 영어: Social Worker )는 <b>사회복지<\/b>학적 지식을 활용한 <b>사회<\/b>사업을 통해 <b>사회<\/b>적 문제를 분석, 판단하고 해결하기 위한 방법을 고안, 실행하는 직업이다. 예전에는 명칭이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2849593&cid=55622&categoryId=55622&anchorTarget=TABLE_OF_CONTENT8#TABLE_OF_CONTENT8",
+			"description":"• 다양한 <b>사회<\/b>적·개인적 문제를 겪는 사람들을 대상으로 <b>사회복지<\/b>학 및 <b>사회<\/b>과학의 전문지식을 이용하여 문제를 진단하고 해결해주며, <b>사회<\/b>에 잘 적응할 수 있도록 돕는 일을 합니다.• <b>사회복지<\/b>사가 되기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470806&cid=42120&categoryId=42120",
+			"description":"<b>사회복지<\/b>관은 <b>사회<\/b>관(community center), 인보관(settlement house), 근린관(neighborhood center) 등으로 불린다. 그 기원은 영국의 <b>사회복지<\/b>법인 토인비 홀(Toynbee Hall), 미국의 헐 하우스(Hull House), 우리나라의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>주일",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1171318&cid=40942&categoryId=31589",
+			"description":"<b>사회복지<\/b>주일은 매년 1월 마지막 주일이다. 한국 천주교회는 1968년에 <b>복지<\/b>기금모금 주일로서 세계나병의 날을 구라주일로 선포한 뒤, 이날 전국 각 본당에서 거두어지는 헌금을 가톨릭 나사업가 연합회로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>복지<\/b><b>사회<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470495&cid=42120&categoryId=42120",
+			"description":"<b>사회복지<\/b> 제 관계법에 제시된 영역을 대상으로 하면서 각각의 욕구에 관한 질량을 그 <b>사회<\/b>적 배경, 형성과정에 따라서 해명하는 학문의 한 영역으로서 그 욕구에 대한 각종 서비스의 다원적인 공급구조와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>의 날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5925073&cid=43667&categoryId=43667",
+			"description":"2000년에 「<b>사회복지<\/b>사업법」에 따라 국민의 <b>사회복지<\/b>에 대한 이해를 증진하고 <b>사회복지<\/b>사업 종사자의 활동을 장려하기 위하여 국가기념일로 지정되었다.  | 외국어 표기 | 社會福祉─(한자) | | 날짜 | 매년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>사 2급",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5769813&cid=42114&categoryId=42114",
+			"description":" <b>사회복지<\/b>사 2급이란 <b>사회복지<\/b>에 관한 전문지식과 기술을 가진 사람으로서, 보건<b>복지<\/b>부장관이 발급하는 <b>사회복지<\/b>사 2급 자격증을 받은 사람을 말한다. <b>사회복지<\/b>사 자격의 등급은 1급과 2급으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191229093_16LVTNPLW.jpg\/da6_882_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>지출",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5959413&cid=40942&categoryId=31638",
+			"description":"<b>사회복지<\/b>지출이란 노령, 질병, 재해, 실업 등과 같은 <b>사회<\/b>적 위험에 처한 개인을 지원하기 위하여 국가나 <b>사회<\/b>가 제공하는 재정적 지원을 가리킨다. 경제협력개발기구(Organization for Economic... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>지출",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3582490&cid=43667&categoryId=43667",
+			"description":"공공<b>사회복지<\/b>지출과 법정민간<b>사회복지<\/b>지출로 구분한다. 중앙정부, 지방자치단체, 지방교육청 등의 <b>복지<\/b> 재정과 <b>사회<\/b>보장 급여 사업을 조사해 산출하며, 매년 경제협력개발기구(OECD)에 관련 통계를... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxNzA0MjhfMTA5%2FMDAxNDkzMzQ1MjYzMDk2.kWc_MMQopjljg9ODscc-Wxivs6C9FYlRR1FwOfhJfw8g.pi2MddOhoRo2mcVy5f5lyTJ7iuvK6ScQNVZXAS-TXO4g.JPEG%2FIl5oD2uaTSU_xLsRPaN7aQFXi5fQ.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x189"
+		},
+		{
+			"title":"<b>사회복지<\/b>사 1급",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970469&cid=42114&categoryId=42114",
+			"description":" <b>사회복지<\/b>사 1급이란 일정한 자격 요건을 갖춘 자가 산업인력공단에서 시행하는 <b>사회복지<\/b>사 1급 국가시험에 합격하고, 보건<b>복지<\/b>부장관이 발급하는 자격증을 교부받은 자를 말한다. <b>사회복지<\/b>사 1급 시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180912122511897_AF0BBQW52.png\/da6_76_i3.png?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3379845&cid=51373&categoryId=51373",
+			"description":" <b>사회복지<\/b>의 계획 내용을 명시한 문서.  <b>사회복지<\/b>란 <b>사회<\/b> 구성원 모두의 삶의 질 향상과 행복 증진을 목표로 하는 행위의 총체를 말한다. 계획서는 어떠한 일을 시작하기 전에 미리 해당 일에 대한 계획을 세워... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503115501549_W8NIR6O6F.jpg\/ba17_3737_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>사업법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578981&cid=46625&categoryId=46625",
+			"description":" <b>사회복지<\/b>사업에 관한 기본적 사항을 규정하여 <b>사회복지<\/b>를 필요로 하는 사람의 인간다운 생활을 할 권리를 보장하고 <b>사회복지<\/b>의 전문성을 높이며, <b>사회복지<\/b>사업의 공정·투명·적정을 기함으로써 <b>사회복지<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"학교<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6624618&cid=42114&categoryId=42114",
+			"description":" 학교<b>사회복지<\/b>사란 <b>사회복지<\/b>사 1급 자격을 취득한 후 <b>사회복지<\/b>사업법 제11조제3항에 따른 수련기관에서 1년 이상 보건<b>복지<\/b>부령으로 정하는 수련과정을 이수한 사람을 말한다. [ 1. 기본정보] (1) 자격분류... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220616101601492_L07UYDZO3.jpg\/da6_984_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"의료<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6624620&cid=42114&categoryId=42114",
+			"description":" 의료<b>사회복지<\/b>사란 <b>사회복지<\/b>사 1급 자격을 취득한 후 <b>사회복지<\/b>사업법 제11조 제3항에 따른 수련기관에서 1년 이상 보건<b>복지<\/b>부령으로 정하는 수련과정을 이수한 사람을 말한다. [ 1. 기본정보] (1) 자격분류... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220616101601492_NZZ5WAR7E.jpg\/da6_982_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>사업법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1108209&cid=40942&categoryId=31713",
+			"description":" <b>사회복지<\/b>사업에 관한 기본적 사항을 규정하기 위한 법률(전문개정 1997. 8. 22. 법률 제5358호).  <b>사회복지<\/b>사업에 관한 기본적 사항을 규정하여 <b>사회복지<\/b>를 필요로 하는 사람의 인간다운 생활을 할 권리를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의료<b>사회복지<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5674602&cid=62841&categoryId=62841",
+			"description":"의료<b>사회복지<\/b>사는 환자와 그 가족을 둘러싼 심리적 문제와 생활문제(의료비, 생활비)에 대해, 또는 각종 <b>사회<\/b>자원(<b>복지<\/b>기관, 시설, <b>사회복지<\/b>제도, <b>사회<\/b>보장 등)을 활용할 수 있도록 소개하여 이들 문제를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"남원<b>사회복지<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=813454&cid=43139&categoryId=43139",
+			"description":" 전라북도 남원시에 있는 <b>사회복지<\/b>관.  전라북도 남원지역 주민들의 <b>복지<\/b> 증진과 어린이ㆍ청소년의 건전한 성장을 돕고, 소외 노인과 장애인들에게 <b>복지<\/b> 서비스를 제공하기 위해 설립된 <b>복지<\/b>시설. 1996년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>학과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917643&cid=44346&categoryId=44346",
+			"description":"[학과개요] <b>사회복지<\/b>학은 인간 중심의 철학을 바탕으로 평등, 정의를 실현하기 위한 학과입니다. <b>사회복지<\/b>는 더불어 사는 행복한 <b>사회<\/b>를 만들기 위한 노력을 뜻합니다. <b>사회복지<\/b>학과는 다양한 <b>사회<\/b>문제의 해결... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지역<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2164877&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] 세계적으로 지역<b>사회<\/b>에 대한 관심이 고조되고 있는 가운데 <b>사회복지<\/b>학계에서는 지역<b>사회<\/b>에 대한 관심이 높아졌다. <b>사회복지<\/b>에서 지역화는 지역<b>사회<\/b>주민의 욕구를 기반으로 하여 <b>사회복지<\/b>를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140805142608281_2UNSR41MO.jpg\/z5_term163_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>조사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2164875&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] 급격한 <b>사회<\/b> 및 환경의 변화로 인해 발생하는 <b>사회<\/b>문제 해결을 위한 <b>사회복지<\/b>의 실천은 아직 충분히 검증을 받지 못한 개입과 절차에 의해 주로 이루어지는 것이 현실이다. 기존의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>정책",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2164874&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] <b>사회복지<\/b>정책(社會福祉政策, social welfare policy)은 정부나 지방자치단체의 재정지출을 수반하는 공공정책으로 <b>사회<\/b>정책과 혼용되어 사용하는 개념이다. <b>사회복지<\/b>정책은 공공정책의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140805142540644_VDZH11MSR.jpg\/z5_term160_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회복지<\/b>서비스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=299560&cid=43665&categoryId=43665",
+			"description":" 국가 · 지방자치단체 및 민간부문의 도움을 필요로 하는 모든 국민에게 상담, 재활, 직업소개 및 지도, <b>사회복지<\/b>시설 이용 등을 제공하여 정상적인 생활이 가능하도록 지원하는 제도이다.  국가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>행정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470845&cid=42120&categoryId=42120",
+			"description":"<b>사회복지<\/b>행정은 <b>사회복지<\/b>와 행정의 복합어로 행정은 관리, 경영, 운영 등과 그 밖의 여러 가지 의미로 사용되고 있으며 단체나 조직에서 필요로 하는 기능이다. <b>사회복지<\/b>행정의 발전과정을 보면 하나는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제<b>사회복지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=469379&cid=42120&categoryId=42120",
+			"description":"일반적으로 <b>사회복지<\/b>를 추진하는 구체적인 국제적 제 기구와 그 활동을 지칭한다. 그러나 그 사상적 기반을 간과해서는 안된다. <b>사회복지<\/b>의 이념은 국내, 국제를 통틀어 세계인권선언에 집약되어 있고 그 같은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>지출",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%A7%80%EC%B6%9C",
+			"description":"<b>사회복지<\/b>지출 (Social Expenditure)은 한나라에서 자국의 공공<b>사회복지<\/b>지출(Public Social Expenditure, 공공지출)과 법정민간지출((Mandatory Private Social Expenditure)을 합한 지출액이다. OECD에서 발표하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>계획",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470802&cid=42120&categoryId=42120",
+			"description":"<b>사회복지<\/b>의 욕구는 경제정세의 변화, <b>사회<\/b>, 생활구조, 의식구조의 변화에 따라 큰 영향을 받는데 이 변동은 현대<b>사회<\/b>에서 정책의 소산이다. 이러한 <b>사회복지<\/b>의 과제에 대응해가기 위해서는 장래의 구상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>조사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470843&cid=42120&categoryId=42120",
+			"description":"일정<b>사회<\/b> 혹은 <b>사회<\/b>집단에서의 <b>사회복지<\/b>현상을 현지조사(field work)에 의해 관찰하고 기술하고 분석하는 과정으로서 <b>사회복지<\/b>학은 물론 <b>사회<\/b>학에 데이터를 제공하며 국가의 <b>사회복지<\/b> 정책결정에도 크게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470808&cid=42120&categoryId=42120",
+			"description":"광의로는 학교 교육에서 아동, 학생에 대한 활동, <b>사회<\/b>교육 등에서 일반주민을 대상으로 하는 활동, 대학 등의 전문 교육기관에서 <b>사회복지<\/b> 전문 인력 배출을 위한 활동 등으로 대별된다. 협의로는 <b>사회복지<\/b>에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회복지<\/b>기능",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470809&cid=42120&categoryId=42120",
+			"description":"<b>사회복지<\/b>의 기능이라 함은 <b>사회복지<\/b>의 목적을 효과적으로 실현하기 위한 노력, 즉 제도로서의 역할을 말한다. 따라서 <b>사회복지<\/b>의 목적에 대한 이해 여하에 따라 기능의 내용은 달라진다. <b>사회복지<\/b>의 목적이... ",
+			"thumbnail":""
+		}
+	]
+}

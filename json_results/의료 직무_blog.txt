@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:26 +0900",
+	"total":134273,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"병원직무교육(환급과정) 수강하기 (한번에 끝내는 <b>의료직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/mchriss?Redirect=Log&logNo=222588216665",
+			"description":"병원의 미래 의료산업 4차산업혁명 한번에 끝내는 <b>의료직무<\/b> 핵심과정은 휴대폰 &amp; PC로도 수강이 가능한 편리한 온라인교육입니다. 2022년 직무교육이 계획이 있다면 온라인교육 신청해 보세요. 자부담... ",
+			"bloggername":"빛나는 인생",
+			"bloggerlink":"https:\/\/blog.naver.com\/mchriss",
+			"postdate":"20211206"
+		},
+		{
+			"title":"<b>의료<\/b>분야 <b>직무<\/b>수행계획서 잘 쓰는 법-공기업 자소서-정부기관... ",
+			"link":"https:\/\/blog.naver.com\/lsflove?Redirect=Log&logNo=222058468769",
+			"description":"지난 2주 동안 자기소개서 및 <b>직무<\/b>수행계획서 일대일 컨설팅으로 너무 바빴어요! 공공기관, 정부기관... 이런경우는 힘쓰는 일 잘 할 수 있다는 것과 어린친구들이 갖지 못한 점들 실습 때 배운 <b>의료<\/b>용어들을... ",
+			"bloggername":"Inspirer 송아름컨설턴트(Career & Life consultant)",
+			"bloggerlink":"https:\/\/blog.naver.com\/lsflove",
+			"postdate":"20200812"
+		},
+		{
+			"title":"병원마케팅 등 <b>의료<\/b>기관 종사자를 위한 국비지원 온라인 <b>직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/educenter3181?Redirect=Log&logNo=222642871744",
+			"description":"<b>의료 직무<\/b>분석과 직무 설계 55. 병원 채용관리 56. 교육훈련 및 성과평가 한국이러닝교육센터 국민내일배움카드 - 의료기관 종사자를 위한 핵심 직무 스킬업 한국이러닝교육센터 국민내일배움카드... ",
+			"bloggername":"한국이러닝교육센터 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/educenter3181",
+			"postdate":"20220209"
+		},
+		{
+			"title":"<b>의료<\/b>종사자 <b>직무<\/b>필수핵심 <b>의료<\/b>법 [중간평가]",
+			"link":"https:\/\/blog.naver.com\/duelistwonis?Redirect=Log&logNo=222786415259",
+			"description":"#<b>의료<\/b>종사자 #<b>직무<\/b>필수핵심 #<b>의료<\/b>법 #중간평가 1. 환자의 진료의사 선택 등에 대한 설명 중 틀린 것은? 1. <b>의료<\/b>기관의 장은 환자가 의사를 선택하여 진료를 요청한다면 어떠한 경우에도 해당 의사가 진료하도록... ",
+			"bloggername":"my romantic gene is dominant",
+			"bloggerlink":"https:\/\/blog.naver.com\/duelistwonis",
+			"postdate":"20220624"
+		},
+		{
+			"title":"<b>의료<\/b>기관 종사자를 위한 핵심 <b>직무<\/b> 스킬업",
+			"link":"https:\/\/blog.naver.com\/unredu?Redirect=Log&logNo=222623601913",
+			"description":"54 <b>의료 직무<\/b>분석과 직무설계 17 약품 구매하기 36 병원에서 조직관리1 55 병원채용관리 18 소모품 구매하기 37 병원에서 조직관리2 56 교육훈련 및 성과평가 19 장비 구매하기1 38 의료기관 지휘관리 '의료기관... ",
+			"bloggername":"유앤알컴퍼니",
+			"bloggerlink":"https:\/\/blog.naver.com\/unredu",
+			"postdate":"20220117"
+		},
+		{
+			"title":"쪼렙 <b>의료<\/b>기기 RA의 <b>직무<\/b>에 대한 사견^^",
+			"link":"https:\/\/blog.naver.com\/wind_joo?Redirect=Log&logNo=222727402868",
+			"description":"켈리 최씨가 한 분야에서 정상 찍는거 5년이면 된다던데 5년만 하고 치고 빠질까봐요? 아직도 대체 뭐해먹고 살아야 행복할지 고민중..ㅎㅎㅎ 모쪼록 본인에게 맞는 선택을 하시길...! #RA<b>직무<\/b> #<b>의료<\/b>기기RA",
+			"bloggername":"구슬 서말 꿰기-알에이 스페샬리스트를 향하여으",
+			"bloggerlink":"https:\/\/blog.naver.com\/wind_joo",
+			"postdate":"20220510"
+		},
+		{
+			"title":"온라인 <b>의료 직무<\/b>교육 ☞ [의료종사자 직무필수핵심 의료법]",
+			"link":"https:\/\/blog.naver.com\/ereedu?Redirect=Log&logNo=222280885545",
+			"description":"#<b>의료<\/b>종사자<b>직무<\/b>필수핵심<b>의료<\/b>법 #<b>직무<\/b>교육 #이레교육원 #수강화면 우선지원대상 기업 기준의 1人 교육비입니다. 총 교육비: 190,960원 정부지원금: 171,864원 사업주부담금: 19,096원 이레교육원_<b>직무<\/b>향상교육... ",
+			"bloggername":"온라인 원격교육 전문 이레교육원",
+			"bloggerlink":"https:\/\/blog.naver.com\/ereedu",
+			"postdate":"20210319"
+		},
+		{
+			"title":"한국국제보건<b>의료<\/b>재단 면접학원, <b>직무<\/b>에 따른 면접코칭 !",
+			"link":"https:\/\/blog.naver.com\/objeact-c?Redirect=Log&logNo=222824102087",
+			"description":"한국국제보건<b>의료<\/b>재단 면접학원, <b>직무<\/b> 및 면접유형에 맞는 준비는 공기업 전문가에게 코칭받아보세요 ! 모든 코칭은 예약제로 운영되니 사전 코칭예약은 필수입니다 1800-6992 ⬇️ 한국국제보건<b>의료<\/b>재단... ",
+			"bloggername":"IT박사가 되고싶어요",
+			"bloggerlink":"https:\/\/blog.naver.com\/objeact-c",
+			"postdate":"20220722"
+		},
+		{
+			"title":"[컨설팅] 경찰청 <b>의료<\/b>사고 경력경쟁채용 자기소개 및 <b>직무<\/b>수행... ",
+			"link":"https:\/\/blog.naver.com\/jw811p?Redirect=Log&logNo=222804193645",
+			"description":"의뢰인은 경찰청 <b>의료<\/b>사고 <b>직무<\/b>기술서 첨삭 내용을 봤다며 자료를 받아볼 수 있는지 물어보셨습니다. 너무 감사한 관심이지만, 일상취업연구소는 컨설팅 외의 별도의 자료 제공은 하고 있지 않습니다.... ",
+			"bloggername":"일상취업연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/jw811p",
+			"postdate":"20220708"
+		},
+		{
+			"title":"환자중심 <b>의료직무<\/b> 교육 - 과제",
+			"link":"https:\/\/blog.naver.com\/sauooo?Redirect=Log&logNo=222665818808",
+			"description":"[과제] <b>의료<\/b>인 및 <b>의료<\/b>기관 종사자는 환자의 치료 경과 및 과정에 대하여 기술한 치료 관련 기록인 의무기록을 다루게 된다. - 의무기록에 포함되어야 하는 정보에 대하여 작성하고, 의무기록 작성 시... ",
+			"bloggername":"♡쁘니일기♡",
+			"bloggerlink":"https:\/\/blog.naver.com\/sauooo",
+			"postdate":"20220307"
+		},
+		{
+			"title":"<b>의료<\/b>기관인증평가 관련 <b>직무<\/b>스트레스가 직군간 이직의도에... ",
+			"link":"https:\/\/blog.naver.com\/white8220?Redirect=Log&logNo=222808596787",
+			"description":"<b>의료<\/b>기관인증평가 관련 <b>직무<\/b>스트레스가 직군간 이직의도에 미치는 영향 <b>의료<\/b>기관 인증제 <b>직무<\/b>스트레스가 높을수록 이직의도가 높은 것으로 났다. 간호사의 이직율을 낮추기 위해서는 간호단위별로... ",
+			"bloggername":"쏘이 313",
+			"bloggerlink":"https:\/\/blog.naver.com\/white8220",
+			"postdate":"20220712"
+		},
+		{
+			"title":"AI 등장, <b>의료<\/b>분야 <b>직무<\/b>·역할 변화 수반 예상 (이헬스통신)",
+			"link":"https:\/\/blog.naver.com\/ehealth999?Redirect=Log&logNo=222384150866",
+			"description":"AI 등장, <b>의료<\/b>분야 <b>직무<\/b>·역할 변화 수반 예상 KSIDI, &quot;<b>의료<\/b>체계·환자 케어 생산성·효율성↑&quot; 강찬우 기자 *******@*-**********.*** 인공지능(AI)의 등장으로 <b>의료<\/b> 분야 직종의 업무에 큰 변화가 오고 있다. 4일... ",
+			"bloggername":"건강한 세상을 꿈꾸며...",
+			"bloggerlink":"https:\/\/blog.naver.com\/ehealth999",
+			"postdate":"20210604"
+		},
+		{
+			"title":"<b>의료<\/b>기관 <b>직무<\/b> 교육 단체 수강",
+			"link":"https:\/\/blog.naver.com\/yonseithebest?Redirect=Log&logNo=222808748393",
+			"description":"<b>의료<\/b>기관이라면 필히 법정의무 교육 을 들어야 해요 교육 내용에는 1. 개인정보보호교육 2. 직장 내 성희롱 예방교육 3. 직장 내 장애인식 개선교육 4. 산업안전보건교육 5. 아동학대 신고 의무자 교육 6.... ",
+			"bloggername":"연세더베스트치과 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/yonseithebest",
+			"postdate":"20220712"
+		},
+		{
+			"title":"100병상 이상 <b>의료<\/b>기관 보안인력 경비<b>직무<\/b>교육 어떻게 하고... ",
+			"link":"https:\/\/blog.naver.com\/snet_cha?Redirect=Log&logNo=222442631437",
+			"description":"#<b>의료<\/b>기관 #보안인력 #경비<b>직무<\/b>교육 안녕하세요 에스넷직업능력개발원입니다 오늘은 100병상 이상 <b>의료<\/b>기관의 보안인력 채용과 그에 따른 경비<b>직무<\/b>교육에 대해 알아보고자 합니다 20년 4월 24일 <b>의료<\/b>법... ",
+			"bloggername":"에스넷직업능력개발원",
+			"bloggerlink":"https:\/\/blog.naver.com\/snet_cha",
+			"postdate":"20210723"
+		},
+		{
+			"title":"<b>의료직무<\/b>역량강화교육(인증필수+특성화+법정교육)",
+			"link":"https:\/\/blog.naver.com\/ked2580?Redirect=Log&logNo=222614573639",
+			"description":"아래에 나와있는 과정개요서는 '<b>의료<\/b>기관'에서 필수적으로 받아야하는 교육에 특성화 교육 그리고 법정의무교육을 한 과정에 묶어 <b>의료<\/b>기관 맞춤형 필수교육입니다. 우리 기관은 법정의무교육은 들어서... ",
+			"bloggername":"내일의 가치를 여는 한국HRD진흥원",
+			"bloggerlink":"https:\/\/blog.naver.com\/ked2580",
+			"postdate":"20220106"
+		},
+		{
+			"title":"<b>의료<\/b>종사자 <b>직무<\/b>필수핵심 <b>의료<\/b>법 [최종평가]",
+			"link":"https:\/\/blog.naver.com\/duelistwonis?Redirect=Log&logNo=222793425764",
+			"description":"#<b>의료<\/b>종사자 #<b>직무<\/b>필수핵심 #<b>의료<\/b>법 #최종평가 1. <b>의료<\/b>법인 설립허가 시 필요한 서류가 아닌 것은 ? 1. 설립취지서 2. 정관 3. 부동산ㆍ예금ㆍ유가증권 등 주된 재산에 관한 등기소ㆍ금융기관 등의 증명 4.... ",
+			"bloggername":"my romantic gene is dominant",
+			"bloggerlink":"https:\/\/blog.naver.com\/duelistwonis",
+			"postdate":"20220629"
+		},
+		{
+			"title":"[사업주훈련:<b>의료<\/b>보건] <b>의료<\/b>서비스 실전 <b>직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/jerry_noh?Redirect=Log&logNo=222109439213",
+			"description":"안녕하세요 기업교육 컨설턴트 앙파입니다 오늘 소개해 드릴 사업주직업능력개발훈련과정은 바로 <b>의료<\/b>기관 종사자 <b>직무<\/b>교육입니다 오늘 교육의 목표는 4차 산업혁명과 <b>의료<\/b>산업의 빠른 변화를 이해하고... ",
+			"bloggername":"기업교육 전문 컨설턴트",
+			"bloggerlink":"https:\/\/blog.naver.com\/jerry_noh",
+			"postdate":"20201007"
+		},
+		{
+			"title":"NECA 한국보건<b>의료<\/b>연구원... 안내, 인재상, 운영지원 NCS<b>직무<\/b>기술서",
+			"link":"https:\/\/blog.naver.com\/felixkjw?Redirect=Log&logNo=222189941416",
+			"description":"우선 한국보건<b>의료<\/b>연구원 <b>직무<\/b>설명자료(NCS <b>직무<\/b>기술서) 운영지원 <b>직무<\/b> 편을 보시죠. 여기서 왼쪽 구분 칸을 집중해주세요. 주요사업-<b>직무<\/b>수행내용-능력단위-필요지식-필요기술-<b>직무<\/b>수행태도-직업기초능력... ",
+			"bloggername":"빅터쌤의 바른치아약속",
+			"bloggerlink":"https:\/\/blog.naver.com\/felixkjw",
+			"postdate":"20201230"
+		},
+		{
+			"title":"쪼렙 <b>의료<\/b>기기 RA <b>직무<\/b>에 대한 사견2",
+			"link":"https:\/\/blog.naver.com\/wind_joo?Redirect=Log&logNo=222752331075",
+			"description":"올리는(왜이리 정보를 꽁꽁 숨겨두는지 모를일 ㅡㅡ) 취준생을 위한 생명수와 같은 글이오며 아무 사익을 추구하지 않습니다~~~ 출처-김장과 질문주신 익명의 화공인 #<b>의료<\/b>기기RA #RA #인허가 #QA #RA<b>직무<\/b>",
+			"bloggername":"구슬 서말 꿰기-알에이 스페샬리스트를 향하여으",
+			"bloggerlink":"https:\/\/blog.naver.com\/wind_joo",
+			"postdate":"20220530"
+		},
+		{
+			"title":"<b>직무<\/b> 이해_보건.<b>의료<\/b>_임상심리사",
+			"link":"https:\/\/blog.naver.com\/smiley2k?Redirect=Log&logNo=222577572872",
+			"description":"보건\/<b>의료<\/b>에서 세부 모집분야에 임상심리 <b>직무<\/b>를 설명하는 <b>직무<\/b>기술서입니다. 임상심리 <b>직무<\/b> 수행 내용입니다. --&gt; 정신건강 증진을 도모하기 위해 심리학적 지식을 활용하여 심리 평가, 심리치료, 자문교육... ",
+			"bloggername":"김컨의 즐거운 직딩 생활 가이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/smiley2k",
+			"postdate":"20211124"
+		},
+		{
+			"title":"<b>의료<\/b>사고 조사 <b>직무<\/b>수행계획서 작성법 교육",
+			"link":"https:\/\/blog.naver.com\/mdmanse?Redirect=Log&logNo=222492768664",
+			"description":"<b>의료<\/b>사고 <b>직무<\/b>수행계획서 작성법 <b>직무<\/b>수행계획서 양식을 보면, 자소서, 주요 경력, <b>직무<\/b>수행계획서 2매 하여 총 4매를 작성하게 되어 있습니다. 그런데 글자 폰트 크기를 15pt로 지정했습니다. 큰 것이 좋기는 하나... ",
+			"bloggername":"DMF",
+			"bloggerlink":"https:\/\/blog.naver.com\/mdmanse",
+			"postdate":"20210902"
+		},
+		{
+			"title":"[고용보험 환급교육]<b>의료<\/b>기관에서 수강하면 좋을 <b>직무<\/b>교육 추천!",
+			"link":"https:\/\/blog.naver.com\/jong000722?Redirect=Log&logNo=222643986012",
+			"description":"그 중 <b>의료<\/b>기관 종사자가 수강하면 좋을 <b>의료<\/b> 관련 <b>직무<\/b>교육 과정을 소개해드리려 합니다. <b>의료<\/b> 관련 <b>직무<\/b>교육에는 NEW ROAD! 디지털융합 혁명과 <b>의료<\/b> 빅데이터 <b>의료<\/b>정보 관리에 대한 A to Z! 노인 환자 케어와... ",
+			"bloggername":"한국직업능력원격평생교육원",
+			"bloggerlink":"https:\/\/blog.naver.com\/jong000722",
+			"postdate":"20220210"
+		},
+		{
+			"title":"환자중심 <b>의료직무<\/b> 교육 - 진행단계평가",
+			"link":"https:\/\/blog.naver.com\/sauooo?Redirect=Log&logNo=222663954680",
+			"description":"다.청소는 높은 곳에서 낮은 곳 순으로 진행한다. 라.<b>의료<\/b>기관의 지침을 바탕으로 청소용 세제를 선택한다. 정답 정답: 나 [해설] 청소 및 소독 용구는 병실용, 복도용, 화장실용 등으로 구분하여 사용합니다.",
+			"bloggername":"♡쁘니일기♡",
+			"bloggerlink":"https:\/\/blog.naver.com\/sauooo",
+			"postdate":"20220304"
+		},
+		{
+			"title":"<b>의료 직무<\/b>에 필요한 의료인필수교육 받고 직무능력을 높이세요",
+			"link":"https:\/\/blog.naver.com\/cheonkanghrd?Redirect=Log&logNo=222082965272",
+			"description":"넘어갑니다) #천강 #천강HRD #법정의무교육 #5대법정의무교육 #법정선택교육 #<b>직무<\/b>교육 #<b>의료<\/b>인필수교육 #법정의무교육온라인 #<b>의료<\/b>인 #온라인법정의무교육 #4대법정의무교육 #작업치료사채용... ",
+			"bloggername":"천강 HRD",
+			"bloggerlink":"https:\/\/blog.naver.com\/cheonkanghrd",
+			"postdate":"20200907"
+		},
+		{
+			"title":"[A등급 병원<b>의료직무<\/b> 고용노동부 환급과정\/환급률 최대 90... ",
+			"link":"https:\/\/blog.naver.com\/hrdasset?Redirect=Log&logNo=222136489598",
+			"description":"<b>의료직무<\/b>\/병원직무 환급과정 콘텐츠 3개 과정이 가뿐하게 A등급을 획득하였습니다. 2020년 제 5차 사업주 원격훈련 인정대상 목록 4차 심사에서 A등급을 획득한 NCS기반 병원고객관리 외에, 의료기관... ",
+			"bloggername":"당신의 스마트한 직무능력개발을 응원합니다, HRD에셋",
+			"bloggerlink":"https:\/\/blog.naver.com\/hrdasset",
+			"postdate":"20201105"
+		},
+		{
+			"title":"국제<b>의료<\/b>관광코디네이터 자격증에 대해 알아봐요! (개요, <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/vbvbiii?Redirect=Log&logNo=222236989439",
+			"description":"국제<b>의료<\/b>관광코디네이터 자격증 <b>직무<\/b>? 그럼 이 자격증을 따서, 국제<b>의료<\/b>관광코디네이터가 된다면 어떤 <b>직무<\/b>를 수행하게 될까요? 국제화되는 <b>의료<\/b> 시장에서! 외국인 환자를 유치하며, 관리하기 위한 <b>의료<\/b>... ",
+			"bloggername":"어셔어학원",
+			"bloggerlink":"https:\/\/blog.naver.com\/vbvbiii",
+			"postdate":"20210208"
+		},
+		{
+			"title":"안전보건교육, <b>의료<\/b>종사자 <b>직무<\/b>교육 시험 답 찾을 때 참고 사이트",
+			"link":"https:\/\/blog.naver.com\/duelistwonis?Redirect=Log&logNo=222811840503",
+			"description":"#법제처 #국가법령정보센터 해마다 온라인으로 안전보건교육, <b>의료<\/b>종사자 <b>직무<\/b>교육을 받는다. 뭐, 사실은 그냥 강의 틀어놓고 일하거나 딴짓을 하지만ㅋㅋㅋㅋㅋㅋㅋ 그리고 시험문제 답은 강의자료를... ",
+			"bloggername":"my romantic gene is dominant",
+			"bloggerlink":"https:\/\/blog.naver.com\/duelistwonis",
+			"postdate":"20220714"
+		},
+		{
+			"title":"<b>의료<\/b>사회복지실천의 역할 및 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/ploolp6806?Redirect=Log&logNo=222751216215",
+			"description":"※ 미국<b>의료<\/b>사회복지사 협회 표준<b>의료<\/b>사회복지서비스 ※ 미국사회복지사협회가 <b>의료<\/b>사회복지사에게 기대하는 4가지 기능 ※ 우리나라의 경우 <b>의료<\/b>사회복지사의 주요 <b>직무<\/b>는 <b>의료<\/b>환경의 변화와 사회적... ",
+			"bloggername":"한 걸음(one step at a step)",
+			"bloggerlink":"https:\/\/blog.naver.com\/ploolp6806",
+			"postdate":"20220529"
+		},
+		{
+			"title":"부천시, <b>의료<\/b>기술직렬 공무원 역량 강화를 위한 <b>직무<\/b>교육 실시",
+			"link":"https:\/\/blog.naver.com\/kooo111?Redirect=Log&logNo=222793694032",
+			"description":"부천시는 지난 27일 코로나19 재유행을 대비하고 차별화된 지역사회 통합건강증진사업 추진을 위해 <b>의료<\/b>기술직렬 공무원 역량 및 전문성 강화를 위한 <b>직무<\/b> 교육을 진행했다. ▲ <b>의료<\/b>기술직렬 공무원 역량... ",
+			"bloggername":"권오칠의 교통안전 공감",
+			"bloggerlink":"https:\/\/blog.naver.com\/kooo111",
+			"postdate":"20220629"
+		},
+		{
+			"title":"2022년부터 사전연명<b>의료<\/b>의향서 상담사 <b>직무<\/b>가 노인일자리... ",
+			"link":"https:\/\/blog.naver.com\/konibp?Redirect=Log&logNo=222518151961",
+			"description":"지난 6월부터 8월 말까지 사전연명<b>의료<\/b>의향서 상담사 <b>직무<\/b>가 노인일자리(사회서비스형)로의 적합성을 확인하기 위한 시범사업으로 추진되었습니다. 시범사업은 서울지역 4개 등록기관과 10명의 상담사가... ",
+			"bloggername":"국가생명윤리정책원, 국립연명의료관리기관",
+			"bloggerlink":"https:\/\/blog.naver.com\/konibp",
+			"postdate":"20210927"
+		},
+		{
+			"title":"[교육 로드맵_<b>의료<\/b>기관교육] <b>의료<\/b>서비스 실전 <b>직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/el_mate?Redirect=Log&logNo=222307414675",
+			"description":"★ <b>의료<\/b>서비스 실전 <b>직무<\/b>교육 ★ <b>의료<\/b>기관 종사자 모두가 <b>의료<\/b>산업 변화를 이해하고, 만족을 넘어 고객감동을 이끌어내는 <b>의료<\/b>서비스를 위한 진정한 전문가로 거듭나기 위한 실천을 돕습니다. <b>의료<\/b>감정... ",
+			"bloggername":"이러닝메이트 평생교육원",
+			"bloggerlink":"https:\/\/blog.naver.com\/el_mate",
+			"postdate":"20210413"
+		},
+		{
+			"title":"중소기업 청년 <b>직무<\/b>체험 프로그램 <b>의료<\/b>분야 서비스산업 취업... ",
+			"link":"https:\/\/blog.naver.com\/icdlec?Redirect=Log&logNo=222790886486",
+			"description":"안녕하세요 중소기업청년<b>직무<\/b>체험프로그램 운영 기관 미래서비스입니다. 이번에 진행하는 <b>직무<\/b>체험 프로그램은 병원 행정에 관심 있는 취업 준비생을 위한 프로그램입니다. 모집 기간은 22년 6월 27일부터 7월... ",
+			"bloggername":"미래서비스",
+			"bloggerlink":"https:\/\/blog.naver.com\/icdlec",
+			"postdate":"20220627"
+		},
+		{
+			"title":"2021년 <b>의료<\/b>기술직공무원 면접 전형 (feat. 자기소개서, <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/interpret30?Redirect=Log&logNo=222625743940",
+			"description":"같아요 #해피캠퍼스 #<b>직무<\/b>계획서 #공무원 #공무원<b>직무<\/b>계획서 #<b>의료<\/b>기술직공무원 #<b>의료<\/b>기술직공무원<b>직무<\/b>계획서 #<b>직무<\/b>계획서예시 #물리치료정보 #물리치료 #물리치료사공무원 #<b>의료<\/b>기술직자기소개서... ",
+			"bloggername":"히주리의 기록 다락방",
+			"bloggerlink":"https:\/\/blog.naver.com\/interpret30",
+			"postdate":"20220120"
+		},
+		{
+			"title":"[3년 전 오늘] [<b>의료<\/b>종사자<b>직무<\/b>교육]김동환,대구시간호조무사회... ",
+			"link":"https:\/\/blog.naver.com\/hwan6510?Redirect=Log&logNo=222785127130",
+			"description":"3년 전 오늘 [<b>의료<\/b>종사자<b>직무<\/b>교육]김동환,대구시간호조무사회 주최로 <b>의료<\/b>종사자 대상 법정보수교육을 잘 마쳤습니다^^ 휴일 대구시 #엑스코 #그랜드볼룸에서 #대구시간호조무사회 주최로 350여명의... ",
+			"bloggername":"인산교육컨설팅\/인산행정사사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/hwan6510",
+			"postdate":"20220623"
+		},
+		{
+			"title":"오송 첨단<b>의료<\/b>진흥재단 연구원 EAP <b>직무<\/b>스트레스관리 힐링... ",
+			"link":"https:\/\/blog.naver.com\/blessed1019?Redirect=Log&logNo=222760262942",
+			"description":"마음 휴식 공방 샤론의 정원 요즘 다양한 형태로 기업EAP <b>직무<\/b>스트레스관리 프로그램이... 첨단<b>의료<\/b>진흥재단의 연구원분들과 쉼의 시간, 공기정화식물심기 수업 후기입니다. 지성과 미모를 겸비한!!!, 오늘... ",
+			"bloggername":"샤론의정원: 꽃과 식물이 주는 위로",
+			"bloggerlink":"https:\/\/blog.naver.com\/blessed1019",
+			"postdate":"20220605"
+		},
+		{
+			"title":"경찰청 <b>의료<\/b>사고 경력경쟁채용 자소서 및 <b>직무<\/b>수행계획서 첨삭",
+			"link":"https:\/\/blog.naver.com\/jw811p?Redirect=Log&logNo=222440684905",
+			"description":"기존에 주신 경찰청 <b>의료<\/b>사고 분야 <b>직무<\/b>수행계획서 초안에서 작성해야 하는 서류에 따라 핵심메세지, 논리 구조, 서술 방식, 구체적 표현 등을 달리해서 첨삭을 진행했습니다. 자기소개서: 서술형 경력기술서... ",
+			"bloggername":"일상취업연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/jw811p",
+			"postdate":"20210722"
+		},
+		{
+			"title":"환자중심 <b>의료직무<\/b> 교육 - 평가문제",
+			"link":"https:\/\/blog.naver.com\/sauooo?Redirect=Log&logNo=222668919829",
+			"description":"[사지선다형] 안전한 <b>의료<\/b>기관을 만들기 위한 주변상황관찰과 관리에 대한 설명으로 적절하지 않은 것을 고르시오. [4점] 가.<b>의료<\/b>기관은 제한없이 CCTV설치가 가능하므로 이를 활용하여 모니터링한다. 나.... ",
+			"bloggername":"♡쁘니일기♡",
+			"bloggerlink":"https:\/\/blog.naver.com\/sauooo",
+			"postdate":"20220310"
+		},
+		{
+			"title":"<b>의료<\/b> 보건직 실무자 <b>직무<\/b>교육 문서작성 코칭 _ 현장 매니저... ",
+			"link":"https:\/\/blog.naver.com\/dearricky?Redirect=Log&logNo=222395330617",
+			"description":"&lt;<b>의료<\/b> 보건직 실무자 <b>직무<\/b>교육 문서작성 코칭 _ 현장 매니저 실무교육 한글 보고서 특강 _ 비즈니스 글쓰기 강사 글쓰기 강의&gt; 안녕하세요. '평범한 사원도 칭찬 받는 사내 프레젠테이션 101... ",
+			"bloggername":"기획보고발표 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/dearricky",
+			"postdate":"20210612"
+		},
+		{
+			"title":"<b>의료<\/b>보조 종사자 <b>직무<\/b>교육, 요양병원 요양보호사란?",
+			"link":"https:\/\/blog.naver.com\/green12001?Redirect=Log&logNo=222122165411",
+			"description":"다른 <b>의료<\/b>분야의 <b>직무<\/b>보다도 사랑과 봉사 정신이 필요한 직업으로서 많은 수고와 인내, 배려가 필요하다는 것을 배웠습니다. 또한 요양병원의 꽃은 요양보호사라는 말이 있을 정도로 의사, 간호사가... ",
+			"bloggername":"그린요양병원 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/green12001",
+			"postdate":"20201021"
+		},
+		{
+			"title":"2021년 한국보훈복지<b>의료<\/b>공단 체험형인턴 (<b>직무<\/b>수행계획서... ",
+			"link":"https:\/\/blog.naver.com\/solkiloveme?Redirect=Log&logNo=222405317293",
+			"description":"3) <b>직무<\/b>능력소개서 (경험기술서) &amp; #한국보훈복지<b>의료<\/b>공단자소서 #한국보훈복지<b>의료<\/b>공단청년인턴 #한국보훈복지<b>의료<\/b>공단지원동기 #자소서작성 이 #공기업빠른합격 하고 싶은 분들은 아래를 클릭하여 주시기... ",
+			"bloggername":"PB마인드잡연구소 \"MAGISTER\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/solkiloveme",
+			"postdate":"20210621"
+		},
+		{
+			"title":"광명시, 동 <b>의료<\/b>급여담당자 <b>직무<\/b> 역량 강화 교육 가져",
+			"link":"https:\/\/blog.naver.com\/kmaeil1989?Redirect=Log&logNo=222822735087",
+			"description":"[광명=하상선기자] 광명시(시장 박승원)는 지난 20일 광명시 평생학습원에서 동 <b>의료<\/b>급여 담당자 20여 명을 대상으로 <b>의료<\/b>급여 업무 능력 향상을 위한 ‘2022년 <b>의료<\/b>급여 동 담당자 <b>직무<\/b> 역량 강화교육’을... ",
+			"bloggername":"경인매일",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmaeil1989",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[<b>의료<\/b>사회복지론] <b>의료<\/b>사회사업 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/rkddkwl0083?Redirect=Log&logNo=222639037230",
+			"description":"<b>의료<\/b>사회복지사 <b>직무<\/b>분류와 <b>직무<\/b>내용 - <b>의료<\/b>사회복지사의 <b>직무<\/b>는 사회사업 임상 차원, 행정 차원, 교육 및 연구조사 차원으로 분류할 수 있음 ⇒ 사회사업 임상 차원에는 심리 · 사회 · 정신적 문제해결, 경제적... ",
+			"bloggername":"예리미의 하루&한끼",
+			"bloggerlink":"https:\/\/blog.naver.com\/rkddkwl0083",
+			"postdate":"20220204"
+		},
+		{
+			"title":"한국보훈복지<b>의료<\/b>공단 비상임이사(임원) <b>직무<\/b>수행계획서 작성... ",
+			"link":"https:\/\/blog.naver.com\/pcg44?Redirect=Log&logNo=222799949783",
+			"description":"시흥시도시재생지원센터 임원(센터장), 한국보훈복지<b>의료<\/b>공단 비상임이사(임원) <b>직무<\/b>수행계획서 작성 대행 안내 ⊙ 서류 작성 대행 비용 및 기간 안내 - 5매 : 10만원 \/ 3일 (주말\/공휴일 제외)... ",
+			"bloggername":"사업계획서 & 제안서 & 기획서 & 회사소개서",
+			"bloggerlink":"https:\/\/blog.naver.com\/pcg44",
+			"postdate":"20220704"
+		},
+		{
+			"title":"<b>의료<\/b>기관 종사자 <b>직무<\/b>교육 추천 - 4차 산업혁명 시대의 스마트... ",
+			"link":"https:\/\/blog.naver.com\/egnet7607?Redirect=Log&logNo=222349331127",
+			"description":"오늘은 <b>의료<\/b>기관 종사자 분들을 위한 <b>직무<\/b>교육을 가져왔어요! <b>의료<\/b>기관 종사자뿐만 아니라, <b>의료<\/b>기기 산업관련, 제조 관련 종사자들 또한 해당되는 교육입니다! <b>의료<\/b>기기도 4차 산업혁명 시대를 맞아... ",
+			"bloggername":"한국교육개발진흥원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/egnet7607",
+			"postdate":"20210513"
+		},
+		{
+			"title":"서울특별시 공공보건<b>의료<\/b>재단 분야별 <b>직무<\/b>기술서",
+			"link":"https:\/\/blog.naver.com\/yuu10101?Redirect=Log&logNo=222278165194",
+			"description":"공공보건<b>의료<\/b> 민관 협력자문단 구성 및 운영 ○ 공공보건<b>의료<\/b>기관 최고위 직급 전문 교육 프로그램 개발 및 운영 ○ 서울시 공공보건<b>의료<\/b>아카데미 교육 프로그램 개발 및 운영 ○ 국내·외 건강정책 주요 이슈... ",
+			"bloggername":"간호사에서 엄마로 진화중",
+			"bloggerlink":"https:\/\/blog.naver.com\/yuu10101",
+			"postdate":"20210317"
+		},
+		{
+			"title":"한국<b>의료<\/b>기기공업협동조합 <b>의료<\/b>기기산업 재직자<b>직무<\/b>능력향상... ",
+			"link":"https:\/\/blog.naver.com\/blwolfish?Redirect=Log&logNo=222564080266",
+			"description":"[국가인적자원개발컨소시엄] 한국<b>의료<\/b>기기공업협동조합 <b>의료<\/b>기기산업 재직자<b>직무<\/b>능력향상훈련 한국<b>의료<\/b>기기공업협동조합 한국<b>의료<\/b>기기공업협동조합은 첫째, 정책개발 기능을 강화해 중소기업의 애로사항... ",
+			"bloggername":"☆폼나게 살자 ☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/blwolfish",
+			"postdate":"20211110"
+		},
+		{
+			"title":"[1년 전 오늘] [2년 전 오늘] [<b>의료<\/b>종사자<b>직무<\/b>교육]김동환,대구... ",
+			"link":"https:\/\/blog.naver.com\/hwan6510?Redirect=Log&logNo=222782000857",
+			"description":"1년 전 오늘 [2년 전 오늘] [<b>의료<\/b>종사자<b>직무<\/b>교육]김동환,대구 엑스코에서 <b>의료<\/b>종사자분들 대상으로 강의를 잘 마쳤습니다^^ 대구 #엑스코에서 #대구시간호조무사회 주최로 350여명의... ",
+			"bloggername":"인산교육컨설팅\/인산행정사사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/hwan6510",
+			"postdate":"20220621"
+		},
+		{
+			"title":"[이러닝파트너스] <b>직무<\/b>향상교육 (기업\/<b>의료<\/b>\/보육\/<b>직무<\/b>교육... ",
+			"link":"https:\/\/blog.naver.com\/hrdcenter2?Redirect=Log&logNo=222455331556",
+			"description":"&lt;기업 직무 향상 교육&gt; 랜섬웨어 예방 및 사이버보안의 첫걸음 직무의 정석·커뮤니케이션 스마트한 업무 혁신, 일반 사무 행정 &lt;<b>의료 직무<\/b> 향상 교육&gt; NCS기반 병원코디네이터를 위한 핵심 직무 능력 의료서비스... ",
+			"bloggername":"e-러닝파트너스",
+			"bloggerlink":"https:\/\/blog.naver.com\/hrdcenter2",
+			"postdate":"20210803"
+		},
+		{
+			"title":"[취업] 메디시티대구(대구<b>의료<\/b>관광진흥원) <b>직무<\/b>수행계획서... ",
+			"link":"https:\/\/blog.naver.com\/jw811p?Redirect=Log&logNo=222676999621",
+			"description":"오늘은 메디시티대구(대구<b>의료<\/b>관광진흥원)의 <b>직무<\/b>수행계획서 첨삭 후기를 공유합니다. 일상취업연구소에 컨설팅 문의가 왔습니다. 의뢰인은 지난번 일상취업연구소에서 2회 단기속성 면접 컨설팅을 받았던... ",
+			"bloggername":"일상취업연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/jw811p",
+			"postdate":"20220319"
+		},
+		{
+			"title":"<b>의료<\/b>기기조합, 14일 <b>직무<\/b> 토크 콘서트 개최",
+			"link":"https:\/\/blog.naver.com\/sitsolution01?Redirect=Log&logNo=222500381015",
+			"description":"조합은 이날 행사에서 보건복지인력개발원과 함께 <b>의료<\/b>기기 ‘<b>직무<\/b> 토크 콘서트’라는 현직자가 참여하는 <b>직무<\/b> 소개 행사를 진행한다. 현직 실무자들이 참여해 회사를 홍보하고, 멘토로서 취업준비생들의... ",
+			"bloggername":"의료기기 유통관리 Medical Device Management System",
+			"bloggerlink":"https:\/\/blog.naver.com\/sitsolution01",
+			"postdate":"20210909"
+		},
+		{
+			"title":"간호사 <b>직무<\/b>교육 문서작성... 강의 _ <b>의료<\/b> 워크숍 특강 HRD 강사... ",
+			"link":"https:\/\/blog.naver.com\/dearricky?Redirect=Log&logNo=222721869591",
+			"description":"&lt;간호사 <b>직무<\/b>교육 문서작성 강사 _ 병원 실무자 직원교육 보고서 글쓰기 강의 _ <b>의료<\/b> 워크숍 특강 HRD 강사 섭외&gt; 안녕하세요. '평범한 사원도 칭찬받는 사내 프레젠테이션 101' 저자 이석우입니다.... ",
+			"bloggername":"기획보고발표 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/dearricky",
+			"postdate":"20220505"
+		},
+		{
+			"title":"<b>의료<\/b>사회복지사의 역할과 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/jurang52?Redirect=Log&logNo=222678647024",
+			"description":"<b>의료<\/b>사회복지사의 역할과 <b>직무<\/b> <b>의료<\/b>사회복지사의 역할과 <b>직무<\/b> 목차 <b>의료<\/b>사회복지사의 역할과 <b>직무<\/b> I. <b>의료<\/b>사회복지사가 개입하는 문제들 II. <b>의료<\/b>사회복지사의 역할 1. <b>의료<\/b>사회사업가의 전문가적 역할... ",
+			"bloggername":"jurang",
+			"bloggerlink":"https:\/\/blog.naver.com\/jurang52",
+			"postdate":"20220321"
+		},
+		{
+			"title":"<b>의료<\/b> 서비스 실천 <b>직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/gsedu79?Redirect=Log&logNo=222483125630",
+			"description":"오늘은 <b>의료<\/b> 서비스 실전 <b>직무<\/b>교육에 대해 알아보도록 하겠습니다! 4차 산업혁명과 <b>의료<\/b> 혁명에 대해 알아보고 <b>의료<\/b>산업의 환경적 변화를 알아보며 <b>의료<\/b> 서비스 산업의 트렌드에 대해 공부해보는 시간을... ",
+			"bloggername":"굿샘 평생교육원",
+			"bloggerlink":"https:\/\/blog.naver.com\/gsedu79",
+			"postdate":"20210825"
+		},
+		{
+			"title":"<b>의료<\/b>기술주사 자기소개서 <b>직무<\/b>수행계획서 첨삭 대행 작성 후기",
+			"link":"https:\/\/blog.naver.com\/rhdygksd?Redirect=Log&logNo=222662512153",
+			"description":"<b>의료<\/b>기술주사 <b>직무<\/b>건 자기소개서 <b>직무<\/b>수행계획서 진행드리고 있으니 첨삭이나 대행 작성이 필요하실 경우 요청주시면 작업가능합니다! 아래는 관련 공고 참고 양식 등입니다. * 의뢰인분 요청이 있어서 타 채용... ",
+			"bloggername":"자기소개서마스터",
+			"bloggerlink":"https:\/\/blog.naver.com\/rhdygksd",
+			"postdate":"20220303"
+		},
+		{
+			"title":"강원도 <b>의료<\/b>기관 최초···<b>직무<\/b>스트레스 예방 등 건강증진활동",
+			"link":"https:\/\/blog.naver.com\/newsnanumy?Redirect=Log&logNo=222654431047",
+			"description":"내 <b>의료<\/b>기관 최초로 선정됐다.[사진=한림대춘천성심병원] [나눔경제뉴스=최유나기자] 한림대춘천성심병원이 <b>직무<\/b> 스트레스 예방 등 근로자 건강증진활동을 인정받았다. 한림대춘천성심병원(병원장 이재준)은... ",
+			"bloggername":"나눔경제뉴스 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/newsnanumy",
+			"postdate":"20220222"
+		},
+		{
+			"title":"미국 취업 후 국내 중견기업으로 이직\/<b>직무<\/b>전환 성공사례 | <b>의료<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/yoojun0?Redirect=Log&logNo=222489470430",
+			"description":"기존의 경험과는 다른 <b>직무<\/b>였기에 상대방을 설득하는 작업이 어려운 편이었습니다. 하지만 결과적으로 이번달 중순 성장하는 <b>의료<\/b>\/바이오 분야 중견기업에 최종합격을 하게 되었고, 연봉도 연차에... ",
+			"bloggername":"1:1 외국계 취업전략 | 커리어랩 브라이언코치",
+			"bloggerlink":"https:\/\/blog.naver.com\/yoojun0",
+			"postdate":"20210830"
+		},
+		{
+			"title":"나래<b>의료<\/b>재단_병원CS강의(콜센터_<b>직무<\/b>종사자대상)",
+			"link":"https:\/\/blog.naver.com\/laurain0925?Redirect=Log&logNo=222468874505",
+			"description":"<b>직무<\/b> 종사자분들이 환자 전화응대를 하시며, 저에게 여유있는 눈인사를 하시는데, 전, 그 눈빛이 참 오래 기억에 남을것 같네요. 미래<b>의료<\/b>재단 콜센터 <b>직무<\/b>종사자분들 오래오래 즐겁게 근무하시길 바랍니다.",
+			"bloggername":"다나 日常生活",
+			"bloggerlink":"https:\/\/blog.naver.com\/laurain0925",
+			"postdate":"20210813"
+		},
+		{
+			"title":"[교육 로드맵_<b>의료<\/b>기관교육] 3주기 병원 핵심 <b>직무<\/b> 역량 강화",
+			"link":"https:\/\/blog.naver.com\/el_mate?Redirect=Log&logNo=222312213879",
+			"description":"★ 3주기 병원 핵심 <b>직무<\/b> 역량 강화 ★ <b>의료<\/b>기관 인증제 3주기의 조사기준과 내용을 반영한 <b>의료<\/b>기관 종사자들을 위한 <b>직무<\/b>과정으로 <b>의료<\/b>기관 인증기준의 내용을 충실히 담아냈습니다. 이를 통해 본 과정은... ",
+			"bloggername":"이러닝메이트 평생교육원",
+			"bloggerlink":"https:\/\/blog.naver.com\/el_mate",
+			"postdate":"20210423"
+		},
+		{
+			"title":"[2년 전 오늘] [<b>의료<\/b>종사자<b>직무<\/b>교육\/감정노동\/스트레스]김동환... ",
+			"link":"https:\/\/blog.naver.com\/hwan6510?Redirect=Log&logNo=222569457350",
+			"description":"2년 전 오늘 [<b>의료<\/b>종사자<b>직무<\/b>교육\/감정노동\/스트레스]김동환,대구광역시 <b>의료<\/b>종사자 대상으로 강의를 잘 마쳤습니다^^ 휴일 대구시 #영진전문대 1층 #정보관에서 #대구시간호조무사회 주최로 300여명의... ",
+			"bloggername":"인산교육컨설팅\/인산행정사사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/hwan6510",
+			"postdate":"20211116"
+		},
+		{
+			"title":"경력경쟁채용 <b>의료<\/b>기술8급 임상심리사 자소서 및 <b>직무<\/b>수행계획... ",
+			"link":"https:\/\/blog.naver.com\/jw811p?Redirect=Log&logNo=222680487314",
+			"description":"공무원 경력경쟁채용 <b>의료<\/b>기술8급 자소서\/<b>직무<\/b>수행계획서 첨삭 이번에도 역시 수정 사항은 NO, 감사 인사는 YES를 받으며 첨삭이 마무리가 되었습니다. 믿고 맡겨주신 만큼 최선을 다했으니, 부디 의뢰인께서... ",
+			"bloggername":"일상취업연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/jw811p",
+			"postdate":"20220323"
+		},
+		{
+			"title":"[2년 전 오늘] [<b>의료<\/b>종사자<b>직무<\/b>교육]김동환,대구시... ",
+			"link":"https:\/\/blog.naver.com\/hwan6510?Redirect=Log&logNo=222446977967",
+			"description":"2년 전 오늘 [<b>의료<\/b>종사자<b>직무<\/b>교육]김동환,대구시 <b>의료<\/b>종사자님들 대상으로 잘 마쳤습니다^^ 휴일 대구시 #영진전문대 #정보관에서 #대구시간호조무사회 주최로 350여명의 #<b>의료<\/b>종사자님들을 대상으로 전체... ",
+			"bloggername":"인산교육컨설팅\/인산행정사사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/hwan6510",
+			"postdate":"20210727"
+		},
+		{
+			"title":"[1년 전 오늘] [<b>의료<\/b>종사자<b>직무<\/b>교육\/감정노동\/스트레스]김동환... ",
+			"link":"https:\/\/blog.naver.com\/hwan6510?Redirect=Log&logNo=222166509602",
+			"description":"1년 전 오늘 [<b>의료<\/b>종사자<b>직무<\/b>교육\/감정노동\/스트레스]김동환,대구시 <b>의료<\/b>종사자님 대상으로 강의를 잘 마쳤습니다^^ 휴일 대구시 #영진전문대 1층 #정보관에서 #대구시간호조무사회 주최로 250여명의... ",
+			"bloggername":"인산교육컨설팅\/인산행정사사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/hwan6510",
+			"postdate":"20201208"
+		},
+		{
+			"title":"<b>의료<\/b>사고 경찰직 경력분야 <b>직무<\/b>수행계획서 첨삭!",
+			"link":"https:\/\/blog.naver.com\/jw811p?Redirect=Log&logNo=222475044203",
+			"description":"오늘은 <b>의료<\/b>사고 경찰직 경력분야 <b>직무<\/b>수행계획서 첨삭 후기를 올립니다. <b>직무<\/b>수행계획서 첨삭을 요청준 의뢰인은 <b>의료<\/b>사고 경찰직 경력분야 지원을 준비하고 있는 취준생이었습니다. 취준생은 현재 간호사로... ",
+			"bloggername":"일상취업연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/jw811p",
+			"postdate":"20210818"
+		},
+		{
+			"title":"[2년 전 오늘] [<b>의료<\/b>종사자<b>직무<\/b>교육]김동환,대구 엑스코에서... ",
+			"link":"https:\/\/blog.naver.com\/hwan6510?Redirect=Log&logNo=222404798291",
+			"description":"2년 전 오늘 [<b>의료<\/b>종사자<b>직무<\/b>교육]김동환,대구 엑스코에서 <b>의료<\/b>종사자분들 대상으로 강의를 잘 마쳤습니다^^ 대구 #엑스코에서 #대구시간호조무사회 주최로 350여명의 #<b>의료<\/b>종사자님들을 대상으로 전체... ",
+			"bloggername":"인산교육컨설팅\/인산행정사사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/hwan6510",
+			"postdate":"20210621"
+		},
+		{
+			"title":"[보건산업교육부] 제1기 <b>의료<\/b>기기산업 <b>직무<\/b>과정 교육 안내",
+			"link":"https:\/\/blog.naver.com\/kohipr?Redirect=Log&logNo=222745637423",
+			"description":"<b>의료<\/b>기기산업 분야로 진출을 희망하는 열정 가득한 취업준비생을 기다립니다!!!!!!!! 자세한 사항은 붙임 참조!!!! 우리 7월에~~~ 만나요~~~!!!!!",
+			"bloggername":"한국보건복지인재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kohipr",
+			"postdate":"20220525"
+		},
+		{
+			"title":"한국보건<b>의료<\/b>연구원, 반부패 <b>직무<\/b>청렴서약 선서식 개최",
+			"link":"https:\/\/blog.naver.com\/necahta?Redirect=Log&logNo=222500179945",
+			"description":"한국보건<b>의료<\/b>연구원(원장 한광협, 이하 보의연)은 9월 8일(수) 원내 컨퍼런스룸에서 부서장들을 중심으로 부패척결을 위한 반부패 <b>직무<\/b>청렴 서약 선서식을 개최했습니다. 반부패 <b>직무<\/b>청렴 서약 선서식은 맡은바... ",
+			"bloggername":"HI NECA",
+			"bloggerlink":"https:\/\/blog.naver.com\/necahta",
+			"postdate":"20210909"
+		},
+		{
+			"title":"하동군 <b>의료<\/b>급여 <b>직무<\/b> 역량강화 교육 실시",
+			"link":"https:\/\/blog.daum.net\/obntv2016\/10479",
+			"description":"하동군 <b>의료<\/b>급여 <b>직무<\/b> 역량강화 교육 실시 6월 8일부터 한 달 간 읍‧면 담당자 교육 예정 2022년 6월 9일 &lt;목요일&gt; OBNTV열린방송 보도국 <b>의료<\/b>급여사업 역량강화 교육(하동읍) 하동군은 8일부터 30일까지 약... ",
+			"bloggername":"하동블로그뉴스 OBNTV열린방송",
+			"bloggerlink":"https:\/\/blog.daum.net\/obntv2016",
+			"postdate":"20220609"
+		},
+		{
+			"title":"<b>의료<\/b> 관련 <b>직무<\/b>, 이직 면접 준비, 공기업 면접 개인코칭... ",
+			"link":"https:\/\/blog.naver.com\/thespeech2017?Redirect=Log&logNo=222224547581",
+			"description":"<b>의료<\/b> 관련 <b>직무<\/b>, 이직 면접 준비, 공기업 면접 개인코칭 더스피치커뮤니케이션 <b>의료<\/b> 관련 <b>직무<\/b>, 이직 면접 준비, 공기업 면접 개인코칭, 더스피치커뮤니케이션 이직 준비를 하는 분이었는데요. 자신의 경력을... ",
+			"bloggername":"심리학박사 강지연입니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/thespeech2017",
+			"postdate":"20210129"
+		},
+		{
+			"title":"[러닝원]<b>의료<\/b>기관 <b>직무<\/b> 기본과정(요양병원) 추가오픈!",
+			"link":"https:\/\/blog.naver.com\/adcom777?Redirect=Log&logNo=221996249479",
+			"description":"새롭게 제공하는 의료기관 직무 기본과정(요양병원)도 플래시타입으로 개발된 콘텐츠 입니다. 2주기... 러닝원은 2주기 인증조사가 마지막인 올해 사업주직업능력 개발훈련 지원규정이 개정되어 <b>의료직무<\/b>... ",
+			"bloggername":"배움과 나눔 파트너 러닝원",
+			"bloggerlink":"https:\/\/blog.naver.com\/adcom777",
+			"postdate":"20200610"
+		},
+		{
+			"title":"전담<b>의료<\/b>인력 자기소개서-<b>직무<\/b>수행계획서 컨설팅 - 송아름... ",
+			"link":"https:\/\/blog.naver.com\/lsflove?Redirect=Log&logNo=222189682893",
+			"description":"아래는 제 수백페이지 코로나 대응지침 중에서 <b>직무<\/b>수행서에 내용 넣으려고 간추린 내용입니다. 수백페이지를 검토하고 실무자와 인터뷰를 토대로 실제 업무에 적용 가능한 <b>직무<\/b>수행계획서 첨삭을 했어요.... ",
+			"bloggername":"Inspirer 송아름컨설턴트(Career & Life consultant)",
+			"bloggerlink":"https:\/\/blog.naver.com\/lsflove",
+			"postdate":"20201229"
+		},
+		{
+			"title":"광명시, 동 <b>의료<\/b>급여담당자 <b>직무<\/b> 역량 강화 교육 가져",
+			"link":"http:\/\/www.vision21.kr\/news\/article.html?no=202228",
+			"description":"광명시 홈 경기도소식 광명시 광명시, 동 <b>의료<\/b>급여담당자 <b>직무<\/b> 역량 강화 교육 가져 <b>의료<\/b>급여 수급권자 맞춤형 민원 행정을 위한 교육 마련 정서영 기자 *********@*****.*** 등록 2022.07.21 11:18:30 ▲ 광명시는... ",
+			"bloggername":"비전21뉴스",
+			"bloggerlink":"http:\/\/www.vision21.kr\/",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[<b>의료<\/b>지원 기업 채용] 복지... 합격스펙, 자소서, <b>직무<\/b>인터뷰... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221286124518",
+			"description":"그래서 수십 개로 나눠서 업로드 해야 했.......( &gt;&gt;&gt; 더보러가기) <b>의료<\/b>지원 기업 <b>직무<\/b> 인터뷰 <b>의료<\/b>지원 기업 현장에 있는 선배님들의 생생한 이야기 <b>직무<\/b> 인터뷰를 통해 <b>의료<\/b>지원 기업 취업 준비하기... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20180528"
+		},
+		{
+			"title":"승진자 교육 강의 _ <b>의료<\/b>분야 <b>직무<\/b>교육 기획서 작성 기획력 강사",
+			"link":"https:\/\/blog.naver.com\/dearricky?Redirect=Log&logNo=221540229025",
+			"description":"&lt;과장급 교육 기획력 향상 과정 기획 역량 _ <b>의료<\/b>재단 직원교육 승진자 교육 강의 _ <b>의료<\/b>분야 <b>직무<\/b>교육 기획서 작성 기획력 강사&gt; 안녕하세요. '평범한 사원도 칭찬 받는 사내 프레젠테이션 101' 저자... ",
+			"bloggername":"기획보고발표 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/dearricky",
+			"postdate":"20190517"
+		},
+		{
+			"title":"러닝원 법정의무교육, <b>의료직무<\/b>교육   온라인 교육비 할인~",
+			"link":"https:\/\/blog.naver.com\/adcom777?Redirect=Log&logNo=221922476044",
+			"description":"<b>의료직무<\/b>교육 코로나 19 위기극복에 동참하고자 온라인 교육비 할인행사를 실시합니다. 안녕하세요! 배움과 나눔 파트너 러닝원 공식블로그 입니다. 코로나19 감염증으로 어려움이 많은 기업과 의료기관에... ",
+			"bloggername":"배움과 나눔 파트너 러닝원",
+			"bloggerlink":"https:\/\/blog.naver.com\/adcom777",
+			"postdate":"20200422"
+		},
+		{
+			"title":"산재<b>의료<\/b>관리원, 신입직원 <b>직무<\/b>교육 실시",
+			"link":"https:\/\/blog.naver.com\/bguekim?Redirect=Log&logNo=150029295251",
+			"description":"산재<b>의료<\/b>관리원, 신입직원 <b>직무<\/b>교육 실시 산재<b>의료<\/b>관리원, 2007년 하반기 공채 25명 대상 산재<b>의료<\/b>관리원(이사장 심일선)은 11일부터 20일까지 경기도 시흥의 대교HRD센터에서 신입직원 25명을 대상으로... ",
+			"bloggername":"근로복지공단 대전병원",
+			"bloggerlink":"https:\/\/blog.naver.com\/bguekim",
+			"postdate":"20080318"
+		},
+		{
+			"title":"[화재\/의료]사고 예방을 위한 <b>의료직무<\/b>역량 교육!",
+			"link":"https:\/\/blog.naver.com\/myedu2017?Redirect=Log&logNo=221195895689",
+			"description":"[화재\/의료]사고 예방을 위한 <b>의료직무<\/b>역량 교육! 안녕하세요 이웃님들 마이에듀입니다 :) 한 주가... 마이에듀는 2017년 의료기관 직무교육부문 브랜드 만족도1위를 한 교육기관으로 교육의 질적인 부분에서... ",
+			"bloggername":"보건복지부 보육교직원 온라인 보수교육 위탁교육",
+			"bloggerlink":"https:\/\/blog.naver.com\/myedu2017",
+			"postdate":"20180129"
+		},
+		{
+			"title":"응급<b>의료<\/b> 활동 관계자 <b>직무<\/b>연찬회 개최",
+			"link":"https:\/\/blog.naver.com\/119incheon?Redirect=Log&logNo=220206782553",
+			"description":"응급<b>의료<\/b> 활동 관계자 <b>직무<\/b>연찬회 개최 - 신속한 현장시스템이 작동되어야 - ○ 인천소방안전본부(본부장 정문호)는 10일(수) 시민 응급<b>의료<\/b> 서비스 향상을 위해 인천지역 응급<b>의료<\/b> 활동 관계자들이 모인 가운데... ",
+			"bloggername":"인천소방본부",
+			"bloggerlink":"https:\/\/blog.naver.com\/119incheon",
+			"postdate":"20141211"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 책 추천 NCS 06. 보건·<b>의료<\/b>",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220605108976",
+			"description":"보건·<b>의료<\/b>입니다. NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가의 분류 체계 내용과 하위 분류 내용입니다. 이 뒤는 NCS 06. 보건<b>의료<\/b>에 따른 능력단위입니다. NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 구성의 앞부분은 NCS... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160122"
+		},
+		{
+			"title":"2주기 요양병원인증은 <b>의료직무<\/b>교육 만족도 1위 마이에듀에서!",
+			"link":"https:\/\/blog.naver.com\/myedu2017?Redirect=Log&logNo=221177568460",
+			"description":"2주기 요양병원인증은 <b>의료직무<\/b>교육 만족도 1위 마이에듀에서! 안녕하세요 이웃님들... 저희 마이에듀는 2주기 요양병원인증 뿐만 아니라 의료분야, 경영과 리더십 그리고 IT\/SW분야, 외국어, 오프라인교육을... ",
+			"bloggername":"보건복지부 보육교직원 온라인 보수교육 위탁교육",
+			"bloggerlink":"https:\/\/blog.naver.com\/myedu2017",
+			"postdate":"20180104"
+		},
+		{
+			"title":"[러닝원]<b>의료<\/b>종사자 <b>직무<\/b>교육 요양병원편 오픈!",
+			"link":"https:\/\/blog.naver.com\/adcom777?Redirect=Log&logNo=221743688526",
+			"description":"오늘은 <b>의료<\/b>종사자 <b>직무<\/b>교육 요양병원편 과정소개 포스팅을 해드리겠습니다. 인증<b>의료<\/b>기관은 매년 받아야하는 필수교육이 정말 많습니다. <b>의료<\/b>기관 중 요양병원은 <b>의료<\/b>기관인증이 의무사항이라 매년 받아야... ",
+			"bloggername":"배움과 나눔 파트너 러닝원",
+			"bloggerlink":"https:\/\/blog.naver.com\/adcom777",
+			"postdate":"20191220"
+		},
+		{
+			"title":"공공<b>의료<\/b>기관 지원 <b>직무<\/b>수행계획서 작업~!",
+			"link":"https:\/\/blog.naver.com\/ohrunis?Redirect=Log&logNo=222705951998",
+			"description":"공공<b>의료<\/b>기관에 지원하시는 분의 <b>직무<\/b>수행계획서 작업을 진행해 드렸습니다.^^ <b>직무<\/b>수행계획서는 지원 분야에 대한 전문적인 지식과 정보 없이는 작업이 어렵습니다. 지원자의 지원 분야에 대한 심층 분석을... ",
+			"bloggername":"따뜻한 첨삭선생",
+			"bloggerlink":"https:\/\/blog.naver.com\/ohrunis",
+			"postdate":"20220420"
+		},
+		{
+			"title":"[보건<b>의료<\/b>학부] 인성과 <b>직무<\/b>중심의 능력을 겸비한 <b>의료<\/b>기기... ",
+			"link":"https:\/\/blog.naver.com\/lifetongwon?Redirect=Log&logNo=221353877421",
+			"description":"동원대학교 보건<b>의료<\/b>기기과 동원대학교 보건<b>의료<\/b>기기과는 <b>의료<\/b>기기 산업에 필요한 기초 및 응용학문을 이론과 실험을 통해 <b>직무<\/b>중심으로 학습합니다. 이를 통해 <b>의료<\/b>기기 산업 발전에 이바지할 수 있도록... ",
+			"bloggername":"동원대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/lifetongwon",
+			"postdate":"20180908"
+		},
+		{
+			"title":"3.] 2020년 한국보건<b>의료<\/b>연구원 전 직원 <b>직무<\/b>청렴서약식... ",
+			"link":"https:\/\/hineca.kr\/2010",
+			"description":"3.] 2020년 한국보건<b>의료<\/b>연구원 전 직원 <b>직무<\/b>청렴서약식 개최 (0) 2020.02.05 [2020. 1. 17.] 환자중심 <b>의료<\/b>기술 최적화 연구사업 2020년도 연구주제 제안·수요조사 설명회 (0) 2020.01.29 [2020. 1. 16.]... ",
+			"bloggername":"Hi NECA",
+			"bloggerlink":"https:\/\/hineca.kr\/",
+			"postdate":"20200205"
+		},
+		{
+			"title":"<b>의료<\/b>기기 RA 전문가 <b>직무<\/b> 전망 및 <b>의료<\/b>기기 규제과학 전문가... ",
+			"link":"https:\/\/blog.naver.com\/thankyou85?Redirect=Log&logNo=221659177287",
+			"description":"허가가 완료되면 개발된 <b>의료<\/b>기기를 시장에 출시할 수 있다.” RA <b>직무<\/b>가 중요한 이유는 무엇인가? “RA 역할이 중요한 이유는 <b>의료<\/b>기기의 안전성과 유효성 입증을 다루기 때문이다. <b>의료<\/b>기기는 인체에... ",
+			"bloggername":"우리의 우주",
+			"bloggerlink":"https:\/\/blog.naver.com\/thankyou85",
+			"postdate":"20190925"
+		},
+		{
+			"title":"국제<b>의료<\/b>관광코디네이터 <b>직무<\/b>향상교육 시행",
+			"link":"https:\/\/blog.naver.com\/ksg2028?Redirect=Log&logNo=220660881401",
+			"description":"국제<b>의료<\/b>관광코디네이터 <b>직무<\/b>향상교육 시행 인천관광공사(사장 황준기)가 해마다 늘고 있는 외국인환자들이 인천<b>의료<\/b>관광에 대해 좋은 인상을 갖는 데 있어 그들을 직접 대면하고 서비스를 제공하는... ",
+			"bloggername":"365타임즈",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksg2028",
+			"postdate":"20160321"
+		},
+		{
+			"title":"옹진군, 응급<b>의료<\/b> 간담회와 <b>직무<\/b>교육 실시",
+			"link":"https:\/\/blog.naver.com\/ksg2028?Redirect=Log&logNo=220753407794",
+			"description":"옹진군, 응급<b>의료<\/b> 간담회와 <b>직무<\/b>교육 실시 옹진군(군수 조윤길)이 4일 응급<b>의료<\/b> 담당공무원 20여명을 대상으로 응급<b>의료<\/b> 대응체계구축을 위한 간담회 및 <b>직무<\/b>교육을 가졌다. 이번 간담회는 환자후송과 관련된... ",
+			"bloggername":"365타임즈",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksg2028",
+			"postdate":"20160704"
+		},
+		{
+			"title":"청춘유학 <b>직무<\/b>화상영어... 치과위생학,기술, 응급<b>의료<\/b> 기술) 편",
+			"link":"https:\/\/blog.naver.com\/mgf194?Redirect=Log&logNo=221404732447",
+			"description":"응급 <b>의료<\/b> 기술 <b>직무<\/b>화상영어 생물학적 응급상황. 식중독, 화학 비상, 방사선, 날씨비상, 일반적인 응급상황 심페소생술 - Types of Emergencies - Biological Emergency : Food... ",
+			"bloggername":"청춘 필리핀가족연수_베트남,말레이시아가족연수",
+			"bloggerlink":"https:\/\/blog.naver.com\/mgf194",
+			"postdate":"20181123"
+		},
+		{
+			"title":"한국보건복지인력개발원, ‘<b>의료<\/b>급여관리사 <b>직무<\/b>교육’... ",
+			"link":"https:\/\/blog.naver.com\/kohipr?Redirect=Log&logNo=220178855402",
+			"description":"소비자저널 2014.08.08한국보건복지인력개발원, ‘<b>의료<\/b>급여관리사 <b>직무<\/b>교육’ 실시 한국보건복지인력개발원(원장 류호영)은 3월 24일부터 11월 4일까지 총 8회(경력자 5회, 신규자 3회), 전국 500여명의... ",
+			"bloggername":"한국보건복지인재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kohipr",
+			"postdate":"20141112"
+		},
+		{
+			"title":"종류 인지주의학습이론의개괄 <b>의료<\/b>사회복지사의 역할과 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/ldapovgejvj?Redirect=Log&logNo=221578388899",
+			"description":"[FileNo : 19126559] 세번째로는 소개할 레포트는 6페이지의 한글파일(HWP) 문서 <b>의료<\/b>사회복지사의 역할과 <b>직무<\/b> 입니다<b>의료<\/b>사회복지사,역할,<b>직무<\/b>,<b>의료<\/b>사회복지사,역할 과 같은 내용이 들어있네요 - 정말... ",
+			"bloggername":"공각기동대 감상문 레포트",
+			"bloggerlink":"https:\/\/blog.naver.com\/ldapovgejvj",
+			"postdate":"20190705"
+		},
+		{
+			"title":"사이버한국외국어대학교 중국어학부-  전망 있는 국제<b>의료<\/b>관광... ",
+			"link":"https:\/\/blog.naver.com\/cufspr?Redirect=Log&logNo=222627876037",
+			"description":"국제의료관광코디네이터 시험 일정 국제의료코디네이터는 서비스 분야, 보건·<b>의료 직무<\/b> 분야... 업무 현장에서 바로 활용 가능한 실전 커뮤니케이션 능력과 의료분야 직무 능력을 자연스럽게... ",
+			"bloggername":"사이버한국외국어대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/cufspr",
+			"postdate":"20220121"
+		},
+		{
+			"title":"마이에듀 브랜드만족도 (<b>의료<\/b>기관<b>직무<\/b>교육) 1위~!",
+			"link":"https:\/\/blog.naver.com\/myedu2017?Redirect=Log&logNo=221158566467",
+			"description":"마이에듀 브랜드만족도 (<b>의료<\/b>기관<b>직무<\/b>교육) 1위~! 안녕하세요~ 마이에듀 입니다 ㅎㅎ 오늘 즐거운 금요일이네요 :) 다들 주말 계획 잘 세우셨나요? 추우니깐 옷 따듯하게 입고 외출 하시기 바랍니다 :) 지난 달... ",
+			"bloggername":"보건복지부 보육교직원 온라인 보수교육 위탁교육",
+			"bloggerlink":"https:\/\/blog.naver.com\/myedu2017",
+			"postdate":"20171208"
+		},
+		{
+			"title":"우리의社생활 | 외국계 <b>의료<\/b>기기 기술영업 <b>직무<\/b> 분석",
+			"link":"https:\/\/blog.naver.com\/mabori?Redirect=Log&logNo=221596995994",
+			"description":"저의 회사생활 첫 <b>직무<\/b>도 <b>의료<\/b>기기 영업으로 시작했기 때문에, 취업준비생들이 어떤 것을 궁금해 할 지 그리고 서류지원 시, 혹은 면접 시 이것은 꼭 알고 지원했으면 좋겠다라는 마음이 큰 애착 있는 <b>직무<\/b> 인 것... ",
+			"bloggername":"보리눈나 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mabori",
+			"postdate":"20190727"
+		},
+		{
+			"title":"<b>의료<\/b>사회복지사의 표준<b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/kjhyun4?Redirect=Log&logNo=14175347",
+			"description":"의료사회복지사의 표준직무 의료사회복지사는 의료서비스의 질적 향상에 기여하는 중요한 서비스... 표준직무를 선정하였습니다. [4개 집단별 표준직무] 대학부속병원 일반·재활<b>의료 직무<\/b> 대학부속병원... ",
+			"bloggername":"그녀의 아지트。",
+			"bloggerlink":"https:\/\/blog.naver.com\/kjhyun4",
+			"postdate":"20050621"
+		},
+		{
+			"title":"[채용 <b>직무<\/b>분석] 한국<b>의료<\/b>기기안전정보원",
+			"link":"https:\/\/blog.naver.com\/bluegreen0807?Redirect=Log&logNo=221508314075",
+			"description":"한국<b>의료<\/b>기기안전정보원에서 채용하는 <b>직무<\/b>를 분석해보자! (출처: 기관 홈페이지) 경영기획본부, 사업운영본부, 인재교육본부, 인증본부로 구성된다. 프로젝트의사소통관리 이해관계자와의 의사소통을... ",
+			"bloggername":"직업도서관",
+			"bloggerlink":"https:\/\/blog.naver.com\/bluegreen0807",
+			"postdate":"20190408"
+		},
+		{
+			"title":"(<b>의료<\/b> 관계자) <b>직무<\/b>유기",
+			"link":"https:\/\/blog.daum.net\/livertransplant\/803",
+			"description":"환자에게 직접 말하지는 못했지만 의사도 무책임하다고 생각한다. 이런 <b>의료<\/b>시스템의 공백을 그냥 방관하는 것도.. <b>직무<\/b>유기 라는 생각도 하게 된다. Writer profile 이수현 \/ 세브란스병원 종양내과 임상조교수",
+			"bloggername":"덤으로 사는 삶 - 간이식인",
+			"bloggerlink":"https:\/\/blog.daum.net\/livertransplant",
+			"postdate":"20110724"
+		},
+		{
+			"title":"원주<b>의료<\/b>기기 테크노 밸리에서 SCK사업 학과 맞춤형 <b>직무<\/b>체험... ",
+			"link":"https:\/\/blog.naver.com\/kdcblog1?Redirect=Log&logNo=221404580481",
+			"description":"자세한 내용을 같이 만나보도록 하겠습니다~ 이번 테크노벨리 견학을 통해서 희망<b>직무<\/b>이해, 최신 <b>의료<\/b>기기 정보 습득, <b>의료<\/b>기기 채용 시장 분석, 기업 정보 수집 등 기업 실무자의 <b>직무<\/b>수행에 필요한... ",
+			"bloggername":"강동대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kdcblog1",
+			"postdate":"20181123"
+		},
+		{
+			"title":"강동대학교, <b>의료<\/b>청력재활과 &amp; SNS홍보전공 <b>직무<\/b>향상... ",
+			"link":"https:\/\/blog.naver.com\/kdcblog1?Redirect=Log&logNo=221307242168",
+			"description":"지난 6월 20일에 강동대학교 LINC+ 사업단은 신규 학과 진입을 위하여 <b>의료<\/b>청력재활과 &amp; SNS 홍보전공과의 <b>직무<\/b>향상 프로그램을 실시하였는데요 어떤 프로그램이었는지 자세히 알아보도록 할까요~? 이번... ",
+			"bloggername":"강동대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kdcblog1",
+			"postdate":"20180626"
+		},
+		{
+			"title":"교육]식의약안전교육단 <b>의료<\/b>기기분야심사관<b>직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/kohipr?Redirect=Log&logNo=221700762803",
+			"description":"오늘 제가 소개드릴 교육은 『<b>의료<\/b>기기분야 심사관 <b>직무<\/b>교육』입니다. 이번 교육은 <b>의료<\/b>기기 관련 벙령 및 세부 <b>직무<\/b>교육을 통해 허가·심사 업무역량을 강화하고 업무효율성을 높인다라는 교육목표를 가지고... ",
+			"bloggername":"한국보건복지인재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kohipr",
+			"postdate":"20191107"
+		},
+		{
+			"title":"[채용 <b>직무<\/b>분석] <b>의료<\/b>기관평가인증원",
+			"link":"https:\/\/blog.naver.com\/bluegreen0807?Redirect=Log&logNo=221580477524",
+			"description":"<b>의료<\/b>기관평가인증원에서 채용하는 <b>직무<\/b>를 분석해보자! (출처: 기관 홈페이지) 경영기획실, 정책개발실, 인증사업실, 환자안전본부, 교육센터로 구성된다. 인사 채용, 배치, 교육, 육성, 평가, 보상, 승진 등을... ",
+			"bloggername":"직업도서관",
+			"bloggerlink":"https:\/\/blog.naver.com\/bluegreen0807",
+			"postdate":"20190710"
+		},
+		{
+			"title":"60명의 면접을 보고 돌아오면서 생각한 것 (채용공고, <b>직무<\/b>기술서)",
+			"link":"https:\/\/blog.naver.com\/jch2100?Redirect=Log&logNo=222599719854",
+			"description":"최종 면접이었지만 한 직무는 약 1:7 이상의 경쟁률이었다. 면접을 임할 때는 정말 집중을 한다. 나의... (특히, 체력단련을 신경 써야 한다.) * 임상병리사 전공에 따라 하는 일이 다른 것은 모든 보건-<b>의료 직무<\/b>... ",
+			"bloggername":"Money & Works",
+			"bloggerlink":"https:\/\/blog.naver.com\/jch2100",
+			"postdate":"20211220"
+		}
+	]
+}

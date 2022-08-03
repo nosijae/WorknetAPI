@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:40 +0900",
+	"total":42668,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1585970&cid=50321&categoryId=50321",
+			"description":"<b>운전<\/b>기계공학용어사전 (1) 철도 차량의 <b>운전<\/b>이란, 동력차(動力車) 단독으로, 또는 동력차에 다른 차량을 연결하여 선로 상을 주행하는 것을 말한다. (2) 작동 장치를 가동시키는 것, 또는 자동차를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B4%EC%A0%84",
+			"description":"<b>운전<\/b> (運轉) 또는 드라이빙 ( 영어: driving )은 사람이 승용차, 트럭 등을 움직이는 행위이다. <b>운전<\/b>에 대한 법은 국가마다 다르다. <b>운전<\/b>을 하는 사람은 <b>운전<\/b>자 (運轉者), 기사 , 또는 드라이버 (driver)라고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2899697&cid=57926&categoryId=58013",
+			"description":"양강도 혜산시 강구동 소재지의 서쪽에 있는 마을. 구내에 김형권선생의 사적지가 있다. 북한어로 구름밭이라고도 하며, 개와 비슷하게 생긴 언덕이 있다 하여 주구치라고도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1665644&cid=60558&categoryId=60558",
+			"description":"남의 편지 경칭(敬稱). 운한(雲翰).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=570059&cid=46634&categoryId=46634",
+			"description":" 자동차·전차·기차 등 주로 육운 교통 수단을 <b>운전<\/b>하는 근로자. 직업인. [내용] 운송 차량 및 영업 형태에 따라 여러 가지로 불린다. <b>운전<\/b>사는 교통량, 도로 상태, 일기, <b>운전<\/b> 거리와 시간 등의 작업 조건에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음주<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=572643&cid=46625&categoryId=46625",
+			"description":" 술에 취한 상태에서 하는 <b>운전<\/b>. 주취<b>운전<\/b>·주기<b>운전<\/b>. [개설] 음주<b>운전<\/b>은 술에 취한 상태에서 <b>운전<\/b>하는 것을 말한다. 「도로교통법(道路交通法)」은 혈중알코올농도 0.03% 이상을 술에 취한 상태로 보고 있으며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926358&cid=42279&categoryId=42279",
+			"description":" 그날그날의 <b>운전<\/b> 기록을 기재한 문서.  <b>운전<\/b>일보란 운송 업무 등을 맡은 <b>운전<\/b>자가 그날그날의 <b>운전<\/b> 기록을 기재한 표 형식의 문서를 말한다. <b>운전<\/b>일보에는 <b>운전<\/b>자의 성명을 비롯하여 출발시각과 소요시간... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128222241462_WA16UMDD2.jpg\/hb10_6714_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운전<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926359&cid=42279&categoryId=42279",
+			"description":" 발전기 등의 <b>운전<\/b> 기록을 기재한 문서.  <b>운전<\/b>일지란 아파트 등에서 발전기의 <b>운전<\/b> 기록을 관리하기 위해 작성하는 표 형식의 문서를 말한다. <b>운전<\/b>일지에는 작성 일자를 비롯하여 발전기의 <b>운전<\/b> 시간과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128222249779_YU7WHEOWY.jpg\/hb10_6715_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"위규<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790552&cid=55615&categoryId=55615",
+			"description":"열차 또는 차량의 <b>운전<\/b>에 있어서 규정위반의 취급을 한 경우로(예 폐색취급위반, 신호취급위반 및 <b>운전<\/b>사고에 속하지 않지만 열차 또는 차량 <b>운전<\/b>에 지장을 주는 것.) 예를 들면, 규정에 위반한 열차의 조성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시계<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790161&cid=55615&categoryId=55615",
+			"description":"차량의 <b>운전<\/b>을 자동<b>운전<\/b>(ATO)으로 하는 것이 아니라 기관사의 육안에 의존하여 <b>운전<\/b>하는 것",
+			"thumbnail":""
+		},
+		{
+			"title":"조상<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2791001&cid=55615&categoryId=55615",
+			"description":"<b>운전<\/b> 정리상 중요한 사항으로 열차의 계획된 <b>운전<\/b>시각을 앞당겨 <b>운전<\/b>함을 말한다. 도착시간은 계획된 시각대로 도착되며 출발시간만 앞당겨 운행되는 것을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>장애",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790525&cid=55615&categoryId=55615",
+			"description":"열차 또는 차량<b>운전<\/b>에 지장을 준 것 중에서 <b>운전<\/b>사고에 해당되지 않는 것. 차량탈선, 차량파손, 차량화재, 열차분리, 송전고장, 차량일주, 이선진입, 폐색취급 위반, 신호취급 위반, 위규<b>운전<\/b>, 정지위치 실당... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음주<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=71147&cid=43667&categoryId=43667",
+			"description":" 술에 취한 상태에서 자동차 등을 <b>운전<\/b>하는 것으로, 음주<b>운전<\/b>을 한 경우에는 사고가 발생하지 않았어도 도로교통법 위반으로 별도의 처벌을 받게 된다.  | 외국어 표기 | 飮酒運轉(한자) | 출처: 게티이미지... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxODExMTNfODgg%2FMDAxNTQyMDcwMjA0NDI3.KrrQLKtZB6A1y-rVRj5Z7nwPuSjemkTay8pNPKKyuK8g.MToNOXuLQT4Ldam5B377YFhY5BrE6p3YLlttp7kiArQg.JPEG%2FIg146eQCgVUuunTs4zrVslzrDfFs.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"음주<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1223385&cid=40942&categoryId=31693",
+			"description":" 술에 취한 상태에서 자동차 등을 <b>운전<\/b>하는 행위.  법률에서는 <b>운전<\/b>자의 의무로, 누구든지 술에 취한 상태에서 자동차 등을 <b>운전<\/b>해서는 안 된다고 규정하고 있다(도로교통법 44조 1항). 자동차 등에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조하<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2791017&cid=55615&categoryId=55615",
+			"description":"열차의 계획된 <b>운전<\/b>시각보다 늦게 출발시켜 <b>운전<\/b>하도록 하는 것을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>명령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790513&cid=55615&categoryId=55615",
+			"description":"사장 또는 <b>운전<\/b>관제사가 열차 및 차량의 <b>운전<\/b>에 관계되는 상례이외의 사항을 지시하는 것. <b>운전<\/b>지시.",
+			"thumbnail":""
+		},
+		{
+			"title":"단선<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2789397&cid=55615&categoryId=55615",
+			"description":"복선<b>운전<\/b>구간에 있어 열차사고 또는 선로고장 등으로 상하 선중 일개선이 불통 되었을 때 타 일방의 선으로 상하 열차를 <b>운전<\/b>하는 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"승계<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790144&cid=55615&categoryId=55615",
+			"description":"‘교대<b>운전<\/b>’이라고도 하며, 열차는 시발역에서 종착역까지 장거리 운행함에 따라 도중역에서 기관차 승무원을 바꾸는어(교대) <b>운전<\/b>하도록 하는 것을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"구내<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1065897&cid=40942&categoryId=32185",
+			"description":" 철도에서 사용하는 <b>운전<\/b>방식 중의 하나.  정차장 내 또는 전차기지(電車基地) 구내에서 입환신호기(入換信號機)에 의하여 차량을 <b>운전<\/b>하는 방식을 말한다. 동력차는 그 조업(操業)을 종료하게 되면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2808564&cid=47305&categoryId=47305",
+			"description":" “버스, 건설기계차량, 선박, 철도 등 대형 차량과 특수 차량을 <b>운전<\/b>해요.&quot;. [어떤 일을 하나요?] · 우리가 일상생활에서 이용하는 버스뿐만 아니라 레미콘, 굴삭기와 같은 건설기계를 <b>운전<\/b>하거나 선박기계... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3981_000_1\/20190405112438813_NLRO7D39X.jpg\/dbp08_56_i3.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운전<\/b>면허",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1130816&cid=40942&categoryId=32186",
+			"description":" 일정한 자격을 구비한 자에 한하여 자동차 등의 <b>운전<\/b>을 할 수 있게 하는 행정처분.  자동차·선박·항공기·기차·전동차 등의 <b>운전<\/b>·조종은 기술을 필요로 하고 위험이 수반되며 귀중한 인명이나 화물을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"합병<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2791636&cid=55615&categoryId=55615",
+			"description":"2개 열차를 합병하여 1개 열차로서 <b>운전<\/b>함을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"타행<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2791436&cid=55615&categoryId=55615",
+			"description":"열차가 레일위의 무동역에 의한 타력<b>운전<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"A.T.C <b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2788507&cid=55615&categoryId=55615",
+			"description":"차내 신호 폐색식에 의하여 <b>운전<\/b>하는 방식을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"주의<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2791049&cid=55615&categoryId=55615",
+			"description":"특수한 사유로 인하여 특별한 주의력을 가지고 하는 <b>운전<\/b>.",
+			"thumbnail":""
+		},
+		{
+			"title":"이선<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790622&cid=55615&categoryId=55615",
+			"description":"정당한 진입선로가 아닌 타 선로로 진입 또는 진출되도록 한 <b>운전<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"선행<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790027&cid=55615&categoryId=55615",
+			"description":"<b>운전<\/b> 정리 상 앞 열차를 대피 시키고 뒤따라오는 열차를 먼저 운행 시키는 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>사령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790518&cid=55615&categoryId=55615",
+			"description":"철도공사사장의 책임으로 열차 <b>운전<\/b>에 관한 지시를 하는 직원을 말하며 ‘관제사라’라 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"역행<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790357&cid=55615&categoryId=55615",
+			"description":"동력을 이용하여 차량이나 열차를 <b>운전<\/b>하는 것으로, 동력을 발휘하여 열차를 움직이게 하는 행위를 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>자본",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=779383&cid=42085&categoryId=42085",
+			"description":"호황시에는 수요가 증가함에 따라 생산을 확대하기 위해서는 다종의 <b>운전<\/b>자본이 필요하게 된다. 한편 수요가 감소하면 조업률을 낮추어서 조업하기 때문에 소액의 <b>운전<\/b>자본밖에 필요치 않게 된다. 필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1585972&cid=50321&categoryId=50321",
+			"description":"<b>운전<\/b>율철도관련큰사전 열차의 <b>운전<\/b> 계획상에서 사용되는 용어로써 어느 기간의 열차 설정킬로와 실제 <b>운전<\/b>킬로와의 비율. 파동대책열차(波動對策列車) 등에 사용한다. 외국어 표기 運轉率(한자)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=162849&cid=50305&categoryId=50305",
+			"description":"트랙터 등의 <b>운전<\/b>실, 또는 <b>운전<\/b>대, <b>운전<\/b>수가 그 조작을 위해 <b>운전<\/b>용의 기구가 설치되어 있는 실, 대, 장소, <b>운전<\/b>에 시야가 넓어야 하고, 조작이 편리, 쾌적, 안전 등이 필요 요건임.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1585971&cid=50333&categoryId=50333",
+			"description":"<b>운전<\/b>비전기용어사전 수 · 화력 발전소, 송전 선로, 변전소, 배전 선로 등 전력 공급시설을 직접 운용하는 데 필요한 경비. 인건비, 연료비, 보수비, 유지비 등이 그 주된 내용이고, 지불... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1017256&cid=50321&categoryId=50321",
+			"description":"<b>운전<\/b>실철도관련큰사전 차량의 <b>운전<\/b>대가 있는 방. 전기기관차 등에서 <b>운전<\/b>대가 앞뒤에 있는 경우는 1엔드, 2엔드로 구별하며, 1엔드 쪽에 주요 장치 등을 설치한다. 외국어 표기 運轉室(한자), cab(영어)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6047635&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] ① 기계 따위를 <b>운전<\/b>하는데 필요한 비용. ② 초기비용과는 별도로 일정하게 들어가는 비용을 말함. ③ 건축 공사 시공에서 공사 대금을 수취하기 전에 건설업자가 지불 해야 하는 모든 비용. ④... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=343943&cid=50321&categoryId=50321",
+			"description":"기계류의 <b>운전<\/b>에 직접 필요한 비용.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1657755&cid=50322&categoryId=50322",
+			"description":"자동차를 <b>운전<\/b>하는 사람이 앉는 좌석을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>자금",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062140&cid=50305&categoryId=50305",
+			"description":"<b>운전<\/b>자금은 임금, 원자재비 등의 기업이 영업활동을 하는 데 필수적인 경영자금을 말한다. 일정기간이 지나면 회수할 수 있으나 특정시점을 기준으로 보면 잠겨 있는 자금이다. 일반적으로 매출채권과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"냉간<b>운전<\/b>과 난기<b>운전<\/b>의 영향",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1981964&cid=42331&categoryId=42333",
+			"description":"디젤기관의 환경 친화성을 높이기 위해서는, 정상작동온도에서의 작동특성 뿐만 아니라 냉간<b>운전<\/b>특성도 매우 중요하다. 부실(副室)식 기관에서는 부실에 예열플러그를 설치하여, 냉시동 시에 배출되는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2442_000_2\/20130424062705587_NHBLNV4V8.jpg\/de3_50_i9.jpg?type=m160_160"
+		},
+		{
+			"title":"소 <b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=790356&cid=50321&categoryId=50321",
+			"description":"검사·청소 등을 위해서 차량 기지에 출입구로 하기 위해서, 정차장과 차량 기지와의 사이를 <b>운전<\/b>되는 차량. 입출 구편, 구내 편, 구내 회송, 구내 <b>운전<\/b>이라고도 한다. 또 같은 목적이지만 본선 상을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>자금",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=7753&cid=43659&categoryId=43659",
+			"description":"공장설비의 신설이나 확충을 위해 필요한 자금을 설비자금이라고 하는데, 이 자금의 회수기간이 길기 때문에 고정적·장기적 자금인 데 반해 <b>운전<\/b>자금은 단기적·유동적인 점이 특색이다. 일반적으로 1년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"3D<b>운전<\/b>게임",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/3D%EC%9A%B4%EC%A0%84%EA%B2%8C%EC%9E%84",
+			"description":"3D<b>운전<\/b>게임 은 3D<b>운전<\/b>교실의 팬이 개발한 자동차 시뮬레이션 게임이다. 2018년에 출시한 게임이다. 안드로이드 스마트폰은 구글 플레이 스토어, 앱스토어 설치가 가능하며, 멀티플레이도 가능하다. 상세... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>면허증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6036291&cid=67200&categoryId=67200",
+			"description":"<b>운전<\/b>면허증은 면허 소지자가 도로에서 자동차 혹은 특수 장비를 <b>운전<\/b>할 수 있음을 증명하는 공문서를 의미합니다. 자동차 등을 <b>운전<\/b>하고자 하는 사람은 지방경찰청장의 <b>운전<\/b>면허를 받아야 해요.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>증명서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545447&cid=42279&categoryId=42279",
+			"description":" <b>운전<\/b>증명서란 <b>운전<\/b>자의 <b>운전<\/b> 경력을 증명하는 내용의 문서이다.  <b>운전<\/b>은 기계나 자동차를 움직이는 것을 의미하며, <b>운전<\/b>증명서란 도로교통법 시행규칙에 따라 <b>운전<\/b> 경력을 증명하기 위한 목적으로 발급하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182119448_OYP0V78QG.jpg\/hb10_79102_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운전<\/b>용연료",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790521&cid=55615&categoryId=55615",
+			"description":"열차<b>운전<\/b>에 직접 사용하는 연료(입환사업 포함) 및 열차<b>운전<\/b>을 위한 준비용으로 사용되는 연료를 말한다[<b>운전<\/b>용연료운용 규정]",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>곡선도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790511&cid=55615&categoryId=55615",
+			"description":"열차의 <b>운전<\/b>상태, <b>운전<\/b>속도, <b>운전<\/b>시분, 주행거리, 전기소비량 등의 상호관계를 열차운행에 수반하여 변화하는 상태를 역학적으로 도시한 것",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>기사병",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1130815&cid=40942&categoryId=32799",
+			"description":" <b>운전<\/b>기사에게 일어나기 쉬운 여러 가지 질병이나 장애.  위장장애 ·위아토니 ·위궤양 ·치질 ·요통 등을 일으키기 쉽다. <b>운전<\/b>은 신경을 긴장시키기 때문에 신경성의 피로를 초래하고, 위장 ·순환기 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>보고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545446&cid=42279&categoryId=42279",
+			"description":" <b>운전<\/b>보고서란 <b>운전<\/b>과 관련된 현황을 보고하기 위해 작성하는 문서이다.  보고서는 특정한 일에 관한 현황이나 그 진행사항 또는 연구, 검토 결과 등을 보고하거나 건의하고자 할 때 작성하는 문서를 말하며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182118555_DEARO0OWO.jpg\/hb10_79101_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"이방향<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790620&cid=55615&categoryId=55615",
+			"description":"정당한 진입선로가 아닌 타 선로로 진입 또는 진출되도록 한 <b>운전<\/b>.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>간이역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790510&cid=55615&categoryId=55615",
+			"description":"보통역과 같이 여객 또는 화물을 취급하고 <b>운전<\/b>취급은 하지 않는 역으로 역장이 배치된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>시각표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790520&cid=55615&categoryId=55615",
+			"description":"역별 각 열차의 운행시각(도착, 통과, 출발 등)을 기록해 놓은 표. 열차번호, 속도종별, 열차종류, 동력차 종류 등 <b>운전<\/b>에 필요한 사항을 함께 기록한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>자격증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2800957&cid=42279&categoryId=42279",
+			"description":" 여객자동차 운수사업법 시행규칙에 의한 <b>운전<\/b>자격증 행정서식.  여객자동차 운수사업법 시행규칙 [시행 2014. 7. 29.] [국토교통부령 제118호, 2014. 7. 29., 일부개정]에 의한 [서식 30] (버스, 택시)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150605112548115_EF2YB13QA.jpg\/hb10_15355_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운전<\/b>시격",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791371&cid=42321&categoryId=42321",
+			"description":"열차의 시간적인 <b>운전<\/b>간격(運轉間隔). 설비상(設備上)의 <b>운전<\/b> 시격의 최소치 중에서, 선구(線區)를 통해 최대로 되는 것을 최소<b>운전<\/b>시격(最小運轉時隔)이라 한다. 최소 <b>운전<\/b>시격은 계획된 기준의 <b>운전<\/b>곡선에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>사고",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791368&cid=42321&categoryId=42321",
+			"description":"열차의 <b>운전<\/b>에 지장을 주는 <b>운전<\/b>사고는 넓은 의미로는 열차<b>운전<\/b>으로 인해 사람의 사상(死傷)이나 물건의 손상을 일으킨 <b>운전<\/b>사고와 열차의 <b>운전<\/b>에 저해(阻害)를 끼친 것 중에서 <b>운전<\/b>사고 이외의 <b>운전<\/b>저해를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>자본",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1130818&cid=40942&categoryId=31913",
+			"description":"① 유동자산(流動資産)의 총액을 <b>운전<\/b>자본으로 보는 것으로, 특히 총<b>운전<\/b>자본이라고도 하지만 이와 같은 의미로 쓰이는 일은 드물다. ② 현금·예금·받을어음·외상매출금과 같이 거래활동에 즉시 동원될 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음주<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962284&cid=42149&categoryId=42149",
+			"description":"누구든지 술에 취한 상태에서 자동차 등을 <b>운전<\/b>해서는 아니 된다. 경찰공무원(자치경찰공무원 제외)은 교통의 안전과 위험방지를 위하여 필요하다고 인정하거나 술에 취한 상태에서 자동차 등을 <b>운전<\/b>하였다고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791360&cid=42321&categoryId=42321",
+			"description":"수송계획을 기초로 하여 구체적인 열차종별의 책정(策定), <b>운전<\/b>성능의 사정(査定), 열차횟수의 책정, 열차 다이어그램 작성, 차량 및 승무원의 운용계획 작성 등의 <b>운전<\/b>계획업무(運轉計劃業務), 열차운행의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"난폭<b>운전<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%82%9C%ED%8F%AD%EC%9A%B4%EC%A0%84",
+			"description":"난폭<b>운전<\/b> (亂暴運轉, 영어: reckless driving )은 전방을 주행하는 차량에 대해 진로를 양보하도록 강요하는 행위이며, 주행 중 차간거리를 좁혀 전방 차량을 바짝 뒤쫓기·과속·전조등 번쩍이기·경적·급차선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방어<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=506839&cid=50322&categoryId=50322",
+			"description":"항상 안전측면이 되도록 하는 <b>운전<\/b>방법이며, <b>운전<\/b>중 그 직전에 나타나는 상태에 대해 항상 안전하게 대처할 수 있는 상태를 유지하면서 <b>운전<\/b>을 계속하는 것이다. 자동차를 노상에서 <b>운전<\/b>할 때는 직전의 상태는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정속<b>운전<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%95%EC%86%8D%EC%9A%B4%EC%A0%84",
+			"description":"정속<b>운전<\/b> (定速運転)은 열차의 <b>운전<\/b>에서 임의의 속도를 설정하여 그 속도를 유지하도록 자동적으로 열차속도의 가감속을 실시하는 것이다. 차량공학에서는 정속제어라고도 불리며 자동차의 크루즈 컨트롤과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"협조<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794133&cid=50350&categoryId=50350",
+			"description":"열차를 <b>운전<\/b>하는 경우, 2량 이상의 동력차의 협조에 의한 <b>운전<\/b>. 일반적으로 인장특성(引張特性)이 다른 형식(形式) 또는 다른 차종 사이의 협조<b>운전<\/b>을 가리키며, 동일 형식의 기관차 등은 협조<b>운전<\/b>이라고 말하지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장풍<b>운전<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%A5%ED%92%8D%EC%9A%B4%EC%A0%84",
+			"description":"《 장풍<b>운전<\/b> 》(張豐雲傳)은 작자미상의 조선 후기 소설이다. 작품 소개 정조 18년, 대마도 역관 소전기오랑이 조선의 사신으로부터 전해 듣고 기록한 ≪상서기문≫을 보면, 조선의 소설로 ＜장풍<b>운전<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>자본",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=47197&cid=42095&categoryId=42095",
+			"description":"유동자산의 총액에서 유동부채의 총액을 공제한 것을 <b>운전<\/b>자본이라고 하며, 기업의 재무관리상 이러한 순<b>운전<\/b>자본이 중시된다. 왜냐하면 순<b>운전<\/b>자본에 상당하는 부분은 단기간에 상환을 고려하는 일 없이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"총괄<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=793159&cid=50320&categoryId=50320",
+			"description":"중연(重連)<b>운전<\/b>에 있어서 각 기관차의 <b>운전<\/b>제어를 맨 앞의 기관차 1량에서 <b>운전<\/b> 가능한 장치가 탑재된 기관차에 의한 <b>운전<\/b>방식을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>지령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791383&cid=50350&categoryId=50350",
+			"description":"열차의 <b>운전<\/b>은 언제나 운행표대로 운행할 수 있는 것은 아니기 때문에 열차의 <b>운전<\/b>상황을 감시하여 지연(遲延) 등 이상(異常)시에는 열차의 <b>운전<\/b>혼란을 최소한으로 줄이도록 적당한 선구(線區)·구간을 집중하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>선도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791369&cid=50320&categoryId=50320",
+			"description":"통상 <b>운전<\/b> 시에서의 동력차 및 <b>운전<\/b>조건을 고려하여 작성한 거리-속도 곡선, 거리-시간 곡선, 거리-온도상승 곡선, 거리-동력소비량 곡선 등, 열차의 <b>운전<\/b>상태를 나타내는 선도를 말한다. 일반적으로 <b>운전<\/b>곡선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자동<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2412516&cid=51399&categoryId=51399",
+			"description":"자동<b>운전<\/b> 모드에서는 희망온도를 표시하지 않으며, 희망온도를 조절하게 되면 냉방<b>운전<\/b>으로 전환됩니다. * 실내온도 25℃이상: 냉방 <b>운전<\/b> * 실내온도 25℃이하: 송풍 <b>운전<\/b> (실외기 정지)",
+			"thumbnail":""
+		},
+		{
+			"title":"추진<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=793191&cid=50321&categoryId=50321",
+			"description":"최전위(最前位) <b>운전<\/b>실 이외의 장소에서 열차를 <b>운전<\/b>하는 것. 최전위(最前位) 차량의 앞부분에 특수한 제동밸브(brake valve) 및 경적(警笛)을 장치하고, 그 차량에 다른 기관사를 승무(乘務)시켜... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>정리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791380&cid=50350&categoryId=50350",
+			"description":"사고(事故) 등으로 열차의 <b>운전<\/b>이 중단되었을 때, 열차가 지연되기도 하고 또는 지연의 염려가 있을 때 다이어그램을 정상으로 돌리기 위한 일련의 준비 작업. 열차의 순서변경, 교행변경, 대피장소의 변경... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>파일",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=796560&cid=42347&categoryId=42347",
+			"description":"전자교환기의 <b>운전<\/b>파일은 시스템 프로그램(시스템 데이터를 포함), 국(局)데이터 및 가입자 데이터로 구성된다. <b>운전<\/b>파일은 신규 서비스의 도입, 서비스 사양의 변경, <b>운전<\/b>중 문제점의 수정, 설비의 변경... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0787_000_1\/20111107205517050_O2GX2Y9YR.jpg\/ka2_309_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>운전<\/b>자금",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1130817&cid=40942&categoryId=31914",
+			"description":"일반적으로 <b>운전<\/b>자금은 자금의 지출에 의하여 생산된 생산물 또는 매입한 상품의 매출로써 회수된다. 설비자금의 회수가 고정적·장기적인 데 반하여, <b>운전<\/b>자금은 유동적·단기적인(일반적으로 1년 이내) 점이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장풍<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=730890&cid=60608&categoryId=60608",
+			"description":"[＜장풍<b>운전<\/b>＞의 인기도] ＜장풍<b>운전<\/b>(張豊雲傳 또는 張風雲傳)＞은 작자와 창작 연대가 확실하지 않은 작품이다. 그렇지만 정조 18년(1794), 대마도 역관 소전기오랑(小田幾五郞)이 조선의 사신으로부터 전해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>진정서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926360&cid=42279&categoryId=42279",
+			"description":" <b>운전<\/b> 면허 등과 관련된 행정 처분에 진정을 요청하는 문서.  <b>운전<\/b>진정서란 면허 취소 등의 행정 처분에 관해 담당기관에 진정을 요청하는 내용의 문서를 말한다. <b>운전<\/b>진정서를 작성할 시에는 진정인의 인적... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128222302560_296PLH53G.jpg\/hb10_6716_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"최고<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=694034&cid=60533&categoryId=60533",
+			"description":"한문본으로는 &#60;최고<b>운전<\/b>&#62;과 &#60;최문헌전(崔文獻傳)&#62;, 한글본으로는 &#60;최충전(崔沖傳)&#62;과 &#60;최고<b>운전<\/b>&#62;이 전하고 있으나, 한문본이 앞서 보인다. 한글본 &#60;최충전&#62;은 한문본 &#60;최고<b>운전<\/b>&#62;(대제각 영인본)계의 번역 개작이고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>설비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2790519&cid=55615&categoryId=55615",
+			"description":"열차<b>운전<\/b>에 필요한 설비. 선로, 신호보안설비, <b>운전<\/b>보안설비, 전차선로, 정차장 등을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"자동<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791763&cid=50320&categoryId=50320",
+			"description":"자동열차<b>운전<\/b>(ATO：Automatic Train Operation)장치에 의해 계획된 제어방식으로 <b>운전<\/b>하는 모드.",
+			"thumbnail":""
+		},
+		{
+			"title":"난폭<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961536&cid=50300&categoryId=50300",
+			"description":"안전한 도로교통에 저해되는 <b>운전<\/b> 행위로서, 고의로 다른 사람의 교통을 방해하거나, 위협하는 <b>운전<\/b> 행위를 말한다. 예를 들어 급차선변경, 지그재그운행, 급제동, 직진도로에서 간선도로에 진입시 직진차량에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>계획",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791358&cid=50350&categoryId=50350",
+			"description":"열차 다이어그램(diagram) 작성, 계획으로부터 선구(線區：철도의 선로를 구간(區間)으로 나눈 것)의 열차속도, 열차종별, <b>운전<\/b>간격, 차량의 운용, 승무원의 운용 등, 미래를 대비하여 포함한 종합적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"최고<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=564216&cid=46641&categoryId=46641",
+			"description":"한문본으로는 「최고<b>운전<\/b>」과 「최문헌전(崔文獻傳)」, 한글본으로는 「최충전(崔冲傳)」과 「최고<b>운전<\/b>」이 전하고 있으나, 한문본이 앞선 본이다. 한글본 「최충전」은 한문본 「최고<b>운전<\/b>」(대제각 영인본)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_4\/20180514194936539_KRFYWS970.jpg\/cdd97c21-c246-47.jpg?type=m160_160"
+		},
+		{
+			"title":"통지<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=793604&cid=42321&categoryId=42321",
+			"description":"정류소, 조차장 및 신호장의 역장은 제외) 사이에서 협조를 하면서 <b>운전<\/b>하는 것을 말함. 기본적으로 후방 정차장의 역장은 전방 정차장의 역장으로부터 열차를 출발시켜도 되는 통고를 받기까지 후속 열차를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무인<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=789421&cid=42321&categoryId=42321",
+			"description":"신교통 시스템 선(線)에서는 자동화를 한층 진행하고 신뢰성을 높여, 무인<b>운전<\/b>으로 하고 있는 예가 증가하고 있다. 무인화(無人化)하는 데는 건널목의 배제, 플랫홈 도어의 설치 등의 시설의 고도화(高度化)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"순<b>운전<\/b>자본",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6369&cid=43659&categoryId=43659",
+			"description":"따라서 장기목적으로 투자되는 자산인 투자자산은 순<b>운전<\/b>자본에 속하지 않는다. 순<b>운전<\/b>자본이 중요한 자금개념으로 여겨지는 원인은 다음과 같다. ⑴ 기업의 단기 지급능력을 표시하는 자금 개념이다. ⑵... ",
+			"thumbnail":""
+		},
+		{
+			"title":"최고<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1147272&cid=40942&categoryId=33383",
+			"description":"한문본인 《최고<b>운전<\/b>》 《최문헌전(崔文憲傳)》과 국문본인 《최고<b>운전<\/b>》 《최충전(崔冲傳)》 등이 함께 전하나 한문본이 선행본이다. 이들 한문본과 국문본의 즐거리는 비슷하나, 그 표현에는 상당한 차이가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직렬<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=176784&cid=50331&categoryId=50331",
+			"description":"직렬의 상태로 배열하여 <b>운전<\/b>하는 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>온도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=663382&cid=50327&categoryId=50327",
+			"description":"원자로 <b>운전<\/b>시의 원자로 공칭온도.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>출력",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=663380&cid=50327&categoryId=50327",
+			"description":"원자로 <b>운전<\/b>시의 원자로 공칭출력.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>패널",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6202615&cid=67995&categoryId=67995",
+			"description":"Process Display로 인한 감시 및 <b>운전<\/b>을 원활하게 하는 System.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>영역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=663381&cid=50327&categoryId=50327",
+			"description":"원자로가 정상상태에서 <b>운전<\/b>할 수 있도록 설계된 출력범위.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>시간",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=162847&cid=50331&categoryId=50331",
+			"description":"일반적으로 기계장치 등을 이용 <b>운전<\/b>한 또는 하고 있는 시간.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>수위",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=162846&cid=50331&categoryId=50331",
+			"description":"최저안전 수위보다 높아서 정상<b>운전<\/b>을 유지할 수 있는 압력용기내의 수위.",
+			"thumbnail":""
+		},
+		{
+			"title":"중련<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=792568&cid=50320&categoryId=50320",
+			"description":"열차의 견인력이 부족할 때에, 여러 개의 기관차를 연결하여 사용하는 <b>운전<\/b> 형태의 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>정비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791378&cid=50320&categoryId=50320",
+			"description":"차량의 기기(機器)인 스위치(switch)류(類)를 규정의 위치에 설치하고, <b>운전<\/b> 가능한 상태로 하는 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>평야",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B4%EC%A0%84%ED%8F%89%EC%95%BC",
+			"description":"<b>운전<\/b>평야 (雲田平野)는 평안북도 <b>운전<\/b>군에 위치한 평야이다. <b>운전<\/b>군의 남쪽에 위치해 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"구원<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=788376&cid=50320&categoryId=50320",
+			"description":"차량 고장의 경우 다른 차량의 동력을 이용하거나, 고장 차량만 회로에서 분리시켜 <b>운전<\/b>하는 것을 말함.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>하중",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6047626&cid=67350&categoryId=67350",
+			"description":"[구조] 기기계(機器系)를 갖춘 구조물에 있어서 그 기계의 <b>운전<\/b> 시에 생기는 하중. 참고 : 건축구조용어사전, 대한건축학회",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>검사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791357&cid=50320&categoryId=50320",
+			"description":"차량의 <b>운전<\/b> 중에 가속, 감속, 진동 등의 동적(動的)상태 및 각 기기(機器)의 종합적 작용 및 기능에 대해서 차량에 승차(乘車)하여 수행하는 검사.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>경비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=162845&cid=50331&categoryId=50331",
+			"description":"고성능 농기계를 이용 <b>운전<\/b>하는 경우, 유지비(수리, 이자, 세금, 보험료 등), 연료비, 윤활유비, 인건비등이 필요로 하는데 이러한 경비를 말함.",
+			"thumbnail":""
+		},
+		{
+			"title":"퇴행<b>운전<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=793615&cid=50320&categoryId=50320",
+			"description":"선로지장 등의 이유로 열차표지를 변경하지 않고, 최초로 진행한 방향과 반대 방향으로 열차를 <b>운전<\/b>하는 것. 이 경우의 속도는 25km\/h 이하로 하고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>시험",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=162848&cid=50331&categoryId=50331",
+			"description":"기계<b>운전<\/b>중, 그 기계본래의 모든 성능발휘상태, 진동, 소음, 주요부의 온도, 동력원, 그밖의 소모자재의 소비율, 취급성 등의 상태를 확인하는 시험.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>운전<\/b>정차",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791382&cid=50350&categoryId=50350",
+			"description":"목적으로 하지 않고 기관차의 교환·승무원의 교체나 단선구간의 교행(交行, cross running) 등을 위해서 정차하는 경우. 야간열차의 심야 시간대(深夜時間帶) 등에서 정차는 <b>운전<\/b>정차로 하고 있다.",
+			"thumbnail":""
+		}
+	]
+}

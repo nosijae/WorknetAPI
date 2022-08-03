@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:06 +0900",
+	"total":333196,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=957841&cid=47304&categoryId=47304",
+			"description":" 산, 강, 바다 등 생명력을 가지고 스스로 생성, 발전하는 것.  혹시 TV에서 뉴스를 보거나 신문을 읽다가 지구 온난화(global warming)나 온실 효과(greenhouse effect) 같은 말을 들어 본 적이 있어?... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1779_000_1\/20120319122832507_STUOPYR0O.jpg\/bh11_9_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=630772&cid=50766&categoryId=50794",
+			"description":"<b>자연<\/b>이라는 말은 원래 중국에서 유래한 것이다. 중국에서 <b>자연<\/b>이라는 말이 최초로 나타난 것은 『노자』에서이다. <b>자연<\/b>이라는 것은 원래 맹연(猛然)이나 흔연(欣然)처럼 어느 상태를 나타내는 말이며, 존재를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1717821&cid=41908&categoryId=41972",
+			"description":"<b>자연<\/b>이라는 개념은 동서양을 막론하고 인간의 주관이나 기교에 의하지 않고서 '그것 자체로' 그와 같이 있는 현상 또는 존재자를 의미한다. 아리스토텔레스에 의하면 <b>자연<\/b>이란 신들과 인간의 그때마다의 활동... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3547785&cid=58613&categoryId=58614",
+			"description":"<b>자연<\/b>] 自 스스로 자, 然 그럴 연 비슷한말：천연(天然) 반대말：인위(人爲) 왜 <b>자연<\/b>을 사랑해야 하는 걸까요? <b>자연<\/b>은 사람이 살 수 있도록 공기도 만들어 주고 먹을 것도 주지요. <b>자연<\/b>이 우리들을 보살펴 주는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_3\/20170116153624637_YIUUX38I4.jpg\/362_115402_18461.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1691185&cid=41908&categoryId=41930",
+			"description":"[ 【Ⅰ】 <b>자연<\/b>과 인간의 <b>자연<\/b>] &quot;인간은 자신 바깥의 <b>자연<\/b>에 작용을 가함으로써 그것을 변화시키고, 또 그렇게 함으로써 동시에 자기 자신의 <b>자연<\/b>을 변화시킨다&quot;는 것은 '노동과정'론[『자본』, 23a:234] 속의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1713004&cid=41908&categoryId=41954",
+			"description":"후자에 관해서 말하자면, 칸트는 초월론철학에서는 <b>자연<\/b> 개념이 두 가지로 물어진다고 말한다[Prol. §36]. 하나는 ⓐ &quot;질료적 의미에서의&quot; <b>자연<\/b>-&quot;질료적으로 바라본 <b>자연<\/b>(natura materialiter spectata)&quot;[B 163]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"Korea’s Traditional Liquors and Foods : NATURE",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5687576&cid=42726&categoryId=63038",
+			"description":"The sound of clattering steps at the beginning of rice planting season, looking forward to the harvest. The harvested rice is ground to create malt, which is then fermented to make... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5677_000_1\/20181128173606974_77X5B51SR.jpg\/fe112_4_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137631&cid=40942&categoryId=31534",
+			"description":" 나와서, 자라고, 쇠약해져, 사멸하며 그 안에서 생명력을 가지고 스스로의 힘으로 생성, 발전하는 것.  그리스에서는 <b>자연<\/b>을 피시스(physis)라 하였다. 이 말은 피오마이(태어나다)라는 동사에서 유래하며, 본래... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=388566&cid=41978&categoryId=41985",
+			"description":"원래부터 존재하고 있는 것이라는 의미로부터, 고대 그리스에서는 법률, 제도 등 인위적인 것(nomos)에 대하여 인체를 포함하는 땅(地), 물(水), 불(火), 바람(風) 등이 <b>자연<\/b>이었다. 그리고 그것은 '물활론... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1170000&cid=40942&categoryId=32868",
+			"description":" 《춘향이 마음 초》 연작으로 쓴 박재삼(朴在森:1933∼1997)의 시.  시의 형식은 연의 구분이 없는 단연 10행으로 된 자유시이며, 삶의 한계를 수용하는 성숙한 태도를 주제로 삼고 있다. 전체가 춘향의 독백으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2113645&cid=50765&categoryId=50778",
+			"description":"고유한 성질이나 본질을 뜻했으나 그 고유성을 파괴하고 만든 인위적 인공물과 구별하는 의미로 사용하게 되었다. 그런 점에서 인위적인 사회에 대립되는 <b>자연<\/b>일반을 가리키는 말로 쓰이기도 한다. (7) 도",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=511976&cid=42126&categoryId=42126",
+			"description":"원래 <b>자연<\/b>이라는 말은 중국의 고전에서부터 왔는데 이 말은 라틴어의 어의(語意)와는 다르다. 특히 노자(老子)의 <b>자연<\/b>은 조금도 무리가 없고 인위적이 아니며 생긴다든지 나온다는 의미도 없다. 서양... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=637359&cid=42143&categoryId=42143",
+			"description":"인간의 힘에 의해 만들어지거나 변경이 없이 스스로의 생성과 전개에 따라 성립된 상태를 <b>자연<\/b>이라 하고 인간계에 대응하여 천지만물이 존재하는 범위를 <b>자연<\/b>계라 한다. 태양, 대기, 바다, 육지, 호수, 사막은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=903958&cid=50292&categoryId=50292",
+			"description":"① 몸소. 혼자. ② 본성. ③ 있는 그대로의 참모습. ④ 스스로 존재함. ⑤ 막힘이나 걸림이 없고 자유로움. ⑥ 인식의 대상이 되는 바깥의 모든 현상.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=903959&cid=50292&categoryId=50292",
+			"description":"산스크리트어 pratyaya 산스크리트에서, 동사의 어미를 말함. 이에 반해, 동사의 어근은 자계(字界)라고 함.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1510777&cid=46702&categoryId=46754",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_53\/20141002002627013_S1FTS2Q4H.jpg\/10-535042.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%90%EC%97%B0",
+			"description":"<b>자연<\/b> (自然, 영어: Nature , 그리스어: physis )은 산, 강, 바다 등 생명력을 가지고 스스로 생성, 발전하는 것을 말한다. 주로 인간의 유전적 성질 전체나 환경에 의한 성질을 가리키는 말이기도 하다. 인간의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=419974&cid=60277&categoryId=60277",
+			"description":"어원학적으로 <b>자연<\/b>(physis, natura)이란 단어는 그리스어와 라틴어에서 기원 혹은 탄생이라는 관념(idea)과 관련이 있다. 그러나 이러한 근원적 아이디어는 지속되질 못했다. 오히려 <b>자연<\/b>에 대한 개념은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>과 자원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3547989&cid=58584&categoryId=58595",
+			"description":"<b>자연<\/b>] <b>자연<\/b>은 산, 강, 바다처럼 사람이 만든 것이 아니라 원래부터 있는 것을 말해요. <b>자연<\/b>은 지구가 만들어질 때부터 있었고, 지금까지 지구를 지켜왔어요. 사람들은 <b>자연<\/b>을 삶의 터전으로 삼아 살아오고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_4\/20211104171652966_DK1PPV4FK.png\/130710_i1.png?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1258083&cid=40942&categoryId=33837",
+			"description":" 경기도 양평군 개군면에 위치한 리.  남한강 동쪽 평야지대에 있으며 향리천이 지난다. 원래 붉은 바위가 있었다 하여 '자암(紫岩)'이라 불렸으나 '<b>자연<\/b>'으로 변한 것으로 보인다. 1914년 행정구역 통폐합에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_333\/20190316120409867_4PBWHBTKZ.jpg\/737385.jpg?type=m160_160"
+		},
+		{
+			"title":"환경",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3547669&cid=58583&categoryId=58594",
+			"description":"'<b>자연<\/b> 환경'은 우리 주위 <b>자연<\/b>의 모습을 말해요. [예] 환경을 보호하기 위해 힘써야 합니다. 환경 변화에 아주 민감하여 더러운 물에서는 살지 못합니다. [ 2. <b>자연<\/b>] 自 스스로 자, 然 그러할 연 [한자풀이] 스스로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_3\/20170116150437398_B4L6GJFV9.jpg\/383_116552_15533.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1530762&cid=60657&categoryId=60657",
+			"description":"동양에서 <b>자연<\/b>의 용어는 중국에서 유래하였으며, 《노자(老子)》는 '스스로 그냥 있음'이라했다. 영어에서 <b>자연<\/b>(nature)은 태어나다(nascor)란 뜻의 natura에서 생겨났다. 그리스어 피시스(physis)는 '태어나다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김상복",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1072453&cid=40942&categoryId=33383",
+			"description":" 조선 후기 문신. 벽파로서 전참판 서명선이 정조의 대리청정을 반대하는 영의정 한익모와 좌의정 홍인한을 논박하는 상소를 했을 때 왕으로부터 서명선의 상소문에 대한 의견을 질문 받았으나, 여론을 잘... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김용배",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1272120&cid=40942&categoryId=34254",
+			"description":" 한국의 철학자이다. 동국대학교 교수직을 역임했다. 에너지철학이라는 독자적 철학이론을 제창하였다.  호는 만학(晩學)·<b>자연<\/b>(自然)이다. 경기도 광주에서 태어났다. 한학을 공부하다가 1937년 경성제국대학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"물리 변화와 화학 변화",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000144&svc_clss_id=CLSS0000055953&contents_openapi=naverdic",
+			"description":"물리 변화와 화학 변화가 무엇인지, 그 공통점과 차이점을 안다. 석회 동굴이 생성되는 원리를 생각해보고 물리 변화와 화학 변화가 어떻게 작용하고 있는지 생각해본다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819070250606_VS4OQGIY6.jpg\/m3_sci_17_46_img.jpg?type=m160_160"
+		},
+		{
+			"title":"곤충의 한살이 관찰 계획",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000100&svc_clss_id=CLSS0000055938&contents_openapi=naverdic",
+			"description":"'곤충학자' 파브르가 관찰을 통해 곤충의 새로운 면을 발견했음을 알고 파브르가 어떻게 곤충을 관찰했는지 그 방법을 알아본다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819070014333_L0JLMP91H.jpg\/fs_a0000-2015-07.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1666310&cid=60558&categoryId=60558",
+			"description":"紫鷰自超詣 翠駮誰剪剔(<b>자연<\/b>자초예 취박수전척 ; 그대의 재주는 <b>자연<\/b>이 절로 뛰어가듯 하니, 푸른 박 짐승을 누가 마름질해 만들겠는가.)&#60;두보杜甫 야청허10송시애이유작夜聽許十誦詩愛而有作&#62;",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1695462&cid=60542&categoryId=60542",
+			"description":"보랏빛 연기. 촛불이 곧게 발돋움하듯 천장을 향해 타고 향에선 가늘은 몇 줄기 <b>자연<\/b>(紫煙)이 맴을 돌며 피어오르고 있었다.",
+			"thumbnail":""
+		},
+		{
+			"title":"다툰<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1279325&cid=40942&categoryId=40097",
+			"description":" 타이완 북부에 있는 <b>자연<\/b>공원이다.  면적이 50ha에 이르며, 공원 내 식물은 대부분 습지종이다. 공원 내에는 아름다운 <b>자연<\/b>경관을 조망하거나 하이킹 중 쉬어갈 수 있는 휴게소와 전망대, 나무 오솔길 등이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"차위<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1291473&cid=40942&categoryId=40026",
+			"description":" 중국 시짱[西藏:티베트] 자치구 보미에 위치한 <b>자연<\/b>보호구역.  츠바거우[慈巴沟] <b>자연<\/b>보호구역, 야오주촌[夭朱村] <b>자연<\/b>보호지점, 라무눙바거우[拉木弄巴沟] <b>자연<\/b>보호지점 3곳으로 조성되어 있다. 보호구역... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화핑<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1317913&cid=40942&categoryId=40023",
+			"description":" 중국 광시좡족자치구 구이린에 있는 <b>자연<\/b>보호구역.  은삼(银杉)나무가 최초로 발견되어 세간의 관심이 집중되었던 곳이다. 대단위 면적의 원시 삼림이 일 년 내내 녹음을 드리우고 꽃을 피우기 때문에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선자<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1291515&cid=40942&categoryId=40026",
+			"description":" 중국 시짱[西藏:티베트] 자치구 나취에 위치한 <b>자연<\/b>보호구역.  1993년에 지정된 <b>자연<\/b>보호구역이다. 창탕[羌塘] 네이류[内流]구역 남부의 큰 호수가 밀집되어 있는 호반지대에 위치하며, 면적은 4만 ㎢이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"창칭<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1286925&cid=40942&categoryId=40005",
+			"description":" 중국 산시성 한중에 위치한 <b>자연<\/b>보호구역.  친링난포[秦岭南坡]인 양셴[洋县] 북부에 위치하며, 한중시[汉中市]에서 120㎞ 거리에 있다. 108번 국도에서 30㎞ 떨어져 있으며, 국가급 <b>자연<\/b>보호구역이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"야딩<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1275563&cid=40942&categoryId=40006",
+			"description":" 중국 쓰촨성 르와에 있는 <b>자연<\/b>보호구역.  르와[日瓦]향 경계부근에 위치하며, 관광구역은 해발 2,900m 지점이다. 야딩<b>자연<\/b>보호구는사방 1,000여㎞ 안에 3개 지역으로 나뉜다. 3개의 설산이 '품(品)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바이칭<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1310158&cid=40942&categoryId=40001",
+			"description":" 중국 구이저우성 쭌이에 위치한 <b>자연<\/b>보호구역.  퉁쯔현[桐梓县] 스시진[狮溪镇] 경내에 위치한 <b>자연<\/b>보호구역으로 충칭[重庆] 난촨진포산[南川金佛山] <b>자연<\/b>보호구역과 인접해 있다. 세계에서 보존이 가장 잘... ",
+			"thumbnail":""
+		},
+		{
+			"title":"완무린<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1301471&cid=40942&categoryId=40014",
+			"description":" 중국 푸젠성 난핑에 위치한 <b>자연<\/b>보호구역.  젠어우시[建瓯市] 팡다오향[房道乡] 경내에 있는 <b>자연<\/b>보호구역이다. 푸젠[福建] 북부의 삼림지대에 놓인 한 덩어리의 비취처럼 보인다고 하며, '중아열대삼림박물관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"난쿤산<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1299666&cid=40942&categoryId=40000",
+			"description":" 중국 광둥성 후이저우에 위치한 <b>자연<\/b>보호구역.  난쿤산[南昆山]에는 4만ha규모의 <b>자연<\/b>보호구역이 형성되어 있다. 광둥성[广东省]의 룽먼[龙门], 총화[从化], 쩡청[增城]에 걸쳐 있다. 북회귀선범주에 속해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"퉁구링<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1277299&cid=40942&categoryId=40015",
+			"description":" 중국 하이난성[海南省] 원창에 있는 <b>자연<\/b> 보호구.  최고봉의 해발은 338m이고, 하이난섬의 최동쪽에 있다. 18개의 봉우리가 있고, 판수링[番薯岭]이라고도 부른다. 삼면이 바다로 둘러싸여 있다. <b>자연<\/b> 자원이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"탕자허<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1274804&cid=40942&categoryId=40006",
+			"description":" 중국 쓰촨성 광위안에 위치한 <b>자연<\/b>보호구역.  광위안시 칭촨[青川]현 칭시전[清溪镇] 경내에 위치한다. 지세가 험준하여, 예로부터 전술가가 반드시 손에 넣고자 했던 곳이다. 북쪽은 간쑤성[甘肃省]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"난코현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1292547&cid=40942&categoryId=39989",
+			"description":" 일본 후쿠시마현 남부, 시라카와 시내에 있는 <b>자연<\/b>공원이다.  일본 후쿠시마현 남부, 시라카와[白河] 시내에 있는 <b>자연<\/b>공원이다. 시라카와역에서 남쪽으로 약 2㎞ 떨어진 난코공원[南湖公園] 구역과 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"톈진<b>자연<\/b>사박물관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1281557&cid=40942&categoryId=39998",
+			"description":" 중국 화베이지구 톈진에 있는 <b>자연<\/b>사박물관.  1914년 프랑스 선교사가 세웠으며 1927년 베이장박물관(北疆博物館, Beijiang Museum)이라는 이름으로 문을 열었고 1957년 현재의 이름으로 바꾸었다. 중국의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_281\/20190102084026439_JZ1JZ6ZOG.jpg\/1425853.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>미",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=960334&cid=47310&categoryId=47310",
+			"description":" <b>자연<\/b>을 통해 발견하고 느끼는 미.  태어나서 처음으로 열기구를 타게 된 꽃님이는 열기구가 두둥실 떠오르기 시작하자 가슴도 콩닥콩닥 뛰기 시작했어. 열기구가 하늘 높이 올랐을 때 밖을 내다보니 &quot;와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1779_000_1\/20120405001435490_XGT4WK2PK.jpg\/bh8_55_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"낭첸<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1277409&cid=40942&categoryId=40013",
+			"description":" 중국 칭하이성 위수에 위치한 <b>자연<\/b>보호구역.  위수주(州) 남서쪽의 낭첸현[囊谦懸]에 위치하며, 란창강[澜沧江] 상류지역 양안에 분포되어 있다. 티베트와 가까우며 이곳 삼림지구는 칭하이성에서 가장 큰... ",
+			"thumbnail":""
+		},
+		{
+			"title":"푸톈<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1297910&cid=40942&categoryId=40000",
+			"description":" 중국 광둥성 선전에 위치한 <b>자연<\/b>보호구역.  네이링딩다오[内伶仃岛]와 푸톈훙수린[福田红树林] 두 구역으로 조성되어있다. 네이링딩다오[内伶仃岛] 보호구역은 주강[珠江]어귀 네이링딩양[内伶仃洋] 동쪽에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"에산도립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1286945&cid=40942&categoryId=39987",
+			"description":" 일본 홋카이도 남부에 위치한 오시마반도의 동남쪽 해안을 구역으로 하는 <b>자연<\/b>공원이다.  일본 홋카이도 남부, 오시마반도[渡島半島]의 동남쪽 해안부를 구역으로 하고 있는 <b>자연<\/b>공원이다. 국제적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"켄난현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1292420&cid=40942&categoryId=39974",
+			"description":" 일본 야마가타현 동남부에 위치한 <b>자연<\/b>공원이다.  일본 야마가타현 동남부, 난요시[南陽市]와 다카하타초[高畠町]에 걸쳐 있는 <b>자연<\/b>공원이다. 구역 안에는 에보시산공원[烏帽子山公園]·류가타케[龍ケ岳]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"오타현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1293527&cid=40942&categoryId=39983",
+			"description":" 일본 이바라키현 동북부, 히타치오타에 있는 <b>자연<\/b>공원이다.  일본 이바라키현 동북부, 히타치오타[常陸太田]에 있는 <b>자연<\/b>공원이다. 1951년 현립<b>자연<\/b>공원으로 지정되었다. 도쿠가와 이에야스[德川家康]의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_19\/20180829184626401_8BJM6PWTO.jpg\/9789064.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>탄탈(<b>자연<\/b>탄탈럼)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2307489&cid=60227&categoryId=60227",
+			"description":"탄탈의 원소 광물. 【산상ㆍ산지】 러시아 Ural 지방의 Altai 산맥의 금선광장(金選鑛場)에서 약간 보고되고 있을 뿐이다. 【조성】 탄탈, 니오브, 금, 망간을 소량 포함한다. 【성질】 등축... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>셀렌(<b>자연<\/b>셀레늄)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2307480&cid=60227&categoryId=60227",
+			"description":"셀렌의 원소 광물. 【산상ㆍ산지】 규암, 사암을 덮으며 산출된다(미국 애리조나주 Yavapai군 Jerom). 【결정학적 성질】 육방 결정계. a : c＝1 : 1.1341. 공간군 C 312 또는 C 322. a0 4.34, c0 4.95Å.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미토현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1293524&cid=40942&categoryId=39983",
+			"description":" 일본 이바라키현 중앙부, 미토시에 있는 <b>자연<\/b>공원이다.  일본 이바라키현 중앙부, 이바라라키현의 현청 소재지인 미토시[水戶市]에 있는 <b>자연<\/b>공원이다. 미토 시내에 있는 코도칸[弘道館]공원과 카이라쿠엔... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_19\/20180829184627475_HIQZ37XKL.jpg\/9789154.jpg?type=m160_160"
+		},
+		{
+			"title":"료젠현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1292548&cid=40942&categoryId=39989",
+			"description":" 일본 후쿠시마현 동북부, 아부쿠마고지에 위치한 <b>자연<\/b>공원이다.  일본 후쿠시마현 동북부, 아부쿠마고지[阿武隈高地]에 위치한 <b>자연<\/b>공원이다. 공원의 중심은 소마시[相馬市]와 다테시[伊達市]의 경계에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137650&cid=40942&categoryId=31721",
+			"description":" 인위적이 아닌 <b>자연<\/b>적 성질에 바탕을 둔 보편적이고 항구적인 법률 및 규범.  실정법(實定法)에 대비되는 법 개념이다. 실정법이 민족이나 사회에 따라 내용이 달라지는 것에 비해, 민족·사회·시대를 초월해... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_3\/20160330173557338_8JCJK4PW3.gif\/131685_0.gif?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=537848&cid=46649&categoryId=46649",
+			"description":" 인위적인 것에 대비해 <b>자연<\/b>에 대한 견해를 체계적으로 갖춘 세계관. [개설] 서양에서 <b>자연<\/b>이라는 말은 그리스어의 ‘physis’, 라틴어의 ‘natura’에서 유래한다. 모두 사람이나 사물의 고유한 성(性)을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20190629050831457_LUHQ6BBR6.jpg\/54111e2e-99fe-4e.jpg?type=m160_160"
+		},
+		{
+			"title":"상하이<b>자연<\/b>박물관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1275008&cid=40942&categoryId=39996",
+			"description":" 중국 상하이 시내 중심지역에 위치한 시립 <b>자연<\/b>사박물관으로 동·식물 및 광물 표본들을 전시한다.  중국 상하이 중심지역에 위치한 시립 <b>자연<\/b>사박물관으로 1956년에 설립되었다. 1956년 설립 당시 상하이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665742&cid=40942&categoryId=33441",
+			"description":"37권 10책으로 구성되어 있으며, <b>자연<\/b>과 관련된 폭넓은 주제들이 2천5백여 개의 항목으로 수록되어 있다. 오늘날까지 전해지는 로마시대의 문헌들 가운데 가장 방대한 내용을 담고 있을 뿐 아니라, <b>자연<\/b>에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"베이징<b>자연<\/b>박물관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1282234&cid=40942&categoryId=39995",
+			"description":" 중국 베이징 시내 중심지 동청구에 위치한 국립 <b>자연<\/b>사박물관으로 고대 파충류, 표유류, 식물 화석 및 표본들을 전시한다.  중국 베이징 시내 중심지 동청구에 위치한 국립 <b>자연<\/b>사박물관이다. 1951년에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_281\/20190102100415491_0V2FPGRJ6.jpg\/1531916.jpg?type=m160_160"
+		},
+		{
+			"title":"렁수이허<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1310171&cid=40942&categoryId=40001",
+			"description":" 중국 구이저우성 비제에 위치한 <b>자연<\/b>보호구역.  진사현[金沙县] 현정부 소재지에서 30㎞ 떨어진 지점에 위치하는 <b>자연<\/b>보호구역이다. 해발 700~1500m 지점에 분포되어 온난습윤한 기후를 보인다. 관목이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반류코현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1295992&cid=40942&categoryId=39969",
+			"description":" 일본 시마네현 서부에 있는 <b>자연<\/b>공원이다.  일본 시마네현 서부, 마스다시[益田市]에 있는 <b>자연<\/b>공원이다. 호소 경관이 주로 되어 있는 공원으로, 1964년 현립<b>자연<\/b>공원으로 지정되었다. 마스다시서부에 위치한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_295\/20190108061026974_HV60R135U.jpg\/7935181.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>텔루르(<b>자연<\/b>텔루륨)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2307490&cid=60227&categoryId=60227",
+			"description":"텔루르의 원소 광물. 【산상ㆍ산지】 1) 금은 광맥 중에 크렌네르광, 텔루르창연광 등과 함께 산출된다. 2) 교대 광상 중에 실바니아광, 칼라베라스광, 헤스광 등과 공생한다. 【조성】 텔루르... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나코소현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1292546&cid=40942&categoryId=39989",
+			"description":" 일본 후쿠시마현 동남쪽 끝에 위치한 <b>자연<\/b>공원이다.  일본 후쿠시마현, 이바라키현과 이웃하고 있는 동남쪽 끝에 위치한 <b>자연<\/b>공원이다. 이와키시[いわき市]의 오나하마[小名浜]에서부터 나코소[勿来]에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"능산적 <b>자연<\/b>, 소산적 <b>자연<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=387625&cid=41978&categoryId=41985",
+			"description":"중세 스콜라 학파에서 소산적 <b>자연<\/b>은 현실의 유한적인 존재물의 세계가 신에 의해 창조되었다고 하는 의미로 사용되었다. 이것은 종교적 세계관과 합치되는, 즉 <b>자연<\/b>에 대한 신학적 설명이지만, 르네상스 기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카사마현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1293523&cid=40942&categoryId=39983",
+			"description":" 일본 이바라키현 중서부, 가사마시에 있는 <b>자연<\/b>공원이다.  일본 이바라키현 중서부, 가사마시[笠間市]에 있는 <b>자연<\/b>공원이다. 1955년 현립<b>자연<\/b>공원으로 지정되었다. 야미조산계[八溝山系]를 형성하는 4개의 산... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_19\/20180829184553176_F1P1L4PLP.jpg\/9788834.jpg?type=m160_160"
+		},
+		{
+			"title":"마시코현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1293532&cid=40942&categoryId=39959",
+			"description":" 일본 도치기현 동남부, 마시코마치[益子町]ㆍ모테기마치에 걸쳐 있는 <b>자연<\/b>공원이다.  일본 도치기현 동남부, 마시코마치[益子町]와 모테기마치[茂木町]에 걸쳐 있는 <b>자연<\/b>공원이다. 1955년, 현 내에서는 최초로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"히야마도립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1286953&cid=40942&categoryId=39987",
+			"description":" 일본 홋카이도 남서부, 오시마반도의 동해쪽 연안과 오쿠시리섬을 구역으로 하는 <b>자연<\/b>공원이다.  일본 홋카이도 남서부, 오시마반도[渡島半島]의 동해 쪽에 위치한 카미노쿠니초[上ノ国町]ᆞ에사시초... ",
+			"thumbnail":""
+		},
+		{
+			"title":"앗케시도립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1286943&cid=40942&categoryId=39987",
+			"description":" 일본 홋카이도 동남부에 위치하며, 구시로초[釧路町]ᆞ앗케시초[厚岸町]ᆞ하마나카초의 3개 초에 걸쳐 동서로 길쭉하게 뻗어 있는 <b>자연<\/b>공원이다.  일본 홋카이도 동남부에 위치한 <b>자연<\/b>공원이다. 구시로시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1827300&cid=42154&categoryId=42154",
+			"description":"<b>자연<\/b>생태계나 <b>자연<\/b> 및 문화경관을 대표할 만한 지역으로서 「<b>자연<\/b>공원법」 에 의하여 지정된 국립공원, 도립공원, 군립공원 및 지질공원을 말한다. ① 국립공원 : 우리나라의 <b>자연<\/b>생태계나 <b>자연<\/b> 및... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2469_000_1\/20190523115132413_DQMLF0C5X.jpg\/ga5_391_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741657&cid=60217&categoryId=60217",
+			"description":"<b>자연<\/b>과학은 <b>자연<\/b> 현상을 연구대상으로 하는 과학으로 일반적으로 과학이라고 하면 <b>자연<\/b>과학을 의미한다. <b>자연<\/b>과학은 <b>자연<\/b>현상, 특히 <b>자연<\/b>의 법칙에 관한 일정한 이론체계를 연구하는 학문으로서 일반적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190228192010150_ZBIE1C3NS.png\/ME-12_%25EC%259E.png?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>숭배",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137664&cid=40942&categoryId=31536",
+			"description":" <b>자연<\/b>현상이나 <b>자연<\/b>물에 대한 숭배.  영혼숭배(애니미즘)·사령숭배(死靈崇拜:메이니즘)·주물숭배(呪物崇拜:페티시즘)·주력숭배(呪力崇拜:마나이즘)와 함께 종교의 기원(起源) 문제와 관계되며, 원시종교의 한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"야미조현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1293536&cid=40942&categoryId=39959",
+			"description":" 일본 도치기현 동북부, 나스마치[那須町]ㆍ오타와라시[大田原市]ㆍ나카가와마치에 걸쳐 있는 <b>자연<\/b>공원이다.  일본 도치기현 동북부, 나스마치[那須町]·오타와라시[大田原市]·나카가와마치[那珂川町]에 걸쳐... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고쇼산현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1292416&cid=40942&categoryId=39974",
+			"description":" 일본 야마가타현 동북부에 위치한 <b>자연<\/b>공원이다.  일본 야마가타현 히가시네시[東根市]의 북동부, 야마가타현과 미야기현에 걸쳐 있는 광대한 고쇼산[御所山]과 쿠로부시산[黒伏山]을 중심으로 모가미마치... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>재난",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6210813&cid=61234&categoryId=61234",
+			"description":"<b>자연<\/b>적으로 발생하는 현상이 인명 및 재산에 위협이 될 때, 즉 위협이 되는 <b>자연<\/b> 현상 그 자체를 <b>자연<\/b>재해(natural hazard)라고 하며, <b>자연<\/b>재해로 인하여 인명이나 재산에 심각한 피해가 발생하는 것을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5284_000_1\/20210201155629131_9XVQSNY3Z.png\/%25EC%259E%2590%25.png?type=m160_160"
+		},
+		{
+			"title":"오히라현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1293535&cid=40942&categoryId=39959",
+			"description":" 일본 도치기현 서남부, 도치기시와 오히라마치에 걸쳐 있는 <b>자연<\/b>공원이다.  일본 도치기현 서남부, 도치기시[栃木市]와 오히라마치[大平町]에 걸쳐 있는 <b>자연<\/b>공원이다. 벚꽃의 명소로 유명한 오히라산[太平山]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>보전",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=637361&cid=42143&categoryId=42143",
+			"description":"대표적 사상으로 인간 이외 <b>자연<\/b>의 본질적 가치를 인정하면서 (존재 그 자체에 가치를 두고) <b>자연<\/b>보호를 목적으로 하는 입장과 <b>자연<\/b>의 사용가치(자원으로서의 유용성, 경제적 가치)를 중요시하며 인간에게 보다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"히와<b>자연<\/b>과학박물관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1337055&cid=40942&categoryId=39992",
+			"description":" 일본 히로시마현 쇼바라시 히와정에 있는 <b>자연<\/b>과학박물관.  쇼바라시[庄原市] 히와정[比和町]은 주고쿠산지[中国山地]의 거의 중앙에 있으며 풍요롭고 다채로운 <b>자연<\/b>에 둘러싸여 있다. 박물관에서는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>감쇠",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6212393&cid=61232&categoryId=61232",
+			"description":"<b>자연<\/b>감쇠 또는 <b>자연<\/b>저감은 <b>자연<\/b>환경 내에 유출된 유해요인들이 주로 환경 내에 존재하는 미생물들에 의하여 주변의 동물과 식물, 미생물에게 유해하지 않은 수준의 농도로 감소되는 것을 의미한다(그림... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5282_000_1\/20210202184035429_NNXHM8AK1.png\/e3e0f7e2-86d4-39.png?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>재해",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6210811&cid=61234&categoryId=61234",
+			"description":"<b>자연<\/b>적으로 발생하는 현상이 인명 및 재산에 위협이 될 때, 위협이 되는 <b>자연<\/b>현상 그 자체를 가리켜 <b>자연<\/b>재해(natural hazard)라고 한다1). <b>자연<\/b> 현상 중 싱크홀 등과 같은 재해는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5284_000_1\/20210201155636623_U3BO1XENV.png\/%25EC%259E%2590%25.png?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>지진",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5960702&cid=61234&categoryId=61234",
+			"description":"<b>자연<\/b>지진은 지구의 지각과 맨틀 상부에서 <b>자연<\/b>적인 조구조 운동에 의한 단층운동으로 발생한 지진을 말한다. [목차] 1.<b>자연<\/b>지진의 발생 2.<b>자연<\/b>지진의 원인 3.우리나라와 세계의 <b>자연<\/b>지진 4.참고문헌... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5284_000_1\/20200709160319068_916E83HF6.png\/%25EC%259E%2590%25.png?type=m160_160"
+		},
+		{
+			"title":"카부산현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1292419&cid=40942&categoryId=39974",
+			"description":" 일본 야마카타현 북부, 마무로가와마치 북쪽에 위치한  카부산을 중심으로 한 산악<b>자연<\/b>공원이다.  일본 야마가타현 마무로가와마치[真室川町]와 카네야마마치[金山町] 북부의 넓은 지역을 구역으로 하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고요산현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1287326&cid=40942&categoryId=39985",
+			"description":" 일본 이와테현 남동부, 기타카미산지 남부의 고요산과 인접한 오쿠보산 일대를 구역으로 하는 <b>자연<\/b>공원이다.  일본 이와테현 남동부, 가마이시시[釜石市]ᆞ오후나토시[大船渡市]ᆞ스미타초[住田町]에 걸쳐... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_361\/20191224061928298_S0UTTIMPH.jpg\/10861544.jpg?type=m160_160"
+		},
+		{
+			"title":"고젠산현립<b>자연<\/b>공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1293525&cid=40942&categoryId=39983",
+			"description":" 일본 이바라키현 서북부, 시로사토마치[城里町]ㆍ히타치오미야시에 걸쳐 있는 <b>자연<\/b>공원이다.  일본 이바라키현 서북부, 시로사토마치[城里町]·히타치오미야시[常陸大宮市]에 걸쳐 있는 <b>자연<\/b>공원이다. 공원... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_19\/20180829184538700_MOX7A5N60.jpg\/9788698.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>환경",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3550547&cid=58584&categoryId=58624",
+			"description":" 우리를 둘러싸고 있는 모든 것 중 사람이 만들지 않은 것, <b>자연<\/b> 그대로의 것들.  自 스스로 자, 然 그러할 연, 環 고리 환, 境 곳 경 환경은 <b>자연<\/b>환경과 인문 환경으로 나눌 수 있어요. <b>자연<\/b>환경은 우리를 둘러싸고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_5\/20170125122617986_33T2UY63U.jpg\/172_78625_233919.jpg?type=m160_160"
+		},
+		{
+			"title":"아얼진산<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1295098&cid=40942&categoryId=40027",
+			"description":" 중국 신장웨이우얼자치구 바인궈렁몽골족자치주에 위치한 <b>자연<\/b>보호구역.  아얼진산[阿尔金山] 남부와 둥쿤룬산[东昆仑山] 북부에 위치한다. 서쪽은 뤄창[若羌]과 체모[且末]의 분계선이고, 동쪽은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"창바이산 <b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1166347&cid=40942&categoryId=40012",
+			"description":" 중국 지린성 동부에 지정한 <b>자연<\/b>보호구역.  면적은 21만 5100ha이다. 지린성[吉林省] 동부, 안투[安圖], 푸쑹[撫松], 창바이[長白] 3현의 교차점이며 중국·북한 국경의 산악지대가 중심을 이룬다. 천지(天池)를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>모사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=16293&cid=43659&categoryId=43659",
+			"description":"<b>자연<\/b>물질의 원리를 이용하는 것을 말한다. 거미가 만들어내는 거미줄이 인장강도가 강하고 주성분이 <b>자연<\/b>친화적인 단백질이라는 것에 착안해 방탄복을 제작하는 것 등이 대표적인 <b>자연<\/b>모사 사례다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>법론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137651&cid=40942&categoryId=31693",
+			"description":" <b>자연<\/b>법이 실정법의 기반이 되어야 한다는 법이론.  <b>자연<\/b>법론이 사변적으로 연구되기 시작한 것은 고대 그리스 시대부터이며, 특히 플라톤과 아리스토텔레스의 <b>자연<\/b>법론에서 이론화되었다. 그 후 스토아... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>철학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3613353&cid=40942&categoryId=31500",
+			"description":" <b>자연<\/b>에 대한 철학적 탐구이자 근대 과학의 전신을 말한다.  경험과학, 곧 <b>자연<\/b>과학의 선구자 역할을 한 <b>자연<\/b>철학은 우주, 물질, 인과성, 확률, 원소, 무한, 움직임과 변화, 성질, 시간과 공간 등을 대상으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"피닉스<b>자연<\/b>동물원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1348480&cid=40942&categoryId=39964",
+			"description":"정식명칭은 미야자키시피닉스<b>자연<\/b>동물원[宮崎市フェニックス自然動物園]이다. 1971년 개원하였다. 태평양에 면한 미야자키시 북동부의 히토쓰바해안[一ツ葉海岸]의 광대한 구릉에 있다. 피닉스 시가이아... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>선택",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5669846&cid=63057&categoryId=63057",
+			"description":"[목차] 1.개요 2.<b>자연<\/b>선택의 기작 3.<b>자연<\/b>선택의 유형 4.<b>자연<\/b>선택과 진화 5.<b>자연<\/b>선택설의 적용 6.생각해보기 7.참고 문헌 [ 개요 ] 생물이 변화하는 <b>자연<\/b>환경에 적응하는 과정이 반복되면서 생존과 생식의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5561_000_1\/20180822173218667_T428MDWYG.jpg\/%25EA%25B0%2588%25.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>환경",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137690&cid=40942&categoryId=32202",
+			"description":" 지구상의 생물 또는 무생물, 각종 경관 등을 포함한 <b>자연<\/b> 상태의 환경.  <b>자연<\/b>환경이란 본질적으로 사람에 의해 생겨난 것이 아닌 <b>자연<\/b>적으로 생성되거나 갖추어진 지구상의 환경으로, 인간의 활동이나... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_376\/20210617083614747_GRT4XXN30.jpg\/10878305.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>분만",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2102228&cid=63166&categoryId=51019",
+			"description":"저는 아이가 크기도 했지만 산달이 다 되어서 산부인과에서 내진을 받으니 아이를 <b>자연<\/b>분만으로 낳을 수 없다고 하셨습니다. 그래서 다른 병원을 찾았더니 괜찮다고 신이 아닌들 누가 결정지을 수 있는 문제가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>화폐",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137689&cid=40942&categoryId=31827",
+			"description":" <b>자연<\/b>발생적으로 화폐로서의 역할을 하게 된 화폐.  소재가치(素材價値)가 적거나 또는 아주 없는 명목화폐와 대립되는 개념이며 가축 ·노예 ·직물 ·피혁 ·조개 ·곡물 ·무기 ·귀금속 등과 같이 누구든지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>수위",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3395018&cid=60289&categoryId=60289",
+			"description":" <b>자연<\/b>적인 평형상태의 지하수위.  <b>자연<\/b>적인 상태에서의 지하수의 수위를 의미한다. 인위적인 양수 또는 함양을 하지 않은 <b>자연<\/b>적인 평형상태의 지하수위를 말한다. 지하수의 수위는 지표로부터의 깊이와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>숭배",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=537855&cid=46655&categoryId=46655",
+			"description":" <b>자연<\/b>에 종교적 의미를 부여하여 숭배하는 신앙행위. 애니미즘. [내용] 여기에는 <b>자연<\/b>을 신격화한 존재에 신앙을 바치는 이른바 <b>자연<\/b>신앙도 포함되겠지만, 우선은 <b>자연<\/b>을 신격화하지 않은 상태 그대로 거기에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_17\/20190329223402802_DNEBORNVT.jpg\/97455f4b-cf0a-4d.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>제방",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3395024&cid=60289&categoryId=60289",
+			"description":" 범람원에서 하천을 따라 양안에 <b>자연<\/b>적으로 형성되는 고지.  범람원을 흐르는 하천의 양쪽으로 <b>자연<\/b>스럽게 형성되는 둑 모양의 높은 지형을 <b>자연<\/b>제방이라고 한다. 하천의 상류로부터 운반되는 토사의 범람되어... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4383_000_1\/20160429200154219_2YRVVODAE.jpg\/fe80_3999_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"난군허<b>자연<\/b>보호구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2118272&cid=40942&categoryId=40008",
+			"description":"중국 윈난성[云南省] 창위안와족자치현[沧源佤族自治县]에 있는 국가급 <b>자연<\/b>보호구. 1980년에 설립되었으며, 약 7,082ha 대지에 열대우림이 조성되어 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>재해",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3550545&cid=58584&categoryId=58624",
+			"description":" 태풍, 가뭄, 홍수 등 피할 수 없는 <b>자연<\/b> 현상으로 인해 일어나는 재해.  自 스스로 자, 然 그럴 연, 災 재앙 재, 害 해할 해 <b>자연<\/b>재해는 사람의 생활에 영향을 주는 태풍, 호우, 가뭄, 황사, 지진, 해일, 우박 등의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_5\/20170125113437089_63HNAOUYE.jpg\/172_78623_003928.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>종교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137678&cid=40942&categoryId=31604",
+			"description":" 계몽주의 시대에 있었던 합리주의 종교로, 인간의 <b>자연<\/b>적 이성이나 통찰에만 바탕을 둔 종교.  계시종교(啓示宗敎)와 대립되는 개념이다. <b>자연<\/b>종교의 개념에는 ① 인간의 이성에 근거한 종교를 가리키는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>재해",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3395021&cid=60289&categoryId=60289",
+			"description":" 지진, 태풍, 가뭄, 폭설 등 <b>자연<\/b>현상으로 인하여 발생하는 피해.  지진, 태풍, 가뭄, 폭설 등의 <b>자연<\/b> 현상으로 인하여 발생하는 피해를 의미한다. <b>자연<\/b> 재해는 기상, 지변, 생물 등에 의해 급격히 나타나는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4383_000_1\/20160411120749299_ZL6EQKN4I.jpg\/fe80_3996_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>자연<\/b>과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137636&cid=40942&categoryId=32202",
+			"description":" <b>자연<\/b>현상을 연구대상으로 하는 과학으로 일반적으로 과학이라고도 한다. <b>자연<\/b>과학의 고유한 분야로는 크게 물리학·화학·생물학·천문학·지학이 있다. 그 중 지학은 지질학·지구물리학·지구화학·지리학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>자연<\/b>시료",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6416460&cid=68110&categoryId=68110",
+			"description":"<b>자연<\/b>상태의 흙 구조를 그대로 보존 하면서 채취한 흙시료",
+			"thumbnail":""
+		}
+	]
+}

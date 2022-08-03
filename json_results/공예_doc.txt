@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:38 +0900",
+	"total":223650,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"교반마찰기술제비AA6061\/SiC납미복합재료적<b>공예<\/b>참수우화 (搅拌摩擦技术制",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=221986274",
+			"description":"Optimization of process parameters for producing AA6061\/SiC nanocomposites by friction stir processing 采用搅拌摩擦技术制备AA"
+		},
+		{
+			"title":"한접<b>공예<\/b>참수대여화동리종교반마찰한접두부식성능적영향 (焊接工艺参",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=218434238",
+			"description":"Effects of processing parameters on corrosion properties of dissimilar friction stir welds of aluminium and copper 报道了焊接工"
+		},
+		{
+			"title":"자외\/TiO 2 \/분돈복합<b>공예<\/b>증강재근중성pH치하대포낙분적강해능력 (紫外\/Ti",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=669144002",
+			"description":"   Chemistry "
+		},
+		{
+			"title":"A~2\/O-폭기생물여지<b>공예<\/b>처리저C\/N비생활오수탈담제인 (A~2\/O-曝气生物滤池",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=665141406",
+			"description":""
+		},
+		{
+			"title":"Al\/SiCp금속기복합재료교반마찰한<b>공예<\/b>참수적다목표우화 (Al\/SiCp金属基复",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220247631",
+			"description":"Multi-objective optimization of friction stir welding parameters using desirability approach to join Al\/SiCp metal matrix composites "
+		},
+		{
+			"title":"일종신적정련태양능급다정규<b>공예<\/b>적열력학분석 (一种新的精炼太阳能级",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220984098",
+			"description":"Thermodynamic evaluation of new metallurgical refining processes for SOG-silicon production 提出了一种新的硅精炼工艺生产"
+		},
+		{
+			"title":"기-액-고삼상마입유광정가공급기<b>공예<\/b>참수우화 (气-液-固三相磨粒流光整",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=710967569",
+			"description":""
+		},
+		{
+			"title":"염양+질수폭기+인공습지조합<b>공예<\/b>처리농촌생활오수 (厌氧+跌水曝气+人工",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=667111778",
+			"description":""
+		},
+		{
+			"title":"판율학흡부Cu~(2+)적평형여동력학연구급<b>공예<\/b>설계 (板栗壳吸附Cu~(2+)的平",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=675889615",
+			"description":""
+		},
+		{
+			"title":"우리나라 최초, 유일한 <b>공예<\/b> 전문 공립박물관 : 서울<b>공예<\/b>박물관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884756284",
+			"description":"  목차\n우리나라 최초, 유일한 <b>공예<\/b> 전문 공립박물관 : 서울<b>공예<\/b>박물관 \/ 김수정 1\n [본문] 1 서울<b>공예<\/b>박"
+		},
+		{
+			"title":"규모화저장양식폐수UASB-SFSBR-MAP처리<b>공예<\/b>중시연구 (规模化猪场养殖废水UA",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=749384136",
+			"description":""
+		},
+		{
+			"title":"채용기우회도적혼합방법우화 Al6061\/공심미주복합재료전화화절할<b>공예<\/b>참",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=496786851",
+			"description":"Optimization of electrical discharge machining process parameters for Al6061\/cenosphere composite using grey-based hybrid approach 粉"
+		},
+		{
+			"title":"저온정화야금규<b>공예<\/b> (低温净化冶金硅工艺)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220984476",
+			"description":"Low-temperature purification process of metallurgical silicon 硼、磷杂质的去除在冶金净化法生产太阳能级多晶硅工"
+		},
+		{
+			"title":"NFT를 이용한 무형의 <b>공예<\/b>가치 재산화 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601784",
+			"description":"A Study On The Assetization Of Intangible Craft Values Using NFT 본 연구는 유형(有形 )의 <b>공예<\/b>품 이면에 담긴 <b>공예<\/b>의 "
+		},
+		{
+			"title":"이은위중간층확산연접Ti?6Al?4V화304불수강적<b>공예<\/b>창구 (以银为中间层扩散",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=215014588",
+			"description":"Development of processing windows for diffusion bonding of Ti–6Al–4V titanium alloy and 304 stainless steel with silver as intermed"
+		},
+		{
+			"title":"기우수구분류유전산법적Al\/15％ SiCp복합재료예화학가공<b>공예<\/b>참수적우화 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=221750456",
+			"description":"Parametric optimization of electrochemical machining of Al\/15% SiC p composites using NSGA-II 电化学加工(ECM)是一种重要的非"
+		},
+		{
+			"title":"Ti-6Al-4V합금적도자습분환표면강화<b>공예<\/b> (Ti-6Al-4V合金的陶瓷湿喷丸表面强",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=218339640",
+			"description":"Effect of wet shot peening on Ti-6Al-4V alloy treated by ceramic beads 采用新型陶瓷湿喷丸强化工艺对 Ti-6Al-4V 合金进"
+		},
+		{
+			"title":"Al5052여합금\/C27200동합금 이충재료교반마찰점한적<b>공예<\/b>창구 (Al5052铝合金\/C",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=508967190",
+			"description":"Development of processing windows for friction stir spot welding of aluminium Al5052 \/copper C27200 dissimilar materials 采用搅拌"
+		},
+		{
+			"title":"<b>공예<\/b>참수대연변시효2124여합금력학성능화미관조직적영향 (工艺参数对蠕",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=219011634",
+			"description":"Effects of process parameters on mechanical properties and microstructures of creep aged 2124 aluminum alloy 研究2124铝合金在蠕"
+		},
+		{
+			"title":"분말활성초강화A\/A\/O<b>공예<\/b>처리매희화폐수적중시연구 (粉末活性焦强化A\/A\/O",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=715003772",
+			"description":""
+		},
+		{
+			"title":"누자제압<b>공예<\/b>제비순여적정립세화급력학성능 (累积挤压工艺制备纯铝的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=612020651",
+			"description":"Grain refinement and mechanical properties of pure aluminum processed by accumulative extrusion bonding 研究一种新的剧烈塑性"
+		},
+		{
+			"title":"형변예처리<b>공예<\/b>대여리합금2A97현미조직화력학성능적영향 (形变热处理工",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=219011602",
+			"description":"Effect of thermo-mechanical treatment process on microstructure and mechanical properties of 2A97 Al-Li alloy 采用不同(0、3％和6"
+		},
+		{
+			"title":"기우고체과립개질적판재연모성형<b>공예<\/b> (基于固体颗粒介质的板材软模成",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=218260308",
+			"description":"Flexible-die forming process with solid granule medium on sheet metal 选用非金属颗粒(NMG)作为研究对象，通过体积压缩"
+		},
+		{
+			"title":"경향압력보조충액납심추형배적<b>공예<\/b>창구도 (径向压力辅助充液拉深锥形",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=215014566",
+			"description":"Process window diagram of conical cups in hydrodynamic deep drawing assisted by radial pressure 起皱和破裂是锥形杯成形过程"
+		},
+		{
+			"title":"교반마찰한<b>공예<\/b>참수대2024-T351여합금탑접한접두성형질량화력학성능적영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=218217245",
+			"description":"Influence of FSW parameters on formation quality and mechanical properties of Al 2024-T351 butt welded joints 研究搅拌摩擦焊时R"
+		},
+		{
+			"title":"국내유리<b>공예<\/b>산업 분석 및 활성화 방안연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601672",
+			"description":"A Study on How to Analyze and Activate Glass Craft Industry 본 연구는 한국<b>공예<\/b>산업의 큰 흐름 속에서 짧은 역사에"
+		},
+		{
+			"title":"다급예처리<b>공예<\/b>대여합금AA7049성능적영향 (多级热处理工艺对铝合金AA7049",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220251251",
+			"description":"Multi-stage heat treatment of aluminum alloy AA7049 T6态高强7xxx系列铝合金对应力腐蚀开裂敏感。采用回归和再时"
+		},
+		{
+			"title":"분주<b>공예<\/b>제비NiAl-Cr(Mo)-(Hf,Dy)아공정합금적조직급실온력학성능 (喷铸工艺",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220247641",
+			"description":"Microstructure and room temperature mechanical properties of NiAl–Cr(Mo)–(Hf, Dy) hypoeutectic alloy prepared by injection casting "
+		},
+		{
+			"title":"중학교 장애학생과의 통합 <b>공예<\/b>프로그램이 비장애학생의 사회적 인식에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11035315",
+			"description":"The Effects of the Inclusive Craft Program on Social Cognition of Students without Disabilities in Junior High School  목차\n중학교"
+		},
+		{
+			"title":"<b>공예<\/b>참수대촉변모단6061 Al합금미관조직여력학성능적영향 (工艺参数对触",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=463573810",
+			"description":"Effects of processing parameters on microstructure and mechanical properties of powder-thixoforged 6061 aluminum alloy 提出一种制"
+		},
+		{
+			"title":"산사、대조、구기、국화천연복합보건음료적<b>공예<\/b>연구 (山楂、大枣、枸",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=669835937",
+			"description":""
+		},
+		{
+			"title":"채용향응면방법대원위반응주조제비Al\/TiB2금속기복합재료<b>공예<\/b>참수진행",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220140112",
+			"description":"Optimization of process parameters for in situ casting of Al\/TiB2 composites through response surface methodology 开发了数学模型"
+		},
+		{
+			"title":"찬삭B4C과립증강여합금<b>공예<\/b>참수대도구마손화공척촌정도영향적분석화우",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=218260213",
+			"description":"Analysis and optimization of drilling parameters for tool wear and hole dimensional accuracy in B4C reinforced Al-alloy 基于刀具磨"
+		},
+		{
+			"title":"HS-SPME-GC-MS-O연용분석부동가공<b>공예<\/b>아마자유특정향기성분 (HS-SPME-GC-MS-O联",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=661979967",
+			"description":""
+		},
+		{
+			"title":"액태모단<b>공예<\/b>참수대AlSi9Cu3강도화소성적영향 (液态模锻工艺参数对AlSi9Cu3",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220247639",
+			"description":"Influence of technical parameters on strength and ductility of AlSi9Cu3 alloys in squeeze casting 采用正交试验研究浇注温度"
+		},
+		{
+			"title":"갑순제희경전형기술최신연구진전(II)——<b>공예<\/b>개발진전 (甲醇制烯烃典型",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=680561159",
+			"description":""
+		},
+		{
+			"title":"신형R4계박연강적예처리<b>공예<\/b>연구 (新型R4系泊链钢的热处理工艺研究)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=96694449",
+			"description":"Heat Treatment of New Type R4 Mooring Chain Steel 研究了热处理工艺对新型R4系泊链钢组织和性能的影响.结果表明,"
+		},
+		{
+			"title":"30CrMo강축투적예처리<b>공예<\/b>급개진 (30CrMo钢轴套的热处理工艺及改进)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=100561083",
+			"description":"Heat Treatment for Spindle Sleeve of 30CrMo Steel 30CrMo钢轴套属厚壁类零件,经调质处理后力学性能往往达不到要求"
+		},
+		{
+			"title":"Al 7075화Mg AZ31합금확산연접：<b>공예<\/b>참수、현미조직분석화력학성능 (Al 7075",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=215394352",
+			"description":"Diffusion bonding of Al 7075 and Mg AZ31 alloys: Process parameters, microstructural analysis and mechanical properties 采用扩散连"
+		},
+		{
+			"title":"기우TOPSIS화개진NSGA-Ⅱ법적교반마찰<b>공예<\/b>제비B4C\/A356복합재료현미조직화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=493169422",
+			"description":"Hybrid multi-objective optimization of microstructural and mechanical properties of B 4 C\/A356 composites fabricated by FSP using TOPSI"
+		},
+		{
+			"title":"응용향응곡면법우화마찰한접Ti-6Al-4V화SS304L<b>공예<\/b>참수 (应用响应曲面法优",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=448952254",
+			"description":"Application of response surface methodology to optimize process parameters in friction welding of Ti–6Al–4V and SS304L rods 提出"
+		},
+		{
+			"title":"교반마찰한<b>공예<\/b>참수대주태A356여합금항납강도적영향 (搅拌摩擦焊工艺参",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=112342675",
+			"description":"Effect of process parameters on tensile strength of friction stir welded cast A356 aluminium alloy joints A356是一种高强度铝硅"
+		},
+		{
+			"title":"문화적 정체성 탐구를 위한 시각문화교육 : 옛 이야기를 주제로 한 종이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77882829",
+			"description":"Inquiry about Cultural Identity in Visual Culture Art Education:A Case Study on Paper Craft Lesson derived from Korean Old Tales 주제"
+		},
+		{
+			"title":"부동가공<b>공예<\/b>여수집시단대‘대마사혁’매괴화수향기성분적영향 (不同",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=727944118",
+			"description":""
+		},
+		{
+			"title":"유리지와 현대<b>공예<\/b>교육 -1970년대 미국 <b>공예<\/b>교육의 영향을 중심으로-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896910629",
+			"description":"Yoo Lizzy and Contemporary Craft Education -focused on the influence of American craft education in the 1970s- 이 연구는 금속공"
+		},
+		{
+			"title":"채용저온냉알+시효<b>공예<\/b>제고Al?Cu?Li합금적강도급소성 (采用低温冷轧+时效",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=604018162",
+			"description":"Improvement of strength and ductility of Al-Cu-Li alloy through cryogenic rolling followed by aging 为获得可提高Al?Cu?Li合金强"
+		},
+		{
+			"title":"자침출사<b>공예<\/b>광물학여환경활성 (锌浸出渣工艺矿物学与环境活性)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220140203",
+			"description":"Technological mineralogy and environmental activity of zinc leaching residue from zinc hydrometallurgical process 采用原子吸收光"
+		},
+		{
+			"title":"김은화·국화·감초복합보건양다음료적<b>공예<\/b>연구 (金银花·菊花·甘草复",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=674814760",
+			"description":""
+		},
+		{
+			"title":"금속<b>공예<\/b>의 회화적 표현연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882041655",
+			"description":"Study of the Pictorial Representation of Metal Crafts 1960년대 이후 나타난 <b>공예<\/b>의 순수미술 지향적인 움직임은 현"
+		},
+		{
+			"title":"복합주조<b>공예<\/b>참수대A356-SiCp복합재료현미조직화납신성능적영향 (复合铸",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=218045718",
+			"description":"Effects of compocasting process parameters on microstructural characteristics and tensile properties of A356–SiCp composites 研究"
+		},
+		{
+			"title":"1950년-1960년대 북한 <b>공예<\/b> 담론과 사회주의 장식-<b>공예<\/b>미술의 이념",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843464369",
+			"description":"North Korean Craft Art Discourse in the 1950's and 1960's and the Ideals of Socialist Ornamental-Craft Art 1950년대 중반에서 1960"
+		},
+		{
+			"title":"반고태주조A356여합금냉각사조<b>공예<\/b>참수적건모여우화 (半固态铸造A356铝",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=219225376",
+			"description":"Modeling and optimization of cooling slope process parameters for semi-solid casting of A356 Al alloy 使用冷却斜槽工艺加工半"
+		},
+		{
+			"title":"금속<b>공예<\/b>의 회화적 표현연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881525596",
+			"description":"Study of the Pictorial Representation of Metal Crafts 1960년대 이후 나타난 <b>공예<\/b>의 순수미술 지향적인 움직임은 현"
+		},
+		{
+			"title":"막생물반응기（MBR）-반삼투（RO）<b>공예<\/b>심도처리인염폐수적실험연구 (膜",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=743632715",
+			"description":""
+		},
+		{
+			"title":"“열수해-고온암양소화”<b>공예<\/b>처리고함고율잉여오이적중시연구 (“热水",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=712538443",
+			"description":""
+		},
+		{
+			"title":"초화폐수생물처리A\/O\/H\/O<b>공예<\/b>중청화물적거제특성 (焦化废水生物处理A\/O\/H\/",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=736849227",
+			"description":""
+		},
+		{
+			"title":"<b>공예<\/b>에서 <b>공예<\/b> 교육으로 : 초등<b>공예<\/b>교육에서의 교육 내용 선택과 교육학",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12408956",
+			"description":"<b>공예<\/b>에서 <b>공예<\/b> 교육으로초등<b>공예<\/b>교육에서의 교육 내용 선택과 교육학적 전환에 대한 분석 This study pur"
+		},
+		{
+			"title":"<b>공예<\/b>참수대TC11태합금표면전화화침자TiN도층현미조직화마손성능적영향 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=499387893",
+			"description":"Effects of process parameters on microstructure and wear resistance of TiN coatings deposited on TC11 titanium alloy by electrospark de"
+		},
+		{
+			"title":"A~2\/O-MBR<b>공예<\/b>처리인염폐수중시연구 (A~2\/O-MBR工艺处理印染废水中试研究)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=729628898",
+			"description":""
+		},
+		{
+			"title":"중력주조Sr변질B356여합금적예처리<b>공예<\/b>우화 (重力铸造Sr变质B356铝合金的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=478623096",
+			"description":"Optimization of heat treatment of gravity cast Sr-modified B356 aluminum alloy &quot;近年来,采用某些铸造工艺使生产薄壁件成"
+		},
+		{
+			"title":"향응면시험우화염지감봉총황동을순췌취<b>공예<\/b>급기항양화、항당、강지활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=705174718",
+			"description":""
+		},
+		{
+			"title":"초등 예비교사의 창의·인성교육 교수역량 강화를 위한 디자인<b>공예<\/b>교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116481238",
+			"description":" 디자인과 <b>공예<\/b>는 인간의 삶을 편리하고 윤택하게 위한 것을 목적으로 하기 때문에 실생활과가장 밀"
+		},
+		{
+			"title":"일종삼자유도병연궤구기하오차건모、영민도분석급장배<b>공예<\/b>설계 (一种",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=91595207",
+			"description":" 以一类含平行四边形支链的三平动自由度并联机构为对象, 利用空间矢量链分析方法, 构造出末端位置"
+		},
+		{
+			"title":"소결<b>공예<\/b>대첨가조공제제비다공태성능적영향 (烧结工艺对添加造孔剂制",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=215014598",
+			"description":"Effect of sintering processing on property of porous Ti using space holder technique 采用粉末冶金法在不同烧结条件下添"
+		},
+		{
+			"title":"고온자만연변정중적제압<b>공예<\/b>대합성Ni3Al-B-Cr합금적조직급력학성능적영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220984861",
+			"description":"Effect of extrusion process on microstructure and mechanical properties of Ni3Al-B-Cr alloy during self-propagation high-temperature sy"
+		},
+		{
+			"title":"초산침출철광폐사인회석중시、난、여희토원소적<b>공예<\/b>참수우화급기동력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=522953581",
+			"description":"Process optimization and kinetics for leaching of cerium, lanthanum and neodymium elements from iron ore waste's apatite by nitric acid"
+		},
+		{
+			"title":"<b>공예<\/b>참수대Al7034-T6복합재료충식마손행위적영향 (工艺参数对Al7034-T6复合",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=506102303",
+			"description":"Taguchi approach to influence of processing parameters onerosive wear behaviour of Al7034-T6 composites 采用Taguchi法预测工艺参"
+		},
+		{
+			"title":"발달장애 청소년의 문화예술교육 경험에 관한 질적 연구 - <b>공예<\/b>교육활동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288791636",
+			"description":"A Qualitative Study on the Culture and Art Education Experiences of Adolescents with Developmental Disabilities - With a focus on craft"
+		},
+		{
+			"title":"기우UASB-결양호양-혼응침전<b>공예<\/b>처리인염폐수적중시연구 (基于UASB-缺氧",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=726798028",
+			"description":""
+		},
+		{
+			"title":"청주<b>공예<\/b>비엔날레 디지털 아카이브 필요성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877224963",
+			"description":"A Study on the Necessity of Digital Archives for the Cheongju Craft Biennale 최근 들어 디지털 아카이브의 중요성이 대"
+		},
+		{
+			"title":"열가공<b>공예<\/b> (熱加工工藝)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3100173",
+			"description":""
+		},
+		{
+			"title":"성점설계-효응면법우화어성초휘발유-β-환호정포합물적제비<b>공예<\/b> (星点",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=721353578",
+			"description":""
+		},
+		{
+			"title":"천담농촌오수처리<b>공예<\/b>선택급운영현상 (浅谈农村污水处理工艺选择及运",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897831097",
+			"description":""
+		},
+		{
+			"title":"1950년-1960년대 북한 <b>공예<\/b> 담론과 사회주의 장식-<b>공예<\/b>미술의 이념",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880242476",
+			"description":"North Korean Craft Art Discourse in the 1950&quot;s and 1960&quot;s and the Ideals of Socialist Ornamental-Craft Art 1950년대 중반에서 1960"
+		},
+		{
+			"title":"AB-8대공흡부수지동시분이순화모동청총황동、총조감<b>공예<\/b> (AB-8大孔吸附",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=736800423",
+			"description":""
+		},
+		{
+			"title":"<b>공예<\/b>활동 체험요소가 중년여성의 자아존중감과 사회적 지지에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=645510310",
+			"description":"A Study on effect of Craft Activities Experience Factor to Self-esteem and Social-support for middle-aged wome 중년여성들은 여"
+		},
+		{
+			"title":"혼응-생물접촉양화-취양양화<b>공예<\/b>대인염폐수처리특성평개 (混凝-生物接",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=706100807",
+			"description":""
+		},
+		{
+			"title":"비대면 온라인 <b>공예<\/b> 교육 프로그램의 필요성과 사례 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889991277",
+			"description":"A study on the necessity and cases of non-face-to-face online craft education programs  목차\n비대면 온라인 <b>공예<\/b> 교육 프로"
+		},
+		{
+			"title":"Box-Behnken Design-향응면우화법우화작약총감지질체적제비<b>공예<\/b>급체외석방",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=710397675",
+			"description":""
+		},
+		{
+			"title":"취철혼응-Fenton법-SBR<b>공예<\/b>대성숙날급장삼여액심도처리적연구 (聚铁混凝-F",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=659014837",
+			"description":""
+		},
+		{
+			"title":"쾌속응고-분말야금<b>공예<\/b>제비고강조니여합금적조이성능 (快速凝固-粉末",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=221986318",
+			"description":"Damping capacity of high strength-damping aluminum alloys prepared by rapid solidification and powder metallurgy process 采用快速"
+		},
+		{
+			"title":"진공미파-진공유작-진공미파삼계단연합탈수<b>공예<\/b>생산저함유율마령서취",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=676235989",
+			"description":""
+		},
+		{
+			"title":"예성형<b>공예<\/b>참수대AA6082여합금성능적영향 (热成形工艺参数对AA6082铝合金",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=451195344",
+			"description":"Influence of process parameters on properties of AA6082 in hot forming process 基于铝合金热冲压工艺,通过热物理模拟实"
+		},
+		{
+			"title":"도치A~2\/O-MBR조합<b>공예<\/b>처리생활오수효능급막오염특성 (倒置A~2\/O-MBR组合工",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=721324444",
+			"description":""
+		},
+		{
+			"title":"염양\/생물여지\/잠류인공습지조합<b>공예<\/b>처리농촌생활오수효과평고 (厌氧\/",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=695754366",
+			"description":""
+		},
+		{
+			"title":"김리나, 『한국의 불교조각』 (사회평론아카데미, 2020); 『미술의 교류: ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=892958223",
+			"description":""
+		},
+		{
+			"title":"Ni-Co-Mn합금적전도<b>공예<\/b>우화급여금강석복합도적마찰마손성능 (Ni-Co-Mn合金",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=718247025",
+			"description":""
+		},
+		{
+			"title":"함제난처리금광<b>공예<\/b>광물학특정급취양양화예처리침제 (含锑难处理金矿",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=518272776",
+			"description":"Mineralogical characterization and pretreatment for antimony extraction by ozone of antimony-bearing refractory gold concentrates 针"
+		},
+		{
+			"title":"Box-Behnken설계-효응면법우화목서초소-β-환호정포합물적제비<b>공예<\/b>연구 (Box",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=682956566",
+			"description":""
+		},
+		{
+			"title":"코로나19 상황 한국어문화교육에서의 비대면 문화체험교육에 관한 전통",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877224081",
+			"description":"Traditional Korean Craftsmen’s Perceptions of and Responses to the Shift to Online Cultural Experiential Education in the Pandemic Er"
+		},
+		{
+			"title":"융복합에 따른 <b>공예<\/b>디자인의 교육시스템 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873620533",
+			"description":"A Study on the Improvement of the Education System of Craft Design according to Convergence 현재의 공식적이고 암기식인 공"
+		},
+		{
+			"title":"pH대간헐진수서비식생물반응（SBR）<b>공예<\/b>활성오니침강성능화미생물결구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=717993823",
+			"description":""
+		},
+		{
+			"title":"백제 시대의 은제관식을 활용한 금속<b>공예<\/b>문화상품 디자인 연구 -장신구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=894608059",
+			"description":"A study on the Design of Metal Cultural Product using Silver Crown Ornaments of Baekje Period -Focused on Jewelry- The silver crown is "
+		},
+		{
+			"title":"Al2024-T3합금예변형가공<b>공예<\/b>적류변응력예측 (Al2024-T3合金热变形加工工艺",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=447735331",
+			"description":"Flow stress prediction for hot deformation processing of 2024Al-T3 alloy 为了预测Al2024-T3合金热变形加工工艺的流变应"
+		},
+		{
+			"title":"<b>공예<\/b>문화산업의 발전방안 연구 - 중부권 <b>공예<\/b>문화산업 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187671210",
+			"description":"Study on Development of Crafts Cultural Industry - Central Region of South Korea Craft Industrial as center - 문화산업은 국가의"
+		},
+		{
+			"title":"HS-SPME-GC-MS연용법분석부동통양발효가공<b>공예<\/b>홍다향기성분 (HS-SPME-GC-MS联",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722729406",
+			"description":""
+		},
+		{
+			"title":"폐구령부건불각정성재제조<b>공예<\/b>시간적모호학습계통 (废旧零部件不确定",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=218754455",
+			"description":"Fuzzy Learning System for Uncertain Remanufacturing Process Time of Used Components 针对废旧零部件质量状况差异性导致的"
+		},
+		{
+			"title":"도치A^2\/O여상규A^2\/O<b>공예<\/b>제인효과대비 (倒置A^2\/O与常规A^2\/O工艺除磷效果",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=697857406",
+			"description":""
+		},
+		{
+			"title":"균균설계우선황연자초고중황연、황백、당귀수제<b>공예<\/b> (均匀设计优选黄",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=733760999",
+			"description":""
+		},
+		{
+			"title":"조층편원시조직적TC11태합금예변형행위급기예압축<b>공예<\/b>참수우화 (粗层片",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220180495",
+			"description":"High temperature deformation behavior and optimization of hot compression process parameters in TC11 titanium alloy with coarse lamella"
+		}
+	]
+}

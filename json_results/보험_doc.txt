@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:03 +0900",
+	"total":181086,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>보험<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2550",
+			"description":""
+		},
+		{
+			"title":"<b>보험<\/b>금융연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2611071",
+			"description":""
+		},
+		{
+			"title":"무역<b>보험<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2172878",
+			"description":""
+		},
+		{
+			"title":"손해<b>보험<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=59868",
+			"description":""
+		},
+		{
+			"title":"<b>보험<\/b>법연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1049421",
+			"description":""
+		},
+		{
+			"title":"공급자 관점에서의 노인장기요양<b>보험<\/b>제도의 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39156307",
+			"description":"The Improvement of Long-Term Care Insurance from the perspective of service providers 본 글에서는 서비스 공급자라 할 수 "
+		},
+		{
+			"title":"“사회양로”능부체대“가정양로”？——내자중국신형농촌사회양로보",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=702848147",
+			"description":""
+		},
+		{
+			"title":"민영건강<b>보험<\/b>과 도덕적 해이에 관한 실증연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12964894",
+			"description":"An Empirical Study on the Relationship between Private Health Insurance and Moral Hazard 본 논문은 지금까지 개념적 논의에"
+		},
+		{
+			"title":"수출<b>보험<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3234",
+			"description":""
+		},
+		{
+			"title":"자율주행 자동차의 운행 중 사고와 <b>보험<\/b>적용의 법적 쟁점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595093107",
+			"description":"Legal Issues as to Accidents and Coverage of Autonomous Driving Vehicle 자율주행 자동차의 정의 개념 및 임시운행을 허"
+		},
+		{
+			"title":"해상·<b>보험<\/b>법연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6723",
+			"description":""
+		},
+		{
+			"title":"민간의료<b>보험<\/b>의 가입요인과 의료이용행태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56561571",
+			"description":"The Determinants and Medical Care Utilization Behavior of Private Health Insurance 본 연구는 현재 급속히 증가하는 민간"
+		},
+		{
+			"title":"금융지지대상업<b>보험<\/b>참여적영향——내자중국가정금융조사(CHFS)수거적실",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=724402053",
+			"description":""
+		},
+		{
+			"title":"이용자 관점에서의 노인장기요양<b>보험<\/b>제도의 평가 및 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39154665",
+			"description":"Evaluation of the Elderly Long-term Care insurance : User’s perspective 제도도입 3년차에 접어드는 노인장기요양<b>보험<\/b>"
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b>의 재가보호 현황과 저해 요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561723026",
+			"description":"Current Status of and Barriers to Home and Community Care in the Long-term Care System 노인장기요양<b>보험<\/b>은 급여 제공의 기"
+		},
+		{
+			"title":"정부 정책의 방향 설정을 위한 노인장기요양<b>보험<\/b>제도의 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39153022",
+			"description":"An Improvement Plan for the Government Policy on Long-Term Care Insurance 노인장기요양<b>보험<\/b>제도는 고령화정책의 일환"
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b>제도에 따른 요양보호사 교육 및 관리에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17462080",
+			"description":"The Study of Care-Giver`s Education and Management of Long-Term Care Insurance 본 연구는 노인장기요양서비스의 주요 인"
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b>제도 현황 및 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32733680",
+			"description":"Current Situation and Policy Implication for the elderly Long-term care Insurance 노인장기요양<b>보험<\/b>제도의 도입은 요양에"
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b>제도의 시설 및 인력 인프라 개선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39167825",
+			"description":"How to Improve the Infrastructure and Workforce of the Long-term Care Insurance Industry 노인장기요양<b>보험<\/b>제도가 시행된 "
+		},
+		{
+			"title":"사회양로<b>보험<\/b>여아국거민가정풍험금융자산투자——내자중국가정금융조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=702645659",
+			"description":""
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b>의 가족요양 급여체계 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41672589",
+			"description":"Development of reward system for family carer in Elderly long-term care insurance 노인장기요양<b>보험<\/b>제도는 가족내에서 보"
+		},
+		{
+			"title":"<b>보험<\/b>사기에 대한 현행 대처방안의 문제점과 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12957875",
+			"description":"A Study of the Present Preventive Measure`s Problem and Comprehensive Preventive Measures for Insurance Fraud  목차\n<b>보험<\/b>사기에 "
+		},
+		{
+			"title":"플랫폼 노동자에 대한 산재<b>보험<\/b> 적용 근거 마련 : 산업재해보상<b>보험<\/b>법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896682574",
+			"description":"  목차\n플랫폼 노동자에 대한 산재<b>보험<\/b> 적용 근거 마련 : 산업재해보상<b>보험<\/b>법 \/ 김성훈 1\n I. 입법 배경 "
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b> 도입이 요양병원 입원환자의 장기요양시설 이용에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651442584",
+			"description":"The effects of long-term care insurance on the utilization of long-term care facility by inpatients in long-term care hospitals 2008년"
+		},
+		{
+			"title":"민영의료<b>보험<\/b>의 가입과 해약의 특성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56411134",
+			"description":"A Study on the Determinants of Purchasing and Surrendering Private Health Insurance 본 연구는 『2008 한국의료패널』자료"
+		},
+		{
+			"title":"치매노인의 현황과 노인장기요양<b>보험<\/b>법상의 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57060343",
+			"description":"Current State of Senile Dementia and Improvement of the Long Term Care Insurance for Elderly People 인구가 고령화되면서 치매"
+		},
+		{
+			"title":"가정인구결구여가정상업인신<b>보험<\/b>수구——기우중국가정금융조사(CHFS)수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=708680318",
+			"description":""
+		},
+		{
+			"title":"<b>보험<\/b>설계사, 대리운전 기사도 고용<b>보험<\/b>으로 보호 : '고용<b>보험<\/b>법'(2021.7.1. ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889811464",
+			"description":"  목차\n<b>보험<\/b>설계사, 대리운전 기사도 고용<b>보험<\/b>으로 보호 : '고용<b>보험<\/b>법'(2021.7.1. 시행, 2021.1.5.일부개정)"
+		},
+		{
+			"title":"<b>보험<\/b>동향",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2611206",
+			"description":""
+		},
+		{
+			"title":"생명<b>보험<\/b>약관상의 자살 면·부책조항의 문제점에 관한 검토",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11455622",
+			"description":"A Study on the Problems of Suicide Indemnity and Liability Clauses in the Life Insurance Policy 우리나라 상법 제659조는 <b>보험<\/b>"
+		},
+		{
+			"title":"이행노동시장의 관점에서 본 고용<b>보험<\/b>제도 발전방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78358626",
+			"description":"Proposed Development Programs for Employment Insurance System from the Transitional Labor Market Perspective 본 논문은 외환위기"
+		},
+		{
+			"title":"건강<b>보험<\/b> 본인부담률의 인상이 건강<b>보험<\/b>재정에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11232910",
+			"description":"The Effects of an increase of Outpatient Co-insurance Rate on the Financial Status of the National Health Insurance 본 연구는 건"
+		},
+		{
+			"title":"의료시장 개방과 민간건강<b>보험<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11342932",
+			"description":"Healthcare Market Opening and Private Health Insurance  1. 의료시장과 건강<b>보험<\/b>=29,31,2\n2. 민간건강<b>보험<\/b>의 활성화 배"
+		},
+		{
+			"title":"장기요양<b>보험<\/b>의 사각지대 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56556453",
+			"description":"Policy Issues for Improvement of Beneficiary System in Long-Term Care Insurance for the Elderly 노인장기요양<b>보험<\/b>제도가 도"
+		},
+		{
+			"title":"「<b>보험<\/b>사기방지 특별법」에 대한 평가와 개선방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289171006",
+			"description":"A Study on the Criminal Provisions in “Special Act on Insurance Fraud” 이 글은 2016.9.30.부터 시행된 「<b>보험<\/b>사기방지 "
+		},
+		{
+			"title":"<b>보험<\/b>에 대한 소비자태도 및 지식과 <b>보험<\/b>구매단계별 소비자만족도 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=747006295",
+			"description":""
+		},
+		{
+			"title":"중․고령자들의 노인장기요양<b>보험<\/b>에 대한 인지여부와 노후준비간의 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57606486",
+			"description":"The Relationship between the Recognition on Long-term Care Insurance and the Old Life Preparation for People under 65 본 연구는 노"
+		},
+		{
+			"title":"민영의료<b>보험<\/b>이 입원이용에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47046098",
+			"description":"The Effect of Private Health Insurance on Hospitalization 본 연구는 한국복지패널 4차년도 조사자료(2010)를 이용하"
+		},
+		{
+			"title":"사회<b>보험<\/b>의 법적 사각지대 : 임금근로자 적용제외 규정과 규모의 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=117819224",
+			"description":"Analysis of Changes in Social Insurance Legislation and Coverage:With the Perspective of Legal Exclusion 본 연구는 사회<b>보험<\/b>의 "
+		},
+		{
+			"title":"직업재활시설 근로장애인에 대한 노동･사회<b>보험<\/b>법적 보호와 개선방안 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651441886",
+			"description":"Legal Protection of Disabled Persons in Job Rehabilitation Facilities — Focused on people with severe intellectual disabilities — "
+		},
+		{
+			"title":"성향의료<b>보험<\/b>제도정합발전：현상、문제여전망 (城乡医疗保险制度整合",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=719435083",
+			"description":""
+		},
+		{
+			"title":"중소기업을 위한 수출<b>보험<\/b> 실태분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13596756",
+			"description":"  목차\n중소기업을 위한 수출<b>보험<\/b> 실태분석 \/ 조원길 ; 김석태 1\n Abstract 1\n I. 서론 2\n II. 수출<b>보험<\/b>의 운"
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b>제도의 서비스 질 향상 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13993139",
+			"description":"Strategic Proposal for the Improvement of Service Quality of Long-term Care Insurance in Korea 노인장기요양<b>보험<\/b>제도 도입 "
+		},
+		{
+			"title":"건강<b>보험<\/b> 보장성 확대가 의료이용 및 건강수준에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78372703",
+			"description":"Impacts of Health Insurance Coverage Expansion on Health Care Utilization and Health Status 본 연구는 최근에 이루어진‘건"
+		},
+		{
+			"title":"건강<b>보험<\/b>제도의 현황과 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562353904",
+			"description":"Current State and Challenges of National Health Insurance 국민건강<b>보험<\/b>제도는 세계에서 가장 빠른 속도의 저출산 ·"
+		},
+		{
+			"title":"고용<b>보험<\/b>의 사각지대 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56556451",
+			"description":"Policy Initiatives to Strengthen Social Safety-net for Unemployment 실업에 대한 사회안전망은 외부자에 대한 안전성"
+		},
+		{
+			"title":"2007년 독일 <b>보험<\/b>계약법개정안에 관한 소고 - 통칙부분을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420441083",
+			"description":"Eine Studie ueber den allgemeinen Teil des Regierungsentwurfs der deutschen VVG-Reform <b>보험<\/b>계약법 개정, 보고자 초안, 정부"
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b>의 개선방안에 관한 연구-계층분석방법(AHP)을 활용하",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39156016",
+			"description":"A Study on the Improvement of Long-Term Care Insurance : an AHP Approach 본 연구의 목적은 노인장기요양<b>보험<\/b>의 개선요"
+		},
+		{
+			"title":"미국 해상<b>보험<\/b>법상 연방법과 주법의 적용에 대한 구조적 문제점에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897735580",
+			"description":"A Study on Structural Problems in the Application of Federal and State Laws in the US Marine Insurance Law 본 연구에서는 미국 "
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b> 재가서비스 이용자의 시설서비스 이용 결정요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56413227",
+			"description":"A Study of Determinants on Institutionalization of Elderly using Home Care Services 다른 사람의 도움을 받아야 하는 노인"
+		},
+		{
+			"title":"재해<b>보험<\/b>약관상 자살면책조항에 관한 최근 판례의 검토 : 면책기간 경과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12455762",
+			"description":"Recent Cases on Suicide Clauses in Accidental Protection - focus on the Legal nature of the insured death by suicide after a Limited pe"
+		},
+		{
+			"title":"지난 20년간 독일 공적 건강<b>보험<\/b> 개혁과 시사점: 경쟁적 다<b>보험<\/b>자체계에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41599316",
+			"description":"Reforms of the German Public Health Insurance during the Last Twenty Years and Their Lessons for the Korean National Health Insurance "
+		},
+		{
+			"title":"건강<b>보험<\/b>과 의료급여 대상자의 노인의료비 증가 원인에 대한 비교연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41669843",
+			"description":"A Comparative Study on the Cause of Medical Expenditure for the Elderly in National Health Insurance and Medical Assistance 본 연구"
+		},
+		{
+			"title":"생명<b>보험<\/b>약관상 자살면책기간경과후의 자살 : 최근 일본 판례의 동향을 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11455638",
+			"description":"Suicide Clause in Life Insurance Policies -Recent Tendency of the Japanese Case- 대다수의 전형적인 생명<b>보험<\/b>약관은 자살"
+		},
+		{
+			"title":"2022년 제14차 건강<b>보험<\/b>정책심의위원회 개최 (6.28)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817758",
+			"description":""
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b>제도의 성과와 향후 추진계획",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39166172",
+			"description":"A Workplan for the Management of Long-term Care Insurance 노인장기요양<b>보험<\/b>제도의 도입으로 대상자의 기능개선과 "
+		},
+		{
+			"title":"고용<b>보험<\/b>동향",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3226251",
+			"description":""
+		},
+		{
+			"title":"「국민건강<b>보험<\/b>법 시행령 및 시행규칙」 입법 예고(6.30일~7.27일)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817747",
+			"description":""
+		},
+		{
+			"title":"외국체계의 운영경험으로 본 노인장기요양<b>보험<\/b>제도의 개선방안 : 미국",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39157941",
+			"description":"A Study on Long-term Care Financing and Providers in the United States and Its Policy Implications 저출산 현상과 맞물린 우리"
+		},
+		{
+			"title":"단기수출<b>보험<\/b>이 우리나라 수출에 미치는 영향에 관한 실증분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11383846",
+			"description":"  목차\n단기수출<b>보험<\/b>이 우리나라 수출에 미치는 영향에 관한 실증분석 \/ 이은재 1\n I. 서론 1\n II. 우리나"
+		},
+		{
+			"title":"건강<b>보험<\/b> 가입 재가 장애인의 미충족 의료 경험에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58339464",
+			"description":"Determinants of Unmet Healthcare Needs among the Community-dwelling Korean Adults with Disabilities: A Case of the National Health Insu"
+		},
+		{
+			"title":"사회호동대가정상업<b>보험<\/b>참여적영향——내자중국가정금융조사(CHFS)수거",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=654071753",
+			"description":""
+		},
+		{
+			"title":"의료<b>보험<\/b>、건강리질성여정준탈빈——기우빈곤취약성적분석 (医疗保险",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=691210571",
+			"description":""
+		},
+		{
+			"title":"베트남 사회보장법 개혁과 현재의 제문제(諸問題) 연구 — 사회<b>보험<\/b>법･",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890777525",
+			"description":"A Study on Improvements of Vietnam's Social Insurance Law 베트남의 사회보장제도(사회<b>보험<\/b>, 의료<b>보험<\/b>, 실업<b>보험<\/b> 등)"
+		},
+		{
+			"title":"생명<b>보험<\/b> 서비스품질의 개념화에 관한 실증연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17537619",
+			"description":"An Empirical Study on the Conceptualization of the Life Insurance Service Quality 본 논문은 생명<b>보험<\/b> 고객만족에 영향을 "
+		},
+		{
+			"title":"의료<b>보험<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1061507",
+			"description":""
+		},
+		{
+			"title":"유언에 의한 생명<b>보험<\/b>계약의 변경에 관한 연구 - <b>보험<\/b>수익자와 <b>보험<\/b>계약",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889238489",
+			"description":"A Study on the Change of Contract of Life Insurance by Will 우리나라가 고령사회에 진입하면서 많은 사람들이 자산"
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b>법 시행령 개정안 국무회의 의결 (6.14.)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817853",
+			"description":""
+		},
+		{
+			"title":"고용<b>보험<\/b>의 사각지대와 정책과제에 관한 연구: 실업급여를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=180003793",
+			"description":"The Exclusion from the Employment Insurance System and Policy Issues: Focused on Unemployment Benefit 본 연구는 한국의 고용보"
+		},
+		{
+			"title":"혁신의료기술에 대한 최초의 건강<b>보험<\/b> 적용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817901",
+			"description":""
+		},
+		{
+			"title":"<b>보험<\/b>동향",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2547",
+			"description":""
+		},
+		{
+			"title":"협회적하약관(ICC) 담보위험의 면책위험과 수출<b>보험<\/b> 적용에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13604435",
+			"description":"  목차\n협회적하약관(ICC) 담보위험의 면책위험과 수출<b>보험<\/b> 적용에 관한 연구 \/ 박문서 ; 이제홍 1\n Abstra"
+		},
+		{
+			"title":"건강<b>보험<\/b> 재정 건전화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56517389",
+			"description":"Policy Measures to Stabilize Health Insurance Finance 건강<b>보험<\/b> 급여비는 2001년 약 13조원이었으나 2010년에는 약 34"
+		},
+		{
+			"title":"보증<b>보험<\/b>계약상 <b>보험<\/b>사고의 판단에 관한 연구 - 대법원 2021.2.25. 선고 2020",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887980506",
+			"description":"A Study on the Meaning of Insurance Accident in Guarantee Insurance Contract 보증<b>보험<\/b>에서 말하는 <b>보험<\/b>사고인 채무불이"
+		},
+		{
+			"title":"연구논문 : 환헤지가 기업가치를 높이는가?: 환변동<b>보험<\/b>의 기업가치 효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41672017",
+			"description":"Testing the Valuation Effect of Foreign Exchange Risk Insurance in Korea 본 논문에서는 환헤지가 기업가치에 미치는 직"
+		},
+		{
+			"title":"민영의료<b>보험<\/b> 가입유형별 의료이용 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656972",
+			"description":"The Effect of Private Health Insurance on Healthcare Utilization: Evidence from the Korea Health Panel 본 연구는 한국의료패널"
+		},
+		{
+			"title":"초고령사회와 조세법률주의의 역할 : 일본의 건강<b>보험<\/b>에 대한 조세법률",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889811196",
+			"description":"  목차\n초고령사회와 조세법률주의의 역할 : 일본의 건강<b>보험<\/b>에 대한 조세법률주의 적용 논의를 중심"
+		},
+		{
+			"title":"풍수해<b>보험<\/b>요율체계의 문제점 및 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74856989",
+			"description":"The Point at Issue and Improvement of Natural Disaster Insurance Rate System 일반적으로 <b>보험<\/b>요율은 목적물의 위험도에 "
+		},
+		{
+			"title":"건강<b>보험<\/b> 가입자와 의료급여 수급권자의 의료이용과 건강관련 삶의 질",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153600404",
+			"description":"Health-care Utilization and Health-related Quality of Life between the Insured in National Health Insurance and the Recipients in Medic"
+		},
+		{
+			"title":"Zone(침수심)별 <b>보험<\/b>가입목적물의 손해액과 <b>보험<\/b>가액을 이용한 <b>보험<\/b>요율 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186127789",
+			"description":"A Study on the Rate Making Method based on Loss Cost and Insurable Value of each Zone(Inundation Depth): Focusing on Cat Modelling Meth"
+		},
+		{
+			"title":"의료보장성과 민간의료<b>보험<\/b> 구입의 구축효과에 대한 연구 : 노인층을 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561834494",
+			"description":"  목차\n의료보장성과 민간의료<b>보험<\/b> 구입의 구축효과에 대한 연구 : 노인층을 대상으로 \/ 박경돈 1\n 초"
+		},
+		{
+			"title":"이사의 배상책임<b>보험<\/b> : 임원배상책임<b>보험<\/b> 약관의 면책사유를 중심으로 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11066289",
+			"description":"  I. 서론=123,123,3\nII. 임원책임<b>보험<\/b>의 총론적 고찰=125,125,1\n 1. 임원책임<b>보험<\/b>의 개요=125,125,3\n 2. <b>보험<\/b>의 필"
+		},
+		{
+			"title":"IFRS4 기준하의 <b>보험<\/b>부채평가에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78416959",
+			"description":"A Study on the Valuation of Insurance Liability based on the IFRS4 국제회계기준 2단계가 도입될 경우 가장 크게 영향"
+		},
+		{
+			"title":"한국에서 생명<b>보험<\/b>의 신자유주의적 전환",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78349614",
+			"description":" 본 논문에서는 민영생명<b>보험<\/b> 영역에서 나타나는 한국에서의 신자유주의적 전환의 특징을 살펴보고"
+		},
+		{
+			"title":"사회적 공정성에 대한 연구－소득, 세율, 건강<b>보험<\/b>, 자녀교육을 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=46990183",
+			"description":"A Study of Social Justice on the Income, Tax Ratio, Health Insurance and Child Education 본 연구는 한국종합사회조사(KGSS)"
+		},
+		{
+			"title":"농호적풍험의지、<b>보험<\/b>인지여정책성농업<b>보험<\/b>——기우하북시점적실증분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=746378192",
+			"description":""
+		},
+		{
+			"title":"손해<b>보험<\/b>에서의 다수계약통지의무",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12964897",
+			"description":"Eine Arbeit uber die Obliegenheit, eine mehrfache Versicherung mitzuteilen, bei der Schadensversicherung  목차\n손해<b>보험<\/b>에서의 "
+		},
+		{
+			"title":"특허권개치、은성<b>보험<\/b>여풍험승담——중국은행업적경험분석 (特许权价",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=672879747",
+			"description":""
+		},
+		{
+			"title":"<b>보험<\/b>약관의 교부·설명의무;입법취지와 성격을 중심으로 (保險約款의 交",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10525429",
+			"description":"Aushandigungs-und Aufklarungspflicht der AVB  I. 머리말=103,106,2\nII. 상법 제638조의 3의 입법취지=104,107,1\n 1. <b>보험<\/b>계"
+		},
+		{
+			"title":"건강<b>보험<\/b>심사평가원을 활용한 실손의료<b>보험<\/b>의 <b>보험<\/b>금 관리방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=185832280",
+			"description":"Screening the Claims for Sustainable Fee-For-Service Health Insurance through Health Insurance Review &amp; Assessment Service 국민건강"
+		},
+		{
+			"title":"공인회계사 전문직업인 배상책임<b>보험<\/b>에서 <b>보험<\/b>사고(claim)의 개수에 관한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887994629",
+			"description":"A Study on the Number of Claims in Professional Reparations Liability Insurance of Certified Public Accountant 공인회계사 전문"
+		},
+		{
+			"title":"양로<b>보험<\/b>“쌍궤제”적기원여개혁 (养老保险“双轨制”的起源与改革)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=711003006",
+			"description":""
+		},
+		{
+			"title":"<b>보험<\/b>사기의 구조에 관한 이론적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11174253",
+			"description":"An Analytical Study on the Structure of Insurance Fraud 본 논문은 <b>보험<\/b>사기의 구조를 이론적으로 분석하는 데 초점"
+		},
+		{
+			"title":"인슈어테크 기업에 대한 <b>보험<\/b>계약 적합성 적용 가능성에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898513334",
+			"description":"A Study on the Applicability of the Principle of Suitability for Insurance Contracts in InsurTech Enterprises 본 연구는 ‘금융"
+		},
+		{
+			"title":"손해<b>보험<\/b>회사의 지급준비금 오차율과 내부자본시장에 관한 실증 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891365740",
+			"description":" 본 논문은 ****~****년 기간 동안 미국 손해<b>보험<\/b>회사의 재무데이터(NAIC)를 이용하여, 여러 개의 계열사"
+		},
+		{
+			"title":"<b>보험<\/b>회사의 기업윤리 현황과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11232914",
+			"description":"Ethical Issues and Challenges in the Korean Insurance Industry 최근 국내외적으로 윤리경영의 중요성이 점증해가는 "
+		},
+		{
+			"title":"산재<b>보험<\/b> 사각지대 해소 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56556452",
+			"description":"Eliminating Gaps in the Industrial Accident Insurance 한국은 빠른 저출산 고령화로 인해 2020년부터 인구성장률이 "
+		},
+		{
+			"title":"유언에 의한 생명<b>보험<\/b>계약의 변경에 관한 연구 - <b>보험<\/b>수익자와 <b>보험<\/b>계약",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890141916",
+			"description":"A Study on the Change of Contract of Life Insurance by Will 우리나라가 고령사회에 진입하면서 많은 사람들이 자산"
+		},
+		{
+			"title":"노인장기요양<b>보험<\/b>은 가족의 돌봄부담을 완화하는가? : 현금급여와 가족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77901025",
+			"description":"Does the Long Term Care Insurance for the Elderly Ease Family Care Burden? 이 글은 노인을 돌보는 가족과 관련된 노인장"
+		},
+		{
+			"title":"예금<b>보험<\/b> 최소비용의 원칙과 <b>보험<\/b>계약자 보호",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877140366",
+			"description":"Least-Cost Resolution Requirement of Deposit Protection System and Policyholder Protection 우리나라의 부실 <b>보험<\/b>회사 정리"
+		}
+	]
+}

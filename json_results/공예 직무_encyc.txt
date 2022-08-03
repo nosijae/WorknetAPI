@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:30 +0900",
+	"total":164,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"도자<b>공예<\/b>디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025663&cid=42117&categoryId=42117",
+			"description":" 컵, 주전자, 접시, 화분, 항아리, 도기인형 등 도자기를 소재로 하는 다양한 도자<b>공예<\/b> 제품을 디자인한다. [수행<b>직무<\/b>] 개발할 도자<b>공예<\/b>품(도자기를 소재로 하는 다양한 <b>공예<\/b>제품)의 디자인 콘셉트를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029440&cid=42117&categoryId=42117",
+			"description":" 목재, 석재, 점토, 금속 등의 재료와 공구를 사용하여 <b>공예<\/b>품(실용적이면서 예술적 가치가 있게 만든 물품)을 제작한다. [수행<b>직무<\/b>] 작품의 주제, 메시지 등을 구상한다. 작품의 종류에 따라 재료를 선별하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"칠<b>공예<\/b>가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551171&cid=42117&categoryId=42117",
+			"description":" 옻칠을 통해 다양한 <b>공예<\/b>품을 채색한다. [수행<b>직무<\/b>] 목재나 진흙 등의 기물 위에 옹이나 흠이 난 곳을 고운 톱밥과 생칠 등으로 표면을 고르고 생칠을 묽게 바른다. 다시 생칠과 찹쌀풀을 섞어 베나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"섬유<b>공예<\/b>가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029464&cid=42117&categoryId=42117",
+			"description":" 섬유 재료를 가공하고 가공된 소재로 섬유<b>공예<\/b>품을 만든다. [수행<b>직무<\/b>] 디자인을 개발하고 섬유의 종류에 따라 재료를 선택한다. 원부자재의 특성을 파악하여 재료를 선택하고 조합한다. 소재별 가공제를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>공예<\/b>가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029446&cid=42117&categoryId=42117",
+			"description":" 비철금속 및 금속을 사용하여 일용품이나 장식품을 만든다. [수행<b>직무<\/b>] 프레스나 스웨이징을 사용하여 제품을 제작한다. 달군 금속판을 형 위에 씌우고 회전시켜 금속제 촉으로 눌러 성형하는 스피닝 기법을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도자<b>공예<\/b>기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053852&cid=42114&categoryId=42114",
+			"description":" 도자<b>공예<\/b>기능사란 산업인력공단에서 시행하는 도자<b>공예<\/b>기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 작업형 실기시험을 통과해야 하며, 필기 · 실기시험 모두... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185045374_ICBD4M2FB.jpg\/da6_266_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b>도자기성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029441&cid=42117&categoryId=42117",
+			"description":" 반죽된 점토 소지를 손으로 다듬고 자른 후, 목적하는 형태로 쌓아 올려 도자기제품을 성형한다. [수행<b>직무<\/b>] 성형을 위한 작업준비를 한다. 작업대를 정리하고 물과 나무조각칼 등의 작업도구를 준비한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"외국민속<b>공예<\/b>가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029468&cid=42117&categoryId=42117",
+			"description":" 가구나 생활용품을 다른 나라의 전통 문양이나 색으로 장식하여 민속<b>공예<\/b>품을 제작한다. [수행<b>직무<\/b>] MDF(중간 정도의 밀도와 두께를 가진 합판)나 그밖에 나무로 된 제품에 석고가루를 개어 놓은 젯소(페인트나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서비스·경험디자인 기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6197204&cid=42114&categoryId=42114",
+			"description":"② 서비스·경험 만족을 위해 사용자 중심의 디자인 사고를 기반으로 통합적인 프로세스를 활용하여 서비스·경험 디자인 콘셉트와 모델을 개발하고 운영하는 <b>직무<\/b>를 수행한다. [ 3. 시험정보] (1) 응시자격... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도자기조각원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029454&cid=42117&categoryId=42117",
+			"description":" 성형된 도자기를 장식하기 위해 손이나 기계장식이 불가능한 부분을 조각도로 음각, 양각, 상감조각을 한다. [수행<b>직무<\/b>] 성형이 완료된 도자기<b>공예<\/b>품의 1차장식공정을 위하여 작업주문서 및 작업지시서에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"물레성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029459&cid=42117&categoryId=42117",
+			"description":" <b>공예<\/b>도자기나 소량의 도자기를 성형하기 위해 발이나 전동으로 물레를 돌려 기물을 성형한다. [수행<b>직무<\/b>] 작업주문서에 따라 성형할 도자기 및 <b>공예<\/b>품의 모양과 크기, 규격을 확인한다. 물레(발물레, 손물레... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미술관관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024419&cid=42117&categoryId=42117",
+			"description":" 한국화, 서양화, 판화, 조각, <b>공예<\/b>, 설치미술 등의 미술작품을 전시하는 미술관의 운영을 총괄하고, 관련 종사원들의 활동을 지휘·감독한다. [수행<b>직무<\/b>] 미술관에 보관된 한국화, 서양화, 판화, 조각, <b>공예<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예능학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025373&cid=42117&categoryId=42117",
+			"description":" 예능계열학원에서 수강생들에게 특정교과에 대한 이론과 기술을 강의하고 자격·면허를 취득하기 위한 전문과목을 지도한다. [수행<b>직무<\/b>] 수강생들에게 음악, 미술, 서예, 무용, 꽃꽂이 등 예능 분야의 이론과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업기반기술학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025360&cid=42117&categoryId=42117",
+			"description":" 산업기반기술 계열학원에서 수강생들에게 특정교과에 대한 이론과 기술을 강의하고 자격·면허를 취득하기 위한 전문과목을 지도한다. [수행<b>직무<\/b>] 수강생들에게 기본이론, 공구 및 기계의 사용, 안전관리 등에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한복연구가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832769&cid=42117&categoryId=42117",
+			"description":"궁중복식 등 고대 한복 등을 연구하며 재현한다. 복주머니 등 규방<b>공예<\/b>품에 대해 연구하며 제작한다. 패션쇼 등에 참가하여 한복의 우수성을 알린다. 새로운 개념의 한복, 규방<b>공예<\/b>품 등을 만든다.",
+			"thumbnail":""
+		},
+		{
+			"title":"귀금속모형제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029485&cid=42117&categoryId=42117",
+			"description":"금속 <b>공예<\/b>용 수동톱으로 금속을 디자인과 같이 자르고 줄을 사용하여 모서리를 다듬는다. 절단한 금속모형이 작업지시서의 치수와 일치한지 측정게이지로 검사한다. 특정한 입체디자인을 내기 위해 수동공구로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"착색성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029555&cid=42117&categoryId=42117",
+			"description":"유리<b>공예<\/b>품이나 장식용 유리제품 성형 시 사용할 금형보다 약간 작은 예비금형을 준비한다. 취관(대롱)도구와 장비를 준비한다. 성형할 원료유리의 용융상태를 확인한다. 취관의 끝을 발색원소를 함유한 용융된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"슈가크래프터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029466&cid=42117&categoryId=42117",
+			"description":" 설탕가루를 반죽하여 색을 넣고 모양을 만들어 각종 기념일 케이크, 생활 소품 등을 만든다. [수행<b>직무<\/b>] 개인, 웨딩업체, 돌잔치대행업체, 제과점 등으로부터 주문을 받는다. 설탕가루에 달걀흰자... ",
+			"thumbnail":""
+		},
+		{
+			"title":"테라코타형틀제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551172&cid=42117&categoryId=42117",
+			"description":" 테라코타(Terra Cotta)를 성형하기 위해 석고 형틀을 제작한다. [수행<b>직무<\/b>] 성형할 테라코타(Terra Cotta:진흙으로 구워 만든 토기)의 원형에 따라 석고형틀의 모양 및 크기를 계산하고 확인한다. 작업에 필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"단청편수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029450&cid=42117&categoryId=42117",
+			"description":" 단청시공 현장에서 화공의 단청시공 진행과정을 총지휘하고 감독한다. [수행<b>직무<\/b>] 단청기술자로부터 작업에 대한 자세한 내용을 지시받는다. 단청 시공 순서에 따라 시공 과정을 순서대로 원만하게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도자기검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029451&cid=42117&categoryId=42117",
+			"description":" 완성된 도자기를 검사하여 불량품을 선별하고 불량품은 깨뜨린다. [수행<b>직무<\/b>] 도자기의 종류에 따라 검사항목, 검사방법 등 검사표준서의 내용을 숙지하고 작업지시사항에 따라 검사할 도자기의 규격과 형태... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029476&cid=42117&categoryId=42117",
+			"description":" 성형된 도자기류의 표면을 손으로 매끄럽게 다듬는다. [수행<b>직무<\/b>] 작업지시서에 따라 정형할 도자기의 종류와 정형부위 및 방법 등을 확인한다. 성형된 반제품을 운반하여 회전판에 올려놓는다. 회전하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도자기인쇄원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029452&cid=42117&categoryId=42117",
+			"description":" 도기류와 자기접시 등에 도안을 인쇄하는 기계를 운전·조작한다. [수행<b>직무<\/b>] 인쇄할 도자기의 종류, 규격, 인쇄부위, 인쇄문양 및 도안을 작업지시서와 비교하여 확인한다. 인쇄기의 작동 여부를 점검한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국악기가죽가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029442&cid=42117&categoryId=42117",
+			"description":" 소, 말 등의 가죽을 가공 처리하여 장구, 북, 소고 등을 제조한다. [수행<b>직무<\/b>] 입고된 가죽에서 털을 제거하기 위하여 약물 처리한다. 태고(물레 형태의 회전하는 커다란 드럼)에 톱밥과 가죽을 투입하여 가죽을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"죽제품제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029478&cid=42117&categoryId=42117",
+			"description":" 바구니, 소쿠리, 장식용 죽세공품 등을 제작하기 위해 대나무를 절단하고 편조한다. [수행<b>직무<\/b>] 톱 등 수동공구를 사용하여 제작할 제품의 치수에 맞추어 대나무를 절단하고 칼이나 대패로 절단된 대나무의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"상감원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029461&cid=42117&categoryId=42117",
+			"description":" 목<b>공예<\/b>품에 상감효과를 주기 위해 바탕목을 음각하여 상감재를 접착·조립한다. [수행<b>직무<\/b>] 조각에 필요한 목재와 조각공구 및 실톱을 준비한다. 조각할 문양을 재료에 옮겨 그린다. 상감할 부위를 음각으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"돗자리제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029456&cid=42117&categoryId=42117",
+			"description":" 완초(왕골)나 짚을 엮어 돗자리를 제조한다. [수행<b>직무<\/b>] 완초(왕골)나 짚을 손과 칼을 사용하여 일정 크기로 찢고 묶음으로 묶어 건조하고, 일정 수분을 유지하기 위해 이슬을 맞힌다. 완초를 염색하거나 일정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예술제본가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029467&cid=42117&categoryId=42117",
+			"description":" 보관할 가치가 있는 책을 보수 또는 복원하여 견고하고 아름답게 만드는 일을한다. [수행<b>직무<\/b>] 출판사에서 특별히 의뢰한 제본, 성경(성경 필사본) 제본, 개인저작물 제본 등을 주문 받는다. 의뢰자와 제본... ",
+			"thumbnail":""
+		},
+		{
+			"title":"토피어리디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665185&cid=42117&categoryId=42117",
+			"description":" 물이끼(수태)와 각종 식물을 이용하여 동물이나 새, 캐릭터 등 모형을 제작한다. [수행<b>직무<\/b>] 만들고자 하는 토피어리(Topiary:자연 그대로의 식물을 여러 가지 동물 모양으로 자르고 다듬어 보기 좋게 만드는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장난감모형제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029473&cid=42117&categoryId=42117",
+			"description":" 각종 기계와 수동공구를 사용하여 제조하고자 하는 장난감의 모형을 제작한다. [수행<b>직무<\/b>] 설계도면의 명세서에 따라 알루미늄, 나무, 섬유유리 등의 재료를 선택한다. 측정 및 제도기구를 사용하여 재료 위에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수타성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029465&cid=42117&categoryId=42117",
+			"description":" 소량 다품종의 내화물을 성형하기 위해 압축공기와 나무해머로 압착하여 성형한다. [수행<b>직무<\/b>] 작업지시에 따라 성형물의 종류와 규격, 형태를 확인한 후 성형에 필요한 배합토와 형틀을 준비한다. 혼합된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조화제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029477&cid=42117&categoryId=42117",
+			"description":" 천이나 종이, 비닐 등의 재료를 이용해 잎, 줄기 등의 모양을 만든 후 이를 조립해 조화를 만든다. [수행<b>직무<\/b>] 제조하고자 하는 조화 형태에 따른 금형을 준비한다. 폴리에틸렌(Poly-etylene:열가소성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한지제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953512&cid=42117&categoryId=42117",
+			"description":" 전통 한지를 만들기 위하여 닥나무로 종이를 떠서 가공한다. [수행<b>직무<\/b>] 지통에 물과 원료를 넣고 막대로 잘 저어 고르게 분산시킨 후 섬유끼리의 분산과 종이 뜰 때 발에서 물 빠짐을 조절할 수 있도록 닥풀즙... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도자기조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029455&cid=42117&categoryId=42117",
+			"description":" 위생도기류, 자기류, 내화요업류의 도자기 제품의 부분품을 조립한다. [수행<b>직무<\/b>] 작업지시서에 따라 조립할 도자기 및 요업제품의 종류와 규격, 형태, 부품 등을 확인하고 점검한다. 작업표준서에 의하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원형제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029469&cid=42117&categoryId=42117",
+			"description":" 개발 또는 주문된 형태 중 원기둥의 변형체를 제외한 모든 원형도자기류 및 요업제품류를 만든다. [수행<b>직무<\/b>] 작업명세서에 따라 성형할 원형물의 규격과 형태를 확인한다. 원형 제작에 필요한 공구와 재료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나전칠기백골원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029448&cid=42117&categoryId=42117",
+			"description":" 목재나 합판을 절단하여 나전제품의 부품을 아교로 붙여 백골을 제작한다. [수행<b>직무<\/b>] 목공도구나 목공기계를 이용하여 제품의 설계도면에 따라 목재를 자르고 깎고 다듬는다. 곡선모양으로 제품을 재단할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"석고형제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029462&cid=42117&categoryId=42117",
+			"description":" 내화 제품이나 도자기 제품의 대량생산에 필요한 석고형을 제작한다. [수행<b>직무<\/b>] 도면 및 작업표준서에 따라 환조석고형 또는 부조석고형의 종류와 규격 및 형태를 확인한다. 작업에 필요한 석고가루, 거즈... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목조각원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029458&cid=42117&categoryId=42117",
+			"description":" 조각칼로 도안부분을 파서 목재에 문양을 조각한다. [수행<b>직무<\/b>] 조각할 목재를 준비하고, 마름질 치수에 맞추어 톱으로 자르고 대패로 다듬는다. 조각할 도안을 목재표면에 모사한다. 도안형태의 선과 면을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철물공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029480&cid=42117&categoryId=42117",
+			"description":" 문화재 원형 보존을 위해 철물들의 제작과 보수, 그리고 그 외 다른 업무를 수행한다. [수행<b>직무<\/b>] 용도에 따라 도면과 목공, 창호, 지붕철물 등으로 구분하고 적절한 사용법을 확인한다. 문화재 수리, 복원 시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지리모형제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029479&cid=42117&categoryId=42117",
+			"description":" 종이나 기타 재료를 사용해 입체적인 지세나 지층을 표현하면서 지리모형(지형모형)을 제작한다. [수행<b>직무<\/b>] 원본지도를 복사한다. 사본지도의 밑에 우드락을 깔고 그 사이에 먹지를 놓는다. 지도의 등고선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부채제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029460&cid=42117&categoryId=42117",
+			"description":" 원단절단기, 재단용 칼 등을 사용하여 원단을 재단하고 수술, 매듭, 염주 등을 부착하여 부채를 제조한다. [수행<b>직무<\/b>] 일반부채나 접부채를 만들기 위하여 면이나 실크, 종이 등의 원단을 원단절단기나 재단용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도자기장식원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029453&cid=42117&categoryId=42117",
+			"description":" 기계작업이나 시유작업 등 장식하기 어려운 것을 정해진 도안에 따라 붓으로 칠하고 그림을 그려 장식한다. [수행<b>직무<\/b>] 양각, 음각, 투각, 부각, 상감처리로 1차 장식한 도자기의 2차 장식공정을 위하여 장식할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자개세공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029472&cid=42117&categoryId=42117",
+			"description":" 각종 공구를 사용하여 조개껍질을 여러 가지 모양으로 가공하고 목재 또는 금속재료 표면에 붙여 장식할 수 있도록 제작한다. [수행<b>직무<\/b>] 조개껍질을 선별하여 표면을 그라인더로 갈아 두께를 일정하게 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국악기울림통가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029443&cid=42117&categoryId=42117",
+			"description":" 장구, 북 등의 울림통을 제조하기 위하여 오동나무나 미루나무를 목재공구로 깎고 다듬는다. [수행<b>직무<\/b>] 오동나무나 미루나무를 톱을 사용하여 일정한 크기로 절단한다. 절단한 나무를 선반의 척에 물리거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전동물레성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029474&cid=42117&categoryId=42117",
+			"description":" 제품 생산에 필요한 석고형을 기계의 물레에 장치하고 성형칼을 사용하여 기물을 성형한다. [수행<b>직무<\/b>] 작업지시서에 따른 대칭형 형태를 대량으로 만들기 위하여 성형물의 종류와 규격 및 형태를 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953513&cid=42117&categoryId=42117",
+			"description":" 전통한식 기법으로 단청문양, 별화, 벽화 등을 목조구조물이나 벽 등에 채색한다. [수행<b>직무<\/b>] 단청문양의 퇴락 상태와 기존 문양조사를 위한 현장조사를 한다. 단청문양의 초본도, 모사도 및 견본도를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"단청기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029449&cid=42117&categoryId=42117",
+			"description":" 현장조사나 고증자료를 통하여 복원단청이나보수건물의갈아끼운신부재를땜단청인가를 파악하고설계도서에 따라 문양모사 및 복원도를 작성하여 단청시공 순서에 따라 단청시공 현장을 총괄 관리·감독한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국악목관악기제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029444&cid=42117&categoryId=42117",
+			"description":" 대나무를 사용하여 대금, 소금, 단소, 피리 등의 국악목관악기를 제조한다. [수행<b>직무<\/b>] 제조할 국악목관악기의 형태에 따라 알맞은 대나무를 선별한다. 절단톱을 사용하여 대나무를 일정 크기로 절단한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"축소모형설치원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029481&cid=42117&categoryId=42117",
+			"description":" 배경 및 특수효과를 영상화하는 데 사용되는 영화제작용세트(무대장치)의 축소모형장치(Miniature Set)를 설치한다. [수행<b>직무<\/b>] 촬영하는 범위와 규모에 따라 축소모형의 비율을 결정하고 설계한다. 설계도에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유약처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029470&cid=42117&categoryId=42117",
+			"description":" 성형된 제품의 전면 또는 일부 면에 고르게 색상을 입히기 위하여 성형품에 유약을 입힌다. [수행<b>직무<\/b>] 작업주문서에 따라 시유물의 종류와 형태, 규격을 확인한다. 소량의 자기제품에 시유작업을 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모사공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029457&cid=42117&categoryId=42117",
+			"description":" 불화, 민화, 벽화, 풍속화 등 모사할 작품을 분석하여 현상모사, 복원모사, 고색복원모사 등 작업방법을 선정하고 모사의 형상과 색채를 분석하여 섬세한 선묘사를 하여 모사본을 제작한다. [수행<b>직무<\/b>] 모사할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음식물모형제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029471&cid=42117&categoryId=42117",
+			"description":" 화학원료를 사용하여 본을 뜨고, 색칠을 하여 음식물 모형을 실제와 흡사하게 만든다. [수행<b>직무<\/b>] 제작될 음식물 모양을 확인하기 위해 점포를 직접 방문하거나 음식물을 인수 받는다. 음식의 형태를 잡은 후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국악현악기제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029445&cid=42117&categoryId=42117",
+			"description":" 오동나무, 밤나무, 명주실을 사용하여 거문고, 가야금, 아쟁 등을 제조한다. [수행<b>직무<\/b>] 작업지시서에 따라 오동나무나 밤나무를 작업대에 준비한다. 준비한 재료를 절단톱 등을 사용하여 규격에 따라 절단한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화훼장식가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953519&cid=42117&categoryId=42117",
+			"description":" 꽃을 포장하여 판매하거나 행사장에 화훼장식을 하는 등 용도에 적합하고 아름답게 꽃을 연출한다. [수행<b>직무<\/b>] 도매업체로부터 화훼를 구입하여 소비자에게 판매한다. 판매량과 재고량을 파악하여 필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전사지부착원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029475&cid=42117&categoryId=42117",
+			"description":" 손이나 기계장치로 문양을 그려 넣기 힘든 복잡한 형상의 도안이나, 대량생산이 필요한 경우 종이나 비닐에 인쇄한 전사지를 이용하여 장식할 수 있도록 기물에 전사지를 부착한다. [수행<b>직무<\/b>] 작업지시서에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"활제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953517&cid=42117&categoryId=42117",
+			"description":" 궁도용 활을 제조하고 탄력을 검사한다. [수행<b>직무<\/b>] 제조하고자 하는 활의 형태에 맞는 작업대를 골라서 프레스기에 볼트로 조인다. 압착프레스와 활 안쪽에 접착제가 묻지 않도록 종이를 깐다. 적층가공을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나전칠기도장공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029447&cid=42117&categoryId=42117",
+			"description":" 목재로 제작된 물건에 헝겊 등을 깔아놓고 옻칠 혹은 캐슈칠(Cashew)을 한다. [수행<b>직무<\/b>] 부드러운 목재로 제작한 백골(칠과 자개세공을 하기 전의 장, 혹은 함과 같은 나전제품) 밑바탕에 천이나 종이를 전면에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건축모형제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029439&cid=42117&categoryId=42117",
+			"description":" 시공 계획에 있거나 시공된 건축구조물, 조경물 등을 설계도면을 보면서 축소·확대하여 모형을 제작한다. [수행<b>직무<\/b>] 프레젠테이션 모형, 스터디 모형, 콘셉트 모형, 이미지 모형 등 모델링의 목적을 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선물큐레이터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6085412&cid=42117&categoryId=42117",
+			"description":" 사회적이고 상대적인 관계나 상황 등을 고려해 선물을 기획, 제안, 추천, 제작, 포장, 디자인을 직접 수행하거나 기획조정한다. [수행<b>직무<\/b>] 인터뷰, 사전조사, 데이터 분석 등을 통해 선물을 주고받는 대상, 시기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"석제품제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029463&cid=42117&categoryId=42117",
+			"description":" 장식용 건축석재, 석상, 기념비, 장식품 등을 제작하기 위해 제품이 요구하는 규격과 주제에 알맞은 도안을 구상하고 작업계획을 수립하여 석제품을 제작한다. [수행<b>직무<\/b>] 의뢰인과 제작할 제품의 용도, 주제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리조각사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029553&cid=42117&categoryId=42117",
+			"description":" 유리 <b>공예<\/b>품이나 장식용 유리제품 표면에 미세한 문양을 조각하거나 강화유리 및 착색유리의 표면을 조각한다. [수행<b>직무<\/b>] 작업명세서 및 주문서에 따라 조각할 유리의 종류 및 형태, 규격을 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"메달제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026997&cid=42117&categoryId=42117",
+			"description":" 금, 은, 동 등의 재료로 메달이나 금속<b>공예<\/b>품과 같은 특수제품을 제조한다. [수행<b>직무<\/b>] 작업공구 및 기계를 점검하고 당일 작업분의 공표(주화를 제외한 메달 등의 제조용 소재)와 작업내용이 기록된 전표를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"석재공명기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027368&cid=42117&categoryId=42117",
+			"description":" <b>공예<\/b> 석제품을 제작하기 위하여 원통 형태로 석재를 자르는 공명기(Core Drill)를 조작·관리한다. [수행<b>직무<\/b>] 공명기 작업에 사용할 원석을 선별한다. 선별된 재료를 지게차를 사용하여 작업장으로 운반한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리가열절단원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029544&cid=42117&categoryId=42117",
+			"description":" 성형된 판유리, 유리<b>공예<\/b>품 등 유리제품의 불필요한 부분을 제거하기 위해 작업지시서에 따라 전기선이나 토치(Torch)를 사용하여 절단한다. [수행<b>직무<\/b>] 성형된 유리제품을 수령하고 작업지시서에 따라 절단할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리열가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029548&cid=42117&categoryId=42117",
+			"description":" 유리<b>공예<\/b>품, 유리컵, 양주컵, 이화학용 유리제품 등의 가공을 위해 1차로 성형된 유리 기물에 부분적으로 열을 가하여 기물의 형태를 구부리고 골을 내고 모양을 만든다. [수행<b>직무<\/b>] 1차 성형된 유리제품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특기적성교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837714&cid=42117&categoryId=42117",
+			"description":" 학생들에게 특정의 특기적성 교육을 실시한다. [수행<b>직무<\/b>] 학생들의 소질 및 적성을 개발할 수 있도록 취미 및 특기신장 교육을 한다. 특기적성 교육활동과 연계한 동아리를 구성하고, 각 동아리에 맞는 교육을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문화재보존가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025606&cid=42117&categoryId=42117",
+			"description":" 역사적·예술적으로 가치가 있는 건조물, 서적, 미술품, <b>공예<\/b>품, 조각품 등의 유형문화재를 보존·수리·복원하는 업무를 한다. [수행<b>직무<\/b>] X-선 촬영, 현미경 조사 등의 상태조사와 문화재분석원의 분석결과를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"귀금속가공산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053847&cid=42114&categoryId=42114",
+			"description":"② 귀금속가공산업기사 자격제도는 장신구뿐만 아니라 귀금속을 이용한 각종 <b>공예<\/b>품의 활용과... 화폐, 장신구, 메달, <b>공예<\/b>품 등의 재료로 사용된다. ② 귀금속가공산업기사는 귀금속 및 보석의 종류와 특성... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171152171_0RNQMVCDH.jpg\/da6_261_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"예체능교수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837684&cid=42117&categoryId=42117",
+			"description":" 대학에서 예술의 학문적·독창적 가치를 연구·창조하고 예술 분야의 전문기능인 양성을 위해 미술계열, 음악계열, 연극영화계열, 체육계열의 이론과 지식을 강의한다. [수행<b>직무<\/b>] 대학에서 대학생들을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제품디자인기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053887&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날 국제 경쟁에서 제품개발은 성능이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203020709_CIYVL4XL4.jpg\/da6_301_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"제품디자인산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053889&cid=42114&categoryId=42114",
+			"description":"심리적 욕구 충족시킬 수 있도록 다양한 조사 · 분석을 통하여 각종 공업제품의 의장을 창조하고 개발하는 등의 업무를 수행한다. (3) 과정평가형 자격제도 ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(NC",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191103432_9TYPMIHVO.jpg\/da6_303_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"대학강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025133&cid=42117&categoryId=42117",
+			"description":" 대학에서 일정 기간 동안, 전공 학문의 이론과 지식을 강의한다. [수행<b>직무<\/b>] 대학의 교육시스템, 담당 전공과목의 특징 등을 살펴 강의계획을 세운다. 강의 시 필요한 관련 교육도구를 준비한다. 강의할 전반에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국문화의 집[KOUS] (강남구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2573173&cid=51878&categoryId=51958",
+			"description":"보존사업의 중추적 거점 기능, 목적사업 경영 활성화를 통한 재정 자립도 향상 등이다. [변천] 한국문화의 집은 시작은 1988년 9월 1일로 한국 고유의 전통<b>공예<\/b> 보존과 맥을 잇기 위해 전통<b>공예<\/b>관이라는 이",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150310182529715_JQZ6WP7VJ.jpg\/GC048P01754.jpg?type=m160_160"
+		},
+		{
+			"title":"제품디자인기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053888&cid=42114&categoryId=42114",
+			"description":"② 이에 따라 제품디자인에 관한 이론을 바탕으로 산업현장에서 요구되는 관련<b>직무<\/b>를 수행할 수 있는 지식과 실무경력을 갖춘 전문기술인력을 양성하기 위해 제품디자인기술사 자격제도가 제정되었다. (2)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203022599_4UHAMNBLT.jpg\/da6_302_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"실기교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025335&cid=42117&categoryId=42117",
+			"description":" 실업계 고등학교, 고등기술학교 및 일반중등학교의 부속실습시설에서 농업·공업·상업·해운·예능·가정·체육 및 기타 전문교과의 각 학과별 실기를 지도한다. [수행<b>직무<\/b>] 교사와 협의하여 실험·실습에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"컬러리스트기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053913&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 컬러리스트기사 ① 컬러리스트기사란 응시자격을 갖춘... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191132217_1RZMHNCIA.jpg\/da6_327_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"귀금속가공기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053845&cid=42114&categoryId=42114",
+			"description":"화폐, 장신구, 메달, <b>공예<\/b>품 등의 재료로 사용된다. ③ 귀금속가공기능사 자격은 귀금속 재료 및 귀금속 가공 전반에 대한 기초이론을 바탕으로 실제 귀금속 가공제품을 제작하고, 수리 · 보수할 수 있는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171202590_831O8X61Z.jpg\/da6_259_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"컬러리스트산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053914&cid=42114&categoryId=42114",
+			"description":" 컬러리스트산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 컬러리스트산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 검정방식은 기존의 검정형과 과정평가형이 병행하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20170712203815735_7Z907SOGD.jpg\/da6_328_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"분원의 유래",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1781284&cid=49297&categoryId=49297",
+			"description":"임금의 식사와 대궐 안의 연회에 쓰이는 모든 음식을 공급하는 업무를 맡아 하던 관청이었다. 사옹원의 또 다른 <b>직무<\/b> 중 하나가 궁궐의 식사와 잔치에 쓰이는 음식을 담기 위한 그릇을 제작, 공급하는 일이었다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_19\/20130316073515997_EZDTYBTV6.jpg\/z2_cp05160167000.jpg?type=m160_160"
+		},
+		{
+			"title":"시각디자인산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053871&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 시각디자인산업기사   ① 시각디자인산업기사란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20170712203752033_BY7ZZ4J5A.jpg\/da6_285_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"가구제작기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053842&cid=42114&categoryId=42114",
+			"description":"② 가구제작은 자동화에 한계가 있고 주문가구, 고급가구 등 소비자의 다양한 기호를 만족시켜야 하는 <b>공예<\/b>품적인 성격이 강하기 때문에 실용적인 측면과 장식적인 측면을 모두 만족시켜줄 수 있어야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210331165826676_3PU2BJ6NO.jpg\/da6_256_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"부산광역시 학생교육문화회관 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2820485&cid=55779&categoryId=56266",
+			"description":"[정의] 부산광역시 부산진구 초읍동에 있는 청소년 문화 시설. [건립 경위] 부산광역시 학생교육문화회관은 다양한 여가 활동을 통하여 청소년의 잠재되어 있는 재능과 창의력을 계발하고 특기·적성... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718063650303_UW8Q7T8LO.jpg\/GC042P12092.jpg?type=m160_160"
+		},
+		{
+			"title":"세그루 패션디자인고등학교 (도봉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2595929&cid=51880&categoryId=53244",
+			"description":"[정의] 서울특별시 도봉구 쌍문동에 있는 사립 고등학교. [교육 목표(교훈 포함)] 정직하고 예절 바른 인성을 갖춘 인간, 미래 사회를 주도할 능력을 갖춘 인간, 자율적이고 창의적인 능력을 갖춘... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150313012301633_OXL892DXL.jpg\/GC049P01507.jpg?type=m160_160"
+		},
+		{
+			"title":"가구제작산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5843956&cid=42114&categoryId=42114",
+			"description":"검정형 시험 외에 과정평가형으로도 취득할 수 있다. ② 가구제작산업기사는 창의성을 바탕으로 가구를 설계하고 다양한 재료를 사용하여 실용적이고 심미성 있는 가구를 제작하는 <b>직무<\/b>를 수행한다. (3) 과",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210331165827095_XIMAXERWX.jpg\/da6_894_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"시각디자인기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053870&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 과학기술의 발전과 새로운 매체의 등장으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716202944215_QWCRSMA1N.jpg\/da6_284_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"목<b>공예<\/b>기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053853&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 목<b>공예<\/b>기능사 ① 목<b>공예<\/b>기능사란 산업인력공단에서 시행하는 목<b>공예<\/b>기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 목<b>공예<\/b>의 활용도가 높아지고, 일반인의 목<b>공예<\/b>품에 대한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20211214142734321_GE6QIYWW7.jpg\/da6_267_i3.jpg?type=m160_160"
+		},
+		{
+			"title":"귀금속가공기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053846&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 귀금속가공기능장   ① 귀금속가공기능장이란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180521172427909_EVVL77DSZ.jpg\/da6_260_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"보부상 유품(6)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3652331&cid=40942&categoryId=33597",
+			"description":"《동아개진교육회상무과세칙 東亞開進敎育會商務課細則》에는 일제가 한반도 식민화 계획을 추진하는 과정에서 만든 동아개진교육회의 하부조직인 상무과의 임원 및 <b>직무<\/b> 관련 내용, 지방 상민을 통제하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교회 예배의식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2378911&cid=50762&categoryId=51368",
+			"description":"교회의 <b>공예<\/b>배시 시행되는 대표적인 의식(절차)에는 기도, 찬송, 성경 낭독, 성경해석과 강도, 세례... 바치는 '봉사'를 가리킨다. 신약성경에서 이 단어는 옛 언약 아래서의 제사장의 <b>직무<\/b>(눅1:23; 히9:21),",
+			"thumbnail":""
+		},
+		{
+			"title":"건설안전산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053959&cid=42114&categoryId=42114",
+			"description":"예방계획 수립, 작업환경의 점검 및 개선, 유해 위험방지 등의 안전에 관한 기술적인 사항을 관리하며 건설물이나 설비작업의 위험에 따른 응급조치, 안전장치 및 보호구의 정기점검, 정비 등의 <b>직무<\/b>를 수",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185013085_EW5CGU0T4.jpg\/da6_373_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"포장산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053922&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 포장산업기사 ① 포장산업기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402085745674_AE8B9YNOY.jpg\/da6_336_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"왕의 친척",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1760127&cid=49298&categoryId=49298",
+			"description":"이 친족의 범위에서 친척이 혹시 <b>직무<\/b>를 수행하다가 잘못하면 처벌해야 하는데, 이는 의리를 상하는 일이므로 일 자체를 맡겨서는 안된다는 논리였다. 이를 근거로 세종은 왕의 4대 현손(玄孫)까지 모든... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가스기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053946&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 가스기능장 ① 가스기능장이란 가스기능장 시험의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171229844_55V290ABW.jpg\/da6_360_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"포장기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053921&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날 포장은 포장재료로 사용되는 종이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203129302_5PVWMYYA9.jpg\/da6_335_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"품질경영기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053927&cid=42114&categoryId=42114",
+			"description":" 품질경영기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 품질경영기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과하여야 한다. [ 1. 기본정보] (1)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100650482_JCJW08Q6B.jpg\/da6_341_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가스산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053949&cid=42114&categoryId=42114",
+			"description":"위해 예방을 위 한 지도 및 감독업무와 저장, 판매, 공급 등의 과정에서 안전관리를 위한 지도 및 감독 업무를 수행한다. (3) 과정평가형 자격제도 ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(NCS)에 기반하여",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210331165848003_KBIHJQ8B0.jpg\/da6_363_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"가스기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053947&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 가스기사 ① 가스기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220615173838812_YTB6ZA8LN.jpg\/da6_361_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"MJC보석직업전문학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2094110&cid=43142&categoryId=43142",
+			"description":"귀금속·보석 분야의 전문가를 양성하는 직업전문학교로 산학협력 중심의 특성화 교육을, <b>직무<\/b>능력 향상을 위한 현장실무교육을 한다. MJC보석직업전문학교의 모태는 1997년 설립된 관인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소방설비산업기사(기계분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054043&cid=42114&categoryId=42114",
+			"description":"작성하거나 소방설비공사를 시공, 관리하며, 소방시설이 점검 · 정비와 화기의 사용 및 취급 등 방화안전관리에 대한 감독, 소방계획에 의한 소화, 통보 및 피난 등의 훈련을 실시하는 방화관리자의 <b>직무<\/b>를",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185125988_UMT8L1CTG.jpg\/da6_457_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"포장기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053920&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날 포장은 포장재료로 사용되는 종이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203126127_YRK5C731J.jpg\/da6_334_i1.jpg?type=m160_160"
+		}
+	]
+}

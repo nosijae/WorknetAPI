@@ -1,0 +1,140 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:32 +0900",
+	"total":12,
+	"start":1,
+	"display":12,
+	"items":[
+		{
+			"title":"어휘, 어법, 국어문화 고득점 벼락치기 ([항균안심도서] 대기업 직무적성, 공기업NCS, 공무원, 군무원)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32481979287",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3248197\/32481979287.20220527023211.jpg",
+			"author":"노수경",
+			"discount":"13500",
+			"publisher":"시대고시기획",
+			"pubdate":"20210105",
+			"isbn":"9791125479116",
+			"description":"[도서 특징]\n1. 대기업 직무적성, 공기업NCS, 공무원, 군무원 부사관 준비를 KBS한국어능력시험으로 한 번에!\n2. 간추린 핵심 영역+주요 시험 기출 분석+연습문제로 잡는 국어 점수!\n3. 효율적인 어휘·어법 대비가 필요한 취준생과 예비 언론·출판인 필독서"
+		},
+		{
+			"title":"문화예술경영(문화 예술경영) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32492201112",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249220\/32492201112.20220527024709.jpg",
+			"author":"한국산업인력공단",
+			"discount":"17100",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093725",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화예술경영(문화 예술경영)에 대해 다룬다."
+		},
+		{
+			"title":"문화예술경영(문화 예술행정) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32455885059",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3245588\/32455885059.20220527063331.jpg",
+			"author":"한국산업인력공단",
+			"discount":"18000",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093718",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화예술경영(문화 예술행정)에 대해 다룬다."
+		},
+		{
+			"title":"문화재 관리(문화재 보수) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32436443118",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3243644\/32436443118.20220527061302.jpg",
+			"author":"한국산업인력공단",
+			"discount":"18900",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093770",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화재 관리(문화재 보수)에 대해 다룬다."
+		},
+		{
+			"title":"문화예술경영(문화 예술기획) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32489499212",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3248949\/32489499212.20220527045947.jpg",
+			"author":"한국산업인력공단",
+			"discount":"17100",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093701",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화예술경영(문화 예술기획)에 대해 다룬다."
+		},
+		{
+			"title":"문화예술경영(문헌정보관리) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32441778917",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3244177\/32441778917.20220527041538.jpg",
+			"author":"한국산업인력공단",
+			"discount":"19800",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093732",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화예술경영(문헌정보관리)에 대해 다룬다."
+		},
+		{
+			"title":"문화재 관리(학예) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32436237978",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3243623\/32436237978.20220527040948.jpg",
+			"author":"한국산업인력공단",
+			"discount":"23400",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093763",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화재 관리(학예)에 대해 다룬다."
+		},
+		{
+			"title":"문화콘텐츠제작(영사) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32436245506",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3243624\/32436245506.20220527075644.jpg",
+			"author":"한국산업인력공단",
+			"discount":"19800",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093824",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화콘텐츠제작(영사)에 대해 다룬다."
+		},
+		{
+			"title":"문화재 관리(문화재 보존) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32504349994",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3250434\/32504349994.20220527064723.jpg",
+			"author":"한국산업인력공단",
+			"discount":"25200",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093787",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화재 관리(문화재 보존)에 대해 다룬다."
+		},
+		{
+			"title":"직무분석 2 (문화.예술.디자인.방송, 출제기준 정비자료 12-04)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32496815620",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249681\/32496815620.20220521042837.jpg",
+			"author":"",
+			"discount":"10800",
+			"publisher":"휴먼컬처아리랑",
+			"pubdate":"20141124",
+			"isbn":"9791155651247",
+			"description":"시각디자인은 시각디자인에 대한 전문지식을 갖추고 광고, 편집, 아이덴티티, 패키지, 미디어 등 시각전달 디자인 전반에 관한 기획, 계획, 정보분석, 디자인 실무 등의 직무를 수행하는 직무로 문화, 예술, 디자인, 방송을 분석했다."
+		},
+		{
+			"title":"일 그 야누스적 얼굴 (직무스트레스 올바르게 이해하기)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32503857682",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3250385\/32503857682.20220527081940.jpg",
+			"author":"PETER L. SCHNALL",
+			"discount":"19000",
+			"publisher":"계축문화사",
+			"pubdate":"20100830",
+			"isbn":"9788956292182",
+			"description":"산업사회의 노동자들(특히 미국을 중심으로)이 경험하게 되는 직무스트레스의 부정적 측면에 초점을 두어 집필한 책. 세계화로 인해 영향을 받게 되는 일의 변화 및 직무환경이 노동자들의 건강에 미치는 영향을 구체적으로 다루었으며, 미국에서의 참여형 활동의 예를 포함하여 직무환경을 개선시킬 수 있는 방안과 노력들이 기술되었다."
+		},
+		{
+			"title":"항공기 식음료 서비스 (NCS 국가직무능력 기반)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32436239052",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3243623\/32436239052.20220527052355.jpg",
+			"author":"이영희",
+			"discount":"0",
+			"publisher":"연경문화사",
+			"pubdate":"20160830",
+			"isbn":"9788982981791",
+			"description":"『항공기 식음료 서비스』는 항공기 음료에 대한 이론과 실무의 내용을 알기 쉽게 구성하였고, 항공기 기내식의 이해와 항공기 기내식의 이론과 실무를 바탕으로 한 기내식음료에 대한 내용을 구체적이고 체계적으로 구성한 책이다. 이는 항공기 객실승무원으로서 산업현장에서 직무를 수행하기 위해 요구되는 지식, 기술, 태도 등의 내용을 산업부문 수준별로 체계화하고 이를 국가적 차원에서 표준화한 항공 객실서비스 NCS 내용 중에서 비행 중 서비스되는 기내음료 및 기내식 제공하기에 대한 모든 제반 사항을 알기 쉽게 설명하였다."
+		}
+	]
+}

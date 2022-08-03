@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:50 +0900",
+	"total":26603,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1146659&cid=40942&categoryId=32148",
+			"description":" 주거의 내외를 청결하게 보존하고 위생적 ·능률적으로 생활할 수 있도록 정돈하는 일.  집 안의 불필요한 물건을 골라서 버리고, 건물 전체의 더러워진 부분을 깨끗하게 닦아내는 것은 주거 자체의 생명을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_68\/20181113191338469_JUANICTLY.jpg\/239444.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2190765&cid=51073&categoryId=51073",
+			"description":"충남 보령군에 <b>청소<\/b>면이 있다. 이 지방에서 가장 높은 조서(鳥棲)산이 동쪽 가장자리에 솟아 있고, 이 산지의 영향권에 들어 있는 곳이기도 하다. 조서산은 본래 <b>청소<\/b>(靑所)산이라 했으므로, 이 산의 이름을 따서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6051895&cid=67350&categoryId=67350",
+			"description":"[환경 및 설비] 건축물 및 부속시설에서 오염물질과 쓰레기 등을 제거하여 시설을 청결하게 하는 작업. 참고 : 건축학용어사전, 세화",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=113989&cid=50293&categoryId=50293",
+			"description":"푸른 하늘. 소(霄).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%86%8C",
+			"description":"<b>청소<\/b> (淸掃)는 가정의 가구나 장롱 위나 바닥, 부엌의 환풍기, 욕실, 화장실, 정원 등의 더러운 곳을 깨끗이 하는 것을 말한다. 집안일 중 하나이기도 하다. 일반적으로 평소보다 넓은 범위를 크게 <b>청소<\/b>하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>면",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1146665&cid=40942&categoryId=37404",
+			"description":" 충청남도 보령시 북부에 있는 면.  남동쪽은 청라면(靑蘿面), 북동쪽은 홍성군 광천읍, 서쪽은 오천면(鰲川面), 남쪽은 주포면(周浦面), 북서쪽은 천북면(川北面)과 접한다. 동부에는 오서산(烏棲山:791m)... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20210126_247\/Y60MI_1611647228643fhiiz_JPEG\/6e5d28cb-5faa-11eb-b987-246e963a49a8_02.jpg#3840x2160#m"
+		},
+		{
+			"title":"<b>청소<\/b>면",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=767221&cid=43740&categoryId=44176",
+			"description":"장항선 철도가 남북으로 지나며 <b>청소<\/b>역이 있다. 현재 진죽리(眞竹里) · 신송리(新松里) · 재정리(才井里) 등의 8개 법 정리를 관할한다. 백제 시대에는 신촌현(新村縣) 혹은 사촌현(沙村縣)에 속하였으며 신라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>면",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%86%8C%EB%A9%B4",
+			"description":"<b>청소<\/b>면 (靑所面)은 대한민국 충청남도 보령시에 속한 면이다. 개요 <b>청소<\/b>면은 서해안 최고봉인 오서산(790.7m)과 청산리대첩의 영웅인 김좌진 장군의 묘가 있는 곳이다. 또한 서해안고속도로, 국도 제21호선 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>역",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%86%8C%EC%97%AD",
+			"description":"<b>청소<\/b>역 (Cheongso Station, 靑所驛)은 장항선의 철도역이다. 현재 1일 8회 무궁화호가 정차한다. <b>청소<\/b>역사는 장항선에서 남아있는 가장 오래된 역사로서, 원형이 잘 보존되어 있어 건축적, 철도사적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2798140&cid=55631&categoryId=55631",
+			"description":"[기본정보] <b>청소<\/b>면의 중심지에 위치한 역으로 여객 및 화물, 운전취급을 담당하고 있다. 원죽역 관리. 역사는 등록문화재로 지정되었으며 플랫폼 폭이 좁은 편이다. [연혁] || 날짜 || 내용... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3920_000_1\/20150528110411848_2I678PRKU.jpg\/da11_369_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3384024&cid=42279&categoryId=42279",
+			"description":" <b>청소<\/b>대장이란 <b>청소<\/b>에 필요한 용품 등을 관리하기 위해 작성하는 서식이다.  <b>청소<\/b>대장은 유류 소모품 중의 하나인 <b>청소<\/b>에 필요한 용품 등을 관리하기 위해 작성하는 문서를 말한다. <b>청소<\/b>대장을 작성할 때에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122459639_DNMG8RGRI.jpg\/hb10_22993_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2781512&cid=51373&categoryId=51373",
+			"description":" <b>청소<\/b>용품을 관리하기 위해 작성하는 서식.  <b>청소<\/b>대장은 <b>청소<\/b>를 하는데 사용되는 용품을 관리하기 위해 작성하는 서식이다. <b>청소<\/b>에 사용되는 용품의 구입일자, 품목명, 금액, 기타 등을 기재할 수 있으며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508204509954_PYSB3FEKC.jpg\/ba17_21390_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2780396&cid=51373&categoryId=51373",
+			"description":" <b>청소<\/b>작업 현황을 기록하는 문서.  <b>청소<\/b>일지는 구역별 장소를 <b>청소<\/b>하고 <b>청소<\/b> 상황을 기록할 수 있는 문서이다. 담당자별로 <b>청소<\/b> 상황을 기록하면 전체 <b>청소<\/b> 구역과 인원 투입별 관리가 쉽고 진행 상황에 대해... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508200825086_RMHG7NF4U.jpg\/ba17_2767_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2048887&cid=42279&categoryId=42279",
+			"description":" 그날 건물을 <b>청소<\/b>한 내역을 상세히 기록한 서식.  <b>청소<\/b>일지란 그날그날의 <b>청소<\/b> 진행상황을 기록, 보고하기 위해 작성하는 문서를 말한다. <b>청소<\/b>일지는 <b>청소<\/b>의 진행현황, 차후 업무계획, 특이사항, 지시사항 등의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129010255614_K6J70FFNA.jpg\/hb10_12599_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>차",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%86%8C%EC%B0%A8",
+			"description":"<b>청소<\/b>차 란 도로의 <b>청소<\/b>를 위한 장비를 모두 갖춘 특장차를 의미한다. 도로의 청결한 위생과 쾌적한 환경을 조성하기 위해선 반드시 필요한 차량이며 주로 관공서가 소유한다. 특징 도로의 <b>청소<\/b>를 위한 장비를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2838960&cid=55677&categoryId=55677",
+			"description":"콩팥 기능검사를 위해 사용되는 물질의 흡수 · 분비 기능이 콩팥단위의 각 부위에서 점차 명백해짐에 따라 다양한 콩팥 기능검사가 가능하게 되었다. 예를 들어 토리(사구체)의 기능검사에 이용되는 물질은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3965_000_1\/20150703152803889_7ZBCFZW0F.jpg\/ja79_13_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6455071&cid=51726&categoryId=68261",
+			"description":"[<b>청소<\/b>역] <b>청소<\/b>역 국가등록문화재 제305호 1929년에 개설된 간이역으로 이름은 진죽역이었다. 1958년에 보통역으로 승격하였으며 1988년 역사의 이름이 <b>청소<\/b>역으로 변경되었다. 장항선에 있는 역사 중에서... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20210126_195\/uZkEm_1611647099184rGNY6_JPEG\/19875324-5faa-11eb-a803-a0369ff94ec8_02.jpg#3840x2160#m"
+		},
+		{
+			"title":"<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2464129&cid=51399&categoryId=51399",
+			"description":"빗자루로 해결하기 어려운 작은 먼지를 <b>청소<\/b>할 수 있으며 흡입구가 작고 긴 막대 형태로 손이 닿지 않은 깊숙한 곳까지 <b>청소<\/b>할 수 있습니다. 제품의 작동 방식과 목적에 따라 진공, 업소용, 스팀, 소형, 로봇... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_4\/20150319101228178_DLVAUVKJK.jpg\/fh2_55002872_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1797040&cid=49347&categoryId=49347",
+			"description":"[역명] <b>청소<\/b>역 [노선] 장항선 [소재지] 보령시 <b>청소<\/b>면 진죽리 341-3번지 [연혁] 1929년 12월 1일 : 배치간이역으로 영업개시 1958년 9월 11일 : 보통역으로 승격 1958년 12월 31일 : 현재의 역사 준공 1988년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대<b>청소<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EC%B2%AD%EC%86%8C",
+			"description":"대<b>청소<\/b> (Coup De Torchon)는 프랑스에서 제작된 베르트랑 타베르니에 감독의 1981년 코미디, 범죄, 드라마 영화이다. 필립 느와레 등이 주연으로 출연하였다. 출연 주연 필립 느와레 이자벨... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=465487&cid=50343&categoryId=50343",
+			"description":"정기적으로 객실과 연회실을 철저히 <b>청소<\/b>하는 것을 일컫는다. 대<b>청소<\/b>는 호텔의 비수기를 이용하여 실시하여야 하며, 계획을 수립하여 층단위로 순서에 의하여 실행한다. 아울러 대<b>청소<\/b>를 실시하는 동안에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2048886&cid=42279&categoryId=42279",
+			"description":" 담당자가 그날 수행한 <b>청소<\/b> 업무 내역을 기록한 서식.  <b>청소<\/b>일보란 그날그날의 <b>청소<\/b> 진행상황을 기록, 보고하기 위해 작성하는 문서를 말한다. <b>청소<\/b>일보는 <b>청소<\/b>의 진행현황, 차후 업무계획, 특이사항, 지시사항... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129010253914_2OE4MPVFW.jpg\/hb10_12598_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=367015&cid=42413&categoryId=42413",
+			"description":"<b>청소<\/b>율이란 일정시간의 요를 모아 그 중의 물질 x의 양을 측정하면 물질 x의 <b>청소<\/b>율은 Cx=Ux × V\/PmL\/분으로 표시된다. Ux : 요중 x농도, V : 요량(1분간), Px(Bx) : 혈장(혈액)x농도.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2044550&cid=46702&categoryId=46753",
+			"description":"이 역시 지금은 사라진 풍경이지만 60년대 당시에는 서울 거리나 동네 골목에서 리어카를 끌며 쓰레기를 치우는 <b>청소<\/b>부들을 흔히 볼 수 있었다. 리어카를 세워둔 채 잠시 휴식을 취하는 제복 입은 <b>청소<\/b>부 두... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_58\/20141005171757010_C9ZIRB4FU.jpg\/40.+%EC%B2%AD%EC%86%8C.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=400058&cid=50316&categoryId=50316",
+			"description":"<b>청소<\/b>를 하기 위하여 사용되는 기계나 장치",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=338362&cid=44616&categoryId=44616",
+			"description":"(2) 초석(销石)과 칠레 초석의 등량(等量) 혼합물을 500℃로 가열, 용융하고 그 속에 철기(鐵器)를 넣으면 검은 빛 청색을 띤 산화물 피막이 얻어지는데, 이 조작을 <b>청소<\/b>법(靑燒法)이라 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b> 일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3333985&cid=51373&categoryId=51373",
+			"description":" <b>청소<\/b>를 한 작업 현황을 매일 기록하는 문서.  <b>청소<\/b> 일보는 구역별로 특정한 장소를 <b>청소<\/b>하고 <b>청소<\/b> 상황을 매일 기록하여 문서로 남기는 서식이다. 각 지역별과 <b>청소<\/b> 담당자별로 <b>청소<\/b>의 상황을 기록하여 남기면... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209150005870_9QGP8H3BX.jpg\/ba17_12609.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>새우",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=745901&cid=46691&categoryId=46691",
+			"description":"바위 틈새 또는 바위구멍에 암수 한 쌍이 같이 있을 때가 많고, 어류의 체표에 있는 기생충을 먹는 <b>청소<\/b>식자(cleaning shrimp)로 잘 알려져 있다. 최대 갑각길이는 15mm 정도이다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3150_000_1\/20140625190524505_JKDVP1NGR.jpg\/MRA_506_01.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b> 문",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=584130&cid=50321&categoryId=50321",
+			"description":"노 내나 연도 내의 점검이나 <b>청소<\/b>를 하기 위해 연도벽이나 노벽의 적당한 위치에 사람이 출입할 수 있는 출입구가 설치되는데 이 출입구에 설치되는 문.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3380059&cid=51373&categoryId=51373",
+			"description":" <b>청소<\/b> 작업에 대한 계획을 기재한 문서.  <b>청소<\/b>란 특정한 대상의 청결상태를 유지하기 위하여 실시하는 소제작업을 말한다. <b>청소<\/b>의 범위나 규모가 큰 경우 <b>청소<\/b>대행서비스 업체 등에 의뢰하여 <b>청소<\/b>를 실시하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503115724965_89L5VBMVT.jpg\/ba17_7048_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3348024&cid=51373&categoryId=51373",
+			"description":" <b>청소<\/b> 계약에 관한 내용을 담고 있는 문서.  <b>청소<\/b>계약서는 <b>청소<\/b> 서비스 의뢰자와 <b>청소<\/b> 서비스 제공자 간의 계약 내용을 증명하고 명시하기 위한 문서이다. <b>청소<\/b>계약서는 <b>청소<\/b>의 대상 및 범위, <b>청소<\/b> 금액, 계약... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160307121958862_EWYTJFX7X.jpg\/ba17_4627_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>관리표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2048841&cid=42279&categoryId=42279",
+			"description":" 건물의 <b>청소<\/b>를 관리한 내역을 기록하는 서식.  <b>청소<\/b>관리표란 건물의 위생 상태를 항목별로 점검할 수 있도록 표 형식으로 만든 문서를 말한다. 작성 일자를 비롯하여 점검자를 비롯하여 직원의 성명과 건물... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진공<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1144741&cid=40942&categoryId=32156",
+			"description":" 공기의 압력차에 의해 먼지 등이 빨려 들어오도록 만들어진 <b>청소<\/b> 기구.  카펫을 깐 거실 바닥의 먼지 등을 공기의 압력차에 의해 흡수시켜 <b>청소<\/b>한다. 실내의 구석구석을 <b>청소<\/b>하기 편리하게 되어 있으며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_68\/20181113181452550_O2EN7MR8G.jpg\/50228.jpg?type=m160_160"
+		},
+		{
+			"title":"로봇<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2211428&cid=40942&categoryId=32351",
+			"description":" <b>청소<\/b>를 수행하는 가정용 서비스 로봇으로, 지능형 로봇의 일종이다.  스스로 사물을 인식하고 상황을 판단하는 지능형 로봇의 한 형태로, <b>청소<\/b> 작업을 자율적으로 수행하는 가정용 서비스 로봇이다. 지능형... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_328\/20190131004335709_RZ1O5MN9B.jpg\/10168821.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2048838&cid=42279&categoryId=42279",
+			"description":" <b>청소<\/b>에 대하여 대행업체와 계약한 내용을 기록한 서식.  <b>청소<\/b>계약이란 건물의 관리부서와 용역업체와의 <b>청소<\/b>용역을 지정하는 계약으로서, 그 내용을 명시한 문서를 <b>청소<\/b>계약서라 한다. <b>청소<\/b>계약서에는 수거량... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>시방서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2048883&cid=42279&categoryId=42279",
+			"description":" <b>청소<\/b>에 대한 방침과 작업 절차에 대하여 기록한 서식.  시방서는 건물을 설계하거나 제품을 제조할 시 도면상에서 나타낼 수 없는 세부 사항을 명시한 문서를 말한다. 시방서는 사양서라고 부르기도 한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129010251998_U7XMYU06H.jpg\/hb10_12595_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>실명제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3582945&cid=58583&categoryId=59179",
+			"description":" 공공시설 화장실에 <b>청소<\/b>하는 노동자들의 사진과 이름을 붙여 놓는 것.  공중 화장실에 들어가면 <b>청소<\/b>하는 노동자들의 얼굴과 이름이 벽면에 부착되어 있는 경우가 있는데 이것이 바로 <b>청소<\/b> 실명제이다. 누가 이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_1\/20170502183209999_0ATMZPU9I.jpg\/747_155252_17164.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2048839&cid=42279&categoryId=42279",
+			"description":" 시설물의 <b>청소<\/b>를 어떤 방법과 절차에 따라 실시할 것인지에 대한 내용을 기록한 서식.  <b>청소<\/b>계획서란 시설물의 <b>청소<\/b> 업무에 필요한 사항을 규정하고 이에 대한 계획을 기재한 문서를 말한다. <b>청소<\/b>계획서는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철근<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6416230&cid=68110&categoryId=68110",
+			"description":"철근의 녹, 오물을 <b>청소<\/b>하는 기계",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>점검표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1924922&cid=42279&categoryId=42279",
+			"description":" <b>청소<\/b>를 한 후에 환경상태를 점검하기 위한 문서.  <b>청소<\/b>는 주거의 안팎을 청결하게 보존하고, 위생적인 생활을 영위할 수 있도록 정돈하는 일을 말한다. <b>청소<\/b>라는 행위는 주거 자체의 생명을 오래 유지시키는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20220602171941416_M4N4X1A14.jpg\/hb10_5249_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"진공<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4368517&cid=59926&categoryId=59926",
+			"description":"특허명은 ‘카펫(carpet) <b>청소<\/b>기’였다.  진공<b>청소<\/b>기(vaccum cleaner)가 발명되기 전의 시대를 배경으로 하는 영화를 본 적이 있다면, 하인들이 수수대나 대나무 손잡이가 달린 방망이인 ‘카펫 먼지 털이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5182_000_1\/20180104121624921_BN2G96AO0.jpg\/ba21_196_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"구강<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2690793&cid=60261&categoryId=60261",
+			"description":"치구(齒口)<b>청소<\/b>(oral hygiene)라고도 한다. 치아와 구강에 유해한 영향을 미치는 불결인자를 제거하여 치아와 치주조직 등 구강의 청결유지와 동시에 그 기능을 향상시킴으로써 치과질환의 발생을 예방하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정기<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6411395&cid=42094&categoryId=42094",
+			"description":"아파트 건물 내외의 청결유지는 일상<b>청소<\/b>만으로는 불충분하니 주 1회 · 월 1회 등 일정한 주기마다 <b>청소<\/b>하여 일상<b>청소<\/b>와 잘 조화시켜서 완벽을 기하는 <b>청소<\/b>를 말한다. 작업횟수는 적지만 정기<b>청소<\/b>의 중요성이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특별<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6413109&cid=42094&categoryId=42094",
+			"description":"아파트는 일상적으로 <b>청소<\/b>하기 때문에 특별히 정기적인 날을 잡아 <b>청소<\/b>할 필요가 없으나, 예상 외로 특별히 <b>청소<\/b>해야 하는 경우가 발생한다. 그때 하는 <b>청소<\/b>를 특별<b>청소<\/b>라 하며, 예를 들면 외벽 · 내벽의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>방법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=508962&cid=42380&categoryId=42380",
+			"description":"<b>청소<\/b>용 기구에는 여러 가지 종류가 있지만, 전동기에 의한 <b>청소<\/b>용구는 가연성가스가 존재하는 부근에서 사용하는 것은 위험하다. 또 가연성가스나 각종 위험물 저장조 부근에서 소형 엔진에 의한 풀 깎는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>작업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=508964&cid=42380&categoryId=42380",
+			"description":"<b>청소<\/b>는 근로자의 직장환경을 양호하게 하고, 일하는 사람의 건강을 지키며, 아울러 작업능률 향상에 기여한다. 정밀도가 높은 기계, 장치를 제작하는 경우에는 <b>청소<\/b>된 청결한 직장일수록 그 제품의 정밀도는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일상<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6411538&cid=42094&categoryId=42094",
+			"description":"생활공간을 대상으로 매일하는 <b>청소<\/b>를 말한다. 사무실, 아파트의 공용부분은 매일 사용하기 때문에 다음 날에도 업무 및 거주환경을 쾌적하게 유지할 수 있도록 그날 발생된 이물을 처리하고 제거해야 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>견적서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2356079&cid=51373&categoryId=51373",
+			"description":" <b>청소<\/b>를 위한 각종 경비를 포함하여 필요한 가격을 미리 산출하고, 구체적인 내용을 기재한 서식.  <b>청소<\/b>견적서는 각 작업 내용별로 섹션을 분리하여 기술하고 소계를 산출하여 고객이 최대한 이해할 수 있도록... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209155811113_M14TKEQSV.jpg\/ba17_3251_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>효율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5672056&cid=51399&categoryId=51399",
+			"description":"<b>청소<\/b>효율이 높을수록 흡입력 대비 전기료가 적습니다. ㆍ<b>청소<\/b>효율이 아닌 '에너지 효율등급'은 대부분 3 ~ 5등급이므로 구분의 의미가 크지 않습니다. <b>청소<\/b>효율",
+			"thumbnail":""
+		},
+		{
+			"title":"로봇<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2412958&cid=51399&categoryId=51399",
+			"description":"필터에 쌓이는 먼지를 내부의 팬을 이용하여 주기적으로 <b>청소<\/b>해줍니다. 약 10일에 한 번 정도 제품 내부에 장착된 브러시형 팬이 회전하면서 필터에 붙어있는 먼지를 제거하는 기능입니다. 하지만 먼지만 살짝... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>견적서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2048837&cid=42279&categoryId=42279",
+			"description":" <b>청소<\/b>에 소요되는 비용의 견적 내용을 기록한 서식.  견적서는 거래 당사자 간의 신규거래 또는 새로운 품목거래 개설을 위하여 거래가격 및 조건을 미리 알아보고 결정하기 위해서 공급자가 주문자에게... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129010124355_6L1VMMKJR.jpg\/hb10_12549_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"자동<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2424038&cid=51399&categoryId=51399",
+			"description":"에어컨 내부의 습기를 제거하여 곰팡이, 세균등의 번식을 억제하는 기능입니다. 에어컨 운전 중 <b>청소<\/b>기능을 선택하면 운전 종료 후 자동<b>청소<\/b>가 실행되며, 약 3분간 작동 후 꺼집니다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>동물",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1017016&cid=50317&categoryId=50317",
+			"description":"<b>청소<\/b>동물해양과학용어사전 부패하고 있는 동물의 사체, 배설물 등을 먹는 동물. 외국어 표기 scavenger(영어), 淸掃動物(한자) <b>청소<\/b>동물해양용어사전 죽은 동물을 먹고사는 동물을 칭한다. 외국어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>의자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2422667&cid=51399&categoryId=51399",
+			"description":"편하게 앉아서 <b>청소<\/b>를 할 수 있는 <b>청소<\/b>의자입니다. 자유자재로 방향전환이 가능하며 걸레질을 할 때, 용이하게 사용할 수 있습니다. 무거운 화분과 짐을 옮길 때도 사용할 수 있으며, 소음이 적고 방바닥의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기계<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=506291&cid=50321&categoryId=50321",
+			"description":"기계는 정상사용을 유지하기 위해 <b>청소<\/b>하고 때로는 검사해서 손상이 발생했을 때는 이것을 수리해야 한다. 이러한 작업을 실시할 때 작업자의 잘못으로 상해를 당할 가능성이 크므로 기계는 반드시 운전을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>부선",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=400059&cid=42441&categoryId=42441",
+			"description":"광미 속에는 언제나 유용광물이 약간은 흘러 나가며 이것을 다시 회수 할만한 가치가 있다고 인정되면 <b>청소<\/b>부선기에 의해 <b>청소<\/b>하게 된다. 그 이상 더 회수하는 것이 경제적으로 불리할 때에는 광미로 버린다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>새우과",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%86%8C%EC%83%88%EC%9A%B0%EA%B3%BC",
+			"description":"<b>청소<\/b>새우과 (Stenopodidae)는 십각목에 속하는 갑각류과의 하나이다. 하위 분류 Juxtastenopus Goy, 2010 Odontozona Holthuis, 1946 † Phoenice Garassino, 2001 Richardina A. Milne... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보령 <b>청소<\/b>역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2030130&cid=42856&categoryId=42856",
+			"description":"[개요] <b>청소<\/b>역은 장항선의 철도역이다. <b>청소<\/b>역사는 장항선에서 남아있는 가장 오래된 역사로서, 원형이 잘 보존되어 있어 건축적·철도역사적 가치가 큰 것으로 평가되어 등록문화제 제305호로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아침<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5761332&cid=64498&categoryId=64506",
+			"description":"해인사 승가대학 학생들이 아침 <b>청소<\/b>를 하고 있다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_2\/20190503220434545_4050MA4QT.jpg\/Y2xpY2tqMjAwMXwz.jpg?type=m160_160"
+		},
+		{
+			"title":"선창<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=382969&cid=50305&categoryId=50305",
+			"description":"화물이 양화된 후 다음 항에서 화물이 선적되기 전에 선창을 <b>청소<\/b>하는 것. 이러한 작업은 일반적으로 본선 직원에 의하여 행하여진다.",
+			"thumbnail":""
+		},
+		{
+			"title":"스팀<b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2415419&cid=51399&categoryId=51399",
+			"description":"내부에 붙은 이물질을 스팀으로 불려줍니다. 불린 이물질은 마른행주나 키친타월로 닦아주면 깨끗해집니다. 단, 기름기가 많거나 눌어붙은 음식물은 세정제와 수세미로 <b>청소<\/b>해주는 것이 좋습니다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_1\/20141229132513971_MQ5NT554H.jpg\/fh2_234996_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"보령 <b>청소<\/b>역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2324671&cid=42927&categoryId=42927",
+			"description":"▶ 문화유산채널의 이미지 문화유산 &quot;푸른 내음 가득한 곳, 보령 <b>청소<\/b>역&quot; 편 감상 [출처원문보기] [푸른 내음 가득한 곳, 보령 <b>청소<\/b>역] (동영상 출처 : 문화유산채널) <b>청소<\/b>역은 1동, 1층 규모로 건축면적 79.... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/04\/20\/26\/531C04F3C35DF32C78E3E251533F3B13DC5_muploader_j_480P_854_1024_128_s152.jpg#152x86#m"
+		},
+		{
+			"title":"보령 <b>청소<\/b>역",
+			"link":"http:\/\/www.cha.go.kr\/korea\/heritage\/search\/Culresult_Db_View.jsp?mc=NS_04_03_01&VdkVgwKey=79,03050000,34",
+			"description":"<b>청소<\/b>역은 1동, 1층 규모로 건축면적 79.95㎡, 철로길이 좌·우 각각 150m이다. <b>청소<\/b>역은 장항선로의 역사이다. 장항선은 본래 사설의 조선경남철도주식회사에 의하여 충남선이라는 이름으로 천안~온양... ",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/2943_000_24\/20210830104308312_1MEJGWSEU.jpg\/1668578.jpg?type=m160_160"
+		},
+		{
+			"title":"보령 <b>청소<\/b>역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1262244&cid=40942&categoryId=33385",
+			"description":" 충청남도 보령시 <b>청소<\/b>면 진죽리에 있는 역사. 2006년 12월 4일 국가등록문화재로 지정되었다.  1929년 역원 배치 간이역으로 시작한 <b>청소<\/b>역이 1958년 9월 보통역으로 승격한 후 1961년에 건축한 벽돌조... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20210126_195\/uZkEm_1611647099184rGNY6_JPEG\/19875324-5faa-11eb-a803-a0369ff94ec8_02.jpg#3840x2160#m"
+		},
+		{
+			"title":"<b>청소<\/b>용 로봇",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=303263&cid=50349&categoryId=50349",
+			"description":"집안의 바닥뿐만 아니라 가구 및 구석 <b>청소<\/b> 등이 가능한 이동 로봇.",
+			"thumbnail":""
+		},
+		{
+			"title":"외면 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=583563&cid=42328&categoryId=42328",
+			"description":"보일러 설비를 충분히 냉각하고 그 전열면(노 내의 보일러 외면), 과열기나 이코노마이저 또는 공기 예열기 등의 전열면에 부착한 그을음, 카본, 재 등을 제거하고 <b>청소<\/b>하는 것과 연도나 노 내의 그을음이나 재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"꼼꼼 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2420675&cid=51399&categoryId=51399",
+			"description":"집안을 사각형 공간으로 나눠서 <b>청소<\/b>합니다. 1, 2단계가 완료되면 다음 <b>청소<\/b> 영역으로 이동하여 같은 방식으로 <b>청소<\/b>해줍니다. 꼼꼼<b>청소<\/b> 단계별 <b>청소<\/b>방식 1단계 : <b>청소<\/b> 영역 외곽 <b>청소<\/b> (최대 3m x 3m) 2단계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내면 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=582356&cid=42328&categoryId=42328",
+			"description":"보일러를 완전히 냉각하여 보일러 내면에 생성하여 부착, 퇴적해 있는 스케일, 슬러지 그 밖의 불순물을 <b>청소<\/b>, 제거하는 작업. 내면 <b>청소<\/b>의 방법으로서 원통 보일러에서는 주로 기계적인 <b>청소<\/b>법이, 수관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인종 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5946205&cid=40942&categoryId=33368",
+			"description":"인종 <b>청소<\/b>는 특정 인종이나 민족을 강제적으로 배제하고 말살하려는 행위나 정책을 일컫는다. 유엔(UN) 전문가위원회에서는 인종 <b>청소<\/b>를 '폭력과 공포 수단을 동원하여 특정 지역에서 민족적·종교적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부분 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2419109&cid=51399&categoryId=51399",
+			"description":"<b>청소<\/b>를 원하는 부분에 <b>청소<\/b>기를 이동시키면 약 1.5 m x 1.5 m 영역을 <b>청소<\/b>합니다. 좁은 영역에 과자 부스러기 등이 떨어져 있을 때 간편하게 <b>청소<\/b>할 수 있습니다. <b>청소<\/b>가 완료되면 제자리에서 동작을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b> 당번",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3653382&cid=59416&categoryId=59416",
+			"description":"'<b>청소<\/b> 당번' 음악 듣기] (동영상 출처 : 초등 교과서 음악) [ 2. '<b>청소<\/b> 당번' 가사] 1 오늘 아침은 내가 내가 <b>청소<\/b> 당번 눈 비비며 대문을 나섰네 벌써 벌써 교실에는 내 짝궁이 안녕 하고 맞아주네 하늘은 말게... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20170906_200\/AEc3E_1504704866715l3T2y_JPEG\/531C05F3E322F38C85337E0C93682A33804_muploader_d_480P_854_1024_128_logo.jpg?type=f640#640x362#m"
+		},
+		{
+			"title":"<b>청소<\/b> 구멍",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=584129&cid=42328&categoryId=42328",
+			"description":"보일러나 압력 용기의 좁은 곳, 복잡한 곳 등 사람이 들어가 <b>청소<\/b>하는 것이 불가능한 곳에 외부로부터 손을 넣어 드럼 안 등을 <b>청소<\/b>할 목적으로 설치한 구멍. 이 구멍의 크기는 타원형의 경우, 장경 90㎜ 이상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"격자 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2423826&cid=51399&categoryId=51399",
+			"description":"<b>청소<\/b>영역 내에서 Z형을 그리며 각 모서리까지 꼼꼼하게 <b>청소<\/b>합니다. 구석<b>청소<\/b> 모드와 달리, 중앙까지 가로지르기 때문에 더욱 깨끗한 <b>청소<\/b>를 도와줍니다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_4\/20180907180250758_IHGR9SCAY.gif\/fh2_504332_i1.gif?type=m160_160"
+		},
+		{
+			"title":"예약 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2414782&cid=51399&categoryId=51399",
+			"description":"시간을 미리 설정해두어 부재 중에도 알아서 <b>청소<\/b>합니다. 원하는 <b>청소<\/b> 모드, 시간, 흡입력 등을 선택한 후 예약 버튼을 누르면 예약 시간에 자동으로 <b>청소<\/b>를 시작합니다. 예약 <b>청소<\/b>",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_1\/20141229154448650_6N8AJ126H.jpg\/fh2_228192_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"수동 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2419110&cid=51399&categoryId=51399",
+			"description":"리모컨으로 로봇<b>청소<\/b>기를 직접 이동 시키면서 <b>청소<\/b>할 수 있습니다. 수동<b>청소<\/b>는 리모컨 조정으로만 가능하며 충전기에 붙어 있는 경우 수동<b>청소<\/b>를 실행하지 않습니다.",
+			"thumbnail":""
+		},
+		{
+			"title":"민족 <b>청소<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AF%BC%EC%A1%B1_%EC%B2%AD%EC%86%8C",
+			"description":"민족 <b>청소<\/b> (民族淸掃, ethnic cleansing ) 또는 인종 <b>청소<\/b> (人種淸掃)는 이방인 또는 적대적인 민족을 배제·말살함으로써 그 민족이나 인종이 뿌리내리지 못하도록 하는 정책을 통틀어 일컫는다. 이 용어에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반복 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2419111&cid=51399&categoryId=51399",
+			"description":"배터리 잔량이 남지 않을 때까지 반복하여 <b>청소<\/b>합니다. 충전기에서 <b>청소<\/b>를 시작하면 출발 위치를 기억하므로 충전 복귀 시간이 단축됩니다. 충전후 남은 <b>청소<\/b> 구역으로 이동하여 <b>청소<\/b>를 이어서 진행합니다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"집중 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2420674&cid=51399&categoryId=51399",
+			"description":"원으로 돌면서 반경 1 m 공간을 집중적으로 <b>청소<\/b>합니다. 집중<b>청소<\/b>가 필요한 곳에 <b>청소<\/b>기를 두면 반경 1 m 공간을 돌면서 <b>청소<\/b>한 후 시작 위치에서 정지합니다. 과자를 먹은 자리나 퇴근시간 후 사람들이 많이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관 <b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=582227&cid=42328&categoryId=42328",
+			"description":"주로 수관 내부에 부착한 스케일 제거를 기계적 방법으로 하는 경우에 사용하는 기계로서, 관 <b>청소<\/b>기는 플렉시블 샤프트 외관속에 플렉시블 샤프트를 넣고, 이 샤프트의 선단에 필요한 스케일링 머신을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0595_000_1\/20110412165814524_5RPGH990C.jpg\/i-a227-1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b> 동물",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%86%8C_%EB%8F%99%EB%AC%BC",
+			"description":"<b>청소<\/b> 동물 (淸掃動物, scavenger) 또는 시체식 (屍體食)은 포식 외의 원인으로 사망한 생물을 소비하는 동물이다. 즉, 다른 동물을 사냥하지 않고 서식지에 있는 죽은 동물 및 식물 재료(plant material)를 먹는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보령 <b>청소<\/b>역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2808606&cid=55632&categoryId=55632",
+			"description":"<b>청소<\/b>역은 1929년 역원 배치 간이역으로 영업을 개시하여 1958년 9월 보통역으로 승격한 후 1961년에 지어진 벽돌조 역사이다. 원래의 명칭은 인근 마을의 이름을 따서 진죽역으로 불렀지만 1988년 '<b>청소<\/b>역... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3920_000_1\/20150522110226446_87R5N44WD.jpg\/da13_a_45_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b> 공생",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=373929&cid=50328&categoryId=50328",
+			"description":"다른 종의 동물체에 붙어 있는 기생충이나 죽은 조직 등을 먹어서 <b>청소<\/b>하는 동물(cleaner)과 그 <b>청소<\/b>의 도움을 받는 동물(customer)간의 공생관계.",
+			"thumbnail":""
+		},
+		{
+			"title":"사원 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5904963&cid=65746&categoryId=66448",
+			"description":"사원의 구석구석을 정성을 들여 <b>청소<\/b>를 한다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_19\/20200106194055924_OZOGPAML4.jpg\/c2oxMDAwbG92ZXwz.jpg?type=m160_160"
+		},
+		{
+			"title":"구석 <b>청소<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2423827&cid=51399&categoryId=51399",
+			"description":"방 모서리를 따라 한바퀴 돌며 벽면 구석을 <b>청소<\/b>해줍니다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_4\/20180907180253239_O3Q8T6C09.gif\/fh2_504333_i1.gif?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b> 공장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=623587&cid=50330&categoryId=50330",
+			"description":"지방 자치체가 하는 <b>청소<\/b> 사업에 의한 쓰레기 소각 처리 시설.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b> 구멍",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=627529&cid=50330&categoryId=50330",
+			"description":"보일러 내부를 <b>청소<\/b>하기 위해 사용하는 구멍으로, 원형 또는 타원형이다. 연관 보일러와 버티컬 보일러 등의 하부에 설치한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b> 공장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6051897&cid=67350&categoryId=67350",
+			"description":"[환경 및 설비] 지자체가 실시하는 공공<b>청소<\/b>사업에 의해 수집된 쓰레기 및 폐기물을 소각하여 처리하는 공공사업시설. 참고 : 건축학용어사전, 세화",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b> 작업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2310045&cid=60227&categoryId=60227",
+			"description":"선광 작업에서는 먼저 원광을 대충 골라 실수득률을 떨어뜨리지 않고 품위를 높이는데, 그 미광(尾鑛)에도 어느 정도의 광물이 잔류한다. 그 잔류 광물을 더 회수하는 공정을 <b>청소<\/b> 작업이라 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>솔 3종",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2421829&cid=51399&categoryId=51399",
+			"description":"기존 1가지로 구성되어 있던 <b>청소<\/b>솔이 3가지가 되었습니다.(2013년형 휴롬) ㆍ구성: <b>청소<\/b>솔 대, <b>청소<\/b>솔 소, 회전 <b>청소<\/b>솔",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_4\/20180907175141300_P7I6I5RKZ.gif\/fh2_423538_i1.gif?type=m160_160"
+		},
+		{
+			"title":"다기능<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3012&cid=43659&categoryId=43659",
+			"description":"목재회사나 주물공장 등에서 발생하는 톱밥이나 쇳가루 등 각종산업 쓰레기를 처리하는 <b>청소<\/b>기. 압축공기를 이용해 각종 작업장에서 발생하는 쇳가루를 비롯한 고체나 액체 기체 등을 빨아들여 <b>청소<\/b>한다. 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>초등학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%86%8C%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+			"description":"<b>청소<\/b>초등학교 는 충청남도 보령시 <b>청소<\/b>면 진죽리에 있는 공립 초등학교이다. 학교 연혁 학교 동문 참고 자료 <b>청소<\/b>초등학교 - 한국교육학술정보원 학교알리미 외부 링크 <b>청소<\/b>초등학교 - 공식 웹사이트",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>근무일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3608509&cid=42279&categoryId=42279",
+			"description":" <b>청소<\/b> 근무 일지란 <b>청소<\/b>를 담당하는 직원이 일별로 근무 현황을 기재한 양식이다.  <b>청소<\/b> 근무 일지란 건물이나 지역, 단지 등의 <b>청소<\/b>를 담당하는 이가 일별로 근무 상황을 기재한 양식을 말하며, <b>청소<\/b> 근무... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_16\/20170705145809374_WVSIIXSCB.jpg\/hb10_83836_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>초등학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1174555&cid=40942&categoryId=37404",
+			"description":" 충청남도 보령시 <b>청소<\/b>면 진죽리에 있는 공립초등학교로 1936년 개교하였다.  충청남도 보령시 <b>청소<\/b>면 진죽리에 있는 공립초등학교이다. 1936년 5월 28일 개교하였으며 1951년 9월 19일 죽림분교장을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_367\/20200903072313014_PMINSS76I.jpg\/11474002.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>청소<\/b>놀래기속",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%86%8C%EB%86%80%EB%9E%98%EA%B8%B0%EC%86%8D",
+			"description":"<b>청소<\/b>놀래기속 은 인도양과 태평양에서 발견되는 놀래기과 물고기이다. <b>청소<\/b>놀래기속에 속하는 물고기들은 <b>청소<\/b> 물고기입니다. 종 현재 이 속에서 인정받은 종은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>청소<\/b>노동자",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%86%8C%EB%85%B8%EB%8F%99%EC%9E%90",
+			"description":"<b>청소<\/b>노동자 (淸掃勞動者, 영어: cleaner, cleaning operative )는 <b>청소<\/b>하는 일을 직업으로 하는 노동자로, 직상수급인인 <b>청소<\/b>용역업체가 도급인과 계약을 맺어 직상수급인 자신이 맡은 일을 스스로 하거나, 하청에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진공<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3439596&cid=58470&categoryId=58470",
+			"description":"집안 구석구석의 먼지를 순식간에 제거해 주는 편리한 <b>청소<\/b>도구인 ‘<b>청소<\/b>기’는 언제, 누가 발명했을까? 진공<b>청소<\/b>기는 공기 펌프를 거꾸로 돌리는 기본 아이디어를 응용한 것으로, 1871년 미국의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4620_000_1\/20160902105310473_0MX2D4KWM.jpg\/da18_53_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"굴뚝<b>청소<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2267861&cid=51089&categoryId=51089",
+			"description":"굴뚝<b>청소<\/b>부(Schornsteinfeger)다. 영어권에서는 ‘Chimney Sweep’ 또는 ‘Chimney Sweeper’로 부른다. 유럽에서 굴뚝<b>청소<\/b>부는 중세부터 이어져 온 직업이다. 굴뚝<b>청소<\/b>부는 굴뚝 내벽에 붙은 재와 검댕을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3498_000_1\/20141010130303434_JQI07M8QD.jpg\/ea25_57_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"진공<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2464403&cid=51399&categoryId=51399",
+			"description":"일반적으로 가정에서 많이 사용되는 <b>청소<\/b>기로, 공기의 압력을 이용한 강한 흡입력으로 주위에 떨어진 먼지나 쓰레기를 흡입해 줍니다. 흡입구에 솔이나 물걸레 등을 부착하여 용도에 맞게 사용할 수 있습니다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_4\/20150319101543454_U3JMXWUAV.jpg\/fh2_55003213_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"로봇<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2464301&cid=51399&categoryId=51399",
+			"description":"스스로 움직이며 <b>청소<\/b>를 하므로 시간을 절약할 수 있고 손이 닿지 않는 곳의 미세한 먼지나 머리카락 등을 <b>청소<\/b>할 때 편리한 제품입니다. 일반 <b>청소<\/b>기능 이외에도 예약기능이나 자동충전기능, 물걸레기능... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_4\/20150319101428011_58QXA46RL.jpg\/fh2_55003208_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"로봇<b>청소<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2415041&cid=51399&categoryId=51399",
+			"description":"<b>청소<\/b>기가 스스로 이동하며 먼지 흡입, 흡입+물걸레 <b>청소<\/b>를 합니다. * 장점: 직접 <b>청소<\/b>하는 시간을 절약할 수 있음 * 단점: 보조<b>청소<\/b>용으로 흡입력이 강하지 못함",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_3\/20141231180821126_SV1BEYF3O.jpg\/fh2_231659_i1.jpg?type=m160_160"
+		}
+	]
+}

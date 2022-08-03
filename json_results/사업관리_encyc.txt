@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:50 +0900",
+	"total":32712,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>사업 관리<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2757531&cid=50304&categoryId=50304",
+			"description":"<b>사업<\/b>과 관련된 이해 관계자의 요구 사항을 충족시키기 위하여 관련 지식, 기술, 도구, 기법 등을 사용하여 모든 과정을 체계적으로 조직화함으로써 <b>사업<\/b>의 성공적 완결을 보장하는 활동.",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=20692&cid=43659&categoryId=43659",
+			"description":"미국은 공공기관의 만성적인 공기 지연과 예산초과를 바로잡기 위해서 1960년에 건설<b>사업관리<\/b>를 처음 도입했고, 한국은 삼풍백화점과 성수대교 붕괴 등으로 건설산업 불신 문제가 커진 후인 1997년에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1711290&cid=43667&categoryId=43667",
+			"description":"특히 건설<b>사업관리<\/b> 중에서 책임형 CM(CM at risk)은 CM업체가 공사비 최대한도와 공사기간을 미리 정해 놓고 이를 초과하는 부분에 대해 책임을 지면서, 직접 공사를 수행하는 방식이다. 최대 공사비 한도를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국방<b>사업관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6598285&cid=42114&categoryId=42114",
+			"description":" 국방<b>사업관리<\/b>사란 응시자격을 갖춘 자가 방위<b>사업<\/b>교육원에서 시행하는 국방<b>사업관리<\/b>사 시험에 합격한 후 자격을 취득한 자를 말한다. 응시자는 과목당 100점을 만점으로 하여 매 과목 40점 이상, 전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627240&cid=42117&categoryId=42117",
+			"description":" 건설공사 발주자의 입장에서 건설공사의 기본구상 및 타당성 조사·<b>관리<\/b>, 계약<b>관리<\/b>, 설계<b>관리<\/b>, <b>사업<\/b>비<b>관리<\/b>, 공정<b>관리<\/b>, 품질<b>관리<\/b>, 안전<b>관리<\/b>, 환경<b>관리<\/b>, 준공 후 사후<b>관리<\/b> 등을 수행하여 건설공사를 원활히 진행... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업관리<\/b>본부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC%EB%B3%B8%EB%B6%80",
+			"description":"<b>사업관리<\/b>본부 (事業管理本部)는 방위력개선<b>사업<\/b>의 <b>관리<\/b>에 관한 사무를 관장하는 대한민국 방위<b>사업<\/b>청의 소속기관이다. 군인을 제외한 정원은 488명이며, 본부장은 고위공무원단 가등급에 속하는 일반직공무원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6413383&cid=42094&categoryId=42094",
+			"description":"건설<b>사업관리<\/b>란 건설공사의 기획 · 타당성조사 · 분석 · 설계 · 조달 · 계약 · 시공<b>관리<\/b> · 감리 · 평가 · 사후<b>관리<\/b> 등 <b>관리<\/b>업무의 전부 또는 일부를 맡아서 수행하는 것을 말한다. 건설공사는 전문적이고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사용<b>사업관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3382694&cid=42279&categoryId=42279",
+			"description":" 사용<b>사업관리<\/b>대장이란 파견근로자 사용업체에서 준비해야 하는 점검 서식이다.  파견근로자란 파견<b>사업<\/b>주가 고용한 근로자로써 근로자파견의 대상이 되는 자를 말한다. 근로자파견의 기간은 원칙적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510120823569_VOIFVF7AW.jpg\/hb10_21661_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"사용<b>사업관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2781487&cid=51373&categoryId=51373",
+			"description":" 파견근로자에 관한 사항을 기재하는 서식.  파견은 <b>사업<\/b>주가 고용한 근로자의 보직 소속을 바꾸지 않고 일정기간 타기관으로 이동시켜 해당 기관 및 단체에서 임시로 근무하게 하는 것을 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508204415690_IMJEVEOKK.jpg\/ba17_20971_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가맹<b>사업관리<\/b>자",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%80%EB%A7%B9%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC%EC%9E%90",
+			"description":"가맹<b>사업관리<\/b>자 (加盟事業管理者)는 하나의 프렌차이즈 <b>사업<\/b>이 발전하는 과정 가운데, 해당 가맹점을 지원, <b>관리<\/b>하는 직업을 의미한다. 지원 활동 외에 교육 프로그램, 공동 프로모션과 같은 가맹점에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"총괄<b>사업관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=16974&cid=43659&categoryId=43659",
+			"description":"효율적인 <b>사업<\/b> 추진과 도시기반시설의 계획•설치 업무 등을 위해 도입되었다. 2007년 현행 도시재정비촉진법상 주택공사, 토지공사와 지방공사가 총괄<b>사업관리<\/b>자로 지정될 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1251170&cid=40942&categoryId=31851",
+			"description":"건설<b>사업관리<\/b>전문가(CMP)는 전문지식과 실무경험에 입각한 건설<b>사업<\/b>의 구상단계에서부터 계획단계, 설계단계, 구매조달단계, 시공단계, 유지<b>관리<\/b>단계에 걸쳐서 일어나는 업무를 <b>사업<\/b>범위<b>관리<\/b>, 공사비<b>관리<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업<\/b> 성과 <b>관리<\/b> 체계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2757541&cid=50307&categoryId=50307",
+			"description":"측면의 관계를 설정하고, 실적 가치 지표를 통하여 진행 상황의 객관적 측정 · 실제 비용 집계 · 계획에 대한 편차 분석 · 마일스톤 달성 예측 · 예측 비용 추정 · 기준선에 변경 · 통합하는 <b>사업 관리<\/b> 기법.",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>실적현황표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2831135&cid=42279&categoryId=42279",
+			"description":" 건설산업기본법 시행규칙에 의한 건설<b>사업관리<\/b>실적현황표 행정서식.  건설산업기본법 시행규칙 [시행 2015. 8. 1.] [국토교통부령 제168호, 2014. 12. 31., 일부개정]에 의한 [서식 22의3]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723170505153_HVY7GHTOS.jpg\/hb10_17569_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사업관리<\/b>기관 및 부서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6480933&cid=55599&categoryId=55599",
+			"description":"무기 체계 또는 장비 체계, 물자 등을 연구 개발 또는 구매함에 있어서 해당 <b>사업<\/b>에 대한 모든 계획, 집행 및 사후 <b>관리<\/b>까지 직접적인 책임을 담당하고 있는 부서로서 <b>사업 관리<\/b>본부, 국책 <b>사업<\/b>단, 각 군(군수사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>자재무정보현황표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833143&cid=42279&categoryId=42279",
+			"description":" 건설산업기본법 시행규칙에 의한 건설<b>사업관리<\/b>자재무정보현황표 행정서식.  건설산업기본법 시행규칙 [시행 2014. 8. 7.] [국토교통부령 제120호, 2014. 8. 7., 타법개정]에 의한 [서식 22의4]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723184426490_ZNWXU9ZZY.jpg\/hb10_19577_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"건설<b>사업관리<\/b>관련인력보유현황표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833316&cid=42279&categoryId=42279",
+			"description":" 건설산업기본법 시행규칙에 의한 건설<b>사업관리<\/b>관련인력보유현황표 행정서식.  건설산업기본법 시행규칙 [시행 2014. 8. 7.] [국토교통부령 제120호, 2014. 8. 7., 타법개정]에 의한 [서식 22의5]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723202141523_2YXYOPB0N.jpg\/hb10_19750_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사업 관리<\/b> 기관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2757532&cid=50307&categoryId=50307",
+			"description":"<b>사업<\/b> 종결 시까지의 제반 업무에 대한 <b>관리<\/b> 책임이 있는 주된 기관. 방위<b>사업<\/b>청, 각 군, 국직(국방부 직할) 부대 및 기관, 국방과학연구소, <b>사업 관리<\/b>단(PMO)과 특정 <b>사업<\/b>을 <b>관리<\/b>하도록 지정된 국본, 합참의 부서.",
+			"thumbnail":""
+		},
+		{
+			"title":"인사<b>관리<\/b><b>사업<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6512538&cid=51373&categoryId=51373",
+			"description":" 인사<b>관리<\/b><b>사업<\/b>을 목표로 작성하는 계획서 양식.  인사<b>관리<\/b><b>사업<\/b>계획서는 사회적 활동이 많거나 사회적 지위가 높은 사람들을 <b>관리<\/b>하고자 하는 <b>사업<\/b>을 목표로 작성하는 계획서이다. 이 계획서를 작성함으로써... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015143446014_MBQW2RZUG.jpg\/ba17_38621_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사업관리<\/b>형CM",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=14746&cid=43659&categoryId=43659",
+			"description":"이 방식은 총 공사비의 10~15%에 달하는 건설업체의 <b>관리<\/b>비 및 이윤이 5~6% 수준에 불과한 CM 용역비로 대체되기 때문에 <b>사업<\/b>비를 획기적으로 절감할 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"강원도도로<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%95%EC%9B%90%EB%8F%84%EB%8F%84%EB%A1%9C%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"강원도 도로<b>관리<\/b><b>사업<\/b>소 는 강원도의 도로<b>관리<\/b> 사무를 관장하기 위하여 강원도청 산하에 설치된 <b>사업<\/b>소이다. <b>사업<\/b>소장은 지방서기관이나 지방기술서기관으로 보한다. 연혁 1946년 4월 1일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자동차<b>관리<\/b><b>사업<\/b> 신고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2830952&cid=42279&categoryId=42279",
+			"description":" 자동차<b>관리<\/b>법 시행규칙에 의한 자동차<b>관리<\/b><b>사업<\/b> 신고서 행정서식.  자동차<b>관리<\/b>법 시행규칙 [시행 2014. 8. 18.] [국토교통부령 제121호, 2014. 8. 18., 일부개정]에 의한 [서식 81] 자동차<b>관리<\/b><b>사업<\/b> 신고서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723165819166_4KYS62H4B.jpg\/hb10_17386_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"자동차<b>관리<\/b><b>사업<\/b> 등록증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2830953&cid=42279&categoryId=42279",
+			"description":" 자동차<b>관리<\/b>법 시행규칙에 의한 자동차<b>관리<\/b><b>사업<\/b> 등록증 행정서식.  자동차<b>관리<\/b>법 시행규칙 [시행 2014. 8. 18.] [국토교통부령 제121호, 2014. 8. 18., 일부개정]에 의한 [서식 78] 자동차<b>관리<\/b><b>사업<\/b> 등록증... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723165819274_P2GS63P6P.jpg\/hb10_17387_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사업<\/b>장폐기물<b>관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2781486&cid=51373&categoryId=51373",
+			"description":"<b>사업<\/b>장페기물<b>관리<\/b>대장은 <b>사업<\/b>장에서 발생된 폐기물의 처리 및 <b>관리<\/b>내역을 기록한 페기물<b>관리<\/b>법에 의한 별지 제 16호 서식이다. 일자별로 폐기물 처리내역을 작성하며 <b>사업<\/b>장에서 얼마의 폐기물의 배출되었고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508204414888_R8GM21G0I.jpg\/ba17_20970_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"충청북도도로<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B6%A9%EC%B2%AD%EB%B6%81%EB%8F%84%EB%8F%84%EB%A1%9C%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"충청북도도로<b>관리<\/b><b>사업<\/b>소 (忠淸北道道路管理事業所)는 충청북도 관내의 도로 유지 보수의 원활한 수행과 중장비의 운영·<b>관리<\/b>를 위하여 충청북도청 산하에 설치된 <b>사업<\/b>소이다. <b>사업<\/b>소장은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업<\/b>장폐기물 <b>관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2831011&cid=42279&categoryId=42279",
+			"description":" 폐기물<b>관리<\/b>법 시행규칙에 의한 <b>사업<\/b>장폐기물 <b>관리<\/b>대장 행정서식.  폐기물<b>관리<\/b>법 시행규칙 [시행 2014. 4. 30.] [환경부령 제553호, 2014. 4. 30., 타법개정]에 의한 [서식 36] <b>사업<\/b>장폐기물 <b>관리<\/b>대장... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723170032615_91PK3IEZY.jpg\/hb10_17445_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사업관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2071951&cid=42345&categoryId=42345",
+			"description":"발주자의 관점에서 프로젝트 생애주기를 전반에 걸쳐 <b>관리<\/b>하고, 이를 위해 수립, 실행, 차이분석, 조치를 직접 담당하며 계획과 조정의 역할을 수행함",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업관리<\/b>기관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6480932&cid=55599&categoryId=55599",
+			"description":"<b>사업<\/b>의 계약부터 종결 시까지 <b>사업<\/b> 계약, 일정 <b>관리<\/b>, 위험 <b>관리<\/b>, 형상 <b>관리<\/b>, 품질 <b>관리<\/b> 및 개발 시험 평가 등 관련된 제반 업무를 <b>관리<\/b>하는 주된 기관을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업 관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2757534&cid=50307&categoryId=50307",
+			"description":"방위<b>사업<\/b>청 또는 각 군 내에서 선정된 무기 또는 장비 체계를 마련하는 데 포함되는 모든 계획, 방향 및 과제의 통제와 관련 자원 등 전반에 걸쳐 전적인 권한을 행사하는 요원. 그 권한은 명시된 목표 달성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6480906&cid=55599&categoryId=55599",
+			"description":"각 군ㆍ기관 내에서 선정된 무기 또는 장비 체계를 마련하는 데 포함되는 모든 계획, 방향 및 과제의 통제와 관련 자원 등 전반에 걸쳐 전적인 권한을 행사하는 요원을 말한다. 그 권한은 명시된 목표 달성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자동차<b>관리<\/b><b>사업<\/b>등록신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2831521&cid=42279&categoryId=42279",
+			"description":" 자동차<b>관리<\/b>법 시행규칙에 의한 자동차<b>관리<\/b><b>사업<\/b>등록신청서 행정서식.  자동차<b>관리<\/b>법 시행규칙 [시행 2015. 1. 1.] [국토교통부령 제169호, 2014. 12. 31., 타법개정]에 의한 [서식 77]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723171943848_EGNI6SEHJ.jpg\/hb10_17955_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"부산광역시남항<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%82%A8%ED%95%AD%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"부산광역시남항<b>관리<\/b><b>사업<\/b>소 (釜山廣域市南港管理事業所)는 남항의 종합개발계획과 시설의 합리적 유지·<b>관리<\/b>에 관한 사무를 분장하는 부산광역시청의 <b>사업<\/b>소이다. 소장은 지방서기관으로 보한다. 설치... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대전광역시공원<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%EA%B3%B5%EC%9B%90%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"대전광역시공원<b>관리<\/b><b>사업<\/b>소 (大田廣域市公園管理事業所)는 대전광역시 공원시설의 효율적인 운영과 시민의 보건 휴양 및 정서함양에 기여하고 자연학습, 산림체험 등을 위하여 대전광역시청 산하에 설치된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대전광역시하천<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%ED%95%98%EC%B2%9C%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"대전광역시하천<b>관리<\/b><b>사업<\/b>소 (大田廣域市河川管理事業所)는 대전광역시 내의 금강, 갑천, 유등천, 대전천을 종합적이고 효율적으로 정비·<b>관리<\/b>하기 위하여 대전광역시청 산하에 설치된 <b>사업<\/b>소이다. <b>사업<\/b>소장은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현충 시설 <b>관리<\/b> <b>사업<\/b> (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2826477&cid=55772&categoryId=55846",
+			"description":"[정의] 부산광역시에서 시행되는 현충 시설 <b>관리<\/b>·감독 제도. [제정 경위 및 목적] 「부산광역시 국가 보훈 대상자 등 예우 및 지원에 관한 조례」는 「국가 유공자 등 예우 및 지원에 관한 법률」 제74조의 2... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718091423660_CQ6AGM1CL.jpg\/GC042P21740.jpg?type=m160_160"
+		},
+		{
+			"title":"전시<b>사업<\/b>자 등록 <b>관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2832371&cid=42279&categoryId=42279",
+			"description":" 전시산업발전법 시행규칙에 의한 전시<b>사업<\/b>자 등록 <b>관리<\/b>대장 행정서식.  전시산업발전법 시행규칙 [시행 2014. 7. 7.] [산업통상자원부령 제63호, 2014. 7. 7., 일부개정]에 의한 [서식 6] 전시<b>사업<\/b>자 (변경)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723181616507_ONQC6J2P5.jpg\/hb10_18805_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"우수 선박<b>관리<\/b><b>사업<\/b>자 인증서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2832683&cid=42279&categoryId=42279",
+			"description":" 선박<b>관리<\/b>산업발전법 시행규칙에 의한 우수 선박<b>관리<\/b><b>사업<\/b>자 인증서 행정서식.  선박<b>관리<\/b>산업발전법 시행규칙 [시행 2013. 3. 24.] [해양수산부령 제1호, 2013. 3. 24., 타법개정]에 의한 [서식 3] 우수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723182735844_FIXF8X0MR.jpg\/hb10_19117_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"정비<b>사업<\/b> 전문<b>관리<\/b>업자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6411401&cid=42094&categoryId=42094",
+			"description":"정비<b>사업<\/b> 전문<b>관리<\/b>업자를 선정한 경우에는 추진위원회 설립에 필요한 동의서 징구(徵求), 운영규정 작성 지원, 그 밖에 조례로 정하는 사항의 업무의 사항을 추진위원회 또는 <b>사업<\/b>시행자로부터 위탁받거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경상남도도로<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%EB%8F%84%EB%A1%9C%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"경상남도도로<b>관리<\/b><b>사업<\/b>소 (慶尙南道路管理事業所)은 지방자치법 제114조법 제114조에 따라 지방도 유지보수의 원활한 수행과 장비의 운영<b>관리<\/b>를 위하여 설치된 경상남도청 소속기관이다. 경상남도 창원시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전라북도도로<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EB%9D%BC%EB%B6%81%EB%8F%84%EB%8F%84%EB%A1%9C%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"전라북도도로<b>관리<\/b><b>사업<\/b>소 (全羅北道道路管理事業所)는 지방자치법 제114조에 따라 도로 유지·보수의 원활한 수행과 중장비의 운영<b>관리<\/b>를 위하여 설치된 전라북도청 소속기관이다. 전라북도 순창군 적성면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경상남도항만<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%ED%95%AD%EB%A7%8C%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"경상남도항만<b>관리<\/b><b>사업<\/b>소 (慶尙南道港灣管理事務所)은 지방자치법 제114조법 제114조에 따라 항만시설 <b>관리<\/b>‧운영, 선박‧화물 입출항 신고, 해양환경 단속 등에 관한 사무를 수행하기 위하여 설치된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장<b>사업<\/b>장자격<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025098&cid=42117&categoryId=42117",
+			"description":" 사회보장보험(국민건강보험, 국민연금, 고용보험, 산재보험) 대상 <b>사업<\/b>장의 자격<b>관리<\/b>를 위하여 <b>사업<\/b>장 신규가입·탈퇴·변동현황을 파악하여 처리한다. [수행직무] 국민건강보험, 국민연금, 고용 및 산재보험의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전라남도 도로<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84_%EB%8F%84%EB%A1%9C%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"전라남도 도로<b>관리<\/b><b>사업<\/b>소 (全羅南道 道路管理事業所)는 도로 유지보수의 원활한 수행과 중장비의 운영 <b>관리<\/b>를 위하여 전라남도 도로<b>관리<\/b><b>사업<\/b>소 설치된 전라남도청 소속기관이다. 전라남도 나주시 봉황면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철원군시설<b>관리<\/b><b>사업<\/b>소 (철원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6084012&cid=67394&categoryId=67419",
+			"description":"[정의] 강원도 철원군 동송읍 장흥리에 있는 철원군청 산하 시설물 <b>관리<\/b> <b>사업<\/b>소. [개설] 철원군시설<b>관리<\/b><b>사업<\/b>소는 철원군 관내의 다양한 안보 관광 시설 및 일반 시설들을 <b>관리<\/b>하는 철원군청 산하... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업<\/b> 시설 <b>관리<\/b> 및 <b>사업<\/b> 지원 서비스업 (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5785734&cid=64866&categoryId=64890",
+			"description":"[정의] 울산광역시의 산업 중 <b>사업<\/b> 시설 유지·<b>관리<\/b> 관련 서비스업과 <b>사업<\/b> 운영 지원 관련 서비스업을 통칭하는 업종. [개설] <b>사업<\/b> 시설 <b>관리<\/b> 및 <b>사업<\/b> 지원 서비스업은 <b>사업<\/b> 시설 <b>관리<\/b> 및 조경 서비스업과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"구리시 환경<b>관리<\/b><b>사업<\/b>소 (구리)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4337710&cid=59618&categoryId=59643",
+			"description":"[정의] 경기도 구리시의 환경 <b>관리<\/b> 및 개선 전담 조직. [설립 목적] 구리시 환경<b>관리<\/b><b>사업<\/b>소는 구리시의 대기 및 수질 <b>관리<\/b>, 자원 회수 시설 운영, 공원 녹지 <b>관리<\/b>, 수도 및 하수 분야를 전담 <b>관리<\/b>하기 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업<\/b> 시설 <b>관리<\/b> 및 <b>사업<\/b> 지원 서비스업 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825076&cid=55772&categoryId=55810",
+			"description":"[정의] 부산광역시의 산업 중 <b>사업<\/b> 시설을 유지 <b>관리<\/b>하거나 <b>사업<\/b> 운영과 관련된 지원 서비스를 제공하는 업종. [개설] <b>사업<\/b> 시설 <b>관리<\/b> 및 <b>사업<\/b> 지원 서비스업은 제9차 표준 산업 분류 개정[2007년 12월 28일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"성남시 영생<b>관리<\/b><b>사업<\/b>소 (성남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2601260&cid=51884&categoryId=53436",
+			"description":"[정의] 경기도 성남시 중원구 갈현동에 있는 시민 화장장. [개설] 중원구 갈현동에 위치한 성남시 영생<b>관리<\/b><b>사업<\/b>소는 자동 처리 시스템을 갖춘 화장장과 유골을 뿌릴 수 있는 유택동산, 유골을 안치할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정비<b>사업<\/b> 전문<b>관리<\/b>업 등록증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833019&cid=42279&categoryId=42279",
+			"description":" 도시 및 주거환경정비법 시행규칙에 의한 정비<b>사업<\/b> 전문<b>관리<\/b>업 등록증 행정서식.  도시 및 주거환경정비법 시행규칙 [시행 2014. 1. 1.] [국토교통부령 제54호, 2013. 12. 30., 타법개정]에 의한 [서식 13]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723183946781_6K552YQF9.jpg\/hb10_19453_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"우수 선박<b>관리<\/b><b>사업<\/b>자 인증대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833183&cid=42279&categoryId=42279",
+			"description":" 선박<b>관리<\/b>산업발전법 시행규칙에 의한 우수 선박<b>관리<\/b><b>사업<\/b>자 인증대장 행정서식.  선박<b>관리<\/b>산업발전법 시행규칙 [시행 2013. 3. 24.] [해양수산부령 제1호, 2013. 3. 24., 타법개정]에 의한 [서식 2] 우수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723184554607_6RL2IBWW1.jpg\/hb10_19617_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경기도공단환경<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EA%B8%B0%EB%8F%84%EA%B3%B5%EB%8B%A8%ED%99%98%EA%B2%BD%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"경기도공단환경<b>관리<\/b><b>사업<\/b>소 (京畿道公團環境管理事業所)는 지방자치법 114조에 따라 산업단지(국가·지방, 농공단지)내 오염물질 배출<b>사업<\/b>장을 <b>관리<\/b>하고 쾌적한 생활환경 조성과 민원서비스의 향상을 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정비<b>사업<\/b>전문<b>관리<\/b>업자등록부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2832639&cid=42279&categoryId=42279",
+			"description":" 도시 및 주거환경정비법 시행규칙에 의한 정비<b>사업<\/b>전문<b>관리<\/b>업자등록부 행정서식.  도시 및 주거환경정비법 시행규칙 [시행 2014. 1. 1.] [국토교통부령 제54호, 2013. 12. 30., 타법개정]에 의한 [서식 12]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723182548066_0K0I9F8F0.jpg\/hb10_19073_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"자동차<b>관리<\/b><b>사업<\/b>변경등록신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6512074&cid=51373&categoryId=51373",
+			"description":" 자동차<b>관리<\/b>에대한 <b>사업<\/b>변경을 신청하는 내용의 신청서.  자동차<b>관리<\/b><b>사업<\/b>변경신청서란 자동차<b>관리<\/b><b>사업<\/b>의 변경을 신청할 때 작성하는 문서로서 신청인(상호, 대표자 성명, 주민등록번호, 주소, 전화번호)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015144248801_VAAVHQ2SK.jpg\/ba17_39006_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"세종특별자치시시설<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"세종특별자치시 시설<b>관리<\/b><b>사업<\/b>소 (世宗特別自治市 施設管理事業所)는 세종특별자치시의 복지·문화·체육·공원·환경시설의 <b>관리<\/b>와 폐기물 처리·자원 재활용·도시청결 사무와 상하수도 시설의 효율적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서울특별시체육시설<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%EC%B2%B4%EC%9C%A1%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"서울특별시체육시설<b>관리<\/b><b>사업<\/b>소 (서울特別市體育施設管理事業所)는 서울시민의 체위향상과 체육진흥에 관한 사무를 분장하는 서울특별시청의 <b>사업<\/b>소이다. 소장은 지방서기관으로 보한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대구광역시시설안전<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%EC%8B%9C%EC%84%A4%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"대구광역시 시설안전<b>관리<\/b><b>사업<\/b>소 (大邱廣域市 施設安全管理事業所)는 대구광역시 내에 설치된 도로·건축물 등 각종 시설물의 안전점검과 유지·<b>관리<\/b>, 금호강 및 신천 종합개발<b>사업<\/b>으로 설치한 각종... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부산광역시체육시설<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EC%B2%B4%EC%9C%A1%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"부산광역시체육시설<b>관리<\/b><b>사업<\/b>소 (釜山廣域市體育施設管理事業所)는 시민의 체위향상과 체육진흥을 도모하고 각종 체육시설의 효율적인 <b>관리<\/b>운영에 관한 사무를 분장하는 부산광역시청의 <b>사업<\/b>소이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"근로자파견<b>사업<\/b> 허가<b>관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833045&cid=42279&categoryId=42279",
+			"description":" 파견근로자보호 등에 관한 법률 시행규칙에 의한 근로자파견<b>사업<\/b> 허가<b>관리<\/b>대장 행정서식.  파견근로자보호 등에 관한 법률 시행규칙 [시행 2012. 8. 2.] [고용노동부령 제64호, 2012. 8. 2., 일부개정]에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723184050997_GS89R4C7T.jpg\/hb10_19479_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"자동차<b>관리<\/b><b>사업<\/b> 변경등록신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833200&cid=42279&categoryId=42279",
+			"description":" 자동차<b>관리<\/b>법 시행규칙에 의한 자동차<b>관리<\/b><b>사업<\/b> 변경등록신청서 행정서식.  자동차<b>관리<\/b>법 시행규칙 [시행 2015. 1. 1.] [국토교통부령 제169호, 2014. 12. 31., 타법개정]에 의한 [서식 79] 자동차<b>관리<\/b><b>사업<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723184627903_YBHBTS33C.jpg\/hb10_19634_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"주택임대<b>관리<\/b>업 <b>사업<\/b>등록신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833318&cid=42279&categoryId=42279",
+			"description":" 주택법 시행규칙에 의한 주택임대<b>관리<\/b>업 <b>사업<\/b>등록신청서 행정서식.  주택법 시행규칙 [시행 2014. 8. 7.] [국토교통부령 제120호, 2014. 8. 7., 타법개정]에 의한 [서식 38의2] (자기<b>관리<\/b>형, 위탁<b>관리<\/b>형)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723202143740_DIA1C3N5U.jpg\/hb10_19752_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"우수 선박<b>관리<\/b><b>사업<\/b>자 인증신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833629&cid=42279&categoryId=42279",
+			"description":" 선박<b>관리<\/b>산업발전법 시행규칙에 의한 우수 선박<b>관리<\/b><b>사업<\/b>자 인증신청서 행정서식.  선박<b>관리<\/b>산업발전법 시행규칙 [시행 2013. 3. 24.] [해양수산부령 제1호, 2013. 3. 24., 타법개정]에 의한 [서식 1] 우수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723203245177_JIFRHDR7U.jpg\/hb10_20063_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사업<\/b>시설<b>관리<\/b> 및 <b>사업<\/b>지원 및 임대서비스업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6461247&cid=58453&categoryId=58453",
+			"description":"[해설] ㆍ <b>사업<\/b>시설 <b>관리<\/b> 및 조경 서비스업: 고객의 <b>사업<\/b>시설을 <b>관리<\/b> 또는 청소, 소독 및 방제 서비스를 수행하거나 산업장비 및 용품을 물리적, 화학적으로 세척하는 산업활동을 말한다. 조경<b>관리<\/b> 및 유지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부산광역시화명수목원<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%ED%99%94%EB%AA%85%EC%88%98%EB%AA%A9%EC%9B%90%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"부산광역시화명수목원<b>관리<\/b><b>사업<\/b>소 (釜山廣域市華明樹木園管理事業所)는 수목유전자원의 보전과 자원화 촉진 및 수목전시를 통한 생태체험교육장으로의 기능 등을 수행하는 부산광역시청의 <b>사업<\/b>소이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경상남도 도로 <b>관리<\/b> <b>사업<\/b>소 (창원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2636293&cid=51943&categoryId=54862",
+			"description":"[정의] 경상남도 창원시 의창구 대원동에 있는 경상남도 소속의 도로<b>관리<\/b> <b>사업<\/b>소. [설립목적] 경상남도 도로<b>관리<\/b><b>사업<\/b>소는 지방도로의 유지 보수를 비롯하여 재난·재해 대책, 노후·위험 교량 점검, 과적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청송군종합시설<b>관리<\/b><b>사업<\/b>소 (청송)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5736052&cid=63640&categoryId=63665",
+			"description":"[정의] 경상북도 청송군 청송읍 금곡리에 있는 청송군청 산하 기관. [개설] 청송군청의 조직은 본청[1실 10과 57담당], 직속기관[4과 15담당], <b>사업<\/b>소[1<b>사업<\/b>소 3담당], 읍면[1읍 7면 29담당], 의회[1과 1담당]로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정비<b>사업<\/b>전문<b>관리<\/b>업 등록신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833565&cid=42279&categoryId=42279",
+			"description":" 도시 및 주거환경정비법 시행규칙에 의한 정비<b>사업<\/b>전문<b>관리<\/b>업 등록신청서 행정서식.  도시 및 주거환경정비법 시행규칙 [시행 2014. 1. 1.] [국토교통부령 제54호, 2013. 12. 30., 타법개정]에 의한 [서식 11]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723203032285_NCF6I4CXG.jpg\/hb10_19999_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"공동처리 <b>사업<\/b>장폐기물 <b>관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833659&cid=42279&categoryId=42279",
+			"description":" 폐기물<b>관리<\/b>법 시행규칙에 의한 공동처리 <b>사업<\/b>장폐기물 <b>관리<\/b>대장 행정서식.  폐기물<b>관리<\/b>법 시행규칙 [시행 2014. 4. 30.] [환경부령 제553호, 2014. 4. 30., 타법개정]에 의한 [서식 37] 공동처리... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723203350315_19CYR8QVW.jpg\/hb10_20093_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"영암 문화 유적 <b>관리<\/b> <b>사업<\/b>소 (영암)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2611362&cid=51951&categoryId=55290",
+			"description":"[정의] 전라남도 영암군 군서면 동구림리에 있는 영암군청 산하 행정 기관. [개설] 영암 문화 유적 <b>관리<\/b> <b>사업<\/b>소는 1987년 1월 17일에 왕인 박사 유적지 <b>관리<\/b> 사무소로 개설되었다. 1986년 9월 29일에 장천리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"충청남도 백제문화단지<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84_%EB%B0%B1%EC%A0%9C%EB%AC%B8%ED%99%94%EB%8B%A8%EC%A7%80%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"충청남도 백제문화단지<b>관리<\/b><b>사업<\/b>소 (忠淸南道 百濟文化團地管理事業所, Baekje Cultrual Land )는 충청남도 백제문화단지 <b>관리<\/b> 사무를 관장하기 위하여 충청남도청 산하에 설치된 <b>사업<\/b>소이다. <b>사업<\/b>소장은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부산광역시 항만<b>관리<\/b><b>사업<\/b>소 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825361&cid=55783&categoryId=56436",
+			"description":"[정의] 부산광역시 서구 남부민동에 있는 부산광역시 산하의 부산 남항 <b>관리<\/b> <b>사업<\/b>소. [설립 목적] 부산광역시 항만<b>관리<\/b><b>사업<\/b>소는 「부산광역시 행정 기구 설치 조례」[조례 제4828호 제47조]에 의거... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718035307635_567YACCS5.jpg\/GC042P09337.jpg?type=m160_160"
+		},
+		{
+			"title":"부동산정비<b>사업관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024617&cid=42117&categoryId=42117",
+			"description":"신청에 관한 업무, 분양 및 <b>관리<\/b>처분계획의 수립에 관한 업무를 대행하거나 자문하는 일을 한다. 설계도서의 검토 및 공사비 변동내역을 검토한다. 그밖에 조합업무 중 조합이 요청하는 업무를 지원한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"함께하는 사례 <b>관리<\/b> <b>사업<\/b> (미추홀구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2623525&cid=51927&categoryId=53693",
+			"description":"[정의] 인천광역시 미추홀구에서 시행하는 대인 서비스 <b>사업<\/b>. [개설] 함께하는 사례 <b>관리<\/b> <b>사업<\/b>은 사회 복지 <b>사업<\/b>법 제2장의 ‘사회 복지 서비스의 실시’를 근거로, 지역 사회의 공공복지를 담당하는 지방 자치... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농수산물도매시장<b>관리<\/b><b>사업<\/b>소 (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5784519&cid=64862&categoryId=65055",
+			"description":"[정의] 울산광역시 남구 삼산동에 있는 공영 도매 시장 <b>관리<\/b> <b>사업<\/b>소. [설립 목적] 농수산물도매시장<b>관리<\/b><b>사업<\/b>소는 울산 지역 농수산물의 원활한 유통과 적정한 가격 유지를 통해 소비자의 이익을 보호하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진주시 매립장시설<b>관리<\/b><b>사업<\/b>소 (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2633652&cid=51942&categoryId=54808",
+			"description":"[정의] 경상남도 진주시 내동면에 있는 일반폐기물과 관련시설을 유지·<b>관리<\/b>하기 위해 설치된 <b>사업<\/b>소. [설립경위] 1990년 6월에 환경처로부터 매립지 적합통보를 받고, 1991년에 일반폐기물 매립장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부산광역시농산물도매시장<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%86%8D%EC%82%B0%EB%AC%BC%EB%8F%84%EB%A7%A4%EC%8B%9C%EC%9E%A5%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"부산광역시농산물도매시장<b>관리<\/b><b>사업<\/b>소 (釜山廣域市農産物都賣市場管理事業所)는 농산물의 원활한 유통 및 공정거래질서확립에 관한 사무를 분장하는 부산광역시청의 <b>사업<\/b>소이다. 엄궁... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신재생에너지<b>사업관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024363&cid=42117&categoryId=42117",
+			"description":"발전소가 완공되면 한국전력거래소 및 한국전력공사에 신청하여 계통연계를 하고 발전<b>사업<\/b>을 개시한다. 발전소운전원의 채용이나 에너지<b>관리<\/b>공단으로부터 발전차액 대상설비 설치확인 등 발전소 운영을 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서산시 문화체육시설<b>관리<\/b><b>사업<\/b>소 (서산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2599036&cid=51929&categoryId=54130",
+			"description":"[정의] 충청남도 서산시 갈산동에 있는 문화 체육 시설 <b>관리<\/b> <b>사업<\/b>소. [설립 목적] 서산시 문화체육시설<b>관리<\/b><b>사업<\/b>소는 웰빙 체육 공간 조성을 통한 시민의 체력 단련 및 건강 증진과 함께, 건전한 여가 선용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제수산물도매시장 <b>관리<\/b><b>사업<\/b>소 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825364&cid=55783&categoryId=56436",
+			"description":"[정의] 부산광역시 서구 암남동에 있는 부산광역시 산하의 국제 수산물 도매 시장 <b>관리<\/b> <b>사업<\/b>소. [설립 목적] 국제수산물도매시장 <b>관리<\/b><b>사업<\/b>소는 「부산광역시 행정 기구 설치 조례」[조례 제4828호 제48조의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718175650160_OH21QDGF7.jpg\/GC042P28417.jpg?type=m160_160"
+		},
+		{
+			"title":"반여농산물도매시장 <b>관리<\/b><b>사업<\/b>소 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825363&cid=55788&categoryId=56694",
+			"description":"[정의] 부산광역시 해운대구 반여동에 있는 부산광역시 산하의 농산물 도매 시장 <b>관리<\/b> <b>사업<\/b>소. [설립 목적] 반여농산물도매시장 <b>관리<\/b><b>사업<\/b>소는 「부산광역시 행정 기구 설치 조례」[조례 제4828호 제48조의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718084207144_UW0LZZWWY.jpg\/GC042P21334.jpg?type=m160_160"
+		},
+		{
+			"title":"부산광역시 체육시설<b>관리<\/b><b>사업<\/b>소 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825357&cid=55785&categoryId=56540",
+			"description":"[정의] 부산광역시 연제구 거제동에 있는 부산광역시 산하의 체육 시설 <b>관리<\/b> <b>사업<\/b>소. [설립 목적] 부산광역시 체육시설<b>관리<\/b><b>사업<\/b>소는 「부산광역시 행정 기구 설치 조례」[조례 제4828호 제37조]에 의거... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718150001585_VV3J7JNZ0.jpg\/GC042P25955.jpg?type=m160_160"
+		},
+		{
+			"title":"엄궁농산물도매시장 <b>관리<\/b><b>사업<\/b>소 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825362&cid=55781&categoryId=56337",
+			"description":"[정의] 부산광역시 사상구 엄궁동에 있는 부산광역시 산하의 농산물 도매 시장 <b>관리<\/b> <b>사업<\/b>소. [설립 목적] 엄궁농산물도매시장 <b>관리<\/b><b>사업<\/b>소는 「부산광역시 행정 기구 설치 조례」[조례 제4828호 제48조]에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718110418203_8A9II8BDV.jpg\/GC042P23079.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사업<\/b>체조경<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029650&cid=42117&categoryId=42117",
+			"description":" 녹지대의 조경수목, 잔디, 조경시설물 등 제반 경관시설을 효율적으로 유지<b>관리<\/b>하기 위해 작업방법 등 계획을 수립하고 녹화<b>관리<\/b> 작업의 감독 및 녹지대 순회점검 등 제반 <b>관리<\/b>업무를 한다. [수행직무]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"충청북도도로<b>관리<\/b><b>사업<\/b>소 충주지소 (충주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2645447&cid=51896&categoryId=53967",
+			"description":"[정의] 충청북도 충주시 용탄동에 있는 도로<b>관리<\/b><b>사업<\/b>소. [설립목적] 도로와 교량의 효율적인 유지·<b>관리<\/b>를 통하여 쾌적한 상태를 유지함과 동시에 안전사고를 예방하기 위해 설립되었다. [변천] 1988년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부산광역시 화명수목원<b>관리<\/b><b>사업<\/b>소 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825365&cid=55780&categoryId=56287",
+			"description":"[정의] 부산광역시 북구 화명동에 있는 부산광역시 산하의 화명 수목원 <b>관리<\/b> <b>사업<\/b>소. [설립 목적] 부산광역시 화명수목원<b>관리<\/b><b>사업<\/b>소는 「부산광역시 행정 기구 설치 조례」[조례 제4828호 제50조]에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718115934570_AJQWT3H0Q.jpg\/GC042P23725.jpg?type=m160_160"
+		},
+		{
+			"title":"경상남도 도로<b>관리<\/b><b>사업<\/b>소 진주지소 (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2631423&cid=51942&categoryId=54808",
+			"description":"[정의] 경상남도 진주시 초전동에 있는 진주 일원의 지방도에 대한 <b>관리<\/b>업무를 맡고 있는 기관. [개설] 경상남도 창원시에 본부를 둔 경상남도 도로<b>관리<\/b><b>사업<\/b>소의 진주 소재 지소이다. [설립목적] 도로건설을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전시<b>사업<\/b>자 등록신청 <b>관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833362&cid=42279&categoryId=42279",
+			"description":" 전시산업발전법 시행규칙에 의한 전시<b>사업<\/b>자 등록신청 <b>관리<\/b>대장 행정서식.  전시산업발전법 시행규칙 [시행 2014. 7. 7.] [산업통상자원부령 제63호, 2014. 7. 7., 일부개정]에 의한 [서식 4] 전시<b>사업<\/b>자... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723202328606_4QQP6F3EF.jpg\/hb10_19796_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"부산광역시국제수산물유통시설<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EA%B5%AD%EC%A0%9C%EC%88%98%EC%82%B0%EB%AC%BC%EC%9C%A0%ED%86%B5%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"부산광역시국제수산물유통시설<b>관리<\/b><b>사업<\/b>소 (釜山廣域市國際水産物流通施設管理事業所)는 수산물의 원활한 유통 및 공정거래 질서 확립에 관한 사무를 분장하는 부산광역시청의 <b>사업<\/b>소이다. 소장은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업<\/b>체조경<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2849616&cid=55622&categoryId=55622&anchorTarget=TABLE_OF_CONTENT5#TABLE_OF_CONTENT5",
+			"description":"• 녹지대의 조경수목, 잔디, 조경시설물 등 제반 경관시설을 효율적으로 유지<b>관리<\/b>하기 위한 작업방법에 대해 계획을 세우고 녹화<b>관리<\/b>작업을 감독하며, 녹지대 점검 등의 <b>관리<\/b> 업무와 관련 작업을 수행합니다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업<\/b>성과<b>관리<\/b>제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6480908&cid=55599&categoryId=55599",
+			"description":"<b>사업<\/b> 계획을 수립하고, 수행 성과와 실비용을 측정하여 <b>사업<\/b>의 진행 상태를 점검하고 미래를 예측하며 문제점을 조기에 식별함으로써 적절한 대책을 강구토록 지원하는 제도를 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"에스코(ESCO)<b>사업관리<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024624&cid=42117&categoryId=42117",
+			"description":"회수하는 <b>사업<\/b>을 기획하고 추진한다. [수행직무] 에스코기업(ESCO, Energy Service Company:에너지... 상담 후 간이제안서를 준비하고 고객이 <b>사업<\/b>성 여부에 대한 결정을 내리도록 도와준다. 고객이 <b>사업<\/b>을 계속... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안전<b>관리<\/b>자 선임<b>사업<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=507625&cid=42380&categoryId=42380",
+			"description":"법령에 의해서 안전<b>관리<\/b>자를 선임해야 하는 것이 의무화되어 있는 <b>사업<\/b>장을 말한다. 그것은 업종과 근로자 수에 따라 다음과 같다(법 시행령 제12조). || <b>사업<\/b>의 종류 || 규모 || 수 || 선임방법 || | 1.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청주시 농수산물도매시장 <b>관리<\/b><b>사업<\/b>소 (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2642947&cid=51895&categoryId=53912",
+			"description":"[정의] 충청북도 청주시 흥덕구 봉명동에 있는 농수산물 유통을 <b>관리<\/b>하는 <b>사업<\/b>소. [설립목적] 청주시에서는 지역의 농수산물 도매업무를 담당하여 시민에게 고품질의 농산물을 제공하기 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"울산광역시농수산물도매시장<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%86%8D%EC%88%98%EC%82%B0%EB%AC%BC%EB%8F%84%EB%A7%A4%EC%8B%9C%EC%9E%A5%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"울산광역시농수산물도매시장<b>관리<\/b><b>사업<\/b>소 (蔚山廣域市農水産物都賣市場管理事務所)는 농수산물의 원활한 유통을 위하여 위하여 설치된 울산광역시 소속기관이다. 같이 보기 울산광역시",
+			"thumbnail":""
+		},
+		{
+			"title":"대전광역시오정농수산물도매시장<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%EC%98%A4%EC%A0%95%EB%86%8D%EC%88%98%EC%82%B0%EB%AC%BC%EB%8F%84%EB%A7%A4%EC%8B%9C%EC%9E%A5%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"대전광역시오정농수산물도매시장<b>관리<\/b><b>사업<\/b>소 (大田廣域市梧井農水産物都賣市場管理事業所)는 대전광역시의 농수산물을 도매하기 위해 설치한 오정농수산물도매시장의 원활한 <b>관리<\/b>·운영을 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대전광역시노은농수산물도매시장<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%EB%85%B8%EC%9D%80%EB%86%8D%EC%88%98%EC%82%B0%EB%AC%BC%EB%8F%84%EB%A7%A4%EC%8B%9C%EC%9E%A5%EA%B4%80%EB%A6%AC%EC%82%AC%EC%97%85%EC%86%8C",
+			"description":"대전광역시노은농수산물도매시장<b>관리<\/b><b>사업<\/b>소 (大田廣域市老隱農水産物都賣市場管理事業所)는 대전광역시의 농수산물을 도매하기 위해 설치한 노은농수산물도매시장의 원활한 <b>관리<\/b>·운영을 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산모·신생아 건강<b>관리<\/b> 지원<b>사업<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6032257&cid=43667&categoryId=43667",
+			"description":"출처: 게티이미지 코리아 산모·신생아 건강<b>관리<\/b> 지원<b>사업<\/b>은 전문교육을 받은 산모·신생아 건강<b>관리<\/b>사가 출산 가정을 방문해 산모와 신생아를 돌봐주는 서비스를 제공하는 것으로, 출산가정의 경제적 부담을... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMDA4MDdfOCAg%2FMDAxNTk2NzY0MDQwNjEy.zryeS8I3hrrWYGRVkpzmaDEddGvgoCMoBqOsZmmWVycg.u5gQWBlJpZHQhr5bKAK1VTHEJK8JnZr5fTQS3tmN9Fkg.JPEG%2FIIE1kKAI6lX4yUfKsL7XOmkZ9tyo.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>사업<\/b>주 책임과 노무<b>관리<\/b>자 책임",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209779&cid=51088&categoryId=51088",
+			"description":"<b>사업<\/b>주의 대리인, 사용인, 그 밖의 종업원이 해당 <b>사업<\/b>의 근로자에 관한 사항에 대하여 ｢근로기준법｣ 제107조, 제109조부터 제111조까지, 제113조 또는 제114조의 위반행위를 하면 그 행위자를 벌하는 외에 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청주랜드<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1240647&cid=40942&categoryId=37154",
+			"description":" 충청북도 청주시 상당구 명암동에 있는 동물원 및 어린이회관.  2007년 7월에 청주동물원과 우암어린이회관이 통합되어 설립되었다. 청주동물원은 1997년에 개원하였으며, 동물의 생태를 관찰할 수 있는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_190\/20181219163818682_OLG6JH5ES.jpg\/366527.jpg?type=m160_160"
+		},
+		{
+			"title":"성과 <b>관리<\/b>형 자활 시범 <b>사업<\/b> (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2826406&cid=55772&categoryId=55846",
+			"description":"[정의] 부산광역시에서 시행하는 저소득층 자립 지원 제도. [제정 경위 및 목적] 성과 <b>관리<\/b>형 자활 시범 <b>사업<\/b>은 선진화된 시스템의 도입과 민간 기관의 참여를 통해 저소득층의 자립을 돕기 위해 제정되었으며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직업소개<b>사업<\/b>신고 등록<b>관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833597&cid=42279&categoryId=42279",
+			"description":" 직업안정법 시행규칙에 의한 직업소개<b>사업<\/b>신고·등록<b>관리<\/b>대장 행정서식.  직업안정법 시행규칙 [시행 2014. 1. 1.] [고용노동부령 제94호, 2013. 12. 30., 타법개정]에 의한 [서식 10] (무료, 유료)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723203139516_SC11PZFNF.jpg\/hb10_20031_i1.jpg?type=m160_160"
+		}
+	]
+}

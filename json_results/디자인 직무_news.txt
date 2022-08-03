@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:36 +0900",
+	"total":55634,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"오늘의 인사 종합",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03890086632399112",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005279312?sid=102",
+			"description":"조형용 △복지정책과장 <b>직무<\/b>대리 이지유 △축산과장 <b>직무<\/b>대리 배금학 △둔내면장 <b>직무<\/b>대리 최동섭... 최대헌 △성곡도서관장 정선태 △정치대학원장 배병인 △경영대학원장 최병구 △<b>디자인<\/b>대학원장 장중식",
+			"pubDate":"Thu, 28 Jul 2022 16:37:00 +0900"
+		},
+		{
+			"title":"특허·상표권 등 &apos;산업재산권 분쟁조정위&apos;, 상반기 월평균 신청 건수 전년 대...",
+			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=39393",
+			"link":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=39393",
+			"description":"산업재산권 분쟁조정위원회는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원하기 위해 지난 1995년부터 운영됐다.... ",
+			"pubDate":"Thu, 28 Jul 2022 16:28:00 +0900"
+		},
+		{
+			"title":"강원진로교육원, 고교생 47명 대상 진로탐색 프로그램 &apos;길틈&apos;",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1581209",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1581209",
+			"description":"자신이 <b>디자인<\/b>한 진로 계획을 발표하는 시간을 가진다. 26~28일 2박3일간 열리는 ‘2022 메이커스 캠프(드론)... 담당 교사 목공 <b>직무<\/b>연수 등 방학 중 프로그램을 운영하여 참가자들로부터 좋은 평가를 받았다. [신아일보]",
+			"pubDate":"Thu, 28 Jul 2022 15:58:00 +0900"
+		},
+		{
+			"title":"서울시, 경력단절여성 새출발 돕는다...&apos;3기 우먼업 인턴십&apos; 120명 모집",
+			"originallink":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=525188",
+			"link":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=525188",
+			"description":"1유형 : 3040전문인력 재취업 프로그램은 강소기업, 벤처기업, 스타트업 등 서울시 소재 민간기업 등에서 홍보마케팅, <b>디자인<\/b>, 재무회계, 일반사무 등 <b>직무<\/b>에 대한 참여자를 모집하며, 모집<b>직무<\/b>에 관련 경력이 있거나... ",
+			"pubDate":"Thu, 28 Jul 2022 15:22:00 +0900"
+		},
+		{
+			"title":"서울시, 경력단절여성 위한 &apos;3기 우먼업 인턴십&apos; 120명 모집",
+			"originallink":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202207280499o",
+			"link":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202207280499o",
+			"description":"1유형인 3040전문인력 재취업 프로그램은 강소기업, 벤처기업, 스타트업 등 서울시 소재 민간기업 등에서 홍보마케팅, <b>디자인<\/b>, 재무회계, 일반사무 등 <b>직무<\/b>에 대한 참여자를 모집하며, 모집<b>직무<\/b>에 관련 경력이 있거나... ",
+			"pubDate":"Thu, 28 Jul 2022 14:44:00 +0900"
+		},
+		{
+			"title":"[칼럼] 중소기업 절세, 어떤 방법이 있을까?",
+			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202207280228&t=NN",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001045569?sid=101",
+			"description":"특허, <b>디자인<\/b> 등 지식재산권을 자본화함으로써 추가로 세금을 절감할 수 있다. 또한 조세특례제한법은 창업... 기업부설연구소, <b>직무<\/b>발명보상제도, 기업 인증, 개인사업자 법인전환, 신규 법인 설립, 상속, 증여, 기업가정신... ",
+			"pubDate":"Thu, 28 Jul 2022 14:27:00 +0900"
+		},
+		{
+			"title":"서울시, 경력단절여성 새출발 돕는다…&apos;3기 우먼업 인턴십&apos; 120명 모집",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1587165",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1587165",
+			"description":"1유형은 3040전문인력 재취업 프로그램은 강소기업, 벤처기업, 스타트업 등 서울시 소재 민간기업 등에서 홍보마케팅, <b>디자인<\/b>, 재무회계, 일반사무 등 <b>직무<\/b>에 대한 참여자를 모집하며, 모집<b>직무<\/b>에 관련 경력이... ",
+			"pubDate":"Thu, 28 Jul 2022 13:45:00 +0900"
+		},
+		{
+			"title":"[오늘의 케미칼] 에쓰오일·금호석유화학·롯데케미칼·애경케미칼",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20220728500173",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20220728500173",
+			"description":"&apos;자동환기창Pro 스페셜 패키지&apos;에는 26mm 로이유리와 <b>디자인<\/b> 어워드 수상 핸들이 무상으로 제공된다. 라이브... 재활치료사의 <b>직무<\/b> 스트레스 감소 등을 위해 2024년까지 3년간 총 4억 2000만원을 지원한다. 롯데케미칼은... ",
+			"pubDate":"Thu, 28 Jul 2022 13:22:00 +0900"
+		},
+		{
+			"title":"3D<b>디자인<\/b>부터 파이썬까지…K디지털 기초역량훈련 확대",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220728_0001959541&cID=10201&pID=10200",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011331909?sid=102",
+			"description":"참여해 <b>직무<\/b>융합과정, 대학맞춤형 과정 등을 다양하게 공급한다. 신규 개설 과정은 &apos;하이퀄리티 3D... 고용부는 &quot;전 산업에 걸친 디지털 전환(DX)에 따라 다양한 <b>직무<\/b>와 직위에서 디지털 융합 능력 개발이 필요하다는... ",
+			"pubDate":"Thu, 28 Jul 2022 12:00:00 +0900"
+		},
+		{
+			"title":"&quot;경력단절 여성 새출발 돕는다&quot; 서울시, &apos;3기 우먼업 인턴십&apos; 120명 모집",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220728010016760",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220728010016760",
+			"description":"3040전문인력 재취업 프로그램은 강소기업·벤처기업·스타트업 등 서울시 소재 민간기업 등에서 홍보마케팅, <b>디자인<\/b>, 재무회계, 일반사무 등 <b>직무<\/b>에 대한 참여자를 모집한다. 모집 <b>직무<\/b> 관련 자격증이나 경력이 있는... ",
+			"pubDate":"Thu, 28 Jul 2022 11:16:00 +0900"
+		},
+		{
+			"title":"서울시, 경력단절여성 새출발 돕는다…&apos;우먼업 인턴십&apos; 120명 모집",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4756152",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006245908?sid=102",
+			"description":"1유형 3040전문인력 재취업 프로그램은 강소기업, 벤처기업, 스타트업 등 서울시 소재 민간기업 등에서 홍보마케팅, <b>디자인<\/b>, 재무회계, 일반사무 등 <b>직무<\/b>에 대한 참여자를 모집한다. 2유형 지역·기업특화 프로그램은... ",
+			"pubDate":"Thu, 28 Jul 2022 11:15:00 +0900"
+		},
+		{
+			"title":"&quot;경단녀 재취업 도와요&quot;…서울시, &apos;우먼업 인턴십&apos; 모집",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220728_0001959384&cID=10201&pID=10200",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011331595?sid=102",
+			"description":"3040전문인력 재취업 프로그램은 강소기업, 벤처기업, 스타트업 등 서울시 소재 민간기업에서 홍보마케팅, <b>디자인<\/b>, 재무회계, 일반사무 등 <b>직무<\/b>에 대한 참여자를 모집한다. 관련 경력이 있거나 자격증을 소지한 30~49세... ",
+			"pubDate":"Thu, 28 Jul 2022 11:15:00 +0900"
+		},
+		{
+			"title":"금오공대, 9월 13일부터 2023학년도 수시모집 시작",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022072810050657824",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004776280?sid=102",
+			"description":"모집 단위에서는 전년도 화학소재공학부를 올해 고분자공학과, 소재<b>디자인<\/b>공학과, 화학공학과로 분리해... 이 사업을 통해 △맞춤 진로·취업 서비스 △청년특화 통합 상담(심리, 진로, 적응, 학업, 취업 등) △<b>직무<\/b>역량... ",
+			"pubDate":"Thu, 28 Jul 2022 10:11:00 +0900"
+		},
+		{
+			"title":"GS건설·포스코A&amp;C·태영...건설업계 대기업 하반기 신입사원 채용 활발",
+			"originallink":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=372401",
+			"link":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=372401",
+			"description":"사진=진학사 캐치 GS건설에서 내달 8일까지 신사업부문의 ▲투자기획\/관리 ▲신사업기획 <b>직무<\/b>에서... 포스코A&amp;C에서 내달 7일까지 ▲<b>디자인<\/b> ▲건축CM ▲하이테크CM ▲플랜트설계 ▲플랜트CM 분야에서 채용연계형... ",
+			"pubDate":"Thu, 28 Jul 2022 08:50:00 +0900"
+		},
+		{
+			"title":"[인사] 경상북도 인사이동조서",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2022072718393547705?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002253074?sid=102",
+			"description":"정밀분석과장 <b>직무<\/b>대리 조옥숙(수의5급의결), 보건정책과 손승민(간호5급의결), 토지정보과 조원석... 건축<b>디자인<\/b>과 강제모(행정7급), 경북도립대학교 정세진(행정7급), 환동해지역본부 총무민원실 심사용(행정7급)... ",
+			"pubDate":"Thu, 28 Jul 2022 08:50:00 +0900"
+		},
+		{
+			"title":"&apos;사적 대화&apos; 규정…&quot;이준석, 오해하지 않으리라 생각&quot;",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12068192",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000307425?sid=100",
+			"description":"윤석열 대통령과 권성동 국민의힘 대표 <b>직무<\/b>대행 사이에 오간 이른바 &apos;내부총질&apos; 문자의 파장이 쉽사리... 문자 속 사람이 누굴 지칭하는지는 모른다&quot;고 답했습니다. (화면출처 : 국회사진기자단) (영상<b>디자인<\/b> : 송민지 이정회)",
+			"pubDate":"Thu, 28 Jul 2022 07:32:00 +0900"
+		},
+		{
+			"title":"[7\/28(목) 데일리안 출근길 뉴스] 민주당 전당대회 오늘 예비경선…컷오프 통...",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1137020\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002625105?sid=100",
+			"description":"두 번째는 &apos;권성동 <b>직무<\/b>대행 체제&apos;에 대한 윤 대통령의 신뢰다. 윤 대통령의 메시지 방점은 사실... 병채씨는 화천대유에서 일하면서 전공인 산업<b>디자인<\/b>과 연관이 없는 부동산 개발 관련 업무를 담당하고 50억원(세금 제외... ",
+			"pubDate":"Thu, 28 Jul 2022 07:31:00 +0900"
+		},
+		{
+			"title":"(인사)칠곡군",
+			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=388327&part_idx=336",
+			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=388327&part_idx=336",
+			"description":"건축<b>디자인<\/b>과장 윤노영시설관리사업소장 이홍규 □ 5급 사전의결 관광경제국 관광진흥과 <b>직무<\/b>대리 이형곤 □ 부면장 동명면 부면장 이태훈가산면 부면장 강호근약목면 부면장 장선화 □ 개발과장 전보 석적읍 개발과장... ",
+			"pubDate":"Wed, 27 Jul 2022 22:02:00 +0900"
+		},
+		{
+			"title":"경북도 인사이동",
+			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/626188",
+			"link":"http:\/\/www.sentv.co.kr\/news\/view\/626188",
+			"description":"정밀분석과장 <b>직무<\/b>대리 조옥숙(수의5급의결) ▷보건정책과 손승민(간호5급의결) ▷토지정보과 조원석... (행정7급) ▷건축<b>디자인<\/b>과 강제모(행정7급) ▷경북도립대학교 정세진(행정7급) ▷환동해지역본부... ",
+			"pubDate":"Wed, 27 Jul 2022 20:36:00 +0900"
+		},
+		{
+			"title":"[산업 이모저모] 현대차·기아, &apos;달 표면 탐사 모빌리티&apos; 개발 나선다...다자...",
+			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296918",
+			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296918",
+			"description":"임직원 <b>직무<\/b> 멘토링, 활동비 등이 제공된다. ㅇ..LG유플러스는 한국철도공사의 철도 광통신망 친환경... 가벼운 <b>디자인<\/b>으로 사용자들이 일과 취미의 경계를 허물도록 도와 노트북의 새로운 가능성을 열었다. 이번... ",
+			"pubDate":"Wed, 27 Jul 2022 20:32:00 +0900"
+		},
+		{
+			"title":"사과에 더 뒤집힌 국민의힘…&quot;망연자실&quot; &quot;대통령이 사과해야&quot;",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12068156",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000307381?sid=100",
+			"description":"국민의힘 당원 게시판에는 권 <b>직무<\/b>대행의 사퇴를 요구하거나, 이 대표를 비판하는 글, 대통령의 심정도 이해해야 한다는 글이 뒤섞였습니다. (화면출처 : 국회사진기자단) (영상<b>디자인<\/b> : 오은솔)",
+			"pubDate":"Wed, 27 Jul 2022 19:49:00 +0900"
+		},
+		{
+			"title":"홍보수석 &quot;사적대화 노출 유감&quot;…문자 속 &apos;강기훈&apos; 인물도 쟁점",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12068160",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000307379?sid=100",
+			"description":"[기자] 문제가 된 건 권성동 국민의힘 대표 <b>직무<\/b>대행의 텔레그램 대화창이었습니다. 여기엔 윤 대통령이 권... 속 사람이 누굴 지칭하는지는 모른다&quot;고 답했습니다. (화면출처 : 국회사진기자단) (영상<b>디자인<\/b> : 송민지 이정회)",
+			"pubDate":"Wed, 27 Jul 2022 19:42:00 +0900"
+		},
+		{
+			"title":"경희사이버대 학생 7명, SPC 기업대학 수료",
+			"originallink":"https:\/\/news.unn.net\/news\/articleView.html?idxno=531698",
+			"link":"https:\/\/news.unn.net\/news\/articleView.html?idxno=531698",
+			"description":"한국산업인력공단으로부터 인증받은 커리큘럼과 최신식 교육 환경, 현장 중심의 우수 강사진을 갖춰 <b>직무<\/b>능력을 쌓을 수 있도록 교육한다. 강수진(IT·<b>디자인<\/b>융합학부 1) 씨는 &quot;커피 까막눈이었는데 이번 교육을 통해... ",
+			"pubDate":"Wed, 27 Jul 2022 18:42:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022072717175724589",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000768438?sid=102",
+			"description":"정밀분석과장 <b>직무<\/b>대리 조옥숙 ▷보건정책과 손승민 ▷토지정보과 조원석 ▷정보통신과 손종석... 류규혁 ▷건축<b>디자인<\/b>과 서덕윤 ▷에너지산업과 김재준 ▷환경정책과 권순철 ▷농업정책과 김난정 ▷농식품유통과 김정숙... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"[인천스타트업파크] 인천스타트업파크, &apos;혁신 플랫폼&apos; 일군다",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154549",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154549",
+			"description":"바이오<b>디자인<\/b>랩과 안질환 관련 분야 루다큐어, 엠바이옴쎄라퓨틱스, 레나투스 등의 스타트업과 공동... 성용원 인천경제청 청장 <b>직무<\/b>대행은 &quot;중소벤처기업부 창업열린공간 1호 혁신 창업클러스터인... ",
+			"pubDate":"Wed, 27 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"[인사]경상북도(5급 이하)",
+			"originallink":"http:\/\/www.smartfn.co.kr\/view.php?ud=2022072717033517232a13d34d32_46",
+			"link":"http:\/\/www.smartfn.co.kr\/view.php?ud=2022072717033517232a13d34d32_46",
+			"description":"정밀분석과장 <b>직무<\/b>대리 조옥숙(수의5급의결) ▷보건정책과 손승민(간호5급의결) ▷토지정보과 조원석... (행정7급) ▷건축<b>디자인<\/b>과 강제모(행정7급) ▷경북도립대학교 정세진(행정7급) ▷환동해지역본부 총무민원실... ",
+			"pubDate":"Wed, 27 Jul 2022 17:16:00 +0900"
+		},
+		{
+			"title":"【인사】경북도 5급이하",
+			"originallink":"https:\/\/www.hankyung.com\/society\/article\/202207278007h",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729854?sid=102",
+			"description":"정밀분석과장 <b>직무<\/b>대리 조옥숙(수의5급의결) ▷보건정책과 손승민(간호5급의결) ▷토지정보과 조원석... (행정7급) ▷건축<b>디자인<\/b>과 강제모(행정7급) ▷경북도립대학교 정세진(행정7급) ▷환동해지역본부 총무민원실... ",
+			"pubDate":"Wed, 27 Jul 2022 17:07:00 +0900"
+		},
+		{
+			"title":"[중기소식]잡플래닛, 재택·출근 혼합 &apos;하이브리드 근무&apos; 등",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958541&cID=13001&pID=13000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330216?sid=101",
+			"description":"업무 특성상 고정좌석이 필요한 <b>직무<\/b>를 제외하고 나머지 자리는 자율적으로 사용이 가능한 자율좌석제도... GTX 데모 프로그램은 패션, <b>디자인<\/b>, 의류·섬유 분야 종사자 또는 기타 해당 분야로 진출을 희망하는 학생이나... ",
+			"pubDate":"Wed, 27 Jul 2022 16:54:00 +0900"
+		},
+		{
+			"title":"알에프혁신그룹, 하반기부터 공개채용에서 상시채용으로",
+			"originallink":"http:\/\/www.kdpress.co.kr\/news\/articleView.html?idxno=114278",
+			"link":"http:\/\/www.kdpress.co.kr\/news\/articleView.html?idxno=114278",
+			"description":"(웹<b>디자인<\/b>), △국내영업담당 채용과 알에프 에프앤비의 △운영총괄담당을 비롯하여 결원이 발생한 경우나 추가적으로 확정된 인원을 필요로 하는 경우에은 기존의 방식대로 해당 <b>직무<\/b>에 따라 수시 채용을 진행하겠다고... ",
+			"pubDate":"Wed, 27 Jul 2022 16:12:00 +0900"
+		},
+		{
+			"title":"권성동 &quot;문자 유출 송구&quot;…이준석 &apos;양두구육&apos; 응수",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12068093",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000307340?sid=100",
+			"description":"걸어놓고, 뒤에서는 개고기를 판다&quot;는 글을 올렸습니다. 겉과 속이 다르다는 사자성어 &apos;양두구육&apos;의 뜻으로 이 대표가 윤 대통령과 권 <b>직무<\/b>대행을 에둘러 비판한 게 아니냐는 해석이 나오고 있습니다. (영상<b>디자인<\/b> : 송민지)",
+			"pubDate":"Wed, 27 Jul 2022 15:20:00 +0900"
+		},
+		{
+			"title":"명지전문대학 ‘조기취업형 계약학과’-(주)제이엠로보틱스 로봇 산업 인재 양...",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220726001315359",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220726001315359",
+			"description":"공동연구 ▲재직자 <b>직무<\/b>능력향상 및 구직자 교육 지원 ▲시설 및 자원 활용 협조(알파미니 20대 무상 기증... ㈜제이엠로보틱스는 인공지능 휴머노이드 로봇의 서비스 <b>디자인<\/b> 연구와 글로벌시장 경쟁력 강화를 위한... ",
+			"pubDate":"Wed, 27 Jul 2022 13:28:00 +0900"
+		},
+		{
+			"title":"[인터뷰 | 넥슨 방영훈 게임 디자이너] 플레이어를 잡아끄는 게임 디자이너의...",
+			"originallink":"http:\/\/www.naeil.com\/news_view\/?id_art=430741",
+			"link":"http:\/\/www.naeil.com\/news_view\/?id_art=430741",
+			"description":"게임 디자이너는 여러 팀과 소통할 일이 많은데 저는 다른 <b>직무<\/b>에 대한 이해도가 높으니 장점으로 작용했다. ■ 잘 <b>디자인<\/b>된 게임이란 어떤 게임인가. 아트는 눈에 보이고, 프로그래밍은 버그 유무로 최적화된 상태인지... ",
+			"pubDate":"Wed, 27 Jul 2022 12:14:00 +0900"
+		},
+		{
+			"title":"[인사] 경북 칠곡군",
+			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=254318",
+			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=254318",
+			"description":"차영식 ▲ 동명면장 권헌정 ▲ 기산면장 이수윤 ▲ 칠곡군의회(파견) 박정규 ▲ 건설과장 윤근희 ▲ 도시계획과장 김사억 ▲ 건축<b>디자인<\/b>과장 윤노영 ▲ 시설관리사업소장 이홍규 ▲ 관광진흥과(<b>직무<\/b>대리) 이형곤",
+			"pubDate":"Wed, 27 Jul 2022 11:54:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 정치 일정] 정치(7월27일 수요일)",
+			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=254307",
+			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=254307",
+			"description":"(동대문<b>디자인<\/b>플라자) 14:00 교육·사회·문화 대정부질문(국회 본청 본회의장) ◇국방부【장관】... 【당대표 <b>직무<\/b>대행 겸 원내대표】10:00 2022 국민의힘 부산·울산·경남 예산정책협의회(국회 본관 245호) 14:00... ",
+			"pubDate":"Wed, 27 Jul 2022 11:22:00 +0900"
+		},
+		{
+			"title":"[#꿀신상#꿀혜택] 한섬 &apos;아워레가시&apos; 론칭·잡코리아 &apos;취업답쭐 내러가자&apos;·...",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604308",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604308",
+			"description":"아워레가시는 지난 2005년 스웨덴 스톡홀름에서 시작된 패션 브랜드로, 미니멀한 북유럽 스타일의 <b>디자인<\/b>이... 관련한 <b>직무<\/b>와 기업에 재직 중인 선배에게 매칭해 준다. 고민 글을 읽은 사회 선배들이 정보와 조언을... ",
+			"pubDate":"Wed, 27 Jul 2022 11:08:00 +0900"
+		},
+		{
+			"title":"㈜화이트서클, 혁신성장유형 벤처기업 인증받아",
+			"originallink":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=942564",
+			"link":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=942564",
+			"description":"구직\/이직\/<b>직무<\/b> 등 커리어 정보가 필요한 사람과의 커리어 대화를 통해 부가수익을 창출할 수 있는 서비스를... 화이트서클은 자체 기업부설연구소를 설립하였으며, 연구개발팀, 사업팀, <b>디자인<\/b>팀 등과의 협업으로... ",
+			"pubDate":"Wed, 27 Jul 2022 10:58:00 +0900"
+		},
+		{
+			"title":"[ESG 경영] KCC글라스·코웨이·SK이노베이션 外",
+			"originallink":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=61632",
+			"link":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=61632",
+			"description":"실내 <b>디자인<\/b> 체험 멘토링&apos; 행사를 진행했다. 홈씨씨교실 실내 <b>디자인<\/b> 체험 멘토링은 KCC글라스의 아동... 필요한 <b>직무<\/b>훈련 및 일경험 기회를 제공하는 민관협업 프로젝트다. 기업이 보유한 강점과 인프라를 활용해 다양한... ",
+			"pubDate":"Wed, 27 Jul 2022 09:42:00 +0900"
+		},
+		{
+			"title":"[2022년 7월 27일 정치·사회 주요일정]한덕수 국무총리·우상호 더불어민주당...",
+			"originallink":"http:\/\/www.mediapen.com\/news\/view\/741390",
+			"link":"http:\/\/www.mediapen.com\/news\/view\/741390",
+			"description":"▲ 국무총리 유엔군 참전의 날 기념식(10:00 동대문<b>디자인<\/b>플라자) 대정부질문(14:00 국회) ▲ 국회 정무위... 당대표 <b>직무<\/b>대행 겸 원내대표, 2022 국민의힘 부산·울산·경남 예산정책협의회(10:00 국회 본관 245호)... ",
+			"pubDate":"Wed, 27 Jul 2022 08:54:00 +0900"
+		},
+		{
+			"title":"GS리테일 홈쇼핑·SBS A&amp;T·JTBC 플러스·서울영상테크, 신입∙경력 모집",
+			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=20220727084456823746a9e4dd7f_30",
+			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=20220727084456823746a9e4dd7f_30",
+			"description":"모집 분야는 브랜드<b>디자인<\/b>(비주얼 디자이너, 2D\/3D 모션그래퍼), 디지털 광고 운영 기획자 및 운영자, 경영기획 등의 <b>직무<\/b>로 진행되고, 업무 내용은 채널 네트워크, ID, 프로그램 패키지, 프로모션 등 온에어 되는 영상... ",
+			"pubDate":"Wed, 27 Jul 2022 08:52:00 +0900"
+		},
+		{
+			"title":"&apos;산업재산권 분쟁조정&apos; 제도, 분쟁해결 대안 부상",
+			"originallink":"http:\/\/www.econovill.com\/news\/articleView.html?idxno=583378",
+			"link":"http:\/\/www.econovill.com\/news\/articleView.html?idxno=583378",
+			"description":"한편 산업재산권 분쟁조정위는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권을 비롯해 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지난 1995년부터 지원해 오고 있다. 문삼섭... ",
+			"pubDate":"Wed, 27 Jul 2022 08:24:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] 서울대, 허준이 교수 필즈상 수상기념 수학강연회",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112932",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112932",
+			"description":"동대문<b>디자인<\/b>플라자) 대정부질문(14:00 국회) ▲ 국회 정무위 1차 전체회의(10:00 국회 본관 609호) 환노위... 당대표 <b>직무<\/b>대행 겸 원내대표, 2022 국민의힘 부산·울산·경남 예산정책협의회(10:00 국회 본관 245호)... ",
+			"pubDate":"Wed, 27 Jul 2022 07:04:00 +0900"
+		},
+		{
+			"title":"[오늘의 정치일정] 7월 27일(수)",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220727000012",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220727000012",
+			"description":"(동대문<b>디자인<\/b>플라자) 14:00 국방부-국토교통부 업무협약식 (육군회관) &lt;더불어민주당&gt; -우상호... 대표 <b>직무<\/b>대행 겸 원내대표 10:00 2022 국민의힘 부산·울산·경남 예산정책협의회(국회 본관 245호) 14:00 국회... ",
+			"pubDate":"Wed, 27 Jul 2022 05:47:00 +0900"
+		},
+		{
+			"title":"사옥 이전, 과감한 공개 채용... 새로운 도약 준비하는 화장품 업계",
+			"originallink":"http:\/\/www.meconomynews.com\/news\/articleView.html?idxno=69023",
+			"link":"http:\/\/www.meconomynews.com\/news\/articleView.html?idxno=69023",
+			"description":"신입사원은 △글로벌마케팅 △영상 기획 및 제작 △웹<b>디자인<\/b> △온라인영업 △해외영업 △품질관리 △채용 등 7개 <b>직무<\/b>로 모집한다. 경력 채용 부문은 △글로벌마케팅 △디지털마케팅 △영상 기획 및 채널관리... ",
+			"pubDate":"Wed, 27 Jul 2022 05:36:00 +0900"
+		},
+		{
+			"title":"현장 위험에 대비 필수… 경찰·직업군인 등 베테랑 우대",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20220727016003&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003290286?sid=100",
+			"description":"기술·<b>디자인<\/b>특사경에 비해 상표특사경은 짝퉁 상품과 관련한 수사가 많기 때문에 현장에서 위험한 상황에... 있는 <b>직무<\/b> 분야에서 경찰의 경우 경장, 군인의 경우 중사 이상으로 3년 이상의 경력자 등이 있다. 수사 분야... ",
+			"pubDate":"Wed, 27 Jul 2022 05:07:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요일정]정치(7월27일 수요일)",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220726_0001957281&cID=10301&pID=10300",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011328168?sid=100",
+			"description":"(동대문<b>디자인<\/b>플라자) 14:00 교육·사회·문화 대정부질문(국회 본청 본회의장) ◇국방부【장관】... 【당대표 <b>직무<\/b>대행 겸 원내대표】10:00 2022 국민의힘 부산·울산·경남 예산정책협의회(국회 본관 245호) 14:00... ",
+			"pubDate":"Wed, 27 Jul 2022 05:00:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요일정] 정치·정부(27일, 수)",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4754462",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006242320?sid=100",
+			"description":"(동대문<b>디자인<\/b>플라자) 14:00 대정부질문 (국회) ◇감사원 -원장 통상업무 ◇외교부 -장관 15:00... 대표 <b>직무<\/b>대행 겸 원내대표 10:00 2022 국민의힘 부산·울산·경남 예산정책협의회 (국회 본관 245호) 14:00 국회... ",
+			"pubDate":"Wed, 27 Jul 2022 05:00:00 +0900"
+		},
+		{
+			"title":"C와 C++, 함께 학습하면 유리하다...왜?",
+			"originallink":"https:\/\/www.codingworldnews.com\/news\/articleView.html?idxno=11371",
+			"link":"https:\/\/www.codingworldnews.com\/news\/articleView.html?idxno=11371",
+			"description":"C와 C++ 애널리스트는 컴퓨터 프로그램의 <b>디자인<\/b>, 개발, 배포 등에 집중하며 최신 기술을 이용하여 깔끔한... 학위를 받은 후에는 다양한 프로그래밍 언어에 대한 경험과 <b>직무<\/b> 관련 툴을 이용해 보아야 한다. 기업에서... ",
+			"pubDate":"Tue, 26 Jul 2022 21:46:00 +0900"
+		},
+		{
+			"title":"포스코, 디지털 융합인재 양성 기관 선정",
+			"originallink":"http:\/\/www.dkilbo.com\/news\/articleView.html?idxno=371811",
+			"link":"http:\/\/www.dkilbo.com\/news\/articleView.html?idxno=371811",
+			"description":"▲ 포스코 K-디지털플랫폼에서 웹<b>디자인<\/b> 개발과정을 수강하고 있는 교육생들이 4차 산업현황에 대한 설명을... 이밖에도 포스코 K-디지털플랫폼 사업단은 9월부터 &apos;디지털<b>직무<\/b>역량진단 온라인 서비스&apos;를 제공하여... ",
+			"pubDate":"Tue, 26 Jul 2022 21:42:00 +0900"
+		},
+		{
+			"title":"[오늘의 인사]전북 전주시·한국BMS제약·경남 창녕군 外",
+			"originallink":"http:\/\/www.mediapen.com\/news\/view\/741226",
+			"link":"http:\/\/www.mediapen.com\/news\/view\/741226",
+			"description":"▲ 정무보좌관 한민희 [한국BMS제약] ▲ 대표 이혜영 [경남 창녕군] ◇ 5급 승진 ▲ 노인여성아동과장 <b>직무<\/b>대리... 도시계획과장 김사억 ▲ 건축<b>디자인<\/b>과장 윤노영 ▲ 시설관리사업소장 이홍규 ▲ 관광진흥과장(직대) 이형곤",
+			"pubDate":"Tue, 26 Jul 2022 21:08:00 +0900"
+		},
+		{
+			"title":"포스코, 디지털 융합인재 양성",
+			"originallink":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=935092",
+			"link":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=935092",
+			"description":"포스코 K-디지털플랫폼에서 웹<b>디자인<\/b> 개발과정을 수강하고 있는 교육생들이 4차 산업현황에 대한 설명을... 이 밖에도 포스코 K-디지털플랫폼 사업단은 9월부터 &apos;디지털<b>직무<\/b>역량진단 온라인 서비스&apos;를 제공해 <b>직무<\/b>별... ",
+			"pubDate":"Tue, 26 Jul 2022 20:32:00 +0900"
+		},
+		{
+			"title":"문자로 드러난 &apos;윤심&apos;…&quot;내부총질 당대표 바뀌니 달라져&quot;",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12067988",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000307230?sid=100",
+			"description":"이 대화에 대해 대통령실은 &quot;권 <b>직무<\/b>대행이 설명할 것&quot;이라고만 했고, 권 <b>직무<\/b>대행 측은 아직 입장을 밝히지 않았습니다. (화면출처 : 국회사진기자단) (영상<b>디자인<\/b> : 조승우)",
+			"pubDate":"Tue, 26 Jul 2022 20:08:00 +0900"
+		},
+		{
+			"title":"&quot;자폐, 장애가 아니라 특징입니다&quot;…디자이너, 칼럼니스트로도 활동",
+			"originallink":"http:\/\/www.mbn.co.kr\/pages\/news\/newsView.php?news_seq_no=4811817",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001679472?sid=102",
+			"description":"자폐인 디자이너들이 일하는 이 <b>디자인<\/b> 회사의 직원은 모두 20명. 이 가운데 13명이 자폐인 디자이너입니다.... 의사소통 연습하고 <b>직무<\/b> 기술 같은 거는 나중에 <b>직무<\/b> 연수 (통해서)….&quot; 자폐스펙트럼 장애가 있으면... ",
+			"pubDate":"Tue, 26 Jul 2022 19:53:00 +0900"
+		},
+		{
+			"title":"[인사] 칠곡군",
+			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=557324",
+			"link":"https:\/\/www.cnbnews.com\/news\/article.html?no=557324",
+			"description":"차영식 △ 동명면장 권헌정 △ 기산면장 이수윤 △ 칠곡군의회(파견) 박정규 △ 건설과장 윤근희 △ 도시계획과장 김사억 △ 건축<b>디자인<\/b>과장 윤노영 △ 시설관리사업소장 이홍규 △ 관광진흥과(<b>직무<\/b>대리) 이형곤",
+			"pubDate":"Tue, 26 Jul 2022 19:50:00 +0900"
+		},
+		{
+			"title":"[우리 학교 어때요] 인천중앙여자상업고등학교",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154370",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154370",
+			"description":"요즘 학교명에 &apos;하이텍&apos;, &apos;<b>디자인<\/b>&apos;, &apos;비즈니스&apos;, &apos;관광&apos;과 같은 단어가 붙은 학교가 이 같은 트렌드를 반영한... 우수한 <b>직무<\/b> 실력을 갖춘 인재를 양성하는 데 힘쓰고 있다. 인천중앙여상은 회계 전문 특성화고다. 3학급씩... ",
+			"pubDate":"Tue, 26 Jul 2022 19:08:00 +0900"
+		},
+		{
+			"title":"포스코, &apos;K-디지털플랫폼&apos; 운영… 4차 산업혁명 인재 육성",
+			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490139",
+			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490139",
+			"description":"포스코 K-디지털플랫폼에서 웹<b>디자인<\/b> 개발과정을 수강하고 있는 교육생들이 4차 산업에 대한 설명을 듣고... 이 밖에 포스코 K-디지털플랫폼 사업단은 9월부터 디지털<b>직무<\/b>역량진단 온라인 서비스를 제공해 <b>직무<\/b>별 디지털... ",
+			"pubDate":"Tue, 26 Jul 2022 19:08:00 +0900"
+		},
+		{
+			"title":"경희사이버대생, SPC그룹 파리크라상 기업대학 14기 교육 수료",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20220726010004519",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20220726010004519",
+			"description":"IT·<b>디자인<\/b>융합학부 1학년 강수진, 관광레저항공경영학부 4학년 이연주, 마케팅·리더십경영학부 2학년... 이번에 수료한 학생들은 베이커리 및 바리스타 분야의 <b>직무<\/b> 숙련과 사회 적응을 위한 사전교육을 357시간... ",
+			"pubDate":"Tue, 26 Jul 2022 18:36:00 +0900"
+		},
+		{
+			"title":"포스코, K-디지털 플랫폼에서 디지털 융합인재 양성한다",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2516555",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2516555",
+			"description":"포스코 K-디지털플랫폼에서 웹<b>디자인<\/b> 개발과정을 수강하고 있는 교육생들이 4차 산업현황에 대한... 이밖에도 포스코 K-디지털플랫폼 사업단은 9월부터 &apos;디지털<b>직무<\/b>역량진단 온라인 서비스&apos;를 제공하여 <b>직무<\/b>별... ",
+			"pubDate":"Tue, 26 Jul 2022 18:14:00 +0900"
+		},
+		{
+			"title":"[오늘의 전자 단신] 신일, &apos;에코 음식물 처리기 시즌2&apos; 출시 外",
+			"originallink":"http:\/\/www.inews24.com\/view\/1504464",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000687951?sid=101",
+			"description":"신제품은 기존 제품에 대한 소비자의 반응을 면밀하게 살펴 성능, <b>디자인<\/b>, 내구성 등을 향상시킨 것이... 필요한 <b>직무<\/b>훈련 및 일경험 기회를 제공하는 민관협업 프로젝트다. 기업이 보유한 강점과 인프라를 활용해... ",
+			"pubDate":"Tue, 26 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"경복비즈니스고 &quot;4차산업혁명 시대를 선도하는 인재 양성의 요람&quot;",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=658444&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004996559?sid=102",
+			"description":"이어 &quot;호텔·항공·제과·무역실무·<b>디자인<\/b> 등 <b>직무<\/b>별 NCS 실습실을 구축해 학생들에게 다양한 실무실습 환경을 제공하고 있다&quot;고 덧붙였다. 경복비즈니스고는 2004년부터 창업진흥원 &apos;청소년 비즈쿨&apos; 운영학교로 지정돼... ",
+			"pubDate":"Tue, 26 Jul 2022 17:11:00 +0900"
+		},
+		{
+			"title":"배화여대, 신기술융합 학과 특성화 추진",
+			"originallink":"https:\/\/news.unn.net\/news\/articleView.html?idxno=531629",
+			"link":"https:\/\/news.unn.net\/news\/articleView.html?idxno=531629",
+			"description":"디지털콘텐츠<b>디자인<\/b>과와 새롭게 변화하는 비서사무과, 행정서비스과, 스마트경영과, 글로벌관광콘텐츠과, 소프트웨어공학과, 패션산업학과이다. 각 학과는 4차 산업혁명 시대에 알맞은 신기술융합 <b>직무<\/b>를 발굴하고... ",
+			"pubDate":"Tue, 26 Jul 2022 17:02:00 +0900"
+		},
+		{
+			"title":"[인사] 경북 칠곡군",
+			"originallink":"https:\/\/www.sisa-news.com\/news\/article.html?no=206916",
+			"link":"https:\/\/www.sisa-news.com\/news\/article.html?no=206916",
+			"description":"차영식 ▲ 동명면장 권헌정 ▲ 기산면장 이수윤 ▲ 칠곡군의회(파견) 박정규 ▲ 건설과장 윤근희 ▲ 도시계획과장 김사억 ▲ 건축<b>디자인<\/b>과장 윤노영 ▲ 시설관리사업소장 이홍규 ▲ 관광진흥과(<b>직무<\/b>대리) 이형곤",
+			"pubDate":"Tue, 26 Jul 2022 16:42:00 +0900"
+		},
+		{
+			"title":"인사-7월 26일",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20220726500531",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20220726500531",
+			"description":"차영식 △동명면장 권헌정 △기산면장 이수윤 △칠곡군의회(파견) 박정규 △건설과장 윤근희 △도시계획과장 김사억 △건축<b>디자인<\/b>과장 윤노영 △시설관리사업소장 이홍규 △관광진흥과(<b>직무<\/b>대리) 이형곤 \/원은미 기자",
+			"pubDate":"Tue, 26 Jul 2022 16:24:00 +0900"
+		},
+		{
+			"title":"경희사이버대, SPC 기업대학 14기 교육생 수료식 참여",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1586544",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1586544",
+			"description":"김승화 ▲IT·<b>디자인<\/b>융합학부 1학년 강수진, 베이커리학과 ▲관광레저항공경영학부 4학년 이연주 ▲마케팅... 이번에 수료하는 학생들은 베이커리 및 바리스타 분야의 <b>직무<\/b> 숙련과 사회 적응을 위한 사전교육을 357시간... ",
+			"pubDate":"Tue, 26 Jul 2022 16:08:00 +0900"
+		},
+		{
+			"title":"산업재산권 분쟁조정위, 지재권 분쟁 해결사 부상",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022072613184078200",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004775462?sid=102",
+			"description":"산업재산권 분쟁조정위원회는 특허와 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 1995년부터 운영되고 있다. 산업재산권 등의... ",
+			"pubDate":"Tue, 26 Jul 2022 15:53:00 +0900"
+		},
+		{
+			"title":"특허청 분쟁조정위, 특허·상표권 분쟁 해결 대안으로 부상",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268O82K82O",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004080437?sid=101",
+			"description":"분쟁조정위원회는 특허와 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원하고자 1995년부터 운영되고 있다. 기업·개인이 조정... ",
+			"pubDate":"Tue, 26 Jul 2022 15:42:00 +0900"
+		},
+		{
+			"title":"안산교육지원청, 27∼29일 초등교사 대상 &apos;어서와! 맞춤형 여름연수학교&apos; 운영",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154339",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154339",
+			"description":"첫 연수는 &apos;미래형 학교자율 과정 <b>디자인<\/b> 워크숍&apos;으로 학년 맞춤형 소그룹으로 나눠 실행학습 중심으로... 홍정표 교육장은 &quot;무더운 날씨에도 불구하고 수업역량 강화를 위해 <b>직무<\/b>연수에 참여하는 선생님들께 감사하다... ",
+			"pubDate":"Tue, 26 Jul 2022 15:34:00 +0900"
+		},
+		{
+			"title":"[인사] 칠곡군",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=389671",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=389671",
+			"description":"김사억 △건축<b>디자인<\/b>과장 윤노영, △시설관리사업소장 이홍규, △동명면장 권헌정 △기산면장 이수윤 △칠곡군의회 파견 박정규 △관광진흥과장<b>직무<\/b>대리 이형곤 ◇6급 전보 △동명면 부면장 이태훈 △가산면 부면장... ",
+			"pubDate":"Tue, 26 Jul 2022 15:34:00 +0900"
+		},
+		{
+			"title":"[인사] 경북 칠곡군",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2516381",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2516381",
+			"description":"권헌정 ▲기산면장 이수윤 ▲총무과(칠곡군의회 파견) 박정규 ▲건설과장 윤근희 ▲도시계획과장 김사억 ▲건축<b>디자인<\/b>과장 윤노영 ▲시설관리사업소장 이홍규 ▲관광진흥과 <b>직무<\/b>대리 이형곤 민영뉴스통신사 국제뉴스",
+			"pubDate":"Tue, 26 Jul 2022 15:32:00 +0900"
+		},
+		{
+			"title":"특허·상표권 분쟁, 소송보다 조정으로 푼다",
+			"originallink":"https:\/\/www.junggi.co.kr\/article\/articleView.html?no=29065",
+			"link":"https:\/\/www.junggi.co.kr\/article\/articleView.html?no=29065",
+			"description":"산업재산권 분쟁조정위원회는 특허·상표·<b>디자인<\/b>·실용신안 등 산업재산권 및 <b>직무<\/b>발명·영업비밀·부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원하기 위해 1995년부터 운영되는 위원회로... ",
+			"pubDate":"Tue, 26 Jul 2022 15:24:00 +0900"
+		},
+		{
+			"title":"경희사이버대, 파리크라상 기업대학 14기 교육생 수료식 참여",
+			"originallink":"http:\/\/www.etnews.com\/20220726000183",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003033108?sid=102",
+			"description":"김승화 △IT·<b>디자인<\/b>융합학부 1학년 강수진, 베이커리학과 △관광레저항공경영학부 4학년 이연주 △마케팅... 이번에 수료하는 학생들은 베이커리 및 바리스타 분야의 <b>직무<\/b> 숙련과 사회 적응을 위한 사전교육을 357시간... ",
+			"pubDate":"Tue, 26 Jul 2022 14:59:00 +0900"
+		},
+		{
+			"title":"&quot;청년, 힘 좀 써볼텐가?&quot; 게임사 서포터즈 &apos;손길&apos;",
+			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296868",
+			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296868",
+			"description":"편집이나 <b>디자인<\/b>, 행사 취재와 인터뷰 등을 맡게 된다. 컴투스는 대학생 서포터즈 &apos;컴투스플레이어&apos; 8기를... &apos;컴투스플레이어&apos;는 게임 업계를 꿈꾸는 청년 인재들에게 미래 비전을 제시하고 다양한 <b>직무<\/b>의 간접 경험을... ",
+			"pubDate":"Tue, 26 Jul 2022 14:23:00 +0900"
+		},
+		{
+			"title":"배화여대, 신기술융합 학과 &apos;특성화 교육과정 개발 등 학과 특성화&apos; 추진",
+			"originallink":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=423595",
+			"link":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=423595",
+			"description":"디지털콘텐츠<b>디자인<\/b>과와 새롭게 변화하는 비서사무과, 행정서비스과, 스마트경영과, 글로벌관광콘텐츠과, 소프트웨어공학과, 패션산업학과이며 각 학과는 4차 산업혁명 시대에 알맞은 신기술융합 <b>직무<\/b>를 발굴하고... ",
+			"pubDate":"Tue, 26 Jul 2022 13:52:00 +0900"
+		},
+		{
+			"title":"[인사]경북 칠곡군",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4753858",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006240974?sid=102",
+			"description":"Δ농업정책과장 차영식 Δ동명면장 권헌정 Δ기산면장 이수윤 Δ칠곡군의회(파견) 박정규 Δ건설과장 윤근희 Δ도시계획과장 김사억 Δ건축<b>디자인<\/b>과장 윤노영 Δ시설관리사업소장 이홍규 Δ관광진흥과(<b>직무<\/b>대리) 이형곤",
+			"pubDate":"Tue, 26 Jul 2022 13:28:00 +0900"
+		},
+		{
+			"title":"[인사] 경북 칠곡군",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220726_0001956511&cID=10810&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011326728?sid=102",
+			"description":"차영식 ▲ 동명면장 권헌정 ▲ 기산면장 이수윤 ▲ 칠곡군의회(파견) 박정규 ▲ 건설과장 윤근희 ▲ 도시계획과장 김사억 ▲ 건축<b>디자인<\/b>과장 윤노영 ▲ 시설관리사업소장 이홍규 ▲ 관광진흥과(<b>직무<\/b>대리) 이형곤",
+			"pubDate":"Tue, 26 Jul 2022 13:05:00 +0900"
+		},
+		{
+			"title":"[인사] 칠곡군",
+			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=852377",
+			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=852377",
+			"description":"차영식 △동명면장 권헌정 △기산면장 이수윤 △총무과(칠곡군의회 파견) 박정규 △건설과장 윤근희 △도시계획과장 김사억 △건축<b>디자인<\/b>과장 윤노영 △시설관리사업소장 이홍규 △관광진흥과 <b>직무<\/b>대리 이형곤",
+			"pubDate":"Tue, 26 Jul 2022 13:04:00 +0900"
+		},
+		{
+			"title":"청호나이스, &apos;매트리스 케어 서비스&apos; 할인 진행…신일, &apos;에코 음식물 처리기 ...",
+			"originallink":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=141253",
+			"link":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=141253",
+			"description":"이번 공모전은 전자랜드를 대표할 수 있는 캐릭터 <b>디자인<\/b>을 구하고자 마련됐으며, 누구나 참여... 필요한 <b>직무<\/b>훈련 및 일경험 기회를 제공하는 민관협업 프로젝트다. 코웨이는 이번 지원사업 참여를 통해 청년고용 응원... ",
+			"pubDate":"Tue, 26 Jul 2022 12:36:00 +0900"
+		},
+		{
+			"title":"보령·환인·동구 등 수시채용 활발...마케팅·학술 등 전부문",
+			"originallink":"http:\/\/www.dailypharm.com\/Users\/News\/NewsView.html?ID=290359&REFERER=NP",
+			"link":"http:\/\/www.dailypharm.com\/Users\/News\/NewsView.html?ID=290359&REFERER=NP",
+			"description":"마감 기한은 <b>직무<\/b> 별로 상이하다. 임상연구 자료관리 및 통계 담당자의 경우 8월 1일, 임상 QA는 8월 4일이... 모집 부문은 ▲기획 ▲재무 ▲인사총무 ▲구매 ▲준법지원 ▲마케팅(PM\/학술) ▲마케팅 <b>디자인<\/b> ▲학술개발... ",
+			"pubDate":"Tue, 26 Jul 2022 12:18:00 +0900"
+		},
+		{
+			"title":"에이블런, 부산정보산업진흥원과 &apos;왕초보를 위한 노코드 분석 및 파이썬 데이...",
+			"originallink":"http:\/\/www.sisunnews.co.kr\/news\/articleView.html?idxno=167551",
+			"link":"http:\/\/www.sisunnews.co.kr\/news\/articleView.html?idxno=167551",
+			"description":"드리븐 <b>디자인<\/b>씽킹을 통한 문제해결 워크숍 ▲꺼진 지식도 돌아보자! 셀프 스터디를 통한 리뷰 학습 등의... 에이블런 관계자는 &quot;산업과 <b>직무<\/b>, 분야를 막론하고 많은 직장인들이 데이터 분석에 관심을 가지고 활용하며... ",
+			"pubDate":"Tue, 26 Jul 2022 11:58:00 +0900"
+		},
+		{
+			"title":"[#꿀신상#꿀혜택] 진로-부산시 &apos;박람회 포토존&apos;·코웨이 &apos;청년친화형 기업 ES...",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604188",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604188",
+			"description":"청년친화형 기업 ESG 지원사업은 청년고용 문제 해결을 위해 정부와 기업이 손잡고 청년에게 필요한 <b>직무<\/b>훈... 신제품은 기존 제품에 대한 소비자의 반응을 면밀하게 살펴 성능, <b>디자인<\/b>, 내구성 등을 향상시킨 것이... ",
+			"pubDate":"Tue, 26 Jul 2022 11:46:00 +0900"
+		},
+		{
+			"title":"[유통가 레이더] 대상라이프사이언스 마이밀 &apos;프로틴 리저브&apos;, 국내 최초 &apos;토...",
+			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296864",
+			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296864",
+			"description":"전자랜드를 대표할 수 있는 캐릭터 <b>디자인<\/b>을 선정하는 공모전이며, 1등 수상자에게는 700만원의 상금과... 필요한 <b>직무<\/b>훈련 및 일경험 기회를 제공하는 민관협업 프로젝트다. 기업이 보유한 강점과 인프라를 활용해... ",
+			"pubDate":"Tue, 26 Jul 2022 11:24:00 +0900"
+		},
+		{
+			"title":"배화여대, 신기술융합 학과 교육과정 개발 등 특성화 추진 &apos;박차&apos;",
+			"originallink":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=62401",
+			"link":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=62401",
+			"description":"디지털콘텐츠<b>디자인<\/b>과와 새롭게 변화하는 비서사무과, 행정서비스과, 스마트경영과, 글로벌관광콘텐츠과, 소프트웨어공학과, 패션산업학과이며 각 학과는 4차 산업혁명 시대에 알맞은 신기술융합 <b>직무<\/b>를 발굴하고... ",
+			"pubDate":"Tue, 26 Jul 2022 11:08:00 +0900"
+		},
+		{
+			"title":"2달이면 해결 … 산업재산권 분쟁조정 신청 봇물",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022072602109931731002&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002745867?sid=105",
+			"description":"산업재산권 분쟁조정위원회는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결하도록 돕기 위해 1995년부터 운영되고 있다. 산업재산권 등의... ",
+			"pubDate":"Tue, 26 Jul 2022 11:04:00 +0900"
+		},
+		{
+			"title":"경희사이버대 SPC 그룹 파리크라상 기업대학 14기 교육생 수료식 참여",
+			"originallink":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=423571",
+			"link":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=423571",
+			"description":"김승화 ▲IT\/<b>디자인<\/b>융합학부 1학년 강수진, 베이커리학과 ▲관광레저항공경영학부 4학년 이연주 ▲마케팅... 이번에 수료하는 학생들은 베이커리 및 바리스타 분야의 <b>직무<\/b> 숙련과 사회 적응을 위한 사전교육을 357시간... ",
+			"pubDate":"Tue, 26 Jul 2022 11:00:00 +0900"
+		},
+		{
+			"title":"[HotJobs100] 비즈니스피플이 엄선한 오늘의 채용-7월26일",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=287966",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=287966",
+			"description":"인재상과 조직문화에 맞는 후보자 검증 전략을 실행해본 경험이 있는 사람 등은 우대한다. ◆ SK하이닉스... ◆ NHN애드, UI\/UX 컨설팅 신입\/경력 채용 사용자환경•사용자경험(UI•UX) 컨설팅, UI•UX <b>디자인<\/b>, 선행연구와... ",
+			"pubDate":"Tue, 26 Jul 2022 10:46:00 +0900"
+		},
+		{
+			"title":"분쟁조정, 특허·상표권 분쟁 해결의 새로운 대안으로 부상",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20220726000246",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002020513?sid=102",
+			"description":"산업재산권 분쟁조정위원회는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원키 위해 지난 1995년부터 운영되는 위원회로... ",
+			"pubDate":"Tue, 26 Jul 2022 10:42:00 +0900"
+		},
+		{
+			"title":"특허·상표권 등 분쟁 조정 신청 증가세",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/1954157.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000162989?sid=102",
+			"description":"산업재산권 분쟁조정위원회는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원하기 위해 1995년부터 운영되고 있다. 특허청... ",
+			"pubDate":"Tue, 26 Jul 2022 10:12:00 +0900"
+		},
+		{
+			"title":"산업재산권 분쟁조정제도, 지재권 분쟁 해결 대안 급부상",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01790886632398456",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005277065?sid=101",
+			"description":"산업재산권 분쟁조정위원회는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원하기 위해 1995년 도입됐다. 산업재산권 등의... ",
+			"pubDate":"Tue, 26 Jul 2022 10:03:00 +0900"
+		},
+		{
+			"title":"특허청 분쟁조정, 특허·상표권 분쟁 해결 대안으로 부상",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4753524",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006240076?sid=102",
+			"description":"산업재산권 분쟁조정위원회는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원하기 위해1995년부터 운영되고 있다. 산업재산권... ",
+			"pubDate":"Tue, 26 Jul 2022 09:55:00 +0900"
+		},
+		{
+			"title":"지재권 분쟁 &apos;조정&apos; 신청 크게 늘어…조정 성립률도 50% 달해",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220726043800063?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013333940?sid=101",
+			"description":"산업재산권 분쟁조정위원회는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원하기 위해 1995년부터 운영되고 있다.... ",
+			"pubDate":"Tue, 26 Jul 2022 09:47:00 +0900"
+		},
+		{
+			"title":"분쟁조정, 특허·상표권 분쟁 해결 대안으로 부상",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5792578",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003668215?sid=101",
+			"description":"산업재산권 분쟁조정위원회는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명과 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원하기 위해 1995년부터 운영 중으로 산업재산권... ",
+			"pubDate":"Tue, 26 Jul 2022 09:27:00 +0900"
+		},
+		{
+			"title":"분쟁조정, 특허·상표권 분쟁 해결 새 대안 부상",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207260905196095",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004872991?sid=102",
+			"description":"산업재산권 분쟁조정위원회는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원하기 위해 지난 1995년부터 운영되고 있다.... ",
+			"pubDate":"Tue, 26 Jul 2022 09:26:00 +0900"
+		},
+		{
+			"title":"산업재산권 분쟁조정위 상반기 월평균 신청건수 전년대비 27.7%↑",
+			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=852227",
+			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=852227",
+			"description":"산업재산권 분쟁조정위원회는 특허, 상표, <b>디자인<\/b>, 실용신안 등 산업재산권 및 <b>직무<\/b>발명, 영업비밀, 부정경쟁행위 등의 분쟁을 신속하고 경제적으로 해결할 수 있도록 지원하기 위해 1995년부터 운영되는 위원회로... ",
+			"pubDate":"Tue, 26 Jul 2022 09:24:00 +0900"
+		},
+		{
+			"title":"[Weekly Biz Survey] 기업 10곳 중 9곳 긱워커와 일할 것",
+			"originallink":"http:\/\/www.thescoop.co.kr\/news\/articleView.html?idxno=54958",
+			"link":"http:\/\/www.thescoop.co.kr\/news\/articleView.html?idxno=54958",
+			"description":"긱워커에게 맡긴 <b>직무<\/b> 분야는 &apos;IT개발(20.0%ㆍ복수응답)&apos; &apos;<b>디자인<\/b>(18.2%)&apos; &apos;서비스(16.4%)&apos; &apos;문서작업ㆍ작문(15.2%)&apos; 등의 순으로 많았다. 실제 긱워커를 활용한 경험이 있는 기업(165개사) 중 86.1%는 &apos;긱워커의 업무 처리에... ",
+			"pubDate":"Tue, 26 Jul 2022 09:02:00 +0900"
+		},
+		{
+			"title":"[구로구 소식] 7월 25일 별별 소식!",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2515786",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2515786",
+			"description":"디자이너 취업을 희망하는 만 19~34세 취업 준비생 15명을 모집하며 9월 3일부터 10월 29일까지 매주 토요일 UI\/UX, BX 등 <b>디자인 직무<\/b> 케이스 스터디 및 실습 과정이 진행된다. 신청은 내달 1일부터 28일까지 청년이룸... ",
+			"pubDate":"Tue, 26 Jul 2022 07:50:00 +0900"
+		},
+		{
+			"title":"첫 대정부질문 &apos;경찰국&apos; 공방…오늘 행안부 업무보고",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12067831",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000307081?sid=100",
+			"description":"권성동 국민의힘 대표 <b>직무<\/b>대행도 경찰의 집단 행동에 대해 &quot;본질은 항명을 모의하는 &apos;경찰판 하나회&apos;&quot;라며... 직접 올라탔다…] 민주당 일각에선 이 장관에 대한 탄핵을 촉구하는 주장도 나왔습니다. (영상<b>디자인<\/b> : 곽세미)",
+			"pubDate":"Tue, 26 Jul 2022 07:19:00 +0900"
+		},
+		{
+			"title":"[인사]칠곡군",
+			"originallink":"http:\/\/www.dkilbo.com\/news\/articleView.html?idxno=371709",
+			"link":"http:\/\/www.dkilbo.com\/news\/articleView.html?idxno=371709",
+			"description":"(칠곡군의회 파견) 박 정 규 ▷건설안전국 건설과장 윤 근 희 ▷급건설안전국 도시계획과장 김 사 억 ▷ 시설5급건설안전국 건축<b>디자인<\/b>과장 윤 노 영 ▷시설관리사업소장 이 홍 규 ▷관광경제국 관광진흥과 <b>직무<\/b>대리 이 형 곤",
+			"pubDate":"Mon, 25 Jul 2022 21:36:00 +0900"
+		},
+		{
+			"title":"이상민 &quot;쿠데타와 내란은 달라&quot;…여당에선 &apos;우려&apos; 목소리",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12067790",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000307049?sid=100",
+			"description":"권성동 국민의힘 대표 <b>직무<\/b>대행도 경찰의 집단 행동에 대해 &quot;본질은 항명을 모의하는 &apos;경찰판 하나회&apos;&quot;라며... 직접 올라탔다…] 민주당 일각에선 이 장관에 대한 탄핵을 촉구하는 주장도 나왔습니다. (영상<b>디자인<\/b> : 곽세미)",
+			"pubDate":"Mon, 25 Jul 2022 19:57:00 +0900"
+		},
+		{
+			"title":"구로구, 청년 취업 도전‧온라인 창업 과정 모집",
+			"originallink":"http:\/\/www.seouland.com\/arti\/society\/society_general\/9911.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002599944?sid=102",
+			"description":"디자이너 취업을 희망하는 만 19~34세 취업 준비생 15명을 모집하며 9월3일부터 10월29일까지 매주 토요일 UI\/UX, BX 등 <b>디자인 직무<\/b> 케이스 스터디 및 실습 과정이 진행된다. 신청은 다음달 1일부터 28일까지 청년이룸... ",
+			"pubDate":"Mon, 25 Jul 2022 17:54:00 +0900"
+		},
+		{
+			"title":"구로구, 미취업 청년에 창업교육등 3개 프로 제공",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292419743206",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292419743206",
+			"description":"또한 구는 디자이너 취업을 희망하는 청년을 위해서는 오는 9월3일부터 10월29일까지 매주 토요일 UI\/UX, BX 등 <b>디자인 직무<\/b> 케이스 스터디 및 실습 과정이 진행된다. 신청은 오는 8월1일부터 28일까지 청년이룸 홈페이지에서... ",
+			"pubDate":"Mon, 25 Jul 2022 17:52:00 +0900"
+		},
+		{
+			"title":"고운세상코스메틱, 창사 이래 첫 &apos;공개 채용&apos; 실시",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022072511101554406",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004775037?sid=101",
+			"description":"신입사원은 △글로벌마케팅 △영상 기획 및 제작 △웹<b>디자인<\/b> △온라인영업 △해외영업 △품질관리 △채용 등 7개 <b>직무<\/b>로 모집한다. 경력 채용 부문은 △글로벌마케팅 △디지털마케팅 △영상 기획 및 채널관리... ",
+			"pubDate":"Mon, 25 Jul 2022 17:49:00 +0900"
+		}
+	]
+}

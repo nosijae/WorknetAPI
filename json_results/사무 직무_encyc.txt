@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:02 +0900",
+	"total":3313,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"법률<b>사무<\/b> 보조원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B2%95%EB%A5%A0%EC%82%AC%EB%AC%B4_%EB%B3%B4%EC%A1%B0%EC%9B%90",
+			"description":"법률회사에서 변호사의 법률적 업무를 지원하는 직책으로 한국의 법무사, <b>사무<\/b>장과 <b>직무<\/b>가 유사하다. 법학교육을 받았고, 소송을 위한 자료 수집부터 서면작성까지 변호사의 업무를 거의 다 하는데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>감찰",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=72442&cid=43667&categoryId=43667",
+			"description":"감사원법에 규정되어 있는 <b>직무<\/b>감찰은 행정기관 등의 <b>사무<\/b>와 공무원 등의 <b>직무<\/b> 및 이와 관련된 행위에 대하여 조사 · 평가 등의 방법으로 법령상, 제도상 또는 행정상의 모순이나 문제점을 적출하여 이를 시정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>규칙",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545713&cid=42279&categoryId=42279",
+			"description":"<b>직무<\/b>는 직책이나 직업상에서 책임을 지고 담당하여 맡은 <b>사무<\/b>를 말한다. 따라서 <b>직무<\/b>규칙은 <b>직무<\/b>규정을 의미한다. 일반적으로 <b>직무<\/b>규정은 말 그대로 <b>직무<\/b>와 관련된 제반 사항을 기록해 두고, 이를 올바르게... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181552815_2KW112Y2C.jpg\/hb10_78587_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"국회<b>사무<\/b>처",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=646063&cid=43124&categoryId=43124",
+			"description":"차장은 정무직으로 <b>사무<\/b>총장 유고 시 입법차장, <b>사무<\/b>차장 순서로 <b>직무<\/b>를 대리한다. 입법차장은 의사•입법조사, 기록편찬 등 입법 보조 업무와 상임위원회 지원 및 그에 따른 조정에 관해 <b>사무<\/b>총장을 보좌한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"판단<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962786&cid=42149&categoryId=42149",
+			"description":"특히 <b>사무<\/b>관리의 참모적 기능에 속하는 <b>직무<\/b>분석, <b>직무<\/b>평가, <b>사무<\/b>표준화, 작업연구, <b>사무<\/b>공정관리, <b>사무<\/b>품질 및 <b>사무<\/b>원가 관리, 예산관리, 문서관리 등에 관한 <b>사무<\/b>는 판단<b>사무<\/b>에 속한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"호송<b>사무<\/b>소장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026072&cid=42117&categoryId=42117",
+			"description":" 부서원의 교육 및 안전한 호송 등 호송업무 및 호송<b>사무<\/b>소의 전반적인 관리업무를 한다. [수행<b>직무<\/b>] 호송<b>사무<\/b>소 부서원의 복무상황, 작업, 인사관리를 한다. 부서원의 안전교육을 하고 귀중품 호송원의 안전을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공유<b>사무<\/b>실매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024600&cid=42117&categoryId=42117",
+			"description":" 기업이 입주한 공유<b>사무<\/b>실(코워킹 스페이스)을 운영·관리하고 입주기업 간의 커뮤니티 형성을 지원하는 이벤트를 기획하고 운영한다. [수행<b>직무<\/b>] 공유<b>사무<\/b>실 및 제공서비스의 계약, 운영 및 관리를 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"담보물감정<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024998&cid=42117&categoryId=42117",
+			"description":" 연체금 회수 목적인 담보물에 대한 가격을 감정하기 위하여 현황을 조사·평가하는 업무를 수행한다. [수행<b>직무<\/b>] 여신<b>사무<\/b>원 또는 관계부서로부터 감정의뢰서를 접수하여 자체처리 가능한 물건은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금융대출감정<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025036&cid=42117&categoryId=42117",
+			"description":" 연체 시의 대출금 회수를 위한 대출담보물의 가격을 감정하기 위해 현황을 조사하고 평가한다. [수행<b>직무<\/b>] 창구<b>사무<\/b>원이나 관계부서로부터 담보물감정의뢰서를 접수한다. 자체처리가 가능한 물건은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서부광산안전<b>사무<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%9C%EB%B6%80%EA%B4%91%EC%82%B0%EC%95%88%EC%A0%84%EC%82%AC%EB%AC%B4%EC%86%8C",
+			"description":"소장은 행정<b>사무<\/b>관 또는 공업<b>사무<\/b>관으로 보한다. <b>직무<\/b> 광산시설에 대한 안전검사 광산시설에 대한 보안대책에 관한 사항 관할구역 서울특별시 인천광역시 대전광역시 경기도 충청남도 연혁... ",
+			"thumbnail":""
+		},
+		{
+			"title":"남부광산안전<b>사무<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%82%A8%EB%B6%80%EA%B4%91%EC%82%B0%EC%95%88%EC%A0%84%EC%82%AC%EB%AC%B4%EC%86%8C",
+			"description":"소장은 행정<b>사무<\/b>관 또는 공업<b>사무<\/b>관으로 보한다. <b>직무<\/b> 광산시설에 대한 안전검사 광산시설에 대한 보안대책에 관한 사항 관할구역 부산광역시 광주광역시 울산광역시 경상남도 전라북도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·<b>사무<\/b> 관련 전문직 및 <b>사무<\/b>직, 연구 관련직, 정보통신·방송 관련 기술·기능직 등 14개 분야의 74개 <b>직무<\/b>가 있다.  출처: 게티이미지 코리아 '신중년 적합<b>직무<\/b>'란... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"화물수취<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024751&cid=42117&categoryId=42117",
+			"description":" 각종 운송수단으로 운송된 화물을 확인하여 수취·보관·처리하며 화주에게 운송을 주선한다. [수행<b>직무<\/b>] 화물발송<b>사무<\/b>원으로부터 화물의 도착시간과 운송수단을 통보받는다. 화물열차차장, 화물차운전기사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>용기기기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029132&cid=42117&categoryId=42117",
+			"description":" 복사기, 팩시밀리(FAX와 유사) 등의 <b>사무<\/b>용기기를 연구·설계하고 개발한다. [수행<b>직무<\/b>] 신속한 <b>사무<\/b>처리에 적합한 장치와 기계를 연구·설계한다. 개발된 <b>사무<\/b>기기를 시험제작하여 제품의 성능을 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공사입찰기술<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024599&cid=42117&categoryId=42117",
+			"description":" 건설공사의 수주입찰서류를 작성·접수하고, 공사계약을 위한 서류를 준비한다. [수행<b>직무<\/b>] 건설공사견적<b>사무<\/b>원에게 입찰용 견적서를 전달받아 접수하고 검토한다. 입찰에 필요한 서류를 준비하여 발주처에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기밀<b>사무<\/b>취급자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2208969&cid=51088&categoryId=51088",
+			"description":"‘기밀<b>사무<\/b>취급자’라 함은 반드시 기업의 비밀서류 등을 취급하는 자를 가리키는 것이 아니라, 비서, 기타 그 <b>직무<\/b>가 사업의 기밀<b>사무<\/b>를 취급하고 그 지위가 경영자 또는 관리·감독적 지위에 있는 자의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권일반<b>사무<\/b>수탁<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025055&cid=42117&categoryId=42117",
+			"description":" 증권투자회사 등과의 위탁계약에 따라 수행하는 계산에 관한 <b>사무<\/b>, 증권투자회사의 운영에 관한 <b>사무<\/b> 등을 수행한다. [수행<b>직무<\/b>] 증권투자회사의 설립, 금감위 등록 및 청산<b>사무<\/b>, 판매회사, 자사보관회사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권지점<b>사무<\/b>총괄<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025061&cid=42117&categoryId=42117",
+			"description":" 증권 관련 회사의 영업점에 근무하면서 유가증권거래에 관한 일을 처리하는 종사원들이 효율적으로 일할 수 있도록 조언하고 <b>사무<\/b>를 총괄하는 업무를 수행한다. [수행<b>직무<\/b>] 유가증권거래에 관한 고객계좌부의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"남북공동연락<b>사무<\/b>소 <b>사무<\/b>처",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%82%A8%EB%B6%81%EA%B3%B5%EB%8F%99%EC%97%B0%EB%9D%BD%EC%82%AC%EB%AC%B4%EC%86%8C_%EC%82%AC%EB%AC%B4%EC%B2%98",
+			"description":"<b>직무<\/b> 남북관계의 모든 사항에 관한 남북한 간 연락 및 협의 남북한 간 각종 회담에 관한 교섭, 연락 및 협의 남북한 간 교류협력을 위한 공동 연구·조사의 지원에 관한 사항 경제, 사회, 문화예술, 체육... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위임<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=77274&cid=42155&categoryId=42155",
+			"description":" 국가나 상급 자치단체의 위임에 의해 지방자치단체가 처리하는 <b>사무<\/b>를 말한다. 이에 대비되는 자치<b>사무<\/b>는 지방자치단체 존립의 목적이 되는 지방적 복리<b>사무<\/b>를 말한다. 위임<b>사무<\/b>는 또한 자치단체 그 자체에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578513&cid=46625&categoryId=46625",
+			"description":"[내용] 가장 넓은 의미로는 모든 5급공무원을, 넓은 의미로는 5급공무원 중 행정직의 5급국가공무원인 행정<b>사무<\/b>관·검찰<b>사무<\/b>관·출입국관리<b>사무<\/b>관·통계<b>사무<\/b>관 등과 행정직의 5급지방공무원인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>급제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5909016&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | 職務級制(한자) | <b>직무<\/b>급제는 업무의 성격·난이도·책임 강도 등에 따라 급여를 달리하는 제도로, 기술직·<b>사무<\/b>직·단순 노무직의 임금체계를 완전히 다르게 하는 것이다. 즉, 연공서열에 따른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"총무<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024669&cid=42117&categoryId=42117",
+			"description":" 자산의 매입과 처분, 행사진행, <b>사무<\/b>환경개선 등 물적자원의 활용방안을 검토하고 적용한다. [수행<b>직무<\/b>] 집기비품 등 고정자산에 대한 구매, 관리, 폐기에 대한 전반적인 업무를 한다. 조직개편 등에 따른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2393232&cid=50762&categoryId=51387",
+			"description":"대상 29:6의 경우, 원어로는 ‘<b>직무<\/b>를 담당하는 책임자’란 뜻으로서 의미가 분명치 않다. 또 천부장이나 백부장보다 나중에 거명되는 것으로 보아 행정(<b>사무<\/b>)을 담당하는 중간 관리자 정도로 여겨진다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1763106&cid=49233&categoryId=49233",
+			"description":"<b>직무<\/b>상 어려움은 <b>사무<\/b>직의 경우 대부분이 남성이고 여성은 한 명 정도인 <b>직무<\/b>환경이 많아 고립감을 느끼거나 남녀차별을 직접적으로 경험하게 되는 것이다. 미혼의 상태에서 근무하고 결혼 이후 직장을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_8\/20130315223724628_QM8J82EG7.jpg\/z2_cp04230074000.jpg?type=m160_160"
+		},
+		{
+			"title":"여신<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953627&cid=42117&categoryId=42117",
+			"description":" 금융기관에서 고객에게 돈을 빌려주기 위해 자금수요자의 요청에 따라 채권보전절차를 거쳐 급부·대출하고, 대출기간이 끝나면 자금회수 업무를 수행한다. [수행<b>직무<\/b>] 차용신청서 또는 차용 및 보증신청서를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특허<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025405&cid=42117&categoryId=42117",
+			"description":" 변리사의 업무지원을 위해 변리사의 지휘하에 특허 관련 서류를 작성하고 제출한다. [수행<b>직무<\/b>] 특허신청 의뢰인과 상담하거나 상담에 참여한다. 특허 관련 정보를 탐색하고 조사한다. 특허 관련 법조문이나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>직",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%AC%B4%EC%A7%81",
+			"description":"<b>사무<\/b>직 (事務職)은 주로 책상에서 <b>직무<\/b>를 수행하는 직업을 일컫는 말이다. 기업의 경우, 회계, 총무, 법무 서비스업 등의 관리 부문과 간접 부문 (어드미니스트레이션)이 이에 해당한다. 영업직의 대비어로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소송<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025402&cid=42117&categoryId=42117",
+			"description":" 소송업무에 따른 소송승인 신청서나 보고서를 처리하는 업무와 경우에 따라서는 소송을 대리하기도 한다. [수행<b>직무<\/b>] 각 지점으로부터 미 회수된 대여금 및 대출금의 채권추심소송을 위한 소송대리인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2393230&cid=50762&categoryId=51387",
+			"description":"책임감을 가지고 감당해야 할 직임. <b>직무<\/b>. 제사장의 성소 <b>직무<\/b>와 관련하여 언급된다(민 4:33). 히브리어로 ‘아보다’인데 ‘노동하다’, ‘봉사하다’는 뜻이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"세관<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024676&cid=42117&categoryId=42117",
+			"description":" 수입 또는 수출하기 위하여 컨테이너부두로 반입되는 물품에 대한 세관 관련 업무를 수행한다. [수행<b>직무<\/b>] 세관 관련 서류를 작성하여 세관에 제출한다. 구내 이적 컨테이너를 입력하여 터미널운영원에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1835013&cid=49067&categoryId=49067",
+			"description":"[개인 <b>사무<\/b> 공간(workstation)] 1명 이상의 직원이 일련의 <b>직무<\/b>를 수행할 수 있도록 설비가 이루어진 공간. [직원 식당(employee lunchroom)] 직원들이 식사를 하는 공간. [주방(kitchen facilities)] 식사를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1592_000_1\/20130322235846029_NPBN8FGLB.jpg\/z1_1404_i1_org.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383894&cid=42279&categoryId=42279",
+			"description":"<b>직무<\/b>란 직책이나 직업상에서 책임을 지고 담당하여 맡은 <b>사무<\/b>로, 직급에 따라 부여되는 일을 의미한다. <b>직무<\/b>소개서는 이러한 <b>직무<\/b>에 대해 소개하는 문서이다. 그러므로 <b>직무<\/b>소개서를 작성할 때에는 근무부서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122325044_Y437XQNCE.jpg\/hb10_22863_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>기술서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1206573&cid=40942&categoryId=31911",
+			"description":"결과와 <b>직무<\/b>수행 방법을 간단하게 설명해준다. <b>사무<\/b>직·기술직·관리직에 모두 적용되어 <b>직무<\/b>평가와 승진인사의 결정기준으로 사용되며, 경영간부육성의 기준이 되는 기능도 갖고 있으므로 이 경우에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국회<b>사무<\/b>처",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1067611&cid=40942&categoryId=34709",
+			"description":"차장은 정무직으로 입법차장과 행정차장이 있으며 <b>사무<\/b>총장이 사고가 있을 때는 입법차장·행정차장의 순서로 그 <b>직무<\/b>를 대리한다. 입법차장은 의사·입법조사·기록편찬 등의 입법보조업무와 위원회 지원 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1206572&cid=40942&categoryId=31911",
+			"description":"간에 친밀한 관계를 유지해야 하고, <b>직무<\/b>수행자들이 <b>직무<\/b>분석 과정을 호의적이고 유용한 것으로 이해할 수 있어야 한다. 오늘날 가장 많이 활용하는 <b>직무<\/b>분석의 방법으로서 주로 관리·감독업무, <b>사무<\/b>적",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>조사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=472960&cid=42120&categoryId=42120",
+			"description":"보수지 급표, <b>사무<\/b>용구와 비품 등에 관한 정보도 보조적 자료로 이용된다. <b>직무<\/b>조사의 방법으로는 질문지방법(questionnaire method), 면접방법(interview method), 관찰방법(observation method) 등이 사용된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"우편환<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025106&cid=42117&categoryId=42117",
+			"description":" 직접적인 현금수송이 아닌 우편환 증서의 송달에 의한 송금업무를 수행한다. [수행<b>직무<\/b>] 고객에게 통상환, 전신환 등의 우편환 종류를 설명한다. 고객이 작성한 송금의뢰서 내용을 전산에 입력한다. 고객에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>감찰",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=77957&cid=50300&categoryId=50300",
+			"description":"행정기관의 <b>사무<\/b>와 그에 속하는 공무원의 <b>직무<\/b>를 감찰하는 것을 말한다. <b>직무<\/b>감찰은 행정의 합법성과 능률성 여부를 검토하는 것으로 그 대상 범위가 행정기관에 한정된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"인사<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024642&cid=42117&categoryId=42117",
+			"description":" 인적자원의 채용, 교육, 평가, 보상, 입·퇴사 등 인사관리를 한다. [수행<b>직무<\/b>] 필요한 인력에 대해 채용공고를 내고, 면접전형을 진행한다. 채용이 확정되면 근로조건을 협의하고 현업부서에 배치한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>인계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961858&cid=42149&categoryId=42149",
+			"description":"또한 소관<b>사무<\/b>의 타 조직 또는 타부서에의 이관으로 분장 <b>사무<\/b>를 인계하거나 기타 사유로 <b>사무<\/b>가 인계될 때에는 당해 관서장인 경우에는 그 <b>직무<\/b>를 대리하는 공무원, 기타 경우에는 직속상사가 지정한 자에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>직고과표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545182&cid=42279&categoryId=42279",
+			"description":" <b>사무<\/b>직고과표란 <b>사무<\/b>직의 인사고과 내용을 기재한 표 형식의 양식이다.  인사고과란 인원 배치, 임금 책정, 교육 훈련 등을 위해 직원들의 능력, 성적 태도 등을 종합적으로 평가하는 일을 말하며, 이 중 <b>사무<\/b>직... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182355690_309JRZRN4.jpg\/hb10_79331_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>기술서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831239&cid=42279&categoryId=42279",
+			"description":" <b>직무<\/b>기술서란 해당 <b>직무<\/b>의 특징과 <b>직무<\/b>에 필요한 요건을 기록한 서식이다. [<b>직무<\/b>기술서의 개요] 1) <b>직무<\/b>기술서의 정의 <b>직무<\/b>기술서란 어떠한 <b>직무<\/b>에 대해 <b>직무<\/b>분석을 통하여 해당<b>직무<\/b>의 성격이나 <b>직무<\/b>개요... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20220602171810328_LYVQ9S7KU.jpg\/hb10_3786_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경리<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024861&cid=42117&categoryId=42117",
+			"description":" 회사 경영에 필요한 재무정보를 제공하기 위하여 현금, 채권, 채무 등의 증감을 기록, 계산, 정리하는 업무를 수행한다. [수행<b>직무<\/b>] 정해진 절차에 따라 매뉴얼이나 전산시스템을 사용하여 청구서, 송장, 계산서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관세<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024775&cid=42117&categoryId=42117",
+			"description":" 관세사의 지휘하에 수출 및 수입통관, 환급 등 관련 서류를 작성하고 신청한다. [수행<b>직무<\/b>] 수출입대상 품목을 분류하고 세액을 산출한다. 수출 및 수입통관 관련 문서를 검토하고 컴퓨터에 입력하여 신고한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감사<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024670&cid=42117&categoryId=42117",
+			"description":" 감독기관의 감독규정 및 관련 법규, 회사사규 및 윤리기준을 근간으로 감사실시계획을 세우고 감사를 실시한다. [수행<b>직무<\/b>] 회사 감사기관의 감사지침에 따라 부서별 감사계획, 연간 감사계획을 수립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"병원<b>사무<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024661&cid=42117&categoryId=42117",
+			"description":" 병원의 효율적인 운영과 관리를 위하여 인사, 구매, 재무 및 기타 <b>사무<\/b>업무를 관장하고 <b>사무<\/b>원을 관리·감독한다. [수행<b>직무<\/b>] 병원의 진료활동에 필요한 의약품과 의료기구의 재고현황을 파악하고 각 부서에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"법무<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025400&cid=42117&categoryId=42117",
+			"description":" 법무사의 지휘하에 사법기관에 제출한 서류를 소정 양식에 따라 작성하고 이를 제출하는 등 법무사의 업무를 지원한다. [수행<b>직무<\/b>] 소유권이전등기, 가압류, 가처분 등 법무 관련 업무에 관련된 서류의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"회계<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024860&cid=42117&categoryId=42117",
+			"description":" 기업 또는 회계<b>사무<\/b>소에서 사업체의 재무 거래에 대해서 분기, 전기, 결산 등의 업무를 수행한다. [수행<b>직무<\/b>] 발생한 거래 즉 자산, 부채, 자본의 증감 및 손익의 발생에 따라 차변계정과목과 대변계정과목을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"통계<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024905&cid=42117&categoryId=42117",
+			"description":" 각종 통계데이터를 수집하여 체계적으로 정리하고, 기본적인 통계처리업무를 수행한다. [수행<b>직무<\/b>] 통계조사계획에 따라 작성된 설문지를 검토한다. 통계조사원에게 조사방법과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"노무<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024639&cid=42117&categoryId=42117",
+			"description":" 노무사의 지휘하에 노사를 대리하여 관계기관에 행하는 신고, 보고, 신청, 진술, 청구에 관한 서류작성 등 노무사의 업무를 지원한다. [수행<b>직무<\/b>] 고객의 요구를 파악하고 적절한 업무수행을 위해 노무와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"홍보<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953543&cid=42117&categoryId=42117",
+			"description":" 사업체의 홍보 및 광고안을 기획하고 신문, 방송, SNS, 유튜브 등에 홍보한다. [수행<b>직무<\/b>] 홍보환경을 조사하고 관련 정보를 수집한다. 기관의 비전, 목표 등을 고려하여 홍보대상별 목표 설정 및 효과적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"협회<b>사무<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832729&cid=42117&categoryId=42117",
+			"description":" 협회원의 권익옹호 및 협력증진을 위해 회의와 행사를 주관하고 협회 <b>사무<\/b>원의 활동을 감독한다. [수행<b>직무<\/b>] 협회 운영과 관련된 정책을 수립한다. 협회 소속 직원의 인사와 업무를 조정한다. 협회의 기능과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수신<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025009&cid=42117&categoryId=42117",
+			"description":" 고객(개인, 기업)의 수신상담, 예수금 및 채권 등의 통장(증서) 발행·해지·상환, 입출금 등 창구일선업무를 수행하고 주요 증서류관리, 전자금융업무관리, 시재관리, 일일마감 등의 업무를 수행한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"통관<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953542&cid=42117&categoryId=42117",
+			"description":" 시설재, 원자재, 제품 등의 수출·입 통관을 위해 통관계획을 입안하고 통관진행에 따른 제반 업무와 사후관리업무를 수행한다. [수행<b>직무<\/b>] 수출·입에 필요한 각종 통관서류를 작성하여 해당 부서에 통보한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b> 분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=831164&cid=42344&categoryId=42344",
+			"description":"이를 위한 <b>사무<\/b> 분석 기법으로는 조직에 관한 분석(조직도, 업무 분장, <b>직무<\/b> 기술서의 작성), 장표의 흐름에 관한 분석(<b>사무<\/b> 공정 분석, 흐름도의 작성), 기타 동작 작업의 분석, <b>직무<\/b> 분담의 분석, <b>사무<\/b>량 측정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세무<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024858&cid=42117&categoryId=42117",
+			"description":" 세무사의 지휘하에 세무에 관한 서류를 작성·검토·신고·신청하는 등 세무사의 업무를 지원한다. [수행<b>직무<\/b>] 일정 과세기간 중 접수한 매출 및 기타 세무자료를 취합하여 기재사항을 검토하고 보완한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도선<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024862&cid=42117&categoryId=42117",
+			"description":" 도선사들로부터 도선선표를 받아 도선료를 계산한다. [수행<b>직무<\/b>] 도선사들이 선장으로부터 받아 전송된 도선선박의 선명, 구간이동시간, 톤수(홀수) 등의 내역이 있는 도선확인서를 전산 입력한다. 거리 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025352&cid=42117&categoryId=42117",
+			"description":" <b>사무<\/b>관리계열학원에서 수강생들에게 특정교과에 대한 이론과 기술을 강의하고 자격·면허를 취득하기 위한 전문과목을 지도한다. [수행<b>직무<\/b>] 수강생들에게 워드프로세스, 컴퓨터활용능력, PC운용 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복권<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025002&cid=42117&categoryId=42117",
+			"description":" 복권상품과 제도를 개발하고 복권발행을 기획·관리하며 관련 마케팅업무를 수행한다. [수행<b>직무<\/b>] 국내외 복권제도 및 상품자료와 정보를 수집하여 국내상황에 적절한 상품을 연구·개발한다. 복권사업의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"요금<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024866&cid=42117&categoryId=42117",
+			"description":" 수용가가 사용한 가스, 수도, 전기, 열의 양에 따라 요금을 청구하는 업무를 수행한다. [수행<b>직무<\/b>] 검침자료를 검토한 후 전산상에 나타난 문제점이 없는가를 검사한다. 검침상 문제점이 발견되면 수용가와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"협회<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658433&cid=42117&categoryId=42117",
+			"description":" 회원에게 사업경영의 이익을 도모하기 위하여 회의 및 행사주관, 회원을 대표한 대외섭외, 홍보활동, 기술정보지 및 회원명부 발간·편집 등의 업무를 수행한다. [수행<b>직무<\/b>] 신규 및 기존회원의 등록을 받는다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공의 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2208697&cid=51088&categoryId=51088",
+			"description":"공의 <b>직무<\/b>란 법령에 근거를 두고 <b>직무<\/b> 자체가 공적 성격을 가진 일(<b>사무<\/b>)을 말한다. 국회의원·지방자치단체의 의원, 노동위원회의 위원 등이 회의에 참석하는 행위를 비롯하여, 공직선거에서 선거참관인의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"리스<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026043&cid=42117&categoryId=42117",
+			"description":" 기업에 설비자금을 대여하기 위하여 리스(Lease)에 대한 상담, 심사, 계약을 하고 리스물건의 조달을 설비제조업체에 의뢰하는 업무를 수행한다. [수행<b>직무<\/b>] 전화, 방문을 통해 고객으로부터 자동차, 의료기기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"결산<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024987&cid=42117&categoryId=42117",
+			"description":" 영업일 거래마감 후 대체입출금 금액의 일치 여부, 출납일계표와의 현금입출금액 및 당일 잔액의 일치 여부를 확인한 후 당일 계산을 마감하고 전표관리, 매월 결산 총괄업무를 수행한다. [수행<b>직무<\/b>] 영업시간... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>급제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2075406&cid=50305&categoryId=50305",
+			"description":"기술직, <b>사무<\/b>직, 단순 노무직의 임금체계를 완전히 달리하는 식이다. 근속 연수에 따라 임금이 오르는 호봉제, 성과에 따라 임금을 차등하는 성과연봉제 등과 구분된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"검침<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026115&cid=42117&categoryId=42117",
+			"description":" 수요자의 전력사용과 관련된 계량기검침, 사용량협정, 위약조사 등의 행정 및 민원 사항에 대한 <b>사무<\/b>업무를 수행한다. [수행<b>직무<\/b>] 전기 사용에 대한 신규계약 후 발생하는 무단사용, 용도 외 사용 등 위약사항에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>직보고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545196&cid=42279&categoryId=42279",
+			"description":"<b>사무<\/b>직은 주로 책상에서 문서 따위를 다루는 일을 하는 <b>직무<\/b> 또는 그런 분야에 종사하는 직원을 의미하며, <b>사무<\/b>직 직원이 <b>사무<\/b>직 업무의 진행 상황과 결과에 대해 보고하기 위해 작성하는 업무 보고서를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182544878_TXBHT0FEN.jpg\/hb10_79483_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b> 만족",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4_%EB%A7%8C%EC%A1%B1",
+			"description":"뉴욕 <b>사무<\/b>소의 출근율과 비교하였다. 시카고에 있는 직원들은 폭설 때문에 교통이 마비되어 결근에 따른 처벌이 없을 것이 자명하기 때문에 충분히 결근할 수도 있었다. 시카고 지역의 직원들이 <b>직무<\/b>만족... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>이행명령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1346818&cid=40942&categoryId=31710",
+			"description":"감독청의 <b>직무<\/b>이행명령권은 지방자치단체의 장에 대한 것이며, 지방의회에 대한 것이 아니다. <b>직무<\/b>이행명령은 기관위임<b>사무<\/b>에만 적용될 뿐이고 자치<b>사무<\/b>나 단체위임<b>사무<\/b>에는 적용되지 아니한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"증권대행<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025049&cid=42117&categoryId=42117",
+			"description":" 명의개서업무를 중심으로 이에 준하는 업무(배당금 지불<b>사무<\/b>, 신주발행에 관한 사업, 주주총회의 소집통지, 그 결의보고의 취급<b>사무<\/b> 등 사업회사의 주식과가 행하는 업무)를 대행하여 수행한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"병원행정<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024662&cid=42117&categoryId=42117",
+			"description":" 병원의 외래업무, 입·퇴원 원무관리, 진료관리, 경영기획, 경영평가 등 병원의 전반적 행정<b>사무<\/b>업무를 수행한다. [수행<b>직무<\/b>] 환자의 외래 및 입·퇴원 원무관리를 한다. 진료비 관리업무를 한다. 진료비... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수군과 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1760517&cid=49335&categoryId=49335",
+			"description":"[사진] [수군의 편제와 <b>직무<\/b> I] || 계급 || 소속 || 내용 || | 삼도수군 통제사 (통제사) | 통제영 | 조선시대 경상·전라·충청의 수군을 통솔하던 수군의 가장 높은 벼슬로 종2품 외관직 무관이다. 통제영을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_20\/20130625100951548_7NV7ILODL.jpg\/z2_cp04050022000.jpg?type=m160_160"
+		},
+		{
+			"title":"화물발송<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024750&cid=42117&categoryId=42117",
+			"description":" 화물운송장을 접수하고 화물발송을 조정·통제한다. [수행<b>직무<\/b>] 화물운송장기록원으로부터 화물운송장을 확인·접수한다. 화물의 중량과 크기를 확인하여 수송방법을 결정한다. 화물에 송장번호 등이 기재된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전력거래<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024633&cid=42117&categoryId=42117",
+			"description":" 전력시장을 통한 전력거래를 위해 입찰, 정산, 계량 등의 업무를 수행한다. [수행<b>직무<\/b>] 표준발전기 공사비와 연료비 단가 등에 따른 발전비용을 산정하여 전력시장운용자에게 제출한다. 발전가능 용량에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대학총무<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024658&cid=42117&categoryId=42117",
+			"description":" 대학에서 일반행정업무를 처리하고 각종 물품구매 및 시설관리와 경리업무를 담당한다. [수행<b>직무<\/b>] 각종 문서의 기안, 결재와 문서보존 및 폐기와 같은 문서처리를 한다. 직원의 신규임용, 승진, 퇴진, 휴가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마케팅<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024609&cid=42117&categoryId=42117",
+			"description":" 사업진행에 필요한 마케팅전략을 기획·수립하고, 성과를 분석하여 운영계획을 수립한다. [수행<b>직무<\/b>] 마케팅 활동을 위한 중장기 운영계획을 수립하고, 해당 사업 전반에 미치는 효과를 분석한다. 필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"변호사<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025401&cid=42117&categoryId=42117",
+			"description":" 변호사의 지휘하에 소송사건, 비송사건 및 일반법률 사건의 자료를 수집, 조사, 분석하고 관련 서류를 작성하는 등 변호사의 업무를 지원한다. [수행<b>직무<\/b>] 소송행위, 재판상 또는 재판 외의 화해, 소의 취하... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>유기죄",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4%EC%9C%A0%EA%B8%B0%EC%A3%84",
+			"description":"<b>직무<\/b>유기가 성립하는 경우 경찰관이 불법체류자임을 알면서도 이들의 신병을 출입국관리<b>사무<\/b>소에 인계하지 않고 본서인 수원중부경찰서 외사계에조차도 보고하지 않고 훈방하면서 이들의 인적 사항조차... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재보험<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025102&cid=42117&categoryId=42117",
+			"description":" 신규가입된 보험을 재보험협약에 따라 국내외 신계약 가입과 유지계약에 대한 재보험료의 계산·지급과 재보험금의 청구업무를 수행한다. [수행<b>직무<\/b>] 재보험(보험사가 다른 보험사에 보험을 일부 추가로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>분장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470711&cid=42120&categoryId=42120",
+			"description":"한 개인이 가장 능률적이면서도 성공적으로 특정한 일을 수행할 수 있도록 기술된 <b>직무<\/b>의 주요 성격과 내용을 말하며, 여기에 기술된 내용은 주로 ①<b>직무<\/b>명, ②해당<b>직무<\/b>의 포괄적 기술, ③<b>직무<\/b>수행에 필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>분장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=510949&cid=42126&categoryId=42126",
+			"description":"한 개인이 가장 능률적이면서도 성공적으로 특정한 일을 수행할 수 있도록 기술(記述)된 <b>직무<\/b>의 주요 성격과 내용. 여기에 기술된 내용은 주로 ① <b>직무<\/b>명, ② 해당<b>직무<\/b>의 포괄적 기술, ③ <b>직무<\/b>수행에 필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호송<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953501&cid=42117&categoryId=42117",
+			"description":" 호송업무를 수행하도록 수송 장부를 관리하고 호송관리자의 지시사항을 전달한다. [수행<b>직무<\/b>] 호송경비관리자로부터 당일 업무를 지시받아 호송원에게 전달하고 세부사항에 대해 교육한다. 귀중품 인수인계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카드론<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832853&cid=42117&categoryId=42117",
+			"description":" 신용카드 회원의 결제계좌에 카드론 약정금액만큼 한도를 부여해 수시로 인출 및 상환이 가능토록 제반 업무를 수행한다. [수행<b>직무<\/b>] 신용카드 회원으로부터 카드론(카드대출) 요청 시에는 회원의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>실 공간",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=831172&cid=50376&categoryId=50376",
+			"description":"<b>사무<\/b> 활동을 하기 위한 행동 공간으로서 <b>사무<\/b>실의 공간적인 배치나 <b>직무<\/b> 수행 방식과의 관련성을 포함한 <b>사무<\/b>실의 구조를 말한다. 즉, 언어, 조직 모두 OA를 구성하는 요소의 하나이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"수금<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665194&cid=42117&categoryId=42117",
+			"description":" 고객이 사용한 가스, 수도, 전기 등의 사용요금의 수금 및 미납에 따른 제반 업무를 수행한다. [수행<b>직무<\/b>] 고객의 사용요금에 대한 청구서를 교부한다. 고객이 납기 내에 요금을 납부하도록 독려한다. 착오분이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선물환<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664751&cid=42117&categoryId=42117",
+			"description":" 선물환거래를 상담하고 거래의 약정을 통해 계약을 체결하고 계약이행보증금을 인수한 후 사후관리하는 업무를 수행하다. [수행<b>직무<\/b>] 국내외 선물환시장의 현황과 동향을 분석하여 파악한다. 국내외... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목사의 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2378211&cid=50762&categoryId=51367",
+			"description":"② 종교상 도리와 본분을 교훈하는 <b>직무<\/b>를 행할 때는 목자같이 돌아보며 구원하기 위하여 각 사람의... ④ 목사가 기독교 신문이나 서적, 언론에 관한 <b>사무<\/b>를 시무하는 경우에는 교회에 덕을 세우고 복음을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유엔 <b>사무<\/b>총장",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9C%A0%EC%97%94_%EC%82%AC%EB%AC%B4%EC%B4%9D%EC%9E%A5",
+			"description":"유엔 <b>사무<\/b>총장 , 또는 국제 연합 <b>사무<\/b>총장 (國際聯合事務總長, 영어: Secretary-General of the United Nations , 약칭 UNSG 또는 SG )은 유엔의 주요 기관 가운데 하나인 유엔 <b>사무<\/b>국의 수장이다. 개요 <b>사무<\/b>총장이 지닌... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>용기기수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028311&cid=42117&categoryId=42117",
+			"description":" 팩시밀리, 복사기, 복합기와 같은 <b>사무<\/b>기기를 점검 및 수리한다. [수행<b>직무<\/b>] 수리를 의뢰한 기기의 고장내역을 검토한다. 기기를 작동시키고 회로상의 고장인지 물리적인 손상인지 확인한다. 수동공구를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유람선운항<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024815&cid=42117&categoryId=42117",
+			"description":" 운항에 필요한 배선계획을 수립하고 인원을 배치하며 선박을 관리한다. [수행<b>직무<\/b>] 유람선운영관리자의 지시에 따라 배선계획을 수립한다. 선박성능저하, 기상 등 특이사항과 매표원 및 홍보<b>사무<\/b>원으로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교육훈련<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024638&cid=42117&categoryId=42117",
+			"description":" 경영목표를 달성하거나 근로자의 능력을 개발하기 위해 교육훈련 프로그램을 기획하고 교육과정을 진행한다. [수행<b>직무<\/b>] 근로자의 교육 및 훈련 요구를 파악하기 위해서 설문지를 작성하고 설문을 실시한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사무<\/b>용기기판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665420&cid=42117&categoryId=42117",
+			"description":" 팩시밀리, 복사기, 계산기와 같은 <b>사무<\/b>용기기를 판매한다. [수행<b>직무<\/b>] 소비자의 구매의욕을 높이기 위해 <b>사무<\/b>용기기의 가격대별, 제조사별 진열 및 홍보 전략을 세운다. 소비자의 요구에 따른 제품별, 가격별... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권저축<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025108&cid=42117&categoryId=42117",
+			"description":" 고객의 증권저축을 관리하며 저축재산의 입·출금업무를 수행한다. [수행<b>직무<\/b>] 고객으로부터 증권저축신청서와 인감을 접수하여 날인하고 전산에 구좌등록을 하며 통장을 발급한다. 증권저축주식을 매매주문... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영업지원<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024628&cid=42117&categoryId=42117",
+			"description":" 기업의 영업생산성을 증대할 목적으로 현장영업원의 영업활동에 관련된 제반 관리업무(유통, 실적, 전산, 서류, 통계, 결산 등)를 수행한다. [수행<b>직무<\/b>] 영업전략을 수립하거나 수립된 영업전략에 따른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교육행정<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024652&cid=42117&categoryId=42117",
+			"description":" 학교의 행정부서에서 교육행정업무를 계획하고 수행한다. [수행<b>직무<\/b>] 직원의 신규임용, 승진, 퇴직, 휴가 등의 인사관리업무를 담당한다. 학생 편입학, 수업편성, 복학 및 휴학, 성적처리, 증명서 발급, 취업 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가축수매<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024696&cid=42117&categoryId=42117",
+			"description":" 도축할 소, 돼지 등을 수매하기 위해 시장조사, 수량결정, 수매계약 등의 업무를 한다. [수행<b>직무<\/b>] 도축할 소, 돼지 등을 수매하기 위해 가격 등 시장조사를 한다. 수매할 소, 돼지 등의 수량을 결정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생산계획<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024765&cid=42117&categoryId=42117",
+			"description":" 제조부문의 일별·주간별 생산계획을 수립하고 생산량 등을 관리한다. [수행<b>직무<\/b>] 제품별 일일 또는 주간 세부생산계획을 수립한다. 생산계획에 의거하여 소요자재의 종류와 수량을 파악하고 구매부서에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자재구매<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024734&cid=42117&categoryId=42117",
+			"description":" 제품의 생산에 소요되는 자재를 확보하기 위하여 구매정보를 파악하여 구매계획을 세우고 자재를 구매한다. [수행<b>직무<\/b>] 자재 및 생산관련 부서로부터 자재청구서를 받아 실행예산, 납기 등의 자료를 검토하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"차량임대<b>사무<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026046&cid=42117&categoryId=42117",
+			"description":" 승용차, 버스 및 기타 차량의 임대를 원하는 고객에게 차량을 소개하고 임대계약을 체결한다. [수행<b>직무<\/b>] 전화, 또는 인터넷상에서 차량예약을 관리한다. 차량 임대에 대한 고객의 방문 또는 전화문의에... ",
+			"thumbnail":""
+		}
+	]
+}

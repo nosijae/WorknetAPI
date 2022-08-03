@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:38 +0900",
+	"total":1203,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>어업<\/b>단순노무자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029732&cid=42117&categoryId=42117",
+			"description":" 숙련 <b>어업<\/b>종사원을 도와서 해저 청소, 사료제공, 해초, 이끼, 어패류 등을 채취한다. [수행<b>직무<\/b>] 도구를 사용하여 해저를 청소한다. 양식하고 있는 물고기나 연체동물에게 사료를 준다. 해초, 이끼, 조개 및 기타... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련 전문직 및... 74개 <b>직무<\/b>가 있다.  출처: 게티이미지 코리아 '신중년 적합<b>직무<\/b>'란 고용보험법 제20조 및 같은 법 시행령 제17조... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"동해<b>어업<\/b>관리단",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8F%99%ED%95%B4%EC%96%B4%EC%97%85%EA%B4%80%EB%A6%AC%EB%8B%A8",
+			"description":"<b>직무<\/b> <b>어업<\/b>지도선의 운항 관리 <b>어업<\/b>의 지도·단속 및 조정·관리 <b>어업<\/b>지도선의 통신 운용... 2008년 2월 29일: <b>농림<\/b>수산식품부 소속으로 변경. 소속기관으로 강릉어항사무소 설치. 2011년 6월 15일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서해<b>어업<\/b>관리단",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%9C%ED%95%B4%EC%96%B4%EC%97%85%EA%B4%80%EB%A6%AC%EB%8B%A8",
+			"description":"<b>직무<\/b> <b>어업<\/b>지도선의 운항 관리 <b>어업<\/b>의 지도·단속 및 조정·관리 <b>어업<\/b>지도선의 통신 운용... 2008년 2월 29일: <b>농림<\/b>수산식품부 소속으로 변경. 소속기관으로 인천어항사무소 설치. 2011년 6월 15일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>농림어업<\/b>총조사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6179270&cid=43667&categoryId=43667",
+			"description":"조사를 통해 나온 결과는 <b>농림어업<\/b> 정책 및 농산어촌 지역개발계획 수립 및 평가, 각종 학술연구 자료와 표본조사의 모집단과 표본추출틀 등으로 활용된다.  | 외국어 표기 | 農林漁業總調査(한자) Census of... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>농림<\/b>토양평가관리산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053996&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>농림<\/b>토양평가관리산업기사 ① <b>농림<\/b>토양평가관리산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>농림<\/b>토양평가관리산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ②... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181244455_L4IYM25SF.jpg\/da6_410_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"일본 <b>농림<\/b>수산성",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%BC%EB%B3%B8_%EB%86%8D%EB%A6%BC%EC%88%98%EC%82%B0%EC%84%B1",
+			"description":"설치 근거 및 소관 업무 설치 근거 <b>농림<\/b>수산성설치법 제2조 소관 업무 식료의 안정제공 확보 <b>농림<\/b>수산업의 발전 <b>농림어업<\/b> 종사자의 복지 증진 농산어촌 및 중산간 지역등의 진흥 농업의 다면에 걸친... ",
+			"thumbnail":""
+		},
+		{
+			"title":"남해<b>어업<\/b>관리단",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%82%A8%ED%95%B4%EC%96%B4%EC%97%85%EA%B4%80%EB%A6%AC%EB%8B%A8",
+			"description":"<b>직무<\/b> <b>어업<\/b>지도선의 운항 관리 <b>어업<\/b>의 지도·단속 및 조정·관리 <b>어업<\/b>지도선의 통신 운용 <b>어업<\/b>지도선 승선요원의 교육훈련 원양어선의 조업상황 감시 및 불법·비보고·비규제 <b>어업<\/b>(IUU)에 대한 경보... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농<b>어업<\/b>온실가스연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025154&cid=42117&categoryId=42117",
+			"description":" <b>농림어업<\/b>분야 온실가스 배출량 평가, 온실가스 저감을 위한 재배기술개발 및 관련 연구를 한다. [수행<b>직무<\/b>] 물관리 개선, 가축분뇨 처리향상, 지열활용 등 <b>농림어업<\/b>분야의 온실가스배출 원천저감을 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"어촌지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025313&cid=42117&categoryId=42117",
+			"description":" 어민들을 대상으로 <b>어업<\/b>정보 및 기술을 지도·보급하고, 각종 수산 관련 병·재해 예방지도를 한다. [수행<b>직무<\/b>] 양식저장관리 및 병·재해 예방을 지도한다. 양식기술을 개발한다. 어병예찰진단반을 운영하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"어구어법기술개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025312&cid=42117&categoryId=42117",
+			"description":" 어획량을 높일 수 있는 어구나 어법(漁法:수산동식물의 포획이나 채취에 쓰이는 수단방법)을 개발한다. [수행<b>직무<\/b>] 특정 어구·어법의 실태를 파악하기 위하여 현지에 출장하여 조사를 한다. 모형어구를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"임목조사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025316&cid=42117&categoryId=42117",
+			"description":" 산림 내에 있는 임분재적을 측정하기 위하여 일정 면적 내의 임목을 조사한다. [수행<b>직무<\/b>] 조사를 의뢰받은 산림지역을 순찰하여 표준지를 선정한다. 표준지 내의 임목에 대하여 직경을 측정하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농업단순노무자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029727&cid=42117&categoryId=42117",
+			"description":" 숙련 농업종사원을 도와서 농사일을 보조한다. [수행<b>직무<\/b>] 농지의 용수를 공급하고 배수하기 위한 목적으로 도랑을 파거나 삽질을 한다. 각종 농산물을 싣고 내린다. 건초를 손질하여 쌓는다. 농산물에 물을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"친환경농자재시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025322&cid=42117&categoryId=42117",
+			"description":" 친환경농업에 사용할 수 있는 자재를 객관적인 등록기준에 맞게 시험한다. [수행<b>직무<\/b>] 친환경유기농자재 등록시험연구기관에 근무하는 경우, 친환경유기농자재의 품질 및 안전성을 시험하기 위해 작물병해충... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산불감시원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029729&cid=42117&categoryId=42117",
+			"description":" 화재예방에 대한 계획을 수립하고 지정된 산림과 벌목예정지역을 순찰하며 산불을 감시한다. [수행<b>직무<\/b>] 산림지대나 벌목지대를 수시로 순찰하여 화재위험 대상 및 여부를 조사한다. 산불진화에 필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"식물공장생산관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627243&cid=42117&categoryId=42117",
+			"description":" 식물공장에서 식물재배관리, 재배시설관리, 위성 농장 재배관리, 재배\/생산관리 등을 한다. [수행<b>직무<\/b>] 모니터링과 제어요소에 따른 환경계측인자를 선정한다. 시설유형 및 규모에 따라 냉난방기, 양액기 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수산물채취원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029730&cid=42117&categoryId=42117",
+			"description":" 간조 시에 갯벌에서 낫, 호미, 해조틀이, 갈고리 등을 사용하여 패류, 해조류 등을 채취한다. [수행<b>직무<\/b>] 낫, 호미, 해조틀이, 갈고리, 망태 등의 작업도구를 준비한다. 갯벌에 들어가 바지락, 대합, 꼬막 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"임업단순노무자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029733&cid=42117&categoryId=42117",
+			"description":" 숙련 임업종사원을 도와서 구덩이를 파거나 관목을 제거한다. [수행<b>직무<\/b>] 나무를 심기 위하여 구덩이를 판다. 벌목하기 위하여 관목을 제거한다. 통나무 및 목재를 운반하여 쌓는다. 기타 숙련 임업종사원이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농업용수관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025309&cid=42117&categoryId=42117",
+			"description":" 농작물 재배에 필요한 농업용수를 공급하기 위하여 용수 및 수리시설물을 관리한다. [수행<b>직무<\/b>] 수리시설물에 저장된 유량 및 저수량을 관리한다. 농업용수의 수질을 관리한다. 기상분석 및 기상예측 자료를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"식물공장설계자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627242&cid=42117&categoryId=42117",
+			"description":" 식물공장 설치를 위한 세부계획을 세우고 식물 재배에 필요한 시스템을 설계한다. [수행<b>직무<\/b>] 실물공장의 위치, 운영 면적, 적용 작물 선정 등 설치에 대한 전반적인 계획 수립 및 타당성을 분석한다. LED조명... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항공산림조사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832819&cid=42117&categoryId=42117",
+			"description":" 산림기본계획을 수립하기 위하여 전국 산림에 대한 항공사진을 촬영하여 산림자원 및 수종의 분포상황을 조사한다. [수행<b>직무<\/b>] 전국 산림자원을 조사하기 위하여 항공사진 촬영계획을 세운다. 비행기 내에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원예종묘시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025315&cid=42117&categoryId=42117",
+			"description":" 기후, 영농, 작물재배 조건에 맞는 원예작물의 품종을 개발·보급한다. [수행<b>직무<\/b>] 새로운 품종육성을 위하여 품종 간, 개체 간 교접에 대해 시험·연구한다. 토양, 기온 등의 적합한 재배조건을 조성하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산림조사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025310&cid=42117&categoryId=42117",
+			"description":" 영림계획편성을 위하여 임지의 실태, 면적, 방위, 경사, 토질, 습도, 수종, 혼효율, 수령, 수고, 입목도, 재적 등을 조사한다. [수행<b>직무<\/b>] 산림 내의 일정면적을 기준으로 하여 임반을 편성한다. 인공림, 천연림... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사료검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025308&cid=42117&categoryId=42117",
+			"description":" 배합사료, 펠릿(Pellet)사료의 품질이 완성기준에 적합한지를 검사·분석한다. [수행<b>직무<\/b>] 제조 중이거나 제조된 사료제품을 육안으로 관찰하면서 신선도, 변질, 불순물의 혼합 여부, 수분함량 등을 검사한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수산종묘관리기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025311&cid=42117&categoryId=42117",
+			"description":" 양식업을 위한 수산종묘를 생산하기 위하여 육상 또는 해상의 일정시설에서 종묘를 배양·관리한다. [수행<b>직무<\/b>] 대상 품종에 따른 시설물설치계획, 세부시설물 규모, 기구 및 장비구입 계획, 플랑크톤... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농산물안전성검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025304&cid=42117&categoryId=42117",
+			"description":" 농산물 또는 농산물 생산에 사용하는 농지, 용수, 자재 등에 잔류하거나 포함되어 있는 유해물질에 대한 안전성을 조사한다. [수행<b>직무<\/b>] 농산물유통업체로부터 농산물의 잔류농약안전성에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농산물조사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025305&cid=42117&categoryId=42117",
+			"description":" 농산물의 원산지표시관리, 국적식별방법 개발, 농산물의 소요량 및 작황조사, 저장곡 물의 병해충발생 상황조사 등의 업무를 수행한다. [수행<b>직무<\/b>] 농·축·임산물의 국적식별을 위하여 이화학적 분석과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"병충해방제작업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029728&cid=42117&categoryId=42117",
+			"description":" 산림지역이 병해나 위해로부터 피해를 받았을 시 병충해 방제를 위하여 약제를 살포한다. [수행<b>직무<\/b>] 산림병충해예찰조사원으로부터 피해지역과 병충해의 종류를 확인하고 약제를 선택·준비한다. 약제와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"약제살포원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029731&cid=42117&categoryId=42117",
+			"description":" 트럭에 장치한 탱크와 호스를 사용해서 나무와 관목, 잔디밭 등에 제초제, 살충제, 살균제를 살포한다. [수행<b>직무<\/b>] 호스와 펌프를 사용해서 배합비에 따라 분무탱크에 물과 화학작용제를 채워 혼합한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"친환경농산물인증심사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025321&cid=42117&categoryId=42117",
+			"description":" 친환경농업육성법 시행규칙에 따라 유기<b>농림<\/b>산물, 유기축산, 무농약농산물, 무항생제축산물, 저농약농산물, 재포장과정 등 6개에 해당하는 친환경농산물인증 신청업체의 서류 및 현장조사를 통해 적합성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"축산업지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025320&cid=42117&categoryId=42117",
+			"description":" 축산업의 진흥을 위하여 새로운 축산기술 및 방법을 축산농가에 보급·지도한다. [수행<b>직무<\/b>] 축산에 관한 자료를 수집·분석·평가한다. 관련 업무에 관한 전문지식, 새로운 연구결과, 연구문헌, 시험결과 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"초음파육질진단사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025319&cid=42117&categoryId=42117",
+			"description":" 초음파촬영장치를 활용하여 사육 중인 육우의 육질을 측정하고 출하 시 고급육 생산을 위한 사양관리(斜陽管理:Feeding and Management)방법을 조언한다. [수행<b>직무<\/b>] 농가로부터 신청을 받고 사육두수, 출하결과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농산물규격관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025303&cid=42117&categoryId=42117",
+			"description":" 농산물의 유통능률 향상 및 공정거래를 위하여 곡류, 과실류, 채소류 등의 등급 기준과 포장재 규격에 관한 기초자료를 조사하고, 농산물의 규격관리를 위한 제반 업무를 수행한다. [수행<b>직무<\/b>] 산지나 공판장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영림계획편성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025314&cid=42117&categoryId=42117",
+			"description":" 소유산림의 지리상황과 현재의 산림현황을 조사·파악하고 임상별로 산림을 구획하여 연차적으로 현실림을 법정림상태로 유도하는 영림계획을 수립한다. [수행<b>직무<\/b>] 산림의 경영상 편의를 위하여 영구림을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"작물시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025317&cid=42117&categoryId=42117",
+			"description":" 각종 작물을 연구하는 연구원을 보조하여 작물에 대한 시험 및 조사를 수행한다. [수행<b>직무<\/b>] 연구원의 지시에 따라 방법, 일정, 순서 등을 고려하여 종자의 발아, 초목의 발육, 토양과 기후에 따른 작물의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"종자검정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025318&cid=42117&categoryId=42117",
+			"description":" 좋은 종자를 판별하기 위하여 종자가 종자순도(種子純度:단일품종의 종자에 이종의 종자가 섞이지 않고 순수한 정도)기준에 맞는지를 검사한다. [수행<b>직무<\/b>] 종자의 순도기준을 숙지한다. 검사대상 종자를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농촌지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025307&cid=42117&categoryId=42117",
+			"description":" 농가를 대상으로 농업소득증대, 작물생산기반의 확충, 농업생산성 향상을 위해 재배기술 및 우량품종 등에 관한 교육·홍보를 실시하고 지도한다. [수행<b>직무<\/b>] 농촌지도사업에 대한 장·단기발전계획을 세운다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제 표준 직업 분류",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EC%A0%9C_%ED%91%9C%EC%A4%80_%EC%A7%81%EC%97%85_%EB%B6%84%EB%A5%98",
+			"description":"전문 <b>농림어업<\/b> 종사자 기능공·관련직 종사자 설비·기계의 운전·조립공 단순 작업 종사자... 시스템을 정의하는 데 사용되는 기본 기준은 <b>직무<\/b>와 <b>직무<\/b>를 유능하게 수행하는 데 필요한 기술... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대기환경기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054001&cid=42114&categoryId=42114",
+			"description":" 대기환경기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 대기환경기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 대기환경기사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210909160550158_0XC7ST5PY.jpg\/da6_415_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"토양환경기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054179&cid=42114&categoryId=42114",
+			"description":"③ 2010년부터 토양환경기사와 <b>농림<\/b>토양평가관리기사 자격이 토양환경기사 자격으로 통합되어... 중금속 및 기름 등의 오염분포도를 파악하는 <b>직무<\/b>를 수행한다. ② 화약약품처리나 열처리, 진공처리 등의",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181340115_3ADDYF0VT.jpg\/da6_593_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"수질환경기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054055&cid=42114&categoryId=42114",
+			"description":" 수질환경기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 수질환경기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 수질환경기사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210909160550316_Q2K9FP3EY.jpg\/da6_469_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"식물보호산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054063&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 식물보호산업기사 ① 식물보호산업기사란 응시자격을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191130964_Z65993Z8T.jpg\/da6_477_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"건축일반시공기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970419&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요   ① 건축구조물이 대형화되고, 특수재료의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120717191718845_M5ZFAE5F9.jpg\/da6_25_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"농<b>어업<\/b>토목기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053849&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 : 농<b>어업<\/b>토목기술사는 종합적인 국토개발과 국토건설산업의 조사, 계획... (2) 주요 업무 : 농<b>어업<\/b>토목기술사는 농<b>어업<\/b>토목분야의 토목기술에 관한 고도의 전문지식 및 실무경험을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716202912138_0JWF6SX32.jpg\/da6_263_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"교통산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053971&cid=42114&categoryId=42114",
+			"description":" 교통산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 교통산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 필답형 실기시험을 통과해야 한다. [ 1.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220610142258917_5D6MX3IZE.jpg\/da6_385_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"교통기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053969&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 교통기사 ① 교통기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220615115812899_HFPZSPNNT.jpg\/da6_383_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"항로표지산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053934&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가전문자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 없음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 항로표지산업기사 ① 항로표지산업기사란 응시자격을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200925135613764_UG4R1G0FR.jpg\/da6_348_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"항로표지기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053933&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가전문자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 항로표지기사 ① 항로표지기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200925140312038_CTHQ9B5YF.jpg\/da6_347_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"토양환경기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054180&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 과다한 농약사용, 화학비료사용, 각종 생활... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716204017642_3QLTMQG72.jpg\/da6_594_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"지적기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053903&cid=42114&categoryId=42114",
+			"description":" 지적기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 지적기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 복합형(필답형 + 작업형) 실기시험을 통과해야 한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200924152931509_ZN5FH4U7J.jpg\/da6_317_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"광해방지기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977016&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국광해관리공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.mireco.or.kr [ 2. 자격정보] (1) 광해방지기술사 ① 광해방지기술사란 응시자격을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200924170057057_V1NF7A9BY.jpg\/da6_208_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"광해방지기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977015&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국광해관리공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.mireco.or.kr [ 2. 자격정보] (1) 광해방지기사 ① 광해방지기사란 응시자격을 갖춘... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200925115433459_GJQFFAOXS.jpg\/da6_207_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"포장산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053922&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 포장산업기사 ① 포장산업기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402085745674_AE8B9YNOY.jpg\/da6_336_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"교통기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053970&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 교통기술사 ① 교통기술사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220615134753975_KUEVBAQEA.jpg\/da6_384_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"건설안전산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053959&cid=42114&categoryId=42114",
+			"description":"예방계획 수립, 작업환경의 점검 및 개선, 유해 위험방지 등의 안전에 관한 기술적인 사항을 관리하며 건설물이나 설비작업의 위험에 따른 응급조치, 안전장치 및 보호구의 정기점검, 정비 등의 <b>직무<\/b>를 수",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185013085_EW5CGU0T4.jpg\/da6_373_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"소음진동기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054046&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 급격하게 도시화, 산업화가 진행되면서 대형... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203536729_81UCSP83S.jpg\/da6_460_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"종자기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054157&cid=42114&categoryId=42114",
+			"description":"② <b>농림어업<\/b>(농업)분야는 현재의 농업자원을 최대로 활용하여 농업생산성을 높이고, 양질의 식량을 풍부하게 공급하여야 하는 중요한 분야이다. 이에 따라 농업생산부분과 농산가공부분, 농화학부분에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20161027155745953_XSKHV8O30.jpg\/da6_571_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"대기관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054000&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 대기환경 오염으로 인한 오존층 파괴와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203352479_UA9Y20K7Q.jpg\/da6_414_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"지적기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053904&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 지적기술사 ① 지적기술사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402040342755_T2495AUPM.jpg\/da6_318_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"항만 및 해안기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053935&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 : 항만 및 해안기술사는 종합적인 국토개발과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203202025_1DF3FPG9I.jpg\/da6_349_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"도시계획기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054004&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 균형 있는 국토발전을 위해서는 한 도시 또는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203400522_YE9DJDHR8.jpg\/da6_418_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"건축일반시공산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970420&cid=42114&categoryId=42114",
+			"description":" 건축일반시공산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 건축일반시공산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 복합형(필답형+작업형)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185037622_RVEQZHK8K.jpg\/da6_26_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"지적산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053905&cid=42114&categoryId=42114",
+			"description":"등의 <b>직무<\/b> 수행을 위하여 필요한 기초측량과 세부측량의 수행 능력을 평가한다. ② 지적산업기사는... 하는 지적측량업무를 수행한다. (3) 과정평가형 자격제도 ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191103012_T2SWOR1ZP.jpg\/da6_319_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"토목시공기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053917&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 : 토목시공기술사는 종합적인 국토개발과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203121762_X6RIWPHOP.jpg\/da6_331_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기상감정기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970435&cid=42114&categoryId=42114",
+			"description":"기상현상에 대한 구체적인 실제 기록이 부재한 경우 해당 기상현상을 과학적으로 추정하고, 그 기상현상이 특정 사건에 미칠 수 있는 영향을 감정 평가한 의견을 제시하는 <b>직무<\/b>를 수행한다. [ 3. 시험정",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20201231183032003_TOJ3NLK5O.jpg\/da6_41_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"폐기물처리산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054189&cid=42114&categoryId=42114",
+			"description":" 폐기물처리산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 폐기물처리산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 필답형 실기시험을 통과해야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191227113806460_7YXJJI9W1.png\/da6_603_i1.png?type=m160_160"
+		},
+		{
+			"title":"폐기물처리기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054187&cid=42114&categoryId=42114",
+			"description":" 폐기물처리기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 폐기물처리기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 필답형 실기시험을 통과해야 한다. [ 1.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191227113805920_4ZSXR7TSA.png\/da6_601_i1.png?type=m160_160"
+		},
+		{
+			"title":"품질경영기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053927&cid=42114&categoryId=42114",
+			"description":" 품질경영기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 품질경영기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과하여야 한다. [ 1. 기본정보] (1)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100650482_JCJW08Q6B.jpg\/da6_341_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"소음진동산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054047&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 소음진동산업기사 ① 소음진동산업기사란 응시자격을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402092205979_BH7AN8XCG.jpg\/da6_461_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"상하수도기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053862&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 : 상하수도기술사는 종합적인 국토개발과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716202935671_RDDNXV21Y.jpg\/da6_276_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"자연생태복원산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054113&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 자연생태복원산업기사란 응시자격을 갖춘... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191130472_QF0JIRD8J.jpg\/da6_527_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"포장기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053921&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날 포장은 포장재료로 사용되는 종이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203129302_5PVWMYYA9.jpg\/da6_335_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"잠수산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053886&cid=42114&categoryId=42114",
+			"description":"조물을 검사, 보수, 제거 및 설치, 인양하고 인명구조, 수중공사, 연구조사 등의 <b>직무<\/b>를 수행한다. (3) 과정평가형 자격제도 ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(NCS)에 기반하여 일정 요건을 충족하는",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191129706_KSVXOSWNA.jpg\/da6_300_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"실내건축기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970483&cid=42114&categoryId=42114",
+			"description":" 실내건축기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 실내건축기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 실내건축기사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185159948_ZM0FDV1KW.jpg\/da6_90_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"폐기물처리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054188&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 폐기물처리기술사 ① 폐기물처리기술사란 응시자격을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402085454421_ZQERGM691.jpg\/da6_602_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"대기환경산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054002&cid=42114&categoryId=42114",
+			"description":"측정하여 분석하고, 오염원인이 무엇인지 알아내어 오염방지대책을 강구하는 <b>직무<\/b>를 담당한다. ② 생활환경의 오염물질을 제거 또는 감소시키기 위한 대처방안을 연구하고, 대기오염방지시설을 설",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181342502_DBH8016UZ.jpg\/da6_416_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"인간공학기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054096&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 인간공학기술사 ① 인간공학기술사란 인간공학기술사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171252956_UJOEL2ZFS.jpg\/da6_510_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가스기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053946&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 가스기능장 ① 가스기능장이란 가스기능장 시험의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171229844_55V290ABW.jpg\/da6_360_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"토목품질시험기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053918&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 건설공사의 품질확보와 부실공사 및... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203122302_TAF5UIX2R.jpg\/da6_332_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기상기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970436&cid=42114&categoryId=42114",
+			"description":"영향을 미치는 요인을 조사, 탐구하여 기상도를 작성하고 장 ‧ 단기 기상예보를 위한 관측된 자료를 분석, 발표하는 <b>직무<\/b>를 수행한다. [ 3. 시험정보] (1) 응시자격 : 응시자격에는 제한이 있다. || 기술",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200924143617389_09WUAQ2LL.jpg\/da6_42_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"측량 및 지형공간정보산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970552&cid=42114&categoryId=42114",
+			"description":" 측량및지형공간정보산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 측량및지형공간정보산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 복합형... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191924851_3K7IPVU4U.jpg\/da6_159_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"포장기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053920&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날 포장은 포장재료로 사용되는 종이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203126127_YRK5C731J.jpg\/da6_334_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"산업위생관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054029&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 산업위생관리기술사 ① 산업위생관리기술사란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171241827_DOVX5SBZ1.jpg\/da6_443_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기상예보기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970437&cid=42114&categoryId=42114",
+			"description":"(2) 주요 업무 ① 기상예보기술사는 기상예보를 위한 계획, 연구, 설계 작업을 하고, 대기현상의 관측, 진단, 분석을 통해 예보하고, 예보업무를 관리하는 <b>직무<\/b>를 수행한다. ② 또한 지구표면과 대기 각층의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181103160_NDDWQAPAD.jpg\/da6_43_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가스기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053947&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 가스기사 ① 가스기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220615173838812_YTB6ZA8LN.jpg\/da6_361_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"조경기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053892&cid=42114&categoryId=42114",
+			"description":"② 각종 조경시설의 관리계획수립 및 공사업무의 관리 등 주로 기술적인 업무를 수행한다. (3) 과정평가형 자격제도 ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(NCS)",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801151519085_J0TPNPGWL.jpg\/da6_306_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"소방설비산업기사(기계분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054043&cid=42114&categoryId=42114",
+			"description":"작성하거나 소방설비공사를 시공, 관리하며, 소방시설이 점검 · 정비와 화기의 사용 및 취급 등 방화안전관리에 대한 감독, 소방계획에 의한 소화, 통보 및 피난 등의 훈련을 실시하는 방화관리자의 <b>직무<\/b>를",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185125988_UMT8L1CTG.jpg\/da6_457_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"배관기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970459&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요   ① 산업설비 및 건축구조물 등이 대형화... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120717191732424_MKWGM6D20.jpg\/da6_66_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"자연환경관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054114&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 급격한 도시화, 산업화, 공업화로 인한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203746399_KYHENROKC.jpg\/da6_528_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"소방설비기사(전기분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054042&cid=42114&categoryId=42114",
+			"description":"소방시설공사를 시공, 관리하며, 소방시설의 점검 · 정비와 화기의 사용 및 취급 등 방화안전관리에 대한 감독, 소방계획에 의한 소화, 통보 및 피난 등의 훈련을 실시하는 방화관리자의 <b>직무<\/b>를 수행한다.  ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100726749_TZPL9S5YR.jpg\/da6_456_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"광산보안기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977013&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국광해관리공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.mireco.or.kr [ 2. 자격정보] (1) 자격 개요 ① 광산보안기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200925123701678_Z1QSO2J6J.jpg\/da6_205_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"광산보안산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977014&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국광해관리공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.mireco.or.kr [ 2. 자격정보] (1) 자격 개요 ① 광산보안산업기사란 응시자격을 갖춘... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200925131013944_D1YBR7HV0.jpg\/da6_206_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"건축목재시공기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970414&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 건축목재시공기능장 ① 건축목재시공기능장이란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180412180130189_U79C0YC3O.jpg\/da6_20_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"인간공학기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054095&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 인간공학기사 ① 인간공학기사란 인간공학기사 시험의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171252663_SR05K2QV8.jpg\/da6_509_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"건축설비기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970416&cid=42114&categoryId=42114",
+			"description":" 건축설비기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 건축설비기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 건축설비기사 자격을 취득하려면 필기시험과 실기시험을 통과하여야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220610130440806_9OZ6T62J0.jpg\/da6_22_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"토목구조기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053916&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 모든 토목구조물은 자중, 내용물의 무게... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203119595_HKM9VZRZC.jpg\/da6_330_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"소방설비산업기사(전기분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054044&cid=42114&categoryId=42114",
+			"description":"작성하거나 소방시설공사를 시공, 관리하며, 소방시설의 점검 · 정비와 화기의 사용 및 취급 등 방화안전관리에 대한 감독, 소방계획에 의한 소화, 통보 및 피난 등의 훈련을 실시하는 방화관리자의 <b>직무<\/b>를",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191855634_AV40223P2.jpg\/da6_458_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"소방설비기사(기계분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054041&cid=42114&categoryId=42114",
+			"description":" 소방설비기사(기계분야)란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 소방설비기사(기계분야) 시험에 합격하여 그 자격을 취득한 자를 말한다. 소방설비기사(기계분야) 시험은 필기시험과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220615180034853_U7W1WMWLS.jpg\/da6_455_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"품질관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053929&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날과 같은 무한 경쟁시대에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203149895_Z47I2MKW8.jpg\/da6_343_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가스산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053949&cid=42114&categoryId=42114",
+			"description":"위해 예방을 위 한 지도 및 감독업무와 저장, 판매, 공급 등의 과정에서 안전관리를 위한 지도 및 감독 업무를 수행한다. (3) 과정평가형 자격제도 ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(NCS)에 기반하여",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210331165848003_KBIHJQ8B0.jpg\/da6_363_i4.jpg?type=m160_160"
+		}
+	]
+}

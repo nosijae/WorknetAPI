@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:50 +0900",
+	"total":2702,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>직무<\/b>소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383894&cid=42279&categoryId=42279",
+			"description":"그러므로 <b>직무<\/b>소개서를 작성할 때에는 근무부서, 근무기간, 수행작업명, 작업요소, 사용장비, 특기사항 등의 항목을 <b>이용<\/b>하여 <b>직무<\/b>에 대해 구체적인 내용을 기재해야 한다. <b>직무<\/b>소개서에서 관련 지식 등 이 밖의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122325044_Y437XQNCE.jpg\/hb10_22863_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b> 특성 이론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070240&cid=41991&categoryId=41991",
+			"description":" <b>직무<\/b> 특성 이론은 특정한 <b>직무<\/b> 특성이 특정한 심리 상태를 유발하고 이것이 다시 <b>직무<\/b> 성과와 연관되는데, 이때 종업원의 개인차가 이러한 일련의 과정에 영향을 줄 수 있다는 이론이다. [ 1. 개요]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2883_000_1\/20140311193050896_O17H8FZG2.jpg\/af2_210_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b> 분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2094182&cid=41991&categoryId=41991",
+			"description":"용도로 <b>이용<\/b>된다. <b>직무<\/b> 분석을 위해 필요한 정보는 현업 전문가와 <b>직무<\/b>의 관리자, 문헌 자료 등을 통해 수집하는데, 이러한 정보의 출처를 관리하는 것은 <b>직무<\/b>분석의 정확성을 위해 중요하다. [ 2. <b>직무<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>조사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=472960&cid=42120&categoryId=42120",
+			"description":"보수지 급표, 사무용구와 비품 등에 관한 정보도 보조적 자료로 <b>이용<\/b>된다. <b>직무<\/b>조사의 방법으로는 질문지방법(questionnaire method), 면접방법(interview method), 관찰방법(observation method) 등이 사용된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=512810&cid=42126&categoryId=42126",
+			"description":"이렇게 해서 분석된 결과는 <b>직무<\/b>평가·인사고과(人事考課)·인사관리, 그리고 <b>직무<\/b>상담의 기본자료로 <b>이용<\/b>된다. 또 <b>직무<\/b>분석의 결과에 의해서 <b>직무<\/b>가 계통적으로 분류되고 숙련(熟練)의 정도에 따르는 직업으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 만족",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3434551&cid=40942&categoryId=31531",
+			"description":" <b>직무<\/b>와 관련하여 근로자가 만족하는 정도를 말한다.  <b>직무<\/b> 만족 연구의 시작은 생산성 향상에 관심을 가진 연구자들이 근로자의 생산성을 향상시키기 위해 필요한 요소를 연구하는 데서 비롯되었다. 초기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1206572&cid=40942&categoryId=31911",
+			"description":" <b>직무<\/b>분석에 필요한 정보자료의 수집 방법.  <b>직무<\/b>분석은 인사관리의 전체 분야를 효율적으로 수행하는 데 필요한 정보를 제공하는 것이므로 <b>직무<\/b>분석의 범위, 정보의 내용, 정보수집 방법 등에 따라 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"형사소송(형법 공무원의 <b>직무<\/b>에 관한 죄)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775204&cid=51373&categoryId=51373",
+			"description":"■ 공무원의 <b>직무<\/b>에 관한 죄 - 제122조(<b>직무<\/b>유기) 공무원이 정당한 이유없이 그 <b>직무<\/b>수행을 거부하거나 그 <b>직무<\/b>를 유기한 때에는 1년 이하의 징역이나 금고 또는 3년 이하의 자격정지에 처한다. - 제123조... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508171128605_YAIAVOLLF.jpg\/ba17_rd1497_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>이용<\/b>매뉴얼",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1927159&cid=42279&categoryId=42279",
+			"description":"<b>이용<\/b>매뉴얼에는 매뉴얼 발행의 취지를 비롯하여 서비스의 역할과 효용성, 수수료 체계 등에 관한 내용을 상세히 기술한다. 또 <b>직무<\/b>기술서 작성, 계약, 대금 지급 등의 업무 진행 절차를 구체적으로 기재하도록... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129020210694_O9NMOFYXZ.jpg\/hb10_7525_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=508876&cid=42380&categoryId=42380",
+			"description":"적재적소에 배치전환하기 위한 정확한 자료 및 교육훈련의 기초자료를 제공하며, 노동력을 유효하게 <b>이용<\/b>하고, 적정한 임금수준과 <b>직무<\/b>의 상대적 가치를 결정할 수 있는 자료를 제공하는 것이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>설계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=508877&cid=42380&categoryId=42380",
+			"description":"개개 과업(課業)을 어떻게 조합시키면 <b>직무<\/b>로서 가장 적합하며, 1명의 인간에 의해서 가장... 최근 <b>직무<\/b>설계에서는 작업자의 동기부여 요인을 중시하고, 과업의 세분화, 단순화가 기계장치의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>기술서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831239&cid=42279&categoryId=42279",
+			"description":" <b>직무<\/b>기술서란 해당 <b>직무<\/b>의 특징과 <b>직무<\/b>에 필요한 요건을 기록한 서식이다. [<b>직무<\/b>기술서의 개요] 1) <b>직무<\/b>기술서의 정의 <b>직무<\/b>기술서란 어떠한 <b>직무<\/b>에 대해 <b>직무<\/b>분석을 통하여 해당<b>직무<\/b>의 성격이나 <b>직무<\/b>개요... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20220602171810328_LYVQ9S7KU.jpg\/hb10_3786_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>대행",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=472957&cid=50300&categoryId=50300",
+			"description":"하는 잠정적인 임용조치 또는 그러한 업무를 담당하는 사람을 말한다. 대체로 <b>직무<\/b>대행은 상위직급에 결원이 있을 때나 상급자의 유고시에 하급자로 하여금 그 업무를 임시로 대행하게 하는 수단으로 <b>이용<\/b>된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"예산<b>이용<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6480860&cid=55599&categoryId=55599",
+			"description":"그 <b>직무<\/b>와 권한에 변동이 있을 때와 예산집행상 필요에 의하여 미리 예산으로써 국회의 의결을 얻은 경우에 한하여 기획재정부장관의 승인을 받아 예산이 정한 각 기관 간, 각 장 · 관 · 항 간에 상호 <b>이용<\/b>하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=384138&cid=42128&categoryId=42128",
+			"description":"<b>직무<\/b> 분석은 직접관찰, 지필조사, 인터뷰 등을 통해 이루어지며, 수행하는 과제를 기술식으로 분석하는 방법과 그 <b>직무<\/b>를 수행하는 데 필요한 기능 체크리스트를 <b>이용<\/b>하는 방법 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"예산의 <b>이용<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=77193&cid=42155&categoryId=42155",
+			"description":"그 <b>직무<\/b>와 권한에 변동이 있을 때에는 기획재정부장관이 당해 중앙관서의 장의 요구에 의해 <b>이용<\/b>하도록 할 수 있다.  예산과목 중 이른바 입법과목(立法科目) 간의 금액을 서로 융통하여 쓰는 것. 즉... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전기<b>이용<\/b>기술연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665277&cid=42117&categoryId=42117",
+			"description":" 생산된 전력을 효율적으로 <b>이용<\/b>할 수 있는 전기<b>이용<\/b>기술에 대한 개발 및 응용기술을 연구한다. [수행<b>직무<\/b>] 빙축열 및 히트펌프시스템과 축열식 난방시스템에 대한 설계 및 성능평가기술을 개발한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"축산물<b>이용<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025238&cid=42117&categoryId=42117",
+			"description":" 축산물의 효율적인 <b>이용<\/b>을 위하여 품질, 유통기술 및 <b>이용<\/b>에 대한 개선, 개발을 위한 연구를 한다. [수행<b>직무<\/b>] 축산물의 품질을 향상시키고 안전하게 처리·가공하기 위하여 처리·가공기술을 개발한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예산의<b>이용<\/b> · 전용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=299695&cid=43665&categoryId=43665",
+			"description":"그 <b>직무<\/b>와 권한에 변동이 있을 때에는 기획재정부장관이 당해 중앙관서의 장의 요구에 의하여 <b>이용<\/b>토록 할 수 있다. 예산의 전용(轉用)은 행정과목간 또는 기관간 상호 융통하는 것으로 예산의 집행과정에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미공개정보<b>이용<\/b> 행위",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1987892&cid=42088&categoryId=42088",
+			"description":"상장법인의 주요주주, 임직원 기타 회사와 일정한 관계에 있는 내부자 등이 <b>직무<\/b>와 관련하여 지득한 미공개 중요정보를 특정 증권등의 매매에 <b>이용<\/b>하거나 타인으로 하여금 <b>이용<\/b>하게 하는 행위를 말한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인터넷<b>이용<\/b>자정보분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658628&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 인터넷 가입자 개인별 연령, 직업, 거주지역 등 가입자현황에 관한 통계를 파악하고 가입기간, <b>이용<\/b>시간에 관한 통계를 추출한다. 로그 데이터에 의한 접속패턴에 관한 통계자료를 파악하고 각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나무를 <b>이용<\/b>한 패턴",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808631&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222754265_XDO8W05SI.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"사회 복지 <b>이용<\/b> 시설 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825774&cid=55772&categoryId=55810",
+			"description":"[정의] 부산광역시에 거주하는 사회 복지 대상자가 <b>이용<\/b>하는 사회 복지 시설. [개설] 사회 복지 시설이란 「사회 복지 사업」 제2조에 의거하여 사회 복지 사업을 할 목적으로 설치된 시설로, 사회 문제를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718122022128_AX46U9NMJ.jpg\/GC042P23992.jpg?type=m160_160"
+		},
+		{
+			"title":"미공개정보 <b>이용<\/b>행위의 금지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=68089&cid=43667&categoryId=43667",
+			"description":"「자본시장과 금융투자업에 관한 법률」 174조(미공개정보 <b>이용<\/b>행위의 금지)에서는 일반인에게... 또한 회사내부자는 아니지만 <b>직무<\/b>나 지위에 의해 내부정보에 접근할 수 있는 공무원, 감독기관 임직원, 기자... ",
+			"thumbnail":""
+		},
+		{
+			"title":"접근제어를 <b>이용<\/b>하라",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3432527&cid=58445&categoryId=58445",
+			"description":"접근제어(Access Control)는 통신 시스템 설비의 사용을 허가하거나 거부하기 위해 사용되는 서비스 기법이다. 데이터 저장장치에 접근하는 권한을 정의하거나 제한하고, 권한 있는 자 및 프로그램, 기타... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소프트웨어 <b>직무<\/b>수행능력 표준",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3586295&cid=59277&categoryId=59281",
+			"description":"2012년 소프트웨어 개발·<b>이용<\/b> 환경이 바뀐 것을 헤아려 <b>직무<\/b> 분류 체계를 손질하고 지식·기술 진단 기준을 현실에 맞게 만들었다. 소프트웨어 관련 교육기관이 교육 과정을 설계할 때에도 유용하다.",
+			"thumbnail":""
+		},
+		{
+			"title":"현재 숙박시설로 <b>이용<\/b>되는 옛 궁전",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808584&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222244339_QU7E50DSG.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"돌을 <b>이용<\/b>하여 만들어 놓은 아치 기둥",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808652&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802223146592_YKJYBO63H.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"나무와 돌을 <b>이용<\/b>하여 완성해 놓은 천장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808626&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222903641_YTCT1C1HS.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"벽돌과 나무를 <b>이용<\/b>해 완성해 놓은 궁전",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808602&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222605660_VN4HNAZFP.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"특정 금융거래정보의 보고 및 <b>이용<\/b> 등에 관한 법률",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6234059&cid=43667&categoryId=43667",
+			"description":" 금융거래 등을 <b>이용<\/b>한 자금세탁행위와 공중협박 자금조달행위를 규제하는 데 필요한 특정금융거래정보의 보고 및 <b>이용<\/b> 등에 관한 사항을 규정한 법안이다.  출처: 게티이미지 코리아 '특정 금융거래정보의... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTAzMjJfMTMw%2FMDAxNjE2MzkwOTYyNjkw._zSDkV6bQAak1tGx8k1sRvaze09-FS668akzRf8eFL0g.EzIUNdaQaqZvwMjVvBUJqO1A8zK7HbZP3MH_iJVrclYg.JPEG%2FIPiHiGbebJqtqkrP04dKMmKvrDeA.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x359"
+		},
+		{
+			"title":"나무와 돌을 <b>이용<\/b>해 완성해 놓은 궁전 천장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808601&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222611718_2QY3726VO.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"돌을 <b>이용<\/b>해 완성해 놓은 아벤세라헤스의 방 천장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808623&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222949164_3V1EI40VK.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"돌을 <b>이용<\/b>하여 완성해 놓은 아벤세라헤스의 방 천장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808621&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222940766_TMGNIJ753.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"지형과 수압을 <b>이용<\/b>해 만들어 놓은 헤네랄리페 분수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808596&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222023737_5GEYZOYWK.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"저마다 다른 색상과 문양, 재료를 <b>이용<\/b>하여 완성해 놓은 천장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808632&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222753790_VCEEHUW3S.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"지형을 활용한 수압 차이를 <b>이용<\/b>해 만들어 놓은 헤네랄리페 분수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808100&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222012302_5RFX8L6A4.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"과업목록법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5713572&cid=40942&categoryId=31911",
+			"description":" 설문지를 <b>이용<\/b>하여 <b>직무<\/b>를 수행하는 데 필요한 모든 과업들을 열거한 후 각 과업의 상대적 소요시간, 중요성, 난이도 등을 평가하는 <b>직무<\/b>분석 방법.  미국 공군에서 개발한 <b>직무<\/b>분석 기법으로 설문지를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화이트칼라범죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155222&cid=40942&categoryId=31637",
+			"description":" 사회의 각 방면에서 관리적 ·지도적 입장에 있는 자가 <b>직무<\/b>상의 지위를 <b>이용<\/b>하여 <b>직무<\/b>과정에서 범하는 범죄행위.  회사 임원의 지위를 <b>이용<\/b>한 횡령(橫領) ·배임(背任), 최근에 많이 발생하는 컴퓨터 범죄... ",
+			"thumbnail":""
+		},
+		{
+			"title":"과업목록분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2177930&cid=51072&categoryId=51072",
+			"description":"<b>직무<\/b>분석기법의 하나로, 과업목록에 대한 설문지를 <b>이용<\/b>하여 <b>직무<\/b>를 성공적으로 수행하기 위해 필요한 지식, 기술, 태도를 결정하는데 사용된다. 인터뷰와 조사를 통해 <b>직무<\/b>에 대한 과업목록을 개발하고 <b>직무<\/b>와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"노동인력과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070337&cid=55570&categoryId=55570",
+			"description":"빅데이터를 활용해 기업이 임직원을 관리하거나 인재를 뽑는 인사 관리 영역에 사용하는 인적자원 분석 기법(Human Captial Analytics)이다. 노동인력과학을 통해 인재 관리에 성공한 대표적인 기업으로는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감정 소진",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%90%EC%A0%95_%EC%86%8C%EC%A7%84",
+			"description":"Cherniss(1980), Koeske&#38; Koeske(1993), Um &#38; Harrison(1998)와 같은 연구자들은 SSO 모델을 <b>이용<\/b>하여 <b>직무<\/b> 만족과 소진의 하위차원인 감정소진의 인과를 설명하는 이론으로 주목하고 있다. SSO 모델은 <b>직무<\/b> 만족에 영향을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"과학적 관리법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%BC%ED%95%99%EC%A0%81_%EA%B4%80%EB%A6%AC%EB%B2%95",
+			"description":"따라서 산업 및 조직 관련 연구자들은 조직 내에서 작업자의 내재적 <b>직무<\/b> 동기 및 전반적 <b>직무<\/b> 만족에 영향을 주는 구체적인 <b>직무<\/b> 특성에 대해 밝히고, 이러한 핵심적인 <b>직무<\/b> 특성을 <b>이용<\/b>하여 <b>직무<\/b>재설... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이상형",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=946874&cid=62132&categoryId=62132",
+			"description":"금상(今上) 초기에 오직 학문에만 전념하였으므로 시강(侍講)하는 신하들도 모두 영걸이었는데, 그중 후진으로서 일찍이 고문(顧問)의 자질을 갖추고 학사(學士)로서의 직분을 다한 자가 있었으니 공이 바로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0763_000_1\/20111216195137334_L8BS6W5ET.jpg\/p1_1257_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"매표원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026048&cid=42117&categoryId=42117",
+			"description":" 극장, 고궁, 유원지, 경기장 등을 <b>이용<\/b>하는 고객에게 입장권을 판매한다. [수행<b>직무<\/b>] <b>이용<\/b>정원이나 예약상황을 검토한다. 고객의 요구에 따라 매표수를 확인하고 시간이나 좌석번호 등을 표에 기록하거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"데이터아키텍처 전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070014&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가공인 민간자격 (2) 시행기관 : 한국데이터베이스진흥원 (3) 응시자격 : 일정한 실무경력자 또는 학력소지자 (4) 홈페이지 : dbguide.net [ 2. 자격정보] (1) 데이터아키텍처... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20181023135648258_VWV0W7V1Q.jpg\/da6_687_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"무선설비기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1094824&cid=40942&categoryId=31851",
+			"description":"효율적으로 <b>이용<\/b>하게 하는 <b>직무<\/b>를 수행한다. 자격검정은 방송통신위원회 산하의 한국방송통신전파진흥원이 주관하여 시행하며, 필기와 실기를 병행한다. 필기시험은 디지털전자회로, 무선통신기기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이흥복",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%ED%9D%A5%EB%B3%B5",
+			"description":"것일뿐 <b>직무<\/b>를 <b>이용<\/b>해 취득한 것으로 보기 힘들다&quot;며 무죄를 선고했다. 2003년 1월 14일 16대 총선을 앞두고 지역구민을 상대로 산악회 모임을 열어 사전선거운동을 벌인 혐의로 1심에서 벌금 500만원을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"허버트 후버",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%97%88%EB%B2%84%ED%8A%B8_%ED%9B%84%EB%B2%84",
+			"description":"진보주의자들이 비지니스 개혁을 흥행하는 데 후버가 자신의 <b>직무<\/b>를 <b>이용<\/b>하고 있지 않았다는 것에 항의했을 때 그는 미국 상무부가 적당한 대리 업무가 아니었다고 답변하였다. 그러나 후버는 철강업에서 12... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장애인재활상담사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658383&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 상담을 통해 <b>이용<\/b>자의 기초정보를 수집하고 각종 검사 및 직업평가 등을 통해 장애를 진단하고 평가 보고서를 작성한다. <b>이용<\/b>자의 개인별 재활계획에 따라 필요한 전환·직업적응훈련 프로그램... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신재생에너지안전기술연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029170&cid=42117&categoryId=42117",
+			"description":" 신·재생에너지 <b>이용<\/b> 부분의 안전성 확보를 위하여 안전기술을 연구하고 관련 제품 검사 및 안전성에 대한 인증을 한다. [수행<b>직무<\/b>] 수소 <b>이용<\/b> 안전기술, 연료전지 <b>이용<\/b> 안전기술, DME <b>이용<\/b> 안전기술... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방사선관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977022&cid=42114&categoryId=42114",
+			"description":"② 방사선에 관한 전문적인 지식과 풍부한 경험을 바탕으로 산업현장에서 요구되는 방사선<b>이용<\/b>과 관련된 <b>직무<\/b>를 수행할 수 있는 전문기능인력을 양성하기 위해 방사선관리기술사 자격제도가 제정되었다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100911282_Q403XM6GX.jpg\/da6_214_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"성과 평가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2094338&cid=41991&categoryId=41991",
+			"description":"• 1단계: 성과 계획 개인이 달성할 업무(주요 <b>직무<\/b> 책임, 수행할 목표 및 프로젝트), <b>직무<\/b> 수행 방법(조직이 구성원에게 기대하는 행위와 역량), 개인 계발 계획 등을 논의한다. • 2단계: 성과 수행 개인은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"알선수재죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=7003&cid=43659&categoryId=43659",
+			"description":"① 형법상 알선수뢰죄: 공무원이 지위를 <b>이용<\/b>, 다른 공무원의 <b>직무<\/b>처리에 직간접 영향을 미쳤을 경우 적용된다. 뇌물죄는 공무원 자신의 <b>직무<\/b>에 관해 청탁을 받는다는 점에서 알선수뢰죄와는 다르다. ②... ",
+			"thumbnail":""
+		},
+		{
+			"title":"알선수뢰죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=70100&cid=43667&categoryId=43667",
+			"description":"■ 형법상 알선수뢰죄 공무원이 지위를 <b>이용<\/b>, 다른 공무원의 <b>직무<\/b>처리에 직간접 영향을 미쳤을 경우 적용되며 관련 공무원은 3년이하의 징역 또는 7년이하의 자격정지에 처한다. 뇌물죄는 공무원 자신의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"컴퓨터하드웨어설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658531&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 컴퓨터 <b>이용<\/b>자들의 의견을 듣고 새로운 제품을 개발하거나 제품 업그레이드에 반영한다. 컴퓨터시스템, 주변장치 및 액세서리 등 컴퓨터 하드웨어장치에 대한 전문적 지식을 바탕으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선석플래너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024793&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 신규 <b>이용<\/b>선사 또는 항로상의 최초 선석 정기<b>이용<\/b> 요청공문을 해당 선사로부터 접수받고 전체적인 접안처리능력과 입항스케줄 및 기존 선박의 입항스케줄 중복 여부를 검토하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조직자본",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=9442&cid=43659&categoryId=43659",
+			"description":"효율적인 조직의 형성은 기업내에 축적된 기업고유의 정보에 의해 가능해지는데 예를 들면 종업원들의 특성에 관한 정보를 <b>이용<\/b>하여 이들을 적절한 <b>직무<\/b>에 배정하거나 잘 조화된 팀을 조직함으로써 기업의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"적극행정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5946246&cid=43667&categoryId=43667",
+			"description":"이에 반대되는 개념인 소극행정은 공무원의 부작위 또는 <b>직무<\/b>태만 등으로 국민의 권익을 침해하거나... 성실히 <b>직무<\/b>를 수행하여야 한다)에 명시돼 있다. 반대로 소극행정은 공무원의 부작위 또는 <b>직무<\/b>태만... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소극행정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5949319&cid=43667&categoryId=43667",
+			"description":"행정 | <b>직무<\/b>권한을 <b>이용<\/b>하여 부당하게 업무를 처리하거나, 국민 편익을 위해서가 아닌 자신의 조직이나 이익만을 중시하여 자의적으로 처리하는 행태 | 인사혁신처는 2019년 8월, 적극행정을 장려하고... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMDA1MThfMzMg%2FMDAxNTg5Nzg5NTY0OTAx.yqMCoe4TdGt42ql6jzQl-AgX0l9S9Wvq6ndltq6vFOYg.jlxsPGE4Hjh3X-OErJCjNCNjhB__oehVRI9zxRFHt50g.PNG%2FI-iJEWRB-ZgwORZoJZrNT6AknHnM.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x401#c401"
+		},
+		{
+			"title":"알선수재죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1214642&cid=40942&categoryId=31716",
+			"description":"형법상 알선수뢰죄는 공무원이 자신의 지위를 <b>이용<\/b>해 다른 공무원의 <b>직무<\/b> 처리에 직간접으로 영향을 미쳤을 경우에 해당한다. 특정범죄가중처벌등에 관한 법률상 알선수재죄는 공무원의 <b>직무<\/b>에 속하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"행동기준 평정척도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2094164&cid=41991&categoryId=41991",
+			"description":" <b>직무<\/b>상에 나타나는 핵심적인 행동을 평가 기준으로 제시하여 일반인이 쉽게 판단하여 점수를 매길 수 있도록 하는 인사 평가의 방법 또는 도구. [ 1. 개요] <b>직무<\/b>에서 볼 수 있는 중요한 행동을 평가의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2883_000_1\/20140605185000838_9W2M6C6MJ.jpg\/af2_214_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"한국원자력위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=662670&cid=50327&categoryId=50327",
+			"description":"과학기술처장관 소속하에 원자력위원회를 설치하였다가 1986년 국무총리 소속으로 격상하였다. 원자력위원회의 <b>직무<\/b>는 원자력 <b>이용<\/b>정책에 관한 사항 등 한국의 원자력 정책에 관한 최고 의결기관이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"알선수뢰죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3654683&cid=42131&categoryId=42131",
+			"description":"공무원이 그 지위를 <b>이용<\/b>하여 다른 공무원의 <b>직무<\/b>에 속한 사항의 알선에 관하여 재물을 수수 · 요구 또는 약속함으로서 성립하는 범죄(형법 제132조)를 말한다.<b>직무<\/b>행위의 불가매수성을 보호한다는 점에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"뇌물죄",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%87%8C%EB%AC%BC%EC%A3%84",
+			"description":"알선수뢰죄 알선수뢰죄 (斡旋收賂罪)는 공무원이 그 지위를 <b>이용<\/b>하여 다른 공무원의 <b>직무<\/b>에 속한 사항의 알선에 관하여 뇌물을 수수 요구 또는 약속하는 죄이다. 3년이하의 징역,또는 7년 이하의 자격정지에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 형법 제132조",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%ED%98%95%EB%B2%95_%EC%A0%9C132%EC%A1%B0",
+			"description":"조문 제132조(알선수뢰) 공무원이 그 지위를 <b>이용<\/b>하여 다른 공무원의 <b>직무<\/b>에 속한 사항의 알선에 관하여 뇌물을 수수, 요구 또는 약속한 때에는 3년 이하의 징역 또는 7년 이하의 자격정지에 처한다. 第132條... ",
+			"thumbnail":""
+		},
+		{
+			"title":"알선수재죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=929490&cid=43667&categoryId=43667",
+			"description":"형법상 알선수뢰죄는 공무원이 지위를 <b>이용<\/b>, 다른 공무원의 <b>직무<\/b>처리에 직ㆍ간접 영향을 미쳤을 때 적용된다. 이는 다른 공무원의 <b>직무<\/b>처리에 영향을 미친다는 점에서 공무원 자신의 <b>직무<\/b>에 관한 청탁을 받는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블카안내원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026186&cid=42117&categoryId=42117",
+			"description":" 케이블카를 <b>이용<\/b>하는 승객의 탑승을 유도하고 안내한다. [수행<b>직무<\/b>] 케이블카를 <b>이용<\/b>하는 승객의 탑승을 확인한다. 케이블카에 함께 탑승하여 안쪽의 이중문을 개폐한다. 승객 안전에 관한 유의사항 및 비상시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업심리학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%B0%EC%97%85%EC%8B%AC%EB%A6%AC%ED%95%99",
+			"description":"과업활동과 과업자 능력을 세분화하여 정의하는 절차를 말한다. <b>직무<\/b>분석의 결과는 모집, 선발, 훈련 등의 인적자원계획에 <b>이용<\/b>될 수 있으며, <b>직무<\/b>평가, 수행평가의 기초자료로 활용될 수 있다. 각주",
+			"thumbnail":""
+		},
+		{
+			"title":"수뢰죄와 증뢰죄의 태양과 처벌",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1186763&cid=40942&categoryId=31716",
+			"description":"⑴ 단순수뢰죄(형법 129조 1항):공무원 또는 중재인이 그 <b>직무<\/b>에 관하여 뇌물을 수수 ·요구 또는 약속함으로써 성립한다. 수수 ·요구 ·약속하면 곧 성립하고 그 대가로서 어떤 <b>직무<\/b>행위를 할 의사가 있거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"뇌물죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3654691&cid=42131&categoryId=42131",
+			"description":"공무원 또는 중재인(仲裁人)이 <b>직무<\/b>행위에 대한 대가로 법이 인정하지 않는 이익을 취득하지 못하도록... 중재인은 공무원은 아니지만 그 <b>직무<\/b>의 공공성에 비추어 공무원과 함께 본죄의 주체가 되는 것이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"폭발응용연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027426&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 폭약을 <b>이용<\/b>한 이종재료의 접합기술, 가스제너레이터의 기술을 응용한 자동차용 에어백의 부품장치, 사용상의 안전성과 정밀성을 향상시킨 전자뇌관, 고연소 자기합성기술, 폭약의 폭발파를 <b>이용<\/b>한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연료봉집합체제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027570&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 크레인을 <b>이용<\/b>하여 연료봉 완성품 혹은 핵연료 집합체를 작업탱크로 이송하고 탱크에 장입한다. 작업판넬 스위치를 작동시켜 자동으로 래커가 도포되도록 하고 크레인을 <b>이용<\/b>하여 저장장소로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블카검표원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026123&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 케이블카를 <b>이용<\/b>하는 고객에게 승차장소를 안내하고 탑승구 내 질서를 유지한다. 케이블카조작원의 신호를 확인한 후 운행상태를 확인하여 고객의 승차권을 확인한다. 승객의 승·하차 시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"컴퓨터자동조각기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026808&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 컴퓨터를 <b>이용<\/b>하여 모형의 부분별 전개도를 그린다. CAM(컴퓨터자동조각기)에 자동으로 조작할 수 있도록 프로그래밍을 한다. 프로그램된 데이터를 CAM에 입력시켜 조작한다. CAM에 의해 조각되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"상수원수질관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029140&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 선박을 <b>이용<\/b>하여 상수원의 수질을 감시하고 오염물질을 제거한다. 수질시험을 위한 수질시료 채수 및 현장조사를 통하여 물의 색깔, 유량, 인근지역의 공사현황, 오염물 투기 등에 대해 감시한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"착순심판보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832805&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 단말기를 <b>이용<\/b>하여 경주진행 중의 마필의 중간순위와 결승선 도착마의 착차, 착순, 경주기록 등을 전광게시판에 기록한다. 착순심판위원이 작성한 착순심판통지서를 재결실에 전달한다. 육안으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유원지관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024504&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 오락시설 <b>이용<\/b>, 동·하절기 개장시간, 행사개최 등 유원지 운영에 대한 계획을 수립한다. 고객안내, 오락시설의 조작 및 편의를 제공하는 종사원의 활동을 조정한다. 종사원에 대해 고객서비스 교육을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비디오드럼조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028487&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 지그를 <b>이용<\/b>하여 상하부 하우징에 베어링을 압입하고 프랜지(flange)를 조립한다. 드라이버를 사용하여 관련부품을 조립한다. 드럼에 홀더를 체결하고 유동이 있는지 확인한다. 상부드럼과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제재소작업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029621&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 지렛대를 <b>이용<\/b>하거나 손이나 트럭으로 열차에서 목재를 내리거나 싣는다. 제재소작업장으로 원목(통나무)을 옮겨 놓는다. 원목의 쇳조각, 돌, 썩은 곳, 쪼개진 곳 등을 검사하여 표시한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"색조화장품제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027584&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 교반기를 <b>이용<\/b>해 분산(분산매가 분산상에 퍼져있는 현상) 된 재료를 이동시킨다. 지방산, 유지, 왁스 에스테르, 고급 알코올 등 각종 재료와 유화제(계면활성제)들을 밀폐된 진공상태의 유화탱크에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"버스터미널운행관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024787&cid=42117&categoryId=42117",
+			"description":" 버스터미널 <b>이용<\/b> 시 차량의 소통, 사고방지를 위하여 차량 및 승객을 안전하게 유도한다. [수행<b>직무<\/b>] 버스터미널을 <b>이용<\/b>하는 차량의 출입을 안전하게 유도하여 터미널 내에서 차량소통을 원활하게 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"독서실총무",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024660&cid=42117&categoryId=42117",
+			"description":" <b>이용<\/b>자 출입관리 등 독서실을 관리하여 면학여건을 조성한다. [수행<b>직무<\/b>] 독서실을 처음 <b>이용<\/b>하는 고객에게 사용요금 및 주의사항을 설명하고 자리를 배정한다. <b>이용<\/b>자의 출입을 관리하고 외부인의 출입을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재제조잉크카트리지조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5936923&cid=42117&categoryId=42117",
+			"description":" 폐잉크카트리지를 분해하여 세척한 후 잉크를 주입하고 매쉬, 스펀지, 바디, 캡 등의 부품을 <b>이용<\/b>하여 재생잉크카트리지를 조립한다. [수행<b>직무<\/b>] 분리기계를 <b>이용<\/b>하여 바디와 캡을 분리한 후 세척기를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"웹방송엔지니어",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025783&cid=42117&categoryId=42117",
+			"description":" 디지털 장비를 <b>이용<\/b>해 촬영 혹은 녹음을 하고, 웹방송 가능 형태로 파일을 편집하며, 인코딩한다. [수행<b>직무<\/b>] 디지털 장비를 <b>이용<\/b>해 촬영 혹은 녹음한다. 촬영 혹은 녹음된 파일을 방송에 적합한 형태로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공무원행동강령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=66047&cid=43667&categoryId=43667",
+			"description":"[ 공무원행동강령 주요 내용 ] 공정한 <b>직무<\/b> 수행 공정한 <b>직무<\/b>수행을 해치는 지시에 대한 처리, 이해관계<b>직무<\/b>의 회피, 특혜의 배제, 예산의 목적 외 사용 금지, 정치인",
+			"thumbnail":""
+		},
+		{
+			"title":"일반사무관리회사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1987753&cid=42088&categoryId=42088",
+			"description":"투자회사재산의 계산, 법령 또는 정관에 의한 통지 및 공고, 이사회⋅주주총회의 소집 및 의사록 개최 등이 포함된다. 일반사무관리회사는 집합투자기구의 미공개 <b>직무<\/b> 관련 정보를 <b>이용<\/b>하여서는 안 된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"로켓터보펌프시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028169&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 펌프시험기를 <b>이용<\/b>해 터보펌프(액체로켓엔진에 연료와 산화제를 고압으로 공급하는 핵심부품으로서 고온, 고압, 극저온, 고속회전 등 극심한 조건이 필요)의 성능시험을 한다. 터빈시험기를 <b>이용<\/b>해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소형컴퓨터시스템연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028680&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 마이크로컴퓨터를 <b>이용<\/b>하여 입·출력프로그래밍의 기법, 데이터습득, 디지털 신호처리방법, 컴퓨터를 <b>이용<\/b>한 출력, 연산장치(마이크로프로세서)를 사용하여 마이크로컴퓨터의 설계, 컴퓨터의 실시간... ",
+			"thumbnail":""
+		},
+		{
+			"title":"두피모발관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026133&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 두피측정기를 <b>이용<\/b>하여 고객의 모발이나 두피상태를 측정하여 결과에 대하여 고객에게 설명한다. 고객의 식습관, 건강상태, 유전 등 상담을 통해 고객의 정보를 습득하고 문제의 원인을 판단한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생명정보연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025198&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 실험장비를 <b>이용<\/b>하여 신호를 수집·처리한다. 연구실에서 샘플을 추적하고 진행되는 실험을 관리한다. 공공의 데이터베이스에 데이터를 저장한다. 수집한 대용량데이터에서 패턴과 규칙을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"융단보수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028045&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 동력장치를 <b>이용<\/b>한 검사대에서 불완전한 곳, 빠진 땀 등 결점을 찾아내거나 융단검사원이 표시한 곳을 살핀다. 수선 도구나 가위를 사용하여 자르지 않은 실, 헐거운 실 끝 등을 잘라낸다. 융단과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"낚시릴조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027751&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 전동드라이버를 <b>이용<\/b>하여 낚시용 릴의 몸체에 각종 부속품을 나사로 고정한다. 기 조립된 로터어셈블리(Rotor Assembly)를 몸체 피니온기어(Pinion Gear)에 삽입하여 동력너트돌리개로 너트를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사파리버스운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026167&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 안내차량을 <b>이용<\/b>하는 관광객의 탑승 및 하차를 안내한다. 버스를 운전하면서 미리 준비한 먹이를 <b>이용<\/b>하여 동물을 유인해 재주를 부릴 수 있도록 유도한다. 동물의 성향, 특징 등을 숙지하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스탬퍼제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028547&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 소다 유리를 <b>이용<\/b>해 유리의 표면을 세척하고 말린다. 유리 원판에 피트(Pit)를 만들기 위해 감광제인 포토레지스트(Photoresist)를 도포하고 건조시킨다. 글라스 마스터를 만들기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정보지배포관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658712&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 차량 등을 <b>이용<\/b>하여 정보지(생활정보지)나 기타 무가지를 배포한다. 통행인이 많은 곳에 배포대를 설치하고, 정기적으로 발간되는 무가지를 비치한다. 우천시나 기타 기후의 변화에 따라 배포대에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"두부제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028965&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 자동선별기를 <b>이용<\/b>하거나 수작업으로 콩에 포함된 이물질(돌, 다른 곡물 등), 상한 콩, 썩은 콩 등을 골라낸다. 선별된 콩을 불리기 전에 깨끗한 물을 <b>이용<\/b>하여 세척한다. 분쇄 시 두유가 잘... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경륜자전거검차위원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026198&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 검사장비를 <b>이용<\/b>하여 경주에서 사용될 자전거의 가력검사, 회전검사, 조임검사, 시각검사 등 전일확정검사를 시행한다. 조건에 부합하지 않으면 부품교체 등의 조치를 지시한다. 확정검사 시 차체... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항공기상전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025171&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 관측장비를 <b>이용<\/b>하여 지구의 대기상태를 입체적으로 측정한다. 기상위성과 레이더 등을 활용하여 공기의 흐름과 성질을 파악한다. 기상예보용 슈퍼컴퓨터에 자료를 입력하여 예보자료를 생산한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"온라인전기자동차연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665285&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 자체 배터리를 <b>이용<\/b>하여 주행하는 일반 전기자동차와 달리, 정차 또는 주행 중에 도로에 매설된 전력선으로부터 무선으로 전력을 전송받아 구동에너지로 사용하거나 배터리를 충전하는... ",
+			"thumbnail":""
+		}
+	]
+}

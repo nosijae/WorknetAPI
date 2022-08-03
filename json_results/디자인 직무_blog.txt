@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:36 +0900",
+	"total":113417,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[채용] 캠페인 전략팀 <b>디자인 직무<\/b> 활동가를 모집합니다.",
+			"link":"https:\/\/blog.naver.com\/animalkara?Redirect=Log&logNo=222782616740",
+			"description":"분 <b>디자인<\/b> 관련 <b>직무<\/b> 경험 1년 이상이신 분 지원 요건 시민단체나 NGO 활동에 대해 기본적 이해와 소양을 지닌 분 동물권 단체의 가치와 활동에 관심과 열정을 가지고 있는 분 학력\/경력 무관 근무 환경... ",
+			"bloggername":"동물권행동 카라, 인권을 넘어 생명권으로!",
+			"bloggerlink":"https:\/\/blog.naver.com\/animalkara",
+			"postdate":"20220621"
+		},
+		{
+			"title":"<b>디자인 직무<\/b>가 궁금해? 더오름마케팅팀 신규 입사자 인터뷰",
+			"link":"https:\/\/blog.kyowon.co.kr\/424",
+			"description":"하시는 <b>직무<\/b>에 대해 소개해 주세요. 더오름마케팅팀에서 패키지 <b>디자인<\/b>을 하고 있습니다. 좀 더 자세히 말하자면, 개발되어서 나가는 제품의 패키지를 만들고 있어요. 더오름에서 판매하는 제품이 크게 리빙케어... ",
+			"bloggername":"교원그룹 블로그",
+			"bloggerlink":"https:\/\/blog.kyowon.co.kr\/",
+			"postdate":"20201101"
+		},
+		{
+			"title":"[면접] BYC 내의 <b>디자인 직무<\/b> 면접 복기 \/ 실기시험과 면접",
+			"link":"https:\/\/blog.naver.com\/empty0829?Redirect=Log&logNo=222693206517",
+			"description":"아무튼 면접복기 끝! 일주일 지난지라 질문이 가물가물하기는 하다.. #면접 #면접후기 #면접리뷰 #비와이씨 #디자이너 #<b>디자인직무<\/b> #취준일기 #면접복기 #BYC #실기시험 #디자이너시험 #패턴디자인",
+			"bloggername":"empty",
+			"bloggerlink":"https:\/\/blog.naver.com\/empty0829",
+			"postdate":"20220406"
+		},
+		{
+			"title":"2022 한국디자인진흥원 <b>디자인직무<\/b> NCS 필기시험 후기",
+			"link":"https:\/\/blog.naver.com\/1224mini?Redirect=Log&logNo=222716962128",
+			"description":"난이도가 높지 않았고 풀만했고 괜찮았다 <b>디자인<\/b>쪽 <b>직무<\/b>라 그런건가? 내가 부담감이 덜해서 그런가? 생각보다 쉬운 난이도 그럼에도 역시 어려웠던 건 수리영역 난 수포자라서 수리영역이 제일 어려웠다... ",
+			"bloggername":"예현 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/1224mini",
+			"postdate":"20220501"
+		},
+		{
+			"title":"[디자인티키] 2022년에 새롭게 떠오를 <b>디자인 직무<\/b>!",
+			"link":"https:\/\/blog.naver.com\/kimgg9252?Redirect=Log&logNo=222688650282",
+			"description":"지금까지 디자인티키 였습니다 감사합니다:) 본 포스팅에서 소개된 내용과 이미지는 요즘IT의 2022년 <b>디자인 직무<\/b> 소개 포스팅에서 참고하였으며 디자인티키만의 느낌과 의견을 추가하여 재구성하였습니다.... ",
+			"bloggername":"수출바우처 공식수행사 디자인티키",
+			"bloggerlink":"https:\/\/blog.naver.com\/kimgg9252",
+			"postdate":"20220401"
+		},
+		{
+			"title":"비전공자의 UX <b>디자인 직무<\/b> 전환 도전기_Intro",
+			"link":"https:\/\/blog.naver.com\/angel_b91?Redirect=Log&logNo=222793721238",
+			"description":"내가 보기 위해 기록하는 UX 디자인 기록의 서막_Intro 제목이 이렇게 직관적일 수가..! 말 그대로 비전공자, 외국계 직장인 n년차에 UX <b>디자인 직무<\/b>로 전환을 도전하려고 한다. 무족권 해낼 것임. (할 수... ",
+			"bloggername":"JennyBenny",
+			"bloggerlink":"https:\/\/blog.naver.com\/angel_b91",
+			"postdate":"20220629"
+		},
+		{
+			"title":"<b>직무<\/b>인터뷰] 게임업계 생생 취업 스토리 - 게임 <b>디자인<\/b> 편",
+			"link":"https:\/\/blog.naver.com\/jobkorea1?Redirect=Log&logNo=222181125681",
+			"description":"[넥슨코리아 직무인터뷰] 게임업계 생생 취업 스토리 - 게임 디자인 편 #넥슨 #넥슨코리아 #게임디자인... (이하생략) 넥슨코리아 게임 <b>디자인 직무<\/b>인터뷰 전체 내용이 궁금하시다면, 하단의 넥슨코리아... ",
+			"bloggername":"취업의 방법을 바꾸다, 잡코리아",
+			"bloggerlink":"https:\/\/blog.naver.com\/jobkorea1",
+			"postdate":"20201221"
+		},
+		{
+			"title":"[강의] 패키지 <b>디자인 직무<\/b>부트캠프 수강 _ 코멘토 참여 후기",
+			"link":"https:\/\/blog.naver.com\/mix2nt?Redirect=Log&logNo=222350181486",
+			"description":"아무튼 <b>디자인<\/b>은 다양한 <b>직무<\/b>가 있다보니까 어떤 게 저와 잘 맞을까 고민이 있었답니다. 그래서 이걸 알 수 있는 방법이 없을까 생각하다가 배울 수 있는 곳들을 이리저리 찾아보았어요. 그 중에서 눈에... ",
+			"bloggername":"Ya옹네:)",
+			"bloggerlink":"https:\/\/blog.naver.com\/mix2nt",
+			"postdate":"20210514"
+		},
+		{
+			"title":"응원 엔트리 마이크로비트 자이언트 플라워 <b>디자인 직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/edu-naeil?Redirect=Log&logNo=222390860074",
+			"description":"특수교사 역량강화를 통한 자유학년제 활성화 노력 <b>직무<\/b>연수로 자립형 진로체험 모델 만들다 - 6.1.~7.1.... 플라워 <b>디자인<\/b> ▲3D프린팅과 같은 실기 중심의 4개 과정을 선정하였으며, 코로나19 예방을 위해 10명... ",
+			"bloggername":"에듀 내일",
+			"bloggerlink":"https:\/\/blog.naver.com\/edu-naeil",
+			"postdate":"20210609"
+		},
+		{
+			"title":"웹퍼블리셔 취업하기_웹<b>디자인 직무<\/b> 효율적으로 학습하기!",
+			"link":"https:\/\/blog.naver.com\/dwittt?Redirect=Log&logNo=222428536451",
+			"description":"이렇게 많은 웹사이트를 만들어내고 관리하기란 쉽지않은데요 그만큼의 전문 인력이 필요한 법이죠 다양한 웹사이트를 만들어내는 기술 그리고 그러한 직무를 웹디자인이라고하는데, 웹<b>디자인 직무<\/b>를... ",
+			"bloggername":"대우직업능력개발원",
+			"bloggerlink":"https:\/\/blog.naver.com\/dwittt",
+			"postdate":"20210712"
+		},
+		{
+			"title":"스타멤버 <b>직무<\/b>인터뷰 『<b>디자인<\/b>』편",
+			"link":"https:\/\/blog.naver.com\/sv8703?Redirect=Log&logNo=222700445127",
+			"description":"부여하는 디자인팀 이야기입니다. &quot;디자인 Design&quot; VD파트 OOO 님께서 들려주시는 <b>디자인 직무<\/b> 이야기, 한... 스타비젼 직무인터뷰 『디자인』편, 어떻게 보셨나요? 다음 포스팅에서도 스타비젼에서 어떤 멋진... ",
+			"bloggername":"스타비젼 회사 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sv8703",
+			"postdate":"20220414"
+		},
+		{
+			"title":"[<b>디자인<\/b>과 MD취업하기]MD면접 후기_<b>직무<\/b>&amp;인성면접",
+			"link":"https:\/\/blog.naver.com\/hhhn0303?Redirect=Log&logNo=222375926713",
+			"description":"MD 직무와 동일하다 생각해 지원했다. 2. 미국 인턴 왜 갔냐. 이 질문도 항상 듣던 거라. 이제부터 필수 질문으로 넣어야겠다는 생각을 했습니다. 일단 해외 생활을 하고 싶어서 갔다. 물론 <b>디자인 직무<\/b>로 갔자만... ",
+			"bloggername":"이것저것 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hhhn0303",
+			"postdate":"20210530"
+		},
+		{
+			"title":"웹디자이너가 갖춰야할  <b>디자인 직무<\/b> 스킬!",
+			"link":"https:\/\/blog.naver.com\/dwitt?Redirect=Log&logNo=222489047103",
+			"description":"<b>직무<\/b>스킬 + 실무교육 + 자격취득 + 프로젝트 + 멘토 + 전문가특강 + 포트폴리오 + 취업지원 모두 지원해주는 &quot;(웹퍼블리셔) 반응형 웹<b>디자인<\/b> 전문가 양성과정&quot; 입니다. 2021년 10월 교육과정이 개강하며, 현재... ",
+			"bloggername":"대우직업능력개발원",
+			"bloggerlink":"https:\/\/blog.naver.com\/dwitt",
+			"postdate":"20210830"
+		},
+		{
+			"title":"3D <b>디자인 직무<\/b>는 무엇보다 경험이 있어야 합니다.",
+			"link":"https:\/\/blog.naver.com\/mode3477?Redirect=Log&logNo=222671102049",
+			"description":"3D <b>디자인 직무<\/b>는 무엇보다 경험이 있어야 합니다. D 디자인은 무엇보다도 경험이 풍부해야 합니다 자세한 그림을 보고 싶으시다면 우리는 모든 분야에서 열심히 일합니다. 인테리어 디자이너가 자주 사용하는... ",
+			"bloggername":"mode3477님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mode3477",
+			"postdate":"20220313"
+		},
+		{
+			"title":"[미니컴퍼니C] UIUX<b>디자인 직무<\/b> 실무체험 프로젝트 참여 후기",
+			"link":"https:\/\/blog.naver.com\/indigon7ght?Redirect=Log&logNo=222753885471",
+			"description":"현직자한테 <b>디자인<\/b>을 배우는 점, <b>직무<\/b> 체험을 한번에 할 수 있다는 점이 끌려 저번 미니인턴 끝나자마자 신청했습니다...^_^V... 고민하다가 결국 마지막 30분 전에 신청했는데요! 기억에 남고 의미 있던... ",
+			"bloggername":"Supernova",
+			"bloggerlink":"https:\/\/blog.naver.com\/indigon7ght",
+			"postdate":"20220531"
+		},
+		{
+			"title":"<b>디자인<\/b> 전공 출신, 타 <b>직무<\/b>로 서류 지원 시 서류합격 하는... ",
+			"link":"https:\/\/blog.naver.com\/kil8853?Redirect=Log&logNo=222264027149",
+			"description":"상담자 스펙 30살 남자 \/ 해외대학 제품<b>디자인<\/b>과 졸업 <b>디자인<\/b> 기획 <b>직무<\/b> 인턴 경력 1년 공백기 3년 (개인정보보호를 위해 최소 정보만 제공합니다) 오늘의 상담자는 해외에서 열심히 대학교를 다닌 분이라... ",
+			"bloggername":"취업의신 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kil8853",
+			"postdate":"20210305"
+		},
+		{
+			"title":"[<b>직무<\/b>인터뷰] 인테리어에 들어가는 <b>디자인<\/b>, 설계를 맡고... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=222527375111",
+			"description":"인테리어설계팀 강은주 사원 #건축 #인테리어 #설계 #<b>디자인<\/b>그룹아모  <b>디자인<\/b>그룹아모 <b>직무<\/b>인터뷰  <b>직무<\/b>이야기 Q1. 담당하고 계신 업무를 소개해 주세요. 설계팀에서는 인테리어 <b>디자인<\/b>과 관련된 다양한 업무를... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20211005"
+		},
+		{
+			"title":"22년 상반기 한국<b>디자인<\/b>진흥원... 작성방법, <b>직무<\/b>수행능력기술... ",
+			"link":"https:\/\/blog.naver.com\/solkiloveme?Redirect=Log&logNo=222698113279",
+			"description":"위한 추진 <b>직무<\/b>수행 능력 (결론) - 업무처리 능력&amp;기술 - 사업관리능력 - 업무수행 및 협업의 합리적 태도 #한국<b>디자인<\/b>진흥원자소서 #한국<b>디자인<\/b>진흥원자소서작성방법 #한국<b>디자인<\/b>진흥원<b>직무<\/b>수행능력기술서",
+			"bloggername":"PB마인드잡연구소 \"MAGISTER\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/solkiloveme",
+			"postdate":"20220412"
+		},
+		{
+			"title":"부산광고<b>디자인<\/b>학원 <b>직무<\/b> 경험과 실무 능력 완성으로 취업까지",
+			"link":"https:\/\/blog.naver.com\/dustmddl80?Redirect=Log&logNo=222793819917",
+			"description":"전공보다는 <b>직무<\/b> 경험이나 실력이 중요한 요소로 여겨지는 분야인 만큼 오늘은 취업을 준비하며 느꼈던 점들을 이야기해볼까 한답니다 <b>디자인<\/b> 분야에서 실무에 대한 경험이나 능력을 갖추고자 한다면 그... ",
+			"bloggername":"DUS",
+			"bloggerlink":"https:\/\/blog.naver.com\/dustmddl80",
+			"postdate":"20220629"
+		},
+		{
+			"title":"[모다모다 STORY] 모다모다 <b>직무<\/b> 인터뷰#3_<b>디자인<\/b>팀... ",
+			"link":"https:\/\/blog.naver.com\/modamodahair?Redirect=Log&logNo=222638739988",
+			"description":"웹 디자인이라는 직무를 선택하신 이유와 현재 만족도가 궁금해요. 웹 디자인이라는 직무는 앞서... 그래서 지금은 웹<b>디자인 직무<\/b>로 정착하게 되었답니다. Q5. 디자이너에게 가장 필요한 역량은 무엇이라고... ",
+			"bloggername":"모다모다",
+			"bloggerlink":"https:\/\/blog.naver.com\/modamodahair",
+			"postdate":"20220204"
+		},
+		{
+			"title":"UX디자인\/UI디자인\/프로덕트 <b>디자인 직무<\/b> 정의하기",
+			"link":"https:\/\/blog.naver.com\/msy08130?Redirect=Log&logNo=222664110531",
+			"description":"오늘은 제가 속한 <b>직무<\/b>의 정의에 대해 알아봅시다. UI - 사용자 인터페이스 User Interface 우리가 세상을 살아가며 마주하는 다양한 시각적 요소입니다. 앱, 웹사이트 같은 디지털 기반의 <b>디자인<\/b>에서 UI는 비주얼... ",
+			"bloggername":"문디의 취향껏 더하기",
+			"bloggerlink":"https:\/\/blog.naver.com\/msy08130",
+			"postdate":"20220304"
+		},
+		{
+			"title":"[<b>직무<\/b> 동상이몽] #02. 코오롱의 두 디자이너에게 &apos;<b>디자인<\/b>&apos;을 묻다",
+			"link":"https:\/\/blog.kolon.com\/1958",
+			"description":"코오롱의 두 디자이너에게 '<b>디자인<\/b>'을 묻다 (0) 2022.03.04 [<b>직무<\/b> 동상이몽] #01. 코오롱의 두 영업 담당자에게 '영업'을 묻다 (0) 2022.02.21 코오롱의 ESG 실천자 | 2편 (0) 2022.01.03 코오롱의 ESG 실천자들 | 1편 (0)... ",
+			"bloggername":"코오롱그룹 공식 블로그 :: 코오롱그룹 공식 블로그",
+			"bloggerlink":"https:\/\/blog.kolon.com\/",
+			"postdate":"20220304"
+		},
+		{
+			"title":"[러퓨의 무료 PPT<b>디자인<\/b>] #46. <b>직무<\/b> 교육 템플릿 <b>디자인<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/hyuna1164?Redirect=Log&logNo=222798161994",
+			"description":"무료 피피티 제작하는데 큰 힘이 됩니다:) #무료피피티 #피피티<b>디자인<\/b> #<b>직무<\/b>PPT #교육피피티 #교육무료피피티 #지도평가PPT #취업피피티 #취업설명회PPT #진로PPT #인턴PPT #무료템플릿 #PPT디자인 #무료다운PPT... ",
+			"bloggername":"러퓨의 즐거운스케치",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyuna1164",
+			"postdate":"20220703"
+		},
+		{
+			"title":"스타멤버 <b>직무<\/b>인터뷰_ 『<b>디자인<\/b>2팀』편",
+			"link":"https:\/\/blog.naver.com\/sv8703?Redirect=Log&logNo=222780693518",
+			"description":"스타비젼 <b>직무<\/b>인터뷰 『<b>디자인<\/b>2팀』편, 어떻게 보셨나요? 다음 포스팅에서도 스타비젼에서 어떤 멋진 일들을 하고 있는지 자세히 소개드리도록 하겠습니다. 감사합니다!",
+			"bloggername":"스타비젼 회사 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sv8703",
+			"postdate":"20220620"
+		},
+		{
+			"title":"현직자 웹<b>디자인<\/b> 강의 무료 <b>직무<\/b>교육(웹<b>디자인<\/b>, UXUI) 신한... ",
+			"link":"https:\/\/blog.naver.com\/squarebridge_seoul?Redirect=Log&logNo=222315406816",
+			"description":"#<b>디자인직무<\/b>교육 #현직자직무교육 #디자인교육 클릭시 핏잡(FIT JOB)으로 이동합니다. 일하고 싶은 청년에게 Fit한 일자리를 소개하는 핏한 커리어 플랫폼 핏잡(FIT JOB)에서 오는 4월 19일(월)~6.6일(일)까지... ",
+			"bloggername":"신한 스퀘어브릿지 서울",
+			"bloggerlink":"https:\/\/blog.naver.com\/squarebridge_seoul",
+			"postdate":"20210419"
+		},
+		{
+			"title":"중소기업 청년 <b>직무<\/b>체험 한화리조트 경주 <b>디자인<\/b>전공",
+			"link":"https:\/\/blog.naver.com\/lovewltn1?Redirect=Log&logNo=222820700043",
+			"description":"청년 직무체험 프로그램이 10일 동안 진행이 되는데요. <b>디자인 직무<\/b>에 관해서 전문가 특강이... #공모전 #디자인공모전 친구들과 좋은 시간을 보내고 좋은 추억을 보냈던 1박 2일이었습니다. 추가로 8일 동안... ",
+			"bloggername":"지숭숭이 인생라이프",
+			"bloggerlink":"https:\/\/blog.naver.com\/lovewltn1",
+			"postdate":"20220720"
+		},
+		{
+			"title":"<b>직무<\/b> <b>디자인<\/b> 실행을 위한 5가지 고민",
+			"link":"https:\/\/blog.naver.com\/imhr77?Redirect=Log&logNo=222514055052",
+			"description":"지금 필요한 <b>직무<\/b> <b>디자인<\/b> ‘Work design’ 또는 ‘Job design’은 ‘<b>직무<\/b> 설계’라고 많이 번역됩니다만, 실행에 있어서는 ‘설계’라는 단어와 같이 과학적이고 체계적인 계획으로 되지 않는 경우가 많습니다.... ",
+			"bloggername":"HR은 Fit하게, IMHR",
+			"bloggerlink":"https:\/\/blog.naver.com\/imhr77",
+			"postdate":"20210923"
+		},
+		{
+			"title":"웹<b>디자인 직무<\/b>분석 이젠 취업할때가 됬다!",
+			"link":"https:\/\/blog.naver.com\/rlaehdgud4?Redirect=Log&logNo=222162474728",
+			"description":"오늘은 웹 <b>디자인<\/b> 관련 <b>직무<\/b>분석을 한번 해볼건대요 !! 바로 말해 뭐해 !! 바로 시작해보겠습니다. 먼저 주요 진출 분야 입니다. 웹<b>디자인<\/b>\/쇼핑몰,웹에이전시 <b>디자인<\/b>, 웹퍼블리셔, 홈페이지 관리직 출판편집... ",
+			"bloggername":"스쳐지나가지마세요",
+			"bloggerlink":"https:\/\/blog.naver.com\/rlaehdgud4",
+			"postdate":"20201204"
+		},
+		{
+			"title":"[강남그래픽디자인학원] 다양한 분야의 <b>디자인 직무<\/b>에 대한... ",
+			"link":"https:\/\/blog.naver.com\/warawarabei?Redirect=Log&logNo=222734148306",
+			"description":"광고출판의 직무로 취업을 희망하시는 분들은 주로 마케팅 혹은 <b>디자인 직무<\/b>를 맡아서 커리어를 발전해나갑니다. 혹은 출판사 쪽으로도 커리어를 만들 수 있는데요~ 출판편집 디자인 등의 직무를 맡을 수... ",
+			"bloggername":"디자인 가이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/warawarabei",
+			"postdate":"20220516"
+		},
+		{
+			"title":"[내일상담소] <b>디자인<\/b> 전공자의... 재무회계 <b>직무<\/b>로 <b>직무<\/b>변경해도... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=222832589213",
+			"description":"<b>직무<\/b>로 <b>직무<\/b>변경을 하셔야 할지 고민중이셨습니다. 과연 컨설턴트님은 어떤 답변을 주셨을까요? Q. &lt;걱정맨&gt;님 사연 안녕하세요. 취업을 준비하고 있는 <b>디자인<\/b>전공 졸업1년차 걱정맨입니다. 현재는 본가에... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20220728"
+		},
+		{
+			"title":"정보 - 디자이너 <b>직무<\/b> 정보 \/ <b>디자인<\/b> 에이전시 취업 및 업무",
+			"link":"https:\/\/blog.naver.com\/melite0206?Redirect=Log&logNo=222401955983",
+			"description":"기타 직무들과는 다르게 디자인 관련 강의는 6개가 전부이다. 심지어 <b>디자인 직무<\/b>별로 하나씩도 아니고, UXUI 셋, 패키지 둘, PPT 디자인 하나. 패키지에는 화장품처럼 나름 인기가 많은 분야도 있고, 그... ",
+			"bloggername":"걱정이 찌지 않게 움직이기",
+			"bloggerlink":"https:\/\/blog.naver.com\/melite0206",
+			"postdate":"20210618"
+		},
+		{
+			"title":"&apos;서울형 청년인턴 <b>직무<\/b>캠프&apos; <b>직무<\/b>분야B 홍보광고<b>디자인<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/bigtreearche?Redirect=Log&logNo=222299142492",
+			"description":"직무분야B 광고 홍보 <b>디자인 직무<\/b>캠프 참여자를 모집합니다! 공고 기간 : ‘21.04.05(월) ~ ’21.04.26(월), 3주간 모집 기간 : ‘21.04.19(월) ~ ’21.04.26(월) 18:00  이런 청년이라면 집중! ✔홍보·광고·디자인... ",
+			"bloggername":"빅트리 아르케 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/bigtreearche",
+			"postdate":"20210405"
+		},
+		{
+			"title":"<b>디자인 직무<\/b> 3년차. 퇴사 후 이직",
+			"link":"https:\/\/blog.naver.com\/picture0902?Redirect=Log&logNo=222375136272",
+			"description":"<b>디자인직무<\/b> 3년채우고 퇴사 기간 6개월 29살.. 경력을 살려 재취업.. 아래쪽에 퇴사 후 이직 꿀팁... 더 좋은 회사, 더 나은 회사, 더 발전이 있는 회사, 아니면 직무를 바꿔볼까? 이런 생각, 저런 생각들로... 내... ",
+			"bloggername":"My Otium.",
+			"bloggerlink":"https:\/\/blog.naver.com\/picture0902",
+			"postdate":"20210530"
+		},
+		{
+			"title":"청주대학교 학생대상 멘토링 -  UX\/UI\/<b>디자인 직무<\/b> 이해 온라인... ",
+			"link":"https:\/\/blog.naver.com\/bhj5656?Redirect=Log&logNo=222152450145",
+			"description":"#청주대 #<b>디자인<\/b>학과 #UX #UI #<b>디자인<\/b> #서비스기획 #서비스<b>디자인<\/b> #UXUI 분야에 대한 관심이 있는 학생 분들 ⬇️ 아래 링크로 신청해주세요!^^ 청주대 <b>직무<\/b>이해 (UXUI\/design편) \/ 11월 27일 기준 잔여 1석... ",
+			"bloggername":"창작자를 위한 비밀아지트",
+			"bloggerlink":"https:\/\/blog.naver.com\/bhj5656",
+			"postdate":"20201123"
+		},
+		{
+			"title":"2021  체험실무현장 &quot;<b>디자인 직무<\/b>&quot;편 22기",
+			"link":"https:\/\/blog.naver.com\/komisoguem?Redirect=Log&logNo=222579752903",
+			"description":"<b>디자인 직무<\/b> 파헤치기 (참여 디자인 업체에서 소개, 직무에 대한 소개, 디자인업무를 하게 된 계기등) 으로 <b>디자인 직무<\/b>에 기울였던 노력과 노하우를 들을 수 있어 경험공유가 되는 시간이었다. 또한 다른 기업... ",
+			"bloggername":"soguem",
+			"bloggerlink":"https:\/\/blog.naver.com\/komisoguem",
+			"postdate":"20211126"
+		},
+		{
+			"title":"<b>직무<\/b> 시리즈별 카드뉴스 8탄-<b>디자인<\/b> 편",
+			"link":"https:\/\/blog.naver.com\/dscareer14?Redirect=Log&logNo=222161939908",
+			"description":"직무 시리즈별 카드뉴스 6탄 - 디자인 편 <b>디자인 직무<\/b> 디자인은 문제 해결을 위한 목적 지향적인 활동을 의미합니다 대표적인 <b>디자인 직무<\/b>는 다음과 같습니다. -그래픽디자인 -패션디자인 -출판... ",
+			"bloggername":"덕성여자대학교 대학일자리본부",
+			"bloggerlink":"https:\/\/blog.naver.com\/dscareer14",
+			"postdate":"20201203"
+		},
+		{
+			"title":"[연수] 인공지능 활용 수업 <b>디자인<\/b>[영어] <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/prominent10?Redirect=Log&logNo=222650197276",
+			"description":"박기오 선생님의 인공지능 활용 <b>디자인<\/b>[영어] <b>직무<\/b>연수를 듣고 왔습니다. 아침에 일어났더니, 빙판길이 위험하다는 문자가 와 있어서 무안에서 목포까지 갈지 말지 한참 고민했습니다.... ",
+			"bloggername":"꽃들에게 희망을",
+			"bloggerlink":"https:\/\/blog.naver.com\/prominent10",
+			"postdate":"20220217"
+		},
+		{
+			"title":"[미니인턴 후기] UX\/UI <b>디자인 직무<\/b> 기업과제",
+			"link":"https:\/\/blog.naver.com\/indigon7ght?Redirect=Log&logNo=222706270972",
+			"description":"미니인턴은 2주간의 실무 과제를 수행하면서 <b>직무<\/b>역량을 확인하는 활동이에요. 전 전공 공지톡방에서... <b>디자인<\/b> 작업을 어디까지 올려도 되는 지는 모르겠으나 저작권은 저에게 있으므로 올리겠습니다 ^_^... ",
+			"bloggername":"Supernova",
+			"bloggerlink":"https:\/\/blog.naver.com\/indigon7ght",
+			"postdate":"20220420"
+		},
+		{
+			"title":"연수] 강원도교육연수원 &apos;진짜회의를 <b>디자인<\/b>하다&apos; <b>직무<\/b>연수 1기",
+			"link":"https:\/\/blog.naver.com\/globalal?Redirect=Log&logNo=222669061148",
+			"description":"교육생 후기 中 강원도교육연수원 진짜회의를 <b>디자인<\/b>하다 <b>직무<\/b>연수 1기 오늘은 강원도교육연수원에서과 진행한 '진짜회의를 <b>디자인<\/b>하다' <b>직무<\/b>연수 1기를 소개하겠습니다. '진짜회의를 <b>디자인<\/b>하다... ",
+			"bloggername":"글로벌액션러닝그룹",
+			"bloggerlink":"https:\/\/blog.naver.com\/globalal",
+			"postdate":"20220310"
+		},
+		{
+			"title":"[스완제이] 삼성전자 2018 하반기 <b>디자인 직무<\/b> 최종합격 후기",
+			"link":"https:\/\/blog.naver.com\/f_shoegirl?Redirect=Log&logNo=222026506611",
+			"description":"개인레슨 6회 삼성전자 2018 하반기 <b>디자인 직무<\/b> 최종합격 후기입니다. 삼성전자는 산업디자인 전공자 분들이 가장 가고 싶어하는 기업 중 하나죠 그래서 면접 기회를 얻게 되면 만전을 기할 수밖에 없는데요.... ",
+			"bloggername":"스완제이",
+			"bloggerlink":"https:\/\/blog.naver.com\/f_shoegirl",
+			"postdate":"20200710"
+		},
+		{
+			"title":"[Who We Are] 더아이엠씨 <b>직무<\/b>소개 <b>디자인<\/b>팀_신입사원편",
+			"link":"https:\/\/blog.naver.com\/theimc?Redirect=Log&logNo=222559455004",
+			"description":"해당<b>직무<\/b>를 선택한 이유는 무엇인가요? A. 저의 전공과는 다르지만 <b>디자인<\/b>을 전공하였기 때문에 웹 <b>디자인<\/b> 분야에도 관심을 가지고 있었습니다. 그러다 우연히 배울 수 있는 기회를 가지게 되면서 공부를... ",
+			"bloggername":"The IMC 더아이엠씨 : 마케팅에 빅데이터를 더하다",
+			"bloggerlink":"https:\/\/blog.naver.com\/theimc",
+			"postdate":"20211105"
+		},
+		{
+			"title":"[이엠넷 디자인팀] 브랜드와 소비자를 연결하는 <b>디자인 직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=222190413510",
+			"description":"<b>직무<\/b>에 대해 Q. 담당하고 계신 업무를 소개해 주세요. 인터넷 웹, 모바일에 보이는 <b>디자인<\/b>, 배너, 프로모션 페이지 등 다양한 광고주 브랜드의 <b>디자인<\/b> 관련 업무를 맡고 있습니다. 유관부서의 <b>디자인<\/b> 제작이... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20201230"
+		},
+		{
+			"title":"커닝단 2기  &apos;  UX <b>디자인<\/b> 부시기 1 Week - 프롤로그, <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/nireyh_153?Redirect=Log&logNo=222503483081",
+			"description":"UX <b>디자인 직무<\/b> 이해하기 편에서 각 직군에 대해 더 명확히 알 수 있었습니다 UX 디자이너와 UI 디자이너의 가장 큰 차이는 '어디에 집중하는가' 입니다. 직무 UX 디자이너 UI 디자이너 공통점 디자인 차이점... ",
+			"bloggername":"(Imegine)",
+			"bloggerlink":"https:\/\/blog.naver.com\/nireyh_153",
+			"postdate":"20210912"
+		},
+		{
+			"title":"꿈나무들을 위한 실무디자이너가 말해주는_<b>디자인직무<\/b>강의",
+			"link":"https:\/\/blog.naver.com\/sss4935?Redirect=Log&logNo=222435038516",
+			"description":"<b>디자인 직무<\/b> 취업을 위한 직무체험 기업탐방 안녕하세요 부산디자인회사 (주)푸치토야입니다. 종종 디자인 말고도 다른 소식도 공유해보는건 어떨까 하며 새소식을 가져왔습니다. 대학교 디자인 실무... ",
+			"bloggername":"부산디자인회사 푸치토야",
+			"bloggerlink":"https:\/\/blog.naver.com\/sss4935",
+			"postdate":"20210717"
+		},
+		{
+			"title":"웹<b>디자인 직무<\/b> 알아봄~!",
+			"link":"https:\/\/blog.naver.com\/pthansae?Redirect=Log&logNo=222744034218",
+			"description":"[ 웹디자이너 ] 웹사이트를 사용하는 사람들을 위해 보기 좋게 활용하기 편하도록 <b>디자인<\/b>을... 멀티미디어콘텐츠(UI\/UX <b>디자인<\/b>, 촬영, 영상편집, 모션그래픽) 실무자 양성 2. 웹디자이너 양성 교육 3. VR콘텐츠... ",
+			"bloggername":"모션그래픽을위한 튜토리얼 - 한씨네큰아들 한새",
+			"bloggerlink":"https:\/\/blog.naver.com\/pthansae",
+			"postdate":"20220524"
+		},
+		{
+			"title":"[한디원]시각<b>디자인<\/b>학과 <b>직무<\/b>경험으로 취업 성공하는 방법...??",
+			"link":"https:\/\/blog.naver.com\/ehdrmfkal__52?Redirect=Log&logNo=222784212491",
+			"description":"따라서 시각<b>디자인<\/b>학과를 졸업하고 관련분야로 취업을 생각하는 학생들은 본인이 지원하려는 분야의 <b>직무<\/b>역량을 키우고, 지원분야와 관련된 다양한 경험을 쌓는 것이 더욱 중요합니다. 한디원의 경우에도... ",
+			"bloggername":"한성대학교 부설 디자인아트교육원",
+			"bloggerlink":"https:\/\/blog.naver.com\/ehdrmfkal__52",
+			"postdate":"20220622"
+		},
+		{
+			"title":"[인터뷰] <b>직무<\/b>소개, 아홉 번째_웹<b>디자인<\/b>",
+			"link":"https:\/\/blog.naver.com\/gwss001?Redirect=Log&logNo=222065638746",
+			"description":"웹디자인을 담당하고 있는 Alice라고 합니다. 만나서 반가워요~ 디테일한 별명까지..! 감사합니다:-) 많은 분들이 웹<b>디자인 직무<\/b>에 대해 궁금해하실텐데요. 간단한 직무소개와 어떤 일을 맡고 계신지... ",
+			"bloggername":"고운세상코스메틱",
+			"bloggerlink":"https:\/\/blog.naver.com\/gwss001",
+			"postdate":"20200820"
+		},
+		{
+			"title":"<b>디자인 직무<\/b> 분야에서 UIUX 디자이너의 역할은?",
+			"link":"https:\/\/blog.naver.com\/edu8989?Redirect=Log&logNo=222191425783",
+			"description":"디자인은 하나의 직무분야에 국한된 개념이 아니고, 디자인을 필요로 하는 분야가 광범위하다 보니... 중심 디자인 분야를 개척하면서 세상에 널리 알려진 개념으로, 지금은 대부분의 <b>디자인 직무<\/b>에서... ",
+			"bloggername":"양정인력개발센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/edu8989",
+			"postdate":"20210101"
+		},
+		{
+			"title":"[10월 교육 후기] [멘토링] 디자인 현직자와 함께 <b>디자인 직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/coworker11?Redirect=Log&logNo=222602876633",
+			"description":"[마이온X동작구] 디자인 현직자와 함께 <b>디자인직무<\/b> 알아보기 온라인 강의 사진 ✨ 오태영 강사 現 오컨설팅 대표 前 팰리즈 대표 前 모턴 이사 2016 (주)BTNS – 웹기획 \/ 웹디자인 2014 (주)가피아 – 웹디자인... ",
+			"bloggername":"20대 이상 성인을 위한 커리어 가이드 MYOWN 마이온",
+			"bloggerlink":"https:\/\/blog.naver.com\/coworker11",
+			"postdate":"20211223"
+		},
+		{
+			"title":"청년 <b>디자인 직무<\/b> 취업 합격 소식 난리났네 난리났어",
+			"link":"https:\/\/blog.naver.com\/sirusa?Redirect=Log&logNo=222289756828",
+			"description":"청년 <b>디자인 직무<\/b> 취업 합격 소식 - 디자인 포트폴리오 - 다양한 대학 시절 활동 경험 - 학과 활동 또한... 더 자랑스러운 것은 자신의 전공과 무관한 직무이지만 희망하였고 지원하기 위해 노력했던 직무라 더욱... ",
+			"bloggername":"[코크리에이터]",
+			"bloggerlink":"https:\/\/blog.naver.com\/sirusa",
+			"postdate":"20210329"
+		},
+		{
+			"title":"국비로 배우는 웹툰만화의 <b>직무<\/b>, 만화 캐릭터 <b>디자인<\/b>이란?",
+			"link":"https:\/\/blog.naver.com\/zonekim56?Redirect=Log&logNo=222367594635",
+			"description":"설정하여 디자인하는 직무를 의미합니다. 만화 캐릭터 <b>디자인 직무<\/b>에는 3가지 하위직무가 존재합니다. 첫 번째로 캐릭터 디자인, 두 번째는 캐릭터 스타일 디자인, 세 번째는 캐릭터 컬러차트입니다. 먼저... ",
+			"bloggername":"소금쟁이의 고용노동부 국비지원 Hrd-net 교육 알려줌",
+			"bloggerlink":"https:\/\/blog.naver.com\/zonekim56",
+			"postdate":"20210526"
+		},
+		{
+			"title":"2022년 중소기업 청년 <b>직무<\/b>체험 프로그램 <b>디자인<\/b>선 강의",
+			"link":"https:\/\/blog.naver.com\/kwfm_multi?Redirect=Log&logNo=222822726162",
+			"description":"경운대학교 멀티미디어학과 동아리 KWFM 2022 중소기업 청년 <b>직무<\/b>체험 프로그램 _<b>디자인<\/b>선 강의 ....................................................................... ",
+			"bloggername":"경운대학교 멀티미디어학과 시각디자인 KWFM",
+			"bloggerlink":"https:\/\/blog.naver.com\/kwfm_multi",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[브이드림] 장애인 <b>직무<\/b>교육 - <b>디자인<\/b> 기초",
+			"link":"https:\/\/blog.naver.com\/vdream0129?Redirect=Log&logNo=222120174385",
+			"description":"드림이예요 이번 소식은 저희 브이드림에서 진행중인 '장애인 직무 양성교육 - 디자인 기초' 편 입니다!!... 사진 출처 : 브이드림 홍보팀 귀여운 고양이 사진으로 기본적인 <b>디자인 직무<\/b> 교육을 진행해 주셨어요.... ",
+			"bloggername":"브이드림 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/vdream0129",
+			"postdate":"20201019"
+		},
+		{
+			"title":"<b>디자인 직무<\/b> 소개 (프로덕트디자이너 \/ 브랜드디자이너... ",
+			"link":"https:\/\/blog.naver.com\/0513icarus?Redirect=Log&logNo=222738220589",
+			"description":"오늘은 어떤 <b>디자인 직무<\/b>가 있는지 정리해 보도록 할게요~~ 프로덕트 디자이너 - 디자인 시스템 구축 - UX 설계 - UI 디자인 - 문제 정의 및 해결 - 협업, 커뮤니케이션 - 개발, 마케팅, 비즈니스 -&gt; 포괄적인... ",
+			"bloggername":"Busan IT Academy",
+			"bloggerlink":"https:\/\/blog.naver.com\/0513icarus",
+			"postdate":"20220519"
+		},
+		{
+			"title":"취업 잘되는 <b>디자인 직무<\/b>는?",
+			"link":"https:\/\/blog.naver.com\/yoonbility?Redirect=Log&logNo=222576299253",
+			"description":"1 디자인취업 전문가 박서윤의 디자인취업 이야기 - 취업 잘 되는 <b>디자인 직무<\/b>는?- 타임라인 3:43 본인이 하고자 하는 직무에 대한 고민 6:03 직접적인 경험 8:13 회사에 대한 직무별 구체적인... ",
+			"bloggername":"윤빌리티",
+			"bloggerlink":"https:\/\/blog.naver.com\/yoonbility",
+			"postdate":"20211123"
+		},
+		{
+			"title":"<b>디자인 직무<\/b> 프레젠테이션 개인코칭, 더스피치커뮤니케이션",
+			"link":"https:\/\/blog.naver.com\/thespeech2017?Redirect=Log&logNo=222223495362",
+			"description":"<b>디자인 직무<\/b> 프레젠테이션 개인코칭 더스피치커뮤니케이션 <b>디자인 직무<\/b> 프레젠테이션 개인코칭, 더스피치커뮤니케이션 더스피치커뮤니케이션에는 디자인 전공자들이 유독 많이 찾아오시는데요. 분야도 매우... ",
+			"bloggername":"심리학박사 강지연입니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/thespeech2017",
+			"postdate":"20210128"
+		},
+		{
+			"title":"[면접질문] 면접에서 자주나오는 <b>직무<\/b> 별 면접질문 모음zip! 각... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=222766347530",
+			"description":"<b>디자인 직무<\/b> - 포트폴리오에 기록된 작업물에 대한 질문 - 어떤 프로그램 및 툴을 사용할 수 있는지... 최근 디자인 트렌드에 대해 알고 있는지 6. 영업, 판매 직무 - 영업이란 무엇이라고 생각하는가 - 과거의 영업... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20220609"
+		},
+		{
+			"title":"편집디자이너 <b>직무<\/b>가이드",
+			"link":"https:\/\/blog.naver.com\/icgreen2111?Redirect=Log&logNo=222831291816",
+			"description":"오늘 편집디자이너가 하는 직무에 대해 알아보도록 해요! 편집디자인을 할때 필수적인 디자인... 광범위의 <b>디자인직무<\/b> 경험을 얻는게 중요합니다. (신입인 경우는 한 곳에 최소 2-3년 이상의 경력을 쌓는... ",
+			"bloggername":"인천그린컴퓨터아카데미",
+			"bloggerlink":"https:\/\/blog.naver.com\/icgreen2111",
+			"postdate":"20220727"
+		},
+		{
+			"title":"주얼리 <b>직무<\/b>부트캠프 모집, 주얼리 디자이너 <b>직무<\/b> 체험",
+			"link":"https:\/\/blog.naver.com\/wjrc1858?Redirect=Log&logNo=222756747971",
+			"description":"주얼리 <b>디자인 직무<\/b>캠프가 무려 3개 오픈되었습니다. 학생들의 선호도와 만족도를 고려하여, 주얼리 디자인으로만 이루어진 직무부트캠프가 구성되었어요. 3개의 주얼리 디자인 캠프에 대해 설명하자면요.... ",
+			"bloggername":"WJRC",
+			"bloggerlink":"https:\/\/blog.naver.com\/wjrc1858",
+			"postdate":"20220602"
+		},
+		{
+			"title":"스케치업강의 <b>디자인직무<\/b>능력 향상의 길!",
+			"link":"https:\/\/blog.naver.com\/returnjei?Redirect=Log&logNo=222433979050",
+			"description":"강의추천이 아깝지 않더라구요 ㅎㅎㅎ 스케치업 툴과 기능들을 제대로 익히고 싶으신 분, 그러나 처음이라 막막하신 분들, 스케치업을 독학으로도 체계적이고 쉽게 배우고 싶으신 분, <b>디자인 직무<\/b> 능력을... ",
+			"bloggername":"days of rose",
+			"bloggerlink":"https:\/\/blog.naver.com\/returnjei",
+			"postdate":"20210716"
+		},
+		{
+			"title":"[브이드림] 장애인 <b>직무<\/b>교육 - <b>디자인<\/b> 기초과정",
+			"link":"https:\/\/blog.naver.com\/vdream0129?Redirect=Log&logNo=222145683488",
+			"description":"오늘도 디자이너 직무교육을 꼼꼼히 준비하고, 진행해주고 계시는 경인지사 디자인팀 정화님입니다!... 최근에는 <b>디자인 직무<\/b> 인재를 찾으시는 기업들이 정말 많이 늘었어요~ 그만큼 <b>디자인 직무<\/b>가 매우... ",
+			"bloggername":"브이드림 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/vdream0129",
+			"postdate":"20201116"
+		},
+		{
+			"title":"않는 이야기 (스타트업, 신입 <b>직무<\/b> 정보, 커리어 콘텐츠)",
+			"link":"https:\/\/blog.naver.com\/wantedlab?Redirect=Log&logNo=222767745922",
+			"description":"콘텐츠 <b>디자인<\/b> \/ 미디어 <b>직무<\/b> 콘텐츠 바로 가기  신입 마케터라면 지원 전 꼭 봐야 하는 커리어 콘텐츠 마케팅 <b>직무<\/b> 콘텐츠 바로 가기  신입 기획자라면 지원 전 꼭 봐야 하는 커리어 콘텐츠 기획 \/ 사업개발... ",
+			"bloggername":"원티드 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/wantedlab",
+			"postdate":"20220610"
+		},
+		{
+			"title":"네오플 공채 신규 입사자 <b>직무<\/b> 추천도서 (시나리오 기획... ",
+			"link":"https:\/\/blog.naver.com\/neoplog?Redirect=Log&logNo=222609449463",
+			"description":"네오플 공채 신규 입사자 직무 추천도서 (시나리오 기획 \/ 아트직군) #네오플로그책방 2021년의 마지막... UI <b>디자인 직무<\/b> 신규 입사자의 멘토 추천도서로 고전서에 가까운 만큼 모든 아트 직군에게 추천한다는... ",
+			"bloggername":"게임회사 네오플 공식 블로그 [네오플로그 neoplog]",
+			"bloggerlink":"https:\/\/blog.naver.com\/neoplog",
+			"postdate":"20211231"
+		},
+		{
+			"title":"뉴미디어디자인과, <b>디자인 직무<\/b> 취업의 블루오션!",
+			"link":"https:\/\/sart.tistory.com\/4086",
+			"description":"<b>직무<\/b>의 이해도를 높이는 무료 특강이 뉴미디어<b>디자인<\/b>과 학생들을 위해 무료로 진행되고 있습니다. 카카오스토리, 현대카드 등 학생들이 선호하는 회사의 디자이너를 직접 만나 궁금증을 해결하고 <b>직무<\/b>에 대한... ",
+			"bloggername":"서울예술실용전문학교",
+			"bloggerlink":"https:\/\/sart.tistory.com\/",
+			"postdate":"20190318"
+		},
+		{
+			"title":"<b>디자인 직무<\/b>, 6개월 인턴 VS 중소기업 입사",
+			"link":"https:\/\/blog.naver.com\/jobkorea1?Redirect=Log&logNo=221503529966",
+			"description":"[잡코리아 선배에게 질문하기] 오늘의 취업 고민, <b>디자인 직무<\/b>, 6개월 인턴 VS 중소기업 입사 안녕하세요.... 그리고 어느 곳이는 디자인은 경력 쌓는 직무가 중요합니다. 소규모나 중소기업에 가서 대기업으로... ",
+			"bloggername":"취업의 방법을 바꾸다, 잡코리아",
+			"bloggerlink":"https:\/\/blog.naver.com\/jobkorea1",
+			"postdate":"20190402"
+		},
+		{
+			"title":"[취업길잡이] 미래를 향한 동행 - <b>직무<\/b>분석 편 ④ <b>디자인<\/b>",
+			"link":"https:\/\/blog.naver.com\/kead1?Redirect=Log&logNo=221107032152",
+			"description":"디자인 오늘 소개드릴 직무는 시장과 소비자 즉, 사람들의 욕구에 맞고 목적에 맞는 디자인을 산업적 형태에 맞게 시각적으로 만들어 내는 '<b>디자인<\/b>' <b>직무<\/b>입니다. <b>디자인 직무<\/b>에는 어떤 세부직무가 있는지, 각각... ",
+			"bloggername":"한국장애인고용공단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kead1",
+			"postdate":"20170928"
+		},
+		{
+			"title":"[직장IN_꿀팁UP] <b>디자인 직무<\/b> &amp; 게임 회사 취업 꿀팁 -&gt; 직무 별... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221380786340",
+			"description":"<b>직무<\/b> 별 용어 정리 <b>디자인<\/b> \/ 웹 · 게임 분야 <b>디자인<\/b> 블리드 (Bleed)Ⅰ사진이나 일러스트를 지면보다 넘치게 해서 자르는 것 ex) 블리드 3mm씩 주세요 썸네일 (Thumbnail)Ⅰ 대표 이미지, 페이지... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20181019"
+		},
+		{
+			"title":"승일미디어그룹 시각<b>디자인 직무<\/b>기술서 알아보기",
+			"link":"https:\/\/blog.naver.com\/dreamgodream?Redirect=Log&logNo=221411353753",
+			"description":"정보수집능력글쓰기 능력인터뷰능력보고서 작성 능력기획력유관부서와 협의능력홍보 니즈 파악홍보 전략, 방법관계구축 능력디자인 소프트웨어 활용 직무 수행 태도 시각<b>디자인 직무<\/b>를 수행하기 위해서는... ",
+			"bloggername":"꿈날개 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dreamgodream",
+			"postdate":"20181205"
+		},
+		{
+			"title":"[이 기업!이 <b>직무<\/b>!] 제품개발\/ 슈피겐코리아\/ 패키지<b>디자인<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221463074808",
+			"description":"[제품ㆍ산업<b>디자인<\/b>]<b>직무<\/b> 속 각 기업의 담당자들의 인터뷰를 모아 전달드립니다~ 신제품 개발의 전반을 총괄 제품개발팀 슈피켄코리아\/ 제품개발팀\/ 김지현 Q. [슈피겐코리아]의 제품개발 직무는? 제품 개발팀의... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20190211"
+		},
+		{
+			"title":"[기획&amp;마케팅] <b>디자인 직무<\/b> 소개 및 인터뷰",
+			"link":"https:\/\/blog.naver.com\/daou_data?Redirect=Log&logNo=221184306911",
+			"description":"[기획&amp;마케팅] <b>디자인 직무<\/b> 소개 및 인터뷰 <b>디자인 직무<\/b> 소개 디자인 업무의 궁극적인 목표는 서비스... 직무 인터뷰 [＃디자인 김현아 사원] 담당하고 있는 업무 소개 부탁드립니다. 다우데이타를 대표하는 모든... ",
+			"bloggername":"다우데이타 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daou_data",
+			"postdate":"20180113"
+		},
+		{
+			"title":"중등 미래핵심역량중심 교육과정 <b>디자인 직무<\/b>연수 개최",
+			"link":"https:\/\/blog.naver.com\/gpjn2011?Redirect=Log&logNo=221409533674",
+			"description":"연수를 진행한 조문기 장학사는 “이번 <b>직무<\/b>연수를 통해 미래교육을 대비한 맞춤형 교육과정 설계 지원으로 관내 지역 교원들의 교육과정 재구성 및 <b>디자인<\/b>에 대한 능력이 신장될 것으로 기대한다”고... ",
+			"bloggername":"가평저널",
+			"bloggerlink":"https:\/\/blog.naver.com\/gpjn2011",
+			"postdate":"20181130"
+		},
+		{
+			"title":"『2017 함께해서 행복한 초등 교육과정 <b>디자인<\/b>』 <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/bbiggu555?Redirect=Log&logNo=220944273740",
+			"description":"교수학습활동을 계획할 때 고려해야 할 요소 : WHERE-TO ※ 출처 : 『2017 함께해서 행복한 초등 교육과정 <b>디자인<\/b>』<b>직무<\/b>연수 자료집 점심시간을 제외하고 7~8시간 동안 이론 설명과 함께 단계마다 실습을 하였다.... ",
+			"bloggername":"반짝이는 우리, 빛나는 우리반",
+			"bloggerlink":"https:\/\/blog.naver.com\/bbiggu555",
+			"postdate":"20170225"
+		},
+		{
+			"title":"[이 기업!이 <b>직무<\/b>!] 슈피겐코리아 등 &apos;제품<b>디자인<\/b>\/ 그래픽<b>디자인<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221474334888",
+			"description":"[제품ㆍ산업<b>디자인<\/b>]<b>직무<\/b> 속 각 기업의 담당자들의 인터뷰를 모아 전달드립니다~ 능동적으로 일하는... 슈피겐코리아 디자인팀 슈피겐코리아\/ 제품디자인팀\/ 김승주 Q. [슈피겐코리아]의 제품 <b>디자인 직무<\/b>?... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20190225"
+		},
+		{
+			"title":"[<b>디자인 직무<\/b> 연봉] 디자인 관련 45개 직업 연봉 대공개!",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=220588300987",
+			"description":"눈으로 보고 확인하세요 :) [<b>디자인 직무<\/b> 관련 연봉 대공개] 디자인 관련 직무의 연봉은 위와 같아요. 어떤 산업직군도 그러하듯이, <b>디자인 직무<\/b>에서도 직업별로 연봉 차이가 있는 것 같습니다 :) 평균연봉이 가장... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20160105"
+		},
+		{
+			"title":"@농장<b>디자인<\/b> 23기 고등교사 <b>직무<\/b>연수 과정(2015.6.29)",
+			"link":"https:\/\/blog.naver.com\/happynep?Redirect=Log&logNo=220631561558",
+			"description":"교사직무연수, 농장디자인, 마을디자인, 박영선 *KTX를 타고 대구에 내려가는 중입니다. *작년 농정원 교육평가대회때 교육 우수상을 함께 받으면서 알게된 대구 자연고등학교 선생님들과 농장<b>디자인 직무<\/b>연수... ",
+			"bloggername":"마을디자인 농장디자인 정원디자인",
+			"bloggerlink":"https:\/\/blog.naver.com\/happynep",
+			"postdate":"20160219"
+		},
+		{
+			"title":"현직자가 들려주는 문화예술체육 <b>디자인 직무<\/b>UP 포럼",
+			"link":"https:\/\/blog.naver.com\/mpschon?Redirect=Log&logNo=221561088773",
+			"description":"체육 \/ <b>디자인<\/b> 분야 취업 성공전략 및 커리어 관리 방법 예체능 분야 전문가의 다양한 경험과 조언으로 <b>직무<\/b>역량을 키우고, 성공적인 취업 준비에 대해 함께 이야기해보아요!! 예체능 분야로 취업을... ",
+			"bloggername":"서대문여성인력개발센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/mpschon",
+			"postdate":"20190613"
+		},
+		{
+			"title":"패션<b>디자인<\/b>학과 준비해보자 패션디자이너",
+			"link":"https:\/\/blog.naver.com\/spelf123456?Redirect=Log&logNo=222822317910",
+			"description":"기본 전공 수업 외 진로특강 및 <b>디자인 직무<\/b>특강을 통해 디자이너의 컬렉션 과정, 브랜드 마케팅 전략에 대한 강의 진행합니다. 고태용 디자이너는 라사라 패션디자인학과에서 진로특강 및 디자이너 직무특강... ",
+			"bloggername":"노란짹짹이",
+			"bloggerlink":"https:\/\/blog.naver.com\/spelf123456",
+			"postdate":"20220721"
+		},
+		{
+			"title":"위한 ‘연수생이 설계하는 영어수업 <b>디자인 직무<\/b>연수’신설",
+			"link":"https:\/\/blog.naver.com\/us_edu?Redirect=Log&logNo=221795652617",
+			"description":"수업 디자인, 교실수업 적용, 수업 공감파티 등으로 구성된 총 10차시 28시간의 ‘연수생이 설계하는 영어수업 <b>디자인 직무<\/b>연수’를 학기중에 각각 개설할 예정이다. 또한 여름 방학 중에는 ‘초등 교-수-평... ",
+			"bloggername":"울산광역시교육청",
+			"bloggerlink":"https:\/\/blog.naver.com\/us_edu",
+			"postdate":"20200204"
+		},
+		{
+			"title":"이노션 광고홍보<b>디자인 직무<\/b>역량 및 장점&amp;단점",
+			"link":"https:\/\/blog.naver.com\/solkiloveme?Redirect=Log&logNo=221213097921",
+			"description":"▶ 이노션 광고홍보디자인 필요 역량은? 브랜드 광고를 하나 제작하기 위해서는 아이디어 싸움입니다.... 지금까지 이노션 광고홍보<b>디자인 직무<\/b>의 직무역량과 장점&amp;단점을 알아보았습니다. 감사합니다.... ",
+			"bloggername":"PB마인드잡연구소 \"MAGISTER\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/solkiloveme",
+			"postdate":"20180221"
+		},
+		{
+			"title":"패션 제품(의류) <b>디자인 직무<\/b>역량 및 장점&amp;단점",
+			"link":"https:\/\/blog.naver.com\/solkiloveme?Redirect=Log&logNo=221194254341",
+			"description":"▶패션 제품(의류) <b>디자인 직무<\/b>란? 제품 디자인 담당자는 브랜드 콘셉트 및 테마 정립\/시장조사... ▶ 패션 제품(의류) 직무역량은? 디자인, 색상과 관련된 미적 감각이 필요하며, 상품 기획력, 시장 분석... ",
+			"bloggername":"PB마인드잡연구소 \"MAGISTER\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/solkiloveme",
+			"postdate":"20180129"
+		},
+		{
+			"title":"홈플러스 커리어<b>디자인<\/b> UP <b>직무<\/b>특강 및 취업설명회",
+			"link":"https:\/\/blog.naver.com\/komyung1950?Redirect=Log&logNo=221038647499",
+			"description":"홈~플러스~ 지난 4월 서울시교육청과 홈플러스 커리어<b>디자인 직무<\/b>특강 및 취업설명회가 열렸습니다! 고명경영고 학생들 중엔 윤O웅, 김O우 학생이 참석하였습니다. 홈플러스 커리어디자인UP 직무특강은 4월... ",
+			"bloggername":"고명외식고등학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/komyung1950",
+			"postdate":"20170627"
+		},
+		{
+			"title":"현대자동차 디자이너 채용 대비 <b>직무<\/b> 소개, <b>디자인<\/b> 속 전략들",
+			"link":"https:\/\/blog.naver.com\/hyundai_blog?Redirect=Log&logNo=220378645836",
+			"description":"채용, <b>디자인<\/b> 기획 <b>직무<\/b>에 필요한 역량 마지막으로, ‘일 잘하는 기획자가 되려면 어떤 역량이 필요한지’ 선정희 연구원에게 물어봤습니다. 현대자동차의 <b>디자인<\/b>이 진화하는데 핵심적인 역할을 수행하는... ",
+			"bloggername":"현대자동차그룹",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyundai_blog",
+			"postdate":"20150603"
+		},
+		{
+			"title":"[UX·UI<b>디자인 직무<\/b> 채용] UI\/UX 디자인, 서비스 기획 채용 공고... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221572726160",
+			"description":"(경력직) 모집 - 휠라코리아 : e-commerce 기획 경력직 채용 합격스펙 UI·UX<b>디자인<\/b>, GUI <b>직무<\/b>는 어떤 스펙을 갖춰야 할까? 합격스펙을 확인해보세요! ■ SK플래닛 - UI·UX<b>디자인<\/b> ■ LG CNS - UI·UX<b>디자인<\/b>",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20190628"
+		},
+		{
+			"title":"포트폴리오를 통한 디자이너 <b>직무<\/b> 알아보기 - UX\/UI <b>디자인<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/welldoner?Redirect=Log&logNo=10185566868",
+			"description":"UI\/UX 디자이너 UI 디자이너란 말 그대로 User Interface, 즉 사용자 위주의 인터페이스를 <b>디자인<\/b>하는 <b>직무<\/b>입니다. 사용자가 인터페이스를 잘 사용 할 수 있도록 <b>디자인<\/b> 하는 겁니다. 어플들의 화면을 설계하는... ",
+			"bloggername":"취업 되는 SNS - 웰던투",
+			"bloggerlink":"https:\/\/blog.naver.com\/welldoner",
+			"postdate":"20140213"
+		},
+		{
+			"title":"스타멤버 <b>직무<\/b>인터뷰 『공간<b>디자인<\/b>』편",
+			"link":"https:\/\/blog.naver.com\/sv8703?Redirect=Log&logNo=221983416026",
+			"description":"공간디자인 Space Design 오렌즈사업부 디자인팀 OOO 차장님께서 들려주시는 공간<b>디자인 직무<\/b> 이야기, 한번... 스타비젼 직무인터뷰 『공간디자인』편, 어떻게 보셨나요? 다음 포스팅에서도 스타비젼에서 어떤 멋진... ",
+			"bloggername":"스타비젼 회사 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sv8703",
+			"postdate":"20200529"
+		},
+		{
+			"title":"[잇다 콘텐츠]영상 <b>디자인 직무<\/b>에 관한 모든 것 상\/하편",
+			"link":"https:\/\/blog.naver.com\/yuyangee?Redirect=Log&logNo=221923941206",
+			"description":"https:\/\/www.itdaa.net\/open_mentorings\/2594 &amp; https:\/\/www.itdaa.net\/open_mentorings\/2595?ref=contents_all 사실 돈을 받고 멘토링을 할 수도 있지만 그렇지 않은 이유는 가난한 집안 출신으로서 <b>디자인<\/b> 공부를 한다는 거 자체가... ",
+			"bloggername":"Keep Going",
+			"bloggerlink":"https:\/\/blog.naver.com\/yuyangee",
+			"postdate":"20200423"
+		},
+		{
+			"title":"현대백화점 자소서) 한섬 <b>디자인직무<\/b> 서류합격!",
+			"link":"https:\/\/blog.naver.com\/karaface?Redirect=Log&logNo=221386485814",
+			"description":"오늘 가져온 합격메이트 소식은 바로 현대백화점 그룹의 한섬 브랜드 <b>디자인 직무<\/b> 합격소식입니다!... G님입니다 사실 G님은 이전에도 현대자동차 <b>디자인직무<\/b> 자소서에 합격하셨던 합격메이트시기도 한데요... ",
+			"bloggername":"자소설메이트",
+			"bloggerlink":"https:\/\/blog.naver.com\/karaface",
+			"postdate":"20181028"
+		},
+		{
+			"title":"2019 하반기 중소기업 <b>디자인 직무<\/b> 1분 자기소개 컨설팅 완료... ",
+			"link":"https:\/\/blog.naver.com\/chabterman?Redirect=Log&logNo=221612850758",
+			"description":"직무는 '디자인' 이였습니다. 2019 하반기 중소기업 <b>디자인 직무<\/b> 1분 자기소개 컨설팅 완료 후기 요렇게 협의 후 진행을 확정하신 후에 컨설팅에 필요한 몇 가지 파일을 요청드렸습니다. 파일을 정리하는... ",
+			"bloggername":"한길컨설팅(고입\/대입\/취업)",
+			"bloggerlink":"https:\/\/blog.naver.com\/chabterman",
+			"postdate":"20190811"
+		},
+		{
+			"title":"[스완제이] 삼성전자 2018 하반기 <b>디자인 직무<\/b> 면접후기",
+			"link":"https:\/\/blog.naver.com\/f_shoegirl?Redirect=Log&logNo=222019550230",
+			"description":"&lt;<b>직무<\/b> 관련 질문&gt; 현재 기준 트렌드 다음 연도 트렌드 예측 본인의 디자이너로서 강점 존경하는 디자이너와 이유 좋아하는 <b>디자인<\/b> 및 이유 (당사 \/ 타사 모두) 좋은 <b>디자인<\/b>이란 무엇인가 당사의 가장 잘된... ",
+			"bloggername":"스완제이",
+			"bloggerlink":"https:\/\/blog.naver.com\/f_shoegirl",
+			"postdate":"20200703"
+		},
+		{
+			"title":"[직무탐구] 문화예술,체육,<b>디자인 직무<\/b>포럼",
+			"link":"https:\/\/blog.naver.com\/kwoman2060?Redirect=Log&logNo=221584001746",
+			"description":"디렉터 # &lt;예스24&gt;, &lt;인터파크&gt;, &lt;교보문고&gt; <b>디자인<\/b> 팀장 ★ ★ ★ ★ ★ 제2회 청년여성 <b>직무<\/b>업(UP) 포럼 신청하기 ★★★★★ https:\/\/forms.gle\/t1PTjJdKHvi4fDzj8예체능 분야로 취업을 준비 중인 청년여성의 많은... ",
+			"bloggername":"관악여성인력개발센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/kwoman2060",
+			"postdate":"20190712"
+		},
+		{
+			"title":"@자소서예시 SMC그룹 <b>디자인직무<\/b>자소서 서류합격!... ",
+			"link":"https:\/\/blog.naver.com\/karaface?Redirect=Log&logNo=221512865721",
+			"description":"<b>디자인직무<\/b>자소서 자소설메이트 안녕하세요! 깔미입니다 상반기 공채 시즌이 어느덧 무르익어가는... The SMC그룹 <b>디자인 직무<\/b>에 합격하신 K님입니다! K님의 경우 이미 어느정도 자소서를 써보셨던 티가 나는... ",
+			"bloggername":"자소설메이트",
+			"bloggerlink":"https:\/\/blog.naver.com\/karaface",
+			"postdate":"20190413"
+		},
+		{
+			"title":"<b>디자인<\/b>과 한국융합기술진흥원과 청년취업아카데미 무료 <b>직무<\/b>교... ",
+			"link":"https:\/\/blog.naver.com\/swcvcd?Redirect=Log&logNo=221095967021",
+			"description":"(2학년은 방중에만 하는 단기과정도 있어요~) 시각디자인 디지털<b>디자인 직무<\/b>와 연계된 주요 산업체로의 취업기회 확대를 위해 진행하는 사업인데요, 지루하게 수업만 하지 않고 멘토링을 통해서 재밌는 수업도... ",
+			"bloggername":"수원여자대학교 시각디자인과 디지털디자인전공",
+			"bloggerlink":"https:\/\/blog.naver.com\/swcvcd",
+			"postdate":"20170913"
+		},
+		{
+			"title":"<b>직무<\/b>분야별 <b>직무<\/b>능력평가 NCS 08. 문화·예술·<b>디자인<\/b>·방송",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220612114139",
+			"description":"NCD 08번 문화, 예술, <b>디자인<\/b>, 방송 <b>직무<\/b>분야애 해당하는 <b>직무<\/b>능력이에요. NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가는 NCS 기반 채용 서류 전형을 준비할 수 있게 NCS 기반 서류 전형에서 요구하는 것들을 자세히... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160129"
+		},
+		{
+			"title":"[현직자 취업 상담] 대기업 <b>디자인직무<\/b> 필요 역량",
+			"link":"https:\/\/blog.naver.com\/upgrade_me_30min?Redirect=Log&logNo=222457044466",
+			"description":"오늘은 현직자가 말하는 &quot;아모레퍼시픽 <b>디자인직무<\/b>의 필요역량&quot;에 대한 상담사례를 준비해 보았습니다. 개인 디자인작업과 대기업 디자이너의 업무는 어떻게 다를까요? 원하는 직무의 현직자 멘토님의 생생한... ",
+			"bloggername":"코멘토 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/upgrade_me_30min",
+			"postdate":"20210804"
+		},
+		{
+			"title":"@자소서첨삭 601비상자소서 <b>디자인직무<\/b> \/ 이랜드ESI자소서... ",
+			"link":"https:\/\/blog.naver.com\/karaface?Redirect=Log&logNo=221260528637",
+			"description":"이랜드자소서 자소설메이트 자소설메이트 이용후기 #12 601비상에 지원하시는 Y님과 <b>디자인 직무<\/b>... 영업관리와는 또 다른 매장관리라는 직무이기에 예전 경험을 통한 약간의 꿀팁도 알려드리고 조금더... ",
+			"bloggername":"자소설메이트",
+			"bloggerlink":"https:\/\/blog.naver.com\/karaface",
+			"postdate":"20180424"
+		},
+		{
+			"title":"[사람인HR <b>직무<\/b>인터뷰] UI<b>디자인<\/b>팀_김혜진",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221311073664",
+			"description":"사람인의 PC와 모바일 UI를 <b>디자인<\/b>하는 <b>직무<\/b> <b>직무<\/b>인터뷰 꿀단지 기획기자에요. 꿀처럼 영양가득 달콤한 정보를 인터뷰 합니다 : ) 꿀단지 기자는 사람인HR의 김혜진 선배님을 만나고 왔습니다! <b>직무<\/b>에 대해 Q1.... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20180702"
+		},
+		{
+			"title":"무슨 일을 하는가? - 제품<b>디자인<\/b> NCS <b>직무<\/b>특강 - 총 18강",
+			"link":"https:\/\/servicedesign.tistory.com\/212",
+			"description":"제품<b>디자인 직무<\/b>정의 제품디자인 NCS(국가직무능력표준) 동영상 강좌 강사 : 박동철 코코즈 대표 등 제공 : 한국직업방송 www.youtube.com\/watch?v=lopqWK4U5yA&amp;list=PLKQuVLinqh3uL0_QTuX2kk226GZKywcAM... ",
+			"bloggername":"SERVICE DESIGN www.usable.co.kr",
+			"bloggerlink":"https:\/\/servicedesign.tistory.com\/",
+			"postdate":"20200911"
+		},
+		{
+			"title":"@자소서첨삭 현대자동차자소서 <b>디자인직무<\/b> 서류합격 소식!... ",
+			"link":"https:\/\/blog.naver.com\/karaface?Redirect=Log&logNo=221245171324",
+			"description":"현대자동차 <b>디자인직무<\/b>에 서류합격하신 자소설메이트 스물 다섯번째 합격메이트 G님입니다! 많은 직무관련 경험을 갖고계신데다 모델 활동과 대외경험 등 독특하고 다양한 에피소드가 많으신지라 더욱 이러한... ",
+			"bloggername":"자소설메이트",
+			"bloggerlink":"https:\/\/blog.naver.com\/karaface",
+			"postdate":"20180404"
+		},
+		{
+			"title":"무슨 일을 하는가? - 시각<b>디자인<\/b> NCS <b>직무<\/b>특강 - 총 25강",
+			"link":"https:\/\/servicedesign.tistory.com\/211",
+			"description":"시각<b>디자인 직무<\/b>정의 시각디자인 NCS(국가직무능력표준) 동영상 강좌 강사 : 최수진 스투디오바프 대표 등 제공 : 한국직업방송 www.youtube.com\/watch?v=EKTPNjkgV28&amp;list... ",
+			"bloggername":"SERVICE DESIGN www.usable.co.kr",
+			"bloggerlink":"https:\/\/servicedesign.tistory.com\/",
+			"postdate":"20200911"
+		},
+		{
+			"title":"[취업단기] <b>디자인 직무<\/b> 채용 &amp; 포트폴리오 합격 전략",
+			"link":"https:\/\/blog.naver.com\/publicbest?Redirect=Log&logNo=220799874542",
+			"description":"3. <b>디자인 직무<\/b> 프로그램 많은 취준생들이 일반기업을 준비하는 취업학원은 있어도 디자인 관련 직무를 준비하는 학원은 없다고 합니다. 최근 들어 대학에서 디자인 관련 전공들이 개설되면서 디자인 관련 직무... ",
+			"bloggername":"공기업단기 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/publicbest",
+			"postdate":"20160829"
+		}
+	]
+}

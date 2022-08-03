@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:17 +0900",
+	"total":1232,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>경찰<\/b>관의 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961079&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>관<b>직무<\/b>집행법에 기하여 <b>경찰<\/b>관이 행할 <b>직무<\/b>를 말하며, 학문상 <b>경찰<\/b>관의 <b>직무<\/b>와 일치하지 아니한다. 즉, 전자의 <b>경찰<\/b>관에는 사법<b>경찰<\/b> 관리를 포함하는 데 반하여, 후자의 <b>경찰<\/b>관에는 사법<b>경찰<\/b>관리가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566911&cid=46625&categoryId=46625",
+			"description":" <b>경찰<\/b>관의 <b>직무<\/b>수행에 관한 사항을 규정한 법률. [내용] <b>경찰<\/b>관은 국민의 자유와 권리의 보호 및 사회공공의 질서유지를 그 <b>직무<\/b>로 하는데 그 구체적인 <b>직무<\/b>의 범위는 ① 국민의 생명·신체 및 재산의 보호 ②... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰직무<\/b>응원법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%B0%B0%EC%A7%81%EB%AC%B4%EC%9D%91%EC%9B%90%EB%B2%95",
+			"description":"<b>경찰직무<\/b> 응원법 (警察職務 應援法) 제1조(응원<b>경찰<\/b>관의 파견) ① 지방<b>경찰<\/b>청장 또는 지방해양<b>경찰<\/b>관서의 장은 돌발사태를 진압하거나 공공질서가 교란(攪亂)되었거나 교란될 우려가 현저한 지역(이하... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3655216&cid=42131&categoryId=42131",
+			"description":"국민의 자유와 권리의 보호 및 사회공공의 질서유지를 위한 <b>경찰<\/b>관의 <b>직무<\/b>수행에 필요한 사항(주로 행정<b>경찰<\/b>의)을 규정함을 목적으로 하여 제정된 법률이다(<b>경찰<\/b>관<b>직무<\/b>집행법 제1조 1항).<b>경찰<\/b>관은 이 법에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>관 <b>직무<\/b>집행법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%B0%B0%EA%B4%80_%EC%A7%81%EB%AC%B4%EC%A7%91%ED%96%89%EB%B2%95",
+			"description":"<b>경찰<\/b>관<b>직무<\/b>집행법 (警察官職務執行法)은 <b>경찰<\/b>관의 <b>직무<\/b>수행에 관한 사항을 규정한 법률이다. 1981. 4. 13.에 전문개정되었고 법률 제3427호이다. <b>직무<\/b>의 범위(<b>경찰<\/b>관<b>직무<\/b>집행법 제2조) 국민의 생명·신체 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰직무<\/b>응원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1203513&cid=40942&categoryId=31713",
+			"description":" <b>경찰<\/b>의 <b>직무<\/b> 응원에 관한 사항을 정한 법률.  <b>경찰<\/b>의 <b>직무<\/b> 응원에 관한 사항을 정함을 목적으로 하는 법률이다(1955. 6. 30, 법률 제358호). 지방<b>경찰<\/b>청장 또는 지방해양<b>경찰<\/b>관서의 장은 돌발 사태의 진압 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060564&cid=40942&categoryId=31713",
+			"description":" <b>경찰<\/b>관의 <b>직무<\/b>수행에 필요한 사항을 규정한 법률(전문개정 1981. 4. 13, 법률 제3427호).  국민의 자유와 권리의 보호 및 사회공공의 질서유지를 위한 <b>경찰<\/b>관의 <b>직무<\/b>수행에 필요한 사항을 규정함을 목적으로 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>관 <b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6515108&cid=43667&categoryId=43667",
+			"description":" 국민의 자유와 권리 및 모든 개인이 가지는 불가침의 기본적 인권을 보호하고 사회공공의 질서를 유지하기 위한 <b>경찰<\/b>관의 <b>직무<\/b> 수행에 필요한 사항을 규정한 법률이다. 이 법에 규정된 <b>경찰<\/b>관의 직권은 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>관<b>직무<\/b>집행법의 목적과 연혁",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961080&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>관<b>직무<\/b>집행법은 <b>경찰<\/b>관의 <b>직무<\/b>수행에 필요한 사항을 규정하기 위해 제정된 법을 말한다. 본 법은 1953년 12월 14일 법률 제299호로 제정되었다. 1981년 4월 13일 제1차개정(법률 제3427호)에서는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사법<b>경찰<\/b>관 <b>직무<\/b>수행",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209750&cid=51088&categoryId=51088",
+			"description":"근로감독관은 ｢근로기준법｣이나 그 밖의 노동관계 법령 위반의 죄에 관하여 ｢사법<b>경찰<\/b>관리의 <b>직무<\/b>를 행할 자와 그 <b>직무<\/b>범위에 관한 법률｣에서 정하는 바에 따라 사법<b>경찰<\/b>관의 <b>직무<\/b>를 수행한다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보안<b>경찰<\/b>의 <b>직무<\/b>범위",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961775&cid=50300&categoryId=50300",
+			"description":"구체적이고 실질적인 보안<b>경찰<\/b>의 <b>직무<\/b>범위는 다음과 같이 일곱 가지로 구분할 수 있다. ① 보안관찰 업무, ② 간첩 등 보안사범에 대한 수사, ③ 불온유인물의 수집 및 분석, ④ 북한에 대한 정보의 수집 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2065213&cid=42107&categoryId=42107",
+			"description":"<b>경찰<\/b>관이 법령 집행의 <b>직무<\/b>를 수행하는 데 필요한 사항을 규정한 법률로, 1981년 4월에 공포되었다. 국민의 자유와 권리의 보호, 사회 공공질서 유지를 위해 제정됐으며 대인적 즉시 강제, 대가택 즉시 강제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제주자치<b>경찰<\/b>단의 담당<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962512&cid=42149&categoryId=42149",
+			"description":"지역 경비에 관한 사무를, '사법<b>경찰<\/b>관리의<b>직무<\/b>를행할자와그<b>직무<\/b>범위에관한법률'에서 자치<b>경찰<\/b>공무원의 <b>직무<\/b>로 규정하고 있는 사법 <b>경찰<\/b> 관리의 <b>직무<\/b> 등을 내용으로 하고 있다. 이 법에 따르면 자치<b>경찰<\/b>은",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060560&cid=40942&categoryId=31690",
+			"description":"한국의 <b>경찰<\/b>공무원법·<b>경찰<\/b>관<b>직무<\/b>집행법상의 의미로는 국민의 생명·신체·재산의 보호, 범죄의 예방·진압·수사, 교통·소방 기타 공공의 안녕과 질서를 유지하기 위한 행정작용을 말한다. <b>경찰<\/b>의 어원은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_376\/20210617085658909_XEH8F8V9N.jpg\/12034482.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경찰<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060563&cid=40942&categoryId=31690",
+			"description":"<b>경찰<\/b>관<b>직무<\/b>집행법에 의하면 <b>경찰<\/b>관의 <b>직무<\/b>로는 ① 범죄의 예방·진압 및 수사 ② 경비·요인경호 및 대간첩작전 수행 ③ 치안정보의 수집·작성 및 배포 ④ 교통의 단속과 위해의 방지, 기타 공공의 안녕과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_376\/20210617085658909_XEH8F8V9N.jpg\/12034482.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566909&cid=46625&categoryId=46625",
+			"description":"우리나라의 「<b>경찰<\/b>관<b>직무<\/b>집행법」에는 <b>경찰<\/b>의 임무가 ‘국민의 자유와 권리의 보호 및 사회공공의 질서유지’로 규정되어 있는바, 이로 비추어볼 때 우리나라에서의 형식적 의미의 <b>경찰<\/b>은 다음에 볼 실질적... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20170812010714546_0APMXT50F.jpg\/d590bbf3-2131-49.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경찰<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566910&cid=46625&categoryId=46625",
+			"description":" 국민의 자유와 권리의 보호 및 사회공공의 질서유지를 <b>직무<\/b>로 하는 <b>경찰<\/b>공무원. [개설] <b>경찰<\/b>관은 국민의 자유와 권리보호를 위하여 범죄의 예방·진압 및 수사·경비·요인경호, 대간첩작전의 수행... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20170812010730853_IKZKED0QQ.jpg\/27fae96f-2adb-43.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경찰<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%B0%B0",
+			"description":"대한민국 <b>경찰<\/b>의 사례 알려진 비위 사례로는 금품수수, <b>경찰<\/b>관<b>직무<\/b>집행법 위반행위, 사람에 따른 법의 차등적용 등이 있다. <b>경찰<\/b>청 자료에 따르면 2010년까지 비위는 해마다 증가해왔다. 비위가 많이 일어나는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원<b>경찰<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1209043&cid=40942&categoryId=31713",
+			"description":"청원<b>경찰<\/b>은 청원주와 배치된 기관·시설 또는 사업장 등의 구역을 관할하는 <b>경찰<\/b>서장의 감독을 받아 그 경비구역 내에 한하여 <b>경찰<\/b>관<b>직무<\/b>집행법에 의한 <b>경찰<\/b>관의 <b>직무<\/b>를 행한다. 청원<b>경찰<\/b>의 배치를 받고자... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=929312&cid=43667&categoryId=43667",
+			"description":"청원<b>경찰<\/b>은 청원주(請願主)와 배치된 기관·시설 또는 사업장의 구역을 관할하는 <b>경찰<\/b>서장의 감독을 받아 그 경비구역 내에 한하여 <b>경찰<\/b>관<b>직무<\/b>집행법에 의한 <b>경찰<\/b>관의 <b>직무<\/b>를 수행한다. 청원<b>경찰<\/b>은 근무... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>강제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060561&cid=40942&categoryId=31690",
+			"description":"<b>경찰<\/b>상의 강제집행에 관한 일반법으로 행정대집행법(行政代執行法), <b>경찰<\/b>상의 즉시강제에 관한 일반법으로 <b>경찰<\/b>관<b>직무<\/b>집행법이 있으며, 그 밖에 각 특별법(전염병예방법 ·마약법 ·소방법 ·수난구",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>권",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%B0%B0%EA%B6%8C",
+			"description":"판례 <b>경찰<\/b>권발동의 근거 <b>경찰<\/b>관<b>직무<\/b>집행법 제2조에 의하면 <b>경찰<\/b>관은 공공의 안녕과 질서유지등을 그 <b>직무<\/b>로 하고 있으므로 허가없이 창고를 주택으로 개축하는 것을 단속한 것은 <b>경찰<\/b>의 정당한 공무집행이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1146709&cid=40942&categoryId=31690",
+			"description":"청원<b>경찰<\/b>은 청원주(請願主)와 배치된 기관 ·시설 또는 사업장 등의 구역을 관할하는 <b>경찰<\/b>서장의 감독을 받아, 경비구역 내에 한하여 ‘<b>경찰<\/b>관<b>직무<\/b>집행법’에 의한 <b>경찰<\/b>관의 <b>직무<\/b>를 행한다. 청원주는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>대학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=871138&cid=43142&categoryId=43142",
+			"description":"주로 일반인을 대상으로 장기 <b>경찰 직무<\/b> 교육을 시킨 뒤 <b>경찰<\/b> 간부로 특채하는 일종의 <b>경찰<\/b>학교였다. 이 때문에 당시의 <b>경찰<\/b>대학은 1980년 설립된 <b>경찰<\/b>대학과 구분하기 위해 ‘구(舊) <b>경찰<\/b>대학’이라고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2351_000_1\/20111219160600885_4L94QEENP.jpg\/1129.jpg?type=m160_160"
+		},
+		{
+			"title":"헌병 <b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3550703&cid=58584&categoryId=58624",
+			"description":"러일전쟁(1904) 때부터 조선에서 <b>경찰<\/b> 임무를 담당한 일본 헌병은 의병 운동이 고조되던 시기에 헌병 수를 지속적으로 늘리며 전국의 <b>경찰 직무<\/b>를 장악했어요. 조선의 <b>경찰<\/b>권을 완전히 빼앗은 1910년에는 헌병... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진주의 <b>경찰<\/b> (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2631452&cid=51942&categoryId=54807",
+			"description":"[개설] 우리나라의 <b>경찰<\/b>공무원법이나 <b>경찰<\/b>관<b>직무<\/b>집행법에 의하면, <b>경찰<\/b>(警察)이란 ‘국민의 생명·신체·재산의 보호 및 범죄의 예방·진압·수사, 교통·소방 그리고 기타 공공의 안녕과 질서를 유지하기 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원<b>경찰<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%9B%90%EA%B2%BD%EC%B0%B0",
+			"description":"청원<b>경찰 직무<\/b>관련 Q &#38; A Q1. 기관장 차량 운전, 주정차\/쓰레기투기\/과적차량 단속, 골재불법채취 감시, 주차요금 징수 등 주차관리, 숙박객\/관광객 편의 제공 업무가 청원<b>경찰<\/b>의 <b>직무<\/b>범위에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=78060&cid=42155&categoryId=42155",
+			"description":"청원<b>경찰<\/b>은 청원주(請願主)와 관할구역 <b>경찰<\/b>서장의 감독을 받아 그 경비구역 안에서 <b>경찰<\/b>관<b>직무<\/b>집행법에 의한 <b>경찰<\/b>관의 <b>직무<\/b>를 행한다. 청원주는 법정(法定)되어 있는 청원<b>경찰<\/b> 경비를 부담해야 하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962690&cid=42149&categoryId=42149",
+			"description":"청원<b>경찰<\/b>은 청원<b>경찰<\/b>법에 따라 청원주가 일체의 경비를 부담하고 배치된 경비구역내에서만 경비업무를 수행할 수 있으며, 청원<b>경찰<\/b>의 <b>직무<\/b>는 <b>경찰<\/b>관<b>직무<\/b>집행법에 의한 <b>직무<\/b>를 수행하므로 불심검문, 보호조치... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>하명",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3657553&cid=42131&categoryId=42131",
+			"description":"<b>경찰<\/b>상의 목적달성을 위하여 국민에 대하여 공익상 유해한 행위를 금지하거나 또는 필요한 행위를... (2) 부작위하명(不作爲下命, <b>경찰<\/b>금지(警察禁止)) : <b>경찰<\/b>상의 금지를 내용으로 한다.금지는 그 행위 자체가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정보<b>경찰<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%95%EB%B3%B4%EA%B2%BD%EC%B0%B0",
+			"description":"개요 &#62; <b>경찰<\/b>관 <b>직무<\/b>집행법 &#62; 제2조(<b>직무<\/b>의 범위) <b>경찰<\/b>관은 다음 각 호의 <b>직무<\/b>를 수행한다. &#62;3. 경비, 주요 인사(人士) 경호 및 대간첩ㆍ대테러 작전 수행 &#62;4. 치안정보의 수집ㆍ작성 및 배포 &#62;6. 외국 정부기관 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>작전",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961217&cid=50300&categoryId=50300",
+			"description":"특수한 상황으로 인해 <b>경찰<\/b>은 일정한 지역 및 인적 작전대상의 범위 내에서 대간첩작전을 수행할 수 있다. <b>경찰<\/b>작전의 근거는 <b>경찰<\/b>관<b>직무<\/b>집행법 제2조와, 대통령훈령 제28호, 전투<b>경찰<\/b>대설치법 등이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>강제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3657552&cid=42131&categoryId=42131",
+			"description":"이에 대하여는 <b>경찰<\/b>에 관한 특별법에 구체적 규정이 있다.일반적으로 강제집행에 행정대집행법(行政代執行法)이 있고, 즉시강제에는 <b>경찰<\/b>관<b>직무<\/b>집행법(警察官職務執行法)이 있다.<b>경찰<\/b>강제에는 대인적 강제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"군사<b>경찰<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%B0%EC%82%AC%EA%B2%BD%EC%B0%B0",
+			"description":"군사<b>경찰<\/b> (軍事警察, 영어: military police, MP )은 군대 내에서 <b>경찰 직무<\/b>를 수행하는 병과, 또는 그 병과에 소속된 군인이다. 군대 내 질서유지와 군기확립, 법률이나 명령시행, 범죄예방과 수사활동... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>긴급권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3655214&cid=42131&categoryId=42131",
+			"description":"현재의 급박한 <b>경찰<\/b>상의 필요에 의하여 일반적인 긴급권의 한계를 넘어서 <b>경찰<\/b>권을 함으로써 국민의 신체 · 재산에 대하여 실력을 행사하는 것이 법령상 허용되는 권한을 말한다.<b>경찰<\/b>관이 <b>경찰<\/b>관<b>직무<\/b>집행법... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>의 목적",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3656327&cid=42131&categoryId=42131",
+			"description":"<b>경찰<\/b>은 국민의 자유와 권익의 보호 및 사회공공의 안녕과 질서를 유지하는 것을 목적으로 한다(<b>경찰<\/b>관<b>직무<\/b>집행법 제1조 1항).사회공공의 안녕 · 질서는 사회의 공동생활이 원활하고 건전하게 유지되는 것을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>시험승진",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961157&cid=42149&categoryId=42149",
+			"description":"때로는 과목별로 기입형을 가미할 수도 있고, 제2차 시험의 경우는 논문형이 원칙이나 과목별로 주관식과 단답형이 가미되어 출제되고 있다. 제3차 시험은 면접시험이다. 특히 면점시험은 <b>경찰직무<\/b>수행과",
+			"thumbnail":""
+		},
+		{
+			"title":"전라북도<b>경찰<\/b>청",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=646381&cid=43124&categoryId=43124",
+			"description":"경무과는 직원 후생복지와 문서관리, 조직 및 정원관리, 근무성적 및 경력평정, 인사기록 정리, <b>경찰직무<\/b>교육 및 사격훈련, 청사관리 등의 업무를 담당한다. 생활안전과는 청소년선도, 소년범죄(20세",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>권의 한계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3655215&cid=42131&categoryId=42131",
+			"description":"<b>경찰<\/b>권이 유효하게 발동될 수 있는 한계를 말한다. <b>경찰<\/b>권은 무제한적으로 발동할 수 있는 것이 아니라, 구체적인 규정이 없더라도 그 대상 · 범위 · 조건 · 양도시에 관하여 조리상 일정한 한계가 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>법의 종류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961121&cid=42149&categoryId=42149",
+			"description":"일반 <b>경찰<\/b>법의 기본적인 법은 <b>경찰<\/b>법과 <b>경찰<\/b>관<b>직무<\/b>집행법이다. 특별<b>경찰<\/b>법에는 건축법상의 <b>경찰<\/b>규정, 영업법상의 <b>경찰<\/b>규정, 환경보호법상의 <b>경찰<\/b>규정, 집회 및 시위에 관한 법률상의 <b>경찰<\/b>규정 등이 해당된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"전투<b>경찰<\/b>순경",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%ED%88%AC%EA%B2%BD%EC%B0%B0%EC%88%9C%EA%B2%BD",
+			"description":"관련 법규 <b>경찰<\/b>법 <b>경찰<\/b>관<b>직무<\/b>집행법 의무<b>경찰<\/b>대 설치 및 운영에 관한 법률 의무<b>경찰<\/b>대 설치 및 운영에 관한 법률 시행령 2016.1.25일 부로 법률 개정되어 전투<b>경찰<\/b>대 설치법에서 의무<b>경찰<\/b>대 설치법으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원<b>경찰<\/b>근무일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3384025&cid=42279&categoryId=42279",
+			"description":"청원<b>경찰<\/b>은 청원주와 배치된 기관, 시설 또는 사업장 등의 구역을 관할하는 <b>경찰<\/b>서장의 감독을 받아, 경비구역내에 한하여 <b>경찰<\/b>관 <b>직무<\/b>집행법에 의한 <b>경찰<\/b>관의 <b>직무<\/b>를 행하는 이를 말한다. 그리고 청원<b>경찰<\/b>이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122502477_GHNI435DH.jpg\/hb10_22994_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"특별사법<b>경찰<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5661886&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | 特別司法警察官(한자) | 식품·보건·안전사고 등 전문성이 필요한 영역의 수사를 위해 행정공무원에게 수사권을 부여한 것으로 1956년 ‘사법<b>경찰<\/b>관 <b>직무<\/b>법’이 제정되면서 도입됐다. 즉... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경비<b>경찰<\/b>의 특성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961017&cid=42149&categoryId=42149",
+			"description":"② <b>경찰<\/b>관<b>직무<\/b>집행법(제2조)에서 대간첩작전을 <b>경찰<\/b>의 <b>직무<\/b>로 규정하고 있다. ③ 1968년 1.21사태를 계기로 전투<b>경찰<\/b>대가 창설되었다. 둘째, 진압경비의 수요과다로서 ① 님비(NIMBY)현상의 급증, ② 과격한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국의 <b>경찰<\/b>제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1183326&cid=40942&categoryId=34708",
+			"description":"<b>경찰<\/b>임무에 관하여는 일반적 규정은 없고, <b>경찰<\/b>공무원법·<b>경찰<\/b>관<b>직무<\/b>집행법시행령 등에서 국민의 생명·신체·재산의 보호, 범죄의 예방·진압·수사, 교통 기타 공공의 안녕과 질서의 유지에 국한하고 있으므로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_376\/20210617084047265_YHAH9BA51.jpg\/11513643.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경찰<\/b>통제의 필요성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961266&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>의 막강한 조직과 정보력 및 그 기능들로부터 나오는 위력 때문에 국민은 <b>경찰<\/b>을 통제해야 하는 필요성을 크게 느낄 수밖에 없는 것이다. 우리나라 공공조직 전체를 통틀어서 볼 때 <b>경찰<\/b>만큼 큰 조직이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>계층제의 원리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961042&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>의 권한, 의무 및 책임의 정도에 따라 <b>경찰 직무<\/b>를 상·하로 등급화시키고 등급 간에 명령복종과 지휘·감독 체계를 확립하는 조직의 원리를 말한다. 계층제에 의해 조직을 편성하고 배치한 <b>경찰<\/b>조직은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>작용과 법적토대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961218&cid=42149&categoryId=42149",
+			"description":"그리고 경비에 관한 것으로는 <b>경찰직무<\/b>응원법, 수난구호법, 청원<b>경찰<\/b>법 등이 시행되고 있다. 하지만 위의 <b>경찰<\/b>관<b>직무<\/b>집행법과 단행법들이 <b>경찰<\/b>작용법 전체가 체계적 통합성과 법적 명확성을 가지고 있지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>징계처분의 종류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961249&cid=42149&categoryId=42149",
+			"description":"국가공무원법 제79조에 따라 징계사유에는 여러 가지가 있지만 특히 국가공무원법이나 <b>경찰<\/b>공무원법 그리고 동법에 의한 법령위반의 경우, <b>경찰<\/b>공무원이 <b>직무<\/b>상 의무를 위반한 경우, 기타 <b>직무<\/b>에 태만한 경우... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해양<b>경찰<\/b>청의 법적용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962890&cid=42149&categoryId=42149",
+			"description":"해양<b>경찰<\/b>청은 '<b>경찰<\/b>법'이 적용되지 않고 '해양<b>경찰<\/b>청과 그 소속기관직제'의 적용을 받고 있다. 그렇지만 해양<b>경찰<\/b>청은 <b>경찰<\/b>공무원법, <b>경찰<\/b>관<b>직무<\/b>집행법, <b>경찰직무<\/b>응원법은 적용받고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>무기의 사용요건",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961108&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>관은 「<b>경찰<\/b>관 <b>직무<\/b>집행법」 제10조의 4에 따라 위해를 수반하지 않는 무기의 사용(무기를 위협적 수단으로만 사용)이 가능하다. 즉 ⓐ 범인의 체포, 도주의 방지를 위해 필요한 때, ⓑ 자기 또는 타인의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"외사<b>경찰<\/b>의 법적 근거",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962217&cid=42149&categoryId=42149",
+			"description":"수집·분석 및 관리, 외국인 또는 외국인과 관련되는 간첩의 검거공작 및 범죄의 수사·지도, ② 간접적인 근거법규: 헌법 제6조의 조약과 국제법규의 효력에 관한 규정, <b>경찰<\/b>법 제3조, <b>경찰<\/b>관<b>직무<\/b>집행법 제2조.",
+			"thumbnail":""
+		},
+		{
+			"title":"서울특별사법<b>경찰<\/b>의 연혁",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961933&cid=42149&categoryId=42149",
+			"description":"2008년 1~2월에 서울특별사법<b>경찰<\/b>의 <b>직무<\/b>교육이 서울시 인재개발원에서 이론교육이 4주간 진행되고 실무수습도 2주간 진행되었다. 특히 서울 5개 지방검찰청에서 검사들이 특별사법<b>경찰<\/b> 교육생을 대상으로 1... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>장비의 사용기준 등에 관한 규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=973141&cid=43667&categoryId=43667",
+			"description":" <b>경찰<\/b>관<b>직무<\/b>집행법 제10조제4항의 규정에 의해 국가<b>경찰<\/b>공무원이 <b>직무<\/b>를 수행함에 있어 인명 또는 신체에 위해를 가할 수 있는 <b>경찰<\/b>장비의 종류, 사용기준, 안전교육 및 안전검사기준 등을 규정한 것이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철도특별사법<b>경찰<\/b>의 법적 근거",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962672&cid=42149&categoryId=42149",
+			"description":"철도특별사법<b>경찰 직무<\/b>취급(특별사법<b>경찰<\/b>권)의 근거는 첫째, 형법이다. 이에 따라 강·절도, 사기·공갈, 횡령, 폭행, 상해, 재물손괴, 방화·실화, 공무집행방해, 업무방해 등의 내용을 규율하고 있다. 둘째... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사법<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3657561&cid=42131&categoryId=42131",
+			"description":"따라서 실질적 의의의 <b>경찰<\/b>이 아니라 법에 의하여 <b>경찰<\/b>의 <b>직무<\/b>에 속해 있는 것이므로 형식적 의의의 <b>경찰<\/b>에 속하는 것이다.행정<b>경찰<\/b>이 사회질서유지 즉 사전에 국민의 생명 · 신체 · 재산을 보호하려는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>윤리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961179&cid=50300&categoryId=50300",
+			"description":"즉 <b>경찰<\/b>이 <b>직무<\/b>수행에 있어도 그 전문적 능력에 의하여 최선을 다하며, 국민전체의 봉사자로서 공공목적을 달성해야 할 자발적 의무 또는 행위규범으로 표현될 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>장비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961224&cid=50300&categoryId=50300",
+			"description":"무기, <b>경찰<\/b>장구, 최루제 및 그 발사장치, 감식기구, 해안감시기구, 통신기기, 차량, 선박, 항공기 등 <b>경찰<\/b>의 <b>직무<\/b>수행을 위하여 필요한 장치와 기구로서 기동, 피복, 총포, 범죄수사, 행정공용장비 등을 총칭하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>인재개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1200966&cid=40942&categoryId=34670",
+			"description":" <b>경찰<\/b>관에 대한 <b>직무<\/b>교육을 위해 설립한 교육기관.  1945년 9월 13일에 발족된 <b>경찰<\/b>관 교습소는 1945년에 조선<b>경찰<\/b>학교로, 1972년에 <b>경찰<\/b>대학으로 명칭을 변경하였다. 1975년 5월 30일 <b>경찰<\/b>대학 부속... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보통<b>경찰<\/b>제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961786&cid=42149&categoryId=42149",
+			"description":"그러나 헌병<b>경찰<\/b>제도로부터 보통<b>경찰<\/b>제도로 전환되었다고는 하나, 기본적으로 <b>경찰<\/b>의 <b>직무<\/b>와 권한에는 변화가 없었다. 치안유지업무 이외에 조장행정에의 원조, 민사쟁송사무, 집달리 사무 등도 계속하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060572&cid=40942&categoryId=31713",
+			"description":"<b>경찰<\/b>은 그 <b>직무<\/b>를 수행함에 있어서 헌법과 법률에 따라 국민의 자유와 권리를 존중하고, 국민 전체에 대한 봉사자로서 공정 중립을 지켜야 하며, 부여된 권한을 남용하여서는 안 된다. <b>경찰<\/b>행정에 관한 사항을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>장비의 사용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961226&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>관은 <b>직무<\/b>수행 중 <b>경찰<\/b>장비를 사용할 수 있다. 다만 인명 또는 신체에 위해를 가할 수 있는 <b>경찰<\/b>장비에 대하여는 필요한 안전교육과 안전검사를 실시하여야 한다. <b>경찰<\/b>공무원은 현행범인과 사형·무기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사법<b>경찰<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=68955&cid=43667&categoryId=43667",
+			"description":"이외에도 「사법<b>경찰<\/b>관리의 <b>직무<\/b>를 행할자와 그 <b>직무<\/b>범위에 관한 법률」에 따라 삼림, 해사, 세무, 전매, 군수사기관, 기타 사항에 관하여 사법<b>경찰<\/b>관리의 <b>직무<\/b>를 행사하는 특별사법<b>경찰<\/b>관리가 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"사법<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107394&cid=40942&categoryId=31721",
+			"description":" <b>경찰<\/b>작용 중 범죄의 수사, 범인의 체포, 구속영장의 집행, 기타 법원·법관 또는 검사의 지휘에 의하여 행하는 작용.  행정<b>경찰<\/b>(行政警察)과 상대되는 개념이다. 그 구별은 유럽에서 유래한 것이나 영국... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인권옹호<b>직무<\/b>방해죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3654669&cid=42131&categoryId=42131",
+			"description":"<b>경찰<\/b>의 <b>직무<\/b>를 행하는 자 또는 이를 보조하는 자가 인권옹호에 관한 검사의 <b>직무<\/b>집행을 방해하거나 그 명령을 준수하지 아니함으로써 성립하는 범죄(형법 제139조)를 말한다.국가의 기능 중에서 검사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>장비관리의 개념",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961225&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>장비관리의 개념<b>경찰<\/b>장비관리규칙 제2조에 따르면 장비(裝備)란 무기, <b>경찰<\/b>장구, 최루제와 그 발사장치, 과학수사기구, 해안감시기구, 정보통신기기, 차량·선박·항공기 등 <b>경찰<\/b>의 <b>직무<\/b>수행을 위해 필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>유기죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1233666&cid=40942&categoryId=31721",
+			"description":" 공무원이 정당한 이유없이 <b>직무<\/b>수행을 거부하거나 그 <b>직무<\/b>를 유기함으로써 성립하는 범죄(형법 122조).  공무원의 범위는 널리 법령에 따라 공무에 종사하는 사람을 포함하며, 여기에는 공무집행을 위탁받은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>공무원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060562&cid=40942&categoryId=31713",
+			"description":"등에 보통 승진 심사위원회를 둔다. 특별유공자는 특별승진을 시킬 수 있다. <b>경찰<\/b>공무원은 <b>직무<\/b>에 관하여 허위의 보고나 통보를 하여서는 안 되며, <b>직무<\/b>를 태만히 하거나 유기하여서는",
+			"thumbnail":""
+		},
+		{
+			"title":"특별사법<b>경찰<\/b>관리의 종류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962762&cid=42149&categoryId=42149",
+			"description":"무엇보다 현행법상 특별사법<b>경찰<\/b>로써 <b>직무<\/b>가 부여되어 행사할 수 있는 자는 「사법<b>경찰<\/b>관리의<b>직무<\/b>를행할자와그<b>직무<\/b>범위에관한법률」에 근거하고 있다. 이는 3가지 유형으로 분류되고 있다. 첫번째 유형은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지역사회 <b>경찰<\/b>활동의 특징",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962605&cid=42149&categoryId=42149",
+			"description":"② 업무영역의 확대: <b>경찰<\/b>은 문제해결사(Problem Solver)로서 이전에 할 일이 아니라고 여겼던 일들을 제한없이 찾아서 해야 하므로 <b>경찰<\/b>관의 <b>직무<\/b>범위가 상당히 넓어 진다. ③ 업무의 우선순위와 평가기준... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제주자치<b>경찰<\/b>단의 담당업무",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962511&cid=42149&categoryId=42149",
+			"description":"[ ① <b>경찰<\/b>정책과] 자치<b>경찰<\/b>행정의 종합 기획 조정 자치<b>경찰<\/b>활동 목표 수립 및 활동상황 도의회 및 도지사 지시사항에 관한 사항 치안행정위원회 운영 자치<b>경찰<\/b>인사위원회 운영 자치<b>경찰<\/b> 제도개선 과제 발굴... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특별사법<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962761&cid=42149&categoryId=42149",
+			"description":"특별사법<b>경찰<\/b>제의 시행을 위한 법적·제도적 뿌리를 살펴보면, 이는 전문화된 기능별로 전문성이 부족한 일반사법<b>경찰<\/b>관리로서는 <b>직무<\/b>수행이 불충분하기 때문에 그 효율성을 위해 전문적 지식이 정통한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>직장훈련",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961245&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>기관의 장이 중심이 되어 당해 소속 <b>경찰<\/b>공무원들의 <b>직무<\/b>수행능력을 향상 및 제고시키기 위한 계획하에 일상 <b>경찰<\/b>업무를 통해 시행하는 하나의 훈련과정을 뜻한다. 각급<b>경찰<\/b>기관들은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사법<b>경찰<\/b>관리",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EB%B2%95%EA%B2%BD%EC%B0%B0%EA%B4%80%EB%A6%AC",
+			"description":"삼림•해사•전매•세무•군수사기관•기타 특별한 사항(철도•저작권•문화재 등)에 관하여는 특별법을 제정하여 특별사법<b>경찰<\/b>관으로서 사법<b>경찰<\/b>관리의 <b>직무<\/b>를 수행한다. 사법<b>경찰<\/b>관은 범죄의 혐의가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자치 <b>경찰<\/b> (제주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2625920&cid=51955&categoryId=55497",
+			"description":"[정의] 지방 분권의 이념에 따라 제주특별자치도 제주시에 <b>경찰<\/b>권을 부여하고 그 책임도 지방 자치 단체가 담당하는 제도. [개설] 자치 <b>경찰<\/b>은 국가 전체를 관할하는 국가 <b>경찰<\/b>[중앙 <b>경찰<\/b>]과 대비되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>공직자윤리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961071&cid=50300&categoryId=50300",
+			"description":"<b>경찰<\/b>공무원이 <b>직무<\/b>를 하는 데 있어서 <b>경찰<\/b>공무원로서의 지켜야 할 윤리규범을 의미한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>통제의 유형",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961265&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>에 대한 통제에는 흔히 민주적 통제와 사법적 통제, 사전적 통제와 사후통제, 내부적 통제와 외부적 통제로 나뉘어진다. 첫째, 민주적 통제와 사법적 통제인데 우선 민주적 통제의 경우 우리나라 <b>경찰<\/b>은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국의 행정<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1183329&cid=40942&categoryId=34708",
+			"description":"제외하고는 서울특별시장·광역시장·도지사가 주무부장관의 지휘·감독을 받아 그 <b>경찰<\/b>사무를 관장한다. 산림·해사(海事)·전매·세무 등의 사법<b>경찰<\/b>사무에 관하여는 각 관할공무원이 사법<b>경찰<\/b>관리의 <b>직무<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"철도특별사법<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962670&cid=42149&categoryId=42149",
+			"description":"이는 전문화된 기능별로 전문성이 부족한 일반사법<b>경찰<\/b>관리로서는 <b>직무<\/b>수행이 불충분하기 때문에 그 효율성을 위해 전문적 지식이 정통한 행정공무원에게 사법<b>경찰<\/b>권을 부여하여 수사활동을 하도록 제도화... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2682_000_1\/20140124155328927_FQUL7D4R4.jpg\/eb58_1763_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"특별사법<b>경찰<\/b>관리",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%8A%B9%EB%B3%84%EC%82%AC%EB%B2%95%EA%B2%BD%EC%B0%B0%EA%B4%80%EB%A6%AC",
+			"description":"특별사법<b>경찰<\/b>관리 는 법률에 의해 &quot;삼림, 해사, 전매, 세무, 군수사기관 그 밖에 특별한 사항에 관하여&quot; 사법<b>경찰<\/b>관리의 <b>직무<\/b>를 행하는 자이다. (형사소송법 제245조의10 1항) 특별사법<b>경찰<\/b>관리는 그 사항별로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>공무원의 권리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961050&cid=42149&categoryId=42149",
+			"description":"첫째, 신분상의 권리: 이는 <b>경찰<\/b>공무원의 신분과 직접 관계되는 권리인데 신분보유권, 직위보유권, <b>직무<\/b>수행권을 들 수 있다. ① 신분보유권: 이는 <b>경찰<\/b>공무원의 경우 국가공무원법 제68조에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3657559&cid=42131&categoryId=42131",
+			"description":"31 법률 제4369호로 제정된 이 법은 <b>경찰<\/b>의 민주적인 관리 · 운영과 효율적인 임무수행을 위하여 <b>경찰<\/b>의 기본조직 및 <b>직무<\/b>범위 기타 필요한 사항을 규정함을 목적으로 한다.<b>경찰<\/b>의 조직으로 치안에 관한 사무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>사기저하의 요인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961140&cid=42149&categoryId=42149",
+			"description":"과중한 <b>직무<\/b>와 과제, <b>경찰<\/b>조직에서 부적절한 배치전환 문제, 승진에서의 누락문제 등이 대표적인 사기저하 요인들이 된다. 첫째, <b>경찰<\/b>공무원에게 주어지는 과중한 <b>직무<\/b>와 과제이다. <b>경찰<\/b>공무원에게 과제가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국특별사법<b>경찰<\/b>학회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962862&cid=42149&categoryId=42149",
+			"description":"이는 전문화된 기능별로 전문성이 부족한 일반사법<b>경찰<\/b>관리로서는 <b>직무<\/b>수행이 불충분하기 때문에 그 효율성을 위해 전문적 지식이 정통한 행정공무원에게 사법<b>경찰<\/b>권을 부여하여 수사활동을 하도록... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>인력기획",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961208&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>인력기획이라 함은 <b>경찰<\/b>인사관리에 있어서 가장 시초이면서 동시에 기본토대를 이루는 것이다. 왜냐하면 <b>경찰<\/b>인력기획은 <b>경찰<\/b>조직이라고 하는 큰 범위 내에서 사전에 제반 <b>경찰<\/b>활동의 수요와 공급에 관한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보통<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3657564&cid=42131&categoryId=42131",
+			"description":"<b>경찰<\/b>기관의 내부적으로 <b>직무<\/b>의 분배에 의하여 <b>경찰<\/b>을 분류한 것으로서의 한 종류이다. 프랑스 법에서는 그 보호하려는 사회상의 가치가 사상 · 정치 등의 고등가치(高等價値)를 갖지 않는 <b>경찰<\/b>을 보통<b>경찰<\/b>이라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"필리핀 민다나오 섬 시부 호수의 농부 <b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2044929&cid=46709&categoryId=46709",
+			"description":"게릴라들 때문에 호숫가에는 <b>경찰<\/b>이 상주하고 있다. 이들은 각자 직업을 갖고 있으면서 <b>경찰<\/b>의 <b>직무<\/b>를 수행한다. 내가 만난 이 <b>경찰<\/b>은 직업이 농부라고 자신을 소개하면서 절대 산에는 가지 말라고 충고했다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_1\/20150207113102075_W72QNRTDX.jpg\/027H3-40001JPGE.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경찰<\/b>대학설치법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961097&cid=42149&categoryId=42149",
+			"description":"우리나라가 1945년 8월 해방을 맞이한 이후 미군정 통치를 거쳐 같은 해 10월 21일 국립<b>경찰<\/b>이 창설되었고 일제강점기하에서 근무하던 <b>경찰<\/b>관들이 그대로 재임용되어 일제에 협조하던 <b>경찰<\/b>청산에 실패했던... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>인사위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961213&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>공무원의 인사에 관한 중요사항에 대해 <b>경찰<\/b>청장의 자문에 응하기 위하여 <b>경찰<\/b>청에 <b>경찰<\/b>인사위원회를 둔다. 인사위원회의 구성 및 운영에 관하여 필요한 사항은 대통령령으로 정한다. <b>경찰<\/b>공무원의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철도특별사법<b>경찰<\/b>의 연혁",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962673&cid=42149&categoryId=42149",
+			"description":"2008년 2월 29일에는 건설교통부가 국토해양부로 명칭이 변경되고 6월 13일에는 법률 제9109호에 따라 사법<b>경찰<\/b>관리의<b>직무<\/b>를수행할자와그<b>직무<\/b>범위에관한법률개정(철도안전법에 규정된 범죄와 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"군사<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1162716&cid=40942&categoryId=31740",
+			"description":" 군대 안의 <b>경찰<\/b>활동을 주임무로 하는 전투지원 병과또는 헌병 병과에 소속된 장병.  일반적으로... 군행정<b>경찰<\/b>업무 및 군사법<b>경찰<\/b> 업무를 수행한다. 군사<b>경찰<\/b> 제도는 중세기 전엽의 프랑스에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_77\/20181120035117829_NKRCIFVZ9.jpg\/336512.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경찰<\/b>사기의 특징",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961139&cid=42149&categoryId=42149",
+			"description":"무엇보다 <b>경찰<\/b>의 사기는 <b>직무<\/b>수행이라고 하는 목표에 지향된 것으로 하나의 조직이 요구하는 <b>직무<\/b>를 수행하고자 하는 동기를 의미한다는 것이다. <b>경찰<\/b>사기는 그 형성에 있어서 반드시 일정하게 정해진 것이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서울시특별사법<b>경찰<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961932&cid=42149&categoryId=42149",
+			"description":"서울특별시는 시와 자치구에서 2004년부터 특별사법<b>경찰<\/b>을 운영했으나 <b>직무<\/b>역량의 부족으로 대부분의 범죄행위 적발을 검찰과 <b>경찰<\/b>에 고발조치하는 미비점을 보여주다가 2008년 서울특별시 행정국 산하에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>권의 한계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961087&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>권이 유효하게 발동될 수 있는 한계를 말하며, <b>경찰<\/b>권의 발동은 사회공동의 질서유지를 위하여 불가피한 일이나 국민의 자유와 권리를 침해하는 전형적인 권리적 작용이기 때문에 여러 가지 한계점을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경찰<\/b>교육원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961082&cid=42149&categoryId=42149",
+			"description":"<b>경찰<\/b>교육원의 주요기능은 간부후보생과 초급간부반 필수기본교육 및 일선 현장에서 필요로 하는 <b>직무<\/b>교육이다. <b>경찰<\/b>간부후보생을 선발해 1년간 교육훈련 후 경위로 임용하는 중요한 과제를 담당하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철도특별사법<b>경찰<\/b>의 제도적 취지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962675&cid=42149&categoryId=42149",
+			"description":"특별사법<b>경찰<\/b>제도는 일반사법<b>경찰<\/b>권이 미치지 않는 영역에서 운영되어 「사법<b>경찰<\/b>관리의 <b>직무<\/b>를 행할 자와 <b>직무<\/b>범위에 관한 법률」에 그 <b>직무<\/b>의 범위가 특수한 사항 또는 지역에 한정되어 있다는 점을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"검사와 사법 <b>경찰<\/b> 관리와의 관계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5645114&cid=60366&categoryId=60400",
+			"description":"사법연수원을 수료한 뒤 정검수 씨는 검사를 지망하였고, 노경철 씨는 <b>경찰<\/b> 간부를 지망하였다. 노경철 씨가 종로<b>경찰<\/b>서 수사 과장이 되어 피라미드 사기단 사건의 수사를 진두 지휘하는데, 그 피해가 전국적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>유기죄",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4%EC%9C%A0%EA%B8%B0%EC%A3%84",
+			"description":"중요한 <b>직무<\/b>를 유기한 것은 <b>경찰<\/b>공무원의 신분을 유지할 수 없을 정도로 죄질이 불량하다&quot;며 징역 3월에 집행유예 1년을 선고했지만 &quot;형량이 너무 무겁다&quot;며 항소하자 서울중앙지법 형사항소5부(재판장 장일혁... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사법<b>경찰<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=76709&cid=42155&categoryId=42155",
+			"description":"또 삼림·해사·세무·군 수사기관, 기타 특별한 사항에 관해 <b>직무<\/b>를 행할 특별사법<b>경찰<\/b>관리도 법률로써 정한다. 이들은 범죄 수사에서 검사의 보조기관으로 수사의 주재자인 검사의 지휘를 받아 수사를 하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 <b>경찰<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B2%BD%EC%B0%B0",
+			"description":"이 외에도 특별사법<b>경찰<\/b>에 관한 법을 통해 관련 <b>직무<\/b>에 관련된 <b>경찰<\/b> 업무를 수행하는 공무원을 지정하여 치안 유지 및 단속 업무를 수행하게 하고 있다. 대한민국의 <b>경찰<\/b>관 <b>경찰<\/b>공무원의 계급 국가직 11계급... ",
+			"thumbnail":""
+		}
+	]
+}

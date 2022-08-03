@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:53 +0900",
+	"total":547,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>숙박<\/b>서비스분야에서 국가<b>직무<\/b>능력표준(NCS) 개발 및 적용 소개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155986771",
+			"description":"An Introduction of Development and Application of National Competency Standards in Lodging Service Category 국가<b>직무<\/b>능력표준(NC"
+		},
+		{
+			"title":"<b>숙박<\/b>서비스분야에서 국가<b>직무<\/b>능력표준(NCS) 개발 및 적용 소개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879864295",
+			"description":" 국가<b>직무<\/b>능력표준(NCS:National Competency Standards)은 산업현장의 근로자가 <b>직무<\/b>수행에 필요한 지식, 기술, "
+		},
+		{
+			"title":"<b>숙박<\/b>서비스분야에서 국가<b>직무<\/b>능력표준(NCS) 개발 및 적용 소개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845746569",
+			"description":"An Introduction of Development and Application of National Competency Standards in Lodging Service Category 국가<b>직무<\/b>능력표준(NC"
+		},
+		{
+			"title":"<b>숙박<\/b>서비스분야에서 국가<b>직무<\/b>능력표준(NCS) 개발 및 적용 소개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=706788753",
+			"description":""
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS) 개발에 관한 연구 : <b>숙박<\/b>서비스분야 발전요소를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116094119",
+			"description":"A Study on the Development of National Competency Standards (NCS) - Focused on Developing Factors on Hotel Service - Since 2000s, a lab"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS) 학습모듈에 관한 연구 : <b>숙박<\/b>서비스분야를 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187671257",
+			"description":"(A)Study on the Learning Module of National Competency Standards(NCS) : Focused on Hotel Service Learning Module of National Competency"
+		},
+		{
+			"title":"<b>숙박<\/b>시설 종사자의 일-가족 갈등(WFC)이 <b>직무<\/b>몰입 및 생활만족에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74844774",
+			"description":"effects of work-family conflict on job involvementlife satisfaction in lodging industry Work-family conflict is an important issue in t"
+		},
+		{
+			"title":"<b>숙박<\/b>시설 종사자의 일-가족 갈등(WFC)이 <b>직무<\/b>몰입 및 생활만족에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879508653",
+			"description":"The Effects of Work-Family Conflict on Job Involvement &amp; Life Satisfaction in Lodging Industry Work-family conflict is an important iss"
+		},
+		{
+			"title":"서비스산업별 서비스본질과 <b>직무<\/b>성과와의 영향 관계 연구: 인구통계학",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651443131",
+			"description":"A Study on the Correlation between Service Nature by Service Industry and Job Performance: Focusing on Demographic Characteristics 본 "
+		},
+		{
+			"title":"숲해설가 <b>직무<\/b>교육 만족도 및 요구도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=578592633",
+			"description":"Forest Interpreter’s Satisfaction and Needs of Job Competency Education 본 연구는 2011년도 숲해설가 <b>직무<\/b>교육에 대한 "
+		},
+		{
+			"title":"감정노동자의 이직의도 결정요인에 관한 연구 -강원지역 대형<b>숙박<\/b>서비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=191198746",
+			"description":"A Study on the Determinants of Employees’ Turnover Intention of Emotion Workers -Focused the large accommodation services on the Gang"
+		},
+		{
+			"title":"특1급 호텔 관리자의 진성리더십이 <b>직무<\/b>만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822783714",
+			"description":"The Effect of Authentic Leadership of The Manager in the Deluxe Hotel on Employee&apos;s Job Satisfaction : focusing on the moderating effec"
+		},
+		{
+			"title":"컨벤션기획사의 <b>직무<\/b>분석 및 비서와의 비교 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630738400",
+			"description":"Job Analysis of PCO (Professional Convention Organizer) and a Comparison with Administrative Assistants 본 연구는 <b>직무<\/b>분석 기"
+		},
+		{
+			"title":"감정노동자의 이직의도 결정요인에 관한 연구 -강원지역 대형<b>숙박<\/b>서비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594167962",
+			"description":" 본 논문은 최근 사회적 이슈가 되고 있는 감정 노동자의 이직의도 결정 요인에 관한 연구로서, 서비"
+		},
+		{
+			"title":"컨벤션기획사의 <b>직무<\/b>분석 및 비서와의 비교 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878985418",
+			"description":"Job Analysis of PCO (Professional Convention Organizer) and a Comparison with Administrative Assistants 본 연구는 <b>직무<\/b>분석 기"
+		},
+		{
+			"title":"철학 기반의 서비스본질과 <b>직무<\/b>성과와의 영향 관계 연구 : 서비스산업별",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650609992",
+			"description":"A study on the correlation between philosophy based service nature and job performance : focusing on comparative analysis by service in"
+		},
+		{
+			"title":"장애인 서비스 직종의 고용조건과 <b>직무<\/b>특성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=645883541",
+			"description":"A Study on the Employment Conditions And Job Characteristics of Service Occupations for Persons with Disabilities 본 연구는 장애"
+		},
+		{
+			"title":"외식업체 종사원의 자기개발욕구가 조직몰입 및 <b>직무<\/b>성과에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562488860",
+			"description":"Impacts of self-development drive of food-service employees on organizational commitment and work performance  표제지\n국문초록\n"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS)에 근거한 태권도학과 교육과정 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420764778",
+			"description":"Development of the Curriculum on Department of Taekwondo based on National Competency Standards 이 연구는 국가<b>직무<\/b>능력표준("
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS) 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879864140",
+			"description":" Since 2000s, a labor market in Korean tourism industry has been changing due to a big growth that more than 12 million foreign tourist"
+		},
+		{
+			"title":"호텔 레스토랑 종사원의 갈등유형이 <b>직무<\/b>스트레스, <b>직무<\/b>만족과 <b>직무<\/b>성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=99520599",
+			"description":"Impact of hotel restaurant employee conflicts on job stress, job satisfaction and performance 호텔 레스토랑 종사원의 갈등"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS)에 근거한 태권도학과 교육과정 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846280830",
+			"description":"Development of the Curriculum on Department of Taekwondo based on National Competency Standards 이 연구는 국가<b>직무<\/b>능력표준("
+		},
+		{
+			"title":"호텔 종사원의 Job crafting이 <b>직무<\/b>몰입과, <b>직무<\/b>만족, 이직의도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177905922",
+			"description":"(A)study on effect of hotel associates&apos;s job crafting on job commitment and job satisfy, turnover intention : focused on super deluxe h"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS)에 근거한 태권도학과 교육과정 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=292361058",
+			"description":"Development of the Curriculum on Department of Taekwondo based on National Competency Standards 이 연구는 국가<b>직무<\/b>능력표준("
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS)에 의한 자격제도 개편 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=602404170",
+			"description":" 본 연구는 자격제도를 개편할 때 고려해야 할 요소들인 개편의 원칙과 방향, 자격제도 개편에 수반되"
+		},
+		{
+			"title":"호텔기업 종사자의 근무환경과 개인특성이 <b>직무<\/b>만족 및 <b>직무<\/b>성과에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289617938",
+			"description":"A Study on the Effects of Work Environment and Personal Characteristics of Hotel Enterprise Staff on Job Satisfaction and Job Performan"
+		},
+		{
+			"title":"직장인에서 작업특성 및 <b>직무<\/b>스트레스가 건강행태에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290074217",
+			"description":"Job Characteristics and Occupational Stress on Health Behavior in Korean Workers 연구배경: 본 연구는 한국인 근로자에서 "
+		},
+		{
+			"title":"호텔 <b>숙박<\/b>서비스의 품질이 고객만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9513134",
+			"description":"  표제지\n목차\n제1장 서론 10\n 제1절 문제의 제기 10\n 제2절 연구의 목적 12\n 제3절 연구의 방법 및 범위 13\n"
+		},
+		{
+			"title":"직장인에서 작업특성 및 <b>직무<\/b>스트레스가건강행태에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=38533539",
+			"description":"Job Characteristics and Occupational Stress on Health Behavior in Korean Workers 연구배경: 본 연구는 한국인 근로자에서 "
+		},
+		{
+			"title":"직장인에서 작업특성 및 <b>직무<\/b>스트레스가 건강행태에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41672172",
+			"description":"Job Characteristics and Occupational Stress on Health Behavior in Korean Workers 연구배경: 본 연구는 한국인 근로자에서 "
+		},
+		{
+			"title":"레지던스호텔 종사원의 임파워먼트와 <b>직무<\/b>만족에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79916620",
+			"description":" 레지던스호텔은 장기 비즈니스와 관광 산업의 변화에 가장 부합하는 <b>숙박<\/b> 업체로서 중장기 투숙을 "
+		},
+		{
+			"title":"숲해설가 <b>직무<\/b>교육 만족도 및 요구도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880801691",
+			"description":"Forest Interpreter’s Satisfaction and Needs of Job Competency Education 본 연구는 2011년도 숲해설가 <b>직무<\/b>교육에 대한 "
+		},
+		{
+			"title":"한국 고위공무원단 비서의 <b>직무<\/b>와 역량에 관한 연구 : 국무총리실 비서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79887895",
+			"description":" 급변하는 경영환경의 변화로 지식정보사회가 도래했으며, 이는 우리나라의 민간부문과 정부부문 모"
+		},
+		{
+			"title":"호텔 직원의 감정노동, <b>직무<\/b>스트레스와 심리적 웰빙 간 관계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=80077397",
+			"description":"(The)relationship among emotional labor, job stress and psychological well-being of hotel employees 본 연구는 밝은 표정으로 "
+		},
+		{
+			"title":"호텔의 내부 마케팅이 종사자 <b>직무<\/b>만족에 미치는 영향에 관한 연구 : 광",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9367789",
+			"description":"  국문목차\n표제지=0,1,3\n목차=i,4,3\n표목차=iv,7,2\n그림목차=vi,9,1\n국문초록=vii,10,2\n제1장 서론=1,12,1\n 제1절 "
+		},
+		{
+			"title":"초등교사 <b>직무<\/b>연수 실태에 관한 연구 (初等敎師 職務硏修 實態에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79639852",
+			"description":"A Study on the Actual Condition of On-the-Job Training for Elementary School Teachers 본 연구는 초등교사들의 <b>직무<\/b>연수 현"
+		},
+		{
+			"title":"이벤트기획가의 <b>직무<\/b>만족에 관한 연구 : 이벤트기획사를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=80010227",
+			"description":"(A) Study on the Job Satisfaction of event Directors in Korea “21세기는 문화의 세기다”, “미래는 문화다”라는 "
+		},
+		{
+			"title":"미고용 고용의무사업체 <b>직무<\/b>분석 및 고용방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16534582",
+			"description":"  표제지\n목차\n제1장 서론 9\n 1. 연구의 배경 및 목적 9\n 2. 연구의 내용 10\n 3. 연구의 방법 11\n  1) 문헌연구"
+		},
+		{
+			"title":"미고용 고용의무사업체 <b>직무<\/b>분석 및 고용방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=128671769",
+			"description":"  제1장 서론 = 1\n 1. 연구의 배경 및 목적 = 1\n 2. 연구의 내용 = 2\n 3. 연구의 방법 = 3\n  1) 문헌연구 = 3\n  2) "
+		},
+		{
+			"title":"골프리조트의 내부마케팅이 <b>직무<\/b>만족과 고객지향성에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=585639143",
+			"description":"The Effect of Internal Marketing Factors on Job Satisfaction and Customer Orientation 본 연구는 골프리조트의 내부마케팅"
+		},
+		{
+			"title":"호텔 종사자의 감정노동에 따른 감정부조화가 <b>직무<\/b>소진 및 고객지향성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=191119289",
+			"description":"Impact of inharmoniousness of emotion according to emotional labor of hotel employees on job burnout and customer orientation : focused"
+		},
+		{
+			"title":"청년 근로자의 노동시장 지위변동 유형이 시간당 임금 및 <b>직무<\/b>만족도에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886156368",
+			"description":"Effects of Youth Workers’ Labor Market Status Change on Hourly Wages and Job Satisfaction 본 연구의 목적은 청년 근로자의"
+		},
+		{
+			"title":"특수 목적 중국어 교수요목 설계 연구 : NCS기반 여행서비스 <b>직무<\/b> 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630838729",
+			"description":"  표제지\n목차\nI. 서론 11\n 1.1. 연구 배경과 목적 11\n 1.2. 연구 구성과 범위 14\nII. 논리적 근거 18\n 2.1. 교육"
+		},
+		{
+			"title":"철학 기반의 서비스본질과 <b>직무<\/b>성과와의 영향 관계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=644905616",
+			"description":"A Study on the Correlation between Philosophy based Service Nature and Job Performance : Focusing on Comparative Analysis by Service In"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897422344",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875568588",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898418751",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886908233",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886789040",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881374831",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889863126",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877632267",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890586310",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873739621",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889163538",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884694084",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875220222",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897502364",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891017282",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896557573",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873130611",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888665997",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874401936",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888037889",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887450434",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898343352",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875337240",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891289237",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886777676",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887935591",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886372035",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890962023",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873234029",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873229298",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881949754",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890768599",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882669876",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890378080",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875497346",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"NCS교육기반 호텔·관광전공자의 교육효과에 관한 인식 차이연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=596937846",
+			"description":"A study on difference in perceptions of educational effectiveness of hotel and tourism NCS education base  표제지\n국문초록\n목"
+		},
+		{
+			"title":"경찰 휴양시설 운용제도 개선방안에 관한 연구 - 복지바우처제도의 활용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288774447",
+			"description":"Study on improve the operational system of the police recreation facilities 이 연구는 경찰 휴양시설의 현황과 운영상의"
+		},
+		{
+			"title":"우리나라 채용 분야에서의 NCS 활용 실태 분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846882330",
+			"description":"Analysis of NCS application for the Recruitment fields in Korea 인적자원개발체계를 내실화하기 위한 기제로 개발된 "
+		},
+		{
+			"title":"우리나라 채용 분야에서의 NCS 활용 실태 분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865516676",
+			"description":"Analysis of NCS application for the Recruitment fields in Korea 인적자원개발체계를 내실화하기 위한 기제로 개발된 "
+		},
+		{
+			"title":"수도권 중등 교사의 스트레스 대처방식에 따른 산림치유 프로그램 선호",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886156250",
+			"description":"An Analysis on the Preference of Forest Healing Programs according to the Stress Coping Methods of the Teachers in the Secondary School"
+		},
+		{
+			"title":"서비스산업 보건관리 실태조사 및 노동자 보호방안 마련 연구 : 연구보",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562469008",
+			"description":"  표제지\n목차\n요약문 3\nⅠ. 서론 21\n 1. 연구배경 21\n 2. 연구 필요성 24\n 3. 연구 목적 26\nⅡ. 연구방법 27\n 1."
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862520975",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875218743",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874400443",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877022286",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888036467",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886786167",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875335768",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881373362",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886818637",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897500952",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897418450",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886370555",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889162119",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887934166",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		},
+		{
+			"title":"공유경제 정착을 위한 입법적 보완 방안 연구 : 법제처 연구용역보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868678996",
+			"description":"  표제지\n목차\n요약문 13\n연구요약서 17\n제1장 서론 30\n 제1절 연구의 목적 30\n 제2절 연구의 범위와 내용 3"
+		}
+	]
+}

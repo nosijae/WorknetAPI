@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:58 +0900",
+	"total":43639,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"KBS, 올해 공채 109명 선발…채용시기 정례화",
+			"originallink":"http:\/\/www.mediaus.co.kr\/news\/articleView.html?idxno=300777",
+			"link":"http:\/\/www.mediaus.co.kr\/news\/articleView.html?idxno=300777",
+			"description":"올해 채용 분야 및 선발예정 인원은 ▲시사교양 PD 17명 ▲예능 PD 2명 ▲라디오 PD 2명 ▲<b>스포츠<\/b> PD 2명... 적성<b>직무<\/b>검사(KSAT)&apos;를 도입한다는 방침이다. 또 현업 적응력과 잠재력을 종합적으로 측정하기 위해... ",
+			"pubDate":"Thu, 28 Jul 2022 16:22:00 +0900"
+		},
+		{
+			"title":"&quot;사기당했다&quot; 허위 신고로 돈 뜯어내려 한 30대 등 2명 집행유예",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022072815391612362",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000768571?sid=102",
+			"description":"또 A씨에게는 이 사건과 별도로 지인에게 &apos;돈을 빌려주면 인터넷 사설 <b>스포츠<\/b> 토토로 원금을 보장하고 수익금도 챙겨주겠다&apos;고 속여 5천500만원을 받아 가로챈 혐의도 더해졌다. 재판부는 &quot;경찰관의 정상적 <b>직무<\/b>집행을... ",
+			"pubDate":"Thu, 28 Jul 2022 15:58:00 +0900"
+		},
+		{
+			"title":"구미시 민선 8기 첫 인사 단행…‘전문가 육성’ 외 [구미소식]",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207280136",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207280136",
+			"description":"경북도와 5급 이상 간부급 인사교류(파견)을 시행해 <b>직무<\/b>경험 축적과 업무능력 향상, 기관간... 900여 명의 선수가 참가하는 이번 대회는 남고부‧대학부‧남자일반부는 구미시복합<b>스포츠<\/b>센터에서 초등부‧여고부... ",
+			"pubDate":"Thu, 28 Jul 2022 15:20:00 +0900"
+		},
+		{
+			"title":"KBS, 신입직원 109명 채용...<b>직무<\/b>적성평가 도입",
+			"originallink":"http:\/\/www.pdjournal.com\/news\/articleView.html?idxno=73963",
+			"link":"http:\/\/www.pdjournal.com\/news\/articleView.html?idxno=73963",
+			"description":"<b>스포츠<\/b> PD 2명 △촬영기자 6명(전국권 3명, 지역국 3명) △영상제작 7명(전국권 4명, 지역국 3명), △방송기술 30명(전국권 21명, 지역국 9명)△아나운서 4명 등이다. 2차 전형 필기시험에선 시사상식 시험이 <b>직무<\/b>적성... ",
+			"pubDate":"Thu, 28 Jul 2022 14:22:00 +0900"
+		},
+		{
+			"title":"경기도교육청, 교직원 17만명 대상 &apos;마음건강증진사업&apos; 운영",
+			"originallink":"http:\/\/www.sportsseoul.com\/news\/read\/1146261?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/468\/0000869221?sid=102",
+			"description":"<b>스포츠<\/b>서울│수원=좌승훈기자.경기도교육청은 오는 11월 말까지 교직원 스트레스 진단과 관리를 통해... 이 사업은 교직원 일상이나 <b>직무<\/b> 관련 스트레스로 탈진(번아웃) 등 심리적 어려움을 살펴 치유와 회복을 돕는... ",
+			"pubDate":"Thu, 28 Jul 2022 07:47:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] &apos;음주측정거부·경찰 폭행&apos; 래퍼 노엘(장용준) 2심 선고",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112960",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112960",
+			"description":"임용후보자 <b>직무<\/b>연수 특강(10:00 교육연수원) ▲ 복지부, 사회서비스 혁신 정책포럼(15:30 마포구... 통영해양<b>스포츠<\/b>센터) ▲ 마산만 재해안전항만구축 관련 시민단체 의견 표명 기자회견(11:00 마산해양수산청 앞)... ",
+			"pubDate":"Thu, 28 Jul 2022 07:04:00 +0900"
+		},
+		{
+			"title":"이상화 공공외교대사 &quot;한-요르단 수교 60주년…태권도 등 한류열풍 선순환 기...",
+			"originallink":"http:\/\/mbn.mk.co.kr\/pages\/news\/newsView.php?category=mbn00006&news_seq_no=4812780",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001679728?sid=100",
+			"description":"부회장(<b>직무<\/b>대리)는 &quot;요르단 사상 첫 올림픽 메달은 2016년 리우 올림픽 태권도 금메달이었다&quot;며 &quot;2020년 도쿄... 실제로 요르단에서는 태권도가 인기 <b>스포츠<\/b>로 자리 잡으며, 현재 태권도 수련생만 100만 명 이상인 것으로... ",
+			"pubDate":"Wed, 27 Jul 2022 22:36:00 +0900"
+		},
+		{
+			"title":"그로스 해커·데브옵스엔지니어... 이런 직업 들어봤나요?",
+			"originallink":"https:\/\/www.chosun.com\/national\/labor\/2022\/07\/27\/N2746HNL4FGNLC2S64QJMEFJVI\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003706478?sid=102",
+			"description":"촉진 <b>직무<\/b>가 활성화되면서 사업 기획, 홍보 마케팅 분야를 중심으로 새로운 직업이 여럿 생겼다.... 클라우드 서비스 사용자를 위한 플랫폼 및 서비스를 기획하는 ‘클라우드 서비스 기획자’, e<b>스포츠<\/b> 대회 기획 및... ",
+			"pubDate":"Wed, 27 Jul 2022 22:23:00 +0900"
+		},
+		{
+			"title":"수원시, 27일 스마트관광도시 선포",
+			"originallink":"http:\/\/www.sportsseoul.com\/news\/read\/1146232?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/468\/0000869166?sid=102",
+			"description":"이재준 시장이 조용만 문화체육관광부 2차관이 XR버스 1795행을 시승하고 있다.제공=수원시 <b>스포츠<\/b>서울... 사장<b>직무<\/b>대행 등이 참석했다. 이 시장은 “터치수원 앱을 활용해 시민 누구나 수원화성의 아름다움을 알차게... ",
+			"pubDate":"Wed, 27 Jul 2022 22:16:00 +0900"
+		},
+		{
+			"title":"경북교육청, 초등학교 체육수업 내실화 총력",
+			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=388389&part_idx=7",
+			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=388389&part_idx=7",
+			"description":"경북교육청은 27일부터 29일까지 3일간 경북체육고등학교에서 도내 초등(특수)학교 <b>스포츠<\/b>강사 70명을 대상으로‘2022 초등(특수)학교 <b>스포츠<\/b>강사 <b>직무<\/b>연수’를 실시하고 있다. 초등(특수)학교 <b>스포츠<\/b>강사 연수는 매년... ",
+			"pubDate":"Wed, 27 Jul 2022 22:04:00 +0900"
+		},
+		{
+			"title":"[아주경제 오늘의 뉴스 종합] 권성동 &apos;尹 문자&apos; 해명에...당원들 &quot;사퇴하라&quot; ...",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220727214455405",
+			"link":"https:\/\/www.ajunews.com\/view\/20220727214455405",
+			"description":"대표 <b>직무<\/b>대행 겸 원내대표에게 보낸 사실이 공개되자 국민의힘 당원 게시판에 비판 여론이 쏟아지고 있다.... 마이스(MICE) 시설, 비즈니스호텔, e-<b>스포츠<\/b> 콤플렉스도 복합적으로 들어서도록 한다. 시는 이곳에... ",
+			"pubDate":"Wed, 27 Jul 2022 21:50:00 +0900"
+		},
+		{
+			"title":"경북교육청, 초등특수학교 체육수업 내실화 추진",
+			"originallink":"http:\/\/www.dkilbo.com\/news\/articleView.html?idxno=371962",
+			"link":"http:\/\/www.dkilbo.com\/news\/articleView.html?idxno=371962",
+			"description":"▲ 경북체육고등학교에서 초등(특수)학교 <b>스포츠<\/b>강사 <b>직무<\/b>연수를 진행하고 있다. 경북교육청 제공 경북교육청은 27일부터 29까지 3일간 경북체육고등학교에서 도내 초등(특수)학교 <b>스포츠<\/b>강사 70명을 대상으로 &apos;2022 초등... ",
+			"pubDate":"Wed, 27 Jul 2022 21:32:00 +0900"
+		},
+		{
+			"title":"울진해경, 2022년 구조능력(수영)평가 실시",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517478",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517478",
+			"description":"울진해양경찰서(서장 최원식)에서는 7월 25일부터 27일, 29일 총4일간 포항 남구와 울진 한울<b>스포츠<\/b>센터 실내수영장에서 경감 이하 경찰관 284명을 대상으로 현장 <b>직무<\/b> 수행 시 인명구조 능력 배양을 위한 구조능력(수영)... ",
+			"pubDate":"Wed, 27 Jul 2022 20:32:00 +0900"
+		},
+		{
+			"title":"[산업 이모저모] 현대차·기아, &apos;달 표면 탐사 모빌리티&apos; 개발 나선다...다자...",
+			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296918",
+			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296918",
+			"description":"임직원 <b>직무<\/b> 멘토링, 활동비 등이 제공된다. ㅇ..LG유플러스는 한국철도공사의 철도 광통신망 친환경... 드라마, <b>스포츠<\/b>, 뉴스 등 10여개의 채널로 구성돼 있으며 특히 &apos;마이 채널&apos; 기능을 통해 개인별 추천 콘텐츠를... ",
+			"pubDate":"Wed, 27 Jul 2022 20:32:00 +0900"
+		},
+		{
+			"title":"서울게임아카데미 직업계고 채용연계형 <b>직무<\/b>교육과정 성황리에 마감",
+			"originallink":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=58182",
+			"link":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=58182",
+			"description":"사진출처 =서울게임아카데미  서울게임아카데미는 7월에 실시된 &apos;2022년도 직업계고 채용연계형 <b>직무<\/b>교육과... e<b>스포츠<\/b> 국비지원 대상기관으로도 선정됐다. 동시에 많은 실무를 경험한 업계 출신 전문 교수진이 실무중심... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"양평교육지원청 26~27일 초등 신규 교사 <b>직무<\/b> 연수",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20220727580196",
+			"link":"https:\/\/www.kyeonggi.com\/article\/20220727580196",
+			"description":"양평교육지원청이 지난 25일 양평지역 초등 신규 교사 36명을 대상으로 역량강화 <b>직무<\/b>연수를 진행하고 있다.... 축구에 대한 재능과 함께 인성을 갖췄기에 세계적인 <b>스포츠<\/b>선수가 된 것”이라고 밝혔다. 이날 연수에선... ",
+			"pubDate":"Wed, 27 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"GH, 안전보건경영위원회 신설 27일 첫 회의 진행",
+			"originallink":"http:\/\/www.sportsseoul.com\/news\/read\/1146020?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/468\/0000868972?sid=102",
+			"description":"<b>스포츠<\/b>서울│수원=좌승훈기자. 경기주택도시공사(GH)는 안전보건경영의 전문성 확보를 위해... 관리 △근로자 <b>직무<\/b>스트레스관리 프로그램 실시 △임직원 안전보건교육 등 안전보건활동 추진에 있어 보다 더 체계적이고... ",
+			"pubDate":"Wed, 27 Jul 2022 16:47:00 +0900"
+		},
+		{
+			"title":"화신사이버대학교, (사)부산지역아동센터협의회 업무협약 체결",
+			"originallink":"http:\/\/www.busan.com\/view\/busan\/view.php?code=2022072716013531025",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001166980?sid=102",
+			"description":"양 기관의 관계자들이 참석한 가운데 진행된 협약식에서 양 기관은 <b>직무<\/b> 연구 교육 및 균등한 교육 기회를... 모집학과는 한국어교육학과, 실용외국어학과, 융합<b>스포츠<\/b>지도학과, 영상콘텐츠학과, 사회복지학과... ",
+			"pubDate":"Wed, 27 Jul 2022 16:03:00 +0900"
+		},
+		{
+			"title":"코로나19 확진자, 다시 10만 명대…정부, 자발적 거리두기 참여 강조",
+			"originallink":"http:\/\/digitalchosun.dizzo.com\/site\/data\/html_dir\/2022\/07\/27\/2022072780152.html",
+			"link":"http:\/\/digitalchosun.dizzo.com\/site\/data\/html_dir\/2022\/07\/27\/2022072780152.html",
+			"description":"문화체육관광부는 50인 이상이 관람하는 실외 공연·<b>스포츠<\/b> 경기의 마스크 착용 의무에 대한 홍보와 현장... 권성동 국민의힘 대표 <b>직무<\/b>대행 겸 원내대표는 26일 오전 국회에서 열린 원내대책회의에서 “(정부가) 전문가용... ",
+			"pubDate":"Wed, 27 Jul 2022 15:46:00 +0900"
+		},
+		{
+			"title":"‘각자도생’ 비판에 ‘자율방역’ 가이드라인 내놓은 정부, 효과 있을까",
+			"originallink":"https:\/\/www.khan.co.kr\/national\/health-welfare\/article\/202207271518001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003162698?sid=102",
+			"description":"문화체육관광부는 공연장, 영화관, 노래연습장, <b>스포츠<\/b>경기장 등에서의 생활방역수칙 준수를 독려하고... 권성동 국민의힘 대표 <b>직무<\/b>대행 겸 원내대표는 지난 26일 당 원내대책회의에서 “온라인에선 정부 지침을... ",
+			"pubDate":"Wed, 27 Jul 2022 15:19:00 +0900"
+		},
+		{
+			"title":"[청년광장] 윤석열 정부 지지율에 관한 고찰",
+			"originallink":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=273380",
+			"link":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=273380",
+			"description":"25일에 발표된 KSOI 여론조사에 따르면 윤석열의 <b>직무<\/b>수행평가는 긍정평가 32.2%, 부정평가 64.5%로 조사되었다.... <b>스포츠<\/b> 경기에서도 오늘 승리한 전술이 내일엔 패배할 수도 있는데 하물며 국정 운영 방식은 어떻겠는가?... ",
+			"pubDate":"Wed, 27 Jul 2022 11:26:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] 서울대, 허준이 교수 필즈상 수상기념 수학강연회",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112932",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112932",
+			"description":"공직문화 조성을 위한 아침강연(탐라홀) 10:00 신세계 사이먼-제주올레-도 장애인복지협회 간 공익기부금 전달식(집무실) ■ 주요 <b>스포츠<\/b> ■프로야구= 한화-삼성(포항) LG-SSG(인천) 롯데-두산(잠실) NC-KIA(광주)... ",
+			"pubDate":"Wed, 27 Jul 2022 07:04:00 +0900"
+		},
+		{
+			"title":"호남대 e<b>스포츠<\/b>산업학과, e<b>스포츠<\/b> 진로탐색 과정",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/775382",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/775382",
+			"description":"하루 4시간씩 진행되는 프로그램에서는 진로탐색을 위한 이<b>스포츠<\/b>산업에 대한 이해와 관련 <b>직무<\/b>에 따른 직업군에 대한 이해를 높이고 실무교육에서는 개인별 게이밍 역량 강화와 함께 팀 협력을 통한 게임 운영 전략... ",
+			"pubDate":"Wed, 27 Jul 2022 02:30:00 +0900"
+		},
+		{
+			"title":"울진해경, 구조능력 ‘수영평가’ 실시",
+			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=388146&part_idx=170",
+			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=388146&part_idx=170",
+			"description":"울진해양경찰서는 25일부터 29일까지 총 4일간 포항 남구와 울진 한울<b>스포츠<\/b>센터 실내수영장에서 경감 이하 경찰관 284명을 대상으로 현장 <b>직무<\/b> 수행 시 인명구조 능력 배양을 위한 구조능력(수영)평가를 실시한다고... ",
+			"pubDate":"Tue, 26 Jul 2022 22:02:00 +0900"
+		},
+		{
+			"title":"광주시, 장애인들 사회 참여 돕는다…10월 ‘장애인 진로·직업 통합 박람회’",
+			"originallink":"http:\/\/www.kwangju.co.kr\/article.php?aid=1658829600741500006",
+			"link":"http:\/\/www.kwangju.co.kr\/article.php?aid=1658829600741500006",
+			"description":"인공지능, 3D, AR\/VR, 드론, e<b>스포츠<\/b> 등을 이용한 <b>직무<\/b>체험 부스도 운영된다. 장애인복지관과 시교육청은 광주지역 내 직업재활서비스 안내와 교육공무직 채용제도 및 배치 직종 소개하는 일자리 상담도 운영한다.... ",
+			"pubDate":"Tue, 26 Jul 2022 19:02:00 +0900"
+		},
+		{
+			"title":"용두사미로 전락한 &apos;국립 전북 <b>스포츠<\/b> 종합훈련원&apos; 공약",
+			"originallink":"https:\/\/www.jjan.kr\/article\/20220726580175",
+			"link":"https:\/\/www.jjan.kr\/article\/20220726580175",
+			"description":"또 지난 18일에 열린 ‘국민의힘 호남권 예산정책협의회’에서도 권성동 국민의힘 당대표 <b>직무<\/b>대행겸 원내대표가 “김제 종자생명산업 혁신클러스터 사업 등 농생명산업발전과 국립 전북 <b>스포츠<\/b>종합훈련원 건립 사업도... ",
+			"pubDate":"Tue, 26 Jul 2022 17:52:00 +0900"
+		},
+		{
+			"title":"호남대 e<b>스포츠<\/b>산업학과, e<b>스포츠<\/b> 진로탐색 과정",
+			"originallink":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=423661",
+			"link":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=423661",
+			"description":"하루 4시간씩 진행되는 프로그램에서는 진로탐색을 위한 이<b>스포츠<\/b>산업에 대한 이해와 관련 <b>직무<\/b>에 따른 직업군에 대한 이해를 높이고 실무교육에서는 개인별 게이밍 역량 강화와 함께 팀 협력을 통한 게임 운영 전략... ",
+			"pubDate":"Tue, 26 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"도쿄올림픽 조직위 前이사, 뇌물 받고 스폰서 계약 맺었나?",
+			"originallink":"http:\/\/www.ikbc.co.kr\/article\/view\/kbc202207260055",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/660\/0000013320?sid=104",
+			"description":"올림픽 조직위원회 이사는 도쿄올림픽·패럴림픽 특별 조치법에 따라 &apos;공무원&apos;으로 간주하는 규정이 있어 <b>직무<\/b>에 관한 금품을 수령한 경우 형법상 뇌물죄로 고발될 수 있습니다. 하지만 다카하시 전 이사는 &quot;<b>스포츠<\/b>... ",
+			"pubDate":"Tue, 26 Jul 2022 16:30:00 +0900"
+		},
+		{
+			"title":"&apos;오징어게임&apos; 오영수·&apos;스우파&apos; 모니카, 한국 공연관광 홍보대사 위촉",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=81597588467",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=81597588467",
+			"description":"한편, 문체부가 주최하고 한국관광공사(사장<b>직무<\/b>대행 신상용)와 (사)한국공연관광협회(회장 김경훈)가 공동 주관으로 개최되는 &apos;2022 웰컴 대학로&apos;는 9월 24일부터 10월 30일까지 대학로 일원에서 진행된다. [<b>스포츠<\/b>투데이... ",
+			"pubDate":"Tue, 26 Jul 2022 15:28:00 +0900"
+		},
+		{
+			"title":"[부산시교육청] 교육복지사 152명 대상 교육복지우선지원사업 <b>직무<\/b>연수 실시 ...",
+			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=593084",
+			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=593084",
+			"description":"(제공: 부산시교육청) ◆부산시미래교육원-정보산업진흥원, 진로체험 프로그램 &apos;꿈담기&apos; 운영 고교생 진로 탐색 지원·진로설계 역량 강화 e<b>스포츠<\/b> 분야 <b>직무<\/b> 중심 진로체험 진행 부산시미래교육원이 26일과 28일 2차례에... ",
+			"pubDate":"Tue, 26 Jul 2022 15:02:00 +0900"
+		},
+		{
+			"title":"도쿄올림픽 조직위 前이사 뇌물 비리 불거져…4500만엔 우회 수수 의혹",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220726_0001956408&cID=10101&pID=10100",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011326823?sid=104",
+			"description":"등의 <b>직무<\/b>와 관련해 AOKI홀딩스 측으로부터 많은 돈을 챙겼다고 판단한 것으로 알려졌다. 다카하시 전 이사는 일본 대형 광고회사인 덴츠에서 <b>스포츠<\/b> 비즈니스 업무에 종사하며 전무를 역임했고, 2014년에는 도쿄 올림픽... ",
+			"pubDate":"Tue, 26 Jul 2022 13:46:00 +0900"
+		},
+		{
+			"title":"[부산교육청 브리핑] 교육복지우선지원사업 <b>직무<\/b>연수 실시 등",
+			"originallink":"http:\/\/www.betanews.net:8080\/article\/1349055.html",
+			"link":"http:\/\/www.betanews.net:8080\/article\/1349055.html",
+			"description":"e<b>스포츠<\/b> 분야 <b>직무<\/b>중심 진로체험 프로그램 ‘꿈담기’를 운영한다. 프로그램 참가 학생들은 ‘e<b>스포츠<\/b> 산업 및 <b>직무<\/b> 이론교육’, ‘프로게이머 및 구단 관계자 역할 수행’, ‘e<b>스포츠<\/b> 대회 시뮬레이션 진행’ 등 <b>직무<\/b>... ",
+			"pubDate":"Tue, 26 Jul 2022 11:26:00 +0900"
+		},
+		{
+			"title":"[유통가 레이더] 대상라이프사이언스 마이밀 &apos;프로틴 리저브&apos;, 국내 최초 &apos;토...",
+			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296864",
+			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296864",
+			"description":"필요한 <b>직무<\/b>훈련 및 일경험 기회를 제공하는 민관협업 프로젝트다. 기업이 보유한 강점과 인프라를 활용해... 롯데홈쇼핑(대표 이완신)은 해외 <b>스포츠<\/b> 중계 이용권을 단독 판매하는 등 모바일 채널 콘텐츠를... ",
+			"pubDate":"Tue, 26 Jul 2022 11:24:00 +0900"
+		},
+		{
+			"title":"부산미래교육원, e<b>스포츠<\/b> 분야 진로체험 프로그램 운영",
+			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=557209",
+			"link":"https:\/\/www.cnbnews.com\/news\/article.html?no=557209",
+			"description":"▲ CNB뉴스, CNBNEWS, 씨앤비뉴스 지난 7월 21일 프로그램 운영 모습.(사진=부산시교육청 제공) 부산시미래교육원은 26일과 오는 28일 2차례에 걸쳐 부산이<b>스포츠<\/b>경기장에서 e<b>스포츠<\/b> 분야 <b>직무<\/b>중심 진로체험 프로그램... ",
+			"pubDate":"Tue, 26 Jul 2022 10:18:00 +0900"
+		},
+		{
+			"title":"[교육소식]부산 교육복지우선지원사업 <b>직무<\/b>연수 등",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220726_0001956011&cID=10811&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011325730?sid=102",
+			"description":"e<b>스포츠<\/b> 분야 <b>직무<\/b>중심 진로체험 프로그램 &apos;꿈담기&apos;를 운영한다. 이 프로그램은 부산미래교육원과 부산정보산업진흥원이 업무 협약을 체결 이후 진행하는 것으로, 부산미래교육원은 학생 모집과 운영 비용을 지원하고... ",
+			"pubDate":"Tue, 26 Jul 2022 09:25:00 +0900"
+		},
+		{
+			"title":"[시선공감] 김민호 도의원 &quot;지난 4년 양주시의 민선공직시스템은 미작동&quot;",
+			"originallink":"http:\/\/www.ifm.kr\/news\/340531",
+			"link":"http:\/\/www.ifm.kr\/news\/340531",
+			"description":"▶ 박성용: <b>스포츠<\/b>에 관심도 많으시고, 또 야구팀 투수로도 활동을 하고 계시고, 음악에도 관심이... ▷ 김민호: 네 선출직 공직자는 국민이나 시민으로부터 그 권한을 부여받기 때문에, <b>직무<\/b>에 대한 평가 역시 국민이나... ",
+			"pubDate":"Tue, 26 Jul 2022 09:02:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] 경찰 직장협의회, 경찰국 반대 1인시위",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112905",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112905",
+			"description":"당대표 <b>직무<\/b>대행 겸 원내대표, 원내대책회의(09:00 국회 본관 245호) ▲ 더불어민주당 우상호... 문체부, <b>스포츠<\/b>기업 간담회(14:00 서계동 회의실) [부산] ▲ 드론 활용해 국토 디지털 지적 재조사 시연(10:00 청학... ",
+			"pubDate":"Tue, 26 Jul 2022 07:04:00 +0900"
+		},
+		{
+			"title":"웅동지구 개발사업 정상화 협의체 시동",
+			"originallink":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800171",
+			"link":"http:\/\/www.idomin.com\/news\/articleView.html?idxno=800171",
+			"description":"(호텔·리조트), <b>스포츠<\/b>파크 조성 등을 이행하지 않고 있다. 그럼에도 협약에 건설 기한이 따로 없어... 사장 <b>직무<\/b>대행, 최정호 진해오션리조트 대표이사 등 책임자급이 직접 모이는 첫 5자 회동이다. 과거 웅동1지구... ",
+			"pubDate":"Mon, 25 Jul 2022 23:30:00 +0900"
+		},
+		{
+			"title":"대구대·대구한의대·대경대 [대학소식]",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207250174",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207250174",
+			"description":"대학부 개인전에서도 경장급에 출전한 가수호(<b>스포츠<\/b>레저학과 1) 선수와 역사급에 출전한 박준성(체육학과... 뷰티학부 지도교수의 <b>직무<\/b>역량 강화 수업 및 캐나다 해외 취업특강은 허윤성 학생의 해외 취업 성공으로... ",
+			"pubDate":"Mon, 25 Jul 2022 17:36:00 +0900"
+		},
+		{
+			"title":"&apos;성희롱 방지교육&apos; 체육계 끊이지 않는 성추문 근절될까",
+			"originallink":"http:\/\/www.jejumaeil.net\/news\/articleView.html?idxno=317701",
+			"link":"http:\/\/www.jejumaeil.net\/news\/articleView.html?idxno=317701",
+			"description":"인권상담소와 <b>스포츠<\/b>공정감찰단의 독립 필요성이 제기되기도 했다. 도체육회는 직장 내 성희롱이 발생하지 않도록 지난 21~22일 양일간 체육단체 소통과 <b>직무<\/b> 능력 향상 워크숍을 통해 1차 4대 폭력(성희롱·성폭력... ",
+			"pubDate":"Mon, 25 Jul 2022 16:06:00 +0900"
+		},
+		{
+			"title":"마켓컬리, 첫 해커톤 &apos;KURLY HACK FESTA 2022&apos; 개최",
+			"originallink":"http:\/\/www.sportsq.co.kr\/news\/articleView.html?idxno=442247",
+			"link":"http:\/\/www.sportsq.co.kr\/news\/articleView.html?idxno=442247",
+			"description":"이에 더해 우승팀을 포함한 결선 진출팀 참가자 전원에게는 컬리 입사 지원 시 서류, 코딩 테스트, <b>직무<\/b>기... 아이디어를 쏟아 내길 기대한다&quot;고 덧붙였다. [<b>스포츠<\/b>Q(큐) = 저작권자 © <b>스포츠<\/b>Q(큐) 무단전재 및 재배포 금지",
+			"pubDate":"Mon, 25 Jul 2022 15:24:00 +0900"
+		},
+		{
+			"title":"[재경 전북인] 남원출신 박동기 (사)대한스키협회 회장",
+			"originallink":"https:\/\/www.jjan.kr\/article\/20220725580008",
+			"link":"https:\/\/www.jjan.kr\/article\/20220725580008",
+			"description":"성실한 <b>직무<\/b>수행은 물론 부산롯데월드•워터파크와 롯데그룹의 랜드마크인 서울 롯데월드타워... 동계<b>스포츠<\/b> 저변 확대를 선도해 오며, 지난 2018 평창동계올릭픽에서 한국 설상종목(알파인 스키, 바이애슬론... ",
+			"pubDate":"Mon, 25 Jul 2022 10:34:00 +0900"
+		},
+		{
+			"title":"경희사이버대학교, 2022학년도 2학기 2차 신·편입생 모집",
+			"originallink":"http:\/\/www.cine21.com\/news\/view\/?mag_id=100620&utm_source=naver&utm_medium=news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/140\/0000048009?sid=004",
+			"description":"<b>직무<\/b>교육 콘텐츠, 한국어 교육 콘텐츠 개발 및 운영을 통해 직장인의 자기계발과 <b>직무<\/b>역량 향상을 위한... 이민·다문화전공) ▲한국어학과 ▲<b>스포츠<\/b>경영학과 ▲실용음악학과 ▲문화예술경영학과... ",
+			"pubDate":"Mon, 25 Jul 2022 10:16:00 +0900"
+		},
+		{
+			"title":"건설업 심각한 인력난…외국인 노동자 귀한 몸 됐다",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=214162",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=214162",
+			"description":"국내 현장에 잘 적응할 수 있도록 <b>스포츠<\/b> 마사지와 프로필·증명사진 촬영 등을 지원하고, 주요 출신국인... 당시 회의에서 권성동 국민의힘 당 대표 <b>직무<\/b>대행 겸 원내대표는 &quot;건설업·농어촌 등에서 인력난을 호소하고... ",
+			"pubDate":"Mon, 25 Jul 2022 08:52:00 +0900"
+		},
+		{
+			"title":"성남시, 내달1~5일까지 분당구보건소장 &apos;공모&apos;",
+			"originallink":"http:\/\/www.sportsseoul.com\/news\/read\/1144939?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/468\/0000867943?sid=102",
+			"description":"<b>스포츠<\/b>서울│성남=좌승훈기자. 경기 성남시는 다음 달 1일부터 5일까지 분당구보건소장을 공개 모집한다고... 공모에 응하려면 시 홈페이지 →채용\/시험에 있는 응시원서, 이력서, 자기소개서, <b>직무<\/b>수행계획서 등의 서류... ",
+			"pubDate":"Mon, 25 Jul 2022 08:18:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] 경찰직협, 류삼영 총경 대기발령 항의 1인시위",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112874",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112874",
+			"description":"당대표 <b>직무<\/b>대행 겸 원내대표, 제21대 국회 후반기 국회의장단 및 상임위원장 국립서울현충원 참배(08:00... 주요 <b>스포츠<\/b> ■야구= 청룡기 전국고교선수권대회 겸 주말리그 왕중왕전 결승(18시30분·목동구장)... ",
+			"pubDate":"Mon, 25 Jul 2022 07:04:00 +0900"
+		},
+		{
+			"title":"[공시줍줍]슈퍼개미 요구 단칼에 거절한 양지다이어리",
+			"originallink":"http:\/\/news.bizwatch.co.kr\/article\/market\/2022\/07\/24\/0001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/648\/0000009334?sid=101",
+			"description":"-비케이탑스 대표이사 <b>직무<\/b>집행정지 가처분 조회공시 한국거래소가 코스닥 상장사 비케이탑스에게... 앞서 더네이쳐홀딩스는 지난 5월 래쉬가드 등 워터<b>스포츠<\/b>의류를 전문으로 하는 회사 배럴을 인수했어요.... ",
+			"pubDate":"Mon, 25 Jul 2022 07:01:00 +0900"
+		},
+		{
+			"title":"전남도체육회, 또바기 체육돌봄사업 선정",
+			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=689346",
+			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=689346",
+			"description":"뉴<b>스포츠<\/b> 종목을 각각 선택했다. 전남도체육회는 주강사 및 보조강사를 채용 지원하며 프로그램 진행 경기용품 제공을 지원할 방침이다. 최기동 전남도체육회장 <b>직무<\/b>대행은 &quot;또바기 체육돌봄사업은 일반가정의 학생과... ",
+			"pubDate":"Sun, 24 Jul 2022 18:46:00 +0900"
+		},
+		{
+			"title":"경기도교육청, 유·초·중 교사 794명 교(원)감 자격연수 진행",
+			"originallink":"http:\/\/www.sportsseoul.com\/news\/read\/1144723?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/468\/0000867729?sid=102",
+			"description":"<b>스포츠<\/b>서울│수원=좌승훈기자.경기도교육청은 25일부터 2022 교(원)감 자격연수를 시작한다. 연수 대상자는... (원)감으로 <b>직무<\/b> 전환할 수 있는 자격을 얻는다. 자격연수 주요 내용은 △성찰과 교감 리더십 △교무 운영... ",
+			"pubDate":"Sun, 24 Jul 2022 11:15:00 +0900"
+		},
+		{
+			"title":"경기대 신임 총장에 이윤규 교수 선임",
+			"originallink":"https:\/\/www.khan.co.kr\/people\/personnel_shift\/article\/202207240909001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003161857?sid=102",
+			"description":"경기대 이사회는 지난 22일 이윤규 회계세무학과 교수, 김현수 산업경영공학과 교수, 곽한병 <b>스포츠<\/b>과학부... 경기대는 지난해 5월 제10대 김인규 전 총장의 임기가 끝난후 후임 총장이 선출되지 않아 <b>직무<\/b> 대행 체제로... ",
+			"pubDate":"Sun, 24 Jul 2022 09:10:00 +0900"
+		},
+		{
+			"title":"한국프로<b>스포츠<\/b>협회, 프로<b>스포츠<\/b> 인턴십 프로그램 통한 청년 실무 기회 제공",
+			"originallink":"http:\/\/www.sportsworldi.com\/newsView\/20220723509801",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=396&aid=0000619613",
+			"description":"인턴 사원 대상 만족도 조사 결과, ‘인턴십 프로그램을 통해 <b>직무<\/b> 능력이 향상되었다’는 응답이 86%(매우 향상 44%, 향상 42%), ‘향후 프로<b>스포츠<\/b> 및 타 산업 취업에 도움이 될 것이라고 생각한다’는 응답이 89%(매우... ",
+			"pubDate":"Sat, 23 Jul 2022 21:00:00 +0900"
+		},
+		{
+			"title":"서울게임아카데미 부산캠퍼스, 직업계고 채용연계형 <b>직무<\/b>교육과정 성황리 개강",
+			"originallink":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=57884",
+			"link":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=57884",
+			"description":"SGA부산게임아카데미가 &apos;2022년도 직업계고 채용연계형 <b>직무<\/b>교육과정 지원사업&apos; 성원에 힘입어 7월 성공적인... 이로 인해 E<b>스포츠<\/b> 양성과정과 직접 프로게이머의 데뷔를 희망하는 여러 학생들의 문의가 이어지고 있다.... ",
+			"pubDate":"Sat, 23 Jul 2022 15:24:00 +0900"
+		},
+		{
+			"title":"&apos;프로레슬링 제국&apos; WWE 빈스 맥맨 회장, 불륜 스캔들로 은퇴 선언",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01088966632397472",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005275160",
+			"description":"일부 사람들만 음지에서 즐기던 마니아적인 <b>스포츠<\/b>였던 프로레슬링을 전세계인들이 좋아하는 <b>스포츠<\/b>... 하지만 최근 추가 의혹이 제기되자 공식 은퇴 선언을 했고 WWE 관련 모든 <b>직무<\/b>에서 물러나게 됐다. 하지만... ",
+			"pubDate":"Sat, 23 Jul 2022 08:38:00 +0900"
+		},
+		{
+			"title":"ubc 울산방송) 미래학교에 맞는 미래수업은?..전국 첫 행사",
+			"originallink":"http:\/\/web.ubc.co.kr\/wp\/archives\/100376",
+			"link":"http:\/\/web.ubc.co.kr\/wp\/archives\/100376",
+			"description":"펌프안에 부품이 노후화돼 교체해야 하는데..&apos; 안전교육과 <b>직무<\/b>교육은 물론 게임과 <b>스포츠<\/b>까지 할 수 (인서트) 김태윤\/문수고 1학년 &apos;일단 최근에 메타버스가 유행하다 보니까 굉장히 다양한 학생들에게 좋은 체험이 될... ",
+			"pubDate":"Fri, 22 Jul 2022 21:08:00 +0900"
+		},
+		{
+			"title":"경기대 제11대 신임 총장에 이윤규 교수 선출",
+			"originallink":"http:\/\/www.ifm.kr\/news\/340387",
+			"link":"http:\/\/www.ifm.kr\/news\/340387",
+			"description":"곽한병 <b>스포츠<\/b>과학부 교수 등 내부 인사 3명을 대상으로 면접과 투표를 거쳐 이 교수를 신임 총장으로... 이후 줄굳 <b>직무<\/b> 대행 체제로 운영하다가 올해 초 교육부에서 임시이사 8명을 파견하면서 최근 임시이사와 교직원... ",
+			"pubDate":"Fri, 22 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"경기대 신임 총장에 이윤규 교수 선임",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/07\/22\/20220722518774.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003718031?sid=102",
+			"description":"곽한병 <b>스포츠<\/b>과학부 교수 등 내부 인사 3명을 대상으로 면접과 투표를 거쳐 이 교수를 신임 총장으로... 경기대는 지난해 5월30일 제10대 김인규 전 총장의 임기가 끝난 이후 후임 총장이 선출되지 않아 <b>직무<\/b> 대행... ",
+			"pubDate":"Fri, 22 Jul 2022 17:45:00 +0900"
+		},
+		{
+			"title":"‘내홍’ 시달린 경기대학교, 1년만에 신임 총장에 이윤규 교수 선임",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20220722500162&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003289362?sid=102",
+			"description":"경기대에 따르면 이날 경기대 이사회는 이 교수를 비롯해 김현수 산업경영공학과 교수, 곽한병 <b>스포츠<\/b>과학... 그 사이 경기대는 <b>직무<\/b>대행 체제로 운영돼 왔다. 교육부는 올해 초 임시이사 8명을 파견했고 최근 교직원과... ",
+			"pubDate":"Fri, 22 Jul 2022 17:37:00 +0900"
+		},
+		{
+			"title":"[브리핑] 롯데호텔·호텔신라·HDC아이파크몰",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2021764",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2021764",
+			"description":"차수별로 약 한 달간 ▲롯데호텔 시그니처 서비스 교육 ▲<b>직무<\/b> 교육 ▲호텔 체험 ▲팀 프로젝트 등... 씨 유 순 패키지에는 호텔 대표 레스토랑인 다이닝 M에서의 조식, 바비큐 플래터, 수상 레저 <b>스포츠<\/b> 이용, 야외... ",
+			"pubDate":"Fri, 22 Jul 2022 15:56:00 +0900"
+		},
+		{
+			"title":"경기대, 제11대 총장에 이윤규 교수 선출...1년 만에 정상화",
+			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2022072215350000586?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000687649?sid=102",
+			"description":"경기대는 지난해 5월 전임 총장 퇴임 후 학교 측 내홍으로 총장 선출 없이 <b>직무<\/b>대행 체제로 운영돼 와 이번... 곽한병 <b>스포츠<\/b>과학부 교수 등 3명을 최종 후보군으로 압축했다. 경기대 신임 총장이 선출된 것은 1년 여... ",
+			"pubDate":"Fri, 22 Jul 2022 15:51:00 +0900"
+		},
+		{
+			"title":"한국프로<b>스포츠<\/b>협회, 프로<b>스포츠<\/b> 인턴십 프로그램 통한 청년 실무 기회 제공",
+			"originallink":"http:\/\/www.footballist.co.kr\/news\/articleView.html?idxno=153006",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=436&aid=0000061088",
+			"description":"인턴 사원 대상 만족도 조사 결과, &apos;인턴십 프로그램을 통해 <b>직무<\/b> 능력이 향상되었다&apos;는 응답이 86%(매우 향상 44%, 향상 42%), &apos;향후 프로<b>스포츠<\/b> 및 타 산업 취업에 도움이 될 것이라고 생각한다&apos;는 응답이 89%(매우 그렇다 58... ",
+			"pubDate":"Fri, 22 Jul 2022 15:41:00 +0900"
+		},
+		{
+			"title":"한국프로<b>스포츠<\/b>협회 &quot;현장 실무 경험 &apos;인턴십 프로그램&apos; 참여자 만족도 높아&quot;",
+			"originallink":"http:\/\/star.mt.co.kr\/stview.php?no=2022072211285447186",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=108&aid=0003073060",
+			"description":"협회에 따르면 인턴 사원 대상 만족도 조사 결과, &apos;인턴십 프로그램을 통해 <b>직무<\/b> 능력이 향상됐다&apos;는 응답이 86%(매우 향상 44%, 향상 42%), &apos;향후 프로<b>스포츠<\/b> 및 타 산업 취업에 도움이 될 것이라고 생각한다&apos;는 응답이 89... ",
+			"pubDate":"Fri, 22 Jul 2022 15:23:00 +0900"
+		},
+		{
+			"title":"경기대학교 신임 총장에 이윤규 회계세무학과 교수 선임",
+			"originallink":"http:\/\/www.thereport.co.kr\/news\/articleView.html?idxno=21876",
+			"link":"http:\/\/www.thereport.co.kr\/news\/articleView.html?idxno=21876",
+			"description":"경기대 이사회는 22일 이윤규 교수와 김현수 산업경영공학과 교수, 곽한병 <b>스포츠<\/b>과학부 교수 등 내부 인사... 못해 <b>직무<\/b>대행 체제로 운영돼 왔다. 올해 초부터 교육부에서 임시이사 8명을 파견했고 최근 임시이사와... ",
+			"pubDate":"Fri, 22 Jul 2022 15:08:00 +0900"
+		},
+		{
+			"title":"경기대학교 새 총장에 이윤규 교수 선출…&apos;공석&apos; 1년 2개월만",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2022072215021201018?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002252415?sid=102",
+			"description":"곽한병 <b>스포츠<\/b>과학부 교수 등 3명의 후보자를 대상으로 면접과 투표를 통해 이 교수를 신임 총장으로... 경기대는 지난해 5월 30일 제10대 김인규 전 총장의 임기 종료 이후 후임 총장이 선출되지 않아 <b>직무<\/b> 대행 체제로... ",
+			"pubDate":"Fri, 22 Jul 2022 15:06:00 +0900"
+		},
+		{
+			"title":"&apos;1년 공석&apos; 경기대 신임 총장에 이윤규 교수 선임",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220722093600061?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013328390?sid=102",
+			"description":"곽한병 <b>스포츠<\/b>과학부 교수 등 내부 인사 3명을 대상으로 면접과 투표를 거쳐 이 교수를 신임 총장으로... 경기대는 지난해 5월 30일 제10대 김인규 전 총장의 임기가 끝난 이후 후임 총장이 선출되지 않아 <b>직무<\/b> 대행... ",
+			"pubDate":"Fri, 22 Jul 2022 14:36:00 +0900"
+		},
+		{
+			"title":"한국프로<b>스포츠<\/b>협회, 프로<b>스포츠<\/b> 인턴십 통해 실무 기회 제공",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=81516391707",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=81516391707",
+			"description":"인턴 사원 대상 만족도 조사 결과, &apos;인턴십 프로그램을 통해 <b>직무<\/b> 능력이 향상되었다&apos;는 응답이 86%(매우 향상 44%, 향상 42%), &apos;향후 프로<b>스포츠<\/b> 및 타 산업 취업에 도움이 될 것이라고 생각한다&apos;는 응답이 89%(매우 그렇다 58... ",
+			"pubDate":"Fri, 22 Jul 2022 14:00:00 +0900"
+		},
+		{
+			"title":"대통령기 및 협회장배 조정대회, 23일 예산서 개최",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=81513073855",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=81513073855",
+			"description":"대회를 주최하는 대한조정협회 정관호 회장 <b>직무<\/b>대행은 &quot;이번 대회가 한국 조정의 미래에 대한 방향성을... 다시 확산세로 이어지고 있는 가운데 전염병 예방에도 최선의 노력을 다하겠다&quot;고 말했다. [<b>스포츠<\/b>투데이 ]",
+			"pubDate":"Fri, 22 Jul 2022 13:20:00 +0900"
+		},
+		{
+			"title":"한국프로<b>스포츠<\/b>협회, 프로<b>스포츠<\/b> 인턴십 프로그램 통한 청년 실무 기회 제공",
+			"originallink":"http:\/\/www.osen.co.kr\/article\/G1111901544",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=109&aid=0004662661",
+			"description":"인턴 사원 대상 만족도 조사 결과, ‘인턴십 프로그램을 통해 <b>직무<\/b> 능력이 향상되었다’는 응답이 86%(매우 향상 44%, 향상 42%), ‘향후 프로<b>스포츠<\/b> 및 타 산업 취업에 도움이 될 것이라고 생각한다’는 응답이 89%(매우... ",
+			"pubDate":"Fri, 22 Jul 2022 12:41:00 +0900"
+		},
+		{
+			"title":"프로<b>스포츠<\/b>협회, 인턴십 프로그램 통한 청년 실무 기회 제공",
+			"originallink":"http:\/\/www.thesportstimes.co.kr\/news\/articleView.html?idxno=337047",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=472&aid=0000025370",
+			"description":"인턴 사원 대상 만족도 조사 결과, &apos;인턴십 프로그램을 통해 <b>직무<\/b> 능력이 향상되었다&apos;는 응답이 86%(매우 향상 44%, 향상 42%), &apos;향후 프로<b>스포츠<\/b> 및 타 산업 취업에 도움이 될 것이라고 생각한다&apos;는 응답이 89%(매우 그렇다 58... ",
+			"pubDate":"Fri, 22 Jul 2022 12:11:00 +0900"
+		},
+		{
+			"title":"한국프로<b>스포츠<\/b>협회, 프로<b>스포츠<\/b> 인턴십 프로그램 통한 청년 실무 기회 제공",
+			"originallink":"http:\/\/www.mydaily.co.kr\/new_yk\/html\/read.php?newsid=202207221136327369&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003627591",
+			"description":"끝으로 프로<b>스포츠<\/b>협회는 &quot;하반기에 채용된 인턴 사원 대상으로도 온라인 <b>직무<\/b> 교육을 진행할 계획이다. 이번 조사에서 수렴된 의견을 커리큘럼에 반영하여 보다 내실 있는 교육과 인턴십 프로그램을 운영한다는... ",
+			"pubDate":"Fri, 22 Jul 2022 11:38:00 +0900"
+		},
+		{
+			"title":"[HotJobs100] 비즈니스피플이 엄선한 오늘의 채용-7월22일",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=287679",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=287679",
+			"description":"8개 <b>직무<\/b>의 경력사원을 채용한다. 접수기간은 8월 1일 오후 11시 55분까지다. ◆ CJ올리브영, 경영관리... 기업에서 주최하는 <b>스포츠<\/b> 대회 또는 캠페인을 수행한 경험이 있는 사람 등은 우대한다. 접수기간은 8월 10일... ",
+			"pubDate":"Fri, 22 Jul 2022 11:30:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] &apos;부당합병·회계부정&apos; 이재용 삼성전자 부회장 공판",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112847",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112847",
+			"description":"당대표 <b>직무<\/b>대행 겸 원내대표, 원내대책회의(09:00 국회 본관 245호) 권성동 당대표 <b>직무<\/b>대행 겸 원내대표... 주요 <b>스포츠<\/b> ■프로야구= KIA-롯데(부산) kt-한화(대전) LG-NC(창원) SSG-두산(잠실) 삼성-키움(고척·이상... ",
+			"pubDate":"Fri, 22 Jul 2022 07:04:00 +0900"
+		},
+		{
+			"title":"OK금융그룹 럭비단 공식 홈페이지 오픈…선수단 상세 정보 등 안내",
+			"originallink":"http:\/\/www.mydaily.co.kr\/new_yk\/html\/read.php?newsid=202207211852124845&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003627374",
+			"description":"국내 럭비계 최초 ‘선진국형 아마추어 <b>스포츠<\/b> 클럽’인 OK금융그룹 럭비단은 “일하는 럭비선수, 일하면서 운동을 즐긴다”를 모토로 낮에는 금융인으로 <b>직무<\/b> 수행을 다하며 저녁과 주말에 럭비선수로 꿈을 실현할 수... ",
+			"pubDate":"Thu, 21 Jul 2022 18:53:00 +0900"
+		},
+		{
+			"title":"성비위 의혹 감독 공백 채용 안한 충북도 &apos;허송세월&apos;",
+			"originallink":"http:\/\/www.jbnews.com\/news\/articleView.html?idxno=1366733",
+			"link":"http:\/\/www.jbnews.com\/news\/articleView.html?idxno=1366733",
+			"description":"결국 지난해 11월 <b>스포츠<\/b>윤리센터는 A감독에 대한 조사에 착수했고, 이에 따라 도와 감독 간의 재계약이... 그 <b>직무<\/b>를 대행한다&apos;고 명시하고 있다. 앞서 지난해 12월 도는 연임이 불투명한 A감독의 의견을 그대로 반영해... ",
+			"pubDate":"Thu, 21 Jul 2022 18:46:00 +0900"
+		},
+		{
+			"title":"전남도체육회 또바기 체육돌봄사업 선정",
+			"originallink":"http:\/\/www.jndn.com\/article.php?aid=1658392084341062010",
+			"link":"http:\/\/www.jndn.com\/article.php?aid=1658392084341062010",
+			"description":"뉴<b>스포츠<\/b>를 각각 선택했다. 전남도체육회는 이들 학교에 주강사 및 보조강사를 채용 지원하고 프로그램 진행 경기용품을 제공한다. 최기동 전남도체육회장 <b>직무<\/b>대행은 “또바기 체육돌봄사업은 일반가정의 학생과... ",
+			"pubDate":"Thu, 21 Jul 2022 17:32:00 +0900"
+		},
+		{
+			"title":"OK금융그룹 읏맨 럭비단, 공식 홈페이지 오픈",
+			"originallink":"http:\/\/www.sportsworldi.com\/newsView\/20220721518859",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=396&aid=0000619476",
+			"description":"국내 럭비계 최초 ‘선진국형 아마추어 <b>스포츠<\/b> 클럽’으로 ‘일하는 럭비선수, 일하면서 운동을 즐긴다’를 모토로 한다. 낮에는 금융인으로 <b>직무<\/b> 수행을 다하며 저녁과 주말에 럭비선수로 꿈을 실현할 수 있도록... ",
+			"pubDate":"Thu, 21 Jul 2022 16:06:00 +0900"
+		},
+		{
+			"title":"경기대 총장 선거 하루 앞두고 교수단체 간 내홍 심화",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/07\/21\/20220721510132.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003717567?sid=102",
+			"description":"이사장의 <b>직무<\/b>대행 체제로 운영되고 있다. 전국교수노조는 앞서 지난 18일 강명숙 임시 이사장에게 이번... 곽한병 <b>스포츠<\/b>과학부 교수 등 3명을 최종 후보로 확정했다. 경기대는 오는 22일 이사회를 열어 이들 최종 후보를... ",
+			"pubDate":"Thu, 21 Jul 2022 15:56:00 +0900"
+		},
+		{
+			"title":"OK금융그룹, 읏맨 럭비단 홈페이지 오픈",
+			"originallink":"http:\/\/mksports.co.kr\/view\/2022\/644074\/",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=410&aid=0000883267",
+			"description":"국내 럭비계 최초 ‘선진국형 아마추어 <b>스포츠<\/b> 클럽’인 OK금융그룹 럭비단은 “일하는 럭비선수, 일하면서 운동을 즐긴다”를 모토로 낮에는 금융인으로 <b>직무<\/b> 수행을 다하며 저녁과 주말에 럭비선수로 꿈을 실현할 수... ",
+			"pubDate":"Thu, 21 Jul 2022 15:26:00 +0900"
+		},
+		{
+			"title":"OK금융그룹 럭비단, 공식 홈페이지 오픈",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=81490756421",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=81490756421",
+			"description":"국내 럭비계 최초 &apos;선진국형 아마추어 <b>스포츠<\/b> 클럽&apos;인 OK금융그룹 럭비단은 &apos;일하는 럭비선수, 일하면서 운동을 즐긴다&apos;를 모토로 낮에는 금융인으로 <b>직무<\/b> 수행을 다하며 저녁과 주말에 럭비선수로 꿈을 실현할 수... ",
+			"pubDate":"Thu, 21 Jul 2022 13:16:00 +0900"
+		},
+		{
+			"title":"근로복지공단, 선진재활공학 기술로 &apos;<b>직무<\/b>복귀&apos; 앞당긴다…&apos;산재치료&apos; 확대",
+			"originallink":"http:\/\/www.etnews.com\/20220721000128",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003032037?sid=102",
+			"description":"2단계로 2025년까지 컴퓨터 작업, 핸드폰사용, 다양한 <b>스포츠<\/b> 활동까지 가능할 수 있도록 신체기능을 증강할 계획이다. 이석민 재활공학연구소장은 “산재 장애인의 원활한 <b>직무<\/b>복귀를 위해 치료단계부터 직영병원의... ",
+			"pubDate":"Thu, 21 Jul 2022 12:35:00 +0900"
+		},
+		{
+			"title":"[유통가 레이더] 11번가, 알뜰 쇼핑족과 소상공인 모두 지원... &apos;e서울사랑샵...",
+			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296792",
+			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296792",
+			"description":"이날 행사에는 롯데홈쇼핑 이동규 ESG실장, 조윤주 인재육성실장을 비롯해 MZ세대로 구성된 조직문화 혁신... <b>스포츠<\/b> 선수의 영양 보조식으로 인식되던 단백질 제품이 최근 체력과 면역에 대한 관심을 가진 일반... ",
+			"pubDate":"Thu, 21 Jul 2022 11:33:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] &apos;부당합병·회계부정&apos; 이재용 삼성전자 부회장 공판",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112813",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112813",
+			"description":"당대표 <b>직무<\/b>대행 겸 원내대표, 약자와의동행위원회 봉사활동(11:30 참좋은친구들, 서울 중구 청파로 427)... 주요 <b>스포츠<\/b> ■농구= 제38회 MBC배 전국대학대회(12시30분·상주체육관) ■야구= 청룡기... ",
+			"pubDate":"Thu, 21 Jul 2022 07:04:00 +0900"
+		},
+		{
+			"title":"TV 출하량 12년來 최저…삼성·LG가 꼽은 타개책 &apos;콘텐츠 강화&apos;",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4747106",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006230919?sid=101",
+			"description":"인터넷만 연결하면 영화·드라마·예능·뉴스·<b>스포츠<\/b> 등을 골라 즐길 수 있는 무료 비디오 서비스 &apos;삼성 TV... 사업개발·서비스기획·채널 <b>직무<\/b> 전문인력을 수차례에 걸쳐 충원했다. 이는 TV 판매가 한계에 다다른... ",
+			"pubDate":"Thu, 21 Jul 2022 06:21:00 +0900"
+		},
+		{
+			"title":"[인사] 울진군",
+			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=850231",
+			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=850231",
+			"description":"◆5급 승진 △배경환 열린민원과(과장 <b>직무<\/b>대리) △이상업 해양수산과(과장 <b>직무<\/b>대리) △장경희... (시설관리사업소) △김형삼 <b>스포츠<\/b>마케팅팀장 △황원용도민체전T\/F팀장 △도영욱 산업팀장(평해읍) △김미양... ",
+			"pubDate":"Wed, 20 Jul 2022 23:08:00 +0900"
+		},
+		{
+			"title":"환경부, 부정검사 의심 민간검사소 183곳 점검, 26곳 적발",
+			"originallink":"http:\/\/www.dailysportshankook.co.kr\/news\/articleView.html?idxno=261191",
+			"link":"http:\/\/www.dailysportshankook.co.kr\/news\/articleView.html?idxno=261191",
+			"description":"기계ㆍ기구를 통해 측정된 값을 조작ㆍ변경하게 한 경우\/매연측정기 입구에 헝겊을 설치해 내부에 매연이 적게 들어가게 조작(업무정지 60일\/<b>직무<\/b>정지 60일) [데일리<b>스포츠<\/b>한국 이기운 기자] 환경부(장관 한화진)와... ",
+			"pubDate":"Wed, 20 Jul 2022 22:20:00 +0900"
+		},
+		{
+			"title":"[인사] 울진군",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2512599",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2512599",
+			"description":"(과장<b>직무<\/b>대리) 시설6급 배경환, 해양수산과(과장<b>직무<\/b>대리) 해양수산6급 이상업, 체육진흥사업소 행정6급... 체육진흥사업소(<b>스포츠<\/b>마케팅팀장) 행정6급 김형삼, 체육진흥사업소(도민체전T\/F팀장) 행정6급 황원용... ",
+			"pubDate":"Wed, 20 Jul 2022 19:38:00 +0900"
+		},
+		{
+			"title":"경기대 신임총장 후보 3명 압축…22일 최종 선출",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220720154000061?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013324140?sid=102",
+			"description":"곽한병 <b>스포츠<\/b>과학부 교수 등 내부 인사 3명이 최종 후보자로 선정됐다. 앞서 총추위는 지난 18일 입후보자... 현재까지 <b>직무<\/b> 대행 체제로 운영되고 있다. 내홍으로 총장 선출을 위한 이사회 구성을 하지 못했기 때문이다.... ",
+			"pubDate":"Wed, 20 Jul 2022 18:37:00 +0900"
+		},
+		{
+			"title":"시민-노동단체 현안 듣고 조근제 함안군수에 물었더니",
+			"originallink":"http:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002851778&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002360497?sid=100",
+			"description":"또 문화·예술·<b>스포츠<\/b> 등 다양한 여가활동을 가까운 거리에서 모두 누릴 수 있는 집약형 복합문화공간을... 민법상 현존사무의 종결을 위한 <b>직무<\/b>수행은 물론 청산 종결 시까지는 기존 업무를 수행하도록 하고 있어... ",
+			"pubDate":"Wed, 20 Jul 2022 16:11:00 +0900"
+		},
+		{
+			"title":"[카드뉴스] 강원 인제군 주요뉴스 (7월 20일)",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=507651",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=507651",
+			"description":"군은 지속적인 시설 확충과 적극적인 <b>스포츠<\/b>마케팅을 통해 지역 경제 및 관광 산업에 활기를 불어넣는다는 계획이다. ◈ 인제군 읍･면 민원업무 담당공무원, &apos;<b>직무<\/b>교육&apos; 시행 인제군은 7월 18일과 20일 이틀간 읍･면... ",
+			"pubDate":"Wed, 20 Jul 2022 15:18:00 +0900"
+		},
+		{
+			"title":"[AP미디어동향 7월 3주] KBS, &apos;신뢰하는 언론매체&apos; 역대 최고 평가 받아",
+			"originallink":"http:\/\/www.apnews.kr\/news\/articleView.html?idxno=3003876",
+			"link":"http:\/\/www.apnews.kr\/news\/articleView.html?idxno=3003876",
+			"description":"■ [전국언론노동조합(=언론노조)]은 권성동 국민의힘 당 대표 <b>직무<\/b>대행 겸 원내대표를 허위사실 적시에... ■ [뉴스타파]의 &apos;죄수와 검사&apos; 보도에서 <b>스포츠<\/b>서울 주가조작 개입 의혹을 받은 검사 출신 변호사가 해당... ",
+			"pubDate":"Wed, 20 Jul 2022 13:22:00 +0900"
+		},
+		{
+			"title":"[데일리 IT 단신] KT스카이라이프, &apos;sky 안심 인터넷&apos; 출시 外",
+			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2022\/07\/20\/2022072000088.html",
+			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2022\/07\/20\/2022072000088.html",
+			"description":"틈 1층에는 레고로 제작한 높이 약 1m 크기의 ‘홀맨’, ‘무너’와 레고 미니피겨 모양 및 유명 <b>스포츠<\/b>카... 신충석 넥슨네트웍스 경영지원실장은 “지원자가 인턴십을 통해 효과적으로 게임 QA <b>직무<\/b>를 경험하고 역량을... ",
+			"pubDate":"Wed, 20 Jul 2022 11:40:00 +0900"
+		},
+		{
+			"title":"국민체육진흥공단, &apos;취업든든 멘토링 프로그램 1기&apos; 모집",
+			"originallink":"http:\/\/star.mt.co.kr\/stview.php?no=2022072010344391573",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=108&aid=0003072283",
+			"description":"&apos;취업든든 멘토링 프로그램&apos;은 <b>스포츠<\/b>행정, <b>스포츠<\/b>에이전트, <b>스포츠<\/b>데이터 분석, <b>스포츠<\/b>마케팅, <b>스포츠<\/b>트레이너 분야 멘토들과 <b>직무<\/b>별, 그룹별, 1:1 멘토링 등 소통에 중점을 두고 진행될 예정이다. 이번 프로그램은... ",
+			"pubDate":"Wed, 20 Jul 2022 10:40:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] 대우조선 원청 사용자 책임 부정 관련 긴급 기자간담회",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112771",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112771",
+			"description":"당대표 <b>직무<\/b>대행 겸 원내대표, 의원총회(09:30 국회 본관 246호) 권성동 당대표 <b>직무<\/b>대행 겸 원내대표... 주요 <b>스포츠<\/b> ■사격= ISSF 창원 월드컵(9시·창원국제사격장) ■농구= 제38회 MBC배 전국대학대회(11시... ",
+			"pubDate":"Wed, 20 Jul 2022 07:02:00 +0900"
+		},
+		{
+			"title":"우크라이나 &apos;러시아 부역&apos; 조사 확대…&quot;펠로시 미 하원의장 8월 타이완 방문&quot;",
+			"originallink":"https:\/\/www.voakorea.com\/a\/6664907.html",
+			"link":"https:\/\/www.voakorea.com\/a\/6664907.html",
+			"description":"그들의 <b>직무<\/b> 수행에 만족하지 못하기 때문이라고 말했습니다.진행자) 그럼 후임은 결정됐습니까?기자) 네.... 국제 <b>스포츠<\/b> 행사들과 일정이 겹치지 않도록 조율해왔다고 밝혔습니다.진행자) 항저우는 중국 저장성의... ",
+			"pubDate":"Tue, 19 Jul 2022 23:20:00 +0900"
+		},
+		{
+			"title":"서울게임아카데미, 직업계고 채용연계형 <b>직무<\/b>교육과정 성황리 개강",
+			"originallink":"http:\/\/www.lecturernews.com\/news\/articleView.html?idxno=102391",
+			"link":"http:\/\/www.lecturernews.com\/news\/articleView.html?idxno=102391",
+			"description":"출처: 서울게임아카데미 서울게임아카데미는 7월에 &apos;2022년도 직업계고 채용연계형 <b>직무<\/b>교육과정 지원사업&apos;을... 서울에서 모집 중인 직업계고 지원사업 과정 이외에도 게임개발과정 국비지원은 물론, e<b>스포츠<\/b> 국비지원... ",
+			"pubDate":"Tue, 19 Jul 2022 19:20:00 +0900"
+		},
+		{
+			"title":"국민의힘 전북 현안 지원 약속 꼭 실행해야",
+			"originallink":"https:\/\/www.jjan.kr\/article\/20220719580032",
+			"link":"https:\/\/www.jjan.kr\/article\/20220719580032",
+			"description":"권성동 당 대표 <b>직무<\/b>대행 겸 원내대표는 “새만금 발전을 위한 각종 사업을 최우선 순위에 두고 챙기겠다”고 밝혔다. 김제 종자생명산업 혁신클러스터와 국립전북<b>스포츠<\/b>종합훈련원 건립 사업도 적극적인 검토를... ",
+			"pubDate":"Tue, 19 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"호남정책협 지원, 예산으로 담보돼야",
+			"originallink":"http:\/\/www.jjn.co.kr\/news\/articleView.html?idxno=915904",
+			"link":"http:\/\/www.jjn.co.kr\/news\/articleView.html?idxno=915904",
+			"description":"이날 회의에는 국민의힘 권성동 당 대표 <b>직무<\/b>대행 겸 원내대표, 성일종 정책위의장, 김성원... 윤석열 대통령의 전북 공약인 국립 전북<b>스포츠<\/b>종합훈련원, 국제 태권도 사관학교, 새만금 산업단지 임대용지, 새만금 지역간... ",
+			"pubDate":"Tue, 19 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"[인사] 울진군",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2107504",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2107504",
+			"description":"(과장 <b>직무<\/b>대리) 배경환 △해양수산과(과장 <b>직무<\/b>대리) 이상업 △체육진흥사업소 장경희 △기획예산실... (운영1팀장)임선옥 △체육진흥사업소(<b>스포츠<\/b>마케팅팀장)김형삼 △체육진흥사업소(도민체전T\/F팀장)황원용 △평해읍... ",
+			"pubDate":"Tue, 19 Jul 2022 17:42:00 +0900"
+		},
+		{
+			"title":"김관영 전북지사, 국민의힘과 국가예산 확보 협치",
+			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/625354",
+			"link":"http:\/\/www.sentv.co.kr\/news\/view\/625354",
+			"description":"이날 회의에는 국민의힘 권성동 당대표 <b>직무<\/b>대행 및 원내대표, 성일종 정책위의장, 김성원 예결위간사... 이어 윤 대통령의 전북 지역공약이자, 국정과제 ’모두를 위한 <b>스포츠<\/b>, 촘촘한 <b>스포츠<\/b> 복지실현‘에 해당되는... ",
+			"pubDate":"Tue, 19 Jul 2022 17:30:00 +0900"
+		},
+		{
+			"title":"체육진흥공단, <b>스포츠<\/b>산업 취업 멘토링 1기 참여자 모집",
+			"originallink":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022071916523080339",
+			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022071916523080339",
+			"description":"공단에 따르면 이번 멘토링 프로그램은 △<b>스포츠<\/b>행정 △<b>스포츠<\/b>에이전트 △<b>스포츠<\/b>데이터 분석 △<b>스포츠<\/b>마케팅 △<b>스포츠<\/b>트레이너 분야 멘토들과 <b>직무<\/b>별·그룹별 1:1 멘토링을 갖고 취업 노하우를 소통하는 과정으로... ",
+			"pubDate":"Tue, 19 Jul 2022 17:00:00 +0900"
+		},
+		{
+			"title":"[인사] 경북 울진군",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022071916465832105",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000767272?sid=004",
+			"description":"◆울진군 〈5급 승진〉▷체육진흥사업소 장경희 ▷해양수산과장 <b>직무<\/b>대리 이상업 ▷열린민원과장 <b>직무<\/b>대리... 임선옥 ▷<b>스포츠<\/b>마케팅팀장 김형삼 ▷도민체전T\/F팀장 황원용 ▷평해읍 산업팀장 도영욱 ▷금강송면... ",
+			"pubDate":"Tue, 19 Jul 2022 16:51:00 +0900"
+		}
+	]
+}

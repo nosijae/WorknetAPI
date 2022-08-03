@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:20 +0900",
+	"total":26405,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>정보통신<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977046&cid=42114&categoryId=42114",
+			"description":"(2) 주요 업무 ① <b>정보통신<\/b>기사는 <b>정보통신<\/b> 관련 공학적 이론지식과 기술을 바탕으로 <b>정보통신<\/b> 시스템의 설계, 구축, 운영 및 유지보수에 관한 <b>직무<\/b>를 수행한다. ② <b>정보통신<\/b>기사는 휴대폰단말기나 PDA 등의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100649969_ZSUC5N8LG.jpg\/da6_238_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보통신<\/b>감리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028652&cid=42117&categoryId=42117",
+			"description":" <b>정보통신<\/b>시설물의 설치·보수공사에서 공사전반에 대한 관리(품질관리, 시공관리, 자재관리, 환경관리, 안전관리 등)를 하며 설계도서 및 기타 관계 서류의 내용대로 시공되었는지 감독·확인한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977048&cid=42114&categoryId=42114",
+			"description":" <b>정보통신<\/b>산업기사란 응시자격을 갖춘 자가 한국방송<b>통신<\/b>전파진흥원에서 시행하는 <b>정보통신<\/b>산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과해야 한다. [ 1.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100650196_RH0QEI5BX.jpg\/da6_240_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977047&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) <b>정보통신<\/b>기술사 ① <b>정보통신<\/b>기술사란 한국방송<b>통신<\/b>전파진흥원에서 시행하는 <b>정보통신<\/b>기술사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 유선 및 무선을 포함하는 전기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210628190220798_Z1LZAYKR9.jpg\/da6_239_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보<\/b>처리<b>직무<\/b>분야",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=298645&cid=60362&categoryId=60362",
+			"description":"1. <b>정보<\/b>처리업 2. 게임소프트웨어개발업 3. 애니메이션제작업 4. 영상게임기제작업 5. <b>정보통신<\/b>기기제조업 6. 방위산업 ❍ 사용례 - <b>정보<\/b>처리 <b>직무<\/b>분야 기능요원 편입, 소지자, 관련학과 전공",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383744&cid=42279&categoryId=42279",
+			"description":"특히 <b>정보통신<\/b>자기소개서를 작성할 때에는 해당 <b>직무<\/b>와 관련한 경력 및 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122130825_QSW8YD609.jpg\/hb10_22711_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"한국<b>정보통신<\/b>대학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"한국<b>정보통신<\/b>대학교 (韓國情報通信大學校, Information and Communications University)는 대한민국의 대전광역시 대덕연구단지 내에 설립된 IT계열 특성화 대학이다. <b>정보통신<\/b>부 및 다수의 IT관련업체, ETRI... ",
+			"thumbnail":""
+		},
+		{
+			"title":"열차<b>정보통신<\/b>관제사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025831&cid=42117&categoryId=42117",
+			"description":" 열차의 안전운행을 위하여 열차운행에 필요한 <b>통신<\/b>시설을 중앙감시 및 제어한다. [수행<b>직무<\/b>] 열차종합사령실에서 음성 및 화상과 관련된 무선<b>통신<\/b>, 전화, 방송 및 폐쇠회로티비의 데이터 전송을 감시 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b> 산업통계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1526303&cid=42238&categoryId=42243",
+			"description":"<b>정보통신<\/b>산업 분야 통계로는 한국<b>정보통신<\/b>진흥협회와 한국전자<b>정보통신<\/b>산업진흥회가 공동으로 조사하는 <b>정보통신<\/b>산업실태조사와 월별<b>정보통신<\/b>주요품목동향조사, <b>정보통신<\/b>부문인력동향실태조사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20130205214105074_O76LVQLK3.jpg\/m8_s6.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보통신<\/b>윤리위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EC%9C%A4%EB%A6%AC%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"<b>정보통신<\/b>윤리위원회 는 <b>정보통신<\/b>망의 급증에 따라 불건전 <b>정보<\/b>의 유통이 새로운 사회적 문제로... 2008년 2월, 「방송<b>통신<\/b>위원회의 설치 및 운영에 관한 법률」에 따라 방송<b>통신<\/b>심의위원회로 <b>직무<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 과학기술<b>정보통신<\/b>부 차관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%B6%80_%EC%B0%A8%EA%B4%80",
+			"description":"그 <b>직무<\/b>를 대행한다. 역대 차관 체신부 차관 <b>정보통신<\/b>부 차관 과학기술처 차관 과학기술부 차관 교육과학기술부 차관 교육과학기술부 제1차관 교육과학기술부 제2차관 지식경제부 차관 지식경제부 제1차관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 과학기술<b>정보<\/b>방송<b>통신<\/b>위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%A0%95%EB%B3%B4%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"과학기술<b>정보<\/b>방송<b>통신<\/b>위원회로 개편 <b>직무<\/b> 소관 부처 과학기술<b>정보통신<\/b>부 방송<b>통신<\/b>위원회 원자력안전위원회 위원 명단 소위원회 소관 법률 각주 외부 링크 과학기술<b>정보<\/b>방송<b>통신<\/b>위원회 공식... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>통신<\/b><b>정보<\/b>관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832736&cid=42117&categoryId=42117",
+			"description":" 주전산기에 입력할 각종 <b>정보<\/b>를 정리·분석하고 신규서비스를 제공하기 위하여 자료를 개발·관리하는 업무를 수행한다. [수행<b>직무<\/b>] 장기사업계획에 따른 입력<b>정보<\/b>의 종류 및 수량을 확인하고 관련 자료를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>통신<\/b>고객<b>정보<\/b>분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024582&cid=42117&categoryId=42117",
+			"description":" 무선, 유선, 인터넷 등 <b>통신<\/b>이용고객의 인적사항 및 접속패턴에 관한 통계를 수집·분석하여 각 부서에 전달한다. [수행<b>직무<\/b>] 가입자 개인별 연령, 직업, 지역에 관한 통계를 파악하고, 가입기간, 가입자현황... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이동<b>통신<\/b>단말<b>통신<\/b>기능개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028642&cid=42117&categoryId=42117",
+			"description":" 이동<b>통신<\/b> 단말에 <b>통신<\/b>기능을 구현하기 위하여 모뎀 프로토콜 및 각종 <b>통신<\/b>기술을 개발하고 검증한다. [수행<b>직무<\/b>] 이동<b>통신<\/b> 단말의 기능, 요구조건, 제약사항(데이터<b>통신<\/b>서비스의 대역폭, 하드웨어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>통신<\/b>관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627227&cid=42117&categoryId=42117",
+			"description":" <b>정보통신<\/b> 또는 전산 부서의 종사자들을 지휘·감독하고 경영주 또는 기술진의 특정한 <b>정보<\/b> 요구사항을 검토하여 프로젝트의 성격을 규정한다. [수행<b>직무<\/b>] <b>정보통신<\/b> 설계, 시공 및 시스템 유지보수, 성능개선, SI... ",
+			"thumbnail":""
+		},
+		{
+			"title":"발전<b>통신<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028747&cid=42117&categoryId=42117",
+			"description":" 발전소의 보안설비, 인터넷, 사무자동화설비, 전력·<b>통신<\/b>설비 등 각종 <b>정보<\/b>·<b>통신<\/b>설비를 유지·관리·운영하기 위한 제반 기술공무를 수행한다. [수행<b>직무<\/b>] 발전소의 효율적 운영을 위하여 <b>정보<\/b>·<b>통신<\/b>설비에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련 전문직 및 사무직, 연구 관련직, <b>정보통신<\/b>·방송 관련 기술·기능직 등 14개 분야의 74개 <b>직무<\/b>가 있다.  출처: 게티이미지 코리아 '신중년 적합<b>직무<\/b>'란... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>정보<\/b>처리기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1224033&cid=40942&categoryId=32837",
+			"description":" <b>정보<\/b>처리 능력 자격증을 취득한 전문가.  1974년 <b>정보<\/b>처리기사 1급으로 신설된 뒤 1999년 현재의... 2020년 1월 1일부터 국가<b>직무<\/b>능력표준(NCS)을 기반으로 시험과목이 개편되어 시행되었다. 시험은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보<\/b>처리기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054145&cid=42114&categoryId=42114",
+			"description":" <b>정보<\/b>처리기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>정보<\/b>처리기사 시험에 합격하여 그 자격을 취득한 자를 말한다. <b>정보<\/b>처리기사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100802674_HGRGX094V.jpg\/da6_559_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>통신<\/b>기기판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026039&cid=42117&categoryId=42117",
+			"description":" <b>통신<\/b>기기를 소비자에게 판매한다. [수행<b>직무<\/b>] 유·무선 전화기, 휴대용 전화기, 팩스 등을 제조사로부터 구입하여 소비자에게 판매한다. 소비자가 원하는 물품을 파악하여 구매하는 데에 도움을 준다. 재고량을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보<\/b>처리기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977045&cid=42114&categoryId=42114",
+			"description":"영역에서 <b>정보<\/b>처리에 관한 숙련기능을 가지고, 컴퓨터 시스템의 운용 및 개발 업무를 수행한다. (3) 과정평가형 자격제도   ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(NCS)에 기반하여 일정 요건을 충족하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801151518957_KN6RJIO6W.jpg\/da6_237_i6.jpg?type=m160_160"
+		},
+		{
+			"title":"방송<b>통신<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977024&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) 자격 개요 ① 방송<b>통신<\/b>기사란 한국방송<b>통신<\/b>전파진흥원에서 시행하는 방송<b>통신<\/b>기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 전기<b>통신<\/b>은 교환계와 전송계로 나눌 수 있으며, 이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210628155555659_B96LFFUXA.jpg\/da6_216_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보<\/b>보안기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2456543&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) <b>정보<\/b>보안기사 ① <b>정보<\/b>보안기사란 응시자격을 갖춘 자가 한국방송<b>통신<\/b>전파진흥원에서 시행하는 <b>정보<\/b>보안기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>정보<\/b>보안기사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220613154257328_14FQSH804.jpg\/da6_736_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>통신<\/b>서비스개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658605&cid=42117&categoryId=42117",
+			"description":" 유선·무선상품에 대한 신규 및 부가서비스를 개발·보급한다. [수행<b>직무<\/b>] 월드뉴스, 해외전기<b>통신<\/b>동향 및 경쟁사의 동향을 모니터링하여 사업성을 갖춘 아이디어를 도출한다. 선별아이디어의 사업타당성 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"컴퓨터<b>정보<\/b>과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5682582&cid=44346&categoryId=44346",
+			"description":"이러한 시대의 흐름에 맞추어 컴퓨터<b>정보<\/b>과는 <b>정보<\/b>기술 분야를 중심으로 컴퓨터 시스템 및 <b>정보통신<\/b> 분야의 기초 지식에 대한 이해를 바탕으로 IT분야에서 <b>직무<\/b> 능력을 수행할 수 있도록 교육하는데요.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전력<b>통신<\/b>기술연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665244&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 전력설비의 효율적 운영을 위한 <b>정보통신<\/b>망을 관리한다. 전력설비의 자동화시스템을 구축하기 위하여 전력자동화, 전력<b>통신<\/b> 신기술, 전력선<b>통신<\/b>(PLC:Power Line Communication)기술, 위성<b>통신<\/b>망... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방송<b>통신<\/b>심의위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1283717&cid=40942&categoryId=34567",
+			"description":"기존의 방송위원회와 <b>정보통신<\/b>윤리위원회의 <b>직무<\/b>를 통합하여 설치된 독립기구이다. 설립 목적은 방송 내용의 공공성과 공정성을 보장하고 <b>정보 통신<\/b>상에서의 건전한 문화를 창달하며 올바른 이용 환경을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방송<b>통신<\/b>심의위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=935788&cid=43667&categoryId=43667",
+			"description":"심의<b>직무<\/b>와 <b>정보통신<\/b>윤리위원회의 <b>직무<\/b>를 통합하여 민간독립기구인 방송<b>통신<\/b>심의위원회가 설립되었다. 기구는 4개의 소위원회(방송심의소위원회, 광고심의소위원회, <b>통신<\/b>심의소위원회... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보<\/b>처리산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054146&cid=42114&categoryId=42114",
+			"description":" <b>정보<\/b>처리산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>정보<\/b>처리산업기사 시험에 합격하여 그 자격을 취득한 자를... 기본<b>정보<\/b>] (1) 자격분류 : 국가기술자격증 (2) 시행기관... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20170712203910330_ORLUOJT80.jpg\/da6_560_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>통신<\/b>설비기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977057&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) 자격 개요 ① 우리의 생활을 편리하게 해주는 <b>통신<\/b>의 발달로 인해 <b>통신<\/b>설비들이 더욱더 정교화, 복잡화 되면서 각종 <b>정보<\/b>를 신속하고 정확하게 전달하고 있다. ② 전문지식과 오랜 경험에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210630184055741_Z701QLXFI.jpg\/da6_249_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보<\/b>관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054144&cid=42114&categoryId=42114",
+			"description":"기본<b>정보<\/b>] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격<b>정보<\/b>] (1) 자격 개요 ① 현대 <b>정보<\/b>화사회에서는 지식과 <b>정보<\/b>의 양이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160106185927695_V25G2OAQE.jpg\/da6_558_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"방송<b>통신<\/b>기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977023&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) 자격 개요 ① 방송<b>통신<\/b>기능사란 한국방송<b>통신<\/b>전파진흥원에서 시행하는 방송<b>통신<\/b>기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 전기<b>통신<\/b>은 교환계와 전송계로 나눌 수 있으며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210628140406118_UDXNPND3C.jpg\/da6_215_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"철도<b>통신<\/b>설비관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024479&cid=42117&categoryId=42117",
+			"description":" <b>통신<\/b>시설의 유지·보수 및 공사의 시공감독과 기타 부대업무를 총괄하고, 소속 직원을 지휘·감독한다. [수행<b>직무<\/b>] <b>통신<\/b>선로 및 전송설비를 포함한 <b>통신<\/b>설비의 유지·보수 및 개량에 관한 계획을 수립하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>통신<\/b>선로기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977055&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) <b>통신<\/b>선로기능사 ① <b>통신<\/b>선로기능사란 한국방송<b>통신<\/b>전파진흥원에서 시행하는 <b>통신<\/b>선로기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>통신<\/b>기술의 발달에 따라 유선<b>통신<\/b>에 대한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210629190248347_D9DBIC7KE.jpg\/da6_247_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>통신<\/b>기기개통사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026038&cid=42117&categoryId=42117",
+			"description":" <b>통신<\/b>기기 판매대리점에서 <b>통신<\/b>기기 개통과 요금수납 업무를 한다. [수행<b>직무<\/b>] 고객에게 가입신청서 작성을 요청한다. 가입신청서 작성에 대하여 조언한다. 작성된 가입신청서를 검토하여 미비점을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보<\/b>보호최고책임자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627221&cid=42117&categoryId=42117",
+			"description":" 기업의 <b>정보통신<\/b>시스템 등에 대한 보안 및 <b>정보<\/b>의 안전한 관리 등 <b>정보<\/b>보호 업무를 책임진다. [수행<b>직무<\/b>] <b>정보통신<\/b>망의 안정성·신뢰성 확보를 위하여 관리적·기술적·물리적 보호조치를 포함한 종합적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방송<b>통신<\/b>위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3331185&cid=42192&categoryId=56849",
+			"description":"현재의 방송<b>통신<\/b>위원회는 2008년에 방송과 <b>통신<\/b>의 융합이라는 시대적인 변화의 요구를 수용하기 위하여 방송위원회와 <b>정보통신<\/b>부가 통합하여 새롭게 탄생한 것이다. 이 위원회는 방송과 <b>통신<\/b>의 융합 환경에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>통신<\/b>기술표준화연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658637&cid=42117&categoryId=42117",
+			"description":"<b>정보통신<\/b>서비스 및 <b>통신<\/b>망장비의 동작 여부 확인, 장비의 호환성 확보, 신뢰성 있는 <b>통신<\/b>망 구현을 위하여 <b>통신<\/b>프로토콜 적합성 및 상호운용성시험을 실시한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보<\/b>기기운용기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977044&cid=42114&categoryId=42114",
+			"description":"(2) 주요 업무   ① <b>정보<\/b>기기운용기능사는 사무업무의 효율성을 도모하기 위해 각종 <b>정보<\/b>의 교환수단인 개인용 컴퓨터, 팩시밀리, 복사기, 복합기, 화상<b>통신<\/b>시스템, 비디오텍스시스템, 광비디오장치 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801151518705_IN7U1AZM4.jpg\/da6_236_i5.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보<\/b>처리기술학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025354&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 수강생들에게 전산구조, PC운영체제, 시스템분석, <b>정보통신<\/b>시스템 등에 대한 이론을 가르치고 장비·부품에 대해 설명한다. 회로구성, 동작측정, 작품제작, 모의시설 활용 및 응용프로그램 제작과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전파전자<b>통신<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977043&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) 자격 개요 ① 전파전자<b>통신<\/b>기사란 한국방송<b>통신<\/b>전파진흥원에서 시행하는 전파전자<b>통신<\/b>기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 모스부호를 이용하던 선박들이 컴퓨터... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210623133222255_LY6G2K9NQ.jpg\/da6_235_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"방송<b>통신<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977025&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) 자격 개요 ① 방송<b>통신<\/b>산업기사란 한국방송<b>통신<\/b>전파진흥원에서 시행하는 방송<b>통신<\/b>산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 전기<b>통신<\/b>은 교환계와 전송계로 나눌 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210628152749709_8LOWZHMGQ.jpg\/da6_217_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>통신<\/b>선로산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977056&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) <b>통신<\/b>선로산업기사 ① <b>통신<\/b>선로산업기사란 한국방송<b>통신<\/b>전파진흥원에서 시행하는 <b>통신<\/b>선로산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 유선<b>통신<\/b>에 관한 전문지식과 기술을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210630181441499_WIUGK1VWI.jpg\/da6_248_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"우정사업<b>정보<\/b>센터",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B0%EC%A0%95%EC%82%AC%EC%97%85%EC%A0%95%EB%B3%B4%EC%84%BC%ED%84%B0",
+			"description":"약 300여명의 공무원으로 구성 <b>직무<\/b> 우체국예금·우체국보험·우편환·우편대체 등에 관한... 1994년 12월 23일: <b>정보통신<\/b>부 소속 <b>정보통신<\/b>부전산관리소로 개편. 1996년 10월: 전국 우체국(3,467국) 우편... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전파전자<b>통신<\/b>기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977062&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) 자격 개요 ① 전파전자<b>통신<\/b>기능사란 한국방송<b>통신<\/b>전파진흥원에서 시행하는 전파전자<b>통신<\/b>기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 모스부호를 이용하던 선박들이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210623111742848_5QBAH8Y2F.jpg\/da6_254_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>통신<\/b>전기원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028782&cid=42117&categoryId=42117",
+			"description":" 발전<b>통신<\/b>원을 보조하여 발전소의 <b>정보<\/b>·<b>통신<\/b>설비를 유지·관리한다. [수행<b>직무<\/b>] <b>통신<\/b>선로를 순찰하며 경비용 인터폰, CCTV 및 적외선감지설비 등의 보안선로 및 <b>통신<\/b>선로의 이상 유무를 점검한다. 비상사태 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>통신<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1834762&cid=42114&categoryId=42114",
+			"description":"자격<b>정보<\/b>] (1) <b>통신<\/b>사 ① <b>통신<\/b>사란 한국해양수산연수원에서 시행하는 해기사 시험에 합격하여 <b>통신<\/b>사 면허를 취득한 자를 말한다. 무선<b>통신<\/b>사와 구분하여 선박<b>통신<\/b>사라고도 한다. ② 선박<b>통신<\/b>사는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20130425110602680_LVYGATF85.jpg\/da6_666_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"접근 제어 <b>정보<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=848712&cid=50371&categoryId=50371",
+			"description":"접근 제어를 목적으로 사용되는 <b>정보<\/b>. 컴퓨터 자원, <b>통신<\/b> 자원, <b>정보<\/b> 자원 등에 대하여 허가되지 않은... 등 신분 기반 <b>정보<\/b>, 비밀 허용 등급 및 범주, 다중 단계\/부서 등 규칙 기반 <b>정보<\/b>, <b>직무<\/b> 기반 <b>정보<\/b> 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"LG<b>정보통신<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650570&cid=43167&categoryId=43167",
+			"description":" 1976년 대한반도체로 출범하여 2000년 LG전자에 흡수합병된 종합<b>정보통신<\/b>회사.  LG<b>정보통신<\/b>(주)의 전신은 1976년 10월 세워진 대한반도체(주)이다. 그 뒤 1979년 8월 금성반도체(주)를 거쳐, 1990년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=646117&cid=43124&categoryId=43124",
+			"description":" <b>정보<\/b>, <b>통신<\/b>, 우편에 관한 사무를 관장하던 중앙행정기관이었다. 2008년 2월 29일 정부조직법 개정에 따라 <b>정보통신<\/b>부의 기능과 업무는 각각 지식경제부, 문화체육관광부, 방송<b>통신<\/b>위원회로 분리 이관됐다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=796905&cid=42347&categoryId=42347",
+			"description":"<b>정보통신<\/b>이란 전기<b>통신<\/b>회선에 문자, 부호, 영상, 음향 등 <b>정보<\/b>를 저장처리하는 장치와 그에 부수되는 입출력 장치 또는 기타의 기기를 접속하여 <b>정보<\/b>를 송신, 수신 처리하는 전기<b>통신<\/b>을 말한다. 데이터(Data)란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0787_000_1\/20111107205556876_W5JHNM910.jpg\/ka2_654_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보통신<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=547153&cid=46625&categoryId=46625",
+			"description":" <b>정보통신<\/b>·전파관리·우편·우편환·우편대체·체신예금 및 체신보험에 관한 사항을 관장하는 중앙행정기관. [내용] 21세기 <b>정보<\/b>화사회에 능동적으로 대처하고 <b>정보통신<\/b> 산업 분야를 국가발전 산업 분야로 집중... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1166535&cid=40942&categoryId=34709",
+			"description":" <b>정보통신<\/b>·전파관리·우편·우편환·우편대체·체신예금·체신보험 등에 관한 사무를 관장했던 중앙행정기관이다. 그러나 2008년 2월 정부조직법 개정에 따라, 일부는 산업자원부, 과학기술부 일부와 통합하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_79\/20181120183601633_56TS54TPK.jpg\/229617.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보 통신<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=753548&cid=42341&categoryId=42341",
+			"description":"결합시켜 <b>정보 통신<\/b> 기술로서 융합 · 일체화하여 더욱 발전하고 있다. 또, 이용자측의 요구로서도 <b>정보<\/b>의 종합적인 처리, 컴퓨터 및 <b>통신<\/b> 회선의 효율적인 이용의 요구에 따라 데이터 <b>통신<\/b>과 같이 전기 <b>통신<\/b>과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>시장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=9239&cid=43659&categoryId=43659",
+			"description":"이러한 정의에 의하면 <b>정보통신<\/b>시장은 컴퓨터와 <b>통신<\/b>이 결합하여 형성되는 각종 장치 및 소프트웨어 서비스 시장으로 총칭하여 말할 수 있다. <b>정보통신<\/b>시장은 전화와 전신 그리고 교환·전송 기술에 의해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=9238&cid=43659&categoryId=43659",
+			"description":"<b>정보통신<\/b>산업은 <b>정보<\/b>와 <b>통신<\/b>에 관련된 산업으로 넓게 해석도 하지만 개념이 불명확해지므로 전기<b>통신<\/b>방송의 전부와 <b>정보<\/b>처리의 일부(온라인의 부분)에 한정하는 것이 타당하다. 또 <b>정보통신<\/b>산업이라는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>통신<\/b>서비스메뉴관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551150&cid=42117&categoryId=42117",
+			"description":"새로운 상품을 <b>정보<\/b>제공자관리원, 웹서비스기획원 등으로부터 받아 서비스 내의 분류상품명을 결정하여 구조 내에 삽입한다. 메뉴의 개편에 따라 하위디렉토리(Sub-Directory)를 만들거나 통폐합하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>기술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=960443&cid=47311&categoryId=47311",
+			"description":" <b>정보통신<\/b>기술(ICT) : <b>정보<\/b>를 주고받는 것은 물론 개발, 저장, 처리, 관리하는 데 필요한 모든 기술.  얼마 전에 할머니께서 휴대전화를 사주셨어. 엄마는 아이가 무슨 휴대전화냐고 하셨지만 할머니는 “요즘... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1779_000_1\/20120405165021655_KZOXBRAO3.jpg\/bh7_59_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=547152&cid=46631&categoryId=46631",
+			"description":"[개설] 우리나라에서는 1983년 12월에 제정된 「공중전기<b>통신<\/b>사업법」을 통해 <b>정보통신<\/b>이란 용어가 처음 법률적으로 규정되었다. 동 법에서 <b>정보통신<\/b>은 “전기<b>통신<\/b>회선에 문자·부호·영상·음향 등 <b>정보<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>기술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3342863&cid=40942&categoryId=32828",
+			"description":"<b>정보통신<\/b>기술(Information and Communication Technologies)은 <b>정보<\/b>기술(Information Technology)과 <b>통신<\/b> 기술(Communication Technology)의 합성어로, <b>정보<\/b>기기의 운영과 관리에 필요한 소프트웨어 기술과 이들 기술을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>기술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3477813&cid=58439&categoryId=58439",
+			"description":"ICT(Information &#38; Communication Technology)는 <b>정보<\/b> 기술(Information Technology, IT)과 <b>통신<\/b> 기술(Communication Technology, CT)의 합성어로 <b>정보<\/b>기기의 하드웨어 및 이들 기기의 운영 및 <b>정보<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>보안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=298836&cid=50307&categoryId=50307",
+			"description":"<b>정보통신<\/b> 수단에 의하여 처리, 저장, 소통되는 <b>정보<\/b>를 보호하거나 도청 및 해킹 등 외부위협으로부터 취약요인을 제거하기 위한 각종 수단과 방법을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917807&cid=44346&categoryId=44346",
+			"description":"그렇다면 <b>정보통신<\/b> 분야 또한 중요해지는 것이죠. <b>정보통신<\/b>과는 첨단 <b>통신<\/b> 분야(이동<b>통신<\/b>, 방송<b>통신<\/b> 등)의 전문지식을 쌓고 설계, 측정, 장비 운용 기술을 습득할 수 있고, 컴퓨터 시스템 및 네트워킹 분야의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>의 날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1209891&cid=40942&categoryId=34708",
+			"description":" <b>정보통신<\/b>의 중요성과 의의를 높이고 <b>정보통신<\/b>산업의 발전을 다짐하며, 관계 종사원들의 노고를 위로할 목적으로 제정한 날.  조선 후기인 1884년(고종 21) 4월 22일, 국내 최초의 <b>통신<\/b>업무 주무기관인 우정총국... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>정보통신<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0",
+			"description":"한국<b>정보통신<\/b> 은 신용카드 가맹점과 신용카드 발행회사를 온라인으로 연결, 카드 거래를 중계하고 수수료를 받는 사업을 영위하는 코스닥 상장기업이다. 매출구성은 신용카드 수수료 등이 97%, 신용카드... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=77656&cid=42155&categoryId=42155",
+			"description":"우편·전신환·우편 대체(對替)·전파관리 및 전기·<b>통신<\/b> 등에 관한 사무를 장리(掌理)하기 위해 설치된 체신부가 1994년 정부조직 개편시 상공자원부의 일부 <b>정보통신<\/b>산업 관련 기능을 이양받아 출범한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"KCC<b>정보통신<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/KCC%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0",
+			"description":"KCC<b>정보통신<\/b> (KCC I&#38;C)은 1967년 설립된 국내 최초의 소프트웨어\/시스템통합 기업이다. 각주",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>의 날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=547154&cid=46625&categoryId=46625",
+			"description":" <b>정보통신<\/b>의 중요성과 의의를 높이고, <b>정보통신<\/b>사업의 발전을 다짐하며 관계 종사자들의 노고를 위로하기 위해 제정된 기념일. [내용] 1884년 12월 4일 우정총국 개설축하연을 배푼 날을 기념해 정부는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20170812152829155_E9KFQE1LR.jpg\/11ff79a9-cf6f-45.jpg?type=m160_160"
+		},
+		{
+			"title":"LG<b>정보통신<\/b>(주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1191912&cid=40942&categoryId=34657",
+			"description":" 1979년 금성반도체(주)로 출발해 2000년 LG전자(주)에 흡수합병된 종합<b>정보통신<\/b>회사이다.  1979년 9월 금성반도체(주)로 설립되어 1979년 12월 구미 반도체 공장을 준공하고, 1983년 5월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1140460&cid=40942&categoryId=31898",
+			"description":"또, <b>정보통신<\/b>산업이란 용어에는 정서적 뜻이 짙으므로, 과학적 분석에 마이너스적인 요소를 피하자면 <b>정보<\/b>네트워크산업이라는 용어를 쓰는 것이 좋다. 다만 분석할 필요가 있어서 관련산업을 동시에 다루는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_66\/20181112195452953_RCN7PPW7W.jpg\/547718.jpg?type=m160_160"
+		},
+		{
+			"title":"모다<b>정보통신<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3385458&cid=43167&categoryId=43167",
+			"description":"모다<b>정보통신<\/b>(주)은 1991년 12월 <b>통신<\/b>망관리 소프트웨어 개발 전문기업으로 설립되었으며, 현재는 무선데이터<b>통신<\/b> 단말기 사업을 주력으로 하고 있다. 1992년 모다콤기술연구소를 세웠다. 1998년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>윤리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=16492&cid=43659&categoryId=43659",
+			"description":"<b>정보통신<\/b>망이 확산되고 <b>정보<\/b>화가 진전되면서 새로운 유형의 부작용이 일어나고 있다. 인터넷에 무제한으로 유통되는 음란물과 폭력물, 욕설과 사생활 침해, 해킹, <b>정보<\/b>의 위조와 변조, 불법복제 등이 확산됨에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보 통신<\/b> 윤리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6481488&cid=40942&categoryId=32828",
+			"description":"이에 따라 인터넷 환경의 부정적 효과를 최소화하기 위한 사회의 통념적 규범이 필요하다는 공감대가 형성되었으며, 인터넷 공간상에서 지켜야할 규범 및 행동 양식으로 '<b>정보 통신<\/b> 윤리'의 개념이 등장하게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>시방서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2046275&cid=42279&categoryId=42279",
+			"description":"<b>정보통신<\/b>시방서는 <b>정보통신<\/b> 공사 전반에 대해 시공상 지켜야 할 기술적인 사항을 규정한 문서를 말한다. <b>정보통신<\/b> 공사의 범위로는 전화, TV, 방송시설 및 기타 <b>정보통신<\/b> 관련시설 등이 있다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128234308448_X2EPG4M85.jpg\/hb10_9969_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보통신<\/b>의 날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=71912&cid=43667&categoryId=43667",
+			"description":"| 기념일 날짜 | 4월 22일 | 출처: 게티이미지 코리아 '<b>정보통신<\/b>의 날'은 조선 후기인 1884년(고종 21) 4월 22일, 국내 최초의 <b>통신<\/b>업무 주무기관인 '우정총국'이 개설된 날을 기념하는 한편 <b>정보통신<\/b>의... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxOTAzMDVfNzAg%2FMDAxNTUxNzYxODUzNDM0.aiRVhy7HPx3kTw26tCCx7Ljo-j0cxNJwFTV7CC5TDx4g.HMAwWuDWqx0aNzQoCT0FjnCzx-lF6oXTXRcrwXE1Xc8g.JPEG%2FIQc_INQAGN-FDzy9lwL2uMnk8vyE.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x540#c540"
+		},
+		{
+			"title":"초고속<b>정보통신<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=10234&cid=43659&categoryId=43659",
+			"description":"초고속<b>정보통신<\/b> 사업은 음성·문자·영상 등 각종 멀티미디어 <b>정보<\/b>를 필요한 곳으로 빠르게 보낼 수 있도록 오는 2015년까지 전국을 광케이블로 연결하는 사업이다. 전송속도가 일반 전화망보다 7백배... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>부 시대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2052534&cid=42348&categoryId=42350",
+			"description":"[ 가. <b>정보통신<\/b>부 발족] 1990년대에 접어들어 세계는 새로운 질서를 통해 급속히 재편되었다. 따라서 새로운 세계 질서에 능동적으로 대처하고 선진 대열에 조속히 진입하기 위해서는 이에 걸맞는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b> (구미)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2586385&cid=51932&categoryId=54294",
+			"description":"[정의] 경상북도 구미시에서 전자 <b>통신<\/b>망을 통해 <b>정보<\/b>를 주고받는 활동. [개설] <b>정보통신<\/b>이란 <b>정보<\/b>의 수집·가공·저장·검색·송신·수신 및 그 활용과 이에 관련되는 기기·기술·역무 기타 <b>정보<\/b>화를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b> (울릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2616903&cid=51936&categoryId=54503",
+			"description":"[정의] 경상북도 울릉군에서 컴퓨터와 <b>통신<\/b>이 결합하여 형성된 각종 장치 및 소프트웨어의 총칭. [개설] <b>정보<\/b>와 <b>통신<\/b> 두 용어는 원래 별개의 용어로 사용되어 왔다. 그러나 사회 경제 활동의 신속·복잡·광역화... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b> (양산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2607844&cid=51941&categoryId=54757",
+			"description":"[정의] 경상남도 양산시에서 컴퓨터와 <b>통신<\/b>이 결합하여 형성된 각종 장치 및 소프트웨어의 총칭. [개설] <b>정보<\/b>와 <b>통신<\/b> 두 용어는 원래 별개의 용어로 사용되어 왔다. 그러나 사회 경제 활동의 신속·복잡·광역화... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2073333&cid=44414&categoryId=44414",
+			"description":"개념 및 정의] <b>정보통신<\/b>공학(情報通信工學, telecommunication engineering)이란 <b>정보<\/b>(information)를 전달하는 문제를 다루는 학문이다. 여기에 <b>정보<\/b>를 저장하고 처리하는 영역까지를 포함하면 광의의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140403184216635_2NVNS0XQ1.jpg\/z7_term35_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보통신<\/b>회선",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=796907&cid=42347&categoryId=42347",
+			"description":"<b>정보통신<\/b>회선은 <b>정보통신<\/b>을 하기 위해 제공된 전기<b>통신<\/b>회선을 말한다. 그 종류는 다음과 같다. (1) 일반교환회선 : 가입전화의 전화회선 또는 가입전신의 전신회선을 말한다. <b>정보통신<\/b>기기(<b>정보<\/b>를 저장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양자<b>정보통신<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3586014&cid=59277&categoryId=59282",
+			"description":"양자<b>정보통신<\/b>은 양자암호<b>통신<\/b>이나 양자 컴퓨팅 등 양자 관련 <b>정보통신<\/b>기술(ICT)을 총칭한다. 이 중 양자암호<b>통신<\/b>은 양자 기술로 생성한 암호키를 송수신 측에 안전하게 전달하는 방식으로, 중간에 도청이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4874_000_1\/20170420145033980_QAJQH21E9.jpg\/ka43_68_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보통신<\/b>학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%ED%95%99%EA%B5%90",
+			"description":"<b>정보통신<\/b>학교 는 대한민국 국군의 <b>통신<\/b>학교로 다음과 같다. 육군<b>정보통신<\/b>학교 해군<b>정보통신<\/b>학교 공군<b>정보통신<\/b>학교 같이 보기 제목에 &quot;<b>정보통신<\/b>학교&quot; 항목을 포함한 모든 문서",
+			"thumbnail":""
+		},
+		{
+			"title":"양자<b>정보통신<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5147528&cid=43659&categoryId=43659",
+			"description":"양자<b>정보통신<\/b>이란 물리적 최소 단위인 ＇양자(quantum)＇에 기반한 <b>통신<\/b>기술. 난수(亂數)로 <b>정보<\/b>를 암호한 뒤 이 <b>정보<\/b>를 양자에 실어 보내 제3자가 중간에서 <b>정보<\/b>를 가로챌 수 없고 가장 보안이 뛰어난... ",
+			"thumbnail":""
+		},
+		{
+			"title":"롯데<b>정보통신<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%A1%AF%EB%8D%B0%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0",
+			"description":"롯데<b>정보통신<\/b> (-精報通信, LOTTE Data Communication Company)은 첨단 <b>정보통신<\/b>기술(ICT)과 서비스를 기반으로 비즈니스 전환(Business Transformation)을 이끄는 IT 회사이다. 롯데전자는 1973년에 일본... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>기술",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B8%B0%EC%88%A0",
+			"description":"한국의 <b>정보통신<\/b>기술 규제 과학기술<b>정보통신<\/b>부는 2020년 5월 13일 ‘제9차 신기술·서비스 심의위원회’를 열고 규제 샌드박스 과제 8건을 심의, 총 7건의 임시허가‧실증특례... ",
+			"thumbnail":""
+		},
+		{
+			"title":"쌍용<b>정보통신<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8C%8D%EC%9A%A9%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0",
+			"description":"쌍용<b>정보통신<\/b> (Ssangyong Information &#38; Communications Corp. , 雙龍情報通信, そうりゅうじょうほうつうしん)은 대한민국 최초의 IT 서비스 기업이다. 주요 사업은 시스템통합, 네트워크 및 <b>통신<\/b> 사업, 소프트웨어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>보안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962479&cid=50300&categoryId=50300",
+			"description":"이는 경찰<b>정보통신<\/b> 수단에 의하여 처리, 저장, 소통되는 <b>정보<\/b>를 보호하는 것을 의미한다. 그리고 외부로부터 해킹이나 도청 등에 대한 위협을 제거하기 위한 여러 가지 수단과 방법을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>의 날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1023197&cid=50221&categoryId=50230",
+			"description":"과학기술<b>정보통신<\/b>부 주관으로 <b>정보통신<\/b>의 중요성과 의의를 높이고 발전을 다짐하며 <b>정보통신<\/b> 관계 종사자들의 노고를 위로하는 각종 기념행사를 한다. [내용] ‘<b>정보통신<\/b>의 날’의 유래는 조선시대 후기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>의 날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3587267&cid=59277&categoryId=59280",
+			"description":"1995년 3월 ‘<b>정보통신<\/b>의 날’로 이름을 다시 바꿨다. 체신부를 <b>정보통신<\/b>부로 바꾼 김영삼 정부의 조직 개편에 따른 변화였다. 2008년 2월엔 이명박 정부 조직 개편에 따라 ‘<b>정보통신<\/b>의 날’ 주관... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4874_000_1\/20170504193904957_WLHSEX2LY.jpg\/ka41_219_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보통신<\/b>의 날",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EC%9D%98_%EB%82%A0",
+			"description":"<b>정보통신<\/b>의 날 은 4월 22일이다. 대한민국 과학기술<b>정보통신<\/b>부와 대한민국 방송<b>통신<\/b>위원회 주관으로 <b>정보통신<\/b>의 중요성과 의의를 높이고 <b>정보통신<\/b>사업의 발전을 다짐하며 관계종사원들의 노고를 위로하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b> 항만",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1593024&cid=50328&categoryId=50328",
+			"description":"<b>정보통신<\/b> 항만해양과학용어사전 고도의 <b>정보통신<\/b> 설비를 갖춘 기지로 단순한 화물의 유통기지로서의 역할뿐만 아니라 <b>정보통신<\/b> 기능까지 수행하는 항만. 외국어 표기 telecommunication port(영어)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>제안서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831056&cid=42279&categoryId=42279",
+			"description":"<b>정보통신<\/b> 제안서는 방송 장비, 컴퓨터, 화상 전화 등과 같은 제품이나 컴퓨터 프로그램을 개발하고, 각종 인터넷 서비스 및 <b>통신<\/b> 서비스를 원활하게 해주는 업종에서 사업제안 및 투자 제안을 하고자 할 때... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20210917140158307_JFCXQ4ZSH.jpg\/hb10_3603_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술(ICT)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6024055&cid=67200&categoryId=67200",
+			"description":"<b>정보통신<\/b>기술(ICT)은 ICT(Information &#38; Communication Technology)는 <b>정보<\/b> 기술(Information Technology·IT)과 <b>통신<\/b> 기술(Communication Technology·CT)의 합성어로 <b>정보<\/b>기기의 하드웨어 및 기기의 운영... ",
+			"thumbnail":""
+		},
+		{
+			"title":"초고속 <b>정보통신<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062631&cid=42107&categoryId=42107",
+			"description":"적정한 가격(an affordable price)으로 국민 누구나가 언제 어디서든 원하는 <b>정보<\/b>를 창출하고 활용할 수 있도록 하는 최첨단 <b>정보통신<\/b> 시스템. 구체적으로는 멀티미디어에 의한 <b>통신<\/b>망 구축을 의미한다. 현재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지역<b>정보통신<\/b>센터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=9958&cid=43659&categoryId=43659",
+			"description":"정부 방침에 따라 한국<b>통신<\/b>에서 구축하는 지역<b>정보통신<\/b>센터는 21세기의 지방화시대와 ISDN, 위성<b>통신<\/b> 등 고기능<b>정보통신<\/b>마을의 출현에 대비하여 지역<b>정보<\/b>화의 거점으로서 전국 도단위 지역에 구축된다. 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>정보통신<\/b>공사업법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1233660&cid=40942&categoryId=31721",
+			"description":" <b>정보통신<\/b>공사의 조사·설계·시공·감리·유지관리·기술관리 등에 관한 기본 사항과 <b>정보통신<\/b>공사업의 등록 및 <b>정보통신<\/b>공사의 도급 등에 관해 필요한 사항을 규정함으로써 <b>정보통신<\/b>공사의 적정한 시공과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아태<b>정보통신<\/b>기반",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6968&cid=43659&categoryId=43659",
+			"description":"아태<b>정보통신<\/b>기반(APII)는 현재 각국이 추진 중인 초고속<b>정보통신<\/b>망을 연결하여 아시아·태평양지역의 <b>정보통신<\/b> 기반 구축을 의미하는 것으로 APEC회의에서 우리나라가 제의했다. 광케이블을 통해 동화상... ",
+			"thumbnail":""
+		}
+	]
+}

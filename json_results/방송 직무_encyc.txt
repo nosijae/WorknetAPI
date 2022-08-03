@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:38 +0900",
+	"total":1156,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>방송<\/b>산업 규제 구조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1691499&cid=42192&categoryId=42199",
+			"description":"현행 <b>방송<\/b>법상 <b>방송<\/b>정책에 대한 실질적 권한과 책임은 <b>방송<\/b>통신위원회가 가지고 있다. 그러나 대통령, 문화관광부 등도 <b>방송<\/b>법상에서 법적 지위를 확보하고 있다. <b>방송<\/b>통신위원회는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20130205220451896_FOG9HVSQT.jpg\/m65_s5.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>방송<\/b>위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=556661&cid=46668&categoryId=46668",
+			"description":"[기능과 역할] <b>방송<\/b>위원회의 <b>직무<\/b>는 <b>방송<\/b>법 제17조에 따라 ① <b>방송<\/b>의 운용·편성의 기본정책과 광고<b>방송<\/b>에 관한 사항, ② 특별법에 의하여 설립된 <b>방송<\/b>법인의 이사임명의 추천(한국<b>방송<\/b>공사이사회 이사 12인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>안내원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024874&cid=42117&categoryId=42117",
+			"description":" 열차역, 공항, 유원지, 백화점 등 공공장소에서 안내<b>방송<\/b>을 한다. [수행<b>직무<\/b>] <b>방송<\/b>안내 원고를 작성하거나 작성된 원고를 확인한다. <b>방송<\/b>시간을 확인한다. <b>방송<\/b>장비를 조작하여 안내<b>방송<\/b>을 한다. <b>방송<\/b>원고에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>심의위원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024421&cid=42117&categoryId=42117",
+			"description":" 라디오와 텔레비전의 <b>방송<\/b>내용, 대본 또는 편집이 완료된 드라마 등을 심의·평가한다. [수행<b>직무<\/b>] <b>방송<\/b>심의규정에 따라 민주질서 유지, 건전한 가정생활, 아동 및 청소년 보호, 공중도덕 및 사회윤리, 양성평등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전파<b>방송<\/b>통신인재개발교육원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1204440&cid=40942&categoryId=34709",
+			"description":"교육과정은 국내외 전파환경의 변화에 대처하는 능력을 함양하기 위한 전파 전문교육, 급변하는 <b>방송<\/b>환경에 대응하여 현업 <b>방송<\/b>인들의 <b>직무<\/b>능력을 향상하기 위한 <b>방송<\/b> 및 영상 전문교육, 보편적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>편집기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664944&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>프로그램의 특성에 맞게 촬영한 영상물을 재구성하여 편집한다. [수행<b>직무<\/b>] <b>방송<\/b>대본을 검토하여 전체적인 분위기 및 흐름을 파악하고 <b>방송<\/b>프로듀서(<b>방송<\/b>연출가)와 협의하여 편집방향을 결정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중계<b>방송<\/b>기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028761&cid=42117&categoryId=42117",
+			"description":" 운동경기, 뉴스 등의 인공위성을 통한 <b>방송<\/b>이나 국내<b>방송<\/b>을 중계한다. [수행<b>직무<\/b>] <b>방송<\/b>수요 발생 시 송수신 요청을 받아 시간을 결정한다. 해외사업자 또는 국내사업자와 조정을 하여 통신회사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>설비기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028626&cid=42117&categoryId=42117",
+			"description":" 라디오와 텔레비전 <b>방송<\/b>설비의 구입·설치·보수에 관련된 활동을 지시·조정한다. [수행<b>직무<\/b>] <b>방송<\/b>설비 및 <b>방송<\/b>방식의 효율성, 기술적인 개선 등을 고려하여 새로운 <b>방송<\/b>설비의 증설 또는 구입의 타당성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>기기정비원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026332&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>기자재(카메라, 조명, 중계차, 스튜디오 장비 등)를 정기점검하고 유지보수한다. [수행<b>직무<\/b>] <b>방송<\/b>기자재의 구입연도, 규격, 종류 등을 검토하여 정기적인 보수계획을 수립한다. 보수요구서를 확인하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>연출보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025795&cid=42117&categoryId=42117",
+			"description":" 연출가 및 조연출가의 지시·감독을 받으며 <b>방송<\/b>프로그램 제작을 보조한다. [수행<b>직무<\/b>] <b>방송<\/b>프로듀서(<b>방송<\/b>연출가)의 지시를 받아 <b>방송<\/b>프로그램 제작 활동을 보조한다. 촬영일정 보조(출연자에게 녹화일정 통보... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>모니터요원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5936914&cid=42117&categoryId=42117",
+			"description":" 라디오 및 텔레비전 프로그램을 청취 또는 시청하면서 심의기준에 저촉되는 사항을 보고한다. [수행<b>직무<\/b>] <b>방송<\/b>심의기준 및 모니터링 요령을 파악한다. 정해진 시간대의 프로그램을 시청 또는 청취하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>심의위원회와 <b>방송<\/b>통신심의위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3331184&cid=42192&categoryId=56849",
+			"description":"구 <b>방송<\/b>위원회는 산하에 심의위원회를 두고 <b>방송<\/b>용 극영화와 만화영화(비디오물 등을 포함), 외국에서 수입한 <b>방송<\/b> 순서(운동경기 등의 중계 및 보도에 관한 <b>방송<\/b> 순서), 한국<b>방송<\/b>광고공사법 제15조의 규정에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>기자재배정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024715&cid=42117&categoryId=42117",
+			"description":" 라디오와 텔레비전 <b>방송<\/b>의 프로그램 제작을 위해 <b>방송<\/b>기자재를 배정 및 조정한다. [수행<b>직무<\/b>] <b>방송<\/b>일정, <b>방송<\/b>규모, 프로그램 편성현황에 따라 <b>방송<\/b>제작에 필요한 기자재운용계획을 수립한다. 스포츠중계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>통신사무소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EC%82%AC%EB%AC%B4%EC%86%8C",
+			"description":"<b>직무<\/b> 「<b>방송<\/b>법」 제71조제1항부터 제4항까지 및 「<b>방송<\/b>법 시행령」 제57조제7항에 따른 <b>방송<\/b>프로그램 구별기준에의 적합 여부 확인 지원에 관한 사항 「<b>방송<\/b>법」 제83조제1항에 따른 <b>방송<\/b> 실시결과 접수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>책임프로듀서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025735&cid=42117&categoryId=42117",
+			"description":" 담당 <b>방송<\/b>프로그램의 기획 및 제작을 총괄 관리의 책임을 지고, 관련 종사원들의 활동을 관리·감독한다. [수행<b>직무<\/b>] <b>방송<\/b> 편성회의에 참여하여 <b>방송<\/b>사의 중장기 전략, 각 프로그램의 편성방향 등에 대해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>개혁위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3331181&cid=42192&categoryId=56849",
+			"description":"<b>방송<\/b>개혁위원회가 갖는 역사적 의의는 정부 부처가 주도한 것이 아니라 국민 대표성을 바탕으로 민관... 1998년 12월 17일 1차 회의를 시작으로 한 '<b>방송<\/b>개혁위원회'는 1999년 2월 27일 '<b>방송<\/b> 개혁의 방향과 과제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>통신심의위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=935788&cid=43667&categoryId=43667",
+			"description":"따라, <b>방송<\/b>위원회의 심의<b>직무<\/b>와 정보통신윤리위원회의 <b>직무<\/b>를 통합하여 민간독립기구인 <b>방송<\/b>통신심의위원회가 설립되었다. 기구는 4개의 소위원회(<b>방송<\/b>심의소위원회, 광고심의소위원회... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>대외협력기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028624&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>기술의 발전을 위하여 <b>방송<\/b> 관련 국제회의 업무와 외국 <b>방송<\/b>사와의 교류업무를 수행한다. [수행<b>직무<\/b>] 국내외 <b>방송<\/b>기술분야의 신기술에 대한 정보교류 및 <b>방송<\/b>기술개발 관련 경험을 공유하기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>콘텐츠기획판매자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627169&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>콘텐츠를 국내외 <b>방송<\/b>콘텐츠 시장에 유통시키기 위한 마케팅전략을 기획하고 판매계약을 체결한다. [수행<b>직무<\/b>] 해외 <b>방송<\/b>콘텐츠마켓에 참가하여 국제적인 <b>방송<\/b>콘텐츠의 동향을 파악하고 자사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>주조감독",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028749&cid=42117&categoryId=42117",
+			"description":" 라디오 및 텔레비전<b>방송<\/b>국의 송신장비를 조작하는 작업원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 라디오, 텔레비전<b>방송<\/b>국의 주조정실에서 <b>방송<\/b>프로그램의 편성순서에 따라 녹화<b>방송<\/b> 및 생<b>방송<\/b>을 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b> 관련 위원회의 종류와 역할",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3331176&cid=42192&categoryId=56849",
+			"description":"우리나라 <b>방송<\/b> 관련 위원회는 여러 가지 형태로 존재한다. 법정 기구로서 <b>방송<\/b>에 대한 전반적인 정책과 <b>방송<\/b>사의 인허가와 관련한 업무를 맡는 위원회, 특정 분야나 쟁점의 중요성을 강조하기 위해 <b>방송<\/b>법으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>기술연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028623&cid=42117&categoryId=42117",
+			"description":" 라디오 또는 텔레비전 <b>방송<\/b>의 시스템 및 제작기법을 연구·개발한다. [수행<b>직무<\/b>] 외국의 신기술 <b>방송<\/b>매체에 대한 자료를 수집하여 국내의 <b>방송<\/b>기술과 비교·검토한다. 신기술의 국내 적용방법을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>통신기기설계원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028627&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>용 통신기기(중파, 단파 등)를 제작하기 위한 주파수별·용량별 회로도를 설계한다. [수행<b>직무<\/b>] 수주된 <b>방송<\/b>통신설비의 주파수, 용량에 따라 기술자료, 서적, 무선설비에 관한 지식 등을 이용하여 개략도를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"게임<b>방송<\/b>프로듀서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025718&cid=42117&categoryId=42117",
+			"description":" 게임<b>방송<\/b>프로그램이나 게임대회를 기획하고 제작한다. [수행<b>직무<\/b>] 연출할 게임<b>방송<\/b>프로그램이나 게임대회의 성격을 파악한다. 게임<b>방송<\/b>프로그램 연출 시 제작방향을 설정한다. 스태프와 출연진을 구성한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블<b>방송<\/b>네트워크시스템운용원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665182&cid=42117&categoryId=42117",
+			"description":" 케이블<b>방송<\/b> 프로그램 제작을 위하여 네트워크 장비, 아카이브시스템, 네트워크 기반의 <b>방송<\/b>장비를 관리·운용한다. [수행<b>직무<\/b>] 케이블<b>방송<\/b>네트워크 장비의 설계도서를 파악한다. 장비 추가구매 및 확장성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"종합유선<b>방송<\/b>위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3331183&cid=42192&categoryId=56849",
+			"description":"종합유선<b>방송<\/b>법 제4장은 종합유선<b>방송<\/b>위원회의 설치, 위원의 임기, 결격 사유, 신분 보장, <b>직무<\/b> 등을 밝히고 있었다. 이 법은 종합유선<b>방송<\/b>을 &quot;영상·음성·음향 등을 유선전기통신시설을 이용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"종합유선<b>방송<\/b>국편성프로듀서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837776&cid=42117&categoryId=42117",
+			"description":" 종합유선<b>방송<\/b>국에서 채널을 편성한다. [수행<b>직무<\/b>] 종합유선<b>방송<\/b>국(CATV SO:Cable Television System Operator,<b>방송<\/b>프로그램을 편성, 운영, 송출하기 위한 설비와 <b>방송<\/b>을 수신자에게 전송하는 전송 선로 설비로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>송출기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028748&cid=42117&categoryId=42117",
+			"description":" 종합유선<b>방송<\/b>사업자(SO:System Operator) 및 시청자에게 제작된 <b>방송<\/b>프로그램을 송출하기 위해 송출장비를 조작·운용한다. [수행<b>직무<\/b>] 편성된 프로그램 스케줄을 확인하고, 미리 준비된 프로그램... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>아나운서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025756&cid=42117&categoryId=42117",
+			"description":" 텔레비전, 라디오, 케이블 및 인터넷 <b>방송<\/b> 등을 통하여 뉴스, 공보 및 기타 고지사항을 전달하고 프로그램을 진행한다. [수행<b>직무<\/b>] 국내·외에서 발생한 모든 사건을 진행순서에 따라 보도한다. 취재기자를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1943898&cid=41989&categoryId=41989",
+			"description":"둘째는 일반 성인들에게 <b>직무<\/b>에 관련된 새로운 지식이나 정보를 습득하거나 여가나 교양을 함양하기 위해서 목적이다. 현재 <b>방송<\/b>교육은 평생교육의 차원에서 원격교육의 한 가지 형태로 발전되고 있으며, 여러... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>리포터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025755&cid=42117&categoryId=42117",
+			"description":" 라디오 및 텔레비전 프로그램의 일부 코너에서 특정 정보를 제공하기 위해 취재하고 보도한다. [수행<b>직무<\/b>] 프로그램 제작팀원과의 회의나 자신의 제안을 통해 국민의 관심사가 될 수 있는 주제를 결정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>기술강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025358&cid=42117&categoryId=42117",
+			"description":" 수강생들에게 음향 및 조명, 편집, 더빙 및 자막 등 <b>방송<\/b>기술 분야의 이론과 실기에 대해 강의한다. [수행<b>직무<\/b>] 음향 및 조명에 대하여 이론교육을 실시하고 이론을 토대로 실습을 진행한다. <b>방송<\/b>에 사용되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 과학기술정보<b>방송<\/b>통신위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%A0%95%EB%B3%B4%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"과학기술정보<b>방송<\/b>통신위원회로 개편 <b>직무<\/b> 소관 부처 과학기술정보통신부 <b>방송<\/b>통신위원회 원자력안전위원회 위원 명단 소위원회 소관 법률 각주 외부 링크 과학기술정보<b>방송<\/b>통신위원회 공식... ",
+			"thumbnail":""
+		},
+		{
+			"title":"게임<b>방송<\/b>연출가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025716&cid=42117&categoryId=42117",
+			"description":" 게임<b>방송<\/b>에서 각 게임마다 최적의 게임흐름을 보여주고 현장감 있는 게임<b>방송<\/b>을 연출한다. [수행<b>직무<\/b>] 게임 장르별 특징, 시청자의 연령대와 선호도, 게임플레이, 게임VOD, 모니터링 자료를 분석한다. 해설자와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>인제스트원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953485&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>영상 콘텐츠를 디지털 스트림의 형태로 변환해서 콘텐츠관리시스템(디지털 아카이브)에 등록한다. [수행<b>직무<\/b>] 취재, 리포트, 스튜디오 촬영 등을 통해 만들어진 <b>방송<\/b>영상 콘텐츠를 접수한다. 인제스트... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>영상감독",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664721&cid=42117&categoryId=42117",
+			"description":" 카메라로 촬영된 영상의 화질을 개선하기 위해 영상장비를 조작·운영한다. [수행<b>직무<\/b>] 카메라, 조명의 세팅상태를 점검하고 케이블 등의 연결상태를 확인한다. 영상장비를 점검하고, 화면테스트를 시행한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>카메라강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665262&cid=42117&categoryId=42117",
+			"description":" 수강생들을 대상으로 <b>방송<\/b>카메라를 사용한 촬영 이론 및 실무를 교육한다. [수행<b>직무<\/b>] 수강생들을 대상으로 기본 영상론 및 영상 구성, 카메라 운용에 대한 기본 교육을 강의한다. ENG카메라, 6mm카메라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3331178&cid=42192&categoryId=56849",
+			"description":"<b>방송<\/b>위원회는 1981년 설립된 이후 한국 <b>방송<\/b>의 정책·감독 기관으로서 우리 <b>방송<\/b> 제도의 중요한 부분을 이루어 왔다. 1987년 개정된 <b>방송<\/b>법을 통해 준입법권과 준사법권을 통합 관장하는 독립규제위원회의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련 전문직 및 사무직, 연구 관련직, 정보통신·<b>방송<\/b> 관련 기술·기능직 등 14개 분야의 74개 <b>직무<\/b>가 있다.  출처: 게티이미지 코리아 '신중년 적합<b>직무<\/b>'란... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"웹<b>방송<\/b>엔지니어",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025783&cid=42117&categoryId=42117",
+			"description":" 디지털 장비를 이용해 촬영 혹은 녹음을 하고, 웹<b>방송<\/b> 가능 형태로 파일을 편집하며, 인코딩한다. [수행<b>직무<\/b>] 디지털 장비를 이용해 촬영 혹은 녹음한다. 촬영 혹은 녹음된 파일을 <b>방송<\/b>에 적합한 형태로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"통합<b>방송<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3378754&cid=42192&categoryId=58295",
+			"description":"김대중정부는 「통합<b>방송<\/b>법」을 제정했다. 김영삼정부가 기획한 내용을 이 법에 한꺼번에 담았던 것이다. 이 법은 케이블 TV와 통신 영역까지 함께 다루었다. 또한 <b>방송<\/b>위원회는 준 사법기관으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>중계회선기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028751&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>국 외의 현장에서 스포츠 및 행사를 중계<b>방송<\/b>하기 위해 텔레비전 또는 라디오중계차 등의 <b>방송<\/b>장비를 설치·운용한다. [수행<b>직무<\/b>] 기술감독, 조명감독 및 음향감독 등과 중계<b>방송<\/b>할 현장에 방문하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>기술감독",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025732&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>프로그램의 제작기술 업무를 총괄하고, 관련 종사원들의 활동을 지휘·감독한다. [수행<b>직무<\/b>] 부조정실의 기술팀을 구성하여 제작시간, 출연자, 소요장비 등의 제작에 관해 협의·조정한다. 영상, 음향... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>운행프로듀서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025734&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>국 주조정실에서 당일 <b>방송<\/b>운행의 지휘감독자로서 <b>방송<\/b> 개시부터 종료까지의 <b>방송<\/b>운행을 책임진다. [수행<b>직무<\/b>] 편성연락과 운행표를 점검하고 일일 <b>방송<\/b>순서 및 주간 <b>방송<\/b>순서를 숙지한다. 전체... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>국견학안내원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024873&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>국을 방문한 사람들에게 <b>방송<\/b>국 및 <b>방송<\/b>국 견학홀을 안내 및 설명한다. [수행<b>직무<\/b>] 견학단이나 개인 방문자를 안내하여 <b>방송<\/b>제작현장을 안내하거나 견학홀 내의 한 코너를 담당하여 방문자에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"게임<b>방송<\/b>촬영감독",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665300&cid=42117&categoryId=42117",
+			"description":" 현장감 있는 게임경기 영상을 촬영하여 현장의 관객 및 게임<b>방송<\/b> 시청자에게 보여준다. [수행<b>직무<\/b>] 카메라 배치를 계획하고, 제작팀, 조명감독, 오디오감독, 무대감독, 광고팀, 출연자 등과 협의하여 촬영을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>통신기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977024&cid=42114&categoryId=42114",
+			"description":"기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국<b>방송<\/b>통신전파진흥원 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.CQ.or.kr [ 2. 자격정보] (1) 자격 개요 ① <b>방송<\/b>통신기사란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210628155555659_B96LFFUXA.jpg\/da6_216_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"기독교충북<b>방송<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%B0%EB%8F%85%EA%B5%90%EC%B6%A9%EB%B6%81%EB%B0%A9%EC%86%A1",
+			"description":"고 야구대회 창설 1992년 3월 26일 제2대 조성호 본부장 취임 1993년 9월 13일 제3대 이광일 본부장 취임 1994년 4월 1일 제4대 이광천 본부장 <b>직무<\/b>대행 취임 1994년 9월 23일 제5대 최건작 본부장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"럭키 (<b>방송<\/b>인)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%9F%AD%ED%82%A4_(%EB%B0%A9%EC%86%A1%EC%9D%B8)",
+			"description":"1996년 3월 24일 대한민국에 들어와 2000년대 초반 이미 <b>방송<\/b>인 및 배우로 활동한 경력이 있다.... 가장 많이 활용되는 대사는 &quot;베리굿 베리굿 김두한&quot;, &quot;<b>직무<\/b>태만이요! <b>직무<\/b>태만!!!&quot;이다. 비정상회담 103회에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권시황<b>방송<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025761&cid=42117&categoryId=42117",
+			"description":" 사내<b>방송<\/b>이나 유선<b>방송<\/b>, 인터넷<b>방송<\/b> 등을 통해 증권관계자 및 투자자를 대상으로 시시각각 변하는 증권시황을 발표한다. [수행<b>직무<\/b>] 진행순서에 따라 준비된 뉴스, 공보, 기타 고지사항을 발표한다. 증권시장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"게임<b>방송<\/b>해설가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025749&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>으로 중계되는 게임의 해설을 담당한다. [수행<b>직무<\/b>] 중계할 경기에 대한 스케줄을 체크한다. 경기에 쓰일 맵과 선수들에 대한 데이터를 수집하고 정리한다. 게임캐스터와 함께 리허설을 실시한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유무선<b>방송<\/b>설비기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026334&cid=42117&categoryId=42117",
+			"description":" 유무선<b>방송<\/b> 선로 및 기기를 설치하고 보수한다. [수행<b>직무<\/b>] 고장, 신규, 이전접수 명단을 유선<b>방송<\/b>고객관리사무원에게 또는 무선상으로 긴급을 요하는 수리전화를 직접 접수한다. 수리지역으로 이동하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>국자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3380616&cid=51373&categoryId=51373",
+			"description":"자신이 <b>방송<\/b>국에서 일할 만한 적합한 인재라는 것을 강조해서 자기소개서를 작성하는 것이 좋다. [작성팁] • 자기소개서를 작성할 때는 학력사항을 정확하게 작성해야 하고 비슷한 <b>직무<\/b>에서 일해본 경험이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503120732419_1PLMJAJVV.jpg\/ba17_31869_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"위성<b>방송<\/b>상품개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024566&cid=42117&categoryId=42117",
+			"description":" 고객에게 보다 나은 서비스를 제공하기 위하여 위성<b>방송<\/b>서비스 상품에 대한 신규 및 부가서비스를 개발·보급한다. [수행<b>직무<\/b>] 인공위성을 통한 디지털<b>방송<\/b>시스템(Digital Broadcasting System)사업을 준비한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>통신기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977023&cid=42114&categoryId=42114",
+			"description":"기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국<b>방송<\/b>통신전파진흥원 (3) 응시자격 : 제한 없음 (4) 홈페이지 : www.CQ.or.kr [ 2. 자격정보] (1) 자격 개요 ① <b>방송<\/b>통신기능사란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210628140406118_UDXNPND3C.jpg\/da6_215_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>방송<\/b>통신위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3331185&cid=42192&categoryId=56849",
+			"description":"현재의 <b>방송<\/b>통신위원회는 2008년에 <b>방송<\/b>과 통신의 융합이라는 시대적인 변화의 요구를 수용하기 위하여 <b>방송<\/b>위원회와 정보통신부가 통합하여 새롭게 탄생한 것이다. 이 위원회는 <b>방송<\/b>과 통신의 융합 환경에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국교육<b>방송<\/b>공사법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1227300&cid=40942&categoryId=31702",
+			"description":"못하고, <b>직무<\/b>상 알게 된 비밀을 누설하거나 도용해서는 안 된다. 정부의 회계연도를 따르고, 회계처리의 기준과 절차는 기업회계기준 및 기업예산회계법을 준용한다. 공사의 경비는 <b>방송<\/b>발전기금의 출연액... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화면해설<b>방송<\/b>작가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832773&cid=42117&categoryId=42117",
+			"description":" 시각장애인이 영상물을 이용할 수 있도록 영상물 내용 중에 소리 없이 화면으로만 진행되는 부분(배경, 행동, 표정, 자막, 그래픽 등)을 시각적으로 설명하는 대본을 작성한다. [수행<b>직무<\/b>] DVS(Descriptive Video... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>통신산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977025&cid=42114&categoryId=42114",
+			"description":"기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국<b>방송<\/b>통신전파진흥원 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.CQ.or.kr [ 2. 자격정보] (1) 자격 개요 ① <b>방송<\/b>통신산업기사란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210628152749709_8LOWZHMGQ.jpg\/da6_217_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>방송<\/b>통신심의위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1283717&cid=40942&categoryId=34567",
+			"description":"기존의 <b>방송<\/b>위원회와 정보통신윤리위원회의 <b>직무<\/b>를 통합하여 설치된 독립기구이다. 설립 목적은 <b>방송<\/b> 내용의 공공성과 공정성을 보장하고 정보 통신상에서의 건전한 문화를 창달하며 올바른 이용 환경을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>방송<\/b>통신대학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=612506&cid=42126&categoryId=42126",
+			"description":"그리고 <b>직무<\/b>에 관련된 전문적 자질함양 및 자격취득을 위하여 제 2의 고등교육기회를 원하는 집단에게 <b>방송<\/b>통신교육방식을 통해 새로운 대학교육기회를 제공하는 데 있다. <b>방송<\/b>통신대학의 특성은 ①... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>제작비관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024856&cid=42117&categoryId=42117",
+			"description":" 라디오 또는 텔레비전 프로그램의 제작에 소요되는 비용을 책정하고 집행과정을 기록·관리한다. [수행<b>직무<\/b>] 프로그램제작에 따른 표준제작비를 검토하고 소요되는 제작비의 집행한도액을 책정한다. 원고료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블<b>방송<\/b>단말기개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658861&cid=42117&categoryId=42117",
+			"description":" 케이블<b>방송<\/b>단말기를 기획·개발한다. [수행<b>직무<\/b>] 현재 운용 중인 케이블<b>방송<\/b>단말기 및 단말기 운용현황을 검토하여 안정성, 기능, 성능, 운용 중인 주파수대역, 단말기소프트웨어, 운용 시 발생한 문제점... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>방송<\/b>통신대학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"총장<b>직무<\/b>대리 체제 시행 2016년 1월 18일 서울지역대학 서부학습센터가 서울 은평구 대조동의 극동메트로센터 8~9층에서 고양시 덕양구 원흥동 신축 단독청사로 이전하였다. 2018년 2월 14일 제7대... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>산업 소유 규제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1691501&cid=42192&categoryId=42199",
+			"description":"진입 규제를 통과해 <b>방송<\/b>사업자의 권리를 획득하게 된 이후에는 또 다시 <b>방송<\/b>법에 명시된 다양한 형태의 규제나 의무사항을 준수해야 한다. 그 중에 대표적인 것이 소유 규제다. 소유 규제는 시장지배적... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20130205220453700_YLLM58TAX.jpg\/m65_s7.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>방송<\/b>산업의 인력 구조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1691495&cid=42192&categoryId=42199",
+			"description":"2011년 현재 <b>방송<\/b>산업 종사자 수는 약 3만 명이다. <b>방송<\/b>사에서 일하는 인력은 크게 세 종류로 나눈다. 제작 인력, 기술 인력, 출연진이다. 그러나 인력 충원 방식에 따라서는 <b>방송<\/b>직, 기술직... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20121212122234457_6GU9J1A78.jpg\/m65_04_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>방송<\/b>가상스튜디오엔지니어",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025780&cid=42117&categoryId=42117",
+			"description":" 가상스튜디오(Virtual Studio:실제 세트의 실사 화면에 컴퓨터 그래픽으로 만들어낸 가상의 세트) 기술을 활용하여 프로그램을 제작한다. [수행<b>직무<\/b>] 프로그램 대본에 따라 가상스튜디오 제작 소프트웨어상에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블<b>방송<\/b>단말기설치원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026351&cid=42117&categoryId=42117",
+			"description":" 케이블<b>방송<\/b> 가입자 단말기를 설치·철거한다. [수행<b>직무<\/b>] 신규(이전) 인입선을 설치하는 경우 댁내 케이블 인입공법 표준에 따라 현장에 인입선을 설치하고 셋톱박스, 인터넷 모뎀, VoIP(인터넷전화), AP... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>심의에 관한 규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2275034&cid=42192&categoryId=51145",
+			"description":"<b>방송<\/b>통신심의위원회규칙 제19호 개정 2008.9.2. <b>방송<\/b>통신심의위원회규칙 제30호 개정 2010.2.18. <b>방송<\/b>통신심의위원회규칙 제55호 개정 2010.8.17. <b>방송<\/b>통신심의위원회규칙 제80호 개정 2010.11.16.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>심의, 누가 어떻게 하나",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2275024&cid=42192&categoryId=51145",
+			"description":"자율 규제로서 <b>방송<\/b>사 내에서 이루어지는 심의는 보도 프로그램을 제외한 모든 프로그램에 대해 사전... 따라서 자칫하면 충돌할 수 있는 가치인 표현의 자유, 즉 언론의 자유에 대한 보장과 <b>방송<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국인터넷신문<b>방송<\/b>기자협회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EC%9D%B8%ED%84%B0%EB%84%B7%EC%8B%A0%EB%AC%B8%EB%B0%A9%EC%86%A1%EA%B8%B0%EC%9E%90%ED%98%91%ED%9A%8C",
+			"description":"권익과 <b>직무<\/b>개발, 전문 언론인간의 뉴스정보 교환 및 연대, 기사공유라는 목표를 갖고 발족한 국내 최대 인터넷 언론단체이다. 소 개 디지털미디어시대의 '꽃', 인터넷신문<b>방송<\/b>시대의 서막을 알리다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블<b>방송<\/b>전송선로설비기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658398&cid=42117&categoryId=42117",
+			"description":" 케이블<b>방송<\/b> 전송선로설비 구축공사를 기획하고 진행한다. [수행<b>직무<\/b>] 전송선로설비 구축공사지역을 실사하여 구축공사에 필요한 의무제공사업자(한전, KT)의 설비(전신주, 통신선로, 통신시설 등)를 파악하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>방송<\/b>산업 광고 규제와 기타 규제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1691503&cid=42192&categoryId=42199",
+			"description":"<b>방송<\/b>사업자의 제일의 재원은 광고다. <b>방송<\/b>법상 광고에 대한 규제는 광고시간량 규제와 광고형태 규제 등으로 구성되어 있다. 또한 보편적 시청권, 시청자 참여 프로그램의 편성, 장애인의 시청지원, 프로그램... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20130205220517255_0BVNLKBB7.jpg\/m65_s9.jpg?type=m160_160"
+		},
+		{
+			"title":"대한민국의 <b>방송<\/b>통신위원회 부위원장",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EC%9C%84%EC%9B%90%ED%9A%8C_%EB%B6%80%EC%9C%84%EC%9B%90%EC%9E%A5",
+			"description":"역할 <b>방송<\/b>통신위원회 부위원장은 위원장을 보좌하여 소관사무를 처리하고 소속공무원을 지휘·감독하며, 위원장이 사고로 <b>직무<\/b>를 수행할 수 없으면 그 <b>직무<\/b>를 대행한다. 역대 부위원장 <b>방송<\/b>위원회 부위원장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"우종범",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B0%EC%A2%85%EB%B2%94",
+			"description":"사장(2015년 11월~2017년 8월) 한국<b>방송<\/b>협회 부회장 TBS 서울교통<b>방송<\/b> 사장 <b>직무<\/b>대리 학력 1972년 양정고등학교 졸업 1976년 연세대학교 교육학과 학사 외부 링크 네이버 데이터",
+			"thumbnail":""
+		},
+		{
+			"title":"백종문",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%B1%EC%A2%85%EB%AC%B8",
+			"description":"사장 <b>직무<\/b>대리 (2017년 11월 15일 사임) 학력 휘문고등학교 졸업 한양대학교 신문<b>방송<\/b>학과 학사 한양대학교 대학원 신문<b>방송<\/b>학과 언론학 석사 가족 관계 어머니 : 이종진 ( ~ 2021년 8월 22일)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"홈쇼핑피디",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832670&cid=42117&categoryId=42117",
+			"description":" 홈쇼핑 <b>방송<\/b>프로그램을 기획하고 제작한다. [수행<b>직무<\/b>] <b>방송<\/b>일정에 따라 쇼호스트를 섭외한다. MD, 협력사, 작가 등 관계자와 회의하여 <b>방송<\/b>될 상품을 분석하고 <b>방송<\/b> 콘셉트를 기획한다. 제품 이미지, 프로모션... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김홍 (1951년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%ED%99%8D_(1951%EB%85%84)",
+			"description":"사장 <b>직무<\/b>대리를 지낸 전력이 있다. 학력 천안고등학교 1966년 3월 ~ 1969년 2월 졸업 고려대학교 철학과 학사 대표 경력 前 KBS 한국<b>방송<\/b>공사 부사장 前 KBS 한국<b>방송<\/b>공사 사장 <b>직무<\/b>대리 前... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보조출연자섭외원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837798&cid=42117&categoryId=42117",
+			"description":" 영화, <b>방송<\/b>촬영 등에 보조로 출연할 사람들을 섭외하여 제작업체에 소개한다. [수행<b>직무<\/b>] <b>방송<\/b>드라마, 광고 등에 조역 및 단역으로 출연을 희망하는 사람을 대상으로 인적사항 및 특이사항, 경력 등을 파악한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"라디오프로듀서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664727&cid=42117&categoryId=42117",
+			"description":" 라디오프로그램을 기획·제작 총괄하고 관련 종사원들의 활동을 지휘·감독한다. [수행<b>직무<\/b>] <b>방송<\/b> 편성 의도를 파악하고 제작기획서(프로그램명, <b>방송<\/b>일시, 제작의도, 주제 및 내용, 주요 진행자, 제작비... ",
+			"thumbnail":""
+		},
+		{
+			"title":"분장사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026140&cid=42117&categoryId=42117",
+			"description":" 영화, 연극, <b>방송<\/b>프로그램 및 광고 출연자들의 얼굴을 극의 분위기에 맞게 분장한다. [수행<b>직무<\/b>] <b>방송<\/b>프로듀서(<b>방송<\/b>연출가), 배우 등과 협의하여 극의 분위기와 시대적 배경에 맞는 사진, 문헌 등을 검토하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"취재관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024429&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>국, 신문사, 잡지사 등에서 기사 취재 업무를 총괄하고, 취재기자들의 활동을 감독·조정한다. [수행<b>직무<\/b>] <b>방송<\/b>, 신문, 잡지 등에 보도할 기사를 취득하기 위해 공공기관, 단체 등의 동향 및 사회적 관심사를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교양프로그램프로듀서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664726&cid=42117&categoryId=42117",
+			"description":" 교양프로그램(스튜디오에서 녹화하는 정보나 토크 혹은 가벼운 오락 프로그램)을 기획·제작 총괄하고 관련 종사원들의 활동을 지휘한다. [수행<b>직무<\/b>] <b>방송<\/b>편성의 기본 방향과 <b>방송<\/b>법, 심의기준, <b>방송<\/b>강령, 제작... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음향믹싱기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025769&cid=42117&categoryId=42117",
+			"description":" 영화 또는 <b>방송<\/b>드라마를 제작하기 위하여 녹음이 완료된 각 부문의 음원을 재생하여 균형을 맞추고 조정하여 마스터음원을 만든다. [수행<b>직무<\/b>] <b>방송<\/b>프로듀서(<b>방송<\/b>연출가) 또는 영화감독과 협의하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"배우",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025744&cid=42117&categoryId=42117",
+			"description":" <b>방송<\/b>드라마, 영화 및 연극의 등장인물로 출연하여 연기한다. [수행<b>직무<\/b>] <b>방송<\/b>드라마, 영화 제작 또는 무대공연을 위해서 희곡(대본)을 읽고 극 중 인물을 분석한다. 배역을 맡기 위해 오디션을 본다. 배역의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"쇼핑호스트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025759&cid=42117&categoryId=42117",
+			"description":" 상품판매 <b>방송<\/b>을 진행하면서 시청자에게 상품의 기능, 특성 등을 설명하고 상품의 판매를 촉진한다. [수행<b>직무<\/b>] <b>방송<\/b>프로듀서(<b>방송<\/b>연출가)와 협의하여 <b>방송<\/b>에서 소개할 판매상품의 정보를 숙지한다. 원활한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"희극배우",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837787&cid=42117&categoryId=42117",
+			"description":" 관객 및 시청자의 즐거움을 위해 <b>방송<\/b>의 코미디 프로그램이나 공연장에서 익살스러운 대사나 행동으로 연기한다. [수행<b>직무<\/b>] <b>방송<\/b>프로듀서(<b>방송<\/b>연출가) 또는 공연기획가, 작가 등과 협의를 통해 아이템을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유람선관광가이드",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664979&cid=42117&categoryId=42117",
+			"description":" 유람선 이용객이 쾌적한 관광을 할 수 있도록 <b>방송<\/b>안내, 응대, 여흥진행 등 각종 서비스를 제공한다. [수행<b>직무<\/b>] <b>방송<\/b>기기의 이상 여부를 확인한다. 배선 스케줄을 보고 <b>방송<\/b>을 구상한다. 날씨, 안전 등 특이사항... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무술감독",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664725&cid=42117&categoryId=42117",
+			"description":" 영화나 텔레비전 드라마에 출연하는 배우나 연기자에게 무술연기를 지시한다. [수행<b>직무<\/b>] <b>방송<\/b> 프로듀서나 영화감독과 무술촬영에 대해 협의한다. 대본(시나리오)을 분석하고 배역이 결정되면 그 배역의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원격교육연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025139&cid=42117&categoryId=42117",
+			"description":" 교수자와 학습자 간에 시간적·공간적 원격성을 전제로 인쇄물이나 <b>방송<\/b>·통신 및 인터넷 등과 같은 다양한 매체들을 매개로 하는 교육 방식을 연구한다. [수행<b>직무<\/b>] <b>방송<\/b>통신대학 또는 사이버대학에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서비스·경험디자인 기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6197204&cid=42114&categoryId=42114",
+			"description":"② 서비스·경험 만족을 위해 사용자 중심의 디자인 사고를 기반으로 통합적인 프로세스를 활용하여 서비스·경험 디자인 콘셉트와 모델을 개발하고 운영하는 <b>직무<\/b>를 수행한다. [ 3. 시험정보] (1) 응시자격... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아나운서",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%95%84%EB%82%98%EC%9A%B4%EC%84%9C",
+			"description":"문화<b>방송<\/b>의 아나운서<b>직무<\/b> 소개 채널-(뉴스 안하니) 한국<b>방송<\/b>공사의 본사재직 아나운서 일람 문화<b>방송<\/b>의 본사재직 아나운서 일람 에스비에스의 본사재직아나운서 일람 JTBC의 아나운서 일람 YTN의 아나운서(뉴스... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광고매체기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024552&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>방송<\/b>광고(TV, 라디오, CATV)의 경우 광고목표를 달성하기 위해 주요대상에 대한 광고도달빈도(Frequency), 도달범위(Reach)를 산출하고 예측하며, 이를 위해 시청률 및 청취율을 점검한다. 주요 고객층의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이스포츠맵제작자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028712&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>방송<\/b>국 등의 대회관계자와 맵에 대한 기본적인 방향을 정한다. 맵에서 주로 쓰일 전략이나 경기형태 등에 대해 논의한다. 맵 에디터를 이용하여 맵을 제작한다. 만들어진 맵을 선수들에게 보내어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연예인총괄관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024400&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>방송<\/b>제작, 영화제작, 광고물제작 등 제작사로부터 출연자나 보조출연자의 공급을 의뢰받는다. 제작사의 목적과 특성에 맞는 출연자나 보조출연자를 파악·선발하여 공급한다. 소속 연예인에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"큐넷",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%81%90%EB%84%B7",
+			"description":"건설워커 월드잡 외부 링크 한국산업인력공단 큐넷 홈페이지 한국산업인력공단 홈페이지 한국산업인력공단 월드잡 홈페이지 한국직업<b>방송<\/b> 홈페이지 국가<b>직무<\/b>능력표준 홈페이지 직업능력지식포털 자격증넷",
+			"thumbnail":""
+		},
+		{
+			"title":"심재철 (1958년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8B%AC%EC%9E%AC%EC%B2%A0_(1958%EB%85%84)",
+			"description":"심재철은 이완기 문화<b>방송<\/b> 노조위원장 <b>직무<\/b>대리 등과 함께 1992년 9월 2일, 문화<b>방송<\/b> 파업이 서울지방노동위의 직권중재에 회부돼 쟁의행위를 할 수가 없는데도 제작 거부 등 단체 행동을 하였고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기타 위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3331186&cid=42192&categoryId=56849",
+			"description":"<b>방송<\/b>통신위원회나 <b>방송<\/b>통신심의위원회와 같은 법정 기구로서 <b>방송<\/b>에 대한 전반적 정책과 <b>방송<\/b>사의 인허가 업무를 맡는 위원회 이외에 필요에 의해서 <b>방송<\/b>법 또는 관련 법에 근거하여 별도의 위원회를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"SBS",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/SBS",
+			"description":"상암산로42 <b>직무<\/b> 유형 <b>방송<\/b>경영(기획\/지원) <b>방송<\/b>기술 기자 드라마PD 시사교양PD 라디오PD 예능PD 아나운서 조직 8본부(4\/센터) 4국 62팀\/부\/EP\/CP 사장 직속 윤리경영팀 심의팀 전략기획실 정책팀... ",
+			"thumbnail":""
+		},
+		{
+			"title":"디스크자키",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025754&cid=42117&categoryId=42117",
+			"description":" 유선<b>방송<\/b>, 라디오<b>방송<\/b> 등의 음악프로그램에서 음악<b>방송<\/b>을 진행한다. [수행<b>직무<\/b>] 라디오<b>방송<\/b>작가, 라디오<b>방송<\/b>PD와 협의하여 프로그램의 특성과 청취자의 기호, 신청곡 등에 대한 정보를 기초로 <b>방송<\/b>될 음악 및... ",
+			"thumbnail":""
+		}
+	]
+}

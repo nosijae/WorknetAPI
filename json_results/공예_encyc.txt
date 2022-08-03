@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:37 +0900",
+	"total":45496,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063547&cid=40942&categoryId=33061",
+			"description":" 실용적인 물건에 장식적인 가치를 부가함으로써 그 가치를 높이려고 하는 미술.  넓은 뜻으로 미술 또는 조형예술의 한 부문으로 순수미술로부터 구별하기 위해, 19세기 중반부터 일반화되기 시작한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_20\/20180913201820594_XIKCDNNF7.jpg\/87968.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=523606&cid=46657&categoryId=46657",
+			"description":" 공작에 관한 기법 또는 예술. [개설] 일반적으로 공작으로 만들어진 물건을 가리키는 말로도 쓰인다. 따라서, 그 물건을 만드는 과정도 문제가 되지만, 물건 자체의 양식이나 양식의 변천에 관하여 더욱 관심을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20171103191940160_MILJZOFDX.jpg\/5c5fd451-a556-4a.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=960360&cid=47310&categoryId=47310",
+			"description":" 쓰임새와 아름다움이 있는 생활 용품을 만들어 내는 것.  오늘 미술 시간에는 각자 준비한 재료로 연필꽂이를 만들기로 했어. 나는 우유갑에 색종이를 붙여서, 원호는 찰흙을 동글게 말아서, 그리고 준혁이는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1779_000_1\/20120405004007683_K94OR0AM6.jpg\/bh8_81_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=259063&cid=42635&categoryId=42635",
+			"description":"생활에 유용한 물건을 제조하는 공업과 미를 창조하는 예술의 두 영역이 중첩되는 곳에 <b>공예<\/b>는 성립된다. 그러나 고유의 영역을 규정하기 어렵기 때문에 서양에서는 우리처럼 ‘<b>공예<\/b>’라는 한가지 명칭을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2575_000_1\/20130702175911034_FSIR1FYNM.jpg\/i132.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451725&cid=51661&categoryId=51662",
+			"description":"[<b>공예<\/b>] <b>공예<\/b>란 실생활에 필요한 생활용품을 아름답고 쓸모 있게 제작하는 것을 말한다. <b>공예<\/b>품은 생활을 편리하게 한다. 그리고 생활 속에 여유와 운치를 더해준다. 실용과 미를 함께 추구하는 것이다. <b>공예<\/b>... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/362\/531C04F3A31FF3EC29E3026F53CF4F13EC1_muploader_l_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=893871&cid=42642&categoryId=42642",
+			"description":"<b>공예<\/b>는 생활에 유용한 물건을 제조하는 공업과 미를 창조하는 예술의 두 영역이 중첩되는 곳에서 성립된다. 근대의 예술 관념이 성립되기 이전에는 <b>공예<\/b>의 개념도 명확하지 않아, 예술과 공업은 미분화된 채... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6595335&cid=47309&categoryId=47309",
+			"description":" 물건을 만드는 장인의 재주.  일상생활에 필요한 물건을 아름답고 쓸모 있게 만드는 것을 말해요. <b>공예<\/b>품은 주로 일상에서 구하기 쉬운 나무, 흙, 돌, 종이 등으로 만들지만, 지방의 특색에 따라 특산물로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6071369&cid=67350&categoryId=67350",
+			"description":"② 근대건축의 태동기인 19세기말 영국의 <b>공예<\/b>가 윌리엄 모리스(William Morris) 등이 만든 예술과 수<b>공예<\/b>운동(The Arts and Crafts Exhibition Society)의 명칭에서 비롯함. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451767&cid=51661&categoryId=51662",
+			"description":"[<b>공예<\/b>] <b>공예<\/b>란 실생활에 필요한 생활용품을 아름답고 쓸모있게 제작하는 것을 말한다. <b>공예<\/b>의 역할과 조건에 대해 알아보자.(동영상 출처 : EBS 동영상 (2008. 11. 7.))",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1433\/531C04F3A31FF3EC29E3526353DF7F139C3_muploader_p_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=390624&cid=50335&categoryId=50335",
+			"description":"인간의 일상 생활을 통해 사용되며 재료, 디자인, 기교 또는 제작과정과 관련하여 미적효과를 나타내는 도구로서 대개 단일한 재료에 의한 물품제작을 총칭하는 말이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1833536&cid=49065&categoryId=49065",
+			"description":"개인이 사용하기 위해서나 취미로 하는, 손으로 하는 예술 활동을 총칭하는 용어.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=42673",
+			"description":"한국 미의 재발견 - 금속<b>공예<\/b>, 한국 미의 재발견 - 도자<b>공예<\/b>, 목가구, 한국 미의 재발견 - 목칠<b>공예<\/b>, 보석, 보석광물의 세계, 비즈, 올 어바웃 주얼리, 오방색으로 하는 천연염색.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=46704",
+			"description":"금속<b>공예<\/b>, 도자기<b>공예<\/b>, 유리<b>공예<\/b>, 목<b>공예<\/b>, 미니어처\/세밀화, 가구, 직물\/의류\/잡화.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%B5%EC%98%88",
+			"description":"<b>공예<\/b> (工藝)는 실용성과 미(장식) 의 양면을 조화시켜 일상생활에 필요한 물건을 만드는 것이다. 인간의 생활주변에서 주로 쓰이며, 재료·의장(意匠)·기교 등에 의해서 미적 효과를 가진 도구와 기타 물품... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=590184",
+			"description":"디자인의 기초",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=376219",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"[단원정리]Ⅵ. 조선 사회의 변동",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/subjectView.do?menu_id=3&contents_id=fs_a0000-2015-0130-0000-000000000377&sub_clss_id=CLSS0000058829&svc_clss_id=CLSS0000059598,CLSS0000059599&contents_openapi=naverdic",
+			"description":"서예와 <b>공예<\/b>의 변화 ① 서예 : 이광사의 동국진체, 김정희의 추사체 ② <b>공예<\/b> : 백자가 민간에까지 유행, 목<b>공예<\/b> 등 발달 (4) 진경 산수화의 유행 ① 진경산수화 : 중국의 산수화를 모방하는 화풍에서 탈피... ",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819054356217_LVBANZQ9I.jpg\/core_m3_soc_chun.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b>태후",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063551&cid=40942&categoryId=33382",
+			"description":" 고려 제17대 왕 인종의 비. 원후의 딸. 연덕궁주로 임금의 총애를 받았다. 의종·대령후 경·명종·충희·신종의 5형제, 승경·덕녕·창락·영화의 4공주를 낳았다. 아들 의종이 즉위하자 왕태후로 높였다.  성(姓)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아르티장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1120731&cid=40942&categoryId=32856",
+			"description":" 기술적인 예술가를 말함.  원래는 장인(匠人)·<b>공예<\/b>가·직공이란 뜻인데, 의미가 전화(轉化)하였다. 흔히 '아르티스트(예술적 예술가)'와 대조시켜서 기교에 편중하여 예술적 본질에 대한 배려가 모자라는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b> (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2822873&cid=55772&categoryId=55810",
+			"description":"[정의] 부산 지역에서 이루어지는 실용적인 물건에 본래의 기능을 살리면서 조형미를 조화시키는 <b>공예<\/b> 문화. [개설] <b>공예<\/b>라는 정의를 내리기는 결코 쉬운 일이 아니다. 한국의 전통적인 개념의 <b>공예<\/b>와 서구에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718185207063_HNUUUBF8N.jpg\/GC042P29083.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b> (남원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2592308&cid=51948&categoryId=55131",
+			"description":"[개설] 우리나라 무형문화재 지정 기준 전통 <b>공예<\/b> 기법으로는 도자 <b>공예<\/b>((陶瓷工藝), 마미 <b>공예<\/b>(馬尾工藝), 금속 <b>공예<\/b>(金屬工藝), 화각 <b>공예<\/b>(華角工藝), 장신 <b>공예<\/b>(裝身工藝), 나전 <b>공예<\/b>(螺鈿工藝), 칠<b>공예<\/b>(漆工藝)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청주의 <b>공예<\/b> (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2643914&cid=51895&categoryId=53911",
+			"description":"[개설] <b>공예<\/b>는 인간생활 주변에서 쓰여지고 있는 가구, 그릇, 옷, 주택장식 등 생활용품이며, 이는 <b>공예<\/b>가 인간생활과 매우 밀착되어 있음을 보여준다. <b>공예<\/b>는 일반 비품으로부터 장식품, 신앙물, 시설물에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진도의 <b>공예<\/b> (진도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2629694&cid=51952&categoryId=55342",
+			"description":"[개설] <b>공예<\/b>는 가구, 그릇, 옷, 장식 등 인간생활 주변에서 흔히 쓰이고 있는 생활용품 또는 그 용품을 만드는 일이다. 따라서 <b>공예<\/b>의 목적은 실용적인 물건에 장식적인 가치를 부가함으로써 그 가치를 높이는 데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문화원형백과 미술\/<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49197",
+			"description":"문화콘텐츠닷컴 (문화원형백과 한국불교 목<b>공예<\/b>의 정수 수미단), 문화콘텐츠닷컴 (문화원형백과 한국석탑), 문화콘텐츠닷컴 (문화원형백과 한국의 암각화), 문화콘텐츠닷컴 (문화원형백과 한국전통가구).",
+			"thumbnail":""
+		},
+		{
+			"title":"한국민족문화대백과 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=46657",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49065",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"전통<b>공예<\/b>-한지<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2446975&cid=51636&categoryId=51636",
+			"description":"[전통<b>공예<\/b>-한지<b>공예<\/b>] 섬유질이 풍부하여 질긴 닥나무로 만들어진 한지는 매우 질기다. 그 한지로 생활에 필요한 물건들을 만드는 한지<b>공예<\/b>에는 만드는 방법에 따라 색지<b>공예<\/b>, 지장<b>공예<\/b>,지호<b>공예<\/b>,지승<b>공예<\/b>... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/17\/146\/531C04F3A30FF33C7EE3A28A532F4713EC3_muploader_p_480P_854_1024_128_logo.jpg#1280x720#m"
+		},
+		{
+			"title":"<b>공예<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926470&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>공예<\/b>원은 목재, 석재, 점토, 금속, 종이 등 다양한 소재를 가지고 손이나 도구를 이용하여 각종 수<b>공예<\/b>품이나 전통<b>공예<\/b>품을 만든다. <b>공예<\/b>원은 사용하는 재료나 만드는 제품에 따라 목<b>공예<\/b>원, 석<b>공예<\/b>원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029440&cid=42117&categoryId=42117",
+			"description":" 목재, 석재, 점토, 금속 등의 재료와 공구를 사용하여 <b>공예<\/b>품(실용적이면서 예술적 가치가 있게 만든 물품)을 제작한다. [수행직무] 작품의 주제, 메시지 등을 구상한다. 작품의 종류에 따라 재료를 선별하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2808516&cid=47305&categoryId=47305",
+			"description":" &quot;다양한 재료로 <b>공예<\/b>품을 만들어요.&quot;. [어떤 일을 하나요?] · 종이, 점토, 금속, 나무, 돌 등 다양한 소재를 가지고 손이나 도구를 이용해서 각종 수<b>공예<\/b>품이나 전통<b>공예<\/b>품을 만드는 사람입니다. · 사용하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3981_000_1\/20190405112102399_44S64LI6Q.jpg\/dbp08_8_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"죽<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6444508&cid=40942&categoryId=33061",
+			"description":" 대나무를 재료로 하는 <b>공예<\/b>기법 혹은 그 제품.  대나무를 사용하는 <b>공예<\/b>기법과 그를 통해 만들어진 <b>공예<\/b>품을 말한다. 정교하게 만들었다는 의미를 더해 '죽세<b>공예<\/b>(竹細工藝)'라고 부르기도 한다. [ 대나무의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_168\/20181214031149937_9OEWLTF51.jpg\/1396200.jpg?type=m160_160"
+		},
+		{
+			"title":"칠<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2026534&cid=50826&categoryId=50826",
+			"description":"칠기는 동양특유의 <b>공예<\/b>품으로, 백골에 옻나무의 진으로 만든 칠로 채색을 하는 것을 말한다.칠은 중국상고시대에 이미 발달하였고, 한반도에는 낙랑 시대에 전해진 이후 계속 발달하여, 마침내는 한국칠이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"짚<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=562416&cid=46657&categoryId=46657",
+			"description":" 벼·보리·조 등 모든 곡식의 이삭을 떨어낸 줄기로 만든 <b>공예<\/b>품. 고공품. [내용] 볏짚이 가장 많이 쓰였으므로 도고(稻藁), 즉 볏짚으로 만든 <b>공예<\/b>품을 주로 일컬어 일명 고공품(藁工品)이라고도 한다. 언제부터... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_2\/20190719024233693_VZJ4JFDR4.jpg\/da545088-916f-4d.jpg?type=m160_160"
+		},
+		{
+			"title":"전통<b>공예<\/b>- 댕댕이풀 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2447075&cid=51661&categoryId=51663",
+			"description":"[전통<b>공예<\/b>- 댕댕이풀 <b>공예<\/b>] 댕댕이풀을 삶고 다듬어서 바구니 등을 엮어내는 댕댕이풀 <b>공예<\/b>는 기교없이 단순하고 소박한 <b>공예<\/b>이자 우리의 생활이었음(동영상 출처 : EBS 동영상 (2003. 5. 17.))",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/17\/1001\/531C04F3A30FF33C7FE3F37D13D019B3443_muploader_j_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"비즈 <b>공예<\/b>의 단짝, 와이어 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1995924&cid=42676&categoryId=42676",
+			"description":"비즈 <b>공예<\/b>를 하기 위해서는 기본적으로 와이어가 필요하다. 최근에는 비즈 <b>공예<\/b>에 이용되는 와이어의 종류도 다양해져 와이어는 작품에 변화를 주기 위한 필수적인 재료가 되고 있다. 단순히 비즈를 와이어에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2730_000_1\/20131010151017972_I01149L54.jpg\/fb30_42_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기타<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2963155&cid=58097&categoryId=58097",
+			"description":"우리나라에서는 일찍부터 말총<b>공예<\/b>, 털<b>공예<\/b>, 인형<b>공예<\/b>, 치렛거리<b>공예<\/b> 등도 발전하여 왔다. 고대와 중세기 전기간 털좋은 짐승잡이가 진행되고 숱한 말들을 길러왔으므로 털로 여러 가지 일용품과 장식품들을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목칠<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6225001&cid=40942&categoryId=33060",
+			"description":" 나무로 만든 <b>공예<\/b>품 표면에 옻칠을 입히는 <b>공예<\/b> 기법.  목칠<b>공예<\/b>는 나무를 주재료로 사용하여 만드는 목<b>공예<\/b> 중에서도 그 위에 옻칠을 입히는 기법 혹은 그 결과물을 말한다. 옻칠은 물건에 광택과 윤기, 색과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지승<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6444510&cid=40942&categoryId=33061",
+			"description":" 전통 종이 <b>공예<\/b>기법의 하나로 한지를 꼬아 만든 끈으로 <b>공예<\/b>품을 제작하는 것.  부드러우면서도 질긴 한지의 특성을 활용하는 전통 '종이 <b>공예<\/b>(紙工藝)' 중 하나로, '지승<b>공예<\/b>'는 한지를 끈 형태로 만들어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화각<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6444515&cid=40942&categoryId=33060",
+			"description":" 나무로 만든 가구나 소품 위에 얇게 깎아 연마한 쇠뿔을 붙여 장식하는 <b>공예<\/b> 기법 혹은 <b>공예<\/b>품.  쇠뿔을 사용한 한국 고유의 각질(角質) <b>공예<\/b> 기법의 하나이다. 화각의 한자는 '畫角'이나 '華角'을 사용하며, 둘이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_374\/20210513061642250_CNIOSKNBS.jpg\/297856.jpg?type=m160_160"
+		},
+		{
+			"title":"민속<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2963061&cid=58097&categoryId=58097",
+			"description":"민속<b>공예<\/b>는 사람들이 자기 지방의 재료를 가지고 생활필수품과 기호품을 자기들의 생활풍습과 감정, 취미 등에 맞게 만드는 <b>공예<\/b>를 말한다. 민속<b>공예<\/b>는 처음에 생활필수품이나 기호품을 자체로 만들어 쓰는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교토<b>공예<\/b>섬유대학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1210417&cid=40942&categoryId=39950",
+			"description":"1949년 공포된 '국립학교설치법'에 따라 교토섬유전문학교와 교토공업전문학교를 통합하여 섬유학부와 <b>공예<\/b>학부의 2개 학부로 이루어진 공업계 대학으로 설립되었다. 1988년 학부 개편을 거쳐 2001년 현재 2개... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070193&cid=40942&categoryId=33062",
+			"description":" 금속을 주재료로 인간생활에 필요한 일용품이나 장식품을 만드는 <b>공예<\/b>.  재료에 따라 귀금속<b>공예<\/b>와 보통금속<b>공예<\/b>로 나눈다. 금·은 또는 백금과 같은 것을 사용하는 귀금속<b>공예<\/b>는 주로 장식품을 만드는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1132358&cid=40942&categoryId=33065",
+			"description":" 유리를 주재료로 하여 만든 <b>공예<\/b>품.  유리는 오늘날까지 일상생활의 모든 면에서 널리 활용되어 왔고, 특히 <b>공예<\/b> 재료로 뛰어나다. 즉, 매우 단단하고 아름다운 광택을 언제까지나 유지하고, 필요에 따라 투명한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_61\/20181026161308442_UTY6FHPVV.jpg\/1458386.jpg?type=m160_160"
+		},
+		{
+			"title":"도자<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6226898&cid=40942&categoryId=33060",
+			"description":" 도자기를 가공하는 기술이나 그로 인해 만들어진 <b>공예<\/b>품을 말한다.  흙을 빚어 만든 형태를 불에 굽고 장식하여 <b>공예<\/b>품을 만드는 대표적인 <b>공예<\/b> 형식 중 하나이다. '도자기<b>공예<\/b>' 혹은 줄여서 '도예'라고도 한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_168\/20181214023555732_4A5UM7EAT.jpg\/474484.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b>과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917510&cid=44346&categoryId=44346",
+			"description":"<b>공예<\/b>과는 인간이 가진 상상력과 다양한 물질을 통해 <b>공예<\/b>품을 풍요롭고 창의적으로 표현합니다. 조형예술의 한 장르인 <b>공예<\/b>에 있어 핵심 분야에 속하는 금속<b>공예<\/b>, 도자<b>공예<\/b>, 목칠<b>공예<\/b>, 섬유<b>공예<\/b>를 중심으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=539213&cid=46657&categoryId=46657",
+			"description":" 유리를 재료로 하여 조형미를 갖춘 각종 공산품을 만드는 <b>공예<\/b>. [내용] 대체로 통일신라시대까지는 유리가 보석과 같은 귀중품의 일종으로서 팔찌·목걸이 등 장신구로 활용되었을 뿐만 아니라 의식기(儀式器)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20171107195229938_KYWB3JWOJ.jpg\/dcf994ae-e9f9-47.jpg?type=m160_160"
+		},
+		{
+			"title":"은<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2440746&cid=51661&categoryId=51663",
+			"description":"[은<b>공예<\/b>] 은<b>공예<\/b>에 대해 알아본다. 전통 은<b>공예<\/b>품의 종류를 살펴본다. 은반지 만드는 과정을 알아본다.(동영상 출처 : EBS 동영상 (2010. 5. 20.))",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/14\/397\/531C04F3A33EF34C54E3226A53BF9A132C4_muploader_g_480P_854_1024_128_logo.jpg#1920x1280#m"
+		},
+		{
+			"title":"<b>공예<\/b>배",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2378895&cid=50762&categoryId=51368",
+			"description":"일명 '공중예배.' 교인들이 주일마다(혹은 이외에 정한 시간에) 교회에 모여 하나님께 예배드리며 성경을 연구하는 것은 <b>공예<\/b>배의 모범적인 모습이다. 대부분의 교회에서는 매주 세 번의 <b>공예<\/b>배 즉, 주일 낮... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>작물",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5781997&cid=62861&categoryId=62861",
+			"description":"<b>공예<\/b>작물은 식물에서 직접 생산된 생산물이 공업원료로 사용되는 원료 작물로서 여러 가공과정을 거쳐야 우리가 이용할 수 있는 상품으로 제작될 수 있는 원재료를 제공하는 작물들을 말한다. 일반적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5485_000_1\/20190819180416844_8TKF24SY2.jpg\/%25EA%25B3%25B5%25.jpg?type=m160_160"
+		},
+		{
+			"title":"옥<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2440759&cid=51661&categoryId=51663",
+			"description":"[옥<b>공예<\/b>] 조상들이 고귀하게 생각했던 옥의 종류에 대해 살펴본다. 옥으로 만든 여러 장신구와 생활용품에 대해 알아본다.(동영상 출처 : EBS 동영상 (2010. 5. 14.))",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/14\/1455\/531C04F3A33EF34C54E34279536F0913CC2_muploader_f_480P_854_1024_128_logo.jpg#1920x1280#m"
+		},
+		{
+			"title":"<b>공예<\/b>왕후",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%B5%EC%98%88%EC%99%95%ED%9B%84",
+			"description":"<b>공예<\/b>왕후 임씨 (恭睿王后 任氏, 1109년 10월 2일(음력 9월 7일) ~ 1183년 12월 2일(음력 11월 22일))는 고려의 17대 왕인 인종의 아내이자 의종, 명종, 신종의 어머니이다. 본관은 장흥(長興), 시호는 <b>공예<\/b> (恭睿)이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"귀금속<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1068406&cid=40942&categoryId=33062",
+			"description":" 금·은 및 이의 합금을 소재로 하는 <b>공예<\/b>.  장신구(裝身具)와 각종 기구나 장식품 등을 만드는 일도 포함된다. 고대문명의 발상지인 에게해(海) 주변에는 선사시대에 이미 귀금속<b>공예<\/b> 제품이 있었다. BC 2000년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>공예<\/b>류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1760007&cid=49298&categoryId=49298",
+			"description":"전통<b>공예<\/b>란 역사적인 시대성의 특징을 갖고 있는 예술적, 학문적 가치가 있는 물품을 말한다. 종류로는 장신구, 불구, 사리구, 의식용구, 일상용구, 무구(武具), 거여구(車輿具) 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"수산<b>공예<\/b>품",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1115379&cid=40942&categoryId=33065",
+			"description":" 조가비 ·진주 ·산호 및 별갑 같은 것을 재료로 하여 가공한 <b>공예<\/b>제품.  조가비 <b>공예<\/b>품은 조가비 형성층의 천연색채 또는 그 형상이나 형질을 이용하여 조각 또는 가공한 것으로 장롱 ·꽃병 ·수반 ·식탁 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>학과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917512&cid=44346&categoryId=44346",
+			"description":"[학과개요] <b>공예<\/b>는 일상생활에서 필요한 물건들의 본래 기능을 살리면서 동시에 예술적인 성취도 이루어 낼 수 있는 모든 작업을 일컫는 말입니다. 이렇듯 <b>공예<\/b>의 종류는 다양한 편인데, 가구를 제작하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"민속<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1096859&cid=40942&categoryId=33061",
+			"description":"개관 민속<b>공예<\/b>를 통해서 만들어진 물건을 민속<b>공예<\/b>품 또는 민예품(民藝品)이라 한다. 가장 오래 된 형태는 원시<b>공예<\/b>(原始工藝)이다. 유적에서 출토되는 구석기는 공구적(工具的) 성격이 짙어 이것을 <b>공예<\/b>라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전통<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451768&cid=51661&categoryId=51663",
+			"description":"[전통<b>공예<\/b>] 우리나라 전통<b>공예<\/b>에 대해 알아보고 조상의 솜씨와 전통<b>공예<\/b>의 아름다움을 느껴보자. 금속<b>공예<\/b>, 도자<b>공예<\/b>, 칠보<b>공예<\/b> 등.(동영상 출처 : EBS 동영상 (2008. 11. 7.))",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1937\/531C04F3A31FF3EC29E3536413E01CB3348_muploader_b_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"전통 <b>공예<\/b> - 다양한 한지 <b>공예<\/b>품",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2448784&cid=51670&categoryId=51671",
+			"description":"[전통 <b>공예<\/b> - 다양한 한지 <b>공예<\/b>품] 닥나무의 질긴 섬유질로 만든 한지는 오늘날의 종이보다 훨씬 질기고 활용도가 높아서 마치 종이가 아닌 느낌을 주는 다양한 <b>공예<\/b>품을 만들 수 있다.(동영상 출처 : EBS... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/18\/1952\/531C04F3A30FF38C9DE3937A13F08BB3E45_muploader_g_480P_854_1024_128_logo.jpg#1280x720#m"
+		},
+		{
+			"title":"직조<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6458282&cid=40942&categoryId=33061",
+			"description":"직조(織造) <b>공예<\/b>는 베틀과 같은 직기를 이용하여 날실(경사, 經絲, warp)과 씨실(위사, 緯絲, weft)을 교차하는 방식으로 직물을 만드는 작업 혹은 그 결과물을 말한다. [ 역사] 인류는 신석기 시대부터 간단한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"섬유<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6584329&cid=40942&categoryId=33061",
+			"description":"전통적으로 섬유<b>공예<\/b>는 주로 실용적·장식적 목적에서 제작되었다. 하지만 현대에 들어서 <b>공예<\/b>가 순수미술보다 하위에 있는 응용미술이 아닌, 그와 동등한 위치에 있는 것으로 인식되게 되며 섬유<b>공예<\/b> 또한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_390\/20220113061127397_LTLI4G3LE.jpg\/12437802.jpg?type=m160_160"
+		},
+		{
+			"title":"금속<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=550983&cid=46657&categoryId=46657",
+			"description":"[전통금속<b>공예<\/b>] 돌·나무·뼈 등을 주요 재료로 사용하던 신석기시대에 이어 구리［銅］가 인류 최초의 금속으로 등장함으로써 비로소 금속<b>공예<\/b>는 시작되었다고 할 수 있다. 그 시기는 지역에 따라 큰 차이가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20190629034927284_7ZW24ZTAV.jpg\/78cad40f-4162-4d.jpg?type=m160_160"
+		},
+		{
+			"title":"규방<b>공예<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B7%9C%EB%B0%A9%EA%B3%B5%EC%98%88",
+			"description":"규방<b>공예<\/b> 는 조선시대, 엄격한 유교사회에서 사회적 활동이 제한되었던 양반집 규수들의 생활 공간이었던 규방에서 생성된 <b>공예<\/b>장르이다. 규방에 모인 여인들이 침선(바느질)을 통해 다양한 생활용품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>과자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=292329&cid=48179&categoryId=48244",
+			"description":"과자로 만드는 <b>공예<\/b>작품. 기법을 장르별로 나누면 다음과 같이 분류할 수 있다. (1) 마지팬(  almond paste,   Marzipan) 세공: 마지팬 특유의 점토와 같은 감촉, 가소성을 이용하고 여러 가지 색을 들여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2440660&cid=51661&categoryId=51663",
+			"description":"[유리<b>공예<\/b>] 아름다운 유리 <b>공예<\/b>의 세계. 여러 가지 모양과 색을 내는 유리<b>공예<\/b>의 과정을 함께 해 본다.(동영상 출처 : EBS 동영상 (2010. 2. 2.))",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/14\/1681\/531C04F3A33EF34C53E32264536F2A13DC2_muploader_o_480P_854_1024_128_logo.jpg#1920x1280#m"
+		},
+		{
+			"title":"금속<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4368905&cid=59925&categoryId=59925",
+			"description":"시간이 요구되고 재료가 비싼 금속<b>공예<\/b>는 고귀한 계급 후원자에 속한다. 초기 이슬람 금속<b>공예<\/b>는 이슬람 이전의 사사니언 예술에 영향받아 장식 새, 동물, 신화가 주제였다. 우마이야의 청동 물병은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5184_000_1\/20171227211727267_9XWX92KHX.jpg\/db17_22_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b>태후",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=523607&cid=46621&categoryId=46621",
+			"description":"[생애 및 활동사항] <b>공예<\/b>태후(恭睿太后) 임씨(任氏)는 인종의 후비(后妃)이자, 의종(毅宗)·명종(明宗)·신종(神宗)의 모후이다. 본관은 정안(定安)이고, 아버지는 중서령 임원후(任元厚), 어머니는 문하시중 이위... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451714&cid=51661&categoryId=51662",
+			"description":"[금속<b>공예<\/b>] 금속<b>공예<\/b>의 제작 과정에 대해 알아보자. 금속 자르기, 땜질하기, 표면 고르게 하기.(동영상 출처 : EBS 동영상 (2008. 11. 7.))",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1639\/E3140413AF1F13E328B3EF7CE36C22C3848_muploader_k_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"설탕<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2038875&cid=42776&categoryId=42779",
+			"description":"설탕<b>공예<\/b>란 설탕을 이용하여 다양한 방법으로 여러 가지 꽃들과 동물, 과일, 카드 등의 장식물들을 만드는 기술이다. 일반적으로 케이크 장식에 널리 사용되면서 설탕<b>공예<\/b>가 발달했고, 현재는 테이블 세팅, 액자... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화각<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1632012&cid=42681&categoryId=42681",
+			"description":"화각<b>공예<\/b>(華角工藝)가 언제부터 시작되었는지는 분명하게 알 수 없으나 고려시대의 나전칠기에서 자개와 함께 사용한 대모(玳瑁)효과에서 비롯되었다고 보여진다. 이후 조선시대 화각함의 테두리 부분에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1445_000_2\/20121102172915759_VXFKDG1K9.jpg\/ea13_015_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b>작물",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063550&cid=40942&categoryId=31876",
+			"description":"대부분의 <b>공예<\/b>작물은 가공과정이 끝나면 부피와 무게는 작아지고 가격과 수송 및 저장력은 높아지는 것이 보통이다. 한국에서의 <b>공예<\/b>작물은 전매작물인 담배·인삼·참깨 등이 큰 비중을 차지하고 있으며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_5\/20180530183158545_YQLFNHCTS.jpg\/78720.jpg?type=m160_160"
+		},
+		{
+			"title":"부장<b>공예<\/b>품",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5720844&cid=63402&categoryId=63502",
+			"description":"흙을 뒤집어쓰고 있는 것을 손질한 듯 보이는 <b>공예<\/b>품들. 무덤 속의 부장물로 보인다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_1\/20190110143316916_AAUDENEGI.JPG\/Y2hpZWZwZHwzNDcy.JPG?type=m160_160"
+		},
+		{
+			"title":"<b>공예<\/b>작물",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1968965&cid=42526&categoryId=42538",
+			"description":"생산물을 가공하여 이용한다고 하여 <b>공예<\/b>작물이라 하고, 또한 특별한 용도로 쓰인다고 하여 특용작물이라고도 한다. 전분작물(澱粉作物, starch crops), 유료작물(油料作物, oil crop)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>사진",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063548&cid=40942&categoryId=33086",
+			"description":" <b>공예<\/b>품에 이용되는 사진.  도자기·책상보·의자의 쿠션 등에 쓰이는 천에 사진을 인화한 것, 실내 벽화를 사진으로 만든 것, 옻칠을 한 검은 판 또는 붉은 판 위에 사진을 인화한 칠기사진(漆器寫眞), 사진을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>공예<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%88%EC%86%8D%EA%B3%B5%EC%98%88",
+			"description":"금속<b>공예<\/b> (金屬工藝)는 미적인 금속가공을 의미한다. 다음은 그에 대한 설명이다. 기법 톱질 형태 기본 구조는 톱대와 톱날로 이루어져있음 종류 목공용 : 날이 지그재그 형태 금속용 : 수직이 아닌... ",
+			"thumbnail":""
+		},
+		{
+			"title":"타이중시섬유<b>공예<\/b>박물관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6174721&cid=40942&categoryId=34684",
+			"description":"섬유<b>공예<\/b>품을 소장 및 전시한다.  타이완 타이중시 다리구(大里區)에 위치한 시립박물관이다. 타이중현립문화센터 내 1990년 설립된 편직<b>공예<\/b>관(編織工藝館)이 그 전신이다. 타이중아동예술관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"칠<b>공예<\/b>가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551171&cid=42117&categoryId=42117",
+			"description":" 옻칠을 통해 다양한 <b>공예<\/b>품을 채색한다. [수행직무] 목재나 진흙 등의 기물 위에 옹이나 흠이 난 곳을 고운 톱밥과 생칠 등으로 표면을 고르고 생칠을 묽게 바른다. 다시 생칠과 찹쌀풀을 섞어 베나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고려의 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3410277&cid=47322&categoryId=47322",
+			"description":" 고려는 신라와 발해의 자기<b>공예<\/b> 전통 기술을 이어받고, 송나라의 기술을 결합해 11세기 자기 <b>공예<\/b>의 경지에 올랐다. 문벌귀족들은 비색 찬란한 자기를 원했고 이 때문에 고려청자가 발전했다. 무신집권기에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4465_000_1\/20160725121359317_M5HJCXB7X.jpg\/ha50_85_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"철사 <b>공예<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%A0%EC%82%AC_%EA%B3%B5%EC%98%88",
+			"description":"철사 <b>공예<\/b> (Wire art)는 철사를 이용하여 철사 조각 (Wire sculpture) 또는 철사 <b>공예<\/b>품(wire wrap jewelry)을 만드는 것이다. 보석<b>공예<\/b>에 철사를 응용한 역사는 이집트 제2왕조와 유럽의 청동기, 철기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"짚풀 <b>공예<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%9A%ED%92%80_%EA%B3%B5%EC%98%88",
+			"description":"짚풀 <b>공예<\/b> 는 짚을 이용한 <b>공예<\/b>이다. 우리 조상들은 짚풀로 만든 전통적인 신발인 짚신을 만들어 신었다고 한다. 이러한 짚신 뿐 아니라, 농기구, 의복 등 만들어졌던 짚풀 용구 및 장식품은 모두 그것을 만든... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한지 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1624808&cid=42940&categoryId=42940",
+			"description":"종이 <b>공예<\/b>는 민간에서 발달한 실내 문화이다. 한지로 일상생활의 소도구를 만들거나 사용하면서 형성된 종이 <b>공예<\/b>는 가정용 소품 <b>공예<\/b>였다. 종이 한 장도 버리지 않고 소중히 여겨 되풀이 사용하던 선조의 생활... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1518_000_1\/20121102131626927_3REJA54IF.jpg\/fl2_50_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"민속\/<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1780789&cid=49263&categoryId=49263",
+			"description":"호랑이는 그림으로서만이 아니라 도자기, 베개, 도장, 가리개, 화각, 칠기, 자수 등의 <b>공예<\/b>품으로 제작되기도 하고, 왕릉의 호석(護石), 십이지신상의 하나, 불상의 한 부분 등 조각품으로 만들어지기도 했다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_20\/20130625143642624_ES5F8D3D2.jpg\/z2_cp05120099000.jpg?type=m160_160"
+		},
+		{
+			"title":"유리 <b>공예<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9C%A0%EB%A6%AC_%EA%B3%B5%EC%98%88",
+			"description":"유리 <b>공예<\/b> ( 영어: Glass Art )는 유리의 특성을 활용하여 인간 생활에 구체적으로 봉사하는 기구 따위와 같은 것이지만 실용성과 인간의 마음을 즐겁게 하는 요소를 겸비한 <b>공예<\/b>이다. 유리 <b>공예<\/b>의 특징 유리의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"설탕 <b>공예<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%A4%ED%83%95_%EA%B3%B5%EC%98%88",
+			"description":"설탕 <b>공예<\/b> (Sugarcraft)는 제과제빵의 한 분야로 설탕에 열을 가해 가공하여 식음료의 가니시로 사용되거나, 그자체가 <b>공예<\/b>로서 예술품으로 인정받고있다. 아주많은 양의 설탕으로 큰 스핑크스 모양의 작품도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한의 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1189650&cid=40942&categoryId=33390",
+			"description":"중앙과 지방에 <b>공예<\/b>품을 제작하는 공방이라 할 만한 공관(工官)이 만들어졌다. 제도(帝都)에서는 고공실(考工室)·동원장(東園匠)·상방(尙方)이라고 하는 관제 공방이 있었다. 고공실과 상방은 오로지 제실용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b> 유리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2277800&cid=60227&categoryId=60227",
+			"description":"커트 유리, 스테인드 글라스, 조각 유리 등은 모두 <b>공예<\/b> 유리에 속한다. 조성적으로는 납유리 등 가공하기 쉬운 것을 이용한다. <b>공예<\/b> 유리에서는 투명성은 크고, 일반적으로 굴절률도 크다. 장신구, 장식품, 식기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직물 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2267883&cid=51089&categoryId=51089",
+			"description":"몬테라와 이크야에도 페루 여성들의 뛰어난 직물 <b>공예<\/b> 솜씨가 녹아 있다. 페루에서는 ‘직물 <b>공예<\/b>’가 곧 페루인의 정체성을 드러낸다고 할 만큼 중요하게 여겨진다. 문자 기록보다는 구전문화가 발달한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3498_000_1\/20141010130524851_J9BA7V1TN.jpg\/ea25_79_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"차와 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1636049&cid=50346&categoryId=50346",
+			"description":"차구는 <b>공예<\/b>의 발달에 영향을 주었다. 특히 고려 때의 음차풍이 고려청자의 발전에 영향을 주었다. 고려의 청자 차구로는 탕호(湯壺), 청자차완(靑磁茶碗) 등이 있었다. 이시기에는 철병과 다완 등이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"송의 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1186744&cid=40942&categoryId=33395",
+			"description":"오늘날 세계의 도자기 연구가들에게 송(宋)나라 도자기는 지금까지 인류가 만들어 놓은 <b>공예<\/b>품 가운데서 가장 아름다운 물건의 하나라고 상찬되고 있다. 이와 같은 송나라의 도자기가 완성단계에 다다른 것은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해옥 <b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3337759&cid=42856&categoryId=42856",
+			"description":"[개요] 태안반도 소원면의 남쪽 끝부분에 자리한 작고 아담한 마을 파도리는 해옥으로 유명하다. 파도초등학교 옆길로 들어가야 해수욕장으로 갈 수 있는데 바로 그곳에 해옥들을 전시한 해옥 전시장이 있다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2818_000_1\/20151211124614701_1H92NMR8A.jpg\/184879_image2_1.jpg?type=m160_160"
+		},
+		{
+			"title":"대한<b>공예<\/b>협회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1382957&cid=40942&categoryId=35591",
+			"description":" <b>공예<\/b>분야의 예술적 가치 향상, <b>공예<\/b> 대중화 실현을 목적으로 하는 비영리 단체.  1999년 9월 9일 설립되었다. 주요 사업은 리본<b>공예<\/b>, 비즈<b>공예<\/b>, 종이<b>공예<\/b>, POP, 와이어<b>공예<\/b>, 한지<b>공예<\/b>, 점토<b>공예<\/b> 등의 지도사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_328\/20190212015908741_4VEGCWYF9.jpg\/5186591.jpg?type=m160_160"
+		},
+		{
+			"title":"짚<b>공예<\/b> (안동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2604696&cid=51934&categoryId=54401",
+			"description":"[정의] 경상북도 안동 지역에서 풀과 짚으로 기물을 만드는 <b>공예<\/b>. [개설] 짚<b>공예<\/b>는 벼·보리·조·수수 등 주로 화본과 곡식의 이삭을 떨어낸 줄기로 만든 <b>공예<\/b>를 말한다. 고<b>공예<\/b>(藁工藝)·고공품(藁工品)이라고도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진천<b>공예<\/b>마을",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3335847&cid=42856&categoryId=42856",
+			"description":"[개요] 충북 진천군 문백면 <b>공예<\/b>촌길 일원에 도자기, 목<b>공예<\/b>, 천연염색, 한지<b>공예<\/b> 등 각 분야 예술인들이 모여 사는 진천<b>공예<\/b>마을이 있다. <b>공예<\/b>가들이 사는 마을답게 집 하나하나가 예술 작품처럼 특색... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2818_000_29\/20200912155836118_NGCEDIAJF.jpg\/2671552_image2_1.jpg?type=m160_160"
+		},
+		{
+			"title":"풀<b>공예<\/b> (제주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2627507&cid=51955&categoryId=55497",
+			"description":"[정의] 제주특별자치도 제주시에서 짚이나 풀을 재료로 생활 용구를 만드는 <b>공예<\/b>의 하나.[개설] 육지에서의 풀<b>공예<\/b>는 거의 대부분 볏짚을 이용하여 만들어 내는 민속<b>공예<\/b>품을 가리킨다. 그러나 제주도는 전체... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리지<b>공예<\/b>관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9C%A0%EB%A6%AC%EC%A7%80%EA%B3%B5%EC%98%88%EA%B4%80",
+			"description":"유리지<b>공예<\/b>관 (Yoolizzy Craft Museum)은 서울특별시 서초구 우면동에 위치한 박물관이다. 개요 2004년 10월 8일에 한국<b>공예<\/b>의 전통 속에 내재한 미적 특질을 현대미술의 흐름과 연계하여 연구·조사, 수집... ",
+			"thumbnail":""
+		},
+		{
+			"title":"옥<b>공예<\/b> (해남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5934152&cid=66793&categoryId=66818",
+			"description":"[정의] 전라남도 해남 지역에서 옥으로 장식품과 생활용품을 만드는 <b>공예<\/b>. [개설] 동양 문화권을 대표하는 보석으로 손꼽히는 옥(玉)은 아름다운 색채에 재질도 단단하여 예로부터 장신구·장식품 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"숯<b>공예<\/b> (진천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2634688&cid=51894&categoryId=53907",
+			"description":"[정의] 충청북도 진천군 덕산읍 한천리에서 진천참숯을 활용한 <b>공예<\/b>품을 생산하는 업체. [연원 및 변천] 충청북도 진천 지역의 참숯<b>공예<\/b>는 참숯이 건강에 도움을 준다는 것이 알려진 2000년대부터 본격화되었다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>공예<\/b>품의 이용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2963163&cid=58097&categoryId=58097",
+			"description":"오늘 우리 시대에 창조된 현대<b>공예<\/b>품들을 지난날의 <b>공예<\/b>품들과는 달리 시대상이 담겨진 생활적인 내용을 반영하여 사람들에게 북한의 아름답고 고상한 생활을 펼쳐 보이면서 그를 열렬히 지향해 나가도록... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>공예<\/b>과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917538&cid=44346&categoryId=44346",
+			"description":"청동기시대 이래 우리나라에서 제작된 금속<b>공예<\/b>품은 매우 다양합니다. 시대가 변함에 따라 금속<b>공예<\/b>는 부가가치가 높은 금속산업으로 가공기술, 전문지식을 이용하여 새로운 디자인의 창출과 기술개발을 통해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전지 (<b>공예<\/b>)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EC%A7%80_(%EA%B3%B5%EC%98%88)",
+			"description":"전지<b>공예<\/b> 란, 종이를 접어 가위로 무늬를 내어 부채에 오려 붙이는 것을 뜻한다. 전지의 기원 중국에서 가장 많이 보급되고 있는 전지는 민간전통예술 중 하나이다. 4세기경 당대 입춘날에 황제가 군신들에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도자기<b>공예<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2963062&cid=58097&categoryId=58097",
+			"description":"도자기는 사람들의 식생활을 비롯한 일상생활에 없어서는 안될 물건이다. 도자기는 실용기로서 뿐 아니라 장식품, 감상품으로서도 사람들의 생활과 깊이 관련되어 있다. 그러므로 우리의 선조들은 일찍부터... ",
+			"thumbnail":""
+		}
+	]
+}

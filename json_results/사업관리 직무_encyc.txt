@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Tue, 02 Aug 2022 16:42:12 +0900",
+	"total":39069,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"건설<b>사업관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627240&cid=42117&categoryId=42117",
+			"description":" 건설공사 발주자의 입장에서 건설공사의 기본구상 및 타당성 조사·<b>관리<\/b>, 계약<b>관리<\/b>, 설계<b>관리<\/b>, <b>사업<\/b>비<b>관리<\/b>, 공정<b>관리<\/b>, 품질<b>관리<\/b>, 안전<b>관리<\/b>, 환경<b>관리<\/b>, 준공 후 사후<b>관리<\/b> 등을 수행하여 건설공사를 원활히 진행... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장<b>사업<\/b>장자격<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025098&cid=42117&categoryId=42117",
+			"description":" 사회보장보험(국민건강보험, 국민연금, 고용보험, 산재보험) 대상 <b>사업<\/b>장의 자격<b>관리<\/b>를 위하여 <b>사업<\/b>장 신규가입·탈퇴·변동현황을 파악하여 처리한다. [수행<b>직무<\/b>] 국민건강보험, 국민연금, 고용 및 산재보험의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부동산정비<b>사업관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024617&cid=42117&categoryId=42117",
+			"description":"신청에 관한 업무, 분양 및 <b>관리<\/b>처분계획의 수립에 관한 업무를 대행하거나 자문하는 일을 한다. 설계도서의 검토 및 공사비 변동내역을 검토한다. 그밖에 조합업무 중 조합이 요청하는 업무를 지원한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"신재생에너지<b>사업관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024363&cid=42117&categoryId=42117",
+			"description":"발전소가 완공되면 한국전력거래소 및 한국전력공사에 신청하여 계통연계를 하고 발전<b>사업<\/b>을 개시한다. 발전소운전원의 채용이나 에너지<b>관리<\/b>공단으로부터 발전차액 대상설비 설치확인 등 발전소 운영을 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업<\/b>체조경<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029650&cid=42117&categoryId=42117",
+			"description":" 녹지대의 조경수목, 잔디, 조경시설물 등 제반 경관시설을 효율적으로 유지<b>관리<\/b>하기 위해 작업방법 등 계획을 수립하고 녹화<b>관리<\/b> 작업의 감독 및 녹지대 순회점검 등 제반 <b>관리<\/b>업무를 한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"에스코(ESCO)<b>사업관리<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024624&cid=42117&categoryId=42117",
+			"description":"회수하는 <b>사업<\/b>을 기획하고 추진한다. [수행<b>직무<\/b>] 에스코기업(ESCO, Energy Service Company:에너지... 상담 후 간이제안서를 준비하고 고객이 <b>사업<\/b>성 여부에 대한 결정을 내리도록 도와준다. 고객이 <b>사업<\/b>을 계속... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부동산<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024398&cid=42117&categoryId=42117",
+			"description":" 각종 부동산의 용지개발, 분양, 임대, 시설물<b>관리<\/b> 등의 업무에 관련된 계획을 수립하고, 종사원들의 활동을 지휘·감독하는 업무를 수행한다. [수행<b>직무<\/b>] 주택재건축<b>사업<\/b>, 주택재개발<b>사업<\/b>, 도시환경정비<b>사업<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"ITER 한국<b>사업<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3343408&cid=58167&categoryId=58167",
+			"description":"[ (1) 우리나라의 ITER 참여] 우리나라는 2002년 12월 KSTAR 건설을 통한 기술력을 바탕으로 ITER <b>사업<\/b> 참여 의향서를 제출하였다. 이에 ITER 국제기구 평가단의 실사를 거쳐 2003년 5월 제12회... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4172_000_1\/20160112141819291_AC9TBHIS2.jpg\/s_dj4_72_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"정보<b>관리<\/b>기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054144&cid=42114&categoryId=42114",
+			"description":"시스템을 설치 운영하기 위한 컴퓨터에 관한 전문적인 지식과 기술을 갖춘 전문기능인력을 양성하기 위해 정보<b>관리<\/b>기술사 자격제도가 제정되었다. (2) 주요 업무 : 정보<b>관리<\/b>기술사는 정보<b>관리<\/b>에 관한",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160106185927695_V25G2OAQE.jpg\/da6_558_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사업<\/b>자금대출원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025005&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 금융대출대상<b>사업<\/b>에 대한 정보수집 및 예비<b>사업<\/b>성 검토, 재원조달방안 수립, <b>사업<\/b>리스크 <b>관리<\/b>방안 제시 등 금융자문을 실시한다. 대출요청서와 <b>사업<\/b>계획서를 수렴하여 기본사항을 검토한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>관리<\/b>감독자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2208723&cid=51088&categoryId=51088",
+			"description":"<b>사업<\/b>주는 <b>사업<\/b>장의 <b>관리<\/b>감독자로 하여금 <b>직무<\/b>와 관련된 안전·보건에 관한 업무로서 안전·보건점검 등 대통령령으로 정하는 업무를 수행하도록 하여야 한다. 다만, 위험 방지가 특히 필요한 작업으로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회과학연구<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627248&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 중장기 발전 목표에 부합하는 연구 <b>사업<\/b>을 기획하고, 연구 <b>사업<\/b>을 합목적적으로 수행, <b>관리<\/b>한다. 경영 목표를 효과적으로 달성하기 위한 연구 <b>사업<\/b>을 기획하고, 인적·물적 자원을 <b>관리<\/b>하여 최적의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대전지방국토<b>관리<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EC%A0%84%EC%A7%80%EB%B0%A9%EA%B5%AD%ED%86%A0%EA%B4%80%EB%A6%AC%EC%B2%AD",
+			"description":"<b>직무<\/b> 건설 관련 기술자자격의 취소 또는 정지처분 각종 건설공사·용역의 계약<b>관리<\/b> 국가산업단지의 <b>관리<\/b>에 따른 행정처분 건설공사에 따른 용지매수 및 지장물 보상 도로건설<b>사업<\/b>에 관한 측량·조사·설계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원주지방국토<b>관리<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9B%90%EC%A3%BC%EC%A7%80%EB%B0%A9%EA%B5%AD%ED%86%A0%EA%B4%80%EB%A6%AC%EC%B2%AD",
+			"description":"<b>직무<\/b> 건설 관련 기술자자격의 취소 또는 정지처분 각종 건설공사·용역의 계약<b>관리<\/b> 국가산업단지의 <b>관리<\/b>에 따른 행정처분 건설공사에 따른 용지매수 및 지장물 보상 도로건설<b>사업<\/b>에 관한 측량·조사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서울지방국토<b>관리<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%9C%EC%9A%B8%EC%A7%80%EB%B0%A9%EA%B5%AD%ED%86%A0%EA%B4%80%EB%A6%AC%EC%B2%AD",
+			"description":"<b>직무<\/b> 건설 관련 기술자자격의 취소 또는 정지처분 각종 건설공사·용역의 계약<b>관리<\/b> 국가산업단지의 <b>관리<\/b>에 따른 행정처분 건설공사에 따른 용지매수 및 지장물 보상 도로건설<b>사업<\/b>에 관한 측량·조사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"익산지방국토<b>관리<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B5%EC%82%B0%EC%A7%80%EB%B0%A9%EA%B5%AD%ED%86%A0%EA%B4%80%EB%A6%AC%EC%B2%AD",
+			"description":"<b>직무<\/b> 건설 관련 기술자자격의 취소 또는 정지처분 각종 건설공사·용역의 계약<b>관리<\/b> 국가산업단지의 <b>관리<\/b>에 따른 행정처분 건설공사에 따른 용지매수 및 지장물 보상 도로건설<b>사업<\/b>에 관한 측량·조사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부산지방국토<b>관리<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B6%80%EC%82%B0%EC%A7%80%EB%B0%A9%EA%B5%AD%ED%86%A0%EA%B4%80%EB%A6%AC%EC%B2%AD",
+			"description":"<b>직무<\/b> 건설 관련 기술자자격의 취소 또는 정지처분 각종 건설공사·용역의 계약<b>관리<\/b> 국가산업단지의 <b>관리<\/b>에 따른 행정처분 건설공사에 따른 용지매수 및 지장물 보상 도로건설<b>사업<\/b>에 관한 측량·조사·설계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안전보건<b>관리<\/b>규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6625154&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | 安全保健管理規程(한자) | <b>사업<\/b>주는 <b>사업<\/b>장의 안전 및 보건을 유지하기 위해 ▷안전 및 보건에 관한 <b>관리<\/b>조직과 그 <b>직무<\/b> ▷안전보건교육 ▷작업장의 안전 및 보건 <b>관리<\/b> ▷사고 조사 및 대책... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소독<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025534&cid=42117&categoryId=42117",
+			"description":" <b>사업<\/b>체 및 주택 등 고객의 위상상태를 점검·<b>관리<\/b>하며 구충, 살균, 소독하는 작업원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] <b>사업<\/b>체, 주택, 운송시설, 공공시설물 등 고객이 요구하는 지역을 검사하여 바퀴벌레... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>관리<\/b>감독자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=506153&cid=42380&categoryId=42380",
+			"description":"이러한 <b>관리<\/b>감독자는 당해 <b>사업<\/b>장의 당해 <b>직무<\/b>와 관련된 안전ㆍ보건상의 업무를 수행하여야 하며, 그리고 특히 위험방지가 필요한 작업에 대해서는 당해 작업의 <b>관리<\/b>감독자를 안전담당자로 지정하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"품질<b>관리<\/b>컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832724&cid=42117&categoryId=42117",
+			"description":" <b>사업<\/b>체의 품질<b>관리<\/b>시스템에 대하여 자문하고 품질<b>관리<\/b> 인증을 받을 수 있도록 진단 및 교육을 실시한다. [수행<b>직무<\/b>] 품질<b>관리<\/b>시스템에 관해 진단을 의뢰한 <b>사업<\/b>체의 당면과제를 파악한다. 국제표준화기구... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024515&cid=42117&categoryId=42117",
+			"description":" 조직적인 인사<b>관리<\/b>, 합리적인 <b>직무<\/b>평가, 과학적인 교육훈련 등을 목적으로 <b>사업<\/b>체 및 공공기관 등에서 수행되는 업무의 내용, 수행요건, 근로조건 등과 같은 기술적인 정보를 조사·분석·평가한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"물류<b>관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1205272&cid=40942&categoryId=31850",
+			"description":" 물류<b>관리<\/b>에 필요한 <b>직무<\/b>를 수행하는 전문가.  물류에 관한 전문지식이 필요한 사항에 대하여 계획... 국토해양부 장관이 실시하는 자격시험에 합격한 뒤, 물류<b>사업<\/b>체·제조업체·유통업체 등에 소속되어 물류... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전산부서<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024477&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>사업<\/b>계획에 따라 구체적인 <b>사업<\/b>의 한계 영역과 우선 순위를 결정한다. 전산장비의 구입에 관한 사항을 협의한다. 경영주 또는 기술진의 특정 정보에 대한 요구사항을 검토한다. 컴퓨터체제의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"극장시설<b>관리<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024653&cid=42117&categoryId=42117",
+			"description":" 극장운영업과 관련된 <b>사업<\/b>내역을 <b>관리<\/b>하고 운영하는 업무를 수행한다. [수행<b>직무<\/b>] 극장을 찾아온 손님들의 편의를 제공하기 위한 부대시설을 운영·<b>관리<\/b>한다. 극장 내에서 제공할 수 있는 다양한 서비스를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안전보건<b>관리<\/b>규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2210063&cid=51088&categoryId=51088",
+			"description":"업종, 기계설비, 생산공정 등의 실태에 적응하여 산업재해예방을 추진하기 위해 각 <b>사업<\/b>장에서... ① 안전보건의 <b>관리<\/b>조직과 <b>직무<\/b>에 관한 사항 ② 안전보건교육에 관한 사항 ③ 작업장의 안전<b>관리<\/b>에 관한 사항... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공정<b>관리<\/b>기술자(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024756&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>사업<\/b>체의 생산여건 등을 고려하여 관련공정 간 가동계획을 검토·조정한다. 재고<b>관리<\/b> 수준을 설정하여 공장별 또는 공정별 소재처리 및 제품생산계획을 수립한다. 공정개선을 위해 기존 제조공정의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"송유관<b>사업<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1202073&cid=40942&categoryId=31712",
+			"description":" 송유관의 설치·<b>관리<\/b>에 관한 사항을 규정한 법률(1999. 2. 8, 법률 5832호).  송유관 사고로 인한 위험을... 송유관설치자 또는 이로부터 송유관의 <b>관리<\/b>를 위탁받은 송유관<b>관리<\/b>자는 송유관의 안전을 확보하기 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=20692&cid=43659&categoryId=43659",
+			"description":"미국은 공공기관의 만성적인 공기 지연과 예산초과를 바로잡기 위해서 1960년에 건설<b>사업관리<\/b>를 처음 도입했고, 한국은 삼풍백화점과 성수대교 붕괴 등으로 건설산업 불신 문제가 커진 후인 1997년에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"온실가스<b>관리<\/b>컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664772&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 정부, 정부기관, 기업 등과 상담하여 온실가스<b>관리<\/b> 컨설팅 <b>사업<\/b>을 수주한다. 온실가스 배출량, 배출원, 배출활동, <b>관리<\/b>조직, 재무현황 등을 조사하여 온실가스 <b>관리<\/b> 현황을 파악한다. 감축잠재량 평가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연구<b>관리<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024626&cid=42117&categoryId=42117",
+			"description":" 연구의 효과적인 수행과 연구결과물의 효율적 사용을 위하여 연구<b>사업<\/b>협약, 연구수행<b>관리<\/b>, 연구성과<b>관리<\/b>, 기술이전에 관한 업무를 수행한다. [수행<b>직무<\/b>] 연구<b>사업<\/b>을 효과적으로 수행하기 위해 정부, 기업... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대기오염총량<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025816&cid=42117&categoryId=42117",
+			"description":" <b>사업<\/b>장 대기오염물질 총량<b>관리<\/b>제 및 배출권 전자거래시스템 관련 정책의 지원, 대기총량<b>관리<\/b>시스템 설치 및 운영, 도로 비산먼지 이동측정시스템을 구축·운영한다. [수행<b>직무<\/b>] <b>사업<\/b>장 대기오염물질 총량<b>관리<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔<b>관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970585&cid=42114&categoryId=42114",
+			"description":" 호텔<b>관리<\/b>사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 호텔<b>관리<\/b>사 시험에 합격한 후 그 자격을 취득한 자를 말한다.... 자격정보] (1) 호텔<b>관리<\/b>사 ① 호텔<b>관리<\/b>사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20201231183049481_SWMZ1X5JL.jpg\/da6_192_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"건설<b>사업관리<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1711290&cid=43667&categoryId=43667",
+			"description":"특히 건설<b>사업관리<\/b> 중에서 책임형 CM(CM at risk)은 CM업체가 공사비 최대한도와 공사기간을 미리 정해 놓고 이를 초과하는 부분에 대해 책임을 지면서, 직접 공사를 수행하는 방식이다. 최대 공사비 한도를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국방<b>사업관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6598285&cid=42114&categoryId=42114",
+			"description":" 국방<b>사업관리<\/b>사란 응시자격을 갖춘 자가 방위<b>사업<\/b>교육원에서 시행하는 국방<b>사업관리<\/b>사 시험에 합격한 후 자격을 취득한 자를 말한다. 응시자는 과목당 100점을 만점으로 하여 매 과목 40점 이상, 전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양묘<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029704&cid=42117&categoryId=42117",
+			"description":" 우량한 산림수목 생산을 위하여 산림묘포 상의 각종 묘목을 보호하고 <b>관리<\/b>하는 작업원의 활동을 <b>관리<\/b>·감독한다. [수행<b>직무<\/b>] 각종 묘포<b>사업<\/b>장에서 종자의 정선, 매장, 발아촉진, 묘포의 경운, 묘포 경영에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"변화<b>관리<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%80%ED%99%94%EA%B4%80%EB%A6%AC",
+			"description":"기업의 인수 및 합병, 대규모 <b>사업<\/b>교환, 분사, 기업결합, 대기업으로부터의 분리 독립 등으로 인해... 변화<b>관리<\/b>에 대한 호주기준 <b>직무<\/b>능력표준을 썼다. 변화<b>관리<\/b> 모델 존 코터(Kotter, J. P.)의 변화<b>관리<\/b> 8단계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보건<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627192&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 정기적으로 <b>사업<\/b>장을 순회점검한다. 유해·위험 요인을 찾는 위험성 평가를 실시한다. 보건과 관련된 보호구 구입 시 적격품 선정에 관하여 지도 및 조언한다. 화학물질에 대하여 작성된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보험<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024386&cid=42117&categoryId=42117",
+			"description":"보험금 지급계획을 수립하여 지급업무와 관련된 지시사항에 대하여 조치와 보고를 한다. 보험시장에 대한 정보를 수집하고 보험상품을 홍보한다. 직원을 <b>관리<\/b>하고 타 보험<b>사업<\/b>자, 의료기관 등과 교섭한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"콘텐츠<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832734&cid=42117&categoryId=42117",
+			"description":" 주전산기에 입력할 각종 정보를 정리·분석하고 신규서비스를 제공하기 위하여 자료를 개발·<b>관리<\/b>한다. [수행<b>직무<\/b>] 장기<b>사업<\/b>계획 및 신규서비스에 따른 입력정보의 종류 및 수량을 확인하고 관련 자료를 수집... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업관리<\/b>본부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC%EB%B3%B8%EB%B6%80",
+			"description":"<b>사업관리<\/b>본부 (事業管理本部)는 방위력개선<b>사업<\/b>의 <b>관리<\/b>에 관한 사무를 관장하는 대한민국 방위<b>사업<\/b>청의 소속기관이다. 군인을 제외한 정원은 488명이며, 본부장은 고위공무원단 가등급에 속하는 일반직공무원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6413383&cid=42094&categoryId=42094",
+			"description":"건설<b>사업관리<\/b>란 건설공사의 기획 · 타당성조사 · 분석 · 설계 · 조달 · 계약 · 시공<b>관리<\/b> · 감리 · 평가 · 사후<b>관리<\/b> 등 <b>관리<\/b>업무의 전부 또는 일부를 맡아서 수행하는 것을 말한다. 건설공사는 전문적이고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"통신정보<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832736&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 장기<b>사업<\/b>계획에 따른 입력정보의 종류 및 수량을 확인하고 관련 자료를 수집·분석한다. 정보의 종류에 따라 입력할 위치를 결정하고 필요한 내용을 정리한다. 일일 입력정보의 내용을 검토하고 관련... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스포츠경영<b>관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970480&cid=42114&categoryId=42114",
+			"description":"② 스포츠경영<b>관리<\/b>사 자격제도는 스포츠경영<b>관리<\/b> 분야에서의 올바른 <b>직무<\/b>활동을 위하여 스포츠경영<b>관리<\/b> 분야의 전문가를 양성하기 위하여 2005년에 신설되었다. (2) 자격특징 ① 스포츠경영<b>관리<\/b>사 자격은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191023185801620_7UI70BFYC.jpg\/da6_87_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"우정<b>사업<\/b>본부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B0%EC%A0%95%EC%82%AC%EC%97%85%EB%B3%B8%EB%B6%80",
+			"description":"<b>직무<\/b> 우편물의 접수·운송·배달 등 우편<b>사업<\/b>에 관한 사무 우체국예금·우체국보험 등... 통괄하여 <b>관리<\/b>하고 있다. 금융<b>사업<\/b> 예금, 보험, 체크카드 업무를 취급한다. 이전에는 자체 브랜드 없이 삼성카드... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원산지<b>관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3581885&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 원산지<b>관리<\/b>사 ① 원산지<b>관리<\/b>사란 국제원산지정보원에서 시행하는 원산지<b>관리<\/b>사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 원산지<b>관리<\/b>사는 원산지인증수출자 제도상 원산지 <b>관리<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191227113944131_UQM25V89L.png\/da6_814_i2.png?type=m160_160"
+		},
+		{
+			"title":"사용<b>사업관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3382694&cid=42279&categoryId=42279",
+			"description":" 사용<b>사업관리<\/b>대장이란 파견근로자 사용업체에서 준비해야 하는 점검 서식이다.  파견근로자란 파견<b>사업<\/b>주가 고용한 근로자로써 근로자파견의 대상이 되는 자를 말한다. 근로자파견의 기간은 원칙적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510120823569_VOIFVF7AW.jpg\/hb10_21661_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"산업위생<b>관리<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054028&cid=42114&categoryId=42114",
+			"description":"② 산업위생<b>관리<\/b>기사 제도는 <b>사업<\/b>장에서 발생하는 화학적, 물리적, 인체공학적 혹은 생물학적 유해요인을 측정, 평가하여 이를 <b>관리<\/b>하고, 유해요인을 감소 및 제거하여 쾌적한 작업환경을 조성하고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210705104004857_IDG6W80OA.jpg\/da6_442_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"사용<b>사업관리<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2781487&cid=51373&categoryId=51373",
+			"description":" 파견근로자에 관한 사항을 기재하는 서식.  파견은 <b>사업<\/b>주가 고용한 근로자의 보직 소속을 바꾸지 않고 일정기간 타기관으로 이동시켜 해당 기관 및 단체에서 임시로 근무하게 하는 것을 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508204415690_IMJEVEOKK.jpg\/ba17_20971_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>권한규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1144607&cid=40942&categoryId=31911",
+			"description":" <b>관리<\/b>조직에서 각 직위가 갖는 책임 및 권한의 내용을 표시한 성문적 규정.  <b>관리<\/b>조직 안에 있는 여러... <b>직무<\/b>권한규정은 <b>사업<\/b>장이나 부·과의 설치, 부문장(部門長)의 설치와 지휘명령계통 등을 규정한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"게임플랫폼<b>사업<\/b>기획자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627172&cid=42117&categoryId=42117",
+			"description":"게임 서비스 운영 및 퍼블리싱을 위한 IT 서비스 및 이슈 및 리스크를 <b>관리<\/b>한다. <b>사업<\/b>, 운영, 개발 등 유관부서와의 원활한 커뮤니케이션을 통해 협업을 조율한다. 프로젝트에 대한 이슈를 사전에 인지하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가맹<b>사업관리<\/b>자",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%80%EB%A7%B9%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC%EC%9E%90",
+			"description":"가맹<b>사업관리<\/b>자 (加盟事業管理者)는 하나의 프렌차이즈 <b>사업<\/b>이 발전하는 과정 가운데, 해당 가맹점을 지원, <b>관리<\/b>하는 직업을 의미한다. 지원 활동 외에 교육 프로그램, 공동 프로모션과 같은 가맹점에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"총괄<b>사업관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=16974&cid=43659&categoryId=43659",
+			"description":"효율적인 <b>사업<\/b> 추진과 도시기반시설의 계획•설치 업무 등을 위해 도입되었다. 2007년 현행 도시재정비촉진법상 주택공사, 토지공사와 지방공사가 총괄<b>사업관리<\/b>자로 지정될 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장보험가입자<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025093&cid=42117&categoryId=42117",
+			"description":" 고용보험, 산재보험 피보험자 및 국민건강보험, 국민연금 등의 사회보장보험가입자를 <b>관리<\/b>하기 위하여 <b>사업<\/b>장별 가입자의 취득·상실·변동사항을 파악하여 <b>관리<\/b>한다. [수행<b>직무<\/b>] 피보험자 및 가입자의 가입... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회<b>사업<\/b>단체임원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024413&cid=42117&categoryId=42117",
+			"description":" 사회<b>사업<\/b>단체의 이사장 또는 임원으로서 단체의 설립 취지에 따라 각종 사회복지<b>사업<\/b>을 운영·총괄하고, 소속 직원을 지도·감독한다. [수행<b>직무<\/b>] 사회복지<b>사업<\/b>단체의 이사장, 단장, 대표자 등의 임원으로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"박물관 인력 <b>관리<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2028751&cid=43112&categoryId=43112",
+			"description":"또한 총체적인 박물관 업무, 즉 계획·조직·인사<b>관리<\/b>·감독·조정·정책결정·재정지원에 대한 책임도 동시에 담당하고, 때로는 작품 수집·보존·연구·전시·작품분석 등의 실무에까지 관여하기도 한다. 모든... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2752_000_1\/20131004104253235_7FXG6BCB5.jpg\/ea23_19_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"담배품질<b>관리<\/b>기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024758&cid=42117&categoryId=42117",
+			"description":"품질<b>관리<\/b> 개선에 관한 <b>사업<\/b>을 입안하고 실시한다. 품질정보의 수집, 각종 공업표시허가 취득에 따른 사전 및 사후<b>관리<\/b>를 한다. 근로자의 품질교육을 계획하고 실시한다. 품질<b>관리<\/b>를 위한 지침서를 작성한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수도<b>사업<\/b>전기설비기술원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551192&cid=42117&categoryId=42117",
+			"description":"수·변전설비, 변전소, 차단기, 전동기 등을 포함한 전기설비를 점검하여 안전한 수돗물을 공급할 수 있도록 유지·<b>관리<\/b>한다. 관할 <b>사업<\/b>장을 순회하며 전력설비 및 전기설비의 정기검사를 통하여 사고발생을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보안 <b>관리<\/b> 요약",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3432113&cid=58437&categoryId=58437",
+			"description":"가치를 교육하고 관련 국제표준을 기반으로 정보 보안 <b>관리<\/b> 체계를 갖추어 운영해야 함 2. 정보 보안 거버넌스 점검 사항 • <b>사업<\/b> 전반에 걸친 이슈(An Enterprise-Wide Issue) • 경영진의 책임의식",
+			"thumbnail":""
+		},
+		{
+			"title":"산업위생<b>관리<\/b>기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054029&cid=42114&categoryId=42114",
+			"description":"② 산업위생<b>관리<\/b>기술사 제도는 <b>사업<\/b>장에서 발생하는 화학적, 물리적, 인체공학적 혹은 생물학적 유해요인을 측정, 평가하여 이를 <b>관리<\/b>하고, 유해요인을 감소 및 제거하여 쾌적한 작업환경을 조성하고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171241827_DOVX5SBZ1.jpg\/da6_443_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"건설<b>사업관리<\/b>전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1251170&cid=40942&categoryId=31851",
+			"description":"건설<b>사업관리<\/b>전문가(CMP)는 전문지식과 실무경험에 입각한 건설<b>사업<\/b>의 구상단계에서부터 계획단계, 설계단계, 구매조달단계, 시공단계, 유지<b>관리<\/b>단계에 걸쳐서 일어나는 업무를 <b>사업<\/b>범위<b>관리<\/b>, 공사비<b>관리<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사업<\/b> 성과 <b>관리<\/b> 체계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2757541&cid=50307&categoryId=50307",
+			"description":"측면의 관계를 설정하고, 실적 가치 지표를 통하여 진행 상황의 객관적 측정 · 실제 비용 집계 · 계획에 대한 편차 분석 · 마일스톤 달성 예측 · 예측 비용 추정 · 기준선에 변경 · 통합하는 <b>사업 관리<\/b> 기법.",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>실적현황표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2831135&cid=42279&categoryId=42279",
+			"description":" 건설산업기본법 시행규칙에 의한 건설<b>사업관리<\/b>실적현황표 행정서식.  건설산업기본법 시행규칙 [시행 2015. 8. 1.] [국토교통부령 제168호, 2014. 12. 31., 일부개정]에 의한 [서식 22의3]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723170505153_HVY7GHTOS.jpg\/hb10_17569_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사업관리<\/b>기관 및 부서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6480933&cid=55599&categoryId=55599",
+			"description":"무기 체계 또는 장비 체계, 물자 등을 연구 개발 또는 구매함에 있어서 해당 <b>사업<\/b>에 대한 모든 계획, 집행 및 사후 <b>관리<\/b>까지 직접적인 책임을 담당하고 있는 부서로서 <b>사업 관리<\/b>본부, 국책 <b>사업<\/b>단, 각 군(군수사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"통신<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627227&cid=42117&categoryId=42117",
+			"description":"정보시스템 및 전산운영 부서와 <b>사업<\/b>체의 운영을 기획, 지시한다. 전자 자료처리와 컴퓨터시스템 운영 및 개발을 위한 기준을 수립하고 작업을 평가한다. 자료처리, 시스템 요건 및 명세사항을 사용자와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재무<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627238&cid=42117&categoryId=42117",
+			"description":"원활한 <b>사업<\/b>추진을 위해 현금 흐름을 예측하여 관련된 자금조달과 운용계획을 수립하고적시에 효율적으로 실행하여 재무건전성을 제고한다. 결산 프로세스에 따라 계획을 수립하고 기업의 거래기록을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부문<b>관리<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1103780&cid=40942&categoryId=31909",
+			"description":"이익중심점으로서의 부문<b>관리<\/b>형태의 전형적인 예는 <b>사업<\/b>부제에서 찾아볼 수 있다. <b>사업<\/b>부제하에서 각... 부문<b>관리<\/b>자가 고려하여야 할 구체적인 <b>직무<\/b>로 다음과 같은 것이 있다. ① 계획의 수립:각 부문에 주어진... ",
+			"thumbnail":""
+		},
+		{
+			"title":"벌목장<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024465&cid=42117&categoryId=42117",
+			"description":"벌목된 목재를 공급하기 위한 시장을 확보하고 목재가격을 산정하여 판매한다. <b>사업<\/b>진행에 따른 소요인부·벌목기간·생산량 등의 작업내용을 기록부에 작성하고 보존한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024505&cid=42117&categoryId=42117",
+			"description":"컴프(Comp:고객의 게임실적에 따라 카지노<b>사업<\/b>자가 카지노 고객에게 무료로 숙식 및 교통 등의 서비스를 제공) 및 크레딧(게임하는 것을 조건으로 고객에게 칩으로 제공하는 신용대여) 관련 정책을 수립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자산<b>관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070038&cid=42114&categoryId=42114",
+			"description":" 자산<b>관리<\/b>사란 한국금융연수원에서 시행하는 자산<b>관리<\/b>사 시험에 합격한 자를 말한다. 일명... 자산<b>관리<\/b>사 시험은 객관식으로, 1부와 2부로 나누어진다. 각 부별 성적이 시험과목별로 100점 만점을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100820174_5P1XKB2WJ.jpg\/da6_711_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"건설<b>사업관리<\/b>자재무정보현황표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833143&cid=42279&categoryId=42279",
+			"description":" 건설산업기본법 시행규칙에 의한 건설<b>사업관리<\/b>자재무정보현황표 행정서식.  건설산업기본법 시행규칙 [시행 2014. 8. 7.] [국토교통부령 제120호, 2014. 8. 7., 타법개정]에 의한 [서식 22의4]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723184426490_ZNWXU9ZZY.jpg\/hb10_19577_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"연구개발<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024408&cid=42117&categoryId=42117",
+			"description":"진행 중인 연구개발<b>사업<\/b>의 결과를 검토하고 제안한다. 연구계획부터 진행사항, 최종 결과를 상위 총괄<b>관리<\/b>자에게 보고하고 협의한다. 연구개발 팀원의 업무를 <b>관리<\/b>하고 감독·평가한다. 타 부서 또는 본부와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공학연구<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627249&cid=42117&categoryId=42117",
+			"description":"연구개발관련 신<b>사업<\/b> 기획 및 신제품 발굴 업무를 한다. 연구정책의 방향에 따라 연구부서나 연구팀을 구성하고 그 업무를 <b>관리<\/b>한다. 진행 중인 연구개발<b>사업<\/b>의 결과를 검토하고 제안한다. 연구계획부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영화배급<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024426&cid=42117&categoryId=42117",
+			"description":"극장의 규모, 지역, 관객 수 등을 고려하여 상영기간, 배급금액을 각 <b>사업<\/b>주와 협의하여 결정한다. 각 상영관에 영화필름과 영화데이터(CD, DVD)를 배급한다. 영화의 상영이 종료되면 TV방영, DVD제작, 해외배급... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전시장<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024636&cid=42117&categoryId=42117",
+			"description":" 전시장의 임대와 관련된 계약 등의 업무를 하며 전시와 관련된 업체선정 업무를 <b>관리<\/b>한다. [수행<b>직무<\/b>] 전시장의 연간 전시가능일수를 계산한다. 전시기획업체에 대한 영업활동을 한다. 기존 전시회 외에 새롭게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광고판매<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024480&cid=42117&categoryId=42117",
+			"description":"광고 판매를 위해 각종 <b>사업<\/b>체의 담당사무원과 협의한다. 광고요금 및 광고정책에 대한 정보를 제공한다. 광고영업사무원에게 판매전략을 교육시키고, 광고 판매실적을 <b>관리<\/b>한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"해외취업<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627246&cid=42117&categoryId=42117",
+			"description":"운영, <b>관리<\/b> 및 지원한다. [수행<b>직무<\/b>] 해외취업 정보 수집을 계획하고 정보 채널을 확보하며 필요한 정보를 분석하여 데이터베이스를 구축한다. 해외취업 <b>사업<\/b> 타당성을 검토하고 <b>사업<\/b> 전략 및 실행 계획을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기업재난<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024604&cid=42117&categoryId=42117",
+			"description":"기업의 재난(사고)대응 체계와 <b>사업<\/b>연속성 확보계획을 수립한다. 수립된 재난(사고)대응체계와 <b>사업<\/b>연속성 확보계획에 대한 모의훈련을 계획, 수행 및 평가한다. 기업의 재해경감활동 및 <b>사업<\/b>연속성 절차에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전기안전<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029179&cid=42117&categoryId=42117",
+			"description":"<b>사업<\/b>소의 관할구역을 순시하여 위해 발생요인을 제거하도록 조치하고 실적을 점검한다. 설비운영현장 및 공사현장을 확인하여 안전작업수칙의 준수 여부를 확인·점검한다. 안전장구의 <b>관리<\/b> 및 사용실태를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"열쇠<b>관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070033&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 열쇠<b>관리<\/b>사 : 열쇠<b>관리<\/b>사는 공동주택 공사장에서 열쇠관련 공사에 입찰하여 잠금 및... 열쇠(잠금장치)기술자로서 생산계층을 유기적으로 연계시키고 기술인력의 <b>관리<\/b> 및 실무에 따른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생산<b>관리<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2055320&cid=44414&categoryId=44414",
+			"description":"개념 및 정의] 생산<b>관리<\/b>(生産管理, production management)란 생산활동을 계획하고, 조직하고, 통제하는... 제품과 서비스의 생산을 효과적·효율적으로 <b>관리<\/b>하는 학문체계는 오랫동안 생산<b>관리<\/b>라는 명칭을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140318175826206_L01T19QWX.jpg\/z7_term21_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"네트워크<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028725&cid=42117&categoryId=42117",
+			"description":" 클라이언트, 서버, 인터넷 및 인트라넷 형태의 전산망 관련 하드웨어 및 소프트웨어자원을 <b>관리<\/b>하고 운영한다. [수행<b>직무<\/b>] 네트워크시스템에 대한 운영과 <b>관리<\/b>의 지침을 마련한다. 전체적인 네트워크시스템의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신용조사<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024379&cid=42117&categoryId=42117",
+			"description":" 법인<b>사업<\/b>자와 개인<b>사업<\/b>자가 상거래에 필요한 개인이나 기업의 금융자산에 대한 신용도조사를 계획하고 조사실시를 지시하며 조사결과를 종합 검토한다. [수행<b>직무<\/b>] 고객으로부터 특정 법인이나 개인의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광업종합<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024434&cid=42117&categoryId=42117",
+			"description":" 석탄, 금속 및 비금속광물 채굴 및 채취, 소금채취업 등 광업 분야의 <b>사업<\/b>활동을 기획·지휘·조정한다. [수행<b>직무<\/b>] 광업생산 정책을 수립·집행한다. 예산을 편성한다. 공급자, 고객, 정부기관 및 다른 업체와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"용역계약<b>관리<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658664&cid=42117&categoryId=42117",
+			"description":" 용역계약을 체결하고 계약의 이행을 <b>관리<\/b>한다. [수행<b>직무<\/b>] 용역계약 공고문를 작성한다. <b>사업<\/b>공고, 서류징구, 계약안내 등 계약 체결절차를 진행한다. 계약서류를 검토하고 계약을 체결한다. 계약서, 유의서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예체능연구<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627253&cid=42117&categoryId=42117",
+			"description":"연구개발관련 신<b>사업<\/b> 기획 및 신제품 발굴 업무를 한다. 연구정책의 방향에 따라 연구부서나 연구팀을 구성하고 그 업무를 <b>관리<\/b>한다. 진행 중인 연구개발<b>사업<\/b>의 결과를 검토하고 제안한다. 연구계획부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자원봉사<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025557&cid=42117&categoryId=42117",
+			"description":" 자원봉사자의 홍보·모집 및 교육을 비롯하여 면접·선발·배치, 그리고 이들의 원활한 활동을 지원하기 위하여 관련 <b>사업<\/b>을 기획·조정·<b>관리<\/b>한다. [수행<b>직무<\/b>] 지역사회 문제를 진단, 예방, 해결하기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>발명보상제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=16781&cid=43659&categoryId=43659",
+			"description":"연구자가 <b>직무<\/b>상 행한 발명에 대해 회사가 그 발명에 대한 특허권을 승계 받았지만 특허 취득과 <b>사업<\/b>화를 통해 발생한 이익을... 합리적으로 <b>관리<\/b>·운영하여 회사발전에 기여하게 함을 그 목적으로 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>사업관리<\/b>관련인력보유현황표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2833316&cid=42279&categoryId=42279",
+			"description":" 건설산업기본법 시행규칙에 의한 건설<b>사업관리<\/b>관련인력보유현황표 행정서식.  건설산업기본법 시행규칙 [시행 2014. 8. 7.] [국토교통부령 제120호, 2014. 8. 7., 타법개정]에 의한 [서식 22의5]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723202141523_2YXYOPB0N.jpg\/hb10_19750_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"에너지<b>관리<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970490&cid=42114&categoryId=42114",
+			"description":" 에너지<b>관리<\/b>기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 에너지<b>관리<\/b>기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 에너지<b>관리<\/b>기사 시험은 필기시험과 실기시험으로 이루어지며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724153656684_U3GX0UTJE.jpg\/da6_97_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"배전운영계획<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024457&cid=42117&categoryId=42117",
+			"description":" 수요자에 대한 전력공급 운영계획과 관련 설비의 품질<b>관리<\/b> 및 사고예방대책을 수립하며, 산하 <b>사업<\/b>소에 대한 지휘, 감독 및 지원업무를 총괄한다. [수행<b>직무<\/b>] 배전설비를 신·증설하고, 운영 및 개선계획을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생산<b>관리<\/b>자(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024447&cid=42117&categoryId=42117",
+			"description":" <b>사업<\/b>체의 설비, 원자재, 종업원을 효율적으로 활용할 수 있도록 생산업무를 기획·조직·통제하고 생산정책을 수립한다. [수행<b>직무<\/b>] 생산소요량, 공장의 생산능력, 생산인력 및 성과 등 생산정책에 관하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중앙전파<b>관리<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A4%91%EC%95%99%EC%A0%84%ED%8C%8C%EA%B4%80%EB%A6%AC%EC%86%8C",
+			"description":"<b>직무<\/b> 전파의 일반감시, 위성전파의 감시·운용 및 <b>관리<\/b> 무선국의 운용감시 및 기술기준 위반 감시... 기간통신<b>사업<\/b>과 특수유형부가통신<b>사업<\/b>의 등록 및 부가통신<b>사업<\/b> 신고 관련 업무 총괄 초고속정보통신... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지하수<b>관리<\/b>기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664776&cid=42117&categoryId=42117",
+			"description":"지하수 개발을 위한 신기술 개발과 보급에 관한 업무를 수행한다. 지하수 <b>사업<\/b>에 관한 법규 및 제도의 개선을 위한 연구를 한다. 지하수 자원의 합리적인 보전과 <b>관리<\/b>에 대해 연구한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"인문과학연구<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627252&cid=42117&categoryId=42117",
+			"description":"연구개발관련 신<b>사업<\/b> 기획 및 신제품 발굴 업무를 한다. 연구정책의 방향에 따라 연구부서나 연구팀을 구성하고 그 업무를 <b>관리<\/b>한다. 진행 중인 연구개발<b>사업<\/b>의 결과를 검토하고 제안한다. 연구계획부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"주택임대<b>관리<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658382&cid=42117&categoryId=42117",
+			"description":"<b>관리<\/b> 업무를 수행한다. [수행<b>직무<\/b>] 임차인을 모집한다. 월세징수, 세금납부 등을 대리한다. 임차인의 유지보수 요구 등 민원을 처리하고, 분쟁으로 인한 법적 처리를 한다. 시장분석 및 적정가치평가, <b>사업<\/b>진행방... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"한편, 고용노동부에서는 만 50세 이상 구직자를 신중년 적합<b>직무<\/b>에 고용하면서 일정 요건을 충족한 <b>사업<\/b>주에게 인건비를 지원하는 '신중년 적합<b>직무<\/b> 고용장려금",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"사회복지시설<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024412&cid=42117&categoryId=42117",
+			"description":"관계행정기관, 사회<b>사업<\/b>단체 및 기타 지역사회단체가 주관·주최하는 관계회의에 참석하여 의견을 교환하고 이해와 협조를 요청한다. 후원자 개발을 위해 지역주민 및 유지를 만나 복지<b>사업<\/b>에 관하여 설명한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가스설비공사<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024430&cid=42117&categoryId=42117",
+			"description":"공<b>사업<\/b>체와 공사일정을 협의하고 공사진행 방향을 결정한다. 자재 반입 시 규격, 구조 등에 대한 육안검사를 하고 품질시험성과표를 확인하여 한국가스안전공사 또는 국가공인기관의 검사를 필한 자재인지를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"발전운영계획<b>관리<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5902537&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 발전소에서 제출한 운영계획에 대하여 타당성, 경제성, 기술적 적합성 등을 검토·조정하여 <b>사업<\/b>계획을 입안하고 시행상태를 <b>관리<\/b>한다. 발전소별 신·증설 및 보수공사에 관한 기본계획을 입안하여... ",
+			"thumbnail":""
+		}
+	]
+}

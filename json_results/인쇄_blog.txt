@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:29 +0900",
+	"total":2920244,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"'3D프린팅 &amp; 디지털 레이저 <b>인쇄<\/b>' 배우러 '위례 스토리박스... ",
+			"link":"https:\/\/blog.naver.com\/sntjdska123?Redirect=Log&logNo=222817523325",
+			"description":"디지털 <b>인쇄<\/b> 프로그램을 진행한다고 해서 체험할 겸 이틀 동안 다녀와 봤습니다. &lt;3D프린팅 프로그램... 곳곳에 보이는 3D프린팅 및 레이저 디지털 <b>인쇄<\/b> 기술을 통한 작품들이 눈에 들어옵니다. 서로 서먹한... ",
+			"bloggername":"성남시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sntjdska123",
+			"postdate":"20220718"
+		},
+		{
+			"title":"명함<b>인쇄<\/b> 합리적으로 맞춤 배송까지 킹콩디자인",
+			"link":"https:\/\/blog.naver.com\/tlskahs21?Redirect=Log&logNo=222802446416",
+			"description":"명함<b>인쇄<\/b> 합리적으로 맞춤 배송까지 &quot;킹콩디자인&quot; 명함에 있어서 나만의 맞춤 디자인을 만들고 <b>인쇄<\/b> 과정부터 배송까지 편리하게 제작이 가능한 서비스를 알게 되었습니다. 사업체를 운영하는 사장님들이라면은... ",
+			"bloggername":"목마른 기린이 우물을 찾듯이",
+			"bloggerlink":"https:\/\/blog.naver.com\/tlskahs21",
+			"postdate":"20220706"
+		},
+		{
+			"title":"24시간 연속<b>인쇄<\/b> 대량생산, 비즈니스의 확장을 실현할... ",
+			"link":"https:\/\/blog.naver.com\/bro_bick?Redirect=Log&logNo=222822777615",
+			"description":"대량생산의 시작, 24시간 연속<b>인쇄<\/b>로 만드는 완벽한 비즈니스 타이밍 100억 매출 신화의 시작, GTX 600이... ■ 장시간 연속<b>인쇄<\/b> 프린트 헤드 개수가 늘어나면 멈추지 않고 장시간 연속 <b>인쇄<\/b>가 가능하기 때문에... ",
+			"bloggername":"브라더인터내셔널코리아",
+			"bloggerlink":"https:\/\/blog.naver.com\/bro_bick",
+			"postdate":"20220725"
+		},
+		{
+			"title":"카다로그제작 <b>인쇄<\/b>용지 선택부터 돋보이는 디자인까지",
+			"link":"https:\/\/blog.naver.com\/beauree7?Redirect=Log&logNo=222764848997",
+			"description":"<b>인쇄<\/b>용지 선택부터 돋보이는 디자인까지 하나의 기업이나 브랜드, 제품, 서비스 등을 홍보할 수 있는 수단은 정말 다양해요. 그리고 이렇게 수많은 홍보 수단 중에서도 많이 사용되는 것은 다름 아닌 <b>인쇄<\/b>... ",
+			"bloggername":"하늘",
+			"bloggerlink":"https:\/\/blog.naver.com\/beauree7",
+			"postdate":"20220608"
+		},
+		{
+			"title":"마스크 <b>인쇄<\/b> 제작 특별한 소속감",
+			"link":"https:\/\/blog.naver.com\/you48679?Redirect=Log&logNo=222818781513",
+			"description":"마스크 <b>인쇄<\/b>를 하면 독특하면서도 소속감을 드러낼 수 있기 때문에 답답함이 조금은 해소가 되지... 이번에 대통령 취임식 기념품으로도 마스크 <b>인쇄<\/b> 의뢰가 들어왔을 만큼 타업체와 비교했을 때 합리적인... ",
+			"bloggername":"알랑라이프",
+			"bloggerlink":"https:\/\/blog.naver.com\/you48679",
+			"postdate":"20220719"
+		},
+		{
+			"title":"투명 홀더, L홀더 제작(실크<b>인쇄<\/b> 방법)",
+			"link":"https:\/\/blog.naver.com\/gift-love?Redirect=Log&logNo=222830748650",
+			"description":"L홀더 제작(실크<b>인쇄<\/b>) 안녕하세요 L홀더제작 전문 시원기프트입니다. L홀더는 L자 접착면으로 오픈이... 000개 √<b>인쇄<\/b>-실크 기본1도<b>인쇄<\/b> 무료 √제작기간-디자인 시안확정후 4~5일 L홀더는 학교, 학원, 기관... ",
+			"bloggername":"시원기프트",
+			"bloggerlink":"https:\/\/blog.naver.com\/gift-love",
+			"postdate":"20220727"
+		},
+		{
+			"title":"엑셀 <b>인쇄<\/b>영역 설정 : 프린트영역 설정 방법은?",
+			"link":"https:\/\/blog.naver.com\/yjg01212?Redirect=Log&logNo=222786727866",
+			"description":"오늘은 엑셀 <b>인쇄<\/b>영역 설정하는 법에 대해 준비를 했습니다. 엑셀을 이용하다 보면 본인이 원하지 않는 영역이 <b>인쇄<\/b>되거나 깔끔하게 맞아떨어지지 않는 경우가 있곤 한데요. 엑셀의 경우엔 한글이나 Word... ",
+			"bloggername":"아이보리의 IT 정보 공간!",
+			"bloggerlink":"https:\/\/blog.naver.com\/yjg01212",
+			"postdate":"20220624"
+		},
+		{
+			"title":"프린터 스풀링 <b>인쇄<\/b> 오류 해결 방법은?",
+			"link":"https:\/\/blog.naver.com\/moyeu119?Redirect=Log&logNo=222811144869",
+			"description":"그런데 가끔 종이가 걸리거나 프린터 스풀링으로 인해 <b>인쇄<\/b> 오류가 발생한다. 종이가 걸리면... 케이블 재연결 후에는 대기열 상태에서 <b>인쇄<\/b> 일시 중지가 체크되어 있는지 확인해보길 바란다. 이 부분은... ",
+			"bloggername":"놀던청년",
+			"bloggerlink":"https:\/\/blog.naver.com\/moyeu119",
+			"postdate":"20220714"
+		},
+		{
+			"title":"서울 <b>인쇄<\/b> 센터에서 즐거운 실크스크린 수업",
+			"link":"https:\/\/blog.naver.com\/art409?Redirect=Log&logNo=222771469009",
+			"description":"서울 <b>인쇄<\/b> 센터의 수업을 소개할까 합니다. 실크스크린 기법을 알려드리며 3번의 수업을 진행했어요~ 제판 제작부터 감광 그리고 프린팅까지 차근차근 단계를 밟아 실크스크린 <b>인쇄<\/b>의 기본을 배워보았답니다.... ",
+			"bloggername":"db 판화작업실",
+			"bloggerlink":"https:\/\/blog.naver.com\/art409",
+			"postdate":"20220613"
+		},
+		{
+			"title":"프린터노즐청소 방법 <b>인쇄<\/b>품질이 좋아지더라구!",
+			"link":"https:\/\/blog.naver.com\/the-woman?Redirect=Log&logNo=222792196464",
+			"description":"프린터노즐청소 방법 <b>인쇄<\/b>품질이 좋아지더라구! 안녕하세요 IT테크 인플루언서 그여자입니다.... 200장이상을 <b>인쇄<\/b>하기 때문에 많은 양의 <b>인쇄<\/b>를 할때면 항상 어느순간부터 <b>인쇄<\/b>품질이 나쁘게 나오더라구요.... ",
+			"bloggername":"그여자의모든것 (IT, 선불폰개통)",
+			"bloggerlink":"https:\/\/blog.naver.com\/the-woman",
+			"postdate":"20220628"
+		},
+		{
+			"title":"허름하지만 너무 좋은 충무로 <b>인쇄<\/b>골목, 세운상가의 뒷골목들",
+			"link":"https:\/\/blog.naver.com\/ifp1592?Redirect=Log&logNo=222829603517",
+			"description":"충무로에는 <b>인쇄<\/b>골목이 있어요. 필름 시절에는 영화 관련 업체들도 참 많았고 그래서 충무로를 한국... 영화 관련 산업은 떠났지만 충무로에 여전히 자리를 잡고 있는 것이 출판, <b>인쇄<\/b> 골목입니다. 선거철만 되면... ",
+			"bloggername":"여기영화IT수다",
+			"bloggerlink":"https:\/\/blog.naver.com\/ifp1592",
+			"postdate":"20220726"
+		},
+		{
+			"title":"명함<b>인쇄<\/b>와 디자인 그리고 소량 <b>인쇄<\/b>까지 해결!",
+			"link":"https:\/\/blog.naver.com\/dongbang07?Redirect=Log&logNo=222734664495",
+			"description":"고민이었던 명함 제작에 있어서 디자인부터 소량 <b>인쇄<\/b>주문 그리고 명함<b>인쇄<\/b>까지 한 번에 해결할 수 있는 서비스를 찾아봤어요! 비즈니스에 있어 명함은 필수인 부분이잖아요! 단순하게 서비스를 제공하는... ",
+			"bloggername":"WE's moment",
+			"bloggerlink":"https:\/\/blog.naver.com\/dongbang07",
+			"postdate":"20220516"
+		},
+		{
+			"title":"파워포인트(PPT) <b>인쇄<\/b> 여백 없이 설정하는 방법",
+			"link":"https:\/\/blog.naver.com\/sanae_art?Redirect=Log&logNo=222798995399",
+			"description":"파워포인트 작업물을 <b>인쇄<\/b>할 일이 있는데요. PTT 자료를 만들고 나서 기본 용지 사이즈 A4 용지로 <b>인쇄<\/b>할 때 상하좌우 여백 및 크기 비율이 맞지 않는데요. 오늘은 파워포인트 <b>인쇄<\/b> 저장 방법 및 여백 설정에... ",
+			"bloggername":"정용원의 광고이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/sanae_art",
+			"postdate":"20220704"
+		},
+		{
+			"title":"오프셋(옵셋) <b>인쇄<\/b> 프로세스와 작동 방식",
+			"link":"https:\/\/blog.naver.com\/dreamxpeed?Redirect=Log&logNo=222828550102",
+			"description":"오프셋 <b>인쇄<\/b> 프로세스: 작동 방식 오프셋 <b>인쇄<\/b>는 다양한 산업 분야에서 가장 널리 사용되는 <b>인쇄<\/b> 기술 중 하나입니다. 최고 품질의 결과를 제공하고 제품, 포장 또는 출판물에 많은 가치를 부여합니다. 그러나... ",
+			"bloggername":".",
+			"bloggerlink":"https:\/\/blog.naver.com\/dreamxpeed",
+			"postdate":"20220726"
+		},
+		{
+			"title":"윈도우10 <b>인쇄<\/b>(프린터) 안되는 문제 (2022년 7월 보안... ",
+			"link":"https:\/\/blog.naver.com\/devilduo?Redirect=Log&logNo=222831115610",
+			"description":"증상은 <b>인쇄<\/b> 하면 <b>인쇄<\/b> 대기열에 걸리고 진행이 안됩니다 원인은 KB5015807 업데이트 설치후 프린터가 연결되지 않은 포트로 &quot;프린터(복사1)&quot; 같은걸 하나 생성 해서 거기로 <b>인쇄<\/b>물을 보내는 증상 입니다 관련... ",
+			"bloggername":"데비룽의 촉촉한 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/devilduo",
+			"postdate":"20220727"
+		},
+		{
+			"title":"마스크<b>인쇄<\/b> 맞춤형 커스텀제작",
+			"link":"https:\/\/blog.naver.com\/gedo3?Redirect=Log&logNo=222820826484",
+			"description":"개인 위생 뿐만 아니라 타인을 배려하고자 하는 마음에서 꼭 챙겨야 하는 제품인데, 마스크 <b>인쇄<\/b>를 해서... 마스크에 원하는 문구 뿐만 아니라 디자인 문구나 로고 등을 <b>인쇄<\/b>할 수 있어서 다양한 분들이 목적에... ",
+			"bloggername":"달묘의 잡다구리",
+			"bloggerlink":"https:\/\/blog.naver.com\/gedo3",
+			"postdate":"20220720"
+		},
+		{
+			"title":"IBK기업은행 통장사본 (통장표지출력서비스) <b>인쇄<\/b> 방법 따라하기",
+			"link":"https:\/\/starton.tistory.com\/691",
+			"description":"스캔&amp;프린터 <b>인쇄<\/b>할 수 도 있겠지만 컴퓨터 PC 인터넷 뱅킹을 할 수 있는 분들을 위한 기업은행... 있습니다 &lt;간편<b>인쇄<\/b>&gt; 를 선택하면 다음 과정은 일반적인 기본 연결 프린터 출력 윈도우로 이동하여 필요시... ",
+			"bloggername":"starton",
+			"bloggerlink":"https:\/\/starton.tistory.com\/",
+			"postdate":"20220617"
+		},
+		{
+			"title":"슬리브띠지, 샘플 제작 후 본 <b>인쇄<\/b> 시작하시죠?",
+			"link":"https:\/\/blog.naver.com\/tntwkrpdla?Redirect=Log&logNo=222829668288",
+			"description":"슬리브띠지는 이처럼 실제 <b>인쇄<\/b> 전 꼭 도면 작업 및 샘플을 업체에 요청하시고 받아보신 후 제작하셔야 합니다. 아시겠지만 <b>인쇄<\/b>라는게.. 한 번 기계가 돌아가면 돌이킬 수 없는(?) 품목인지라 업체와 담당자님... ",
+			"bloggername":"주식회사 우정피앤피",
+			"bloggerlink":"https:\/\/blog.naver.com\/tntwkrpdla",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[패브릭 <b>인쇄<\/b>] 가랜드 제작했어요",
+			"link":"https:\/\/blog.naver.com\/deoksu2000?Redirect=Log&logNo=222795943354",
+			"description":"광목천에 UV평판<b>인쇄<\/b> 후 가랜드로 제작하다. GQ UV COMPANY 흔들흔들 바람에 날리는 가랜드가 매력적인... - 모바일에선 옆으로 넘겨서 읽어주세요 - <b>인쇄<\/b>방식 UV평판<b>인쇄<\/b> 소재정보 광목천 10수 \/ 아이보리... ",
+			"bloggername":"지큐UV컴퍼니",
+			"bloggerlink":"https:\/\/blog.naver.com\/deoksu2000",
+			"postdate":"20220701"
+		},
+		{
+			"title":"야외 행사용 종이썬캡, 종이 모자 제작하세요-칼라 <b>인쇄<\/b> o",
+			"link":"https:\/\/blog.naver.com\/gift-love?Redirect=Log&logNo=222820510163",
+			"description":"코팅 종이모자(썬캡) 칼라 <b>인쇄<\/b> 가능 종이 모자 제작(칼라) 규격:가로340x세로405mm 기본 수량:1,000개 재질:300sc마닐라+라미네이팅코팅 <b>인쇄<\/b> 색상:4도 칼라 끈추가\/부착(별도금액발생) 여름이 되니 곳곳에서... ",
+			"bloggername":"시원기프트",
+			"bloggerlink":"https:\/\/blog.naver.com\/gift-love",
+			"postdate":"20220720"
+		},
+		{
+			"title":"스마트 <b>인쇄<\/b>, AI와 빅테이터로 고속화",
+			"link":"https:\/\/blog.naver.com\/stickerzzang?Redirect=Log&logNo=222803607825",
+			"description":"무궁화엘앤비입니다 :) 최근 <b>인쇄<\/b>업계 동향에 대해서 공유해보도록 하겠습니다. 스마트 <b>인쇄<\/b>, AI와 빅테이터로 고속화 - 클라우드 컴퓨팅 활용 빅데이터로 CRM 관리 - 머신러닝의 기술 활용 자동화된 시스템 구축... ",
+			"bloggername":"(주)무궁화LNB",
+			"bloggerlink":"https:\/\/blog.naver.com\/stickerzzang",
+			"postdate":"20220707"
+		},
+		{
+			"title":"엑셀(Excel)로 회원등록증 <b>인쇄<\/b>하기(VBA, MACRO)",
+			"link":"https:\/\/blog.naver.com\/jxbjultd?Redirect=Log&logNo=222799777651",
+			"description":"엑셀(Excel)로 회원등록증 <b>인쇄<\/b>하기(VBA, MACRO) 이전 블로그에서 엑셀(Excel)로 회원등록증을 만들어 보았는데요. 이번 블로그기사에서는 회원등록증을 엑셀(Excel)에서 VBA와 MACRO<b>인쇄<\/b>하는 방법을 알아... ",
+			"bloggername":"허큘리스(Hercules)",
+			"bloggerlink":"https:\/\/blog.naver.com\/jxbjultd",
+			"postdate":"20220721"
+		},
+		{
+			"title":"주민등록초본 인터넷 발급, <b>인쇄<\/b> 및 PDF저장 방법",
+			"link":"https:\/\/blog.naver.com\/kakoku13?Redirect=Log&logNo=222830044599",
+			"description":"민원접수번호 확인해 주시고 주민등록표등본교부 처리완료. 문서출력 클릭해주세요. <b>인쇄<\/b>가능 세창이 나오면 오른쪽 상단 <b>인쇄<\/b>하기 버튼 누르세요. 프린터로 출력 가능하고 <b>인쇄<\/b> 및 PDF저장 가능힙니다. 마침.",
+			"bloggername":"티거blog",
+			"bloggerlink":"https:\/\/blog.naver.com\/kakoku13",
+			"postdate":"20220726"
+		},
+		{
+			"title":"현수막 제작 디자인\/<b>인쇄<\/b> 한꺼번에 o.k 칠순 생일 프로포즈... ",
+			"link":"https:\/\/blog.naver.com\/opencrystal?Redirect=Log&logNo=222811270612",
+			"description":"현수막 제작 디자인 <b>인쇄<\/b>까지 한번해 해결~~ ^^ 현수막제작은 많은 분들이 살면서 한번쯤은 의뢰하시는... 현수막의 크기는 재단을 통해 제작되기 때문에 원하는 사이즈로 대충 <b>인쇄<\/b>가 가능해요~ 그러나 길이가... ",
+			"bloggername":"리얼AD",
+			"bloggerlink":"https:\/\/blog.naver.com\/opencrystal",
+			"postdate":"20220714"
+		},
+		{
+			"title":"[스크린 골프장홍보물] 골프장갑 로고 칼라<b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/kakao87com?Redirect=Log&logNo=222821012779",
+			"description":"칼라<b>인쇄<\/b>가 가능한 &quot;덧뎀 천연양피 기능성 골프장갑&quot; 아이템을 소개합니다. 군더더기 없는 깔끔한... 칼라<b>인쇄<\/b>로 새겨드립니다. 평범한 골프장갑도 특별해지는 스크린골프장 홍보물 존재감이 남다릅니다. 간혹... ",
+			"bloggername":"판촉물다있어",
+			"bloggerlink":"https:\/\/blog.naver.com\/kakao87com",
+			"postdate":"20220720"
+		},
+		{
+			"title":"NASA _ SLA 3D프린터로 레이저 브라켓 <b>인쇄<\/b>_Space X",
+			"link":"https:\/\/blog.naver.com\/tjwlscjftj?Redirect=Log&logNo=222799696210",
+			"description":"SpaceX 의 25번째 상업용 재보급 서비스(CRS-25) 임무는 3D <b>인쇄<\/b> 전기도금 브래킷을 포함 하여... ISS에 도착하면 3D <b>인쇄<\/b> 부품은 우주 공간과 열악한 환경에 대한 노출을 포함하여 테스트됩니다.... ",
+			"bloggername":"Zin D",
+			"bloggerlink":"https:\/\/blog.naver.com\/tjwlscjftj",
+			"postdate":"20220704"
+		},
+		{
+			"title":"개업 기념품 두꺼운 수건 송월타올 나염<b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/ppaul486?Redirect=Log&logNo=222789774869",
+			"description":"바로, 나염<b>인쇄<\/b> 방법이 있습니다. 나염<b>인쇄<\/b> 방법은 보시는 것과 같이 타월에 잉크 염료를 사용하여 찍어내는 방식인데요, 자수타월을 맞추는데 시간이 오래 걸리시는 반면, 나염<b>인쇄<\/b>는 빠르면 2-3일내로 발송이... ",
+			"bloggername":"마음을 다해요, 셉셉셉",
+			"bloggerlink":"https:\/\/blog.naver.com\/ppaul486",
+			"postdate":"20220626"
+		},
+		{
+			"title":"유리컵제작, 루키메이커 밀크글라스 전사<b>인쇄<\/b>로 나만의... ",
+			"link":"https:\/\/blog.naver.com\/siunim?Redirect=Log&logNo=222813802267",
+			"description":"컬러의 제한없이 예쁜 전상<b>인쇄<\/b>컵을 만들어주는 루키메이커 <b>인쇄<\/b>에 한계가없는제품이라서 창의적인 제품제작이 가능하고 컬러의 제한이없어서 사진<b>인쇄<\/b>까지도 가능한 제품인데요. 컵을 골라서 <b>인쇄<\/b>가 가능한... ",
+			"bloggername":"아티스트바이 이윰 Heavenly City",
+			"bloggerlink":"https:\/\/blog.naver.com\/siunim",
+			"postdate":"20220716"
+		},
+		{
+			"title":"PVC 유브이<b>인쇄<\/b> 현실적으로 쉽지가 않네요.",
+			"link":"https:\/\/blog.naver.com\/bandya7?Redirect=Log&logNo=222811801494",
+			"description":"앞으로는 더욱 자세히 설명드리고, 시작하도록 해야겠습니다.~ 피브이씨 원단에 유브이<b>인쇄<\/b>를 하게되면, <b>인쇄<\/b>가 균일하지않은 문제가 있어서,색감차이는 미리 고지를 드리고있습니다.~ 받아보시고나서 좀... ",
+			"bloggername":"♥반디야:주문제작 연예인 응원도구&판촉물",
+			"bloggerlink":"https:\/\/blog.naver.com\/bandya7",
+			"postdate":"20220714"
+		},
+		{
+			"title":"HP,캐논등 <b>인쇄<\/b> 안될때 , 대기문서 삭제가 안됨 오류 해결방법... ",
+			"link":"https:\/\/blog.naver.com\/skyeye7953?Redirect=Log&logNo=222816366473",
+			"description":"프린터 <b>인쇄<\/b>안되는 증상 , 대기문서 확인시 삭제가 안되어 다음 문서 출력이안되는 증상 안녕하세요 . 금일은 자주 문의가 오는 내용중 하나인 프린터는 이상이 없지만 <b>인쇄<\/b>를 눌러도 아무 반응이 없는 경우... ",
+			"bloggername":"032-525-2119 늑대와여우컴퓨터 원컴",
+			"bloggerlink":"https:\/\/blog.naver.com\/skyeye7953",
+			"postdate":"20220718"
+		},
+		{
+			"title":"하나은행 기업계좌 회사 통장사본 PC 에서 출력 <b>인쇄<\/b>하는 방법",
+			"link":"https:\/\/starton.tistory.com\/692",
+			"description":"통장사본 <b>인쇄<\/b> 서비스 이용 과정 네이버나 구글에서 알려주는 하나은행 홈페이지 주소로 방문을 하면... 찾던 &lt;통장사본<b>인쇄<\/b>&gt; 버튼을 드디어 찾을 수 있습니다 이제 프린터 출력만 하면 하나은행에 있는 기업... ",
+			"bloggername":"starton",
+			"bloggerlink":"https:\/\/starton.tistory.com\/",
+			"postdate":"20220620"
+		},
+		{
+			"title":"카페 머그+접시 로고<b>인쇄<\/b> 제작",
+			"link":"https:\/\/blog.naver.com\/autumncloud?Redirect=Log&logNo=222821239235",
+			"description":"(로고<b>인쇄<\/b> 포함 2주 소요\/ 수량에 따라 다를수 있어요 ^^ ) 너무 예쁜 평평한 접시 ! 골드라인 두른것... kr\/ 로고<b>인쇄<\/b>는 20~30개부터 가능합니다 카페머그, 답례품 모두 가능하니 언제든 문의 주세요... ",
+			"bloggername":"가을구름",
+			"bloggerlink":"https:\/\/blog.naver.com\/autumncloud",
+			"postdate":"20220720"
+		},
+		{
+			"title":"KF94 마스크 <b>인쇄<\/b> 제작 특색있던 마스크",
+			"link":"https:\/\/blog.naver.com\/y7820401?Redirect=Log&logNo=222822894676",
+			"description":"마스크 <b>인쇄<\/b>로 자신만의 마스크를 표현하는 분들도 많아지신 거 같아요. 더군다나 요즘은 회사의... 그렇다 보니 꼭 하얀색의 마스크뿐 아니라 색이 있는 마스크에도 예쁘게 <b>인쇄<\/b>를 하여 필요한 문구를 넣고... ",
+			"bloggername":"이쁜 내새끼들♡써니의 일상, 육아, 냥이, 후기",
+			"bloggerlink":"https:\/\/blog.naver.com\/y7820401",
+			"postdate":"20220721"
+		},
+		{
+			"title":"<b>인쇄<\/b>건조램프, <b>인쇄<\/b>경화램프에 사용되는 UV램프",
+			"link":"https:\/\/blog.naver.com\/uvmall?Redirect=Log&logNo=222807002532",
+			"description":"바로 UV코팅 및 <b>인쇄<\/b>건조, <b>인쇄<\/b>경화에 사용되는 쓰임새가 아주 다양한 UV램프입니다. UV는 살균 건조 특화로 건조가 필요한 분야라면 대부분 이용이 가능합니다. 알아보도록 하죠. <b>인쇄<\/b>건조램프 특화 제품인... ",
+			"bloggername":"자외선백화점 한성자외선(주) ☎ 031-777-8090",
+			"bloggerlink":"https:\/\/blog.naver.com\/uvmall",
+			"postdate":"20220711"
+		},
+		{
+			"title":"&lt;답례품 주문 제작&gt; 쿨링타올, 휴대용 스포츠타올 <b>인쇄<\/b> 가능",
+			"link":"https:\/\/blog.naver.com\/gift-love?Redirect=Log&logNo=222810941610",
+			"description":"로고 <b>인쇄<\/b>도 예쁘게 해드리고 있어요^^ √구성:극세사타올+실리콘케이스+기본박스 √규격:타올(30x80cm),케이스(5x9.8cm) √색상:네이비,그레이,민트,핑크 √<b>인쇄<\/b>:케이스,타올 각각 <b>인쇄<\/b> 가능 실리콘케이스... ",
+			"bloggername":"시원기프트",
+			"bloggerlink":"https:\/\/blog.naver.com\/gift-love",
+			"postdate":"20220714"
+		},
+		{
+			"title":"로우티 단상자 패키지 고려프린텍 단상자 <b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/4oundme?Redirect=Log&logNo=222830757663",
+			"description":"이직한 회사의 시작부터 함께해 왔다는 #충무로<b>인쇄<\/b> #고려프린텍 #종이<b>인쇄<\/b> 를 하는 곳이고 보통 단상자를 많이들 <b>인쇄<\/b>하는 것 같다 <b>인쇄<\/b> 기다리면서 살펴본 타 업체 #건기식 패키지인데 그라데이션과 박을... ",
+			"bloggername":"생각 궁전",
+			"bloggerlink":"https:\/\/blog.naver.com\/4oundme",
+			"postdate":"20220727"
+		},
+		{
+			"title":"전단지제작 홍보지 재질 및 디자인 <b>인쇄<\/b> 체크해보기!",
+			"link":"https:\/\/blog.naver.com\/opencrystal?Redirect=Log&logNo=222793534116",
+			"description":"전단지 홍보지제작 재질 및 디자인 <b>인쇄<\/b>방법 체크해보기! 전단지 홍보지는 요즘 많이 제작을 하시는 <b>인쇄<\/b>물 중에 하나랍니다. 특히 코로나가 거의 종식?이 되고 슬슬 외출이 많아 지면서 학원 및 음식점 또는... ",
+			"bloggername":"리얼AD",
+			"bloggerlink":"https:\/\/blog.naver.com\/opencrystal",
+			"postdate":"20220629"
+		},
+		{
+			"title":"영남 출판·<b>인쇄<\/b> 콘텐츠 산업 육성 거점 대구출판산업지원센터",
+			"link":"https:\/\/blog.naver.com\/daegu_news?Redirect=Log&logNo=222765729790",
+			"description":"영남권 출판·<b>인쇄<\/b> 콘텐츠 산업 육성의 거점, 대구출판산업지원센터는 대구광역시 출판산업지원센터... 대구출판산업지원센터 설립 목적 ☝ 대구·경북 출판\/<b>인쇄<\/b>산업 성장을 종합 지원하는 기관으로서... ",
+			"bloggername":"대구광역시 공식 블로그♥",
+			"bloggerlink":"https:\/\/blog.naver.com\/daegu_news",
+			"postdate":"20220609"
+		},
+		{
+			"title":"[스텐컵<b>인쇄<\/b>] 미롬 데일리 스텐머그컵 400ml",
+			"link":"https:\/\/blog.naver.com\/kakao87com?Redirect=Log&logNo=222831343843",
+			"description":"오늘은 매력적인 컬러와 디자인으로 만들어진 각인<b>인쇄<\/b> 가능한 스텐컵 이름하여 &quot;미롬 데일리 스텐머그컵 400ml&quot; <b>인쇄<\/b> 아이템을 소개합니다. [제품사이즈] 11.5×8.7×11.5cm 디자인, 기능, 소재 모두 놓치지 않은... ",
+			"bloggername":"판촉물다있어",
+			"bloggerlink":"https:\/\/blog.naver.com\/kakao87com",
+			"postdate":"20220727"
+		},
+		{
+			"title":"엡손 L805 WIFI 무선으로 <b>인쇄<\/b> 설정 방법",
+			"link":"https:\/\/blog.naver.com\/lskimch?Redirect=Log&logNo=222809810889",
+			"description":"엡손 L805에 있는 WIFI 기능을 이용하면 USB 연결 없이 PC, 노트북, 스마트폰으로 무선으로 <b>인쇄<\/b>할수... 또 스마트폰에 엡손 IPRINT 어플을 깔면 스마트폰에 있는 사진, 문서를 무선으로 <b>인쇄<\/b>할 수 있어서... ",
+			"bloggername":"cyoz님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/lskimch",
+			"postdate":"20220713"
+		},
+		{
+			"title":"청주 직지 투어 ②체험편 - 내손으로 만드는 <b>인쇄<\/b> 체험",
+			"link":"https:\/\/blog.naver.com\/the_trip?Redirect=Log&logNo=222752236803",
+			"description":"무구정광대다라니경부터 3D프린터까지, 한국 <b>인쇄<\/b> 문화를 제대로 느낄 수 있다. 하지만 눈으로... 직접 책을 만들고 전시로만 보던 기계로 직접 활자를 끼워 <b>인쇄<\/b>를 할 수 있는 곳이 있다. 1. 금속활자 주조과정... ",
+			"bloggername":"네이버 여행+",
+			"bloggerlink":"https:\/\/blog.naver.com\/the_trip",
+			"postdate":"20220606"
+		},
+		{
+			"title":"현판제막식용품제작 현판천<b>인쇄<\/b> 살펴보기",
+			"link":"https:\/\/blog.naver.com\/cratia31?Redirect=Log&logNo=222794778298",
+			"description":"- 안녕하세요 파티걸이에요 오늘은 현판천 <b>인쇄<\/b>에 관해 이야기를 해보려합니다 우선 현판식이란?... - 일반적으로는 기본적인 천 제작만하는편이지만 현판천에 <b>인쇄<\/b>까지 하여 행사의 명칭과 내용을 보도자료로... ",
+			"bloggername":"ya이벤트 010.9969.4610",
+			"bloggerlink":"https:\/\/blog.naver.com\/cratia31",
+			"postdate":"20220630"
+		},
+		{
+			"title":"천연양피 골프장갑 칼라전사<b>인쇄<\/b> - 골프용품 판촉물",
+			"link":"https:\/\/blog.naver.com\/jinstar0214?Redirect=Log&logNo=222829677875",
+			"description":"* 천연양피 골프장갑 칼라전사<b>인쇄<\/b> - 골프용품 판촉물 * 안녕하세요^^ 별나라기프트입니다. 요즘... ^^ 장갑의 벨크로 부분에 칼라전사<b>인쇄<\/b>가 가능하여 회사홍보나 골프장기념품...동호회기념품 등으로 제작시... ",
+			"bloggername":"행복한 쥔장의 선물가게 ☆별나라기프트☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/jinstar0214",
+			"postdate":"20220726"
+		},
+		{
+			"title":"블라인드 로고 <b>인쇄<\/b>. 썬스크린 실사 로고.",
+			"link":"https:\/\/blog.naver.com\/linian1?Redirect=Log&logNo=222792019485",
+			"description":"바로 여러가지형태의 로고나 글씨를 <b>인쇄<\/b>하는건데요. 많은 블라인드에 로고 <b>인쇄<\/b>가 가능하지만 보통은 롤스크린이나 썬스크린형태의 기본 형태에 로고 <b>인쇄<\/b>를 많이 하는 편입니다. 아무래도 기본적으로... ",
+			"bloggername":"대지커텐｜ DAEJI CURTAIN",
+			"bloggerlink":"https:\/\/blog.naver.com\/linian1",
+			"postdate":"20220628"
+		},
+		{
+			"title":"PP파일홀더 엘홀더 엘파일 주문 제작 <b>인쇄<\/b> 방법 추천",
+			"link":"https:\/\/blog.naver.com\/adel20?Redirect=Log&logNo=222799579575",
+			"description":"우선 엘파일 <b>인쇄<\/b>는 3가지가 있습니다. 1번 기성 무지의 경우 엘파일 <b>인쇄<\/b>가 없으니 제외하고 2번부터 보시면 된답니다. 엘홀더 <b>인쇄<\/b>는 아래에서 차차 보시고.. 원단의 경우 여러 가지 색상이 있답니다. 또... ",
+			"bloggername":"국내 최저가 기념품백화점",
+			"bloggerlink":"https:\/\/blog.naver.com\/adel20",
+			"postdate":"20220704"
+		},
+		{
+			"title":"티포원 찻잔세트 로고<b>인쇄<\/b> 커피잔 제작",
+			"link":"https:\/\/blog.naver.com\/autumncloud?Redirect=Log&logNo=222815356450",
+			"description":"안녕하세요~ 최근 작업한 티포원 로고<b>인쇄<\/b> 작업물 소개해드려요 :) 핑크로 제작했구요 잔+티팟... 너무 귀여운골드로고 이쯤에서 다른고객님들 로고<b>인쇄<\/b> 한것도 보고 가실게요 너무너무 예쁘죠? 로고에따라... ",
+			"bloggername":"가을구름",
+			"bloggerlink":"https:\/\/blog.naver.com\/autumncloud",
+			"postdate":"20220717"
+		},
+		{
+			"title":"직접생산확인증명서 발급 완료- <b>인쇄<\/b>출판물",
+			"link":"https:\/\/blog.naver.com\/zjian44?Redirect=Log&logNo=222804251098",
+			"description":"◎ 직접생산확인증명서 발급 완료 - <b>인쇄<\/b>출판물 바른행정사 정재필 행정사 입니다. 오늘은 <b>인쇄<\/b>출판물 직접생산확인증명서가 발급 완료되어 포스팅 합니다. 직접생산확인증명서는 중소기업으로 사업을 하시는... ",
+			"bloggername":"바른행정사 정재필 행정사입니다. 010-2381-8778",
+			"bloggerlink":"https:\/\/blog.naver.com\/zjian44",
+			"postdate":"20220708"
+		},
+		{
+			"title":"&lt;주문 제작&gt;콜드컵 <b>인쇄<\/b> 오픈 선물, 홍보선물",
+			"link":"https:\/\/blog.naver.com\/gift-love?Redirect=Log&logNo=222829128650",
+			"description":"콜드컵 <b>인쇄<\/b>까지 가능한 제품으로 보여드릴게요 정확한 명칭은 &lt;무지 메탈 콜드컵&gt; 넉넉한 500ml... 콜드컵 <b>인쇄<\/b>가 가능합니다. 보시는 바와 같이 실크 1도 <b>인쇄<\/b> 시 기관, 학교, 단체, 기업 로고 및 디자인을... ",
+			"bloggername":"시원기프트",
+			"bloggerlink":"https:\/\/blog.naver.com\/gift-love",
+			"postdate":"20220726"
+		},
+		{
+			"title":"리플렛제작 반짝 빛나는 유광재질 3단으로 <b>인쇄<\/b>공장인데... ",
+			"link":"https:\/\/blog.naver.com\/opencrystal?Redirect=Log&logNo=222827861681",
+			"description":"높은 <b>인쇄<\/b>광고입니다. 요즘들어 리플렛제작 문의가 너무 많이 들어와서요~ 오늘은 이쁘게 제작한 기업... 리플렛은 = 광고지라는 뜻으로 저희와 같은 <b>인쇄<\/b>공장에서는 접지라고도 하는데요! 접을 수 있도록... ",
+			"bloggername":"리얼AD",
+			"bloggerlink":"https:\/\/blog.naver.com\/opencrystal",
+			"postdate":"20220725"
+		},
+		{
+			"title":"프린트 양면<b>인쇄<\/b> 하기! (긴면? 짧은면? 이해하기!)",
+			"link":"https:\/\/blog.naver.com\/euphrasy?Redirect=Log&logNo=222802351598",
+			"description":"양면<b>인쇄<\/b>는 사실 살면서 해본적이 없었어요 자랑은 아니지만 양면<b>인쇄<\/b>를 해야될 이유가 없었기 때문이죠! 하지만 이번엔 200장 정도 출력물을 뽑는데 200장 뽑았다간 무슨 뜻인지 대충 느낌이 오시죠? 지구를... ",
+			"bloggername":"캘리엠",
+			"bloggerlink":"https:\/\/blog.naver.com\/euphrasy",
+			"postdate":"20220706"
+		},
+		{
+			"title":"투명 L자화일 L홀더 L자파일 <b>인쇄<\/b> 주문 제작 방법설명",
+			"link":"https:\/\/blog.naver.com\/dooly0078?Redirect=Log&logNo=222824251645",
+			"description":"박<b>인쇄<\/b> 실크<b>인쇄<\/b> 칼라<b>인쇄<\/b> 이렇게 총 세 가지의 <b>인쇄<\/b> 방법이 있답니다~! 난다기프트의 L홀더제작 품은 다양한 색상과 함께 하단부(사진상의 빨간 동그라미) 튼튼한 초음파 가공으로 제작된답니다! 그럼 이제... ",
+			"bloggername":"판촉물 기념품 주문제작 전문 난다기프트",
+			"bloggerlink":"https:\/\/blog.naver.com\/dooly0078",
+			"postdate":"20220722"
+		},
+		{
+			"title":"택배 우편 발송 가능 뜯어 쓰는 미싱형 봉투 <b>인쇄<\/b> 주문 제작하기",
+			"link":"https:\/\/blog.naver.com\/jungmoon21?Redirect=Log&logNo=222831271278",
+			"description":"ai 파일 다운로드 외경: 260 w * 148 h (mm) 종이: 스노우지 250g <b>인쇄<\/b>: 단면 UV베다 컬러 형태: 뜯어 쓰는... (스노우지)는 비광택에 광이 없는 순백에 화이트 백색 무광 종이로 비광택에 은은함이 있어 <b>인쇄<\/b> 배경... ",
+			"bloggername":"정문패키지 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/jungmoon21",
+			"postdate":"20220727"
+		},
+		{
+			"title":"칫솔살균기<b>인쇄<\/b> 주문사례",
+			"link":"https:\/\/blog.naver.com\/kakao87com?Redirect=Log&logNo=222797762581",
+			"description":"칫솔살균기<b>인쇄<\/b> 주문접수된 사례입니다. 대부분 판촉물업체는 도매로만 취급하여, 작은수량은 <b>인쇄<\/b>가 않되는 아쉬운점이 있죠!! 하지만... 소비자들의 의견을 충분히 반영해, 저희 MJ기획에서는 소량<b>인쇄<\/b>도... ",
+			"bloggername":"판촉물다있어",
+			"bloggerlink":"https:\/\/blog.naver.com\/kakao87com",
+			"postdate":"20220703"
+		},
+		{
+			"title":"Wedding36. 보자기카드 청첩장 수령 &amp; <b>인쇄<\/b> 불량 처리 후기",
+			"link":"https:\/\/blog.naver.com\/kjy8317?Redirect=Log&logNo=222808315732",
+			"description":"<b>인쇄<\/b> 불량이 보이더라구요? 이렇게 붉은 자국이나, 옅게 보이는 검은 점, 솔직히 처음에는 이게 <b>인쇄<\/b>불량인가...? 했는 데, 사실 종이청첩장을 줄 정도면 정말 까깝고, 격식있게 초대하고 싶은 사람인건데... ",
+			"bloggername":"킴지의 일상기록",
+			"bloggerlink":"https:\/\/blog.naver.com\/kjy8317",
+			"postdate":"20220712"
+		},
+		{
+			"title":"초록초록한 이 현장! 《나의 오두막》<b>인쇄<\/b>감리 모습입니다!",
+			"link":"https:\/\/blog.naver.com\/springsunshine?Redirect=Log&logNo=222811469063",
+			"description":"오두막》<b>인쇄<\/b>감리 모습입니다. 사진에서 뿜어져 나오는 초록의 기운이 인친님들께도 잘 전해지고 있나요?^^ 이 초록초록한 느낌 덕분에 편집 디자인 작업부터 오늘한 <b>인쇄<\/b>감리까지 마치... ",
+			"bloggername":"도서출판 봄볕",
+			"bloggerlink":"https:\/\/blog.naver.com\/springsunshine",
+			"postdate":"20220714"
+		},
+		{
+			"title":"출판기념 행사기념품  - 전사<b>인쇄<\/b> 멜라민 원형 접시 제작 사례",
+			"link":"https:\/\/blog.naver.com\/ds_gift?Redirect=Log&logNo=222827693770",
+			"description":"행사기념품 전사<b>인쇄<\/b> 멜라민 원형 접시제작 기업,단체,기관,학교등에서 요즘 다양한 행사,축제... ~^^ 행사기념품으로 준비하는 다양한 녀석들중 전사<b>인쇄<\/b>로 제대로된 전달력을 줄수있는 다양한 제품들을 많이... ",
+			"bloggername":"☆디에스기프트가 전하는 판촉이야기☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/ds_gift",
+			"postdate":"20220726"
+		},
+		{
+			"title":"포인트 컬러로 페인트 칠하기, 그 위에 실크스크린으로 <b>인쇄<\/b>까지...",
+			"link":"https:\/\/blog.naver.com\/ccead?Redirect=Log&logNo=222827767519",
+			"description":"타일은 그냥 한번..칠했어요~ 3번칠한 철문위에는 실크스크린으로 <b>인쇄<\/b>했어요~ 이 문으로 들어오실 것 같은 예감.. 그래서 캘리로 안내글귀를 썼어요~ 그리고 그 글씨로 제판을 만들어서.. <b>인쇄<\/b>했어요~ 이제 이... ",
+			"bloggername":"제제날다",
+			"bloggerlink":"https:\/\/blog.naver.com\/ccead",
+			"postdate":"20220725"
+		},
+		{
+			"title":"&lt;군부대, 기업 행사 판촉물&gt; 이중보온보냉 텀블러 <b>인쇄<\/b> 제작!",
+			"link":"https:\/\/blog.naver.com\/yoyo1240?Redirect=Log&logNo=222793764305",
+			"description":":J3 이중보온보냉 텀블러 340ml, 실크 1도 <b>인쇄<\/b> 제작 사례 이번에 소개할 아이는, 기업, 군부대 판촉물... ▲ 그린 색상 뚜껑으로 상세히 살펴볼게요~ 군부대, 기업 행사판촉물 제작시 기념 문구등을 <b>인쇄<\/b>... ",
+			"bloggername":"■ 판촉물\/답례품 전문 수연기프트 ■",
+			"bloggerlink":"https:\/\/blog.naver.com\/yoyo1240",
+			"postdate":"20220629"
+		},
+		{
+			"title":"파주평판UV<b>인쇄<\/b> 원하는 소재에 자유롭게 맞춤 제작하세요",
+			"link":"https:\/\/blog.naver.com\/atn9462?Redirect=Log&logNo=222793669931",
+			"description":"파주평판UV<b>인쇄<\/b> 원하는 소재에 자유롭게 맞춤 제작하세요 안녕하세요! 파주평판UV<b>인쇄<\/b> 전문 업체 아크릴타운입니다. 저희는 다양한 재료를 고객님께 필요한 물품으로 재탄생시켜 드리기 위해 맞춤 제작을... ",
+			"bloggername":"▲아크릴타운▲",
+			"bloggerlink":"https:\/\/blog.naver.com\/atn9462",
+			"postdate":"20220629"
+		},
+		{
+			"title":"[패브릭 <b>인쇄<\/b>] 인기 많은 화장실용 노렌",
+			"link":"https:\/\/blog.naver.com\/deoksu2000?Redirect=Log&logNo=222782520013",
+			"description":"20수 옥스포드원단에 UV평판<b>인쇄<\/b> 후 노렌커튼으로 제작하다. GQ UV COMPANY 노렌의 사용처 중에 가장... 고고씽~~ - 모바일에선 옆으로 넘겨서 읽어주세요 - <b>인쇄<\/b>방식 UV평판<b>인쇄<\/b> 소재정보 옥스포드 20수... ",
+			"bloggername":"지큐UV컴퍼니",
+			"bloggerlink":"https:\/\/blog.naver.com\/deoksu2000",
+			"postdate":"20220621"
+		},
+		{
+			"title":"대용량 쿨러백 <b>인쇄<\/b> 및 사은품 제작 추천!",
+			"link":"https:\/\/blog.naver.com\/gift-love?Redirect=Log&logNo=222799381327",
+			"description":"대용량 사이즈이지만 저렴한 그리고 쿨러백 <b>인쇄<\/b>까지 가능하니 다양하고 예쁜 8종류를 만난 보시기... 쿨러백 <b>인쇄<\/b> 작업 예시 쿨러백 <b>인쇄<\/b> 예시 <b>인쇄<\/b> 로고는 ai파일로 작업이 되며 <b>인쇄<\/b>하시고 싶은 로고나... ",
+			"bloggername":"시원기프트",
+			"bloggerlink":"https:\/\/blog.naver.com\/gift-love",
+			"postdate":"20220704"
+		},
+		{
+			"title":"[마스크로고 <b>인쇄<\/b>] 에어데이즈 여름용 슬림핏 새부리형마스크",
+			"link":"https:\/\/blog.naver.com\/kakao87com?Redirect=Log&logNo=222826811492",
+			"description":"마스크로고 <b>인쇄<\/b>가 가능한 &quot;에어데이즈 여름용 슬림핏 새부리형마스크&quot; 아이템을 소개합니다. 장시간... 담아 <b>인쇄<\/b>하는 제품은 검정 보다는 화이트색상의 마스크를 선호하시는 편입니다. 기존 에어데이즈 C타입... ",
+			"bloggername":"판촉물다있어",
+			"bloggerlink":"https:\/\/blog.naver.com\/kakao87com",
+			"postdate":"20220724"
+		},
+		{
+			"title":"여름 홍보용품으로 쿨스카프 제작 어때요?(국산, <b>인쇄<\/b> o)",
+			"link":"https:\/\/blog.naver.com\/gift-love?Redirect=Log&logNo=222794602806",
+			"description":"▶품명 : 쿨스카프 ▶원산지 : 국내산 ▶재질 : 폴리 ▶사이즈 : 108 x 5.5cm ▶색상 : 색상 다양 ▶<b>인쇄<\/b> : 실크<b>인쇄<\/b>\/칼라 <b>인쇄<\/b> ▶제작기간 :디자인 확정후 4~5일 제아무리 쿨스카프라지만 촌스럽고 예쁘지 않아면 잘... ",
+			"bloggername":"시원기프트",
+			"bloggerlink":"https:\/\/blog.naver.com\/gift-love",
+			"postdate":"20220630"
+		},
+		{
+			"title":"스텐 각인 텀블러 소량 <b>인쇄<\/b> 주문제작",
+			"link":"https:\/\/blog.naver.com\/shoorup2?Redirect=Log&logNo=222686850590",
+			"description":"스텐 각인 텀블러 소량 <b>인쇄<\/b> 주문제작 #스텐텀블러 #각인텀블러 #텀블러<b>인쇄<\/b> #텀블러제작 안녕하세요. 기쁜 경험을 선물해 드리는 글래드기프트의 김과장입니다. 이제는 정말 누구나 개인 텀블러 하나씩... ",
+			"bloggername":"이대표의 슈퍼센스브랜딩",
+			"bloggerlink":"https:\/\/blog.naver.com\/shoorup2",
+			"postdate":"20220330"
+		},
+		{
+			"title":"[삼영 다큐 <b>인쇄<\/b> \/ 영도<b>인쇄<\/b>소]대량 스티커 작업",
+			"link":"https:\/\/blog.naver.com\/insesa?Redirect=Log&logNo=222831217827",
+			"description":"주문 \/ 문의 \/ 상담 방법 삼영 다큐 <b>인쇄<\/b>소 부산시 영도구 태종로 94-1 휴대폰: ***-****-**** 카톡: yinsesa... 12~1시 ------------------------------------------------------------------ #부산<b>인쇄<\/b>소 #영도<b>인쇄<\/b>소 #빠른<b>인쇄<\/b> #긴급<b>인쇄<\/b>... ",
+			"bloggername":"삼영 다큐인쇄",
+			"bloggerlink":"https:\/\/blog.naver.com\/insesa",
+			"postdate":"20220727"
+		},
+		{
+			"title":"마스크 스티커 예쁜 프린팅<b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/mj100600?Redirect=Log&logNo=222802591676",
+			"description":"마스크 스티커 예쁜 프린팅<b>인쇄<\/b> 마스크 스티커로 나만의 마스크제작 + 원하는 그림스티커로! + 예쁜건... 특히나 마스크 <b>인쇄<\/b> 퀄리티 너무 좋치 않나여~??? 선명한 색감 그대로!!! 이렇게 깔끔하고 선명하게... ",
+			"bloggername":"avec moi ♪",
+			"bloggerlink":"https:\/\/blog.naver.com\/mj100600",
+			"postdate":"20220707"
+		},
+		{
+			"title":"사업자등록증 인터넷\/온라인 홈택스 재발급,출력,<b>인쇄<\/b>,PDF저장",
+			"link":"https:\/\/blog.naver.com\/music_six?Redirect=Log&logNo=222809811712",
+			"description":"며칠전 인터넷으로 개인사업자등록증 인터넷으로 변경한 후 다음날 <b>인쇄<\/b>가 가능하더라고요 어제... 수정된 사업자등록증이 보여집니다 여기서 <b>인쇄<\/b>나 저장이 가능합니다 빨간 화살표의 A를 클릭합니다... ",
+			"bloggername":"차양",
+			"bloggerlink":"https:\/\/blog.naver.com\/music_six",
+			"postdate":"20220714"
+		},
+		{
+			"title":"[패브릭 <b>인쇄<\/b>] 영화제 가랜드",
+			"link":"https:\/\/blog.naver.com\/deoksu2000?Redirect=Log&logNo=222824520916",
+			"description":"옥스포드에 UV평판<b>인쇄<\/b> 후 가렌드로 제작하다. GQ UV COMPANY 영화제 행사에 사용하실 가랜드를... - 모바일에선 옆으로 넘겨서 읽어주세요 - <b>인쇄<\/b>방식 UV평판<b>인쇄<\/b> 소재정보 옥스포드 20수 \/ 아이보리... ",
+			"bloggername":"지큐UV컴퍼니",
+			"bloggerlink":"https:\/\/blog.naver.com\/deoksu2000",
+			"postdate":"20220722"
+		},
+		{
+			"title":"스마트폰에 저장 된 문서 프린트기로 <b>인쇄<\/b>하는 방법",
+			"link":"https:\/\/blog.naver.com\/owl10owl?Redirect=Log&logNo=222798228840",
+			"description":"저는 모바일로 중요 문서들이 많이 오는데요, 이렇게 제 스마트폰에 저장 된 문서들을 프린트기로 <b>인쇄<\/b>하는 방법입니다. 모바일 문서 프린트기로 <b>인쇄<\/b>하는 방법 &lt;삼성 프린트 서비스 플러그인 설치&gt; 삼성... ",
+			"bloggername":"올빼미간이역",
+			"bloggerlink":"https:\/\/blog.naver.com\/owl10owl",
+			"postdate":"20220703"
+		},
+		{
+			"title":"제작, 케이스 <b>인쇄<\/b>, 사원증 케이스 주문 제작, 사원증 릴 케이스",
+			"link":"https:\/\/blog.naver.com\/doplus_015?Redirect=Log&logNo=222829294447",
+			"description":"[디오플러스] SI_T 릴 케이스 이번 업체에서는 케이스에 따로 <b>인쇄<\/b>하지 않고 목걸이 줄에 전사<b>인쇄<\/b>를 하였습니다. 블랙 색상에 흰 글씨체로 깔끔하고 고급 진 느낌이 드는 목걸이입니다. [디오플러스] SI_T 릴... ",
+			"bloggername":"디오플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/doplus_015",
+			"postdate":"20220726"
+		},
+		{
+			"title":"300ml라떼잔, 에소잔 카페로고 <b>인쇄<\/b>제작",
+			"link":"https:\/\/blog.naver.com\/autumncloud?Redirect=Log&logNo=222799895826",
+			"description":"답례품, 굿즈 , 카페로고 <b>인쇄<\/b> 모두 가능합니다 ^^ 홈페이지에서 제품 골라서 말씀 주세요~ http:\/\/autumncloud.co.kr\/ 로고<b>인쇄<\/b>는 카카오채널 가을구름으로 문의해주세요 카카오톡 플러스친구 주소... ",
+			"bloggername":"가을구름",
+			"bloggerlink":"https:\/\/blog.naver.com\/autumncloud",
+			"postdate":"20220704"
+		},
+		{
+			"title":"&lt;교회, 성당,교황청 행사용품&gt; 코르크 코스터 1도 <b>인쇄<\/b> 제작",
+			"link":"https:\/\/blog.naver.com\/yoyo1240?Redirect=Log&logNo=222811740824",
+			"description":"교회, 성당, 교황청 행사용품 : 원형 코르크코스터 1도 <b>인쇄<\/b> (한가지 색상으로 <b>인쇄<\/b> ) 제작 사례 안녕하세요~ 이번에 소개할 아이는, 코르크 코스터 (컵받침) 입니다! 1도 <b>인쇄<\/b> 코르크코스터 컵받침... ",
+			"bloggername":"■ 판촉물\/답례품 전문 수연기프트 ■",
+			"bloggerlink":"https:\/\/blog.naver.com\/yoyo1240",
+			"postdate":"20220714"
+		},
+		{
+			"title":"쿨토시 제작 <b>인쇄<\/b>할 때의 꿀팁!",
+			"link":"https:\/\/blog.naver.com\/adel20?Redirect=Log&logNo=222812620785",
+			"description":"쿨토시<b>인쇄<\/b>에 대해 설명드릴까 합니다! 난다기프트에서 쿨토시제작을 위해 여러 디자이너가 힘쓰고... 쿨토시<b>인쇄<\/b>를 하여 많이 찾으신답니다! 장점으로는 가볍고 부드러운 원단을 사용하여 냉감 효과와... ",
+			"bloggername":"국내 최저가 기념품백화점",
+			"bloggerlink":"https:\/\/blog.naver.com\/adel20",
+			"postdate":"20220715"
+		},
+		{
+			"title":"[캐논코리아] 사무실 복합기 날짜<b>인쇄<\/b> 복사본 스템프 출력 방법",
+			"link":"https:\/\/blog.naver.com\/canonkoreabs?Redirect=Log&logNo=222792398089",
+			"description":"오늘 알려드릴 날짜<b>인쇄<\/b>와 스템프 기능은 출력된 문서 보안에 도움이 되는 기능이에요! 날짜<b>인쇄<\/b>와 스템프 기능에 대해 바로 알아볼까요~? 사무실 복합기 문서 보안 날짜<b>인쇄<\/b> &amp; 스템프 기능 날짜<b>인쇄<\/b> 기능 먼저... ",
+			"bloggername":"캐논코리아 주식회사 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/canonkoreabs",
+			"postdate":"20220629"
+		},
+		{
+			"title":"파주평판UV<b>인쇄<\/b> 다양한 소재로 원하는 광고물 제작",
+			"link":"https:\/\/blog.naver.com\/atn9462?Redirect=Log&logNo=222803678384",
+			"description":"파주평판UV<b>인쇄<\/b> 다양한 소재로 원하는 광고물 제작 안녕하세요! 파주평판UV<b>인쇄<\/b> 전문 업체 아크릴타운입니다. 아크릴 및 평판UV<b>인쇄<\/b> 외에도 다양한 재료를 통해 고객님께 필요한 인테리어 및 홍보물로... ",
+			"bloggername":"▲아크릴타운▲",
+			"bloggerlink":"https:\/\/blog.naver.com\/atn9462",
+			"postdate":"20220707"
+		},
+		{
+			"title":"에코백 주문제작 <b>인쇄<\/b>하기 옵션설명해드립니다.",
+			"link":"https:\/\/blog.naver.com\/adel20?Redirect=Log&logNo=222829393360",
+			"description":"에쁜 색상에 에코백<b>인쇄<\/b>를 하면 이쁘겠죠~? 다음은 여러 가지 옵션입니다~! 필요하신 옵션이 있다면... 에코백<b>인쇄<\/b> 범위는 사진과 같으며! 실크<b>인쇄<\/b>로 진행된답니다~! 실크<b>인쇄<\/b> 특성상 단색으로만 가능하지만!... ",
+			"bloggername":"국내 최저가 기념품백화점",
+			"bloggerlink":"https:\/\/blog.naver.com\/adel20",
+			"postdate":"20220726"
+		},
+		{
+			"title":"[여름판촉물] 캐릭터 펭귄&amp;베어 미니선풍기 <b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/kakao87com?Redirect=Log&logNo=222797657194",
+			"description":"요로코롬 <b>인쇄<\/b>가능한 귀여운 미니선풍기 보신적 있으신가요?? 2019년부터 쭈~~욱 오랫동안 사랑받고... 여름판촉물 <b>인쇄<\/b>하여 패션아이템으로도 부족함이 없는 &quot;캐릭터 펭귄&amp;베어 미니선풍기&quot; 입니다. 옆모습도... ",
+			"bloggername":"판촉물다있어",
+			"bloggerlink":"https:\/\/blog.naver.com\/kakao87com",
+			"postdate":"20220702"
+		},
+		{
+			"title":"에코백(부직포가방) <b>인쇄<\/b> 주문제작하기",
+			"link":"https:\/\/blog.naver.com\/shoorup2?Redirect=Log&logNo=222697180956",
+			"description":"에코백(부직포가방) <b>인쇄<\/b> 주문제작하기 #에코백제작 #에코백<b>인쇄<\/b> #에코백주문제작 #부직포가방제작 안녕하세요. 기쁜 경험을 선물해 드리는 글래드기프트(기프티아니한가)의 김과장입니다. 오늘은 에코백... ",
+			"bloggername":"이대표의 슈퍼센스브랜딩",
+			"bloggerlink":"https:\/\/blog.naver.com\/shoorup2",
+			"postdate":"20220411"
+		},
+		{
+			"title":"회사기념품 극세사 전사<b>인쇄<\/b> 대형 비치타올 제작 사례",
+			"link":"https:\/\/blog.naver.com\/ds_gift?Redirect=Log&logNo=222807356985",
+			"description":"전사<b>인쇄<\/b> 비치타올제작에 \\대하여 말씀드리겠습니다. 극세사 전사<b>인쇄<\/b> 대형 비치타올 여름시즌 회사기념품등으로 가장 선호도 높은 품목중 하나인 극세사 비치타올은 면타올,극세사타올로 나눠지게되는데... ",
+			"bloggername":"☆디에스기프트가 전하는 판촉이야기☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/ds_gift",
+			"postdate":"20220712"
+		},
+		{
+			"title":"남산동 <b>인쇄<\/b>골목 카페 허밍102 (HUMMING102)",
+			"link":"https:\/\/blog.naver.com\/jjuya9515?Redirect=Log&logNo=222800155218",
+			"description":"<b>인쇄<\/b>골목에 위치한 작고 아담한 가게 템퍼들이 마침 눈에 띄었다. 예전에 원데이로 배워보던 기억이... 남산동 <b>인쇄<\/b>골목에 위치한 카페들이 보기 쉽게 약도로 표시돼 있었다. 단출한 메뉴 음료가격이 착해... ",
+			"bloggername":"HEEvely BLOG",
+			"bloggerlink":"https:\/\/blog.naver.com\/jjuya9515",
+			"postdate":"20220704"
+		},
+		{
+			"title":"3단 자동 우산 주문 제작 <b>인쇄<\/b> 하는 꿀팁",
+			"link":"https:\/\/blog.naver.com\/dooly0078?Redirect=Log&logNo=222804487711",
+			"description":"3단 자동 우산<b>인쇄<\/b>에 딱 좋겠죠? 또한 마감부 형광처리가 되어있어 어두운 밤에 눈에 띄기도 합니다! 3단 우산 제작하면 아주 좋겠죠? 받으시는 분들도 좋아하신답니다~! 또한 자동 우산 <b>인쇄<\/b> 시 엄청난 방수... ",
+			"bloggername":"판촉물 기념품 주문제작 전문 난다기프트",
+			"bloggerlink":"https:\/\/blog.naver.com\/dooly0078",
+			"postdate":"20220708"
+		},
+		{
+			"title":"'제5차 <b>인쇄<\/b>문화산업진흥계획' 업계 간담회 마련",
+			"link":"https:\/\/blog.naver.com\/mcstkorea?Redirect=Log&logNo=222804453337",
+			"description":"7월 8일(금) 오전 10시 대한<b>인쇄<\/b>문화협회에서 '<b>인쇄<\/b>업계 간담회'가 열렸습니다. 이번 간담회에서 '제5차 <b>인쇄<\/b>문화산업 진흥 계획(안)(2022~2026)'에 대한 현장의 다양한 목소리를 듣고 의견수렴 결과를 최대한... ",
+			"bloggername":"도란도란 문화놀이터",
+			"bloggerlink":"https:\/\/blog.naver.com\/mcstkorea",
+			"postdate":"20220708"
+		},
+		{
+			"title":"<b>인쇄<\/b>라벨",
+			"link":"https:\/\/blog.naver.com\/alumolru?Redirect=Log&logNo=222811314705",
+			"description":"#<b>인쇄<\/b>라벨#면라벨#면생지라벨# #크로스 ,공단케어라벨# 코오백지 라벨 #양면접이 라벨 # #라벨제작... 오늘은 <b>인쇄<\/b>라벨들 사진올려드립니다 . *라벨을 제작하려고 하면 어떤라벨을 제작해야 할지 뭐부터... ",
+			"bloggername":"삼화라벨",
+			"bloggerlink":"https:\/\/blog.naver.com\/alumolru",
+			"postdate":"20220714"
+		},
+		{
+			"title":"로우티 스틱포 필름 패키지 드림팩 <b>인쇄<\/b>감리",
+			"link":"https:\/\/blog.naver.com\/4oundme?Redirect=Log&logNo=222821134559",
+			"description":"경기도 광주로 #로우티 #스틱포 #스틱포필름 #패키지<b>인쇄<\/b> #드림팩 #<b>인쇄<\/b>감리 #필름<b>인쇄<\/b> 갈 추진력 얻는 중.. 아침부터 로우티 패키지 관련으로 정신이 하나도 없어서 동태 눈 된 채로 지하철 탑승.. 레스고... ",
+			"bloggername":"생각 궁전",
+			"bloggerlink":"https:\/\/blog.naver.com\/4oundme",
+			"postdate":"20220720"
+		},
+		{
+			"title":"행사판촉물 전사<b>인쇄<\/b> 접이식 돗자리 매트 제작 사례",
+			"link":"https:\/\/blog.naver.com\/ds_gift?Redirect=Log&logNo=222803238863",
+			"description":"접이식 돗자리매트 전사<b>인쇄<\/b> 행사판촉물 제작 휴가철이 다가오는 요즘 많은 기업,단체,기관등에서는... 휴가철 다양한 행사를 위한 행사판촉물로 요즘 가장 많은 관심을 가지시고있는것으로는 전사<b>인쇄<\/b>... ",
+			"bloggername":"☆디에스기프트가 전하는 판촉이야기☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/ds_gift",
+			"postdate":"20220711"
+		},
+		{
+			"title":"[아이코믹스] 협력 <b>인쇄<\/b>, 자주 하는 질문",
+			"link":"https:\/\/blog.naver.com\/icomicss?Redirect=Log&logNo=222807612234",
+			"description":"[아이코믹스 협력 <b>인쇄<\/b>, 자주 하는 질문] 1. 책 제작은 몇 권부터 가능한가요? A. 아이코믹스는 <b>인쇄<\/b>소와 출력소를 겸하고 있습니다. 소량 <b>인쇄<\/b>는 1권부터, 옵셋 <b>인쇄<\/b>는 50권부터 가능합니다. (옵셋<b>인쇄<\/b>도 1부... ",
+			"bloggername":"아이코믹스",
+			"bloggerlink":"https:\/\/blog.naver.com\/icomicss",
+			"postdate":"20220711"
+		},
+		{
+			"title":"[패브릭 <b>인쇄<\/b>] 시원한 느낌의 모시삼베",
+			"link":"https:\/\/blog.naver.com\/deoksu2000?Redirect=Log&logNo=222812761956",
+			"description":"모시삼베에 UV평판<b>인쇄<\/b> 후 노렌커튼으로 제작하다. GQ UV COMPANY 더운 여름날 시원한 느낌의... - 모바일에선 옆으로 넘겨서 읽어주세요 - <b>인쇄<\/b>방식 UV평판<b>인쇄<\/b> 소재정보 모시삼베 디자인 타입 2단형 상단... ",
+			"bloggername":"지큐UV컴퍼니",
+			"bloggerlink":"https:\/\/blog.naver.com\/deoksu2000",
+			"postdate":"20220715"
+		},
+		{
+			"title":"초등학교 책자<b>인쇄<\/b>제본\/제본\/칼라제본 [모두카피]",
+			"link":"https:\/\/blog.naver.com\/moducopy1004?Redirect=Log&logNo=222820914237",
+			"description":"#활동지 #<b>인쇄<\/b>제본 #출력제본 #제본 #칼라제본 #책만들기 #초등학교제본 #학급문집 #문집 #문집제작 #<b>인쇄<\/b>물 #간행물 #<b>인쇄<\/b>소 #제본하기 #책만드는곳 #마포구<b>인쇄<\/b>소 #홍대<b>인쇄<\/b>소 #소식지제본 #소식지 #<b>인쇄<\/b>... ",
+			"bloggername":"m o d u c o p y 1 0 0 4 ♡",
+			"bloggerlink":"https:\/\/blog.naver.com\/moducopy1004",
+			"postdate":"20220720"
+		},
+		{
+			"title":"미술학원,고급 캔버스 앞치마 소량 <b>인쇄<\/b> 제작(대전)",
+			"link":"https:\/\/blog.naver.com\/yoyo1240?Redirect=Log&logNo=222829628121",
+			"description":"고급 앞치마 (캔버스) <b>인쇄<\/b> 제작 사례 소개 : 미술, 공예, 공구 앞치마로 굿! 안녕하세요~ 오늘... 실크1도 <b>인쇄<\/b> 제작 <b>인쇄<\/b>는 가슴 부분에 진행 했습니다. * 제작기간 : <b>인쇄<\/b> 디자인 확정 후 7~8일 뒤 출고... ",
+			"bloggername":"■ 판촉물\/답례품 전문 수연기프트 ■",
+			"bloggerlink":"https:\/\/blog.naver.com\/yoyo1240",
+			"postdate":"20220726"
+		},
+		{
+			"title":"의정부 소량명함<b>인쇄<\/b> 명함제작 깔끔하게 저렴하게 해 주는 곳!",
+			"link":"https:\/\/blog.naver.com\/kkeepp47?Redirect=Log&logNo=222831149585",
+			"description":"안녕하세요 소량명함<b>인쇄<\/b> 당일 명함<b>인쇄<\/b> 제작도 가능한 의정부 메이크포토 메이크카피센터입니다~! 명함은 비지니의스의 첫인상이자... 또 무심코 건넨 명함 한장이 좋은 인연으로 또는 긴 인연으로 갈 수도... ",
+			"bloggername":"기분좋은 하루",
+			"bloggerlink":"https:\/\/blog.naver.com\/kkeepp47",
+			"postdate":"20220727"
+		},
+		{
+			"title":"수 있는 국산으로! 판촉물 손선풍기 주문 제작 (<b>인쇄<\/b> 가능) 답례품",
+			"link":"https:\/\/blog.naver.com\/sonsoore2?Redirect=Log&logNo=222819271692",
+			"description":"<b>인쇄<\/b> 가능한 손선풍기 판촉물 답례품 소개드려요! 1. 휴대용 핸디 선풍기 소개 미풍, 약풍, 강풍 총... 휴대용 선풍기 <b>인쇄<\/b> 제작 가능! 판촉물 선풍기 <b>인쇄<\/b>도 가능합니다! 40 x 15 mm로 선풍기 <b>인쇄<\/b>를 하실 수 있으며... ",
+			"bloggername":"뉴미디어캠퍼스│SNS 교육 대행 컨설팅│손정일",
+			"bloggerlink":"https:\/\/blog.naver.com\/sonsoore2",
+			"postdate":"20220719"
+		},
+		{
+			"title":"도서는 <b>인쇄<\/b> 이후의 꾸준함이 가장 중요합니다.",
+			"link":"https:\/\/blog.naver.com\/jhylove77?Redirect=Log&logNo=222825846605",
+			"description":"안녕하세요~ 지나입니다^^ 오늘은 도서 <b>인쇄<\/b> 이후가 왜 중요한지 이야기해보려고 해요. 도서는 각... 그래서 도서 <b>인쇄<\/b> 이후 책이 발간되어 나오면 반드시 홍보마케팅에 주력을 해야해요. 내 이야기를... ",
+			"bloggername":"1인창업스쿨",
+			"bloggerlink":"https:\/\/blog.naver.com\/jhylove77",
+			"postdate":"20220723"
+		},
+		{
+			"title":"식권 <b>인쇄<\/b> - A 한식뷔페 식당 식권 제작",
+			"link":"https:\/\/blog.naver.com\/wlstlfwlsdhr?Redirect=Log&logNo=222787436157",
+			"description":"식권 <b>인쇄<\/b> - A 한식뷔페 식당 식권 제작 현실디자인에 제작을 의뢰해주신 한식뷔페 식당 식권 입니다.... 식권 제작,<b>인쇄<\/b>는 색지에 흑백 <b>인쇄<\/b>로 제작이 진행되며, 효율적인 관리를 위해서 넘버링 작업도 함께... ",
+			"bloggername":"HYUNSIL DESIGN",
+			"bloggerlink":"https:\/\/blog.naver.com\/wlstlfwlsdhr",
+			"postdate":"20220624"
+		},
+		{
+			"title":"[에코백홍보물] 텀블에코백 <b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/kakao87com?Redirect=Log&logNo=222829404977",
+			"description":"휘뚜루마뚜루 들고 다니기 좋은 에코백홍보물 <b>인쇄<\/b>가 가능한 &quot;텀블에코백&quot; 아이템을 소개합니다.... ↑ 실크<b>인쇄<\/b>(1도-단색) 방법으로 <b>인쇄<\/b>한 사진컷 ↑ 간결한 디자인에 여러분들의 감성 로고 한스푼을 더해... ",
+			"bloggername":"판촉물다있어",
+			"bloggerlink":"https:\/\/blog.naver.com\/kakao87com",
+			"postdate":"20220726"
+		},
+		{
+			"title":"[컬러 <b>인쇄<\/b> 에코백] 국산 제작 에코백 \/ 디자인 에코백 제작",
+			"link":"https:\/\/blog.naver.com\/giftpp?Redirect=Log&logNo=222825427008",
+			"description":"에코백 제작 사례 보여드릴게요 :) 이번에 제작된 컬러 <b>인쇄<\/b> 에코백입니다. 국산 원단 에코백으로... 자연스럽게 어우러지는 컬러 <b>인쇄<\/b> <b>인쇄<\/b>는 디지털 컬러 <b>인쇄<\/b>로 제작되었습니다. 일반적으로 제작되는 <b>인쇄<\/b>... ",
+			"bloggername":"기프트발전소 기념선물이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/giftpp",
+			"postdate":"20220723"
+		},
+		{
+			"title":"[6월신상] 모두애 컬러<b>인쇄<\/b> 쿨토시와 항균가공 파우치",
+			"link":"https:\/\/blog.naver.com\/ssungpal?Redirect=Log&logNo=222796248887",
+			"description":"모두애 컬러<b>인쇄<\/b> 쿨토시와 항균가공 파우치 언제나 찾아오는~ 올해의 여름을 맞이하며 아~! 이 여름... 그리하여 개발한 모두애 쿨토시파우치 당사에서 직접<b>인쇄<\/b>, 파우치 직접제작으로 가격경쟁력... ",
+			"bloggername":"NeoNuricom",
+			"bloggerlink":"https:\/\/blog.naver.com\/ssungpal",
+			"postdate":"20220701"
+		},
+		{
+			"title":"3단접지 리플렛 <b>인쇄<\/b> 제작은 애드준에서!",
+			"link":"https:\/\/blog.naver.com\/adjun4842?Redirect=Log&logNo=222812427777",
+			"description":"리플렛 <b>인쇄<\/b> 제작 안녕하세요 잇님들 애드준입니다! 오늘은 벌써 금요일이네요~ 내일인 초복인데 이제 여름이 시작되려나 보네요 얼마나 더우려나 걱정입니다 ㅜㅜ 오늘은 애드준에서 제작한 3단리플렛 <b>인쇄<\/b>... ",
+			"bloggername":"ADJUN",
+			"bloggerlink":"https:\/\/blog.naver.com\/adjun4842",
+			"postdate":"20220715"
+		},
+		{
+			"title":"쿨스카프판촉물 아이스 쿨스카프 무지 <b>인쇄<\/b>가능 ( 상품코드... ",
+			"link":"https:\/\/blog.naver.com\/tndo50?Redirect=Log&logNo=222828155866",
+			"description":"쿨스카프판촉물 아이스 쿨스카프 무지 <b>인쇄<\/b>가능 상품코드 : 298377 여름 더위를 식혀줄 수 있는 아이스 쿨 스카프 무지 <b>인쇄<\/b>가능 제품은 원하시는 업체명, 로고 등을 스카프 원단에 <b>인쇄<\/b>하여 배포 가능하여... ",
+			"bloggername":"판촉물, 기념품 소개 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/tndo50",
+			"postdate":"20220725"
+		},
+		{
+			"title":"Microsoft Universal Printer Driver GPD 파일에서 <b>인쇄<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/websearch?Redirect=Log&logNo=222818463880",
+			"description":"아래와 같은 GPD 파일로 좌\/우 margin 이 작은 문서를 <b>인쇄<\/b>하면 좌\/우 내용들이 <b>인쇄<\/b>되지 않는 것 같더군요. *Option: A4 { *rcNameID: =RCID_DMPAPER_SYSTEM_NAME... ",
+			"bloggername":"파워 프로그래머",
+			"bloggerlink":"https:\/\/blog.naver.com\/websearch",
+			"postdate":"20220719"
+		},
+		{
+			"title":"[한컴 오피스] 한글 문서 형광펜 기능 사용법 및 <b>인쇄<\/b>하기",
+			"link":"https:\/\/fervors.tistory.com\/297",
+			"description":"그러나, 화면표시용이라 종이에 평상시처럼 <b>인쇄<\/b>하면 표시되지 않지만, 간단한 설정으로 형광펜도 <b>인쇄<\/b>되게 할 수 있습니다. 형광펜 기능을 사용하는 방법과, 형광펜도 <b>인쇄<\/b>되도록 하는 방법을 알아봅니다.... ",
+			"bloggername":"쉬운쌤",
+			"bloggerlink":"https:\/\/fervors.tistory.com\/",
+			"postdate":"20220703"
+		}
+	]
+}

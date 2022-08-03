@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:43 +0900",
+	"total":299665,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국태양<b>에너지<\/b>학회논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5281",
+			"description":""
+		},
+		{
+			"title":"한국해양환경·<b>에너지<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6536",
+			"description":""
+		},
+		{
+			"title":"<b>에너지<\/b>공학",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3663",
+			"description":""
+		},
+		{
+			"title":"공동주택의 <b>에너지<\/b> 자립률 확보방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650628026",
+			"description":"  목차\n공동주택의 <b>에너지<\/b> 자립률 확보방안 연구 \/ 유정현 1\n 연구의 목적 및 배경 1\n LH 공사의 현 수준 "
+		},
+		{
+			"title":"<b>에너지<\/b>경제연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3662",
+			"description":""
+		},
+		{
+			"title":"<b>에너지<\/b>기후변화교육",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3108289",
+			"description":""
+		},
+		{
+			"title":"임산<b>에너지<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4253",
+			"description":""
+		},
+		{
+			"title":"회귀불연속 모형에 의한동･하계 <b>에너지<\/b>바우처 효과 분석: 다중배정변",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651626519",
+			"description":"Impact of Energy Voucher Policy in Korea: The Regression-Discontinuity Design with Multiple Running Variables 본 연구는 회귀불"
+		},
+		{
+			"title":"한국지열<b>에너지<\/b>학회논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=153594",
+			"description":""
+		},
+		{
+			"title":"<b>에너지<\/b>포커스",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2687310",
+			"description":""
+		},
+		{
+			"title":"신재생<b>에너지<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=502175",
+			"description":""
+		},
+		{
+			"title":"An integrated adoption model of solar energy technologies in south korea = 한국 태양에너",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=696689046",
+			"description":"An integrated adoption model of solar energy technologies in South Korea   Solar energy, Renewable energy, Feed-in tariff, Environmenta"
+		},
+		{
+			"title":"시민 참여와 재생가능<b>에너지<\/b> 정책의 새로운 철학: 독일 <b>에너지<\/b> 전환 정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74831429",
+			"description":"Citizen Participation and A New Principle of Renewable Energy Policy - Lessons from the Practices of German Energy Transition Policy - "
+		},
+		{
+			"title":"[논문] 압축형 도시특성요소가 교통<b>에너지<\/b> 소비에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=37750652",
+			"description":"An Analysis on the Effects of Compact City Characteristics on Transportation Energy Consumption There have been many disputes over comp"
+		},
+		{
+			"title":"유망 바이오<b>에너지<\/b>작물 “억새” 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=456570315",
+			"description":"Development of “Miscanthus” the Promising Bioenergy Crop 억새의 식물학적인 분류 및 형태, 선진국의 억새 육종, "
+		},
+		{
+			"title":"신재생<b>에너지<\/b> 연계형 <b>에너지<\/b>관리장치의 운영 사례 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561894326",
+			"description":"A Case Study on Operation of Energy Management System Connected with Renewable Energy 본 논문에서는 신재생<b>에너지<\/b> 발전과 "
+		},
+		{
+			"title":"대구의 도시 <b>에너지<\/b> 전환과 <b>에너지<\/b> 자립",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78423477",
+			"description":"Urban energy transition and energy autonomy in Daegu 화석연료의 고갈과 국제 유가의 폭등, 기후온난화와 빈번한 "
+		},
+		{
+			"title":"<b>에너지<\/b> 전환을 위한 전략적 틈새로서 시민햇빛발전협동조합의 가능성과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153600918",
+			"description":"Possibilities and Institutional Limits of Citizens` Solar Power Cooperatives as a Strategic Niche for Energy Transition: Focusing on th"
+		},
+		{
+			"title":"재생<b>에너지<\/b> 발전설비에 대한 주민 수용성 제고 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174800550",
+			"description":"Review of measures to enhance local acceptance of renewable energy projects 파리 기후변화협약당사국총회(COP21)를 앞두"
+		},
+		{
+			"title":"융합인재교육의 관점에서 <b>에너지<\/b> 및 기후변화 교육 연수 프로그램 개선 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56561779",
+			"description":"A study on How to Improve the Professionalism Enhancement Program for Teachers in Charge of Energy and Climate Change Education Based o"
+		},
+		{
+			"title":"<b>에너지<\/b>기후변화학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3097018",
+			"description":""
+		},
+		{
+			"title":"학교시설의 <b>에너지<\/b>사용 및 건물<b>에너지<\/b>관리시스템 유지관리 현황에 관한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601409",
+			"description":"A Study on the Status of Energy Usage and Maintenance of Building Energy Management System in School Facilities '기후 위기에 대"
+		},
+		{
+			"title":"<b>에너지<\/b> 수요 예측 및 <b>에너지<\/b>와 경제성장 간 관계: VECM과 ARDL 모형 비교를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898169027",
+			"description":"Energy demand forecasting and the relationship between energy and economic growth: A comparison of the VECM and ARDL model 이 연구"
+		},
+		{
+			"title":"대구의 도시 <b>에너지<\/b> 전환과 <b>에너지<\/b> 자립",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594441515",
+			"description":" 화석연료의 고갈과 국제 유가의 폭등, 기후온난화와 빈번한 환경 재난은 자원 및 환경 담론과 정책의"
+		},
+		{
+			"title":"[논문] 압축도시 공간구조 특성이 교통<b>에너지<\/b> 소비와 대기오염 농도에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=34737979",
+			"description":"The Effects of Compact City Characteristics on Transportation Energy Consumption and Air Quality The purpose of this study is to examin"
+		},
+		{
+			"title":"녹색성장정책에 있어 IT의 역할 및 중요성 : <b>에너지<\/b> 관련 정책을 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16606959",
+			"description":"  목차\n녹색성장정책에 있어 IT의 역할 및 중요성 : <b>에너지<\/b> 관련 정책을 중심으로 \/ 황성진 ; 박상주 1\n ["
+		},
+		{
+			"title":"주요국 제조업의 <b>에너지<\/b> 소비구조·가격 및 <b>에너지<\/b> 비용 비교 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177923446",
+			"description":"  목차\n주요국 제조업의 <b>에너지<\/b> 소비구조·가격 및 <b>에너지<\/b> 비용 비교 분석 \/ 한기주 1\n 요약 1\n 1. 머리말"
+		},
+		{
+			"title":"새정부,’27년까지 국가 <b>에너지<\/b>효율 25% 개선키로 : 시장원리 기반 <b>에너지<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817775",
+			"description":""
+		},
+		{
+			"title":"초등학교 통합교과를 활용한 <b>에너지<\/b> STEAM 교육프로그램 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59531872",
+			"description":"The Development of Energy STEAM Program Based on the Integrated Curriculum of Elementary Schools 이 연구의 목적은 초등학교 "
+		},
+		{
+			"title":"하수처리, 정수장 등 환경시설에서 <b>에너지<\/b> 자체 생산 : 환경시설을 활용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817799",
+			"description":""
+		},
+		{
+			"title":"단일 포식자-희생자 환경에서 포식자 추격 <b>에너지<\/b> 모델",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58330679",
+			"description":"A Model of Pursuing Energy of Predator in Single Predator-Prey Environment 일반적으로 생태계에서 포식자-희생자 모델"
+		},
+		{
+			"title":"동화를 활용한 <b>에너지<\/b> 교육프로그램이 초등학교 6학년 학생들의<b>에너지<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562426346",
+			"description":"The Effect of a Fairy Tale-based Energy Education Program on Energy Literacy of 6th Grade Elementary School Students 이 연구의 목"
+		},
+		{
+			"title":"신재생<b>에너지<\/b> 발전이 고용에 미치는 영향에 관한 연구 (신재생<b>에너지<\/b> 發",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650609932",
+			"description":"A study on the effect of new &amp; renewable energy generation on employment  표제지\n목차\n국문초록 9\nABSTRACT 10\n제1장 서론 11"
+		},
+		{
+			"title":"도시·주택 적용 미관용 <b>에너지<\/b> 블록의 발전성능 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56561560",
+			"description":"Evaluation on the Performance of Power Generation of Energy Harvesting Blocks for Urban and Housing Application 최근 <b>에너지<\/b> 관련"
+		},
+		{
+			"title":"저소득층을 위한 <b>에너지<\/b>복지 전달체계 분석 : 영국의 <b>에너지<\/b>복지 전달체",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897742420",
+			"description":"An Analysis on Energy Welfare Delivery System for Low-Income Households : Implications of Historical Path and Practice Process of Energ"
+		},
+		{
+			"title":"<b>에너지<\/b> 시민성과 <b>에너지<\/b> 정의를 위한 지리교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887717833",
+			"description":"Geography Education for Energy Citizenship and Justice 이 연구는 기후변화가 인간의 활동 중에서도 <b>에너지<\/b>의 생산"
+		},
+		{
+			"title":"피겨 스케이팅 선수의 낮은 <b>에너지<\/b> 가용성과 스포츠에서의 상대적 에너",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889241077",
+			"description":"Low Energy Availability (LEA) and Relative Energy Deficiency in Sport (REDs) in Figure Skaters 본 연구는 피겨 스케이팅 선수"
+		},
+		{
+			"title":"식품 공장의 <b>에너지<\/b> 절감을 위한 열<b>에너지<\/b> 소비 분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907428",
+			"description":"A study on the Analysis of Thermal Energy Consumption for Energy Saving in Food Factories   공장<b>에너지<\/b>관리시스템, <b>에너지<\/b>"
+		},
+		{
+			"title":"Ir192 선원을 이용한 근접치료에서 물 흡수선량 1 Gy에 대한 광자<b>에너지<\/b> 플",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887310330",
+			"description":"Derivation of Photon Energy Fluence and Mass Energy Absorption Coefficient for 1 Gy Absorbed Doseof Water in Brachytherapy using Ir192 "
+		},
+		{
+			"title":"아태 지역의 석유시장과 가스시장이 러시아의 <b>에너지<\/b> 전략에서 차지하",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897374702",
+			"description":"How Has the Status of the Asia-Pacific Oil Market and Gas Market Changed in Russia’s Energy Strategy? 본 논문의 주요 목적은 "
+		},
+		{
+			"title":"독일의 기후변화에 대응한 <b>에너지<\/b>정책에 관한 고찰(II)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58317369",
+			"description":"A Study on the Energy Policy to Respond to the Climate Change in Germany (II) 이 글은 독일을 사례로 기후변화에 대응하"
+		},
+		{
+			"title":"가상<b>에너지<\/b> 생산공급설비 적용을 위한 기업별 <b>에너지<\/b> 수요예측 데이터",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907510",
+			"description":"Analysis of data-mining model for forecasting energy demand by company to apply virtual energy production and supply facilities   VUP, "
+		},
+		{
+			"title":"신재생<b>에너지<\/b> 성장의 영향요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=50896938",
+			"description":"Determinants of new renewable energy growth 기존의 많은 연구들은 국가간 신재생<b>에너지<\/b> 성장의 차이를 주로 정"
+		},
+		{
+			"title":"<b>에너지<\/b>복지 정책의 친환경성 제고를 위한 국민 수용성 연구: 저소득층에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887858487",
+			"description":" 정부는 제3차 <b>에너지<\/b>기본계획의 <b>에너지<\/b>복지 질적제고를 위해 <b>에너지<\/b>효율개선사업을 확대할 경우, 사"
+		},
+		{
+			"title":"동북아시아 <b>에너지<\/b>안보와 다자 지역협력: 러-북-남 가스관 사업과 동북",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56553732",
+			"description":"Energy Security and Multilateral Regional Cooperation in Northeast Asia: Implication for Russia-North Korea-South Korea Gas Pipeline Pr"
+		},
+		{
+			"title":"중간지원조직과 <b>에너지<\/b> 레짐 전환 : 한국 <b>에너지<\/b>자립마을의 사례 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420576583",
+			"description":"The Role of Intermediary Supporting Organization in Energy Regime Change: Comparative Case Studies of Energy Self-sufficient Islands in"
+		},
+		{
+			"title":"탈탄소화를 위한 스마트시티에서의 교통-<b>에너지<\/b> 연계서비스 레퍼런스 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891405117",
+			"description":"A Study on the Reference Model and Use Case for Energy-guided-Mobility as a Servicein Smart City for Decarbonization   탈탄소화, "
+		},
+		{
+			"title":"한국에서 재생<b>에너지<\/b>의 한계점 및 개선사항 - 풍력발전을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174800548",
+			"description":"Limitations of and Improvements for Korea’s Renewable Energy Policy on Wind Power 우리나라는 6월 30일에 유엔기후변화협"
+		},
+		{
+			"title":"여성 선수의 상대적 <b>에너지<\/b> 결핍에 대한 최신 지견",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898228766",
+			"description":"Recent Advance on Relative Energy Deficiency in Female Athlete [목적] 본 종설의 목적은 상대적<b>에너지<\/b>결핍(relative energ"
+		},
+		{
+			"title":"제도변화와 대체요인으로서 딜레마 대응에 관한 연구: 신･재생<b>에너지<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289894382",
+			"description":"Dilemma Response as a Factor of Institutional Changes and Substitutions: A Case Study of the Feed-in Tariff Program for Renewable Energ"
+		},
+		{
+			"title":"자원부국의 신재생<b>에너지<\/b> 개발: 카자흐스탄과 우즈베키스탄의 <b>에너지<\/b>전",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889100326",
+			"description":"Development of renewable energy in resource-rich countries: Energy transition drivers and obstacles in Kazakhstan and Uzbekistan 자원"
+		},
+		{
+			"title":"<b>에너지<\/b> 절약 STEAM 프로그램이 초등학생의 <b>에너지<\/b> 절약 태도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=596513378",
+			"description":"The Effect of Energy Saving STEAM Program on Elementary School Students' Attitude toward Saving Energy 본 연구는 <b>에너지<\/b> 절약 S"
+		},
+		{
+			"title":"시스템 전환, 기후 변화 담론 그리고 재생가능<b>에너지<\/b> - 한국의 재생가능",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16601209",
+			"description":"System transition, Social discourse about climate change, and Renewable Energy - A Study on the development of renewable energy policy "
+		},
+		{
+			"title":"선박용 <b>에너지<\/b> 관리 시스템 알고리즘 검증을 위한 신호 연동 시뮬레이터",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897735650",
+			"description":"Development of signal linkage simulator for verification of Ships energy management system algorithm 전 세계적으로 선박의 배"
+		},
+		{
+			"title":"보건(소)건물의 <b>에너지<\/b>사용실태 및 넷-제로<b>에너지<\/b> 구현",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=876979403",
+			"description":"Energy Usage and Net-Zero Energy Implementation of Public Health Centers 본 연구에서는 사례를 통해 기존 보건(소)건물"
+		},
+		{
+			"title":"무역 자유화, 경제성장, <b>에너지<\/b> 소비와 환경: G-20 국가에 대한 시계열분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290035972",
+			"description":"Trade Liberalization, Economic Growth, Energy Consumption and the Environment: Time Series Evidence from G-20 Economies This study exam"
+		},
+		{
+			"title":"공동주택 연도별 단열기준 강화에 따른 <b>에너지<\/b>소요량 비교 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=731314281",
+			"description":""
+		},
+		{
+			"title":"2022년 신재생<b>에너지<\/b> 보급지원 사업공고 및 접수 실시",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890312713",
+			"description":""
+		},
+		{
+			"title":"하이브리드 굴삭기의 <b>에너지<\/b> 관리 제어에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57056776",
+			"description":"A Study on the Energy Management Control of Hybrid Excavator According to the successful development of hybrid vehicle, hybridization o"
+		},
+		{
+			"title":"FEMS 적용을 위한 머신러닝 기반의 <b>에너지<\/b> 소비 예측 모델",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907512",
+			"description":"Machine Learning based Energy Consumption Prediction Model for FEMS Application   공장<b>에너지<\/b>관리시스템, FEMS, 공장 에너"
+		},
+		{
+			"title":"건축물<b>에너지<\/b>절약계획서를 선박의 거주구 부분에 적용한 <b>에너지<\/b> 절감 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877222175",
+			"description":"A Design Proposal for Energy Saving by Applying the Building Energy Savings Plan to Residental Area 본 연구에서는 선박에서 "
+		},
+		{
+			"title":"<b>에너지<\/b> 플러스의 시뮬레이션 결과와 실제 냉방<b>에너지<\/b> 사용량의 비교 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289925365",
+			"description":"Comparison of Actual Cooling Energy Consumption with Calculated Cooling Energy Consumption and Analysis of Energy Performance between G"
+		},
+		{
+			"title":"가정 부문 <b>에너지<\/b> 소비자의 라이프스타일이<b>에너지<\/b> 절약행동에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45746556",
+			"description":"The Effects of Residential Energy Consumer's Lifestyle on Energy Conservation Behavior 최근 들어 국내 가정 부문 <b>에너지<\/b> 소"
+		},
+		{
+			"title":"IOT 기술을 활용한 <b>에너지<\/b> 절약 하우스 시스템 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651441904",
+			"description":"A Study on the Energy Saving House System Using IOT Technology 전 세계적으로 저탄소 녹색성장을 배경으로 인간과 자"
+		},
+		{
+			"title":"Ir192 선원을 이용한 근접치료에서 물 흡수선량 1 Gy에 대한 광자<b>에너지<\/b> 플",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890110076",
+			"description":"Derivation of Photon Energy Fluence and Mass Energy Absorption Coefficient for 1 Gy Absorbed Dose of Water in Brachytherapy using Ir192"
+		},
+		{
+			"title":"남북 재생<b>에너지<\/b> 협력을 위한 전략과 정책적 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562497468",
+			"description":"Small Scale Renewable Energy Development as a Strategy for Inter-Korean Cooperation 최근 남북관계가 개선되면서 철도, 도"
+		},
+		{
+			"title":"위험사회와 <b>에너지<\/b> 체제 전환: <b>에너지<\/b> 선호구조 분석 및 정책적 함의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187942706",
+			"description":"Risk Society and the Transition of the Energy System: An Analysis of Energy Preference and Its Policy Implications 후쿠시마 사고 "
+		},
+		{
+			"title":"STEAM을 적용한 신재생<b>에너지<\/b>학습 프로그램이 초등학생의 환경소양 및 과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186510654",
+			"description":"Effects of New and Renewable Energy Learning Program applying STEAM on the Elementary Students' Environmental Literacy and Science-rela"
+		},
+		{
+			"title":"재생<b>에너지<\/b> 발전 확대에 따른 전력계통한계가격의 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896916390",
+			"description":"The Impact of Renewable Energy Generation on the Level and Volatility of Electricity Price: The Case of Korea 이 논문은 우리나"
+		},
+		{
+			"title":"BIM기반 BIPV 적용 건축물의 제로<b>에너지<\/b> 자립률 검토 방법에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891351279",
+			"description":"  목차\nBIM기반 BIPV 적용 건축물의 제로<b>에너지<\/b> 자립률 검토 방법에 관한 연구 \/ 최규혁 ; 전현우 ; 박경"
+		},
+		{
+			"title":"기후변화 대응을 위한 OECD국가의 재생<b>에너지<\/b>체제와 CO2 집중도(intensity)에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889015166",
+			"description":"The effectiveness of renewable energy system on CO2 intensity reduction in OECD countries: Government renewable energy programs and inn"
+		},
+		{
+			"title":"폐기물로부터 회수되는 폐자원<b>에너지<\/b>시설 지원방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907425",
+			"description":"A Study on Support For Waste to Energy Facilities   폐자원<b>에너지<\/b>, 폐자원<b>에너지<\/b>시설, 환경성, 경제성 "
+		},
+		{
+			"title":"리더 <b>에너지<\/b>가 부하의 절차공정성 인식에 미치는 영향 : 부하 <b>에너지<\/b>를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888164461",
+			"description":"The Effect of Leader‘s Energy on Subordinate’s Procedural Justice Perception: The Mechanism of Psychological Resource Transfer and "
+		},
+		{
+			"title":"사업장폐기물 소각시설의 <b>에너지<\/b> 회수효율 적용성 검토 - S시 사례를 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907429",
+			"description":"Application of Energy Recovery Efficiency in Industrial Waste Incineration Facility - Focused on the Case of S city -   생활폐기물"
+		},
+		{
+			"title":"소비자의 <b>에너지<\/b>역량 관련 변수에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78373630",
+			"description":"The Study on Factors of Consumer’s Energy Capability 본 연구는 인구통계학적 특성과 <b>에너지<\/b>교육 경험유무에 따"
+		},
+		{
+			"title":"지속가능한 물과 <b>에너지<\/b> 관리: ‘<b>에너지<\/b>-물 넥서스’ 관점에서 미국과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289954673",
+			"description":"Sustainable Water and Energy Management: The Study of Laws and Policies in the U.S. and S. Korea from the Perspective of the Energy-Wat"
+		},
+		{
+			"title":"폐기물소각시설에서의 <b>에너지<\/b>회수효율 산정 분포 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907432",
+			"description":"Calculation and distribution analysis of energy efficiency of waste incineration facilities in Korea   폐기물소각시설, <b>에너지<\/b>"
+		},
+		{
+			"title":"고형연료제품 사용시설의 <b>에너지<\/b>회수효율 산정방법 마련 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907424",
+			"description":"A Study on the Calculation of Energy Recovery Efficiency m Solid Refused Fuel Plants   고형연료제품, <b>에너지<\/b>회수, 소각열, "
+		},
+		{
+			"title":"산업부, ’20년 실시한 <b>에너지<\/b>총조사 결과 발표",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889910993",
+			"description":""
+		},
+		{
+			"title":"자연치유력 회복을 위한 <b>에너지<\/b>테라피가 중년기 성인의 기독교 영성 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897471548",
+			"description":"Effects of Energy Therapy for the Restoration of Natural Healing Power on the Promotion of Christian Spiritual Life in Middle-aged Adul"
+		},
+		{
+			"title":"유기성폐자원<b>에너지<\/b> 인센티브제도 도입방안 연구(Ⅱ): 바이오가스화 물",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877223872",
+			"description":"A study on the introduction of organic waste-to-energy incentive system(Ⅱ): material and energy balance of biogasification 본 연구"
+		},
+		{
+			"title":"대체<b>에너지<\/b>에 관한 융합인재교육 프로그램이 초등학생의 <b>에너지<\/b>소양과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=596513723",
+			"description":"The Effect of STEAM Program for Alternative Energy on theElementary Student’s Energy Literacy and Scientific Attitude 본 연구에"
+		},
+		{
+			"title":"국제<b>에너지<\/b> 현황 및 수소<b>에너지<\/b> 연구개발 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16475116",
+			"description":"Analysis of the World Energy Status and Hydrogen Energy Technology R&amp;D of Foreign Countries The present carbon-based energy system will"
+		},
+		{
+			"title":"메콩의 <b>에너지<\/b> 경관 : 메콩 지역 수력 경로의 형성과 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186836743",
+			"description":"The Energyscape of the Mekong: Formation and Transformations of Hydropower paths in the Mekong Region 동남아시아 대륙부의 메"
+		},
+		{
+			"title":"[논문] <b>에너지<\/b> 소비특성에 따른 도시유형별 정책방향 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41664149",
+			"description":"A Study on the Energy Policy Guidelines for Korean Cities Based on Energy Consumption Characteristics Energy consumption is one of the "
+		},
+		{
+			"title":"하수처리장의 포기조 최적 DO 농도 산정 및 공기송풍량 자동제어를 통한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=716609923",
+			"description":""
+		},
+		{
+			"title":"파프리카 재배온실에서 신재생<b>에너지<\/b>를 이용한 난방<b>에너지<\/b> 대체효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890070037",
+			"description":"Substitution Effect of Heating Energy using Renewable Energy in Paprika Cultivation Greenhouse 본 연구는 전라남도농업기술"
+		},
+		{
+			"title":"사물 인터넷 환경을 위한 스마트 비디오 디바이스의 <b>에너지<\/b> 제어 모델",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153347252",
+			"description":"An Energy Control Model of Smart Video Devices for the Internet of Things 본 논문에서는 사물인터넷 환경에서 저전력 "
+		},
+		{
+			"title":"열중량분석을 이용한 열적열화가 비안전등급 케이블의 활성화<b>에너지<\/b>에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889240550",
+			"description":"Investigation into the Effect of Thermal Aging on the Activation Energy of Non-class 1E Cables Using Thermogravimetric Analysis 본 연"
+		},
+		{
+			"title":"DDNS를 이용한 개인 <b>에너지<\/b> 관리 시스템 구현",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=718245763",
+			"description":""
+		},
+		{
+			"title":"미국의 유기성폐자원 <b>에너지<\/b> 활용 입법례",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891425016",
+			"description":"  목차\n미국의 유기성폐자원 <b>에너지<\/b> 활용 입법례 \/ 최서지 1\n [요약] 1\n 도입 2\n 미국 연방의 유기성폐자"
+		},
+		{
+			"title":"ECO2 프로그램을 이용한 공동주택의 단위세대 평면 형태에 따른 <b>에너지<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=175058670",
+			"description":"The Influence of Unit Plan Shapes to the Energy Efficiency of Collective Housing Simulated by ECO2 Software Purpose: Various policies t"
+		},
+		{
+			"title":"긴장 <b>에너지<\/b> 방출에 대한 정신분석학적 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889908647",
+			"description":"Psychoanalytic Considerations on the Release of Tension Energy 본 논문은 긴장이라는 감정을 어떻게 창조적으로 방출"
+		},
+		{
+			"title":"재생<b>에너지<\/b> 확대를 위한 수용성 제고 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879955246",
+			"description":"Enhancing Public Acceptance to Promote the Renewable Energy <b>에너지<\/b> 전환에 대한 국민의 지지는 대체로 높은 것으로 "
+		},
+		{
+			"title":"전열교환 환기시스템의 외기변화에 따른 성능평가 및 <b>에너지<\/b>평가를 통",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13591861",
+			"description":"A Study on Operating Method by Energy Evaluation and Performance Evaluation of Heat Recovery Ventilator According to Outdoor Conditions"
+		},
+		{
+			"title":"<b>에너지<\/b> R&amp;D 주제 키워드 및 연구기관 네트워크 특성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887307761",
+			"description":"Analysis of Network Characteristics of Subject Keywords and research institutes for Energy R&amp;D 본 연구는 네트워크 분석을 이"
+		},
+		{
+			"title":"ECO2 프로그램을 이용한 공동주택의 단위세대 평면 형태에 따른 <b>에너지<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594564692",
+			"description":"   에코2 프로그램, 공동주택, 단위세대, <b>에너지<\/b> 효율 "
+		},
+		{
+			"title":"<b>에너지<\/b>원별 정책리터러시가 <b>에너지<\/b> 수용성에 미치는 영향요인에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897583569",
+			"description":"A Study on Factors of Policy Literacy on Energy Acceptance by Energy Source: Focusing on the Comparison the Thermal Energy with Renewab"
+		},
+		{
+			"title":"BIM기반 BIPV 적용 건축물의 제로<b>에너지<\/b> 자립률 검토 방법에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887308994",
+			"description":"A Study on the Review Method of Zero Energy Independence Rate in Building Applied with BIM-based BIPV 제로<b>에너지<\/b> 건축물(ZEB)은"
+		},
+		{
+			"title":"신재생<b>에너지<\/b> 보급 활성화를 위한 공공데이터 활용 방안 -지열<b>에너지<\/b> 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562390478",
+			"description":"Utilizing public data to promote renewable energy supply -Focusing on geothermal energy related data- 최근 <b>에너지<\/b> 산업은 에너"
+		}
+	]
+}

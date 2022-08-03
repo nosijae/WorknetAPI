@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:20 +0900",
+	"total":34319,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>정보통신<\/b>산업진흥원 채용 시작했습니다! 자소서부터 연봉까지~! 다 알려드릴게요",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1932581",
+			"description":"경영지원, <b>정보통신<\/b> 사업지원, AI 기반 정책수립 및 사업지원 <b>직무<\/b> 등이 있으니 참고 바랍니다! ▶ 채용직종 및 처우 공고에 따르면, 근로조건 및 보수수준은 우리 원 인사관리\/보수 요령 관련 규정에 의한다고... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"롯데<b>정보통신<\/b> 채용 올라왔습니다! 최대 2개<b>직무<\/b> 지원 가능! (+연봉)",
+			"link":"http:\/\/cafe.naver.com\/specup\/6755282",
+			"description":"롯데<b>정보통신<\/b> 채용의 담당업무, 전공분야, 필수\/우대 사항은 위 이미지에서 참고해주세요 :) 롯데<b>정보통신<\/b> 채용 응시자격 - 지원하는 회사 및 <b>직무<\/b>에 대한 열정과 역량을 보유한 자 - 2021년 10월 입사 가능한 학사... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준 <b>정보통신<\/b>-정보보호에 자료 많습니다.",
+			"link":"http:\/\/cafe.naver.com\/nsis\/104592",
+			"description":"국가 <b>직무<\/b>능력표준 <b>정보통신<\/b> 대분류 정보보호 소분류에 가면 능력단위별로 좋은 자료나 많습니다. 업무에 참고 하세요... https:\/\/www.ncs.go.kr\/unity\/th03\/ncsSearchMain.do",
+			"cafename":"국가기술 정보보안기사\/개인정보 관리...",
+			"cafeurl":"https:\/\/cafe.naver.com\/nsis"
+		},
+		{
+			"title":"롯데 <b>정보통신 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10571872",
+			"description":"롯데 <b>정보통신<\/b> 인프라 <b>직무<\/b> 관련 자격증 없어도 가능성 있을까요? IoT 관련 프로젝트 수행한 경험만 있는데 꼭 봐야할 이번주 독취사 인기글 * 잘 쓴 자소서의 기준 ▶ https:\/\/bit.ly\/2Taxo99 * 하반기... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"LG전자 채용 시작! SW<b>직무<\/b> 합격스펙\/합격자소서 모아보기!",
+			"link":"http:\/\/cafe.naver.com\/specup\/7001824",
+			"description":"서류접수 &gt; LG코팅 테스트 &gt; 최종 서류 전형 &gt; 기술면접 &gt; 최종면접 &gt; 건강 검진 &gt; 정규입사의 절차를 거치게됩니다~ LG전자 SW<b>직무<\/b> 모집은 위와 같습니다! 관련 전공은 컴퓨터\/소프트웨어 공학, 전자\/전기\/<b>정보통신<\/b>... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"[한국<b>정보통신<\/b>기술협회 채용] 정규직 신입 (소프트웨어·<b>정보통신<\/b>연구) (~6.28)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2169642",
+			"description":"한국<b>정보통신<\/b>기술협회 채용 전형절차는 필기전형-면접전형으로 이루어진다고 합니다. 온라인 접수 https:\/\/bit.ly\/3NU96uQ 첨부파일 [붙임2]<b>직무<\/b>기술서(일반계약직).pdf 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"개발<b>직무<\/b> 관련 학과인 컴퓨터공학과 및 <b>정보통신<\/b>학과 편입 확인해보자",
+			"link":"http:\/\/cafe.naver.com\/yesut\/422455",
+			"description":"개발<b>직무<\/b> 관련 학과 컴퓨터공학과 편입 <b>정보통신<\/b>학과 편입 개발<b>직무<\/b> 관련 학과에는 무엇이 있을까? 개발<b>직무<\/b> 관련 학과 개발<b>직무<\/b> 관련 학과 [공대계열 학과 종류] ● 자연학과계열 자연에서 발생하는 현상들의 원리를... ",
+			"cafename":"편준사★편입,수능,학점은행제,독학사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/yesut"
+		},
+		{
+			"title":"기사자격증 응시자격 및 유사 <b>직무<\/b> 확인!",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/599320",
+			"description":"전기분야 기사자격증 응시자격에서 인정되는 유사<b>직무<\/b> 범위는 생산관리 직렬 경영, 방송, 건설, 기계, 재료, <b>정보통신<\/b>, 안전관리, 환경에너지 분야라고 하네요. 아래 링크에서 분야별 기사자격증... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"장애인고용공단 <b>정보통신<\/b> 후기",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2658117",
+			"description":"- 응시한 기업명 : 장고단 - 지원 <b>직무<\/b>\/직군명 : <b>정보통신<\/b> - 응시 지원 자격(신입\/경력) : 신입 - 시험시간 및 장소 : 7\/16 14~16 - 결시율 : 50% - 내가 생각하는 난이도는?(10점 만점) : ncs5점 전공2점 ✍ 시험장 위치... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"롯데<b>정보통신<\/b> 채용 <b>직무<\/b>는 총 3개! 엔지니어 <b>직무<\/b> 관심있는 분들 지원하세요!",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1661858",
+			"description":"롯데<b>정보통신<\/b> 채용 <b>직무<\/b>는 AI 엔지니어로 Vision AI, SDK 개발, 음성인식 개발 세개의 <b>직무<\/b>로 모집합니다. 롯데<b>정보통신<\/b> 채용시 우대사항은 컴퓨터공학과 인공지능 관련 전공을 우대한다고해요.... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"혹시 한전 체험형 인턴 <b>정보통신 직무<\/b> 분들!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/757218",
+			"description":"지원할 때 이력서 부분이 기억이 잘 안나서 질문드려요! 경기 북부 등 지역 선택하고 정보통신 등 직무 선택했던 거 맞죠? 제가 <b>정보통신 직무<\/b>로 넣었는데 세부 직무 같은건 없었던거 맞나 긴가민가 하네용",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"롯데<b>정보통신<\/b> 채용 <b>직무<\/b> 확인해보시고 이번 공채 도전해보세요!",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1660404",
+			"description":"이번 롯데<b>정보통신<\/b> 채용 <b>직무<\/b>는 다음과 같습니다. AI Engineer (Vision AI), AI Engineer (SDK 개발), AI Engineer (음성인식 개발) 3개의 <b>직무<\/b>에서 인원을 모집중에 있습니다. 컴퓨터공학\/인공지능 관련 전공하신 분들은... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"롯데<b>정보통신<\/b> 인사 <b>직무<\/b>(면접불합)",
+			"link":"http:\/\/cafe.naver.com\/specup\/6737287",
+			"description":"[롯데<b>정보통신<\/b>] 서류, 인적성(L-TAB) 합 <b>직무<\/b>면접 및 임원면접 불합 2. 어떤 방식으로 합격소식을 받으셨나요? (홈페이지, 메일 등) 문자 메시지 및 이메일로 전달 받았음. 3. 간단한 자신의 스펙을 말씀해주세요!... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사 응시자격 고졸 직장인도 쉽고 빠르게!",
+			"link":"http:\/\/cafe.naver.com\/ggongtong\/53403",
+			"description":"&lt; <b>정보통신<\/b>기사 응시자격 &gt; 1. 관련전공 4년제 졸업 2. 관련<b>직무<\/b> 4년이상의 경력 3. '졸업예정자' 갖추기 위 자료는 한국산업인력공단에서 가져온 <b>정보통신<\/b>기사 응시자격입니다! 보통 총 3가지로 나뉘는데요! 첫 번째는... ",
+			"cafename":"★스펙업멘토스★학점은행제,학위취득...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ggongtong"
+		},
+		{
+			"title":"[케이엘<b>정보통신<\/b>] 환경미화 정규직(4시간 근무) 채용(~6.10)",
+			"link":"http:\/\/cafe.naver.com\/samsunghandicap\/168966",
+			"description":"○ 사업체명: 케이엘<b>정보통신<\/b>(주) ○ <b>직무<\/b>내용 : 미화(3개층), 분리수거, 화장실 청소 등, 별도의 휴게 공간 있음 ○ 모집인원: 1 명 ○ 근무지:서울특별시 강남구 삼성로 91길 28 (2호선 선릉역 10번 출구)... ",
+			"cafename":"[삼.장.사]삼십만 장애인이 취업하는 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/samsunghandicap"
+		},
+		{
+			"title":"롯데면세점 채용 <b>직무<\/b> 및 일정, 롯데 계열사 합격 스펙 및 서류대비 노트 신청링크 공유",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1866935",
+			"description":"롯데제과, 롯데중앙연구소, 롯데칠성음료 롯데<b>정보통신<\/b> 등 합격자의 전공, 학점, 어학성적 등을 확인가능합니다. 각 회사별 <b>직무<\/b>별 상세 합격스펙은 아래 첨부한 게시물을 참고하세요 https:\/\/cafe.naver.com... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"<b>정보통신<\/b>\/IT <b>직무<\/b>에 성격의 단점으로 일어나지 않은 상황을 걱정하는 습관",
+			"link":"http:\/\/cafe.naver.com\/specup\/6658395",
+			"description":"<b>정보통신<\/b>\/IT <b>직무<\/b>에 성격의 단점으로 일어나지 않은 상황을 걱정하는 습관으로 서술해 나가려고 하는데 적절할까요??",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"4월 롯데 채용중인 계열사&amp;<b>직무<\/b> 확인하고 가이드북 받아가세요",
+			"link":"http:\/\/cafe.naver.com\/specup\/6939560",
+			"description":"현재 롯데 채용에서는 신입으로 관광\/화학\/서비스\/유통\/건설, 제조 <b>직무<\/b>를 채용중입니다! 계열사 및 세부정보도 확인해보겠습니다~ 롯데 채용 신입에서는 롯데월드, 롯데케미칼, 롯데자이언츠, 롯데<b>정보통신<\/b>... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"[신입] 롯데<b>정보통신<\/b> 채용! 2022년 3월 보안 엔지니어 <b>직무<\/b>(T4) 신입사원 채용공고 (~04\/03)",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1845544",
+			"description":"롯데<b>정보통신<\/b> 2022년 3월 보안 엔지니어 <b>직무<\/b>(T4) 신입사원 채용 ✅ 접수기간 : 2022.03.24(목) - 04.03(일) 18시 ✅ 모집부문 : 보안 엔지니어 ✅ 근무형태 : 정규직 ✅ 채용절차 : 서류전형 → 역량면접·조직적합진단... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"학점은행제 <b>정보통신<\/b>공학 전공 대학교 학위 온라인으로 해보자!",
+			"link":"http:\/\/cafe.naver.com\/maljjang2\/1304029",
+			"description":"하드웨어, 소프트웨어 구분하지 않고 전반적인 기술에 대해 배우는 편이라 회로이론이나 <b>정보 통신<\/b> 기기와... 하지만 학점은행제를 처음 접하신 여러분들은 이러한 것들에 대해 생소하기 때문에 <b>직무<\/b>번호와 분류가 동일한... ",
+			"cafename":"황인영 영어 카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/maljjang2"
+		},
+		{
+			"title":"삼전 <b>정보통신<\/b>공학 전공하면 무슨 <b>직무<\/b> 지원하시나요?ㅠㅠ",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1835443",
+			"description":"삼전 <b>정보통신<\/b>공학 전공하면 무슨 <b>직무<\/b> 지원하시나요? 아직 취린이라 뭐든 너무 막막하네요ㅠㅠ 30살 남자 현실적인 급여 및 복지 평가 좀.. https:\/\/cafe.naver.com\/bebettergirls\/1830706 이건 회사... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"학점은행제 <b>정보통신<\/b>공학 전공 전문학사 학사까지!",
+			"link":"http:\/\/cafe.naver.com\/maljjang2\/1299265",
+			"description":"오늘은 IT시장에서 가장 기본적인 <b>정보통신<\/b>공학에 대해 안내해 드릴 예정이랍니다. <b>정보통신<\/b>공학... 두번째, 자격증 취득시 분류,<b>직무<\/b>번호 확인하기! 학점은행제에서 자격증은 분류,<b>직무<\/b>번호로 구분되는데요 이 두가지가... ",
+			"cafename":"황인영 영어 카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/maljjang2"
+		},
+		{
+			"title":"소방 경력채용? 제대로 알고 합격하자!",
+			"link":"http:\/\/cafe.naver.com\/m2school\/4440152",
+			"description":"분야 <b>정보통신직무<\/b>분야기술사‧기능장‧기사‧산업기사‧기능사 안전관리 분야 안전관리직무분야기술사‧기능장‧기사‧산업기사‧기능사 (소방분야응시자격은제외) 소방정‧항공분야 1급~6급항해사... ",
+			"cafename":"독공사★9급공무원,7급공무원,소방,군...",
+			"cafeurl":"https:\/\/cafe.naver.com\/m2school"
+		},
+		{
+			"title":"한국중부발전 채용 2022년 9월 예정입니다!",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2188713",
+			"description":"평가 <b>직무<\/b>능력평가 심층면접 일정도 공개되어 있는 상황입니다. 한국중부발전 채용 직렬 및 필기 과목은 사전 공개가 되어 있고 다음과 같습니다. 사무 (통합전공) 발전기계, 발전전기, 발전화학, <b>정보통신<\/b>, 토목, 건축... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"기계공학과 취업 및 자격증 리스트 의외로 다양하네요 !",
+			"link":"http:\/\/cafe.naver.com\/mdsv\/30772",
+			"description":"7️⃣ <b>정보통신<\/b> •<b>직무<\/b>분야: 정보기술 ➢ 사무자동화산업기사 전자계산기조직응용기사 정보관리기술사 정보기기운용기능사 정보처리기사(산업기사,기능사) 컴퓨터시스템응용기술사 등 8️⃣ 환경,에너지 •직무분야... ",
+			"cafename":"산업마스터-산업안전기사,위험물산업기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mdsv"
+		},
+		{
+			"title":"유라코퍼레이션 HW 면접 후기",
+			"link":"http:\/\/cafe.naver.com\/foxceran\/78419",
+			"description":"▶ 신입 or 경력직 \/ 지원시기 \/ 지원<b>직무<\/b> 경력\/7월\/HW ▶ 전공 \/ 학점 \/ 영어 \/ 자격증 <b>정보통신<\/b>\/4.3\/무\/<b>정보통신<\/b>기사 ▶ 인적성 유무 \/ 소요시간 \/ 인적성 난이도 (상중하) \/ 인적성 준비방법 유\/40분\/상\/연습 ▶ 참석 면접관... ",
+			"cafename":"오토앤잡-취업,인턴,현대자동차채용,H...",
+			"cafeurl":"https:\/\/cafe.naver.com\/foxceran"
+		},
+		{
+			"title":"31살 문과 비전공이 <b>정보통신<\/b>산업기사 공부하고 있습니다 ㅠㅠ 도와주세요",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11670884",
+			"description":"중요한 <b>직무<\/b>를 맡게 되어서 비전공이고 고졸이다 보니 산업기사부터 따보려고 하는데 <b>정보통신<\/b> 쪽 지식이 아예 없다보니 독학하기가 매우 힘드네요 ㅠㅠ 유튜브에 기초 통신 이론을 보려고 하니까... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[<b>정보통신<\/b>산업진흥원 채용] 2022년 신입 및 경력 채용공고 (~7\/14)",
+			"link":"http:\/\/cafe.naver.com\/askjeon\/229778",
+			"description":"첨부파일 <b>직무<\/b>기술서(경영지원).pdf 파일 다운로드 첨부파일 <b>직무<\/b>기술서(<b>정보통신<\/b> 사업지원).pdf 파일 다운로드 첨부파일 <b>직무<\/b>기술서(AI 기반 정책수립 및 사업지원).pdf 파일 다운로드 첨부파일 <b>직무<\/b>기술서... ",
+			"cafename":"전수환★공기업,공공기관취업,경영학,...",
+			"cafeurl":"https:\/\/cafe.naver.com\/askjeon"
+		},
+		{
+			"title":"한국<b>정보통신<\/b>진흥협회(KAIT) 필기~최종면접 후기",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2106353",
+			"description":"1차 면접(<b>직무<\/b>) 1) 토론면접 협회가 <b>정보통신<\/b> 업계이고, 현재 협회에서 진행하고 있는 마이데이터 사업 관련 주제가 주어졌으며, 준비 시간에 주어지는 자료에 상세하게 관련 내용이 기재되어 있어 토론 진행하는데에는... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"[신입] 롯데<b>정보통신<\/b> 채용! 2021년 하반기 보안관제\/Infra관제 <b>직무<\/b> 신입사원 채용공고 (~08\/09)",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1757856",
+			"description":"롯데<b>정보통신<\/b> 2021년 하반기 보안관제\/Infra관제 <b>직무<\/b> 신입사원 채용 ✅ 접수기간 : 2021.07.27(화) - 08.09(월) 10시 ✅ 모집부문 : 보안관제, Infra관제(슈퍼바이저) ✅ 근무형태 : 정규직 ✅ 채용절차 : 서류전형 → 면접전형... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"한국중부발전 <b>정보통신<\/b>직렬 필기후기",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2114345",
+			"description":"중부발전 필기후기입니다 저는 <b>정보통신<\/b>직렬이고 목동고등학교에서 실시했습니다 한 반에 20명씩 봤는데... 같습니다 <b>직무<\/b>는 앞부분에 헷갈리고 어려운게 많았고 sql문 문제가 많았던 느낌이고 통신은 35번대 이후에... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"[한국<b>정보통신<\/b>진흥협회] SNS광고마케터 1급 자격증 접수마감 임박! 시험 응시자 대상 '갤럭시 워치' 등 선물...",
+			"link":"http:\/\/cafe.naver.com\/specup\/6926400",
+			"description":"한국<b>정보통신<\/b>진흥협회에서 신규 개설한 종목으로, 온라인광고대행사, 기업 홍보부서 등에서 SNS광고 마케팅 및 SNS광고 전문인력을 통한 효율적 마케팅 분석, 전략수립 등의 자격을 갖춘 <b>직무<\/b> 자격조건으로... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>직무<\/b> 면접 준비 조언 부탁드립니다!",
+			"link":"http:\/\/cafe.naver.com\/peopleofit\/77262",
+			"description":"안녕하세요 이번에 발전소 <b>정보통신<\/b>직으로 면접을 보게 되었는데 pt면접은 처음이라 막막하네요ㅠ <b>정보통신<\/b>직이지만 <b>직무<\/b> 기술서 보니 it시스템관리 , it기술지원으로 적혀있는데 pt면접 주제로 어떤 걸... ",
+			"cafename":"전산실 사람들",
+			"cafeurl":"https:\/\/cafe.naver.com\/peopleofit"
+		},
+		{
+			"title":"<b>정보통신<\/b>공학과는 어떤 <b>직무<\/b>로 많이 가나요??",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11647761",
+			"description":"코딩 안 하는 <b>직무<\/b> 뭐가있을까요 한국사능력검정시험 58회 정답 확인 ▶ https:\/\/bit.ly\/3qI3mLe 꼭 봐야할 이번주 독취사 인기글 대기업 취업 확실하게 준비하는 방법 ▶ https:\/\/bit.ly\/3wqQooU * 어느덧... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"파주운정 <b>정보통신<\/b>공사현장 안전관리자 채용합니다. (급구, 초보 가능)",
+			"link":"http:\/\/cafe.naver.com\/anjun\/907865",
+			"description":"OR <b>정보통신<\/b>기술자 경력확인서 9. 기 타 (현장 장점) - 안전기사(산업,건설) 자격증 소지자, 초보 가능, 여자분이시면 대환영 합니다. - 안전관리자 <b>직무<\/b> 및 산업안전보건법에 근거한 기본적인 법적서류 작성\/정리... ",
+			"cafename":"산준모★산업안전기사｜위험물산업기사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anjun"
+		},
+		{
+			"title":"[신입] 롯데<b>정보통신<\/b> 채용! 2020년 하반기 보안관제<b>직무<\/b> 신입사원 채용공고 (~11\/09)",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1667261",
+			"description":"롯데<b>정보통신<\/b> 2020년 하반기 보안관제<b>직무<\/b> 신입사원 채용 ✅ 접수기간 : 2020.10.27(화) - 11.09(월) 10시 ✅ 모집부문 : 보안관제 ✅ 근무형태 : 정규직 ✅ 채용절차 : 서류전형 → 1차면접\/온라인 인성검사 → 2차면접... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"산업안전기사 응시자격은 이렇게 갖춰야 합니다.",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/608038",
+			"description":"전기·전자, <b>정보통신<\/b>, 식품가공, 인쇄·목재·가구·공예, 농림어업, 환경·에너지 분야일 때 동일 또는 유사<b>직무<\/b>분야로 인정된다고 합니다. 나의 분야가 경력인정 유사<b>직무<\/b>범위에 해당되는지 확실하게... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"[롯데<b>정보통신<\/b>] 2018(상) IT<b>직무<\/b> 경력사원 채용(~3\/25)",
+			"link":"http:\/\/cafe.naver.com\/hacosa\/224901",
+			"description":"롯데<b>정보통신<\/b> 2018(상) IT<b>직무<\/b> 경력사원 채용 모집기간 2018.03.16(금) ~ 2018.03.25(일) 24:00시 마감 회사소개 설립일 2017년 11월 02일 기업규모 대기업 (사원수: 2,026명) 업종 소프트웨어·솔루션·ASP 지원자격 경력... ",
+			"cafename":"하드코딩하는사람들",
+			"cafeurl":"https:\/\/cafe.naver.com\/hacosa"
+		},
+		{
+			"title":"한국<b>정보통신<\/b>진흥협회 필기후기",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2087256",
+			"description":"- 그다음 10문제정돈 <b>직무<\/b>관련해서 나랑가까운거? 선택이엿어요 = 인성검사는 다른곳에서 봣던거 중 제일... 오늘 소방협회 지방행정공제회 수자원공사등 시험많앗도 눈치로 <b>정보통신<\/b>왓는데 행정은 여전히 응시율... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사인강 시험일정 및 22년 개정 대비",
+			"link":"http:\/\/cafe.naver.com\/hotengnet\/913312",
+			"description":"한번 체크체크체크~ 첫째, <b>정보통신<\/b> 자격시험을 취득하고 싶으신 분! 둘째, <b>직무<\/b>능력 향상을 원하는 현업종사자 분! 셋째, <b>정보통신<\/b>분야의 취업을 희망하고 있으신 분! 이중에 하나라도 나다~ 싶으면 바로 수강 신청 클릭!... ",
+			"cafename":"취준생★스펙뽀개기★연봉,인적성,이력...",
+			"cafeurl":"https:\/\/cafe.naver.com\/hotengnet"
+		},
+		{
+			"title":"국회직 공무원 경쟁률 XXX:1 ?!",
+			"link":"http:\/\/cafe.naver.com\/m2school\/4436905",
+			"description":"국회의 이곳 저곳에서 다양하게 <b>직무<\/b>를 수행하는 국회직 공무원들은 정말 국회에 대한 전문가가 될... 컴퓨터시스템응용, <b>정보통신<\/b>, 정보관리등이 필요하고, 기사의 경우 전자계산기, 정보처리, <b>정보통신<\/b>... ",
+			"cafename":"독공사★9급공무원,7급공무원,소방,군...",
+			"cafeurl":"https:\/\/cafe.naver.com\/m2school"
+		},
+		{
+			"title":"구미 세영<b>정보통신 직무<\/b> 어떻나요",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10981012",
+			"description":"일하기 괜찮나요? 꼭 봐야할 이번주 독취사 인기글 * 대기업 취업 확실하게 준비하는 방법 ▶ https:\/\/bit.ly\/2XrufUy * 문신 때문에 입사 2시간 만에 회사 짤린 썰 ▶ https:\/\/bit.ly\/2QkxqNF * ★공기업 채용... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[롯데<b>정보통신<\/b>]2017년(하)IT<b>직무<\/b> 경력사원 채용(2017.11.20 월요일 23시 마감)",
+			"link":"http:\/\/cafe.naver.com\/nsis\/93290",
+			"description":"[롯데<b>정보통신<\/b>]2017년(하)IT<b>직무<\/b> 경력사원 채용모집기간:~2017.11.20 월요일 23시 마감 &gt;&gt;롯데<b>정보통신<\/b> 채용 자세히보기&lt;&lt; &gt;&gt;롯데<b>정보통신<\/b> 채용 자세히보기&lt;&lt;",
+			"cafename":"국가기술 정보보안기사\/개인정보 관리...",
+			"cafeurl":"https:\/\/cafe.naver.com\/nsis"
+		},
+		{
+			"title":"[<b>정보통신<\/b>정책연구원 채용] 정규직 신입 (연구) (~5.12)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2144370",
+			"description":"4.28 ~ 2022.5.12 입니다. <b>정보통신<\/b>정책연구원 채용인원은 1명 입니다. <b>정보통신<\/b>정책연구원 채용 전형절차는 서류전형-발표세미나전형-면접전형으로 이루어진다고 합니다. 첨부파일 <b>직무<\/b>기술서.pdf 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"[롯데<b>정보통신<\/b>] 평균연봉 5,697만원! 2021년 하반기 롯데<b>정보통신<\/b> 보안관제\/Infra관제 <b>직무<\/b> 신입사원 채용(...",
+			"link":"http:\/\/cafe.naver.com\/specup\/6737349",
+			"description":"2021년 하반기 롯데<b>정보통신<\/b> 보안관제\/Infra관제 <b>직무<\/b> 신입사원 채용(~8\/9) ▶접수기간 : 2021.7.27(화) ~ 2021.8.9(월) ▶고용형태 : 신입 ▶전형절차 : 서류전형 &gt; 면접전형 &gt; 온라인 조직적합진단 &gt; 채용검진... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"중소기업기술정보진흥원 필기 후기(2022.07.16)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2186596",
+			"description":"<b>직무<\/b>평가 총 30문제 30분 시험으로 이루어 졌습니다. 법률 15문제, 기술 15문제로 제출되었습니다. 법률의... 평소에 <b>정보통신<\/b> 쪽에 관심이 많거나 최신기술에 대해 알고 있어야 풀 수 있었습니다. 결론: 다음기회를... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"건설안전기사 응시자격 비전공자도 가능!",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/609754",
+			"description":"전기·전자, <b>정보통신<\/b>, 식품가공, 인쇄·목재·가구·공예, 농림어업, 환경·에너지가 모두... 경력인정으로 들어가는 유사<b>직무<\/b>범위에 대해서 더 자세히 알아보고 싶다면 아래 링크를 참고하시길 바랍니다.... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"자격증 경력 증빙 관련 잘 아시는 분 계신가요",
+			"link":"http:\/\/cafe.naver.com\/workee\/994038",
+			"description":"그리고 큐넷에서 알아보니 유사<b>직무<\/b>범위로 아래가 뜨던데 <b>정보통신<\/b>쪽에서 일하였던게 유사범위로 인증이 된다는 말일까요? 만약 상기 사항들이 전부 적용이 안된다면 우선 기능사를 따고 1년이 지나야 산업기사를 도전할... ",
+			"cafename":"직장인 탐구생활",
+			"cafeurl":"https:\/\/cafe.naver.com\/workee"
+		},
+		{
+			"title":"전기기사 합격률은 어느정도 일까요? (+2022년 실기 시험일정)",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1937062",
+			"description":"동일<b>직무<\/b>분야 - 경영\/회계\/사무 중 생산관리, 문화\/예술\/디자인\/방송 중 방송, 건설, 기계, 재료, <b>정보통신<\/b>, 안전관리, 환경\/에너지 전기기사 취득 시 가산점 혜택 - 6급 이하 및 기술공무원 채용 시험 시 가산... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사 응시자격 단기간에 갖추는 방법!",
+			"link":"http:\/\/cafe.naver.com\/anjun\/829989",
+			"description":"관한 <b>직무<\/b>를 수행하는 직업이에요 또한 <b>정보통신<\/b>기사는 방송국, 반도체 제조업체, 통신업체 등 넓은 취업 폭을 가지고 있으며 공무원이나 공기업을 준비중이라면 가산점이 적용되는 자격증이랍니다! 그렇다면... ",
+			"cafename":"산준모★산업안전기사｜위험물산업기사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anjun"
+		},
+		{
+			"title":"한전KDN 통신 상세 <b>직무<\/b>와 필요지식",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1753466",
+			"description":"설치하는 <b>정보통신<\/b>설비의 구축계획을 수립하고 설계,시공, 감리와 운영 관리 업무를 수행하는 일 한전KDN 통신 <b>직무<\/b>LIST 2 4&gt; 네트워크구축유선전송매체를 통하여 다수의 단말에 음성, 데이터, 영상서비스를... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>정보통신<\/b>공사 현장관리 관련 <b>직무<\/b>이신분",
+			"link":"http:\/\/cafe.naver.com\/linesens\/63581",
+			"description":"이번에 <b>정보통신<\/b>쪽 현장관리 관련 <b>직무<\/b>로 입사하게 되었는데요정보가 특별히 없어서 좀 어정쩡(?)한 느낌이 드네요 현직에 계신분들의 <b>직무<\/b>에 대한 의견 또는 미래 비전에 대한 이야기를 듣고싶습니다!한마디 해주시면... ",
+			"cafename":"무선설비 정보통신 전자 기능장 기사 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/linesens"
+		},
+		{
+			"title":"포스코1%나눔재단과 함께하는 디지털 코딩아카데미 장애인 훈련생 추가 모집 공고",
+			"link":"http:\/\/cafe.naver.com\/samsunghandicap\/170625",
+			"description":"[채용 참여 예정 기업] •쌍용<b>정보통신<\/b> •CJ올리브네트웍스 •마이다스아이티 •모비젠... 2) 교육훈련 기간: 2022.08.10.~2022.11.30.(약 4개월 예정) 3) 모집인원: 0 명 4)교육훈련내용 (1) <b>직무<\/b> 기본 • HTML 5 • CSS... ",
+			"cafename":"[삼.장.사]삼십만 장애인이 취업하는 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/samsunghandicap"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술자 경력자수첩 인정되나요?",
+			"link":"http:\/\/cafe.naver.com\/linesens\/118016",
+			"description":"한국<b>정보통신<\/b>공사협회 홈페이지에 <b>정보통신<\/b>시설물의 계획·설계·시공·시험·공사감독·감리·유지관리 또는 연구업무 등에 관한 경력에 한합니다. 이렇게 나와있는데 주말이라 고객센터가 닫았네요 제 <b>직무<\/b>는... ",
+			"cafename":"무선설비 정보통신 전자 기능장 기사 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/linesens"
+		},
+		{
+			"title":"한전 <b>정보통신직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10708665",
+			"description":"이번에 처음으로 한전에 도전합니다. 서류에서도 많이 갈리는 것으로 들었는데 가산점은 어느정도 되야 합격할 수 있을까요? 현재는 한국사와 기사 1개를 가지고 있습니다. 꼭 봐야할 이번주 독취사... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"대학생 서포터즈! 7월 모집중인 활동혜택 좋은 대외활동만 모아봤어요!",
+			"link":"http:\/\/cafe.naver.com\/specup\/7025872",
+			"description":"롯데<b>정보통신<\/b> 헤이나나 대학생 기자단 2기 헤이나나 카페 첫 번째 공유드릴 대학생 서포터즈는... 참고하셔서 지원해보세요 :) <b>직무<\/b>교육과 인턴십, 두 마리 토끼 모두 잡는 법! 학년별로 꼭 준비해야 할 체크리스트!... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"은행 IT<b>직무<\/b> 준비 전 은행 IT <b>직무<\/b> 우대자격증\/가산점부터 확인해보세요!",
+			"link":"http:\/\/cafe.naver.com\/dokkm\/2481252",
+			"description":"은행 IT<b>직무<\/b> 경우 정보처리기사, <b>정보통신<\/b>기사, 정보처리산업기사 등의 자격증이 우대 가능하며 필수적으로 많은 분들이 취득해주시는 자격증이니 미리 참고해두시고 준비해보시면 좋을 것 같습니다. 하단의 링크... ",
+			"cafename":"독금사-금융자격증,AFPK,CFP,전산회계...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokkm"
+		},
+		{
+			"title":"GSAT 교재 및 한국어\/한국사\/ADsP\/정보보안\/<b>정보통신<\/b>\/전기기사 교재 판매",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11106436",
+			"description":"한국어\/한국사\/ADsP\/정보보안\/<b>정보통신<\/b>\/전기기사 교재 판매, 2021 상반기 최종합격으로 GSAT 및... 삼성<b>직무<\/b>적성검사 수리 추리 실전 봉투 모의고사 → 6,000 2021 에듀윌 GSAT 삼성<b>직무<\/b>적성검사... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"롯데 채용 신입 채용<b>직무<\/b>! <b>직무<\/b>별 채용설명회 참여해보세요~",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1853697",
+			"description":"롯데케미칼에서는 경영지원<b>직무<\/b> 롯데자이언츠에서는 디자인, 브랜딩, 광고\/프로모션, 그로스마케팅 롯데<b>정보통신<\/b>은 S\/W, N\/W, 컨설팅 롯데 글로벌로지스는 물류운영, 신사업 <b>직무<\/b>를 모집합니다.... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"[<b>정보통신<\/b>정책연구원 채용] 정규직 신입 (행정\/기술) (~4.21)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2132807",
+			"description":"<b>정보통신<\/b>정책연구원 채용 전형절차는 서류전형-인적성검사-면접전형으로 이루어진다고 합니다. 온라인 접수 https:\/\/bit.ly\/3xsriXp 첨부파일 2. <b>직무<\/b>기술서 (행정원 및 기술원).pdf 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>정보통신 직무<\/b> 분류에보면 it시스템관리랑 무선통신시스템구축이있는데...",
+			"link":"http:\/\/cafe.naver.com\/linesens\/86922",
+			"description":"<b>정보통신 직무<\/b> 분류에보면 it시스템관리랑 무선통신시스템구축이있는데 혹시 it시스템관리랑 무선통신시스템구축이 대충 어떤것인지 알려주실분있나요???",
+			"cafename":"무선설비 정보통신 전자 기능장 기사 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/linesens"
+		},
+		{
+			"title":"[<b>정보통신<\/b>기획평가원] 상반기 직원 채용 (~3\/30)",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/577620",
+			"description":"기업명: <b>정보통신<\/b>기획평가원 구인<b>직무<\/b>\/직위: 시설관리(전기) 자격요건: 공고 내 응시자격 참고 입사지원서 제출기간: 2022.03.15(화) ~ 2022.03.30(수) 채용사이트 바로가기: [<b>정보통신<\/b>기획평가원]... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"28살 3년 뒤 전역 후 포스코 입사...",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11752163",
+			"description":"- 학교\/전공\/학점 : 사이버대\/컴퓨터<b>정보통신<\/b>\/2.76 - 어학점수 : X - 자격증 : 정보처리기능사 공유압기능사... 회사\/부서\/<b>직무<\/b> (하나만 선택해도 OK) 취업카페 회원수 1위, 독취사에서 받고 싶은 조언은? 예시) 1. 무엇을 더... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"26남 스펙좀 봐주세요... 저는 무엇을 더 준비해야 할까요???ㅜㅜ",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11745351",
+			"description":"- 학교\/전공\/학점 : 대학교\/<b>정보통신<\/b>\/전체3.92, 전공4.09 - 어학점수 : Toeic Speaking Level 6 (140) - 자격증... 회사\/부서\/<b>직무<\/b> 현대 오토에버, 넥스원, SL 취업카페 회원수 1위, 독취사에서 받고 싶은 조언은? 무엇을 더 준비해야... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[<b>정보통신<\/b>공제조합] 2022년도 <b>정보통신<\/b>공제조합 직원채용(~5\/16)",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1892969",
+			"description":"[<b>정보통신<\/b>공제조합] 2022년도 <b>정보통신<\/b>공제조합 직원채용(~5\/16) ▶접수기간: 2022.05.10~2022.05.16 ▶모집<b>직무<\/b>: 금융 보험영업 기획전략 경영 네트워크 서버등 ▶고용형태: 정규직 ▶전형절차... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사 자격증 학점은행제로 단기간에!",
+			"link":"http:\/\/cafe.naver.com\/michiexam\/2480244",
+			"description":"<b>정보통신<\/b>기사 자격증은 한국방송통신전파진흥원(KCA)에서 주관하는 국가기술자격증으로 <b>정보통신<\/b> 관련 공학적 이론지식과 기술을 바탕으로 <b>정보통신<\/b> 시스템의 설계, 구축, 운영 및 유지보수에 관한 <b>직무<\/b>를 수행하기 위한... ",
+			"cafename":"기출비",
+			"cafeurl":"https:\/\/cafe.naver.com\/michiexam"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사필기 기초부터 탄탄하게 공부하는 방법",
+			"link":"http:\/\/cafe.naver.com\/hotengnet\/904792",
+			"description":"<b>정보통신<\/b> 자격시험을 취득하고 싶으신 분 <b>직무<\/b>능력 향상을 원하는 현업종사자 분 <b>정보통신<\/b>분야의 취업을 희망하고 있으신 분 강의를 수강하면서 합격할 수 있도록 열심히 공부해보아요!! 강사님께서 요양보호사 시험의... ",
+			"cafename":"취준생★스펙뽀개기★연봉,인적성,이력...",
+			"cafeurl":"https:\/\/cafe.naver.com\/hotengnet"
+		},
+		{
+			"title":"[과학기술<b>정보통신<\/b>부] 2022 Bigdata ·AI SW캠프 교육생 모집 ( 인턴십포함 )",
+			"link":"http:\/\/cafe.naver.com\/outcampus\/674699",
+			"description":"주최사 - 스마트인재개발원, 과학기술<b>정보통신<\/b>부, <b>정보통신<\/b>기획평가원, (사)T여성기업인협회 3.... 역량과 <b>직무<\/b>경험을 증명할 수 있어요! [ ✔ POINT 3 : 취업연계 ] 멤버십 기업인턴십부터 자기소개서... ",
+			"cafename":"[아웃캠퍼스] 대학생 공모전 대외활동...",
+			"cafeurl":"https:\/\/cafe.naver.com\/outcampus"
+		},
+		{
+			"title":"한국<b>정보통신<\/b> 채용! IT <b>직무<\/b> 채용 (~01\/30)",
+			"link":"http:\/\/cafe.naver.com\/goodlab\/207402",
+			"description":"IT <b>직무<\/b> 채용 (~01\/30) 채용 <b>직무<\/b> : IT(전산개발)전형 절차 : 서류전형 - 1차면접 - 2차면접 접수 기간 : 1월 17일(수) ~ 1월 30일(화) 채용 접수 사이트 바로가기 ▶ 한국<b>정보통신<\/b>에서 IT <b>직무<\/b>로 근무할 신입 및 경력사원을... ",
+			"cafename":"잡코리아 좋은일연구소 -취업,채용,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goodlab"
+		},
+		{
+			"title":"전산\/ICT\/IT\/<b>정보통신 직무<\/b> 전공필기준비",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2156757",
+			"description":"정처기 공부한지 2년가까이 지나서 개념을 전반적으로 되짚어보고싶은데 다들 어떻게 준비하시나요? 특히 보안쪽은 스니핑,스푸핑,디도스,트로이목마 정도 외에는 아는게 없을 정도로 무지한상탠데 추천해주실만한... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"<b>정보통신<\/b> 경력자 신청 관련하여 질문드립니다.",
+			"link":"http:\/\/cafe.naver.com\/0moo\/318195",
+			"description":"제가 예전에 다녔던 회사는 <b>정보통신<\/b>공사협회에 정식 등록된 회사입니다. 1. A회사 근무기간은 2012년 1월... ⑩ <b>직무<\/b>분야 ⑪ 전문분야 ⑫ 공사종류 ⑬ 담당업무 ⑭ 직위 ⑮ 책임정도 ⑯ 공법 ⑰ 공사(용역)개요(70자 이내... ",
+			"cafename":"건설공무",
+			"cafeurl":"https:\/\/cafe.naver.com\/0moo"
+		},
+		{
+			"title":"한국<b>정보통신<\/b> 채용! 전산개발 <b>직무<\/b> 채용 (~01\/30)",
+			"link":"http:\/\/cafe.naver.com\/goodlab\/206474",
+			"description":"전산개발 <b>직무<\/b> 채용 (~01\/30) 채용 <b>직무<\/b> : 전산개발전형 절차 : 서류전형 - 1차면접 - 2차면접 접수 기간 : 1월 17일(수) ~ 1월 30일(화) 채용 접수 사이트 바로가기 ▶ 한국<b>정보통신<\/b>에서 전산개발 <b>직무<\/b>로 근무할 신입 및... ",
+			"cafename":"잡코리아 좋은일연구소 -취업,채용,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goodlab"
+		},
+		{
+			"title":"대보<b>정보통신<\/b> 채용! 시스템 엔지니어 <b>직무<\/b> 채용 (~11\/05)",
+			"link":"http:\/\/cafe.naver.com\/goodlab\/193573",
+			"description":"시스템 엔지니어 <b>직무<\/b> 채용 (~11\/05) 채용 <b>직무<\/b> : 시스템엔지니어 전형 절차 : 서류전형 - 면접접수 기간 : 10월 24일(화) ~ 11월 05일(일) 18시 채용 접수 사이트 바로가기 ▶ 대보<b>정보통신<\/b>에서 시스템 엔지니어 <b>직무<\/b>로... ",
+			"cafename":"잡코리아 좋은일연구소 -취업,채용,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goodlab"
+		},
+		{
+			"title":"순천시 민선 8기 첫 정기인사 명단",
+			"link":"http:\/\/cafe.naver.com\/ludypang\/398968",
+			"description":"(보건소장 <b>직무<\/b>대리), 생태환경센터소장 서규원(안전총괄과장) ▲ 4급 전보 : 2명 - 일자리경제국장 조태훈... 김준수(<b>정보통신<\/b>과), 장연식(청소자원과), 박덕모(감염병관리과), 조주익(청소자원과), 최병원(기술보급과)... ",
+			"cafename":"여순광 돈되는 부동산 정보(여수,순천...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ludypang"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사강의 듣고 시험 준비 끝내기",
+			"link":"http:\/\/cafe.naver.com\/hotengnet\/899411",
+			"description":"<b>정보통신<\/b>기사는 <b>정보통신<\/b> 관련 공학적 이론지식과 기술을 바탕으로 <b>정보통신<\/b> 시스템의 설계, 구축, 운영 및 유지보수에 관한 <b>직무<\/b>를 수행해나갑니다! <b>정보통신<\/b>기사는 필기시험과 실기시험으로 이루어져있어요!... ",
+			"cafename":"취준생★스펙뽀개기★연봉,인적성,이력...",
+			"cafeurl":"https:\/\/cafe.naver.com\/hotengnet"
+		},
+		{
+			"title":"포스코ICT 채용! 컴퓨터, <b>정보통신<\/b> 전공은 들어오세요!! (+연봉이 8천..?!)",
+			"link":"http:\/\/cafe.naver.com\/specup\/6735280",
+			"description":"컴퓨터, <b>정보통신<\/b> 관련 전공자를 뽑고 있습니다! - 국내외 4년제 대학교 졸업자 또는 2021년 8월 이전... 포스코ICT 채용 전형절차 포스코ICT 채용은 서류전형 &gt; 인성검사\/<b>직무<\/b>시험 &gt; 면접전형 &gt; 입사 순으로... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사인강 필기 공부법 하나부터 열까지",
+			"link":"http:\/\/cafe.naver.com\/hotengnet\/905036",
+			"description":"관한 <b>직무<\/b>를 수행한다고 합니다 :-) <b>정보통신<\/b>이 더 중요해지고 발달하고 있는 시점에서 굉장히 중요한 업무를 맡고 있다고 할 수 있겠네요 해당 <b>정보통신<\/b>기사인강 은 자격동스쿨의 핵심 <b>정보통신<\/b>기사 필기 패키지 강의... ",
+			"cafename":"취준생★스펙뽀개기★연봉,인적성,이력...",
+			"cafeurl":"https:\/\/cafe.naver.com\/hotengnet"
+		},
+		{
+			"title":"<b>정보 통신<\/b> 장관 <b>직무<\/b> 일시 정지, 모비 폰의 거액 기업 인수",
+			"link":"http:\/\/cafe.naver.com\/vietnamsee\/41599",
+			"description":"<b>정보 통신<\/b> 장관 <b>직무<\/b> 일시 정지, 모비 폰의 거액 기업 인수[Zing, 11:56 GMT+7 23\/07\/2018, A]. 2018\/07\/24 03:15 JST 전달 <b>정보 통신<\/b>부 산하 이동 통신 업체인 모비 폰 (MobiFone)이, 디지털 TV 방송 서비스를 제공하는 지방 시청각... ",
+			"cafename":"Vietnam See (베트남 비즈니스,여행,생...",
+			"cafeurl":"https:\/\/cafe.naver.com\/vietnamsee"
+		},
+		{
+			"title":"전기산업기사 자격요건, 관련학과&amp;경력 등 응시자격 확인",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/595656",
+			"description":"경영·회계·사무 중 생산관리, 문화·예술·디자인·방송 중 방송, 건설, 기계, 재료, <b>정보통신<\/b>, 안전관리, 환경·에너지가 전기산업기사 동일<b>직무<\/b>분야로 구분된다고 합니다. 생산관리에는 화학, 섬유·의복... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사필기 어떻게 공부할까",
+			"link":"http:\/\/cafe.naver.com\/hotengnet\/896669",
+			"description":"<b>정보통신<\/b>자격증 취득을 원하는 분 <b>직무<\/b>능력향상을 원하는 현업종사자 분 <b>정보통신<\/b>분야의 취업을 원하는 분 결국 꼭 전공자분들이 아니더라도 관심있거나 이 분야로 나아갈 분들은 수강하면 좋을 것 같아요!... ",
+			"cafename":"취준생★스펙뽀개기★연봉,인적성,이력...",
+			"cafeurl":"https:\/\/cafe.naver.com\/hotengnet"
+		},
+		{
+			"title":"2023 소방공무원 시험일정과 오피셜 시험과목 변동",
+			"link":"http:\/\/cafe.naver.com\/m2school\/4415186",
+			"description":"전반적으로 실제 <b>직무<\/b>와 관련이 높은 항목들 비중을 높여 소방공무원으로서 직업 전문성을 강화하고... 화학, <b>정보통신<\/b> 직렬 전과목 최고의 스타강사진 강의를 무제한 수강할 수 있습니다. 최종 합격을 하시면... ",
+			"cafename":"독공사★9급공무원,7급공무원,소방,군...",
+			"cafeurl":"https:\/\/cafe.naver.com\/m2school"
+		},
+		{
+			"title":"한국중부발전 <b>직무<\/b>능력평가 질문이요!!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6936771",
+			"description":"이번에 정보통신 지원해서 붙었는데 <b>정보통신 직무<\/b>지식평가라해서 보니까 기사수준으로 나온다는데 어떤 기사를 공부해야 할지 모르겠어요.. 전산, 통신, 정보보안분야 지식이라고 써있는데 저는 다른 자격증을 준비해서... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"기계공학과 <b>직무<\/b>와 기계공학과 취업정보 및 편입경쟁률 확인해보자",
+			"link":"http:\/\/cafe.naver.com\/yesut\/441358",
+			"description":"기계공학과 <b>직무<\/b>와 기계공학과 취업정보 및 편입경쟁률 확인해보자 편준사 회원여러분 안녕하세요... 과학기술<b>정보통신<\/b>부, 국토교통부 등 정부 및 지방자치단체 기술직(기계직) 공무원, 한국수력원자력... ",
+			"cafename":"편준사★편입,수능,학점은행제,독학사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/yesut"
+		},
+		{
+			"title":"공무원 시험! 2023년부터 변경사항 확인",
+			"link":"http:\/\/cafe.naver.com\/m2school\/4445091",
+			"description":"소방공무원 시험 경채시험에서는 일반분야와 기타분야인 구급, 화학, <b>정보통신<\/b>도 시험과몯이... 소방<b>직무<\/b> 적성에 대한 평가가 가능한 종합적성검사를 실시합니다. 소방공무원 시험의 체력 시험 종목도... ",
+			"cafename":"독공사★9급공무원,7급공무원,소방,군...",
+			"cafeurl":"https:\/\/cafe.naver.com\/m2school"
+		},
+		{
+			"title":"소방공무원 영어 검정제, 이것만 알면 된다!",
+			"link":"http:\/\/cafe.naver.com\/m2school\/4450286",
+			"description":"각 <b>직무<\/b>별 특성이 반영된 과목이 하나씩 추가된다고 합니다. 일반 분야에는 소방관계법규 과목이, 구급 분야에는 응급처치학개론이, 화학 분야에는 화학개론이, <b>정보통신<\/b>에는 컴퓨터일반이 추가된다고 하니... ",
+			"cafename":"독공사★9급공무원,7급공무원,소방,군...",
+			"cafeurl":"https:\/\/cafe.naver.com\/m2school"
+		},
+		{
+			"title":"[성남시청 일자리센터] 청년 업종(IT,<b>정보통신<\/b>) 맞춤형 <b>직무<\/b>교육 (취업수당 15만원 지급)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9122427",
+			"description":"주최사 \/ 활동명 or 응모주제&gt; 성남시청 일자리센터 \/ 청년 업종(IT,<b>정보통신<\/b>) 맞춤형 <b>직무<\/b>교육 모집기간 or 응모일정&gt; ~2019년 4월 4일 모집대상(지원\/응모자격)&gt; 주민등록 주소지 기준, 성남시 거주자인 만 30세... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[한국장애인고용공단 채용] 총 29명 채용! 필기 전형 방법, NCS 후기 완벽 정리! 확인해보세요~",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1930208",
+			"description":"모집 채용 <b>직무<\/b>로는 기계, 전기·전자, 건설, 정보·통신, 사회복지 <b>직무<\/b> 인원을 선발합니다. 특정 업무직으로는 취업성공패키지 상담원, 훈련센터 상담원 <b>직무<\/b>를 선발합니다. 한국장애인고용공단 채용은 서류... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"2023 최저임금 만원이 넘는다고? 논의중인 내용 총정리!",
+			"link":"http:\/\/cafe.naver.com\/specup\/6991095",
+			"description":"출처: <b>정보통신<\/b>신문 최저임금위원회는 6월 9일 전원회의를 열고 2023년 최저임금 수준과 업중, 지역별... la\/UC14f5 <b>직무<\/b>랑 무관한 대외활동은 오히려 독일까? https:\/\/vo.la\/EJkbN2 서류 합격해본 만큼 축하금드려요.... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"KIS<b>정보통신<\/b> 채용 부문, <b>직무<\/b>별 우대사항 꼭 확인하세요",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9431387",
+			"description":"영업, 마케팅, 개발까지 다양한 <b>직무<\/b>에서 인재를 채용하고 있다고 합니다! KIS<b>정보통신<\/b> 채용정보, 지금 같이 알아봅시당 :) 모집부문은 총 마케팅, 신용카드VAN법인영업, 모바일서비스개발까지 세 부문입니다. 마케팅... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"7월 28일 목요일 간추린 아침뉴스입니다.",
+			"link":"http:\/\/cafe.naver.com\/sjh95100\/177620",
+			"description":"권성동 대표 <b>직무<\/b>대행은 어제도 재차 사과했지만 국민의힘 당원 게시판에는 권 대표<b>직무<\/b>대행의 책임을... ● 검찰이 어제 서울 통일부 청사와 세종시 과학기술<b>정보통신<\/b>부를 압수수색했습니다. 문재인 정부가 정권 초기... ",
+			"cafename":"지프클럽 Jeep club [그랜드체로키L 랭...",
+			"cafeurl":"https:\/\/cafe.naver.com\/sjh95100"
+		},
+		{
+			"title":"<b>직무<\/b> 관련 자격증",
+			"link":"http:\/\/cafe.naver.com\/ak573\/656123",
+			"description":"<b>직무<\/b> 관련 자격증을 취합하는데 아무래도 인터넷 검색으로는 한계가 있어서요 <b>직무<\/b> 관련 자격증 찾아볼 수 있는 사이트나 자료 있으시면 공유 부탁드립니다! 현재는 NCS 토대로 <b>정보통신<\/b> 관련 자격증 분석중입니다..!",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사공부 독학으로 합격까지",
+			"link":"http:\/\/cafe.naver.com\/hotengnet\/903656",
+			"description":"<b>정보통신<\/b>기사가 뭔지 모르는 분들을 위해 간단한 설명을 하자면, <b>정보통신<\/b>기사는 <b>정보통신<\/b> 관련 공학적 이론지식과, 기술을 바탕으로 <b>정보통신<\/b> 시스템의 설계, 구축, 운영 및 유지보수에 관한 <b>직무<\/b>를 수행한다고 합니다 : )... ",
+			"cafename":"취준생★스펙뽀개기★연봉,인적성,이력...",
+			"cafeurl":"https:\/\/cafe.naver.com\/hotengnet"
+		},
+		{
+			"title":"[신입] 롯데<b>정보통신<\/b> 채용! 2022년 3월 신입사원 채용공고(~04\/03)",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1845250",
+			"description":"롯데<b>정보통신<\/b> 2022년 3월 보안 엔지니어 <b>직무<\/b>(T4) 신입사원 채용 #타 계열사와 중복지원 가능 #어학성적결과 유효기준 : 2020.04.04 ~ 2022.04.03 ✅ 접수기간 : 2022.03.24(목) - 04.03(일) 18시 ✅ 모집부문 : 보안 엔지니어... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"[국방기술품질원] 2022년 2차 정기 채용 (~7.7)",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/608364",
+			"description":"기업명: 국방기술품질원 구인<b>직무<\/b>\/직위: <b>직무<\/b>\/직위 구분 세부자격내용 [채용형 인턴, 연구직] 방위산업기술보호(기술유출침해사고 대응) 지원자격 <b>정보통신<\/b>기사, 정보보안기사 소지자 [정규직... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"[CSTS자격증 주관사] 한국<b>정보통신<\/b>기술협회 SW분야 시험인증 연구원 채용",
+			"link":"http:\/\/cafe.naver.com\/swtester\/9087",
+			"description":"MUST.) • 채용 회사명 : 삼신테크 • 근무 회사명 : 한국<b>정보통신<\/b>기술협회(TTA) → 근무기간 중 근무회사... 삼신테크_<b>직무<\/b>(근무지역)_이름.hwp 파일 다운로드 ◇ 접수 기한 ~ 2022. 01. 04 [화] 오전 10시 까지 ◇ 입사... ",
+			"cafename":"SW TestER들의 모임. 소프트웨어 테스...",
+			"cafeurl":"https:\/\/cafe.naver.com\/swtester"
+		},
+		{
+			"title":"<b>정보통신<\/b>공사업 경력수첩 발급 요령 3탄- 경력자 경력수첩",
+			"link":"http:\/\/cafe.naver.com\/totoplaying\/35148",
+			"description":"공무원으로서 <b>정보통신 직무<\/b>에 보직된 자 3) 군인사법 과 병역법에 의한 군복무기간 중 통신, 전자, 전산관련병과 또는 주특기를 부여받은 자 4) 정보통신공사업법 제38조2항에 따라 정보통신기술인력양성교육기관으로... ",
+			"cafename":"★이한건설닥터\/세무회계 아웃소싱\/건...",
+			"cafeurl":"https:\/\/cafe.naver.com\/totoplaying"
+		},
+		{
+			"title":"기계설비유지관리자 선임 공조냉동기계기사 응시자격 준비!",
+			"link":"http:\/\/cafe.naver.com\/maljjang2\/1309130",
+			"description":"동일<b>직무<\/b>분야로 경영·회계·사무 중 생산관리, 건설, 재료, 화학, 전기·전자, <b>정보통신<\/b> 중 방송무선, 통신, 안전관리, 환경·에너지까지 해당이 되고 있어요. 이렇게 공조냉동기계기사 응시자격을 대졸(졸업예정자)로서... ",
+			"cafename":"황인영 영어 카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/maljjang2"
+		},
+		{
+			"title":"KCC<b>정보통신<\/b> 채용! 영업,개발,기술지원,경영지원,서비스 <b>직무<\/b> 채용 (~11\/15)",
+			"link":"http:\/\/cafe.naver.com\/goodlab\/195765",
+			"description":"KCC<b>정보통신<\/b> 채용! 영업,개발,기술지원,경영지원,서비스 <b>직무<\/b> 채용 (~11\/15) 채용 <b>직무<\/b> : 영업,개발,기술지원,경영지원,서비스전형 절차 : 서류전형 - 인성검사 - 1차면접 - 2차면접 접수 기간 : 11월 6일(월) ~ 11월 15일... ",
+			"cafename":"잡코리아 좋은일연구소 -취업,채용,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goodlab"
+		},
+		{
+			"title":"[한국산업기술협회연수원]2022년 기술교육 이러닝(원격교육콘텐츠) 안내",
+			"link":"http:\/\/cafe.naver.com\/sogonghak\/489032",
+			"description":"자격증 교육 - 기계, 전기전자, 빅데이터, 용접, 화학, 환경, 생산\/품질, 소방, 안전관리, 산업위생, 건설\/토목, 조경, 건축, 에너지\/환경, 유통\/물류, 재무\/회계, <b>정보통신<\/b>, 부동산 3. <b>직무<\/b>향상 교육 - 산업<b>직무<\/b>... ",
+			"cafename":"진격의 소방(소방설비기사, 소방시설관...",
+			"cafeurl":"https:\/\/cafe.naver.com\/sogonghak"
+		},
+		{
+			"title":"오늘의 요약 뉴스",
+			"link":"http:\/\/cafe.naver.com\/alcohholic\/101686",
+			"description":"권성동 대표 <b>직무<\/b>대행은 어제도 재차 사과했지만 국민의힘 당원 게시판에는 권 대표<b>직무<\/b>대행의 책임을... ● 검찰이 어제 서울 통일부 청사와 세종시 과학기술<b>정보통신<\/b>부를 압수수색했습니다. 문재인 정부가 정권 초기... ",
+			"cafename":"나는 알콜중독자다",
+			"cafeurl":"https:\/\/cafe.naver.com\/alcohholic"
+		}
+	]
+}

@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:21 +0900",
+	"total":2832,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>정보통신 직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17876985",
+			"description":"  목차\n표제지=0,1,2\n차례=0,3,1\n1. 직종명:<b>정보통신<\/b>=1,4,1\n2. 직종공 <b>직무<\/b>개요=1,4,3\n3. 직업명세서=4,7,2\n4. 직"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업에서 <b>직무<\/b>스트레스와 신체질병에 영향을 미치는 조직요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=292057656",
+			"description":"Organization-level determinants of job stress and physical illness in Information Technology(IT) industry <b>정보통신<\/b>산업에서 직"
+		},
+		{
+			"title":"기술과 복지의 융합 : <b>정보통신<\/b>기술(ICT)의 발전이 장애인 근무환경과 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=586469642",
+			"description":"The convergence of technology and welfare : effect of the development of ICT on the work environment and job placement for people with "
+		},
+		{
+			"title":"기술과 복지의 융합 : <b>정보통신<\/b>기술(ICT)의 발전이 장애인 근무환경과 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=586469642",
+			"description":"The convergence of technology and welfare : effect of the development of ICT on the work environment and job placement for people with "
+		},
+		{
+			"title":"기술과 복지의 융합: <b>정보통신<\/b>기술(ICT)의 발전이 장애인 근무환경과 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594133461",
+			"description":" <b>정보통신<\/b>기술분야(ICT)의 발전은 우리의 삶을 더욱더 편리하게 하고 있으며 우리 삶의 다양한 영역에 "
+		},
+		{
+			"title":"DACUM 기법을 이용한 방위산업체 <b>정보통신<\/b>보안실무자 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594580327",
+			"description":" 지식 <b>정보<\/b>화 사회가 심화되면서 <b>정보<\/b>보호에 대한 중요성이 날로 높아지고 있다. 최근 들어 개인<b>정보<\/b>"
+		},
+		{
+			"title":"일 지역 <b>정보통신<\/b> 직장인의 <b>직무<\/b> 스트레스 영향요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562517557",
+			"description":"Factors Influencing on Job Stress of Regional Information Communication Employees 본 연구는 일개 지역 <b>정보통신<\/b> 직장인의"
+		},
+		{
+			"title":"일 지역 <b>정보통신<\/b> 직장인의 <b>직무<\/b> 스트레스 영향요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562517557",
+			"description":"Factors Influencing on Job Stress of Regional Information Communication Employees   수면장애, 음주, <b>직무<\/b>스트레스, <b>직무<\/b>만"
+		},
+		{
+			"title":"일 지역 <b>정보통신<\/b> 직장인의 <b>직무<\/b> 스트레스 영향요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=593985008",
+			"description":" 본 연구는 일개 지역 <b>정보통신<\/b> 직장인의 <b>직무<\/b> 스트레스, <b>직무<\/b>만족도 및 건강행태 간의 관계를 확인하"
+		},
+		{
+			"title":"일반 <b>정보통신<\/b> 분야 및 컴퓨터 보안 분야 종사와 고용형태가 임금과 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442225603",
+			"description":"Interaction Effect of Working in General Information Communication Technology or Computer Security Fields and Permanent or Temporary on"
+		},
+		{
+			"title":"일반 <b>정보통신<\/b> 분야 및 컴퓨터 보안 분야 종사와 고용형태가 임금과 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561618211",
+			"description":"Interaction Effect of Working in General Information Communication Technology or Computer Security Fields and Permanent or Temporary on"
+		},
+		{
+			"title":"일반 <b>정보통신<\/b> 분야 및 컴퓨터 보안 분야 종사와 고용형태가 임금과 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=709381064",
+			"description":""
+		},
+		{
+			"title":"일반 <b>정보통신<\/b> 분야 및 컴퓨터 보안 분야 종사와 고용형태가 임금과 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=292130478",
+			"description":"Interaction Effect of Working in General Information Communication Technology or Computer Security Fields and Permanent or Temporary on"
+		},
+		{
+			"title":"DACUM 기법을 이용한 방위산업체 <b>정보통신<\/b>보안실무자 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79122950",
+			"description":"Job Analysis for IT Security Workers in Defense Industry through DACUM Process 지식 <b>정보<\/b>화 사회가 심화되면서 <b>정보<\/b>보호"
+		},
+		{
+			"title":"DACUM 기법을 이용한 방위산업체 <b>정보통신<\/b>보안실무자 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420379144",
+			"description":"Job Analysis for IT Security Workers in Defense Industry through DACUM Process 지식 <b>정보<\/b>화 사회가 심화되면서 <b>정보<\/b>보호"
+		},
+		{
+			"title":"노인요양시설의 <b>정보통신<\/b>기술 기반 안전관리 간호중재 프로그램의 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887356555",
+			"description":"Effectiveness by Applying an Information and Communication Technology-based Safety Management Nursing Intervention Program in Elderly C"
+		},
+		{
+			"title":"조직공정성과 조직의 비전이 <b>직무<\/b>만족과 조직몰입에 미치는 영향 : <b>정보<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79745466",
+			"description":"(The)influence of the organizational justice and the vision of organization on the job satisfaction and the organizational commitment :"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업기술분야 지체장애인 친화적 직종 개발 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=445387415",
+			"description":"A Study on Development of the Disabled-Friendly Occupations in the Industrial Technology Sector 본 연구는 사회 환경 변화에 "
+		},
+		{
+			"title":"<b>직무<\/b>분석을 기반으로 한 실업계고등학교 <b>정보통신<\/b>관련학과 교육과정 비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9344006",
+			"description":"  목차\nI. 서론 9\n 1. 연구의 필요성 및 목적 9\n 2. 연구내용 10\nⅡ. 교육과정의 특징 및 변천 12\n 1. 직업교"
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897263087",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868673973",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881943468",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875562281",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862889618",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841276223",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898412608",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875330948",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875213900",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891182055",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877480795",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886223483",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886774611",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896195014",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890316589",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898177142",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884687874",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871667810",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868585484",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875490783",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890890862",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889856977",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874395585",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890708296",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882663665",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897496220",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842303910",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841150746",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887929026",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887444225",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842744428",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888544689",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890535113",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881368545",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873222676",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888031676",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891011139",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841266436",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842968533",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886811018",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889157372",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"(2020년 산업계관점 대학평가) <b>정보통신<\/b> 분야 요구분석결과 종합보고서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873733060",
+			"description":"  [표지]\n목차\nⅠ. 2020년 산업계관점 대학평가 개요 8\n 1. 산업계관점 대학평가의 의의 및 추진 경과 8\n 2."
+		},
+		{
+			"title":"<b>정보통신<\/b>산업의 진흥에 관한 연차보고서 =2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897113175",
+			"description":"Annual report on the promotion of Korean ICT industry.2021  표제지\n인포그래픽\n목차\nI. 환경변화 26\n 01. 국내외 경제"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업의 진흥에 관한 연차보고서 =2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898460993",
+			"description":"Annual report on the promotion of Korean ICT industry.2021  표제지\n인포그래픽\n목차\nI. 환경변화 26\n 01. 국내외 경제"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업의 진흥에 관한 연차보고서 =2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897542894",
+			"description":"Annual report on the promotion of Korean ICT industry.2021  표제지\n인포그래픽\n목차\nI. 환경변화 26\n 01. 국내외 경제"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업의 진흥에 관한 연차보고서 =2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=893235329",
+			"description":"Annual report on the promotion of Korean ICT industry.2021  표제지\n인포그래픽\n목차\nI. 환경변화 26\n 01. 국내외 경제"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업의 진흥에 관한 연차보고서 =2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897907175",
+			"description":"Annual report on the promotion of Korean ICT industry.2021  표제지\n인포그래픽\n목차\nI. 환경변화 26\n 01. 국내외 경제"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업의 진흥에 관한 연차보고서 =2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898690913",
+			"description":"Annual report on the promotion of Korean ICT industry.2021  표제지\n인포그래픽\n목차\nI. 환경변화 26\n 01. 국내외 경제"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술교육 운영지침 개정에 따른 중등교원 <b>정보<\/b>화 <b>직무<\/b>연수 프",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79452847",
+			"description":" 2001년도부터 <b>정보통신<\/b>기술교육 활용 주체가 전체 교원에게 확대됨으로써 교원의 교육용 콘텐츠 제작"
+		},
+		{
+			"title":"<b>정보통신<\/b>분야 NCS 기반 교육과정 개발과 적용에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=127688299",
+			"description":"  목차\n<b>정보통신<\/b>분야 NCS 기반 교육과정 개발과 적용에 관한 연구 \/ 임황빈 1\n ABSTRACT 1\n 1. 서론 1\n 2. NCS "
+		},
+		{
+			"title":"<b>정보통신<\/b> 소프트웨어분야 국가<b>직무<\/b>능력(NCS) 개선 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420823511",
+			"description":"Improvement of Information &amp; Communication Engineering National Competency Standards (NCS) 본 논문은 NCS의 교육적 활용을 높"
+		},
+		{
+			"title":"<b>정보통신<\/b> 소프트웨어분야 국가<b>직무<\/b>능력(NCS) 개선 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594721246",
+			"description":" 본 논문은 NCS의 교육적 활용을 높이기 위해 SWECOM과 NCS <b>정보통신<\/b> 소프트웨어 분야를 비교 분석하여 NCS"
+		},
+		{
+			"title":"이동 <b>정보통신<\/b>기술의 발전과 고용관계 관리 : 이론적 접근",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155241548",
+			"description":"Mobile ICT and Employment Relations Management: A Theoretical Approach 본 연구는 이동 <b>정보통신<\/b>기술의 발전이 소통관"
+		},
+		{
+			"title":"<b>정보통신<\/b> 소프트웨어분야 국가<b>직무<\/b>능력(NCS) 개선 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842474339",
+			"description":"Improvement of Information &amp; Communication Engineering National Competency Standards (NCS) 본 논문은 NCS의 교육적 활용을 높"
+		},
+		{
+			"title":"<b>정보통신<\/b> 소프트웨어분야 국가<b>직무<\/b>능력(NCS) 개선 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291626687",
+			"description":"Improvement of Information &amp; Communication Engineering National Competency Standards (NCS) 본 논문은 NCS의 교육적 활용을 높"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업에서 <b>직무<\/b>스트레스와 신체질병에 영향을 미치는 조직요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=36776252",
+			"description":"Organization-level determinants of job stress and physical illness in Information Technology(IT) industry <b>정보통신<\/b>산업에서 직"
+		},
+		{
+			"title":"이동 <b>정보통신<\/b>기술의 발전과 고용관계 관리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879229398",
+			"description":" 본 연구는 이동 <b>정보통신<\/b>기술의 발전이 소통관리, 징계관리, 성과관리 등 고용관계의 절차적 측면에 "
+		},
+		{
+			"title":"ARCS동기이론을 기반으로 한 산업현장 교육이 학습전이에 미치는 영향 : ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=178098121",
+			"description":"(The)impact of industrial training based on the ARCS motivation theory on learning transfer : focusing on information and communication"
+		},
+		{
+			"title":"<b>직무<\/b>분석을 기반으로 한 실업계고등학교 <b>정보통신<\/b>관련학과 교육과정 비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=80080977",
+			"description":""
+		},
+		{
+			"title":"기술생애주기에 의한 <b>정보통신<\/b>전문가의 직업유지 행동 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79385335",
+			"description":"Analysis on the vocation retaining behaviors of information and communication experts based on the life-cycle of technology  국문목"
+		},
+		{
+			"title":"이동<b>정보통신<\/b>기술의 발전과 고용관계의 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879058706",
+			"description":" 본 연구는 이동 <b>정보통신<\/b>기술의 발전이 절차적 측면을 중심으로 고용관계에 어떤 변화를 줄 것인가"
+		},
+		{
+			"title":"<b>정보통신<\/b> 분야의 인적자원개발을 위한 스킬 프레임워크",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290244477",
+			"description":"Skills Framework of HRD in IT Industry 스킬 프레임워크는 IT 관련 <b>정보<\/b> 시스템을 효율적으로 개발하기 위한 기"
+		},
+		{
+			"title":"<b>정보통신<\/b>인력양성 활성화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79661267",
+			"description":"  표제지\n목차\n제1장 서론 9\n 제1절 연구의 목적 9\n 제2절 연구의 범위와 방법 10\n  1. 연구의 범위 10\n  2. "
+		},
+		{
+			"title":"<b>정보통신<\/b> 분야의 인적자원 개발을 위한 스킬 프레임워크",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17518588",
+			"description":"Skills Framework for HRD in IT Industry 스킬 프레임워크는 IT 관련 <b>정보<\/b> 시스템을 효율적으로 개발하기 위한 기"
+		},
+		{
+			"title":"<b>정보통신<\/b> 기술자격제도 개선 및 연계 표준교과과정안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=602395094",
+			"description":" <b>정보통신<\/b> 분야의 기술자격제도 개선안과 함꼐 자격취득자에 대한 요구능력, 시험과목 등은 물론 자"
+		},
+		{
+			"title":"청소년 <b>정보통신<\/b> 윤리교육의 현황과 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=14003519",
+			"description":"  표제지\n목차\n국문초록 9\nⅠ. 서론 11\n 1. 연구의 배경 11\n 2. 연구의 목적 및 필요성 13\nⅡ. <b>정보통신<\/b> 윤리"
+		},
+		{
+			"title":"<b>정보통신<\/b> 분야의 인적자원개발을 위한 스킬 프레임워크",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594961091",
+			"description":"Skills Framework for HRD in IT Industry 스킬 프레임워크는 IT 관련 <b>정보<\/b> 시스템을 효율적으로 개발하기 위한 기"
+		},
+		{
+			"title":"<b>정보통신<\/b>서비스 재직자의 직업가치가 개인-환경 적합성에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79580971",
+			"description":"  표제지\n목차\n논문개요 9\nI. 서론 11\n 1. 문제의 제기 11\n 2. 연구의 목적 13\n 3. 용어의 정의 13\n  1) 재직자(w"
+		},
+		{
+			"title":"교사의 <b>정보통신<\/b>기술 활용 능력 평가 기준 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9484645",
+			"description":"  표제지\n국문초록\n목차\nⅠ. 서론 8\n 1. 연구의 필요성 및 목적 8\n 2. 연구의 내용 및 방법 10\n  가. 연구의 "
+		},
+		{
+			"title":"과학기술<b>정보통신<\/b>위원회 활동보고서.제17대국회, 전반기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41961228",
+			"description":"  [표제지 등]\n[일러두기]\n목차\nI. 위원회 개황 7\n 1. 위원회 <b>직무<\/b> 및 연혁 9\n  가. 위원회 <b>직무<\/b> 9\n  나. 위원"
+		},
+		{
+			"title":"<b>정보통신<\/b>업체 근로자의 <b>직무<\/b>스트레스 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880547412",
+			"description":""
+		},
+		{
+			"title":"<b>정보 통신<\/b> 운용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17799997",
+			"description":"  목차\n표제지=0,1,1\n차례=0,2,1\n1.직종명=1,3,1\n2.<b>직무<\/b>수준별 직위=1,3,2\n3.직업 명세서=3,5,2\n4.<b>직무<\/b> 명세서=5,7,"
+		},
+		{
+			"title":"고도 <b>통신<\/b>망 환경의 <b>정보통신<\/b> 네트웍 선정을 위한 <b>직무<\/b>개선 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=8826092",
+			"description":"   <b>통신<\/b>망환경, <b>정보통신<\/b>네트웍선정, <b>직무<\/b>개선, <b>통신<\/b>망, <b>정보통신<\/b>네트웍 "
+		},
+		{
+			"title":"<b>정보 통신<\/b> 설비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17799996",
+			"description":"  목차\n표제지=0,1,1\n차례=0,2,1\n1.직종명=1,3,1\n2.<b>직무<\/b> 수준별 직위=1,3,2\n3.직업 명세서=3,5,4\n4.<b>직무<\/b> 명세서=7,9"
+		},
+		{
+			"title":"개인 및 조직의 특성이 교육훈련 성과에 미치는 영향에 관한 연구 : <b>정보<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79757386",
+			"description":" 현대 사회에서의 기업은 빠르게 변하는 경영 환경과 기술의 발달로 인하여 지속적으로 새로운 것에 "
+		},
+		{
+			"title":"<b>정보통신<\/b>업체 근로자의 <b>직무<\/b> 스트레스 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17318616",
+			"description":"  표제지\n목차\nAbstract 4\n머리말 6\n대상 및 방법 8\n 1. 대상 8\n 2. 연구방법 8\n  1) 설문지 이용 8\n   (1) 생활 습"
+		},
+		{
+			"title":"<b>정보통신<\/b> 업종 대졸 초기 경력자의 이직의도와 이직행동 결정요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18520600",
+			"description":"Analysis of Influential Factors that Impact the Turnover Intention and Turnover Behavior of Newcomersin Information Technology Industri"
+		},
+		{
+			"title":"초등학교 <b>정보통신<\/b>윤리 교육운영 실태에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=86371758",
+			"description":"(The)Study on the operation actual state of the education of information communication ethics in the elementary school  표제지\nABSTR"
+		},
+		{
+			"title":"기업 <b>직무<\/b> <b>정보<\/b>를 활용한 OOPP(Optimized Online Portfolio Platform)설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562133408",
+			"description":"A Design of the OOPP(Optimized Online Portfolio Platform) using Enterprise Competency Information 본 논문에서는 <b>직무<\/b>별로 취"
+		},
+		{
+			"title":"<b>정보통신<\/b> 기업의 신사업 추진 역량 강화를 위한 기술경영 교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79881629",
+			"description":"Management of technology education for enhancing the capability of new business development in IT service industry 국내 IT 서비스 "
+		},
+		{
+			"title":"초등교원의 <b>정보통신<\/b>기술 활용실태 분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9319380",
+			"description":"  표제지\n국문 초록\n목차\nI. 서론 13\n 1. 연구의 필요성 및 목적 13\n 2. 연구 문제 16\n 3. 연구의 제한점 16\n 4."
+		}
+	]
+}

@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:01 +0900",
+	"total":3877,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>회계직무<\/b>범죄산생적원인분석 (会计职务犯罪产生的原因分析)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=840583170",
+			"description":" 在经济飞速发展的当代社会,会计职务犯罪现象日益严重,会计人员经不住种种诱惑,采取非法手段,侵害"
+		},
+		{
+			"title":"이인위본,방범<b>회계직무<\/b>범죄 (以人为本,防范会计职务犯罪)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=108530383",
+			"description":" 当前,在我国某些领域、部门会计人员职务犯罪呈现出易发多发的严峻态势,给社会经济秩序带来了巨大"
+		},
+		{
+			"title":"공사<b>회계직무<\/b>불상용분리연구 (公司会计职务不相容分离研究)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=114420488",
+			"description":" 针对近年来公司存在种种的内部控制缺陷,造成公司亏损的问题,本文通过阐述公司日常经营管理中存在"
+		},
+		{
+			"title":"천석<b>회계직무<\/b>범죄적성인급예방대책 (浅析会计职务犯罪的成因及预防对",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=110390963",
+			"description":" 当前，会计职务犯罪不断发生，对社会造成严重危害。本文以会计职务犯罪为研究对象，从会计职务"
+		},
+		{
+			"title":"당대관청<b>회계직무<\/b>범죄적예방급기현실차감 (唐代官厅会计职务犯罪的预",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=103638422",
+			"description":""
+		},
+		{
+			"title":"<b>회계직무<\/b>범죄방범체계건설적사고 (会计职务犯罪防范体系建设的思考)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=101496418",
+			"description":""
+		},
+		{
+			"title":"<b>회계직무<\/b> 종사자들의 <b>회계<\/b>부정 인식",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79866997",
+			"description":" This study is intended to provide useful information for practice of ethics management to companies by measuring the degree of account"
+		},
+		{
+			"title":"<b>회계직무<\/b>범죄적입법결함급완선건의 (会计职务犯罪的立法缺陷及完善建",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=100209437",
+			"description":" 在我国，法律是人民大众意志的集中体现，负责保障人民生产、生活的方方面面。犯罪是法律严厉打"
+		},
+		{
+			"title":"<b>회계<\/b>신식실진여<b>회계직무<\/b>범죄적예방 (会计信息失真与会计职务犯罪的预",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=101034227",
+			"description":" 会计职务犯罪是指会计人员利用职务上的便利,违反国家法律,危害社会,应当受到刑法处罚的行为.现阶"
+		},
+		{
+			"title":"종범죄심리학각도탐석<b>회계직무<\/b>범죄 (从犯罪心理学角度探析会计职务犯",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=97325097",
+			"description":"From a psychological view to analyze the accountant crime by taking advantage of duty 本文基于近年会计职务犯罪高发的背"
+		},
+		{
+			"title":"공동주택 <b>회계<\/b>담당자들의 <b>직무<\/b>교육이 <b>직무<\/b>특성과 <b>직무<\/b>스트레스간의관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896403907",
+			"description":"The Effect of Job Training Level on the Relationship Between Job Characteristics and Job Stress in Apartment Accounting Manager The Eff"
+		},
+		{
+			"title":"사회혁신기업 종사원의 <b>회계<\/b>분야 <b>직무<\/b>능력 향상을 위한 NCS 학습모듈 적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561188775",
+			"description":"A Study on the Application of NCS Learning Module for the Improvement of Job Skills in Accounting of the Social Innovation Company’s "
+		},
+		{
+			"title":"사회혁신기업 종사원의 <b>회계<\/b>분야 <b>직무<\/b>능력 향상을 위한 NCS 학습모듈적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879504856",
+			"description":" 본 연구는 현재 가파른 양적 성장세를 나타내고 있는 사회혁신기업을 대상으로 사회혁신기업의 사회"
+		},
+		{
+			"title":"세무<b>회계<\/b>정보 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17876998",
+			"description":"  목차\n표제지=0,1,2\n차례=0,3,1\n1. 직종명:세무<b>회계<\/b>정보=1,4,1\n2. 직종공 <b>직무<\/b>개요=1,4,3\n3. 직업명세서=4,7,2\n4."
+		},
+		{
+			"title":"원가･<b>회계<\/b>컨설팅 종사자의 <b>직무<\/b>스트레스, <b>직무<\/b>소진 및 <b>직무<\/b>만족 간의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=844120513",
+			"description":"A Study on the Relationship between Job Stress, Job Burnout and Job Satisfaction of Cost･Accounting Consulting Workers - Focusing on "
+		},
+		{
+			"title":"원가･<b>회계<\/b>컨설팅 종사자의 <b>직무<\/b>스트레스, <b>직무<\/b>소진 및 <b>직무<\/b>만족 간의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843037706",
+			"description":"A Study on the Relationship between Job Stress, Job Burnout and Job Satisfaction of Cost･Accounting Consulting Workers - Focusing on "
+		},
+		{
+			"title":"법무<b>회계<\/b>재<b>회계직무<\/b>범죄조사중적응용 (法务会计在会计职务犯罪调查中",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=831330712",
+			"description":" 近三十年来,随着改革开放的脚步,我国社会主义市场经济和经济法律不断更新与进步,法务会计这个行"
+		},
+		{
+			"title":"<b>회계<\/b>비서 <b>직무<\/b>교육 내용개발을 위한 기초연구 : DACUM <b>직무<\/b>분석 자료를 바",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18461911",
+			"description":"A Preliminary Study to Develop Training Contents for Accounting Secretary Using DACUM Method 유무역협정 등에 의한 <b>회계<\/b>업무"
+		},
+		{
+			"title":"사법<b>회계<\/b>여<b>직무<\/b>범죄일체화연구현상급개치 (司法会计与职务犯罪一体化",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=128256698",
+			"description":" 将司法会计与职务犯罪结合起来开展相关研究是一个较新的课题.通过对司法会计与职务犯罪的研究现"
+		},
+		{
+			"title":"<b>회계<\/b>사무원의 <b>직무<\/b>분석을 통한 교육훈련 프로그램 설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79017141",
+			"description":"The Design of Education Training Program based on Accountant‘s Job Analysis 교육훈련 프로그램을 설계하는 것이다. 연"
+		},
+		{
+			"title":"천의사법<b>회계<\/b>재사판<b>직무<\/b>범죄안건중적작용급완선조시 (浅议司法会计在",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=111817690",
+			"description":""
+		},
+		{
+			"title":"건설업 <b>직무<\/b>수행 <b>회계<\/b> 및 세무정보시스템 교육과정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=75261334",
+			"description":"A Study on the Curriculum Development of Accounting &amp; Tax Information System for Job Performance of the Construction <b>회계<\/b> 및 세무"
+		},
+		{
+			"title":"법무<b>회계<\/b>재<b>회계직무<\/b>범죄중적지지작용 (法务会计在会计职务犯罪中的支",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=115155524",
+			"description":" 改革开放近三十年来伴随着我国社会主义市场经济的发展和各项经济政策的不断推进,会计师之职在维"
+		},
+		{
+			"title":"천의사법<b>회계<\/b>개입<b>직무<\/b>범죄정사 (浅议司法会计介入职务犯罪侦查)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=88320949",
+			"description":" 近年来,司法实践中司法会计介入职务犯罪立案侦查呈现出形式多样性、内容广泛性和结果时效性的特"
+		},
+		{
+			"title":"상업계 고등학교 <b>회계<\/b>교육의 실용화 방안을 위한 <b>회계<\/b>담당자 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=8995964",
+			"description":"  국문목차\n표제지 = 0,1,3\n요지 = i,4,3\n차례 = v,7,4\nI. 서론 = 1,11,1\n 1. 연구의 필요성 및 목적 = 1,11,1\n  가.상"
+		},
+		{
+			"title":"감사기능(<b>회계<\/b>검사와 <b>직무<\/b>감찰) 분리 논의에 관한 실증적 검토",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289613498",
+			"description":"  목차\n감사기능(<b>회계<\/b>검사와 <b>직무<\/b>감찰) 분리 논의에 관한 실증적 검토 \/ 김원철 ; 박환대 1\n I. 들어가는"
+		},
+		{
+			"title":"학교<b>회계<\/b>직원 <b>직무<\/b>만족도에 관한 연구 : 부천시 학교 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56368850",
+			"description":"  표제지\n논문개요\n목차\n제1장 서론 14\n 제1절 연구의 필요성 및 목적 14\n 제2절 연구의 범위와 연구방법 "
+		},
+		{
+			"title":"임금근로자의 <b>직무<\/b>환경이 <b>직무<\/b>만족도, 불평행동 및 충성도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45673331",
+			"description":"The Impact of Job Environment on the Job Satisfaction, Complaining Behavior and Loyalty of Labor 본 연구는 임금근로자들을 "
+		},
+		{
+			"title":"사법<b>회계<\/b>개입<b>직무<\/b>범죄초사제도탐석 (司法会计介入职务犯罪初查制度探",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=86585414",
+			"description":"Probe into Intervention of Judicial Accountant into Preliminary Investigation of Crimes by Taking Advantage of Duty 司法会计介入"
+		},
+		{
+			"title":"중국고대징치<b>회계<\/b>관리<b>직무<\/b>범죄입법탐미 (中国古代惩治会计官吏职务犯",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=88976272",
+			"description":"Discussion on Crimes Legislation of Punishment for Accountant Officials in Ancient China 中国古代,历代统治者把会计官吏职"
+		},
+		{
+			"title":"천담알제<b>회계<\/b>영역적<b>직무<\/b>범죄 (浅谈遏制会计领域的职务犯罪)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=104080411",
+			"description":""
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS)의 학습모듈 적용이 <b>회계<\/b>종사원의 <b>직무<\/b>수행능력에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=558013970",
+			"description":"The Influence of the National Competency Standards(NCS)&apos;s Learning Module Application to the Accounting Employees&apos; Job Improvement 본 "
+		},
+		{
+			"title":"사법<b>회계<\/b>재예방<b>직무<\/b>범죄중적작용 (司法会计在预防职务犯罪中的作用)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=105067970",
+			"description":"The Function of Forensic Accounting Evaluation on Preventing Duty Crimes 职务犯罪是一种复杂的社会历史现象,职务犯罪"
+		},
+		{
+			"title":"세무<b>회계<\/b>전공자의 <b>직무<\/b>만족을 위한 교육과정 개선 방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57815021",
+			"description":" 세무<b>회계<\/b>전공자를 위한 교육과정은 새로운 환경에 적응하기 위해 공급자 측면의 이론중심에서 수요"
+		},
+		{
+			"title":"원가·<b>회계<\/b>컨설팅 종사자의 <b>직무<\/b>스트레스, <b>직무<\/b>소진 및 <b>직무<\/b>만족 간의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650737108",
+			"description":"A study on the relationship between job stress, job burnout and job satisfaction of cost·accounting consulting workers : focusing on t"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS)의 학습모듈 적용이 <b>회계<\/b>종사원의 <b>직무<\/b>수행능력에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=597895542",
+			"description":"  표제지\n논문개요\n목차\n제1장 서론 13\n 제1절 연구의 배경 및 목적 13\n  1. 연구의 배경 13\n  2. 연구의 목"
+		},
+		{
+			"title":"<b>회계<\/b>환경변화에 따른 <b>회계<\/b>담당자들의 <b>직무<\/b>만족도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11225602",
+			"description":"Research Papers : An Analysis of the Accountant`s Job Satisfaction according to Accounting Environment Change 본 연구는 <b>회계<\/b>환"
+		},
+		{
+			"title":"대형<b>회계<\/b>법인 공인<b>회계<\/b>사의 <b>직무<\/b>스트레스, <b>직무<\/b>소진 및 <b>직무<\/b>만족 간의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562427563",
+			"description":"Job stress, job burnout and job satisfaction of certified public accountants in Korea  Ⅰ. 서 론\nⅡ. 이론적 배경\nⅢ. 연구"
+		},
+		{
+			"title":"대형<b>회계<\/b>법인 공인<b>회계<\/b>사의 <b>직무<\/b>스트레스, <b>직무<\/b>소진 및 <b>직무<\/b>만족 간의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=498558974",
+			"description":"Job Stress, Job Burnout and Job Satisfaction of Certified Public Accountants in Korea  Ⅰ. 서 론\nⅡ. 이론적 배경\nⅢ. 연구"
+		},
+		{
+			"title":"<b>회계<\/b>검사와 <b>직무<\/b>감찰의 기능 및 상호 관련성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10382026",
+			"description":"  1.머리말=28,28,1\n2.<b>회계<\/b>검사의 의의 및 기능=28,28,1\n 가.<b>회계<\/b>검사의 의의=28,28,2\n 나.<b>회계<\/b>검사의 목적 및 "
+		},
+		{
+			"title":"NCS기반 세무와 <b>회계<\/b>·감사 <b>직무<\/b>의 능력단위요소에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=175057379",
+			"description":"(A)Study on Competency Unit Element of Tax and Accounting·Auditing Function under National Competency Standard 본 연구의 목적은"
+		},
+		{
+			"title":"NCS기반 <b>회계<\/b>·감사 및 세무 <b>직무<\/b>역량이 사회혁신기업의 지속가능성에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846402040",
+			"description":"The Effect of NCS-based Accounting, Audit and Tax Job Competency on the Sustainability of Social Innovative Enterprises 최근 사회"
+		},
+		{
+			"title":"원가·<b>회계<\/b>컨설팅 종사자의 <b>직무<\/b>스트레스, <b>직무<\/b>소진 및 <b>직무<\/b>만족 간의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890470815",
+			"description":" 본 연구는 국내 원가·<b>회계<\/b>컨설팅 종사자의 <b>직무<\/b>스트레스를 조사하고, <b>직무<\/b>스트레스가 <b>직무<\/b>소진 및 "
+		},
+		{
+			"title":"대형<b>회계<\/b>법인 공인<b>회계<\/b>사의 <b>직무<\/b>스트레스, <b>직무<\/b>소진 및 <b>직무<\/b>만족 간의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=557921070",
+			"description":"Job Stress, Job Burnout and Job Satisfaction of Certified Public Accountants in Korea 본 연구는 국내 대형<b>회계<\/b>법인에 속한"
+		},
+		{
+			"title":"세무<b>회계<\/b>전공자의 <b>직무<\/b>만족을 위한 교육과정 개선 방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879633601",
+			"description":"A study on the improvement of curriculum for job satisfaction of tax accounting majors 세무<b>회계<\/b>전공자를 위한 교육과정은 "
+		},
+		{
+			"title":"사법<b>회계<\/b>재기층섭농<b>직무<\/b>범죄중적응용 (司法会计在基层涉农职务犯罪中",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=115637120",
+			"description":""
+		},
+		{
+			"title":"세무<b>회계<\/b>종사자의 <b>직무<\/b>만족도에 영향을 미치는 요인 : 세무대리인 사무",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32692141",
+			"description":"   세무대리서비스, 세무대리인, <b>직무<\/b>만족 "
+		},
+		{
+			"title":"세무<b>회계<\/b>사무소 직원의 <b>직무<\/b>만족에 영향을 미치는 요인에 관한 연구: 상",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594099570",
+			"description":" 본 연구의 목적은 개인적 특성에 따라 세무<b>회계<\/b>사무소 직원의 <b>직무<\/b>만족에 유의한 차이가 있는지를 "
+		},
+		{
+			"title":"<b>회계<\/b>환경변화에 따른 <b>회계<\/b>담당자들의 <b>직무<\/b>만족도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846018219",
+			"description":"Research Papers : An Analysis of the Accountant`s Job Satisfaction according to Accounting Environment Change 본 연구는 <b>회계<\/b>환"
+		},
+		{
+			"title":"사법<b>회계<\/b>재판이<b>직무<\/b>범죄중적독특작용 (司法会计在办理职务犯罪中的独",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=109226549",
+			"description":" 司法会计是会计专业知识与法律素养的有机结合，大量的案件事实证明，司法会计在办理职务犯罪案"
+		},
+		{
+			"title":"사법<b>회계<\/b>재판이<b>직무<\/b>범죄중적독특작용 (司法会计在办理职务犯罪中的独",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=163365184",
+			"description":" 近年来,随着社会经济的不断发展,在财务的管理上呈现出多种问题,而究其原因主要是由于财务会计方"
+		},
+		{
+			"title":"사법<b>회계<\/b>기술개입<b>직무<\/b>범죄정판일체화모식연구 (司法会计技术介入职务",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=837580373",
+			"description":" 司法会计技术在职务犯罪侦办中具有显著的技术优势.笔者结合司法会计技术在检察机关的应用实践,分"
+		},
+		{
+			"title":"기업고관침점형<b>직무<\/b>범죄적<b>회계<\/b>조사급방범 (企业高管侵占型职务犯罪的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=837185812",
+			"description":" 本文通过企业高管侵占型职务犯罪的理解还有特征入手,然后是企业高管侵占型职务犯罪的手段及其会"
+		},
+		{
+			"title":"<b>회계<\/b> 직종 근로자의 주요 <b>직무<\/b>환경 요인과 <b>직무<\/b>만족ㆍ조직몰입의 영향 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442079218",
+			"description":"Major Job Environmental Factors for Accounting Occupation Workers and Analyzation of the Influential Relationship among Job Environment"
+		},
+		{
+			"title":"<b>회계<\/b> 직종 근로자의 주요 <b>직무<\/b>환경 요인과 <b>직무<\/b>만족ㆍ조직몰입의 영향 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562375898",
+			"description":"Major Job Environmental Factors for Accounting Occupation Workers and Analyzation of the Influential Relationship among Job Environment"
+		},
+		{
+			"title":"천담<b>회계<\/b>신식실진대<b>직무<\/b>범죄적영향급대책 (浅谈会计信息失真对职务犯",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=107878490",
+			"description":" 在打击职务犯罪过程中,司法机关发现一些多发、易发的职务犯罪背后,常常隐藏着大量的会计信息失真"
+		},
+		{
+			"title":"세무<b>회계<\/b>사무소 직원의 <b>직무<\/b>만족에 영향을 미치는 요인에 관한 연구 : ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291022804",
+			"description":"A Study of the Factors that Affect Tax Accounting Firm Employees&apos; Job Satisfaction : Focusing on the Moderating Effect of Trust in Supe"
+		},
+		{
+			"title":"<b>회계<\/b> 직종 근로자의 주요 <b>직무<\/b>환경 요인과 <b>직무<\/b>만족․조직몰입의 영향 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=443845552",
+			"description":"Major Job Environmental Factors for Accounting Occupation Workers and Analyzation of the Influential Relationship among Job Environment"
+		},
+		{
+			"title":"학교<b>회계<\/b>직원 <b>직무<\/b>만족도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79581093",
+			"description":"  제 1 장 서  론------------------------------------1\n  제 1 절 연구의 필요성 및 목적-------------------------1\n  제 2 "
+		},
+		{
+			"title":"초.중등학교 학교<b>회계<\/b>직원의 <b>직무<\/b>만족도에 관한 연구 : 수원시 관내 학",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18505734",
+			"description":""
+		},
+		{
+			"title":"NCS기반 <b>회계<\/b>·감사 및 세무 <b>직무<\/b>역량이 사회혁신기업의 지속가능성에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873387672",
+			"description":"The Effect of NCS-based Accounting, Audit and Tax Job Competency on the Sustainability of Social Innovative Enterprises 최근 사회"
+		},
+		{
+			"title":"경리<b>회계<\/b> 실무자의 <b>직무<\/b>스트레스가 이직의도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=178499215",
+			"description":"(The)influence of occupational stress suffered by finance and accounting professionals on turnover intention 스트레스는 우리가 "
+		},
+		{
+			"title":"<b>회계<\/b>분야의 NCS 학습모듈 적용이 해당 분야 인적자원의 <b>직무<\/b>능력에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562131335",
+			"description":"The Effect of Application of NCS Learning Module in Accounting Field on the Job Ability of Human Resources in the Field 본 연구는 "
+		},
+		{
+			"title":"세무<b>회계<\/b>사무소 직원의 <b>직무<\/b>환경과 <b>직무<\/b>만족에 대한 실태분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=80088553",
+			"description":"Analysis on operation characteristic and job satisfaction in Korean tax preparation firms The Korean taxation service market needs the "
+		},
+		{
+			"title":"대고교<b>회계<\/b>내부공제급<b>직무<\/b>범죄예방적사고 (对高校会计内部控制及职务",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=92847315",
+			"description":" 高等教育需求的日益普遍化,使各高校的资产和经费总量大幅度增加,诱发大量的职务犯罪,其主要原因"
+		},
+		{
+			"title":"산업체 현장수요 맞춤형 교육과정 개발에 관한 연구 －계명문화대학 세",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56552592",
+			"description":"Research on Curriculum Development Concentrating on Practical Demands from Industry －Centred on Department of Tax Accounting and Info"
+		},
+		{
+			"title":"건설업 <b>직무<\/b>수행 <b>회계<\/b> 및 세무정보시스템 교육과정 개발 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420273786",
+			"description":"A Study on the Curriculum Development of Accounting &amp; Tax Information System for Job Performance of the Construction <b>회계<\/b> 및 세무"
+		},
+		{
+			"title":"세무<b>회계<\/b>관련 학과 학사학위전공심화과정 개설 및 교육과정에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890228106",
+			"description":"A Study on the Proposals for Opening and Curriculum of Advanced Course to Confer Bachelor’s Degree for Tax &amp; Accounting Departments i"
+		},
+		{
+			"title":"<b>회계<\/b>집중핵산재예방<b>직무<\/b>범죄중적작용급기완선 (会计集中核算在预防职",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=838924256",
+			"description":" 会计集中核算的中心是以核算和监督以及服务为一体的，遵循管理不越位、监督不缺位、服务要到位"
+		},
+		{
+			"title":"<b>회계<\/b>검사에 관한 단상(短想) : <b>직무<\/b>감찰과 결혼한 <b>회계<\/b>검사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289352474",
+			"description":"  목차\n<b>회계<\/b>검사에 관한 단상(短想) : <b>직무<\/b>감찰과 결혼한 <b>회계<\/b>검사 \/ 최재우 1\n [본문] 1 예산편성, 국가"
+		},
+		{
+			"title":"기업고관침점형<b>직무<\/b>범죄적<b>회계<\/b>조사급방범 (企业高管侵占型职务犯罪的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=88888159",
+			"description":" 自我国证券市场建立以来,企业,包括上市公司高管职务犯罪逐渐呈现出多发与频发的态势.本文在研究"
+		},
+		{
+			"title":"천담<b>회계<\/b>집중핵산재예방<b>직무<\/b>범죄중적작용급기완선 (浅谈会计集中核算",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=830526150",
+			"description":" 会计集中核算是深化财政体制改革,强化会计监督和财务管理的重要举措.会计集中核算是一种有效的财"
+		},
+		{
+			"title":"학교직원조직 과 <b>직무<\/b> , <b>회계<\/b> · 서무 &lt;특집&gt; (學校職員組織 과 職務 , 會",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9862136",
+			"description":"  목차\n學校 職員組織과 職務 : 會計·庶務 \/ 김의종 1\n 1. 교직원조직의 현황 1\n  가. 개설 1\n  나. 교직원 "
+		},
+		{
+			"title":"NCS기반의 <b>회계<\/b>교육이 직업기초능력 및 <b>직무<\/b>수행능력에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630668026",
+			"description":"A Study of Accounting Eduation based in NCS affect on Job Basic Ability and Job Perform Ability 우리나라는 경제성장과 더불"
+		},
+		{
+			"title":"세무<b>회계<\/b>관련 학과 학사학위전공심화과정 개설 및 활성화 방안에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561823565",
+			"description":"A Study on the Proposals for Opening and Activating of Advanced Course to Confer Bachelor’s Degree for Tax &amp; Accounting Departments i"
+		},
+		{
+			"title":"NCS기반의 <b>회계<\/b>교육이 직업기초능력 및 <b>직무<\/b>수행능력에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630785038",
+			"description":"A study of accounting edu[c]ation based in NCS effect on job basic ability and job perform ability  표제지\n요약\n목차\nI. 서론 1"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS)을 활용한 전문대학 세무 및 <b>회계<\/b>관련 학과의 경쟁",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289602393",
+			"description":"How to Raise the Competitiveness of Tax Accounting Departments in Colleges Utilizing NCS 본 연구는 전문대학 세무<b>회계<\/b>관련 "
+		},
+		{
+			"title":"천담<b>회계<\/b>집중핵산재예방<b>직무<\/b>범죄중적작용급기완선 (浅谈会计集中核算",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=112521593",
+			"description":" 随着我国的企业数量的增多，其经营方式也呈现出多元化的趋势，其中会计集中核算已经成为现代企"
+		},
+		{
+			"title":"건설업 <b>직무<\/b>수행 <b>회계<\/b> 및 세무정보시스템 교육과정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45460764",
+			"description":"A Study on the Curriculum Development of Accounting &amp; Tax Information System for Job Performance of the Construction <b>회계<\/b> 및 세무"
+		},
+		{
+			"title":"천담<b>회계<\/b>집중핵산재예방<b>직무<\/b>범죄중적작용급기완선 (浅谈会计集中核算",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=113862585",
+			"description":" 随着企业内部管理水平不断提高,会计集中核算日益成为企业日常管理的核心.会计集中核算贯穿于企业"
+		},
+		{
+			"title":"세무<b>회계<\/b>관련 학과 학사학위전공심화과정 개설 및 활성화 방안에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846306126",
+			"description":"A Study on the Proposals for Opening and Activating of Advanced Course to Confer Bachelor’s Degree for Tax &amp; Accounting Departments i"
+		},
+		{
+			"title":"NCS(국가<b>직무<\/b>능력표준)를 적용한 <b>회계<\/b>․세무 교육과정과 교육성과간의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561886431",
+			"description":"Analysis of Relevance between Accounting․Taxation Curriculum and Educational Performance Applying National Competency Standards (NCS)"
+		},
+		{
+			"title":"초.중등학교 학교<b>회계<\/b>직원의 <b>직무<\/b>만족도에 관한 연구 : 수원시 관내 학",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79780417",
+			"description":" Since the 1997 financial crisis in Korea, contingent employment has increased to enhance flexibility of utilization of human resources"
+		},
+		{
+			"title":"사법<b>회계<\/b>검사기술재사판<b>직무<\/b>범죄안건중적책략분석 (司法会计检查技术",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=103209883",
+			"description":" 司法会计检查技术在查处职务犯罪案件中具有不可替代的重要作用.本文从财务资金运动的规律性和财"
+		},
+		{
+			"title":"<b>회계<\/b>집중핵산대<b>직무<\/b>범죄안건사처적영향 (会计集中核算对职务犯罪案件",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=105313263",
+			"description":" 会计集中核算,可以规范会计基础工作和现金管理,杜绝不合法票据入账,有利于财政资金的集中和政府"
+		},
+		{
+			"title":"한국 대형 <b>회계<\/b>법인 비서의 <b>직무<\/b>에 관한 기초연구 : DACUM <b>직무<\/b>분석 자료",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79638121",
+			"description":" 이 연구는 <b>회계<\/b>법인에서 근무하는 비서의 현황을 파악하고 대형 <b>회계<\/b>법인 비서의 <b>직무<\/b>를 DACUM방법으"
+		},
+		{
+			"title":"천담<b>회계<\/b>집중핵산재예방<b>직무<\/b>범죄중적작용급기완선 (浅谈会计集中核算",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=88505251",
+			"description":""
+		},
+		{
+			"title":"세무<b>회계<\/b>종사자의 <b>직무<\/b>만족도에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890459252",
+			"description":" 본 연구는 세무<b>회계<\/b>종사자의 <b>직무<\/b>만족도에 영향을 미치는 요인을 파악하기 위한 연구로 요인별 <b>직무<\/b>"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS)을 활용한 전문대학 세무 및 <b>회계<\/b>관련 학과의 경쟁",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846246079",
+			"description":"How to Raise the Competitiveness of Tax Accounting Departments in Colleges Utilizing NCS 본 연구는 전문대학 세무<b>회계<\/b>관련 "
+		},
+		{
+			"title":"<b>회계<\/b>정보생산자의 국가<b>직무<\/b>능력표준 인식수준에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232708133",
+			"description":"A study on the level of awareness National Competency Standards for accounting information producer 본 연구는 국가<b>직무<\/b>능력표"
+		},
+		{
+			"title":"세무<b>회계<\/b> 서비스업 종사자의 <b>직무<\/b>스트레스가 <b>직무<\/b>만족에 미치는 영향에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79670818",
+			"description":"(A)Study of the Effect on the Job Satisfaction by the Factors of Job Stress Focused on the Tax &amp; Accounting Service Employee The purpos"
+		},
+		{
+			"title":"세무<b>회계<\/b> 관련 학과의 특성화 추진 방향과 전략에 관한 탐색적 연구－K",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79123725",
+			"description":"Research on How to Make Department of Tax Accounting and Related Departments Distinct &amp; Strategy －Focusing on K College－ 지식기"
+		},
+		{
+			"title":"여하발휘사법<b>회계<\/b>검사재징치화예방<b>직무<\/b>범죄중적작용 (如何发挥司法会",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=93792546",
+			"description":"Appling Forensic Accounting Inspection to Punish and Prevent Duty Crimes 任何经济犯罪的帐务处理,都具有人为控制和支"
+		},
+		{
+			"title":"섭혐<b>직무<\/b>범죄안건적사법<b>회계<\/b>감정여사고——이A보사이모등인섭혐<b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=156267585",
+			"description":" 以A报社李某等人涉嫌职务犯罪案件为例,对涉案资料进行检验、分析和论证,并形成鉴定意见.实践表明,"
+		},
+		{
+			"title":"완선중직학교<b>회계<\/b>관리공작,예방<b>직무<\/b>범죄 (完善中职学校会计管理工作,",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=90709186",
+			"description":" 近年来,笔者所在地的市属中职学校半数以上出现了职务犯罪案件.笔者就如何完善会计管理工作,预防"
+		},
+		{
+			"title":"DACUM Method에 의한 <b>회계<\/b> 및 세무 정보시스템 <b>직무<\/b> 교육과정 개발 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420273751",
+			"description":"A Study on the Curriculum Development of Accounting &amp; Tax Information System Job through DACUM Method 기업은 재교육 없이 즉각"
+		},
+		{
+			"title":"성공적 호텔경영진의 <b>직무<\/b>속성이 관리<b>회계<\/b>시스템 채택정도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47044190",
+			"description":"A Study of the Impacts of Hotel TMT`s Job Trait Attributes on Choosing Innovative MAS The purpose of this study was to explore the effe"
+		},
+		{
+			"title":"세무<b>회계<\/b>사무소 여성 근로자의 교육훈련이 <b>직무<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594384775",
+			"description":" 본 연구는 세무<b>회계<\/b>사무소 여성 근로자의 교육훈련이 <b>직무<\/b>성과에 미치는 영향을 분석하였다. 연구결"
+		},
+		{
+			"title":"몽골 <b>회계<\/b>감사에 관한 <b>직무<\/b>특성별 인식 차이 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79671049",
+			"description":"The Difference Analysis of The Recognition of Job Characteristics for Mongolian Auditing System Today in the time of globalization. Mon"
+		},
+		{
+			"title":"<b>회계<\/b>분야의 NCS 학습모듈 적용이 해당 분야 인적자원의 <b>직무<\/b>능력에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879027937",
+			"description":"The Effect of Application of NCS Learning Module in Accounting Field on the Job Ability of Human Resources in the Field 본 연구는 "
+		}
+	]
+}

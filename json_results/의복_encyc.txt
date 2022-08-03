@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:19 +0900",
+	"total":10914,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1133912&cid=40942&categoryId=32077",
+			"description":" 인간이 몸에 입는 것.  피복(被服) ·의류 ·의장(衣裝) ·복장이라고도 한다. 이 중에서 ‘<b>의복<\/b>’ ‘피복’이 가장 흔히 쓰이는 용어이다. 이들 2가지 표현의 구별이 자주 논의되는데, ‘<b>의복<\/b>’은 신체의 구간부... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=957846&cid=47304&categoryId=47304",
+			"description":" 인간이 몸에 입는 것을 가리키는 말로, 옷, 복장, 의류라고도 함.  인간에게 꼭 필요한 것 세 가지가 뭐였지? 바로 의식주, 즉 입을 것, 먹을 것, 살 곳 세 가지는 꼭 필요해.지금까지 먹을 것과 살... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1779_000_1\/20120319122900604_WXO01L9W9.jpg\/bh11_14_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"옷",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=568737&cid=46671&categoryId=46671",
+			"description":" 옷은 인간이 몸 위에 입는 천이나 가죽 등으로 된 물건. [개설] 우리의 옷은 우리민족의 오랜 역사와 얼을 간직하고 있다. 따라서 각시대마다의 사회상과 문화상이 복식에 반영되어 왔고 발전되어 왔다. 인류의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20190604054952574_C2WRTBCM3.jpg\/2e01d15c-79f9-43.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1716963&cid=41908&categoryId=41971",
+			"description":"402]와 &quot;수치의 감정에서 몸을 가리고자 하는 욕구&quot;[같은 곳]를 <b>의복<\/b> 발생의 주된 요인으로 삼는다. 전자의 경우 가죽과 깃털 그리고 비늘과 패각 등으로 태어날 때부터 이미 몸의 표면이 덮여 있는 동물에 반해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=798268&cid=43121&categoryId=43121",
+			"description":"인류학자들은 추위와 바람, 비를 피하기 위해 사냥한 동물의 털이나 나뭇잎을 이용해 몸을 독창적으로 감싼 데서 <b>의복<\/b>이 비롯되었다고 추측한다. 기원전 3만 년경 동물의 뼈로 만든 바늘이 발견되었는데, 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3561352&cid=58728&categoryId=58728",
+			"description":"[내용] <b>의복<\/b>을 입는 경우는 다음과 같다. 1. 자신을 후사로 삼은 아버지를 위하여 삼년참최복을 입는다. 2. 다른 이의 후사後嗣가 된 사람의 아내(즉, 양자로 간사람의 아내)는 본생 시부모를 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=540929&cid=46620&categoryId=46620",
+			"description":" 생몰년 미상. 신라 중대의 장수. [내용] 관등은 아찬(阿飡)이었다. 삼국통일전쟁기 백제유민이 661년(무열왕 8) 봄 2월에 사비성(泗沘城 : 지금의 충청남도 부여)을 공격해왔다. 무열왕은 이찬(伊飡) 품일(品日)을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=284808&cid=50345&categoryId=50345",
+			"description":"신체의 대부분을 덮어 보호하는 옷을 말한다. 현재는 피복(被服)과 동의어로 쓰인다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=106518&cid=50293&categoryId=50293",
+			"description":"화(禍)와 복(福)이 서로 인연이 되어 일어나고 가라앉음.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1714989&cid=49009&categoryId=49009",
+			"description":"몸을 보호하고, 가리고, 꾸미기 위해 입는 물건.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2395735&cid=50762&categoryId=51387",
+			"description":"→ ‘옷’을 보라.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6268280&cid=51293&categoryId=51293",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226011528169_GHKZ2AF6J.jpg\/PS01001001017004.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1790317&cid=49234&categoryId=49234",
+			"description":"고대 한국 복식에서 웃옷은 크게 삼(衫)과 유(襦), 그리고 겉옷인 포(袍)로 구분되고, 아래에 입는 옷으로는 남자의 바지인 고(袴), 여성용 치마인 상(裳)과 군(裙)이 있다. 고대의 복식에 대한 기록을 찾아보면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794834&cid=46671&categoryId=46671",
+			"description":" 사람의 몸에 치장하는 의류와 장식의 총칭. [개설] 복식이란 인체 위에 표현되는 모든 것을 총괄하여 일컫는 것으로, ‘복(服)’은 주로 몸통과 팔다리를 감싸는 <b>의복<\/b>을 말하고 ‘식(飾)’은 머리에 쓰는 모자나... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_17\/20190329065322022_6GBU41J7E.jpg\/e0a2ec44-1755-45.jpg?type=m160_160"
+		},
+		{
+			"title":"옷",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2275453&cid=42251&categoryId=51156",
+			"description":"옷이 날개다. 우리는 그 사람의 옷차림만 보고도 많은 정보를 얻는다. 옷은 한 인간의 의식과 무의식을 동시에 들여다볼 수 있는 좋은 단서다. 봄이 여자의 화사한 스커트에서 온다면 가을은 남자의 중후한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"옷",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2395372&cid=50762&categoryId=51387",
+			"description":"히브리인들의 <b>의복<\/b>은 크게 속옷, 겉옷, 외투로 구분된다. ‘속옷’은 가장 안에 입는 옷인데 소매가 없고 바느질로 겹쳐 꿰매지 않고 위에서부터 통으로 짠 것으로 무릎까지 내려오며(요 19:23)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3741_000_1\/20141218152306312_AOV1HAPEO.jpg\/ac11_5544_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"복식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2169223&cid=50852&categoryId=50852",
+			"description":"<b>의복<\/b>은 기후의 변화로부터 신체를 보호하며 수치스러운 부분을 가리게 해주는 실용적인 기능을 담당하지만, 그러나 생활 속에서 예술의 요소를 가장 많이 가지고 있는 것이다. 사람들은 옷을 그렇게 단순히... ",
+			"thumbnail":""
+		},
+		{
+			"title":"옷",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2376177&cid=50762&categoryId=51365",
+			"description":"<b>의복<\/b>(衣服). 창조 당시 사람은 옷을 걸치지 않았다. 하나님, 인간, 자연과의 완전한 조화 속에서 벗었으나 부끄러움이 없었고 입지 않았으나 신체의 저항력이 떨어지지 않았다(창2:25). 그러던 것이 아담과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1688957&cid=62062&categoryId=62062",
+			"description":"당나라 때의 승려. 노주(潞州) 동제(銅鞮, 山西 長治) 사람으로, 속성(俗姓)은 강(姜)씨다. 젊은 나이에 복선사(福先寺) 두비(杜朏)를 참알(參謁)했고, 32살 때 비로소 낙발(髮受)한 뒤 구족계(具足戒)를 받았다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1573129&cid=62044&categoryId=62044",
+			"description":"30대 문무왕(文武王) 8년(668년) 고구려가 항복하자 당장(唐將) 이적(李勣)이 고구려 왕과 왕자, 대신, 백성들을 데리고 당으로 돌아갈 때 각간 김인문(金仁問) 등이 따라가고 장군 <b>의복<\/b> 등이 수행했다. 동 12년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1573131&cid=62044&categoryId=62044",
+			"description":"29대 무열왕(武烈王) 8년(661년) 백제의 잔적(殘賊)이 사비성(泗沘城)을 내공(來攻)하므로 아찬(阿湌) <b>의복<\/b>을 하주장군(下州將軍)으로 임명하여 사비성을 구원케 했다. 30대 문무왕(文武王) 원년(661년) 당이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1573130&cid=62044&categoryId=62044",
+			"description":"30대 문무왕(文武王) 8년(668년) 당이 고구려를 침공할 때 신라에서 군편성(軍編成)을 하면서 파진찬(波珍湌) <b>의복<\/b>을 서당총관(誓幢摠管)을 삼았다. ※ 선복(宣服)과 같은 사람으로 추정된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49009",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"옷",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%B7",
+			"description":"옷 ( 영어: Clothing ) 또는 <b>의복<\/b> (衣服) 혹은 의상 (衣裳)은 사람이 몸 위에 입는, 천이나 가죽 등으로 된 물건이다. 추위와 더위를 막고 몸을 보호하는 기능을 하며, 대부분 직물이나 가죽으로 만든다. 방한복... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6508237&cid=40942&categoryId=32077",
+			"description":"'<b>의복<\/b>비'란 <b>의복<\/b>을 구입하거나 마련하는 데 드는 비용을 비롯하여, 구입 후 <b>의복<\/b>을 수선하고 세탁하는 등 <b>의복<\/b> 관리에 필요한 모든 비용을 의미한다. <b>의복<\/b>비는 가계 경제를 계획하는 데 있어 계획에 따라 달라질... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여성 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6281067&cid=51293&categoryId=51293",
+			"description":"가라비아(Garaveea)라고 불리는 시리아의 여성<b>의복<\/b>으로 붉은 실크에 세로로 줄무늬가 있다. 너비가 1.5cm인 좁고 둥근 깃을 좌임으로 여며 입는다. 양옆에 18cm의 무를 대고, 38cm의 옆트임이 있어 활동하기에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226012129381_MQIJTO3E9.jpg\/PS01001001017004.jpg?type=m160_160"
+		},
+		{
+			"title":"여성 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6355313&cid=51293&categoryId=51293",
+			"description":"19세기 예멘 사비르의 여성<b>의복<\/b>으로 카미즈(Qamis)라고 한다. 검은 색 바탕 옷감에 7부의 사선 소매가 달려있고 색실로 기하문양의 수를 놓았다. 앞 중심에 트임이 있고 문양은 좌우대칭이다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226011457726_QJHW6DAQ4.jpg\/PS01001001017004.jpg?type=m160_160"
+		},
+		{
+			"title":"여성 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6372505&cid=51293&categoryId=51293",
+			"description":"낙타로 험준한 지역을 이동하는 여성들은 고난과 인내의 연속인 생활 속에서 화려한 <b>의복<\/b>에 반짝이는 유리를 꿰매 넣어 입었다. 이것이 펀자브와 인접한 인도의 가츠치 지방 부인복의 특색이다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226011532940_595V1NBYO.jpg\/PS01001001017004.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의복<\/b>수선원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926555&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>의복<\/b>수선원은 고객의 요청에 따라 옷, 모자, 장갑 등 의류제품의 불량 상태를 개선하거나 의류제품의 치수나 길이를 조정하는 일을 담당한다. 고객과의 상담 또는 작업지시서에 따라 의류제품의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027996&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>제조의 중간공정 또는 마무리공정에서 재단물, 봉제품, 완제품 등의 결함을 검사한다. [수행직무] 작업표준에 의하여 제품에 따른 검사항목을 확인하고 그에 따른 검사기준서 및 검사표준서를 준비하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>완성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953475&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>의 각 부분품을 결합하거나 보강하여 마무리·완성한다. [수행직무] 옷의 구멍에 단추, 스냅, 벨트장식 등 부분품을 부착한다. 허리부위에 벨트 고리를 부착한다. 단추 혹은 벨트를 벨트 고리에 끼우고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>기후",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=499782&cid=60408&categoryId=55558",
+			"description":"인간이 나체로 체온을 조절할 수 있는 것은 기온 25~26℃까지의 온도이고, 이보다 저온일 때에는 체온이 내려가므로 <b>의복<\/b>을 착용하지 않으면 안된다. <b>의복<\/b>은 개인에 따라 보온력이 적당한 것을 사용해야... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>기후",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=980608&cid=60248&categoryId=60248",
+			"description":"<b>의복<\/b>에 의하여 체온이 유지될 수 있도록 자연의 기후상태를 바꾸는 것 또는 바꾸어 놓은 기후상태를 말한다. <b>의복<\/b>과 피부와 외계 사이에 공간을 만들어 그 공간의 기온과 습도를 상당히 일정하게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>계획",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1188052&cid=40942&categoryId=32077",
+			"description":"<b>의복<\/b>은 계절이나 착용목적에 따라여러 가지 형태와 재료의 것이 필요하게 되는데, 합리적인 의생활을 이루기 위해서는 계절과 용도에 따라 각자의 생활에 맞는 <b>의복<\/b>을 계획을 세워 종류와 벌수[枚數]를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=284812&cid=42822&categoryId=42822",
+			"description":"<b>의복<\/b>이 상품으로 생산되어 유통과정을 거쳐 소비되기까지의 사회경제적인 조직을 말한다. 구체적으로는 <b>의복<\/b>공업(<b>의복<\/b>제조업) 및 <b>의복<\/b>유통업이 포함된다. 유통업에는 도매업과 소매업 외에 운송, 창고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>기후",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=284811&cid=42822&categoryId=42822",
+			"description":"<b>의복<\/b>을 착용하는 것에 따라 그 밑에 형성되는 국소기후(局所氣候)를 <b>의복<\/b>기후라고 한다. 우리들이 환경기온에 적응한 <b>의복<\/b>을 착용하고 있는 경우, 신체구간부(身體軀幹部), <b>의복<\/b>최내층(衣服最內層)은 온도 32... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>중량",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=284813&cid=42822&categoryId=42822",
+			"description":"<b>의복<\/b>중량은 인체의 보건위생상, 생활활동상에 영향을 미치고 특히 발육기에 있는 유유아(乳幼兒)에 있어서는 중요한 문제로 취급된다. <b>의복<\/b>중량을 비교하는 경우, 보통 착용자의 체중이나 체표면적(體表面積)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>위생",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=499783&cid=60408&categoryId=55558",
+			"description":"온열환경에 대한 위생학적 대책으로서 <b>의복<\/b>에 대한 배려는 극히 중요하고, <b>의복<\/b>에 대한 위생학적 입장에서 고려해야 할 점은 보온효과(열전도율과 함기량), 환기성, 흡습성, 압축성, 복사열흡수성, 내구성 등이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>공업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=284809&cid=42822&categoryId=42822",
+			"description":"<b>의복<\/b> 상품의 제조업을 말한다. 여기서 말하는 <b>의복<\/b>이란 표준 상품 분류에 의한 겉옷, 속옷, 잠옷, 한복, 모자, 장갑, 양말, 버선 기타로 되어 있는데, 여기에 신체의 주변 물품으로 포함되고 있는 머플러... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방호<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=663778&cid=50327&categoryId=50327",
+			"description":"방사선방호 분야에서 방사선에 의한 외부피폭 또는 방사성물질에 의한 신체오염을 방지하기 위해 착용하는 특수한 <b>의복<\/b>. 외부피폭의 방호에 대해서는 납 성분이 들어있는 것을 사용하며 내부피폭의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>해충",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=284815&cid=42822&categoryId=42822",
+			"description":"<b>의복<\/b>에 붙어서 섬유를 먹고 구멍을 내는 등의 해를 주는 벌레를 말한다. 단백질을 주성분으로 하는 양모, 모피 등을 주로 먹는 양모해충이 가장 많고 견도 피해받기 쉽다. 면, 레이온 등 셀룰로오스를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여성<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6244813&cid=51293&categoryId=51293",
+			"description":"튜닉 女性上衣 파키스탄 20세기 Tunic for Women Pakistan 20th century 파키스탄 스와트 지역의 튜닉형 상의이다. 스와트는 파키스탄 서북부 간다라 지방의 북쪽에 위치한 계곡으로, 고대의 동서 교역로에서 멀리... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226013025290_B7H75H7BO.jpg\/PS01001001017003.jpg?type=m160_160"
+		},
+		{
+			"title":"흥완군 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1192657&cid=40942&categoryId=32079",
+			"description":" 숙명여자대학교 박물관에 있는 조선시대 종친 흥완군의 <b>의복<\/b>. 1983년 4월 11일 국가민속문화재로 지정되었다.  1983년 4월 11일 국가민속문화재로 지정되었다. 흥선대원군의 형이자 고종의 큰아버지였던... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_122\/20181203071346394_BS1TKC2UJ.jpg\/2163510.jpg?type=m160_160"
+		},
+		{
+			"title":"흥완군 <b>의복<\/b>",
+			"link":"http:\/\/www.cha.go.kr\/korea\/heritage\/search\/Culresult_Db_View.jsp?mc=NS_04_03_01&VdkVgwKey=18,01210000,31",
+			"description":"이 유물들은 일반적으로 흥완군의 것으로 알려져 있으나 <b>의복<\/b> 중 일부는 그 형태로 미루어 양자 완순군의 것으로 추정된다. 관복 대부분은 소매가 좁은데, 넓은 소매에서 좁게 변한 것은 1894년 의제개혁... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b> 기후",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6060846&cid=67350&categoryId=67350",
+			"description":"[환경 및 설비] 피부와 바깥 환경 사이에 개재하는 <b>의복<\/b> 및 그 속의 공기층 온도 · 습도 등의 상태를 체감， 생리 반응 등에서 기후와 비교하여 한 말.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b> 기후",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=453175&cid=50369&categoryId=50369",
+			"description":"함기성(含氣性), 옷의 재료나 옷의 모양 등의 여러 가지 조건에 따라서 좌우된다. 우리가 옷을 입었을 때 쾌적하다고 느끼는 <b>의복<\/b> 기후는 31°C, 습도 30∼40% 정도이며 땀의 증발을 쉽게 하는 상태이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"여성 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6302435&cid=51293&categoryId=51293",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226012146732_7T12BCHVN.jpg\/PS01001001017004.jpg?type=m160_160"
+		},
+		{
+			"title":"여성 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6238220&cid=51293&categoryId=51293",
+			"description":"중국 사천성 이족(?族)의 소매 없는 상의와 원피스 이다. 쪽염을 한 바탕 옷감에 여러 가지 색으로 자수를 놓거나 장식선을 두른 옷으로 몸판은 소매 없는 상의를 입게 되므로 자수 장식이 없는 빨간 체크무늬... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226011625521_U8I17C961.jpg\/PS01001001017004.jpg?type=m160_160"
+		},
+		{
+			"title":"최현배 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3613350&cid=40942&categoryId=33710",
+			"description":" 한글학자 최현배가 착용하였던 <b>의복<\/b> 8종 19점. 2014년 10월 29일 국가등록문화재로 지정되었다.  한글학자이자 한글운동가, 독립운동가, 교육자인 외솔 최현배가 착용했던 <b>의복<\/b>으로, 대략 1953~1970년에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여성 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6378103&cid=51293&categoryId=51293",
+			"description":"파키스탄 스와트 지역 바로치족의 짙은 밤색의 상의이다. 겉에 여러 가지 종류의 동전과 크기가 다른 단추를 배열해서 수를 놓듯 고정시킨 것이 특징이다. 소매 끝 가장자리에는 붉은 색으로 덧대었다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226011544006_6EF71KYEN.jpg\/PS01001001017004.jpg?type=m160_160"
+		},
+		{
+			"title":"여성 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6248611&cid=51293&categoryId=51293",
+			"description":"흰 바탕에 꽃과 세로줄무늬가 있는 옷감으로 부탄 케르라의 여성이 몸에 둘러 입는 옷으로 키라(Kira)라고 한다. 은으로 만든 두 개의 원형 장식은 서로 이어져 있고 용과 귀면 장식이 섬세하게 표현되어... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220226011520449_6N5H78RYW.jpg\/PS01001001017004.jpg?type=m160_160"
+		},
+		{
+			"title":"색복(<b>의복<\/b>)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1642812&cid=62145&categoryId=62159",
+			"description":"신라] 신라 초기의 <b>의복<\/b>제도는 복색에 대한 고찰이 불가능하다. 제23대 법흥왕(法興王) 때 처음으로 6부(六部)<b>의 복<\/b>색의 존비(尊卑)제도를 정하였는데, 그때까지는 오히려 우리의 풍속을 유지하였다. 진덕왕... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>완성반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027997&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>을 끝손질하고 마무리하는 작업원의 활동을 감독·조정한다. [수행직무] <b>의복<\/b>의 마무리 공정에 관한 전반적인 지식과 내용을 숙지한다. 생산량, 시간계획 등을 수립하여 작업지침을 만들고 이에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"덕온공주<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=543352&cid=46671&categoryId=46671",
+			"description":" 조선순조의 셋째 공주인 덕온이 입었던 <b>의복<\/b>. [내용] 중요민속문화재 제211호. 유물들은 1837년(헌종 3) 공주의 길례(吉禮) 때 착용하였던 원삼(圓衫)을 비롯한 당의(唐衣)·장옷·삼회장저고리 각 1점과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20161005065640316_BLDNJVX8R.jpg\/34da02b8-c43a-41.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의복<\/b>의 관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1188051&cid=40942&categoryId=32077",
+			"description":"<b>의복<\/b>은 착용 중의 더러움이나 손상을 세탁이나 일상시의 손질로써 제거하거나 보강하지 않으면 오래 가지 못한다. 항상 청결하고 정돈된 <b>의복<\/b>을 착용하는 것은 건강상으로나 사회생활을 쾌적하게 하기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_27\/20180918204912125_Y2495SKG2.jpg\/243954.jpg?type=m160_160"
+		},
+		{
+			"title":"최현배 <b>의복<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B5%9C%ED%98%84%EB%B0%B0_%EC%9D%98%EB%B3%B5",
+			"description":"최현배 <b>의복<\/b> 은 울산광역시 중구 외솔최현배선생기념관에 있는 최현배 선생의 <b>의복<\/b>이다. 2014년 10월 29일 대한민국의 국가등록문화재 제611호로 지정되었다. 개요 한글 운동에 큰 영향을 미친 국어학자인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"흥완군 <b>의복<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%9D%A5%EC%99%84%EA%B5%B0_%EC%9D%98%EB%B3%B5",
+			"description":"흥완군 <b>의복<\/b> (興完君 衣服)은 남연군의 둘째 아들이자, 흥선대원군 이하응의 형인 흥완군 이정응의 복식류 62점이다. 이 유물은 이정응이 입던 옷으로 그의 양자인 완순군 이재완이 보관하였다가 그 후손이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"홍진종 <b>의복<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%99%8D%EC%A7%84%EC%A2%85_%EC%9D%98%EB%B3%B5",
+			"description":"홍진종 <b>의복<\/b> (洪鎭宗 衣服)은 조선 숙종 때 문신 홍진종의 묘에서 출토된 <b>의복<\/b> 일괄로, 국가민속문화재 제113호이다. 개요 홍진종(洪鎭宗)은 인조 27년(1649)에 태어나 숙종 28년(1702)에 졸하였다. 숙종 3년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일본의 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1740810&cid=49338&categoryId=49338",
+			"description":"해행총재2 해유록 하(신유한) 신분에 따른 <b>의복<\/b>의 제도에 관한 내용",
+			"thumbnail":""
+		},
+		{
+			"title":"덕온공주 <b>의복<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8D%95%EC%98%A8%EA%B3%B5%EC%A3%BC_%EC%9D%98%EB%B3%B5",
+			"description":"덕온공주<b>의복<\/b> (德溫公主衣服)은 조선의 제23대 왕인 순조의 셋째 딸 덕온공주(1822∼1844)의 옷이다. 덕온공주의 복식으로는 원삼ㆍ당의ㆍ장옷ㆍ삼회장저고리ㆍ누비저고리 등이 있는데, 이 옷은 공주가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"덕온공주 <b>의복<\/b>",
+			"link":"http:\/\/www.cha.go.kr\/korea\/heritage\/search\/Culresult_Db_View.jsp?mc=NS_04_03_01&VdkVgwKey=18,02110000,31",
+			"description":"기타 수식류와 생활용품 33점으로 나누어 1987년에 국가민속문화재로 각각 지정되었다. ‘덕온공주<b>의복<\/b>’에는 원삼 1점, 당의 1점, 장옷 1점, 삼회장저고리 1점과 누비삼회장저고리 2점으로 총 6점이다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/2943_000_8\/20140715112232532_3RRMU6E7W.jpg\/1633348.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의복<\/b>패턴사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027999&cid=42117&categoryId=42117",
+			"description":" 의류의 디자인스케치를 보고 패턴제작법을 이용하여 패턴을 제작한다. [수행직무] 작업지시서의 디자인 및 제품별로 요척(옷을 만드는 데 필요한 원단의 최소 야드 수)을 계산하여 패턴모형을 종이에 그린다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>제품검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926556&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>의복<\/b>제품검사원은 가죽, 모피 및 기타 직물로 만들어진 각종 의류제품의 품질을 검사하고 등급을 매기는 일을 담당한다. 의류제품의 크기, 상태, 무게별로 가죽이나 직물 등을 검사하여 제품의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b> 어휘 (거창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4347688&cid=59782&categoryId=59806",
+			"description":"[정의] 경상남도 거창군에 살았던 사람들이 전통적으로 사용했던 <b>의복<\/b> 관련 어휘. [개설] 경상남도 거창 지역의 사람들이 사용하는 <b>의복<\/b> 관련 어휘의 특색과 형태를 구체적 사례를 통해 살펴본다. [거창 지역... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>은 검소하게",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5683986&cid=62811&categoryId=62900",
+			"description":" ‘율기 6조’의 내용으로 <b>의복<\/b>을 사치스럽게 하지 말아야 함을 알려주는 내용이다. [번역] <b>의복<\/b> 사치는 많은 사람이 꺼리는 바요 귀신도 미워하니 복을 깎는 일이다. 부인으로서 도리를 아는 이는 아주 드물다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>, <b>의복<\/b> 액세서리 및 모피 제품 제조업 (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5785695&cid=64866&categoryId=64890",
+			"description":"[정의] 울산광역시의 산업 중 봉제 <b>의복<\/b>, 모피 제품, 편조 <b>의복<\/b>, <b>의복<\/b> 액세서리 등을 제조하는 업종. [개설] 통계청의 통계 분류에 따르면 <b>의복<\/b>, <b>의복<\/b> 액세서리 및 모피 제품 제조업은 봉제 <b>의복<\/b> 제조업, 편조 <b>의복<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>, <b>의복<\/b> 액세서리 및 모피 제품 제조업 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825048&cid=55772&categoryId=55810",
+			"description":"[정의] 부산광역시의 산업 중 봉제 <b>의복<\/b>, 모피 제품, 편조 <b>의복<\/b>, <b>의복<\/b> 액세서리 등을 제조하는 업종. [사업체와 종사자] 부산 지역의 <b>의복<\/b>, <b>의복<\/b> 액세서리 및 모피 제품 제조업 사업체 수와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김덕령장군 <b>의복<\/b>",
+			"link":"http:\/\/www.cha.go.kr\/korea\/heritage\/search\/Culresult_Db_View.jsp?mc=NS_04_03_01&VdkVgwKey=18,01110000,24",
+			"description":"1965년 광산김씨의 무덤들이 모여있는 광주 무등산 이치(梨峙)에서 김덕령 장군의 묘를 이장할 때 출토된 400년 전의 <b>의복<\/b>들이다. 김덕령(1568∼1596)은 임진왜란때 담양에서 이름을 떨친 의병장으로 비록 체구는... ",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/2943_000_8\/20140715112047124_IJ041LW5X.jpg\/1633593.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의복<\/b> 어휘 (해남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5934210&cid=66793&categoryId=66818",
+			"description":"[정의] 전라남도 해남군에 사는 토박이가 전통적으로 사용하였던 <b>의복<\/b>과 관련된 말. [개설] 전라남도 해남 지역에서 사용하는 <b>의복<\/b> 어휘를 복식과 장식, 천의 종류와 세탁, 바느질과 관련된 어휘로 나누어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b> 어휘 (창원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2639917&cid=51943&categoryId=54861",
+			"description":"[정의] 경상남도 창원시에 살았던 사람들이 전통적으로 사용했던 <b>의복<\/b> 관련 말. [개설] 창원 지역에서 사용한 <b>의복<\/b> 어휘를 복식과 장식, 바느질과 세탁으로 나누어, 같은 내용을 가리키지만 표준어와 형태가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"덕온공주 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1192659&cid=40942&categoryId=32079",
+			"description":" 조선 23대 임금 순조의 셋째 딸 덕온공주의 <b>의복<\/b>. 1987년 2월 16일 국가민속문화재로 지정되었다.  1987년 2월 16일 국가민속문화재로 지정되었다. 덕온공주(1822-1844)가 혼례 때나 평상복으로 입던 것인데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보부상 <b>의복<\/b> (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2575168&cid=51890&categoryId=53735",
+			"description":"[정의] 조선시대의 보부상들이 입던 <b>의복<\/b>. [개설] 보부상은 등짐장수인 부상(負商)과 봇짐장수인 보상(褓商)을 통틀어 지칭한다. 등짐장수는 솜방울이 양쪽에 달린 패랭이를 쓰고 쪽지게에다 부피가 크고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"갑신<b>의복<\/b>개혁령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1056784&cid=40942&categoryId=33383",
+			"description":" 1884년(고종 21) 5월과 6월에 발표한 관복·사복의 개정법령.  서양문물을 접한 개화파가 내놓은 여러 개혁안 중의 하나로, 사대파의 반대로 뜻을 이루지 못하다가 양파의 의견을 종합한 것이 이 법령이다. 이에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>의 완성 - 단추",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000075544&menu_id=86&contents_id=fs_a0000-2019-0123-0000-000000000007&svc_clss_id=CLSS0000075590&contents_openapi=naverdic",
+			"description":"<b>의복<\/b>에서 단추의 의미",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_4\/20190314104905733_LR51I3MKL.jpg\/B5579177-B534-DD.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의복<\/b>의 착용목적",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1188049&cid=40942&categoryId=32077",
+			"description":"인간은 개개의 생활 가운데서 계절이나 경우에 따라 여러 가지 <b>의복<\/b>을 착용하고 있다. 이들 <b>의복<\/b>의 착용목적에는 크게 나누어, ① 주로 인체의 생리위생상 신체의 보호나 활동 ·휴양 등의 목적과, ② 주로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_61\/20181026134642788_ZC7S45URD.jpg\/64985.jpg?type=m160_160"
+		},
+		{
+			"title":"최현배 <b>의복<\/b> (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5786080&cid=64861&categoryId=64991",
+			"description":"[정의] 한글학자 최현배가 착용하였던 현대 남성 <b>의복<\/b> 및 관련 용품. [개설] 한글학자이자 한글운동가, 독립운동가 및 교육자인 외솔 최현배(崔鉉培)[1894~1970]가 착용하였던 <b>의복<\/b>이다. 최현배 <b>의복<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일본의 <b>의복<\/b>문화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1529265&cid=62068&categoryId=62068",
+			"description":"[ 1) 시대에 따른 일본 <b>의복<\/b>의 변천] 기모노(着物, きもの)는 헤이안시대 귀족들의 정장의 속옷이 점차 변화한 것으로 에도시대에 이르러 정장과 같은 복장이 되었고 현재는 일본 전통 <b>의복<\/b>의 대명사처럼... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1500_000_1\/20121008114208928_NMNRKFP8S.jpg\/ea1_032_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"김덕령장군 <b>의복<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%EB%8D%95%EB%A0%B9%EC%9E%A5%EA%B5%B0_%EC%9D%98%EB%B3%B5",
+			"description":"김덕령장군 <b>의복<\/b> (金德齡將軍 衣服)은 광주광역시 북구 용봉동, 광주광역시립민속박물관에 있는, 조선시대 김덕령 장군의 묘에서 출토된 <b>의복<\/b>들이다. 1980년 4월 1일 대한민국의 국가민속문화재 제111호로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김함의 묘 출토<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794497&cid=46671&categoryId=46671",
+			"description":"[개설] 김함(金涵: 1568∼1598)의 묘 출토<b>의복<\/b>은 1985년 4월 15일 전라남도 영암군 학산면 학계리에서 김해김씨(金海金氏) 문중이 선산(先山)의 묘역(墓域)을 재정리·확장하기 위하여 이장(移葬)하던 중... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_10\/20180917211126301_EDX4SNB2K.jpg\/ffe5fd8d-5ed6-42.jpg?type=m160_160"
+		},
+		{
+			"title":"김함의 묘 출토<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1197142&cid=40942&categoryId=32079",
+			"description":" 전라남도 영암군 학산면 학계리 김함의 묘에서 출토된 <b>의복<\/b>과 부장품. 1987년 2월 16일 국가민속문화재로 지정되었다.  1987년 2월 16일 국가민속문화재로 지정되었다. 김주호의 소유로 되어 있다. 1985년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>과 음식의 절도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5684026&cid=62811&categoryId=62900",
+			"description":" ‘율기 6조’의 내용으로 <b>의복<\/b>과 음식은 검소해야 함을 강조하는 내용이다. [번역] <b>의복<\/b>과 음식은 검소한 것을 법도로 삼아야 한다. 조금만 법도를 넘어도 그 씀씀이에 절도가 없어질 것이다. <b>의복<\/b>은 성글고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김덕령장군 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1072203&cid=40942&categoryId=32079",
+			"description":" 임진왜란 당시의 장군 김덕령의 <b>의복<\/b>. 1980년 4월 1일 국가민속문화재로 지정되었다.  1980년 4월 1일 국가민속문화재로 지정되었다. 광주광역시 소유이다. 저고리 1점, 백저철릭[白紵天翼] 1점... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_25\/20180917201003939_HY8LN4XFP.jpg\/73206.jpg?type=m160_160"
+		},
+		{
+			"title":"한자에 쓰인 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2271627&cid=51213&categoryId=51213",
+			"description":"먼저 <b>의복<\/b>과 관련된 한자를 살펴보도록 하자.",
+			"thumbnail":""
+		},
+		{
+			"title":"김덕령장군<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=551944&cid=46671&categoryId=46671",
+			"description":" 1965년 광주광역시 무등산에 있던 김덕령(金德齡:1567∼1596) 장군의 묘를 이장할 때 출토된 16세기 후기의 복식류. [내용] 1965년 7월에 광주광역시 무등산 이치(梨峙)에 있던 충장공(忠壯公) 김덕령(金德齡... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20180801194152129_0211V70R0.jpg\/6203a8ea-845c-4e.jpg?type=m160_160"
+		},
+		{
+			"title":"덕온공주 <b>의복<\/b> (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5661934&cid=51887&categoryId=53580",
+			"description":"[개설] 덕온공주 <b>의복<\/b>은 조선 제23대 순조(純祖)의 셋째 딸인 덕온공주[1822~1844]가 입었던 원삼, 당의, 장옷 등의 예복 각 1점과 삼회장저고리 1점, 누비 삼회장저고리 2점 등의 평상복이다. 덕온공주는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사자소학 형무<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1769938&cid=49397&categoryId=49397",
+			"description":"兄無衣服 弟必獻之 형무<b>의복<\/b> 제필헌지 ▶ 형이 <b>의복<\/b>이 없거든 아우가 반드시 드리고, 弟無飮食 兄必與之 제무음식 형필여지 ▶ 아우가 음식이 없거든 형이 반드시 주어라.",
+			"thumbnail":""
+		},
+		{
+			"title":"안동김씨 묘 출토<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1197911&cid=40942&categoryId=33383",
+			"description":" 충청북도 청주시 서원구 개신동 충북대학교 박물관에 보관된 조선시대의 <b>의복<\/b>. 1987년 11월 23일 국가민속문화재로 지정되었다.  1987년 11월 23일 국가민속문화재로 지정되었다. 경기도 광주시 초월면(草月面)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안동김씨묘출토<b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=579616&cid=46671&categoryId=46671",
+			"description":"[개설] 중요민속자료 제217호인 ‘안동김씨묘 출토 <b>의복<\/b>’은 1985년중부고속도로 건설로 인하여 경기도 광주시 초월면 지월리 경수 부락에 있던 안동김씨(安東金氏) 묘역을 옮길 때, 허난설헌(許蘭雪軒... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_13\/20181018000614670_QGJFRW7VW.jpg\/617ce8ac-7822-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의복<\/b>의 종류와 분류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1188050&cid=40942&categoryId=32077",
+			"description":"<b>의복<\/b>의 종류는 많으며, 이것들은 여러 가지 각도에서 분류할 수 있다. 이를테면, ① 형태 ·구조상에서 개방적인 형의 <b>의복<\/b>과 밀폐적인 형의 <b>의복<\/b>, 한복(韓服)과 양복, ② 계절적으로 하복 ·동복 ·춘추복 등, ③... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_34\/20180930194119588_A5KME0AZW.jpg\/23106.jpg?type=m160_160"
+		},
+		{
+			"title":"안동김씨 묘 출토<b>의복<\/b>",
+			"link":"http:\/\/www.cha.go.kr\/korea\/heritage\/search\/Culresult_Db_View.jsp?mc=NS_04_03_01&VdkVgwKey=18,02170000,33",
+			"description":"1985년 중부고속도로 건설로 경기도 광주군에 있던 안동 김씨 묘역을 옮길 때 출토된 <b>의복<\/b>들이다. 조선의 여류작가 허난설헌의 시아버지인 김첨과 15∼16세로 보이는 그의 딸, 김대경의 처인 원주 원씨(元氏)의... ",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/2943_000_8\/20140715112244308_S401VBHQF.jpg\/1634058.jpg?type=m160_160"
+		},
+		{
+			"title":"기후와 <b>의복<\/b>의 관계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2448240&cid=51726&categoryId=51726",
+			"description":"[기후와 <b>의복<\/b>의 관계] 여름에는 더위를 이기기 위해 삼베, 모시 등을 이용한 개방적인 옷차림을 하였고, 겨울에는 추위를 이기기 위해 가죽옷, 무명, 솜 등을 이용한 옷차림을 했음을 설명한다.(동영상... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/18\/1315\/E3140413AF0F138398B34F4AE3FC9EC3041_muploader_h_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"옛 <b>의복<\/b>의 구성 요소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1714990&cid=49009&categoryId=49009",
+			"description":"스톨라 소매가 있거나 민소매이며 허리띠로 죄었던 길고 헐거운 <b>의복<\/b>. 로마의 여성들이 입었다. 페플로스 몸통을 감싸고 어깨에 핀으로 고정시킨 고대의 직사각형 모직 옷감. 그리스 여성들이 입었다. 토가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1592_000_1\/20130125191438070_QTFZIES5A.jpg\/z1_876_i3.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의복<\/b>예탁소(경의실)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2268961&cid=51331&categoryId=51333",
+			"description":"소요면적은 a)에 준하며 또한 로커의 설치면적을 가산한다. 1석당 3~4대의 로커, 로커의 치수 30×50~40×60cm, 바람직한 배분 : 경의시설의 약 26% c) <b>의복<\/b>길이를 사용하며 로커가 없는 방식[그림(3) 참조",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1913_000_1\/20120628113601702_WUKWNDT0F.jpg\/db3_348_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"김함의 묘 출토<b>의복<\/b>",
+			"link":"http:\/\/www.cha.go.kr\/korea\/heritage\/search\/Culresult_Db_View.jsp?mc=NS_04_03_01&VdkVgwKey=18,02090000,31",
+			"description":"김함 묘의 출토복식은 1985년 4월 15일 전라남도 영암군 학산면 학계리에서 김해김씨(金海金氏) 문중이 선산(先山)의 묘역(墓域)을 재정리·확장하기 위하여 이장(移葬)하던 중 출토된 일괄 유물이다.... ",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/2943_000_22\/20191209060640587_31IMZ2F48.jpg\/1634686.jpg?type=m160_160"
+		},
+		{
+			"title":"풍속화 기구 및 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1733471&cid=49295&categoryId=49295",
+			"description":"[사인삼경] • 작품명 : 사인삼경 • 작가 : 강희언 • 제작연대 : 18세기 • 소장처 : 개인소장 • 재 료·크 기 : 종이에 옅은 채색, 26.0×21.0㎝ 강희언의 「사인삼경」은 풍속적인 요소가 강한 시회도이다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_9\/20130614112049304_HJFDMMVEQ.jpg\/z2_cp02350117000.jpg?type=m160_160"
+		},
+		{
+			"title":"거창의 <b>의복<\/b> 특색 (거창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4347700&cid=59782&categoryId=59806",
+			"description":"[정의] 경상남도 거창 지역 사람들의 일반 <b>의복<\/b>과 예복 및 관복의 특색. [개설] 거창 지역 <b>의복<\/b>의 특징은 기후와 지형적 특성과 연관될 수밖에 없다. 거창은 내륙 산간의 형태이므로 여름에는 강우량이 많고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"행장 꾸릴 때 <b>의복<\/b> 안장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5683350&cid=62811&categoryId=62900",
+			"description":" ‘부임 6조’의 내용으로 부임할 짐을 꾸릴 때 <b>의복<\/b>과 말 등을 기존의 것을 사용하라는 내용으로, 신임 수령의 자세로 검소함을 강조하고 있다. [번역] 행장을 꾸릴 때, <b>의복<\/b>과 안장을 얹은 말은 본래 있는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이형 부인 동래정씨 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1193620&cid=40942&categoryId=33383",
+			"description":" 전라북도 전주시 완산구에 소장된 조선시대 <b>의복<\/b>. 1980년 12월 5일 국가민속문화재로 지정되었다.  1980년 12월 5일 국가민속문화재로 지정되었다. 조선 선조 때 동래정씨의 유품이며, 동래정씨는 전주이씨... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이슬람 여성들의 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2445610&cid=51670&categoryId=51672",
+			"description":"[이슬람 여성들의 <b>의복<\/b>] 외출시 몸을 가려야하는 이슬람 국가인 파키스탄의 여성들이 외출시 입는 <b>의복<\/b> 부르카, 니캅, 히잡 등을 보여줌으로써 이슬람사회의 여성들의 모습을 잘 보여주고 있다.(동영상... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/16\/689\/531C04F3A30EF3FC52E36238534F4E139C9_muploader_h_480P_854_1024_128_logo.jpg#1280x720#m"
+		},
+		{
+			"title":"풍속화 평생도 08 <b>의복<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1733623&cid=49295&categoryId=49295",
+			"description":"[평생도 08] • 작품명 : 평생도 08 • 작가 : 김홍도 • 제작연대 : 18~19세기 • 소장처 : 국립중앙박물관 • 재 료·크 기 : 비단에 채색, 53.9×35.2㎝ 이 장면에서는 주인공이 어느 지방의 관찰사로 부임하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_9\/20130614104300757_8923V0MB6.jpg\/z2_cp02350502000.jpg?type=m160_160"
+		}
+	]
+}

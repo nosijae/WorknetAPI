@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:51 +0900",
+	"total":14764,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[평창올림픽자원봉사]평창올림픽자원봉사후기-ACM(<b>숙박<\/b>)<b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/2078719?Redirect=Log&logNo=221282731498",
+			"description":"저는 1.26-2.26 한달간 정선에서 <b>숙박<\/b>분야 자원봉사자로 근무 했었어요!!! 정선에서 하는 일은 <b>숙박<\/b>하시는... ACM<b>직무<\/b>는 하는일이 많지 않아서 근처로 많이 놀러 다녔던 것 같아요~~ 그리고 올림픽이라는 중요한... ",
+			"bloggername":"걱정말고, 설레어라",
+			"bloggerlink":"https:\/\/blog.naver.com\/2078719",
+			"postdate":"20180524"
+		},
+		{
+			"title":"남원 켄싱턴리조트 <b>숙박<\/b> 및 <b>직무<\/b> FIT 캠프 후기",
+			"link":"https:\/\/blog.naver.com\/zlwbgo?Redirect=Log&logNo=221548166116",
+			"description":"남원 켄싱턴리조트 <b>숙박<\/b> 및 <b>직무<\/b> FIT 학교에서 하는 <b>직무<\/b> FIT 캠프에 참여하게 돼서 1박 2일 동안 켄싱턴 리조트에 가게 되었는데 생각보다 리조트가 만족스러워서 후기를 작성해보았습니다. <b>직무<\/b> FIT는... ",
+			"bloggername":"공돌이의 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/zlwbgo",
+			"postdate":"20190528"
+		},
+		{
+			"title":"워킹맘 일기\/영도 라발스 호텔\/<b>직무<\/b>연수\/자유부인\/야호",
+			"link":"https:\/\/blog.naver.com\/cutecat66?Redirect=Log&logNo=222818731210",
+			"description":"원래 2인1실인데 같이 쓰시는 분이 <b>숙박<\/b>하지 않는다고 하셔서 난 혼자서 사용했다!ㅎㅎ 도착해서 체크인하고 두개정도 <b>직무<\/b>교육을 듣고 저녁식사 장소로 이동! 영도 목장원에서 이루어진 저녁식사:) 우리 아현이... ",
+			"bloggername":"아메리양의 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/cutecat66",
+			"postdate":"20220719"
+		},
+		{
+			"title":"[해외취업 멘토링 말레이시아] 말레이시아에서 경험해 본 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/hrdkorea2020?Redirect=Log&logNo=222822647352",
+			"description":"말레이시아에서 경험해 본 <b>직무<\/b> 상세 소개, 장단점 및 경력 계획 안녕하세요. 션입니다. 지난 1회차... 많은 분들께서 콜센터하면 가장 먼저 <b>숙박<\/b>이나 비행기 티켓을 예약했는데, 의도치 않은 상황이... ",
+			"bloggername":"월드잡플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/hrdkorea2020",
+			"postdate":"20220721"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 NCS 12. 이용·<b>숙박<\/b>·여행... ",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220614994023",
+			"description":"NCS 대비는 NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가와 함께 해요~ NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 12 이용.<b>숙박<\/b>.여행.오락.스포츠 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.01.20. 리뷰보기",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160201"
+		},
+		{
+			"title":"호텔관리사 자격증 <b>직무<\/b> 상세 및 응시자격",
+			"link":"https:\/\/blog.naver.com\/gks3155?Redirect=Log&logNo=222782886990",
+			"description":"또한 관광 관련학과를 나왔기에 이 <b>직무<\/b>에 뛰어드는 사람이 많을 겁니다. 그런데 생각보다 유사하지만... 첫째, 호텔서비스사 자격을 취득한 다음 관광<b>숙박<\/b>업소에서 3년 이상 종사한 경력이 있으면 됩니다.... ",
+			"bloggername":"Tae Woo 의 정신세계",
+			"bloggerlink":"https:\/\/blog.naver.com\/gks3155",
+			"postdate":"20220621"
+		},
+		{
+			"title":"미용·정비·<b>숙박<\/b> 분야 <b>직무<\/b>능력표준 만든다",
+			"link":"https:\/\/blog.naver.com\/cplapyh?Redirect=Log&logNo=220269896107",
+			"description":"미용·정비·<b>숙박<\/b> 분야 <b>직무<\/b>능력표준 만든다 교육부와 한국직업능력개발원은 10일 오후 서울 임페리얼팰리스 호텔에서 헤어미용·자동차 정비·<b>숙박<\/b>서비스 등 분야의 <b>직무<\/b>능력표준을 만들기 위한... ",
+			"bloggername":"즐거운 인사노무 by. 공인노무사 박예희",
+			"bloggerlink":"https:\/\/blog.naver.com\/cplapyh",
+			"postdate":"20150211"
+		},
+		{
+			"title":"2022년 동구새일센터 복합 <b>숙박<\/b>시설 관리사 양성과정 모집",
+			"link":"https:\/\/blog.naver.com\/e1woman?Redirect=Log&logNo=222753681621",
+			"description":"장년 경력단절여성 ▶ 교육내용 - 직업전문교육 복합 <b>숙박<\/b>시설 <b>직무<\/b> 이해 및 비전 제시 객실정비 업무 및 객실관련 용어 이해 복합 <b>숙박<\/b>시설 관련 불망 사례 분석 및 고객 유형별 응대요령 의류, 침구, 주방... ",
+			"bloggername":"부산광역시 동구여성인력개발센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/e1woman",
+			"postdate":"20220602"
+		},
+		{
+			"title":"관광<b>숙박<\/b>산업분야 <b>직무<\/b>능력중심 인재 적극양성",
+			"link":"https:\/\/blog.naver.com\/rlagytns0719?Redirect=Log&logNo=220869407213",
+			"description":"전국가사·실업계고등학교장회, 한국전문대학교육협의회, 한국관광협회, 한국호텔외식관광경영학회는 관광<b>숙박<\/b> 분야의 <b>직무<\/b>에 적합한 교육훈련 설계를 위한 자문을 지원할 예정이다. 현장 실습을 위해... ",
+			"bloggername":"뉴젠 장크린닥터",
+			"bloggerlink":"https:\/\/blog.naver.com\/rlagytns0719",
+			"postdate":"20161124"
+		},
+		{
+			"title":"NCS기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 12: 이용 <b>숙박<\/b> 여행 오락... ",
+			"link":"https:\/\/blog.naver.com\/gosimart?Redirect=Log&logNo=220508508832",
+			"description":"NCS기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 12: 이용 <b>숙박<\/b> 여행 오락 스포츠 (2016)[씨마스] 저자명 : NCS 채용 시험 연구회 | 출판사 : 씨마스 | 발행일 : 1453215600 | 페이지 : 376 정가 23,000 원판매가20,700원(10... ",
+			"bloggername":"온라인교육 플랫폼 캠버스에듀",
+			"bloggerlink":"https:\/\/blog.naver.com\/gosimart",
+			"postdate":"20151014"
+		},
+		{
+			"title":"[공지] 제2차 전국평생교육관계자 <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/cabingirl?Redirect=Log&logNo=120058510446",
+			"description":"제2차 전국평생교육관계자 <b>직무<\/b>연수 <b>숙박<\/b>예약관련 정보 2008년 11월 27일(목)-28(금)에 구리시에서 개최될 제2차 전국평생교육관계자 <b>직무<\/b>연수와 관련하여 <b>숙박<\/b>예약관련 정보를 첨부합니다.... ",
+			"bloggername":"평생학습과 실버산업의 만남【With 박태희】",
+			"bloggerlink":"https:\/\/blog.naver.com\/cabingirl",
+			"postdate":"20081114"
+		},
+		{
+			"title":"이용·<b>숙박<\/b>·여행·오락·스포츠 <b>직무<\/b>분야에 해당하는... ",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220591487374",
+			"description":"이용·<b>숙박<\/b>·여행·오락·스포츠 <b>직무<\/b>분야에 해당하는 자격시험 일정을 모았어요. 접수기간과 시험 일정이 모두 있으니 확인해보세요~ 등급 종목명 시행회 필기시험... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160110"
+		},
+		{
+			"title":"업종별 채용특성 이해하기! <b>숙박<\/b>•여행업",
+			"link":"https:\/\/blog.naver.com\/dreamgodream?Redirect=Log&logNo=221383358424",
+			"description":"<b>숙박<\/b> 및 여행업종의 주요 <b>직무<\/b> <b>숙박<\/b>서비스(<b>숙박<\/b>기획·개발객실관리부대시설관리연회관리접객서비스) 여행서비스(여행상품개발여행상품상담국내여행안내해외여행안내항공객실서비스) 각 업종이 선호하는... ",
+			"bloggername":"꿈날개 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dreamgodream",
+			"postdate":"20181023"
+		},
+		{
+			"title":"공직자 <b>직무<\/b> 관련 투기행위 집중신고 결과 발표",
+			"link":"https:\/\/blog.naver.com\/loveacrc?Redirect=Log&logNo=222448354849",
+			"description":"공직자 <b>직무<\/b> 관련 투기행위 집중신고 기간(3.4.~6.30.) 운영 결과 총 65건 중 투기 의심사례 21건 수사등... ‘생활<b>숙박<\/b>시설’을 구입해 임대차 수익을 취하다가 국토부의 단속 정보를 미리 취득해 차액을 남기고... ",
+			"bloggername":"국민권익위원회",
+			"bloggerlink":"https:\/\/blog.naver.com\/loveacrc",
+			"postdate":"20210728"
+		},
+		{
+			"title":"산림청, 산림교육센터 숲 교육 교원 <b>직무<\/b>연수… 7~8월 33개... ",
+			"link":"https:\/\/blog.naver.com\/coq?Redirect=Log&logNo=222420670086",
+			"description":"3일 <b>숙박<\/b> 일정으로 진행돼 숲에서 휴식을 동시에 찾는 교원들에게 많은 인기를 얻을 것으로 기대된다. 연수 참여를 희망하는 교원은 산림청 누리집에서 프로그램, 신청날짜 등 기관별 <b>직무<\/b>연수 계획을 확인해 각... ",
+			"bloggername":"coq",
+			"bloggerlink":"https:\/\/blog.naver.com\/coq",
+			"postdate":"20210705"
+		},
+		{
+			"title":"직업정보 - <b>숙박<\/b>시설 전화교환원",
+			"link":"https:\/\/blog.naver.com\/lovesmcom?Redirect=Log&logNo=222607371672",
+			"description":"수행<b>직무<\/b> <b>숙박<\/b>시설전화교환원은 <b>숙박<\/b>시설 투숙객의 요구사항을 접수받고, 이 내용을 관련 부서에 알려 투숙객이 원하는 서비스가 지원될 수 있도록 돕는 일을 합니다. 예를 들어, 투숙객이 객실에 있는 에어컨... ",
+			"bloggername":"광명 ★ 신명디자인컴퓨터학원 \/ 신명컴퓨터학원 ★",
+			"bloggerlink":"https:\/\/blog.naver.com\/lovesmcom",
+			"postdate":"20211229"
+		},
+		{
+			"title":"<b>직무<\/b>분석, 한국관광공사",
+			"link":"https:\/\/blog.naver.com\/behumble0131?Redirect=Log&logNo=222817885334",
+			"description":"#한국관광공사 #<b>직무<\/b>분석 한국관광공사가 하는 사업: “여행하기 좋은 나라를 만드는 글로벌... 관광수용태새 개선: -관광산업 활성화 기반 강화(<b>숙박<\/b>, 음식, 교통, 관광지) -인프라 개선을 통한 전문 인력... ",
+			"bloggername":"Stay Humble, 겸손하게",
+			"bloggerlink":"https:\/\/blog.naver.com\/behumble0131",
+			"postdate":"20220719"
+		},
+		{
+			"title":"[관광인 서포터즈 5기] 관광인 <b>직무<\/b>, 어디까지 알고 있니?#1",
+			"link":"https:\/\/blog.naver.com\/gmj2980?Redirect=Log&logNo=222780766237",
+			"description":"이렇게 오늘은 관광인 <b>직무<\/b> 중 여행, 호텔 및 <b>숙박<\/b>, 항공 및 객실 서비스와 관련된 직업을 알아보았습니다 여러분이 흔히 알고 계시는 <b>직무<\/b>들도 있을테고 새롭게 알게되는 <b>직무<\/b>들도 있을 것 같아요... ",
+			"bloggername":"Everything will be alright",
+			"bloggerlink":"https:\/\/blog.naver.com\/gmj2980",
+			"postdate":"20220620"
+		},
+		{
+			"title":"이런 어처구니가 없는 일이? <b>숙박<\/b>시설에 투기세력이 넘친다고?",
+			"link":"https:\/\/blog.naver.com\/hotelnews?Redirect=Log&logNo=222515134238",
+			"description":"어떤 식으로든 더 많은 세금을 거두어들여야 하는 정부가 가만히 있는 것은 <b>직무<\/b>유기일 수 있다. 생활형 <b>숙박<\/b>시설도 <b>숙박<\/b>업은 <b>숙박<\/b>업이다. 분양형 호텔의 다른 모습일 뿐이다. 단기 임대를 준 객실을 제외하고... ",
+			"bloggername":"숙박신문사",
+			"bloggerlink":"https:\/\/blog.naver.com\/hotelnews",
+			"postdate":"20210924"
+		},
+		{
+			"title":"[강원랜드 면접] 카지노 딜러 <b>직무<\/b>역량질문 및 토론면접 대비법",
+			"link":"https:\/\/blog.naver.com\/hellstudy?Redirect=Log&logNo=222747906031",
+			"description":"[조직적합도] 지원한 분야의 <b>직무<\/b>와 관련하여 경력(경험)에 대한 본인의 담당<b>직무<\/b>, 역할 및 구체적 행동, 주요성과에 대하여 작성하고, 이 경력(경험)을 당사 채용<b>직무<\/b>에 어떻게 활용할 것인지 기술해 주십시오.... ",
+			"bloggername":"루멘 블로그 Nil Desperandum",
+			"bloggerlink":"https:\/\/blog.naver.com\/hellstudy",
+			"postdate":"20220526"
+		},
+		{
+			"title":"목적, 현장실습 받은 경우에 한해 호텔 등 관광<b>숙박<\/b>시설 고용 허용",
+			"link":"https:\/\/blog.naver.com\/mogefkorea?Redirect=Log&logNo=222211351488",
+			"description":"청소년도 일학습병행 목적, 현장실습 받은 경우에 한해 호텔 등 관광<b>숙박<\/b>시설 고용 허용 - 청소년... 제외 <b>직무<\/b>(객실서비스 등)를 명시하고(‘20년 현장실습매뉴얼 기 반영, 교육부), 기업현장교사*, 직업계고... ",
+			"bloggername":"여성가족부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mogefkorea",
+			"postdate":"20210119"
+		},
+		{
+			"title":"멘토링 일본] 외국인으로서 회사 생활과 생산관리 <b>직무<\/b>에 대하여",
+			"link":"https:\/\/blog.naver.com\/hrdkorea2020?Redirect=Log&logNo=222570680973",
+			"description":"생산관리 <b>직무<\/b>에 관하여 이야기를 해보려고 합니다. 본 글에서 작성한 부분들은 제 개인적인 경험에... 일본에 들어올 때 회사에서 입국 비행기, 입국 시간이 늦으니 당일 <b>숙박<\/b>할 호텔을 예약해 주었고 거주할... ",
+			"bloggername":"월드잡플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/hrdkorea2020",
+			"postdate":"20211121"
+		},
+		{
+			"title":"22년 하계 국토안전관리원 연계 「KALIS <b>직무<\/b>역량강화... ",
+			"link":"https:\/\/blog.naver.com\/sjh69789?Redirect=Log&logNo=222802835717",
+			"description":"국토안전관리원 연계 「KALIS <b>직무<\/b>역량강화 캠프」 에 참여해보자 (๑•̀ᴗ-) ◦일시 : 22. 8. 9.(화) ~ 8. 12.(금), 3박 4일 ◦장소 : 국토안전관리원 인재교육관 ※ (<b>숙박<\/b>) 진주 뉴라온스테이호텔 ◦운영방식... ",
+			"bloggername":"홍보서포터즈입니댱 =3",
+			"bloggerlink":"https:\/\/blog.naver.com\/sjh69789",
+			"postdate":"20220707"
+		},
+		{
+			"title":"22년 하계 국토안전관리원 연계 KALIS <b>직무<\/b>역량강화 캠프",
+			"link":"https:\/\/blog.naver.com\/smart-usg?Redirect=Log&logNo=222804711613",
+			"description":"의미있는 하계방학을 위해 노력하겠습니다 ◦ 프로그램: 국토안전관리원 연계 「KALIS <b>직무<\/b>역량강화 캠프」 ◦ 일 시: ’22. 8. 9.(화) ~ 8. 12.(금), 3박 4일 ◦ 장 소: 국토안전관리원 인재교육관 ※ (<b>숙박<\/b>) 진주... ",
+			"bloggername":"USG교육센터(경상국립대)",
+			"bloggerlink":"https:\/\/blog.naver.com\/smart-usg",
+			"postdate":"20220708"
+		},
+		{
+			"title":"<b>직무<\/b>수행계획서 예술여행센터 분야 작성법 강좌",
+			"link":"https:\/\/blog.naver.com\/mdmanse?Redirect=Log&logNo=222685625542",
+			"description":"<b>직무<\/b>수행계획서 작성법 강좌로 예술여행센터 운영 및 관리에 관한 작성법 강좌입니다. 생소하게 들리실... 관광객이 유입되면 지역에 있는 음식점, <b>숙박<\/b>시설, 놀이시설 등, 이용하겠죠? 그렇게 되면 지역... ",
+			"bloggername":"DMF",
+			"bloggerlink":"https:\/\/blog.naver.com\/mdmanse",
+			"postdate":"20220329"
+		},
+		{
+			"title":"직업계고 채용연계형 <b>직무<\/b>교육과정 지원 사업",
+			"link":"https:\/\/blog.naver.com\/ysth_news?Redirect=Log&logNo=222708499430",
+			"description":"원하는 <b>직무<\/b>능력 변화 등에 대응하도록 교육서비스도 변화가 요구되어, - 기업 맞춤형... 호텔·리조트서비스 <b>숙박<\/b>, 접객, 기타 서비스원 등 리츠칼튼, 서울밀레니엄 힐튼호텔, 르네상스 서울호텔 등... ",
+			"bloggername":"서인고 꿈이루미",
+			"bloggerlink":"https:\/\/blog.naver.com\/ysth_news",
+			"postdate":"20220422"
+		},
+		{
+			"title":"[<b>직무<\/b> 공통역량 강화과정]곤지암리조트,화담숲 힐링캠퍼스... ",
+			"link":"https:\/\/blog.naver.com\/tauen2000?Redirect=Log&logNo=222559990359",
+			"description":"#<b>직무<\/b>공통역량강화 #HRD #곤지암리조트 #화담숲 #화담숲힐링캠퍼스 #힐링숲 #산림치유프로그램 #직장인... 16(수) 교육장 장소: 곤지암 리조트 EW빌리지 지하 1층 교육장 <b>숙박<\/b>: 곤지암 리조트 1일차: 조별 자기소개... ",
+			"bloggername":"연이의 굿커리어",
+			"bloggerlink":"https:\/\/blog.naver.com\/tauen2000",
+			"postdate":"20211106"
+		},
+		{
+			"title":"[안내] 인성교육 연구 <b>직무<\/b>연수 연수생분들께 몇가지 안내",
+			"link":"https:\/\/blog.naver.com\/gtdaniel?Redirect=Log&logNo=222617532781",
+			"description":"집합연수(1기) 때 연수원 근처에서 <b>숙박<\/b>을 하시는 선생님 집합 연수 기간에 거리문제로 연수원 근처에서 2박 3일간 <b>숙박<\/b>을 하시는 분들이 계셨는데요. 먼거리에서 <b>숙박<\/b>으로 이번 연수에 참여하시는 선생님 현황... ",
+			"bloggername":"아이들 영혼을 만지는 예둘샘의 전학공 수업.현장연구",
+			"bloggerlink":"https:\/\/blog.naver.com\/gtdaniel",
+			"postdate":"20220110"
+		},
+		{
+			"title":"[210501] 한국관광공사 필기시험 후기(NCS, 경영학)",
+			"link":"https:\/\/blog.naver.com\/xowhdeo3151?Redirect=Log&logNo=222694355754",
+			"description":"이번에도 전날 서울 가서 하루 <b>숙박<\/b>했구요!! <b>직무<\/b>능력평가-경영학(40문제\/50분) 한국관광공사는 전공시험을 NCS보다 먼저 치는 게 좋아요ㅎㅎ NCS 는 50분 내내 전력을 다해 집중해야 하는 시험인데... ",
+			"bloggername":"Cherish&apos;s",
+			"bloggerlink":"https:\/\/blog.naver.com\/xowhdeo3151",
+			"postdate":"20220407"
+		},
+		{
+			"title":"호텔 건축주가 꼭 알아야 할 상식- 호텔경영의 기능과 <b>직무<\/b> 및... ",
+			"link":"https:\/\/blog.naver.com\/hmss9698?Redirect=Log&logNo=222628715931",
+			"description":"기능과 <b>직무<\/b>에 따른 호텔경영의 전략을 제시 합니다. 호텔경영을 개시하기 전에 호텔사업승인... (Bellman) : <b>숙박<\/b>을 위한 고객 체크인의 보조, 퇴숙을 하고자 하는 고객의 수하물 운반과 안내, 수하물의... ",
+			"bloggername":"hmss9698님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hmss9698",
+			"postdate":"20220122"
+		},
+		{
+			"title":"기업교육컨설팅 <b>직무<\/b>교육센터 만족도1위 코리아에듀",
+			"link":"https:\/\/blog.naver.com\/ashacs1?Redirect=Log&logNo=221194751729",
+			"description":"및 <b>숙박<\/b>시설 38여곳, 수도권 165개 영업매장을 대상으로 방문모니터링 및 코칭교육 진행 예정에 있습니다. 이렇게 코리아에듀 <b>직무<\/b>교육센터에서는 일반 출강교육을 물론이고, 고객감동 활동 기반의 CS표준화 및... ",
+			"bloggername":"[코리아에듀]▶️기업교육&컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/ashacs1",
+			"postdate":"20180127"
+		},
+		{
+			"title":"포스트코로나, <b>숙박<\/b> 판매의 대세는 구글호텔? #위클리온 #vol.43",
+			"link":"https:\/\/blog.naver.com\/bethehost?Redirect=Log&logNo=222475000789",
+			"description":"안녕하세요 :) <b>숙박<\/b>산업의 디지털화를 선도하는 <b>숙박<\/b> B2B 플랫폼 ONDA입니다. 당신에게 찾아ON <b>숙박<\/b>업... ONDA는 학생들의 진로에 도움을 주고자 미림 마이스터 고등학교와 MOU를 체결하여 개발 <b>직무<\/b>를 희망하는... ",
+			"bloggername":"온다(ONDA) - 숙박업 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/bethehost",
+			"postdate":"20210819"
+		},
+		{
+			"title":"<b>숙박<\/b>협회, 중대재해처벌법 소상공인 적용 반대 기자회견",
+			"link":"https:\/\/blog.naver.com\/hotelnews?Redirect=Log&logNo=222212498980",
+			"description":"<b>숙박<\/b>협회, 중대재해처벌법 소상공인 적용 반대 기자회견 “법 적용을 받으면 예비범법자가 되어... 이어 김임용 소공연 회장<b>직무<\/b>대행도 “중대재해처벌법이 국회 법사위 처리를 앞두고 있는 상황에서... ",
+			"bloggername":"숙박신문사",
+			"bloggerlink":"https:\/\/blog.naver.com\/hotelnews",
+			"postdate":"20210119"
+		},
+		{
+			"title":"[<b>직무<\/b>에디터] <b>직무<\/b>인터뷰 6탄 : ICT사업부 디자인팀",
+			"link":"https:\/\/blog.naver.com\/uniess1208?Redirect=Log&logNo=222742629686",
+			"description":"이번 <b>직무<\/b>인터뷰 6탄에서는 ICT사업부 파트의 마지막을 장식할 디자인팀의 인터뷰를 가져왔습니다!... <b>숙박<\/b>대전과 같은 기획전이나 여행 코스 등의 콘텐츠를 작업할 때는 개인 여행에 대한 정보를 얻기도... ",
+			"bloggername":"유니에스Inc. 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/uniess1208",
+			"postdate":"20220523"
+		},
+		{
+			"title":"마케팅 <b>직무<\/b> 2주차 후기  _ 기업 분석 방법, <b>직무<\/b>역량강화교육... ",
+			"link":"https:\/\/blog.naver.com\/jalia2000?Redirect=Log&logNo=222804997616",
+			"description":"공통적으로 <b>직무<\/b>관련 경험을 가장 중요한 평가항목으로 뽑았답니다. <b>직무<\/b>관련 경험을 하려면 <b>직무<\/b>... 정서적인 만족감 전달 ex) 다른 곳에서는 해보지 못한 색다른 경험 (에어비앤비-다른 <b>숙박<\/b> 서비스에서는... ",
+			"bloggername":"ᴅᴀɪʟʏ ʟᴏɢ. ‧₊˚",
+			"bloggerlink":"https:\/\/blog.naver.com\/jalia2000",
+			"postdate":"20220708"
+		},
+		{
+			"title":"알아두면 쓸모있는! 산업분야와 5대<b>직무<\/b>, ncs 국가<b>직무<\/b>능력표준",
+			"link":"https:\/\/blog.naver.com\/youthjobs?Redirect=Log&logNo=222656705169",
+			"description":"안녕하세요 여러분, 오늘은 ncs 국가<b>직무<\/b>능력표준 에 따른 산업분야에 대해 안내드리겠습니다. ncs... 이용 <b>숙박<\/b> 여행 오락 스포츠 음식서비스 건설 기계 재료 화학 바이오 섬유 의복 전기 전자 정보통신... ",
+			"bloggername":"청년취업공작소",
+			"bloggerlink":"https:\/\/blog.naver.com\/youthjobs",
+			"postdate":"20220224"
+		},
+		{
+			"title":"국립경상대학교 <b>직무<\/b>분석과 취업 제조업의 이해",
+			"link":"https:\/\/blog.naver.com\/snlbsh?Redirect=Log&logNo=222705604605",
+			"description":"벌써 7주차 수업, 6주까진 다양한 <b>직무<\/b>와 관련된 이야기를 진행했다면 이번주부터는 산업군. 공기업.... <b>숙박<\/b> 교육등을 말합니다. 출처 : 산업은행 코로나 이후 제조업의 중요성이 더 대두되고 있죠. 미국의 사례.... ",
+			"bloggername":"SH 에듀",
+			"bloggerlink":"https:\/\/blog.naver.com\/snlbsh",
+			"postdate":"20220419"
+		},
+		{
+			"title":"[ NH농협손해보험 ] 디지털 <b>직무<\/b> 필기 후기",
+			"link":"https:\/\/blog.naver.com\/hrwjdtor?Redirect=Log&logNo=222606189297",
+			"description":"2021 하반기 농협손해보험 디지털 <b>직무<\/b> 필기 후기 BC카드 서합하고 AI탈락 이후, AI면탈의 이유를 잘... 당시, <b>숙박<\/b>대전 행사를 하고 있었어서 전날 다른 농협계열사 시험을 치는 후배와 인당 6천원에... ",
+			"bloggername":"Youngprize.삼삼",
+			"bloggerlink":"https:\/\/blog.naver.com\/hrwjdtor",
+			"postdate":"20211227"
+		},
+		{
+			"title":"[엔지닉X수원대] 반도체 공정 실습으로 <b>직무<\/b> 역량 강화하기... ",
+			"link":"https:\/\/blog.naver.com\/rkdcofla14?Redirect=Log&logNo=222796897892",
+			"description":"저는 서울에 살지만 편도만 2시간 이상이 걸렸기 때문에 수원에 <b>숙박<\/b>을 잡아서 3일동안 다녔습니다.... 교수님의 <b>직무<\/b> 정리를 들어야 했기 때문에 마지막으로 공정실습하는 것이 좋습니다.)... ",
+			"bloggername":"L.O.V.E",
+			"bloggerlink":"https:\/\/blog.naver.com\/rkdcofla14",
+			"postdate":"20220702"
+		},
+		{
+			"title":"공기업에 취직하고 싶다면? NCS기반 공무직 <b>직무<\/b>이해 교육!",
+			"link":"https:\/\/blog.naver.com\/nkrf_blog?Redirect=Log&logNo=221591966350",
+			"description":"최근 공공기관 공채는 출신지나 가족관계, 학력, 외모 등과 관계없이 개인의 적성과 <b>직무<\/b>능력만을... 이용·<b>숙박<\/b>·여행·오락·스포츠, 음식서비스, 건설, 기계, 재료, 화학, 섬유·의복, 전기·전자, 정보통신... ",
+			"bloggername":"남북하나재단 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/nkrf_blog",
+			"postdate":"20190722"
+		},
+		{
+			"title":"능력중심사회 구현을 위해 관광<b>숙박<\/b>(호텔업)분야 산업계, 교육... ",
+			"link":"https:\/\/blog.naver.com\/molab_suda?Redirect=Log&logNo=220868063471",
+			"description":"또한 전국가사․실업계고등학교장회, 한국전문대학교육협의회, 한국관광협회, 한국호텔외식관광경영학회는 관광<b>숙박<\/b>(호텔업) 분야의 <b>직무<\/b>에 적합한 교육훈련 설계를 위한 자문, 실습을 위한 기업과 교육... ",
+			"bloggername":"고용노동부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/molab_suda",
+			"postdate":"20161122"
+		},
+		{
+			"title":"다리를 다친사고에서, <b>직무<\/b>수행중 사고로 보험사면책인지(적극)",
+			"link":"https:\/\/blog.naver.com\/smart4season?Redirect=Log&logNo=222813579813",
+			"description":"9.까지 전북 고창군 상하면 자룡리 소재 구시포시해수욕장 부근 펜션에 <b>숙박<\/b>하였는데, 2018. 12. 8. 15... 피보험자의 <b>직무<\/b>수행으로 인한 배상책임 위와 같이 이 사건 보험계약의 가족일상생활중배상책임... ",
+			"bloggername":"보험소비자와 함께 바라보는 새로운 시선",
+			"bloggerlink":"https:\/\/blog.naver.com\/smart4season",
+			"postdate":"20220716"
+		},
+		{
+			"title":"<b>직무<\/b>분석 및 직업정보-건축구조기술자",
+			"link":"https:\/\/blog.naver.com\/kth7405?Redirect=Log&logNo=222744435169",
+			"description":"1.<b>직무<\/b>개요 ● 건축물의 공간 및 형태를 안전하고 경제적으로 구축하도록 기초 및 구조시스템, 주요... 문화시설, <b>숙박<\/b>시설, 레저시설 등에 대한 수요 증가 등도 건축공학기술자의 일자리를 늘릴 것이다. 특히... ",
+			"bloggername":"취업&진로&심리",
+			"bloggerlink":"https:\/\/blog.naver.com\/kth7405",
+			"postdate":"20220709"
+		},
+		{
+			"title":"<b>직무<\/b>수행계획서 작성법 강원랜드 전략본부장 및 안전실장 분야... ",
+			"link":"https:\/\/blog.naver.com\/mdmanse?Redirect=Log&logNo=222674889476",
+			"description":"이번 취업서류 포스트는 <b>직무<\/b>수행계획서 작성법으로 강원랜드 전략본부장 및 안전실장 분야입니다.... 또한 강원도에 많은 관광객이 유입되기 때문에 지역에 있는 음식점, 놀이시설, <b>숙박<\/b>시설 등 더불어 함께... ",
+			"bloggername":"DMF",
+			"bloggerlink":"https:\/\/blog.naver.com\/mdmanse",
+			"postdate":"20220317"
+		},
+		{
+			"title":"한국능률협회에서 <b>직무<\/b>교육 들은 후기",
+			"link":"https:\/\/blog.naver.com\/pih5573?Redirect=Log&logNo=222705310014",
+			"description":"#한국능률협회 #KMA공개교육 #KMA #수요만족도조사기획및통계분석실무 #4월18일 #4월19일 여의도 한국능률협회에서 <b>직무<\/b>교육을 들었습니다 지방에서 올라간 거라 글래드 호텔에서 2박 <b>숙박<\/b>을 하였는데 왠지 이... ",
+			"bloggername":"nowhere",
+			"bloggerlink":"https:\/\/blog.naver.com\/pih5573",
+			"postdate":"20220419"
+		},
+		{
+			"title":"<b>직무<\/b>멘토링 : 참선진녹즙 기술연구소에서 일일 체험",
+			"link":"https:\/\/blog.naver.com\/nagbean?Redirect=Log&logNo=222731095223",
+			"description":"과정'에서 <b>직무<\/b>멘토링 체험 기회를 주셔서 참선진녹즙으로 다녀왔습니다. (선착순으로 20명 중 4명 다녀왔습니다) 저랑, 다른 교육생 2명도 집이 멀어서 전날에 청주터미널에서 하루 <b>숙박<\/b>했습니다 (자택에서... ",
+			"bloggername":"최쌤의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/nagbean",
+			"postdate":"20220513"
+		},
+		{
+			"title":"위반 과태료 부과사건 성공사례, 사회상규, <b>직무<\/b>관련성 여부",
+			"link":"https:\/\/blog.naver.com\/lawfirm_di?Redirect=Log&logNo=222492509969",
+			"description":"공직자등의 <b>직무<\/b>와 관련된 공식적인 행사에서 주최자가 참석자에게 통상적인 범위에서 일률적으로 제공하는 교통, <b>숙박<\/b>, 음식물 등의 금품등 7. 불특정 다수인에게 배포하기 위한 기념품 또는 홍보용품... ",
+			"bloggername":"심제원 변호사",
+			"bloggerlink":"https:\/\/blog.naver.com\/lawfirm_di",
+			"postdate":"20210902"
+		},
+		{
+			"title":"[충남\/보령] 한화리조트 대천파로스 <b>숙박<\/b> 후기 (feat.... ",
+			"link":"https:\/\/blog.naver.com\/jekim0820?Redirect=Log&logNo=222698964863",
+			"description":"바람에 저녁먹고 바로 숙소로 돌아와야 했다 <b>직무<\/b> 교육 때문에 충남 보령까지 와야 한다는 점이 교통 면에서 좀 불편하긴 했으나, 여행으로 오게 된다면 주변 <b>숙박<\/b>시설 고려해서 한화리조트에 묵을 것 같다.",
+			"bloggername":"섬 중의 섬 딤섬",
+			"bloggerlink":"https:\/\/blog.naver.com\/jekim0820",
+			"postdate":"20220412"
+		},
+		{
+			"title":"광역 및 시군 마을만들기 중간지원조직 상근자 상반기 <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/cnmaeul?Redirect=Log&logNo=222416379517",
+			"description":"당초 <b>직무<\/b>연수는 2박3일 <b>숙박<\/b>연수로 마을만들기 관계자들이 모여 공동학습과 토론을 진행하는 자리였지만, 코로나19 상황으로 인해 아쉽지만 강의형식으로만 진행되었습니다. 어서 빨리 백신도 맞고... ",
+			"bloggername":"충남마을만들기 지원센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/cnmaeul",
+			"postdate":"20210701"
+		},
+		{
+			"title":"NCS(국가<b>직무<\/b>능력표준) 분류 12: 이용 <b>숙박<\/b> 오락(2016)[씨마스]",
+			"link":"https:\/\/blog.naver.com\/gosimart?Redirect=Log&logNo=220570146027",
+			"description":"오분만 네일미용사 필기 CBT형 모의고사 NCS(국가<b>직무<\/b>능력표준) 분류 12: 이용 <b>숙박<\/b> 오락(2016)[씨마스] 저자명 : 마수진 , 강혜영, 박수정 지음 | 출판사 : 씨마스 | 발행일 : 1453215600 | 페이지 : 368 정가 25... ",
+			"bloggername":"온라인교육 플랫폼 캠버스에듀",
+			"bloggerlink":"https:\/\/blog.naver.com\/gosimart",
+			"postdate":"20151216"
+		},
+		{
+			"title":"재택근무 업무효율과 <b>직무<\/b>만족 모두 높게 나타나",
+			"link":"https:\/\/blog.naver.com\/molab_suda?Redirect=Log&logNo=222099239565",
+			"description":"재택근무를 운영하지 않는다는 응답은 <b>숙박<\/b> 및 음식점업(85.7%), 제조업(66.0%), 도매 및 소매업(63.8... &lt; 재택근무 활용 근로자 비율 &gt; (실시 범위) 특정 <b>직무<\/b>나 근로자 등 범위를 한정하여 재택근무를... ",
+			"bloggername":"고용노동부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/molab_suda",
+			"postdate":"20200925"
+		},
+		{
+			"title":"부정청탁금지법 금품등의 가액평가 - 골프접대, 회원제 <b>숙박<\/b>제... ",
+			"link":"https:\/\/blog.naver.com\/lawfirm119?Redirect=Log&logNo=222262769943",
+			"description":"오늘은 할인받은 선물이나 골프 접대, 회원제 <b>숙박<\/b> 제공, 상호간의 접대 등의 상황에서 금품등의 가액... 간 <b>직무<\/b>관련성이 없다면 1회 100만원, 매 회계연도 300만원 이하의 할인혜택을 받는 것은 청탁금지법상... ",
+			"bloggername":"로펌고우의 법률상담소",
+			"bloggerlink":"https:\/\/blog.naver.com\/lawfirm119",
+			"postdate":"20210303"
+		},
+		{
+			"title":"<b>직무<\/b>스트레스관리 힐링프로그램 - 하수희 강사",
+			"link":"https:\/\/blog.naver.com\/save07?Redirect=Log&logNo=221486492671",
+			"description":"1박2일 <b>숙박<\/b> 교육이셨다고 조금 피곤해하셨죠 제 강의시작 시간이 점심시간 이후라 강사에겐 마의... 해소는 <b>직무<\/b>가 끝난뒤에 시간.비용을 따로 투자해서 하는 경우가 많죠 우리는 실질적으로 <b>직무<\/b>에 관한... ",
+			"bloggername":"Soo consulting 기업교육.강사양성과정",
+			"bloggerlink":"https:\/\/blog.naver.com\/save07",
+			"postdate":"20190312"
+		},
+		{
+			"title":"NCS 별자리 - #7. 이용·<b>숙박<\/b>·여행·오락·스포츠 편",
+			"link":"https:\/\/blog.naver.com\/rornwlscjstk?Redirect=Log&logNo=222551177416",
+			"description":"이용·<b>숙박<\/b>·여행·오락·스포츠의 <b>직무<\/b>정의는 ‘미적욕구의 충족을 통해 정서적 만족감 및 자존감을 높이려는 고객에게 미용기기와 제품을 활용하여 샴푸, 헤어커트, 헤어펌, 헤어컬러, 두피·모발 관리... ",
+			"bloggername":"전달숙 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/rornwlscjstk",
+			"postdate":"20211028"
+		},
+		{
+			"title":"<b>직무<\/b>역량강화교육_친환경여행으로 떠나는 자연생태 관광지... ",
+			"link":"https:\/\/blog.naver.com\/ecosisters?Redirect=Log&logNo=222316342204",
+			"description":"제주하면~~환경운동연합~~ 그리고 제주녹색구매지원센터 방문~ Previous image Next image 제주 친환경여행 숙소 및 기타 제주에는 이제 호텔, <b>숙박<\/b>시설에서 1회용품 줄이기 운동에 동참하고 있다. 1회용 칫솔 등을... ",
+			"bloggername":"부산녹색구매지원센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/ecosisters",
+			"postdate":"20210420"
+		},
+		{
+			"title":"용봉산자연휴양림 <b>숙박<\/b>시설 청소관리 기간제 근로자를 다음과... ",
+			"link":"https:\/\/blog.naver.com\/sunsun5872?Redirect=Log&logNo=222832403109",
+			"description":"용봉산자연휴양림 <b>숙박<\/b>시설 청소관리 기간제 근로자를 다음과 같이 모집 공고합니다. 2022년 6월 16일... 신청서류 ○ 사업신청서 1부(첨부 양식) ○ 자기소개서 1부(첨부 양식) ○ <b>직무<\/b>수행계획서 1부(첨부... ",
+			"bloggername":"happy의 부동산 정보",
+			"bloggerlink":"https:\/\/blog.naver.com\/sunsun5872",
+			"postdate":"20220728"
+		},
+		{
+			"title":"[현대자동차]총무기획 <b>직무<\/b>\/자기소개서 항목 분석",
+			"link":"https:\/\/blog.naver.com\/employment91?Redirect=Log&logNo=222717718943",
+			"description":"각 <b>직무<\/b>들을 세세히 들여다보게 되면 사내행사\/VIP 의전 임직원들의 사내행사 기획, 대표적인... VIP의전의 경우, 방문차편 \/ 투어 \/ 오찬 의전 PT 준비 \/ 만찬 \/ <b>숙박<\/b> 등 그들의 시간을 1분이라도 지루함 없이... ",
+			"bloggername":"IN4 Employ",
+			"bloggerlink":"https:\/\/blog.naver.com\/employment91",
+			"postdate":"20220501"
+		},
+		{
+			"title":"판매서비스분야, 미용<b>숙박<\/b> 여행분야",
+			"link":"https:\/\/blog.naver.com\/helloyen?Redirect=Log&logNo=221069182010",
+			"description":"미용 <b>숙박<\/b> 여행분야 다양한 <b>직무<\/b> 이미용 ; 헤어 피부 네일 미용, 메이크업 이용 결혼 장례 ; 결혼 상담 웨딩플랜 예식장관리 웨딩이벤트, 장례지원 장례지도 관광 레저 : 여행 <b>숙박<\/b> 서비스, 컨벤션... ",
+			"bloggername":"작은세상큰행복",
+			"bloggerlink":"https:\/\/blog.naver.com\/helloyen",
+			"postdate":"20170808"
+		},
+		{
+			"title":"캠코, 공용재산취득사업 공무원 <b>직무<\/b>교육 실시",
+			"link":"https:\/\/blog.naver.com\/blogkamco?Redirect=Log&logNo=220668226580",
+			"description":"캠코, 공용재산취득사업 공무원 <b>직무<\/b>교육 실시 청․관사 건축 담당 공무원의 업무역량 강화 기대... kr)은 충남 아산에 위치하고 있으며 13만8700㎡(42,000평) 대지위에 300명 수용이 가능한 <b>숙박<\/b>시설, 1... ",
+			"bloggername":"캠코(한국자산관리공사) 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/blogkamco",
+			"postdate":"20160329"
+		},
+		{
+			"title":"<b>직무<\/b>소개 - 관광마이스 <b>직무<\/b>를 알아보자! 07. 호텔리어",
+			"link":"https:\/\/blog.naver.com\/alsseulsinjob57?Redirect=Log&logNo=222549859258",
+			"description":"안녕하세요 관광마이스인 여러분~~~(✿◡‿◡) 요즘 위드 코로나(단계적 일상회복)를 앞두고 관광업, 특히 그중 <b>숙박<\/b>업이 바빠지고 있죠! 그래서 오늘은 우리 많은 취준생 여러분이 궁금해 하는 호텔리어 <b>직무<\/b>를... ",
+			"bloggername":"부산알쓸신잡",
+			"bloggerlink":"https:\/\/blog.naver.com\/alsseulsinjob57",
+			"postdate":"20211028"
+		},
+		{
+			"title":"[대림대학교]해외어학연수와 <b>직무<\/b>연수를 한번에, 글로벌 잡... ",
+			"link":"https:\/\/blog.naver.com\/daelimuc?Redirect=Log&logNo=221809456932",
+			"description":"우리학교 학생들은 연수비교육비를 지원받아 어학 교육과 인턴십 기회가 제공되는 해외 <b>직무<\/b>연수를... 연수비용은 학교가 지원하는 내역은 현지교육비 , <b>숙박<\/b> 및 식비 (3식 중 2식) , 보험이고, 자비부담내역은... ",
+			"bloggername":"대림대학교 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daelimuc",
+			"postdate":"20200214"
+		},
+		{
+			"title":"【교원연수】 국립해양생물자원관 해양생물교육 <b>직무<\/b>연수 안내",
+			"link":"https:\/\/blog.naver.com\/mabik?Redirect=Log&logNo=221708336343",
+			"description":"무료(<b>숙박<\/b>, 식사 지원) □ 신청방법 ◦ 신청기간 : 2019. 12. 4.(수) 15:00까지 ※ 인원 미달시 기간 연장 ◦ 신청서류 : 해양생물교육 <b>직무<\/b>연수 신청서 1부(붙임 1) ◦ 신청방법 : 이메일(ksh2413@mabik.re.... ",
+			"bloggername":"국립해양생물자원관 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mabik",
+			"postdate":"20191115"
+		},
+		{
+			"title":"[언론보도자료]대동공업, 2018년 중소기업 <b>직무<\/b> 맞춤 무료... ",
+			"link":"https:\/\/blog.naver.com\/daedongblog?Redirect=Log&logNo=221188442124",
+			"description":"‘중소기업 근로자는 무료 <b>직무<\/b> 교육 신청하세요’ 대동공업, 2018년 중소기업 <b>직무<\/b> 맞춤 무료 교육생... 중소기업과 재직근로자는 모든 교과 과정에 있어 <b>숙박<\/b>까지 포함해 전액 무상으로 교육을 받을 수... ",
+			"bloggername":"대동 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daedongblog",
+			"postdate":"20180122"
+		},
+		{
+			"title":"2022년 상반기 국민건강보험공단 NCS<b>직무<\/b>기술서 한번에... ",
+			"link":"https:\/\/blog.naver.com\/runplusdev?Redirect=Log&logNo=222701619127",
+			"description":"오늘은 국민건강보험공단의 2022년 상반기 NCS<b>직무<\/b>기술서를 정리해드리겠습니다. 건보... 이용\/<b>숙박<\/b>\/여행\/오락\/스포츠 04.스포츠 03.스포츠경기\/지도 03.건강운동관리 전산직 : 6급가 ①... ",
+			"bloggername":"온라인 교육기관 러닝플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/runplusdev",
+			"postdate":"20220415"
+		},
+		{
+			"title":"17.11.20 <b>직무<\/b>교육장으로 향하는 길",
+			"link":"https:\/\/blog.naver.com\/shenaneco?Redirect=Log&logNo=221144659591",
+			"description":"일주일간의 <b>직무<\/b>교육을 위해 신한대로 떠나는 날이었기 때문이다. 어제 짐을 미리 좀 정리를 해서... 뭔가 시골 <b>숙박<\/b>시설 같은 느낌이 들었다. 그래도 생각했던 것 보단 나쁘지는 않았다. 냉장고도 있고 TV도 있고.... ",
+			"bloggername":"게으른 넬곰이의 부지런한 여행",
+			"bloggerlink":"https:\/\/blog.naver.com\/shenaneco",
+			"postdate":"20171121"
+		},
+		{
+			"title":"[취업지원프로그램] 기업맞춤형 <b>직무<\/b>교육 &apos;룸메이드&apos; 교육생 모집",
+			"link":"https:\/\/blog.naver.com\/nyjnavi?Redirect=Log&logNo=222349102450",
+			"description":"대명콘도 및 <b>숙박<\/b>시설 등에서 룸메이드로 활약하실 수 있도록 <b>직무<\/b>에 대한 이해와 필요한 역량 강화를 돕는 교육 프로그램입니다. 룸메이드 <b>직무<\/b>에 대해 관심을 가지고 새로운 일자리를 찾는... ",
+			"bloggername":"남양주일자리센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/nyjnavi",
+			"postdate":"20210513"
+		},
+		{
+			"title":"중소기업 청년 <b>직무<\/b> 체험 프로그램 자격 조건 및 지원 내용 정리",
+			"link":"https:\/\/gegulacgi0001.tistory.com\/511",
+			"description":"원(<b>숙박<\/b> 시 17만 원) 사업비 지원, 2 유형 프로그램 참여 청년 1인당 1일 10만 원 사업비, 1인당 20만 원 인센티브 지원 기업 멘토링 비용 1인당 10만 원 지원(체험기업) 중소기업 청년 <b>직무<\/b>체험 프로그램 사업... ",
+			"bloggername":"정보 네트워크",
+			"bloggerlink":"https:\/\/gegulacgi0001.tistory.com\/",
+			"postdate":"20220612"
+		},
+		{
+			"title":"[야놀자] 야놀자 영업\/<b>숙박<\/b>컨설턴트 면접 리뷰!",
+			"link":"https:\/\/blog.naver.com\/blu0411?Redirect=Log&logNo=221223087531",
+			"description":"야놀자 타워는 삼성역과 선릉역 사이에 있습니다 여기 지도 첨부했구요이제부터 면접 리뷰 해보겠습니당 제가 알아본 결과 영업\/<b>숙박<\/b>컨설턴트 <b>직무<\/b> 채용은 약 50명 정도 온다고 합니다!30분 간격으로 5명씩... ",
+			"bloggername":"감자의 블로그입니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/blu0411",
+			"postdate":"20180306"
+		},
+		{
+			"title":"[취뽀 (취업뽀개기) : NCS] 국가 <b>직무<\/b> 능력 표준에 대해서... ",
+			"link":"https:\/\/blog.naver.com\/ihannam?Redirect=Log&logNo=221487474422",
+			"description":"NCS란 National Competency Standards 의 줄임말로, 국가<b>직무<\/b>능력표준이라는 개념을 의미합니다. 즉, 사람이... 이용·<b>숙박<\/b>·여행·오락·스포츠 13. 음식 서비스 14. 건설 15. 기계 16. 재료 17. 화학 18. 섬유·의복 19. 전기... ",
+			"bloggername":"대전 · 충청 1등 사립대학, 한남대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ihannam",
+			"postdate":"20190313"
+		},
+		{
+			"title":"# 영어수업성장학습공동체 <b>직무<\/b>연수 참여 - 더 나은 나로 성장하기",
+			"link":"https:\/\/blog.naver.com\/blacks2angel?Redirect=Log&logNo=221275124762",
+			"description":"초등 영어수업성장학습공동체 <b>직무<\/b>연수 하지만 아이가 자다 깨서 나를 찾아 울어서 아무리 생각해도 <b>숙박<\/b>은 못할것 같아서 미리 장학사님께 전화해서 양해를 구했더니 외박달고 갔다가 오면 될것 같다는... ",
+			"bloggername":"리치아야네 꿈 놀이터",
+			"bloggerlink":"https:\/\/blog.naver.com\/blacks2angel",
+			"postdate":"20180514"
+		},
+		{
+			"title":"2018 새로운 학교 아카데미 교(원)감 리더십 역량강화 <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/sje_go_kr?Redirect=Log&logNo=221358265114",
+			"description":"역량강화 <b>직무<\/b>연수」를 운영한다고 밝혔다. 이번 연수는 세종특별자치시 교(원)감 65명을 대상으로 한국문화연수원(충남 공주시 사곡면 소재)에서1박 2일 <b>숙박<\/b>연수로 진행되며, 세종교육의 비전과 지표를... ",
+			"bloggername":"세종시교육청",
+			"bloggerlink":"https:\/\/blog.naver.com\/sje_go_kr",
+			"postdate":"20180913"
+		},
+		{
+			"title":"자연환경해설사 <b>직무<\/b>연수 경남환경교육원~비자림,올레6길... ",
+			"link":"https:\/\/blog.naver.com\/cyy386?Redirect=Log&logNo=221157474701",
+			"description":"자연환경해설사 <b>직무<\/b>연수 둘째날 비자림숲에 위치한 청소년수련관에서 <b>숙박<\/b>을 하고 이른 아침 남편과 함께 비자림숲 산책에 나섰습니다. 여섯시 반에 나섰는데 깜깜해서 앞이 잘 보이지 않더라구요.... ",
+			"bloggername":"청아생태농장",
+			"bloggerlink":"https:\/\/blog.naver.com\/cyy386",
+			"postdate":"20171207"
+		},
+		{
+			"title":"선배들의 <b>직무<\/b>·직종 경험담을 들어볼 수 있는 2019 취업 멘토... ",
+			"link":"https:\/\/blog.naver.com\/ulsan-namgu?Redirect=Log&logNo=221565828003",
+			"description":"(목) 울산지역 기업 채용 동향 심미정 ※울산대학교 취업지원 담당 10년 2 7월 중 문화·방송·예술·디자인 10년 이상 <b>직무<\/b>·직종 직업경력을 가진 취업 멘토 3 9월 중 서비스 분야(음식·<b>숙박<\/b>·여행... ",
+			"bloggername":"울산광역시 남구",
+			"bloggerlink":"https:\/\/blog.naver.com\/ulsan-namgu",
+			"postdate":"20190620"
+		},
+		{
+			"title":"[서울경제]교양교육만 넘치고 <b>직무<\/b> 훈련은 없는 노인 직업교육",
+			"link":"https:\/\/blog.naver.com\/cabingirl?Redirect=Log&logNo=221081938036",
+			"description":"구인업체의 근무환경과 <b>직무<\/b>내용을 반영해 교육과정을 편성하는 등 기업 주도의 실무교육이 활성화돼야 하는 까닭이다. 실제로 <b>숙박<\/b>업체 야놀자는 업계에서 이례적으로 평생교육원을 운영해 1석2조의... ",
+			"bloggername":"평생학습과 실버산업의 만남【With 박태희】",
+			"bloggerlink":"https:\/\/blog.naver.com\/cabingirl",
+			"postdate":"20170825"
+		},
+		{
+			"title":"호텔경영학과 인턴십 운영으로 <b>직무<\/b>능력 향상",
+			"link":"https:\/\/blog.naver.com\/diloy02?Redirect=Log&logNo=221537324194",
+			"description":"있고, <b>직무<\/b>상에 따라 요구되는 전공도 다르다 는걸 알게 되었어요. 이에 맞춰 호텔경영학과에서는 서비스에 대한 부분에서부터 <b>숙박<\/b> 시설 고객들의 다양한 수요를 만족시키기 위한 것과 서비스의 질을 높이기... ",
+			"bloggername":"데일리",
+			"bloggerlink":"https:\/\/blog.naver.com\/diloy02",
+			"postdate":"20190514"
+		},
+		{
+			"title":"놀이문화 활성화 지원단 역량강화 <b>직무<\/b>연수 in... ",
+			"link":"https:\/\/blog.naver.com\/kingofnsb?Redirect=Log&logNo=221596235315",
+			"description":"놀이문화 활성화 지원단 역량강화 <b>직무<\/b>연수 in 산청한방가족호텔 (주제:아이들의 마음을 얻는 공동체... <b>숙박<\/b>을 하면서 놀이 연수를 해보고 싶다. 하나의 큰 맥락 속에서 기승전결이 있는 형태로 준비해보고... ",
+			"bloggername":"함께 있어 행복한 우리",
+			"bloggerlink":"https:\/\/blog.naver.com\/kingofnsb",
+			"postdate":"20190726"
+		},
+		{
+			"title":"수요일 오후만 되면 직원들이 사라진다는데… <b>숙박<\/b> 예약 1위... ",
+			"link":"https:\/\/blog.naver.com\/jobarajob?Redirect=Log&logNo=220904319777",
+			"description":"“놀아봐야 '노는 판'도 제대로 깔죠” <b>숙박<\/b> 예약 서비스 업계 1위 노는 수요일·자율출퇴근제... 서류전형 - 1차 <b>직무<\/b> 수행능력 평가 - 2차 실무평가-2차 다면평가-최종 합격 순입니다. 필기시험은 없이 1.2차... ",
+			"bloggername":"1등 취업정보 jobsN",
+			"bloggerlink":"https:\/\/blog.naver.com\/jobarajob",
+			"postdate":"20170106"
+		},
+		{
+			"title":"[노랑풍선 채용] 여행사 채용 합격 자소서, <b>직무<\/b>인터뷰 합격... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221371426414",
+			"description":"이야기 <b>직무<\/b> 인터뷰를 통해 여행사 취업 준비하기:) ■ [모두투어네트워크] 지영근&amp;이동원&amp;백정렬 #1. 담당하고 있는 업무는? 중국 사업부 패키지 1팀 소속으로 상품 수배업무를 하고 있습니다. 비자, <b>숙박<\/b>... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20181005"
+		},
+		{
+			"title":"직원교육 <b>직무<\/b>교육 워크숍 KSA 표준협회 인재개발원 숙소",
+			"link":"https:\/\/blog.naver.com\/dearricky?Redirect=Log&logNo=221703113590",
+			"description":"&lt;KSA 한국표준협회 인재개발원 _ 경기 안성 연수원 한국표준협회 _ 직원교육 <b>직무<\/b>교육 워크숍... 끝났기에 <b>숙박<\/b>을 했습니다. 강의만 하러 왔던 적은 예전에 있었어도 1박 머물렀던 적은 이번이... ",
+			"bloggername":"기획보고발표 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/dearricky",
+			"postdate":"20191110"
+		},
+		{
+			"title":"국제청소년성취포상제 포상담당관 <b>직무<\/b>교육 마무리",
+			"link":"https:\/\/blog.naver.com\/yksjehej?Redirect=Log&logNo=220306191629",
+			"description":"국제청소년성취포상제 포상담당관 <b>직무<\/b>교육 마무리 국제청소년성취포상제 포상담당관 <b>직무<\/b>교육이... 2011년 3월 2일에 새롭게 문을 연 '하이서울유스호스텔'은 안전한 <b>숙박<\/b>시설을 제공할 뿐 아니라, 다양한... ",
+			"bloggername":"마켓, 쇼핑몰 일대일 교육",
+			"bloggerlink":"https:\/\/blog.naver.com\/yksjehej",
+			"postdate":"20150320"
+		},
+		{
+			"title":"어린이날 키자니아 할인과 호텔 <b>숙박<\/b>을 동시에! 롯데호텔... ",
+			"link":"https:\/\/blog.naver.com\/lotte_hotels?Redirect=Log&logNo=220684299413",
+			"description":"키자니아 부산 내에는 롯데호텔의 다양한 서비스와 <b>직무<\/b>를 체험해볼 수 있는 체험관이 운영되고 있는데요. 호텔리어 체험과 롯데호텔 <b>숙박<\/b>을 동시에 경험한다면, 호텔리어를 꿈꾸는 아이들에게 더 큰... ",
+			"bloggername":"롯데호텔앤리조트 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/lotte_hotels",
+			"postdate":"20160415"
+		},
+		{
+			"title":"공공기관 현장 매니저 교육 _ 충북 연수원 <b>직무<\/b>교육 강사... ",
+			"link":"https:\/\/blog.naver.com\/dearricky?Redirect=Log&logNo=221543328056",
+			"description":"&lt;공공기관 현장 매니저 교육 _ 충북 연수원 <b>직무<\/b>교육 강사 _ 직원교육 연수원 출강 보고서 작성... 하루 전날 가서 <b>숙박<\/b>하느냐 여부와 저녁에 또는 아침 일찍 어떤 교통편으로 이동을 할... ",
+			"bloggername":"기획보고발표 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/dearricky",
+			"postdate":"20190522"
+		},
+		{
+			"title":"[언론보도자료]대동공업, 중소기업 <b>직무<\/b> 맞춤 무료 교육생... ",
+			"link":"https:\/\/blog.naver.com\/daedongblog?Redirect=Log&logNo=221516903655",
+			"description":"‘중소기업인이라면 무료 교육으로 셀러던트 된다’ 대동공업, 중소기업 <b>직무<\/b> 맞춤 무료 교육생... 중소기업과 재직근로자는 모든 훈련 과정에 있어 <b>숙박<\/b>까지 포함해 전액 무상으로 교육을 받을 수 있으며... ",
+			"bloggername":"대동 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daedongblog",
+			"postdate":"20190418"
+		},
+		{
+			"title":"상반기 교육 일정 조정 워크숍 특강 _ 직원교육 강사섭외 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/dearricky?Redirect=Log&logNo=221823199316",
+			"description":"&lt;상반기 교육 일정 조정 워크숍 특강 _ 직원교육 강사섭외 <b>직무<\/b>교육 강사 _ 직원특강 HRD 인사교육... 오늘 취소 연기 요청을 주신 교육 중에는 연수원에서 대규모 인원이 <b>숙박<\/b>하는 교육도 있었는데... ",
+			"bloggername":"기획보고발표 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/dearricky",
+			"postdate":"20200224"
+		},
+		{
+			"title":"산업현장의 새로운 미래를 열어가는 &apos;국가<b>직무<\/b>능력표준... ",
+			"link":"https:\/\/upgrade-u.tistory.com\/2953",
+			"description":"기업들이 <b>직무<\/b>와 무관한 스펙을 배제시키고, 실제 기업이 필요로 하는 능력과 자질을 평가해... 이용·<b>숙박<\/b>·여행·오락·스포츠 4 12 44 13. 음식서비스 1 2 9 14. 건설 9 26 118 15. 기계 9 28 117 16. 재료 2 6 35 17.... ",
+			"bloggername":"직업능력개발블로그",
+			"bloggerlink":"https:\/\/upgrade-u.tistory.com\/",
+			"postdate":"20141014"
+		},
+		{
+			"title":"[정책이야기] 나의 <b>직무<\/b> 길라JOB이 고용디딤돌... ",
+			"link":"https:\/\/upgrade-u.tistory.com\/3598",
+			"description":"합교육(<b>숙박<\/b>) 2~8주차 : 지역별 교육 (수도권, 경기, 충청, 경상, 전라\/ 출 · 퇴근 ) 프로그램은 자동차 부품 분야 <b>직무<\/b>교육(2개월) 이후 협력사 인턴십(3개월) 수료 순으로 진행되는데요. 상세 교육은 자동차 부품... ",
+			"bloggername":"직업능력개발블로그",
+			"bloggerlink":"https:\/\/upgrade-u.tistory.com\/",
+			"postdate":"20161117"
+		},
+		{
+			"title":"취업 인턴 채용 정보! 합격스펙, 자소서, <b>직무<\/b>인터뷰 후기 총정리!",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221311065466",
+			"description":"비자, <b>숙박<\/b>, 현지에서 이동 차량, 관광지, 식사, 루트 여행 후 전반적인 관리까지 맡고 있습니다. 이 밖에도 경쟁사 동향 체크, 홈쇼핑, 소셜커머스 판매상품 준비를 관련 부서와 하고있습니다. #2. <b>직무<\/b>를 선택한... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20180702"
+		},
+		{
+			"title":"공무원 징계와 <b>직무<\/b>관련자 <b>직무<\/b>관련공무원 금품등 정의",
+			"link":"https:\/\/blog.naver.com\/yestorrow?Redirect=Log&logNo=221340071890",
+			"description":"공무원 징계와 <b>직무<\/b>관련자 <b>직무<\/b>관련공무원 금품등 정의 공무원(국가공무원·지방공무원)은... 금전, 유가증권, 부동산, 물품, <b>숙박<\/b>권, 회원권, 입장권, 할인권, 초대권, 관람권, 부동산 등의 사용권 등 일체의... ",
+			"bloggername":"다산행정사사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/yestorrow",
+			"postdate":"20180816"
+		},
+		{
+			"title":"<b>직무<\/b>교육 연수원 양평 블룸비스타 _ 신입사원 교육 서울근교... ",
+			"link":"https:\/\/blog.naver.com\/dearricky?Redirect=Log&logNo=221317880238",
+			"description":"&lt;<b>직무<\/b>교육 연수원 양평 블룸비스타 _ 신입사원 교육 서울근교 연수원 현대 블룸비스타... 만약 <b>숙박<\/b>을 안 하시고 강의장만 당일 이용하신다면 주차장 들어가자마자 처음에 있는 A동 근처에 차를... ",
+			"bloggername":"기획보고발표 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/dearricky",
+			"postdate":"20180712"
+		},
+		{
+			"title":"◈ 관광호텔 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/hotelmate?Redirect=Log&logNo=220343951005",
+			"description":"◇ 관광호텔 <b>직무<\/b> ◇ 관광호텔 <b>직무<\/b> Front Office 객실부서 Receptionist 고객안내 고객의 <b>숙박<\/b>절차안내 담당, 체크인, 당일 예약접수 및 판매, 객실과 관련된 정보 및 서비스 제공 Reservation 객실예약 전화... ",
+			"bloggername":"(주)메이트아이 교육센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/hotelmate",
+			"postdate":"20150428"
+		},
+		{
+			"title":"1인 1노트북 교육 환경 _ 신입사원 워크숍 <b>직무<\/b>교육 연수원 출강... ",
+			"link":"https:\/\/blog.naver.com\/dearricky?Redirect=Log&logNo=221579757726",
+			"description":"&lt;1인 1노트북 교육 환경 _ 신입사원 워크숍 <b>직무<\/b>교육 연수원 출강 _ 인턴십 조별과제 프로젝트... 건지 <b>숙박<\/b>이 낀 과정 중 하루를 하는 건지 내 수업 앞뒤로 어떤 교육이 있는 건지 등 여러가지를... ",
+			"bloggername":"기획보고발표 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/dearricky",
+			"postdate":"20190708"
+		},
+		{
+			"title":"한국여성의전화 신입활동가 <b>직무<\/b>연수 열려",
+			"link":"https:\/\/hotline25.tistory.com\/125",
+			"description":"08 한국여성의전화 신입활동가 <b>직무<\/b>연수 열려 (0) 2013.04.27 한국여성의전화 45기 여성상담전문교육 <b>숙박<\/b>교육 현장에 가다 (2) 2013.04.27 나를 알고 나를 사랑해요._ 차세대 인권감수성 교육 “통!通! 섹슈얼리티... ",
+			"bloggername":"한국여성의전화",
+			"bloggerlink":"https:\/\/hotline25.tistory.com\/",
+			"postdate":"20130427"
+		},
+		{
+			"title":"수도권 The-k 호텔 <b>숙박<\/b> 연수를 앞두고",
+			"link":"https:\/\/blog.naver.com\/gtdaniel?Redirect=Log&logNo=221333865896",
+			"description":"지난주 집합연수도 거의 10년만에 받은 집합연수였는데(마지막 집합연수가 과학과 <b>직무<\/b>연수였던 것으로 기억), 생각해보니 <b>숙박<\/b>연수는 신규연수 때 받은 이후 처음이라는 것을 알게 되었습니다. 이번 방학은... ",
+			"bloggername":"아이들 영혼을 만지는 예둘샘의 전학공 수업.현장연구",
+			"bloggerlink":"https:\/\/blog.naver.com\/gtdaniel",
+			"postdate":"20180806"
+		},
+		{
+			"title":"2018년도 아시아문화원 정규직 채용 (인턴\/시간제)",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=221316308791",
+			"description":"최종합격자는 인사명령 등에 따라 담당직무 및 모집분야갸 변경될 수 있음. □ 모집분야... NCS 직업기초능력평가 필기시험문제 경영회계사무 \/ 문화예술디자인 \/ 여행 <b>숙박 직무<\/b>기술서 파일 첨부합니다.",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20180711"
+		},
+		{
+			"title":"강사 _ 대리과장급 파워포인트 스마트워크 <b>직무<\/b>교육 특강",
+			"link":"https:\/\/blog.naver.com\/dearricky?Redirect=Log&logNo=221374241236",
+			"description":"스마트워크 <b>직무<\/b>교육 특강&gt; 안녕하세요. '평범한 사원도 칭찬 받는 사내 프레젠테이션 101' 저자... 혹시 우연히 이 포스팅을 접하신 기업교육 강사님들께서는 잘 아시겠지만 연수원에서 <b>숙박<\/b>을... ",
+			"bloggername":"기획보고발표 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/dearricky",
+			"postdate":"20181009"
+		},
+		{
+			"title":"2017년 5.18전국교사연수(특수분야 <b>직무<\/b>연수) 선생님과... ",
+			"link":"https:\/\/blog.naver.com\/themay18?Redirect=Log&logNo=220974085308",
+			"description":"2017년 5.18전국교사연수(특수분야 <b>직무<\/b>연수) 선생님과 함께하는 오월 이야기 - 2017.4.22(토)~23... 5.18기념재단 연수 특전: 1.연구 기간 내 <b>숙박<\/b>과 식사 제공(^_^) 2. 연수 이수시 소정의 기념품... ",
+			"bloggername":"5.18기념재단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/themay18",
+			"postdate":"20170403"
+		},
+		{
+			"title":"제46기 독립기념관 교원<b>직무<\/b>연수 참가자 모집 안내",
+			"link":"https:\/\/blog.naver.com\/koreai815?Redirect=Log&logNo=221534172827",
+			"description":"제46기 독립기념관 교원<b>직무<\/b>연수 참가자 모집 안내 독립기념관에서는 전국의 유, 초ㆍ중등 교원을... 교원에게 <b>숙박<\/b>시설 무료제공(13명\/ 천안, 아산지역 참가자는 숙소 이용 불가) ※ 숙소신청은... ",
+			"bloggername":"보고, 배우며, 즐기는 독립기념관!",
+			"bloggerlink":"https:\/\/blog.naver.com\/koreai815",
+			"postdate":"20190510"
+		},
+		{
+			"title":"[야놀자] 야놀자 영업\/<b>숙박<\/b>컨설턴트 2차면접 리뷰!",
+			"link":"https:\/\/blog.naver.com\/blu0411?Redirect=Log&logNo=221224555241",
+			"description":"오늘은 야놀자 영업\/<b>숙박<\/b>컨설턴트 <b>직무<\/b> 2차면접을 진행하고 왔습니다! 장소는 똑같은 야놀자 타워였습니다 선릉역과 삼성역사이에 위치해 있구요 위치 첨부! 참고하세용 그럼 바로 야놀자 영업\/<b>숙박<\/b>컨설턴트... ",
+			"bloggername":"감자의 블로그입니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/blu0411",
+			"postdate":"20180308"
+		},
+		{
+			"title":"공무원 행동강령 <b>직무<\/b>관련자 청렴의무 금품등수수금지 위반... ",
+			"link":"https:\/\/blog.naver.com\/yestorrow?Redirect=Log&logNo=221267468867",
+			"description":"6)공무원은 <b>직무<\/b>와 관련된 공식적인 행사에서 주최자가 참석자에게 통상적인 범위에서 일률적으로 제공하는 교통, <b>숙박<\/b>, 음식물 등의 금품등 7)불특정 다수인에게 배포하기 위한 기념품 또는 홍보용품 등이나... ",
+			"bloggername":"다산행정사사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/yestorrow",
+			"postdate":"20180503"
+		},
+		{
+			"title":"호스피탈리티 <b>직무<\/b>:: 호텔수익관리 전문가",
+			"link":"https:\/\/blog.naver.com\/glionspirit?Redirect=Log&logNo=221726956780",
+			"description":"호스피탈리티 분야의 가장 대표되는 산업인 '호텔'에는 수 많은 <b>직무<\/b>들이 존재합니다. 우리가 잘... 직종, <b>직무<\/b> 스펙트럼이 폭 넓게 늘어나고 있습니다. 다양한 업무 중 수석 컨설턴트이자 수익관리... ",
+			"bloggername":"글리옹 스피릿\/Glion Spirit",
+			"bloggerlink":"https:\/\/blog.naver.com\/glionspirit",
+			"postdate":"20191204"
+		}
+	]
+}

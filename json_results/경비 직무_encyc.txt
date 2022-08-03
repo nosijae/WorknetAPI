@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:46 +0900",
+	"total":679,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>경비<\/b>원<b>직무<\/b>교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3436906&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>원<b>직무<\/b>교육이란 <b>경비<\/b>원을 대상으로 한 <b>직무<\/b>교육에 대한 전반적인 내용을 기재한 문서이다.  조직의 자질 향상을 지향하고 그 조직에 속하는 멤버의 교육 필요성에 따라서 계획, 실천되는 교육을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902180317683_1NZ3OHY4K.jpg\/hb10_72698_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6413761&cid=42094&categoryId=42094",
+			"description":"공동주택의 출입자를 감시하고 단지 내를 순찰하며, 적절한 조처를 취하는 행위이다. <b>경비<\/b>관리는 <b>경비<\/b>원의 <b>직무<\/b>가 중심이 된다. <b>경비<\/b>원이 주의하여 <b>직무<\/b>를 다함으로써 공동주택단지는 안전성을 확보하게 된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>원업무규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437035&cid=42279&categoryId=42279",
+			"description":"<b>경비<\/b> 업무 수행에 기준을 제시하여 이를 더욱 체계적이로 효율적으로 진행하는데 도움을 준다. [서식 목차] 1. 목적 2. <b>경비<\/b>원의 <b>직무<\/b> 3. 근무요령 4. <b>경비<\/b>원의 근무자세 5. 근무수칙 6. 근무시간 7. 순찰방법",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902180706653_4IVSM9FU8.jpg\/hb10_72416_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627198&cid=42117&categoryId=42117",
+			"description":" 아파트 등 공공주택 및 사업장, 학교, 오피스텔 등에서 방문자의 출입을 점검하고 불법침입, 도난, 화재, 기타 위험 방지와 재산을 감시한다. [수행<b>직무<\/b>] <b>경비<\/b>에 필요한 <b>직무<\/b>내용을 숙지한다. 건물에 출입하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026086&cid=42117&categoryId=42117",
+			"description":" 사업체를 순찰하고 정문출입을 확인·통제하는데 종사하는 <b>경비<\/b>원의 활동을 감독·조정한다. [수행<b>직무<\/b>] <b>경비<\/b>원의 근무시간 및 인원을 조정한다. 각 부서를 순찰하고 당직일지, 출입자일지, 순찰일지 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566511&cid=46634&categoryId=46634",
+			"description":"[내용] <b>경비<\/b>하는 업체나 장소에 따라 건물 <b>경비<\/b>원(전산업), 공항대합실 <b>경비<\/b>원(여행알선·운수서비스), 부두 <b>경비<\/b>원(여행알선·운수서비스), 역구내 <b>경비<\/b>원(여행알선·운수서비스), 터미널 <b>경비<\/b>원(여행알선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>수단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961019&cid=42149&categoryId=42149",
+			"description":"<b>경비<\/b>경찰은 경찰관<b>직무<\/b>집행법상(제6조)의 범죄의 예방과 제지에 있어서 경고와 제지 그리고 형사소송법상 검거를 그 수단으로 한다. 종류에는 간접적 실력행사인 경고와 직접적인 실력행사인 제지와 체포가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호송<b>경비<\/b>관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024641&cid=42117&categoryId=42117",
+			"description":" 호송<b>경비<\/b>업무를 수행하기 위하여 호송<b>경비<\/b>원에 대한 근태 및 안전 등을 포함하는 총괄 관리를 한다. [수행<b>직무<\/b>] 호송<b>경비<\/b> 관련 통합 감찰을 한다. 귀중품호송<b>경비<\/b>원의 복장, <b>경비<\/b>장비를 감찰하고 건강상태를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교정시설 <b>경비<\/b>교도대 설치법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225453&cid=40942&categoryId=31701",
+			"description":"<b>경비<\/b>교도대 대원은 <b>직무<\/b>수행상 필요한 경우 <b>경비<\/b>지역 안에서 검문을 할 수 있었으며, 무기를 휴대하고 사용할 수 있었다. 무기 사용은 전시·사변 또는 무장공비의 출현으로 작전에 동원된 경우와 교도소... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EB%B9%84%EC%9B%90",
+			"description":"또한, 특수<b>경비<\/b>원에 대해 매월 6시간씩 <b>직무<\/b>수행에 필요 한 이론·실무과목, 그 밖에 정신교양을 실시하도록 규정하고 있다. 교육은 <b>경비<\/b>업 협회에서 주로 담당하고 있다. 특수<b>경비<\/b>원의 단체행동권 제한 사건... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=10003&cid=43659&categoryId=43659",
+			"description":"시간연구나 모션스터디(동작연구) 등으로 종업원의 작업을 공평하게 분석하여 기준을 작성, 이 기준에 따라 각자의 작업내용, 책임, 일의 난이도, 그 일을 하는데 필요한 <b>경비<\/b>, 능률 등을 밝히는 일. 이 <b>직무<\/b>분석... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=77968&cid=42155&categoryId=42155",
+			"description":"즉, <b>직무<\/b>분석은 종업원 각자의 작업 내용, 책임, 일의 난이도, 그 일을 하는 데 필요한 <b>경비<\/b>, 능률 등을 밝히는 것을 말한다. 이에 대해 <b>직무<\/b>평가란 책임도·곤란도 등 직위의 상대적 가치 또는 비중을 기준으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경호<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961290&cid=42149&categoryId=42149",
+			"description":"경호규칙, 대통령경호안전대책위원회규정, 경호편람 등이 있으며, 특히 경찰관<b>직무<\/b>집행법 제2조(<b>직무<\/b>범위)에서 명시하고 있는 <b>경비<\/b>·요인경호 및 대간첩작전의 수행은 경호<b>경비<\/b>의 중요한 법적 근거이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"특수<b>경비<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225672&cid=40942&categoryId=31859",
+			"description":"또 <b>직무<\/b>를 수행할 때는 시설주와 관할 경찰관서장, 소속 상사의 <b>직무<\/b>상 명령에 복종해야 하고, 상사의 허가 또는 정당한 사유 없이 <b>경비<\/b>구역을 벗어날 수 없다. 파업·태업 등 <b>경비<\/b> 업무의 정상적인 운영을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무인<b>경비<\/b>영업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025947&cid=42117&categoryId=42117",
+			"description":" 무인(기계)<b>경비<\/b> 서비스를 고객에서 설명하고 견적 및 계약유치 업무를 하고, 고객관리를 한다. [수행<b>직무<\/b>] 담당 구역 내의 가입예상 고객을 파악하고 방문하여 무인보안시스템 및 계약의 내용과 보장범위를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970423&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>경비<\/b>지도사 ① <b>경비<\/b>지도사란 산업인력공단에서 시행하는 <b>경비<\/b>지도사 시험에 합격한 후, 행정안전부령으로 정하는 기본교육을 이수하고 <b>경비<\/b>지도사 자격증을 교부 받은 자를 말한다. ②... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801151331783_1FZ32VPGA.jpg\/da6_29_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"경찰<b>직무<\/b>응원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1203513&cid=40942&categoryId=31713",
+			"description":" 경찰의 <b>직무<\/b> 응원에 관한 사항을 정한 법률.  경찰의 <b>직무<\/b> 응원에 관한 사항을 정함을 목적으로 하는... 지역의 <b>경비<\/b>에 있어서 그 소관 경찰력으로써는 이를 감당하기 곤란하다고 인정할 때에는 응원을 받기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무인기계<b>경비<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026076&cid=42117&categoryId=42117",
+			"description":" 고객의 매장이나 집, 공장 등에 설치된 자산 센서, 제어 장치 등을 유지·관리하기 위해 순찰하고, 센서에 외부침입자가 감지되면 출동하여 점검한다. [수행<b>직무<\/b>] 고객의 매장이나 집, 공장 등의 자산 센서 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관의 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961079&cid=42149&categoryId=42149",
+			"description":"경찰관<b>직무<\/b>집행법상의 경찰관의 <b>직무<\/b>의 ① 범죄의 예방, ② 범죄의 진압, ③ 범죄의 수사, ④ <b>경비<\/b>, ⑤ 요인경호, ⑥ 대간첩작전집행, ⑦ 치안정보의 수집, ⑧ 치안정보의 작성, ⑨ 치안정보의 배포, ⑩ 교통의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰<b>직무<\/b>응원법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%B0%B0%EC%A7%81%EB%AC%B4%EC%9D%91%EC%9B%90%EB%B2%95",
+			"description":"제2조부터 제4조까지 생략 제5조(다른 법률의 개정) ①부터 &#60;117&#62;까지 생략 &#60;118&#62; 경찰<b>직무<\/b> 응원법 일부를 다음과 같이 개정한다. 제1조제1항, 제2조 및 제3조 중 &quot;지방해양<b>경비<\/b>안전관서&quot;를 각각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566911&cid=46625&categoryId=46625",
+			"description":"[내용] 경찰관은 국민의 자유와 권리의 보호 및 사회공공의 질서유지를 그 <b>직무<\/b>로 하는데 그 구체적인 <b>직무<\/b>의 범위는 ① 국민의 생명·신체 및 재산의 보호 ② 범죄의 예방·진압 및 수사 ③ <b>경비<\/b>, 주요 인사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060564&cid=40942&categoryId=31713",
+			"description":"경찰관의 직권은 그 <b>직무<\/b>수행에 필요한 최소한도 내에서 행사되어야 한다. 경찰관은 범죄의 예방·진압 및 수사, <b>경비<\/b>·요인경호 및 대간첩작전수행, 치안정보의 수집·작성 및 배포, 교통의 단속과 위해의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>경찰의 특성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961017&cid=42149&categoryId=42149",
+			"description":"② 경찰관<b>직무<\/b>집행법(제2조)에서 대간첩작전을 경찰의 <b>직무<\/b>로 규정하고 있다. ③ 1968년 1.21사태를 계기로 전투경찰대가 창설되었다. 둘째, 진압<b>경비<\/b>의 수요과다로서 ① 님비(NIMBY)현상의 급증, ② 과격한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관 <b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6515108&cid=43667&categoryId=43667",
+			"description":"그 <b>직무<\/b> 수행에 필요한 최소한도에서 행사되어야 하며 남용되서는 안 된다. 경찰관은 ▷국민의 생명·신체 및 재산의 보호 ▷범죄의 예방·진압 및 수사 ▷범죄피해자 보호 ▷<b>경비<\/b>, 주요 인사(人士) 경호 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관 <b>직무<\/b>집행법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%B0%B0%EA%B4%80_%EC%A7%81%EB%AC%B4%EC%A7%91%ED%96%89%EB%B2%95",
+			"description":"<b>직무<\/b>의 범위(경찰관<b>직무<\/b>집행법 제2조) 국민의 생명·신체 및 재산의 보호 범죄의 예방·진압 및 수사 <b>경비<\/b>·주요인사 경호 및 대간첩 대테러 작전수행 치안정보의 수집·작성 및 배포 교통의 단속과 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>보안시스템기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026078&cid=42117&categoryId=42117",
+			"description":" <b>경비<\/b>보안시스템의 배치설계와 시스템을 설치하며 운영 및 유지보수 관리를 한다. [수행<b>직무<\/b>] 보안이 필요한 시설물을 특징과 보안취약지점을 고려하여 각종 감지센서와 영상보안, 출입보안, 검색장비 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제주자치경찰단의 담당<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962512&cid=42149&categoryId=42149",
+			"description":"지역 <b>경비<\/b>에 관한 사무를, '사법경찰관리의<b>직무<\/b>를행할자와그<b>직무<\/b>범위에관한법률'에서 자치경찰공무원의 <b>직무<\/b>로 규정하고 있는 사법 경찰 관리의 <b>직무<\/b> 등을 내용으로 하고 있다. 이 법에 따르면 자치경찰은",
+			"thumbnail":""
+		},
+		{
+			"title":"4·30선언",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578595&cid=46625&categoryId=46625",
+			"description":"당연히 3해리로 인정하고 영해에 관한 별도의 법령은 없었다. 다만 1948년 5월 군정법령인 ＜해양<b>경비<\/b>대의 <b>직무<\/b>＞에서 해양<b>경비<\/b>대의 <b>직무<\/b>를 영해의 <b>경비<\/b>라고 규정하면서 그 영해는 3해리까지라고 한 것이",
+			"thumbnail":""
+		},
+		{
+			"title":"순찰규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437372&cid=42279&categoryId=42279",
+			"description":"순찰규정을 작성함으로써 순찰과 관련한 가이드라인을 정할 수 있다. [서식 목차] 1. 목적 2. <b>경비<\/b>원의 <b>직무<\/b> 3. 근무요령 4. <b>경비<\/b>원의 근무자세 5. 근무수칙 6. 근무시간 7. 순찰방법",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902181555155_YQJQW0777.jpg\/hb10_72854_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"종범",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5644917&cid=60366&categoryId=60399",
+			"description":"② <b>경비<\/b>원으로서의 <b>직무<\/b> 유기, 주인에 대한 배임죄를 저질렀다. ③ 절도범의 절도를 방조한 종범이다. [[해답] 종범] 해답: ③ 다른 사람의 범죄를 도와주면 당연히 그 범죄의 종범이 되어 넓은 의미의 공범이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"살롱전에서 보낸 네 시간 (루브르 그랑드 갤러리의 전시 마감 시간의 풍경)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=973840&cid=46702&categoryId=46753",
+			"description":"전시실에 꽉꽉 들어찬 사람들과 전시 마감 시간이 되자 그들을 퇴관시키기 위해 애쓰는 <b>경비<\/b>원들의 모습이 유머러스하게 그려져 있다. 실제로 1846년 살롱전의 입장객 수는 총 120여만 명이었으며, 일요일에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_2\/20140913161325211_ODVYGBQVH.jpg\/08-551301.jpg?type=m160_160"
+		},
+		{
+			"title":"조선 세종 14년, 임자년(壬子年), 1432년 연표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2844413&cid=62026&categoryId=62026",
+			"description":"1월 4일 • 혜민국 · 전의감 · 제생원 관원은 취재 시험의 성적순으로 등용하고, 다음 사람을 구원한 공적과 출근일수를 따져 등용하는 법을 정하도록 함. 1월 5일 • 원묘(原廟, 문소전과 광효전과 같은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조현오",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A1%B0%ED%98%84%EC%98%A4",
+			"description":"경남청 <b>경비<\/b>과장(<b>직무<\/b>대리)(경정) 1998. 6. ~ 1998. 6. 경남 울산동부경찰서장(<b>직무<\/b>대리)(경정) 1998. 6. ~ 1998. 6. 경남청 <b>경비<\/b>과장(총경) 1998. 7. ~ 1999. 7. 경남 울산남부경찰서장(총경) 1999. 7. ~ 2000. 1. 울산... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이치무라 오마",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%B9%98%EB%AC%B4%EB%9D%BC_%EC%98%A4%EB%A7%88",
+			"description":"명의 <b>경비<\/b>원 ~ 일그러진 <b>직무<\/b>일지 ~ (쿠리스 미유키) : 미루 (みる) 명의 루나·시즌 ~150분의 1의 연인~ (츠바타 카나미) : 미루 (みる) 명의 꽃달력 (아루메리아) : 미루 (みる) 명의 텐타마 (에노키 리카코)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호송사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953501&cid=42117&categoryId=42117",
+			"description":" 호송업무를 수행하도록 수송 장부를 관리하고 호송관리자의 지시사항을 전달한다. [수행<b>직무<\/b>] 호송<b>경비<\/b>관리자로부터 당일 업무를 지시받아 호송원에게 전달하고 세부사항에 대해 교육한다. 귀중품 인수인계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수위 (직업)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%88%98%EC%9C%84_(%EC%A7%81%EC%97%85)",
+			"description":"수위 (守衛)는 주로 학교, 병원과 같은 시설 등에서 <b>경비<\/b>를 하는 사람을 의미한다. <b>직무<\/b> 내용은 <b>경비<\/b>원에 가깝다.",
+			"thumbnail":""
+		},
+		{
+			"title":"청원경찰",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B2%AD%EC%9B%90%EA%B2%BD%EC%B0%B0",
+			"description":"청원경찰의 <b>직무<\/b>범위를 &quot;<b>경비<\/b>목적을 위하여 필요한 범위로 한정한 점을 고려할 때, 기관장 차량 운전, 주정차\/쓰레기투기\/과적차량 단속, 골재불법채취 감시, 주차요금 징수 등 주차관리, 숙박객... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원경찰",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=78060&cid=42155&categoryId=42155",
+			"description":"청원경찰은 청원주(請願主)와 관할구역 경찰서장의 감독을 받아 그 <b>경비<\/b>구역 안에서 경찰관<b>직무<\/b>집행법에 의한 경찰관의 <b>직무<\/b>를 행한다. 청원주는 법정(法定)되어 있는 청원경찰 <b>경비<\/b>를 부담해야 하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수사 기관의 종류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5645113&cid=60366&categoryId=60400",
+			"description":"① 그렇다. 폼으로 임명한 것이 아니다. ② 아니다. 민간 <b>경비<\/b>원 신분에 불과하다. ③ <b>경비<\/b> 구역 내에 한하여 경찰로 취급된다. [[해답] 수사 기관의 종류] 해답: ① ‘수사 기관’이란, 법률상으",
+			"thumbnail":""
+		},
+		{
+			"title":"황궁호위관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%99%A9%EA%B6%81%ED%98%B8%EC%9C%84%EA%B4%80",
+			"description":"특별사법경찰직원의 권한을 부여받고 있지만, 경찰관리와는 다르고 엄밀히는 경찰이 아니다. 주로 황궁 <b>경비<\/b>, 황족 호위를 <b>직무<\/b>로 한다. 상징물은 오삼오동문이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"순천의 과학·기술 (순천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5958261&cid=67067&categoryId=67088",
+			"description":"[정의] 전라남도 순천시 지역에서 연구 또는 개발되거나 개발되고 있는 과학과 기술의 총칭. [과학기술 연구단체 현황] 과학은 보편적인 진리나 법칙의 발견을 목적으로 한 체계적인 지식을, 지식은 과학의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연조귀감",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%97%B0%EC%A1%B0%EA%B7%80%EA%B0%90",
+			"description":"그렇게 이임을 얻은 향리들조차 녹봉도 받지 못하고 그나마 소유한 땅만 가지고는 <b>직무<\/b>에 필요한 <b>경비<\/b>를 충당할 길이 없어, 어떤 형태로든 부정을 저질러야 했다. 그 대상이 바로 농민이었다. 양반 지배층은 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"판공비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=73418&cid=43667&categoryId=43667",
+			"description":"포괄적 <b>직무<\/b> 수행에 소요되는 제 <b>경비<\/b> ④ 시책추진 업무추진비: 자치단체가 시행하는 주요행사, 대단위 시책추진 사업, 주요 투자사업의 원활한 추진을 위한 <b>경비<\/b> ⑤ 부서운영 업무추진비 : 통상적인 실, 과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공익법무관에 관한 법률",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1224232&cid=40942&categoryId=31701",
+			"description":"법무부 장관은 편입된 사람을 소집하여 <b>직무<\/b>수행에 필요한 교육을 실시하고, 대통령령이 정하는 바에... 법무부 장관은 공익법무관의 <b>직무<\/b>를 지휘·감독한다. 각급 기관의 장은 공익법무관의 근무상황과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신문발전위원회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1234889&cid=40942&categoryId=34567",
+			"description":" 여론의 다양성 보장과 신문산업 진흥을 위한 업무 지원, 신문발전기금의 관리·운영 등을 목적으로 문화관광부에 설치하는 특별위원회. 2010년 한국언론진흥재단으로 통폐합되었다.  2005년 7월 28일부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공익법무관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1977804&cid=43667&categoryId=43667",
+			"description":"법무분야 현역장교의 병적에 편입되지 아니한 사람, 변호사의 자격이 있는 보충역 소집대상자인 사람이 해당된다. 공익법무관의 보수 및 <b>직무<\/b>수행에 필요한 <b>경비<\/b> 등은 군인의 보수 한도 안에서 지급하",
+			"thumbnail":""
+		},
+		{
+			"title":"무인<b>경비<\/b>관제원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026081&cid=42117&categoryId=42117",
+			"description":" 무인<b>경비<\/b> 관제실(상황실)에서 고객의 보안상태를 감시하며, 방범기기의 이상 신호를 분석하여 긴급출동요원에게 조치를 지시하는 등 보안사고를 관리한다. [수행<b>직무<\/b>] 문제가 발생한 계약처를 확인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경호원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026068&cid=42117&categoryId=42117",
+			"description":" 정부기관 및 민간기관에서 국가재산의 보호 및 국민의 신체, 생명, 재산(물적, 시설, 정보 등)을 보호하고 국민의 생활안전과 법질서 유지 및 사회공공안녕을 위해 경호활동을 수행한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"귀중품호송관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024484&cid=42117&categoryId=42117",
+			"description":" 귀중품의 안전한 호송 업무를 총괄 관리한다. [수행<b>직무<\/b>] 각 거래처의 일일 수익금을 취합하여 은행으로 호송하는 업무를 전반적으로 관리한다. 호송차량 및 귀중품호송차량운전원, 귀중품호송<b>경비<\/b>원을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의료법인정관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926981&cid=42279&categoryId=42279",
+			"description":" 의료법인을 효과적으로 운영하기 위한 규칙을 기록한 문서.  의료법인정관이란 의료법인을 운영하기 위한 근본 규칙을 명시한 문서를 말한다. 의료법인 내부에서 발생하는 모든 사항은 정관을 근거로 하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128224111582_1QNTBW749.jpg\/hb10_7345_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"장내정리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026092&cid=42117&categoryId=42117",
+			"description":" 경마장, 경륜장내 자산을 보호하고, 부정행위의 사전예방과 위법행위의 단속 및 장내질서를 유지하는데 관련된 제반 업무를 수행한다. [수행<b>직무<\/b>] 부정 위법행위에 대한 정보를 수집하기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신발원가전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024859&cid=42117&categoryId=42117",
+			"description":" 확정된 신발 견본을 바탕으로 신발채산에 근거하여 자재비를 산정하고, 신발규격에 근거하여 노무비와 제<b>경비<\/b>를 계산하여 신발 한 족당 사용되는 신발원가서를 작성한다. [수행<b>직무<\/b>] 신발채산에 근거하여 자재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보안순찰원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026082&cid=42117&categoryId=42117",
+			"description":" 회사의 재산과 인원을 화재·도난·파손 및 불법침입 등으로부터 보호하기 위하여 제반 경계업무를 수행한다. [수행<b>직무<\/b>] 건물이나 산업체의 작업현장 등을 정기적으로 순찰하고 출입구·창문 및 보안장치를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원경찰법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1209043&cid=40942&categoryId=31713",
+			"description":"청원경찰은 청원주와 배치된 기관·시설 또는 사업장 등의 구역을 관할하는 경찰서장의 감독을 받아 그 <b>경비<\/b>구역 내에 한하여 경찰관<b>직무<\/b>집행법에 의한 경찰관의 <b>직무<\/b>를 행한다. 청원경찰의 배치를 받고자... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원경찰",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1146709&cid=40942&categoryId=31690",
+			"description":"청원경찰은 청원주(請願主)와 배치된 기관 ·시설 또는 사업장 등의 구역을 관할하는 경찰서장의 감독을 받아, <b>경비<\/b>구역 내에 한하여 ‘경찰관<b>직무<\/b>집행법’에 의한 경찰관의 <b>직무<\/b>를 행한다. 청원주는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여행상품상담원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953616&cid=42117&categoryId=42117",
+			"description":"행선지, 교통편, 여행일정, <b>경비<\/b>, 숙박시설을 고객과 협의·결정한다. 단체여행을 계획하고 명시하여 판매한다. 여행 출발 전 여행지에 관한 자료를 고객에게 제공한다. 여행<b>경비<\/b>를 계산하거나 단체여행의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운행분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024814&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 운행을 완료하고 복귀한 차량의 운행확인서를 회수하고 지정운행시간과 실제운행시간, 지연운행과 대기사유, 승무원의 사용<b>경비<\/b> 등을 점검·파악한다. 차량의 타코그래프(Tacho Graph:운행속도 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원경찰",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=929312&cid=43667&categoryId=43667",
+			"description":"청원경찰은 청원주(請願主)와 배치된 기관·시설 또는 사업장의 구역을 관할하는 경찰서장의 감독을 받아 그 <b>경비<\/b>구역 내에 한하여 경찰관<b>직무<\/b>집행법에 의한 경찰관의 <b>직무<\/b>를 수행한다. 청원경찰은 근무... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국내여행MD",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026158&cid=42117&categoryId=42117",
+			"description":"국내의 항공, 육로 및 해상 교통편, 요금, 관광명소의 위치, 숙박시설 등에 관한 제반 자료를 토대로 관광 코스와 일정을 기획하고 예상<b>경비<\/b>를 산출한다. 기획된 코스를 답사하고 문제점을 보완하여 관광 코스를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도서관관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024416&cid=42117&categoryId=42117",
+			"description":"승인된 예산을 집행하기 위한 <b>경비<\/b>를 통제·관리한다. 고서, 연속간행물, 비도서자료 등의 장서개발계획을 검토하고 실행한다. 각종 비품 및 시설을 관리·감독한다. 인사규정을 관장하며 직원의 근무평정을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여행컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026161&cid=42117&categoryId=42117",
+			"description":"고객과 상담을 통해 여행 목적과 평소의 생활습관, 여행 <b>경비<\/b> 등을 파악한다. 파악된 고객의 여행 콘셉트에 맞춰 항공 및 숙소, 관광지 및 레스토랑 등을 안내하고 가이드 여부 등 여행에 필요한 모든 것을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"통신전기원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028782&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 통신선로를 순찰하며 <b>경비<\/b>용 인터폰, CCTV 및 적외선감지설비 등의 보안선로 및 통신선로의 이상 유무를 점검한다. 비상사태 및 위험한 상황에 대처하기 위하여 군부대 및 유관기관에 연결된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전시장관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024636&cid=42117&categoryId=42117",
+			"description":"장치, 인력, <b>경비<\/b>, 청소 등 전시장 등록업체와의 계약을 관리한다. 장치업체나 철거업체에게 물품반입증과 반출증을 발급한다. 각종 전시에 필요한 부대요금(전기, 청소, 냉·난방비)을 계산한다. 전시가 끝난 후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권일반사무수탁사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025069&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 증권투자회사의 설립, 금감위 등록 및 청산사무, 판매회사, 자사보관회사 등에 수수료 지급 및 제<b>경비<\/b> 지급업무, 이사회 및 주주총회의 소집에 관한 업무, 증권투자회사의 이사 및 감사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권일반사무수탁사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025055&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 증권투자회사의 설립, 금감위 등록 및 청산사무, 판매회사, 자사보관회사 등에 수수료 지급 및 제 <b>경비<\/b> 지급 업무, 이사회 및 주주총회의 소집에 관한 업무, 증권투자회사의 이사 및 감사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증권지점사무총괄사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025061&cid=42117&categoryId=42117",
+			"description":"지점의 인장을 관리하고 <b>경비<\/b>처리를 관리한다. 본사나 정부관계기관, 증권감독위원회, 증권거래소 등에서 보내온 문서를 접수하고 응답한다. 증권사무종사원들이 효율적으로 일할 수 있도록 조언한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"훈련신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2050148&cid=42279&categoryId=42279",
+			"description":"교육훈련이란 <b>직무<\/b>분석을 통해 나온 결과를 토대로 과학적이고 합리적인 방법으로 신입사원 및 기존 근로자의 자질과 능력 향상을 도모하는 교육과정을 말한다. 훈련신청서란 특정 교육 훈련에 참가하기 위해... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129013815293_ABH81QUAW.jpg\/hb10_13875_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"훈련지원서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2050150&cid=42279&categoryId=42279",
+			"description":"교육훈련이란 <b>직무<\/b>분석을 통해 나온 결과를 토대로 과학적이고 합리적인 방법으로 신입사원 및 기존 근로자의 자질과 능력 향상을 도모하는 교육과정을 말한다. 훈련지원서란 특정 교육 훈련에 참가하기 위해... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129013820354_6BRZQEIH2.jpg\/hb10_13877_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"광산측량기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665370&cid=42117&categoryId=42117",
+			"description":"측량작업에 따른 안전점검을 실시한다. 측량계획에 의한 인원을 구성하고 구성단위에 대한 <b>경비<\/b>를 산출한다. 새로운 측량기술을 연구하고 측량결과와 방법을 평가·분석한다. 측량에 대한 기술적 자문을 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060563&cid=40942&categoryId=31690",
+			"description":"경찰관<b>직무<\/b>집행법에 의하면 경찰관의 <b>직무<\/b>로는 ① 범죄의 예방·진압 및 수사 ② <b>경비<\/b>·요인경호 및 대간첩작전 수행 ③ 치안정보의 수집·작성 및 배포 ④ 교통의 단속과 위해의 방지, 기타 공공의 안녕과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_376\/20210617085658909_XEH8F8V9N.jpg\/12034482.jpg?type=m160_160"
+		},
+		{
+			"title":"청원경찰근무일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3384025&cid=42279&categoryId=42279",
+			"description":"청원경찰은 청원주와 배치된 기관, 시설 또는 사업장 등의 구역을 관할하는 경찰서장의 감독을 받아, <b>경비<\/b>구역내에 한하여 경찰관 <b>직무<\/b>집행법에 의한 경찰관의 <b>직무<\/b>를 행하는 이를 말한다. 그리고 청원경찰이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122502477_GHNI435DH.jpg\/hb10_22994_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"노정기",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%85%B8%EC%A0%95%EA%B8%B0",
+			"description":"1971년 육군 수도<b>경비<\/b>사령부 군수참모. 1973년 육군 수도<b>경비<\/b>사령부 공병참모. 1975년 육군공병학교 교수부 부장. 1976년 육군본부 공병감. 1977년 육군본부 공병감 재직 시에 육군 준장 진급. 1978년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024861&cid=42117&categoryId=42117",
+			"description":"직원의 임금 및 수당을 계산·지급하고, 퇴직금 계산, 연말정산, 기타 일반<b>경비<\/b>와 관련하여 증빙서류를 정리한다. 통장과 현금의 관리, 보고 등의 업무를 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566910&cid=46625&categoryId=46625",
+			"description":" 국민의 자유와 권리의 보호 및 사회공공의 질서유지를 <b>직무<\/b>로 하는 경찰공무원. [개설] 경찰관은 국민의 자유와 권리보호를 위하여 범죄의 예방·진압 및 수사·<b>경비<\/b>·요인경호, 대간첩작전의 수행... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20170812010730853_IKZKED0QQ.jpg\/27fae96f-2adb-43.jpg?type=m160_160"
+		},
+		{
+			"title":"발전통신원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028747&cid=42117&categoryId=42117",
+			"description":"<b>경비<\/b>용 인터폰, CCTV 및 적외선감지설비 등의 보안시스템의 정상적인 작동상태가 유지되도록 관리한다. 비상사태 및 위험한 상황에 대처하기 위하여 군부대 및 유관기관에 연결된 직통전화의 상태를 점검하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교도관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025424&cid=42117&categoryId=42117",
+			"description":"간 이송 대상수용자의 호송업무를 수행한다. 교정기관 외곽방위를 위해 설치된 <b>경비<\/b>교도의 복무, 규율에 관한 사항을 관리하며, 교정기관 내 각종 물품 및 기자재 계구, 무기 관리 등의 업무를 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"긴급출동요원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026075&cid=42117&categoryId=42117",
+			"description":" 담당 구역을 순찰하고 침입 여부를 확인하는 등 고객의 보안서비스를 점검한다. [수행<b>직무<\/b>] 담당 구역 내 고객의 위치와 보안서비스 내용 등을 파악한다. 고객을 방문하여 고객의 보안요구 사항을 청취하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국회의원의 권리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=66496&cid=43667&categoryId=43667",
+			"description":"국민의 대표자인 의원이 그 <b>직무<\/b>를 수행할 수 있도록 자유로운 언론활동을 보장하기 위하여 다음과... 세비 기타 편익을 받을 권리: 의원은 활동에 필요한 <b>경비<\/b>를 보조받기 위하여 수당·입법활동비... ",
+			"thumbnail":""
+		},
+		{
+			"title":"휴가품의서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3610936&cid=51373&categoryId=51373",
+			"description":"다른 품의서와 달리 회사의 <b>경비<\/b>가 들어가지 않고 순수하게 개인의 휴가의 대한 정보를 기재하고 품의서를 제출하면 된다. 일반 휴가서와 다른 점은 품의서의 개념이 상부에게 제안을 하는 것이기에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_7\/20170707142920616_MD58XREFX.jpg\/ba17_11195_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경찰기동대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060569&cid=40942&categoryId=31690",
+			"description":"위하여 <b>경비<\/b>·경계·검거를 주임무로 하여 편성된 경찰관 부대.  폭동경찰이라고도 한다. 기동대는... 기동대는 파견근무 목적 이외의 <b>직무<\/b>를 수행할 수 없다. 또 돌발사태 진압 및 예방이라는 특수 업무에 임하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"출장문서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831397&cid=42279&categoryId=42279",
+			"description":" 출장문서란 출장업무에 따른 업무내용을 보고 형태로 기재한 문서이다. [출장문서의 개요] 출장이란 일정한 시간(기간)동안 회사 밖에서 업무를 수행하기 위하여 업무지로 가는 것을 말한다. 기업에 있어서의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128210714322_S1QI76TRX.jpg\/hb10_3944_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경찰관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025408&cid=42117&categoryId=42117",
+			"description":"특수경찰관의 경우는 테러 및 폭력시위 진압, 해양<b>경비<\/b>, 각종 사이버범죄 단속, 마약사범 검거, 밀수범죄 단속, 환경사범 단속, 외국인범죄 단속, 불법체류·불법취업 등 출입국사범 단속, 경제 및 환경사범 단속... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나무의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025299&cid=42117&categoryId=42117",
+			"description":" 나무에 발생하는 생물적, 비생물적 요인 등의 피해에 대한 예찰, 진단, 계획, 설계, 처방, 치료, 평가 등을 통해 나무의 건강성을 유지하도록 한다. [수행<b>직무<\/b>] 산림 및 생활권 나무관리주체(지자체 등) 등과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지출관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=77935&cid=42155&categoryId=42155",
+			"description":"지출관은 각 중앙관서의 장에 의하여 임명되며, 재무관 또는 지급기관의 <b>직무<\/b>를 겸할 수 없다. 또한 지출관은 수표를 발행할 수 있는 권한을 가지므로 그가 세출예관에서 <b>경비<\/b>를 지출할 때에는 여러 가지 제한을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공정관리기술자(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024756&cid=42117&categoryId=42117",
+			"description":"<b>경비<\/b>, 가용면적, 기타 기술적·경제적 요소를 고려하여 공정을 설계하거나 기존의 공정을 개선한다. 새로운 공정이나 개선한 공정에 대한 설비의 운용, 가공기술, 공정의 특징, 공정에 영향을 주는 요소 등에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선거관리위원회법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1111744&cid=40942&categoryId=31651",
+			"description":" 선거관리위원회의 조직과 <b>직무<\/b>를 규정하기 위한 법률(일부개정 2009. 4. 1. 법률 제9577호).  선거와 국민투표의 공정한 관리 및 정당에 관한 사무를 관장하는 선거관리위원회의 조직과 <b>직무<\/b>를 규정함을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국민안전처",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3552010&cid=40942&categoryId=39699",
+			"description":"행정자치부에 흡수·통합되었으며, 행정자치부는 현재 행정안전부로 이름을 바꿨다. 주요 <b>직무<\/b>는 안전 및 재난에 관한 전반적인 정책의 수립·운영 및 총괄·조정에 관한 사무, 비상 대비에 관한 사무,",
+			"thumbnail":""
+		},
+		{
+			"title":"양식장작업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029714&cid=42117&categoryId=42117",
+			"description":"양식물을 판매하기 위하여 세척·분류하고, 껍질을 벗기거나 삶아 말리고 포장한다. 도난방지를 위하여 <b>경비<\/b>를 선다. 태풍 등으로 시설물이 파괴되면 보수한다. 양식이 끝난 시설물을 철거하여 보수·정비한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"직업훈련계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383896&cid=42279&categoryId=42279",
+			"description":"직업인으로서 일정한 <b>직무<\/b>를 수행하는데 필수적으로 요구되는 직업적 지식과 기술을 제공해 주는 훈련의 조직적인 형태를 직업훈련이라고 한다. 이러한 직업훈련을 진행하기 위해 그에 대한 계획을 기재한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122331094_AEE0NC3B5.jpg\/hb10_22865_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"공공폐수처리시설관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024510&cid=42117&categoryId=42117",
+			"description":" 산업단지 내 폐수배출업체에서 나오는 폐수를 정화하는 시설을 총괄 관리하고, 관련 작업원의 활동을 관리·감독한다. [수행<b>직무<\/b>] 월·분기·연 단위로 산업폐수정화 작업계획을 수립한다. 화학처리 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세탁소관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024511&cid=42117&categoryId=42117",
+			"description":" 세탁소의 운영을 총괄 관리하고, 세탁물의 접수·세탁·다림질하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 고객으로부터 세탁물을 접수하여 종류별로 분류하여 작업을 할당한다. 세탁물을 세탁하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전라북도경찰청",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=646381&cid=43124&categoryId=43124",
+			"description":"경무과는 직원 후생복지와 문서관리, 조직 및 정원관리, 근무성적 및 경력평정, 인사기록 정리, 경찰<b>직무<\/b>교육 및 사격훈련, 청사관리 등의 업무를 담당한다. 생활안전과는 청소년선도, 소년범죄(20세",
+			"thumbnail":""
+		},
+		{
+			"title":"교구관리인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026088&cid=42117&categoryId=42117",
+			"description":" 종교단체(교회, 성당, 사찰 등)의 예배시설 및 집기를 관리한다. [수행<b>직무<\/b>] 예배시설 내부를 청소하고 난로, 보일러 등의 난방 및 냉방시설을 유지·관리한다. 전기, 전화, 방재, 수도 등의 시설을 유지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청원경찰(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026074&cid=42117&categoryId=42117",
+			"description":" 근무지에서 보안업무를 수행하고 고객에 대한 서비스를 제공한다. [수행<b>직무<\/b>] 근무지의 시건장치에 대한 관리 및 기록을 한다. 근무지의 보안업무를 담당하고 일일 보안사항을 보고한다. 보안업무 관련 기관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호송사무소장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026072&cid=42117&categoryId=42117",
+			"description":" 부서원의 교육 및 안전한 호송 등 호송업무 및 호송사무소의 전반적인 관리업무를 한다. [수행<b>직무<\/b>] 호송사무소 부서원의 복무상황, 작업, 인사관리를 한다. 부서원의 안전교육을 하고 귀중품 호송원의 안전을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"묘지관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026089&cid=42117&categoryId=42117",
+			"description":" 공동묘지의 유택을 분할하고 관리한다. [수행<b>직무<\/b>] 공동묘지 내의 지형을 검토하고 유택을 분할한다. 유족들과 협의하여 유택을 결정하고 장례에 따른 절차와 조건을 결정한다. 장례행렬을 인도한다. 봉분을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보안시스템기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028628&cid=42117&categoryId=42117",
+			"description":" 보안관제기기, 유무선망 등의 보안시스템을 설치하고 관리한다. [수행<b>직무<\/b>] 신호해독기(Decoder), 무정전전원장치(UPS) 등의 관제기기를 관리한다. 무선국 및 이동무선국 무선망의 신규·변경허가와 검사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현금호송원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026071&cid=42117&categoryId=42117",
+			"description":" 지점의 자금관리 업무의 효율화를 기하기 위해 자금운송을 대행한다. [수행<b>직무<\/b>] 안전복과 안전무기를 착용하고 안전 차량을 이용하여 매일 일정한 시간에 은행 각 지점의 자금을 은행 간 또는 관련 기관에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이성가",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%84%B1%EA%B0%80",
+			"description":"학력 중화민국 장쑤 성 난징 육군군관학교 졸업(1942년) 군사영어학교 1기 졸업으로써 육군 중령 임관(1946년) 대한민국 육군사관학교 2기 졸업으로써 육군 대령 재임관(1946년) 대한민국 조선<b>경비<\/b>보병학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"쓰레기매립장관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953468&cid=42117&categoryId=42117",
+			"description":" 산업쓰레기, 가정용쓰레기 등의 운반차량을 점검·확인하여 반입을 허가·관리한다. [수행<b>직무<\/b>] 쓰레기의 반입량 및 반입차량을 확인하고 쓰레기의 종류를 점검한다. 쓰레기의 종류를 확인하여 매립이 가능한... ",
+			"thumbnail":""
+		}
+	]
+}

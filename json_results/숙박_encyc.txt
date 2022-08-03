@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:54 +0900",
+	"total":10373,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>숙박<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%88%99%EB%B0%95",
+			"description":"<b>숙박<\/b> (宿泊)이란 호텔, 모텔, 호스텔, 여관, 민박 등에서 잠을 자고 머무르는 행위를 말한다. <b>숙박<\/b> 시설은 종류에 따라서 여러가지로 나뉜다. 하루 이상 본가를 떠나 여행을 하는 사람들은 수면, 휴식, 음식, 안전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바람과 파도의 노래를 듣는 밤, 부산",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5678688&cid=58151&categoryId=58151",
+			"description":"| 분류 | 체험여행 | 바람이 거친 날 길을 나섰다. 목적지는 부산 해운대 인근의 숙소 네 곳. 핸드폰으로 태풍 주의 경보가 울린다. 파도소리를 듣기에 더없이 좋은 날씨다. 거센 기운으로 솟구치는 파도의... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxODA5MTRfMTYw%2FMDAxNTM2OTEzMTA3MDY0.sAX5OQz1DH-LIjuDGjxgS1fqEuo537mWvG0DLz6zgJ4g.Y0UzxnQICEU53Lnw1mhcUZlpz600S7l2uDqmo8YIA4cg.JPEG%2FITSM_hFD1YkO5VoBIFL60Z-EKNFQ.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x333"
+		},
+		{
+			"title":"안온이 깃든 남원의 방",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5695560&cid=58151&categoryId=58151",
+			"description":"| 분류 | 체험여행 | 통일신라 수도 경주를 중심으로 서남부 지역의 중심에 있다 하여 ‘남쪽의 근원’이라는 의미의 이름을 얻은 남원(南原), 조선시대 안동 다음으로 과거 급제자가 많았던 고을, 지리산이 품어... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxODExMzBfODgg%2FMDAxNTQzNTQxNDYxMjIx.LmOLp2-cKTdOcLOyZHpubjkhy4U1tVVIBtxkhmjYCCgg.xl74UYCctuKLJR7XOZfzaObzXSVbRlYvmzv2-0hb4Qog.JPEG%2FIL6lIK7qpgZ-D3xWjAq5fP2jkidM.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x334"
+		},
+		{
+			"title":"여행에 휴식을 더하는 강원도의 방",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5670011&cid=58151&categoryId=58151",
+			"description":"| 분류 | 체험여행 | 여름의 강원도는 듬직하다. 짙은 초록, 푸른 하늘, 구름을 둘러쓴 웅장한 산세, 그 사이의 아름다운 물길. 이 모든 것들을 돌아보면 사는 일이 축복인 듯 느껴진다. 화천, 강릉, 정동진... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxODA4MjRfMjcz%2FMDAxNTM1MDg5NDI3MTk3.67MZlSHlm-WqCTIHuDhz01Ku-U1VopdZRyUuparAwyQg.M4wU50B0hNkD8MjQF5V4Il3ZGEwasM-l91OyLHAFpPQg.JPEG%2FIqAx8bR2-NjwaO7dlIPRoNWQqMlI.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x374"
+		},
+		{
+			"title":"숨 쉬는 집, 숨 고르는 밤",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5670089&cid=58151&categoryId=58151",
+			"description":"| 분류 | 체험여행 | 수백 년 된 나무 마루를 밟는 기분은 묵직하고 오묘하다. 이 마루에 위인들이 앉아 지기의 안부를 묻고 사상을 정립하고 정사를 논했다. 수백 년 세월을 숨 쉰, 검은 윤이 반질거리는 마루에... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxODA4MjdfODIg%2FMDAxNTM1MzMxNTEyOTE0.14dBBeD-gOEx_J0XEBlmChtahuo5i4B5iSlsMsjevG0g.hINi40GkdRSmKiIkeN6_CS8K-9L6F4XafZzQjsluPUwg.JPEG%2FIg9eXbLy_9aS37S7ddG7F3tWkTPg.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x367"
+		},
+		{
+			"title":"<b>숙박<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=559206&cid=46631&categoryId=46631",
+			"description":" 수수료 및 계약에 의하여 이용자들에게 <b>숙박<\/b>설비를 제공하는 영업. [내용] 호텔·여관·여인숙 등이 그 대표적인 것으로, 본래의 기능은 장거리여행자에게 숙식을 제공하는 것이었으나, 경제발전과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_8\/20180907201035813_2XS5U7TB7.jpg\/8505fca5-9db4-41.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2781314&cid=51373&categoryId=51373",
+			"description":" <b>숙박<\/b> 시설에서 <b>숙박<\/b>하는 인원 및 가격을 파악해 관리하기 위한 서식.  <b>숙박<\/b>은 펜션이나 여관 또는 호텔 등에서 방문인이 잠을 자거나 머무르는 것을 뜻한다. 이러한 펜션이나 여관 또는 호텔 등을 <b>숙박<\/b> 업소... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508203838447_HC1F49HFW.jpg\/ba17_10858_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=463352&cid=42109&categoryId=42109",
+			"description":"관광 여행객이 여행중 잠자리를 얻을 수 있는 총 <b>숙박<\/b>시설을 칭한다. [ 1. Traditional Accommodation] Hotel, Motel, Pension 등의 전통적인 <b>숙박<\/b>시설. [ 2. Supplementary Accommodation]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047883&cid=42279&categoryId=42279",
+			"description":" <b>숙박<\/b>관련 제반 사항을 일자별로 기록한 문서.  <b>숙박<\/b>일보란 <b>숙박<\/b> 시설을 이용하는 자에 관한 기본 사항을 일자별로 기재한 표 형식의 문서를 말한다. <b>숙박<\/b>일보 작성 시에는 이용자의 성명과 연락처, 주소 등의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129003235091_J3ATHKKUR.jpg\/hb10_11591_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047884&cid=42279&categoryId=42279",
+			"description":" <b>숙박<\/b>관련 제반 사항을 일자별로 기록한 문서.  <b>숙박<\/b>일지란 <b>숙박<\/b> 시설을 이용하는 자에 관한 기본 사항을 일자별로 기재한 표 형식의 문서를 말한다. <b>숙박<\/b>일지 작성 시에는 이용자의 성명과 연락처, 주소 등의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129003235152_UKK73QFCT.jpg\/hb10_11592_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"공유<b>숙박<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5883284&cid=43667&categoryId=43667",
+			"description":" 주거지 일부를 타인에게 빌려주는 <b>숙박<\/b> 서비스업으로, 에어비앤비가 대표적이다. 국내에서는 내국인을 대상으로 하는 공유<b>숙박<\/b>이 제한되어 있었으나 정부가 규제 샌드박스를 통해 일시적으로 제한을 풀어... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxOTEyMDRfMTI2%2FMDAxNTc1NDM5MTgwMDgz.BczE0hRzjz5aqEOlQYAgySxIDj551-QnJSXuakUjTX0g.2hV02vWcZdTff7dbii-7WS747PD8M7rVNvvCTy8q9Fog.JPEG%2FIMmV0rz5b6bUTvVBdq_svHhOy-3A.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>숙박<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830134&cid=42279&categoryId=42279",
+			"description":" <b>숙박<\/b>업자와 이용자가 <b>숙박<\/b>업소를 일정 기간 이용하기 위해 계약 체결 시 <b>숙박<\/b>관련 제반 사항을 담은 문서.  <b>숙박<\/b>계약서는 상호간의 계약을 통하여 <b>숙박<\/b> 시설을 이용하는 자와 빌려주는 자 간에 의무와 권리를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128201510815_ML5DS65FZ.jpg\/hb10_2678_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>리스트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437405&cid=42279&categoryId=42279",
+			"description":" <b>숙박<\/b>리스트란 <b>숙박<\/b>업체의 목록을 기재한 표 형식의 문서이다.  <b>숙박<\/b>시설이란 <b>숙박<\/b>업이 이루어지는 시설을 총칭하는 말로 호텔, 여관, 펜션, 모텔, 유스호스텔 등이 이에 속하며, 손님을 투숙시키고 요금을 받는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902181646595_CBOI2KTAL.jpg\/hb10_72618_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>현황표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437453&cid=42279&categoryId=42279",
+			"description":" <b>숙박<\/b>현황표란 <b>숙박<\/b>업체에서 손님을 투숙 현황을 표 형식으로 기재한 문서이다.  <b>숙박<\/b>현황표란 <b>숙박<\/b>업체에서 <b>숙박<\/b>시설의 이용 현황을 표 형식으로 기재한 문서를 이른다. <b>숙박<\/b>현황표를 작성할 때에는 호실별... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902181813082_5W2XY15AK.jpg\/hb10_72350_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>요금표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437425&cid=42279&categoryId=42279",
+			"description":" <b>숙박<\/b>요금표란 <b>숙박<\/b>시설의 <b>숙박<\/b>관련 요금을 표 형식으로 작성한 문서이다.  <b>숙박<\/b>요금표란 <b>숙박<\/b>시설에서 객실별 <b>숙박<\/b> 요금 및 서비스 관련 요금을 표 형식으로 작성한 문서를 말한다. <b>숙박<\/b>요금표를 작성할... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902181713939_BACM5D9BJ.jpg\/hb10_72510_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>확인서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437480&cid=42279&categoryId=42279",
+			"description":" <b>숙박<\/b>확인서란 <b>숙박<\/b>시설 이용자가 이용 내역을 확인하기 위해 작성하는 서식이다.  <b>숙박<\/b>확인서란 <b>숙박<\/b>시설을 이용한 이가 <b>숙박<\/b>한 내용을 확인하기 위해 작성하는 서식으로, 일반적으로 <b>숙박<\/b>과 관련한 비용을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902181905125_OLEZ3GOCZ.jpg\/hb10_72193_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>요금표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6511385&cid=51373&categoryId=51373",
+			"description":" <b>숙박<\/b>요금에 관련한 사항을 기록한 문서.  <b>숙박<\/b>요금표란 <b>숙박<\/b>에 관련한 요금사항을 기록한 표 형식의 문서를 의미하는 것으로 객실 별 요금 및 서비스에 관련하여 요금사항을 타인에게 알리기 위한 목적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015145907451_QM01O5Y5M.jpg\/ba17_39767_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>확인서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3380778&cid=51373&categoryId=51373",
+			"description":" <b>숙박<\/b>사항을 확인하기 위해 작성하는 문서.  회사에서 근무를 하다 보면 접대나 출장, 사무 비품의 구매 등 업무를 위해서 돈을 사용하는 일이 자주 생기게 되는데, 이와 같이 업무로 인해 돈을 써야 할 때에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503121046936_KU9FINBZR.jpg\/ba17_37190_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>부분",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6067252&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] <b>숙박<\/b>시설에서 잠을 자고 머무는 객실 및 부속시설을 말한다. [도시 및 단지] 호텔에서 객실과 그 부속실이 차지하는 부분. [해양] 호텔에서 객실 및 그 부속공간이 차지하는 부분으로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 안내소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=464555&cid=50343&categoryId=50343",
+			"description":"정부가 후원을 하며 대규모 회의나 기타 중요 행사 때 <b>숙박<\/b>문제를 알선하고 조정하는 안내소를 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6067225&cid=67350&categoryId=67350",
+			"description":"참고 : 건축학용어사전, 세화 [도시 및 단지] <b>숙박<\/b>을 담당하는 시설의 총칭. 여관 · 여인숙, 호텔 등이 있다. 참고 : 건축용어대사전, 기문당 [해양] 관광객이나 여행객이 머물 수 있도록 만든 <b>숙박<\/b>용 시설의 총칭.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 지구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6067255&cid=67350&categoryId=67350",
+			"description":"[도시 및 단지] <b>숙박<\/b>시설이 집합 또는 밀집되어 있는 구역. 참고 : 건축학용어사전, 세화",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>예약약관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545216&cid=42279&categoryId=42279",
+			"description":" <b>숙박<\/b>예약약관이란 <b>숙박<\/b> 예약에 있어 미리 마련한 계약을 기록한 문서이다.  약관은 계약의 당사자가 다수의 상대방과 계약 체결을 위하여 미리 작성한 계약을 말하며, <b>숙박<\/b>은 여관이나 호텔 따위에서 잠을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182557846_N0D3FNTKG.jpg\/hb10_79503_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"펜션<b>숙박<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437679&cid=42279&categoryId=42279",
+			"description":" 펜션<b>숙박<\/b>일지란 펜션에서 <b>숙박<\/b>하는 인원 및 가격을 파악해 관리하기 위해 작성하는 문서이다.  펜션<b>숙박<\/b>일지란 펜션에서 <b>숙박<\/b>을 하는 이용객들의 신상과 <b>숙박<\/b>기간, 이에 따른 비용 등을 일별로 기록하나... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902182523360_G7IRSQWFY.jpg\/hb10_72574_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3533542&cid=51890&categoryId=53704",
+			"description":"[개설] <b>숙박<\/b>시설은 건축법 또는 관광 진흥법에 의거하여 설치된 건물로 여행객 등 소수 또는 다수의 이용자가 숙소로 활용할 수 있는 시설을 말한다. <b>숙박<\/b>시설은 건축법 및 건축법 시행령에 의해 건축 용도에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (창원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2637361&cid=51943&categoryId=54861",
+			"description":"[정의] 경상남도 창원시에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b>이란 어떤 곳에서 잠을 자고 머무르는 모든 행위를 말한다. 따라서 <b>숙박<\/b> 시설은 잠을 자고 머무를 수 있는 모든 곳으로 일반적으로 호텔·여관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2633045&cid=51942&categoryId=54807",
+			"description":"[정의] 수수료 및 계약에 의하여 이용자들에게 <b>숙박<\/b>을 제공하는 설비. [개설] <b>숙박<\/b>시설이란 일반적으로 호텔·여관·여인숙 등을 가리키는 총체적인 용어로 사용된다. 여기에는 잠을 자기 위한 기본 시설은 물론... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (고령)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2577205&cid=51931&categoryId=54238",
+			"description":"[정의] 경상북도 고령군에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] 관광 수요가 늘어나면서 <b>숙박<\/b>시설에 대한 수요도 증가하여 고령군에서 차지하는 <b>숙박<\/b>시설의 비중도 갈수록 늘어나고 있다. 고령군은 농촌... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2614810&cid=51887&categoryId=53549",
+			"description":"[정의] 경기도 용인시에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b> 시설은 일반적으로 호텔·여관·여인숙 등을 포함하는 포괄적인 용어로 이해된다. 즉 수면을 위한 기본 시설뿐만 아니라 세면이나 휴식 공간은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (성남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2599945&cid=51884&categoryId=53390",
+			"description":"[정의] 여관이나 호텔 등의 영업허가를 취득하여 손님에게 <b>숙박<\/b>서비스를 제공하고 비용을 받는 업종의 시설. [연혁] 한국 전통사회에서 <b>숙박<\/b>시설은 다양한 형태로 발전한 것이 특징이며 기능의 특성이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (울진)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2617511&cid=51937&categoryId=54551",
+			"description":"[정의] 경상북도 울진 지역에서 비즈니스, 관광 또는 휴양 등의 목적을 가진 여행객에게 <b>숙박<\/b>을 제공하는 시설. [개설] <b>숙박<\/b>시설은 호텔, 여관, 콘도미니엄, 유스호스텔, 휴양소, 연수원 등을 말한다. <b>숙박<\/b>업은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (구로)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2584923&cid=51879&categoryId=53194",
+			"description":"[정의] 서울특별시 구로구에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설 및 변천] 구로구 <b>숙박<\/b>시설의 역사는 구로구 오류2동 120번지 경인로 변 동부제강과 동부제강 사원연수원 사이에 위치하고 있었던... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (고창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2578818&cid=51945&categoryId=54972",
+			"description":"[정의] 전라북도 고창군에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b> 시설은 일반적으로 호텔·여관·여인숙 등을 포함하는 포괄적인 용어로 이해된다. 즉 수면을 위한 기본 시설뿐만 아니라 세면이나 휴식... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (구미)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2586378&cid=51932&categoryId=54294",
+			"description":"[정의] 경상북도 구미시에서 영업 허가를 취득하여 손님에게 <b>숙박<\/b> 서비스를 제공하는 시설. [개설 및 변천] 우리나라 <b>숙박<\/b>의 연원은 삼국시대 신라의 ‘역관’에서 관리들이 지방 순찰 시 숙소로 이용한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (진도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2630296&cid=51952&categoryId=55342",
+			"description":"[개설] 한국 전통사회에서 <b>숙박<\/b>시설은 다양한 형태로 발전한 것이 특징이며, 기능의 특성이 상이하다. 신라시대에는 역(驛)이라는 형태로 존재했으며, 고려시대에는 역, 객사(客舍)라는 형태로 자리하였다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (제주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2627687&cid=51955&categoryId=55497",
+			"description":"[정의] 제주특별자치도 제주시에서 <b>숙박<\/b>업을 영위하기 위한 관련 시설. [개설] <b>숙박<\/b>업이란 여관이나 호텔 따위와 같이 손님을 <b>숙박<\/b>시키고 요금을 받는 영업을 가리킨다. 현행 「공중위생관리법」에서는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (양산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2607785&cid=51941&categoryId=54757",
+			"description":"[정의] 경상남도 양산시에서 <b>숙박<\/b>업을 영위하기 위한 관련 시설. [개설] 우리나라 <b>숙박<\/b> 시설에 관한 최초의 기록은 『삼국사기』에 나타나 있다. 신라시대 487년(소지왕 9) ‘역관’을 세워 관리들이 지방 순찰... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (음성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2620240&cid=51892&categoryId=53764",
+			"description":"[정의] 충청북도 음성군에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] 여관, 호텔 등 여행객에게 제공되는 <b>숙박<\/b> 관련 시설과 서비스 전반을 총칭하는 말로서 관광 산업의 발달과 함께 관광 자원을 구성하는 중요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (남원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2591863&cid=51948&categoryId=55131",
+			"description":"[정의] 전라북도 남원시에 있는 <b>숙박<\/b> 시설. [개설] 남원 지역은 전라북도의 동남부와 경상남도의 서부 지역에 위치하고 있다. 3도(전라북도, 전라남도, 경상남도)에 걸쳐 있는 국립공원 제1호인 지리산의 절경과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2610026&cid=51950&categoryId=55234",
+			"description":"[정의] 전라남도 여수시에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b> 시설은 일반적으로 호텔·여관·여인숙 등을 포함하는 포괄적인 용어로 이해된다. 즉 수면을 위한 기본 시설뿐만 아니라 세면이나 휴식 공간은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (함양)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5870797&cid=66065&categoryId=66089",
+			"description":"[정의] 경상남도 함양군에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b>시설은 <b>숙박<\/b>업이 이루어지는 시설로 현재 우리나라 <b>숙박<\/b>시설의 유형은 호텔업, 휴양 콘도미니엄업, 관광 펜션업, 일반 <b>숙박<\/b>업, 유스 호스텔... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관광<b>숙박<\/b>시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1826985&cid=42154&categoryId=42154",
+			"description":"관광객의 <b>숙박<\/b>과 취사에 적합한 시설을 갖추어 이를 관광객에게 제공하거나 <b>숙박<\/b>에 딸린 음식 · 운동 · 오락 · 휴양 · 공연 또는 연수에 적합한 시설 등을 함께 갖추어 이를 이용하게 하는 시설을 말한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (울릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2616375&cid=51936&categoryId=54503",
+			"description":"[정의] 경상북도 울릉군에서 관광객들에게 <b>숙박<\/b>을 제공하는 시설. [현황] 1. 호텔 호텔은 주로 울릉읍 사동리와 도동리에 있다. 울릉읍 사동리 새각단 관광휴양시설지구 내에 위치한 울릉대아리조트은 150여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고객일일<b>숙박<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=464439&cid=50343&categoryId=50343",
+			"description":"고객이 한 호텔이나 모델 기타 <b>숙박<\/b>업소에 당일 <b>숙박<\/b>을 한 후 익일당 <b>숙박<\/b>업소규정에서 정한 일정 <b>숙박<\/b>기준에 의하여 Check-Out(체크 아웃)하는 것을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"생활<b>숙박<\/b>시설",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%83%9D%ED%99%9C%EC%88%99%EB%B0%95%EC%8B%9C%EC%84%A4",
+			"description":"생활<b>숙박<\/b>시설 은 건축법 2조 12항 2호에 정의된 <b>숙박<\/b> 시설의 한 종류로 건축법 시행령 [별표1] 용도별 건축물의 종류 (제3조의 5 관련)에 정의되어 있다. 구어로 '생활형 <b>숙박<\/b>시설'이라고 하나 틀린 표현이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관광<b>숙박<\/b>시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6412121&cid=42094&categoryId=42094",
+			"description":"관광객의 <b>숙박<\/b>과 취사에 적합한 시설을 갖추어 이를 관광객에게 제공하거나 <b>숙박<\/b>에 딸린 취사 · 운동 · 오락 · 휴양 · 공연 또는 연수에 적합한 시설 등을 함께 갖춘 시설을 말한다. 관광<b>숙박<\/b> 시설은 관광호텔... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5788528&cid=64866&categoryId=64890",
+			"description":"[정의] 울산광역시에 있는 <b>숙박<\/b> 서비스 제공 시설 [개설] 우리나라의 <b>숙박<\/b> 시설은 삼국시대부터 있었던 것으로 추정되는데 가장 명확한 것은 통일신라시대에 당나라를 찾는 신라인의 여관 역할을 하였던... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (예산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5705164&cid=63071&categoryId=63095",
+			"description":"[정의] 충청남도 예산군에 있는 <b>숙박<\/b> 가능한 여러 시설. [개설] 예산군의 <b>숙박<\/b> 시설(宿泊施設)은 <b>숙박<\/b>업소, 민박업소 및 한옥 체험 업소로 구성되어 있고, 그중 <b>숙박<\/b>업소는 다시 휴양콘도미니엄, 관광호텔... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (청도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2640212&cid=51939&categoryId=54652",
+			"description":"[정의] 경상북도 청도군에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b> 시설이라 함은 호텔, 여관, 민박, 여인숙 등을 포함하는 광범위한 용어로 수면을 위한 기본적인 객실뿐만 아니라 휴식 공간, 식사 기능까지... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150317130713600_4SJPPYOCC.jpg\/GC055P01373.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (양주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2658346&cid=51886&categoryId=53494",
+			"description":"[정의] 경기도 양주시에서 <b>숙박<\/b>업을 영위하기 위한 관련 시설. [개설] <b>숙박<\/b>업이란 여관이나 호텔 등과 같이 손님을 <b>숙박<\/b>시키고 요금을 받는 영업을 가리킨다. 현행 「공중위생관리법」에서는 <b>숙박<\/b>업을 손님이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150314064628700_Y6NIHC0SH.jpg\/GC043P0135.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (서산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2598263&cid=51929&categoryId=54129",
+			"description":"[정의] 충청남도 서산시에 방문하는 관광 여행객에게 <b>숙박<\/b>을 제공하고 요금을 받는 시설. [개설] <b>숙박<\/b> 시설은 「공중위생관리법」에 의한 신고 <b>숙박<\/b>업과 「관광진흥법」에 의한 관광 <b>숙박<\/b>업으로 구분된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (영천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2612483&cid=51935&categoryId=54454",
+			"description":"[개설] 2012년 5월 현재 영천 지역의 <b>숙박<\/b> 시설은 민박과 펜션, 모텔을 포함하여 97개소이며, 권역에 따라 보현산·임고 서원권, 치산·은해사권, 영천 시내·도계 서원권 등 세 곳으로 나눌 수 있다. [현황] 1.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (하동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2661454&cid=51944&categoryId=54919",
+			"description":"[정의] 경상남도 하동군에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b> 시설은 일반적으로 호텔·여관·여인숙 등을 포함하는 포괄적인 용어이다. 즉 수면을 위한 기본 시설뿐만 아니라 세면이나 휴식 공간은 물론... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150318125807650_USQVO52KL.jpg\/GC034P0724.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2823389&cid=55772&categoryId=55810",
+			"description":"[개설] <b>숙박<\/b> 시설은 <b>숙박<\/b>업이 이루어지는 시설이다. <b>숙박<\/b>업은 여관이나 호텔 따위와 같이 손님을 <b>숙박<\/b>시키고 요금을 받는 영업이다. 현재 우리나라 <b>숙박<\/b> 시설의 유형은 호텔업, 휴양 콘도미니엄업, 관광... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718163333590_DU1DI31OZ.jpg\/GC042P27165.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (천안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2570186&cid=51930&categoryId=54184",
+			"description":"[정의] 충청남도 천안시에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b> 시설은 호텔, 여관, 민박, 여인숙 등을 포함하는 광범위한 용어로 수면을 위한 기본적인 객실뿐만 아니라 휴식 공간, 식사 기능까지 포함하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150123181512807_N909BW34X.jpg\/GC045P00243.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (제천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2628164&cid=51893&categoryId=53811",
+			"description":"[정의] 충청북도 제천시에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b> 시설은 일반적으로 호텔·여관·여인숙 등을 포함하는 포괄적인 용어로 이해된다. 즉 수면을 위한 기본 시설뿐만 아니라 세면이나 휴식... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150316045439456_UKVRT9L1Y.jpg\/GC033P2691.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (의성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2621129&cid=51938&categoryId=54602",
+			"description":"[정의] 경상북도 의성군에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] 의성군은 전형적인 농업 지역이면서 ‘의로운 고장’, ‘선비의 고장’이기도 하다. 풍요와 휴식을 즐길 수 있는 자연 경관과 역사적 유적, 선비의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150315142827264_LK9C19F6F.jpg\/GC052P02135.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (화순)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2650805&cid=51953&categoryId=55389",
+			"description":"[정의] 전라남도 화순 지역에 있는 <b>숙박<\/b> 서비스 시설. [개설] 전라남도 화순 지역에는 2011년 기준 객실 220실을 갖춘 금호 화순 리조트와 객실 56실을 갖춘 도곡 가족 스파 랜드를 포함하여, 모텔·여관과 자연... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (진안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2688890&cid=51949&categoryId=55183",
+			"description":"[정의] 전라북도 진안군에 있는 호텔·민박·펜션·여관 등의 <b>숙박<\/b>이 가능한 시설. [개설] 진안군에는 펜션·민박·여관·모텔 등 각종 <b>숙박<\/b> 시설이 마련되어 있다. 최근에는 진안군에서 「내 딸 서영이」 등과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"강릉의 <b>숙박<\/b>시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2575344&cid=51890&categoryId=53704",
+			"description":"[정의] 강원도 강릉 지역에서 여관이나 호텔 등이 영업허가를 취득하여 손님에게 <b>숙박<\/b> 서비스를 제공하고 비용을 받는 업종 시설. [개설] 한국 전통사회에서 <b>숙박<\/b>시설은 다양한 형태로 발전한 것이 특징이며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (김천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2589376&cid=51933&categoryId=54347",
+			"description":"[정의] 경상북도 김천시에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b> 시설이라 함은 호텔, 여관, 민박, 여인숙 등을 포함하는 광범위한 용어로 수면을 위한 기본적인 객실뿐만 아니라 휴식 공간, 식사 기능까지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (영암)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2610613&cid=51951&categoryId=55289",
+			"description":"[개설] <b>숙박<\/b> 시설은 여행자들에게 숙식을 제공하는 형태로 잠은 물론 휴식과 세면 등을 충족시켜야 한다. <b>숙박<\/b> 시설의 역사를 보면 『삼국사기(三國史記)』에는 역관을 세워 관리 등이 지방 순찰 시 숙소로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>업사업계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3333033&cid=51373&categoryId=51373",
+			"description":" <b>숙박<\/b>업을 운영하기 위해서 작성하는 계획서 서식.  <b>숙박<\/b>업 사업계획서란 사업자가 <b>숙박<\/b> 시설을 운영할 목적으로 사업을 꾸려나가기 위해 필요한 내용들을 서식으로 나타낸 문서이다. <b>숙박<\/b>업 사업을 계획하기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209152641178_MIMUAOMQ2.jpg\/ba17_25191.jpg?type=m160_160"
+		},
+		{
+			"title":"관광<b>숙박<\/b>업 (삼척)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5699262&cid=62938&categoryId=62962",
+			"description":"[개설] 관광<b>숙박<\/b>업은 호텔업과 휴양 콘도미니엄업으로 분류되고, 호텔업은 ‘관광호텔업’, ‘수상관광호텔업’, ‘한국전통호텔업’, ‘가족호텔업’, ‘호스텔업’, ‘소형호텔업’, ‘의료관광호텔업’... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>시설 (강남구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2572346&cid=51878&categoryId=51957",
+			"description":"[정의] 여행객의 일시적 <b>숙박<\/b>을 위해 제공되는 강남구 소재의 시설과 그에 따르는 서비스의 총칭. [개설] 강남구의 <b>숙박<\/b>시설로 대표적인 것은 관광호텔이다. 관광호텔은 관광객의 <b>숙박<\/b>에 적합한 시설을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150310182401770_AAVBEMEB5.jpg\/GC048P01744.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (서귀포)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2656624&cid=51954&categoryId=55444",
+			"description":"[개설] <b>숙박<\/b>업은 「관광 진흥법」에 의한 관광호텔업·휴양 콘도미니엄, 「제주 국제 자유 도시 특별법」에 의한 휴양 펜션업, 「공중 위생법」에 의한 일반 호텔·여관·여인숙·민박 등으로 구분할 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150313071223832_RV0O7V3HR.jpg\/GC046P00903.jpg?type=m160_160"
+		},
+		{
+			"title":"생활형 <b>숙박<\/b>시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6558881&cid=43659&categoryId=43659",
+			"description":"취사와 세탁이 가능한 중장기 <b>숙박<\/b>시설을 말한다. 호텔과 오피스텔의 장점을 모아놓은 주거 형태로, 청약통장이나 가점이 필요하지 않고 건축법을 적용받기 때문에 주택 수에 포함되지 않아 중과 대상에서도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>업소전화교환원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664734&cid=42117&categoryId=42117",
+			"description":"전화교환기나 그에 부수된 기기를 조작하여 통화자의 요청에 의해 <b>숙박<\/b>업소 외부와 내부의 구내전화, <b>숙박<\/b>업소 내부에서 내부로 전화를 연결시켜 <b>숙박<\/b>업소에 투숙한 고객에게 서비스한다. 또한 고객이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이즈미르 <b>숙박<\/b> 정보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6596439&cid=67006&categoryId=69689",
+			"description":" 이즈미르에서 <b>숙박<\/b>을 하기에 가장 유리한 지역은 카르시야카(Karsiyaka), 알산칵(Alsancak), 코나크(Konak) 등이 있다. 카르시야카(Karsiyaka)는 이즈미르 만의 반대편에 위치한 지역으로, 인근 도시의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_16\/20220228105942402_U8DBJGPIT.jpg\/fb547_14_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"대한<b>숙박<\/b>업중앙회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EC%88%99%EB%B0%95%EC%97%85%EC%A4%91%EC%95%99%ED%9A%8C",
+			"description":"대한<b>숙박<\/b>업중앙회 (大韓宿泊業中央會)은 <b>숙박<\/b>업을 운영하는 대한민국의 보건복지부 산하 사단법인이다. 소재지는 서울특별시 영등포구 영신로 27 경오빌딩 4층에 위치하고 있다. 역사 1945년 8월 15일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>요식업박물관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%88%99%EB%B0%95%EC%9A%94%EC%8B%9D%EC%97%85%EB%B0%95%EB%AC%BC%EA%B4%80",
+			"description":"<b>숙박<\/b>요식업박물관 ( 핀란드어: Hotelli- ja ravintolamuseo 호텔리 야 라빈톨라무세오 [*] )는 핀란드 헬싱키의 카펠리테흐다스 건물에 소재한 박물관이다. <b>숙박<\/b>, 요식, 관광 관련 산업 및 핀란드의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 시설 (미추홀구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2622952&cid=51927&categoryId=53653",
+			"description":"[정의] 인천광역시 미추홀구에 있는 <b>숙박<\/b> 서비스 제공 시설. [개설] <b>숙박<\/b> 시설은 호텔이나 여관, 민박, 펜션, 모텔, 유스 호스텔 등 일시적인 <b>숙박<\/b>을 위한 시설을 가리키는 용어로, 장거리 여행자들이 여행 중... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청주의 <b>숙박<\/b>시설 (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2642771&cid=51895&categoryId=53911",
+			"description":"[정의] 여관이나 호텔 등이 영업허가를 취득하여 손님에게 <b>숙박<\/b>서비스를 제공하고 비용을 받는 업종 시설. [개설] 한국 전통사회에서 <b>숙박<\/b>시설은 다양한 형태로 발전한 것이 특징이며 기능의 특성이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b> 및 음식점업 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825071&cid=55772&categoryId=55810",
+			"description":"[정의] 부산광역시의 산업 중 <b>숙박<\/b> 시설이나 음식점 운영과 관련된 업종. [개설] <b>숙박<\/b>업은 일반 대중 또는 특정 회원에게 각종 형태의 <b>숙박<\/b> 시설, 캠프장 및 캠핑 시설 등을 단기적으로 제공하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718080408693_YKO1L9C6O.jpg\/GC042P20860.jpg?type=m160_160"
+		},
+		{
+			"title":"관광<b>숙박<\/b>업 시설별 일람표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2832452&cid=42279&categoryId=42279",
+			"description":" 관광진흥법 시행규칙에 의한 관광<b>숙박<\/b>업 시설별 일람표 행정서식.  관광진흥법 시행규칙 [시행 2014. 5. 23.] [문화체육관광부령 제172호, 2014. 5. 23., 일부개정]에 의한 [서식 2] 관광<b>숙박<\/b>업 시설별... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723181914252_724FD5PS3.jpg\/hb10_18886_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"백두산지구의 <b>숙박<\/b>시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2088114&cid=44454&categoryId=44471",
+			"description":"백두산지구에는 현대적인 답사숙영각, 답사숙영소, 답사려관, <b>숙박<\/b>소와 국외에서 온 관광객들을 위한 호텔, 관광려관 및 초대소들이 밀림 속 풍치에 어울리게 귀틀집형식으로 현대적이고도 아름답게 여러... ",
+			"thumbnail":""
+		},
+		{
+			"title":"DSP <b>숙박<\/b>업, 모텔 한글 32bit",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2421307&cid=51399&categoryId=51399",
+			"description":"<b>숙박<\/b>업소나 모텔에서만 사용할 수 있는 방식으로 다량을 구매할 때 유리합니다. 일반 패키지 제품에 비해 가격은 저렴하지만 메인보드나 PC 교체 시 사용이 불가능 합니다. 일반 패키지 제품처럼 정품... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자메이카에서의 <b>숙박<\/b> 및 식사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5804200&cid=65526&categoryId=65527",
+			"description":"자메이카에서의 <b>숙박<\/b>] ○ 자메이카는 <b>숙박<\/b>료가 고가인 편으로, Kingston 지역 주요 호텔의 경우는 대부분 싱글 1실에 US$150 이상이나 여관 수준의 호텔은 싱글 1실에 US$100 이하인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"섬진강 마실 휴양 <b>숙박<\/b> 단지 (순창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2827616&cid=55683&categoryId=55750",
+			"description":"[정의] 전라북도 순창군 적성면 석산리에 있는 휴양 <b>숙박<\/b> 시설. [건립 경위] 섬진강 마실 휴양 <b>숙박<\/b> 단지는 섬진강 시골길 생태 관광지 조성 사업의 일환으로 조성되어 2011년 8월 1일 개장하였다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150719041629367_G8EN816EE.jpg\/GC059P01262.jpg?type=m160_160"
+		},
+		{
+			"title":"대한<b>숙박<\/b>업중앙회 부산시지회 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825176&cid=55779&categoryId=56232",
+			"description":"[정의] 부산광역시 부산진구 전포동에 있는 대한<b>숙박<\/b>업중앙회의 부산 지회. [개설] 대한<b>숙박<\/b>업중앙회가 사단 법인으로 발족하기 이전 <b>숙박<\/b>업 조합의 시초는 해방 이전으로 올라간다. 해방 이전에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무전<b>숙박<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=464112&cid=50343&categoryId=50343",
+			"description":"호텔 정문으로 들어와 Check-In(입숙(入宿))을 하여 묵고, 뒷문으로 도망친 고객.",
+			"thumbnail":""
+		},
+		{
+			"title":"궁을 <b>숙박<\/b> 시설로 활용해도 좋을까요?",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3544072&cid=58583&categoryId=58586",
+			"description":"궁을 <b>숙박<\/b> 시설로 활용해도 좋을까요?] 우리나라 문화재를 관리하는 문화재청은 요즘 많은 사람들에게 문화재를 노출시키고 있어요. 경복궁과 창경궁은 봄·여름·가을·겨울마다 보름씩 야간 개방을 하고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_3\/20170102023132247_18USXQCPF.jpg\/676_151438_10032.jpg?type=m160_160"
+		},
+		{
+			"title":"북미 <b>숙박<\/b>업의 새바람, 나누면 돈이 되는 공간",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3579119&cid=58784&categoryId=58787",
+			"description":"최근 한 예능 프로그램에서 유명 남자 가수가 우스갯소리로 “내 이상형은 낯선 여자”라고 말했다. 질타를 받을 것으로 예상했던 이 발언은 의외로 온라인상에서 많은 공감 댓글을 얻었다. 새롭고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118182034457_WWGH9E4NP.jpg\/04_517.jpg?type=m160_160"
+		},
+		{
+			"title":"대한<b>숙박<\/b>업중앙회 울산광역시<b>숙박<\/b>지회 (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5784975&cid=64862&categoryId=65055",
+			"description":"[정의] 울산광역시 남구 신정동에 있는 대한<b>숙박<\/b>업중앙회의 울산광역시 지회. [설립 목적] 대한<b>숙박<\/b>업중앙회 울산광역시<b>숙박<\/b>지회는 <b>숙박<\/b> 경영자 단체로써 <b>숙박<\/b> 산업의 건전한 발전과 공중 위생 향상을 통한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"포르케타를 파는 전통 <b>숙박<\/b>업소 프라스케타",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117626&cid=42717&categoryId=42718&anchorTarget=TABLE_OF_CONTENT8#TABLE_OF_CONTENT8",
+			"description":"프라스케타는 라치오 카스텔리로마니 지역에만 있는 잠자리와 간단한 먹거리를 제공하는 소박한 <b>숙박<\/b>업소이다. 프라스케타는 로마 변두리에 사는 농부들이 물건을 팔러 시내로 가는 길에 쉴 곳이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"군인의 <b>숙박<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1406513&cid=46720&categoryId=46834",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_2\/20140914175235884_RPHZS0XR9.jpg\/99-001323.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>숙박<\/b>시설로 이용되고 있는 탑하촌 유덕루 토루",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5941815&cid=63538&categoryId=66907",
+			"description":"현재 <b>숙박<\/b>시설로 이용되고 있는 탑하촌 유덕루 토루",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_26\/20200420134010735_G9B1YGGHV.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"[고객측 손해배상]<b>숙박<\/b>시설 물건 망가뜨렸다면?",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6628128&cid=69440&categoryId=69440",
+			"description":" 투숙객이 고의로 기물을 파손했음이 명확한 경우에는 재물손괴죄에 해당할 수 있다. 고의가 아닌 이용과정의 실수로 물건을 파손했다면 고의가 아니기 때문에 재물손괴죄에 해당하지 않는다. 호텔 측은... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjA2MTVfMjM2%2FMDAxNjU1MjUyNzA2NDY5.UTQcUFXTsEir-8d3nPxnNC1wG08JE-Hsc9DNGCejrR0g.E3Wc8Y03JS5ZB_SvxPtkqVhn8PVEYP_QYOQctGu0tpAg.JPEG%2FIg6qxHn6hxrXzKjevl7Q3X4V-LYg.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"[명예훼손]<b>숙박<\/b>업소 후기 때문에 문제가 생겼어요",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6628126&cid=69440&categoryId=69440",
+			"description":" 공연히 사실을 적시하거나 허위의 사실을 적시해 사람의 명예를 훼손한 경우 명예훼손죄로 처벌될 수 있다. 사실을 적시한 명예훼손의 경우 오로지 공공의 이익을 위한 때에는 위법성이 조각돼 처벌받지... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjA2MTRfMjQ3%2FMDAxNjU1MTcwMDcwNzU5.eScL2j9fQb8Ed12Tnp77GJtdGYAJ74riIKpULQgtCf0g.AYVahOM-Ry6HDTbOwB8IOwDaig51my0a_YDAU1yYHxQg.JPEG%2FIIYzu_v4dRGJ0PRA8DaS6FPwk4F4.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"[여행자측 계약 취소]<b>숙박<\/b>시설 예약 당일에 취소하면?",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6628124&cid=69440&categoryId=69440",
+			"description":" <b>숙박<\/b>시설 성수기 주중의 경우 사용예정일 10일 전까지 취소하거나 계약을 한 당일 취소하는 경우에는 계약금 전액을 환급받을 수 있지만 사용예정일 7일 전까지는 총 요금의 10%, 사용예정일 5일... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjA2MTVfMTYx%2FMDAxNjU1MjQ4OTY5NTI0.tz0Q1TR5bi7slEeHWjUFGWwecB1Hdx_ETSvqNJ03kocg.KRMkVsz1Rn2huyhQ_M_PguTI66Dj1Hg0DVmMC0LU-3Ag.JPEG%2FIjJ5Jfo20gTX5jWQYn7uFSu2Nk9Q.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x381#c381"
+		},
+		{
+			"title":"이동과 <b>숙박<\/b>을 동시에 해결 할 수 있는 버스가 있다?",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5726378&cid=51648&categoryId=63595",
+			"description":"[이동과 <b>숙박<\/b>을 동시에 해결 할 수 있는 버스가 있다?] &quot;시대가 발전하면서 탈것에 대해 다양한 목적이 요구되고 있는 가운데 미국에는 이동과 <b>숙박<\/b>이 동시에 가능한 버스가 있다고 한다. 기존 <b>숙박<\/b>이 가... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20190123_13\/b5D03_15482023595022hiXp_JPEG\/951feaee-1ea3-11e9-bbdd-246e96398ca5_07.jpg#1920x1080#m"
+		},
+		{
+			"title":"[<b>숙박<\/b>업신고]시골집 잠깐 빌려쓰겠다던 친구가 펜션 운영했다면?",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6628127&cid=69440&categoryId=69440",
+			"description":"이를 위반해서 <b>숙박<\/b>업 신고를 하지 않으면 1년 이하의 징역 또는 1000만원 이하의 벌금에 처해진다.  | 법령 | 공중위생관리법 | | 주요 조문 | •공중위생관리법 제3조(공중위생영업의 신고 및 폐업신고)... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjA2MTRfNCAg%2FMDAxNjU1MTgxNjcwODY4.y570OmdVUQd_NjUewCFz1FF4GjczBQfojhD6eRF1eEUg.-1ZJ2l0oH9Zdi1T4_wbRTBvn_TBmrxmHqb2cZaccYlIg.JPEG%2FIah9cYGgWgpubL7yzcdfs5ev9RBU.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"고소역 앞에서 <b>숙박<\/b>하다",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1789467&cid=49257&categoryId=49257",
+			"description":"[표해록 명] 최부 [날짜] 1489-02-17 [주제어] 이국의풍경 [지역명] 중국 소주는 곧 옛날 오왕(吳王) 합려(闔閭)가 오자서(伍子胥)로 하여금 성을 쌓아 도읍 했던 곳이다. 성 둘레는 또한 항주와 같았으며, 부치와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"[전자상거래]해외공유<b>숙박<\/b> 예약하고 갔는데 사진과 너무 달랐어요",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6628129&cid=69440&categoryId=69440",
+			"description":" 한국소비자원이 마련한 <b>숙박<\/b>업에 대한 소비자 분쟁 해결 기준에 의하면 거짓·과장 광고 혹은 기만적인 표시 광고를 한 경우에는 계약금을 환급해 주도록 하고 있다. 만약 사진과 실물의 차이가 극명하고... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjA2MTVfMjk0%2FMDAxNjU1MjU1Nzc5NzAz.0UxKMzN8gNEyLtfWiZgEVlnvefdwx06Ck-P-Wjhn1mIg.ZUMeV6GATsR4K4x_Z_stBFMm4nSsJwR_BK-CrqINnegg.JPEG%2FI0-LaEAMNLIM9f4DRGAdGd_gIwas.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"바다거북이 등 위에서 <b>숙박<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1765033&cid=49242&categoryId=49242",
+			"description":"• 주제 : 포교 • 국가 : 인도 • 참고문헌 : 생경 석존께서 사밧티국의 기원정사에서 많은 사람들을 모아 놓고 설법하고 계셨을 때의 일이다. 큰 바다 거북이가 넓은 바다를 헤엄치며 즐겁게 놀고 있었다. 어느... ",
+			"thumbnail":""
+		},
+		{
+			"title":"[전자상거래]온라인 <b>숙박<\/b>플랫폼 통해 예약 시 '환불불가', 효력 있나요?",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6628125&cid=69440&categoryId=69440",
+			"description":" 한국소비자원 소비자분쟁조정위원회는 전자상거래로 <b>숙박<\/b>시설 이용을 계약한 경우 「전자상거래에 관한 소비자보호에 관한 법률」에 따라 7일 이내 청약철회가 가능하다고 판단하고 있다. 하지만... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjA2MTRfMTMy%2FMDAxNjU1MTcwMDY1OTcy.625-JfKgDqJ0pa2BnCBS37axwZPVhV1AGygFhsRAxHgg.Rk4TzblqETGoPi3XFi2qSliYHievuGvj4taQ8ylo0UYg.JPEG%2FIB0rRy_4ZNSFEQDIgXHjhlikxOj0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x451#c451"
+		},
+		{
+			"title":"현재 <b>숙박<\/b>시설로 이용되는 옛 궁전",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808584&cid=63538&categoryId=65518",
+			"description":"1984년 세계문화유산으로 등재된 그라나다 알함브라 궁전과 절대 통치자의 정원 헤네랄리페, 이슬람 거주지역인 알바이신 유적은 도시가 내려다 보이는 두 개의 언덕 위에 조성되어 있다. 알함브라 궁전과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222244339_QU7E50DSG.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"봉래연산(蓬萊連山) 돌배치, 동굴 돌배치, <b>숙박<\/b> 돌배치, 깔돌, 밀물식 간석지 개펄 조성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2269812&cid=51331&categoryId=51332",
+			"description":"봉래연산(蓬萊連山) 돌배치 동굴 돌배치 <b>숙박<\/b> 돌배치 깔 돌 간석지 개펄모양 밑물식 간석지 개펄모양",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1917_000_1\/20121113171946251_H69FHP849.jpg\/db4_733_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"순미산식(順彌山式) 돌배치, 소용돌이식 돌배치, 동굴 돌배치, 봉래연산(蓬萊連山) 돌배치, 간사지 개펄조성, <b>숙박<\/b> 돌배치, 주석(舟石)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2269815&cid=51331&categoryId=51332",
+			"description":"순미산식(順彌山式) 돌배치 소용돌이식 돌배치 <b>숙박<\/b> 돌배치 동굴 돌배치 봉래연산(蓬萊連山) 돌배치 주석(舟石) 간석지 개펄모양",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1917_000_1\/20121113172011372_U6JJPPE5U.jpg\/db4_736_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"여관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=581087&cid=46634&categoryId=46634",
+			"description":" <b>숙박<\/b>비를 받고 손님을 묵게 하는 <b>숙박<\/b>시설. [변천] 전통사회에서는 개인여행이 많지 않았으므로 개인여행자를 대상으로 한 사설 <b>숙박<\/b>시설은 드물었다. 우리나라의 전통 <b>숙박<\/b>시설은 공설(公設)이 대부분이었고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_9\/20180911211215396_8Y7JQGIEX.jpg\/550ca654-3a73-49.jpg?type=m160_160"
+		}
+	]
+}

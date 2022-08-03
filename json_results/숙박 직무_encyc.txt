@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:52 +0900",
+	"total":135,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>직무<\/b>명세서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1594679&cid=50304&categoryId=50304",
+			"description":"<b>직무<\/b>명세서교육학용어사전 <b>직무<\/b>분석을 통해서 얻어진 구체적인 <b>직무<\/b>내용을 밝혀둔 문서. 예컨대... 외국어 표기 Job Description(영어), 職務明細書(한자) 분야 <b>숙박<\/b>시설 및 <b>숙박<\/b> 일반",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>숙박<\/b>업소전화교환원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664734&cid=42117&categoryId=42117",
+			"description":" 고객의 불만사항 등을 전화상으로 접수하고 투숙한 고객의 전화를 연결한다. [수행<b>직무<\/b>] 고객에게 전화상으로 의견사항을 접수받고 전달한다. 전화상으로 접수된 고객 불편사항을 처리하고 고객이 원하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현재 <b>숙박<\/b>시설로 이용되는 옛 궁전",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808584&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘 보여주는 장소이다. 궁전과 어깨를 마주하고 있는 헤네랄리페는 아랍 절대자들이 사랑했던 정원을 상징하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222244339_QU7E50DSG.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"주스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=466938&cid=42105&categoryId=42105",
+			"description":"영향을 미치는 사람과 저명인사, 수혜를 받는 세력, 카지노에서 <b>직무<\/b>로 호텔에 무료 <b>숙박<\/b> 권한을 가진 부류 등을 일컫는다. 2. 전기 또는 전자식 동력으로, 한쪽으로 치운친 주사위 또는 룰렛 휠을 조종하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도시민박운영자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024499&cid=42117&categoryId=42117",
+			"description":" 관광객 대상의 민박사업을 기획하거나 직접 민박을 운영한다. [수행<b>직무<\/b>] 도시지역에 거주하고 있는 주택을 이용하여 외국인 관광객에게 한국의 가정문화를 체험할 수 있도록 숙식 등을 제공한다. 한국문화와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔프런트사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658477&cid=42117&categoryId=42117",
+			"description":" 호텔 프런트 데스크(Front Desk)에서 고객응접 업무를 수행한다. [수행<b>직무<\/b>] 고객을 맞이하여 인사하고 환영한다. 전반적인 호텔의 정보를 고객에게 제공한다. 프런트 데스크 시스템(Front Desk System)을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔판촉지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658345&cid=42117&categoryId=42117",
+			"description":" 공항에 상주하면서 공항이용 고객을 대상으로 호텔 판촉 업무를 수행한다. [수행<b>직무<\/b>] 공항에서 숙소가 정해지지 않은 고객을 대상으로 호텔 <b>숙박<\/b>비와 시설 등을 설명한다. 귀빈 방문 시 공항에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여행상품상담원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953616&cid=42117&categoryId=42117",
+			"description":"<b>숙박<\/b>시설 예약, 교통편 예약 등 여행에 따르는 대행 업무를 준비하고 여행일정을 계획한다. 행선지, 교통편, 여행일정, 경비, <b>숙박<\/b>시설을 고객과 협의·결정한다. 단체여행을 계획하고 명시하여 판매한다. 여행... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해외여행안내원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953486&cid=42117&categoryId=42117",
+			"description":"교통편, <b>숙박<\/b>시설, 식당 등의 예약 또는 예약확인을 위해 여행사와 상의한다. 식사와 <b>숙박<\/b> 등 관광객과 여정을 함께 하고, 귀국할 때까지 관광일정의 편의를 위해 제반 서비스를 제공한다. 관광객의 부상 시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지역별여행상품운영원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832711&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 여행지의 여행사에 소속되어 국내의 여행사로부터 현지의 여행지 예약을 의뢰받으면 여행상품의 구성요소 중 항공권을 제외한 <b>숙박<\/b>, 교통, 음식 등을 사전에 확보하여 예약 업무를 수행한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해외여행MD",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832712&cid=42117&categoryId=42117",
+			"description":"여행개발 예정지의 항공, <b>숙박<\/b>, 관광지 등의 관광자원을 파악한다. 여행에 들어갈 총비용을 산출하고, 일정표를 만든다. 현지의 협력업체를 섭외하고 계약을 맺는다. 항공권 예약, 여권발급, 환전 등 여행에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"그린빌딩인증평가전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026277&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 공동주택, 복합건축물, 업무용건물 기타건축물(학교, <b>숙박<\/b>, 판매 등)에 대한 친환경건축물인증 신청자의 예비인증, 본인증, 연장신청에 대해 신청자가 제출한 서류를 검토한다. 심사대상인 건축물에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국내여행MD",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026158&cid=42117&categoryId=42117",
+			"description":"국내의 항공, 육로 및 해상 교통편, 요금, 관광명소의 위치, <b>숙박<\/b>시설 등에 관한 제반 자료를 토대로 관광 코스와 일정을 기획하고 예상경비를 산출한다. 기획된 코스를 답사하고 문제점을 보완하여 관광 코스를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여행안내원(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664977&cid=42117&categoryId=42117",
+			"description":"여행 방문지에 대한 정보를 수집하고 <b>숙박<\/b>시설, 교통편 등의 모든 사항을 확인한다. 관광객들에게 여행일정에 대해 설명하고 관광지로 인솔한다. 관광지에 대한 역사와 문화 및 정보를 제공한다. 여행 중에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국내여행안내원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026164&cid=42117&categoryId=42117",
+			"description":"교통편, <b>숙박<\/b>시설, 식당 등에 관한 예약 또는 예약확인을 위해 여행사와 상의한다. 개인 또는 단체 관광객을 수행 및 안내하며, 필요한 제반 서비스를 제공한다. 관광객에게 여행 시 필요한 장비사용에 대하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연예인매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832829&cid=42117&categoryId=42117",
+			"description":"지방, 해외공연에 따른 여행일정, 교통, <b>숙박<\/b> 등과 관련하여 세부적인 일정을 수립하고 협의한다. 대본이나 시나리오를 검토하여 담당 연예인이 해당 배역을 소화할 수 있도록 체력 또는 특기활동 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제회의기획자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024583&cid=42117&categoryId=42117",
+			"description":"기획, 참가자 등록업무, <b>숙박<\/b>, 행정, 관광, 전시회 등 사교행사 등 국제회의 관련 준비를 진행한다. 국제회의 진행을 위해 통역사 및 관련 종사자를 섭외하고 운영한다. 개최할 국제회의를 국내외 참가자 및 관련... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공간정보융합서비스시스템개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028676&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 공공정책, 자동차항법장치, 가상현실, 게임, 부동산, 마케팅, 대중교통, <b>숙박<\/b>, 관광, 안전 등 개발 분야의 공간정보융합서비스 관련자와 면담하여 개발할 서비스의 기능 및 요구사항을 파악한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"발렛파킹원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026178&cid=42117&categoryId=42117",
+			"description":" 호텔, 레스토랑 등에서 고객의 차량을 대신 주차·출차하는 서비스를 제공한다. [수행<b>직무<\/b>] 유니폼을 착용하고 지정된 장소에서 대기한다. 고객의 주차 요청을 접수한다. 고객의 신원과 차량번호, 차량 종류를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔총지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024509&cid=42117&categoryId=42117",
+			"description":" 호텔의 <b>숙박<\/b>시설과 각종 부대시설에서 종사하는 종업원들의 업무를 감독·조정하고 제반 업무를 총괄 지휘한다. [수행<b>직무<\/b>] 호텔의 효율적인 운영을 위하여 종업원의 업무를 관리하고 고객 접대서비스의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔컨시어지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837803&cid=42117&categoryId=42117",
+			"description":" 호텔을 방문한 고객이 필요로 하는 모든 서비스를 제공한다. [수행<b>직무<\/b>] 호텔 투숙객의 짐을 들어주고, 호텔시설 이용정보를 제공하는 등 각종 문의사항에 응대한다. 관광지, 교통, 식당, 쇼핑 등 고객이 원하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔벨맨",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026180&cid=42117&categoryId=42117",
+			"description":" 호텔에 도착한 고객을 객실로 안내하고 호텔시설 등의 정보를 제공한다. [수행<b>직무<\/b>] 단정한 복장을 갖추고 현관에서 대기한다. 고객이 현관에 도착하면 정중히 인사를 하고 고객의 짐을 받아들고 프런트(Front)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"출장신고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3334072&cid=51373&categoryId=51373",
+			"description":"해당 직원이 스스로 업무를 처리하기 위해 출장 업무를 나가는 경우와 본래 맡고 있던 <b>직무<\/b> 외에 상급자의 명령에 따라 공적인 업무를 수행하기 위해 다른 근무지나 장소로 나가는 경우가 있다. 출장 업무의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209145727106_IB1ZFZSTJ.jpg\/ba17_11566.jpg?type=m160_160"
+		},
+		{
+			"title":"호텔도어맨",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026179&cid=42117&categoryId=42117",
+			"description":" 호텔에 도착한 고객의 차량을 안내하고, 호텔 현관 주변의 차량소통이 원활하도록 관리한다. [수행<b>직무<\/b>] 고객의 차량이 현관으로 들어오면 정차 위치를 안내하고 차가 정지하면 차량의 문을 열어 고객을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔현관지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837683&cid=42117&categoryId=42117",
+			"description":" 호텔투숙객의 객실 배정·퇴실을 관장하고, 호텔현관종사원들의 업무를 지시·감독한다. [수행<b>직무<\/b>] 호텔 투숙의 예약상황을 검토하여 예약처리지침을 전달한다. 고객의 예약여부를 확인하여 객실을 배정해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관광통역안내원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026163&cid=42117&categoryId=42117",
+			"description":"환전, <b>숙박<\/b>시설, 교통편 등 입국에서 출국에 이르기까지 관광객의 일정에 관한 모든 편의를 제공한다. 내국인의 해외여행 시 동행하여 공항에서 수속업무를 일괄적으로 대행하고 관광지를 안내하며 필요시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔객실관리지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024507&cid=42117&categoryId=42117",
+			"description":" 호텔 객실부의 운영을 계획·유지·관리하고, 객실정비 및 비품·집기 등을 관리·감독한다. [수행<b>직무<\/b>] 호텔 객실부의 연간 운영계획을 수립한다. 객실부의 서비스 상태를 유지·관리한다. 객실부의 효율적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔레비뉴매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024508&cid=42117&categoryId=42117",
+			"description":" 호텔, 리조트 등에서 수익을 극대화하기 위해 객실 및 서비스의 예약률을 예측하고 시장상황에 따라 가격과 예약률을 탄력적으로 운영한다. [수행<b>직무<\/b>] 고객의 정보(다양한 구매 시나리오, 과거 고객... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경마중계소관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024497&cid=42117&categoryId=42117",
+			"description":" 비디오장치를 이용하여 경마경주를 중계하는 경마중계소를 관리한다. [수행<b>직무<\/b>] 경마 시행정보에 따라 경마중계소의 업무계획을 수립한다. 마권의 구입, 승식, 환급과 기타 경마시행과정에 대하여 고객에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔객실청소원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026099&cid=42117&categoryId=42117",
+			"description":" 호텔이나 여관 등의 <b>숙박<\/b>업소에서 깨끗하고 청결한 객실을 유지·관리한다. [수행<b>직무<\/b>] 걸레, 세제, 진공청소기 등의 청소기구를 사용하여 객실을 청소한다. 화기나 전기에 의한 화재를 예방한다. 객실문이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블카운영관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024506&cid=42117&categoryId=42117",
+			"description":" 고객 및 화물을 이동시키는 케이블카의 운행 및 안전을 총괄 관리하고 관련 종사자들의 활동을 관리한다. [수행<b>직무<\/b>] 케이블카의 운영 현황을 파악한다. 고객의 안전 및 서비스를 위해 종사원에 대한 업무조정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"골프장코스관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024498&cid=42117&categoryId=42117",
+			"description":" 골프장 코스의 잔디를 관리하며 코스관리원의 활동을 조정 및 감독한다. [수행<b>직무<\/b>] 잔디의 종류에 따른 토양 및 기후에 맞추어 잔디 관리계획을 세운다. 코스를 순찰하며 병충해 및 문제가 있는 코스에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유람선운영관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024503&cid=42117&categoryId=42117",
+			"description":" 유람선 운항과 관련 시설 운영을 총괄 관리하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 유람선의 운행일정, 승객 수 및 특성 등을 확인하여 필요 승선인원을 계획한다. 기상 환경, 승객 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유원지관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024504&cid=42117&categoryId=42117",
+			"description":" 오락용 승차기구 시설을 갖춘 유원지에 대한 운영 및 관리를 총괄하고, 관련 종사원들의 활동을 조정한다. [수행<b>직무<\/b>] 오락시설 이용, 동·하절기 개장시간, 행사개최 등 유원지 운영에 대한 계획을 수립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔예약사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953525&cid=42117&categoryId=42117",
+			"description":" 호텔의 각종 예약에 관한 업무를 수행하고 호텔예약고객을 관리한다. [수행<b>직무<\/b>] 컴퓨터를 확인하여 호텔의 각종 부대시설의 예약현황을 파악한다. 밤사이 전화, 팩스, 전자우편, 인터넷 등으로 들어 온... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김영란법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2424533&cid=42107&categoryId=42107",
+			"description":"공직자와 언론사·사립학교·사립유치원 임직원, 사학재단 이사진 등이 부정한 청탁을 받고도 신고하지 않거나, <b>직무<\/b> 관련성이나 대가성에 상관없이 1회 100만원(연간 300만원)이 넘는 금품이나 향응을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경기장관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024496&cid=42117&categoryId=42117",
+			"description":" 육상경기장, 축구장, 농구장, 야구장, 경마장, 각종 실내경기장 등 경기장의 운영·유지·관리를 총괄하고, 관련 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 경기장 운영에 필요한 인력, 장비, 예산 등에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024505&cid=42117&categoryId=42117",
+			"description":" 카지노의 운영 및 관리 업무를 총괄하고 종사원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 카지노의 영업준칙를 준수하기 위하여 카지노종사원을 지도하고 업무를 감독·조정한다. 카지노 내 칩의 유통상태를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유기장관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024502&cid=42117&categoryId=42117",
+			"description":" 일반 대중에게 오락서비스를 제공하기 위한 유기시설을 운영·유지·관리하는 업무를 총괄하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 당구장, 볼링장, 기원, 전자오락실, 댄스홀, 댄스교습소 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스파매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024500&cid=42117&categoryId=42117",
+			"description":" 병원, 호텔, 피트니스 센터 등에 속한 스파시설(Spa, 물의 열, 부력 따위로 온몸의 혈액순환을 촉진하여 피부를 관리하고 몸의 스트레스를 해소할 수 있는 시설을 갖추어 놓은 가게)이나 스파체인점, 개인스파숍... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운동시설관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024501&cid=42117&categoryId=42117",
+			"description":" 일반 대중의 체력단련과 특수운동의 기술연마를 위하여 제공되는 운동설비를 운영·유지·관리하는 업무를 총괄하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 정구장, 수영장, 골프장, 탁구장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공간정보융합서비스기획자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024558&cid=42117&categoryId=42117",
+			"description":" 공공정책, 자동차항법장치, 가상현실, 게임, 부동산, 마케팅, 대중교통, <b>숙박<\/b>, 관광, 안전 등 다양한 공간정보융합서비스를 기획한다. [수행<b>직무<\/b>] 개발하는 공간정보서비스의 목표서비스를 정의하고 외부환경... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기숙사사감",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024654&cid=42117&categoryId=42117",
+			"description":" 기숙사에서 입사생들의 생활 전반을 관리하며 야간순회를 돌거나 기숙사의 보안과 시설 등을 관리한다. [수행<b>직무<\/b>] 입사생에게 기숙사 규정을 설명한다. 학교 및 단체생활에 잘 적응할 수 있도록 조언하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔식음업장지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024495&cid=42117&categoryId=42117",
+			"description":" 호텔 식음업장의 운영과 영업을 총괄 관리하고, 종업원들의 활동을 관리·감독한다. [수행<b>직무<\/b>] 호텔 식음업장의 매출을 증진시키기 위한 영업방안을 모색한다. 판매량과 고객취향 등을 파악하여 메뉴계획을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔세탁원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026114&cid=42117&categoryId=42117",
+			"description":" 고객의 세탁물과 직원 유니폼, 객실침구류 등의 세탁물을 분류하여 세탁하고 배분한다. [수행<b>직무<\/b>] 고객의 세탁물과 직원의 유니폼 세탁물을 수거하여 세탁 전에 상태를 확인한다. 물세탁, 특수세탁 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔기물담당관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024744&cid=42117&categoryId=42117",
+			"description":" 호텔 내 모든 기물을 총괄 관리·감독하며, 행사 시 필요한 기물을 청결하게 유지한다. [수행<b>직무<\/b>] 각 업장에서 필요로 하는 각종 장비, 도구를 관리하고 조달을 한다. 업장의 청결유지와 세제를 관리한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔행사장식가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832862&cid=42117&categoryId=42117",
+			"description":" 호텔의 각종 행사를 위해 조각물, 포스터 등의 장식물을 디자인하고 제작한다. [수행<b>직무<\/b>] 호텔의 계절행사 등을 위해 시장조사를 한다. 호텔이나 식음료부 판촉을 위한 각종 장식품을 디자인하고 제작한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔고객지원사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024882&cid=42117&categoryId=42117",
+			"description":" 호텔고객을 영접·보좌하고 객실고객이 필요로 하는 서비스를 제공한다. [수행<b>직무<\/b>] 객실고객에게 호텔시설 이용정보를 제공한다. 고객의 요청에 따라 비행기 등 교통편을 예약하고 수속업무를 대행한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운동선수매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832828&cid=42117&categoryId=42117",
+			"description":" 운동선수 및 선수단이 최상의 운동능력을 유지하도록 트레이닝 스케줄, 휴식, 건강, <b>숙박<\/b>, 차량 이동 등에 대한 제반 사항을 관리한다. [수행<b>직무<\/b>] 개별 운동선수에 대해 트레이닝 시간, 건강상태, 휴식시간... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직장훈련",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1594697&cid=50298&categoryId=50298",
+			"description":"또한 낭비 및 기물 파손율이 낮아지며, 아울러 사기, 생산성, <b>직무<\/b>지식이나 판매능력이 높아지고, 고객 만족도를 높일 수 있다. 외국어 표기 On-the-job Training(영어), 職場訓練(한자) 약어 O.J.T 분야 <b>숙박<\/b>시설... ",
+			"thumbnail":""
+		},
+		{
+			"title":"힐튼",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=464480&cid=42109&categoryId=42109",
+			"description":"힐튼호텔의 경영합리화를 살펴보면, 시간 및 동작연구, <b>직무<\/b>분석, <b>직무<\/b>의 표준화, 안전계획, 철저한 예산관리, 정가계획들을 실시하고 과학적으로 경영 활동을 분석하고 예측함으로써 효율적인 경영을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국고용직업분류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5683380&cid=43667&categoryId=43667",
+			"description":"KECO는 취업알선 서비스, 노동력 수급 통계 작성 등 고용 정책의 기초 역할을 하고, 산업현장의 <b>직무<\/b>를 성공적으로 수행하는 데 필요한 능력을 표준화한 NCS(국가<b>직무<\/b>능력표준) 개발의 기초가 된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"엔트리 레벨 잡",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=464210&cid=50343&categoryId=50343",
+			"description":"초보적(初步的)인 일. 사전 경험없이 최소한 일정 기간의 훈련과 교육만 필요로한 <b>직무<\/b>를 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"안전부서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=465369&cid=50343&categoryId=50343",
+			"description":"제공하는 데에 있어서 중요한 역할을 수행하는 부서이다. 이 부서의 <b>직무<\/b>역할로는 객실열쇠의 관리, 소방대피 업무, 비상시 대피업무, 호텔직원 교육업무, 고객재산의 보호, 분실물 처리업무 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"훈련소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%9B%88%EB%A0%A8%EC%86%8C",
+			"description":"시설에 대해서는 각각의 <b>직무<\/b>와 직업적인 기술의 습득 및 향상에 필요한 시설 및 강의를 실시하는 시설이 설치되고, 시설에 따라서는 <b>숙박<\/b>을 위한 시설도 설치되는 경우도 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"소멸시효",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=943288&cid=47333&categoryId=47333",
+			"description":"채권의 시효기간은 10년이며, 이자 · 부양료나 의사 · 변호사의 <b>직무<\/b>에 관한 채권 및 상품의 대가와 근로자의 임금 등 일정한 채권은 3년, 또 <b>숙박<\/b>료 · 음식료 등 일정한 채권은 1년이다. 채권 이외의 재산권의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국고용노동교육원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1201040&cid=40942&categoryId=34496",
+			"description":"고용노동부 직원의 <b>직무<\/b>교육과 공무원·교원·공공기관 등의 공공부문 고용노동교육, 취약계층 교육... 노동행정공무원 <b>직무<\/b>교육, 공무원·교원 등 공익성이 높은 공공부문 노동교육은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_149\/20181205023241799_4JXYA2L5H.jpg\/922505.jpg?type=m160_160"
+		},
+		{
+			"title":"계약강제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3657096&cid=42131&categoryId=42131",
+			"description":"이것에는 (1) 전기사업(電氣事業), 철도운송사업(鐵道運送事業), 철도소운송업(鐵道小運送業), <b>숙박<\/b>업(宿泊業) 등의 공익적 · 독점적 기업이나 공증인, 집행관, 의사(醫師) 등의 공공적 <b>직무<\/b>에 관한 공법적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설경영연수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1344092&cid=40942&categoryId=37154",
+			"description":"건설인재양성을 위한 교육과 건설기술자의 <b>직무<\/b> 교육을 위한 프로그램을 운영하며 건설산업 종사자의 복지증진을 위해 <b>숙박<\/b>시설을 대여한다. 교육시설과 부대시설 임대사업도 하고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"부산광역시 인재개발원 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2820484&cid=55780&categoryId=56287",
+			"description":"[설립 목적] 부산광역시 인재개발원은 ‘창의, 열정, 도전으로 일류 부산을 선도할 전문 인재 양성’이라는 비전에 맞추어 지역 성장을 견인하는 공무원의 <b>직무<\/b> 능력 향상은 물론 다양화와 고급화되고 있는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718024819424_HJPOPKTOB.jpg\/GC042P08509.jpg?type=m160_160"
+		},
+		{
+			"title":"중소기업연수원 (안산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2606127&cid=51885&categoryId=53443",
+			"description":"[정의] 경기도 안산시 단원구 원곡동에 있는 중소기업진흥공단 산하 중소기업인 및 근로자전문 연수 기관. [설립목적] 중소기업연수원은 연수 시설이 없어 체계적인 직원 교육을 실시하기 어려운... ",
+			"thumbnail":""
+		},
+		{
+			"title":"왕흔 (전한)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%99%95%ED%9D%94_(%EC%A0%84%ED%95%9C)",
+			"description":"이후 포승지는 조정에 돌아가 왕흔을 천거하였고, 왕흔은 우보도위(右輔都尉)에 취임하여 우부풍의 <b>직무<\/b>를 잠시 맡아보게 되었다. 무제가 우부풍의 관할을 지나갈 때, 길과 <b>숙박<\/b>시설의 정비가 잘 되어있었기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경비원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566511&cid=46634&categoryId=46634",
+			"description":"경비원(<b>숙박<\/b>·음식점) 등으로 불리기도 한다. 전통사회의 경비원은 보통 군(軍)·지기［直］ 등으로 불렸다. 궁궐을 비롯한 관청의 경비는 군졸이 담당하고 있었지만, 조선 후기의 군인은 고립(雇立: 사람을 사서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"출장문서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831397&cid=42279&categoryId=42279",
+			"description":" 출장문서란 출장업무에 따른 업무내용을 보고 형태로 기재한 문서이다. [출장문서의 개요] 출장이란 일정한 시간(기간)동안 회사 밖에서 업무를 수행하기 위하여 업무지로 가는 것을 말한다. 기업에 있어서의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128210714322_S1QI76TRX.jpg\/hb10_3944_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"역원 (당진)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5149578&cid=60111&categoryId=60135",
+			"description":"[정의] 충청남도 당진 지역의 주요 역로에 세워졌던 조선 시대 국영 교통, 통신 및 관원들을 위한 <b>숙박<\/b>... 역민들은 <b>직무<\/b>에 동원되지 않는 시간을 이용하여 토지를 경작하였다. 조선 초기에는 역토의 생산물로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"리움 미술관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2115274&cid=50392&categoryId=50392",
+			"description":"여행 정보 접근성 ★★★ 주차 ★★ <b>숙박<\/b> ★★ 음식점 ★★★ 여행 포인트 미술관 내에 있는 아트샵에는 수준 높은 소장품을 테마로 개발된 아트상품이 있어 미술관을 찾는 또 다른 즐거움을 준다. 아울러... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3171_000_1\/20140623170605675_1CRFR48BL.jpg\/fb48_182_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"대한 청소년 교육문화 진흥원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=814158&cid=43141&categoryId=43141",
+			"description":"주력 사업은 청소년 지도자들을 육성하고 교사들에게 <b>직무<\/b> 연수 과정을 제공하는 일이다. 각 학교가 실시하는 방과 후 학교의 운영도 위탁을 받아 하고 있다. 진흥원은 특히 심리분석상담사와 레크리에이션... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔경영사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970584&cid=42114&categoryId=42114",
+			"description":"회계업무, 식당업무 등 제반 호텔관리업무에 대한 계획을 수립, 조정하며 종사원의 근무상태를 지휘 감독하는 <b>직무<\/b>를 수행한다. (3) 호텔경영 관련 국가 자격증의 종류 || 구분 || 응시자격 || 업무내용 || |",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20201231183049392_4DTN4L7ZX.jpg\/da6_191_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"프랑스 취업 비자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6214274&cid=67745&categoryId=68002",
+			"description":"현재 회사의 국제 그룹 중 프랑스 내 회사로 파견 혹은 회사 내 이동으로 프랑스에서 <b>직무<\/b> 수행을 하기 위한 비자이다. [신청 자격] 신청인은 프랑스 내 그룹 기업체 혹은 고용주와의 근로계약서가 있어야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5932_000_1\/20210208184018081_704FI3DW8.jpg\/gb293_15_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기장문화예절학교 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2820285&cid=55775&categoryId=56046",
+			"description":"[정의] 부산광역시 기장군 장안읍 월내리에 있는 청소년 수련 시설. [건립 경위] 2004년 6월 행정안전부 소도읍 육성 사업 대상 지역으로 선정되어, 2007년 10월 24일 「청소년 기본법」 제18조 1항에 의거... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150717223613098_CTUSX8L84.jpg\/GC042P03919.jpg?type=m160_160"
+		},
+		{
+			"title":"가사소송(소멸시효 일람표)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775954&cid=51373&categoryId=51373",
+			"description":"법무사에대한 <b>직무<\/b>상 보관한 서류의 반환을 청구하는 채권 ⑤ 변호사, 변리사, 공증인, 공인회계사 및 법무사의 <b>직무<\/b>에 관한 채권 ⑥ 생산자 및 상인이 판매한 생산물 및 상품의 대가 ⑦ 수공업자 및... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508174031448_4N5LB8FXI.jpg\/ba17_rd475_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"김제식",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%EC%A0%9C%EC%8B%9D",
+			"description":"고문변호사 <b>숙박<\/b>업소, 건설기계연합회,미용사협회 서산태안지부 고문변호사 서산 로타리클럽... 충남도당위원장 <b>직무<\/b>대행 2018년~2019년 4월: 바른미래당 인천남구갑 지역위원장 2021년 8월~2021년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감정노동",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070441&cid=55570&categoryId=55570",
+			"description":"말투나 표정, 몸짓 등 드러나는 감정 표현을 <b>직무<\/b>의 한 부분으로 연기하기 위해 자신의 감정을 억누르고 통제하는 일을 수반하는 노동을 말한다. 산업이 고도화되고 서비스업 종사자가 늘어나면서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2901_000_1\/20140206191029301_ZUJ1JI60T.jpg\/eb71_162_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"형사소송(국민참여재판)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775127&cid=51373&categoryId=51373",
+			"description":"■ 국민참여재판 의 의 국민참여재판제도는 '국민의형사재판참여에관한법률' 제8495호에 따라 2008. 1. 1.부터 국민을 배심원으로 형사재판에 참여케 한 새로운 형사재판제도이다. 배심원이 된 국민은 법정... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508170822973_TA3LU1HON.jpg\/ba17_rd1427_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"호텔서비스사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970586&cid=42114&categoryId=42114",
+			"description":" 호텔서비스사란 산업인력공단에서 시행하는 호텔서비스사 시험에 합격한 후 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 면접시험을 통과해야 한다. [ 1. 기본정보] (1) 자격분류... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100911771_69YBRPWUK.jpg\/da6_193_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"모현야영교육장 (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2615525&cid=51887&categoryId=53597",
+			"description":"[정의] 경기도 용인시 처인구 모현읍 일산리에 있는 공립 교육 시설. [건립경위] 초·중·고 학생들에게 야영 수련을 통해 민주 시민의 자질을 육성하고, 야영의 기초 능력을 습득하며, 자연 탐사 활동... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970585&cid=42114&categoryId=42114",
+			"description":" 호텔관리사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 호텔관리사 시험에 합격한 후 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 면접시험을 통과해야 한다. [ 1. 기본정보] (1)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20201231183049481_SWMZ1X5JL.jpg\/da6_192_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"형사소송(국민의 형사재판 참여에 관한 법률 국민참여재판의 절차)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775600&cid=51373&categoryId=51373",
+			"description":"■ 국민참여재판의 절차 공판의 준비 - 제36조(공판준비절차) ① 재판장은 제8조에 따라 피고인이 국민참여재판을 원하는 의사를 표시한 경우에 사건을 공판준비절차에 부쳐야 한다. 다만, 공판준비절차에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508172703252_86ITXPUUH.jpg\/ba17_rd1853_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"1급 청소년지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3652039&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가전문자격증 (2) 시행기관 : 한국산업인력공단 \/ 한국청소년활동진흥원 (3) 응시자격 : 자격요건을 갖춘 자 (4) 홈페이지 : www.Q-net.or.kr \/ www.kywa.or.kr [ 2. 자격정보] (1) 1급... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181437086_IXR81DSXB.jpg\/da6_831_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"3급 청소년지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3652043&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가전문자격증 (2) 시행기관 : 한국산업인력공단 \/ 한국청소년활동진흥원 (3) 응시자격 : 자격요건을 갖춘 자 (4) 홈페이지 : www.Q-net.or.kr \/ www.kywa.or.kr [ 2. 자격정보] (1) 3급... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190823164814524_6WERJF2PR.jpg\/da6_835_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"[계속 근로 지원] 불리한 대우 두려워 육아휴직 사용 꺼려져요",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6604791&cid=69440&categoryId=69440",
+			"description":" 「남녀고용평등과 일·가정 양립 지원에 관한 법률」에 따르면 사업주는 배우자 출산휴가, 육아휴직, 육아기 근로시간 단축, 가족돌봄휴직 및 가족돌봄휴가, 가족돌봄 등을 위한 근로시간 단축을 이유로... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjA0MjBfMTY2%2FMDAxNjUwNDIxNjkwNDcx.4wVvGrLNcVQkb2EblQFr3NEx-FdCiAJ6ts3Z743u1rAg.ZW-w0SGL8Z2ePIlHo-Xseo_s8S6YSXOih-z8sY2UPd8g.JPEG%2FIzKnNVwW6mn_8Kqjch1nDrsnixg4.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"향리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1267893&cid=40942&categoryId=33373",
+			"description":" 고려·조선 시대에 지방 행정실무를 담당하였던 최하위 관리를 통합하여 일반적으로 지칭하는 말.  지방관청에 속하여 해당 지방의 행정을 맡아 보면서, 지방사정에 다소 생소한 중앙에서 파견된 지방관을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_19\/20180905182507094_6N0QWYKXD.gif\/836018_0.gif?type=m160_160"
+		},
+		{
+			"title":"스프링클러 설비",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8A%A4%ED%94%84%EB%A7%81%ED%81%B4%EB%9F%AC_%EC%84%A4%EB%B9%84",
+			"description":"노유자시설 <b>숙박<\/b>이 가능한 수련시설 영유아 보육법 시행규칙 별포1에 따라, 600제곱미터 이상이... [경찰관 <b>직무<\/b>집행법] 제9조에 따른 유치장 1)부터 12)까지의 특정소방대상물에 부속된 보일러실 도는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"2급 청소년지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3652041&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가전문자격증 (2) 시행기관 : 한국산업인력공단 \/ 한국청소년활동진흥원 (3) 응시자격 : 자격요건을 갖춘 자 (4) 홈페이지 : www.Q-net.or.kr \/ www.kywa.or.kr [ 2. 자격정보] (1) 2급... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181438517_TD2X4CSRT.jpg\/da6_833_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"국립남도국악원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2459304&cid=46661&categoryId=46661",
+			"description":" 2004년 문화관광부가 전라남도 진도에 설립한 국립국악원 소속 예술기관. [설립목적] 유서 깊은 남도문화예술을 계승하여 국악을 21세기 선도적인 공연예술로 발전시킴으로써 지역문화예술... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_2\/20190720053544328_O2VSXQGA2.jpg\/2b9021f5-b8e9-41.jpg?type=m160_160"
+		},
+		{
+			"title":"서울공화국의 어제와 오늘",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1720036&cid=43723&categoryId=43727",
+			"description":"서울의 풍속은 어떻게 기록되었을까? 함허자(涵虛子)가 주사(周史, 주나라 역사)를 인용한 글에는 서울이 다음과 같이 서술되어 있다. 사람들이 모두 신의를 숭상하고 유술(儒術)에 돈독하여 중국의 풍속을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1735_000_1\/20121231165941995_LX5HRMZV4.jpg\/gc5_15_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"호텔리어 (드라마)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%98%B8%ED%85%94%EB%A6%AC%EC%96%B4_(%EB%93%9C%EB%9D%BC%EB%A7%88)",
+			"description":"호텔에서 근무하는 호텔리어들의 <b>직무<\/b>와 인간관계를 기본 소재로 호텔의 경영권을 둘러싼 경쟁과... 동혁은 서울호텔의 상황을 파악하기 위하여 신분을 숨긴 채 그의 동업자와 함께 호텔의 스위트에 <b>숙박<\/b>한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청소년지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970549&cid=42114&categoryId=42114",
+			"description":" 청소년지도사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 청소년지도사 자격시험에 합격하고, 자격연수과정을 마친 자로서 자격증을 교부받은 자를 말한다. 청소년지도사 자격 등급은 1급, 2급... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181157896_IALJM1J85.jpg\/da6_156_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경찰 (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2574128&cid=51890&categoryId=53704",
+			"description":"[정의] 강원도 강릉시에서 공공질서와 안녕을 보장하고 시민의 안전과 재산을 보호하기 위한 행정 작용. [변천] 1945년 10월 21일 국립경찰 창설과 동시에 강릉경찰서가 용강동에서 개서하였다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"형사소송(형사소송법 증인신문)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775256&cid=51373&categoryId=51373",
+			"description":"- 제147조(공무상비밀과 증인자격) ① 공무원 또는 공무원이었던 자가 그 <b>직무<\/b>에 관하여 알게 된 사실에 관하여 본인 또는 당해공무소가 <b>직무<\/b>상 비밀에 속한 사항임을 신고한 때에는 그 소속공무소 또는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508171327226_NHVU5PQO2.jpg\/ba17_rd1543_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"한참과 파발마",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1713281&cid=43075&categoryId=43075",
+			"description":"오래 전 TV쇼중에 '이홍렬의 참참참'이라는 재미있는 프로그램이 있었다. 유명 연예인들이 나와서 음식을 만들어 먹으며 게임과 대화를 즐기는 프로그램이다. 여기에서 '참참참'이라는 말이 나오는데 그것은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"덴마크의 노무",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5748085&cid=48535&categoryId=48574",
+			"description":"[ 가. 임금 수준] [대졸-사무직 초임(평균임금)] 6400달러 (기준환율 : 1달러=6.20 DKK) &#60;자료원 : 덴마크 통계청&#62; [고졸-생산직 초임(평균임금)] 3450달러 (기준환율 : 1달러=6.20 DKK) &#60;자료원 : 덴마크 통계청... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스웨덴의 기업활동 환경",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5815326&cid=43880&categoryId=43881",
+			"description":"[ 1. 스웨덴의 창업절차] ※ 세계은행의 2018년 국가별 사업환경(Doing business) 조사에서 스웨덴은 10위 차지 [ 1) 비용] ○ 스웨덴에서 법인 설립을 위한 최소 자본금은 개인 유한책임회사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관광과 이벤트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2083663&cid=44412&categoryId=44412",
+			"description":"[ 1. 이벤트의 개념과 의의] [ 1) 이벤트의 개념] 이벤트를 어원으로 보면 라틴어 ‘e’(out, 밖으로)와 ‘venire’(come, 오다)에서 유래되었다. 이경모는 이벤트란 ‘주어진 기간 동안 정해진 장소에서 사람을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140509143451190_IVTKV4WP1.jpg\/z5_term82_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"연말정산",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=70407&cid=43667&categoryId=43667",
+			"description":" 국세청에서 1년 동안 간이세액표에 따라 거둬들인 근로소득세를 연말에 다시 따져보고, 실소득보다 많은 세금을 냈으면 그만큼을 돌려주고 적게 거뒀으면 더 징수하는 절차를 말한다.  | 외국어 표기... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxODEyMjhfMjM0%2FMDAxNTQ1OTY0NDA1Nzc0.3e8AbZZYWdeB3V5vIHN6OEEbmz-p6VjGKjStC7QMLa0g.nHQ2jDB2G9YPXVJKI8PWfMnsFqHIs4P4u98ftiW8znYg.JPEG%2FIWf876JveGrKn4orm4eUZYCKOwuo.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x363"
+		},
+		{
+			"title":"최완주",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B5%9C%EC%99%84%EC%A3%BC",
+			"description":"청렴하게 <b>직무<\/b>를 수행해야 할 피고인이 기업청탁을 받고 하도급을 수주해준 것은 비난 가능성이 높고... 청구소송에서 &quot;고시원도 <b>숙박<\/b>업으로 볼 수 있으며, 고객에게 위험이 없고 편안한 객실을 제공해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"향리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1820438&cid=46621&categoryId=46621",
+			"description":" 고려·조선시대 지방 관청의 행정실무를 처리하던 하급 관인계층. [개설] 향리(鄕吏)는 토착적이고 세습적인 성격을 가지며, 고려시대에는 장리(長吏) 또는 외리(外吏)라고도 하였다. 그리고 지방행정단위에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"상인과 상업활동 상인 김득상",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1741512&cid=49211&categoryId=49211",
+			"description":"따라서 국가에서는 양천 신분이 분명하지 않을 때에는 양인신분을 인정하면서 그들을 특수한 <b>직무<\/b>에 충당시켰다. 이는 1894년 갑오경장으로 신분이 해방되었지만 편견이 짙게 남아 있었으며 8,15광복과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"성매매",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%B1%EB%A7%A4%EB%A7%A4",
+			"description":"이익, <b>직무<\/b>·편의제공 등 대가를 제공하거나 약속하는 등의 방법으로 성을 팔도록 권유하는 행위도... 조사 결과에 따르면 포항지역 유흥업소는 총 465개(남구 167개, 북구 298개), <b>숙박<\/b>업소 총 423개(남구 196개... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중동의 치유터가 된 요르단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3579385&cid=58784&categoryId=58787",
+			"description":"학업과 <b>직무<\/b>에 시달려 지친 몸이지만, 트레이너의 지시에 따라 많은 이들이 몸을 이리저리 열심히 움직인다. 외모와 건강에 대한 관심이 높아지면서 여느 운동센터에서든 쉽게 목격할 수 있는 장면이다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118182956276_5Q71AOHAN.jpg\/015_17.jpg?type=m160_160"
+		}
+	]
+}

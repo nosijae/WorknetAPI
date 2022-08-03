@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:28 +0900",
+	"total":6710,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>식품가공<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1019977&cid=50326&categoryId=50326",
+			"description":"<b>식품가공<\/b>영양학사전 신선한 <b>식품<\/b> 이외에 대부분의 <b>식품<\/b>은 어떠한 형태로 <b>가공<\/b>된 후에 소비된다. <b>가공<\/b>의 목적은 <b>식품<\/b>의 영양가, 기호 특성의 개량, 조리의 간편화, 보존기간의 연장 그리고 원료의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품가공<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6160751&cid=67725&categoryId=67725",
+			"description":"<b>식품<\/b> 원료를 물리적, 화학적 또는 생물학적 변화를 일으켜 저장성을 주거나 입맛을 향상시키는 조작.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품 가공<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8B%9D%ED%92%88_%EA%B0%80%EA%B3%B5",
+			"description":"<b>가공<\/b>법에서는 도정(搗精)·제분(製粉)·양조(釀造) 등 외에 건조·염장(鹽藏)·빙장(氷藏)·훈제(燻製)·통조림·냉동 등 여러 가지 방법이 있으며 갖가지 기계가 사용되고 있다. 같이 보기 <b>가공<\/b><b>식품<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2073384&cid=44417&categoryId=44417",
+			"description":"hygienics), <b>식품가공<\/b>학(食品加工學, food technology), <b>식품<\/b>저장학(食品貯藏學, food storage), <b>식품<\/b>공학(食品工學, food technology), 생화학(生化學, biochemistry), 기능성 <b>식품<\/b>학(機能性食品學, f",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140403185004370_V911LH6HZ.jpg\/z9_term4_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>식품가공<\/b> 및 저장학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2073385&cid=44417&categoryId=44417",
+			"description":"개념 및 정의] <b>식품가공<\/b>(食品加工, food technology)이란 <b>식품<\/b>원료에 물리적, 화학적, 미생물학적 등의 처리를 통해 영양성, 편의성, 기능성 등의 여러 가지 특성을 부여하여 이용가치를 높이는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140403185101224_TZQPRLB9U.jpg\/z9_term5_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=564449&cid=46672&categoryId=46672",
+			"description":" 농산물·축산물·수산물 등의 천연<b>식품<\/b>재료를 그대로 또는 첨가물을 가하여 먹기 쉽고 소화흡수가 잘 되며 오래 저장할 수 있도록 처리한 <b>식품<\/b>. [내용] 천연<b>식품<\/b>재료의 먹을 수 없는 부분이나 해로운 성분을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_14\/20181022190347043_8BJZ9Q016.jpg\/a5ceff05-bfae-43.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>식품가공<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1118589&cid=40942&categoryId=32399",
+			"description":"취급분야에는 <b>가공<\/b><b>식품<\/b> ·<b>가공<\/b>공정 ·<b>가공<\/b>기계의 개발, <b>가공<\/b>원료의 선택, <b>가공<\/b>중에 나타나는 화학성분이나 물성의 변화, 그리고 <b>가공<\/b>제품의 영양가나 안전성의 문제가 포함된다. 1950년대에 들어오면서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%80%EA%B3%B5%EC%8B%9D%ED%92%88",
+			"description":"<b>가공<\/b><b>식품<\/b> (加工食品, processed food)은 농산물, 축산물, 수산물 등을 보존과 조리가 편하도록 인공적인 여러 방법으로 처리(food processing)하여 맛과 저장성을 높인 <b>식품<\/b>이다. 자연<b>식품<\/b>(natural foods)보다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품가공<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=559870&cid=46672&categoryId=46672",
+			"description":"따라 <b>식품가공<\/b>기술도 발달되어 왔다. 무릇 한 나라의 식생활 양상은 그 나라의 입지적 조건·기후풍토·종교·문화 등의 영향을 받아 각각 독특하게 형성, 발달되어 왔다. 우리 나라는 예로부터 중국의 문화를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품가공<\/b>과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5682563&cid=44346&categoryId=44346",
+			"description":"[학과개요] <b>식품가공<\/b>과에서는 <b>식품가공<\/b> 산업에 관련되는 제조기술을 통하여 생산관리 품질관리 및 유통관리업무에 관한 다양한 분야를 다루고 있습니다. <b>식품가공<\/b>과는 건강 기능 <b>식품<\/b>, 음료, 제과제빵 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품가공<\/b>검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926563&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>식품가공<\/b>검사원은 <b>식품<\/b>을 생산하고 조리하는데 사용되는 원료와 최종 <b>식품<\/b> 생산품이 표준에 맞는지 검사하고 이에 대한 등급을 매기는 일을 담당한다. 각 <b>식품<\/b> 조리 및 생산 과정에 사용되는 원료의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품가공<\/b>작업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=507520&cid=42380&categoryId=42380",
+			"description":"<b>식품가공<\/b>이란 원료인 농축수산물을 사람이 먹을 수 있는 <b>식품<\/b>이 되기까지 정제(精製)<b>가공<\/b>하는 것이며, 동식물성 원료를 물리적, 화학적, 미생물학적인 수법을 사용해 식물(食物)이 되기까지의 <b>가공<\/b>기술과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품가공<\/b>기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054065&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>식품가공<\/b>기능사 ① <b>식품가공<\/b>기능사란 산업인력공단에서 시행하는 <b>식품가공<\/b>기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 농 · 축 · 수산<b>식품가공<\/b>을 통해 <b>식품<\/b>의 소화율... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801161653115_AM5MHZOHF.jpg\/da6_479_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>식품가공<\/b>사업계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3333091&cid=51373&categoryId=51373",
+			"description":" <b>식품 가공<\/b> 사업을 하고자 할 때 작성하는 계획서 문서.  <b>식품 가공<\/b> 사업계획서란 사업자가 <b>식품 가공<\/b>에 관련된 사업체를 개업할 목적으로 이를 운영하기 위해 필요한 내용들을 서식으로 나타낸 문서이다. <b>식품<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209152709575_ZKC5PFRCC.jpg\/ba17_25223.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>이 뭘까요",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2843603&cid=47309&categoryId=47309",
+			"description":"다양한 <b>가공<\/b><b>식품<\/b>에 둘러싸여 살고 있어요.슈퍼나 마트에 파는 <b>식품<\/b> 중 요리의 재료로 사용하는 원료 그대로의 채소나 과일, 해산물과 고기 외의 <b>식품<\/b>은 대부분 <b>가공<\/b><b>식품<\/b>이지요. <b>가공<\/b><b>식품<\/b>은 <b>식품<\/b>의 원료인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2831_000_1\/20150811103711788_5UX67HM1X.jpg\/s_gn17_41_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054224&cid=40942&categoryId=32109",
+			"description":"<b>가공<\/b><b>식품<\/b>의 종류는 여러 가지가 있는데, 원료에 따라 ① 농산<b>가공<\/b><b>식품<\/b>, ② 축산<b>가공<\/b><b>식품<\/b>, ③ 수산<b>가공<\/b><b>식품<\/b>으로 나눌 수 있다. 여기에는 1차 <b>가공<\/b><b>식품<\/b>과 2차 <b>가공<\/b><b>식품<\/b>이 있다. 예를 들면, 쌀 ·밀가루 ·녹말... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_16\/20180828125613595_5AGY0GNPA.jpg\/32143.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3550192&cid=58584&categoryId=58624",
+			"description":"加 더할 가, 工 인공 공, 食 먹을 식, 品 물건 품 농산물, 축산물, 수산물 등을 <b>가공<\/b>하여 만든 먹을거리를 <b>가공<\/b><b>식품<\/b>이라고 해요. <b>가공<\/b><b>식품<\/b>은 원재료의 특성을 살리면서 먹기 편하고 미생물에 의한 부패를 막아... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_5\/20170125122507110_WTF9A74KJ.jpg\/172_78203_150917.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1913495&cid=50326&categoryId=50326",
+			"description":"<b>가공<\/b><b>식품<\/b>영양학사전 <b>식품<\/b>재료 단계에서 가열, 발효 등의 절차가 첨가된 <b>식품<\/b>. 옛부터 있었던 수산<b>가공<\/b>품 등도 있지만, 최근에는 식육<b>가공<\/b>품, 유지류, 유제품의 소비가 늘고 있다. 외국어 표기 processed food... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국전통<b>가공<\/b><b>식품<\/b>협회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EC%A0%84%ED%86%B5%EA%B0%80%EA%B3%B5%EC%8B%9D%ED%92%88%ED%98%91%ED%9A%8C",
+			"description":"한국전통<b>가공<\/b><b>식품<\/b>협회 는 전통<b>식품 가공<\/b>산업과 산지<b>가공<\/b>산업 육성시책에 기여 목적으로 1992년 3월 6일 설립된 사단법인이다. 사무실은 서울특별시 서초구 양재동 232 aT센타 803호(***-***)에 있다. 설립... ",
+			"thumbnail":""
+		},
+		{
+			"title":"쌀<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1224330&cid=40942&categoryId=32114",
+			"description":"그러나 생활수준이 높아지고 핵가족화가 이루어지면서 식생활도 변하여, 조리가 편한 <b>가공<\/b><b>식품<\/b>의 수요가 늘고 외식하는 횟수도 늘어났다. 이렇게 쌀의 소비가 줄어들자 정부는 쌀 소비를 촉진하기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"육류<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1721745&cid=48180&categoryId=48257",
+			"description":"• 아질산나트륨 육류<b>가공<\/b>품의 신선한 육색을 유지시키는 발색제. 독성이 강해 사용한도가 규제되고 있다. [육류<b>가공<\/b><b>식품<\/b> 이야기] 육류<b>가공<\/b><b>식품<\/b>에 첨가된 아질산나트륨이 건강을 해칠 우려가 있는 것으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1767_000_1\/20130118164024270_PNW7MW2JC.jpg\/fe49_20_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"유기<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5671750&cid=51399&categoryId=51399",
+			"description":"유기농 인증을 받은 농축산물을 95% 이상 사용한 <b>가공<\/b><b>식품<\/b> 중에서 원료의 보관 및 취급 제조설비 및 공정 위생 포장 사후관리 등 모든 제조과정을 종합적으로 판단하여 부여하는 인증제도입니다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_5\/20180913111244786_LLFTYAETW.gif\/fh2_609155_i1.gif?type=m160_160"
+		},
+		{
+			"title":"화분<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=298293&cid=48160&categoryId=48160",
+			"description":"<b>식품<\/b>공전에는 화분, 화분추출물, 화분 <b>가공<\/b><b>식품<\/b>과 화분 추출물 <b>가공<\/b><b>식품<\/b> 등 네 유형이 있다. 화분을 껍질 파쇄, 유효성분 추출ㆍ농축ㆍ정제 등의 공정으로 얻은 성분 또는 이를 주원료로 하여 분말, 과립, 정제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가열<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6166751&cid=67725&categoryId=67725",
+			"description":"열처리한 <b>가공<\/b> <b>식품<\/b>. 병원성 미생물의 오염을 막기 위하여 밀폐 용기에 포장하는 것이 특징이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품가공<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658696&cid=42117&categoryId=42117",
+			"description":" 농산물, 축산물, 수산물 등의 <b>식품<\/b>원료에 영양학적·미각적·시각적 특징을 부여하고, 소비자의 감성이나 행동유형에 대처하여 <b>가공<\/b><b>식품<\/b>을 연구·개발한다. [수행직무] 각종 <b>식품<\/b>원료를 목적에 맞게 혼합하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사과<b>가공<\/b><b>식품<\/b> (충주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2645578&cid=51896&categoryId=53966",
+			"description":"[정의] 충청북도 충주 지역 특산품인 사과를 이용하여 만든 <b>가공<\/b><b>식품<\/b>. [연원 및 변천] 100년의 역사를 지닌 충주 지역에서 생산되는 사과는 맛과 향이 뛰어나고 과육이 단단한 것이 특징이다. 이 같은 고품질의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국쌀<b>가공<\/b><b>식품<\/b>협회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EC%8C%80%EA%B0%80%EA%B3%B5%EC%8B%9D%ED%92%88%ED%98%91%ED%9A%8C",
+			"description":"한국쌀<b>가공<\/b><b>식품<\/b>협회 는 소비자 기호에 맞는 우수한 쌀 <b>가공<\/b><b>식품<\/b>의 생산 공급을 목적으로 1993년 7월 2일 설립된 대한민국 농림축산<b>식품<\/b>부 소관의 사단법인이다. 사무실은 경기도 용인시 기흥구 이현로30번길... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>용 수산<b>가공<\/b>품",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1186772&cid=40942&categoryId=31892",
+			"description":"수산<b>가공<\/b><b>식품<\/b>으로 먼저 냉동<b>식품<\/b>은 종류나 처리 방법에 따라서 생선어패류 냉동<b>식품<\/b>, <b>가공<\/b>냉동<b>식품<\/b>, 조리냉동<b>식품<\/b> 등으로 나눌 수 있다. 생선어패류 냉동<b>식품<\/b>은 원료 어패류를 그대로, 또는 머리 ·내장을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"라면과 밀 <b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3552707&cid=47322&categoryId=47322",
+			"description":"이렇게 라면이 주요한 먹을거리로 자리 잡은 데에는 당연하게도 제분산업과 밀가루를 원료로 하는 <b>가공<\/b><b>식품<\/b>의 성장이 뒷받침됐어.밀가루를 원료로 하는 <b>가공<\/b><b>식품<\/b>은 라면만이 아니야. 공장에서 대량생산되는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4747_000_1\/20161216122203353_Q0T0H3V18.jpg\/ha54_8_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"한국콩<b>가공<\/b><b>식품<\/b>협회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EC%BD%A9%EA%B0%80%EA%B3%B5%EC%8B%9D%ED%92%88%ED%98%91%ED%9A%8C",
+			"description":"한국콩<b>가공<\/b><b>식품<\/b>협회 는 국산콩 애용을 통하여 생산자를 보호하고 전통<b>식품<\/b>장려 보급 목적으로 1993년 12월 20일 설립된 대한민국 농림수산<b>식품<\/b>부 소관의 사단법인이다. 사무실은 서울특별시 강남구... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>가공<\/b><b>식품<\/b>수출협회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EA%B0%80%EA%B3%B5%EC%8B%9D%ED%92%88%EC%88%98%EC%B6%9C%ED%98%91%ED%9A%8C",
+			"description":"한국<b>가공<\/b><b>식품<\/b>수출협회 는 농산물의 수출진흥을 위해 기술개발 및 포장 개선, 해외시장 정보수립사업에 기여 목적으로 1994년 8월 31일 설립된 대한민국 농림수산<b>식품<\/b>부 소관의 사단법인이다. 사무실은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국떡류<b>식품가공<\/b>협회 부산시지부 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825124&cid=55777&categoryId=56122",
+			"description":"[정의] 부산광역시 동구 범일동에 있는 한국떡류<b>식품가공<\/b>협회 산하의 부산 지역 지부. [설립 목적] 한국떡류<b>식품가공<\/b>협회 부산시지부는 부산 지역에서 한국 떡류 <b>식품<\/b>업의 획기적인 발전과 국가 식량 증산... ",
+			"thumbnail":""
+		},
+		{
+			"title":"우주식과 <b>식품<\/b>의 <b>가공<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3338642&cid=47326&categoryId=47326",
+			"description":"[활용장면] 중학교 기술 · 가정(가정 분야) [학습개요] 여기에서는 일상에 많이 사용되는 <b>가공<\/b> <b>식품<\/b>의 특수한 성질을 알고, 용도에 따라 선택할 수 있게 한다. 또 선택에선 목적, 영양, 효",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1835_000_1\/20151030165607518_3C99KA5LA.jpg\/s_da2_20_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>은 포장이 중요",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1976650&cid=48180&categoryId=48257",
+			"description":"<b>가공<\/b><b>식품<\/b>은 대부분 제조일자를 확인하고 사는 게 보통이지만 유통기한이 지나지 않았더라도 유통과정이나 보관상태에 따라 <b>식품<\/b>이 변질될 수 있다. 우선 포장이 찢어지지 않았는지 확인한다. 특히 진공포장된... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2730_000_1\/20130903134323553_TVVPWQPLO.jpg\/fe55_71_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"최소<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6162306&cid=67725&categoryId=67725",
+			"description":"신선도를 크게 변화시키지 않으면서 상대적인 보존성을 달성하도록 <b>가공<\/b>한 <b>식품<\/b>. 주로 과일과 채소에 적용한다. 저장성을 위하여 보통 공기 조절 포장을 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가공<\/b> <b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=923763&cid=47326&categoryId=47326",
+			"description":"농산물, 축산물, 수산물 등의 <b>식품<\/b>을 자연적 또는 인공적(열을 가하거나 화학 첨가물 등을 넣는 것 등)으로 처리하여 <b>가공<\/b>하기 전보다 맛이나 향을 좋게 하고, 먹기 편하고, 저장하기도 좋게 만든 <b>식품<\/b>. 잼, 햄... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6171685&cid=67725&categoryId=67725",
+			"description":"농산물, 수산물 또는 임산물을 인공적으로 처리하여 바람직한 변화가 일어나도록 한 <b>식품<\/b>. 저장 수명의 향상, 물리화학적 성질, 관능 성질 또는 영양 품질 향상 따위를 목적으로 한다. 냉장 <b>식품<\/b>, 냉동<b>식품<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1968444&cid=50317&categoryId=50317",
+			"description":"<b>식품<\/b>의 원료인 농산물·축산물·수산물의 특성을 살려, 보다 맛있고 먹기 편한 것으로 변형시키는 동시에 <b>식품<\/b>원료의 특성을 살리면서 물리적 형태의 변화를 통하여 먹기 편리하게 하고, 저장성·이동성과 영양... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여수오천산업단지 <b>식품가공<\/b>사업협동조합 (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2610050&cid=51950&categoryId=55235",
+			"description":"[정의] 전라남도 여수시 만흥동에 있는 오천지방산업단지 <b>식품가공<\/b>사업의 관리기관. [설립목적] 여수오천산업단지 <b>식품가공<\/b>사업협동조합은 쥐치포 공장 60여 업체에서 뿜어내는 악취와 오물로 인한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품 가공<\/b>업자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3556365&cid=46696&categoryId=46696",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_9\/20170308203422925_10JROIR32.jpg\/9749700_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"채식의 배신 <b>가공<\/b><b>식품<\/b>의 배신",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3409040&cid=60335&categoryId=60335",
+			"description":"가장 중요한 점은 <b>가공<\/b>한 식물성 <b>식품<\/b>을 먹느냐는 것이다. <b>가공<\/b>해도 식물성이면 괜찮다고 생각하는 인식에는 문제가 있다.그래서인지 책에서 <b>가공<\/b><b>식품<\/b>산업에 대해 비판을 하고 있다. 다시 말하",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4484_000_1\/20160610135227894_ZQ2VSM6Y8.jpg\/ca22_474_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"배아<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=293797&cid=60262&categoryId=60262",
+			"description":"배아유<b>식품<\/b>은 밀, 쌀 등 곡류의 배아에서 채취한 기름을 식용에 적합하도록 정제한 것 또는 이에 식물성 천연토코페롤을 강화하여 섭취가 용이하도록 캡슐에 충전ㆍ<b>가공<\/b>한 것을 말한다. 배아<b>식품<\/b>은 밀배아... ",
+			"thumbnail":""
+		},
+		{
+			"title":"키토산<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6170253&cid=67725&categoryId=67725",
+			"description":"키토산 또는 키토산을 효소 처리하여 얻는 올리고당류 또는 키토산을 가수 분해하여 얻는 글루코사민을 식용에 알맞도록 처리한 것. 또는 이들을 주원료로 하여 이에 <b>식품<\/b> 또는 <b>식품<\/b> 첨가물을 넣어 <b>가공<\/b>한 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"아미노산의 <b>식품가공<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1187038&cid=40942&categoryId=32399",
+			"description":" 아미노산은 각각 특징이 있는 맛을 지니고 있어 <b>식품<\/b>에 이용된다. 예를 들어, 글루탐산이 가장 맛이 있어, 그 나트륨염은 화학조미료로 사용되고 있다. 특히 합성법과 발효법의 발달에 따라 <b>식품<\/b>으로 이용될... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자라<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6163255&cid=67725&categoryId=67725",
+			"description":"양식한 자라를 <b>가공<\/b>한 것. 또는 이를 주원료로 하여 <b>가공<\/b>한 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"옥타코산올<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6168326&cid=67725&categoryId=67725",
+			"description":"옥타코산올에 다른 <b>식품<\/b> 또는 <b>식품<\/b> 첨가물을 넣어 옥타코산올 성분을 0.5퍼센트 이상 함유하도록 제조, <b>가공<\/b>한 <b>식품<\/b>.",
+			"thumbnail":""
+		},
+		{
+			"title":"버섯<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6166448&cid=67725&categoryId=67725",
+			"description":"버섯의 자실체를 말려서 가루로 한 것. 또는 자실체나 균사체를 배양한 것을 물과 주정 혼합물로 추출하여 얻은 성분을 주원료로 하여 만든 <b>식품<\/b>.",
+			"thumbnail":""
+		},
+		{
+			"title":"'<b>가공<\/b><b>식품<\/b> 먹으면 살찐다' 연구로 입증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5768571&cid=60296&categoryId=60311",
+			"description":"앞서 이뤄진 대규모 연구들에선 주로 <b>가공<\/b><b>식품<\/b>과 건강 문제 사이의 연관성을 찾아내는 데 주력했지만, 이런 연구들은 건강 문제의 원인이 <b>가공<\/b><b>식품<\/b> 자체의 문제인지, 신선한 <b>식품<\/b>에 대한 접근성 등 다른... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxOTA1MjNfOTAg%2FMDAxNTU4NTU4NDk4NjUy.LXNiO-tbYSKszqB6C-jqTTodT0xDX1X5K5Cio37J6dUg.S1ZCJUFNOehFutEYiR7xMqcf_340Urg75iVHdzPvmGYg.JPEG%2FIodTMU-P9rFELNHX5whFFszMANOw.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#382x214"
+		},
+		{
+			"title":"약념(藥念)을 잃어버린 <b>가공<\/b><b>식품<\/b>들",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1385283&cid=48180&categoryId=48257",
+			"description":"요리책에 나오는 레시피를 가지고 각자 요리를 하면 똑같은 맛이 나올까? 아마 같은 회사에서 생산된 양념과 식재들을 가지고 똑같은 도구를 사용해서 똑같은 레시피를 가지고 만든다면 음식 맛이 거의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스콸렌<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6168886&cid=67725&categoryId=67725",
+			"description":"스콸렌 농도가 60퍼센트 이상이고 98퍼센트 미만이 되도록 스콸렌에 다른 <b>식품<\/b> 또는 <b>식품<\/b> 첨가물을 넣어 연질 캡슐에 채워 넣은 <b>식품<\/b>.",
+			"thumbnail":""
+		},
+		{
+			"title":"레시틴<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6165374&cid=67725&categoryId=67725",
+			"description":"두유 또는 달걀 노른자위에서 분리한 인지질을 함유하는 지방질을 정제한 것. 또는 이를 주원료로 하여 만든 <b>식품<\/b>.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>은 영양의 균형을 깨뜨린다",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1923025&cid=42526&categoryId=42528",
+			"description":"쌀과 밀이 점점 하얗게 되고 통조림이나 인스턴트 <b>식품<\/b> 등 여러 종류의 <b>가공<\/b><b>식품<\/b>들이 범람하는 것은 비자연적인 현상이다. 최근에는 이러한 현상이 우리나라에도 급속히 번져가고 있는 실정이다. 미국의 경우... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정제어유<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6157320&cid=67725&categoryId=67725",
+			"description":"어유를 이용한 건강 기능 <b>식품<\/b>의 하나. 뱀장어 기름 또는 에이코사펜타엔산과 도코사헥사엔산을 함유한 기름을 정제한 것. 또는 이를 주원료로 <b>가공<\/b>한 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"꽃가루<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6166512&cid=67725&categoryId=67725",
+			"description":"꽃가루의 유효 성분 또는 이를 주원료로 하여 여러 형태로 만든 제품.",
+			"thumbnail":""
+		},
+		{
+			"title":"로열젤리<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6165185&cid=67725&categoryId=67725",
+			"description":"로열젤리를 그대로 또는 냉동 건조한 것 또는 이들을 주원료로 하여 만든 <b>식품<\/b>.",
+			"thumbnail":""
+		},
+		{
+			"title":"한ㆍ미 유기<b>가공<\/b><b>식품<\/b> 상호동등성 인정 협정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2212652&cid=43667&categoryId=43667",
+			"description":" 한국과 미국 양국이 상대국의 유기<b>가공<\/b><b>식품<\/b> 인증을 인정해 주는 협정.  한ㆍ미 양국이 상대국의 유기<b>가공<\/b><b>식품<\/b> 인증을 서로 인정해 주기 위해 맺은 협정으로 2014년 7월 1일 발효되었다. 협정에 따라 국내... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b> 영양성분",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=60411",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"수산<b>식품<\/b>수출<b>가공<\/b>클러스터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5949753&cid=67003&categoryId=67003",
+			"description":"수산 <b>식품<\/b>산업과 관련되어 있는 기업, 연구소, 대학 및 기업지원시설을 일정 지역에 집중시켜 상호연계를 통한 상승효과를 만들어 내기 위하여 형성한 집합체를 말함",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1118588&cid=40942&categoryId=32097",
+			"description":"예를 들면, ① 식물성 <b>식품<\/b> ·동물성 <b>식품<\/b> 등, ② 곡류 ·감자류 ·두류 ·채소류 ·과일류 ·어패류 ·육류 ·우유류 ·해조류 등, ③ 전분질 <b>식품<\/b> ·단백질 <b>식품<\/b> ·지방질 <b>식품<\/b> 등, ④ 천연<b>식품<\/b> ·<b>가공<\/b><b>식품<\/b> ·음료 등... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_22\/20180916195703954_AV9TG8OQP.jpg\/52202.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1520903&cid=42121&categoryId=42121",
+			"description":"살아있는 유기체에 섭취되어 에너지화되고 신체조직으로 신진대사를 하게 되는 자연적, 혹은 <b>가공<\/b>된 물질을 말한다. <b>식품<\/b>은 생존뿐만 아니라 건강에도 근본적인 것이다. 식량의 생산, 비축, 소비에 관한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프로폴리스추출물<b>가공<\/b><b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6170375&cid=67725&categoryId=67725",
+			"description":"꿀벌이 모은 꽃가루와 꿀벌 자신의 분비물(밀납 따위)에서 왁스를 제거한 프로폴리스 추출물을 주원료로 하여 만든 제품.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가공<\/b><b>식품<\/b>의 으뜸, 토마토 케첩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1987523&cid=48180&categoryId=48255",
+			"description":"토마토 케첩은 토마토 <b>가공<\/b>품 중 가장 생산량이 많은 품목. 케첩 100g에는 생토마토 300g이 농축되어... 케첩을 만드는 데에는 분홍색이 아닌 붉은색이 짙고 펙틴질이 많은 <b>가공<\/b>용 토마토가 사용되며 완숙한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2730_000_1\/20131008122606209_FHVZWQO00.jpg\/fb37_73_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>식품<\/b>폐수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1187164&cid=40942&categoryId=32413",
+			"description":"<b>식품가공<\/b>폐수라고도 한다. 축산물 <b>가공<\/b>, 수산물 <b>가공<\/b>, 농산물 <b>가공<\/b>, 통조림 제조, 유제품 <b>가공<\/b>, 양조, 청량음료 제조 등 주로 <b>식품<\/b>의 <b>가공<\/b> ·제조 과정에서 발생하는 폐수를 말한다. 제품을 찜질, 해동, 약품처리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5740162&cid=63025&categoryId=63777",
+			"description":"또한 공장 대량생산 <b>식품<\/b>을 구입할 때는 라벨을 꼼꼼히 읽어야 하는데, 이는 <b>식품 가공<\/b>과정에서 영양학적 특징이 달라질 수 있기 때문이다. 특히 곡류는 부풀게 되면 흡수가 빠른 당을",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가공<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%80%EA%B3%B5",
+			"description":"현대사회는 공업의 발달로 수많은 물건이 <b>가공<\/b>되어 생산되고 있다. <b>가공<\/b>기술 역시 과학의 발전으로 첨단 고도 정밀화 추세에 있다. 같이 보기 <b>가공<\/b><b>식품 가공<\/b>업",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>개량제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1118591&cid=40942&categoryId=32099",
+			"description":" <b>식품<\/b>에 첨가함으로써 <b>식품가공<\/b>상의 문제를 해결하고, 더 좋은 <b>가공<\/b><b>식품<\/b>을 만들기 위하여 사용하는 첨가물.  결합제(binding agent)로서의 인산염류가 주가 된다. 인산염류로는 피로인산염·폴리인산염... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>공업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=572782&cid=46631&categoryId=46631",
+			"description":"한국표준산업분류의 음·식료품산업이란 <b>식품<\/b> 및 첨가물의 제조, <b>가공<\/b>업과 냉동보관업만을 포함하고 있으며, 우리가 일반적으로 <b>식품<\/b>산업을 말할 경우 한국표준산업분류의 음·식료품산업을 일컫는다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_7\/20150327060052325_I81T1OY3V.jpg\/396dd1ce-f0bb-40.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가공<\/b>식초",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054223&cid=40942&categoryId=32099",
+			"description":" 양조법에 의해 만든 식초를 <b>가공<\/b>한 조미용 식초 ·농축식초 ·분말식초 등의 총칭.  조미용 식초는 양조법에 의해 만든 식초에 조미료와 향신료 등을 첨가하여 만든 것으로, 요리의 재료나 용도에 따라 <b>가공<\/b>된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"삼양<b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=649970&cid=43167&categoryId=43167",
+			"description":" 라면, 스낵, 유제품 등을 주로 생산하는 <b>식품<\/b> 제조업체.  삼양<b>식품<\/b>의 모체는 1961년 8월 설립된 삼양제유주식회사이며, 삼양제유는 같은 해 10월 삼양<b>식품<\/b>공업(주)으로 상호를 바꿨다. 창업자는 전중윤... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20120524200455751_PYQ7L4HS2.jpg\/n299.jpg?type=m160_160"
+		},
+		{
+			"title":"농산<b>식품<\/b>공업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1077702&cid=40942&categoryId=31892",
+			"description":" 농축산물을 원료로 하여 <b>가공<\/b><b>식품<\/b>을 생산하는 공업.  제분 ·양조(맥주 ·주류) ·과일음료 ·축산<b>가공<\/b>(햄 ·소시지) ·통조림류 ·녹말 ·알코올 원료 ·제과(製菓) ·제빵 ·제당(製糖) ·유업(乳業) ·낙제(酪製:버터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>영양학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=559871&cid=46672&categoryId=46672",
+			"description":"또 이것을 조리 및 <b>가공<\/b>했을 때 각 <b>식품<\/b> 중에 함유되어 있는 각 영양소는 어떠한 변화를 하는가？ 그 변화로 인하여 나타나는 영양가의 차이 및 <b>식품<\/b>에 따르는 가장 적당한 조리·<b>가공<\/b>법 등을 일괄하여 계통을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>산업",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8B%9D%ED%92%88%EC%82%B0%EC%97%85",
+			"description":"즉, 기업은 1차 제품만을 생산하는 종래의 방식에서 탈피하여 2차 <b>가공<\/b><b>식품<\/b>의 분야를 포함, 개발하는 경영의 다각화를 추구하고 수입원료에 의존하는 기업은 대형 임해(臨海)공장을 건설하여 원료의 대량... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054066&cid=42114&categoryId=42114",
+			"description":"② <b>식품<\/b>기사는 <b>식품<\/b>제조<b>가공<\/b>기술이 급속하게 발달하면서 <b>식품<\/b>을 제조하는 공장의 규모가 커지고 공정이 복잡해짐에 따라 이를 적절하게 유지 관리할 수 있는 기술 인력이 필요하게 됨에 따라 제정된... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724153651162_UACBD93Z2.jpg\/da6_480_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>식품<\/b>공학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8B%9D%ED%92%88%EA%B3%B5%ED%95%99",
+			"description":"hygienics), <b>식품가공<\/b>학(foodtechnology), <b>식품<\/b>저장학(food storage), <b>식품<\/b>공학(food technology), 생화학(biochemistry), 기능성 <b>식품<\/b>학(functionality sitology), <b>식품<\/b>산업관리학(Food Industry Management) 등의 지식이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>과학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8B%9D%ED%92%88%EA%B3%BC%ED%95%99",
+			"description":"<b>식품<\/b> 기술자 연구소은 <b>식품<\/b>과학을 &quot;공학, 생물학, 물리학을 적용하여 음식에 얽힌 자연 현상이나 품질 저하의 원인, <b>식품 가공<\/b>에 관한 법칙을 연구하고 일반 소비자가 소비 <b>식품<\/b>의 개량을 대상으로 하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2073387&cid=44417&categoryId=44417",
+			"description":"개념 및 정의] <b>식품<\/b>공학(食品工學, food engineering)이란 <b>식품가공<\/b> 등에 사용되는 물리적, 기계적 조작의 원리와 장치에 관한 지식을 다루는 분야이다. 이외에도 계기측정, 공정 제어, 공장 배치 및 설계... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140403185122545_W58BE5XG0.jpg\/z9_term7_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>식품<\/b>화학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2073386&cid=44417&categoryId=44417",
+			"description":"개념 및 정의] <b>식품<\/b>화학(食品化學, food chemistry)이란 <b>식품<\/b> 원재료나 <b>가공<\/b><b>식품<\/b> 또는 <b>식품<\/b>첨가물 등의 화학적인 특성과 <b>가공<\/b>이나 저장 중에 일어나는 <b>식품<\/b>성분들의 화학적인 변화를 배우는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140403185104886_DZXYY9OOA.jpg\/z9_term6_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>식품<\/b>제조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6161062&cid=67725&categoryId=67725",
+			"description":"<b>식품 가공<\/b>과 같은 말.",
+			"thumbnail":""
+		},
+		{
+			"title":"강화 <b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1599479&cid=50346&categoryId=50346",
+			"description":"약품 제조법의 발전, 인식의 향상, <b>식품 가공<\/b> 기술의 진보 등에 의해 시판하게 된 것으로 각종 비타민 및 칼슘이 주된 강화제로 첨가되고 있다. 특히 유아용 분유에 각종 강화제가 첨가된다. 외국어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>공학기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926240&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>식품<\/b>공학기술자는 <b>식품<\/b>에 대한 조사, 개발, 생산 기술, 품질 관리, 포장, <b>가공<\/b> 및 이용에 관한 업무를 한다.<b>식품<\/b>개발을 담당하는 <b>식품<\/b>공학기술자는 자사 및 경쟁업체의 상품에 대해 <b>식품<\/b> 및 소비자의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>식품<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1203897&cid=40942&categoryId=34593",
+			"description":" 농산물·임산물·축산물·수산물 등의 처리·저장·<b>가공<\/b> 기술을 개발·보급하여 <b>식품<\/b>산업의 기술기반을 향상시키기 위하여 설립한 정부출연 연구기관.  1988년 5월 한국<b>식품<\/b>개발연구원 육성법(법률... ",
+			"thumbnail":""
+		},
+		{
+			"title":"즉석조리<b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1721787&cid=48180&categoryId=48257",
+			"description":"<b>식품가공<\/b> 시 일정한 품질을 얻기 위해 사용한다. [즉석조리<b>식품<\/b> 이야기] 단순 가열 등 간단한 조리 과정을 통해 손쉽게 섭취할 수 있는 국, 수프 등의 <b>식품<\/b>을 즉석조리<b>식품<\/b>이라고 한다. 시간과 노력을 줄일 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1767_000_1\/20130118165630469_EH4VVW36K.jpg\/fe49_62_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"농산물<b>가공<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1169866&cid=40942&categoryId=31870",
+			"description":"이를 통하여 보존기간을 늘리는 한편, 새로운 <b>식품<\/b>이나 생활용품도 만들 수 있다. 이러한 농산물<b>가공<\/b>은 여러 분야의 지식을 필요로 한다. 즉 유기화학, 생물학, 영양학, <b>식품<\/b>공학, 기계공학, 유통 및 판매, 경제학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054067&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>식품<\/b>기술사란 한국산업인력공단에서 시행하는 <b>식품<\/b>기술사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>식품<\/b>기술사는 소비자들에게 <b>식품<\/b>의 개발, 생산, 관리, 위생, 안전... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160520141221696_7MEHYBVLO.jpg\/da6_481_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>식품<\/b>공학과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917683&cid=44346&categoryId=44346",
+			"description":"<b>식품<\/b>의 효율적인 생산기술, 제품개발, <b>가공<\/b>, 품질관리, <b>식품<\/b>위생, 발효공정, 생물공학적 기법 등 <b>식품<\/b>생산에 관련된 기술개발 및 제조장비 등에 관한 기계적 기술론에 대해 연구합니다. <b>식품<\/b>공학과는 오늘날의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>조리과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917687&cid=44346&categoryId=44346",
+			"description":"<b>식품<\/b>조리과는 국제화 시대에 발맞추어 <b>식품<\/b>영양, 조리, 제과제빵, 외식 분야, <b>식품가공<\/b> 및 <b>식품<\/b>산업 등 식생활 전반의 질적 향상에 이바지하고 국민건강 증진에 기여합니다. 또한 소비자의 다양한 만족과 기호를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>영양과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917685&cid=44346&categoryId=44346",
+			"description":"[학과개요] <b>식품<\/b>영양과는 올바른 식생활의 확립을 목적으로 식생활을 영위, 관리하여 국민 건강 증진에 기여하는 학문입니다. <b>식품<\/b>영양과는 식생활을 통하여 건강을 유지하고 산업사회에 적합한 <b>식품<\/b>을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>재료학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2164998&cid=44417&categoryId=44417",
+			"description":"<b>식품<\/b>재료학(食品材料學, food materials)은 조리의 전반적인 내용, <b>식품<\/b>학(食品學, sitology), <b>식품가공<\/b>학(食品加工學, food technology) 및 <b>식품<\/b>화학(食品化學, food chemistry) 등과 관련이 된다. 우리가 먹는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140805150653753_G6XCO1PB5.jpg\/z9_term55_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>식품<\/b>조미원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029083&cid=42117&categoryId=42117",
+			"description":" 음식의 맛을 알맞게 맞추는 데 사용되는 조미<b>식품<\/b>을 제조하고자 각종 첨가물(식염, 설탕, 포도당 등)을 혼합하고 관련 기계를 조작·관리한다. [수행직무] 계량용기나 자동저울을 사용하여 첨가물(식염, 설탕... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>식품<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3327224&cid=46637&categoryId=46637",
+			"description":"1991년 성남시 분당구에 새로운 청사를 준공하여 입주했으며, 1996년 특허청에 의해 <b>식품<\/b>분야 산업재산권 진단 및 평가기관으로, 1997년 국립기술품질원에 의해 <b>가공<\/b><b>식품<\/b>분야 국가 공인시험기관으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"식육즉석<b>가공<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658697&cid=42117&categoryId=42117",
+			"description":"지육을 발골하여 포장육으로 <b>가공<\/b>하고 식육을 원료로 하여 햄류, 소시지류, 베이컨류의 <b>식품 가공<\/b>품 및 육류에 양념을 한 양념육류를 생산한다. 소비자 취향을 고려하여 현장중심의 제품을 생산한다. 홍보... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나래<b>식품<\/b> (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2610055&cid=51950&categoryId=55235",
+			"description":"[정의] 전라남도 여수시 돌산읍 평사리에 있는 <b>식품 가공<\/b>업체. [변천] 젓갈과 반찬의 전통 제조 방법을 발굴하여 국내에 공급하고, 젓갈과 반찬을 세계인들의 입맛으로 끌어올리기 위하여 1988년 3월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054068&cid=42114&categoryId=42114",
+			"description":"② <b>식품<\/b>산업기사는 <b>식품가공<\/b>분야에서 소비자들에게 최상의 <b>식품<\/b>이 제공되도록, 기능 업무를 담당할 숙련 기능 인력을 양성하기 위해 제정된 국가기술자격이다. ③ 2018년도부터는 기존의 검정형 시험방법... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801161150861_C4JHDNZQU.jpg\/da6_482_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"인스턴트<b>식품<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1587528&cid=50346&categoryId=50346",
+			"description":"이것은 조제, 요리가 간편하며 새로운 <b>식품가공<\/b> 공정으로 대부분 제조되어 저장성을 갖추고 있다. 외국어 표기 instant food(영어) 동의어 즉석<b>식품<\/b> 인스턴트 <b>식품<\/b>Basic 중학생을 위한 기술·가정 용어사전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>식품<\/b>영양학과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917686&cid=44346&categoryId=44346",
+			"description":"[학과개요] <b>식품<\/b>영양학은 바른 식생활의 확립을 통해 사람들의 건강 증진에 기여하는 학문입니다. <b>식품<\/b>영양학과는 건강한 <b>식품<\/b>을 공급하여 국민보건 향상에 기여할 수 있는 전문 기술인을 양성하는 것을 교육... ",
+			"thumbnail":""
+		},
+		{
+			"title":"삼진<b>식품<\/b> (가평)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6445358&cid=68119&categoryId=68144",
+			"description":"[정의] 경기도 가평군 청평면 상천리에 있는 <b>식품 가공<\/b> 중소기업. [개설] 삼진<b>식품<\/b>은 박충호 회장이 1979년 7월 찹쌀떡을 판매하는 매일<b>식품<\/b>으로 개업하고, 1990년 8월 ‘삼진<b>식품<\/b>’으로 상호를 변경했다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전통<b>식품<\/b>제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926247&cid=42116&categoryId=42116",
+			"description":"[직업설명] 전통<b>식품<\/b>제조원은 우리나라의 고유음식인 떡, 한과, 간장, 된장, 김치 등을 만드는 일을 담당한다. 조리할 <b>식품<\/b>의 종류에 따라 필요한 재료를 준비하여 재료들을 세척하고, 조리방법에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"풍성<b>식품<\/b> (고창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2579476&cid=51945&categoryId=54973",
+			"description":"2007년 농 <b>식품 가공<\/b>업을 통한 국가 산업 발전에 기여한 공로를 인정받아 국무총리상을 수상하였다. 2008년 전라북도 특화 품목 육성 사업으로 인증 받아 명실상",
+			"thumbnail":""
+		},
+		{
+			"title":"방사선<b>식품<\/b>조사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1204753&cid=40942&categoryId=32097",
+			"description":" <b>식품<\/b> 및 의료용품을 성분의 파괴 없이 신선하고 장기 보존할 수 있는 상태로 만들기 위해... 이 방사선이 <b>식품<\/b> 및 의료용품에 활용되고 있는 비율은 감마선이 80％ 이상, 전자선이 20％ 미만을 차지하고, X선은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>식품<\/b>연구원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EC%8B%9D%ED%92%88%EC%97%B0%EA%B5%AC%EC%9B%90",
+			"description":"재단법인 한국<b>식품<\/b>연구원 (韓國食品硏究院, Korea Food Research Institute , KFRI )은 농산물·임산물·축산물·수산물 등의 처리·저장·<b>가공<\/b> 기술을 개발·보급하여 <b>식품<\/b>산업의 기술 기반을 향상시키기 위하여... ",
+			"thumbnail":""
+		}
+	]
+}

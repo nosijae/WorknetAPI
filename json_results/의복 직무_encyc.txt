@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:14 +0900",
+	"total":380,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>의복<\/b>완성반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027997&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>을 끝손질하고 마무리하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] <b>의복<\/b>의 마무리 공정에 관한 전반적인 지식과 내용을 숙지한다. 생산량, 시간계획 등을 수립하여 작업지침을 만들고 이에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027996&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>제조의 중간공정 또는 마무리공정에서 재단물, 봉제품, 완제품 등의 결함을 검사한다. [수행<b>직무<\/b>] 작업표준에 의하여 제품에 따른 검사항목을 확인하고 그에 따른 검사기준서 및 검사표준서를 준비하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>완성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953475&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>의 각 부분품을 결합하거나 보강하여 마무리·완성한다. [수행<b>직무<\/b>] 옷의 구멍에 단추, 스냅, 벨트장식 등 부분품을 부착한다. 허리부위에 벨트 고리를 부착한다. 단추 혹은 벨트를 벨트 고리에 끼우고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의복<\/b>패턴사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027999&cid=42117&categoryId=42117",
+			"description":" 의류의 디자인스케치를 보고 패턴제작법을 이용하여 패턴을 제작한다. [수행<b>직무<\/b>] 작업지시서의 디자인 및 제품별로 요척(옷을 만드는 데 필요한 원단의 최소 야드 수)을 계산하여 패턴모형을 종이에 그린다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"서비스·경험디자인 기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6197204&cid=42114&categoryId=42114",
+			"description":"② 서비스·경험 만족을 위해 사용자 중심의 디자인 사고를 기반으로 통합적인 프로세스를 활용하여 서비스·경험 디자인 콘셉트와 모델을 개발하고 운영하는 <b>직무<\/b>를 수행한다. [ 3. 시험정보] (1) 응시자격... ",
+			"thumbnail":""
+		},
+		{
+			"title":"다림질기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028078&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>의 표면을 부드럽게 하고 모양을 바로잡기 위하여 프레스를 조작한다. [수행<b>직무<\/b>] 프레스 위에 <b>의복<\/b>을 펴서 놓는다. <b>의복<\/b>을 잡아당기면서 페달을 밟아 의류를 고정시킨다. 증기가 나오도록 프레스 버튼을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의류견본제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027995&cid=42117&categoryId=42117",
+			"description":" 원형본, 스케치, 작업지시서에 따라 새로운 모양의 견본<b>의복<\/b>을 제작한다. [수행<b>직무<\/b>] 신제품 개발 시 견본<b>의복<\/b>의 의뢰가 들어오면 작업지시서를 확인 후 원단, 부자재 및 작업도구를 확인한다. 패턴실로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의류제조관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024451&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>을 수선·제조·개조하는 업무를 관리하고, 관련 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 프레스를 사용한 열전사와 염색의 형태가 명세서와 일치하는지 검사한다. 원단 및 모피의 패턴·재단... ",
+			"thumbnail":""
+		},
+		{
+			"title":"다림질반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028079&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>을 다리는 일에 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 다리미 기계의 조작 및 설치방법을 교육시킨다. 다림질된 <b>의복<\/b>을 점검하고 이상이 있으면 다림질 방법을 수정하도록 지시한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"패턴반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028002&cid=42117&categoryId=42117",
+			"description":" 의류패턴을 만드는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 패턴생산에 대한 지식 및 내용을 숙지하고 생산의뢰서 또는 작업지시서를 확인한다. 원단의 소모량을 최소화해서 재단을 하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양장사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027988&cid=42117&categoryId=42117",
+			"description":" 고객의 요구에 따라 다양한 품목의 여성용 <b>의복<\/b>을 제작한다. [수행<b>직무<\/b>] 국내외 자료를 수집하여 패션유행 경향을 파악하고 디자인을 개발하거나 기존 양식을 복제한다. 원단의 종류, 색상 및 스타일을 고객과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모피의류패턴사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027998&cid=42117&categoryId=42117",
+			"description":" 모피<b>의복<\/b>의 원형을 만들고자 디자인과 품목별로 실제 완제품과 크기가 동일한 모형을 제작한다. [수행<b>직무<\/b>] 작업지시서를 확인한 후 가위, 패턴용지 등의 재료를 준비한다. 디자인별로 모피<b>의복<\/b>의 본을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"심지부착원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028121&cid=42117&categoryId=42117",
+			"description":" 의류의 외관상 안정감과 힘받이를 위해 심지를 부착하여 압착하는 기계를 조작한다. [수행<b>직무<\/b>] 작업지시서를 보고 시즌별 원단소재에 따라 심지 종류를 선택한다. 온도, 시간, 압축정도를 테스트한 후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업기반기술학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025360&cid=42117&categoryId=42117",
+			"description":" 산업기반기술 계열학원에서 수강생들에게 특정교과에 대한 이론과 기술을 강의하고 자격·면허를 취득하기 위한 전문과목을 지도한다. [수행<b>직무<\/b>] 수강생들에게 기본이론, 공구 및 기계의 사용, 안전관리 등에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가사도우미",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026110&cid=42117&categoryId=42117",
+			"description":"<b>의복<\/b>, 이불 등을 세탁·건조하고 다림질한 후 정돈한다. 우편물을 보관하고, 공과금을 대신 납부한다. 요청에 따라 음식을 만들고 대접하는 등의 가사업무를 수행한다. 가정용품의 구입을 대행한다. 고객이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이미지컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026145&cid=42117&categoryId=42117",
+			"description":"화장, 화술, 매너, 대화태도, <b>의복<\/b> 등을 중심으로 고객의 현재 이미지를 분석한다. 점검된 이미지와 고객의 선호 그리고 목적에 맞추어 의상선택방법, 화장방법, 대화방법, 자세, 표정, 패션, 매너, 화술 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"맹인적응교육교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025344&cid=42117&categoryId=42117",
+			"description":"거실, 부엌 등 제반 시설을 갖춘 생활관에서 식사, 요리, <b>의복<\/b>관리, 전화사용, 청소 등 일상생활을 위한 적응방법을 교육한다. 점자를 읽고 쓸 수 있도록 교육한다. TTS(Text To Speach : 맹인용 전자독서기) 등 읽는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재단반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028009&cid=42117&categoryId=42117",
+			"description":" 원단을 재단하는 일에 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 사용될 원단의 양과 절단모형(형판)을 결정한다. 패턴에 따른 표시선과 재단물의 절단선이 일치하는지 검사한다. 작업계획에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유니폼관리인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658642&cid=42117&categoryId=42117",
+			"description":" 행사진행을 도와주는 행사도우미의 유니폼 및 액세서리 등을 제작·관리·대여하는 업무를 한다. [수행<b>직무<\/b>] 행사진행에 요구되는 유니폼 및 액세서리를 주문에 따라 제작한다. 행사 시 찢기거나 풀린 유니폼을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모피의류완성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027990&cid=42117&categoryId=42117",
+			"description":" 수봉이 끝난 제품에 부착물을 달고 잡털을 제거한 후 다림질하여 모피<b>의복<\/b>을 마무리한다. [수행<b>직무<\/b>] 완성된 모피의류에 라벨 및 부착물을 단다. 에어스프레이(Air Spray)를 사용해 이물질 및 잡털을 제거한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재봉사(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028029&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b> 및 각종 부속품을 조립하고 부착하고자 재봉틀을 조작한다. [수행<b>직무<\/b>] 실패걸이에 실패를 끼운다. 안내대, 신장장치, 바늘귀 사이로 실을 잡아당긴다. 북 속에 실패를 넣고 북구멍 사이로 실을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"오버로크재봉사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028023&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>에 의류부분품, 끈, 장식 등을 붙이거나 올이 풀어지는 것을 방지하기 위해 오버로크재봉틀을 조작한다. [수행<b>직무<\/b>] 오버로크재봉틀의 이상 유무를 파악하고 작업지시서에 표시된 내용에 의해 의류의 각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소재디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025670&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>의 디자인에 맞는 원단 소재를 결정한다. [수행<b>직무<\/b>] 각종 국내외 정보를 수집, 분석하여 최신 유행 및 트렌드 등의 시장경향을 파악한다. 계절별 소재를 기획하여 주력 아이템을 시즌에 맞게 선정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재봉반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028028&cid=42117&categoryId=42117",
+			"description":" 기계의 기능 및 공정에 대한 지식을 이용하여 기계 및 재봉틀을 조작하는 방법을 작업원에게 교육한다. [수행<b>직무<\/b>] 재봉틀 전반에 관한 지식과 내용을 숙지하고 생산량 및 시간계획 등을 수립하여 작업계획을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한복제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027986&cid=42117&categoryId=42117",
+			"description":" 고객과의 상의를 통해 남자한복, 여자한복, 두루마기, 아동한복, 계량한복, 퓨전한복 등의 <b>의복<\/b>을 맞춤 제작한다. [수행<b>직무<\/b>] 한복 제조 시 고객과의 상의에 따라 원단의 종류, 색상, 실용성, 디자인을 고른다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가죽제품수선원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658438&cid=42117&categoryId=42117",
+			"description":" 가방, 지갑, 벨트 등 가죽제품을 수선, 리폼, 염색 등을 한다. [수행<b>직무<\/b>] 고객과 제품의 수선 부분, 수선 방법, 수선 완료일자 등에 대하여 협의한다. 수선 부분을 초크로 표시하거나 핀으로 꼽아 표시한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"구두수선원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027991&cid=42117&categoryId=42117",
+			"description":" 고객의 요구에 따라 파손되거나 낡은 구두굽을 교체하고 갈라진 부위를 수선한다. [수행<b>직무<\/b>] 소비자의 요구에 따라 구두의 파손부위를 수선해주거나 구두굽을 교체한다. 구두굽을 교체하고자 구두를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재봉틀지도원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028137&cid=42117&categoryId=42117",
+			"description":" 봉재기술에 관한 지식을 이용하여 각종 재봉틀을 다루는 방법을 작업원에게 가르친다. [수행<b>직무<\/b>] 작업원에게 재봉틀의 부품 및 기능을 설명한다. 작업원에게 실 꿰는 법, 바늘 갈아 끼우는 법, 유도장치... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양말검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027993&cid=42117&categoryId=42117",
+			"description":" 새로운 스타일의 양말에 관한 품질기준을 세우는 데 필요한 자료를 얻거나 공장품질기준과 일치하는지 점검하기 위해 편직된 양말의 결함을 검사한다. [수행<b>직무<\/b>] 작업표준에 의하여 검사기준서를 준비하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재단사(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028010&cid=42117&categoryId=42117",
+			"description":" <b>의복<\/b>류·모자류 등을 패턴모형에 맞춰 재단용 가위나 칼 또는 전기재단기로 재단한다. [수행<b>직무<\/b>] 생산의뢰서 또는 작업지시서를 확인한 후 원단 및 부자재를 수령한다. 원단의 소모량을 최소화한 패턴모형을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프레스재단사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028145&cid=42117&categoryId=42117",
+			"description":" 일정한 높이로 연단된 원단을 재단하기 위해 프레스를 조작한다. [수행<b>직무<\/b>] 작업지시서를 확인한 후 프레스의 작동상태를 확인한다. 재단할 모양의 철형을 준비한다. 원단을 프레스기에 올려놓고 그 위에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양복사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027987&cid=42117&categoryId=42117",
+			"description":" 고객의 요구에 따라 양복, 신사용 외투 등 남성용 <b>의복<\/b>을 제작한다. [수행<b>직무<\/b>] 고객과의 상담을 통해 양복의 디자인 및 스타일, 양복의 원단, 색상 등을 고른다. 고객의 신체적인 특성과 체형 등을 파악하고자... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속장식부착원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028103&cid=42117&categoryId=42117",
+			"description":" 금속장식이 부착되는 섬유제품에 금속장식을 부착하는 프레스기를 조작한다. [수행<b>직무<\/b>] 봉제가 완료된 제품의 특정부위에 고리 등 금속장식을 끼우거나 붙인다. 작업지시서의 부착위치 등을 확인하고 부착할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"봉제반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028018&cid=42117&categoryId=42117",
+			"description":" 의류 등을 봉제하는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 봉제 전반에 관한 지식 및 내용을 숙지하고 생산량에 맞춰 작업계획을 수립한다. 작업계획에 따라 작업공구 및 작업원을 선정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장갑제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028027&cid=42117&categoryId=42117",
+			"description":" 장갑을 재봉, 세공, 압착하는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 불규칙한 바느질 및 염색, 얼룩 등의 결함을 점검한다. 작업계획에 따라 세부실행항목을 수립하여 작업절차 및 방법을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의류수선원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027992&cid=42117&categoryId=42117",
+			"description":" 재봉틀, 실, 자, 가위 등을 사용하여 의류를 수선한다. [수행<b>직무<\/b>] 고객과 의류의 수선 부분, 수선 방법, 수선 완료일자 등에 대하여 협의한다. 수선 부분을 초크로 표시하거나 핀으로 꼽아 표시한다. 고객의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양말제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027892&cid=42117&categoryId=42117",
+			"description":" 양말을 짜고, 염색하고, 완성하는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 표준작업명세서에 따라 작업절차 및 방법을 결정하고 작업원에게 작업내용을 지시·배치하고 작업상황을 관리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"편직반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027937&cid=42117&categoryId=42117",
+			"description":" 편직용 실을 사용하여 천, <b>의복<\/b>, 기타 다른 편직물을 제조하는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 표준작업명세에 따라 작업계획을 세우고 세부실행항목을 수립하여 작업절차 및 방법을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"애견옷디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025673&cid=42117&categoryId=42117",
+			"description":" 애견의 옷을 디자인하고 제작한다. [수행<b>직무<\/b>] 품목을 결정하여 애견옷을 디자인하고, 원단 및 부속품을 선택하여 견본 의상을 제작한다. 이를 마네킹 혹은 직접 애완동물에게 입혀보고 수정을 한 후, 최종... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신발판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025984&cid=42117&categoryId=42117",
+			"description":" 운동화, 구두 등의 각종 신발을 소비자에게 판매한다. [수행<b>직무<\/b>] 상점을 방문하는 고객을 맞이한다. 고객이 원하는 신발을 치수에 맞게 선보이거나 고객에게 착용시킨다. 고객에게 신발에 관한 정보를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한복판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026034&cid=42117&categoryId=42117",
+			"description":" 전통한복, 개량한복 등의 한복 및 관련된 물품을 판매한다. [수행<b>직무<\/b>] 한복의 원단과 디자인을 설명하며, 고객의 취향, 목적에 맞게 선택하도록 조언한다. 디자인 샘플을 만들어 고객의 선택에 도움을 주기도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모자재봉사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028016&cid=42117&categoryId=42117",
+			"description":" 모자를 제조하기 위해 재단된 부분품들을 디자인에 맞춰 재봉한다. [수행<b>직무<\/b>] 작업지시서에 따라 부분 재단된 모자 부분품들을 확인한다. 재봉틀을 조작하여 모자의 앞, 옆, 뒷부분의 각 부분품을 중심부로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아일릿원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028021&cid=42117&categoryId=42117",
+			"description":" 부품을 부착하기 위해 제품에 구멍을 뚫고 아일릿(Eyelet) 재봉틀로 구멍 주위를 박는다. [수행<b>직무<\/b>] 작업지시서를 보고 각종 부분품이 부착될 구멍의 위치 및 개수 등을 파악한다. 펀칭프레스에 재단물을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"뜨개질원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028035&cid=42117&categoryId=42117",
+			"description":" 편물의류의 치수에 따라 실과 뜨개바늘을 사용하여 뜨개질한다. [수행<b>직무<\/b>] 뜨개질할 제품에 따라 바늘의 크기, 실의 종류, 색깔 등을 선택한다. 코바늘, 둥근바늘, 쌍대바늘, 아프간바늘, 네대바늘 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스타킹편직원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027890&cid=42117&categoryId=42117",
+			"description":" 발과 다리모양에 맞추어 스타킹을 짜는 편물기계를 조작한다. [수행<b>직무<\/b>] 작업지시서에 따라 원하는 디자인, 스타일의 스타킹을 생산하기 위해 원통형 편직기를 점검한다. 연사 또는 커버링된 원사보빈을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양말재봉사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028022&cid=42117&categoryId=42117",
+			"description":" 편직된 양말의 발가락 부분이나 벌어진 입구를 닫기 위해 재봉기를 조작한다. [수행<b>직무<\/b>] 작업지시서를 확인하여 양말의 전체 디자인 및 모양을 확인한다. 재봉틀의 작동 이상 유무를 확인한다. 원통형으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가방판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026052&cid=42117&categoryId=42117",
+			"description":" 백(Bag), 학생용 가방, 여행가방, 서류가방 등 각종 가방을 소비자에게 판매한다. [수행<b>직무<\/b>] 도매업체로부터 물품을 주문하여 구매한다. 매입·매출 내역과 재고량, 판매수익을 파악한다. 진열대에 물품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"웨딩드레스제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027989&cid=42117&categoryId=42117",
+			"description":" 고객의 주문이나 디자인명세서에 따라 웨딩드레스를 제작한다. [수행<b>직무<\/b>] 고객과 디자인 및 원단의 종류, 레이스의 종류 등에 관해 상의한다. 줄자를 사용하여 고객의 치수를 재고 명세서에 규격, 원단의 종류... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원단재단기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028124&cid=42117&categoryId=42117",
+			"description":" 연단한 원단을 자동으로 재단하는 자동재단기를 조작한다. [수행<b>직무<\/b>] 작업지시서를 확인한 후 작업에 필요한 패턴모형을 확인한다. 기계의 이상 유무를 확인한 후 컴퓨터에 재단될 패턴모양을 입력한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한복연구가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832769&cid=42117&categoryId=42117",
+			"description":" 궁중복식 등 전통한복의 복원과 한복의 개량과 보급에 대해 연구하고 각종 한복을 제작한다. [수행<b>직무<\/b>] 한복의 대중화를 위해 생활한복 등에 대해 연구하여 제작한다. 궁중복식 등 고대 한복 등을 연구하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장갑재봉사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028026&cid=42117&categoryId=42117",
+			"description":" 편조작업이 완료된 장갑의 손목부분을 마무리하고 상표를 부착한다. [수행<b>직무<\/b>] 장갑 제품에 따라 장갑을 작업대에 올려놓고 재봉기의 노루발을 올려 고무줄과 같이 재봉한다. 장갑 손목부분을 오버로크... ",
+			"thumbnail":""
+		},
+		{
+			"title":"셔츠홀딩기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028119&cid=42117&categoryId=42117",
+			"description":" 셔츠를 자동으로 접는 기계를 관리하고 조작한다. [수행<b>직무<\/b>] 기계의 작업대 위에 셔츠를 놓고 소매단과 칼라를 부착된 죔틀에 넣어 손으로 누른 후 죔틀을 고정시켜 닫는다. 접기 날이 셔츠에까지 내려오도록... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연단기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028123&cid=42117&categoryId=42117",
+			"description":" 원단을 펼쳐 자르기 용이하도록 테이블 위에 원단을 펼치는 기계를 조작한다. [수행<b>직무<\/b>] 작업지시서를 확인 후 작업에 필요한 원단을 수령하고 기계의 작동 여부를 확인한다. 원단을 연단기 보조테이블에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"침구판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026004&cid=42117&categoryId=42117",
+			"description":" 침구용품(베개, 이불, 침대커버, 소파커버, 테이블보 등)이나 커튼(봉, 레일, 링, 레이스, 고리, 원단 등)을 소비자에게 판매한다. [수행<b>직무<\/b>] 제품의 특성을 파악하고 명칭과 가격 등 제품과 관련된 사항을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자수기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027903&cid=42117&categoryId=42117",
+			"description":" 직물, <b>의복<\/b>, 양말 등의 제품에 자수를 놓는 기계를 조작한다. [수행<b>직무<\/b>] 자수모양과 위치를 정하기 위해 작업지시서를 확인한다. 색상에 맞는 실을 선택하여 실패, 유도장치, 바늘귀에 꿴다. 기계의 각 부위를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"편직기수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953429&cid=42117&categoryId=42117",
+			"description":" 의류·장갑·양말 등 편직물을 제조하는 기계를 수리·조정한다. [수행<b>직무<\/b>] 제품사양서나 설계도면에 따라 캠·싱커·편성침 등을 수동공구를 사용하여 설치한다. 기계 각 부위를 점검하여 파손되거나 결함이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수편물원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028042&cid=42117&categoryId=42117",
+			"description":" 수동식 편물기계를 사용하여 <b>의복<\/b>의 부분품, 장갑 등을 짜는 기계를 조작한다. [수행<b>직무<\/b>] 제품도면이나 견본을 확인하고 실패를 실걸이에 끼우고 실 끝을 찾아 유도장치를 통해 급사구에 투입한다. 모형에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양말성형기조정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027891&cid=42117&categoryId=42117",
+			"description":" 편직된 양말의 모양을 만들고 건조하는 기계를 조작한다. [수행<b>직무<\/b>] 염색 및 탈수, 건조과정을 거친 양말을 족형에 끼워 열과 압력을 가하는 양말성형기를 조작한다. 작업지시서를 보고 기계 각 부위를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"다림질원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028080&cid=42117&categoryId=42117",
+			"description":" 가압기, 증기다리미, 전기다리미 등을 사용하여 세탁물의 형태를 바로잡아 광택과 탄력을 주고 주름을 잡는다. [수행<b>직무<\/b>] 세탁·건조한 세탁물의 종류와 형태에 따라 마무리하기 위한 방법과 기계의 종류... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모자제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028036&cid=42117&categoryId=42117",
+			"description":" 신사모, 숙녀모, 유아모, 운동모, 등산모, 군경모, 수위모 등 각종 모자를 만든다. [수행<b>직무<\/b>] 작업지시서에 따라 모자제조에 필요한 패턴용지, 가위, 칼, 전동식 재단기 등을 준비한다. 필요에 따라 프레스... ",
+			"thumbnail":""
+		},
+		{
+			"title":"터프팅기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027925&cid=42117&categoryId=42117",
+			"description":" 융단, <b>의복<\/b>, 침대 씌우개 같은 물품에 사용되는 수술 재료를 짜는 여러 개의 바늘을 가진 터프팅기(Tufting Machine)를 조작한다. [수행<b>직무<\/b>] 도안을 확인하여 생산하고자 하는 수술의 형태를 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양말편직원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027893&cid=42117&categoryId=42117",
+			"description":" 양말편직기계의 작동상태를 관찰하고 고장난 부분을 수리하거나 원하는 형태의 편직물을 제조하는 편직기를 조작한다. [수행<b>직무<\/b>] 품종별 작업명세서에 따라 양말편직기를 선택하고 기계의 상태 및 이상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"속옷디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025671&cid=42117&categoryId=42117",
+			"description":" 시장조사와 트렌드를 예측하여 남녀 속옷 제품을 기획 및 디자인한다. [수행<b>직무<\/b>] 국내외 관련 자료를 수집하고 분석한다. 시즌 경향(트렌드)을 분석하여 속옷 제품을 기획한다. 체형, 사이즈 등을 고려하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의류판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026013&cid=42117&categoryId=42117",
+			"description":" 일반 소비자에게 정장의류, 내의류, 캐주얼의류, 의류액세서리 등을 판매한다. [수행<b>직무<\/b>] 도매업체나 유통업체로부터 의류를 주문하여 구입한다. 납품된 물품을 검수, 검사하고 창고에 물품별로 정리하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의상디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025675&cid=42117&categoryId=42117",
+			"description":" 시장조사와 패션경향을 예측하여 성별, 연령별, 기능별로 각종 의상을 디자인한다. [수행<b>직무<\/b>] 신제품을 개발하기 위하여 각종 국내외 패션 관련 자료를 통해 소재, 색상 등의 시장 경향을 분석·파악한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공정관리기술자(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024756&cid=42117&categoryId=42117",
+			"description":" 생산시설에서 제조 또는 가공공정상의 기술적 유지관리 및 기술지도업무를 수행하고, 공정설계 및 개선업무를 한다. [수행<b>직무<\/b>] 사업체의 생산여건 등을 고려하여 관련공정 간 가동계획을 검토·조정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공복에 대한 논의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5715957&cid=62811&categoryId=62831",
+			"description":" 관원의 <b>의복<\/b> 문제에 대해 논한 글이다. 당시 복식제도를 10종으로 구분지어, 제도가 지나치게 복잡해... [번역] 공복(公服)에 대한 논의 신이 삼가 생각건대 사람에게 <b>의복<\/b>의 용도는 두 가지이니, 몸을 따뜻하게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의류기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053877&cid=42114&categoryId=42114",
+			"description":"(2) 주요 업무 ① 수주된 직물의 생산가능성 여부를 검토하고, 제품의 유행성에 대한 시장성을... 물리적 특성 시험, 완성된 제품의 품질상태 점검 등의 실무업무를 담당한다. ③ 인간, <b>의복<\/b>, 사회라는 관",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801151449589_O1Y0YAGB9.jpg\/da6_291_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"에봇",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2395032&cid=50762&categoryId=51387",
+			"description":"세마포 겉옷 위에 걸치는 소매 없는 조끼 모양의 윗옷으로, 제사장들이 <b>직무<\/b>를 수행할 때 입었던 <b>의복<\/b> 곧 성의(聖衣, 출 39:2-21). 허리띠를 묶어서 착용했다. 에봇은 금실과 청색, 자색, 홍색실과 가늘게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부총관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1167117&cid=40942&categoryId=33383",
+			"description":"물품, <b>의복<\/b>, 거마[車馬] 등을 조달·관리하는 곳으로서, 부총관의 정원은 1명이었다. 승녕부의 부책임자로서 칙임관(勅任官) 2·3등이었고, 총관 보좌 및 총관의 유고(有故) 때 그 <b>직무<\/b>를 대행하였다. 1907년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대제사장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2391393&cid=50762&categoryId=51387",
+			"description":"이후 아론의 직계가 그 <b>직무<\/b>를 계승했는데, 율법상 결격 사유가 없으면 장자가 대를 이어 종신토록 사역하였다(레 21:16-23). 대제사장은 성소를 감독하고 봉사와 회계를 주관했다(왕하 22:4). 또 우림과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양장기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054073&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 없음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 양장기능사 ① 양장기능사란 산업인력공단에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801161601864_4CZUKQJQI.jpg\/da6_487_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"로브",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1088303&cid=40942&categoryId=32085",
+			"description":" 특수분야에서 <b>직무<\/b> 수행시 입는 예복이나 긴 겉옷의 총칭.  크게 나누면 3가지 말뜻이 있다. ① 가장 넓은 뜻으로는 입는 것의 총칭으로서 옷 ·<b>의복<\/b> ·의상, ② 예장(禮裝) ·관복(官服) ·법복(法服) ·박사복... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_34\/20180930194120622_CQHZU4BB0.jpg\/23107.jpg?type=m160_160"
+		},
+		{
+			"title":"양복기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054072&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 없음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 양복기능사 ① 양복기능사란 산업인력공단에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20201231183123228_VUH2UZ42J.jpg\/da6_486_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가운",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%80%EC%9A%B4",
+			"description":"아직도 특수한 <b>직무<\/b>에 있는 사람들은 가운을 입는다. 또한 품이 넉넉하고 편해서... 빅토리아 시대 이전 '<b>의복<\/b>(드레스)'은 특정 <b>의복<\/b>보다는 남녀 복장을 뭉뚱그려 부르는 말(예: 이브닝 드레스... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가운",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1055121&cid=40942&categoryId=32085",
+			"description":"로브라고도 하며, 단순히 가운이라고 할 때는 특수한 <b>직무<\/b>에 있는 사람이 의례복 또는 제복으로서... 그 밖에 낙낙하고 긴 <b>의복<\/b>이란 뜻으로 이브닝드레스 ·웨딩드레스를 이브닝가운 ·웨딩가운이라고도 한다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_16\/20180828151016552_20PNQ1QT4.jpg\/1232895.jpg?type=m160_160"
+		},
+		{
+			"title":"전풍",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1707870&cid=62063&categoryId=62063",
+			"description":"일찍이 글을 올려 화신(和珅)이 군기(軍機)가 되어 일을 처리하면서 제도를 준수하지 않는다고 지적해, 군기처(軍機處)를 감찰하는 <b>직무<\/b>를 맡았다. 화신이 그의 집이 가난하고 <b>의복<\/b>도 허술한 것을 알고 일부러... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생활 중심 진로교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=383754&cid=42128&categoryId=42128",
+			"description":"준비, <b>의복<\/b> 구입과 관리, 시민으로서의 책무, 여가 및 레크리에이션, 지역사회와의 교류 등을... 선택 및 계획, 적절한 작업 습관, 직업 탐색 및 직업 유지, 신체적 기능, 구체적인 <b>직무<\/b>능력 등을 포함한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"Eucharist, Distribution of",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2362220&cid=69168&categoryId=51340",
+			"description":"평신도의 사제 <b>직무<\/b> 협력 문제에 관한 훈령, 1997년 8월 15일, 제8조 1항 참조); (2) 비정규 성체... 비정규 성체 분배권: (1) 비정규 성체 분배권은 보조적이고 비정규적이다(평신도의 사제 <b>직무<\/b> 협력 문제에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원자력기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977034&cid=42114&categoryId=42114",
+			"description":"운영상태를 검사하고 지휘 · 감독하는 <b>직무<\/b>를 수행한다. ② 2020년에는 원자력기사 자격시험을 실시하지 않았다. [ 3. 시험정보] (1) 응시자격 : 응시자격에는 제한이 있다. || 기술자격 소지자 || 관련학과",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100911616_WPQKX7HTG.jpg\/da6_226_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"독립신문 1896년 7월 9일(한글 원문)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2324786&cid=62142&categoryId=62340",
+			"description":"지졔 <b>직무<\/b>를 <img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/f53c_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>터인<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e3a8_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/> 만일 군<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e97d_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>가 교휵이 업시면 <img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e669_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>만명이 잇서도 교휵 잇<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e285_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/> 군<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e97d_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/> 쳔명의게 지<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e285_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/> 리치라 그런 고로 셰계 각국에 단니며보거드면 군<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e97d_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>를 <img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e1a7_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/><img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e46c_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>칠<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/ea7f_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>에 다만 긔예만 <img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e1a7_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/><img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e46c_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>친거시 아니라 군<img src=\"https:\/\/ssl.pstatic.net\/sstatic\/imgfont\/NVD12BK0TRNN\/e97d_NVD12BK0TRNN.png\" alt=\"imagefont\" class=\"imagefont\"\/>의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3483_000_1\/20141128024043751_M62UEFHN0.jpg\/he21_or_18960709.jpg?type=m160_160"
+		},
+		{
+			"title":"독립신문 1898년 4월 9일(한글 현대문)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2326381&cid=62142&categoryId=62340",
+			"description":"[논설] ○ 사람의 <b>의복<\/b> 음식은 다만 사람에게만 크게 관계가 있는 것이 아니라 전국 흥망이 <b>의복<\/b> 음식이 있고 없는데 있는 것이라 <b>의복<\/b> 음식이 없으면 군신 상하가 <b>직무<\/b>도 할 수 없거니와 첫째 목숨을 지탱 할 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3483_000_2\/20141129013935312_GSVBS04PC.jpg\/he21_ko_18980409.jpg?type=m160_160"
+		},
+		{
+			"title":"제품디자인기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053888&cid=42114&categoryId=42114",
+			"description":"② 이에 따라 제품디자인에 관한 이론을 바탕으로 산업현장에서 요구되는 관련<b>직무<\/b>를 수행할 수 있는 지식과 실무경력을 갖춘 전문기술인력을 양성하기 위해 제품디자인기술사 자격제도가 제정되었다. (2)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203022599_4UHAMNBLT.jpg\/da6_302_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"내명부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=657653&cid=46622&categoryId=46622",
+			"description":"그 기능은 궁중에서 각각 맡겨진 <b>직무<\/b>에 따라 공적인 일부터 사사로운 시중까지 다양하게 국왕 및 왕실을 보필하였다. [내용] 전제적 왕권이 확립된 삼국시대 이래, 궁중의 운영을 위한 비빈(妃嬪) 중심의 궁녀... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20161005152334796_NKK1OCZX7.jpg\/5729aa66-d3b7-4b.jpg?type=m160_160"
+		},
+		{
+			"title":"원자력발전기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977035&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국원자력안전기술원 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.kins.re.kr [ 2. 자격정보] (1) 원자력발전기술사 ① 원자력발전기술사란 응시자격을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100911351_N9JPZ98ME.jpg\/da6_227_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"이른 가을 제용감 못가에서 여러 공을 모시고 술을 마시며",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665576&cid=62811&categoryId=62812",
+			"description":"(무사다<b>직무<\/b>, 나득양청진?) [해설] 정약용이 16세 때인 1777년(정조 1) 초가을, 제용감 판관(濟用監判官)이 된 부친과 여러 분을 모시고 제용감 못가에서 술을 마시면서 지었다. 정약용의 부친 정재원(丁載遠)은 1",
+			"thumbnail":""
+		},
+		{
+			"title":"방사선관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977022&cid=42114&categoryId=42114",
+			"description":"② 방사선에 관한 전문적인 지식과 풍부한 경험을 바탕으로 산업현장에서 요구되는 방사선이용과 관련된 <b>직무<\/b>를 수행할 수 있는 전문기능인력을 양성하기 위해 방사선관리기술사 자격제도가 제정되었다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100911282_Q403XM6GX.jpg\/da6_214_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"제품디자인기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053887&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날 국제 경쟁에서 제품개발은 성능이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203020709_CIYVL4XL4.jpg\/da6_301_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"바이오화학제품제조산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900720&cid=42114&categoryId=42114",
+			"description":" 바이오화학제품제조산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 바이오화학제품제조산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자격에는 제한이 있다. 응시자는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191952601_RYAOUUVSU.jpg\/da6_907_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"바이오화학제품제조기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900723&cid=42114&categoryId=42114",
+			"description":" 바이오화학제품제조기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 바이오화학제품제조기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과해야 한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191954224_AH1T3AS4K.jpg\/da6_906_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"제품디자인산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053889&cid=42114&categoryId=42114",
+			"description":"심리적 욕구 충족시킬 수 있도록 다양한 조사 · 분석을 통하여 각종 공업제품의 의장을 창조하고 개발하는 등의 업무를 수행한다. (3) 과정평가형 자격제도 ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(NC",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191103432_9TYPMIHVO.jpg\/da6_303_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"건설안전산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053959&cid=42114&categoryId=42114",
+			"description":"예방계획 수립, 작업환경의 점검 및 개선, 유해 위험방지 등의 안전에 관한 기술적인 사항을 관리하며 건설물이나 설비작업의 위험에 따른 응급조치, 안전장치 및 보호구의 정기점검, 정비 등의 <b>직무<\/b>를 수",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185013085_EW5CGU0T4.jpg\/da6_373_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"컬러리스트기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053913&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 컬러리스트기사 ① 컬러리스트기사란 응시자격을 갖춘... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191132217_1RZMHNCIA.jpg\/da6_327_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"포장산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053922&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 포장산업기사 ① 포장산업기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402085745674_AE8B9YNOY.jpg\/da6_336_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"화공기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054196&cid=42114&categoryId=42114",
+			"description":"② 화학공업의 발전을 위한 제반환경을 조성하기 위해 공학적인 이론을 바탕으로 산업현장에서 <b>직무<\/b>를 수행할 수 있는 전문지식과 실무경력을 갖춘 전문기능인력을 양성하기 위해 화공기술사 자격제도가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716204049381_Y3DN1GFPL.jpg\/da6_610_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"독립신문 1896년 7월 9일(한글 현대문)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2326087&cid=62142&categoryId=62340",
+			"description":"제 <b>직무<\/b>를 할 터인데 만일 군사가 교육이 없으면 백만명이 있어도 교육 있는 군사 천 명에게 지는 이치라 그런 고로 세계 각국에 다니며 보거드면 군사를 가르칠 때에 다만 기예만 가르친 것이 아니라 군사의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3483_000_2\/20141128193941849_R3NN5HZ3F.jpg\/he21_ko_18960709.jpg?type=m160_160"
+		},
+		{
+			"title":"패션머천다이징산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054186&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 패션머천다이징산업기사 ① 패션머천다이징산업기사란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801161148713_7HFE2M3GI.jpg\/da6_600_i3.jpg?type=m160_160"
+		},
+		{
+			"title":"가스기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053946&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 가스기능장 ① 가스기능장이란 가스기능장 시험의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171229844_55V290ABW.jpg\/da6_360_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"풍속화 평생도 08 성곽",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1733605&cid=49295&categoryId=49295",
+			"description":"[평생도 08] • 작품명 : 평생도 08 • 작가 : 작자미상 • 제작연대 : 20세기 • 소장처 : 국립중앙박물관 • 재 료·크 기 : 종이에 채색, 110.2×51.5㎝ 이 그림은 작자미상의 평생도 8폭 병풍 중의 한 폭이다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_9\/20130614110755180_9W0XHQ0PY.jpg\/z2_cp02350365000.jpg?type=m160_160"
+		}
+	]
+}

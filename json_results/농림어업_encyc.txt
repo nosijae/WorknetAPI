@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:46 +0900",
+	"total":934,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>농림어업<\/b>총조사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6179270&cid=43667&categoryId=43667",
+			"description":"조사를 통해 나온 결과는 <b>농림어업<\/b> 정책 및 농산어촌 지역개발계획 수립 및 평가, 각종 학술연구 자료와 표본조사의 모집단과 표본추출틀 등으로 활용된다.  | 외국어 표기 | 農林漁業總調査(한자) Census of... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일본 <b>농림<\/b>수산성",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%BC%EB%B3%B8_%EB%86%8D%EB%A6%BC%EC%88%98%EC%82%B0%EC%84%B1",
+			"description":"설치 근거 및 소관 업무 설치 근거 <b>농림<\/b>수산성설치법 제2조 소관 업무 식료의 안정제공 확보 <b>농림<\/b>수산업의 발전 <b>농림어업<\/b> 종사자의 복지 증진 농산어촌 및 중산간 지역등의 진흥 농업의 다면에 걸친... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>어업<\/b>단순노무자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029732&cid=42117&categoryId=42117",
+			"description":" 숙련 <b>어업<\/b>종사원을 도와서 해저 청소, 사료제공, 해초, 이끼, 어패류 등을 채취한다. [수행직무] 도구를 사용하여 해저를 청소한다. 양식하고 있는 물고기나 연체동물에게 사료를 준다. 해초, 이끼, 조개 및 기타... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>농림<\/b>토양평가관리산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053996&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>농림<\/b>토양평가관리산업기사 ① <b>농림<\/b>토양평가관리산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>농림<\/b>토양평가관리산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ②... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181244455_L4IYM25SF.jpg\/da6_410_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>농림<\/b>수산식품부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1271523&cid=40942&categoryId=39699",
+			"description":"2008년 기존의 <b>농림<\/b>부와 해양수산부의 <b>어업<\/b>·수산업 업무, 보건복지부의 식품산업 업무가 통합되어 출범했다가 2013년 3월 <b>농림<\/b>축산식품부로 개편, 기존의 수산 업무는 해양수산부로 이관되었다.  2008년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서해<b>어업<\/b>관리단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=812853&cid=43133&categoryId=43133",
+			"description":"서해<b>어업<\/b>관리단은 <b>농림<\/b>수산식품부 소속 기관으로 서해상의 안전조업과 해역별 <b>어업<\/b>분쟁 조정, 국가어항 인프라 구축 등을 담당하는 기관이다. 전신은 1966년 설립된 수산청 <b>어업<\/b>지도관실이며 1991년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자<b>어업<\/b>허가증",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EC%9E%90%EC%96%B4%EC%97%85%ED%97%88%EA%B0%80%EC%A6%9D",
+			"description":"전자<b>어업<\/b>허가증 은 <b>농림<\/b>수산식품부가 종이로 발급하는 <b>어업<\/b>허가증이 보관하기 쉽지 않고 훼손이나 위변조 우려가 높아 신용카드 형태의 전자식 카드로 만들어 시범 운영키로 한 <b>어업<\/b>허가증이다. 휴대하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>농림<\/b>수산식품부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6166473&cid=67725&categoryId=67725",
+			"description":"농업, <b>어업<\/b>과 식품 산업 관련 업무를 총괄하는 중앙 행정 기관. 2008년 정부 조직 개편으로 기존의 <b>농림<\/b>부에 해양 수산부의 <b>어업<\/b>, 수산업과 보건 복지부의 식품 산업 진흥 업무를 통합하여 확대 개편되었다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>농림<\/b>축산식품부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=533886&cid=46625&categoryId=46625",
+			"description":"1948년 <b>농림<\/b>부가 신설되었고, 이어 1962년 농촌진흥청, 1966년 수산청·산림청이 신설되었다. 1973년 산림청을 내무부로 이관하고 농수산부로 개편하였다가, 1986년 다시 산림청을 농수산부로 이관하고 <b>농림<\/b>수산... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>어업<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=795199&cid=46631&categoryId=46631",
+			"description":"[개설] <b>어업<\/b>은 크게 두 가지로 그 의미를 나눌 수 있다. 넓은 의미로 사용할 때는 수산업과 동의어로... 여기에서 대상으로 하는 <b>어업<\/b>은 후자, 즉 좁은 의미의 <b>어업<\/b>임은 더 말할 나위가 없다. <b>어업<\/b>은 수계(水界)의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_2\/20190718060630429_J1Z1XQJP0.jpg\/aed72710-3910-4f.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>어업<\/b> (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825042&cid=55772&categoryId=55810",
+			"description":"[정의] 부산광역시의 산업 중 수산 동식물을 포획, 채취하거나 기르는 산업. [개설] 부산광역시는 전국 제1의 수산물 유통·보관 거점 도시로서 국제적인 수산물 유통 체계를 확보하고 있다. 국내 유일의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150717223602254_I2I24IIGC.jpg\/GC042P03915.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>농림<\/b>부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1187592&cid=40942&categoryId=31667",
+			"description":"(수산<b>어업<\/b>정책) 및 보건복지부(식품산업진흥정책)와 통합하면서 <b>농림<\/b>수산식품부로 개편, 2013년 3월 다시 <b>농림<\/b>축산식품부로 재편되었다. 장관(국무위원) 1인과 차관(정무직 국가공무원) 1인이 있고, 장관이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_108\/20181128032620093_CUFV5SXJD.jpg\/83520.jpg?type=m160_160"
+		},
+		{
+			"title":"연안<b>어업<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1126589&cid=40942&categoryId=31882",
+			"description":"이러한 <b>어업<\/b>을 하기 위해서는 어선 또는 어구(漁具)마다 <b>농림<\/b>수산식품부장관의 허가를 받아야 한다. 예전에는 전근대적인 조업방식으로 생산성이 낮았으나 1960년대 이후부터 어선이 동력화·대형화하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>농림<\/b>지역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6408254&cid=42151&categoryId=42151",
+			"description":"등 <b>농림<\/b>업을 진흥시키고 산림을 보전하기 위한 지역.  <b>농림<\/b>지역의 지정 또는 변경은 국토교통부장관... 생산관리지역 용도지역 중 하나인 관리지역의 세분이며 농업 · 임업 · <b>어업<\/b> 생산 등을 위하여 관리가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2428_000_1\/20210409192909872_VSVBPXS8Y.jpg\/bd3_1_156_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>어업<\/b>보상",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6411072&cid=42094&categoryId=42094",
+			"description":"경우, <b>어업<\/b>활동과 관련한 안전사고의 예방 등 <b>농림<\/b>수산식품부령으로 정하는 사유에 해당하는 경우에 면허<b>어업<\/b>의 제한 · 정지 · 어선의 계류 · 출항 · 입항을 제한할 필요가 있다고 인정되면 해당 수면을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>농림<\/b>금융",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1077657&cid=40942&categoryId=31828",
+			"description":" 농업 ·임업 ·<b>어업<\/b> 등의 제1차 산업을 대상으로 하는 자금의 대차 또는 신용의 수수.  그 특징으로는... 제1차 산업은 다른 산업에 비하여 상대적으로 취약성이 크므로, <b>농림<\/b>금융의 특수성은 위험 부담률과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>어업<\/b>인의 날",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%96%B4%EC%97%85%EC%9D%B8%EC%9D%98_%EB%82%A0",
+			"description":"③ 제2항에 따른 <b>어업<\/b>인의 날 기념행사에 필요한 사항은 <b>농림<\/b>수산식품부령으로 정한다. [본조신설 2011.7.25] 행사 내용 <b>어업<\/b>인의 날 행사 <b>어업<\/b>인의 날을 기념하기 위하여 국가와 지방자치단체는 다음 각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동해<b>어업<\/b>관리단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1203818&cid=40942&categoryId=35104",
+			"description":"2008년 2월 <b>농림<\/b>수산식품부로 직제개편되었고 2011년 6월 동해<b>어업<\/b>지도사무소에서 동해<b>어업<\/b>관리단으로 명칭을 변경하였다. 2013년 3월 해양수산부 산하로 직제개편되었다. 국내 수산자원 보호를 위한 인접국... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>농림<\/b>축산식품부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1822207&cid=40942&categoryId=39699",
+			"description":"2013년 3월 박근혜정부 출범과 함께 시행된 정부조직 개편에 따라 재설치된 해양수산부에 수산<b>어업<\/b> 정책 기능 등을 이관하고 <b>농림<\/b>축산식품부로 개편되었다. 주요 업무는 식량의 안정적 공급과 농산물에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서해<b>어업<\/b>관리단",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%9C%ED%95%B4%EC%96%B4%EC%97%85%EA%B4%80%EB%A6%AC%EB%8B%A8",
+			"description":"2008년 2월 29일: <b>농림<\/b>수산식품부 소속으로 변경. 소속기관으로 인천어항사무소 설치. 2011년 6월 15일: 서해<b>어업<\/b>관리단으로 개편. 2013년 3월 23일: 해양수산부 소속으로 변경. 2015년 1월 6일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동해<b>어업<\/b>관리단",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8F%99%ED%95%B4%EC%96%B4%EC%97%85%EA%B4%80%EB%A6%AC%EB%8B%A8",
+			"description":"2008년 2월 29일: <b>농림<\/b>수산식품부 소속으로 변경. 소속기관으로 강릉어항사무소 설치. 2011년 6월 15일: 동해<b>어업<\/b>관리단으로 개편. 2013년 3월 23일: 해양수산부 소속으로 변경. 2014년 3월 11일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국원양<b>어업<\/b>협회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1201050&cid=40942&categoryId=34593",
+			"description":"1964년 2월에 설립하고 6월 <b>농림<\/b>부로부터 사단법인 설립인가를 받았으며, 1968년 11월 수산청으로부터 사단법인 설립인가를 받았다. 부산 지부와 타히티 연락사무소가 설치되어 있고 기획위원회, 재정위원회... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>농림<\/b>축산식품부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=646312&cid=43124&categoryId=43124",
+			"description":"2008년 2월 정부조직법 개정으로 해양수산부의 <b>어업<\/b>‧수산업 업무, 보건복지부의 식품산업 업무를 합쳐 <b>농림<\/b>수산식품부로 개편되었다. 2012년 12월 10일 정부과천청사에서 정부세종청사로 이전하였다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>어업<\/b>기술학회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EC%96%B4%EC%97%85%EA%B8%B0%EC%88%A0%ED%95%99%ED%9A%8C",
+			"description":"기술의 개발 및 보급에 기여할 목적으로 2010년 4월 9일 설립된 대한민국 <b>농림<\/b>수산식품부 소관의 사단법인이다. 사무실은 부산광역시 남구 대연3동 599-1번지에 있다. 외부 링크 한국<b>어업<\/b>기술학회 홈페이지",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>농림<\/b>수산업자신용보증법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225462&cid=40942&categoryId=31706",
+			"description":"원양<b>어업<\/b>자, 농업기계화촉진법에 규정된 농업기계 사후관리 업자, 대통령령이 정한 <b>농림<\/b>수산 단체와 <b>농림<\/b>수산물 유통·가공업자, <b>농림<\/b>수산물 또는 그 가공품을 수출하는 중소기업, <b>농림<\/b>수산업 생산에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"순천시의 <b>농림<\/b>수산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1184587&cid=40942&categoryId=39201",
+			"description":"전제 취업자 중 <b>농림<\/b>수산업에 종사하는 인구 구성비가 약 42.1%로서 따뜻한 기후와 비옥한 농토 그리고 남해를 배경으로 농<b>어업<\/b>이 발달하였다. 주요 농산물은 쌀·쌀보리·맥주보리·콩 등이고, 근래에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_14\/20180802182047189_AR8VSRA6U.jpg\/70248.jpg?type=m160_160"
+		},
+		{
+			"title":"대한민국 <b>농림<\/b>수산식품부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%86%8D%EB%A6%BC%EC%88%98%EC%82%B0%EC%8B%9D%ED%92%88%EB%B6%80",
+			"description":"동·서해<b>어업<\/b>지도사무소를 동·서해<b>어업<\/b>관리단으로 명칭변경, 국립농산물품질관리원의 출장소 명칭을 사무소로 변경 2012년 12월 10일 - 정부과천청사에서 정부세종청사로 이전. 2013년 3월 23일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"노르웨이의 <b>농림<\/b>수산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1176018&cid=40942&categoryId=31870",
+			"description":"국공유림(國公有林)이 대부분이며 <b>어업<\/b>과 더불어 임업을 겸업으로 하는 농가도 많다. 세계 유수의 <b>어업<\/b>국으로 로포텐제도 부근에서 바렌츠해(海)에 이르는 북대서양의 대어장을 끼고 대구·청어·정어리... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_96\/20181126010002000_YNDT1CU71.jpg\/52114.jpg?type=m160_160"
+		},
+		{
+			"title":"경상북도 <b>어업<\/b>기술센터 울릉지소 (울릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2616864&cid=51936&categoryId=54504",
+			"description":"울릉해양수산사무소로 명칭이 변경되었다. 2008년 2월 29일부터는 포항지방해양항만청 울릉해양수산사무소로 명칭이 변경되었다가 같은해 3월 7일 <b>농림<\/b>수산식품부 국립수산과학원 포항수산사",
+			"thumbnail":""
+		},
+		{
+			"title":"이차보조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=8304&cid=43659&categoryId=43659",
+			"description":"금융기관으로 하여금 중소기업, <b>농림어업<\/b> 등 국민경제적으로 보호·육성할 필요가 있는 부문에 대해 낮은 금리로 자금을 지원해 주도록 하고, 금융기관의 손실분에 대해서는 정부가 재정 자금으로 이를 보전해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농업기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926257&cid=42116&categoryId=42116",
+			"description":"[직업설명] 농업기술자는 농업의 발전과 농업인의 복지향상을 도모하기 위하여 농업과학기술의 진흥을 위한 연구·농촌지도 및 농업관련인에 대한 교육훈련 업무를 수행한다.농업생산력의 증진과 농업인의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농<b>어업<\/b>온실가스연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025154&cid=42117&categoryId=42117",
+			"description":" <b>농림어업<\/b>분야 온실가스 배출량 평가, 온실가스 저감을 위한 재배기술개발 및 관련 연구를 한다. [수행직무] 물관리 개선, 가축분뇨 처리향상, 지열활용 등 <b>농림어업<\/b>분야의 온실가스배출 원천저감을 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업구조의 국제 비교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5430&cid=43659&categoryId=43659",
+			"description":"곧, 개발도상국에서는 <b>농림어업<\/b>을 중심으로 하는 제1차 산업의 비중이 크지만, 경제의 성장에 따라 공업을 중심으로 하는 제2차 산업의 역할이 커 간다. 더욱 경제가 발전하면 금융·서비스산업 등의 제3차... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고정자본 형성표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1762&cid=43659&categoryId=43659",
+			"description":"산업을 <b>농림어업<\/b> 음식숙박 공공자본 등 83개 분야로 나누어 각 분야에 일반기계 금속제품 등의 자본재가 얼마만큼 형성되어 있는지를 보여주는 표. 이 표를 이용하면 고정투자에 따른 생산액의 증가나 어떤... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비계열대기업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5176&cid=43659&categoryId=43659",
+			"description":"무역금융에서 중소기업 등에는 ①중소기업기본법 및 동 시행령에서 정 한 중소기업자 ②상시근로자수가 500인 이하인 <b>농림어업<\/b>자 ③중소기업협동조합법에서 정하는 협동조합 또는 사업협동조합으로서 소속... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농사도 첨단기술과 융합된 스마트농법으로 진화중",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3409735&cid=60335&categoryId=60335",
+			"description":"1%로 지속적으로 감소하고 있으며, <b>농림어업<\/b> 종사자 비중도 전체 취업자의 10.6%에서 5.7%로 급격히 줄고 있다.더욱이 국내 총생산 중 <b>농림어업<\/b>이 차지하는 비중도 2000년 4.4%에서 2013년 2.3%로 급락했다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4484_000_1\/20160610140806874_MBZJ5EAGB.jpg\/ca22_1169_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"어촌지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025313&cid=42117&categoryId=42117",
+			"description":" 어민들을 대상으로 <b>어업<\/b>정보 및 기술을 지도·보급하고, 각종 수산 관련 병·재해 예방지도를 한다. [수행직무] 양식저장관리 및 병·재해 예방을 지도한다. 양식기술을 개발한다. 어병예찰진단반을 운영하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"어구어법기술개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025312&cid=42117&categoryId=42117",
+			"description":" 어획량을 높일 수 있는 어구나 어법(漁法:수산동식물의 포획이나 채취에 쓰이는 수단방법)을 개발한다. [수행직무] 특정 어구·어법의 실태를 파악하기 위하여 현지에 출장하여 조사를 한다. 모형어구를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농어촌발전특별조치법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1209628&cid=40942&categoryId=31706",
+			"description":"<b>농림어업<\/b>의 발전을 도모하고 농업인·임업인·<b>어업<\/b>인의 이익을 보호하기 위하여 <b>농림어업<\/b>의 구조를 개선하여 생산성을 향상시키고 농어촌공업을 육성하는 등 농어촌의 소득원을 확충하며 생활환경을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업 구조 (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5785735&cid=64866&categoryId=64890",
+			"description":"[정의] 울산광역시의 전체 산업에서 차지하는 각 산업 간의 구성 비율과 상호 관계. [개설] 1940년 영국의 경제학자 콜린 그랜트 클라크(Colin Grant Clark)는 산업을 제1차 산업, 제2차 산업, 제3차 산업의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농산어촌홍보개발원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%86%8D%EC%82%B0%EC%96%B4%EC%B4%8C%ED%99%8D%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9B%90",
+			"description":"농산어촌홍보개발원 은 농산어촌 <b>농림어업<\/b> 구조개선을 위한 세미나, 심포지움, 포럼회의, 전시 등을 목적으로 2006년 4월 3일 설립된 대한민국 <b>농림<\/b>축산식품부 소관의 사단법인이다. 사무실은 서울특별시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서귀포의 경제·산업 (서귀포)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2657309&cid=51954&categoryId=55442",
+			"description":"[정의] 제주특별자치도 서귀포시에서 이루어지고 있는 재화·용역 및 서비스 등의 생산·분배·소비와 관련된 전반적인 활동 및 영역. [개설] 제주의 경제 산업은 1960년대까지 농업과 관광업에 중점을 둔... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업 구조 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2824369&cid=55772&categoryId=55810",
+			"description":"<b>농림어업<\/b>은 1997년의 1조 8610억 4700만 원을 정점으로 산출액이 감소하고 있다. 1994년을 저점으로 1997년까지 증가한 것은 1994년 2월 22일 공포된 제6차 행정 구역 개편에 의해 기장읍, 장안읍, 철마면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국농촌연구원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EB%86%8D%EC%B4%8C%EC%97%B0%EA%B5%AC%EC%9B%90",
+			"description":"방재기능평가 <b>농림어업<\/b>생산체계 재편에 따른 <b>농림어업<\/b>시설의 재개발과 정비에 관한 조사·연구 각종 연구결과 및 국내외 관련자료의 편집발간 농산어촌개발 장·단기정책에 관한 조사·연구 정부 및 국내외... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전산업생산지수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3434301&cid=58456&categoryId=58456",
+			"description":"단기적인 경제동향을 나타내는 통계지표로는 국내총생산(GDP), 광공업생산지수, 경기종합지수 등 여러 지표가 있다.그러나, 이러한 지표들만으로는 한국 전체 산업의 생산활동 동향을 월간 단위로 한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경제·산업 (제천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2627784&cid=51893&categoryId=53809",
+			"description":"[정의] 충청북도 제천 지역에서 이루어지고 있는 재화·용역의 생산·분배·소비와 관련되는 활동 전반과 영역. [개설] 철도와 도로 교통의 요충지인 제천시는 산업화 과정에서 충청북도 북부 내륙 지방과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150316032800107_8WC6FU15I.jpg\/GC033P1413.jpg?type=m160_160"
+		},
+		{
+			"title":"전산업생산지수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6461050&cid=58453&categoryId=58453",
+			"description":"[정의] 우리나라 경제 전체의 모든 산업을 대상으로 국내에서 생산한 재화와 용역에 대한 생산활동 동향을 월별, 분기별, 연간으로 집계하여 단일지수로 나타낸 것 [해설] 단기적인 경제동향을 나타내는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동남 지방 통계청 진주 사무소 거창 분소 (거창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4347606&cid=59782&categoryId=59807",
+			"description":"[설립 목적] 동남 지방 통계청 거창 분소는 거창군, 함양군, 산청군 지역에 경제 활동 인구, 농가 경제 조사 등 월간 통계 조사를 비롯, 연간 조사인 지역별 고용 조사, <b>농림어업<\/b> 조사 등 각종 통계 현장 조사를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제 표준 직업 분류",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EC%A0%9C_%ED%91%9C%EC%A4%80_%EC%A7%81%EC%97%85_%EB%B6%84%EB%A5%98",
+			"description":"ISCO-08 구조 ISCO-08은 직업을 10개의 대분류로 나눈다: 관리직 전문직 기사·준 전문직 사무 보조원 서비스·판매 종사자 전문 <b>농림어업<\/b> 종사자 기능공·관련직 종사자 설비·기계의 운전·조립공... ",
+			"thumbnail":""
+		},
+		{
+			"title":"우즈베키스탄 산업구조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1176233&cid=40942&categoryId=31906",
+			"description":"2020년 우즈베키스탄의 생산규모를 기준으로, 산업별 비중은 일반산업인 광공업과 제조업이 40.2%, <b>농림어업<\/b> 28.6%, 서비스산업 24.0%, 건설업 7.2%로 나타났다. 일반산업 중 제조업을 세부적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시카 정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1319200&cid=40942&categoryId=39984",
+			"description":"[富来町]이 합병하여 새로운 시카정[志賀町]이 탄생하였다. 산업은 <b>농림어업<\/b>, 공업, 상업, 관광업 등이 이루어지고 있다. 오래전부터 <b>농림어업<\/b>을 기간산업으로 발전하였으나 해마다 감소하는 추세이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"해남의 경제·산업 (해남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5933888&cid=66793&categoryId=66815",
+			"description":"[정의] 전라남도 해남군 지역에서 이루어지고 있는 재화·용역의 생산·분배·소비와 관련된 활동과 영역. [지역경제의 특성] 해남군의 경제권은 광주광역시와 전라남도에 포함되며, 영암방조제 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부여군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182163&cid=40942&categoryId=31868",
+			"description":"<b>농림어업<\/b> 취업자가 전체 취업자의 절반에 가까울 만큼 1차산업 의존도가 높다. 2017년을 기준하여 사업체 수는 총 4940개로 충청남도 전체 사업체의 약 3%에 해당하여 도내 15개 시·군 가운데 계룡시... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_367\/20200917063803198_WV3TSKTPX.jpg\/11452142.jpg?type=m160_160"
+		},
+		{
+			"title":"멕시코의 주요 산업별 동향 및 전망",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5795991&cid=43970&categoryId=43972",
+			"description":"[산업별 성장률(2018년)] || 구분 || 2018년 || || 1Q || 2Q || 3Q || 4Q || | 전체 | 1.2 | 2.6 | 2.5 | 1.7 | | 1.<b>농림어업<\/b> | 3.1 | 1.5 | 2.2 | 3.0 | | 2.산업 | 총계 | -0.9 | 1.3 | 1.1 | -0.9 | | 광업 | -5.6 | -5.9... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업화 (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5785738&cid=64866&categoryId=64890",
+			"description":"[개설] 산업화는 국가 경제의 부가 가치 생산과 취업 인구에서 2차 산업[광공업]의 비중이 1차 산업[<b>농림어업<\/b>]의 비중을 추월하는 산업 구조의 변동 과정을 의미한다. 좁은 의미의 산업화는 공업화와 같은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농<b>어업<\/b>통계 부문",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3434350&cid=58456&categoryId=58456",
+			"description":"통계청은 5년에 한번 <b>농림어업<\/b>총조사와 매년 농업조사, 농가경제조사 등 여러 연간조사를, 반기별로 어류양식동향조사 그리고 매월 <b>어업<\/b>생산동향조사 등 농<b>어업<\/b> 관련 조사를 하며 여러 농<b>어업<\/b> 통계를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철원의 경제·산업 (철원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6082839&cid=67394&categoryId=67415",
+			"description":"강원도 철원군은 지역의 인문지리적, 자연지리적 특성에 기반하여 공공행정, 국방 및 사회보장 행정과 <b>농림어업<\/b>을 대표적인 산업이자 주된 경제활동 분야로 꼽을 수 있다. 강원도 철원군은 지역의 미래... ",
+			"thumbnail":""
+		},
+		{
+			"title":"햇살론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1352673&cid=40942&categoryId=31825",
+			"description":"대출 대상은 신용등급 무등급자와 6~10등급인 자 또는 연소득 3,000만 원 이하인 자로서 <b>농림어업<\/b>인, 무등록·무점포 자영업자, 근로자이다. 기초생활수급자와 차상위계층도 포함된다. 단 신용관리정보... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산지전용신고",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6412894&cid=42094&categoryId=42094",
+			"description":"설치, <b>농림어업<\/b>인의 주택시설과 그 부대시설의 설치, 건축허가나 신고대상의 <b>농림<\/b>수산물의 창고 · 집하장 · 가공시설, 농기계수리시설 및 농기계 창고, 누에사육시설의 설치. 국유림 산지는 산림청장에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=523141&cid=46634&categoryId=46634",
+			"description":" 어느 한쪽이 상대방이 원하는 특정한 활동을 해주고 상대방이 이에 대하여 보수를 지급하는 사회적 관계. [개요] 전근대사회에서도 고용은 존재하였지만, 그 사회가 세습적 신분제도에 기초하였기 때문에 근대... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20161005083242600_9445ETNG7.jpg\/3b3db0a8-8891-4d.jpg?type=m160_160"
+		},
+		{
+			"title":"광주상공회의소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=645439&cid=43126&categoryId=43126",
+			"description":" 광주 지역의 상공인들을 대표하는 단체.  광주상공회의소는 광주광역시 및 광주와 인접한 전라남도 일부 지역의 상공인들을 대표하는 단체이다. 상공인들의 이익을 대변해 정부와 지방자치단체에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"행정원 농업위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%96%89%EC%A0%95%EC%9B%90_%EB%86%8D%EC%97%85%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"주요 업무는 전국의 <b>농림어업<\/b>, 목축업과 식량행정업무와 지방정부가 집행하는 농업관련 사무에 대한 지시, 감독의 책임을 보유한다. 그리고 농업관련 공공사업을 관리한다. 역사 농업위원회의 기원은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"빈딘성",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B9%88%EB%94%98%EC%84%B1",
+			"description":"2009년 현재 <b>어업<\/b> 취업자는 61,900명으로 <b>농림어업<\/b> 481,200명보다 많았다. 볼거리 참족들이 세운 수많은 탑들이 남아 빈딘의 중요한 관광 자원이 되고 있다. 떠이썬 현은 떠이선 왕조(西山朝, Tây Sơn)가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고성군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182002&cid=40942&categoryId=31810",
+			"description":"산업구조는 접경지역의 특성에 기인한 국방 관련 서비스업 등 3차산업의 비중이 가장 크고, 전통적으로 주민들의 생활 기반이 되어 온 <b>농림어업<\/b>도 주요 산업으로 자리잡고 있다. 2016년을 기준하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1108593&cid=40942&categoryId=31868",
+			"description":"즉 <b>농림어업<\/b>·광업·제조업·건설업·공익사업·운수통신업·유통업·금융업·보험업·부동산업 기타 모든 서비스업을 포함한다. 한편 이와 같은 모든 종류의 생산업을 분류하여 <b>농림어업<\/b> 부문에 속하는 업종의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"태안군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182194&cid=40942&categoryId=37404",
+			"description":"산업구조는 서비스업을 중심으로 하는 3차산업과 농업·수산업 등 1차산업의 비중이 높고, 2차산업의 비중은 낮다. 2017년을 기준하여 사업체 수는 6050여 개로 충청남도 전체 사업체 수의 3.6%에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_368\/20201105083257200_IFQLE2LEM.jpg\/11334504.jpg?type=m160_160"
+		},
+		{
+			"title":"자연 휴양촌",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6046089&cid=67350&categoryId=67350",
+			"description":"[도시 및 단지] 농 · 산 · 어촌의 자연 환경이나 <b>농림어업<\/b>에 친숙해질 수 있도록 조성하는 휴양, 체험, 명상의 복합 관광시설 또는 그 지역 참고 : 건축학용어사전, 세화",
+			"thumbnail":""
+		},
+		{
+			"title":"농어촌휴양단지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5821627&cid=65669&categoryId=65669",
+			"description":"농어촌의 쾌적한 자연환경과 농어촌 특산물 등을 활용하여 <b>농림어업<\/b>전시관, 학습관, 지역특산물판매, 체육, 휴양시설 등을 갖추고 이를 이용하게 하거나 숙박시설(취사시설을 갖춘 농원여관업 포함), 음식 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"차관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=562433&cid=46630&categoryId=46630",
+			"description":" 다른 나라 공용기관이나 민간으로부터 자금 또는 상품을 꾸어들이는 일을 가리키는 경제용어. [내용] 좁은 의미로는 외국의 공공기관 또는 민간기업으로부터 3년 이상의 장기차입을 말한다. 일반적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"홍성군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182197&cid=40942&categoryId=37404",
+			"description":"5%에 해당하여 도내 9번째 비중을 차지한다. GRDP의 산업별 비중은 공공행정·국방 및 사회보장행정업(21.6%), 제조업(14.9%), <b>농림어업<\/b>(13.1%), 건설업(8.2%) 등의 순이다. 상업 활동은 예로부터",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_367\/20200924063328305_EBLIU0EXA.jpg\/10051130.jpg?type=m160_160"
+		},
+		{
+			"title":"농가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6461009&cid=58453&categoryId=58453",
+			"description":"[해설] <b>농림어업<\/b>총조사에서는 다음 중 하나에 해당하는 경우를 농가로 본다. (1) 조사기준일 현재 논,밭 등 경지 1,000m2(10a)이상을 직접 경작하는 가구 (2) 연간 농축산물의 판매 또는 평가액이 120만원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서천군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182171&cid=40942&categoryId=37404",
+			"description":"지역내 총생산(GRDP)은 2016년을 기준하여 2조 380억 원으로 충청남도 전체 GRDP의 1.7%에 해당하며, 산업별 비중은 제조업(24%), 사업서비스업(12.4%), 공공행정·국방 및 사회보장행정(11%), <b>농림어업<\/b>(9%), 전기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_367\/20200917063702747_XQBG29IG4.jpg\/9838073.jpg?type=m160_160"
+		},
+		{
+			"title":"양양군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182032&cid=40942&categoryId=31868",
+			"description":"2016년을 기준하여 <b>농림어업<\/b> 등 1차산업에 종사하는 인구는 전체의 7.8%에 불과하며, 광업·제조업·건설업 등 2차산업 종사자가 21%, 숙박·음식점·도소매업을 비롯한 3차산업 종사자가 71.2%를 차지한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6412927&cid=42094&categoryId=42094",
+			"description":"말하거나(농<b>어업<\/b>재해대책법), 가구주(家口主) 또는 동거 가구원(家口員)이 생계유지를 목적으로 농업(농작물 재배 및 가축 사육을 말함)을 직접 경영하는 가구를 말한다. <b>농림어업<\/b>총조사규칙 참조.",
+			"thumbnail":""
+		},
+		{
+			"title":"보령시의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182160&cid=40942&categoryId=31898",
+			"description":"산업구조는 <b>농림어업<\/b>의 비중이 크지만 지속적으로 감소하는 추세이며, 도소매업과 운수업을 비롯한 서비스업의 비중은 증가하고 있다. 사업체 수는 2017년을 기준하여 총 8739개로 충청남도 전체... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_366\/20200806065122842_6KOKB9WN8.jpg\/11428242.jpg?type=m160_160"
+		},
+		{
+			"title":"선택고용세",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112121&cid=40942&categoryId=31837",
+			"description":"고용주로부터 사용인 한 사람에 대한 주당 일정액의 고용세를 징수한 후, ① 제조업자에게는 30%의 프리미엄을 붙여 되돌려주고, ② <b>농림어업<\/b>, 운수통신업, 국가 ·지방공공단체 등에는 그대로 되돌려주며, ③... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경상북도의 산업구조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1181450&cid=40942&categoryId=37713",
+			"description":"산업별 취업자를 보면 <b>농림어업<\/b>이 29.6%, 광공업이 16.7%, 제조업이 16.5%, 서비스업 53.7% 등을 차지한다. 1970년대에는 1차산업의 비중이 높았던 데 비하여 1990년대 이후의 산업구조는 많이 변화되었다고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"단양군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182104&cid=40942&categoryId=37154",
+			"description":"산업구조는 3차산업에 해당하는 사회간접자본 및 기타 서비스업의 비중이 가장 크고, 시멘트 공업을 중심으로 한 제조업의 비중도 크며, 농업의 비중은 갈수록 줄어드는 추세이다. 2017년을 기준하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_363\/20200430063651197_R3X5I1L87.jpg\/11205584.jpg?type=m160_160"
+		},
+		{
+			"title":"농어촌관광",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5821630&cid=65669&categoryId=65669",
+			"description":"농어촌의 쾌적한 자연환경과 농어촌특산물 등을 활용하여 <b>농림어업<\/b> 전시관, 자연학습관, 지역특산물 판매, 체육휴양시설 등을 갖추고 이를 이용하거나 숙박, 음식 등을 제공하는 관광활동이다. 관광학적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양평군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1181943&cid=40942&categoryId=31868",
+			"description":"경제활동별 부가가치의 비중은 공공행정·국방 및 사회보장 서비스업(3082억 원)이 17.9%로 가장 크고, 이밖에 부동산업(14.4%), 보건업·사회복지 서비스업(10.9%), <b>농림어업<\/b>(7.7%), 교육서비스업(7.4%) 등의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_381\/20210805093534673_L71HM07O9.jpg\/9784592.jpg?type=m160_160"
+		},
+		{
+			"title":"이천시의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1181971&cid=40942&categoryId=31868",
+			"description":"9%), <b>농림어업<\/b>(3.8%), 운수·창고업(3.5%), 부동산업(3.3%), 공공행정·국방 및 사회보장 서비스업(3.1%), 도소매업(2.6%), 교육서비스업(2.3%), 보건업·사회복지 서비스업(1.6%) 등의 순이다. 2017년을 기준하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_378\/20210708104707800_AIWY8Y5ID.jpg\/9502800.jpg?type=m160_160"
+		},
+		{
+			"title":"수산업 (해남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5933887&cid=66793&categoryId=66818",
+			"description":"<b>농림어업<\/b>이 어려운 상황에서도 어가 및 <b>어업<\/b> 인구의 증가는 과학기술의 발달로 해수면 <b>어업<\/b>이 크게 증가하고 있으며, 소득이 농업에 비해서 월등하게 높기 때문이다. [해양 수산세력] 어항은 연안항 1개... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장기결석아동",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=472256&cid=42120&categoryId=42120",
+			"description":"과거에는 <b>농림어업<\/b> 종사에 따른 연소노동이 원인이었으나 최근에는 비행(반사회적 행위), 가정 내 폭력, 등교거부(비사회적 행위) 등이라는 경향으로 장기결석 사유가 변화해오고 있다. 이들 배경을 분석해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"옹진군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1181867&cid=40942&categoryId=31868",
+			"description":"산업구조의 비중은 서비스업을 기반으로 하는 3차산업이 가장 크고, 전통적으로 섬 주민들의 생업의 기반이 되어 온 수산업의 비중도 크다. 지역내 총생산(GRDP)은 2018년을 기준하여 6944억 원으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공작물 설치",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1826973&cid=42154&categoryId=42154",
+			"description":"인공을 가하여 제작한 시설물( 「건축법」에 따른 건축물은 제외)을 설치하는 것을 말한다. 「국토의 계획 및 이용에 관한 법률」에서는 인공을 가하여 제작한 시설물( 「건축법」에 따른 건축물은 제외)을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2469_000_1\/20190523114735102_9LJHRY93F.jpg\/ga5_64_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"철원의 인문 지리 (철원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6082830&cid=67394&categoryId=67415",
+			"description":"[정의] 강원도 철원군에 분포하고 있는 인문지리적 요소. [개설] 강원도 철원군은 한반도의 중앙부에 자리 잡고 있는 대한민국의 기초지방자치단체이다. 강원도 철원군의 행정구역은 2018년 기준 4읍 7면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기장군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6598207&cid=40942&categoryId=31868",
+			"description":"제조업과 고리원자력발전소를 기반으로 하는 전기·가스·증기 및 공기조절 공급업, 건설업 등 2차산업의 비중이 크다. 지역내 총생산(GRDP)은 2018년을 기준하여 5조 4371억 원으로 부산시 전체 GRDP의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_391\/20220324072756081_CCLRHR0O6.jpg\/10305732.jpg?type=m160_160"
+		},
+		{
+			"title":"산지전용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1827178&cid=42154&categoryId=42154",
+			"description":"① 산림경영, 산촌개발, 임업시험연구 및 수목원 · 산림생태원 · 자연휴양림 조성을 위한 영구시설과 그 부대시설의 설치 ② <b>농림어업<\/b>인의 주택시설과 그 부대시설의 설치 ③ 건축허가 또는 건축신고 대상이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2469_000_1\/20190523115003684_5QFVRCXBD.jpg\/ga5_269_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"직업 (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2610079&cid=51950&categoryId=55234",
+			"description":"전라남도 여수 지역은 전통적으로 농업, <b>어업<\/b>, 수산업 등 1차 산업 종사자의 비율이 높았으나 1968년 여수국가산업단지의 조성과 더불어 제조업체들이 입주하기 시작하면서가 2차 산업인 공업에 종사하는 인구의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"충청북도의 농축산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1181369&cid=40942&categoryId=37154",
+			"description":"산업구조는 제조업의 비중이 가장 크고, <b>농림어업<\/b>과 광업의 비중은 줄어드는 반면에 정보통신과 금융 및 보험, 보건 및 사회복지 서비스 관련 산업이 증가하는 추세이다. 2017년 기준 지역내... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_54\/20181015193423530_2B60PVD2V.jpg\/86932.jpg?type=m160_160"
+		},
+		{
+			"title":"수입유발계수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=929982&cid=43667&categoryId=43667",
+			"description":"일반적으로 원자재의 수입의존도가 높은 석유 및 석탄 제품 같은 기초소재 업종 산업의 수입유발계수가 높으며, <b>농림어업<\/b> 및 서비스산업은 수입유발계수가 낮다. 한편 수입유발계수는 그 형태에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고노세쿄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1341454&cid=40942&categoryId=39961",
+			"description":"주변에 야리도협곡[槍戸峡谷], 이시다테산[石立山], 베후협곡[べふ峡], 베후쿄온천[べふ峡温泉], <b>농림어업<\/b>체험실습장[農林漁業体験実習場] 등의 관광지가 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"선별적 금융 정책",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=943611&cid=47332&categoryId=47332",
+			"description":"최근에도 <b>농림 어업<\/b>, 중소기업 등 취약 부문에 예외적으로 지원하고 있다. 그러나 부동산, 향락산업, 소비자 금융 등의 부문에 대해서는 대출을 억제하고 있다. 금융 및 자본 시장이 개방화 · 국제화되고 있는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연천군의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1181951&cid=40942&categoryId=31868",
+			"description":"경제활동별 부가가치의 비중은 공공행정·국방 및 사회보장 서비스업(6011억 원)이 46.1%로 가장 크고, 이밖에 제조업(11.6%), <b>농림어업<\/b>(7.8%), 건설업(6.2%), 보건업·사회복지 서비스업(5.5%) 등의 순이다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_381\/20210805092401856_DMJRWF433.jpg\/7197002.jpg?type=m160_160"
+		},
+		{
+			"title":"넙도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1076183&cid=40942&categoryId=39201",
+			"description":" 전라남도 완도군 노화읍에 딸린 섬.  면적 4.1㎢, 인구 1,140명(2001)이다. 노화도 서쪽 2.8㎞ 떨어진 해상에 있다. 고려, 조선시대 이르는 동안 영암군에 속하였으며 1870년에는 삼도진(노화도·보길도·넙도)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_27\/20180918224411758_JAQBKBCIV.jpg\/4762580.jpg?type=m160_160"
+		},
+		{
+			"title":"서산시의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182167&cid=40942&categoryId=37404",
+			"description":"산업구조의 비중은 3차산업, 2차산업, 1차산업의 순이다. 1980년 이후 대산지구와 농공단지들에 석유정제를 비롯한 각종 제조업과 건설업체 등이 들어서면서 농수산업 등 1차산업 중심에서 도시형... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_365\/20200702061744704_V025UKN7K.jpg\/10376324.jpg?type=m160_160"
+		},
+		{
+			"title":"당진시의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182156&cid=40942&categoryId=37404",
+			"description":"1990년대까지 전통적 농어촌 지역이었으나, 2000년대에 들어 서해대교와 서해안고속도로 개통 등으로 교통이 편리해지면서 공업 중심으로 변모하였다. 2016년을 기준하여 사업체는 총 1만 2279개로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_7\/20180607182600471_R5H0V49F1.jpg\/71837.jpg?type=m160_160"
+		},
+		{
+			"title":"여주시의 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1181947&cid=40942&categoryId=31868",
+			"description":"경제활동별 부가가치의 비중은 제조업(7892억 원)이 24.4%로 가장 크고, 그밖에 부동산업(12.3%), 도소매업(8.7%), <b>농림어업<\/b>(7.0%), 공공행정·국방 및 사회보장 서비스업(7.0%) 등의 순이다. 2017년을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_109\/20181130025313059_GGAWHBG84.jpg\/5385366.jpg?type=m160_160"
+		},
+		{
+			"title":"햇살론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=930828&cid=43667&categoryId=43667",
+			"description":"신용등급이 6∼10등급인 저신용층이나 연소득 4000만 원 미만의 6등급 이하 또는 연소득 3000만 원 이하의 자영업자ㆍ<b>농림어업<\/b>인 및 근로자가 연 8.4~10% 대(2014년 기준)의 낮은 금리로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동행종합지수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1199640&cid=40942&categoryId=31816",
+			"description":" 경기종합지수를 구성하는 지수 중 하나로, 현재 경기상황의 판단에 이용된다.  경기동행지수라고도 부른다. 실제 경기순환과 함께 변동하는 개별지표들을 바탕으로 만든 지수로, 현재 경기상황의 판단에... ",
+			"thumbnail":""
+		}
+	]
+}

@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:54 +0900",
+	"total":410,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"해외<b>여행<\/b>안내원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953486&cid=42117&categoryId=42117",
+			"description":" 해외<b>여행<\/b>을 하는 내국인 관광객을 대상으로 관광지의 문화, 역사 등을 안내하고, 해외<b>여행<\/b>에 필요한 각종 서비스를 제공한다. [수행<b>직무<\/b>] <b>여행<\/b>일정표에 따라 국내 관광객을 해외로 인솔하여 방문 관광지의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>여행<\/b>안내원(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664977&cid=42117&categoryId=42117",
+			"description":" 개인 또는 단체의 <b>여행<\/b>을 계획·조직하고 안내한다. [수행<b>직무<\/b>] <b>여행<\/b> 출발 전에 관광객의 신상 및 <b>여행<\/b> 목적 등을 파악한다. <b>여행<\/b> 방문지에 대한 정보를 수집하고 숙박시설, 교통편 등의 모든 사항을 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>여행<\/b>작가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025595&cid=42117&categoryId=42117",
+			"description":" 국내외 <b>여행<\/b> 및 <b>여행<\/b>지에 관한 글과 사진으로 책을 엮거나 <b>여행<\/b>에 관한 글을 기고한다. [수행<b>직무<\/b>] 국내외 <b>여행<\/b>지의 다양한 콘텐츠를 소개한다. 정보 소개 목적의 가이드북의 경우 출판사와 취재 계획을 세운다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국내<b>여행<\/b>MD",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026158&cid=42117&categoryId=42117",
+			"description":" 국내 관광상품을 기획 및 개발하며, 고객에게 상품 추천 업무를 수행한다. [수행<b>직무<\/b>] 새로운 <b>여행<\/b>지 개발을 위해 정보를 수집한다. 수집된 정보를 토대로 개발가능성과 시장성 등을 판단하여 <b>여행<\/b>상품 개발... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지역별<b>여행<\/b>상품운영원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832711&cid=42117&categoryId=42117",
+			"description":" <b>여행<\/b>지의 관광시설 등을 예약하는 일을 한다. [수행<b>직무<\/b>] <b>여행<\/b>지의 <b>여행<\/b>사에 소속되어 국내의 <b>여행<\/b>사로부터 현지의 <b>여행<\/b>지 예약을 의뢰받으면 <b>여행<\/b>상품의 구성요소 중 항공권을 제외한 숙박, 교통, 음식 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>여행<\/b>컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026161&cid=42117&categoryId=42117",
+			"description":" 고객의 요구사항을 듣고 맞춤형 자유<b>여행<\/b>을 컨설팅하고 기획한다. [수행<b>직무<\/b>] 패키지<b>여행<\/b>이 아닌 자유<b>여행<\/b>을 가고자 하는 고객의 맞춤형 <b>여행<\/b>을 기획한다. 고객과 상담을 통해 <b>여행<\/b> 목적과 평소의 생활습관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해외<b>여행<\/b>MD",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832712&cid=42117&categoryId=42117",
+			"description":" 해외<b>여행<\/b>상품을 기획 및 개발하고, 고객에게 상품 추천 업무를 수행한다. [수행<b>직무<\/b>] 새로운 해외 <b>여행<\/b>지 개발을 위해 인터넷이나 <b>여행<\/b> 동호회, 현지 <b>여행<\/b>사, 직접 방문 등을 통해 정보를 수집한다. 수집된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국내<b>여행<\/b>안내원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026164&cid=42117&categoryId=42117",
+			"description":" 국내 <b>여행<\/b>을 하는 관광객들을 대상으로 명승지나 고적지를 안내 및 소개하고 <b>여행<\/b>에 필요한 각종 서비스를 제공한다. [수행<b>직무<\/b>] 관광객에게 <b>여행<\/b>경로, 일정 등 관광에 필요한 전반적인 안내를 한다. 역사적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>여행<\/b>콜센터상담원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953617&cid=42117&categoryId=42117",
+			"description":" <b>여행<\/b>사 콜센터에서 고객에게 <b>여행<\/b>상품을 상담, 판매 또는 판매를 확정한다. [수행<b>직무<\/b>] 고객의 <b>여행<\/b> 관련 질문에 대해 상담하며, 상품별 비용 등 각종 자료를 제시한다. 상담한 내용을 바탕으로 기존 패키지 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>여행<\/b>사대리점영업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026162&cid=42117&categoryId=42117",
+			"description":" <b>여행<\/b>사 대리점에게 영업 목표를 부여, 관리하며, 고객 마케팅을 통해 대리점을 지원한다. [수행<b>직무<\/b>] 기존 그리고 신규 <b>여행<\/b> 관련 유통 채널에 대한 인사이트(종합적 통찰력)를 가지고 대리점의 고객 판매... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>여행<\/b>상품상담원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953616&cid=42117&categoryId=42117",
+			"description":" 고객에게 <b>여행<\/b>상품을 추천 및 판매하고, <b>여행<\/b>일정을 계획한다. [수행<b>직무<\/b>] 고객의 요구에 맞는 <b>여행<\/b>상품을 추천하고, 상품별 비용 등 각종 자료를 제시한다. 숙박시설 예약, 교통편 예약 등 <b>여행<\/b>에 따르는 대행... ",
+			"thumbnail":""
+		},
+		{
+			"title":"럭셔리<b>여행<\/b>개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026160&cid=42117&categoryId=42117",
+			"description":" 해외 바이어 등 소수의 고객을 대상으로 고급스러운 <b>여행<\/b>을 제안하고 안내한다. [수행<b>직무<\/b>] 기업체의 외국인 바이어, 외국인 VIP 고객 등을 대상으로 기획된 <b>여행<\/b>지를 안내하고 한국의 문화콘텐츠를 소개한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"철도<b>여행<\/b>상품개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832713&cid=42117&categoryId=42117",
+			"description":" 철도와 관련된 <b>여행<\/b>상품을 개발·홍보하고 여객을 유치한다. [수행<b>직무<\/b>] 철도여객을 유치하기 위해 시장조사를 통해 영업전략을 수립한다. 연계 가능한 <b>여행<\/b>사와 협력하여 철도 관련 <b>여행<\/b>상품을 개발한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>여행<\/b>제휴사영업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953618&cid=42117&categoryId=42117",
+			"description":" <b>여행<\/b> 관련 제휴사(홈쇼핑, 카드사, 인터넷 쇼핑몰 등)의 확대를 통해 <b>여행<\/b>상품 판매 실적 증대 관련 영업을 수행한다. [수행<b>직무<\/b>] 시장상황, 고객 반응을 고려한 상품가 책정, 타사 대비 경쟁력 있는 상품 조달을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>여행<\/b>영업기획관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953615&cid=42117&categoryId=42117",
+			"description":" 전사 <b>여행<\/b>상품 매출 확대를 위해 대리점, 제휴, 직판 영업을 기획하고 관리한다. [수행<b>직무<\/b>] 영업 실적 데이터를 취합하여 보고서를 작성하며, 영업정책 보고서 및 기획서를 작성한다. 영업 환경 파악을 통해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사서와 함께 하는 독서<b>여행<\/b> (구로)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2584870&cid=51879&categoryId=53239",
+			"description":"[행사내용] 남산도서관에서 주관한 ‘독서 치료 <b>직무<\/b> 연수, 독서 치료 워크숍, 독서 치료 체험 교실 워크숍’ 등을 교육 이수한 담당 사서가 ‘사서와 함께 하는 독서<b>여행<\/b>’ 프로그램을 운영하게 되었다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대통령 권한 대행자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=67241&cid=43667&categoryId=43667",
+			"description":"대통령이 ▲사망, 탄핵결정에 의한 파면, 피선자격의 상실, 사임 등으로 대통령직을 수행할 수 없게 된 경우나 ▲대통령이 재임하면서도 신병, 해외<b>여행<\/b> 등으로 <b>직무<\/b>를 수행할 수 없는 경우 ▲탄핵결정이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관광통역안내원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026163&cid=42117&categoryId=42117",
+			"description":" 국내를 <b>여행<\/b>하는 외국인 관광객 또는 국외를 <b>여행<\/b>하는 내국인 관광객을 대상으로 관광지 등을 안내하고 <b>여행<\/b>에 필요한 정보와 서비스를 제공한다. [수행<b>직무<\/b>] <b>여행<\/b> 출발 전에 목적지 및 일정에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미국 관용 북대서양조약기구 직원 비자 \/ NATO 비자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6178928&cid=67745&categoryId=67746",
+			"description":"|| 비자 기호 || 구분, <b>여행<\/b>의 목적 || 근거 법령 || | NATO 1 | NATO 회원국(그 종속 기관의 회원국 포함)의 주 미 영주 거주 대표, 거주 공무 수행인, 사무총장, 부 사무총장 등 비슷한 계급의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5932_000_1\/20201210052841018_INKA0U2EC.jpg\/gb277_34_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"권한대행",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1068323&cid=40942&categoryId=31721",
+			"description":"사고라 함은 대통령이 재임하면서도 신병(身病)이나 장기간의 해외<b>여행<\/b> 등으로 <b>직무<\/b>를 수행할 수 없는 경우, 국회가 탄핵소추를 의결함으로써 탄핵결정이 있을 때까지 권한행사가 정지된 경우 등을 말한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미국 관용 외교관 비자 \/ A-1 비자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6178884&cid=67745&categoryId=67746",
+			"description":"일반적으로, 외교관 및 중앙공무원이 필요한 비자 종류는 미국 <b>여행<\/b> 목적에 따라 달라진다. 미국... 이용하여 <b>여행<\/b>할 수 없다. 반면, 정부의 공무를 수행하는 것이 아닌 상업적인 목적, <b>여행<\/b> 등의 목적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5932_000_1\/20201207123250097_7GAPC0DF2.jpg\/gb277_21_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"미국 관용 국제기구 직원 비자 \/ G 비자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6178931&cid=67745&categoryId=67746",
+			"description":" 미국 G 관용 국제기구 직원 비자는 미국에 있는 국제기관에서 근무하는 외교관, 정부 관료와 직원 혹은 그 직계 가족에게 발급되는 비자이다. [미국 G비자 정의\/개요] 미국에 있는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5932_000_1\/20201207123315481_DMLMVX78A.jpg\/gb277_33_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"프란츠 리스트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=351960&cid=51045&categoryId=51045",
+			"description":"[연주 <b>여행<\/b>의 시작] 1823년 아버지와 함께 파리에 가서 음악원 입학을 지망했으나 외국인이라는 이유로 거부되고, 결국 작곡만을 개인 교수에 의해 배우게 되었다. 한편, 이듬해의 런던 <b>여행<\/b>을 시발로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2593_000_1\/20140618220037706_U2B8SCBR9.jpg\/liszt.jpg?type=m160_160"
+		},
+		{
+			"title":"농촌관광플래너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026159&cid=42117&categoryId=42117",
+			"description":" 농촌의 자연, 사회·문화, 그리고 인적 자원을 활용하여 농촌체험 및 농촌<b>여행<\/b> 상품을 기획, 개발하고 안내하며 체험시설 등을 운영한다. [수행<b>직무<\/b>] 농촌체험 및 <b>여행<\/b>상품에 대한 시장조사와 상품성 검토... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고려시대 (울진)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2617688&cid=51937&categoryId=54551",
+			"description":"[정의] 918년에서 1392년까지 고려왕조가 지속되었던 시기의 경상북도 울진군의 역사. [개설] 현재의 울진 지역은 고려시대에 들면서 남쪽의 평해와 북쪽의 울진이 구분되어 읍격의 변화를 보인다. 남쪽의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도시민박운영자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024499&cid=42117&categoryId=42117",
+			"description":" 관광객 대상의 민박사업을 기획하거나 직접 민박을 운영한다. [수행<b>직무<\/b>] 도시지역에 거주하고 있는 주택을 이용하여 외국인 관광객에게 한국의 가정문화를 체험할 수 있도록 숙식 등을 제공한다. 한국문화와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공항보안검색원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026080&cid=42117&categoryId=42117",
+			"description":" 비행 중의 사고를 방지하기 위해 출국하는 <b>여행<\/b>객의 가방 및 소지품을 검색한다. [수행<b>직무<\/b>] 공항의 출국장에서 소지하고 있는 가방이나 물품을 검색대에 올려놓도록 <b>여행<\/b>객에게 요청한다. 엑스레이(X-ray)를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"외환매매사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953630&cid=42117&categoryId=42117",
+			"description":" 외국통화를 매입 또는 매도하고, 해외에 있는 은행이 당행을 지급은행으로 지정하여 국내에 있는 수취인에게 보내오는 송금을 지급하며, 외화수표 매입(추심), <b>여행<\/b>자수표 판매, 외국통화의 보유한도 내에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철도역무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024827&cid=42117&categoryId=42117",
+			"description":"국내외 <b>여행<\/b>상품 판촉 및 안내, <b>여행<\/b>상품 판매시스템을 활용 판매 및 실적 점검, 단체고객 유치 및 고객 DB관리, 대외기관 방문홍보 및 <b>여행<\/b>업계와 교류 등의 업무를 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"수출입화물검수운영사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024799&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 본선작업(선박을 접안시킨 상태에서 선박으로부터 직접 화물을 내리거나 선박에 싣는 작업) 전에 선박회사로부터 모선별 작업계획 및 관계서류를 입수하여 검토한 후 검수관리사무원(<b>여행<\/b>알선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공항세관원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024674&cid=42117&categoryId=42117",
+			"description":"사전에 항공사로부터 <b>여행<\/b>객의 정보를 입수하고 검사대상 <b>여행<\/b>자를 선별한다. 검사대상으로 지정된 물품에 대해 자진신고를 받거나 엑스레이 장비 등으로 검사한다. 반입제한물품, 면세초과물품 등을 선별하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신용카드신사업기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025018&cid=42117&categoryId=42117",
+			"description":"문화(연극, 영화 티켓 등), 보험가입, 통신판매, <b>여행<\/b>사업, 모바일부분, 현금서비스, 리볼빙제도 등 다양한 사업 분야의 수익성, 시장성, 상품성, 기술적 실현가능성, 마케팅, 제휴할 상대기업의 현황 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노출납원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024868&cid=42117&categoryId=42117",
+			"description":"게임테이블에 장착되어 있는 드롭박스의 드롭(현금, 수표, <b>여행<\/b>자수표 등의 내용물)을 정해진 시간에 회수한다. 각 테이블별로 회수된 드롭박스의 드롭을 계산 및 정리하고, 칩, 현금, 수표 등을 보관한다. 칩을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노출납원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025111&cid=42117&categoryId=42117",
+			"description":"게임테이블에 장착되어 있는 드롭박스의 드롭(현금, 수표, <b>여행<\/b>자수표 등의 내용물)을 정해진 시간에 회수한다. 각 테이블별로 회수된 드롭박스의 드롭을 계산 및 정리하고, 칩, 현금, 수표 등을 보관한다. 칩을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"병무행정사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024677&cid=42117&categoryId=42117",
+			"description":"병역의무자의 국외<b>여행<\/b> 및 국외체제 시의 허가 및 병적증명서, 복무확인서 발급 등의 업무를 수행한다. 훈련 불참 등 병역법 위반 시 고발 등의 조치를 하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"디지털인플루언서관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025799&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 화장품, 게임, 음식, 생활 소비용품, <b>여행<\/b> 등 분야별 인플루언서를 섭외하고 목록으로 만든다. 소속된 인플루언서가 양질의 콘텐츠를 제작할 수 있도록 지원하고 다양한 MCN채널에 콘텐츠를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지상파DMB멀티플랙서시스템운용원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665179&cid=42117&categoryId=42117",
+			"description":"TPEG(Transport Protocol Expert Group:DMB 방송주파수를 이용해 자동차 내비게이션 단말기에 실시간 교통정보, <b>여행<\/b>정보, 돌발상황정보 등을 보여주는 기술)데이터를 반영하여 설정한다. 수신장애 발생 시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노딜러",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026224&cid=42117&categoryId=42117",
+			"description":"현금, 수표, <b>여행<\/b>자수표 등을 칩으로 교환하여 준다. 고객의 고액권 칩을 저액권 칩으로 교환하여 준다. 고객의 주문사항이 있으면 웹패드에 입력시키거나 플로어퍼슨에게 알린다. 규칙을 위반하는 고객을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"리움 미술관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2115274&cid=50392&categoryId=50392",
+			"description":"<b>여행<\/b> 정보 접근성 ★★★ 주차 ★★ 숙박 ★★ 음식점 ★★★ <b>여행<\/b> 포인트 미술관 내에 있는 아트샵에는 수준 높은 소장품을 테마로 개발된 아트상품이 있어 미술관을 찾는 또 다른 즐거움을 준다. 아울러... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3171_000_1\/20140623170605675_1CRFR48BL.jpg\/fb48_182_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"열차검수승무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026709&cid=42117&categoryId=42117",
+			"description":"객실을 순찰하면서 기기의 작동상태를 점검하고, 승객의 안락한 <b>여행<\/b>을 위해 냉난방장치 및 전등시설을 조작한다. 열차편성에 따른 제어기능 상태를 점검하고 조치한다. 기관실 내 화재발생을 감시 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가정의학과전문의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025427&cid=42117&categoryId=42117",
+			"description":"환자에게 관련 전문의를 소개·추천한다. 진료하는 세부과목에 따라 건강증진과, 건강검진과, 노인의학과, 스포츠의학과, 갱년기의학과, <b>여행<\/b>자의학과 진료를 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"국회의원 세비(수당)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=66490&cid=43667&categoryId=43667",
+			"description":" 국회의원의 <b>직무<\/b>활동과 품위유지를 위해 지급하는 보수로, 국회의원들은 '국회의원 수당 등에 관한... 국회의원의 <b>직무<\/b>활동과 품위유지를 위해 지급하는 보수로, 국회의원들은 '국회의원 수당 등에 관한 법률... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기업컨시어지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024655&cid=42117&categoryId=42117",
+			"description":"국내외 출장준비, 비즈니스 미팅, 워크숍, 고객의전, <b>여행<\/b>, 골프, 이벤트, 공연, 쇼핑 등 정형화된 서비스(협력업체 및 사전에 준비된 정보가 있는 서비스)를 제공한다. 고객이 요구하는 특별한 서비스에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연예인매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832829&cid=42117&categoryId=42117",
+			"description":"지방, 해외공연에 따른 <b>여행<\/b>일정, 교통, 숙박 등과 관련하여 세부적인 일정을 수립하고 협의한다. 대본이나 시나리오를 검토하여 담당 연예인이 해당 배역을 소화할 수 있도록 체력 또는 특기활동 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"퍼스널쇼퍼",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026007&cid=42117&categoryId=42117",
+			"description":"고객이 요구하는 상품의 종류(옷, 보석, 화장품, <b>여행<\/b>상품, 웨딩 등)를 예약한다. 고객의 직업, 구매성향, 선호브랜드, 스타일 등을 파악한다. 고객 방문을 예약할 때는 고객의 정보를 바탕으로 추천할 몇 가지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관광두레PD",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026157&cid=42117&categoryId=42117",
+			"description":" 지역관광 활성화를 위해 지역주민들의 관광사업 공동체인 관광두레의 수요를 파악하고 사업계획 수립 등을 돕는다. [수행<b>직무<\/b>] 지역주민의 수요를 파악하고 차별성 있고 잠재력 및 발전 가능성이 높은 예비... ",
+			"thumbnail":""
+		},
+		{
+			"title":"퍼스널쇼퍼",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026031&cid=42117&categoryId=42117",
+			"description":"고객이 요구하는 상품의 종류(옷, 보석, 화장품, <b>여행<\/b>상품, 웨딩 등)를 예약한다. 고객의 직업, 구매성향, 선호브랜드, 스타일 등을 파악한다. 고객방문을 예약할 때는 고객의 정보를 바탕으로 추천할 몇 가지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"매너강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025386&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 국제업무 종사원, 해외근무자 혹은 비즈니스 <b>여행<\/b>자 등에게 국제사회 관행과 타 문화 이해를 통한 의사소통능력 제고와 예절을 교육한다. 판매, 영업, 비서 및 서비스 관련 고객응대 직원이 고객에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제의료관광코디네이터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026165&cid=42117&categoryId=42117",
+			"description":" 한국에 방문한 외국인 환자 및 그 가족을 대상으로 의료관광 서비스를 설명하고 상품을 기획하며 의료관광을 안내하고 사후관리를 지원한다. [수행<b>직무<\/b>] 의료관광에 대해 외국 환자 및 가족과 상담한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경마중계소관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024497&cid=42117&categoryId=42117",
+			"description":" 비디오장치를 이용하여 경마경주를 중계하는 경마중계소를 관리한다. [수행<b>직무<\/b>] 경마 시행정보에 따라 경마중계소의 업무계획을 수립한다. 마권의 구입, 승식, 환급과 기타 경마시행과정에 대하여 고객에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블카운영관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024506&cid=42117&categoryId=42117",
+			"description":" 고객 및 화물을 이동시키는 케이블카의 운행 및 안전을 총괄 관리하고 관련 종사자들의 활동을 관리한다. [수행<b>직무<\/b>] 케이블카의 운영 현황을 파악한다. 고객의 안전 및 서비스를 위해 종사원에 대한 업무조정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"골프장코스관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024498&cid=42117&categoryId=42117",
+			"description":" 골프장 코스의 잔디를 관리하며 코스관리원의 활동을 조정 및 감독한다. [수행<b>직무<\/b>] 잔디의 종류에 따른 토양 및 기후에 맞추어 잔디 관리계획을 세운다. 코스를 순찰하며 병충해 및 문제가 있는 코스에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아츠리의 은퇴과정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5676795&cid=62841&categoryId=62841",
+			"description":" 개인이 맡은 <b>직무<\/b>나 직책에서 물러나 한가로운 생활을 하게 되는 단계 또는 경로.  아츠리와 바루쉬(Atchley &#38; Barusch, 2004)는 개인이 오랫동안 다니던 직장이나 <b>직무<\/b>에서 물러나 일상생활을 하는 과정을 6단계로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유람선운영관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024503&cid=42117&categoryId=42117",
+			"description":" 유람선 운항과 관련 시설 운영을 총괄 관리하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 유람선의 운행일정, 승객 수 및 특성 등을 확인하여 필요 승선인원을 계획한다. 기상 환경, 승객 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유원지관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024504&cid=42117&categoryId=42117",
+			"description":" 오락용 승차기구 시설을 갖춘 유원지에 대한 운영 및 관리를 총괄하고, 관련 종사원들의 활동을 조정한다. [수행<b>직무<\/b>] 오락시설 이용, 동·하절기 개장시간, 행사개최 등 유원지 운영에 대한 계획을 수립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국 5급 종교 직업인 비자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6197954&cid=67745&categoryId=67963",
+			"description":" 유럽 경제 지역 및 스위스 외 지역 출신이 아닌 사람 중에서 신청인이 설교하거나 종교 교단 내의 <b>직무<\/b>와 같은 종교적인 일을 하기를 원하고 영국에서 인정하는 스폰서의 후원 인증서가 있는 경우 영국의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5932_000_1\/20210106170535757_U7LDDAQT8.jpg\/gb283_25_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"호텔현관지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837683&cid=42117&categoryId=42117",
+			"description":" 호텔투숙객의 객실 배정·퇴실을 관장하고, 호텔현관종사원들의 업무를 지시·감독한다. [수행<b>직무<\/b>] 호텔 투숙의 예약상황을 검토하여 예약처리지침을 전달한다. 고객의 예약여부를 확인하여 객실을 배정해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔총지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024509&cid=42117&categoryId=42117",
+			"description":" 호텔의 숙박시설과 각종 부대시설에서 종사하는 종업원들의 업무를 감독·조정하고 제반 업무를 총괄 지휘한다. [수행<b>직무<\/b>] 호텔의 효율적인 운영을 위하여 종업원의 업무를 관리하고 고객 접대서비스의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔객실관리지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024507&cid=42117&categoryId=42117",
+			"description":" 호텔 객실부의 운영을 계획·유지·관리하고, 객실정비 및 비품·집기 등을 관리·감독한다. [수행<b>직무<\/b>] 호텔 객실부의 연간 운영계획을 수립한다. 객실부의 서비스 상태를 유지·관리한다. 객실부의 효율적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"회원모집영업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658435&cid=42117&categoryId=42117",
+			"description":" 스포츠나 오락시설 등을 이용하려는 회원을 모집하기 위한 영업활동을 한다. [수행<b>직무<\/b>] 모집하려는 회원의 대상, 제공하는 서비스의 종류와 특징, 모집인원, 회원의 등급, 가입기간, 회원의 자격과 권리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"매표원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026048&cid=42117&categoryId=42117",
+			"description":" 극장, 고궁, 유원지, 경기장 등을 이용하는 고객에게 입장권을 판매한다. [수행<b>직무<\/b>] 이용정원이나 예약상황을 검토한다. 고객의 요구에 따라 매표수를 확인하고 시간이나 좌석번호 등을 표에 기록하거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔레비뉴매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024508&cid=42117&categoryId=42117",
+			"description":" 호텔, 리조트 등에서 수익을 극대화하기 위해 객실 및 서비스의 예약률을 예측하고 시장상황에 따라 가격과 예약률을 탄력적으로 운영한다. [수행<b>직무<\/b>] 고객의 정보(다양한 구매 시나리오, 과거 고객... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한미 대학생 연수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=937510&cid=43667&categoryId=43667",
+			"description":"어학연수, <b>여행<\/b>을 종합적으로 경험할 수 있도록 지원하는 제도다. 대학생들의 질 높은 해외 <b>직무<\/b> 경험 등을 통해 경력 및 진로 설계를 돕고, 이를 통해 글로벌 감각을 갖춘 핵심 인재를 양성하기 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경기장관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024496&cid=42117&categoryId=42117",
+			"description":" 육상경기장, 축구장, 농구장, 야구장, 경마장, 각종 실내경기장 등 경기장의 운영·유지·관리를 총괄하고, 관련 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 경기장 운영에 필요한 인력, 장비, 예산 등에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024505&cid=42117&categoryId=42117",
+			"description":" 카지노의 운영 및 관리 업무를 총괄하고 종사원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 카지노의 영업준칙를 준수하기 위하여 카지노종사원을 지도하고 업무를 감독·조정한다. 카지노 내 칩의 유통상태를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유기장관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024502&cid=42117&categoryId=42117",
+			"description":" 일반 대중에게 오락서비스를 제공하기 위한 유기시설을 운영·유지·관리하는 업무를 총괄하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 당구장, 볼링장, 기원, 전자오락실, 댄스홀, 댄스교습소 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스파매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024500&cid=42117&categoryId=42117",
+			"description":" 병원, 호텔, 피트니스 센터 등에 속한 스파시설(Spa, 물의 열, 부력 따위로 온몸의 혈액순환을 촉진하여 피부를 관리하고 몸의 스트레스를 해소할 수 있는 시설을 갖추어 놓은 가게)이나 스파체인점, 개인스파숍... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운동시설관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024501&cid=42117&categoryId=42117",
+			"description":" 일반 대중의 체력단련과 특수운동의 기술연마를 위하여 제공되는 운동설비를 운영·유지·관리하는 업무를 총괄하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 정구장, 수영장, 골프장, 탁구장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가방판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026052&cid=42117&categoryId=42117",
+			"description":" 백(Bag), 학생용 가방, <b>여행<\/b>가방, 서류가방 등 각종 가방을 소비자에게 판매한다. [수행<b>직무<\/b>] 도매업체로부터 물품을 주문하여 구매한다. 매입·매출 내역과 재고량, 판매수익을 파악한다. 진열대에 물품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예약접수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024877&cid=42117&categoryId=42117",
+			"description":" 예약접수시스템을 사용하여 고객의 예약을 접수하고 고객의 문의에 응대한다. [수행<b>직무<\/b>] 예약시스템(예약, 일정 등에 대한 정보가 실시간으로 유지되는 시스템) 또는 예약장부를 확인하여 제공할 상품 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"열차승무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026176&cid=42117&categoryId=42117",
+			"description":" 열차승객의 편안한 <b>여행<\/b>을 위해 승객에게 서비스를 제공한다. [수행<b>직무<\/b>] 승객의 승·하차를 안내하고 도와준다. 운행 중인 열차를 순회하며 고객의 편의를 도모한다. 승객의 안전을 위해 객실 선반의 물건을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한동수",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EB%8F%99%EC%88%98",
+			"description":"경찰에 따르면 한동수 군수는 2014년 12월부터 2017년 1월까지 사과유통공사 사장에게 명절 떡값, 해외<b>여행<\/b> 경비, 입택 축하비 등 명목으로 3250만원을 받은 혐의를 받고 있으며 또 2012년 7월부터 2016년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유람선관광가이드",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664979&cid=42117&categoryId=42117",
+			"description":" 유람선 이용객이 쾌적한 관광을 할 수 있도록 방송안내, 응대, 여흥진행 등 각종 서비스를 제공한다. [수행<b>직무<\/b>] 방송기기의 이상 여부를 확인한다. 배선 스케줄을 보고 방송을 구상한다. 날씨, 안전 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문화관광해설사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026166&cid=42117&categoryId=42117",
+			"description":" 관광객들에게 관광지에 대한 전문적인 해설을 제공한다. [수행<b>직무<\/b>] 방문 목적이나 관심 분야, 연령층 등에 따른 다양한 관광객들에게 각 지역의 문화유적을 안내한다. 문화유적에 대한 관광객의 이해를 돕기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전문도슨트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627203&cid=42117&categoryId=42117",
+			"description":" 전시 작품에 대한 정보를 수집, 해석하여 미술관 및 박물관 관람객에게 해설한다. [수행<b>직무<\/b>] 해설 대상 작품 및 작가 등에 대한 자료를 수집한다. 해설스크립트를 작성한다. 관람객의 수, 특성 등을 파악한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사파리버스운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026167&cid=42117&categoryId=42117",
+			"description":" 동물원에서 사파리버스를 운전하며 관광객에게 동물들을 소개한다. [수행<b>직무<\/b>] 안내차량을 이용하는 관광객의 탑승 및 하차를 안내한다. 버스를 운전하면서 미리 준비한 먹이를 이용하여 동물을 유인해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"숲길등산지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026168&cid=42117&categoryId=42117",
+			"description":" 등산 또는 트래킹을 안전하게 할 수 있도록 해설하거나 지도·교육한다. [수행<b>직무<\/b>] 청소년, 기업체 등 대상과 등산, 트래킹 등 체험 목적에 맞춰 숲길체험 프로그램을 구성한다. 등산예절, 보행법, 스틱사용법... ",
+			"thumbnail":""
+		},
+		{
+			"title":"웨딩플래너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026149&cid=42117&categoryId=42117",
+			"description":" 결혼 예정자를 대상으로 결혼 전 준비에서부터 신혼<b>여행<\/b>에 이르기까지의 모든 과정을 기획하고 대행한다. [수행<b>직무<\/b>] 결혼 예정자의 전화, 메일 등의 상담에 응대한다. 내방 고객에게 회사의 서비스를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"커스틴 닐슨",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%BB%A4%EC%8A%A4%ED%8B%B4_%EB%8B%90%EC%8A%A8",
+			"description":"그녀는 또한 600명 이상의 유죄 판결을 받은 범죄자들이 이동 주택과 <b>여행<\/b>을 다녔다고 진술하기도 하였다. 미국 국토안보부의 보호에서 이주자 어린이들의 사망 12월 8일 미국 국토안보부의 대리점인 미국... ",
+			"thumbnail":""
+		},
+		{
+			"title":"숲해설사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664978&cid=42117&categoryId=42117",
+			"description":" 휴양림, 수목원 등에서 탐방객들에게 자연생태 등을 설명하고 스스로 관찰할 수 있도록 도와준다. [수행<b>직무<\/b>] 자연휴양림, 수목원, 자연생태공원 등을 찾아오는 탐방객들에게 숲과 자연생태, 자연과 인간과의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인명구조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025543&cid=42117&categoryId=42117",
+			"description":" 수영장, 해수욕장, 스키장 등에서 안전사고를 방지하기 위하여 관련 장소를 순찰하고 사고발생 시 구조 및 응급조치를 한다. [수행<b>직무<\/b>] 장내를 순찰하거나 관망대에서 안전사고 여부를 관찰한다. 안전에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대리당회장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2378180&cid=50762&categoryId=51367",
+			"description":"예를 들면, 당회장이 신병이나 외유, 해외<b>여행<\/b>, 범죄로 인해 수감, 안식년 등으로 <b>직무<\/b>를 수행할 수 없을 때 당회가 결의하여 그 노회에 속한 목사 1인(교인의 청빙을 받아 교회를 담임하고 있는 목사)을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국고용직업분류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5683380&cid=43667&categoryId=43667",
+			"description":"KECO는 취업알선 서비스, 노동력 수급 통계 작성 등 고용 정책의 기초 역할을 하고, 산업현장의 <b>직무<\/b>를 성공적으로 수행하는 데 필요한 능력을 표준화한 NCS(국가<b>직무<\/b>능력표준) 개발의 기초가 된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경비원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566511&cid=46634&categoryId=46634",
+			"description":"[내용] 경비하는 업체나 장소에 따라 건물 경비원(전산업), 공항대합실 경비원(<b>여행<\/b>알선·운수서비스), 부두 경비원(<b>여행<\/b>알선·운수서비스), 역구내 경비원(<b>여행<\/b>알선·운수서비스), 터미널 경비원(<b>여행<\/b>알선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"컨텍센터상담원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024896&cid=42117&categoryId=42117",
+			"description":" 컨텍센터에서 전화와 인터넷으로 접수된 고객서비스 안내, 텔레뱅킹, 고객상담, 텔레마케팅 등을 수행한다. [수행<b>직무<\/b>] 고객요청사항에 대해서 지침서에 따라 응답한다. 전문적인 답변을 위해 전화를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"갈리오",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1056177&cid=40942&categoryId=34317",
+			"description":"바울로가 2차 전도<b>여행<\/b>을 하던 중 고린도에 머물렀을 때 유대인들은 그를 붙잡아 고소하였으나 갈리오가 각하하였던 일화가 전해진다.(사도 18:12∼17). 이 일화로 <b>직무<\/b> 외의 책임을 피하는 사람이나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"Gertrude de Nivelles, St.",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2363208&cid=69168&categoryId=51340",
+			"description":"훌륭한 원장으로서 너무 엄격한 생활을 해 몸이 허약해져 <b>직무<\/b>를 사임하고 신심 생활에만 일념하다가 죽었다. <b>여행<\/b>자의 수호성인, 성녀의 표상은 쥐.",
+			"thumbnail":""
+		},
+		{
+			"title":"원주 삼광터널 열차 충돌 사고",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9B%90%EC%A3%BC_%EC%82%BC%EA%B4%91%ED%84%B0%EB%84%90_%EC%97%B4%EC%B0%A8_%EC%B6%A9%EB%8F%8C_%EC%82%AC%EA%B3%A0",
+			"description":"직원을 <b>직무<\/b> 태만과 과실치사상 등의 혐의로 긴급 구속하였다. 이번 참사를 계기로 전국적으로 수학<b>여행<\/b> 자체가 금지되는 사태가 일어났다. 또한, 사고가 발생하였던 삼광터널은 현재 원주터널로 명칭이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안토니오 비발디",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1105999&cid=40942&categoryId=34382",
+			"description":"그후 여러 차례 로마·피렌체·빈 등지를 연주<b>여행<\/b>하였으며, 또 국외에서도 여러 차례 연주회를 가졌다. 그는 40여 곡의 오페라를 비롯하여 많은 종교적 성악곡, 가곡 등을 남겼는데 기악곡은 음악사에서 특히... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_43\/20181008231630468_JNYJ65OSN.jpg\/5957432.jpg?type=m160_160"
+		},
+		{
+			"title":"가족 성장 상담소 남성의 소리 (천안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2571274&cid=51930&categoryId=54185",
+			"description":"우선 열린 상담실을 운영하고 있는데 <b>직무<\/b> 스트레스, 대인 관계 문제, 부부 갈등, 의처증, 의부증, 자녀 문제, 성희롱 등 인간관계에서 일어나는 심리적 갈등들을 상담하고 있다. 또 전화 상담, 면접 상담... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150123203940533_YVX24JIKT.jpg\/GC045P01812.jpg?type=m160_160"
+		},
+		{
+			"title":"료청란",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%A3%8C%EC%B2%AD%EB%9E%80",
+			"description":"《난양상보》(南洋商报) 전국 업무 전원을 역임했고 농업 학원 강사 및 집단 상담원 등 <b>직무<\/b>를... 미디어 생애 1996년, 그는 &quot;랴오청란&quot;이라는 이름으로 《풍미》(风味), 《사과》(苹果), 《<b>여행<\/b>가》... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재외국인의 공무원 취직권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=729155&cid=42140&categoryId=42140",
+			"description":"해외<b>여행<\/b>ㆍ해외근무ㆍ해외 장기체류ㆍ해외유학ㆍ해외 장기요양의 기회도 확실히 증가하고 있다.... 재외국인에 대한 행정 서비스나 외국 자치단체와의 국제교류를 <b>직무<\/b>로 하는 국제교류과를 돌파구로 점차... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연산역 (철도체험학습장)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665923&cid=42856&categoryId=42856",
+			"description":"[개요] 가족, 친구와 함께하는 기차<b>여행<\/b>과 철도문화체험 한국철도공사 코레일은 창의적 미래 인재... 기관사 <b>직무<\/b> * 체험 프로그램 : 누리로 목업차량과 선로변 꽃길 관람 ·신청방법 : http:\/\/info.korail.com... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2818_000_31\/20210416163941570_LWS2FPRD8.jpg\/2555502_image2_1.jpg?type=m160_160"
+		},
+		{
+			"title":"요한의 둘째 편지",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%94%ED%95%9C%EC%9D%98_%EB%91%98%EC%A7%B8_%ED%8E%B8%EC%A7%80",
+			"description":"공적인 <b>직무<\/b>를 맡은 자임을 나타내기 위해서였다. 편집 시기 책이 무척 짧기 때문에 정확한 시기를 알... 선교 <b>여행<\/b>자들이 가르치는 교리를 판단할 수 있는 기준을 가지고 있지 못했다. 교리는 교회들 사이를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"에밀 르비엘",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1171620&cid=40942&categoryId=33462",
+			"description":"그러나 본래 허약한 체질이었던 그는 오랜 <b>여행<\/b>으로 병을 얻어 홍콩으로 돌아가야 했다. 그 후 건강이... 스스로 더 이상 가르치는 <b>직무<\/b>를 수행할 수 없음을 깨닫고, 맡고 있던 <b>직무<\/b>에서 물러나기",
+			"thumbnail":""
+		},
+		{
+			"title":"업무상 횡령죄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3654795&cid=42131&categoryId=42131",
+			"description":"반드시 <b>직무<\/b> 또는 영업으로서 생활유지를 위한 업무에 한하지 않고 또 보수나 이익 등 반대급부(反對給付)가 있음을 필요로 하지 않는다.경찰관이 증거물건을 영치(領置)하거나 역장(驛長)이 단체<b>여행<\/b>을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진경준",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%84%EA%B2%BD%EC%A4%80",
+			"description":"차량, <b>여행<\/b>경비 5000여만원 등 총 9억원의 금품을 받은 혐의(특정범죄가중처벌법상 뇌물) 부분을... 광범위하게 <b>직무<\/b>와의 연관성이 있다고 판단되지 않는다&quot;고 했다. 검찰이 &quot;김정주 대표가 장래... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교감",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794424&cid=46615&categoryId=46615",
+			"description":"[개설] 「초중등교육법」에서 규정하고 있는 교감의 임무는 ‘교장을 보좌하여 교무를 관리하고, 학생을 교육하며, 교장이 부득이 한 사유로 <b>직무<\/b>를 수행할 수 없는 때에는 그 <b>직무<\/b>를 대행’하는 것이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영국 2급 성직자 비자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6198034&cid=67745&categoryId=67963",
+			"description":" 유럽 경제 지역 및 스위스 외 지역 출신이 아닌 사람 중에서 영국내의 종교 공동체 내에서 고용 제안을 받은 사람은 영국의 2급 성직자 비자를 신청할 수 있다. [개요] 다음과 같은 경우 2급 성직자 비자를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5932_000_1\/20210106170508267_CU87KDF9D.jpg\/gb283_12_i1.jpg?type=m160_160"
+		}
+	]
+}

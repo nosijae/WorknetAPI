@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:14 +0900",
+	"total":49907,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>경찰<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=8731",
+			"description":""
+		},
+		{
+			"title":"<b>경찰<\/b>법연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=445",
+			"description":""
+		},
+		{
+			"title":"자치<b>경찰<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=67712",
+			"description":""
+		},
+		{
+			"title":"미국의 자치<b>경찰<\/b>제도와 그 시사점: 캘리포니아주를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651417592",
+			"description":"U.S. Municipal Police System and Its Implications: Focusing on Police Agencies in the State of California 국내에서 자치<b>경찰<\/b>제"
+		},
+		{
+			"title":"지역사회 <b>경찰<\/b>활동에 관한 연구 : 한·일 지역<b>경찰<\/b>제도의 비교분석을 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11564794",
+			"description":"Articles : A Study on the Community Policing - Focused on Comparative Analysis of Community Police System between Korea and Japan -  [T"
+		},
+		{
+			"title":"범죄두려움에서 지역특성과 <b>경찰<\/b>활동의 상호작용효과에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=421062402",
+			"description":"A Study on the Effect of Interaction Between Community Characteristics and Police Activities on Fear of Crime temp  무질서, 비공"
+		},
+		{
+			"title":"자치<b>경찰<\/b> 도입에 따른 국가<b>경찰<\/b>의 역할 검토",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=156061906",
+			"description":"A Reviewing the Roles of the National Police in Introducing Self-Governing Police 지방분권은 헌법에 의해 지방자치를 보"
+		},
+		{
+			"title":"국가별 <b>경찰<\/b>기관의 체력검사 종목 및 평가기준에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651417873",
+			"description":"A Study on the Physical Fitness Examination Items and Evaluation Criteria of the National Police Agency 본 연구는 외국<b>경찰<\/b>의 "
+		},
+		{
+			"title":"지역사회 <b>경찰<\/b>활동과 범죄두려움",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10899593",
+			"description":"Community Policing and Fear of Crime 범죄두려움의 원인에 관한 연구는 그동안 성, 연령, 범죄피해의 경험 등 "
+		},
+		{
+			"title":"<b>경찰<\/b>공무원의 직무만족에 관한 연구 : 비간부 <b>경찰<\/b>관을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532370",
+			"description":"  [국문요약]=39,44,1\nI. 문제의 제기=40,45,2\nII. 이론적 배경 및 관련연구의 검토=41,46,7\nIII. 조사연구 설계=4"
+		},
+		{
+			"title":"<b>경찰<\/b> 손실보상에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650607644",
+			"description":"A study on the compensation of police loss  표제지\n목차\n국문초록 8\nI. 서론 10\n 1. 연구 목적 10\n 2. 연구의 범위 및 "
+		},
+		{
+			"title":"<b>경찰<\/b>공무원의 스트레스가 이직에 미치는 영향에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11110051",
+			"description":"A Study on the Effect of Stress on the Turnover of Police <b>경찰<\/b>공무원은 특히 보수와 승진의 문제와 <b>경찰<\/b> 본연의 업"
+		},
+		{
+			"title":"<b>경찰<\/b> 성과에 영향을 미치는 요인에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290109929",
+			"description":"A Study on the Factors Determining the Performance of Police Officers 공공영역에서 성과관리를 통해 시민에 대한 책임"
+		},
+		{
+			"title":"<b>경찰<\/b>문화에 대한 이론적 고찰 : <b>경찰<\/b>문화 연구의 체계화와 쟁점분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11535933",
+			"description":"Theoretical Inquiry into Police Culture <b>경찰<\/b>을 둘러싼 급격한 환경 변화에 우리 <b>경찰<\/b>은 적극적으로 대응하고자"
+		},
+		{
+			"title":"<b>경찰<\/b>공무원의 감정노동, 직무스트레스가 고객지향성에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56563318",
+			"description":"Relationships of Police Officer’s Emotional Labor, Job Stress and Customer Orientation 이 연구의 목적은 우리나라 <b>경찰<\/b>공"
+		},
+		{
+			"title":"<b>경찰<\/b>공무원 근무성적평정제도의 공정성 제고방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18653635",
+			"description":"  목차\n<b>경찰<\/b>공무원 근무성적평정제도의 공정성 제고방안 \/ 주재진 1\n [국문 요약] 1\n I. 서론 2\n II. 근무"
+		},
+		{
+			"title":"<b>경찰<\/b>공무원의 직무스트레스가 직무만족과 이직의도에 미치는 영향에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56561630",
+			"description":"A Study on the Effect of Job Stress on Job Satisfaction and Turnover Intention among Police Officers <b>경찰<\/b>공무원의 직무스트레"
+		},
+		{
+			"title":"한국 <b>경찰<\/b>의 위기관리능력 제고방안 : 미국과 일본 사례의 교훈을 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11529550",
+			"description":"The Improvement Measures for the Establishment of Police Emergency Management System in Korea -with the case of U. S. and Japan  [국"
+		},
+		{
+			"title":"지역사회<b>경찰<\/b>활동의 성공적인 집행을 위한 <b>경찰<\/b>의 역할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532010",
+			"description":"Articles : The Role of Police for the Successful Implementation of Community Policing 급속한 사회변화는 <b>경찰<\/b>의 새로운 기"
+		},
+		{
+			"title":"<b>경찰<\/b>공무원의 직무스트레스 및 외상스트레스가 소진에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57809574",
+			"description":"Influences of police officer's job stress and traumatic stress on burnout 본 연구는 <b>경찰<\/b>공무원이 경험하는 외상스트레"
+		},
+		{
+			"title":"주민의 <b>경찰<\/b>활동 참여경험과 <b>경찰<\/b>에 대한 만족도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77183399",
+			"description":"Experience of Citizen Participation in Police Activity and Satisfaction Towards Police 이 연구에서는 주민들의 자율방범대"
+		},
+		{
+			"title":"한국의 <b>경찰<\/b>수사경과제의 문제점과 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12869740",
+			"description":"A Study on the Problems and Improvements of the Professional Investigative Police System in Korea <b>경찰<\/b>의 수사경과제는 일반"
+		},
+		{
+			"title":"<b>경찰<\/b>서비스의 시민평가에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16393988",
+			"description":"A Study on Citizen Evaluation of Police Services 서비스 질 평가요소로 유의미하며 <b>경찰<\/b>서비스 만족도를 53.2%정도"
+		},
+		{
+			"title":"한국의 관광<b>경찰<\/b> 활성화에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116469425",
+			"description":"A Study on the Improvement of the Korean Tour ism Police System 우리나라의 관광산업은 1970년대 외래관광객 유치를 "
+		},
+		{
+			"title":"<b>경찰<\/b>복지연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3286037",
+			"description":""
+		},
+		{
+			"title":"지역사회<b>경찰<\/b>활동에 근거한 지역<b>경찰<\/b>제의 실행 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11529541",
+			"description":"The first half of 2004 Symposium : The Assignments to practice Korean Local Police based on Community Policing 급증하는 치안수"
+		},
+		{
+			"title":"자치<b>경찰<\/b>의 효율적 구성과 운영을 위한 법제 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13899433",
+			"description":"Rechtsliche Aufgabe zur erfolgreichen Einstellung der kommunalen Polizei   Kommunale Poliseisystem, Gesetz fuer kommunale Polizei, Jeju"
+		},
+		{
+			"title":"<b>경찰<\/b>의 치안활동에 대한 신뢰결정요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41647198",
+			"description":"Determinants of Police Trust to Policing Factors of Police  목차\n<b>경찰<\/b>의 치안활동에 대한 신뢰결정요인 연구 \/ 김정"
+		},
+		{
+			"title":"<b>경찰<\/b>행정학과 졸업생의 경쟁력 제고를 위한 학교교육의 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11535956",
+			"description":"The Imperative Tasks of University Education for Developing the Competitive Power of Graduating Students Who Majored the Police Adminis"
+		},
+		{
+			"title":"<b>경찰<\/b>관련 학과 및 <b>경찰<\/b>대학의 발전방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10899617",
+			"description":"A Study on the Improvement of Department of Police Administration and Korean national Police College 이 연구는 <b>경찰<\/b>관련 학과"
+		},
+		{
+			"title":"조직정치지각이 <b>경찰<\/b>공무원의 직무소진에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56414087",
+			"description":"The Effect of Perceptions of Organizational Politics on the Police OfficersJob Burnout 조직 내 정치행동은 조직구성원들"
+		},
+		{
+			"title":"<b>경찰<\/b>공무원의 삶의 질에 관한연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12957872",
+			"description":"A Study on the Quality of Life for Police Officer in Korea A Study on the Quality of Life for Police Oficer in KoreaHuh, Kyung-MiChoi, "
+		},
+		{
+			"title":"자치<b>경찰<\/b>기능의 재정립 및 활성화방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442240493",
+			"description":"How to Rebuild and Vitalize the Function of Local Police-The Case of Jeju Pronvicial Police Corps-   자치<b>경찰<\/b>, 제주특별자치"
+		},
+		{
+			"title":"제주자치<b>경찰<\/b>과 국가<b>경찰<\/b>간의협약사무 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45731352",
+			"description":"An Improvement Plan of Agreement Related Business between Jeju Municipal Police andJeju Provincial Police 제주자치<b>경찰<\/b>이 실시"
+		},
+		{
+			"title":"한국<b>경찰<\/b>의 자치<b>경찰<\/b>제 도입 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10899418",
+			"description":"The Induction Device of Localized Police System in Korea 본 논문에서는 선진 외국의 자체<b>경찰<\/b>제도를 조감하면서 다"
+		},
+		{
+			"title":"깨어진 창이론(broken window theory)을 통한 <b>경찰<\/b>의 대응방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532054",
+			"description":"Policing Based on the Broken Window Theory in Korea 깨어진 창이론은 범죄를 통제하고 예방하기 위해서는 지역사"
+		},
+		{
+			"title":"제주자치<b>경찰<\/b> 현황과 치안 업무의 범위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18658972",
+			"description":"A study on the Jeju Local Police Agency and the boundary of the crime investigation power   national policy system, Jeju Special self G"
+		},
+		{
+			"title":"<b>경찰<\/b>간부후보생 선발을 위한 평가도구의 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18654060",
+			"description":"  목차\n<b>경찰<\/b>간부후보생 선발을 위한 평가도구의 개선에 관한 연구 \/ 최응렬 ; 김순석 1\n [국문 요약] 1\n I"
+		},
+		{
+			"title":"독립논단 : <b>경찰<\/b>공무원의 직무특성이 직무만족과 조직몰입에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=233213990",
+			"description":"   직무특성, 직무만족, 조직몰입, 지역사회<b>경찰<\/b>활동, 치안센터 "
+		},
+		{
+			"title":"<b>경찰<\/b>제도의 시대적 변화와 자치<b>경찰<\/b>도입유형에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=427943069",
+			"description":"A Study on the Change of the Police System and the Types of Municipal Police 본 논문의 목적은 우리나라의 자치<b>경찰<\/b>의 "
+		},
+		{
+			"title":"미국의 지역사회 <b>경찰<\/b>활동에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10596293",
+			"description":"Articles : A Study on Community Policing in the United States of America  I.서론=98,102,3\nII.지역사회 <b>경찰<\/b> 활동의 출현과 "
+		},
+		{
+			"title":"자치<b>경찰<\/b>제도 도입 논의에 관한 비판적 검토와 입법적 제언",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291536294",
+			"description":"A critical review and suggestion about legislation for the introduction of self-governing police system 지방자치가 시행되어 "
+		},
+		{
+			"title":"지역사회 <b>경찰<\/b>활동의 문제점과 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532407",
+			"description":"A Study on the Problems and Improvement Alternatives of Community Policing in Korea Community Policing is a new philosophy of policing,"
+		},
+		{
+			"title":"<b>경찰<\/b>인력과 장비의 증가와 범죄예방효과간 상관관계 분석과 그 정책적 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12966247",
+			"description":"Correlation of Police and Crime Prevention 본 연구는 부안방폐장사태와 부산APEC기간동안의 <b>경찰<\/b>력강화(인력, 장"
+		},
+		{
+			"title":"미국의 사이버 <b>경찰<\/b>활동과 사이버범죄 기회차단의 연결 : Maguire의 <b>경찰<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897836748",
+			"description":""
+		},
+		{
+			"title":"<b>경찰<\/b>고시",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1061111",
+			"description":""
+		},
+		{
+			"title":"수사권 개혁 후 <b>경찰<\/b>과 검찰의 관계 재정립 방안 - <b>경찰<\/b>에 대한 검찰의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656315",
+			"description":"Improvement on the relationship between the police and the prosecution after reforming the investigative power 2021년 변화된 수사"
+		},
+		{
+			"title":"<b>경찰<\/b>의 집회,시위 관리에 대한 인식태도 비교 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=36981328",
+			"description":"The Comparative Study on the Perception of the Assembly and Demonstration Control of the Police 이 연구는 집회시위에 대한 "
+		},
+		{
+			"title":"행정<b>경찰<\/b>개념과 공공질서의 의미 : 프랑스 행정판례와 그 시사점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11540016",
+			"description":"La notion de police administrative et la signification de l'ordre public - L'interprétation des jurisprudences françaises -  목차\n"
+		},
+		{
+			"title":"각국 <b>경찰<\/b>의 집회시위 관리방식의 변천과정에 대한 비교 연구: 미국,영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12982263",
+			"description":"The Comparative Study on the Historical Changes in the Protest and Its Control of the Police: Focusing on the Cases of the United State"
+		},
+		{
+			"title":"해양범죄의 수사역량 강화를 위한 해양<b>경찰<\/b> 수사교육전문화에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78894128",
+			"description":"A Study on the Maritime Police Investigation Training for Improvement Maritime Crime Investigation Competency 우리나라에서 해상"
+		},
+		{
+			"title":"<b>경찰<\/b>공무원의 직무열의와 심리적관계 영향관계 - 국가<b>경찰<\/b>과 자치<b>경찰<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889238318",
+			"description":"Relationship between job enthusiasm and psychological relations of police officials - Focusing on the national police and autonomous po"
+		},
+		{
+			"title":"해양<b>경찰<\/b>의 조직문화 진단과 분석 -경쟁가치모형을 적용하여-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=72360700",
+			"description":"Korea Coast Guard Organizational culture diagnostic and analysis -Apply competing values model- 오늘날 같이 조직 환경이 복"
+		},
+		{
+			"title":"제주특별자치도 자치<b>경찰<\/b>의 역할 검토",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16450356",
+			"description":"A Review on roles of the Self-Governing Police in JEJU Special Self-Governing Province 2006년 7월 1일 시행된 제주특별자치"
+		},
+		{
+			"title":"개인적 요인 및 <b>경찰<\/b> 청렴성·<b>경찰<\/b> 공정성·<b>경찰<\/b>서비스 만족도가 <b>경찰<\/b>신",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865544054",
+			"description":"Effects of the Individual Factors and Police Integrity, Police Fairness, Police Service Satisfaction on the Police Trust 본 연구는 "
+		},
+		{
+			"title":"<b>경찰<\/b> 조직문화 우선적 개선 요인 연구: 수사<b>경찰<\/b>을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889241539",
+			"description":"A Study on the Factors f Priority Improvement of Police Oragnizaion Culture: Focused on the Investigation Police Officer 본 연구는 "
+		},
+		{
+			"title":"<b>경찰<\/b>공무원의 외상후 스트레스 장애에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56563289",
+			"description":"A Study on the Post Traumatic Stress Disorder among Police Officers 이제까지 <b>경찰<\/b>공무원의 외상후 스트레스 장애에 "
+		},
+		{
+			"title":"교대근무 <b>경찰<\/b>공무원의 수면장애, 피로 및 직무스트레스의 관계에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77182830",
+			"description":"A Study on Relationships between Sleep Disorder, Fatigue and Job Stress in Police Shift-workers 이 연구의 목적은 교대근무 "
+		},
+		{
+			"title":"제주자치<b>경찰<\/b>에 관한 지방자치 및 <b>경찰<\/b>사무 부합성 검토",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232581827",
+			"description":"A review on the appropriation of the local autonomy and law enforcement of Jeju municipal police 제주특별자치도에 자치<b>경찰<\/b>"
+		},
+		{
+			"title":"미국의 사이버 <b>경찰<\/b>활동과 사이버범죄 기회차단의 연결 : Maguire의 <b>경찰<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898491060",
+			"description":"The Link between Cyber Policing and Cybercrime Opportunity Disruption in the United States : An Application of Maguire’s Theory of Po"
+		},
+		{
+			"title":"<b>경찰<\/b> 직장협의회의 역할과 자치<b>경찰<\/b>사무의 범위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889907726",
+			"description":"A Study on the role of Police public officials’ council and the scope of Autonomous police affairs 본 연구는 <b>경찰<\/b> 직장협의"
+		},
+		{
+			"title":"한국 자치<b>경찰<\/b>제도의 이상적 모델",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442211761",
+			"description":"Eine Untersuchung zum idealen Modell des koreanischen autonomen Polizeisystems  Ⅰ. 서 론\nⅡ. 자치<b>경찰<\/b>제도 도입논의의 "
+		},
+		{
+			"title":"한국<b>경찰<\/b>의 ''근대성''에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12869738",
+			"description":"A Study on the &quot;Modernity&quot; of Korean Police 이 글에서는 조선시대(포도청), 개항장, 갑오개혁, 대한제국, 일제시"
+		},
+		{
+			"title":"<b>경찰<\/b> 드론의 활용 전략과 과제에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186525282",
+			"description":"A study on application strategies and tasks of the police drones 4차 산업혁명의 중심에 있는 드론(Drone)은 전 세계적"
+		},
+		{
+			"title":"제주자치<b>경찰<\/b> 비판에 대한 비판적 고찰- 제주자치<b>경찰<\/b>의 정체성을 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157529088",
+			"description":"A Critical Review of the criticism on the Jeju Municipal Police 2006년 7월 1일 우리나라에서는 처음으로 제주특별자치"
+		},
+		{
+			"title":"일본의 통합형 <b>경찰<\/b>제도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561522551",
+			"description":"A Study on the Integrated Police System in Japan 이 연구는 지방자치제의 실시와 주민자치의 완성을 위해 필요한 "
+		},
+		{
+			"title":"행정<b>경찰<\/b>과 사법<b>경찰<\/b>의 분리원칙 필요성에 대한 논의: 정보<b>경찰<\/b>을 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873619659",
+			"description":"Review on the Necessity of the Principle of Separation between the Administrative Police and the Judicial Police: Focus on the Intellig"
+		},
+		{
+			"title":"<b>경찰<\/b>지역사회관계(PCR) 관점에서의 자치<b>경찰<\/b>활동 운영 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882041548",
+			"description":"A Study on Decentralized Policing focused on PCR(Police Community Relationship) 새로운 <b>경찰<\/b>법의 실시로 우리나라는 국가"
+		},
+		{
+			"title":"자치<b>경찰<\/b>제도와 지역사회<b>경찰<\/b>활동론의 관계- 자치<b>경찰<\/b>제도 도입논의의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16450349",
+			"description":"Eine Untersuchung zum Zusammenhang des kommunalen Selbstpolizei-Systems und der Community-Policing-Theorie   지역사회<b>경찰<\/b>활동, "
+		},
+		{
+			"title":"<b>경찰<\/b>과 지역사회 관계개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532035",
+			"description":"A study on the improvement of police-community relations 본 연구는 <b>경찰<\/b>과 지역사회 관계개선을 모색하는데 그 목"
+		},
+		{
+			"title":"<b>경찰<\/b> 직장협의회의 역할과 자치<b>경찰<\/b>사무의 범위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889100403",
+			"description":"A Study on the role of Police public officials’ council and the scope of Autonomous police affairs 본 연구는 <b>경찰<\/b> 직장협의"
+		},
+		{
+			"title":"우리나라 관광<b>경찰<\/b>제의 현황과 미래지향적 제언",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79123818",
+			"description":"The Current Status of Korean Tourist Police and Recommendations for Its Future-oriented Development 박근혜 정부는 2013년 10월 "
+		},
+		{
+			"title":"개인적 요인 및 <b>경찰<\/b> 청렴성·<b>경찰<\/b> 공정성·<b>경찰<\/b>서비스 만족도가<b>경찰<\/b>신",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890099380",
+			"description":"Effects of the Individual Factors and Police Integrity, Police Fairness, Police Service Satisfaction on the Police Trust 본 연구는 "
+		},
+		{
+			"title":"<b>경찰<\/b>이미지의 형성실태 및 영향요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41640125",
+			"description":"An Analysis on Actual Conditions of Formation and Influential Factors of the Police Images 본 연구는 일반시민들의 <b>경찰<\/b>이"
+		},
+		{
+			"title":"자치<b>경찰<\/b>의 사무 역할에 관한 검토",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74828273",
+			"description":"A review on the enforcement of self-governing police 사회공공의 안녕과 질서유지를 담당하는 <b>경찰<\/b>제도는 국가경"
+		},
+		{
+			"title":"<b>경찰<\/b>력 증강과 <b>경찰<\/b>활동 강화가 범죄발생 억제효과에 미치는 영향에 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79123528",
+			"description":"Impact of Variation in Police Strength and Increases in Police Patrol on Crime Deterrence : ARIMA Time Series Analysis 박근혜 정부"
+		},
+		{
+			"title":"<b>경찰<\/b>공무원 승진제도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10899621",
+			"description":"A Study on the Promotion System of Police in Korea 공정하고 합리적인 승진제도의 확립과 운영은 <b>경찰<\/b>공무원의 근"
+		},
+		{
+			"title":"관광<b>경찰<\/b>의 역할과 기능 -강원도를 중심으로-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77182817",
+			"description":"Role and Function of the Tourist Police -on the focus of Gangwon Province- 관광은 세계 최대 단일 산업인 동시에 지식정"
+		},
+		{
+			"title":"<b>경찰<\/b>의 범죄 피해자정책 활성화 방안에관한 연구 - 실무 현황을 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=154127552",
+			"description":"Study on Activation of Crime Victim Policy by the Police <b>경찰<\/b>은 범죄 피해로 인한 위기상황에 개입하는 1차적 국가"
+		},
+		{
+			"title":"청원<b>경찰<\/b>법 개정논의에 관한 고찰: 청원<b>경찰<\/b>에 의한 노동자의 근로3권 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595132209",
+			"description":"A Study on Amendment Discussion about the Registered Security Guard Act: Focused on the Protection about the Right to Labor on Security"
+		},
+		{
+			"title":"개정 <b>경찰<\/b>법의 사법<b>경찰<\/b>과 행정<b>경찰<\/b> 분리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846892830",
+			"description":"The Separation of Administrative Police and Judicial Police in the Revised Police Act 사법<b>경찰<\/b>과 행정<b>경찰<\/b>의 구분은 프랑"
+		},
+		{
+			"title":"해양<b>경찰<\/b>공무원의 서번트리더십이 직무열의에 미치는 영향 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601939",
+			"description":"A study on the effect of Servant Leadership of maritime police officials on Work Engagement 이 연구는 해양<b>경찰<\/b>공무원을 대"
+		},
+		{
+			"title":"지역사회 <b>경찰<\/b>활동의 함의와 한계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12869736",
+			"description":"The Implication and Limits of Community Policing 최근에 이르러 <b>경찰<\/b>의 역할은 전통적 범주를 탈피하여 그 범위를"
+		},
+		{
+			"title":"<b>경찰<\/b>의 현장출동단계에서 가정폭력 피해자 보호를 위한 가정폭력 재범",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78423877",
+			"description":"Development and Validation of Domestic Violence Risk Assessment Guide for Initial Police Investigation In this paper, a domestic violen"
+		},
+		{
+			"title":"자치<b>경찰<\/b>제도 입법적 방향 검토",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288866687",
+			"description":"A review on the legislative direction of self-governing police 1991년부터 시행된 지방자치에 의해 자치<b>경찰<\/b>제도 도입"
+		},
+		{
+			"title":"<b>경찰<\/b>대학 논문집 (警察大學 論文集)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3286678",
+			"description":""
+		},
+		{
+			"title":"현행 자치<b>경찰<\/b>제도의 112신고체계와 지역<b>경찰<\/b> 운용에 관한 담론",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896910295",
+			"description":"Discourse on the 112 Call System Operated by the Current Municipal Police System and Local Police Management 이 연구는 현행 자"
+		},
+		{
+			"title":"<b>경찰<\/b>의 사기관리에 관한 실증적 연구 : 조직문화를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532024",
+			"description":"Articles : A Empirical Study on the Morale Management in Korean Police - Focused on Organizational Culture 본 연구의 목적은 우"
+		},
+		{
+			"title":"범죄피해자 보호를 위한 자치<b>경찰<\/b> 사무에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601624",
+			"description":"A study on the affairs of municipal police for the protection of crime victims 범죄피해자에 대한 보호와 지원은 국가의 "
+		},
+		{
+			"title":"한국<b>경찰<\/b> 징계제도의 변화와 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889240636",
+			"description":"Changes and Challenges in the Korean Police Disciplinary System 이 연구에서는 <b>경찰<\/b> 징계제도를 이론적으로 고찰하는"
+		},
+		{
+			"title":"<b>경찰<\/b>개념의 역사적 발전에 관한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13189639",
+			"description":"Die geschichtliche Entwicklung des Polizeibegriffs   Begriff der Polizei. Kreuzberg-Urteil, PR ALR., Erg&amp;auml, nzungsentwurf zur MEPolG"
+		},
+		{
+			"title":"절차적 공정성과 <b>경찰<\/b>협력의사의 관계에서 <b>경찰<\/b>신뢰의 매개효과: <b>경찰<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638568",
+			"description":"The Effects of Procedural Justice on Police cooperation: Moderated Mediation Effect by Police performance The purpose of this study is "
+		},
+		{
+			"title":"<b>경찰<\/b>의 신뢰 제고 방안 연구- <b>경찰<\/b>의 신뢰 결정 요소 분석을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288864609",
+			"description":"A Study on the Improvement of the Trust of the Police - Focusing on the Analysis of Confidence Factors of Police -    "
+		},
+		{
+			"title":"다문화사회의 범죄요인과 <b>경찰<\/b>의 대응전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77182832",
+			"description":"A study on the current condition of crimes in a multi-cultural society and Police countermeasures 우리나라의 경제성장과 노"
+		},
+		{
+			"title":"<b>경찰<\/b>조직문화 개선 연구 :전문가와 <b>경찰<\/b>관 의견 비교를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638668",
+			"description":"A Study on Improving the Organizational Culture of the Police: Focused on Comparing Opinions of the Experts and Police Officers 본 연"
+		},
+		{
+			"title":"공공적 가치로써의 <b>경찰<\/b> 신뢰의 의의와 정책적 함의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77183341",
+			"description":"The importance and policy implications of trust in Korean police as a public value 이 연구는 우리나라 <b>경찰<\/b>이 오랫동안 "
+		},
+		{
+			"title":"가정폭력 사건에 대한 <b>경찰<\/b>의 인식에 관한 연구: 체포 강제 제도 도입과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289949534",
+			"description":"Policing Domestic V iolence in South K orea <b>경찰<\/b>관은 가정폭력 범죄에 관하여 중한 범죄로 인식하기 보다는 집"
+		},
+		{
+			"title":"<b>경찰<\/b>공무원의 외상 후 성장에 영향을 미치는 요인 : 수도권 지역내 <b>경찰<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=117817916",
+			"description":"A Study on Influential Factors of Post Traumatic Growth in Korea Police Officers - focus on police officers in the metropolitan cities "
+		},
+		{
+			"title":"개정 <b>경찰<\/b>법의 사법<b>경찰<\/b>과 행정<b>경찰<\/b> 분리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=853152450",
+			"description":"The Separation of Administrative Police and Judicial Police in the Revised Police Act 사법<b>경찰<\/b>과 행정<b>경찰<\/b>의 구분은 프랑"
+		},
+		{
+			"title":"<b>경찰<\/b>청 자치<b>경찰<\/b>제안의 문제점 및 대안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532062",
+			"description":"Issues and Counterproposal of Localized Police System Design 자치<b>경찰<\/b>제는 지방정부가 지역실정에 맞는 치안서비스"
+		}
+	]
+}

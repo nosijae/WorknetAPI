@@ -1,0 +1,30 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:42 +0900",
+	"total":2,
+	"start":1,
+	"display":2,
+	"items":[
+		{
+			"title":"NCS 기반 직무분야별 직무능력평가 09 운전·운송 (직업기초 + 직무수행 능력평가)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32455467661",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3245546\/32455467661.20220519103856.jpg",
+			"author":"",
+			"discount":"20700",
+			"publisher":"씨마스",
+			"pubdate":"20160120",
+			"isbn":"9791156720546",
+			"description":"NCS(국가직무능력표준) 기반의 채용 방식에 최적화된 정보를 제공한다. 기업들의 최신 채용 공고를 제공하여 채용 시장의 변화와 동향을 파악할 수 있도록 하였고, NCS기반 입사 지원 서류의 작성 방법과 다양한 면접 사례를 제공하여 NCS 기반의 채용 방식에 대한 감을 잡을 수 있도록 해준다. 무엇보다 기존의 인.적성 검사와 전공시험을 대체하는 직업기초능력과 직무수행능력 필기시험에 완벽하게 대비할 수 있도록 다양한 실전 문제를 제공하고 있다."
+		},
+		{
+			"title":"NCS 기반 직무수행능력+직무중심면접 평가 9: 운전 운송",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32496137642",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249613\/32496137642.20220527023305.jpg",
+			"author":"NCS 채용 시험 연구회",
+			"discount":"18000",
+			"publisher":"씨마스",
+			"pubdate":"20160510",
+			"isbn":"9791156721130",
+			"description":"- 독자대상 : NCS기반 채용 시험 준비생\n- 구성 및 특징 :\n① 수록 내용이 직무 중심 면접에 유용한 이유 제시\n② 해당 직무에 관한 기출 면접 질문 문항 제시\n③ 직무 수행 능력 평가 문항 제시\n④ 직무 능력의 수준을 진단할 수 있는 자가진단 도구 제시"
+		}
+	]
+}

@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:45 +0900",
+	"total":6448,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>영업판매<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3333319&cid=51373&categoryId=51373",
+			"description":" <b>영업<\/b>의 물품을 <b>판매<\/b>할 때 그 조건들을 명시하기 위해서 작성하는 계약서 서식.  <b>영업 판매<\/b>계약서란 제품을 거래처에 이행하겠다는 계약과 함께 제반 사항들을 작성한 계약서이다. <b>영업 판매<\/b>계약서는 거래처와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209144150639_RMKIR8J1X.jpg\/ba17_5652.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업판매<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383264&cid=42279&categoryId=42279",
+			"description":" <b>영업판매<\/b>일지란 <b>영업<\/b> 활동과 <b>판매<\/b> 실적을 기재하는 서식이다.  기업은 물품을 생산하고 그것을 <b>판매<\/b>해야 기업의 이익이 발생한다. 그렇기 때문에 기업은 재고를 최소화하고 <b>판매<\/b>량을 늘리기 위한 <b>판매<\/b> 계획을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510121530662_RHXWNLN72.jpg\/hb10_22231_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업판매<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2774392&cid=51373&categoryId=51373",
+			"description":" <b>영업 판매<\/b> 현황을 기록할 때 사용하는 서식.  어떠한 물건을 <b>판매<\/b>한 후 <b>판매<\/b> 현황을 일일 별로 문서화 작성하여 보관하기 위해 사용하는 문서가 <b>영업 판매<\/b> 일지이다. <b>판매<\/b> 현황을 파악하여 작성을 함으로써 <b>판매<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508163938454_O6MN397OO.jpg\/ba17_31766_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업판매<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925549&cid=42279&categoryId=42279",
+			"description":"<b>영업판매<\/b>계약서의 본 내용은 간결, 명료하고 정확하게 기재해야 한다. 또 각 내용을 형태별로 하나의 조항으로 분류하여 기재함으로써 의사표시를 분명히 할 필요가 있다. <b>영업판매<\/b>계약서에는 <b>판매<\/b>자 및... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215632710_XIRJE19B2.jpg\/hb10_5893_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>판매<\/b><b>영업<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2050016&cid=42279&categoryId=42279",
+			"description":"<b>판매<\/b> 및 <b>영업<\/b> 활동을 구체적으로 설정하여 기록한 것을 <b>판매<\/b><b>영업<\/b>계획서라고 하며, <b>판매<\/b> 및 <b>영업<\/b>을 위한 목표를 설정하고 이를 기간별로 실행 방안을 세워 기록한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"식품<b>판매<\/b><b>영업<\/b>신고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545238&cid=42279&categoryId=42279",
+			"description":" 식품<b>판매<\/b><b>영업<\/b>신고서란 식품<b>판매<\/b> <b>영업<\/b> 개시를 신고하기 위해 작성하는 양식이다.  식품<b>판매<\/b><b>영업<\/b>신고서란 식품 <b>판매<\/b> <b>영업<\/b> 개시를 신고하기 위해 작성하는 양식을 말하며, 식품<b>판매<\/b><b>영업<\/b>신고서를 작성할 때에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228183019328_ISQQ33GEA.jpg\/hb10_79856_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"식품<b>판매<\/b><b>영업<\/b>신고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2781578&cid=51373&categoryId=51373",
+			"description":" 식품을 <b>판매<\/b>하는 <b>영업<\/b>을 개시하기 위해 신고 내용을 작성하는 문서.  식품업종에 따른 음식점을 내고 <b>판매<\/b>하고자 하는 경우 해당 관할청에 <b>영업<\/b> 사실을 알려야 하는 의무가 있으며 의무를 이행하기 위해... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508204716917_G0VO3PNXL.jpg\/ba17_26422_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>사원별 <b>판매<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830527&cid=42279&categoryId=42279",
+			"description":" <b>영업<\/b>사원별로 이루어진 <b>판매<\/b>활동과 실적을 기재하는 문서.  기업은 물품을 생산하고 그것을 <b>판매<\/b>해야 기업의 수익으로 책정된다. 그렇기 때문에 기업은 재고를 최소화하고 <b>판매<\/b>량을 늘리기 위해 <b>판매<\/b>촉진 등의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128203102751_Q2T6TS7SY.jpg\/hb10_3073_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>판매<\/b><b>영업<\/b>수수료지급계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2777167&cid=51373&categoryId=51373",
+			"description":" <b>판매<\/b> <b>영업<\/b>에 관한 수수료 계약의 제반사항을 기재한 계약 문서.  <b>판매<\/b> <b>영업<\/b> 수수료는 <b>판매<\/b> <b>영업<\/b>을 위탁받고 그 대가로 <b>판매<\/b>금에서 일정한 비율로 지급받는 수수료를 말한다. <b>판매<\/b> <b>영업<\/b> 수수료 지급 계약은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508182401329_J4JXHGF08.jpg\/ba17_16926_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"사람을 많이 만나는 일(<b>영업<\/b>, <b>판매<\/b>, 광고 등)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1003367&cid=42814&categoryId=42814",
+			"description":"업무의 특성상 낯선 사람을 만날 기회가 많은 <b>영업<\/b>이나 <b>판매<\/b>, 광고 등의 일을 하는 여성들은 일을 잘하는 여성으로 보이기 위해서 '깔끔한 느낌'과 자신의 존재를 상대의 기억에 남기는 '강함'을 어필하는 것이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2259_000_1\/20120522215832732_ADIUML2G4.jpg\/fd9_067_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355838&cid=51373&categoryId=51373",
+			"description":" <b>영업<\/b>활동 후 활동상황을 정리하여 기록하는 문서.  <b>영업<\/b>관리와 <b>판매<\/b>관리를 위해 행하는 제반 활동을 <b>영업<\/b>활동으로 볼 수 있다. 이러한 제반 활동을 이행하고 관리하기 위해 작성되는 문서가 <b>영업<\/b>활동일지이다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209154909581_Y6I3E6L9N.jpg\/ba17_1723_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>내역서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545372&cid=42279&categoryId=42279",
+			"description":" <b>영업<\/b>내역서란 <b>영업 판매<\/b> 내용을 기록하여 정리한 문서이다.  <b>영업<\/b>내역서란 <b>영업 판매<\/b> 내용을 기록하여 정리한 양식을 말하며, <b>영업<\/b>내역서는 다양한 주제로 작성될 수 있지만 대체로 <b>영업<\/b>을 통한 <b>판매<\/b>나 매출의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182033865_VUC0G6K1Y.jpg\/hb10_79027_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"방문<b>판매<\/b>일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2356757&cid=51373&categoryId=51373",
+			"description":"점포를 가지지 않은 <b>판매<\/b>자가 구매자를 찾아가는 방법도 <b>영업판매<\/b> 방법 중 한가지며, 이런 관리를 위하여 방문장소나 시간 등을 꼼꼼히 기재할 수 있는 방문<b>판매<\/b> 일보를 작성하는 것이 중요하다. [작성팁]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209162357946_HHPQ4B85E.jpg\/ba17_11628_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>근로계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3333315&cid=51373&categoryId=51373",
+			"description":"<b>영업<\/b> 근로계약서란 <b>영업 판매<\/b> 현장에서 물품 <b>판매<\/b>를 위해 필요한 근로자가 회사와 맺는 계약서 서식의 일종이다. <b>영업 판매<\/b>자는 <b>영업<\/b> 사원 근로계약을 통해 일을 한 대가로 회사 규정에 따라 임금을 지급받고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209143926593_4PRZJGREC.jpg\/ba17_4781.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>사원근로계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3333316&cid=51373&categoryId=51373",
+			"description":" <b>영업판매<\/b>를 하는 <b>영업<\/b>사원을 채용할 때 사용하는 계약서 서식.  <b>영업<\/b> 사원 근로계약서란 <b>영업 판매<\/b> 현장에서 물품 <b>판매<\/b>를 위해 필요한 근로자가 회사와 맺는 계약서 서식의 일종이다. <b>영업 판매<\/b>자는 <b>영업<\/b> 사원... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209150548754_PGWRB5QKH.jpg\/ba17_15713.jpg?type=m160_160"
+		},
+		{
+			"title":"자동차<b>판매<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3333634&cid=51373&categoryId=51373",
+			"description":"자동차 <b>판매<\/b>계약서란 자동차 회사에서 <b>영업 판매<\/b>원이 고객에게 본 회사의 자동차를 팔 때 이 계약을 유효화 시키기 위해서 작성하는 계약서 서식이다. 계약서의 내용은 차 종류와 비용 지급 등 각 제반 사항들을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209150712444_DJXC3N1TP.jpg\/ba17_16170.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926469&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>영업<\/b>원은 아직 구매 의사가 없는 사람에게 구매를 할 수 있도록 권하여 각종 제품과 서비스를 <b>판매<\/b>한다.현장방문이나 전화, 이메일을 통해 고객과 면담하고 계약조건 등을 협의한다.거래 계약을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>이익",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1584704&cid=50304&categoryId=50304",
+			"description":"참조어 매출원가, 일반관리비, <b>판매<\/b>비 <b>영업<\/b>이익(주)조세통람 매출액 등 <b>영업<\/b>수익으로부터 매출원가, <b>판매<\/b>비와관리비 등의 <b>영업<\/b>비용을 차감한 개념으로서 이것이 흑자이면 <b>영업<\/b>이익이 된다. 외국어 표기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>판매<\/b>활동분석표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831710&cid=42279&categoryId=42279",
+			"description":" 거래처 방문 및 협의사항 등의 <b>영업<\/b>활동 내용을 기재한 문서.  <b>판매<\/b>활동이란 <b>판매<\/b>고와 이윤을 증대하려는 모든 기업 활동을 말하며 주로 <b>영업<\/b>활동을 말한다. <b>판매<\/b>활동 분석표는 <b>판매<\/b><b>영업<\/b> 시 <b>판매<\/b>활동에 대한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128211949202_OPTVNWYNT.jpg\/hb10_4262_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>판매<\/b>원가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1157174&cid=40942&categoryId=31914",
+			"description":"전자는 <b>영업<\/b>비를 <b>판매<\/b>기능 ·<b>판매<\/b>촉진기능 ·배송(配送)기능 ·보관기능 ·집금(集金)기능 등 기능별로 분석하여 각 부문별 <b>영업<\/b>능률의 개선 및 <b>영업<\/b>활동의 관리를 목적으로 한 것이며, 후자는 상품별... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>판매<\/b>효율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=288418&cid=50345&categoryId=50345",
+			"description":"<b>영업<\/b>(<b>판매<\/b>) 활동의 생산성(효율)을 파악하는 지표란 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"자동차<b>영업<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926291&cid=42116&categoryId=42116",
+			"description":"[직업설명] 자동차<b>영업<\/b>원은 자동차 제조회사에서 운영하는 직영 <b>영업<\/b>소나 자동차 대리점에 고용되어 자동차 회사에서 생산된 자동차를 고객에게 <b>판매<\/b>하는 일을 담당한다. 고객이 원하는 차종과 종류를 파악한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>업무대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545525&cid=42279&categoryId=42279",
+			"description":"기업에서 <b>영업<\/b>과 <b>판매<\/b>를 위한 제반 업무를 <b>영업<\/b> 업무이라 하는데, <b>영업<\/b>업무대장이란 <b>영업<\/b>을 담당하는 직원이 이러한 <b>영업<\/b> 업무와 관련한 진행사항 및 해당 내용을 보고하기 위해 작성하는 문서를 말하는데... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182415068_F01PU1OB9.jpg\/hb10_79347_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"광고<b>판매<\/b>관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024480&cid=42117&categoryId=42117",
+			"description":" 신문·잡지·서적과 같은 각종 출판물을 이용한 광고 <b>판매<\/b>에 대한 제반 업무를 기획·총괄하고, 관련 직원의 활동을 총괄 관리·감독한다. [수행직무] 광고<b>판매<\/b>에 따른 구체적인 계획안을 수립한다. 수립된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>점계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925546&cid=42279&categoryId=42279",
+			"description":"<b>영업<\/b>점계약은 제조사의 생산제품을 <b>영업<\/b>점이 <b>판매<\/b>하기로 합의하고, 이에 관한 제반 권리의무 사항을 규정하는 것을 목적으로 한다. <b>영업<\/b>점계약서에는 업무의 범위를 비롯하여 <b>영업<\/b>점 보증금, 대금... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215629595_2MVWNK80X.jpg\/hb10_5890_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>활동대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545526&cid=42279&categoryId=42279",
+			"description":"기업에서 <b>영업<\/b>과 <b>판매<\/b>를 위한 제반 활동을 <b>영업<\/b>활동이라 하는데, <b>영업<\/b>활동대장이란 <b>영업<\/b> 담당 직원이 이러한 <b>영업<\/b>활동과 관련한 진행사항 및 해당 내용을 보고하기 위해 작성하는 문서를 말하는데... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182415225_IXTLZP6BZ.jpg\/hb10_79348_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"임대차량<b>영업<\/b>소장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024482&cid=42117&categoryId=42117",
+			"description":" 임대차량<b>영업<\/b>소의 업무를 총괄하여 관장한다. [수행직무] 임대차량<b>영업<\/b>소에서 수행되는 승용차, 버스 및 기타 차량의 임대 업무를 총괄 관리한다. 임대차량<b>영업<\/b>소 직원의 복무상황을 관리하고 서비스교육을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"월간 <b>판매<\/b>활동 분석표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830620&cid=42279&categoryId=42279",
+			"description":"월간 <b>판매<\/b>활동 분석표는 <b>판매<\/b><b>영업<\/b> 시 <b>판매<\/b>활동에 대한 전반적인 사항을 관리·분석할 때 사용하는 서식으로 요일, 방문지역, 방문목표, 방문실적, 수주건수, 수주금액 등으로 구성되어 있다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128203451875_BY97LD1NB.jpg\/hb10_3166_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b> 사업계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830515&cid=42279&categoryId=42279",
+			"description":"회사 차원에서 전사적으로 계획을 수립하는 경우도 있으며 <b>영업<\/b>과 <b>판매<\/b>를 주관하는 부서에서 계획을 수립할 수 있는 주요 업무로는 중단기 사업계획의 수립 및 이동<b>판매<\/b>, 수금계획수립, <b>영업<\/b>실적 분석 및 관리... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20210917140137384_DQK809IHR.jpg\/hb10_3061_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>매뉴얼",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2780829&cid=51373&categoryId=51373",
+			"description":" <b>영업<\/b> 관리 규정을 명시한 문서.  <b>영업<\/b> 운영 및 관리에 필요한 절차 및 방침을 규정한 문서를 <b>영업<\/b>매뉴얼이라 한다. 이는 효율적인 <b>영업<\/b> 업무 수행을 위해 <b>영업<\/b> 담당자라면 숙지해야 할 필수 사항이며 생산성... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508202238681_C7IQL0IX6.jpg\/ba17_6722_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>문서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830520&cid=42279&categoryId=42279",
+			"description":" <b>영업<\/b>문서란 기업에서 이익창출을 목적으로 다른 기업이나 고객들을 대상으로 하여 상호간의 거래 내용을 효율적으로 관리하기 위해 작성하는 문서이다. [<b>영업<\/b>문서의 개요] 1) <b>영업<\/b>문서의 정의 <b>영업<\/b>문서란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128203037035_6RZL047S9.jpg\/hb10_3066_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>판매<\/b>계획표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831686&cid=42279&categoryId=42279",
+			"description":"<b>영업<\/b>하기에 앞서 목표에 대한 면밀한 분석이 필요한데, 상품에 대한 <b>판매<\/b>계획표를 작성하면 작년 대비 어느 정도의 성과를 이루어야 할지 기준을 세울 수 있을 것이다. 실적은 월간이 될 수도 있고, 연간이 될... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128211852343_FSRAZREUB.jpg\/hb10_4238_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"도원의 독자적인 <b>판매<\/b>방식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1741743&cid=49211&categoryId=49211",
+			"description":"시전은 상인들의 동업조합인 도중과 <b>판매<\/b><b>영업<\/b>조직을 크게 구분된다. 도원은 도중의 규약을 준수하고 도중의 경비를 납부하는 의무를 지녔지만 도원들의 <b>영업<\/b>행위는 도중에 의해 일일이 간섭받지 않고 완전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>판매<\/b>집계표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2050021&cid=42279&categoryId=42279",
+			"description":" 물건의 <b>판매<\/b> 내역과 <b>판매<\/b>액을 총 집계하여 기록한 서식.  <b>판매<\/b>집계표는 <b>판매<\/b>에 대한 내역을 총체적으로 정리하여 기록할 수 있는 서식이다. <b>판매<\/b>집계표를 작성할 때는 각 <b>판매<\/b> 내역을 사실에 근거하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129013458561_9A1DQ1DVG.jpg\/hb10_13744_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>판매<\/b>원가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=288414&cid=50304&categoryId=50304",
+			"description":"매상원가(제조원가 또는 매입원가)에 <b>영업<\/b>비 내지는 <b>판매<\/b> 관리비를 더한 것. 매상고에서 <b>판매<\/b>원가를 뺀 것이 <b>영업<\/b>이익이 된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>활동일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2779816&cid=51373&categoryId=51373",
+			"description":"<b>영업<\/b>관리와 <b>판매<\/b>관리를 위해 행하는 제반 활동을 <b>영업<\/b>활동으로 볼 수 있다. 이러한 제반 활동을 이행하고 관리하기 위해 작성되는 문서가 <b>영업<\/b>활동 일지이다. <b>영업<\/b>활동 일지는 방문처, 방문 목적, 접촉자, 소속... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508194901756_UF9WAZIAW.jpg\/ba17_31196_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"자동차<b>영업<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025941&cid=42117&categoryId=42117",
+			"description":" 고객에게 차량에 대한 전문지식과 사양 등 다양한 정보를 제공하고 자동차를 <b>판매<\/b>한다. [수행직무] 고객에게 카탈로그를 제시하면서 차량의 종류, 제원, 성능 등을 설명한다. 소비자가 원하는 차종과 종류를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>업무일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355638&cid=51373&categoryId=51373",
+			"description":"<b>영업<\/b>이란 그 의미가 광범위하여 <b>영업<\/b> 관리 및 <b>판매<\/b> 관리를 위해 행하는 제반 활동을 통 들어 말하기도 한다. 이러한 제반 활동을 이행하고 관리하기 위해 작성되어야 하는 문서가 <b>영업<\/b> 업무 일지이다. <b>영업<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209154140072_23BEVS8MO.jpg\/ba17_895_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"일일<b>영업<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2779829&cid=51373&categoryId=51373",
+			"description":"<b>영업<\/b>관리와 <b>판매<\/b>관리를 위해 행하는 제반 활동을 <b>영업<\/b>활동으로 볼 수 있다. 이러한 제반 활동을 이행하고 관리하기 위해 작성되는 문서가 일일 <b>영업<\/b>일지이다. 일일 <b>영업<\/b>일지는 매출 내역, 지출 내역, 근무자... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508194931074_VBF9NXUHN.jpg\/ba17_31328_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>부업무일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2779812&cid=51373&categoryId=51373",
+			"description":"<b>영업<\/b>관리와 <b>판매<\/b>관리를 위해 행하는 제반 활동을 <b>영업<\/b>활동으로 볼 수 있다. <b>영업<\/b>부에서 이러한 제반 활동을 이행하고 관리하기 위해 작성되는 문서가 <b>영업<\/b>부 업무일지이다. <b>영업<\/b>부 업무일지는 방문처, 방문... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508194856520_XIRZ3R2VF.jpg\/ba17_31191_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"방문<b>판매<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2356446&cid=51373&categoryId=51373",
+			"description":"방문<b>판매<\/b> 장소나 시간, 상담내용을 기록하고 상담일지는 <b>영업<\/b>관리의 기초자료로 사용할 수 있으므로 고객상담내용은 자세히 기록하는 것이 좋다. [작성팁] • 방문<b>판매<\/b>라 함은 재화 또는 용역의 <b>판매<\/b>를 업으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209161209074_L8VYO199T.jpg\/ba17_6357_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"방문<b>판매<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3385719&cid=42107&categoryId=42107",
+			"description":"<b>영업<\/b>소, 대리점, 지점, 출장소 등 명칭에 관계없이 허가받은 고정된 장소에서 3개월 이상 계속 <b>영업<\/b>하지 않으면 방문<b>판매<\/b>법 적용을 받는다. 이 경우 소비자는 계약서를 받은 날부터 14일 안에 계약을 철회할 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>계획안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925398&cid=42279&categoryId=42279",
+			"description":" <b>영업<\/b>활동의 계획을 명시한 문서.  <b>영업<\/b>계획안이란 달성할 <b>영업<\/b> 목표를 계획하고 관리하기 위해 작성하는 문서를 말한다. <b>영업<\/b>계획안은 계획 및 실적 대비를 한 눈에 확인할 수 있고, <b>영업<\/b>계획 및 <b>영업<\/b>방향에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215148699_SGB9L9OPY.jpg\/hb10_5739_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>사원업무일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2779813&cid=51373&categoryId=51373",
+			"description":"<b>영업<\/b>관리와 <b>판매<\/b>관리를 위해 행하는 제반 활동을 <b>영업<\/b>활동으로 볼 수 있다. <b>영업<\/b>사원으로써 이러한 제반 활동을 이행하고 관리하기 위해 작성되는 문서가 <b>영업<\/b>사원 업무일지이다. <b>영업<\/b>사원 업무일지는 방문처... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508194857038_M44BDSGJY.jpg\/ba17_31192_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>일일업무일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2779814&cid=51373&categoryId=51373",
+			"description":"<b>영업<\/b>관리와 <b>판매<\/b>관리를 위해 행하는 제반 활동을 <b>영업<\/b>활동으로 볼 수 있다. 이러한 제반 활동을 이행하고 관리하기 위해 작성되는 문서가 <b>영업<\/b> 일일업무일지이다. <b>영업<\/b> 일일업무일지는 보고 번호, 작성일자... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508194858503_31SRE52MU.jpg\/ba17_31193_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>세",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1127342&cid=40942&categoryId=31841",
+			"description":"<b>영업<\/b>세는 지조(地租) ·가옥세(家屋稅) ·자본이자세 등과 함께 수익세에 속하던 세종(稅種)으로서 물품<b>판매<\/b>업 등의 <b>영업<\/b>에 대하여 과세하는 조세였다. 일반적으로 세원(稅源)은 <b>영업<\/b>수입이고, 납세주체는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>판매<\/b>대리점계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3334161&cid=51373&categoryId=51373",
+			"description":" <b>판매<\/b> 대리점 <b>영업<\/b>을 위해 위탁자와 계약 내용을 작성하는 문서.  대리점은 타인의 명의를 위탁 받아 업무를 대신 수행하는 것으로 일종의 매매대행이라고 볼 수 있다. 대리점을 운영하는 경우 위탁자의 권한에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209144222511_YOMM2ACNH.jpg\/ba17_5858.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>활동현금흐름",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2079858&cid=50305&categoryId=50305",
+			"description":"제품을 만들고 <b>판매<\/b>하는 기업 활동에서 발생하는 현금의 유입과 유출. 회사가 외부자금에 의존하지 않고 <b>영업<\/b>을 유지하고, 빌린 돈을 갚고, 신규투자를 할 수 있는지 살펴볼 수 있는 지표다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>판매<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%8C%90%EB%A7%A4",
+			"description":"<b>판매<\/b>계획 <b>판매<\/b>계획(sales planning)이란 기업경영 계획의 기초가 되는 계획으로서, 장기<b>판매<\/b>계획은 장기경영 계획의 근간이 되고 단기<b>판매<\/b> 계획은 <b>영업<\/b>기간에 있어서 이익계획 달성을 위한 실시계획이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>상담일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2780514&cid=51373&categoryId=51373",
+			"description":"고객이 요구하는 사항과 처리결과를 요약하여 기록하고 <b>영업<\/b> 매출 성과가 나타나면 일일 <b>판매<\/b> 계획과 <b>영업<\/b> 이익 내용을 기재하도록 한다. <b>영업<\/b>의 방법에는 여러 가지가 있을 수 있는데 1:1 면담상담, 방문상담... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508201219965_LGZLWA2GK.jpg\/ba17_3876_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>판매<\/b>계획표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2779025&cid=51373&categoryId=51373",
+			"description":"<b>판매<\/b> 계획표란, <b>판매<\/b> 담당자들이 담당 지역의 수요를 예측하여, <b>영업<\/b>목표를 세워 <b>판매<\/b> 계획을 세우는데 도움을 주는 문서이다. 효율적인 <b>판매<\/b>활동은 정확한 수요 예측과 목표 설정에서 시작된다. <b>판매<\/b> 계획은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508192409991_KT4LN2ZZU.jpg\/ba17_9006_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>비밀",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=638959&cid=42143&categoryId=42143",
+			"description":"공공연히 알려져 있지 않으며, 독립된 경제적 가치를 갖고 있고, 상당한 노력에 의해 비밀로 유지된, 생산방법, <b>판매<\/b>방법 기타 <b>영업<\/b>활동에 유용한 기술상 또는 경영상의 정보. <b>영업<\/b>비밀은 미공개... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>이익",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=300358&cid=43665&categoryId=43665",
+			"description":"참고로 기업의 이익 범위는 다음과 같이 정리된다. * 매출 총이익 = 매출액 - 매출원가 * <b>영업<\/b>이익 = 총이익 - <b>판매<\/b>비 - 일반관리비 * 경상이익 = <b>영업<\/b>이익 + (<b>영업<\/b>외수익 - <b>영업<\/b>외비용) * 당기순",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>팀일일업무일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2779815&cid=51373&categoryId=51373",
+			"description":"<b>영업<\/b>관리와 <b>판매<\/b>관리를 위해 행하는 제반 활동을 <b>영업<\/b>활동으로 볼 수 있다. <b>영업<\/b>팀에서 이러한 제반 활동을 이행하고 관리하기 위해 작성되는 문서가 <b>영업<\/b>팀 일일업무일지이다. <b>영업<\/b>팀 일일업무일지는 보고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508194900891_D4XFLUIXG.jpg\/ba17_31195_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"방문<b>판매<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926527&cid=42116&categoryId=42116",
+			"description":"[직업설명] 방문<b>판매<\/b>원은 가정이나 사업체를 직접 찾아다니면서 고객에게 상품이나 서비스를 홍보하고 <b>판매<\/b>하는 일을 담당한다. 방문<b>판매<\/b>를 담당한 구역의 고객을 직접 방문하여 상품이나 서비스의 특징과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"거래처별 <b>판매<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1827909&cid=42279&categoryId=42279",
+			"description":"<b>영업<\/b> 사원은 <b>판매<\/b>계획을 세우기 전 시장현황과 전망, 목표 시장, 당사의 시장 점유율 등을 고려하여 <b>판매<\/b>량을 정한다. 미리 정한 <b>판매<\/b>계획의 순서를 따르되 세부적인 구성 항목들은 보유한 자료나 과거의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128184732099_KAEI0Y2QU.jpg\/hb10_445_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"거래처별 <b>판매<\/b>계획표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1827910&cid=42279&categoryId=42279",
+			"description":"<b>영업<\/b> 사원은 <b>판매<\/b>계획을 세우기 전 시장현황과 전망, 목표 시장, 당사의 시장 점유율 등을 고려하여 <b>판매<\/b>량을 정한다. 미리 정한 <b>판매<\/b>계획의 순서를 따르되 세부적인 구성 항목들은 보유한 자료나 과거의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128184732208_JB5CNB0X4.jpg\/hb10_446_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>수익",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1127345&cid=40942&categoryId=31914",
+			"description":"제조업에서는 생산활동의 결과로 얻어지는 수익이며, 건설업에서는 완성된 공사대금, 상사에서는 <b>판매<\/b>거래액이 <b>영업<\/b>수익이다. 기업회계원칙에는 “<b>영업<\/b>수익(순매출액)은 상품 등의 <b>판매<\/b> 또는 역무(役務)의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"월간 <b>판매<\/b>활동 분석표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3610980&cid=51373&categoryId=51373",
+			"description":"<b>영업<\/b>과 같은 <b>판매<\/b>활동에는 일정한 목표를 잡고 업무를 진행해야 하는데 일, 월별로 목표금액과 <b>판매<\/b>금액을 기재하여 차액을 비교하여 활동의 성과를 분석한다. <b>판매<\/b>활동 분석표를 작성하면 <b>판매<\/b>활동에 따른... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_7\/20170707143033310_F3F98QW93.jpg\/ba17_12126_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>판매<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831704&cid=42279&categoryId=42279",
+			"description":"<b>판매<\/b>일지는 <b>영업<\/b>소 또는 지사 등 각종 상품에 대한 <b>판매<\/b>내역을 관리하는데 품명, 수량, 원가, <b>판매<\/b>가격, 이율, 지출내역, 가불1, 가불2, 이율총금액, 비고 등으로 구성되어 있다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128211930405_LNGPV7T8D.jpg\/hb10_4256_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"방문<b>판매<\/b>업신고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6512356&cid=51373&categoryId=51373",
+			"description":"방문<b>판매<\/b>업 신고서는 <b>판매<\/b>하고자 하는 장소로 직접 찾아가 방문한 뒤 <b>판매<\/b>하고자 하는 물품을 <b>판매<\/b>하는 <b>영업<\/b>을 신고하기 위한 목적으로 작성하는 신고서이다. 서식 내용은 신고를 하는 신고인의 법인명 및... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015143739823_8FHML3XDV.jpg\/ba17_38761_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"비료<b>판매<\/b>업신고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6512349&cid=51373&categoryId=51373",
+			"description":"비료 <b>판매<\/b>업은 식물의 생장을 촉진하고 토지의 생산력을 높이기 위해 경작지에 뿌리는 영양 물질인 비료를 <b>판매<\/b>하는 <b>영업<\/b>을 신고하기 위한 목적으로 작성하는 신고서이다. 서식 내용은 신고를 하는 신고인의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015143752397_WP9HJSRA3.jpg\/ba17_38771_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>지원사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024628&cid=42117&categoryId=42117",
+			"description":" 기업의 <b>영업<\/b>생산성을 증대할 목적으로 현장<b>영업<\/b>원의 <b>영업<\/b>활동에 관련된 제반 관리업무(유통, 실적, 전산, 서류, 통계, 결산 등)를 수행한다. [수행직무] <b>영업<\/b>전략을 수립하거나 수립된 <b>영업<\/b>전략에 따른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광고<b>영업<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025945&cid=42117&categoryId=42117",
+			"description":" 신문·잡지 등의 출판물의 지면에 수록될 광고의 <b>판매<\/b>를 위한 <b>영업<\/b>을 한다. [수행직무] 광고계획이나 방침에 따라 구체적인 <b>영업<\/b>전략을 수립한다. <b>영업<\/b>전략에 따라 <b>판매<\/b>할 광고에 대한 유망고객 및 가능성 있는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>관리대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3333314&cid=51373&categoryId=51373",
+			"description":"기업은 거래처를 상대로 <b>영업<\/b>활동을 하여 <b>판매<\/b> 수익을 얻어 이익을 챙기는 것이 경영 성과라고 할 수 있다. <b>영업<\/b> 거래처를 유지하기 위해서는 타 업체와 다른 조건이나 전략을 내세워 <b>영업<\/b>활동을 할 수 있도록... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209143137837_W3LZ5JAB0.jpg\/ba17_1875.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>제안서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830535&cid=42279&categoryId=42279",
+			"description":"<b>영업<\/b>제안서는 회사 내부적으로 신규 사업제안 및 <b>영업<\/b>제안의 목적으로 작성하지만, 회사 외부적으로 <b>판매<\/b> 및 마케팅의 수단으로 제품 제안, <b>판매<\/b> 제안, <b>영업<\/b> 제안, 서비스 제안, 기타 제안을 위한 목적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20210715142035589_6D2YB705J.jpg\/hb10_3081_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>손익",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1584698&cid=50304&categoryId=50304",
+			"description":"외국어 표기 operating gain and loss(영어), 營業損益(한자) <b>영업<\/b>손익매일경제 <b>영업<\/b>손익이란 기업이 <b>영업<\/b>활동을 통해 벌어들인 이익으로 매출액에서 <b>판매<\/b> 관리비 등 <b>영업<\/b>비용을 제외한 차액을 말한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"식품<b>영업<\/b>신고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2781577&cid=51373&categoryId=51373",
+			"description":"식품<b>영업<\/b>신고에 해당하는 대상은 식품 제조가공업, 즉석<b>판매<\/b>제조가공업, 식품운반업, 식품 속 분업, 식용 얼음 <b>판매<\/b>업, 식품자동<b>판매<\/b>기 <b>영업<\/b>, 유통 전문<b>판매<\/b>업, 용기 포장류 제",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508204712984_HE64SBETM.jpg\/ba17_26421_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"중고자동차<b>영업<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025942&cid=42117&categoryId=42117",
+			"description":" 개인 고객 또는 법인으로부터 중고차를 매입하고 재<b>판매<\/b>를 위한 상품화 과정 및 마케팅 및 <b>영업<\/b>활동을 통해 중고차를 <b>판매<\/b>한다. [수행직무] 중고차를 매입할 채널을 운영하고 잠재고객을 관리하는 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>판매<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=288413&cid=50304&categoryId=50304",
+			"description":"마케팅 매니지먼트 (marketing management)의 영역인 <b>판매<\/b> 부분,<b>영업<\/b> 부문의 관리 활동. 기업이 상품 <b>판매<\/b>를 효율적으로 높이기 위하여 행하는 일련의 체계적 활동을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>관리절차서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925400&cid=42279&categoryId=42279",
+			"description":"<b>영업<\/b>관리절차서란 <b>판매<\/b>활동에 따른 사무처리의 기준 및 절차를 규정한 문서로서, 합리적인 업무를 운용과 함께 고객의 제반 요구사항을 만족하게 하는데 목적이 있다. <b>영업<\/b>관리절차서는 <b>영업<\/b>에서 발생하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129015444338_ASZESK7AI.jpg\/hb10_5741_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>활동현금흐름",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1199688&cid=40942&categoryId=31914",
+			"description":"손익계산서상 매출, 매출원가, 종업원 급여, 기타 <b>영업<\/b>관련비용(<b>판매<\/b>비와 관리비 등)이 <b>영업<\/b>활동으로 인해 발생하는 수익과 비용에 해당하며, 이러한 거래 및 사건들로 인해 발생하는 현금흐름이 <b>영업<\/b>활동... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일일 <b>영업<\/b>관리대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2776849&cid=51373&categoryId=51373",
+			"description":" <b>영업<\/b> 거래처를 관리하기 위해 일별로 거래 내용을 작성하는 문서.  기업은 거래처를 상대로 <b>영업<\/b>활동을 하여 <b>판매<\/b> 수익을 얻어 이익을 챙기는 것이 경영 성과라고 할 수 있다. <b>영업<\/b> 거래처를 유지하기 위해서는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508181318903_GSSAFUS3G.jpg\/ba17_5882_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b> 수익",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6064535&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 일반적으로 순매출액이 이에 해당한다. 제조업에서는 생산활동의 결과로 얻어지는 수익이며, 건설업에서는 완성된 공사대금, 상사에서는 <b>판매<\/b>거래액이 <b>영업<\/b>수익이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>매출계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925488&cid=42279&categoryId=42279",
+			"description":" <b>영업<\/b> 담당자들이 매출계획을 세울 때 사용하는 문서.  <b>영업<\/b>매출계획서란 <b>영업<\/b> 담당자들이 전월 매출 실적과 비교하여 당월 매출 목표를 수립하기 위해 작성하는 문서를 말한다. <b>영업<\/b>매출계획서는 전월의 매출... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215437593_2VDA79CYX.jpg\/hb10_5831_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"제품<b>판매<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831109&cid=42279&categoryId=42279",
+			"description":"제품 <b>판매<\/b>일지는 <b>영업<\/b>소 또는 지사 등 각종 상품에 대한 <b>판매<\/b>내역을 관리하는데 일자, <b>판매<\/b>처, 상품명, 상품평, 수량, 단가, 금액, 비고 등으로 구성되어 있다. 제품 <b>판매<\/b>일지는 각 <b>판매<\/b>처별 <b>판매<\/b>내역을 확인할 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128205513644_Z3YCONVXG.jpg\/hb10_3656_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>이익경비율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3340140&cid=43667&categoryId=43667",
+			"description":" 금융회사의 인건비, 전산비, 임대료 등을 포함한 <b>판매<\/b>관리비를 <b>영업<\/b>이익으로 나눈 비율.  | 외국어 표기 | Cost Income Ratio(영어) 營業利益經費率(한자) | | 약어 | CIR | 금융회사가 인건비, 전산비, 임대료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>대리점계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925483&cid=42279&categoryId=42279",
+			"description":"목적물 및 방법 3. <b>영업<\/b>장소 4. <b>판매<\/b>가격 5. 상품의 인도 및 수송 6. 대금의 결재 7. <b>영업<\/b>활동 8. 지원 9. 교육 및 기술이전 10. 저작권 11. 계약의 해지 및 종료 12. 관할법원 13. 유효기간 14. 보완사항",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128230520314_CL3IE1TC6.jpg\/hb10_5826_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"건축자재<b>영업<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025943&cid=42117&categoryId=42117",
+			"description":" 각종 건축자재나 인테리어 재료를 <b>판매<\/b>하기 위한 <b>영업<\/b>을 한다. [수행직무] 건축현장의 현장소장, 건축회사의 자재 담당자, 건축설계사 사무소 등 건축자재(합판, 타일, 창호, 양변기, 황토벽돌, 조명, 유리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"주간 <b>판매<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831138&cid=42279&categoryId=42279",
+			"description":"<b>판매<\/b>일지는 <b>영업<\/b>소 또는 지사 등 각종 상품에 대한 <b>판매<\/b>내역을 관리하는데 <b>판매<\/b>일자, <b>판매<\/b>처, 상품명, 수량, 단가, 매출금액 등으로 구성되어 있다. 주간 <b>판매<\/b>일지는 각 <b>판매<\/b>처별 <b>판매<\/b>내역을 확인할 수 있고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128205626133_RAAF0NBM0.jpg\/hb10_3685_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"신<b>판매<\/b>채널",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1987669&cid=42088&categoryId=42088",
+			"description":"보험업법 등 관련법규에서는 신<b>판매<\/b>채널의 <b>영업<\/b>활동에 대하여 규제하고 있는데, 이에 의하면 우편·전화·인터넷 등을 이용하여 보험상품을 <b>판매<\/b>할 수 있는 자는 보험업법상 모집할 수 있는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일일 <b>판매<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830776&cid=42279&categoryId=42279",
+			"description":"<b>판매<\/b>일지는 <b>영업<\/b>소 또는 지사 등에서 각종 상품에 대한 <b>판매<\/b>내역을 관리하기 위해 사용하며 상품명, 수량, 가격, <b>판매<\/b>대상, 만족도, 합계, 비고 등으로 구성된다. 일일<b>판매<\/b>일지는 각 <b>판매<\/b>처별 <b>판매<\/b>내역을 확인할... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128204106861_WB5FTOC3U.jpg\/hb10_3323_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"신문<b>판매<\/b>국장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024375&cid=42117&categoryId=42117",
+			"description":"신문<b>판매<\/b>에 대한 <b>영업<\/b>계획을 평가하여 개선방안 및 대책을 수립한다. 신문<b>판매<\/b>를 담당하는 지국의 <b>영업<\/b>실적을 총괄 관리한다. 지국의 실적증대 및 애로점 해결을 위한 대책을 수립하도록 지국관리사무원에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"KT＆G울릉<b>영업<\/b>지점 (울릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2616869&cid=51936&categoryId=54504",
+			"description":"한편, 경상북도 울릉군에서는 1927년 12월 16일에 조선연초매팔회사(朝鮮煙草賣捌會社)가 <b>영업<\/b>소를 설치하여 연초 <b>판매<\/b>를 시작하였으며, 1931년에는 대구전매국에서 직접 울릉도<b>판매<\/b>소를 설치하고 연초... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>영업<\/b>상담일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925497&cid=42279&categoryId=42279",
+			"description":"<b>영업<\/b>상담일보란 상품 <b>판매<\/b>나 서비스 제공 등 각종 <b>영업<\/b> 활동에 관련해 고객과 상담한 내용을 기록한 문서를 말한다. <b>영업<\/b>상담일보에는 상담 일자와 함께 <b>영업<\/b> 담당자의 인적 사항을 간략하게 기재한다. 또... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215459142_LKQEI2AI6.jpg\/hb10_5841_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>상담일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925498&cid=42279&categoryId=42279",
+			"description":"<b>영업<\/b>상담일지란 상품 <b>판매<\/b>나 서비스 제공 등 각종 <b>영업<\/b> 활동에 관련해 고객과 상담한 내용을 기록한 문서를 말한다. <b>영업<\/b>상담일지에는 상담 일자와 함께 <b>영업<\/b> 담당자의 인적 사항을 간략하게 기재한다. 또... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215504360_WUJGRGSIC.jpg\/hb10_5842_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>이익",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062091&cid=42107&categoryId=42107",
+			"description":"매출액에서 매출원가를 빼고 얻은 매출 총이익에서 다시 일반관리비와 <b>판매<\/b>비를 뺀 것이 <b>영업<\/b>이익이다. 말 그대로 기업의 주된 <b>영업<\/b>활동으로 발생한 이익을 말한다. 이때 일반관리비와 <b>판매<\/b>비는 상품의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"월간 생산<b>판매<\/b> 재고계획표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3380095&cid=51373&categoryId=51373",
+			"description":"생산, <b>판매<\/b>, 재고는 제품의 <b>판매<\/b>로 <b>영업<\/b>적 이윤을 취하는 기업에게 있어서 매우 중요한 사항이다. 소비시장의 수요량에 따라 충분한 공급이 이루어져야 최대의 이윤을 남길 수 있으므로 항상 치밀한 관리가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503115751832_W41P98GZ4.jpg\/ba17_7757_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"쇼핑몰 <b>영업<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3380255&cid=51373&categoryId=51373",
+			"description":" 쇼핑몰의 <b>영업<\/b> 계획을 상세하게 기재한 문서.  쇼핑몰 <b>영업<\/b>이란 이윤을 목적으로 쇼핑몰을 운영하는 행위를 말한다. <b>판매<\/b>, 마케팅, 유통 등 쇼핑몰과 관련된 전반적인 행위를 통괄하는 말이다. 계획서는 어떠한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503115936620_C7QNL6X2C.jpg\/ba17_9414_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>비밀서약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925493&cid=42279&categoryId=42279",
+			"description":"<b>영업<\/b>비밀서약서에는 제품의 생산방법 등 기술비밀에 관한 사항과 상품의 <b>판매<\/b>방법 등 <b>영업<\/b>비밀에 관한 사항, 사업계획 및 연구·개발계획에 관한 비밀사항 등을 누설하지 않겠다는 내용을 명시한다. 그 밖에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_18\/20220722135621885_TY95CKXRX.png\/hb10_5836_i1.png?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>현황표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830537&cid=42279&categoryId=42279",
+			"description":"회사는 매월 일정기간 동안 상대 거래처와의 물품<b>판매<\/b> 행위 이후에는 <b>영업<\/b> 결제자금을 현금결제로 수수하지 못하는 경우 미수금처리를 하게 된다. 매월 <b>영업<\/b>현황 및 자금 수급 현황을 알 수 있는데 도움이 되는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128203128346_1I7OITQE9.jpg\/hb10_3083_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1619284&cid=50304&categoryId=50304",
+			"description":"보통 <b>판매<\/b>비 및 일반관리비를 <b>영업<\/b>비라 한다. 내용으로는 급료와 임금·제수당·복리후생비·교통비·광고선전비·잡비 등이 있고 제조원가, <b>영업<\/b>외비용 및 특별손실과 구분 파악되어야 한다. <b>영업<\/b>비회계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제약<b>영업<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025937&cid=42117&categoryId=42117",
+			"description":" 병원, 약국 등 거래처를 방문하여 제품을 상담하고, 주문을 받아 거래를 성사시키는 업무를 한다. [수행직무] 회사의 계획이나 방침에 따라 <b>영업<\/b>전략을 수립한다. 거래처 방문계획을 세우고, 활동 후에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"오토바이<b>판매<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025988&cid=42117&categoryId=42117",
+			"description":" 각 오토바이 제조회사로부터 상품을 확보하여 진열, 관리, <b>판매<\/b>한다. [수행직무] 제조회사별 신차 또는 중고 오토바이를 확보하여 진열한다. 소비자가 통신 또는 방문을 통하여 구매하고자 하면 제조회사별... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일일 상품 <b>판매<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830757&cid=42279&categoryId=42279",
+			"description":"<b>판매<\/b>일지는 <b>영업<\/b>소 또는 지사 등에서 각종 상품에 대한 <b>판매<\/b>내역을 관리하는데 사용하며 구입처, 상품명, 수량, 단가, <b>판매<\/b>금액, 상품평 등을 기재하도록 구성된다. 일일상품<b>판매<\/b>일지는 각 <b>판매<\/b>처별 <b>판매<\/b>내역을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128204037698_12KPRQI35.jpg\/hb10_3304_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"담배회사와 <b>판매<\/b>업자에 대한 규제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=67162&cid=43667&categoryId=43667",
+			"description":"담배를 <b>판매<\/b>하는 <b>영업<\/b>소에서는 담배 자판기를 설치할 수 있음 ㆍ담배 자판기에는 성인인증장치를 부착하고 담배 자판기를 이용하여 담배를 구매하기 위해서는 주민등록증 또는 운전면허증을 소지하거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"상품 일일 <b>판매<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1829878&cid=42279&categoryId=42279",
+			"description":"<b>판매<\/b>일지는 <b>영업<\/b>소 또는 지사 등 각종 상품에 대한 <b>판매<\/b>내역을 관리하는데 <b>판매<\/b>일자, 상품명, 수량, 단가, 금액, 상품평, 비고 등으로 구성되어 있다. 상품 일일 <b>판매<\/b>일지(상품평 포함)는 각 상품별 <b>판매<\/b>내역을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128200517214_JOGUIEZKW.jpg\/hb10_2422_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"방송광고 <b>판매<\/b>대행 사건",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%A9%EC%86%A1%EA%B4%91%EA%B3%A0_%ED%8C%90%EB%A7%A4%EB%8C%80%ED%96%89_%EC%82%AC%EA%B1%B4",
+			"description":"그리고 1999년 말 이러한 의견들을 반영하여 한국방송광고공사(KOBACO)의 방송광고 독점대행제도를 폐지하고, 새 미디어렙을 설치하며, 방송사의 직접 광고<b>영업<\/b>과 미디어렙에 대한 방송사의 출자를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>판매<\/b>전략보고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355925&cid=51373&categoryId=51373",
+			"description":" <b>영업<\/b>활동을 위해 목표 및 전략을 작성하는 문서.  전략이란 설정된 목표를 달성하기 위해 최적의 계획이나 방법을 말한다. <b>판매<\/b>전략이란 <b>판매<\/b>목표에 따른 최적의 계획이나 방법을 말한다. <b>판매<\/b>전략보고서란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209155232425_MNPOJGSEV.jpg\/ba17_2237_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>영업<\/b>이익",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6461138&cid=58453&categoryId=58453",
+			"description":"[정의] 매출액 등 <b>영업<\/b>수익에서 매출원가 및 <b>판매<\/b>비와 관리비 등의 <b>영업<\/b>비용을 차감한 금액을 말한다. [해설] <b>영업<\/b>이익=매출액-<b>영업<\/b>비용",
+			"thumbnail":""
+		}
+	]
+}

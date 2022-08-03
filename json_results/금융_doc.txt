@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:00 +0900",
+	"total":303904,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>금융<\/b>동향",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1025",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>공학연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=8742",
+			"description":""
+		},
+		{
+			"title":"보험<b>금융<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2611071",
+			"description":""
+		},
+		{
+			"title":"주간 <b>금융<\/b> 브리프",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=503596",
+			"description":""
+		},
+		{
+			"title":"한국<b>금융<\/b>법학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1031",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>지식연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1563217",
+			"description":""
+		},
+		{
+			"title":"호연망<b>금융<\/b>조해“장미”소미기업융자난문제연구 (互联网金融助解“长",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=715736776",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>정책대<b>금융<\/b>위궤적향응——굉관심신정책광가적형성배경、내재라집",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=740903326",
+			"description":""
+		},
+		{
+			"title":"증권·<b>금융<\/b>저널",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=65861",
+			"description":""
+		},
+		{
+			"title":"공간율결구、수평화<b>금융<\/b>온정——이륜분석광가화중국경험 (杠杆率结构",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=725537742",
+			"description":""
+		},
+		{
+			"title":"정부간예、법치、<b>금융<\/b>발전여국유기업은행대관 (政府干预、法治、金融",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=685040214",
+			"description":""
+		},
+		{
+			"title":"중소기업융자약속완해：<b>금융<\/b>발전수평중요억혹<b>금융<\/b>결구중요？——내자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=695322314",
+			"description":""
+		},
+		{
+			"title":"보혜<b>금융<\/b>、수입분배화빈곤감완——추진효율화공평적정책광가선역 (普",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=674262798",
+			"description":""
+		},
+		{
+			"title":"KIF <b>금융<\/b>리포트",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2174177",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>조사보고서 (종간)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=222999",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>투자",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2688217",
+			"description":""
+		},
+		{
+			"title":"“실업＋<b>금융<\/b>”적산융결합모식여기업투자효율——기우중국상시공사공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=706296392",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>조배、소유제결구여자본회보율：내자1999～2007년아국공업기업적연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=681113629",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>위궤충격、재무유성저비화기업융자행위——내자중국상시공사적경",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=737203567",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>지지대상업보험참여적영향——내자중국가정<b>금융<\/b>조사(CHFS)수거적실",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=724402053",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>발전、대외개방여성향거민수입차거——기우1978—2008년성제면판수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=743905734",
+			"description":""
+		},
+		{
+			"title":"다문화가족을 위한 <b>금융<\/b>교육 활성화 방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650607538",
+			"description":"  표제지\n국문초록\n목차\nI. 서론 10\n 1. 연구의 배경 10\n 2. 연구의 목적 13\n 3. 연구의 방법 및 구성 14\nII. 이"
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3227147",
+			"description":""
+		},
+		{
+			"title":"사회양로보험여아국거민가정풍험<b>금융<\/b>자산투자——내자중국가정<b>금융<\/b>조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=702645659",
+			"description":""
+		},
+		{
+			"title":"“실체+<b>금융<\/b>”:융자약속、정책영합선시시장경쟁？——기우부동산권성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=697653103",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>발전、미관기업창신산출여경제증장——기우상시공사단리시각적실",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=714267306",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>소유제기시、소유제결구여창신산출——내자중국지구공업부문적증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=740987035",
+			"description":""
+		},
+		{
+			"title":"도덕풍험、감독결구여농촌융자궤제설계——겸논아국농촌<b>금융<\/b>체계개혁",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=654583056",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>발전、자산포말여실체경제: 일개문헌종술 (金融发展、资产泡沫与",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=723428970",
+			"description":""
+		},
+		{
+			"title":"기우공간모형적<b>금융<\/b>지지여경제증장연구——내자중국성역1998～2008년적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=655660298",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>가급성、호연망<b>금융<\/b>화가정신대약속——기우CHFS수거적실증연구 (金",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=672878304",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>소비자연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2170179",
+			"description":""
+		},
+		{
+			"title":"외상직접투자、<b>금융<\/b>발전여지구자본배치효율——내자성급공업행업수거",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=686736420",
+			"description":""
+		},
+		{
+			"title":"가정인구결구여가정상업인신보험수구——기우중국가정<b>금융<\/b>조사(CHFS)수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=708680318",
+			"description":""
+		},
+		{
+			"title":"중국<b>금융<\/b>주기:지표、방법화실증 (中国金融周期:指标、方法和实证)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=672213081",
+			"description":""
+		},
+		{
+			"title":"창신“<b>금융<\/b>＋” 실시정준부빈——당전아국<b>금융<\/b>부빈적난점급대책 (创新",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=696872993",
+			"description":""
+		},
+		{
+			"title":"주방재부、<b>금융<\/b>시장참여화가정자산조합선역——내자중국성시적증거 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=697067899",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>규제개혁과 <b>금융<\/b>소비자 보호",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=38940383",
+			"description":"Financial Regulatory Reform and Consumer Financial Protection After the financial crisis of 2008, it has been an issue of hot debate ho"
+		},
+		{
+			"title":"Determinants of stock market comovements among US and emerging economies during the US financial",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=731753859",
+			"description":"Determinants of stock market comovements among US and emerging economies during the US financial crisis   Volatility (finance), TED spr"
+		},
+		{
+			"title":"<b>금융<\/b>법적“삼족정리”급중국<b>금융<\/b>법제적변혁 (金融法的“三足定理”及",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=731906777",
+			"description":""
+		},
+		{
+			"title":"아국농촌<b>금융<\/b>발전여반빈곤적효：기우2003—2010년적경험증거 (我国农村",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=703305390",
+			"description":""
+		},
+		{
+			"title":"제도질량화국제<b>금융<\/b>궤구여하영향PPP항목적성효——기우“일대일로”46",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=727418763",
+			"description":""
+		},
+		{
+			"title":"심도학습적<b>금융<\/b>실증응용:동태、공헌여전망 (深度学习的金融实证应用:",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=716993565",
+			"description":""
+		},
+		{
+			"title":"시장호연、풍험일출여<b>금융<\/b>온정: 기우고표시장여채권시장일출효응분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=748414165",
+			"description":""
+		},
+		{
+			"title":"한국 사회적<b>금융<\/b>의 발전 방향에 관한 연구 : 공공부문 사회적<b>금융<\/b> 지원 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650606843",
+			"description":"  표제지\n목차\n국문초록 9\n제1장 서론 11\n 제1절 연구의 배경 및 목적 11\n 제2절 연구범위 및 방법 13\n제2장"
+		},
+		{
+			"title":"시체、회귀급예조：구역<b>금융<\/b>발전여경제증장적실증연구 (时滞、回归及",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=665698475",
+			"description":""
+		},
+		{
+			"title":"아국<b>금융<\/b>시장종“궤구감관”도“공능감관”적법률로경——이<b>금융<\/b>이재",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=738377492",
+			"description":""
+		},
+		{
+			"title":"사회적 자본의 지각이 지식활동에 미치는 영향에 관한 연구 : <b>금융<\/b>기관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12470016",
+			"description":"A Study on the Impact of Social Capital Perception on Knowledge Activities by Financial Institutions 본 연구는 <b>금융<\/b>기관 종업"
+		},
+		{
+			"title":"<b>금융<\/b>마찰、은행정자산여국제경제위궤전도——기우다부문DSGE모형분석 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=698341104",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>발전、신대행위여신대효율——기우아국성시상업은행적실증연구 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=703077413",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>정보연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2687309",
+			"description":""
+		},
+		{
+			"title":"노령화、인구천이、<b>금융<\/b>공간여경제장주기 (老龄化、人口迁移、金融杠",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=721354458",
+			"description":""
+		},
+		{
+			"title":"사회호동대가정상업보험참여적영향——내자중국가정<b>금융<\/b>조사(CHFS)수거",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=654071753",
+			"description":""
+		},
+		{
+			"title":"블록체인을 활용한 ICO의 이해와 <b>금융<\/b>법상 쟁점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562462186",
+			"description":"Understanding of ICO using Blockchain and Issues in Financial Law 최근 개발 초기단계의 프로젝트를 수행하기 위한 자"
+		},
+		{
+			"title":"<b>금융<\/b>시장적“천투식”감관논강 (金融市场的“穿透式”监管论纲)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=699467346",
+			"description":""
+		},
+		{
+			"title":"사회호동、신식거도여가정고시참여——기우2011년중국가정<b>금융<\/b>조사적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=702231879",
+			"description":""
+		},
+		{
+			"title":"“농업개치연＋호연망<b>금융<\/b>”적창신모식연구——이농부대화경농대위례",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=724575439",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b> VIP 시리즈",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=899526",
+			"description":""
+		},
+		{
+			"title":"사회자본、비정규<b>금융<\/b>여산업집군발전——절강경험연구 (社会资本、非",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=680758247",
+			"description":""
+		},
+		{
+			"title":"《물권법》적실시여공응연<b>금융<\/b>——내자응수장관질압융자적경험증거 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=706775342",
+			"description":""
+		},
+		{
+			"title":"과지상시공사구유교저적권익자본성본마？——기우“법여<b>금융<\/b>”적시각",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=684538396",
+			"description":""
+		},
+		{
+			"title":"1997년 <b>금융<\/b>위기를 전후로 한 한국기업의 경영투명성 변화 : 재무분석가 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11390393",
+			"description":"The Change in Corporate Transparency Around Financial Crisis: Analysis Using Analysts’ Earnings Forecast Data 본 연구는 IBES 데"
+		},
+		{
+			"title":"국제<b>금융<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2611102",
+			"description":""
+		},
+		{
+			"title":"국제<b>금융<\/b>위궤대아국출구무역적영향——기우2007～2008년월도수거적실증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=655474906",
+			"description":""
+		},
+		{
+			"title":"외환위기 이후 국내외<b>금융<\/b>시장의 상호연관성분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289834728",
+			"description":"Analysis of Interrelationship between Domestic and Foreign Financial Markets After the 1997 Currency Crisis 본 연구는 자본이동"
+		},
+		{
+			"title":"“신상태”하농촌<b>금융<\/b>제도창신：관거문제여로경선역 (“新常态”下农",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=698145183",
+			"description":""
+		},
+		{
+			"title":"방지산투자여<b>금융<\/b>효율——<b>금융<\/b>자원“탈실향허”적지구차리 (房地产投",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=695065825",
+			"description":""
+		},
+		{
+			"title":"대학생의 주관적 <b>금융<\/b>이해력과 <b>금융<\/b>상품 구매태도 및 <b>금융<\/b>기관 서비스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898513265",
+			"description":"A Study on the Relationship between the Subjective Financial Literacy of Undergraduate Students and Their Perception of Financial Produ"
+		},
+		{
+			"title":"아국구역녹색<b>금융<\/b>발전적거조、문제여대책——기우성급정책분석적시각",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=728637971",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>신대시부중국방지산、고표가격포말화파동적원인——기우유향무환",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=749862119",
+			"description":""
+		},
+		{
+			"title":"사회적<b>금융<\/b>의 현황과 한국에서의 발전방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58317066",
+			"description":"The Mechanism of Social Finance and Its Implications for Social Economy in Korea 최근 사회적경제 부문에 대한 관심이 학"
+		},
+		{
+			"title":"<b>금융<\/b>발전대경제증장적촉진작용급기지속성연구——기우영미、덕국、법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=691996958",
+			"description":""
+		},
+		{
+			"title":"북한 이탈주민의 <b>금융<\/b>생활 정착 : 문제점과 개선 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562354119",
+			"description":"  목차\n북한 이탈주민의 <b>금융<\/b>생활 정착 : 문제점과 개선 방안 \/ 정은찬 1\n I. 머리말 1\n II. 북한 이탈주민"
+		},
+		{
+			"title":"기업지배구조가 기업가치에 미치는 영향에 있어 일반기업과 <b>금융<\/b>기관 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420379046",
+			"description":"How different is the effect of corporate governance of financial institutions on corporate value? A comparison with manufacturing compa"
+		},
+		{
+			"title":"가정환경, 학생특성, <b>금융<\/b>교육 경험에 따른 중학생의 <b>금융<\/b>이해력 차이검",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78373665",
+			"description":"A Study on the Developing Financial Literacy in Middle School 본 연구는 중학생의 <b>금융<\/b>이해력 수준에 어떤 차이가 있"
+		},
+		{
+			"title":"국제<b>금융<\/b>위험관리",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=912",
+			"description":""
+		},
+		{
+			"title":"연구논문 : <b>금융<\/b> 서비스의 지각된 전반적 품질에 미치는 영향 요인 및 성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78355068",
+			"description":"A Study on Factors Influencing Perceived Overall Quality and Performance in Financial Services 자본시장통합법이 본격적으로"
+		},
+		{
+			"title":"기우직업도향적“과증융합”인재배양모식실천여사고——이절강<b>금융<\/b>직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=671892275",
+			"description":""
+		},
+		{
+			"title":"중국 <b>금융<\/b>시장 포커스",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=904378",
+			"description":""
+		},
+		{
+			"title":"공고권성질、IPO여은행신대자원배치——기우<b>금융<\/b>발전환경적분석 (控股",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=686894457",
+			"description":""
+		},
+		{
+			"title":"건전한 <b>금융<\/b>회사 지배구조의 원칙과 운용방안 - <b>금융<\/b>회사의 지배구조에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=175283818",
+			"description":"A Study for Enhancing Financial Companies Governance in Korea - in relation to Governance Act for the Financial Companies 회사지배"
+		},
+		{
+			"title":"호연망<b>금융<\/b>배경하“교원대”적조사여사고——이온주고교대학생위례 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=695422553",
+			"description":""
+		},
+		{
+			"title":"유동성충격、화폐정책실오여<b>금융<\/b>위궤——대미국<b>금융<\/b>위궤적반사 (流动",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=660160732",
+			"description":""
+		},
+		{
+			"title":"농촌<b>금융<\/b>개혁：반사、편차여로경교정 (农村金融改革：反思、偏差与路",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=729232938",
+			"description":""
+		},
+		{
+			"title":"신대황장、감관조배여<b>금융<\/b>위궤：과국실증 (信贷扩张、监管错配与金融",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=676646958",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>발전、직업선역여기업가정신——내자미관조사적증거 (金融发展、",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=700639049",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>발전、인력자본투입여축소성향수입차거——기우중국서부지구40개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=698097462",
+			"description":""
+		},
+		{
+			"title":"외부융자의뢰、<b>금융<\/b>발전여경제증장：내자비상시기업적증거 (外部融资",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=669566257",
+			"description":""
+		},
+		{
+			"title":"IT산업이 <b>금융<\/b>서비스에 미치는 경제적 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=128448420",
+			"description":"Economy Effects of IT Industry on Financial and Insurance Services <b>금융<\/b>서비스에서 IT산업은 운영을 위한 기반산업이"
+		},
+		{
+			"title":"<b>금융<\/b> 이해력 향상을 위한 경험중심 경제교육 -미국 고등학교 <b>금융<\/b>교육 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153670214",
+			"description":"Experience-based Economic Education for Financial Literacy -a case study of a high school classroom in the United States- 본 연구는"
+		},
+		{
+			"title":"호연망<b>금융<\/b>배경하적《김융학》과정개혁탐석 (互联网金融背景下的《金",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=708013909",
+			"description":""
+		},
+		{
+			"title":"보혜<b>금융<\/b>、<b>금융<\/b>복무균형화여구역경제발전——기우중국성제면판수거모",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=702354622",
+			"description":""
+		},
+		{
+			"title":"공사명칭、투자자인지여공사개치——기우공사명칭평개지표체계적행위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722735911",
+			"description":""
+		},
+		{
+			"title":"과기<b>금융<\/b>：이론적창신여현실적호환——평조창문등저《과기<b>금융<\/b>》일서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=672689147",
+			"description":""
+		},
+		{
+			"title":"한국과 일본의 <b>금융<\/b>교육 비교연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61703450",
+			"description":"A Comparative Study On Financial Education Between Korea and Japan 2008년을 전후하여 한국과 일본은 국가수준의 교육"
+		},
+		{
+			"title":"국제<b>금융<\/b>제도 개혁과 중견국가 : G20의 역할을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41614143",
+			"description":"Middle Powers, G20, and Reform of the International Financial Architecture 이 논문은 국제<b>금융<\/b>제도 내에서 중견국가의 "
+		},
+		{
+			"title":"호연망<b>금융<\/b>，전통은행적굴묘자？——종P2P열기 (互联网金融，传统银行",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=696076536",
+			"description":""
+		},
+		{
+			"title":"<b>금융<\/b>기관 서비스품질과 고객만족에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13597468",
+			"description":"A Study on financial institution's quality of service and customer satisfaction <b>금융<\/b>자유화와 개방화를 통한 외국 <b>금융<\/b>기"
+		},
+		{
+			"title":"미국 <b>금융<\/b>위기가 한국 주가지수선물시장과 외환시장에 미친 영향에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47042663",
+			"description":"An Empirical Study on the Effects between the KOSPI 200 Futures Market and U.S. Dollar Exchange Market Around the International Financi"
+		},
+		{
+			"title":"글로벌 <b>금융<\/b>위기와 <b>금융<\/b>주도 자본주의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41696979",
+			"description":"The Global Financial Crisis and Finance-led Capitalism 본 연구에서는 1980년대 신자유주의시대의 도래 이후 진행되"
+		}
+	]
+}

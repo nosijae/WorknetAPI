@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:26 +0900",
+	"total":675,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"진안군<b>의료<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%84%EC%95%88%EA%B5%B0%EC%9D%98%EB%A3%8C%EC%9B%90",
+			"description":"01 : 진안군<b>의료<\/b>원 원장 <b>직무<\/b>대리 (職務代理) 조준열 취임 10.01 : 진안군<b>의료<\/b>원 소아청소년과 신설 (10개과 운영) 06.03 : 진안군<b>의료<\/b>원 건강검진기관 지정 05.29 : 진안군<b>의료<\/b>원 성폭력피해자 전담... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>장비기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028337&cid=42117&categoryId=42117",
+			"description":" 환자의 진료에 사용되는 <b>의료<\/b>장비를 설치하거나 보수·유지하고 장비의 기능을 개선한다. [수행<b>직무<\/b>] <b>의료<\/b>장비를 적절한 장소에 설치한다. <b>의료<\/b>장비의 기능 및 성능을 유지하기 위해 정기적으로 점검한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>업무감염",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2693931&cid=60261&categoryId=60261",
+			"description":"<b>직무<\/b>(업무)감염이란 <b>의료<\/b>종사자가 <b>직무<\/b>(업무)에 복무할 때 얻게 되는 감염증인데 공기감염에 의한 폐결핵증과 바늘가레 · 절창(切創)사고에 의한 B형, C형간염이 중요하다. 매독, 성인T세포백혈구, AIDS... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>용품봉함원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029595&cid=42117&categoryId=42117",
+			"description":" 멸균된 주사기, 수액세트 등과 같은 <b>의료<\/b>용품에 이물질이나 균의 침입을 방지하기 위해 제품을 봉(Sealing)한다. [수행<b>직무<\/b>] <b>의료<\/b>용품을 봉하기 전 봉함기(Sealer)의 오염상태를 확인하고 가동상태 이상 유무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>기기제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028566&cid=42117&categoryId=42117",
+			"description":" <b>의료<\/b>기기를 제작·조립·검사하는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] <b>의료<\/b>기기 제조공정, <b>의료<\/b>기기 부품, <b>의료<\/b>기기 성능 및 기능 등의 <b>의료<\/b>기기 전반에 관한 지식과 내용을 숙지한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>기기 RA 전문가 2급",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900730&cid=42114&categoryId=42114",
+			"description":" <b>의료<\/b>기기 RA 전문가 2급이란 응시자격을 갖춘 자가 한국<b>의료<\/b>기기안전정보원에서 시행하는 <b>의료<\/b>기기 RA 전문가 2급 시험에 합격한 후 자격을 취득한 자를 말한다. 응시자는 객관식 시험을 통과해야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191227114029520_F5951NSNI.png\/da6_912_i1.png?type=m160_160"
+		},
+		{
+			"title":"국제<b>의료<\/b>관광코디네이터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026165&cid=42117&categoryId=42117",
+			"description":" 한국에 방문한 외국인 환자 및 그 가족을 대상으로 <b>의료<\/b>관광 서비스를 설명하고 상품을 기획하며 <b>의료<\/b>관광을 안내하고 사후관리를 지원한다. [수행<b>직무<\/b>] <b>의료<\/b>관광에 대해 외국 환자 및 가족과 상담한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보건<b>의료<\/b>정보관리사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C%EC%A0%95%EB%B3%B4%EA%B4%80%EB%A6%AC%EC%82%AC",
+			"description":"수행<b>직무<\/b> 보건<b>의료<\/b>정보관리사는 <b>의료<\/b>기관에서의 <b>의료<\/b> 및 보건지도 등에 관한 기록 및 정보의 분류ㆍ확인ㆍ유지ㆍ관리에 관한 다음의 구분에 따른 업무를 수행한다. 보건<b>의료<\/b>정보의 분석 보건<b>의료<\/b>정보의 전사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>기기규제과학전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024525&cid=42117&categoryId=42117",
+			"description":" <b>의료<\/b>기기 설계·개발부터 임상시험, 제품화, 생산, 시판 후 관리 등 <b>의료<\/b>기기 제품 전주기에 필요한 법적·과학적 규제기준에 근거하여, 국내외 적합성 인정(GMP) 및 인허가, 임상시험 지원과 판매 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>장비기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028204&cid=42117&categoryId=42117",
+			"description":" 병원에서 환자진료에 사용되는 <b>의료<\/b>장비의 성능을 개선하거나 새로운 장비를 연구·개발한다. [수행<b>직무<\/b>] 사용 중인 <b>의료<\/b>장비의 성능을 검토·분석하여 개선사항을 연구한다. 새로운 <b>의료<\/b>장비를 개발하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=540896&cid=46638&categoryId=46638",
+			"description":" <b>의료<\/b>의 적정을 기하고 국민의 건강을 보호, 증진함을 목적으로 제정된 법제. [삼국시대의 <b>의료<\/b>제도] [신라] 의약제도로는 『삼국사기』 직관지(職官志)에 약전(藥典)·공봉의사(供奉醫師)·의박사(醫博士)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_9\/20180912215536706_DVLISW8G1.jpg\/ae32c764-704d-4e.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의료<\/b>컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627231&cid=42117&categoryId=42117",
+			"description":" 국내 <b>의료<\/b>기관의 설립, <b>의료<\/b>기관의 경영환경 개선, <b>의료<\/b>기관의 해외진출 등을 지원하기 위해 고객분석, 시장조사, 법률 및 제도 검토, 재정상황 분석 등을 하고 추진방향 및 전략 및 과제 등을 도출하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>법인정관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926981&cid=42279&categoryId=42279",
+			"description":" <b>의료<\/b>법인을 효과적으로 운영하기 위한 규칙을 기록한 문서.  <b>의료<\/b>법인정관이란 <b>의료<\/b>법인을 운영하기 위한 근본 규칙을 명시한 문서를 말한다. <b>의료<\/b>법인 내부에서 발생하는 모든 사항은 정관을 근거로 하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128224111582_1QNTBW749.jpg\/hb10_7345_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의료<\/b>급여관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025487&cid=42117&categoryId=42117",
+			"description":" <b>의료<\/b>급여 사례관리, <b>의료<\/b>급여 중복청구 관리 및 수급권자 상담 등 <b>의료<\/b>급여와 관련된 업무를 수행한다. [수행<b>직무<\/b>] 수급권자의 건강관리 향상을 위한 교육 및 상담을 실시한다. <b>의료<\/b>급여제도 안내 및 <b>의료<\/b>기관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>장비정비원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028338&cid=42117&categoryId=42117",
+			"description":" 병원에서 사용하는 <b>의료<\/b>장비와 <b>의료<\/b>품 등을 검사하고 정비한다. [수행<b>직무<\/b>] 병원에서 사용하는 <b>의료<\/b>장비와 <b>의료<\/b>품의 검사와 정비를 의뢰받고 검사 및 정비대상 장부에 기록한다. 검사정비를 사용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제<b>의료<\/b>마케터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024554&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 외국인 환자를 유치하기 위해 국가별 선호하는 한국 <b>의료<\/b>기술을 파악하고 국내 병원이 보유한 <b>의료<\/b>기술을 상품으로 기획하고 마케팅전략을 수립한다. 외국 환자들이 우리나라에서 <b>의료<\/b>서비스를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>장비기사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%98%EB%A3%8C%EC%9E%A5%EB%B9%84%EA%B8%B0%EC%82%AC",
+			"description":"정보 산업분류 : <b>의료<\/b>업\/<b>의료<\/b>용 기기 제조업 정규교육 : 12년 초과 ~ 14년 이하 (전문대졸 정도) 숙련기간 : 2년 초과 ~ 4년 이하 <b>직무<\/b>기능 : 자료(분석) \/ 사람(말하기·신호) \/ 사물(정밀작업) 작업강도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"기능직 ▷화학·<b>의료<\/b>·식품·기타 기능직 ▷신직업 ▷기타 <b>직무<\/b> 등 14개 분야의 74개 <b>직무<\/b>(2021년 기준)가 있다. 한편, 고용노동부에서는 만 50세 이상 구직자를 신중년 적합<b>직무<\/b>에 고용하면서 일정 요건을 충족한... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>의료<\/b> 자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2780373&cid=51373&categoryId=51373",
+			"description":"[작성팁] • <b>의료<\/b> 자기소개서 작성에 정해진 작성방법은 없다. 다만, 지원 <b>직무<\/b>에 맞게 자신의 경쟁력을 잘 드러낼 수 있게 일목요연하게 작성하면 된다. • 병원은 환자와 보호자를 돌보고 그들의 편의를 돕는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508200744140_89XY5DPCA.jpg\/ba17_2501_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>의료<\/b>기기기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953598&cid=42117&categoryId=42117",
+			"description":" X-ray, 초음파진단기기 등 <b>의료<\/b>기기를 제작하기 위하여 연구·설계·개발 업무를 하고, 제품양산 과정에서 감독, 지원, 조언을 한다. [수행<b>직무<\/b>] 연구개발계획을 수립하고 연구개발에 따른 규정 및 기법... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자<b>의료<\/b>장비조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028580&cid=42117&categoryId=42117",
+			"description":" X-ray, 초음파진단기기, PET-CT, MRI장비 등과 같은 전자·전기<b>의료<\/b>장비를 구성하는 부분품과 부속품들을 드라이버, 동력공구, 납땜기 등을 사용하여 조립한다. [수행<b>직무<\/b>] 작업명세서에 따라 조립할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b> 형사책임",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3556081&cid=42251&categoryId=58626",
+			"description":"의사에게 업무상과실치사상죄가 성립하기 위해서는 <b>의료<\/b>과실 및 과실과 나쁜 결과 사이의 인과관계가... [<b>의료<\/b>사고와 형사책임: 업무상과실치사상죄] <b>의료<\/b>사고가 발생하면 환자 측은 나쁜 결과에 대해 의사에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>교육 소집연기원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2801468&cid=42279&categoryId=42279",
+			"description":" 농어촌 등 보건<b>의료<\/b>를 위한 특별조치법 시행규칙에 의한 <b>직무<\/b>교육 소집연기원 행정서식.  농어촌 등 보건<b>의료<\/b>를 위한 특별조치법 시행규칙 [시행 2013. 1. 23.] [보건복지부령 제176호, 2013. 1. 23.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150605114307112_7Y9V57XOG.jpg\/hb10_15866_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>교육 소집통지서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2801469&cid=42279&categoryId=42279",
+			"description":" 농어촌 등 보건<b>의료<\/b>를 위한 특별조치법 시행규칙에 의한 <b>직무<\/b>교육 소집통지서 행정서식.  농어촌 등 보건<b>의료<\/b>를 위한 특별조치법 시행규칙 [시행 2013. 1. 23.] [보건복지부령 제176호, 2013. 1. 23.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150605114308298_QKA9QDQV5.jpg\/hb10_15867_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"전자<b>의료<\/b>장비수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028342&cid=42117&categoryId=42117",
+			"description":" 전동공구 및 수동공구, 각종 계측기기, 음파검사기기를 이용하여 X-ray, 초음파진단기기, PET-CT MRI 장비 등 전자<b>의료<\/b>장비를 검사·수리한다. [수행<b>직무<\/b>] 생산공정 단계 및 출하 후에 발생한 <b>의료<\/b>장비 고장을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>전자기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054094&cid=42114&categoryId=42114",
+			"description":"② 또한 생산 장비의 제어장치, 검사, 수리 및 각종 <b>의료<\/b>기기 설비물 검사 등의 <b>직무<\/b>를 담당한다. (3) 과정평가형 자격제도 ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(NCS)에 기반하여 일정 요건을 충족하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191034839_RXBOPP3H4.jpg\/da6_508_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"보건<b>의료<\/b>정보관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025539&cid=42117&categoryId=42117",
+			"description":" 보건 <b>의료<\/b>기관 이용자의 건강 및 질병에 관한 자료를 수집, 분석, 관리한다. [수행<b>직무<\/b>] 환자들의 기본정보 및 의무기록 자료를 수집한다. 의무기록의 충실성과 완결성을 분석한 후 미비기록 체크리스트를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관<b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566911&cid=46625&categoryId=46625",
+			"description":" 경찰관의 <b>직무<\/b>수행에 관한 사항을 규정한 법률. [내용] 경찰관은 국민의 자유와 권리의 보호 및... 또한, 경찰관은 정신착란자·미아·주취자(酒醉者) 기타 긴급한 구호를 요하는 자를 발견한 때에는 보건<b>의료<\/b>기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관 <b>직무<\/b>집행법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6515108&cid=43667&categoryId=43667",
+			"description":"경찰관의 <b>직무<\/b> 수행에 필요한 사항을 규정한 법률이다. 이 법에 규정된 경찰관의 직권은 그 <b>직무<\/b> 수행에 필요한 최소한도에서 행사되어야 하며 남용되서는 안 된다.  국민의 자유와 권리 및 모든 개인이 가지는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>멸균기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027593&cid=42117&categoryId=42117",
+			"description":" 주사기 또는 수액세트와 같이 <b>의료<\/b>용 제품이 이상 없이 사용될 수 있도록 멸균기를 조작하여 멸균작업을 한다. [수행<b>직무<\/b>] 작업표준서 등을 확인하고 멸균기의 작동 이상 여부를 확인한다. 멸균기를 조작하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>의료<\/b>용구생물학시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953464&cid=42117&categoryId=42117",
+			"description":" 수액세트, 1회용 주사기 등과 같이 인체에 삽입·접촉하는 <b>의료<\/b>용구의 이상 유무를 검사하기 위하여 발열성시험, 독성시험 등의 생물학적 시험을 한다. [수행<b>직무<\/b>] 시험매뉴얼에 따라 시험검사에 필요한 pH미터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자<b>의료<\/b>장비품질검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665118&cid=42117&categoryId=42117",
+			"description":" 조립된 <b>의료<\/b>장비의 조립상태 및 기능의 결함을 확인하기 위하여 각종 계측기기를 사용하여 성능, 안전성, 외관 등을 검사한다. [수행<b>직무<\/b>] 작업표준에 의하여 제품에 따른 검사항목을 확인하고 그에 따른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"플라스틱<b>의료<\/b>용품조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832766&cid=42117&categoryId=42117",
+			"description":" 수액·수혈세트, 주사기 등과 같이 플라스틱 <b>의료<\/b>용품을 제조하기 위하여 관련 부품 및 부분품을 조립한다. [수행<b>직무<\/b>] 조립하기 전에 작업지시서를 검토하고 관련 부품을 준비한다. 손을 사용하여 직접... ",
+			"thumbnail":""
+		},
+		{
+			"title":"플라스틱<b>의료<\/b>용품검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027730&cid=42117&categoryId=42117",
+			"description":" 수액·수혈세트, 1회용 주사기와 같이 조립된 플라스틱 <b>의료<\/b>용품에 대하여 자동검사기계나 확대경, 마이크로미터 등을 이용하여 검사대상품의 외관 및 기능검사를 수행한다. [수행<b>직무<\/b>] 검사를 하고자 검사할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업보건지도사의 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209841&cid=51088&categoryId=51088",
+			"description":"산업보건지도사의 <b>직무<\/b>는 ① 작업환경의 평가 및 개선 지도, ② 작업환경 개선과 관련된 계획서 및 보고서의 작성, ③ 근로자 건강진단에 따른 사후관리 지도, ④ 직업성 질병 진단(｢<b>의료<\/b>법｣에 따른 의사인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영국 2급 <b>의료<\/b> 보건직 비자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6198019&cid=67745&categoryId=67963",
+			"description":" 유럽 경제 지역 및 스위스 외 지역 출신이 아닌 사람 중에서 영국 국가 보건 서비스, 영국 국가 보건 서비스에 <b>의료<\/b>서비스를 제공하는 기관 또는 성인의 사회 보호를 제공하는 기관으로부터 고용 제안을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5932_000_1\/20210106170508084_2R53MH3KY.jpg\/gb283_9_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"메디컬 드라마와 <b>의료<\/b> 담론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3581961&cid=42219&categoryId=58702",
+			"description":"메디컬 드라마는 현실의 <b>의료<\/b> 문제들을 드라마 속에서 재현하거나 재구성함으로써 사회의... 봉사지향적 <b>직무<\/b> 특성, 그리고 높은 직업 자율성 등을 가진 일련의 직업군을 전문직이라고 규정한다(Goode... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위험<b>직무<\/b>순직보상심사위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9C%84%ED%97%98%EC%A7%81%EB%AC%B4%EC%88%9C%EC%A7%81%EB%B3%B4%EC%83%81%EC%8B%AC%EC%82%AC%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"설치 근거 위험<b>직무<\/b> 관련 순직공무원의 보상에 관한법 7조 1항 기능 행정안전부장관의 순직유족연금... 법무부 법무심의관, 국가보훈처 보상정책국장 위촉직(4) : <b>의료<\/b>계 2명, 법조계 1명, 기타 1명 운영 본회의",
+			"thumbnail":""
+		},
+		{
+			"title":"농어촌 등 보건<b>의료<\/b>를 위한 특별조치법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1077748&cid=40942&categoryId=31708",
+			"description":" 농어촌 등 보건<b>의료<\/b>취약지역의 주민 등에게 보건<b>의료<\/b>를 효율적으로 제공함으로써 국민의 <b>의료<\/b>균점과... 도지사는 지체 없이 공중보건의사에게 필요한 <b>직무<\/b>교육을 실시한 뒤 근무할 지역·기관 또는 시설을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"첨단<b>의료<\/b>기기개발지원센터 (대구동구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5781258&cid=59463&categoryId=64771",
+			"description":"나아가 <b>의료<\/b>산업 분야 중소벤처기업 재직자의 신기술 및 현장 맞춤형 교육을 통한 <b>직무<\/b>능력 및 연구개발 향상을 지원하기도 한다. [주요 사업과 업무(활동 사항)] 첨단<b>의료<\/b>기기개발지원센터 주요 사업과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건강검진",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1960979&cid=42149&categoryId=42149",
+			"description":"건강검진의 기준은 경찰관리자의 주관적 평가에 의하여 결정되어서는 안되고, 전문적인 <b>의료<\/b>센터에게 <b>직무<\/b>분석자료를 제공하여 경찰공무원으로서 적절한지, 의학적 검사기준을 마련해야 할 것이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"혈액관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658458&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>의료<\/b>기관에서 요구하는 혈액 및 혈액제재의 혈액형별 단위수량을 기록하고 재고를 확인한다. 청구서를 보고 혈액의 종류와 요구량을 확인하여 전혈 및 제재혈액을 공급한다. 다른 혈액원 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조지 H. 루[유제한] (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2827260&cid=55783&categoryId=56461",
+			"description":"캘리포니아에 있는 로마린다(Lomalinda) 의과대학을 졸업한 뒤 1929년 5월 7일 제칠일안식일예수재림교의 <b>의료<\/b> 선교사로 조선에 부임하여 순안병원 병원장에 취임하였다. 순안병원은 1908년 9월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AA%A9%EC%82%AC",
+			"description":"즉 병원의 의사는 동일한 국민이나 훈련과정을 거치고 특정한 시험을 통해 의사 면허를 받아 <b>의료<\/b> 행위의 <b>직무<\/b>에서 다른 국민과 구별되는 것과 유사하다. 원로제와 회중제 구조의 교단 목사는 급진적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의무병",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5839765&cid=43667&categoryId=43667",
+			"description":"다만 의무병은 군의관을 도와 환자를 돌보는 <b>직무<\/b>이지만 <b>의료<\/b> 행위를 할 수 있는 권한은 없다. 의무병은 전투를 수행하기 위해 훈련된 병사들의 건강 상태를 계속적으로 체크하고, 그들과 함께 움직이기 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"개신교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%9C%EC%8B%A0%EA%B5%90",
+			"description":"없는 <b>직무<\/b>인 <b>의료<\/b> 활동을 수행하는 것과 유사하다. 재건주의 종교개혁 사상, 즉 흔히 개혁주의라 하며, 16세기 새롭게 기존 서방교회와 달리 초대교회의 사상으로 완전히 개혁해야 한다고 보았다. 따라서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국민보건연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025178&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 보건<b>의료<\/b>의 계획을 수립한다. 보건<b>의료<\/b>인력의 활용방법에 대하여 연구한다. 전문분야에 따라 보건통계, 보건정보과학, 질병제어, 보험체계 개발 등의 업무를 수행한다. 환경오염과 피해도를 조사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증강현실전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832887&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 원격<b>의료<\/b>진단, 제조공정관리 및 스마트폰애플리케이션 등 사용자가 원하는 정보에 따른 증강현실시스템을 파악하고 각종 정보를 수집한다. 개발방향을 설정한다. 신제품에 대한 기획안을 만든다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"간병인",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%84%EB%B3%91%EC%9D%B8",
+			"description":"따라서 일정한 시간에만 환자에게 주사를 놓는 등 간호를 하는 간호사(RN)와 달리 누구나 할 수 있고 <b>의료<\/b>법상 <b>의료<\/b>인이 아니다. 수행 <b>직무<\/b> 거동이 불편한 환자나 노인, 장애인을 대상으로 목욕하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"텍사스A&amp;M대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6200709&cid=67966&categoryId=67966",
+			"description":" 텍사스A&#38;M대학교는 미국 텍사스주 칼리지스테이션에 있는 주립 종합대학교다. 1876년에 설립됐다. 2020년 현재 학생 수가 미국 대학교 가운데 가장 많다. 미국에서 가장 큰 규모의 캠퍼스 가운데 하나인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5940_000_1\/20210119140031538_YSHXMJIRX.jpg\/Texas_AM_Univers.jpg?type=m160_160"
+		},
+		{
+			"title":"보건정책연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658735&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 국내외 보건<b>의료<\/b>정책의 동향을 분석한다. 보건<b>의료<\/b>제도의 개선 및 보건정보관리방안을 연구한다. 보건인력, 시설 및 장비의 수급과 관리방안을 연구한다. 만성질환 및 노약자 보건관리방안을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공중보건의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025453&cid=42117&categoryId=42117",
+			"description":" 지역사회 주민건강의 보호·증진을 위하여 환자를 진료하고 전염병 예방, 공중보건위생 등 공공<b>의료<\/b> 업무를 수행한다. [수행<b>직무<\/b>] 오지, 농어촌 <b>의료<\/b>취약지역, 보건소 및 보건지소, 기타 공공<b>의료<\/b>시설에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립재활원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%EC%9E%AC%ED%99%9C%EC%9B%90",
+			"description":"<b>직무<\/b> 장애인을 위한 재활<b>의료<\/b> 실시 권역 재활병원 등 공공재활<b>의료<\/b> 지원 및 지역사회중심재활 사업 운영 장애발생 예방 및 장애인 인식개선 사업 실시 재활전문요원 교육 실시 장애인 사회복귀... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보험심사간호사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025480&cid=42117&categoryId=42117",
+			"description":" 진료내역의 적정성 여부를 심사·평가하고 <b>의료<\/b>의 질 향상을 위해 <b>의료<\/b>인과 <b>의료<\/b>소비자를 대상으로 보험기준과 <b>의료<\/b>의 적정성 기준에 대해 교육하거나 연구한다. [수행<b>직무<\/b>] 진료내역의 적정성 여부를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보건소장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837682&cid=42117&categoryId=42117",
+			"description":" 보건소의 행정·사무를 총괄하고 소속 직원을 지휘·감독한다. [수행<b>직무<\/b>] 법률로 정해진 보건소의 업무인 국민건강증진·보건교육·구강건강 및 영양관리사업, 감염병의 예방·관리 및 진료, 모자보건 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"병원보험사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664746&cid=42117&categoryId=42117",
+			"description":" <b>의료<\/b>보험, 산재보험, <b>의료<\/b>보호 및 <b>의료<\/b>봉사 적용대상 환자의 진료수가를 계산하여 계산서를 작성·발급한다. [수행<b>직무<\/b>] 환자의 수급자를 확인·접수한다. 환자의 이름, 보험주, 보험번호 및 의사의 진단자료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보건진료전담공무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025454&cid=42117&categoryId=42117",
+			"description":" 의사가 없는 농·어촌 등 <b>의료<\/b>취약 지역의 보건진료소에서 주민들을 진료하고 기타 일차보건 <b>의료<\/b>업무를 수행한다. [수행<b>직무<\/b>] 청진기, 맥박기록기 등 간단한 <b>의료<\/b>기구를 사용하여 환자의 부상 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"간호부장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024409&cid=42117&categoryId=42117",
+			"description":" 환자들에게 양질의 간호를 제공하기 위하여 간호업무 전반을 기획·감독·조정한다. [수행<b>직무<\/b>] 간호부서의 업무를 통괄하여 관리하고 병원관리자를 보좌하여 병원 운영에 참여한다. 간호부서의 예산을 편성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"병원관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024410&cid=42117&categoryId=42117",
+			"description":" 병원의 전반적인 운영 및 경영 활동을 관리·감독한다. [수행<b>직무<\/b>] 의학적 연구 및 예방활동 또는 사회의 건강과 복지 등에 관한 서비스와 프로그램을 개발하고 확산하는 제반 활동을 조정한다. 예산 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"놀이치료사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025494&cid=42117&categoryId=42117",
+			"description":" 아동들이 갖고 있는 심리적 부적응이나 발달상의 문제를 놀이라는 매체를 통해 원인을 평가하고 진단 및 치유한다. [수행<b>직무<\/b>] 보호자 또는 아동과 상담하여 아동의 개인발달사항, 가족관계, 학습활동 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대체요법사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025495&cid=42117&categoryId=42117",
+			"description":" 노인전문병원에서 노인의 건강관리와 병세호전을 위해 아로마치료 등 대체요법을 계획하고 실시하여 평가한다. [수행<b>직무<\/b>] 질문이나 기타 기록을 통해서 환자의 병명, 증상, 현재 상태, 욕구 등을 파악하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일반의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025456&cid=42117&categoryId=42117",
+			"description":" <b>의료<\/b> 부분의 일반적인 질환, 장애, 상해 및 질병을 진료·예방한다. [수행<b>직무<\/b>] 청진기, 맥박기록기 등 간단한 <b>의료<\/b>기구를 사용하여 환자를 진찰한다. 환자의 증상에 따른 다양한 검사와 진단을 통해 치료방법... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중독상담원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025509&cid=42117&categoryId=42117",
+			"description":" 습관성 중독행동과 이로 인해 발생하는 문제에서 벗어날 수 있도록 중독자를 상담한다. [수행<b>직무<\/b>] 마약, 알코올, 도박, 인터넷게임 등의 분야에서 발생하는 중독자의 재활을 위해 법적, 경제적, <b>의료<\/b>적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"응급구조전문상담원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025542&cid=42117&categoryId=42117",
+			"description":" 응급환자의 상태를 전화상으로 파악하여 적절한 조치를 취하고 담당 지역의 <b>의료<\/b>자원에 대한 정보를 수집·관리한다. [수행<b>직무<\/b>] 응급환자나 보호자와의 전화통화를 통해서 환자의 상태를 파악한다. 파악된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"언어재활사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025501&cid=42117&categoryId=42117",
+			"description":" 표준화된 검사와 관찰을 통해 언어장애 환자의 장애원인을 평가·진단하고 치료한다. [수행<b>직무<\/b>] 환자보호자 또는 환자와 상담하여 가족력, 임신력, 태생력, 언어발달력 등을 조사·기록한다. 환자의 발음, 지능... ",
+			"thumbnail":""
+		},
+		{
+			"title":"메디컬일러스트레이터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025688&cid=42117&categoryId=42117",
+			"description":" 의학·<b>의료<\/b>용 그림이나 문양을 도안하고 제작한다. [수행<b>직무<\/b>] 의학논문, 학술대회 발표자료, 의학서적, 환자교육용 자료, 의학강의용 자료 등의 목적에 따라 의뢰인(의사 및 <b>의료<\/b>전문가)과 일러스트레이션의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산후도우미",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025551&cid=42117&categoryId=42117",
+			"description":" 산후조리기관에서 출산 후 산모의 건강회복을 위하여 산모를 간호하고, 신생아를 돌본다. [수행<b>직무<\/b>] 산모의 예정일에 맞추어 입실 계획을 세우고, 예비산모에게 산전교육을 한다. 출산 후 산모와 신생아의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정신건강사회복지사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025558&cid=42117&categoryId=42117",
+			"description":" <b>의료<\/b>기관이나 정신보건센터, 복귀시설에서 환자의 치료, 재활과 사회복귀를 돕기 위해 사정, 진단, 상담, 프로그램 개발, 기획, 실시, 평가, 지원, 교육 등의 업무를 수행한다. [수행<b>직무<\/b>] 환자 개인, 가족력 예후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"노인전문간호사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025474&cid=42117&categoryId=42117",
+			"description":" 노인전문병원, <b>의료<\/b>복지기관, 요양원 등에서 노인의 건강관리와 병세호전을 위해 간호계획을 수립하고 각종 프로그램을 진행하여 노인을 돌본다. [수행<b>직무<\/b>] 노인 및 가족과 상담을 통해 요구사항을 수렴하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"병원중앙공급실관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024374&cid=42117&categoryId=42117",
+			"description":" 병원에서 환자의 진료에 사용되는 장비와 물품을 공급하는 중앙공급실에서 활동하는 직원들의 업무를 관리·감독한다. [수행<b>직무<\/b>] 병원에서 사용되는 <b>의료<\/b>비품의 현황을 파악하고 품목별로 보유량, 분실... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생명윤리연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025258&cid=42117&categoryId=42117",
+			"description":" 유전자 재조합, 세포융합, 인공수정, 생물복제 등과 같은 생명과학의 연구결과가 인류에 미치는 영향을 도덕적, 윤리적 측면에서 연구한다. [수행<b>직무<\/b>] 낙태, 인간복제, 동물실험, 유전학, <b>의료<\/b>윤리, 장기기증... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가정의학과전문의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025427&cid=42117&categoryId=42117",
+			"description":" 질병의 조기발견과 관리, 질병의 예방과 건강상태의 유지를 위해 환자와 그 가족에게 지속적이고 포괄적인 <b>의료<\/b>서비스를 제공한다. [수행<b>직무<\/b>] 청진기, 맥박측정기, 체온계 등 <b>의료<\/b>기구 및 진단보조기구를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의안제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025528&cid=42117&categoryId=42117",
+			"description":" 사고나 질병으로 안구가 제거된 환자를 위해 의사의 처방 또는 고객의 요청에 따라 인조 아크릴 눈을 제조·수리하고 환자의 안구에 장착한다. [수행<b>직무<\/b>] 작업명세서에 따라 제작할 의안의 규격과 형태 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"간호보조기술학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025355&cid=42117&categoryId=42117",
+			"description":" 간호보조기술계열학원에서 수강생들에게 간호조무사 및 기타 보건<b>의료<\/b> 관련 특정교과에 대한 이론과 기술을 강의하고 자격·면허를 취득에 필요한 전문과목을 지도한다. [수행<b>직무<\/b>] 수강생들에게 기초간호... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항해사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953540&cid=42117&categoryId=42117",
+			"description":" 선장의 지시에 따라 선박의 항로를 결정하고, 승무원을 지휘·감독하여 항해 안전, 선원의 <b>의료<\/b>업무, 해상운송 등 갑판업무의 전반을 관리한다. [수행<b>직무<\/b>] 항해 계획을 수립한다. 항해계기를 정비·관리한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업보건의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=14820&cid=43659&categoryId=43659",
+			"description":"산업보건의의 자격은 <b>의료<\/b>법에 의한 의사로서 예방의학을 전공하거나 산업보건에 관한 학식과 경험이 있어야 한다. 산업보건의의 <b>직무<\/b> 내용은 다음과 같다. (1) 건강진단결과의 검토와 그 결과에 따른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의사상자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=71155&cid=43667&categoryId=43667",
+			"description":"의사상자(義死傷者)란 <b>직무<\/b>외의 행위로서 타인의 생명, 신체 또는 재산의 급박한 위해를 구제하다가... (보상금, <b>의료<\/b>급여, 교육보호, 장제보호, 취업보호) 등 국가적 예우를 하고있다. 의상자의 경우 보상금은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회복지시설관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024412&cid=42117&categoryId=42117",
+			"description":" 노인복지시설을 포함한 사회복지시설의 업무를 책임지고 재정, 인사 등을 관리·감독한다. [수행<b>직무<\/b>] 영아원, 육아원, 아동입양위탁시설, 모자보호시설, 갱생원, 양로원, 재활원, 요양시설 등 각종... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3578815&cid=58886&categoryId=58886",
+			"description":"[ 한국 <b>의료<\/b>의 중추적인 역할을 하는 전문 직업인 ] 의사는 ‘의술과 약으로 병을 치료·진찰하는 것을 직업으로 삼는 사람’이라고 국어사전에 정의하고 있다. 현행 <b>의료<\/b>법에서 의사의 임무는 ‘<b>의료<\/b>와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118180858471_5WNX70ZZR.jpg\/01_435.jpg?type=m160_160"
+		},
+		{
+			"title":"국립정신건강센터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066835&cid=40942&categoryId=34691",
+			"description":" 정신과 질환의 진료·조사·연구와 <b>의료<\/b>요원 훈련을 관장하는 보건복지부 산하 <b>의료<\/b>기관.  1961년 11월 노량진구호병원을 인수하여 현 청사를 준공하고, 1962년 2월 1일 국립정신병원으로 개원하였다. 1979년... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_1\/20220519092245003_UL6YMB6W1.jpg\/12593282.jpg?type=m160_160"
+		},
+		{
+			"title":"조산사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1141753&cid=40942&categoryId=31858",
+			"description":" 임산부의 정상분만을 돕고 임신부 ·산욕부 ·신생아의 보건지도를 하는 여자 <b>의료<\/b>인.  현대적 <b>의료<\/b>법이 도입된 후 1914년에 제정된 ‘산파규칙’에는 전통적으로 산구완하던 사람의 이름을 따서 산파로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의무기록관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025540&cid=42117&categoryId=42117",
+			"description":"의무기록사(보건<b>의료<\/b>정보관리사)에게 업무를 배정한다. 수행된 의무기록 업무 내용을 검토하고 조정한다. 의무기록 관련 법률, 최신지견 및 각종 정보를 수집하여 의무기록 작성 및 관리 정책의 의사결정을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"병원수가원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024857&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 환자에게 제공된 <b>의료<\/b>행위에 대하여 행위별수가(임상 각 과에서 새로이 시행하는 시술에 관하여 <b>의료<\/b>행위의 난이도, 전문적 지식이 필요한 정도를 고려하여 원가를 산출) 또는 포괄수가(일정한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업위생관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029139&cid=42117&categoryId=42117",
+			"description":"산업위생관리에 필요한 각종 검사측정 기구 및 약품을 보존·관리한다. <b>의료<\/b>장비, 의약품, <b>의료<\/b>비품 등을 구매·관리하고 구급약품 및 영양제를 지급·관리하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"공중보건의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1187563&cid=40942&categoryId=31858",
+			"description":" 병역의무 대신 3년 동안 농어촌 등 보건<b>의료<\/b> 취약지구에서 공중보건 업무에 종사하는 의사.... 이들은 대통령령이 정하는 보건<b>의료<\/b>시설 및 농어촌지역의 복지시설에서 종사한다. 이는 <b>의료<\/b>인력이 대도시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의무기록보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024917&cid=42117&categoryId=42117",
+			"description":"요청된 의무기록차트를 배송하고 확인한다. 바코드리더기를 사용하여 의무기록차트의 대출과 반납을 관리한다. <b>의료<\/b>정보를 광디스크에 저장하기 위해 편집한다. 기타 보건<b>의료<\/b>정보관리사의 업무를 보조한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"사회복지정책연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025276&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 사회보험(국민연금, <b>의료<\/b>보험, 산업재해보상보험, 고용보험), 공적부조(생활보호, <b>의료<\/b>보호, 기타 관련제도), 사회복지사업(청소년복지, 아동복지, 노인복지, 장애인복지, 부녀복지, 기타... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업전문간호사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025481&cid=42117&categoryId=42117",
+			"description":"<b>의료<\/b>장비, 의약품, <b>의료<\/b>비품 등을 구매하며 사업장의 구급약품 및 영양제를 근로자에게 제공하고 관리한다. 근로자를 대상으로 보호구 착용 등 보건 관련 교육을 실시한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"사회복지정책연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025278&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 사회보험(국민연금, <b>의료<\/b>보험, 산업재해보상보험, 고용보험), 공적부조(생활보호, <b>의료<\/b>보호, 기타 관련 제도), 사회복지사업(청소년복지, 아동복지, 노인복지, 장애인복지, 부녀복지, 기타... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산후조리원신생아관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025482&cid=42117&categoryId=42117",
+			"description":"산모와 신생아가 건강상 이상 징후를 보일 때는 산모 또는 보호자 동의 아래 <b>의료<\/b>기관에 진료를 의뢰한다. <b>의료<\/b>기관 <b>의료<\/b>진의 왕진 시 산모 및 신생아의 건강자료를 제공하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"조산사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=548599&cid=46638&categoryId=46638",
+			"description":"신생아를 받아내고, 산모 및 신생아가 정상적인 상태를 유지하도록 산후검사 및 치료를 하는 것도 주요 <b>직무<\/b>이다. 전에는 조산부·조산원·산파라고 칭한 일이 있다. 조산사는 ＜<b>의료<\/b>법＞에 규정된 <b>의료<\/b>인이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"법의학자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025431&cid=42117&categoryId=42117",
+			"description":"<b>의료<\/b>사고가 일어난 경우에 질병 또는 손상과 사인과의 관계, <b>의료<\/b>행위와 사인과의 관계를 분석하여 <b>의료<\/b>행위의 과실 유무를 판단하기도 한다. 재판에 출석하여 의학적 진술과 판단을 증언하기도 한다. 범죄와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공무원 노조 관련 우리나라 법률",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=66036&cid=43667&categoryId=43667",
+			"description":"봉사자로서 <b>직무<\/b>수행의 공공성·중립성이 요구되는 점을 감안하여 공무원의 노동기본권을 부여하지 않았으며, 1947년 발족된 철도노조와 체신노조 및 보건복지부 내 국립<b>의료<\/b>원노조를 제외하고는 공무원의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025577&cid=42117&categoryId=42117",
+			"description":"고백, 성체, 병자, 신품, 혼인의 칠성사를 집전한다. 신자들에게 신앙 및 정신적·도덕적 지도를 한다. 외방선교회에 소속되어 소속회의 지시를 받아 선교, <b>의료<\/b>, 간호, 교육, 구제 활동 등을 수행하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"모유수유전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025477&cid=42117&categoryId=42117",
+			"description":"모유를 안전하게 저장하는 방법, 아기의 변 색깔 등 아기 건강 외에도 기타 모유수유에 관한 정보와 컨설팅을 제공한다. 가슴통증 등 <b>의료<\/b>적 문제가 있을 시 <b>의료<\/b>인에게 안내한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"보건교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025478&cid=42117&categoryId=42117",
+			"description":"보건 및 <b>의료<\/b>단체와 협의하여 효율적인 건강계획을 수립하고 실시한다. 학생의 건강관찰을 담당하며, 건강에 관한 상담을 한다. 성교육, 약물오남용 예방교육, 응급처치 및 구강관리교육, 비만관리교육 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안과전문의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025438&cid=42117&categoryId=42117",
+			"description":"시력의 손실정도를 알아보기 위해 <b>의료<\/b>기사에게 눈의 검사를 지시한다. 진단결과에 따라 약물을 처방하거나 치료한다. 필요에 따라 외과적 수술을 실시한다. 교정안경을 처방하고, 눈의 운동 등 시력회복을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바이오세라믹재료시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658769&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 생체재료의 제조 및 품질관리기준(GMP:Good Manufacturing Practice, <b>의료<\/b>기기, 의약품 및 화장품 등의 안정성과 유효성을 품질면에서 보증하는 기본조건으로서 원료의 입고에서부터 출고에 이르기까지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"핵의학방사선사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025523&cid=42117&categoryId=42117",
+			"description":"핵의학검사에 이용되는 <b>의료<\/b>장비(감마카메라, PET, PET\/CT, PET\/MRI, 방사선 계측기 등)의 정도관리를 수행하며 방사성의약품을 준비하고 관리한다. 의사의 처방에 따라 핵의학검사(뇌혈류, 뇌조, 뇌척수액루... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마취과전문의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025430&cid=42117&categoryId=42117",
+			"description":"국부차단 또는 전신마취가 요구되는 환자에게 <b>의료<\/b>기준에 따라 적절한 수기(手技) 및 약물을 투여하고 전신상태를 관찰한다. 마취의 형태와 정도를 기록하고 마취 전·후 및 도중에 환자의 진정상태를... ",
+			"thumbnail":""
+		}
+	]
+}

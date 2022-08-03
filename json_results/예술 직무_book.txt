@@ -1,0 +1,118 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:34 +0900",
+	"total":10,
+	"start":1,
+	"display":10,
+	"items":[
+		{
+			"title":"실용예술(실용음악) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32466839866",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3246683\/32466839866.20220527054743.jpg",
+			"author":"한국산업인력공단",
+			"discount":"21600",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150715",
+			"isbn":"9791170093749",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 실용예술(실용음악)에 대해 다룬다."
+		},
+		{
+			"title":"실용예술(실용사진) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32490298753",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249029\/32490298753.20220527022225.jpg",
+			"author":"한국산업인력공단",
+			"discount":"18000",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150715",
+			"isbn":"9791170093756",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 실용예술(실용사진)에 대해 다룬다."
+		},
+		{
+			"title":"디자인(텍스타일디자인) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32466702736",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3246670\/32466702736.20220527032733.jpg",
+			"author":"한국산업인력공단",
+			"discount":"24300",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150701",
+			"isbn":"9791170093794",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 디자인(텍스타일디자인)에 대해 다룬다."
+		},
+		{
+			"title":"오피스 구축 가이드 (직무 만족과 생산성을 높이는 사무환경의 모든 것)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32491380251",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249138\/32491380251.20220527051221.jpg",
+			"author":"김수란",
+			"discount":"20700",
+			"publisher":"매일경제신문사",
+			"pubdate":"20200115",
+			"isbn":"9791164840724",
+			"description":"사람을 중심으로 유기적으로 연계되는 \n통합적 사무환경을 만들기 위한 실질적인 방법\n\n사무환경에 대한 인식이 높아지고 있는 이 시대에 기업이 단순히 일하는 기본적인 공간이 아닌, 일하는 사람의 삶에 기여하고 이를 통해 기업의 생산성을 높이는 좋은 사무환경을 만들도록 도움을 주는 책이다. 좋은 오피스의 조건을 충족시키기 위한 실질적인 방법들을 오늘날 실정에 맞게 핵심적으로 담아냈다. 건물 확보부터 시작해서 공간 구성, 가구, 인테리어 같은 유형의 요소와 근무자에 영향을 미치는 무형의 환경 요소까지 모두 고려하여 하나의 오피스가 만들어지는 전 과정을 상세히 담았다. 건축 및 공간 등 물리적 환경과 구성원들의 생리적 환경이 개별적으로 작용하 는 것이 아니라 사람을 중심으로 유기적으로 연계되는 통합적 사무환경의 방향을 제시하고자 한다."
+		},
+		{
+			"title":"기초 건축이론 (NCS(국가직무능력표준)와 전산응용건축제도기능사 출제기준을 반영)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32493285059",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249328\/32493285059.20220524183521.jpg",
+			"author":"이찬서",
+			"discount":"16200",
+			"publisher":"성안당",
+			"pubdate":"20170110",
+			"isbn":"9788931563573",
+			"description":"- 독자대상 : 전산응용건축제도기능사 시험 준비생\n- 구성 및 특징 : \n① 건축기술자가 꼭 알아야 할 건축의 기초 필수 내용을 요약 정리\n② 많은 그림을 자세한 해설과 함께 수록\n③ 전산응용건축제도기능사 핵심 기출문제 풀이를 수록"
+		},
+		{
+			"title":"문화예술경영(문화 예술경영) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32492201112",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249220\/32492201112.20220527024709.jpg",
+			"author":"한국산업인력공단",
+			"discount":"17100",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093725",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화예술경영(문화 예술경영)에 대해 다룬다."
+		},
+		{
+			"title":"문화예술경영(문화 예술행정) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32455885059",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3245588\/32455885059.20220527063331.jpg",
+			"author":"한국산업인력공단",
+			"discount":"18000",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093718",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화예술경영(문화 예술행정)에 대해 다룬다."
+		},
+		{
+			"title":"문화예술경영(문화 예술기획) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32489499212",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3248949\/32489499212.20220527045947.jpg",
+			"author":"한국산업인력공단",
+			"discount":"17100",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093701",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화예술경영(문화 예술기획)에 대해 다룬다."
+		},
+		{
+			"title":"문화예술경영(문헌정보관리) (국가직무능력표준 표준 및 활용패키지)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32441778917",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3244177\/32441778917.20220527041538.jpg",
+			"author":"한국산업인력공단",
+			"discount":"19800",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150707",
+			"isbn":"9791170093732",
+			"description":"국가직무능력표준(NCS, national competency standards)은 산업현장에서 직무를 수행하기 위해 요구되는 지식·기술·소양 등의 내용을 국가가 산업부문별·수준별로 체계화한 것으로, 국가적 차원에서 표준화한 것을 의미한다. 이 책은 문화예술경영(문헌정보관리)에 대해 다룬다."
+		},
+		{
+			"title":"직무분석 2 (문화.예술.디자인.방송, 출제기준 정비자료 12-04)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32496815620",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249681\/32496815620.20220521042837.jpg",
+			"author":"",
+			"discount":"10800",
+			"publisher":"휴먼컬처아리랑",
+			"pubdate":"20141124",
+			"isbn":"9791155651247",
+			"description":"시각디자인은 시각디자인에 대한 전문지식을 갖추고 광고, 편집, 아이덴티티, 패키지, 미디어 등 시각전달 디자인 전반에 관한 기획, 계획, 정보분석, 디자인 실무 등의 직무를 수행하는 직무로 문화, 예술, 디자인, 방송을 분석했다."
+		}
+	]
+}

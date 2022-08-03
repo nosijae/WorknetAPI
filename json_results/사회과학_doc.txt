@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:10 +0900",
+	"total":140569,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"보건과 <b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2506",
+			"description":""
+		},
+		{
+			"title":"한독<b>사회과학<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=9167",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2681196",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127580",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3228631",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=64720",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3145298",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1057417",
+			"description":""
+		},
+		{
+			"title":"한국<b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5875",
+			"description":""
+		},
+		{
+			"title":"한중<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=8807",
+			"description":""
+		},
+		{
+			"title":"인문<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2681486",
+			"description":""
+		},
+		{
+			"title":"부경대학교 인문<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1052645",
+			"description":""
+		},
+		{
+			"title":"한국<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2169503",
+			"description":""
+		},
+		{
+			"title":"서석<b>사회과학<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=70731",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2611502",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 담론과 정책",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=70664",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1049551",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>교육연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2755",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3145531",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2681197",
+			"description":""
+		},
+		{
+			"title":"현대<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=63538",
+			"description":""
+		},
+		{
+			"title":"순천향<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3302202",
+			"description":""
+		},
+		{
+			"title":"인문<b>사회과학<\/b>논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4141",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2681527",
+			"description":""
+		},
+		{
+			"title":"한국지역<b>사회<\/b>생활<b>과학<\/b>회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6366",
+			"description":""
+		},
+		{
+			"title":"논문집 : 인문·<b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3317677",
+			"description":""
+		},
+		{
+			"title":"한국문화연구원논총 : <b>사회과학<\/b>논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3296252",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2681531",
+			"description":""
+		},
+		{
+			"title":"인제대학교 인문<b>사회과학<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4142",
+			"description":""
+		},
+		{
+			"title":"가톨릭<b>사회과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=175",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>교육",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=64478",
+			"description":""
+		},
+		{
+			"title":"중앙<b>사회과학<\/b>연구.",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4905",
+			"description":""
+		},
+		{
+			"title":"노년<b>사회과학<\/b> (老年社会科学)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3208870",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구원 논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3145517",
+			"description":""
+		},
+		{
+			"title":"논문집 : 인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3295716",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>논평",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2180489",
+			"description":""
+		},
+		{
+			"title":"연구논문집 : 인문·<b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3294043",
+			"description":""
+		},
+		{
+			"title":"경북대학교 논문집 인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3286647",
+			"description":""
+		},
+		{
+			"title":"단국대학교 논문집. 인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3291285",
+			"description":""
+		},
+		{
+			"title":"한국의학술연구 : 인문·<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6205",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구소논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=62472",
+			"description":""
+		},
+		{
+			"title":"한말 신문·잡지 언설을 통해 본 근대 서양 ‘<b>사회과학<\/b>’ 수용의 역사정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78350674",
+			"description":"The Korean Acceptance of the Western Social Sciences during the Late Chosun Dynasty and Taehan Empire: Its Beginnings and Historico-Pol"
+		},
+		{
+			"title":"인문<b>사회과학<\/b>논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3303938",
+			"description":""
+		},
+		{
+			"title":"길림대학<b>사회과학<\/b>학보",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2142400",
+			"description":""
+		},
+		{
+			"title":"논문집 : 인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3317693",
+			"description":""
+		},
+		{
+			"title":"관대논문집 : 인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3296071",
+			"description":""
+		},
+		{
+			"title":"규율여인과：대수거대<b>사회과학<\/b>연구충격지반사——이<b>사회<\/b>학위례 (规律",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=700095495",
+			"description":""
+		},
+		{
+			"title":"홍대논총 : 인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=67017",
+			"description":""
+		},
+		{
+			"title":"부르디외와 라투르의 대질과 수정: <b>사회과학<\/b> 지식체계에서 장이론의 가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39160456",
+			"description":" 부르디외는 주관주의와 객관주의를 비판적으로 종합함으로써, 동시대 <b>사회과학<\/b>의 지식생산과 축적"
+		},
+		{
+			"title":"충남대학교 <b>사회과학<\/b>연구소 논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3292214",
+			"description":""
+		},
+		{
+			"title":"논문집 : 인문<b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3317686",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 연구와 새로운 패러다임",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=510792",
+			"description":""
+		},
+		{
+			"title":"경상대학교논문집 : 인문, <b>사회과학<\/b> 편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3292277",
+			"description":""
+		},
+		{
+			"title":"한국 공공정책갈등 연구경향에 대한 시론적 연구: 한국연구재단 <b>사회<\/b>과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153855858",
+			"description":"A Preliminary Study on the Research Trends of ‘Public Policy Conflicts’ Studies in Korea: Focused on KCI Journals in the field of S"
+		},
+		{
+			"title":"인문<b>사회과학<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3290253",
+			"description":""
+		},
+		{
+			"title":"논문집 : 인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3317696",
+			"description":""
+		},
+		{
+			"title":"로스(Dorothy Ross)의 논의를 통해 본 한국 <b>사회과학<\/b>의 정체성 문제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13600412",
+			"description":"Is There to be the Identity of Korean Social Science? In Light of Dorothy Ross's Discussion of the Origins of American Social Science "
+		},
+		{
+			"title":"정책 사례연구 방법의 활용 현황과 발전을 위한 제언 -비교<b>사회과학<\/b> 방",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77195650",
+			"description":"Uses of Case-oriented Policy Research and Suggestions for Its Development - Focusing on the Methodological Discussions of Comparative S"
+		},
+		{
+			"title":"<b>사회과학<\/b>의 공감연구 동향과 특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562375182",
+			"description":"Research Trend of on Empathy in the Korean Social Science Literature 현대<b>사회<\/b>의 주요한 특징 중의 하나는 공리주의적 "
+		},
+		{
+			"title":"인문학 및 <b>사회과학<\/b> 분야 국내 학술논문의 저자키워드 출현빈도와 피인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59535869",
+			"description":"A Study on the Correlation between the Appearance Frequency of Author Keyword and the Number of Citation in the Humanities and Social S"
+		},
+		{
+			"title":"인문<b>사회과학<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3228542",
+			"description":""
+		},
+		{
+			"title":"근대 ‘<b>사회과학<\/b>’의 동아시아 수용과 메이지 일본 ‘<b>사회과학<\/b>’의 특",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58067791",
+			"description":"East Asia's Acceptance of Modern Social Science and Modern the Characteristics of Japanese Social Sciences ― with priority given to t"
+		},
+		{
+			"title":"<b>사회과학<\/b>의 ‘물질적 전환(material turn)’을 위하여",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288871102",
+			"description":"Toward the Material Turn of the Social Sciences 지난 약 20년에 걸쳐 물질성(materiality)은 <b>사회과학<\/b>의 뜨거운 쟁점"
+		},
+		{
+			"title":"시민교육 관점에서 본 <b>사회과학<\/b> 교육의 역할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562517337",
+			"description":"The Role of Social Science Education from the Viewpoint of Citizenship Education 이 논문은 <b>사회<\/b>과 교육의 정체성을 시민"
+		},
+		{
+			"title":"논문집 : 인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3318016",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3294434",
+			"description":""
+		},
+		{
+			"title":"논문집 : 인문·<b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3317919",
+			"description":""
+		},
+		{
+			"title":"클라우드 기반의 <b>사회과학<\/b>연구 자동화 시스템 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594714465",
+			"description":" <b>사회과학<\/b> 연구과정에서 많은 부분은 자동화가 가능하며, 자동화 시스템을 이용하면 연구의 효율성과"
+		},
+		{
+			"title":"논문집 : <b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3318670",
+			"description":""
+		},
+		{
+			"title":"1980년대 <b>사회과학<\/b> 책 읽기와 교양 패러다임의 전환",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884973452",
+			"description":"The Study on the Reading of Social Sciences and the Transition of the Culture Paradigm in the 1980s 이 논문은 1980년대 대학생"
+		},
+		{
+			"title":"충남대학교 <b>사회과학<\/b>연구소 연구윤리 규정 외",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878412703",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구 (社會科學研究)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3015354",
+			"description":""
+		},
+		{
+			"title":"1950년~1960년대 한국 정치·경제 사상의 지형과 변동 : 홍정완, 『한국 사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888914874",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>논총 (社會科學論叢)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2711340",
+			"description":""
+		},
+		{
+			"title":"전북대논문집 :인문·<b>사회과학<\/b>편 (全北大論文集 :人文·社會科學篇)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3290666",
+			"description":""
+		},
+		{
+			"title":"횡병국제<b>사회과학<\/b>연구 (横浜国際社会科学研究)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3154183",
+			"description":""
+		},
+		{
+			"title":"논문집 : 인문·<b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3317933",
+			"description":""
+		},
+		{
+			"title":"연구논문집 :인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3303048",
+			"description":""
+		},
+		{
+			"title":"문리대학보 : 인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1556308",
+			"description":""
+		},
+		{
+			"title":"문리과대학논문집.인문<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3286789",
+			"description":""
+		},
+		{
+			"title":"충남대학교 <b>사회과학<\/b>연구소 연구윤리 규정 외",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878779237",
+			"description":""
+		},
+		{
+			"title":"한말 일본 유학 지식인의 ‘근대 <b>사회과학<\/b>’ 수용과정과 특징 ― ‘정치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58067781",
+			"description":"Characteristics and Acceptance of ‘Modern Social Science’ by Intellectuals Studying in Japan during the Late Chosun Dynasty ― A f"
+		},
+		{
+			"title":"논문집 : 자연<b>과학<\/b>·인문·<b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3318558",
+			"description":""
+		},
+		{
+			"title":"문제해결을 위한 인문학과 <b>사회과학<\/b>의 협력방안 - 독일 제4차 산업혁명 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289603906",
+			"description":"Geisteswissenschaftliche und sozialwissenschaftliche Zusammenarbeit zur Problemlösung - bezüglich der Festlegung der politischen Rich"
+		},
+		{
+			"title":"논문집 : <b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3318676",
+			"description":""
+		},
+		{
+			"title":"<b>사회<\/b>교육<b>과학<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=59119",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>의 등장배경으로서 계몽주의의 재조명",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11377017",
+			"description":"  목차\n<b>사회과학<\/b>의 등장배경으로서 계몽주의의 재조명 \/ 조명래 1\n 1. 들어가는 말: <b>사회과학<\/b>의 등장배"
+		},
+		{
+			"title":"월남적인문화<b>사회과학<\/b>삼부주요저작 (越南的人文和社会科学三部主要著",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887699093",
+			"description":""
+		},
+		{
+			"title":"논문집 : 인문·<b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3317896",
+			"description":""
+		},
+		{
+			"title":"논문집 : 인문,<b>사회과학<\/b>편",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3317852",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>에서 사유와 실천 : 토지공개념 논의와 관련해서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843907795",
+			"description":"Thinking and practice in social science : in connection with the discussion on the public concept of land  목차\n<b>사회과학<\/b>에서 "
+		},
+		{
+			"title":"충남대학교 <b>사회과학<\/b>연구소 연구윤리 규정 외",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880822624",
+			"description":""
+		},
+		{
+			"title":"사이버네틱스와 <b>사회과학<\/b> 방법론: ‘잃어버린 고리’의 모색을 위한 시",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561931940",
+			"description":"Cybernetics and Social Science Methodologies : Searching for ‘Missing Links’ 이 논문은 오늘날의 <b>사회과학<\/b>의 연구대"
+		},
+		{
+			"title":"학술지『인문<b>사회과학<\/b>연구』의 연구동향 분석 -키워드네트워크와 토픽",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887781025",
+			"description":"Analysis of research trends in the Academic Journal &quot;Studies in Humanities and Social Science&quot; -Focusing on keyword network and topic m"
+		},
+		{
+			"title":"시와 영상을 활용한 글쓰기 수업의 운영과 효과 - 핵심교양교육으로서의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153599548",
+			"description":"Application of poetry and films in writing course - Focused on Writingcourse for Social Science Majors at the KNU 본 연구는 핵심"
+		},
+		{
+			"title":"<b>사회과학<\/b>에 대한 부르디외의 성찰적 <b>과학<\/b><b>사회<\/b>학: 성과와 한계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13983255",
+			"description":"Bourdieu’s Reflexive Sociology of the Social Sciences: A Critical Assessment 이 논문은 자연<b>과학<\/b>이 생산하는 진리와 지"
+		},
+		{
+			"title":"논문집 : 인문<b>사회과학<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3317683",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b>, 자연<b>과학<\/b>기술 및 융복합 분야의 약물중독 연구에 대한 계량서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896402457",
+			"description":"A Comparative Bibliometric Analysis of Substance Use Disorder Research in Social Science, Natural Science and Technology, and Multidisc"
+		},
+		{
+			"title":"월남적인문화<b>사회과학<\/b>삼부주요저작 (越南的人文和社会科学三部主要著",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=893734891",
+			"description":" 它们是对人文与社会科学多个领域的交汇处的研究，即社会人类学，语言学，民俗学，贝叶斯（Bayesian"
+		},
+		{
+			"title":"<b>사회과학<\/b>분야 학술 연구자의 연구데이터 재이용 영향요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877141154",
+			"description":"A Study on Factors Affecting the Reuse of Research Data by Academic Researchers in the Social Sciences 이 연구는 연구데이터 "
+		}
+	]
+}

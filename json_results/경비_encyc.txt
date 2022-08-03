@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:47 +0900",
+	"total":15630,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1059985&cid=40942&categoryId=31836",
+			"description":" 기업·국가의 활동에 따르는 화폐지출.  넓은 의미로는 가계의 화폐지출도 포함되지만, 여기서는 제품의 제조원가를 구성하는 원가요소인 회계학적 의미의 <b>경비<\/b>와, 지방자치단체 및 정부가 그 활동을 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=778590&cid=42085&categoryId=42085",
+			"description":"그런 점에서 <b>경비<\/b>는 정부가 재화 · 용역을 구입하는 수단이며 또 사회정책 및 경제정책 등을 수행하는 수단이다. 예산총괄성의 원칙에 따라 <b>경비<\/b>는 모두 예산에 계상(計上)되어야 하지만 예산에 계상되지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1535&cid=43659&categoryId=43659",
+			"description":"그런 점에서 <b>경비<\/b>는 정부가 재화·용역을 구입하는 수단이며 또 사회 정책 등을 수행하는 수단이다. 예산총괄서의 원칙에 따라 <b>경비<\/b>는 모두 예산에 계상되어야 하지만 예산에 계상되지 않는 <b>경비<\/b>도 있다. 이러한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=468768&cid=42120&categoryId=42120",
+			"description":"그러한 점에서 <b>경비<\/b>는 정부가 재화·용역을 구입하는 수단이며 사회정책 등을 수행하는 수단이다. 예산총괄서의 원칙에 따라 <b>경비<\/b>는 모두 예산에 계상되어야 하지만 예산에 계상되지 않는 <b>경비<\/b>도 있다. 이러한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2752620&cid=50304&categoryId=50304",
+			"description":"제조 원가의 구성 비목으로서의 <b>경비<\/b>란 물품과 노동 용역 이외의 원가재를 소비함으로써 발생하는 원가. 바꾸어 말해서 재료비 및 노무비 이외의 제조 원가 요소를 말한다. 여기에서 재료비나 노무비의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1600158&cid=50305&categoryId=50305",
+			"description":"<b>경비<\/b>회계·세무 용어사전 국가가 사업을 수행할 때 필요로 하는 비용을 말한다. 국가의 <b>경비<\/b>지출은 세출예산으로서 국회의 의결을 얻어야 하며 그 재원은 세입을 가지고 확보해야 하므로 세입세출의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961012&cid=50300&categoryId=50300",
+			"description":"사전적인 의미로는 도난·재난·적의 침략 따위를 미리 살펴서 지키는 것을 말한다. <b>경비<\/b>는 국가에서 실시하는 공<b>경비<\/b>(경찰)와 민간<b>경비<\/b>업체에서 실시하는 사<b>경비<\/b>(민간<b>경비<\/b>)로 구분된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6068695&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] ① 제품의 제조원가를 구성하는 원가요소로 재료비 · 노무비 이외의 비용 ② 후생복리비, 임차료, 보험료, 수선비, 전력료, 광열비, 수도료, 조세공과, 교통비, 외주가공비, 감가상각비 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6461149&cid=58453&categoryId=58453",
+			"description":"[정의] 기업 · 국가의 활동에 따르는 화폐지출을 의미한다. [해설] 제품을 제조하려고 투입한 원가요소 중 재료비와 노무비를 제외하고 당기 제품제조에 투입한 모든 비용을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1533219&cid=50307&categoryId=50307",
+			"description":"폭도나 적성 분자의 폭동에 대하여, 국내 치안 또는 공공 질서를 유지하기 위하여, 국내 경찰군으로 실시하는 제반 행동.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=467704&cid=50343&categoryId=50343",
+			"description":"호텔 <b>경비<\/b>업무로서 외 · 내부의 도난, 파괴행위로부터 종사원과 고객을 안전하게 보호하는 업무이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=226594&cid=50365&categoryId=50365",
+			"description":"쇄골의 안쪽 3분의 1과 바깥쪽 3분의 2가 만나는 곳에서 위로 1촌인 곳에 있는 경외기혈(經外奇穴)임.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3476264&cid=58439&categoryId=58439",
+			"description":"토지나 다른 고정자본과 반대된 개념으로 단기간의 가치창출을 위한 지출, 감가상각도 포함된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2390224&cid=50762&categoryId=51387",
+			"description":"대가. 지출 비용. 일을 수행하는 데 드는 비용(스 6:4).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=80592&cid=50293&categoryId=50293",
+			"description":"도왕(度王)의 비(妣) 박씨(朴氏)의 존호(尊號).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1748598&cid=49237&categoryId=49237",
+			"description":"[한자] 鏡婢 [활동지] 길주 [활동시기] 조선초기(14，15세기) [구분] 관기 [관련인물] 강효충 [관련작품] 조선왕조실록 [기녀설명] 세종실록에 등장하는 기녀이다. 길주에서 온 창기이며 강효충의 딸이다. [출전]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2013568&cid=50826&categoryId=50826",
+			"description":"거울의 등에 튀어나와 있는 고리 부분으로, 이곳에 끈을 매달아 차고 다녔음.",
+			"thumbnail":""
+		},
+		{
+			"title":"비용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1520644&cid=42121&categoryId=42121",
+			"description":"상품이나 서비스를 생산하는 데 있어서 사용된 토지, 노동, 자본이라는 자원의 가치는 생산의 비용이 된다. 소비자의 욕구를 완전히 만족시켜 주는 데 있어서 필수적인 모든 재화와 서비스를 생산하기 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1913462&cid=50305&categoryId=50305",
+			"description":"비용회계·세무 용어사전 비용이란 일정기간에 소비된 자산의 가치액을 말하며, 이에는 수익획득을 위해 소비된 자산의 가치희생 부분을 말하는 경우와, 수익획득과 상관없는 자산의 가치소비액, 즉 손실을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1106235&cid=40942&categoryId=31819",
+			"description":" 소비된 가치의 크기를 말하며 회계학·경제학상으로는 기업의 아웃풋(output:상품 등)을 생산하는 데 필요한 여러 생산요소에 지불되는 대가, 즉 토지세·건물·기계 등의 감가상각비, 임금·이자·보험료 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비용",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=46883&cid=42095&categoryId=42095",
+			"description":"수익을 얻기 위하여 기업이 소비한 재화 또는 용역으로써 소멸된 원가이며, 경제적효익의 유출이라고 할 수 있다. 소멸된 원가가 당기의 영업활동과 관련되어 수익에 공헌하지 못한 것을 손실이라고 하는 것과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EB%B9%84%EC%9B%90",
+			"description":"<b>경비<\/b>원 (警備員)은 건물에서 방문자의 출입을 점검하고 필요한 정보를 제공할 수 있으며, 침입, 도난, 화재, 기타 위험 방지와 재산을 감시하는 직업이다. 아파트와 같은 주택 <b>경비<\/b>원의 경우, <b>경비<\/b>실에 머무는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이전적 <b>경비<\/b>·비이전적 <b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=16067&cid=43659&categoryId=43659",
+			"description":"<b>경비<\/b>는 그 경제적 효과에 따라 이전적 <b>경비<\/b>와 비이전적 <b>경비<\/b>로 구분된다. 비이전적 <b>경비<\/b>는 재화·용역의 구입을 목적으로 지출하는 <b>경비<\/b>로서 인건비·물건비 또는 국내에서 실물을 조달하여 지급하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926374&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>경비<\/b>원은 아파트, 주택, 사무실 등 각종 건물 및 시설물을 관리하며, 건물 내의 거주자들을 화재, 도난, 불법침입으로부터 보호하기 위해 출입자 통제, 내방객 안내 등의 업무를 담당한다. 건물에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627198&cid=42117&categoryId=42117",
+			"description":"[수행직무] <b>경비<\/b>에 필요한 직무내용을 숙지한다. 건물에 출입하는 방문자를 점검한다. 출입자에게 방문목적, 방문대상자, 연락처 등을 받아 기록한다. 주요 시설물을 순찰하고 보안상에 이상이 없는지 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026087&cid=42117&categoryId=42117",
+			"description":"[수행직무] <b>경비<\/b>에 필요한 직무내용을 숙지한다. 건물에 출입하는 방문자를 점검한다. 출입자에게 방문목적, 방문대상자, 연락처 등을 받아 기록한다. 주요 시설물을 순찰하고 보안상에 이상이 없는지 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이전적 <b>경비<\/b> · 비이전적 <b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=779437&cid=42085&categoryId=42085",
+			"description":"<b>경비<\/b>는 그 경제적 효과에 따라 이전적 <b>경비<\/b>와 비이전적 <b>경비<\/b>로 구분된다. 비이전적 <b>경비<\/b>는 재화 · 용역의 구입을 목적으로 지출하는 <b>경비<\/b>로서 인건비 · 물건비 또는 국내에서 실물을 조달하여 지급하는 대외... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공동<b>경비<\/b>구역 유엔사<b>경비<\/b>대대",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%B5%EB%8F%99%EA%B2%BD%EB%B9%84%EA%B5%AC%EC%97%AD_%EC%9C%A0%EC%97%94%EC%82%AC%EA%B2%BD%EB%B9%84%EB%8C%80%EB%8C%80",
+			"description":"JSA <b>경비<\/b>대대 혹은 공동<b>경비<\/b>구역 유엔사<b>경비<\/b>대대 (共同警備區域유엔司警備大隊, United Nations Command Security Battalion - Joint Security Area (UNCSB-JSA) )는 판문점이 있는 공동<b>경비<\/b>구역의 남쪽을 <b>경비<\/b>하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2356402&cid=51373&categoryId=51373",
+			"description":" <b>경비<\/b>업무를 수행하면서 <b>경비<\/b>원이 숙지해야 할 규정을 정하여 놓은 문서.  기업 및 단체 내외부의 모든 시설물, 비품, 기타 재산의 도난 및 화재를 미연에 방지하고, 또한 사내 안녕, 질서유지, 범칙 행위를 예방... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209161019221_L3CBD1MP9.jpg\/ba17_5666_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>예산",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1059988&cid=40942&categoryId=31914",
+			"description":" 앞으로 1년간 예상되는 각종 <b>경비<\/b>.  ① 제조간접비, ② 영업비, ③ 일반관리비로 구성된다. 계획수단으로서는 단순히 <b>경비<\/b>의 과거실적을 답습하는 것이 아니라, <b>경비<\/b>절감을 위한 새로운 방법이나 절차를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3381672&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>일보란 <b>경비<\/b>를 담당하는 이가 각종 점검 사항을 일자별로 기록한 서식이다.  해당 건물의 관리 사무소에서 일별 점검 사항을 구체적으로 기록하는 내용의 서식을 <b>경비<\/b>일보라고 한다. <b>경비<\/b>일보는 해당 건물... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510115525394_12KSTH4TJ.jpg\/hb10_20638_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925592&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b> 업무를 수행하는 데 가장 기본적인 기준을 기록한 문서.  <b>경비<\/b>는 기업 및 단체의 내외부에 잇는 물건의 도난이나 파괴행위로부터 직원과 고객을 안전하게 보호하기 위하여 실시하는 업무를 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128230538685_2T3JB4497.jpg\/hb10_5936_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2780626&cid=51373&categoryId=51373",
+			"description":" 아파트, 회사 등 보안과 시설관리를 위해 <b>경비<\/b>상황을 기록하는 문서.  <b>경비<\/b>일지는 아파트나 회사의 <b>경비<\/b> 상황을 빠짐없이 기록하는 문서이다. 사전 지시사항이 있거나 주요 점검사항이 있을 때는 <b>경비<\/b>일지에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508201557695_63K5YMGNK.jpg\/ba17_4913_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"불용<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5114&cid=43659&categoryId=43659",
+			"description":"예산에 편성되어 있던 예정사업이 중지됨으로써 지출의 필요가 없어지게 된 <b>경비<\/b>를 말한다. 불용<b>경비<\/b>가 발생하면 국채의 원리금 또는 차입금을 상환하는데 이용하거나 익년도 세입에 이입한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>대",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EB%B9%84%EB%8C%80",
+			"description":"<b>경비<\/b>대 는 특정한 지역이나 건물을 <b>경비<\/b>하는 조직으로 목록은 다음과 같다: 일본 일본군 쓰시마 <b>경비<\/b>대 (일본군) 특설<b>경비<\/b>대, 해안 <b>경비<\/b> 및 시설보수부대 해군육전전대 <b>경비<\/b>대 육상자위대 쓰시마 <b>경비<\/b>대 아마미... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2774101&cid=51373&categoryId=51373",
+			"description":" <b>경비<\/b>근무를 수행한 후 그 내용을 기록하여 보관하는 서식.  <b>경비<\/b>근무를 수행한 후 그 내용에 대해 기록하여 관리되고 있는 문서가 바로 <b>경비<\/b> 일보이다. <b>경비<\/b> 일보는 기본적으로 해당 기간에 업무내용 및 순찰... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508162924574_18WZAPU9C.jpg\/ba17_22564_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566511&cid=46634&categoryId=46634",
+			"description":"[내용] <b>경비<\/b>하는 업체나 장소에 따라 건물 <b>경비<\/b>원(전산업), 공항대합실 <b>경비<\/b>원(여행알선·운수서비스), 부두 <b>경비<\/b>원(여행알선·운수서비스), 역구내 <b>경비<\/b>원(여행알선·운수서비스), 터미널 <b>경비<\/b>원(여행알선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"필요<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1160320&cid=40942&categoryId=31819",
+			"description":" 소득세법상의 개념으로, 소득세의 과세대상인 소득의 계산상 공제되는 <b>경비<\/b>(소득세법 31조).  예컨대 사업소득의 필요<b>경비<\/b>는 총수입금액에 대응하는 매출원가, 기타 총수입금액을 얻기 위해 직접 소요된 비용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026086&cid=42117&categoryId=42117",
+			"description":" 사업체를 순찰하고 정문출입을 확인·통제하는데 종사하는 <b>경비<\/b>원의 활동을 감독·조정한다. [수행직무] <b>경비<\/b>원의 근무시간 및 인원을 조정한다. 각 부서를 순찰하고 당직일지, 출입자일지, 순찰일지 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6068700&cid=67350&categoryId=67350",
+			"description":"[환경 및 설비] 한 구역 안의 <b>경비<\/b>를 하는 인원이 있는 실. 또는 <b>경비<\/b>를 하는 곳. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828107&cid=42279&categoryId=42279",
+			"description":" 회사나 아파트 등의 <b>경비<\/b>원이 건물 내외의 질서 유지와 안전 관리를 위해 매일 기록하는 서식.  <b>경비<\/b>일지란 관리사무소 또는 <b>경비<\/b>실에서 기록하는 일반적인 서식으로 매일 그날의 근무자, 순찰 사항과 방문객... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128185507795_V9THTKG4P.jpg\/hb10_643_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기본<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2587&cid=43659&categoryId=43659",
+			"description":"외국에서 60일을 초과하여 여행하는 장기체제 여행자를 제외한 60일 미만 여행자에게 지급되는 기본적 여행<b>경비<\/b>를 가리킨다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>함",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2752626&cid=50307&categoryId=50307",
+			"description":"바다를 <b>경비<\/b>하는 군함. 연안을 지키고 적의 잠수함, 간첩선 따위를 방어하는 것이 중요한 임무이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=80593&cid=50293&categoryId=50293",
+			"description":"조선 시대의 관청. 호조(戶曹) 소속 3사(司) 중의 하나로 서울 안에 있는 각 관청의 <b>경비<\/b>와 왜인(倭人)의 양료(粮料) 등에 관한 일을 관장하였음.",
+			"thumbnail":""
+		},
+		{
+			"title":"제<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=616992&cid=50320&categoryId=50320",
+			"description":"공사 가격의 구성에 있어서의 순공사비 이외의 부분. 현장 <b>경비<\/b>와 일반 관리비 등 부담액으로 이루어진다. 중소 건설업의 공사에서 일반적으로 쓰인다.",
+			"thumbnail":""
+		},
+		{
+			"title":"제<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=619385&cid=50320&categoryId=50320",
+			"description":"공사 가격의 구성에서의 순공사비 이외의 부분. 현장 <b>경비<\/b>와 일반 관리비 등 부담액으로 이루어진다. 이익도 포함된다. 중소 건설업의 공사에서 일반적으로 쓰인다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566510&cid=46622&categoryId=46622",
+			"description":" 조선시대 호조 산하의 한 관서. [내용] 중앙에서 이루어지는 모든 국가<b>경비<\/b>의 지출 및 왜인의 양료(粮料 : 식량) 등에 관한 사무를 관장하였다. 조선 후기에는 별례방(別例房)으로 명칭이 바뀌었다. → 별례방",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1736970&cid=49240&categoryId=49240",
+			"description":"[저자] 김태형 [다른이름] 고지식한 <b>경비<\/b>원 [내용] ①외모: 단단한 체구를 지녔다. 얼굴에 각이 심하게 졌으며 늘 표정이 굳어 있어 답답한 느낌을 준다. ②성격: 고지식하고 꽉 막힌 면은 있지만 천성이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>월보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437091&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>를 담당하는 이가 각종 점검 사항을 월별로 기록한 문서.  해당 건물의 관리 사무소에서 일별 점검 사항을 구체적으로 기록하는 내용의 문서를 말한다. <b>경비<\/b>월보는 해당 건물 내외의 질서를 유지하며 각종... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902180845538_XIHPY9LXP.jpg\/hb10_72299_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1059986&cid=40942&categoryId=33383",
+			"description":" 조선시대 서울에 있는 관청의 <b>경비<\/b>지출과 부산에 있는 왜인들의 양식에 관한 일을 맡은 관청.  판적사(版籍司)·회계사(會計司)와 함께 호조(戶曹)에 속한 3사(三司)의 하나이다. 관원은 산원(算員) 30명과 산사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연 <b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=593025&cid=50324&categoryId=50324",
+			"description":"1년 동안에 필요로 하는 <b>경비<\/b>를 이른다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>확인서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3436825&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>확인서란 <b>경비<\/b> 내역을 확인하기 위해 작성하는 문서이다.  <b>경비<\/b>확인서란 사업을 운영하거나 경영하는데 필요한 <b>경비<\/b> 내역을 확인하기 위해 작성하는 문서로, <b>경비<\/b>확인서를 작성할 때에는 해당 기간을 정한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902180059245_OMI1BQO8E.jpg\/hb10_72851_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>결의서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3544653&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>결의서란 <b>경비<\/b>를 지출하도록 허가받은 결의안을 기록한 문서이다.  <b>경비<\/b>는 국가와 기업에 따라 그 내용이 조금씩 차이를 보인다. 국가에서 활용하는 <b>경비<\/b>는 주로 사업을 수행할 때 필요로 하는 비용을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181718453_XXCY8VZUY.jpg\/hb10_78720_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>정산서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925613&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>로 사용한 내역을 정밀하게 계산하여 기록한 서식.  <b>경비<\/b>는 국가와 기업에 따라 그 내용이 조금씩 차이를 보인다. 국가에서 활용하는 <b>경비<\/b>는 주로 사업을 수행할 때 필요로 하는 비용을 말한다. 국가에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129015643393_6ZFAGAR3F.jpg\/hb10_5958_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>지급표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3544656&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>지급표란 <b>경비<\/b>를 지급한 현황을 구체적으로 기록한 문서이다.  기업의 운영에 있어서 기본적인 요소는 자금이다. 이 자금은 용도, 원천에 따라 다양하게 나뉘지만, 상대방으로부터 받는 물품 등의 대가로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181718559_JOYFFT0OW.jpg\/hb10_78723_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>제안서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925614&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>를 사용하기 위한 제안을 작성한 서식.  <b>경비<\/b>는 국가와 기업에 따라 그 내용이 조금씩 차이를 보인다. 국가에서 활용하는 <b>경비<\/b>는 주로 사업을 수행할 때 필요로 하는 비용을 말한다. 국가에서 지출하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20210715142611968_WKU2BQ8CS.jpg\/hb10_5959_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"국경<b>경비<\/b>대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1066738&cid=40942&categoryId=31740",
+			"description":" 국경선을 방위하고 <b>경비<\/b>하는 조직.  정규군의 한 부대인 경우와 정규군과는 별도로 군대에 준하여 조직된 무장집단인 경우가 있다. 후자는 공산권 제국에서는 일반적인 것으로서, 보통 밀수출입... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828096&cid=42279&categoryId=42279",
+			"description":" 제조<b>경비<\/b>에 대한 예산 편성을 위해 집행 계획을 추정하여 기록하는 장부.  노무비는 사용자가 체력 또는 지력에 의한 노동에 대해서 대상으로서 지불하는 비용을 말하며, 그 내용은 임금·급료·상여·수당 등이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128185439740_VK531Y382.jpg\/hb10_632_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>분개장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828102&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>와 관련된 거래내용을 분리해서 발생순으로 기록하는 장부.  분개장에는 거래내용에 따라 그 거래가 차변요소인지 대변요소인지, 또 어떤 계정과목에 얼마의 금액으로 기입하여야 하는지를 분개(차변과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128185444406_AYZHESES9.jpg\/hb10_638_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>산출서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3544655&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>산출서란 회사에서 지출한 <b>경비<\/b>를 총괄적으로 합산하기 위해 작성하는 문서이다.  <b>경비<\/b>는 간단하게 말하면 어떤 일을 하는데 사용된 비용을 말한다. <b>경비<\/b>산출서란 회사에서 일정 기간 지출한 <b>경비<\/b> 내역을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181718519_RRITQ7MNJ.jpg\/hb10_78722_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>현황표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3436994&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>현황표란 회사에서 사용된 각종 <b>경비<\/b>를 일정기간마다 정리한 서식이다.  <b>경비<\/b>현황표는 업무상 지급된 각종 <b>경비<\/b> 내역을 파악할 수 있도록 일정 기간을 정하여 그 내용을 정리한 서식을 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902180548295_I042TBGZZ.jpg\/hb10_72496_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>실일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3381667&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>실일지란 <b>경비<\/b>를 담당하는 이가 각종 점검 사항을 일자별로 기록한 서식이다.  해당 건물의 관리 사무소에서 일별 점검 사항을 구체적으로 기록하는 내용의 서식을 말한다. <b>경비<\/b>일보는 해당 건물 내외의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510115524383_SK30MJHTN.jpg\/hb10_20633_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925597&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>를 사용하기 위해서 사용가능한 <b>경비<\/b>를 요청하기 위한 서식.  <b>경비<\/b>는 국가와 기업에 따라 그 내용이 조금씩 차이를 보인다. 국가에서 활용하는 <b>경비<\/b>는 주로 사업을 수행할 때 필요로 하는 비용을 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215757967_O6MBLXFPQ.jpg\/hb10_5941_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>보고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828101&cid=42279&categoryId=42279",
+			"description":" 해외 출장, 접대 등 당월 발생한 <b>경비<\/b> 항목을 일자별로 기록하여 보고하는 형식으로 작성하는 서식.  업무상 지출되는 <b>경비<\/b>에는 숙박비, 교통비, 식대, 잡비 등이 있다. 이는 회사의 규정에 따라 정액으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128185444192_PFQXQNFD3.jpg\/hb10_637_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>보고문",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828100&cid=42279&categoryId=42279",
+			"description":" 해외 출장, 접대 등 당월 발생한 <b>경비<\/b> 항목을 일자별로 기록하여 보고하는 형식으로 작성하는 서식.  업무상 지출되는 <b>경비<\/b>에는 숙박비, 교통비, 식대, 잡비 등이 있다. 이는 회사의 규정에 따라 정액으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128185443185_1EC1A9ZY6.jpg\/hb10_636_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기준<b>경비<\/b>율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2696&cid=43659&categoryId=43659",
+			"description":"기준<b>경비<\/b>율(基準經費率, Basic Expense Ratio)란 부가 없는 자영업자 소득금액을 추계하기 위해 마련된 제도다. 소득세를 신고할 때 수입 금액에서 주요 <b>경비<\/b>를 빼고 다시 수입 금액에 국세청이 정한 업종별... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828095&cid=42279&categoryId=42279",
+			"description":" 회사가 <b>경비<\/b>용역계약을 체결하고 관련 업무를 분담시키는 내용으로 구성된 도급계약서.  <b>경비<\/b>계약은 용역계약을 체결함에 있어 “을”은 “갑”이 지정하는 <b>경비<\/b>구역 내에 대한 <b>경비<\/b>업무를 성실하게... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128185438908_LM3KKPP1L.jpg\/hb10_631_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>청구서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3380202&cid=51373&categoryId=51373",
+			"description":" <b>경비<\/b>를 청구하는 내용을 기재한 문서.  <b>경비<\/b>란 어떠한 일을 진행하는데 있어 소요된 비용을 말한다. 일반적으로 <b>경비<\/b>에는 교통비, 식비 등이 모두 포함된다. 청구서는 상대방에게 어떠한 대상을 요구하기 위한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503115902500_7XBUJ5NB9.jpg\/ba17_8899_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>내역표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3544654&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>내역표란 회사에서 지출한 <b>경비<\/b>를 총괄적으로 합산하기 위해 작성하는 문서이다.  <b>경비<\/b>經費는 일을 하거나 사업을 운영할 때 소요되는 소소한 비용을 통틀어 지칭하는데, <b>경비<\/b>내역표는 회사에서 지출한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181718489_52VSSDZWP.jpg\/hb10_78721_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>품의서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3544657&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>품의서란 <b>경비<\/b>의 집행을 시행하기에 앞서 결재권자에게 특정한 사안을 승인해 줄 것을 요청하는 문서이다.  업무상 진행해야 할 안건에 관하여 관계부서의 의견을 물은 다음 상사에게 제출하여 결재를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181722599_E54SX6M13.jpg\/hb10_78724_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"해안<b>경비<\/b>대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1162087&cid=40942&categoryId=31742",
+			"description":" 밀무역이나 밀출입국의 단속, 해난 구조, 안전항행 등의 업무를 수행하는 해상 <b>경비<\/b>부대.  주로 미국과 영국의 경우를 가리키며, 미국의 경우는 'Coast Guard', 영국의 경우는 'H.M. Coast Guard'라고 한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_77\/20181119180720957_PR8DIYP7D.jpg\/25741.jpg?type=m160_160"
+		},
+		{
+			"title":"경직성<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060543&cid=40942&categoryId=31838",
+			"description":" 법률이나 확정된 정책방침에 따라 지출규모가 미리 정해짐으로써 감축의 여지가 없는 <b>경비<\/b>.  경직성<b>경비<\/b>는 사회간접자본, 농어촌구조개선, 산업기술지원 등에는 충당되지 않는 고정적으로 지출되는 예산인데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특수<b>경비<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225672&cid=40942&categoryId=31859",
+			"description":" 대통령령이 정하는 국가중요시설의 <b>경비<\/b>·도난·화재 및 그밖의 위험발생을 방지하는 업무를 수행하는 직종.  공항 등 대통령령이 정하는 국가중요시설의 <b>경비<\/b> 및 도난·화재, 그밖의 위험발생을 방지하는 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>예산서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925598&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>를 사용할 사용계획을 마련하여 기록한 서식.  <b>경비<\/b>는 국가와 기업에 따라 그 내용이 조금씩 차이를 보인다. 국가에서 활용하는 <b>경비<\/b>는 주로 사업을 수행할 때 필요로 하는 비용을 말한다. 국가에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215801649_CWZ17SIJK.jpg\/hb10_5942_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>명세서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925594&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>를 사용한 구체적인 내용을 기록한 서식.  <b>경비<\/b>는 국가와 기업에 따라 그 내용이 조금씩 차이를 보인다. 국가에서 활용하는 <b>경비<\/b>는 주로 사업을 수행할 때 필요로 하는 비용을 말한다. 국가에서 지출하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215752018_JMYBNT61G.jpg\/hb10_5938_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>명세표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925595&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>를 사용한 상세한 내용을 기록한 문서.  <b>경비<\/b>는 국가와 기업에 따라 그 내용이 조금씩 차이를 보인다. 국가에서 활용하는 <b>경비<\/b>는 주로 사업을 수행할 때 필요로 하는 비용을 말한다. 국가에서 지출하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215752788_VW9W78K87.jpg\/hb10_5939_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>예산서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2773625&cid=51373&categoryId=51373",
+			"description":" <b>경비<\/b> 사용에 필요한 비용을 미리 계산하기 위한 문서.  <b>경비<\/b>는 국가나 기업이 사업을 계획하고 운영하는데 지출되는 비용을 뜻하며, <b>경비<\/b>를 사용하는 기관에 따라 지출 내용이 차이가 있다. 국가에서 사용하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508161223606_5FU3N3VSL.jpg\/ba17_4271_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>원명부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925602&cid=42279&categoryId=42279",
+			"description":" <b>경비<\/b>원에 대한 상세한 신상정보를 기록한 문서.  <b>경비<\/b>는 기업 및 단체의 내외부에 잇는 물건의 도난이나 파괴행위로부터 직원과 고객을 안전하게 보호하기 위하여 실시하는 업무를 말한다. <b>경비<\/b>는 해당 업무... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215811746_YMGONA1I8.jpg\/hb10_5946_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>월계표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828105&cid=42279&categoryId=42279",
+			"description":" 회사에서 사용된 각종 <b>경비<\/b>를 월별로 정리한 서식.  <b>경비<\/b>월계표는 업무상 지급된 각종 <b>경비<\/b> 내역을 월별로 한데 모아 파악할 수 있도록 정리한 서식이다. <b>경비<\/b>월계표는 <b>경비<\/b>의 수입\/지출 부분을 한눈에 확인할... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128185505646_XW31TODAJ.jpg\/hb10_641_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"해안<b>경비<\/b>대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1167568&cid=40942&categoryId=31748",
+			"description":" 한국 해군의 전신인 조선해안<b>경비<\/b>대의 약칭.  조선해안<b>경비<\/b>대는 8 ·15광복 후에 미군정청의 인가를 받아 창설된 해방병단(海防兵團)을 개편하여 1946년 6월 15일 창설된 것인데, 1948년 8월 대한민국... ",
+			"thumbnail":""
+		},
+		{
+			"title":"단순<b>경비<\/b>율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5570037&cid=40942&categoryId=31841",
+			"description":" 종합소득세 신고 시 신규 사업자이거나 직전연도 수입 금액이 정부에서 고시하는 기준금액 이하인 사업자에게 적용되는 <b>경비<\/b>율.  일반적으로 사업자들은 사업과 관련된 모든 금전거래 사실을 장부에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기준<b>경비<\/b>율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1222207&cid=40942&categoryId=31840",
+			"description":" 장부가 없는 사업자라도 일정 규모 이상이면 증빙서류를 제출해야 <b>경비<\/b>로 인정하고, 나머지 비용은 정부가 정한 기준에 따라 적용하는 소득세 기준율.  2002년 1월 1일 이후 발생한 소득분, 즉 2003년 5월에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"간접<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=257665&cid=51737&categoryId=51737",
+			"description":"<b>경비<\/b> 가운데 직접<b>경비<\/b> 이외의 것을 간접<b>경비<\/b>라 한다. 간접<b>경비<\/b>는 특정제품의 제조에 관하여 직접적으로 발생액이 인정되지 않는 것으로, 제조원가를 구성하는 <b>경비<\/b>의 대부분을 차지한다. 간접<b>경비<\/b>는 다음과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"필요<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1606146&cid=50305&categoryId=50305",
+			"description":"필요<b>경비<\/b>회계·세무 용어사전 일반적으로 필요<b>경비<\/b>라고 하면 기업경영상 수익을 얻기 위해 지출된 제<b>경비<\/b>를 말한다. 그러나 소득세법상의 필요<b>경비<\/b>는 과세소득금액을 산출하기 위해 기업경영상 지출된 <b>경비<\/b> 중... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공공<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063054&cid=40942&categoryId=31836",
+			"description":"이런 경우에는 시장기구에 의한 효율적인 자원배분은 바랄 수가 없고(시장의 실패), 정부가 조세에서 <b>경비<\/b>를 지출하여 공공재의 공급을 함으로써 비로소 그 목적을 달성할 수가 있다. 둘째, 소득재분배의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인력<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962314&cid=42149&categoryId=42149",
+			"description":"민간<b>경비<\/b>의 주체에 따른 분류 중의 하나로 범죄나 각종 재난 등으로부터 인적이나 물적인 가치를 인력을 통해 보호하는 <b>경비<\/b>형태이다. 인력<b>경비<\/b>의 형태로는 상주<b>경비<\/b>를 비롯하여 신변보호<b>경비<\/b>, 혼잡<b>경비<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철도<b>경비<\/b>대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=572158&cid=46629&categoryId=46629",
+			"description":" 북한 전역의 주요 시설을 <b>경비<\/b>하고 정규군 편성에 대비하기 위해 편성한 군사조직. [개설] 철도<b>경비<\/b>대는 사령부를 평양 역전에 설치하고 북한 전역의 주요 도시의 철도, 교량, 터널 등을 <b>경비<\/b>하는 한편... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선거<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961936&cid=50299&categoryId=50299",
+			"description":"각종 선거에 동원되는 <b>경비<\/b>를 말하며, 혼잡·특수·다중범죄진압 <b>경비<\/b> 등 종합적인 <b>경비<\/b>가 요구되는 특성을 내포하고 있다. 선거<b>경비<\/b>는 투표소 외곽<b>경비<\/b>를 비롯 투표함 운송<b>경비<\/b>, 개표소 <b>경비<\/b>로 구분할 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>수단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961019&cid=42149&categoryId=42149",
+			"description":"<b>경비<\/b>사태발생시 조직적인 <b>경비<\/b>부대병력으로 불순세력 및 <b>경비<\/b>범죄 등을 진압하고 질서를 회복하기 위해 행하는 실력행사를 말한다. <b>경비<\/b>경찰은 경찰관직무집행법상(제6조)의 범죄의 예방과 제지에 있어서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"궁궐<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1731441&cid=49337&categoryId=49337",
+			"description":"[궁궐방위의 예] 궁궐 내의 <b>경비<\/b>는 여러 기관이 업무를 분담하였다. 먼저 국왕의 침소와 가장 인접한 지역은 국왕의 호위를 담당한 금군청(禁軍廳), 호위청(扈衛廳), 선전관청(宣傳官廳) 소속의 군관들이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_1\/20130315005725676_EBH335XG7.jpg\/z2_cp02270026000.jpg?type=m160_160"
+		},
+		{
+			"title":"자체<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962380&cid=50300&categoryId=50300",
+			"description":"민간<b>경비<\/b>의 성격에 따른 분류 가운데 하나로 자체적으로 <b>경비<\/b>부서를 조직하고 <b>경비<\/b>활동을 실시하는 <b>경비<\/b>형태를 말한다. 장점으로는 <b>경비<\/b>원 자질의 우수성을 비롯 효과적인 통제와 관리, 높은 충성심(애사심)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>원조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2208612&cid=51088&categoryId=51088",
+			"description":"이러한 행위는 당사자가 합의하더라도 <b>경비<\/b>원조행위로서 부당노동행위에 해당된다. 노동조합은 조합원이 납부한 조합비에 의하여 운영되어야 한다. 노동조합이 그 운영에 필요한 <b>경비<\/b>를 사용자로부터 원조를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기계<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961499&cid=42149&categoryId=42149",
+			"description":"민간<b>경비<\/b>의 주체에 따른 분류 가운데 하나로 인력<b>경비<\/b>에 대비되는 개념으로 범죄행위와 각종 재난 등으로부터 인적·물적인 가치를 기계<b>경비<\/b>시스템을 통하여 보호하는 <b>경비<\/b>형태를 말한다. 장점으로는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3379914&cid=51373&categoryId=51373",
+			"description":" 특정한 업무를 진행하는데 필요한 <b>경비<\/b>를 신청하는 내용의 문서.  <b>경비<\/b>란 어떠한 일을 진행하는데 있어 소요된 비용을 말한다. 일반적으로 <b>경비<\/b>에는 교통비, 식비 등이 모두 포함된다. 업무 상 목적으로 <b>경비<\/b>가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503115548483_BBJZKSYFF.jpg\/ba17_4818_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경비<\/b>내역서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828097&cid=42279&categoryId=42279",
+			"description":" 회사에서 지출한 <b>경비<\/b>를 총괄적으로 합산하기 위해 작성하는 문서.  <b>경비<\/b>(經費)는 일을 하거나 사업을 운영할 때 드는 소소한 비용을 통틀어 지칭한다. 따라서 <b>경비<\/b> 항목은 여러 가지가 있을 수 있고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_18\/20220722134301300_9T89OM7BV.png\/hb10_633_i1.png?type=m160_160"
+		},
+		{
+			"title":"필요<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=938240&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | 必要經費(한자) | 사업자가 총수입을 발생시키는 데 투입된 제반비용의 합계로, 소득금액에서 제외돼 필요<b>경비<\/b>가 많을수록 세금이 적어진다. 세금을 매기려면 먼저 과세표준을 잡아야 하는데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시설<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962048&cid=42149&categoryId=42149",
+			"description":"민간<b>경비<\/b>의 유형 가운데 목적에 따른 분류의 하나로써 국가중요시설, 빌딩, 주택, 상가, 공공건물, 공항 등 <b>경비<\/b>대상 시설에 대한 각종의 위해로부터 그 시설물의 인적·물적 가치를 보호하는 <b>경비<\/b>형태를 말한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>업무",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6413762&cid=42094&categoryId=42094",
+			"description":"특히 공동주택에서 고층아파트단지의 <b>경비<\/b>는 대부분 각동마다 출입구(공용현관) 앞에 <b>경비<\/b>실을 설치하여 <b>경비<\/b>하므로 많은 인력이 소요된다. <b>경비<\/b>원만으로 불충분한 경우엔 경보기, 감시카메라 등 기계적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자본<b>경비<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=791789&cid=50304&categoryId=50304",
+			"description":"설비의 신설개량 등에 자본을 사용하는 것에 따라서 수반하는 이자(利子)·감가상각비(減價償却費)나 자산세(資産稅) 등의 <b>경비<\/b>. 자본<b>경비<\/b>는 대부분 인건비·동력비·시설 보수비 등의 영업<b>경비<\/b>를 크게 웃돌고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경비<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6413761&cid=42094&categoryId=42094",
+			"description":"공동주택의 출입자를 감시하고 단지 내를 순찰하며, 적절한 조처를 취하는 행위이다. <b>경비<\/b>관리는 <b>경비<\/b>원의 직무가 중심이 된다. <b>경비<\/b>원이 주의하여 직무를 다함으로써 공동주택단지는 안전성을 확보하게 된다.",
+			"thumbnail":""
+		}
+	]
+}

@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:20 +0900",
+	"total":2750,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"공군 <b>소방직무<\/b> 전문성 향상을 위한 교육 체계 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=585216809",
+			"description":"A Study on Professional Career Improvement of Air Force Firefighters Through Education and Training 공군 비행장은 대형화재의"
+		},
+		{
+			"title":"한국형 <b>소방직무<\/b> 관련 체력평가프로그램의 타당도 검증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889975154",
+			"description":"The study of validity on firefighting-related Physical Fitness Evaluation Program for Korea firefighters <b>소방<\/b>업무 중 화재 진압"
+		},
+		{
+			"title":"공군 <b>소방직무<\/b> 전문성 향상을 위한 교육 체계 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=585505709",
+			"description":"A Study on Professional Career Improvement of Air Force Firefighters Through Education and Training 공군 비행장은 대형화재의"
+		},
+		{
+			"title":"공군 <b>소방직무<\/b> 전문성 향상을 위한 교육 체계 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=597568460",
+			"description":"A Study on Professional Career Improvement of Air Force Firefighters Through Education and Training 공군 비행장은 대형화재의"
+		},
+		{
+			"title":"<b>소방직무<\/b>교육 개선방안에 관한 연구 : <b>소방직무<\/b> 원격교육 시스템 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79472331",
+			"description":"(A) study on the improvement of the fire officer&apos;s job training : Development of cyber education system for the fire officer&apos;s job trai"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스가 <b>직무<\/b>태도에 미치는 영향과 조직신뢰의 조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=235618497",
+			"description":"A Study on the Job Attitude Factors and Job Stress Factors of Fire-fighting Officers : Focused on the Correlation between Factors and R"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스의 영향요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594665266",
+			"description":" 효과적인 조직운영을 위한 <b>직무<\/b>스트레스의 관리는 무엇보다 조직구성원이 지각하고 있는 <b>직무<\/b>스트"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b> 만족에 관한 연구 : 제주도 하위직 <b>소방<\/b>공무원을 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9408908",
+			"description":"  국문목차\n표제지=0,1,2\n(국문초록)=i,3,3\n목차=iv,6,2\n(표목차)=vi,8,1\n(그림목차)=vi,8,1\n제I장 서론=1,9,1\n 제1"
+		},
+		{
+			"title":"몽골과 한국의 <b>소방<\/b>공무원 <b>직무<\/b>만족에 대한 영향요인 비교 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888012395",
+			"description":"A Comparative Study of Influencing Factors on Job Satisfaction of Fire Officers in Mongolia and Korea: Focusing on Ulaanbaatar, Mongoli"
+		},
+		{
+			"title":"<b>직무<\/b>요구-자원모형을 활용한 <b>소방<\/b>공무원의 <b>직무<\/b> 영향요인과 <b>직무<\/b>만족 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289432914",
+			"description":"A Study on the Relationship between Job Satisfaction and Structure Verification about Job Influence Factors of Fire-Fighting Officers U"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스 척도개발 및 타당화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=658596503",
+			"description":""
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스와 음주사용장애와의 관련성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78339811",
+			"description":"The Relationship between Job Stress and Alcohol-use Disorders among Firemen 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>스트레스 고위"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스와 자아탄력성에서 소진의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290878327",
+			"description":"Effects of Burnout on Job Stress and Ego-Resilience of Fire Officials 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>스트레스와 자아탄"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스와 자아탄력성에서 소진의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594910692",
+			"description":" 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>스트레스와 자아탄력성과의 관계에서 소진이 매개역할을 하는지에 대"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스가 자살생각에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888386070",
+			"description":"The Effects of Job stress on Suicidal Thoughts among Firefighters: Alcohol Use and Cognitive Emotion Regulation as a Moderator 본 논"
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887592125",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888760094",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881566801",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871393881",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890807418",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888218103",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890262573",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890619406",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846793915",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889987644",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888382330",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886456830",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886859739",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882409451",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886994447",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880981297",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874548119",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=844994429",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891332832",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891096661",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891250037",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874139040",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873527775",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889785473",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896670773",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868837410",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882900596",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865584955",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890421934",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886957049",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872880877",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889945814",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885186557",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"우리나라 <b>소방<\/b>공무원 <b>직무<\/b>만족도 향상방안에 관한 연구 : 허즈버그(Herzbe",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898549354",
+			"description":"A study on the improvement of job satisfaction of fire servants in Korea : based on the Herzberg&apos;s motivator  표제지\n목차\n제1장 "
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b> 스트레스, 대처방식, <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594811828",
+			"description":"   <b>소방<\/b>공무원, <b>직무<\/b> 스트레스, 대처방식, <b>직무<\/b>만족 "
+		},
+		{
+			"title":"몽골 <b>소방<\/b>공무원의 <b>직무<\/b>만족에 미치는 영향 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=894615222",
+			"description":"Factors Affecting Job Satisfaction of Firefighters in Mongolia Purpose This study analyzed the factors affecting the job satisfaction o"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스 척도개발 및 타당화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442051290",
+			"description":"Development and Validation of Job Stress Scale for Fire-fighters 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>스트레스척도를 개발하"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스 유발원인과 결과에 관한 실증적 연구: <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=593978965",
+			"description":" 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>스트레스의 원인과 결과를 실증적으로 연구하기 위하여 구조모형을 개"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스 수준과 관련 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56994342",
+			"description":"Job Stress Level and It&apos;s Related Factors in Firefighters 본 연구는 <b>소방<\/b>공무원들을 대상으로 <b>직무<\/b>스트레스, 피로"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스가 웰니스에 미치는 영향 : 긍정심리자본의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843065714",
+			"description":"The Influence of Fire officials’s Job stress on Wellness : A Mediating Effect of Positive Psychological Capital 본 연구는 <b>소방<\/b>"
+		},
+		{
+			"title":"일반논문 : <b>소방<\/b>공무원의 <b>직무<\/b>동기가 조직시민행동에 미치는 영향: <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186127563",
+			"description":"The Influence of Job Motivation on Organizational Citizenship Behavior in the Korean Fire Service: Validation of Job Involvement`s Medi"
+		},
+		{
+			"title":"강원지역 <b>소방<\/b>공무원에서 <b>직무<\/b>스트레스, 우울 및 자살생각 간의 관련성 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594601962",
+			"description":"   자살생각, <b>직무<\/b>스트레스, 우울, <b>소방<\/b>공무원 "
+		},
+		{
+			"title":"임파워먼트와 사회적지지가 <b>소방<\/b>공무원의 <b>직무<\/b>스트레스에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594432922",
+			"description":" 본 연구는 <b>소방<\/b>공무원들의 임파워먼트 수준과 사회적지지 수준이 <b>직무<\/b>스트레스와 <b>직무<\/b>스트레스 하"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스 영향요인이 조직시민행동에 미치는 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630680768",
+			"description":"The Effect of Firefighters Job Stress Factors on Organizational Citizenship Behavior  목   차\n\n국문요약\tⅰ\n목    차\tⅲ\n표 "
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>특성과 복지기본법 분석을 통한 보건·안전 및 복지시스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=301860566",
+			"description":"A Study on development of health, safety and welfare system through analyzing job characteristic and welfare law of firemen  국문초"
+		},
+		{
+			"title":"집단예술심리치료가 <b>소방<\/b>공무원의 <b>직무<\/b>스트레스와 스트레스 대처방식",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442084649",
+			"description":"The Effects of Group Arts Psychotherapy on Job Stress and Stress Coping Style for Fire-Fighting Officers 본 연구는 집단예술심"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스의 영향요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56545062",
+			"description":"An Analysis of Factors Affecting the Job Stress of Firefighters 효과적인 조직운영을 위한 <b>직무<\/b>스트레스의 관리는 무"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스 척도개발 및 타당화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846297700",
+			"description":"Development and Validation of Job Stress Scale for Fire-fighters 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>스트레스척도를 개발하"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스, 사회심리적 요인 및 수면의 질이 피로수준",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561816776",
+			"description":"Covariance Structure Analysis on the Impact of Job Stress, Psychological Factors and Sleep Quality on Fatigue Symptoms among Fire Fight"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>수행에 미치는 영향요인 연구 -<b>직무<\/b>자율성, 동료지지,",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601767483",
+			"description":"Study on the Influence Factors on the Job Performance of Fire Officials -Focusing on Job Autonomy, Peer Support and Reward- 본 연구"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스, <b>직무<\/b>만족과 조직몰입에 대한 <b>직무<\/b>몰입의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601391162",
+			"description":"The Effect of Job Involvement on Job Stress, Job Satisfaction and Organizational Commitment among Firefighters in South Korea 공무원"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스 척도개발 및 타당화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=418129982",
+			"description":"Development and Validation of Job Stress Scale for Fire-fighters 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>스트레스척도를 개발하"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스, <b>직무<\/b>만족과 조직몰입에 대한 <b>직무<\/b>몰입의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606787546",
+			"description":"The Effect of Job Involvement on Job Stress, Job Satisfaction and Organizational Commitment among Firefighters in South Korea 공무원"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>수행에 미치는 영향요인 연구 : <b>직무<\/b>자율성, 동료지지",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606883372",
+			"description":"Study on the influence factors on the job performance of fire officials : focusing on job autonomy, peer support and reward 본 연구"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스의 영향요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879767483",
+			"description":" 효과적인 조직운영을 위한 <b>직무<\/b>스트레스의 관리는 무엇보다 조직구성원이 지각하고 있는 <b>직무<\/b>스트"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스의 영향요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880677964",
+			"description":" 효과적인 조직운영을 위한 <b>직무<\/b>스트레스의 관리는 무엇보다 조직구성원이 지각하고 있는 <b>직무<\/b>스트"
+		},
+		{
+			"title":"원전 <b>소방<\/b>대원들의 심리적 <b>직무<\/b>특성 분석과 관할 <b>소방<\/b>공무원들의 국가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868709959",
+			"description":"A Study on Psychological Job Characteristics of Firefighters at Nuclear Power Plants and the Effect of Local Officials Perception for T"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>만족에 영향을 미치는 요인에 관한 연구: 몽골 <b>소방<\/b>공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879679328",
+			"description":""
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스가 소진에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=648383388",
+			"description":"Moderating Effect of Vocational Calling on Firefighters’ Stress and Burnout <b>소방<\/b>공무원은 생명을 위협하는 위험, 업무 "
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>환경 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845473129",
+			"description":"A Study on Improvement of Job Environment of Fire Officers <b>소방<\/b>공무원의 역할이 급격히 증대되고 있음에도 불구하"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스 영향요인이 조직시민행동에 미치는 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650606172",
+			"description":"The effect of firefighters job stress factors on organizational citizenship behavior  표제지\n국문요약\n목차\n제1장 서론 9\n "
+		},
+		{
+			"title":"연구논문 : <b>소방<\/b>공무원 <b>직무<\/b>환경 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=52219716",
+			"description":"A Study on Improvement of Job Environment of Fire Officers <b>소방<\/b>공무원의 역할이 급격히 증대되고 있음에도 불구하"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>수행에 미치는 영향요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=605014466",
+			"description":"Study on the Influence Factors on the Job Performance of Fire Officials 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>수행에 있어 <b>직무<\/b>"
+		},
+		{
+			"title":"포항지진 투입 <b>소방<\/b>공무원의 <b>직무<\/b>만족도 결정요인에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=643133793",
+			"description":"A Study on Job Satisfaction Determinants and Implications among Firefighters in Pohang Earthquake  목차\n\n\n제1장 서론\n  1.1 연구"
+		},
+		{
+			"title":"신임<b>소방<\/b>공무원들의 <b>직무<\/b>스트레스, 우울 및 자살생각간의 관련성에 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=648383386",
+			"description":"Relevance of Job Stress, Depression, and Suicidal Ideation in New Fire Officials: Focus on Mediating Effect of Depression 본 연구는"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스, <b>직무<\/b>만족과 조직몰입에 대한 <b>직무<\/b>몰입의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=600722535",
+			"description":"The Effect of Job Involvement on Job Stress, Job Satisfaction and Organizational Commitment among Firefighters in South Korea 공무원"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>환경 개선을 위한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79694736",
+			"description":"  표제지\n목차 \n제1장 서론 9\n 제1절 연구목적 9\n 제2절 연구범위 및 방법 11\n  1. 연구의 범위 11\n  2. 연구"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스의 영향요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878232327",
+			"description":" 효과적인 조직운영을 위한 <b>직무<\/b>스트레스의 관리는 무엇보다 조직구성원이 지각하고 있는 <b>직무<\/b>스트"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스 경험과 <b>직무<\/b>스트레스 극복경험에 대한 사례",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562321730",
+			"description":"A Case Study on the Experiences of Job Stress and Overcoming Job Stress in Firefighters 본 연구의 목적은 <b>소방<\/b>공무원의 직"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>특성과 복지기본법 분석을 통한 보건·안전 및 복지시스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562100010",
+			"description":"A study on development of health, safety and welfare system through analyzing job characteristic and welfare law of firemen : focusing "
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스와 잠재적 안전사고위험도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878630957",
+			"description":" 타인의 안전을 확보하기 위하여 자신의 안전을 먼저 확보해야 한다는 것은 당연한 논리 임에도 우리"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>질환에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601392853",
+			"description":"A Study on Occupational Diseases of Fire Officials 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>질환(진료건수)에 대한 시계열 분"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>질환에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=604073965",
+			"description":"A Study on Occupational Diseases of Fire Officials 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>질환(진료건수)에 대한 시계열 분"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스와 잠재적 안전사고위험도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879881991",
+			"description":" 타인의 안전을 확보하기 위하여 자신의 안전을 먼저 확보해야 한다는 것은 당연한 논리임에도 우리"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>유형에 따른 불면과 신체화증상과의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=638315768",
+			"description":"The Relationship between Insomnia and Somatization According to Types of Work of Firefighters 연구목적<b>소방<\/b>공무원은 <b>직무<\/b> 환"
+		},
+		{
+			"title":"<b>소방<\/b>공무원 <b>직무<\/b>스트레스의 영향요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878142317",
+			"description":" 효과적인 조직운영을 위한 <b>직무<\/b>스트레스의 관리는 무엇보다 조직구성원이 지각하고 있는 <b>직무<\/b>스트"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>수행 스트레스 치유에 관한 경험 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=585212372",
+			"description":"A study on the experiences regarding the healing of job performance stress of fire fighting officers 본 연구는 <b>소방<\/b>공무원이 "
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스와 경력탄력성의 관계: <b>직무<\/b>효능감의 매개효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594361427",
+			"description":" 본 연구는 <b>소방<\/b>공무원의 <b>직무<\/b>스트레스와 경력탄력성의 관계에서 <b>직무<\/b>효능감의 매개효과를 알아보고"
+		},
+		{
+			"title":"포항지진 투입 <b>소방<\/b>공무원의 <b>직무<\/b>만족도 결정요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630729156",
+			"description":"Job Satisfaction Determinants among Firefighters in Pohang Earthquake 본 연구는 포항지역 <b>소방<\/b>공무원의 <b>직무<\/b>만족도 결"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>수행 스트레스 치유에 관한 경험 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595134020",
+			"description":"A Study on the Experiences Regarding the Healing of Job Performance Stress of Fire Fighting Officers 본 연구는 <b>소방<\/b>공무원이 "
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>수행 스트레스 치유에 관한 경험 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594155856",
+			"description":" 본 연구는 <b>소방<\/b>공무원이 <b>직무<\/b>수행과정에서 발생되는 스트레스에 대한 치유경험에 대해 살펴보고자 "
+		},
+		{
+			"title":"포항지진 투입 <b>소방<\/b>공무원의 <b>직무<\/b>만족도 결정요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=607092072",
+			"description":"Job Satisfaction Determinants among Firefighters in Pohang Earthquake 본 연구는 포항지역 <b>소방<\/b>공무원의 <b>직무<\/b>만족도 결"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b>스트레스가 웰니스에 미치는 영향 : 긍정심리자본의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873476427",
+			"description":"The Influence of Fire officials&apos;s Job stress on Wellness : A Mediating Effect of Positive Psychological Capital 본 연구는 <b>소방<\/b>공"
+		},
+		{
+			"title":"<b>소방<\/b>공무원의 <b>직무<\/b> 스트레스와 <b>직무<\/b>소진과의 관계: 그릿의 매개효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=644464282",
+			"description":"The Relationship between Occupational Stress and Burnout among Firefighters: Mediating of Grit Purpose: The purpose of this study was t"
+		},
+		{
+			"title":"제주특별자치도 <b>소방<\/b>공무원의 <b>직무<\/b>만족도에 영향을 주는 요인에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630680775",
+			"description":"A Study on the Factors affecting the Job Satisfaction of Firmen in Jeju Self-goverment Province  목    차\n\n국문요약\ti\n목    차\t"
+		}
+	]
+}

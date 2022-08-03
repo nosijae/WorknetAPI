@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:23 +0900",
+	"total":75189,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5663014&cid=62802&categoryId=62802",
+			"description":"잘 알려진대로 원자는 양성자, 중성자, <b>전자<\/b>로 구성되었다. 양성자와 중성자는 원자핵을 구성하며 <b>전자<\/b>는 원자핵 주위의 넓은 공간을 차지한다. 그렇다면 화학 결합에 1차적으로 관여하는 것은 <b>전자<\/b>일 것이다.... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20190320_95\/c4D5s_1553073325617lC3im_JPEG\/1b0fd240-452c-11e9-973e-505dacfba98a_10.jpg#1920x1080#m"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4389724&cid=60217&categoryId=60217",
+			"description":"<b>전자<\/b>(electron)는 음전하를 가지고 있는 기본 입자로서 원자의 구성 성분이기도 하다. 가장 먼저 발견된 기본 입자이자 가장 잘 알려진 기본 입자이며, 또한 가장 중요한 기본 입자이다. 지구 중력에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20180117210229706_NC09XLMMH.png\/HAtomOrbitals.png?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5749743&cid=51639&categoryId=63815",
+			"description":"[<b>전자<\/b>] 모든 원자 안에서 음전하를 띠고 있는 작은 입자 Electron : The tiny particles within all atoms that carry a negative electric charge. (동영상 출처 : Twig Education 트위그... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20190320_95\/c4D5s_1553073325617lC3im_JPEG\/1b0fd240-452c-11e9-973e-505dacfba98a_10.jpg#1920x1080#m"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139717&cid=40942&categoryId=32247",
+			"description":" 음전하를 가지는 질량이 아주 작은 입자로 모든 물질의 구성요소이다. 일반적으로 e- 로 표시한다. <b>전자<\/b>의 전하량은 기본전하량으로 모든 물질은 이 전하량의 정수배만큼의 전하량을 갖는다.... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20190904_95\/QPInP_15675770031338D7zV_JPEG\/06f2bda3-ced8-11e9-a999-28b4484d5a8e_01.jpg#1920x1080#m"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117670&cid=47338&categoryId=47338",
+			"description":"[ 2) 비전하( )의 측정] 전압에 의해 가속된 <b>전자<\/b>의 속도는 로 구할 수 있고 이렇게 운동하는 <b>전자<\/b>를 자기장 속에 넣게 되면 <b>전자<\/b>에 로렌츠 힘이 작용하게 되는데 이 힘은 구심력이 되므로 로 표현된다. 따라서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2780_000_1\/20140404171755918_13FU1AV3I.jpg\/z3_1204_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=945286&cid=47338&categoryId=47338",
+			"description":"<b>전자<\/b>의 질량은 9.1×10-31㎏으로 양성자 질량의 약 로 매우 작지만, <b>전자<\/b>의 전하는 1.6×10-19C로 양성자의 전하와 같다. 영국의 물리학자인 톰슨은 음극선이 전기장과 자기장에 의하여 휘어지는 방향을 조사한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=941109&cid=47338&categoryId=47338",
+			"description":"이 음극선이 나타내는 여러 가지 성질로 보아 음극선은 (-)전하를 가지고 있는 입자의 흐름임을 알 수 있는데, 이처럼 음전하를 가지는 질량이 아주 작은 입자를 <b>전자<\/b>라고 이름붙였다. 영국의 물리학자인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0903_000_2\/20120312165521717_WBR6K8JG2.jpg\/cb1_355_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6117803&cid=66878&categoryId=66878",
+			"description":" <b>전자<\/b>는 (-)전하를 띠며, 원자핵 주변을 도는 작은 입자로, 전기 현상을 일으켜요.  (원자핵 주변에 흩어져 있는 <b>전자<\/b>는 (-)전하를 띤 입자이다. 출처: 게티이미지뱅크) <b>전자<\/b>는 (-)전하를 갖고 원자핵 주변을 도는... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMDA5MTRfMTQ1%2FMDAxNjAwMDY5ODU1NTY3.AEQ12xYWzRQ1wIf0uIobH1XEgHOM3JnhGc_7IUqe5OYg.cGCEe0kuUBHGCGmHL_U_jtLJNOPNRrmwtGLJbiZab4Ug.JPEG%2FIyslFNpvYxs4butfwGPhDezhdXNg.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=413008&cid=42327&categoryId=42327",
+			"description":"-e=-1.602X10-19C <b>전자<\/b>의 질량=9.109X10-31kg 원자핵이 갖는 ⊕의 전기량과, <b>전자<\/b>가 갖는 ⊖의 총전기량은 같다. [자유 <b>전자<\/b>] 도체 등을 형성하는 원자 계열 속에서 원자가 가진 <b>전자<\/b>의 일부가 특정 <b>전자<\/b>의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2537_000_1\/20130723113758869_2XGAOTT0K.jpg\/i2777.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1619903&cid=50313&categoryId=50313",
+			"description":"<b>전자<\/b>전기용어사전 (1) 최소량의 음의 전하를 가진 소립자로서, 그 질량은 수소원자 질량의 약 1\/1,837이다. me=9.109×10-31㎏. (2) <b>전자<\/b>의(형용사). <b>전자<\/b>에 의해 동작하는, <b>전자<\/b>를 포함한 <b>전자<\/b>를 발생하는 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3475969&cid=58439&categoryId=58439",
+			"description":"음(-)의 전하를 띠고 있는 기본 입자로서, 음<b>전자<\/b> 이외에도 양<b>전자<\/b>도 존재한다. 원자 내부에서 양성자와 중성자로 구성된 원자핵의 주위에 분포한다.<b>전자<\/b>의 전하는 1.60217733×10－19C이며, <b>전자<\/b>의 질량... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1658824&cid=42330&categoryId=42330",
+			"description":"<b>전자<\/b>의 질량은 9.10588×100-28g(수소 원자의 1\/1840), 전하는 1.602×10-19쿨롱, 원자는 원자 번호와 같은 개수의 <b>전자<\/b>를 가지고 있으며, 화학 결합은 <b>전자<\/b>와 <b>전자<\/b>에 의한 경우가 많고, 고체나 액체 내에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1598_000_1\/20121109162907288_AXEAEOB2K.jpg\/de1_7184_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=654896&cid=42326&categoryId=42326",
+			"description":"질량 9.10588×10-28g(수소원자의 1\/1840), 전하 1.602×10-19쿨롱, 원자는 원자번호와 같은 개수의 <b>전자<\/b>를 가지고 있으며, 화학결합은 <b>전자<\/b>와 <b>전자<\/b>에 의한 경우가 많고, 고체나 액체 내에서 자유롭게 움직일 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=443943&cid=42377&categoryId=42377",
+			"description":"원자핵의 주위를 돌고 있는 원자번호 수만큼의 <b>전자<\/b>를 속박<b>전자<\/b>[각(殼)<b>전자<\/b> 또는 궤도<b>전자<\/b>]라고 말하며, 단독으로 존재하고 있는 자유<b>전자<\/b>와 구별하고 있다. <b>전자<\/b>는 전하 e-=-1.6022×10-19C, 정지질량m0... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=394608&cid=42441&categoryId=42441",
+			"description":"<b>전자<\/b>는 소립자 중에서 가장 오래 전부터 알려져 있던 것으로, 19세기 말 음극선(陰極線) 입자로서 발견되었고, 그후 모든 물질의 구성요소임이 확인되었다. 정지질량은 9.107×10-28g이고, 전하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=627130&cid=42361&categoryId=42361",
+			"description":"107×10-28g(수소 원자의 1\/1837)이다. 원자 내의 <b>전자<\/b>가 에너지를 얻으면, 원자에서 해리되어 자유 <b>전자<\/b>가 되고 고체나 액체 속을 자유롭게 이동할 수 있으며, 열이나 전기의 전도를 돕는다.",
+			"thumbnail":""
+		},
+		{
+			"title":"electron",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3470439&cid=60408&categoryId=58529",
+			"description":"<b>전자<\/b>(電子). 음전기의 최소단위 또는 입자.절대정전기 단위 4.77×10-10 또는 절대<b>전자<\/b>기 단위 1.59×10-20에 상당하며, 그의 질량은 적당한 속도로 이동하고 있을 때에 수소원자의 1\/1845, 즉 9×10-28그램이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=925803&cid=47338&categoryId=47338",
+			"description":"원자핵을 잠실 운동장 한 가운데에 놓여 있는 탁구공이라 하면 <b>전자<\/b>는 운동장 둘레를 돌고 있는 파리에 비교할 수 있다. 물론 그 사이는 아무것도 없는 완벽한 진공이다. 이 <b>전자<\/b>가 어떤 이유에 의해서 더... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=661573&cid=42434&categoryId=42434",
+			"description":"e＝4.8029×10-10 esu ＝ 1.602×10-19C. 정지질량은 mo＝9.109×10-28g＝0.5110 MeV. 모든 물질 속에 안정하게 많이 존재한다. 전류는 <b>전자<\/b>의 흐름이며 <b>전자<\/b>는 원자핵의 둘레를 돌고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=933716&cid=43667&categoryId=43667",
+			"description":" 원자핵과 더불어 원자를 구성하는 소립자의 하나.  | 외국어 표기 | 電子(한자) electron(영어) | <b>전자<\/b>는 모든 원자에 있어 핵 주위의 궤도에 존재한다. 양성자와 같은 양의 음전하를 띤다. <b>전자<\/b>의 수는 양성자의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=751464&cid=42341&categoryId=42341",
+			"description":"소립자의 일종으로, 원자핵 둘레에 존재하고, 그 개수는 원자의 종류에 따라 다르며 원자 번호와 같다. <b>전자<\/b> 1개의 전하는 -1.602×10-19C, 정지 질량은 9.108×10-31㎏이다. <b>전자<\/b>",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0748_000_1\/20111020142856655_D6L4OTWTT.jpg\/e297_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=441173&cid=50296&categoryId=50296",
+			"description":"<b>전자<\/b>와 디지털을 동의어로 사용하는 경우도 많지만, <b>전자<\/b>는 디지털뿐만 아니라 아날로그를 포함하기도 한다는 점에서 디지털과 구분되는 개념이다. 아날로그 <b>전자<\/b> 신호의 예로는 AM이나 FM 라디오 신호를 들... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=719700&cid=42319&categoryId=42319",
+			"description":"물질의 원자는 양전기를 가지고 있는 입자인 양자와 음<b>전자<\/b>를 가지고 있는 입자인 <b>전자<\/b>의 집단으로 이루어져 있다. 전류는 이 <b>전자<\/b>의 흐름이다. <b>전자<\/b>",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0719_000_1\/20110906113838949_Y8CQ59NWZ.jpg\/04652_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2041672&cid=50313&categoryId=50313",
+			"description":"원자를 구성하며 원자핵 둘레의 궤도를 선회하는 음전기를 띤 하전 입자. 플러스 전하를 띠는 양자의 수와 같은 수의 <b>전자<\/b>가 있음. 이온화, 산화 환원 반응 등 많은 반응이 분자간의 <b>전자<\/b> 이동에 의해 설명됨.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1622480&cid=50316&categoryId=50316",
+			"description":" 소립자의 일종. 스핀 1\/2인 페르미 입자.  전하는 4.80324×10-1seu를 가지며, 질량은 9.109534×10-28g 전하의 음양에 따라 양<b>전자<\/b>, 음<b>전자<\/b>가 되는데, 일반적으로 존재하는 것은 음<b>전자<\/b>다. 또한 원자핵에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6161417&cid=67725&categoryId=67725",
+			"description":"원자핵의 주위를 도는 음전하를 가진 소립자. 질량은 9.1090×10-22그램 이다. 원자의 <b>전자<\/b> 수는 원자 번호와 같다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1845433&cid=50324&categoryId=50324",
+			"description":"음전하를 가지는 아주 작은 질량의 입자이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2761769&cid=50313&categoryId=50313",
+			"description":"음전하를 가지는 질량이 아주 작은 입자.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=109206&cid=41826&categoryId=41826",
+			"description":"비어 있는 부분에 글자를 메워 넣는 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=29909",
+			"description":"중성(中性)인 원자의 중심에는 원자질량의 대부분을 가진 아주 작은크기의 원자핵(原子核)이 존재하는데, 그 둘레를 원자번호와 같은 수의 <b>전자<\/b>가 운동하며 핵의 양전하(陽電荷)를 상쇄한다.이와 같은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3014_000_1\/20140408182433142_4K48VXZG9.jpg\/20100915_52DWh1I.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2024462&cid=50826&categoryId=50826",
+			"description":"한자 서체의 한 가지. [대전(大篆)과 소전(小篆)이 있음.전서(篆書). (준말)전(篆). (참고)고전(古篆).",
+			"thumbnail":""
+		},
+		{
+			"title":"전기\/<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=42324",
+			"description":"센서용어사전, 오디오 용어사전, 전기용어사전, <b>전자<\/b>용어사전, PCB\/SMT\/PACKAGE\/DIGITAL 용어 해설집.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EC%9E%90",
+			"description":"<b>전자<\/b> (電子, 영어: electron , e − , β − )는 음(-)의 기본 전하를 띠는 아원자 입자이다. 1세대 렙톤이고, 하위 구조나 하부 입자가 알려진 바가 없기 때문에 기본 입자로 여겨진다. 양성자보다 1836배 작은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=18117",
+			"description":"ㅈ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=181788",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"전류와 전기저항",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3572450&cid=58941&categoryId=58960",
+			"description":"<b>전자<\/b>가 발견되기 이전에 이미 <b>전자<\/b>기학의 모든 현상을 설명할 수 있는 맥스웰 방정식이 발견되어 있었다. 그러나 <b>전자<\/b>의 발견으로 전기와 관계된 형상들을 훨씬 더 잘 이해할 수 있게 되었다. 특히 전류와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118154019341_U8MLIXL5O.jpg\/1_160.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=419772&cid=60277&categoryId=60277",
+			"description":"1830년대에 패러데이(Michael Faraday, 1791-1867)가 전기분해를 설명하기위해서 전하를 띤 원자란 말을 제의 하였으나, 맥스웰(Maxwell, 1831-1879)은 그의 전기와 자기의 이론에서 <b>전자<\/b>란 말을 찾아... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1838672&cid=49078&categoryId=49078",
+			"description":"핵과 <b>전자<\/b>구름으로 이루어진다. 원자의 종류는 핵 속에 들어 있는 양성자의 수에 의해 구분된다. [핵(nucleus)] 원자의 중심 부분. 전하는 양전하이다. 양성자와 중성자로 이루어지며, 그 주위로 <b>전자<\/b>가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1592_000_2\/20130408221634171_LJSB6VZ1R.jpg\/z1_1814_i1_org.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2308085&cid=60227&categoryId=60227",
+			"description":"<b>전자<\/b>는 원자 내에서 중심의 양(＋)의 전하를 가진 원자핵 주위를 운동하고 있는데 중성의 원자에서는 그 <b>전자<\/b>의 수는 중심 원자핵의 양전하의 값, 즉 원자 번호와 같다. electron이라는 말은 1891년 영국의 G.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=421675&cid=60261&categoryId=60261",
+			"description":"보어의 원자모델에서는 <b>전자<\/b>는 부의 단위전하를 갖는 입자라고 생각했으나, 원래는 양자역학적으로 기술해야 하는 소립자이다. 화합물의 화학구조를 표현하는 수단으로 원자가와 화학반응과정 표현... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1695534&cid=60542&categoryId=60542",
+			"description":"(방언) 대(代)를 이어 물림. '···내 하나 당했이믄 그만이지 무당 자식 설움을 또 <b>전자<\/b>할 수 없다. 내 하나믄 그만이지···'",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>는 누가 발견했나",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3551903&cid=60337&categoryId=60337",
+			"description":"[현대 과학의 중심이 된 톰슨] 현대의 과학과 기술은 <b>전자<\/b>의 발견으로부터 시작되었다고 할 수도 있을 것이다. <b>전자<\/b>를 발견해 현대 과학의 문을 연 사람은 J. J.라는 애칭으로 널리 알려졌던 조지프 존 톰슨... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4760_000_1\/20161223173233121_KSIPNVD24.jpg\/ca26_94_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>수표형<b>전자<\/b>화폐",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=16430&cid=43659&categoryId=43659",
+			"description":"수표의 발행·교환·추심 등의 거래과정에서 인터넷이나 공중 통신망을 이용한 <b>전자<\/b>상거래의 지급수단으로서 <b>전자<\/b>화폐의 한 종류이다.구매자가 상품을 구입한 후 수표를 발행하면, 판매자는 수표를 은행에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>잉크와 <b>전자<\/b>종이",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3571196&cid=59088&categoryId=59096",
+			"description":"쳐다봤을 때의 피로감, 종이에서 느끼는 감수성 등이 그 이유였다. 그러나 종이책의 장점을 그대로 살린 <b>전자<\/b>잉크가 나오면서 시장은 급변하고 있다. 세계 최고의 인터넷서점 아마존닷컴(www.amazon.com)에",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118133729762_ND579XXGA.jpg\/1_693.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b> 블록과 <b>전자<\/b> 회로",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3583043&cid=59160&categoryId=59162",
+			"description":"<b>전자<\/b> 블록] <b>전자<\/b> 블록을 이용하면 납땜을 하지 않고도 손쉽게 <b>전자<\/b> 회로를 구성할 수 있습니다. 바닥 판 위에 블록을 고정한 후 <b>전자<\/b> 부품을 꽂고 회로 선을 연결하여 <b>전자<\/b> 회로를 구성합니다. <b>전자<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_1\/20170502185244348_UYTJZLGZ1.jpg\/639_147781_13562.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>제품과 <b>전자<\/b>파",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6507592&cid=51004&categoryId=51004",
+			"description":"[개요] 우리는 가정에서 많은 종류의 <b>전자<\/b>제품과 무선 통신기기를 쓰고 있는데 이러한 제품의 사용으로 인해 건강에 영향이 있지 않을까 하는 의문이 제기되고 있습니다. 전기를 이용하는 모든 종류의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5961_000_5\/20211228150807567_CWVUTW8V3.do\/healthInfoImgDow.do?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>-<b>전자<\/b> 이중 공명",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=609316&cid=50313&categoryId=50313",
+			"description":"<b>전자<\/b> 상자성 공명(EPR) 분광에서의 공명법의 하나. ELDOR이 약어이다. 상자성 분자에 대해 EPR 흡수를 포화시켜 두고, 다른 초미세 분열 준위 간의 EPR흡수를 일으키면 핵스핀 완화의 결과 원래의 EPR 흡수의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>빔",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5810545&cid=60217&categoryId=60217",
+			"description":"<b>전자<\/b>빔은 운동에너지와 방향이 같은 <b>전자<\/b>들의 흐름이다. <b>전자<\/b>총을 이용하여 생성하며, <b>전자<\/b>현미경, <b>전자<\/b>빔 증발법, <b>전자<\/b>빔 용접, <b>전자<\/b>빔 리소그래피 등에 다양하게 활용된다. <b>전자<\/b>가 공기 중의 기체 분자와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190809184721351_OGCZ4N42X.jpg\/%25EC%25A0%2584%25.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139722&cid=40942&categoryId=32382",
+			"description":" 진공 또는 저압가스 속에서의 <b>전자<\/b>의 운동을 이용한 장치로 정류·증폭·발진·변조·복조(검파) 등의 작용을 할 수 있는 <b>전자<\/b>회로의 능동소자이다. <b>전자<\/b>관은 다른 여러 가지 <b>전자<\/b>부품과 함께 사용하여, 텔레비전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"열<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741410&cid=60217&categoryId=60217",
+			"description":"열에 의해 금속이나 반도체 표면에서 방출되는 <b>전자<\/b>를 ‘열<b>전자<\/b>’라고 한다. [열<b>전자<\/b>의 역사]먼저, 열<b>전자<\/b>를 이해하기 위해서는 열<b>전자<\/b> 방출 또는 리처드슨 효과를 알아야한다. 도체나 반도체를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190228190618401_44AWMEJRH.png\/EM-04_%25EC%2597.png?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>파",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3475967&cid=58439&categoryId=58439",
+			"description":"<b>전자<\/b>파는 전기장과 자기장의 2가지 성분으로 구성된 파동으로서 공간상에서 광속으로 전파한다.<b>전자<\/b>기파는 광자를 매개로 전달되며 파장의 길이 따라 전파, 적외선, 가시광선, 자외선, X선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>쌍",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6119298&cid=40942&categoryId=32245",
+			"description":" 같은 분자 궤도를 차지하지만 스핀 방향이 다른 두 개의 <b>전자<\/b>.  동일한 분자 궤도(오비탈)을 점유하면서 스핀 상태가 다른 두 개의 <b>전자<\/b>를 <b>전자<\/b>쌍이라고 한다. 파울리의 배타원리(Pauli's principle)에 따르면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"열<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1126865&cid=40942&categoryId=32381",
+			"description":" 높은 온도로 가열한 금속이나 반도체 표면에서 방출되는 <b>전자<\/b>.  텅스텐과 같은 금속물질로 만들어진 필라멘트를 뜨겁게 하면, 필라멘트 속의 <b>전자<\/b>는 물질의 구속을 깰 수 있는 큰 에너지를 얻게 된다. 이렇게 큰... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_259\/20131031170210173_7XSBKWGH9.gif\/113132_0.gif?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>파",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=9152&cid=43659&categoryId=43659",
+			"description":"<b>전자<\/b>장의 진동이 파동의 형태로 전파되는 현상. 영국의 물리학자 맥스웰은 전하나 전류가 존재하지 않는 공간 속에서도 전장과 자장이 서로 도와가며 파동모양으로 전파될 수 있다는 것을 예언했다. 이것이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>약",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1977841&cid=43667&categoryId=43667",
+			"description":" 뇌와 신경세포에서 발생하는 전기신호를 통해 질병을 치료하는 <b>전자<\/b>장치로, 기존의 약이나 의료 시술보다 안전하고 편하게 질병을 치료하기 위해 개발 중이다. <b>전자<\/b>약은 치매, 뇌전증 등의 뇌질환을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>북",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=16425&cid=43659&categoryId=43659",
+			"description":"즉, 인쇄과정을 거치지 않고 인터넷상에서 직접 보거나 파일을 다운로드하여 개인용 컴퓨터나 개인휴대 단말기(PDA)에 저장한 후 전용 뷰어로 볼 수 있도록 출판·판매되는 서적을 말한다.<b>전자<\/b>북은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>빔",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139750&cid=40942&categoryId=32242",
+			"description":" <b>전자<\/b>총에서 나오는 속도가 거의 균일한 <b>전자<\/b>의 연속적 흐름을 말하며 <b>전자<\/b>선이라고도 한다. 파장이 극히 짧으므로 진공인 경우 또는 전기장·자기장이 없을 경우에는 직선으로 전파된다고 보아도 된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"LG<b>전자<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/LG%EC%A0%84%EC%9E%90",
+			"description":"LG<b>전자<\/b> ( 영어: LG Electronics )는 <b>전자<\/b> 제품을 생산하는 대한민국의 기업이다. 역사 1958년 금성사 (金星社, Goldstar)란 이름으로 설립, 이듬해 1959년 11월 15일 대한민국 최초로 진공관 라디오를 생산하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"d<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2283324&cid=60227&categoryId=60227",
+			"description":"일반적으로 3d, 4d, 5d 등의 d 궤도에 있는 <b>전자<\/b>를 d <b>전자<\/b>라 부르는데(⇀ 원자 궤도 함수), 특히 철족의 전이 금속 원자의 결합에 관여하지 않는 3d 궤도에 있는 <b>전자<\/b>를 가리키는 경우가 많다. d 궤도는 자기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2822_000_1\/20140214135637347_WNUKX39R8.jpg\/cc6_7042_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"p<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2320429&cid=60227&categoryId=60227",
+			"description":"<b>전자<\/b>의 p궤도에 있는 <b>전자<\/b>를 p<b>전자<\/b>라 부른다. p궤도는 원자핵의 위치를 중심으로 해서 아령형으로 분포하기 때문에, s궤도와 달리 방향성을 갖는다. 그림은 3종류의 2p 궤도 중의 2pz 궤도의 모양을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"π<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2316540&cid=60227&categoryId=60227",
+			"description":"2원자 분자의 <b>전자<\/b> 상태를 분자 궤도 함수법에서 논할 때, 결합축 주위의 각운동 양자수가 ±1인 궤도를 π궤도라고 부르고, 거기에 속하는 <b>전자<\/b>를 π<b>전자<\/b>라 한다. 이 정의는 그대로 일반 직선형 분자에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2822_000_8\/20141010182952494_1OPP472EY.jpg\/cc6_40273_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"π<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=610769&cid=42420&categoryId=42420",
+			"description":"π결합을 구성하고 있는 <b>전자<\/b>. 2원자 분자의 상태를 분자궤도 함수로 나타낼 때, 분자축 둘레의 각운동 양자수가 ±1인 궤도를 π궤도, 0인 궤도를 σ궤도라 하며 각각에 속하는 <b>전자<\/b>를 π<b>전자<\/b>, σ<b>전자<\/b>라고 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"f <b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2301308&cid=60227&categoryId=60227",
+			"description":"방위 양자수(方位量子數) 3의 궤도를 차지하는 <b>전자<\/b>. 희토류 원소에서는 원자의 <b>전자<\/b> 배치는 바깥껍질 <b>전자<\/b>로서 모두 같이 6s 궤도에 2개의 <b>전자<\/b>가 있으며 내부의 4f 궤도에 있는 <b>전자<\/b>의 수가 다르게 되어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"σ<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2296220&cid=60227&categoryId=60227",
+			"description":"에틸렌, 벤젠 등의 불포화 결합을 가진 분자에서는 결합에 관여하는 <b>전자<\/b>를 분자 궤도를 구성하는 원자 궤도 함수의 형에 의해 σ<b>전자<\/b>와 π<b>전자<\/b>로 분류한다. 여기에서 분자 내 각 결합축 둘레의 각운동량의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"LG<b>전자<\/b>㈜",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=581073&cid=46630&categoryId=46630",
+			"description":" 1958년에 설립된 <b>전자<\/b>·전기 제조업체. [내용] LG<b>전자<\/b>㈜의 모태는 1958년 10월에 설립된 금성사다. 창업자인 구인회 회장은 1947년 락희화학을 세워 플라스틱 사업으로 성공을 거두자, 금성사를 설립하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_3\/20180319211505810_346ZAA2D6.jpg\/ffb36fc3-e753-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"s <b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2300832&cid=60227&categoryId=60227",
+			"description":"방위 양자수(方位量子數) 0의 궤도를 차지하는 <b>전자<\/b>. s <b>전자<\/b>는 원자핵 주위에 구대칭(球對稱)으로 분포되고 방향성을 가지지 않는다. 예를 들면 수소 원자나 알칼리 금속 원자에서는 단 1개의 원자가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자유<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137788&cid=40942&categoryId=32242",
+			"description":" 원자 내 <b>전자<\/b>들이 핵과의 인력에 의해 고정되어 있는데 반해 일정 영역 내에서 움직임이 자유로운 <b>전자<\/b>다. 주로 금속 내에 있으며, 진공관 등에서는 열<b>전자<\/b> 방출로 인해 자유<b>전자<\/b>가 기체상태로 있기도... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_259\/20131031175828197_62K3LWQTV.gif\/131870_0.gif?type=m160_160"
+		},
+		{
+			"title":"속박<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3537100&cid=60217&categoryId=60217",
+			"description":"속박<b>전자<\/b>는 주어진 환경에 의하여 공간적으로 제한된 영역에 갇힌 <b>전자<\/b>를 일컫는다. 속박된 <b>전자<\/b>라고도 부른다. <b>전자<\/b>와 같은 미시 세계를 올바르게 기술하기 위해서는 양자역학이 필수적이다. 아무런... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>어음",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1233246&cid=40942&categoryId=31827",
+			"description":" <b>전자<\/b>문서로 작성되고 <b>전자<\/b>어음관리기관에 등록된 약속어음.  <b>전자<\/b>어음이란 기존의 실물어음과는 달리 <b>전자<\/b>문서 형태로 작성되고 <b>전자<\/b>어음을 발행하고자 하는 자가 <b>전자<\/b>어음관리기관에 등록한 약속어음을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>지문",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2066308&cid=50305&categoryId=50305",
+			"description":"<b>전자<\/b>문서에서 추출된 고유코드로 <b>전자<\/b>문서마다 각각의 다른 <b>전자<\/b>지문을 갖는다. 이런 성질을 이용해 <b>전자<\/b>지문을 제3기관에 보관해 놓을 경우 추후에 <b>전자<\/b>문서의 생성시점 및 원본 여부를 확인할 수 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>렌즈",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741408&cid=60217&categoryId=60217",
+			"description":"<b>전자<\/b> 빔을 집속하거나 경로를 바꿀 수 있는 장치를 <b>전자<\/b>렌즈라고 한다. [목차] 1.개요 2.로런츠힘과의 관계 3.<b>전자<\/b>렌즈의 이용 개요 <b>전자<\/b>나 전하를 띤 이온의 빔을 집속하거나 경로를 바꾸어야 할 때가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190228193107920_BY46PW9SI.jpg\/%25EC%258A%25AC%25.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>렌즈",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139743&cid=40942&categoryId=32244",
+			"description":" 전기장이나 자기장에 의하여 <b>전자<\/b>빔을 집속 또는 발산시키는 장치를 말하며 <b>전자<\/b>현미경에서 자기장형 <b>전자<\/b>렌즈가 많이 쓰인다.  <b>전자<\/b>는 음전기를 가지는 입자이며, 전기장이나 자기장 속에서는 그 진로가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_20\/20150518120032144_H5NKTB133.gif\/134954_0.gif?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>스핀",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5937560&cid=60217&categoryId=60217",
+			"description":"<b>전자<\/b>의 고유 각운동량으로 <b>전자<\/b>의 자전과 비슷한 효과를 가지고 있다. <b>전자<\/b>의 고유한 각운동량으로 <b>전자<\/b>의 자전과 비슷한 효과를 가지고 있다. 그러나 실제로 <b>전자<\/b>가 자전하는 것이 아닌 설명의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20200403130513206_7DH5PBZ1P.png\/%25EC%25A0%2584%25.png?type=m160_160"
+		},
+		{
+			"title":"자유<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4389813&cid=60217&categoryId=60217",
+			"description":"자유<b>전자<\/b>는 도체 물질에 대한 모형에서 상호작용이 없이 자유롭게 움직일 수 있다고 가정한 <b>전자<\/b>들이다. 금속 원자들이 금속결합을 하며 고체를 이룰 때 각 원자에서 떨어져 나온 원자가<b>전자<\/b>를 자유<b>전자<\/b>로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20191220182325807_SKSUHVXN8.png\/261_%25EC%259E%25.png?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>화폐",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=16446&cid=43659&categoryId=43659",
+			"description":"칩이 내장된 카드나 공중정보통신망과 연결된 PC 등의 <b>전자<\/b>기기에 <b>전자<\/b>기호 형태로 화폐적 가치를 저장하였다가 상품 등의 구매에 사용할 수 있는 <b>전자<\/b> 지급 수단. 휴대가 편하고, 누가 어떤 상점에서 무엇을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"과잉<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741195&cid=60217&categoryId=60217",
+			"description":"반도체 결정에 불순물을 넣어주어 결정을 이루는 결합에 기여하고 남은 <b>전자<\/b>를 과잉<b>전자<\/b>라고 한다. 순수한 4족 반도체 결정에 불순물로 3족 또는 5족 원소를 넣어주면 전도성이 크게 향상된다. 예를 들어... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190228181343152_GK4CXRP74.png\/%25EA%25B3%25BC%25.png?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>공업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=546569&cid=46631&categoryId=46631",
+			"description":" <b>전자<\/b>공학을 기술의 기본으로 삼아 <b>전자<\/b>기기를 제조하는 공업. [내용] 「<b>전자<\/b>공업진흥법」 제2조(정의)에서는 “<b>전자<\/b>관·반도체소자, 기타 이와 유사한 부품을 사용하여 <b>전자<\/b>의 운동과 특성을 응용하는 기계... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_15\/20181031221431438_NBXPQL0Z8.jpg\/1e22fe35-87e4-4e.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>공업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139719&cid=40942&categoryId=32372",
+			"description":" 컴퓨터 소프트웨어를 포함한 <b>전자<\/b>공학을 기술의 기본으로 한 <b>전자<\/b>기기의 제조공업이다.  전기기계공업 중에서 컴퓨터 소프트웨어를 포함한 <b>전자<\/b>공학을 기술의 기본으로 한 <b>전자<\/b>기기의 제조공업을 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_376\/20210617085752986_6RLKX382N.jpg\/12036943.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>도너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139739&cid=40942&categoryId=32251",
+			"description":" 일반적으로 음전하 또는 비공유<b>전자<\/b>쌍을 가지는 것으로, 양전하 또는 <b>전자<\/b>쌍이 결여된 부분에 <b>전자<\/b>를 잘 공여하는 이온·원자·분자의 총칭이다.  <b>전자<\/b>공여체(電子供與體)·<b>전자<\/b>주개라고도 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>전기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3577620&cid=59087&categoryId=59087",
+			"description":"강력한 전파교란 장치를 이용해 레이더와 통신장비를 무력화시키는 미 해군의 EA-18G <b>전자<\/b>전기 &#60;출처: 미 해군&#62; 오늘날의 전쟁은 첨단 무기들에 의한 대결이라고 할 수 있다. 이 중에서도 각종 <b>전자<\/b>장비들은... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20140120_59\/IN10557_139020227423645R9B_JPEG\/1390202274227.jpg#660x371#m"
+		},
+		{
+			"title":"<b>전자<\/b>신문",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2456620&cid=46668&categoryId=46668",
+			"description":" <b>전자<\/b>신문사에서 발행하는 <b>전자<\/b>·정보통신분야 전문 일간신문. [편찬\/발간 경위] 『<b>전자<\/b>신문』은 1982년 2월 4일 설립된 윅기술진흥(<b>전자<\/b>신문사의 전신)이 같은 해 9월 22일 ‘<b>전자<\/b>정보산업 진흥과 정보사회... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>껍질",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4389620&cid=60217&categoryId=60217",
+			"description":"원자의 <b>전자<\/b>껍질(또는 껍질)은, 원자핵 주변에서 <b>전자<\/b>가 운동하는 궤도로서, 위치보다는 에너지 준위로 규정된다. 즉, 원자는 원자핵을 중심으로 <b>전자<\/b>껍질이 쌓여 이루어진 것이다. 한 <b>전자<\/b>껍질은 버금... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20180117222326271_JM5VUBWO6.jpg\/subshell.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>지갑",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=71852&cid=43667&categoryId=43667",
+			"description":"<b>전자<\/b>상거래에서 사용되는 <b>전자<\/b>지불시스템의 일종으로 IC형 <b>전자<\/b>화폐인 스마트카드와는 달리 PC의 하드디스크나 가상은행 계좌에 화폐가치를 저장해 지갑처럼 사용하면서 <b>전자<\/b>상거래 시 대금을 결제할 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>밀도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139747&cid=40942&categoryId=32242",
+			"description":" 단위부피당 <b>전자<\/b>수를 말하며 결정 내의 <b>전자<\/b>밀도는 X선회절에 의해 구한 구조인자에서 계산할 수 있다.  고속 하전입자(荷電粒子)가 물질을 통과할 때 그 물질을 구성하는 원자나 분자와 충돌하여 이온을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전도<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3537226&cid=60217&categoryId=60217",
+			"description":"전도<b>전자<\/b>는 고체 물질의 페르미에너지 아래에 있는 원자가띠에 차 있던 일부 <b>전자<\/b>가 페르미에너지를 넘어 비어 있는 전도띠로 뜰떠 올라가서 자유로이 이동할 수 있는 <b>전자<\/b>이다. 전도<b>전자<\/b>는 어느 특정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741330&cid=60217&categoryId=60217",
+			"description":"<b>전자<\/b>공학은 진공 또는 여러 물질의 상태에서 <b>전자<\/b>의 전기적 흐름, 빛과의 상호작용을 제어하고 이를 통해 <b>전자<\/b>와 물질에 대한 물성을 연구하는 물리학, 공학, 그리고 이를 통한 기술적 응용 학문을 모두... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190228192647803_L66M6ME4D.png\/SL-03_%25EC%25A0.png?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>껍질",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139738&cid=40942&categoryId=32242",
+			"description":" <b>전자<\/b>들이 취하는 에너지상태를 간단히 구별하기 위해서 원자핵을 중심으로 한 <b>전자<\/b>들이 이루는 여러 층의 껍질을 말하며 <b>전자<\/b>각이라고도 한다. 원자 내의 <b>전자<\/b>는 에너지가 낮은 껍질부터 차례로 들어가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_354\/20190821202215777_3KX34OKDZ.jpg\/10686594.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>어음",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1847230&cid=43667&categoryId=43667",
+			"description":" <b>전자<\/b>문서 형태로 작성되고 <b>전자<\/b>어음관리기관에 등록된 약속어음을 말한다.  | 외국어 표기 | electronic bill(영어) | 실물어음과 다르게 발행인, 수취인, 금액 등의 어음정보가 <b>전자<\/b>문서로 작성된 후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>화폐",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1167738&cid=40942&categoryId=31827",
+			"description":" IC카드 또는 네트워크에 연결된 컴퓨터에 은행예금이나 돈 등이 <b>전자<\/b>적 방법으로 저장된 것으로 현금을 대체하는 <b>전자<\/b> 지급 수단.  기존의 지폐나 주화를 대체하는 새로운 개념의 <b>전자<\/b>적 결제 수단으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>화폐",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=932568&cid=43667&categoryId=43667",
+			"description":" IC칩이 내장된 카드나 공중정보통신망과 연결된 PC 등의 <b>전자<\/b>기기에 <b>전자<\/b>기호 형태로 화폐적 가치를 저장하였다가 상품 등의 구매에 사용할 수 있도록 하는 <b>전자<\/b>지급 수단.  | 외국어 표기 | 電磁貨幣... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>출판",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139774&cid=40942&categoryId=31768",
+			"description":" <b>전자<\/b>기술을 이용한 출판.  최종 인쇄매체에 따라, 종이를 이용한 출판에서 제작공정을 전산화하는 것을 '종이책 <b>전자<\/b>출판(paper book computer aided publishing)', 뉴미디어 소재를 이용한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"궤도<b>전자<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4389991&cid=60217&categoryId=60217",
+			"description":"궤도<b>전자<\/b>는 원자에서 원자핵 주위를 양자역학적으로 운동하는 <b>전자<\/b>를 의미한다. 이 때 <b>전자<\/b>의 운동은 에너지(n), 각운동량 크기(l) 및 각운동량 벡터 성분(m)에 해당하는 특정한 양자수(n,l,m)를 가지는 수학적... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20180326180716432_0AQFX46K0.png\/Bohr-atom-PAR.sv.png?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>회절",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139777&cid=40942&categoryId=32242",
+			"description":" 고속 <b>전자<\/b>빔의 물질에 의한 회절현상 및 이를 이용한 물질의 미시적 구조 해석을 말하며 <b>전자<\/b>빔회절·<b>전자<\/b>선회절이라고도 한다. 1927년 C.J.데이비슨과 L.H.거머가 니켈의 결정면에 <b>전자<\/b>빔을 조사하여 특유한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139720&cid=40942&categoryId=32378",
+			"description":" <b>전자<\/b>의 운동을 추구하여 이용하는 것으로 진공 속이나 기체, 고체 내에서의 <b>전자<\/b>의 운동을 연구하는 학문 및 그것을 이용하는 기술을 말한다. 진공관의 발명이 <b>전자<\/b>공학이라는 개념을 발견하는 시발점이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>화폐",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=300171&cid=43665&categoryId=43665",
+			"description":" <b>전자<\/b>매체(컴퓨터, IC카드, 네트워크 장비 등)를 통해 지급결제 · 가치이전 등 화폐의 기능을 수행하는 <b>전자<\/b>지급수단을 말한다.  <b>전자<\/b>매체(컴퓨터, IC카드, 네트워크 장비 등)를 통해 지급결제 · 가치이전 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>폭탄",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1217292&cid=40942&categoryId=31746",
+			"description":" 강력한 <b>전자<\/b>파를 쏘아서 <b>전자<\/b> 시스템을 파괴하는 신형무기.  러시아가 개발한 병기이다. 아무런 흔적도 남기지 않고 목표물을 파괴하는, 폭발하지 않는 조용한 무기이다. '고출력 극초단파(HPM:high power... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>구름",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3537234&cid=60217&categoryId=60217",
+			"description":"<b>전자<\/b>구름은 원자를 이루는 <b>전자<\/b>가 구름처럼 분명하지 않지만 일정한 모양으로 분포하는 것을 비유하는 것이다. 원자구조에 관한 <b>전자<\/b>구름 모형은 근대 원자모형 중 하나인 보어 원자모형을 대체하였다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20180117222008598_JFR2U6Q9E.jpg\/Electron-cloud-s.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>시계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139760&cid=40942&categoryId=32354",
+			"description":" <b>전자<\/b>의 움직임을 이용한 시계.  보통의 손목시계 ·벽시계 ·탁상시계 등은 기계시계라 하고, 전지시계 ·전기시계 ·직류전기시계 ·동기전동기시계 ·전파시계 등은 전기시계라고 한다. 또, 음차시계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>어음",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=300381&cid=43665&categoryId=43665",
+			"description":" 기존의 실물어음과는 달리 발행인, 수취인, 금액들의 어음 정보를 <b>전자<\/b>문서 형태로 작성되며, <b>전자<\/b>어음관리기관의 전산시스템에 등록 · 유통되는 약속어음을 말한다.  기존의 실물어음과는 달리 발행인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>금융",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062410&cid=42107&categoryId=42107",
+			"description":"<b>전자<\/b>금융이란 은행의 금융서비스 전달 채널을 <b>전자<\/b>화한 것으로서 이를 통해 은행은 서류와 현금을 직접 이동시키는 대신 <b>전자<\/b>정보의 교환만으로 금융거래를 할 수 있기 때문에 점포의 창구직원을 통하지... ",
+			"thumbnail":""
+		}
+	]
+}

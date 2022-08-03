@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:14 +0900",
+	"total":3191,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>직무<\/b>스트레스의 연구 경향 분석 : <b>사회과학<\/b>분야를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879532384",
+			"description":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 학문분야의 <b>직무<\/b>스트레스에 대한 연구경향분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842178788",
+			"description":"Research trend analysis on job stress in the social sciences disciplines: For the papers published in excellent and registered journals"
+		},
+		{
+			"title":"<b>사회과학<\/b> 학문분야의 <b>직무<\/b>스트레스에 대한 연구경향분석: 한국연구재단",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843279330",
+			"description":"Research trend analysis on job stress in the social sciences disciplines: For the papers published in excellent and registered journals"
+		},
+		{
+			"title":"<b>사회과학<\/b> 학문분야의 <b>직무<\/b>스트레스에 대한 연구경향분석: 한국연구재단",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879493738",
+			"description":"Research trend analysis on job stress in the social sciences disciplines: For the papers published in excellent and registered journals"
+		},
+		{
+			"title":"인문,<b>사회과학<\/b>편 : 중학교 체육교사의 초과근무가 <b>직무<\/b>탈진에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=719704819",
+			"description":"   Psychology, Ophthalmology "
+		},
+		{
+			"title":"<b>사회<\/b>복지서비스 질에 있어 <b>사회<\/b>복무요원과 <b>사회<\/b>복지사간 관계의 매개효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58314641",
+			"description":"The Study on the Mediated Effect of Public Service Workers and Social Workers about the Quality of Social Services: Based on Job Factor"
+		},
+		{
+			"title":"<b>사회<\/b>복지시설 종사자의 임파워먼트가 서비스 질에 미치는 영향에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562516725",
+			"description":"Mediating Effects of Job Satisfaction in the Influence of Empowerment on Service Quality in Social Welfare Facility Workers 본 연구"
+		},
+		{
+			"title":"인문,<b>사회과학<\/b>편 : 생활체육지도자의 감정노동과 <b>직무<\/b>소진, <b>직무<\/b>만족 및",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843265451",
+			"description":"   Turnover intention, Social psychology, Psychology, Job burnout "
+		},
+		{
+			"title":"인문·<b>사회과학<\/b>편 : 스키 강사의 역할 스트레스와 <b>직무<\/b>만족, 조직몰입 및",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882358979",
+			"description":"   Turnover intention, Role stress, Psychology, Andrology "
+		},
+		{
+			"title":"인문,<b>사회과학<\/b>편 : 스포츠센터 조직구성원의 <b>직무<\/b>특성과 임파워먼트 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842390446",
+			"description":"   Social psychology, Psychology "
+		},
+		{
+			"title":"빅데이터를 통해 본 한국<b>사회<\/b>의 미래: 언론사 뉴스기사와 <b>사회과학<\/b> 학술",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=557874608",
+			"description":"Forecasting the Future Korean Society: A Big Data Analysis on &apos;Future Society&apos;-related Keywords in News Articles and Academic Papers "
+		},
+		{
+			"title":"<b>사회<\/b>복지조직 구성원의 임파워먼트와 조직 공정성 지각이 조직몰입과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232457611",
+			"description":"Influences of Empowerment and Perception on Organizational Justice of Members in Social Welfare Organization Upon Organizational Commit"
+		},
+		{
+			"title":"<b>사회과학<\/b>조사분석에서 매개효과 및 조절효과에 대한 실증 연구: 중소기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=580723891",
+			"description":"An Empirical Study on the Mediating Effect and Moderating Effect in the Social Science Survey: Focused on the Leadership of Medium-size"
+		},
+		{
+			"title":"빅데이터를 통해 본 한국<b>사회<\/b>의 미래: 언론사 뉴스기사와 <b>사회과학<\/b> 학술",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594700136",
+			"description":"Forecasting the Future Korean Society: A Big Data Analysis on &apos;Future Society&apos;-related Keywords in News Articles and Academic Papers "
+		},
+		{
+			"title":"빅데이터를 통해 본 한국<b>사회<\/b>의 미래: 언론사 뉴스기사와 <b>사회과학<\/b> 학술",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846327553",
+			"description":"Forecasting the Future Korean Society: A Big Data Analysis on &apos;Future Society&apos;-related Keywords in News Articles and Academic Papers "
+		},
+		{
+			"title":"미래<b>사회 과학<\/b>기술인력의 역량모델 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846269160",
+			"description":" 가까운 미래에 도래할 제4차 산업혁명은 물리적 공간과 디지털 공간의 경계가 무너지는 융합의 시대"
+		},
+		{
+			"title":"미래<b>사회 과학<\/b>기술인력의 역량모델 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561468357",
+			"description":"The Competency Model Development of Science and Technology(S&amp;T) Personnel for the 4th Industrial Revolution 가까운 미래에 도래"
+		},
+		{
+			"title":"빅데이터를 통해 본 한국<b>사회<\/b>의 미래: 언론사 뉴스기사와 <b>사회과학<\/b> 학술",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=528445101",
+			"description":"Forecasting the Future Korean Society: A Big Data Analysis on &apos;Future Society&apos;-related Keywords in News Articles and Academic Papers "
+		},
+		{
+			"title":"인문,<b>사회과학<\/b>편 : 공공 스포츠조직의 변혁적·거래적 리더십과 구성원",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601596933",
+			"description":"The Study of Casual Relationship among Transactional·Transformational Leadership, Job commitment and Organizatioal Citizenship Behavio"
+		},
+		{
+			"title":"<b>사회<\/b>적 네트워크와 조직몰입 및 <b>직무<\/b>만족의 관계: <b>직무<\/b>열의의 매개효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56416409",
+			"description":"The Relationship between Social Network and Organizational Commitment and Job Satisfaction: Focused on Mediating Effects of Job Engagem"
+		},
+		{
+			"title":"인문 · <b>사회과학<\/b>편 : 태권도 지도자의 <b>직무<\/b> 만족도에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601602726",
+			"description":"A Study on the Job Satisfaction of TaeKwonDo Instructors The purpose of this study was to measure the level of job satisfaction felt am"
+		},
+		{
+			"title":"우리나라 기능직공무원의 <b>직무<\/b>만족에 미치는 요인 및 영향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56567426",
+			"description":"An Analysis on Job Satisfaction Factors of Government Officers in Technical Posts 본 연구는 우리나라 기능직 공무원들을 "
+		},
+		{
+			"title":"안경사의 감정노동에 따른 <b>직무<\/b>스트레스와 <b>직무<\/b>만족 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288779609",
+			"description":"Analysis of relation between job stress and job satisfaction caused by emotional labor of optometrists 본 연구는 안경사의 감"
+		},
+		{
+			"title":"직장인의 전공-<b>직무<\/b> 일치 여부와 이직의도와의 관계: <b>직무<\/b>만족과 조직몰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561892599",
+			"description":"The Relationship between Employee’s Major-Job Congruence and Turnover Intention: The Mediating Effects of Job Satisfaction and Organi"
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 <b>직무<\/b>소진 및 스트레스 증상에 대한 긍정심리기반 근로자 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822739836",
+			"description":"The Effect of Positive Psychology Based Employee Assistance Program (EAP) on Burnout and Stress of Social Worker 본 연구는 <b>직무<\/b> "
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 <b>직무<\/b>소진 및 스트레스 증상에 대한 긍정심리기반 근로자 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877868721",
+			"description":"The Effect of Positive Psychology Based Employee Assistance Program (EAP) on Burnout and Stress of Social Worker 본 연구는 <b>직무<\/b> "
+		},
+		{
+			"title":"<b>직무<\/b>만족, 조직몰입, 리더-부하교환관계가 조직시민행동에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=128769230",
+			"description":"The Relationship among Job Satisfaction, Organizational Commitment, Leader-Member Exchange and Organizational Citizenship Behavior 본 "
+		},
+		{
+			"title":"지역아동센터 종사자의 임파워먼트와 소진, 조직헌신의 관계: <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=128448275",
+			"description":"Relationship among Empowerment and Burnout, Organizational Commitment of Workers in Community Child Centers: Mediating Effect of Job Sa"
+		},
+		{
+			"title":"치과위생사의 업무영역별 <b>직무<\/b>수행률 및 <b>직무<\/b>수행능력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291029276",
+			"description":"Job performance and Job performance rate of clinical dental hygienist 본 연구는 2011년 8월부터 2011년 9월까지 임상치과"
+		},
+		{
+			"title":"교육과 <b>직무<\/b>의 불일치―한․일 대학졸업자들을 중심으로―",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290240528",
+			"description":"Mismatch between Education and Job: Focusing on College Graduates in Korea and Japan 본 연구는 한일 대학졸업자들을 대상"
+		},
+		{
+			"title":"지적장애학생의 <b>직무<\/b>기술 습득을 위한 지역<b>사회<\/b>중심 직업훈련프로그램 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289796693",
+			"description":"A Literature Review of Community-Based Job Training Programs for the Work Skills Acquisition for Students with Intellectual Disabilitie"
+		},
+		{
+			"title":"수도권 장기요양시설 요양보호사의 <b>직무<\/b>만족 영향요인 연구-교육, <b>직무<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289434314",
+			"description":"A Study on Influence Factors for Job Satisfaction of Care Nurses in Long Term Care Facilities in the Metropolitan Area -focused on educ"
+		},
+		{
+			"title":"중고령 요양보호사의 역량 강화를 위한 연구: 교육참여가 <b>직무<\/b>만족도에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891365711",
+			"description":"The Study on Improving the competence of Middle-Aged Caregivers: Mediating Effect of Professional Pride in the Effect of Participation "
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 <b>직무<\/b>스트레스가 <b>직무<\/b>만족에 미치는 영향 : 자기효능감 매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606911236",
+			"description":"The effects of job stress on job satisfaction in social workers : focused on the mediating effects of self-efficacy 본 연구는 사"
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 <b>직무<\/b>스트레스가 <b>직무<\/b>만족에 미치는 영향: 자기효능감 매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=602801271",
+			"description":"The Effects of Job stress on Job satisfaction in Social workers: Focused on the Mediating Effects of Self-efficacy 본 연구는 <b>사회<\/b>"
+		},
+		{
+			"title":"<b>사회<\/b>복지사들이 경험하는 공감이 <b>직무<\/b>성과에 미치는 영향: 긍정심리자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630750063",
+			"description":"The Effect of Compassion on the Job Performance of Social Workers: Mediating Effects of Positive Psychological Capital 본 연구의 "
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 <b>직무<\/b>스트레스가 <b>직무<\/b>만족에 미치는 영향: 자기효능감 매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601395897",
+			"description":"The Effects of Job stress on Job satisfaction in Social workers: Focused on the Mediating Effects of Self-efficacy 본 연구는 <b>사회<\/b>"
+		},
+		{
+			"title":"경찰 공무원의 개인차원 및 조직차원의 변수가 <b>직무<\/b>스트레스 및 <b>직무<\/b>만",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232433269",
+			"description":"Impact of Police Officer’s Personal and Group Level Variables on Job Stress and Job Satisfaction 본 연구에서는 국민 전체의"
+		},
+		{
+			"title":"<b>직무<\/b>스트레스와 마음챙김, <b>직무<\/b>만족이 정신건강에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186823254",
+			"description":"The Effects of Job stress, Mindfulness and Job Satisfaction to Mental Health 본 연구의 목적은 <b>직무<\/b>스트레스가 정신건강"
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 <b>직무<\/b>환경과 임파워먼트가 조직몰입에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=602801413",
+			"description":"The Effect of social worker s job environment and empowerment on organizational commitment 본 연구는 <b>사회<\/b>복지시설에 근무"
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 <b>직무<\/b>환경과 임파워먼트가 조직몰입에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601395906",
+			"description":"The Effect of social worker&apos;s job environment and empowerment on organizational commitment 본 연구는 <b>사회<\/b>복지시설에 근무"
+		},
+		{
+			"title":"성격특성과 <b>직무<\/b>만족 간의 관계 : 비정규직 여성 텔레마케터를 대상으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12957495",
+			"description":"  목차\n성격특성과 <b>직무<\/b>만족 간의 관계:비정규직 여성 텔레마케터를 대상으로\/박제일;이정현 1\n 요약 1"
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 <b>직무<\/b>환경과 임파워먼트가 조직몰입에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606911220",
+			"description":"The Effect of social worker&apos;s job environment and empowerment on organizational commitment 본 연구는 <b>사회<\/b>복지시설에 근무"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS)의 직업기초능력이 <b>직무<\/b>수행능력에 대한 만족에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=156141241",
+			"description":"Factors of core competency of NCS influencing satisfaction about job competency 본 연구는 산업맞춤형 <b>직무<\/b>기반 교육과정"
+		},
+		{
+			"title":"비정규직 <b>사회<\/b>복지사의 개인-조직적합성이 <b>직무<\/b>만족에 미치는 영향 : 일",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595485627",
+			"description":"Person-organization fit effects on job satisfaction of non-regular social workers : focusing on the mediating effect of meaning in work"
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 소진과 열정이 <b>직무<\/b>만족과 삶의 만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=599109447",
+			"description":"The effect of burnout and passion of social workers on job satisfaction and life satisfaction 본 연구는 <b>사회<\/b>복지사가 지각"
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 소진과 열정이 <b>직무<\/b>만족과 삶의 만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=597677198",
+			"description":"The effect of burnout and passion of social workers on job satisfaction and life satisfaction 본 연구는 <b>사회<\/b>복지사가 지각"
+		},
+		{
+			"title":"잠재프로파일성장분석을 활용한 임금근로 장애인의 <b>직무<\/b>만족 변화유형",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882690707",
+			"description":"A Study on Job Satisfaction of Wage Workers with Disabilities Using Latent Profile Growth Analysis 본 연구는 잠재프로파일성"
+		},
+		{
+			"title":"<b>사회<\/b>복지사의 소진과 열정이 <b>직무<\/b>만족과 삶의 만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=596829007",
+			"description":"The effect of burnout and passion of social workers on job satisfaction and life satisfaction. 본 연구는 <b>사회<\/b>복지사가 지각"
+		},
+		{
+			"title":"비정규직 <b>사회<\/b>복지사의 개인-조직적합성이 <b>직무<\/b>만족에 미치는 영향: 일",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=580658096",
+			"description":"Person-Organization Fit Effects on Job Satisfaction of Non-regular Social Workers: Focusing on the Mediating Effect of Meaning in Work "
+		},
+		{
+			"title":"<b>사회<\/b>복지사들이 경험하는 공감이 <b>직무<\/b>성과에 미치는 영향 : 긍정심리자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878192895",
+			"description":"The Effect of Compassion on the Job Performance of Social Workers : Mediating Effects of Positive Psychological Capital 본 연구의 "
+		},
+		{
+			"title":"<b>사회<\/b>복지시설종사자의 긍정심리자본이 행복감에 미치는 영향: 여가활동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=600212726",
+			"description":"The Effects of Positive Psychological Capital on Happiness of Employees of the Social Welfare Institution: The Dual Mediating Effects o"
+		},
+		{
+			"title":"요양보호사 <b>직무<\/b>만족도 영향요인 분석: 부당경험을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882690905",
+			"description":"The Analysis of Factors Influencing Job Satisfaction of Caregivers: Focusing on Unfair Experiences 본 연구는 이용자-제공자 "
+		},
+		{
+			"title":"장애인 <b>직무<\/b>만족도와 생활만족도의 상호적 영향 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882690781",
+			"description":"The Reciprocal Relationships between Job Satisfaction and Life Satisfaction in People with Disabilities <b>직무<\/b>만족도와 생활만족"
+		},
+		{
+			"title":"<b>사회<\/b>복지시설종사자의 긍정심리자본이 행복감에 미치는 영향: 여가활동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601771571",
+			"description":"The Effects of Positive Psychological Capital on Happiness of Employees of the Social Welfare Institution: The Dual Mediating Effects o"
+		},
+		{
+			"title":"<b>사회<\/b>복지시설종사자의 긍정심리자본이 행복감에 미치는 영향: 여가활동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606816172",
+			"description":"The Effects of Positive Psychological Capital on Happiness of Employees of the Social Welfare Institution: The Dual Mediating Effects o"
+		},
+		{
+			"title":"<b>사회<\/b>복지전담공무원의 감정노동과 <b>직무<\/b>성과 간 관계에서 우울감의 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=586672413",
+			"description":"A study on the mediating effect of depression in the relationship between emotional labor and job performance of the public social work"
+		},
+		{
+			"title":"<b>사회<\/b>복지전담공무원의 감정노동과 <b>직무<\/b>성과 간 관계에서 우울감의 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561397281",
+			"description":"A Study on the Mediating Effect of Depression in the Relationship between Emotional Labor and Job Performance of the Public Social Work"
+		},
+		{
+			"title":"<b>사회<\/b>복지전담공무원의 감정노동과 <b>직무<\/b>성과 간 관계에서 우울감의 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562780613",
+			"description":"A Study on the Mediating Effect of Depression in the Relationship between Emotional Labor and Job Performance of the Public Social Work"
+		},
+		{
+			"title":"북한이탈주민 서비스 실무자의 <b>직무<\/b>만족도 영향요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61702107",
+			"description":" 최근 몇 년간 북한이탈주민을 위한 정착지원이 현금지원 중심에서 포괄적인 <b>사회<\/b>서비스로 초점이 많"
+		},
+		{
+			"title":"근로여건이 요양보호사의 <b>직무<\/b>만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288864901",
+			"description":"The Effect of Working Environment on Job Satisfaction of Care Workers 우리나라에서 장기적으로 돌봄이 필요한 노인의 "
+		},
+		{
+			"title":"간호사의 공감역량이 대인관계능력, <b>직무<\/b>만족도 및 행복감에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=599106569",
+			"description":"Effect of Nurses’ Compassion competence on Personal Relations, Job Satisfaction and Happiness 본 연구는 서술적조사연구로 "
+		},
+		{
+			"title":"도전적 스트레서가 <b>직무<\/b>열의와 조직시민행동에 미치는 영향: 심리적 자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881587905",
+			"description":"The Effect of Challenge Stressors on Work Engagement and Organizational Citizenship Behavior : A Moderated Mediation Effect of Psycholo"
+		},
+		{
+			"title":"<b>사회<\/b>복지전담공무원이 인지한 클라이언트 폭력과 소진 간 관계에서 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=586671245",
+			"description":"A study on the mediating effect of job stress in the relationship between client violence perceived by public social worker and burnout"
+		},
+		{
+			"title":"<b>사회<\/b>복지전담공무원이 인지한 클라이언트 폭력과 소진 간 관계에서 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561397280",
+			"description":"A Study on the Mediating Effect of Job Stress in the Relationship between Client Violence Perceived by Public Social Worker and Burnout"
+		},
+		{
+			"title":"<b>사회<\/b>복지전담공무원이 인지한 클라이언트 폭력과 소진 간 관계에서 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562780608",
+			"description":"A Study on the Mediating Effect of Job Stress in the Relationship between Client Violence Perceived by Public Social Worker and Burnout"
+		},
+		{
+			"title":"정보화시대의 <b>사회과학<\/b>의 정체성 : 변화와 지속성의 패러다임",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18301479",
+			"description":"  목차\ntif\n표지=0,1,1\n학술대회 일정=0,2,1\n축사=1,3,2\n목차=3,5,2\n(학술발표 1부)=5,7,2\n 정보화<b>사회<\/b>에 있어서"
+		},
+		{
+			"title":"보호서비스 제공인력의 폭력 경험이 <b>직무<\/b>만족도에 미치는 영향 : 슈퍼비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881478158",
+			"description":"The Effects of Violence Experience on Job Satisfaction among Protection Services Workforce: Focused on the Moderating Effects of the Su"
+		},
+		{
+			"title":"노인보호전문기관 상담원의 수퍼비전과 <b>직무<\/b>만족 간 관계: 임파워먼트",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187880543",
+			"description":"Relationship between Supervision and Job satisfaction of consultants at elder protection agency: Focused on Mediating Effect of Empower"
+		},
+		{
+			"title":"청년취업자의 <b>직무<\/b>만족도와 행복에 영향을 미치는 변인들 간의 구조적 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561755330",
+			"description":"An Analysis of Factors Influencing Youth Workers&apos; Job Satisfaction and Happiness : Focusing on Sleeping Times, Self-Awareness, Social T"
+		},
+		{
+			"title":"<b>사회<\/b>복지기관종사자의 <b>직무<\/b>요구와 <b>직무<\/b>자원이 이직의도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=653905654",
+			"description":"A Study on the Effects of Job Demands and Job Resources on the Turnover Intention of Employees of Social Welfare Centers: Focusing on t"
+		},
+		{
+			"title":"변혁적 리더십과 <b>직무<\/b>몰입 및혁신성향 간의 관계에 대한심리적 자본의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77897278",
+			"description":"Mediating Effects of Psychological Capital on the Relationships between Transformational Leadership and Job Involvement, and Innovative"
+		},
+		{
+			"title":"상사의 코칭역량이 부하의 <b>직무<\/b>만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=180002664",
+			"description":"The Effects of Leader&apos;s Coaching Competency on the Employee&apos;sJob Satisfaction 본 연구의 목적은 부하의 <b>직무<\/b>만족에 주된 "
+		},
+		{
+			"title":"시논<b>직무<\/b>분석리윤하적고직<b>사회과학<\/b>공공기초과정건설 (试论职务分析理",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=108877887",
+			"description":" 高职院校社会科学基础课程是培养学生可持续发展能力的重要组成部分.文章以职位分析为起点,从社会"
+		},
+		{
+			"title":"유치원교사의 <b>직무<\/b>스트레스와 정신건강의 관계에서 <b>직무<\/b>스트레스 대처",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822595092",
+			"description":"Mediating Effect of Job Stress Coping Strategies on the Relationship between Job Stress and Mental Health of Kindergartern Teachers 본"
+		},
+		{
+			"title":"유치원교사의 <b>직무<\/b>스트레스와 정신건강의 관계에서 <b>직무<\/b>스트레스 대처",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822150587",
+			"description":"Mediating Effect of Job Stress Coping Strategies on the Relationship between Job Stress and Mental Health of Kindergartern Teachers 유"
+		},
+		{
+			"title":"목표명확성이 <b>직무<\/b>만족에 미치는 영향: 스마트워크 활용의 다중집단분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562138182",
+			"description":"The influence of goal clarity on job satisfaction : A multi-group analysis of smart work experiences 본 연구는 한국행정연구"
+		},
+		{
+			"title":"긍정심리자본이 조직몰입과 <b>직무<\/b>스트레스에 미치는 영향 : 행복의 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442206181",
+			"description":"The Effects of Positive Psychology Capital on Job Stress and Organizational Commitment : Mediating Effect of Happiness  1. 서론\n2. "
+		},
+		{
+			"title":"<b>사회<\/b>복지 종사자의 폭력피해경험과 소진의 관계에서 <b>직무<\/b>스트레스의 매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562514855",
+			"description":"Mediating Effects of Job Stress on the Relationship between Experiencing Workplace Violence and Burnout in Social Workers : In Case of "
+		},
+		{
+			"title":"일중독이 조직몰입과 <b>직무<\/b>만족에 미치는 영향- 일생활균형의 매개효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561652029",
+			"description":"The Influence of Workaholism on Organizational Commitment and Job Satisfaction: Examining the Mediating Effect of Work-Life Balance 본"
+		},
+		{
+			"title":"기술혁신에 따른 <b>직무<\/b>대체의 <b>사회<\/b>적 영향 탐색: <b>사회<\/b>적 비용 추계와 사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765870093",
+			"description":"Exploring the Effect of Job Replacement by Technological Innovation: Focusing on Social Cost Estimation and Social Perception Analysis "
+		},
+		{
+			"title":"유치원교사의 <b>직무<\/b>스트레스와 정신건강의 관계에서 <b>직무<\/b>스트레스 대처",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866878859",
+			"description":"Mediating Effect of Job Stress Coping Strategies on the Relationship between Job Stress and Mental Health of Kindergartern Teachers 유"
+		},
+		{
+			"title":"<b>사회<\/b>복지기관종사자의 <b>직무<\/b>요구와 <b>직무<\/b>자원이 이직의도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879652629",
+			"description":"A Study on the Effects of Job Demands and Job Resources on the Turnover Intention of Employees of Social Welfare Centers: Focusing on t"
+		},
+		{
+			"title":"독거노인생활관리사의 <b>직무<\/b> 경험에 관한 질적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765624767",
+			"description":"A Study on the Job Experience of the Life-care Managers for Elders Living Alone 본 연구는 노인돌봄사업 중 독거노인을 "
+		},
+		{
+			"title":"직업상담원의 전문직업적 정체성과 <b>직무<\/b> 만족의 관계에서 <b>직무<\/b> 스트레",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765514907",
+			"description":"The Mediating Effect of Job Stress in the Relationship between Professional Identity and Job Satisfaction of Vocational Counselors 직"
+		},
+		{
+			"title":"지역<b>사회<\/b> 정신건강서비스 기관 종사자의 <b>직무<\/b>외상 경험이 외상 후 성장",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880348465",
+			"description":" 본 연구는 지역<b>사회<\/b> 정신건강서비스 기관 종사자들이 <b>직무<\/b>를 통해 경험하게 되는 <b>직무<\/b>외상이 외상 "
+		},
+		{
+			"title":"아동보호전문기관 상담원의 <b>직무<\/b>만족에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879315261",
+			"description":"Factors Associated with Job Satisfaction of Child Protection Workers 이 연구의 목적은 아동보호전문기관 상담원의 직"
+		},
+		{
+			"title":"업무로의 심리적 복귀: 규범적 연계망 및 역할모호성과 <b>직무<\/b>열의 간 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765624755",
+			"description":"Psychological Reattachment to Work: Its Nomological Network and Role in the Relationship between Role Ambiguity and Work Engagement 본"
+		},
+		{
+			"title":"<b>사회<\/b>복지시설 종사자의 임파워먼트가 서비스 질에 미치는 영향에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877874061",
+			"description":"Mediating Effects of Job Satisfaction in the Influence of Empowerment on Service Quality in Social Welfare Facility Workers 본 연구"
+		},
+		{
+			"title":"언론인의 <b>직무<\/b>스트레스에 영향을 미치는 변인연구: 성별과 직위간 차이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289079653",
+			"description":"Factors Influencing Journalists’ Occupational Stress: A Study of Gender and Occupational Position Differences 이 연구는 한국언"
+		},
+		{
+			"title":"초등교사의 <b>사회<\/b>정서역량과 <b>직무<\/b>만족도가교사동기에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=558125555",
+			"description":"The Influence of Elementary School Teacher’s Social and Emotional Competencies and Job Satisfaction on Teacher’s Motivation 본 연"
+		},
+		{
+			"title":"장애인 활동보조인의 갈등경험이 <b>직무<\/b>만족에 미치는 영향 - 성취동기의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=191222072",
+			"description":"The Influence of Conflicts Experience on Job Satisfaction in Personal Assistants for the Disabled: The Moderating Effect of Achievement"
+		},
+		{
+			"title":"<b>직무<\/b>스트레스가 <b>사회<\/b>복지사의 정신건강에 미치는 영향 : <b>사회<\/b>적지지의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61695362",
+			"description":" 본 연구는 스트레스 과정 모델을 기반으로 <b>직무<\/b>스트레스가 <b>사회<\/b>복지사의 정신건강에미치는 영향을 "
+		},
+		{
+			"title":"일중독과 교육수준 및 기술수준 부적합이 <b>직무<\/b>만족도와 생활만족도에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=753253584",
+			"description":"The Influences of Workaholism, Educational and Technical Unsuitability on Job Satisfaction and Life Satisfaction 산업<b>사회<\/b>에서 사"
+		},
+		{
+			"title":"공무원 유형별 <b>직무<\/b>태도 인지도의 차이에 관한 연구 -일반공무원, 경찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=604857281",
+			"description":"A Study on the Difference in the Perception Level of Job Attitude on Types of Civil Service: Focused on General Public Servants, Police"
+		},
+		{
+			"title":"간호사의 윤리적 가치관, <b>직무<\/b>만족도 향상을 위한 윤리적 딜레마에 관한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186130334",
+			"description":"A Study of Ethical Dilemma to improve Nurse&apos;s Ethical Value, Job Satisfaction 본 연구는 간호사의 윤리적 가치관과 <b>직무<\/b>"
+		},
+		{
+			"title":"재취업 경력단절여성의 <b>직무<\/b>소진 진단도구 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878447189",
+			"description":"Development and Validation of Diagnostic Instrument for Burnout of Career-Interrupted Woman 본 연구의 목적은 경력단절을 경"
+		},
+		{
+			"title":"<b>직무<\/b>스트레스가 <b>사회<\/b>복지사의 정신건강에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877908335",
+			"description":" 본 연구는 스트레스 과정 모델을 기반으로 <b>직무<\/b>스트레스가 <b>사회<\/b>복지사의 정신건강에 미치는 영향을 "
+		},
+		{
+			"title":"초공과 <b>직무<\/b>영웅: 군인, 경찰, 소방관을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=645415465",
+			"description":"Supererogation and Professional Heroes: Focused on Soldiers, Police Officers, and Firefighters 영웅이 평범한 개인일 수 있다"
+		},
+		{
+			"title":"조직구성원의 지식공유, <b>직무<\/b>자율성, 혁신행동의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650717085",
+			"description":"The Influence of Organizational Members&apos; Knowledge Sharing and Job Autonomy on Innovation Behavior 4차 산업혁명, 코로나19 로 "
+		}
+	]
+}

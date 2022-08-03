@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:03 +0900",
+	"total":166469,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>금융직무<\/b> 취업에 좋은 자격증 알아보기!",
+			"link":"https:\/\/blog.naver.com\/yesformstory?Redirect=Log&logNo=222308287296",
+			"description":"오늘은 예스폼에서 <b>금융직무<\/b> 취업에 좋은 자격증을 알려드리도록 하겠습니다. 1. CPA CPA(공인회계사) 자격증은 금융권이나 세무 회계 쪽으로 진로를 정한 취준생이라면 꼭 취득해야 하는 자격증입니다. 해당... ",
+			"bloggername":"예스폼 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/yesformstory",
+			"postdate":"20210416"
+		},
+		{
+			"title":"채용 2020년 하반기 현대차증권 법인<b>금융<\/b>상품 영업<b>직무<\/b> 채용",
+			"link":"https:\/\/blog.naver.com\/tradepeople?Redirect=Log&logNo=222143980484",
+			"description":"22(일) 23시 *모집구분: 법인<b>금융<\/b>상품팀 영업 &lt;지원 자격&gt; -4년제 대학 기졸업자 -법인<b>금융<\/b>상품 마케팅 경력 3년 이상 -증권\/펀드투자권유자문인력 자격 보유자 &lt;담당<b>직무<\/b>&gt; -<b>금융<\/b>상품 소싱 및 세일즈 업무... ",
+			"bloggername":"취크루트",
+			"bloggerlink":"https:\/\/blog.naver.com\/tradepeople",
+			"postdate":"20201114"
+		},
+		{
+			"title":"CRA 애널리스트 스터디 : <b>금융<\/b>투자업 <b>직무<\/b>윤리와... ",
+			"link":"https:\/\/blog.naver.com\/jxyd3nkim?Redirect=Log&logNo=222773043340",
+			"description":"<b>금융<\/b>투자업 <b>직무<\/b>윤리의 기본원칙 1. <b>금융<\/b>투자업 <b>직무<\/b>윤리의 기본원칙 고객 우선의 원칙 회사와 임직원은 항상 고객의 입장에서 생각하고 고객에게 보다 나은 <b>금융<\/b>서비스를 제공하기 위해 노력해야 한다... ",
+			"bloggername":"Geun’s Investing",
+			"bloggerlink":"https:\/\/blog.naver.com\/jxyd3nkim",
+			"postdate":"20220614"
+		},
+		{
+			"title":"[<b>금융직무<\/b> 취업꿀팁]투자자산운용사 합격방법",
+			"link":"https:\/\/blog.naver.com\/kfoblog?Redirect=Log&logNo=222542969322",
+			"description":"20 <b>직무<\/b>윤리 5 자본시장 관련 법규 11 한국<b>금융<\/b>투자협회규정 3 주식투자운용\/투자전략 6 채권투자운용\/투자전략 6 파생상품투자운용\/투자전략 6 투자운용결과분석 4 거시경제 4 분산투자기법 5 합격률?... ",
+			"bloggername":"취업의 기준 KFO",
+			"bloggerlink":"https:\/\/blog.naver.com\/kfoblog",
+			"postdate":"20211020"
+		},
+		{
+			"title":"[<b>직무<\/b>분석] 기업<b>금융<\/b> 업무소개 및 필요역량(Feat. 평균연봉... ",
+			"link":"https:\/\/blog.naver.com\/lose109?Redirect=Log&logNo=222721823221",
+			"description":"<b>금융<\/b>회사 <b>직무<\/b>의 꽃이라고 한다면 IB와 쌍벽을 이루는 기업<b>금융<\/b>이 있습니다. 기업<b>금융<\/b>부서에 입사를 하면 도대체 어떤 일을 하고, 어떻게 준비해야 입사할 수 있는지에 대해서 설명하는 시간을 갖도록... ",
+			"bloggername":"동기부여되는 자기개발 공유방!",
+			"bloggerlink":"https:\/\/blog.naver.com\/lose109",
+			"postdate":"20220505"
+		},
+		{
+			"title":"[부동산<b>금융<\/b>] 부동산 <b>직무<\/b> 관련 <b>금융<\/b>기관 특성 및 성향(Feat.... ",
+			"link":"https:\/\/blog.naver.com\/kwisdom00?Redirect=Log&logNo=222503499121",
+			"description":"대신 상기 항목 하나라도 안맞으면 PF불가 및 개발<b>금융<\/b>보다 기업<b>금융<\/b>에 치중된 느낌 #보험, #연기금... 상위 3개사외 소속회사 근속연수 낮으나, 부동산 <b>직무<\/b>에 오래 종사하여 이성적 대화 가능. 일부 캐피탈사... ",
+			"bloggername":"경제적 자유를 위한 투자",
+			"bloggerlink":"https:\/\/blog.naver.com\/kwisdom00",
+			"postdate":"20210912"
+		},
+		{
+			"title":"(예보 해외제도리서치 <b>직무<\/b>, <b>금융<\/b>공기업 인턴 면접 후기, 금공... ",
+			"link":"https:\/\/blog.naver.com\/9soccer7again?Redirect=Log&logNo=222805679064",
+			"description":"(<b>직무<\/b> 질문) 일하면서 어려운 <b>금융<\/b> 용어를 접하게 될 텐데, 이를 정리할 본인만의 노하우가 있다면? 4. (대외활동 질문) B활동에서 어떤 일을 했길래 기업과 제휴를 체결하는 업무를 했던 건지? 5. (성격 질문)... ",
+			"bloggername":"HAPPY UNBIRTHDAY!",
+			"bloggerlink":"https:\/\/blog.naver.com\/9soccer7again",
+			"postdate":"20220709"
+		},
+		{
+			"title":"리스사 현황과 채용(Feat. 오토<b>금융<\/b>, 리스크&amp;심사 <b>직무<\/b>, KB캐피탈)",
+			"link":"https:\/\/blog.naver.com\/sanjunlee?Redirect=Log&logNo=222798325305",
+			"description":"리스크&amp;심사 대부분의 <b>금융<\/b>회사에 필수로 존재하는 <b>직무<\/b>입니다. 할부<b>금융<\/b>도 제품이나 자본을 먼저 제공하고 대금은 나중에 받기 때문에 구매자의 신용을 조사하고 신용등급을 산출해 부도 위험을 체크한 뒤... ",
+			"bloggername":"실용 지식을 추구합니다, 이씨책방",
+			"bloggerlink":"https:\/\/blog.naver.com\/sanjunlee",
+			"postdate":"20220703"
+		},
+		{
+			"title":"2022년 한국주택<b>금융<\/b>공사 상반기 신입사원 (자소서 문항\/<b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/solkiloveme?Redirect=Log&logNo=222709275675",
+			"description":"(본론) ③ 향후 경력개발 방안 및 역량개발계획에 대하여 기술해 주십시오 (결론) #주금공자소서작성방법 #주택<b>금융<\/b>공사자소서 #주택<b>금융<\/b>공사면접후기 #주택<b>금융<\/b>공사<b>직무<\/b>능력기술서",
+			"bloggername":"PB마인드잡연구소 \"MAGISTER\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/solkiloveme",
+			"postdate":"20220423"
+		},
+		{
+			"title":"한국산업인력공단과 함께하는 <b>금융<\/b>, 회계, 재무 현직자 <b>직무<\/b>코... ",
+			"link":"https:\/\/blog.naver.com\/youthhopefoundation?Redirect=Log&logNo=222772677483",
+			"description":"(짝짝짝) BK기업은행, NICE신용평가, 포스코의 <b>금융<\/b>, 회계, 재무 <b>직무<\/b> 담당자와의 온라인 멘토링이 이루어질 예정입니다 :) <b>직무<\/b>정보 및 취업준비 노하우를 직접 전해듣고, ‘내가 하고 싶은 일’에... ",
+			"bloggername":"청년재단 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/youthhopefoundation",
+			"postdate":"20220614"
+		},
+		{
+			"title":"[2-3장 <b>직무<\/b>윤리] <b>금융<\/b>소비자 보호 조직, 내부통제의 주체",
+			"link":"https:\/\/blog.naver.com\/kstax1122?Redirect=Log&logNo=222697047420",
+			"description":"<b>금융<\/b>소비자 보호 조직 <b>금융<\/b>소비자 보호 총괄책임자(COO) • 대표이사 직속의 독립적 지위 • 수행<b>직무<\/b> - <b>금융<\/b>소비자 보호에 필요한 절차 및 기준의 수립 - <b>금융<\/b>상품 각 단계별 소비자보호 체계에 관한 관리·감독... ",
+			"bloggername":"큰산세무컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/kstax1122",
+			"postdate":"20220410"
+		},
+		{
+			"title":"[NCS청년기자단] <b>금융<\/b>회계재무 <b>직무<\/b>코칭멘토링 설명회... ",
+			"link":"https:\/\/blog.naver.com\/today_junny?Redirect=Log&logNo=222827761539",
+			"description":"2) <b>직무<\/b> 소개 &lt;영업점&gt; 상담이 많고, 고객과 소통(서비스)능력 &lt;본점&gt; 지원 및 리스크 관리, IT 등 다양한 업무가 이루어집니다 IBK 기업은행 채용 홈페이지_<b>직무<\/b>소개 <b>금융<\/b>이란 화폐와 통화의 융통을 위해 자본... ",
+			"bloggername":"Today is Junny",
+			"bloggerlink":"https:\/\/blog.naver.com\/today_junny",
+			"postdate":"20220725"
+		},
+		{
+			"title":"무료<b>직무<\/b>연수, 선생님을 위한 생활 속 <b>금융<\/b>과 투자",
+			"link":"https:\/\/blog.naver.com\/hstudy02?Redirect=Log&logNo=222744555012",
+			"description":"26(화) 연수대상 전국 유·초·중등, 특수 및 교육전문직 ※ 선생님을 위한 생활 속 <b>금융<\/b>과 투자 <b>직무<\/b>연수 일정은 12월까지 추가 운영 자세한 연수과정과 추가 운영기수 정보를 확인하고 싶다면!... ",
+			"bloggername":"한국교원연수원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hstudy02",
+			"postdate":"20220524"
+		},
+		{
+			"title":"패러다임의 변화:직무적합성_커리어하이의 준비된 <b>금융 직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/careerhighofficial?Redirect=Log&logNo=222237264408",
+			"description":"그렇기 때문에 이러한 <b>금융<\/b>권 채용 방식에 있어 <b>직무<\/b>적합성을 키울 수 있는 저희 커리어하이는 최적의 <b>직무<\/b>교육 법인이라 할 수 있을 것입니다. 출처: 커리어하이 라떼는 말이야~~로 제 이야기를 간단히... ",
+			"bloggername":"당신의 경력이 되는 커리어스쿨, 커리어하이",
+			"bloggerlink":"https:\/\/blog.naver.com\/careerhighofficial",
+			"postdate":"20210209"
+		},
+		{
+			"title":"[정책<b>금융<\/b>] 신용보증기금 면접 <b>직무<\/b> 상식, 필수 역량!!! 정직원과... ",
+			"link":"https:\/\/blog.naver.com\/livwilly?Redirect=Log&logNo=222747790276",
+			"description":"정책<b>금융<\/b>과 보증기관 취업 희망자에게 해당 분야에 대한 이해도를 높여드리기 위해 제작되었습니다.... 현재 우리가 살고 있는 <b>금융<\/b>자본주의 시스템에서 신용은 매우 중요한 자산입니다. 신용을 담보로... ",
+			"bloggername":"국제MIA와 함께하는 이상동몽(異床同夢)",
+			"bloggerlink":"https:\/\/blog.naver.com\/livwilly",
+			"postdate":"20220526"
+		},
+		{
+			"title":"<b>금융 직무<\/b> 소개\/추천 자격증 확인!",
+			"link":"https:\/\/blog.naver.com\/chirinos8?Redirect=Log&logNo=222747336733",
+			"description":"<b>금융 직무<\/b> 소개\/추천 자격증 확인! 다음으로, 증권사 직무별 추천 자격증 리스트입니다! 증권사PB 업무에서는 투자자산운용사가 필수이며, AFPK도 추천 자격증에 포함되어있습니다. IB업무는 신용분석사, 금융투... ",
+			"bloggername":"독금사 공식블로그 - 금융권 채용&자격증",
+			"bloggerlink":"https:\/\/blog.naver.com\/chirinos8",
+			"postdate":"20220526"
+		},
+		{
+			"title":"[<b>금융직무<\/b> 취업꿀팁] 금융투자분석사 합격후기",
+			"link":"https:\/\/blog.naver.com\/kfoblog?Redirect=Log&logNo=222549100431",
+			"description":"4)증권법규 및 <b>직무<\/b>윤리 - 자통법, 회사법, <b>금융<\/b>위원회규정, <b>직무<\/b>윤리 :김정석 교수님 덕분에 지루한 와중에 웃으면서 공부할 수 있었습니다. 서브노트와 강의내용이 엇갈린 부분이 있어서 Q&amp;A 로 올렸는데... ",
+			"bloggername":"취업의 기준 KFO",
+			"bloggerlink":"https:\/\/blog.naver.com\/kfoblog",
+			"postdate":"20211026"
+		},
+		{
+			"title":"[<b>금융<\/b> 계정계 개발] 대표<b>직무<\/b> 인터뷰",
+			"link":"https:\/\/blog.naver.com\/daoustory?Redirect=Log&logNo=222550196676",
+			"description":"<b>금융<\/b> 계정계 개발 김정 과장 인터뷰 Q 간단하게 본인의 담당 업무를 소개 부탁 드립니다. A 저는... Q 현재 <b>직무<\/b>를 선택하시게 된 계기가 궁금한데요? A 대학교 4학년 졸업을 앞두고 취업준비를 할 때, 친구들과... ",
+			"bloggername":"다우기술 채용블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daoustory",
+			"postdate":"20211027"
+		},
+		{
+			"title":"국회 <b>직무<\/b>유기가 <b>금융<\/b>범죄 부추긴다 ::: 한국 마케팅신문사 :::",
+			"link":"https:\/\/blog.naver.com\/kimnkimmarketing?Redirect=Log&logNo=222777313841",
+			"description":"◇처벌 수위 다른 이유 “입법기관의 <b>직무<\/b>유기” 국내에서 10년째 이어지고 있는 MBI 관련 수사와... 다른 <b>금융<\/b>다단계를 하자며 부추기는 사례가 굉장히 많다”며 “현재 브이글로벌을 통해 상당한... ",
+			"bloggername":"한국마케팅신문 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kimnkimmarketing",
+			"postdate":"20220617"
+		},
+		{
+			"title":"<b>금융<\/b>기관 임직원의 <b>직무<\/b>와 관련한 1억 원 이상의 금품수수 등... ",
+			"link":"https:\/\/blog.naver.com\/mmx8487?Redirect=Log&logNo=222832231279",
+			"description":"금품수수 '약속' <b>금융<\/b>사 임직원 가중처벌 조항 &quot;합헌“ 헌법재판소는 2017년 12월 28일 재판관 5 : 4의 의견으로, <b>금융<\/b>기관 임직원이 <b>직무<\/b>와 관련하여 1억 원 이상의 금품수수 등을 하면 가중처벌하는 구... ",
+			"bloggername":"헌법 연구님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mmx8487",
+			"postdate":"20220728"
+		},
+		{
+			"title":"[컨설팅 프로젝트] <b>금융<\/b> 전문기관 <b>직무<\/b>관리와 경력개발체계 구축",
+			"link":"https:\/\/blog.naver.com\/lukekim21?Redirect=Log&logNo=222755860117",
+			"description":"Project Background 클라이언트 A사는 한국 <b>금융<\/b>산업의 발전을 이끌어온 권위있는 민간 전문기관 중 하나다. 회사는 직군과 <b>직무<\/b> 분류와 <b>직무<\/b>분석을 10년 전에 수행한 이후 업데이트나 업그레이드를 하지... ",
+			"bloggername":"성과와역량연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/lukekim21",
+			"postdate":"20220602"
+		},
+		{
+			"title":"한국주택<b>금융<\/b>공사채용 <b>직무<\/b>능력 평가 기반 신입 공채",
+			"link":"https:\/\/blog.naver.com\/jullypppu?Redirect=Log&logNo=222706130607",
+			"description":"다음으로 주택<b>금융<\/b>공사채용 전형을 보면 서류와 필기와 면접으로 진행되는데 서류에서는 <b>직무<\/b>능력기술서의 <b>직무<\/b> 관련 교육, 자격, 경험 및 <b>직무<\/b>적성기술서의 지원동기, 가치관 등을 종합 평가하고 있어요.... ",
+			"bloggername":"독학마스터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jullypppu",
+			"postdate":"20220420"
+		},
+		{
+			"title":"하나은행 지역인재 기업<b>금융<\/b>\/ib<b>직무<\/b> 1차면접 복기",
+			"link":"https:\/\/blog.naver.com\/tnalclq98?Redirect=Log&logNo=222433974808",
+			"description":"(나한테 이 질문이 오지 않아서 천만다행이었다) 기업<b>금융<\/b>\/ib <b>직무<\/b>에서 업무를 할 때 기업 상대로 하나은행이 가지고 있는 전문성? 차별성? 뭐라고 생각하는지?(<b>직무<\/b>에 대한 이해를 묻는데 하나은행의 기업대출... ",
+			"bloggername":"La Vien en Rose",
+			"bloggerlink":"https:\/\/blog.naver.com\/tnalclq98",
+			"postdate":"20210716"
+		},
+		{
+			"title":"2020년 하반기 청년내일학교 8.29(토) “직무특강_<b>금융직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/illogo?Redirect=Log&logNo=222090241026",
+			"description":"일곱 번째 시간, 오늘의 주제는 “직무특강_<b>금융직무<\/b>소개” 4년차 DGB대구은행 행원으로 근무하고 계신 현직자 분의 강의로 1부 참여자 16명, 2부 참여자 9명으로 진행되었어요. 오늘은 어떤 강의가 진행될지... ",
+			"bloggername":"일로이룸 상담진로개발센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/illogo",
+			"postdate":"20200915"
+		},
+		{
+			"title":"해커스 <b>직무<\/b>소개 #2 (인사, 법무, 재무\/회계, <b>금융<\/b>콘텐츠 기획... ",
+			"link":"https:\/\/blog.naver.com\/jini5209?Redirect=Log&logNo=222767234710",
+			"description":"이번 포스팅도 집중해주세요 +_+ 저번 포스팅에 이어 이번에는 인사 법무 재무\/회계 <b>금융<\/b>콘텐츠 기획\/개발 <b>직무<\/b>에 대한 주요 업무 내용과 우대사항에 대해 알려드리겠습니다! 상경계열이나 법, 회계... ",
+			"bloggername":"Zoefulday :)",
+			"bloggerlink":"https:\/\/blog.naver.com\/jini5209",
+			"postdate":"20220610"
+		},
+		{
+			"title":"대외활동 : 코멘토 은행 기업<b>금융 직무<\/b>부트캠프",
+			"link":"https:\/\/blog.naver.com\/neighbor147?Redirect=Log&logNo=222653531707",
+			"description":"뭔가 기분이 좋네요 ㅎㅎ 은행원을 생각하시는데 어떤 직무를 하는지 모르겠거나, 기업<b>금융 직무<\/b>에 대해 알고 싶으신 분은 코멘토 은행 직무부트캠프를 꼭 수강해보시길 권해드립니다 :) '본 후기는... ",
+			"bloggername":"심보",
+			"bloggerlink":"https:\/\/blog.naver.com\/neighbor147",
+			"postdate":"20220221"
+		},
+		{
+			"title":"<b>금융<\/b> IT 전산<b>직무<\/b> 취업 전에 알았으면 좋았을 것들... ",
+			"link":"https:\/\/blog.naver.com\/se_in_the_galaxy?Redirect=Log&logNo=222559604330",
+			"description":"그래서 <b>금융<\/b> IT<b>직무<\/b> 여의도 데뷔 1주년 된 기념으로 회사에서 어려웠던 것들을 적어보려한다. 물론 회사 업무라는게 쉬운 것이 전혀 없지만, 취업 전에 준비나 경험을 했다면 업무에 좋았을 것들을... ",
+			"bloggername":"GALAXYSTAR",
+			"bloggerlink":"https:\/\/blog.naver.com\/se_in_the_galaxy",
+			"postdate":"20211105"
+		},
+		{
+			"title":"<b>금융<\/b>투자업 <b>직무<\/b>윤리 (79\/365)",
+			"link":"https:\/\/blog.naver.com\/ikhnaton87?Redirect=Log&logNo=222391818363",
+			"description":"- <b>금융<\/b>투자업자는 <b>직무<\/b>상 알게 된 정보로서 외부에 공개되지 아니한 정보를 정당한 사유 없이 자기, 제3자의 이익을 위하여 이용하여서는 아니 됨. - 상품 판매 이후 단계의 <b>금융<\/b>소비자 보호와 관련한 제도로는... ",
+			"bloggername":"선온 인문학연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/ikhnaton87",
+			"postdate":"20210609"
+		},
+		{
+			"title":"[<b>금융직무<\/b> 취업꿀팁]CDCS 합격후기",
+			"link":"https:\/\/blog.naver.com\/kfoblog?Redirect=Log&logNo=222559434147",
+			"description":"(2) CDCS는 국제상업회의소 (ICC)와 영국의 런던<b>금융<\/b>대학에서 공동 개발한 자격증으로 국내에서는 한국국제<b>금융<\/b>연수원(KIFI)이 런던<b>금융<\/b>대학과 파트너십을 맺고 CDCS 자격증 시험등록 업무를대행하고... ",
+			"bloggername":"취업의 기준 KFO",
+			"bloggerlink":"https:\/\/blog.naver.com\/kfoblog",
+			"postdate":"20211106"
+		},
+		{
+			"title":"받는 은행원으로 거듭나세요_은행 <b>직무<\/b>체험(기업<b>금융<\/b> 5주 인턴)",
+			"link":"https:\/\/blog.naver.com\/nb9603?Redirect=Log&logNo=222152290651",
+			"description":"관한 직무부트캠프를 신청했습니다 이건 제가 참여한 '고객응대를 넘어 기업금융 경험까지 갖춘 사랑 받는 은행원으로 거듭나세요' 기업<b>금융 직무<\/b>부트캠프의 일정표 입니다ㅎㅎ 사실 이전에 자기소개서를... ",
+			"bloggername":"생각",
+			"bloggerlink":"https:\/\/blog.naver.com\/nb9603",
+			"postdate":"20201123"
+		},
+		{
+			"title":"BNK <b>금융<\/b>지주 <b>직무<\/b> 인터뷰! 기업문화 담당자는 어떤 일을 할까?",
+			"link":"https:\/\/blog.naver.com\/bnkfinancialgroup?Redirect=Log&logNo=222283607080",
+			"description":"BNK <b>금융<\/b>그룹 임직원들의 다양한 <b>직무<\/b> 이야기를 들려드리는 BNK 피플! BNK <b>금융<\/b>그룹은 BNK 부산은행, BNK 경남은행, BNK 캐피탈, BNK 투자증권, BNK 저축은행, BNK 자산운용, BNK 신용정보, BNK 시스템, BNK 벤처투자 총... ",
+			"bloggername":"BNK금융그룹 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/bnkfinancialgroup",
+			"postdate":"20210323"
+		},
+		{
+			"title":"한국주택<b>금융<\/b>공사 채용 \/ <b>직무<\/b>능력 평가기반 신입직원 채용",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=222019097712",
+			"description":"전산은 <b>금융<\/b>·경영·경제상식 객관식 문제 대신 전공시험 객관식 문제를 출제 (이에 따라, 전산은 전공시험 객관식 30문항, 약술 2문항, 논술 1문항을 출제) ○ (평가내용) <b>직무<\/b> 관련 기초 능력, 전공 지식 등... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20200706"
+		},
+		{
+			"title":"(행사) <b>금융<\/b>분야 <b>직무<\/b>설명회(7.7, 문화원)",
+			"link":"https:\/\/blog.naver.com\/coti233?Redirect=Log&logNo=222407946925",
+			"description":"7(수) , 14:00 – 18:00(중국 시간) ㅇ 장소 : 한국문화원 대강당 ㅇ 주관 : 주중한국대사관, <b>금융<\/b>감독원(협조 : KOTRA) ㅇ 대상 : <b>금융<\/b>분야 진로 및 취업을 희망하는 유학생 ㅇ 행사내용 &lt;제1부 : <b>금융<\/b>분야 <b>직무<\/b>설... ",
+			"bloggername":"채샤",
+			"bloggerlink":"https:\/\/blog.naver.com\/coti233",
+			"postdate":"20210623"
+		},
+		{
+			"title":"신한<b>금융<\/b>투자 <b>직무<\/b>소개",
+			"link":"https:\/\/blog.naver.com\/ricefield?Redirect=Log&logNo=222475068348",
+			"description":"신한<b>금융<\/b>투자 <b>직무<\/b>소개 IB 국내\/국외 기업의 국내 IPO, 기업 발굴, 자금 조달 중개 M&amp;A 인수<b>금융<\/b> 구조 수립, 투자 심의 회사채 \/ 공사채 \/ ABS \/ ABCP 등 인수물 중개 구조화<b>금융<\/b> 및 자산유동화 발행... ",
+			"bloggername":"커리어 마라톤",
+			"bloggerlink":"https:\/\/blog.naver.com\/ricefield",
+			"postdate":"20210818"
+		},
+		{
+			"title":"<b>금융<\/b>권 <b>직무<\/b>교육 보고서 작성법 _ <b>금융<\/b>회사 직원교육 문서작성... ",
+			"link":"https:\/\/blog.naver.com\/dearricky?Redirect=Log&logNo=222167894834",
+			"description":"&lt;<b>금융<\/b>권 <b>직무<\/b>교육 보고서 작성법 _ <b>금융<\/b>회사 직원교육 문서작성 특강 _ 1시간 연말 워크숍 특강 강사 섭외&gt; 안녕하세요. '평범한 사원도 칭찬 받는 사내 프레젠테이션 101' 저자 이석우입니다.... ",
+			"bloggername":"기획보고발표 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/dearricky",
+			"postdate":"20201209"
+		},
+		{
+			"title":"자소서 문항 및 작성방법 (<b>금융<\/b>이슈, <b>직무<\/b>역량 구체적 예시 제공)",
+			"link":"https:\/\/blog.naver.com\/solkiloveme?Redirect=Log&logNo=222090583564",
+			"description":"Copyright by 취업지킴이 #신한은행자소서작성방법 #신한은행<b>금융<\/b>이슈 #신한은행<b>직무<\/b>역량 #신한은행자소서 문항 및 작성방법 금년도 신한은행에서 기업고객 대상 <b>금융<\/b>서비스 \/ 개인고객 자산관리 서비스를... ",
+			"bloggername":"PB마인드잡연구소 \"MAGISTER\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/solkiloveme",
+			"postdate":"20200916"
+		},
+		{
+			"title":"한국주택<b>금융<\/b>공사 <b>직무<\/b>능력 평가기반 신입직원 채용공고",
+			"link":"https:\/\/blog.naver.com\/bepa_sns?Redirect=Log&logNo=222022447527",
+			"description":"[한국주택<b>금융<\/b>공사 <b>직무<\/b>능력 평가기반 신입직원 채용공고] 접수기간 20.07.01.(수) ~ 07.16.(목) 18:00 접수방법 공사 채용홈페이지를 통한 온라인 접수 ▼홈페이지 바로가기 https:\/\/bit.ly\/3gvmAw5... ",
+			"bloggername":"부산경제진흥원 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/bepa_sns",
+			"postdate":"20200706"
+		},
+		{
+			"title":"[자기소개서]2021년 한국주택<b>금융<\/b>공사 <b>직무<\/b>능력 평가기반... ",
+			"link":"https:\/\/blog.naver.com\/leebbohappy?Redirect=Log&logNo=222327410522",
+			"description":"<b>직무<\/b> 관련해서 공사 상품에 어떻게 기여할 수 있는지, 구체적인 방향성을 제시하세요. 5. 공사에는 다양한 연령대의 고객이 있습니다. 지원자가 생각하는 20~30대, 40~50대, 60대 이상 고객별 주택<b>금융<\/b> 관련... ",
+			"bloggername":"맹쓰첨삭",
+			"bloggerlink":"https:\/\/blog.naver.com\/leebbohappy",
+			"postdate":"20210429"
+		},
+		{
+			"title":"농협 <b>금융<\/b>텔러<b>직무<\/b> 면접",
+			"link":"https:\/\/blog.naver.com\/jk5385164?Redirect=Log&logNo=222479142795",
+			"description":"속에서 <b>금융<\/b>텔러 <b>직무<\/b>를 결정할 수 있었던 계기 생각나는대로 말했어요 6) 본인과 안 맞을 것 같지 않나 7) ㅇㅇ농협 지원동기 솔직하게 농협에서 일하고 싶어서 지원했고 지역 특성과 농협의 중요성 필요성을... ",
+			"bloggername":"๑•‿•๑",
+			"bloggerlink":"https:\/\/blog.naver.com\/jk5385164",
+			"postdate":"20210821"
+		},
+		{
+			"title":"<b>금융<\/b>공사(HF) 2022년 상반기 신입직원 채용공고 + NCS<b>직무<\/b>기술... ",
+			"link":"https:\/\/blog.naver.com\/runplusdev?Redirect=Log&logNo=222704998314",
+			"description":"한국주택<b>금융<\/b>공사<b>직무<\/b>기술서 #한국주택<b>금융<\/b>공사NCS<b>직무<\/b>기술서 #한국주택<b>금융<\/b>공사채용인원 #한국주택<b>금융<\/b>공사자기소개서 #한국주택<b>금융<\/b>공사채용정보 #한국주택<b>금융<\/b>공사지원서접수... ",
+			"bloggername":"온라인 교육기관 러닝플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/runplusdev",
+			"postdate":"20220419"
+		},
+		{
+			"title":"[<b>금융직무<\/b> 취업꿀팁]외환전문역Ⅰ 합격방법",
+			"link":"https:\/\/blog.naver.com\/kfoblog?Redirect=Log&logNo=222547725912",
+			"description":"Ⅰ ○<b>금융<\/b>기관의 외환업무 중 외국환 법규 외환거래실무 이해 ○고객의 외화자산에 노출되는 각종 외환리스크 최소화 ○개인외환과 관련된 <b>직무<\/b>담당 외환전문역 Ⅱ ○수추립 업무 및 이와 관련된 국제무역... ",
+			"bloggername":"취업의 기준 KFO",
+			"bloggerlink":"https:\/\/blog.naver.com\/kfoblog",
+			"postdate":"20211025"
+		},
+		{
+			"title":"코멘토 <b>금융<\/b>공기업 <b>직무<\/b>부트캠프 후기",
+			"link":"https:\/\/blog.naver.com\/lgy2705?Redirect=Log&logNo=222248463067",
+			"description":"<b>금융<\/b>공기업을 준비하며 가장 힘들었던게 자소서를 쓰는거였다. <b>직무<\/b>관련경험이 정말 없는 나에게 자소서를 쓰는건 참힘들었다. 그래서 관련경험을 해볼 수 있는게 무엇이 있을까 고민하던차에 아는형이... ",
+			"bloggername":"lgy2705님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/lgy2705",
+			"postdate":"20210218"
+		},
+		{
+			"title":"우체국<b>금융<\/b>개발원 면접 : <b>직무<\/b>면접 인성면접 단기간 완벽대비",
+			"link":"https:\/\/blog.naver.com\/wnslspqj?Redirect=Log&logNo=222385817462",
+			"description":"우체국<b>금융<\/b>개발원 <b>직무<\/b>\/인성\/토론 면접 앞두고 저는 면접을 준비할 시간이 한정적이고 지방에 거주중이라 코칭받기 어려워요 하시는 분들도 계시죠? 걱정마세요! 민쌤이 추천드리는 내일코칭스쿨에서는... ",
+			"bloggername":"민쌤",
+			"bloggerlink":"https:\/\/blog.naver.com\/wnslspqj",
+			"postdate":"20210605"
+		},
+		{
+			"title":"한국주택<b>금융<\/b>공사 채용정보 | 2022년 <b>직무<\/b>능력 평가기반... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=222712016296",
+			"description":"분야는 행정 (경영, 경제, 법) 과 IT<b>직무<\/b>를 채용중입니다. 한국주택<b>금융<\/b>공사 채용절차입니다. 지원서 접수 - 서류 전형 - 필기전형 - AI면접 - 1차면접 - 2차면접 - 선발 위 단계로 채용이 진행됩니다. 접수 기간... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20220426"
+		},
+		{
+			"title":"금투협, 자본시장 신뢰회복을 위한 ‘<b>금융직무<\/b>윤리 특별교육’... ",
+			"link":"https:\/\/blog.naver.com\/speconomy?Redirect=Log&logNo=222096108219",
+			"description":"등 <b>직무<\/b> 분야별로 나누어 교육을 운영하며, ‘고객신뢰’의 중요성을 상기시키고 고객자산관리자로서 성실한 <b>금융<\/b>소비자 보호 의무와 책임의식을 고취시킬 수 있도록 구성됐다. 교육은 9월 21일부터... ",
+			"bloggername":"스페셜경제",
+			"bloggerlink":"https:\/\/blog.naver.com\/speconomy",
+			"postdate":"20200922"
+		},
+		{
+			"title":"[채용공고] 한국주택<b>금융<\/b>공사 <b>직무<\/b>능력 평가기반 상반기... ",
+			"link":"https:\/\/blog.naver.com\/iaanum?Redirect=Log&logNo=222705424334",
+			"description":"이번에 소개할 채용공고는 &quot;한국주택<b>금융<\/b>공사 <b>직무<\/b>능력 평가기반 상반기 신입직원 채용공고&quot; 입니다. 지원기간은 2022.04.19 ~ 2022.05.09 까지 입니다. 채용분야는 입니다. 지원자격은... ",
+			"bloggername":"취업과 미국주식으로 소득 만들자",
+			"bloggerlink":"https:\/\/blog.naver.com\/iaanum",
+			"postdate":"20220423"
+		},
+		{
+			"title":"서류합격 - <b>금융<\/b>공기업자소서 \/ <b>직무<\/b>기술서 쓰기! : 정말 마음에... ",
+			"link":"https:\/\/blog.naver.com\/karaface?Redirect=Log&logNo=222594763854",
+			"description":"항목자체가 하드하다보니 애초에 <b>금융<\/b>공기업을 어느정도 준비하지 않으신분들의 경우에는 난이도가 상당히 높은 항목들인데다 심지어 <b>직무<\/b>기술서까지 작성을 해야하는만큼 이래저래 작성을 위한... ",
+			"bloggername":"자소설메이트",
+			"bloggerlink":"https:\/\/blog.naver.com\/karaface",
+			"postdate":"20211214"
+		},
+		{
+			"title":"지원분야필요역량 \/ <b>금융<\/b>영업필요역량 \/ 기업은행 <b>직무<\/b>기술서... ",
+			"link":"https:\/\/blog.naver.com\/hoinida888?Redirect=Log&logNo=222144356706",
+			"description":"의거해서기술 #<b>금융<\/b>영업<b>직무<\/b>역량 : 고객창출, 고객관리, 고객상담, 고객제안,협상, 거래약정심사, <b>금융<\/b>소비자보호 - 가장 필요한 <b>직무<\/b>역량이라고 나와있음 &quot;왜 이역량이 가장 중요한지에 대한 이유를... ",
+			"bloggername":"경제신문으로 취업의 모든 것 올킬!",
+			"bloggerlink":"https:\/\/blog.naver.com\/hoinida888",
+			"postdate":"20201114"
+		},
+		{
+			"title":"[신입] 한국주택<b>금융<\/b>공사 채용ㅣ 2021 <b>직무<\/b>능력 평가기반... ",
+			"link":"https:\/\/blog.naver.com\/jobkorea1?Redirect=Log&logNo=222335851961",
+			"description":"[신입] 한국주택<b>금융<\/b>공사 채용 2021 <b>직무<\/b>능력평가기반 신입직원 채용공고 (~05\/18) #공공기관채용 #공기업채용 #한국주택<b>금융<\/b>공사신입 #한국주택<b>금융<\/b>공사채용 2021년 한국주택<b>금융<\/b>공사 채용에 관심 있으신... ",
+			"bloggername":"취업의 방법을 바꾸다, 잡코리아",
+			"bloggerlink":"https:\/\/blog.naver.com\/jobkorea1",
+			"postdate":"20210503"
+		},
+		{
+			"title":"[라움독서실] 한국주택<b>금융<\/b>공사 <b>직무<\/b>능력 평가기반 상반기... ",
+			"link":"https:\/\/blog.naver.com\/kwondh88?Redirect=Log&logNo=222706614292",
+			"description":"안녕하세요 :) 라움독서실 입니다  오늘은 한국주택<b>금융<\/b>공사 <b>직무<\/b>능력 평가기반 상반기 신입직원 채용에 대해 알아볼께요 ! 한국주택<b>금융<\/b>공사 채용에 관심이 있으신 분들은, 아래 링크로 접속하셔서 채용... ",
+			"bloggername":"프리미엄독서실 ‘라움’ 목은점",
+			"bloggerlink":"https:\/\/blog.naver.com\/kwondh88",
+			"postdate":"20220420"
+		},
+		{
+			"title":"지역 신협 창구 <b>직무<\/b>, <b>금융<\/b> 사무 <b>직무<\/b> 자기소개서 첨삭 후기",
+			"link":"https:\/\/blog.naver.com\/rightjung0301?Redirect=Log&logNo=222781080334",
+			"description":"오늘은 지역 신협(창구 <b>직무<\/b>, <b>금융<\/b>사무 <b>직무<\/b>) 자기소개서 첨삭 후기입니다. ! 이번 지원자분께서는 아직 사회경험이 없는 신입 지원자분이셨습니다. 하지만 관련 알바를 하시고 자격증도 취득하신 분이셨어요.... ",
+			"bloggername":"이든의 올바른 자소서",
+			"bloggerlink":"https:\/\/blog.naver.com\/rightjung0301",
+			"postdate":"20220620"
+		},
+		{
+			"title":"1:1 <b>직무<\/b>모의면접(7\/26)_경영지원 분야, <b>금융<\/b>, 회계, 재무<b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/bestjun1981?Redirect=Log&logNo=222817055842",
+			"description":"7월 <b>직무<\/b>분야는 경영지원(인사,총무,노무 등)과 <b>금융<\/b>, 회계, 재무 <b>직무<\/b> 분야 입니다. 신청방법 ① 로그인 한다. ② 아래의 신청하기 버튼을 누른다. ③ 첨부파일을 확인하고 사전정보를... ",
+			"bloggername":"공부하는 직장인",
+			"bloggerlink":"https:\/\/blog.naver.com\/bestjun1981",
+			"postdate":"20220718"
+		},
+		{
+			"title":"[<b>금융직무<\/b> 취업꿀팁] 외환전문역Ⅱ 합격방법",
+			"link":"https:\/\/blog.naver.com\/kfoblog?Redirect=Log&logNo=222546913573",
+			"description":"외환전문역Ⅰ종 ○<b>금융<\/b>기관의 외환업무 중 외국환 법규 외환거래실무 이해 ○고객의 외화자산에 노출되는 각종 외환리스크 최소화 ○개인외환과 관련된 <b>직무<\/b>담당 외환전문역Ⅱ ○수출입 업무 및 이와... ",
+			"bloggername":"취업의 기준 KFO",
+			"bloggerlink":"https:\/\/blog.naver.com\/kfoblog",
+			"postdate":"20211024"
+		},
+		{
+			"title":"<b>금융<\/b>공기업 NCS<b>직무<\/b>기술서 모음.zip (러닝플러스)",
+			"link":"https:\/\/blog.naver.com\/runplusdev?Redirect=Log&logNo=222429705734",
+			"description":"기술보증기금 NCS <b>직무<\/b>기술서 <b>직무<\/b> : 기술보증 및 기술평가 기술보증 및 기술평가 예금보험공사 NCS <b>직무<\/b>기술서 <b>직무<\/b> : <b>금융<\/b>일반, <b>금융<\/b>통계 <b>금융<\/b>일반(경영\/경제) 대분류, 중분류 <b>금융<\/b>일반(경영\/경제)... ",
+			"bloggername":"온라인 교육기관 러닝플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/runplusdev",
+			"postdate":"20210713"
+		},
+		{
+			"title":"<b>직무<\/b>교육 미이수자 <b>금융<\/b>상품 판매 가능 여부",
+			"link":"https:\/\/blog.naver.com\/songpha69?Redirect=Log&logNo=222808233593",
+			"description":"<b>직무<\/b>교육 미이수자 <b>금융<\/b>상품 판매 시? <b>직무<\/b>교육 미이수자 <b>금융<\/b>상품 계약 체결 시? 부당권유행위에 해당 <b>금융<\/b>소비자보호법 시행령 제16조(부당권유행위 금지) ③ 법 제21조(부당권유행위 금지)제7호에서... ",
+			"bloggername":"송파박 내부통제",
+			"bloggerlink":"https:\/\/blog.naver.com\/songpha69",
+			"postdate":"20220712"
+		},
+		{
+			"title":"투자자산운용사 3권 - <b>직무<\/b>윤리, 자본시장과 <b>금융<\/b>투자업에 관한... ",
+			"link":"https:\/\/blog.naver.com\/deanisfree?Redirect=Log&logNo=222751547910",
+			"description":"<b>금융<\/b>투자업 <b>직무<\/b>윤리 3. <b>직무<\/b>윤리의 준수절차 및 위반 시의 제재 4. 총설 5. <b>금융<\/b>투자상품 및 <b>금융<\/b>투자업 6. <b>금융<\/b>투자업자에 대한 규제*감독 7. 투자매매업자 및 투자중개업자에 대한 영업행위 규제",
+			"bloggername":"Deanisfree님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/deanisfree",
+			"postdate":"20220529"
+		},
+		{
+			"title":"[코멘토 후기] 코멘토 <b>금융<\/b>공기업 <b>직무<\/b>부트캠프 5주 후기",
+			"link":"https:\/\/blog.naver.com\/hn01442?Redirect=Log&logNo=222711437380",
+			"description":"금공취준생이기에 <b>금융<\/b>공기업 관련 <b>직무<\/b>부트캠프를 신청했다 내가 신청할때만 해도 금공 관련 캠프는 1개밖에 없었는데 지금은 2개로 늘어난듯! 금공 취준생중에 캠프 뭘 들을지 고민된다면 그냥 본인... ",
+			"bloggername":"Binny’s Diary",
+			"bloggerlink":"https:\/\/blog.naver.com\/hn01442",
+			"postdate":"20220426"
+		},
+		{
+			"title":"우체국<b>금융<\/b>개발원, 장애인 채용 <b>직무<\/b> 확대한다",
+			"link":"https:\/\/blog.naver.com\/handicapinews?Redirect=Log&logNo=222784032823",
+			"description":"공단은 기관의 장애인 <b>직무<\/b> 발굴 어려움을 해결하기 위해 장애인고용 컨설팅을 실시하고 있는 가운데 이번 협약을 통해 우체국 보험 <b>금융<\/b> 분야의 장애인 채용 <b>직무<\/b>를 확대해 장애인들이 공공기관에 진출할 수... ",
+			"bloggername":"장애인생활신문 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/handicapinews",
+			"postdate":"20220622"
+		},
+		{
+			"title":"[부산지방우정청 3회기] <b>금융 직무<\/b> 담당자님 대상으로 금융교육",
+			"link":"https:\/\/blog.naver.com\/camic3?Redirect=Log&logNo=222362546826",
+			"description":"<b>금융<\/b>교육 전문가 윤성애 작가입니다. 이번이 벌써 부산지방우정청 3회기입니다!!! 짝짝짝짝!!!... <b>금융<\/b> 업무를 보시는 분들께 강의를 진행하는 만큼 <b>금융<\/b> 기관의 입장에서, 고객의 입장에서 양면을... ",
+			"bloggername":"윤성애 금융경제교육",
+			"bloggerlink":"https:\/\/blog.naver.com\/camic3",
+			"postdate":"20210525"
+		},
+		{
+			"title":"2022년 하반기 인카<b>금융<\/b> 제이어스사업단 <b>직무<\/b>설명회 개최",
+			"link":"https:\/\/blog.naver.com\/solataz0147?Redirect=Log&logNo=222816935172",
+			"description":"2022년 하반기 제이어스 사업단 <b>직무<\/b>설명회를 시작합니다. 올 상반기 우리 사업단 리쿨의 핵심이였던... 많은분들의 기대를 한껏 받았던... <b>직무<\/b>설명회를 7월 25일부터 8월4일까지 전국의 모든 본부와... ",
+			"bloggername":"인카금융 제이어스사업단 대전지점",
+			"bloggerlink":"https:\/\/blog.naver.com\/solataz0147",
+			"postdate":"20220718"
+		},
+		{
+			"title":"[<b>금융직무<\/b> 취업꿀팁] 신용분석사 합격후기",
+			"link":"https:\/\/blog.naver.com\/kfoblog?Redirect=Log&logNo=222550266307",
+			"description":"기업에 대한 회계 및 비회계자료 분석을 통하여 종합적인 신용상황을 판단하고 신용등급을결정하는 등 기업신용 평가업무를 담당하는 <b>금융<\/b>전문가입니다. 주요 <b>직무<\/b>는? ○기업의 회계자료를 이용하여... ",
+			"bloggername":"취업의 기준 KFO",
+			"bloggerlink":"https:\/\/blog.naver.com\/kfoblog",
+			"postdate":"20211027"
+		},
+		{
+			"title":"<b>금융<\/b>공사 2022년 상반기 체험형 인턴 채용공고 및 NCS<b>직무<\/b>기술... ",
+			"link":"https:\/\/blog.naver.com\/runplusdev?Redirect=Log&logNo=222629769224",
+			"description":"#한국주택<b>금융<\/b>공사 #한국주택<b>금융<\/b>공사채용 #한국주택<b>금융<\/b>공사채용일정 #한국주택<b>금융<\/b>공사채용공고 #한국주택<b>금융<\/b>공사NCS #한국주택<b>금융<\/b>공사직업교육 #한국주택<b>금융<\/b>공사NCS<b>직무<\/b>기술서... ",
+			"bloggername":"온라인 교육기관 러닝플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/runplusdev",
+			"postdate":"20220124"
+		},
+		{
+			"title":"한국주택<b>금융<\/b>공사 2022년... NCS<b>직무<\/b>기술서 알아보기!... ",
+			"link":"https:\/\/blog.naver.com\/runplusdev?Redirect=Log&logNo=222757709724",
+			"description":"한국주택<b>금융<\/b>공사<b>직무<\/b>기술서 #한국주택<b>금융<\/b>공사교육사항 #한국주택<b>금융<\/b>공사인턴 #한국주택<b>금융<\/b>공사체험형인턴 #2022한국주택<b>금융<\/b>공사 #한국주택<b>금융<\/b>공사상반기 #한국주택<b>금융<\/b>공사하반기... ",
+			"bloggername":"온라인 교육기관 러닝플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/runplusdev",
+			"postdate":"20220603"
+		},
+		{
+			"title":"[<b>금융<\/b>, 회계, 재무<b>직무<\/b> 채용시험 평가위원과 함께하는] 1:1... ",
+			"link":"https:\/\/blog.naver.com\/youthcenter_gy?Redirect=Log&logNo=222775533135",
+			"description":"<b>금융<\/b>, 회계, 재무<b>직무<\/b>에 전문 노하우를 가지신 실제 채용시험 평가위원과 1:1 모의면접을 진행할 수 있는 기회입니다. 다양한 상황, 경험면접과 피드백을 통해 <b>직무<\/b>에 대한 이해를 높이고 면접... ",
+			"bloggername":"광양청년꿈터",
+			"bloggerlink":"https:\/\/blog.naver.com\/youthcenter_gy",
+			"postdate":"20220616"
+		},
+		{
+			"title":"<b>금융 직무<\/b> 가이드북 살펴보고 원하는 기업에 성공 취업하세요!",
+			"link":"https:\/\/blog.naver.com\/jobkorea1?Redirect=Log&logNo=220555587374",
+			"description":"요 <b>금융 직무<\/b> 가이드북에는 행원직무분석을 기본으로 금융권의 다양한 직무 정보가 수록되어 있기 때문이죠! 개인금융과 기업금융 그리고, PB와 PM에 대한 정보, 행원의 핵심 필요 역량, 금융취업 준비사항에... ",
+			"bloggername":"취업의 방법을 바꾸다, 잡코리아",
+			"bloggerlink":"https:\/\/blog.naver.com\/jobkorea1",
+			"postdate":"20151201"
+		},
+		{
+			"title":"<b>금융직무<\/b>능력시험 MK 금융 NCS 시험소개",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=221009552022",
+			"description":"매일경제는 이러한 <b>직무<\/b> 표준을 효율적으로 학습하고 평가할 수 있도록 <b>금융<\/b>분야의 <b>직무<\/b>능력 검정체계인 MK <b>금융<\/b> NCS를 개발했습니다. 은행원이라면 반드시 알고 있어야 할 보편적인 <b>직무<\/b>능력과 원칙들을... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20170519"
+		},
+		{
+			"title":"[열린강의] 합격을 만드는 <b>직무<\/b>분석! - <b>금융<\/b>기관 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/dreamgodream?Redirect=Log&logNo=221411392871",
+			"description":"금융기관 직무분석1(직무구분, 하는 일(차이점), 관련 이슈 소개 등) -무역 <b>금융 직무<\/b> 무역 <b>금융 직무<\/b> 2 1.금융기관 직무분석2 -취업관련 질문사항 -인공지능의 발전 -펀드의 종류 -무역금융 관련 기사 -무역... ",
+			"bloggername":"꿈날개 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dreamgodream",
+			"postdate":"20181206"
+		},
+		{
+			"title":"뱅킹 \/ <b>금융 직무<\/b> 영어를 런던에서 - 금융\/은행권... ",
+			"link":"https:\/\/blog.naver.com\/begtalent?Redirect=Log&logNo=220695033017",
+			"description":"뱅킹\/<b>금융<\/b> 영어 위주의 <b>직무<\/b> 과정 영어 과정을 유럽에서는 많이 참가하는 걸 알고 계시나요? 영국의 London school of English 라는 100년이 넘는 학교로 영어 및 비지니스맨을 위한 여러 <b>직무<\/b> 관련 과정을... ",
+			"bloggername":"\"BeGT\" 미래 가치를 높이는 기업",
+			"bloggerlink":"https:\/\/blog.naver.com\/begtalent",
+			"postdate":"20160427"
+		},
+		{
+			"title":"2022학년도 <b>직무<\/b>코칭 멘토링 안내",
+			"link":"https:\/\/blog.naver.com\/dju1980?Redirect=Log&logNo=222812977021",
+			"description":"(1:1 <b>직무<\/b>모의면접) <b>금융<\/b>, 회계, 재무 <b>직무<\/b>, 경영지원(총무·인사·노무) 피면접 1인당 약 40분 내외로 진행(30분 면접, 10분 피드백) 모든 참가비 무료 참가대상 및 신청기간 경영지원분야 및... ",
+			"bloggername":"대전대학교 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dju1980",
+			"postdate":"20220715"
+		},
+		{
+			"title":"한국주택<b>금융<\/b>공사 채용 2019년 한국주택<b>금융<\/b>공사 <b>직무<\/b>능력평... ",
+			"link":"https:\/\/blog.naver.com\/tradepeople?Redirect=Log&logNo=221573029289",
+			"description":"한국주택<b>금융<\/b>공사 채용 2019년 한국주택<b>금융<\/b>공사 <b>직무<\/b>능력평가 기반 신입직원 채용 *지원기간: 2019. 06. 28(금) ~ 07. 12(금) 17:00 *지원자격: 학력ㆍ연령ㆍ성별 등 제한 없음 *채용인원: 58명 (채용형 인턴 53명... ",
+			"bloggername":"취크루트",
+			"bloggerlink":"https:\/\/blog.naver.com\/tradepeople",
+			"postdate":"20190628"
+		},
+		{
+			"title":"한국주택금융공사 선배가 들려주는 취업 후기! <b>금융 직무<\/b> 취업... ",
+			"link":"https:\/\/blog.naver.com\/we_are_youth?Redirect=Log&logNo=221713047482",
+			"description":"A씨는 대학교 4학년이 되면서 <b>금융<\/b> 관련 기업 입사를 목표로 본격적인 취업 준비를 시작하며 걱정이... 특히 이날은 <b>금융<\/b> 관련 공기업 입사 선배가 취업 준비부터 회사 생활까지 따끈따끈, 생생한 이야기를... ",
+			"bloggername":"청년정책사용설명서",
+			"bloggerlink":"https:\/\/blog.naver.com\/we_are_youth",
+			"postdate":"20191120"
+		},
+		{
+			"title":"[<b>직무<\/b>분석] 여신심사역은... 최고 갑의 위치에 있는 <b>직무<\/b>)",
+			"link":"https:\/\/blog.naver.com\/lose109?Redirect=Log&logNo=222741184675",
+			"description":"여신심사역 직무는 신입에게 담당하게 하기 보다는 기업금융 영업을 일정 기간 수행한 사람들을 선제... #여신심사역 #투자심사역 #신용분석사 #기업<b>금융직무<\/b> #은행심사역 #저축은행심사역 #신용위험분석사",
+			"bloggername":"동기부여되는 자기개발 공유방!",
+			"bloggerlink":"https:\/\/blog.naver.com\/lose109",
+			"postdate":"20220521"
+		},
+		{
+			"title":"창구사무,기업영업,PB영업 <b>금융직무<\/b> 정확히 알고 지원하자!",
+			"link":"https:\/\/blog.naver.com\/fnhelp?Redirect=Log&logNo=221989991478",
+			"description":"산업은행 공식 홈페이지 채용공고 위처럼 산업은행 채용공고 속에서도 찾아볼 수 있듯이 <b>금융<\/b>영업 <b>직무<\/b>들은 <b>금융<\/b>권 채용공고 속에서 자주 등장하는데요! 창구업무 창구사무는 고객이 원하는 <b>금융<\/b>거래를... ",
+			"bloggername":"챔프스터디 금융,경영아카데미",
+			"bloggerlink":"https:\/\/blog.naver.com\/fnhelp",
+			"postdate":"20200607"
+		},
+		{
+			"title":"[대학일자리본부] 배재대학교 X 코멘토 - 현직자 <b>직무<\/b> 멘토링",
+			"link":"https:\/\/blog.naver.com\/paichaiuniv?Redirect=Log&logNo=222207981166",
+			"description":"저는 금융과 경영에 관심이 많아서 이와 관련된 직무들로 추가했어요. 모든 과정을 마치니 메인 화면에... 멘토님은 어떤 식으로 준비를 했고, 어떤 자격증을 취득했는지, 기업<b>금융 직무<\/b>에서 원하는 인재상은... ",
+			"bloggername":"다양한 기회! 그래_배재로! 배재대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/paichaiuniv",
+			"postdate":"20210115"
+		},
+		{
+			"title":"K-디지털트레이닝: 은행원, <b>금융<\/b>공학석사  블록체인 주니어... ",
+			"link":"https:\/\/blog.naver.com\/ubion_corp?Redirect=Log&logNo=222787113034",
+			"description":"구) 은행원, 금융공학 석사 현) 블록체인 기업 주니어 퀀트 K-Digital Training 1기 이재석 수료생 디지털... 평생 직장보다는 평생 직무라는 말처럼 단순 회사에서 만족하지 않고, 제 <b>금융 직무<\/b> 관련 국제 자격증... ",
+			"bloggername":"유비온 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ubion_corp",
+			"postdate":"20220624"
+		},
+		{
+			"title":"[와우패스JOB] <b>금융<\/b>NCS1종 <b>직무<\/b>역량 완성 이벤트",
+			"link":"https:\/\/blog.naver.com\/ubion_corp?Redirect=Log&logNo=220889404481",
+			"description":"은행과 금융공기업마다 채용절차는 다르지만 이제 '<b>금융직무<\/b>중심채용'은 당연한 것! 직무역량을 강조!할 수 있는 NCS 자격증으로 공부를 하셔야합니다. 그런데 NCS자격증들 중 믿을 수 있는 곳의... ",
+			"bloggername":"유비온 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ubion_corp",
+			"postdate":"20161219"
+		},
+		{
+			"title":"2019학년도 1학기 Mentor Day - <b>금융 직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/cukya2017?Redirect=Log&logNo=221549967127",
+			"description":"마지막으로, Mentor Day <b>금융 직무<\/b>에 참석한 학우의 참여 후기를 끝으로 기사를 마친다. # 참여 후기 Q. ‘Mentor Day (직무)’에 참여하게 된 이유는 무엇인가요? A. 평소 금융권 취업에 관심이 많았으며, 4학년이다... ",
+			"bloggername":"가톨릭대학교 진로·취업 웹진국 가대야",
+			"bloggerlink":"https:\/\/blog.naver.com\/cukya2017",
+			"postdate":"20190530"
+		},
+		{
+			"title":"이성몽, KB국민은행에서 기업<b>금융<\/b> 컨설턴트(SBM) <b>직무<\/b>를... ",
+			"link":"https:\/\/blog.naver.com\/santalsm?Redirect=Log&logNo=220639751408",
+			"description":"2016년부터 새롭게 기업<b>금융<\/b>컨설턴트 <b>직무<\/b>를 맡아 새로운 변신을 하게 되었습니다. 2017년부터는 기업<b>금융<\/b>컨설턴트 <b>직무<\/b>가 SBM으로 변경되었습니다. SBM는 SOHO\/SME Biz Manager의 약자입니다. SOHO(소호)란... ",
+			"bloggername":"이성몽",
+			"bloggerlink":"https:\/\/blog.naver.com\/santalsm",
+			"postdate":"20160227"
+		},
+		{
+			"title":"하반기 자소서 분석] 10. 신한은행 편 (일반직, 기업<b>금융 직무<\/b>)",
+			"link":"https:\/\/blog.naver.com\/thdgurcjswp?Redirect=Log&logNo=221752559750",
+			"description":"2019년도 하반기에 신한은행은 개인<b>금융<\/b>을 뽑지 않고, 기업<b>금융<\/b>, WM, Retail Service 직 3개의 <b>직무<\/b>만을 뽑았고 이 중에서 하나를 선택하는 것부터가 취준생들에게 어렵게 다가왔을 것이라고 생각합니다. 저는... ",
+			"bloggername":"쓸데있고 싶은 글 모음",
+			"bloggerlink":"https:\/\/blog.naver.com\/thdgurcjswp",
+			"postdate":"20191228"
+		},
+		{
+			"title":"동덕여대 <b>금융직무<\/b> 상담",
+			"link":"https:\/\/blog.naver.com\/baehom?Redirect=Log&logNo=221700721662",
+			"description":"#동덕여대 퍼스널브랜딩데이 #<b>금융직무<\/b> 상담 진행 조금이라도 진로 결정에 바른 정보를 줄 수 있다면 그것으로도 보람이 있죠. 의외로 금융을 모르고 준비하는 경우도 많더라구요. 대학생 여러분의 #성공취업을... ",
+			"bloggername":"baehom님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/baehom",
+			"postdate":"20191107"
+		},
+		{
+			"title":"제1호위헌소원 (<b>금융<\/b>기관 임직원의 <b>직무<\/b>관련 수재행위의... ",
+			"link":"https:\/\/adipo.tistory.com\/entry\/%EA%B5%AC-%ED%8A%B9%EC%A0%95%EA%B2%BD%EC%A0%9C%EB%B2%94%EC%A3%84-%EA%B0%80%EC%A4%91%EC%B2%98%EB%B2%8C-%EB%93%B1%EC%97%90-%EA%B4%80%ED%95%9C-%EB%B2%95%EB%A5%A0%EC%A0%9C5%EC%A1%B0-%EC%A0%9C4%ED%95%AD-%EC%A0%9C1%ED%98%B8%EC%9C%84%ED%97%8C%EC%86%8C%EC%9B%90-%EA%B8%88%EC%9C%B5%EA%B8%B0%EA%B4%80-%EC%9E%84%EC%A7%81%EC%9B%90%EC%9D%98-%EC%A7%81%EB%AC%B4%EA%B4%80%EB%A0%A8-%EC%88%98%EC%9E%AC%ED%96%89%EC%9C%84%EC%9D%98-%ED%98%95%EC%82%AC%EC%B2%98%EB%B2%8C%EA%B7%9C%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9C%84%ED%97%8C%EC%86%8C%EC%9B%90-%EC%82%AC%EA%B1%B4%ED%97%8C%EC%9E%AC-2013-7-25-2011%ED%97%8C%EB%B0%94397-%EB%93%B1-%EA%B3%B5%EB%B3%B4-%EC%A0%9C202%ED%98%B8-942-%EC%A0%84%EC%9B%90%EC%9E%AC%ED%8C%90%EB%B6%80",
+			"description":"반응형 2011헌바397 등 구 특정경제범죄 가중처벌 등에 관한 법률제5조 제4항 제1호위헌소원 (<b>금융<\/b>기관 임직원의 <b>직무<\/b>관련 수재행위의 형사처벌규정에 대한 위헌소원 사건) 헌재 2013. 7. 25. 2011헌바397 등, 공보... ",
+			"bloggername":"잡스9급\/두문자\/기출 해설\/공무원 합격",
+			"bloggerlink":"https:\/\/adipo.tistory.com\/",
+			"postdate":"20220417"
+		},
+		{
+			"title":"11.11] 내부통제? 부동산<b>금융<\/b>? <b>직무<\/b>관련 직장인 대학원 진학?",
+			"link":"https:\/\/blog.naver.com\/chosury?Redirect=Log&logNo=221704285040",
+			"description":"부동산<b>금융<\/b>? <b>직무<\/b>관련 직장인 대학원 진학? 오랜만에 Q&amp;A 포스팅을 남긴다 ... 그동안 온\/오프라인으로 Q&amp;A와 상담 요청을 좀 받았는데, 일일이 포스팅을 하지 않았다 ^^;; 공개용으로 포스팅하는 것도 일이었다.... ",
+			"bloggername":"컴플라이언스 학자, 조창훈의 컴플라이언스DB",
+			"bloggerlink":"https:\/\/blog.naver.com\/chosury",
+			"postdate":"20191111"
+		},
+		{
+			"title":"2019년 서민<b>금융<\/b>진흥원 <b>직무<\/b>적합성 평가(AI면접)... ",
+			"link":"https:\/\/blog.naver.com\/solkiloveme?Redirect=Log&logNo=221490762220",
+			"description":"서민<b>금융<\/b>진흥원은 <b>직무<\/b>적합성 평가(AI 면접)을 통해서 임용 예정자의 30배수를 선정하며, 그중 40%는 조직 <b>직무<\/b>적합도(AI 면접)가 차지합니다. 이는 <b>직무<\/b>교육(학교) 40%와 점수 비중이 동일한 부분으로... ",
+			"bloggername":"PB마인드잡연구소 \"MAGISTER\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/solkiloveme",
+			"postdate":"20190318"
+		},
+		{
+			"title":"커리어하이 <b>금융직무<\/b>교육 for 취준생 수강후기",
+			"link":"https:\/\/blog.naver.com\/dmstjr8gk?Redirect=Log&logNo=221800236748",
+			"description":"#커리어하이 #커리어하이수강후기 #펀드매니저인터뷰 #대체투자 #대체투자강의 #여의도<b>직무<\/b>교육 #<b>금융<\/b>수업 #커리어하이강의 #취준생스펙쌓기 #취업준비 #<b>금융<\/b>권취업준비 #대체투자펀드매니저 #자산운용사",
+			"bloggername":"네버랜드의 하루",
+			"bloggerlink":"https:\/\/blog.naver.com\/dmstjr8gk",
+			"postdate":"20200207"
+		},
+		{
+			"title":"2020년 한국주택<b>금융<\/b>공사 채용 (<b>직무<\/b>능력능력\/적성) 자소서... ",
+			"link":"https:\/\/blog.naver.com\/solkiloveme?Redirect=Log&logNo=222019006471",
+			"description":"Copyright by 취업지킴이 #한국주택<b>금융<\/b>공사자소서 #한국주택<b>금융<\/b>공사면접 #한국주택<b>금융<\/b>공사<b>직무<\/b>적성 #한국주택<b>금융<\/b>공사<b>직무<\/b>능력 금년도 총 60명(대졸수준 58명, 고졸 부문 2명)을 채용합니다. 지원하는 분들은... ",
+			"bloggername":"PB마인드잡연구소 \"MAGISTER\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/solkiloveme",
+			"postdate":"20200702"
+		},
+		{
+			"title":"커리어하이 생생 인터뷰(feat. <b>금융 직무<\/b>교육 후기)",
+			"link":"https:\/\/blog.naver.com\/careerhighofficial?Redirect=Log&logNo=221893334344",
+			"description":"대체투자 <b>직무<\/b>특강을 선택한 이유가 무엇인가요? <b>금융<\/b>권 취업을 생각 중인 건 아니지만 방학 동안 현직자의 강의로 실무를 간접적으로 배워서 나중에 취업 준비할 때 도움이 될 것 같아서 수강하게 됐습니다.... ",
+			"bloggername":"당신의 경력이 되는 커리어스쿨, 커리어하이",
+			"bloggerlink":"https:\/\/blog.naver.com\/careerhighofficial",
+			"postdate":"20200406"
+		},
+		{
+			"title":"서민<b>금융<\/b>진흥원 <b>직무<\/b>교육 에듀퓨어에서 수료증받기",
+			"link":"https:\/\/blog.naver.com\/myljbbb?Redirect=Log&logNo=222593521992",
+			"description":"서민<b>금융<\/b>진흥원 에듀퓨어 공기업 직업교육 수료증 상반기를 준비하고 있다. 그래서 <b>직무<\/b>교육도 필요로 하는 곳이 많아 수강하고 있는 중이다. 학교 <b>직무<\/b>교육은 많이 수강하였으나 직업 <b>직무<\/b>교육은... ",
+			"bloggername":"정성을 다하는 은성",
+			"bloggerlink":"https:\/\/blog.naver.com\/myljbbb",
+			"postdate":"20211212"
+		},
+		{
+			"title":"커리어하이 <b>직무<\/b>교육 수강후기 <b>금융<\/b>취준생다모이시오(feat.... ",
+			"link":"https:\/\/blog.naver.com\/clarifiant?Redirect=Log&logNo=221799979601",
+			"description":"설레는 마음으로 <b>금융직무<\/b>교육을 받으러 갔더니 현재 펀드매니저로 일하는 2분의 강사를 강의를 통해... 올해에는 커리어하이에서 커리어 쌓아보아요~ #커리어하이후기 #금융교육 #직무교육 #대체투자",
+			"bloggername":"끌라리 피앙 안녕",
+			"bloggerlink":"https:\/\/blog.naver.com\/clarifiant",
+			"postdate":"20200207"
+		},
+		{
+			"title":"나만 아는, 과장님께 예쁨받는 <b>금융 직무<\/b> 꿀팁 #3",
+			"link":"https:\/\/blog.naver.com\/chelddp?Redirect=Log&logNo=220070317473",
+			"description":"나만 아는, 과장님께 예쁨받는 <b>금융 직무<\/b> 꿀팁 by YE'S <b>금융 직무<\/b> 어렵죠~? 하지만 금융 관련 일을 하고 싶은 분은 계속 따라와 주세용! &quot;금융회사의 마케팅 계획&quot; &quot;마케팅 믹스의 개념 및 전략변수&quot; 마케팅... ",
+			"bloggername":"동횬쯔 구매일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/chelddp",
+			"postdate":"20140724"
+		},
+		{
+			"title":"나만 아는, 과장님께 예쁨받는 <b>금융 직무<\/b> 꿀팁 #1",
+			"link":"https:\/\/blog.naver.com\/chelddp?Redirect=Log&logNo=220065304119",
+			"description":"맞으며~ <b>금융 직무<\/b>에 대해 공부해 볼까용? 드루와~ 이번 스마트러닝U를 통해 수강한 과목은 바로 바로 &quot;프로 금융인의 결정적 한 수(手), 금융마케팅&quot;입니다 금융산업에서 마케팅의 중요성이 점점 더 많이... ",
+			"bloggername":"동횬쯔 구매일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/chelddp",
+			"postdate":"20140719"
+		},
+		{
+			"title":"부동산<b>금융<\/b>의 윤리: <b>직무<\/b>윤리와 대체투자의 윤리&apos; &lt;1시간... ",
+			"link":"https:\/\/blog.naver.com\/chosury?Redirect=Log&logNo=220906778577",
+			"description":"[강의후기] [2017.1.9] 코람코자산신탁 신입사원 '금융과 부동산금융의 윤리: 직무윤리와 대체투자의 윤리' 오후 4시 40분 ~ 6시 20분. 인사팀 관계자 曰 &quot; 재미있는 <b>금융직무<\/b> 윤리교육은 처음 듣어본 것 같습니다.... ",
+			"bloggername":"컴플라이언스 학자, 조창훈의 컴플라이언스DB",
+			"bloggerlink":"https:\/\/blog.naver.com\/chosury",
+			"postdate":"20170109"
+		},
+		{
+			"title":"[2019 하반기 자소서 분석] 2. 기업은행 편 (<b>금융<\/b>영업 <b>직무<\/b>)",
+			"link":"https:\/\/blog.naver.com\/thdgurcjswp?Redirect=Log&logNo=221731783474",
+			"description":"(2000byte) → 은행원으로서 본인이 가지고 있는 <b>직무<\/b>역량입니다. 첨부파일 IBK <b>금융<\/b>영업.pdf 파일 다운로드 위 파일을 참고해 보시면 아래 고객창출, 고객관리, 고객상담, 거래약정·심사, 고객 제안·협상... ",
+			"bloggername":"쓸데있고 싶은 글 모음",
+			"bloggerlink":"https:\/\/blog.naver.com\/thdgurcjswp",
+			"postdate":"20191209"
+		},
+		{
+			"title":"오릭스캐피탈코리아 직무상담... 기업금융, 자동차<b>금융 직무<\/b>... ",
+			"link":"https:\/\/job-catch.tistory.com\/222",
+			"description":"오릭스캐피탈코리아를 직접 만나보세요🤭 직무상담회 내용 - 회사 소개 및 채용 전형 안내 - 경영관리\/ 기업금융\/ 자동차<b>금융 직무<\/b> 소개 - 현직자와 직접 소통하는 Q&amp;A 프로그램 참여 특전 ① 서류 접수를... ",
+			"bloggername":"대학생·취준생을 위한 무료취업카페 I 캐치카페☕",
+			"bloggerlink":"https:\/\/job-catch.tistory.com\/",
+			"postdate":"20191128"
+		},
+		{
+			"title":"<b>금융 직무<\/b>분야 교육 1일차",
+			"link":"https:\/\/blog.naver.com\/chana0404?Redirect=Log&logNo=100199689896",
+			"description":"11 본교 경력 개발센터에서 지원해주는 실전 <b>직무<\/b>스쿨 <b>금융<\/b>분야 프로그램을 신청하고 드디어 어제 개강을 하였다! 매일 6시반부터 9시반까지 늦은시간에 피곤함과 강추위를 무릅쓰고 내가 이 프로그램을... ",
+			"bloggername":"호두까기인형의 행진",
+			"bloggerlink":"https:\/\/blog.naver.com\/chana0404",
+			"postdate":"20131112"
+		},
+		{
+			"title":"나만 아는, 과장님께 예쁨받는 <b>금융 직무<\/b> 꿀팁 #2",
+			"link":"https:\/\/blog.naver.com\/chelddp?Redirect=Log&logNo=220070259150",
+			"description":"나만 아는, 과장님께 예쁨받는 <b>금융 직무<\/b> 꿀팁 by YE'S 오늘도 정말 유익한 <b>금융 직무<\/b>에 대해 계속 공부해볼까용? 금융회사의 경영 목표는 최고 경영층에 의해 결정됩니당 :&gt; 그렇다고 마케팅 부서에 있는... ",
+			"bloggername":"동횬쯔 구매일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/chelddp",
+			"postdate":"20140724"
+		},
+		{
+			"title":"한국산업인력공단, DGB<b>금융<\/b>지주와 국가<b>직무<\/b>능력표준(NCS)활용... ",
+			"link":"https:\/\/blog.naver.com\/molab_suda?Redirect=Log&logNo=221586865971",
+			"description":"한국산업인력공단(이사장 김동만)은 16일, 대구은행 제2본점(대구 북구)에서 DGB<b>금융<\/b>지주(회장 김태오)와 국가<b>직무<\/b>능력표준(NCS)* 활용 및 확산을 위한 업무협약을 체결하였습니다. 협약을 통해 양 기관은 NCS에... ",
+			"bloggername":"고용노동부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/molab_suda",
+			"postdate":"20190716"
+		},
+		{
+			"title":"커리어하이 <b>직무<\/b>교육 <b>금융<\/b>취업 준비에 강추!",
+			"link":"https:\/\/blog.naver.com\/jos424?Redirect=Log&logNo=221800144210",
+			"description":"커리어하이 좌표 공유합니다! 강의 내용 및 일정 확인하세요^^ #커리어하이후기 #커리어하이수강후기 #<b>금융<\/b>교육 #<b>직무<\/b>교육 #대체투자 #펀드매니저 #<b>금융<\/b>취업 #<b>금융<\/b>취준생 #취업준비",
+			"bloggername":"탱글이의 하루",
+			"bloggerlink":"https:\/\/blog.naver.com\/jos424",
+			"postdate":"20200207"
+		},
+		{
+			"title":"KB<b>금융<\/b>그룹 <b>직무<\/b>설명회 \/ 여의도 KB<b>금융<\/b> 타워",
+			"link":"https:\/\/blog.naver.com\/smin5614?Redirect=Log&logNo=220639843296",
+			"description":"사실 <b>금융<\/b>권 <b>직무<\/b>설명회에 참여하는건 이번이 처음이라 많은 기대를 하고 갔어요,,, 실제로 어떤 계열사가 어떠한 업무를 담당한다, 실제 직원분들은 어떻게 <b>직무<\/b>를 수행한다 등 조금은 구체적인 내용이... ",
+			"bloggername":"이계장네 낙서장",
+			"bloggerlink":"https:\/\/blog.naver.com\/smin5614",
+			"postdate":"20160227"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 책 소개 NCS 03. <b>금융<\/b>보험",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220598335135",
+			"description":"채용시장의 트렌드 NCS는 NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가를 추천해드려요! NCS기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 <b>금융<\/b>,보험 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.01.20. 리뷰보기",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160115"
+		},
+		{
+			"title":"기업은행 현직자 <b>직무<\/b> 소개 (경영분석, 기업<b>금융<\/b>)",
+			"link":"https:\/\/blog.naver.com\/upgrade_me_30min?Redirect=Log&logNo=222384822662",
+			"description":"기업<b>금융<\/b> 현직자 <b>직무<\/b> 소개 | 업무내용 기업<b>금융<\/b>은 기업의 영업활동과 관련된 업무를 진행합니다. 특히 기업대출\/외환 등의 업무가 중점이 되는데 이는 업무의 정확성, 리스크 헷지에 관한 내용이 필연적으로... ",
+			"bloggername":"코멘토 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/upgrade_me_30min",
+			"postdate":"20210604"
+		}
+	]
+}

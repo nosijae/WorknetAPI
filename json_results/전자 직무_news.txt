@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:17 +0900",
+	"total":94910,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"천안늘해랑학교, 신입사원 직장체험캠프 운영",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207281056385130406",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207281056385130406",
+			"description":"학생들은 입소 시작부터 취업에 필요한 실질적인 직업 준비 과정을 거치고 입소 후에는 현장과 유사한 <b>직무<\/b>가 적용되는 산업현장에서 근무시간을 마치고 자율 출·퇴근을 하도록 했다. 출·퇴근 시에는 기록기로 <b>전자<\/b>출결... ",
+			"pubDate":"Thu, 28 Jul 2022 14:12:00 +0900"
+		},
+		{
+			"title":"한국교통대, 인공지능산업 융합생태계 조성 위한 광역협력 교류회 추진",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2518089",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2518089",
+			"description":"(총장 <b>직무<\/b>대리 정기만) LINC 3.0 사업단은 전남대학교 LINC 3.0 사업단과 공동으로 인공지능산업 융합 생태계 조성을 위한 광역 협력 교류회를 추진했다. 이번 교류회에서는 인공지능 융합기술 및 한국<b>전자<\/b>통신연구원... ",
+			"pubDate":"Thu, 28 Jul 2022 13:56:00 +0900"
+		},
+		{
+			"title":"[윤석열 <b>직무<\/b>평가] 긍정 34% 부정 54%..하락 일단 멈춤",
+			"originallink":"http:\/\/www.00news.co.kr\/news\/articleView.html?idxno=73670",
+			"link":"http:\/\/www.00news.co.kr\/news\/articleView.html?idxno=73670",
+			"description":"윤석열 대통령의 <b>직무<\/b>수행 평가를 묻는 여론조사 결과 긍정 평가가 34%를 기록하며 하락세를 멈추고 소폭... 이재용 삼성<b>전자<\/b> 부회장 &lt;사진=뉴시스&gt; 아울러 8·15 광복절 특별사면 찬반에 대한 조사도 이뤄졌다.... ",
+			"pubDate":"Thu, 28 Jul 2022 13:12:00 +0900"
+		},
+		{
+			"title":"10년 만에 마무리된 회의록 폐기 논란…&apos;초본도 기록물&apos;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220728073800004?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013340148?sid=100",
+			"description":"등이 ▲대통령의 <b>직무<\/b>수행과 관련해 ▲생산·접수를 완료한 ▲문서·도서·대장·카드·도면·시청각물·<b>전자<\/b>문서 등 모든 형태의 기록정보자료 또는 대통령상징물(행정박물)이라고 규정했다. 이어 삭제된 회의록이 첨부된... ",
+			"pubDate":"Thu, 28 Jul 2022 11:12:00 +0900"
+		},
+		{
+			"title":"진주시, &apos;진주시 문학상&apos; 운영위원 위촉 [서부경남]",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207280054",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207280054",
+			"description":"이 재난대응인력 소진관리 프로그램은 코로나19 재난대응인력이 경험하는 <b>직무<\/b>스트레스와 소진을 예방... 남해읍의 상하수도, LPG배관망, 전기·통신 등 지하매설물에 대한 전산화(<b>전자<\/b>지도) 데이터도 구축하여 보유... ",
+			"pubDate":"Thu, 28 Jul 2022 10:34:00 +0900"
+		},
+		{
+			"title":"[핫이슈 키워드] 두 달 연속 자이언트 스텝·기대인플레·허리 숙인 권성동·...",
+			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000073836?division=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000296577?sid=101",
+			"description":"◇ 허리 숙인 권성동 권성동 국민의힘 당 대표 <b>직무<\/b>대행과 윤석열 대통령의 문자메시지가 공개된 뒤... 신동빈 사면 한덕수 국무총리가 윤석열 대통령에게 이재용 삼성<b>전자<\/b> 부회장 등 경제인 사면을 건의하겠다고... ",
+			"pubDate":"Thu, 28 Jul 2022 09:32:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] &apos;음주측정거부·경찰 폭행&apos; 래퍼 노엘(장용준) 2심 선고",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112960",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112960",
+			"description":"경찰은 운<b>전자<\/b>와 목격자 등을 상대로 경위를 조사중이다. ⓒ 연합뉴스 ■ 분야별 ▲ 대통령 한... 임용후보자 <b>직무<\/b>연수 특강(10:00 교육연수원) ▲ 복지부, 사회서비스 혁신 정책포럼(15:30 마포구... ",
+			"pubDate":"Thu, 28 Jul 2022 07:04:00 +0900"
+		},
+		{
+			"title":"[천지일보 이슈종합] 尹=권성동 문자 내부총질 파문·이재용 신동빈 특별사면...",
+			"originallink":"http:\/\/www.newscj.com\/article\/20220728580039",
+			"link":"http:\/\/www.newscj.com\/article\/20220728580039",
+			"description":"천지일보가 간추린 이슈종합 윤 대통령과 문자대화하는 권성동 국민의힘 대표 <b>직무<\/b>대행. (출처:뉴시스)... 연합뉴스에 따르면 한 총리는 이날 국회 교육·문화·사회 분야 대정부질문에서 ‘이재용 삼성<b>전자<\/b> 부회장과... ",
+			"pubDate":"Thu, 28 Jul 2022 07:02:00 +0900"
+		},
+		{
+			"title":"[7NEWS] 김명수 대법원장 체제 5년...저질·퇴행하는 사법 서비스",
+			"originallink":"https:\/\/www.chosun.com\/opinion\/morning_letter\/2022\/07\/28\/6NW5JXLAPRAZ5OYIU4P7NZW7H4\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003706589?sid=110",
+			"description":"기사 보기 코너몰린 권성동...김기현·안철수는 잰걸음 권성동 국민의힘 당대표 <b>직무<\/b>대행이 3번째... 기사 보기 [단독] 한국투자증권, 삼성<b>전자<\/b> 2552만주 ‘허위 공매도’ 한투증권이 2017년 2월부터 약 3년3개월동안... ",
+			"pubDate":"Thu, 28 Jul 2022 07:01:00 +0900"
+		},
+		{
+			"title":"[시론] 임금피크제와 정년연장",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207261541182860895",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207261541182860895",
+			"description":"삼성<b>전자<\/b> 노조가 “불합리한 임금피크제 운영으로 인한 금전적인 피해 보상을 요구한다”며 “보상이... 2016년 이후 도입된 임금피크제가 대부분 정년연장형이고 별도 <b>직무<\/b>를 부여한 것을 고려하면 향후 임금피크제... ",
+			"pubDate":"Thu, 28 Jul 2022 05:12:00 +0900"
+		},
+		{
+			"title":"[이시각헤드라인] 7월 27일 뉴스리뷰",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20220727019000038\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000553088?sid=102",
+			"description":"■ 권성동 &apos;문자 유출&apos; 사과…이준석 &quot;양두구육&quot; 권성동 국민의힘 대표 <b>직무<\/b>대행이 윤석열 대통령과의 문자... ■ 한총리 &quot;이재용·신동빈 특별사면 건의할 것 한덕수 국무총리가 윤석열 대통령에게 이재용 삼성<b>전자<\/b>... ",
+			"pubDate":"Wed, 27 Jul 2022 20:40:00 +0900"
+		},
+		{
+			"title":"[산업 이모저모] 현대차·기아, &apos;달 표면 탐사 모빌리티&apos; 개발 나선다...다자...",
+			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296918",
+			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296918",
+			"description":"이외에도 삼성<b>전자<\/b>가 올 초 출시한 갤럭시S22의 신규 색상 &apos;보라 퍼플(Bora Purple)&apos; 모델을 출시한다는 등 7월... 임직원 <b>직무<\/b> 멘토링, 활동비 등이 제공된다. ㅇ..LG유플러스는 한국철도공사의 철도 광통신망 친환경... ",
+			"pubDate":"Wed, 27 Jul 2022 20:32:00 +0900"
+		},
+		{
+			"title":"尹정부 첫 대정부질문, 마지막날까지 &apos;경찰국&apos; 두고 공방전(종합2보)",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755795",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244859?sid=100",
+			"description":"맡은바 <b>직무<\/b> 수행하고 있는 대부분 경찰을 얘기한 건 아니다. 이 부분에 대해서는 이 자리를 통해 오해를... 등을 두고 여야가 맞부딪쳤다. 또 이재용 삼성<b>전자<\/b> 부회장과 신동빈 롯데그룹 회장 등 경제인 사면 문제도 거론됐다.",
+			"pubDate":"Wed, 27 Jul 2022 20:18:00 +0900"
+		},
+		{
+			"title":"경찰국 신설 공방…&apos;윤대통령 문자&apos; 노출 파장",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20220727017700641\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000553077?sid=100",
+			"description":"이밖에 한덕수 국무총리는 질답 과정에서 이재용 삼성<b>전자<\/b> 부회장과 신동빈 롯데그룹 회장에 대한 사면을... [앵커] 그런가하면 어제 국민의힘 권성동 당대표 <b>직무<\/b>대행 겸 원내대표와 윤석열 대통령이 주고받은 문자 내용이... ",
+			"pubDate":"Wed, 27 Jul 2022 19:25:00 +0900"
+		},
+		{
+			"title":"박순애, 생기부 컨설팅 첨삭 의혹에 “제가 바빠서…기억 안 나”",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25090155",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003212726?sid=100",
+			"description":"맡은바 <b>직무<\/b>를 수행하는 대부분의 경찰에 대해 얘기한 것이 아니다”라며 “이 자리를 통해 오해를... 한 총리는 이재용 삼성<b>전자<\/b> 부회장과 신동빈 롯데그룹 회장의 사면을 건의하겠다는 뜻도 밝혔다. 박 의원이 “세계는... ",
+			"pubDate":"Wed, 27 Jul 2022 19:20:00 +0900"
+		},
+		{
+			"title":"새 정부 첫 대정부 질문 마무리, 여야 경찰국 설치, 탈북 어민 강제북송, 대우...",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022072718130793237",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000768443?sid=100",
+			"description":"이날 대정부질문에서 한덕수 국무총리는 이재용 삼성<b>전자<\/b> 부회장, 신동빈 롯데 회장 등 경제인 사면을... 바 <b>직무<\/b> 수행하는 대부분 경찰들을 이야기한 것이 아닌 만큼, 이 부분에 대해선 오해를 풀어주시면 감사하겠다&quot;고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"[연합뉴스 이 시각 헤드라인] - 18:00",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727159200011?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013338822?sid=004",
+			"description":"한 총리는 이날 국회 교육·문화·사회 분야 대정부질문에서 &apos;이재용 삼성<b>전자<\/b> 부회장과 신동빈... 맡은바 <b>직무<\/b>를 수행하는 대부분의 경찰에 대해 얘기한 것이 아니다&quot;라며 &quot;이 자리를 통해 오해를 풀어주셨으면... ",
+			"pubDate":"Wed, 27 Jul 2022 18:01:00 +0900"
+		},
+		{
+			"title":"[이시각헤드라인] 7월 27일 뉴스워치",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20220727015500038\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000553062?sid=102",
+			"description":"■ 대통령실 &quot;대화유출 유감&quot;…이준석 &quot;양두구육&quot; 대통령실이 윤석열 대통령과 국민의힘 권성동 대표 <b>직무<\/b>대... ■ 한총리 &quot;이재용·신동빈 특별사면 건의할 것&quot; 한덕수 국무총리가 윤석열 대통령에게 이재용 삼성<b>전자<\/b>... ",
+			"pubDate":"Wed, 27 Jul 2022 17:58:00 +0900"
+		},
+		{
+			"title":"[YTN 실시간뉴스] 14만 경찰회의 열리지 않을 듯...반발 여전",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202207271751135842",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001769386?sid=102",
+			"description":"■ 윤석열 대통령이 권성동 당 대표 <b>직무<\/b>대행에게 보낸 문자에서 이준석 대표를 겨냥해 내부 총질이라고... ■ 한덕수 국무총리가 이재용 삼성<b>전자<\/b> 부회장과 신동빈 롯데그룹 회장의 특별사면을 대통령에게 건의하겠다고... ",
+			"pubDate":"Wed, 27 Jul 2022 17:51:00 +0900"
+		},
+		{
+			"title":"박성중 &quot;이재용 총사령관&quot; 한덕수 &quot;사면 건의하겠다&quot;",
+			"originallink":"http:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002853447&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002361232?sid=102",
+			"description":"특혜될 수밖에&quot; ▲  권성동 국민의힘 당대표 <b>직무<\/b>대행(왼쪽부터), 이재용 삼성<b>전자<\/b> 부회장, 최태원 SK 회장이 지난 13일 오전 서울 장충동 신라호텔에서 열린 2022 아시안리더십컨퍼런스 개막식에서 윤석열 대통령의... ",
+			"pubDate":"Wed, 27 Jul 2022 17:48:00 +0900"
+		},
+		{
+			"title":"[정치행간] &apos;문자 파동&apos;으로 조기 전당대회 급부상...당권은 &apos;尹心&apos;이 좌우",
+			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2022072714420003040?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000688494?sid=100",
+			"description":"대표 <b>직무<\/b>대행 겸 원내대표 체제가 출범했지만 또다시 불안한 모습을 연출하면서다. 권 대행과 윤석열... 나뉘는데 <b>전자<\/b>는 과거 DJ였고 후자는 YS였다”고 비유했다. 이 의원은 “문자메시지로 ‘내부 총질’을 언급했다는... ",
+			"pubDate":"Wed, 27 Jul 2022 17:31:00 +0900"
+		},
+		{
+			"title":"한덕수 &quot;대통령에 이재용·신동빈 사면 건의하겠다&quot; [정치오늘]",
+			"originallink":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=141345",
+			"link":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=141345",
+			"description":"삼성<b>전자<\/b> 부회장, 신동빈 롯데 회장 등 경제인의 사면을 대통령에게 건의하겠냐&apos;는 국민의힘 박성중 의원... 이는 이 대표가 전날 언론에 권성동 대표 <b>직무<\/b>대행 겸 원내대표와 윤석열 대통령이 주고받은 텔레그램 메시지... ",
+			"pubDate":"Wed, 27 Jul 2022 17:30:00 +0900"
+		},
+		{
+			"title":"전국 경찰회의 자진 철회…민주당 &quot;이상민 탄핵 검토&quot;",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12068110",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000307366?sid=100",
+			"description":"[권성동\/국민의힘 대표 <b>직무<\/b>대행 겸 원내대표 (어제) : 경찰은 국가경찰위원회를 실질화하여 민주적 통제를... 삼성<b>전자<\/b> 부회장과 정의선 현대차 그룹 회장에 이어 3번째입니다. 지지율이 고전을 면치 못하는 가운데, 대규모... ",
+			"pubDate":"Wed, 27 Jul 2022 17:29:00 +0900"
+		},
+		{
+			"title":"한덕수 &quot;이재용 사면 건의할 것&quot;…여야는 &apos;경찰국 신설&apos; 공방",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022072716572466220",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004776082?sid=100",
+			"description":"(종합) ] 한덕수 국무총리가 27일 대정부질문에서 윤석열 대통령에게 이재용 삼성<b>전자<\/b> 부회장을 포함한... 이어 &quot;성실히 맡은 바 <b>직무<\/b>를 수행하는 대부분 경찰을 이야기한 것은 아닌만큼 이 자리를 빌려 오해를 풀어주시면... ",
+			"pubDate":"Wed, 27 Jul 2022 17:19:00 +0900"
+		},
+		{
+			"title":"[&apos;퇴근길&apos; 한눈에 훑는 뉴스] 권성동, &apos;尹 문자 유출 파문&apos;에 사과... 이준석...",
+			"originallink":"http:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=99119",
+			"link":"http:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=99119",
+			"description":"국민의힘 권성동 당 대표 <b>직무<\/b>대행 겸 원내대표가 27일 국회로 출근하며 윤석열 대통령과의 문자내용 공개와... [경제] ◇ 한덕수 총리 &quot;이재용‧신동빈 특별사면 건의하겠다&quot; 한덕수 국무총리는 이재용 삼성<b>전자<\/b> 부회장과... ",
+			"pubDate":"Wed, 27 Jul 2022 17:18:00 +0900"
+		},
+		{
+			"title":"[스타트업 소식] 넛지헬스케어·커리어리·우아한형제들·클래스101 外",
+			"originallink":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=61664",
+			"link":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=61664",
+			"description":"커리어리의 사이드 프로젝트 라운지의 가장 큰 장점은 재직 중인 회사, <b>직무<\/b> 등이 투명하게 공개된... 마지막 에이치디정션은 클라우드 기반 <b>전자<\/b>의무기록(EMR) 솔루션을 통해 인도네시아의 의료기록 전산화와... ",
+			"pubDate":"Wed, 27 Jul 2022 17:16:00 +0900"
+		},
+		{
+			"title":"[중기소식]잡플래닛, 재택·출근 혼합 &apos;하이브리드 근무&apos; 등",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958541&cID=13001&pID=13000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330216?sid=101",
+			"description":"업무 특성상 고정좌석이 필요한 <b>직무<\/b>를 제외하고 나머지 자리는 자율적으로 사용이 가능한 자율좌석제도... ▲반도체·<b>전자<\/b>부품 신뢰성 분석 기업 큐알티(QRT)는 반도체 LED(발광다이오드) 소자 광측정 테스트로 신뢰성... ",
+			"pubDate":"Wed, 27 Jul 2022 16:54:00 +0900"
+		},
+		{
+			"title":"한덕수 &quot;이재용·신동빈 사면 대통령에 건의하겠다&quot;",
+			"originallink":"https:\/\/www.newdaily.co.kr\/site\/data\/html\/2022\/07\/27\/2022072700190.html",
+			"link":"https:\/\/www.newdaily.co.kr\/site\/data\/html\/2022\/07\/27\/2022072700190.html",
+			"description":"특히 한덕수 국무총리는 이재용 삼성<b>전자<\/b> 부회장, 신동빈 롯데 회장 등 경제인 사면을 윤석열 대통령에게... 바 <b>직무<\/b>를 수행하는 대부분의 경찰에 대해 얘기한 것이 아니다&quot;라고 덧붙였다. 이 장관은 다만 경찰국 신설의... ",
+			"pubDate":"Wed, 27 Jul 2022 16:44:00 +0900"
+		},
+		{
+			"title":"尹 &apos;내부총질&apos; 문자 논란…국회서 포착된 &apos;역대급&apos; 메시지는?[타임라인]",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5793662",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003669001?sid=100",
+			"description":"핵심요약 국민의힘 권성동 당대표 <b>직무<\/b>대행 겸 원내대표가 윤석열 대통령과 주고받은 문자메시지가 보도된... 삼성<b>전자<\/b> 협력업체 경영&quot;이라는 문자메시지를 받은 뒤, 이를 같은 당 산자위 소속 노영민 의원에게 전달한... ",
+			"pubDate":"Wed, 27 Jul 2022 15:15:00 +0900"
+		},
+		{
+			"title":"KOTRA, 중국 자유무역항 하이난에서 경제협력 기회 찾는다",
+			"originallink":"http:\/\/www.newscj.com\/article\/20220727580390",
+			"link":"http:\/\/www.newscj.com\/article\/20220727580390",
+			"description":"뿐만 아니라 KOTRA는 한국관광공사(사장<b>직무<\/b>대행 신상용)와 협업해 한국문화 체험관을 운영하며 중국 주요... 면세 ▲크로스보더 <b>전자<\/b>상거래 등 온·오프라인을 아우르는 면세소비경제의 생태계를 구축하며... ",
+			"pubDate":"Wed, 27 Jul 2022 14:36:00 +0900"
+		},
+		{
+			"title":"7월 4주 주요 제조업 전망",
+			"originallink":"http:\/\/www.laborplus.co.kr\/news\/articleView.html?idxno=29646",
+			"link":"http:\/\/www.laborplus.co.kr\/news\/articleView.html?idxno=29646",
+			"description":"합의서는 기존 인력에 대한 <b>직무<\/b>전환 교육 및 국내공장 설립 등의 내용을 담고 있음 □ 대우조선해양 하청... 장관은 &quot;삼성<b>전자<\/b>, SK하이닉스 등 반도체 대기업을 중심으로 2026년까지 계획된 340조 원 투자가 차질 없이... ",
+			"pubDate":"Wed, 27 Jul 2022 14:33:00 +0900"
+		},
+		{
+			"title":"공채 줄이고 수시채용 늘리는 기업들…토익·학력 비중 낮아져",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20220727500226",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20220727500226",
+			"description":"기업 88% &quot;<b>직무<\/b>경험 있는 지원자, 업무 적응·수행력 ↑&quot; <b>직무<\/b>적합성 선호에 &quot;신입 채용 줄고 경력직 확보... 현재 삼성<b>전자<\/b>를 제외한 LG, SK, 현대차, 롯데 등 다수의 대기업들도 공개채용을 폐지하고 수시채용으로 전환했다.... ",
+			"pubDate":"Wed, 27 Jul 2022 14:24:00 +0900"
+		},
+		{
+			"title":"美 FDA서 아이코스 승인한 맷 홀만 디렉터, 필립모리스에 둥지 튼다",
+			"originallink":"https:\/\/www.theguru.co.kr\/news\/article.html?no=39284",
+			"link":"https:\/\/www.theguru.co.kr\/news\/article.html?no=39284",
+			"description":"아이코스의 판매 승인 관련 업무를 맡았던 FDA 고위직 인사를 영입함에 따라 PMI이 궐련형 <b>전자<\/b>담배 사업 확대에 속도가 붙을 것이라는 전망이 나온다. PMI는 맷 홀만의 <b>직무<\/b>는 공개하지 않았다. 아이코스는... ",
+			"pubDate":"Wed, 27 Jul 2022 14:02:00 +0900"
+		},
+		{
+			"title":"소주 영업판의 나홀로 여자, 서러워도 슬퍼도 꽃비는 안 울어 [일잼원정대]",
+			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2022072610450004449?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000688424?sid=102",
+			"description":"고생길이 훤하다는 영업 <b>직무<\/b>, 취급 품목은 무려 소주와 맥주, 초초초남초 조직에 나 홀로 여자. 남다른... 꽃비씨는 <b>전자<\/b>를 택했습니다. 회식 때마다 “좀 가라! 제발 가!”라는 소리를 들을 때까지 악착같이 자리를... ",
+			"pubDate":"Wed, 27 Jul 2022 14:01:00 +0900"
+		},
+		{
+			"title":"[김해24시] 김해시, 산하 공공기관 직원 43명 통합 채용",
+			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=243006",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000042213?sid=102",
+			"description":"김해시 관계자는 &quot;이번 공개 통합채용은 <b>직무<\/b>수행에 필요한 지식과 응용 능력을 객관적으로 검증해 우리... 김해시 신활력플러스 사업추진단 사무국에서 8월8일까지 <b>전자<\/b>우편(ghnp2021@korea.kr)으로 기초과정 신청자를... ",
+			"pubDate":"Wed, 27 Jul 2022 12:39:00 +0900"
+		},
+		{
+			"title":"우리은행 횡령 &apos;내부통제 총체적 부실&apos;에도 CEO제재 한계",
+			"originallink":"http:\/\/www.naeil.com\/news_view\/?id_art=430792",
+			"link":"http:\/\/www.naeil.com\/news_view\/?id_art=430792",
+			"description":"문서 관리 역시 <b>전자<\/b>결재가 아닌 수기 결재문서여서 8차례 횡령 중 4번은 결재가 이뤄졌지만 전산등록이 돼... 이준수 금감원 부원장은 &quot;인사관리 허점, 문서관리 부실, <b>직무<\/b>분리 취약, 부서 내 자점검사와 이상거래... ",
+			"pubDate":"Wed, 27 Jul 2022 12:14:00 +0900"
+		},
+		{
+			"title":"[#꿀신상#꿀혜택] 한섬 &apos;아워레가시&apos; 론칭·잡코리아 &apos;취업답쭐 내러가자&apos;·...",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604308",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604308",
+			"description":"관련한 <b>직무<\/b>와 기업에 재직 중인 선배에게 매칭해 준다. 고민 글을 읽은 사회 선배들이 정보와 조언을... 바쁜 직장인이나 자취생, 학생 등이 <b>전자<\/b>레인지에 데워 간편하게 먹을 수 있다. ◆&apos;팔도감&apos; 투자 유치... ",
+			"pubDate":"Wed, 27 Jul 2022 11:08:00 +0900"
+		},
+		{
+			"title":"[7월27일 워크넷 채용 정보] 통영적십자병원·한국전력국제원자력대학원대학교...",
+			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220727500083",
+			"link":"https:\/\/www.news2day.co.kr\/article\/20220727500083",
+			"description":"com\/bohun\/job\/) ▷제출서류 : 기본 서류(자기소개서 및 <b>직무<\/b>능력소개서, 간호조무사 자격증), 면접 서류(기타... 및 <b>전자<\/b>공학부 전임직 교원 채용 ▷모집부문 : 전임직 교원 1명 ▷담당업무 : 초고주파 회로 설계... ",
+			"pubDate":"Wed, 27 Jul 2022 10:54:00 +0900"
+		},
+		{
+			"title":"공정위 &quot;변호사의 플랫폼 이용 제한 등 반칙행위 차단&quot;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727062700002?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013337023?sid=101",
+			"description":"공정위는 실질적인 피해 구제를 위해 자진 시정 시 과징금 감경 폭을 확대하고, <b>전자<\/b>심판제도를 도입하는... 조 위원장은 새 정부 출범을 앞두고 사의를 표명했으나, 후임 위원장이 임명되지 않아 계속 <b>직무<\/b>를 수행 중이다.... ",
+			"pubDate":"Wed, 27 Jul 2022 10:48:00 +0900"
+		},
+		{
+			"title":"[칼럼] 기업부설연구소 제도.. 잘 활용하면 기업경영에 득된다",
+			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202207270108&t=NN",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001045204?sid=101",
+			"description":"그 중에서도 특수장비 제작업체인 O 기업의 고 대표, <b>전자<\/b>제품 생산업체인 P 기업의 정 대표 등은... 그 내용으로는 사내근로복지기금, 가지급금 정리, 임원퇴직금, 제도 정비, 명의신탁 주식, 기업부설연구소, <b>직무<\/b>발명보상... ",
+			"pubDate":"Wed, 27 Jul 2022 10:27:00 +0900"
+		},
+		{
+			"title":"[기자수첩] 경찰청장, 시-도 경찰청장 제청권은 있는데, 치안사무는 행안부 장...",
+			"originallink":"http:\/\/monthly.chosun.com\/client\/mdaily\/daily_view.asp?idx=15818&Newsnumb=20220715818",
+			"link":"http:\/\/monthly.chosun.com\/client\/mdaily\/daily_view.asp?idx=15818&Newsnumb=20220715818",
+			"description":"행정능률, <b>전자<\/b>정부, 정부청사의 관리, 지방자치제도, 지방자치단체의 사무지원‧재정‧세제, 낙후지역 등... 34조 6항에서는 “경찰청의 조직‧<b>직무<\/b>범위 그 밖에 필요한 사항은 따로 법률로 정한다”고 하고 있다. 이에... ",
+			"pubDate":"Wed, 27 Jul 2022 10:26:00 +0900"
+		},
+		{
+			"title":"온라인쇼핑몰 쇼피파이, 직원 1천명 감원…&quot;팬데믹 고성장 끝나&quot;",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=905098",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=905098",
+			"description":"쇼피파이의 로고(사진\/연합뉴스) 캐나다의 <b>전자<\/b>상거래 업체 쇼피파이가 전 세계 직원 중 약 10%를... 또 지나치게 전문화된 <b>직무<\/b>나 중복된 <b>직무<\/b>도 대상이다. 감원 대상자에게는 이날 통지가 이뤄졌다. 직접 쇼핑몰을... ",
+			"pubDate":"Wed, 27 Jul 2022 10:04:00 +0900"
+		},
+		{
+			"title":"[스타트업 소식] 뮤직카우·마켓컬리·코리아스타트업포럼·뱅크샐러드 外",
+			"originallink":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=61635",
+			"link":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=61635",
+			"description":"한국의 <b>전자<\/b>상거래 시장이 가진 구조적 문제를 해결하고자 생산자와 소비자를 직접 연결하는 서비스인... 이에 더해 우승팀을 포함한 결선 진출팀 참가자 전원에게는 컬리 입사 지원 시 서류, 코딩 테스트, <b>직무<\/b>기술... ",
+			"pubDate":"Wed, 27 Jul 2022 09:26:00 +0900"
+		},
+		{
+			"title":"GS리테일 홈쇼핑·SBS A&amp;T·JTBC 플러스·서울영상테크, 신입∙경력 모집",
+			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=20220727084456823746a9e4dd7f_30",
+			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=20220727084456823746a9e4dd7f_30",
+			"description":"모집 부분은 사내 스튜디오 운영, AV 등의 <b>직무<\/b>가 진행되며, 업무 내용으로는 삼성<b>전자<\/b> 사내 라이브 스튜디오 운영에 대한 업무를 수행하게 된다. 제출 서류 및 지원 방법은 자사 입사지원서와 자기소개서, 자격증... ",
+			"pubDate":"Wed, 27 Jul 2022 08:52:00 +0900"
+		},
+		{
+			"title":"&quot;코로나19 수혜 끝났다&quot;…쇼피파이, 전세계 인력 10% 감원",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01433366632398784",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005277784?sid=101",
+			"description":"캐나다 <b>전자<\/b>상거래 플랫폼 기업 쇼피파이가 전체 인력의 약 10%에 해당하는 1000명의 직원을 감원하기로... 또 지나치게 전문화되거나 중복되는 <b>직무<\/b>, 비필수적인 인력도 감원의 대상이 될 것이라고 덧붙였다. 감원... ",
+			"pubDate":"Wed, 27 Jul 2022 08:27:00 +0900"
+		},
+		{
+			"title":"가산세·과태료 앞세운 납세협력의무…협력이냐? 강요냐?",
+			"originallink":"http:\/\/www.taxtimes.co.kr\/news\/article.html?no=255747",
+			"link":"http:\/\/www.taxtimes.co.kr\/news\/article.html?no=255747",
+			"description":"간이지급명세서 매월 제출과 함께 <b>전자<\/b>(세금)계산서 의무발급 대상도 확대된다. 현재 직전연도 총수입금액... 또 세무공무원의 질문에 대해 거짓 진술하거나 <b>직무<\/b>집행을 거부⋅기피하면 내년부터는 과태료가 5배 인상... ",
+			"pubDate":"Wed, 27 Jul 2022 08:26:00 +0900"
+		},
+		{
+			"title":"[뉴스쏙:속]尹의 본심? &quot;내부 총질 당대표&quot;…이준석 &apos;침묵&apos;,권성동 &apos;수습&apos;",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5793235",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003668690?sid=102",
+			"description":"어제 오후 국회에서 열린 대정부질문에 참석한 권성동 당대표 <b>직무<\/b>대행이 휴대전화로 윤석열 대통령과... 삼성<b>전자<\/b>는 국내외 출장을 가급적 자제하고, 불가피한 경우에는 인원을 최소화하라고 공지했습니다.... ",
+			"pubDate":"Wed, 27 Jul 2022 08:14:00 +0900"
+		},
+		{
+			"title":"[연합뉴스 이 시각 헤드라인] - 07:30",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727014800011?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013336493?sid=004",
+			"description":"이 메시지는 윤 대통령이 &apos;윤핵관&apos;(윤 대통령 핵심 관계자) 권성동 대표 <b>직무<\/b>대행 겸 원내대표와... 전통의 유통기업뿐 아니라 <b>전자<\/b>상거래 회사인 아마존(-5.2%)과 쇼피파이(-14.1%)도 대폭 하락을 피하지... ",
+			"pubDate":"Wed, 27 Jul 2022 07:31:00 +0900"
+		},
+		{
+			"title":"코트라 &quot;中 자유무역항 하이난서 경제협력 기회 찾는다&quot;",
+			"originallink":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=506487",
+			"link":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=506487",
+			"description":"이뿐만 아니라 KOTRA는 한국관광공사(사장<b>직무<\/b>대행 신상용)와 협업해 한국문화 체험관을 운영하며 중국... 면세 △크로스보더 <b>전자<\/b>상거래 등 온·오프라인을 아우르는 면세소비경제의 생태계를 구축하며 &apos;면세경제의... ",
+			"pubDate":"Wed, 27 Jul 2022 07:26:00 +0900"
+		},
+		{
+			"title":"온라인쇼핑몰 쇼피파이, 직원 천명 감원…“팬데믹 고성장 끝나”",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5518777&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011309582?sid=104",
+			"description":"캐나다의 <b>전자<\/b>상거래 업체 쇼피파이가 전 세계 직원 중 약 10%를 감원하기로 했다고 일간 월스트리트저널... 또 지나치게 전문화된 <b>직무<\/b>나 중복된 <b>직무<\/b>도 대상입니다. 감원 대상자에게는 이날 바로 통지가 이뤄졌습니다.... ",
+			"pubDate":"Wed, 27 Jul 2022 07:13:00 +0900"
+		},
+		{
+			"title":"&quot;팬데믹 고성장 끝나&quot; 쇼피파이, 10% 감원 결정",
+			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202207270008&t=NN",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001045121?sid=101",
+			"description":"캐나다의 <b>전자<\/b>상거래 업체 쇼피파이가 전 세계 직원 중 약 10%를 감원하기로 했다고 일간 월스트리트저널... 또 지나치게 전문화된 <b>직무<\/b>나 중복된 <b>직무<\/b>도 대상이다. 직접 쇼핑몰을 운영하는 것 외에 기업·사업체의... ",
+			"pubDate":"Wed, 27 Jul 2022 06:50:00 +0900"
+		},
+		{
+			"title":"온라인쇼핑몰 쇼피파이, 직원 1천명 감원…&quot;팬데믹 고성장 끝나&quot;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220727006400091?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013336439?sid=104",
+			"description":"정성호 특파원 = 캐나다의 <b>전자<\/b>상거래 업체 쇼피파이가 전 세계 직원 중 약 10%를 감원하기로 했다고 일간... 또 지나치게 전문화된 <b>직무<\/b>나 중복된 <b>직무<\/b>도 대상이다. 감원 대상자에게는 이날 통지가 이뤄졌다. 직접... ",
+			"pubDate":"Wed, 27 Jul 2022 06:03:00 +0900"
+		},
+		{
+			"title":"KOTRA, 中 하이난 소비재박람회 연계 ‘한-중 경제협력 플라자’ 개최",
+			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202207261922102103f4ab64559d_12",
+			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202207261922102103f4ab64559d_12",
+			"description":"이뿐만 아니라 KOTRA는 한국관광공사(사장<b>직무<\/b>대행 신상용)와 협업해 한국문화 체험관을 운영하며 중국... 면세 △크로스보더 <b>전자<\/b>상거래 등 온·오프라인을 아우르는 면세소비경제의 생태계를 구축하며 ‘면세경제의... ",
+			"pubDate":"Tue, 26 Jul 2022 19:24:00 +0900"
+		},
+		{
+			"title":"포스코 광양제철소와 함께하는 &apos;취업컨설팅&apos; 3기 참여자 모집",
+			"originallink":"http:\/\/www.welfarenews.net\/news\/articleView.html?idxno=84355",
+			"link":"http:\/\/www.welfarenews.net\/news\/articleView.html?idxno=84355",
+			"description":"희망직종·<b>직무<\/b> 및 자기소개서를 제출하면 된다. 컨설팅은 다음달 23일~25일까지 총 3일 동안 진행되며, 대상자 선정이 완료되면 세부 일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편(msay1030@posco.com)으로... ",
+			"pubDate":"Tue, 26 Jul 2022 19:10:00 +0900"
+		},
+		{
+			"title":"출연연 장애인 의무고용, 올해도 저조",
+			"originallink":"http:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2015662",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000020373?sid=102",
+			"description":"부담금을 가장 많이 낸 기관은 한국<b>전자<\/b>통신연구원(ETRI)으로 6억200만 원을 납부했다. ETRI의 의무고용률은... 과학계 일각에선 출연연이 요구하는 <b>직무<\/b> 능력에 부합한 장애 인력과 지원자가 부족하다는 한계점이 있기... ",
+			"pubDate":"Tue, 26 Jul 2022 19:09:00 +0900"
+		},
+		{
+			"title":"은행장 도장까지 마음대로…우리은행 내부통제 &apos;도마 위&apos;(종합)",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4754377",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006242006?sid=101",
+			"description":"하지만 <b>전자<\/b>결재가 아닌 수기 방식이었으며, 전산등록도 하지 않은 탓에 사후점검 역시 이뤄지지 못했다.... 이에 대해 이준수 금감원 부원장은 &quot;통장과 직인의 분리관리 등 은행의 <b>직무<\/b> 분리에 있어서 취약점이 발견됐다... ",
+			"pubDate":"Tue, 26 Jul 2022 18:38:00 +0900"
+		},
+		{
+			"title":"포스코 광양제철소와 함께하는 ‘취업컨설팅’ 3기 참여자 모집",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207260203",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207260203",
+			"description":"희망직종·<b>직무<\/b> 및 자기소개서(권장)를 제출하면 된다. 컨설팅은 8월 23일부터 8월 25일까지 총 3일 동안 진행되며, 대상자 선정이 완료되면 세부 일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편으로... ",
+			"pubDate":"Tue, 26 Jul 2022 18:18:00 +0900"
+		},
+		{
+			"title":"[오늘의 <b>전자<\/b> 단신] 신일, &apos;에코 음식물 처리기 시즌2&apos; 출시 外",
+			"originallink":"http:\/\/www.inews24.com\/view\/1504464",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000687951?sid=101",
+			"description":"◆ 신일, &apos;에코 음식물 처리기 시즌2&apos; 출시 신일<b>전자<\/b>가 &apos;에코 음식물 처리기 시즌2&apos;를 출시했다. 신제품은... 필요한 <b>직무<\/b>훈련 및 일경험 기회를 제공하는 민관협업 프로젝트다. 기업이 보유한 강점과 인프라를 활용해... ",
+			"pubDate":"Tue, 26 Jul 2022 18:06:00 +0900"
+		},
+		{
+			"title":"8년간 700억 꿀꺽…금감원이 밝힌 우리은행 직원 횡령 전모",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=658615&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004996637?sid=101",
+			"description":"명령 휴가는 사고 위험이 있는 업무를 담당하는 임직원에게 불시에 의무휴가를 부여한 뒤 <b>직무<\/b> 내용을... 이 직원은 8차례 횡령 중 4번은 결재를 받았으나 모두 <b>전자<\/b>결재가 아닌 수기결재 문서라 사전 점검과 사후... ",
+			"pubDate":"Tue, 26 Jul 2022 17:46:00 +0900"
+		},
+		{
+			"title":"윤 대통령 &quot;경찰 반발은 국기문란&quot;…&apos;경찰국&apos; 내주 출범",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12067940",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000307200?sid=100",
+			"description":"[권성동\/국민의힘 대표 <b>직무<\/b>대행 겸 원내대표 : 경찰은 국가경찰위원회를 실질화하여 민주적 통제를... 또, 출소한 스토킹 범죄자에게 <b>전자<\/b>발찌를 부착하는 법안, 범죄피해자에게 맞춤형 &apos;원스톱&apos; 지원 체계를 마련하는... ",
+			"pubDate":"Tue, 26 Jul 2022 17:11:00 +0900"
+		},
+		{
+			"title":"이재용 수사 한동훈의 아리송 발언...&quot;사면권 보좌는 다른 문제&quot;",
+			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=475854",
+			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=475854",
+			"description":"삼성<b>전자<\/b> 부회장의  사면복권 문제와 관련 원칙적 입장을 견지했다. 한 장관은 26일 윤석열 대통령에 대한... 이는 이재용 부회장을 수사해 사법처리한 것은 검사로서의 <b>직무<\/b>수행이었고, 사면권 행사는 대통령의... ",
+			"pubDate":"Tue, 26 Jul 2022 17:06:00 +0900"
+		},
+		{
+			"title":"&apos;비대면 진료 제도화&apos; 탄력붙을까…의료계 합의가 관건",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1137213&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1137213&inflow=N",
+			"description":"뉴스토마토 = 고은하 기자 | 권성동 국민의힘 당대표 <b>직무<\/b>대행 겸 원내대표와 박홍근 더불어민주당... 그는 &quot;법안 내에는 플랫폼에 대한 규제 부분들이 담기지 못한 것 같다&quot;며 &quot;비대면 진료와 조제할땐 처방전이 <b>전자<\/b>처방형... ",
+			"pubDate":"Tue, 26 Jul 2022 16:56:00 +0900"
+		},
+		{
+			"title":"포스코 광양제철소 ‘취업컨설팅’ 3기 참여자 모집",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220726010006599",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220726010006599",
+			"description":"희망직종·<b>직무<\/b> 및 자기소개서(권장)를 제출하면 된다. 컨설팅은 8월 23일부터 8월 25일까지 총 3일 동안 진행되며, 대상자 선정이 완료되면 세부일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편으로... ",
+			"pubDate":"Tue, 26 Jul 2022 16:26:00 +0900"
+		},
+		{
+			"title":"&apos;경찰국&apos;으로 대야 수위 높인 국민의힘, &apos;안보농단&apos;까지 정조준",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1136388\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002624538?sid=100",
+			"description":"권성동 국민의힘 당대표 <b>직무<\/b>대행 겸 원내대표는 26일 오전 국회에서 열린 원내대책회의에서 &quot;(경찰은) 군과... 공용<b>전자<\/b>기록 등 손상죄 혐의를 적용했다. 서 전 원장은 2019년 11월 탈북 어민의 귀순 의사를 무시하고 강제... ",
+			"pubDate":"Tue, 26 Jul 2022 16:25:00 +0900"
+		},
+		{
+			"title":"포스코 광양제철소와 함께하는 &apos;취업컨설팅&apos; 3기 참여자 모집",
+			"originallink":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=584198",
+			"link":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=584198",
+			"description":"희망직종·<b>직무<\/b> 및 자기소개서(권장)를 제출하면 된다. 컨설팅은 8월 23일부터 8월 25일까지 총 3일 동안 진행되며 대상자 선정이 완료되면 세부 일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편으로... ",
+			"pubDate":"Tue, 26 Jul 2022 16:10:00 +0900"
+		},
+		{
+			"title":"광양제철소, 지역 청년 취업역량 강화",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207261501225315",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004873268?sid=102",
+			"description":"희망직종·<b>직무<\/b> 및 자기소개서(권장)를 제출하면 된다. 컨설팅은 8월 23일부터 8월 25일까지 총 3일 동안 진행되며, 대상자 선정이 완료되면 세부 일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편으로... ",
+			"pubDate":"Tue, 26 Jul 2022 15:12:00 +0900"
+		},
+		{
+			"title":"우리은행, 행장 직인 도용도 무단결근도 몰랐다…황당한 697억 횡령 실태",
+			"originallink":"http:\/\/www.etnews.com\/20220726000161",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003033084?sid=101",
+			"description":"명령휴가는 사고 위험이 발생할 가능성이 있는 부서 직원에게 불시에 의무휴가를 부여하고 <b>직무<\/b> 내용을... 횡령 직원이 총 8차례에 걸친 횡령 중 4번은 결재를 받았지만 모두 <b>전자<\/b>결재가 아닌 수기로 이뤄졌다.... ",
+			"pubDate":"Tue, 26 Jul 2022 14:09:00 +0900"
+		},
+		{
+			"title":"포스코 광양제철소, &apos;취업컨설팅&apos; 3기 참여자 모집",
+			"originallink":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072614052720884",
+			"link":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022072614052720884",
+			"description":"희망직종·<b>직무<\/b> 및 자기소개서(권장)를 제출하면 된다. 컨설팅은 8월 23일부터 8월 25일까지 총 3일 동안 진행되며, 대상자 선정이 완료되면 세부 일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편으로... ",
+			"pubDate":"Tue, 26 Jul 2022 14:08:00 +0900"
+		},
+		{
+			"title":"우리은행 직원 횡령액 700억 원에 달해",
+			"originallink":"http:\/\/www.kookje.co.kr\/news2011\/asp\/newsbody.asp?code=0200&key=20220726.99099007522",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/658\/0000015790?sid=101",
+			"description":"명령휴가란 사고가 발생할 수 있는 업무를 담당하는 임직원에게 불시에 의무휴가를 부여한 뒤 <b>직무<\/b>내용을... 4차례는 <b>전자<\/b>결재가 아닌 수기 결재문서였다. 전산등록이 돼 있지 않은 문서 내용의 진위여부에 대해 결재... ",
+			"pubDate":"Tue, 26 Jul 2022 14:06:00 +0900"
+		},
+		{
+			"title":"포스코 광양제철소, &apos;취업컨설팅&apos; 3기 참여자 모집",
+			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=852394",
+			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=852394",
+			"description":"희망직종·<b>직무<\/b> 및 자기소개서(권장)를 제출하면 된다. 컨설팅은 8월 23일부터 8월 25일까지 총 3일 동안 진행되며, 대상자 선정이 완료되면 세부 일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편으로... ",
+			"pubDate":"Tue, 26 Jul 2022 13:58:00 +0900"
+		},
+		{
+			"title":"[울산24시] 울산시, &apos;스타트업 혁신파크 연구용역&apos; 착수보고회 개최",
+			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=242913",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000042150?sid=102",
+			"description":"울산교육연구정보원, 미래교육 준비 에듀테크 <b>직무<\/b>연수 실시 울주군, 지역 고등학생 대상 하이리더 캠프... 기기·<b>전자<\/b>칠판 활용 등을 위해 11개의 전문 과목으로 편성했다. 또 강사를 교과목의 특성에 맞게 교수·교사... ",
+			"pubDate":"Tue, 26 Jul 2022 13:44:00 +0900"
+		},
+		{
+			"title":"[AT <b>전자<\/b> 소식] 삼성<b>전자<\/b>·LG디스플레이·바디프랜드·코웨이·청호나이스",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20220726500199",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20220726500199",
+			"description":"삼성<b>전자<\/b>, 휴가철 맞아 삼진어묵과 &apos;비스포크 큐커 썸머 페스티벌&apos; 실시 삼성<b>전자<\/b>... 필요한 <b>직무<\/b>훈련 및 일경험 기회를 제공하는 민관협업 프로젝트다. 기업이 보유한 강점과 인프라를 활용해... ",
+			"pubDate":"Tue, 26 Jul 2022 13:20:00 +0900"
+		},
+		{
+			"title":"포스코 광양제철소, 취업컨설팅 3기 참여자 모집",
+			"originallink":"http:\/\/www.snmnews.com\/news\/articleView.html?idxno=501414",
+			"link":"http:\/\/www.snmnews.com\/news\/articleView.html?idxno=501414",
+			"description":"희망직종 <b>직무<\/b> 및 자기소개서(권장)를 제출하면 된다. 컨설팅은 8월 23일부터 8월 25일까지 총 3일 동안 진행되며, 대상자 선정이 완료되면 세부 일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편으로... ",
+			"pubDate":"Tue, 26 Jul 2022 12:40:00 +0900"
+		},
+		{
+			"title":"청호나이스, &apos;매트리스 케어 서비스&apos; 할인 진행…신일, &apos;에코 음식물 처리기 ...",
+			"originallink":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=141253",
+			"link":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=141253",
+			"description":"<b>전자<\/b>랜드, 인턴십 기회 제공 &apos;캐릭터 공모전&apos; 진행 <b>전자<\/b>랜드는 공식 온라인몰인 <b>전자<\/b>랜드쇼핑몰에서... 필요한 <b>직무<\/b>훈련 및 일경험 기회를 제공하는 민관협업 프로젝트다. 코웨이는 이번 지원사업 참여를 통해 청년고용... ",
+			"pubDate":"Tue, 26 Jul 2022 12:36:00 +0900"
+		},
+		{
+			"title":"&apos;3고(고물가·고금리·고환율)&apos; 민생 위기·경기침체 대응 집중 … &apos;세제 개편...",
+			"originallink":"http:\/\/www.naeil.com\/news_view\/?id_art=430626",
+			"link":"http:\/\/www.naeil.com\/news_view\/?id_art=430626",
+			"description":"삼성<b>전자<\/b> 등 재벌 대기업과 예대마진 폭리로 올해 1분기만 9조원의 영업이익을 거둔 4대 금융지주에 돌아간다... 오히려 경찰국을 만들지 않는 게 행안부장관의 <b>직무<\/b>유기라고 생각한다&quot;면서 &quot;경찰관들과 공감하고 말고 할... ",
+			"pubDate":"Tue, 26 Jul 2022 12:12:00 +0900"
+		},
+		{
+			"title":"[#꿀신상#꿀혜택] 진로-부산시 &apos;박람회 포토존&apos;·코웨이 &apos;청년친화형 기업 ES...",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604188",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604188",
+			"description":"제너시스BBQ 그룹이 BBQ앱과 홈페이지에 간편결제 서비스 &apos;카카오페이&apos;를 도입했고 신일<b>전자<\/b>가 &apos;에코 음식물... 청년친화형 기업 ESG 지원사업은 청년고용 문제 해결을 위해 정부와 기업이 손잡고 청년에게 필요한 <b>직무<\/b>훈... ",
+			"pubDate":"Tue, 26 Jul 2022 11:46:00 +0900"
+		},
+		{
+			"title":"포스코 광양제철소, &apos;취업컨설팅&apos; 3기 참여자 50명 모집",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4753746",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006240571?sid=102",
+			"description":"희망직종·<b>직무<\/b> 및 자기소개서(권장)를 제출하면 된다. 컨설팅은 8월23일부터 25일까지 총 3일 동안 진행되며, 대상자 선정이 완료되면 세부 일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편으로 신청서를... ",
+			"pubDate":"Tue, 26 Jul 2022 11:41:00 +0900"
+		},
+		{
+			"title":"[경찰국 사태]&quot;&apos;쿠데타&quot; 이어 &quot;국기문란&quot; vs &quot;14만 경찰회의 추진&quot;",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2021903",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2021903",
+			"description":"행정능률 ▲ <b>전자<\/b>정부 ▲ 정부청사의 관리 ▲ 지방자치제도 ▲ 지방자치단체의 사무지원·재정ㆍ세제... 조직·<b>직무<\/b>범위 그 밖에 필요한 사항은 따로 법률로 정한다&quot;고만 규정하고 있다.하고, 1991년 경찰법이 제정되면서... ",
+			"pubDate":"Tue, 26 Jul 2022 11:36:00 +0900"
+		},
+		{
+			"title":"[뉴스라이브] &apos;경찰의 난&apos; 부른 &apos;경찰국&apos;...핵심 쟁점·법적 근거는?",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0101_202207261131534870",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001768710?sid=100",
+			"description":"구체적으로는 국가공무원법상 <b>직무<\/b>상 명령에 복종하지 않았다는 사유입니다. 즉 회의 과정에서 경찰청장... 즉 행안부 장관이 경찰사무와 관련해 직접 지휘를 하게 된다면 그 지휘형태는 구두가 아니라 문서, 현재는 <b>전자<\/b>문... ",
+			"pubDate":"Tue, 26 Jul 2022 11:31:00 +0900"
+		},
+		{
+			"title":"포스코 광양제철소와 함께하는 &apos;취업컨설팅&apos; 3기 참여자 모집",
+			"originallink":"http:\/\/www.newsworker.co.kr\/news\/articleView.html?idxno=166786",
+			"link":"http:\/\/www.newsworker.co.kr\/news\/articleView.html?idxno=166786",
+			"description":"희망직종·<b>직무<\/b> 및 자기소개서(권장)를 제출하면 된다. 컨설팅은 8월 23일부터 8월 25일까지 총 3일 동안 진행되며, 대상자 선정이 완료되면 세부 일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편으로... ",
+			"pubDate":"Tue, 26 Jul 2022 11:28:00 +0900"
+		},
+		{
+			"title":"[유통가 레이더] 대상라이프사이언스 마이밀 &apos;프로틴 리저브&apos;, 국내 최초 &apos;토...",
+			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296864",
+			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296864",
+			"description":"한편 <b>전자<\/b>랜드가 공식 온라인몰인 <b>전자<\/b>랜드쇼핑몰에서 &apos;<b>전자<\/b>랜드 캐릭터 공모전&apos;을 진행합니다.... 필요한 <b>직무<\/b>훈련 및 일경험 기회를 제공하는 민관협업 프로젝트다. 기업이 보유한 강점과 인프라를 활용해 다양한... ",
+			"pubDate":"Tue, 26 Jul 2022 11:24:00 +0900"
+		},
+		{
+			"title":"동국제강 장세욱號 실적 상승세 뚜렷",
+			"originallink":"https:\/\/www.fetv.co.kr\/news\/article.html?no=120772",
+			"link":"https:\/\/www.fetv.co.kr\/news\/article.html?no=120772",
+			"description":"해외 지역 전문가 파견, 리더 육성, <b>직무<\/b> 전문가 육성 등 임직원들의 도전에도 적극적으로 지원할... 장세욱 동국제강 부회장. [사진=FETV DB]  2014~2021. 동국제강 영업이익 추이. [자료=<b>전자<\/b>공시시스템]",
+			"pubDate":"Tue, 26 Jul 2022 11:16:00 +0900"
+		},
+		{
+			"title":"포스코 광양제철소, &apos;취업컨설팅&apos; 3기 참여자 모집",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1586449",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1586449",
+			"description":"희망직종 <b>직무<\/b> 및 자기소개서(권장)를 제출하면 된다. 컨설팅은 8월 23일부터 8월 25일까지 총 3일 동안 진행되며, 대상자 선정이 완료되면 세부 일정은 추후 개별 안내될 예정이다. 지원접수는 담당자 <b>전자<\/b>우편으로... ",
+			"pubDate":"Tue, 26 Jul 2022 11:15:00 +0900"
+		},
+		{
+			"title":"KOTRA, 중국 자유무역항 하이난에서 경제협력 기회 찾는다",
+			"originallink":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=27127",
+			"link":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=27127",
+			"description":"이뿐만 아니라 KOTRA는 한국관광공사(사장<b>직무<\/b>대행 신상용)와 협업해 한국문화 체험관을 운영하며 중국... 면세 △크로스보더 <b>전자<\/b>상거래 등 온·오프라인을 아우르는 면세소비경제의 생태계를 구축하며 &apos;면세경제의... ",
+			"pubDate":"Tue, 26 Jul 2022 11:02:00 +0900"
+		},
+		{
+			"title":"경찰, ICT·과학기술 융합 &quot;더욱 든든한 치안 구현&quot;",
+			"originallink":"http:\/\/www.koit.co.kr\/news\/articleView.html?idxno=100518",
+			"link":"http:\/\/www.koit.co.kr\/news\/articleView.html?idxno=100518",
+			"description":"(한국<b>전자<\/b>통신연구원) 등의 현장참여형 과제도 소개했다. &apos;경찰 안전·보호장비 신규 개발 플랫폼&apos;은 국민과... 이는 최근 10년간 112 신고 접수·출동 건수는 지속 증가추세로, 경찰관 공상 현황 중 가장 높은 비율은 <b>직무<\/b>수... ",
+			"pubDate":"Tue, 26 Jul 2022 07:44:00 +0900"
+		},
+		{
+			"title":"[천지일보 이슈종합] 확진자 9만명대·김연아 결혼 발표·탈북어민 북송·심야...",
+			"originallink":"http:\/\/www.newscj.com\/article\/20220726580071",
+			"link":"http:\/\/www.newscj.com\/article\/20220726580071",
+			"description":"25일 금융감독원 <b>전자<\/b>공시시스템에 따르면 올해 상반기 KB·신한·우리·하나 등 4대 금융지주의 합계... 이에 대해 이상민 행안부 장관은 25일 “경찰 총수인 경찰청장 <b>직무<\/b>대행자가 해산 명령을 내렸는데도 그걸... ",
+			"pubDate":"Tue, 26 Jul 2022 07:02:00 +0900"
+		},
+		{
+			"title":"(영상)전기차 시대 일자리가 사라진다",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1136898&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1136898&inflow=N",
+			"description":"또 자동차가 거대한 <b>전자<\/b>기기로 변화되면서 연구개발(R&amp;D) 및 소프트웨어 분야 엔지니어 수요는... 이지형 한국자동차연구원 연구전략본부 연구원은 &quot;미래차 신사업 인력 양성과 내연기관 인력 <b>직무<\/b> 전환 등... ",
+			"pubDate":"Tue, 26 Jul 2022 06:02:00 +0900"
+		},
+		{
+			"title":"[연속기획③ 대한민국 소방안전교육 기관의 메카 ‘한국소방안전원’]",
+			"originallink":"http:\/\/fpn119.co.kr\/181402",
+			"link":"http:\/\/fpn119.co.kr\/181402",
+			"description":"하지만 비전공자로서 뒤처지기 싫다는 목표를 세우고 다양한 <b>직무<\/b>를 경험하며 달려왔다. 서울지부 교수부터... 4K 카메라, 조명기기, 영상 스위처, 전동스크린, <b>전자<\/b>칠판 등 영상촬영장비와 영상편집장비를 갖춰 올해... ",
+			"pubDate":"Mon, 25 Jul 2022 17:14:00 +0900"
+		},
+		{
+			"title":"사이버대학 서울디지털대학교, 2022학년도 2학기 신·편입생 모집",
+			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=2022072513144043376cf2d78c68_29",
+			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=2022072513144043376cf2d78c68_29",
+			"description":"사이버대학의 중심, 서울디지털대학교(총장<b>직무<\/b>대행 이영수)가 2022학년도 2학기 신입생 및 편입생을 오늘... 포함해 △상담심리 △사회복지 △전기<b>전자<\/b>공학 △컴퓨터공학 △기계로봇공학 △소방방재 △미디어영상... ",
+			"pubDate":"Mon, 25 Jul 2022 13:18:00 +0900"
+		},
+		{
+			"title":"KT&amp;G, MZ세대 직원들이 &apos;발상의 전환&apos; 이끈다",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20220725500201",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20220725500201",
+			"description":"사내 <b>직무<\/b>발명 활성화와 지식재산권 확보에 집중하고 있는 것이다. KT&amp;G는 지난 18일부터 5일간... <b>전자<\/b>담배의 출시 이후 기술력을 중심으로 시장이 재편되면서 핵심기술의 지식재산 주도권 선점을 위한 시장 경쟁도... ",
+			"pubDate":"Mon, 25 Jul 2022 11:48:00 +0900"
+		},
+		{
+			"title":"박지원·서훈·정의용·노영민…줄줄이 수사 대상 올라",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604083",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604083",
+			"description":"공용<b>전자<\/b>기록 등 손상)를 받는다. 국정원 직원이 첩보 등을 토대로 &apos;이 씨가 자진 월북한 것이 아니라... 체포·감금, <b>직무<\/b>유기, 국제형사범죄법 위반 등 혐의로 서울중앙지검에 고발했다. 한변은 &quot;문재인정부가 헌법과... ",
+			"pubDate":"Mon, 25 Jul 2022 11:42:00 +0900"
+		},
+		{
+			"title":"[마켓인사이드]이재용 &apos;족쇄풀기&apos;…좌고우면할 이유 없다",
+			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=35953",
+			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=35953",
+			"description":"이재용 삼성<b>전자<\/b> 부회장이 22일 오전 서울 서초구 서울중앙지법에서 열린 1심 속행공판에 출석하기 위해... 권성동 국민의힘 당 대표 <b>직무<\/b>대행 겸 원내대표도 이달 중순 &quot;민생, 경제 문제가 어렵기 때문에 기업인에게 좀 더... ",
+			"pubDate":"Mon, 25 Jul 2022 11:34:00 +0900"
+		},
+		{
+			"title":"[HotJobs100] 비즈니스피플이 엄선한 오늘의 채용-7월25일",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=287851",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=287851",
+			"description":"◆ 현대로템, 본사 안전기획 <b>직무<\/b> 경력 채용 전사 안전기획, 안전관련 법규·규제 대응, 연간계획 수립 및... ◆ LG<b>전자<\/b>, UX기획 전문가 채용 생활·주방가전 사업을 담당하는 H&amp;A(Home Appliance&amp;Air Solution)본부에서 UX(사용자... ",
+			"pubDate":"Mon, 25 Jul 2022 11:04:00 +0900"
+		},
+		{
+			"title":"[연합뉴스 이 시각 헤드라인] - 10:30",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220725057100011?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013331625?sid=004",
+			"description":"경찰청장 <b>직무<\/b>대행자가 해산 명령을 내렸는데도 그걸 정면으로 위반했다&quot;며 &quot;군으로 치면 각자의... 전문보기: https:\/\/www.yna.co.kr\/view\/AKR20220725000200072 ■ 삼성<b>전자<\/b>, 3나노 반도체 양산 출하식…&quot;파운드리... ",
+			"pubDate":"Mon, 25 Jul 2022 10:31:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] 경찰직협, 류삼영 총경 대기발령 항의 1인시위",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112874",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=112874",
+			"description":"당대표 <b>직무<\/b>대행 겸 원내대표, 제21대 국회 후반기 국회의장단 및 상임위원장 국립서울현충원 참배(08:00... 삼성<b>전자<\/b> 파운드리 3나노공정 출하식(10:00 경기 화성) ▲ 산업부, 주한 중국대사 접견(16:00 대한상의)... ",
+			"pubDate":"Mon, 25 Jul 2022 07:04:00 +0900"
+		},
+		{
+			"title":"[공시줍줍]슈퍼개미 요구 단칼에 거절한 양지다이어리",
+			"originallink":"http:\/\/news.bizwatch.co.kr\/article\/market\/2022\/07\/24\/0001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/648\/0000009334?sid=101",
+			"description":"완<b>전자<\/b>회사로 만들게 됐고요. 또한 하나금융지주의 100% 자회사가 된 하나카드는 684억원 규모의 SK텔레콤... -비케이탑스 대표이사 <b>직무<\/b>집행정지 가처분 조회공시 한국거래소가 코스닥 상장사 비케이탑스에게... ",
+			"pubDate":"Mon, 25 Jul 2022 07:01:00 +0900"
+		},
+		{
+			"title":"경제적 자유, 자아실현 위해 부업 뛰는 新근로자",
+			"originallink":"https:\/\/biz.chosun.com\/industry\/company\/2022\/07\/25\/DWXHDOSMDVBHDHM25ALLVBNUIU\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000829624?sid=101",
+			"description":"프리랜서 중개 서비스부터 1인 기업의 판매 채널이 된 알리바바 같은 <b>전자<\/b>상거래, 유튜브... 이 교수는 인적자원(HR) 및 <b>직무<\/b> 분석 전문가로 2021년 한국산업교육학회장으로 취임했다. 현재 서울대 평생교육원장도... ",
+			"pubDate":"Mon, 25 Jul 2022 06:11:00 +0900"
+		},
+		{
+			"title":"윤 대통령, 또 틀렸다... &apos;반도체 15만 양병설&apos;은 헛발질 [이봉렬 in 싱가포르...",
+			"originallink":"http:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002852232&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002360879?sid=102",
+			"description":"얼마 전 바이든 대통령과 함께 방문했던 삼성<b>전자<\/b> 반도체 생산 공장이 바로 팹입니다. 이 팹에서 가장 쉽게... 공정은 <b>직무<\/b> 교육을 통해 습득할 수 있습니다. 산화, 포토, 식각, 박막, 금속배선 등등 반도체를 만드는... ",
+			"pubDate":"Mon, 25 Jul 2022 04:58:00 +0900"
+		},
+		{
+			"title":"경제계, 이재용·신동빈 &apos;8·15 광복절 특사&apos; 촉구 &apos;봇물&apos;...&quot;경제 위기 극복...",
+			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296840",
+			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296840",
+			"description":"경제계가 한 목소리로 이재용 삼성<b>전자<\/b> 부회장, 신동빈 롯데그룹 회장 등 기업인에 대한 &apos;8·15 광복절... 권성동 국민의힘 대표 <b>직무<\/b>대행 겸 원내대표 등 여권 고위 인사들도 경제 살리기 및 대통합을 위한 사면론 띄우기에... ",
+			"pubDate":"Sun, 24 Jul 2022 21:10:00 +0900"
+		},
+		{
+			"title":"[뉴스야?!] 이재명도 기소되면 대표 박탈?",
+			"originallink":"http:\/\/news.tvchosun.com\/site\/data\/html_dir\/2022\/07\/24\/2022072490069.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000367156?sid=100",
+			"description":"만약 성범죄로 기소될 경우 윤리위 당규 22조에 따라 <b>직무<\/b>가 정지되는데, 민주당도 당헌 80조 1항에... &quot;<b>전자<\/b>민주주의를 강화하겠다&quot;며 열성 당원 가입을 독려하는 이재명 의원, 징계 이후 전국을 돌고 있는 이준석 대표와... ",
+			"pubDate":"Sun, 24 Jul 2022 19:38:00 +0900"
+		}
+	]
+}

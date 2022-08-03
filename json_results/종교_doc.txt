@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:30 +0900",
+	"total":117202,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>종교<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1053320",
+			"description":""
+		},
+		{
+			"title":"<b>종교<\/b>교육학연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4775",
+			"description":""
+		},
+		{
+			"title":"원불교사상과 <b>종교<\/b>문화",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2178165",
+			"description":""
+		},
+		{
+			"title":"문학과 <b>종교<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2194",
+			"description":""
+		},
+		{
+			"title":"<b>종교<\/b>문화비평",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4777",
+			"description":""
+		},
+		{
+			"title":"<b>종교<\/b>문화연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4778",
+			"description":""
+		},
+		{
+			"title":"<b>종교<\/b>와문화",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4783",
+			"description":""
+		},
+		{
+			"title":"한국<b>종교<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6323",
+			"description":""
+		},
+		{
+			"title":"<b>종교<\/b>신학연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=63476",
+			"description":""
+		},
+		{
+			"title":"정부신뢰에 대한 <b>종교<\/b>의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289894362",
+			"description":"The Effect of Religion on Trust in Government 최근 정부불신 현상의 확산과 맞물려 정부신뢰의 영향요인 연구에 "
+		},
+		{
+			"title":"<b>종교<\/b>문화학보",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4784",
+			"description":""
+		},
+		{
+			"title":"배우자 사별노인의 <b>종교<\/b>참여와 대처자원 및 우울에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13983726",
+			"description":"A Study on Religious Participation, Coping Resources and Depression among the Bereaved Elderly 본 연구는 배우자 사별 노인의"
+		},
+		{
+			"title":"현대와<b>종교<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6813",
+			"description":""
+		},
+		{
+			"title":"포스트모던 사회의 <b>종교<\/b>문화에 관한 성찰 : 포스트모더니즘이 <b>종교<\/b>에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41440036",
+			"description":"A Study on Religious Culture in the Postmodern Society: A Critical Approach to the Influence and Response of Postmodernism  I. 문제"
+		},
+		{
+			"title":"<b>종교<\/b>의 정치참여에 대한 일 고찰 - 한국의 <b>종교<\/b>와 정치발전 연구의 일환",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=104898009",
+			"description":"A Study on Political Participation in Religion: A Critical Approach to Correlation of Religion and Political Development in Korea 본 "
+		},
+		{
+			"title":"현대<b>종교<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1120859",
+			"description":""
+		},
+		{
+			"title":"정치적 <b>종교<\/b>와 <b>종교<\/b>적 정치: 공유된 현실과 존재 정당화의 <b>종교<\/b>-정치적 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656890",
+			"description":"Political Religion and Religious Politics: Religious-Political Characteristics of Shared-Reality and Justification of Existence <b>종교<\/b>"
+		},
+		{
+			"title":"제7차 교육과정과 천도교의 <b>종교<\/b>교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11059834",
+			"description":"7th Curriculum and religious education in Chondogyo 본 논문의 목적은 제7차 교육과정에 근거하여 천도교의 <b>종교<\/b>교"
+		},
+		{
+			"title":"<b>종교<\/b>성과 타<b>종교<\/b>와의 결혼 허용도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56445490",
+			"description":" 본 연구는 개인들의 <b>종교<\/b>(성)이 ‘타<b>종교<\/b> 결혼 허용도’에 미치는 영향을 경험적 자료에 기초하여 평"
+		},
+		{
+			"title":"한국<b>종교<\/b>연구회회보",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3226908",
+			"description":""
+		},
+		{
+			"title":"일본의 현대<b>종교<\/b>에 관한 몇 가지 쟁점 : 정신세계·신영성운동·신신<b>종교<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10985151",
+			"description":"  1. 왜 일본의 현대<b>종교<\/b>인가?\n 2. <b>종교<\/b>붐이냐 <b>종교<\/b>정보붐이냐\n  (1) <b>종교<\/b>붐\n  (2) <b>종교<\/b>정보붐\n 3. 현대일본"
+		},
+		{
+			"title":"<b>종교<\/b>의 종말 이후 - 헤겔의 <b>종교<\/b>비판과 대안<b>종교<\/b>의 전망을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882923993",
+			"description":"After the End of Religion: Focusing on Hegel's Critique of Religion and the Prospect of Alternative Religion “<b>종교<\/b>의 종말 이후"
+		},
+		{
+			"title":"<b>종교<\/b>정책을 통해 본 국가-<b>종교<\/b>간 관계: 한국 불교를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41650240",
+			"description":"Religious Policy and the Relationship between State and Religion: Case study of Buddhism in Korea. 일상생활과 정치 영역에서 "
+		},
+		{
+			"title":"영성과 자아존중감 및 <b>종교<\/b> 간의 관계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41604209",
+			"description":"The Study of Relationship among Spirituality, Self-esteem and Religion 본 연구는 영성의 높고 낮은 정도에 따라 상․하"
+		},
+		{
+			"title":"‘사회적 힘’으로서의 <b>종교<\/b>, 그 안과 밖",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656915",
+			"description":"Religion as a Social Power: Inside and Outside <b>종교<\/b>는 사회 안에서 발생하지만, 사회를 견인하기도 한다. <b>종교<\/b>와 "
+		},
+		{
+			"title":"노인의 <b>종교<\/b>활동 참여가 자기존중감 및 죽음불안과 삶의 질에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77197964",
+			"description":"A study of their Death Anxiety, Self Appearance and Life Quility by the Religious Activities of the Aged 본 연구는 자기 존중감"
+		},
+		{
+			"title":"불교교육학의 <b>종교<\/b>교육적 성격과 과제 : <b>종교<\/b>교육학연구 20년의 회고와 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157471398",
+			"description":"The New Vision of Religious Education in Buddhism <b>종교<\/b>교육의 한 영역으로서 불교교육학의 성격이 논의되기 위해"
+		},
+		{
+			"title":"장애인 차별 경험과 우울감의 관계 연구: <b>종교<\/b>활동의 조절효과를 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898271165",
+			"description":"A Study on the Relation Between Discrimination Experience and Depression of People With Disabilities: Focusing on the Moderating Effect"
+		},
+		{
+			"title":"사학의 <b>종교<\/b>교육의 자유와 학생의 <b>종교<\/b>의 자유 - 서울고등법원 2008. 5. 8. ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78295555",
+			"description":"Freedom of Religious Education of the School and Freedom of Religion of the Students at Religious Schools - A Comment on a Case of Seou"
+		},
+		{
+			"title":"'천지공사'의 <b>종교<\/b>윤리적 의미에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288865444",
+			"description":"A study on the religious-ethical meaning of 'reorganizing the order of heaven and earth' in the scripture of Daesoonjinrihoe  목차\n'"
+		},
+		{
+			"title":"<b>종교<\/b>와 국가의 바람직한 관계에 대한 모색 -<b>종교<\/b> 생태 담론을 중심으로-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896911414",
+			"description":"The search for a desirable relationship between religion and state - Focusing on religious ecological discourse - 세속화 이후 사"
+		},
+		{
+			"title":"네트워크 기반 세계<b>종교<\/b> 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896402822",
+			"description":"Analysis of the World Religions Based on Network 하나의 <b>종교<\/b>를 집중적으로 본다면 신앙과 믿음의 문제이지만, 세"
+		},
+		{
+			"title":"<b>종교<\/b>의 자유의 의미와 한계에 대한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=101502073",
+			"description":"Freedom of Religion and Its Limitation 신앙을 가진 사람이든 가지지 않은 사람이든 대부분의 인간은 어떤 형식"
+		},
+		{
+			"title":"한용운의 불교·<b>종교<\/b>담론에 나타난 근대사상의 수용과 재구성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16419888",
+			"description":"  목차\n한용운의 불교·<b>종교<\/b>담론에 나타난 근대사상의 수용과 재구성 \/ 송현주 1\n I. 머리말 1\n II. 한용"
+		},
+		{
+			"title":"<b>종교<\/b>와 발전에 관한 이론적 검토 - <b>종교<\/b>사회학을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59526625",
+			"description":"A Theoretical Review of Religion and Development in the Sociology of Religion 베버의 ‘프로테스탄트 윤리 테제’가 잘 "
+		},
+		{
+			"title":"<b>종교<\/b>의 종말 이후 - 헤겔의 <b>종교<\/b>비판과 대안<b>종교<\/b>의 전망을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890151530",
+			"description":"After the End of Religion: Focusing on Hegel's Critique of Religion and the Prospect of Alternative Religion “<b>종교<\/b>의 종말 이후"
+		},
+		{
+			"title":"다문화사회에서 <b>종교<\/b>기념일의 이해와 <b>종교<\/b>간 대화 탐색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881523635",
+			"description":"Exploration of Interreligious Dialogue and Understanding of Religious Memorial Day in Multicultural Society 본 연구에서는 한국 "
+		},
+		{
+			"title":"중국의 정치와 <b>종교<\/b>에 대한 사회학적 일고찰: 시진핑의 '<b>종교<\/b>의 중국화' ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887610899",
+			"description":"A Study on the Religion and Politics in China from the Perspective of Sociology: Centered on Xi Jinping’s Policy of ‘Sinicization o"
+		},
+		{
+			"title":"국가신도란 무엇인가 : 근대일본 국민국가와 <b>종교<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11257101",
+			"description":"  목차\n국가신도란 무엇인가 : 근대일본 국민국가와 <b>종교<\/b> \/ 박규태 1\n 들어가는 말 1\n 1. 신사비<b>종교<\/b>론 2\n"
+		},
+		{
+			"title":"한국 민족<b>종교<\/b>와 한국 기독교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896917285",
+			"description":""
+		},
+		{
+			"title":"종립사학과 <b>종교<\/b>교과교육의 공공성과 자율성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41604753",
+			"description":" 이 글의 목적은 종립사학에 공공성과 자율성이 동시에 요구되는 현 시점을 감안하여 종립사학, 나아"
+		},
+		{
+			"title":"<b>종교<\/b>와 과학 담론의 문명사적 함의 - 화이트헤드의 <b>종교<\/b>와 과학 담론을 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289684611",
+			"description":"An Implication of the Discourse between Religion and Science on the History of Civilization - Focusing on the Discourse on Religion and"
+		},
+		{
+			"title":"<b>종교<\/b>교사의 자질과 <b>종교<\/b>교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=103115175",
+			"description":"Quality of Religious teacher and religious education 이 논문은 학교교육에서 <b>종교<\/b>교육과 <b>종교<\/b>교사의 자질문제를 "
+		},
+		{
+			"title":"세계평화실현을 위한 <b>종교<\/b>의 정치적 역할과 과제에 관한 연구: 세계평화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656773",
+			"description":"A Research on the Political Roles and Tasks of Religion for the Realization of World Peace: Centering on the Summit 2022 for Peace on t"
+		},
+		{
+			"title":"<b>종교<\/b>사회복지의 이념과 실천 방식에 대한 재성찰 - <b>종교<\/b>사회복지의 이론",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155985355",
+			"description":"Principle and Way of Practice of Religious Social Welfare: A Reconsideration for Theory Establishment 이 글은 ‘<b>종교<\/b>사회복지"
+		},
+		{
+			"title":"역사적 최제우와 청림교의 비밀결사들: 한국 자생<b>종교<\/b>에서의 <b>종교<\/b>와 저",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886943052",
+			"description":"Historical Ch'oe Cheu and Secret Societies of Ch'ŏngnimgyo: Religion and Violence of Resistance in Korean Indigenous Religion 이 논"
+		},
+		{
+			"title":"<b>종교<\/b> 체험의 사회적 영향력 - 성령체험을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=37743721",
+			"description":"The Social Consequences of Religious Experience - Focusing on Pentecostal Spiritual Experience - 필자들은 이 글에서 <b>종교<\/b> 체"
+		},
+		{
+			"title":"한국 <b>종교<\/b>영화의 역사적 전개와 특징",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187880151",
+			"description":"The Historical Changes and Characteristics of Korean Religious Films 본 연구는 한국 영화사의 흐름 속에서 <b>종교<\/b>영화의"
+		},
+		{
+			"title":"<b>종교<\/b>간 연대와 한국 개신교에 대한 비판적 성찰 －<b>종교<\/b>간 실천신학 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881526904",
+			"description":"A Critical Reflection on Interreligious Solidarity and Korean Protestantism: An Interreligious Practical Theology 우리는 다<b>종교<\/b>"
+		},
+		{
+			"title":"제7차 교육과정 개편에 따른 <b>종교<\/b>교육론의 쟁점과 새로운 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78363926",
+			"description":"Points of issue of religious education based upon 7th. national curriculum standard and its` new directions 이 글의 목적은 제7"
+		},
+		{
+			"title":"내재적 <b>종교<\/b>성향, <b>종교<\/b>적 대처 및 감사의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58066176",
+			"description":"The Relationship between Intrinsic Religious Orientation, Religious Coping and Gratitude 본 연구는 감사에 영향을 미치는 "
+		},
+		{
+			"title":"초중등학교 <b>종교<\/b>교육의 문제점과 해결방향- 강의석사건 판결의 의미와 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16610429",
+			"description":"Problems and Policy Directions of Religious Education in Elementary and Secondary Schools- The Meaning and Prospect of Mr. Kang Case - "
+		},
+		{
+			"title":"<b>종교<\/b>가 의원들의 투표행태에 영향을 미치는가? 16-19대 한국 국회에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601703",
+			"description":"Does Religion Affect lawmakers’ voting behavior?: An Exploratory Study on the 16th-19th Korean National Aseembly 한국에서 <b>종교<\/b>"
+		},
+		{
+			"title":"다시 보는 피터 버거의 <b>종교<\/b>사회학",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885208762",
+			"description":"Reconsideration: Peter Berger's Sociology of Religion 본 논문은 세속화 논쟁에 가려진 버거 <b>종교<\/b>사회학의 여러 요"
+		},
+		{
+			"title":"한국 <b>종교<\/b>와 정치의 관계- 대통령 선거를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58323986",
+			"description":"The Relationship of Religion and Politics: An Analytical Approach to Presidential Election in Korea 본고는 대통령 선거를 중"
+		},
+		{
+			"title":"석이산묘족“파대”원시<b>종교<\/b>“중심표현형태”적분경여혼융 (腊尔山苗",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=733571943",
+			"description":""
+		},
+		{
+			"title":"딥러닝을 활용한 코로나19 이후 <b>종교<\/b> 인식 변화 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887309449",
+			"description":"Analysis of Perception Changes in Religion after COVID-19 using Deep Learning 코로나19는 다양한 형태로 영향을 미치고 "
+		},
+		{
+			"title":"다문화 <b>종교<\/b>교육을 위한 심리학적 모델 : 제임스 디티스의 <b>종교<\/b>심리학을",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=103115174",
+			"description":"A Model for Multi-cultural Religious Education : A Study on James Dittes's Psychology of Religion 21세기 다<b>종교<\/b> · 다문화를 "
+		},
+		{
+			"title":"<b>종교<\/b>개혁과 신<b>종교<\/b>운동, 그리고 변혁의 선교 -비교<b>종교<\/b>학의 관점에서-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909400",
+			"description":"Religious Reformation, New Religious Movements, and Mission of Transformation－From a Comparative Religious Perspective－ 21세기 "
+		},
+		{
+			"title":"한국 고등학생의 <b>종교<\/b>와 성별에 따른 감사성향의 차이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561816410",
+			"description":"The Impacts of Gender and Religion on Gratitude Disposition Gratitude is a generalized tendency to recognize and respond with grateful "
+		},
+		{
+			"title":"여고생의 삶의 의미추구와 의미발견 간 관계에서 자기자비의 매개효과: ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=894458272",
+			"description":"The Mediating Effect of Self-compassion on the Relationship between the Search for Meaning and the Presence of Meaning in Life among Hi"
+		},
+		{
+			"title":"<b>종교<\/b>법인 회계제도의 개선방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79127947",
+			"description":"A Study on the Measures to Improve the Accounting System of Religious Corporations 본 연구의 목적은 <b>종교<\/b>법인회계에 대한"
+		},
+		{
+			"title":"특집논문1 : 한국 &quot;근대<b>종교<\/b>&quot;의 탄생 ; &quot;<b>종교<\/b>&quot;를 묻는 까닭과 그 질문의 역",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58058443",
+			"description":"The Concept of Religion: Why It Matters and its Methodological History. What Questions are Posed to Us by &quot;Their&quot; Studies? 이 논문"
+		},
+		{
+			"title":"<b>종교<\/b>다원주의 : 역사적 배경, 이론, 실천",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11182923",
+			"description":"  목차\n<b>종교<\/b>다원주의 : 역사적 배경, 이론, 실천 \/ 길희성 1\n I. 다원주의의 역사적, 사상적 배경 1\n II. 철"
+		},
+		{
+			"title":"<b>종교<\/b>문화유산보존법제에 대한 검토",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887307269",
+			"description":"A review of the Religious Cultural Heritage Preservation Act “<b>종교<\/b>문화유산보존법제에 대한 검토” \n\n독일의 경우"
+		},
+		{
+			"title":"중국의 <b>종교<\/b>교육과 <b>종교<\/b>학교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561544199",
+			"description":"Religious education and educational institutions in China 올해 발표된 修訂 「宗敎事務條例」에서는 <b>종교<\/b>학원에 관"
+		},
+		{
+			"title":"한국독립운동과 의암 손병희의 역사적 평가 - <b>종교<\/b>와 국가 관계 안에서 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897550677",
+			"description":"The Korean Independence Movement and Historic Evaluation of Uiam Son Byung-Hee : Focusing on the Leader’s Role in Religion and State "
+		},
+		{
+			"title":"<b>종교<\/b>유적 건축물 정보의 메타데이터 구성과 온톨로지 구축",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58318124",
+			"description":"Construction of Metadata Format and Ontology for Religious architecture heritage Information 표준화된 메타데이터 구성은 문"
+		},
+		{
+			"title":"팬데믹시대, <b>종교<\/b>의 공공성과 대순진리회의 <b>종교<\/b>교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843046574",
+			"description":"The Religious Publicness and the Religious Education of Daesoonjinrihoe in the Pandemic Era 팬데믹은 현재진행형이다. 팬데"
+		},
+		{
+			"title":"재난과 <b>종교<\/b> - 감염병, 코로나19 그리고 <b>종교<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843035964",
+			"description":"Disaster and Religion: Epidemics, COVID-19 and Religion 코로나19 펜데믹으로 인하여 인류는 ‘격리’의 삶을 살게 "
+		},
+		{
+			"title":"베트남의 <b>종교<\/b> 관광 자원 연구-호치민시와 주변 지역의 <b>종교<\/b>경관을 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561932972",
+			"description":"A Study on Religious Tourism Resources in Vietnam - Focusing on the Religious landscape of Ho Chi Minh City - 베트남 호치민시는"
+		},
+		{
+			"title":"학교 교육과정에서 <b>종교<\/b>교육의 개념모형 탐색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17607237",
+			"description":"  〈Abstract〉=1,6,1\nI. 서론=2,7,2\nII. 학교 교육과정과 &quot;<b>종교<\/b>교육&quot;=3,8,1\n 1. 제7차 교육과정에서 <b>종교<\/b>교육:&quot;종"
+		},
+		{
+			"title":"평화와 <b>종교<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3286051",
+			"description":""
+		},
+		{
+			"title":"<b>종교<\/b> 개혁과 사회 개혁 - 사회 변동의 영향사 측면에서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595139847",
+			"description":"he Impact of Reformation on Social Change in the Early Modern Europe This paper deals with the relation of the Reformation to modern cu"
+		},
+		{
+			"title":"<b>종교<\/b> 인구에 대한 센서스 결과 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45482176",
+			"description":"The Analysis of the Census Results about the Religious People 본 연구는 1985년 이후의 3차에 걸친 <b>종교<\/b> 인구의 센서스"
+		},
+		{
+			"title":"<b>종교<\/b>\/문화\/<b>종교<\/b>문화 : 한국<b>종교<\/b>의 '<b>종교<\/b> 공간 만들기'와 관련하여",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650631622",
+			"description":"Religion, culture, religious culture : the basic patterns of &quot;making religious space&quot; in Korean religions  목차\n<b>종교<\/b>\/문화\/<b>종교<\/b>"
+		},
+		{
+			"title":"세계<b>종교<\/b> 교수법을 통한 다문화 <b>종교<\/b>교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=103115215",
+			"description":"Teaching World Religions Multi-Cultural Religious Education 21세기 <b>종교<\/b>교육의 현장에서 <b>종교<\/b>학자가 세계에 나타나"
+		},
+		{
+			"title":"이주노동자의 사회적지지와 삶의 만족에 관한 연구-<b>종교<\/b> 요인의 매개효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887017958",
+			"description":"A Study on Social Support and Life Satisfaction of Immigrant Workers -Focused on the Mediating Effect of Religious Factors- 이주노"
+		},
+		{
+			"title":"한국<b>종교<\/b>와 근대성 형성의 상호 관계에 관한 연구 : 동학, 개신교, 정교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898556298",
+			"description":"  표제지\n목차\n국문초록 5\nI. 서론 7\n 1. 연구의 목적 7\n 2. 선행 연구의 검토 12\n 3. 연구 자료와 방법 15\nII. "
+		},
+		{
+			"title":"<b>종교<\/b>다원주의의 동아시아적 전용: 한국 토착화 신학에서 존 힉의 <b>종교<\/b>다",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889238110",
+			"description":"East Asian Appropriation of Religious Pluralism: the case of Hick’s religious pluralism in Korean Theology of Indigenization This pap"
+		},
+		{
+			"title":"<b>종교<\/b>와 사회성의 진화에 관한 최근 연구의 주요 쟁점과 <b>종교<\/b>학 분야에의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881527356",
+			"description":"Major Issues from Recent Studies on the Evolution of Religion and Sociality: Implications for Studies of Religious Culture and Applied "
+		},
+		{
+			"title":"<b>종교<\/b> 문화경관의 콘텐츠 개발과 활용 -종로지역을 중심으로-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174800497",
+			"description":"Content development and utilization of religion Cultural Landscape -Focusing on the Jongno area- 종로는 다방면의 주요기관이"
+		},
+		{
+			"title":"인도네시아 이슬람의 자유주의와 <b>종교<\/b>다원주의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13659882",
+			"description":"Liberalism and Religious Pluralism in Indonesian Islam 이 글은 인도네시아 사회에서 새롭게 대두된 자유주의적 종"
+		},
+		{
+			"title":"한국창가학회(KSGI)와 국제창가학회(SGI)의 평화주의에 대한 비교연구 -종",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909403",
+			"description":"A Comparative Study on Pacifism of KSGI and SGI in the Context of Religious Typology 논문은 <b>종교<\/b>평화주의에 대한 기존의 "
+		},
+		{
+			"title":"“나부-슈마-이쉬쿤(Nabû-šuma-iškun)의 죄” 문헌에 나타난 <b>종교<\/b> 범죄 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881045109",
+			"description":"The Analysis of Religious Offenses Written in “The Crimes of Nabû-šuma-iškun” 본 논문에서는 셀루커스 왕조 시대의 "
+		},
+		{
+			"title":"이성으로부터 '아주 다른 것에 대한 동경'(die Sehn-sucht nach dem ganz Anderen)까",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11257089",
+			"description":"  목차\n이성으로부터 '아주 다른 것에 대한 동경'(die Sehn-sucht nach dem ganz Anderen)까지 : 막스 호르크하이"
+		},
+		{
+			"title":"기독교와 대순진리회의 <b>종교<\/b>윤리 비교연구: 원수사랑과 해원상생을 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889239845",
+			"description":"A Comparison between the Religious Ethics of Christianity and Daesoon Jinrihoe: ‘Love Your Enemies’ versus ‘Grievance-Resolution "
+		},
+		{
+			"title":"한국 사회의 <b>종교<\/b> 자유 담론 ― <b>종교<\/b> 자유 침해 사례와 도전을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846892247",
+			"description":"Discourse on Religious Freedom in Korean Society — Focusing on Cases and Challenges of Religious Freedom Violation 본 연구는 한"
+		},
+		{
+			"title":"여성 인권으로서 평화권과 <b>종교<\/b>의 자유 －이슬람과 여성에 대한 논의를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881526949",
+			"description":"Claiming the Right to Peace and Religious Freedom as Women’s Rights: The Case of Women in Islam 본 연구는 이슬라모포비아(I"
+		},
+		{
+			"title":"<b>종교<\/b>와 폭력의 연관성에 대한 선교신학적 성찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=179876628",
+			"description":"A Missiological Reflection of the Relationship between Religion and Violence 필자는 선교신학적 관점에서 <b>종교<\/b>와 폭력의"
+		},
+		{
+			"title":"코로나19 상황 아래 행정명령에 의한 <b>종교<\/b>의 자유 제한 가능성과 그 한계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887781439",
+			"description":"A Study on the Limitations of Restrictive Executive Orders on the Freedom of Religious Activities under the COVID-19 Situation — Focu"
+		},
+		{
+			"title":"공교육적 <b>종교<\/b>교육의 정체성 모색과 '<b>종교<\/b>학' 교과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74857259",
+			"description":"Religious Education for Public Schooling and Its ‘Science of Religion’ Curriculum 본 논문의 목적은 21세기적인 공교육 "
+		},
+		{
+			"title":"한 ? 미 ? 일 삼국의 <b>종교<\/b>정책과 <b>종교<\/b>교육 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=103115163",
+			"description":"Comparative Study on Religious Education and Religious Policy of Korea, the Unite States of America and Japan 이 논문은 한미일 "
+		},
+		{
+			"title":"미디어의 <b>종교<\/b>담론 생산과 그 정당화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16611968",
+			"description":"Justifying the Media's Production of Religious Discourse 이 연구에서는 TV 다큐멘터리 〈신의 길 인간의 길〉 제작"
+		},
+		{
+			"title":"근대 센서스에서의 <b>종교<\/b> 인구 조사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846894977",
+			"description":"The Inclusion of Religion in the Modern Census 이 연구는 센서스에서 <b>종교<\/b> 관련 질문을 포함하는 것이 갖는 의미"
+		},
+		{
+			"title":"호남지방에서 발생한 3개 <b>종교<\/b>의 지역적 확산 과정과 특성: 증산교(甑山",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638593",
+			"description":"Characteristics of the Regional Diffusion Process of Three Religions in Honam Region: Focus on Jeung-San-Gyo, Won-Buddhism, Gaeng-Jeong"
+		},
+		{
+			"title":"<b>종교<\/b>관광 활성화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18658183",
+			"description":"  목차\n<b>종교<\/b>관광 활성화 방안 \/ 김태영 1\n 1. 한국의 <b>종교<\/b> 1\n  1) <b>종교<\/b>의 현황 1\n  2) 한국 <b>종교<\/b>의 특성 1\n 2. "
+		},
+		{
+			"title":"<b>종교<\/b>사회복지에 대한 비판적 고찰: <b>종교<\/b>종합사회복지관의 특성과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=50895018",
+			"description":"A Critical Review of Faith-Based Social Welfare ― the Characteristics and the Tasks of Faith-Based Social Welfare Agencies in Korea "
+		},
+		{
+			"title":"발달장애 자녀를 둔 부모의 <b>종교<\/b>정향이 양육 스트레스에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877220408",
+			"description":"The Impact of Religious Orientation on Parental Stress in Raising Children with Developmental Disabilities 본 연구는 발달장애"
+		},
+		{
+			"title":"장 칼뱅의 '기독교 강요' : <b>종교<\/b> 개혁을 완성한 남자 그리고 성경을 어떻",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822557391",
+			"description":"  목차\n장 칼뱅의 '기독교 강요' : <b>종교<\/b> 개혁을 완성한 남자 그리고 성경을 어떻게 읽어야 할지 방향을 "
+		}
+	]
+}

@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:03:58 +0900",
+	"total":1769,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>경영<\/b>위원회규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2356742&cid=51373&categoryId=51373",
+			"description":"기업 <b>경영<\/b>에 관하여 전반적인 문제 또는 활동을 협의하여 <b>경영<\/b>자의 <b>경영직무<\/b>를 보좌하면서 보다 효율적이고 전문적으로 <b>경영<\/b> 업무를 수행하고자 하는 목적으로 만들어진 합의체 기구를 <b>경영<\/b> 위원회라 하고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209162320393_SNZ7F47MU.jpg\/ba17_11402_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>지도사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%98%81%EC%A7%80%EB%8F%84%EC%82%AC",
+			"description":"수행<b>직무<\/b> <b>경영<\/b>의 종합진단  · 지도 인사  · 조직  · 노무  · 사무관리의 진단  · 지도 재무관리 및 회계의 진단  · 지도 생산  · 유통관리의 진단  · 지도 판매관리 및 수출입업무의 진단  · 지도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=176806&cid=50331&categoryId=50331",
+			"description":"<b>경영<\/b>학에서 <b>직무<\/b>분석을 하는 방법의 일종.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>자 코칭",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2094350&cid=41991&categoryId=41991",
+			"description":" <b>경영<\/b>자 코칭(executive coaching)은 1990년대에 등장하여 <b>경영<\/b>자들의 행동 변화를 구체적으로 가져오는 개입 방법이 되었다. 이 시기에 미국 기업에서 고위 <b>경영<\/b>자의 실패율이 50%에 이르렀으며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>기획자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3381676&cid=42279&categoryId=42279",
+			"description":"특히 <b>경영<\/b>기획 자기소개서를 작성할 때에는 <b>경영<\/b>기획 <b>직무<\/b>와 관련한 경력 및 이력, 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510115531885_LSAD9RTG9.jpg\/hb10_20642_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>지원자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3381679&cid=42279&categoryId=42279",
+			"description":"특히 <b>경영<\/b>지원 자기소개서를 작성할 때에는 <b>경영<\/b>지원 <b>직무<\/b>와 관련한 경력 및 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510115532004_T5NPMK5GA.jpg\/hb10_20645_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%98%81",
+			"description":"기능이란 <b>경영<\/b>자 고유의 <b>직무<\/b>이며 기능이란 이 <b>직무<\/b>를 수행하기 위한 방법이다. 따라서 <b>경영<\/b> 또는 관리자는 지휘라는 기능을 행사할 때 명령이나 설득이라는 기능을 사용한다. 부하의 행동을 통제할 때에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2083612&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] [ 1) <b>경영<\/b>학의 등장] <b>경영<\/b>학(經營學, business administration)은 중세 가내수공업인 길드 경제시대를 지나 1760년대 영국과 서유럽을 중심으로 산업혁명이 성공하고 새로운 형태의 산업 경제가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140509142911094_C0F15N2OM.jpg\/z5_term31_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2356668&cid=51373&categoryId=51373",
+			"description":"• <b>직무<\/b>：<b>경영<\/b>활동상 행할 업무에 관하여 각 직위에 부여된 소관 업무의 범위를 말한다. • <b>직무<\/b>권한：각 직위에 부여된 소관 업무에 대하여 자기의 결정으로 <b>직무<\/b>를 수행할 수 있는 권한을 말한다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209162025885_MOYKN26OG.jpg\/ba17_10096_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>평가",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4%ED%8F%89%EA%B0%80",
+			"description":"<b>직무<\/b>평가의 목적은 <b>경영<\/b>에 있어서 <b>직무<\/b>의 상대적 유용성을 측정하여 공평하고 합리적인 임금관리를 행할 뿐 아니라 합리적인 <b>직무<\/b>분류를 함으로써 승진경로나 배치기준을 명확히 하여 종업원의 배치·이동... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>혁신사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024598&cid=42117&categoryId=42117",
+			"description":" 조직의 <b>경영<\/b>혁신과 연구지원을 위해 계획을 수립하고 시행·평가한다. [수행<b>직무<\/b>] <b>경영<\/b>혁신과 연구지원에 필요한 기획안을 마련하기 위해 조직 내외에서 설문조사 및 사례조사를 한다. 종합계획과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 <b>경영<\/b>·사무 관련 전문직 및 사무직, 연구 관련직, 정보통신·방송 관련 기술·기능직 등 14개 분야의 74개 <b>직무<\/b>가 있다.  출처: 게티이미지 코리아 '신중년 적합<b>직무<\/b>'란... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>경영<\/b>관리",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%98%81%EA%B4%80%EB%A6%AC",
+			"description":"3차원 인쇄를 중심으로 하는 시대에 적중하는 <b>경영<\/b>관리 방식은 여전히 시도 중이고, 진행 중이다. 같이 보기 <b>경영<\/b> <b>경영<\/b>지원 <b>경영<\/b>학 기업 기업범죄 윤리<b>경영<\/b> 조직문화 피터 드러커 회사법 각주 참고 자료",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>경쟁이론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2178784&cid=51072&categoryId=51072",
+			"description":"즉, 근로자들이 취업기회를 두고 서로 경쟁하다 보면 <b>경영<\/b>자 입장에서는 어떤 <b>직무<\/b>를 담당하는데 훈련비용이 적게 드는 근로자를 선발하게 된다는 것이다. 그래서 근로자들이 일자리를 찾을 때 이미 상당히... ",
+			"thumbnail":""
+		},
+		{
+			"title":"최고<b>경영<\/b>자",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B5%9C%EA%B3%A0%EA%B2%BD%EC%98%81%EC%9E%90",
+			"description":"즉, 만약 “이사 겸 최고<b>경영<\/b>책임자”라고 하는 <b>직무<\/b>를 가지고 있어도, 대표이사제도를 채용하고 있는 회사에서는 대표이사, 위원회 설치회사에서는 대표집행역이 아닌 이상, 합법적으로 회사를 대표할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>훈련계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047817&cid=42279&categoryId=42279",
+			"description":"<b>직무<\/b>훈련은 <b>경영<\/b>관리 및 인사관리의 하나로, 계획적이고 지속적인 근로자의 자기 계발을 목표로 한다. <b>직무<\/b>훈련계획서에는 근로자의 교육을 사내 교육과 사외 교육 등으로 구분하고 교육일정과 교육명 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129003059622_NP3XTSAUQ.jpg\/hb10_11525_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"은행<b>경영<\/b>전략연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025025&cid=42117&categoryId=42117",
+			"description":" 은행에 소속되어 <b>경영<\/b>환경 분석 및 예측, 장기발전전략의 연구, 국내외 경제·금융·자본시장의 조사 연구 등 은행의 중장기 <b>경영<\/b>전략 및 기업금융, 개인금융 등에 대한 연구를 수행한다. [수행<b>직무<\/b>] 은행... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스포츠<b>경영<\/b>관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970480&cid=42114&categoryId=42114",
+			"description":"② 스포츠<b>경영<\/b>관리사 자격제도는 스포츠<b>경영<\/b>관리 분야에서의 올바른 <b>직무<\/b>활동을 위하여 스포츠<b>경영<\/b>관리 분야의 전문가를 양성하기 위하여 2005년에 신설되었다. (2) 자격특징 ① 스포츠<b>경영<\/b>관리사 자격은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191023185801620_7UI70BFYC.jpg\/da6_87_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>정보시스템개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028689&cid=42117&categoryId=42117",
+			"description":" 기업의 <b>경영<\/b>관리에 필요한 정보를 분석하여 해당 사업장에 적합한 시스템솔루션을 구축한다. [수행<b>직무<\/b>] 기업의 <b>경영<\/b>관리에 필요한 정보를 분석하여 해당 사업장에 적합한 시스템솔루션을 제시한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>급",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1144608&cid=40942&categoryId=31847",
+			"description":"그러나 현실적으로 완전한 <b>직무<\/b>급제도를 실시하기에는 <b>경영<\/b>자측이나 근로자측에게 다같이 해결이 곤란한 문제가 적지 않으므로, 한국에서는 연공서열형 임금과 <b>직무<\/b>급의 병존형이나 혼합형이 도입·시행되고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>배치",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062569&cid=50305&categoryId=50305",
+			"description":"<b>직무<\/b>에 개개인의 능력을 조화시키도록 하는 배치. <b>경영<\/b>자의 요구와 근로자의 요구를 모두 충족시키는 적당한 <b>직무<\/b>배치를 달성하기 위한 목적으로 인터뷰나 지원자를 테스트한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"신뢰<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6727&cid=43659&categoryId=43659",
+			"description":"미래 <b>경영<\/b>환경에서기업이 경쟁력을 발휘할 수 없을 것으로 전망된다. 세계 무대에서 경쟁하기에 앞서 자신의 회사부터 최고의 직장이 되어야 하고, 종업원들이 적극적으로 회사의 방침에 따르고 <b>직무<\/b>를 수행할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>조직과 <b>경영<\/b>관리조직",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1183216&cid=40942&categoryId=31909",
+			"description":"<b>직무<\/b>권한의 원칙은 <b>직무<\/b>분담에 중복이나 공백이 있어서는 안 된다는 것과 책임 ·권한이 <b>직무<\/b>내용에 대응하는 동등한 크기라야 한다는 것이 요구된다. 예외의 원칙은 <b>경영<\/b>자나 상층관리자가 일상 반복되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>순환",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1141733&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b> 후계자의 육성방법.  <b>직무<\/b>교체제(職務交替制) ·<b>직무<\/b>순회라고도 한다. 계획적으로 여러 부류의 <b>직무<\/b>를 차례차례로 역임시켜, 해당분야의 업무를 정확히 파악하게 하고 그 경험을 축적시킴으로써... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5676503&cid=62841&categoryId=62841",
+			"description":"이후 1980년대 노동부에서 직업훈련연구소, 중앙직업훈련원, 한국검정공단, 한국<b>경영<\/b>자총연합회 등의 직원을 대상으로 <b>직무<\/b>분석교육을 실시하여 총 12명의 <b>직무<\/b>분석전문가를 배출하였다. 이후 1981~1997년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수평<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1722031&cid=40942&categoryId=31909",
+			"description":"수평<b>경영<\/b>은 조직구성원 모두 평등한 관계라는 <b>경영<\/b>철학을 바탕에 두고 동반자의식과 공동협력의 조직문화를 강조하며, 직위와 위계의 권한 중심 구조에서 네트워크만 존재하는 업무 및 정보 중심 구조로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%98%81%ED%95%99",
+			"description":"<b>경영<\/b>학적 지식을 통해 성공적으로 기업을 운영할 수 있게 되면 사회에서 요구하는 제품과 서비스를 제공해 고객의 삶의 질에 도움이 되며 근무자의 <b>직무<\/b> 만족까지 충족되어 기업이나 주주의 이익 뿐만이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 만족",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3434551&cid=40942&categoryId=31531",
+			"description":" <b>직무<\/b>와 관련하여 근로자가 만족하는 정도를 말한다.  <b>직무<\/b> 만족 연구의 시작은 생산성 향상에 관심을... 과학적 <b>경영<\/b> 방식이 초기에는 생산성 향상을 불러일으키지만 빠른 속도로 일할 것을 요구받는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 만족",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070239&cid=41991&categoryId=41991",
+			"description":" 자신의 직업 혹은 <b>직무<\/b>에 대해 개인이 만족하는 정도. [ 1. 개요] <b>직무<\/b> 만족이란 개인이 자신의 직업 혹은 <b>직무<\/b>에 만족하는 정도를 의미한다. <b>직무<\/b> 만족에 대한 관심은 생산성 향상에 관심을 가진 학자들로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자율<b>경영<\/b>팀",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=8782&cid=43659&categoryId=43659",
+			"description":"자율<b>경영<\/b>팀의 개념은 ① 작업에 가장 가까이 있는 사람이 <b>직무<\/b>수행과 개선방법을 가장 잘 이해하고 ② 대부분의 종업원들이 자신의 <b>직무<\/b>와 조직의 효율화에 의미 있는 역할을 하고자 하며 ③ 팀이야말로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>기술서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1206573&cid=40942&categoryId=31911",
+			"description":"<b>직무<\/b>기술의 양식은 개별<b>직무<\/b>기술서와 연합<b>직무<\/b>기술서로 나눌 수 있으며, <b>직무<\/b>의 특성이 강조된다는 점에서 인적요건(人的要件)을 중점적으로 다루는 <b>직무<\/b>명세서와 차이가 있다. 한편, 영국<b>경영<\/b>학회... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>조직도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925662&cid=42279&categoryId=42279",
+			"description":"<b>경영<\/b>조직도는 회사의 <b>경영<\/b> 책임을 맡는 담당자들의 <b>직무<\/b> 분담과 책임성 부여를 위해 작성하는 것이라 할 수 있다. <b>경영<\/b>조직도에는 상하관계를 분명히 하여 표시하도록 하며, 각 직위별 <b>직무<\/b>와 전담 업무에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_18\/20220722135639384_KJA1A1E2G.png\/hb10_6007_i1.png?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>조사표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047815&cid=42279&categoryId=42279",
+			"description":"회사 내에서는 해당 <b>직무<\/b>에 대하여 정한 기간, 분기별로 <b>직무<\/b> 현황에 대하여 조사를 실시한다. 이는 회사 <b>경영<\/b> 방침, 사업 계획 등에서 미진한 부분을 발견하는 것과 더불어 추후 <b>경영<\/b> 및 마케팅 계획을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129003059090_DRNLF5JC3.jpg\/hb10_11523_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"전문<b>경영<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139523&cid=40942&categoryId=31850",
+			"description":" <b>경영<\/b>관리를 전문으로 하는 사람.  기업(주식회사의 경우 대주주)의 소유자가 아닌 사람이 <b>경영<\/b>관리에 관한 전문적 기능의 행사를 기대받아 <b>경영<\/b>자의 지위에 있는 경우를 말한다. 기업이 거대화... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>위임장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925658&cid=42279&categoryId=42279",
+			"description":"<b>경영<\/b>위임장은 회사의 <b>경영<\/b>책임자, 곧, 대표이사가 자신의 직위에 해당하는 <b>직무<\/b>를 제3자에게 위임하고자 할 때 작성하는 것이다. <b>경영<\/b>위임장을 부여받은 대리인은 <b>경영<\/b>책임자로서의 권리와 책무를 수행하도록... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129015707621_X60M3VHM7.jpg\/hb10_6003_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>분석표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047770&cid=42279&categoryId=42279",
+			"description":"회사 내에서는 해당 <b>직무<\/b>에 대하여 정한 기간, 분기별로 <b>직무<\/b> 현황에 대하여 분석 조사를 실시한다. 이는 회사 <b>경영<\/b> 방침, 사업 계획 등에서 미진한 부분을 발견하는 것과 더불어 추후 <b>경영<\/b> 및 마케팅 계획을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129002915642_DWI3KXCGD.jpg\/hb10_11478_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024518&cid=42117&categoryId=42117",
+			"description":" 기업 <b>경영<\/b>을 구성하는 여러 요소(재무, 회계, 인사, 미래비전, 유통 등)에 대한 분석을 통하여 기업의 <b>경영<\/b>상 문제점을 밝히고 해결방안을 제시한다. [수행<b>직무<\/b>] 고객과의 인터뷰를 통해 요구사항, 추진목적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"학교<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1164695&cid=40942&categoryId=31725",
+			"description":"학교<b>경영<\/b>을 학교관리(學校管理)라고 부르기도 하나, 양자(兩者)의 뜻이 동일하지는 않다. 학교관리의 개념은 한 학교를 단위로 그 학교에서 실시되는 교육을 위하여 소정의 조건을 정비하고 유지하는 관리작용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>유격",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1570500&cid=60590&categoryId=60590",
+			"description":"<b>경영<\/b>(京營)은 수도를 호위하는 군영(軍營)이고, 유격(遊擊)은 유격장군(遊擊將軍)을 가리킨다. 이... 사실 유격장군이라는 것은 오늘날 연대장이나 대대장 같이 어떤 <b>직무<\/b>를 가리키는 것이 아니라 대위나 대령... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제 <b>경영<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EC%A0%9C_%EA%B2%BD%EC%98%81",
+			"description":"국제<b>경영<\/b> (國際經營, international management)은 기업이 국제적으로 <b>경영<\/b>활동을 하는 것이다. 해외진출... 그리고 조직적 요인은 수행하고 있는 <b>직무<\/b>, 조직문화, 조직의 사회화 정도 등이다. <b>직무<\/b>와 관련된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>자 코칭",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3651295&cid=40942&categoryId=31531",
+			"description":" <b>경영<\/b>자들을 대상으로 진행하는 코칭 기법으로, 조직에서 리더가 구성원의 잠재력과 역량을 최대한... [발전 과정] <b>경영<\/b>자 코칭은 코칭의 일종으로 조직 내에서 리더가 구성원들을 효과적으로 지도하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농업<b>경영<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025270&cid=42117&categoryId=42117",
+			"description":" 농업을 <b>경영<\/b>하는 농가 및 농업법인체의 <b>경영<\/b>관리기술과 작물별 <b>경영<\/b>기술을 연구·개발하고, 이를 보급한다. [수행<b>직무<\/b>] 농업 관련 각종 시험연구 결과의 경제성을 분석한다. 농업법인체의 <b>경영<\/b>관리기술을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"ESG<b>경영<\/b>컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627236&cid=42117&categoryId=42117",
+			"description":" 기업의 지속가능<b>경영<\/b> 및 ESG 전략 유관분야(ESG<b>경영<\/b> 및 사업화 전략, ESG 투자\/금융, 기후변화\/환경<b>경영<\/b> 등)를 진단하고 이에 대한 해결책을 제시한다. [수행<b>직무<\/b>] 기업의 ESG 관련 벤치마킹, <b>경영<\/b>전략 수립... ",
+			"thumbnail":""
+		},
+		{
+			"title":"품질<b>경영<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053927&cid=42114&categoryId=42114",
+			"description":" 품질<b>경영<\/b>기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 품질<b>경영<\/b>기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과하여야 한다. [ 1. 기본정보] (1)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100650482_JCJW08Q6B.jpg\/da6_341_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"CEO<b>직무<\/b>기술서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3348309&cid=51373&categoryId=51373",
+			"description":"CEO는 Chief Executive Officer의 약자로써 기업 내의 최고 <b>경영<\/b> 책임자를 일컫는 말이다. <b>직무<\/b>기술서는 특정 <b>직무<\/b>에 필요한 능력과 책임, 자질, 어떻게 해당 <b>직무<\/b>를 수행해야 하는지 등 해당 <b>직무<\/b>에 대한 모든... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160307123346973_60W0O1U1E.jpg\/ba17_34203_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2177879&cid=51072&categoryId=51072",
+			"description":"따라 <b>경영<\/b>진단을 실시하고 보고서를 작성, 신규사업계획의 상담과 지도를 위하여 신규사업 내용에 따른 <b>경영<\/b>지침을 작성하는 일 등이 포함된다. 이러한 <b>직무<\/b>를 수행하는 사람들을 <b>경영<\/b>컨설턴트라고도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 만족",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4_%EB%A7%8C%EC%A1%B1",
+			"description":"<b>직무<\/b> 만족 (職務 滿足, job satisfaction)은 개인이 <b>직무<\/b>와 관련된 평가의 결과로 얻을 수 있는 감정의... 자처하고 <b>경영<\/b>규칙을 준수하면서 그 정신을 존중하는 것이 조직시민행동이라고 할 수 있다. 여기서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>자개발",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2177877&cid=51072&categoryId=51072",
+			"description":"<b>경영<\/b>자 개발 방법으로는 <b>경영<\/b>자 개발을 위한 후보자 선발도구로서 평가 센터법이 있으며, 현장훈련(OJT)에는 <b>직무<\/b>순환과 수평이동, 중견이사회, 행동학습훈련이 있고, 집합합숙훈련(Off-JT)으로는 비즈니스게임... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가인지<b>경영<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%80%EC%9D%B8%EC%A7%80%EA%B2%BD%EC%98%81",
+			"description":"가인지 진단 가치<b>경영<\/b>을 진단하는 척도에는 고객만족도, <b>직무<\/b>만족도, 사회공헌율 등이 있고, 인재<b>경영<\/b> 진단 척도에는 퇴사율, 승진율, 인당연봉 등이 있으며, 지식<b>경영<\/b> 진단 척도 매출성장률, 영업이익성장률... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>의 탄력성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060218&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>에서 뜻하지 않은 사태가 일어났을 경우, 최소의 시간과 비용으로 이에 대응할 수 있는 기업의... 그리고 같은 제품이라도 그 제품을 판매하는 시장이 다각화되어 있을수록 <b>경영<\/b>의 탄력성은 높아진다. 이에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>수준평가표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047772&cid=42279&categoryId=42279",
+			"description":"인사고과 등에 중요한 자료가 되므로, 최대한 공정하고 객관적으로 작성해야 한다. 또 조직구조와 업무환경을 폭넓게 고려하고, <b>경영<\/b>자의 <b>경영<\/b> 철학 등에 따라 평가 요소 또한 다양하게 구성하도록 한다.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129002916901_J8HJUQKSD.jpg\/hb10_11480_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>능력평가표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047764&cid=42279&categoryId=42279",
+			"description":"<b>직무<\/b>능력평가표는 인사고과 등에 중요한 자료가 되므로, 최대한 공정하고 객관적으로 작성해야 한다. 또 조직구조와 업무환경을 폭넓게 고려하고, <b>경영<\/b>자의 <b>경영<\/b> 철학 등에 따라 평가 요소 또한 다양하게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>관리과정론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060191&cid=40942&categoryId=31909",
+			"description":"일반적으로 <b>경영<\/b>관리를 계획·조직·지휘·조정·통제 등의 여러 과정을 거쳐 <b>직무<\/b>를 수행하는 것으로 파악하는 것이다. 프랑스의 H.파욜을 시조(始祖)로 하여 J.무니, A.브라운, L.어윅 등이 발전시킨 이론으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 기술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=441243&cid=50296&categoryId=50296",
+			"description":"직위마다 담당할 업무와 책무, 자격 요건, 보수 등을 개별 직위마다 기술하여 인적 자원 관리의 기초가 되는 문서이다. 채용부터 평가, 승진에 이르기까지 모든 과정에서 의사 결정의 기준이 된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>경영<\/b>인증원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=812925&cid=43133&categoryId=43133",
+			"description":" ISO <b>경영<\/b>시스템인증(품질, 환경 등 18개 표준) 및 제품인증, GHG 검증, <b>경영<\/b>평가, 시상, 교육사업을 수행하는 글로벌 종합인증기관.  한국<b>경영<\/b>인증원(KMR)은 인증, 평가, 교육 분야의 전문적인 지식서비스를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2185_000_1\/20171113132748123_V40ASX9RN.png\/techscio_323_i1.png?type=m160_160"
+		},
+		{
+			"title":"도서관<b>경영<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2083817&cid=44418&categoryId=44418",
+			"description":"개념 및 정의] 도서관<b>경영<\/b>학(圖書館經營學, library management)은 도서관<b>경영<\/b>과 관련된 문제를 과학적으로 연구하는 학문이다. 따라서 도서관<b>경영<\/b>학의 개념을 정의하기 위해서는 반드시 도서관<b>경영<\/b>에 대한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140529160013994_B4XDMCE5E.jpg\/z11_term6_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"개인별<b>직무<\/b>조사표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6511772&cid=51373&categoryId=51373",
+			"description":" 개인별 <b>직무<\/b>에 대한 조사를 진행할 때 작성하는 문서.  개인별<b>직무<\/b>조사표란 개인별의 <b>직무<\/b>에 대한 조사를 진행할 때 작성하는 문서를 말하는 것으로 개인별의 <b>직무<\/b>에 대한 조사결과를 기록하여 조사결과를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015144950671_EZHIKZKB2.jpg\/ba17_39334_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"개인별<b>직무<\/b>분석표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6511768&cid=51373&categoryId=51373",
+			"description":"추후의 <b>경영<\/b> 및 마케팅 계획을 마련하기 위해 시행한다. <b>직무<\/b>분석표란 회사 또는 기업 내에서 지정한 기간 또는 분기별로 <b>직무<\/b>에 대한 현황을 분석하기 위해 실시한 조사의 결과를 기록한 표 형식의 문서를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015144950445_BZ4RAJSW8.jpg\/ba17_39333_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"영리단체총괄<b>경영<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024364&cid=42117&categoryId=42117",
+			"description":" 영리업체의 대표로서 업체의 이익을 극대화하기 위한 영리 활동에 관련된 제반 업무를 총괄하고 사원들의 인사 관리를 한다. [수행<b>직무<\/b>] 대내외적으로 영리업체를 대표하여 <b>경영<\/b>방침, 사업계획, 계약 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현장자율<b>경영<\/b>팀",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2179095&cid=51072&categoryId=51072",
+			"description":"수행하는 <b>경영<\/b>참가제도의 한 형태이다. 이 현장자율<b>경영<\/b>팀을 구성하는 목적은 집단 구성원의 사회적... 수 있도록 하며, 개인의 성장욕구를 충족시켜 <b>직무<\/b>만족이나 기업의 성과를 높이는 것이라고 할 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"사업<b>경영<\/b>담당자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209758&cid=51088&categoryId=51088",
+			"description":"사업<b>경영<\/b>담당자로서 사용자라고 볼 수 없다. 주식회사의 이사도 대표이사와 같이 근로자를 고용하고 급료를 지급하는 등 회사의 근로자에 관한 사항에 대하여 실질적으로 <b>직무<\/b>를 수행하여 왔다면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>회계정보과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917498&cid=44346&categoryId=44346",
+			"description":"구매관리, <b>경영<\/b>정보관리, 생산관리 등 다양한 부문의 <b>직무<\/b>능력을 습득하는 학과입니다. 기업경제의 중요성이 확대됨에 따라 기업의 이해관계자인 <b>경영<\/b>자ㆍ투자자ㆍ채권자 등의 의사결정에 유용한 회계정보를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"통신<b>경영<\/b>기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658658&cid=42117&categoryId=42117",
+			"description":" 인터넷이용자에게 제공되는 각종 통신서비스의 발전 방향을 기획하고 서비스상품을 개발한다. [수행<b>직무<\/b>] 인터넷의 웹(Web)서비스 및 각종 전문잡지 등을 통해 최신정보를 수집한다. 인터넷 웹서비스 내의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>관리학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025378&cid=42117&categoryId=42117",
+			"description":" <b>경영<\/b>관리계열학원에서 수강생들에게 특정교과에 대한 이론과 기술을 강의하고 자격·면허를 취득하기 위한 전문과목을 지도한다. [수행<b>직무<\/b>] 수강생들에게 회계원리, 재무관리, 경제학, 통계학, 채권분석... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전사적 품질 <b>경영<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EC%82%AC%EC%A0%81_%ED%92%88%EC%A7%88_%EA%B2%BD%EC%98%81",
+			"description":"즉 고객들은 평균적 수준의 품질성능을 거의 받아들이지 않거나, 묵인하지 않으므로 오늘날의 <b>경영<\/b>자들은 제품과 서비스 품질을 개선하는 것을 그들이 최우선으로 해야 할 <b>직무<\/b>라고 인식함으로써 품질이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"품질<b>경영<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053928&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① 품질<b>경영<\/b>이란 일반적으로 시장성이 높은 제품을 가장 경제적으로... ② 세계화에 따른 국가의 경계를 넘어 기업 간 경쟁이 치열해지면서 기업 <b>경영<\/b>에 있어 품질<b>경영<\/b>이 더욱... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203147653_IF86421YR.jpg\/da6_342_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"SMAT(서비스<b>경영<\/b>자격)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2809899&cid=42114&categoryId=42114",
+			"description":"③ MAT는 <b>경영<\/b>능력시험(Management Ability Test)의 약자로, 주요 산업\/<b>직무<\/b>별 핵심성공요인에 대응하는 공통지식체계(Common Body of Knowledge)를 추출하여, 각 <b>경영<\/b> 종목별로 객관적이고 공신력 있는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회적책임<b>경영<\/b>컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024522&cid=42117&categoryId=42117",
+			"description":" 기업의 사회적책임<b>경영<\/b>(CSR:Corporate Social Responsibility) 추진 정도를 진단하고, 이를 위한 솔루션을 제공한다. [수행<b>직무<\/b>] 기업의 사회적책임<b>경영<\/b>에 따른 경제적 가치와 더불어 윤리적, 사회적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>경영<\/b>연수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1344092&cid=40942&categoryId=37154",
+			"description":"건설인재양성을 위한 교육과 건설기술자의 <b>직무<\/b> 교육을 위한 프로그램을 운영하며 건설산업 종사자의 복지증진을 위해 숙박시설을 대여한다. 교육시설과 부대시설 임대사업도 하고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"박물관 <b>경영<\/b>의 평가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2028775&cid=43112&categoryId=43112",
+			"description":"박물관 <b>경영<\/b> 활동에 대한 평가는 현대 박물관 <b>경영<\/b>에 있어 필수적인 과제라고 할 수 있다. 박물관 <b>경영<\/b> 평가는 박물관이 설정한 설립 취지와 목표, 실천 과제가 본 궤도를 이탈하고 있지는 않은지의 여부와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"과거의 토지 <b>경영<\/b> 제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1997104&cid=47322&categoryId=47322",
+			"description":"일반적으로 소작제를 통한 토지 <b>경영<\/b>방법은 중소지주의 경우라면 직접 소작인을 관리할 수 있겠지만... 주된 <b>직무<\/b>로 한다. 마름은 지주의 대리인이기는 하지만, 소작인의 생산활동에 직접 개입하는 일은 드물고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b> 행정관련 직업의 세계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2849634&cid=55622&categoryId=55622",
+			"description":"[사회보험노무사] • 기업(특히 중소기업)의 고용보험, 건강보험, 후생연금, 보험 등 사회보험 전반에 관계된 서류작성이나 제출을 대행합니다. • 일본에서 일본사회보험노무사가 되려면 사회보험노무사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4072_000_1\/20150831153847048_R63LJ222H.jpg\/l26_82_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"데이터 <b>경영<\/b> 시대를 여는 기업들",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3331606&cid=57613&categoryId=57613",
+			"description":"기업마다 부르는 이름은 다르지만, 생산 · 판매와 서비스 등 핵심 <b>직무<\/b>에서 영업력 개선과 사원 복지 등 전 영역에서 이같은 데이터 과학 조직의 역할은 전방위로 확대되고 있다. 업계에서는 주요 데이터에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현대 <b>경영<\/b>을 선도하는 정보시스템",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2274729&cid=42171&categoryId=51120",
+			"description":"ICT의 질주는 비즈니스 환경을 급격히 변화시키면서 <b>경영<\/b>자들을 혼란에 빠뜨린다. 세계화와 변화의 가속화에 따른 제품 수명 주기의 단축, 고객만족 <b>경영<\/b>과 혁신 가속화, 지식기반 <b>경영<\/b>의 확산 등으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인재를 <b>경영<\/b>을 통한 기업 경쟁력 확보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2442214&cid=51629&categoryId=51629",
+			"description":"따라 <b>직무<\/b>가 주어지는 것이다. 이러한 변화를 조직이 얼마나 수용하느냐에 따라 기업 경쟁력이 결정된다는 내용이 담겨 있다. 인재 <b>경영<\/b>을 통하여 기업 경쟁력을 확보한 미국 뉴욕주에 있는 IBM 왓슨... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/15\/167\/531C04F3A30EF39C15E3E32B136055B3F44_muploader_b_480P_854_1024_128_logo.jpg#1280x720#m"
+		},
+		{
+			"title":"일본 고도 전문직 비자(고도 <b>경영<\/b>관리 활동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6451347&cid=67745&categoryId=68331",
+			"description":" 재류 자격 인정 증명서 신청 시 고도 전문직으로서의 심사에 대해서도 신청한 다음, 고도 전문직으로서의 심사를 받아 고도 전문직으로서의 활동 유형 등이 기재된 재류 자격 인정 증명서를 교부 받은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5932_000_1\/20210531184715632_NWXF1N1BY.jpg\/gb325_2_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"준법감시인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1987581&cid=42088&categoryId=42088",
+			"description":"감사위원회가 주로 주주의 입장에서 <b>경영<\/b>진의 <b>직무<\/b>집행을 감시하는 것을 목적으로 하는데 반하여, 준법감시인 제도는 <b>경영<\/b>진의 입장에서 임직원의 업무수행 과정상 내부통제기준의 준수여부를 스스로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 상법 제385조",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EC%83%81%EB%B2%95_%EC%A0%9C385%EC%A1%B0",
+			"description":"정신적·육체적으로 <b>경영<\/b>자로서의 <b>직무<\/b>를 감당하기 현저하게 곤란한 경우 ③회사의 중요한 사업계획 수립이나 그 추진에 실패함으로써 <b>경영<\/b>능력에 대한 근본적인 신뢰관계가 상실된 경우 등과 같이 당해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"OJT",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1608430&cid=50306&categoryId=50306",
+			"description":"종업원과 <b>경영<\/b>자가 <b>직무<\/b>를 수행함으로써 기업목적달성에 기여하는 동시에, <b>직무<\/b>에 대한 훈련을 받도록 하는 제도다. 팀워크 조성이나 영향력이 강한 직속 상사가 업무에 대한 지식, 기능, 태도를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이병태 (교수)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EB%B3%91%ED%83%9C_(%EA%B5%90%EC%88%98)",
+			"description":"11 : 카이스트 <b>경영<\/b>대학 학장 <b>직무<\/b>대행 카이스트 <b>경영<\/b>대학 학사부대학장 카이스트 테크노<b>경영<\/b>대학원 원장 카이스트 <b>경영<\/b>공학 과장 2009: 마르퀴즈 후즈 후 인 더 월드 등재 2001.06 ~ : 카이스트... ",
+			"thumbnail":""
+		},
+		{
+			"title":"상업교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025332&cid=42117&categoryId=42117",
+			"description":" 상업계열 고등학교에서 학생들에게 상업에 대한 지식과 기술을 가르치기 위하여 상업 및 관련 과목을 전문으로 교육한다. [수행<b>직무<\/b>] <b>경영<\/b>실무, 기업회계, 마케팅, 사무자동화실무, 상업경제, 유통관리일반... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직원 단원 관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1691467&cid=42266&categoryId=42274",
+			"description":"1) 지도자층 : 제작·이사회·극장주 2) 관리자층 : 예술감독·<b>경영<\/b>감독 3) 실무자층 : 예술 부문·무대... 다음의 〈표 1〉은 미국의 사례이나 극단의 전문성이 높아질수록 작품을 제작하는 데 필요한 <b>직무<\/b>의 가",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20130205220336446_ITVSLJ0YV.jpg\/m62_s8.jpg?type=m160_160"
+		},
+		{
+			"title":"노동의 인간화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1170856&cid=40942&categoryId=31846",
+			"description":"같은 노동의 인간소외에 의해 잃어버린 노동자의 인간으로서의 가치를 회복할 필요를 느끼게 되어 노동의 인간화가 추진되었다. 그 시책으로는 노동자의 <b>경영<\/b> 참가, <b>직무<\/b>의 확대, 자주관리 작업집단 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"최고운영책임자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627218&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>경영<\/b>상태, 시장환경 등 기업 내부 현황을 파악한다. 재무 현황, 조직 현황, 사업 모델, 비전과 목표 등 각 항목의 현황을 분석하고 예상되는 리스크를 진단하여 기업의 방향성을 재정립한다. <b>경영<\/b>진과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"임금",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2178618&cid=51072&categoryId=51072",
+			"description":"조직 내부적 요소는 기업의 지급능력, <b>경영<\/b>층 태도, <b>직무<\/b>와 구성원의 상대적 가치 등이다. 임금구조와 관련하여 조직에서 사용할 수 있는 임금유형은 연공급, <b>직무<\/b>급, 직능급, 성과급으로 나눌 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"노동의 인간소외",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1076650&cid=40942&categoryId=31846",
+			"description":"생산수단의 소유와 노동의 분리가 이루어져 있는 자본제 <b>경영<\/b>체제하에서 기계제(機械制)에 의한 생산이 점차 늘어나고, 다시 <b>경영<\/b>조직의 대규모화가 진행됨에 따라 노동자가 인간적 가치를 상실하게 되어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"우정공무원교육원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1205646&cid=40942&categoryId=34632",
+			"description":"타부처 공무원, 별정우체국직원 과정으로 나뉜다. 전문교육은 공통역량, 사업지원, 우편<b>직무<\/b>, 금융<b>직무<\/b>, 정보활용·업무정보화, 글로벌 6개 선택 전문과정으로 나뉘며, 특별교육은 정부정책, 핵심역량,",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_380\/20210729090012983_WFWKIOE37.jpg\/10867047.jpg?type=m160_160"
+		},
+		{
+			"title":"우정공무원교육원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=813592&cid=43139&categoryId=43139",
+			"description":" 과학기술정보통신부 우정사업본부 소속의 교육연수기관.  우정공무원교육원은 과학기술정보통신부 소속 우정사업본부 공무원을 대상으로 지식과 기술을 교육하는 교육훈련기관이다. 1900년 11월 1일... ",
+			"thumbnail":""
+		},
+		{
+			"title":"행동과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2179077&cid=51072&categoryId=51072",
+			"description":"1960년대 들어서 연구되기 시작한 행동과학은 인간으로서의 종업원 행동을 중시하는 연구이다. 종업원의 <b>경영<\/b>참가 및 <b>직무<\/b>재편성 등은 이러한 차원에서 연구영역의 중요한 주제 중 하나로 대두되었다.",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 공공기관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80",
+			"description":"임원 공기업과 준정부기관의 기관장의 임기는 3년으로, 이사와 감사의 임기는 2년으로 하며, <b>경영<\/b>실적·<b>직무<\/b>수행실적 등을 바탕으로 1년을 단위로 연임이 가능하다. 상임위원과 직원은 영리를 목적으로 하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=572907&cid=46631&categoryId=46631",
+			"description":"문제, 최고 <b>경영<\/b>층의 문제로 연구대상이 확대되어 가는 학문이다. 이렇게 볼 때 산업공학의 범주에 속하는 연구대상은, 하나의 체계 안에 있는 각 개인의 소요능력·임무와 책임·위치·소요인원·조직·<b>직무<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"관리, 감독업무, 기밀사무취급자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2208722&cid=51088&categoryId=51088",
+			"description":"사업의 종류에 관계없이 관리·감독 업무 또는 기밀을 취급하는 업무에 종사하는 근로자(｢근로기준법｣ 제63조제4호)는 <b>경영<\/b>자와 일체적인 활동을 하고 있으므로 기업<b>경영<\/b>상 필요에 의하여 근로시간·휴게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제너럴 매니저",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%9C%EB%84%88%EB%9F%B4_%EB%A7%A4%EB%8B%88%EC%A0%80",
+			"description":"많은 사람들은 각각 할당된 <b>직무<\/b>에 전문화하며, 다른 한편 이들 분화·전문화된 <b>직무<\/b>가 <b>경영<\/b>전체의 목적에 유기적인 역할을 하도록 종합·조정해야 한다. 이를 위해 작업자·감독자·관리자 등의 몇 개의 계층을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중소기업연수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1206355&cid=40942&categoryId=34496",
+			"description":"사이버 연수도 개설하는 등 폭넓은 활동을 펼치고 있다. 1995년 9월에는 ISO(국제표준화기구) 품질보증체제 연수기관으로 지정되었다. 설립 이후 <b>경영<\/b> 전반에 대한 <b>직무<\/b> 능력 향상 교육을 통한 능동적이고",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_8\/20180614192217485_NQX6QU67Z.jpg\/9443623.jpg?type=m160_160"
+		},
+		{
+			"title":"조직행동",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A1%B0%EC%A7%81%ED%96%89%EB%8F%99",
+			"description":"또한 조직문화는 <b>경영<\/b>자들이 다른 문화를 가진 구성원들의 행동을 이해하는데 도움을 준다. 정치학은 조직행동을 이해하기 위해 자주 등장하는 분야로서 개인 및 집단행동을 연구대상으로 하고 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"환경컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953456&cid=42117&categoryId=42117",
+			"description":" 기업이나 공공의 환경관리 및 보전상의 문제점을 조사하고 진단하여 이에 대한 해결책을 제시한다. [수행<b>직무<\/b>] 친환경 <b>경영<\/b>시스템, 환경회계 감사, 환경법과 환경규제에 대한 대응, 환경<b>경영<\/b>체제(ISO 14001)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농업교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025328&cid=42117&categoryId=42117",
+			"description":" 농업계열 고등학교에서 학생들에게 농업에 대한 지식과 기술을 가르치기 위하여 농업 및 관련 과목을 전문으로 교육한다. [수행<b>직무<\/b>] 농업<b>경영<\/b>, 농업기계기술, 농업토목기술, 사육기술, 식품가공기술... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중소기업연수원 (안산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2606127&cid=51885&categoryId=53443",
+			"description":"[정의] 경기도 안산시 단원구 원곡동에 있는 중소기업진흥공단 산하 중소기업인 및 근로자전문 연수 기관. [설립목적] 중소기업연수원은 연수 시설이 없어 체계적인 직원 교육을 실시하기 어려운... ",
+			"thumbnail":""
+		},
+		{
+			"title":"환경재앙의 역사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3579909&cid=59020&categoryId=59032",
+			"description":"8월 12일 중국의 석유화학 산업단지이자 수출기지인 톈진에서 폭발 사고가 일어났습니다. 기업의 무책임, 고속성장으로 달려가면서 안전은 등한시해 온 정부의 무사안일주의와 부패가 모두 도마에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118184833467_YMLQ0XAK5.jpg\/01_461.jpg?type=m160_160"
+		},
+		{
+			"title":"교장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794436&cid=46615&categoryId=46615",
+			"description":"① 지도적 <b>직무<\/b>: 학교<b>경영<\/b>관리계획에 관한 <b>직무<\/b>, 교육과정운영에 관한 <b>직무<\/b>, 생활지도에 관한 <b>직무<\/b>. ② 관리적 <b>직무<\/b>: 학생 관리에 관한 <b>직무<\/b>, 보건 및 환경관리에 관한 <b>직무<\/b>, 인사관리에 관한 <b>직무<\/b>, 사무 관리에... ",
+			"thumbnail":""
+		}
+	]
+}

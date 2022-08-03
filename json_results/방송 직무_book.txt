@@ -1,0 +1,52 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:38 +0900",
+	"total":4,
+	"start":1,
+	"display":4,
+	"items":[
+		{
+			"title":"NCS 기반 직무수행능력+직무중심면접 평가 20: 정보통신(3) 방송 서비스",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32489499012",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3248949\/32489499012.20220527063020.jpg",
+			"author":"NCS 채용 시험 연구회",
+			"discount":"18000",
+			"publisher":"씨마스",
+			"pubdate":"20160510",
+			"isbn":"9791156721093",
+			"description":"- 독자대상 : NCS기반 채용 시험 준비생 \n- 구성 및 특징 : \n① 수록 내용이 직무 중심 면접에 유용한 이유 제시\n② 해당 직무에 관한 기출 면접 질문 문항 제시\n③ 직무 수행 능력 평가 문항 제시\n④ 직무 능력의 수준을 진단할 수 있는 자가진단 도구 제시"
+		},
+		{
+			"title":"직무분석 2 (문화.예술.디자인.방송, 출제기준 정비자료 12-04)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32496815620",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249681\/32496815620.20220521042837.jpg",
+			"author":"",
+			"discount":"10800",
+			"publisher":"휴먼컬처아리랑",
+			"pubdate":"20141124",
+			"isbn":"9791155651247",
+			"description":"시각디자인은 시각디자인에 대한 전문지식을 갖추고 광고, 편집, 아이덴티티, 패키지, 미디어 등 시각전달 디자인 전반에 관한 기획, 계획, 정보분석, 디자인 실무 등의 직무를 수행하는 직무로 문화, 예술, 디자인, 방송을 분석했다."
+		},
+		{
+			"title":"항공기내방송실무 (NCS(국가직무능력표준)기반)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32436277051",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3243627\/32436277051.20220527035256.jpg",
+			"author":"심지연",
+			"discount":"16200",
+			"publisher":"새로미",
+			"pubdate":"20200920",
+			"isbn":"9788964767313",
+			"description":"예비승무원을 위한 『항공기내방송실무』는 〈항공기내방송 준비하기〉, 〈항공 기내방송의 이해〉, 〈기내방송 요령〉, 〈기내방송을 위한 기본연습〉 등 항공기내방송실무에 대한 기초적이고 전반적인 내용이 수록되어 있다."
+		},
+		{
+			"title":"항공 기내방송 업무 (NCS 기반 항공 객실 서비스 직무 능력 단위 반영)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32505099261",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3250509\/32505099261.20220527075707.jpg",
+			"author":"최성수",
+			"discount":"12672",
+			"publisher":"한올",
+			"pubdate":"20170726",
+			"isbn":"9791156855903",
+			"description":"▶ 이 책은 NCS 기반 항공 객실 서비스 직무 능력 단위 반영 항공 기내방송 업무를 다룬 이론서입니다. 항공 기내방송 업무의 기초적이고 전반적인 내용을 학습할 수 있습니다."
+		}
+	]
+}

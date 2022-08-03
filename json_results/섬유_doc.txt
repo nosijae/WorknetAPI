@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:18 +0900",
+	"total":103591,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>섬유<\/b>공학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5927",
+			"description":""
+		},
+		{
+			"title":"<b>섬유<\/b>기술과 산업",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3104",
+			"description":""
+		},
+		{
+			"title":"Electrospun core-shell fibers for robust silicon nanoparticle-based lithium ion battery anodes =",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=149524750",
+			"description":"Electrospun core-shell fibers for robust silicon nanoparticle-based lithium ion battery anodes. Because of its unprecedented theoretica"
+		},
+		{
+			"title":"<b>섬유<\/b>기계학회지 (纖維機械學會誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2711350",
+			"description":""
+		},
+		{
+			"title":"Selectivity enhancement of SnO2 nanofiber gas sensors by functionalization with Pt nanocatalysts",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=732275910",
+			"description":"Selectivity enhancement of SnO2 nanofiber gas sensors by functionalization with Pt nanocatalysts and manipulation of the operation temp"
+		},
+		{
+			"title":"자동차 경량화를 위한 탄소<b>섬유<\/b>강화 복합재료의 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=493021783",
+			"description":"Trend of Carbon Fiber-reinforced Composites for Lightweight Vehicles 최근 전세계적으로 자원 고갈로 인한 에너지 절약"
+		},
+		{
+			"title":"탄소<b>섬유<\/b> 제조방법 및 응용분야",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41666879",
+			"description":"Manufacturing Method of Carbon Fibers and Their Application Fields  목차\n탄소<b>섬유<\/b> 제조방법 및 응용분야 \/ 서민강 ; 박"
+		},
+		{
+			"title":"미강 식이<b>섬유<\/b>가 밀가루의 리올로지와 생국수의 품질특성에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=779067271",
+			"description":"   Food science, Engineering, Dietary fiber "
+		},
+		{
+			"title":"계면중합법을 이용한 폴리아마이드 610\/탄소<b>섬유<\/b>\/탄소나노튜브 복합재 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651626815",
+			"description":"Processing and Characterization of Polyamide 610\/Carbon Fiber\/Carbon Nanotube Composites through In-Situ Interfacial Polymerization 탄"
+		},
+		{
+			"title":"고성능 탄소<b>섬유<\/b> 제조를 위한 폴리아크릴로니트릴 기반 공중합 고분자 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896914069",
+			"description":"Polyacrylonitrile based Copolymer Synthesis and Precursor Fiber Spinning for Manufacturing High-performance Carbon Fiber 탄소<b>섬유<\/b>"
+		},
+		{
+			"title":"친수성 PVA<b>섬유<\/b>보강 시멘트 복합체의 균열제어 및 투수성 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11391344",
+			"description":"Evaluation of Crack Control and Permeability of Hydrophilic PVA fiber Reinforced Cement Composite 소성수축 균열은 경화전 콘"
+		},
+		{
+			"title":"초음파 처리된 대나무<b>섬유<\/b>와 케냐프<b>섬유<\/b> 복합재의 기계적 특성 비교 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651443136",
+			"description":"Comparative Study on Mechanical Properties of Sonicated Bamboo and Kenaf Fiber Composite This study compared the mechanical properties "
+		},
+		{
+			"title":"<b>섬유<\/b>기술",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3102",
+			"description":""
+		},
+		{
+			"title":"<b>섬유<\/b> 혼입률에 따른 <b>섬유<\/b>보강 경량골재 콘크리트의 역학적 특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12959559",
+			"description":"Effect of Volume Fraction of Fibers on the Mechanical Properties of a Lightweight Aggregate Concrete Reinforced with Polypropylene Fibe"
+		},
+		{
+			"title":"전환경제하의 해외직접투자기업의 가치사슬과 네트워크: 대베트남 한국",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16466300",
+			"description":"Value Chain and Networks of Foreign Direct Investment Firms in Transitional Econnomies: Korean Textile and Clothing Foreign Direct Inve"
+		},
+		{
+			"title":"무전해 도금을 이용한 금속 코팅된 탄소나노<b>섬유<\/b>의 제조 및 미세조직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13164581",
+			"description":"Fabrication and Microstructure of Metal-Coated Carbon Nanofibers using Electroless Plating 전자기파의 흡수와 간섭 문제는 "
+		},
+		{
+			"title":"<b>섬유<\/b>산업의 RFID기술 적용에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289863190",
+			"description":"A Study on the Application of the RFID Technology in Textile Industry 국내 <b>섬유<\/b>산업은 무역자유화와 지역 무역블록화"
+		},
+		{
+			"title":"50피트급 탄소<b>섬유<\/b>강화복합재료 크루즈 보트의 기본설계 및 특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562291816",
+			"description":"A Study on the Basic Design and its Characteristics of 50ft-class CFRP Cruise Boat 해양레저 활동의 범위가 점차 원거리 "
+		},
+		{
+			"title":"액상가압성형법으로 제조된 탄소나노<b>섬유<\/b> 강화 Cu 기지 복합재료의 인장",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11367022",
+			"description":"Tensile Behavior of Carbon Nanofiber Reinforced Cu Matrix Composite by Liquid Infiltration Process   액상가압성형, 탄소나노"
+		},
+		{
+			"title":"과보강 프리스트레스트 고강도 <b>섬유<\/b>보강 콘크리트보 휨실험",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=50899641",
+			"description":"Flexural experiment of over reinforced prestressed high performance fiber reinforced concrete girder 압축강도 93MPa의 고강도 "
+		},
+		{
+			"title":"강 및 탄소 <b>섬유<\/b>를 사용한 하이브리드 <b>섬유<\/b>보강 모르타르의 압축·휨성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865533297",
+			"description":"Improved Compressive·Flexural Performance of Hybrid Fiber-Reinforced Mortar Using Steel and Carbon Fibers 본 연구에서는 다른 "
+		},
+		{
+			"title":"고성능 <b>섬유<\/b> 기술 및 시장동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890097505",
+			"description":""
+		},
+		{
+			"title":"탄소<b>섬유<\/b> 산업 발전 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890097506",
+			"description":""
+		},
+		{
+			"title":"<b>섬유<\/b>패션, 메타버스 금맥 캐기에 나서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887344360",
+			"description":""
+		},
+		{
+			"title":"지역 산업클러스터 시스템, 흡수능력 및 혁신성과 : 대구지역 <b>섬유<\/b> 및 IT ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12467971",
+			"description":"Regional Industrial Cluster System, Absorptive Capacity and Innovation Performance: A Comparative Study of Textile and IT Industry Clus"
+		},
+		{
+			"title":"DTP(Digital Textile Printing)를 활용한 <b>섬유<\/b>디자인의 지속가능성 모색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601397",
+			"description":"Sustainability of Textile Design using Digital Textile Printing (DTP) 최근 <b>섬유<\/b>디자인 산업계 전반적으로 ESG경영 ESG란"
+		},
+		{
+			"title":"중공 <b>섬유<\/b>를 이용한 자동차 흡음재 성능 향상 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56424813",
+			"description":"The Study on Improvement of Acoustic Performance for Automobile Sound-absorbing Materials Using Hollow Fiber Generally, sound-absorbing"
+		},
+		{
+			"title":"천연<b>섬유<\/b>보강 복합재료의 최근 연구 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32704750",
+			"description":"Recent Developments in Natural Fiber Reinforeed Composites 천연<b>섬유<\/b>복합재료는 저비용, 경량, 재생성, 친환경적인 "
+		},
+		{
+			"title":"<b>섬유<\/b>예술 비엔날레의 대표적인 입체표현 기법 연구 - 로잔느&amp;베이징 국",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896910631",
+			"description":"Study of the Representative Three-Dimensional Expression Techniques in Fiber Art Biennale - focused on Lausanne and Beijing internation"
+		},
+		{
+			"title":"고성능 탄소<b>섬유<\/b> 제조를 위한 폴리아크릴로니트릴 기반 공중합 고분자 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896402689",
+			"description":"Polyacrylonitrile based Copolymer Synthesis and Precursor Fiber Spinning for Manufacturing High-performance Carbon Fiber The performanc"
+		},
+		{
+			"title":"분할된 3K 금속도금 탄소<b>섬유<\/b> 선의 열적, 전자기적 신뢰성 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890141769",
+			"description":" 기존에 사용되고 있는 발열선은 대부분 구리, 니크롬과 같은 금속 물질이며, 이는 인장력, 내구성 등"
+		},
+		{
+			"title":"나노입자 건조윤활 기반 탄소<b>섬유<\/b>복합재 드릴링 가공 최적화에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887308715",
+			"description":"A Study on the Drilling Process Optimization of Carbon Fiber Reinforced Plastics based on Nano-solid Dry Lubrication 탄소<b>섬유<\/b>복합"
+		},
+		{
+			"title":"스포츠용 폴리우레탄 <b>섬유<\/b> 소재의 형광 발현 및 견뢰도 특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897763682",
+			"description":"Fluorescent Coloration of Polyurethane Sports Fabric and Its Fastness Properties In order to develop high fastness fluorescence color o"
+		},
+		{
+			"title":"바이오매스 기반 <b>섬유<\/b>소재 -바이오 나일론 <b>섬유<\/b> 소재 동향-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890045142",
+			"description":""
+		},
+		{
+			"title":"탄소복합<b>섬유<\/b> 개발동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41666882",
+			"description":"A Review of Carbon Nanotube-Reinforced Carbon Fibers  목차\n탄소복합<b>섬유<\/b> 개발동향 \/ 채한기 ; 이성호 ; 구본철 ; 박"
+		},
+		{
+			"title":"국내 육성 귀리 품종의 이화학적 특성 및 식이<b>섬유<\/b> 함량 분포",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186123327",
+			"description":"(The)Physicochemical Properties and Dietary Fiber Contents in Naked and Hulled Korean Oat Cultivars 소비가 폭발적으로 증가하"
+		},
+		{
+			"title":"2P-69 : UHMWPP에 유리단<b>섬유<\/b> 함유율을 변화에 따른 기계적 강도 변화 및 섬",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890105098",
+			"description":"   UHMWPP, Ulta High Molecular Weight Polypropylene, 고강성, High strength, 저비중, Low density, 유리<b>섬유<\/b>, Glass Fiber, 상"
+		},
+		{
+			"title":"TiO₂ 함유 복합나노<b>섬유<\/b>의 메틸렌 블루 광분해 특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=727837887",
+			"description":"   Vinyl alcohol, Titanium dioxide, Photocatalysis, Nanofiber, Nanocomposite, Methylene blue, Materials science, Fiber, Electrospinning"
+		},
+		{
+			"title":"콘크리트 원형단면에서의 <b>섬유<\/b>분포계수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722206168",
+			"description":""
+		},
+		{
+			"title":"충격에 의해 손상된 <b>섬유<\/b>강화 열가소성 수지 복합재료의 재활용 횟수에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896914064",
+			"description":"The Influence of Mechanical Properties with the Number of Recycling of Fiber-reinforced Thermoplastic Composites Damaged by Impact 본 "
+		},
+		{
+			"title":"Capillary 특성을 활용한 <b>섬유<\/b> 조건에 따른 유리<b>섬유<\/b>강화 복합재료의 함침",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890103897",
+			"description":"Evaluation of Wettability and Interfacial Property of Glass Fiber Reinforced Composite with Different Glass Fiber Conditions via Capill"
+		},
+		{
+			"title":"<b>섬유<\/b>기계학회지 (繊維機械學會誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3200507",
+			"description":""
+		},
+		{
+			"title":"<b>섬유<\/b>아세포(CCD-986sk)에서 청미래덩굴의 pro-collagen type-1 활성 및 MMP-1의 유",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78417400",
+			"description":"Inhibitory Efficacy of Smilax china L. on Pro-collagen Type-1 Activity and MMP-1 Gene Expression in Fibroblasts (CCD-986sk) 청미래"
+		},
+		{
+			"title":"고인성 <b>섬유<\/b>보강 콘크리트의 정적 및 피로 휨시험",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881527646",
+			"description":"Static and Fatigue Flexural Tests of Ductile High-performance Fiber Reinforced Cementitious Composites 최근에는 다양한 보강재"
+		},
+		{
+			"title":"웰빙 라이프스타일과 기능성 <b>섬유<\/b>에 대한 지식이 고기능성 스포츠레저",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32705137",
+			"description":"The Effect of Well-being Lifestyle and Functional Textile Knowledge on the Perception of High Functional Sports\/Leisure Wear Importance"
+		},
+		{
+			"title":"유리<b>섬유<\/b>메쉬가 보강된 ALC 프리즘의 직접전단부착성능",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887309684",
+			"description":"Shear Bond Strength between ALC and Thin-Bed Mortar Strengthened with Glass Fiber Mesh 증기양생 경량기포 콘크리트(ALC) 블"
+		},
+		{
+			"title":"감즙에 의한 합성<b>섬유<\/b>의 염색성과 기능성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=696335978",
+			"description":"   Water repellent, Polyester, Perspiration, Padding, Materials science, Dyeing, Composite material, Color reproduction "
+		},
+		{
+			"title":"세그먼트 라이닝의 PP<b>섬유<\/b> 혼입량과 공기량 변화에 따른 화재저항 특성 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881529036",
+			"description":"Evaluation of Segment Lining Fire Resistance Based on PP Fiber Dosage and Air Contents 콘크리트의 폭렬방지 재료로서 PP섬"
+		},
+		{
+			"title":"예술 재료로서 <b>섬유<\/b>가 지니는 의미적 특성 연구 -현대 작가들의 작품 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888322525",
+			"description":"A Study on the Semantic Characteristics of Textiles as a Medium of Artistic Expression -Focusing on the Analysis of Works by Contempora"
+		},
+		{
+			"title":"불용성 함초 식이<b>섬유<\/b>의 섭취가 흰쥐 장기능에 미치는 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=718738834",
+			"description":"   Triglyceride, Mucus, Materials science, Loperamide, Feces, Dietary fiber, Constipation, Bowel function, Biochemistry, Bile acid, Ani"
+		},
+		{
+			"title":"생분해성을 갖는 친환경 합성<b>섬유<\/b>의 개발 현황",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890045141",
+			"description":""
+		},
+		{
+			"title":"슈퍼커패시터용 활성탄소나노<b>섬유<\/b>의 제조 및 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887857612",
+			"description":"Manufacturing and Evaluation of Activated Carbon Nanofibers for Supercapacitors Supercapacitors, also known as electrochemical capacito"
+		},
+		{
+			"title":"폴리프로필렌 <b>섬유<\/b>로 보강된 하이볼륨 플라이애시 시멘트 복합재료의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=580425760",
+			"description":"Enhancing the Performance of Polypropylene Fiber Reinforced Cementitious Composite Produced with High Volume Fly Ash 폴리비닐알코"
+		},
+		{
+			"title":"전자<b>섬유<\/b>(e-Textile) 기술 개발동향과 군사적 적용방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822325404",
+			"description":"  목차[파오손]\n전자<b>섬유<\/b>(e-Textile) 기술 개발동향과 군사적 적용방안 \/ 김성도 1\n 01. '전자<b>섬유<\/b>(Electronic-T"
+		},
+		{
+			"title":"폴리올레핀계 <b>섬유<\/b> 염색 기술 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890045143",
+			"description":""
+		},
+		{
+			"title":"주제 중심 통합적 접근에 의한 가정 교과 의생활 영역 교육 프로그램 개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39159851",
+			"description":"Development and Evaluation of an Educational Program for the Clothing Life Domain in Home Economics through a Theme-Based Integrated Ap"
+		},
+		{
+			"title":"탄소<b>섬유<\/b>쉬트에 의해 휨보강된 RC보의 휨강도 추정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11491149",
+			"description":"An Estimate of Flexural Strength for Reinforce Concrete Beams Strengthened with CFRP Sheets 탄소<b>섬유<\/b>쉬트를 이용한 철근콘"
+		},
+		{
+			"title":"고밀도 <b>섬유<\/b> 시멘트 복합체 불연특성 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881528022",
+			"description":"A Study on Improving the Non-Combustible Properties of High-Density Fiber Cement Composites 진공 압출성형 방법에 의하여 생"
+		},
+		{
+			"title":"1P-720 : 펙티나아제를 이용한 인피<b>섬유<\/b>의 레팅효과 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890104968",
+			"description":"   인피<b>섬유<\/b>, 레팅공정, 효소, 펙티나아제, 친환경 공정 "
+		},
+		{
+			"title":"<b>섬유<\/b> 및 의복분야 공학교육 기반구축을 위한 직무체계 개발 기초연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41684506",
+			"description":"A Basic Study on the Development of Skill System for Based on Engineering Education for the Areas of Textile and Clothing 본 연구는"
+		},
+		{
+			"title":"2P-22 : 탄소<b>섬유<\/b> 강화 복합소재의 화학적 재활용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890105053",
+			"description":"   탄소<b>섬유<\/b>강화플라스틱, CFRP, 에폭시 수지, 복합소재, 재활용, 화학적 분해 "
+		},
+		{
+			"title":"내진보강공법용 복합<b>섬유<\/b>패널을 활용한 다가구주택 필로티 기둥의 전단",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897315829",
+			"description":"Shear Performance Test of Piloti Columns on Multi-Family Housing Using Composite Fiber Panel for Seismic Retrofit In recent years, eart"
+		},
+		{
+			"title":"식이<b>섬유<\/b>와 콜레스테롤 대사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=791721341",
+			"description":"   Sodium alginate, Psyllium Husk, Pectin, Guar gum, Food science, Flavonoid, Dietary fiber, Chemistry "
+		},
+		{
+			"title":"2P-40 : 자동차 내장 인테리어 부품용 중공 천연<b>섬유<\/b> 적용 복합소재 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890105071",
+			"description":"   중공천연<b>섬유<\/b>, 경량화, 자동차 "
+		},
+		{
+			"title":"다공성 탄소나노튜브 <b>섬유<\/b>를 이용한 차세대 복합소재 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897131883",
+			"description":"A Study on the Next-generation Composite Based on the Highly Porous Carbon Nanotube Fibers In this study, we study fabrication methods "
+		},
+		{
+			"title":"강 및 탄소 <b>섬유<\/b>를 사용한 하이브리드 <b>섬유<\/b>보강 모르타르의 압축·휨성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890228873",
+			"description":"Improved Compressive·Flexural Performance of Hybrid Fiber-Reinforced Mortar Using Steel and Carbon Fibers 본 연구에서는 다른 "
+		},
+		{
+			"title":"압출 및 LFT 펠렛을 사용하여 제조한 탄소<b>섬유<\/b>\/ABS 복합재료의 여러 가지 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888807659",
+			"description":"Effects of ABS Resin Type and Carbon Fiber Content on Various Characteristics of Carbon Fiber\/ABS Composites Fabricated Using Extruded "
+		},
+		{
+			"title":"미강 식이<b>섬유<\/b>의 조성과 보수력 및 전분노화에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=772318551",
+			"description":"   Uronic acid, Materials science, Insoluble dietary fiber, Hemicellulose, Food science, Fiber, Differential scanning calorimetry, Comp"
+		},
+		{
+			"title":"1P-620 : 세리아-타이타니아 나노<b>섬유<\/b>의 제조 및 가시광에서 유기염료 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890104869",
+			"description":"   금속산화물 나노<b>섬유<\/b>, 광촉매, 유기염료분해 "
+		},
+		{
+			"title":"PP<b>섬유<\/b> 혼입량에 따른 세그먼트 라이닝의 화재저항성 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846901211",
+			"description":"Fire resistance assessment of segment lining with PP fiber amount 세그먼트 라이닝의 고품질\/고강성\/고강도화에 따라 "
+		},
+		{
+			"title":"해도형(海島型) PET 초극세<b>섬유<\/b>의 알칼리 가수분해에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=751202832",
+			"description":"   Mineralogy, Microfiber, Geology, Fiber "
+		},
+		{
+			"title":"탄소<b>섬유<\/b>시트로 보강한 펄트루젼 I형 FRP 부재의 휨 보강에 따른 계면응",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866451709",
+			"description":"Interfacial Stress Evaluation According to Flexural Reinforcement of Pultruded I-Shape Fiber Reinforced Polymer Plastic Member Reinforc"
+		},
+		{
+			"title":"모르타르 블록에 있는 탄소<b>섬유<\/b>의 특이 배열",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843051779",
+			"description":"Peculiar Alignment of Carbon Fibers in a Mortar Brick 탄소<b>섬유<\/b> 체적 비율이 0.5 %, 1.0 %, 1.5 % 그리고 2.0 %인 모르타르"
+		},
+		{
+			"title":"폴리프로필렌<b>섬유<\/b>보강 콘크리트의 성능평가 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420341485",
+			"description":"A Study on the Performance Evaluation of Polypropylene Fiber Reinforced Concrete 해저에 시공되는 터널은 일반시공보다 "
+		},
+		{
+			"title":"아크릴계 이온교환<b>섬유<\/b>를 이용한 수중 크롬(VI) 제거",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289685403",
+			"description":"Chromium(VI) Removal from Aqueous Solution using Acrylic Ion Exchange Fiber PAN 기반 아크릴계 <b>섬유<\/b>와 DETA 및 AlCl3･6H2O를 "
+		},
+		{
+			"title":"이산화탄소 포집능 향상을 위한 활성탄소 <b>섬유<\/b> 흡착제 제조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=176781692",
+			"description":"Preparation of Activated Carbon Fiber Adsorbent for Enhancement of CO2 Capture Capacity Test activated carbon fiber (ACF) was prepared "
+		},
+		{
+			"title":"충격에 의해 손상된 <b>섬유<\/b>강화 열가소성 수지 복합재료의 재활용 횟수에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896404690",
+			"description":"The influence of mechanical properties with the number of recycling of fiber-reinforced thermoplastic composites damaged by impact In t"
+		},
+		{
+			"title":"탄소<b>섬유<\/b>\/고무 복합재료의 압저항과 니켈입자의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890108468",
+			"description":"Evaluation of the Effect of Nickel Powder on the Piezoresistivity Behavior of Carbon-Fiber\/Rubber Composites 본 연구에서는 탄소"
+		},
+		{
+			"title":"2P-139 : PTFE 백필터의 미세먼지 여과 특성 향상을 위한 PTFE 나노<b>섬유<\/b> 접합 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890105167",
+			"description":"   적외선히터, 나노<b>섬유<\/b>, 필터, 접합, PTFE "
+		},
+		{
+			"title":"2P-133 : 하이브리드 이산화티타늄-셀룰로오즈 아세테이트 나노<b>섬유<\/b>의 광",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890105161",
+			"description":"   광촉매, 미세먼지 여과 필터, 질소산화물 저감, 나노 <b>섬유<\/b> "
+		},
+		{
+			"title":"정렬된 나노<b>섬유<\/b>를 이용한 내피 세포배양",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896664522",
+			"description":"Endothelial cell culture using aligned nanofibers  표제지\n요약\n목차\n제1장 서론 9\n제2장 실험재료 및 방법 11\n 2.1. "
+		},
+		{
+			"title":"정렬된 나노<b>섬유<\/b>를 이용한 내피 세포배양",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891384330",
+			"description":"Endothelial cell culture using aligned nanofibers  표제지\n요약\n목차\n제1장 서론 9\n제2장 실험재료 및 방법 11\n 2.1. "
+		},
+		{
+			"title":"정렬된 나노<b>섬유<\/b>를 이용한 내피 세포배양",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891375890",
+			"description":"Endothelial cell culture using aligned nanofibers  표제지\n요약\n목차\n제1장 서론 9\n제2장 실험재료 및 방법 11\n 2.1. "
+		},
+		{
+			"title":"정렬된 나노<b>섬유<\/b>를 이용한 내피 세포배양",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898539258",
+			"description":"Endothelial cell culture using aligned nanofibers  표제지\n요약\n목차\n제1장 서론 9\n제2장 실험재료 및 방법 11\n 2.1. "
+		},
+		{
+			"title":"자동차 경량화를 위한 탄소<b>섬유<\/b>강화 복합재료의 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290006330",
+			"description":"Trend of Carbon Fiber-reinforced Composites for Lightweight Vehicles 최근 전세계적으로 자원 고갈로 인한 에너지 절약"
+		},
+		{
+			"title":"폐닥나무 <b>섬유<\/b>를 혼입한 목모보드 제조 및 조습특성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843065954",
+			"description":"Manufacturing of Wood Wool Board Mixed with Waste Paper-Mulberry Fiber and Analysis of Humidity Characteristics 본 연구에서는 폐"
+		},
+		{
+			"title":"<b>섬유<\/b>제품의 지속가능한 관리를 위한 보관환경에 따른 특성변화 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898221590",
+			"description":""
+		},
+		{
+			"title":"2SI-7 : 연속유리<b>섬유<\/b>강화 PET 샌드위치 및 중공단면 복합재 중간재 제조 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890104203",
+			"description":"   연속유리<b>섬유<\/b>강화 PET 복합재 중간재, 샌드위치, 중공단면, 자동차 구조용 부품 "
+		},
+		{
+			"title":"자외선으로 손상을 유도한 피부<b>섬유<\/b>아세포에서 스피룰리나 유래 피코시",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882690750",
+			"description":"The Protective Effect of Spirulina-derived Phycocyanin on Dermal Fibroblasts Induced by UV Rays UV는 산화 스트레스를 유발하"
+		},
+		{
+			"title":"<b>섬유<\/b>패션산업의 코로나19 영향 및 대응방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=645559220",
+			"description":"  목차\n<b>섬유<\/b>패션산업의 코로나19 영향 및 대응방안 \/ 정성헌 1\n <b>섬유<\/b>패션산업 최근 동향 및 코로나19 영"
+		},
+		{
+			"title":"대구<b>섬유<\/b>, 우리 삶을 바꾸다 : 대구<b>섬유<\/b>박물관·국립민속박물관 공동기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897421344",
+			"description":"Daegu textiles, change our lives : co-exhibition of Daegu Textile Museum and National Folk Museum of Korea  표제지\n목차\n발간사 "
+		},
+		{
+			"title":"대구<b>섬유<\/b>, 우리 삶을 바꾸다 : 대구<b>섬유<\/b>박물관·국립민속박물관 공동기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898484138",
+			"description":"Daegu textiles, change our lives : co-exhibition of Daegu Textile Museum and National Folk Museum of Korea  표제지\n목차\n발간사 "
+		},
+		{
+			"title":"대구<b>섬유<\/b>, 우리 삶을 바꾸다 : 대구<b>섬유<\/b>박물관·국립민속박물관 공동기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897885481",
+			"description":"Daegu textiles, change our lives : co-exhibition of Daegu Textile Museum and National Folk Museum of Korea  표제지\n목차\n발간사 "
+		},
+		{
+			"title":"대구<b>섬유<\/b>, 우리 삶을 바꾸다 : 대구<b>섬유<\/b>박물관·국립민속박물관 공동기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897549701",
+			"description":"Daegu textiles, change our lives : co-exhibition of Daegu Textile Museum and National Folk Museum of Korea  표제지\n목차\n발간사 "
+		},
+		{
+			"title":"대구<b>섬유<\/b>, 우리 삶을 바꾸다 : 대구<b>섬유<\/b>박물관·국립민속박물관 공동기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897521056",
+			"description":"Daegu textiles, change our lives : co-exhibition of Daegu Textile Museum and National Folk Museum of Korea  표제지\n목차\n발간사 "
+		},
+		{
+			"title":"고성능 하이브리드 <b>섬유<\/b>보강 콘크리트의 압축 및 인장 거동에 대한 재료",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=848413482",
+			"description":"Material Model for Compressive and Tensile Behaviors of High Performance Hybrid Fiber Reinforced Concrete 콘크리트의 낮은 인장"
+		},
+		{
+			"title":"FRCC의 인발거동 및 인장성능에 미치는 <b>섬유<\/b>의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843279892",
+			"description":"The Effect of Fiber on the Pull-Out Behavior and Tensile Performance of FRCC 본 연구에서는 물성 및 형상이 다른 후크형 "
+		},
+		{
+			"title":"COVID-19에 따른 융복합 <b>섬유<\/b>·패션 전시산업의 실태와 향후 전망",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877140455",
+			"description":"Future Prospects of the Converged Textile and Fashion Exhibition Industry according to COVID-19 본 연구는 <b>섬유<\/b>·패션 전시회"
+		},
+		{
+			"title":"전도성 <b>섬유<\/b> 기반 전기용량성 압력센서를 이용한 실시간 앉은 자세 교정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887309230",
+			"description":"Implementation of Real-time Sedentary Posture Correction Cushion Using Capacitive Pressure Sensor Based on Conductive Textile 일상생"
+		},
+		{
+			"title":"탄소<b>섬유<\/b>시트로 보강한 I형 PFRP 휨부재의 단면 내 응력분포와 휨보강 효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822342321",
+			"description":"Sectional Stress Distribution and Flexural Strengthening Effect of I-Shape PFRP Flexural Members Reinforced with Carbon Fiber Sheet 이"
+		}
+	]
+}

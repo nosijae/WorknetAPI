@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:22 +0900",
+	"total":2945982,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>전기<\/b>기사 시험",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=419817335&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=1&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기사 시험 준비하면서 산업기사도 보려고하는데 산업기사만 합격했어도 <b>전기<\/b>기사 자격조건은 증발하지않고 그대로 잇는거죠?  <b>전기<\/b>기사 시험 준비하면서 산업기사도 보려고하는데 산업기사만 합격했어도 <b>전기<\/b>기사 자격조건은... "
+		},
+		{
+			"title":"<b>전기<\/b>공사산업기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=424244968&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=2&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>공사 산업기사에서 필기 합격하면 <b>전기<\/b>산업기사 필기 시험에서 과목 면제되나요? <b>전기<\/b>공사 산업기사에서 필기 합격하면 <b>전기<\/b>산업기사 필기 시험에서 과목 면제되나요? ㅇ 아니요 과목면제를 받을려면 실기까지 최종 합격해야... "
+		},
+		{
+			"title":"<b>전기<\/b>공학과 질문합니다",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1126&docId=421706833&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=3&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>공학과 질문합니다 <b>전기<\/b>기사가 최종목표이고 C언어와 회로도 잘... 국립대 <b>전기<\/b>공학과를 오게되었는데 1학년 필수 교양 대학수학 미적분을 정말 1도... 과연 <b>전기<\/b>공학과 옳읆가요.. 주위 교수님들과 어른들은 <b>전기<\/b>는 막상 실무나... "
+		},
+		{
+			"title":"<b>전기<\/b>공사 면허 등록",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40306&docId=422422237&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=4&search_sort=0&spq=0",
+			"description":"<b>전기<\/b> 전공사 면허 등록 하려구하는데요 1. 필요한 서류 맞는지... 3.<b>전기<\/b>공사 면허 등록시 <b>전기<\/b>공사사업단체에가서 신청할때 드는 비용은없나요 ? 4.... 한국<b>전기<\/b>공사협회 시\/도회 (신청인 본점소재지 관할) 에 제출해야 합니다. 접수를... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 자격증 경력수첩",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=422859310&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=5&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기사 자격증을 취득했는데 <b>전기<\/b>기술인협회 전가공사협회 두군데서 경력수첩을 발급하더라고요 근데 <b>전기<\/b>기사만 있고 <b>전기<\/b>공사 자격증은 없는데요 <b>전기<\/b>공사협회에서 발급받는 경력수첩이 필요하다던데 발급 가능하고 왜... "
+		},
+		{
+			"title":"<b>전기<\/b>관련 자격증",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=422373580&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=6&search_sort=0&spq=0",
+			"description":"제가 <b>전기<\/b>관련학과를 가서 자격증을 따려고 합니다. 그리고 자격증따서 개인사업도 할 예정입니다! <b>전기<\/b>기사,<b>전기<\/b>산업기사,<b>전기<\/b>공사기사,<b>전기<\/b>공사산업기사중 무슨 자격증을 따는게 가장 좋을까요?또 학과는 무슨 학과 가야하는지도... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 응시자격 궁금합니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=424090368&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=7&search_sort=0&spq=0",
+			"description":"... <b>전기<\/b>기사 자격증 취득을 하려고 하는데 <b>전기<\/b>기사 응시자격이 있더라구요. 그 중 학점은행제를 통해 <b>전기<\/b>기사... <b>전기<\/b>기사 응시자격을 보다 빠르게 갖출 수 있는 방법좀 알려주세요! 안녕하세요 교육 전문 상담 교육길라잡이 입니다... "
+		},
+		{
+			"title":"3000w <b>전기<\/b>모터 가격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=10&dirId=100507&docId=423720233&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=8&search_sort=0&spq=0",
+			"description":"... 3000w <b>전기<\/b>모터는 얼마정도 하나요? 2. 유튜브 긱블에서는 72v 3000w <b>전기<\/b>모터 사용하는거 같던데 72v 3000w <b>전기<\/b>모... 개인적으로 폐차하는 <b>전기<\/b>바이크에서 모터를 떼어내는 것이 저렴할거라 생각됩니다. 2. 취향에 맞게... "
+		},
+		{
+			"title":"<b>전기<\/b>분해",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=423612206&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=9&search_sort=0&spq=0",
+			"description":"... 하는 <b>전기<\/b>분해가 효율이 낮잖아요 그럼 수소연료전지에서 반응한뒤에 나오는 물로 또 <b>전기<\/b>분해하면 무한으로 <b>전기<\/b>... 님이 물로 <b>전기<\/b>분해를 해서 수소와 산소를 만들고 두2개를 태워서 열에너지를 만든다고 할때 여기서 나온... "
+		},
+		{
+			"title":"취업 품질관리vs<b>전기<\/b>공무",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=424688362&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=10&search_sort=0&spq=0",
+			"description":"... B회사는 <b>전기<\/b>공무직입니다 유지보수 집에서 30분거리입니다 둘다 자차로 움직였을때 기준입니다 품질관리와 <b>전기<\/b>... 그리고 <b>전기<\/b>공무직 유지보수 하는일이 무엇인지... <b>전기<\/b>공무직을 추천합니다. <b>전기<\/b>공무직을 하게되면 <b>전기<\/b>와... "
+		},
+		{
+			"title":"<b>전기<\/b>자전거 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=10&dirId=100501&docId=420541411&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=11&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>자전거는 여름에도 타고다닐수있겠죠? 막 덥거나 그러진않겠죠? 일반자전거와 다르고 <b>전기<\/b>자전거니까 안녕하세요. 잡학기술사입니다. 일반자전거에 비해서 <b>전기<\/b>자전거는 <b>전기<\/b>의 힘을 빌리기 때문에 당연히 힘이 적게 들고 땀도... "
+		},
+		{
+			"title":"<b>전기<\/b>산업기사 학점은행제",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110503&docId=422070517&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=12&search_sort=0&spq=0",
+			"description":"안녕하세요 <b>전기<\/b>산업기사, <b>전기<\/b>기사 자격증 취득을 목표로 하고 있는 직장인입니다. 자격증은 전산회계 1급, TAT 2급... 경영 전공으로 하게 된다면, <b>전기<\/b> 기사 자격증 취득을 할 수 있나요? 3. <b>전기<\/b> 전공 필수 과목을 듣게 된다면, 경영... "
+		},
+		{
+			"title":"<b>전기<\/b>차 선택 질문드립니다!",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=8&dirId=8110201&docId=422641231&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=13&search_sort=0&spq=0",
+			"description":"현재 저희 부모님이 <b>전기<\/b>차를 구매하려고 하는데요. ev6... <b>전기<\/b>차 보조금은 두 차량 각각 얼마 정도 보조금이 나오나요? 3. 위의 두 차량 외에도 <b>전기<\/b>차 어떤 것들이 현재 좋은 지도 말씀해 주시면 감사하겠습니다. EV6 <b>전기<\/b>차... "
+		},
+		{
+			"title":"<b>전기<\/b>로드자전거",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=5&dirId=509&docId=415318997&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=14&search_sort=0&spq=0",
+			"description":"트랙마돈sl6 동급모델과 <b>전기<\/b>로드 둘다 경험해보신분 조언좀 부탁드립니다 7,8kg 등급 정도의 로드와 <b>전기<\/b>로드. 글쓴이는 <b>전기<\/b>자전거와 카본로드자전거는 타봣고요. <b>전기<\/b>자전거랑 로드 비교가 안되는것이긴헌데 <b>전기<\/b>자전거는... "
+		},
+		{
+			"title":"횟집 <b>전기<\/b>용량 질문입니다",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=420785165&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=15&search_sort=0&spq=0",
+			"description":"... 1개 <b>전기<\/b> 순간온수기50리터 1개 자잘하게 밥통2개 전등 포스기 간판등등 이렇게 있는데 계약 용량이 20kw <b>전기<\/b>용량입니다 여기에 해당 에어컨을 설치하려고 하는데 <b>전기<\/b>용... &quot;술냉장고 6-7개 수족관 5개 냉동고 1개 <b>전기<\/b>... "
+		},
+		{
+			"title":"<b>전기<\/b>산업기사 학점은행제",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=423014828&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=16&search_sort=0&spq=0",
+			"description":"... 저는 <b>전기<\/b>포설로 일하고 있는 23살 청년입니다. 처음에는 <b>전기<\/b>기능사 를 공부 하려 했으나, 최대한 빨리... <b>전기<\/b>산업기사 를 내년에 취득후 학점은행제 를 더 충족시켜서 <b>전기<\/b>기사 도 연다라서 응시 할 생각입니다. 내년안으로... "
+		},
+		{
+			"title":"<b>전기<\/b>차장기렌트 괜찬을까요??",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=8&dirId=8110203&docId=424255638&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=17&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>차장기렌트 괜찮을까요? 이제는 대세가 <b>전기<\/b>차인거 같은데.... 아직은 아닐까요?? 아 고민되네요... <b>전기<\/b>차장기렌트를 할지 다른걸 할지요...  <b>전기<\/b>차장기렌트 알아보시나봐요! <b>전기<\/b>차장기렌트도 요새 굉장히 많이들 하시구 점차... "
+		},
+		{
+			"title":"인테리어 <b>전기<\/b>판넬",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=8&dirId=80802&docId=422921567&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=18&search_sort=0&spq=0",
+			"description":"온돌<b>전기<\/b>판넬을 시공하려고 하는데 최종 두께가 궁금해서요... 합판-&gt;<b>전기<\/b>판넬-&gt;보양?-&gt;데코타일 이렇게 시공하는걸로 알고있는데 <b>전기<\/b>판넬(두께)+보양?(두께)=두께 보양하는... 안녕하세요 <b>전기<\/b> 난방기 생산\/유통 전문 기업... "
+		},
+		{
+			"title":"<b>전기<\/b>자재상 창업",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40703&docId=424687615&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=19&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>자재상을 차려볼까 합니다. 엘이디 조명도 같이 판매하려고 합니다. 가게... <b>전기<\/b>공사업체에서 오랬동안 일해왔습니다. 자재상을 차리고 싶은 마음만... 완비) <b>전기<\/b>기사 자격증, <b>전기<\/b>공사및 자동제어기술 1톤트럭 2대 현금 1억... "
+		},
+		{
+			"title":"<b>전기<\/b>기사vs<b>전기<\/b>산업기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=423815202&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=20&search_sort=0&spq=0",
+			"description":"지금 <b>전기<\/b>산업기사 실기를 준비중인 28살 초보<b>전기<\/b>인입니다. 다름이아니라 <b>전기<\/b>산업기사 취득후에 <b>전기<\/b>기사를 다시 따야할까요? 아니면 소방설비기사나 산업안<b>전기<\/b>사를 따는게 나을까요? 조언좀 부탁드리겠습니다.... "
+		},
+		{
+			"title":"공군 통신전자<b>전기<\/b>, 일반병",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=6030203&docId=420681819&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=21&search_sort=0&spq=0",
+			"description":"제가 공군을 이번에 신청하려고 하는데 과가 통신전자<b>전기<\/b>와... 통신전자<b>전기<\/b>에서 힘든 보직을 받을 수도 있나요?? 자격증이 없이 가는 거면 통신전자<b>전기<\/b>와 일반병 중 어떤 것이 나은지 궁금합니다! 통신전자<b>전기<\/b> 대부분의 보직이 평타... "
+		},
+		{
+			"title":"가정용 <b>전기<\/b>매트 제품순위",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=5&dirId=501&docId=405167923&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=22&search_sort=0&spq=0",
+			"description":"거실에서 사용할 가정용 <b>전기<\/b>매트를 알아보는데요. 날씨가 추워져서 거실바닥에 가정용 <b>전기<\/b>매트를 깔아볼려고 합니다. 최근에 <b>전기<\/b>매트 구매하신 분들 중에서 가성비 좋은 가정용<b>전기<\/b>매트 추천 부탁드립니다.  안녕하세요?... "
+		},
+		{
+			"title":"<b>전기<\/b>안전관리 해임 질문이요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=424292814&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=23&search_sort=0&spq=0",
+			"description":"회사에서 제 <b>전기<\/b>기사 자격증으로 <b>전기<\/b>안전관리 중인데 제가 퇴직을 했습니다. 같은팀원중에 <b>전기<\/b>기능사가 있어서... 그회사에 <b>전기<\/b>안전관리자로 등록할거니 해임을 해달라고 했는데 <b>전기<\/b>기사 구할때까진 제껄로 쓰겠답니다... "
+		},
+		{
+			"title":"병원에 <b>전기<\/b>가 나간다면",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=612&docId=424393159&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=24&search_sort=0&spq=0",
+			"description":"병원 안에서 <b>전기<\/b>가 나간다면 어떻게 되나요? 1. 만약 태풍같은 자연재해 현상 때문에 <b>전기<\/b>가 나갔다고 합시다. 그러면 병원 안에선 미리 가지고 있던 <b>전기<\/b>를 끌어다 써서 다시 <b>전기<\/b>를 키나요? 2. 병원 내 모든 <b>전기<\/b>가 나간다면 바이탈도... "
+		},
+		{
+			"title":"가정용 <b>전기<\/b>보일러는",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=5&dirId=50104&docId=403499341&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=25&search_sort=0&spq=0",
+			"description":"산업용 <b>전기<\/b> 보일러는 대형 평수가 있던데 가정용 <b>전기<\/b> 보일러는 소형 평수 밖에 없는 건가요? 30-40평대 <b>전기<\/b>보일러... 가정용 <b>전기<\/b> 보일러를 알아보고 계시군요! 30~40평대 <b>전기<\/b> 보일러가 필요하다면 전문가에게 상담받아보세요.... "
+		},
+		{
+			"title":"<b>전기<\/b>공학과 <b>전기<\/b>기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=421681533&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=26&search_sort=0&spq=0",
+			"description":"... <b>전기<\/b>기사 준비하고있는 학생인데요 문득 공부하다 궁금한게 생겨서요.. 혹시 <b>전기<\/b>공학과 출신중에 <b>전기<\/b>기사... 안녕하세요 스터디채널입니다^^ <b>전기<\/b> 자격증의 경우 한전, 전력거래소, 대기업 등에 취업 시 우대사항을 받으며 공무원... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 kec개정된 과목이",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=411348357&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=27&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기사 Kec 개정됐다는게 전선의색 뭐 저압고압 절연저항 등등 됐다고 대강... 과목중 <b>전기<\/b>설비기술기준 및 판단기준 이 과목이 <b>전기<\/b>설비기술기준 로... <b>전기<\/b>설비기술기준 및 판단기준과 한국<b>전기<\/b>설비규정(KEC)와는 다릅니다... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 <b>전기<\/b>공사기사 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=422641552&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=28&search_sort=0&spq=0",
+			"description":"... 알다싶이 4과목이 겹치던데요 그럼 <b>전기<\/b>기사 5과목공부하고 <b>전기<\/b>공사기사용 과목1개만 공부하면되나요? 예를들어 <b>전기<\/b>기사,<b>전기<\/b>공사기사의 회로이론 과목 내용이 서로 다른가요 안녕하세요? 필기에서 과목면제가 되는 경우는 대개... "
+		},
+		{
+			"title":"<b>전기<\/b>산업기사 군경력 인정",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=419629115&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=29&search_sort=0&spq=0",
+			"description":"학과는 <b>전기<\/b>공학과 이고 대학교는 3년제입니다. 1학년을 마치고 군대에서 포병... 3학년때 <b>전기<\/b>산업기사를 따고 <b>전기<\/b>기사를 따려고 하는데 군경력이... 3학년때 <b>전기<\/b>산업기사를 따고 <b>전기<\/b>기사를 따려고 할 때는 군 경력이 인정되지... "
+		},
+		{
+			"title":"C타입 충<b>전기<\/b> <b>전기<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=411970397&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=30&search_sort=0&spq=0",
+			"description":"어제 휴대폰을 충전하려고 충<b>전기<\/b>를 만졌는데 손가락에 <b>전기<\/b>가 통했나봐요. 손가락이 잠깐 따끔거렸어요. 제가 동물... 그러다보니 콘센트가 많은데 그래서 그런지 제 방 <b>전기<\/b>가 나갔던적도 있구 그래서 이 이유 때문에 <b>전기<\/b>가 통했는지... "
+		},
+		{
+			"title":"<b>전기<\/b>기사시험",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=409212985&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=31&search_sort=0&spq=0",
+			"description":"4년제 <b>전기<\/b>공학과 재학중이고 이번에 3학년 되는데 <b>전기<\/b>기사 시험 응시... 우선 <b>전기<\/b>기사 응시자격은 아래와 같은데요~ 이 중 4년제 관련학과 전공자일... 후에 <b>전기<\/b>기사 시험 응시 가능할 것으로 예상됩니다 :) 하지만 더 정확한 판단을... "
+		},
+		{
+			"title":"<b>전기<\/b>소비전력",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=414464154&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=32&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>온돌장판 주문했는데 <b>전기<\/b>소비전력이 470w라고 합니더 가정집에서 하루12시간 사용시 한달 <b>전기<\/b>료는... 낮아지므로 <b>전기<\/b>요금을 줄 일 수 있습니다 일단은 최대전력으로 <b>전기<\/b>요금을 산출해 보면 하루 12시간 한달... "
+		},
+		{
+			"title":"<b>전기<\/b>설비에 대해서",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=417535796&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=33&search_sort=0&spq=0",
+			"description":"1.<b>전기<\/b>설비 취업전망 좋나요? 2.<b>전기<\/b>설비 따기 많이 어렵나요? 빠른답변좀 부탁드립니다 내공200걸게요 1. <b>전기<\/b>는 다른 분야보다 취업에 유리합니다 2. <b>전기<\/b>설비를 딴다는것이 무슨 의미일까요? <b>전기<\/b>관련 자격증인가요? <b>전기<\/b>설비는 주로... "
+		},
+		{
+			"title":"<b>전기<\/b>기사란?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=413493243&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=34&search_sort=0&spq=0",
+			"description":"... <b>전기<\/b>기사를 따게 되면 어떤 일을 하는건가요? 대표적인 기업이 있을까요? 공기업 빼고 부탁드립니다!! 2. <b>전기<\/b>기사와 <b>전기<\/b>공사 차이점? 1. <b>전기<\/b>기사를 따게 되면 어떤 일을 하는건가요? 대표적인 기업이 있을까요? 공기업 빼고... "
+		},
+		{
+			"title":"<b>전기<\/b>기능사 삼각함수 (수학)",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=422564379&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=35&search_sort=0&spq=0",
+			"description":"현대 <b>전기<\/b>기능사 준비중인데 수학에있어서 다른건 어느정도 이해가 가는데... 포기하고 <b>전기<\/b>이론을 들어갈까 하는데 여기서 궁금한게 1.<b>전기<\/b>기능사... 2.만약 운이좋게 <b>전기<\/b>기능사 자격증을 취득해 취업을한다면 실무에서 삼각함수를... "
+		},
+		{
+			"title":"에어컨<b>전기<\/b>요금 계산",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=423118492&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=36&search_sort=0&spq=0",
+			"description":"... 4시간 <b>전기<\/b>요금은 얼마정도 나오나요 가능하면 그걸 <b>전기<\/b>수학쪽으로... 주택용<b>전기<\/b>요금은 누진제가 적용이 되믈 에어컨 사용시 시간당... 주택용<b>전기<\/b>는 3단계 누진제로 되어 있어서 어느구간에 해당이 되는가에 따라 kWh당... "
+		},
+		{
+			"title":"공실<b>전기<\/b>요금 폭탄",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=411217711&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=37&search_sort=0&spq=0",
+			"description":"... 메인 <b>전기<\/b> 와 2층복도 <b>전기<\/b> 층전체를 사용하기에 제가 부담을 해야해서 <b>전기<\/b>를 가정용으로 변경하고 6월~11월까지... 1월부로 계약만료라 <b>전기<\/b> 정산 하는 중에 12월분과 1월분이 두달 40 만원이 나왔더라구요 공실이고 온풍기도... "
+		},
+		{
+			"title":"<b>전기<\/b>기능사 및 자격증들",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=413653092&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=38&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기능사 자격증을 준비 중 입니다. 대학 졸업 후 에 산업기사 까지 공부를... 말고 <b>전기<\/b> 기능사 같은 계열로 취득하면 취업에 좋은 자격증은 뭐가... 하려면 <b>전기<\/b>산업기사 또는 기사를 취득하세요 이외 <b>전기<\/b>관련 자격증은... "
+		},
+		{
+			"title":"<b>전기<\/b>기능사 필기 어떤가요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=407163972&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=39&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기능사 따려고하는데요 기초지식이 1도 없고 <b>전기<\/b>, 수학 등 아예 모르는상태인데 에듀윌이나 관련된 <b>전기<\/b>기능사... <b>전기<\/b>기능사 따려고하는데요 기초지식이 1도 없고 <b>전기<\/b>, 수학 등 아예 모르는상태인데 에듀윌이나 관련된... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 경력",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=411077261&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=40&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기사 취득후 아직 경력이 없습니다 백화점 <b>전기<\/b>시설관리 이런곳도 경력이... <b>전기<\/b>기사 취득을 축하합니다 이제는 경력을 쌓는것이 도움이 됩니다... 「국가공무원법」또는 「지방공무원법」에 따른 <b>전기<\/b>직렬에 보직된 자의 <b>전기<\/b>에... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 시험 노베이스",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=419370163&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=41&search_sort=0&spq=0",
+			"description":"현재 <b>전기<\/b>기사 준비중인데, 문과 나왔구요. 미분 적분도 졸업한지 좀 되서 다... 일단 이번 7월에 있는 <b>전기<\/b>산업기사 먼저 보고 내년 초에 바로 <b>전기<\/b>기사... <b>전기<\/b>기사를 취득하려면 고등학교 수학과정을 공부하는게 도움이 된다 2. 그럴... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 응시자격 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=410164150&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=42&search_sort=0&spq=0",
+			"description":"제가 4년제대학 환경원예과 졸업했는데 <b>전기<\/b>기사 응시자격중... <b>전기<\/b> 관련학과에 환경원예과도 포함되는건지 확실하지않아 지식인에 한번더 질문합니다 내공100겁니다 <b>전기<\/b>기사... 건축<b>전기<\/b>설비과, 건축<b>전기<\/b>시스템과, 고속<b>전기<\/b>철도과... "
+		},
+		{
+			"title":"<b>전기<\/b>기사를 따려고 하는데요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=414340535&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=43&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기사가 관련된 학과만 응시를 할수있다고 해서 혹시 반도체디스플레이학과도 <b>전기<\/b>기사 시험 볼수있나요? 반도체관련학과는 <b>전기<\/b>기사 시험에 응시가 가능합니다 <b>전기<\/b>기사 응시조건의 관련학과는 아래와 같으니 참고하세요... "
+		},
+		{
+			"title":"<b>전기<\/b>공사업 면허",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40703&docId=420085041&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=44&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>공사업 면허 취득후 3년 경과하여 기업진단시 타업종 보유와는 상관없이 <b>전기<\/b>공사업에 대한 실질자본금(1.5억)만... <b>전기<\/b>공사업 면허 취득후 3년 경과하여 기업진단시 타업종 보유와는 상관없이 <b>전기<\/b>공사업에 대한 실질자본금(1.5억)... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 <b>전기<\/b>공사기사 필기 면제",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=415887127&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=45&search_sort=0&spq=0",
+			"description":"내년에 <b>전기<\/b>과 학위취득으로 기사시험준비중인데요. <b>전기<\/b>기사랑 <b>전기<\/b>공사기사가 시험이 겹쳐서 <b>전기<\/b>기사를 취득하면 <b>전기<\/b>공사기사 필기가 면제라고 들었는데 혹시 <b>전기<\/b>공사기사를 취득해도 <b>전기<\/b>기사 필기가 면제인가요? <b>전기<\/b>기사를... "
+		},
+		{
+			"title":"<b>전기<\/b>차단기내려감 주택 정전",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=5&dirId=50104&docId=423190054&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=46&search_sort=0&spq=0",
+			"description":"오래된 주택 2층인데 제습기 전자렌지 <b>전기<\/b>포트 <b>전기<\/b>밥솥 냉장고 티비 에어컨 휴대폰충<b>전기<\/b> 등등 일반 가정에서... 전자렌지 <b>전기<\/b>포트 <b>전기<\/b>밥솥을 한 멀티탭에 꽂고 사용중인데 한동안 쓸일이없어 멀티탭 전원버튼 다 끄고 사용... "
+		},
+		{
+			"title":"<b>전기<\/b>경력 인정",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=406308294&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=47&search_sort=0&spq=0",
+			"description":"현재 공기업에서 스크린도어 유지보수 업무를 하고있는데 궁금한 부분 있어 질문해요 <b>전기<\/b> 기능사부터 <b>전기<\/b>기사 갖고 있고 추후 <b>전기<\/b>분야로 이직과 <b>전기<\/b>기능장이나 기술사 생각 있는데 위의 이직이나 자격증 응시하려면 <b>전기<\/b>경력이 n년... "
+		},
+		{
+			"title":"방재실 근무 <b>전기<\/b>경력",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=414459640&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=48&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>산업기사 취득후 경력쌓으려고 하는데요 자격증 응시조건 경력말고, <b>전기<\/b>경력수첩에 대한 경력쌓으려고 하는데 방재실에서 근무한것도 <b>전기<\/b>경력으로 인정이 될까요? 경력증명서 발급 받을때 '<b>전기<\/b>' 라는 단어가 포함되면 100퍼센트... "
+		},
+		{
+			"title":"<b>전기<\/b>공부 수학",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=422691384&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=49&search_sort=0&spq=0",
+			"description":"... 저찌해서 <b>전기<\/b>기사 공사기사는 취득했네요. 공기업 준비를하려고 하는데 수학이 너무 부족한거 같아서요 그 <b>전기<\/b>기사 취득 할때보는 <b>전기<\/b>수학 기초 이런건 내용이 많이... 아니면 <b>전기<\/b>수학책 이런거만 봐도 커버가 될까요?? 만약... "
+		},
+		{
+			"title":"빌라 공동<b>전기<\/b>요금",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=410666151&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=50&search_sort=0&spq=0",
+			"description":"... 공동<b>전기<\/b>요금을 받아야 한다고 공동<b>전기<\/b>요금이 연체되서 미납부시 <b>전기<\/b>사용계약해지예고서가 발송될거라고... 공동<b>전기<\/b>요금(계단<b>전기<\/b>요금)을 반장인 아주머님께 냈는데 시간이 지나도 계단에 <b>전기<\/b>가 하나도 안들어와서 여쭤보니... "
+		},
+		{
+			"title":"고졸 <b>전기<\/b> 자격증 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110408&docId=423990828&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=51&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>산업기사 응시자격을 갖춰 자격증을 취득한 후 이직을 하려고 하는 직장인입니다. <b>전기<\/b>산업기사 응시자격을... 제가 <b>전기<\/b>산업기사 응시자격을 준비할 수 있는 방법이 있을까요? 고졸이 <b>전기<\/b>산업기사 응시자격을 준비하는 방법에 대해... "
+		},
+		{
+			"title":"월세 <b>전기<\/b>요금",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=417803489&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=52&search_sort=0&spq=0",
+			"description":"... 지금 그 중 한 방이 빈 상황인데 집주인이 <b>전기<\/b>요금을... 쓰는 <b>전기<\/b>요금은 나누기 7을 하는게 맞는데 난방비는... 그리고 이 고지서로 <b>전기<\/b>요금과 난방&amp;온수비를 구별할 수... 실제 <b>전기<\/b>를 더 많이 사용하는 사람이 있고 더 적게 사용하는... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 자격증 응시 조건",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=408486037&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=53&search_sort=0&spq=0",
+			"description":"안녕하세요 <b>전기<\/b>기사 응시 자격에 대해 여쭤봅니다 2년제 전문대 신재생에너지 졸업 예정이구 <b>전기<\/b> 관련회사 경력 884일 (29개월) 있습니다 여기에 공군 <b>전기<\/b>기술직으로... 4년이니 <b>전기<\/b>기사 응시가 가능할까요 ? 그리고 기능사... "
+		},
+		{
+			"title":"<b>전기<\/b>사용량",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=5&dirId=50104&docId=416167136&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=54&search_sort=0&spq=0",
+			"description":"<b>전기<\/b> 사용량이 0으로 나오는데 당월 요금에 <b>전기<\/b>요금 3070원은 뭔가요??  주택의 경우 <b>전기<\/b>사용량이 &quot;0&quot;이면 기본요금만 내면 되고 <b>전기<\/b>사용량 49㎾h 이하는 티비 수신료 면제이므로 &quot;0원&quot;이라야 됩니다.(케이비에스) 위의 사진은 한전... "
+		},
+		{
+			"title":"<b>전기<\/b>산업기사 자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=422958498&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=55&search_sort=0&spq=0",
+			"description":"제가 <b>전기<\/b>기능사 취득 2년반 <b>전기<\/b>전공 대학 1학년하고 휴학 후 군대도 전공 특기로 지금 4달 복무 중인데 지금... 유튜버 <b>전기<\/b>왕 정원장입니다. <b>전기<\/b>산업기사 응시자격 : <b>전기<\/b>산업기사 1. 기능사(타 산업기사, 타 자격 포함) 이상 + 실무... "
+		},
+		{
+			"title":"인테리어공사 <b>전기<\/b>증설비청구",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=8&dirId=80802&docId=424196452&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=56&search_sort=0&spq=0",
+			"description":"치킨점 본사추천 추천인테리어공사을 한달전 공사했는데 <b>전기<\/b>가설공사비로2,750,000책정되 지불했는데 오늘 한전서 나와 <b>전기<\/b>을 용량보다많이써 할증료 내야되는처지입니다.저는분명 <b>전기<\/b>가딸려 <b>전기<\/b>을올리는 공사비로 2.750.000을... "
+		},
+		{
+			"title":"<b>전기<\/b> 자전거 질문이요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=10&dirId=100501&docId=407374894&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=57&search_sort=0&spq=0",
+			"description":"<b>전기<\/b> 자전거 어떻게 타는거죠? 그냥 일반 자전거랑... 일반 자전거랑 어떤게 다른 건가요 그리고 <b>전기<\/b> 자전거로 배민커넥트 배달 할 수 있나요 <b>전기<\/b>자전거는... <b>전기<\/b>자전거는 <b>전기<\/b>를 켜고 페달을 밟으면 <b>전기<\/b>... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 군대 경력",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=412575896&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=58&search_sort=0&spq=0",
+			"description":"제가 궁금한게 있어서 글을 쓰는데요 제가 <b>전기<\/b>기사를 따고 군대 <b>전기<\/b>쪽(통신) 쪽으로 가면 <b>전기<\/b>기사에 대한 경력을 군대에서 인정 받을수 있나요? <b>전기<\/b>기사를 취득하고 경력을 인정받을 수 있는 경우는 아래와 같습니다 아래 1번 다항에... "
+		},
+		{
+			"title":"손톱에도 <b>전기<\/b>가 통하나요??",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=111601&docId=424679519&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=59&search_sort=0&spq=0",
+			"description":"손톱의 하얀 부분은 세포 죽은 거라던데 죽은 세포에도 <b>전기<\/b>가 통하나요? 막 손톱 50센티 될 정도로 긴 사람이 손톱 끝에 <b>전기<\/b>를 대면 1. <b>전기<\/b>가 흘러서 온몸의 감전 됨 2. <b>전기<\/b>가 안통해서 감전 안되고 걍 열때문에 <b>전기<\/b> 닿은 부분에 불 남... "
+		},
+		{
+			"title":"<b>전기<\/b>기능사와 어울리는",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=418990750&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=60&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기능사를 취득후 산업기사 전까지 기능사를 더 따고... <b>전기<\/b>기능사와 관련한것 위주로 추천해주세요!  승강기기능사를 추천합니다 필기시험과 실기시험 모두 <b>전기<\/b>기능사... 작업인데 <b>전기<\/b>기능사에서 배우는 제어판 작엄을 할 줄... "
+		},
+		{
+			"title":"<b>전기<\/b>자전거 구매 예정입니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=10&dirId=100501&docId=405579240&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=61&search_sort=0&spq=0",
+			"description":"출, 퇴근용으로 <b>전기<\/b>자전거를 구입하려고 합니다. 지방에서 타고... 네이버에 <b>전기<\/b>자전거를 검색해보니까 정말 다양한 종류가 나오던데 삼천리나 알톤 등 유명 브랜드의 <b>전기<\/b>자전거가 아닌 그냥 이름없는 <b>전기<\/b>자전거를 구매하고 타다가... "
+		},
+		{
+			"title":"<b>전기<\/b>와 전류의 방향",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=412823607&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=62&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>=전자의 이동 이라고 배웠는데요 전자가 음에서 양으로 이동하고 전류는 양에서 음으로 이동하니까 [<b>전기<\/b>의 방향]과 [전류의 방향]은 반대인가요? 저는 <b>전기<\/b>랑 전류랑 같다고 생각하고 있어서 헷갈려서요 ㅜㅜ  <b>전기<\/b>에는 분명 극성이... "
+		},
+		{
+			"title":"<b>전기<\/b>내선공사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=421570913&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=63&search_sort=0&spq=0",
+			"description":"현재 21살이고 고졸에 <b>전기<\/b>기능사 자격증을 보유하고 있습니다. 경력1년을 쌓아서 <b>전기<\/b>산업기사 를 취득하는게 목표입니다. 그러다보니 <b>전기<\/b>내선공사 라는 업무에 관심이 생겼는데 부모님께서는 반노가다 라고 하시는데 <b>전기<\/b>내선공사... "
+		},
+		{
+			"title":"<b>전기<\/b>안전관리자, <b>전기<\/b>과장 등등",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=423027805&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=64&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기사를 공부 중인 학생입니다. <b>전기<\/b>기사 취득 후 실무 2년 채우면 모든 시설 관리가 가능한 <b>전기<\/b>안전관리자가 되잖아요? 여기서 <b>전기<\/b>안전관리자, <b>전기<\/b>과장은 어떤 차이가 있나요? 업무, 연봉 등 상세히 알려주시면 감사하겠습니다.... "
+		},
+		{
+			"title":"<b>전기<\/b> 자격증 질문드립니다",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=402910355&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=65&search_sort=0&spq=0",
+			"description":"<b>전기<\/b> 산업기사 있는 상태인데 공사산업기사가 4과목... <b>전기<\/b>관련해서는 보통 무슨 자격증들을 따나요? 안전?관리?쪽 따는게 맞아보이긴한데.. ( 추가질문 : <b>전기<\/b>산업기사... 주는게 아니라면 따는게 좋은건가요?) <b>전기<\/b>산업기사를... "
+		},
+		{
+			"title":"빌라 공사 <b>전기<\/b>사용",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=8&dirId=80902&docId=423796318&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=66&search_sort=0&spq=0",
+			"description":"... 방수공사하는데 <b>전기<\/b>랑 수도를 사용해야한다고 합니다. 공용<b>전기<\/b>나 수도가 없어서 저희 집에서 <b>전기<\/b>랑 수도를... 집주인분에게 청구하는건가요?여름이라 제습기랑 에어컨사용량이 늘어 <b>전기<\/b>도 많이 쓰는데 누진세도 무섭네요 <b>전기<\/b>... "
+		},
+		{
+			"title":"전원주택 <b>전기<\/b> 문제",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=8&dirId=80902&docId=423178846&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=67&search_sort=0&spq=0",
+			"description":"전원주택에 살고 있는데 얼마전부터 <b>전기<\/b>에 문제가 생겼습니다 거실 화장실 불을 키면, 화장실 옆방의 <b>전기<\/b>가 반짝 거리거나, 갑자기 집안의 모든 <b>전기<\/b>가 나갔다가 갑자기 켜지고, 방금도 <b>전기<\/b>가 나갈랑 말랑 하면서 방 조명이 흐려지더니... "
+		},
+		{
+			"title":"공장 <b>전기<\/b> 사용요금 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=407514078&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=68&search_sort=0&spq=0",
+			"description":"공업용 <b>전기<\/b>난로 인데 <b>전기<\/b> 사용량이 5300w 써잇는데 공장에서 하루 종일 썻을경우 <b>전기<\/b>요금이 얼마나 나올까요?... 산업용<b>전기<\/b>를 사용할 것인데요 산업용도 여러 종류가 있고 고압인 경우는 사용시간대별로 단가가 다르기... "
+		},
+		{
+			"title":"<b>전기<\/b>산업기사 과목",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=411552906&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=69&search_sort=0&spq=0",
+			"description":"<b>전기<\/b> 산업기사 준비하려는데 교제가 5개로 알고있는데 에듀윌에 6개가 있더라고요. <b>전기<\/b> 자기학 회로이론 전력공학 <b>전기<\/b>기기 <b>전기<\/b>응용 및 공사재료 <b>전기<\/b> 설비 기술 기준 마지막에 <b>전기<\/b>설비 기술기준 구매 해야할까요?... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 경력관련 질문입니다",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=406309324&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=70&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기사 취득후 현재 <b>전기<\/b>공사회사를 다니고 있습니다 회사에서 제 자격증으로 <b>전기<\/b>공사협회에 가입을 했는데 후에 제가 안전관리나 시설물관리선임할때 <b>전기<\/b>공사 실무경력도 인정받을 수 있는지 궁금합니다. 네 실무경력으로 인정을... "
+		},
+		{
+			"title":"<b>전기<\/b> 관련 자격증",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1122&docId=403020472&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=71&search_sort=0&spq=0",
+			"description":"... <b>전기<\/b>기능사 자격증 취득했고 내년에 승강기 기능사, 전자기기 기능사 취득을 목표로 하고 있습니다. <b>전기<\/b>와 관련있는, <b>전기<\/b> 쪽으로 취업할때 도움이되는 자격증에는 무엇이... <b>전기<\/b> 일을 하는데 승강기나 전자기기 자격증이 필요 없고... "
+		},
+		{
+			"title":"심야<b>전기<\/b>온돌과 온수",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=8&dirId=80902&docId=419033038&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=72&search_sort=0&spq=0",
+			"description":"... 30년전 건축된 집으로 이사 오면서 심야<b>전기<\/b>온돌방식을 접하고 온수 사용에 궁금한 점이 있어서 지식인을 찾아보고... 심야<b>전기<\/b>보일러를 함께 사용하고 있다고 했는데 이 심야<b>전기<\/b>온돌과 온수사용은 별개인가요? 심야<b>전기<\/b>온돌... "
+		},
+		{
+			"title":"<b>전기<\/b>기능사 취득 후 실무경력",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=419362049&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=73&search_sort=0&spq=0",
+			"description":"... 제가 <b>전기<\/b>기능사 공부를 준비하려고 하는데 현재 수배전반 이런 <b>전기<\/b> 쪽 관련된 회사에서 경리직으로 근무하고 있거든요! 근데 <b>전기<\/b>기능사 취득 후 실무경력 1년이 있으면 <b>전기<\/b>산업기사를 취득할 자격이 충족된다고 봤는데 <b>전기<\/b> 관련... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 취득후 진로고민",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=417036468&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=74&search_sort=0&spq=0",
+			"description":"제가 비전공자로 공기업 준비하기위해 <b>전기<\/b>기사, <b>전기<\/b>공사기사, 소방설비기사(<b>전기<\/b>분야)를 땄는데 공기업을 포기하고... <b>전기<\/b>기사와 <b>전기<\/b>공사기사를 가지고 있다면 <b>전기<\/b>쪽으로 방향을 잡으세요 소방보다는 <b>전기<\/b>쪽 취업문이 넓고... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 초급에서 중급으로",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=404130028&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=75&search_sort=0&spq=0",
+			"description":"제가 알기론 <b>전기<\/b>기사를 취득후에 2년의 경력을 쌓아야 <b>전기<\/b> 기술인 협회에서 중급기술자로 인정이 되는 것으로... 인정하는 <b>전기<\/b> 경력을 쌓을수 있는 회사인지 알 수 있는 방법이 있나요..? <b>전기<\/b>관련 회사면 됩니다 경력은 아래 내용을... "
+		},
+		{
+			"title":"<b>전기<\/b>산업기사 자격문의",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=416368799&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=76&search_sort=0&spq=0",
+			"description":"제가 지게차자격증을3년전에따고 <b>전기<\/b>기능사를 이번에 땄는데 <b>전기<\/b>기사 자격증을따려는데자격이 되는건가요 아님<b>전기<\/b>기능사 실무경력이 있어야 하나요?<b>전기<\/b>기능사자격증만있고1년뒤딸수잇나요  안녕하세요. 유튜버 &quot; <b>전기<\/b>왕... "
+		},
+		{
+			"title":"9급 <b>전기<\/b>시설관리직",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40601&docId=406267038&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=77&search_sort=0&spq=0",
+			"description":"9급 <b>전기<\/b> 시설관리직을 준비하려는 학생입니다. 조금 헷갈리는게 있는데요 9급 시설관리직 하고 9급 <b>전기<\/b>시설관리직이 다른건가요?? 저는 9급 <b>전기<\/b> 시설관리직으로... <b>전기<\/b>시설은 최근에 만들어진 직렬입니다. 시설관리직과... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 <b>전기<\/b>기능사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=419128866&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=78&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기사를 응시가능한데 기초가 아무것도 없거든요? 계산기도 쓸줄모르고 그래서 그냥 <b>전기<\/b>기능사를 따서 기초를 다지고 기사를 따는게 나을까요?  네, 질문자님. <b>전기<\/b>기사... 질문자님께서 아예 기초가 없으시다면 <b>전기<\/b>기능사부터... "
+		},
+		{
+			"title":"<b>전기<\/b>공사기사 단답문제",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=404315808&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=79&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기사 자격증 취득하고 <b>전기<\/b>공사기사 실기를 준비중입니다. <b>전기<\/b>기사는 앤트미디어, 공사기사는 동일출판사로 준비하고 있는데 <b>전기<\/b>기사와 공사기사 단답문제 중에 겹치는 문제가 좀 많더라구요. 그래서 외웠던 내용을 다시... "
+		},
+		{
+			"title":"<b>전기<\/b>차 장기렌트카 방법좀",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=8&dirId=8110203&docId=421934133&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=80&search_sort=0&spq=0",
+			"description":"지금 <b>전기<\/b>차 장기렌트카 하려고 알아보고 있습니다. 아무래도 환경이나 기름값을 생각을 하면은 <b>전기<\/b>차 이용을 하는게 답일거 같네요. 집에 태양광이 있어서 <b>전기<\/b>세에 대한 부담이 없는데 혹시 집에서 충전이 가능한지. 그리고 <b>전기<\/b>차... "
+		},
+		{
+			"title":"<b>전기<\/b>관련 자격증",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=403399022&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=81&search_sort=0&spq=0",
+			"description":"... <b>전기<\/b>분야 자격증 (<b>전기<\/b>산업기사, <b>전기<\/b>공사산업기사) 등 응시자격이나 이런것들 자세히 정리해주시면... 소방 관련된것도 딸 수 있는거 있으면 알려주세요 3년제 전문대 재학중이면 3학년이 되면 <b>전기<\/b>산업기사, <b>전기<\/b>공사산업기사 등... "
+		},
+		{
+			"title":"<b>전기<\/b>저항이 뭔가요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1115&docId=422540123&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=82&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>저항이 작으면 초전도체와 자석 사이가 멀어지나요? <b>전기<\/b>저항에 개념이 정확히 뭔가요  <b>전기<\/b>저항은 <b>전기<\/b>력에 대한 저항으로 보통 전자회로에 적용되는 말. 기본적으로 <b>전기<\/b> 회로에서 전류가 흐르는 것을 방해하는 정도를 얘기한다.... "
+		},
+		{
+			"title":"<b>전기<\/b> 직업 자격증 종류",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=420808877&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=83&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>설비, <b>전기<\/b>공사, 소방<b>전기<\/b>등 정확히 하는 일 알고싶습니다. 이런 <b>전기<\/b>설비,<b>전기<\/b>공사,소방<b>전기<\/b> 관련직업의 명칭과 관련 자격증등 자세히 알려주시면 좋겠습니다. 1.각 관련 직업 명칭 2.각 직업이 하는 일 3.관련 자격증 전부... "
+		},
+		{
+			"title":"<b>전기<\/b>장판 <b>전기<\/b>요금",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=415023596&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=84&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>장판 한달동안 하루에 8시간씩썼는데 <b>전기<\/b>요금이 40만원대가 나왔어요..... <b>전기<\/b>장판의 경우 1인용은 70~80W, 2인용은 160~180W정도 됩니다. 또한... 가정집 <b>전기<\/b>요금 기준으로 약 6천원정도의 요금이 추가됩니다. 40만원정도... "
+		},
+		{
+			"title":"PAS<b>전기<\/b>자전거 추천 및 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=10&dirId=100501&docId=408332659&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=85&search_sort=0&spq=0",
+			"description":"1.Pas<b>전기<\/b>자전거랑 일반자전거랑 무슨 차이인가요? 2.PAS<b>전기<\/b>자전거는 면허가 필요없나요? 3.Pas<b>전기<\/b>자전거 추천좀요 4.제가 면허를 딸 생각이 아예 없어서 PAS<b>전기<\/b>자전거로 배달커넥트 를 할려고 하는데 괜찮나요?  1.... "
+		},
+		{
+			"title":"<b>전기<\/b>산업기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=413841598&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=86&search_sort=0&spq=0",
+			"description":"제가 자동차관련 학과를 나왔고 지금 <b>전기<\/b>쪽으로 진로를 바꿔서 자격증 준비중인데 자동차도 <b>전기<\/b>관련학과로 쳐주나요? 관련학과 졸업이면 산업기사 응시조건이 된다고 봐서요 안녕하세요. 유튜버 &quot; <b>전기<\/b>왕 정원장 &quot; 입니다. <b>전기<\/b>산업기... "
+		},
+		{
+			"title":"<b>전기<\/b>요금",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=411552666&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=87&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>히터 온수매트 어느것이 더 <b>전기<\/b>요금이 나갈까요? 통계적으로 보면... 어느쪽이 <b>전기<\/b>를 더 적게 먹고 더 따뜻하냐, 그런것은 없습니다 .사용한... 매트나 <b>전기<\/b> 장판은 아래 위에 요나 이불을 깔고 덮어 두면 보온이 됩니다 . 반면에... "
+		},
+		{
+			"title":"<b>전기<\/b>공학 전자공학",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=406157579&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=88&search_sort=0&spq=0",
+			"description":"... 적었는데 <b>전기<\/b>공학이 더 매력있고 메리트가 있는것 같아서 생기부 방향을 바꾸려는데요 정보통신과 <b>전기<\/b>분야는 관련이 너무 없나요?? 그리고 <b>전기<\/b>공학에도 정보통신을 배우는 분야가 있나요? 정보통신과 <b>전기<\/b>분야는 다릅니다... "
+		},
+		{
+			"title":"심야<b>전기<\/b> <b>전기<\/b>요금",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=410081808&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=89&search_sort=0&spq=0",
+			"description":"심야<b>전기<\/b> 요금이 2-3만원 정도 나오다가 최근 두달 10만원정도가 나왔는데 몇일전 <b>전기<\/b>차단기가 계속 내려가서 집주인이 다른 <b>전기<\/b>차단기로 교체를 하였고 그 후에는 차단기가 내려가지 않았습니다.. 혹시 <b>전기<\/b>요금이 많이 나온 것과... "
+		},
+		{
+			"title":"복도식 아파트 옆집 <b>전기<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=8&dirId=80902&docId=422737653&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=90&search_sort=0&spq=0",
+			"description":"... 일주일전인가 <b>전기<\/b>를 나오게 하더니 공사 끝나고도 계속 현관문 열고 보면 <b>전기<\/b> 불이 켜져 있습니다 <b>전기<\/b>를 우리집에서 끌어다가 쓸수있는건가여? 아직 입주도 안했는데 <b>전기<\/b> 요금 누가내나여? 오후작업공사 끝나고 왜 불을 켜놓고... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 취득후 선임가능 용량",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=411337375&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=91&search_sort=0&spq=0",
+			"description":"... <b>전기<\/b>기사 + 경력 2년이면 무제한 선임 가능한걸로 알고있는데요 <b>전기<\/b>산업기사 취득후 1년 경력 쌓은뒤, <b>전기<\/b>기... (<b>전기<\/b>산업기사 -&gt; 경력1년 -&gt; <b>전기<\/b>기사 -&gt; 경력1년) = 경력2년? 아 그리고 <b>전기<\/b>산업기사 응시자격에 '기능사 + 군... "
+		},
+		{
+			"title":"<b>전기<\/b>랑통신이 관계있는건가요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=410312994&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=92&search_sort=0&spq=0",
+			"description":"안녕하세요 <b>전기<\/b>랑 통신에대하여 질문여쭤봅니다 저는 <b>전기<\/b>쪽으로 진로를 잡은23청년입니다. 최근 중소기업 <b>전기<\/b>회사... 가고싶거든요 <b>전기<\/b>랑 통신 관계가 있나요?? 제가 쓸데없이 시간낭비 하는가 해서 여쭤봅니다 <b>전기<\/b>랑 통신은 유사해... "
+		},
+		{
+			"title":"수소<b>전기<\/b>차 원리",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1115&docId=423642302&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=93&search_sort=0&spq=0",
+			"description":"수소<b>전기<\/b>차 원리를 물,산소,수소,<b>전기<\/b>,연료전지를 활용해 이야기해주세요  수소<b>전기<\/b>차라는 기계가 있나요? 수소는 4행정 사이클 기관 아닌가요? <b>전기<\/b>차는 <b>전기<\/b>모터를 돌려서 주행할거고요."
+		},
+		{
+			"title":"<b>전기<\/b>기사 자격증 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=410425741&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=94&search_sort=0&spq=0",
+			"description":"3년제 <b>전기<\/b>학과 졸업 했구요 <b>전기<\/b>기능사 보유중입니다. <b>전기<\/b>산업기사는 응시자격이 되는걸로 확인 했는데 취업면에서는 아무래도 <b>전기<\/b>기사를 따는게 좋을듯 해서요 산업기사... "
+		},
+		{
+			"title":"<b>전기<\/b> 관련 자격증",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=400860153&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=95&search_sort=0&spq=0",
+			"description":"... 하는데, <b>전기<\/b> 관련 자격증이랑 공대 계열 관련 직업에 필수로 필요한 자격증 같은게 있을까요? 1. <b>전기<\/b> 관련 자격증... 산업안전산업기사 같은걸로요) <b>전기<\/b>분야의... 건축<b>전기<\/b>설비기술사 발송배<b>전기<\/b>술사 <b>전기<\/b>공사기사 <b>전기<\/b>공사산업기사... "
+		},
+		{
+			"title":"<b>전기<\/b>산업기사 필기 책추천",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=419214184&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=96&search_sort=0&spq=0",
+			"description":"올해 초에 <b>전기<\/b> 기능사 필,실기 다 따고 <b>전기<\/b> 산업기사 준비할려하는데 무슨 교재를 써야할지 모르겠네요. <b>전기<\/b>산... 질문자님은 <b>전기<\/b>산업기사를 준비 중이시군요? 우선 책 추천을 요청 주셨는데, 저희 성안당에서 발간된 참! 쉬움... "
+		},
+		{
+			"title":"<b>전기<\/b>기사 <b>전기<\/b>공사기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=397731910&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=97&search_sort=0&spq=0",
+			"description":"<b>전기<\/b>기사 자격증을 취득하면 <b>전기<\/b>공사기사 필기 몇 과목 면제인데 <b>전기<\/b>공사기사 자격증 취득하면 <b>전기<\/b>기사 필기 몇 과목 면제되나요?? <b>전기<\/b>기사 시험과목 <b>전기<\/b>공사기사 시험과목 전자기학 <b>전기<\/b>기기 전력공학 회로이론(제어공학)... "
+		},
+		{
+			"title":"<b>전기<\/b>설비 경력 인정",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=404147169&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=98&search_sort=0&spq=0",
+			"description":"안녕하세요 <b>전기<\/b>기사 자격증을 보유하고 있는 사람입니다... 예를들어 <b>전기<\/b>전자통신연구원 2개월도 2년경력을 채우기 위해서 사용할수있을까요? <b>전기<\/b>관련 일이면 모두 인정이... 됩니다 <b>전기<\/b>전자통신연구원인 경우 80%정도만 인정이 될... "
+		},
+		{
+			"title":"원룸 <b>전기<\/b>순간온수기 <b>전기<\/b>세",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=8&dirId=80902&docId=416415824&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=99&search_sort=0&spq=0",
+			"description":"... 13일간의 <b>전기<\/b>사용량에 대한 고지서가 날라와서 봤는데 297kwh를 사용해서 <b>전기<\/b>세가 46000 정도가 나왔습니다. <b>전기<\/b>... 제가 사용하는 것 중에 그나마 <b>전기<\/b> 잡아 먹을 만한 게 <b>전기<\/b>판넬, <b>전기<\/b>온수기, 하이라이트(인덕션), <b>전기<\/b>포트... "
+		},
+		{
+			"title":"<b>전기<\/b>기술사 취득",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110311&docId=406812884&qb=7KCE6riw&enc=utf8&section=kin.qna&rank=100&search_sort=0&spq=0",
+			"description":"안녕하세요 저희 아버지가 <b>전기<\/b> 기술사이신데 저는... 따셨는데 <b>전기<\/b>기술사가 대략 어떤건지 급 궁금해져서... 그냥 <b>전기<\/b>엔지니어? 이렇게 썼는데 정확히 어떤일을 하고... 정보 <b>전기<\/b>철도기술사 자격증에 대해 알아보겠습니다.... "
+		}
+	]
+}

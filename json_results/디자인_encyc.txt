@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:36 +0900",
+	"total":46262,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=960359&cid=47310&categoryId=47310",
+			"description":" 사용 목적에 따라 조형 작품이나 제품의 형태, 색상, 장식 등에 대해 계획 또는 도안하는 것.  공부를 하고 있었는데 책상 의자가 키에 맞지 않아서 그런지 불편해서 허리도 아프고 집중도 되지 않았어. 그래서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1779_000_1\/20120405003907893_4PX2DRREB.jpg\/bh8_80_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1086152&cid=40942&categoryId=33074",
+			"description":" 주어진 목적을 조형적으로 실체화하는 것.  의장(意匠) ·도안을 말하며, <b>디자인<\/b>이라는 용어는 지시하다·표현하다·성취하다의 뜻을 가지고 있는 라틴어의 데시그나레(designare)에서 유래한다. <b>디자인<\/b>은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2083795&cid=44415&categoryId=44415",
+			"description":"개념 및 정의] <b>디자인<\/b>(設計, design)이란 주어진 목적을 조형적으로 실체화하는 것으로, 의장(意匠)이나 도안을 말한다. <b>디자인<\/b>이라는 용어는 지시하다·표현하다·성취하다의 뜻을 가지고 있는 라틴어의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140509150103477_1AZP29DKS.jpg\/z10_term54_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=544877&cid=46657&categoryId=46657",
+			"description":" 형태·색채·재질·차원·비례 등과 같은 여러 가지 조형요소(또는 시각요소) 가운데에서 의도적으로 몇 가지를 선택하여 어떤 주어진 목적에 맞게 구성하는 창조활동. [내용] ‘설계하다’, ‘안(案)을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=894103&cid=42642&categoryId=42642",
+			"description":"<b>디자인<\/b>이라는 용어는 ‘지시하다’ ‘표현하다’ ‘성취하다’의 뜻을 가지고 있는 라틴어의 ‘데시그나레(designare)’에서 유래한다. 좁은 뜻으로는 도안 장식이라고 해석되지만, 넓은 뜻으로는 모든 조형... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=390953&cid=42827&categoryId=42827",
+			"description":"어의(語義): 영어의 <b>디자인<\/b>(design)을 그대로 사용한 것으로, 프랑스어의 데생(dessin, 素描), 이탈리어의「 데세니요」(disegno, 意匠·原案), 라틴어의 「데시그나레」(designare, 表示한다)라는 말에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451726&cid=51661&categoryId=51662",
+			"description":"[<b>디자인<\/b>] 표시한다, 기호를 나타낸다는 어원을 가진 <b>디자인<\/b>은 생활에 필요한 조형품을 목적에 맞게 계획, 고안하며 미적 감각을 살려낸 것이다. 제품의 기능과 적절한 재료, 그리고 조화가 잘 어우러져야... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1921\/E3140413AF1F13E329B30F7BE34C4BC3841_muploader_p_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=276732&cid=42822&categoryId=42822",
+			"description":"<b>디자인<\/b>의 요소로는 색채 · 무늬 · 감촉 · 실루엣 · 디테일 등이 포함된다. 때로는 소재 · 색채 · 무늬 · <b>디자인<\/b>으로 받아들이게 될 경우도 있으며, 여기서는 <b>디자인<\/b>이란 형을 가리키고 있다. <b>디자인<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5672069&cid=51399&categoryId=51399",
+			"description":"즉석필름 여백에 캐릭터 <b>디자인<\/b>이 그려져 있는 필름입니다. 필름여백에 귀여운 캐릭터들이 그려져 있어 일반 필름보다 예쁘고 화려하며 10장의 즉석필름들이 전부 다른 <b>디자인<\/b>으로 이루어져 있습니다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_5\/20180913115747325_R6B3QB32H.gif\/fh2_243784_i1.gif?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1649271&cid=42627&categoryId=42627",
+			"description":"애니메이션에서는 콘셉트 <b>디자인<\/b>, 캐릭터 <b>디자인<\/b>, 배경 <b>디자인<\/b>, 소품 <b>디자인<\/b>, 색채 <b>디자인<\/b> 등이 있다. 2. 작품의 구조를 고려해, 하나의 상황으로 정리하는 것. 기본 설정, 문예 설정, 소품 설정, 캐릭터 설정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=259810&cid=42635&categoryId=42635",
+			"description":"라틴어의 디시그나레(designare, 계획하다, 설계하다)에서 파생한 말로서 광의로는 이루고자 하는 사물과 행위를 위한 준비 ∙ 계획의 결정과정을 지칭하나, 미술분야에서는 소재의 조합과 구조, 전체의 형체... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3416745&cid=58440&categoryId=58442",
+			"description":"[성상] 내용물을 함유한 미황색의 경질캅셀 [섭취방법] 1일 1회, 1회 4캡슐을 섭취한다. [주된 기능성] [판토텐산]①지방, 탄수화물, 단백질 대사와 에너지 생성에 필요 [섭취 시 주의사항] 특이체질 등 알러지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6046540&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] ① 주어진 목적을 조형적으로 실체화하는 것. 계획 · 의도 · 고안 · 구상 · 설계 · 의장 · 도장 등의 의미를 가짐. ② 프랑스어 데생(dessin, 素描), 이탈리어의 데세니요(desegno... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5767116&cid=64628&categoryId=64628",
+			"description":"의상, 공업 제품, 건축 따위 실용적인 목적을 가진 조형 작품의 설계나 도안 북한의 철도용어형성도안, 형성 구상대로 형성된 경우를 그대로 옮긴 도안",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%94%94%EC%9E%90%EC%9D%B8",
+			"description":"<b>디자인<\/b> ( design , 문화어: 데자인)은 동사와 명사로 함께 쓰일 수 있으며, 명사로서의 <b>디자인<\/b>은 다양한 사물 혹은 시스템의 계획 혹은 제안의 형식 또는 물건을 만들어내기 위한 제안이나 계획을 실행에 옮긴... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=947235",
+			"description":"<b>디자인<\/b> 모음",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=86471",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"예술체육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2054489&cid=44415&categoryId=44415",
+			"description":"예술체육은 큰 범주의 ‘예술학(藝術學, science of arts)’이 있고, 하위에는 시각예술인 ‘미술학(美術學, art plastic)’과 ‘사진학(寫眞學, photography)’, 응용예술 분야인 ‘<b>디자인<\/b>(設計... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140509150007780_M3B5ZGA38.jpg\/z10_term3_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b> 마케팅",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2274814&cid=42266&categoryId=51098",
+			"description":"마케팅 관점에서 보면 <b>디자인<\/b>의 창조적 활동이 기업이나 브랜드의 이윤에 얼마나 기여했는지 숫자로 나타내기는 어렵다. 하지만 <b>디자인<\/b>은 신제품 개발과 커뮤니케이션 등의 <b>디자인<\/b> 활동을 통해 기업과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>에서 보는 전략적 기능",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2274813&cid=42266&categoryId=51098",
+			"description":"[<b>디자인<\/b>과 마케팅] <b>디자인<\/b>은 디자이너의 감각과 역량에만 의존하는 것이 아니다. 좋은 <b>디자인<\/b>은 좋은 기획에서 비롯한다. 시장의 속성으로 볼 때 <b>디자인<\/b>과 마케팅은 밀접한 관계를 가지고 있다. 그러나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"설계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112187&cid=40942&categoryId=32339",
+			"description":" 건축물 ·교량 등의 구조물 또는 각종 기계 ·장치 등의 요구 조건을 만족시켜, 합리적이고 경제적으로 만들기 위하여 계획을 종합한 후 설계도를 작성하고 구체적으로 내용을 명시하는 일을 말한다. 건축... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바우하우스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451774&cid=51661&categoryId=51662",
+			"description":"[바우하우스] 바우하우스는 1919년부터 1933년까지 독일에서 설립 · 운영된 학교로, 미술과 공예, 사진, 건축 등과 관련된 종합적인 내용을 교육하였다. 발터 그로피우스에 의해 설립되었으며 주된... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1085\/531C04F3A31FF3EC29E3636313F02AB3244_muploader_k_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"<b>디자인<\/b> 내용 정리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451783&cid=51661&categoryId=51662",
+			"description":"[<b>디자인<\/b> 내용 정리] <b>디자인<\/b>에 관한 내용을 정리한다. <b>디자인<\/b>의 정의, <b>디자인<\/b>의 3요소, 시각 전달 <b>디자인<\/b>, 여러 가지 시각 <b>디자인<\/b>(문자, 포장지, 일러스트레이션, 포스터 등)에 대해 내용을 정리한다. <b>디자인<\/b>... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1347\/531C04F3A31FF3EC29E3626E53CF8613FC5_muploader_j_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"<b>디자인<\/b>의 정의와 3요소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451773&cid=51661&categoryId=51662",
+			"description":"[<b>디자인<\/b>의 정의와 3요소] 생활에 필요한 조형품을 미적 감각을 살려 목적에 맞게 계획, 고안하는 것을 말한다. <b>디자인<\/b>의 어원과 <b>디자인<\/b>의 3요소 기능성, 양질성, 심미성에 대해 알아본다.(동영상 출처... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1659\/E3140413AF1F13E329B36F70E35C6DC3748_muploader_f_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"구상",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1647891&cid=42627&categoryId=42627",
+			"description":"만화에서는 캐릭터 <b>디자인<\/b>, 배경 <b>디자인<\/b> 등이 있다. 3. 작품을 구상하는 일. 또는 작품의 내용에 따른 그림을 그리는 과정. 줄거리 설정, 캐릭터 설정, 색채 설정, 소품 설정 등으로 세분할 수 있고 설정 단계에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"평면 구성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451784&cid=51661&categoryId=51662",
+			"description":"[평면 구성] 점, 선, 면 등의 요소를 활용하여 화면을 배치 · 구성하는 것을 평면 구성이라고 한다. 평면 구성의 제작 과정을 통해 색의 단순화에 대해 알아보자.(동영상 출처 : EBS 동영상 (2008. 12. 5.))",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1308\/E3140413AF1F13E329B37F71E38C73C3F44_muploader_p_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"최경원",
+			"link":"https:\/\/terms.naver.com\/list.naver?searchId=ncc_au30",
+			"description":"[한국의 생활 <b>디자인<\/b>], [20세기 <b>디자인<\/b> 아이콘 : 산업디자이너], [디자이너 열전]에 관한 백과 정보 제공.",
+			"thumbnail":""
+		},
+		{
+			"title":"오재은",
+			"link":"https:\/\/terms.naver.com\/list.naver?searchId=au5909",
+			"description":"[세계 애니메이션 백과]에 관한 백과 정보 제공.",
+			"thumbnail":""
+		},
+		{
+			"title":"시각 전달 <b>디자인<\/b> - 문자 <b>디자인<\/b>, 마크 <b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451776&cid=51661&categoryId=51662",
+			"description":"[시각 전달 <b>디자인<\/b> - 문자 <b>디자인<\/b>, 마크 <b>디자인<\/b>] 시각 전달 <b>디자인<\/b>은 시각에 호소함으로써 실용적인 정보 전달을 목적으로 한 <b>디자인<\/b>을 말한다. 문자 <b>디자인<\/b>, 마크 <b>디자인<\/b>, 그림 글자(픽토그램), 포스터에... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1644\/531C04F3A31FF3EC29E3636813C028B3046_muploader_f_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"<b>디자인<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1134002&cid=40942&categoryId=31712",
+			"description":" 공업 소유권의 일종으로서 <b>디자인<\/b>을 등록한 자가 그 등록<b>디자인<\/b>에 대하여 향유하는 독점적·배타적 권리.  <b>디자인<\/b>을 창작한 자 또는 그 승계인은 <b>디자인<\/b>보호법에 따라 <b>디자인<\/b>등록을 받을 수 있는 권리가 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=541039&cid=46625&categoryId=46625",
+			"description":" <b>디자인<\/b>권자가 업으로서 등록<b>디자인<\/b> 또는 이와 유사한 <b>디자인<\/b>을 실시할 권리를 독점할 수 있는 권리. [개설] 「<b>디자인<\/b>보호법」상 <b>디자인<\/b>은 ‘물품(물품의 부분 및 글자체 포함)의 형상·모양·색채 또는 이들을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"웹<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6417200&cid=40942&categoryId=33074",
+			"description":" 웹페이지를 필요한 목적에 맞게 <b>디자인<\/b>하고, 구축·관리하는 것.  인터넷 상의 웹사이트 혹은 홈페이지의 <b>디자인<\/b> 전반, 또는 이를 만들고 관리하는 행위를 가리킨다. 이를 전문적으로 하는 사람을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=71163&cid=43667&categoryId=43667",
+			"description":"과거엔 '의장권'이라 하였으나, 2004년 12월 '의장법'이 '<b>디자인<\/b>보호법'으로 개정되면서, '의장권'도 '<b>디자인<\/b>권'으로 명칭이 바뀌었다.  출처: 게티이미지 코리아 <b>디자인<\/b>이란 물품의 형상·모양·색채 또는 이들을... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxOTAzMjJfMTI1%2FMDAxNTUzMjQwNTYyMjQ1.4PQaUt3Kb-uxMCMWs7ELH7UBT6nWU7TQbNmlzEyxtvUg.41YBVjZ6GBOJKjR_r5wuMAZew3EKVtVY66M48TI4pn0g.JPEG%2FIEgqwMCR3hMNC1NH5a6AloFyxC1A.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"로<b>디자인<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%A1%9C%EB%94%94%EC%9E%90%EC%9D%B8",
+			"description":"로<b>디자인<\/b>은 김동진이 대표로 있는 건축 <b>디자인<\/b> 회사이다. 김동진 은 대한민국의 건축가이다. 등을 설계하였다. 《Bati_rieul》, 《야볕쪼》, 《마트료시카》 등 설계했다. 소개... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예일<b>디자인<\/b>고등학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182867&cid=40942&categoryId=34667",
+			"description":"1993년 예일여자고등학교 2부(상과)를 예일여자실업고등학교로 인가승인을 받았고, 2005년 서울시 교육청으로부터 예일<b>디자인<\/b>고등학교로 승인을 받은 뒤, 2007년 3월 1일부터 교명을 변경하였다. 교훈은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_384\/20210930103540675_L361KSGM1.jpg\/10270601.jpg?type=m160_160"
+		},
+		{
+			"title":"경주<b>디자인<\/b>고등학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1266587&cid=40942&categoryId=34667",
+			"description":"1999년 7월 28일 경주<b>디자인<\/b>고등학교 설립을 승인 받았다. 2000년 9월 1일 학교 개교 준비위원을 선임하였다. 2001년 3월 5일 제 1회 입학식을 거행하였다. 2007년 2월 14일 제 4회 졸업식을 거행하였다. 교훈은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_2\/20220714072221943_RBBAFAYDH.jpg\/8625922.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>DB",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%94%94%EC%9E%90%EC%9D%B8DB",
+			"description":"<b>디자인<\/b>DB ( 영어: Design DB ) 는 최신 <b>디자인<\/b> 트렌드와 연구 보고서, 기업·디자이너·학교 등 각종 <b>디자인<\/b> 관련 데이터베이스, <b>디자인<\/b>업계 소식이나 <b>디자인<\/b> 종사자를 위한 정보 교류까지, <b>디자인<\/b>과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"패턴<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6556663&cid=40942&categoryId=33074",
+			"description":" 실생활 제품의 표면 장식을 위해 반복되는 문양을 <b>디자인<\/b>하는 일 혹은 의복의 본(pattern)을 <b>디자인<\/b>하는 일.  ◎ 그래픽 <b>디자인<\/b>으로서의 패턴<b>디자인<\/b> 패턴<b>디자인<\/b>은 어떤 문양을 <b>디자인<\/b>하고 그 문양을 자연스럽게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시각<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1106306&cid=40942&categoryId=33074",
+			"description":" 시각에 전달하는 <b>디자인<\/b>.  시각에 호소함으로써 실용적인 정보 전달을 목적으로 한 <b>디자인<\/b>을 말한다. 문자에 의한 전달과는 달리 이미지나 심벌 등에 의한 전달, 논 버벌 커뮤니케이션(non verbal... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>포털",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=13796&cid=43659&categoryId=43659",
+			"description":"방대한 <b>디자인<\/b> 정보와 함께 <b>디자인<\/b> 관련 상품을 웹상에 올려 놓고 정보의 검색을 통해 제품을 판매하는 웹사이트. <b>디자인<\/b>은 대단히 창조적일 뿐 아니라 시간도 많이 소요되는 작업으로 유능한 디자이너를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모던<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1093439&cid=40942&categoryId=33074",
+			"description":" 근대에 전개된 <b>디자인<\/b>.  그 중 몇 가지 흐름 속에서, 특히 바우하우스 운동을 계기로 하여 전개되어온 기능주의적인 <b>디자인<\/b>을 말한다. 즉, ‘모던’이라는 말로 일정한 경향이 제시된 것으로, 보통 단순하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공업<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1926337&cid=42279&categoryId=42279",
+			"description":" 공업용 기계 등을 생산하기 위한 <b>디자인<\/b>에 대한 서식.  공업<b>디자인<\/b>은 일반적인 공예품이나 상업 제품을 <b>디자인<\/b>하는 기타의 <b>디자인<\/b>과는 구별되는 특징을 가진다. 특히 기계나 기계 관련 공구, 도구 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128230659679_0NXJQ0GOV.jpg\/hb10_6693_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"시각<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2063667&cid=50305&categoryId=50305",
+			"description":"시각을 통해 이루어지는 여러 가지 의사전달 메시지를 <b>디자인<\/b>하는 분야. 전통적으로는 인쇄매체를 위한 <b>디자인<\/b>의 협소한 의미를 갖지만 현대에 와서는 책, 잡지, 광고물, 포장, 포스터는 물론 각종 영상매체를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가구<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054251&cid=40942&categoryId=33074",
+			"description":" 가구의 모양과 색깔등 관계되는 <b>디자인<\/b>.  생활에 필요한 가구는 실용성 위주로 만들어지나 <b>디자인<\/b>과 모양은 시대 및 민족의 문화 수준 등에 따라 다르다. 고대 이집트에서는 톱이 발명되면서부터 목재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"에코<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451677&cid=51636&categoryId=51636",
+			"description":"[에코<b>디자인<\/b>] 에코<b>디자인<\/b>이란 환경적인 요소를 염두에 두고 제품을 <b>디자인<\/b>하는 것을 말한다. 경제적인 요소와 환경적인 요소를 합쳐 가장 실용적인 결과를 찾자는 것이다. 유럽의 환경 기준을 넘어서기... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/16\/531C04F3A31FF3EC28E37264539F02133C7_muploader_j_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"<b>디자인<\/b>표지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3380701&cid=51373&categoryId=51373",
+			"description":" 특정 문서에 대한 표지를 <b>디자인<\/b>한 것.  표지는 회사에서 제출하는 보고서나 기획서 또는 학교에서 제출하는 과제인 리포트와 같은 문서의 제일 첫 번째 장을 말하며 일반적으로 문서 안에 보고서나 리포터의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503120915590_Y01SGV4Z7.jpg\/ba17_34746_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>표지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3607824&cid=42279&categoryId=42279",
+			"description":" <b>디자인<\/b>표지란 작성한 문서의 겉장을 의미한다.  <b>디자인<\/b>표지란 문서의 표지를 내용에 적합하게 <b>디자인<\/b> 한 것을 말하며, <b>디자인<\/b>표지를 작성할 때에는 제목, 주제, 작성자, 부서 및 직위, 작성 목적, 요약 등으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_16\/20170705150701393_HWNNAEG86.jpg\/hb10_84067_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"복식<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1103073&cid=40942&categoryId=33074",
+			"description":" 피복을 주로 하여 부속된 장신구에 대한 <b>디자인<\/b>.  피복은 원래 방한·방서 등 방호능(防護能)과 수치감에 대한 피복능(被覆能)에서 발생한 것이다. 또한 착용하기 쉽고 행동하기 쉬우며 질겨야 한다는 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>서식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828952&cid=42279&categoryId=42279",
+			"description":" <b>디자인<\/b> 관련 업무 처리에 사용되는 각종 문서.  <b>디자인<\/b>서식이란 각종 <b>디자인<\/b> 업무를 처리하는 데 필요한 문서 양식을 말한다. <b>디자인<\/b>은 일반적으로 계획, 구상, 설계, 의장 등으로 번역된다. 일반적으로 어떠한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128192824205_SBISVA6BB.jpg\/hb10_1488_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"편집<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6556662&cid=40942&categoryId=33074",
+			"description":" 각종 인쇄물과 출판물의 적절한 시각적 구성을 통해 보다 효과적인 커뮤니케이션을 목표로 하는 시각 <b>디자인<\/b>의 한 분야.  주로 책자 형식의 인쇄물을 내용에 맞게 시각적으로 구성하여 이용자에게 정보를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3656540&cid=42131&categoryId=42131",
+			"description":"<b>디자인<\/b>권이라 함은 공업소유권(工業所有權)의 범주에 속하는 권리로서, 배타적(排他的), 독점적(獨占的)인 효력을 갖는 절대권(絶對權)을 말한다.그 권리의 객체는 무형의 창작이며, 양도이전할 수 있는 이른바... ",
+			"thumbnail":""
+		},
+		{
+			"title":"에코<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=70312&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | Eco design(영어) | 제품의 전 과정에서 생길 수 있는 환경 피해를 줄이면서 제품 기능과 품질 경쟁력을 높이도록 하는 환경 친화 <b>디자인<\/b>. 유해물질을 사용하지 않으면서 장수명으로 오랫동안... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>경영",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4356978&cid=43665&categoryId=43665",
+			"description":" 회사와 같은 조직에서 <b>디자인<\/b>과 관련된 의사 결정을 할 때에 시장상황과 고객 중심적인 방법으로 최적화해 접근하는 방법을 의미한다.  회사와 같은 조직에서 <b>디자인<\/b>과 관련된 의사 결정을 할 때에 시장상황과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=46670&cid=42095&categoryId=42095",
+			"description":"과거에는 '의장권'이라 하였으나, 2004년 12월 '의장법'이 '<b>디자인<\/b>보호법'으로 개정되면서 '의장권'이 '<b>디자인<\/b>권'으로 명칭이 바뀌었다. <b>디자인<\/b>이란 물품의 형상 · 모양 · 색채 또는 이들을 결합한 것으로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>권",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%94%94%EC%9E%90%EC%9D%B8%EA%B6%8C",
+			"description":"<b>디자인<\/b>권 은 새로운 <b>디자인<\/b>을 만든 자가 등록하여 가지는 권리다.",
+			"thumbnail":""
+		},
+		{
+			"title":"원<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1579177&cid=50344&categoryId=50344",
+			"description":"요트 또는 빙상요트 경주의 범주로, 각 클래스는 설명서대로 엄격하게 <b>디자인<\/b>되어 있다. 하나의 <b>디자인<\/b> 클래스로 주어진 모든 보트는 가능한 한 똑같이 만들어진다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b> 도면",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2801896&cid=42279&categoryId=42279",
+			"description":" <b>디자인<\/b>보호법 시행규칙에 의한 <b>디자인<\/b> 도면 행정서식.  <b>디자인<\/b>보호법 시행규칙 [시행 2015. 1. 1.] [산업통상자원부령 제102호, 2014. 12. 31., 일부개정]에 의한 [서식 4] <b>디자인<\/b> 도면 양식입니다. - 서식명... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150605115735665_LCEPB6DLI.jpg\/hb10_16294_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"그린 <b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6122788&cid=40942&categoryId=32152",
+			"description":" 환경 문제와 관련하여 생태적이고 친환경적으로 <b>디자인<\/b>된 제품, 혹은 그러한 방식의 <b>디자인<\/b> 활동을 이르는 말.  오늘날 자원 고갈, 자연 환경의 오염과 파괴, 생태계 교란, 기후 변화 등의 환경 문제가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도시<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2064814&cid=50305&categoryId=50305",
+			"description":"도시경관의 보전·개선을 위해 도시건축물 등 도시공간, 도시시설물의 형태·윤곽·색채·조명·주변과의 조화성 등 도시의 <b>디자인<\/b>에 대한 계획 및 사업",
+			"thumbnail":""
+		},
+		{
+			"title":"노<b>디자인<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%85%B8%EB%94%94%EC%9E%90%EC%9D%B8",
+			"description":"노<b>디자인<\/b> 은 대한민국의 가수다. 2017년 싱글 [Fancy]로 정식 데뷔했다. 방송 쇼미더머니4 (2015) - Top24 음반 Fancy (2017) Woman I love (2017) 피처링 프롬유 - 귀엽게 봐 줘 (2016)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"넛지 <b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3575335&cid=58793&categoryId=58793",
+			"description":"올 여름은 유난히 뜨거웠다. 살인적인 폭염은 자연스럽게 곳곳마다 냉방에너지를 폭주시켰다. 이로 인해 2012년 여름에는 사상초유의 전력 과부하가 곳곳에서 일어났다. TV에서는 거의 매일 전기 사용을 자제해... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118163058933_4MBJ8BHLJ.jpg\/01_142.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>경영",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2063665&cid=50305&categoryId=50305",
+			"description":"소비자의 미적 만족 추구 경향이 강해지면서 <b>디자인<\/b>을 경영 전략적 수단으로 활용하여 새로운 비전과 가치를 창출함으로써 조직의 목표를 달성하고, 생활문화를 창달하기 위해 경영자, 디자이너, 그리고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"책 <b>디자인<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B1%85_%EB%94%94%EC%9E%90%EC%9D%B8",
+			"description":"책 <b>디자인<\/b> ( Book design , 북 <b>디자인<\/b>)은 단행본을 만드는 그래픽 <b>디자인<\/b> 분야를 말한다. 글쓴이가 말하고자 하는 의도를 정확하게 표현하고 전달하는데 목적이 있다. 책 <b>디자인<\/b>의 요소 책 <b>디자인<\/b>은 단행본을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"웹 <b>디자인<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9B%B9_%EB%94%94%EC%9E%90%EC%9D%B8",
+			"description":"웹 <b>디자인<\/b> ( 영어: web design )은 웹 브라우저가 해석하고 그래픽 사용자 인터페이스 (GUI)로 보여 주기에 알맞은 마크업 언어 형식으로 인터넷을 통해 전자 매체 콘텐츠 전달의 개념을 정하고 계획하고 모델로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"ppt <b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2705477&cid=42279&categoryId=42279",
+			"description":"ppt<b>디자인<\/b>이란 ppt 작업 시 슬라이드의 배경으로 삽입하는 사진이나 이미지 등을 의미한다. ppt<b>디자인<\/b>으로는 프레젠테이션하려는 내용에 어울리는 사진이나 이미지 등을 사용하고, 깔끔하고 집중할 수 있는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_18\/20220722140452898_M42ZZQRY2.png\/hb10_15018_i1.png?type=m160_160"
+		},
+		{
+			"title":"굿 <b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1917746&cid=50335&categoryId=50335",
+			"description":"굿 <b>디자인<\/b>미술대사전(용어편) 사용하기 쉽고 아름다운 제품의 <b>디자인<\/b>으로, 제2차대전 후 대량생산 제품의 품질 향상운동 중 하나로 일어났다. 기준은 시대에 따라 다소 다르며 초기의 무장식, 심플한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"리 <b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=784256&cid=41828&categoryId=41828",
+			"description":"기존 제품의 기능, 재료, 또는 형태적 변경의 필요에 따라 <b>디자인<\/b>을 개량하거나 조형을 변경하는 행위. 기술 개발에 따른 리<b>디자인<\/b> 이외에, 소비자 선호도의 변화, 경쟁 제품의 출현, 단지 시장 확대나 판매... ",
+			"thumbnail":""
+		},
+		{
+			"title":"탑 <b>디자인<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%83%91_%EB%94%94%EC%9E%90%EC%9D%B8",
+			"description":"《탑 <b>디자인<\/b>》 은 2007년부터 2008년까지 미국에서 방송된 인테리어 디자이너 선발 오디션 프로그램이다. 각주",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3332916&cid=51373&categoryId=51373",
+			"description":" 신상의 <b>디자인<\/b>을 기획하기 위해 사용하는 문서.  <b>디자인<\/b> 기획서란 새로운 상품을 출시하기에 앞서 상품의 <b>디자인<\/b>에 대한 내용을 보고, 발표하기 위해서 사용하는 서식이다. <b>디자인<\/b> 기획서에는 상품에 들어갈... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209150945988_RJFQUG5UT.jpg\/ba17_17603.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>등록증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2801893&cid=42279&categoryId=42279",
+			"description":" <b>디자인<\/b>보호법 시행규칙에 의한 <b>디자인<\/b>등록증 행정서식.  <b>디자인<\/b>보호법 시행규칙 [시행 2015. 1. 1.] [산업통상자원부령 제102호, 2014. 12. 31., 일부개정]에 의한 [서식 15] <b>디자인<\/b>등록증 양식입니다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150605115719442_IGSSJ0FG2.jpg\/hb10_16291_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b> 싱킹",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2805207&cid=43659&categoryId=43659",
+			"description":"<b>디자인<\/b> 싱킹은 독일 소프트웨어 기업인 SAP의 하소 플레트너 회장이 만들고, 미국 스탠퍼드 디스쿨(Hasso Plattner Institute of Design at Stanford; Stanford D.School)이 확산시키고 있는 교육 프로그램이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>평가표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6511696&cid=51373&categoryId=51373",
+			"description":" <b>디자인<\/b>에 대한 평가결과를 기록한 문서.  <b>디자인<\/b>평가표란 <b>디자인<\/b>에 대한 평가를 진행한 후 해당결과를 기록한 문서를 말하는 것으로 <b>디자인<\/b>에 대한 평가결과를 한눈에 파악하기 위해 작성되는 것이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015145100579_URXQVS375.jpg\/ba17_39387_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"패키지<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6504698&cid=40942&categoryId=33074",
+			"description":" 제품을 담는 용기나 포장지를 <b>디자인<\/b>하는 활동으로, 기획마케팅·<b>디자인<\/b>·제작·유통 및 진열 등의 전체 과정을 포함하기도 한다.  패키지<b>디자인<\/b>은 제품을 담는 용기나 포장지를 <b>디자인<\/b>하고 만드는 활동이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>평가서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2704850&cid=42279&categoryId=42279",
+			"description":" 상품 <b>디자인<\/b> 평가를 위한 항목을 기재한 표 형식의 문서.  <b>디자인<\/b>평가서란 상품 <b>디자인<\/b>의 평가를 위한 평가항목을 기재한 표 형식의 문서를 말한다. <b>디자인<\/b>평가서에는 조형성, 경제성, 사용성 등의 비교 항목을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_4\/20150409151010724_H2ZJBN9GO.jpg\/hb10_14391_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>평가표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2704851&cid=42279&categoryId=42279",
+			"description":" 상품 <b>디자인<\/b> 평가를 위한 항목을 기재한 표 형식의 문서.  <b>디자인<\/b>평가표란 상품 <b>디자인<\/b>의 평가를 위한 평가항목을 기재한 표 형식의 문서를 말한다. <b>디자인<\/b>평가표에는 조형성, 경제성, 사용성 등의 비교 항목을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_4\/20150409151013985_TCS32R1PV.jpg\/hb10_14392_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"그래픽<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1068824&cid=40942&categoryId=33074",
+			"description":" 인쇄매체를 통하여 표현·제작되는 <b>디자인<\/b>.  포스터, 신문·잡지의 광고, 카탈로그, 책 표지, 포장 등의 <b>디자인<\/b>을 가리킨다. 이러한 기능의 대부분이 광고와 선전을 위하여 존재하기 때문에 ‘상업 <b>디자인<\/b>’과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>의뢰서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2704847&cid=42279&categoryId=42279",
+			"description":" <b>디자인<\/b> 개발을 외주 업체에 의뢰하기 위해 작성하는 문서.  제품의 <b>디자인<\/b> 프로젝트 개발을 외주 업체에 의뢰할 시에는 세부적인 요구사항을 기재한 의뢰서를 작성하여 제출해야 한다. <b>디자인<\/b>의뢰서란 <b>디자인<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_4\/20150409150947246_G5S5BARV4.jpg\/hb10_14388_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>라운드",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1228449&cid=40942&categoryId=31864",
+			"description":" <b>디자인<\/b>을 지적소유권으로 인정하여 타인의 사용을 규제하자는 협상.  산업<b>디자인<\/b>을 모방한 상품의 무역거래를 제재하자는 국제협상안을 말한다. 1967년 세계지적재산권기구(WIPO)가 출범한 이후 국제적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>코리아",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3334492&cid=43667&categoryId=43667",
+			"description":" 2003년부터 개최된 국내 최대 규모의 <b>디자인<\/b>산업 박람회.  | 외국어 표기 | DesignKorea(영어) | | 약어 | DK | 매년 하반기에 진행되는 국내 최대 규모의 <b>디자인<\/b>산업 박람회로 산업통상자원부가 주관하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>청첩장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3607804&cid=42279&categoryId=42279",
+			"description":" <b>디자인<\/b>청첩장이란 상대방을 결혼식에 초대하고자 하는 뜻을 기재한 초대장 양식이다.  <b>디자인<\/b>청첩장이란 결혼식에 초대하는 뜻을 담은 내용으로된 서신 형식의 양식을 말하며, 결혼식에 초대하는 뜻을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_16\/20170705145114092_VG58DK7DI.jpg\/hb10_83669_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>기획안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2704846&cid=42279&categoryId=42279",
+			"description":" 새롭게 출시할 <b>디자인<\/b> 상품에 관한 기획 내용을 작성한 문서.  <b>디자인<\/b>기획안이란 <b>디자인<\/b> 제품을 상품화하기에 앞서 전반적인 기획 내용을 보고하기 위해 작성하는 문서를 말한다. <b>디자인<\/b>기획안에는 <b>디자인<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_4\/20150409150945800_QLCJGRHXO.jpg\/hb10_14387_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>기획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2704845&cid=42279&categoryId=42279",
+			"description":" 새롭게 출시할 <b>디자인<\/b> 상품에 관한 기획 내용을 작성한 문서.  <b>디자인<\/b>기획서란 <b>디자인<\/b> 제품을 상품화하기에 앞서 전반적인 기획 내용을 보고하기 위해 작성하는 문서를 말한다. <b>디자인<\/b>기획서에는 <b>디자인<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_4\/20150409150945568_8QMZVF6CK.jpg\/hb10_14386_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>출원서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2704849&cid=42279&categoryId=42279",
+			"description":" 상품의 <b>디자인<\/b> 등록 출원을 신청하는 내용의 문서.  <b>디자인<\/b>출원서란 상품 <b>디자인<\/b>에 관한 등록 출원을 위해 작성하는 신청서 형식의 문서를 말한다. <b>디자인<\/b>출원서에는 출원인, 대리인, 창작자 등을 표기하고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_4\/20150409150959588_JVZD8HSGU.jpg\/hb10_14390_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828937&cid=42279&categoryId=42279",
+			"description":" 계약당사자와 협력업체가 <b>디자인<\/b> 개발 및 공급에 관련하여 필요한 제반사항의 항목들을 규정하여 기재한 문서.  프로젝트나 제품 개발을 위해 외주 업체와 계약 체결을 할 때에는 용역계약서를 작성하게... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128192735262_AEJQT86O5.jpg\/hb10_1473_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>초대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3332923&cid=51373&categoryId=51373",
+			"description":" 특정 행사에 초대하는 목적을 표현하고자 <b>디자인<\/b>을 가미한 초대장.  초대는 어떠한 모임이나 행사 개최에 따른 참가를 요청하는 것으로 초청 대상을 상대로 대접하기 위한 의미라고 볼 수 있다. 어떠한 행사나... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20151209154807590_X2KCQKILV.jpg\/ba17_36360.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>이력서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2704848&cid=42279&categoryId=42279",
+			"description":" <b>디자인<\/b> 분야 취업을 위해 채용 업체에 제출하는 문서.  <b>디자인<\/b>이력서란 <b>디자인<\/b> 분야에 취업을 희망할 시 신상정보 및 학력, 경력 사항 등을 항목별로 기재하여 입사 지원 시 제출하는 문서를 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_4\/20150409150958626_KJQPW9TGP.jpg\/hb10_14389_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>견적서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828936&cid=42279&categoryId=42279",
+			"description":" <b>디자인<\/b>을 의뢰하고 이에 대하여 공급자가 주문자에게 공급 가능한 내용 및 제반 비용을 적산형태로 기술하여 제출하는 문서.  견적서는 거래 당사자 간의 신규거래 또는 새로운 품목거래 개설을 위하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128192734336_PGK4OY6PE.jpg\/hb10_1472_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>청첩장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3380786&cid=51373&categoryId=51373",
+			"description":" 단지 결혼식에 초대하는 내용만을 담은게 아니라 보기 좋게 <b>디자인<\/b>해서 만든 청첩장.  청첩장은 한 커플이 결혼하기로 약속하고 결혼식을 올릴 때 주변 지인이나 친구, 친척들을 초대하기 위해서 만드는 일종의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_6\/20160503121100090_ZT53MI4QK.jpg\/ba17_36359_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>경력서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2704844&cid=42279&categoryId=42279",
+			"description":" <b>디자인<\/b> 분야 취업을 위해 경력사항을 기재해 제출하는 문서.  <b>디자인<\/b>경력서란 경력직 직원을 채용할 시, 전 직장에서 어떠한 업무를 했고 어떠한 능력이 있는지, 또 이를 자사에서 잘 활용할 수 있는지 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_4\/20150409150947738_TV6WOS1X9.jpg\/hb10_14385_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>제안서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828941&cid=42279&categoryId=42279",
+			"description":" 새로운 <b>디자인<\/b> 등을 개발하려는 기업이 사업제안을 의뢰한 기업으로부터 제안 받은 사업을 어떻게 수행할지 전반적인 내용을 정리한 문서.  <b>디자인<\/b>제안서는 사업을 의뢰한 고객사의 문제 또는 필요한 부분을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20210715141941901_B9WYMN8AY.jpg\/hb10_1477_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>디자인<\/b>학과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5682608&cid=44346&categoryId=44346",
+			"description":"<b>디자인<\/b>학과에서는 인간생활의 편리함과 아름다움을 추구하는 <b>디자인<\/b> 전반에 대한 지식과 이론을 습득하고 실기를 합니다. [학과특성] <b>디자인<\/b>은 현대 사회에서 기업과 국가의 경쟁력을 높이는 역할을 하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유사<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3656539&cid=42131&categoryId=42131",
+			"description":"유사<b>디자인<\/b>이라 함은 <b>디자인<\/b>권자 <b>디자인<\/b>등록출원인이 자기의 등록<b>디자인<\/b>이나 <b>디자인<\/b>등록출원한 <b>디자인<\/b>에서만 유사한 <b>디자인<\/b>에 대하여 <b>디자인<\/b>등록을 받을 수 있는 <b>디자인<\/b>을 말한다(<b>디자인<\/b>보호법 제7조 1항)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비밀<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3656538&cid=42131&categoryId=42131",
+			"description":"비밀<b>디자인<\/b>이라 함은 <b>디자인<\/b>등록출원인의 청구에 의하여 <b>디자인<\/b>권설정의 등록일로부터 3년 내의 기간동안 그 <b>디자인<\/b>을 비밀로 하는 제도를 말한다(<b>디자인<\/b>보호법 제13조 1항).<b>디자인<\/b>은 물품의 외관에서 나오는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>디자인<\/b>서울",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%94%94%EC%9E%90%EC%9D%B8%EC%84%9C%EC%9A%B8",
+			"description":"<b>디자인<\/b>서울 은 서울이 국제산업<b>디자인<\/b>단체협의회(International Council of Societies of Industrial Design)로부터 세계<b>디자인<\/b>수도로 선정된 이후 서울의 환경과 <b>디자인<\/b>을 개선하려는 계획이다. 배경 '천혜의 수려한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"상업<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1109900&cid=40942&categoryId=33074",
+			"description":"상업<b>디자인<\/b>은 조형에 대한 시대적 정신과 기술 또는 그 활동범위의 변천에 따라 여러 가지로 호칭되어왔다. 한국에서 근대적인 의미의 상업<b>디자인<\/b>이 처음으로 대중과 접하게 된 8 ·15광복 이후부터 1960년대... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시각<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2010299&cid=50335&categoryId=50335",
+			"description":"비주얼 <b>디자인<\/b>패션전문자료사전 시각 <b>디자인<\/b>. 넓은 뜻으로는 형(공간)과 색에 작용하여 표현되는 <b>디자인<\/b>분야의 총칭. 좁은 뜻으로는 문자, 사진, 텔레비전 등의 시각적 기호에 의해서 표현되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시각<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1185315&cid=40942&categoryId=33074",
+			"description":"그래픽 <b>디자인<\/b>(graphic design)이라는 용어로 더 일반화되어 있는 시각 <b>디자인<\/b>은 광고 매체로서의 회화적 표현수단이나 문자, 또는 일러스트레이션(illustration)을 사용한 것에서 그 원형을 찾을 수 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2083798&cid=44415&categoryId=44415",
+			"description":"개념 및 정의] 공업<b>디자인<\/b>이라고도 하는 산업<b>디자인<\/b>(工业设计, industrial design)은 사용자와 디자이너가 매우 밀접한 소통구조를 가지고 있는 <b>디자인<\/b> 영역이다. 현대산업사회의 구조와 요구에 의해 형성되는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140509150146921_ZF2ET45JN.jpg\/z10_term57_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"패션<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2098236&cid=44415&categoryId=44415",
+			"description":"개념 및 정의] 패션<b>디자인<\/b>(fashion design)은 옷과 장신구에 관한 <b>디자인<\/b> 및 미학 응용 분야이다. 패션은 신체를 바꾸는 특별한 형태이고, 패션<b>디자인<\/b>은 사회 문화적 영향을 받으며 시간과 장소에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영상<b>디자인<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6583283&cid=40942&categoryId=33048",
+			"description":"영상<b>디자인<\/b>은 이러한 영상을 가공하여 정보전달 등의 목적성과 기능성・심미성 등을 높이는 일을 의미한다. 아날로그 미디어 시대의 영상<b>디자인<\/b>은 필름 <b>디자인<\/b>, 비디오 <b>디자인<\/b> 등으로 불리기도 했으나... ",
+			"thumbnail":""
+		}
+	]
+}

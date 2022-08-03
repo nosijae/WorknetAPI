@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:19 +0900",
+	"total":257,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>소방<\/b>학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1113847&cid=40942&categoryId=34670",
+			"description":"<b>소방<\/b>학교는 현직 <b>소방<\/b>공무원 및 <b>소방<\/b>공무원 임용예정자에게 <b>소방직무<\/b>에 관한 학술과 기술 및 응용능력을 습득시키고 <b>소방<\/b>행정의 발전을 위한 조사·연구를 행하게 하기 위하여 설치되었다. <b>소방<\/b>학교에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중앙<b>소방<\/b>학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1201023&cid=40942&categoryId=34509",
+			"description":" <b>소방<\/b>공무원 및 <b>소방<\/b>공무원 임용예정자에게 <b>소방직무<\/b>에 관한 학술·기술·응용능력을 습득시키고 <b>소방<\/b>행정의 발전을 위한 조사·연구 및 구조구급 훈련을 관장하는 교육훈련기관.  1978년 7월 27일... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_380\/20210729085933664_9EAG427YU.jpg\/10865942.jpg?type=m160_160"
+		},
+		{
+			"title":"중앙 <b>소방<\/b> 학교 (천안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2571072&cid=51930&categoryId=54185",
+			"description":"[설립 목적] 중앙 <b>소방<\/b> 학교는 현직 <b>소방<\/b> 공무원 및 <b>소방<\/b> 공무원 임용 예정자에게 <b>소방 직무<\/b>에 관한 학술과 기술, 응용 능력 등을 습득시키고 <b>소방<\/b> 행정의 발전을 위한 조사·연구 및 구조 구급 훈련을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=557663&cid=46625&categoryId=46625",
+			"description":"[내용] <b>소방<\/b>관에 관한 법률은 1977년에 제정되었으나, 1982년 12월에 전면 개정되었다. <b>소방<\/b>관은 다른 공무원과는 별도의 절차에 의하여 임용되며, 인사의 자문을 위하여 독립된 인사위원회를 두고 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의무<b>소방<\/b>대설치법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1216879&cid=40942&categoryId=31713",
+			"description":"의무<b>소방<\/b>원이 <b>직무<\/b>수행 중 상이를 입고 퇴직하거나 사망한 때에는 군인에 준하여 급여금을 지급한다. 의무<b>소방<\/b>원으로서 <b>직무<\/b>수행 중 상이를 입고 퇴직한 자와 사망한 자의 유족은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중앙<b>소방<\/b>학교 (대한민국)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A4%91%EC%95%99%EC%86%8C%EB%B0%A9%ED%95%99%EA%B5%90_(%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD)",
+			"description":"<b>직무<\/b> <b>소방<\/b>공무원, <b>소방<\/b>간부후보생, 의무<b>소방<\/b>원 및 <b>소방<\/b>관서에서 근무하는 사회복무요원의 교육훈련에 관한 사항 학생, 의용<b>소방<\/b>대원, 민간자원봉사자 등에 대한 <b>소방<\/b>안전체험교육 등 대국민... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>시설관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832738&cid=42117&categoryId=42117",
+			"description":" <b>소방<\/b>대상물 관계자의 <b>소방<\/b>안전관리 업무를 대행하여 소화전, 스프링클러 등 <b>소방<\/b>시설을 점검하고 설치기준 및 국가화재안전 기준에 따라 유지·관리한다. [수행<b>직무<\/b>] <b>소방<\/b>대상물 관계인과 <b>소방<\/b>시설관리업체의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029159&cid=42117&categoryId=42117",
+			"description":" <b>소방<\/b>시설을 설계하고 <b>소방<\/b> 관련 설비를 설계한다. [수행<b>직무<\/b>] <b>소방<\/b>시설을 설계하기 위하여 설계공정표, 투입인력계획서, 성과물 목록표, 품질관리계획서를 작성한다. <b>소방<\/b>대물의 규모·용도·위험성과 신기술... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>소방<\/b>안전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=813529&cid=43139&categoryId=43139",
+			"description":" <b>소방<\/b> 및 화재 관련 연구와 교육을 주로 담당하는 재단법인.  한국<b>소방<\/b>안전원은 <b>소방<\/b>에 관한 연구와 화재 예방에 관한 대국민 홍보 사업을 주로 하는 재단법인이다. 한국<b>소방<\/b>안전원의 전신은 1980년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>설비기사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EC%84%A4%EB%B9%84%EA%B8%B0%EC%82%AC",
+			"description":"또한 <b>소방<\/b>시설을 점검, 정비하고 화기의 사용 및 취급 등 <b>소방<\/b>안전관리에 대한 감독을 담당하며 <b>소방<\/b>계획에 의한 소화, 통보 및 피난 등의 훈련을 실시하는 <b>소방<\/b>안전관리자로서의 <b>직무<\/b>도 수행한다. 특히... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>안전관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029162&cid=42117&categoryId=42117",
+			"description":" <b>소방<\/b>계획을 수립하고 <b>소방<\/b>안전을 교육하며 <b>소방<\/b>대물을 관리 및 유지 보수한다. [수행<b>직무<\/b>] 특정 <b>소방<\/b>대상물에 관한 예산 편성을 계획하고 점검 이력사항을 파악하며 점검ㆍ정비 계획을 수립한다. 교육훈련... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>안전관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5931265&cid=42117&categoryId=42117",
+			"description":" <b>소방<\/b>계획을 수립하고 <b>소방<\/b>안전을 교육하며 <b>소방<\/b>대물을 관리 및 유지 보수한다. [수행<b>직무<\/b>] 특정 <b>소방<\/b>대상물에 관한 예산 편성을 계획하고 점검 이력사항을 파악하며 점검·정비 계획을 수립한다. 교육훈련... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한<b>소방<\/b>공제회법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1226767&cid=40942&categoryId=31713",
+			"description":"<b>소방<\/b>과 관련된 <b>직무<\/b>를 수행하다가 사망하거나 상이를 입은 회원에 대한 지원사업을 할 수 있고, 이 법의 목적을 달성하기 위해 수익사업을 할 수 있다. 공제회의 재정은",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>공무원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1227343&cid=40942&categoryId=31713",
+			"description":" 국가<b>소방<\/b>공무원과 지방<b>소방<\/b>공무원의 책임 및 <b>직무<\/b>의 중요성과 신분 및 근무조건의 특수성에 비추어 그 임용·교육훈련·복무·신분보장 등에 관해 국가공무원법과 지방공무원법에 대한 특례를 규정한 법... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관리사자격증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047402&cid=42279&categoryId=42279",
+			"description":"<b>소방<\/b>관리사는 <b>소방<\/b>시설의 점검 및 정비, 화재예방을 위한 <b>소방<\/b>시설 점검업무 등을 주요 <b>직무<\/b>로 한다. <b>소방<\/b>관리사 자격시험은 격년제 시행을 원칙으로 하며, <b>소방<\/b>방재청장의 필요로 따라 횟수를 증감할 수 있다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129001816835_CY2Y2JFLZ.jpg\/hb10_11102_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b> (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2614724&cid=51887&categoryId=53549",
+			"description":"[정의] 경기도 용인시에서 이루어지는 화재의 진압 및 예방과 관련되는 활동. [개설] <b>소방<\/b>은 기본적으로 화재를 예방·경계하고 진압하는 일로 정의된다. 그러나 실제로는 화재뿐만 아니라 수해, 지진 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025422&cid=42117&categoryId=42117",
+			"description":" 화재를 사전에 예방하거나 진압하고 태풍, 홍수, 건물붕괴, 가스폭발 등 각종 재난발생 시 출동하여 인명을 구조하고 재산을 보호한다. [수행<b>직무<\/b>] 사내 각 지역별로 방화 순찰을 실시하여 화재위험요인을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일리노이 <b>소방<\/b>관 기념비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1348289&cid=40942&categoryId=40546",
+			"description":"1993년에 완공되었으며 <b>직무<\/b> 중 순직한 일리노이 <b>소방<\/b>관들에게 헌정되었다. 기념비는 크게 원형기둥과 4개의 청동상으로 구성되어 있다. 4m 높이의 원형기둥은 2,400개의 벽돌로 만들었으며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926395&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>소방<\/b>관은 화재를 예방하거나 진압한다. 사고나 재난 발생 시 긴급구조 및 구급출동 등 국가의 인명을 구조하고 재산을 보호한다.화재 예방 활동으로 학교, 병원, 시장 등의 건축물 <b>소방<\/b>시설의 안전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진도의 <b>소방<\/b> (진도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2630253&cid=51952&categoryId=55342",
+			"description":"[정의] 화재를 예방·경계 또는 진압하여 국민의 생명·신체·재산을 보호하기 위한 활동. [개설] 근대적인 <b>소방<\/b>행정은 갑오개혁 당시로 거슬러 올라간다. 1894년 7월 14일 지금의 경찰청에 해당하는 경무청... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산림<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025421&cid=42117&categoryId=42117",
+			"description":" 산림에 발생한 산불을 진화하기 위하여 산불이 발생한 곳에 파견되어 혼자 또는 작업조원으로서 산림<b>소방<\/b>관리자의 지시에 따라 진화작업을 한다. [수행<b>직무<\/b>] 도끼, 기계톱, 삽, 수동 및 동력 이동식 소화펌프를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>감리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029158&cid=42117&categoryId=42117",
+			"description":" <b>소방<\/b>시설 설계를 감리하고 공사감리를 계획, 행정처리, 수행, 결과보고를 한다. [수행<b>직무<\/b>] 발주자를 대신하여 설계계획서, 설계설명서, 기본설계도서, 종합방재계획서, 실시설계도서를 검토하고 설계공정을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>시공기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029161&cid=42117&categoryId=42117",
+			"description":" <b>소방<\/b>시설공사를 계획, 관리하며 <b>소방<\/b> 관련 설비를 시공한다. [수행<b>직무<\/b>] 시공<b>직무<\/b>를 수행하기 위해 설계도서를 검토하고 실행내역서 및 시공계획서를 작성한다. 적합한 공정관리, 품질관리, 자재관리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>공학시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832737&cid=42117&categoryId=42117",
+			"description":" 기존 설비 및 장비의 성능을 개선하거나 새로운 제품 및 장비의 개발을 위해 각종 <b>소방<\/b> 설비, 장비, 부품을 시험·검사한다. [수행<b>직무<\/b>] 새로운 소화기류, 경보기류, 기계류, 방염류 등에 대해 형식승인 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054040&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>소방<\/b>기술사 ① <b>소방<\/b>기술사란 <b>소방<\/b>기술사 시험의 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>소방<\/b>기술사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>소방<\/b>기술사 제도는 건축물... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200824181813665_09R9MQB9Y.jpg\/da6_454_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>호스경화원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027661&cid=42117&categoryId=42117",
+			"description":" 피복(被覆:바깥 부분을 감쌈)된 <b>소방<\/b>호스의 고무를 경화시키기 위해 증기가열장비를 조작·관리한다. [수행<b>직무<\/b>] 일정한 길이의 고무판(Tubing)과 끈으로 짠 직물 호스재킷을 테이블 위에 올려놓는다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>안전교육사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970476&cid=42114&categoryId=42114",
+			"description":" <b>소방<\/b>안전교육사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>소방<\/b>안전교육사 시험에 합격하고 <b>소방<\/b>청에서 실시하는 신원조회를 거쳐 자격을 취득한 사람을 말한다. 응시자격에는 제한이 있다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530190532839_0HQZUVSXZ.jpg\/da6_83_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"대한<b>소방<\/b>공제회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EC%86%8C%EB%B0%A9%EA%B3%B5%EC%A0%9C%ED%9A%8C",
+			"description":"대한<b>소방<\/b>공제회 (大韓消防共濟會, Korea Fire Officials Credit Union )는 <b>소방<\/b>공무원에 대한 효율적인 공제제도를 확립·운영하고, <b>직무<\/b>수행 중 사망하거나 상이(傷痍)를 입은 사람에 대한 지원사업을 함으로써... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>소방<\/b>시설관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970475&cid=42114&categoryId=42114",
+			"description":" <b>소방<\/b>시설관리사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>소방<\/b>시설관리사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자격에는 제한이 있다. 응시자는 1차, 2차 시험을 통과해야 한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724153639113_GM6R3AYW9.jpg\/da6_82_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"대한민국 <b>소방<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EC%86%8C%EB%B0%A9%EC%B2%AD",
+			"description":"<b>직무<\/b>의 전문성과 특수성을 살리고 유능한 <b>소방<\/b> 인력을 확보하며 <b>소방<\/b>조직의 요직을 <b>소방<\/b>관에게 맡겨야 한다는 것이 주된 내용이었다. 15개 시도의 <b>소방<\/b>본부와 110개가 넘는 <b>소방<\/b>서, 610개가 넘는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>간부후보생",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EA%B0%84%EB%B6%80%ED%9B%84%EB%B3%B4%EC%83%9D",
+			"description":"교육 과정 중앙<b>소방<\/b>학교에서 공통역량, <b>직무<\/b>역량, <b>직무<\/b>과제 등 1년 52주간 1,648시간의 합숙 훈련을 받는다. 교육은 각종소양과목, 실무공통과목, 전공과목, 화재진압훈련, 일반구조훈련, 산악, 수난구조훈련... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>시설실적증명서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6511881&cid=51373&categoryId=51373",
+			"description":"경보 설비, 소화설비, 피난설비, 등의 내용을 기재하도록 하다. 실적증명서란 실적으로 이루어진 공적 사실을 증명하기 위해 작성되는 문서를 말하는 것으로 <b>직무<\/b>수행능력, 생산능력, 교육수준 등의 내용을",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015144755905_12A7OK5B3.jpg\/ba17_39242_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"가스생산기지<b>소방<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025420&cid=42117&categoryId=42117",
+			"description":" 가스 생산기지의 화재위험을 점검·예방하고 화재발생 시 피해를 최소화하기 위하여 가스생산기지<b>소방<\/b>원의 활동을 관리·감독한다. [수행<b>직무<\/b>] 생산기지 내의 소화기, 소화전 등 소화시설과 장비를 점검한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가스생산기지<b>소방<\/b>대원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025419&cid=42117&categoryId=42117",
+			"description":" 가스 생산기지의 화재위험을 점검·예방하고 화재발생 시 초기에 화재진압을 한다. [수행<b>직무<\/b>] 가스 생산기지 내의 화재감시용 모니터와 센서를 통해 제공되는 정보를 감시하여 화재 징후 및 이상 현상을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 <b>소방<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%86%8C%EB%B0%A9",
+			"description":"그러나 공상을 신청할 경우 인사상의 불이익 때문에 부상을 입은 88%의 <b>소방<\/b>관이 공상을 신청하지 못했으며, <b>직무<\/b>연관성으로 인해 백혈병이나 혈액암이 발병해도 공무원연금공단에서는 공상을 인정하지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"충청 <b>소방<\/b> 학교 (천안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2571073&cid=51930&categoryId=54185",
+			"description":"제고와 <b>직무<\/b> 중심, 역량 중심의 선진화된 교육 훈련 시스템을 구축하기 위해 설립되었다. [변천] 충청 <b>소방<\/b> 학교는 1991년 7월 5일 충청남도 <b>소방<\/b> 학교 설치 조례가 제정되고, 1993년 6월 10일에 충청남도 <b>소방<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경기도<b>소방<\/b>학교 (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2614731&cid=51887&categoryId=53552",
+			"description":"[정의] 경기도 용인시 처인구 남사면 봉명리에 있는 <b>소방<\/b> 교육 기관. [교육목표] 교훈은 ‘열린 참교육, 전문 참인재, 복지 참<b>소방<\/b>’이다. 교육목표는 21세기 <b>소방<\/b>방제를 선도할 창의적 인재를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>설비기사(기계분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054041&cid=42114&categoryId=42114",
+			"description":" <b>소방<\/b>설비기사(기계분야)란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>소방<\/b>설비기사(기계분야) 시험에 합격하여 그 자격을 취득한 자를 말한다. <b>소방<\/b>설비기사(기계분야) 시험은 필기시험과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220615180034853_U7W1WMWLS.jpg\/da6_455_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>설비기사(전기분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054042&cid=42114&categoryId=42114",
+			"description":"<b>소방<\/b>시설공사를 시공, 관리하며, <b>소방<\/b>시설의 점검 · 정비와 화기의 사용 및 취급 등 방화안전관리에 대한 감독, <b>소방<\/b>계획에 의한 소화, 통보 및 피난 등의 훈련을 실시하는 방화관리자의 <b>직무<\/b>를 수행한다.  ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100726749_TZPL9S5YR.jpg\/da6_456_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경상북도 <b>소방<\/b>학교 (안동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2604167&cid=51934&categoryId=54402",
+			"description":"제고와 <b>직무<\/b> 중심, 역량 중심의 선진화된 교육 훈련 시스템을 구축하기 위해 설립되었다. [변천] 1991년 9월 20일 행정자치부에서 경상북도 <b>소방<\/b>학교 설치 추진을 지시하였으며, 1992년 8월 7일에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국의 <b>소방<\/b>청 차장",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%86%8C%EB%B0%A9%EC%B2%AD_%EC%B0%A8%EC%9E%A5",
+			"description":"역할 <b>소방<\/b>청에 차장은 청장을 보좌하여 소관사무를 처리하고 소속공무원을 지휘·감독하며, 청장이 사고로 <b>직무<\/b>를 수행할 수 없으면 그 <b>직무<\/b>를 대행한다. 역대 <b>소방<\/b>청 차장 <b>소방<\/b>방재청 차장 중앙<b>소방<\/b>본부... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>설비산업기사(전기분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054044&cid=42114&categoryId=42114",
+			"description":"작성하거나 <b>소방<\/b>시설공사를 시공, 관리하며, <b>소방<\/b>시설의 점검 · 정비와 화기의 사용 및 취급 등 방화안전관리에 대한 감독, <b>소방<\/b>계획에 의한 소화, 통보 및 피난 등의 훈련을 실시하는 방화관리자의 <b>직무<\/b>를",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191855634_AV40223P2.jpg\/da6_458_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>설비산업기사(기계분야)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054043&cid=42114&categoryId=42114",
+			"description":"작성하거나 <b>소방<\/b>설비공사를 시공, 관리하며, <b>소방<\/b>시설이 점검 · 정비와 화기의 사용 및 취급 등 방화안전관리에 대한 감독, <b>소방<\/b>계획에 의한 소화, 통보 및 피난 등의 훈련을 실시하는 방화관리자의 <b>직무<\/b>를",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185125988_UMT8L1CTG.jpg\/da6_457_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"화마 잡는 첨단 <b>소방<\/b>과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3409420&cid=60335&categoryId=60335",
+			"description":"1000℃가 넘는 열기를 견디지 못하고 허술해진 건물이 자신의 <b>직무<\/b>에 온 신경을 쏟던 젊은 목숨을 삼킨 것이다.윤 <b>소방<\/b>교는 석 달 뒤에 결혼할 약혼녀도 있었다. 그의 죽음 앞에 남은 이들의 안타까움이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4484_000_1\/20160610135752905_CBCDXW1LM.jpg\/ca22_854_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"변상호",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%80%EC%83%81%ED%98%B8",
+			"description":"24 <b>소방<\/b>정 강원도<b>소방<\/b>본부장 <b>직무<\/b>대리 ’04.03.25 ~ '06.03.09. <b>소방<\/b>준감 강원도<b>소방<\/b>본부장 ’06.03.10 ~ '07.06.21 <b>소방<\/b>준감 <b>소방<\/b>방재청 <b>소방<\/b>정책본부장 ’07.06.22 ~ ? <b>소방<\/b>감 <b>소방<\/b>방재청... ",
+			"thumbnail":""
+		},
+		{
+			"title":"2020년 달라지는 제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5902551&cid=43667&categoryId=43667",
+			"description":" 2020년부터 10년 이상 노후차를 폐차하고 경유차가 아닌 신차를 구입하면 6개월간 개별소비세가 70%까지 인하된다. 또 주52시간제가 상시근로자 50~299명인 중소기업에도 확대 적용되는데, 다만 1년간... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMDAxMDZfMTcz%2FMDAxNTc4Mjg0NjQ4OTk4.eiZahSTWXZs7SkjEyRXC2C3Do20kqChaNzdTFMV0EgIg.m-LT8ujTV3PD1-DJdibC9Cl2q-Lmu6dxUmqp0o-82CIg.JPEG%2FI0-DubLQn3wcXHt8-gK4PwQDDzPM.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"행정응원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962913&cid=42149&categoryId=42149",
+			"description":"이는 일반적으로 협조응원, 사무의 촉탁 및 근무응원으로 나눌 수 있으며, 경찰응원(경찰<b>직무<\/b>응원법), <b>소방<\/b>응원(<b>소방<\/b>법), 군사응원(위수령) 등과 같이 법령에 특별한 규정이 있는 경우는 물론, 법령에 규정이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>서장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837681&cid=42117&categoryId=42117",
+			"description":" <b>소방<\/b>서의 책임자로서 관내의 <b>소방<\/b>에 관한 사무를 총괄하고 소속 <b>소방<\/b>관 및 직원을 지휘·감독한다. [수행<b>직무<\/b>] 화재의 예방, 진압, 재난현장에서의 구조, 구급 업무와 <b>소방<\/b>활동, 화재조사, 의용<b>소방<\/b>대 운영 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"버스터미널시설유지보수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028290&cid=42117&categoryId=42117",
+			"description":" 버스터미널의 이용차량 및 승객에게 편의를 제공하기 위하여 수배전 설비 및 발전설비, 통신설비, <b>소방<\/b>설비, 조명설비 등의 터미널 종합시설과 편의시설을 관리한다. [수행<b>직무<\/b>] 소화설비, 경보설비 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일일구(119)구조대원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025544&cid=42117&categoryId=42117",
+			"description":" 각종 재난 및 재해 발생 시 신속하고 안전한 인명구조 활동을 수행한다. [수행<b>직무<\/b>] 화재, 교통사고 등 각종 인명구조 상황 발생 시 차량, 헬기 등을 이용하여 긴급 출동한다. 현장에서 화재를 진압하고 인명을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"CCTV통합관제요원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627264&cid=42117&categoryId=42117",
+			"description":" CCTV 통합관제센터 등 스마트시티통합관제센터에서 CCTV 등 모니터링 장비를 실시간으로 감시하고 경찰관, <b>소방<\/b>관, 보호감찰관 등 유관 기관과 업무 협조를 통해 각종 사건 사고의 예방과 지원 및 사후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"하수처리기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664780&cid=42117&categoryId=42117",
+			"description":"하수가 침사지, 유입펌프장, 침전지, 포기조, 최종침전지 등을 거쳐 정화되는 동안 발생하는 악취를 제거하고 방류되는 하수를 <b>소방<\/b>수 등으로 재사용하기 위해 <b>소방<\/b>시설을 운영 및 관리한다. 유입하수와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가스생산사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024753&cid=42117&categoryId=42117",
+			"description":"설비보수에 따른 행정업무를 수행한다. 생산설비의 운전 및 업무일지를 관리하고 운전실적을 분석하여 관련 부서에 보고한다. 부서의 비품관리, <b>소방<\/b>안전, 보안업무 등을 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"유람선선장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665061&cid=42117&categoryId=42117",
+			"description":"모니터를 활용하여 안전하게 정박시킨다. 운행일지에 운행거리, 속력, 운행시간 등 운행 중 발생한 상황을 기록한다. 승무원들에게 <b>소방<\/b>기구사용법 등 안전에 대해 교육한다. 승무원의 복무관계를 총괄한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"지상파DMB방송망운영원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665184&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 지상파DMB 송중계소 및 DMBR(지상파 DMB 서비스 옥외 음영지역을 해소하는 중계기)의 송신기, 전력설비, 공조기, <b>소방<\/b>설비 등 기반 설비를 현장에서 확인한다. 오동작, 불량원인을 파악하고 유지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"극장관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024415&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 극장이나 영화관을 효율적으로 운영하기 위하여 영화상영, 온·오프라인 예매, 극장시설의 유지·보수, 마케팅, 대관, 매점, 회계, <b>소방<\/b>·안전·안내 업무를 수행하는 종사원들의 활동을 관리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바이오가스플랜트유지관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027466&cid=42117&categoryId=42117",
+			"description":"<b>소방<\/b>시설, 안전 및 재해방지 관리를 한다. 악취 제거시설을 이용해 악취를 제거하고 오염을 관리하는 등 주변환경 정비활동을 한다. 나무와 꽃을 심어 녹지를 조성하는 등 환경개선사업을 하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"공무원학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025349&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 일반직(기술, 연구, 행정) 또는 특정직(외무, 경찰, <b>소방<\/b>, 교육, 군무원 등) 공무원을 지망하는 수강생들을 대상으로 공무원 시험에 대한 강의를 실시한다. 연도별 출제경향을 파악하고 강의자료를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"터빈운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028379&cid=42117&categoryId=42117",
+			"description":"정기보수공사 및 주요기기 보수 시 보수내용을 파악하여 관련 기기를 확인·조작한다. 작업내용을 작업일지에 기록하여 인계·인수한다. 기타 안전, <b>소방<\/b>, 누유예방 및 에너지관리 업무를 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"건축설비설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028153&cid=42117&categoryId=42117",
+			"description":"건축, <b>소방<\/b>, 설비 등의 관련 법규 및 경제성을 검토한다. 설비, 설계에 대한 개략적인 시스템을 구상하고, 주요기기의 용량을 산정하여 기본계획을 수립한다. 태양열, 환기조건, 전열기, 인체에 미치는 영향, 환경... ",
+			"thumbnail":""
+		},
+		{
+			"title":"반도체재료생산관리기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658743&cid=42117&categoryId=42117",
+			"description":"최대의 가동시간을 확보·유지하며, 장비사용설명서 이해를 기반으로 안정적인 장비운영표준을 확보하며, 이상상황 발생에 따른 대응계획을 수립·공유한다. 국내 <b>소방<\/b> 및 산업안전 관련 법규에 의거 생산장비",
+			"thumbnail":""
+		},
+		{
+			"title":"중앙119구조본부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A4%91%EC%95%99119%EA%B5%AC%EC%A1%B0%EB%B3%B8%EB%B6%80",
+			"description":"<b>직무<\/b> 각종 대형·특수재난사고의 구조·현장지휘 및 지원 재난유형별 구조기술의 연구·보급 및 구조대원의 교육훈련 특별시장·광역시장·특별자치시장·도지사 및 특별자치도지사의 요청... ",
+			"thumbnail":""
+		},
+		{
+			"title":"발전설비조정제어원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028360&cid=42117&categoryId=42117",
+			"description":"완료되면 현장을 확인하여 정상가동 여부를 검사한다. 발전설비의 가동 중에 발생하는 긴급상황 및 장애요인의 대응요령을 분석·검토하여 일지에 기록한다. 기타 안전·<b>소방<\/b>, 누유예방 및 에너지를 관리한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"가스시설안전관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664882&cid=42117&categoryId=42117",
+			"description":"가스생산기지 내의 안전조치를 요하는 지역에서의 안전수칙 및 대처방법 등에 대한 안전표시물을 부착·관리하고 <b>소방<\/b>대를 운영·관리한다. 사고예방 및 방지를 위한 작업자 안전교육과 훈련을 실시한다. 안전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"검찰총장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837677&cid=42117&categoryId=42117",
+			"description":" 대검찰청의 각종 사무 및 국내 검찰사무를 통할하며, 소관 검찰청의 검사 및 직원을 지휘·감독한다. [수행<b>직무<\/b>] 대검찰청 소속 차장검사 또는 부장검사 아래에 정책기획, 계획입안, 연구·조사, 심사·평가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감리원보유현황확인서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2781835&cid=51373&categoryId=51373",
+			"description":"비, 전기, 통신, <b>소방<\/b>, 조경, 환경 등 각 분야마다 감리원이 있으며, 국가기술자격법에 따라 기술사, 기능장, 기사, 산업기사, 기능사 등의 국가자격을 취득한 사람을 뜻한다. 감리원 자격 증명을 위해서는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508205547659_S3L1MR59A.jpg\/ba17_36665_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"화재감식전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025423&cid=42117&categoryId=42117",
+			"description":" 화재현장에 출동하여 화재의 원인을 조사한다. [수행<b>직무<\/b>] 화재현장의 형태나 모습 그리고 목격자나 피해자의 진술을 통해서 범죄와의 연관성을 파악한다. 일치성 여부를 검사한다. 현장사진을 촬영한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화약류관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026500&cid=42117&categoryId=42117",
+			"description":"화약관리대장에 수급·불출현황을 기록하고 재고량을 확인하여 관할 부서에 보고한다. 화약저장소의 안전 및 보안상태, <b>소방<\/b>점검을 확인한다. 화약류에 관련된 각종 보고서를 작성하여 보고·보관한",
+			"thumbnail":""
+		},
+		{
+			"title":"국민안전처",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3552010&cid=40942&categoryId=39699",
+			"description":"행정자치부에 흡수·통합되었으며, 행정자치부는 현재 행정안전부로 이름을 바꿨다. 주요 <b>직무<\/b>는 안전 및 재난에 관한 전반적인 정책의 수립·운영 및 총괄·조정에 관한 사무, 비상 대비에 관한 사무,",
+			"thumbnail":""
+		},
+		{
+			"title":"지방공무원교육훈련법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1228280&cid=40942&categoryId=31702",
+			"description":"바 <b>직무<\/b>를 효율적으로 수행할 수 있는 기술과 능력을 함양시키기 위해 제정한 법(1995. 1. 5, 법률... <b>소방<\/b> 등 특수직 지방공무원의 교육훈련을 위해 특수교육훈련기관을 설치할 수 있다. 교육훈련기관에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰서장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837678&cid=42117&categoryId=42117",
+			"description":" 경찰서의 책임자로서 관내의 경찰업무에 관한 사무를 총괄하고 소속 경찰관 및 직원을 지휘·감독한다. [수행<b>직무<\/b>] 국민의 생명·신체 및 재산의 보호, 범죄의 예방·진압 및 수사, 치안 정보의 수집, 교통의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중앙119구조본부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=647040&cid=43124&categoryId=43124",
+			"description":" 국가 대형재난 발생 시 중앙정부 차원의 긴급구조 대응을 하는 <b>소방<\/b>청 산하 기관.  국가 대형재난 발생 시 중앙정부 차원의 긴급구조 대응을 하는 <b>소방<\/b>청 산하 기관. 해외 재난 발생 시 국제 구조 활동... ",
+			"thumbnail":""
+		},
+		{
+			"title":"법원장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837680&cid=42117&categoryId=42117",
+			"description":" 법원의 사법사무를 총괄하고 소속 판사 및 직원을 지휘·감독한다. [수행<b>직무<\/b>] 각급 법원의 수장으로서 관할 법원의 사법행정사무(사법재판과 사법행정에 관한 사무)를 관장한다. 소속 공무원을 지휘... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교도소장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837679&cid=42117&categoryId=42117",
+			"description":" 교도소의 행정·사무를 총괄하고 소속 교도관 및 직원을 지휘·감독한다. [수행<b>직무<\/b>] 형의 집행 등 형행에 관한 사무와 미결수용자의 수용에 관한 업무를 관장한다. 교도소 내 서무과, 보안과, 분류심사과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"헬기조종사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665025&cid=42117&categoryId=42117",
+			"description":" 각종 운행장비를 확인하고 조정간을 조작하여 헬기를 조종한다. [수행<b>직무<\/b>] 운항 부장으로부터 운항지시를 받는다. 각종 계기판의 안전점검을 실시한다. 이륙을 위하여 배터리와 발전기를 켠다. 각종... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안전위생관리기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664800&cid=42117&categoryId=42117",
+			"description":" 산업재해 예방계획의 수립에 관한 사항을 수행하며, 작업환경의 점검 및 개선에 관한 사항, 위해 및 위험방지에 관한 사항, 사고사례 분석 및 개선에 관한 사항, 근로자의 안전교육 및 훈련에 관한 업무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내선전공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028287&cid=42117&categoryId=42117",
+			"description":" 주택, 공장 및 기타 건축물에 전기를 공급하기 위해 전선 및 케이블을 배선하고 각종 전기시설물을 설치·보수한다. [수행<b>직무<\/b>] 옥내배선도나 도면을 확인하고 수용가옥 구조, 구조물 내부상태, 배전선로 위치... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건축배관공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026426&cid=42117&categoryId=42117",
+			"description":" 공장, 빌딩, 주택 등에 위생, 냉·난방, 상하수도 설비물을 성형·이음·배관하고, 여러 계기와 장치를 연결하여 조립·설치·보수한다. [수행<b>직무<\/b>] 설계도면을 검토하여 금속관, 비금속관 등 설치할 시설물의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국민안전처",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2569934&cid=42152&categoryId=42152",
+			"description":"<b>직무<\/b>분장의 주요 조직으로는 안전정책실·재난관리실·특수재난실, 중앙<b>소방<\/b>본부 및 해양경비안전본부 등이 있다. 안전정책실장은 안전총괄 기획·생활안전정책·비상대비민방위정책 등을, 재난관리실장은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공직자 윤리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2060540&cid=47331&categoryId=47331",
+			"description":"[ 1. 교과서 속 주개념] [공직자 윤리] 공직(公職)은 일반적으로 직접 혹은 간접으로 국민에 의해 선출되거나 정부에 의해 임명되는 국가나 지방 공공 단체의 공무를 담당하고 있는 직업을 총칭하며, 이를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공안부 <b>소방<\/b>국",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%B5%EC%95%88%EB%B6%80_%EC%86%8C%EB%B0%A9%EA%B5%AD",
+			"description":"공안부 제7국 으로 칭하기도 한다. <b>직무<\/b> 중화인민공화국 내의 <b>소방<\/b>부대의 지휘를 담당하며, 지역별로 <b>소방<\/b>대대나 <b>소방<\/b>중대를 배치에 운영하고 있다. 각주 외부 링크 공안부 <b>소방<\/b>국 - 공식 웹사이트",
+			"thumbnail":""
+		},
+		{
+			"title":"박재성 (1970년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%95%EC%9E%AC%EC%84%B1_(1970%EB%85%84)",
+			"description":"5 “<b>직무<\/b>관련 스트레스, 문제해결양식이 <b>소방<\/b>대원의 시리적 디스트레스에 미치는 영향” 한국화재<b>소방<\/b>학회 논문집, 2010년 12월 30일, Vol.24 No.6 “계단에서 올라가는 군집보행의 속도에 관한 조사 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위험물산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054088&cid=42114&categoryId=42114",
+			"description":"시행되던 기존의 실기시험이 개정되어 필답형으로만 시행된다(작업형 폐지). ② 위험물산업기사는 <b>소방<\/b>법시행령에 규정된 위험물의 저장, 제조, 취급조에서 위험물을 안전하도록 취급하고 일반작업자를",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20170712203843828_VOVIRF5YA.jpg\/da6_502_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"국립대전현충원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%EB%8C%80%EC%A0%84%ED%98%84%EC%B6%A9%EC%9B%90",
+			"description":"<b>직무<\/b> 국가 또는 사회에 희생·공헌한 분들의 충의와 위훈의 정신 선양 의전·의식·행사에 관한 사항... 「국립묘지의 설치 및 운영에 관한 법률」의 제정으로 <b>소방<\/b>공무원과 의사상자도 안장이 가능해짐.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공무원 평가 제도 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2824147&cid=55772&categoryId=55810",
+			"description":"2명, <b>소방<\/b>본부 2명]을 제외한 1만 6328명 모두가 지방 공무원[시장, 구청장 등 선출된 지방 자치 단체장 17명은 정무직 지방 공무원]이다. 시청에 2,220명, 시 직할 사업소에 1,981명, <b>소방<\/b>본부에 2,551명, 구... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위험물기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054086&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 없음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 위험물기능사 ① 위험물기능사란 산업인력공단에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191035477_XYS53ELY1.jpg\/da6_500_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"위험물기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054087&cid=42114&categoryId=42114",
+			"description":" 위험물기능장이란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 위험물기능장 자격시험에 합격하여 그 자격을 취득한 자를 말한다. 위험물기능장 시험은 필기시험과 실기시험으로 이루어지며... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724153644572_8JZNZSMXZ.jpg\/da6_501_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"행정경찰장정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962909&cid=42149&categoryId=42149",
+			"description":"여기에는 영업, <b>소방<\/b>, 위생, 신문잡지 등의 광범위한 사무가 포함되어 있어 경찰업무 영역의 광범성 및 <b>직무<\/b>규정의 포괄성 등 근대국가에서 흔히 나타나는 경찰업무와 일반행정과의 미분화현상을 엿볼 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공조냉동기계기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053964&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요   ① 공조냉동기술은 인간의 편리하고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203255219_NBU3JB9XG.jpg\/da6_378_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"신체검사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=659736&cid=42152&categoryId=42152",
+			"description":"경찰관·<b>소방<\/b>관과 같은 경우 그 특수 <b>직무<\/b>를 수행할 수 있는 능력이 있는지를 파악하는 체력검사[순발력·근력·인내력 등]도 모두 포함된다. 공무원 임용시험에 있어서 의학적 검사에 통과하려면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"차관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837675&cid=42117&categoryId=42117",
+			"description":" 중앙행정기관의 정무직 공무원으로서 소속 장관을 보좌하고 장관의 <b>직무<\/b>를 대행하여 수행한다. [수행<b>직무<\/b>] 각 원·부·처의 장관을 보좌한다. 장관의 위임을 받아 소속기관의 사무를 처리한다. 소속 공무원을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 국회 행정안전위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B5%AD%ED%9A%8C_%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"<b>직무<\/b> 소관 부처 행정안전부 경찰청 <b>소방<\/b>청 인사혁신처 중앙선거관리위원회 위원 명단 소위원회 소관 법률 각주 외부 링크 행정안전위원회 공식 홈페이지 Archived 2008년 7월 15일 - 웨이백 머신",
+			"thumbnail":""
+		},
+		{
+			"title":"화약류제조기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054199&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 평소에 간단한 불꽃(화약)놀이를 즐기는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716204059092_K1MRCF4XZ.jpg\/da6_613_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"안전부서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=465369&cid=50343&categoryId=50343",
+			"description":"제공하는 데에 있어서 중요한 역할을 수행하는 부서이다. 이 부서의 <b>직무<\/b>역할로는 객실열쇠의 관리, <b>소방<\/b>대피 업무, 비상시 대피업무, 호텔직원 교육업무, 고객재산의 보호, 분실물 처리업무 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%B0%B0%EA%B4%80",
+			"description":"경찰관 (警察官, 영어: policeman, police officer, patrolman, police agent, constable )은 경찰에 소속되어 주로 치안 유지의 <b>직무<\/b>를 수행하는 사람이다. 대한민국 같이 보기 경찰관 계급 <b>소방<\/b>관 외부... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국가공무원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525072&cid=46625&categoryId=46625",
+			"description":" 국가공무원에게 적용할 인사행정의 근본기준을 마련한 법. [내용] 공무원이 국민 전체의 봉사자로서 민주적이고 능률적인 행정을 하도록 제정된 법률이다. 1963년 4월 17일에 제정되어 그 동안 20차에 걸친... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이길종",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EA%B8%B8%EC%A2%85",
+			"description":"지역위원회 <b>직무<\/b>대행 위원장 민주노동당 경남도당 부위원장 민주노동당 중앙위원 민주노동당... 07 제9대 경상남도의회 전반기 건설<b>소방<\/b>위원회 위원 통합진보당 경남도당 거제시 위원회 위원장 2012.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립묘지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=66283&cid=43667&categoryId=43667",
+			"description":" 국가나 사회를 위하여 희생·공헌한 분들을 안장하고 그 충의와 위훈의 정신을 기리며 선양하는 곳으로, 2019년 현재 총 11개의 국립묘지가 있다. 여기에 현재 조성 중인 제주국립묘지가 조성(2021년 완료... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxOTEyMDJfMzAw%2FMDAxNTc1MjQ1MDkzMjg0.FTQnH4BR3TEke0DIguRzVRXuM-20lMd61aSJAYdH-Pwg.nWc_xSa9kdM3JbfA19lpCfYa57hWJAesYgbKGUmDEhIg.JPEG%2FIq8gqRS7R4A2NurwBeZ2HmSGslMI.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"대한민국의 공무원 임용시험",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B3%B5%EB%AC%B4%EC%9B%90_%EC%9E%84%EC%9A%A9%EC%8B%9C%ED%97%98",
+			"description":"불리며, <b>직무<\/b>와 관련된 업종에 일정기간 종사하였거나, 해당 자격증을 가진 경우에만 응시할 수 있다. 일반직공무원 특채 경찰공무원 특채 경찰 순경 국민안전처 순경 <b>소방<\/b>공무원 특채 구분모집 공무원... ",
+			"thumbnail":""
+		}
+	]
+}

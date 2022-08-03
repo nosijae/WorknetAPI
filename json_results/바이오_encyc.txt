@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:15 +0900",
+	"total":19693,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2288102&cid=60227&categoryId=60227",
+			"description":"“생”이나 “생물”을 의미하는 접두어. 그리스어 bios는 생명을 의미한다. 예를 들어 생화학(biochemistry), 생원소(bioelement), 생물 발광(bioluminescence) 등과 같이 사용된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4",
+			"description":"<b>바이오<\/b> ( 영어: VAIO )은 1996년 공개된 소니의 컴퓨터제품 하위브랜드였으나 현재는 매각되어 <b>바이오<\/b> 주식회사의 브랜드로 변경되었다. 역사 원래 Video Audio Integrated Operation의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=514265",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"기장의 재발견",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6550730&cid=67309&categoryId=67309",
+			"description":" 기장은 어떤  식물일까. 기장은 모든 작물 가운데 물 사용 효율(WUE)이 가장 높다. 재배 기간이 두세 달에 불과해 역시 작물 가운데 가장 짧다. 기장속은 약 450종으로 이뤄져 있는데, 최근... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTEyMTVfMTg1%2FMDAxNjM5NTQ5OTM1Njk2.jXs_dSWxoz70dCP8w2Vre1qp2FiLujk3LzhEnwhKUIIg.ZJq_goAcgs0qIUmtHL71pngtSvpDV7ZeIuICrNBl-EUg.JPEG%2FIZ6hHzA1xRvApQgRD7jAAe1q8ZDA.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x551#c540"
+		},
+		{
+			"title":"PBAT(Poly-Butylene Adipate Terephthalate)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6508031&cid=63839&categoryId=63839",
+			"description":" 지속가능성이 꾸준히 대두되며 생분해성 소재, 생분해성 플라스틱에 대한 관심이 높아지고 있다. 여러 생분해성 소재 중에서도 PBAT는 화석연료 기반의 생분해성 플라스틱으로 자연에서 빠르게 분해되며... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA5MjdfMTQw%2FMDAxNjMyNzE3MzA5NjU4.I7_W8yOsnYTaXfxq8V3BwP-4Enm-g6FFTUm9zlWWQK4g.RjX12HU7b4JyhI8JQq-BZSbOImJoQ3v7jaavZheuEg0g.JPEG%2FI-zS1sJZVeh_-AyZhDMXophj0idY.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x425#c425"
+		},
+		{
+			"title":"<b>바이오<\/b> 밸런스드 NPG(Bio-balanced NPG)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6478856&cid=63839&categoryId=63839",
+			"description":"[요약] <b>바이오<\/b> 밸런스드(Bio-balanced)는 재생가능한 원료로부터 추출한 <b>바이오<\/b> 원료를 투입해 만든 소재를 말한다. <b>바이오<\/b> 밸런스드 NPG는 기존 NPG 화학 원료의 일부를 재생 가능한 원료에서 추출해... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA4MjZfMjMz%2FMDAxNjI5OTM5MTcxNTI3.zbZWm5kKMp5LbYWkR8-ux7hDe3S4P0oO7K0jg4_Q9PUg.JvCXqsbLu1U7trmDx3JGPCj5Hcz64LukzCAnhcRY9bsg.JPEG%2FIDZcDlFACDEoWlVz75lP0nIOjaJk.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x406#c406"
+		},
+		{
+			"title":"PLA(Poly Lactic Acid)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6514064&cid=63839&categoryId=63839",
+			"description":" PLA(Poly Lactic Acid)는 <b>바이오<\/b>매스 기반의 생분해성 고분자 중 하나로 가장 널리 쓰이는 생분해 플라스틱이다. PLA는 순수 <b>바이오<\/b> 기반의 소재로 단단하고 투명하다. 탄소 중립적 관점에서 PLA는 생산의 전... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTEwMjFfMjkw%2FMDAxNjM0Nzc4OTExMjQ5.SebYOikEpNdXgm5X9SZjrg2czierZV8m_j3fE0CXfzEg.NmXNQHj3ITJKhzDABY-cF7cMT4eRVJrV5FQtDR8QKisg.JPEG%2FITDXU6Ol67UMWUmShlg-UouAUH-s.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x688#c540"
+		},
+		{
+			"title":"<b>바이오<\/b> 밸런스 SAP(Super Absorbent Polymer, 고흡수성 수지)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6459310&cid=63839&categoryId=63839",
+			"description":" SAP(Super Absorbent Polymer, 고흡수성수지)은 제 무게 200배 이상의 물을 흡수하는 소재이다. 3차원 그물 구조로 이루어졌으며 백색 가루 형태지만 물에 닿으면 겔(Gel) 형태로 변한다. SAP 소재는 물에... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA2MjhfMjU1%2FMDAxNjI0ODUyMDUwOTEy.FPwOTv--3dFyP1ACgQljVfSbE0_7R8BCvqqMN2zLnJwg.TcGhtFl5j60OkF0IpgKbz0EDpZcxm6M4rnWES5Q5rUYg.JPEG%2FIC1ihTJqQEnNjLM-uOgp8_4YCWvk.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x359"
+		},
+		{
+			"title":"<b>바이오<\/b>연료<b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5826052&cid=65669&categoryId=65669",
+			"description":"목질칩, 목직펠릿, <b>바이오<\/b>에탄올 등 <b>바이오<\/b>매스로부터 생산되는 제품화된 연료(wood chip).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>CMO",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3330764&cid=42107&categoryId=42107",
+			"description":"<b>바이오<\/b> 의약품을 위탁생산하는 의약품 전문 생산사업. 전자업계의 OEM이나 반도체의 파운드리와 유사한 개념이다. <b>바이오<\/b> CMO도 대규모 수주가 사업에 큰 영향을 끼치기 때문에 장기 생산물량을 조기에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b> CMO",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3342906&cid=43659&categoryId=43659",
+			"description":"<b>바이오<\/b> CMO란 제약업계에서 많이 사용되는 용어로 <b>바이오<\/b>의약품을 대행 생산하도록 아웃소싱을 맡기는 것을 뜻한다. 화학합성 의약품과 달리 유전자 재조합 기술과 세포배양 기술 등 새로운 생물 공학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=301947&cid=43668&categoryId=43668",
+			"description":"얻거나 생화학적 동정과 반응속도 또는 정보처리 속도를 높이는 생체정보 감지소자로, <b>바이오<\/b>칩을 크게 분류해 보면 DNA칩(DNA Chip), 단백질칩(Protein Chip), 랩온어칩(Lab-on-a-Chip) 등으로 나눌 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>베터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2066389&cid=50305&categoryId=50305",
+			"description":"재조합 DNA 기술을 응용해 만든 <b>바이오<\/b> 신약의 효능 등을 개선시킨 <b>바이오<\/b> 의약품. 기존 <b>바이오<\/b> 의약품보다 더 낫다(better)는 의미로 <b>바이오<\/b>베터라고 불린다. <b>바이오<\/b> 시밀러가 기존 <b>바이오<\/b> 신약을 복제한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>연료",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6173546&cid=62802&categoryId=62802",
+			"description":"<b>바이오<\/b> 연료(bio-fuel)는 석유와 같은 화석 연료(fossil fuel)처럼 매우 느린 지질학적 과정에 의해 생성되는 연료가 아니라 <b>바이오<\/b> 매스(bio-mass)로부터 화학 공정으로 생산한 연료를 의미한다. <b>바이오<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5506_000_1\/20201119154818841_XWNGE502V.jpg\/%25EB%25B0%2594%25.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>경제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=301933&cid=50305&categoryId=50305",
+			"description":"<b>바이오<\/b>기술의 발전에 따라 <b>바이오<\/b>제품의 보급·서비스를 향상하여 인류에 편익을 가져다주는 <b>바이오<\/b>기술 기반 경제",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>베터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3345330&cid=43667&categoryId=43667",
+			"description":" 오리지널 <b>바이오<\/b>의약품을 기반으로 효능이나 안전성, 편의성 등을 개량한 약이다. 기존 <b>바이오<\/b>의약품보다 더 낫다는 의미로 '<b>바이오<\/b>베터'라 불린다.  | 외국어 표기 | biobetter(영어) | 출처: 게티이미지... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxODA3MThfMjI5%2FMDAxNTMxOTAxNzE0Nzgw.4g_Am9UpnY6sPyULvSrNEHaAjIG0K5P3y1Ba-DATvpMg.t8iH440MI1GvDrnFJDA5BIIM95ArS3-B1pq4BAWiOIQg.JPEG%2FIWkDjuJoBpKL_rGsrXn_2898Y4yw.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>바이오<\/b>센서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2842411&cid=47309&categoryId=47309",
+			"description":"&quot;머리카락 한 올만 있으면 질병을 진단하고 예방도 할 수 있어요.&quot; 의료용 <b>바이오<\/b>센서 연구자인 카론은 초소형 <b>바이오<\/b>센서로 암을 진단하고 원인까지 밝혀낼 수 있다고 말한다. 의사의 손을 거치지 않고도... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2831_000_1\/20150811163839215_X2D1VCHK4.jpg\/s_gn8_22_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2065616&cid=42107&categoryId=42107",
+			"description":"즉 <b>바이오<\/b>테크노로지(생명공학)을 활용하여 주로 생물의 유전자등을 개선하여 필요 물질을 보다 효율적으로 얻기 위한 산업이다. 의약품을 개발·생산하는 의약 <b>바이오<\/b>, <b>바이오<\/b>매스(식물체)를 원료로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>디젤",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1234907&cid=40942&categoryId=32404",
+			"description":" 식물성 기름이나 동물성 지방을 원료로 하여 만든 <b>바이오<\/b>연료로 <b>바이오<\/b>에탄올과 함께 가장 널리 사용된다. 보통 메탄올을 이용해 3가의 지방산에 글리세롤이 결합한 트라이글리세리드로부터 글리세롤을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_362\/20200206070059485_5AA5OEIHK.gif\/797269_0.gif?type=m160_160"
+		},
+		{
+			"title":"산업<b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2079233&cid=50305&categoryId=50305",
+			"description":"재생가능 식물자원인 <b>바이오<\/b>매스를 원료로 <b>바이오<\/b> 기반 화학제품 또는 <b>바이오<\/b>연료 등의 물질을 생산하는, 즉 <b>바이오<\/b> 리파이너리(bio refinery)분야를 말한다. 옥수수, 사탕수수, 목재류 등의 <b>바이오<\/b>매스를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>밸리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1219796&cid=40942&categoryId=31868",
+			"description":" 생명과학 관련 대규모 연구기관이나 대학 또는 <b>바이오<\/b> 벤처기업들이 밀집해 있는 지역.  21세기에 접어들어 정보기술(IT)에 이어 <b>바이오<\/b>테크놀러지(생명공학) 산업의 중요성이 부각되면서 나타나기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>연료",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=301945&cid=50330&categoryId=50330",
+			"description":"<b>바이오<\/b>매스(Biomass)에서 얻는 연료로 살아 있는 유기체뿐 아니라 동물의 배설물 등 대사활동에서 나오는 부산물을 모두 포함하며, 화석연료와는 다른 신재생에너지로 <b>바이오<\/b>에탄올과 <b>바이오<\/b>디젤 등이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>멤스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5830634&cid=40942&categoryId=32308",
+			"description":" 초소형 정밀 기계 제작 기술(MEMS)과 <b>바이오<\/b> 기술을 결합하여 의료, 생명 공학 분야에 적용하는 기술.  초소형 정밀 기계 제작 기술인 멤스(MEMS, Micro Electro Mechanical System)과 <b>바이오<\/b> 기술을 결합하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프롬<b>바이오<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%94%84%EB%A1%AC%EB%B0%94%EC%9D%B4%EC%98%A4",
+			"description":"프롬<b>바이오<\/b> 는 대한민국의 건강기능식품 업체로, 2006년 진용내추럴에 설립하고, 국내 건강기능식품을 만들고 있다. 2014년 진용내추럴에서 프롬<b>바이오<\/b>로 상호명을 바뀌어, 현재 MBN 알토란에서 방영... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>중유",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3556045&cid=40942&categoryId=32411",
+			"description":" <b>바이오<\/b>에너지의 하나로, 동물성 혹은 식물성 유지와 저가 알코올을 반응시켜 만든 지방산 및 에스터 등이 원료이다.  <b>바이오<\/b>오일, <b>바이오<\/b>디젤과 같이 액상 <b>바이오<\/b>에너지의 하나로, 동·식물성 유지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=932919&cid=43667&categoryId=43667",
+			"description":" 생명체의 원리를 활용하는 산업으로, <b>바이오<\/b>테크놀로지(biotechnology)를 기업화하려는 산업 분야.  | 외국어 표기 | bioindustry(영어) | <b>바이오<\/b>산업은 선진국형 고부가 가치 산업으로 생물 자체 또는 그들이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업 <b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=302180&cid=50330&categoryId=50330",
+			"description":"<b>바이오<\/b>매스를 원료로 <b>바이오<\/b>기술(생촉매)을 이용해 <b>바이오<\/b>기반 화학제품(유기산, 아미노산, 폴리올, <b>바이오<\/b>폴리머 등) 또는 <b>바이오<\/b>연료(<b>바이오<\/b>에탄올, <b>바이오<\/b>디젤, <b>바이오<\/b>부탄올) 등을 생산하는 분야로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>마커",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5960915&cid=61234&categoryId=61234",
+			"description":"지질학에서 <b>바이오<\/b>마커는 자연에서 관찰되는 유기분자 중 특징적인 구조 혹은 동위원소 조성을 바탕으로 생물학적 기원에 대해 유추할 수 있는 분자를 일컫는다. <b>바이오<\/b>마커는 사슬 혹은 고리형의 탄화수소... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5284_000_1\/20200709154122605_DAHKI6YD7.png\/%25EB%25B0%2594%25.png?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=932927&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | biochip(영어) | <b>바이오<\/b>칩이란 전기적인 신호 처리가 가능한 또는 전기적 신호를 유발할 수 있는 장치의 개념이 내포되어 있는 생체의 기능을 모방한 인위적인 소자이다. 반도체칩이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1917998&cid=50317&categoryId=50317",
+			"description":"<b>바이오<\/b>칩농업용어사전: 농촌진흥청 유기물 분자를 활용하여 생물화학 소자로 전자 칩을 만든 것으로 주로 전자 회로나 스위치를 만드는 데 사용되며 이 칩은 인간이 산소로써 호흡하듯이 특수 산소로써... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3778909&cid=40942&categoryId=32325",
+			"description":"<b>바이오<\/b>칩에 대한 개념은 1980년 노벨상을 수상한 프레드릭 생어(Frederick Sanger)와 월터 길버트(Walter Gilbert)의 DNA 서열을 분석해내는 방법을 발견하는 것부터 시작될 수 있다. 이후 DNA 서열 분석의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>펄",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8E%84",
+			"description":"<b>바이오<\/b>펄 (BioPerl)은 1994년부터 시작된 펄 언어에서도 생명과학분야 모듈 구축 프로젝트 이름이다. 인간 게놈 프로젝트에서 필수적인 역할을 하고 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3586684&cid=59277&categoryId=59278",
+			"description":"<b>바이오<\/b>칩이란 생물에서 유래한 효소, 단백질, 항체, DNA(유전자), 미생물, 동식물 세포, 신경 세포 등과 같은 생체 유기물과 반도체와 같은 무기물을 조합하여 기존의 반도체칩 형태로 만든 소자(Device)이다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4874_000_1\/20170502191350066_449IU50MR.jpg\/ka39_261_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2459646&cid=46637&categoryId=46637",
+			"description":"이 분야의 발전을 위해서는 많은 양의 유전정보를 동시다발적으로 처리할 수 있는 작업이 중요해졌고, 이러한 필요성에 따라 <b>바이오<\/b>칩(biochip)이 빠르게 발전하고 있다. <b>바이오<\/b>칩은 기본적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>톱",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3392958&cid=60289&categoryId=60289",
+			"description":"<b>바이오<\/b>톱 또는 비오톱은 그리스어로 생명을 의미하는 '비오스(bios)'와 땅 또는 영역이라는 의미는 '토포스(topos)'가 결합된 용어로 생물들이 함께 살아가는 공동의 서식장소이다. <b>바이오<\/b>톱은 웅덩이, 산림... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>칩",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%B9%A9",
+			"description":"분자생물학에서 <b>바이오<\/b>칩은 수백, 수천 개의 동시다발적인 생화학적인 반응을 수행할 수 있는 축소된 실험실을 의미한다. <b>바이오<\/b>칩은 연구자들이 질병... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4461&cid=43659&categoryId=43659",
+			"description":"<b>바이오<\/b>테크놀러지(biotechnology)를 기업화하려는 새로운 산업 분야. 유전자 치환이나 세포 융합을 이용한 대량 배양, 효소를 사용해 물질을 합성하는 <b>바이오<\/b>리액터(bio-reactor)등 생체기능 자체를 응용한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>벼",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1167052&cid=40942&categoryId=32735",
+			"description":"<b>바이오<\/b>벼가 보급되면 농약을 쓰지 않고서도 벼농사를 지을 수 있고, 비타민 등의 특정영양을 보강한 벼의 생산도 가능하게 된다. 현재 실용화 단계에 들아간 것은 벼줄무늬잎마름병에 저항력을 가진 벼의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>쇼크",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3578113&cid=58773&categoryId=58777",
+			"description":"<b>바이오<\/b>쇼크 시리즈, 우리시대를 관통하는 묵직한 주제의식을 담고 있다 게임의 진화는 그 한계를 가늠하기 어렵다. 처음에는 쏘고 피하는 일차원적 재미로 시작했지만, 진화를 거듭하면서 이야기를 전달하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118174641175_B3RPGNOAT.jpg\/01_676.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=748472&cid=42341&categoryId=42341",
+			"description":"<b>바이오<\/b>칩은 현재의 트랜지스터나 IC메모리 등의 대용량화, 미세화가 언젠가는 부딪히리라는 극한의 벽을 생물 분자가 갖는 기능, 특히 현재의 물리 화학물질이 갖지 않은, 예를 들면 자기 조직화, 자기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>에너지조림<b>바이오<\/b>에너지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5826055&cid=65669&categoryId=65669",
+			"description":"<b>바이오<\/b>디젤 및 목재<b>바이오<\/b>매스를 확보하기 위한 조림",
+			"thumbnail":""
+		},
+		{
+			"title":"솔고<b>바이오<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%94%EA%B3%A0%EB%B0%94%EC%9D%B4%EC%98%A4",
+			"description":"솔고<b>바이오<\/b>메디칼 은 임플란트와 온열매트를 주로 생산하는 코스닥 상장 기업이다. 증시에서의 종목명은 솔고<b>바이오<\/b> 이다. 설립 후 30년간 병원용 의료기기와 가정용 헬스케어 사업 분야의 제품을 생산해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1169987&cid=40942&categoryId=31898",
+			"description":" <b>바이오<\/b>테크놀러지(biotechnology)를 기업화하려는 새로운 산업 분야로 생물 자체 또는 그들이 가지는 고유의 기능을 높이거나 개량하여 자연에는 극히 미량으로 존재하는 물질을 대량으로 생산하거나 유용한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b> 디젤",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2075460&cid=42107&categoryId=42107",
+			"description":"콩기름·유채기름·폐식물기름 등 식물성 기름을 원료로 해서 만든 <b>바이오<\/b>연료. 경유를 사용하는 디젤자동차의 경유 첨가제 또는 그 자체로 차량 연료로 사용된다. <b>바이오<\/b>디젤은 디젤자동차의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>센서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4463&cid=43659&categoryId=43659",
+			"description":"생물이 갖추고 있는 반응계를 이용하여 물질, 특히 유기화합물의 상태나 농도를 측정하는 측정기.의료, 발효공업, 식품공업, 농림수산업, 환경보존 등 폭넓은 응용이 기대된다.<b>바이오<\/b>센서의 메커니즘은 효소... ",
+			"thumbnail":""
+		},
+		{
+			"title":"융합 <b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=302808&cid=50370&categoryId=50370",
+			"description":"<b>바이오<\/b> 기술을 기반으로 IT 등을 융합하여 제품을 개발하는 분야로 생체 신호 진단 기기 개발, <b>바이오<\/b> 장비 제작, U-헬스케어용 <b>바이오<\/b>센서 개발 등을 포함한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>밸리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=932918&cid=43667&categoryId=43667",
+			"description":" 대규모 생명 과학 연구 기관이나 대학 및 <b>바이오<\/b> 벤처 기업이 집중된 지역을 실리콘밸리에 빗대어 이르는 말.  | 외국어 표기 | biovalley(영어) | 실리콘밸리에 빗대어 붙여진 전 세계적으로는 미국의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>나",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%82%98",
+			"description":"<b>바이오<\/b>나 (Baiona)는 폰테베드라주의 도시로, 인구는 11,337명이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>센서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5703204&cid=61232&categoryId=61232",
+			"description":"<b>바이오<\/b>센서는 효소와 항체 같은 생물학적 물질과 흔히 복잡한 혼합물 중에서 검출하고자 하는 분자 사이의 특별한 반응을 이용한다. 식품유래 병원체와 독소를 검출하기 위한 장치에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5282_000_1\/20181218190119462_KGL3KWO9W.jpg\/FDA_Center_for_F.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=844053&cid=42346&categoryId=42346",
+			"description":"종류로는 <b>바이오<\/b>센서, DNA 마이크로어레이, 단백질 칩, 셀 칩, 뉴론 칩과 생체 삽입용 칩, 랩 칩(lab-on-a chip) 등으로 분류되는 생물 공학과 전자 공학의 경계에서 전개되는 생체 전자의 연구 산물들이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"그린<b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1836410&cid=43659&categoryId=43659",
+			"description":"생명공학이 농수산업 분야에 응용된 개념이다. 가공되지 않은 1차식품에 <b>바이오<\/b> 기술을 가미해 기능성소재와 식물종자, 첨가물 등 고부가가치 제품을 만들어내는 것을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=338273&cid=44616&categoryId=44616",
+			"description":"생물 세포 중의 단백질 속에 반도체와 비슷한 전기적(電氣的) 성질이 있는 것을 응용한 것으로, 생물 화학적 소자 개념이 라는 뜻에서 <b>바이오<\/b>칩(생물 소자)이라 말한다. 크기는 겨우 0.1미크론이지만 집적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"레드<b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1836409&cid=43659&categoryId=43659",
+			"description":"생명공학이 의학·약학 분야에 응용된 개념이다. 혈액의 붉은색을 본따 붙여진 명칭이다. 질병 예방, 진단, 치료와 관련된 신약 개발, 진단시약, 줄기세포 등이 레드<b>바이오<\/b>에 포함된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"의약 <b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=302823&cid=50366&categoryId=50366",
+			"description":"질병 치료 등에 활용되는 의약품을 개발하는 분야로 재조합 <b>바이오<\/b> 의약품(단백질의약품, 치료용 항체, 백신, 유전자의약품 등), 재생 의약품(세포치료제, 조직 치료제, <b>바이오<\/b> 인공장기 등), 저분자 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>필터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5144683&cid=61232&categoryId=61232",
+			"description":"<b>바이오<\/b>필터(biofilter)는 생물막 반응기(biofilm reactor)라고도 불리며, 미생물, 특히 세균(bacteria)을 이용하여 다양한 고체의 표면 위에 세균이 집락(colony)을 형성한 생물막(biofilm, 그림 1)을 만든 후... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5282_000_1\/20180827124914108_D45LIBG52.jpg\/%25ED%2599%2598%25.?type=m160_160"
+		},
+		{
+			"title":"제일<b>바이오<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%9C%EC%9D%BC%EB%B0%94%EC%9D%B4%EC%98%A4",
+			"description":"제일<b>바이오<\/b> 는 발효를 기반으로 하는 동물약품을 제조 판매하는 코스닥 상장기업이다. 약품은 직접 제조할 뿐 아니라, 관련 상품을 수입하여 유통하기도 한다. 예를 들어 제일<b>바이오<\/b>는 인분해효소로서 중요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>코아",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3583705&cid=43167&categoryId=43167",
+			"description":" 국내 최초의 약물분석 분야 임상시험수탁기관(CRO) 기업이자 분자진단 전문 <b>바이오<\/b> 기업.  <b>바이오<\/b>코아(주)는 2001년 5월 의학 및 약학 연구개발업을 목적으로 설립된 회사다. 6월에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20170406111219579_TG7NX9J2R.jpg\/company_3586_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b> 인식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2446766&cid=51642&categoryId=51643",
+			"description":"[<b>바이오<\/b> 인식] <b>바이오<\/b> 인식이란 생체 정보나 행동 특성을 사용해서 사람을 인식하는 것을 말한다. 홍채, 지문, 혈관패턴, 음성, 걸음걸이 등 다양한 <b>바이오<\/b> 인식의 예를 확인할 수 있다.(동영상 출처 : EBS... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/17\/373\/531C04F3A30FF33C7CE37270535F0D134C5_muploader_l_480P_854_1024_128_logo.jpg#1280x720#m"
+		},
+		{
+			"title":"티움<b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5893818&cid=40942&categoryId=34657",
+			"description":" 희귀질환 치료제를 개발하는 전문 제약·<b>바이오<\/b> 기업.  (단위: 백만원) [연간 통계] || || 구분 || 2018년 || | 상시종업원수 | 28명 | | 매출액 | 1,128 | | 영업이익 | -5,240 | | 경상이익 | -13,751 | | 당기순이익... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>MSM",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3418620&cid=58440&categoryId=58442",
+			"description":"[성상] 이미 이취가 없고, 고유의 향미가 있는 보라색의 정제 [섭취방법] 260 mg 정제를 1일 2회, 1회 4정씩 충분한 물과 함께 섭취. [주된 기능성] ① 관절 및 연골건강에 도움을 줄 수 있음",
+			"thumbnail":""
+		},
+		{
+			"title":"원<b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6213655&cid=58440&categoryId=58442",
+			"description":"[성상] 고유의 향미가 있고 이미, 이취가 없는 백색 및 갈색의 알갱이가 섞인 연한 노랑 갈색 분말을 함유한 연노랑 경질캡슐 [섭취방법] 1일 1회, 1회 1캡슐씩 충분한 물과 함께 섭취 [주된 기능성] * 프로<b>바이오<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>마커",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2067285&cid=42107&categoryId=42107",
+			"description":"<b>바이오<\/b>마커를 활용하면 생명체의 정상 또는 병리적인 상태, 약물에 대한 반응 정도 등을 객관적으로 측정할 수 있다. 암을 비롯해 뇌졸중, 치매 등 각종 난치병을 진단하기 위한 효과적 방식으로 각광받고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b> 칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=869943&cid=42388&categoryId=42388",
+			"description":"이것이 <b>바이오<\/b> 칩의 구상인데, 각 방면에 커다란 충격을 주었다. 내용은 3차원적인 분자조직체 구성법으로, 단분자막, 항원 항체반응 및 빔 묘화법을 조합한 것이다. 항체 담백을 사용해서 특정한 분자-항원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"그린 <b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=301541&cid=50305&categoryId=50305",
+			"description":"농업생명체를 활용하여 <b>바이오<\/b>농업을 실용화할 수 있는 제품을 개발하는 분야로 <b>바이오<\/b>매스 등을 포함",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b> 인증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=301932&cid=50372&categoryId=50372",
+			"description":"사람의 고유한 <b>바이오<\/b>정보를 이용하여 신원을 확인할 때, 그 사람의 ID를 주고 ID에 해당하는 저장된 특징과 입력된 특징을 비교(1:1 비교)하는 기술",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b> 여권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=14303&cid=43659&categoryId=43659",
+			"description":"여권의 위·변조 방지를 위해 지문, 얼굴, 눈의 홍채 등 <b>바이오<\/b> 매트릭스(생체인식)를 활용해 본인임을 확인하는 새로운 여권이다. 미국, 영국, 일본 등에서 9·11테러 이후 국제 테러범 등이 위조 여권을 사용해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b> 개스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2064021&cid=50305&categoryId=50305",
+			"description":"미생물 등을 사용해서 생산된 수소 ·메탄 등과 같은 가스 상태의 연료. <b>바이오<\/b>개스의 형태는 퇴비가스, 습지가스, 폐기물 등의 자연적으로 생성되는 것과 제조된 가스도 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b> 숯",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4_%EC%88%AF",
+			"description":"<b>바이오<\/b> 숯 은 나무와 풀, 옥수숫대 등 유기물질을 산소가 없이 밀폐된 공간에서 태워 얻는 숯이다. 그 과정에서 가열돼 발산되는 가스는 채취해 연료로 사용할 수 있고 마지막엔 숯이 남게 된다. 각주",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b> 칩",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2756250&cid=50307&categoryId=50307",
+			"description":"종류로는 <b>바이오<\/b> 센서, DNA 마이크로 어레이, 단백질 칩, 셀 칩, 뉴론 칩과 생체 삽입용 칩, 랩 칩(labona chip) 등, 생물 공학과 전자 공학의 경계에서 전개되는 생체 전자의 연구 산물들이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b> 멤스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=68279&cid=43667&categoryId=43667",
+			"description":"이 멤스와 <b>바이오<\/b>기술(BT)을 결합하여 의료.생명공학 분야에 적용해 활용하는 것이 '<b>바이오<\/b> 멤스'이다. ' 대표적이 '<b>바이오<\/b> 멤스'는 '랩온어칩(Lab-on-a-chip)'이다. 랩온어칩은 초소형 칩에 실험실에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b> 장기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=68281&cid=43667&categoryId=43667",
+			"description":"기능을 잃은 인간의 조직과 장기를 복원·재생·대체하기 위하여 다른 동물의 세포와 장기를 개발한 뒤 이를 인간 체내에 이식하는 기술로, <b>바이오<\/b> 장기는 난치병 등 각종 인간 질환 해결을 위한 차세대... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>부탄올",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2805209&cid=43659&categoryId=43659",
+			"description":"<b>바이오<\/b>부탄올은 <b>바이오<\/b>디젤, <b>바이오<\/b>에탄올과 함께 3대 <b>바이오<\/b> 에너지로 불린다. 기존 <b>바이오<\/b> 연료와 달리 엔진을 개조하지 않아도 차량용 연료로 사용할 수 있고 페인트, 잉크, 접착제 등 다용도로 활용할 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>에탄올",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1234906&cid=40942&categoryId=32404",
+			"description":" 사탕수수·밀·옥수수·감자·보리 등 주로 녹말작물을 발효시켜 차량 등의 연료 첨가제로 사용하는 <b>바이오<\/b>연료로서 <b>바이오<\/b>디젤과 함께 가장 널리 사용된다.  <b>바이오<\/b>디젤과 함께 가장 널리 사용되는 <b>바이오<\/b>연료... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_352\/20190718075904030_0L0VUIHU5.gif\/797268_0.gif?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>씨앤디",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3609981&cid=43167&categoryId=43167",
+			"description":" <b>바이오<\/b>시밀러 및 <b>바이오<\/b>의약품을 연구개발하는 제약업체.  (주)<b>바이오<\/b>씨앤디는 2009년 10월에 설립되었으며 수십년간 <b>바이오<\/b>의약품 개발 노하우를 가진 전문가들이 모여 <b>바이오<\/b>의약품... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_1\/20170710165003273_K4CEEZ5BK.jpg\/company_3614_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>하자드",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3576261&cid=58773&categoryId=58777",
+			"description":"[<b>바이오<\/b>하자드] 좀비. 첫 등장씬은 엄청난 센세이션을 일으켰다. 1968년 조지 A. 로메로의 [살아있는 시체들의 밤]은 전 세계 호러 마니아들을 매혹시켰다. 이 영화에 등장하는 ‘좀비’는 역사상 가장... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118165255936_7C75CFFL1.jpg\/img01_59.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>에탄올",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=14302&cid=43659&categoryId=43659",
+			"description":"휘발유와 혼합하거나 단독으로 자동차 연료로 사용할 수 있어 <b>바이오<\/b>디젤과 함께 대표적인 재생자원 에너지로 꼽힌다. <b>바이오<\/b>에탄올은 녹말(전분) 작물의 포도당을 발효시켜 만들며, 유지(油脂) 작물에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>컴퓨터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4465&cid=43659&categoryId=43659",
+			"description":"확실한 정의는 아직 없지만 단백질을 사용한 <b>바이오<\/b> 소자로 컴퓨터를 조립한 것으로, 인간의 뇌와 유사한 기능이나 작동을 하도록 설계되어 있다. 현재 신경세포 조직의 연구, 단백질을 사용한 <b>바이오<\/b>소자를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>화장품",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1169990&cid=40942&categoryId=32161",
+			"description":" 생물이 자연적으로 만들어내는 성분을 <b>바이오<\/b>테크놀러지(biotechnology)를 이용하여 생산하고, 그 성분을 함유시킨 화장품.  <b>바이오<\/b>테크놀러지는 유전자의 바꿔치기나 세포 융합, 대량 복제 기술인 클론(clone)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>부탄올",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1943399&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | bio-butanol(영어) | | 공식명칭 | <b>바이오<\/b>뷰탄올 | <b>바이오<\/b>디젤, <b>바이오<\/b>에탄올과 함께 3대 <b>바이오<\/b>에너지로 불린다. <b>바이오<\/b>부탄올은 에너지 밀도가 높고, 기존 곡물 등을 이용한 다른 <b>바이오<\/b>매스에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>연료",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1716393&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | biofuel(영어) | <b>바이오<\/b>에너지를 생산해 낼 수 있는 에너지원이 되는 식물ㆍ미생물ㆍ동물 등의 생물체(<b>바이오<\/b>매스)와 음식쓰레기ㆍ축산폐기물 등을 열분해하거나 발효시켜 만들어낸 연료를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화이트<b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1836411&cid=43659&categoryId=43659",
+			"description":"옥수수, 콩 등 재생 가능한 생물자원을 이용하거나 미생물ㆍ효소 등을 활용해 기존 화학ㆍ에너지 산업의 소재를 대체하는 기술, <b>바이오<\/b>플라스틱, <b>바이오<\/b>에탄올 등이 이에 해당한다. 제품 생산 과정에서 탄소... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>센서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5827833&cid=62802&categoryId=62802",
+			"description":"[목차] 1.<b>바이오<\/b>센서의 정의 2.<b>바이오<\/b> 수용체의 종류 2.1.항원\/항체 상호 작용 2.2.효소 상호 작용 2.3.핵산의 상호작용 3.신호 측정 방법에 따른 <b>바이오<\/b>센서의 분류 3.1.광학 방식 3.2.전기 화학 방식 3.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5506_000_1\/20190828182709807_LX62YDQ4U.jpg\/glucose_sensor.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>마커",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4",
+			"description":"<b>바이오<\/b>마커 ( 영어: biomarker )는 일반적으로 단백질이나 DNA, RNA(리복핵산), 대사물질 등을 이용해 몸 안의 변화를 알아낼 수 있는 지표를 의미한다. 이러한 용어는 유기체의 존재를 알려주는 물질을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>디젤",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%94%94%EC%A0%A4",
+			"description":"<b>바이오<\/b>디젤 (biodiesel)은 석유 기반인 경유의 대안으로 식물성 기름이나 동물성 지방과 같이 재생 가능한 자원을 바탕으로 제조된다. 화학적으로 <b>바이오<\/b>디젤은 긴 지방산 고리를 가진... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화이트 <b>바이오<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6182564&cid=43667&categoryId=43667",
+			"description":" 옥수수·콩·목재류 등 재생 가능한 식물자원을 원료로 화학제품 또는 <b>바이오<\/b>연료 등을 생산하는 기술을 가리킨다. 화이트 <b>바이오<\/b>는 의약품·치료와 관련된 레드 <b>바이오<\/b>, 농수산업·환경제어와 관련된 그린... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMDEyMTdfMjkg%2FMDAxNjA4MTY4NzQzODEy.xWcEelw4ETR24uSzi3-MNZGCcHDFlF9Wm-mu3C2Hje8g._VgAJMvCJ4w9W_0tks1KqXSN0wBTdbJ7zuTCcYXdvI0g.JPEG%2FIs6SGjZxyEzPfkQ7e44WwhWQkiiI.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"농우<b>바이오<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%86%8D%EC%9A%B0%EB%B0%94%EC%9D%B4%EC%98%A4",
+			"description":"농우<b>바이오<\/b> 의 전신은 1981년 세워진 농우종묘사다. 1990년 회사 형태를 법인으로 바꾸고 이름을 농우종묘주식회사로 변경했다. 1993년 육종연구소를 세웠다. 2000년 회사 이름을 주식회사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>웨어",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%9B%A8%EC%96%B4",
+			"description":"<b>바이오<\/b>웨어 는 1995년 2월에 설립된 캐나다 게임 개발 업체이다. <b>바이오<\/b>웨어는 PC와 콘솔용 게임을 개발하며, 컴퓨터 롤플레잉 게임, 발더스 게이트나 네버윈터 나이츠와 같이 크게 성공한 게임으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>스타",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%8A%A4%ED%83%80",
+			"description":"<b>바이오<\/b>스타 마이크로테크 인터내셔널 (Biostar Microtech International Corp, 映泰股份有限公司) 또는 간단히 <b>바이오<\/b>스타 (Biostar)는 타이완에 위치한 메인보드 제조업체의 하나로, 메인보드, 그래픽 카드... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>센서",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%84%BC%EC%84%9C",
+			"description":"<b>바이오<\/b>센서 는 생물학적 요소와 물리화학적 탐지기를 결합한 분석을 위한 장치로, 분석물질의 탐색에 사용된다. - 민감한 생물학적 요소, 생물학적으로 끌어낸 재료, 연구 중에 분석물질과 상호작용하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>밸리",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%B0%B8%EB%A6%AC",
+			"description":"<b>바이오<\/b>밸리 (BioValley)는 다음을 가리킨다. <b>바이오<\/b>테크놀로지 산업단지(Biotechnology industrial park) <b>바이오<\/b>벨리 (유럽) <b>바이오<\/b>벨리 (말레이시아) <b>바이오<\/b>벨리 (유타주) 같이 보기 제목에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>디젤",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=932912&cid=43667&categoryId=43667",
+			"description":"<b>바이오<\/b>디젤은 2002년 11월부터 전북과 수도권 지역에서 시범 보급되어 왔으며, 2006년 7월 이후에는 일선 주유소에서 판매되었다. 경유에 섞어서 사용할 수도 있고 100% <b>바이오<\/b>디젤만으로 사용할 수 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>디젤",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=798959&cid=43121&categoryId=43121",
+			"description":"학술 용어로 식물성 기름이나 동물성 지방의 모노 알킬에스테르류라고 부르는 <b>바이오<\/b>디젤은 석유 기반 제품에 덜 의존하려는 인류의 노력으로 탄생한 새로운 개념의 물질이다. 그러나 지금까지 대체 연료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>리듬",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A6%AC%EB%93%AC",
+			"description":"<b>바이오<\/b>리듬 ( 영어: biorhythm )은 인체에 신체,감성,지성의 세가지 주기가 있으며 이 세가지 주기가 생년월일의 입력에 따라 어떤 패턴으로 나타나고 이 패턴의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>자바",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%9E%90%EB%B0%94",
+			"description":"<b>바이오<\/b>자바 (BioJava)는 1995년 케임브리지 MRC 센터의 박종화가 아스트리드 라인하르트와 시작한 자바를 이용한 생명정보 분석 모듈프로젝트이다. <b>바이오<\/b>펄의 자매... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>알콜",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3597274&cid=40942&categoryId=32308",
+			"description":"발효시키는 원료에 따라 사탕수수나 녹말 등 식용 가능한 곡물류 원료를 발효시켜 생산한 1세대 <b>바이오<\/b>알코올, 식용 불가능한 나무 줄기나 가지 등의 목질계 원료로부터 얻는 2세대 <b>바이오<\/b>알코올로 나뉜다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>가스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1917988&cid=50317&categoryId=50317",
+			"description":"<b>바이오<\/b> 가스지식경제용어사전 혐기적 소화작용으로 <b>바이오<\/b>매스에서 생성되는 메탄과 이산화탄소의 혼합 형태인 기체를 말한다. 이러한 혼합기체에서 분리된 메탄을 <b>바이오<\/b>메탄가스라고 한다. 그 외... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>메가",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A9%94%EA%B0%80",
+			"description":"<b>바이오<\/b>메가 의 다른 뜻은 다음과 같다. <b>바이오<\/b>메가 (자전거) <b>바이오<\/b>메가 (만화) 같이 보기 제목에 &quot;<b>바이오<\/b>메가&quot; 항목을 포함한 모든 문서",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>센서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=932921&cid=43667&categoryId=43667",
+			"description":"총칭하여 <b>바이오<\/b>센서라 한다. 즉, <b>바이오<\/b>센서는 생물이 가지고 있는 기능, 특히 효소나 미생물 세포 등 생체 촉매가 특정한 물질하고만 반응하는 성질을 가려내 이용하는 센서다. <b>바이오<\/b>센서의 메커니즘은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>가스",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EA%B0%80%EC%8A%A4",
+			"description":"<b>바이오<\/b>가스 (biogas), 생물기체 (생물가스)는 산소가 없는 환경에서 유기물이 분해되면서 생산되는 다양한 기체의 혼합물을 가리킨다. <b>바이오<\/b>가스는 농업 쓰레기, 두엄, 일반 쓰레기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>쇼크",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%87%BC%ED%81%AC",
+			"description":"《 <b>바이오<\/b>쇼크 》( 영어: BioShock )는 2K 보스턴\/2K 오스트레일리아 (예전 이래셔널 게임즈) 가 제작하고 켄 러빈이 디자인한 1인칭 슈팅 비디오 게임이다. 마이크로소프트 윈도우와 엑스박스 360용이 먼저... ",
+			"thumbnail":""
+		}
+	]
+}

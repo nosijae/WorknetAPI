@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:21 +0900",
+	"total":28068,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449098&cid=42876&categoryId=42876",
+			"description":"따라서 종래 질병, 상해(傷害) 치료를 중심으로 발전해 온 의학에 대해서 건강 유지 증진을 대상 속에 넣어서 건강에 관한 여러 문제에 대처하여, 보다 바람직한 고차적인 건강생활을 확립하려는 데 <b>보건<\/b>의 기본... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=576479&cid=46638&categoryId=46638",
+			"description":" 국민의 건강을 보전, 증진시키는 활동. [내용] 세계<b>보건<\/b>기구는 그 헌장에서 ‘건강이란 단순히 질병이 없거나 허약하지 않을 뿐만 아니라 신체적·정신적 그리고 사회적 안녕이 완전히 보장된 상태’라고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_8\/20180907192031623_9GGYAZQRD.jpg\/bf187c3a-47e6-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1714551&cid=43938&categoryId=43947",
+			"description":"미국은 사적 책임과 공적 책임을 혼합한 형태의 <b>보건<\/b> 시스템을 갖추고 있다. 대다수의 미국인은 직장 보험을 통해 의료비의 일부를 납부하고 있다. 미국의 노동 인구 6명 중 5명은 고용주와 직원이 공동으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2281_000_1\/20120611144855442_XTVCS52DE.jpg\/bf1_260_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=368196&cid=50317&categoryId=50317",
+			"description":"건강을 유지하는 것. 최근에는 건강증진, 질병의 발견과 치료, 재활, 질병의 예방 등을 포괄적으로 취급하는 경우도 많다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449099&cid=50344&categoryId=50344",
+			"description":"석궁(石弓). 활과 총의 중간이라 할 수 있는 무기. 시위를 당겨 놓고 발사는 방아쇠를 당긴다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1367522&cid=40942&categoryId=34126",
+			"description":"미국 미시시피주 야주카운티에 있는 자치구이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%B4%EA%B1%B4",
+			"description":"<b>보건<\/b> (保健)은 건강을 유지하는 것을 말한다. 학문적으로는 <b>보건<\/b>학 (保健學) 또는 건강과학 (健康科學, health science)이라고 부른다. 개요 건강과학이란 이러한 건강과 연관된 학문분야를 통합적으로 일컫는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=702402",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"공중<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1171924&cid=40942&categoryId=32824",
+			"description":" 지역사회에서 사회적 노력을 통하여 질병을 예방하고 주민 모두의 건강을 유지하고 증진시키기 위한 기술.  WHO의 정의에 의하면 환경위생의 개선, 전염병의 예방, 개인위생의 원리에 기초를 둔 위생교육... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>의 정의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2272921&cid=51299&categoryId=51301",
+			"description":"<b>보건<\/b>이란 영어단어인 ‘health’의 ‘hal’에서 온 것으로 몸의 건강을 의미하고 있다. 일반적으로 ‘health’를 ‘건강’ 혹은 ‘<b>보건<\/b>’으로 번역하여 사용하고 있으며, 전문 학문분야에서는 이를 <b>보건<\/b>학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b> (아산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5912657&cid=66498&categoryId=66522",
+			"description":"[개설] 세계<b>보건<\/b>기구의 헌장에서는 건강을 ‘단순히 질병이 없거나 허약하지 않을 뿐만 아니라 신체적·정신적 그리고 사회적 안녕이 완전히 보장된 상태’라고 규정하고 있다. 공중<b>보건<\/b>은 세계<b>보건<\/b>기구가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소<b>보건<\/b>간호업무",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=492025&cid=60408&categoryId=55558",
+			"description":"<b>보건<\/b>소에서 지역 주민 <b>보건<\/b> 서비스의 중핵을 이루며 가정방문과 방문이외의 클리닉활동으로 나뉘어진다. 가정방문의 대상은 과거에는 결핵이 가장 많았으나 현재는 임산부ㆍ유아 등 모자가 <b>보건<\/b>대상을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=576483&cid=46638&categoryId=46638",
+			"description":" <b>보건<\/b>행정의 합리적인 운영과 국민<b>보건<\/b>의 향상을 도모하기 위하여 전국의 시·군·구 단위에 설치된 <b>보건<\/b>행정기관. [내용] 19세기 후반까지는 질병의 원인을 과학적으로 파악하지 못했기 때문에 동서양을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_4\/20180605192808057_BTYPO1I00.jpg\/4c63bdcf-2960-42.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1102285&cid=40942&categoryId=32746",
+			"description":" 국가 <b>보건<\/b>행정의 합리적 운영과 국민<b>보건<\/b>의 향상을 도모하기 위한 의료기관(<b>보건<\/b>소법 1조).  <b>보건<\/b>소는 지방자치단체의 조례가 정하는 바에 따라 전국의 각 구 ·시 ·군에 설치되어, 공공부문(公共部門)의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_25\/20180917202404949_3C76R7VFJ.jpg\/105464.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449111&cid=42876&categoryId=42876",
+			"description":"1991년 3월 8일 법률 제4355호로 개정•공포된 <b>보건<\/b>소법에 의하고 대통령령이 정하는 기준에 따라 지방 자치 단체가 조례로 설치하게 되어 있는 <b>보건<\/b>•의료기관. 규정에 따라 <b>보건<\/b> 지소 설치가 허용된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449112&cid=42876&categoryId=42876",
+			"description":"〈<b>보건<\/b>학의 정의〉 종래의 의학은 임상의학(臨床醫學)을 중심으로 해서 질병•상해 등의 건강 장애를 치료하고 건강의 회복과 유지를 직접적인 목표로 해서 발전시켜 온 학문 영역인 데 반해 <b>보건<\/b>학은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1102282&cid=40942&categoryId=32824",
+			"description":" <b>보건<\/b>에 관하여 국가적 배려를 요구할 수 있는 권리.  생존권적(生存權的) 기본권의 하나이며, <b>보건<\/b>에 관한 권리라고도 한다. 한국 헌법 제36조 3항에 “모든 국민은 <b>보건<\/b>에 관하여 국가의 보호를 받는다”라고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>운동",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=576484&cid=46667&categoryId=46667",
+			"description":" 1932년 <b>보건<\/b>운동사에서 <b>보건<\/b>·위생에 관한 과학적 연구와 <b>보건<\/b>·위생 사상의 보급 등을 목적으로 창간한 잡지. <b>보건<\/b>전문월간지. [내용] 1932년 2월 1일 양봉근(楊奉根)이 편집 및 발행을 맡아 <b>보건<\/b>운동사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837682&cid=42117&categoryId=42117",
+			"description":" <b>보건<\/b>소의 행정·사무를 총괄하고 소속 직원을 지휘·감독한다. [수행직무] 법률로 정해진 <b>보건<\/b>소의 업무인 국민건강증진·<b>보건<\/b>교육·구강건강 및 영양관리사업, 감염병의 예방·관리 및 진료, 모자<b>보건<\/b> 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2780685&cid=51373&categoryId=51373",
+			"description":" 근로자의 <b>보건<\/b>상태를 관리하여 기록하는 문서.  <b>보건<\/b>이란 병의 예방, 치료를 목적으로 사람의 건강을 보호하고 증진하는 일을 말한다. 직장 내 업무 효율을 높일 수 있고 개인 건강 증진을 위해 사전에 <b>보건<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508201755564_XT8YC1AMR.jpg\/ba17_5561_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1829448&cid=42279&categoryId=42279",
+			"description":"<b>보건<\/b>은 건강 유지와 증진을 도모하고, 건강한 생활을 영위하도록 하기 위해서 개개인을 지원하는 제도를 말한다. 확립하기 위해 개인의 자율적인 노력을 이끌어 주면서 타율적으로도 지원하는 것을 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128194840848_7OCQHHX5Z.jpg\/hb10_1992_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5676276&cid=62841&categoryId=62841",
+			"description":" 학교<b>보건<\/b>을 담당하여 적절하게 효과적으로 추진하는 교사.  <b>보건<\/b>교사는 아동의 심신의 건강을 유지하고 증진하는 역할을 한다. 이들의 역할은 구급처치, 건강상담, 건강진단의 실시계획 입안 및 실시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1124523&cid=40942&categoryId=31723",
+			"description":" 초·중·고등학교 등의 학교에서 <b>보건<\/b>교육과 학생들의 건강관리를 담당하는 교사이다.  초·중·고등학교 등의 학생들을 대상으로 응급처치에 관한 교육을 포함한 <b>보건<\/b>교육을 실시하고 학생들의 건강관리를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2045735&cid=42279&categoryId=42279",
+			"description":"회사에서는 직원들의 건강 유지와 증진을 도모하고, 직원들이 건강한 생활을 영위하도록 하기 위해 <b>보건<\/b>관리를 시행한다. <b>보건<\/b>일보란 직원들을 대상으로 건강 상태를 점검하고, 그 결과를 항목별로 기재한 표... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128232514736_S0SC5Y7TJ.jpg\/hb10_9429_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"학교<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=532065&cid=46615&categoryId=46615",
+			"description":" 각급 학교의 학생과 교직원의 건강을 보호하고 증진하기 위한 <b>보건<\/b>위생. [내용] 학교<b>보건<\/b>은 학생들이 건강한 생활을 통하여 행복을 느끼고 최대의 학습능률을 높이고 평생건강의 기틀을 마련하는데 중점을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>기상",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5868316&cid=64656&categoryId=64656",
+			"description":"국내의 생활산업기상정보 서비스는 생활기상지수, <b>보건<\/b>기상지수, 산업지수로 구분되며, <b>보건<\/b>기상지수로는 천식·폐질환 가능지수, 뇌졸중가능지수, 피부질환가능지수, 감기가능지수, 꽃가루 농도 위험지수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소길",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=409190&cid=43722&categoryId=43722",
+			"description":"<b>보건<\/b>소길은 이 길이 지나는 구로구 구로제5동에 구로<b>보건<\/b>소가 있는 데서 유래되었다. <b>보건<\/b>소길은 구로동 47번지 도림천로에서 구로동 467-52번지 경부철도에 이르는 폭 25m, 길이 1,330m의 보조간선급... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1102288&cid=40942&categoryId=32824",
+			"description":"<b>보건<\/b>학은 환경위생, 전염병 관리, 개인위생 교육, 질병의 조기진단과 예방을 위한 의료서비스조직, 그리고 건강을 적절하게 유지하는 데 필요한 삶의 표준을 보장하기 위하여 사회적 기전의 개발 등을 위한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%B4%EA%B1%B4%EC%86%8C",
+			"description":"<b>보건<\/b>소 (保健所, public health center 또는 community health center)는 지역 주민의 건강과 질병관리, <b>보건<\/b>위생을 지원하는 공공 기관의 하나이며, 지역 <b>보건<\/b>법에 따라 설치된다. 업무 전염병 및 질병의 예방관리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=492022&cid=60408&categoryId=55558",
+			"description":"<b>보건<\/b>소는 지역의 공중<b>보건<\/b> 향상 및 증진을 도모하기 위해 시에는 각 구단위와 도에는 군단위에 1개의 <b>보건<\/b>소가 설치되어 있는 기관이다. 기준에 따라 당해 지방자치단체의 조례별 설치되어 있으나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117507&cid=44416&categoryId=44416",
+			"description":"개념과 정의] <b>보건<\/b>학(保健學, health science)이란 공중의 건강을 향상시키기 위한 학문이다. 건강 향상을 위한 방법은 단순하지 않으며, 개인과 가정의 건강 향상을 위한 생활환경의 개선 방법에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140702173249058_JPI32B2GJ.jpg\/z8_term144_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3550300&cid=58584&categoryId=58624",
+			"description":"保 지킬 보, 健 튼튼할 건, 所 곳 소 <b>보건<\/b>소는 질병의 예방, 진료 등 국민의 건강을 지키기 위해 서울특별시와 각 광역시 및 각 시·군·구에 설치한 공공 의료 기관이에요. <b>보건<\/b>소의 업무활동을 분담시키기 위하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_5\/20170125134636767_ECSH5H4AH.jpg\/172_78326_161702.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=497354&cid=60408&categoryId=55558",
+			"description":"학교<b>보건<\/b>법에 의거해서 아동 학생외에 직원의 <b>보건<\/b>관리를 위한 시설로서 학교에 설치된 클리닉과 산업장에서 근로자의 <b>보건<\/b>관리을 위한 시설로 <b>보건<\/b>관리실이 있다. 그러나 <b>보건<\/b>교육도 포함한 광범위한 산업장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>휴가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=19251&cid=43659&categoryId=43659",
+			"description":"국가공무원법과 근로기준법에 의거, 직장 여성들은 월 1회의 <b>보건<\/b>휴가를 얻을 수 있다. 그러나 개정근로기준법에 의한 주5일 근무(주40시간근무제)를 도입할 경우 월차휴가는 없어지고 <b>보건<\/b>(생리)휴가는 계속... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3536539&cid=58550&categoryId=58551",
+			"description":"<b>보건<\/b>소는 지역주민의 건강을 증진하고 질병을 예방·관리하기 위하여 설치한 공공<b>보건<\/b>기관이다. <b>보건<\/b>소의 업무는 <b>보건<\/b>사업, 감염병 예방관리, 진료, 실험 및 검사, 식품공중위생, 의약물 지도·관리, 일반행정... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4729_000_1\/20161125153038039_OLKPZCBWD.jpg\/fj2_42_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=451993&cid=50344&categoryId=50344",
+			"description":"학교 <b>보건<\/b>법 제3조(<b>보건<\/b> 시설)에 의하여 설치해야 하는 시설로서 그 안에는 학교 <b>보건<\/b>에 필요한 시설 및 기구를 갖추어야 한다. 또한 학교 시설 설비 기준령 제5조(교사 : 校舍)에 규정된 바에 의하면 학교마다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>권",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%B4%EA%B1%B4%EA%B6%8C",
+			"description":"<b>보건<\/b>권 이란 국민이 자신과 가족의 건강을 유지하는데 필요한 국가적 급부와 배려를 요구할 수 있는 권리이다. 1919년 바이마르 헌법에 의해 처음 명문화되었다. 대한민국 건국헌법에서 가족의 건강 조항 내지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470392&cid=42120&categoryId=42120",
+			"description":"<b>보건<\/b>소법에 의해 시·도 또는 정책령으로 정한 시에 설치되어 있으며, 여기에서 공중위생의 향상, 증진을 도모하기 위한 행정기관을 말한다. 주민의 건강증진, 질병예방, 치료, 시험검사, 환경위생, <b>보건<\/b>교육... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>식",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%B4%EA%B1%B4%EC%8B%9D",
+			"description":"<b>보건<\/b>식 (保健食) 또는 헬시 다이어트 ( 영어: healthy diet )는 전반적인 건강을 유지, 개선하는데 도움을 주는 것이다. 건강식 (健康食)이라고도 한다. <b>보건<\/b>식은 인체에 필수적인 영양분을 공급한다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=368197&cid=50317&categoryId=50317",
+			"description":"<b>보건<\/b> 행정의 합리적인 운영과 국민 <b>보건<\/b>의 향상·증진을 도모하기 위해 <b>보건<\/b>소법에 의하여 설치한 <b>보건<\/b>행정기관.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>약",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1102286&cid=40942&categoryId=32820",
+			"description":"<b>보건<\/b>약은 일반인이 약국에서 자유롭게 구입할 수 있다. 이것을 복용하면 문자 그대로 전반적인 건강이 보장된다는 것은 아니며, 주로 생리적인 대사의 유지를 목적으로 하여 약효 그 자체보다도 심리적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6163369&cid=67725&categoryId=67725",
+			"description":"질병 예방, 진료, 공중 <b>보건<\/b> 향상을 위하여 대통령령으로 정한 서울특별시와 각 광역시, 시, 군, 구에 하나씩 둔 공공 의료 기관.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6053170&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 질병의 예방, 진료, 공중 <b>보건<\/b>을 향상시키기 위하여 서울특별시를 비롯한 각 광역시 및 각 시 · 군 · 구에 둔 공공 의료 기관",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b> 운동",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449103&cid=42876&categoryId=42876",
+			"description":"옛날부터 있어 왔던 체조는 순 <b>보건<\/b> 운동이지만, 이 외에 하품이나 잠을 잘 때 몸을 움직이는 것과 같은 반사성의 무의식적 <b>보건<\/b> 운동, 직업성 <b>보건<\/b> 운동, 스포츠 운동 등도 <b>보건<\/b> 운동의 범위 속에 포함되어야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2555_000_1\/20130619153057618_AA5HBVQAT.jpg\/i-04130-1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b> 학습",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449108&cid=42876&categoryId=42876",
+			"description":"<b>보건<\/b> 학습이란 교과로서 시간을 설정하고 계획적으로 시행하는 <b>보건<\/b> 교육을 말하며 <b>보건<\/b>교수라고도 부르고 있다. 또한 <b>보건<\/b> 수업이라 하여도 본질과 다른 것은 없다. 본래 교수라는 용어는 제2차 세계대전 전의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b> 교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449101&cid=42876&categoryId=42876",
+			"description":"개인과 집단을 대상으로 건강에 관계되는 여러 가지 문제에 대한 지식이나 태도를 향상시켜 보다 건강한 생활을 하도록 하는 것이 <b>보건<\/b> 교육이다. 미국의 <b>보건<\/b> 교육 용어 제정 위원회에서는 <b>보건<\/b> 교육을 '개인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2555_000_1\/20130619153056291_ZVC7XP071.jpg\/i-04128-1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>의 날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1102287&cid=40942&categoryId=34708",
+			"description":" 국민 <b>보건<\/b>의식을 향상시키고 <b>보건<\/b>의료 및 복지 분야의 종사자를 격려하기 위하여 제정한 국가기념일로 매년 4월 7일이다.  '각종 기념일 등에 관한 규정'에 따라 제정된 국가기념일로, '세계 <b>보건<\/b>의 날'과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b> 지도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449106&cid=42876&categoryId=42876",
+			"description":"<b>보건<\/b> 지도란 학교 교육 안에서 <b>보건<\/b> 교재로 학생들에게 가르치는 교과 지도와 함께 실시하는 <b>보건<\/b>에 관한 지도를 말한다. 학생들이 스스로의 건강에 대해 이해와 관심을 갖고 건강 문제를 합리적으로 해결해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b> 교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=451992&cid=42876&categoryId=42876",
+			"description":"영국의 휴스 양이 나이팅게일의 간호 사업의 숭고한 정신을 이어받아 빈민 학교의 학생들을 간호하여 큰 성과를 거둔 데서 유럽 각국에 파급되었고, 우리 나라에서도 이를 본받아 학교 <b>보건<\/b>법 제15조에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b> 과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=449100&cid=42876&categoryId=42876",
+			"description":"<b>보건<\/b> 과학은 <b>보건<\/b>의 과학이나 건강 과학이라고도 하고 있다. 이와 같은 용어가 사용된 것은 1960년대의 일이며 그 정의도 충분히 일치하고 있지 않다. 예를 들면 미국에서는 <b>보건<\/b> 과학의 내용을 체육학이라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>의 날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=576485&cid=46625&categoryId=46625",
+			"description":" 국민의 <b>보건<\/b>의식을 높이기 위하여 지정된 날. [내용] 4월 7일. 1952년부터 1972년까지는 세계<b>보건<\/b>기구(WHO) 주관으로 ‘세계<b>보건<\/b>일’의 기념행사를 이 날에 거행하여왔다. 1973년 ‘나병(癩病)의 날’... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20170812151623230_UL0PGLD28.jpg\/b4f41853-22aa-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025478&cid=42117&categoryId=42117",
+			"description":" 초등학교 및 중·고등학교에서 학생 및 교직원의 건강에 관한 계획을 수립하고 학교의 <b>보건<\/b>활동을 수행한다. [수행직무] 학생의 건강상태를 평가하기 위하여 정기적인 건강진단 또는 용의검사를 실시하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지역<b>보건<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1202170&cid=40942&categoryId=31708",
+			"description":" <b>보건<\/b>소 등 지역<b>보건<\/b>의료기관의 설치·운영 및 지역<b>보건<\/b>의료사업의 연계성 확보에 필요한 사항을 규정하고 있는 법률(1995. 12. 29, 법률 5101호).  <b>보건<\/b>행정을 합리적으로 조직·운영하고, <b>보건<\/b>시책을 효율적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>복지부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1166537&cid=40942&categoryId=39699",
+			"description":" 국민 <b>보건<\/b>에 관한 사무와 사회복지 증진에 관한 사무를 관장하는 중앙행정기관으로, <b>보건<\/b>의료·공공<b>보건<\/b>·건강보험·<b>보건<\/b>산업·복지·사회서비스·장애인·인구·아동·노인·보육·연금 등에 관한 업무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>복지부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=646247&cid=43124&categoryId=43124",
+			"description":" 국민의 건강과 <b>보건<\/b>, 복지, 사회보장 등 삶의 질 제고를 위한 정책 및 사무를 관장하는 중앙행정기관.  <b>보건<\/b>복지부는 <b>보건<\/b> 위생과 생활보호, 사회보장 등에 관한 사무를 관장하는 중앙행정기관이다. 장관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동물<b>보건<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6598281&cid=42114&categoryId=42114",
+			"description":" 동물<b>보건<\/b>사란 응시자격을 갖춘 자가 농림축산식품부에서 시행하는 동물<b>보건<\/b>사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험을 통과해야 한다. [ 1. 기본정보] (1) 자격분류... ",
+			"thumbnail":""
+		},
+		{
+			"title":"학교<b>보건<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3438094&cid=46615&categoryId=46615",
+			"description":" 학교의 <b>보건<\/b>관리와 환경위생 정화에 필요한 사항을 규정하여 학생 및 교직원의 건강을 보호·증진하기 위한 법. [내용] 현행 학교<b>보건<\/b>법은 2014년 7월 1일부터 시행되고 있는 법률 제12131호에 의거하고 있으며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"구강<b>보건<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1202172&cid=40942&categoryId=31708",
+			"description":" 국민의 구강<b>보건<\/b>에 관하여 필요한 사항을 규정한 법률(2000. 1. 12, 법률 6163호).  국민의 구강건강을 증진시키기 위한 목적으로 제정되었다. 구강<b>보건<\/b>법은 국가 및 지방자치단체가 국민의 구강건강증진을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"학교<b>보건<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1160844&cid=40942&categoryId=31702",
+			"description":" 학교의 <b>보건<\/b>과 위생을 도모하기 위하여 제정한 법률(1967. 3. 30 법률 제1928호).  학교의 <b>보건<\/b>관리와 환경위생 정화에 필요한 사항을 규정하여 학생 및 교직원의 건강을 보호·증진하게 함으로써 학교 교육의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>교육사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970462&cid=42114&categoryId=42114",
+			"description":" <b>보건<\/b>교육사란 응시자격을 갖춘 자가 국시원에서 시행하는 <b>보건<\/b>교육사 시험에 합격하여 그 자격을 취득한 자를 말한다. 1급, 2급, 3급, 3단계로 등급으로 자격등급이 나누어지며 응시자는 객관식... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191023185941367_Y6TAJ21YE.jpg\/da6_69_i5.jpg?type=m160_160"
+		},
+		{
+			"title":"인민<b>보건<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1821136&cid=46629&categoryId=46629",
+			"description":" 1980년 4월 3일최고인민회의 법령 제5호로 채택된 인민<b>보건<\/b>과 관련된 기본법률. [개설] 조선민주주의인민공화국인민<b>보건<\/b>법은 모두 7장 51개조문으로 구성되었다. 그 내용을 살펴보면, 제1장 인민<b>보건<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970461&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>보건<\/b>교사 ① <b>보건<\/b>교사는 <b>보건<\/b>교사 자격기준에 해당하는 사람으로서, 교육부장관이 검정 · 수여하는 자격증을 받은 사람을 말한다. ② <b>보건<\/b>교사는 특수학교 · 초등학교 · 중등학교 등에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190607190425156_6E0V9CUE2.jpg\/da6_68_i2+.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보건<\/b>교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1102281&cid=40942&categoryId=31723",
+			"description":"학교에서 행하는 <b>보건<\/b>교육은 학생들이 정신적 ·신체적으로 건강하게 행복한 가정 및 사회생활을 할 수 있도록 이에 필요한 기초적 지식을 이해 ·습득시켜 실생활에 적용하게 하는 건강보전의 실천적 기능과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지구<b>보건<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%80%EA%B5%AC%EB%B3%B4%EA%B1%B4",
+			"description":"지구<b>보건<\/b> (地球保健, Planetary health )은 인류 문명과 인간이 살고 있는 장소인 지구에 관계된 <b>보건<\/b> 문제를 통합적으로 바라보기 위해 정의된 학술적 용어이다. 인간과 지구 및 환경의 상호작용과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=492018&cid=60408&categoryId=55558",
+			"description":"학교교육법에 의거해서 학습지도요령(유치원에서는 유치원 교육요령, 대학에서는 대학설치기 준)에 따라 아동 학생 등의 건강 유지증진을 목적으로 행하여지는 교육활동, <b>보건<\/b>학습과 <b>보건<\/b>지도로 나뉘어진다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서귀포<b>보건<\/b>소 정신<b>보건<\/b>센터 (서귀포)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2657367&cid=51954&categoryId=55445",
+			"description":"[정의] 제주특별자치도 서귀포시 서홍동에 있는 서귀<b>보건<\/b>소에서 운영하는 정신<b>보건<\/b>센터. [설립 목적] 서귀포정신<b>보건<\/b>센터는 정신<b>보건<\/b>법 제13조 2항(정신<b>보건<\/b>센터의 설치)에 의거하여 지역사회 중심의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150313071649929_VN2TKJYCB.jpg\/GC046P00960.jpg?type=m160_160"
+		},
+		{
+			"title":"국제<b>보건<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EC%A0%9C%EB%B3%B4%EA%B1%B4",
+			"description":"국제 <b>보건<\/b> (國際保健, Global health )은 세계 수준에서의 사람들의 건강 과제, 혹은 그에 관해 연구하는 공중위생, 역학, 의학, 간호학, 인류학, 개발 경제학, 정치학, 사회학 등의 복합적인 학문 영역을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1206582&cid=40942&categoryId=31911",
+			"description":"산업의 고도화로 인한 작업환경의 유해화(有害化)는 직장에서의 스트레스를 심화시켜 근로자의 건강에 많은 문제를 가져옴에 따라 <b>보건<\/b>관리의 중요성이 점차 증대되고 있다. 기업의 <b>보건<\/b>관리는 생산시스템과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공중<b>보건<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%B5%EC%A4%91%EB%B3%B4%EA%B1%B4",
+			"description":"공중<b>보건<\/b> (公衆保健) 또는 공중위생 (公衆衛生)은 조직적인 지역사회의 노력을 통해서 질병을 예방하고 수명을 연장시키며, 신체적·정신적 효율을 증진시키는 기술과 과학이다. 조직화된 지역사회의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>활동",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=492037&cid=60408&categoryId=55558",
+			"description":"사람들의 건강 회복ㆍ유지ㆍ증진을 위해서 <b>보건<\/b>의료 종사자가 전문적 지식, 기술로 사회집단으로 작용하는 과정이다. 그 주체는 주민이며 지역, 국가, 국제 각 레벨의 <b>보건<\/b>조직의 책임에서 수행된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모성<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=490913&cid=60408&categoryId=55558",
+			"description":"모성의 건강 유지ㆍ증진과 복지를 지향한 활동이 모성<b>보건<\/b>이다. 모성<b>보건<\/b>의 실시에 관해서 <b>보건<\/b>복지부는 미혼기ㆍ결혼전후ㆍ임신기ㆍ분만기ㆍ산욕기ㆍ수유기 이후로 구분하고 각기의 건강진단과 <b>보건<\/b>지도의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>행정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=492036&cid=60408&categoryId=55558",
+			"description":"<b>보건<\/b>행정이라는 것은 국민이 심신의 건강을 유지함과 동시에 적극적으로 건강 증진을 도모하도록 돕는 <b>보건<\/b>정책을 목표로 하는 행정이며, 구체적으로는 영유아 및 성인에서 노인까지의 <b>보건<\/b>대책, 성인병이나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모자<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1916905&cid=50369&categoryId=50369",
+			"description":"모자<b>보건<\/b>간호학대사전 모성 및 유아 건강의 유지ㆍ증진을 도모하는 것. 가정ㆍ지역ㆍ국가ㆍ세계적인 차원의 조직적인 활동에 의해서 지지된다. 외국어 표기 maternal and child health care(영어)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>기준",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209595&cid=51088&categoryId=51088",
+			"description":"｢산업안전<b>보건<\/b>법｣은 제4장에서 근로자의 유해·위험예방조치를 규정하고 있는데 그 중에서 <b>보건<\/b>에 관계되는 것, 즉 <b>보건<\/b>상의 조치기준이 <b>보건<\/b>기준이다. 구체적인 사항은 ｢산업안전<b>보건<\/b>법 시행규칙｣... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정신<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2836802&cid=60261&categoryId=60261",
+			"description":"이에 대해 정신<b>보건<\/b>(精神保健)은 Mental Health로서 사람의 정신적 건강(精神的健康; mental health)을 대상으로 하는 학문과 실천 활동을 뜻한다. 즉, 정신적 건강유지 증진... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모자<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1093830&cid=40942&categoryId=32824",
+			"description":"유아(乳兒) 및 유아(幼兒)의 건강은 모성의 건강에서 좌우되기 쉬운 것이므로 모성 및 유유아(乳幼兒) 건강의 보존 ·증진에 대해서는 일관된 대책이 바람직하며, 모자를 대상으로 <b>보건<\/b>지도 ·건강진단 ·의료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>복지부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=576480&cid=46625&categoryId=46625",
+			"description":" 국민의 건강과 <b>보건<\/b>, 복지, 사회보장 등 삶의 질 제고를 위한 정책 및 사무를 관장하는 중앙행정기관. [연원 및 변천] 국민소득이 향상되고 선진국 진입에 대한 국민적 기대도 높아져 국민복지에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209594&cid=51088&categoryId=51088",
+			"description":"<b>보건<\/b>교육은 근로자의 건강을 보호·유지·증진하기 위한 지식을 부여하여 이를 행동으로 실천하게 하는 교육이다. 산업현장에서의 <b>보건<\/b>교육은 일반적인 <b>보건<\/b>교육 이외에 직장의 작업조건 및 근로환경이 건강에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동물<b>보건<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6478609&cid=43667&categoryId=43667",
+			"description":" 동물병원에서 수의사의 지도 아래 동물의 간호 또는 진료 보조업무를 수행하는 직종으로, 동물<b>보건<\/b>사 제도를 도입하는 수의사법 개정에 따라 2022년 2월 첫 시험이 시행된다.  '동물<b>보건<\/b>사'는 동물병원에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공중<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=487238&cid=60408&categoryId=55558",
+			"description":"공중<b>보건<\/b>에는 사회적 존재인 인간의 건강수준을 향상시키기 위한 과학이나 기술의 체계(공중<b>보건<\/b>학)를 가리키는 경우와 공중<b>보건<\/b>학이 사회적으로 적용된 결과가 인간의 생활면에 나타난 상태를 가리키는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>조사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=492031&cid=60408&categoryId=55558",
+			"description":"(1) <b>보건<\/b>조사는 학교, 산업체 및 지역의 <b>보건<\/b>활동의 일환으로서 실시되는 경우와, 특정 질병(군)의 실태조사의 경우가 있다. 어느 것이든 대상 집단의 건강사상의 빈도분포를 알며, 예방대책의 수립과 동시에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>관리",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%B4%EA%B1%B4%EA%B4%80%EB%A6%AC",
+			"description":"<b>보건<\/b>관리 (保健管理)는 기업이 종업원의 심신의 건강과 <b>보건<\/b> 상태를 보호하고 증진하기 위한 일련의 활동이다. 그러나 <b>보건<\/b>관리는 단순히 기업에서만의 문제가 아니라, 국민의 건강 전체에 해당되는 것이라 볼... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>물리학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5810606&cid=60217&categoryId=60217",
+			"description":"<b>보건<\/b>물리학이란 전리 방사선(ionizing radiation)의 유해한 영향으로부터 인체를 방호하기 위하여 방사선 측정, 평가, 안전관리를 연구하는 학문이다. 방사선방호학이라고 부르기도 한다. <b>보건<\/b>물리학은 미국에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190809182432996_24TAMIVUU.jpg\/%25EB%25B3%25B4%25.jpg?type=m160_160"
+		},
+		{
+			"title":"소아<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=494492&cid=60408&categoryId=55558",
+			"description":"소아 심신의 건전한 육성과 복지에 관한 모든 면에서의 활동이 소아<b>보건<\/b>이고 그것을 위한 기반이 되는 학문이 소아 <b>보건<\/b>학이다. 내용으로서는 (1)소아의 성장발달에 관한 요인과 그 지도 (2) 소아의 건강유지를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"학교<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1606331&cid=50306&categoryId=50306",
+			"description":"학교<b>보건<\/b>간호학대사전 학교에서의 아동, 학생등 교직원, 시설, 설비, 생활의 건강에 관한 일체의 교육활동을 말한다. 아동, 학생등이 현재 및 장래를 건강하게 생활해 나가는데 필요한 실천능력을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>사회부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=576482&cid=46625&categoryId=46625",
+			"description":" <b>보건<\/b>·방역·가족계획·위생·의정·약정·사회복지, 공적 부조, 의료보험·국민연금 및 가정복지에 관한 사무를 관장하던 중앙행정기관. [내용] 1948년 정부수립과 동시에 행정각부의 하나로 사회부가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모자<b>보건<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=546069&cid=46625&categoryId=46625",
+			"description":" 모성 및 영유아의 생명과 건강을 보호하고 건전한 자녀의 출산과 양육을 도모함으로써 국민<b>보건<\/b> 향상에 이바지하기 위하여 제정된 법률. [개설] 모성과 영유아의 생명과 건강을 보호하는 것은 국민<b>보건<\/b>을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>행정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6163365&cid=67725&categoryId=67725",
+			"description":"개인, 집단, 국민의 생활 개선, 질병 예방, 건강 유지를 목적으로 공중위생에 관련된 업무를 하는 공적 기관인 중앙(<b>보건<\/b>복지부)이나 지방(시, 도 <b>보건<\/b>소 따위)의 행정 기구를 통해서 법령으로 제정하여 운용하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>안마",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2334336&cid=58505&categoryId=58527",
+			"description":"또 <b>보건<\/b> 추나(保健推拿)라고도 일컫는다. 몸을 튼튼하게 하고 건강을 지키는 데 쓰이는 안마 방법이다. 흔히 쓰이는 <b>보건<\/b> 안마에는 얼굴 문지르기 · 배 쓰다듬기 · 허리 주무르기 등의 방법이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"안전<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=507658&cid=50298&categoryId=50298",
+			"description":"근로자를 재해나 질병으로부터 보호하기 위해 직장의 안전과 <b>보건<\/b>을 확립하는 것을 말한다. 안전<b>보건<\/b>관계의 법규는 노동입법 중에서도 비교적 빠른 시기에 제정하여 실시되고 있으며, 국제 노동조건 및 권고도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209589&cid=51088&categoryId=51088",
+			"description":"<b>보건<\/b>관리란 근로자의 건강을 유지, 증진하고, 근로자의 건강에 영향을 미치는 각종 조건을 적정하게 조정하여 노동력을 확보하는 것을 말한다. 즉, 근로환경을 쾌적하게 개선하고 근로자의 건강상태와 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=493290&cid=50298&categoryId=50298",
+			"description":"산업<b>보건<\/b>이란 이러한 노동위생문제의 개념을 더욱 폭넓게 확대하고 특히 근로자의 건강을 촉진시키고 재해를 예방한다거나 쾌적한 근로환경을 조성할 수 있도록 <b>보건<\/b>위생면에서의 제반서비스라고 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>통계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=492034&cid=60408&categoryId=55558",
+			"description":"또한 국민건강 조사나 환자조사를 비롯한 의료관계의 제통계. 국민영양조사 등도 <b>보건<\/b>통계의 중요한 자료이다. 또한 생명표와 같이 자료를 기준으로 모델화된 통계수치도 <b>보건<\/b>통계의 하나라고 할 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>지도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=492032&cid=60408&categoryId=55558",
+			"description":"지도를 행하는 대상 집단 또는 개인의 건강을 유지ㆍ증진하고 질병을 예방ㆍ관리하기 위해 <b>보건<\/b>의료 종사자가 전문적인 상담과 지도를 하여를 주는 것. (1) 건강진단이나 건강상담에 의한 문제 발견, (2)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대인<b>보건<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=489562&cid=60408&categoryId=55558",
+			"description":"질병예방을 핵(核)으로 한, 인간을 대상으로 한 <b>보건<\/b>활동의 모든 것. 환경<b>보건<\/b>과 대등하게 취급된다. 질병관리라고도 하며, 예방접종, 집단검진에 의한 조기발견, 적정한 치료나 생활 및 영양의 지도, 사회복귀의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470393&cid=42120&categoryId=42120",
+			"description":"병원이나 진찰소는 광의의 <b>보건<\/b>시설이지만 의료시설에 들어갈 수도 있는 것이다. 운동관계의 시설로서 야구, 테니스, 탁구, 발레, 농구, 수영, 골프, 스케이트장 등이 있지만 널리 전종업원이 사용하는 것이어서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>위생",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470394&cid=42120&categoryId=42120",
+			"description":"공중위생(public health)과 동의어이나 공중위생보다 넓은 분야에서의 <b>보건<\/b>, 즉 의료도 포함되는 개념이다. 급성질환이나 감염증의 예방·치료뿐만 아니라 만성질환에 대한 대책도 포함되며 때로는 넓게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공중<b>보건<\/b>",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=21488",
+			"description":"우리 나라에서는 광복 후부터 <b>보건<\/b>소의 설치나 대학의 강좌 신설 등 근대적인 공중<b>보건<\/b> 행정이 이루어지게 되었다. 이 때까지는 일제 식민당국의 경찰력에 의한 명령과 단속으로 시종해왔다. 현재도 우리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보건<\/b>조치",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209596&cid=51088&categoryId=51088",
+			"description":"적정기준을 유지하지 아니하여 발생하는 건강장해를 예방하기 위하여 필요한 조치를 하여야 한다(｢산업안전<b>보건<\/b>법｣ 제24조). 구체적인 조치기준은 ｢산업안전<b>보건<\/b>기준에 관한 규칙｣에 규정되어 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"산업<b>보건<\/b>의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=14820&cid=43659&categoryId=43659",
+			"description":"상시 50인 이상의 근로자를 사용하는 사업장에서 근로자의 건강관리와 <b>보건<\/b>관리자의 업무를 지도하기 위하여 선임된 의사. 산업<b>보건<\/b>의의 자격은 의료법에 의한 의사로서 예방의학을 전공하거나 산업<b>보건<\/b>에... ",
+			"thumbnail":""
+		}
+	]
+}

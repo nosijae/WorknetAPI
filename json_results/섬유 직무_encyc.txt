@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:12 +0900",
+	"total":452,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"스마트<b>섬유<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658705&cid=42117&categoryId=42117",
+			"description":" 패션, 헬스케어, 의료, 스포츠 등 다양한 분야에서 사용되는 스마트<b>섬유<\/b>를 연구·개발한다. [수행<b>직무<\/b>] <b>섬유<\/b>와 전자재료를 접목시켜 안정성을 확보하는 기술과 스마트<b>섬유<\/b> 회로설계기술, 스마트<b>섬유<\/b>와 IT기기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>기술컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658591&cid=42117&categoryId=42117",
+			"description":" 기업체를 대상으로 <b>섬유<\/b>기술 및 공정 개선, 신기술 공정 적용 등에 대해 컨설팅을 한다. [수행<b>직무<\/b>] <b>섬유<\/b> 및 <b>섬유<\/b>산업에 필요한 소재, 생산방식, 염색기술, 기계기술, 화학물질 등 첨단 <b>섬유<\/b>기술에 대하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>공정개발시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551158&cid=42117&categoryId=42117",
+			"description":" <b>섬유<\/b>제품제조공정을 개선하고 시험·분석한다. [수행<b>직무<\/b>] <b>섬유<\/b>가공공정을 개선하고자 현장을 조사하고 자료를 수집한다. <b>섬유<\/b>의 가공공정 중 발생하는 결함을 조사하여 해결책을 찾고 기록한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>제품제조관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024449&cid=42117&categoryId=42117",
+			"description":" 끈, 실 등의 수지에서 합성<b>섬유<\/b>를 압출하여 가정용 및 산업용 <b>섬유<\/b>제품을 제조·생산하는 작업을 관리·감독한다. [수행<b>직무<\/b>] <b>섬유<\/b>제품 생산계획을 수립하고, 장비, 인원 등 세부생산계획을 수립한다. 공정별... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>조합원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027806&cid=42117&categoryId=42117",
+			"description":" 솜 형태의 화학<b>섬유<\/b>(Fiber)를 색상이나 재질에 따라 손으로 혼합한다. [수행<b>직무<\/b>] 화학<b>섬유<\/b> 뭉치가 담긴 자루나 포장용기를 작업장소로 운반한다. 혼합된 <b>섬유<\/b>뭉치를 색상별로 컨베이어 벨트 위에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>가공설비개발시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026518&cid=42117&categoryId=42117",
+			"description":" 성능이 개선된 <b>섬유<\/b>가공설비를 제작하여 시험·분석한다. [수행<b>직무<\/b>] <b>섬유<\/b>가공설비개발기술자가 작성한 제품명세서, 장비명세서 및 작업수행요건 등을 분석한다. 개발할 <b>섬유<\/b>가공설비 시제품을 제작한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>가공설비개발기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028187&cid=42117&categoryId=42117",
+			"description":" <b>섬유<\/b>의 제조나 가공에 사용되는 설비, 장비를 설계·개발한다. [수행<b>직무<\/b>] <b>섬유<\/b>가공에 사용되는 각종 기계 및 설계에 관한 공학적인 제안을 한다. 가공설비 및 가공공정상의 기술적인 문제점과 각종 자료를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"탄소<b>섬유<\/b>방사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027852&cid=42117&categoryId=42117",
+			"description":" 탄소<b>섬유<\/b>를 제조하기 위해 탄소<b>섬유<\/b> 중합체를 방사하여 탄소<b>섬유<\/b> 전구체를 제조한다. [수행<b>직무<\/b>] 탄소<b>섬유<\/b>의 원료(아크릴로니트릴, 석유계피치, 석탄계피치, 페놀수지, 셀룰로오스 등)를 선정한다. 원료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화학<b>섬유<\/b>시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664693&cid=42117&categoryId=42117",
+			"description":" 나일론, 폴리에스테르 등의 합성<b>섬유<\/b> 및 제작공정의 품질관리를 하여 제품 견본을 측정·검사·분석·시험한다. [수행<b>직무<\/b>] 화학<b>섬유<\/b>의 구조적 특성을 알기 위해 화학적·물리학적 시험을 한다. 단면을 얇고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>소재개발기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027763&cid=42117&categoryId=42117",
+			"description":" 합성<b>섬유<\/b>, 천연<b>섬유<\/b>, 화학<b>섬유<\/b> 등을 제조하기 위해 사용되는 원료를 연구·개발한다. [수행<b>직무<\/b>] 식물성 <b>섬유<\/b>, 동물성 <b>섬유<\/b>, 합성<b>섬유<\/b>, 재생<b>섬유<\/b> 등 각종 <b>섬유<\/b>원료를 연구하여 새로운 <b>섬유<\/b>소재를 개발한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>소재개발시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551160&cid=42117&categoryId=42117",
+			"description":" <b>섬유<\/b>를 제조하기 위한 원료의 특성을 시험·분석한다. [수행<b>직무<\/b>] 새로운 <b>섬유<\/b>소재 개발을 위해 연구된 자료를 기초로 하여 일정비율로 원료를 혼합하여 견본을 제조한다. 제조된 견본<b>섬유<\/b>의 인장강도, 수축률... ",
+			"thumbnail":""
+		},
+		{
+			"title":"탄소<b>섬유<\/b>제조기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953563&cid=42117&categoryId=42117",
+			"description":" 탄소<b>섬유<\/b> 제조공정을 설계·운용한다. [수행<b>직무<\/b>] 탄소<b>섬유<\/b>의 원료(아크릴로니트릴, 석유계 피치, 석탄계 피치, 페놀수지, 셀룰로오스 등)를 선정한다. 원료 고분자를 중합하기 위하여 중합체 제조방법과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"탄소<b>섬유<\/b>시험분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658511&cid=42117&categoryId=42117",
+			"description":" 탄소<b>섬유<\/b>제품의 품질유지를 위하여 물성 분석, 표면특성 분석, 응융특성 분석을 수행하고 제품생산과 품질규격을 관리한다. [수행<b>직무<\/b>] 탄소<b>섬유<\/b>제품의 화학적 물성을 분석하기 위하여 시료를 선정하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>압출원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027804&cid=42117&categoryId=42117",
+			"description":" 끈을 만들기 위해 수지에서 합성<b>섬유<\/b>를 압출해내는 압출기를 조작한다. [수행<b>직무<\/b>] 작업지시서를 확인하고 생산할 끈의 모양, 두께, 색상 등을 파악한다. 압출에 필요한 수지 및 장비를 점검하고 준비한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>공예가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029464&cid=42117&categoryId=42117",
+			"description":" <b>섬유<\/b> 재료를 가공하고 가공된 소재로 <b>섬유<\/b>공예품을 만든다. [수행<b>직무<\/b>] 디자인을 개발하고 <b>섬유<\/b>의 종류에 따라 재료를 선택한다. 원부자재의 특성을 파악하여 재료를 선택하고 조합한다. 소재별 가공제를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053865&cid=42114&categoryId=42114",
+			"description":"(2) 주요 업무 ① <b>섬유<\/b>기사는 제품 생산계획에 따라 자동 또는 수동직기를 사용하여 직물을 제직하는 업무를 수행한다. ② <b>섬유<\/b>의 종류, 품질, 혼용율, 실의 번수 등을 파악하여 관련 자료를 산출하고, 실의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402092425966_Q3ABB0VRB.jpg\/da6_279_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>섬유<\/b>유제원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027805&cid=42117&categoryId=42117",
+			"description":" <b>섬유<\/b>제조 공정 및 기능상에 윤활기능을 부여하는 대전 방지용 윤활제 등의 유제를 조제·조정·공급한다. [수행<b>직무<\/b>] 작업표준서의 혼합비에 따라 조제탱크에 유화제, 대전방지제, 집속(Focusing)조제 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>절단원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028118&cid=42117&categoryId=42117",
+			"description":" 장갑 또는 직물 등의 <b>섬유<\/b>제품 용도에 따라 종·횡면을 절단하는 절단기를 조작한다. [수행<b>직무<\/b>] 컨베이어 위에 겹층 재료(원단)를 펼쳐 놓고 작업대로 이송한다. 두께측정기로 두께를 측정하고, 칼을 연마한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053866&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>섬유<\/b>기술사란 응시자격을 갖춘 자가 한국산업인력공단에서 시행하는 <b>섬유<\/b>기술사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>섬유<\/b>기술사 자격은 실제 염색 및 가공에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20201231183106038_AGIIRRFO8.jpg\/da6_280_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"유리<b>섬유<\/b>성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027271&cid=42117&categoryId=42117",
+			"description":" 유리<b>섬유<\/b>의 성형을 위하여 유리제품 성형기계를 운전, 조작한다. [수행<b>직무<\/b>] 작업명세서에 따라 성형제조 할 유리<b>섬유<\/b>의 규격과 수량을 확인한다. 컨베이어와 열풍순환 팬의 전원스위치를 넣어 작동시키고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053868&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>섬유<\/b>산업의 국제경쟁력을 향상시키기 위해서는 염색가공기술의 향상을 필요로 하므로, <b>섬유<\/b>에 관한 지식, 염색원료에 대한 화학적 지식을 바탕으로 산업현장에서 요구되는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120720145601353_HH9GVCBW8.jpg\/da6_282_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>섬유<\/b>공정개발기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027762&cid=42117&categoryId=42117",
+			"description":" 공학기술을 이용하여 제조나 가공 공정을 설계·개선한다. [수행<b>직무<\/b>] 각종 원료에 따른 <b>섬유<\/b>제품, <b>섬유<\/b>에 형태안정성 등 특성을 부여하는 가공공정, 특수<b>섬유<\/b>의 제조공정 등에 관하여 연구한다. 공정별... ",
+			"thumbnail":""
+		},
+		{
+			"title":"탄소<b>섬유<\/b>공정개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658516&cid=42117&categoryId=42117",
+			"description":" 탄소<b>섬유<\/b> 제품의 물성을 향상시키기 위해 중합, 방사, 내염화, 탄소화, 흑연화, 표면처리·사이징 등 전 공정을 분석하고 개선을 위해 연구·개발한다. [수행<b>직무<\/b>] PAN(PolyAcryloNitrile:폴리아크릴로니트릴)계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화학<b>섬유<\/b>건조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027982&cid=42117&categoryId=42117",
+			"description":" 보빈(Bobbin)이나 합성실타래의 수분을 제거하기 위해 건조기를 조작한다. [수행<b>직무<\/b>] 차륜장치(Wheel)나 컨베이어(Conveyor)가 장치된 건조기의 걸대에 실타래나 보빈을 건다. 건조기의 가동시간, 온도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>얼룩세척원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027947&cid=42117&categoryId=42117",
+			"description":" 세탁제나 비눗물을 사용하여 천의 얼룩이나 오염된 부분을 세척한다. [수행<b>직무<\/b>] 검사공정에서 표시된 얼룩이나 기타 천의 얼룩진 부분을 찾아낸다. 세탁제나 비눗물을 적신 스펀지나 천으로 얼룩진 부분을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>신장장치운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027803&cid=42117&categoryId=42117",
+			"description":" 합성<b>섬유<\/b>의 탄력성을 조절하고 차기 가공 중의 고르지 못한 신장을 막기 위해 토우(Tow)나 슬리버 상태의 <b>섬유<\/b>를 늘이는 신장장치를 조작한다. [수행<b>직무<\/b>] 신장장치의 신장롤러의 온도를 규정된 온도로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>교반기운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027802&cid=42117&categoryId=42117",
+			"description":" 알칼리 셀룰로오스를 교반기를 사용하여 이황화탄소와 혼합시켜 셀룰로오스 크잔테이트(Xanthate)를 제조한다. [수행<b>직무<\/b>] 명세서를 확인하고 생산량을 점검한다. 교반기와 원료를 확인한다. 명세서를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리<b>섬유<\/b>용융로조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027272&cid=42117&categoryId=42117",
+			"description":" 유리장<b>섬유<\/b> 제조에 사용되는 유리원료를 용해하고 방사로에 투입하여 유리<b>섬유<\/b>를 결속시키는 유리<b>섬유<\/b>용융로 기계를 운전·조작한다. [수행<b>직무<\/b>] 작업지시서에 따라 제조할 유리<b>섬유<\/b>의 양을 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>방사노즐세정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026652&cid=42117&categoryId=42117",
+			"description":" 화학<b>섬유<\/b> 방사공정에 사용되는 노즐팩(Nozzle Pack)을 분해하여 세척하고 조립한다. [수행<b>직무<\/b>] 사용주기에 따라 파손된 노즐팩을 회수한다. 수동공구를 사용하여 노즐팩을 분해한다. 각 부품을 전기로에 넣어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>방사노즐교환원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026651&cid=42117&categoryId=42117",
+			"description":" 합성<b>섬유<\/b>의 실을 방사하는 노즐(Nozzle)불량으로 끊어진 필라멘트를 찾아내고 노즐을 교환한다. [수행<b>직무<\/b>] 사절추를 확인하고 노즐면의 오염상태를 확인한다. 노즐면 청소용 수동분사기를 사용하여 물... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화학<b>섬유<\/b>품질염색판정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027983&cid=42117&categoryId=42117",
+			"description":" 필라멘트사, 가공사 등과 같은 화학<b>섬유<\/b>의 품질을 확인하기 위하여 편직한 견본을 염색하고 판정한다. [수행<b>직무<\/b>] 판정규격을 숙지하고 표준견본을 준비한다. 편직된 화학<b>섬유<\/b>의 품질을 확인하기 위해 견본을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>디자인산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053867&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>섬유<\/b>디자인산업기사 ① <b>섬유<\/b>디자인산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>섬유<\/b>디자인산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ②... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210622113633474_DH491GLZN.jpg\/da6_281_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>섬유<\/b>생산일보작성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024768&cid=42117&categoryId=42117",
+			"description":" 실이나 직물을 제조하는 공정의 일일생산량을 집계하여 기록표에 기록한다. [수행<b>직무<\/b>] 정방 또는 직조공정에서 생산량을 기록한 기록표를 수집하여 집계한다. 기계의 기록표를 참고하여 운전가동률을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"염색공정개발기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027765&cid=42117&categoryId=42117",
+			"description":" <b>섬유<\/b> 및 염색기술을 이용하여 염색공정을 개선·개발한다. [수행<b>직무<\/b>] <b>섬유<\/b>와 염료의 물성 및 특성에 대해 연구·분석한다. <b>섬유<\/b>의 종류에 따라 염색할 방법을 선택하고 염색공정을 설계한다. 염료와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서비스·경험디자인 기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6197204&cid=42114&categoryId=42114",
+			"description":"② 서비스·경험 만족을 위해 사용자 중심의 디자인 사고를 기반으로 통합적인 프로세스를 활용하여 서비스·경험 디자인 콘셉트와 모델을 개발하고 운영하는 <b>직무<\/b>를 수행한다. [ 3. 시험정보] (1) 응시자격... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호조제원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027939&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>섬유<\/b>에 따라 다른 종류의 호제를 구입한 호원료의 견본을 채취하여 중량, 순도, 점도, 색상, 비중 등을 실험기재를 사용하여 시험한다. 작업지시서에 따라 탱크에 물을 넣는 밸브를 돌려 일정수준으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스테이플가공기운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027814&cid=42117&categoryId=42117",
+			"description":" 화학<b>섬유<\/b>의 토우(Tow)를 늘리고 일정 길이로 절단하여 곱슬곱슬한 스테이플<b>섬유<\/b>(Staple Fiber)로 만드는 기계를 조작한다. [수행<b>직무<\/b>] 스테이플<b>섬유<\/b>의 생산량과 규격, 생산장비를 확인·점검한다. 장치에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"염료개발기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027764&cid=42117&categoryId=42117",
+			"description":" 염색을 하고자 하는 <b>섬유<\/b>에 적합한 염색 방법을 정하고 그에 적합한 염료와 염색 조건 등을 개발·적용한다. [수행<b>직무<\/b>] 각종 <b>섬유<\/b>(<b>섬유<\/b>소<b>섬유<\/b>, 단백질<b>섬유<\/b>, 반합성<b>섬유<\/b>, 합성<b>섬유<\/b> 등)에 적합한 염료와 염색... ",
+			"thumbnail":""
+		},
+		{
+			"title":"후처리반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027862&cid=42117&categoryId=42117",
+			"description":" 제조된 폴리에스테르사, 나이론사 등을 정련·세척·포장·검사하는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 제조된 합성<b>섬유<\/b>의 생산량을 파악하고 생산부서와 연락하여 재료의 수급을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"후처리반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027880&cid=42117&categoryId=42117",
+			"description":" 제조된 폴리에스테르사, 나이론사 등을 정련, 세척, 포장, 검사하는데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 제조된 합성<b>섬유<\/b>의 생산량을 파악하고 생산부서와 연락하여 재료의 수급을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"에프알피선박건조재료제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027715&cid=42117&categoryId=42117",
+			"description":" FRP(유리<b>섬유<\/b>강화플라스틱)선박을 건조하기 위하여 주형을 제작하고, 수지를 적충하고, 선박의 내·외장 조립을 하는데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] FRP(유리<b>섬유<\/b>강화플라스틱)선박에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"랩운반원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029607&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 면이나 화학<b>섬유<\/b> 등의 원료를 종류나 번수에 따라 품종을 구분하여 표시하거나 다른 포장보자기로 포장하여 운반차에 싣는다. 랩을 운반하여 소면기계 앞에 놓고 포장보자기를 벗긴다.",
+			"thumbnail":""
+		},
+		{
+			"title":"탄소<b>섬유<\/b>소성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658515&cid=42117&categoryId=42117",
+			"description":" 방사된 탄소<b>섬유<\/b> 전구체를 탄소화하여 탄소<b>섬유<\/b>를 제조한다. [수행<b>직무<\/b>] 방사공정을 거쳐 제조된 탄소<b>섬유<\/b> 전구체(前驅體:Precursor)의 <b>섬유<\/b> 안정화공정을 운용한다. 안정화<b>섬유<\/b>(열처리에 의한 안정화·산화... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스테이플절단원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5915846&cid=42117&categoryId=42117",
+			"description":" 실을 제조하거나 화학<b>섬유<\/b>를 만들기 위해 토우(Tow)나 슬리버(Sliver)를 일정 길이로 절단하는 기계를 조작한다. [수행<b>직무<\/b>] 작업지시서에 따라 생산량을 확인하고 장비를 점검하고 토우, 슬리버 또는 원재료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"권축기운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027786&cid=42117&categoryId=42117",
+			"description":" 합성<b>섬유<\/b>의 부피와 신축성을 높이고 자연<b>섬유<\/b>와의 혼방을 용이하게 하기 위해 주름을 잡는 기계를 조작한다. [수행<b>직무<\/b>] 명세서에 따라 가공할 실의 형태 및 공정 등을 파악하고 권축기의 온도 및 압력을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소면틀보기원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027810&cid=42117&categoryId=42117",
+			"description":" 면·합성<b>섬유<\/b> 또는 기타 <b>섬유<\/b>들을 풀어 깨끗이 정돈하고 전 공정에서 만들어진 랩(Lap)을 슬리버(Sliver)로 만드는 소면기를 조작한다. [수행<b>직무<\/b>] 기계의 공급장치에 풀어헤친 <b>섬유<\/b>를 공급하거나, 공급부분의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소모반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027813&cid=42117&categoryId=42117",
+			"description":" 양모나 화학<b>섬유<\/b>를 풀어헤쳐 <b>섬유<\/b>를 나란히 배열하여 일정 굵기의 슬리버(Sliver)로 만드는 일에 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 선별된 원모나 화학<b>섬유<\/b> 등의 투입원료 및 기계의 이상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"혼타면반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027860&cid=42117&categoryId=42117",
+			"description":" 실을 제조하기 위해 합성<b>섬유<\/b>와 기타 자연<b>섬유<\/b>를 혼합하고 불순물을 제거하여 두께와 폭이 균일한 랩(Lap)을 만드는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 주문명세서를 확인하고 규정된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연신기운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027820&cid=42117&categoryId=42117",
+			"description":" 방사공정에서 생산된 실의 강도와 신축성을 향상하고자 필라멘트(Filament)를 연신하는 기계를 조작한다. [수행<b>직무<\/b>] 지시서를 보고 생산품종 및 그에 따른 연신조건을 확인한다. 스핀들에 필라멘트를 감은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정소면틀보기원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027835&cid=42117&categoryId=42117",
+			"description":" 단<b>섬유<\/b>의 넵(Neps) 및 먼지 등을 제거하고 <b>섬유<\/b>를 평행으로 배열하여 강하고 가는 실을 만들기 위해 슬리버(Sliver)나 랩(Lap)을 빗질하고, 연신하는 기계를 조작한다. [수행<b>직무<\/b>] 기계의 후면에 슬리버가 담긴... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소모기틀보기원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027812&cid=42117&categoryId=42117",
+			"description":" 양모나 합성<b>섬유<\/b>를 풀어헤쳐 이물질을 제거하고 슬리버로 만드는 소모기(Carding Machine)를 운전한다. [수행<b>직무<\/b>] 격자무늬의 공급장치(Feed Lattice) 위에 풀어헤친 <b>섬유<\/b> 또는 두루마리를 공급하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"혼타면틀보기원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027861&cid=42117&categoryId=42117",
+			"description":" 압축된 면이나 합성<b>섬유<\/b>를 풀어서 깨끗이 하고 부풀리고 혼합하여 랩(Lap)으로 만드는 기계를 조작한다. [수행<b>직무<\/b>] 작업지시서에 따라 원면의 종류와 혼면의 혼합비율을 정하고 컨베이어에 놓은 <b>섬유<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방적사시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551157&cid=42117&categoryId=42117",
+			"description":" 실과 직물의 제조공정 중 표준과의 일치 여부를 확인하고자 직물과 편물의 실을 검사한다. [수행<b>직무<\/b>] 공정별 시료를 채취하여 준비한다. 제조방법과 꼬임계산기의 수치를 사용하여 견본실의 꼬임수를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"합성스테이플방사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027855&cid=42117&categoryId=42117",
+			"description":" 액체 중합체에서 연속으로 합성필라멘트를 만들고 지시된 형태에 따라 통에 토우(Tow)를 투입하는 기계를 조작한다. [수행<b>직무<\/b>] 작업지시서를 보고 규격, 형태, 생산량 등을 확인한다. 공구를 사용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정방반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027832&cid=42117&categoryId=42117",
+			"description":" 조사(Roving)를 사용하여 실을 뽑는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 작업지시서를 숙지하고 정방기계의 설치와 조정상태를 확인하다. 방사의 양, <b>섬유<\/b>의 종류, 혼율, 기본 길이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소면기소제원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027808&cid=42117&categoryId=42117",
+			"description":" 소면도핑드럼과 철사 톱니에 붙은 면<b>섬유<\/b>를 제거하는 장비를 조작한다. [수행<b>직무<\/b>] 소면기의 브래킷(Brackets)에 스트리핑 롤러(Stripping Roller)를 놓고 롤러의 철사톱니가 소면 실린더의 철사톱니 사이로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"날염시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029156&cid=42117&categoryId=42117",
+			"description":" 직물에 날염하여 요구하는 색상을 내기 위해 색소를 배합하고 염료, 안료, 호제, 약제 등을 처방하여 자료를 작성한다. [수행<b>직무<\/b>] 견본 색상을 구현하도록 염료, 안료 및 시험도구들을 준비한다. 견본... ",
+			"thumbnail":""
+		},
+		{
+			"title":"혼타면틀보기원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027863&cid=42117&categoryId=42117",
+			"description":" 압축된 면이나 합성<b>섬유<\/b>를 풀어서 깨끗이 하고 부풀리고 혼합하여 랩(lap)으로 만드는 기계를 조작한다. [수행<b>직무<\/b>] 작업지시서에 따라 원면의 종류와 혼면의 혼합비율을 정하고 컨베이어에 놓은<b>섬유<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"혼타면급면원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5906641&cid=42117&categoryId=42117",
+			"description":" 압축된 원면을 개표실에서 일정 시간 방치하여 부풀어지면 불순물을 제거하고 손으로 뜯어서 일정량의 작은 덩어리로 만들어 혼타면기계의 컨베이어에 공급한다. [수행<b>직무<\/b>] 솔을 사용하여 압축된 원면의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가호원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027783&cid=42117&categoryId=42117",
+			"description":" 호부제를 경사에 침투시키거나, 직기 빔에 호부가 완료된 실을 감는 기계를 조작한다. [수행<b>직무<\/b>] 호이스트를 사용하여 빔을 걸대 위에 올려놓는다. 경사의 끝을 모아서 기계의 실을 연결하고 호부통을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"타이어코드연사기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027923&cid=42117&categoryId=42117",
+			"description":" 타이어코드 <b>섬유<\/b>가닥들(날실:經絲)에 고객이 원하는 꼬임수를 부여하여 타이어의 압축 피로성을 향상하기 위하여 직조기에 적합한 길이로 꼬임을 부여하는 연사기를 조작한다. [수행<b>직무<\/b>] 작업 지시서와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방사방적관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024446&cid=42117&categoryId=42117",
+			"description":" <b>섬유<\/b>원료를 사용하여 실을 생산하는 과정을 총괄 관리하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 제품의 생산계획에 따라 제품별 방사량, <b>섬유<\/b>종류, 품질, 혼섬율, 연수, 번수 등을 파악... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부직포결합원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027883&cid=42117&categoryId=42117",
+			"description":" 결속력이 없는 부직포를 직물로 결속하거나 결합한다. [수행<b>직무<\/b>] 소면기를 사용하여 <b>섬유<\/b>를 일정두께로 배열한다. 양각된 롤을 시동하고, 결속에 알맞은 압력 및 열을 롤에 가하기 위해 핸들이나 밸브를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방사로조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027263&cid=42117&categoryId=42117",
+			"description":" 용융유리물을 가는 <b>섬유<\/b>상태로 뽑아내는 방사로를 운전·조작한다. [수행<b>직무<\/b>] 작업지시서에 따라 성형할 유리<b>섬유<\/b>의 규격과 양을 확인한다. 방사로의 연료 및 윤활장치와 작동 여부를 확인한다. 방사로의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"품선원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028144&cid=42117&categoryId=42117",
+			"description":" <b>섬유<\/b>의 특성, 등급, 질 등 원면의 품질과 등급을 결정하는 기준에 따라 면을 분류한다. [수행<b>직무<\/b>] 원면에서 시료를 채취하여 다래(목화의 덜 익은 열매), 씨, 가지, 모래, 먼지, 잎, 넵(Nep)등의 불순물의 비율을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"밧줄제조기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658749&cid=42117&categoryId=42117",
+			"description":" <b>섬유<\/b>가닥들을 꼬아 밧줄을 만들어 릴(실이나 줄을 감는 얼레：Reel)에 감는 기계를 조작한다. [수행<b>직무<\/b>] 작업지시서를 확인하고 제작할 밧줄의 굵기, 길이 등을 숙지한다. 밧줄의 굵기에 따라 적당한 릴을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세모기운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027807&cid=42117&categoryId=42117",
+			"description":" 소모사를 제조하기 위한 전 공정으로 생양모(Greasy Wool) 속에 포함된 불순물(흙, 먼지, 기름 등)을 제거하기 위해 탱크나 용기로 이루어진 일련의 정련기를 운전한다. [수행<b>직무<\/b>] 물과 가성소다 등의 세제가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"염색설비개발기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028198&cid=42117&categoryId=42117",
+			"description":" 염색에 사용되는 장비, 설비 등을 설계·개발한다. [수행<b>직무<\/b>] 염색설비의 기술적인 자료를 연구·분석한다. 염색공정에서 <b>섬유<\/b>와 염료의 관계를 분석하여 설비를 개선하고 개발한다. 장치 및 장비를 설계하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마네킹사출성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027704&cid=42117&categoryId=42117",
+			"description":" 일정한 모양의 형틀에 유리<b>섬유<\/b>·액체플라스틱 등을 사용하여 마네킹의 형체(몸, 팔, 다리)를 사출 성형한다. [수행<b>직무<\/b>] 만들고자 하는 마네킹의 종류에 맞는 형틀을 준비한다. 형틀의 앞·뒷면을 작업대 위에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카빙원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027922&cid=42117&categoryId=42117",
+			"description":" 제작된 융단에 입체감을 살리기 위해 카빙(Carving)기계로 무늬를 조각한다. [수행<b>직무<\/b>] 작업지시서의 융단 표면무늬를 확인한다. 카빙기계의 주요 작동상태를 확인한다. 융단을 바닥에 펴고 그 위에 앉아... ",
+			"thumbnail":""
+		},
+		{
+			"title":"에프알피선박수지적층원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027716&cid=42117&categoryId=42117",
+			"description":" FRP(유리<b>섬유<\/b>강화플라스틱)선박의 선체 및 갑판을 제작하기 위하여 주형에 FRP수지를 적층한다. [수행<b>직무<\/b>] 선박주형의 제작이 완료되면 탈형이 잘되도록 주형 표면에 이형제(왁스)를 바르고 부드러운 천으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"강화플라스틱제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658828&cid=42117&categoryId=42117",
+			"description":" 플라스틱제품을 강화하기 위하여 유리<b>섬유<\/b>와 수지를 적출하고 보강·연마·착색 등의 작업을 한다. [수행<b>직무<\/b>] 작업도면을 보고 제작할 강화플라스틱의 형태 및 두께, 강도, 색상 등을 확인한다. 완성된 목형... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광<b>섬유<\/b>모재가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028386&cid=42117&categoryId=42117",
+			"description":" <b>섬유<\/b> 모재를 제조하기 위하여 선반을 이용하여 석영 유리관을 가공한다. [수행<b>직무<\/b>] 작업표준서에 의하여 작업공정과 가공할 <b>섬유<\/b> 모재의 규격, 형태 등을 파악, 확인한다. 가공에 필요한 석영유리관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연마지접착제도포기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027339&cid=42117&categoryId=42117",
+			"description":" 연마지를 제조하기 위하여 <b>섬유<\/b>나 종이에 접착제를 도포하는 기계를 운전·조작한다. [수행<b>직무<\/b>] 기계의 축에 호이스트를 이용하여 재료공급 롤을 끼워 고정하고, <b>섬유<\/b> 또는 종이를 사이징머신(Sizing Machine)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유화플레이크공정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027531&cid=42117&categoryId=42117",
+			"description":" 3차 반응을 거친 <b>섬유<\/b>유연제 반제품을 유화하고 얇은 조각(플레이크)으로 만들기 위하여 유화기 및 혼합기를 조작·관리한다. [수행<b>직무<\/b>] 유화조에 공급호스를 연결하고 펌프를 가동하여 3차 공정을 거친... ",
+			"thumbnail":""
+		},
+		{
+			"title":"드라이클리닝원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028082&cid=42117&categoryId=42117",
+			"description":" 유기용제를 사용하여 양복, 드레스, 모포 등 물세탁을 할 수 없는 <b>섬유<\/b>제품들을 세탁하고자 드라이클리닝기를 조작한다. [수행<b>직무<\/b>] 세탁물의 종류와 양에 따라 용제의 농도와 드라이클리닝기의 조작방법을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"파일편직원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027929&cid=42117&categoryId=42117",
+			"description":" 완구용이나 내피용 파일편직물을 제조하기 위해 화학<b>섬유<\/b> 톱(Top)이나 편직용실을 사용하여 일정한 색상, 중량으로 무늬를 짜는 편직기를 조작한다. [수행<b>직무<\/b>] 포장된 톱을 여러 개의 통에 나누어 담는다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업기반기술학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025360&cid=42117&categoryId=42117",
+			"description":" 산업기반기술 계열학원에서 수강생들에게 특정교과에 대한 이론과 기술을 강의하고 자격·면허를 취득하기 위한 전문과목을 지도한다. [수행<b>직무<\/b>] 수강생들에게 기본이론, 공구 및 기계의 사용, 안전관리 등에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재용선별원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028138&cid=42117&categoryId=42117",
+			"description":"각 공정에서 들어온 낙면을 작업대에 올려놓는다. 낙면을 사용용도에 따라 굵기, 색상, 염색성, 길이 등으로 구분하여 재활용 <b>섬유<\/b>를 분류한다. <b>섬유<\/b> 중에 포함된 불순물(쇠붙이, 기름오염, 실발)을 제거한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"테니스라켓성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027691&cid=42117&categoryId=42117",
+			"description":"이형지를 기계의 드럼에 부착하고 탄소<b>섬유<\/b>를 기계의 걸대에 건다. <b>섬유<\/b>다발의 끝을 에폭시수지가 들어있는 통 가운데로 통과시켜 드럼의 우측단 이형지에 붙인다. 수지에 함침된 탄소<b>섬유<\/b>를 와인딩(winding... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부산물하조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029610&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 손수레나 바퀴 달린 운반도구에 혼합된 <b>섬유<\/b>나 부산물을 담고 지정된 장소로 운반한다. 빗자루나 공기압축기(Air Compressor)로 작업장 주위를 청소한다. 배관을 통해 임시저장고로 운반된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해섬기운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029346&cid=42117&categoryId=42117",
+			"description":"칩으로부터 소정의 <b>섬유<\/b> 굵기가 나오도록 수치를 입력하고 추출된 <b>섬유<\/b>의 상태를 육안으로 확인한다. 계기판에 나타난 변화를 관찰하고 전압, 증기압, 온도, 속도 등을 조정한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"제지공정시험연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029202&cid=42117&categoryId=42117",
+			"description":"<b>섬유<\/b>분리기를 이용하여 펄프견본의 <b>섬유<\/b>분리시험을 한다. 습지강도측정기를 사용하여 각 공정에서 채취된 시료의 습지강도를 측정한다. 산·염기측정기를 이용하여 각 시료의 산성도를 측정한다. 각 공정 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장난감마무리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027757&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 각종 장식품을 작업대에 준비한다. 반제품에 접착제를 칠하여 각종 장식품을 붙인다. 먼지와 군더더기 <b>섬유<\/b>를 송풍기나 공기호스를 사용하여 제거한다. 완성한 제품을 육안으로 검사한 후 포장한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"목조주택건립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026364&cid=42117&categoryId=42117",
+			"description":"건물의 열손실과 소음차단을 위해 천장, 외벽, 바닥에 유리<b>섬유<\/b>(Glass Fiber), 유기<b>섬유<\/b>(Paper) 등의 단열재를 설치한다. 외부에 노출되는 목재는 목재를 보호하기 위하여 오일스테인 등 외부전용 페인트로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"낚싯대수지가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658824&cid=42117&categoryId=42117",
+			"description":"롤 상태의 유리<b>섬유<\/b> 원단에 축을 끼워 걸대에 건다. 원단의 끝을 건조로에 통과시켜 권취롤러에 일정 횟수 감는다. 함침시간 및 건조시간을 조정하고 기계를 가동한다. 배합, 건조, 온도, 비중, 함침 상태를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대형세탁기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028081&cid=42117&categoryId=42117",
+			"description":"세탁물의 강도나 때의 농도에 따라 세탁시간을 조정하고 세제량을 조절한다. 세탁물의 특성에 따라 염소계 표백제, <b>섬유<\/b>유연제, 중화제 등을 사용한다. 세탁이 완료된 후 세탁물을 다음 공정으로 이송한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"탄소복합재료제조기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953560&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 탄소-탄소복합재료(Carbon-Carbon Composites:탄소계의 입자, <b>섬유<\/b>와 탄소계의 모체 등 두 종류 이상을 조합한 재료)를 생산하기 위하여 원료를 선정하고 원료품질을 분석한다. 원료분체를 배합한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장난감모형제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029473&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 설계도면의 명세서에 따라 알루미늄, 나무, <b>섬유<\/b>유리 등의 재료를 선택한다. 측정 및 제도기구를 사용하여 재료 위에 부품의 모양을 그린다. 사용할 수지의 형판을 도안하고 각종 성형기계로 형을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목재등급평가사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029693&cid=42117&categoryId=42117",
+			"description":"육안 또는 측정자를 사용하여 옹이, 옹이구멍, 둥근모, 할렬(재면의 갈라짐, 터짐), 윤활, 굽음, 표준치수, 평균연륜폭, <b>섬유<\/b>주행경사, 기타 결점을 검사한다. 함수율측정기, 다이얼게이지 등을 사용하여 함수율... ",
+			"thumbnail":""
+		},
+		{
+			"title":"레저선박선체정비원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658462&cid=42117&categoryId=42117",
+			"description":"FRP보트의 경우 파손부위를 겔코트(Gelcoat)로 메꾸거나 덧바르고 경우에 따라 파손부위에 유리<b>섬유<\/b>와 경화제를 적층하여 수리하고 도장하여 마무리한다. 알루미늄 선체의 경우 파손부위에 보강용접을 하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고분자공정연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027392&cid=42117&categoryId=42117",
+			"description":"폴리머브랜드(Polymer Bland), <b>섬유<\/b>방사, 필름블로잉(Film Blowing), 수치묘사, 표면코팅 등의 기술에 관하여 연구한다. 고분자 소재의 특성과 생산품의 물성에 따라 최적화된 가공설비의 배치 및 온도, 압력, 시간... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보일러설치보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026681&cid=42117&categoryId=42117",
+			"description":"보일러의 케이싱을 암면, 유리<b>섬유<\/b> 등의 재료를 이용하여 충분히 보온한다. 모르타르를 배합하여 슬리브 주위·보일러기초·탱크지지대 주위 등에 바른다. 보일러의 최고사용압력·형식·제조자명 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바디수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026625&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 바디를 작업대의 틀에 올려놓고 솔이나 공기호스를 사용하여 바닥의 <b>섬유<\/b>부스러기나 수지를 청소한다. 와이어의 정렬이 바른지 바디의 거친 가장자리와 깨진 곳의 유·무 등에 대한 조사한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방사반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027794&cid=42117&categoryId=42117",
+			"description":" 화학<b>섬유<\/b>를 제조하고자 칩(Chip), 폴리머(Polymer) 등의 원료를 용융·압출·방사하는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 작업지시서를 확인하고 생산량, 생산품목, 시간계획 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소면반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027809&cid=42117&categoryId=42117",
+			"description":" 소면기계에 관한 지식을 활용하여, 천연<b>섬유<\/b>원료 및 합성<b>섬유<\/b>원료를 실로 방적하기 위해 슬리버(Sliver)를 만드는 데 종사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 투입할 원면의 양, 방출할 슬리버의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한지제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953512&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 지통에 물과 원료를 넣고 막대로 잘 저어 고르게 분산시킨 후 <b>섬유<\/b>끼리의 분산과 종이 뜰 때 발에서 물 빠짐을 조절할 수 있도록 닥풀즙(황초기뿌리의 액)을 넣고 다시 잘 저어 준다. 지통에 발을 담가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재활용기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664773&cid=42117&categoryId=42117",
+			"description":"폐합성<b>섬유<\/b> 등), 유기성자원(오니류, 음식물류, 폐종이, 폐목재, 폐산·알칼리 등), 제품(폐가전제품, 폐자동자, 폐전자제품, 전자산업 스크랩) 등의 폐기물 특성에 따른 화학적 재활용, 원료 재활용 등 자원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027795&cid=42117&categoryId=42117",
+			"description":" 합성<b>섬유<\/b> 필라멘트(Filament:장<b>섬유<\/b>)를 압출하여 권취기에 감는 기계를 조작한다. [수행<b>직무<\/b>] 방사할 작업물량을 파악하고 방사기 및 권취기 등 관련 장비의 이상 유무를 파악한다. 방사노즐을 통과하는 가는... ",
+			"thumbnail":""
+		}
+	]
+}

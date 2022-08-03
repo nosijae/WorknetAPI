@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:18 +0900",
+	"total":1363,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>전자<\/b>기관사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5963370&cid=42114&categoryId=42114",
+			"description":" <b>전자<\/b>기관사란 응시자격을 갖춘 자가 한국해양수산연수원에서 시행하는 <b>전자<\/b>기관사 시험에 합격하여 <b>전자<\/b>기관사 면허를 취득한 자를 말한다. 응시자는 승무경력요건을 갖추고 시험과목당 40점 이상... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724154212322_C3A5OE26N.jpg\/da6_933_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"고객<b>전자<\/b>메일접수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024870&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>문서(EDI), 이메일, 게시판을 통해 접수된 이용에 대한 각종 통신 관련 문의사항을 읽고 안내한다. [수행<b>직무<\/b>] <b>전자<\/b>메일, <b>전자<\/b>문서, 게시판으로 접수된 이용자의 통신서비스 관련 문의사항을 읽고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>및계측장비개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953604&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>장비의 하드웨어 및 계측제어 설비에 대한 개발 방안을 연구·검토하고, 신·증설 및 개·보수 계획을 수립·실시하며 제어수리직 작업자에게 기술을 지도한다. [수행<b>직무<\/b>] <b>전자<\/b>장비의 하드웨어 및 계측제어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>부품테이핑기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028459&cid=42117&categoryId=42117",
+			"description":" 자동삽입기계에 사용하기 위해 콘덴서·트랜지스터·다이오드 등 <b>전자<\/b>부품의 리드선(Lead Wire)에 테이프로 붙여주는 기계를 조작한다. [수행<b>직무<\/b>] <b>전자<\/b>부품, 공정카드, 라벨을 확인하고 테이핑기계의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>제품기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953607&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>구성부품·<b>전자<\/b>장치의 설계, 제조, 시험에 관하여 연구·개발하고, 상업용, 공업용, 의약용, 군사용, 과학용 <b>전자<\/b>제품을 개발한다. [수행<b>직무<\/b>] 전기회로, <b>전자<\/b>부품을 설계한다. 시험조절장비와 기구조립을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>기타부품조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029527&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>기타를 제조하기 위해 <b>전자<\/b> 부품을 납땜하고 몸통, 넥 등 부품을 조립한다. [수행<b>직무<\/b>] 육안으로 <b>전자<\/b> 부품의 상태를 점검한다. 작업계획서에 따라 배선도를 참고하여볼륨 노브(knob), 픽업 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>부품장착산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054137&cid=42114&categoryId=42114",
+			"description":" <b>전자<\/b>부품장착산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>전자<\/b>부품장착산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과하여야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100801920_SXBL2LKKV.jpg\/da6_551_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>기타부품조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5936920&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>기타를 제조하기 위해 <b>전자<\/b> 부품을 납땜하고 몸통, 넥 등 부품을 조립한다. [수행<b>직무<\/b>] 육안으로 <b>전자<\/b> 부품의 상태를 점검한다. 작업계획서에 따라 배선도를 참고하여 볼륨 노브(Knob), 픽업 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054135&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>전자<\/b>산업은 일반 가전제품에서부터 컴퓨터, 통신장비, 항공우주산업분야... ② <b>전자<\/b>산업의 발전으로 각종 <b>전자<\/b>기기를 설계, 시공, 분석할 수 있는 전문기술인력을 양성하기 위해... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203832732_JXJJ9YKUY.jpg\/da6_549_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"루컴즈<b>전자<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%A3%A8%EC%BB%B4%EC%A6%88%EC%A0%84%EC%9E%90",
+			"description":"표창 2016년 11월: 국가<b>직무<\/b>능력표준(NCS) 활용 우수기업 수상 2017년 6월: G-PASS(해외조달시장 진출 유망기업) 지정 2017년 10월: 조달청 품질보증조달물품 지정 외부 링크 루컴즈<b>전자<\/b> - 공식 웹사이트",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>금융사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832884&cid=42117&categoryId=42117",
+			"description":" 텔레뱅킹, PC뱅킹, 인터넷뱅킹 등 <b>전자<\/b>금융서비스 신청에 대한 접수 및 승인, 이용안내 등의 제반 업무를 수행한다. [수행<b>직무<\/b>] 고객이 은행에 나오지 않고 <b>전자<\/b>매체(PC, 핸드폰, 태블릿PC, 전화기)를 통해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>교환기조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028576&cid=42117&categoryId=42117",
+			"description":" 교환기를 생산하기 위하여 생산라인에서 반조립품 및 완제품을 조립한다. [수행<b>직무<\/b>] 유닛(Unit)에 각종 반도체 및 <b>전자<\/b>부품을 조립한다. <b>전자<\/b>부품이 조립된 보드를 회로도면을 보면서 교환기 내에서 각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054138&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>전자<\/b>산업기사 ① <b>전자<\/b>산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>전자<\/b>산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>전자<\/b>산업의 발전으로 각종 <b>전자<\/b>기기를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801161146846_EWL88NZ0U.jpg\/da6_552_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"기능직 ▷전기·<b>전자<\/b> 관련 기능직 ▷화학·의료·식품·기타 기능직 ▷신직업 ▷기타 <b>직무<\/b> 등 14개 분야의 74개 <b>직무<\/b>(2021년 기준)가 있다. 한편, 고용노동부에서는 만 50세 이상 구직자를 신중년 적합<b>직무<\/b>에... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>전자<\/b>램프제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028492&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>램프를 제조하기 위하여 다음 <b>직무<\/b>의 일부를 수행한다. [수행<b>직무<\/b>] 리드 프레임(lead frame)에 칩(chip)을 붙이기 위해 현미경을 사용하여 압력기(dispenser)와 주사기로 수은에폭시를 찍어준다. 현미경을 보며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>부품검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028571&cid=42117&categoryId=42117",
+			"description":" 견본품·<b>전자<\/b>조립품·반조립품·부품 등을 검사한다. [수행<b>직무<\/b>] 절단된 전선, 과잉 납땜, 봉합제의 구멍, 균일하게 감기지 않은 코일, 피복 및 도금의 흠집, 기름누출, 잘못된 저항용접, 긁힌 자국, 갈라진 틈 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>오르간검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029528&cid=42117&categoryId=42117",
+			"description":" 제조된 <b>전자<\/b>오르간을 제품검사 규격에 따라 육안이나 측정기기를 사용하여 검사한다. [수행<b>직무<\/b>] 작업표준서에 명시된 검사규격을 숙지한다. <b>전자<\/b>오르간을 작동시켜 전원이 들어오는지 확인한다. 건반덮개... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>코일조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028581&cid=42117&categoryId=42117",
+			"description":" 수평·수직 권선, 코일조립, 화면검사 등의 공정을 거쳐 IFT(Intermediate Frequency Transformer)코일, 인덕터코일(Inductor Coil), 트로이덜코일(Troidal Coil) 등의 <b>전자<\/b>코일 및 트랜스포머를 조립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰관의 <b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961079&cid=42149&categoryId=42149",
+			"description":"경찰관<b>직무<\/b>집행법에 기하여 경찰관이 행할 <b>직무<\/b>를 말하며, 학문상 경찰관의 <b>직무<\/b>와 일치하지 아니한다. 즉, <b>전자<\/b>의 경찰관에는 사법경찰 관리를 포함하는 데 반하여, 후자의 경찰관에는 사법경찰관리가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재활<b>전자<\/b>제어연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953601&cid=42117&categoryId=42117",
+			"description":" 재활에 사용되는 재활기구의 <b>전자<\/b>제어장치를 연구·개발한다. [수행<b>직무<\/b>] 장애유형 등을 고려하여 재활기구의 <b>전자<\/b>제어시스템을 개발계획을 수립한다. 시스템제어 회로를 설계한다. <b>전자<\/b>제어장치에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>현미경전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1249289&cid=40942&categoryId=31851",
+			"description":" <b>전자<\/b>현미경을 이용하여 각종 재료 연구 및 분석과 생명공학 등 여러 분야에서 일을 하는 사람.  <b>전자<\/b>현미경전문가란 <b>전자<\/b>현미경 응용 분야의 급진적인 확대와 더불어 생겨난 민간자격증이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>상거래컨설턴트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024527&cid=42117&categoryId=42117",
+			"description":" 정부, 기업, 개인 등 경제 주체들이 네트워크를 통해 <b>전자<\/b>적 방식으로 상품 및 서비스를 교환하는 <b>전자<\/b>상거래시스템을 개발 및 운용한다. [수행<b>직무<\/b>] 가상공간에 시장을 구축하는 데 필요한 기술, 물류 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>의료장비조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028580&cid=42117&categoryId=42117",
+			"description":" X-ray, 초음파진단기기, PET-CT, MRI장비 등과 같은 <b>전자<\/b>·전기의료장비를 구성하는 부분품과 부속품들을 드라이버, 동력공구, 납땜기 등을 사용하여 조립한다. [수행<b>직무<\/b>] 작업명세서에 따라 조립할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>기기기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054134&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>전자<\/b>산업은 일반 가전제품에서부터 컴퓨터, 통신장비, 항공우주산업분야... ② <b>전자<\/b>산업의 발전으로 <b>전자<\/b>기기에 대한 전문지식과 숙련기능을 겸비한 전문기술인력을 양성하기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203830265_H6J8TEP6Q.jpg\/da6_548_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>응용기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054139&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>전자<\/b>산업은 일반 가전제품에서부터 컴퓨터, 통신장비, 항공우주산업분야... ② <b>전자<\/b>산업의 발전으로 세계 유수의 <b>전자<\/b>공업국으로 발돋움하기 위하여 <b>전자<\/b>기기에 관한 전문적인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203846148_BA01KADH5.jpg\/da6_553_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"의료<b>전자<\/b>기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054094&cid=42114&categoryId=42114",
+			"description":"② 의료 선진국의 기술 수준을 따라 잡기 위해 의료기기 산업분야에서 관련<b>직무<\/b>를 수행할 숙련된 기능인력을 확보하고자 2007년 의료<b>전자<\/b>기능사 자격제도를 신설하였다. (2) 주요 업무 ① 의료<b>전자<\/b>기능사는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191034839_RXBOPP3H4.jpg\/da6_508_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>램프제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028578&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>램프를 제조하기 위해 접착하고 선을 연결하고 검사하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 작업내용에 따라 작업원에게 지시·배치한다. 작업의 진행상황을 파악하고 작업내용을 보고한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>계산기기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054130&cid=42114&categoryId=42114",
+			"description":"③ 이에 따라 컴퓨터에 관한 지식과 기술을 바탕으로 컴퓨터 하드웨어를 설계하고 보수할 수 있는 전문기술인력을 양성하기 위하여 <b>전자<\/b>계산기기사 자격제도를 제정하였다. (2) 주요 업무 : <b>전자<\/b>계산기기사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100745990_6U2OC74BO.jpg\/da6_544_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"항공<b>전자<\/b>시스템",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2098129&cid=44414&categoryId=44414",
+			"description":"개념 및 정의] 항공<b>전자<\/b>(航空電子, avionics)란, 항공(aviation)과 <b>전자<\/b>(electronics)의 합성어로, 항공기에 탑재되는 <b>전자<\/b>장비를 일컫는다. 항공<b>전자<\/b>는 항공기 및 항공우주 관련 분야에 이용되고 있는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140612170509993_MV6P93PCF.jpg\/z7_term118_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>출판기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054140&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>전자<\/b>출판기능사 ① <b>전자<\/b>출판기능사란 산업인력공단에서 시행하는 <b>전자<\/b>출판기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>전자<\/b>출판이란 컴퓨터를 이용하여 출판물을 조판, 편집... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801161559675_GOJ24JMS9.jpg\/da6_554_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>캐드기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054141&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>전자<\/b>캐드기능사 ① <b>전자<\/b>캐드기능사란 산업인력공단에서 시행하는 <b>전자<\/b>캐드기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② CAD(Computer Aided Design)란 컴퓨터를 도구로 사용하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171220595_VPHCV3AI2.jpg\/da6_555_i3.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>기기기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054133&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>전자<\/b>기기기능사 ① <b>전자<\/b>기기기능사란 산업인력공단에서 시행하는 <b>전자<\/b>기기기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 정보화사회에서 <b>전자<\/b>기술의 발전속도에 맞추어... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171219791_1431AJ9CI.jpg\/da6_547_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>교환기시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028575&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>교환기측정방법 및 시험업무에 관한 지식을 이용하여 교환기 내의 개별 회로기판이나 완제품을 시험한다. [수행<b>직무<\/b>] 각종 시험장비와 계측기기를 사용하여 일반동작 및 성능, 온도상승, 정전기 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전기<b>전자<\/b>자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383696&cid=42279&categoryId=42279",
+			"description":"특히 전기<b>전자<\/b> 자기소개서를 작성할 때에는 해당 <b>직무<\/b>와 관련한 경력 및 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122053538_4A6R8Y3DC.jpg\/hb10_22663_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>제품에너지분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029189&cid=42117&categoryId=42117",
+			"description":" 에너지 소비효율 등급표시제에 따라 각종 <b>전자<\/b>제품의 에너지 효율성을 분석하여 등급을 결정하거나 대기전력 저감 프로그램에 따른 제품 대기전력량을 측정, 분석하는 업무를 수행한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>부품장착기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054136&cid=42114&categoryId=42114",
+			"description":" <b>전자<\/b>부품장착기능사란 산업인력공단에서 시행하는 <b>전자<\/b>부품장착기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과하여야 한다. [ 1. 기본정보] (1)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100801471_41UGU2KQQ.jpg\/da6_550_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"전동차<b>전자<\/b>기기검수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026714&cid=42117&categoryId=42117",
+			"description":" 전동차 운행에 지장이 없도록 전동차의 각종 <b>전자<\/b>기기를 검사하고 유지·보수한다. [수행<b>직무<\/b>] 전동차운전과 관련된 속도, 제동 등의 인쇄회로(PCB)기판을 검사한다. 기판의 불량상태를 점검하여 부품의 기능을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전파<b>전자<\/b>통신기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977043&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① 전파<b>전자<\/b>통신기사란 한국방송통신전파진흥원에서 시행하는 전파<b>전자<\/b>통신기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 모스부호를 이용하던 선박들이 컴퓨터... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210623133222255_LY6G2K9NQ.jpg\/da6_235_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"송변전설비<b>전자<\/b>제어원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028369&cid=42117&categoryId=42117",
+			"description":" 관내 변전설비 및 송전설비가 안정적으로 운영되도록 감시·유지하는 <b>전자<\/b>제어, 정보통신, 원격감시제어 등의 설비를 운영·유지·관리하고 보수한다. [수행<b>직무<\/b>] 송·변전설비의 안정적 운영을 위하여 <b>전자<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>계산기기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054129&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>전자<\/b>계산기기능사   ① <b>전자<\/b>계산기기능사란 산업인력공단에서 시행하는 <b>전자<\/b>계산기기능사 시험에 합격하여 그 자격을 취득한 자를 말한다.   ② 컴퓨터 하드웨어의 고장으로 인한 경제적... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20170712204324712_BUE1YTGA2.jpg\/da6_543_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>세라믹소재검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026949&cid=42117&categoryId=42117",
+			"description":" 제조된 <b>전자<\/b>세라믹 부품의 전기적, 자기적, 광학적 특성 등을 측정하여 소자 응용가능성을 평가한다. [수행<b>직무<\/b>] 유전체, 압전체, 자성체 등 전기<b>전자<\/b> 세라믹소재의 요구특성을 확인한다. 저울, 오실로스코프... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항공기<b>전자<\/b>부품설치원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026882&cid=42117&categoryId=42117",
+			"description":" 항공기 기체의 각 <b>전자<\/b> 부품을 설치하고 방향성이 일치되도록 조정한다. [수행<b>직무<\/b>] 작업표준서나 배치도면을 보고 작업에 필요한 공구와 자재를 준비한다. 엔진 시동계통을 설치하고 점검한다. 조종석... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>기판기능검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026313&cid=42117&categoryId=42117",
+			"description":" 영상기기, 음향기기, 사무기기 등 각종 <b>전자<\/b>제품에 장착되는 <b>전자<\/b>부품이 조립된 인쇄회로기판을 기능검사장비를 이용하여 검사·측정·시험한다. [수행<b>직무<\/b>] 기판기능검사장비에 검사프로그램을 로드(Load)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>기타몸통가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029526&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>기타의 몸통을 가공하기 위해 수동공구로 목재를 가공한다. [수행<b>직무<\/b>] 입고된 목재의 건조 상태를 확인한다. 작업계획서에 따라 목재를 도본 한다. 수동공구를 사용하여 나무를 알맞은 형태로 가공한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정밀<b>전자<\/b>기기기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953606&cid=42117&categoryId=42117",
+			"description":" 설계도 및 명세서에 따라 각종 공구 및 시험계기를 사용하여 센서 및 제어장치 등을 조립하고 고도계, 현미경, 시계 등 제어 및 계측관련 각종 정밀<b>전자<\/b>기기를 제작·시험·분석·조절한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>의료장비수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028342&cid=42117&categoryId=42117",
+			"description":" 전동공구 및 수동공구, 각종 계측기기, 음파검사기기를 이용하여 X-ray, 초음파진단기기, PET-CT MRI 장비 등 <b>전자<\/b>의료장비를 검사·수리한다. [수행<b>직무<\/b>] 생산공정 단계 및 출하 후에 발생한 의료장비 고장을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>의료장비품질검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665118&cid=42117&categoryId=42117",
+			"description":" 조립된 의료장비의 조립상태 및 기능의 결함을 확인하기 위하여 각종 계측기기를 사용하여 성능, 안전성, 외관 등을 검사한다. [수행<b>직무<\/b>] 작업표준에 의하여 제품에 따른 검사항목을 확인하고 그에 따른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>세라믹원료합성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027381&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 요구되는 <b>전자<\/b>기 특성(유전체, 압전체, 자성체 등 <b>전자<\/b>세라믹의 특성을 구현하는 나노 분말, 마이크로 분말 등)에 따라 혼합분산 작업표준을 작성한다. 혼합·분산(세라믹의 균일화, 균질화를 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전파<b>전자<\/b>통신기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977062&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① 전파<b>전자<\/b>통신기능사란 한국방송통신전파진흥원에서 시행하는 전파<b>전자<\/b>통신기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 모스부호를 이용하던 선박들이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210623111742848_5QBAH8Y2F.jpg\/da6_254_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"항공기<b>전자<\/b>통신검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953559&cid=42117&categoryId=42117",
+			"description":" 항공기의 무선통신 장비, 항법장비, 레이더 등의 장치와 디스플레이 상태를 검사한다. [수행<b>직무<\/b>] 작업지시서 내용에 따라 정기점검인 경우 점검해야 할 항목, 비행 중 이상이 발생한 항공기의 경우에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전기<b>전자<\/b>장비부품가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026800&cid=42117&categoryId=42117",
+			"description":" 전기<b>전자<\/b>장비의 부품과 재료를 가공 처리하기 위하여 기계가공장비를 사용하여 전동기, 발전기, 변압기 등의 부품 또는 재료를 절단하거나 일정한 모양으로 가공한다. [수행<b>직무<\/b>] 전동기, 발전기, 변압기 등과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항공<b>전자<\/b>정비기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970581&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 항공<b>전자<\/b>정비기능사 ① 항공<b>전자<\/b>정비기능사란 산업인력공단에서 시행하는 항공<b>전자<\/b>정비기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 항공기 운항의 안전을 확보하기 항공기의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801161339180_18O6ABRUL.jpg\/da6_188_i3.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>계산이론연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837698&cid=42117&categoryId=42117",
+			"description":" 계산기하학, 수학적 논리, 계산복잡도 등의 컴퓨터과학이론을 연구한다. [수행<b>직무<\/b>] 각종 자료를 처리하기 위하여 컴퓨터 계산방법을 적용하고 처리과정을 추적한다. 컴퓨터의 처리절차를 분석하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>세라믹재료소결원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027383&cid=42117&categoryId=42117",
+			"description":" 세라믹 소재에 전기<b>전자<\/b> 소재의 특성을 구현하기 위해 소결, 재열처리 작업을 수행한다. [수행<b>직무<\/b>] 작업표준에 따라 소결로, 온도표준표, 소성로, 측정기구, 온도측정표준시편, 온도측정설비, 내화판을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>세라믹재료성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027382&cid=42117&categoryId=42117",
+			"description":" 분말, 벌크, 후막, 박막 등의 전기<b>전자<\/b> 부품형상을 구현하기 위해 성형작업을 수행하고 성형체를 검사한다. [수행<b>직무<\/b>] 요구되는 제품의 형상에 따라 건식성형, 후막성형, 박막성형 작업표준을 작성한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해양플랜트전기<b>전자<\/b>관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953471&cid=42117&categoryId=42117",
+			"description":" 해양플랜트의 <b>전자<\/b>·전기, 통신 장비의 유지 및 보수업무를 수행한다. [수행<b>직무<\/b>] 해양플랜트 내 장비구동 중 발생하는 전기·<b>전자<\/b> 관련 문제점에 대해 보고를 받고 이에 대한 조치를 취한다. 각 작업이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전파<b>전자<\/b>통신산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=977063&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① 전파<b>전자<\/b>통신산업기사란 한국방송통신전파진흥원에서 시행하는 전파<b>전자<\/b>통신산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 모스부호를 이용하던... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210623114206797_03B6HLZX4.jpg\/da6_255_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>세라믹재료후가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027384&cid=42117&categoryId=42117",
+			"description":" 세라믹 소재에 전기<b>전자<\/b> 특성을 구현하기 위하여 후처리작업을 수행한다. [수행<b>직무<\/b>] 가공작업 표준에 따라 세라믹소성체, 세정액, 전극재료, 코팅재료, 분위기 형성 가스(산소, 질소, 아르곤 등)를 준비한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>전자<\/b>계산기조직응용기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054132&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>전자<\/b>계산기조직응용기사 ① <b>전자<\/b>계산기조직응용기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>전자<\/b>계산기조직응용기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ②... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191227113804365_UF067GVG5.png\/da6_546_i1.png?type=m160_160"
+		},
+		{
+			"title":"<b>전자<\/b>계산기제어산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054131&cid=42114&categoryId=42114",
+			"description":"③ 이에 따라 컴퓨터에 관한 지식과 기술을 바탕으로 컴퓨터 하드웨어를 설계하고 보수할 수 있는 전문기술인력을 양성하기 위하여 <b>전자<\/b>계산기제어산업기사 자격제도를 제정하였다. ④ 2008년 <b>전자<\/b>계산기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402033232337_1IN60P0JQ.jpg\/da6_545_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"아산<b>전자<\/b>기계고등학교 (아산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5913632&cid=66498&categoryId=66525",
+			"description":"[정의] 충청남도 아산시 둔포면 둔포리에 있는 공립 특성화 남녀공학 고등학교. [교육 목표(교훈 포함)] 아산<b>전자<\/b>기계고등학교는 첫째 미래를 설계하고 더불어 살아가는 창의적 인재 육성, 둘째 인권과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"벨라루스 국립 정보, 무선<b>전자<\/b> 종합대학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B2%A8%EB%9D%BC%EB%A3%A8%EC%8A%A4_%EA%B5%AD%EB%A6%BD_%EC%A0%95%EB%B3%B4,_%EB%AC%B4%EC%84%A0%EC%A0%84%EC%9E%90_%EC%A2%85%ED%95%A9%EB%8C%80%ED%95%99",
+			"description":"벨라루스 국립 정보, 무선<b>전자<\/b> 종합대학 (벨라루스어: Беларускі дзяржаўны ўніверсітэт... 편제<b>직무<\/b>의 과학자들과 기술자들, 박사원과 연구원, 준연구원생들이 참가하고 있으며 주간교육을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업보건지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2809904&cid=42114&categoryId=42114",
+			"description":" 산업보건지도사란 산업인력공단에서 시행하는 산업보건지도사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자격에는 제한이 없다. 응시자는 1차, 2차 필기시험과 3차 면접시험 3단계를 통과해야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191200037_CBEI3LDPG.jpg\/da6_753_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"산업안전지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2809905&cid=42114&categoryId=42114",
+			"description":" 산업안전지도사란 산업인력공단에서 시행하는 산업안전지도사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자격에는 제한이 없다. 응시자는 1차 객관식, 2차 주관식, 3차 면접시험 3단계를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191200146_MGGUBKGRK.jpg\/da6_754_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"이수빈",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%EC%88%98%EB%B9%88",
+			"description":"2014년 이건희의 입원과 2017년 이재용의 구속 등으로 삼성생명의 회장으로서 공석 중인 삼성그룹 총수 대행과 삼성<b>전자<\/b> 회장 <b>직무<\/b>대리를 맡아보았다. 경북 성주군 월항면 출신. 학력 미국 하버드... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현미경의 원리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3569769&cid=58885&categoryId=58885",
+			"description":"[ 광학 현미경은 언제부터 사용했을까? ] 오래 전부터 사람들은 맨눈으로 볼 수 있는 것보다 더 작은 것들을 보고 싶어했다. 현미경은 이러한 목적을 위해서 발명되었다. 현미경(顯微鏡)은 microscope를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170117213327651_KKUQY5EDD.jpg\/3-1_7.jpg?type=m160_160"
+		},
+		{
+			"title":"슈퍼바이저",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8A%88%ED%8D%BC%EB%B0%94%EC%9D%B4%EC%A0%80",
+			"description":"슈퍼바이저 ( 영어: supervisor )는 감독 · 관리 · 감수를 담당하는 사람 또는 감시하는 주체이다. <b>전자<\/b>의 경우 <b>직무<\/b> · 직위로 사용되는 경우가 많다.",
+			"thumbnail":""
+		},
+		{
+			"title":"쇼핑몰택배준비원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026067&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>전자<\/b>상거래 시스템을 이용하여 주문정보(주문서)를 확인한다. 상품의 재고 및 위치를 파악한다. 주문서에 따라 상품의 종류와 개수를 확인한다. 상품의 종류에 따라 소분(완제품을 나누어 재포장)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고객서비스만족도조사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658422&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>전자<\/b>제품수리, 자동차보험 관련 업무, 은행 관련 업무 등 고객의 요청에 의해 수행된 유·무형 서비스에 대해 그 서비스가 완료된 후 서비스를 제공받은 고객을 대상으로 서비스비용, 응대시간... ",
+			"thumbnail":""
+		},
+		{
+			"title":"귀금속검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029483&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>전자<\/b>저울이나 천칭을 사용하여 검사할 귀금속의 무게를 계량한다. 시금석(試金石:Touchstone:금과 은의 순도를 조사하는 데 사용되는 흑색의 규산질암석)을 작업대에 올려놓고 시금석의 표면에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교통안전시설기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026306&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>전자<\/b>신호등체계, 안전표지시설물 등의 교통안전시설물에 대한 설계 및 검사업무를 수행하고 설치되어 있는 시설물의 점검을 통하여 개선사항을 설계한다. 특히 교통안전시설에 대해서는 휘도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의료기기 RA 전문가 2급",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900730&cid=42114&categoryId=42114",
+			"description":" 의료기기 RA 전문가 2급이란 응시자격을 갖춘 자가 한국의료기기안전정보원에서 시행하는 의료기기 RA 전문가 2급 시험에 합격한 후 자격을 취득한 자를 말한다. 응시자는 객관식 시험을 통과해야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191227114029520_F5951NSNI.png\/da6_912_i1.png?type=m160_160"
+		},
+		{
+			"title":"명령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1093138&cid=40942&categoryId=31721",
+			"description":" 법률에 따라 행정권에 의하여 정립되는 규범.  법의 일부로서의 명령은 행정입법에 의한 명령을 말한다. 긴급명령과 긴급재정·경제명령 등의 법률대위명령(法律代位命令)이 있으나(헌법 제76조), 일반적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내비게이션항법지도개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028678&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 대한민국 표준<b>전자<\/b>지도 전도와 실사 실측한 자료를 비교·확인한다. 개발되는 내비게이션에 따라 주요 모듈 및 응용프로그램을 개발한다. 디스플레이, 안내, 검색, 사용자 인터페이스 등을 개발한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스마트섬유연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658705&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 섬유와 <b>전자<\/b>재료를 접목시켜 안정성을 확보하는 기술과 스마트섬유 회로설계기술, 스마트섬유와 IT기기 간의 커넥팅 기술 등을 연구한다. 스마트섬유의 편의성, 내구성, 안정성, 내열성 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무전기조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028517&cid=42117&categoryId=42117",
+			"description":" 각종 <b>전자<\/b>부품이 조립된 인쇄회로기판을 일정 모양으로 사출·성형된 케이스에 조립한다. [수행<b>직무<\/b>] 회로기판과 <b>전자<\/b>부품으로 결선·납땜·조립된 부품에 절연재베이스를 부착시킨다. 작업지시서에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"임금 (경제학)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%84%EA%B8%88_(%EA%B2%BD%EC%A0%9C%ED%95%99)",
+			"description":"덧붙여 말하면 <b>직무<\/b>급에는 단일 <b>직무<\/b>급과 범위 <b>직무<\/b>급이 있다. <b>전자<\/b>의 경우에는 직급별로 단 하나의 임률만이 설정되어 개인의 능력차·숙련차 등이 전혀 반영되지 않음에 대하여 후자의 경우는 동일 직급의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시계제조기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028191&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 손목시계, <b>전자<\/b>식시계, 벽시계, 괘종시계, 탁상시계 등의 개발을 위하여 각종 시계관련 국내외 정보를 수집·분석하여 연구한다. 해외시계 박람회 등을 방문하여 국내외 시계시장의 흐름을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"박근혜 대통령 퇴진 운동",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%95%EA%B7%BC%ED%98%9C_%EB%8C%80%ED%86%B5%EB%A0%B9_%ED%87%B4%EC%A7%84_%EC%9A%B4%EB%8F%99",
+			"description":"최종진 민주노총 위원장 <b>직무<\/b>대행, 삼성<b>전자<\/b>서비스 노동자 등이 법원 규탄과 구속 촉구, 헬조선을 바꾸자 등의 주제로 발언이 예정됐다. 그리고 이날 주최측 추산 35만 3천 4백명이 참가하였다. 봄이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수삽원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028545&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>회로기판을 제조하기 위해 집적회로·트랜지스터·고주파코일·저항·콘덴서 등 <b>전자<\/b>부품을 인쇄회로기판에 삽입한다. [수행<b>직무<\/b>] 부품의 리드를 수동공구와 손으로 구부리거나 리드가 구부러진 부품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자삽기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028457&cid=42117&categoryId=42117",
+			"description":" 인쇄회로기판에 트랜지스터·다이오드·콘덴서 등 <b>전자<\/b>부품을 자동으로 삽입하는 기계를 조작한다. [수행<b>직무<\/b>] 자재부서로부터 자재를 수령하여 이상 유무를 확인하고 작업지도서·프로그램철·부품목록 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"차세대디스플레이개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953609&cid=42117&categoryId=42117",
+			"description":" PAD(인쇄 능동 디스플레이), ASD(다기능 복합 디스플레이) 등 새로운 개념의 미래형 정보디스플레이의 핵심·원천기술을 개발한다. [수행<b>직무<\/b>] 고화질, 초경량, 초박형, 저전력 및 다기능의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"태양전지전기발광장비조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028466&cid=42117&categoryId=42117",
+			"description":" 육안검사로 판단할 수 없는 내부결함 유무를 검사하기 위해 화상검사가 가능한 <b>전자<\/b>발광(EL:Electro Luminescence) 장비를 조작한다. [수행<b>직무<\/b>] 모듈의 결함을 검사하기 위해 생산 로트별로 일정 수의 모듈을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"플라즈마영상패널유전층보호막형성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028430&cid=42117&categoryId=42117",
+			"description":" <b>전자<\/b>빔 진공증착법을 이용해 PDP(Plasma Display Panel)의 보호막으로 사용되는 MgO(Magnesium oxide)막을 형성하는 공정을 수행한다. [수행<b>직무<\/b>] 전 공정에서 투명유전층이 형성된 후 MgO(Magnesium oxide)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음향신호처리기술연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953595&cid=42117&categoryId=42117",
+			"description":" 텔레비전, 멀티미디어, 유선방송 등에 사용되는 음성신호를 처리하는 기술 및 장비를 연구·개발한다. [수행<b>직무<\/b>] 마이크, 광자기 기록장치로부터 입력되는 각종 음성신호를 스피커로 출력시키기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교환기운용원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028744&cid=42117&categoryId=42117",
+			"description":" 전화통화의 질을 향상하기 위하여 <b>전자<\/b>교환시스템을 운용하고 유지보수한다. [수행<b>직무<\/b>] 전화국 또는 전화집중국에 설치된 <b>전자<\/b>식교환시스템의 단말기를 통해 교환기의 작동상황을 파악한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"에이징원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028556&cid=42117&categoryId=42117",
+			"description":" 텔레비전, 비디오, 컴퓨터 등 제조된 <b>전자<\/b>제품을 일정 시간 가동시켜 이상 유무 및 내구력을 점검한다. [수행<b>직무<\/b>] 컨베이어를 통해 이송된 <b>전자<\/b>제품에 전원을 공급하고 일정 시간 가동시켜 제품의 이상 유무... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인터넷복권개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664845&cid=42117&categoryId=42117",
+			"description":" 인터넷복권(<b>전자<\/b>복권)의 개발계획을 수립하고 인터넷사이트를 통해 복권을 판매하고 관리하는 업무를 수행한다. [수행<b>직무<\/b>] 국내외 인터넷복권(<b>전자<\/b>복권)제도 및 인터넷복권 상품자료와 정보를 수집하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"누전차단기조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028516&cid=42117&categoryId=42117",
+			"description":" 전류의 흐름을 제어하는 차단기 부품인 소호장치, 계폐기구, TRIP기구, 단자나사 부분 등의 테스트 기판·<b>전자<\/b>결합체·조작기판을 수동공구로 조립한다. [수행<b>직무<\/b>] 작업명세서에 따라 조립한 제품의 부품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영상신호처리기술연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953592&cid=42117&categoryId=42117",
+			"description":" 텔레비전, 컴퓨터, 방송, 멀티미디어, 화상전화, 유선방송 등에 사용되는 각종 영상신호의 처리기술 및 장치를 연구·개발한다. [수행<b>직무<\/b>] 카메라, 모니터 등을 통하여 입력되는 화상신호를 반도체와 각종... ",
+			"thumbnail":""
+		},
+		{
+			"title":"역무자동화설비기술연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953591&cid=42117&categoryId=42117",
+			"description":" 역무자동화설비(AFC:Automatic Fare Collection System)의 고장원인을 분석하고, 성능개선을 위한 기술개발과 지도를 한다. [수행<b>직무<\/b>] 역무자동화설비의 장애를 점검하고 고장원인을 분석한다. <b>전자<\/b>설비의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연료전지스택성능시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028263&cid=42117&categoryId=42117",
+			"description":" 조립과 컨디셔닝이 완료된 스택(STACK)을 성능평가분석 장비와 연결시켜 스택의 정상작동 여부를 시험한다. [수행<b>직무<\/b>] 조립과 컨디셔닝이 완료된 스택을 성능평가분석 장비와 연결시켜 스택으로 연료(수소... ",
+			"thumbnail":""
+		},
+		{
+			"title":"멀티미디어연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028222&cid=42117&categoryId=42117",
+			"description":" 멀티미디어서비스를 제공하기 위한 영상처리요소기술, 멀티미디어 콘텐츠, 차세대 통신서비스 등을 연구·개발한다. [수행<b>직무<\/b>] 고속정보통신망을 기반으로 한 멀티미디어 DB(Data Base)응용서비스 기술을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"납땜수정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027017&cid=42117&categoryId=42117",
+			"description":" 불합격된 인쇄회로 기판에 조립된 <b>전자<\/b>부품의 선을 절단하거나 납땜이 되지 않은 부위에 납땜을 하고 불량으로 판정된 기판을 모아 작업장소로 이동한다. [수행<b>직무<\/b>] 작업지도표를 보고 공정의 위치를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모바일상거래기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627167&cid=42117&categoryId=42117",
+			"description":" 무선인터넷을 통한 <b>전자<\/b>상거래의 비즈니스모델을 기획하고 추진한다. [수행<b>직무<\/b>] 무선인터넷을 통해 제공 가능한 <b>전자<\/b>상거래기술 및 기존의 서비스를 분석한다. 무선인터넷 시장의 동향 및 고객의 성향을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프린터조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658496&cid=42117&categoryId=42117",
+			"description":" 프린터의 각 부품을 조립하고 작동 여부를 확인한다. [수행<b>직무<\/b>] 작업에 필요한 부품 및 드라이버, 게이지, 니퍼 등 공구를 준비한다. 각종 부품 및 반조립품의 외관을 검사한다. 인쇄회로기판 등 <b>전자<\/b>부품의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금융공동망제도기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024978&cid=42117&categoryId=42117",
+			"description":" 금융공동망 제규약 정비, <b>전자<\/b>금융 관련 표준화추진, <b>전자<\/b>금융위원회 등 금융공동망 전반에 걸친 기획업무를 담당한다. [수행<b>직무<\/b>] 금융결제원 업무로서 금융공동망업무 관련 사업추진계획을 수립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"피뢰기조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028602&cid=42117&categoryId=42117",
+			"description":" 천둥, 순간합선 등에 의한 과전압이나 낙뢰로부터 기기를 보호하며 충격 전압을 방지하는 피뢰기를 조립한다. [수행<b>직무<\/b>] 작업지시서 및 작업표준에 따라 조립에 필요한 부분품을 확인하고 장비와 공구를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사진장비조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028543&cid=42117&categoryId=42117",
+			"description":" 영사기, 프로젝터, 인화기, 마이크로필름 장비 등 사진장비를 수동·자동공구를 사용하여 조립하고 조정한다. [수행<b>직무<\/b>] 작업지시서에 따라 제조할 영사기, 프로젝터, 인화기 등의 사진장비의 규격과 제조방법... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철도차량전기검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028273&cid=42117&categoryId=42117",
+			"description":" 명세서와 도면에 따라 철도차량의 각종 기기 및 배전반 등의 배선 및 결선상태를 검사한다. [수행<b>직무<\/b>] 작업지시서 및 검사절차서를 보고 검사방법을 숙지한다. 전기기계 도면과 전기·<b>전자<\/b>도면을 파악하여... ",
+			"thumbnail":""
+		}
+	]
+}

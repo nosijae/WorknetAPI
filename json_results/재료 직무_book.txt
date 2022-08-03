@@ -1,0 +1,52 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:06 +0900",
+	"total":4,
+	"start":1,
+	"display":4,
+	"items":[
+		{
+			"title":"NCS 기반 직무수행능력+직무중심면접 평가 16: 재료 (NCS 기반 신규 채용ㆍ승진ㆍ이직 \/ 직무 능력 중심 채용 대비)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32497250758",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249725\/32497250758.20220527062337.jpg",
+			"author":"NCS 채용 시험 연구회",
+			"discount":"18900",
+			"publisher":"씨마스",
+			"pubdate":"20160510",
+			"isbn":"9791156721031",
+			"description":"- 독자대상 : NCS 기반 신규 채용 승진 이직 준비생\n- 구성 : 직무수행능력+직무중심면접\n- 특징 : \n① 수록 내용이 직무 중심 면접에 유용한 이유 제시\n② 해당 직무에 관한 기출 면접 질문 문항 제시\n③ 직무 수행 능력 평가 문항 제시\n④ 직무 능력의 수준을 진단할 수 있는 자가진단 도구 제시"
+		},
+		{
+			"title":"NCS 기반 직무분야별 직무능력평가 16 재료 (직업기초 + 직무수행 능력평가)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32490332679",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249033\/32490332679.20220520191524.jpg",
+			"author":"",
+			"discount":"20700",
+			"publisher":"씨마스",
+			"pubdate":"20160120",
+			"isbn":"9791156720607",
+			"description":"단기간에 NCS를 완전 정복할 수 있도록 단원별 Wrap-up Keypoint를 제공한다. 학습한 내용을 바로 확인할 수 있는 NCS 누리집(onspec.ncs.go.kr) 익힘 문제도 제공하였으며, NCS 기반 채용방식을 사용하는 기업체의 기출문제를 통해 실전 감각 키우기도 담아냈다. 그리고, 직업기초능력을 측정할 수 있는 수준 높은 평가 문제를 개발하여 단계별로 제공함으로써 수준별 학습도 가능할 것이다."
+		},
+		{
+			"title":"요소부품 재질검토(재료열처리) (기계설계직무능력표준 모듈교재)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32493217903",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249321\/32493217903.20220527022659.jpg",
+			"author":"한국산업인력공단",
+			"discount":"10800",
+			"publisher":"진한엠앤비",
+			"pubdate":"20150118",
+			"isbn":"9788984329126",
+			"description":"이 학습 자료는 기계설계 분야의 능력단위로 기계설계 도면에서 기계를 구성하는 요소부품의 재질 검토 및 재료 열처리에 관한 내용이다. 기계설계 도면에서 요소부품의 재질 검토를 위하여 기계재료, 기계제작법 및 열처리의 기초이론부터 기계설계 또는 도면해독에서 요소부품의 재질 검토 및 열처리 방안을 선정할 수 있도록 하는 내용이 작성되어 있다."
+		},
+		{
+			"title":"직무분석 4 (기계\/재료\/섬유·의복\/전기·전자\/ 정보통신, 출제기준 정비자료 12-06)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32492780193",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249278\/32492780193.20220520232930.jpg",
+			"author":"",
+			"discount":"27000",
+			"publisher":"휴먼컬처아리랑",
+			"pubdate":"20141124",
+			"isbn":"9791155651261",
+			"description":"승강기의 기본원리에 대한 지식을 바탕으로 계획, 설계, 제작, 설치, 검사, 유지관리 등의 업무를 수행하는 일이다. 또는 이에 관한 지도 등의 기술적인 업무를 수행하는 직무로. 기계\/재료\/섬유·의복\/전기·전자\/ 정보통신 직종을 분석했다."
+		}
+	]
+}

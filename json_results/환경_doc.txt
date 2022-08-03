@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:40 +0900",
+	"total":1589895,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"대한<b>환경<\/b>공학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1773",
+			"description":""
+		},
+		{
+			"title":"한국대기<b>환경<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5720",
+			"description":""
+		},
+		{
+			"title":"한국물<b>환경<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127626",
+			"description":""
+		},
+		{
+			"title":"한국<b>환경<\/b>농학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6579",
+			"description":""
+		},
+		{
+			"title":"한국<b>환경<\/b>생태학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6588",
+			"description":""
+		},
+		{
+			"title":"자원<b>환경<\/b>지질",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4309",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>법연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6918",
+			"description":""
+		},
+		{
+			"title":"한국<b>환경<\/b>과학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6574",
+			"description":""
+		},
+		{
+			"title":"한국<b>환경<\/b>보건학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1056847",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>복원녹화",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6920",
+			"description":""
+		},
+		{
+			"title":"해양<b>환경<\/b>안전학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6743",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>교육",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6912",
+			"description":""
+		},
+		{
+			"title":"한국지리<b>환경<\/b>교육학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4952",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>생물학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=52112",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>영향평가",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6933",
+			"description":""
+		},
+		{
+			"title":"지하수토양<b>환경<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5050",
+			"description":""
+		},
+		{
+			"title":"한국생활<b>환경<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5922",
+			"description":""
+		},
+		{
+			"title":"자원·<b>환경<\/b>경제연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4299",
+			"description":""
+		},
+		{
+			"title":"주거<b>환경<\/b> : 한국주거<b>환경<\/b>학회논문집.",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4798",
+			"description":""
+		},
+		{
+			"title":"수질보전 한국물<b>환경<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1043097",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>정책",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6934",
+			"description":""
+		},
+		{
+			"title":"한국지반<b>환경<\/b>공학회논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6354",
+			"description":""
+		},
+		{
+			"title":"한국해양<b>환경<\/b>·에너지학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6536",
+			"description":""
+		},
+		{
+			"title":"청소년시설<b>환경<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5136",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>정책연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6937",
+			"description":""
+		},
+		{
+			"title":"한국인간식물<b>환경<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1563052",
+			"description":""
+		},
+		{
+			"title":"생태와 <b>환경<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2500900",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>독성보건학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1563047",
+			"description":""
+		},
+		{
+			"title":"생물<b>환경<\/b>조절 \/일본생물<b>환경<\/b>조절연구회편. (生物環境調節 \/日本生物環",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2509308",
+			"description":""
+		},
+		{
+			"title":"한국생물<b>환경<\/b>조절학회 논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2961",
+			"description":""
+		},
+		{
+			"title":"실내<b>환경<\/b> 및 냄새 학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1553369",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>철학",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6938",
+			"description":""
+		},
+		{
+			"title":"한국<b>환경<\/b>분석학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6587",
+			"description":""
+		},
+		{
+			"title":"한국실내<b>환경<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6015",
+			"description":""
+		},
+		{
+			"title":"실내<b>환경<\/b> 및 냄새 학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3302544",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>관리학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6910",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>위생공학",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1550715",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=54019",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>법과 정책",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6916",
+			"description":""
+		},
+		{
+			"title":"문학과<b>환경<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1553234",
+			"description":""
+		},
+		{
+			"title":"축산시설<b>환경<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5185",
+			"description":""
+		},
+		{
+			"title":"한국도시<b>환경<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5742",
+			"description":""
+		},
+		{
+			"title":"대기<b>환경<\/b>학회지 (大気環境学会誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3036954",
+			"description":""
+		},
+		{
+			"title":"골프연습장의 <b>환경<\/b>특성이 서비스품질, 고객만족 및 구매행동의도에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11136916",
+			"description":"  목차\n골프연습장의 <b>환경<\/b>특성이 서비스품질, 고객만족 및 구매행동의도에 미치는 영향 \/ 이용기 ; 신"
+		},
+		{
+			"title":"<b>환경<\/b>기술",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=64097",
+			"description":""
+		},
+		{
+			"title":"중국적녹색공업혁명：기우<b>환경<\/b>전요소생산율시각적해석（1980년-2008년）",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=658420225",
+			"description":""
+		},
+		{
+			"title":"청장고원<b>환경<\/b>변화과학평고—변거、현재여미래 (青藏高原环境变化科学",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=699302352",
+			"description":""
+		},
+		{
+			"title":"기부와 <b>환경<\/b>보호 : 기업의 사회공헌활동과 재무적 성과간의 관계에 관한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11064682",
+			"description":" &gt;본 연구는 기업의 기부행위 및 <b>환경<\/b>보호활동과 재무적 성과에 있어서 두 변수간의 양방향의 관계를 "
+		},
+		{
+			"title":"Flipped learning의 의의 및 교육<b>환경<\/b>에 관한 탐색적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=127678301",
+			"description":"An Exploratory Study on Educational Significance and Environment of Flipped Learning 최근 교육현장에서는 강의 중심의 획"
+		},
+		{
+			"title":"인간·<b>환경<\/b>·미래",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1555763",
+			"description":""
+		},
+		{
+			"title":"신일대Landsat계열위성：Landsat 8요감영상신증특정급기생태<b>환경<\/b>의의 (新一",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=742984595",
+			"description":""
+		},
+		{
+			"title":"보건<b>환경<\/b>연구원보",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1049348",
+			"description":""
+		},
+		{
+			"title":"호텔 양식당 서비스의 물리적 <b>환경<\/b>에 의해 지각된 서비스 품질이 고객만",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12871491",
+			"description":"Articles : The Effect of the Perceived Service Quality by Physical Environment of the Hotel Western Restaurant on Customer Satisfaction"
+		},
+		{
+			"title":"청소년의 우울성향과 가정<b>환경<\/b>의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10999455",
+			"description":"  I. 서론=5,3,1\n 1. 연구의 필요성 및 목적=5,3,4\n 2. 우울의 개념과 증후=8,6,3\n 3. 우울에 관한 심리학적 이"
+		},
+		{
+			"title":"감정노동자의 직무<b>환경<\/b>과 스트레스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78349615",
+			"description":" 인간 본연의 속성인 '감정'을 노동과정 속에서 교환가치로 추상화하여 상품으로 판매하는 특별한 유"
+		},
+		{
+			"title":"<b>환경<\/b>포럼",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=507211",
+			"description":""
+		},
+		{
+			"title":"가상<b>환경<\/b>에서 대(對)고객 및 고객간(間) 관계결속(Relationship Commitment)의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11244040",
+			"description":"A study on antecedents and consquents of relationship commitment toward internet sites and between customers in virtual environment  I."
+		},
+		{
+			"title":"노인이 인식하는 고령친화도시 조성정도가 노인의 심리사회적 노화인식",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=185833670",
+			"description":"The Influence of Age-friendly Community on The Self-perception of Aging among Korean Older Adults 본 연구는 고령자에게 편리"
+		},
+		{
+			"title":"첨단<b>환경<\/b>기술",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2513718",
+			"description":""
+		},
+		{
+			"title":"코시안(Kosian) 아동의 성장과 <b>환경<\/b>에 관한 사례 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562274531",
+			"description":"  요약=61,65,1\nI. 연구문제의 제기=62,66,2\nII. 선행 연구의 검토=64,68,4\nIII. 연구의 방법과 절차=67,71,4\nIV. 코"
+		},
+		{
+			"title":"근대서양 <b>환경<\/b>윤리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650677070",
+			"description":"Environmental ethics in modern era  목차\n근대서양 <b>환경<\/b>윤리 ＝ Environmental ethics in modern era \/ 원병관 1\n ABSTRACT 1\n "
+		},
+		{
+			"title":"<b>환경<\/b>변이원연구 (環境変異原研究)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3160280",
+			"description":""
+		},
+		{
+			"title":"강원 농업생명<b>환경<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1558706",
+			"description":""
+		},
+		{
+			"title":"유아교사의 개인적 요인, <b>환경<\/b>교육 인식, <b>환경<\/b>친화적 태도에 따른 <b>환경<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41602239",
+			"description":"A study on the relationships between early childhood teachers’ environmental education teaching efficacy beliefs and their training, "
+		},
+		{
+			"title":"다문화가정 자녀의 학교부적응에 미치는 <b>환경<\/b>요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41636057",
+			"description":"The Environmental Factors on the School Maladjustment of Children from Multicultural Families 본 연구는 다문화가정 자녀의 "
+		},
+		{
+			"title":"외식소비자의 물리적 <b>환경<\/b>지각이 서비스품질 평가에 미치는 영향 : 호텔",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12449282",
+			"description":"A Study on the Influence of Physical Environment Perception to the Evaluation of Service Quality -Focused on the Factors of Physical En"
+		},
+		{
+			"title":"세수경쟁、구역<b>환경<\/b>여자본과구류동——기우기업이지병구시각적실증연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=728128829",
+			"description":""
+		},
+		{
+			"title":"지반<b>환경<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4978",
+			"description":""
+		},
+		{
+			"title":"대학생소비자의 가치, <b>환경<\/b>지식 및 <b>환경<\/b>관여도가 <b>환경<\/b>의식적 행동에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16531043",
+			"description":"An Effect of Values, Environmental Knowledge, and Environmental Involvement on the Ecologically Concerned Behavior of College Students "
+		},
+		{
+			"title":"제도<b>환경<\/b>、종극공제권대공사적효적영향——기우대이성본적중개효응검",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=719335797",
+			"description":""
+		},
+		{
+			"title":"호박저이소준<b>환경<\/b>효응：I．내원인석방공제작용 (湖泊底泥疏浚环境效应",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=656216500",
+			"description":"   Sediment, Phosphorus, Laboratory experiment, Hydrology, Geomorphology, Environmental science, Dredging "
+		},
+		{
+			"title":"호텔기업의 <b>환경<\/b>불확실성, 학습지향성, 조직성과의 구조적 인과관계 탐",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12450869",
+			"description":"Research Articles : A Exploratory Study on Causal relations with Hotel`s Environmental Uncertainty, Learning Orientation and Organizati"
+		},
+		{
+			"title":"사회복지전담공무원 소진에 영향을 미치는 요인 - 개인적 특성, 직무환",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13703625",
+			"description":"Determinants for the Burn-out of Social Welfare Government officials: Personal Characteristics, Work Environment Characteristics and Pr"
+		},
+		{
+			"title":"자율주행 종방향 기능 안전을 위한 적응 슬라이딩 모드 관측기 기반 가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650606668",
+			"description":"Adaptive sliding mode observer based fault tolerant control of acceleration and environment sensor for functional safety of longitudina"
+		},
+		{
+			"title":"건축<b>환경<\/b>설비",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3317490",
+			"description":""
+		},
+		{
+			"title":"핸드레일조명을 활용한 보행<b>환경<\/b> 조도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650628241",
+			"description":"A study on the illumination of pedestrian environment using handrail lighting   보행<b>환경<\/b>, 핸드레일조명, 수직면조도, 연"
+		},
+		{
+			"title":"<b>환경<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6923",
+			"description":""
+		},
+		{
+			"title":"한국<b>환경<\/b>기술학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6577",
+			"description":""
+		},
+		{
+			"title":"청소년의 인터넷 중독과 가정 및 학교<b>환경<\/b>과의 관계에 관한 연구 : 서울",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9292546",
+			"description":"  국문목차\n표제지 = 0,1,3\n목차 = i,4,2\n표목차 = iii,6,1\n그림목차 = iv,7,1\nI. 서론 = 1,8,1\n 1. 문제제기 및 연구"
+		},
+		{
+			"title":"일개 종합병원 간호사의 조직몰입, 간호업무<b>환경<\/b>, 사회적 지지",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=129002802",
+			"description":"Nurses' Perception of Organizational Commitment, Nursing Work Environment, and Social Support in a General Hospital 연구목적: 본 "
+		},
+		{
+			"title":"국내 휴폐금속광산의 <b>환경<\/b>오염 평가 및 향후 관리 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562387832",
+			"description":"Evaluation and Management Method of Environmental Contamination from Abandoned Metal Mines in Korea 본 연구는 국내에 산재된 "
+		},
+		{
+			"title":"병원간호사의 간호실무<b>환경<\/b>, 업무-가족 갈등과 직무만족도와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78322383",
+			"description":" 연구목적: 본 연구는 병원간호사에게 보다 편안하고 건강한 업무<b>환경<\/b>을 제공하는 것의 중요성을 병"
+		},
+		{
+			"title":"설계화제비능량전환화<b>환경<\/b>정화적고효리질결광최화제 (设计和制备能量",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=109135313",
+			"description":"Design and fabrication of heterojunction photocatalysts for energy conversion and pollutant degradation 在过去的几十年中,光催"
+		},
+		{
+			"title":"레스토랑 물리적 <b>환경<\/b>과 메뉴품질이 고객만족 및 재방문 의도에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41681741",
+			"description":"The Effects of Physical Environment of Restaurant and Menu Quality on Customer Satisfaction and Revisit Intention The purpose of this s"
+		},
+		{
+			"title":"<b>환경<\/b>규제、R&amp;D 투입여기업녹색기술창신능력 (环境规制、R&amp;D 投入与企业",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=685109732",
+			"description":""
+		},
+		{
+			"title":"건강동기와 <b>환경<\/b>에 대한 관심이 유기농 식품 선택에 미치는 영향 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13258618",
+			"description":"A Study of the Effect of Health Motivation and Environmental Concern on Choosing Organic Food 본 연구는 유기농식품의 구매"
+		},
+		{
+			"title":"성예、제도<b>환경<\/b>여채무융자——기우중국민영상시공사적증거 (声誉、制",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=656128575",
+			"description":""
+		},
+		{
+			"title":"청소년 학교폭력행동과 <b>환경<\/b> 및 심리특성의 관계 ; 위탁청소년과 중 고",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11001439",
+			"description":"  목차\n청소년 학교폭력행동과 <b>환경<\/b> 및 심리특성의 관계 : 위탁청소년과 중 고등학생을 중심으로 \/ 朴"
+		},
+		{
+			"title":"<b>환경<\/b>동화책 읽어주기 활동이 초등학생의 <b>환경<\/b>소양에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650738023",
+			"description":"  표제지\n국문초록\n목차\nI. 서론 10\n 1. 연구의 필요성 및 목적 10\n 2. 연구 문제 13\n 3. 용어의 정의 13\n  가. "
+		},
+		{
+			"title":"항생소항성기인（ARGs）——일종신형<b>환경<\/b>오염물 (抗生素抗性基因（ARGs",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=682772153",
+			"description":"   Research proposal, Public health, Pollutant, National level, Livestock, Geography, Environmental protection, Environmental pollution"
+		},
+		{
+			"title":"오염손해、<b>환경<\/b>관리여경제가지속증장——기우오부문내생경제증장모형",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=750927063",
+			"description":""
+		},
+		{
+			"title":"재륜탑리목북연아극소감편암적시대화성인<b>환경<\/b>:내자고석U-Pb연영、Hf동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=696737182",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>공익소용“영수안율”지반사 (环境公益诉讼“零受案率”之反思)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=732126532",
+			"description":""
+		},
+		{
+			"title":"한국 전공의들의 근무<b>환경<\/b>, 건강, 인식된 환자안전: 2014 전공의 근무<b>환경<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=156142344",
+			"description":"Working Condition, Health and Perceived Patient Safety among Doctors in Training: 2014 Korean Interns &amp; Residents Survey 본 연구는 "
+		},
+		{
+			"title":"이해관계자와의 커뮤니케이션 <b>환경<\/b>에서 아이덴티티 방향성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650609999",
+			"description":"A study on the direction of identity in the communication environment with stakeholders  표제지\n국문 초록\n중심어 (Keywords)\n"
+		},
+		{
+			"title":"토목학회논문집G（<b>환경<\/b>） (土木学会論文集G（環境）)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3212670",
+			"description":""
+		},
+		{
+			"title":"<b>환경<\/b>경영시스템 인증획득이 기업의 재무성과에 미치는 영향에 대한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12422923",
+			"description":"A Study on the Effects of the Environmental Management System to the Corporate Financial Performance -Base on the ISO 14001 EMS- 본 "
+		},
+		{
+			"title":"Flipped learning의 의의 및 교육<b>환경<\/b>에 관한 탐색적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594767427",
+			"description":" 최근 교육현장에서는 강의 중심의 획일적인 수업방식에서 탈피하여 학생 개개인의 수준과 적성을 고"
+		},
+		{
+			"title":"창의적 가정 및 학교 <b>환경<\/b>에 대한 한·미 대학생의 암묵적 개념과 현실 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13658361",
+			"description":"The Implicit Concept of Creative Home and School Environment of Korean and American College Students and Real Environment 본 연구에"
+		},
+		{
+			"title":"<b>환경<\/b>경영연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2172885",
+			"description":""
+		}
+	]
+}

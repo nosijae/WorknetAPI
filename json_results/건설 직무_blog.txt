@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:02 +0900",
+	"total":130117,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[직터뷰] <b>건설<\/b>영업 <b>직무<\/b> 인터뷰: 효성중공업 <b>건설<\/b>PU 도시정비팀... ",
+			"link":"https:\/\/blog.hyosung.com\/5310",
+			"description":"<b>건설<\/b>영업 <b>직무<\/b>를 선택한 이유는? 솔직하게 말씀드리자면, 처음에는 건축 <b>직무<\/b>로 지원을 했지만, 어떻게 하다 보니 영업 <b>직무<\/b>로 발령을 받았어요. 제가 공부한 착공 이후의 <b>건설<\/b>공법이라든지 그런 것과는 완전... ",
+			"bloggername":"마이프렌드 효성 블로그",
+			"bloggerlink":"https:\/\/blog.hyosung.com\/",
+			"postdate":"20210914"
+		},
+		{
+			"title":"[호반<b>건설<\/b>] 2021 인사 <b>직무<\/b> 2차 임원 면접 후기",
+			"link":"https:\/\/blog.naver.com\/zzzzgag?Redirect=Log&logNo=222295746775",
+			"description":"- 그 이유에 대해서는 구체적으로 질문은 안하셨으나, 지원자들께서 먼저 그 이유를 들어 말씀했음 #호반<b>건설<\/b> #호반<b>건설<\/b>면접 #호반<b>건설<\/b>임원면접 #임원면접 #임원면접후기 #2차면접 #인사면접 #인사<b>직무<\/b>면접",
+			"bloggername":"오렌지스러움",
+			"bloggerlink":"https:\/\/blog.naver.com\/zzzzgag",
+			"postdate":"20210402"
+		},
+		{
+			"title":"[서울면접학원위드제니] GS<b>건설<\/b>회사 \/<b>직무<\/b>에서... ",
+			"link":"https:\/\/blog.naver.com\/didi0810?Redirect=Log&logNo=222772887350",
+			"description":"오늘은 한미글로벌 GS건설면접등 저와 함께 많은분들이 준비하셨던 <b>건설직무<\/b> \/ 회사 직무면접에 대해서 알아보도록 하겠습니다. 건설회사 면접에서 반드시 준비해야하는 직무면접 왜 힘든데 건설업을... ",
+			"bloggername":"취업교육전문 위드제니",
+			"bloggerlink":"https:\/\/blog.naver.com\/didi0810",
+			"postdate":"20220614"
+		},
+		{
+			"title":"<b>건설<\/b>근로자의 <b>직무<\/b>스트레스 예방을 위한 관리감독자용 지침",
+			"link":"https:\/\/blog.naver.com\/maproapro?Redirect=Log&logNo=222616135285",
+			"description":"목 적 KOSHA GUIDE H - 84 - 2012 이 지침은 산업안전보건법 제5조 “사업주의 의무”에 따라 <b>건설<\/b>근로자의 <b>직무<\/b>스트레스를 예방하고 관리하는 사항을 정함을 목적으로 한다. 2. 적용범위 KOSHA GUIDE H - 84 - 2012 이... ",
+			"bloggername":"마프로의 산업보건 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/maproapro",
+			"postdate":"20220108"
+		},
+		{
+			"title":"(CJ<b>건설<\/b>) 건축시공 신입-<b>직무<\/b>적성검사(CJAT)합격(22년 상반기... ",
+			"link":"https:\/\/blog.naver.com\/cwcheol0712?Redirect=Log&logNo=222809886029",
+			"description":"지난 CJ대한통운 <b>건설<\/b>부문(CJ<b>건설<\/b>)에 당당하게 서류를 합격하고 CJAT로 불리는 <b>직무<\/b>적성검사에 대한 포스팅을 시작하려고 한다. 참고로 주인장은 NCS, 어느 기업의 적성고사 등 준비해 본 적이 단 한 번도 없고... ",
+			"bloggername":"[WON] more time [CHEOL]",
+			"bloggerlink":"https:\/\/blog.naver.com\/cwcheol0712",
+			"postdate":"20220713"
+		},
+		{
+			"title":"2022 상반기 GS<b>건설<\/b> 문과<b>직무<\/b> 지원후기",
+			"link":"https:\/\/blog.naver.com\/karia95?Redirect=Log&logNo=222797344576",
+			"description":"이 <b>직무<\/b> 1차면접 인원이 6명정도였던걸로 추정한다 내가 GS<b>건설<\/b>에 감사하는 것은 단 하나 통계 복습하게 해 줘서 삼전 면접때 아는 부분까지는 당당하게 어필할 수 있게 해준 것... 면접비 3만원 그리고... ",
+			"bloggername":"빵세로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/karia95",
+			"postdate":"20220702"
+		},
+		{
+			"title":"[최종 합격후기 + 면접질문#38] GS<b>건설<\/b> 영업<b>직무<\/b> 최종 합격자... ",
+			"link":"https:\/\/blog.naver.com\/interviewbox?Redirect=Log&logNo=222744363000",
+			"description":"오늘은 인터뷰박스를 이용하시고 최종 합격까지 하신 분들 중에서 GS<b>건설<\/b> 영업<b>직무<\/b>에 합격하신 분의 이용후기를 한번 살펴보아요!!! 인터뷰박스를 실제 이용하신 후기 뿐만 아니라 인터뷰박스가 직접 모은... ",
+			"bloggername":"인터뷰박스",
+			"bloggerlink":"https:\/\/blog.naver.com\/interviewbox",
+			"postdate":"20220529"
+		},
+		{
+			"title":"<b>건설<\/b>기술인<b>직무<\/b>교육,안전관리자 <b>직무<\/b>교육, 공부를 열심히~",
+			"link":"https:\/\/blog.naver.com\/classic31?Redirect=Log&logNo=222817105742",
+			"description":"#공부를잘하자 #<b>건설<\/b>기술인<b>직무<\/b>교육 #안전관리자교육 올해는 뭐 열심히 공부하다가 시간이 다 가나 봅니다. 형틀목수 할때는 그냥 안전교육장에서 안전교육 받는게 다 였는데요... 제가 지금 안전관리자로... ",
+			"bloggername":"형틀목수 낙서",
+			"bloggerlink":"https:\/\/blog.naver.com\/classic31",
+			"postdate":"20220718"
+		},
+		{
+			"title":"채용…건축,토목,품질관리 등 16개 <b>직무<\/b>분야 <b>건설<\/b>워커 모집",
+			"link":"https:\/\/blog.naver.com\/autoarc?Redirect=Log&logNo=222463196503",
+			"description":"서희스타힐스 서희<b>건설<\/b>, 신입·경력사원 채용…건축,토목,품질관리 등 16개 <b>직무<\/b>분야 모집 [<b>건설<\/b>워커 채용속보 2021-08-09] 서희스타힐스 브랜드의 중견 <b>건설<\/b>사 서희<b>건설<\/b>이 그룹공채 형태로 신입 및 경력사원을... ",
+			"bloggername":"건설워커 잡톡",
+			"bloggerlink":"https:\/\/blog.naver.com\/autoarc",
+			"postdate":"20210809"
+		},
+		{
+			"title":"전문<b>건설<\/b>협회장 이어 수석부회장도 ‘<b>직무<\/b>정지’",
+			"link":"https:\/\/blog.naver.com\/agatos?Redirect=Log&logNo=222799572826",
+			"description":"등이 <b>직무<\/b>를 수행할 경우 최종 본안 판결에서 선거가 무효로 확정되면 수석부회장 등이 한 행위 역시 모두 무효가 된다”고 덧붙였다. 전문<b>건설<\/b>업계에서는 부정선거 의혹과 관련, 현재 관련 본안 소송이 진행... ",
+			"bloggername":"건설기술신문",
+			"bloggerlink":"https:\/\/blog.naver.com\/agatos",
+			"postdate":"20220704"
+		},
+		{
+			"title":"현대<b>건설<\/b> 안전<b>직무<\/b>교육 안전관리자 대상 2022년 소통리더십과... ",
+			"link":"https:\/\/blog.naver.com\/hifeels?Redirect=Log&logNo=222692230337",
+			"description":"현대<b>건설<\/b> 안전관리자를 대상 2022년 안전<b>직무<\/b> 교육에 김필수 대표님께서 '소통리더십과 커뮤니케이션'이라는 주제로 2시간 동안 명강의를 해주셨답니다. 여러분들께 강의 앞부분을 공유드릴게요... ",
+			"bloggername":"김필수의 인생리셋",
+			"bloggerlink":"https:\/\/blog.naver.com\/hifeels",
+			"postdate":"20220405"
+		},
+		{
+			"title":"#<b>직무<\/b>교육 #글로벌<b>건설<\/b>프리젠테이션 #공부 #03 #220216",
+			"link":"https:\/\/blog.naver.com\/cico20?Redirect=Log&logNo=222649391829",
+			"description":"#<b>직무<\/b>교육 #글로벌<b>건설<\/b>프리젠테이션 #공부 #03 #220216 글로벌 <b>건설<\/b> 프리젠테이션 스킬 향상 과정 220216 어떻게 PT 를 시작할 것인가? 나의 이야기\/경험을 보여주자! 해건협은 본사와... ",
+			"bloggername":"Dream Big!",
+			"bloggerlink":"https:\/\/blog.naver.com\/cico20",
+			"postdate":"20220216"
+		},
+		{
+			"title":"<b>건설<\/b>안전기사 필기시험지문제 시험일정 하는 일 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/hsid150?Redirect=Log&logNo=222669839241",
+			"description":"<b>건설<\/b>안전기사 하는일, <b>직무<\/b> <b>건설<\/b>재해예방 계획과 수립, 작업환경의 점검 및 개선 등 안전에 관한 기술적인 사항을 관리하여 <b>건설<\/b>물이나 설비 작업의 위험에 따른 응급조치와 안전장치 등의 보호구의... ",
+			"bloggername":"우주 운빨.blog",
+			"bloggerlink":"https:\/\/blog.naver.com\/hsid150",
+			"postdate":"20220311"
+		},
+		{
+			"title":"2021 상) 대우<b>건설<\/b>(건축<b>직무<\/b>)_필기\/인적성",
+			"link":"https:\/\/blog.naver.com\/higher16?Redirect=Log&logNo=222353896484",
+			"description":"<b>건설 직무<\/b> 타입 문제와 비슷한지는 모르겠지만 개인적으로는 그냥 추리, 자료해석 문제들이 섞여있는 파트로 느껴졌습니다! 약간 건설 관련된 문제 있긴한데, 큰 비중은 아니었던 걸로 기억합니다. 건축직무... ",
+			"bloggername":"풋내나는 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/higher16",
+			"postdate":"20210517"
+		},
+		{
+			"title":"[호반<b>건설<\/b>] 2021 인사 <b>직무<\/b> 1차 실무 면접 후기",
+			"link":"https:\/\/blog.naver.com\/zzzzgag?Redirect=Log&logNo=222295466539",
+			"description":"호반<b>건설<\/b>의 인사 <b>직무<\/b>를 준비할테고, 조금이라도 회사와 본인의 합과 어떤 점을 준비하면 좋을지 파악하는 데에 도움이 되었으면 하는 마음에 적어본다 1. 일차 면접은 다대다 (내 경우 지원자4:면접관4) 2.... ",
+			"bloggername":"오렌지스러움",
+			"bloggerlink":"https:\/\/blog.naver.com\/zzzzgag",
+			"postdate":"20210401"
+		},
+		{
+			"title":"<b>건설 직무<\/b>\/건설노무관리 &quot;김반장 프로그램&quot; 교육 진행",
+			"link":"https:\/\/blog.naver.com\/ossem_edu?Redirect=Log&logNo=222299240985",
+			"description":"먼저 김반장 프리미엄 회원사 담당자의 <b>직무<\/b> 역량 강화를 위해 실시하는 <b>직무<\/b>교육에 대해 안내드립니다. 4월에는 <b>건설<\/b>업과 노동사건을 주제로 진행합니다만 <b>직무<\/b>교육은 매월 주제가 달라질 수 있습니다.... ",
+			"bloggername":"한국기업진흥원 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ossem_edu",
+			"postdate":"20210405"
+		},
+		{
+			"title":"[사기업 조져보자] 롯데<b>건설<\/b> 플랜트건축 신입-<b>직무<\/b>적성검사... ",
+			"link":"https:\/\/blog.naver.com\/cwcheol0712?Redirect=Log&logNo=222826900834",
+			"description":"지난 롯데<b>건설<\/b> 서류 합격 포스팅에 이어서 작년에 정말 많이 개편되고, 말이 많은 <b>직무<\/b>적성검사(L-TAB)에 대해 다루어 보려고 한다. 이번에는 사실 합격하고 싶은 마음이 간절하여서 처음으로 L-TAB을... ",
+			"bloggername":"[WON] more time [CHEOL]",
+			"bloggerlink":"https:\/\/blog.naver.com\/cwcheol0712",
+			"postdate":"20220724"
+		},
+		{
+			"title":"<b>건설<\/b>업 안전관리자의 <b>직무<\/b> [<b>건설<\/b>기술인협회 기본교육]",
+			"link":"https:\/\/blog.naver.com\/jshj1427?Redirect=Log&logNo=222530716768",
+			"description":"그래도 없는 것 보단 느낌이 나는 교육 수료증임. 말 그대로 이 포스팅은 기본교육에 대해 말해준 포스팅. #<b>건설<\/b>업안전관리자 #<b>건설<\/b>업안전관리자의<b>직무<\/b> #<b>건설<\/b>기술인협회기본교육 #<b>건설<\/b>기술교육원기본교육",
+			"bloggername":"고독하지만 괜찮아",
+			"bloggerlink":"https:\/\/blog.naver.com\/jshj1427",
+			"postdate":"20211008"
+		},
+		{
+			"title":"GS<b>건설<\/b> <b>건설<\/b>시공 <b>직무<\/b> 취업컨설팅 사례, 성남고용센터... ",
+			"link":"https:\/\/blog.naver.com\/imkey111?Redirect=Log&logNo=222163797370",
+			"description":"지원한 GS<b>건설<\/b>은 자소서에서 의도한 요구하는 역량은 <b>건설<\/b>시공 <b>직무<\/b>전문성, 협업 및 갈등해결 능력, 창의성 및 문제해결능력 회사 행동규범 적합성으로 역량 중심 자소서에 대한 클리닉 방향은 1) 본인이... ",
+			"bloggername":"행복한 &apos;커리어&apos;는 행복한 &apos;삶&apos;을 만듭니다.",
+			"bloggerlink":"https:\/\/blog.naver.com\/imkey111",
+			"postdate":"20201205"
+		},
+		{
+			"title":"[취준후기 - GS<b>건설<\/b>] 주택영업 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/jung_ming?Redirect=Log&logNo=222737086371",
+			"description":"https:\/\/blog.naver.com\/jung_ming\/222644116372 2021년 10월에 지원한 GS<b>건설<\/b> 신입공채! 지원<b>직무<\/b>는 주택영업! 1. GS<b>건설<\/b> 서류 합격 1. 지원분야의 역량을 키우기 위해 노력했던 경험에 대해 기술하십시오. (1600 byte)... ",
+			"bloggername":"유럽인절미 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/jung_ming",
+			"postdate":"20220518"
+		},
+		{
+			"title":"금호<b>건설<\/b>X잡플렉스 | 온라인 <b>직무<\/b>설명회 티저 공개",
+			"link":"https:\/\/blog.naver.com\/yeseuldp?Redirect=Log&logNo=222345670398",
+			"description":"대한민국 <b>건설<\/b>의 중심, #금호<b>건설<\/b> '금호<b>건설<\/b> 온라인 <b>직무<\/b>설명회' 티저 영상 공개 ! 금호<b>건설<\/b> 인사담당자와 선배직원들이, 직접 알려드리는 꿀팁으로 합격 FLEX 하세요~ [온라인 <b>직무<\/b>설명회 티저 영상]... ",
+			"bloggername":"출근만큼여행 - yeseul time",
+			"bloggerlink":"https:\/\/blog.naver.com\/yeseuldp",
+			"postdate":"20210510"
+		},
+		{
+			"title":"<b>건설<\/b> 채용, 2021년 수처리·OSC(모듈러) 분야 전문인력…<b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/autoarc?Redirect=Log&logNo=222224037588",
+			"description":"현대<b>건설<\/b> 취업② 현건 <b>직무<\/b> 파헤치기☞ 공사관리\/공무\/영업·견적\/설계\/품질\/공정관리\/안전·보건\/시운전\/연구개발 ■ 현대<b>건설<\/b> 취업③ 현건 <b>직무<\/b> 파헤치기☞ 기획\/개발‧마케팅\/구매‧외주\/사업지원... ",
+			"bloggername":"건설워커 잡톡",
+			"bloggerlink":"https:\/\/blog.naver.com\/autoarc",
+			"postdate":"20210129"
+		},
+		{
+			"title":"대한전문<b>건설<\/b>협회장 <b>직무<\/b> 정지",
+			"link":"https:\/\/blog.naver.com\/agatos?Redirect=Log&logNo=222654581748",
+			"description":"법원은 최근, 선거에서 당선된 윤학수 전문<b>건설<\/b>협회장의 <b>직무<\/b>집행을 잠정 정지시켰다. 회장 선거 당시 서울 출신 윤학수 후보와 전북 출신 김태경 후보가 맞붙어 88표 대 73표로 윤 후보가 당선됐다. 문제... ",
+			"bloggername":"건설기술신문",
+			"bloggerlink":"https:\/\/blog.naver.com\/agatos",
+			"postdate":"20220222"
+		},
+		{
+			"title":"K채널 \/ 광주시, <b>건설<\/b>기술인 <b>직무<\/b>교육 세미나 개최",
+			"link":"https:\/\/blog.naver.com\/komo5659?Redirect=Log&logNo=222784071114",
+			"description":"상반기 <b>건설<\/b>기술인 <b>직무<\/b>교육 세미나’를 개최한다. 이번 <b>직무<\/b>교육은 <b>건설<\/b>현장에서의 안전사고 예방과 <b>건설<\/b> 기술인 안전의식 제고를 위해 광주시와 한국<b>건설<\/b>기술인협회 공동주최로 마련됐으며, 실무형... ",
+			"bloggername":"K채널",
+			"bloggerlink":"https:\/\/blog.naver.com\/komo5659",
+			"postdate":"20220622"
+		},
+		{
+			"title":"대구인력사무소 <b>건설<\/b>인력 종류 및 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/ted00001?Redirect=Log&logNo=222792307477",
+			"description":"<b>건설<\/b>인력 종류와 <b>직무<\/b> 일반공(잡부) 9100 기능을 요구하지 않는 잡역에 종사하면서 비교적 단순한 육체노동을 하는경우 용접공 7430 반 철재,일반기기 또는 일반배관 등으 결합·분리를 위하여 나누어진... ",
+			"bloggername":"다정인력",
+			"bloggerlink":"https:\/\/blog.naver.com\/ted00001",
+			"postdate":"20220628"
+		},
+		{
+			"title":"금호<b>건설<\/b>: 온라인 <b>직무<\/b>종합적성검사 후기",
+			"link":"https:\/\/blog.naver.com\/dayxxng?Redirect=Log&logNo=222054271146",
+			"description":"금호<b>건설 직무<\/b>종합적성검사(온라인) 후기 금호건설 인적성은 원래 오프라인으로 봤었는데, 온라인으로 본다길래 화상캠으로 감독을 하거나 할 줄 알았다. 근데 그런게 없어서 인성만 보나..? 했지만 접속해서... ",
+			"bloggername":"a piece of young",
+			"bloggerlink":"https:\/\/blog.naver.com\/dayxxng",
+			"postdate":"20200807"
+		},
+		{
+			"title":"[플랜트교육][<b>건설직무<\/b>]현장 시공, 품질, 안전 실무부터 건설사... ",
+			"link":"https:\/\/blog.naver.com\/pjw4556?Redirect=Log&logNo=222289302242",
+			"description":"미래 <b>건설<\/b>을 어떻게 진행될지에대해 알 수 있는 뜻 깊은 시간이였습니다. 제 과제 사진 입니다 제가 실제로 <b>직무<\/b>부트캠프에서 수행했던 과제 입니다. 이런 과제로 실무에서 이렇게 진행되는구나 알 수 있었고... ",
+			"bloggername":"pjw4556님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/pjw4556",
+			"postdate":"20210327"
+		},
+		{
+			"title":"[대우<b>건설<\/b>] <b>직무<\/b>개발과정 2차수_기업 교육",
+			"link":"https:\/\/blog.naver.com\/educom0830?Redirect=Log&logNo=222447071267",
+			"description":"대우건설 기술연구원에서 직무개발과정 교육 총 2차수를 진행하였습니다. 3 먼저 도전정신 마인드셋에... 02-6433-4839 \/ 4841 과정명 : 대우<b>건설 직무<\/b>개발과정 2차수 일자 : 2021년 3월 15일(월) ~ 22일(월) 장소... ",
+			"bloggername":"에듀콤교육연구소님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/educom0830",
+			"postdate":"20210727"
+		},
+		{
+			"title":"<b>건설<\/b>기술인, CMS 안전관리 전문과정 [계속, <b>직무<\/b>·등급무관]",
+			"link":"https:\/\/blog.naver.com\/honamct01?Redirect=Log&logNo=222466787758",
+			"description":"교육대상 계속\/모든 등급\/모든 <b>직무<\/b>\/<b>건설<\/b>사업관리 <b>건설<\/b>기술인 이수절차 교육문의 Address 광주광역시 동구 무등로 339 Tel. 062-529-3800 Fax. 062-529-3801 E-mail. *********@*****.*** 자세한 사항은 한국능력개발원... ",
+			"bloggername":"국토교통부 건설기술인 법정 교육기관",
+			"bloggerlink":"https:\/\/blog.naver.com\/honamct01",
+			"postdate":"20210812"
+		},
+		{
+			"title":"[끄적] 법정<b>직무<\/b>교육 - <b>건설<\/b>기술인 기본 및 최초교육에 대해",
+			"link":"https:\/\/blog.naver.com\/snfnr153?Redirect=Log&logNo=222619294300",
+			"description":"2021년말에는 <b>건설<\/b>기술인협회에 기술자를 등재해둔 몇몇 많은 업체들은 <b>건설<\/b>기술 진흥법에... 법정<b>직무<\/b>교육 이수비용이 참 비싼것 같아요. ^_^ 당장 영향을 받는 기술자들에게 이런 법이 만들어지고 있다... ",
+			"bloggername":"그렁그렁",
+			"bloggerlink":"https:\/\/blog.naver.com\/snfnr153",
+			"postdate":"20220112"
+		},
+		{
+			"title":"<b>건설<\/b>업 안전관리자의 <b>직무<\/b> [<b>건설<\/b>기술인협회 최초교육]",
+			"link":"https:\/\/blog.naver.com\/jshj1427?Redirect=Log&logNo=222534604980",
+			"description":"<b>건설<\/b>기술인협회 최초교육 기본교육과 같이 이번년도 필수 이수임 무조건 받기를 추천. #<b>건설<\/b>업안전관리자 #<b>건설<\/b>업안전관리자의<b>직무<\/b> #<b>건설<\/b>기술인협회최초교육 #<b>건설<\/b>기술교육원최초교육",
+			"bloggername":"고독하지만 괜찮아",
+			"bloggerlink":"https:\/\/blog.naver.com\/jshj1427",
+			"postdate":"20211012"
+		},
+		{
+			"title":"2020 GS<b>건설<\/b> 자기소개서 \/ 토목시공 건축시공 <b>직무<\/b> 역량... ",
+			"link":"https:\/\/blog.naver.com\/iloveyou0057?Redirect=Log&logNo=222161678862",
+			"description":"<b>직무<\/b>역량 정말 많이 드러본 단어 이실텐데요 많은 기업이 그렇듯 역시 GS<b>건설<\/b>도 '<b>직무<\/b>역량' 굉장히 중요하게 생각하고 있습니다. 2. 개인의 성공을 위해 열정적으로 매사에 임하는 사람도 공동의 목표로... ",
+			"bloggername":"윤스피치 한판면접",
+			"bloggerlink":"https:\/\/blog.naver.com\/iloveyou0057",
+			"postdate":"20201203"
+		},
+		{
+			"title":"영업마케팅 <b>직무<\/b>(<b>건설<\/b>)",
+			"link":"https:\/\/blog.naver.com\/chiu2003?Redirect=Log&logNo=222171343845",
+			"description":"삼성물산 리조트 부문 <b>직무<\/b> 삼성물산 <b>건설<\/b> 부문 영업마케팅 <b>직무<\/b>에 대한 설명을 분석해 보면 영업과 마케팅의 관계는 상호보완적인 관계로 볼 수 있습니다. 물론 마케팅은 전략을 수립하는 기획 업무와 세부적인... ",
+			"bloggername":"길버트의 놀이터",
+			"bloggerlink":"https:\/\/blog.naver.com\/chiu2003",
+			"postdate":"20201212"
+		},
+		{
+			"title":"신세계<b>건설<\/b> 취업 ② <b>직무<\/b>소개 인사 재무 외주 영업 견적 시공... ",
+			"link":"https:\/\/blog.naver.com\/autoarc?Redirect=Log&logNo=222212407739",
+			"description":"원문 바로가기 신세계<b>건설<\/b> &lt; 회사별 소개 &lt; 신세계채용 (shinsegae.com) 영업 <b>직무<\/b>내용 <b>건설<\/b>회사는 기본적으로 지속적인 수주가 이행되어야 존재가 가능합니다. 수주방식에 따라 <b>직무<\/b>내용이 상이할 수 있으나... ",
+			"bloggername":"건설워커 잡톡",
+			"bloggerlink":"https:\/\/blog.naver.com\/autoarc",
+			"postdate":"20210119"
+		},
+		{
+			"title":"중장년 여성 <b>건설<\/b>사무 <b>직무<\/b> 구직서류 작성법, 화성새일센터",
+			"link":"https:\/\/blog.naver.com\/imkey111?Redirect=Log&logNo=222379286349",
+			"description":"<b>건설<\/b>사무<b>직무<\/b> 목표로 하는 중장년 경력단절여성분들을 대상으로 한 취업역량교육 3일차 합격하는 이력서, 자소서 작성방법에 대한 강의를 진행하였습니다. <b>건설<\/b> 사무<b>직무<\/b>에서 요구하는 역량과 내가 가지고 있는... ",
+			"bloggername":"행복한 &apos;커리어&apos;는 행복한 &apos;삶&apos;을 만듭니다.",
+			"bloggerlink":"https:\/\/blog.naver.com\/imkey111",
+			"postdate":"20210601"
+		},
+		{
+			"title":"[JOB]롯데<b>건설<\/b>, 메타버스... 개최                          <b>직무<\/b> 및... ",
+			"link":"https:\/\/blog.naver.com\/newsnanumy?Redirect=Log&logNo=222484632550",
+			"description":"실제 건설현장 재현한 홍보영상 ZONE[사진=롯데<b>건설<\/b>] <b>직무<\/b> 상담 ZONE에서는 채용을 진행하는 7개 직무의 실무자들과 채용담당자가 해당 직무에 대한 소개와 상담을 진행했다. 설명회 ZONE에서는 롯데건설의... ",
+			"bloggername":"나눔경제뉴스 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/newsnanumy",
+			"postdate":"20210826"
+		},
+		{
+			"title":"광주시, <b>건설<\/b>기술인 <b>직무<\/b>능력 향상 교육 실시",
+			"link":"https:\/\/blog.naver.com\/news21pks?Redirect=Log&logNo=222408747135",
+			"description":"광주시, <b>건설<\/b>기술인 <b>직무<\/b>능력 향상 교육 실시 - 25일, 기술직 공무원·공사공단 임직원 등 대상 #광주광역시는 25일 시청 대회의실에서 시와 5개 구 #기술직 #공무원, #공사 #공단 #임직원, #현장대리인 등을... ",
+			"bloggername":"박경신의원(광산구의회 산업도시위원장)",
+			"bloggerlink":"https:\/\/blog.naver.com\/news21pks",
+			"postdate":"20210624"
+		},
+		{
+			"title":"<b>건설<\/b>기술진흥법 및... 비교① - 안전보건관리 조직 및 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/kalis_pr?Redirect=Log&logNo=222653393966",
+			"description":"#국토안전관리원 #<b>건설<\/b>기술진흥법 #산업안전보건법 #안전보건관리 #조직_및_<b>직무<\/b> <b>건설<\/b>기술진흥법과 산업안전보건법의 목적, 조직 구성이 어떻게 다른지 비교를 통해 알아보도록 합시다. 더불어 안전보건관리... ",
+			"bloggername":"안전한 나라의 칼리스(KALIS)",
+			"bloggerlink":"https:\/\/blog.naver.com\/kalis_pr",
+			"postdate":"20220221"
+		},
+		{
+			"title":"현대<b>건설<\/b> 채용 자기소개서 분석, 현장실습생 수행<b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/eudcation_ym?Redirect=Log&logNo=222374444181",
+			"description":"현대 <b>건설<\/b> 홈페이지의 <b>직무<\/b> 소개에는 먼저 입사한 선배들의 <b>직무<\/b> 소개 및 필요 역량이 제시되어 있으니 참고하셔서 작성하시기 바랍니다. 또한 해당 업무를 수행하기 위한 역량을 어떻게 기를 것인지 계획 및... ",
+			"bloggername":"SKY출신 현직 인사담당자가 첨삭하는 | 자비스자소서",
+			"bloggerlink":"https:\/\/blog.naver.com\/eudcation_ym",
+			"postdate":"20210530"
+		},
+		{
+			"title":"<b>건설<\/b>기술인의 <b>직무<\/b>분야 및 전문분야 종류",
+			"link":"https:\/\/blog.naver.com\/chs_ddub?Redirect=Log&logNo=222719581771",
+			"description":"오늘은 <b>건설<\/b>기술인의 <b>직무<\/b>분야 및 전문분야의 종류에 관해 간략하게 이미지로 정리하여 공유하려 합니다! 추가적으로 궁금하신 사항은 다해<b>건설<\/b>정보에 편하신 방법으로 연락주시면 최선을 다해... ",
+			"bloggername":"오늘도 즐거운 다해",
+			"bloggerlink":"https:\/\/blog.naver.com\/chs_ddub",
+			"postdate":"20220503"
+		},
+		{
+			"title":"[대우<b>건설<\/b>] <b>직무<\/b>개발과정 2차수",
+			"link":"https:\/\/blog.naver.com\/educom0830?Redirect=Log&logNo=222284589313",
+			"description":"에듀콤 교육연구소입니다.^^ 오늘은 대우<b>건설<\/b> 기술연구원에서 진행한 2021년 <b>직무<\/b>개발과정 교육을 소개해드릴게요. 새로운 <b>직무<\/b>와 부서에 적응해야 하는 조직원에게 필요한 역량과 마인드는 무엇일까요?... ",
+			"bloggername":"에듀콤교육연구소님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/educom0830",
+			"postdate":"20210323"
+		},
+		{
+			"title":"<b>건설<\/b>기술인 <b>직무<\/b>분야별 승급 가능 여부",
+			"link":"https:\/\/blog.naver.com\/honamct01?Redirect=Log&logNo=222619587029",
+			"description":"실제 <b>건설<\/b>공사업무를 수행한 <b>직무<\/b>분야의 역량지수가 35 점 이상인 경우 초급으로 인정하며 승급은 허용하기 않는다. <b>건설<\/b>기술관련 학과 범위 <b>직무<\/b>분야 학과 기계 기계관련학과, 계측관련학과, 냉동관련학과... ",
+			"bloggername":"국토교통부 건설기술인 법정 교육기관",
+			"bloggerlink":"https:\/\/blog.naver.com\/honamct01",
+			"postdate":"20220112"
+		},
+		{
+			"title":"경력수첩관련 <b>건설 직무<\/b>분야 전문분야 등급, 관련자격종목... ",
+			"link":"https:\/\/blog.naver.com\/cofla9325?Redirect=Log&logNo=222276019416",
+			"description":"<b>건설<\/b>기술자의 <b>직무<\/b>분야 전문분야 <b>직무<\/b>분야 전문분야 가. 기계 01. 공조냉동 및 설비 02. <b>건설<\/b>기계 03. 용접 04. 승강기 05. 일반기계 나. 전기ㆍ전자 01. 철도신호 02. 건축전기설비 03. 산업계측제어 다. 토목 01.... ",
+			"bloggername":"세기건설컨설팅M&A",
+			"bloggerlink":"https:\/\/blog.naver.com\/cofla9325",
+			"postdate":"20210315"
+		},
+		{
+			"title":"현대<b>건설<\/b> 관리감독자 안전<b>직무<\/b>교육!",
+			"link":"https:\/\/blog.naver.com\/sirrius?Redirect=Log&logNo=222772524676",
+			"description":"오늘부터 시작된 12월까지의 일정. 현대<b>건설<\/b> 관리감독자 안전<b>직무<\/b>교육! 다음 타임인 김성재 교수님이 문을 빼꼼 열고 찍어주셨네요. 예전에 NCS교육 받으러 왔던 곳인데 이번엔 강단에 서니 감회가 새롭습니다.",
+			"bloggername":"김성남교수",
+			"bloggerlink":"https:\/\/blog.naver.com\/sirrius",
+			"postdate":"20220614"
+		},
+		{
+			"title":"윤학수 대한전문<b>건설<\/b>협회 회장 <b>직무<\/b> 정지",
+			"link":"https:\/\/blog.naver.com\/gs2gangsan?Redirect=Log&logNo=222656407916",
+			"description":"http:\/\/www.cennews.co.kr\/news\/articleView.html?idxno=15632 #윤학수 #대한전문<b>건설<\/b>협회 회장 <b>직무<\/b>가 잠정 정지됐다. 서울고등법원은 지난 2월 18일 지난해 9월 치러진 제12대 대한전문<b>건설<\/b>협회 #중앙회장 선거에서... ",
+			"bloggername":"(주)강산21 M&A",
+			"bloggerlink":"https:\/\/blog.naver.com\/gs2gangsan",
+			"postdate":"20220224"
+		},
+		{
+			"title":"코오롱글로벌 <b>건설<\/b>부문 채용 <b>직무<\/b>는? 건축설계·구조·토목... ",
+			"link":"https:\/\/blog.naver.com\/autoarc?Redirect=Log&logNo=222259603246",
+			"description":"건축사·기술사 등 <b>직무<\/b>관련 자격증 소지자와 종합<b>건설<\/b>사 근무 경력자(본사·현장)는 우대한다. 전형절차는 서류접수, 서류발표, 면접전형, 채용검진, 최종결과발표, 입사 순이다. 입사희망자는 3월... ",
+			"bloggername":"건설워커 잡톡",
+			"bloggerlink":"https:\/\/blog.naver.com\/autoarc",
+			"postdate":"20210228"
+		},
+		{
+			"title":"[대우<b>건설<\/b>] <b>직무<\/b>개발과정 마인드셋 도전정신_2021년 3월 22일",
+			"link":"https:\/\/blog.naver.com\/prcap?Redirect=Log&logNo=222446075849",
+			"description":"과정명 : 대우<b>건설 직무<\/b>개발과정_마인드셋 (도전정신) 일자 : 2021년 3월 22일 (월) 장소 : 대우건설 기술연구원 강사 : 신용준",
+			"bloggername":"세상을 변화시키는 긍정적 영향력",
+			"bloggerlink":"https:\/\/blog.naver.com\/prcap",
+			"postdate":"20210726"
+		},
+		{
+			"title":"대대홍 18기 소통간담회! 대우<b>건설 직무<\/b> 인터뷰가 궁금하다면?",
+			"link":"https:\/\/blog.naver.com\/ysjin1214?Redirect=Log&logNo=222503306545",
+			"description":"1) 진행 안내 및 아이스브레이킹 2) 대대홍 활동 Q&amp;A 및 건의 사항 개진 3) 대우<b>건설 직무<\/b> 인터뷰 이... 소통간담회를 통해 실제 대우건설의 직무 인터뷰까지 진행할 수 있는 대외활동이라니.. 계속해서 다시... ",
+			"bloggername":"DALBORA",
+			"bloggerlink":"https:\/\/blog.naver.com\/ysjin1214",
+			"postdate":"20210912"
+		},
+		{
+			"title":"금호<b>건설<\/b>X잡플렉스 | 온라인 <b>직무<\/b>설명회",
+			"link":"https:\/\/blog.naver.com\/yeseuldp?Redirect=Log&logNo=222363123267",
+			"description":"오늘은 2021 금호<b>건설<\/b> 온라인 <b>직무<\/b>설명회 소식입니다. 금호<b>건설<\/b>X잡플렉스의 실시간 온택트 <b>직무<\/b>설명회가 진행됐는데요. 클립영상 공유하려고 합니다~~~ ⬆️ ‘금호<b>건설<\/b> | 온라인 <b>직무<\/b>설명회 티저’... ",
+			"bloggername":"출근만큼여행 - yeseul time",
+			"bloggerlink":"https:\/\/blog.naver.com\/yeseuldp",
+			"postdate":"20210523"
+		},
+		{
+			"title":"호반<b>건설<\/b> [<b>건설<\/b>계열] 안전<b>직무<\/b> 경력사원 채용공고",
+			"link":"https:\/\/blog.naver.com\/career-n?Redirect=Log&logNo=222785016504",
+			"description":"호반<b>건설<\/b> [<b>건설<\/b>계열] 안전<b>직무<\/b> 경력사원 채용공고 https:\/\/ihoban.recruiter.co.kr\/app\/jobnotice\/view?systemKindCode=MRS2&amp;jobnoticeSn=103722",
+			"bloggername":"환경안전보건 전문 취업컨설팅, 커리어앤",
+			"bloggerlink":"https:\/\/blog.naver.com\/career-n",
+			"postdate":"20220623"
+		},
+		{
+			"title":"이테크<b>건설<\/b> 건축 시공 <b>직무<\/b>, 취업 자기소개서 첨삭",
+			"link":"https:\/\/blog.naver.com\/rhdygksl?Redirect=Log&logNo=222241237292",
+			"description":"★★★ 이테크<b>건설<\/b>의 입사 지원 #이테크<b>건설<\/b>자기소개서 #이테크<b>건설<\/b>자소서 #<b>직무<\/b>수행계획서 #첨삭 #대행 #대필 #이력서 #경력기술서 #이테크<b>건설<\/b>자기소개서첨삭 #이테크<b>건설<\/b>자소서첨삭 #생산직자소서... ",
+			"bloggername":"자소서스카이",
+			"bloggerlink":"https:\/\/blog.naver.com\/rhdygksl",
+			"postdate":"20210212"
+		},
+		{
+			"title":"[취준일기] 첫 화공 공정설계(<b>직무<\/b>)지원, SGC이테크<b>건설<\/b>",
+			"link":"https:\/\/blog.naver.com\/rb0326?Redirect=Log&logNo=222670945665",
+			"description":"이에 수료를 앞두고 올라왔던 SGC이테크 <b>건설<\/b>의 공정(설계) <b>직무<\/b> 걱정반 기대반으로 처음으로 공정설계 <b>직무<\/b>를 지원했다..! 그렇게 취준 일기 [12] 에서 작성했던 것 처럼.. 발표 문자가 거의 동시에 와서 메일을... ",
+			"bloggername":"Different",
+			"bloggerlink":"https:\/\/blog.naver.com\/rb0326",
+			"postdate":"20220312"
+		},
+		{
+			"title":"<b>건설<\/b>사업관리 CMS 안전관리 전문과정 [계속,<b>직무<\/b>·등급무관] 개강",
+			"link":"https:\/\/blog.naver.com\/honamct01?Redirect=Log&logNo=222529486066",
+			"description":"◆ 교육대상 계속\/모든 등급\/모든 <b>직무<\/b>\/<b>건설<\/b>사업관리 <b>건설<\/b>기술인 ◆ 수료기준 평가기준 진도율 최종평가 과제 총점 반영비율 20% 60% 20% 100점 이수(과락)기준 90% 60점\/100점 60점\/100점 70점 ※ 수료기준은 각... ",
+			"bloggername":"국토교통부 건설기술인 법정 교육기관",
+			"bloggerlink":"https:\/\/blog.naver.com\/honamct01",
+			"postdate":"20211007"
+		},
+		{
+			"title":"현대<b>건설<\/b> 신입사원 채용 대비 <b>직무<\/b> 소개, <b>건설<\/b>현장에서 배우는... ",
+			"link":"https:\/\/blog.naver.com\/hyundai_blog?Redirect=Log&logNo=220283980882",
+			"description":"이젠 친구들에게 설명해줄 수도 있을 정도예요” 현대<b>건설 직무<\/b>는 현장이 기본이다 현대건설에서 직무 불문하고 이토록 현장을 강조하는 이유는 무엇일까요? 현장을 모르면 어떤 문제가 발생하는 걸까요?... ",
+			"bloggername":"현대자동차그룹",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyundai_blog",
+			"postdate":"20150226"
+		},
+		{
+			"title":"한화<b>건설<\/b>의 <b>직무<\/b>와 원하는 인재상, 실무진이 들려주는... ",
+			"link":"https:\/\/blog.naver.com\/hanwhadays?Redirect=Log&logNo=221574776230",
+			"description":"다양한 직군과 직무가 있는 한화건설 &lt;한화<b>건설 직무<\/b>는 이런 것이 있어요&gt; 1. 엔지니어링 직군은 건축, 토목 플랜트 분야로 나누어져 있으며 신입은 시공 업무부터 시작한다 2. 시공 업무는 주로 건축 현장에서... ",
+			"bloggername":"한화그룹, 지속 가능한 내일",
+			"bloggerlink":"https:\/\/blog.naver.com\/hanwhadays",
+			"postdate":"20190701"
+		},
+		{
+			"title":"[#26 채용정보] 대우<b>건설 직무<\/b>소개 - 1",
+			"link":"https:\/\/blog.naver.com\/dwencpr?Redirect=Log&logNo=220001581844",
+			"description":"------------------------------------------------------------------------------------------------------ http:\/\/blog.naver.com\/enoyes\/20210491352 대우<b>건설<\/b>의 <b>직무<\/b>를 시리즈로 소개 중이군요~ 어느 조직, 기업이나 명확한 <b>직무<\/b> 구분과 구성원간의... ",
+			"bloggername":"대우건설 대학생 홍보대사",
+			"bloggerlink":"https:\/\/blog.naver.com\/dwencpr",
+			"postdate":"20140516"
+		},
+		{
+			"title":"<b>건설<\/b> 국내 변호사 채용&amp; 응시자격(feat. 대졸초임연봉, <b>직무<\/b>소... ",
+			"link":"https:\/\/blog.naver.com\/autoarc?Redirect=Log&logNo=222197122471",
+			"description":"#<b>건설<\/b>워커 #단독채용속보 #롯데<b>건설<\/b> #정규직 #경력사원 #채용정보 #국내변호사 아래 문서를 클릭하시면 롯데<b>건설<\/b> 대졸초임연봉, <b>직무<\/b>소개, 배치부서 등을 확인하실 수 있습니다. [롯데<b>건설<\/b> 취업족보] 회사개요... ",
+			"bloggername":"건설워커 잡톡",
+			"bloggerlink":"https:\/\/blog.naver.com\/autoarc",
+			"postdate":"20210105"
+		},
+		{
+			"title":"[대우<b>건설<\/b>] <b>직무<\/b>교육 생애설계",
+			"link":"https:\/\/blog.naver.com\/yuminara0724?Redirect=Log&logNo=221398589148",
+			"description":"I 강 의 명 : 생애설계 강의 I 대 상 : 대우<b>건설<\/b> 직원 l 교육기간 : 2018. 11. 16 l 교육내용 : 생애설계 달리는 샤인스피치교육연구소! 오늘은 가을의 끝자락을 느끼며 수원에 있는 대우<b>건설<\/b> 인재개발원으로... ",
+			"bloggername":"(주)샤인앤컴퍼니\/강의.방송.행사",
+			"bloggerlink":"https:\/\/blog.naver.com\/yuminara0724",
+			"postdate":"20181114"
+		},
+		{
+			"title":"☆현대<b>건설 직무<\/b> 인터뷰 4☆ 건설 현장을 계획, 관리하는... ",
+			"link":"https:\/\/blog.naver.com\/my_hillstate?Redirect=Log&logNo=221234947097",
+			"description":"현대<b>건설<\/b>의 「서부간선도로」 현장에서 각각 대내, 대외 공무 업무를 맡고 있는 두 공무전문가를 소개합니다. '사람'과의 소통이 가장 중요한 <b>건설<\/b> 현장에서 서로 협동하며 좋은 결과물을 만들어내고 있는 두... ",
+			"bloggername":"현대건설 공식블로그 :: 놀라운 혹은 재밌는 상상",
+			"bloggerlink":"https:\/\/blog.naver.com\/my_hillstate",
+			"postdate":"20180322"
+		},
+		{
+			"title":"김창수 희망아카데미 동명기술공단 <b>건설<\/b>기술자 <b>직무<\/b>교육... ",
+			"link":"https:\/\/blog.naver.com\/stonegoldkim?Redirect=Log&logNo=221260241527",
+			"description":"김창수 희망아카데미 동명기술공단 <b>건설<\/b>기술자 <b>직무<\/b>교육 윤리경영 강의. 동명기술공단 <b>건설<\/b>기술자 <b>직무<\/b>교육 윤리경영 강의. 기업의 사회적 책임이 대한민국의 희망입니다! #땅콩항공 #물컵항공으로 대한민국의... ",
+			"bloggername":"김창수 작가 & 강사",
+			"bloggerlink":"https:\/\/blog.naver.com\/stonegoldkim",
+			"postdate":"20180424"
+		},
+		{
+			"title":"[<b>건설<\/b>기술인 필독] <b>건설<\/b>산업교육원 법정<b>직무<\/b>교육 - 설계시공... ",
+			"link":"https:\/\/blog.naver.com\/autoarc?Redirect=Log&logNo=222206616688",
+			"description":"신청된 수강내역에 대한 책임은 기술인 본인에게 있으며, 수강신청 내용은 변경이 불가함. #<b>건설<\/b>기술인 #법정<b>직무<\/b>교육 #<b>건설<\/b>산업교육원 #<b>건설<\/b>기술진흥법 #<b>건설<\/b>워커 #잡톡 #설계시공 #<b>건설<\/b>사업관리 #품질관리",
+			"bloggername":"건설워커 잡톡",
+			"bloggerlink":"https:\/\/blog.naver.com\/autoarc",
+			"postdate":"20210114"
+		},
+		{
+			"title":"2022년 <b>건설<\/b>기술인 법정 <b>직무<\/b>교육과정 안내",
+			"link":"https:\/\/blog.naver.com\/honamct01?Redirect=Log&logNo=222632983921",
+			"description":"모든 <b>직무<\/b> ◎ <b>건설<\/b>사업관리 전문교육 훈련분야 과정명 종류 등급 <b>직무<\/b>분야 <b>건설<\/b>사업관리 CM1 토목+조경+안전 특급과정 [최초] 최초 특급 토목,조경,안전관리 <b>건설<\/b>사업관리 CM2 토목+조경+안전 특급과정 [최초]... ",
+			"bloggername":"국토교통부 건설기술인 법정 교육기관",
+			"bloggerlink":"https:\/\/blog.naver.com\/honamct01",
+			"postdate":"20220127"
+		},
+		{
+			"title":"<b>건설<\/b>부문 취업① 회사개요·채용공고·절차·FAQ·<b>직무<\/b>소개... ",
+			"link":"https:\/\/blog.naver.com\/autoarc?Redirect=Log&logNo=222257279770",
+			"description":"기계 <b>직무<\/b>는 <b>건설<\/b>업의 건축, 인프라 사업(플랜트, 환경 사업 등) 전방위적으로 투입됩니다. 특히 설계\/견적 분야에서 많은 활동을 합니다. 물론 현장별로 공정 진행에 따라 기계 설비나 전기 작업이 필요할... ",
+			"bloggername":"건설워커 잡톡",
+			"bloggerlink":"https:\/\/blog.naver.com\/autoarc",
+			"postdate":"20210226"
+		},
+		{
+			"title":"현대<b>건설 직무<\/b> 소개, 새로운 랜드마크 울산대교",
+			"link":"https:\/\/blog.naver.com\/hyundai_blog?Redirect=Log&logNo=220360123029",
+			"description":"현대<b>건설 직무<\/b> 소개, 국내를 넘어, 건설 한류를 이끌다 현대건설은 최근 글로벌 교량 시장에서 두각을 나타내고 있습니다. 2012년 총연장 36km의 해상교량인 쿠웨이트 자베르 코즈웨이(Jaber Causeway) 교량... ",
+			"bloggername":"현대자동차그룹",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyundai_blog",
+			"postdate":"20150515"
+		},
+		{
+			"title":"현대<b>건설 직무<\/b> 소개, 힐스테이트 를 만든 사람들",
+			"link":"https:\/\/blog.naver.com\/hyundai_blog?Redirect=Log&logNo=220476166872",
+			"description":"현대<b>건설 직무<\/b> 소개, 입주고객의 안전을 최우선으로 생각합니다 Q1. 현대건설에서 어떤 일을 하시나요?... 마지막으로 직무를 수행하는데 가장 중요한 소양은 뭘까요? 건축관련학과를 전공하면 가장 좋습니다.... ",
+			"bloggername":"현대자동차그룹",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyundai_blog",
+			"postdate":"20150909"
+		},
+		{
+			"title":"현대<b>건설 직무<\/b> 소개, 현이와 건이의 뉴비일기 1화",
+			"link":"https:\/\/blog.naver.com\/hyundai_blog?Redirect=Log&logNo=220719783536",
+			"description":"달성하고 다우존스지속가능경영지수 평가에서 건설부문 3년 연속 세계 1위까지. 현대건설에 입사한 현이를 만나보면 더 자세히 들을 수 있습니다. 글로벌 건설리더 현대<b>건설 직무<\/b> 이야기를 웹툰으로 만나보세요.",
+			"bloggername":"현대자동차그룹",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyundai_blog",
+			"postdate":"20160526"
+		},
+		{
+			"title":"현대<b>건설 직무<\/b> 소개, 현이와 건이의 뉴비일기 2화",
+			"link":"https:\/\/blog.naver.com\/hyundai_blog?Redirect=Log&logNo=220748966622",
+			"description":"현대건설에 입사한 건이가 입사 후 처음으로 현장 파견되었습니다. 현장에서 선임멘토 김대리를 만나게... 무슨 일이 있었는지 웹툰으로 만나보도록 하겠습니다. 현대<b>건설 직무<\/b> 소개, 현이와 건이의 뉴비일기 2화",
+			"bloggername":"현대자동차그룹",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyundai_blog",
+			"postdate":"20160629"
+		},
+		{
+			"title":"대대홍 16기의 대우<b>건설<\/b> 임직원 <b>직무<\/b> 인터뷰 공개!",
+			"link":"https:\/\/blog.naver.com\/dwencpr?Redirect=Log&logNo=221661276609",
+			"description":"안녕하세요 대대홍입니다~ 9\/18부터 9\/20까지 대우<b>건설<\/b> 대학생 홍보대사의 특권, 대우<b>건설<\/b> 임직원 <b>직무<\/b> 인터뷰가 진행되었습니다! 도시정비사업 2팀 정재엽 사원님, 상품개발팀 한중훈 대리님, 인사기획팀 정지혜... ",
+			"bloggername":"대우건설 대학생 홍보대사",
+			"bloggerlink":"https:\/\/blog.naver.com\/dwencpr",
+			"postdate":"20190927"
+		},
+		{
+			"title":"[<b>건설<\/b>워커 <b>직무<\/b>] 영업\/마케팅",
+			"link":"https:\/\/blog.naver.com\/korea0627a?Redirect=Log&logNo=222266100844",
+			"description":"직무는 크게 해외플랜트, 해외토건 부문으로 구분되며, 세부적으로는 해외발전영업, 해외화공영업, 해외개발, 해외토목∙건축영업 등의 업무가 있습니다. #건설워커 #<b>건설직무<\/b> #영업 #마케팅 #기술영업... ",
+			"bloggername":"건설워커 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/korea0627a",
+			"postdate":"20210306"
+		},
+		{
+			"title":"건국대 쿨하우스 <b>건설<\/b>산업교육원에서 <b>건설<\/b>기술자<b>직무<\/b>교육 이수중",
+			"link":"https:\/\/blog.naver.com\/ggonzii?Redirect=Log&logNo=221007750238",
+			"description":"<b>건설<\/b>기술자<b>직무<\/b>교육.. 작년인가 올해부터인가 법이 바뀌었다고 <b>건설<\/b>기술인협회에 등록된 <b>건설<\/b>기술자들은 의무적인 교육을 받아야만하고 만일 받지않고 개기면(?) 과태료부과에 각종 행정적인 불이익을... ",
+			"bloggername":"꼰지의 캠핑사랑",
+			"bloggerlink":"https:\/\/blog.naver.com\/ggonzii",
+			"postdate":"20170517"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 14. <b>건설<\/b> NCS 문제집... ",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220615226587",
+			"description":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가의 부록에는 NCS 14 <b>건설<\/b>을 <b>직무<\/b>능력으로 요구한 공기업, 공공기관의 <b>직무<\/b>기술서를 볼 수 있어요. NCS기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 14 <b>건설<\/b> 작가 NCS 채용 시험 연구회... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160201"
+		},
+		{
+			"title":"[<b>건설<\/b>워커 <b>직무<\/b>] 공무(사업지원)",
+			"link":"https:\/\/blog.naver.com\/korea0627a?Redirect=Log&logNo=222266088599",
+			"description":"저의 글이 공무를 전부 대변 할 수는 없지만 공무에 대한 이해에 조금이나마 도움이 되었으면 좋겠습니다. #건설워커 #<b>건설직무<\/b> #건설공무 #공무 #현대건설 온리원 건설JOB플랫폼, 건설워커",
+			"bloggername":"건설워커 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/korea0627a",
+			"postdate":"20210306"
+		},
+		{
+			"title":"[현대<b>건설<\/b>x희망브리지] 제 6회 집수리로드 (봉사활동 및 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/kookmin_comm?Redirect=Log&logNo=220716774513",
+			"description":"[현대건설x희망브리지] 제 6회 집수리로드 (봉사활동 및 직무체험) 봉사자 모집 (~5\/30까지)... 부여 ■ 직무체험 개요 -내용: 현대<b>건설 직무<\/b>체험 프로그램 (현장\/본사) -대상: 집수리로드 활동우수자 (3... ",
+			"bloggername":"Dreams COMM True 국민대 미디어·광고학부",
+			"bloggerlink":"https:\/\/blog.naver.com\/kookmin_comm",
+			"postdate":"20160523"
+		},
+		{
+			"title":"2017 CJ<b>건설<\/b>(E&amp;C) 재무 REAL 면접후기(2), 1차면접 : <b>직무<\/b>면... ",
+			"link":"https:\/\/blog.naver.com\/bs_im?Redirect=Log&logNo=221032173030",
+			"description":"연관글 2017 CJ건설(E&amp;C) REAL 면접후기(3), 최종면접 : 임원면접, 직무서베이 2017 CJ건설(E&amp;C) REAL 면접후기(2)... 2017년 상반기 CJ<b>건설 직무<\/b>면접 기출문제 팀장 질문 1.간단하게 본인소개를 2분 내로 해주세요. 2.... ",
+			"bloggername":"패러다임 취업설계사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/bs_im",
+			"postdate":"20170618"
+		},
+		{
+			"title":"<b>건설직무<\/b>교육 : June 21, 2017",
+			"link":"https:\/\/blog.naver.com\/hersdaily?Redirect=Log&logNo=221035494032",
+			"description":"이틀간 진행된 건설분야 직무집체교육에 다녀왔다. 난 온라인으로 기본과 전문교육 각각... 이끌고 갈 생각을 하니 막막하다. #집체교육 #<b>건설직무<\/b>교육 #건설교육 June 21, 2017 : in my diary <b>건설직무<\/b>교육",
+			"bloggername":"Little women 리틀우먼",
+			"bloggerlink":"https:\/\/blog.naver.com\/hersdaily",
+			"postdate":"20170622"
+		},
+		{
+			"title":"<b>건설<\/b>기술자 역량지수 <b>직무<\/b>분야, 전문분야",
+			"link":"https:\/\/blog.naver.com\/generalsuk?Redirect=Log&logNo=220190170165",
+			"description":"아래 그림이 <b>건설<\/b>기술진흥법 시행령 별표 <b>건설<\/b>기술자의 <b>직무<\/b>분야와 전문분야 구분 표입니다. 그리고 <b>건설<\/b>기술자 역량지수 산정에 관한 절차 고시는 우측상단 첨부파일로 올려놓았으니 필요하시면 다운받아서... ",
+			"bloggername":"건설업양도양수 \"소석이네 건설정보\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/generalsuk",
+			"postdate":"20141124"
+		},
+		{
+			"title":"<b>건설<\/b> 기술자 <b>직무<\/b>.승급 교육 기관",
+			"link":"https:\/\/blog.naver.com\/dono0011?Redirect=Log&logNo=220175378167",
+			"description":"오늘은 <b>건설<\/b> 기술자 기본및 <b>직무<\/b>교육.그리고 승급 교육을 하는데 교육 장소. 기관을 잘 모르는경우가 좀 있어서 여러 교육 기관을 포스팅을 했습니다 아래 필요한 경우 홈페이지 방문하시면... ",
+			"bloggername":"건설면허 M&A 기업진단 건설기술자",
+			"bloggerlink":"https:\/\/blog.naver.com\/dono0011",
+			"postdate":"20141108"
+		},
+		{
+			"title":"태영<b>건설 직무<\/b>역량 강화 中 &lt;사내강사양성 기본교육&gt; 출강",
+			"link":"https:\/\/blog.naver.com\/hrdist?Redirect=Log&logNo=10182339907",
+			"description":"▶[ 기업출강 ] 태영<b>건설 직무<\/b>역량 강화 中 &lt;사내강사양성 기본교육&gt; 출강 ㅇ 강의 주제 : 사내강사양성 기본교육 ㅇ 교육 대상 : 태영건설 주임~부장 중 신청자 ㅇ 교육일정 : 2013. 12. 19 ~ 12.20... ",
+			"bloggername":"HRDIST 에이치알디스트",
+			"bloggerlink":"https:\/\/blog.naver.com\/hrdist",
+			"postdate":"20131225"
+		},
+		{
+			"title":"경기도, 철도포럼 개최‥철도<b>건설 직무<\/b>능력 향상 도모",
+			"link":"https:\/\/blog.daum.net\/htiger31\/18396795",
+			"description":"경기도, 철도포럼 개최‥철도<b>건설 직무<\/b>능력 향상 도모 ○ 경기도, 철도건설 담당직원 및 관계자... 담당자들의 직무능력 제고를 위한 자리를 마련한다. 경기도는 철도국 주관으로 ‘제9차 경기도... ",
+			"bloggername":"하이거",
+			"bloggerlink":"https:\/\/blog.daum.net\/htiger31",
+			"postdate":"20181129"
+		},
+		{
+			"title":"현대<b>건설<\/b> 채용 \/ 2022 채용연계형 인턴 모집",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=222820593959",
+			"description":"지원서 접수 : 2022년 7월 14일(목) ~ 7월 25일(월) 17시 마감 접수방법 : 현대건설 채용 홈페이지... 우대 · <b>건설 직무<\/b> 유겅험자 우대 · 해외근무에 결격사유가 없으신 분(남성의 경우 병역을 마쳤거나... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20220721"
+		},
+		{
+			"title":"현대<b>건설<\/b> 채용, 2021년 주택사업 경력모집 …<b>직무<\/b>소개, 응시자격",
+			"link":"https:\/\/blog.naver.com\/korea0627a?Redirect=Log&logNo=222221625188",
+			"description":"도시정비 수주영업 직무는 ▲도시정비사업 입찰전략 수립·실행 ▲도시정비사업 사업추진 영업활동... (url) - 건설워커 잡톡 블로그 현대<b>건설 직무<\/b>소개 https:\/\/blog.naver.com\/autoarc\/222223037980 ■ 첨부파일... ",
+			"bloggername":"건설워커 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/korea0627a",
+			"postdate":"20210127"
+		},
+		{
+			"title":"3 취업스펙을 극복하고 우미<b>건설<\/b> 총무 <b>직무<\/b> 서류 합격!!",
+			"link":"https:\/\/blog.naver.com\/kil8853?Redirect=Log&logNo=220802155185",
+			"description":"KCC, 현대<b>건설<\/b>, 대우<b>건설<\/b> 못지않은 튼실한 <b>건설<\/b>기업 우미<b>건설<\/b> 총무 <b>직무<\/b>에 서류합격 할 수 있었답니다. 스펙이 부족해서 고민이 많으셨나요? 물론 정량적 스펙이 취업을 결정하는 요소이긴 하지만 취업의 전부는... ",
+			"bloggername":"취업의신 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kil8853",
+			"postdate":"20160901"
+		},
+		{
+			"title":"<b>건설 직무<\/b> 자격지수 학력지수 알아보기",
+			"link":"https:\/\/blog.naver.com\/dlgks131?Redirect=Log&logNo=221387431154",
+			"description":"https:\/\/blog.naver.com\/dlgks131\/221384909735 <b>건설 직무<\/b> 자격지수 기술사 \/ 건축사 배점 : 40 기사 \/ 기능사 : 30... 학력지수는 건설기술자가 졸업하거나 이수한 학과의 직무분야별 로 인정하며 동일한 직무분야 내에 학과... ",
+			"bloggername":"이한웍스",
+			"bloggerlink":"https:\/\/blog.naver.com\/dlgks131",
+			"postdate":"20181029"
+		},
+		{
+			"title":"전문기술습득·<b>건설<\/b>분야 <b>직무<\/b>능력 제고",
+			"link":"https:\/\/blog.naver.com\/sinmunman?Redirect=Log&logNo=70100369310",
+			"description":"천안시청 시설직 공무원들이 <b>직무<\/b>교육을 갖고 신기술 및 전문기술 습득과 2011년 <b>건설<\/b>시책 추진 방향에 대한 논의자리를 마련했다. 1월 6일부터 이틀 동안 천안축구센터 2층 대세미나에서 실시되는... ",
+			"bloggername":"충청남도",
+			"bloggerlink":"https:\/\/blog.naver.com\/sinmunman",
+			"postdate":"20110106"
+		},
+		{
+			"title":"현대<b>건설<\/b> 채용 대비 <b>직무<\/b> 소개, 세종 강서 힐스테이트 나들이",
+			"link":"https:\/\/blog.naver.com\/hyundai_blog?Redirect=Log&logNo=220427596321",
+			"description":"현대<b>건설<\/b> 채용 대비 <b>직무<\/b>에 관심이 있으신분들께 도움이 되었으면 좋겠습니다. 休, 세종 힐스테이트 '고품격 삶의 여유가 흐른다' 떠오르는 ‘명품 행정 도시’ 세종시의 주거지역은 생활권으로 나뉘어... ",
+			"bloggername":"현대자동차그룹",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyundai_blog",
+			"postdate":"20150722"
+		},
+		{
+			"title":"[<b>건설<\/b>워커 <b>직무<\/b>] 토목 현장 시공부서, 공사팀·공무팀·품질팀... ",
+			"link":"https:\/\/blog.naver.com\/korea0627a?Redirect=Log&logNo=222266407606",
+			"description":"[<b>건설직무<\/b>] 토목 현장 시공부서 공사팀·공무팀·품질팀·안전환경팀, 본사 스텝부서 토목기획담당... 지역친화적인 건설이 이루어 질 수 있도록 합니다. 본사 스텝부서는 현장 업무추진에 필요한 인력지원 및... ",
+			"bloggername":"건설워커 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/korea0627a",
+			"postdate":"20210306"
+		},
+		{
+			"title":"창녕군, 청렴<b>건설<\/b> 문화 정착을 위한 <b>건설<\/b>업무 담당공무원 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/cngblog?Redirect=Log&logNo=50189897445",
+			"description":"창녕군은 지난 27일 청렴창녕<b>건설<\/b> 문화정착을 위해 <b>건설<\/b>업무 담당공무원을 대상으로 ‘2014년도 청렴도 향상을 위한 <b>건설<\/b>업무 담당공무원 <b>직무<\/b>교육’을 실시했다. 이번 교육은 작년 국민권익위원회에서 실시한... ",
+			"bloggername":"창녕군님의 블로그 cngblog",
+			"bloggerlink":"https:\/\/blog.naver.com\/cngblog",
+			"postdate":"20140227"
+		},
+		{
+			"title":"현대<b>건설<\/b> 채용 대비 <b>직무<\/b> 소개, 카타르의 변화를 이끄는 명장 5인",
+			"link":"https:\/\/blog.naver.com\/hyundai_blog?Redirect=Log&logNo=220332587137",
+			"description":"현대<b>건설<\/b> 채용이나 <b>직무<\/b>에 관심이 있으신분들께 이 인터뷰가 도움이 되셨으면 좋겠습니다. Q. 쉐라톤 호텔 완공 이후 30여 년 만에 재진출한 건축공사가 ‘하트 오브 도하 복합개발사업’이라고 들었습니다.... ",
+			"bloggername":"현대자동차그룹",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyundai_blog",
+			"postdate":"20150416"
+		},
+		{
+			"title":"경기도, 철도포럼 개최‥철도<b>건설 직무<\/b>능력 향상 도모",
+			"link":"https:\/\/blog.naver.com\/htiger31?Redirect=Log&logNo=221408436698",
+			"description":"경기도, 철도포럼 개최‥철도<b>건설 직무<\/b>능력 향상 도모 ○ 경기도, 철도건설 담당직원 및 관계자 대상... 담당자들의 직무능력 제고를 위한 자리를 마련한다. 경기도는 철도국 주관으로 ‘제9차 경기도... ",
+			"bloggername":"하이거",
+			"bloggerlink":"https:\/\/blog.naver.com\/htiger31",
+			"postdate":"20181129"
+		},
+		{
+			"title":"[정보]건축주, 건축사, 시공자? 헷갈리는 <b>건설직무<\/b> 알아보기",
+			"link":"https:\/\/blog.naver.com\/ihometree?Redirect=Log&logNo=221383847947",
+			"description":"[정보] 건축주, 건축사, 시공자? 헷갈리는 <b>건설직무<\/b> 알아보기 ☞원문 바로가기 : http:\/\/samsungblueprint.tistory.com\/1345?category=607237",
+			"bloggername":"신개념 주거디자인 \"피앤이건축사사무소\" 1661-5650",
+			"bloggerlink":"https:\/\/blog.naver.com\/ihometree",
+			"postdate":"20181024"
+		},
+		{
+			"title":"[삼성물산 <b>건설<\/b>부문 <b>직무<\/b>소개] <b>건설<\/b>사 건축\/토목 직군은 무슨... ",
+			"link":"https:\/\/blog.naver.com\/samsungblueprint?Redirect=Log&logNo=222009958867",
+			"description":"두 사람이 들려주는 삼성물산 <b>건설<\/b>부문 입사를 위한 꿀팁은 물론, 국내외 현장과 서울 오피스(본사) 모두를 경험한 생생한 업무 이야기 그리고 수직적이고 거칠 것만 같은 <b>건설<\/b>회사의 조직문화까지, 어디서도... ",
+			"bloggername":"삼성물산 건설부문 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/samsungblueprint",
+			"postdate":"20200623"
+		},
+		{
+			"title":"건축<b>건설<\/b>공사의 공종별 위험도와 <b>직무<\/b>스트레스의 상관관계",
+			"link":"https:\/\/blog.naver.com\/stto1004?Redirect=Log&logNo=221571158752",
+			"description":"안전공학 #건축, #<b>건설<\/b>, #<b>직무<\/b>스트레스, #녹색건축인증연구소 &lt;초록&gt; In this study, the risk level of architectural works was calculated by applying work period and number... ",
+			"bloggername":"녹색건축인증연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/stto1004",
+			"postdate":"20190626"
+		},
+		{
+			"title":"대우<b>건설 직무<\/b>역량모델 (역량평가)",
+			"link":"https:\/\/blog.naver.com\/kiji68?Redirect=Log&logNo=221582130289",
+			"description":"대우<b>건설<\/b> 역량평가 평가지표는 핵심역량, 리더십역량 그리고 <b>직무<\/b>역량으로 구성되어 있다. 이 중 <b>직무<\/b>역량은 해당 <b>직무<\/b> 기능 수행에 필요한 역량으로서 부장 이하 팀원 역량평가에 적용되는데 52개 <b>직무<\/b>... ",
+			"bloggername":"Energizer 지국일의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kiji68",
+			"postdate":"20190710"
+		},
+		{
+			"title":"제 6회 재난위기가정 집수리로드 + 현대<b>건설 직무<\/b>체험",
+			"link":"https:\/\/blog.naver.com\/jyp1069?Redirect=Log&logNo=220709066067",
+			"description":"봉사) ------- &amp; 직무체험 개요 &amp; -현대<b>건설 직무<\/b>체험 프로그램 (현장 \/ 본사) -대상 : 집수리로드... 현대건설 집수리로드!! 올해는 직무체험의 기회까지!! 올해도 지원합니다!! 다들 열심히 준비해요!!",
+			"bloggername":"벨제로파크",
+			"bloggerlink":"https:\/\/blog.naver.com\/jyp1069",
+			"postdate":"20160513"
+		},
+		{
+			"title":"이랜드<b>건설<\/b> 신입사원 대규모 채용 (건축, 기계, 전기 <b>직무<\/b>)",
+			"link":"https:\/\/blog.naver.com\/ink2777?Redirect=Log&logNo=222832628666",
+			"description":"그리고 <b>직무<\/b> 관련 자격을 보유했다면 대상자를 우대합니다. © nullplus, 출처 Unsplash 이랜드<b>건설<\/b> 복리후생은 의식주 휴, 미, 락, 자기계발로 나눌 수 있는데요. 관련 브랜드로는 뉴발란스, 스파오, 애슐리... ",
+			"bloggername":"잇찌와 업글인간",
+			"bloggerlink":"https:\/\/blog.naver.com\/ink2777",
+			"postdate":"20220728"
+		},
+		{
+			"title":"2013 (주)리버티<b>건설 직무<\/b>능력향상 교육",
+			"link":"https:\/\/blog.naver.com\/lbt21?Redirect=Log&logNo=40202951678",
+			"description":"1. 일시 : 2013.12.03 2. 장소 : 동작구상공회의소 회의장 3. 내용 : 2013 (주)리버티<b>건설 직무<\/b>능력 향상 교육",
+			"bloggername":"(주)리버티건설",
+			"bloggerlink":"https:\/\/blog.naver.com\/lbt21",
+			"postdate":"20131219"
+		},
+		{
+			"title":"경기도, ‘철도<b>건설 직무<\/b>능력’ 향상 위한 포럼 ...26일 개최",
+			"link":"https:\/\/blog.naver.com\/cjhan2000?Redirect=Log&logNo=221474011388",
+			"description":"담당자들의 <b>직무<\/b>능력 제고가 절실한 상황이다. 이에 도에서는 지난 2015년부터 2017년까지 철도분야 전반에 대해 교육을 실시하고, 지난해에는 철도<b>건설<\/b> 사업에 대한 전반적 이해 수준을 높이는데 주력했다.... ",
+			"bloggername":"경기1뉴스 (http:\/\/www.gyeonggi1news.com)",
+			"bloggerlink":"https:\/\/blog.naver.com\/cjhan2000",
+			"postdate":"20190225"
+		},
+		{
+			"title":"포스코<b>건설<\/b>채용<b>직무<\/b>역량평가합격",
+			"link":"https:\/\/blog.naver.com\/7am_study?Redirect=Log&logNo=221136999689",
+			"description":"포스코건설채용직무역량평가합격 안녕하세요 부산울산경남 취업컨설팅학원 쎄벰스터디입니다. 포스코<b>건설 직무<\/b>역량평가 합격한 수강생님 축하드립니다. 7am과 함께 최종면접 준비도 잘마치셔서 꼭 사원증... ",
+			"bloggername":"7AM스터디",
+			"bloggerlink":"https:\/\/blog.naver.com\/7am_study",
+			"postdate":"20171110"
+		},
+		{
+			"title":"<b>건설<\/b>기술인 <b>직무<\/b>교육 온라인으로 이수하자.",
+			"link":"https:\/\/blog.naver.com\/column9?Redirect=Log&logNo=221766985982",
+			"description":"우선 <b>건설<\/b>기술인협회 들어가서 본인이 해당하는 미이수한 <b>직무<\/b>교육을 확인하고 상기 교육원 전화를 해서 상담하기를 바란다. 아무쪼록 법정기한내에 전부다 이수해서 불이익을 안받기를 바란다.",
+			"bloggername":"TIKANA BUSOUT FAMILY",
+			"bloggerlink":"https:\/\/blog.naver.com\/column9",
+			"postdate":"20200110"
+		},
+		{
+			"title":"대우건설 HR &amp; 견적예산 직무에... 대우<b>건설 직무<\/b> 토크... ",
+			"link":"https:\/\/blog.naver.com\/glwoo99?Redirect=Log&logNo=222502687190",
+			"description":"대우<b>건설<\/b> 대학생 홍보대사 18기 임지우입니다 :) 지난 9월 8일 대우<b>건설<\/b>에서 대대홍 18기의 의견을 듣고 <b>직무<\/b> 인터뷰를 진행하기 위해 소통 간담회를 열어주셨습니다 직접 대대홍 18기의 의견을 전달하고... ",
+			"bloggername":"호라돌이의 비밀이지렁",
+			"bloggerlink":"https:\/\/blog.naver.com\/glwoo99",
+			"postdate":"20210911"
+		}
+	]
+}

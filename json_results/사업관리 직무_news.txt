@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Tue, 02 Aug 2022 16:42:11 +0900",
+	"total":168924,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[뉴스큐] 이준석 &quot;절대반지 탐욕&quot;...이재명 &apos;욕 플랫폼&apos; 논란",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0101_202208021625287384",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001771738?sid=100",
+			"description":"<b>직무<\/b>대행이 <b>직무<\/b>대행 될 때 그 직전 상황하고 비슷해 보이기도 하고요. [추은호] 그렇습니다. 김기현 의원 경우에는 오랫동안 차기 당권 도전에 염두에 두고 준비하지 않았습니까? 그렇기 때문에 비대위가 <b>관리<\/b>형 비대위가... ",
+			"pubDate":"Tue, 02 Aug 2022 16:25:00 +0900"
+		},
+		{
+			"title":"김태흠 지사, 예산 확보·당 내홍 해결 &apos;두마리 토끼 잡을까&apos;",
+			"originallink":"http:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2016706",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000021132?sid=102",
+			"description":"통합<b>관리<\/b>센터 건립, 홍성 복합 디지털 스페이스 구축, 서해안 관광도로 조성, 금강권역 스마트 역사문화재생 플랫폼 구축 등을 위해 중앙당에 정부예산 확보를 요청할 예정이다. 또 지역 현안 <b>사업<\/b>으로는 GTX-C 노선 천안... ",
+			"pubDate":"Tue, 02 Aug 2022 16:20:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, 중소기업·근로자 위한 &apos;청년연계형 내일채움공제&apos; 판매",
+			"originallink":"http:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=36606",
+			"link":"http:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=36606",
+			"description":"임찬희 기업은행 자산<b>관리<\/b>그룹장과 안정곤 중소벤처기업진흥공단 일자리본부장이 &apos;내일채움공제 신상품... 또 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다.... ",
+			"pubDate":"Tue, 02 Aug 2022 16:16:00 +0900"
+		},
+		{
+			"title":"[독자투고] 2022년도 한국전력공사 상반기 체험형 인턴을 끝마치며",
+			"originallink":"http:\/\/www.energydaily.co.kr\/news\/articleView.html?idxno=129730",
+			"link":"http:\/\/www.energydaily.co.kr\/news\/articleView.html?idxno=129730",
+			"description":"실적을 <b>사업<\/b>소장 별로 집계했고 이를 통해 소내 <b>관리<\/b> 상태, 안전점검 절차와 내용 및 현황들을 파악할 수... 다양한 <b>직무<\/b> 활동뿐만 아니라 리더십, 자격증 등 개인 역량을 개발할 수 있는 강의들까지 마련되어 있어서, 이를... ",
+			"pubDate":"Tue, 02 Aug 2022 16:02:00 +0900"
+		},
+		{
+			"title":"IBK기업銀, 금융권 최초 &apos;청년연계형 내일채움공제&apos; 판매",
+			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=87143",
+			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=87143",
+			"description":"지난 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... 또 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다. 대상은... ",
+			"pubDate":"Tue, 02 Aug 2022 15:44:00 +0900"
+		},
+		{
+			"title":"IBK기업, &apos;청년연계형 내일채움공제&apos; 판매",
+			"originallink":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=167493",
+			"link":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=167493",
+			"description":"임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤 중소벤처기업진흥공단 일자리본부장(오른쪽)이... 또 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다. 대상은... ",
+			"pubDate":"Tue, 02 Aug 2022 15:42:00 +0900"
+		},
+		{
+			"title":"[단독]SK하이닉스, 반도체겨울 대비 &apos;리스크<b>관리<\/b> 조직&apos; 사장 직속 배치",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4761130",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006255501?sid=101",
+			"description":"GSM은 GPO 조직이 G-SCM 시스템을 기반으로 수립한 전략을 기반으로 전반적인 영업, 마케팅 <b>직무<\/b>를 수행한다.... 삼성전자도 지난 6월 경영지원실 지원팀 산하에 전사 대외 리스크 <b>관리<\/b>·대응 조직인 BRM(<b>사업<\/b>위기<b>관리<\/b>)... ",
+			"pubDate":"Tue, 02 Aug 2022 15:42:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, 금융권 최초 &apos;청년연계형 내일채움공제&apos; 판매",
+			"originallink":"http:\/\/www.meconomynews.com\/news\/articleView.html?idxno=69257",
+			"link":"http:\/\/www.meconomynews.com\/news\/articleView.html?idxno=69257",
+			"description":"자산<b>관리<\/b>그룹장(왼쪽)과 안정곤 중소벤처기업진흥공단 일자리본부장(오른쪽)이 &apos;내일채움공제 신상품 출시... 또 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다.... ",
+			"pubDate":"Tue, 02 Aug 2022 15:38:00 +0900"
+		},
+		{
+			"title":"기업은행, &apos;청년연계형 내일채움공제&apos; 판매…금융권 최초",
+			"originallink":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2012181",
+			"link":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2012181",
+			"description":" 임찬희 기업은행 자산<b>관리<\/b>그룹장과 안정곤 중소벤처기업진흥공단 일자리본부장이 지난 29일... 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육·복지서비스도 제공한다. 가입 대상은... ",
+			"pubDate":"Tue, 02 Aug 2022 15:30:00 +0900"
+		},
+		{
+			"title":"국회 입법조사처 &quot;단순파업도 업무방해죄? 면죄부 고민해야&quot;",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022080213165230186",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004778249?sid=102",
+			"description":"윤석열정부가 노동개혁 방안으로 추진 중인 연장근로 <b>관리<\/b>단위 &apos;1주&apos; 이상 확대 등 주52시간제 개편과 관련해... 5인이상 <b>사업<\/b>장에 시행된 지 1년도 되지 않은 시점에서 근로시간제를 재개정한다는 것이 바람직한지 의문... ",
+			"pubDate":"Tue, 02 Aug 2022 15:22:00 +0900"
+		},
+		{
+			"title":"하이엠솔루텍, ESS 유지보수 시장 진출",
+			"originallink":"http:\/\/www.etnews.com\/20220802000207",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003034445?sid=105",
+			"description":"지난 1년 동안 LG전자와 공동 시범<b>사업<\/b>을 실시하며 기술을 축적했다. ESS 현장·고객 <b>관리<\/b>, LG전자 전력변환시스템(PCS) 유지보수 등 <b>직무<\/b>를 수행할 전문 엔지니어까지 채용하고 있다. 하이엠솔루텍 관계자는 “공조... ",
+			"pubDate":"Tue, 02 Aug 2022 14:59:00 +0900"
+		},
+		{
+			"title":"천안시 건설사고 예방을 위한 &apos;찾아가는 안전교육&apos;",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2146163",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2146163",
+			"description":"개정사항, 스마트 안전장비 지원<b>사업<\/b> 등을 다뤘다. 시 이경배 건설교통국장 <b>직무<\/b>대리는 &quot;앞으로도 현장 관계자의 안전의식 제고를 위한 주기적인 교육을 실시하고 현장 밀착 <b>관리<\/b>도 병행하겠다&quot;고 강조했다.\/천안=",
+			"pubDate":"Tue, 02 Aug 2022 14:48:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, 금융권 최초 &apos;청년연계형 내일채움공제&apos; 판매",
+			"originallink":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=133957",
+			"link":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=133957",
+			"description":"지난 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... 또 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스 등을 제공한다. 대상은... ",
+			"pubDate":"Tue, 02 Aug 2022 14:46:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, 금융권 최초 ‘청년연계형 내일채움공제’",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20220802500395",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20220802500395",
+			"description":"지난달 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... 또한 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육·복지서비스를 제공한다. 대상은... ",
+			"pubDate":"Tue, 02 Aug 2022 14:44:00 +0900"
+		},
+		{
+			"title":"의정부시 의정부1동, 주민센터 청사 마당 환경정비 실시",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1582682",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1582682",
+			"description":"이번 환경정비 활동은 아름다운 마을 만들기 <b>사업<\/b>의 일환으로 푸른 생활 환경을 조성해 청사를 방문하는... 유지<b>관리<\/b>에 꾸준히 노력을 기울일 예정이다. 정세훈 의정부1동장 <b>직무<\/b>대행은 “의정부1동 청사 마당 환경정비... ",
+			"pubDate":"Tue, 02 Aug 2022 14:32:00 +0900"
+		},
+		{
+			"title":"[인천시, 수돗물 유충 발생 대비 철저] 물샐틈없는 위생<b>관리<\/b>…안심하고 사용할...",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1155228",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1155228",
+			"description":"시는 그동안 고도정수처리시설 설치, 정수장 위생<b>관리<\/b> 개선<b>사업<\/b>, 스마트 인프라 구축, 인천형 워터케어... 배치 ▲<b>직무<\/b>교육을 통한 역량 증진 ▲정수장 평가 강화 등 3개 과제가 포함됐다. 또, 대시민 서비스와 소통을... ",
+			"pubDate":"Tue, 02 Aug 2022 14:12:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, &apos;청년연계형 내일채움공제&apos; 판매",
+			"originallink":"http:\/\/www.newsworker.co.kr\/news\/articleView.html?idxno=167713",
+			"link":"http:\/\/www.newsworker.co.kr\/news\/articleView.html?idxno=167713",
+			"description":"지난 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... 또 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다. 대상은... ",
+			"pubDate":"Tue, 02 Aug 2022 13:52:00 +0900"
+		},
+		{
+			"title":"기업은행, 청년연계형 내일채움공제 금융권 최초 판매",
+			"originallink":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=218594",
+			"link":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=218594",
+			"description":"화이트페이퍼, WHITEPAPER사진은 지난 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장... 또, 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다.... ",
+			"pubDate":"Tue, 02 Aug 2022 13:46:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, &apos;청년연계형 내일채움공제&apos; 판매...금융권 최초",
+			"originallink":"https:\/\/www.fetv.co.kr\/news\/article.html?no=121347",
+			"link":"https:\/\/www.fetv.co.kr\/news\/article.html?no=121347",
+			"description":"또 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다.... 정부정책 <b>사업<\/b>인 만큼 세제혜택도 주어진다. 기업은 근로자를 위해 납입한 금액의 25%를 인력·연구개발비... ",
+			"pubDate":"Tue, 02 Aug 2022 13:44:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, 금융권 최초 &apos;청년연계형 내일채움공제&apos; 판매",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=214662",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=214662",
+			"description":"지난 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... 가입자 대상으로 <b>직무<\/b>역량 교육과 단체상해보험 가입, 휴가비 지원 등 교육 및 복지 서비스도 제공한다. 가입 대상은... ",
+			"pubDate":"Tue, 02 Aug 2022 13:16:00 +0900"
+		},
+		{
+			"title":"기업은행, 중소기업 근로자 대상 ‘청년연계형 내일채움공제’ 판매",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20220802010000364",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20220802010000364",
+			"description":"대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육?복지서비스를 제공한다. 정부정책 <b>사업<\/b>... 기업은행 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... ",
+			"pubDate":"Tue, 02 Aug 2022 12:52:00 +0900"
+		},
+		{
+			"title":"서산지역, 자라나는 청소년들을 위한 다양한 프로그램 운영",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220802010000582",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220802010000582",
+			"description":"시는 거주지, 전공학과, 자격증 등을 종합적으로 고려해 시청을 비롯한 읍면동 및 <b>사업<\/b>소, 다함께 돌봄센터... 개인위생을 <b>관리<\/b>해 안전한 환경에서 행사를 진행했다. 오전 11시에 서천 국립생태원을 도착한 학생들은 전문... ",
+			"pubDate":"Tue, 02 Aug 2022 12:12:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, 금융 첫 ‘청년연계형 내일채움공제’ 판매... 장기재직·목돈마...",
+			"originallink":"http:\/\/www.thevaluenews.co.kr\/news\/view.php?idx=170758",
+			"link":"http:\/\/www.thevaluenews.co.kr\/news\/view.php?idx=170758",
+			"description":"임찬희(왼쪽) 기업은행 자산<b>관리<\/b>그룹장이 지난달 29일 서울 을지로 IBK기업은행 IFT에서 ‘내일채움공제... 또 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다. 가입... ",
+			"pubDate":"Tue, 02 Aug 2022 12:04:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, 청년연계형 내일채움공제 판매",
+			"originallink":"http:\/\/www.newscj.com\/article\/20220802580243",
+			"link":"http:\/\/www.newscj.com\/article\/20220802580243",
+			"description":"지난달 29일 서울 을지로 IBK기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... 가입자에겐 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육·복지서비스를 지원한다. 대상은 고용노동부가... ",
+			"pubDate":"Tue, 02 Aug 2022 11:58:00 +0900"
+		},
+		{
+			"title":"천안시, &apos;찾아가는 안전교육&apos; 실시...건설사고 예방 선도",
+			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=264904",
+			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=264904",
+			"description":"개정사항 ▲스마트 안전장비 지원<b>사업<\/b> 등을 다뤘다. 이경배 건설교통국장 <b>직무<\/b>대리는 &quot;앞으로도 현장 관계자의 안전의식 제고를 위한 주기적인 교육을 실시하고, 현장 밀착 <b>관리<\/b>도 병행하겠다&quot;고 밝혔다.",
+			"pubDate":"Tue, 02 Aug 2022 11:10:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, &apos;청년연계형 내일채움공제&apos;",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=511526",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=511526",
+			"description":"▲ 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤 중소벤처기업진흥공단 일자리본부장(오른쪽)이... 더불어 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다.... ",
+			"pubDate":"Tue, 02 Aug 2022 11:02:00 +0900"
+		},
+		{
+			"title":"[아유경제_재개발] 상대원2구역 재개발, 랜드마크 건설 향해 &apos;정조준&apos;",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=73122",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=73122",
+			"description":"정비<b>사업<\/b>전문<b>관리<\/b>업자(이하 정비업자) 계약 해지의 건 정비업자 선정 및 계약 체결 위임의 건 지장물 업체 계약 해제의 건 감사 해임의 건 감사 <b>직무<\/b> 정지의 건 등이 이에 해당한다. 한편, 이 <b>사업<\/b>은 성남 중원구... ",
+			"pubDate":"Tue, 02 Aug 2022 11:00:00 +0900"
+		},
+		{
+			"title":"[#IT라운지] SKT &apos;온실가스감축검증&apos; 통과·U+ &apos;울트라12&apos; 출시·밀리 &apos;한정판...",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604889",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604889",
+			"description":"10개 <b>직무<\/b>에서 인재를 채용한다. 공개 채용의 서류 접수는 오는 15일까지 이뤄지며, 안랩 채용 홈페이지에서 온라인으로 지원할 수 있다. ◆해줌·스칼라데이터, 가상발전소 및 스마트 전력수요<b>관리<\/b> <b>사업<\/b>에서 MOU 해줌과... ",
+			"pubDate":"Tue, 02 Aug 2022 10:56:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, 금융권 최초 &apos;청년연계형 내일채움공제&apos; 판매 실시",
+			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=855194",
+			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=855194",
+			"description":"지난 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... 또한 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다. 대상은... ",
+			"pubDate":"Tue, 02 Aug 2022 10:50:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, &apos;청년연계형 내일채움공제&apos; 판매",
+			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=36127",
+			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=36127",
+			"description":"지난달 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... 가입자를 대상으로 <b>직무<\/b>역량, E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육·복지서비스도 제공한다. 대상은... ",
+			"pubDate":"Tue, 02 Aug 2022 10:48:00 +0900"
+		},
+		{
+			"title":"경기도교육청, 교직원 마음건강 증진<b>사업<\/b> 운영",
+			"originallink":"https:\/\/www.safetynews.co.kr\/news\/articleView.html?idxno=214315",
+			"link":"https:\/\/www.safetynews.co.kr\/news\/articleView.html?idxno=214315",
+			"description":"경기도교육청이 28일부터 11월 말까지 교직원 스트레스 진단과 <b>관리<\/b>를 통해 심리와 정서 안정을 돕는 &apos;2022 교직원 마음건강 증진<b>사업<\/b>&apos;을 운영한다. 이 <b>사업<\/b>은 교직원 일상이나 <b>직무<\/b> 관련 번아웃 등 심리적 어려움을 살펴... ",
+			"pubDate":"Tue, 02 Aug 2022 10:44:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, &apos;청년연계형 내일채움공제&apos; 판매",
+			"originallink":"http:\/\/www.kbanker.co.kr\/news\/articleView.html?idxno=205727",
+			"link":"http:\/\/www.kbanker.co.kr\/news\/articleView.html?idxno=205727",
+			"description":"7월 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... 또 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다. 대상은 고용노동부가... ",
+			"pubDate":"Tue, 02 Aug 2022 10:44:00 +0900"
+		},
+		{
+			"title":"천안시, 건설업체 직원 대상 사고 예방 ‘안전교육’ 실시",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202208020954565460369",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202208020954565460369",
+			"description":"안전장비 지원<b>사업<\/b> 등의 내용을 다뤘다. 이경배 건설교통국장 <b>직무<\/b>대리는 “앞으로도 현장 관계자의 안전의식 제고를 위한 주기적인 교육을 실시하고 현장 밀착 <b>관리<\/b>도 병행하겠다”고 말했다. 천안= ksg4610@",
+			"pubDate":"Tue, 02 Aug 2022 10:42:00 +0900"
+		},
+		{
+			"title":"IBK기업은행, 금융권 최초 &apos;청년연계형 내일채움공제&apos; 판매",
+			"originallink":"http:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=99277",
+			"link":"http:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=99277",
+			"description":"지난달 29일 서울 을지로 기업은행 IFT에서 임찬희 기업은행 자산<b>관리<\/b>그룹장(왼쪽)과 안정곤... 또 가입자를 대상으로 <b>직무<\/b>역량 E-러닝, 단체상해보험 가입, 휴가비 지원 등 교육‧복지서비스를 제공한다. 대상은... ",
+			"pubDate":"Tue, 02 Aug 2022 10:42:00 +0900"
+		},
+		{
+			"title":"한 번의 안타를 위해 99번의 아웃을 참아내야 하는 스타트업 [이진열의 스타트...",
+			"originallink":"https:\/\/magazine.hankyung.com\/job-joy\/article\/202208020400d",
+			"link":"https:\/\/magazine.hankyung.com\/job-joy\/article\/202208020400d",
+			"description":"필자는 <b>사업<\/b> 초기, 해당 브랜드의 가맹점주로 실버산업에 들어와 본사까지 인수한 히스토리를 갖고 있기도... 마지막으로 재가요양서비스, 특히 방문요양서비스는 ‘인력 <b>관리<\/b>’가 좋은 서비스의 본질이라는 점에서... ",
+			"pubDate":"Tue, 02 Aug 2022 10:16:00 +0900"
+		},
+		{
+			"title":"&apos;일도 공부도 열심히&apos; <b>관리<\/b> 쟁점사항 토론 통해 해결!",
+			"originallink":"http:\/\/www.hapt.co.kr\/news\/articleView.html?idxno=156249",
+			"link":"http:\/\/www.hapt.co.kr\/news\/articleView.html?idxno=156249",
+			"description":"공동주택<b>관리<\/b>법과 <b>관리<\/b>규약, <b>사업<\/b>자 선정지침 등을 토의하고 쟁점사항을 풀어나가는 방식으로 진행할 예정이다. 서금석 회장은 &quot;스스로 공부하고 답을 찾는 자기주도적 학습을 통해 실력과 <b>직무<\/b>능력을 향상시켜 현장의... ",
+			"pubDate":"Tue, 02 Aug 2022 09:18:00 +0900"
+		},
+		{
+			"title":"관악구, 서울대학교 입학설명회 개최한 의미?",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022080207171691802",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005126554?sid=102",
+			"description":"◆구로구 인사 &lt;5급 전보&gt; ▲구정연구반장 <b>직무<\/b>대리 이상대 ▲기획예산과장 강월순 ▲지역경제과장 김안순... 통해 ▲고도지구 <b>관리<\/b> 방안 수립 ▲생활권계획 실행방안 수립 ▲성대야구장 개발 ▲준역세권활성화<b>사업<\/b>... ",
+			"pubDate":"Tue, 02 Aug 2022 07:27:00 +0900"
+		},
+		{
+			"title":"매경이 전하는 세상의 지식(매-세-지, 8월 2일)",
+			"originallink":"https:\/\/premium.mk.co.kr\/view.php?no=32256",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004999144?sid=102",
+			"description":"롯데제과와 현대오일뱅크가 바이오<b>사업<\/b>을 전략적 제휴를 위한 양해각서를 체결. 롯데제과가 국내외 식료품... 고위험군-일반<b>관리<\/b>군의 구분을 없애고, 증상이 있으면 대면 진료를 즉시 받도록 하는게 이번 개편의 핵심... ",
+			"pubDate":"Tue, 02 Aug 2022 07:02:00 +0900"
+		},
+		{
+			"title":"대구과학대 일본어, 영어 썸머 캠프 실시",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220802010000160",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220802010000160",
+			"description":"및 <b>관리<\/b>자 전원은 매일 2회 이상 건강 상태 점검, 마스크 필수 착용, 손 위생을 철저히 이행토록 했다.박지은 총장은 &quot;학생들의 해외 리더십 연수, 해외 <b>직무<\/b> 실습교육 등 해외 취업 역량을 쌓을 수 있도록 의사소통 능력... ",
+			"pubDate":"Tue, 02 Aug 2022 06:34:00 +0900"
+		},
+		{
+			"title":"政, 스마트공장 지원<b>사업<\/b> &apos;코로나19 관련 기업&apos; 우대한다",
+			"originallink":"http:\/\/www.press9.kr\/news\/articleView.html?idxno=52267",
+			"link":"http:\/\/www.press9.kr\/news\/articleView.html?idxno=52267",
+			"description":"지원<b>사업<\/b> 선정 기업은 제조현장 진단을 통해 설비, 공장 레이아웃 최적화, 창고<b>관리<\/b> 등 향상을 지원받는다.... 또한 삼성전자로부터 개발·품질·제조·판매 등 <b>직무<\/b>별 특화교육 등의 인력양성 프로그램을 지원받을 수... ",
+			"pubDate":"Tue, 02 Aug 2022 06:02:00 +0900"
+		},
+		{
+			"title":"&apos;비대면진료 플랫폼 가이드라인&apos; 확정 임박…&apos;기존안 유지&apos;",
+			"originallink":"http:\/\/www.bosa.co.kr\/news\/articleView.html?idxno=2178450",
+			"link":"http:\/\/www.bosa.co.kr\/news\/articleView.html?idxno=2178450",
+			"description":"적극적 <b>관리<\/b>방안을 모색하도록 해 사후문제가 발생하지 않도록 조치하기도 했다. 이와 관련, 복지부 이창준 보건의료정책실장 <b>직무<\/b>대리는 지난 27일 플랫폼 업체 간담회에서 &quot;모든 의료행위는 국민 건강 및 생명과... ",
+			"pubDate":"Tue, 02 Aug 2022 06:02:00 +0900"
+		},
+		{
+			"title":"[시론] 글로벌 건설현장에서 목격한 공학기술자 <b>직무<\/b>와 일하는 방식",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207311637575200979",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207311637575200979",
+			"description":"초대형 <b>사업<\/b>이라 조직과 프로젝트<b>관리<\/b>(PM)가 중요하다. <b>사업<\/b> 초기 과학자그룹이 주도하고 있어 프로젝트에... 그룹 간 역할과 <b>직무<\/b> 경계선이 분명하게 그어져 있다. 인류 최초로 시도하는 거대한 실험시설이기 때문에... ",
+			"pubDate":"Tue, 02 Aug 2022 05:12:00 +0900"
+		},
+		{
+			"title":"AI·SW 온라인 코딩입문훈련 교육과정 운영",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=433807",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=433807",
+			"description":"이번 AI·SW 온라인 코딩입문훈련 교육과정 운영 <b>사업<\/b>은 과학기술정보통신부와 정보통신산업진흥원... 버전<b>관리<\/b> 형상<b>관리<\/b> 영상으로 구성되어 있으며, 유튜브 ‘엘리스코딩 elice’ 채널(eli.so\/pre-training)을... ",
+			"pubDate":"Mon, 01 Aug 2022 23:56:00 +0900"
+		},
+		{
+			"title":"[오늘의 인사] 국방부·방위<b>사업<\/b>청·한국철도기술연구원 外",
+			"originallink":"http:\/\/www.mediapen.com\/news\/view\/743031",
+			"link":"http:\/\/www.mediapen.com\/news\/view\/743031",
+			"description":"방위<b>사업<\/b>교육원장 윤창문 ◇ 과장급 ▲ 표준기획과장 이도훈 [인사] 국방부 ◇ 과장급 ▲ 기획<b>관리<\/b>관실... 태화동장 <b>직무<\/b>대리 나중철 ◇ 5급 전보 ▲ 정책<b>사업<\/b>단장 민병률 ▲ 문화관광과장 이동찬 ▲ 세무1과장 김형철... ",
+			"pubDate":"Mon, 01 Aug 2022 22:02:00 +0900"
+		},
+		{
+			"title":"[EBN 오늘(1일) 이슈 종합] 은행권 가상자산 진출, 동국제강 브라질제철소 매...",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1540917\/?sc=Naver",
+			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1540917\/?sc=Naver",
+			"description":"■[단독] &apos;공사 재개 합의&apos; 둔촌주공 내년 1월 일반분양 추진 서울 강동구 둔촌주공아파트 재건축 <b>사업<\/b>이... 조합장 <b>직무<\/b>대행은 지난달 30일 오후 3시 동북고등학교에서 대의원 간담회를 열고 &quot;오는 12월 <b>관리<\/b>처분총회를... ",
+			"pubDate":"Mon, 01 Aug 2022 21:10:00 +0900"
+		},
+		{
+			"title":"격랑의 국민의힘…충북 정관가 ‘비상’",
+			"originallink":"https:\/\/www.inews365.com\/news\/article.html?no=725621",
+			"link":"https:\/\/www.inews365.com\/news\/article.html?no=725621",
+			"description":"도에 따르면 충청권 예산정책협의회에는 권성동 당대표 <b>직무<\/b>대행 겸 원내대표를 비롯해 성일종 정책위의장... 지역 현안인 청주국제공항 신활주 재포장(총<b>사업<\/b>비 1천100억 원)을 위한 실시설계비 10억 원을 비롯해... ",
+			"pubDate":"Mon, 01 Aug 2022 20:44:00 +0900"
+		},
+		{
+			"title":"바이오진흥원, 국가인적자원개발컨소시엄 전략분야 공동훈련센터 선정",
+			"originallink":"http:\/\/sjbnews.com\/news\/news.php?number=753015",
+			"link":"http:\/\/sjbnews.com\/news\/news.php?number=753015",
+			"description":"교육훈련 <b>사업<\/b>으로, 전라권, 충청권 까지 아우르는 광역권 교육센터이다. 이를 위해고용노동부와 전라북도는... 재직자 <b>직무<\/b>역량 강화를 통해 농생명 혁신 클러스터 구축을 위한 교육 혁신 거점을 구축해 나갈 계획이다.... ",
+			"pubDate":"Mon, 01 Aug 2022 20:16:00 +0900"
+		},
+		{
+			"title":"전북바이오융합교육센터 2024년까지 건립",
+			"originallink":"http:\/\/www.jjn.co.kr\/news\/articleView.html?idxno=916847",
+			"link":"http:\/\/www.jjn.co.kr\/news\/articleView.html?idxno=916847",
+			"description":"교육훈련 <b>사업<\/b>으로, 전라권, 충청권까지 아우르는 광역권 교육센터이다. 이를 위해 고용노동부와... 재직자 <b>직무<\/b>역량 강화를 통해 농생명 혁신 클러스터 구축을 위한 교육 혁신 거점을 구축해 나갈 계획이다. 교육센터... ",
+			"pubDate":"Mon, 01 Aug 2022 19:40:00 +0900"
+		},
+		{
+			"title":"로봇산업진흥원, 하반기 신규직원 9명 채용…시험인증분야 등 11일까지 접수",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2108618",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2108618",
+			"description":"2명, <b>사업<\/b>계약직 6명, 상근계약직 1명)을 채용한다고 밝혔다. 모집분야는 시험인증, 구매, 안전, 전기, 건축공정<b>관리<\/b>, 연구개발, 장비구축 및 운영, 경비를 모집한다. 진흥원은 국가<b>직무<\/b>능력표준(NCS) 채용방식을... ",
+			"pubDate":"Mon, 01 Aug 2022 19:24:00 +0900"
+		},
+		{
+			"title":"공공기관 개혁 쓰나미 경기도 덮치나… 道 산하기관 신설 빨간불",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363552597",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363552597",
+			"description":"부실<b>사업<\/b>과 비핵심자산을 정리토록 해 재무건전성 강화를 구축한다. 또한 기관 설립부터 운영·해산 <b>관리<\/b>의 사각지대를 보완하고 인사·보수 등 <b>직무<\/b>·성과 중심으로 전환하는 <b>관리<\/b>체계 개편에 돌입할 예정이다. 이에 따라... ",
+			"pubDate":"Mon, 01 Aug 2022 18:46:00 +0900"
+		},
+		{
+			"title":"건설근로자와 <b>사업<\/b>주를 위한 전자카드제, 한발 더 다가갑니다[영상]",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5796127",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003670705?sid=102",
+			"description":"건설 현장 출퇴근 시마다 전자카드를 태그하여 현장 출퇴근 내용을 실시간으로 기록·<b>관리<\/b>하고, <b>사업<\/b>주는... 건설근로자공제회(송문현 이사장 <b>직무<\/b>대행)에서는 제도 확대 이후 건설 <b>사업<\/b>주의 혼란을 최소화하기 위하여... ",
+			"pubDate":"Mon, 01 Aug 2022 18:31:00 +0900"
+		},
+		{
+			"title":"[인사] 경기도 외",
+			"originallink":"http:\/\/www.readersnews.com\/news\/articleView.html?idxno=106442",
+			"link":"http:\/\/www.readersnews.com\/news\/articleView.html?idxno=106442",
+			"description":"행정<b>관리<\/b>담당관 송용욱 ▲ 군관협력담당관 인치권 ▲ 평화협력과장 홍원표 ▲ 노동정책과장 김정일... 태화동장 <b>직무<\/b>대리 나중철 ◇ 5급 전보 ▲ 정책<b>사업<\/b>단장 민병률 ▲ 문화관광과장 이동찬 ▲ 세무1과장 김형철... ",
+			"pubDate":"Mon, 01 Aug 2022 17:58:00 +0900"
+		},
+		{
+			"title":"[2023 수시 입학정보] 영남이공대학교",
+			"originallink":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205840",
+			"link":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205840",
+			"description":"및 <b>직무<\/b>멘토링 <b>사업<\/b> 선정, 고교단계 일학습병행 공동훈련센터 지원기관 선정, 전력기반차 e-DS 핵심부품산업... 매칭·사후<b>관리<\/b> 서비스 제공 ▲청년고용정책 체감도 제고 ▲지역청년고용 거버넌스 기반 고용지원 서비스... ",
+			"pubDate":"Mon, 01 Aug 2022 17:54:00 +0900"
+		},
+		{
+			"title":"[2023 수시 입학정보] 연암대학교",
+			"originallink":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205839",
+			"link":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205839",
+			"description":"가축사양<b>관리<\/b>기술, 스마트축사 구축 및 운영기술, 스마트축산 응용 및 융합기술 등 총 16개 과목을 운영할 계획이다. 나아가 ▲현장<b>직무<\/b> 중심 기술연구 ▲애로기술 개발과 적용 ▲선도 융합기술에 대한 현장 R&amp;D 등을... ",
+			"pubDate":"Mon, 01 Aug 2022 17:52:00 +0900"
+		},
+		{
+			"title":"한국로봇산업진흥원, 하반기 신규직원 9명 공개 채용",
+			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490586",
+			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490586",
+			"description":"모집 분야는 시험인증, 구매, 안전, 전기, 건축공정<b>관리<\/b>, 연구개발, 장비구축 및 운영, 경비 부문이다. 채용 형태는 각각 무기계약직 2명, <b>사업<\/b>계약직 6명, 상근계약직 1명이다. 진흥원은 국가<b>직무<\/b>능력표준(NCS)을... ",
+			"pubDate":"Mon, 01 Aug 2022 17:50:00 +0900"
+		},
+		{
+			"title":"김창기 국세청장, 세무조사 줄이고 민생안정 지원나선다",
+			"originallink":"https:\/\/www.sejungilbo.com\/news\/articleView.html?idxno=38757",
+			"link":"https:\/\/www.sejungilbo.com\/news\/articleView.html?idxno=38757",
+			"description":"이날 국세청은 세수<b>관리<\/b> 방향, 납세서비스 개선, 민생경제 안정을 위한 세정지원 강화, 국세행정 투명성 및 책임성 확보, 공정과세 구현을 위한 신중하고 엄중한 세정운영, 조직문화 혁신으로 국세행정 역량 강화 등 다섯... ",
+			"pubDate":"Mon, 01 Aug 2022 17:48:00 +0900"
+		},
+		{
+			"title":"[8월 1일 인사] 국방부·기상청·경찰청·동반성장위원회·TV조선 外",
+			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220801500327",
+			"link":"https:\/\/www.news2day.co.kr\/article\/20220801500327",
+			"description":"과장급 ▷기획<b>관리<\/b>관실 조직총괄담당관 신태복 ▷기획<b>관리<\/b>관실 기획총괄담당관 김경욱 ▷대변인실... 신동학 ▷태화동장 <b>직무<\/b>대리 나중철 ◇ 5급 전보 ▷정책<b>사업<\/b>단장 민병률 ▷문화관광과장 이동찬 ▷세무1과장 김형철... ",
+			"pubDate":"Mon, 01 Aug 2022 17:46:00 +0900"
+		},
+		{
+			"title":"[2023 수시 입학정보] 신성대학교",
+			"originallink":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205835",
+			"link":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205835",
+			"description":"이후 교육부 주관 재정지원<b>사업<\/b>인 ▲우수공업계대학 ▲특성화 우수대학 ▲주문식교육 우수대학 ▲5년 연속... 활용해 &apos;<b>직무<\/b>능력성취도 시스템&apos;을 운영 중이다. 아울러 캡스톤디자인 과목을 정규과목에 편성하는 등... ",
+			"pubDate":"Mon, 01 Aug 2022 17:44:00 +0900"
+		},
+		{
+			"title":"[2023 수시 입학정보] 대구보건대학교",
+			"originallink":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205832",
+			"link":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205832",
+			"description":"DHC-드림스토리는 전공 <b>직무<\/b>역량뿐만 아니라 사회가 요구하는 미래 핵심역량을 갖춘 인재를 양성하기 위한 이 대학의 특화된 비교과 <b>관리<\/b>시스템이다. DHC-드림스토리는 6대 핵심역량을 향상시키기 위해 설계된... ",
+			"pubDate":"Mon, 01 Aug 2022 17:36:00 +0900"
+		},
+		{
+			"title":"표준협회, AI·SW 실무 기술인력 양성한다",
+			"originallink":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=62636",
+			"link":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=62636",
+			"description":"이 <b>사업<\/b>은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 <b>사업<\/b>으로 실습 중심 코딩입문... 버전<b>관리<\/b> 형상<b>관리<\/b> 영상 등 7종으로 구성됐다. AI·SW 실무과정은 각 60시간 과정으로 개발인력 3500명 양성을... ",
+			"pubDate":"Mon, 01 Aug 2022 17:16:00 +0900"
+		},
+		{
+			"title":"전북도, 국가인적자원개발 컨소시엄 공동훈련센터 공모<b>사업<\/b> 선정!!",
+			"originallink":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=525515",
+			"link":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=525515",
+			"description":"공모 <b>사업<\/b>에 전북바이오융합산업진흥원(원장 김동수)이 선정됐다고 밝혔다. 국가인적자원개발컨소시엄은... 재직자 <b>직무<\/b>역량 강화에 초점을 맞출 계획이다. 교육진행은 오는 9월부터 전북바이오융합산업진흥원에서... ",
+			"pubDate":"Mon, 01 Aug 2022 17:04:00 +0900"
+		},
+		{
+			"title":"[2023 수시 입학정보] 청운대학교",
+			"originallink":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205817",
+			"link":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205817",
+			"description":"국가근로장학<b>사업<\/b> 취업연계중점대학 최대 수혜 대학 또한 청운대는 교육부와 한국장학재단이 주관하는... 현장<b>직무<\/b>능력을 갖출 수 있다. 또한 자기주도학습을 넘어 학생 스스로 교육과정을 설계해 이수할 수 있는... ",
+			"pubDate":"Mon, 01 Aug 2022 16:44:00 +0900"
+		},
+		{
+			"title":"[SR기획-ESG 선두기업] &lt;25&gt;정몽진 KCC 회장 &quot;지속가능 가치 창출하는 응용소...",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=118038",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=118038",
+			"description":"KCC 관계자는 &quot;회사 내 모든 국내 <b>사업<\/b>장은 화학물질<b>관리<\/b>법, 대기환경보전법, 수질 및 수생태계 보전에 관한... KCC 관계자는 &quot;사외이사의 전문적인 <b>직무<\/b> 수행을 위해 이사회 및 위원회 개최 전에 안건 내용을 충분히... ",
+			"pubDate":"Mon, 01 Aug 2022 16:40:00 +0900"
+		},
+		{
+			"title":"오늘의 인사 종합",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03457126632423056",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005281571?sid=102",
+			"description":"과장급 △기획<b>관리<\/b>관실 조직총괄담당관 신태복 △기획<b>관리<\/b>관실 기획총괄담당관 김경욱 △대변인실... 신동학 △태화동장 <b>직무<\/b>대리 나중철 ◇5급 전보 △정책<b>사업<\/b>단장 민병률 △문화관광과장 이동찬 △세무1과장 김형철... ",
+			"pubDate":"Mon, 01 Aug 2022 16:30:00 +0900"
+		},
+		{
+			"title":"표준협회, AI·SW 온라인 코딩입문훈련 교육과정 운영",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202208011617296079",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004876261?sid=101",
+			"description":"2022년도 AI·SW 온라인 코딩입문훈련 교육과정 운영 <b>사업<\/b>은 과학기술정보통신부와 정보통신산업진흥원... 버전<b>관리<\/b> 형상<b>관리<\/b> 영상으로 구성되어 있으며, 유튜브 ‘엘리스코딩 elice’ 채널(eli.so\/pre-training)을 통해... ",
+			"pubDate":"Mon, 01 Aug 2022 16:20:00 +0900"
+		},
+		{
+			"title":"【인사】고성군",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220801010000293",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220801010000293",
+			"description":"고성군 ◇ 승진 &lt;4급 승진&gt; ▲박정규 행정복지국장 &lt;5급 승진&gt; ▲장혜정 영현면장 <b>직무<\/b>대리 ▲이기동 하이면장... 관광지<b>사업<\/b> ▲이지은 군정혁신담당관 ▲조환성 농촌정책과 ▲한수영 안전<b>관리<\/b>과 ▲김진혁 보건소 ▲최영일... ",
+			"pubDate":"Mon, 01 Aug 2022 16:18:00 +0900"
+		},
+		{
+			"title":"청주폴리텍대 지역산업맞춤형 인력양성교육 수료",
+			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=667810",
+			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=667810",
+			"description":"［동양일보 지영수 기자］한국폴리텍대 청주캠퍼스(학장 <b>직무<\/b>대리 전상철)는 지난 28일 대학본부... 인력양성<b>사업<\/b>을 2014년부터 펼쳐왔다. 충북지역 협약기업의 수요를 반영한 기업수요 맞춤형 교육으로 2021년... ",
+			"pubDate":"Mon, 01 Aug 2022 15:50:00 +0900"
+		},
+		{
+			"title":"대전 서구, 하반기 공공일자리<b>사업<\/b> 본격 운영",
+			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=854830",
+			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=854830",
+			"description":"및 <b>사업<\/b>별 담당자 49명을 대상으로 산업안전 교육, 산업보건 교육 등 <b>직무<\/b> 관련 교육과 근로조건을 설명하는... 일자리로의 전환을 도울 계획&quot;이라며 &quot;여름철 건강<b>관리<\/b> 및 안전사고예방에 각별히 주의할 것&quot;을 당부했다.",
+			"pubDate":"Mon, 01 Aug 2022 15:50:00 +0900"
+		},
+		{
+			"title":"&quot;대전시와 시교육청은 영양교사들의 간절함을 외면 마라&quot;",
+			"originallink":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=273708",
+			"link":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=273708",
+			"description":"납품업체 <b>관리<\/b> 문제점 개선&apos;을 꼽으며 &quot;납품업체와의 갈등을 방관하는 시교육청은 각성해야 할 것&quot;이라고... 마지막 제언은 &apos;영양(교)<b>사 업<\/b>무경감&apos;이다. 전교조가 실시한 영양교사 <b>직무<\/b>스트레스 설문조사에 따르면, 전체... ",
+			"pubDate":"Mon, 01 Aug 2022 15:46:00 +0900"
+		},
+		{
+			"title":"대전 서구, 하반기 공공일자리<b>사업<\/b> 본격 운영",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2520377",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2520377",
+			"description":"및 <b>사업<\/b>별 담당자 49명을 대상으로 산업안전 교육, 산업보건 교육 등 <b>직무<\/b> 관련 교육과 근로조건을 설명하는... 계획&quot;이라며, &quot;여름철 건강<b>관리<\/b> 및 안전사고예방에 각별히 주의할 것&quot;을 당부했다. 민영뉴스통신사 국제뉴스",
+			"pubDate":"Mon, 01 Aug 2022 15:46:00 +0900"
+		},
+		{
+			"title":"구미, 투 트랙 전보인사로 전문가 키운다",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1582333",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1582333",
+			"description":"인사<b>관리<\/b>’를 진행한다. ‘순환전보’를 실국 내 이동을 원칙으로 삼아 업무분야별 특성에 따른 전문가를... 시정역점<b>사업<\/b>을 추진하는 <b>직무<\/b>에는 중요<b>직무<\/b>급 수당을 지급하는 등 실질적 보상과 우대를 받을 수 있도록... ",
+			"pubDate":"Mon, 01 Aug 2022 15:44:00 +0900"
+		},
+		{
+			"title":"표준협회, AI·SW 온라인 코딩입문훈련 교육과정 운영",
+			"originallink":"http:\/\/www.etnews.com\/20220801000232",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003034189?sid=101",
+			"description":"이 <b>사업<\/b>은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 <b>사업<\/b>이다. 실습 중심 코딩입문... 버전<b>관리<\/b> 형상<b>관리<\/b> 영상 등 7종으로 구성됐다. AI·SW 실무과정은 각 60시간 과정으로 개발인력 3500명 양성을... ",
+			"pubDate":"Mon, 01 Aug 2022 15:29:00 +0900"
+		},
+		{
+			"title":"한국로봇산업진흥원 신규 직원 채용",
+			"originallink":"http:\/\/www.idaegu.com\/newsView\/idg202208010043",
+			"link":"http:\/\/www.idaegu.com\/newsView\/idg202208010043",
+			"description":"채용 인원은 무기계약직 2명, <b>사업<\/b>계약직 6명, 상근계약직 1명이다. 모집 분야는 시험인증, 구매, 안전, 전기, 건축공정<b>관리<\/b>, 연구개발, 장비구축 및 운영, 경비다. 로봇진흥원은 국가<b>직무<\/b>능력표준(NCS) 채용방식을... ",
+			"pubDate":"Mon, 01 Aug 2022 15:26:00 +0900"
+		},
+		{
+			"title":"[2023 수시 입학정보] 서울시립대학교",
+			"originallink":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205795",
+			"link":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205795",
+			"description":"신규<b>사업<\/b>에 선정됨에 따라 서울시립대를 중심축으로 청년 창업밸리를 조성해 나가고 있다. 더 나아가 올해는 서울시가 시범운영하는 &apos;캠퍼스타운형 취업사관학교&apos; 시범운영 대학으로 선정돼 <b>직무<\/b>역량 교육 등... ",
+			"pubDate":"Mon, 01 Aug 2022 15:24:00 +0900"
+		},
+		{
+			"title":"인사-8월 1일",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20220801500398",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20220801500398",
+			"description":"인사 △기획<b>관리<\/b>관실 조직총괄담당관 신태복 △기획<b>관리<\/b>관실 기획총괄담당관 김경욱 △대변인실... 신동학 △태화동장 <b>직무<\/b>대리 나중철 ◇ 5급 전보 △정책<b>사업<\/b>단장 민병률 △문화관광과장 이동찬 △세무1과장 김형철... ",
+			"pubDate":"Mon, 01 Aug 2022 15:20:00 +0900"
+		},
+		{
+			"title":"[2023 수시 입학정보] 삼육대학교",
+			"originallink":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205788",
+			"link":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205788",
+			"description":"AI·SW 핵심역량 갖춘 &apos;건강과학 융합인재&apos; 양성 &apos;SW중심대학&apos; <b>사업<\/b> 선정…6년간 60억 지원 받아... SW중심학과인 컴퓨터공학부와 인공지능융합학부 외에도 간호학과, 물리치료학과, 보건<b>관리<\/b>학과, 사회복지학과... ",
+			"pubDate":"Mon, 01 Aug 2022 15:14:00 +0900"
+		},
+		{
+			"title":"[2023 수시 입학정보] 목원대학교",
+			"originallink":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205786",
+			"link":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205786",
+			"description":"이상의 <b>직무<\/b> 능력을 융합하는 것이 필요하다면 이를 제한 없이 습득할 수 있도록 지원하는 것이 목원대의 목표다. 평가·인증으로 공인된 교육혁신 목원대의 교육혁신은 교육부 주관 &apos;산학연협력 선도대학 육성<b>사업<\/b>&apos;(LINC... ",
+			"pubDate":"Mon, 01 Aug 2022 15:10:00 +0900"
+		},
+		{
+			"title":"[기업성장 컨설팅] 가지급금은 세무상 불이익의 원인이다",
+			"originallink":"http:\/\/www.etnews.com\/20220801000022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003034177?sid=101",
+			"description":"회계<b>관리<\/b>에 소홀한 경우 등이 가지급금의 발생 원인이다. 가지급금은 사용하는 동안은 달콤하다. 하지만... 연구소, <b>직무<\/b>발명보상제도, 기업 신용평가, 기업 인증, 개인<b>사업<\/b>자 법인전환, 신규 법인 설립, 상속, 증여... ",
+			"pubDate":"Mon, 01 Aug 2022 15:02:00 +0900"
+		},
+		{
+			"title":"대전 서구, 하반기 공공일자리<b>사업<\/b> 본격 운영",
+			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=264801",
+			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=264801",
+			"description":"및 <b>사업<\/b>별 담당자 49명을 대상으로 산업안전 교육, 산업보건 교육 등 <b>직무<\/b> 관련 교육과 근로조건을 설명하는... 일자리로의 전환을 도울 계획&quot;이라며, &quot;여름철 건강<b>관리<\/b> 및 안전사고예방에 각별히 주의할 것&quot;을 당부했다.",
+			"pubDate":"Mon, 01 Aug 2022 14:54:00 +0900"
+		},
+		{
+			"title":"전북바이오융합산업진흥원, 국가인적자원개발 컨소시엄 공모<b>사업<\/b> 선정",
+			"originallink":"http:\/\/www.smartfn.co.kr\/view.php?ud=20220801142018645502c37af707_46",
+			"link":"http:\/\/www.smartfn.co.kr\/view.php?ud=20220801142018645502c37af707_46",
+			"description":"공모 <b>사업<\/b>에 선정됐다고 1일 밝혔다. 국가인적자원개발컨소시엄은 교육훈련기관이 중소기업과 협약을 맺고... 재직자 <b>직무<\/b>역량 강화에 초점을 맞출 계획이다. 교육진행은 오는 9월부터 전북바이오융합산업진흥원에서... ",
+			"pubDate":"Mon, 01 Aug 2022 14:46:00 +0900"
+		},
+		{
+			"title":"서울디지털대, 한국위험물안전협회와 제휴협약 체결",
+			"originallink":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=62623",
+			"link":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=62623",
+			"description":"주요 업무 협약 내용은 ▲한국위험물안전협회 구성원의 <b>직무<\/b>능력 향상과 자기계발(학위, 다양한 자격증... 또한 재난안전사고 관련 피해자, 유자녀 지원<b>사업<\/b>과 안전<b>관리<\/b> 대행기관의 운영<b>사업<\/b> 등을 진행하고 있다. 이봉우... ",
+			"pubDate":"Mon, 01 Aug 2022 14:44:00 +0900"
+		},
+		{
+			"title":"서울디지털대-한국위험물안전협회, 제휴협력 업무협약 체결",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022080114067456578",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004777728?sid=102",
+			"description":"협약의 주요 내용은 △한국위험물안전협회 구성원의 <b>직무<\/b>능력 향상과 자기계발(학위 및 다양한 자격증 취득)... 또 재난안전사고 관련 피해자, 유자녀 지원<b>사업<\/b>과 안전<b>관리<\/b> 대행기관 <b>사업<\/b>을 운영한다. 이 학과장은 &quot;이번... ",
+			"pubDate":"Mon, 01 Aug 2022 14:29:00 +0900"
+		},
+		{
+			"title":"둔촌주공 &apos;공사 재개&apos; 둘러싼 엇갈린 희망과 그림자",
+			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=575307",
+			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=575307",
+			"description":"것 △조합 <b>직무<\/b>대행자는 강동구청에 집행부 선출을 위한 선거<b>관리<\/b>위원회 구성을 요청할 것 △시공<b>사업<\/b>단은 위원회의 공사재개 관련 협의에 적극 협조할 것 등이다. 무엇보다 업계 이목을 사로잡은 건 &apos;<b>사업<\/b>정상화위원회... ",
+			"pubDate":"Mon, 01 Aug 2022 14:18:00 +0900"
+		},
+		{
+			"title":"한국로봇산업진흥원, 하반기 신규직원 9명 공개 채용",
+			"originallink":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29148",
+			"link":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29148",
+			"description":"2명, <b>사업<\/b>계약직 6명, 상근계약직 1명)을 채용한다고 밝혔다. 모집분야는 시험인증, 구매, 안전, 전기, 건축공정<b>관리<\/b>, 연구개발, 장비구축 및 운영, 경비를 모집한다. 진흥원은 국가<b>직무<\/b>능력표준(NCS) 채용방식을... ",
+			"pubDate":"Mon, 01 Aug 2022 14:14:00 +0900"
+		},
+		{
+			"title":"서귀포시, &apos;깨끗한 축산농장&apos; 지정신청 독려",
+			"originallink":"http:\/\/www.newsjeju.net\/news\/articleView.html?idxno=380817",
+			"link":"http:\/\/www.newsjeju.net\/news\/articleView.html?idxno=380817",
+			"description":"내․외부를 <b>관리<\/b>해 안전한 축산물을 생산하며 쾌적한 환경을 조성하는 농장을 말한다. 서귀포시가 2017년부터 추진해온 깨끗한 축산농장 조성<b>사업<\/b>은 현재까지 총 77개소(한우 42, 돼지 29, 닭 6)가 지정됐다. 올해도... ",
+			"pubDate":"Mon, 01 Aug 2022 14:06:00 +0900"
+		},
+		{
+			"title":"희망어린이공원 쾌적한 놀이공간으로 탈바꿈",
+			"originallink":"http:\/\/www.newsjeju.net\/news\/articleView.html?idxno=380813",
+			"link":"http:\/\/www.newsjeju.net\/news\/articleView.html?idxno=380813",
+			"description":"서귀포시(서귀포시장 <b>직무<\/b>대리 부시장 한웅)는 원도심에 위치한 희망어린이공원(동홍동 87-4번지) 놀이시설... 이번 <b>사업<\/b>은 2022년 소방안전교부세 안전분야(도시공원 안전 유지<b>관리<\/b>) 공모<b>사업<\/b> 선정을 통해 확보된 <b>사업<\/b>비... ",
+			"pubDate":"Mon, 01 Aug 2022 13:52:00 +0900"
+		},
+		{
+			"title":"[더벨][CFO 인사 코드]GS그룹 CFO, &apos;전문경영인&apos; 영전 줄잇는다",
+			"originallink":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202207201004239960104560",
+			"link":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202207201004239960104560",
+			"description":"인물들은 <b>직무<\/b>를 마친 후 어느 자리로 향할까. 주요 계열사 9곳에 몸담았던 CFO 21명의 경력을 조사한 결과 절반 이상이 &apos;계열사 최고경영자(CEO)&apos;로 영전했다. CFO를 단순한 자금 <b>관리<\/b>자가 아닌, 다양한 <b>사업<\/b> 영역을... ",
+			"pubDate":"Mon, 01 Aug 2022 13:48:00 +0900"
+		},
+		{
+			"title":"서울디지털대, 한국위험물안전협회 MOU 체결",
+			"originallink":"http:\/\/www.etnews.com\/20220801000121",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003034118?sid=102",
+			"description":"이번 협약으로 △한국위험물안전협회 구성원의 <b>직무<\/b>능력 향상과 자기계발(학위 및 다양한 자격증 취득)기회... 또한 재난안전사고 관련 피해자, 유자녀 지원<b>사업<\/b>과 안전<b>관리<\/b> 대행기관의 운영<b>사업<\/b> 등을 진행하고 있다.... ",
+			"pubDate":"Mon, 01 Aug 2022 13:45:00 +0900"
+		},
+		{
+			"title":"&apos;레고랜드 특수목적법인&apos; 강원도의회 견제 사각지대",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5795836",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003670523?sid=102",
+			"description":"도의회 <b>관리<\/b>감독 미비 &quot;조속한 <b>사업<\/b>추진 위한 주식회사 형태&quot; 해명 &quot;도유지 및 강원도 지원으로 운영... 또 다른 임직원들은 회사 자본금을 임의로 유용하고 <b>직무<\/b> 태만, 회계질서 문란, 업무 지시 위반 등으로 퇴직한... ",
+			"pubDate":"Mon, 01 Aug 2022 13:41:00 +0900"
+		},
+		{
+			"title":"한국로봇산업진흥원, 하반기 신규직원 공채",
+			"originallink":"http:\/\/www.koit.co.kr\/news\/articleView.html?idxno=100805",
+			"link":"http:\/\/www.koit.co.kr\/news\/articleView.html?idxno=100805",
+			"description":"2명, <b>사업<\/b>계약직 6명, 상근계약직 1명)을 채용한다고 최근 밝혔다. 모집분야는 시험인증, 구매, 안전, 전기, 건축공정<b>관리<\/b>, 연구개발, 장비구축 및 운영, 경비 등이다. KIRIA는 국가<b>직무<\/b>능력표준(NCS) 채용방식을... ",
+			"pubDate":"Mon, 01 Aug 2022 13:40:00 +0900"
+		},
+		{
+			"title":"전북바이오진흥원, 전략분야 공동훈련센터 선정...국비 94억원 확보",
+			"originallink":"http:\/\/www.jeollailbo.com\/news\/articleView.html?idxno=663605",
+			"link":"http:\/\/www.jeollailbo.com\/news\/articleView.html?idxno=663605",
+			"description":"교육훈련 <b>사업<\/b>으로, 전라권, 충청권 까지 아우르는 광역권 교육센터이다. 이를 위해고용노동부와 전라북도는... 재직자 <b>직무<\/b>역량 강화를 통해 농생명 혁신 클러스터 구축을 위한 교육 혁신 거점을 구축해 나갈 계획이다.... ",
+			"pubDate":"Mon, 01 Aug 2022 13:34:00 +0900"
+		},
+		{
+			"title":"[2023 수시 입학정보] 김천대학교",
+			"originallink":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205767",
+			"link":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205767",
+			"description":"강화<b>사업<\/b>&apos;에 선정되는 등 우수한 성과를 달성하고 있다. 특히 김천대는 재학생과 졸업생들을 위한 취·창업지도 전담교수제도, 취업현황 <b>관리<\/b>교수제를 운영하고 있다. 취업·창업지원센터는 학생·학과 맞춤형... ",
+			"pubDate":"Mon, 01 Aug 2022 13:34:00 +0900"
+		},
+		{
+			"title":"대웅제약, 印尼서 현지 신규 채용…글로벌 품질 경영 전문가로 키운다",
+			"originallink":"https:\/\/www.theguru.co.kr\/news\/article.html?no=39570",
+			"link":"https:\/\/www.theguru.co.kr\/news\/article.html?no=39570",
+			"description":"1일 대웅제약에 따르면 인도네시아에서 오는 15일까지 2개 <b>직무<\/b>에서 인력을 모집한다. △QC(품질<b>관리<\/b>) △QA... 오송 공장은 총 <b>사업<\/b>비 2100억원이 투입된 고형제·주사제 생산 공장이다. 지난 2015년 9월 착공을 시작해 올해... ",
+			"pubDate":"Mon, 01 Aug 2022 13:32:00 +0900"
+		},
+		{
+			"title":" 서울디지털대-한국위험물안전협회 제휴협약 체결",
+			"originallink":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=424233",
+			"link":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=424233",
+			"description":"주요 업무 협약 내용은 ▲한국위험물안전협회 구성원의 <b>직무<\/b>능력 향상과 자기계발(학위 및 다양한 자격증... 또한 재난안전사고 관련 피해자, 유자녀 지원<b>사업<\/b>과 안전<b>관리<\/b> 대행기관의 운영<b>사업<\/b> 등을 진행하고 있다.... ",
+			"pubDate":"Mon, 01 Aug 2022 13:06:00 +0900"
+		},
+		{
+			"title":"[여의도25시] 국민의힘 내 비대위 전환 움직임, 최선인가?",
+			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=575279",
+			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=575279",
+			"description":"대표 <b>직무<\/b>대행에 사퇴하겠다고 발표해 비상대책위원회 체제로 전환될 것으로 보입니다. 하지만, 비대위... 등의 <b>사업<\/b>들이 존폐 위기에 처한 것부터 친윤계 의원들이 9~10월 조기 전당대회를 염두에 둔 <b>관리<\/b>형 비대위를... ",
+			"pubDate":"Mon, 01 Aug 2022 13:06:00 +0900"
+		},
+		{
+			"title":"전북바이오진흥원, 국가인적자원개발 공동훈련센터 공모 선정",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220801010000205",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220801010000205",
+			"description":"공모 <b>사업<\/b>에 선정됐다. 국가인적자원개발컨소시엄은 교육훈련기관이 중소기업과 협약을 맺고 중소기업... 재직자 <b>직무<\/b>역량 강화에 초점을 맞출 계획이다. 교육진행은 오는 9월부터 전북바이오융합산업진흥원에서... ",
+			"pubDate":"Mon, 01 Aug 2022 12:58:00 +0900"
+		},
+		{
+			"title":"둔촌주공, &apos;조합+정상위&apos; 통합 위원회 구성…10월 총회 준비",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220801_0001963386&cID=10401&pID=10400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011338004?sid=101",
+			"description":"것 ▲조합 <b>직무<\/b>대행자는 강동구청에 집행부 선출을 위한 선거<b>관리<\/b>위원회 구성을 요청할 것 ▲시공<b>사업<\/b>단은 위원회의 공사재개 관련 협의에 적극 협조할 것 등이다. 이에 더해 조합 집행부 전원은 지난달 29일 인감 날인 한... ",
+			"pubDate":"Mon, 01 Aug 2022 12:05:00 +0900"
+		},
+		{
+			"title":"‘작은 기업’ ‘비정규직’ 일했다고 23년 경력 불인정…인권위 “차별”",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/society\/society_general\/1053058.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002600712?sid=102",
+			"description":"ㄱ씨가 22년 동안 안전<b>관리<\/b>업무를 맡았던 민간 도시가스 업체(전 직장)는 약 14만 가구에 가스를 공급하는 곳이었고, 현재 <b>직무<\/b>와도 유사한데 100명 미만 <b>사업<\/b>장이었다는 이유만으로 근무 경력을 인정하지 않은 것은... ",
+			"pubDate":"Mon, 01 Aug 2022 11:57:00 +0900"
+		},
+		{
+			"title":"[2023 수시 입학정보] 경남대학교",
+			"originallink":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205752",
+			"link":"http:\/\/www.dhnews.co.kr\/news\/articleView.html?idxno=205752",
+			"description":"육성<b>사업<\/b>(LINC 3.0)<b>사업<\/b>&apos; 등 여러 정부지원 <b>사업<\/b> 선정 경남대 캠퍼스 전경 경남대학교는 1946년 개교 이래... 전도유망한 <b>직무<\/b> 모듈을 중심으로 한 학생설계전공을 복수전공으로 이수하면서 향후 취·창업의 기회를 매우... ",
+			"pubDate":"Mon, 01 Aug 2022 11:56:00 +0900"
+		},
+		{
+			"title":"서귀포 희망어린이공원, 안전한 놀이공원으로 탈바꿈",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2520147",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2520147",
+			"description":"[사진=서귀포시청] 서귀포시(서귀포시장 <b>직무<\/b>대리 부시장 한웅)는 원도심에 위치한 희망어린이공원(동홍동... 이에 서귀포시는 2022년 소방안전교부세 안전분야(도시공원 안전 유지<b>관리<\/b>) 공모<b>사업<\/b> 선정을 통해 확보된... ",
+			"pubDate":"Mon, 01 Aug 2022 11:46:00 +0900"
+		}
+	]
+}

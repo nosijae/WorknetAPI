@@ -1,0 +1,383 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:42 +0900",
+	"total":95470850,
+	"start":1,
+	"display":75,
+	"items":[
+		{
+			"title":"<b>에너지<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EC%97%90%EB%84%88%EC%A7%80",
+			"description":"Energy 물리학에서 일을 할 수 있는 능력. 영어 energy는 그리스어로 활동, 운동을 뜻하는 Ενέργεια(Energia)에서 비롯되었는데 Ενέργεια는 안(in)을 뜻하는 Εν(en)와 일(work)을 뜻하는 ἔργον(ergon)의 합성어이다."
+		},
+		{
+			"title":"- 신재생<b>에너지<\/b> 개요(신재생<b>에너지<\/b>란 - ) | KEPCO - - 한국전력공사",
+			"link":"https:\/\/home.kepco.co.kr\/kepco\/SM\/C\/htmlView\/SMCCHP001.do?menuCd=FN29030304",
+			"description":"화석연료의 고갈로 인한 자원확보 경쟁 및 고유가의 지속 등으로 <b>에너지<\/b> 공급방식의 다양화 필요 기후변화협약 등 환경규제에 대응하기 위한 청정<b>에너지<\/b> 비중 확대의 중요성 증대 신재생<b>에너지<\/b>산업은 IT, BT, NT... "
+		},
+		{
+			"title":"<b>에너지<\/b> 정의 | <b>에너지<\/b> | 녹색<b>에너지<\/b> | 창원의경제 | 창원시 기업경제정보 - 창원시청",
+			"link":"https:\/\/www.changwon.go.kr\/biz\/contents.do?mId=0712020100",
+			"description":"<b>에너지<\/b>란? <b>에너지<\/b>법에서 &quot;<b>에너지<\/b>&quot;란 연료ㆍ열 및 전기를 말한다고 정의하고 있다. <b>에너지<\/b>의 여러 가지 형태 <b>에너지<\/b>는 여러 가지 형태로 존재한다. 운동하는 물체가 지니는 운동<b>에너지<\/b>, 뜨거운 증기나 연소된 석유가... "
+		},
+		{
+			"title":"신·재생<b>에너지<\/b>발전비율 - 국가지표체계",
+			"link":"https:\/\/www.index.go.kr\/unify\/idx-info.do?idxCd=4293",
+			"description":"총발전량 중 신·재생<b>에너지<\/b>발전량의 비율임. 재생<b>에너지<\/b>에 대해 국제적으로 합의된 정의는 없으며, 통계 기준도 나라마다 다름. 한국에서는 관련 법률에 따라 ‘기존의 화석연료를 변환시켜 이용하거나 햇빛, 물, 지열 등 재생가능한 <b>에너지<\/b>를 변환시켜 이용하는 <b>에너지<\/b>’로 정의하고 있음. 신·재생<b>에너지<\/b>는 신<b>에너지<\/b>로 분류되는 수소<b>에너지<\/b>, 연료전지, 석탄액화가스화에너..."
+		},
+		{
+			"title":"<b>에너지<\/b> | 한국쓰리엠",
+			"link":"https:\/\/www.3m.co.kr\/3M\/ko_KR\/energy-kr\/",
+			"description":"3M은 전세계 모든 곳에서 <b>에너지<\/b>를 절약하고, 와트당 전력 비용을 줄이며, 더 살기 좋은 미래를 만들고 유지해 나가는 <b>에너지<\/b> 제품을 개발합니다."
+		},
+		{
+			"title":"<b>에너지<\/b> IoT와 스마트 <b>에너지<\/b> 기술 및 솔루션 - 인텔",
+			"link":"https:\/\/www.intel.co.kr\/content\/www\/kr\/ko\/energy\/energy-overview.html",
+			"description":"<b>에너지<\/b> IoT와 스마트 <b>에너지<\/b> 기술은 최적의 사용 사례와 IoT <b>에너지<\/b> 솔루션을 갖춘 연결된 <b>에너지<\/b> 에코시스템을 지원합니다."
+		},
+		{
+			"title":"신재생<b>에너지<\/b> | <b>에너지<\/b> | 경제·취업 | 분야별정보 | 부천시청",
+			"link":"https:\/\/www.bucheon.go.kr\/site\/homepage\/menu\/viewMenu?menuid=148006004017001",
+			"description":"부천시 신재생<b>에너지<\/b> 위치도태양광(91개소\/4,515.26kW)태양열(2개소\/444.38㎡)전기사업(13개소\/555.97kW)연료전지(2개소\/21kW)지열(6개소\/2,51726kW)신재생<b>에너지<\/b> 종류 및 장단점 표심곡동태양광 : 3개소 \/ 전기사업 : 2개소부천동태양광 : 15개소\/ 태양열 : 1개소\/ 전기사업 : 5개소중동태양광 : 10개소\/ 지열 :..."
+		},
+		{
+			"title":"시원한 여름 따뜻한 겨울 <b>에너지<\/b>바우처",
+			"link":"https:\/\/www.energyv.or.kr\/",
+			"description":"<b>에너지<\/b>바우처 소개, 신청 방법, 사용 안내, 홍보 자료 등 제공."
+		},
+		{
+			"title":"한국<b>에너지<\/b>공단",
+			"link":"https:\/\/www.energy.or.kr\/",
+			"description":"공단 안내, 녹색성장, 절전, 전기절약, <b>에너지<\/b>절약 방법 및 교육, 통계, 효율제품, 신재생<b>에너지<\/b> 등 안내."
+		},
+		{
+			"title":"<b>에너지<\/b> | GS칼텍스 공식 블로그 : 미디어허브",
+			"link":"https:\/\/gscaltexmediahub.com\/energy-page\/",
+			"description":"<b>에너지<\/b> 이슈 정보, I am your Energy 캠페인, 채용 등 다양한 스토리를 전해드립니다."
+		},
+		{
+			"title":"한국<b>에너지<\/b>신문",
+			"link":"http:\/\/www.koenergy.co.kr\/",
+			"description":"<b>에너지<\/b> 주간 신문 관련 정책, 업계, 국제 동향, 분야별 기사 제공."
+		},
+		{
+			"title":"SK<b>에너지<\/b>",
+			"link":"http:\/\/www.skenergy.com\/",
+			"description":"<b>에너지<\/b>, 화학 전문업체, 석유, 아스팔트, 윤활유 등 제품 안내, 서비스 제공."
+		},
+		{
+			"title":"현대<b>에너지<\/b>솔루션",
+			"link":"https:\/\/www.hyundai-es.co.kr\/",
+			"description":"다이오드, 트랜지스터, 유사 반도체소자 제조업체, 회사 소개, 사업 안내 등 제공."
+		},
+		{
+			"title":"전기차&amp;<b>에너지<\/b> - <b>에너지<\/b>경제신문",
+			"link":"https:\/\/www.ekn.kr\/web\/section.php?ncid=N01",
+			"description":"대한민국 경제의 힘, <b>에너지<\/b>경제 - 경제일간지, 금융, 증권, 부동산, 기업·Biz, <b>에너지<\/b>"
+		},
+		{
+			"title":"포스코<b>에너지<\/b>",
+			"link":"https:\/\/www.poscoenergy.com\/",
+			"description":"포스코<b>에너지<\/b> 소개, 친환경 복합화력발전, 부생복합발전, 연료전지, 녹색사업, 탁구단, 경영정보 등 소개."
+		},
+		{
+			"title":"<b>에너지<\/b> 바우처란? - 시원한 여름 따뜻한 겨울 <b>에너지<\/b>바우처",
+			"link":"https:\/\/www.energyv.or.kr\/info\/support_info.do",
+			"description":"<b>에너지<\/b>바우처 바우처 지원금액 테이블. 구분. 1인 세대. 2인 세대. 3인 세대. 4인 이상 세대"
+		},
+		{
+			"title":"<b>에너지<\/b>절약실천요령 | <b>에너지<\/b> | 기업\/경제 | 안성시 분야별 홈페이지 - 안성시청",
+			"link":"https:\/\/www.anseong.go.kr\/depart\/contents.do?mId=0105000000",
+			"description":"기업\/경제 지방공기업 기업지원 기업정보 일자리 <b>에너지<\/b> <b>에너지<\/b>절약실천요령 가스\/전기안전사용법 LP가스안전공급계약제 <b>에너지<\/b>판매업소현황 물가정보 지방세 안성사랑카드 농업\/축산 도로\/교통 도시... "
+		},
+		{
+			"title":"한국<b>에너지<\/b>공단 그린홈",
+			"link":"https:\/\/greenhome.kemco.or.kr\/",
+			"description":"여기는 한국<b>에너지<\/b>공단 그린홈 사이트입니다."
+		},
+		{
+			"title":"가정<b>에너지<\/b> 절약 &gt; 전기 &gt; 전기 절약 &gt; <b>에너지<\/b>소비효율등급 확인 및 사용 (본문) | 찾기쉬운 생활법령정보",
+			"link":"http:\/\/easylaw.go.kr\/CSP\/CnpClsMain.laf?csmSeq=1008&ccfNo=2&cciNo=2&cnpClsNo=1",
+			"description":"효율관리기자재, <b>에너지<\/b>소비효율, 등급, <b>에너지<\/b>소비효율등급라벨, <b>에너지<\/b>소비라벨, 표시"
+		},
+		{
+			"title":"제로<b>에너지<\/b>빌딩 인증시스템",
+			"link":"https:\/\/zeb.energy.or.kr\/",
+			"description":"제로<b>에너지<\/b>건축물 인증 개요, 인증 신청, 인증 기준, 인증 절차, 정책현황, 인센티브 및 각종 지원사업 등 안내"
+		},
+		{
+			"title":"GS<b>에너지<\/b>",
+			"link":"http:\/\/www.gsenergy.co.kr\/",
+			"description":"미래 신성장 사업기반의 토탈 <b>에너지<\/b> 솔루션을 추구합니다"
+		},
+		{
+			"title":"LG전자 B2B : <b>에너지<\/b>",
+			"link":"https:\/\/www.lge.co.kr\/kr\/business\/product\/energy",
+			"description":"LG전자, LG B2B, LG <b>에너지<\/b>, LG 태양광, LG ESS, LG EMS, LG 조명"
+		},
+		{
+			"title":"<b>에너지<\/b>선물 가격 - Investing.com",
+			"link":"https:\/\/kr.investing.com\/commodities\/energy",
+			"description":"원유, 난방유, 에탄올 및 기타의 <b>에너지<\/b> 선물가격과 시세."
+		},
+		{
+			"title":"한국<b>에너지<\/b>공단 효율관리제도",
+			"link":"https:\/\/eep.energy.or.kr\/",
+			"description":"효율제도 개요, 효율등급제도, 절약마크제도, 고효율기자재인증제도, <b>에너지<\/b>절약효과비교, 효율바다 등 소개."
+		},
+		{
+			"title":"한국<b>에너지<\/b>공단 혁신인재육성실",
+			"link":"https:\/\/edu.energy.or.kr\/",
+			"description":"2022년 <b>에너지<\/b> 전문교육 법정교육 <b>에너지<\/b>관리자 기본교육 양성교육 인정검사대상기기 관리자 양성교육... 지역<b>에너지<\/b> 담당공무원 교육 지역<b>에너지<\/b>계획 수립과정 교육 공공기관 <b>에너지<\/b>담당자 교육 직무(기본)"
+		},
+		{
+			"title":"한국<b>에너지<\/b>공단 신재생<b>에너지<\/b>센터",
+			"link":"https:\/\/www.knrec.or.kr\/",
+			"description":"한국<b>에너지<\/b>공단 신재생<b>에너지<\/b>센터"
+		},
+		{
+			"title":"신재생<b>에너지<\/b> 전자민원서비스",
+			"link":"https:\/\/rps.energy.or.kr\/",
+			"description":"공급인증서 발급 및 거래시장 운영에 관한 규칙 개정안내( ... 공급인증서 발급 및 거래시장 운영에 관한 규칙 개정안내( ... 신재생<b>에너지<\/b> 공급의무화제도 및 연료 혼합의무화"
+		},
+		{
+			"title":"한국<b>에너지<\/b>기술평가원",
+			"link":"https:\/\/www.ketep.re.kr\/",
+			"description":"<b>에너지<\/b>자원기술 공공기관, 연구기획, 기술개발, 인력양성, 국제협력 등 사업 안내."
+		},
+		{
+			"title":"<b>에너지<\/b> - 건축도시정책정보센터 :: AURUM",
+			"link":"http:\/\/www.aurum.re.kr\/Legal\/LegalSub.aspx?pcode=F01",
+			"description":"신재생<b>에너지<\/b> 기본계획은 '신<b>에너지<\/b> 및 재생<b>에너지<\/b> 개발ㆍ이용ㆍ보급 촉진법 제5조(기본계획의 수립)'에 의거하여, <b>에너지<\/b>원을 다양화하고, <b>에너지<\/b>의 안정적인 공급, <b>에너지<\/b> 구조의 환경친화적 전환 및 온실가스... "
+		},
+		{
+			"title":"경기도<b>에너지<\/b>센터",
+			"link":"https:\/\/www.ggenergy.or.kr\/",
+			"description":"경기도 <b>에너지<\/b>센터(***-***-****)는 도민과 기업이 함께하는 <b>에너지<\/b> 효율개선과 안전하고 깨끗한 신재생<b>에너지<\/b> 보급에 앞장서겠습니다. ... "
+		},
+		{
+			"title":"에스<b>에너지<\/b>",
+			"link":"http:\/\/www.s-energy.com\/",
+			"description":"태양광발전 전문업체, 모듈, 인버터, 접속함 등 생산제품 소개."
+		},
+		{
+			"title":"<b>에너지<\/b> - SQI SOFT",
+			"link":"http:\/\/www.sqisoft.com\/ko\/energy",
+			"description":"신재생<b>에너지<\/b>의 통합관리를 효과적으로 하기위한 클라우드기반의 서비스와, 구축에 필요한 연동·수집·전송장치, 수집된 데이터의 처리를 위한 DAS 솔루션까지 모두 보유하고 있습니다"
+		},
+		{
+			"title":"한국핵융합<b>에너지<\/b>연구원",
+			"link":"https:\/\/www.kfe.re.kr\/",
+			"description":"KFE 한국핵융합<b>에너지<\/b>연구원"
+		},
+		{
+			"title":"KH <b>에너지<\/b>",
+			"link":"http:\/\/www.khenergy.co.kr\/",
+			"description":"사업장소개 • 부서별연락처 • ENGLISH • SITEMAP; 서울시 강서구 방화대로 21길 72 범천B\/D T.02-2663-5151~6 F.02-2663-3204 인천광역시 서구 백범로 964(가좌동) T.032-575-0001~2 F.032-575-7755 경기 고양시 덕양구 호국로 1941 T.031-962-1541 F.031-963-3045 대전광역시 유성구 온천로 59("
+		},
+		{
+			"title":"공장 <b>에너지<\/b> 관리 시스템&gt;<b>에너지<\/b> 관리 시스템&gt;<b>에너지<\/b>&gt;제품소개 | 비엠티 일렉트릭&amp;<b>에너지<\/b>",
+			"link":"https:\/\/www.superlok.com\/bmtelec\/index.php?pCode=fems",
+			"description":"공장 전체 주요 설비에 대한 전력, 스팀, 용수, 정보 관리 및 분석, 가시화를 통한 <b>에너지<\/b>의 최적 운전을 지원하는 공장 <b>에너지<\/b> 관리 시스템"
+		},
+		{
+			"title":"한국<b>에너지<\/b>공과대학교 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%ED%95%9C%EA%B5%AD%EC%97%90%EB%84%88%EC%A7%80%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"한국<b>에너지<\/b>공과대학교 - Korea Institute of Energy Technology (KENTECH) 산업통상자원부 산하 <b>에너지<\/b>특성화 공과대학교이다."
+		},
+		{
+			"title":"씨엔씨티<b>에너지<\/b> - CNCITY<b>에너지<\/b>",
+			"link":"https:\/\/www.cncityenergy.com\/",
+			"description":"<b>에너지<\/b>, 도시가스, 집단<b>에너지<\/b>, GHP, CNG, 안전점검, 요금조회, 전출입신청"
+		},
+		{
+			"title":"<b>에너지<\/b>데일리",
+			"link":"http:\/\/www.energydaily.co.kr\/",
+			"description":"인터넷 신문, <b>에너지<\/b>종합신문"
+		},
+		{
+			"title":"일과 <b>에너지<\/b> 시뮬레이션 - 자바실험실",
+			"link":"https:\/\/javalab.org\/category\/energy\/",
+			"description":"집으로 전기 <b>에너지<\/b>가… 역학적 <b>에너지<\/b> 롤러코스터가 높은 곳에서 내려오는 동안 높이는 낮아지고 속력은 점점 빨라지므로, 위치 <b>에너지<\/b>는 감소하고 운동 <b>에너지<\/b>는 증가합니다. 따라서 롤러코스터가 내려오는... "
+		},
+		{
+			"title":"한국<b>에너지<\/b>기술연구원",
+			"link":"https:\/\/www.kier.re.kr\/",
+			"description":"연구원 소개, <b>에너지<\/b>상식 및 용어사전, 시험분석신청, 웹진, 인재채용정보, 행사소식 수록."
+		},
+		{
+			"title":"<b>에너지<\/b>경제연구원",
+			"link":"https:\/\/www.keei.re.kr\/",
+			"description":"<b>에너지<\/b> 수요전망, 현물 유가동향, 통계정보, 용어사전, 소장문헌 검색 제공."
+		},
+		{
+			"title":"Hanwha Energy",
+			"link":"https:\/\/hec.hanwha.co.kr\/",
+			"description":"한화 <b>에너지<\/b>, 발전 전기업, 증기 및 온수 공급업"
+		},
+		{
+			"title":"(주)파랑티에스<b>에너지<\/b>,TS ENERGY",
+			"link":"http:\/\/ts-energy.co.kr\/",
+			"description":"태양광분양,발전사업,주택,시공,인허가,모듈인버터유통,부지,설치공사"
+		},
+		{
+			"title":"제주<b>에너지<\/b>공사",
+			"link":"https:\/\/www.jejuenergy.or.kr\/",
+			"description":"바람과 신재생<b>에너지<\/b>로 제주의 미래를 이끌어 나간다"
+		},
+		{
+			"title":"코원<b>에너지<\/b>서비스㈜ | SK E&amp;S",
+			"link":"https:\/\/www.skens.com\/koone\/main\/index.do",
+			"description":"서울시 및 경기도 일부지역 도시가스 공급, 열병합발전, CNG, 연료전지 안내 및 요금조회 제공."
+		},
+		{
+			"title":"SGC<b>에너지<\/b>",
+			"link":"http:\/\/www.sgcenergy.co.kr\/",
+			"description":"집단<b>에너지<\/b>사업 \/ 증기, 전기생산 및 판매업 \/ 신재생<b>에너지<\/b>사업 \/ 계열회사 투자 및 재무관리"
+		},
+		{
+			"title":"경남<b>에너지<\/b>..",
+			"link":"https:\/\/www.knenergy.co.kr\/",
+			"description":"도시가스 제조 및 배관공급\/신재생<b>에너지<\/b> 및 관련사업\/건축공사,토목공사 등"
+		},
+		{
+			"title":"투데이<b>에너지<\/b>",
+			"link":"http:\/\/www.todayenergy.kr\/",
+			"description":"일간 <b>에너지<\/b>뉴스, 천연 및 도시가스, 석유, 전력, 원자력 등 분야별뉴스 제공."
+		},
+		{
+			"title":"서울<b>에너지<\/b>드림센터",
+			"link":"https:\/\/seouledc.or.kr\/",
+			"description":"서울시 <b>에너지<\/b> 정책 홍보전시, 신재생<b>에너지<\/b>, <b>에너지<\/b>제로하우스, 녹색건축, 체험학습, <b>에너지<\/b> 교육 프로그램."
+		},
+		{
+			"title":"<b>에너지<\/b>신문",
+			"link":"http:\/\/www.energy-news.co.kr\/",
+			"description":"일간 <b>에너지<\/b>. 가스, 석유, 전력, 원자력, 신재생, 산업유통 등 기사 제공. apgc2019"
+		},
+		{
+			"title":"나만의 <b>에너지<\/b> 드링크 만들기 - 건강을 위한 발걸음",
+			"link":"https:\/\/steptohealth.co.kr\/making-my-own-energy-drink\/",
+			"description":"<b>에너지<\/b> 드링크는 카페인이나 타우린 같은 자극제와 몸의 각성을 위한 설탕이 들어간 무알콜 음료수다. 그런데 과연 <b>에너지<\/b> 드링크가 몸에 좋을까? 부작용이 없는 천연 <b>에너지<\/b> 드링크 만드는 법을 소개한다. 강황, 시금치,바나나, 스피룰리나 등을 이용한 레시피를 살펴 보자."
+		},
+		{
+			"title":"녹색<b>에너지<\/b>체험관(광주) - 한국<b>에너지<\/b>공단-에러페이지",
+			"link":"https:\/\/dco.energy.or.kr\/green\/",
+			"description":"광주광역시 북구 첨단과기로 123 한국<b>에너지<\/b>공단 광주전남지역본부Copyright. 2010 KOREA ENERGY AGENCY. ALL Rights Reserved"
+		},
+		{
+			"title":"<b>에너지<\/b> &lt; 산업 &lt; 기사목록 - 한스경제(한국스포츠경제)",
+			"link":"https:\/\/www.sporbiz.co.kr\/news\/articleList.html?sc_sub_section_code=S2N167&view_type=sm",
+			"description":"동서발전은 협약을 통해 미래에셋 <b>에너지<\/b>인프라자산운용(대표... 종합<b>에너지<\/b>기업 삼천리가 오산 기술연구소 내 도시가스 실습장을... LG<b>에너지<\/b>솔루션이 전기차 시장 공략에 박차를 가하고 있는 북미 3대... "
+		},
+		{
+			"title":"한양대학교 <b>에너지<\/b>공학과",
+			"link":"http:\/\/energy.hanyang.ac.kr\/",
+			"description":"한양대학교 공과대학 <b>에너지<\/b>공학과 미래<b>에너지<\/b> 실현을 위한 석·박사급 “창의인재”양성 한양대학교 공과대학 <b>에너지<\/b>공학과 미래<b>에너지<\/b> 실현을 위한 석·박사급 “창의인재”양성"
+		},
+		{
+			"title":"(주)다음<b>에너지<\/b>",
+			"link":"http:\/\/daumenergy.com\/",
+			"description":"수소<b>에너지<\/b> 상용화기업, 수소저장합금, 수소발생기, 연료전지, 열원공급시스템 개발, 카본 클리너"
+		},
+		{
+			"title":"2023 국제 그린<b>에너지<\/b>엑스포 - 태양광·ESS·신재생",
+			"link":"http:\/\/www.greenenergyexpo.co.kr\/",
+			"description":"국내 최대 세계10대 태양광 전문 전시회, 그린<b>에너지<\/b>엑스포, PV Korea, 태양<b>에너지<\/b>, ESS, 솔라, 풍력, 신재생<b>에너지<\/b>,. 국제 컨퍼런스, 수출상담회 ... "
+		},
+		{
+			"title":"<b>에너지<\/b> | Tesla 대한민국",
+			"link":"https:\/\/www.tesla.com\/ko_kr\/energy",
+			"description":"Tesla 배터리는 태양광과 통합되어 태양이 제공하는 재생 <b>에너지<\/b>를 안정적으로 포착, 저장 및 소비합니다."
+		},
+		{
+			"title":"해양<b>에너지<\/b>",
+			"link":"https:\/\/www.hyenergy.co.kr\/",
+			"description":"광주광역시 전역, 전라남도 일부 지역 도시가스 공급업체, 가스요금 및 사용 안내."
+		},
+		{
+			"title":"녹색<b>에너지<\/b>체험관 | 대구경북지역센터",
+			"link":"https:\/\/dco.energy.or.kr\/green_tk\/",
+			"description":"대구시 달서구 성서공단로 52(대천동 891-6) 한국<b>에너지<\/b>공단 대구경북지역본부 녹색<b>에너지<\/b>체험관TEL :053-580-7939 | FAX : 053-580-7980 copyright ⓒ 2010 . all right reserved."
+		},
+		{
+			"title":"제19회 <b>에너지<\/b>의 날 - <b>에너지<\/b>시민연대",
+			"link":"https:\/\/www.enet.or.kr\/index.php?mid=energyday19th",
+			"description":" 제19회 <b>에너지<\/b>의 날 참여하기 캠페인 카드뉴스 톺아보기"
+		},
+		{
+			"title":"<b>에너지<\/b> - 이플랜코리아",
+			"link":"https:\/\/www.eplan.co.kr\/industries\/energy\/",
+			"description":"유틸리티, 발전소 운영업체 및 <b>에너지<\/b> 산업측 고객은 다양한 요구를 받고 있습니다. EPLAN 솔루션은 기존 또는 대체 <b>에너지<\/b>원, 특고압, 고압 또는 저압의 네트워크 전력망을 막론하고 네트워크 및 복잡한 배전반... "
+		},
+		{
+			"title":"<b>에너지<\/b>타임즈",
+			"link":"http:\/\/www.energytimes.kr\/",
+			"description":"인터넷 신문 ... 글로벌 공급망 위기…韓 정교한 정책으로 대비해야글로벌 공급망 위기…韓 정교한 정책으로 대비해야 미-중 갈등에다 러-우크라 전쟁까지 이어지며 글로벌 공급망 위기가 이어지는 가운데 그에 대비한 시나리오를 만들"
+		},
+		{
+			"title":"한국신·재생<b>에너지<\/b>학회",
+			"link":"https:\/\/www.ksnre.or.kr\/",
+			"description":"갤러리 2022년 춘계학술대회 「한국신·재생<b>에너지<\/b>학회-<b>에너지<\/b>신산업 혁신공유대학 사업단」 업무협약식「한국신·재생<b>에너지<\/b>학회-진월주민<b>에너지<\/b>협동조합」 업무협약식 공지사항 관련"
+		},
+		{
+			"title":"몬스터 <b>에너지<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%AA%AC%EC%8A%A4%ED%84%B0%20%EC%97%90%EB%84%88%EC%A7%80",
+			"description":"몬스터 <b>에너지<\/b>는 미국코카콜라 산하 몬스터 베버리지에서 생산하고, 전 세계적으로 판매 및 유통되고 있는 고카페인<b>에너지<\/b> 드링크브랜드다. 미국을 상징하는 대표적인 <b>에너지<\/b> 드링크로, 이름 그대로 <b>에너지<\/b> 드링크계의 괴수다."
+		},
+		{
+			"title":"<b>에너지<\/b>차트 - 포월드",
+			"link":"https:\/\/foworld.co.kr\/energy",
+			"description":"<b>에너지<\/b>선물 차트, WTI유 선물, 브렌트유 선물, 천연가스 선물, 런던 가스 오일 선물, 난방유 선물"
+		},
+		{
+			"title":"다음<b>에너지<\/b> 소액주주토론방, 주주동호회 , 주가, 주식차트, 기업정보, 종목뉴스, 장외주식거래, 주식매매,거래 -....",
+			"link":"https:\/\/www.38.co.kr\/html\/forum\/board\/?code=092560",
+			"description":"38커뮤니케이션- 다음<b>에너지<\/b> 소액주주 토론방, 주주동호회,소액주주모임 다음<b>에너지<\/b>의 장외주식 시세.주가.거래.종목분석.공모.IPO.비상장주식매매.다음<b>에너지<\/b> 팝니다,다음<b>에너지<\/b> 삽니다"
+		},
+		{
+			"title":"<b>에너지<\/b>-우리 소리를 찾아서 - 만나면 좋은 친구 MBC",
+			"link":"https:\/\/www.imbc.com\/broad\/tv\/ent\/energy\/",
+			"description":"[<b>에너지<\/b>,우리 소리를 찾아서] 새단장!!첫 촬영장 포토현장스케치, 감상하세요~"
+		},
+		{
+			"title":"한국태양<b>에너지<\/b>학회 강기환 회장 “태양광을 국가전략산업으로 지정해 1위산업 육성해야” - 인더스트리뉴스",
+			"link":"http:\/\/www.industrynews.co.kr\/news\/articleView.html?idxno=37438",
+			"description":"1977년 창립해 올해로 43주년을 맞이한 한국태양<b>에너지<\/b>학회는 태양<b>에너지<\/b>를 기반으로 하는 태양광, 태양열, 풍력, 해양, 지열 기술과 <b>에너지<\/b>효율을 기반으로 하는 건축환경, 건축설비, 건물<b>에너지<\/b> 기술 등 다양한 분야의 전문가들이 참여하는 학회다.지난 1월 제24대 회장으로 취임한 한국태양<b>에너지<\/b>학회 강기환 회장은 “서로 다른..."
+		},
+		{
+			"title":"서울<b>에너지<\/b>복지시민기금",
+			"link":"http:\/\/www.seoulenergyfund.or.kr\/",
+			"description":"다가온 서울, 서울<b>에너지<\/b>복지시민기금이 시민과 함께합니다."
+		},
+		{
+			"title":"영남<b>에너지<\/b>서비스㈜ - 구미 | SK E&amp;S",
+			"link":"https:\/\/www.skens.com\/gumi\/main\/index.do",
+			"description":"구미 도시가스 공급업체, 요금 조회 및 전출입 신청안내"
+		},
+		{
+			"title":"<b>에너지<\/b> - 건설경제신문",
+			"link":"https:\/\/www.cnews.co.kr\/uhtml\/autosec\/S1N0_S2N9_1.html",
+			"description":"잇단 ESS(<b>에너지<\/b>저장장치) 화재 발생 후 정부의 안전관리 강화조치에도 불구하고 ESS 보급이 정상화되지 못하고 있는 것으로 나타났다. 이성만 더불어민주당 의원이 7일 한국전기안전공사로부터 제출받은 ‘연도별... "
+		},
+		{
+			"title":"경남<b>에너지<\/b> 시공센터",
+			"link":"https:\/\/cys.knenergy.co.kr\/",
+			"description":" 경남<b>에너지<\/b>주식회사 시공센터 시공사 로그인 ____ 가스시공 업체는 도시가스 공급업무와 관련된 서비스를 처리할수 있습니다. 시공사 로그인 고객 인증 ____ 도시가스 공급신청 접수를 위한 본인인증을 진행 할 수 있습  ... "
+		},
+		{
+			"title":"<b>에너지<\/b>(과학교과 주제탐구 Q 물리 15) | 정성동 | 스쿨김영사 - 교보문고",
+			"link":"http:\/\/www.kyobobook.co.kr\/product\/detailViewKor.laf?barcode=9788934932802",
+			"description":"Q시리즈《<b>에너지<\/b>》편은 모두 6장으로 이루어져 있다. 1장에서는 <b>에너지<\/b>의 정의와 종류, 역사 등에 대한 개괄적인 정보를 얻을 수 있고 2장에서는 <b>에너지<\/b>의 큰... "
+		},
+		{
+			"title":"Schneider Electric 대한민국 | <b>에너지<\/b> 관리 및 자동화 전문기업",
+			"link":"https:\/\/www.se.com\/kr\/ko\/",
+			"description":"Schneider Electric 한국. 슈나이더 일렉트릭은 100 개국 이상의 지사와 <b>에너지<\/b> 관리 및 자동화 분야의 세계적인 전문가로서 다양한 시장에 통합 <b>에너지<\/b> 솔루션을 제공합니다. ... "
+		},
+		{
+			"title":"#<b>에너지<\/b> 해시태그 • Instagram 사진 및 동영상",
+			"link":"https:\/\/www.instagram.com\/explore\/tags\/%EC%97%90%EB%84%88%EC%A7%80\/",
+			"description":"게시물 173.9천개 - '<b>에너지<\/b>' 해시태그가 표시된 Instagram 사진 및 동영상 보기"
+		}
+	]
+}

@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:45 +0900",
+	"total":683,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>영업<\/b>성과에 대한 <b>영업<\/b>사원의 학습활동, 적응적 <b>판매<\/b>, <b>직무<\/b>만족의 영향력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290871390",
+			"description":"The Impact of Salesperson Learning, Adaptive Selling Behaviors, and Job Satisfaction on Sales Performance <b>영업<\/b>사원의 효율적인 "
+		},
+		{
+			"title":"<b>영업<\/b>직원의 <b>직무<\/b>만족에 영향을 미치는 <b>영업<\/b>역량에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77207518",
+			"description":"The Study of Sales Competency and Improvement of Sales Representatives&apos; Job Satisfaction through the Analysis of Customer Relationship "
+		},
+		{
+			"title":"<b>영업<\/b>사원의 성격유형이 <b>영업<\/b>성과와 <b>직무<\/b>만족에 미치는 영향 : 관계<b>판매<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562452565",
+			"description":"The impact of salesperson&apos;s personality type on sales performance and job satisfaction : focus on relationship-driven sales behavior "
+		},
+		{
+			"title":"관계<b>판매<\/b>행동 및 <b>직무<\/b>만족, 조직몰입이 <b>영업<\/b>사원의 순이익 및 생산성에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765884684",
+			"description":"Effects of relationship sales behavior, job satisfaction, and organizational commitment on salesperson&apos;s net income and productivity  "
+		},
+		{
+			"title":"<b>영업<\/b>성과에 대한 <b>영업<\/b>사원의 학습활동, 적응적 <b>판매<\/b>, <b>직무<\/b>만족의 영향력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=705536980",
+			"description":""
+		},
+		{
+			"title":"관계<b>판매<\/b>행동 및 <b>직무<\/b>만족, 조직몰입이 <b>영업<\/b>사원의 순이익 및 생산성에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=638272057",
+			"description":"Effects of Relationship Sales Behavior, Job Satisfaction, and Organizational Commitment on Salesperson＇s Net Income and Productivity "
+		},
+		{
+			"title":"컨설턴트의 관계 <b>판매<\/b> 행동이 <b>영업<\/b> 성과 및 <b>직무<\/b> 만족에 미치는 영향에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606847988",
+			"description":"A study on the effect of management consultants&apos; relationship selling on their consultancy sales performance and job satisfaction : wit"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889930451",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886839877",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888737790",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871378411",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882387719",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887569818",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885170071",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891229277",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886966195",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868821688",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881551054",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890597085",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872864645",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882884998",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891306155",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865568931",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874123685",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843005847",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842983946",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891071506",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842698353",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888366938",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896647641",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874526595",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842873081",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890399607",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890783391",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843019826",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873472969",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889770110",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886435095",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880264118",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888202579",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886949752",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"보험회사 <b>영업<\/b>팀장 <b>직무<\/b>수행 향상을 위한 PBL 교육프로그램 개발과 효과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898520711",
+			"description":"Insurance company sales team leader job performance improvement PBL education program development and effect analysis : focused on trai"
+		},
+		{
+			"title":"여성 방문<b>판매<\/b><b>영업<\/b>리더의 리더십유형이 <b>직무<\/b>만족, <b>직무<\/b>몰입, <b>영업<\/b>성과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79698425",
+			"description":" 아동전집류 방문<b>판매<\/b>시장의 특수성에 비추어 아동전집류 방문<b>판매<\/b><b>영업<\/b>리더의 리더십의 효과를 논할"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 잡 크래프팅과 적응적 <b>판매<\/b>행동이 <b>직무<\/b>만족 및 <b>영업<\/b>성과에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290874133",
+			"description":"Effects of Salespersons&apos; Job Crafting and Adaptive Selling Behavior on Job Satisfaction and Sales Performance 본 연구의 목적은 "
+		},
+		{
+			"title":"컨설턴트의 관계 <b>판매<\/b> 행동이 <b>영업<\/b> 성과 및 <b>직무<\/b> 만족에 미치는 영향에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630686767",
+			"description":"A study on the effect of management consultants’ relationship selling on their consultancy sales performance and job satisfaction: wi"
+		},
+		{
+			"title":"적응<b>판매<\/b>행위와 <b>직무<\/b>만족 및 <b>영업<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878121137",
+			"description":""
+		},
+		{
+			"title":"변혁적 및 거래적 리더십의 동기부여 효과에 대한 <b>직무<\/b>만족의 조절 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79512427",
+			"description":"  국문목차\n표제지=0,1,3\n목차=i,4,2\n표목차=iii,6,1\n그림 목차=iv,7,1\n제1장 서론=1,8,1\n 제1절 연구의 목적=1,8,3"
+		},
+		{
+			"title":"방문<b>판매<\/b> 거래선 담당 <b>영업<\/b>사원의 현장<b>직무<\/b> 교육프로그램 개발 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=127466253",
+			"description":" 이 연구는 교육공학 관점에서 화장품 방문<b>판매<\/b> 거래선을 담당하는 <b>영업<\/b>사원의 거래선 육성과 <b>영업<\/b>성"
+		},
+		{
+			"title":"관광 상품 <b>판매<\/b>관리사의 <b>직무<\/b>분석 및 자격체계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562919100",
+			"description":"A study on the job analysis &amp; criteria for the tourism product sales manager certification 본 연구의 목적은 최근 관광 상품"
+		},
+		{
+			"title":"관광 상품 <b>판매<\/b>관리사의 <b>직무<\/b>분석 및 자격체계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=560011038",
+			"description":"A Study on the Job Analysis &amp; Criteria for the Tourism Product Sales Manager Certification 본 연구의 목적은 최근 관광 상품"
+		},
+		{
+			"title":"관광 상품 <b>판매<\/b>관리사의 <b>직무<\/b>분석 및 자격체계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=558809231",
+			"description":"A Study on the Job Analysis &amp; Criteria for the Tourism Product Sales Manager Certification 본 연구의 목적은 최근 관광 상품"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 조직동일시가 고객지향적 <b>판매<\/b>에 미치는 영향: 고용형태의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289684554",
+			"description":"The Effect of Sales People’s Organizational Identification on Customer-oriented Selling and Performance : Focused on Moderating Effec"
+		},
+		{
+			"title":"백화점 <b>영업<\/b> 관리자의 수퍼리더십이 <b>판매<\/b>사원의 <b>직무<\/b>만족과 고객지향성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=80042772",
+			"description":"(The)effect of sales manager&apos;s super-leadership on job satisfaction and customer orientation 본 연구는 백화점 <b>영업<\/b> 관리자"
+		},
+		{
+			"title":"공유멘탈모델이 보험<b>영업<\/b> 조직의 <b>직무<\/b>만족과 조직몰입 및 <b>판매<\/b>성과에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57371830",
+			"description":"  표제지\n목차\n국문초록 8\nI. 서론 10\n 1. 연구의 필요성 10\n 2. 연구 목적 15\n 3. 연구 문제 16\nII. 이론적 배"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 성격 5요인이 제품 <b>판매<\/b>유형에 미치는 영향 : <b>직무<\/b>만족의 매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561887534",
+			"description":"The Effect of Salesperson&apos;s Big 5 Personality on Product Sales Type : The Mediating Effect of Job Satisfaction 본 연구는 <b>영업<\/b>사"
+		},
+		{
+			"title":"<b>판매<\/b>사원의 셀프리더십이 <b>영업<\/b>성과와 <b>직무<\/b>만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79890863",
+			"description":" 셀프 리더십은 급변하는 경영환경 변화에 대응하고 기업 내적자원의 경쟁력을 창출하기 위해 필수적"
+		},
+		{
+			"title":"지각된 조직 기억이 <b>영업<\/b>성과에 미치는 영향 : <b>영업<\/b>사원의 적응적 <b>판매<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561710462",
+			"description":"The Impact of Organizational Memory on Sales Performance : The mediating role of salesperson adaptive selling behavior 기업환경의 "
+		},
+		{
+			"title":"지각된 조직 기억이 <b>영업<\/b>성과에 미치는 영향 : <b>영업<\/b>사원의 적응적 <b>판매<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=761179332",
+			"description":"The Impact of Organizational Memory on Sales Performance : The mediating role of salesperson adaptive selling behavior 기업환경의 "
+		},
+		{
+			"title":"<b>영업<\/b>직원의 <b>직무<\/b>만족에 영향을 미치는 <b>영업<\/b>역량에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879405702",
+			"description":"The Study of Sales Competency and Improvement of Sales Representatives&apos; Job Satisfaction through the Analysis of Customer Relationship "
+		},
+		{
+			"title":"<b>영업<\/b>사원들의 마케팅-<b>영업<\/b> 인터페이스 능력과 학습행동이 <b>영업<\/b>성과와 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765731773",
+			"description":"  표제지\n초록\n목차\n제I장 서론 11\n 제1절 연구의 배경 및 목적 11\n 제2절 논문의 구성 13\n제II장 이론적 배"
+		},
+		{
+			"title":"코칭리더십이 <b>영업<\/b>사원의 <b>직무<\/b>몰입 및 <b>직무<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=185695344",
+			"description":" 급속하게 변화하는 경영 환경 속에서 기업은 어떻게 지속적인 성과를 달성할 수 있을 것인가에 끊임"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 적응<b>판매<\/b> 행동이 <b>영업<\/b>성과 및 <b>직무<\/b>만족에 미치는 영향 : 조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79945139",
+			"description":" 본 연구에서는 <b>영업<\/b>사원의 적응<b>판매<\/b> 행동이 <b>영업<\/b>사원의 <b>영업<\/b>성과와 <b>직무<\/b>만족에 미치는 영향을 알아"
+		},
+		{
+			"title":"자동차 <b>영업<\/b>사원의 관계신념, 동기화된 추론, 목표지향이 <b>직무<\/b> 성과 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291883478",
+			"description":"Influences of Relationship Belief, Motivated Reasoning, Goal Orientation on Car Salespeople&apos;s Performance &amp; Job Satisfaction : Adaptive"
+		},
+		{
+			"title":"자동차 <b>영업<\/b>사원의 관계신념, 동기화된 추론, 목표지향이 <b>직무<\/b> 성과 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561603178",
+			"description":"Influences of Relationship Belief, Motivated Reasoning, Goal Orientation on Car Salespeople&apos;s Performance &amp; Job Satisfaction : Adaptive"
+		},
+		{
+			"title":"자동차 <b>영업<\/b>사원의 관계신념, 동기화된 추론, 목표지향이 성과 및 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=189708148",
+			"description":"Influences of relationship belief, motivated reasoning, goal orientation on performance and job satisfaction car salespeople : adaptive"
+		},
+		{
+			"title":"노동보상형태 매개변수가 <b>영업<\/b>사원의 <b>직무<\/b>만족 및 <b>영업<\/b> 성과에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=182049612",
+			"description":" 마케팅 내 활동 중에서도 <b>영업<\/b>은 고객과 가장 가까이 상호작용을 하고 제품의 가치를 전달한다. 현재"
+		},
+		{
+			"title":"<b>판매<\/b>조직에서 <b>영업<\/b>사원들의 일 - 가정 갈등이 조직성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420490805",
+			"description":"The Study of Impact of Organization Performance on Sales Persons Work-Family Conflict in Sales Organization 정보통신기술 환경"
+		},
+		{
+			"title":"<b>영업<\/b>사원이 지각하는 고용불안정성이 기회주의 행동과 고객지향적 <b>판매<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843064381",
+			"description":"The Effect of Salespersons&apos; Job Insecurity on Opportunistic Behavior and Customer-oriented Sales Behavior : Moderating Effect of Organi"
+		},
+		{
+			"title":"<b>판매<\/b>조직에서 <b>영업<\/b>사원들의 일-가정 갈등이 조직성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=175285144",
+			"description":"The Study of Impact of Organization Performance on Sales Persons Work-Family Conflict in Sales Organization 정보통신기술 환경"
+		},
+		{
+			"title":"복잡성 요인이 <b>영업<\/b>사원의 심리적 반응 및 적응<b>판매<\/b>행동에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881838300",
+			"description":"Effects of complexity factors on salesperson&apos;s &apos;Psychological Response&apos;&apos;Adaptive Selling Behavior&apos; : focusing on the specific situation"
+		},
+		{
+			"title":"대면채널 <b>영업<\/b>사원의 핵심자기평가와 <b>영업<\/b>성과에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650609052",
+			"description":"  표제지\n논문 게재 출처\n국문초록\n목차\n제I장 서론 13\n 제1절 연구의 배경 13\n 제2절 연구의 목적 17\n 제3"
+		},
+		{
+			"title":"자동차 <b>영업<\/b>사원의 <b>직무<\/b>스트레스와 <b>영업<\/b>성과의 관련성 연구 (自動車 營",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9160995",
+			"description":"  국문목차\n표제지 = 0,1,2\n감사의 글 = 0,3,1\n목차 = ⅰ,4,2\n표목차 = ⅲ,6,1\n도목차 = ⅳ,7,1\n제1장 서론 = 1,8,1\n"
+		},
+		{
+			"title":"친사회적행동이 적응적 <b>판매<\/b>행동과 <b>영업<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=528692088",
+			"description":"The Impact of Prosocial Behavior on Adaptive Selling Behavior and Sales Performance : The Moderating Role of Ethical Perception 본 연"
+		},
+		{
+			"title":"백화점 <b>판매<\/b>사원들의 <b>판매<\/b>성과에 영향을 미치는 <b>직무<\/b>요구 요인들에 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630735395",
+			"description":"A Study on the Job Demand Factors Affecting Sales Performance of Department Stores Salespeople: Moderating Effect of Job Resources 최"
+		},
+		{
+			"title":"<b>영업<\/b>사원이 지각하는 고용불안정성이 기회주의 행동과 고객지향적 <b>판매<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=647708709",
+			"description":"The Effect of Salespersons&apos; Job Insecurity on Opportunistic Behavior and Customer-oriented Sales Behavior : Moderating Effect of Organi"
+		},
+		{
+			"title":"개인 및 팀 수준에서의 <b>영업<\/b>통제가 <b>영업<\/b>사원의 성과에 미치는 영향에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561842957",
+			"description":"An Empirical Study of the Effects of Individual and Team-Level Sales Control on Sales Performance 본 연구는 <b>영업<\/b>조직에서 전"
+		},
+		{
+			"title":"패션업체의 내부마케팅이 백화점 패션제품 <b>판매<\/b>사원의 <b>직무<\/b>만족, 조직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79578407",
+			"description":" 패션산업은 품질에 대한 제품간 격차가 줄어 단순히 양질의 제품 생산만으로는 시장에서 경쟁력을 "
+		},
+		{
+			"title":"백화점 <b>판매<\/b>사원들의 <b>판매<\/b>성과에 영향을 미치는 <b>직무<\/b>요구 요인들에 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=308962271",
+			"description":"A Study on the Job Demand Factors Affecting Sales Performance of Department Stores Salespeople : Moderating Effect of Job Resources 최"
+		},
+		{
+			"title":"백화점 <b>판매<\/b>사원들의 <b>판매<\/b>성과에 영향을 미치는 <b>직무<\/b>요구 요인들에 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562451158",
+			"description":"A Study on the Job Demand Factors Affecting Sales Performance of Department Stores Salespeople : Moderating Effect of Job Resources 최"
+		},
+		{
+			"title":"<b>판매<\/b>원의 기업가정신 결정요소와 기업가정신이 <b>영업<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232436072",
+			"description":" 최근 점점 치열해지는 기업 간의 무한 경쟁 환경 속에서 <b>영업<\/b>이 중요한 이슈로 떠오르고 있다. 이는 "
+		},
+		{
+			"title":"<b>직무<\/b>스트레스가 <b>영업<\/b>실적에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=292007128",
+			"description":"   <b>판매<\/b>관리 "
+		},
+		{
+			"title":"자동차 <b>영업<\/b>사원의 관계신념, 동기화된 추론, 목표지향이 <b>직무<\/b> 성과 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880274347",
+			"description":" 본 연구는 자동차 <b>영업<\/b>사원의 관계신념, 동기화된 추론, 목표지향을 독립변수로, 성과와 <b>직무<\/b>만족을 "
+		},
+		{
+			"title":"<b>영업<\/b>역량, 조직지원과 <b>직무<\/b>성과의 관계에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79660667",
+			"description":"A Study on the Relationship of between Salespersons&apos; Competencies, Organizational Support and Job Performance 본 연구는 <b>영업<\/b>사"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 성과요인이 성과를 통하여 <b>직무<\/b>만족에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79789181",
+			"description":"A study on the Effectivity the Performance Factors of Sales person to Job Satisfaction through Performance : Based on Visiting Cosmetic"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 관계<b>판매<\/b>행동이 <b>영업<\/b>성과 및 <b>직무<\/b>만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=439575749",
+			"description":"The influence of sales people&apos;s relationship driven sales behavior on sales performance and job satisfaction. 치열한 경쟁 환경 "
+		},
+		{
+			"title":"유통업체 <b>영업<\/b>사원의 <b>직무<\/b>만족에 대한 연구 : 소매업을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890460268",
+			"description":" 국내 유통업체는 1996년의 流通市場 全面開放을 계기로 매우 다양한 변화가 일어나기 시작했다. 세계"
+		},
+		{
+			"title":"자동차 <b>영업<\/b>사원의 관계신념, 동기화된 추론, 목표지향이 <b>직무<\/b> 성과 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442188239",
+			"description":"Influences of Relationship Belief, Motivated Reasoning, Goal Orientation on Car Salespeople s Performance &amp; Job Satisfaction  Ⅰ. Intr"
+		},
+		{
+			"title":"고객관계프로세스 분석에 의한 <b>영업<\/b>직원의 역량요인 도출과 <b>직무<\/b>만족 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79704857",
+			"description":" 한국의 제조업체들은 내수시장에서 점점 더 치열해지는 <b>판매<\/b>경쟁에 시달리고 있다. 이러한 <b>판매<\/b>시장"
+		},
+		{
+			"title":"자동차 <b>영업<\/b>점에서 <b>영업<\/b>직원의 교환관계, 정체성, 고객지향성이 <b>직무<\/b>성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879592605",
+			"description":" 국내 자동차 유통시장에서 자동차 <b>판매<\/b><b>영업<\/b>점의 <b>영업<\/b>직원은 여전히 가장 중요한 유통채널의 하나로"
+		},
+		{
+			"title":"자동차 <b>영업<\/b>점에서 <b>영업<\/b>직원의 교환관계, 정체성, 고객지향성이 <b>직무<\/b>성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77198766",
+			"description":"A study on the influences of exchange relationships, identities, customer orientation of sales employees on job performance -focused on"
+		},
+		{
+			"title":"<b>영업<\/b>관리자의 리더십 유형과 <b>영업<\/b>직사원 <b>직무<\/b>성과와의 상관성 연구 : 자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13002060",
+			"description":"  표제지\n감사의 글\n목차\n국문요약 12\nI. 서론 16\n 1. 연구의 필요성 16\n 2. 연구의 목적과 내용 20\n 3. 연구"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 개인적인 특성과 <b>판매<\/b>성과와의 상관관계 파악",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9208185",
+			"description":"  국문목차\n표제지 = 0,1,3\n제목차례 = 0,4,2\n표차례 = 0,6,1\n제1장 서론 = 1,7,1\n 제1절 문제제기 = 1,7,2\n 제2절 "
+		},
+		{
+			"title":"자동차 <b>영업<\/b>사원의 <b>직무<\/b>특성이 <b>영업<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=560012018",
+			"description":"The effect of automobile salespeople&apos;s job characteristics on sales outcomes : focusing on the mediating effect of job satisfaction and"
+		},
+		{
+			"title":"우리법상 <b>영업<\/b>비밀보호에 관한 비교론적 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56568768",
+			"description":"  목차\n우리법상 <b>영업<\/b>비밀보호에 관한 비교론적 고찰 \/ 박준석 1\n ◈ 목차 ◈ 1\n I. 서론 2\n II. <b>영업<\/b>비밀"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 성격유형이 <b>영업<\/b>성과와 <b>직무<\/b>만족에 미치는 영향: 관계<b>판매<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846707856",
+			"description":"The Impact of Salesperson’s Personality Type on Sales Performance and Job Satisfaction: Focus on Relationship-driven Sales Behavior "
+		},
+		{
+			"title":"개인 및 팀 수준에서의 <b>영업<\/b>통제가 <b>영업<\/b>사원의 성과에 미치는 영향에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878845475",
+			"description":"An Empirical Study of the Effects of Individual and Team-Level Sales Control on Sales Performance 본 연구는 <b>영업<\/b>조직에서 전"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 성격 5요인이 제품 <b>판매<\/b>유형에 미치는 영향: <b>직무<\/b>만족의 매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846306648",
+			"description":"The Effect of Salesperson&apos;s Big 5 Personality on Product Sales Type: The Mediating Effect of Job Satisfaction 본 연구는 <b>영업<\/b>사"
+		},
+		{
+			"title":"여성 방문<b>판매<\/b> 조직에서 서번트 리더십이 조직원들의 <b>직무<\/b>성과에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174281317",
+			"description":"An effect that servant leadership has on the job performance of members of door-to-door saleswomen organization 본 연구의 목적은"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 성격유형이 <b>영업<\/b>성과와 <b>직무<\/b>만족에 미치는 영향: 관계<b>판매<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=528637567",
+			"description":"The Impact of Salesperson’s Personality Type on Sales Performance and Job Satisfaction: Focus on Relationship-driven Sales Behavior "
+		},
+		{
+			"title":"<b>영업<\/b>사원의 성과지향적 목표성향이 <b>판매<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289434048",
+			"description":"The influence of the salespeople&apos;s performance goal orientations on sales performance : 성과접근적과 성과회피적 목표성향"
+		}
+	]
+}

@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:25 +0900",
+	"total":619936,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>전자<\/b>통신학회 논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1556532",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>통신동향분석",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4519",
+			"description":""
+		},
+		{
+			"title":"한국<b>전자<\/b>거래학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6259",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>공학회논문지 (Journal of the Institute of Electronics Engineers of Korea)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2144332",
+			"description":""
+		},
+		{
+			"title":"인터넷<b>전자<\/b>상거래연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4191",
+			"description":""
+		},
+		{
+			"title":"전기<b>전자<\/b>재료학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4388",
+			"description":""
+		},
+		{
+			"title":"전력<b>전자<\/b>학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4436",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>공학회지(The Magazine of the IEEK)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4497",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>학보 (电子学报)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2548590",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>무역연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4509",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>공학회논문지 - TC",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127188",
+			"description":""
+		},
+		{
+			"title":"한국마이크로<b>전자<\/b> 및 패키징학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5459",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>공학회논문지 - SP",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127186",
+			"description":""
+		},
+		{
+			"title":"전기<b>전자<\/b>학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4391",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>공학회논문지 - CI",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127180",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>상거래학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4513",
+			"description":""
+		},
+		{
+			"title":"한국<b>전자<\/b>현미경학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6273",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>공학회논문지 - SC",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127182",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>공학회논문지 - SD",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127184",
+			"description":""
+		},
+		{
+			"title":"E²M-전기 <b>전자<\/b>와 첨단 소재(구 전기<b>전자<\/b>재료)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4383",
+			"description":""
+		},
+		{
+			"title":"전력<b>전자<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4438",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>정보통신학회기술연구보고 = IEICE Technical Report (電子情報通信学会技",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2800376",
+			"description":""
+		},
+		{
+			"title":"한국정보<b>전자<\/b>통신기술학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127286",
+			"description":""
+		},
+		{
+			"title":"전력<b>전자<\/b>기술시예능질량공제적중요수단--특요주편술평 (电力电子技术",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=101369644",
+			"description":"Power Electronics, the Major Medium for Power Quality Control    "
+		},
+		{
+			"title":"<b>전자<\/b>측량여의기학보 = Journal of electronic measurement and instrument. (电子测量与",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2803725",
+			"description":""
+		},
+		{
+			"title":"중국 해외직판 활성화를 위한 한국의 B2C <b>전자<\/b>상거래 발전방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155989440",
+			"description":"Activation Plans of Korean B2C Cross-border e-Commerce for Direct Sales to China 연구목적: 본 논문은 한국의 국경간의 전"
+		},
+		{
+			"title":"<b>전자<\/b>불전",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4511",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>공학회논문지 S",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127192",
+			"description":""
+		},
+		{
+			"title":"금속 산화물 반도체 기반의 <b>전자<\/b> 코 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650607534",
+			"description":"(The) study of E-nose based on metal oxide semiconductor  Title Page\nABSTRACT\nContents\nI. INTRODUCTION 8\n 1.1. Theoretical background 9"
+		},
+		{
+			"title":"성폭력범죄대책과 <b>전자<\/b>감시 : &quot;특정 범죄자에 대한 위치추적 <b>전자<\/b>장치 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41630817",
+			"description":"Sexual Crime Prevention and Electronic Monitoring: A Study on the act of electronic device attachment for tracking Location of specific"
+		},
+		{
+			"title":"소위 <b>전자<\/b>장치부착법(특정 성범죄자에 대한 위치추적 <b>전자<\/b>장치 부착에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18657270",
+			"description":"A Critical Study on ‘the Act on attachment of electronic device for position tracking on specific sexual crime offenders’ There is "
+		},
+		{
+			"title":"정판고정、수내고정급인공고골두치환수복고영고골<b>전자<\/b>간골절：선역여",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=705812613",
+			"description":""
+		},
+		{
+			"title":"성폭력범죄대책과 <b>전자<\/b>감시: 특정 범죄자에 대한 위치추적<b>전자<\/b>장치부착",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41630817",
+			"description":"Sexual Crime Prevention and Electronic Monitoring: A Study on the act of electronic device attachment for tracking location of specific"
+		},
+		{
+			"title":"<b>전자<\/b>감시제도(Electronic Monitoring)의 도입에 관한 연구― ‘특정 성폭력범",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18644616",
+			"description":"A Critical Review of the New Electronic Monitoring System for Some Sexual Criminals   <b>전자<\/b>감시, 성범죄, 이중처벌금지, 사"
+		},
+		{
+			"title":"기우<b>전자<\/b>비화SPME-GC-MS연용분석취육환어육적휘발성풍미성분 (基于电子鼻",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=721411821",
+			"description":""
+		},
+		{
+			"title":"기우Cu x O<b>전자<\/b>전이조제급TiO 2 개대변조공적협동효응구동가현광최화 (基",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=719176125",
+			"description":"   Photochemistry, Photocatalysis, Oxygen, Molecule, Materials science, Heterojunction, Electron transfer, Doping, Band gap, Absorption"
+		},
+		{
+			"title":"기우비선성예감분석적영자직선동보전궤<b>전자<\/b>추력특성연구 (基于非线性",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=87882475",
+			"description":"Research on Thrust Characteristics in Permanent Magnet Linear Synchronous Motor Based on Analysis of Nonlinear Inductance 传统的永"
+		},
+		{
+			"title":"고골근단방선수내정여해부쇄정강판치료노년고골<b>전자<\/b>간골절적료효비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=702529113",
+			"description":"   Nuclear chemistry, Medicine "
+		},
+		{
+			"title":"지방고교<b>전자<\/b>신식류전업창신창업인재배양모식연구：현상、문제여전망",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=719246932",
+			"description":""
+		},
+		{
+			"title":"고골근단방선수내정、쇄정가압강판、동력관나정、Gamma정4종내고정방식",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=694253484",
+			"description":""
+		},
+		{
+			"title":"부동산<b>전자<\/b>계약 시스템 도입의 중개업계 영향 및 대응방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186829836",
+			"description":"Brokers Impact and Countermeasure of Real Estate Electronic Contract System Introduction  목차\n부동산<b>전자<\/b>계약 시스템 도입"
+		},
+		{
+			"title":"교류분석의 재결정을 활용한 프로그램이 <b>전자<\/b>장치부착 성폭력범죄자의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651417516",
+			"description":"The Effects of the Redecision of Transactional Analysis on Empowerment, Autonomy and Interpersonal Relationship of Sexual Offenders wit"
+		},
+		{
+			"title":"디지털시대 인문학의 새 방법론으로서의 <b>전자<\/b>문화지도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16556095",
+			"description":"The Digitalized Cultural AtlasAs a New Research Method for the Humanities in the Era of Digital 본고에서 언급하는 <b>전자<\/b>문화"
+		},
+		{
+			"title":"구차교정소묘투사<b>전자<\/b>현미경(ac-STEM)탐측단원자최화중적활성중심 (球差",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722936091",
+			"description":"Aberration-corrected scanning transmission electron microscopy in single-atom catalysis: Probing the catalytically active centers &quot;近"
+		},
+		{
+			"title":"정부신뢰와 정책수용: <b>전자<\/b>주민카드 정책을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13661525",
+			"description":"Government Trust and Policy Support: The Case of National Electronic ID Policy 정부 정책의 소망성이 높다고 하더라도 정"
+		},
+		{
+			"title":"<b>전자<\/b>교과서 개발을 위한 체제적 접근 전략과 방향 탐구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11139948",
+			"description":"Inquiry of Strategies and Preconditions for Developing the Electronic Textbook Inquiry of Strategies and Preconditions for Developing t"
+		},
+		{
+			"title":"<b>전자<\/b>공학회논문지 C",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3127190",
+			"description":""
+		},
+		{
+			"title":"“호연망＋”배경하대학생창신창업교육탐색실천——이계림<b>전자<\/b>과기대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=702537850",
+			"description":""
+		},
+		{
+			"title":"응용<b>전자<\/b>감응조사법거제야금급규중타질붕 (应用电磁感应造渣法去除冶",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220984470",
+			"description":"Removal of boron from metallurgical grade silicon by electromagnetic induction slag melting 提出一种新的提纯工艺即通过造"
+		},
+		{
+			"title":"농촌<b>전자<\/b>상무발전대동농촌경영신모식--기우강소성＂도보촌＂적안례연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=709058548",
+			"description":""
+		},
+		{
+			"title":"S삼타대예태광상TiO 2 <b>전자<\/b>결구여광최화성능적영향 (S掺杂对锐钛矿相TiO 2",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=675617752",
+			"description":""
+		},
+		{
+			"title":"기상색보법동시측정<b>전자<\/b>연연액중적연감、1,2-병이순화병삼순 (气相色谱",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=726655094",
+			"description":""
+		},
+		{
+			"title":"정밀<b>전자<\/b>지도 기반의 차로 수준의 위치정보 교환 프레임워크 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561917736",
+			"description":"Development of lane-level location data exchange framework based on high-precision digital map 최근 자율주행차와 같이 고정"
+		},
+		{
+			"title":"Bi–O–Si거작위예<b>전자<\/b>전수통도증강SiO2@Bi미구적등이자체광최화효율 (Bi",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=477631755",
+			"description":"Enhanced plasmonic photocatalysis by SiO2@Bi microspheres with hot-electron transportation channels via Bi–O–Si linkages 具有等"
+		},
+		{
+			"title":"제품디자인의 아이코닉(Iconic) 디자인 속성과 전략적 가치 연구 : 시장 선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650659070",
+			"description":"Study on iconic design attributes and strategic values of product design : focused on the products of market leading electronic compani"
+		},
+		{
+			"title":"컴퓨터 <b>전자<\/b>기록에 대한 대물적 강제처분의 해석론적 쟁점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45695009",
+			"description":"Requirements for the Legitimate Warrants for Searches and Seizures of Computer Data Since the democratization of Korea, the reform of i"
+		},
+		{
+			"title":"<b>전자<\/b>봉장용Al-50%SiC복합재료적조직화성능 (电子封装用Al-50%SiC复合材料的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=213524739",
+			"description":"Microstructures and properties of Al–50%SiC composites for electronic packaging applications 采用粉末冶金法制备体积分数"
+		},
+		{
+			"title":"중국 <b>전자<\/b>상거래 신뢰성 제고를 위한 온라인 인증마크제도 활성화방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77891209",
+			"description":"A Study on the Revitalization of Online Assurance Seals in Chinese e-Commerce 최근 <b>전자<\/b>상거래가 급성장함에 따라 소비"
+		},
+		{
+			"title":"<b>전자<\/b>무역시대의 국가직무능력표준(NCS)을 적용한 수출입관리 교육과정이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=163597305",
+			"description":"National Competency Standard(NCS) using import and export management training courses for the impact on educational outcomes research i"
+		},
+		{
+			"title":"<b>전자<\/b>봉장용Al\/Si\/SiC복합재료적현미조직여성능 (电子封装用Al\/Si\/SiC复合材",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=221801187",
+			"description":"Microstructure and properties of Al\/Si\/SiC composites for electronic packaging 采用气压浸渗法制备中体积分数电子封装"
+		},
+		{
+			"title":"GaN(0001)표면<b>전자<\/b>결구화광학성질적제일성원리연구 (GaN(0001)表面电子结构",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=736943393",
+			"description":""
+		},
+		{
+			"title":"차세대 <b>전자<\/b>기록관리 프로세스 재설계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594578238",
+			"description":" 제 4차 산업혁명의 도래로 인한 신기술의 도입과 클라우드 업무환경으로의 변화 등의 기록관리 외부"
+		},
+		{
+			"title":"통변비공개구상쇄정화단기공정책략설계고효율적A-D-A형조환<b>전자<\/b>수체 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=677120459",
+			"description":"   Materials science "
+		},
+		{
+			"title":"빅딜, 오픈액세스, 구글학술검색과 대학도서관의 <b>전자<\/b>학술정보구독",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57058564",
+			"description":"Big Deal, Open Access, Google Scholar and the Subscription of Electronic Scholarly Contents at University Libraries 현재 국내외 "
+		},
+		{
+			"title":"<b>전자<\/b>정부 성과관리 평가로서 정보시스템 성과지표의 적정성 분석 : 업무",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650891955",
+			"description":"Analysis of the adequacy of information system performance indicators as an e-government performance management evaluation : achievemen"
+		},
+		{
+			"title":"투사<b>전자<\/b>현미경재지구과학연구중적응용 (透射电子显微镜在地球科学研",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=622627709",
+			"description":""
+		},
+		{
+			"title":"베트남 진출 한국 <b>전자<\/b>제조기업에서 통번역직원으로 살아가기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650608879",
+			"description":"  표제지\n목차\n국문초록 8\nI. 서론 10\n 1. 연구 배경과 목적 10\n 2. 이론적 배경 및 선행연구 검토 14\n 3. 연"
+		},
+		{
+			"title":"Wave 부호 기반 <b>전자<\/b>서명 기법의 효율적 검증 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898270847",
+			"description":"A Study on Efficient Verification of Wave Code-Based Signature 자율주행 차량 네트워크와 같이 전송된 데이터의 무결"
+		},
+		{
+			"title":"첨가동전충층적Ti-15-3태합금여304불수강<b>전자<\/b>속한접변정중적온도여응력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220984791",
+			"description":"Temperature and stress fields in electron beam welded Ti-15-3 alloy to 304 stainless steel joint with copper interlayer sheet 采用铜"
+		},
+		{
+			"title":"참여정부의 <b>전자<\/b>정부 추진정책 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77885045",
+			"description":"The Evaluation of Participatory Government's e-Government Policy 본 연구의 목적은 새로 출범한 정부의 <b>전자<\/b>정부 정책"
+		},
+		{
+			"title":"특정성범죄자 <b>전자<\/b>감시제도에 대한 쟁점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18647603",
+			"description":"The issue on the Act on Putting GPS Tracking Devices on Special Sex Offenders Today, restraints for crime prevention come in a variety "
+		},
+		{
+			"title":"우리나라 전기<b>전자<\/b>산업의 수출경쟁력 분석과 시사점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13994796",
+			"description":"An Empirical Analysis on the Export Competitiveness of Korean Electric &amp; Electronic Industry 본 논문의 목적은 전기<b>전자<\/b>산업"
+		},
+		{
+			"title":"<b>전자<\/b>매체시대의 독자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177189974",
+			"description":"Readers in the Age of Electronic Media 이 논문은 <b>전자<\/b>매체로 인해 독서와 독자의 개념이 어떻게 변화하고 있으"
+		},
+		{
+			"title":"<b>전자<\/b>상거래 이용자들의 정보 프라이버시 우려와 반응 행동에 대한 실증 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77193577",
+			"description":"A Study on the e-Commerce Adopters' Information Privacy Concerns and Response Behaviors 온라인 기업들에 의한 개인 정보의 "
+		},
+		{
+			"title":"담철공삼예태광상TiO 2 <b>전자<\/b>결구화광학성질적제일성원리연구 (氮铁共掺",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=691288289",
+			"description":"   Materials science "
+		},
+		{
+			"title":"이항목위대체적《모의<b>전자<\/b>기술》과정설계 (以项目为载体的《模拟电子",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=693973683",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>정부의 패러다임 변화와 발전 방향에 대한 전망",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39164703",
+			"description":"  목차\n<b>전자<\/b>정부의 패러다임 변화와 발전 방향에 대한 전망 \/ 석봉기 ; 문정욱 1\n [요약] 1\n I 서론 1\n II. "
+		},
+		{
+			"title":"<b>전자<\/b>상거래법 개정안의 역외적용 규정에 대한 비판적 단상 (<b>전자<\/b>상거래",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898271291",
+			"description":"Critical Comments on the provision for Extraterritorial Application among the Amendments to the E-Commerce Act 공정거래위원회가"
+		},
+		{
+			"title":"<b>전자<\/b>배산사연사(EBSD)기술재대육동력학연구중적응용 (电子背散射衍射(EBS",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=670257770",
+			"description":""
+		},
+		{
+			"title":"고골<b>전자<\/b>간골절내고정술후발생관내번적상소인소분석 (股骨转子间骨折",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=700172875",
+			"description":"   Medicine, Gynecology "
+		},
+		{
+			"title":"HOMO활화적2-비남동여2,5-이희동반<b>전자<\/b>수구적불대칭Diels-Alder반응 (HOMO活化",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=661501196",
+			"description":"   Organic chemistry, Chemistry "
+		},
+		{
+			"title":"채용유한원법설계<b>전자<\/b>성형적비균균선권 (采用有限元法设计电磁成形的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220984062",
+			"description":"Alternative flat coil design for electromagnetic forming using FEM 电磁成形是一种使用脉冲电磁力快速成形的工艺.线"
+		},
+		{
+			"title":"공작변정도향적리실일체화과정구건여실시——이응용<b>전자<\/b>기술전업《전",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=688725874",
+			"description":""
+		},
+		{
+			"title":"<b>전자<\/b>상거래 환경에서 지각된 위험이 지각된 가치 및 재구매의도에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78347084",
+			"description":"The Effects of Perceived Risk Affecting Perceived Value and Repurchase Intention in Electronic Commerce Environment 본 연구의 주"
+		},
+		{
+			"title":"<b>전자<\/b>게임에 몰입한 아동의 심리진단적 특성(I): 사례중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442253002",
+			"description":"  방법\n결과\n논의\n참고문헌 <b>전자<\/b> 게임 아동 사례연구 "
+		},
+		{
+			"title":"<b>전자<\/b>무역시스템 하에서 <b>전자<\/b>무역전문서비스업자 제도의 문제점과 개선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77189519",
+			"description":"A Study on the Problems and Improvements of e-Trade Specialized Service Provider System under e-Trading System <b>전자<\/b>무역의 패러"
+		},
+		{
+			"title":"한국전기<b>전자<\/b>재료학회 뉴스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896911123",
+			"description":"KIEEME News    "
+		},
+		{
+			"title":"<b>전자<\/b>상무、무역중개여국제무역발전：일개문헌종술 (电子商务、贸易中",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=699702580",
+			"description":""
+		},
+		{
+			"title":"제6회 한국전기<b>전자<\/b>재료학회 재료사진공모전 수상작",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896911122",
+			"description":""
+		},
+		{
+			"title":"경회암삼유초성평고기<b>전자<\/b>격분저치료료효적응용개치 (经会阴三维超声",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=721343502",
+			"description":"   Traditional medicine, Medicine "
+		},
+		{
+			"title":"웹 2.0 정치 UCC와 <b>전자<\/b>민주주의 - 정당, 선거 그리고 촛불시민운동의 시민",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16613008",
+			"description":"On the Web 2.0 Political UCC and E-Democracy - Focusing on the Civil Participation of Party, Election, and Candle Demonstration - 웹 2"
+		},
+		{
+			"title":"제6회 <b>전자<\/b> 소자 및 제조 기술 학회(EDTM 2022)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896911118",
+			"description":"6th IEEE Electron Devices Technology and Manufacturing (EDTM) Conference    "
+		},
+		{
+			"title":"고등학생의 <b>전자<\/b>담배와 일반담배의 흡연행태비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562291248",
+			"description":"Comparison of Characteristics of E-cigarette Users and Conventional Cigarette Smokers among Korean High School Students Objectives: We "
+		},
+		{
+			"title":"<b>전자<\/b>코와 <b>전자<\/b>혀를 이용한 시판 증류주의 향미특성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=718382526",
+			"description":"   Taste, Food science, Flavor, Electronic tongue, Electronic nose, Chemistry "
+		},
+		{
+			"title":"<b>전자<\/b>소자 열분석을 위한 열반사 현미경 기술",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601662",
+			"description":"Thermoreflectance Microscopy for Thermal Analysis of Electronics 최근 거대 데이터 기반의 미래 기술이 발전함에 따라"
+		},
+		{
+			"title":"정부－공중 관계성 향상을 위한 PR도구로서 <b>전자<\/b>정부의 가능성 탐색 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74844162",
+			"description":"E-government as a Public Relations Tool for Improving the Quality of Government-Public Relationships 인터넷 등 정보통신기술"
+		},
+		{
+			"title":"304불수강여QCr0.8낙청동전가동한사적<b>전자<\/b>속한접 (304不锈钢与QCr0.8铬青铜",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=488682533",
+			"description":"Electron beam welding of 304 stainless steel to QCr0.8 copper alloy with copper filler wire 采用填铜焊丝对304不锈钢与 QCr0.8"
+		},
+		{
+			"title":"기우OBE이념적“모의<b>전자<\/b>기술”과정교학개혁탐색 (基于OBE理念的“模拟",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=715064058",
+			"description":""
+		},
+		{
+			"title":"보호관찰대상자의 <b>전자<\/b>감시도입에 관한 연구 : 외출제한과 가택구금을 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12966249",
+			"description":"A Study on Introduction to Electronic Monitoring for the Probationer -Focused on Curfew and Home detention- 야간주거침입 강·절"
+		},
+		{
+			"title":"한국 중소기업의 <b>전자<\/b>무역 이용상의 문제점과 발전방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77889622",
+			"description":"A Study on the Problems and Solutions of Using e-Trade of Small and Medium Enterprises in Korea <b>전자<\/b>무역을 통하여 중소기업"
+		}
+	]
+}

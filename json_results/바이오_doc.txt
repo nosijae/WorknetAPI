@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:16 +0900",
+	"total":56409,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>바이오<\/b>시스템공학",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2377",
+			"description":""
+		},
+		{
+			"title":"Nanobiocatalytic assemblies for artificial photosynthesis = 나노<b>바이오<\/b>소재 기반 인공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=219677181",
+			"description":"Nanobiocatalytic assemblies for artificial photosynthesis Graphical abstract  chemistry, Nanoparticles, Photosystem II Protein Complex,"
+		},
+		{
+			"title":"<b>바이오<\/b> 미래유망 연구분야 도출에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78365904",
+			"description":"A Study on the Promising Future Biotechnology 과학기술이 경제사회의 핵심동력으로 작용하면서 향후 산업발전 "
+		},
+		{
+			"title":"특허정보를 활용한 나노<b>바이오<\/b> 융합기술의 특성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41597528",
+			"description":"  목차\n특허정보를 활용한 나노<b>바이오<\/b> 융합기술의 특성 분석 \/ 노현정 ; 임효정 1\n [목차] 1\n 초록 2\n I. "
+		},
+		{
+			"title":"유망 <b>바이오<\/b>에너지작물 “억새” 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=456570315",
+			"description":"Development of “Miscanthus” the Promising Bioenergy Crop 억새의 식물학적인 분류 및 형태, 선진국의 억새 육종, "
+		},
+		{
+			"title":"생분해, 산화생분해, <b>바이오<\/b> 베이스 플라스틱의 세계 주요 국가 인증마",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561775775",
+			"description":"National Certification Marks and Standardization Trends for Biodegradable, Oxo-biodegradable and Bio based Plastics 최근 환경문제"
+		},
+		{
+			"title":"셀룰로오스 아세테이트 중공사 분리막을 이용한 <b>바이오<\/b>가스 분리에 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651417501",
+			"description":"Suitability of Counter-current Model for Biogas Separation Processes using Cellulose Acetate Hollow Fiber Membrane 멤브레인을 이"
+		},
+		{
+			"title":"연구개발비 주석 공시의 유사도와 테마감리의 효과: 제약·<b>바이오<\/b> 산업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896910594",
+			"description":"The Effect of Theme Audit Review on R&amp;D Footnote: Focusing on Bio-Pharmaceutical Industries 본 연구는 COVID-19 이후 제약·바"
+		},
+		{
+			"title":"<b>바이오<\/b>경제의 정책 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862891412",
+			"description":"  I. <b>바이오<\/b>경제 정의 및 범위\n\nII. 글로벌 <b>바이오<\/b>경제 현황 및 전망\n\nIV. 한국 <b>바이오<\/b>경제 활성화를 위한"
+		},
+		{
+			"title":"<b>바이오<\/b> 디젤 연료의 분무 거동 및 미립화 특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289861041",
+			"description":"Macroscopic Behavior and Atomization Characteristics of Bio-diesel Fuels This work was conducted to figure out the atomization characte"
+		},
+		{
+			"title":"<b>바이오<\/b>디젤의 효과적 생산방법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13672181",
+			"description":"The Effective Product Method of Biodiesel 현재 화석연료사용의 급증으로 인한 지구온난화와 자원고갈의 문제가"
+		},
+		{
+			"title":"유기성폐기물 유래 <b>바이오<\/b>가스 활용 고도화 기술",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907518",
+			"description":"Application of biogas derived from organic waste   <b>바이오<\/b>가스, <b>바이오<\/b>가스 고질화, 열병합발전 "
+		},
+		{
+			"title":"우리나라 <b>바이오<\/b> 산업의 현황과 정책적 이슈",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862891407",
+			"description":"  Ⅰ. 서론\n\nⅡ. <b>바이오<\/b>제약 산업의 특징\n\nⅢ. <b>바이오<\/b> IP의 정책적 이슈\n\nⅣ. 요약 및 정책적 시사점\n\n참"
+		},
+		{
+			"title":"가축분뇨를 이용한 <b>바이오<\/b>가스생성 최적화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907549",
+			"description":"Optimization for biogas production during anaerobic digestion of cow manure   가축분뇨, <b>바이오<\/b>가스, 혐기소화, 통합소화"
+		},
+		{
+			"title":"PFOS의 저온플라즈마 처리가 미세조류 <b>바이오<\/b> 디젤 수율에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907422",
+			"description":"Effect of PFOS on Microalgal biodiesel yield during cold plasma treatment   PFOS, 저온플라즈마 전처리, Chlorella vulgaris, 바"
+		},
+		{
+			"title":"d-limonene 제어를 위한 곰팡이 <b>바이오<\/b>필터의 운전 최적화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907472",
+			"description":"Optimization of fungal Biofilter performance for d-limonene removal   <b>바이오<\/b>필터, d-limonene, 임계부하량 "
+		},
+		{
+			"title":"수첨탈산소화 반응을 통한 열분해 <b>바이오<\/b> 오일 업그레이드",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650607951",
+			"description":"Upgrading pyrolysis bio-oil into fuel-like high value products via hydrodeoxygenation using sulfided Mo catalysts  Title Page\n초록\nAB"
+		},
+		{
+			"title":"전도성물질 주입을 통한 음식물류폐기물 <b>바이오<\/b>수소 생산 효율 개선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907403",
+			"description":"Enhanced bio-hydrogen production efficiency from food waste by injection conductive materials   <b>바이오<\/b>수소, 암발효, 음식물"
+		},
+		{
+			"title":"코스닥 상장 <b>바이오<\/b>벤처기업에 대한 벤처캐피탈 투자가 <b>바이오<\/b>벤처기업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=178491151",
+			"description":"Study on VC Investment Improve Growth and Productivity of VC: Backed firms Focused on Kosdaq Listed Bio Venture Company 본 연구에"
+		},
+		{
+			"title":"고농도 폐수를 이용한 미세조류 생산 및 <b>바이오<\/b>디젤 추출을 위한 미세조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907482",
+			"description":"Microalgal biomass production using high strength wastewater to improve lipid synthesis for biodiesel conversion   Chlorella sorokinian"
+		},
+		{
+			"title":"K-<b>바이오<\/b> 소부장 국산화 성과 가시화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889911033",
+			"description":""
+		},
+		{
+			"title":"인간, 동물, 로봇 그리고 <b>바이오<\/b>필리아(biophilia)의 법 ―에리히 프롬(Erich ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290878317",
+			"description":"Human, animal, robot and the law of biophilia 이 글은 프롬의 <b>바이오<\/b>필리아와 네크로필리아 개념을 중심으로 4차"
+		},
+		{
+			"title":"잉여슬러지의 <b>바이오<\/b>가스 생산 효율 향상을 위한 음식물류 폐기물 산발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907529",
+			"description":"Biological Pretreatment of Waste Activated Sludge Using Crude Hydrolytic Extracellular Enzyme from Acid Fermented Food waste for Enhanc"
+		},
+		{
+			"title":"유기물부하율, 수리학적체류시간 등 공정변수를 이용한 혐기소화 바이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907517",
+			"description":"Estimation of biogas production in anaerobic conditions using process parameters such as Hydraulic Retention Time (HRT), Organic Loadin"
+		},
+		{
+			"title":"인상주의 ‘모네’의 풍경화에 기반한 <b>바이오<\/b>필릭 색채 팔레트 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873620032",
+			"description":"A Development of Biophilic Color Palette Based on ‘Monet’s Landscape Painting 본 연구는 자연풍경이 있는 실내에서 치"
+		},
+		{
+			"title":"음폐수의 <b>바이오<\/b>가스화를 위한 2상 혐기성소화공정의 실증 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907444",
+			"description":"Full-scale Study on Two-stage Anaerobic Digestion Process for Biogas Production Using Food Wastewater   음폐수, 2상 혐기성소화"
+		},
+		{
+			"title":"<b>바이오<\/b>파놉티콘(bio-panopticon)과 생명 감시사회",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887307863",
+			"description":"Bio-panopticon and Bio-surveillance Society 팬데믹 상황과 의료 패러다임의 변화 속에서 세계 각국은 <b>바이오<\/b> 빅"
+		},
+		{
+			"title":"<b>바이오<\/b>의약품산업 육성 정책 우선순위 도출에 관한 연구 : 경기도 정책",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891351060",
+			"description":"A study on prioritization of biopharmaceutical industry promotion policy : focusing on IPA analysis of Gyeonggi-do policy tasks  목차"
+		},
+		{
+			"title":"<b>바이오<\/b>기업의 생명공학기술 특허 성과와 흡수역량, 파급효과, 네트워크",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13601238",
+			"description":"Relationship between Innovative Capacities and IPR Performances among Korean Bio-firms 본 연구는 <b>바이오<\/b>기업의 혁신 성과"
+		},
+		{
+			"title":"순수 균주(Clostridium butyricum) 첨가 열처리 슬러지를 식종균으로 활용한 고",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907404",
+			"description":"High-rate biohydrogen production using heat-treated sludge supplemented with Clostridium butyricum   Clostridium butyricum, 동적 막,"
+		},
+		{
+			"title":"생화학적 메탄잠재량 시험 기반 하수슬러지, 하수슬러지 열가수분해액, ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907534",
+			"description":"Co-digestion effect of sewage sludge, thermally hydrolyzed sludge, and food waste for improvement of methane production based on bioche"
+		},
+		{
+			"title":"<b>바이오<\/b>경제에서 화이트 <b>바이오<\/b>의 의미와 현황",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=653979749",
+			"description":"White Biotechnology for Bioeconomy 본고에서는 <b>바이오<\/b>경제에서 핵심 산업인 화이트 <b>바이오<\/b>에 대하여 개관하고"
+		},
+		{
+			"title":"동아시아 생명과학의 발전과 <b>바이오<\/b>시민권의 형성가능성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58067549",
+			"description":"  목차\n동아시아 생명과학의 발전과 <b>바이오<\/b>시민권의 형성가능성 \/ 김기흥 1\n [요약] 1\n I. 서론 1\n II. 동"
+		},
+		{
+			"title":"글로벌 <b>바이오<\/b>정보 프라이버시 논점 분석을 기반으로 한 <b>바이오<\/b>정보 보",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594506919",
+			"description":" 프라이버시는 개인의 사생활이나 사적인 일이 타인에게 공개되지 않을 권리를 뜻한다. <b>바이오<\/b>정보는"
+		},
+		{
+			"title":"포스트휴머니즘에 근거한 <b>바이오<\/b>아트 교육 지도 방안: 고등학교 미술교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887352821",
+			"description":"Teaching Plan for Bioart Education Based on Posthumanism: Focused on Art Education in High School 본 연구는 포스트휴머니즘"
+		},
+		{
+			"title":"억새를 이용한 <b>바이오<\/b> 에탄올 생산을 위한 암모니아 침출 공정 최적화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420093270",
+			"description":"Optimization of Ammonia Percolation Process for Ethanol Production from Miscanthus Sinensis 당질계 및 전분질계 <b>바이오<\/b> 매스"
+		},
+		{
+			"title":"한국해양<b>바이오<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3099542",
+			"description":""
+		},
+		{
+			"title":"혁신역량의 주요요인이 국내 <b>바이오<\/b>산업에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875541735",
+			"description":"Effect of Major Factors of Innovation Capability on The Domestic Bio Industry 최근 세계적인 팬데믹(pandemic) 상황으로 바"
+		},
+		{
+			"title":"프랙탈을 활용한 <b>바이오<\/b>필릭 텍스타일 디자인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882041650",
+			"description":"A Study on the Biophilic Textile Design Using Fractal 현대인에게 실내 환경은 ‘내가 머무는 장소’에서 나아가 "
+		},
+		{
+			"title":"<b>바이오<\/b>의약품산업 육성 정책 우선순위 도출에 관한 연구: 경기도 정책과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882775623",
+			"description":"A Study on Prioritization of Biopharmaceutical Industry Promotion Policy: Focusing on IPA analysis of Gyeonggi-do policy tasks 본 연"
+		},
+		{
+			"title":"다양한 식물성오일로부터 생산된 <b>바이오<\/b>디젤의 혼합에 따른 연료특성 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=53981521",
+			"description":"Determination of Fuel Properties for Blended Biodiesel from Various Vegetable Oils 화석연료의 고갈과 원유가격 폭등으로 "
+		},
+		{
+			"title":"포스트휴머니즘에 근거한 <b>바이오<\/b>아트 교육 지도 방안 : 고등학교 미술교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887633594",
+			"description":"Teaching Plan for Bioart Education Based on Posthumanism : Focused on Art Education in High School 본 연구는 포스트휴머니즘"
+		},
+		{
+			"title":"<b>바이오<\/b>헬스 관련 전시 사례연구 - 국내·외 과학관 사례를 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896908462",
+			"description":"Exhibition case study related to bio-health - Focusing on cases of domestic and foreign science museums - 코로나19의 영향으로 "
+		},
+		{
+			"title":"프랙탈을 활용한 <b>바이오<\/b>필릭 텍스타일 디자인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881525496",
+			"description":"A Study on the Biophilic Textile Design Using Fractal 현대인에게 실내 환경은 ‘내가 머무는 장소’에서 나아가 "
+		},
+		{
+			"title":"<b>바이오<\/b>헬스기업에서 외향형 개방형혁신의 적합한 협력관리는 무엇인가?",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889237683",
+			"description":"What is the Appropriate Cooperation Management of Inside-Out Open Innovation in a Bio-Health Company? - A Moderating Effect of Cooperat"
+		},
+		{
+			"title":"<b>바이오<\/b>산업 생산(38.2%) 및 수출(53.1%) 역대 최대 증가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887344639",
+			"description":""
+		},
+		{
+			"title":"인공지능 <b>바이오<\/b> 경제를 위한 <b>바이오<\/b>벤처의 방향성과 정책에 대한 제언",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887858520",
+			"description":"Suggestions on the Direction and Policy of Bioventures for the AI Bioeconomy 인공지능의 학습은 해가 지날수록 진화하고"
+		},
+		{
+			"title":"농산부산물인 옥피, 대두피, 왕겨, 소맥피를 이용한 산화생분해 <b>바이오<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116093442",
+			"description":"Development of Oxo-biodegradable Bio-plastics Film Using Agricultural By-product such as Corn Husk, Soybean Husk, Rice Husk and Wheat H"
+		},
+		{
+			"title":"1LJ-6 : 생체모방 <b>바이오<\/b>나노시스템",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890104078",
+			"description":"   생체모방, 자가정렬, M13 Bacteriophage, 나노<b>바이오<\/b> 융합 "
+		},
+		{
+			"title":"지속가능한 패션브랜드의 <b>바이오<\/b>필릭 디자인 접근법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897315875",
+			"description":"Biophilic Design Approach for Sustainable Fashion Brands This study aimed to find the sustainable fashion design approach based on the "
+		},
+		{
+			"title":"물리화학적 가수분해에 의한 갈조류 <b>바이오<\/b> 에탄올 생산",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32729487",
+			"description":"Production of Bio-ethanol from Brown Algae by Physicochemical Hydrolysis 본 연구는 다양한 갈조류를 이용한 <b>바이오<\/b> 에"
+		},
+		{
+			"title":"<b>바이오<\/b> 산업 R&amp;D 성과의 특이성과 주요 결정요인에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887307250",
+			"description":"The Study on the Specificity and Major Determinants of R&amp;D Performance of the Bio-industry 본 연구에서는 과학기술 집약적"
+		},
+		{
+			"title":"우리나라의 나고야의정서의 가입이 <b>바이오<\/b>산업에 미치는 경제적 영향 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57811811",
+			"description":"Accession of Korea to the Nagoya Protocol and its Economic Impact Analysis on Korean Bioindustry Companies 유전자원의 접근 및 "
+		},
+		{
+			"title":"2LK-8 : 수열분해 및 용매열분해를 이용한 <b>바이오<\/b>원유 생산",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890104219",
+			"description":"   <b>바이오<\/b>매스, 수열, 용매열, <b>바이오<\/b>원유 "
+		},
+		{
+			"title":"희귀·난치환자에 새로운 치료 기회 열렸다 : '첨단재생의료 및 첨단바이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822088493",
+			"description":"  목차\n희귀·난치환자에 새로운 치료 기회 열렸다 : '첨단재생의료 및 첨단<b>바이오<\/b>의약품 안전 및 지원"
+		},
+		{
+			"title":"국가 연구데이터플랫폼과 <b>바이오<\/b> 연구데이터플랫폼의 메타데이터 상호",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896403687",
+			"description":"A Study on Metadata Interoperability between the National Research Data Platform and the Bio Research Data Platform The ‘National Res"
+		},
+		{
+			"title":"2P-719 : 키토산 기반 100% 자연분해 <b>바이오<\/b>플라스틱 소재 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890105743",
+			"description":"   키토산, <b>바이오<\/b>플라스틱 "
+		},
+		{
+			"title":"자연순환형 <b>바이오<\/b>복합재료",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18471433",
+			"description":"Naturally Cyclable Biocomposites    "
+		},
+		{
+			"title":"유기성폐자원에너지 인센티브제도 도입방안 연구(Ⅱ): <b>바이오<\/b>가스화 물",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877223872",
+			"description":"A study on the introduction of organic waste-to-energy incentive system(Ⅱ): material and energy balance of biogasification 본 연구"
+		},
+		{
+			"title":"2LJ-8 : 이상반응을 이용한 <b>바이오<\/b>퓨엘 생산 공정의 최적화 및 분석에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890104211",
+			"description":"   공정설계, <b>바이오<\/b>퓨엘 "
+		},
+		{
+			"title":"토종효모를 이용한 복분자 발효주의 <b>바이오<\/b>제닉아민 함량 및 향기성분 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=702277581",
+			"description":"   Yeast in winemaking, Yeast assimilable nitrogen, Wine fault, Wine chemistry, Wine, Sugars in wine, Malolactic fermentation, Food sci"
+		},
+		{
+			"title":"혐기소화에서의 <b>바이오<\/b>가스 생산 증진을 위한 슬러지 전처리 기술",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78438225",
+			"description":"Pre-treatment Technology of Wastewater Sludge for Enhanced Biogas Production in Anaerobic Digestion 재생 원료인 <b>바이오<\/b>매스를"
+		},
+		{
+			"title":"2LA-6 : <b>바이오<\/b>플라스틱의 합성, 응용, 운명",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890104140",
+			"description":"2LA-6 : Synthesis, applications, and fate of bioplastics   플라스틱, 생분해, <b>바이오<\/b>플라스틱, 재생가능한 플라스틱"
+		},
+		{
+			"title":"안면센서 <b>바이오<\/b>피드백의 임상적 적용: 음성치료 또는 발성훈련에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601456",
+			"description":"Clinical Applications of Facial Sensor Biofeedback: Implications for Voice Therapy or Vocal Training 배경 및 목적: <b>바이오<\/b>피드"
+		},
+		{
+			"title":"식물성 오일로부터 <b>바이오<\/b>디젤의 합성과 저온특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78372219",
+			"description":"Synthesis of Biodiesel from Vegetable Oil and Their Characteristics in Low Temperature 동식물의 유지로부터 합성된 <b>바이오<\/b>"
+		},
+		{
+			"title":"무선 충전 가능한 블루투스 방식의 체내 음향신호 전송용 이식형 <b>바이오<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=709247431",
+			"description":"   Wireless, Transmitter, Microphone, Engineering, Electronic engineering, Data transmission, Codec, Bluetooth, Biotelemetry, Audio sig"
+		},
+		{
+			"title":"엘리자베스 비숍의 「대기실에서」에 나타나는 기하 추상과 <b>바이오<\/b>모픽",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889904772",
+			"description":"Geometric Abstraction and Biomorphism in Elizabeth Bishop’s “In the Waiting Room” This study examines how two major Modern art tr"
+		},
+		{
+			"title":"2P-716 : 케냐프 리그닌 저분자화를 통해 생성된 <b>바이오<\/b>오일의 특성분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890105740",
+			"description":"   리그닌, 저분자화, 케냐프, <b>바이오<\/b> 오일 "
+		},
+		{
+			"title":"1SF-8 : 청정연료 생산을 위한 <b>바이오<\/b>가스 초청정 정제 기술",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890104048",
+			"description":"1SF-8 : Biogas ultra-clean pretreatment technology for clean fuel production   <b>바이오<\/b>가스, 황화수소, 유기성폐자원, 탄"
+		},
+		{
+			"title":"박람회만족, 관광이미지 및 관광태도간의 관계 연구-2011제천한방<b>바이오<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77480174",
+			"description":"A Study the Relationship among Satisfaction with Exhibition, Tourism Image and Tourism Attitude: The Case of 2011 Oriental Medicine Bio"
+		},
+		{
+			"title":"국제 <b>바이오<\/b>복합재 연구동향과 시사점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822473399",
+			"description":"  목차\n국제 <b>바이오<\/b>복합재 연구동향과 시사점 \/ 이민 ; 박세휘 1\n CONTENTS 1\n 요약 3\n 1. 서론 4\n 2. 해외 바"
+		},
+		{
+			"title":"<b>바이오<\/b>필리아(Biophilia)에 기초한 환경윤리교육의 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846901297",
+			"description":"The direction of environmental ethics education based on biophilia 본 논문은 <b>바이오<\/b>필리아에 기초한 환경윤리교육의 "
+		},
+		{
+			"title":"미생물제재를 이용한 혐기성소화조 <b>바이오<\/b>가스 생산극대화와 실증화에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561763333",
+			"description":"Study on maximization and demonstration of biogas production in an anaerobic digester using a microbial agent 요즘 음식물쓰레기"
+		},
+		{
+			"title":"지역사회 문제해결을 위한 <b>바이오<\/b>헬스 디지털 리빙랩",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896404340",
+			"description":"BioHealth Digital LivingLab to Solve Local Community Problems Recently the need for research and education that can be applied to the f"
+		},
+		{
+			"title":"산성 및 중성 <b>바이오<\/b>필터를 통한 d-limonene의 처리 및 생물양론적 해석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890108820",
+			"description":"Treatment of gaseous d-limonene and stoichiometric analysis of biological reaction by acid and neutral biofilter   <b>바이오<\/b>필터, d-l"
+		},
+		{
+			"title":"<b>바이오<\/b>안전성의정서의 주요 내용과 의미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13258559",
+			"description":"  목차\n<b>바이오<\/b>안전성의정서의 주요 내용과 의미 \/ 최승환 1\n <b>바이오<\/b>안전성의정서란 1\n 주요내용 2\n  1. "
+		},
+		{
+			"title":"다양한 식물성오일로부터 생산된 <b>바이오<\/b>디젤의 혼합에 따른 연료특성 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420093989",
+			"description":"Determination of Fuel Properties for Blended Biodiesel from Various Vegetable Oils 화석연료의 고갈과 원유가격 폭등으로 "
+		},
+		{
+			"title":"인천지역 <b>바이오<\/b> 클러스터의 특징과 정책적 제언",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=830623976",
+			"description":"   <b>바이오<\/b>클러스터, 정책, 인천 "
+		},
+		{
+			"title":"미이용 <b>바이오<\/b>매스의 이산화탄소 활성화를 통한 <b>바이오<\/b>카본 생산: 포름",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877226565",
+			"description":"Production of Bio-Carbon from Unused Biomass through CO2 Activation: Removal Characteristics of Formaldehyde and Acetaldehyde 본 연"
+		},
+		{
+			"title":"분류층 가스화기에서 산화제 변화에 따른 <b>바이오<\/b>오일 가스화 전산해석 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890108814",
+			"description":"Numerical study on bio-oil gasification with respect to oxidant in entrained gasifier   가스화, <b>바이오<\/b>오일, 산화제, 전산"
+		},
+		{
+			"title":"파일럿분사에 의한 <b>바이오<\/b>디젤유의 연소과정에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=62487718",
+			"description":"A Study on Combustion Process of Biodiesel Fuel wifu Pilot Injection in a Common-mil Diesel Engine American NREL (National Renewable En"
+		},
+		{
+			"title":"독일의 코로나-19 위기 : 공공정책에서 권위주의적 전환 그리고 <b>바이오<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889240832",
+			"description":"Germany’s Corona Crisis : The Authoritarian Turn in Public Policy and the Rise of the Biosecurity State (****-****) 이 논문은  20"
+		},
+		{
+			"title":"이상 혐기성 소화 공정을 통한 슬러지 발생량 저감과 <b>바이오<\/b>가스 생산에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290040291",
+			"description":"A Study on the Sludge Reduction and Biogas Production through a Two-phase Anaerobic Digestion Process 슬러지 감량 효율을 높이"
+		},
+		{
+			"title":"다중이용시설내 공기중 <b>바이오<\/b>에어로졸 농도분포 특성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11452934",
+			"description":"Characterization of Airborne Bioaerosol Concentration in Public Facilities 0aThis study was conducted to evaluate the characterization "
+		},
+		{
+			"title":"<b>바이오<\/b> 폴리머 콘크리트의 환경 저항성 평가 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=749472725",
+			"description":"   Slight change, Penetration (firestop), Maximum difference, Materials science, Ion, Flexural strength, Environmental resistance, Cond"
+		},
+		{
+			"title":"감독당국의 지침과 공시 모범사례가 이익품질과 정보비대칭에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887908472",
+			"description":"The Impact of the Supervisory Guidelines and Guidance for Disclosure on Earnings’ Quality and Asymmetry : View from Pharmaceutical an"
+		},
+		{
+			"title":"<b>바이오<\/b>가스 중 황화수소의 제거를 위한 수세정 공정에서 전기화학 산화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890108796",
+			"description":"Evaluation of regeneration efficiency in a scrubber for the removal hydrogen sulfide in biogas using electrochemical oxidation   바이"
+		},
+		{
+			"title":"<b>바이오<\/b>소재 분야 부상기술 연구동향 분석 – <b>바이오<\/b>기반기술",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880280134",
+			"description":"   부상기술, <b>바이오<\/b>기반기술, 인공지능, 빅데이터, 스마트 <b>바이오<\/b>공정, <b>바이오<\/b>파운드리, 차세대 분자"
+		},
+		{
+			"title":"<b>바이오<\/b> 헬스케어 분야 국가연구개발 특허성과 네트워크 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562430370",
+			"description":"Analysis of National R&amp;D Patent Performance Network in Bio-Healthcare Sector 본 논문은 <b>바이오<\/b> 헬스 분야의 기술융합구"
+		},
+		{
+			"title":"녹차씨 오일을 이용한 <b>바이오<\/b>디젤 특성에 관한 연구 A study on Biodiesel Chara",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638093",
+			"description":"A study on Biodiesel Characteristics of Tea Seed Oil extracted using Supercritical CO2 Extraction The purpose of this work was to exami"
+		},
+		{
+			"title":"코로나19 상황에서 뇌인지신경기반 두뇌집중 <b>바이오<\/b>피드백 자기조절훈",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638887",
+			"description":"Effects of Brain Attention Biofeedback Self-regulation Training Nursing Intervention on Attention, Multidimensional Impulsivity, Emotio"
+		},
+		{
+			"title":"<b>바이오<\/b> 산업과 약가 제도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862891410",
+			"description":"  Ⅰ. 들어가며\n\nⅡ. 바람직한 약가 제도\n\nⅢ. 우리나라의 약가 제도\n\nⅣ. 신약의 약가 제도\n\nⅤ. 복제약"
+		},
+		{
+			"title":"코로나19시대 보건운동생체<b>바이오<\/b>데이터 교육: MZ세대 대면실습 참여 콘",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843033535",
+			"description":" 본 연구의 목적은 건강 운동 <b>바이오<\/b> 데이터 분석 대면 실습 교육 콘텐츠의 향후 발전 방향 조사를 위"
+		},
+		{
+			"title":"<b>바이오<\/b>오일 합성가스 생산 및 머신러닝 기반 예측모델에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890108806",
+			"description":"A study on bio-oil syngas production and machine learning based prediction model   가스화, 머신리닝, <b>바이오<\/b>오일, 합성가"
+		},
+		{
+			"title":"<b>바이오<\/b> 혁신을 위한 국내 <b>바이오<\/b> 관련 법체계의 진단과 개선 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=653979747",
+			"description":"A Study on the Legal Regime on Biotechnology in Korea with a View of Promoting Innovation 본고는 최근 새로운 전기를 맞고 "
+		},
+		{
+			"title":"유기성폐자원에너지 인센티브제도 도입방안 연구(Ⅲ): <b>바이오<\/b>가스화 인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877227170",
+			"description":"A study on the introduction of organic waste-to-energy incentive system(Ⅲ): Preparation of an incentive system for biogasification (p"
+		},
+		{
+			"title":"하수처리, 정수장 등 환경시설에서 에너지 자체 생산 : 환경시설을 활용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817799",
+			"description":""
+		},
+		{
+			"title":"화이트<b>바이오<\/b> 산업 육성을 위해 민·관 협력 강화한다",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822776761",
+			"description":""
+		},
+		{
+			"title":"미세먼지 저감 및 산업경쟁력 확보를 위한 <b>바이오<\/b>연료 정책연구의 필요",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877827021",
+			"description":"The Need for Research into Biofuel Policy to Reduce Air Pollution and Protect Industrial Competitiveness 미세먼지 발생에 가장 "
+		},
+		{
+			"title":"다양한 식물성오일로부터 생산된 <b>바이오<\/b>디젤의 혼합에 따른 연료특성 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=685971338",
+			"description":"   Vegetable oil, Pulp and paper industry, Methanol, Fossil fuel, Flash point, Environmental science, Diesel fuel, Cetane number, Biodi"
+		}
+	]
+}

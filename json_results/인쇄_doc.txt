@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:31 +0900",
+	"total":51557,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>인쇄<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6221",
+			"description":""
+		},
+		{
+			"title":"조선시대 완영의 <b>인쇄<\/b>문화에 대한 고찰 (조선시대 完營의 <b>인쇄<\/b>문화에 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56417949",
+			"description":"A Study on the Printing Culture of Wan-Young in the Joseon Dynasty 이 연구는 지역의 고<b>인쇄<\/b> 문화 활동에 대한 선행연"
+		},
+		{
+			"title":"유리 표면에 UV평판 디지털 <b>인쇄<\/b>를 적용한 최적의 인제 품질 재현에 관한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884756666",
+			"description":"A Study on Reproducing Optimal Print Quality by Applying UV Flat-bed Digital Printing on Glass Surface  제1장 서론\n\t제1절 연구"
+		},
+		{
+			"title":"잠곡 김육의 편·저서와 활자<b>인쇄<\/b> (潛谷 金堉의 編·著書와 活字印刷)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11393324",
+			"description":"  목차\n잠곡 김육의 편·저서와 활자<b>인쇄<\/b> \/ 千惠鳳 1\n I. 머리말 1\n II. 편저서의 활동 3\n  1. 시문유고 3\n  2."
+		},
+		{
+			"title":"박막형 전자 소자의 랜덤 액세스 수성 전사 <b>인쇄<\/b> 및 3차원 열가소성 형태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650607433",
+			"description":"Random access water-assisted transfer printing and three-dimensional thermoplastic transformation of membrane-type electronic devices  "
+		},
+		{
+			"title":"<b>인쇄<\/b>공익광고에 나타난 설득 전략으로서의 종결 표현 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873746361",
+			"description":"Strategy of Persuation in the Printed Public Advertisements 이 연구의 목적은 <b>인쇄<\/b> 공익광고 표제문에 나타난 종결 "
+		},
+		{
+			"title":"전극 스트립 제작을 위한 스크린<b>인쇄<\/b>에 있어 스크린 망사의 견장 각도별",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=753247817",
+			"description":"Changes in Printing Thickness by Stretching Angle of Screen Mesh in Screen Printing for Manufacturing of Electrode Strip 전극 스트"
+		},
+		{
+			"title":"Cu <b>인쇄<\/b>패턴의 Ni electroplating 을 통한 유연 솔더러블 <b>인쇄<\/b>전극형성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877756990",
+			"description":"Investigation of flexible and solderable printed copper pattern via Nickel electroplating   Printed electronics(<b>인쇄<\/b>전자), Intense "
+		},
+		{
+			"title":"롤투롤 <b>인쇄<\/b>압력 균일화를 위한 개별구동 교차결합 토크제어시스템",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881530147",
+			"description":"Individual Drive Cross-Coupled Torque Control System for Pressure Uniformization in Roll-to-Roll Printing 롤투롤 <b>인쇄<\/b>전자 공정"
+		},
+		{
+			"title":"용폐기<b>인쇄<\/b>선로판비금속조분분이물제비다공탄 (用废弃印刷线路板非金",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=112339732",
+			"description":"Preparation of porous carbons from non-metallic fractions of waste printed circuit boards by chemical and physical activation 以FR-3"
+		},
+		{
+			"title":"완판본(完板本) 홍길동전 판본 간에 나타난 목판<b>인쇄<\/b> 특징의 차이점 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890391797",
+			"description":"Publication Dating through Observations of Differences in Woodblock Printing Characteristics among Various Versions of Wanpanbon Editio"
+		},
+		{
+			"title":"도시재생의 문화콘텐츠 확대를 위한 프로그램 사례분석과 방안 모색 - ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873620022",
+			"description":"For the Expansion of Cultural Contents of Urban Regeneration Program Case Analysis and Planning - Focusing on Educational Programs of P"
+		},
+		{
+			"title":"조선시대 관상감의 역서 편찬과 <b>인쇄<\/b> (조선시대 관상감의 曆書 편찬과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=647666333",
+			"description":"The Calendar Publication of the Gwansang’gam 觀象監 in the late Joseon period 본 논문에서는 조선시대 曆書(冊曆)의 "
+		},
+		{
+			"title":"영상처리를 이용한 레지스터 컨트롤러 <b>인쇄<\/b>기법 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=658938732",
+			"description":"   Smart camera, Roll-to-roll processing, Register (music), Process (computing), Image processing, Error signal, Engineering, Control t"
+		},
+		{
+			"title":"종이와 글자에 마음을 새기는 일 : 활판 <b>인쇄<\/b> ‘긷’",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=623809163",
+			"description":"  목차\n종이와 글자에 마음을 새기는 일 : 활판 <b>인쇄<\/b> '긷' \/ 정성갑 1\n [머리글] 1\n 한국식 미감으로 종이"
+		},
+		{
+			"title":"목판<b>인쇄<\/b> 재현실험을 통한 한지상의 인출특성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865511213",
+			"description":"An Experimental Reproduction Study on Characteristics of Woodblock Printing on Traditional Korean Paper (Hanji) 우리나라의 <b>인쇄<\/b>"
+		},
+		{
+			"title":"조선시대 나주의 <b>인쇄<\/b>문화에 관한 연구 (조선시대 羅州의 <b>인쇄<\/b>문화에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57605428",
+			"description":"A Study on Printing of Naju in the Chosun dynasty 이 연구는 현재의 전라남도 지역의 <b>인쇄<\/b>문화를 파악하는 연구의"
+		},
+		{
+			"title":"<b>인쇄<\/b>전자를 위한 그라비아 옵셋 <b>인쇄<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420337652",
+			"description":"Gravure Offset Printing for Printed Electronics Manufacturing of printed electronics using printing technology has begun to get into th"
+		},
+		{
+			"title":"2021년《출판여<b>인쇄<\/b>》편위회기출판여<b>인쇄<\/b>학술연토회성공소개 (2021年《",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841500809",
+			"description":""
+		},
+		{
+			"title":"355 nm화1064 nm전고태격광기각식<b>인쇄<\/b>선로판 (355 nm和1064 nm全固态激光器刻",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=673838516",
+			"description":""
+		},
+		{
+			"title":"다중 물리학 시뮬레이션 기법을 이용한 해양 대기 환경에서의 <b>인쇄<\/b> 회로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877976656",
+			"description":"Predicting corrosion lifetime of printed circuit board under marine atmosphere environment using Multiphysics simulation   Printed circ"
+		},
+		{
+			"title":"조선시대 안동 봉정사의 <b>인쇄<\/b> 문화에 대한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=156141740",
+			"description":"The study on printing culture of Bongjeong-sa Temple in the latter part of the Joseon Dynasty 본 연구에서는 안동 천등산에 "
+		},
+		{
+			"title":"스웨덴 Linköping 대학: <b>인쇄<\/b> 유기 전기화학 트랜지스터 이용 제작된 인공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896912096",
+			"description":""
+		},
+		{
+			"title":"극저온 고압액체수소 공급용 <b>인쇄<\/b>기판 열교환기의 열설계에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877858392",
+			"description":"A Study on Thermal Design of Printed Circuit Heat Exchanger for Supply of Cryogenic High Pressure Liquid Hydrogen This paper is a study"
+		},
+		{
+			"title":"롤투롤 <b>인쇄<\/b>압력 균일화를 위한 개별구동 교차결합 토크제어시스템",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878334149",
+			"description":"Individual Drive Cross-Coupled Torque Control System for Pressure Uniformization in Roll-to-Roll Printing 롤투롤 <b>인쇄<\/b>전자 공정"
+		},
+		{
+			"title":"기우Fe3O4@Au자성납미립자수식사망<b>인쇄<\/b>전극적미낭조독소면역전감기연구 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=107939335",
+			"description":"An Immunosensor for Microcystins Based on Fe3O4@Au Magnetic Nanoparticle Modified Screen-Printed Electrode 将核壳型Fe304@Au磁性"
+		},
+		{
+			"title":"안수<b>인쇄<\/b>화수자직접<b>인쇄<\/b> (按需印刷和数字直接印刷)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896348054",
+			"description":""
+		},
+		{
+			"title":"극저온 고압액체수소 공급용 <b>인쇄<\/b>기판 열교환기의 열설계에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865533856",
+			"description":"A Study on Thermal Design of Printed Circuit Heat Exchanger for Supply of Cryogenic High Pressure Liquid Hydrogen This paper is a study"
+		},
+		{
+			"title":"<b>인쇄<\/b>전로판（PCB）창휘발성유궤물（VOCs）배방지시물사선 (印刷电路板（",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=750177400",
+			"description":""
+		},
+		{
+			"title":"모<b>인쇄<\/b>유한공사공조여공예계통설계 (某印刷有限公司空调与供热系统设",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=102321029",
+			"description":"Air Conditioning and Hot Water System Design for the Printing co.,ltd 介绍了某印刷有限公司的通风空调系统和热水系"
+		},
+		{
+			"title":"[특집] <b>인쇄<\/b>전자소자：고해상도 <b>인쇄<\/b>공정기술의 현황 및 전망",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16469675",
+			"description":"Printed Electronics: High Resolution Printing Technology    "
+		},
+		{
+			"title":"식품 <b>인쇄<\/b> 적성 증진제의 전단탄성률 예측 신경망 설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890100333",
+			"description":"Neural Network Design for Predicting Shear Modulus of Food Printability Enhancers <b>인쇄<\/b> 적성 증진제는 식품용 3D 프린팅에"
+		},
+		{
+			"title":"조선시대 관상감의 역서 편찬과 <b>인쇄<\/b> (조선시대 관상감의 曆書 편찬과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878897535",
+			"description":"The Calendar Publication of the Gwansang’gam 觀象監 in the late Joseon period 본 논문에서는 조선시대 曆書(冊曆)의 "
+		},
+		{
+			"title":"생흡수성 체내삽입의료기기를 위한 생분해성 전자잉크와 3차원 <b>인쇄<\/b>한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889972788",
+			"description":"Biodegradable Electronic Ink and 3D Printed Primary Battery for Bioresorbable Implants  목   차 \n초록 ⅰ\n목차 ⅱ\n표 목차 ⅲ"
+		},
+		{
+			"title":"조선시대 민간<b>인쇄<\/b> 조보(朝報)의 언론사적 의의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561518530",
+			"description":"A Study on ‘Non-official Printed Newspaper’ in Joseon Dynasty 이 논문의 목적은 민간<b>인쇄<\/b> 조보 관련 문헌 내용을 "
+		},
+		{
+			"title":"대학생의 매체 문식성 함양 방안 연구 - <b>인쇄<\/b> 매체 광고 텍스트를 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157469473",
+			"description":"A Study of Approach to Media Literacy for University Students 본고의 목적은, 현재 대학 교양 교육에서 필수적으로 "
+		},
+		{
+			"title":"17세기 활자<b>인쇄<\/b>의 일본적 변용에 대하여",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10840421",
+			"description":"  목차\n17세기 활자<b>인쇄<\/b>의 일본적 변용에 대하여 \/ 鄭夏美 1\n I. 머리말 1\n II. 활자<b>인쇄<\/b>에 의한 일본의 칙"
+		},
+		{
+			"title":"2019년서간<b>인쇄<\/b>기업경제효익통계수거분석보고 (2019年书刊印刷企业经济",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=847297955",
+			"description":""
+		},
+		{
+			"title":"조선시대 원주 지역의 <b>인쇄<\/b> 문화 연구 (조선시대 原州 지역의 <b>인쇄<\/b> 문화 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420915894",
+			"description":"A Study on the Printing Culture of WonJu in the Joseon Dynasty 이 연구는 조선시대 강원감영의 소재지였던 원주에서 "
+		},
+		{
+			"title":"미세피치 접합용 솔더 페이스트의 솔더 분말 크기에 따른 레올로지 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601408",
+			"description":"Effects of Solder Particle Size on Rheology and Printing Properties of Solder Paste 본 연구에서는 솔더 분말 크기에 따른 "
+		},
+		{
+			"title":"사망<b>인쇄<\/b>단리산품집금 (丝网印刷专利产品集锦)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896323670",
+			"description":""
+		},
+		{
+			"title":"2021연문화<b>인쇄<\/b>지대사기 (2021年文化印刷纸大事记)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896302288",
+			"description":""
+		},
+		{
+			"title":"도시재생의 문화콘텐츠 확대를 위한 프로그램 사례분석과 방안 모색 - ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871682190",
+			"description":"For the Expansion of Cultural Contents of Urban Regeneration Program Case Analysis and Planning - Focusing on Educational Programs of P"
+		},
+		{
+			"title":"《호림봉업발전간사》<b>인쇄<\/b>성책 (《虎林蜂业发展简史》印刷成册)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896418669",
+			"description":""
+		},
+		{
+			"title":"종이<b>인쇄<\/b>기술 어디까지 왔나?",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291631103",
+			"description":"  목차\n종이<b>인쇄<\/b>기술 어디까지 왔나? \/ 이남훈 1\n 손으로 <b>인쇄<\/b>하는 목판과 금속활자의 시대 1\n 오프셋 "
+		},
+		{
+			"title":"<b>인쇄<\/b>교곤고장분석여보양기교 (印刷胶辊故障分析与保养技巧)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896387317",
+			"description":""
+		},
+		{
+			"title":"경면동판지<b>인쇄<\/b>포도주표첨공예탐토 (镜面铜版纸印刷葡萄酒标签工艺探",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896445179",
+			"description":""
+		},
+		{
+			"title":"<b>인쇄<\/b>품안색적사종측량방법,이요해다소? (印刷品颜色的四种测量方法,你",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896389591",
+			"description":""
+		},
+		{
+			"title":"한국 관광 활성화를 위한 광고메시지의 전략적 탐색:한국관광공사 <b>인쇄<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651418092",
+			"description":"Strategic Exploration of Advertising Message to Revitalize Tourism in Korea:Focusing on Consumer Awareness of Printing Advertisement of"
+		},
+		{
+			"title":"&quot;수자<b>인쇄<\/b>——표첨응용진입&quot;&quot;쾌차도&quot;&quot;&quot; (&quot;数字印刷——标签应用进入&quot;&quot;快",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896437291",
+			"description":""
+		},
+		{
+			"title":"분묵<b>인쇄<\/b>기술재서변채색<b>인쇄<\/b>중적응용 (喷墨印刷技术在书边彩色印刷中",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896291096",
+			"description":""
+		},
+		{
+			"title":"주진동완수가민판포장<b>인쇄<\/b>박물관——역가포장<b>인쇄<\/b>박물관 (走进东莞首",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=827543499",
+			"description":""
+		},
+		{
+			"title":"조선시대 <b>인쇄<\/b>·출판의 주류 목판<b>인쇄<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=154350938",
+			"description":"  목차\n조선시대 <b>인쇄<\/b>·출판의 주류 목판<b>인쇄<\/b> \/ 강명관 1\n <b>인쇄<\/b>·출판의 주류 - 목판<b>인쇄<\/b> 1\n 중앙의 명령"
+		},
+		{
+			"title":"유기발광다이오드의 외부 광추출층을 위한 롤투롤마이크로컨택 방식으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897131762",
+			"description":"Roll-to-roll microcontact-printed microlens array for light extraction film of organic light-emitting diodes We demonstrated roll-to-ro"
+		},
+		{
+			"title":"<b>인쇄<\/b> 맛 좀 볼래!",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291631109",
+			"description":"  목차\n<b>인쇄<\/b> 맛 좀 볼래! \/ 김진우 1\n [본문] 1 상품카달로그, 압전플라스틱필름, 입체<b>인쇄<\/b> "
+		},
+		{
+			"title":"다층 적층 <b>인쇄<\/b>회로 기판의 충격 특성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879449573",
+			"description":"Impact and Vibration Behavior of High Density Printed Circuit Board   Multilayer Printed circuit board(다층 적층 <b>인쇄<\/b>회로 기"
+		},
+		{
+			"title":"고-집적화 <b>인쇄<\/b>회로기판의 우주용 고신뢰성 패러린 컨포멀코팅 공정 기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880470541",
+			"description":"Qualification of the high reliability for space application of parylene conformal coating process for high-integrated PCB   PCB(<b>인쇄<\/b>"
+		},
+		{
+			"title":"기우한점성취경전——신적미세망판<b>인쇄<\/b>기술관찰(육) (基于焊点成就经",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896410865",
+			"description":""
+		},
+		{
+			"title":"기우한점성취경전——신적미세망판<b>인쇄<\/b>기술관찰(오) (基于焊点成就经",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896464132",
+			"description":""
+		},
+		{
+			"title":"별색 <b>인쇄<\/b> 시스템에서 <b>인쇄<\/b> 출력물의 반사율 예측을 위한 심층 신경망 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887308988",
+			"description":"Deep Neural Network Modeling for the Prediction of Reflexibility from Printed Outputs in the Spot Color Printing System - Focusing on t"
+		},
+		{
+			"title":"근대 <b>인쇄<\/b> 매체에 나타난 신여성의 소문과 치유적 글쓰기 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765822638",
+			"description":"A Study of Modern Women in Contemporary Print Media and Writing as Therapy against Rumor 본 논문은 1세대 여성 소설가들이 "
+		},
+		{
+			"title":"교과서 <b>인쇄<\/b>물의 트러블 현황과 용지 조건에 따른 <b>인쇄<\/b> 품질에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=753247816",
+			"description":"A Study on the Present Condition of Trouble in Textbook and the Quality of Printing According to Paper Conditions 본 연구는 교과"
+		},
+		{
+			"title":"거<b>인쇄<\/b>박물관“운관전” (去印刷博物馆“云观展”)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=834813119",
+			"description":""
+		},
+		{
+			"title":"3D <b>인쇄<\/b>기술을 이용한 X대역 이중 선형 편파 변환기 설계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888558909",
+			"description":"- 본 논문에서는 X 대역 이중 선형 편파 변환기를 설계하고 제작하는 방법을 제안한다. 다이폴-via-다이"
+		},
+		{
+			"title":"2019년<b>인쇄<\/b>관리공작종술 (2019年印刷管理工作综述)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=831107061",
+			"description":""
+		},
+		{
+			"title":"화장품 패키지 UV<b>인쇄<\/b> 시장을 선도하다",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291631107",
+			"description":"  목차\n화장품 패키지 UV<b>인쇄<\/b> 시장을 선도하다 \/ 박창수 ; 김성헌 1\n UV<b>인쇄<\/b> 업계의 대표주자 1\n 원스톱 "
+		},
+		{
+			"title":"5월지후적포장<b>인쇄<\/b>정단주세관찰 (5月之后的包装印刷订单走势观察)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=835534658",
+			"description":""
+		},
+		{
+			"title":"특허기술 사업화로 스크린 <b>인쇄<\/b> 성공신화를 쓰다",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291631105",
+			"description":"  목차\n특허기술 사업화로 스크린 <b>인쇄<\/b> 성공신화를 쓰다 \/ 박창수 ; 김성헌 1\n 데코글라스에 3D 스크린 "
+		},
+		{
+			"title":"전자동화 및 <b>인쇄<\/b>동화 유형과 읽기 이해 수준에 따른 아동의 이야기 이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594591597",
+			"description":"   읽기 이해, 전자 동화, <b>인쇄<\/b> 동화 "
+		},
+		{
+			"title":"녹색<b>인쇄<\/b>지<b>인쇄<\/b>전자기술재지능기건제조중적연구진전 (绿色印刷之印刷",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896426569",
+			"description":""
+		},
+		{
+			"title":"반점2020년수자<b>인쇄<\/b>설비창신동태 (盘点2020年数字印刷设备创新动态)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=830749439",
+			"description":""
+		},
+		{
+			"title":"포장<b>인쇄<\/b>중수자<b>인쇄<\/b>기술적응용연구 (包装印刷中数字印刷技术的应用研",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896306938",
+			"description":" 近年来,科学技术在印刷技术的发展中起到了十分关键的助力作用,尤为明显的是数字印刷技术.数字印"
+		},
+		{
+			"title":"<b>인쇄<\/b> 광고에서 표현된 엔트로피의 상호텍스트성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765522833",
+			"description":"A Study on the Intertextuality of Entropy in Print Advertisements: Focusing on three types of intertextual print ads 본 연구에서 "
+		},
+		{
+			"title":"고려 금속활자 증도가자의 주조법과 <b>인쇄<\/b>기술사적 분석 (高麗 金屬活字 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420915919",
+			"description":"An Analysis on the Casting Methodology of Jeungdoga Type(證道歌字) from the Point of Printing Technology 이 연구는 2010년에 "
+		},
+		{
+			"title":"고직원교사망<b>인쇄<\/b>과정교학적실천설계 (高职院校丝网印刷课程教学的实",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896484263",
+			"description":" 应用型人才培养要求高职院校印刷专业具备工艺实操能力.从课程教学手段、方法、实践环节设计、考"
+		},
+		{
+			"title":"국내 매엽용 <b>인쇄<\/b> 잉크의 <b>인쇄<\/b> 적성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=557733349",
+			"description":"The Study on the Printability for the Domestic Sheet-Fed Inks 본 연구는 국내에서 시판 중인 친환경 잉크에 대한 인"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882402338",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890810553",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868832216",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891240475",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881561579",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891099796",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891335968",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890425067",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886460062",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888763227",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885181440",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874134003",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887054755",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888377261",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887595258",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889940775",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886997595",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843023149",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873522359",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842988534",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872875823",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881038875",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865579695",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		},
+		{
+			"title":"다층 연성<b>인쇄<\/b>회로기판 제조를 위한 낮은 열팽창계수를 가진 폴리이미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890622541",
+			"description":"Polyimide thin film with low CTE for flexible printed circuit board (FPCB) multilayer fabrication  표제지\n목차\n초록 7\nAbstract 8"
+		}
+	]
+}

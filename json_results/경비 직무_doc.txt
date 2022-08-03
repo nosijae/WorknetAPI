@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:47 +0900",
+	"total":2635,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"기계<b>경비<\/b>원의 <b>경비<\/b>능력이 <b>직무<\/b>만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846905555",
+			"description":"A Study on Electronic Security Guard’s Security Performance on Job Satisfaction 연구목적: 이 연구는 기계비원의 <b>경비<\/b>능"
+		},
+		{
+			"title":"<b>경비<\/b>분야 국가<b>직무<\/b>능력표준(NCS) 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594888225",
+			"description":" 지식정보사회의 산업현장에서 필요로 하는 인재상은 지식과 실무를 겸비한 차별화된 전문직업인을 "
+		},
+		{
+			"title":"기계<b>경비<\/b>원의 <b>경비<\/b>능력이 <b>직무<\/b>만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862851070",
+			"description":"A Study on Electronic Security Guard’s Security Performance on Job Satisfaction 연구목적: 이 연구는 기계비원의 <b>경비<\/b>능"
+		},
+		{
+			"title":"국가 중요시설<b>경비<\/b>종사자들의 <b>직무<\/b>스트레스가 조직몰입에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532174",
+			"description":"Articles : An Empirical Study of the Impacts On Security Guardians` Work-related Stresses for National Facilities to Organizational Com"
+		},
+		{
+			"title":"<b>경비<\/b>업무 <b>직무<\/b>윤리 제고방안 - <b>경비<\/b>원 범죄발생 추이분석을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291543964",
+			"description":"Improvement Plans on Job Ethics of Security Duty- Focused on Trend Analysis of Guards&apos; Crime Occurrence - 본 연구는 <b>경비<\/b>업무 "
+		},
+		{
+			"title":"민간<b>경비<\/b>의 <b>직무<\/b>에 관한 청원경찰법상 제도와 <b>경비<\/b>업법상 특수<b>경비<\/b>제도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=421032443",
+			"description":"A Comparative Study on the Law of Police detailed and Special Security System of Private Security Law ‘민간<b>경비<\/b>’는 ‘공경"
+		},
+		{
+			"title":"기계<b>경비<\/b>원의 <b>경비<\/b>능력이 <b>직무<\/b>만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873501950",
+			"description":"A Study on Electronic Security Guard&apos;s Security Performance on Job Satisfaction 연구목적: 이 연구는 기계비원의 <b>경비<\/b>능"
+		},
+		{
+			"title":"민간<b>경비<\/b>의 <b>직무<\/b>에 관한 청원경찰법상 제도와 <b>경비<\/b>업법상 특수<b>경비<\/b>제도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41660119",
+			"description":"A Comparative Study on the Law of Police detailed and Special Security System of Private Security Law ``민간<b>경비<\/b>``는 ``공<b>경비<\/b>``"
+		},
+		{
+			"title":"민간<b>경비<\/b>의 <b>직무<\/b>에 관한 청원경찰법상 제도와 <b>경비<\/b>업법상 특수<b>경비<\/b>제도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878623499",
+			"description":"A Comparative Study on the Law of Police detailed and Special Security System of Private Security Law ‘민간<b>경비<\/b>’는 ‘공경"
+		},
+		{
+			"title":"민간<b>경비<\/b>의 <b>직무<\/b>에 관한 청원경찰법상 제도와 <b>경비<\/b>업법상 특수<b>경비<\/b>제도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=686029624",
+			"description":""
+		},
+		{
+			"title":"<b>경비<\/b>분야 국가<b>직무<\/b>능력표준(NCS) 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153347559",
+			"description":"Research on the Development of the National Competency Standards(NCS) for Security 지식정보사회의 산업현장에서 필요로 "
+		},
+		{
+			"title":"<b>경비<\/b>지도사의 <b>직무<\/b>와 선임에 대한 의식조사 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846339677",
+			"description":"A Study on Consciousness about the Job and Appointment of the Security Instructor <b>경비<\/b>원을 지도, 감독, 교육하는 <b>경비<\/b>지"
+		},
+		{
+			"title":"<b>경비<\/b>지도사의 <b>직무<\/b>와 선임에 대한 의식조사 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562917067",
+			"description":"A Study on Consciousness about the Job and Appointment of the Security Instructor <b>경비<\/b>원을 지도, 감독, 교육하는 <b>경비<\/b>지"
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 법·제도적 인식수준과 <b>직무<\/b>만족에 관한 실증적 연구 : 서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58306164",
+			"description":"(A)pragmatic study of legal\/institutional level of recognition and job satisfaction : based on assigned guarding enterprises in Seoul a"
+		},
+		{
+			"title":"경찰 공공부문 이양이 자치경찰과 민간<b>경비<\/b>의 <b>직무<\/b>와 조직몰입에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79641943",
+			"description":"  표제지\n감사의 글\n목차\nI. 서론 13\n 1. 연구의 필요성 13\n 2. 연구목적 17\n 3. 연구모형 18\n 4. 연구의 가설 1"
+		},
+		{
+			"title":"민간<b>경비<\/b> 종사자의 ICT <b>직무<\/b>교육과정 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562326546",
+			"description":"A study on the development of ICT curriculum for private security workers 본 연구는 아파트 <b>경비<\/b>원들을 중심으로 실시"
+		},
+		{
+			"title":"민간<b>경비<\/b> 종사자의 ICT<b>직무<\/b>교육과정 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594361436",
+			"description":" 본 연구는 아파트 <b>경비<\/b>원들을 중심으로 실시되고 있는 ICT<b>직무<\/b>교육과정을 개발하고 실제로 적용한 결"
+		},
+		{
+			"title":"<b>경비<\/b>지도사의 태도와 <b>직무<\/b>수행의 관련성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11110067",
+			"description":"A Study on the Relationship between Attitude of Security Guard Leader and Duty Performance 본 연구는 <b>경비<\/b>지도사의 태도와 "
+		},
+		{
+			"title":"시설<b>경비<\/b>업무 <b>경비<\/b>원에 대한 <b>직무<\/b>교육만족, <b>직무<\/b>만족, 고객지향성이 이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595169427",
+			"description":"The Importance of Job Satisfaction, Job Satisfaction and Customer Orientation in Turnover Intention for Security Guard Working in Facil"
+		},
+		{
+			"title":"시설<b>경비<\/b>업무 <b>경비<\/b>원에 대한 <b>직무<\/b>교육만족, <b>직무<\/b>만족, 고객지향성이 이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=597569049",
+			"description":"The importance of job satisfaction, job satisfaction and customer orientation in turnover intention for security guard working in facil"
+		},
+		{
+			"title":"시설<b>경비<\/b>업무 <b>경비<\/b>원에 대한 <b>직무<\/b>교육만족, <b>직무<\/b>만족, 고객지향성이 이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=597677243",
+			"description":"The Importance of Job Satisfaction, Job Satisfaction and Customer Orientation in Turnover Intention for Security Guard Working in Facil"
+		},
+		{
+			"title":"<b>경비<\/b>원의 <b>직무<\/b>교육과 <b>경비<\/b>지도사의 역할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77868460",
+			"description":"Private Security Job Training and The role of Instructor 현재 전국에는 4.000여개 업체에 15만여 명의 <b>경비<\/b>원이 민간"
+		},
+		{
+			"title":"용역<b>경비<\/b> 종사자의 <b>직무<\/b>가치관과 <b>직무<\/b>만족의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79677677",
+			"description":"  국문목차\n표제지 = 0,1,3\n국문초록 = 0,4,2\n목차 = i,6,2\n표목차 = iii,8,1\n그림목차 = iv,9,1\nI. 서론 = 1,10,1\n 1. "
+		},
+		{
+			"title":"델파이 기법을 활용한 해양<b>경비<\/b>안전본부 <b>직무<\/b>분석 : 해양경찰안전국을 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=171638201",
+			"description":"A Study on Job Duties Analysis of Maritime Security and Safety with Delphi Technique 미래의 성장동력이라고 할 수 있는 해"
+		},
+		{
+			"title":"경찰공무원 4부요인 경호·<b>경비<\/b>체계의 <b>직무<\/b>스트레스가 <b>직무<\/b>태도에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=80100735",
+			"description":"  표제지\n목차\n논문개요 8\n제1장 서론 9\n 제1절 연구의 필요성 및 목적 9\n  1. 연구의 필요성 9\n  2. 연구의 "
+		},
+		{
+			"title":"IPA 분석기법을 통한 해양<b>경비<\/b> 안전의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=308866922",
+			"description":"  서론\n 연구 방법\n IPA 분석\n IPA 매트릭스\n IAP 분석 결과  "
+		},
+		{
+			"title":"IPA 분석기법을 통한 해양<b>경비<\/b> 안전의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=172144238",
+			"description":"  서론\n 연구 방법\n IPA 분석\n IPA 매트릭스\n IPA 분석결과  "
+		},
+		{
+			"title":"온라인 민간<b>경비<\/b> 교육훈련의 현황 및 개선방안 : <b>직무<\/b>교육을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561528332",
+			"description":"Current Status and Improvement Plan of On-line Private Expenditure Training : Focused on Job Education 2015년부터 도입된 온라"
+		},
+		{
+			"title":"기계<b>경비<\/b> 출동요원의 <b>직무<\/b>특성과 조직특성이 조직유효성에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=579069553",
+			"description":"The Impact of Occupational Characteristics and Organizational Characteristics of Customer Service Agent in Electronic Security System o"
+		},
+		{
+			"title":"시큐리티업무 종사자의 <b>직무<\/b>스트레스가 조직몰입 및 이직의도에 미치는",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594472834",
+			"description":" 본 연구는 시큐리티업무 종사자를 대상으로 <b>직무<\/b>스트레스가 조직몰입 및 이직의도에 미치는 영향을 "
+		},
+		{
+			"title":"국회 경호·<b>경비<\/b> 체제 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56563359",
+			"description":"Plans for Improving the Security\/Protection System of the National Assembly 국회의사당은 국가운영을 위한 가장 중요한 "
+		},
+		{
+			"title":"한국 <b>경비<\/b>업법상의 <b>경비<\/b>업무 개선방안 -<b>직무<\/b>범위를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890217736",
+			"description":""
+		},
+		{
+			"title":"경호<b>경비<\/b>업체 종사자의 <b>직무<\/b>만족과 조직 동일시와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890161771",
+			"description":"Social Science : The Relations between Private Bodyguard and Security` Satisfaction and their Organization Identities   Private Bodygua"
+		},
+		{
+			"title":"민간<b>경비<\/b>업체에서 상사-부하 교환관계의 질, <b>직무<\/b>만족 그리고 이직의도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765933786",
+			"description":"A study of the relationship of the senior-guard&apos;s quality of exchange, job satisfaction and intention to leave one&apos;s job in private sec"
+		},
+		{
+			"title":"경호<b>경비<\/b>업체 종사자의 <b>직무<\/b>만족과 조직 동일시와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420311275",
+			"description":"The Relations between Private Bodyguard and Security&apos; Satisfaction and their Organization Identities This research intends to identify "
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 <b>직무<\/b>요구 <b>직무<\/b>자원과 소진, 조직유효성의 구조적 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595014892",
+			"description":" 이 연구는 민간<b>경비<\/b>원의 <b>직무<\/b>요구와 <b>직무<\/b>자원을 중심으로 <b>직무<\/b>소진을 매개변수로 설정하고, 이들 간"
+		},
+		{
+			"title":"IAAF세계육상선수권대구대회 성공개최를 위한 경호<b>경비<\/b>운용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56563170",
+			"description":"A Study on the Operating System of Security for the Success of IAAF World Championships Daegu 2011 본 연구는 세계 3대 스포츠"
+		},
+		{
+			"title":"<b>경비<\/b>지도사의 태도와 <b>직무<\/b>관련성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=30030413",
+			"description":""
+		},
+		{
+			"title":"<b>경비<\/b>업체 종사자의 긍정심리자본이 <b>직무<\/b>열의와 조직시민행동에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888543216",
+			"description":"The Effect of Positive Psychological Capital on Job Engagement and Organizational Citizenship Behavior in Security Company Worker  제 "
+		},
+		{
+			"title":"온라인 민간<b>경비<\/b> 교육훈련의 현황 및 개선방안:",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442179190",
+			"description":"Current Status and Improvement Plan of On-line Private Expenditure Training: Focused on Job Education  Ⅰ. 서 론\nⅡ. 온라인 교"
+		},
+		{
+			"title":"안명:이모모등인탐오죄안 주제:관우<b>직무<\/b>범죄소섭“공작<b>경비<\/b>”적성질분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=724005651",
+			"description":""
+		},
+		{
+			"title":"민간<b>경비<\/b>업체 종사자의 사회자본이<b>직무<\/b>만족에 미치는 영향 - <b>직무<\/b>특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290132845",
+			"description":"Effect on the Job Satisfaction Influenced by Social Capital of Private Security Industry Employees- Focuing on the Role of Mediation fo"
+		},
+		{
+			"title":"민간<b>경비<\/b>업체 종사자의 사회자본이 <b>직무<\/b>만족에 미치는 영향 - <b>직무<\/b>특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594124450",
+			"description":" 오늘날 현대 조직에서는 제3의 자본으로서 사회자본의 중요성이 부각되고 있다. 사회자본은 조직구"
+		},
+		{
+			"title":"관우<b>직무<\/b>범죄소섭“공작<b>경비<\/b>”적성질분석 (关于职务犯罪所涉“工作经",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=840569752",
+			"description":" 人民检察院在职务犯罪侦查与审查起诉中,对涉案所谓“工作经费”的性质认定与法律评价一直存在较"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 제도의 발전방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41460420",
+			"description":"A Study on the Improvement of Security Guard Supervisor System <b>경비<\/b>지도사는 <b>경비<\/b>업무를 직접 수행하는 <b>경비<\/b>원을 지"
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 스트레스 대처방식이 <b>직무<\/b>소진에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594199158",
+			"description":" 현대 사회에서 발생하는 범죄의 다양성은 시간이 흐를수록 사회적으로도 심각한 문제가 되고 있는 "
+		},
+		{
+			"title":"지역경찰과 민간<b>경비<\/b>의 상호 협력이 민간<b>경비<\/b>원의 <b>직무<\/b>만족에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79678110",
+			"description":"  표제지\n목차\n논문개요 11\n제1장 서론 13\n 제1절 연구의 필요성 및 목적 13\n  1. 연구의 필요성 13\n  2. 연구"
+		},
+		{
+			"title":"민간<b>경비<\/b>조직 구성원의 감정노동이 <b>직무<\/b>스트레스 및 조직유효성에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595092478",
+			"description":"The Effect of Emotional labor of the members in private securit y firms on the job stress and validity of the organization 이 연구"
+		},
+		{
+			"title":"사설 경호원의 <b>직무<\/b> 경험 인식에 따른 <b>직무<\/b> 특성의 탐색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561623775",
+			"description":"A Study of Job Characteristics according to Recognition of Job Experience of Private Security Guards 본 연구의 목적은 사설 경"
+		},
+		{
+			"title":"민간<b>경비<\/b>업체 종사자의 사회자본이 <b>직무<\/b>만족에 미치는 영향 - <b>직무<\/b>특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594124450",
+			"description":"Effect on the Job Satisfaction Influenced by Social Capital of Private Security Industry Employees - Focuing on the Role of Mediation f"
+		},
+		{
+			"title":"민간<b>경비<\/b>업자의 사회적 책임과 <b>직무<\/b>만족 및 조직몰입의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594919455",
+			"description":" 이 연구의 목적은 민간<b>경비<\/b>업자의 사회적 책임이 <b>직무<\/b>만족 및 조직몰입에 미치는 영향을 규명하는데"
+		},
+		{
+			"title":"민간<b>경비<\/b>산업 문제점 개선을 통한 <b>직무<\/b>특성 강화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887847072",
+			"description":"A Study on the Reinforcement of Job Characteristics by Improving Problems in the Private Security Industry 연구목적 : 본 연구의"
+		},
+		{
+			"title":"민간<b>경비<\/b>업체에서 상사-부하 교환관계의 질, <b>직무<\/b>만족 그리고 이직의도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290106042",
+			"description":"A study of the relationship of the senior-guard&apos;s quality of exchange, job satisfaction and intention to leave one&apos;s job in private sec"
+		},
+		{
+			"title":"민간<b>경비<\/b>업체에서 상사-부하 교환관계의 질, <b>직무<\/b>만족 그리고 이직의도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594356769",
+			"description":" 본 연구는 아직까지 민간<b>경비<\/b>업체 <b>경비<\/b>원을 대상으로 거의 적용되지 않았던 상사-부하 교환 관계의 "
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 <b>직무<\/b>요구, <b>직무<\/b>자원과 소진, 조직유효성의 구조적 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=233329326",
+			"description":"A Structural Relationship among Job Requirements, Job Resources and Job Burnout, and Organizational Effectiveness of Private Security G"
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 <b>직무<\/b>자원동원성 형성에 영향을 미치는 요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187881368",
+			"description":" 이 연구는 민간<b>경비<\/b>원의 <b>직무<\/b>자원동원성 영향요인을 실증적으로 분석하여, 민간<b>경비<\/b>원의 <b>직무<\/b>자원"
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 <b>직무<\/b>자원동원성 형성에 영향을 미치는 요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290263966",
+			"description":"Resourcefulness of the Private Security Guards 이 연구는 민간<b>경비<\/b>원의 <b>직무<\/b>자원동원성 영향요인을 실증적으로 "
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 <b>직무<\/b>자원동원성 형성에 영향을 미치는 요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594759565",
+			"description":" 이 연구는 민간<b>경비<\/b>원의 <b>직무<\/b>자원동원성 영향요인을 실증적으로 분석하여, 민간<b>경비<\/b>원의 <b>직무<\/b>자원"
+		},
+		{
+			"title":"시큐리티업무 종사자의 <b>직무<\/b>스트레스가 조직몰입 및 이직의도에 미치는",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420675650",
+			"description":"Effects of Job Stress of Employees of Security Industry on Organizational Commitment and Turnover Intent 본 연구는 시큐리티업"
+		},
+		{
+			"title":"<b>경비<\/b>업의 국가<b>직무<\/b>능력표준 적용을 위한 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442179188",
+			"description":"A Study on Direction for Applying National Competency Standards of Security Industry  Ⅰ. 서 론\nⅡ. 국가<b>직무<\/b>능력표준의 이"
+		},
+		{
+			"title":"민간<b>경비<\/b> 관리자의 리더십 유형이 <b>경비<\/b>원의 <b>직무<\/b>만족 및 조직몰입에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594208706",
+			"description":" 우리나라는 IMF이후 급격한 경기침체로 각 기업을 비롯한 산업체의 구조조정 등 조직내 불신과 갈등"
+		},
+		{
+			"title":"경호원의 <b>직무<\/b>만족과 조직몰입에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594117839",
+			"description":" 경호원들의 경호분류에 따른 <b>직무<\/b>만족의 차이를 살펴보았다. 즉, 내재적 만족은 공경호와 수행경호, "
+		},
+		{
+			"title":"공항 특수<b>경비<\/b>조직의 내부서비스품질과 <b>직무<\/b>만족, 고객지향성 및 경영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74843394",
+			"description":"The Effects of Inside Service Quality on Job Satisfaction and Customer Orientation, Business Performance in Airport Security Agents 이"
+		},
+		{
+			"title":"일개 대학 <b>경비<\/b>근로자의 수면의 질과 <b>직무<\/b>스트레스가 건강관련 삶의 질",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594738392",
+			"description":"   Health-related quality of life, Occupational stress, Sleep quality, Security workers "
+		},
+		{
+			"title":"공항 특수<b>경비<\/b>조직의 내부서비스품질과 <b>직무<\/b>만족, 고객지향성 및 경영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845616601",
+			"description":"The Effects of Inside Service Quality on Job Satisfaction and Customer Orientation, Business Performance in Airport Security Agents 이"
+		},
+		{
+			"title":"건강관리시설 <b>경비<\/b>원의 핵심<b>직무<\/b>특성과 <b>직무<\/b>만족의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=829990707",
+			"description":"The relationship between core job characteristics and job satisfaction of security guards in health care facilities 건강관리시설 "
+		},
+		{
+			"title":"건강관리시설 <b>경비<\/b>원의 핵심<b>직무<\/b>특성과 <b>직무<\/b>만족의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822315052",
+			"description":"The relationship between core job characteristics and job satisfaction of security guards in health care facilities 건강관리시설 "
+		},
+		{
+			"title":"해양<b>경비<\/b>법상 추적과 나포의 법적 성격에 관한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843464376",
+			"description":"A Study on the Legal Characteristics of the Hot Pursuit and Arrest in the Maritime Policing Act 해양<b>경비<\/b>법  은 해양경찰 경"
+		},
+		{
+			"title":"청원경찰의 <b>직무<\/b>범위에 대한 소고: 강제퇴거 조치를 위한 물리력 행사범",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=848413515",
+			"description":"A Study on the Scope of Duties of Registered Security Guards: Centering around the Scope of Exercise of Physical Force for Forced Evict"
+		},
+		{
+			"title":"<b>경비<\/b>업의 국가<b>직무<\/b>능력표준 적용을 위한 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561528334",
+			"description":"A Study on Direction for Applying National Competency Standards of Security Industry 본 연구는 국가<b>직무<\/b>능력표준(NCS)의 도"
+		},
+		{
+			"title":"민간<b>경비<\/b>산업 문제점 개선을 통한 <b>직무<\/b>특성 강화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846351410",
+			"description":"A Study on the Reinforcement of Job Characteristics by Improving Problems in the Private Security Industry 연구목적 : 본 연구의"
+		},
+		{
+			"title":"비간부 경찰공무원의 이직의도에 대한<b>직무<\/b>관련 태도의 영향에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765934389",
+			"description":"A Study on the Effects of Job-related Attitudes on the Intention to Leave in Rank and File Police Officers 이 연구는 경찰공무"
+		},
+		{
+			"title":"경호산업 종사자들의 리더십과 <b>직무<\/b>특성, <b>직무<\/b>스트레스, 몰입이 이직에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765932103",
+			"description":"The Effect on Leadership and Job Characteristic, Job stress, Commitment, turnover in security industry Employees 본 연구의 목적"
+		},
+		{
+			"title":"윤리적 리더십이 민간<b>경비<\/b>원의 <b>직무<\/b>열의에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77481335",
+			"description":"The Effect of Ethical leadership on the Private Guards’ Job Engagement 오늘날 기업윤리에 대한 관심이 커지면서 리더"
+		},
+		{
+			"title":"국가중요시설 <b>경비<\/b>원의 <b>직무<\/b>여건과 <b>직무<\/b>만족도의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765942297",
+			"description":"The relationship of the office given condition of the country important facility private security and job satisfaction degree 본 연"
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 <b>직무<\/b>스트레스와 <b>직무<\/b>만족도의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594224475",
+			"description":" 본 연구는 민간<b>경비<\/b>원의 <b>직무<\/b>스트레스 및 <b>직무<\/b>만족의 관계를 규명하여 민간<b>경비<\/b>산업에서 일선에서 "
+		},
+		{
+			"title":"민간<b>경비<\/b>산업 문제점 개선을 통한 <b>직무<\/b>특성 강화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=578610188",
+			"description":"A Study on the Reinforcement of Job Characteristics by Improving Problems in the Private Security Industry 연구목적 : 본 연구의"
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 <b>직무<\/b>스트레스가 <b>직무<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=72360704",
+			"description":"The Effect of Private Guard&apos;s Job Stress on Job Performance 본 연구는 민간<b>경비<\/b>원의 <b>직무<\/b>스트레스가 <b>직무<\/b>성과에 미"
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 <b>직무<\/b>착근도가 이중몰입에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594869374",
+			"description":" 이 연구에서는 민간<b>경비<\/b>원을 대상으로 <b>직무<\/b>착근도가 이중몰입에 어떠한 영향을 미치는지 실증적 분"
+		},
+		{
+			"title":"해양<b>경비<\/b>법상 추적과 나포의 법적 성격에 관한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843660385",
+			"description":"A Study on the Legal Characteristics of the Hot Pursuit and Arrest in the Maritime Policing Act 『해양<b>경비<\/b>법』은 해양경찰 "
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 대인관계 스트레스가 <b>직무<\/b>태도 및 이직의사에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56561588",
+			"description":"A Study for Private Security Employees&apos; Interpersonal relations on Stress Job Attitude and Turnover Intention 이 연구는 민간경"
+		},
+		{
+			"title":"경찰의 <b>직무<\/b>스트레스 해소 프로그램 관계 변인분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59538840",
+			"description":"Police Job Stress Settlement Program  목차\n경찰의 <b>직무<\/b>스트레스 해소 프로그램 관계 변인분석 \/ 오성희 ; 박영"
+		},
+		{
+			"title":"<b>경비<\/b>업법상 <b>경비<\/b>업의 <b>직무<\/b>범위에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116467109",
+			"description":"Research on Scope of Duties of Security Industry under Security Services Industry Act Currently in Force 민간<b>경비<\/b>는 자연스레 "
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 <b>직무<\/b> 스트레스, 정신건강 및 대처방식 간의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47050899",
+			"description":"A Study on the Relationship between the Job Stress of the Private Security Guards, Mental Health and Stress-Coping 사회적으로 각"
+		},
+		{
+			"title":"경호원 <b>직무<\/b>만족과 조직시민행동의 관계에서 <b>직무<\/b>특성의 조절효과 검증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594097312",
+			"description":" 본 연구는 민간경호<b>경비<\/b>산업의 경호원을 중심으로 내 외재적 <b>직무<\/b>만족과 조직시민행동의 관계를 규"
+		},
+		{
+			"title":"경호∙<b>경비<\/b>분야의 인재양성을 위한 국가<b>직무<\/b>능력표준(NCS) 기반의 개선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=301799671",
+			"description":"A National Competency Standards (NCS)-based improvement plan for training talents in security science 지식중심 기반사회의 시"
+		},
+		{
+			"title":"경호<b>경비<\/b>업 종사자의 <b>직무<\/b>스트레스와 조직유효성의 관계에서 회복탄력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=645449742",
+			"description":"A Study on the Mediating Effect of Recovery Elasticity in the Relationship between Job Stress and Organizational Effectiveness of Secur"
+		},
+		{
+			"title":"경호무도 수련이 민간<b>경비<\/b>원의 <b>직무<\/b>특성과 조직효과성에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290173130",
+			"description":"Effects of Job Characteristics and Organizational Effectiveness of Security Guard on Martial Arts of Security Service Guard 본 연구"
+		},
+		{
+			"title":"일개 대학 <b>경비<\/b>근로자의 수면의 질과 <b>직무<\/b>스트레스가 건강관련 삶의 질",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174923188",
+			"description":"Effects of sleep quality and occupational stress on health-related quality of life among a university&apos;s security workers Objectives: Th"
+		},
+		{
+			"title":"경호무도 수련이 민간<b>경비<\/b>원의 <b>직무<\/b>특성과 조직효과성에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594006459",
+			"description":" 본 연구의 목적은 경호무도 수련이 민간<b>경비<\/b>원의 <b>직무<\/b>특성과 조직효과성에 미치는 영향을 규명하는"
+		},
+		{
+			"title":"민간주거시설 상주<b>경비<\/b> 종사자와 주민의 관계형성 환경에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420789509",
+			"description":"A Study on the Environment of the Relationship between Security Guard and Residents of Private Housing Facilities 연구목적: 이 연"
+		},
+		{
+			"title":"경찰의 <b>직무<\/b>스트레스가 <b>직무<\/b>태도에 미치는 영향에 관한 연구 : 서울지방",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79124612",
+			"description":"The Effect of the Job Stress of the Police on the Job Attitude : Comparing Security Police and Auxiliary Police in Seoul Police Agency "
+		},
+		{
+			"title":"민간<b>경비<\/b>ㆍ경호원의 처우와 <b>직무<\/b>만족도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=498537989",
+			"description":"The Study of Treatment and Job Satisfaction on Private Security Service Sector  [국문요약]Ⅰ. 서론Ⅱ. 이론적 논의Ⅲ. 연"
+		},
+		{
+			"title":"경찰의 <b>직무<\/b>스트레스가 <b>직무<\/b>태도에 미치는 영향에 관한 연구: 서울지방",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595159874",
+			"description":"The Effect of the Job Stress of the Police on the Job Attitude : Comparing Security Police and Auxiliary Police in Seoul Police Agency "
+		},
+		{
+			"title":"민간<b>경비<\/b>원의 <b>직무<\/b>착근도가 이중몰입에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594869374",
+			"description":"The Effect of Private Guards&apos; Job Embeddedness on Dual Commitment 이 연구에서는 민간<b>경비<\/b>원을 대상으로 <b>직무<\/b>착근도"
+		},
+		{
+			"title":"협력치안에 대한 경찰과 민간<b>경비<\/b>의 인식 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=175287611",
+			"description":"A study on perceptions of the cooperation security between the police and private security 본 연구는 급변하는 치안환경 속"
+		},
+		{
+			"title":"경찰공무원의 <b>직무<\/b>환경에 대한 인식이 <b>직무<\/b>태도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=498538081",
+			"description":"The Effects of Police Officer&quot;s Job Environment Perception on Job Attitude  [국문요약]Ⅰ. 서론Ⅱ. 연구의 이론적 배경Ⅲ"
+		},
+		{
+			"title":"경찰과 민간<b>경비<\/b>의 조직문화 유형이 조직효과성에 미치는 영향 : <b>직무<\/b>스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=596936836",
+			"description":"  표제지\n목차\n논문개요 13\n제1장 서론 15\n 제1절 연구의 필요성 및 목적 15\n  1. 연구의 필요성 15\n  2. 연구"
+		},
+		{
+			"title":"경호원 <b>직무<\/b>만족과 조직시민행동의 관계에서 <b>직무<\/b>특성의 조절효과 검증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187942799",
+			"description":" 본 연구는 민간경호<b>경비<\/b>산업의 경호원을 중심으로 내 외재적 <b>직무<\/b>만족과 조직시민행동의 관계를 규"
+		},
+		{
+			"title":"해양<b>경비<\/b>법의 운영실태와 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=301674880",
+			"description":"A Study on the Realities and Improvements of Maritime Policing Act ｢해양<b>경비<\/b>법｣ 제정 시에는 해양경찰활동의 일반"
+		}
+	]
+}

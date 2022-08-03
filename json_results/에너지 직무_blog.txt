@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:33 +0900",
+	"total":90921,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[인하커리어] LG<b>에너지<\/b>솔루션 생산운영 <b>직무<\/b>, 이수현 학우 인터뷰",
+			"link":"https:\/\/blog.naver.com\/inhanuri?Redirect=Log&logNo=222624734595",
+			"description":"↓ ↓ ↓ 오늘은 인하커리어 2탄으로, LG<b>에너지<\/b>솔루션 생산운영 <b>직무<\/b>에 재직 중인 기계공학과 15학번 이수현 학우님과의 인터뷰를 준비했습니다 :) 1. 간단한 자기소개 부탁드립니다. 안녕하세요. 기계공학과... ",
+			"bloggername":"인하대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/inhanuri",
+			"postdate":"20220118"
+		},
+		{
+			"title":"우리모두의 적극적참여와 행동이 해답이다.<b>에너지<\/b>설계사 <b>직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/adp3791?Redirect=Log&logNo=222387964814",
+			"description":"지난해이어 비대면시대인 올해에도 울산시에서 <b>에너지<\/b>설계사 <b>직무<\/b>교육을 하게 되었다. 서울,경기도를 제외한 광역지자체중 가장 기후변화 대응 적응력이 앞서가는 울산시인듯하다. <b>에너지<\/b>설계사를 양성하여... ",
+			"bloggername":"측정하지 못하면 관리할수없다",
+			"bloggerlink":"https:\/\/blog.naver.com\/adp3791",
+			"postdate":"20210607"
+		},
+		{
+			"title":"LG화학 <b>에너지<\/b>기후, 지속가능전략, CSR <b>직무<\/b> 인터뷰 2021.... ",
+			"link":"https:\/\/blog.lgchem.com\/2021\/02\/01_sustainability_interview\/",
+			"description":"다같이 성장하는 LG화학 <b>에너지<\/b>기후, 지속가능전략, CSR <b>직무<\/b> 인터뷰 안녕하세요. 자기 소개와 본인의 업무에 대해 이야기해주세요. •정아름 책임: 안녕하세요. 저는 <b>에너지<\/b>기후팀 정아름 책임입니다. 저는... ",
+			"bloggername":"LG화학 공식 블로그 - LG케미토피아",
+			"bloggerlink":"https:\/\/blog.lgchem.com\/",
+			"postdate":"20210201"
+		},
+		{
+			"title":"기록 : 아트바젤, 성과제<b>직무<\/b>평가,<b>에너지<\/b>감축, 스마트캐빈... ",
+			"link":"https:\/\/blog.naver.com\/b_breath?Redirect=Log&logNo=222786792632",
+			"description":"다만 성과위주로 <b>직무<\/b>를 평가하는 게 객관적일 수 있는지가 미지수다. #<b>에너지<\/b>감축 국제유가 급등으로 <b>에너지<\/b>대란이 확산된 가운데, '<b>에너지<\/b>안보'라는 말이 이슈가 되고 이를 위한 <b>에너지<\/b> 감축, <b>에너지<\/b>효율성... ",
+			"bloggername":"사는게 재밌어 :)",
+			"bloggerlink":"https:\/\/blog.naver.com\/b_breath",
+			"postdate":"20220624"
+		},
+		{
+			"title":"[<b>에너지<\/b>경제] 8년째 <b>직무<\/b> 인정 못 받은 태양광 설비기사…협회... ",
+			"link":"https:\/\/blog.naver.com\/yeamoonsa9302?Redirect=Log&logNo=222449601188",
+			"description":"□ 신재생에너지발전설비 기사 직무와 검정기준 수행 직무 태양광발전시스템의 설계 및 인허가, 시공... 태양광 설비기사 자격증은 자격증 종목이 <b>에너지 직무<\/b>분야로 분류된다. 전기 분야의 기술자격 분야와... ",
+			"bloggername":"예문사 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/yeamoonsa9302",
+			"postdate":"20210729"
+		},
+		{
+			"title":"21년 상반기 LG<b>에너지<\/b>솔루션 품질<b>직무<\/b> 1차, 2차, 영어면접 후기",
+			"link":"https:\/\/blog.naver.com\/dbqls2202102?Redirect=Log&logNo=222448552639",
+			"description":"자기소개 최근 LG에솔 관련 뉴스기사 본거 있는지 품질<b>직무<\/b>에서 하고 싶은일 중심극한정리가 뭔지 데이터분석 말고 수집만 해도괜찮은지 해외근무 가능한지 다른회사 지원한 곳 있는지 Lg<b>에너지<\/b>솔루션 첫... ",
+			"bloggername":"심드렁한 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/dbqls2202102",
+			"postdate":"20210729"
+		},
+		{
+			"title":"한국<b>에너지<\/b>공단면접 학원 , <b>직무<\/b>능력중심 블라인드 채용 면접... ",
+			"link":"https:\/\/blog.naver.com\/superlee3?Redirect=Log&logNo=222566233420",
+			"description":"한국<b>에너지<\/b>공단 에서는 <b>직무<\/b>능력중심 블라인드 채용을 통해서 채용형 인턴을 모집 중에 있습니다. 필기합격자 발표가 진행되었고 12월 에 한국<b>에너지<\/b>공단면접 전형을 앞두고 있죠. 모집부문 ■ 채용형 인턴... ",
+			"bloggername":"넥타이를 매는 방법",
+			"bloggerlink":"https:\/\/blog.naver.com\/superlee3",
+			"postdate":"20211112"
+		},
+		{
+			"title":"<b>에너지<\/b> 넘치는 몽상가 MBTI... 조직내 <b>직무<\/b>, 업무스타일",
+			"link":"https:\/\/careernote.co.kr\/3545?category=1033842",
+			"description":"04 영향력 있는 달변가 MBTI ENFJ 엔프제 성향, 특징, 성격, 직업, 진로, 직장생활, 조직내 <b>직무<\/b>, 업무스타일 (0) 2022.05.03 <b>에너지<\/b> 넘치는 몽상가 MBTI ENFP 엔프피 집중탐구! 특징, 성격, 직업... ",
+			"bloggername":"정철상의 커리어노트",
+			"bloggerlink":"https:\/\/careernote.co.kr\/",
+			"postdate":"20220502"
+		},
+		{
+			"title":"21하_ LG<b>에너지<\/b>솔루션 기획 <b>직무<\/b> 면접 후기",
+			"link":"https:\/\/blog.naver.com\/tmdghks662?Redirect=Log&logNo=222551551862",
+			"description":"- LG<b>에너지<\/b> 솔루션의 지원동기는? - 여가시간에 주로 뭐하니? - 성격상 장단점은? 이런 식으로 회화 위주로 진행이 되었습니다. 다른 분들은 <b>직무<\/b>에 관해 묻기도 하고, <b>직무<\/b>지원동기도 물었다고 하시니 절대적인... ",
+			"bloggername":"Diary",
+			"bloggerlink":"https:\/\/blog.naver.com\/tmdghks662",
+			"postdate":"20211028"
+		},
+		{
+			"title":"에스<b>에너지<\/b> 영업 <b>직무<\/b> 면접 합격 후기",
+			"link":"https:\/\/blog.naver.com\/kashv?Redirect=Log&logNo=222675883151",
+			"description":"친환경 <b>에너지<\/b> 관련주하면 한번쯤은 들어봤을 주린이분들 많죠?ㅋㅋ 저도 평소 친환경 산업에 대해 관심이 많아 (주식때문이 아니라....) 익히 관심을 갖고 있던 회사인데 이번에 좋은 기회로 면접을 보게... ",
+			"bloggername":"아주 나이스한 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/kashv",
+			"postdate":"20220318"
+		},
+		{
+			"title":"LG 엘지 <b>에너지<\/b>솔루션 채용 문과<b>직무<\/b> 취업 면접 후기 \/ 기업정보",
+			"link":"https:\/\/blog.naver.com\/pursea?Redirect=Log&logNo=222800226049",
+			"description":"해당학생이 면접을 본 수많은 기업들 중 엘지 LG <b>에너지<\/b>솔루션 수시채용 문과<b>직무<\/b> 면접 후기입니다. (꽃보다취업 카페에 게재) 엘지 LG <b>에너지<\/b>솔루션 수시채용 문과<b>직무<\/b> 면접 후기 관련 전체 방식과 질문이... ",
+			"bloggername":"엔티코리아(NT KOREA) 교육그룹",
+			"bloggerlink":"https:\/\/blog.naver.com\/pursea",
+			"postdate":"20220704"
+		},
+		{
+			"title":"한수원 ncs 시험 후기 및 필기합격컷(신재생<b>에너지직무<\/b>)",
+			"link":"https:\/\/blog.naver.com\/kimon23?Redirect=Log&logNo=222534054525",
+			"description":"신재생<b>에너지<\/b> 전공은 계산문제는 거의 없고 대부분 송배전설비기준이나 법령, 신재생<b>에너지<\/b>에 대한 정의같은 것이 대부분이었습니다. 개인적으로 나중에 준비할 때 대체 어떻게 준비해야 할지 감이... ",
+			"bloggername":"군포사는 공대생",
+			"bloggerlink":"https:\/\/blog.naver.com\/kimon23",
+			"postdate":"20211012"
+		},
+		{
+			"title":"<b>에너지<\/b>설계사 <b>직무<\/b>교육(부산시 동구청)",
+			"link":"https:\/\/blog.naver.com\/adp3791?Redirect=Log&logNo=222570609659",
+			"description":"광명역에 주차후 대략 2시간반정도 KTX를타고 약속된 <b>에너지<\/b>설계사 <b>직무<\/b> 강의시간에 늦지않게 30분 일찍도착하여 부산시 동구청에서 커피한잔 땡기며... 담당주무관님도 <b>에너지<\/b>설계사 <b>직무<\/b>교육을 처음... ",
+			"bloggername":"측정하지 못하면 관리할수없다",
+			"bloggerlink":"https:\/\/blog.naver.com\/adp3791",
+			"postdate":"20211117"
+		},
+		{
+			"title":"[한국<b>에너지<\/b>정보문화재단 무료 <b>직무<\/b>연수] 지구의 내일을... ",
+			"link":"https:\/\/blog.naver.com\/hstudy02?Redirect=Log&logNo=222828053039",
+			"description":"한국교원연수원 #기관무료연수 #기관연수 #무료<b>직무<\/b>연수 #학점인정 #<b>에너지<\/b>연수 #환경연수 무료 <b>직무<\/b>연수 선착순 모집! + 연수 이수하고 선물도 받는 이벤트 진행 중! 한국<b>에너지<\/b>정보문화재단 기후위기... ",
+			"bloggername":"한국교원연수원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hstudy02",
+			"postdate":"20220725"
+		},
+		{
+			"title":"<b>직무<\/b> 파헤치기 Part 3. <b>에너지<\/b>업계",
+			"link":"https:\/\/blog.naver.com\/chemijobku?Redirect=Log&logNo=222566579907",
+			"description":"오늘의 포스팅이 <b>에너지<\/b>업계 <b>직무<\/b>를 희망하는 모든 분들에게 도움이되었으면 좋겠네요 :) 그럼 케미잡KU는 다음에 더 유익한 정보를 들고 찾아올께요! 다음에 만나요 안녕~~ &lt;출처... ",
+			"bloggername":"케미잡KU",
+			"bloggerlink":"https:\/\/blog.naver.com\/chemijobku",
+			"postdate":"20211112"
+		},
+		{
+			"title":"경기환경<b>에너지<\/b>진흥원, 교사 환경교육 <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/ghksrudrydbr?Redirect=Log&logNo=222827901177",
+			"description":"경기환경<b>에너지<\/b>진흥원은 오는 26일과 27일 이틀에 걸쳐 국립과천과학관에서 도내 초·중·고등학교 교사 60명을 대상으로 ‘교사 환경교육 <b>직무<\/b>연수’를 실시한다. 경기도로부터 경기도환경교육센터 업무를... ",
+			"bloggername":"환경교육도시 용인",
+			"bloggerlink":"https:\/\/blog.naver.com\/ghksrudrydbr",
+			"postdate":"20220725"
+		},
+		{
+			"title":"[유튜브] 선배 <b>직무<\/b> 인터뷰 2탄 _ LG<b>에너지<\/b> 솔루션",
+			"link":"https:\/\/blog.naver.com\/aja_supporters?Redirect=Log&logNo=222634576067",
+			"description":"도움 되시는 정보 쏙쏙 뽑아가세요 :) 이번 선배 <b>직무<\/b> 인터뷰 대상자로 바로 LG<b>에너지<\/b> 솔루션에 취업하신 선배님을 모셔봤습니다 !! 카드뉴스를 참고하셔서 선배가 해주시는 이야기를 들어봅시당... ",
+			"bloggername":"아주대 대학일자리플러스센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/aja_supporters",
+			"postdate":"20220129"
+		},
+		{
+			"title":"공조냉동기계기능사, <b>에너지<\/b>관리기능사 관련<b>직무<\/b>와 취업처",
+			"link":"https:\/\/blog.naver.com\/durudong?Redirect=Log&logNo=222187321620",
+			"description":"합격기준 : 필기(100점을 만점으로 하여 60점이상) 실기 (100점을 만점으로 하여 60점이상) <b>에너지<\/b>관리기능사 관련<b>직무<\/b> 요즘 같은 겨울철에는 보일러 고장이나 동파 등 다양하게 고장이 많이 납니다. 또... ",
+			"bloggername":"영남기술직업전문학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/durudong",
+			"postdate":"20201228"
+		},
+		{
+			"title":"환경<b>에너지<\/b>학과를 졸업하면 어떤 <b>직무<\/b>능력을 가지게 될까요?",
+			"link":"https:\/\/blog.naver.com\/semyungbio?Redirect=Log&logNo=222624615599",
+			"description":"세명대 환경<b>에너지<\/b>학과에 지원한 수험생들과 재학생들을 위해서 환경<b>에너지<\/b>학과를 졸업하면 어떤 <b>직무<\/b>능력을 가지게 되는지를 소개합니다. (* 2020. 10. 12에 작성한 글을 업데이트하였습니다.) '<b>직무<\/b>능력'이란... ",
+			"bloggername":"세명대학교 환경에너지학과",
+			"bloggerlink":"https:\/\/blog.naver.com\/semyungbio",
+			"postdate":"20220118"
+		},
+		{
+			"title":"한국<b>에너지<\/b>공단 2021년 하반기 신입직원  채용공고 및 NCS<b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/runplusdev?Redirect=Log&logNo=222535692783",
+			"description":"한국<b>에너지<\/b>공단 NCS<b>직무<\/b>기술서 입니다. 경영\/경제 02010101 경영기획 02010201 PR 02020201 인사 02020302 사무행정 02030202 회계\/감사 법\/행정 02010101 경영기획 02010201 PR 02020302 사무행정 05010101 법무... ",
+			"bloggername":"온라인 교육기관 러닝플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/runplusdev",
+			"postdate":"20211013"
+		},
+		{
+			"title":"중부발전, 슬기로운 <b>에너지<\/b>전환을 위한 <b>직무<\/b> 역량 향상 교육 시행",
+			"link":"https:\/\/blog.naver.com\/komipo_official?Redirect=Log&logNo=222540471805",
+			"description":"중부발전, 슬기로운 <b>에너지<\/b>전환을 위한 <b>직무<\/b> 역량 향상 교육 시행 - <b>에너지<\/b>전환 및 탄소중립 실행에 따른 뉴딜 실행력 강화 발판 마련 - 2021.10.18 한국중부발전은 10월 18일(월) 충남 보령 아주자동차대학과 함께... ",
+			"bloggername":"한국중부발전 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/komipo_official",
+			"postdate":"20211018"
+		},
+		{
+			"title":"21년 융복합지원사업 한국<b>에너지<\/b>공단 <b>직무<\/b>교육자료",
+			"link":"https:\/\/blog.naver.com\/searchlife?Redirect=Log&logNo=222273811038",
+			"description":"2021 신재생<b>에너지<\/b> 융복합지원사업 <b>직무<\/b>교육 영상 및 자료 1. 신재생<b>에너지<\/b> 융복합지원사업 진행절차 안내 - https:\/\/youtu.be\/y5m5kri_JFU 2. e-나라도움 사용자 매뉴얼 및 e-호조... ",
+			"bloggername":"searchlife님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/searchlife",
+			"postdate":"20210313"
+		},
+		{
+			"title":"`2020년 신재생<b>에너지 직무<\/b>능력향상 교육 과정 안내",
+			"link":"https:\/\/blog.naver.com\/hyubwoo_khd?Redirect=Log&logNo=222095263893",
+			"description":"2020년 9.24 ~ 11\/20 까지 실시하는 신재생<b>에너지 직무<\/b>능력향상 14개 교육 과정을 안내합니다.",
+			"bloggername":"좋은 이웃",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyubwoo_khd",
+			"postdate":"20200921"
+		},
+		{
+			"title":"취준진담][21.10.07 LG<b>에너지<\/b>솔루션 공정기술 1차 <b>직무<\/b>면접... ",
+			"link":"https:\/\/blog.naver.com\/susu6736?Redirect=Log&logNo=222529438205",
+			"description":"(원데이=<b>직무<\/b>+인성) 목요일에 졸업 프로젝트 중간발표 금요일에 LG<b>에너지<\/b>솔루션 2차 인성면접 이네요 ^__^ 아 X됐다.. 그리고 다다음주엔 친언니가 결혼을 한답니다 제가 장본인은 아니지만 준비할 게 이만저만이... ",
+			"bloggername":"㏨",
+			"bloggerlink":"https:\/\/blog.naver.com\/susu6736",
+			"postdate":"20211007"
+		},
+		{
+			"title":"포스코인터내셔널 \/ 채용연계형 인턴 \/ 관리 <b>직무<\/b>(<b>에너지<\/b>사업... ",
+			"link":"https:\/\/blog.naver.com\/carrot3636?Redirect=Log&logNo=222734827082",
+			"description":"여태까지 전부 정장이었다고 하심 ㅋㅋ 위에 쓴 보이는 것 처럼 나는 '<b>직무<\/b>적합면접'을 보았으며, PT나... -자기소개 &amp; 지원동기 -포인터가 당신을 뽑아야하는 이유 -포인터의 조직문화에 대해서 어떻게 생각하나... ",
+			"bloggername":"날다람쥐의 소굴",
+			"bloggerlink":"https:\/\/blog.naver.com\/carrot3636",
+			"postdate":"20220516"
+		},
+		{
+			"title":"씨엔시티<b>에너지<\/b>(충남도시가스)... 본인의 장단점,<b>직무<\/b>수행 역량)",
+			"link":"https:\/\/blog.naver.com\/7am_study?Redirect=Log&logNo=222407235756",
+			"description":"CNCITY<b>에너지<\/b> 해당 <b>직무<\/b>에 지원하게 된 지원동기는 무엇이며, 입사 후 어떠한 포부로 업무에 임할 지 작성해주시기 바랍니다.(600자) 2. 어떠한 일에 가장 크게 몰입해서 ‘재미있고 즐겁게’했던 경험에... ",
+			"bloggername":"7AM스터디",
+			"bloggerlink":"https:\/\/blog.naver.com\/7am_study",
+			"postdate":"20210623"
+		},
+		{
+			"title":"컬러상담\/컬러별\/모듬활동\/신의한수\/컬러<b>에너지<\/b>\/서비스<b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/kkk9687?Redirect=Log&logNo=222589640338",
+			"description":"적극적으로 참여하고 함께 즐겨주었던 직원들 덕분이었습니다^^ #박은하강사 #블라인드컬러 #컬러심리 #컬러상담 #컬러별 #모듬활동 #신의한수 #컬러<b>에너지<\/b> #서비스<b>직무<\/b> #고객니즈 #거절처리 #예지교육컨설팅",
+			"bloggername":"예지(禮智)교육컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/kkk9687",
+			"postdate":"20211208"
+		},
+		{
+			"title":"[취업] LG<b>에너지<\/b>솔루션 학사 R&amp;D Cell 개발<b>직무<\/b> 면접 컨설팅... ",
+			"link":"https:\/\/blog.naver.com\/jw811p?Redirect=Log&logNo=222723072664",
+			"description":"의뢰인은 결국 LG<b>에너지<\/b>솔루션 R&amp;D Cell 개발 <b>직무<\/b>의 1차 면접 합격이란 결과를 만들었습니다. 사실 의뢰인은 준비 과정에서 중견기업에 붙으며 LG<b>에너지<\/b>솔루션 면접은 포기할까 고민을 했었는데요. 웅소장은... ",
+			"bloggername":"일상취업연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/jw811p",
+			"postdate":"20220506"
+		},
+		{
+			"title":"중부발전, ‘슬기로운 <b>에너지<\/b>전환’ <b>직무<\/b> 역량 향상 교육 시행",
+			"link":"https:\/\/blog.naver.com\/contec60?Redirect=Log&logNo=222541674392",
+			"description":"중부발전은 지난 18일 충남 보령 아주자동차대학과 함께 친환경 <b>에너지<\/b> 전환 및 탄소중립에 대한 <b>직무<\/b>역량 향상을 위해 ‘슬기로운 <b>에너지<\/b>전환을 위한 <b>직무<\/b> 역량 향상 교육과정’을 개설했다고 최근... ",
+			"bloggername":"contec",
+			"bloggerlink":"https:\/\/blog.naver.com\/contec60",
+			"postdate":"20211019"
+		},
+		{
+			"title":"[포스코<b>에너지<\/b> 채용] <b>직무<\/b>역량평가 &amp; 가치적합성평가  분지",
+			"link":"https:\/\/blog.naver.com\/designer_dh?Redirect=Log&logNo=222432504593",
+			"description":"해서 빠른 상담 에약 링크 남겨드려요 마무리 포스코<b>에너지<\/b> 채용 서류전형부터 <b>직무<\/b>역량평가면접, 가치적합성면접까지 확실하게 준비해서 합격을 노리고 싶은분들은 문의주시면! 1:1 취업코칭상담 도와드릴게요!",
+			"bloggername":"부러진날개로 나는법을 배워라",
+			"bloggerlink":"https:\/\/blog.naver.com\/designer_dh",
+			"postdate":"20210715"
+		},
+		{
+			"title":"동신대 <b>에너지<\/b>IoT전공, 비대면 진로‧취업 <b>직무<\/b>특화 프로그램... ",
+			"link":"https:\/\/blog.naver.com\/dsublog?Redirect=Log&logNo=222171827397",
+			"description":"동신대학교 <b>에너지<\/b>융합대학 <b>에너지<\/b>IoT전공은 지난 10일 1∼4학년 재학생 30명을 대상으로 온라인 비대면 진로·취업 <b>직무<\/b>특화 프로그램을 진행했어요. 대학일자리센터의 초청을 받은 새만금개발공사 고희성... ",
+			"bloggername":"동신대학교 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dsublog",
+			"postdate":"20201214"
+		},
+		{
+			"title":"공조냉동기계 및 <b>에너지<\/b>관리 수행<b>직무<\/b> 및 실기과정!",
+			"link":"https:\/\/blog.naver.com\/durudong?Redirect=Log&logNo=222701851370",
+			"description":"공조냉동기계기능사 \/ <b>에너지<\/b>관리기능사 \/ 가스기능사 \/ 공조냉동기계산업기사 \/ <b>에너지<\/b>관리산업기사 등이 있습니다! <b>직무<\/b>? 공조냉동기계의 설비, 시공, 운전에 필요한 공구, 기계 및 측정기기를 사용하여... ",
+			"bloggername":"영남기술직업전문학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/durudong",
+			"postdate":"20220415"
+		},
+		{
+			"title":"[컨설팅 후기] LG<b>에너지<\/b>솔루션 품질<b>직무<\/b> 1차합격( 경력직 면접... ",
+			"link":"https:\/\/blog.naver.com\/career_o?Redirect=Log&logNo=222612143065",
+			"description":"Anyway, 이번엔 약 4년정도의 경험이 있으신 경력직 지원자분께서 LG<b>에너지<\/b>솔루션 품질<b>직무<\/b> 면접 SOS도움요청을 주셨어요! 실무진 면접위주로 도와드리기로 진행했고, 실무진 1차면결과는 뭐 당연히... ",
+			"bloggername":"공대선배의 자소서\/면접 컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/career_o",
+			"postdate":"20220104"
+		},
+		{
+			"title":"인턴채용] 2022 한국<b>에너지<\/b>기술연구원 인턴채용 <b>직무<\/b>기술서",
+			"link":"https:\/\/blog.naver.com\/findsomepeace7?Redirect=Log&logNo=222617864970",
+			"description":"선발합니다 <b>직무<\/b>기술서 NO.1 한국<b>에너지<\/b>기술연구원 인턴채용 본부 재생<b>에너지<\/b> 연구소 부서명 태양광연구단 연수지역 대전 연수분야 차세대 태양전자 선발인원 2명 활용기간은 2022년 3월 1일부터 2022년... ",
+			"bloggername":"딱공기업 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/findsomepeace7",
+			"postdate":"20220110"
+		},
+		{
+			"title":"[LG<b>에너지<\/b>솔루션 품질 <b>직무<\/b>] 합격자소서 공유",
+			"link":"https:\/\/blog.naver.com\/dbqls2202102?Redirect=Log&logNo=222428768728",
+			"description":"안녕하세요 LG<b>에너지<\/b>솔루션 품질<b>직무<\/b> 합격자소서 공유합니다 ! 댓글로 이메일 남겨주시면 보내드릴게요 :) 서류합격 인적성합격 1차면접 합격 아쉽지만 최종면접에서 탈락했었던... ",
+			"bloggername":"심드렁한 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/dbqls2202102",
+			"postdate":"20210713"
+		},
+		{
+			"title":"(펌)2021 신재생<b>에너지<\/b> 융복합지원사업 <b>직무<\/b>교육 자료",
+			"link":"https:\/\/blog.naver.com\/nohssy?Redirect=Log&logNo=222314099336",
+			"description":"제목 2021 신재생<b>에너지<\/b> 융복합지원사업 <b>직무<\/b>교육 자료 작성자 신재생<b>에너지<\/b>관리자 작성일 2021-03-12 조회수 2077 첨부파일 2021 융복합지원사업 <b>직무<\/b>교육자료.pdf 2021... ",
+			"bloggername":"에너지& 미래 아카데미",
+			"bloggerlink":"https:\/\/blog.naver.com\/nohssy",
+			"postdate":"20210418"
+		},
+		{
+			"title":"[5\/6] <b>직무<\/b>조사 - LG<b>에너지<\/b>솔루션",
+			"link":"https:\/\/blog.naver.com\/joing0114?Redirect=Log&logNo=222340202522",
+			"description":"LG<b>에너지<\/b>솔루션 공식 사이트 <b>직무<\/b> 분류표입니다. R&amp;D 소재\/Cell 개발 - 유\/무기 소재 합성 및 분석, 금속\/고분자 재료 물성연구 등 - 차세대 전지기술 ,전지소재 및 공정기술 등 - Cell\/소재개발을 위한 전기화학적... ",
+			"bloggername":"joing0114님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/joing0114",
+			"postdate":"20210506"
+		},
+		{
+			"title":"한국항공대학교 &lt;<b>에너지<\/b> 공기업 <b>직무<\/b>와 취업 전략&gt; : 의미공학자... ",
+			"link":"https:\/\/blog.naver.com\/meaningeng?Redirect=Log&logNo=222309989776",
+			"description":"한국항공대학교 &lt;<b>에너지<\/b> 공기업 <b>직무<\/b>와 취업 전략&gt; 의미공학자 유재천 코치 2021.3.23(화) 16:00~18:00 한국항공대학교 학생들에게 &lt;<b>에너지<\/b> 공기업 <b>직무<\/b>와 취업 전략&gt; 특강을 했습니다. <b>에너지<\/b>... ",
+			"bloggername":"의미공학연구소 (대학교육 | 기업교육 | 대중강연)",
+			"bloggerlink":"https:\/\/blog.naver.com\/meaningeng",
+			"postdate":"20210414"
+		},
+		{
+			"title":"[1년 전 오늘] 박은하강사\/컬러<b>에너지<\/b>\/<b>직무<\/b>적성검사... ",
+			"link":"https:\/\/blog.naver.com\/kkk9687?Redirect=Log&logNo=222370866344",
+			"description":"1년 전 오늘 박은하강사\/컬러<b>에너지<\/b>\/<b>직무<\/b>적성검사\/관계성검사\/인적성검사\/Color Personal Analysis\/타고난기질\/성향\/개성\/취향\/잠재역량\/공명컬러\/비공명컬러\/강점\/보안점\/예지교육컨설팅 Color Personal... ",
+			"bloggername":"예지(禮智)교육컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/kkk9687",
+			"postdate":"20210527"
+		},
+		{
+			"title":"[취업] LG<b>에너지<\/b>솔루션 설비기술 <b>직무<\/b> 경력직 면접 컨설팅!",
+			"link":"https:\/\/blog.naver.com\/jw811p?Redirect=Log&logNo=222689973260",
+			"description":"LG<b>에너지<\/b>솔루션 설비기술 <b>직무<\/b>의 경력직으로 지원한 이준생은 현재 서류를 합격한 후 면접 전에 진행하는 인성검사를 기다리고 있었습니다. 하지만, 추후 진행 될 면접이 걱정되어 미리 준비를 하고 싶은... ",
+			"bloggername":"일상취업연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/jw811p",
+			"postdate":"20220402"
+		},
+		{
+			"title":"<b>직무<\/b>능력향상&amp;전기이슈정리 #6 -  윤석열호 핵심 <b>에너지<\/b> 정책은?... ",
+			"link":"https:\/\/blog.naver.com\/lgangell2?Redirect=Log&logNo=222803183347",
+			"description":"<b>직무<\/b>능력향상&amp;전기이슈정리 #6 - 윤석열호 핵심 <b>에너지<\/b> 정책은? ㅣ신재생<b>에너지<\/b> =&gt; 원전 트렌드 변화 http:\/\/www.energy-news.co.kr\/news\/articleView.html?idxno=82168 요약 탈원전 원상복구로 원자력산업 생태계 강화... ",
+			"bloggername":"비전공자 공기업 전기직 취준중",
+			"bloggerlink":"https:\/\/blog.naver.com\/lgangell2",
+			"postdate":"20220707"
+		},
+		{
+			"title":"2020 &quot;<b>에너지<\/b>설계사&quot; <b>직무<\/b>교육 (울산광역시 남구)",
+			"link":"https:\/\/blog.naver.com\/adp3791?Redirect=Log&logNo=221998427522",
+			"description":"<b>에너지<\/b>설계사 <b>직무<\/b>교육이 서울시에 이어 울산광역시에서 진행되었습니다. 정부에 탈원전,기후위기 대응에 부응키위해 <b>에너지<\/b> 효율관리 방안으로 보입니다. 향후 그린뉴딜 정책방향이 고탄소 산업의존도가... ",
+			"bloggername":"측정하지 못하면 관리할수없다",
+			"bloggerlink":"https:\/\/blog.naver.com\/adp3791",
+			"postdate":"20200612"
+		},
+		{
+			"title":"[출강] JB(구, 중부<b>에너지<\/b>) <b>직무<\/b>교육 사내강사 양성교육(4.... ",
+			"link":"https:\/\/blog.naver.com\/hrdist?Redirect=Log&logNo=221523569607",
+			"description":"[출강] JB(구, 중부<b>에너지<\/b>) <b>직무<\/b>교육 사내강사 양성교육(4.22~4.23) ○ 과정명 : 직무교육 사내강사 양성교육 ○ 대상 : 직무교육\/조직문화 사내강사 ○ 일정 : 2019.4.22 ~ 4.23 ○ 내용 : ※ 교육과정 안내서 참조... ",
+			"bloggername":"HRDIST 에이치알디스트",
+			"bloggerlink":"https:\/\/blog.naver.com\/hrdist",
+			"postdate":"20190426"
+		},
+		{
+			"title":"한국<b>에너지<\/b>공단 채용, <b>직무<\/b>능력중심 채용을 공략하는 자소서... ",
+			"link":"https:\/\/blog.naver.com\/kil8853?Redirect=Log&logNo=221551232991",
+			"description":"귀하가 가진 <b>직무<\/b>관련 경험과 능력을 바탕으로 한국<b>에너지<\/b>공단의 발전 및 미래성장동력 확보에 기여할 수 있는 바를 기술해 주십시오.(500자 이내) Q2. 소속집단의 공동과업을 달성하는 과정에서 발생된... ",
+			"bloggername":"취업의신 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kil8853",
+			"postdate":"20190531"
+		},
+		{
+			"title":"[<b>직무<\/b>분석] 희망 기업 <b>직무<\/b>분석(1주차)_LX인터내셔널",
+			"link":"https:\/\/blog.naver.com\/psjlove97?Redirect=Log&logNo=222811175940",
+			"description":"희망 기업 <b>직무<\/b>: LX인터내셔널 해외영업<b>직무<\/b>(<b>에너지<\/b>.팜 사업) &lt;<b>직무<\/b> 역할&gt; : 당사 투자 광산인 인도네시아 소재 GAM 광산의 물량을 동남아\/서남아 시장向 안정적으로 판매하는 업무를 담당하고 있으며, GAM... ",
+			"bloggername":"at this moment",
+			"bloggerlink":"https:\/\/blog.naver.com\/psjlove97",
+			"postdate":"20220714"
+		},
+		{
+			"title":"합격 <b>직무<\/b>수행계획서 키워드가 포인트",
+			"link":"https:\/\/blog.naver.com\/esupc?Redirect=Log&logNo=222822984681",
+			"description":"향후 전기시설 구축에 있어 친환경 재생 <b>에너지<\/b> 시스템을 활용할 수 있도록 중장기 계획을 수립하여 <b>직무<\/b>수행계획서를 작성할 수 있을 뿐만 아니라, 대한민국 기업들이 수출 제한에 걸리지 않도록 정부... ",
+			"bloggername":"ESUP",
+			"bloggerlink":"https:\/\/blog.naver.com\/esupc",
+			"postdate":"20220721"
+		},
+		{
+			"title":"집단<b>에너지<\/b>분야 <b>직무<\/b> 특강[2018 한국지역난방공사 협력사... ",
+			"link":"https:\/\/blog.naver.com\/youthhopefoundation?Redirect=Log&logNo=221394856642",
+			"description":"집단<b>에너지<\/b>분야 <b>직무<\/b> 특강 [2018 한국지역난방공사 협력사 일자리매칭 페스티벌] 일 시 2018년 11월 22일(목) 13시 30분 ~ 16시 30분 장 소 청년재단(서울 종로구 청계천로 35, 관정빌딩 3층) 강 사... ",
+			"bloggername":"청년재단 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/youthhopefoundation",
+			"postdate":"20181109"
+		},
+		{
+			"title":"청주대, 충북<b>에너지<\/b>산학융합지구 근로자 <b>직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/cjuonline?Redirect=Log&logNo=221971875021",
+			"description":"충북<b>에너지<\/b> 산학융합지구 조성사업의 일환으로 진행되고 있는 이번 교육과정은, ISO 14001 인증 프로세스, 인증 심사 활동 과정에 대한 전반적인 지식을 학습하게 되며, 이번 교육을 통해 근로자는 개인 <b>직무<\/b>능... ",
+			"bloggername":"학생중심 특성화 교육혁신대학 청주대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/cjuonline",
+			"postdate":"20200520"
+		},
+		{
+			"title":"전기 <b>직무<\/b> 고시 휴대용 열화상 카메라 testo 868",
+			"link":"https:\/\/blog.naver.com\/tamtec?Redirect=Log&logNo=222824130451",
+			"description":"이번에는 전기안전관라자 분들의 <b>직무<\/b>고시 및 전기 설비관리를 쉽게 도와드릴 전기 <b>직무<\/b> 고시용... Scale Assist 모드\/ ε-Assist 방사율 설정 Sclae Assist 모드 작동 중 Scale Assist 기능은 건축물에서 열<b>에너지<\/b>가... ",
+			"bloggername":"tamteccns님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/tamtec",
+			"postdate":"20220722"
+		},
+		{
+			"title":"22상 GS<b>에너지<\/b> 분석: <b>직무<\/b>, 자소서 문항",
+			"link":"https:\/\/blog.naver.com\/latte_life?Redirect=Log&logNo=222642197290",
+			"description":"오늘은 2022년 2월 14일 17시에 마감하는 GS<b>에너지<\/b> 신입채용 <b>직무<\/b> 및 자소서 문항 분석을 하려고 블로그를 켰습니다. 일단 아래 내용 보시고, 유료 문의가 필요하면 hori1017 카톡 주시고요. 카톡 주시기 전, 댓글... ",
+			"bloggername":"하리하리의 블로그하리",
+			"bloggerlink":"https:\/\/blog.naver.com\/latte_life",
+			"postdate":"20220208"
+		},
+		{
+			"title":"유아이<b>에너지<\/b> 최규선 대표이사 <b>직무<\/b>집행정지",
+			"link":"https:\/\/blog.naver.com\/ysbit?Redirect=Log&logNo=130160125234",
+			"description":"이와 같이 소액주주들의 노력으로 최규선 등의 <b>직무<\/b>집행이 정지되고 <b>직무<\/b>대행자가 선임됨에 따라 이후 유아이<b>에너지<\/b> 회사의 투명경영과 소액주주 및 채권자들의 보호가 가능해질 것으로 보입니다. 특히, 이번... ",
+			"bloggername":"김광중 변호사의 금융투자소송",
+			"bloggerlink":"https:\/\/blog.naver.com\/ysbit",
+			"postdate":"20130218"
+		},
+		{
+			"title":"<b>에너지<\/b> 자원대사 <b>직무<\/b>정지, 자원 외교의 꼼수?",
+			"link":"https:\/\/ibio.tistory.com\/417",
+			"description":"(11) 2012.01.19 PD수첩 허니문 푸어의 슬픔 (38) 2012.01.18 <b>에너지<\/b> 자원대사 <b>직무<\/b>정지, 자원 외교의 꼼수? (3) 2012.01.17 개신교가 학생인권조례를 반대하는 진짜 이유 (62) 2012.01.16 에드워드 권, 짝퉁 쉐프 또는 선한... ",
+			"bloggername":"나비오의 쿨한 무위도식 :: 나비오의 쿨한 무위도식",
+			"bloggerlink":"https:\/\/ibio.tistory.com\/",
+			"postdate":"20120117"
+		},
+		{
+			"title":"[2011\/03] 축적된 경험만큼 강력한 커리어 <b>직무<\/b> <b>에너지<\/b>는 없다.",
+			"link":"https:\/\/blog.naver.com\/zhanggun?Redirect=Log&logNo=10104595429",
+			"description":"축적된 경험만큼 강력한 커리어 <b>직무<\/b> <b>에너지<\/b>는 없다. * 신입 VS 경력 신입사원과 경력사원의 차이는 무엇일까요? 신입사원과 경력사원의 차이는 집중력과 진지한 카리스마의 차이라고도 할 수 있으며, 몸소... ",
+			"bloggername":"IBrand™\/HRD\/HR\/전략\/내 마음대로",
+			"bloggerlink":"https:\/\/blog.naver.com\/zhanggun",
+			"postdate":"20110307"
+		},
+		{
+			"title":"현대코퍼레이션 해외영업 <b>직무<\/b> 2022 상반기 대졸신입 채용... ",
+			"link":"https:\/\/blog.naver.com\/0105kyh?Redirect=Log&logNo=222768209003",
+			"description":"본인이 성공적으로 수행했던 프로젝트\/과제 또는 본인에게 큰 영향을 미친 활동\/경험을 지원<b>직무<\/b>와 연결하여 기술하여 주십시오 <b>에너지<\/b> IT 스타트업에서의 콘텐츠 마케팅 인턴 경험과 그것을 통해 배운 것 CES... ",
+			"bloggername":"Elena&apos;s Records 엘레나의 기록",
+			"bloggerlink":"https:\/\/blog.naver.com\/0105kyh",
+			"postdate":"20220611"
+		},
+		{
+			"title":"<b>직무<\/b>경험*경력이 크게 중요하지 않은 공공기관은?",
+			"link":"https:\/\/blog.naver.com\/livwilly?Redirect=Log&logNo=222740986922",
+			"description":"그 이유는 SOC*<b>에너지<\/b> 인프라 계열 사무행정 <b>직무<\/b>가 갖는 모호함의 특성도 한 몫하지만, 공대생 주력인 기관의 사무행정지원 인력의 특성 등 다양한 이유가 있습니다. 실제로 저는 지난 10년간 공공기관 취업... ",
+			"bloggername":"국제MIA와 함께하는 이상동몽(異床同夢)",
+			"bloggerlink":"https:\/\/blog.naver.com\/livwilly",
+			"postdate":"20220521"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 NCS 23. 환경·<b>에너지<\/b>·안전",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220618303038",
+			"description":"환경·<b>에너지<\/b>·안전 NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가는 NCS를 공기업에 도입 후 공기업 채용 시스템이 어떻게 바꼈는지 알 수 있어요. NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가에는 NCS 분류 체계에 따라... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160204"
+		},
+		{
+			"title":"4060을 위한 <b>직무<\/b>향상 교육 - 소방안전관리자 2급 자격증... ",
+			"link":"https:\/\/blog.naver.com\/hope_city?Redirect=Log&logNo=222810993802",
+			"description":"취득한다면 <b>직무<\/b>향상은 물론 소방안전관리자 선임이 되는 데 도움이 된다고 합니다. 또한, 공동거주 주택단지 시설관리 및 위험물 및 산업용 <b>에너지<\/b> 시설 분야로 취업을 희망하시는 분들이 참여하기에도... ",
+			"bloggername":"의정부시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hope_city",
+			"postdate":"20220714"
+		},
+		{
+			"title":"시니어 그린티처 1차 <b>직무<\/b>교육--<b>에너지<\/b> 절약교육 (녹색기후학교)",
+			"link":"https:\/\/blog.naver.com\/0469kym?Redirect=Log&logNo=90141692732",
+			"description":"시니어 그린티처 1차 <b>직무<\/b>교육--<b>에너지<\/b> 절약교육 (녹색기후학교) 2012년 4월7일 (토) 오전 9시부터 오후1시까지 녹색기후학교 시니어 그린티처의 <b>직무<\/b>교육이 의왕시 자연학습공원 2층 시청각실에서... ",
+			"bloggername":"엘아이디연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/0469kym",
+			"postdate":"20120423"
+		},
+		{
+			"title":"박은하강사\/컬러<b>에너지<\/b>\/<b>직무<\/b>적성검사\/관계성검사... ",
+			"link":"https:\/\/blog.naver.com\/kkk9687?Redirect=Log&logNo=221980001724",
+			"description":"#박은하강사 #컬러<b>에너지<\/b> #<b>직무<\/b>적성검사 #성향 #인적성검사 #Color Personal Analysis #잠재역량 #타고난기질 #개성 #취향 #공명컬러 #관계성검사 #비공명컬러 #강점 #보안점 #예지교육컨설팅 #상담예약 #음양오행... ",
+			"bloggername":"예지(禮智)교육컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/kkk9687",
+			"postdate":"20200527"
+		},
+		{
+			"title":"<b>에너지<\/b>컨설턴트 <b>직무<\/b>교육(2019-03-26)",
+			"link":"https:\/\/blog.naver.com\/dosim_senior?Redirect=Log&logNo=221560438084",
+			"description":"<b>에너지<\/b>컨설턴트<b>직무<\/b>교육 3일차 태양광발전 : 박경빈선생님 LED 조명 교육 : 박용선선생님 강의 내용은 (도시형) 태양광 비즈니스 모델및 구축이었습니다. 수업내용은, - 기후변화와 신재생<b>에너지<\/b>... ",
+			"bloggername":"서울시도심권50플러스센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/dosim_senior",
+			"postdate":"20190614"
+		},
+		{
+			"title":"환경· <b>에너지<\/b>· 안전 분야 <b>직무<\/b>수행능력평가 <b>직무<\/b>중심면접... ",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220705062866",
+			"description":"환경·<b>에너지<\/b>·안전 분야 <b>직무<\/b>수행능력평가문제 + 기출면접 내용이 궁금하다면? NCS 기반 <b>직무<\/b>수행능력+<b>직무<\/b>중심면접 평가 23 ... 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.05.10. 리뷰보기 다른... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160509"
+		},
+		{
+			"title":"목적으로 ▴사업전환·재편 ▴<b>직무<\/b>전환 훈련을 통한 고용유지... ",
+			"link":"https:\/\/blog.naver.com\/molab_suda?Redirect=Log&logNo=222442545631",
+			"description":"* (예시) 보령시는 ’고용안정선제대응패키지‘ 사업을 통해 협력사 이직자 등 대상으로 ‘미래차 및 신재생<b>에너지<\/b> 분야 <b>직무<\/b>전환 교육’ 실시 뿐만 아니라, 석탄발전ㆍ내연자동차 사업체 집중지역에 새로운... ",
+			"bloggername":"고용노동부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/molab_suda",
+			"postdate":"20210723"
+		},
+		{
+			"title":"시니어 그린티처 <b>직무<\/b>교육 (<b>에너지<\/b> 절약교육)",
+			"link":"https:\/\/blog.naver.com\/0469kym?Redirect=Log&logNo=90140525918",
+			"description":"2012년 4월 7일 의왕시 자연학습공원 강당에서 시니어 그린티처 <b>직무<\/b>교육이 녹색기후학교 김영만 학장의 <b>에너지<\/b> 절약 교육으로 <b>직무<\/b>교육이 실시 되었다. 그린티처 27명이 오늘 <b>직무<\/b>교육후 4월 9일(월)부터... ",
+			"bloggername":"엘아이디연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/0469kym",
+			"postdate":"20120407"
+		},
+		{
+			"title":"STX<b>에너지 직무<\/b>알아보기",
+			"link":"https:\/\/blog.naver.com\/mkkwon0602?Redirect=Log&logNo=80184579018",
+			"description":"HOME &gt; 직무소개 &gt; STX<b>에너지<\/b> ● <b>직무<\/b>영역 직무명을 클릭하시면 구체적인 업무내용을 보실수 있습니다. 경영관리부문 에너지신사업부문 E&amp;P사업부문 기획 IPP개발 사업기획 인사\/교육 광물자원개발... ",
+			"bloggername":"기업채용전문가 권누님의 독설 :)",
+			"bloggerlink":"https:\/\/blog.naver.com\/mkkwon0602",
+			"postdate":"20130312"
+		},
+		{
+			"title":"학사-석사-박사, 환경 <b>에너지<\/b> 연구 <b>직무<\/b> 일대일 컨설팅",
+			"link":"https:\/\/blog.naver.com\/i_contact_?Redirect=Log&logNo=221200958488",
+			"description":"학사-석사-박사, 환경 <b>에너지<\/b> 연구 <b>직무<\/b> 일대일 컨설팅 지난 여름, 박사 졸업을 남기시고, 포트폴리오 컨설팅을 문의하셨습니다. 환경 <b>에너지<\/b> 관련해서 학사 - 석사 - 박사까지 밟으셨는데요, 때문에... ",
+			"bloggername":"한여름 포트폴리오",
+			"bloggerlink":"https:\/\/blog.naver.com\/i_contact_",
+			"postdate":"20180204"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>수행능력+<b>직무<\/b>중심면접 평가. 23: 환경 <b>에너지<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/gosimart?Redirect=Log&logNo=220698947192",
+			"description":"‘<b>에너지<\/b>’ <b>직무<\/b> 관련 면접 질문 문항 04. ‘산업안전’ 직무 관련 면접 질문 문항 Ⅲ. 직무 수행 능력 평가 문제 01. 직무 수행 능력 평가 문제의 유형 02. ‘환경’ 관련 직무 수행 능력 평가 문제 03.... ",
+			"bloggername":"온라인교육 플랫폼 캠버스에듀",
+			"bloggerlink":"https:\/\/blog.naver.com\/gosimart",
+			"postdate":"20160502"
+		},
+		{
+			"title":"[채용 <b>직무<\/b>분석] 한국<b>에너지<\/b>공단",
+			"link":"https:\/\/blog.naver.com\/bluegreen0807?Redirect=Log&logNo=221465948893",
+			"description":"한국<b>에너지<\/b>공단에서 채용하는 <b>직무<\/b>를 분석해보자! (출처: 기관 홈페이지) 경영전략이사, 수요관리이사, 사업진흥이사, 기후대응이사로 구성된다. 경영기획 전략을 수립하고 자원을 배분하도록 의사결정을... ",
+			"bloggername":"직업도서관",
+			"bloggerlink":"https:\/\/blog.naver.com\/bluegreen0807",
+			"postdate":"20190215"
+		},
+		{
+			"title":"[출강]영남<b>에너지<\/b>서비스  <b>직무<\/b>교육 사내강사 양성교육 출강",
+			"link":"https:\/\/blog.naver.com\/hrdist?Redirect=Log&logNo=221120130065",
+			"description":"[출강] 구미 소재 영남<b>에너지<\/b>서비스 <b>직무<\/b>교육 사내강사 양성교육 (1일차) 강의 지난 달에 끝마친 컨설팅 결과를 토대로 <b>직무<\/b>교육 사내강사 양성교육을 진행. 오늘은 총 2일 과정 중 1일차 과정으로 강의기획과... ",
+			"bloggername":"HRDIST 에이치알디스트",
+			"bloggerlink":"https:\/\/blog.naver.com\/hrdist",
+			"postdate":"20171018"
+		},
+		{
+			"title":"<b>에너지<\/b>컨설턴트 사업단 <b>직무<\/b>교육 2일차",
+			"link":"https:\/\/blog.naver.com\/dosim_senior?Redirect=Log&logNo=221255197263",
+			"description":"<b>에너지<\/b>컨설턴트 사업단 <b>직무<\/b>교육 2일차 <b>에너지<\/b>컨설턴트 사업단 <b>직무<\/b>교육 2일차 오전 강의에 참석하였다. 오전 강의의 주제는 열 설비 진단Ⅱ로 한국<b>에너지<\/b>공단동우회 운영위원장인 김하연 강사께서... ",
+			"bloggername":"서울시도심권50플러스센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/dosim_senior",
+			"postdate":"20180419"
+		},
+		{
+			"title":"서울<b>에너지<\/b>공사 채용, 서울<b>에너지<\/b>공사 <b>직무<\/b>수행계획서",
+			"link":"https:\/\/blog.naver.com\/oregonking?Redirect=Log&logNo=221282294054",
+			"description":"서울<b>에너지<\/b>공사 자기소개서 항목, 서울<b>에너지<\/b>공사 <b>직무<\/b>수행계획서 이번 서울<b>에너지<\/b>공사 채용은 블라인드 채용으로 진행이 됩니다. 그런데.. 지원 자격이 법무는 변호사 자격이 있어야 하고, 노무는... ",
+			"bloggername":"직무수행계획서, 자기소개서 전문 에스엠씨지코리아",
+			"bloggerlink":"https:\/\/blog.naver.com\/oregonking",
+			"postdate":"20180523"
+		},
+		{
+			"title":"[한국<b>에너지<\/b>기술연구원] 4차 인재양성 <b>직무<\/b>소양 교육",
+			"link":"https:\/\/blog.naver.com\/nyspeech?Redirect=Log&logNo=221343217686",
+			"description":"더하여 <b>에너지<\/b> 관련 <b>직무<\/b>를 희망하는 취업 준비생들에게는 '꿈의 직장'으로 4차 인재 양성을 통해 일자리 창출에 적극 기여를 하고 있습니다. www.kier.re.kr 이번 연수생들은 이공계 학사 출신으로 4차 산업을... ",
+			"bloggername":"NY스피치",
+			"bloggerlink":"https:\/\/blog.naver.com\/nyspeech",
+			"postdate":"20180821"
+		},
+		{
+			"title":"<b>에너지<\/b>컨설턴트 사업단 <b>직무<\/b>교육 3일차 오전강의",
+			"link":"https:\/\/blog.naver.com\/dosim_senior?Redirect=Log&logNo=221261719128",
+			"description":"<b>에너지<\/b>컨설턴트 사업단 <b>직무<\/b>교육 3일차 오전 강의 오늘도 역시 이른 시간부터 강의실은 만석이었다. 오늘의 강의 주제는 태양광 발전 설치로 ㈜앰페코의 허장은 대표이사께서 맡아주셨다. ㈜엠페코는 2012년에... ",
+			"bloggername":"서울시도심권50플러스센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/dosim_senior",
+			"postdate":"20180428"
+		},
+		{
+			"title":"[GS<b>에너지<\/b> 채용] 합격자소서와 합격스펙, <b>직무<\/b>인터뷰 한눈에보기!",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221420744567",
+			"description":"맡으신 <b>직무<\/b>에 관한 간단한 소개 부탁 드립니다. #4. 업무를 하면서 보람을 느낄 때와 힘들 때는 언제일까요? <b>에너지<\/b> 관련 기업 합격스펙 <b>에너지<\/b> 관련 기업 합격선배의 스펙은?? &quot;스펙은 참고일뿐... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20181217"
+		},
+		{
+			"title":"보람일자리 사업의 하나인 <b>에너지<\/b>컨설턴트 사업단 <b>직무<\/b> 교육",
+			"link":"https:\/\/blog.naver.com\/dosim_senior?Redirect=Log&logNo=221250986517",
+			"description":"보람일자리 사업 <b>에너지<\/b>컨설턴트 사업단 <b>직무<\/b>교육 50+ 서울시 도심권 센터에서 진행하는 보람일자리 사업의 하나인 <b>에너지<\/b>컨설턴트 사업단 <b>직무<\/b>교육이 시작되었다. <b>에너지<\/b>컨설턴트 사업단은 <b>에너지<\/b> 절약과... ",
+			"bloggername":"서울시도심권50플러스센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/dosim_senior",
+			"postdate":"20180414"
+		},
+		{
+			"title":"포스코<b>에너지 직무<\/b>역량강화 워크샵 한국커리어개발원",
+			"link":"https:\/\/blog.naver.com\/pyohj21?Redirect=Log&logNo=220530300622",
+			"description":"포스코<b>에너지<\/b> 2일간 <b>직무<\/b>역량강화 워크샵 2차수 송도 국제도시 포스코 러닝센터에서... 한국커리어개발원 &amp; 한국서비스평가원",
+			"bloggername":"취업과 직무! 한국커리어개발원!",
+			"bloggerlink":"https:\/\/blog.naver.com\/pyohj21",
+			"postdate":"20151105"
+		},
+		{
+			"title":"[유초등교원교감역량강화<b>직무<\/b>연수][행복<b>에너지<\/b>충전][힐링강사]... ",
+			"link":"https:\/\/blog.naver.com\/she0223?Redirect=Log&logNo=221320227622",
+			"description":"[김해교육지원청][유초등교원교감역량강화<b>직무<\/b>연수][행복<b>에너지<\/b>충전] [힐링강사][재미있는강연][공감소통][감정신호등][행복강의][박동주박순임] [남자가술먹는이유] 김해교육지원청에 다녀왔습니다. 강의를... ",
+			"bloggername":"메타버스&NFT 컨텐츠기획\/강사",
+			"bloggerlink":"https:\/\/blog.naver.com\/she0223",
+			"postdate":"20180717"
+		},
+		{
+			"title":"50+<b>에너지<\/b>컨설턴트 사업단 <b>직무<\/b>교육(4일차 4.25수 오전)",
+			"link":"https:\/\/blog.naver.com\/dosim_senior?Redirect=Log&logNo=221262222796",
+			"description":"50+<b>에너지<\/b>컨설턴트사업단 <b>직무<\/b>교육(4일차 4.25수 B1.열린마당) '조명 설비 성능 및 <b>에너지<\/b> 평가' -한국광기술원\/조명융합연구본부 송상빈 본부장 50+<b>에너지<\/b>컨설턴트사업단 <b>직무<\/b>교육 -교육기간 : 2018.4.10 화~5.3 목... ",
+			"bloggername":"서울시도심권50플러스센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/dosim_senior",
+			"postdate":"20180502"
+		},
+		{
+			"title":"50+ <b>에너지<\/b> 컨설턴트 사업단 <b>직무<\/b>교육 1일차 2번째 시간 - 열... ",
+			"link":"https:\/\/blog.naver.com\/dosim_senior?Redirect=Log&logNo=221250995389",
+			"description":"열 설비 진단(1) - 50+<b>에너지<\/b>컨설턴트사업단 <b>직무<\/b>교육 1일차 2번째 시간 한국<b>에너지<\/b>공단동우회 위원장 김하연 강사 <b>에너지<\/b>는 일을 할 수 있는 능력이며, 생명활동의 원천이다. 지구의 생명 원천은 태양이다. 석탄... ",
+			"bloggername":"서울시도심권50플러스센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/dosim_senior",
+			"postdate":"20180415"
+		},
+		{
+			"title":"<b>에너지<\/b>\/기후\/ <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/ks628?Redirect=Log&logNo=220454917058",
+			"description":"<b>에너지<\/b>\/기후변화\/<b>직무<\/b>연수 구해줘요! 더워지구중에서~ 광주계림초등학교 이정민 현실로 다가온 <b>에너지<\/b>와 지구의 온난화 문제 해결을 위한 노력의 한 방향 으로 창제프로그램 활용의 실제로 '푸른 잔디가 살아... ",
+			"bloggername":"내 삶의 여유~~",
+			"bloggerlink":"https:\/\/blog.naver.com\/ks628",
+			"postdate":"20150818"
+		},
+		{
+			"title":"#전남청년마을로3기3차#<b>직무<\/b>교육4일차#한글#녹색<b>에너지<\/b>연구원... ",
+			"link":"https:\/\/blog.naver.com\/khl1845?Redirect=Log&logNo=221641140431",
+			"description":"#녹색<b>에너지<\/b>연구원#<b>직무<\/b>교육4일차#마지막교육 오늘도 일찍^^도착 아들 얼집 보내고^^ 따뜻한커피한잔 하려고 했지만~~패스하고 일찍 교육장으로~ 마지막 교육날이라~~신나요 신나^^ 자리에 앉아서 미리미리... ",
+			"bloggername":"지후네 일상이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/khl1845",
+			"postdate":"20190906"
+		},
+		{
+			"title":"<b>에너지<\/b>평가사 전망, <b>직무<\/b>내용 파악!",
+			"link":"https:\/\/blog.naver.com\/ojum7897?Redirect=Log&logNo=221204815674",
+			"description":"<b>에너지<\/b>평가사 전망, <b>직무<\/b>내용 파악! 빠르게 변화하는 것에 대해서는 쉽게 대응 할 수 있지만, 우리가 알지 못하게 조금씩 서서히 변하는 것에는 우리는 대응할 수 없습니다. 해당 사항에 대표적인 것이 바로 &quot;자연... ",
+			"bloggername":"S.S 스토리",
+			"bloggerlink":"https:\/\/blog.naver.com\/ojum7897",
+			"postdate":"20180209"
+		},
+		{
+			"title":"2017년 공개채용 서울<b>에너지<\/b>공사 공고 -  자기소개서 <b>직무<\/b>분석",
+			"link":"https:\/\/blog.naver.com\/jobcareer9?Redirect=Log&logNo=221023646327",
+			"description":"서울<b>에너지<\/b>공사 공고를 비롯해서 다양한 공고를 확인하고 싶다면 지금 커리어를 이용해보시는 것도... 신입 같은 경우 자기소개서를 처음 작성해봤다면 <b>직무<\/b>에 관련한 지식이 충분히 있어야합니다. 하시면 신입... ",
+			"bloggername":"알바에서 시작하여 취업까지 가보자!",
+			"bloggerlink":"https:\/\/blog.naver.com\/jobcareer9",
+			"postdate":"20170607"
+		},
+		{
+			"title":"[채용 <b>직무<\/b>분석] 서울<b>에너지<\/b>공사",
+			"link":"https:\/\/blog.naver.com\/bluegreen0807?Redirect=Log&logNo=221587693647",
+			"description":"서울<b>에너지<\/b>공사에서 채용하는 <b>직무<\/b>를 분석해보자! (출처: 기관 홈페이지) 기획경영본부, 집단<b>에너지<\/b>본부, 신재생<b>에너지<\/b>본부로 구성된다. 경영기획 자원을 배분하도록 경영진의 의사결정을 지원한다. 기업홍보... ",
+			"bloggername":"직업도서관",
+			"bloggerlink":"https:\/\/blog.naver.com\/bluegreen0807",
+			"postdate":"20190717"
+		},
+		{
+			"title":"[채용 <b>직무<\/b>분석] <b>에너지<\/b>경제연구원",
+			"link":"https:\/\/blog.naver.com\/bluegreen0807?Redirect=Log&logNo=221486736883",
+			"description":"<b>에너지<\/b>경제연구원에서 채용하는 <b>직무<\/b>를 분석해보자! (출처: 기관 홈페이지) <b>에너지<\/b>전환정책연구본부, <b>에너지<\/b>산업연구본부, <b>에너지<\/b>정보\/국제협력본부, 연구기획조정실, 경영지원실로 구성된다. 경영기획 전략을... ",
+			"bloggername":"직업도서관",
+			"bloggerlink":"https:\/\/blog.naver.com\/bluegreen0807",
+			"postdate":"20190313"
+		},
+		{
+			"title":"뉴딜 일자리 <b>에너지<\/b>설계사 <b>직무<\/b> 소개",
+			"link":"https:\/\/blog.naver.com\/chaely0704?Redirect=Log&logNo=221386845258",
+			"description":"뉴딜 일자리 <b>에너지<\/b>설계사 <b>직무<\/b> 소개합니다. <b>에너지<\/b>설계사는 학교, 유치원, 어린이집, 지역아동센터등을 직접 방문하여 전기를 효율적으로 사용할 수 있도록 진단하여 컨설팅해주므로써 전기요금를 줄여주는... ",
+			"bloggername":"빨강장화채승은",
+			"bloggerlink":"https:\/\/blog.naver.com\/chaely0704",
+			"postdate":"20181028"
+		},
+		{
+			"title":"전기설비진단 (Ⅰ,Ⅱ) - 50+<b>에너지<\/b>컨설턴트사업단 <b>직무<\/b>교육... ",
+			"link":"https:\/\/blog.naver.com\/dosim_senior?Redirect=Log&logNo=221255199902",
+			"description":"전기설비진단 (Ⅰ,Ⅱ) - 50+<b>에너지<\/b>컨설턴트사업단 <b>직무<\/b>교육 2일차 평택<b>에너지<\/b>서비스 자문위원 김철하 강사 컨설턴트사업단들은 앞으로 방문하게 될 공공건물을 생각하면서 <b>에너지<\/b> 절감할 수 있는 곳을... ",
+			"bloggername":"서울시도심권50플러스센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/dosim_senior",
+			"postdate":"20180420"
+		},
+		{
+			"title":"2017년 서울시<b>에너지<\/b> 설계사 <b>직무<\/b>교육과정에서... ",
+			"link":"https:\/\/blog.naver.com\/adp3791?Redirect=Log&logNo=220956769716",
+			"description":"전기<b>에너지<\/b> 사용의 문제점을 파악할수있으며 실시간으로 전기<b>에너지<\/b> 진단 전략회의를 진행할경우는 전력품질 분석기를 임의 장소에 설치를하고 이더넷기반으로 원격에서 전기<b>에너지<\/b> 사용행태및 고조파분석... ",
+			"bloggername":"측정하지 못하면 관리할수없다",
+			"bloggerlink":"https:\/\/blog.naver.com\/adp3791",
+			"postdate":"20170313"
+		},
+		{
+			"title":"조직활성화, 팀빌딩_성장<b>에너지<\/b>발전소, <b>직무<\/b>특강, 올림픽13",
+			"link":"https:\/\/blog.naver.com\/koreancopy_?Redirect=Log&logNo=221243222430",
+			"description":"개발원 내부에서 <b>직무<\/b> 관련 교육을 받다가 외부로 나오니 다들 표정이 밝으시더라고요! 교육에도... 2일차 오전은 창의적 문제해결 과정, 성장<b>에너지<\/b>발전소!입니다. 신입사원으로서의 창의성을 발휘해보는... ",
+			"bloggername":"CREATIVE13 - 국내최고의 예술융합교육 컨설팅기업",
+			"bloggerlink":"https:\/\/blog.naver.com\/koreancopy_",
+			"postdate":"20180402"
+		},
+		{
+			"title":"[한불<b>에너지<\/b>관리] 전 임직원 <b>직무<\/b>능력향상을 위한 특강",
+			"link":"https:\/\/blog.naver.com\/chunaee?Redirect=Log&logNo=110168905012",
+			"description":"불완전 연소가 공해를 만든다 완전 연소의 무공해로 <b>에너지<\/b>절약을 만들고 깨끗한 나라 대한민국을 만드는 한불<b>에너지<\/b>관리에서 전 임직원 <b>직무<\/b>능력향상을 위한 특강을 진행합니다. *교육일정: 2013년 5월 29일... ",
+			"bloggername":"한국서비스교육원,한국서비스연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/chunaee",
+			"postdate":"20130527"
+		},
+		{
+			"title":"태양광<b>에너지<\/b> 인력양성과정 사회맞춤형 현장<b>직무<\/b>체험... ",
+			"link":"https:\/\/blog.naver.com\/kdcblog1?Redirect=Log&logNo=221371437533",
+			"description":"찾아가는 <b>에너지<\/b> 놀이터 등 다양하게 진행되었습니다. 이번 현장 <b>직무<\/b>체험 프로그램에 참여한 전기 전자과 유희상 학생은 &quot;이론 수업을 수강하며 태양광 <b>에너지<\/b>에 대한 관심이 더욱 커졌는데, 행사에... ",
+			"bloggername":"강동대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kdcblog1",
+			"postdate":"20181005"
+		},
+		{
+			"title":"지친 몸에 <b>에너지<\/b>를 듬~뿍... 리터러시 교육 중등교원 <b>직무<\/b>연수]",
+			"link":"https:\/\/blog.naver.com\/medianuri?Redirect=Log&logNo=220850962669",
+			"description":"미디어 리터러시 교육 중등교원 <b>직무<\/b>연수 지난 10월 17일부터 28일까지 시청자미디어재단... 지친 몸을 이끌고 간 연수에서 잔잔한 여러 에피소드를 통해 오히려 <b>에너지<\/b>를 충전하고 왔습니다. 이에 연수 후기를... ",
+			"bloggername":"대전시청자미디어센터 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/medianuri",
+			"postdate":"20161101"
+		},
+		{
+			"title":"한국<b>에너지<\/b>공단 건축 <b>직무<\/b> 면접 컨설팅 진행 및 합격사례",
+			"link":"https:\/\/ecareer.tistory.com\/2830",
+			"description":"[서울, 대전, 대구, 부산, 광주 취업컨설팅] 한국<b>에너지<\/b>공단 건축 <b>직무<\/b> 면접 컨설팅 진행 및 합격사례 안녕하세요 :) 취업컨설팅 대표브랜드 (주)이커리어입니다. 오늘은 한국<b>에너지<\/b>공단 건축 <b>직무<\/b> 면접... ",
+			"bloggername":"취업컨설팅 대표 브랜드 : 이커리어",
+			"bloggerlink":"https:\/\/ecareer.tistory.com\/",
+			"postdate":"20200416"
+		},
+		{
+			"title":"대성<b>에너지<\/b>, CNG 충전소 <b>직무<\/b>역량 강화교육 실시",
+			"link":"https:\/\/blog.daum.net\/jmson220\/11291936",
+			"description":"[경안일보=손중모기자] 대성<b>에너지<\/b>(주)(대표이사 윤홍식) 고객마케팅본부는 3월 16일부터 4차수에 걸쳐 성서 CNG충전소 <b>직무<\/b>교육장에서 CNG충전소장 및 안전관리자 50여명을 대상으로 산업재해 예방과... ",
+			"bloggername":"대구도깨비 뉴스",
+			"bloggerlink":"https:\/\/blog.daum.net\/jmson220",
+			"postdate":"20210404"
+		},
+		{
+			"title":"<b>에너지직무<\/b> 분야 국가기술자격 응시 관련학과 목록",
+			"link":"https:\/\/blog.naver.com\/ubiqer?Redirect=Log&logNo=10091060541",
+			"description":"원자력기사, 원자력발전기술사, 방사선관리기술사 등 <b>에너지직무<\/b>분야 국가기술자격시험에 응시할 수 있는 출신 관련학과 목록입니다.",
+			"bloggername":"사이언스 논픽션 독서토론클럽",
+			"bloggerlink":"https:\/\/blog.naver.com\/ubiqer",
+			"postdate":"20100728"
+		},
+		{
+			"title":"새만금개발공사 재생<b>에너지<\/b>(SPC)<b>직무<\/b> PT면접 컨설팅 진행사례",
+			"link":"https:\/\/blog.naver.com\/ecareer?Redirect=Log&logNo=221455741177",
+			"description":":) 오늘은 새만금개발공사의 재생<b>에너지<\/b>(SPC)<b>직무<\/b>에 지원하시고 이커리어의 PT면접 컨설팅을 이용하신 지원자 분의 사례를 소개해 드리고자 합니다. 이커리어는 이공계 전문 분야에 대한 PT면접 컨설팅을... ",
+			"bloggername":"취업컨설팅 및 취업특강 대표 브랜드 - 이커리어",
+			"bloggerlink":"https:\/\/blog.naver.com\/ecareer",
+			"postdate":"20190131"
+		},
+		{
+			"title":"2017 한국원자력문화재단 <b>에너지<\/b>ㆍ원자력 무료 <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/hstudy02?Redirect=Log&logNo=220982180420",
+			"description":"한국원자력문화재단과 한국교원연수원이 함께 진행하는 &quot;<b>에너지<\/b>ㆍ원자력 <b>직무<\/b>연수&quot; 무료 연수 소개해 드릴게요. 전력 수요가 증가하고 있고, <b>에너지<\/b> 다소비 산업 구조를 갖춘 우리나라는 안정적 성장을 위해... ",
+			"bloggername":"한국교원연수원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hstudy02",
+			"postdate":"20170413"
+		},
+		{
+			"title":"신재생<b>에너지<\/b>의 모든 것(You Quiz?)",
+			"link":"https:\/\/blog.naver.com\/yeskrmc?Redirect=Log&logNo=221401898732",
+			"description":"오늘은 신재생 에너지와 관련된 공단, 자격증, 직무와 전망에 대해 알아보겠습니다. 특별히 제가... 한국에너지공단에서 말하는 신재생 <b>에너지 직무<\/b>가 아닌 것은 무엇일까요? ① 법령관리 ② 지자체와... ",
+			"bloggername":"한국원자력환경공단(KORAD)",
+			"bloggerlink":"https:\/\/blog.naver.com\/yeskrmc",
+			"postdate":"20181119"
+		},
+		{
+			"title":"청년활동가<b>직무<\/b>교육#영암푸른돌협동조합#목포녹색<b>에너지<\/b>연구... ",
+			"link":"https:\/\/blog.naver.com\/khl1845?Redirect=Log&logNo=221637856609",
+			"description":"#청년마을로 #마을로3차3기 #녹색<b>에너지<\/b>연구원 안녕하세요^^ 청년활동가에 합격을 9월3일부터6일까지#녹색<b>에너지<\/b>연구원에서 <b>직무<\/b>교육을 9시40분까지 오라고했는데 1시간이나 더 빨리도착을 일찍도착해서... ",
+			"bloggername":"지후네 일상이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/khl1845",
+			"postdate":"20190903"
+		},
+		{
+			"title":"<b>에너지<\/b>시스템 대졸신입 수시 채용\/ 자기소개서 항목(지원 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/7am_study?Redirect=Log&logNo=222811459008",
+			"description":"제출 시 확인해주시기 바랍니다 (현대일렉트릭앤<b>에너지<\/b>시스템 글자 3bytes, 띄어쓰기\/문장부호 2bytes, 자소설닷컴 글자 3bytes, 띄어쓰기\/문장부호 1bytes) * 지원 <b>직무<\/b>에 요구되는 역량은 무엇이라고... ",
+			"bloggername":"7AM스터디",
+			"bloggerlink":"https:\/\/blog.naver.com\/7am_study",
+			"postdate":"20220714"
+		},
+		{
+			"title":"한국산업인력공단과 함께하는 인사, 노무, 총무 현직자 <b>직무<\/b>코... ",
+			"link":"https:\/\/blog.naver.com\/youthhopefoundation?Redirect=Log&logNo=222705380158",
+			"description":"내 <b>직무<\/b>정보, 취준 노하우 등) 한국<b>에너지<\/b>공단 총무담당자 13:40~14:10 인사 Part (기업 내 <b>직무<\/b>정보, 취준 노하우 등) 존슨앤존슨 인사담당자 14:10~14:40 - 노무 Part (기업 내 <b>직무<\/b>정보, 취준 노하우 등)... ",
+			"bloggername":"청년재단 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/youthhopefoundation",
+			"postdate":"20220419"
+		}
+	]
+}

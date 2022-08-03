@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:37 +0900",
+	"total":245552,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국실내<b>디자인<\/b>학회논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6002",
+			"description":""
+		},
+		{
+			"title":"한국<b>디자인<\/b>문화학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5753",
+			"description":""
+		},
+		{
+			"title":"한국의상<b>디자인<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6201",
+			"description":""
+		},
+		{
+			"title":"한국<b>디자인<\/b>포럼",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=9333",
+			"description":""
+		},
+		{
+			"title":"한국패션<b>디자인<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6468",
+			"description":""
+		},
+		{
+			"title":"기업 공유가치창출(CSV) 공공<b>디자인<\/b> 활성화를 위한 민관협력체계에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650628236",
+			"description":"A study on public-private cooperation system for vitalizing corporate creating shared value(CSV) public design   공공<b>디자인<\/b>, 기"
+		},
+		{
+			"title":"조형<b>디자인<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1556344",
+			"description":""
+		},
+		{
+			"title":"한국공간<b>디자인<\/b>학회논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2142105",
+			"description":""
+		},
+		{
+			"title":"<b>디자인<\/b>융복합연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2683020",
+			"description":""
+		},
+		{
+			"title":"한국패키지<b>디자인<\/b>학회 논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6471",
+			"description":""
+		},
+		{
+			"title":"<b>디자인<\/b>과학연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2030",
+			"description":""
+		},
+		{
+			"title":"한국 건축·인테리어 디지털 <b>디자인<\/b> 학회 논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5512",
+			"description":""
+		},
+		{
+			"title":"한국메이크업<b>디자인<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=59237",
+			"description":""
+		},
+		{
+			"title":"<b>디자인<\/b>연구: 경희대학교부설<b>디자인<\/b>연구원논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2032",
+			"description":""
+		},
+		{
+			"title":"도심 소형 거주 공간 실내 <b>디자인<\/b> 고급화를 위한 모터 요트 인테리어 사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650628230",
+			"description":"An analysis of motor yacht interior cases for the advancement of interior design in small living spaces in the city : centering around "
+		},
+		{
+			"title":"코리아뷰티<b>디자인<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5263",
+			"description":""
+		},
+		{
+			"title":"제품<b>디자인<\/b>의 아이코닉(Iconic) <b>디자인<\/b> 속성과 전략적 가치 연구 : 시장 선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650659070",
+			"description":"Study on iconic design attributes and strategic values of product design : focused on the products of market leading electronic compani"
+		},
+		{
+			"title":"폐 산업시설 공간재생을 위한 주민 친화적 공공<b>디자인<\/b> 계획 특성 연구 : ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650628238",
+			"description":"A study on the characteristics of residents-friendly public design plan for spatial regeneration of abandoned industrial facilities : f"
+		},
+		{
+			"title":"남원시, 혁신을 <b>디자인<\/b>하다!",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650742501",
+			"description":"  목차\n남원시, 혁신을 <b>디자인<\/b>하다! \/ 김정숙 1\n I. 들어가며 1\n II. 혁신 <b>디자인<\/b> 과정 3\n  1) 남원시 국민 "
+		},
+		{
+			"title":"<b>디자인<\/b>분야의 캡스톤<b>디자인<\/b> 적용사례 및 성과 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57607138",
+			"description":"Capstion Design Applications and Performance in the Field of Design 캡스톤<b>디자인<\/b>은 비단 공학 분야에서의 교육프로그"
+		},
+		{
+			"title":"식물 이미지를 응용한 텍스타일 <b>디자인<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650609872",
+			"description":"A study on textile design with plant image  표제지\n국문초록\n목차\nI. 서론 9\nII. 식물의 상징성과 의미 11\n 1. 식물"
+		},
+		{
+			"title":"전시 공간 <b>디자인<\/b> 요소의 평가 및 <b>디자인<\/b> 최적화 전략 분석 : 중국 링난 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650607269",
+			"description":"Evaluation of exhibition space design elements and analysis of design optimization strategy : centering on the layout method and applic"
+		},
+		{
+			"title":"메이커 교육에 <b>디자인<\/b> 사고 적용 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289082702",
+			"description":"A Study of Design Thinking Adaptation for Maker Education Process 연구배경 사물인터넷(IoT)이 빅테이터와 인공지능과 "
+		},
+		{
+			"title":"공학대학 캡스톤 <b>디자인<\/b>(창의적 공학 설계) 교육과정 운영실태 및 학습 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=37750188",
+			"description":"Present Situation and Student Satisfaction of Engineering Capstone Design Course in Engineering Colleges of Korea 본 연구는 최근 "
+		},
+		{
+			"title":"고령화 세대의 스마트폰 사용자를 위한 GUI <b>디자인<\/b> 융복합 가이드라인 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157605170",
+			"description":"Study of GUI design convergence guideline for the users of aged generation 21세기는 전 세계적으로 빠른 속도로 초고령"
+		},
+		{
+			"title":"3D 프린팅의 교육적 활용 방안 연구: 창의적 <b>디자인<\/b> 모델 기반 수업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155987169",
+			"description":"A Study on Educational Utilization of 3D Printing : Creative Design Model-based Class 최근 3D 프린팅의 영향력에 대한 관심"
+		},
+		{
+			"title":"수묵 화법의 조형적 특성을 활용한 패션<b>디자인<\/b> 제안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651444621",
+			"description":"A Study on the Development of Design Using the Formative Characteristics of Ink Coloring 동양화는 먹의 농담으로 표현하는 "
+		},
+		{
+			"title":"현대 감성<b>디자인<\/b>에서의 사용자 감성체험: 감성<b>디자인<\/b>의 프로그래밍을 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74830982",
+			"description":"User’s Emotional Experience in the Contemporary Emotional Designs : Focused on the Analysis for Basic Aspects and Related Components "
+		},
+		{
+			"title":"사회 혁신을 위한 <b>디자인<\/b> 씽킹과 액션러닝의 통합모형",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186822666",
+			"description":"A Unified Model of Action Learning and Design Thinking for Social Innovation 본 연구는 사회 혁신분야의 문제해결도구로"
+		},
+		{
+			"title":"대학 수업 개선을 위한 수업<b>디자인<\/b>의 새로운 접근 방법 개발 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57054158",
+			"description":"An Action Research to Develop a New Approach to Analyze and Design College Courses with the Use of Causal Chain Analysis 이 연구에"
+		},
+		{
+			"title":"아웃도어 재킷의 선호실태조사 및 <b>디자인<\/b> 프로토타입",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78377709",
+			"description":"Investigation of preference for outdoor jacket and design prototype This study had researched purchase trend and preference of jacket d"
+		},
+		{
+			"title":"국제 <b>디자인<\/b> 공모전 제품<b>디자인<\/b>분야 대학생 수상작품 분석 : 2019년 세계 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650648990",
+			"description":"Analysis on the award-winning works of university students in product design at the international design competition : focused on the w"
+		},
+		{
+			"title":"<b>디자인<\/b>씽킹 활동이 유아의 창의성과 또래 상호작용 향상에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650609724",
+			"description":"The effect of design thinking activity on improvement of creativity and peer interaction of young children  표제지\n목차\n국문초"
+		},
+		{
+			"title":"공간<b>디자인<\/b> 교육과 온·오프라인 커뮤니케이션 방법의 융합에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=156061792",
+			"description":"Study on the Convergence between Spatial Design Education and On·Offline Communication Methods 창의적 공간<b>디자인<\/b> 교육을 위"
+		},
+		{
+			"title":"어포던스 이론의 본질과 <b>디자인<\/b>적용에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47058050",
+			"description":"A Study on the Basic Meaning and Design Application of Affordance 본 연구는 환경 및 공간<b>디자인<\/b>분야에 있어 지각심리"
+		},
+		{
+			"title":"프리미엄 생수 패키지<b>디자인<\/b>에 대한 소비자 선호도 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45691317",
+			"description":"A Study on Consumer Preference on Premium-Water Package Design 소비자에게 제품에 대한 정보전달 및 구매 욕구를 만"
+		},
+		{
+			"title":"인터랙션 <b>디자인<\/b>기법을 적용한 <b>디자인<\/b>호텔 공용공간 실내계획에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650610097",
+			"description":"A study on the interior design of the public space of design hotel by interaction design technique  표제지\n국문초록\n목차\n제1"
+		},
+		{
+			"title":"FDM 3D 프린터 출력물을 활용한 하이힐 <b>디자인<\/b> 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157605347",
+			"description":"Development of High-heel Design Applied by FDM Three-Dimensional Printer Output 3D 프린터는 의료, 자동차, 건설, 기계, 액"
+		},
+		{
+			"title":"<b>디자인<\/b> 씽킹을 활용한 <b>디자인<\/b> 프로세스 방법론 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=233557161",
+			"description":"A Methodology for Design Process in Design Thinking 연구배경: 소비자들의 인식이 변화함에 따라 창의적 사고를 통"
+		},
+		{
+			"title":"문헌정보학 캡스톤<b>디자인<\/b> 교육과정 운영과 학습만족도 측정연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174404115",
+			"description":"A Study on the LIS Capstone Design Curriculum and the Learning Satisfaction Survey 본 연구에서는 문헌정보학 교육과정에 "
+		},
+		{
+			"title":"네일아트 <b>디자인<\/b>의 표현기법 분석연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651441564",
+			"description":"Analysis on Expression Technique of Nail Art Design The constant desire to pursue women's beauty is improving the quality of life for w"
+		},
+		{
+			"title":"무지<b>디자인<\/b>의 지속가능한 생태<b>디자인<\/b>적 특성과 창의융합 <b>디자인<\/b> 프로세",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638972",
+			"description":"A Study on the Sustainable Ecological Design Characteristics of Muji Design and Creative Convergence Design Process 본 연구는 현"
+		},
+		{
+			"title":"범죄예방을 위한 패키지<b>디자인<\/b> 전략 사례 분석 - 영국, 매장절도 방지를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898228600",
+			"description":"A Study on Package Design Strategy for Crime Prevention - Focusing on design cases to prevent shoplifting in the UK - 매장절도는 "
+		},
+		{
+			"title":"패션 산업에서의 친환경 <b>디자인<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13599464",
+			"description":"Design for Environment within Fashion Industry This study is about the design for environment which is central social interest in recen"
+		},
+		{
+			"title":"오감을 활용한 유니버설<b>디자인<\/b>의 기초연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=580509254",
+			"description":"Basic Study of Universal Design Using Five senses 평생 무료의술을 실천한 장기려 박사는 인간의 병이 의술로 고"
+		},
+		{
+			"title":"디자이너 1인 창조기업 활성화를 위한 <b>디자인<\/b> 지원정책 방향 - 대구경북",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78448071",
+			"description":"Policies supporting design to vitalize ‘one-man designer creation business’ - Focus on a startup, ‘one-man creation business’ i"
+		},
+		{
+			"title":"2000년대 그린<b>디자인<\/b>에 나타난 로하스(Lohas)의 패션특성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13624437",
+			"description":"Characteristics of Lohas Fashion Represented Green Design in 2000's Recently, the environmental problems have surfaced as serious socia"
+		},
+		{
+			"title":"대안학교에서 <b>디자인<\/b> 씽킹 교육 적용을 통한 <b>디자인<\/b>교육의 필요성 탐색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898271116",
+			"description":"Exploring the Necessity of Design Education by Applying Design Thinking Education in Alternative Schools 경기도에 있는 대안학"
+		},
+		{
+			"title":"텍스트성 기준과 <b>디자인<\/b> 척도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59540785",
+			"description":"The Standards of Textuality and the Design Criteria In this study the relationship of the standards of textuality and the design criter"
+		},
+		{
+			"title":"정부의 중소기업 <b>디자인<\/b> 컨설팅 지원을 통한 <b>디자인<\/b> 신규수요 창출방안 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56559979",
+			"description":"Creating the New Demand in Design Market through the Design Consulting Programs Supported by Government for Small and Medium-sized Ente"
+		},
+		{
+			"title":"지하철역사 재난대응시설물의 유니버설<b>디자인<\/b>에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650628232",
+			"description":"A study on the universal design of the disaster response facility in subway station   지하철역사, 재난대응시설물, 유니버"
+		},
+		{
+			"title":"공간 컨텍스트 기반 암스테르담 호스피탈리티 산업 재생<b>디자인<\/b>에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650628245",
+			"description":"A study on the regeneration design in context-based Amsterdam hospitality industry   암스테르담의숙박산업, 공간컨텍스트"
+		},
+		{
+			"title":"산업<b>디자인<\/b>학연구지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3301380",
+			"description":""
+		},
+		{
+			"title":"홍익대학교 미술 <b>디자인<\/b>논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=65003",
+			"description":""
+		},
+		{
+			"title":"메가트렌드의 형성요인과 <b>디자인<\/b> 트렌드 분석: 패션 <b>디자인<\/b>의 관점과 20",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9396190",
+			"description":"  국문목차\n표제지=0,1,3\n감사의 글=0,4,1\n차례=i,5,3\n그림차례=iv,8,4\n표차례=viii,12,1\n국문요약=ix,13,2\n제1장 "
+		},
+		{
+			"title":"공공공간 <b>디자인<\/b> 요소의 중요도와 이용자 <b>디자인<\/b> 만족도 - 복합용도시설",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56440094",
+			"description":"The Importance of Public Space Design Elements and User Satisfaction - Focused on the Multi-complex Facilities - 본 연구의 목적"
+		},
+		{
+			"title":"사회 혁신을 위한 <b>디자인<\/b> 씽킹과 액션러닝의 통합모형",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594148417",
+			"description":" 본 연구는 사회 혁신분야의 문제해결도구로 활용 비중이 커지고 있는 <b>디자인<\/b> 씽킹과 액션러닝 방법"
+		},
+		{
+			"title":"사용자 경험 증진을 위한 감성 품질 <b>디자인<\/b> 프레임웍에 관한 연구 -사용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39165271",
+			"description":"A Study on the Emotional Quality Design Framework for Improvement of the User Experience -with emphasis on the User Interface Design- "
+		},
+		{
+			"title":"창의적 <b>디자인<\/b>융합인재의 사고양식 유형",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77867432",
+			"description":"The Thinking Styles of Creative and Talented Persons in Design Convergence 연구배경 본고에서는 <b>디자인<\/b> 전공자를 중심"
+		},
+		{
+			"title":"소셜커머스 사이트의 구매결정 요인에 영향을 미치는 <b>디자인<\/b> 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290347294",
+			"description":"A Study on the Factory of Design Influencing Purchase Decision-making Factors at Social Commerce Sites 최근 소셜네트워크를 기"
+		},
+		{
+			"title":"증강현실 게임의 소프트웨어 <b>디자인<\/b> 프레임워크",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420961429",
+			"description":"Software Design Framework for Augmented Reality Games 증강현실 게임의 빠른 개발을 위한 소프트웨어 프레임워크인"
+		},
+		{
+			"title":"단체운동의 소속감과 구성원들 간 인터랙션 연구를 통한 피트니스 운동 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650609787",
+			"description":"Fitness exercise management and community service through interaction research among members and members of the group movement : focus "
+		},
+		{
+			"title":"<b>디자인<\/b> 이미지 차원과 측정도구의 개발 : 휴대폰 <b>디자인<\/b>을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16595087",
+			"description":"The Development of Measurement and Dimensions of Design Image - Focus on the Mobile Phone Image - 본 연구의 목적은 <b>디자인<\/b> 이"
+		},
+		{
+			"title":"국가 <b>디자인<\/b> 박물관의 전시방법 고찰- 이탈리아 <b>디자인<\/b> 박물관을 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887908482",
+			"description":"National Design Museum Exhibition Techniques- The Italian Design Museum 이 연구에서는 국가 <b>디자인<\/b> 박물관의 전시방법"
+		},
+		{
+			"title":"포장<b>디자인<\/b>이 소비자 태도 및 구매의도에 미치는 영향 -비누제품을 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45729527",
+			"description":"An Effect on Customer Attitude and Purchase Intention of Soap Product Package Design - Focused on Soap Product- 본 연구는 기능성"
+		},
+		{
+			"title":"현대 패션에 표현된 지속가능한 느린 <b>디자인<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12975398",
+			"description":"Sustainable Slow Design in Contemporary Fashion Design The purpose of this study is to establish the idea of sustainable slow design by"
+		},
+		{
+			"title":"문헌정보학 캡스톤<b>디자인<\/b> 교육과정 운영과 학습만족도 측정연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594033701",
+			"description":" 본 연구에서는 문헌정보학 교육과정에 캡스톤 <b>디자인<\/b> 과목을 개설하고 강의계획서 및 매뉴얼을 개발"
+		},
+		{
+			"title":"국내 서비스<b>디자인<\/b> 연구 동향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78313443",
+			"description":"An Analysis of Current Research Paradigm for Service Design in Korea 서비스<b>디자인<\/b>은 국내 <b>디자인<\/b>계의 큰 관심사이다. "
+		},
+		{
+			"title":"<b>디자인<\/b> 역할 변화와 교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871682067",
+			"description":"  1. <b>디자인<\/b> 정의 및 분류\n2. 진화하는 제품\n3. 산업<b>디자인<\/b> 역할의 확장\n4. 산업디자이너 태도와 기회\n5. 4"
+		},
+		{
+			"title":"<b>디자인<\/b> 중심의 혁신을 위한 혁신성 요인 도출 - 사용자 경험을 중심으로 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=62708823",
+			"description":"Innovativeness Factors for Design-Centered Innovation - Focused on User Experiences - 본 연구는 <b>디자인<\/b> 중심의 혁신이 지"
+		},
+		{
+			"title":"‘융합’개념의 이해와 <b>디자인<\/b> 환경에서의 의미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61696705",
+			"description":"Understanding the concept of 'convergence' and Design 21세기는 융합의 시대라 말하지만 ‘융합’의 개념은 어떤 분"
+		},
+		{
+			"title":"현대 패션<b>디자인<\/b>에 표현된 신체이미지의 상징성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10994852",
+			"description":"The Symbols of the Body Image Expressed in Modern Fashion Design   패션<b>디자인<\/b>, 신체이미지, 복식, body image, symbolism "
+		},
+		{
+			"title":"근대산업유산의 유휴공간을 활용한 컨버전<b>디자인<\/b> 활성화에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77210489",
+			"description":"A Study on the Active Application of Conversion Design for Utilizing the Unused Spaces of Modern Industrial Heritage (연구배경 및 "
+		},
+		{
+			"title":"‘제3의 공간’ 개념을 적용한 공간<b>디자인<\/b>의 마케팅 효과 - 이동통신사 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74852600",
+			"description":"Marketing Effect of Space Design Applying ‘The Third Space’- Focus on Mobile Communication Companies' Experience Shop - ‘제3의 "
+		},
+		{
+			"title":"지배적 <b>디자인<\/b>의 결정요인이 스마트폰의 지속적 사용의도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290121631",
+			"description":"A Study on the Effect of Determinants of the Dominant Design on Intention to Continuous Use of Smartphone 본 연구의 목적은 기"
+		},
+		{
+			"title":"감성<b>디자인<\/b>에서 색채에 관한 연구 : 화장품을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11101556",
+			"description":"  목차\n감성<b>디자인<\/b>에서 색채에 관한 연구 : 화장품을 중심으로 \/ 손상희 1\n [Title] 1\n (요약) 2\n (Abstract) 2\n "
+		},
+		{
+			"title":"친환경 패션산업 동향과 쓰레기 발생 감량화(Zero waste)를 위한 실험적 디",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56992586",
+			"description":"Eco-fashion industry trend and creative fashion design technic for zero-waste The purpose of this study is for providing not only the l"
+		},
+		{
+			"title":"창의적 캡스톤 <b>디자인<\/b> 교육 방법 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594221164",
+			"description":" 본 논문은 공주대학교에서 실시된 창의적 캡스톤 <b>디자인<\/b> 교육에 대해 알아보고 새로운 방법을 개발"
+		},
+		{
+			"title":"코로나-19 감염병에 대응한 기술 융합 사회혁신 <b>디자인<\/b> 유형 및 <b>디자인<\/b>의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877141733",
+			"description":"A study on the type of technology convergence design for social innovation in response to the COVID-19 infectious disease and the role "
+		},
+		{
+			"title":"확장되는 패션의 경계와 디지털 패션<b>디자인<\/b> 교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871682070",
+			"description":"  1. 확장되는 패션의 경계\n2. 디지털 패션<b>디자인<\/b>\n3. 디지털 패션<b>디자인<\/b> 교육\n4. 교육 결과물  "
+		},
+		{
+			"title":"어린이집 실외놀이공간 구성에 대한 영아와 교사의 바램- 2세 영아의 실",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16399115",
+			"description":"What Infants and Teachers Want in Day Care Center Outdoor Playgrounds: A Projective Approach using Observation of 2 year-olds during Ou"
+		},
+		{
+			"title":"테마별 FPS게임의 엄폐물 패턴 속성분석을 통한 레벨 <b>디자인<\/b> 가이드라인 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56552682",
+			"description":"A Proposal of Level Design Guidelines through Attribute Analysis of Cover Pattern on FPS Game by Theme 플레이어의 게임공간에 "
+		},
+		{
+			"title":"<b>디자인<\/b> 프로세스에 따른 대학의 <b>디자인<\/b> 교과 과정에 대한 현황 분석과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877140713",
+			"description":"An Analysis about the Design Curriculum of Universities According to the Design Process and Suggestions for the Direction of Education "
+		},
+		{
+			"title":"은유 <b>디자인<\/b> 응용에 관한 연구 -UI <b>디자인<\/b>을 중심으로 한 은유 <b>디자인<\/b> 실",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875353544",
+			"description":"A study on the application of metaphor design -Analysis of examples of metaphor design focusing on UI design- 오늘날, 시각적 형"
+		},
+		{
+			"title":"건축 <b>디자인<\/b> 도구의 발전과 건축 언어의 상관성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289886880",
+			"description":" The purpose of this study is to analyse the interrelationship between the development of architectural design tools and architectural "
+		},
+		{
+			"title":"공간 <b>디자인<\/b>에서의 사용자 경험 <b>디자인<\/b> 특성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77214718",
+			"description":"A Study on Characteristics of User Experience Design in Spatial Design (연구배경 및 목적)현대 사회의 과학기술 발전과"
+		},
+		{
+			"title":"차세대 한국형 방탄헬멧 <b>디자인<\/b>에 관한 연구 - 방탄헬멧 쉘 형상 <b>디자인<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=489810823",
+			"description":"A Study on the Design of Next-Generation Korean Bulletproof Helmet - Focusing on the Bulletproof helmet shell shape design - 최근 방"
+		},
+		{
+			"title":"미디어아트와 접목된 패션 <b>디자인<\/b> 작품 특성 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891385231",
+			"description":"  1. 연구의 필요성\n2. 이론적 배경\n\t1) 미디어아트\n\t2) 빛의 역동성과 확장성\n3. 연구방법\n4. 연구 결과\n5. "
+		},
+		{
+			"title":"COVID-19로 변화된 초등학교 교육환경 개선을 위한 참여형 공공<b>디자인<\/b> 프",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896917954",
+			"description":"Development of a Participatory Public Design Program to Improve the Educational Environment of Elementary Schools Changed by COVID-19. "
+		},
+		{
+			"title":"언어학습 교재의 시각<b>디자인<\/b>에 대한 기호학적 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290305246",
+			"description":"A Semiotic Analysis on the Visual Design of Language Textbooks for Foreigners   기호학, 교재, 교재분석, 시각<b>디자인<\/b>, semio"
+		},
+		{
+			"title":"공학대학 캡스톤 <b>디자인<\/b>(창의적 공학 설계) 교육과정 운영실태 및 학습 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594051003",
+			"description":" 본 연구는 최근 공과대학에서 시행하고 있는 캡스톤 <b>디자인<\/b> 교육에 대한 현재 공과대학의 교육과정"
+		},
+		{
+			"title":"<b>디자인<\/b>분야의 캡스톤<b>디자인<\/b> 적용사례 및 성과 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594652735",
+			"description":" 캡스톤<b>디자인<\/b>은 비단 공학 분야에서의 교육프로그램이 아닌 산업체가 요구하는 산업현장 적응능력"
+		},
+		{
+			"title":"롤랑바르트의 기호학을 이용한 우유 패키지 <b>디자인<\/b>의 신화 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79131458",
+			"description":"Analysis on the Myth of Milk Package Design Using Roland Barthes's Semiotics 본 연구는 국내 우유(일반\/무지방) 패키지 "
+		},
+		{
+			"title":"공공공간 사인의 <b>디자인<\/b>향상 방안에 대한 연구 : 서울 지하철 역사를 대",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153588768",
+			"description":"A Study on the Design Improvement Methods of a Subway Public Sign : Focused on the Seoul Metro 연구배경 공공공간의 안내사"
+		},
+		{
+			"title":"공단근로자의 작업복 <b>디자인<\/b> 실태 및 선호도 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13697684",
+			"description":"The Actual Wearing Condition and Preference of the Working Uniform Design in the Industrial Complex. Functional, aesthetic and symbolic"
+		},
+		{
+			"title":"예술 <b>디자인<\/b> 전시에서의 서비스 품질 갭에 관한 연구 -원저우국제<b>디자인<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896913967",
+			"description":"Research on Service Quality Gaps of Art Design Exhibitions - The Case of Wenzhou International Design Biennale - 최근 몇 년간, 중"
+		},
+		{
+			"title":"그룹 창의성 증대를 위한 <b>디자인<\/b>팀 구성 및 운영방안에 관한 연구 - KAI ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651439930",
+			"description":"Efficient Organization and Operation of Design Team for Increasing Group Creativity - Focused on Design Team Structuring based on KAI I"
+		},
+		{
+			"title":"백워드 <b>디자인<\/b>(Backward Design)에 기초한 소비 단원의 수업 모듈 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=593957743",
+			"description":" 본 연구는 백워드 <b>디자인<\/b>에 대한 이해를 도모하고, 백워드 <b>디자인<\/b>에 기초한 소비단원 설계의 사례를 "
+		},
+		{
+			"title":"소셜 네트워크 빅데이터를 활용한 은유 <b>디자인<\/b> 키워드 분석 -UI 은유 디",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882923852",
+			"description":"Analysis of metaphor design keywords using social network big data -Focusing on UI metaphor design- 본 연구는 소셜 네트워크 "
+		},
+		{
+			"title":"서비스<b>디자인<\/b> 관점에서의 지하철 내부 전광판 <b>디자인<\/b> 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898491051",
+			"description":"A Study on the Design Improvement of Subway Interior Electronic Board in terms of Service Design 본 연구는 지하철 내 시스템"
+		}
+	]
+}

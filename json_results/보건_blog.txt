@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:20 +0900",
+	"total":3818137,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>보건<\/b>행정 공무원 경쟁률 및 학습법",
+			"link":"https:\/\/blog.naver.com\/dambi85?Redirect=Log&logNo=222728610631",
+			"description":"#<b>보건<\/b>행정직경쟁률 #<b>보건<\/b>행정시험과목 현재 공직자로 일하고 있는 저는, 2020년 경에 직렬을 바꾼 결정을 후회하지 않습니다. 당시 일반행정직을 노리다가 국가직, 지방직 모두 불합격했던 경험을 했던 저는... ",
+			"bloggername":"마마 리사킴의 유쾌한 일상 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/dambi85",
+			"postdate":"20220511"
+		},
+		{
+			"title":"임산부 A형간염,B형간염예방주사 가격,임산부 백일해\/인구<b>보건<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/aerimc?Redirect=Log&logNo=222825502026",
+			"description":"미리 <b>보건<\/b>소에서 산전검사를 받으면서 간염 항체 여부도 확인하는 것을 추천한다. (산부인과 산전검사는 10만원 넘음..<b>보건<\/b>소 산전검사는 저렴하나 코로나 등을 이유로 라떼는 받지 못함) *A형간염... ",
+			"bloggername":"썸머링노트,기억을 위한 기록",
+			"bloggerlink":"https:\/\/blog.naver.com\/aerimc",
+			"postdate":"20220723"
+		},
+		{
+			"title":"[2022 대학탐방] 한려대학교(폐교), 광양<b>보건<\/b>대학교 - 프롤로그",
+			"link":"https:\/\/www.tisdory.com\/4187",
+			"description":"광양<b>보건<\/b>대학교를 다녀왔습니다. 둘 다 서남대학교 계열 대학으로, 설립자가 같습니다. 그래서 계열의 다른 학교들과 건축양식도, 건물의 이름도 비슷하게 따라가고 있습니다. 광양<b>보건<\/b>대학교는 94년에... ",
+			"bloggername":"티스도리닷컴 :: 티스도리닷컴",
+			"bloggerlink":"https:\/\/www.tisdory.com\/",
+			"postdate":"20220717"
+		},
+		{
+			"title":"<b>보건<\/b>복지부<b>보건<\/b>직공무원 채용 시험 공부방법",
+			"link":"https:\/\/blog.naver.com\/tjdrnl8712?Redirect=Log&logNo=222816251448",
+			"description":"<b>보건<\/b>복지부<b>보건<\/b>직공무원 채용 시험 공부방법 제가 <b>보건<\/b>복지부<b>보건<\/b>직공무원 채용 시험을 결심할 당시만 하더라도 해당 직렬을 준비하는 수험생 자체가 다른 직렬에 비해서 많지 않기도 했고, 해당 직렬에 대해서... ",
+			"bloggername":"듀스펙북스 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/tjdrnl8712",
+			"postdate":"20220725"
+		},
+		{
+			"title":"<b>보건<\/b>행정 공무원 과목별 공부방법",
+			"link":"https:\/\/blog.naver.com\/pica100456?Redirect=Log&logNo=222795109634",
+			"description":"하지만 딱히 특기가 없었던 저는 당시 선발인원이 급격하게 많아진 직렬인 <b>보건<\/b>행정 공무원에... 해당 직렬은 <b>보건<\/b>소에서 근무하는 사람으로 따로 의료행위를 하지 않는 <b>보건<\/b>소에서 행정업무를 주로 맡아서... ",
+			"bloggername":"DAILY ALSO",
+			"bloggerlink":"https:\/\/blog.naver.com\/pica100456",
+			"postdate":"20220630"
+		},
+		{
+			"title":"산업<b>보건<\/b>지도사 시험을 준비하고 있으시다면",
+			"link":"https:\/\/blog.naver.com\/dmswjd1023?Redirect=Log&logNo=222766131606",
+			"description":"산업인력공단에서 시행하는 시험 중에서 산업<b>보건<\/b>지도사는 사업장 내의 위생이나 <b>보건<\/b>상의 문제가 있는지에 대해서 규명하고 개선을 하는 일을 맡게 됩니다. 또한 생산현장에서의 방식과 공법도입에... ",
+			"bloggername":"잎새랑 알콩달콩",
+			"bloggerlink":"https:\/\/blog.naver.com\/dmswjd1023",
+			"postdate":"20220609"
+		},
+		{
+			"title":"<b>보건<\/b>교육사 자격증 응시자격 및 취득기준",
+			"link":"https:\/\/blog.naver.com\/htg5433?Redirect=Log&logNo=222820588144",
+			"description":"그렇기에 <b>보건<\/b> 전문 인력을 매년 꾸준히 선발하는데요, 오늘은 그런 인재임을 증명하는 자격증에 대해 알아봅시다. <b>보건<\/b>교육사 자격증은 응시자격에 제한이 있는 시험입니다. 갑자기 사람을 치료하고 싶다는... ",
+			"bloggername":"사랑이란이름으로",
+			"bloggerlink":"https:\/\/blog.naver.com\/htg5433",
+			"postdate":"20220720"
+		},
+		{
+			"title":"하반기 달라지는 점 _ <b>보건<\/b>·복지·고용 정부 정책",
+			"link":"https:\/\/blog.naver.com\/ihappy4080?Redirect=Log&logNo=222794832172",
+			"description":"2022년 하반기 달라지는 <b>보건<\/b>·복지·고용 관련 정부 정책 2022년 하반기 달라지는 점 (<b>보건<\/b>,복지,고용정책) ■ 농업인 안전보험 보장 강화 및 연금 방식 지급 추가 가능 ■ 한국형 상병수당 시범사업 1단계... ",
+			"bloggername":"이유없이 행복하라!",
+			"bloggerlink":"https:\/\/blog.naver.com\/ihappy4080",
+			"postdate":"20220701"
+		},
+		{
+			"title":"[제작뒷담화] <b>보건<\/b>의료노조 영상을 만들며 우리가 생각한 것",
+			"link":"https:\/\/meditory.tistory.com\/641",
+			"description":"의료기관에서 일하는 노동자의 권리를 지키기 위해 뭉친 조합, 전국<b>보건<\/b>의료산업노동조합(<b>보건<\/b>의료노조)였습니다. 노조에 의미있는 행사마다 미디토리에 영상을 의뢰해주셨습니다. [프로젝트 소개] 2022.02... ",
+			"bloggername":"미디토리",
+			"bloggerlink":"https:\/\/meditory.tistory.com\/",
+			"postdate":"20220616"
+		},
+		{
+			"title":"익산 건설업 건설 기초안전<b>보건<\/b>교육 이수 방법 및 위치",
+			"link":"https:\/\/blog.naver.com\/sksk1988?Redirect=Log&logNo=222829027235",
+			"description":"기초안전<b>보건<\/b>교육 이수증이 꼭 필요하다고 함. 그래서 익산은 어디서 교육을 받아야 하는지 찾아보다가 다음에 받으시는 분들을 위해서 이수증 받는 방법을 포스팅해 보려고 함 일단 기초안전<b>보건<\/b> 교육은... ",
+			"bloggername":"개미는뚠뚠",
+			"bloggerlink":"https:\/\/blog.naver.com\/sksk1988",
+			"postdate":"20220726"
+		},
+		{
+			"title":"<b>보건<\/b>교사 윤여민 1탄 - 대학생활 탐구편",
+			"link":"https:\/\/blog.naver.com\/semyung1991?Redirect=Log&logNo=222822441341",
+			"description":"오늘의 기사는 졸업과 동시에 2022년 <b>보건<\/b>교사 임용고시에 합격한 세명ㅅ과의 인터뷰입니다.... 기사를 시작하기에 앞서 <b>보건<\/b>교사가 되기위한 기본 정보를 알려드리겠습니다! 1. 교직이수가 가능한 간호학과에... ",
+			"bloggername":"세명대 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/semyung1991",
+			"postdate":"20220721"
+		},
+		{
+			"title":"6월 9일은 구강<b>보건<\/b>의 날! 「구강건강 관리법」",
+			"link":"https:\/\/blog.naver.com\/guri9279?Redirect=Log&logNo=222790493596",
+			"description":"6월 9일은 구강<b>보건<\/b>의 날! 「구강건강 관리법」 구리시 <b>보건<\/b>소 구강<b>보건<\/b>의 날 행사 - 건강한 치아 건강한 백세✨ 경기도 구리시 건원대로 34번길 32-29 구리역 3번 출구 일시 6월 9일 9:30~11:30 매년 6월 9일은... ",
+			"bloggername":"구리시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/guri9279",
+			"postdate":"20220627"
+		},
+		{
+			"title":"건설업기초안전<b>보건<\/b>교육 준비물과 참고사항",
+			"link":"https:\/\/blog.naver.com\/rkdwldus1984?Redirect=Log&logNo=222813544348",
+			"description":"건설업기초안전<b>보건<\/b>교육이라 할 수 있답니다. 건설업기초안전<b>보건<\/b>교육은 안전과도 밀접한 관계가 있기 때문에 반드시 엄선된 곳을 통해서 교육을 받는것이 핵심이라 할 수 있어요 서울 동대문구 신설동역... ",
+			"bloggername":"┠ 5인가족 행복한 세상 ┫",
+			"bloggerlink":"https:\/\/blog.naver.com\/rkdwldus1984",
+			"postdate":"20220716"
+		},
+		{
+			"title":"<b>보건<\/b>연구사 정의와 응시 자격",
+			"link":"https:\/\/blog.naver.com\/kjkim1998?Redirect=Log&logNo=222803502848",
+			"description":"바로 연구직공무원, 그중에서도 기술 직군에 포함되어 있는 <b>보건<\/b>연구사란 직업입니다. 알고 계셨나요? ....네? 알고 계셨다고요? 거... 거짓말!! <b>보건<\/b>연구사는 식품과 질병에 대한 <b>보건<\/b>에 관련된 정책을 기획하고... ",
+			"bloggername":"그리고리",
+			"bloggerlink":"https:\/\/blog.naver.com\/kjkim1998",
+			"postdate":"20220707"
+		},
+		{
+			"title":"<b>보건<\/b>관리자 선임기준 알아보고 준비할 것",
+			"link":"https:\/\/blog.naver.com\/yeamoonsa9302?Redirect=Log&logNo=222784288744",
+			"description":"이번에는 <b>보건<\/b>관리자란 무엇인지 알아보고 <b>보건<\/b>관리자 선임기준 은 어떻게 되는지 알아보도록 하겠습니다 <b>보건<\/b>관리자란? 사업장에서 <b>보건<\/b>에 관한 기술적 사항을 관리하기 위해 사업주가 선임하는 <b>보건<\/b>관리... ",
+			"bloggername":"예문사 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/yeamoonsa9302",
+			"postdate":"20220622"
+		},
+		{
+			"title":"건설업기초안전<b>보건<\/b>교육 준비물과 진행방법",
+			"link":"https:\/\/blog.naver.com\/bookgutnine?Redirect=Log&logNo=222810169286",
+			"description":"건설업기초안전<b>보건<\/b>교육에 대해서 관심을 갖고 알아보고 계시는데요. 현장 쪽에서 근무를 하게 될 경우에는 산업 안전 <b>보건<\/b>법을 근거로 이수증을 받은 사람들에 한해 투입하고서 일을 시작할 수 있기 때문에... ",
+			"bloggername":"필사노트",
+			"bloggerlink":"https:\/\/blog.naver.com\/bookgutnine",
+			"postdate":"20220713"
+		},
+		{
+			"title":"&lt;安단테 11기&gt; 산업안전<b>보건<\/b>법과 중대재해처벌법의 차이점",
+			"link":"https:\/\/blog.naver.com\/koshablog?Redirect=Log&logNo=222811368056",
+			"description":"산업안전<b>보건<\/b>법 미적용 사례 만약 학동 철거 현장에서 근로자가 사망했다면, 산업안전<b>보건<\/b>법이 적용되겠지만, 이 사고의 경우 일반 시민이 사망했기 때문에 철거업체나 감리업체에는 형법상 업무상 과실치사상... ",
+			"bloggername":"안전보건공단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/koshablog",
+			"postdate":"20220714"
+		},
+		{
+			"title":"<b>보건<\/b>교육사 2급 시험정보 및 공부방법",
+			"link":"https:\/\/blog.naver.com\/hosm0516?Redirect=Log&logNo=222785806946",
+			"description":"오늘은 다양한 의료분야 중에서 의사나 간호사 등의 직업이 아닌 약간 생소하다 느껴지는 &quot;<b>보건<\/b>교육사&quot;에 대해 포스팅을 할 거예요! <b>보건<\/b>교육사는 개인이나 집단, 산업체 및 지역사회가 체계적이며 효율성... ",
+			"bloggername":"내 사랑_",
+			"bloggerlink":"https:\/\/blog.naver.com\/hosm0516",
+			"postdate":"20220623"
+		},
+		{
+			"title":"<b>보건<\/b>관리자 채용 무엇을 준비해야 할까",
+			"link":"https:\/\/blog.naver.com\/htg5433?Redirect=Log&logNo=222831066023",
+			"description":"<b>보건<\/b>관리자는 사업장에서 <b>보건<\/b>에 관한 여러 가지 기술적인 사항을 관리하기 위해 선임해야 하는 필수 인력 중 하나입니다. 물론, 어느 기업에서나 다 필요한 건 아니지만! 기본적으로 50인 이상의 사업장에서는... ",
+			"bloggername":"사랑이란이름으로",
+			"bloggerlink":"https:\/\/blog.naver.com\/htg5433",
+			"postdate":"20220727"
+		},
+		{
+			"title":"하남시 <b>보건<\/b>증 발급 \/ 미사<b>보건<\/b>센터에서 <b>보건<\/b>증 발급받기",
+			"link":"https:\/\/blog.naver.com\/daae15?Redirect=Log&logNo=222746073013",
+			"description":"코로나로 <b>보건<\/b>증발급이 멈췄었는데 드디어 5월 24일부터 하남시미사<b>보건<\/b>센터에서 <b>보건<\/b>증을 발급할 수 있게 되었어요 !!! 항상 1년에 한번씩 <b>보건<\/b>증을 해야하는 저에겐 이 코로나의 2년동안 사설병원에서 15... ",
+			"bloggername":"ღ M y D a i l y L i f e ღ",
+			"bloggerlink":"https:\/\/blog.naver.com\/daae15",
+			"postdate":"20220525"
+		},
+		{
+			"title":"원광<b>보건<\/b>대학교 학과별 이색 직업 [사회복지과]",
+			"link":"https:\/\/blog.naver.com\/ipsi_wu?Redirect=Log&logNo=222822302673",
+			"description":"원광<b>보건<\/b>대학교 간호학과 에디터 호진 입니다 :D 오늘은 바로바로 학과별 이색 직업 시리즈... 생활재활교사가 되기 위해서는 사회복지사 2급 이상 의 자격증이 반드시 필요한데요, 저희 원광<b>보건<\/b>대학교... ",
+			"bloggername":"원광보건대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/ipsi_wu",
+			"postdate":"20220721"
+		},
+		{
+			"title":"산업<b>보건<\/b>지도사 시험절차 상세확인!",
+			"link":"https:\/\/blog.naver.com\/art3369?Redirect=Log&logNo=222807569055",
+			"description":"산업<b>보건<\/b>지도사는 1)직업환경의학 2)산업위생공학 분야로 나뉘어 산업 현자에서의 <b>보건<\/b> 관련 진단 및 평가, 교육 등의 업무를 수행합니다. 직업환경의학은 직업 그리고 환경에 존재하는 유해 요인으로부터... ",
+			"bloggername":"아이디어모음",
+			"bloggerlink":"https:\/\/blog.naver.com\/art3369",
+			"postdate":"20220711"
+		},
+		{
+			"title":"건설업 기초안전<b>보건<\/b>교육 어떻게 진행될까?",
+			"link":"https:\/\/blog.naver.com\/hyunju7647?Redirect=Log&logNo=222808788381",
+			"description":"그래서인지 이를 기회로 건설 현장 근무에 지원하기 위해 건설업 기초안전<b>보건<\/b>교육을 이수하는 분들도... 하지만 안타깝게도 건설업 기초안전<b>보건<\/b>교육의 소재에 대한 정보는 많이 알려지지 않아 이수증을... ",
+			"bloggername":"슈퍼더블디",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyunju7647",
+			"postdate":"20220712"
+		},
+		{
+			"title":"<b>보건<\/b>교육사 3급 응시자격 및 준비과정",
+			"link":"https:\/\/blog.naver.com\/qghkfwjf?Redirect=Log&logNo=222773159548",
+			"description":"더불어, <b>보건<\/b> 및 의료 전문인력의 수요가 급증할 수 밖에 없죠. 그래서 취업을 준비하는 분들도 이러한 트렌드를 빠르게 캐치하여 해당 분야로 진출하고자 하고 있는데요. 이와 연관성이 높은 <b>보건<\/b>교육사 3급에... ",
+			"bloggername":"가넹이네",
+			"bloggerlink":"https:\/\/blog.naver.com\/qghkfwjf",
+			"postdate":"20220614"
+		},
+		{
+			"title":"<b>보건<\/b>교사 윤여민 2탄 - 임용고시 준비편",
+			"link":"https:\/\/blog.naver.com\/semyung1991?Redirect=Log&logNo=222822519597",
+			"description":"<b>보건<\/b>교사를 희망하시는 간호학과 학생 그리고 <b>보건<\/b>교사 임용고시 준비생들에게 아주아주 유용한 정보가 될 거에요 ~,~ 참고로 작년 면접 기출문제, 합격생들이 추천하는 인강 등 어디서도 쉽게 들어보지 못 할... ",
+			"bloggername":"세명대 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/semyung1991",
+			"postdate":"20220722"
+		},
+		{
+			"title":"국비지원 받는 건설업 기초안전<b>보건<\/b>교육 다녀왔습니다.",
+			"link":"https:\/\/blog.naver.com\/ssldi?Redirect=Log&logNo=222808734232",
+			"description":"건설업 기초안전<b>보건<\/b>교육 이수증은 건설현장 일용직이나 반도체 현장관련, 그리고 공장등등에서 취업할때 필요한 이수증인데요. 시간부자인 제가 교육 다녀왔습니다. 건설업 기초안전<b>보건<\/b>교육 이란?... ",
+			"bloggername":"leave on a trip overseas",
+			"bloggerlink":"https:\/\/blog.naver.com\/ssldi",
+			"postdate":"20220712"
+		},
+		{
+			"title":"원숭이두창 공중<b>보건<\/b>비상사태 선포",
+			"link":"https:\/\/blog.naver.com\/starboa17?Redirect=Log&logNo=222827210045",
+			"description":"WHO 세계<b>보건<\/b>기구 에서 오늘 24일, 결국 원숭이두창 Monkey pox 에 대해 PHEIC 공중<b>보건<\/b> 비상사태 선언을 했습니다...! 약 한 달전에 제가 올렸던 글에서 원숭이 두창의 국내 첫 환자 발생에 대한 소식을... ",
+			"bloggername":"몰입하고 쉼하는 일상 속 관광, 미니멀한 하루",
+			"bloggerlink":"https:\/\/blog.naver.com\/starboa17",
+			"postdate":"20220724"
+		},
+		{
+			"title":"[인터뷰] 서찬석 안전<b>보건<\/b>공단 충남지역본부장",
+			"link":"https:\/\/blog.naver.com\/adzerg?Redirect=Log&logNo=222818288618",
+			"description":"“안전<b>보건<\/b>관리체계 구축과 이행 확산에 최선의 노력을 다할것” 서찬석 안전<b>보건<\/b>공단 충남지역본부장 충남 서·북부지역에는 발전·철강·자동차·전자·화학 등 국가 주요산업으로 회자되는 대형사업장들이... ",
+			"bloggername":"충청신문 천안지사",
+			"bloggerlink":"https:\/\/blog.naver.com\/adzerg",
+			"postdate":"20220719"
+		},
+		{
+			"title":"통합 <b>보건<\/b>의료 전문 전시회, 2022 메디엑스포 코리아 개최!",
+			"link":"https:\/\/blog.naver.com\/dgist_korea?Redirect=Log&logNo=222802443730",
+			"description":"메디시티 대구가 주최하고 <b>보건<\/b>복지부, 문화체육관광부, 한국<b>보건<\/b>산업진흥원이 지원하는 국내 최대 규모, 통합 <b>보건<\/b>의료 전문 전시회 2. 참여 연구센터 소개 1. DGIST-ETH 마이크로로봇 연구센터 • 전시품목... ",
+			"bloggername":"DGIST 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dgist_korea",
+			"postdate":"20220706"
+		},
+		{
+			"title":"가&gt; 아이들의 그림자까지도 보는 <b>보건<\/b>교사 김하준 <b>보건<\/b>실 에세이",
+			"link":"https:\/\/blog.naver.com\/indiecat?Redirect=Log&logNo=222750976187",
+			"description":"여기서 마음껏 아프다 가 \/ 김하준 \/ 수오서재 초등학교 때는 그래도 친구를 데려다주느라 한두 번 들렀던 기억이 나는데 그 이후엔 학교 <b>보건<\/b>실이 어디에 위치해 있는지조차 모를 정도로 저는 학교 <b>보건<\/b>실과는... ",
+			"bloggername":"인디캣책곳간",
+			"bloggerlink":"https:\/\/blog.naver.com\/indiecat",
+			"postdate":"20220529"
+		},
+		{
+			"title":"8급 <b>보건<\/b>진료직 시험 핵심 정리!",
+			"link":"https:\/\/blog.naver.com\/tjdrnl8712?Redirect=Log&logNo=222791865677",
+			"description":"8급 <b>보건<\/b>진료직 시험 핵심 정리! 2023년 새로운 도전을 위해 시작의 시기를 엿볼 예비수험생 선생님들... 전국 각 시·군 <b>보건<\/b>진료소(<b>보건<\/b>의료 취약지역)에서 의료 행위 및 <b>보건<\/b> 관련 업무를 수행하는 공무원인... ",
+			"bloggername":"듀스펙북스 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/tjdrnl8712",
+			"postdate":"20220628"
+		},
+		{
+			"title":"2022년 3차 <b>보건<\/b>신기술(NET)인증기술 신청 및 인증기간... ",
+			"link":"https:\/\/blog.naver.com\/sdhys2?Redirect=Log&logNo=222829089133",
+			"description":"2022년 3차 <b>보건<\/b>신기술(NET)인증기술 신청 및 인증기간 연장신청 접수 공고 소관부처 <b>보건<\/b>복지부 수행기관 한국<b>보건<\/b>산업진흥원 신청기간 2022.07.25 ~ 2022.08.24 사업개요 국내기업 및 연구기관, 대학... ",
+			"bloggername":"Discovery Driven Plan(DDP)",
+			"bloggerlink":"https:\/\/blog.naver.com\/sdhys2",
+			"postdate":"20220726"
+		},
+		{
+			"title":"4월 7일은 <b>보건<\/b>의 날. 전라남도가 봄철 건강정보를 전해드립니다",
+			"link":"https:\/\/blog.naver.com\/greenjeonnam?Redirect=Log&logNo=222694432087",
+			"description":"오늘은 세계 <b>보건<\/b>의 날을 맞이하여 봄철 환절기 질환을 예방하는 방법과, 4월 11일부터 달라지는 신속항원검사 등 봄철 건강정보를 전해드립니다. <b>보건<\/b>의 날이란? 4월 7일 세계<b>보건<\/b>의 날은 WHO (세계<b>보건<\/b>기구) 의... ",
+			"bloggername":"전라남도 공식 블로그-남도의 맛과 멋..그리고 여행",
+			"bloggerlink":"https:\/\/blog.naver.com\/greenjeonnam",
+			"postdate":"20220407"
+		},
+		{
+			"title":"[생후355일] 첫유아식(짜장밥),정릉아동<b>보건<\/b>지소 열린놀이터",
+			"link":"https:\/\/blog.naver.com\/ganzadori?Redirect=Log&logNo=222822663075",
+			"description":"ㅎㅎ 점심먹고 맘카페 눈팅하다가 눈에 띈 #정릉아동<b>보건<\/b>지소 이전부터 알고는 있었는데 코로나로 모든... 건물옆에 유모차전용출입구가 있어요ㅋㅋ 신발 갈아신고 들어가면 <b>보건<\/b>지소 선생님들이 반갑게... ",
+			"bloggername":"Daily, Lovely, Su,",
+			"bloggerlink":"https:\/\/blog.naver.com\/ganzadori",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[부산반영구수강학원]레이디데이 <b>보건<\/b>위생교육",
+			"link":"https:\/\/blog.naver.com\/ladyday29?Redirect=Log&logNo=222799587286",
+			"description":"현직 반영구화장, 타투이스트를 위한 제34회차 대한문신신중앙회 <b>보건<\/b>위생교육 안녕하세요! 레이디데이 아카데미입니다. 오늘은 <b>보건<\/b>위생전문기관인 대한<b>보건<\/b>협회 방형애(서울대<b>보건<\/b>박학박사)님의... ",
+			"bloggername":"레이디데이 아카데미",
+			"bloggerlink":"https:\/\/blog.naver.com\/ladyday29",
+			"postdate":"20220704"
+		},
+		{
+			"title":"원광<b>보건<\/b>대학교 학과별 이색 직업 [임상병리과]",
+			"link":"https:\/\/blog.naver.com\/ipsi_wu?Redirect=Log&logNo=222809523302",
+			"description":"여러분 안녕하세요~ 원광<b>보건<\/b>대학교 간호학과 에디터 호진 입니다 :D 오늘은 학과별 이색 직업... 정말 많은 분야들이 있지만, 대부분 관련 전공으로 생명과 생물 을 요구하고 있는데요 저희 원광<b>보건<\/b>대학... ",
+			"bloggername":"원광보건대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/ipsi_wu",
+			"postdate":"20220713"
+		},
+		{
+			"title":"(백일해주사) 부산 인구<b>보건<\/b>복지협회 임산부 예방접종",
+			"link":"https:\/\/blog.naver.com\/mochi222?Redirect=Log&logNo=222818206628",
+			"description":"인구<b>보건<\/b>복지협회 부산광역시지회 부산 수영구 수영로 425 임신초기때 임신초기검사 받는다고... 부산에서는 조건만되면 임산부에게는 인구<b>보건<\/b>복지협회에서 백일해 무료접종을 하고 있다 (중위소득 120... ",
+			"bloggername":"경험을 수집한다",
+			"bloggerlink":"https:\/\/blog.naver.com\/mochi222",
+			"postdate":"20220719"
+		},
+		{
+			"title":"제법 쉬운 중대재해처벌법! EP.13 안전<b>보건<\/b>교육의 수강!",
+			"link":"https:\/\/blog.naver.com\/koshablog?Redirect=Log&logNo=222785847628",
+			"description":"안전<b>보건<\/b>공단이 쉽게 알려드립니다! 중대재해처벌법에 대한 모든 것을 알아보는‘제법 쉬운 중대재해처벌법’! 열세 번째 에피소드, 안전<b>보건<\/b>교육의 수강! 만약 중대재해가 발생했다면 경영책임자등은... ",
+			"bloggername":"안전보건공단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/koshablog",
+			"postdate":"20220623"
+		},
+		{
+			"title":"[노알남] 해외사업장에서 산재발생시 산업안전<b>보건<\/b>법과... ",
+			"link":"https:\/\/blog.naver.com\/gundalin?Redirect=Log&logNo=222812282155",
+			"description":"및 <b>보건<\/b>에 관한 책임과 해외에서 발생한 중대산업재해에 대한 법정 의무를 어디까지 감당해야 하는지에 대하여 문의하시는 경우가 종종 있으신대요. 오늘은 해외사업장에서도 산업안전<b>보건<\/b>법과... ",
+			"bloggername":"건설달인",
+			"bloggerlink":"https:\/\/blog.naver.com\/gundalin",
+			"postdate":"20220715"
+		},
+		{
+			"title":"일산 킨텍스 국제안전<b>보건<\/b> 전시회 일정 및 참가 후기",
+			"link":"https:\/\/blog.naver.com\/cilcokr?Redirect=Log&logNo=222811269830",
+			"description":"일산 킨텍스 국제안전<b>보건<\/b> 전시회 일정 및 참가 후기 CIL 그룹 안녕하세요. 이웃님들! CIL그룹 세이프인입니다. 오늘은 지난 7월 초에 #일산킨텍스 내에서 열린 #국제안전<b>보건<\/b>전시회 참여차 다녀온 내용을 리뷰로... ",
+			"bloggername":"CiL 대한국제물류 \/ SAFE iN 세이프인",
+			"bloggerlink":"https:\/\/blog.naver.com\/cilcokr",
+			"postdate":"20220714"
+		},
+		{
+			"title":"세계<b>보건<\/b>기구(WHO)는 태생적으로 선한 국제 조직이 아니다!",
+			"link":"https:\/\/blog.naver.com\/goodozone?Redirect=Log&logNo=222826479590",
+			"description":"회원국 <b>보건<\/b>당국은 일방적으로 수뇌부의 지시를 받고, 따라야 하는 악법 중에 가장... 비협조 <b>보건<\/b>당국자에 대한 물갈이 등, 심리적 공포심을 극대화 해 자신들의 권위와... ",
+			"bloggername":"Ozone Therapy(오존 의학)",
+			"bloggerlink":"https:\/\/blog.naver.com\/goodozone",
+			"postdate":"20220724"
+		},
+		{
+			"title":"제5차 국민<b>보건<\/b>의료실태조사 결과 발표",
+			"link":"https:\/\/blog.naver.com\/pklpg?Redirect=Log&logNo=222811382949",
+			"description":"제5차 국민<b>보건<\/b>의료실태조사 결과 발표 2022.07.14 <b>보건<\/b>복지부 □ <b>보건<\/b>복지부는 5차(´16년~´20년) 국민<b>보건<\/b>의료실태조사 결과를 발표함 &lt; <b>보건<\/b>의료 실태조사 주요 결과 &gt; ㅇ (OECD국가와 비교)... ",
+			"bloggername":"己百之 己千之",
+			"bloggerlink":"https:\/\/blog.naver.com\/pklpg",
+			"postdate":"20220714"
+		},
+		{
+			"title":"제주도<b>보건<\/b>환경연구원, 법정감염병 확인검사 확대 시행",
+			"link":"https:\/\/blog.naver.com\/kohj007?Redirect=Log&logNo=222812207728",
+			"description":"제주도<b>보건<\/b>환경연구원, 법정감염병 확인검사 확대 시행 http:\/\/www.newsje.com\/news\/articleView.html?idxno=258813 제주특별자치도 <b>보건<\/b>환경연구원은 질병관리청의 법정감염병 확인검사 기술을 매년 넘겨받아 자체... ",
+			"bloggername":"제주도 사랑, 그리고 환경 사랑",
+			"bloggerlink":"https:\/\/blog.naver.com\/kohj007",
+			"postdate":"20220715"
+		},
+		{
+			"title":"언제나 안전제일! 대보정보통신의 안전<b>보건<\/b>활동 알아보기",
+			"link":"https:\/\/blog.naver.com\/blogdaebo?Redirect=Log&logNo=222827961521",
+			"description":"개인에게는 건강이라면 기업에는 안전<b>보건<\/b>입니다. 그만큼 안전<b>보건<\/b>이 시스템이 잘 갖춰져 있다면 계획대로 일이 진행되고, 결국 일 잘하고 있는 기업이 되는 것이겠죠! 오늘은 대보정보통신의 안전<b>보건<\/b>활동을... ",
+			"bloggername":"대보인사이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/blogdaebo",
+			"postdate":"20220725"
+		},
+		{
+			"title":"소장閣 69. <b>보건<\/b>교사 안은영",
+			"link":"https:\/\/blog.naver.com\/extroschool?Redirect=Log&logNo=222578362432",
+			"description":"<b>보건<\/b>교사 안은영(특별판)(양장본 HardCover) 저자 정세랑 출판 민음사 발매 2020.08.11. 사실 정세랑 작가의... <b>보건<\/b>교사 안은영 읽다보면 학창시절 나와 동류였을 것만 같은, 게다가 동년배가 아니면 모를, 어떤 하위... ",
+			"bloggername":"라이크어메르헨",
+			"bloggerlink":"https:\/\/blog.naver.com\/extroschool",
+			"postdate":"20220714"
+		},
+		{
+			"title":"[동원대학교 학과소개] <b>보건<\/b>의료행정과",
+			"link":"https:\/\/blog.naver.com\/lifetongwon?Redirect=Log&logNo=222822559284",
+			"description":"최전방에서 열심히 사투를 벌이셨던 의료인들과 <b>보건<\/b>인들의 덕분으로 다시 일상으로의 회복을 꿈꾸게 되었습니다. 의료 산업의 발전과 기관의 전문화로 <b>보건<\/b>의료 서비스 분야의 인력 수요가 증가하여 보다... ",
+			"bloggername":"동원대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/lifetongwon",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[을지로4가 맛집] <b>보건<\/b>옥 - since 1980 40년 전통 서울식... ",
+			"link":"https:\/\/blog.naver.com\/sielle83?Redirect=Log&logNo=222712168679",
+			"description":"<b>보건<\/b>옥 \/ 중구 창경궁로8길 12 (주교동 89-1) 전화번호 02-2275-3743 영업시간 10:00-22:00 일요일 휴무 아직 끝나지 않은 을지로 일대 낮술의 기록 오랜만에 다시 찾은 40년 전통 을지로4가 <b>보건<\/b>옥 이동네에서... ",
+			"bloggername":"여의도 직장인 문썬의 밥상 (舊 을지로)",
+			"bloggerlink":"https:\/\/blog.naver.com\/sielle83",
+			"postdate":"20220504"
+		},
+		{
+			"title":"연세사랑병원 방윤희 의료정보실장 <b>보건<\/b>복지부 장관 표창",
+			"link":"https:\/\/blog.naver.com\/jointluv?Redirect=Log&logNo=222763037578",
+			"description":"연세사랑병원 방윤희 의료정보실장이 지난달 27일 비즈허브 서울센터에서 열린 ‘대한<b>보건<\/b>의료관리사협회 주관 제86차 학술대회’에서 <b>보건<\/b>복지부 장관 표창을 수상했습니다. 방윤희 실장은 [국가 단위의... ",
+			"bloggername":"연세사랑병원 ♥관절건강의 아름다운 동행♥",
+			"bloggerlink":"https:\/\/blog.naver.com\/jointluv",
+			"postdate":"20220607"
+		},
+		{
+			"title":"경북<b>보건<\/b>대학교 학과소개 - 알려줄게, 우리학교 !",
+			"link":"https:\/\/blog.naver.com\/ksc_1956?Redirect=Log&logNo=222795529075",
+			"description":"경북<b>보건<\/b>대학교 GCH서포터즈 온라인팀 김희진입니다. 본격적인 장마가 시작되면서 습한 더위가 찾아왔습니다 ! 여름은 좋지만 이 무더위,,, 기운이 쫙 빠지는데요! 여러분은 어떠신가요? 오늘은 저희 경북<b>보건<\/b>대... ",
+			"bloggername":"취업 명문! 경북보건대학교 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksc_1956",
+			"postdate":"20220630"
+		},
+		{
+			"title":"산업안전<b>보건<\/b> 강조주간(7.4.~7.8.) 행사가 개최됩니다.",
+			"link":"https:\/\/blog.naver.com\/molab_suda?Redirect=Log&logNo=222799451894",
+			"description":"안전<b>보건<\/b> 확보 의무 이행 강조 첨부파일 7.4 산업안전<b>보건<\/b> 강조주간 행사 개최(산재예방지원과).hwp 파일 다운로드 고용노동부(이정식 장관)는「2022년 산업안전<b>보건<\/b> 강조주간」행사를 7.4.~7.8.까지 5일간 일산... ",
+			"bloggername":"고용노동부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/molab_suda",
+			"postdate":"20220704"
+		},
+		{
+			"title":"2022 한의약 공공<b>보건<\/b> 사업 운영",
+			"link":"https:\/\/blog.naver.com\/usbukgu?Redirect=Log&logNo=222831026897",
+			"description":"⭐️2022 한의약 공공<b>보건<\/b> 사업 운영⭐️ 최근 인구의 고령화 추세와 생활양식의 변화로 중풍... <b>보건<\/b>소와 <b>보건<\/b>진료소, 경로당, 복지기관 등에서 한의사의 진료도 받고, 건강관리, 교육도 받을 수 있어요!... ",
+			"bloggername":"울산 북구청",
+			"bloggerlink":"https:\/\/blog.naver.com\/usbukgu",
+			"postdate":"20220727"
+		},
+		{
+			"title":"<b>보건<\/b>소 산전검사 결과지! 집에서 '공공<b>보건<\/b>포털'로 프린트 하기 :)",
+			"link":"https:\/\/blog.naver.com\/foryou1035?Redirect=Log&logNo=222809862576",
+			"description":"오늘은 얼마전 <b>보건<\/b>소에서 산전검사를 하면서 피도 뽑고, 소변 검사도 했던 결과지를 '공공<b>보건<\/b>포털'에서 공인 인증서로 뽑아 보았습니다. <b>보건<\/b>소에서 산전검사를 하면 산부인과에서 검사하지 않은 부분만... ",
+			"bloggername":"Ssong Story ♡",
+			"bloggerlink":"https:\/\/blog.naver.com\/foryou1035",
+			"postdate":"20220713"
+		},
+		{
+			"title":"국제안전<b>보건<\/b>전시회 KT 엔터프라이즈 바디캠 등 보고옴",
+			"link":"https:\/\/blog.naver.com\/pih870318?Redirect=Log&logNo=222812887752",
+			"description":"국제안전<b>보건<\/b>전시회 KT 엔터프라이즈 바디캠 등 보고옴 안녕하세요 초코혜입니다 :) 2022년 7월 4일부터 8일까지 일산 킨텍스에서 산업 안전<b>보건<\/b> 강조주간으로 &lt; 국제안전<b>보건<\/b>전시회 &gt; 가 열렸는데요. 산업... ",
+			"bloggername":"초코혜 365일 매일이 여행 ♪",
+			"bloggerlink":"https:\/\/blog.naver.com\/pih870318",
+			"postdate":"20220715"
+		},
+		{
+			"title":"세계<b>보건<\/b>기구(WHO)는 &quot;World Hell Organization&quot;이다.",
+			"link":"https:\/\/blog.naver.com\/goodozone?Redirect=Log&logNo=222737549088",
+			"description":"세계<b>보건<\/b>기구(WHO)는 World Hell Organization이다. 세계<b>보건<\/b>기구(World Health Organization)는 국제 연합에 속한 국제기관으로, 사무국은 스위스(Geneva)에 있다. 그런데 이 국제기구가 본래 설립시에는 전세계... ",
+			"bloggername":"Ozone Therapy(오존 의학)",
+			"bloggerlink":"https:\/\/blog.naver.com\/goodozone",
+			"postdate":"20220518"
+		},
+		{
+			"title":"의사 고임금 문제 삼은 <b>보건<\/b>노조 &quot;의대정원 확대&quot; 주장",
+			"link":"https:\/\/blog.naver.com\/netetern?Redirect=Log&logNo=222824330252",
+			"description":"<b>보건<\/b>의료노조는 의사 정원 확대를 재차 촉구했다. 이들은 &quot;의사인력 확충은 고령화로 인한 <b>보건<\/b>의료 수요 증가와 지역불균형 해소, 과도한 직종간 임금격차 해소 등을 위해 반드시 필요한 조치&quot;라면서... ",
+			"bloggername":"가장 힘든 것은 꾸준히 하는 것이다.",
+			"bloggerlink":"https:\/\/blog.naver.com\/netetern",
+			"postdate":"20220722"
+		},
+		{
+			"title":"<b>보건<\/b>행정학과 동아리 &quot;꿀비보동&quot;을 소개합니다!",
+			"link":"https:\/\/blog.naver.com\/joongbu_univ?Redirect=Log&logNo=222809806908",
+			"description":"중부대학교 <b>보건<\/b>행정학과의 첫 과 동아리, ‘꿀비보동’을 함께 알아보려고 합니다. 동아리에 대한 간단한 소개부터 지도 교수님의 인터뷰까지 알차게 준비했으니 내년에 가입을 원하거나, 중부대학교 <b>보건<\/b>행... ",
+			"bloggername":"중부대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/joongbu_univ",
+			"postdate":"20220713"
+		},
+		{
+			"title":"<b>보건<\/b>복지행정타운꽃집 행사센터피스 동화플라워디자인",
+			"link":"https:\/\/blog.naver.com\/planet121?Redirect=Log&logNo=222811236276",
+			"description":"<b>보건<\/b>복지행정타운꽃집 행사센터피스 동화플라워디자인 <b>보건<\/b>복지행정타운에서 업무협약식에 놓을 행사용센터피스를 주문해주셨어요 ! !! 참석인원이 많지 않아서 큰 사이즈는 부담스럽다고하여 많이하는... ",
+			"bloggername":"Donghwa Flower & Design",
+			"bloggerlink":"https:\/\/blog.naver.com\/planet121",
+			"postdate":"20220714"
+		},
+		{
+			"title":"간호직\/<b>보건<\/b>직 공무원 모여라! 간호<b>보건<\/b>단기 복권긁기 이벤트로... ",
+			"link":"https:\/\/blog.naver.com\/gongdangi_?Redirect=Log&logNo=222818478593",
+			"description":"간호<b>보건<\/b>단기가 기술계리단리로 합쳐진 것 알고 계셨나요? 수험생 여러분의 불편함을 덜어드리고자 3가지 단기가 합쳐졌습니다! 그리고 또 하나 준비한 이벤트! 간호직, <b>보건<\/b>직, 그리고 <b>보건<\/b>진료직을... ",
+			"bloggername":"공단기 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gongdangi_",
+			"postdate":"20220719"
+		},
+		{
+			"title":"찾아가는 안전<b>보건<\/b> VR 체험교육을 신청해보세요~!",
+			"link":"https:\/\/blog.naver.com\/koshablog?Redirect=Log&logNo=222801224406",
+			"description":"안녕하세요, 안전<b>보건<\/b>공단입니다. 안전<b>보건<\/b>공단에서는 모두의 안전을 위해 다양한 안전<b>보건<\/b>자료를 제작해 배포하고 있다는 사실, 알고 계시나요? 안전<b>보건<\/b>자료는 책자, 교재, 포스터 등의 인쇄자료에서... ",
+			"bloggername":"안전보건공단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/koshablog",
+			"postdate":"20220705"
+		},
+		{
+			"title":"전북도 <b>보건<\/b>환경연구원, 물놀이형 수경시설 수질 점검",
+			"link":"https:\/\/blog.naver.com\/leebangheui?Redirect=Log&logNo=222829701644",
+			"description":"전라북도 <b>보건<\/b>환경연구원(원장 김호주, 이하 연구원)은 코로나 거리두기 완화로 이용객의 증가가... 김호주 <b>보건<\/b>환경연구원장은 “도민들이 깨끗하고 안전한 물놀이 시설에서 잠시나마 더위를 잊을 수 있도록... ",
+			"bloggername":"BANGABANGA",
+			"bloggerlink":"https:\/\/blog.naver.com\/leebangheui",
+			"postdate":"20220726"
+		},
+		{
+			"title":"2022년 <b>보건<\/b>의료 통계정보 활용 경진대회",
+			"link":"https:\/\/blog.naver.com\/ok_hira?Redirect=Log&logNo=222739557261",
+			"description":"2022년 <b>보건<\/b>의료 통계정보 활용 경진대회가 2022. 5. 4.(화)~5. 27(금)까지 접수가 진행되며 마감이... (총 상금 500만원, 총 10건 시상) 3) <b>보건<\/b>의료빅데이터개방시스템(opendata.hira.or.kr) 국민관심질병... ",
+			"bloggername":"건강보험심사평가원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ok_hira",
+			"postdate":"20220520"
+		},
+		{
+			"title":"붙이는 자동소화기 ㈜수, 2022 국제안전<b>보건<\/b>전시회 참가",
+			"link":"https:\/\/blog.naver.com\/vsquare1?Redirect=Log&logNo=222807294491",
+			"description":"2022국제안전<b>보건<\/b>전시회 #붙이는자동소화기 #소화로프 #소화패치 붙이는 자동소화기 ‘소화패치’로 유명한 화재예방용품 제조기업 ㈜수는 일산 킨텍스에서 지난 4일부터 7일까지 개최된 2022 국제안전<b>보건<\/b>전... ",
+			"bloggername":"VentureSquare",
+			"bloggerlink":"https:\/\/blog.naver.com\/vsquare1",
+			"postdate":"20220712"
+		},
+		{
+			"title":"2022 <b>보건<\/b>복지부 나눔 서포터즈 모집 안내",
+			"link":"https:\/\/blog.naver.com\/mohw2016?Redirect=Log&logNo=222804692961",
+			"description":"<b>보건<\/b>복지부에서 나눔덕후를 찾습니다~~! 봉사, 기부에 관심 있는 19세 이상을 대상으로 2022년... ∣ 활동혜택 V 활동비 지원 V 나눔덕후 서포터즈 수료증 수여(<b>보건<\/b>복지부 장관명 수료증)... ",
+			"bloggername":"[보건복지부] 따스한 메아리 따스아리",
+			"bloggerlink":"https:\/\/blog.naver.com\/mohw2016",
+			"postdate":"20220708"
+		},
+		{
+			"title":"산업안전<b>보건<\/b>강조주간 행사, 안단테 11기가 다녀왔어요!",
+			"link":"https:\/\/blog.naver.com\/koshablog?Redirect=Log&logNo=222821095222",
+			"description":"지난 2022년 7월 4일 월요일부터 7월 8일 금요일까지 진행되었던 산업안전<b>보건<\/b>강조주간! 산업안전<b>보건<\/b>강조주간 동안 국제안전<b>보건<\/b>전시회, 안전<b>보건<\/b> 세미나 등 알찬 행사를 관람하고 참여하기 위해 많은 분들이... ",
+			"bloggername":"안전보건공단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/koshablog",
+			"postdate":"20220720"
+		},
+		{
+			"title":"고용노동부, 물질안전<b>보건<\/b>자료(MSDS) 이행실태 불시 감독을... ",
+			"link":"https:\/\/blog.naver.com\/molab_suda?Redirect=Log&logNo=222827861594",
+			"description":"화학물질 제조‧수입 사업장 물질안전<b>보건<\/b>자료 작성‧제출 여부 집중 확인 첨부파일 7.25 물질안전<b>보건<\/b>자료(MSDS) 이행실태 불시감독 시행(화학사고예방과).hwp 파일 다운로드 고용노동부(장관 이정식)와... ",
+			"bloggername":"고용노동부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/molab_suda",
+			"postdate":"20220725"
+		},
+		{
+			"title":"기업의 안전<b>보건<\/b>관리체계 구축 및 이행 우수사례를 발표합니다.",
+			"link":"https:\/\/blog.naver.com\/molab_suda?Redirect=Log&logNo=222802373483",
+			"description":"산업안전<b>보건<\/b> 강조주간 기간(7.4.~7.8.) 중 ㈜한국필립모리스, ㈜삼성물산, 부산환경공단, ㈜한국남동발전의 안전<b>보건<\/b>관리체계 우수사례 발표 첨부파일 7.6 기업의 안전<b>보건<\/b>관리체계 구축 및 이행 우수사례... ",
+			"bloggername":"고용노동부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/molab_suda",
+			"postdate":"20220706"
+		},
+		{
+			"title":"WHO, 원숭이 두창에 <b>보건<\/b> 비상사태 선언",
+			"link":"https:\/\/blog.naver.com\/philo515?Redirect=Log&logNo=222827568696",
+			"description":"세계<b>보건<\/b>기구, WHO가 70여 개 국가에서 발병 사례가 확인된 원숭이두창에 대해 국제 공중<b>보건<\/b> 비상사태를 선언했다. WHO는 발원지인 아프리카에서 다른 지역으로 빠르게 번지는 만큼 세계... ",
+			"bloggername":"하얀구름 (philo515)",
+			"bloggerlink":"https:\/\/blog.naver.com\/philo515",
+			"postdate":"20220725"
+		},
+		{
+			"title":"함열건강증진형 <b>보건<\/b>지소, 건강증진운동 프로그램 실시",
+			"link":"https:\/\/blog.naver.com\/hiksanin?Redirect=Log&logNo=222828359602",
+			"description":"- 28일까지 건강증진 운동 프로그램 회원 모집 - 익산시 함열건강증진형 <b>보건<\/b>지소에서는 28일까지 북부권 지역주민들의 건강을 위한 ‘건강증진 운동 프로그램’ 회원을 모집한다. <b>보건<\/b>지소는 지역주민... ",
+			"bloggername":"익산시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hiksanin",
+			"postdate":"20220725"
+		},
+		{
+			"title":"성북구, 28일 장위·석관<b>보건<\/b>지소 개소식",
+			"link":"https:\/\/blog.naver.com\/coreap6?Redirect=Log&logNo=222794691228",
+			"description":"장위·석관<b>보건<\/b>지소 개소 ... 공공<b>보건<\/b>의료 서비스 확충 기대 - 성북구, 28일 장위·석관<b>보건<\/b>지소 개소식 개최 - 6월 10일부터 만성질환관리실, 치매지원센터 운영 이승로 구청장,“공공<b>보건<\/b>기관 취약지역에... ",
+			"bloggername":"새서울신문",
+			"bloggerlink":"https:\/\/blog.naver.com\/coreap6",
+			"postdate":"20220630"
+		},
+		{
+			"title":"[노알남] 지방자치단체의 중대재해처벌법상 &quot;안전<b>보건<\/b>관리체제... ",
+			"link":"https:\/\/blog.naver.com\/gundalin?Redirect=Log&logNo=222816729312",
+			"description":"중대재해처벌법과 산업안전<b>보건<\/b>법은 민간 기업뿐만 아니라 시, 군, 구와 같은 지방자치단체 역시... 각 지방자치단체는 각자가 하나의 법인에 해당하므로, 각각 중대재해처벌법과 산업안전<b>보건<\/b>법상의... ",
+			"bloggername":"건설달인",
+			"bloggerlink":"https:\/\/blog.naver.com\/gundalin",
+			"postdate":"20220718"
+		},
+		{
+			"title":"[소셜기자단]어린이 환경<b>보건<\/b>! 헤이지니가 함께해요!",
+			"link":"https:\/\/blog.naver.com\/mesns?Redirect=Log&logNo=222705264600",
+			"description":"환경부는 지난 4월 6일 어린이 환경<b>보건<\/b> 정책과 건강 보호의 중요성을 널리 알리기 위해 어린이들의 대통령으로 불리는 ‘헤이지니’를 어린이 환경<b>보건<\/b> 홍보대사로 위촉했습니다. 위촉식은 환경부 제1호... ",
+			"bloggername":"환경부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mesns",
+			"postdate":"20220419"
+		},
+		{
+			"title":"<b>보건<\/b>계열학과 학생을 위한 복십자의원 찾아가는 건강검진",
+			"link":"https:\/\/blog.naver.com\/knta_pr?Redirect=Log&logNo=222824324597",
+			"description":"<b>보건<\/b>계열학과 학생이라면, 현장실습을 나가기 전에 필수로 건강검진을 받아야 합니다. 대한결핵협회... 복십자의원 찾아가는 건강검진 검진기간 대한결핵협회 복십자의원 검진대상 <b>보건<\/b>계열학과 재학생... ",
+			"bloggername":"대한결핵협회",
+			"bloggerlink":"https:\/\/blog.naver.com\/knta_pr",
+			"postdate":"20220722"
+		},
+		{
+			"title":"[3월 이벤트] 안전<b>보건<\/b>공단과 함께하는 퀴즈 이벤트 !",
+			"link":"https:\/\/blog.naver.com\/koshablog?Redirect=Log&logNo=222673378723",
+			"description":"안전<b>보건<\/b>공단과 함께하는 3월의 이벤트! 쉽고 간단한 퀴즈 이벤트로 여러분들을 찾아왔습니다... 안전<b>보건<\/b>공단 블로그 팔로우는 필수겠죠~? 본 이벤트는 2022년 3월 15일 화요일부터 3월 20일 일요일까지... ",
+			"bloggername":"안전보건공단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/koshablog",
+			"postdate":"20220315"
+		},
+		{
+			"title":"제주자연문화재돌봄센터, 3분기 산업안전<b>보건<\/b>교육 실시",
+			"link":"https:\/\/blog.naver.com\/kohj007?Redirect=Log&logNo=222818230866",
+			"description":"제주자연문화재돌봄센터, 3분기 산업안전<b>보건<\/b>교육 실시 http:\/\/www.newsje.com\/news\/articleView.html?idxno=258953 제주자연문화재돌봄센터(센터장 강영제)는 지난 8일 센터 세미나실에서 3분기 산업안전<b>보건<\/b>교육을... ",
+			"bloggername":"제주도 사랑, 그리고 환경 사랑",
+			"bloggerlink":"https:\/\/blog.naver.com\/kohj007",
+			"postdate":"20220719"
+		},
+		{
+			"title":"[안전<b>보건<\/b>공단] 2022년 상반기 온라인 채용설명회 참여자... ",
+			"link":"https:\/\/blog.naver.com\/youthhopefoundation?Redirect=Log&logNo=222744351453",
+			"description":"<b>보건<\/b>공단의 2022년 상반기 온라인 채용설명회를 개최합니다! 청년재단과는 작년에 이어서 두 번째로 진행하는 온라인 채용설명회입니다. 작년에는 65명의 청년들이 참여했답니다. 한국산업안전<b>보건<\/b>공... ",
+			"bloggername":"청년재단 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/youthhopefoundation",
+			"postdate":"20220524"
+		},
+		{
+			"title":"고용노동부, 물질안전<b>보건<\/b>자료(MSDS) 이행실태 불시감독... ",
+			"link":"https:\/\/blog.naver.com\/safety1964?Redirect=Log&logNo=222831133132",
+			"description":"물질안전<b>보건<\/b>자료(MSDS) 이행실태 불시감독 시행 (7.25.~9.2.) 화학물질 제조·수입 사업장 물질안전<b>보건<\/b>자료 작성·제출 여부 집중 확인 첨부파일 7.25 물질안전<b>보건<\/b>자료(MSDS) 이행실태 불시감독 시행... ",
+			"bloggername":"(사)대한산업안전협회 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/safety1964",
+			"postdate":"20220727"
+		},
+		{
+			"title":"농어촌 <b>보건<\/b>의료기관 인프라 확충 총력",
+			"link":"https:\/\/blog.naver.com\/samcheokcityhall?Redirect=Log&logNo=222775692703",
+			"description":"삼척시<b>보건<\/b>소가 농어촌 <b>보건<\/b>의료기관 인프라 확충에 나섭니다! 지역주민에게 양질의 <b>보건<\/b>의료서비스를 제공하기 위하여 6월 중에 2023년 농어촌 의료서비스 개선 공모사업을 신청하여 국비 확보에 나설... ",
+			"bloggername":"삼척시",
+			"bloggerlink":"https:\/\/blog.naver.com\/samcheokcityhall",
+			"postdate":"20220616"
+		},
+		{
+			"title":"[십자말풀이 이벤트] 2022 산업안전<b>보건<\/b>강조주간 행사장소... ",
+			"link":"https:\/\/blog.naver.com\/koshablog?Redirect=Log&logNo=222775695629",
+			"description":"안녕하세요, 안전<b>보건<\/b>공단입니다. 매년 7월 첫째 주에 시작되는 산업안전<b>보건<\/b>강조주간을 맞이해 특별한 이벤트를 들고 찾아왔습니다! 어떤 이벤트인지 지금 바로 알아볼까요? 2022 산업안전<b>보건<\/b>강조주간... ",
+			"bloggername":"안전보건공단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/koshablog",
+			"postdate":"20220616"
+		},
+		{
+			"title":"우리 회사의 안전<b>보건<\/b>활동을 소개합니다!",
+			"link":"https:\/\/blog.naver.com\/molab_suda?Redirect=Log&logNo=222799867954",
+			"description":"- 안전<b>보건<\/b>활동 영상 콘텐츠 우수기업 시상 - 첨부파일 7.4 안전<b>보건<\/b>활동 영상 콘텐츠 우수기업 시상(산재예방지원과).hwp 파일 다운로드 고용노동부(이정식 장관)와 산업안전<b>보건<\/b>공단(안종주 이사장)은... ",
+			"bloggername":"고용노동부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/molab_suda",
+			"postdate":"20220704"
+		},
+		{
+			"title":"`22년 상반기 산업안전<b>보건<\/b> 감독 결과 발표 및 7월 50인(억)... ",
+			"link":"https:\/\/blog.naver.com\/molab_suda?Redirect=Log&logNo=222831089857",
+			"description":"27 22년 상반기 산업안전<b>보건<\/b> 감독 결과 발표(안전<b>보건<\/b>감독기획과).hwp 파일 다운로드 고용노동부(장관 이정식)는 '22년도 상반기 산업안전<b>보건<\/b>감독 주요 결과를 발표했습니다. 올해 상반기... ",
+			"bloggername":"고용노동부 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/molab_suda",
+			"postdate":"20220727"
+		},
+		{
+			"title":"WHO, 원숭이 두창 &quot;국제적 공중<b>보건<\/b> 비상사태&quot; 선언",
+			"link":"https:\/\/blog.naver.com\/yhjeongetri?Redirect=Log&logNo=222827348335",
+			"description":"세계<b>보건<\/b>기구, WHO가 70여 개국에서 발병 사례가 확인된 원숭이두창 감염과 관련하여 마침내 WHO가 내릴 수 있는 최고 수준의 공중<b>보건<\/b> 경계 선언인 &quot;국제적 공중<b>보건<\/b> 비상사태&quot;를 선언하였다. 비상사태가... ",
+			"bloggername":"생의 빈잔 가득히",
+			"bloggerlink":"https:\/\/blog.naver.com\/yhjeongetri",
+			"postdate":"20220724"
+		},
+		{
+			"title":"《<b>보건<\/b>교사 안은영》- 정세랑",
+			"link":"https:\/\/blog.naver.com\/oops__gs?Redirect=Log&logNo=222820585286",
+			"description":"<b>보건<\/b>교사 안은영은 그렇게 재밌기 위해 쓴 글이라던데??&quot;'하고 읊어봤고 금방 '사실 저도 전작 한 권 밖에 안읽어봤고 <b>보건<\/b>교사 안은영은 사놓기만 했습니다(쭈굴)'하고 고백함ㅋㅋㅋ 그리고 나서 그날부터... ",
+			"bloggername":"뭐라도 되겠지",
+			"bloggerlink":"https:\/\/blog.naver.com\/oops__gs",
+			"postdate":"20220720"
+		},
+		{
+			"title":"원숭이두창감염 세계<b>보건<\/b>비상사태 선포, 싱가포르 7, 8번째... ",
+			"link":"https:\/\/blog.naver.com\/hankookchon?Redirect=Log&logNo=222828631836",
+			"description":"세계<b>보건<\/b>기구가 원숭이두창(monkeypox)에 대해 세계 <b>보건<\/b> 비상사태(global health emergency)를 선언한 가운데 싱가포르에서 7번째, 8번째 추가 감염 사례가 보고되었습니다. 싱가포르 <b>보건<\/b>부는... ",
+			"bloggername":"한국촌 : 싱가포르 최대의 한인정보 사이트",
+			"bloggerlink":"https:\/\/blog.naver.com\/hankookchon",
+			"postdate":"20220725"
+		},
+		{
+			"title":"[이벤트 당첨자 발표] 2022 산업안전<b>보건<\/b>강조주간 십자말풀이... ",
+			"link":"https:\/\/blog.naver.com\/koshablog?Redirect=Log&logNo=222792399641",
+			"description":"안녕하세요, 안전<b>보건<\/b>공단입니다. 7월 4일 월요일부터 본격적으로 시작되는 2022 산업안전<b>보건<\/b>강조주간을 기념하여 지난 시간, 재미있는 이벤트를 진행했었죠? 십자말풀이로 알아보는 2022... ",
+			"bloggername":"안전보건공단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/koshablog",
+			"postdate":"20220628"
+		},
+		{
+			"title":"[동원대학교 학과소개] 동물<b>보건<\/b>과",
+			"link":"https:\/\/blog.naver.com\/lifetongwon?Redirect=Log&logNo=222817027353",
+			"description":"동원대학교 동물<b>보건<\/b>과는 동물의 생명을 다루며, 동물을 진료하는 수의사를 보조하는 동물<b>보건<\/b>사의 양성을 목적으로 하고 있습니다. 동원대학교 동물<b>보건<\/b>과 반려동물과 함께하는 더 행복한 삶 동원대학교... ",
+			"bloggername":"동원대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/lifetongwon",
+			"postdate":"20220718"
+		},
+		{
+			"title":"제주도 환경<b>보건<\/b>위원회 출범…환경<b>보건<\/b> 정책 심의·조정·자문... ",
+			"link":"https:\/\/blog.naver.com\/kohj007?Redirect=Log&logNo=222826439853",
+			"description":"제주도 환경<b>보건<\/b>위원회 출범…환경<b>보건<\/b> 정책 심의·조정·자문 기구 역할 http:\/\/www.newsje.com\/news\/articleView.html?idxno=259197 제주 지역의 환경<b>보건<\/b> 정책에 관한 주요 사항을 심의·자문하는 제주특별자치도... ",
+			"bloggername":"제주도 사랑, 그리고 환경 사랑",
+			"bloggerlink":"https:\/\/blog.naver.com\/kohj007",
+			"postdate":"20220724"
+		},
+		{
+			"title":"2022년 <b>보건<\/b>복지형 예비사회적기업 모집 공고",
+			"link":"https:\/\/blog.naver.com\/ash1106?Redirect=Log&logNo=222801306588",
+			"description":"경영 2022년 <b>보건<\/b>복지형 예비사회적기업 모집 공고 2022.07.05 소관부처 <b>보건<\/b>복지부 수행기관 한국사회적기업진흥원 신청기간 2022.07.04 ~ 2022.07.22 사업개요 <b>보건<\/b>복지 분야 중 사회적기업 인증 가능성이 큰... ",
+			"bloggername":"정책정보, 지원사업, 캠핑, 경제 등 우빗(Ubit)거리다",
+			"bloggerlink":"https:\/\/blog.naver.com\/ash1106",
+			"postdate":"20220705"
+		},
+		{
+			"title":"공공<b>보건<\/b>의료협의체 개최, 연계협력체계 활성화를 위한 노력",
+			"link":"https:\/\/blog.naver.com\/knumc2114?Redirect=Log&logNo=222807409127",
+			"description":"칠곡경북대학교병원이 6월 30일 ‘2022년 제1차 공공<b>보건<\/b>의료 협력체계 구축사업 원외대표협의체 회의’를 개최하였습니다. 이번 공공<b>보건<\/b>의료협의체 개최 회의는 ‘경상북도 공공<b>보건<\/b>의료 시행계획과... ",
+			"bloggername":"칠곡경북대학교병원",
+			"bloggerlink":"https:\/\/blog.naver.com\/knumc2114",
+			"postdate":"20220711"
+		},
+		{
+			"title":"안전<b>보건<\/b>교육, 의료종사자 직무교육 시험 답 찾을 때 참고 사이트",
+			"link":"https:\/\/blog.naver.com\/duelistwonis?Redirect=Log&logNo=222811840503",
+			"description":"#법제처 #국가법령정보센터 해마다 온라인으로 안전<b>보건<\/b>교육, 의료종사자 직무교육을 받는다. 뭐... https:\/\/www.moleg.go.kr\/index.es?sid=a1 또는 국가법령정보센터에서도 검색 가능 산업안전<b>보건<\/b>법, 의료법, 약사법... ",
+			"bloggername":"my romantic gene is dominant",
+			"bloggerlink":"https:\/\/blog.naver.com\/duelistwonis",
+			"postdate":"20220714"
+		},
+		{
+			"title":"전북도 <b>보건<\/b>환경연구원, 임실지역 생산 쌀 소비 촉진운동 참여",
+			"link":"https:\/\/blog.naver.com\/leebangheui?Redirect=Log&logNo=222807631264",
+			"description":"김관영 도지사가 ‘전북쌀 지키기 88릴레이 챌린지’에 도내에서는 처음으로 참여한 가운데 전북도 <b>보건<\/b>환경연구원이 임실군 소재 지역내에서 생산되는 쌀의 소비촉진에 동참하고 나섰다. 전라북도 <b>보건<\/b>환경... ",
+			"bloggername":"BANGABANGA",
+			"bloggerlink":"https:\/\/blog.naver.com\/leebangheui",
+			"postdate":"20220711"
+		},
+		{
+			"title":"다가오는 7월, 킨텍스에서 만나는 2022년 산업안전<b>보건<\/b>강조... ",
+			"link":"https:\/\/blog.naver.com\/koshablog?Redirect=Log&logNo=222772954160",
+			"description":"안녕하세요, 안전<b>보건<\/b>공단입니다. 매년 7월 첫째 주가 되면 돌아오는 ‘산업안전<b>보건<\/b>강조주간’ 벌써 올해로 55회를 맞이한 산업안전<b>보건<\/b>강조주간은 2022년 7월 4일 월요일부터 2022년 7월 8일 금요일까지... ",
+			"bloggername":"안전보건공단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/koshablog",
+			"postdate":"20220614"
+		},
+		{
+			"title":"익산시, 찾아가는 사회복지시설 구강<b>보건<\/b>사업 실시",
+			"link":"https:\/\/blog.naver.com\/hiksanin?Redirect=Log&logNo=222817377614",
+			"description":"익산시는 의료취약계층인 사회복지시설을 대상으로 이달 하반기부터 찾아가는 구강<b>보건<\/b>사업을 실시한다. 시는 장애·보육시설 등 지역 사회복지시설 6곳에 <b>보건<\/b>소 공중<b>보건<\/b>치과의사와 치과위생사가 직접... ",
+			"bloggername":"익산시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hiksanin",
+			"postdate":"20220718"
+		},
+		{
+			"title":"'오늘을 버텨내는 10살 로페스' | 해외 <b>보건<\/b>의료지원 캠페인",
+			"link":"https:\/\/blog.naver.com\/gnikor?Redirect=Log&logNo=222808703812",
+			"description":"해외 <b>보건<\/b>의료지원 캠페인 오늘을 버텨내는 10살 로페스 몸이 아픈 부모님을 대신하여 네 명의... 굿네이버스 <b>보건<\/b>의료지원사업의 도움을 받을 수 있었습니다. 로페스가 웃음을 되찾을 수 있도록 지금... ",
+			"bloggername":"굿네이버스 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gnikor",
+			"postdate":"20220712"
+		},
+		{
+			"title":"제주<b>보건<\/b>환경연구원, 도민 조리종사자 식중독 예방수칙 준수 당부",
+			"link":"https:\/\/blog.naver.com\/kohj007?Redirect=Log&logNo=222826430555",
+			"description":"제주<b>보건<\/b>환경연구원, 도민 조리종사자 식중독 예방수칙 준수 당부 http:\/\/www.newsje.com\/news\/articleView.html?idxno=259163 제주특별자치도 <b>보건<\/b>환경연구원(원장 현근탁)은 최근 도내에서 집단 식중독 의심 사례 증가에... ",
+			"bloggername":"제주도 사랑, 그리고 환경 사랑",
+			"bloggerlink":"https:\/\/blog.naver.com\/kohj007",
+			"postdate":"20220724"
+		},
+		{
+			"title":"[책일기] <b>보건<\/b>교사 안은영",
+			"link":"https:\/\/blog.naver.com\/wungstar?Redirect=Log&logNo=222806657521",
+			"description":"&quot;<b>보건<\/b>교사 안은영&quot; 1년전인가 넷플릭스 오리지널 광고에서 본게 이거였구나. 저것들이 뭔가했네..... 정세랑 작가의 사인 나는 넷플릭스 오리지널 드라마 '<b>보건<\/b>교사 안은영'을 보진 않았지만 이런 소재의... ",
+			"bloggername":"오색찬란",
+			"bloggerlink":"https:\/\/blog.naver.com\/wungstar",
+			"postdate":"20220710"
+		},
+		{
+			"title":"[노알남] 중대재해처벌법상 안전<b>보건<\/b> 목표와 경영방침... ",
+			"link":"https:\/\/blog.naver.com\/gundalin?Redirect=Log&logNo=222804189610",
+			"description":"중대재해처벌법에서는 개인사업주 또는 경영책임자등에게 안전<b>보건<\/b>확보의무를 부여하면서 안전<b>보건<\/b>관리체계 구축 사항 중 가장 첫 번째로 ‘안전<b>보건<\/b> 목표와 경영방침을 설정할 것’을 규정하고... ",
+			"bloggername":"건설달인",
+			"bloggerlink":"https:\/\/blog.naver.com\/gundalin",
+			"postdate":"20220708"
+		},
+		{
+			"title":"인천교통공사, 2022년도 상반기 안전<b>보건<\/b>경영위원회 개최",
+			"link":"https:\/\/blog.naver.com\/iammetro?Redirect=Log&logNo=222811277305",
+			"description":"인천교통공사, 2022년도 상반기 안전<b>보건<\/b>경영위원회 개최 인천교통공사(사장 정희윤)와 인천교통공사노동조합(위원장 김현기)은 14일 12명의 내·외부위원들이 참석한 가운데 ‘2022년도 상반기 안전<b>보건<\/b>경영... ",
+			"bloggername":"인천교통공사",
+			"bloggerlink":"https:\/\/blog.naver.com\/iammetro",
+			"postdate":"20220714"
+		},
+		{
+			"title":"금천구 박미<b>보건<\/b>지소 '음식인문학교실' 안내",
+			"link":"https:\/\/blog.naver.com\/geumcheon1?Redirect=Log&logNo=222799429014",
+			"description":"박미<b>보건<\/b>지소 '음식인문학교실' 안내 ☐ 신청기간 2022. 7. 4.(월) 오전 9시 ~ ※ 선착순 조기 마감될... 박미<b>보건<\/b>지소 영양교육실 ☐ 신청방법 네이버폼을 이용한 온라인 접수 https:\/\/naver.me\/GB0apCnm... ",
+			"bloggername":"금천구청",
+			"bloggerlink":"https:\/\/blog.naver.com\/geumcheon1",
+			"postdate":"20220704"
+		},
+		{
+			"title":"신안산대학교 동물<b>보건<\/b>과 소개",
+			"link":"https:\/\/blog.naver.com\/sau2011?Redirect=Log&logNo=222793289417",
+			"description":"신안산대학교 동불<b>보건<\/b>과 소개 [Dept. of Veterinary Nurse] 『반려동물의 아픔에 공감하고 유능한 간호능력을 지닌 국내 최고의 동물<b>보건<\/b>사 양성』 농림축산식품부에 따르면 동물<b>보건<\/b>사는 동물병원 내에서... ",
+			"bloggername":"신안산대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sau2011",
+			"postdate":"20220629"
+		},
+		{
+			"title":"2022년 우리나라 <b>보건<\/b>의료의 현주소는? 「OECD <b>보건<\/b>통계... ",
+			"link":"https:\/\/blog.naver.com\/mohw2016?Redirect=Log&logNo=222831488914",
+			"description":"2022년 우리나라 <b>보건<\/b>의료의 현주소는? 「OECD <b>보건<\/b>통계 2022」란? 국제사회에서의 우리나라의 <b>보건<\/b>의료 전반의 수준을 확인하고 보다 발전된 <b>보건<\/b>의료제도로 나아가기 위한 기초자료로 활용되는... ",
+			"bloggername":"[보건복지부] 따스한 메아리 따스아리",
+			"bloggerlink":"https:\/\/blog.naver.com\/mohw2016",
+			"postdate":"20220727"
+		}
+	]
+}

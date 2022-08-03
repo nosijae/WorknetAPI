@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:27 +0900",
+	"total":15997,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"NCS 직업기초,<b>직무<\/b>능력 (보건<b>의료<\/b>정보관리사... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40602&docId=404557532&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=1&search_sort=0&spq=0",
+			"description":"... <b>직무<\/b>능력 NCS의 경우,, NCS 전용 의무기록학 책이 있는건지,, 뭐 어떻게 해야할지 아무것도 모르겠네요 ㅠㅠ NCS 의무기록사 <b>직무<\/b>능력 보기위한 책 추천좀 해주세요 .. 3. 강원대학교병원에서 의무기록사는 일반직-<b>의료<\/b>기술... "
+		},
+		{
+			"title":"산업안전산업기사 비전공자 해당<b>직무<\/b>경력 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=366820993&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=2&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 경력으로 인정되는 분야 (유사 직무 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계... "
+		},
+		{
+			"title":"<b>의료<\/b> 통역사로 해외에서 일할 기회가 많은가요? 사회... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=9&dirId=9020303&docId=420618688&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=3&search_sort=0&spq=0",
+			"description":"안녕하세요 전문대 2년제 졸업 이후 성형외과 <b>의료<\/b> 통역 <b>직무<\/b> 제안을 받은 여학생입니다. 제 꿈은 어릴 때부터 해외에서 일하는 것이었는데 <b>의료<\/b> 통역사 수요가 많은 동아시아 뿐 아니라 아프리카, 유럽도 출장이나 계약직으로 일하러... "
+		},
+		{
+			"title":"법정필수 경비<b>직무<\/b>교육을 일과 후에 들으면 회사에... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60222&docId=424559231&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=4&search_sort=0&spq=0",
+			"description":"... 나무원격교육원에서는 법정의무교육, <b>직무<\/b>교육, <b>의료<\/b>기관교육을 하고 있습니다. 법정필수교육은 관련법에 따라 기업에서 필수적으로 받아야하는 교육으로 교육실시 시간은 근로시간에 해당합니다. 근로시간이라면 임금을... "
+		},
+		{
+			"title":"국제 <b>의료<\/b> 관광 코디네이터",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=7&dirId=710&docId=206874603&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=5&search_sort=0&spq=0",
+			"description":"... 보건·의료 061 보건·의료 국제의료관광코디네이터 - 보건·의료 중 061 보건·<b>의료 직무<\/b>분야와 관련된 학과 - 12 이용·숙박·여행·오락·스포츠 직무분야와 관련된 학과 ♣ 공인어학성적 기준요건 러시아어 FLEX 700점 이상 TORFL 2단계 이상 "
+		},
+		{
+			"title":"소방설비산업기사 경력 인증방식에 대해 궁금합니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=422902820&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=6&search_sort=0&spq=0",
+			"description":"... ※ 소방설비기사에 응시 가능한 경력으로 인정되는 분야 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계 직무분야 - 17 재료... "
+		},
+		{
+			"title":"간호조무사 <b>직무<\/b>기술서ㅜ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40610&docId=320991307&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=7&search_sort=0&spq=0",
+			"description":"... 공공보건<b>의료<\/b> 시책 수행 등 <b>직무<\/b> 수행내용 ○(간호보조) 병동, 진료과, 검사실, 외래 등 간호사의 간호보조 업무 수행 ○(간병지원) 간호간병통합서비스 관련 가호업무 보조 수행 전형방법... "
+		},
+		{
+			"title":"산업안전산업기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=423270544&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=8&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"산업안전산업기사 자격요건 군경력",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=422521084&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=9&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 분야 (유사 직무 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계 직무분야 - 17 재료... "
+		},
+		{
+			"title":"산업안전산업기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=421349398&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=10&search_sort=0&spq=0",
+			"description":"... 관련 학과로는 - 경영ㆍ회계ㆍ사무 중 생산관리 직무분야와 관련된 학과 - 보건․의료 중 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 건설 직무분야와 관련된 학과 - 광업자원 직무분야와 관련된 학과 - 기계 직무분야와 관련된 학과... "
+		},
+		{
+			"title":"산업안전기사 시험에 응시하고 싶은데",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1126&docId=393472360&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=11&search_sort=0&spq=0",
+			"description":"... 안녕하세요. - 보건.의료 중 - 보건.<b>의료 직무<\/b>분야 - 건설 직무분야 - 광업자원 직무분야 - 기계 직무분야 - 재료 직무분야 - 화학 직무분야 - 섬유ㆍ의복 직무분야 - 전기ㆍ전자 직무분야 - 정보통신 직무분야 "
+		},
+		{
+			"title":"큐넷 응시자격 자가진단 정확한가요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110704&docId=408003532&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=12&search_sort=0&spq=0",
+			"description":"... ※ 소방설비기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와... "
+		},
+		{
+			"title":"자격증 질문입니다",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=422451461&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=13&search_sort=0&spq=0",
+			"description":"... 경영,회계,사무 중 생산관리 학과 보건,<b>의료 직무<\/b>와 관련된 학과 건설, 광업자원, 기계, 재료 관련 학과 화학, 섬유,의복, 전기, 전자 정보통신,식품가공, 인쇄,목재,가구,공예... "
+		},
+		{
+			"title":"산업안전산업기사 편입생 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=413930904&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=14&search_sort=0&spq=0",
+			"description":"... 보건의료정보학과는 보건․<b>의료 직무<\/b>분야 학과이고 보건․<b>의료 직무<\/b>분야는 산업안전산업기사에 응시 가능한 관련학과에 들어가 있습니다. ※ 산업안전산업기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리... "
+		},
+		{
+			"title":"사회복무요원 <b>직무<\/b>교육 2주",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=6030205&docId=335055868&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=15&search_sort=0&spq=0",
+			"description":"... 그리고 <b>직무<\/b> 교육은 보건<b>의료<\/b> 분야나 사회복지분야 등에 해당 하는 사람들은 의무적으로 <b>직무<\/b> 교육을 2주짜리 받으셔야 합니다. 그 외의 업무 분야로 복무 하는 사회복무요원의 경우는 <b>직무<\/b> 교육 대상이 아닙니다. 님의 경우는 아마도... "
+		},
+		{
+			"title":"산업안전기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110703&docId=420707380&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=16&search_sort=0&spq=0",
+			"description":"... :) 산업안전기사 관련학과에 보건\/<b>의료 직무<\/b> 분야와 관련된 학과면 응시가 가능하신데 정확한 응시조건은 q-net 자가진단으로 진단 해주시거나 전화문의 하셔서 물어보는게 가장 정확합니다. 만약 관련분야가 아니라고... "
+		},
+		{
+			"title":"산업안전기사 자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=422095316&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=17&search_sort=0&spq=0",
+			"description":"... ※ 산업안전기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와... "
+		},
+		{
+			"title":"<b>의료<\/b>기기 어플리케이터 <b>직무<\/b> 질문..",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=7&dirId=70118&docId=417730409&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=18&search_sort=0&spq=0",
+			"description":"의공이나 방사선과는 아니고 일반 전자과 나왔는데요 한 <b>의료<\/b>기 회사에서 어플리케이터를 뽑던데 내용이 장비사용교육, 임상 및 학술지원 이런거더라구요 의학지식이 없고 그런것도 고민이고.. 운전은 필수적인지 , 어플리케이터 <b>직무<\/b>는... "
+		},
+		{
+			"title":"건설 안전 산업기사 자격증",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=420761808&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=19&search_sort=0&spq=0",
+			"description":"... ※ 건설안전산업기사에 응시 가능한 관련학과 (유사 학과) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과... "
+		},
+		{
+			"title":"<b>직무<\/b>교육은 사회복무요원중 복지쪽만 가",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=6030205&docId=300662731&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=20&search_sort=0&spq=0",
+			"description":"<b>직무<\/b>교육은 사회복무요원중 복지쪽만 가나요? 사회복지, 사회복지직공무원보조, 보건<b>의료<\/b>쪽도 갑니다. 복지쪽 말고 보건<b>의료<\/b>쪽도 <b>직무<\/b>교육이 있습니다. "
+		},
+		{
+			"title":"산업안전기사 응시자격 문의",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=414379936&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=21&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"동대 산업시스템공학과 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=417665398&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=22&search_sort=0&spq=0",
+			"description":"... ※ 산업안전기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 &lt;------- 산업시스템공학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15... "
+		},
+		{
+			"title":"산업안전산업기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=416367931&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=23&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 관련학과 (관련학과) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원... "
+		},
+		{
+			"title":"기사, 산업기사 응시자격에 관하여",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=368754751&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=24&search_sort=0&spq=0",
+			"description":"... ※ 산업안전기사에 응시 가능한 관련학과(유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원... "
+		},
+		{
+			"title":"반도체 관련된 <b>직무<\/b>",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=418202307&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=25&search_sort=0&spq=0",
+			"description":"반도체를 만드는 회사나 반도체장비 회사의 <b>직무<\/b>를 모두 알려주세요 교대근무 여부도 알려주심 감사하겠습니다... 시설·보안·경비·안전 <b>의료<\/b>기사 추가로 도움이 될 만한 내용 첨부해드리니 참고하세요! &gt;&gt;[최준형의 전역학교] 면접... "
+		},
+		{
+			"title":"무꿈님 산업위생관리기사 응시자격에 대한 질문입니다-!",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=11050403&docId=402795082&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=26&search_sort=0&spq=0",
+			"description":"... 보니까 보건<b>의료직무<\/b>분야와관련된학과에서 임상병리과도 있던데 그럼 그냥 자격이 바로 주어지는지, 아니면 실무1년 종사를 해야하는지 궁금합니다. 가장 정확한건 큐넷에서 자가진단 해보시는게 가장 정확합니다.... "
+		},
+		{
+			"title":"소방설비산업기사 응시자격관련",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=418781219&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=27&search_sort=0&spq=0",
+			"description":"... ※ 소방설비산업기사 직무 분야 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계 직무분야 - 17 재료 직무분야 - 18 화학... "
+		},
+		{
+			"title":"학과 기사자격증 관련",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110704&docId=413984306&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=28&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 12 이용․숙박․여행․오락․스포츠 중 122 숙박․여행․오락․스포츠 직무분야와 관련된 학과 08 문화ㆍ예술ㆍ디자인ㆍ방송 082 디자인 - 제품디자인기술사 - 시각디자인기사... "
+		},
+		{
+			"title":"소방기사자격증 조건",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=408702917&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=29&search_sort=0&spq=0",
+			"description":"... ※ 소방설비기사 (전기, 기계)에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원... "
+		},
+		{
+			"title":"<b>직무<\/b>분석..",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=417312885&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=30&search_sort=0&spq=0",
+			"description":"포스코 회사의 채용공고에 &quot;생산기술직&quot;에 대한 <b>직무<\/b> 분석을 해볼까 합니다. 채용공고 홈페이지에 어느정도 설명은... 참고로 <b>의료<\/b>기기 생산관리는 대분류 19 전기전자에서 중분류 03 안에, 소분류 09 <b>의료<\/b>기기제조로 들어가면 있고... "
+		},
+		{
+			"title":"산업안전산업기사 취득후 1년동안 경력 쌓으면... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=410448272&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=31&search_sort=0&spq=0",
+			"description":"... ※ 소방설비기사(기계)에 응시 가능한 분야 (유사 직무 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계 직무분야 - 17 재료... "
+		},
+		{
+			"title":"산업위생관리기사 응시자격 관련학과에 대한 정확한 기준",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=410211570&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=32&search_sort=0&spq=0",
+			"description":"... ※ 산업위생관리기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원... "
+		},
+		{
+			"title":"<b>직무<\/b> 지원 동기 쓰기가 너무 어려워요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=11080105&docId=381357839&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=33&search_sort=0&spq=0",
+			"description":"... 이 <b>직무<\/b>를 수행하기 위한 행동을 한 적은 없지만 개인적인 생각으로는 <b>의료<\/b>계열이라는 것이 한 분야가 독립적인 게 아니라 지금까지의 경험을 살려 업무에 도움이 될 것이라는 생각은 항상 하고 있습니다. 저는 제 일이 좋고... "
+		},
+		{
+			"title":"산업위생관리산업기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=409109848&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=34&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"소방설비산업기사 응시자격이 될까요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=406281424&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=35&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학가물과 - 18 화학 직무분야와 관련된 학과 - 19... "
+		},
+		{
+			"title":"큐넷에서 국가자격증 응시자가진단에서 &apos;가능&apos;이... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=11004&docId=405982283&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=36&search_sort=0&spq=0",
+			"description":"... ※ 건설안전산업기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와... "
+		},
+		{
+			"title":"산업안전산업기사 학과",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=414398595&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=37&search_sort=0&spq=0",
+			"description":"... - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된... "
+		},
+		{
+			"title":"건설안전기사 응시자격요건",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110503&docId=413453677&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=38&search_sort=0&spq=0",
+			"description":"... ※ 건설안전기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과... "
+		},
+		{
+			"title":"산업안전산업기사 취득조건 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=413344342&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=39&search_sort=0&spq=0",
+			"description":"... - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과... "
+		},
+		{
+			"title":"산업기사 자격 조건에 대하여 질문드립니다",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=247834898&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=40&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"산업경영학과(2년제)졸업을 했습니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=411821825&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=41&search_sort=0&spq=0",
+			"description":"... ※ 산업안전기사에 응시 가능한 유사 분야 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와... "
+		},
+		{
+			"title":"소방설비산업기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=402863199&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=42&search_sort=0&spq=0",
+			"description":"... ※ 소방설비산업기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 &lt;---- 건축... "
+		},
+		{
+			"title":"건설안전산업기사 응시자격에 대해 질문드립니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1119&docId=165464549&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=43&search_sort=0&spq=0",
+			"description":"... 4년제 관련학과 전 과정의 1\/2 이상 수료자 - 관련학과 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 14 건설 직무분야와 관련된 학과 15 광업자원... "
+		},
+		{
+			"title":"기능사 산업기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=10603&docId=410882288&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=44&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계 직무분야 - 17 재료 직무분야 - 18 화학 직무분야 - 19 섬유ㆍ의복 직무분야 - 20 전기ㆍ전자 직무분야 - 21 정보통신 직무분야 - 22 식품가공 직무분야 - 23... "
+		},
+		{
+			"title":"&apos;전공 무관&apos;이라는 <b>직무<\/b>에 지원하는데 자소서란에... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40602&docId=183642581&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=45&search_sort=0&spq=0",
+			"description":"... 예를 들면 <b>직무<\/b>는 <b>의료<\/b>장비 해외 영업 인데 전공은 수산쪽이라면?  하고 싶으신 열정과 비전이 있으시다면 전공 무관 <b>직무<\/b>는 전공에 상관없이 지원가능 합니다. 다만 면접시에 왜 이 <b>직무<\/b>에 지원하셨는지에 대한 답변 유들리있게 잘... "
+		},
+		{
+			"title":"소방설비 산업기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=254847901&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=46&search_sort=0&spq=0",
+			"description":"... 보건<b>의료 직무<\/b>분야 - 건설 직무분야 - 광업자원 직무분야 - 기계 직무분야 - 재료 직무분야 - 화학 직무분야 - 섬유ㆍ의복 직무분야 - 전기ㆍ전자 직무분야 - 정보통신 직무분야 - 식품가공 직무분야 - 인쇄ㆍ목재ㆍ가구ㆍ공예 직무분야... "
+		},
+		{
+			"title":"전기산업기사 유사<b>직무<\/b> 경력증명서 인정여부",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110704&docId=411002923&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=47&search_sort=0&spq=0",
+			"description":"안녕하세요 <b>의료<\/b>기기 총판사에서 근무한 이력이 1년 있는데요, 실제 근무는 매장에 <b>의료<\/b>기기 설치 및 관리, 창고관리를 했습니다. 전기유사<b>직무<\/b>로 경력인정 받으려고 합니다. 경력증명서 업무내용에 &quot;전자<b>의료<\/b>기기 설치 및 관리... "
+		},
+		{
+			"title":"기사 자격증 자격 조회 가능하나요??",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=10803&docId=258841975&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=48&search_sort=0&spq=0",
+			"description":"... ※ 안전관리 유사 직무 분야 (관련학과) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와... "
+		},
+		{
+			"title":"산업안전기사 자격요건 질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=397717782&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=49&search_sort=0&spq=0",
+			"description":"... - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계 직무분야 - 17 재료 직무분야 - 18 화학 직무분야 - 19 섬유ㆍ의복 직무분야 - 20... "
+		},
+		{
+			"title":"산업안전기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=408106491&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=50&search_sort=0&spq=0",
+			"description":"... ※ 산업안전기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원... "
+		},
+		{
+			"title":"한국<b>의료<\/b>분쟁조정중재원 면접 학원!!!",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=408&docId=424735517&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=51&search_sort=0&spq=0",
+			"description":"... ▶역량면접 - 나만의 강점을 어필할 수 있는 방법 알아보기 - 자주 출제되는 질문에 답변노트 작성하기 한국<b>의료<\/b>분쟁조정중재원 면접 학원은 공기업, 금융권, 대기업에 취업하기 위한 진로 설정, <b>직무<\/b> 분석, 기업 분석, 자기소개서 작성... "
+		},
+		{
+			"title":"소방설비기사 자격증 취득하려면 관련 학과 어디... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=11004&docId=392803398&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=52&search_sort=0&spq=0",
+			"description":"... ※ 소방설비기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원... "
+		},
+		{
+			"title":"산업위생관리기사 응시자격 및 전망",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=611&docId=160602498&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=53&search_sort=0&spq=0",
+			"description":"... 응시자격 - 산업위생관리기사에 응시가 가능한 관련학과 : - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원... "
+		},
+		{
+			"title":"산업안전기사 응시 자격 질문드립니다..",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=251416283&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=54&search_sort=0&spq=0",
+			"description":"... ※ 안전관리 유사 직무 분야 - 경영ㆍ회계ㆍ사무 중 - 생산관리 직무분야 - 보건․의료 중 - 보건․<b>의료 직무<\/b>분야 - 건설 직무분야 - 광업자원 직무분야 - 기계 직무분야 - 재료 직무분야 - 화학 직무분야 - 섬유ㆍ의복 직무분야... "
+		},
+		{
+			"title":"제가 산업안전기사를 공부하려고 합니다",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=402889522&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=55&search_sort=0&spq=0",
+			"description":"... - 화재감식평가기사, 화재감식평가산업기사 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건.의료 중 061 보건.<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와... "
+		},
+		{
+			"title":"충남대학교 재료공학과를 졸업했는데 산업위생관리기사... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113102&docId=386212464&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=56&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"소방기술사 응시자격 질문입니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=291613946&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=57&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"산업안전산업기사 응시자격 관련 학과 문의",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=384014833&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=58&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15... "
+		},
+		{
+			"title":"환경관련 자격증 응시자격 문의",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=280179081&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=59&search_sort=0&spq=0",
+			"description":"... ※ 산업위생관리산업기사에 응시할 수 있는 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원... "
+		},
+		{
+			"title":"산업안전기사 \/ 건설안전기사 응시 가능여부",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=237294865&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=60&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"산업안전산업기사 및 기사 질문 드립니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=207762451&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=61&search_sort=0&spq=0",
+			"description":"... 답변 - 기술,기능,<b>의료직무<\/b>분야의, 전경력은 모두 산업안전산업기사에 응시가 가능한 경력입니다. 대학교 4년제 태권도학과랑 생활체육학과 복수 전공으로는 산업안전산업기사 응시자격이 되지 않습니다. 운동처방사를... "
+		},
+		{
+			"title":"공조냉동기계 산업기사 및 전기 산업기사, 산업안전... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=200590826&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=62&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"전기산업기사 자격요건이 자세히 궁금해요~",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=371806922&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=63&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 건설 직무분야와 관련된 학과 광업자원 직무분야와 관련된 학과 기계 직무분야와 관련된 학과 재료 직무분야와 관련된 학과 화학 직무분야와 관련된 학과 섬유ㆍ의복 직무분야와 관련된... "
+		},
+		{
+			"title":"산업안전기사응시자격 전기기사있을때?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=406968418&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=64&search_sort=0&spq=0",
+			"description":"... 산업안전기사 응시자격 유사분야(경력,학과) 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와... "
+		},
+		{
+			"title":"산업안전산업기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=380095158&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=65&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 경력으로 인정되는 분야 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계 직무분야... "
+		},
+		{
+			"title":"영업 기획 <b>직무<\/b> 자격증 추천해주세요.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110704&docId=413249369&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=66&search_sort=0&spq=0",
+			"description":"영업 기획 <b>직무<\/b>를 희망하고있는 취준생입니다. 영업 기획 <b>직무<\/b>에 도움이 되는 자격증 중 컴활을 제외하고... 어느 분야의 영업기획을 생각하고 계신지에 따라 다르겠지만, 왠만한 제조사, 특히 <b>의료<\/b>기기나 화장품, 식품 분야의 영업은... "
+		},
+		{
+			"title":"물류학과 졸업 산업안전기사 자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=375704802&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=67&search_sort=0&spq=0",
+			"description":"... ※ 산업안전기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 (물류유통(과,정보과), 유통물류(과,전공,학부), 유통학과) - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14... "
+		},
+		{
+			"title":"소방설비기사(전기) 응시자격요건",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=263724880&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=68&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"산업안전산업기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=420269575&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=69&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 &lt;----- 산업공학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15... "
+		},
+		{
+			"title":"소방설비기사 자격요건 질문드려요..",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=11004&docId=371630766&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=70&search_sort=0&spq=0",
+			"description":"... ※ 소방설비기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 &lt;-- 관광경영학전공 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된... "
+		},
+		{
+			"title":"산업안전 산업기사 응시자격 문의드립니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=203402947&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=71&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"(소방설비)기사시험 응시자격에 관련된 군 주특기관련... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=235315141&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=72&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"소방설비기사 시험 응시자격이 안되는데 어떻게... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110503&docId=354847309&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=73&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"소방설비산업기사 자격증을 취득했는데요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=111&docId=367760996&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=74&search_sort=0&spq=0",
+			"description":"... ※ 소방설비기사에 응시 가능한 경력으로 인정되는 분야 (유사 직무 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계... "
+		},
+		{
+			"title":"정보통신공학과 4년제를 다니고있는데요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=10803&docId=367906799&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=75&search_sort=0&spq=0",
+			"description":"... ※ 산업위생관리기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15... "
+		},
+		{
+			"title":"산업안전산업기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=366971740&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=76&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 경력으로 인정되는 분야 (유사 직무 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야 - 14 건설 직무분야 - 15 광업자원 직무분야 - 16 기계... "
+		},
+		{
+			"title":"산업안전 산업기사 응시자격 있나요?",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=247485098&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=77&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"건설안전산업기사조건",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1118&docId=284280982&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=78&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"산업안전기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=362911906&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=79&search_sort=0&spq=0",
+			"description":"... ※ 산업안전기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원... "
+		},
+		{
+			"title":"산업안전기사 응시자격... 실무경력",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=165601002&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=80&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"산업위생안전산업기사 시험을 준비해보고",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=406&docId=321112450&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=81&search_sort=0&spq=0",
+			"description":"... 다른 분이 올린 글 중에 -06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 이라는 글이 있던데 방사선과 포함되나요?  안녕하세요! 평가인정 교육기관 현대사이버평생교육원 학습설계팀 에듀맨토 쏘이쌤입니다. 최단기간... "
+		},
+		{
+			"title":"공익 군경력 관련",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=4&dirId=40609&docId=351617459&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=82&search_sort=0&spq=0",
+			"description":"... (보건소로 배치되었는데 보건<b>의료직무<\/b>가 아닌 단순 &apos;행정보조&apos;로 민원실 복무지정 받음) 그러면 제가 화학 직무로서의 경력은 현역시절에 있던 6개월 뿐이고 산업기사의 지원조건은 기능사+1년이였기에 6개월이 부족했습니다.... "
+		},
+		{
+			"title":"보건관리학과면 산업안전기사 응시 못하",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=6&dirId=60803&docId=353769614&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=83&search_sort=0&spq=0",
+			"description":"... ※ 산업안전기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 &lt;-------- 보건관리학과, 보건관리학(과,전공) - 14 건설... "
+		},
+		{
+			"title":"기사자격증 자격요건",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=1&dirId=10406&docId=253864901&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=84&search_sort=0&spq=0",
+			"description":"... ※ 안전관리 유사 직무 분야 - 경영ㆍ회계ㆍ사무 중 - 생산관리 직무분야 - 보건․의료 중 - 보건․<b>의료 직무<\/b>분야 - 건설 직무분야 - 광업자원 직무분야 - 기계 직무분야 - 재료 직무분야 - 화학 직무분야 - 섬유ㆍ의복 직무분야... "
+		},
+		{
+			"title":"한국국제보건<b>의료<\/b>재단 면접 학원 추천해주세요",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=7&dirId=710&docId=424168279&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=85&search_sort=0&spq=0",
+			"description":"... 한국국제보건<b>의료<\/b>재단 면접학원은 공기업\/대기업\/금융권 취업을 위해 진로설정, <b>직무<\/b>분석, 기업분석, 자기소개서 작성, 면접준비까지 전반의 코칭을 받을 수 있습니다! 평가 기준을 이해하고 단계별 맞춤 과정을 거쳐 취준생들이... "
+		},
+		{
+			"title":"산업위생기사 시험자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=1122&docId=377657665&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=86&search_sort=0&spq=0",
+			"description":"... 산업위생기사 관련전공입니다 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과... "
+		},
+		{
+			"title":"산업안전산업기사 응시자격 중 관련학과 질문입니다~",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=387210275&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=87&search_sort=0&spq=0",
+			"description":"... 안녕하세요 평생교육원 학습설계팀 고은비입니다 산업안전산업기사 관련전공입니다 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설... "
+		},
+		{
+			"title":"산업기사, 기사 자격증 학은제",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113110&docId=376237512&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=88&search_sort=0&spq=0",
+			"description":"... 안녕하세요 평생교육원 학습설계팀 고은비입니다 건설안전산업기사 관련전공입니다 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설... "
+		},
+		{
+			"title":"산업위생관리기사 응시조건 문의합니다.",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=342764938&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=89&search_sort=0&spq=0",
+			"description":"... ※ 산업위생관리기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과... "
+		},
+		{
+			"title":"산업안전산업기사 취득관련학과질문",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=350167382&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=90&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과... "
+		},
+		{
+			"title":"산업경영학과도 응시할수 있는건가요??",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=342266094&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=91&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 &lt;------ 산업경영학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와... "
+		},
+		{
+			"title":"소방설비기사 응시자격 조건",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110503&docId=369305736&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=92&search_sort=0&spq=0",
+			"description":"... 소방설비기사 관련학과 입니다 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과... "
+		},
+		{
+			"title":"산업안전 산업기사 자격요건",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=339980485&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=93&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 관련학과 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와... "
+		},
+		{
+			"title":"산업안전 산업기사 응시자격",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=339541758&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=94&search_sort=0&spq=0",
+			"description":"... ※ 산업안전산업기사에 응시 가능한 관련학과 (유사 분야) - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원... "
+		},
+		{
+			"title":"산업안전산업기사",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=367437750&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=95&search_sort=0&spq=0",
+			"description":"... 산업안전 산업기사 관련전공입니다 - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된... "
+		},
+		{
+			"title":"국제<b>의료<\/b>관광코디네이터",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=7&dirId=710&docId=366906920&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=96&search_sort=0&spq=0",
+			"description":"... 출제기준(필기) <b>직무<\/b> 분야 보건․<b>의료<\/b> 중<b>직무<\/b>분야 보건․<b>의료<\/b> 자격 종목 국제<b>의료<\/b>관광코디네이터 적용 기간 2017. 1. 1. ～ 2020. 12. 31. ○<b>직무<\/b>내용 : 국제<b>의료<\/b>관광 코디네이터는 국제화되는 <b>의료<\/b>시장에서 외국인환자를 유치하고... "
+		},
+		{
+			"title":"가스기사 응시자격 관련학과.?&apos;",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110503&docId=314273214&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=97&search_sort=0&spq=0",
+			"description":"... 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된 학과 - 17 재료 직무분야와 관련된 학과 - 18 화학 직무분야와 관련된 학과 - 19 섬유ㆍ의복... "
+		},
+		{
+			"title":"소방설비산업기사 응시자격조건 소방설비",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=113103&docId=311506845&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=98&search_sort=0&spq=0",
+			"description":"... - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된... "
+		},
+		{
+			"title":"건설안전산업기사 자격증 따려는데... 응시 자격이... ",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110503&docId=311481288&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=99&search_sort=0&spq=0",
+			"description":"... - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된... "
+		},
+		{
+			"title":"산업위생관리산업기사 보니까 3년제졸업",
+			"link":"https:\/\/kin.naver.com\/qna\/detail.naver?d1id=11&dirId=110503&docId=311234079&qb=7J2Y66OMIOyngeustA==&enc=utf8&section=kin.qna&rank=100&search_sort=0&spq=0",
+			"description":"... - 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 06 보건․의료 중 061 보건․<b>의료 직무<\/b>분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 16 기계 직무분야와 관련된... "
+		}
+	]
+}

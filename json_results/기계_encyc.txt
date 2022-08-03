@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:08 +0900",
+	"total":104005,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070583&cid=40942&categoryId=32351",
+			"description":" 다수의 부품으로 구성된 것으로 일정한 상대운동에 의해 유용한 일을 하는 동적 장치를 가리킨다. 최초의 <b>기계<\/b>는 제분기에서 시작하였다. 오늘날에는 원동기, 작업기, 전달장치의 3가지로 크게 구분이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_16\/20180828130607836_X7FXPPYJ1.jpg\/52136.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1690776&cid=41908&categoryId=41930",
+			"description":"<b>기계<\/b>란 무엇인가에 대한 완전한 정의는 존재하지 않지만, 일반적으로는 &quot;저항이 있는 물체의 조합에 의해 역학적인 운동이나 작업을 행하는 것&quot;이라는 정의가 채용되고 있다. 맑스는 역사적인 관점의 중요성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070582&cid=40942&categoryId=31738",
+			"description":" 전쟁 중인 군대가 작전행동상의 이익을 얻기 위하여 적을 과오에 빠뜨릴 목적으로 쓰는 술책.  전시모계(戰時謀計)라고도 한다. 부대가 이동한 것처럼 보이게 한다든지, 복병을 매복시키거나, 퇴각을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=726615&cid=42140&categoryId=42140",
+			"description":"<b>기계<\/b>의 예를 들면 복병, 가장의 공격ㆍ퇴각, 허위의 신호와 보도의 유포, 미끼, 양동작전 및 거짓정보의 사용이다(제1추가의정서 37조 2항). 배신행위의 예로서 들 수 있는 것은 (1) 국제법상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=446077&cid=42876&categoryId=42876",
+			"description":"일반적으로 실내에서 쓸 수 있는 소형의 <b>기계<\/b>라든가 주로 동력부(動力部)가 없는 커다란 도구라는 뜻으로 <b>기계<\/b>라는 말이 쓰여지며, 원동(原動)•전도(傳導)•작업의 3기구로 구성되는 <b>기계<\/b>(機械), 구조나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2388370&cid=51280&categoryId=51352",
+			"description":"<b>기계<\/b> ─ 산문시 국판(菊判) 8페지 ─ 통이나 발채나 낡을대로 낡은 이것이 내가 부리는 <b>기계<\/b>다. 나는 날삯 팔십전을 받으려고 아침 일곱시 반에 벤또를 끼고 와서 판을 실고 잉크를 붓고 무릎 살죽바탕……에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=778779&cid=42085&categoryId=42085",
+			"description":"<b>기계<\/b>는 노동수단의 일종이지만 같은 노동수단인 도구와는 구별된다. <b>기계<\/b>의 출현은 대체로 산업혁명과 함께 시작되었는데 그것은 매뉴팩쳐와는 구별되는 공장(factory)이라는 새로운 작업장을 출현케 했다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2180907&cid=41978&categoryId=41985",
+			"description":"가타리는 <b>기계<\/b> 개념을 라캉의 구조 개념에 대해 공격하면서 제시한다. 모든 주체적 움직임을 틀지우는 구조 개념에 대항하여, 가타리는 이른바 ‘구조’라고 하는 것은 사실상 다양한 부품들이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=342964&cid=44616&categoryId=44616",
+			"description":"(1) <b>기계<\/b>는 어떤 에너지의 공급을 받아 이것을 전달하고, 어떤 정해진 <b>기계<\/b>적 일을 한다. (2) <b>기계<\/b>는 허용 이하의 힘의 작용을 받아도 파괴되지 않는다. 또 쉽게 변형되지 않는 몇 개의 부분의 조합으로 이루어져... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2537_000_1\/20130723105752442_ZXXI89MKZ.jpg\/i352.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=923120&cid=47326&categoryId=47326",
+			"description":"일반적으로 <b>기계<\/b>는 크게 원동기, 작업기, 전달 장치 등 세 가지로 구분된다. 원동기는 여러 가지 형태의 에너지를 유효한 <b>기계<\/b>적 에너지로 바꾸는 것으로 수차, 풍차, 증기 기관, 전동기, 가솔린 기관 등이 여기에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1918269&cid=50321&categoryId=50321",
+			"description":"<b>기계<\/b>환경공학용어사전 저항을 가진 물체의 조합으로 이루어지며, 그 각부는 움직임이 한정되어 일정한 상호 운동을 한다. 동력원에서 동력의 공급을 받아 유효한 일을 실행할 수 있는 장치를 말한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=842825&cid=42346&categoryId=42346",
+			"description":"물리적 장치란 사람이 보거나 만질 수 있는 <b>기계<\/b>적인 장치, 전기적인 장치, 전자적인 장치이며 이에 관해서 튜링 <b>기계<\/b>와 같은 수학적·추상적인 장치도 있다. 수학적 <b>기계<\/b>는 내부에 프로그램을 내장한 컴퓨터의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2390779&cid=50762&categoryId=51387",
+			"description":"동력으로 움직여 일정한 일을 할 수 있도록 고안된 도구나 장치(대상 21:23). 성경에서는 곡식을 떠는 탈곡기(대상 21:23), 돌과 화살을 발사하는 거대한 노포(쇠뇌, 여러 개의 화살을 동시에 발사할 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=396683&cid=42441&categoryId=42441",
+			"description":"<b>기계<\/b>의 정의에 관해서는 학자에 따라서 다소의 차이는 있으나 다음과 같이 설명할 수가 있으며 <b>기계<\/b>를 구성하고 있는 부분을 <b>기계<\/b>부분 또는 <b>기계<\/b>부품이라고 한다. ① <b>기계<\/b>는 힘의 작용을 받아도 파괴되지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=658654&cid=46618&categoryId=46618",
+			"description":" 경상북도 포항 지역의 옛 지명. [내용] 본래 신라의 모혜현(芼兮縣, 또는 化鷄縣)이었는데, 경덕왕 때 <b>기계<\/b>현으로 고치고 의창군(義昌郡)의 영현(領縣)으로 하였다. 고려 현종 때 경주에 예속된 뒤 조선... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6053504&cid=67350&categoryId=67350",
+			"description":"[재료 및 시공] 다수의 부품으로 구성된 것으로 일정한 상대운동에 의해 유용한 일을 하는 동적 장치를 가리킨다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=84655&cid=41826&categoryId=41826",
+			"description":"①관청이나 군영 소유의 기구(器具)나 병기(兵器) 등의 총칭. ②자주적(自主的)인 정신이 없음을 지칭하는 용어.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=84654&cid=41826&categoryId=41826",
+			"description":"숨을 내쉬는 목구멍. 또는 목줄 띠. [유사어] 기도(氣道).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=22230",
+			"description":"〔상대운동〕 마이크로일렉트로닉스가 발달하고, 컴퓨터 기술이 전전한 오늘날에는 추론(推論)이나 학습 의 기능을 가진 인공지능을 <b>기계<\/b>에 짜넣어, 위의 모든 기능을 가지는 <b>기계<\/b>를 만드는 것도 실혈될 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3014_000_1\/20140408170547587_3Q0RELP3O.jpg\/20100807_Dfv6MUO.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>\/자동차\/금속",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=42323",
+			"description":"금속용어사전, <b>기계<\/b>공학용어사전, 남북철도용어 비교 사전, 내 차 사용설명서, 도금기술 용어사전, 도해 <b>기계<\/b>용어사전, 보일러용어사전, 선박항해용어사전, 에코드라이브 365일, 섀시는 이렇게 되어 있다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 교통과 <b>기계<\/b>류",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49013",
+			"description":"도로교통, 해상운송, 항공교통, 운반, 중장비.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%B0%EA%B3%84",
+			"description":"<b>기계<\/b> (機械) 또는 기기 (器機)는 동력을 사용하여 작업을 수행하는 도구를 통틀어 이르는 말이다. 역사 단순한 <b>기계<\/b>의 개념은 기원전 3세기 경 그리스의 철학자 아르키메데스와 함께 기원하였으며, 그는 단순한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=440219",
+			"description":"짜증나고 힘든 <b>기계<\/b> 설계 ㅎ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=100101",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"도구",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3547581&cid=58583&categoryId=58594",
+			"description":"기구] 器 그릇 기, 具 갖출 구 간단하게 다룰 수 있는 온갖 물건, 도구, <b>기계<\/b> 등을 통틀어 이르는 말이에요. 아령은 팔의 힘을 기르는 운동 기구입니다. [ 3. <b>기계<\/b>] 機 틀 기, 械 <b>기계<\/b> 계 사람을 대신해서 일을 하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_3\/20170116152955673_ZWD075I9S.jpg\/382_116454_18570.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1529686&cid=60657&categoryId=60657",
+			"description":"<b>기계<\/b>는 다수의 부품으로 구성된 것으로 일정한 상대운동에 의해 유용한 일을 하는 동적(動的) 장치를 의미한다. 외부의 힘에 저항할 수 있는 물체를 짜 맞추어, 동력으로써 일정한 운동을 일으켜 유용한 일이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2165446&cid=60556&categoryId=60556",
+			"description":"작품소개 1회는 《조선문학》 1947년 12월호에, 2회는 1948년 4월 《문학예술》 창간호에 수록되었으며 전체 2회로 중단되었다. 2회 연재분은 ‘해방전(解放前)’이라는 소제목으로 시작하여 4장부터 6장까지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2798737&cid=55598&categoryId=55598",
+			"description":"바둑을 즐기는 사람들의 세계. 애기가(愛棋家) 또는 아마추어, 전문기사를 통틀어 바둑으로 이루어진 사회.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=342981&cid=50321&categoryId=50321",
+			"description":"<b>기계<\/b> 또는 <b>기계<\/b> 장치의 총칭.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>·<b>기계<\/b>적",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=387548&cid=41978&categoryId=41985",
+			"description":"<b>기계<\/b>는 인간이 도구를 사용하여 수공적으로 행하여 온 노동 대상의 가공을 인간의 손을 거치지 않고 진행하면서 노동 생산성을 현저히 향상시켰다. 18세기 영국의 산업혁명은 '손가락을 사용하지 않고 실을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>로",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%B0%EA%B3%84%EB%A1%9C",
+			"description":"<b>기계<\/b>로 (Gigye-ro)는 대한민국의 경상북도 포항시 북구 <b>기계<\/b>면 중심부를 연결하는 도로이다. 노선 경로 삼거리 명칭 미상 국도 제31호선 (새마을로) 교량 명칭 미상 익산포항고속도로 교량 명칭 미상 삼거리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>면",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%B0%EA%B3%84%EB%A9%B4",
+			"description":"<b>기계<\/b>면 (杞溪面)은 경상북도 포항시 북구의 면이다. <b>기계<\/b>면은 포항시에서 청송군과 안동시 등 북부 내륙 지방으로 통하는 국도 제31호선 길목에 위치하였으며, 영천시 임고면과 마주보고 있다. 비학산... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070591&cid=40942&categoryId=31500",
+			"description":" 모든 사상을 <b>기계<\/b>적 운동으로 환원해서 설명하려는 입장.  철학용어에서는 목적론과 대립된다. 하느님이 세계를 창조하였을 당시 지니고 있던 목적을 알 수 있다고 생각하거나 사물이 인간을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>면",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070593&cid=40942&categoryId=37713",
+			"description":"<b>기계<\/b>현의 지역이었으나 고려시대에 경주의 속현이 되고, 조선시대에 <b>기계<\/b>면이 되었으며, 1895년(고종 32) 흥해군(興海郡)에 편입되었다가 1914년 군·면 폐합에 따라 영일군에 병합되었고, 1995년 1월 시군... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_25\/20180917194755965_KB0YYUM0D.jpg\/33001.jpg?type=m160_160"
+		},
+		{
+			"title":"공작<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063623&cid=40942&categoryId=32353",
+			"description":" 주조, 단조 등으로 만든 <b>기계<\/b>부품을 가공하는 <b>기계<\/b>로 <b>기계<\/b>공업의 기초가 되는 <b>기계<\/b>이다. 19세기 중에 대부분의 공작<b>기계<\/b>가 발명되었으며, 20세기에는 성능향상이 이루어져 수치제어 공작<b>기계<\/b> 등이 제조되었다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_20\/20180913194724503_D9ZIR6JFG.jpg\/28639.jpg?type=m160_160"
+		},
+		{
+			"title":"수력<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1115189&cid=40942&categoryId=32354",
+			"description":" 흐르고 있는 액체가 가지고 있는 에너지를 <b>기계<\/b>적인 일로 변환시키는 <b>기계<\/b>와 <b>기계<\/b>적인 일을 액체의 에너지의 증가로 변환시키는 <b>기계<\/b>.  액체로서는 물의 경우가 많으므로 수력<b>기계<\/b>라고 하지만, 물뿐 아니라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>번역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070596&cid=40942&categoryId=32837",
+			"description":"완전 자동형 <b>기계<\/b> 번역, 인간 원조형 <b>기계<\/b> 번역, <b>기계<\/b> 원조형 인간 번역 등으로 분류할 수 있는데, 번역을 할 때에 인간과 <b>기계<\/b> 중 어느 쪽에 얼마만큼 의존하는지에 따라 나누어진다. <b>기계<\/b>번역은 현재 완전하게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유체<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1264675&cid=40942&categoryId=32335",
+			"description":" 유체(액체, 기체)를 작동물질로 하여, 유체가 가지고 있는 에너지를 <b>기계<\/b>적 에너지로 변환하거나, <b>기계<\/b>적 에너지를 유체적 에너지로 변환하여 사용하는 <b>기계<\/b>.  <b>기계<\/b>와 유체 사이에서 에너지를 주고 받는 <b>기계<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070587&cid=40942&categoryId=32351",
+			"description":" <b>기계<\/b> 및 관련장치 설비의 설계, 제작, 성능, 이용, 운전 등에 관하여 기초적 또는 응용적 분야를 연구하는 공학이다. 기초적 분야에는 재료역학, 재료학, <b>기계<\/b>역학, 기구학, 유체역학, 열역학 등이 있다. 응용적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>공작",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070586&cid=40942&categoryId=32351",
+			"description":" <b>기계<\/b>를 구성하는 여러 재료가 가지고 있는 성질을 이용해 그것에 열을 가하거나 <b>기계<\/b>적인 힘을 가하여 모양을 바꾸거나 <b>기계<\/b>적 성질을 바꾸어 원하는 형상, 치수로 가공하는 일이다.  금속재료의 가공에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"섬유<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112370&cid=40942&categoryId=32354",
+			"description":" 섬유공업에 쓰이는 <b>기계<\/b>.  섬유<b>기계<\/b>에는 원료섬유에 쓰이는 <b>기계<\/b>로 면화로부터 씨앗과 솜을 분리하는 조면기(繰綿機), 마(麻)에서 섬유를 빼는 <b>기계<\/b>, 펄프로부터 레이온을 만들거나 고분자물질로 합성섬유를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수산<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1115384&cid=40942&categoryId=31882",
+			"description":" 수산업에 직접 이용되는 <b>기계<\/b>류.  어업<b>기계<\/b>·증식<b>기계<\/b>·제조<b>기계<\/b>로 크게 나눈다. ① 어업<b>기계<\/b>:어선에 설비하여 어구를 조작하는 것으로 어획의 증대를 꾀하는 것, 또 그 자체가 어구인 것을 포함한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>날염",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070588&cid=40942&categoryId=32403",
+			"description":" <b>기계<\/b>작업으로 하는 날염으로 작업을 신속하게 하고 많은 양의 날염 천을 생산하기 위하여 사용한다. 사용하는 <b>기계<\/b>의 형태에 따라 롤러 날염·자동 스크린 날염·<b>기계<\/b> 블록 날염·전사 날염·표면 날염 등으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1108604&cid=40942&categoryId=32433",
+			"description":" 각종 산업의 생산공정상 사용되는 <b>기계<\/b>.  다음과 같은 <b>기계<\/b>를 가리킨다. 풍수력<b>기계<\/b>(風水力機械:압축기 ·송풍기 ·펌프 등), 광산<b>기계<\/b>(鑛山機械:착암기 ·콜커터 등), 토목 ·건설<b>기계<\/b>(굴착기 ·건설용 트랙터 등)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_22\/20180916194235002_ZW8Z9Z8S7.jpg\/24990.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>공업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070585&cid=40942&categoryId=31898",
+			"description":" 산업용에서부터 가정용까지 모든 <b>기계<\/b>와 그 부품을 만드는 공업 부문으로, 모든 산업에서 <b>기계<\/b>가 중요한 역할을 하고 있기 때문에 기간산업에 속한다.  광공업 ·건설업 ·농림수산업 ·전력 등의 생산활동을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_374\/20210408061132861_CE5ZODEJJ.jpg\/11872367.jpg?type=m160_160"
+		},
+		{
+			"title":"임업<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1136950&cid=40942&categoryId=32351",
+			"description":" 각종 산림사업에 사용되는 <b>기계<\/b>류.  임업<b>기계<\/b>는 작업조건이 나쁜 산악지역에서 주로 사용되기 때문에 가능한 한 가볍고 크기가 작은 반면에 힘이 세고 튼튼하여야 한다. 선진국에서는 임금상승 및 노동력... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광산<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1064932&cid=40942&categoryId=32351",
+			"description":" 광산, 탄광, 유전 등에서 사용되는 <b>기계<\/b>류의 총칭이다. 광산은 폭이 좁고 조건이 나쁘기 때문에 광산<b>기계<\/b>는 구조가 간단하고 고장이 작으며, 소형이어야 한다.  좁은 의미로는 광산 특유의 <b>기계<\/b>류만을 말한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공작<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2717994&cid=55589&categoryId=55589",
+			"description":" 산업혁명의 초기에는 <b>기계<\/b>가 해당 공장에서 직접 제작되었지만, 점차적으로 <b>기계<\/b>를 제작하는 산업이 독립적인 영역으로 발전하였다. 여기에는 공작<b>기계<\/b>산업의 아버지로 불리는 모즐리의 역할이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3864_000_1\/20150424120221550_DPPUS7Q2F.jpg\/da8_6_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>보험",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070597&cid=40942&categoryId=31831",
+			"description":" <b>기계<\/b>에서 일어나는 손해를 전보하는 보험.  기관보험(汽罐保險)이라고도 하는 손해보험으로 1859년에 영국에서 시작되었다. 한국에서는 1962년 충주비료가 기관·<b>기계<\/b>보험을 가입한 것이 처음이다. 처음에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>편물",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070628&cid=40942&categoryId=32093",
+			"description":" <b>기계<\/b>의 힘을 이용한 뜨개질.  손으로 뜨는 수편(手編)에 대응하는 말이다. <b>기계<\/b>편물기는 직업용 <b>기계<\/b>와 가정용 수편기로 나뉜다. 직업용 <b>기계<\/b>는 수동식과 동력식이 있고, 동력식에 횡편기(橫編機) ·환편기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농업<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1077761&cid=40942&categoryId=31871",
+			"description":" 농업을 수행하는 데 필요한 모든 <b>기계<\/b>.  작물 ·채소 ·과일 ·누에 ·축산 ·시설농업 등에 직접 관여하는 <b>기계<\/b>와 생산 후에 가공처리 등에 관여되는 모든 <b>기계<\/b>가 농업<b>기계<\/b>에 포함된다. 편의상 농작업을 직접... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_27\/20180918194531050_Q7IZGN6US.jpg\/28729.jpg?type=m160_160"
+		},
+		{
+			"title":"사무<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107299&cid=40942&categoryId=32433",
+			"description":" 사무를 능률화하고 합리화하기 위해 사용되는 <b>기계<\/b>.  타자기·복사기·인쇄<b>기계<\/b>·마이크로사진기·시간기록<b>기계<\/b>(타이머 등)·연락<b>기계<\/b>(인터폰 등)·정리<b>기계<\/b>(스테이플러 등)·계산<b>기계<\/b>·금전등록기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_43\/20181008194647550_RBY91FYOT.jpg\/28536.jpg?type=m160_160"
+		},
+		{
+			"title":"공작<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2061059&cid=50305&categoryId=50305",
+			"description":"산업 현장의 기본이 되는 <b>기계<\/b>로 자동차 부품가공, 금형가공, 연삭 등에 주로 사용된다. 주요 제품으로 선반·밀링·머시닝 센터 등이 있다. 이들 공작<b>기계<\/b>에 수치제어장치(NC) 서버모터 등을 장착한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>설계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070599&cid=40942&categoryId=32352",
+			"description":" 어떤 목적을 가진 <b>기계<\/b>장치를 만들어내는 데 필요한 모든 조건을 생각하고, 그것에 따라서 실제로 <b>기계<\/b>를 만들어내는 데 기본이 되는 설계이다. 제일 처음에는 사용목적을 정하고, 이것에 맞는 <b>기계<\/b>의 크기를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"튜링<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1153693&cid=40942&categoryId=32335",
+			"description":" 영국의 수학자인 A.M.튜링에 의해 고안된 가상의 자동<b>기계<\/b>.  튜링은 1936년 발표한 논문에서 추상적인 <b>기계<\/b>(이론상의 계산<b>기계<\/b>)를 정의하였는데, 이 <b>기계<\/b>는 유한상태의 <b>기계<\/b>로서 테이프를 가지고 있고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정밀<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1140423&cid=40942&categoryId=32354",
+			"description":" 정밀도가 높고 오차의 범위가 극히 작은 <b>기계<\/b>.  모양의 대소에 관계없이 대포와 같은 큰 것이라도 정밀도가 높은 것은 정밀<b>기계<\/b>이고, 시계와 같이 작아도 정밀도가 낮은 것은 정밀<b>기계<\/b>가 아니다. 일반적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"굴착<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1067935&cid=40942&categoryId=32344",
+			"description":" 땅이나 암석을 파거나 뚫을 때 사용하는 <b>기계<\/b>를 말한다.  땅이나 암석에 구멍을 뚫는 것으로, 대표적인 굴착<b>기계<\/b>에는 터널 굴착<b>기계<\/b>(TBM:Tunnel Boring Machine)와 관정굴착<b>기계<\/b>(管井掘鑿機械)가 있다. 터널... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_22\/20180916194235002_ZW8Z9Z8S7.jpg\/24990.jpg?type=m160_160"
+		},
+		{
+			"title":"띠톱<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1262856&cid=40942&categoryId=32353",
+			"description":" 띠 모양의 톱을 회전시켜 재료를 절단하는 공작<b>기계<\/b>.  양쪽 끝이 없는 고리 모양의 톱을 회전시켜 목재 또는 금속 재료의 절단 작업을 하는 공작<b>기계<\/b>이다. 목공용과 금속 절단용이 있으며, 얇은 톱날을 사용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437004&cid=42279&categoryId=42279",
+			"description":" <b>기계<\/b>대장이란 <b>기계<\/b>에 대한 전반적인 사항을 기재한 서식이다.  <b>기계<\/b>대장이란 공장 내에 작동 중이거나 보유 중인 각 <b>기계<\/b>에 대한 전반적인 사항을 기재한 서식을 말한다. <b>기계<\/b>대장을 작성할 때에는 <b>기계<\/b>명... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902180608375_92OYHBFX4.jpg\/hb10_72465_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>예술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070605&cid=40942&categoryId=33048",
+			"description":" <b>기계<\/b>의 합리성·기능성에서 나온 조형미를 주장하는 예술.  1934년 뉴욕현대미술관에서 열린 '<b>기계<\/b>미 전시회'를 계기로 미술의 한 장르를 이루었다. 본래 <b>기계<\/b>란 미적인 표현과는 관계없이 설계·제작되었으나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"낙농<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1074517&cid=40942&categoryId=31871",
+			"description":" 낙농에 사용되는 <b>기계<\/b>.  유업용(乳業用)뿐 아니라 농장 등의 시설에 사용되는 <b>기계<\/b>도 포함된다. 착유기(搾乳機), 우유냉각 저장기, 우유 살균기, 목초의 세단(細斷) ·저장 ·반출입용 하베스터, 축사 내의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>효율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070634&cid=40942&categoryId=32351",
+			"description":" 다양한 <b>기계<\/b>에서 일을 하기 위해 발휘하는 힘 중의 몇 %가 실제로 이용되는지를 알려 주는 값이다. 이때 힘의 단위로는 마력을 사용한다. MU(machine utilization)은 <b>기계<\/b>의 유효한 활용정도를 표시한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목공<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1093978&cid=40942&categoryId=32353",
+			"description":" 목재의 절삭 ·절단 ·구멍뚫기 ·홈파기 등의 목재를 가공하는 <b>기계<\/b>.  제재(製材) 및 각종 목재가공에 사용되며, 그 종류와 형식에는 목공선반, 띠톱<b>기계<\/b>, 둥근톱<b>기계<\/b>, 실톱<b>기계<\/b>, <b>기계<\/b>대패, 루터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"분자<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3580957&cid=58949&categoryId=58983",
+			"description":"Copyright: Nobel Media AB 2016&#62; “전자 현미경으로나 볼 수 있는 아주 작은, 하지만 명확하게 작동하는 <b>기계<\/b>를 만들 수 있을까요? 그런 <b>기계<\/b>는 유용할 수도 있고 그렇지 않을 수도 있지만, 적어도 그런... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118194319744_BYTV39589.jpg\/1_18.jpg?type=m160_160"
+		},
+		{
+			"title":"갑판<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1056810&cid=40942&categoryId=32419",
+			"description":" 배의 추진과 직접 관계가 없고, 기관실에 설치되어 있지 않은 보조<b>기계<\/b>.  갑판보조기라고도 한다. 하역<b>기계<\/b>(윈치·크레인 등)·계선기·캡스턴·양묘기(揚錨機)·조타기·구명정이나 트랩을 올리고 내리는 <b>기계<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>체조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=551210&cid=46667&categoryId=46667",
+			"description":" <b>기계<\/b>를 매개로 행하는 운동. [내용] <b>기계<\/b>를 이용하여 신체의 안정성·난이도·우아함·독창성 등을 동작으로 나타내는 경기이다. <b>기계<\/b>는 인간생활의 역사 중 여러 가지 기회로 시작되었다. 또한 체육인에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_15\/20181029195822229_21T88HY7Z.jpg\/17ba317d-352b-4a.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>용어",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1264605&cid=40942&categoryId=32335",
+			"description":" <b>기계<\/b> 분야의 기술자가 사용하는 보편적인 전문용어를 총칭하는 말.  <b>기계<\/b>용어 중에는 KS규격이나 ISO규격에 의하여 정해져 있는 용어, 공학계 전문도서에서 다루어지고 있는 학술용어, <b>기계<\/b>의 설계·제조... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>공업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=551206&cid=46631&categoryId=46631",
+			"description":" 산업용에서부터 가정용에 이르는 <b>기계<\/b>와 그 부품을 만드는 제조업의 총칭. [내용] <b>기계<\/b>공업의 범위를 규정하기는 어려우나 ‘한국표준산업분류’에 따르면 조립금속제품·일반<b>기계<\/b>·전기 및 전자기기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20190629012343124_VOJ5AS5NR.jpg\/39d39c1a-8e7c-44.jpg?type=m160_160"
+		},
+		{
+			"title":"번역<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1100699&cid=40942&categoryId=32828",
+			"description":" 한 나라의 언어로 씌어 있는 문장이나 말을 다른 나라의 언어(문장 또는 말)로 번역하는 <b>기계<\/b>로, 1946년 영국의 A.D.부스가 최초로 제안하였다. 컴퓨터의 기억장치에 사전이나 문법서를 기억시킨 후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>시대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070600&cid=40942&categoryId=31611",
+			"description":" 산업혁명의 결과 18세기 중엽 이후에 나타난 현상으로 사회의 전반적 구조를 <b>기계<\/b>가 지배하는 시대.  산업의 압도적인 부분을 <b>기계<\/b>가 떠맡고, 거대한 노동인구를 농촌에서 도시로 집중시켜 인간의 생활양식을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>도장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6414461&cid=68110&categoryId=68110",
+			"description":"손으로가 아니라 <b>기계<\/b>로 칠하는 일",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917545&cid=44346&categoryId=44346",
+			"description":"[학과개요] 사람의 힘으로만 할 수 있는 것도 있지만 <b>기계<\/b>를 이용할 때 훨씬 수월한 것들이 있죠? <b>기계<\/b>는 복잡한 <b>기계<\/b>장치뿐만 아니라 지렛대, 도르래 등을 포함하기도 합니다. <b>기계<\/b>는 여러 에너지를 <b>기계<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운반<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1130765&cid=40942&categoryId=32351",
+			"description":" 무거운 물건을 들어올리거나 이동시켜서 운반하는 <b>기계<\/b>.  넓은 뜻으로 잭 ·윈치 ·호이스트 ·크레인 ·엘리베이터 등은 물건을 올리는 <b>기계<\/b>로서 분류하고, 컨베이어 ·삭도(索道) ·트럭 ·카덤퍼 등을 좁은 뜻의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_14\/20180802183002635_D9Z6Y1BGC.jpg\/338347.jpg?type=m160_160"
+		},
+		{
+			"title":"수압<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1115563&cid=40942&categoryId=32354",
+			"description":" 높은 수압의 큰 힘을 이용해서 여러 가지 가공을 하는 <b>기계<\/b>.  가는 플런저(plunger)를 삽입한 실린더와 굵은 플런저를 삽입한 실린더를 파이프로 연결한 다음, 실린더 안에 물 또는 기름을 가득 채우고, 가는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생력<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1170295&cid=40942&categoryId=32351",
+			"description":" 노동력 부족 또는 그에 따른 인건비의 앙등이나 급속하게 발전한 전자응용 기술을 기반으로 해서 등장한 <b>기계<\/b>.  전자기술과 <b>기계<\/b>기술을 결합하여 인력을 줄일수 있도록 고안된 시스템 <b>기계<\/b>이다. 구체적으로는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>배수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6414466&cid=68110&categoryId=68110",
+			"description":"고인 물이나 지하수를 양수기와 같은 <b>기계<\/b>를 써서 물을 빼는 일",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>요소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070606&cid=40942&categoryId=32351",
+			"description":" <b>기계<\/b>를 구성하고 있는 단위부품이다. 결합용 요소, 전동 요소, 축계 요소, 운동조정용 요소로 구성된다.  <b>기계<\/b>는 복잡해 보이나 세분해 보면 비교적 간단한 <b>기계<\/b>요소인 부품의 결합으로 되어 있다. <b>기계<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_25\/20180917200225149_95CKA5BOX.jpg\/58287.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=551207&cid=46637&categoryId=46637",
+			"description":" <b>기계<\/b> 및 이에 관련되는 장치설비의 설계·제작·운전 등에 대하여 기초 및 응용 분야를 연구하는 학문. [내용] 여기서 <b>기계<\/b>라 함은 저항력을 가진 다수의 부품으로 구성되는 것으로, 그 각 부분 사이에 일정한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110796&cid=50765&categoryId=50778",
+			"description":"(1) 모든 생성 변화를 물질적 <b>기계<\/b>적인 법칙에 따라 설명하려는 이론. <b>기계<\/b>적 자연관, <b>기계<\/b>론적 세계관 등으로도 표현된다. (2) 철학용어에서는 <b>기계<\/b>론이란 세계의 모든 현상을 <b>기계<\/b>적 운동으로 환원해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2307896&cid=60227&categoryId=60227",
+			"description":"전<b>기계<\/b>에는 절대 측정용의 절대 전<b>기계<\/b>(英 absolute electrometer), 4상한형의 고정 전극 내에서 가동 전극의 회전을 보는 상한(象限) 전<b>기계<\/b>, 금속박의 반발 이동을 보는 박(箔)전<b>기계<\/b>(박검전기라고도 한다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1620299&cid=50333&categoryId=50333",
+			"description":"<b>기계<\/b>실IT용어사전 컴퓨터가 설치되어 있는 장소나 방. 특히 중형 이상의 컴퓨터는 환경 조건 때문에 특별한 컴퓨터 전용실이 필요하다. 일반적인 <b>기계<\/b>실의 환경 조건으로는 온도가 23℃ 내외이고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>면",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1983958&cid=43740&categoryId=44171",
+			"description":"<b>기계<\/b>면은 <b>기계<\/b>현의 중심지가 현내리에 있었기 때문에 붙은 이름이다. 『삼국사기지리지』에 <b>기계<\/b>현의 원래 이름은 모혜현(芼兮縣) 또는 화계현(化谿縣)인데, 경덕왕 때 <b>기계<\/b>현으로 고쳤다고 나온다. 이후... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2355_000_1\/20130207125503801_TL8VXDKIM.jpg\/762_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=387549&cid=41978&categoryId=41985",
+			"description":"<b>기계<\/b>론은 많은 점이 유물론과 유사한 면이 있지만(☞ <b>기계<\/b>론적 유물론), <b>기계<\/b>론의 적용을 자연계 내지 현상계에만 한정 짓는 칸트, <b>기계<\/b>론을 목적론에 종속시켜 양자(兩者)의 조화를 꾀한 라이프니츠는 과학적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한화<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=650350&cid=43167&categoryId=43167",
+			"description":" 베어링과 정밀공작<b>기계<\/b> 제조업체로 1998년 (주)한화에 흡수합병되어 한화테크엠(주)가 되었다.  한화<b>기계<\/b>의 시초는 1953년 세워진 신한베어링(주)이다. 1964년 한화그룹에 인수되어 한국베어링(주)으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=431154&cid=60261&categoryId=60261",
+			"description":"<b>기계<\/b>론은 여러 가지 다른 의미로 사용되지만, 생명론으로서는 보통생기론과 대립되는 것으로 생각된다. 역사적으로는 우선, (1) 고전물리학에서의 역학의 원리에 의한 생명현상의 설명이다. 생물을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>실",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6053474&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] <b>기계<\/b>실(機械室)은 건물에서 사용되는 각종 <b>기계<\/b> 장치 및 이와 관련된 전기 장비를 설치하거나 수도(물), 가스 등을 공급, 제어하는 방이며, 보일러 등 건물의 난방 장치가 보관되어 있기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5823970&cid=65669&categoryId=65669",
+			"description":"<b>기계<\/b>비는 <b>기계<\/b>를 운용하는데 소요되는 경비로서 계산방법은 경영분석방법에 따라 차이가 있을 수 있으나 감가상각비, <b>기계<\/b>구입에 따른 투자액에 대한 자본이자, 각종 보험 및 세금, 연료비, 윤활유비용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>조직",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070622&cid=40942&categoryId=32319",
+			"description":" 외부의 <b>기계<\/b>적인 힘 대해 조직을 견고하게 유지하는 힘을 가진 조직이다. <b>기계<\/b>적 조직이라고도 하며 원형질을 상실하고 목질화되기도 한다.  <b>기계<\/b>적 조직이라고도 한다. 조직발생학적 기원의 차이에도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070620&cid=40942&categoryId=32351",
+			"description":" <b>기계<\/b>의 조립도나 부품도를 표준화된 표시방법으로 그리는 일이다. 국제표준화기구에서 정한 제도방식에 따르는 방법이다.  <b>기계<\/b>는 여러 개의 복잡한 부품으로 이루어져 있으며 또 그 제조과정에는 많은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=510223&cid=42126&categoryId=42126",
+			"description":"모든 현상은 <b>기계<\/b>적 원리, 즉 물질의 운동과 그 법칙으로 설명될 수 있다는 주장. 우주는 마치 하나의 거대한 <b>기계<\/b>와 같아서 어느 한 부분의 기능이 다른 부분과의 관계에서 자동적으로 움직여 간다는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>실",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%B0%EA%B3%84%EC%8B%A4",
+			"description":"<b>기계<\/b>실 (機械室)은 건물에서 사용되는 각종 <b>기계<\/b> 장치 및 이와 관련된 전기 장비를 설치하거나 수도(물), 가스 등을 공급, 제어하는 방이며, 보일러 등 건물의 냉·난방 장치도 가동되기 때문에 보일러실 을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>펄프",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070627&cid=40942&categoryId=31893",
+			"description":" 목재를 원료로 하여 <b>기계<\/b>적 작용만으로 만들어진 펄프.  쇄목기(碎木機)에 의해 통나무로부터 만드는 쇄목펄프와, 목재를 작은 조각으로 만든 칩을 리파이너로 처리하여 만드는 리파이너펄프가 있다. 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>문명",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070594&cid=40942&categoryId=31611",
+			"description":" 산업혁명 이후 수공업 생산에 대신하여 <b>기계<\/b>를 이용하여 생산을 하게 된 근대 자본주의 사회가 이룩한 문명의 한 분야.  이 사회에서는 <b>기계<\/b>를 매개로 하는 인간의 의사소통, 즉 매스커뮤니케이션의 발달이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=343205&cid=50321&categoryId=50321",
+			"description":"<b>기계<\/b>적(機械的), <b>기계<\/b>학적(機械學的), 역학적(力學的)",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>기계<\/b>식",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2464406&cid=51399&categoryId=51399",
+			"description":"전원, 분무량 등을 <b>기계<\/b>식 버튼이나 다이얼을 돌려서 조절하는 방식으로 전자식에 비해 가격이 저렴한 편입니다. <b>기계<\/b>식",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_4\/20150319101543577_R5LNQD94T.jpg\/fh2_55004838_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=788528&cid=50321&categoryId=50321",
+			"description":"사람의 손 대신 <b>기계<\/b>를 사용하여 작업능률(作業能率)을 높이는 것. 예전에는 많은 사람들의 손이 필요한 노동집약 산업이었던 철도는 최근에 들어와서 <b>기계<\/b>화가 적극적으로 도입되어 장치산업(裝置産業)으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2421956&cid=51399&categoryId=51399",
+			"description":"개통이력이 전혀 없는 완전 새<b>기계<\/b>입니다. 기존 약정과 요금제를 그대로 유지하면서 단말기를 변경할 수 있어서 편리합니다. * SKT, KT 단말기: 타 통신사 유심을 끼워 사용가능(LG U+는 불가) * LG U... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1058608&cid=40942&categoryId=32344",
+			"description":" 토목공사나 건축공사에 쓰이는 <b>기계<\/b>의 총칭으로, 그 종류는 매우 다양하나, 이동하기에 알맞은 것이라야 하며, 고장이 적고 내구성이 우수해야 한다는 것 등이 요구된다.  토목<b>기계<\/b>라고도 하며, 그 종류는 매우... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_16\/20180828134431569_JWHUAK1A0.jpg\/236971.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>기계<\/b>체조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070623&cid=40942&categoryId=31995",
+			"description":" <b>기계<\/b>를 사용해서 하는 체조운동을 통틀어 이르는 말이다. 19세기 초 독일의 프리드리히 얀이 오늘날의 <b>기계<\/b>체조 원형으로 발전시켰고, 1896년 제1회 올림픽경기대회에서 정식종목으로 채택된 데 이어 1903년... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_25\/20180917195928205_XEBHN56EF.jpg\/53620.jpg?type=m160_160"
+		},
+		{
+			"title":"측량<b>기계<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1147977&cid=40942&categoryId=32345",
+			"description":" 측량할 때 사용하는 <b>기계<\/b>로 크고 작은 여러 가지가 있으나 그 중 주가 되는 것은 각측량에 사용되는 트랜싯, 수준측량에 사용되는 수준의, 세부측량에 사용되는 평판 등이다.  크고 작은 여러 가지가 있으나 그... ",
+			"thumbnail":""
+		}
+	]
+}

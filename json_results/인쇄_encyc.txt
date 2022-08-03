@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:30 +0900",
+	"total":24624,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=536940&cid=46669&categoryId=46669",
+			"description":" <b>인쇄<\/b>판의 판면에 먹 또는 잉크를 묻혀 그 판면의 문자·기호·그림 등을 종이·깁(비단) 따위에 누르거나 문질러 찍어내는 복제 기술. [개설] <b>인쇄<\/b>판은 옛날의 목판·활자판을 비롯하여 근대의 볼록판·평판... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_17\/20190329154142160_9R7RKX4A7.jpg\/27001c5e-342d-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1136279&cid=40942&categoryId=31768",
+			"description":" 문자·그림·사진 등을 종이나 기타 물체의 표면에 일정한 방법으로 옮겨 찍어서 여러 벌의 복제물을 만드는 일.  다시 말해서 <b>인쇄<\/b>물을 만들기 위한 복제 기술 및 행위를 말한다. <b>인쇄<\/b>물 본래의 기능은 시각적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5679408&cid=51399&categoryId=51399",
+			"description":"프린터 및 복합기의 기본기능으로 PC에서 편집한 문서를 <b>인쇄<\/b>할 수 있습니다. 토너를 사용한 레이저젯이 <b>인쇄<\/b>속도가 빠르며 해상도가 좋지만 잉크젯에 비해 유지비가 많이 들어갑니다. 양면 <b>인쇄<\/b>기능이 있으면... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_5\/20180927170009458_81M0W3MMZ.gif\/fh2_389023_i1.gif?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3481187&cid=58439&categoryId=58439",
+			"description":"컴퓨터 체계로부터 전달된 정보를 종이 위에 출력하는 <b>인쇄<\/b> 장치.프린터 <b>인쇄<\/b> 방식에 따라 라인 프린터, 도트매트릭스 프린터, 잉크젯 프린터, 레이저 프린터 등으로 구분되고, 정보를 <b>인쇄<\/b>하는 색상에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1833432&cid=49062&categoryId=49062",
+			"description":"대부분의 경우 잉크를 사용하여 다른 표면(대개는 종이)으로 옮겨서 글이나 그림을 재생산하는 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1648474&cid=50308&categoryId=50308",
+			"description":"완성된 원고나 그림, 사진 등을 종이나 기타 재료에 옮겨 찍어서 여러 벌의 복제물을 만드는 일.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=856377&cid=50371&categoryId=50371",
+			"description":"컴퓨터 내의 데이터를 프린터로 출력하는 일.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6396630&cid=51293&categoryId=51293",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5920_000_1\/20220304220614272_MTJ4BLQTE.jpg\/PS01001001001000.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B8%EC%87%84",
+			"description":"<b>인쇄<\/b> (印刷)는 글과 그림을 찍어내는 과정이며, 대개 프레스기를 이용하여 잉크를 사용해서 종이에 찍는 것을 이야기한다. 큰 산업 과정으로 생각할 수도 있으며 출판업에서 가장 중요하다. 역사 최초의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=296179&cid=60262&categoryId=60262",
+			"description":"식품포장에서 <b>인쇄<\/b>의 목적은 상품명의 확인과 내용물에 대한 정보제공, 개봉방법이나 내용물의 사용에 대한 지시사항 그리고 포장미관을 살려 판매를 촉진하기 위함이다. 필름 중 비극성의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2306918&cid=60227&categoryId=60227",
+			"description":"문서, 도면, 사진 등을 다수 복제하는 기법의 하나인데 활판, 철판(凸版), 요판(凹版), 평판, 스텐실 등의 판에 <b>인쇄<\/b> 잉크를 묻혀서 종이 기타의 면에 복제하는 방법. <b>인쇄<\/b>에 사용되는 판 중에서 활판, 등사판을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"printing",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=503029&cid=50324&categoryId=50324",
+			"description":"필름을 이용하여 노출된 레지스트의 표면상에 필요한 회로패턴을 재생해내는 작업.",
+			"thumbnail":""
+		},
+		{
+			"title":"진주의 <b>인쇄<\/b> (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2632429&cid=51942&categoryId=54807",
+			"description":"[개설] <b>인쇄<\/b>란 일반적으로 문자나 그림 등을 여려 방법을 통하여 종이나 천 등의 물체 표면에 복사하는 일을 의미한다. 다시 말해서 <b>인쇄<\/b>란 <b>인쇄<\/b>물을 만들기 위한 복제 기술 및 그 행위를 지칭하는 말이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b> (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2615721&cid=51887&categoryId=53549",
+			"description":"[정의] 경기도 용인시에서 이루어지고 있는 <b>인쇄<\/b> 관련 제반 활동. [개설] 2007년 10월 현재 용인시에 등록된 <b>인쇄<\/b>소는 34개 업체로 대다수가 경<b>인쇄<\/b> 업체로 옵셋 <b>인쇄<\/b> 시설을 갖춘 곳은 7개 업체에 불과하다. 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"돗판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1192408&cid=40942&categoryId=39960",
+			"description":" 일본의 출판 및 <b>인쇄<\/b>회사.  1900년에 설립된 일본 출판, <b>인쇄<\/b>회사로 1908년 법인 등록하였다. 주요 사업은 출판, <b>인쇄<\/b>업으로 서적출판(단행본, 잡지, 만화, 아동물 등), 제본, 서적 판매 등이다. 본사는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기타<b>인쇄<\/b>물<b>인쇄<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029230&cid=42117&categoryId=42117",
+			"description":" 안내장, 명함, 스티커 및 기타 <b>인쇄<\/b>물을 <b>인쇄<\/b>·제작하기 위하여 장식이나 문구를 도안하고 자동<b>인쇄<\/b>기를 조작한다. [수행직무] 고객과 <b>인쇄<\/b>물의 디자인을 상의하거나 미리 준비된 디자인 중에서 선택한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"다이닛폰<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1192399&cid=40942&categoryId=39960",
+			"description":" 일본의 출판 및 <b>인쇄<\/b>회사.  1876년 슈에이샤가 설립한 일본의 출판 및 <b>인쇄<\/b>회사이다. 주요 사업은 상업용지, 포장지, 인테리어 장식지, 업무용지, 잡지, 서적 등의 <b>인쇄<\/b>와 출판이다. 본사는 일본 도쿄에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"활판으로 <b>인쇄<\/b>된 <b>인쇄<\/b>물",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5871612&cid=65811&categoryId=66163",
+			"description":"활판으로 <b>인쇄<\/b>된 <b>인쇄<\/b>물. 윤동주의 서시.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_11\/20191122233523614_79ZV54T0R.jpg\/a29zYjEzfDM0NzI0.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>판",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1136283&cid=40942&categoryId=31768",
+			"description":" 평판<b>인쇄<\/b>에 있어, 본<b>인쇄<\/b>를 하기 위해 <b>인쇄<\/b>기계에 거는 판.  교정이 끝난 원판(原版)을 아연판 또는 알루미늄판 등 판재(版材)에 빛 쬐기한 다음 표면처리하여 만든다. 먼저 대지(臺紙) 필름에 여러 종류의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3550528&cid=58584&categoryId=58624",
+			"description":" <b>인쇄<\/b>하는 기술.  印 도장 인, 刷 <b>인쇄<\/b>할 쇄, 術 기술 술 <b>인쇄<\/b>하는 기술을 <b>인쇄<\/b>술이라고 해요. 우리나라는 일찍부터 <b>인쇄<\/b>술이 발달했어요. 고려 시대에는 목판 <b>인쇄<\/b>술로 불교 경전을 정리한 대장경을 여러 차례... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_5\/20170125133851510_LYBQIL20P.jpg\/172_78602_151326.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3538300&cid=55589&categoryId=55589",
+			"description":" <b>인쇄<\/b>술에는 목판 <b>인쇄<\/b>술과 활판 <b>인쇄<\/b>술이 있으며, 모두 동양에서 시작되었다. 서양에서는 1440년대에 구텐베르크가 활판 <b>인쇄<\/b>술을 발명했는데, 그의 발명품은 여러 가지 기술이 결합된 일종의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3864_000_1\/20161213145946797_780GGSPKH.jpg\/da8_46_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4368722&cid=59926&categoryId=59926",
+			"description":" 아시아의 목판 <b>인쇄<\/b>술에서 유래되었다. 1045년경 중국에서는 이동 가능한 <b>인쇄<\/b>기가 등장했다. 1440년대 요하네스 구텐베르크(Johannes Gutenberg)가 최초의 근대적인 <b>인쇄<\/b>기를 개발했다.  <b>인쇄<\/b>기(printing press)가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5182_000_1\/20180104122252877_X54IXSVLQ.jpg\/ba21_344_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1185644&cid=40942&categoryId=31768",
+			"description":" 판면에 잉크를 묻혀 종이에 대고 눌러 <b>인쇄<\/b>물을 만드는 기계.  독일의 J.구텐베르크가 활판<b>인쇄<\/b>기술을 발명했을 때(15세기 중반 무렵) 사용한 <b>인쇄<\/b>기는 포도를 짜기 위해 사용한 압착기를 이용한 것이었다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_108\/20181128030226907_WQANBW0RQ.jpg\/65984.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b> 매체와 <b>인쇄<\/b> 광고",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2275394&cid=42266&categoryId=51153",
+			"description":"매체가 다변화·첨단화해 있다 할지라도 <b>인쇄<\/b> 매체는 여전히 고유의 기능을 담당하고 있다. 물론 그 역할이 축소된 것은 분명한 사실이지만 말이다. <b>인쇄<\/b> 매체가 어느 매체보다 논리적이며 신뢰성 있는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20141113212136646_63T9TK9W4.jpg\/m169_5_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"평판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1158118&cid=40942&categoryId=31768",
+			"description":" 석판<b>인쇄<\/b> ·금속평판<b>인쇄<\/b> ·콜로타이프 등의 <b>인쇄<\/b> 방식을 통틀어 일컫는 말.  즉, 평판을 사용하는 <b>인쇄<\/b>를 말한다. 볼록판<b>인쇄<\/b>·오목판<b>인쇄<\/b>와 함께 세 가지 주요 <b>인쇄<\/b>방식의 하나인데, 금속평판에 의한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"다색<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3018&cid=43659&categoryId=43659",
+			"description":"<b>인쇄<\/b>의 한 유형으로, 모두 4가지 색 즉, 황·적·청의 3원색과 흑색으로 <b>인쇄<\/b>를 겹쳐서 자연색을 재현하는 <b>인쇄<\/b>. 우선 컬러 원고를 색분해하여 정확한 원색 필름을 얻은 다음 이를 사진 필름에 기록하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특수<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1153973&cid=40942&categoryId=31768",
+			"description":" 종이 이외의 물체에 <b>인쇄<\/b>하거나, 또는 종이에 <b>인쇄<\/b>할 경우라도 흔히 쓰이지 않는 특수한 판을 이용하는 <b>인쇄<\/b>방법.  특수<b>인쇄<\/b>에는 다음과 같은 것들이 있다. ⑴ 피<b>인쇄<\/b>체(被印刷體)가 종이가 아닌 것:금속판... ",
+			"thumbnail":""
+		},
+		{
+			"title":"활판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155522&cid=40942&categoryId=31768",
+			"description":" 문자의 <b>인쇄<\/b>를 주로 하는 볼록판식 <b>인쇄<\/b>.  본래는 활자로 짜여진 판을 기계에 걸어 <b>인쇄<\/b>하는 원판<b>인쇄<\/b>(原版印刷) 기술이었지만, 연판(鉛版) ·전주판(電鑄版) ·선화볼록판[線畵凸版] 등 각종의 복제판(複製版)이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>잉크",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1185651&cid=40942&categoryId=31768",
+			"description":" <b>인쇄<\/b>하는 데 사용하는 잉크이며 <b>인쇄<\/b> 기술의 발전에 따라 히트세트잉크, 그라비어잉크 등이 고안되었다. <b>인쇄<\/b>하는 방식이나 <b>인쇄<\/b> 재료에 따라 성분과 성질에 차이가 생긴다.  <b>인쇄<\/b>잉크는 안료를 전색제(展色劑)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비닐<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1105856&cid=40942&categoryId=31768",
+			"description":" 폴리염화비닐 필름 따위에 <b>인쇄<\/b>하는 특수<b>인쇄<\/b>.  합성수지(合成樹脂)는 잉크에 대하여 비흡수성(非吸收性)이므로 <b>인쇄<\/b> 잉크가 고착되도록 수지와 그 용제(溶劑)를 잉크에 혼합해서 써야 한다. <b>인쇄<\/b>는 그라비어가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"곡면<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1062624&cid=40942&categoryId=31768",
+			"description":" 유리병 ·접시 ·튜브 ·연필 등의 곡면에 직접 <b>인쇄<\/b>하는 특수<b>인쇄<\/b>.  판식(版式)으로는 볼록판 ·실크 스크린이 많다. 피<b>인쇄<\/b>체(被印刷體)가 유리나 금속 등이므로 잉크의 부착성(附着性)을 고려하여 고무볼록판이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"실링<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1119451&cid=40942&categoryId=31768",
+			"description":" 소형의 <b>인쇄<\/b>물인 봉함지 ·정가표 ·꼬리표 ·스티커 ·상표류 ·실류(seal類) 등의 <b>인쇄<\/b>.  백화점에서 상품을 포장하고 나서 붙이기도 하고, 종이주머니를 봉하기도 하는 실은, 뒷면에 풀칠이 되어 있는 여러 가지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전사<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139574&cid=40942&categoryId=31768",
+			"description":" 종이에 <b>인쇄<\/b>한 그림을 도자기·유리·금속·플라스틱 등의 표면에 전사하는 <b>인쇄<\/b>방식.  전사지(轉寫紙)는 <b>인쇄<\/b>잉크나 안료(顔料)를 써서, 백상지와 같은 대지(臺紙)에 풀칠을 한 다음 그 위에 화면을 <b>인쇄<\/b>한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"돗판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=651020&cid=43167&categoryId=43167",
+			"description":" 일본의 <b>인쇄<\/b> 및 출판업체.  일본재무성의 <b>인쇄<\/b>국에 근무하던 직원들이 1900년 돗판<b>인쇄<\/b>리미티드파트너쉽(Toppan Printing Limited Partnership)을 설립했다 1908년 회사명을 현재의 돗판<b>인쇄<\/b>(Toppan Printing... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2315_000_2\/20110926125552237_EKYSRP0N8.jpg\/n1416.jpg?type=m160_160"
+		},
+		{
+			"title":"전자<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1139766&cid=40942&categoryId=31768",
+			"description":" 일렉트로닉스를 이용하는 <b>인쇄<\/b>로 잉크에 전하를 준 후 뿜어내어 피<b>인쇄<\/b>체에 부착시키는 방법을 말한다. 무압<b>인쇄<\/b>이기 때문에 계란껍데기 표면이나 데커레이션 케이크의 문자부분 등을 <b>인쇄<\/b>하는 데 사용된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"다색<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1169355&cid=40942&categoryId=31768",
+			"description":" 2색 이상의 색을 겹쳐 <b>인쇄<\/b>하는 것.  두 가지 이상의 색을 써서 하는 <b>인쇄<\/b>를 다색<b>인쇄<\/b>라고 한다. 검은색 <b>인쇄<\/b>물 위에 빨간색을 넣는 2색 <b>인쇄<\/b>나 그 위에 다시 파란색을 넣는 3색 <b>인쇄<\/b>가 다색<b>인쇄<\/b>이며, 노랑·빨강... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070222&cid=40942&categoryId=31768",
+			"description":" 금속판에 하는 <b>인쇄<\/b> 방법.  양철판·강판·알루미늄판·아연철판·스테인레스판 등의 금속판에 <b>인쇄<\/b>하는 특수 <b>인쇄<\/b>이다. 1835년경 미국의 바클리(R.Barclay)가 고안한 전사<b>인쇄<\/b>(轉寫印刷) 방식으로 하다가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1063815&cid=40942&categoryId=31768",
+			"description":" <b>인쇄<\/b>방식의 하나.  형지(型紙)에 구멍을 뚫어 판(版)을 만들고, 판의 구멍을 통하여 판 아래 놓인 종이·베·플라스틱 등의 표면에 <b>인쇄<\/b>잉크나 안료(顔料)로 구멍의 모양대로 찍어내는 방법을 원리로 한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1094137&cid=40942&categoryId=31768",
+			"description":" 목판을 사용하여 책을 찍어내는 <b>인쇄<\/b>방법.  필요한 용구에는 먹물 ·종이 ·먹솔 ·밀랍 ·기름판 등이 있다. <b>인쇄<\/b>방법은 먹솔로 목판의 문자면에 먹물을 고르게 칠한 다음, 종이를 놓고 밀랍 또는 기름을 묻힌... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_37\/20181006020623291_WGQGJ8GCW.jpg\/47499.jpg?type=m160_160"
+		},
+		{
+			"title":"도기<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1082703&cid=40942&categoryId=31768",
+			"description":" 도자기에 <b>인쇄<\/b>조작으로 그림을 넣는 방법.  보통 사용하는 방법은 판박이그림이나 데칼코마니라고 부르는 전사<b>인쇄<\/b>(轉寫印刷)이다. 특수 전사지에 도자기용 안료를 함유하는 잉크를 사용하여 주로 석판을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"석판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1111693&cid=40942&categoryId=31768",
+			"description":" 물과 기름이 서로 반발하는 성질을 응용한 제판<b>인쇄<\/b>법.  오늘날의 오프셋<b>인쇄<\/b>의 근본이 된 기술로서, 1796년 독일의 A.제네펠더가 발명하였다. 석판석(石版石:CaCO3이 주성분)에 지방묵(脂肪墨)으로 판무늬를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>전신",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1136282&cid=40942&categoryId=32378",
+			"description":" 수신신호가 자동적으로 <b>인쇄<\/b>문자로 기록되는 전신방식.  전신신호를 송신하여 이를 자동적으로 문자로 번역하여 <b>인쇄<\/b>하거나 천공테이프에 기록하는 방식이다. 이를 위한 대표적인 <b>인쇄<\/b>전신기가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>적성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1185652&cid=40942&categoryId=31768",
+			"description":" 원하는 <b>인쇄<\/b>물을 완성하기 위해 사용되는 여러 재료가 반드시 갖추어야 하는 성질.  <b>인쇄<\/b>에 필요한 기본적인 재료로는 <b>인쇄<\/b>용지와 <b>인쇄<\/b>잉크가 있다. <b>인쇄<\/b>할 내용이 고정될 용지로는 기본적으로 종이가 있으며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>약관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1227736&cid=40942&categoryId=31831",
+			"description":" 증권상에 미리 <b>인쇄<\/b>되어 있는 기본적인 약관.  보험증권이나 선하증권에 미리 <b>인쇄<\/b>되어 있는 기본적인 약관이다. 특별한 사항을 약정하는 특별약관에 상대되는 개념으로, 본문약관·기본약관이라고도 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>배선",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1136281&cid=40942&categoryId=32372",
+			"description":" 전자장치에서 부품 상호간을 절연판에 <b>인쇄<\/b>한 구리박으로 접속하는 방법.  프린트배선이라고도 한다. 이전에는 절연피복한 도체를 사용하여 하나하나의 부품을 손배선으로 연결하였으나, 기계가 고급화... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>매체",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1136280&cid=40942&categoryId=31766",
+			"description":" 광고나 PR를 목적으로 사용하는 <b>인쇄<\/b>물의 총칭.  <b>인쇄<\/b>미디어라고도 한다. 인상(印象)이 지속되며, 매체 자체가 보존되는 경우가 많으므로 되풀이하여 보이는 이점이 있고, 기억효과가 높고 설득력도 큰 특색을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2783510&cid=62093&categoryId=62093",
+			"description":"<b>인쇄<\/b>(印刷)란 판면(版面)에 잉크를 묻혀 판면의 문자나 그림 등을 종이나 깁 같은 데에 눌러 문질러서 박아내는 일이며, <b>인쇄<\/b>술(printing)은 그러한 기술을 말한다. <b>인쇄<\/b>는 장기간 <b>인쇄<\/b>술의 부단한 발달과정을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3844_000_1\/20150406103704654_6OHS16V1S.jpg\/ga6_1341_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>전자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3587236&cid=59277&categoryId=59280",
+			"description":" <b>인쇄<\/b>술에 정보통신기술(ICT)과 나노기술(NT)을 접목해 전자회로 · 소자 · 디스플레이 따위를 만드는 일.  종이나 천에 글 · 그림을 박아 내듯 제조한다. 친환경 생산 체계를 갖출 수 있고 태양전지... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4874_000_1\/20170504193822205_9WVBO3IHC.jpg\/ka41_188_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>기",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B8%EC%87%84%EA%B8%B0",
+			"description":"<b>인쇄<\/b>기 (印刷機)는 판면(版面)에 잉크를 묻히고, 판면의 문자·그림 등을 종이 등에 박아 많은 복제를 만드는 기계 장치이다. 1439년 독일의 구텐베르크가 개발하였으며, 회전 <b>인쇄<\/b>는 1833년 미국의 리처드 마치... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B8%EC%87%84%EC%86%8C",
+			"description":"<b>인쇄<\/b>소 (印刷所)는 <b>인쇄<\/b>를 업무로 하는 곳을 말한다. 대형 신문의 경우 신문사가 취재, 편집, 조판, <b>인쇄<\/b>, 배송의 시스템을 가지고 있는 것이 많지만, 다른 분야의 <b>인쇄<\/b>는 <b>인쇄<\/b>소의 일이다. <b>인쇄<\/b> 회사는 건축... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=923457&cid=47326&categoryId=47326",
+			"description":"<b>인쇄<\/b>술은 문서를 쉽게 복사하는 수단으로 발명된 것으로 추정된다. 최초의 <b>인쇄<\/b> 방법은 나무판에 문자나 그림을 새기고 그 표면에 먹물을 묻혀 그 위에 종이를 놓고 문질러서 찍어내는 목판 <b>인쇄<\/b>였다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=856383&cid=42346&categoryId=42346",
+			"description":"<b>인쇄<\/b> 메커니즘 측면에서는 크게 기계 충격을 이용하는 충격식 <b>인쇄<\/b>기와 전자 또는 전기 작용을 이용하는 비충격식 <b>인쇄<\/b>기로 나눌 수 있고, <b>인쇄<\/b> 단위나 속도 측면에서는 문자 <b>인쇄<\/b>기, 행 <b>인쇄<\/b>기, 페이지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3439657&cid=58470&categoryId=58470",
+			"description":"<b>인쇄<\/b>술은 활자를 사용하여 똑같은 서류를 여러 장 만드는 기술로, 인류의 가장 위대한 발명품 중 하나로 꼽힌다. <b>인쇄<\/b>술 발명 이전에는 붓으로 책을 썼기 때문에 생산이 한정될 수밖에 없었다. 하지만... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4620_000_1\/20160902105409225_F9JC01P07.jpg\/da18_114_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>술",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3410279&cid=47322&categoryId=47322",
+			"description":"[목판<b>인쇄<\/b>술과 활판<b>인쇄<\/b>술이 등장하다] <b>인쇄<\/b>술은 두 가지 방법이 있어요. 목판<b>인쇄<\/b>술과 금속<b>인쇄<\/b>술입니다. 우리나라 역사에서 먼저 등장한 목판<b>인쇄<\/b>술부터 알아볼게요. 목판에 일단 글자를 적거나 붙이고, 그... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4465_000_1\/20160725121409698_PR6R1VSDJ.jpg\/ha50_87_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=833432&cid=42344&categoryId=42344",
+			"description":"<b>인쇄<\/b> 기구에는 충돌의 유무에 의해 충격식 프린터(impact printer)와 비충격식 프린터(non-impact printer)로 크게 나눌 수 있고, 또 <b>인쇄<\/b> 단위 및 <b>인쇄<\/b> 속도에서는 character printer, line printer 및 page printer 로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"입체<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1137142&cid=40942&categoryId=31768",
+			"description":" 렌즈의 집광성과 두 눈의 시차를 이용하여 좌안·우안에 다른 각도에서 얻은 화상을 보내 입체감을 가지는 화상을 만드는 <b>인쇄<\/b>법.  이 방법에서는 물체를 촬영할 때 양면이 볼록한 렌즈 또는 원통형 렌즈로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>된",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=833421&cid=50376&categoryId=50376",
+			"description":"<b>인쇄<\/b>(프린트)된 것을 형용한다. 또 일반적으로 <b>인쇄<\/b>물을 printed matter 라고 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>판",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=856420&cid=50373&categoryId=50373",
+			"description":"<b>인쇄<\/b> 장치에서 활자와 마주 보는 자리에 글자를 찍을 때 적당한 <b>인쇄<\/b>압(壓)을 유지하게 하는 판. 보통 원통 모양으로 되어 있으며, 표면은 합성 고무 등으로 만들어져 <b>인쇄<\/b> 용지를 밀어내는 데에도 도움을 준다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>물",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1648475&cid=50308&categoryId=50308",
+			"description":"<b>인쇄<\/b>된 원고나 그림을 통틀어 이르는 말.",
+			"thumbnail":""
+		},
+		{
+			"title":"평판 <b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1833435&cid=49062&categoryId=49062",
+			"description":"<b>인쇄<\/b>되지 않는 부분과 같은 평면 위에 있는 꼴에서 상을 <b>인쇄<\/b>하는 것으로 이루어지는 과정. <b>인쇄<\/b>되지 않는 부분은 축축하게 하여 잉크가 묻지 않도록 한다. [<b>인쇄<\/b>된 이미지(printed image )] [종이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1592_000_1\/20130322233113988_UQV1CXM7L.jpg\/z1_1134_i1_org.jpg?type=m160_160"
+		},
+		{
+			"title":"재능<b>인쇄<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%AC%EB%8A%A5%EC%9D%B8%EC%87%84",
+			"description":"재능<b>인쇄<\/b> 은 대한민국의 <b>인쇄<\/b> 기업이다. 연혁 1993년 9월 (주)재능<b>인쇄<\/b> 설립 1994년 9월 <b>인쇄<\/b>기 및 주변기기 설치가동 \/ 2교대 24시간 근무체제 확립 1996년 6월 미국 콩기름협회로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>전자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2066174&cid=42107&categoryId=42107",
+			"description":"원하는 전자회로 부분만을 기판이나 필름 등에 전도성 전자잉크로 <b>인쇄<\/b>하듯이 제조하는 기술. 기존에는 전자회로 형성을 위해 기판 전체에 구리나 알루미늄을 도금한 뒤, 필요한 부분만 남기고 나머지를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b> 휠",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1587522&cid=50371&categoryId=50371",
+			"description":"<b>인쇄<\/b> 휠IT용어사전 <b>인쇄<\/b>할 때 사용되는 활자를 담고 있는 원판. <b>인쇄<\/b>할 때 원판이 이동하여 선택한 활자를 필요한 위치에 두고, 충격을 가하면 종이 등에 <b>인쇄<\/b>되도록 한다. 외국어 표기 print wheel(영어)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b> 바",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=833413&cid=50376&categoryId=50376",
+			"description":"활자를 보호 유지하고 있는 가늘고 긴 막대로 충돌식 <b>인쇄<\/b> 장치에 장착되고 있는 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"셀로판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1113439&cid=40942&categoryId=31768",
+			"description":" 셀로판에 <b>인쇄<\/b>하는 특수<b>인쇄<\/b>.  표면에 <b>인쇄<\/b>하는 방법과, 특히 사진판이나 다색<b>인쇄<\/b>(多色印刷)에서 <b>인쇄<\/b>면의 마찰을 방지하고 셀로판의 투명성과 광택을 살리기 위해, 뒷면<b>인쇄<\/b>를 하여 표면에서 바로 보이게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"오프셋<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1128714&cid=40942&categoryId=31768",
+			"description":" <b>인쇄<\/b>에서 볼록판 ·오목판 ·평판의 세 판식 중 평판에 속하는 <b>인쇄<\/b>.  판에서 직접 피<b>인쇄<\/b>물(被印刷物)에 <b>인쇄<\/b>를 하지 않고, 중개 구실을 하는 고무 블랭킷에 일단 전사<b>인쇄<\/b>(轉寫印刷)한 다음, 용지에 <b>인쇄<\/b>하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_54\/20181015191342872_BW3MFVCCG.jpg\/66586.jpg?type=m160_160"
+		},
+		{
+			"title":"오목판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1128128&cid=40942&categoryId=31768",
+			"description":" 볼록판 <b>인쇄<\/b>에 대응하여 쓰는 <b>인쇄<\/b>용어.  요판<b>인쇄<\/b>(凹版印刷)라고도 한다. 화선부분(畵線部分)을 판재(版材)의 표면보다 오목하게 파내린 후, 판 전면에 잉크를 묻힌 다음 화선 이외의 부분[非畵線部]의 잉크를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아닐린<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1120402&cid=40942&categoryId=31768",
+			"description":" 고무볼록판을 <b>인쇄<\/b>판으로 하고, 아닐린 잉크(염료의 알코올 용액·수용액 또는 여기에 알코올을 첨가한 잉크)를 써서 가벼운 압력을 주어 <b>인쇄<\/b>하는 특수<b>인쇄<\/b>의 하나.  잉크의 속건성(速乾性)을 이용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속박<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070202&cid=40942&categoryId=31768",
+			"description":" 알루미늄박 또는 알루미늄박을 포개서 붙인 금속박지에 하는 특수<b>인쇄<\/b>로 표면의 기름기 등 더러움을 말끔히 닦은 후, 알코올 계통의 용제로 된 특수 잉크로 <b>인쇄<\/b>하고, 이 위에다 니스를 오버프린트(over... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스크린<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1117002&cid=40942&categoryId=31768",
+			"description":" 공판<b>인쇄<\/b>의 하나.  실크 스크린<b>인쇄<\/b>를 줄여서 스크린<b>인쇄<\/b>라고도 한다. 비단이나 화학섬유의 천을 팽팽하게 하여 스크린으로 하고, 비화선부(非畵線部)가 되는 부분을 형지(型紙) 또는 아교재(材)로 덮어씌운... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>견적서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1927424&cid=42279&categoryId=42279",
+			"description":" <b>인쇄<\/b> 작업의 견적을 구체적으로 기재한 문서.  견적서란 어떤 일을 하는 데 필요한 비용 등을 계산하여 이를 구체적으로 작성한 문서를 말한다. <b>인쇄<\/b>견적서는 공급 가능한 <b>인쇄<\/b>물의 품목 및 제반 비용 등을 적산... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128225540939_XFRYDL2DD.jpg\/hb10_7790_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>발주서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1927427&cid=42279&categoryId=42279",
+			"description":" <b>인쇄<\/b>물에 관한 주문 사항을 기재한 문서.  <b>인쇄<\/b>발주서란 의뢰하고자 하는 <b>인쇄<\/b> 작업에 관한 내용을 기재하여, 공급업체에 발송하는 일종의 주문서를 말한다. <b>인쇄<\/b>발주서에는 <b>인쇄<\/b> 작업의 제목, 규격, 수량 등... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20220303142831628_GE6SH4II1.png\/hb10_7793_i1.png?type=m160_160"
+		},
+		{
+			"title":"삼화<b>인쇄<\/b>㈜",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=573486&cid=46669&categoryId=46669",
+			"description":" 1954년에 설립된 <b>인쇄<\/b>업체. [내용] 유기정(柳琦諪)이 설립한 종합<b>인쇄<\/b>소로 서울특별시 종로구 와룡동에서 우리 나라에서는 처음으로 원색사진동판<b>인쇄<\/b>시설을 갖추고 출발하였다. 이후 1957년 7월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"1도 <b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1647850&cid=50308&categoryId=50308",
+			"description":"cyan(파랑), magenta(빨강), yellow(노랑), blacK(검정) 중 한 가지 색만 사용하여 <b>인쇄<\/b>하는 방법.",
+			"thumbnail":""
+		},
+		{
+			"title":"2도 <b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1647852&cid=50308&categoryId=50308",
+			"description":"cyan(파랑), magenta(빨강), yellow(노랑), blacK(검정) 중 두 가지 색을 사용하여 <b>인쇄<\/b>하는 방법. 주로 검정을 기본으로 나머지 3가지 색 계열 중 한 가지를 선택하여 사용한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"실크<b>인쇄<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029243&cid=42117&categoryId=42117",
+			"description":" 플라스틱 제품에 회사명, 제품명 등을 <b>인쇄<\/b>하기 위하여 실크<b>인쇄<\/b>틀을 교정한 후 <b>인쇄<\/b>기를 조작·관리한다. [수행직무] 성형이 완료된 제품을 작업장소로 운반한다. <b>인쇄<\/b>에 필요한 잉크 및 실크<b>인쇄<\/b>틀을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>시방서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3610851&cid=51373&categoryId=51373",
+			"description":" <b>인쇄<\/b> 작업 시 일반적인 사항을 기재 해 놓은 문서.  <b>인쇄<\/b> 시방서는 품명, 규격, 수량, 지질, <b>인쇄<\/b>, 제본, 납품기한 등으로 구성되어 있다. <b>인쇄<\/b>를 할 때 시방서로 작성하여 사용한다. 시방서란 제품 또는 공사에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_7\/20170707142629757_Z9WVBH1QV.jpg\/ba17_9783_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"활판<b>인쇄<\/b>소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5871606&cid=65811&categoryId=66163",
+			"description":"활판<b>인쇄<\/b>소 전경",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_11\/20191122233233654_JG0AS2QTR.jpg\/a29zYjEzfDM0NzI0.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3610746&cid=51373&categoryId=51373",
+			"description":" 주문자와 <b>인쇄<\/b>소 간의 <b>인쇄<\/b> 계약을 적은 문서.  <b>인쇄<\/b> 계약서란 주문자와 <b>인쇄<\/b>소 업체 상호간에 체결한 계약 문서이다. 주문하는 명함을 <b>인쇄<\/b>하기도 하고 이와 관련된 권리의무 사항의 규율을 목적으로 작성된... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_7\/20170707142330198_H6N1RW6N7.jpg\/ba17_8340_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>영업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658413&cid=42117&categoryId=42117",
+			"description":" 고객에게 <b>인쇄<\/b> 및 출판에 관한 정보를 제공하고 주문을 받는 등 판촉 및 영업활동을 한다. [수행직무] 고객을 방문하여 <b>인쇄<\/b>범위, <b>인쇄<\/b> 및 제책가격, 출판물의 종류 등 <b>인쇄<\/b>·출판에 관한 정보를 제공한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나뭇결<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1170510&cid=40942&categoryId=31768",
+			"description":" 자연의 아름다운 나뭇결 모양을 지면이나 금속판·베니어판 등에 <b>인쇄<\/b>하는 것을 말한다.  화장판<b>인쇄<\/b>(化粧板印刷)라고도 한다. 블리키 <b>인쇄<\/b>로 금속에 직접 <b>인쇄<\/b>하는 방법, 그라비어 오프셋 방식으로 금속 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>시방서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1927435&cid=42279&categoryId=42279",
+			"description":" <b>인쇄<\/b> 작업 시 필요한 작업 기준을 명시한 문서.  <b>인쇄<\/b>시방서란 <b>인쇄<\/b> 작업을 수행하는 데 필요한 규격, 수량, 지질 등의 내용을 서면화한 문서를 말한다. <b>인쇄<\/b>시방서에는 <b>인쇄<\/b>물의 품명과 규격, 수량을 비롯하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128225605174_G72F1BCIE.jpg\/hb10_7801_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기명<b>인쇄<\/b>기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070914&cid=40942&categoryId=31768",
+			"description":" 단골 거래처·주주(株主)·회원 등 특정인에게 자주 문서를 발송할 때 수신인명을 <b>인쇄<\/b>하는 사무용 기계.  <b>인쇄<\/b>의 방식에는 액체복사식(液體複寫式)·등사<b>인쇄<\/b>식(謄寫印刷式)·플레이트식(式)이 있고, 각각의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6511457&cid=51373&categoryId=51373",
+			"description":" <b>인쇄<\/b>를 신청하기 위해 작성하는 신청서 양식.  <b>인쇄<\/b>(印刷)란 잉크를 사용하여 판면(版面)에 그려져 있는 그림이나 글을 천이나 종이 등에 박아내는 것으로, 이러한 <b>인쇄<\/b>를 신청하기 위한 목적으로 작성하는 것이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015145518517_FA0TWANYL.jpg\/ba17_39587_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"릴리프<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1089996&cid=40942&categoryId=31768",
+			"description":" 유채화를 원화의 필치대로 재현하는 <b>인쇄<\/b>.  원색판(原色版)이나 오프셋 또는 그라비어 <b>인쇄<\/b>로 원화를 복제한 다음, 원화에서 입체사진법(立體寫眞法)으로 필치를 촬영하여 형(型)을 만들고, 이를 양각가공... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>발주서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3610839&cid=51373&categoryId=51373",
+			"description":" <b>인쇄<\/b> 발주와 관련한 주문 내용을 작성한 문서.  제품을 구매하고자 하는 기업에서 작성하는 문서로 거래처에 상품을 발주 내기 위해 상세한 상품 정보를 기록하는 문서를 발주서라고 한다. <b>인쇄<\/b>물에 관한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_7\/20170707142609148_RFX1V8M1Z.jpg\/ba17_9625_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"특수<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1625310&cid=42192&categoryId=42209",
+			"description":"오늘날 <b>인쇄<\/b>는 '공기와 물을 제외한 모든 것에 <b>인쇄<\/b>가 가능하다'라고 말할 정도로 그 범위가 넓어지고 있다. 일반적으로 사용되는 종이 <b>인쇄<\/b>뿐만 아니라 모든 산업 부문에서 활용되고 있다. 예를 들어 건축자재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특수<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1188240&cid=40942&categoryId=31768",
+			"description":"종이 이외의 물질에 <b>인쇄<\/b>를 하는 것을 일반적으로 특수<b>인쇄<\/b>라고 하나, <b>인쇄<\/b>된 종이를 다시 가공처리하는 경우도 있다. 현재는 금속판 ·튜브 ·병 ·은박지 ·옷감 ·비닐 ·목재 ·도자기 등 모든 것에 <b>인쇄<\/b>할 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감성<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1625311&cid=42192&categoryId=42209",
+			"description":"일반적으로 많은 사람들이 <b>인쇄<\/b>물은 단순하게 시각적인 방법을 통해 정보를 전달한다고 생각한다. 하지만 <b>인쇄<\/b> 재료, <b>인쇄<\/b> 기술의 발전으로 감성을 자극하면서 오감을 만족할 만한 <b>인쇄<\/b>물을 만들 수 있게... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20130205215939742_EOB7VO491.jpg\/m48_s7.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054098&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>인쇄<\/b>기사 ① <b>인쇄<\/b>기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>인쇄<\/b>기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>인쇄<\/b>기사 자격은 최근 <b>인쇄<\/b>수준이 향상되고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210622161938530_IPPT6XBYW.jpg\/da6_512_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"금속<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=783986&cid=41828&categoryId=41828",
+			"description":"금속판의 표면에 하는 <b>인쇄<\/b>. 1870년에 프랑스에서 시작되고 이어서 1872년경 미국의 바클리가 전사<b>인쇄<\/b>에 의한 방법을 고안하였다. 1880년에 고무 블랫킹을 사용하는 간접 <b>인쇄<\/b>법(옵셋 <b>인쇄<\/b> 방식)이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1830708&cid=42279&categoryId=42279",
+			"description":" 저작권자와 출판권자 쌍방 간에 <b>인쇄<\/b>저작물에 관해 합의한 계약 사항을 기록한 문서.  일반적으로 출판계약이라고 하면 출판권 설정계약을 지칭한다. 출판권 설정계약을 맺을 시 복제, 배포권을 양도하도록... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128203838413_MAS8R4I0N.jpg\/hb10_3254_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>공업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1188243&cid=40942&categoryId=31768",
+			"description":"<b>인쇄<\/b>물은 일상생활에서 없어서는 안 되는 생활필수품이다. 특히 문화 ·산업 등의 중심지에서 번영하는 산업이다. 특히 최근에서는 종이뿐만 아니라, 금속 ·플라스틱 ·목재 ·도자기 ·옷감 등에도... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_108\/20181128015415027_3INC8U955.jpg\/19748.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>전자",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B8%EC%87%84%EC%A0%84%EC%9E%90",
+			"description":"<b>인쇄<\/b>전자 ( 영어: Printed Electronics )는 다양한 기판(플라스틱, 필름, 종이, 유리 등)에 전도성, 절연성, 반도체성 등의 기능성 잉크를 <b>인쇄<\/b> 하듯이 찍어내는 방식으로 만들어진 전자회로 또는 전자제품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"활자<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1631123&cid=42955&categoryId=42955",
+			"description":"보편적이고 지속적인 수요를 지니고 있는 책의 경우 목판<b>인쇄<\/b>가 보다 효과적일 수 있으나, 많은 종류의 책을 간행할 때에는 그다지 경제적이지 못하였다. 이 경우에는 하나의 서적만을 <b>인쇄<\/b>할 수 있는 목판을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1445_000_1\/20120828145316378_QCOKVPFIJ.jpg\/ea5_023_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"목판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1631122&cid=42955&categoryId=42955",
+			"description":"책의 <b>인쇄<\/b>는 처음 목판<b>인쇄<\/b>에서 시작하였다. 목판<b>인쇄<\/b>는 간행하고자 하는 책의 내용을 나무판에 새겨서 먹을 칠하고 종이에 찍어내는 것을 말한다. 한국의 목판<b>인쇄<\/b>술은 신라시대에 시작되어 고려시대를 거쳐... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1445_000_1\/20120828145315259_KJ8PHS61S.jpg\/ea5_022_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>거리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2031450&cid=42856&categoryId=42856",
+			"description":"[개요] <b>인쇄<\/b>산업은 동구 비교우위 산업의 하나로서 중동, 정동, 삼성동 지역에 약 400여개의 <b>인쇄<\/b>업체(동구의 93. 8%, 시의 66%)가 밀집되어있다. 오랜 전통과 경험에 의한 고도의 기술력과 최신식... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2818_000_1\/20151211045729132_0IXJOMIPT.jpg\/1585590_image2_1.jpg?type=m160_160"
+		},
+		{
+			"title":"석판<b>인쇄<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=798521&cid=43121&categoryId=43121",
+			"description":"제네펠더가 석회석을 사용하여 완전히 새로운 <b>인쇄<\/b>공정을 발명하다. 1798년에 오스트리아의 배우 겸 극작가 알로이스 제네펠더(1771~1834)는 프레스를 사용하여 석회석의 매끄러운 표면의 이미지를 종이에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정전<b>인쇄<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%95%EC%A0%84%EC%9D%B8%EC%87%84",
+			"description":"다음은 정전<b>인쇄<\/b> (靜電印刷, electrostatic printing) 또는 레이저 프린팅 (laser printing)에 관한 설명이다. 광선이 닿으면 전기저항이 내려가는 반도체(半導體：셀렌의 박막·산화아연 등)를 대전(帶電)시켜 화상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연방<b>인쇄<\/b>국",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=645783&cid=43124&categoryId=43124",
+			"description":"미국의 공식 정부 보안문서 <b>인쇄<\/b>소로, 미국의 모든 지폐를 <b>인쇄<\/b>한다. 국장 밑에 6개의 부서가 있으며, 미국여권, 국토안보국(Homeland Security) 문서, 군인 신분증, 이민•귀화 증명서, 백악관 초청장 등도... ",
+			"thumbnail":""
+		}
+	]
+}

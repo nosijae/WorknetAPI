@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:26 +0900",
+	"total":323,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>목재<\/b>조각기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029300&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>의 각 부분에 동일한 모양을 동시에 조각하는 다축조각기(Multiple Spindle Caving Machine)를 조작한다. [수행<b>직무<\/b>] <b>목재<\/b>의 형태와 조각형태에 적합한 조각칼을 결정하고, 조각부위를 파악한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>분쇄기운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029298&cid=42117&categoryId=42117",
+			"description":" 하드보드(Hard Board)나 파티클보드(Particle Board) 등을 제조하기 위하여 죽데기(Slabs:나무쪼가리)를 작은 조각(Chip)으로 분쇄하는 <b>목재<\/b>분쇄기(Chipping Machine)를 운전한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가구<b>목재<\/b>성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029274&cid=42117&categoryId=42117",
+			"description":" 자동 <b>목재<\/b> 성형장치를 사용하여 제품별로 사양에 맞게 원목을 가공하고 다듬는다. [수행<b>직무<\/b>] 자동 <b>목재<\/b> 가공장치에 원목을 투입하기 전 제품의 모델에 맞게 기계장비를 준비한다. 작업지시서의 내용을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>등급평가사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6197205&cid=42114&categoryId=42114",
+			"description":" <b>목재<\/b>등급평가사란 응시자격을 갖춘 자가 산림청장이 지정한 전문인력 양성기관에서 운영하는 <b>목재<\/b>등급평가사 양성과정을 이수한 사람을 말한다. [ 1. 기본정보] (1) 자격분류 : 국가전문자격 (2) 시행기관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>수분시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029192&cid=42117&categoryId=42117",
+			"description":" 휴대용 전기수분검사기를 이용하여 건조한 <b>목재<\/b>의 수분 함유량을 확인한다. [수행<b>직무<\/b>] 검사기를 <b>목재<\/b>의 끝부분에 놓거나 검사기의 전극을 <b>목재<\/b> 속에 압착하여 수치를 읽고 수분 함유량을 측정한다. 측정한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"포장용<b>목재<\/b>상자조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029437&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>상자용 부분품을 조립하여 수출용 화물 등 대형화물을 포장한다. [수행<b>직무<\/b>] 포장용 <b>목재<\/b>받침대 위에 화물을 지게차나 손으로 올려놓는다. 받침대에 상품이 움직이지 않도록 못으로 고정각목을 견고히... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025977&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 유통업체나 <b>목재<\/b> 제조사를 통하여 원목, 제재목, 합판, 패널, 목가공품 등 필요한 물품을 구매한다. 인테리어나 건축자재 등 용도에 맞게 원목을 절단한다. 납품되는 물품을 직사광선과 습기를 피하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>등급평가사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029693&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 검사할 <b>목재<\/b>의 종류 및 수종(침엽수, 활엽수 등)을 토대로 검사기준을 확인한다. 육안 또는 측정자를 사용하여 옹이, 옹이구멍, 둥근모, 할렬(재면의 갈라짐, 터짐), 윤활, 굽음, 표준치수, 평균연륜폭... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>천공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029301&cid=42117&categoryId=42117",
+			"description":" 핸드드릴(Hand Drill)이나 탁상용 드릴을 사용하여 <b>목재<\/b>에 구멍을 뚫는다. [수행<b>직무<\/b>] 작업에 필요한 <b>목재<\/b>를 준비하고 드릴의 작동상태를 점검한다. <b>목재<\/b>의 가공부위를 정확히 표시한다. 준비된 <b>목재<\/b>를 작업대... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>연마원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029299&cid=42117&categoryId=42117",
+			"description":" 사포, 휴대용 전동사포기, 사포가 부착된 연마기 등을 사용하여 <b>목재<\/b> 표면이나 절단면을 매끄럽게 연마한다. [수행<b>직무<\/b>] 휴대용 전동사포기나 에어 드라이버에 원통형 연마 비트를 끼우고 드라이버로 죄어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>검척원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029692&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>의 부피를 파악하기 위하여 직경과 길이를 측정한다. [수행<b>직무<\/b>] 임목벌채지의 집재지, 반출 시 중간지인 집장, <b>목재<\/b>를 저장하는 저목장 등에서 <b>목재<\/b>의 생산량 또는 반출입량을 측정하기 위하여 직경과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>건조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029295&cid=42117&categoryId=42117",
+			"description":" 제재된 <b>목재<\/b>를 건조하기 위해 건조로를 운전하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 생산지시서, 명세서 등을 숙지한다. 건조방법을 결정하고 수종별 건조시간, 온도, 압력, <b>목재<\/b>무게 등을 결정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>홈톱질원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029304&cid=42117&categoryId=42117",
+			"description":" 완성된 목제품의 결함부위를 잘라내기 위해 <b>목재<\/b>홈톱(Stock Patch Saw)을 조작한다. [수행<b>직무<\/b>] 목제품을 조사하여 결함부위를 파악하고 결함의 길이와 깊이에 따라 기계를 조정하기 위하여 레버를 조작한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가구<b>목재<\/b>재단원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029275&cid=42117&categoryId=42117",
+			"description":" 자동 <b>목재<\/b> 재단기를 이용하여 제품의 규격에 맞게 자재를 재단한다. [수행<b>직무<\/b>] 작업지시서에 명기되어 있는 제품의 규격, 두께 및 분할도 등을 확인하여 자동 <b>목재<\/b> 재단장비의 컴퓨터에 치수를 입력한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>건조기운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029294&cid=42117&categoryId=42117",
+			"description":" 제재된 <b>목재<\/b>를 필요한 함수율이 유지되도록 건조하는 건조기를 운전한다. [수행<b>직무<\/b>] 함수율측정기를 사용하여 <b>목재<\/b>의 수분 함유량이나 무게를 측정한다. <b>목재<\/b>의 견본을 오븐에 넣어 견본이 건조해 감에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>밀링기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029296&cid=42117&categoryId=42117",
+			"description":" 가공한 목제품의 각 부위에 경첩 등을 부착할 수 있도록 홈을 가공하는 기계(Milling Machine)를 조작한다. [수행<b>직무<\/b>] 목제품에 따라 가공할 비트를 기계에 삽입하고 고정한다. 도면과 <b>목재<\/b>규격을 확인하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>목재<\/b>가구제조관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024445&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>가구의 생산과정을 총괄 관리하고, 가구제조원의 업무를 분담·조정·감독한다. [수행<b>직무<\/b>] 가구 주문량에 따라 생산계획을 세운다. 생산에 필요한 자재 및 소모품 등을 산정하여 구매한다. 생산계획에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>가공기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029293&cid=42117&categoryId=42117",
+			"description":" 컨테이너용 합판의 모서리를 가공하는 기계(Tenoner)를 조작한다. [수행<b>직무<\/b>] 합판규격에 맞는 날(Cutter)을 선택하여 기계의 회전축에 끼운다. 가공하고자 하는 형태로 기계를 조정하고, 동력스위치를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>보링기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029297&cid=42117&categoryId=42117",
+			"description":" 각종 부재를 결합하기 위하여 일정한 간격, 직경, 깊이로 구멍을 뚫는 기계(Boring Machine)를 조작한다. [수행<b>직무<\/b>] 부품가공에 필요한 비트(Bit)의 직경, 깊이 등을 확인하고 기계의 압력, 부품이송벨트를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"포장용<b>목재<\/b>상자제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029436&cid=42117&categoryId=42117",
+			"description":" 수동공구나 동력공구를 사용하여 판재와 각재를 자르고, 다듬어서 포장용 <b>목재<\/b>상자의 부분품을 제작한다. [수행<b>직무<\/b>] 자, 연필을 사용하여 판재와 각재를 일정한 길이로 측정하여 표시한다. 전기톱이나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건축<b>목재<\/b>시공기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970414&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 건축<b>목재<\/b>시공기능장 ① 건축<b>목재<\/b>시공기능장이란 산업인력공단에서 시행하는 건축<b>목재<\/b>시공기능장 시험에 합격하여 그 자격을 취득한 자를 말한다. ② 건축구조물이 대형화되고, 특수재료의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180412180130189_U79C0YC3O.jpg\/da6_20_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"윤곽형삭기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029317&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>조립 부분의 형태를 가공하거나 견본의 윤곽대로 <b>목재<\/b>의 외관을 절단하기 위하여 윤곽형삭기(Shaper)를 조작한다. [수행<b>직무<\/b>] <b>목재<\/b>의 외형, 형태 또는 작업지시서에 명시된 절단형태에 따라 절단날을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"리톱기계조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029289&cid=42117&categoryId=42117",
+			"description":" 두꺼운 판재나 큰 각재 또는 넓은 널판을 얇은 널로 절단하기 위하여 리톱(Resaw)을 조작한다. [수행<b>직무<\/b>] <b>목재<\/b>의 형태에 따라 절단 방법을 결정한다. 공급롤러(Feed Roller) 사이의 간격을 조정하기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"임산공학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025227&cid=42117&categoryId=42117",
+			"description":" 친환경적이며 재생가능자원인 임산자원의 합리적 이용을 위한 물리·화학적 성질규명과 화학성분의 구조해석 및 효율적 가공·이용기술을 확립하기 위한 연구를 한다. [수행<b>직무<\/b>] <b>목재<\/b>의 재질·조직과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>칩분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029193&cid=42117&categoryId=42117",
+			"description":" 펄프제조에 사용할 <b>목재<\/b> 칩(Chip)의 품질과 특성을 확인하기 위하여 견본을 채취하여 시험·분석한다. [수행<b>직무<\/b>] <b>목재<\/b> 칩검수원이 보고한 이상한 <b>목재<\/b> 칩에 대해 견본을 채취한다. <b>목재<\/b> 칩을 건조시켜서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수동대패원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026367&cid=42117&categoryId=42117",
+			"description":" 수동대패를 사용하여 <b>목재<\/b>의 표면을 매끄럽게 깎는다. [수행<b>직무<\/b>] <b>목재<\/b>표면에 못 또는 다른 이물질의 존재 여부를 검사한다. 작업물에 따라 막대패, 중간대패, 다듬질대패를 선정한다. 대패 집을 손으로 잡고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>칩검수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024710&cid=42117&categoryId=42117",
+			"description":" 펄프의 원료인 <b>목재<\/b> 칩이 규정된 기준과 일치하는지 확인·검사하는 일을 한다. [수행<b>직무<\/b>] <b>목재<\/b> 칩에 대한 규격품의서를 확인한다. 계근된 <b>목재<\/b> 칩 중에서 무작위로 표본을 채집한다. 표본에 포함된 이물질의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"펄프야적장관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024726&cid=42117&categoryId=42117",
+			"description":" 펄프를 제조하는 데 사용할 <b>목재<\/b> 칩(Chip), 펄프용재 등의 원·부자재를 저장·관리하고 펄프제조공정으로 투입한다. [수행<b>직무<\/b>] <b>목재<\/b> 칩 수송차량을 <b>목재<\/b> 칩의 상태와 수종에 따라 지정된 야적장으로 유도하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목공소작업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029429&cid=42117&categoryId=42117",
+			"description":" 목제품을 생산하기 위하여 <b>목재<\/b>를 관리·선정·가공·완성하는 작업을 수행하거나 보조한다. [수행<b>직무<\/b>] <b>목재<\/b>의 관리를 위하여 공기가 유통되도록 제재목 사이에 지지목을 배치하고 자연건조 기간 동안 더미를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가구시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029190&cid=42117&categoryId=42117",
+			"description":" 가구 생산기술 및 자재기술을 개발하기 위해서 가구자재의 성능, 구조 등을 시험·분석한다. [수행<b>직무<\/b>] <b>목재<\/b> 및 목질 복합재의 강도를 충격시험기로 시험하고 판제품의 물성시험을 한다. 경칩, 태커(Tacker)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"칠공예가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551171&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>목재<\/b>나 진흙 등의 기물 위에 옹이나 흠이 난 곳을 고운 톱밥과 생칠 등으로 표면을 고르고 생칠을 묽게 바른다. 다시 생칠과 찹쌀풀을 섞어 베나 모시헝겊으로 천바르기를 한다. 숯가루와 패분의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나전칠기도장공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029447&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>로 제작된 물건에 헝겊 등을 깔아놓고 옻칠 혹은 캐슈칠(Cashew)을 한다. [수행<b>직무<\/b>] 부드러운 <b>목재<\/b>로 제작한 백골(칠과 자개세공을 하기 전의 장, 혹은 함과 같은 나전제품) 밑바탕에 천이나 종이를 전면에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"러닝톱조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658797&cid=42117&categoryId=42117",
+			"description":" 조립된 <b>목재<\/b>부품이나 합판을 규정된 치수에 맞도록 절단하는 러닝톱(Running Saw)를 조작한다. [수행<b>직무<\/b>] 절단할 <b>목재<\/b>를 작업도면과 비교하여 규격을 확인한다. <b>목재<\/b>를 작업대 위에 올려놓는다. 톱의 마모와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자동대패기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029318&cid=42117&categoryId=42117",
+			"description":" 제재된 <b>목재<\/b>표면을 규정된 두께로 다듬기 위해 자동대패기를 조작한다. [수행<b>직무<\/b>] 가공할 <b>목재<\/b>를 수령하고 작업지시서에 명시된 가공치수를 확인한다. 수동 휠을 돌려 표면을 다듬을 치수와 <b>목재<\/b>의 두께에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목조각원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029458&cid=42117&categoryId=42117",
+			"description":" 조각칼로 도안부분을 파서 <b>목재<\/b>에 문양을 조각한다. [수행<b>직무<\/b>] 조각할 <b>목재<\/b>를 준비하고, 마름질 치수에 맞추어 톱으로 자르고 대패로 다듬는다. 조각할 도안을 <b>목재<\/b>표면에 모사한다. 도안형태의 선과 면을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서비스·경험디자인 기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6197204&cid=42114&categoryId=42114",
+			"description":"② 서비스·경험 만족을 위해 사용자 중심의 디자인 사고를 기반으로 통합적인 프로세스를 활용하여 서비스·경험 디자인 콘셉트와 모델을 개발하고 운영하는 <b>직무<\/b>를 수행한다. [ 3. 시험정보] (1) 응시자격... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자기타몸통가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029526&cid=42117&categoryId=42117",
+			"description":" 전자기타의 몸통을 가공하기 위해 수동공구로 <b>목재<\/b>를 가공한다. [수행<b>직무<\/b>] 입고된 <b>목재<\/b>의 건조 상태를 확인한다. 작업계획서에 따라 <b>목재<\/b>를 도본 한다. 수동공구를 사용하여 나무를 알맞은 형태로 가공한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자기타몸통가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5936921&cid=42117&categoryId=42117",
+			"description":" 전자기타의 몸통을 가공하기 위해 수동공구로 <b>목재<\/b>를 가공한다. [수행<b>직무<\/b>] 입고된 <b>목재<\/b>의 건조 상태를 확인한다. 작업계획서에 따라 <b>목재<\/b>를 도본한다. 수동공구를 사용하여 나무를 알맞은 형태로 가공한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가구부품조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029425&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 조립할 <b>목재<\/b>의 규격을 검사하고 조립부분의 먼지나 오물을 제거한다. 기계의 작동상태 및 압력을 조절하고 제품이 기계에 투입되는 간격을 조정한다. 가조립된 제품을 프레스기 위에 올려 가압... ",
+			"thumbnail":""
+		},
+		{
+			"title":"펄프원료반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029383&cid=42117&categoryId=42117",
+			"description":" 펄프 제조에 사용되는 원료인 <b>목재<\/b> 칩을 계근·검수·저장·공급하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 야적장에 들어오는 <b>목재<\/b> 칩의 양을 자동 계근대로 파악한다. 펄프제조 공정에 투입되는 <b>목재<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목선반조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029292&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>기물을 가공하기 위하여 <b>목재<\/b>터닝선반(Wood Turning Lathe)을 조작한다. [수행<b>직무<\/b>] 스퍼척(Spur Chuck)과 심압대(Tail Stock) 사이에 <b>목재<\/b>를 놓고 수동 휠을 돌려 <b>목재<\/b>의 중심을 표시한다. 선반을 가동하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>평삭기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029303&cid=42117&categoryId=42117",
+			"description":" 가구, 악기, 칠판 등에 사용되는 <b>목재<\/b>부품들의 표면을 매끄럽게 다듬는 평삭기를 조작한다. [수행<b>직무<\/b>] 렌치와 계기를 사용하는 커터헤드(Cutter Head)에 날을 골라 장착한다. 수동 휠을 돌려서 깎을 깊이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"분열방지밴드압입원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029310&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>나 철도침목이 갈라지지 않도록 압입프레스나 망치를 사용하여 강철밴드(Band)를 압입한다. [수행<b>직무<\/b>] 지게차로 제재 규격에 맞추어 절단된 <b>목재<\/b>나 침목을 작업장으로 운반한다. <b>목재<\/b>나 침목에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"갱립톱조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029278&cid=42117&categoryId=42117",
+			"description":" 각종 <b>목재<\/b>나 합판 등을 규격에 맞추어 길이 방향으로 절단하기 위하여 갱립톱(Gang Rip Saw)을 조작한다. [수행<b>직무<\/b>] 기계커버를 열고 나사를 푼 다음 톱날고정장치를 분해한다. 절단규격으로 톱날을 고정하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>목재<\/b>칩정선기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029302&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b> 칩을 펄프제조용 원료로 사용할 수 있도록 이물질을 제거하는 정선설비를 조작한다. [수행<b>직무<\/b>] 작업지시서를 확인하고 작업내용을 파악한다. <b>목재<\/b> 칩 저장사일로의 저장상태, <b>목재<\/b> 칩 이동 컨베이어의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고속성형절삭기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029279&cid=42117&categoryId=42117",
+			"description":" 두꺼운 판재를 쟁반형태로 깎거나 액자 등 나무제품의 테두리를 가공하기 위하여 고속성형절삭기를 조작한다. [수행<b>직무<\/b>] 기계 각 부위를 점검하고, 가공할 형태에 적합한 톱날을 선정하여 절삭기에 끼운다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"면취기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658779&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>를 대패질하여 형태를 만들고 홈을 파는 목형기계(Spindle Moulder)를 조작한다. [수행<b>직무<\/b>] 모형의 형태를 검토하여 목형기계 설치 순서와 가공할 형태를 결정한다. 제작할 형태에 따라 커팅헤드를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"루터기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029288&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>에 가늘고 긴 구멍과 홈, 도안 등을 오목하게 파는 루터기(Router Machine)를 조작한다. [수행<b>직무<\/b>] 작업할 도면에 따라 척 키(Chuck Key)를 사용하여 스핀들 척에 루터 비트를 선택하여 장착한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"롤러압착기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029287&cid=42117&categoryId=42117",
+			"description":" 절단, 가공된 소재 단면에 테두리(Edge)를 접착하는 기계(Edge Roller Press Machine)를 조작한다. [수행<b>직무<\/b>] 일정 비율로 접착제와 용제를 혼합하고 접착할 <b>목재<\/b>를 기계 위에 쌓는다. 테두리 및 <b>목재<\/b>에 접착할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"형삭기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029347&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>의 표면과 모서리에 홈·접합부분 및 모형을 가공하는 형삭기를 조작한다. [수행<b>직무<\/b>] 작업도면을 검토한 후 커터헤드(Cutter Head), 가이드(Guide), 지그(Jig) 등을 선택하여 장치하고 각 부분을 조절한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증기통관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029328&cid=42117&categoryId=42117",
+			"description":" 무늬목을 제조하거나 기타 <b>목재<\/b>를 가공하기 위하여 통나무를 증기통이나 더운 물통에 담근다. [수행<b>직무<\/b>] 기중기나 호이스트(Hoist)를 사용하여 증기통으로 통나무를 운반한다. 일정 수준의 증기압으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자동선반조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029319&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>부분품을 둥글게 또는 여러 가지 형태로 가공하는 자동선반을 조작한다. [수행<b>직무<\/b>] 설계도면을 검토하여 완성품의 크기와 모양을 파악한다. 형판(Template), 자, 캘리퍼스, 렌치 등을 사용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수압대패기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029311&cid=42117&categoryId=42117",
+			"description":" 이동식 기계대패(Hand Feed Planer)를 사용하여 <b>목재<\/b>의 표면을 고르게 깎는다. [수행<b>직무<\/b>] 이동식 기계대패의 테이블 높이를 조정한다. 직각자 또는 각도기를 사용하여 기계대패의 기준각도를 조정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"침목가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029330&cid=42117&categoryId=42117",
+			"description":" 침목 같은 <b>목재<\/b>에 방부제의 침투가 용이하도록 절개하여 구멍을 뚫는 기계를 조작한다. [수행<b>직무<\/b>] 기계에 렌치나 지렛대 등의 손공구를 사용하여 날이 박힌 인사이징 롤러(Incising Roller)를 설치하고 제품의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방부처리반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029308&cid=42117&categoryId=42117",
+			"description":" 생산된 <b>목재<\/b>에 방부, 방충, 난연성을 부여하기 위하여 방부제나 방충제 등의 화학약품을 사용하여 방부처리하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 생산지시서, 명세서 등을 숙지하고 방부처리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"띠톱조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029285&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>를 곡선이나 불규칙한 형태로 톱질하거나 두꺼운 재목을 절단하기 위하여 띠톱을 조작한다. [수행<b>직무<\/b>] 수동 휠을 돌려 기계의 정반과 톱날 가이드를 조정한다. 가이드 사이에 절단할 <b>목재<\/b>를 넣고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원목측정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029708&cid=42117&categoryId=42117",
+			"description":" 원목이나 펄프용 <b>목재<\/b>의 시장공급 가능량을 측정하기 위하여 <b>목재<\/b>의 크기와 적하를 측정한다. [수행<b>직무<\/b>] 측정자, 줄자 및 기타 측정장치 등으로 각 원목의 크기와 펄프용 <b>목재<\/b>의 전체 적하를 측정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제재반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029324&cid=42117&categoryId=42117",
+			"description":" 원목(통나무)이나 제재목을 규정된 방법에 따라 제재하는 데 종사하는 작업원의 활동을 조정·감독한다. [수행<b>직무<\/b>] 작업지시서를 보고 제재할 <b>목재<\/b>의 형태와 규격, 수종을 확인하고 생산계획을 세우며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"톱밥제조기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029339&cid=42117&categoryId=42117",
+			"description":" 톱밥을 제조하기 위하여 톱밥제조기를 운전한다. [수행<b>직무<\/b>] 톱밥제조기를 작동시킨다. <b>목재<\/b>로 사용이 불가능한 죽데기(Slabs:제재하고 남은 찌꺼기)를 손으로 직접 톱밥제조기에 투입한다. 톱밥제조기가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"각끌기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029277&cid=42117&categoryId=42117",
+			"description":" 결합부의 구조가 장부맞춤일 때에 턱의 가공을 위하여 각끌기를 조작한다. [수행<b>직무<\/b>] 가공부위를 표시한 후 각끌기의 날을 세우고 전후 이동장치를 조절하여 가공할 구멍의 위치와 끌을 맞춘다. 승강핸들을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"둥근톱조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029284&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>를 세로로 켜거나 경사지게 자르고, 홈을 파는 등 규정된 치수로 절단하기 위하여 둥근톱을 설치·조작한다. [수행<b>직무<\/b>] 절단형태에 따라 원반형의 둥근톱을 선택하여 기계의 축에 렌치를 사용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제재기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029323&cid=42117&categoryId=42117",
+			"description":" 대차기로 제재한 반제품(혹은 빵재)을 테이블(Table)식 제재기를 사용하여 제재기보조원과 함께 규정된 치수의 각재나 판재로 켠다. [수행<b>직무<\/b>] 제재할 각재나 판재의 규격을 맞추기 위해 기계의 종류에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"크로스커팅기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029338&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>나 합판, 하드보드(Hard Board), 파티클보드(Particle Board)를 길이 방향으로 절단하는 기계톱(Cross Cutting Saw)을 조작한다. [수행<b>직무<\/b>] 공기스위치를 열고 압력상태를 확인한다. 바닥에 있는 작동스위치를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목선반성형기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029291&cid=42117&categoryId=42117",
+			"description":" 목각인형, 찻잔받침 등 둥근 형태의 <b>목재<\/b>기물을 가공하기 위해 목선반을 조작한다. [수행<b>직무<\/b>] 둥근 형태로 절단된 나무를 수령하여 작업대로 운반한다. 제품 가공에 사용할 목형 틀을 선반에 끼워 장치한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방부처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029309&cid=42117&categoryId=42117",
+			"description":" 건축외장재 및 어린이놀이시설물, 조경시설물, 지주재 등의 건축용재와 철도침목 등으로 쓰이는 판재나 각재 같은 목제품에 압력을 가해 방부제나 방충제 등의 화학약품을 처리하는 주약처리 과정을 조정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제재소작업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029621&cid=42117&categoryId=42117",
+			"description":" 원목(통나무)이나 제재목을 자르기 위한 준비를 하거나 켜진 <b>목재<\/b>를 제재소에 보관하는 등의 잡무를 수행한다. [수행<b>직무<\/b>] 지렛대를 이용하거나 손이나 트럭으로 열차에서 <b>목재<\/b>를 내리거나 싣는다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"벌목계획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024764&cid=42117&categoryId=42117",
+			"description":" 벌목을 위한 도로건설, 벌목기계설치, 장비 및 구조물 등 벌목 및 <b>목재<\/b>운반계획을 수립하고 실행한다. [수행<b>직무<\/b>] 벌목작업이 행해지는 산림지역을 측량하고 지형적인 특성을 나타내는 지도를 작성한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목드럼제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029418&cid=42117&categoryId=42117",
+			"description":" 판재를 환거기로 절단하고 사면·자동·수동대패기로 다듬질한 후 정타기로 못을 쳐 전선포장용 목드럼을 제작한다. [수행<b>직무<\/b>] 작업지시서에 따라 작업량을 확인한다. 수동공구, 환거기, 사면대패기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대차기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029283&cid=42117&categoryId=42117",
+			"description":" 일정한 길이로 잘린 원목(통나무)으로 일정한 두께의 반제품(혹은 빵재)을 생산하는 대차기(띠톱기계)를 조작한다. [수행<b>직무<\/b>] 대차기에 실린 원목을 육안이나 자로 재어보고 수종, 직경, 나뭇결, 조직, 결점... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목공반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026361&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>구조물 및 고정설치물을 성형·건조·보수하는 작업을 관리하고 목공 및 목공보조원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 설계도면에 따라 작업일정을 계획한다. 필요한 장비 및 공구의 종류와 양을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재목운반원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029619&cid=42117&categoryId=42117",
+			"description":" 목제품 가공 기계로 가공된 <b>목재<\/b>를 쌓거나 운반한다. [수행<b>직무<\/b>] 다음 공정을 위해 해당 작업부서로 이송할 수 있도록 <b>목재<\/b>를 쌓아두거나, 트럭화물용 적재판 또는 컨베이어 위에 올려놓는다. <b>목재<\/b>의 수량을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제품적재원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029622&cid=42117&categoryId=42117",
+			"description":" 제재된 목제품을 크기나 길이에 따라 분류·적재한다. [수행<b>직무<\/b>] 일정 규격으로 제재되어 컨베이어에 실려 나오는 목제품을 목제품의 규격, 품목에 따라 육안으로 선별·구분한다. 불량품을 골라내고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기타넥가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029520&cid=42117&categoryId=42117",
+			"description":" 수동공구로 <b>목재<\/b>를 성형하여 기타 넥을 가공한다. [수행<b>직무<\/b>] 육안으로 입고된 <b>목재<\/b>의 상태를 점검한다. 작업계획서에 따라 <b>목재<\/b>에 도본 한다. 톱, 띠톱기계 등 절단공구를 사용하여 나무를 알맞은 형태로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목공보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026362&cid=42117&categoryId=42117",
+			"description":" 건축물을 건조하고 실내 목구조물을 제작하기 위하여 <b>목재<\/b>를 재단·성형·조립하는 목공을 보조한다. [수행<b>직무<\/b>] 작업대를 조립·설치하고 가공기계의 설치와 조작을 보조한다. 선별된 <b>목재<\/b>를 작업 장소로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기타제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029521&cid=42117&categoryId=42117",
+			"description":" 기타를 제조하기 위해 <b>목재<\/b>를 가공하고, 부품을 성형하며 바니시, 셀락을 이용하여 도장하고 완성된 악기를 직접 연주하여 점검한다. [수행<b>직무<\/b>] 앞·뒤판, 옆판, 넥에 쓰일 <b>목재<\/b>를 선별한다. 제조계획에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나전칠기백골원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029448&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>나 합판을 절단하여 나전제품의 부품을 아교로 붙여 백골을 제작한다. [수행<b>직무<\/b>] 목공도구나 목공기계를 이용하여 제품의 설계도면에 따라 <b>목재<\/b>를 자르고 깎고 다듬는다. 곡선모양으로 제품을 재단할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목조주택건립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026364&cid=42117&categoryId=42117",
+			"description":" 가공된 규격재를 사용하여 주택의 바닥, 벽, 기둥, 지붕 등의 목구조와 실내외 <b>목재<\/b>마감을 시공한다. [수행<b>직무<\/b>] 목구조 설계도서를 숙지한다. 시공된 콘크리트 기초 상단의 벽체나 기둥 위치에 앵커볼트를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"침지압착원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027844&cid=42117&categoryId=42117",
+			"description":" 알칼리 셀롤로오스를 만들기 위하여 일정 중량의 <b>목재<\/b>펄프를 담금압착기(Steeping Press)에 투입 후 규정농도의 수산화나트륨용액에서 침지시킨다. [수행<b>직무<\/b>] 담금압착기에 담긴 규정농도의 가성소다용액에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"실험용항공기제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026519&cid=42117&categoryId=42117",
+			"description":" <b>목재<\/b>·금속가공장비와 수동공구를 사용하여 실험용 항공기를 제작·설치한다. [수행<b>직무<\/b>] 도면을 보고 작업에 필요한 공구와 각종 자재를 준비한다. 삼각자와 게이지(Gauge), 캘리퍼스(Callipers) 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증해기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029372&cid=42117&categoryId=42117",
+			"description":" 펄프제조용 <b>목재<\/b> 칩(Chip)을 해리시키기 위하여 고온으로 삶는 증해기 및 부속설비를 운전한다. [수행<b>직무<\/b>] 설비의 정상가동을 방해하는 이물질을 제거한다. 작동 중인 각종 설비를 순회하며 정상적인 작업이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내장목공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026357&cid=42117&categoryId=42117",
+			"description":" 건축물 내부의 장식, 방음, 실용성 제고를 목적으로 <b>목재<\/b>를 이용하여 방음설비 및 마루, 칸막이, 천정, 목장식품 등을 제작하고 설치한다. [수행<b>직무<\/b>] 도면을 검토하여 필요한 <b>목재<\/b>의 종류, 기 제작된 목제품... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현악기제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029533&cid=42117&categoryId=42117",
+			"description":" 바이올린, 비올라, 첼로 등 현악기를 제조하기 위해 <b>목재<\/b>를 가공하고 완성된 악기를 직접 연주하여 상태를 점검한다. [수행<b>직무<\/b>] 악기의 종류에 알맞은 <b>목재<\/b>를 선별한다. 앞판을 제조하기 위해 <b>목재<\/b>에 도본... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조림관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4394791&cid=42117&categoryId=42117",
+			"description":" 묘목을 생산하여 산지에 식재하거나 기존 천연림을 보육 관리하고 일정 면적당 적정 밀도를 유지시켜 우량한 <b>목재<\/b>가 생산되도록 관리한다. [수행<b>직무<\/b>] 채종림 또는 우량 모수를 조사하여 선정하고 익년도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"테라코타형틀제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5551172&cid=42117&categoryId=42117",
+			"description":"작업에 필요한 석고분말과 <b>목재<\/b> 형틀, 점토 등 부자재와 도구를 준비한다. <b>목재<\/b> 형틀 속에 점토를 채우고 점토 표면을 형판으로 밀어 제품의 전·후·측면의 형을 뜬다. 굳어진 형 위에 비눗물 등 분리제를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선박주형제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026980&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 주어진 도면을 보고 공구 및 <b>목재<\/b>를 준비한다. 나무를 기계톱을 이용하여 도면에 맞게 절단한다. 도면을 보고 나무에 현도(축적된 도면을 실물 크기로 확대, 평면 위에 나타나게 한 것)를 그린다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재목공급원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029618&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 손수레 등의 운반도구를 이용하여 <b>목재<\/b> 저장소에서 목공기계로 운반한다. 운반도구에서 <b>목재<\/b>를 들어 올려 기계의 컨베이어 위나 호퍼(Hopper:분립체의 저장 및 공급장치) 속 또는 롤러 사이에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"벌목장관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024465&cid=42117&categoryId=42117",
+			"description":"벌목된 <b>목재<\/b>를 공급하기 위한 시장을 확보하고 <b>목재<\/b>가격을 산정하여 판매한다. 사업진행에 따른 소요인부·벌목기간·생산량 등의 작업내용을 기록부에 작성하고 보존한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"소목장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026366&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 목부재의 종류에 따라 <b>목재<\/b>를 선정·구입하고 통풍이 잘되는 곳에서 자연상태로 건조시킨다. 설계도와 고증자료를 검토하고 작업내용을 작업원들에게 지시한다. <b>목재<\/b>의 보관상태나 함수상태가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소목",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026365&cid=42117&categoryId=42117",
+			"description":"사용할 춘향목, 홍송 등 <b>목재<\/b>의 건조상태, 비틀림 등을 확인하여 선별한다. <b>목재<\/b>의 비틀림을 바로잡고 두께를 일정하게 잡기 위하여 대패질하고 치수에 따라 마름질한다. 문틀의 크기를 고려하여 각 부분품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"임업단순노무자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029733&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 나무를 심기 위하여 구덩이를 판다. 벌목하기 위하여 관목을 제거한다. 통나무 및 <b>목재<\/b>를 운반하여 쌓는다. 기타 숙련 임업종사원이 지시하는 간단한 임무를 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"도편수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026358&cid=42117&categoryId=42117",
+			"description":"작업원을 배치하고 사용할 <b>목재<\/b>와 자재들이 건축관계법규(건축법, 문화재수리표준시방서)와 부합하는지 여부를 검사한다. 조립 또는 세우기에 앞서 각 부재의 조립순서, 사용기구, 조립방법 등 세부계획을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한식목공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026371&cid=42117&categoryId=42117",
+			"description":"각종 대패, 톱, 끌 및 자귀 등의 도구를 사용하여 제재(나무를 켜서 재목을 만듦), 치목(재목을 다듬음), 바심질(<b>목재<\/b>를 깎고 파서 다듬는 일)하여 목적에 맞게 <b>목재<\/b>를 가공한다. 기초와 기둥, 기둥과 보, 기둥이음... ",
+			"thumbnail":""
+		},
+		{
+			"title":"악기품질시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029525&cid=42117&categoryId=42117",
+			"description":"시험방법에 따라 시험기나 측정기를 조작하여 함수율 측정, 내건성, 내습성, 내후성, 내구성, <b>목재<\/b>의 휨·틀어짐 등을 시험하고 시험성적표를 작성한다. 측정결과에 따라 작업장 내부의 온도, 습도를 조절한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"요소맞춤원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026368&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 맞춤의 종류에 따라 <b>목재<\/b> 모서리에 금을 긋고, 제거할 부분을 톱으로 자른다. 각끌이나 끌로 맞춤 형태에 적당한 구멍, 홈, 요철 등의 모양으로 파낸다. 결합부위를 맞추어 보면서 끌로 다듬는다. 접착... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목조주택건립반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026363&cid=42117&categoryId=42117",
+			"description":"반입<b>목재<\/b>의 옹이(<b>목재<\/b>의 사절(死節) 또는 부절(腐節)이 느슨해져 빠질 듯한 상태로 존재하는 마디 또는 빠져 떨어져 나간 구멍), 비틀림, 방부·방충처리 상태, 규격 등 가공상태를 검사한다. 설계도서에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"상감원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029461&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 조각에 필요한 <b>목재<\/b>와 조각공구 및 실톱을 준비한다. 조각할 문양을 재료에 옮겨 그린다. 상감할 부위를 음각으로 조각한다. 상감재를 도안에 따라 실톱으로 잘라내고, 상감재를 바탕목에 맞춰... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원목등급원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029705&cid=42117&categoryId=42117",
+			"description":"나무 전체 부피에서 폐기<b>목재<\/b> 부피를 측정하여 빼고 기록부에 등급에 따라 부피를 기록한다. 등급과 나무종류를 확인하기 위하여 원목표피에 페인트분무기로 분류를 표시하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"비계해체원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664739&cid=42117&categoryId=42117",
+			"description":"해체하여 와이어 로프와 샥클(Shackle)로 결박한다. 신호수에 하강 수신호로 대상물을 내린다. 대상물이 지면에 도착 시 결박을 해체하여 <b>목재<\/b>, 앵글, 추락방지망, 비계고정철물 등으로 분류·정리한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"무육관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029694&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 산림 내의 임목을 경제성 있는 양질의 <b>목재<\/b>로 육성하기 위하여 작업계획을 수립한다. 작업원을 동원하여 벌채하기 전까지 산지에서 비료를 주고, 임목 주위의 풀을 베고, 솎아주고, 덩쿨을 제거하고... ",
+			"thumbnail":""
+		}
+	]
+}

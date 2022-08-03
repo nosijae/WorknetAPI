@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:41 +0900",
+	"total":54434,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3537135&cid=60217&categoryId=60217",
+			"description":"<b>에너지<\/b>는 물리계가 일(work)을 얼마나 많이 할 수 있는지를 정량적으로 나타낸 것을 말한다. <b>에너지<\/b>라는 용어는 일상적으로 많이 사용되지만, 그 개념은 매우 추상적이다. 우리는 <b>에너지<\/b>를 직접 인지하지는... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20190313_53\/6Ws32_15524502039899IjC9_JPEG\/01ed277b-4545-11e9-8daf-28b4484d608c_03.jpg#1920x1080#m"
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=419775&cid=60277&categoryId=60277",
+			"description":"<b>에너지<\/b>의 개념은 세 가지 전통으로서 발전이 이루어졌다. 역학을 연구하는 중세의 학생들은 운동에 관계되는 어떤 일정량이 보존된다는 가정을 하였다; 라이프니츠(G. W. Leibniz, 1646-1716)는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117640&cid=47338&categoryId=47338",
+			"description":"교과서 속 주개념] [ 1) <b>에너지<\/b>] <b>에너지<\/b>는 일을 할 수 있는 능력을 말하며 외부로부터 일을 받으면 받은 일만큼 <b>에너지<\/b>는 증가하고, 외부에 일을 하면 일을 한만큼 <b>에너지<\/b>를 잃는다. [ 2) 운동 <b>에너지<\/b>(Ek)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2780_000_1\/20140404170804956_ZNVHNRL6L.jpg\/z3_1174_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1846185&cid=43114&categoryId=43114",
+			"description":"세계 국가별 석유 매장량 순위는 사우디아라비아 2,627억 배럴, 이란 1,307억 배럴, 이라크 1,150억 배럴, 아랍에미리트연합 978억 배럴, 쿠웨이트 965억 배럴, 베네주엘라 780억 배럴, 러시아 691억 배럴... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1125016&cid=40942&categoryId=32230",
+			"description":" 물리적인 일을 할 수 있는 능력. <b>에너지<\/b>의 크기는 물체가 할 수 있는 일의 양을 의미한다. 단위는 일의 단위와 같이 줄([J]: joule)을 사용한다.  물리적인 <b>에너지<\/b>는 일을 할 수 있는 능력을 말한다. 여기에서 일은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_54\/20181015184542784_ELR5EC3SO.jpg\/28702.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=581056&cid=46637&categoryId=46637",
+			"description":" 보존되는 물리량의 한 종류를 가리키는 과학용어. [내용] <b>에너지<\/b>는 물리학적 개념의 발전과정에서 정립되어 매우 중요하게 사용되고 있는 개념으로 동양에서 사용되어 왔던 단어와 연관을 짓는다면 기(氣)의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1583807&cid=50313&categoryId=50313",
+			"description":"<b>에너지<\/b>환경공학용어사전 일반적으로는 일을 할 수 있는 능력 또는 그 양을 말한다. 처음에는 물체의 역학적 능력만이 고안되었지만 열, 광, 전자기, 질량 등에도 확대되어 이들 전부에 대해서 「<b>에너지<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5749929&cid=51638&categoryId=63814",
+			"description":"[<b>에너지<\/b>] 물체나 계가 일을 할 수 있는 능력 Energy : The capacity of a system or a body to do work. (동영상 출처 : Twig Education 트위그 에듀케이션)",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20190313_53\/6Ws32_15524502039899IjC9_JPEG\/01ed277b-4545-11e9-8daf-28b4484d608c_03.jpg#1920x1080#m"
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=452162&cid=42876&categoryId=42876",
+			"description":"인간의 생활 현상은 <b>에너지<\/b>의 소비로써 이루어지는데, 그 <b>에너지<\/b>의 식품으로 섭취된 물질은 동물체 소화관 내에서 발효작용에 의해 분해되고, 그것이 갖는 잠재성 <b>에너지<\/b>가 활동성 <b>에너지<\/b>로 변화되어 모든... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3550445&cid=58584&categoryId=58624",
+			"description":" 사람이 활동하는 힘 또는 물체가 가지고 있는 일을 하는 능력을 통틀어 이르는 말.  <b>에너지<\/b>는 사람이 활동하는 힘 또는 물체가 가지고 있는 일을 하는 능력을 통틀어 이르는 말이에요. <b>에너지<\/b>를 이용하면... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_5\/20170125125321321_G4042G5EZ.jpg\/172_78501_000805.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=728570&cid=42140&categoryId=42140",
+			"description":"<b>에너지<\/b>란 일을 할 수 있는 능력과 물리학적 일로 환산되는 모든 양의 총칭이다. 석유, 석탄, 천연가스, 수력, 원자력, 지열 등의 1차 <b>에너지<\/b>는 최종적으로 전력, 도시가스, 가솔린, 등유 등 2차 <b>에너지<\/b>의 형태로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3476052&cid=58439&categoryId=58439",
+			"description":"그리스어의 “일”을 뜻하는 에르곤(ergon)에 “속에”라는 접두사 엔(en)이 붙은 말로서, 속에 감춰진 일, 즉 “물체가 지니고 있는 일을 할 수 있는 능력”을 말한다.<b>에너지<\/b>는 서로 다른 형태의 <b>에너지<\/b>로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6067300&cid=67350&categoryId=67350",
+			"description":"[구조] <b>에너지<\/b>의 크기는 물체가 할 수 있는 일의 양을 의미한며, 물리적인 일을 할수 있는 능력을 말한다. 참고 : 건축학용어사전, 세화 [구조] 중국어 : 能量 일본어 : エネルギー(enerugī) 물리학적인 일로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=661640&cid=42434&categoryId=42434",
+			"description":"일반적으로 <b>에너지<\/b>라는 말을 간결하고 정확하게 정의하기는 어려우나 물리학적으로는 일(work)로 환산할 수 있는 물리량의 총칭이다. 역사적으로는 원래 물체가 역학적으로 일을 할 수 있는 능력만의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=388291&cid=41978&categoryId=41985",
+			"description":"일상적으로는 활동력으로 이해되지만, 물리학의 기본 개념으로서는, 어떤 물체가 그 상태를 변화시키고 일정한 일을 수행하는 능력이고 <b>에너지<\/b> 보존의 법칙과 연결되어 해석된다. 양적 측면에서 보여진 물질의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6595509&cid=47309&categoryId=47309",
+			"description":" 일을 할 수 있는 능력.  사람이나 동식물, 우주에 있는 천체 등 모든 물체는 <b>에너지<\/b>를 가지고 있어요. <b>에너지<\/b>의 종류에는 운동 <b>에너지<\/b>, 위치 <b>에너지<\/b>, 열<b>에너지<\/b>, 전기 <b>에너지<\/b>, 빛 <b>에너지<\/b>, 화학 <b>에너지<\/b> 등이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=933692&cid=43667&categoryId=43667",
+			"description":" 물리학에서 일을 할 수 있는 능력.  | 외국어 표기 | energy(영어) | 여기서 일이란 힘과 힘이 작용하는 방향으로의 이동거리의 곱인 물리적인 일을 뜻한다. 즉, <b>에너지<\/b>의 크기는 물체가 할 수 있는 일의 양을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=511508&cid=42126&categoryId=42126",
+			"description":"그런데 이 「일」을 낳게 하는데에는, 연료·전력·빛·낙수(落水)등의「일의 근원」이 반드시 필요하게 되며, 이것을 <b>에너지<\/b>라 한다. 운동하는 물체가 갖는 <b>에너지<\/b>를 운동 <b>에너지<\/b>라 하고, 정지해 있는 물체가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=616049&cid=42322&categoryId=42322",
+			"description":"이것을 위치의 <b>에너지<\/b>라 한다. 또 움직이고 있는 물체가 정지하기까지는 도중의 변화에 관계없이 최초의 속도만으로 정해지는 일정한 일을 외부에 대해서 할 수 있다. 이것을 운동의 <b>에너지<\/b>라 한다. 이들의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=925737&cid=47338&categoryId=47338",
+			"description":"<b>에너지<\/b>(energy)의 ‘en’은 ‘안에’라는 뜻이며 ‘ergy’는 ‘일’을 의미한다. 이 ‘안에 들어 있는 일’을 어떤 방법으로 드러내는가에 따라 <b>에너지<\/b>의 종류와 형태는 다양하다. 운동하는 물체가 가지고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=391982&cid=42827&categoryId=42827",
+			"description":"높은 곳에 있는 물체가 중력의 작용을 받아서 낮은 곳으로 내려와 정지할 때 까지는 도중의 변화와는 관계없이 시종의 위치만으로 정해지는 일정량의 일을 외부에 할 수 있는데, 이를 위치 <b>에너지<\/b>라 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=340471&cid=44616&categoryId=44616",
+			"description":"일을 할 수 있는 능력을 <b>에너지<\/b>라고 하며, 일의 양으로써 나타내며 <b>에너지<\/b>의 단위는 에르그, 칼로리, 와트시 및 그 밖에 몇 가지가 있으며, 상호간 일정한 비율로 환산할 수 있다. <b>에너지<\/b>의 변환 예",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2537_000_1\/20130723112620845_LZND3G8ZG.jpg\/i2056.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=367572&cid=42413&categoryId=42413",
+			"description":"1kcal는 1기압 하에서 물 1㎏ 의 온도를 14.5℃에서 15.5℃로 1℃ 올리는 데 필요한 <b>에너지<\/b>이다. 최근, <b>에너지<\/b>의 단위로 주울(joule, J)을 이용하는 것이 국제적으로 권장되고 있다. 1kcal는 4.184kJ과 같다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2759291&cid=50313&categoryId=50313",
+			"description":"일을 하는 능력을 통틀어 이르는 말로, 역학적 일을 기준으로 하여 이와 동등하다고 생각되는 것, 또는 이것으로 환산할 수 있는 것을 이른다. <b>에너지<\/b>의 형태에 따라 운동 · 위치 · 열 · 전기 <b>에너지<\/b>로 구분한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1656837&cid=50313&categoryId=50313",
+			"description":"높은 곳에 있는 물체는 낮은 곳에 있을 때에 비해서 보다 큰 위치의 <b>에너지<\/b>를 가지고, 움직이고 있는 물체는 운동 <b>에너지<\/b>를 갖는다. 외력의 작용을 받지 않는 물체의 경우, 운동 <b>에너지<\/b>와 위치 <b>에너지<\/b>의 합은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=924339&cid=47338&categoryId=47338",
+			"description":"일을 할 수 있는 능력을 말하며, 전기 · 화학 · 위치 · 운동 · 열 등 많은 종류가 있으며 일과 <b>에너지<\/b>는 상호 전환될 수 있다. 따라서 <b>에너지<\/b>는 할 수 있는 일의 양으로 측정할 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=940994&cid=47338&categoryId=47338",
+			"description":"일을 할 수 있는 능력으로, <b>에너지<\/b>의 크기는 물체가 할 수 있는 일의 양으로 나타낼 수 있으므로 <b>에너지<\/b>의 단위는 일의 단위와 같이 J(줄)을 사용한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6160465&cid=67725&categoryId=67725",
+			"description":"물질이나 계가 갖고 있는 일을 할 수 있는 능력. 단위는 줄(joule, J)이며 운동 <b>에너지<\/b>, 위치 <b>에너지<\/b>, 화학 <b>에너지<\/b>, 전기 <b>에너지<\/b>, 핵<b>에너지<\/b> 따위가 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=980138&cid=50313&categoryId=50313",
+			"description":"물체가 물리학적인 일을 할 수 있는 능력을 말한다. 여기에는 전기<b>에너지<\/b>, 열<b>에너지<\/b>, 빛<b>에너지<\/b>, 운동<b>에너지<\/b>, 위치<b>에너지<\/b>, 화학<b>에너지<\/b> 등 여러 가지가 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1835782&cid=49073&categoryId=49073",
+			"description":"작업을 수행하는 동력. 자연 현상(예를 들면, 태양열 또는 풍력) 또는 원자재(예를 들면, 석탄 또는 석유)로부터 생산된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5767646&cid=64628&categoryId=64628",
+			"description":"기본적인 물리량의 하나로 물체나 물체계가 가지고 있는 일을 하는 능력을 통틀어 이르는 말 북한의 철도용어에네르기",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1939357&cid=40942&categoryId=34126",
+			"description":"미국 텍사스(Texas)주 코만치카운티(Comanche County)에 있는 자치구이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=443155&cid=50313&categoryId=50313",
+			"description":"방사선 자체가 투과해 가는 능력을 결정하는 방사선의 한 성질.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415316&cid=68110&categoryId=68110",
+			"description":"일반적으로 일을 하는 힘",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=28564",
+			"description":"이 성질이 <b>에너지<\/b>의 개념 및 <b>에너지<\/b>보전법칙의 특징이다. 몇 개의 질점으로 구성된 계에서 각 질점 사이에 작용하는 내력이 작용반작용의 원리에 따르는 보존력일 때는 계에 작용하는 외력이 하는 일은 계의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 <b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49014",
+			"description":"지열\/화석, 수력\/전기, 핵, 태양, 풍력.",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 커뮤니케이션",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49066",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%97%90%EB%84%88%EC%A7%80",
+			"description":"<b>에너지<\/b> ( 영어: energy , 문화어: 에네르기, 독일어: energie )는 물리학에서 일을 할 수 있는 능력을 뜻한다. 이에 크게 벗어나지 않게, 일반적으로 '석유 <b>에너지<\/b>', '원자력 <b>에너지<\/b>'와 같이 '<b>에너지<\/b>원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=285777",
+			"description":"<b>에너지<\/b>관련 지식\n관련분야 냉동기 공조기 화력발전소 원자력발전소 열병합발전소",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=259824",
+			"description":"신재생<b>에너지<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=170725",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"역학적 <b>에너지<\/b>의 전환",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3389507&cid=47338&categoryId=47338",
+			"description":"[이 세상을 움직이는 힘] <b>에너지<\/b>는 도시의 밤거리를 밝혀 주고, 음식물을 익히고, 겨울에는 집을 따뜻하게 해 준다. 또한 자동차를 달리게 하고, 공장이 돌아가게 한다. <b>에너지<\/b>는 눈에 보이지도 않고 잡을 수도... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4366_000_1\/20160330112009473_9BPAAT13H.jpg\/s_ca16_20_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"일과 <b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6558042&cid=47309&categoryId=47309",
+			"description":" 과학에서 일은 어떤 물체에 힘이 작용하여 물체가 힘의 방향으로 이동하는 것, <b>에너지<\/b>는 일을 할 수 있는 능력. 일과 <b>에너지<\/b>는 서로 전환될 수 있다. [과학에서의 일] 어른들이 밖에서 하는 것도 일이고, 집에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1779_000_1\/20211227190351859_MYGCNU41K.png\/bh5_292_i1.png?type=m160_160"
+		},
+		{
+			"title":"기장의 재발견",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6550730&cid=67309&categoryId=67309",
+			"description":" 기장은 어떤  식물일까. 기장은 모든 작물 가운데 물 사용 효율(WUE)이 가장 높다. 재배 기간이 두세 달에 불과해 역시 작물 가운데 가장 짧다. 기장속은 약 450종으로 이뤄져 있는데, 최근... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTEyMTVfMTg1%2FMDAxNjM5NTQ5OTM1Njk2.jXs_dSWxoz70dCP8w2Vre1qp2FiLujk3LzhEnwhKUIIg.ZJq_goAcgs0qIUmtHL71pngtSvpDV7ZeIuICrNBl-EUg.JPEG%2FIZ6hHzA1xRvApQgRD7jAAe1q8ZDA.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x551#c540"
+		},
+		{
+			"title":"[단원정리] Ⅴ. <b>에너지<\/b>와 수송 기술",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/subjectView.do?menu_id=3&contents_id=fs_a0000-2015-0205-0001-000000000193&sub_clss_id=CLSS0000079881&svc_clss_id=CLSS0000059598,CLSS0000059599&contents_openapi=naverdic",
+			"description":"[핵심내용]수송기술의 세계,<b>에너지<\/b>와 동력 [내용] 5<b>에너지<\/b>와 수송기술 키워드 맵<b>에너지<\/b>와 동력수송기술의 세계잠깐만요!OX 퀴즈 PDF 다운로드 키워드 맵 <b>에너지<\/b>와 동력상단으로 <b>에너지<\/b>의 생산과 이용) <b>에너지<\/b> ①... ",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819052705335_WYJ2IIQ8R.JPG\/5_chunjae_0.JPG?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6556076&cid=62802&categoryId=62802",
+			"description":"사전적 의미에서 <b>에너지<\/b>(energy)는 '일을 할 수 있는 힘이나 능력, 또는 인간이 활동하는 근원이 되는 힘'으로 정의된다. 그러나 물리학적으로 <b>에너지<\/b>는 힘(force)과 분명하게 구분되는 개념이고, 일은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5506_000_2\/20211220160924972_Q0OMY3PMY.png\/%25EC%2597%2590%25.png?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b>란 무엇인가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2059865&cid=60218&categoryId=60218",
+			"description":"<b>에너지<\/b>(energy)라는 말은 일이라는 뜻의 그리스어 에르곤(ergon)에서 유래되었다. 즉, 일을 할 수 있는 능력이라는 뜻이다. 일을 한다는 것은 무엇을 뜻하며, 그 양은 어떻게 측정할 수 있을까? <b>에너지<\/b>는 어떤... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2897_000_1\/20140128122531265_SNQEKHSNQ.jpg\/cb4_16_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2300547&cid=60227&categoryId=60227",
+			"description":"역사적으로는 먼저 역학적 <b>에너지<\/b>만이 생각되었는데 점차로 열, 전자기(電磁氣), 빛, 질량 등의 <b>에너지<\/b>도 생각하게 되었다. 역학적 <b>에너지<\/b>는 운동하는 물체가 갖는 운동 <b>에너지<\/b>와 위치만의 함수인 퍼텐셜... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=437240&cid=60261&categoryId=60261",
+			"description":"또 위치만으로 결정하는 퍼텐셜 <b>에너지<\/b>의 값이 각각의 위치에서 V1와 V2라고 한다. 질점의 질량을 m이라 하면 이다. 즉 운동<b>에너지<\/b>와 퍼텐셜<b>에너지<\/b>의 합이 보존된다. 전하나 자극(磁極)이 존재하여 거기에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b> 하베스팅",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000189&svc_clss_id=CLSS0000017306&contents_openapi=naverdic",
+			"description":"<b>에너지<\/b> 하베스팅의 의미를 알고, <b>에너지<\/b> 하베스팅을 신체, 진동, 열, 위치, 전자파 <b>에너지<\/b> 하베스팅으로 나누어 어떠한 원리로 <b>에너지<\/b>를 얻는지 알아본다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_5\/20210207075520727_07ANLO2HO.jpg\/fs_a0000-2015-07.jpg?type=m160_160"
+		},
+		{
+			"title":"전기저항 줄이기",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000198&svc_clss_id=CLSS0000017611&contents_openapi=naverdic",
+			"description":"전기저항이 무엇인지 알고 전기저항을 줄이는 방법을 안다. 전기 <b>에너지<\/b>소비효율등급을 어떻게 표기하는지 전기저항을 통해 설명할 수 있다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819071213674_WOUDTUH26.jpg\/fs_a0000-2015-07.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b> 절약을 위한 발명품",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000190&svc_clss_id=CLSS0000017306&contents_openapi=naverdic",
+			"description":"<b>에너지<\/b>를 절약해야 하는 이유를 알고 <b>에너지<\/b> 절약을 위한 발명품인 압전패드, 압축 쓰레기통, 레볼루션 도어를 살펴본다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_5\/20210207075522751_VJBRPO0IM.jpg\/e6_sci_38_23_img.jpg?type=m160_160"
+		},
+		{
+			"title":"코만치",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1939353&cid=40942&categoryId=34126",
+			"description":"미국 텍사스(Texas)주 코만치카운티(Comanche County)에 있는 도시이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"사과 따듯 <b>에너지<\/b>를 수확해",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3410087&cid=60335&categoryId=60335",
+			"description":"한 달 치 <b>에너지<\/b>를 생산하고도 남을 녀석들아!” 아빠의 생뚱맞은 고함에 동작을 뚝 멈춘 태연의 친구들. 서로의 얼굴을 잠시 바라보다 곧 배꼽이 빠져라 웃어재낀다. 태연은 친구들 앞에서 이상한 얘기를 하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4484_000_1\/20160610141102492_PZX0B6J24.jpg\/ca22_1521_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"신<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3327232&cid=46637&categoryId=46637",
+			"description":" 석유, 석탄, 천연가스 같은 전통적 <b>에너지<\/b>가 아닌 새로운 형태의 <b>에너지<\/b>. [개설] 한국정부에서는 수소, 연료전지, 석탄액화가스화 및 중질잔사유가스화로 정의한다. 수소, 연료전지, 석탄액화, 석탄가스화 등은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_2\/20180118193915552_L90U66XNW.jpg\/6bcb060d-3f7d-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"재생<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2457049&cid=46637&categoryId=46637",
+			"description":" 화석연료나 우라늄과 달리 고갈되지 않기 때문에 지속적으로 이용할 수 있는 <b>에너지<\/b>. 재생가능<b>에너지<\/b>. [개설] 정확한 명칭은 재생가능 <b>에너지<\/b>이다. 태양<b>에너지<\/b>, 풍력, 수력, 바이오 <b>에너지<\/b>, 지열, 조력, 파력 등... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_4\/20180531192026041_3L3I3VA7R.jpg\/957758d4-9275-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"지열<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2457079&cid=46637&categoryId=46637",
+			"description":" 지구 내부에 축적된 열을 이용한 <b>에너지<\/b>. [개설] 땅 속에는 마그마의 활동, 방사성 동위원소의 붕괴, 태양<b>에너지<\/b>의 축적에 의해 매우 많은 <b>에너지<\/b>가 들어 있다. 이 <b>에너지<\/b>는 난방과 급탕용 온수의 생산이나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내부<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1075691&cid=40942&categoryId=32227",
+			"description":" 물체가 지니고 있는 <b>에너지<\/b> 중에서 물체가 전체적으로 이동하거나 회전하기 위해서 갖는 운동<b>에너지<\/b> 이외의 물체 내부에 축적되는 <b>에너지<\/b>를 말한다.  열역학 제1법칙 E = Q - W에서 E는 내부<b>에너지<\/b>이다. 또... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대체<b>에너지<\/b>- 신<b>에너지<\/b>, 재생<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2449747&cid=51648&categoryId=51648",
+			"description":"[대체<b>에너지<\/b>- 신<b>에너지<\/b>, 재생<b>에너지<\/b>] 대체<b>에너지<\/b>는 신<b>에너지<\/b>와 재생<b>에너지<\/b>로 나뉜다. 신<b>에너지<\/b>는 연료전지, 석탄액화가스화, 수소<b>에너지<\/b> 등을 말하고, 재생<b>에너지<\/b>는 태양열, 태양광, 풍력, 지열, 생물체에서... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/18\/1891\/531C04F3A31FF39C07E3125853EF3613EC6_muploader_n_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"탄성위치<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1166497&cid=40942&categoryId=32227",
+			"description":"이와 같은 탄성력에 의한 위치<b>에너지<\/b>를 탄성위치<b>에너지<\/b> 즉, 탄성<b>에너지<\/b>라고 한다.  압축되거나 늘어난 용수철은 본래의 상태로 되돌아가려는 힘을 갖는다. 이 압축되거나 늘어난 길이에 따라서 용수철은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_259\/20131031222342284_334QESFLA.gif\/358334_0.gif?type=m160_160"
+		},
+		{
+			"title":"포텐셜<b>에너지<\/b>(퍼텐셜<b>에너지<\/b>)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=981853&cid=60248&categoryId=60248",
+			"description":"물체가 각자의 위치에 따라 잠재적으로 가지고 있는 <b>에너지<\/b>를 말한다. 예를 들면, 지상의 높은 곳에 있는 물체는 내려올 때 일정한 일을 할 수 있으므로 중력(重力)에 의한 위치<b>에너지<\/b>를 갖게 된다. 또 외력(外力)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"깁스자유<b>에너지<\/b>(깁스 <b>에너지<\/b>)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=431233&cid=60261&categoryId=60261",
+			"description":"화학반응이 진행되는 동안 이용되거나 방출되는 <b>에너지<\/b>의 총량. 열역학함수의 하나로, 계(系)의 절대온도를 T, 엔트로피를 S, 엔탈피를 H라 한다면 깁스의 자유<b>에너지<\/b> G는 G＝H－TS로 정의할 수 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b> 전환, 운동<b>에너지<\/b>가 열<b>에너지<\/b>로 전환",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2446664&cid=51638&categoryId=51638",
+			"description":"[<b>에너지<\/b> 전환, 운동<b>에너지<\/b>가 열<b>에너지<\/b>로 전환] 자전거의 충격완화를 위해 <b>에너지<\/b> 전환 이용. 자전거의 충격완화장치의 운동<b>에너지<\/b>가 열<b>에너지<\/b>로 전환(동영상 출처 : EBS 동영상 (2008. 7. 24.))",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/17\/1620\/531C04F3A30FF33C7BE3534B133031B3742_muploader_a_480P_854_1024_128_logo.jpg#1280x720#m"
+		},
+		{
+			"title":"GS<b>에너지<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/GS%EC%97%90%EB%84%88%EC%A7%80",
+			"description":"GS<b>에너지<\/b> 는 GS가 보유하고 있는 GS칼텍스 주식 전부(GS칼텍스 지분의 50%)를 물적 분할하여 2012년 1월 3일에 설립된 <b>에너지<\/b>전문사업 지주회사다. 계열사 GS칼텍스 GS파워 인천종합<b>에너지<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"열<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4389732&cid=60217&categoryId=60217",
+			"description":"열<b>에너지<\/b>(혹은 열)는 계와 환경사이에서 일어나는 자발적인 형태의 <b>에너지<\/b> 전달이다. 역학적인 일의 형태나 전도, 대류, 복사 등이 아닌 방법으로 일어나는 <b>에너지<\/b>의 전달을 열<b>에너지<\/b>라 한다. 열<b>에너지<\/b>는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>띠",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3537138&cid=60217&categoryId=60217",
+			"description":"<b>에너지<\/b>띠는 주기적인 구조를 가지는 결정 격자내에 존재하는 주기적인 퍼텐셜<b>에너지<\/b>의 영향을 받는 전자가 가질 수 있는 <b>에너지<\/b> 영역을 나타낸다. 독립된 원자 내의 전자는 불연속적인 특정한 <b>에너지<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20180117215619441_VM4KVZ01T.png\/%25EC%2597%2590%25.png?type=m160_160"
+		},
+		{
+			"title":"신<b>에너지<\/b>",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=4ade9821-f2e0-4bb6-adab-6f7f9c57e6fd&svc_clss_id=CLSS0000018045&contents_openapi=naverdic",
+			"description":"일과 <b>에너지<\/b> 전환 신재생 <b>에너지<\/b> 환경 친화적인 새로운 <b>에너지<\/b>의 종류에 대해 알아봅시다 신<b>에너지<\/b> NewAdvanced Energy 신<b>에너지<\/b>는 기존에 쓰이던 석유 석탄 원자력 천연 가스가 아닌 새로운 <b>에너지<\/b>를 의미합니다... ",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819070800254_64HZL3C8W.jpg\/4ade9821-f2e0-4b.jpg?type=m160_160"
+		},
+		{
+			"title":"열<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1126833&cid=40942&categoryId=32230",
+			"description":" 열의 형태를 취한 <b>에너지<\/b>. 물체의 온도를 변화시키거나 상태변화를 일으키는 <b>에너지<\/b>.  <b>에너지<\/b>로서의 열 열에 관한 열학이 물리학의 한 분야로 등장하기 시작한 것은 18세기이며 그 당시 열은 물질로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5682&cid=43659&categoryId=43659",
+			"description":"한 단위의 생산에 필요한 <b>에너지<\/b> 소모량을 줄인다거나 국가전체의 <b>에너지<\/b> 소비량을 절약하는 것. 오일쇼크 이후 석유 등 <b>에너지<\/b> 자원이 부족해 지고 공급이 불안정해져 가격도 크게 올랐기 때문에 <b>에너지<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"GS<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2837043&cid=43167&categoryId=43167",
+			"description":" GS그룹 소속으로 <b>에너지<\/b> 중심의 사업형지주회사.  GS<b>에너지<\/b>는 2012년 1월 (주)GS가 보유하고 있던 GS칼텍스의 주식 전부(GS칼텍스 지분의 50%)를 물적 분할하여 사업형지주회사로 설립되었다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"뉴<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=13482&cid=43659&categoryId=43659",
+			"description":"석유, 석탄 등과 같은 화석연료를 대신할 미래형 대체 <b>에너지<\/b>를 뜻한다. 불과 수십 년 앞으로 다가온 화석연료의 고갈에 대비해 각국은 새로운 <b>에너지<\/b>원을 찾는 연구를 활발히 벌이고 있다. 여러 분야에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"열<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3394564&cid=60289&categoryId=60289",
+			"description":" 물리적으로는 물체 상태변화에 대해 정의하는 <b>에너지<\/b>로서 물체 내부<b>에너지<\/b>의 증가량과 물체가 밖으로 한 일의 양을 합하여 그 물체가 얻은 열<b>에너지<\/b>의 양.  물리적으로는 물체 상태변화에 대해 정의하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"핵<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5810498&cid=60217&categoryId=60217",
+			"description":"원자핵의 변환에 따라 방출되는 <b>에너지<\/b>다. 원자핵의 변환에는 핵붕괴와 핵반응 등이 있으며, 이에 따라 방출되는 <b>에너지<\/b>를 총칭한다. 1905년 아인슈타인의 특수상대성이론에 의해 질량과 <b>에너지<\/b>가 동등함이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190809190136954_OHGDK9BKN.png\/289_fig1.png?type=m160_160"
+		},
+		{
+			"title":"열<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3549850&cid=58598&categoryId=58618",
+			"description":" 물체의 온도와 관련된 <b>에너지<\/b>.  熱 더울 열 열<b>에너지<\/b>는 물체의 온도와 관련된 <b>에너지<\/b>를 말해요. 뜨거운 물체일수록 열<b>에너지<\/b>를 많이 가지고 있어요. 하늘에 둥둥 뜨는 열기구는 열<b>에너지<\/b>를 이용한 기구예요.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_5\/20170125113510998_CGOY7USYI.jpg\/105_63170_131527.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b>띠",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1125020&cid=40942&categoryId=32230",
+			"description":" 결정 내 전자의 <b>에너지<\/b>준위 구조이다. 결정 내 전자의 <b>에너지<\/b>준위가 한 집단을 이루고 있어서 집단과 집단 사이에는 빈공간이 존재하는 구조로 되어있다. <b>에너지<\/b>띠와 <b>에너지<\/b>띠 사이에 채워진 전자, <b>에너지<\/b>띠... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_351\/20190606063012649_KPQ6SANTI.gif\/110479_0.gif?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b> IT",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=302588&cid=50305&categoryId=50305",
+			"description":"<b>에너지<\/b> 절감을 위해 <b>에너지<\/b> 분야와 IT 분야를 융합하는 것이다. 기존 전력망에 IT를 결합해 차세대 전력망을 구축하는 스마트그리드가 대표적인 예이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"신<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=932975&cid=43667&categoryId=43667",
+			"description":" 기존의 화석연료를 변환시켜 이용하거나 수소, 산소 등의 화학 반응을 통하여 얻은 전기나 열을 이용하는 <b>에너지<\/b>.  | 외국어 표기 | 新─(한자) new energy(영어) | 수소<b>에너지<\/b>, 석탄을 액화 · 가스화한 <b>에너지<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"빛 <b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741396&cid=60217&categoryId=60217",
+			"description":"빛 <b>에너지<\/b>는 말 그대로 빛의 <b>에너지<\/b>이다. 일상적으로는 빛이 전자기파의 일부 영역에 해당되는 가시광선의 의미로 사용되므로 빛 <b>에너지<\/b>를 가시광선의 <b>에너지<\/b>로 사용할 수도 있지만, 넓은 의미로는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190726180822011_1ZJAPZBE2.jpg\/Laser_show_at_Re.jpg?type=m160_160"
+		},
+		{
+			"title":"1차<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2065178&cid=50305&categoryId=50305",
+			"description":"일차<b>에너지<\/b>는 천연상태에서 얻을 수 있는 형태의 <b>에너지<\/b>로 석탄 석유 목재 지열 태양열 해열 풍력 등이 이에 해당된다. 다른 <b>에너지<\/b>의 생성을 위해 소비되는 가장 기본적인 형태의 <b>에너지<\/b>이다. 1차<b>에너지<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수소<b>에너지<\/b>와 핵융합<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3347109&cid=58184&categoryId=58184",
+			"description":"우주 질량의 약 75%를 차지하는 가장 풍부한 원소인 수소, 수소는 핵융합<b>에너지<\/b>의 원료인 중수소와 삼중수소의 동위원소이기도 한데요. Clean &#38; Fusion 오늘은 수소<b>에너지<\/b>에 대해 알아보겠습니다. [수소<b>에너지<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자기<b>에너지<\/b>, 전자파<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3475960&cid=58439&categoryId=58439",
+			"description":"방사에 의해 전달되는 <b>에너지<\/b>의 형태. 전자기 <b>에너지<\/b>는 전기와 자기요소 둘 다를 가지고 있고, 가변적인 파장의 일련의 사인파형으로 보일 수 있다.감마선 · 엑스선 · 자외방사 · 가시광 · 적외방사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"2차 <b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=44&cid=43659&categoryId=43659",
+			"description":"1차 <b>에너지<\/b>는 가공되지 않은 상태에서 공급되는 <b>에너지<\/b>를 말하며 석유, 석탄, 원자력을 필두로 수력, 지열, 장작, 목탄 등을 가리킨다. 이러한 1차 <b>에너지<\/b>를 변환 가공해서 얻은 전기, 도시가스, 코크스 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"1차 <b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1136787&cid=40942&categoryId=31868",
+			"description":" 변환이나 가공의 과정을 거치지 않고도 자연상태에서 직접 얻을 수 있는 <b>에너지<\/b>.  오랜 세월동안 자연의 역학적인 과정으로 형성되어, 변환이나 가공의 과정을 거치지 않고도 자연상태로부터 직접 얻을 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_373\/20210218064341676_CVQTGR7P4.jpg\/11804202.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>에너지<\/b>전환",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741230&cid=60217&categoryId=60217",
+			"description":"<b>에너지<\/b>전환은 <b>에너지<\/b>의 형태가 바뀌는 것을 뜻한다. <b>에너지<\/b>는 위치<b>에너지<\/b>, 운동<b>에너지<\/b>, 전기<b>에너지<\/b>, 원자력<b>에너지<\/b>, 빛<b>에너지<\/b>, 열<b>에너지<\/b>, 화학<b>에너지<\/b>, 탄성<b>에너지<\/b> 등 다양한 형태로 존재하는데 한 형태에서 다른... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190228190047332_XM9AI6G1D.png\/%25EC%2597%2590%25.png?type=m160_160"
+		},
+		{
+			"title":"핵융합<b>에너지<\/b> VS 원자력<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3612075&cid=58184&categoryId=58184",
+			"description":"핵융합<b>에너지<\/b>와 원자력<b>에너지<\/b>는 비슷할까요? 비슷한 것처럼 보이지만 전혀 다른 핵융합<b>에너지<\/b>와 원자력<b>에너지<\/b>! 그럼 지금부터 미래연구원과 함께 두 <b>에너지<\/b>의 특징을 함께 살펴 보시죠~",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4172_000_1\/20170726133754883_9H6GNXPTE.jpg\/s_dj5_156_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"전기<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3537219&cid=60217&categoryId=60217",
+			"description":"전기<b>에너지<\/b>는 전기와 관련된 <b>에너지<\/b>를 말한다. 궁극적으로는 전하의 위치<b>에너지<\/b>나 운동<b>에너지<\/b>로부터 파생된 <b>에너지<\/b>이다. 사용자의 입장에서 <b>에너지<\/b>는 여러 형태로 나뉘어 지며 서로 전환 될 수 있다. 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"SK<b>에너지<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/SK%EC%97%90%EB%84%88%EC%A7%80",
+			"description":"SK<b>에너지<\/b> 는 SK이노베이션의 정유사업을 담당하는 자회사로서 대한민국 최초의 정유회사이다. 역사 2007년 7월 3일 SK그룹의 지주회사인 SK주식회사로부터 사업회사인 SK<b>에너지<\/b>가 분할되었다. 2008년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>에너지<\/b>자원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741594&cid=60217&categoryId=60217",
+			"description":"우리는 일상생활에서 전기 <b>에너지<\/b>, 운동 <b>에너지<\/b>, 빛 <b>에너지<\/b>, 열 <b>에너지<\/b> 등 다양한 종류의 <b>에너지<\/b>를 사용하게 되는데, 이러한 <b>에너지<\/b>를 만들어 내는 원천을 <b>에너지<\/b> 자원이라 한다. 유형별로는 화석연료, 핵연료... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20190311_20\/wIYqc_1552276594642PAx7M_JPEG\/dbb073cc-43b0-11e9-93af-505dac8c35ff_03.jpg#1920x1080#m"
+		},
+		{
+			"title":"태양<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6080236&cid=62861&categoryId=62861",
+			"description":"태양<b>에너지<\/b>는 태양으로부터 얻을 수 있는 <b>에너지<\/b>로 빛<b>에너지<\/b>, 열<b>에너지<\/b>뿐만 아니라 전기<b>에너지<\/b> 등의 다양한 형태로 전환이 가능하다. 태양<b>에너지<\/b>를 사용하는 방식으로는 수동 태양 시스템과 능동 태양... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5485_000_1\/20200915181518040_DN68BA8QG.jpg\/solar_energy_sol.jpg?type=m160_160"
+		},
+		{
+			"title":"자기<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4389716&cid=60217&categoryId=60217",
+			"description":"자기장에 저장된 <b>에너지<\/b>를 자기<b>에너지<\/b>라고 한다. 자기<b>에너지<\/b>는 그 자기장을 형성하기 위해 해 주어야 하는 일과 동일한 양이며, 자기장에 저장된 자기<b>에너지<\/b>는 전기<b>에너지<\/b> 등 다른 형태의 <b>에너지<\/b>로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위치<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5684639&cid=64516&categoryId=64516",
+			"description":"해양에서 위치<b>에너지<\/b>는 해수의 중력 위치<b>에너지<\/b>를 의미한다. <b>에너지<\/b> 단위는 줄(Joule)이다. [목차] 1.정의 및 설명 2.위치<b>에너지<\/b> 편차(potential energy anomaly) 3.가용위치<b>에너지<\/b>(available potential... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5636_000_1\/20190207181158632_SKVCCTLFL.jpg\/%25EC%259C%2584%25.jpg?type=m160_160"
+		},
+		{
+			"title":"재생<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1221970&cid=40942&categoryId=32391",
+			"description":" 화석연료와 원자력을 대체할 수 있는 무공해 <b>에너지<\/b>로, 일반적으로는 대체<b>에너지<\/b>를 구성하는 한 요소로 이해된다. 한국에서는 대체<b>에너지<\/b> 개발 및 이용·보급 촉진법 제2조에서 대체<b>에너지<\/b>를 석유·석탄... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_373\/20210318062221003_V779S5YDP.jpg\/9880854.jpg?type=m160_160"
+		},
+		{
+			"title":"그린<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=67235&cid=43667&categoryId=43667",
+			"description":"태양열ㆍ풍력ㆍ바이오매스ㆍ지열ㆍ조력ㆍ해양 <b>에너지<\/b> 등 대체<b>에너지<\/b>를 말한다. 대체<b>에너지<\/b>란 1970년대에는 석탄, 석유 등 화석연료를 대체한다는 의미에서 사용되었으나, 1980년 이후 천연가스, 원자력 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"파랑<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5684624&cid=64516&categoryId=64516",
+			"description":"파랑의 중요한 특성 중 하나는 역학적 <b>에너지<\/b>를 가지며 파가 전파할 때 <b>에너지<\/b>가 앞으로 전달된다는 것이다. 총 파랑<b>에너지<\/b>는 수면의 변위에 의한 위치<b>에너지<\/b>와 물 입자의 운동에 의한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5636_000_1\/20181107170309387_BSW6BIB4O.jpg\/%25ED%258C%258C%25.jpg?type=m160_160"
+		},
+		{
+			"title":"재생<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=16364&cid=43659&categoryId=43659",
+			"description":"무한에 가깝도록 다시 공급되는 <b>에너지<\/b>. 재생<b>에너지<\/b>란, 태양열, 수력, 풍력, 조력(潮力), 지열(地熱)과 같은 자연계에 존재하는 <b>에너지<\/b>를 이른다. 대체<b>에너지<\/b>와 같은 개념으로 사용되기도 하지만, 일반적으로는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정지<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1140813&cid=40942&categoryId=32230",
+			"description":" 물체가 정지했을 때 갖는 <b>에너지<\/b>로 정지질량<b>에너지<\/b>라고도 한다. 아인슈타인의 상대성이론에 따라 어떤 상호작용이나 운동도 하지 않는 물체라도 그 물체가 갖는 질량은 어느 정도의 <b>에너지<\/b>가 존재함을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내부<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3536954&cid=60217&categoryId=60217",
+			"description":"내부<b>에너지<\/b>는 어떤 물리계가 정지해 있을 때의 <b>에너지<\/b>로서, 그 계를 구성하는 입자들의 상호작용과 관련된 퍼텐셜<b>에너지<\/b>와 구성 입자들의 움직임과 관련된 운동<b>에너지<\/b>의 합으로 계산한다. 예를 들어... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20191220180957404_VKULFLRCZ.png\/047_%25EB%2582%25.png?type=m160_160"
+		},
+		{
+			"title":"암흑<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3566883&cid=58941&categoryId=58960",
+			"description":"아인슈타인은 우주 공간이 중력 때문에 줄어드는 것을 막는 <b>에너지<\/b>를 지녔다고 생각했던 것이다. [ 아인슈타인, 자기 이론이 말해주는 우주를 거부하다 ] 에드윈 허블의 이름을 딴 허블망원경 그러나 그의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170116190223921_AU4RCJ2RV.jpg\/57.jpg?type=m160_160"
+		},
+		{
+			"title":"파동<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741572&cid=60217&categoryId=60217",
+			"description":"물리학에서 사용하는 파동의 개념은 <b>에너지<\/b>를 전달하는 진동을 의미한다. 따라서 모든 파동은 <b>에너지<\/b>를 전달하며, 이렇게 파동에 의해 전달되는 <b>에너지<\/b>를 파동<b>에너지<\/b>라 부른다. 파동은 매질을 통해서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190228195448793_A706D9X9B.png\/%25ED%258C%258C%25.png?type=m160_160"
+		},
+		{
+			"title":"복사<b>에너지<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741689&cid=60217&categoryId=60217",
+			"description":"파동이나 입자의 형태로 <b>에너지<\/b>를 방출하는 것을 복사(radiation)라고 하는데,복사<b>에너지<\/b>(radiant energy)라 함은 이렇게 방출을 통해 퍼져 나가는 <b>에너지<\/b>를 의미한다고 할 수 있다.전자기파, 중력파, 소리... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20180117225015747_QU8OOJ3HT.png\/648px-Wiens_law_.png?type=m160_160"
+		}
+	]
+}

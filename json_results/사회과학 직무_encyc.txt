@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:13 +0900",
+	"total":32757,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>사회과학<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99%EC%9B%90",
+			"description":"<b>사회과학<\/b>원 (社會科學院)은 조선민주주의인민공화국 <b>과학<\/b>원 산하 국립 연구기관으로서... 원장 <b>직무<\/b>대리 태형철(太炯哲) 1998년 ~ 2000년, 원장 태형철(太炯哲) 2000년 ~ 2012년 6월 리혜정 2012년 6월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>교수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025124&cid=42117&categoryId=42117",
+			"description":" 대학에서 대학생을 대상으로 <b>사회<\/b>학, 정치학, 문헌정보학 및 관련 분야의 이론과 지식을 강의하고 관련 학문을 연구한다. [수행<b>직무<\/b>] 대학에서 대학생들을 대상으로 경영학, 경제학, 법학, 정치학, 신문방송학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중국<b>사회과학<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A4%91%EA%B5%AD%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99%EC%9B%90",
+			"description":"<b>직무<\/b> 범위 <b>사회과학<\/b>원 산하에는 총 37개의 연구소를 두고있다. 중국과 세계 각국의 경제, 법학, 철학, 고고학, 역사, 문학, 언어, 민족, 종교등 여러 다양한 과제에 대하여 연구한다. 조직구성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627248&cid=42117&categoryId=42117",
+			"description":" 경제학, 경영학 등 <b>사회과학<\/b>에 대한 상업, 비상업적 연구개발 등과 관련된 활동을 기획, 지휘 및 조정한다. [수행<b>직무<\/b>] 중장기 발전 목표에 부합하는 연구 사업을 기획하고, 연구 사업을 합목적적으로 수행... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회<\/b>교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025331&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 교과내용은 지리, 역사 및 <b>사회과학<\/b> 개념과 원리, <b>사회<\/b>제도와 기능, <b>사회<\/b>문제와 가치 그리고 연구방법과 절차에 관한 폭넓은 영역으로 <b>사회<\/b>현상을 종합적이고 다각적 관점으로 교육한다. 다양한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024515&cid=42117&categoryId=42117",
+			"description":" 조직적인 인사관리, 합리적인 <b>직무<\/b>평가, <b>과학<\/b>적인 교육훈련 등을 목적으로 사업체 및 공공기관 등에서 수행되는 업무의 내용, 수행요건, 근로조건 등과 같은 기술적인 정보를 조사·분석·평가한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인지<b>과학<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837697&cid=42117&categoryId=42117",
+			"description":" 컴퓨터 모사, 신경영상학, 정신물리학, 프로토콜 분석 등의 연구방법을 사용하여 인간의 인지와 감성, 기타 응용분야를 다학제적인 접근방법을 통해 연구한다. [수행<b>직무<\/b>] 인간의 인지에 대하여 연구하는 경우... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 ▷경영·사무 관련 전문직 및 사무직 ▷연구 관련직 ▷정보통신·방송 관련 기술·기능직 ▷의료·보건·<b>사회<\/b>복지 관련 종사자 ▷<b>사회<\/b>복지·교육 관련 종사자 ▷문화... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"스포츠<b>사회<\/b>학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025281&cid=42117&categoryId=42117",
+			"description":" 스포츠의 <b>사회<\/b>적 기능이나 <b>사회<\/b>와의 관련성, 스포츠팀의 조직<b>사회<\/b> 등에 대해 연구한다. [수행<b>직무<\/b>] 스포츠 장면에서 일어나는 행동유형 및 <b>사회<\/b>화과정과의 관계에 대해 연구한다. 스포츠의 <b>사회<\/b>적 기능에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회<\/b>복지정책연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025278&cid=42117&categoryId=42117",
+			"description":" <b>사회<\/b>복지제도 및 정책을 분석하고 대책수립을 위한 연구를 한다. [수행<b>직무<\/b>] <b>사회<\/b>보험(국민연금, 의료보험, 산업재해보상보험, 고용보험), 공적부조(생활보호, 의료보호, 기타 관련 제도), <b>사회<\/b>복지사업... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회<\/b>복지정책연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025276&cid=42117&categoryId=42117",
+			"description":" <b>사회<\/b>복지제도 및 정책을 분석하고 대책 수립을 위한 연구를 한다. [수행<b>직무<\/b>] <b>사회<\/b>보험(국민연금, 의료보험, 산업재해보상보험, 고용보험), 공적부조(생활보호, 의료보호, 기타 관련제도), <b>사회<\/b>복지사업... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인문<b>과학<\/b>연구관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627252&cid=42117&categoryId=42117",
+			"description":" 교육학 등 인문학에 대한 상업, 비상업적 연구개발 등과 관련된 활동을 기획, 지휘 및 조정한다. [수행<b>직무<\/b>] 교육학 등 인문학 분야의 단기 및 중장기 연구계획과 실행계획을 수립한다. 연구개발관련 신사업... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립과천<b>과학<\/b>관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%EA%B3%BC%EC%B2%9C%EA%B3%BC%ED%95%99%EA%B4%80",
+			"description":"<b>직무<\/b> <b>과학<\/b>기술의 보급에 관한 계획의 수립·시행 상설전시관·특별전시관·천체투영관... △미래<b>과학<\/b>기술 트랜드 분석 및 확산 기반 조성 △창의적 아이디어의 <b>사회<\/b>적 기여를 위한 지원 △<b>과학<\/b>교육... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=76737&cid=42155&categoryId=42155",
+			"description":"<b>사회과학<\/b>은 <b>사회<\/b> 현상, 즉 인간 공동체 내의 현상들 중에서 <b>사회<\/b>생활의 경제적 측면, 정치적 측면, 행정적 측면, 법적 측면, <b>사회<\/b>적 측면 등을 다룬다. <b>사회과학<\/b>이라는 용어가 등장하기 전까지는 <b>사회<\/b>학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1108181&cid=40942&categoryId=31611",
+			"description":"이 경우 <b>사회과학<\/b>은 자연의 여러 현상을 <b>과학<\/b>적 ·체계적으로 연구하는 자연<b>과학<\/b>과 대치(對置)되지만, 일반적으로 <b>사회과학<\/b>과 자연<b>과학<\/b>을 구별하는 기준은 명확한 규정이 주어져 있지 않다. 양자를 구별하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2458317&cid=46629&categoryId=46629",
+			"description":" 1973년 북한의 <b>사회과학<\/b>출판사에서 <b>사회과학<\/b> 부문의 종합이론을 다룬 잡지. 격월간잡지. [내용] 1973년 4월에 창간되었으며, 처음에 4×6배판 80면 분기 간으로 <b>사회과학<\/b>출판사에서 발행되었다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=420006&cid=60277&categoryId=60277",
+			"description":"마찬가지로 <b>사회과학<\/b>의 근본목적이나 관념들의 대부분은 고대까지 거슬러 올라 갈 수 있다. 다시 한 번 강조하지만, 자연<b>과학<\/b>과 마찬가지로 19세기에 들어와서야 근대적 제도방식에 따라서 <b>사회과학<\/b>이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578971&cid=46629&categoryId=46629",
+			"description":" 북한의 <b>사회과학<\/b>분야 연구기관. [내용] 1964년 2월 17일 <b>사회과학<\/b>연구기관들의 지도적인 연구기관으로 창설되었다. 창설 당시 원장은 허석선이었으며, 기존 조선<b>과학<\/b>원에서 일부 연구소가 분리, 8개 연구소로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1520684&cid=42121&categoryId=42121",
+			"description":"영국에서 이 용어가 사용된 것은 19세기 중반 여러 집단의 사람들이 <b>사회<\/b>현상의 연구에 <b>과학<\/b>적 방법의 적용을 촉진하려고 한 1857년 전국 <b>사회과학<\/b> 진흥협회가 설립된 무렵이다. 이 협회는 어느 정도 성공을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2457791&cid=46629&categoryId=46629",
+			"description":" 북한의 <b>사회과학<\/b> 연구를 위한 학술연구기관. [개설] <b>사회과학<\/b>원은 북한의 학술연구기관 중 하나이다. 북한의 학술연구기관으로는 중요 대학에 설치된 연구원․박사원 외에 종합연구기관인 <b>과학<\/b>원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2053685&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] <b>사회과학<\/b>(社會科學, social science)은 인간과 인간 사이의 관계에서 일어나는 <b>사회<\/b> 현상과 인간의 <b>사회<\/b>적 행동을 탐구하는 <b>과학<\/b>의 한 분야이다. <b>사회과학<\/b>은 <b>사회<\/b>현상의 연구를 주목적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140310160650446_908DSMZDK.jpg\/z5_term3_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99",
+			"description":"<b>사회과학<\/b> (社會科學, 영어: social science )은 인간과 인간 사이의 관계에서 일어나는 <b>사회<\/b> 현상과 인간의 <b>사회<\/b>적 행동을 탐구하는 <b>과학<\/b>의 한 분야이다. <b>사회과학<\/b>은 자연<b>과학<\/b>의 발전에 영향을 받아 발전한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=470762&cid=42120&categoryId=42120",
+			"description":"<b>사회과학<\/b>은 <b>과학<\/b>이라는 견지에서 자연<b>과학<\/b>과 공통성을 가지며 자연이 아니라 <b>사회<\/b>의 여러 가지 현상들을 연구한다는 점에서는 그와 차이점을 가진다. <b>사회과학<\/b>은 자연<b>과학<\/b>과 마찬가지로 오랜 역사를 가진... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=510985&cid=42126&categoryId=42126",
+			"description":"<b>사회과학<\/b>도 자연<b>과학<\/b>과 같이 실증적인 방법에 의해 사물의 법칙을 찾아내어야 한다는 이념에서 생겨난 것이지만, 그 연구 대상인 <b>사회<\/b>적 인간세계가 여러 가지 요인의 복잡한 관계로 이루어지고, 엄밀한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>과학<\/b><b>사회<\/b>학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%BC%ED%95%99%EC%82%AC%ED%9A%8C%ED%95%99",
+			"description":"<b>과학<\/b><b>사회<\/b>학 (Sociology of Science, 科學社會學)은 <b>사회<\/b>체계로서의 <b>과학<\/b>을 연구하는 <b>사회<\/b>학의 한 분야로, 미국의 <b>사회<\/b>학자 로버트 K. 머턴이 20세기 중반에 정립하였다. 머턴은 본래 <b>과학<\/b>과 <b>사회<\/b> 사이의 상호작용을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자연<b>과학<\/b>과 <b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1397372&cid=42122&categoryId=42122",
+			"description":"여기서는 자연<b>과학<\/b>과 <b>사회과학<\/b>의 관계에 대해서만 논의하고저 한다. 후기 실증주의 철학의 자연<b>과학<\/b>에 대한 설명은 <b>사회과학<\/b>적인 방법에도 직접적인 영향을 미치고 있다. 공공연하게 진술되었든... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한기술<b>사회<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EA%B8%B0%EC%88%A0%EC%82%AC%ED%9A%8C",
+			"description":"대한기술<b>사회<\/b> 설립인가 (<b>과학<\/b>기술부) 2003년 3월 21일 대한기술<b>사회<\/b> 법인 등록 2004년 2월 14일 2대... 기술사의 <b>직무<\/b>개발과 자질향상을 위한 교육 기술사의 품위 보전 기술사의 복지 증진 및 권익 옹호... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회<\/b>대응형<b>과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1224682&cid=40942&categoryId=32202",
+			"description":"기술들을 다루지 않으면 갖가지 폐해를 초래하게 된다. 이런 이유에서 <b>과학<\/b>적인 연구도 <b>사회과학<\/b>적인 측면을 고려하면서 추진되어야 할 필요성이 부각되고 있다. <b>과학<\/b>기술의 안전성을 판단하는 데는 순수한 과",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>이란?",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6029766&cid=67207&categoryId=67210",
+			"description":"[<b>사회과학<\/b>이란?] <b>사회과학<\/b>은 인간 <b>사회<\/b>의 여러 현상을 <b>과학<\/b>적이고 체계적으로 연구하는 학문을 말한다. 르네상스 시대 자연 <b>과학<\/b>이 발달하며 자연스럽게 등장해 오늘날 다양하고 종합적인 학문으로 발전했다.... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20200729_110\/dh5Yx_1595956036160JyOce_JPEG\/4a30a13b-d0f4-11ea-977b-505dac8c38f5_02.jpg#1280x720#m"
+		},
+		{
+			"title":"<b>사회과학<\/b> 박사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99_%EB%B0%95%EC%82%AC",
+			"description":"<b>사회과학<\/b> 박사 (社會科學 博士)는 대학원 관련 학위이다. 이 학위로써 <b>사회과학<\/b> 대학 예하 <b>사회<\/b>학 교수직원 직위를 지내는 것이 대표적이다. 1991년 이전까지는 <b>사회<\/b>학 박사 (社會學 博士)라는 학위가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2808547&cid=47305&categoryId=47305",
+			"description":"[어떤 일을 하나요?] · 경제학, <b>사회<\/b>학, 정치학, 행정학 등 <b>사회과학<\/b> 분야의 전문 지식을 가지고 다양한 연구 활동을 하는 직업입니다. · 주로 정부출연연구소, 기업부설 및 민간연구소, 대학부설연구소 등에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3981_000_1\/20190405112309479_QLP1JDSF6.jpg\/dbp08_39_i3.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>사회과학<\/b>연구회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578970&cid=46623&categoryId=46623",
+			"description":" 1930년 10월 미국 시카고에 거류하던 진보적인 한인 학생들과 청년들이 조직한 <b>사회<\/b>주의 사상단체. [내용] 발기인대회서 나온 취지서에 따르면 “우리는 세계무산계급의 부르짖음에 보조를 같이해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"환경 <b>사회 과학<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%99%98%EA%B2%BD_%EC%82%AC%ED%9A%8C_%EA%B3%BC%ED%95%99",
+			"description":"환경 <b>사회과학<\/b>자는 인류학, 통신학, 경제, 지리, 역사, 정치학, 심리학, <b>사회<\/b>학의 분야와 그 분야 간에서 일한다; 또한 환경학, 인간 생태학, 정치 생태학, <b>사회<\/b> 역학 등의 분야 간에도 종사한다. 이념... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>재기획",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1521394&cid=42121&categoryId=42121",
+			"description":"일상적인 <b>직무<\/b>의 소극적인 <b>사회<\/b>적, 심리적 의미를 상쇄하고자 하는 <b>직무<\/b>에 대한 기획을 말한다.... <b>직무<\/b>재기획에는 몇 가지의 접근이 있는데, 이것은 다양한 수준에서 기능하며 '<b>과학<\/b>적 관리'의 부정적 측면을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>과학<\/b>지식<b>사회<\/b>학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%BC%ED%95%99%EC%A7%80%EC%8B%9D%EC%82%AC%ED%9A%8C%ED%95%99",
+			"description":"이는 <b>과학<\/b>을 <b>사회<\/b>적 요인과는 상관없이 <b>과학<\/b> 자체의 논리적 합리성에 관련한 것으로만 보았던 전통적인 <b>과학<\/b>철학과, <b>과학<\/b>지식보다는 <b>과학<\/b>의 <b>사회<\/b>적 요인에만 관심을 기울인 기능주의적 <b>과학<\/b><b>사회<\/b>학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중국<b>사회과학<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=909204&cid=50300&categoryId=50300",
+			"description":"1977년 5월에 설립되었으며, 철학, 경제, 역사 등의 개별 연구소가 존재함. <b>사회과학<\/b>원 산하의 변강사지연구센터의 동북공정이 한중간의 분쟁거리가 되고 있음. [www.cass.net.cn]",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>적 법학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99%EC%A0%81_%EB%B2%95%ED%95%99",
+			"description":"<b>사회과학<\/b>적 법학 은 <b>사회과학<\/b>적 시각과 방법론에 입각하여 법을 연구하는 법학이다. <b>사회과학<\/b>적 법학은 좁은 의미로 법<b>사회<\/b>학을 의미하는 말로 쓰이기도 하지만 보다 넓은 의미의 개념이다. 법률학이 법규범의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자연<b>과학<\/b>과 <b>사회<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1184298&cid=40942&categoryId=32202",
+			"description":"자연<b>과학<\/b>과 <b>사회<\/b>와의 관계는 상대적이며, 사상면에서의 상호작용과 생산기술면에서의 상호작용의 두 면으로 생각할 수 있다. 근세 <b>과학<\/b>사상은 <b>과학<\/b>의 이상에 대하여 그 실험기술적인 면조차 외적인 것으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중국 <b>사회과학<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2082463&cid=43667&categoryId=43667",
+			"description":"중국 정부와 당의 새해 정책입안에 기초자료로 사용되고 있다. <b>사회과학<\/b>원은 미국 펜실베이니아 대학이 발표한 2011년 전 세계 정부싱크탱크 평가에서 아시아 1위, 세계 28위에 오른 바 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"데이터<b>과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3580120&cid=59088&categoryId=59096",
+			"description":"몇 년 전부터 주목받기 시작한 데이터<b>과학<\/b>은 복합적인 기술을 요구한다. 프로그래밍 지식이 있어야 하고, 수학과 통계학적 지식도 갖춰야 하며, 내용도 전문성을 갖춰야 한다. 이 접점에 ‘데이터<b>과학<\/b>’이... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20130206_214\/KR15182_1360159450539ghals_JPEG\/39D41133D3C63A76F03_muploader_k_480P_854_1024_128_logo.jpg#1280x720#m"
+		},
+		{
+			"title":"한국<b>사회과학<\/b>협의회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1820386&cid=46634&categoryId=46634",
+			"description":" 한국의 <b>사회과학<\/b> 분야에 관한 연구를 기획, 조직하고 지원하는 학술단체. [연원 및 변천] <b>사회과학<\/b>의 제 학문 분야간 상호협동을 기하고 한국의 정치·경제·<b>사회<\/b>·문화 및 교육에 관한 연구를 기획... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>사회과학<\/b>도서관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=891277&cid=43143&categoryId=43143",
+			"description":" <b>사회과학<\/b> 분야 자료를 전문적으로 보유하고 있는 서울시 종로구의 도서관.  서울시 종로구 한국<b>사회과학<\/b>도서관은 1983년 &#60;이인표 재단&#62;이 주도해 설립한 <b>사회과학<\/b> 분야의 대표적인 전문도서관이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>사회과학<\/b>자료원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=891285&cid=43143&categoryId=43143",
+			"description":" 한국의 <b>사회과학<\/b> 관련 자료를 주로 보관하고 있는 서울시 종로구의 비영리 자료전문 기관.  서울시 종로구 한국<b>사회과학<\/b>자료원(KOSSDA)은 2006년 &#60;이인표 재단이&#62; 운영하던 한국<b>사회과학<\/b>도서관과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"표준<b>사회과학<\/b>모델",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%91%9C%EC%A4%80%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99%EB%AA%A8%EB%8D%B8",
+			"description":"표준<b>사회과학<\/b>모델 ( 영어: Standard Social Science Model ), 줄여서 SSSM 은 <b>사회과학<\/b>자들의 인간 정형에 대한 전통적 생각의 모음이다. 이와 다른 <b>사회과학<\/b>의 현대 관점을 IM이라고 부른다. 내용 인간은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문화학 (<b>사회과학<\/b>)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AC%B8%ED%99%94%ED%95%99_(%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99)",
+			"description":"문화학 (culturology 혹은 science of culture)이란 문화를 전체로서 다루는, 즉 이해·서술·분석·예견하는 <b>사회과학<\/b>의 한 분야이다. 레슬리 A. 화이트가 1949년에 자신의 이론을 명명한 데에서 비롯되었다. 문화는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 조사방법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2083628&cid=44412&categoryId=44412",
+			"description":"<b>사회과학<\/b>(社會科學, social science)은 인간과 인간 사이의 관계에서 일어나는 <b>사회<\/b> 현상과 인간의 <b>사회<\/b>적 행동을 탐구하는 <b>과학<\/b>의 한 분야로 <b>사회<\/b>현상을 연구하여 일련의 법칙이나 규칙 혹은 시사할만한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"학생운동 <b>사회과학<\/b>지 신흥<b>과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2180740&cid=42192&categoryId=51063",
+			"description":"《신흥<b>과학<\/b>(新興科學)》은 1927년 4월 20일자로 창간된 <b>사회과학<\/b> 잡지인데, 1928년 7월 통권 4호로 종간되었다. 창간호는 찾을 수 없었고, 《이론투쟁》(1927. 8)에 나온 광고만 볼 수 있었다. 필자가 얻은 것은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3028_000_1\/20140822143311571_69CF88QV9.jpg\/eb72_235_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"조선<b>사회과학<\/b>자협회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2458404&cid=46629&categoryId=46629",
+			"description":" 김일성 주체사상을 창조해 내는 <b>사회과학<\/b>자들의 공식 연구기관. [내용] 조선<b>사회과학<\/b>자협회는 <b>사회과학<\/b>자들의 연구기관으로 주체<b>과학<\/b>연구원을 그 산하기관에 두고 있다. <b>사회과학<\/b>을 주체사상에 기초하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 인용 지표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=272651&cid=41990&categoryId=41990",
+			"description":"계간으로 발행되며, <b>과학<\/b> 정보 기구(Institute of Scientific Information)에 의해 매년 집적되고 모든 <b>사회과학<\/b> 분야의 1,400개 잡지들에 포함된 논문을 수록하고 있는 인용 색인.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>고등연구원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99%EA%B3%A0%EB%93%B1%EC%97%B0%EA%B5%AC%EC%9B%90",
+			"description":"<b>사회과학<\/b>고등연구원 (École des hautes études en sciences sociales), EHESS 는 파리에 위치한 프랑스의 그랑제타블리스망으로, 철학, 역사, 고고학, 인류학, 인종학, 지리학, <b>사회<\/b>학, 통계학, 법<b>사회<\/b>학, 정치학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>사회과학<\/b>자료원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99%EC%9E%90%EB%A3%8C%EC%9B%90",
+			"description":"한국<b>사회과학<\/b>자료원(Korea Social Science Data Archive, KOSSDA)은 <b>사회과학<\/b> 분야 연구자료의 수집과 보급을 선도하는 한국의 대표적인 데이터 아카이브 입니다. KOSSDA는 연구기관들과 개인 연구자들이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"노동<b>사회과학<\/b>연구소",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%85%B8%EB%8F%99%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99%EC%97%B0%EA%B5%AC%EC%86%8C",
+			"description":"노동<b>사회과학<\/b>연구소 (勞動社會科學硏究所, Workers Institute of Social Science)는 대한민국의 마르크스-레닌주의 사상 연구소이다. 개요 노동<b>사회과학<\/b>연구소는 2004년 노무현 탄핵 정국 당시 노무현 탄핵에 반대하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회<\/b>학의 자연<b>과학<\/b>화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1838586&cid=42045&categoryId=42045",
+			"description":"제2차 세계대전 이래로 <b>사회<\/b>학자를 비롯한 <b>사회과학<\/b>자들이 <b>과학<\/b>적 이론이라는 우상을 숭배함으로써 <b>사회<\/b>학을 포함한 <b>사회과학<\/b>이 공공의 비평이나 교육자로서의 역할을 포기한 채 공중으로부터 고립된 현상을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>과학<\/b>자의 <b>사회<\/b>적 책임",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6029851&cid=67207&categoryId=67210",
+			"description":"<b>사회 과학<\/b>에서도 연구 결과에 대해 <b>사회<\/b>적 책임 의식을 강조하는 노력이 일어나고 있다. <b>과학<\/b>자들의 <b>사회<\/b>적 책임은 무엇인지 역사적 배경을 통해 자세히 알아보자.(동영상 출처 : ebs 지식클립)",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20200729_148\/Ehkl0_1595956801645N2lO2_JPEG\/7195b44d-d0f6-11ea-b74d-505dac8c35ff_05.jpg#1280x720#m"
+		},
+		{
+			"title":"<b>사회<\/b>학 및 <b>사회과학<\/b> 유럽 아말피 상",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%ED%9A%8C%ED%95%99_%EB%B0%8F_%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99_%EC%9C%A0%EB%9F%BD_%EC%95%84%EB%A7%90%ED%94%BC_%EC%83%81",
+			"description":"아말피 상 (Premio Europeo Amalfi per la Sociologia e le Scienze Sociali) 은 <b>사회과학<\/b>분야 부문에 있어 권위있는 이탈리아의 상이다. 이탈리아 <b>사회<\/b>학회의 <b>사회<\/b>학 이론 및 <b>사회<\/b> 변혁 부서의 계획에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조선학생<b>사회과학<\/b>연구회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=548948&cid=46623&categoryId=46623",
+			"description":" 1924년 5월 20일 서울에서 서울 시내 고등보통학교(중고등학교) 및 전문학교 학생들이 조직한 <b>사회과학<\/b> 연구단체. [내용] 일명 조선<b>사회과학<\/b>연구회라고도 한다. 이들은 시국과 계몽에 관하여 많은 토론과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영국 <b>사회과학<\/b>진흥협회",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1691104&cid=41908&categoryId=41930",
+			"description":"브루엄을 중심으로 <b>사회과학<\/b>의 발전과 보급을 통해 빅토리아기의 번영 이면에서 발생한 <b>사회<\/b>문제를 해결하고 국민생활의 개선에 기여하기 위해 설립된 단체. 이 협회는 입법 · 법 개정부회, 교육부회... ",
+			"thumbnail":""
+		},
+		{
+			"title":"르네상스기의 <b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1397443&cid=41978&categoryId=41980",
+			"description":"마키아벨리의 『로마사론』과 『군주론』은 르네상스 기간 동안 <b>사회과학<\/b>에 흐르는 변화의 증거로서 눈에 띄는 장점을 가진 유일한 작품은 아니었다. 그의 '전쟁의 예술'은 군사술에 관한 <b>과학<\/b>적 논문으로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 연구 네트워크",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99_%EC%97%B0%EA%B5%AC_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC",
+			"description":"<b>사회과학<\/b> 연구 네트워크(Social Science Research Network, SSRN) 는 <b>사회과학<\/b> 및 인문학 관련 분야의 학술 연구를 신속하게 보급하는 것을 목적으로 만들어진 출판 전 논문(preprint)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여론의 <b>사회과학<\/b>적 본질",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2118578&cid=50854&categoryId=50856",
+			"description":"미국 <b>사회<\/b>와 학계에 팽배하던 진보와 발전에 대한 전통적... 미국의 <b>사회<\/b>와 언론에 대해서도 온전히 적용되고 있었다. 인민에 의한... 자신이 파악한 미국 <b>사회<\/b>의 현실은 현대 민주주의의 토대 자체의 붕괴... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 만족",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070239&cid=41991&categoryId=41991",
+			"description":" 자신의 직업 혹은 <b>직무<\/b>에 대해 개인이 만족하는 정도. [ 1. 개요] <b>직무<\/b> 만족이란 개인이 자신의 직업 혹은 <b>직무<\/b>에 만족하는 정도를 의미한다. <b>직무<\/b> 만족에 대한 관심은 생산성 향상에 관심을 가진 학자들로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현대 <b>사회과학<\/b>에 끼친 영향",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2118535&cid=50854&categoryId=50855",
+			"description":"이상의 논의들 속에 관류하고 있는 그의 사상은 문화의 구성주의(constructionism)적 입장이다. 특정의 시간(역사)과 공간(장소와 구조 혹은 조건) 속에서 사람(주체)이 기억, 상징, 욕구, 욕망, 감정, 심리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회<\/b>교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578972&cid=46615&categoryId=46615",
+			"description":" 국가가 학력을 인정하는 제도적 정규 교육기관 외에 <b>사회<\/b>에서 행해지는 조직적 교육활동. [개설] [<b>사회<\/b>교육의 정의] <b>사회<\/b>교육의 정의는 구구할 뿐만 아니라 <b>사회<\/b>교육을 의미하는 용어들도 다양하다. 이에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_17\/20190329215639047_LN8QEFV21.jpg\/837cb4af-afd9-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"교육<b>사회<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2164885&cid=44412&categoryId=44412",
+			"description":"그리고 교육학(敎育學, education)의 한 분<b>과학<\/b>문으로서 교육<b>사회<\/b>학이 연구해야 할 기본적인 과제는 다양한 <b>사회<\/b>구조 속에서 교육이 존재하는 양상을 발견하는 것이다. 이러한 측면에서 볼 때 교육<b>사회<\/b>학은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140822141810346_YTAXEJFEY.jpg\/z5_term171_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>과학<\/b>적 <b>사회<\/b>주의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=937213&cid=43667&categoryId=43667",
+			"description":"분석을 하여 공산주의를 실현하는 것이다. 이에 프리드리히 엥겔스는 이러한 <b>사회<\/b>주의를 <b>과학<\/b>적 <b>사회<\/b>주의라고 하였다. <b>과학<\/b>적 <b>사회<\/b>주의를 대표하는 방법은 역사 유물론(historical materialism)이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>을 위한 통계 패키지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1520685&cid=42121&categoryId=42121",
+			"description":"<b>사회과학<\/b>의 자료분석을 위해서 20년 전에 만들어진 통계 컴퓨터 프로그램 패키지이다. 통계절차는 단순한 빈도에서부터 세련된 다변량기법에 이르기까지 다양하다. 이것은 특히 조사자료의 분석에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국기술<b>사회<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EA%B8%B0%EC%88%A0%EC%82%AC%ED%9A%8C",
+			"description":"한국기술<b>사회<\/b> (韓國技術사會)는 기술사법에 의거, 기술사 <b>직무<\/b>의 개선, 기술능력의 향상 및 품의보전 도모를 목적으로 <b>과학<\/b>기술정보통신부의 인가를 받아 설립된 특수법인이다. 설립 근거... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립환경<b>과학<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%ED%99%98%EA%B2%BD%EA%B3%BC%ED%95%99%EC%9B%90",
+			"description":"<b>직무<\/b> 보안·문서·인사·감사·예산·결산 및 회계에 관한 사항 중장기 국가환경연구사업의... 보건<b>사회<\/b>부 소속으로 국립환경연구소 설치. 1980년 1월 1일: 환경청 소속으로 변경. 1982년 12월 27일: 신축... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 명저 재발견 2 머리말",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2118569&cid=50854&categoryId=50856",
+			"description":"서울대학교 <b>사회과학<\/b>연구원은 2008년 봄부터 집담회 ‘현대 <b>사회과학<\/b> 명저의 재발견’을 개최하고 있다. 개최할 때마다 학과와 전공을 달리하는 교수 한 명이 자신이 추천한 현대 <b>사회과학<\/b> 명저 한 권의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"비판적 실재론 (<b>사회과학<\/b> 철학)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B9%84%ED%8C%90%EC%A0%81_%EC%8B%A4%EC%9E%AC%EB%A1%A0_(%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99_%EC%B2%A0%ED%95%99)",
+			"description":"비판적 실재론은 일반적인 <b>과학<\/b>철학(초월적 실재론(transcendental realism))과 <b>사회과학<\/b> 철학(비판적 자연주의(critical naturalism))의 결합으로 구성된다. 비판적 실재론은 <b>과학<\/b>을 인과적 기제(causal... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 명저 재발견 4 머리말",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2169355&cid=50854&categoryId=51042",
+			"description":"서울대학교 <b>사회과학<\/b>연구원은 2008년부터 기획집담회 ‘현대 <b>사회과학<\/b> 명저의 재발견’을 개최하고 있다. 학과와 전공을 달리하는 교수가 자신이 추천한 현대 <b>사회과학<\/b> 명저 한 권의 내용과 의의를 설명하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 명저 재발견 3 머리말",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2169294&cid=50854&categoryId=51041",
+			"description":"서울대학교 <b>사회과학<\/b>연구원은 2008년 봄부터 집담회 ‘현대 <b>사회과학<\/b> 명저의 재발견’을 개최하고 있다. 개최할 때마다 학과와 전공을 달리하는 교수 1명이 자신이 추천한 현대 <b>사회과학<\/b> 명저 1권의 내용과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미국사: 국가 통제와 <b>사회 과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1006031&cid=62122&categoryId=62122",
+			"description":"이와 같은 보수적인 <b>사회<\/b> 이론에 대해 개혁적은 지식인들은 정부 개입주의의 이론으로 맞섰다. 그 최초는 브라운 대학의 <b>사회<\/b>학... 위한 <b>사회<\/b> 계획(social planning)을 세울 수 있다는 것이었다. 또 다른... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>과학<\/b>적 관리법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%BC%ED%95%99%EC%A0%81_%EA%B4%80%EB%A6%AC%EB%B2%95",
+			"description":"관리부장은 테일러가 <b>과학<\/b>적 관리의 궁극적 목적은 노동자와 자본가는 물론 전체 <b>사회<\/b> 구성원이 물질적 풍요를 보장하는 것이라는 생각과 같이 작업표, <b>직무<\/b>분석표, 작업분담표, 작업과정표... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>과학<\/b>적 <b>사회<\/b>주의",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%BC%ED%95%99%EC%A0%81_%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9D%98",
+			"description":"<b>과학<\/b>적 <b>사회<\/b>주의 ( 독일어: Wissenschaftlicher Sozialismus , 영어: Scientific Socialism )는 마르크스주의가 스스로를 나타내는 표현으로, 프리드리히 엥겔스가 사용하였다. 마르크스주의는 <b>사회<\/b>의 발전을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>과학<\/b>적 <b>사회<\/b>주의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=924773&cid=47331&categoryId=47331",
+			"description":"마르크스가 당시 유행하던 <b>사회<\/b>주의의 조류에 관해 '공상적 <b>사회<\/b>주의'라 칭하고 자신의 이론을 '<b>과학<\/b>적 <b>사회<\/b>주의'라 칭한 데서 비롯된 말. 마르크스 이전 서구의 자연법 사상이나 토머스 모어 등에 연원하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"귀도카를리자유국제<b>사회과학<\/b>대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6213523&cid=67966&categoryId=67966",
+			"description":" 귀도카를리자유국제<b>사회과학<\/b>대학교(Luiss)는 이탈리아의 수도 로마에 메인 캠퍼스가 있는 사립 <b>사회과학<\/b> 특화대학교이다. 1966년에 프로데오대학교로 설립된 이후 1974년 이탈리아산업연맹에 의해... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5940_000_1\/20210204174242600_ZK5GDTRB9.jpeg\/Luiss_University.jpeg?type=m160_160"
+		},
+		{
+			"title":"<b>사회과학<\/b> 명저 재발견 3 저자소개",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2169353&cid=50854&categoryId=51041",
+			"description":"주요 논저로는 Green Growth: Korean Initiatives for Green Civilization, 『녹색성장: 한국경제 <b>사회<\/b> 발전의 새로운 패러다임』(공저), 『거시경제학』, 『남북한 경제의 이질성: 경제통합에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 명저 재발견 2 저자소개",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2118633&cid=50854&categoryId=50856",
+			"description":"[박명규] 서울대학교 <b>사회<\/b>학과 교수 서울대학교 <b>사회<\/b>학과를 졸업하고 서울대학교에서 문학 박사 학위를 받았다. 한국<b>사회<\/b>사, 민족<b>사회<\/b>학, 정체성의 문화적 형성, 종교<b>사회<\/b>학 등에 대한 연구에 관심이 많고 현재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 명저 재발견 3 참고문헌",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2169352&cid=50854&categoryId=51041",
+			"description":"기독교적 현실주의로 세상을 바라보다 Crouter, Richard, 2010, Reinhold Niebuhr: On Politics, Religion, and Christian Faith, Oxford: Oxford University Press. David, Harry R.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 명저 재발견 1 저자 소개",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2118567&cid=50854&categoryId=50855",
+			"description":"계량심리학을 전공하였고 심리측정, 의사결정, 인지<b>과학<\/b>에 관심이 많다. 논문으로는 「확률에... incompatible”(공저) 등이 있다. [서이종] 서울대학교 <b>사회<\/b>학과 교수 서울대학교 <b>사회<\/b>학과를 졸업하",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 명저 재발견 2 참고문헌",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2118632&cid=50854&categoryId=50856",
+			"description":"민문홍, 1994, 『<b>사회과학<\/b>과 도덕<b>과학<\/b>』, 민영사. 민문홍, 2001, 『에밀 뒤르켐의 <b>사회<\/b>학: 현대상 위기극복을 위한 새로운 패러다임을 찾아서』, 아카넷. 박명규, 2009, “남북관계와 비대칭적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=41698",
+			"description":"경제\/경영, 직업, <b>사회<\/b>\/복지, 교육, 법, 정치\/국제\/외교, 행정\/정책, 국방\/군사, 방송\/출판, 미디어백과, 서식, <b>사회과학<\/b> 일반, 통계.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=272397",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=498310",
+			"description":"스웨그",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>계에 새로운 바람을 불어넣다",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2169336&cid=50854&categoryId=51041",
+			"description":"방대한 단행본 연구서인 『구별짓기』에서 펼쳐진 논의의 탁월한 설득력은 프랑스 <b>사회<\/b>학계를 넘어 세계 <b>사회과학<\/b>계 전반에 걸쳐 실천, 장, 아비투스, 문화자본 등의 개념을 주된 구성요소로 하는 부르디외의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공상적 <b>사회<\/b>주의와 <b>과학<\/b>적 <b>사회<\/b>주의",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%B5%EC%83%81%EC%A0%81_%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9D%98%EC%99%80_%EA%B3%BC%ED%95%99%EC%A0%81_%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9D%98",
+			"description":"《 공상적 <b>사회<\/b>주의와 <b>과학<\/b>적 <b>사회<\/b>주의 》( 프랑스어: Socialisme utopique et socialisme scientifique )는 프리드리히 엥겔스가 1880년 발표한 소책자다. 1876년 발표한 반뒤링론의 내용 일부를 발췌, 정리한 것으로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"'공상적 <b>사회<\/b>주의'와 '<b>과학<\/b>적 <b>사회<\/b>주의'",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=942724&cid=47331&categoryId=47331",
+			"description":"엥겔스가 '마르크스의 사상주의'를 <b>과학<\/b>적 <b>사회<\/b>주의라 부르고 그 이전의 <b>사회<\/b>주의 사상을 '공상적 <b>사회<\/b>주의'라고 부른 데서 사용되기 시작한 표현이다. [공상적 <b>사회<\/b>주의] 일반적으로 19세기 초의 R. 오언, C.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>과학<\/b>적 <b>사회<\/b>주의 이론이란",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=996888&cid=41908&categoryId=41928",
+			"description":"그들은 <b>사회<\/b>주의 <b>사회<\/b>의 건설이 프롤레타리아트 혁명을 통해서 가능하다고 말하면서 바로 이러한 이론의 발견이 자신들의 <b>사회<\/b>주의 이론을 '<b>과학<\/b>적'으로 만들었다고 주장한다. &quot;우리에게 공산주의는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인문<b>사회과학<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=193153",
+			"description":"인문<b>사회과학<\/b>적 상식",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>용어",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=531343",
+			"description":"용어설명",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b>경영",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=1027497",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"18세기 <b>사회<\/b>사상: 프랑스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1397298&cid=42122&categoryId=42122",
+			"description":"우리는, 뒤르켐의 라틴 논문의 주제이자 의문의 여지없이 18세기의 가장 위대한 <b>사회<\/b>학자인... 돈을 주고 샀었는데, 나중에 그것을 판 몽테스키외는 재산가와 명문가족의 사람들이 <b>직무<\/b>를 수행하기 위",
+			"thumbnail":""
+		},
+		{
+			"title":"조직 (<b>사회과학<\/b>)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A1%B0%EC%A7%81_(%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99)",
+			"description":"조직은 환경에서 자원을 획득하고, 그것을 처리하여 산출물을 생산하는 안정되고 정형화된 <b>사회<\/b>구조를... <b>사회<\/b>요소들로 구성된 <b>사회<\/b>구조다. 조직에 내린 이런 정의는 강력하면서 단순하지만 현실 세계의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>사회과학<\/b> 용어",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=541103",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"위험 <b>사회<\/b>와 <b>과학<\/b> 기술",
+			"link":"https:\/\/openlectures.naver.com\/contents?contents_id=57395",
+			"description":"세월호 참사 이후 재난 재해와 안전에 대한 <b>사회<\/b>의 관심이 매우 높아졌다. 과거에는 일을 ‘빨리빨리’ 처리하기 위해서 혹은 눈앞에 보이는 단기적인 이익을 취하기 위해 안전에 관한 규칙들을 무시하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생물학과 <b>사회과학<\/b>에 있어서 생태학이론의 비교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2169230&cid=50852&categoryId=50852",
+			"description":"생물학과 <b>사회과학<\/b>은 각기 별개의 발전경로를 밟아왔지만 생태학이 오랫동안 이 두 학문분야를 연결시켜 주는 큰 역할을 해왔다. 다윈(C. Darwin)을 비롯해서 알리, 그리고 허친슨(Hutchinson 1963)에 이르기까지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"새로운 통합적 <b>사회과학<\/b>조망틀이 되기 위한 과제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2169386&cid=50854&categoryId=51042",
+			"description":"투비와 코즈미디스(Tooby &#38; Cosmides, 1992)는 빈 서판에 기반한 표준<b>사회과학<\/b> 모형은 인간이 스스로 축적해온 문화를 지나치게 강조하여 결과적으로 생물학을 포함한 다른 자연<b>과학<\/b>과 분리되는 결과를 초래했다고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>과학<\/b>적 <b>사회<\/b>주의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=778676&cid=42085&categoryId=42085",
+			"description":"잉여가치설은 생산의 반도덕성을 해명하는 것으로서 자본주의가 노동력의 착취 위에 번성하고 있는 악의 꽃임을 증명하여 현존 <b>사회<\/b>에 대한 도덕적 비난과 <b>사회<\/b>주의<b>사회<\/b>에 대한 주장을 <b>과학<\/b>적 기초 위에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"설명과 이해에 대한 <b>사회과학<\/b> 철학의 전통적 논쟁",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1000021&cid=41908&categoryId=41924",
+			"description":"<b>사회과학<\/b> 철학에 대한 전통적인 논쟁은 설명과 이해에 대해 상이한 견해를 보이고 있다. 한 쪽에서는 예측 법칙에 포섭되는 '설명'은 '이해'를 대체할 수 없다고 한다. 설명이 이해를 전제로 하는 것이기... ",
+			"thumbnail":""
+		}
+	]
+}

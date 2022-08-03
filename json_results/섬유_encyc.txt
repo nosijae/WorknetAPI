@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:17 +0900",
+	"total":35715,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112365&cid=40942&categoryId=31891",
+			"description":" 대단히 길고 가늘며 연하게 굽힐 수 있는 천연 또는 인조의 선상 물체이다. 직물의 원료가 될 뿐만 아니라 편물·로프·그물·펠트 등 <b>섬유<\/b>제품의 원료 및 제지의 원료로 쓰이는 것을 말한다.  공업재료로서의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_1\/20220609071304885_F5IWHANIX.jpg\/8808026.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1634957&cid=42752&categoryId=42754",
+			"description":"가늘고 긴 물질을 말하고 천연<b>섬유<\/b>(식물<b>섬유<\/b>, 동물<b>섬유<\/b>, 광물<b>섬유<\/b>)와 인공<b>섬유<\/b>로 대별한다. 차의 <b>섬유<\/b>에는 조<b>섬유<\/b>, 식이<b>섬유<\/b>, 중성세제 <b>섬유<\/b>(NDF : neutral detergent fiber)가 측정되고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=280800&cid=42822&categoryId=42822",
+			"description":"폭이 육안으로 보기 어려울 정도로 가늘고 길이가 폭의 수 십배 이상이나 되는 것으로, 생산 방법으로 분류하면 천연<b>섬유<\/b>와 인조<b>섬유<\/b>, 화학조성(化學組成)으로 분류하면 유기질<b>섬유<\/b>(有機質織維)와 무기질<b>섬유<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=494002&cid=60408&categoryId=55558",
+			"description":"식물에서는 세포벽(細胞壁)이 비후화(肥厚化)하였을 때에 셀룰로스 등의 <b>섬유<\/b>가 구성소재로 되어 있다. <b>섬유<\/b>는 식물체의 거의 모든 부분에서 볼 수 있고, 식물체에 기계적강도를 부여하고 있다. 2차비대성장을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6157019&cid=67725&categoryId=67725",
+			"description":"① 식이 <b>섬유<\/b>. 식물 세포벽에서 유래하는 장에서 소화 효소로 분해되지 않는 복잡한 탄수화물의 혼합물. ② 조<b>섬유<\/b>. 식품의 비소화성 물질. ③ 가용성 <b>섬유<\/b>. 식이 <b>섬유<\/b> 가운데 녹을 수 있고 물에서 젤을 이루는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112364&cid=40942&categoryId=32318",
+			"description":" 생물체를 만들고 있는 구조로 매우 긴 얼개를 하고 있다. 식물학에서 <b>섬유<\/b>는 세포 중에 가늘고 길며 양끝이 뽀족하고 벽이 두꺼운 것, 혹은 이들이 모여 있는 조직을 말하는 것으로, 양치식물과 종자식물의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2758028&cid=50345&categoryId=50345",
+			"description":"대단히 길고 가늘며 연하게 굽힐 수 있는 천연 또는 인조의 선상(線狀) 물체. 직물의 원료가 될 뿐만 아니라 편물 · 로프 · 그물 · 펠트 등 <b>섬유<\/b> 제품의 원료 및 제지(製紙)의 원료로 쓰인다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1971046&cid=50317&categoryId=50317",
+			"description":"식물체 속에 들어 있는 세포. 아주 가늘고 길며 양쪽 끝이 뾰족하면서 벽이 두껍다. 그러한 세포들이 모여 이룬 조직을 뜻하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=149988&cid=50317&categoryId=50317",
+			"description":"신장된 후막세포로 어느 정도 비후한 2차세포막이 형성되어 있으며 성숙단계에 있어서 살아있는 원형체가 존재하는 경우도 있음.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=27122",
+			"description":"원래는 생물체를 구성하는 가늘고 길다란 성분으로서 식물에서는 세포벽이 두꺼워진 세포를 가리키고, 동물에서는 근<b>섬유<\/b> · 신경<b>섬유<\/b> 등 여러 가지를 가리킨다. 실용으로 쓰이는 것으로는 식물의 줄기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%AC%EC%9C%A0",
+			"description":"<b>섬유<\/b> (纖維, 영어: fiber, fibre )는 길이가 너비보다 현저하게 긴 형태의 천연 또는 인공 물질을 일컫는다. 천연<b>섬유<\/b>의 경우 생물의 세포나 세포에 포함된 물질인 원형질이 변화하여 일정한 모양과 일정한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=421734",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=428943&cid=60261&categoryId=60261",
+			"description":"(1) 후벽<b>섬유<\/b>(厚壁纖維): 식물에서 세포벽은 비후하고 보통 목화하지만, 때로는 단순히 셀룰로오스로 이루어지는 후벽세포의 1종이다. 세포벽에는 수많은 극열상(隙裂狀) 벽공이 있고 성숙한 것의 세포내강은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3582_000_1\/20141027131058437_UN2HTYD1H.jpg\/cf6_9391_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2293878&cid=60227&categoryId=60227",
+			"description":"이것이 의류용 <b>섬유<\/b>의 대체적인 정의인데, 의류용 이외의 용도(예를 들어 종이, 화학 공업용 원료 등)에 사용되는 <b>섬유<\/b>에서는 가장 짧은 것(목재 <b>섬유<\/b> 등)이 사용되므로 위의 정의는 적합하지 않다. 【종류】... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2065947&cid=50305&categoryId=50305",
+			"description":"아라미드<b>섬유<\/b>나 탄소<b>섬유<\/b> 등의 슈퍼<b>섬유<\/b>(초강력<b>섬유<\/b>), 친환경(재생)<b>섬유<\/b>, 스마트<b>섬유<\/b>, 나노<b>섬유<\/b> 등을 통칭해 부르는 용어.",
+			"thumbnail":""
+		},
+		{
+			"title":"장<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1138503&cid=40942&categoryId=32089",
+			"description":" 견과 같이 가늘고 길게 연속된 매우 긴 <b>섬유<\/b>로서 천연<b>섬유<\/b>인 생사가 대표적인 장<b>섬유<\/b>이다.  단<b>섬유<\/b>(短纖維)에 대응하는 것으로, 보통 필라멘트(filament)라고도 한다. 한 마리의 누에가 변태의 과정에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>종",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112379&cid=40942&categoryId=32774",
+			"description":" 결합조직을 형성하는 <b>섬유<\/b>세포와 <b>섬유<\/b>에 의하여 구성된 양성종양.  뇌를 제외한 많은 조직기관에 발생한다. 세포성분이 많은 것을 연성<b>섬유<\/b>종, <b>섬유<\/b>가 많은 것을 경성<b>섬유<\/b>종이라 한다. 어느 것이고 절제하면... ",
+			"thumbnail":""
+		},
+		{
+			"title":"단<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1079652&cid=40942&categoryId=31891",
+			"description":" 목화나 양모와 같이 짧은 <b>섬유<\/b>의 총칭.  보통 스테이플이라고 한다. 목화는 3 cm 내외, 양모도 10 cm 정도이기 때문에 그대로는 실로 변환시킬 수 없다. 따라서 꼬임을 가하기 위해 방적(紡績)할 필요가 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5929960&cid=61233&categoryId=61233",
+			"description":"<b>섬유<\/b>화는 장기 내 <b>섬유<\/b>질 결합조직(connective tissue)이 과도하게 형성되는 현상을 의미한다. <b>섬유<\/b>화는 상처에서 회복하는 과정에서 보이는 흉터조직의 형성과 유사한 현상이나 해당 장기의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5382_000_1\/20200316112341135_LTTSTZWMK.jpg\/%25EC%2584%25AC%25.jpg?type=m160_160"
+		},
+		{
+			"title":"HT1<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1166332&cid=40942&categoryId=32091",
+			"description":" 미국의 뒤퐁에서 개발한 방향족 폴리아마이드 <b>섬유<\/b>이다. 내열성·내후성·내약품성 등이 뛰어나 공업 자재로 이용된다.  노멕스(Nomex)라고도 한다. 녹는점 375℃, 비중 1.39이다. 미국의 뒤퐁에서 개발한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"MXD<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1125919&cid=40942&categoryId=32091",
+			"description":" 메타자일렌다이아민(MXD)과 아디프산을 원료로 하는 폴리아마이드계 합성<b>섬유<\/b>이다.  MXD-6이라고도 한다. 1956년경에 캘리포니아리서치에서 개발되어 미국·이탈리아·일본 등에서 연구되었다. 녹는점 243... ",
+			"thumbnail":""
+		},
+		{
+			"title":"A<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=497564&cid=50317&categoryId=50317",
+			"description":"가장 크고 가장 전도속도가 빠른 유수신경<b>섬유<\/b>. 전도속도 5~120m\/초, <b>섬유<\/b>의 지름 1~20㎛. 그 가운데 전도속도가 가장 빠른 것을 A-α<b>섬유<\/b>라고 한다. 이 가운데에는 구심성<b>섬유<\/b>도 원심성<b>섬유<\/b>도 포함된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"30nm <b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5141437&cid=60266&categoryId=60266",
+			"description":"진핵세포의 세포주기 간기(interphase)에 나타나는 30nm <b>섬유<\/b>(30nm fiber)는 염색질 응축의 단계 중, 첫 단계의 뉴클레오솜이 더욱 응축된 후 두 번째 단계에 해당하는 <b>섬유<\/b> 형태의 DNA 구조로 지름이 30nm... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5277_000_1\/20180309183544893_R7PVGJ2VH.jpg\/30_nm_%25EC%2584.jpg?type=m160_160"
+		},
+		{
+			"title":"α<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=436307&cid=60261&categoryId=60261",
+			"description":"척수로부터 나가는 원심성신경 중 골격근의 운동을 지배하는 주요 <b>섬유<\/b>. 원심성을 갖는 <b>섬유<\/b>군 중 가장 굵고(12~21μm) 전도속도도 빠르다(70~120m\/sec). 세포체는 척수전각에 있고 척수보다 상위에 있는 중추... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1132368&cid=40942&categoryId=32091",
+			"description":" 용융한 유리를 <b>섬유<\/b> 모양으로 한 광물<b>섬유<\/b>이며 용도에 따라 장<b>섬유<\/b>와 단<b>섬유<\/b>가 있다.  옛날부터 항아리 등의 장식에 사용되어 왔으나, 1893년 컬럼비아 박람회에서 오엔스리피 유리회사가 유리막대의 한 끝을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무기<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1094592&cid=40942&categoryId=32091",
+			"description":" 화학<b>섬유<\/b>의 하나로, 인공적으로 무기물을 <b>섬유<\/b>로 만든 것이며 유리<b>섬유<\/b>와 금속<b>섬유<\/b> 등이 여기에 속한다.  유리<b>섬유<\/b>·록울·슬래그<b>섬유<\/b>·금속<b>섬유<\/b>(철합금, 니켈·크로뮴 합금, 텅스텐합금, 구리합금) 등이 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"슈퍼<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=302408&cid=50345&categoryId=50345",
+			"description":"고강도,고탄성의 특성을 지닌 <b>섬유<\/b>로 아라미드<b>섬유<\/b>·탄소<b>섬유<\/b>·플론<b>섬유<\/b> 등이 있으며, 흔히 단독으로보다는 플라스틱이나 금속과 함께 복합재료로 쓰인다(=<b>섬유<\/b>강화플라스틱·<b>섬유<\/b>강화 금속).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112368&cid=40942&categoryId=31891",
+			"description":" 각종 <b>섬유<\/b>를 생산하거나, <b>섬유<\/b>를 원료로 쓰는 가공품을 생산하는 관련산업이다. 면·모·견·마 등의 천연<b>섬유<\/b>, 레이온·아세테이트 등의 인조<b>섬유<\/b>, 석탄·석유·물·공기 등으로 합성된 나일론·폴리에스터... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_376\/20210617085754225_Y4PNDN9RX.jpg\/12037023.jpg?type=m160_160"
+		},
+		{
+			"title":"합성<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1161690&cid=40942&categoryId=31891",
+			"description":" 인조<b>섬유<\/b> 중 석유·석탄·공기·물 등을 출발원료로 하여 <b>섬유<\/b>를 형성하는 일련의 긴 분자를, 화학적으로 합성하여 <b>섬유<\/b>로 만든 고분자물질이다.  천연<b>섬유<\/b>(면·양모·생사 등)·재생<b>섬유<\/b>(비스코스레이온... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화학<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1155323&cid=40942&categoryId=31891",
+			"description":" 화학적 공정에 의하여 <b>섬유<\/b>형태를 인공적으로 만들어 낸 방직<b>섬유<\/b>의 총칭이다. 면·양모·명주 등과 같은 천연<b>섬유<\/b>와는 달리 목재·석유·석탄·천연가스 등으로부터 얻어 낸다.  화섬(化纖)이라고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미세<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5842391&cid=63057&categoryId=63057",
+			"description":"[목차] 1.정의 2.구성 성분과 구조 3.미세<b>섬유<\/b>의 기능 3.1.동물세포의 부착과 이동 3.2.동물세포의 세포질 분열 3.3.세포질 유동 3.4.아메바의 이동 4.미세<b>섬유<\/b> 형성의 조절 4.1.작은 G-단백질에 의한 조절 4.2.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5561_000_1\/20191016164129005_UFTUF6H9Y.jpg\/%25EB%25AF%25B8%25.jpg?type=m160_160"
+		},
+		{
+			"title":"연합<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1126699&cid=40942&categoryId=32319",
+			"description":" 대뇌로 통하는 백질의 신경 <b>섬유<\/b> 다발이며 같은 반구 내 대뇌 피질을 연결하는 신경 <b>섬유<\/b>이다.  대뇌의 백질을 구성하는 신경 <b>섬유<\/b>는 투사<b>섬유<\/b>, 연합<b>섬유<\/b>, 교차 연결<b>섬유<\/b>로 구분된다. 그 중 연합<b>섬유<\/b>는 1개의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"식물<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1118519&cid=40942&categoryId=32090",
+			"description":" 천연<b>섬유<\/b>의 한 분류로서 식물세포로 이루어진 <b>섬유<\/b>의 총칭이며 종자모<b>섬유<\/b>(種子毛纖維)·인피<b>섬유<\/b>(靭皮纖維)·엽맥<b>섬유<\/b>로 나누어진다.  종자모<b>섬유<\/b>는 면·케이폭 등이 있고, 인피<b>섬유<\/b>는 아마·저마·대마 등이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신경<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1118652&cid=40942&categoryId=32322",
+			"description":"무수신경<b>섬유<\/b>와 유수신경<b>섬유<\/b>로 나뉘는데, 무수신경<b>섬유<\/b>는 수초로 싸여 있지 않은 가느다란 축색으로 땀샘·혈관 등을 지배하는 교감신경에서 볼수 있고 유수신경<b>섬유<\/b>는 보통의 신경<b>섬유<\/b>로 겔상의 축삭형질... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재생<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1138887&cid=40942&categoryId=31891",
+			"description":" 천연 또는 인조의 <b>섬유<\/b>상 고분자물질을 용해·융해 등에 의하여 균일한 상태로 만들고, 이것을 다시 <b>섬유<\/b>로 형성한 것이다.  화학<b>섬유<\/b>를 대별하여 합성<b>섬유<\/b>와 재생<b>섬유<\/b>로 나눈다. <b>섬유<\/b>는 고분자 화합물이어야... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>기계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112370&cid=40942&categoryId=32354",
+			"description":" <b>섬유<\/b>공업에 쓰이는 기계.  <b>섬유<\/b>기계에는 원료<b>섬유<\/b>에 쓰이는 기계로 면화로부터 씨앗과 솜을 분리하는 조면기(繰綿機), 마(麻)에서 <b>섬유<\/b>를 빼는 기계, 펄프로부터 레이온을 만들거나 고분자물질로 합성<b>섬유<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중공<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1132100&cid=40942&categoryId=32281",
+			"description":" <b>섬유<\/b> 단면 한 가운데 공동이 있는 화학<b>섬유<\/b>로 중공사라고도 한다. 겉보기 비중이 작고, 가벼우면서 보온력이 크며 탄성이 좋고 겉부피가 매우 크다. 중공<b>섬유<\/b>가 각광을 받는 분야는 인공신장기에의 응용이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=938505&cid=43667&categoryId=43667",
+			"description":" 녹인 유리를 <b>섬유<\/b> 모양으로 만든 인조<b>섬유<\/b>로, 글라스 울(Glass Wool)이라고도 한다.  | 외국어 표기 | 遊離纖維(한자) glass fiber(영어) | 유리<b>섬유<\/b>는 단열재, 방음재 등에 석면 대체물질로 사용되고 있으며 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광물<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1064905&cid=40942&categoryId=32091",
+			"description":" 광물질 <b>섬유<\/b>.  미네랄울이라고도 한다. 천연적으로 얻어지는 석면(石綿)이나 과학적으로 만들어진 인공암면(人工岩綿)·글라스울(유리솜) 등이 있다. 식물<b>섬유<\/b>·합성<b>섬유<\/b>와 같이 사용되는 <b>섬유<\/b>의 일종으로, 주로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제전<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1188741&cid=40942&categoryId=32091",
+			"description":" 정전기의 발생이 없는 합성<b>섬유<\/b>.  제전성 <b>섬유<\/b>와 도전성 <b>섬유<\/b>(electro-conductive)의 두 가지 종류가 있다. 제전성 <b>섬유<\/b>는 정전기 자체를 억제하는 <b>섬유<\/b>로 화합물이나 탄소 미분을 방사 원액에 혼합 방사하거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>세포",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5782235&cid=62861&categoryId=62861",
+			"description":"<b>섬유<\/b>세포는 흔히 관다발 조직과 함께 발생하는 가늘며 긴 세포이다. <b>섬유<\/b>세포는 한 가닥으로 존재하기도 하지만, 대부분의 경우 여러 가닥이 다발로 되어 있다. <b>섬유<\/b>는 <b>섬유<\/b>세포에서 분리한 것이다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5485_000_1\/20190628184505070_EJA4T1OGR.jpg\/Alamy_BR929.jpg?type=m160_160"
+		},
+		{
+			"title":"경질<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060550&cid=40942&categoryId=32090",
+			"description":" 삼 종류의 <b>섬유<\/b>.  삼의 <b>섬유<\/b>는 모두 거칠고 딱딱하기 때문에 경질<b>섬유<\/b>라 한다. 아마(亞麻) ·황마(黃麻) ·라미(모시풀) 등은 <b>섬유<\/b>가 비교적 부드럽기 때문에 연질삼이라 하고, 마닐라삼 ·사이잘삼 등은 특히... ",
+			"thumbnail":""
+		},
+		{
+			"title":"슈퍼<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1167827&cid=40942&categoryId=32335",
+			"description":" 고강도·고탄성의 특성을 지닌 <b>섬유<\/b>.  금속과 같거나 그 이상의 강도를 지닌다. 아라미드<b>섬유<\/b>·탄소<b>섬유<\/b>·플론<b>섬유<\/b> 등이 있으며, 흔히 단독으로보다는 플라스틱이나 금속과 함께 복합재료로 쓰이는데, <b>섬유<\/b>강화... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1274094&cid=40942&categoryId=32381",
+			"description":" 나노<b>섬유<\/b>는 지름이 수십에서 수백 나노미터에 불과한 초극세실로서, 나노실을 활용할 경우 <b>섬유<\/b>를 현재보다 1백분의 1 정도로 가늘게 만들 수 있다.  나노<b>섬유<\/b>는 지름이 수십에서 수백 나노미터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>혁명",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112381&cid=40942&categoryId=31818",
+			"description":" 3차례에 걸친 <b>섬유<\/b>산업의 획기적인 변혁.  18세기 말 근대산업으로 확립된 면직물 공업, 19세기 말에서 20세기에 걸친 인견(人絹)·인조<b>섬유<\/b>(레이온) 등 화학<b>섬유<\/b>의 발명과 공업화, 뒤를 이어 제2차 세계대전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>공예",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6584329&cid=40942&categoryId=33061",
+			"description":" <b>섬유<\/b>를 재료로 하는 창조적 활동 혹은 그 결과물.  <b>섬유<\/b>를 재료로 하는 창조적 활동 혹은 그 결과물을 말한다. 재료는 천연 혹은 합성의 <b>섬유<\/b>로 만들어진 천이나 실 등이며, 보통 제작자의 수작업으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_390\/20220113061127397_LTLI4G3LE.jpg\/12437802.jpg?type=m160_160"
+		},
+		{
+			"title":"탄소<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1167582&cid=40942&categoryId=32091",
+			"description":" 유기<b>섬유<\/b>를 비활성 기체 속에서 가열, 탄화하여 만든 <b>섬유<\/b>이다.  탄소<b>섬유<\/b>가 처음 알려진 것은 약 100년 전 T. A. 에디슨이 대나무 <b>섬유<\/b>를 탄화하여 전구의 필라멘트로 사용했을 때이다. 공업적으로 제조되기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741203&cid=60217&categoryId=60217",
+			"description":"유리를 녹여 가늘고 길게 <b>섬유<\/b> 모양으로 만든 것을 말한다. 최근에 서로 다른 밀도를 가지는 두 개의 유리<b>섬유<\/b>를 이용하여 광<b>섬유<\/b>를 만들어 광통신에 많이 사용하고 있다. 유리<b>섬유<\/b>는 유리막대의 한 끝을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190228191320963_IA99S3D1Q.jpg\/OP-62_%25EC%259C.jpg?type=m160_160"
+		},
+		{
+			"title":"식이<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=777182&cid=48192&categoryId=48289",
+			"description":" 난소화성 고분자 <b>섬유<\/b> 성분 변비 예방, 비만 방지, 혈당 상승 억제. [난소화성 성분] 식이<b>섬유<\/b>(食餌纖維, dietary fiber)란 신체의 소화효소로 분해되지 않는 난소화성(難消化性) 고분자 <b>섬유<\/b> 성분을 말하는데... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0753_000_1\/20111024141248779_Z87AOK5X4.jpg\/fe9_34_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"교토공예<b>섬유<\/b>대학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1210417&cid=40942&categoryId=39950",
+			"description":"1949년 공포된 '국립학교설치법'에 따라 교토<b>섬유<\/b>전문학교와 교토공업전문학교를 통합하여 <b>섬유<\/b>학부와 공예학부의 2개 학부로 이루어진 공업계 대학으로 설립되었다. 1988년 학부 개편을 거쳐 2001년 현재 2개... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070210&cid=40942&categoryId=32091",
+			"description":" 금속으로 만든 <b>섬유<\/b>.  장식용 금사(金絲)나 은사(銀絲) 등은 옛날부터 사용되어 왔고, 현재는 철·알루미늄박(箔) 등의 여러 가지 금속사(金屬絲)가 생산되고 있으며, 철·알루미늄 등의 용융체(溶融體)로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수모<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1115299&cid=40942&categoryId=32089",
+			"description":" 동물의 체표에 나 있는 털을 깎아 만든 동물<b>섬유<\/b>.  의복용으로 많이 사용되는 것은 양모이고, 이 밖에 산양·낙타·토끼·말·알파카·라마 등의 털이 사용된다. <b>섬유<\/b>는 단백질로 이루어지고, 그 <b>섬유<\/b> 표면에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"식이<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6080412&cid=62861&categoryId=62861",
+			"description":"식이<b>섬유<\/b>는 식물체에서 유래된 성분 중에서 사람이 섭취했을 때 소화효소에 의해 완전히 분해되지 않는 물질을 뜻한다.1) 식이<b>섬유<\/b>는 주로 탄수화물 성분으로 분류되며, 물에 대한 용해성에 따라 수용성과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5485_000_1\/20200915171707199_L1TWW038H.jpg\/FruitVegetables.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>섬유<\/b>여재",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3393827&cid=60289&categoryId=60289",
+			"description":" 비표면적이 큰 합성<b>섬유<\/b>를 여과제로 사용한 것.  비표면적이 큰 함성<b>섬유<\/b>를 여과제로 사용한 것을 말한다. 모래여과에 비해, 여과속도가 오래 걸린다. 제조 형식에 따라 엮음여과재와 모전여과재로 나눌 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>공업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=575385&cid=46631&categoryId=46631",
+			"description":" 의류·방한용 제품 및 특수 용도의 <b>섬유<\/b>를 생산하는 산업. [내용] 원료·중간재 및 최종 상품을 제조, 가공하는 공정까지를 포함한다. 더 구체적으로 보면 <b>섬유<\/b>를 가공하여 생사·<b>섬유<\/b>사·연사·끈·로프·망 및... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_15\/20181101200752689_0V6O0ROT6.jpg\/217e2692-a583-4e.jpg?type=m160_160"
+		},
+		{
+			"title":"합성<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=526808&cid=46671&categoryId=46671",
+			"description":" 화학적 방법에 의하여 중합된 합성고분자를 원료로 하는 <b>섬유<\/b>. [내용] 〔구분〕 <b>섬유<\/b>는 일반적으로 구성원료에 따라 천연<b>섬유<\/b>와 인조<b>섬유<\/b>로 크게 분류된다. 인조<b>섬유<\/b> 중에서 저분자량의 화합물로부터... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_15\/20181106205109824_W3N6VME0T.jpg\/37a3246d-39fd-44.jpg?type=m160_160"
+		},
+		{
+			"title":"방염<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1099494&cid=40942&categoryId=32091",
+			"description":" 불꽃이 닿았을 때는 타지만 불꽃에서 떼어 놓으면 자연히 꺼지는 성질이 있는 <b>섬유<\/b>.  동물성 <b>섬유<\/b>인 양모는 이러한 성질이 있어 준방염성 <b>섬유<\/b>로 분류된다. 분자 속에 염소가 들어 있는 염화비닐... ",
+			"thumbnail":""
+		},
+		{
+			"title":"근원<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5751082&cid=61233&categoryId=61233",
+			"description":"근육은 튜브 형태의 근세포로 이루어지는데 각각의 근세포는 상당한 수의 근원<b>섬유<\/b>로 구성된다 (그림 1). 근원<b>섬유<\/b>는 액틴필라멘트와 미오신필라멘트가 다른 단백질과 정교하게 배열되어 만드는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5382_000_1\/20190325182219378_LK0KSA17B.png\/Myofibril.png?type=m160_160"
+		},
+		{
+			"title":"미세<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=933354&cid=43667&categoryId=43667",
+			"description":" 세포골격을 구성하는 가장 얇은 <b>섬유<\/b>로 진핵세포의 세포질에 존재.  | 외국어 표기 | microfilament(영어) | 세포골격을 구성하는 가장 얇은 <b>섬유<\/b>를 미세<b>섬유<\/b>라고 한다. 각각의 미세<b>섬유<\/b>는 액틴 소단위의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=575386&cid=46637&categoryId=46637",
+			"description":" <b>섬유<\/b>의 제조에서부터 가공·판매·서비스 등을 연구 대상으로 하는 학문. [내용] <b>섬유<\/b>는 식(食)·주(住)와 함께 인류 문명사에서 가장 깊은 역사를 지닌 것이라 할 수 있다. 인류가 <b>섬유<\/b>를 사용하기 시작한 것은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"근원<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=933280&cid=43667&categoryId=43667",
+			"description":" 근<b>섬유<\/b>를 이루는 <b>섬유<\/b>모양의 구조체.  | 외국어 표기 | 筋原纖維(한자) myofibril(영어) | 전체 근<b>섬유<\/b>의 90% 정도를 차지하며 원통형 구조로, 지름은 1마이크로미터 정도이다. 근<b>섬유<\/b>와 마찬가지로 근원<b>섬유<\/b>가... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxNzA0MDdfMjY1%2FMDAxNDkxNTAyODg5MzUx.CwV2q_SqeZkDyQul_8kkHOv6FV0cLIIq8U7rRnSurpIg.T9eTXQe43UfVcQvTHz3gP6_M8guFFTwCsjgr0FQMCWog.JPEG%2Fba2_12-1-35_i1.jpg%2FIkeifOp0EX2vprTM6PZASOulJ2gU.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x1106"
+		},
+		{
+			"title":"유리<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3394814&cid=60289&categoryId=60289",
+			"description":" 규산염을 주성분으로 하는 유리를 용융 또는 가공하여 <b>섬유<\/b>모양으로 가공한 것.  유리<b>섬유<\/b>를 제법이나 용도에 따라 분류하면 단<b>섬유<\/b>와 장<b>섬유<\/b>로 나눠진다. 유리는 고온상태에서 모양이 자유자재로 변화시킬 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>종",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2692283&cid=60261&categoryId=60261",
+			"description":"결합조직을 형성하는 <b>섬유<\/b>세포와 <b>섬유<\/b>에 의하여 구성된 양성종양으로 중간엽 조직에서 생겨나는 모든 기관에서 생길 수 있다. 느슨하게 결합된 세포성분이 많은 것을 연성<b>섬유<\/b>종(soft fibroma), <b>섬유<\/b>가 많고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3582_000_1\/20141027131114925_60X54BJ8N.jpg\/cf6_9414_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"단<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1604227&cid=50345&categoryId=50345",
+			"description":"스테이플패션전문자료사전 <b>섬유<\/b>의 형상 중에서도 변화나 양모의 것과 가장 비슷한 길이로 절단된 인조 <b>섬유<\/b>처럼 길이가 짧은 것을 가리킨다. 외국어 표기 staple(영어) 동의어 단<b>섬유<\/b>(短纖維)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>화",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%AC%EC%9C%A0%ED%99%94",
+			"description":"<b>섬유<\/b>화 (纖維化, Fibrosis)란 어떠한 이유로 장기의 일부가 굳는 현상을 말하며 폐<b>섬유<\/b>화나 간<b>섬유<\/b>화가 대표적인 병으로 꼽힌다. 폐<b>섬유<\/b>화 같은 경우 방사능의 피폭이나 폐의 물이 참으로 인해서 폐가 굳는경우가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"셀룰로오스 <b>섬유<\/b>(셀룰로스 <b>섬유<\/b>)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2294375&cid=60227&categoryId=60227",
+			"description":"셀룰로오스를 주성분으로 하는 <b>섬유<\/b>의 총칭. 아래의 표와 같은 종류가 있다. 셀룰로오스 <b>섬유<\/b>는 천연, 인조를 불문하고 모든 <b>섬유<\/b> 중 그 생산액이 가장 많고 값싸며 방직 <b>섬유<\/b>, 종이, 펄프, 셀룰로오스계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미세<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1260744&cid=40942&categoryId=32315",
+			"description":" 액틴(actin)의 중합체로 만들어지는 직경 6nm정도의 세포내 <b>섬유<\/b>로 그 길이는 다양하다. 세포 구조의 유지와 운동에 중요한 역할을 한다.  세포질(cytoplasm)에는 세포골격(cytoskeleton)이라고 하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_37\/20181004190758298_4HGJ2GRBQ.gif\/828527_0.gif?type=m160_160"
+		},
+		{
+			"title":"식이<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6541696&cid=66878&categoryId=66878",
+			"description":" 식물에서 비롯된 음식 중 사람이 스스로 소화할 수 없는 물질을 통틀어 식이<b>섬유<\/b>라고 해요.  위장에서 음식물을 분해해 영양소를 흡수하기 좋은 형태로 바꾸는 일을 ‘소화’라고 해요. 그런데 식물에서 유래한... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTEwMThfMzUg%2FMDAxNjM0NTM4NzgxNzQ1.2FDQgKSmtGW2aeLzwwUt_xz9pL6du8RAE4ckJSpI4NUg.tt0wBrIxzj3XOU904sSPhtzr6hr4EkJfJbYX5O9fo_Eg.PNG%2FIDmPiNblhrmhZWYvQH9h03BU8wfE.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x669#c540"
+		},
+		{
+			"title":"<b>섬유<\/b>종",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=927234&cid=51007&categoryId=51007",
+			"description":" <b>섬유<\/b>성 결합조직으로 구성되는 양성종양. [정의] <b>섬유<\/b>종은 <b>섬유<\/b>, 결합조직으로 구성되는 양성종양을 의미한다. <b>섬유<\/b>종은 거의 모든 장기에서 중간엽 조직으로부터 발생할 수 있다. [원인] <b>섬유<\/b>종이 발생하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"단<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2281286&cid=60227&categoryId=60227",
+			"description":"실을 구성하고 있는 개개의 <b>섬유<\/b>를 말한다. 또 인피 <b>섬유<\/b> 다발에서는 구성하는 단위 <b>섬유<\/b>를 말한다. 천연 <b>섬유<\/b> 재료로서 사용되는 것의 대강의 굵기는 표와 같다. 화학 <b>섬유<\/b>에서는 굵기, 길이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모<b>섬유<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AA%A8%EC%84%AC%EC%9C%A0",
+			"description":"모<b>섬유<\/b> (毛纖維, wool)는 동물의 체모로 만드는 <b>섬유<\/b>다. 그 <b>섬유<\/b>로 짠 천을 모직물 (毛織物)이라고 한다. 동물의 피부 표피에서는 피부를 보호하기 위해 털이 나는데 피부의 상태에 따라 광택과 촉감, 질이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"견<b>섬유<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%AC%EC%84%AC%EC%9C%A0",
+			"description":"견<b>섬유<\/b> (絹纖維, silk)는 누에 고치에서 얻은 천연 단백질 <b>섬유<\/b>로 명주실이라고도 한다. 이것으로 짠 천을 명주(明紬) 또는 견직물(絹織物)이라 하며, 중국 한나라때에는 한금(漢錦)이라고도 했다. 비단을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1103145&cid=40942&categoryId=32091",
+			"description":" 특수한 구조와 성질을 가진 화학<b>섬유<\/b>로 된 복합사로 콘주게이트사(conjugate絲)라고도 한다. 두 종류의 성분이 다른 고분자 재료를 동일 방사구로부터 압출하여 만든다. <b>섬유<\/b>의 단면은 두 성분이 2층으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=392367&cid=50345&categoryId=50345",
+			"description":"필라멘트 1개의 <b>섬유<\/b>가 길게 이어져 있음을 뜻함. 방적실로 사용되는 것. 천연<b>섬유<\/b>로는 견, 면, 합성<b>섬유<\/b>로는 나일론, 폴리에스테르 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>종",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=494045&cid=60408&categoryId=55558",
+			"description":"결합형성세포(<b>섬유<\/b>아세포) 및 결합조직<b>섬유<\/b>등에 의하여 구성되는 종양으로 간질(間質)은 혈관 및 그에 수반하는 결합조직으로부터 형성되어 있는 양성종양이다. 이것은 다른 지방종, 점액종, 근종 등과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미세<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5782003&cid=62861&categoryId=62861",
+			"description":"진핵세포는 가는 <b>섬유<\/b>로 된 그물 형태의 세포골격(cytoskeleton)이라는 지지 구조를 가진다. 세포골격에서 <b>섬유<\/b>는 지지 역할을 하는 외에 세포 이동에도 관여한다. 세포골격은 가장 가는 <b>섬유<\/b>인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5485_000_1\/20190628183049052_3DYJTEUSX.jpg\/%25EB%25AF%25B8%25.jpg?type=m160_160"
+		},
+		{
+			"title":"면<b>섬유<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%A9%B4%EC%84%AC%EC%9C%A0",
+			"description":"면<b>섬유<\/b> (綿纖維, 영어: cotton ) 또는 면화 (綿花) 또는 면 (綿)은 아욱과 목화속의 식물에서 뽑은 <b>섬유<\/b>를 말한다. 그 <b>섬유<\/b>로 짠 직물을 면직물 (綿織物)이라 한다. 전파 인도에서 기원전 3000년경 첫 목화 재배가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"격막<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1059332&cid=40942&categoryId=32319",
+			"description":" 격막에 의해 여러 실로 구분된 구조의 목부<b>섬유<\/b>로서, 세포벽이 2차비후한 후 세포분열을 하여 생긴 것이다. 주로 관목이나 열대수목에서 관찰된다.  격벽<b>섬유<\/b>(隔壁纖維)라고도 한다. 세포벽이 2차비후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"PC <b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2320382&cid=60227&categoryId=60227",
+			"description":"페체 <b>섬유<\/b>라 불리는 경우가 많다. 독일의 I. G. Farbenindustrie A. G.에 의해 1939~1945년에 생산된 염소화폴리염화비닐 <b>섬유<\/b>의 상품명.",
+			"thumbnail":""
+		},
+		{
+			"title":"탄성<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1152185&cid=40942&categoryId=32090",
+			"description":" 동물의 몸속에 있는 것으로, 결합조직에 포함되는 탄성을 가지는 <b>섬유<\/b>이다.  결합조직에 포함되는 교원<b>섬유<\/b>(膠原纖維)에 비해 신장성(伸張性)이 훨씬 더 크다. 글리신·알라닌 등의 작은 아미노산을 다량으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중간 <b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6450239&cid=63057&categoryId=63057",
+			"description":"[목차] 1.개요 2.구조 3.기능 4.중요성 5.더보기 6.참고문헌 [ 개요 ] 중간 <b>섬유<\/b>(intermediate filament)는 진핵세포의 세포질에 존재하는 <b>섬유<\/b> 단백질로 미세 <b>섬유<\/b>(microfilament) 및 미세 소관(microtubule)과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5561_000_1\/20210528122013541_HVQY90V1W.jpg\/%25EC%25A4%2591%25.jpg?type=m160_160"
+		},
+		{
+			"title":"잎<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=168262&cid=50345&categoryId=50345",
+			"description":"주로 단자엽식물의 잎에서 얻어지는 경제성 있는 <b>섬유<\/b>. 엽<b>섬유<\/b>.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>석고",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112373&cid=40942&categoryId=32303",
+			"description":" <b>섬유<\/b> 모양으로 된 석고로서, 설화석고와 함께 중요한 석고자원이다. 설화석고 덩어리와 광상 주변의 암석에서 맥상으로 산출된다.  보통은 설화석고(雪花石膏)의 덩어리나 광상 주변의 암석 중에 맥상(脈狀)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"탄소<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2065946&cid=42107&categoryId=42107",
+			"description":"유기<b>섬유<\/b>(organic fiber) 수지, 피치 등의 유기원료로 방사한 <b>섬유<\/b>를 열에 가열하는 탄화과정과 열처리 공정을 거쳐 만든 필라멘트를 말한다. 내열성, 내충격성이 뛰어나며 화학약품에 강하고 해충에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>광학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741209&cid=60217&categoryId=60217",
+			"description":"<b>섬유<\/b>광학이란 광<b>섬유<\/b>(optical fiber)를 사용하여 빛을 전파하면서 빛이 담고 있는 정보를 전송하는 기술 혹은 그러한 것을 취급하는 분야을 말한다. 광통신이란 빛을 이용하여 정보를 전달하는 통신을 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190228184524871_22PPHVCMA.jpg\/OP-61_%25EC%2584.jpg?type=m160_160"
+		},
+		{
+			"title":"나노<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=301597&cid=50324&categoryId=50324",
+			"description":"굵기가 나노미터(1nm는 10억분의 1m) 정도의 초극세사로 만든 <b>섬유<\/b>를 의미. 나노기술은 물질을 분자, 원자 단위에서 규명하고 제어하는 기술로써 이들을 적절히 결함시킴으로써 기존 물질의 변형, 개조와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>광학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1112369&cid=40942&categoryId=32238",
+			"description":" 광학적으로 투명한 물질로 된 관 모양의 <b>섬유<\/b>를 사용해서 광속이나 화상을 전송하는 <b>섬유<\/b>광학계를 취급하는 분야이다. 인체 속을 관찰하는 내시경과 같은 의료용 장비나 광전적 판독장치등을 만들 때... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카폭<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2064936&cid=50305&categoryId=50305",
+			"description":"필리핀, 인도네시아, 미얀마 등 동남아 지역에서 자라고 있는 카폭 나무 열매에서 추출한 <b>섬유<\/b>로 내부가 텅 비어 있고 당과 리그닌 등 기름에 친화적으로 반응하는 성분이 많다. 베개나 옷의 보온재료 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"개척 <b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1057981&cid=40942&categoryId=32319",
+			"description":" 발생 중인 신경 축삭이 장차 그것이 지배할 표피나 근육의 말초 조직을 향해 신장할 경우, 가장 먼저 신장을 시작하는 신경 <b>섬유<\/b>로, 후속하는 신경 <b>섬유<\/b> 끝도 여기에 부착되고 신장하여 표적 세포에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"천연 <b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6596031&cid=47305&categoryId=47305",
+			"description":" 천연에서 얻어지는 <b>섬유<\/b>.  천연의 식물, 동물, 광물에서 얻어지는 <b>섬유<\/b>인 천연 <b>섬유<\/b>는 습기를 흡수하는 성질이 있어 옷감으로 적당해요. 촉감이 부드럽고 질기지 않으며 따뜻하다는 장점이 있어요. 하지만... ",
+			"thumbnail":""
+		},
+		{
+			"title":"합성 <b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6596002&cid=47305&categoryId=47305",
+			"description":" 화학적으로 합성한 <b>섬유<\/b>.  석유, 석탄, 천연가스 등을 원료로 하여 화학적으로 합성한 <b>섬유<\/b>를 합성 <b>섬유<\/b>라고 해요. 합성 <b>섬유<\/b>는 흔한 원료로 만들기 때문에 값이 싸고 천연 <b>섬유<\/b>보다 훨씬 질기지만, 땀을 잘... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>경2",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=494003&cid=60408&categoryId=55558",
+			"description":"위, 장, 폐등의 질환에서 진단에 이용되는 유리<b>섬유<\/b>를 이용한 내시경의 하나로 기구에 유연성이 있으며 피검자에 주는 고통이 없고 관찰 맹점이 적은 점이 특징이다. <b>섬유<\/b>경의 접안부에 카메라를 부착해서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"피-<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6160766&cid=67725&categoryId=67725",
+			"description":"완두의 속에서 추출한 <b>섬유<\/b>. 우유 제품에서 지방 대용물로 쓴다.",
+			"thumbnail":""
+		},
+		{
+			"title":"판 <b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2316607&cid=60227&categoryId=60227",
+			"description":"독일 Farbenfabriken Bayer A. G.제의 폴리아크릴로니트릴계 합성 <b>섬유<\/b>의 상품명. Polyacrylnitrilfaser의 약어.",
+			"thumbnail":""
+		},
+		{
+			"title":"나노 <b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2065997&cid=50305&categoryId=50305",
+			"description":"굵기가 나노미터(1nm는 10억분의 1m)정도의 초극세사로 만든 <b>섬유<\/b>를 말한다. 필터, 의료용 붕대, 생화학무기 방어용 의복, 배터리의 전해질 등 다양한 분야에서 응용될 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"광 <b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=656208&cid=42338&categoryId=42338",
+			"description":"광 <b>섬유<\/b>를 구조상으로 분류하면 그림과 같이 굴절률 계단형(클래드형)과 집속형(그레이디드 인덱스형)으로 나뉜다. 굴절률 계단형에서는 그림에서 보는 바와 같이 굴절률이 약간 다른 코어(굴절률 n1 반지름... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0678_000_1\/20110719111516242_5FVOG7HSM.jpg\/0158_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>섬유<\/b>시험기와 <b>섬유<\/b>계측시험기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1190428&cid=40942&categoryId=32354",
+			"description":"실의 굵기얼룩은 <b>섬유<\/b>제품의 품질상 문제가 되고 있기 때문에 실의 굵기얼룩을 측정하여 관리할 필요가 있다. 굵기얼룩을 알아보는 가장 간단한 방법은 검은 판에 실을 같은 간격으로 나란히 감고 실의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"la군<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=496579&cid=50317&categoryId=50317",
+			"description":"근방추(筋紡錘)의 환나선 종말로부터의 구심<b>섬유<\/b>이고 굵은 유수<b>섬유<\/b>이다. 근방추가 존재하는 근(筋)을 단시냅스 반사에 의해 수축시키고 길항근을 반사적으로 억제한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>섬유<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545161&cid=42279&categoryId=42279",
+			"description":" <b>섬유<\/b>계약서란 <b>섬유<\/b>와 관련된 계약 사항을 작성한 문서이다.  <b>섬유<\/b>계약서란 <b>섬유<\/b>와 관련된 전반적 사항에 대해 필요에 따라 계약 사항을 기재한 문서를 말한다. <b>섬유<\/b>계약서는 <b>섬유<\/b> 공급, 매매, 주문 등에 대한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181932659_HKXRHW0ES.jpg\/hb10_78931_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"단백질<b>섬유<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1079611&cid=40942&categoryId=31891",
+			"description":" 천연단백질로 된 의료<b>섬유<\/b>로서 천연 단백질<b>섬유<\/b>의 대표적인 것은 양모·명주이고 인조단백질 <b>섬유<\/b>도 있다.  천연 단백질<b>섬유<\/b>의 대표적인 것은 양모·명주이다. 모두 여러 종류의 아미노산 잔기(殘基)가... ",
+			"thumbnail":""
+		}
+	]
+}

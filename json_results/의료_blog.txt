@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:23 +0900",
+	"total":10086345,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"일본 입국을 위한 PCR 음성 증명서 발급하기! 씨젠 <b>의료<\/b>재단",
+			"link":"https:\/\/blog.naver.com\/miuki73?Redirect=Log&logNo=222811194150",
+			"description":"이번에는 씨젠 <b>의료<\/b>재단에 예약하고 정말 순식간에 모든 준비가 다 되었습니다. 각 지역별 지점과... 해외 출국 PCR 음성 증명서 발급 씨젠 <b>의료<\/b>재단 답십리 서울 본원 5호선 답십리역 하차 후 5번 출입구로... ",
+			"bloggername":"일본에서 여행 긱워커로 살아가는 인생",
+			"bloggerlink":"https:\/\/blog.naver.com\/miuki73",
+			"postdate":"20220714"
+		},
+		{
+			"title":"<b>의료<\/b>기술직공무원 시험정보 및 학습전략",
+			"link":"https:\/\/blog.naver.com\/monoblue01?Redirect=Log&logNo=222809583682",
+			"description":"저랑 만날 때면, <b>의료<\/b>기술직공무원 준비해보라고 권해주셨는데, 문득 선배의 말이 떠오르더라고요.... 일단, <b>의료<\/b>기술직공무원은 물리치료, 작업치료, 치위생사, 방사선사, 임상병리, 작업치료... ",
+			"bloggername":"루윙코치 교육정보&육아일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/monoblue01",
+			"postdate":"20220713"
+		},
+		{
+			"title":"흥국화재 실손 <b>의료<\/b>보험금 청구 방법ㆍ모바일",
+			"link":"https:\/\/zzarungna.tistory.com\/1588",
+			"description":"흥국화재 실손 <b>의료<\/b>보험금 청구 방법ㆍ모바일 이번엔 금액대가 높지 않아서 진료비 세부내역서와... 추가로 PC 환경 인터넷 사이트를 이용해 흥국화재 실손 <b>의료<\/b>보험금 청구하는 방법에 대해 정리한 적이... ",
+			"bloggername":"소스 :: 소스",
+			"bloggerlink":"https:\/\/zzarungna.tistory.com\/",
+			"postdate":"20220708"
+		},
+		{
+			"title":"보험손해사정사-설암 고지의무 위반 면책통보 <b>의료<\/b>자문으로 해결!",
+			"link":"https:\/\/blog.naver.com\/vegesea?Redirect=Log&logNo=222830069584",
+			"description":"그래서 <b>의료<\/b>자문 시행을 요청하게 되었고, 혀의 백반증과 경도 상피세포 이형성증은 설암과 인과관계가 없다는 <b>의료<\/b>자문 결과를 얻게 되었습니다. 이 결과를 보험사에서는 받아들여서 암 수술비 5,000,000만 원... ",
+			"bloggername":"EOL 생명의 진화 Evolution of Life",
+			"bloggerlink":"https:\/\/blog.naver.com\/vegesea",
+			"postdate":"20220726"
+		},
+		{
+			"title":"한국<b>의료<\/b>재단의 재해근로자 지원사업 지원대상과 지원내용",
+			"link":"https:\/\/blog.naver.com\/inthewood66?Redirect=Log&logNo=222830358698",
+			"description":"한국<b>의료<\/b>재단의 재해근로자 지원사업 지원목적 전자업계 중소기업 전, 현직 근로자로 사고와 질병의... 전자제품 유지보수 지원내용 치료비 + 재활 <b>의료<\/b>비 소득기준 기준 중위소득 120%이하 지원 (신청... ",
+			"bloggername":"꽃샘살롱의 life story",
+			"bloggerlink":"https:\/\/blog.naver.com\/inthewood66",
+			"postdate":"20220727"
+		},
+		{
+			"title":"외국인환자유치<b>의료<\/b>기관등록 준비서류",
+			"link":"https:\/\/blog.naver.com\/bmwh2020?Redirect=Log&logNo=222823059010",
+			"description":"외국인환자유치<b>의료<\/b>기관등록 준비서류 등록 외국인환자에게 진료 및 예약, <b>의료<\/b>계약체결 및 그 대리 외국인환자에 대한 진료 정보 제공 등을 하려는 <b>의료<\/b>기관은 아래 서류를 구비 하여 등록신청을 하여야... ",
+			"bloggername":"파트너행정사 010-8780-6912",
+			"bloggerlink":"https:\/\/blog.naver.com\/bmwh2020",
+			"postdate":"20220721"
+		},
+		{
+			"title":"우체국 <b>의료<\/b>실비보험 vs kb손해보험 실비 vs mg손해보험 실비... ",
+			"link":"https:\/\/blog.naver.com\/gjsl19?Redirect=Log&logNo=222807441836",
+			"description":"ㅎ <b>의료<\/b>실비보험은 질병이나 상해의 치료에서 발생하는 병원비를 보장하는 상품입니다. ◆국민건강보험공단의 보장 영역◆ 정부에서는 국민건강보험제도를 운영하며 급여항목으로 구분되는 <b>의료<\/b>비에... ",
+			"bloggername":"기웃기웃 혠 :)",
+			"bloggerlink":"https:\/\/blog.naver.com\/gjsl19",
+			"postdate":"20220711"
+		},
+		{
+			"title":"[미국의 보훈<b>의료<\/b>] 상급<b>의료<\/b>수준의 미국 보훈(VA)병원 방문",
+			"link":"https:\/\/blog.naver.com\/bkkyyoo?Redirect=Log&logNo=222830838901",
+			"description":"1900년대 초반만해도 <b>의료<\/b>의 질과 진료 서비스에 문제가 많았던 미보훈<b>의료<\/b>가 90년대 중반에 대대적인 개편을 통해 보훈통합네트워크(VISN)를 만들고 예산을 대폭 늘리면서 오늘의 수준에 이른 과정이... ",
+			"bloggername":"유근영 명예교수",
+			"bloggerlink":"https:\/\/blog.naver.com\/bkkyyoo",
+			"postdate":"20220727"
+		},
+		{
+			"title":"미국 <b>의료<\/b>비, <b>의료<\/b>보험",
+			"link":"https:\/\/blog.naver.com\/ljh950707?Redirect=Log&logNo=222823035209",
+			"description":"미국 <b>의료<\/b> 시스템 요약. 미국의 병원비는 비싸다. 그렇지만 어찌저찌 시스템이 굴러가고는 있다. 한국과 미국의 <b>의료<\/b>비를 한 잣대로 비교하기는 어렵다. 두 나라의 돈, 서비스의 상대적 개념과 가치가... ",
+			"bloggername":"Hello, Doctor Lee!",
+			"bloggerlink":"https:\/\/blog.naver.com\/ljh950707",
+			"postdate":"20220721"
+		},
+		{
+			"title":"최고의 동물<b>의료<\/b>서비스를 제공하기 위해 이렇게 준비했어요.",
+			"link":"https:\/\/blog.naver.com\/choicetrip?Redirect=Log&logNo=222827171287",
+			"description":"서울웰동물<b>의료<\/b>센터입니다^^ 인테리어공사부터 준비했던 각종 에피소드를 올리고 싶은 마음은... 예약은 전화 736-0075 또는 카카오채널 '서울웰동물<b>의료<\/b>센터' 또는 인스타그램 seoulwellamc 에서 가능합니다^^ 널리... ",
+			"bloggername":"서울웰동물의료센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/choicetrip",
+			"postdate":"20220724"
+		},
+		{
+			"title":"[제작뒷담화] 보건<b>의료<\/b>노조 영상을 만들며 우리가 생각한 것",
+			"link":"https:\/\/meditory.tistory.com\/641",
+			"description":"<b>의료<\/b>기관에서 일하는 노동자의 권리를 지키기 위해 뭉친 조합, 전국보건<b>의료<\/b>산업노동조합(보건<b>의료<\/b>노조)였습니다. 노조에 의미있는 행사마다 미디토리에 영상을 의뢰해주셨습니다. [프로젝트 소개] 2022.02... ",
+			"bloggername":"미디토리",
+			"bloggerlink":"https:\/\/meditory.tistory.com\/",
+			"postdate":"20220616"
+		},
+		{
+			"title":"<b>의료<\/b>산업의 중심, 대구경북첨단<b>의료<\/b>산업진흥재단(KMEDI hub)",
+			"link":"https:\/\/blog.naver.com\/gbdc04?Redirect=Log&logNo=222828103117",
+			"description":"이렇게 더운 날에도 우리나라 <b>의료<\/b>산업의 발전을 위해 꾸준히 노력하며 유의미한 성과를 창출하고 있는 기관이 있는데요, 이번 포스팅으로는 대한민국 <b>의료<\/b>산업의 중심! 대구경북첨단<b>의료<\/b>산업진흥재단을... ",
+			"bloggername":"경상북도개발공사 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gbdc04",
+			"postdate":"20220725"
+		},
+		{
+			"title":"<b>의료<\/b>특허 기기도 가능할까?",
+			"link":"https:\/\/blog.naver.com\/yish_0214?Redirect=Log&logNo=222782237771",
+			"description":"이에 <b>의료<\/b>기기특허도 많이들 관심을 가지고 진행을 하려고 합니다. 안녕하세요. 특허법인 테헤란의 지식재산 매거진 거인의 어깨위에서 입니다. 오늘은 <b>의료<\/b>기기특허에 대해 잘 모르는 분들께 <b>의료<\/b>특허... ",
+			"bloggername":"지식재산권 전문매거진",
+			"bloggerlink":"https:\/\/blog.naver.com\/yish_0214",
+			"postdate":"20220623"
+		},
+		{
+			"title":"<b>의료<\/b>기관 법정의무교육 과목은? 핵심정리!(feat.무료신청)",
+			"link":"https:\/\/blog.naver.com\/hyo7065?Redirect=Log&logNo=222831213105",
+			"description":"<b>의료<\/b>기관 종사자 분들도 매년 필수적으로 법정교육을 이수해야 합니다. 하지만 교육의 종류가 많고... <b>의료<\/b>기관은 일반 기업과는 다르게 4대 신고의무자 교육을 추가로 이수해야 합니다. 오늘은 <b>의료<\/b>기관... ",
+			"bloggername":"근로자 법정의무교육 전문기관 한국미래교육센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyo7065",
+			"postdate":"20220727"
+		},
+		{
+			"title":"<b>의료<\/b>법위반 법률상담 대처가 빠를수록",
+			"link":"https:\/\/blog.naver.com\/bolerojhw102?Redirect=Log&logNo=222829457796",
+			"description":"사항도 <b>의료<\/b>행각에 있어서 만큼은 절대 용납이 될 수 없다고 할 수 있지요. 이는 인간의 건강과 생명과 연관되어 있기 때문에 그런 것이겠지요. 이 때문에 얼마전에는 타투가 <b>의료<\/b>행각이냐에 대한 논란이... ",
+			"bloggername":"먹을때 제일 행복해요",
+			"bloggerlink":"https:\/\/blog.naver.com\/bolerojhw102",
+			"postdate":"20220726"
+		},
+		{
+			"title":"<b>의료<\/b>기술과 바이오, <b>의료<\/b>로봇 특허",
+			"link":"https:\/\/blog.naver.com\/kipoworld2?Redirect=Log&logNo=222773862991",
+			"description":"고령화가 진전되고 의학의 발전으로 건강과 수명에 대한 관심이 높아지면서, <b>의료<\/b>기술을 특허권으로 보호하고자 하는 시도가 더욱 주목을 받고 있습니다. 과연 사람의 건강과 생명을 다루는 <b>의료<\/b>기술을... ",
+			"bloggername":"특허청 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kipoworld2",
+			"postdate":"20220617"
+		},
+		{
+			"title":"코로나19 재유행 대비 방역·<b>의료<\/b> 대응 방안 안내",
+			"link":"https:\/\/blog.naver.com\/suwonloves?Redirect=Log&logNo=222827728610",
+			"description":"방역, <b>의료<\/b> 대응 방안에 대해 안내드리겠습니다. 코로나19 재유행 대비 안내 4차 접종 대상 확대 현재... 예약하거나 <b>의료<\/b>기관에 유선으로 문의 후 접종할 수 있습니다. 코로나19 치료제 적극 투여 고위험군의... ",
+			"bloggername":"도란도란 수원 e야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/suwonloves",
+			"postdate":"20220725"
+		},
+		{
+			"title":"모기물린데는 안티버그! 모기침제거기 인증된<b>의료<\/b>기구 open ♥",
+			"link":"https:\/\/blog.naver.com\/blackhyunny?Redirect=Log&logNo=222790124653",
+			"description":"안티버그는 모기 물린 자리를 수동식 흡인하여 모기침을 제거하는 방식의 <b>의료<\/b>기기에요. 당연히 인증받은 제품이구요 ! 20-30초정도 흡인해주고 빼면 평소같았으면 붓고 박박 긁었을자리를 안긁게 되는 마법... ",
+			"bloggername":"아이엠또미:풍덩마켓",
+			"bloggerlink":"https:\/\/blog.naver.com\/blackhyunny",
+			"postdate":"20220627"
+		},
+		{
+			"title":"미국 주식 원격 <b>의료<\/b> 진료 관련주 텔라닥 헬스 주식 (TDOC)",
+			"link":"https:\/\/blog.naver.com\/mrchosh03?Redirect=Log&logNo=222819572340",
+			"description":"미국 주식 중 원격 <b>의료<\/b> 진료 관련주 텔라닥 헬스 주식을 아주 간단하게 알아보는 시간을... 2002년 설립된 회사로 모바일 기기, 인터넷, 비디오 및 전화를 통하여 언제 어디서나 소비자 <b>의료<\/b> 서비스를... ",
+			"bloggername":"티끌 모아 태산",
+			"bloggerlink":"https:\/\/blog.naver.com\/mrchosh03",
+			"postdate":"20220720"
+		},
+		{
+			"title":"가족의 마음으로 함께합니다 - 성남시<b>의료<\/b>원 호스피스 완화<b>의료<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/sntjdska123?Redirect=Log&logNo=222781286285",
+			"description":"지난 5월 초 성남시<b>의료<\/b>원은 말기암환자들을 위한 호스피스 완화<b>의료<\/b> 병동을 개소하였습니다. 이곳이 어떤 곳이고 어떤 <b>의료<\/b>서비스를 제공하는지 소개해드리겠습니다. 호스피스 완화<b>의료<\/b>는? 의사, 간호사... ",
+			"bloggername":"성남시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sntjdska123",
+			"postdate":"20220620"
+		},
+		{
+			"title":"공무수행 중 다친 공무원,  재활치료 연계 <b>의료<\/b>기관 150여... ",
+			"link":"https:\/\/blog.naver.com\/mirae_saram?Redirect=Log&logNo=222811124189",
+			"description":"인사혁신처(처장 김승호)는 공무수행 중 다친 공무원에게 전문 재활치료 서비스를 제공하는 <b>의료<\/b>기관... 연계 <b>의료<\/b>기관이 40여 개에서 전국 150여 개로 확대됩니다. 이는 정책 최일선에서 국민과 함께하는 현장... ",
+			"bloggername":"대한민국 인사혁신처",
+			"bloggerlink":"https:\/\/blog.naver.com\/mirae_saram",
+			"postdate":"20220714"
+		},
+		{
+			"title":"<b>의료<\/b>기술직공무원 효과적인 공부방법",
+			"link":"https:\/\/blog.naver.com\/dambi85?Redirect=Log&logNo=222802329693",
+			"description":"직렬은 <b>의료<\/b>기술직공무원이고, 경채 시험이기 때문에 응시자격이 필요합니다. 그래서 오늘은 간단하게 제가 어떤 방식으로 준비하고 있는지 또 이 시험은 어떤 시험인지에 대해서 적어보려고 해요! 일단 <b>의료<\/b>기... ",
+			"bloggername":"마마 리사킴의 유쾌한 일상 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/dambi85",
+			"postdate":"20220706"
+		},
+		{
+			"title":"안락사 논의전에 해결해야 할 과제 (3): 호스피스-완화<b>의료<\/b>의 확대",
+			"link":"https:\/\/blog.naver.com\/dsheokr?Redirect=Log&logNo=222829574457",
+			"description":"2) 만성질환으로 <b>의료<\/b>기관에서 사망하는 약 20만명의 환자를 기준으로 환산하면, 호스피스-완화<b>의료<\/b>가 필요한 환자중 약 10%만 혜택을 받고 있다. 가정에서 사망까지 포함하면 임종과정에서 호스피스 제도의... ",
+			"bloggername":"사회속의 '의료'",
+			"bloggerlink":"https:\/\/blog.naver.com\/dsheokr",
+			"postdate":"20220726"
+		},
+		{
+			"title":"지역<b>의료<\/b>보험료 계산 정확히 해보기",
+			"link":"https:\/\/blog.naver.com\/nerd?Redirect=Log&logNo=222813106906",
+			"description":"우리나라는 <b>의료<\/b>보험체계가 잘되어있어 모든 국민이 저렴한 보험료를 내고 질 높은 <b>의료<\/b>서비스를 받고 있습니다. 직장을 다닌다면 4대 보험료에 <b>의료<\/b>보험이 포함되어 있어 직장과 내가 반반씩 납부를 하게... ",
+			"bloggername":"그대는 시대의 눈물을 본다",
+			"bloggerlink":"https:\/\/blog.naver.com\/nerd",
+			"postdate":"20220716"
+		},
+		{
+			"title":"[<b>의료<\/b>분쟁 조정사례] 요골머리 골절 수술 및 금속판 제거술 후... ",
+			"link":"https:\/\/blog.naver.com\/kmedi6210?Redirect=Log&logNo=222817825237",
+			"description":"[<b>의료<\/b>분쟁 조정사례] 요골머리 골절 수술 및 금속판 제거술 후 신경이 손상되었어요. 군인 A씨는... &lt;<b>의료<\/b>중재원 감정 결과&gt; 2차 수술인 금속제거술 당시 수술부위의 재수술로 인한 유착이 있었을 것으로... ",
+			"bloggername":"한국의료분쟁조정중재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmedi6210",
+			"postdate":"20220718"
+		},
+		{
+			"title":"생명과학 및 <b>의료<\/b>산업에 활용되는 전산유체역학 시뮬레이션",
+			"link":"https:\/\/blog.naver.com\/energium?Redirect=Log&logNo=222829764126",
+			"description":"및 <b>의료<\/b>산업에 새로운 융합기술과 다양한 공학기술이 접목된 패러다임이 형성됩니다. 이를 위해 생명과학과 <b>의료<\/b>산업에 전산유체역학 기반 컴퓨터 모델링 및 시뮬레이션의 활용이 늘어나고 있죠. 이러한... ",
+			"bloggername":"한국에너지기술연구원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/energium",
+			"postdate":"20220726"
+		},
+		{
+			"title":"<b>의료<\/b> 형사사건 관련 최근 수사 경향과 대응",
+			"link":"https:\/\/blog.naver.com\/orogi78?Redirect=Log&logNo=222820315216",
+			"description":"<b>의료<\/b> 형사사건 관련 최근 수사 경향과 대응 승인 2022.02.17 06:00 일반적으로 의학적 전문지식을 기초로... 밖에 <b>의료<\/b>인이 행하지 아니하면 보건위생상 위해가 생길 우려가 있는 행위를 '<b>의료<\/b>행위'라고 하며... ",
+			"bloggername":"내과 전문의 오호준",
+			"bloggerlink":"https:\/\/blog.naver.com\/orogi78",
+			"postdate":"20220720"
+		},
+		{
+			"title":"강아지 자두씨 먹어서 평택 뉴본동물<b>의료<\/b>센터 다녀왔어요",
+			"link":"https:\/\/blog.naver.com\/kiyomi518?Redirect=Log&logNo=222828486322",
+			"description":"뉴본동물<b>의료<\/b>센터가 생각나 그곳으로 바로 출발 건물 옆 지상주차장에 주차 2층에 위치한 동물병원... 다 보이는데 요즘 동물병원 <b>의료<\/b>사고도 많아 오픈이라면 믿음이 갈 거 같다 아흉.. 정말 우리 집 하나뿐인... ",
+			"bloggername":"MINTARI :) Mon reve versailles",
+			"bloggerlink":"https:\/\/blog.naver.com\/kiyomi518",
+			"postdate":"20220725"
+		},
+		{
+			"title":"앞으로 달라지는 코로나 19방역,<b>의료<\/b>방안!",
+			"link":"https:\/\/blog.naver.com\/letsgoyang?Redirect=Log&logNo=222829421429",
+			"description":"코로나19 재유행을 대비해 앞으로 달라지는 방역·<b>의료<\/b> 대응방안 6가지 알려드립니다! 1. 예방접종... 2만 - (처방기관) ① 원내 : 상급종합병원 (45개소) ② 원외: 종합병원, 의과 병원급 <b>의료<\/b>기관, 호흡기... ",
+			"bloggername":"고양시청 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/letsgoyang",
+			"postdate":"20220727"
+		},
+		{
+			"title":"인피니트헬스케어(단기간 골든크로스)---#원격<b>의료<\/b>\/5600-6720",
+			"link":"https:\/\/blog.naver.com\/recsy?Redirect=Log&logNo=222826554224",
+			"description":"인피니트헬스케어는 글로벌 헬스케어 IT기업으로 <b>의료<\/b> 영상, 정보 솔루션을 개발해 전 세계 6300개 <b>의료<\/b>기관에 제공하고 있는 대표적인 재택치료 관련 기업으로 장중 매수세가 몰리는 것으로 풀이된다.... ",
+			"bloggername":"주식 공부 기록",
+			"bloggerlink":"https:\/\/blog.naver.com\/recsy",
+			"postdate":"20220724"
+		},
+		{
+			"title":"협력 <b>의료<\/b>기관 : 안동 '푸른한의원'",
+			"link":"https:\/\/blog.naver.com\/pdjjk?Redirect=Log&logNo=222824259121",
+			"description":"과거에는 질병치료가 중점이었지만 최근엔 예방 중심의 <b>의료<\/b>시대가 개막! 한의학에서는 이를 일컬어... 한방의원에서 개인 맞춤형 질병 예방 시스템 도입 @제노메딕스 제노메딕스 협력<b>의료<\/b>기관인 경상북도... ",
+			"bloggername":"제노메딕스 Geno Medics",
+			"bloggerlink":"https:\/\/blog.naver.com\/pdjjk",
+			"postdate":"20220722"
+		},
+		{
+			"title":"일차<b>의료<\/b>제공자 제도는 우울증 환자의 치료에 꼭 필요",
+			"link":"https:\/\/blog.naver.com\/sfjournal?Redirect=Log&logNo=222827804637",
+			"description":"하지만, 중증 우울증 환자가 퇴원 후 외래치료를 전혀 받지 못했다는 것은 우리나라 <b>의료<\/b>제도가 우울증... 하나는 정신과 전문의이고 다른 하나는 환자의 일차<b>의료<\/b>제공자 (primary care provider)이다. 이 둘 중... ",
+			"bloggername":"샌프란시스코 저널",
+			"bloggerlink":"https:\/\/blog.naver.com\/sfjournal",
+			"postdate":"20220725"
+		},
+		{
+			"title":"서울웰동물<b>의료<\/b>센터, 7월 20일에 개원합니다^^",
+			"link":"https:\/\/blog.naver.com\/choicetrip?Redirect=Log&logNo=222806823937",
+			"description":"서울웰동물<b>의료<\/b>센터입니다:D Fear-free(불안감 해소) 인증, ISFM(고양이친화병원) GOLD 등급 인증 병원, 최고의 시설과 최신장비, 거제도에 없었던 진료 옵션을 가진 서울웰동물<b>의료<\/b>센터가 긴 준비기간 끝에 드디어... ",
+			"bloggername":"서울웰동물의료센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/choicetrip",
+			"postdate":"20220711"
+		},
+		{
+			"title":"<b>의료<\/b>기기 배상책임 의무보험 안내",
+			"link":"https:\/\/blog.naver.com\/doors18?Redirect=Log&logNo=222828356945",
+			"description":"오늘은 식품의약품 안전처에서 발표한 <b>의료<\/b>기기법 시행령에 대하여 안내 드립니다. 식품의약품안전처는 인체이식형 <b>의료<\/b>기기* 제조·수입 업자의 환자피해 배상에 대한 책임보험 의무 가입 제 도를... ",
+			"bloggername":"A wind with no name",
+			"bloggerlink":"https:\/\/blog.naver.com\/doors18",
+			"postdate":"20220725"
+		},
+		{
+			"title":"노력이 이뤄지는 곳, 중앙보훈병원 호스피스완화<b>의료<\/b>센터",
+			"link":"https:\/\/blog.naver.com\/bohun1102?Redirect=Log&logNo=222831127332",
+			"description":"하는 <b>의료<\/b>서비스가 있습니다. 국내에서만 매년 7만 명에 가까운 말기 암 환자가 발생하고 있지만 ‘호스피스완화<b>의료<\/b>’에 대해 잘 모르시는 분들이 많습니다. 오늘 &lt;섬김人터뷰&gt;에서는 중앙보훈병원... ",
+			"bloggername":"한국보훈복지의료공단",
+			"bloggerlink":"https:\/\/blog.naver.com\/bohun1102",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[M프렌즈] 군과 공공<b>의료<\/b>가 함께하는 곳, 국군외상센터",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222801305836",
+			"description":"군과 공공<b>의료<\/b>가 함께하는 곳, 국군외상센터 안녕하세요. M프렌즈 7기 이나경입니다. 여러분, 혹시... 공공<b>의료<\/b>가 함께하는 곳, 바로 ‘국군외상센터’를 낱낱이 알아보도록 해요! 지난 4월 20일, 전 국방부 장관... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220705"
+		},
+		{
+			"title":"미국의 보훈<b>의료<\/b>제도(4) - 미국 대통령도 찾는다는 이유? 90%의... ",
+			"link":"https:\/\/blog.naver.com\/bkkyyoo?Redirect=Log&logNo=222821707202",
+			"description":"미국의 보훈병원을 떠올릴때 가장 먼저 드는 생각은 그들의 <b>의료<\/b>수준이다. 미국의 대통령도... 세계 최고의 의학잡지인 NEJM(2003)에 게재된 논문에서 1990년대 중반 미국 보훈처(DVA)는 특히 <b>의료<\/b>... ",
+			"bloggername":"유근영 명예교수",
+			"bloggerlink":"https:\/\/blog.naver.com\/bkkyyoo",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[<b>의료<\/b>분쟁 조정사례] 경추 약침 시술 후 경추척수가 손상되었어요!",
+			"link":"https:\/\/blog.naver.com\/kmedi6210?Redirect=Log&logNo=222828666653",
+			"description":"[<b>의료<\/b>분쟁 조정사례] 경추 약침 시술 후 경추척수가 손상되었어요! 목디스크 치료를 받은 적이 있는... [<b>의료<\/b>중재원 감정 결과] A씨의 과거병력과 증상으로 보아 약침 시술은 적절했습니다. 다만, 시술... ",
+			"bloggername":"한국의료분쟁조정중재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmedi6210",
+			"postdate":"20220725"
+		},
+		{
+			"title":"<b>의료<\/b>기기 유럽시장 필수 인증 MDR의 모든 것!(Feat.MDR... ",
+			"link":"https:\/\/blog.naver.com\/sgsmarketing?Redirect=Log&logNo=222830812734",
+			"description":"최근 국내를 넘어 유럽으로 <b>의료<\/b>기기 시장을 확대해가는 기업들이 많은데요. 그에 따라 유럽 시장 진출을 위해 수출국의 <b>의료<\/b>기기 관련 규제를 확인하고 준수하는 것이 굉장히 중요해졌습니다.... ",
+			"bloggername":"SGS KOREA 지식솔루션 사업부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sgsmarketing",
+			"postdate":"20220727"
+		},
+		{
+			"title":"반도체 대란은 <b>의료<\/b>기술 회사에 어떤 영향 미쳤나",
+			"link":"https:\/\/blog.naver.com\/tech-plus?Redirect=Log&logNo=222811399918",
+			"description":"<b>의료<\/b> 기술 회사에 큰 타격 준 반도체 수급난 전체 반도체 시장서 <b>의료<\/b>용 반도체가 차지하는 비중은 그리 크지 않다. 불과 1% 정도다. 하지만 <b>의료<\/b> 서비스 시장만 놓고 보면 <b>의료<\/b>용 반도체는 상당한 영향력을... ",
+			"bloggername":"테크플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/tech-plus",
+			"postdate":"20220714"
+		},
+		{
+			"title":"[심평줌인] 심평원과 함께 알아보는 <b>의료<\/b>보장제도",
+			"link":"https:\/\/blog.naver.com\/ok_hira?Redirect=Log&logNo=222773892750",
+			"description":"심평원과 함께 알아보는 제도&amp;정책 이야기 제2편, ‘<b>의료<\/b>보장제도’입니다. <b>의료<\/b>보장제도란 국민의 건강권을 보호하기 위하여 요구되는 필요한 보건<b>의료<\/b>서비스를 국가나 사회가 제도적으로 제공하는... ",
+			"bloggername":"건강보험심사평가원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ok_hira",
+			"postdate":"20220615"
+		},
+		{
+			"title":"서울에서 해외출국 코로나검사 가장 싼 병원 '씨젠<b>의료<\/b>재단'",
+			"link":"https:\/\/blog.naver.com\/kyushu_blog?Redirect=Log&logNo=222795134906",
+			"description":"하지만 씨젠<b>의료<\/b>재단은 검사 당일 한 번만 방문하여 검사를 하면, 당일 검사 결과를 PDF 파일로 받을... 있는 '씨젠<b>의료<\/b>재단'을 소개해 드립니다. * 핸드폰이나 PC를 이용해 홈페이지에서 직접 예약을 하셔야... ",
+			"bloggername":"♥ 타비짱의 규슈블로그 ♥",
+			"bloggerlink":"https:\/\/blog.naver.com\/kyushu_blog",
+			"postdate":"20220630"
+		},
+		{
+			"title":"명지<b>의료<\/b>재단의 미래_내포 명지병원_메디컬 디지털 시티 구상",
+			"link":"https:\/\/blog.naver.com\/nydamdok?Redirect=Log&logNo=222822618116",
+			"description":"명지<b>의료<\/b>재단이 잇따라 분원 설립을 추진하며 더 큰 도약을 하려는 중요한 시기에 취임한 홍성화 <b>의료<\/b>원장은 분원 설립에 대해 &quot;명지병원만의 특색과 지역<b>의료<\/b>환경을 고려한 병원 건립을 위해 지역 <b>의료<\/b> 환경... ",
+			"bloggername":"NY",
+			"bloggerlink":"https:\/\/blog.naver.com\/nydamdok",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[발저림] 원적외선 온열매트 친환경 콜렌 <b>의료<\/b>기기",
+			"link":"https:\/\/blog.naver.com\/hdbmk?Redirect=Log&logNo=222810434095",
+			"description":"[발저림] 원적외선 온열매트 친환경 콜렌 <b>의료<\/b>기기 여름장마비가 온종일 시원한 하루예요 오늘같은 날씨엔 내몸을 따뜻하게 해주는 <b>의료<\/b>기기 온열매트 추천해드려요 [발저림] 원적외선 온열매트 친환경 콜렌... ",
+			"bloggername":"플랫폼연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/hdbmk",
+			"postdate":"20220713"
+		},
+		{
+			"title":"주간일기(7) 가족들이랑 바비큐\/목살 필라프\/캐나다 <b>의료<\/b>, 일상",
+			"link":"https:\/\/blog.naver.com\/dkdud0727?Redirect=Log&logNo=222827435550",
+			"description":"그 사이에 통증이 더 심해지고 있음 ㅠㅠㅠ 말로만 듣던 어마무시한 캐나다 <b>의료<\/b> 제대로 체험 중 ㅠㅠ - 6월 중순 짝꿍이 다친 후 응급실울 갔는데 애드빌 먹고 얼음찜질 하라는 것 외에 아무 처방 못 받음.... ",
+			"bloggername":"자라영",
+			"bloggerlink":"https:\/\/blog.naver.com\/dkdud0727",
+			"postdate":"20220724"
+		},
+		{
+			"title":"<b>의료<\/b>마케팅 병원광고 14년 말해뭐해",
+			"link":"https:\/\/blog.naver.com\/muun4chn6?Redirect=Log&logNo=222803596857",
+			"description":"2009년부터 <b>의료<\/b>마케팅으로 성장한 금솔 개업한지 1년만에 한의원 네트워크광고 한방카로 자보업계... 취득하여 <b>의료<\/b>마케팅 확장을 알렸습니다. 현재 금솔에는 생생추나, 산업재해, 입원닷컴 등 여러가지 광고... ",
+			"bloggername":"한의학매거진 다양한 한방정보",
+			"bloggerlink":"https:\/\/blog.naver.com\/muun4chn6",
+			"postdate":"20220707"
+		},
+		{
+			"title":"서울웰동물<b>의료<\/b>센터 원장님을 소개합니다(feat.본인이 씀)",
+			"link":"https:\/\/blog.naver.com\/choicetrip?Redirect=Log&logNo=222827108006",
+			"description":"서울웰동물<b>의료<\/b>센터입니다.^^ 서울웰동물<b>의료<\/b>센터는 7월20일에 오픈해서 열심히 영업을 하고 있어요! 동물을 키우고 있으시다면, 지나가시다가 잠시 들려서 동물 등록하고 개원선물 하나씩 받아가세요:D 앗차.... ",
+			"bloggername":"서울웰동물의료센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/choicetrip",
+			"postdate":"20220725"
+		},
+		{
+			"title":"[프로모션] <b>의료<\/b>영상을 언제, 어디서나! 통합 <b>의료<\/b>정보... ",
+			"link":"https:\/\/blog.naver.com\/n_cloudplatform?Redirect=Log&logNo=222816936696",
+			"description":"관리하기 어려운 <b>의료<\/b>정보 때문에 고민 많으신 <b>의료<\/b> 관계자분들은 주목!  합리적이고 효율적으로 <b>의료<\/b>영상들을 관리할 수 있도록 도와주는 마켓플레이스 솔루션을 가져왔어요! ✨ 오늘은 다양한... ",
+			"bloggername":"네이버 클라우드 플랫폼 (NAVER Cloud Platform)",
+			"bloggerlink":"https:\/\/blog.naver.com\/n_cloudplatform",
+			"postdate":"20220718"
+		},
+		{
+			"title":"최초, 최고, 유일의 역사를 만드는 대구<b>의료<\/b>관광진흥원 김승호... ",
+			"link":"https:\/\/blog.naver.com\/daegu_news?Redirect=Log&logNo=222820633638",
+			"description":"7월 1일 메디엑스포코리아가 열린 EXCO에서 대구<b>의료<\/b>관광진흥원 김승호 본부장을 만나고 왔습니다. 약력 경 력 사 항 구분 근 무 처 주요업무 현재 메디시티대구협의회\/대구<b>의료<\/b>관광진흥원 총괄본부장(상근... ",
+			"bloggername":"대구광역시 공식 블로그♥",
+			"bloggerlink":"https:\/\/blog.naver.com\/daegu_news",
+			"postdate":"20220720"
+		},
+		{
+			"title":"'뇌졸중' 살리는 '원격<b>의료<\/b>' 현장에서 가정까지...현실과 전망은?",
+			"link":"https:\/\/blog.naver.com\/mahapass?Redirect=Log&logNo=222825874588",
+			"description":"원격<b>의료<\/b>의 허브로 뇌졸중 사고현장에서 응급실까지 원격<b>의료<\/b> 전면시행이 정답입니다 한국원격<b>의료<\/b>학회(회장 박현애, 서울대학교 간호대학교수)는 2022년 7월 22일 오후 3시부터 6시까지 대웅제약 신관... ",
+			"bloggername":"건달 기자의 건강 소행성",
+			"bloggerlink":"https:\/\/blog.naver.com\/mahapass",
+			"postdate":"20220723"
+		},
+		{
+			"title":"<b>의료<\/b>복지 사각지대 지원사업 「희망을 나누는 손」",
+			"link":"https:\/\/blog.naver.com\/kpostbank?Redirect=Log&logNo=222795144483",
+			"description":"무의탁환자 (<b>의료<\/b>복지 사각지대) 중·장년 여성 (일자리 창출) 청년 (일자리창출) (취약계층) 선순환 돌봄 환경 구축 무의탁환자 야간간병 지원 <b>의료<\/b>복지 사각지대 무의탁환자(독거노인,행려환자 등)에게 무료... ",
+			"bloggername":"우체국",
+			"bloggerlink":"https:\/\/blog.naver.com\/kpostbank",
+			"postdate":"20220630"
+		},
+		{
+			"title":"[<b>의료<\/b>건강지킴이] 생활 속 기미 예방법",
+			"link":"https:\/\/blog.naver.com\/kmedi6210?Redirect=Log&logNo=222810358289",
+			"description":"[<b>의료<\/b>건강지킴이] 생활 속 기미 예방법 [기미란 무엇일까요?] 기미란 얼굴에 주로 나타나는 거무스름한... #한국<b>의료<\/b>분쟁조정중재원 #<b>의료<\/b>중재원 #카드뉴스 #<b>의료<\/b>건강지킴이 #건강상식 #생활건강 #자외선 #피부... ",
+			"bloggername":"한국의료분쟁조정중재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmedi6210",
+			"postdate":"20220713"
+		},
+		{
+			"title":"봉제산 봉수대 | global 6K | 하나로<b>의료<\/b>재단 종로 건강검진",
+			"link":"https:\/\/blog.naver.com\/loudn8015?Redirect=Log&logNo=222831028857",
+			"description":"건강검진 &lt;하나로<b>의료<\/b>재단 종로&gt; 내가 젤 싫어하는 건강검진,,,! 작성할 것도 많고 저녁에 금식해야하고... 있는 &lt;하나로 <b>의료<\/b>재단 종로&gt; 시설 깔끔하고 여자쌤들이 많아서 좋다 건강검진 할때마다 느끼는... ",
+			"bloggername":"Jui C ;-D",
+			"bloggerlink":"https:\/\/blog.naver.com\/loudn8015",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[연장]4세대 실손<b>의료<\/b>보험 전환시 특별할인 제도",
+			"link":"https:\/\/blog.naver.com\/celldna?Redirect=Log&logNo=222803852036",
+			"description":"실손<b>의료<\/b>보험 전환 특별할인 문자 &gt; 정확히 이런 정책이 모든 손해보험과 생명보험사에서 진행을 하는 것인지는 저도 잘 모르겠습니다. 하지만 적어도 몇 군데 보험사에서는 4세대 실손<b>의료<\/b>보험으로 전환을... ",
+			"bloggername":":: 송정목의 현명한 저축, 과분한 행복 ::",
+			"bloggerlink":"https:\/\/blog.naver.com\/celldna",
+			"postdate":"20220707"
+		},
+		{
+			"title":"[심평줌인] <b>의료<\/b>급여 진료비 본인 부담기준을 안내해 드려요!",
+			"link":"https:\/\/blog.naver.com\/ok_hira?Redirect=Log&logNo=222793500715",
+			"description":"‘<b>의료<\/b>급여란’ 생활유지 능력이 없거나 생활이 어려운 저소득 국민의 <b>의료<\/b>문제(질병, 부상, 출산 등)를 국가가 보장하는 공공부조 제도로, 건강보험과 함께 국민 <b>의료<\/b>보장의 중요한 수단이 되는... ",
+			"bloggername":"건강보험심사평가원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ok_hira",
+			"postdate":"20220629"
+		},
+		{
+			"title":"[탄자니아] 1차 <b>의료<\/b>기관 2차 정례회의",
+			"link":"https:\/\/blog.naver.com\/medipeace1?Redirect=Log&logNo=222824070450",
+			"description":"메디피스 탄자니아 지부는 1차 <b>의료<\/b>기관 내 감염경로 관리 서비스 질 향상을 위해 <b>의료<\/b>기관 감염관리 활동을 하고 있어요. 또한 기관 정례회의 및 평가를 실시하여 1차 <b>의료<\/b>기관 <b>의료<\/b>인력 감염관리... ",
+			"bloggername":"메디피스 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/medipeace1",
+			"postdate":"20220722"
+		},
+		{
+			"title":"[리뷰] <b>의료<\/b> 3D 프린팅 및 스캐닝 국제표준화를 선도하다",
+			"link":"https:\/\/blog.naver.com\/etripr?Redirect=Log&logNo=222816831998",
+			"description":"<b>의료<\/b> 3D 프린팅 및 스캐닝 국제표준화를 선도하다 ETRI는 국제표준화 기구 ISO\/IEC JTC1 산하 WG12 ‘3D 프린팅과 스캐닝’ 작업 그룹회의에서 ‘<b>의료<\/b>영상 기반 <b>의료<\/b> 3D 프린팅 모델링’에 대해 새롭게 제안한... ",
+			"bloggername":"ETRI 한국전자통신연구원",
+			"bloggerlink":"https:\/\/blog.naver.com\/etripr",
+			"postdate":"20220722"
+		},
+		{
+			"title":"[동원대학교 학과소개] <b>의료<\/b>미용과",
+			"link":"https:\/\/blog.naver.com\/lifetongwon?Redirect=Log&logNo=222811311458",
+			"description":"동원대학교 <b>의료<\/b>미용과 취업 짱! 창업 짱! 동원대학교 <b>의료<\/b>미용과는 세계 <b>의료<\/b>뷰티시장의 변화에 맞춘 K 뷰티를 선도하는 글로벌 <b>의료<\/b>미용인의 산실로서 미용기능 및 교양을 겸비한 인재 양성을 위해 노력하고... ",
+			"bloggername":"동원대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/lifetongwon",
+			"postdate":"20220714"
+		},
+		{
+			"title":"<b>의료<\/b> 사각지대 해소 위해 탄생한 혁신 브랜드",
+			"link":"https:\/\/blog.naver.com\/ibseoul?Redirect=Log&logNo=222822738243",
+			"description":"지금까지 대부분의 <b>의료<\/b>기관은 하나의 시설에서 넓은 스펙트럼의 환자를 모두 관리하는... 하지만 최근 '고객 중심' 키워드에 대한 집중도가 높아지며, <b>의료<\/b>계에서도 '환자 중심(Patient-Centred... ",
+			"bloggername":"Interbrand Seoul Office",
+			"bloggerlink":"https:\/\/blog.naver.com\/ibseoul",
+			"postdate":"20220721"
+		},
+		{
+			"title":"중성화 수술도 잘하는, 서울웰동물<b>의료<\/b>센터(feat.최소절개)",
+			"link":"https:\/\/blog.naver.com\/choicetrip?Redirect=Log&logNo=222829599021",
+			"description":"^^ 중성화 수술도 끝내주게 잘하는 - 서울웰동물<b>의료<\/b>센터 PS. 다른 중성화 케이스도 너무나 많지만 하나하나 다 올리는 건 식상해서 올리고 싶지 않았지만.. 개원을 하고 나니 저도 결국 케이스 포스팅을 하게... ",
+			"bloggername":"서울웰동물의료센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/choicetrip",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[<b>의료<\/b>분쟁 조정사례] 처방이 잘못되어 갑상선 기능이 저하됐어요.",
+			"link":"https:\/\/blog.naver.com\/kmedi6210?Redirect=Log&logNo=222777772574",
+			"description":"[<b>의료<\/b>분쟁 조정사례] 처방이 잘못되어 갑상선 기능이 저하됐어요. A씨는 갑상선암 치료 이후... &lt;<b>의료<\/b>중재원 감정 결과&gt; A씨의 검사결과를 볼 때 약제 감량 시도 자체는 오류라고 볼 수 없으나, 처방 입력... ",
+			"bloggername":"한국의료분쟁조정중재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmedi6210",
+			"postdate":"20220617"
+		},
+		{
+			"title":"[심평줌인] 코로나19 재유행 대비 <b>의료<\/b>대응 체계 점검",
+			"link":"https:\/\/blog.naver.com\/ok_hira?Redirect=Log&logNo=222816879010",
+			"description":"이에 따라, 정부는 코로나19 재유행 상황에 대비하여 일반<b>의료<\/b>체계 중심의 대응전략을 준비하면서, <b>의료<\/b>대응체계 및 병상 대응체계에서 준비 중인 과제를 점검했습니다. 먼저, <b>의료<\/b>대응체계 측면에서는... ",
+			"bloggername":"건강보험심사평가원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ok_hira",
+			"postdate":"20220718"
+		},
+		{
+			"title":"미국의 <b>의료<\/b>는 쓰레기입니다! 시스템을 알아야 합니다.",
+			"link":"https:\/\/blog.naver.com\/goodozone?Redirect=Log&logNo=222817297981",
+			"description":"■ 미국의 <b>의료<\/b>는 쓰레기입니다! 시스템을 알아야 합니다. Written by St. Diogenes in General Info,News 엄청난 <b>의료<\/b>비, 보험료 및 약물 처방비는 미국 <b>의료<\/b> 문화에서 큰 화제가 되고 있습니다. 단 한번의 응급상황이나... ",
+			"bloggername":"Ozone Therapy(오존 의학)",
+			"bloggerlink":"https:\/\/blog.naver.com\/goodozone",
+			"postdate":"20220718"
+		},
+		{
+			"title":"김관영 전북도지사, 환자 치료 최일선 <b>의료<\/b>현장 직접 점검",
+			"link":"https:\/\/blog.naver.com\/leebangheui?Redirect=Log&logNo=222818883641",
+			"description":"김관영 전북도지사는 코로나19 감염 확산 우려가 높은 가운데 환자 치료를 위한 최일선 <b>의료<\/b> 현장을 찾았다. 이 자리에서 <b>의료<\/b>계와의 유기적 협조를 당부하는 등 감염병 대응 상황을 직접 점검했다. 김 지사는... ",
+			"bloggername":"BANGABANGA",
+			"bloggerlink":"https:\/\/blog.naver.com\/leebangheui",
+			"postdate":"20220719"
+		},
+		{
+			"title":"제5차 국민보건<b>의료<\/b>실태조사 결과 발표",
+			"link":"https:\/\/blog.naver.com\/pklpg?Redirect=Log&logNo=222811382949",
+			"description":"제5차 국민보건<b>의료<\/b>실태조사 결과 발표 2022.07.14 보건복지부 □ 보건복지부는 5차(´16년~´20년) 국민보건<b>의료<\/b>실태조사 결과를 발표함 &lt; 보건<b>의료<\/b> 실태조사 주요 결과 &gt; ㅇ (OECD국가와 비교)... ",
+			"bloggername":"己百之 己千之",
+			"bloggerlink":"https:\/\/blog.naver.com\/pklpg",
+			"postdate":"20220714"
+		},
+		{
+			"title":"[네이버 게시물 조치] <b>의료<\/b>법 제56조 1항 위반,",
+			"link":"https:\/\/blog.naver.com\/win09033?Redirect=Log&logNo=222823190477",
+			"description":"받을수있는 <b>의료<\/b>기관에 대한 내돈내산 후기를 남겼으나 익명의 누군가의 고발로 인해서 삭제가 된다는 내용이었다. 사실 그와 관련된 내용을 검색해봤을때 나는 <b>의료<\/b>인이 아니기때문에 이게 크게 문제가 될... ",
+			"bloggername":"어제 오늘 그리고 내일",
+			"bloggerlink":"https:\/\/blog.naver.com\/win09033",
+			"postdate":"20220722"
+		},
+		{
+			"title":"[EVENT]한국보훈복지<b>의료<\/b>공단 핵심가치 퀴즈 이벤트에... ",
+			"link":"https:\/\/blog.naver.com\/bohun1102?Redirect=Log&logNo=222807293043",
+			"description":"보훈공단 여름 이벤트 &lt;핵심가치 맞추기 퀴즈 이벤트&gt; 한국보훈복지<b>의료<\/b>공단은 ‘보훈가족의 건강과 행복한 삶’이라는 미션을 달성하기 위해 보훈가족에게 맞춤형 <b>의료<\/b>·복지서비스를 제공하는... ",
+			"bloggername":"한국보훈복지의료공단",
+			"bloggerlink":"https:\/\/blog.naver.com\/bohun1102",
+			"postdate":"20220711"
+		},
+		{
+			"title":"[<b>의료<\/b>기기 소개] VIRTUE RF , 버츄 RF",
+			"link":"https:\/\/blog.naver.com\/cutty8210?Redirect=Log&logNo=222809659326",
+			"description":"최근, 피부과 개원시에 기본적으로 세팅되면서, HOT한 <b>의료<\/b>기기 중 하나가 니들고주파이지요.... RF <b>의료<\/b>기기! VIRTUE RF 버츄 RF 갖추고있는 여러 장점 중, 쿨링시스템을 강점으로 하고 있습니다.... ",
+			"bloggername":"피부미용의료기기 상담 \/ 피부과 개원 컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/cutty8210",
+			"postdate":"20220713"
+		},
+		{
+			"title":"[동원대학교 학과소개] 보건<b>의료<\/b>행정과",
+			"link":"https:\/\/blog.naver.com\/lifetongwon?Redirect=Log&logNo=222822559284",
+			"description":"최전방에서 열심히 사투를 벌이셨던 <b>의료<\/b>인들과 보건인들의 덕분으로 다시 일상으로의 회복을 꿈꾸게 되었습니다. <b>의료<\/b> 산업의 발전과 기관의 전문화로 보건<b>의료<\/b> 서비스 분야의 인력 수요가 증가하여 보다... ",
+			"bloggername":"동원대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/lifetongwon",
+			"postdate":"20220721"
+		},
+		{
+			"title":"응급<b>의료<\/b>체계 구축, 차질없이 추진합니다!",
+			"link":"https:\/\/blog.naver.com\/gnfeel?Redirect=Log&logNo=222812875981",
+			"description":"응급<b>의료<\/b>체계 구축, 차질없이 추진합니다! 15일 권역별 응급<b>의료<\/b>기관협의체 간담회를 개최했습니다. 병원 센터장, 소방본부, 응급<b>의료<\/b>지원센터 등 유관기관 20여 명이 참석했습니다. 8월경, 응급<b>의료<\/b>... ",
+			"bloggername":"경상남도 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gnfeel",
+			"postdate":"20220715"
+		},
+		{
+			"title":"진료기록 <b>의료<\/b>정보의 소유권, 누구에게 있나",
+			"link":"https:\/\/blog.naver.com\/orogi78?Redirect=Log&logNo=222820428742",
+			"description":"지난 2020년 데이터 3법 개정시행으로 가명 처리된 개인정보를 활용할 수 있는 여건이 마련되면서 보건<b>의료<\/b>데이터의 활용을 위한 논의도 활발히 진행되고 있습니다. <b>의료<\/b> 정보를 활용한 <b>의료<\/b>기기... ",
+			"bloggername":"내과 전문의 오호준",
+			"bloggerlink":"https:\/\/blog.naver.com\/orogi78",
+			"postdate":"20220720"
+		},
+		{
+			"title":"오영훈 지사-도내 <b>의료<\/b>기관장 코로나19 대응체계 정비",
+			"link":"https:\/\/blog.naver.com\/happyjejudo?Redirect=Log&logNo=222824713947",
+			"description":"- 22일 오영훈 지사 주재 코로나19 재유행 대비 <b>의료<\/b>대응 회의 개최 - - 고령자 등 4차 백신접종 홍보 및 <b>의료<\/b> 거버넌스 체계 확립 필요성 강조 - 제주특별자치도는 최근 도내 코로나19 확진자 급증에 따른 재유행에... ",
+			"bloggername":"제주특별자치도",
+			"bloggerlink":"https:\/\/blog.naver.com\/happyjejudo",
+			"postdate":"20220722"
+		},
+		{
+			"title":"[한국<b>의료<\/b>분쟁조정중재원\/<b>의료<\/b>중재원] 창립 10주년 기념... ",
+			"link":"https:\/\/blog.naver.com\/kkm7139?Redirect=Log&logNo=222829957680",
+			"description":"한국<b>의료<\/b>분쟁조정중재원(이하 ‘<b>의료<\/b>중재원’)이 ‘창립 10주년 기념 세미나’를 개최했습니다. 이번 세미나는 <b>의료<\/b>중재원 유튜브 채널을 통해 생중계도 병행되어 많은 국민들과 함께 했습니다. SG이사님을... ",
+			"bloggername":"한,영어MC 김경미 개인공간",
+			"bloggerlink":"https:\/\/blog.naver.com\/kkm7139",
+			"postdate":"20220726"
+		},
+		{
+			"title":"[프리뷰] <b>의료<\/b> 분야와 3D 프린팅 기술의 결합",
+			"link":"https:\/\/blog.naver.com\/etripr?Redirect=Log&logNo=222816757626",
+			"description":"<b>의료<\/b> 분야와 3D 프린팅 기술의 결합 3D 프린터는 절삭, 조립 등의 방법이 아닌 적층가공법(Additive... 최근 3D 프린팅 기술은 전자기기, 자동차, 항공, 건축, <b>의료<\/b>기기, 산업기기 등 전 산업 분야에서 활발하게... ",
+			"bloggername":"ETRI 한국전자통신연구원",
+			"bloggerlink":"https:\/\/blog.naver.com\/etripr",
+			"postdate":"20220718"
+		},
+		{
+			"title":"<b>의료<\/b>취약계층 ‘찾아가는 홈닥터’ 운영",
+			"link":"https:\/\/blog.naver.com\/hanam_story?Redirect=Log&logNo=222811206550",
+			"description":"6월 현재 하남시에는 경제적으로 어려운 독거노인 등 <b>의료<\/b>취약계층 4190가구가 방문건강관리사업... 어르신들의 <b>의료<\/b> 궁금증 해소에 도움을 주고 있다. 박강용 하남시보건소장은 “고령사회 및... ",
+			"bloggername":"하남시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hanam_story",
+			"postdate":"20220714"
+		},
+		{
+			"title":"미국의 보훈<b>의료<\/b>제도(6) - VISN 조직체계",
+			"link":"https:\/\/blog.naver.com\/bkkyyoo?Redirect=Log&logNo=222822074285",
+			"description":"지금 국내 보훈<b>의료<\/b> 상황과 미국 1994년 즈음의 VA health service 상황과 비슷하다고 생각된다. 관료주의와 낮은 <b>의료<\/b> 질 수준으로 정치권의 비난을 받는…. 이후 미국 보훈부의... ",
+			"bloggername":"유근영 명예교수",
+			"bloggerlink":"https:\/\/blog.naver.com\/bkkyyoo",
+			"postdate":"20220721"
+		},
+		{
+			"title":"슬개골 탈구 수술 전문동물병원, 다올동물<b>의료<\/b>센터",
+			"link":"https:\/\/blog.naver.com\/dbxo3?Redirect=Log&logNo=222827746509",
+			"description":"하루하루 날씨가 좋고 저희 다올동물<b>의료<\/b>센터에 오시는 모든 보호자님들도 항상 즐거우셨으면 합니다. 이번에 소개해드릴 케이스는 #슬개골탈구전문동물병원 #다올동물<b>의료<\/b>센터에서 #슬개골탈구수술을 한... ",
+			"bloggername":"다올동물의료센터 망포본점",
+			"bloggerlink":"https:\/\/blog.naver.com\/dbxo3",
+			"postdate":"20220725"
+		},
+		{
+			"title":"[519]김 팀장이 말하는 이것이 <b>의료<\/b>관광이다 - 이원희, 김종운",
+			"link":"https:\/\/blog.naver.com\/just0103?Redirect=Log&logNo=222822275106",
+			"description":"김 팀장이 말하는 이것이 <b>의료<\/b>관광이다 저자 이원희, 김종운 출판 쏘쏘땡큐 발매 2013.01.20. <b>의료<\/b>관광에 대해선 대학생활, 동아리 때 주제로 한 적이 있다. 그래서 자료조사를 한 적이 있어 책 내용이 낯설지가... ",
+			"bloggername":"Dum vita est, Spes est",
+			"bloggerlink":"https:\/\/blog.naver.com\/just0103",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[상한가] <b>의료<\/b>인공지능, 루닛 신규상장일 상한가!",
+			"link":"https:\/\/blog.naver.com\/cpath?Redirect=Log&logNo=222822770887",
+			"description":"공모주 <b>의료<\/b>인공지능진단기업, #루닛공모주 수요예측에서 처참한 결과로... 공모가 하단에 못 미치는 공모가 확정. 옥석 가리기로 판단했어요. 당연히 청약도 하지 않았구요. 분석 포스팅은 했지만 PASS... ",
+			"bloggername":"제이콥의 일상 탐구생활",
+			"bloggerlink":"https:\/\/blog.naver.com\/cpath",
+			"postdate":"20220721"
+		},
+		{
+			"title":"<b>의료<\/b>수급자 건강검진 결과 상담도 #마을건강센터 로 오세요~",
+			"link":"https:\/\/blog.naver.com\/bsbukgusns?Redirect=Log&logNo=222824231415",
+			"description":"<b>의료<\/b>급여 수급권자께서 보다 적극적으로 건강검진을 받아 각종 질환을 조기에 발견하고 지속적으로 건강을 관리해 나가시도록 독려하는 한편, 검진 결과에 대한 상담과 사후관리도 진행하고 있답니다. <b>의료<\/b>... ",
+			"bloggername":"부산 북구청 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/bsbukgusns",
+			"postdate":"20220722"
+		},
+		{
+			"title":"<b>의료<\/b> 취약계층을 위한 희망진료센터 운영",
+			"link":"https:\/\/blog.naver.com\/knredcross?Redirect=Log&logNo=222821096749",
+			"description":"<b>의료<\/b> 취약계층을 위한 희망진료센터 운영 대한적십자사는 희망진료센터 운영을 통해 <b>의료<\/b> 취약계층을 위한 <b>의료<\/b> 안전망 기능을 수행합니다. 병원비가 부담되어 진료를 받지 못하는 다문화 가족, 외국인... ",
+			"bloggername":"대한적십자사 희망나눔 아카이브",
+			"bloggerlink":"https:\/\/blog.naver.com\/knredcross",
+			"postdate":"20220720"
+		},
+		{
+			"title":"코로나19 <b>의료<\/b>대응상황 현장점검 ('22.07.13.)",
+			"link":"https:\/\/blog.naver.com\/primeministerkr?Redirect=Log&logNo=222811053301",
+			"description":"한 총리, 국립중앙<b>의료<\/b>원 찾아 코로나19 병상 점검 코로나19 재유행 대비 병상 확보 및 운영 현황 점검 한덕수 국무총리는 7월 13일(수) 오후, 코로나19 <b>의료<\/b>대응상황 점검을 위해 국립중앙<b>의료<\/b>원(서울 중구)을... ",
+			"bloggername":"국무총리실 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/primeministerkr",
+			"postdate":"20220714"
+		},
+		{
+			"title":"해남 성내식당_<b>의료<\/b>기관 평가 중간점검 후 식사",
+			"link":"https:\/\/blog.naver.com\/cknrjh?Redirect=Log&logNo=222814213453",
+			"description":"15 금요일 3년만에 다시 돌아온 <b>의료<\/b>기관 평가 다음주 금요일까지가 제출마감으로 중간점검 위해 진료... 맛있고 만족스러워 했답니다. #평가중간점검후 #해남성내직당 #한우된장샤브 #김국 #<b>의료<\/b>기관평가준비",
+			"bloggername":"♬ 세 아들맘 블로그 ♬",
+			"bloggerlink":"https:\/\/blog.naver.com\/cknrjh",
+			"postdate":"20220716"
+		},
+		{
+			"title":"<b>의료<\/b>마케팅, 네이버 밴드 광고는 어떤 것이 있을까요?",
+			"link":"https:\/\/blog.naver.com\/tommso?Redirect=Log&logNo=222817107614",
+			"description":"안녕하세요 <b>의료<\/b>마케팅 탐솔루션입니다. 여러분들은 애플리케이션 중에서 가장 많이 사용되는 것이... 오늘도 도움이 되셨길 바라면서 지금까지 <b>의료<\/b>마케팅 탐솔루션이었습니다. ▼홈페이지 바로가기 ▼카톡... ",
+			"bloggername":"병원 브랜딩을 생각하다! 탐솔루션",
+			"bloggerlink":"https:\/\/blog.naver.com\/tommso",
+			"postdate":"20220718"
+		},
+		{
+			"title":"농어촌 보건<b>의료<\/b>기관 인프라 확충 총력",
+			"link":"https:\/\/blog.naver.com\/samcheokcityhall?Redirect=Log&logNo=222775692703",
+			"description":"삼척시보건소가 농어촌 보건<b>의료<\/b>기관 인프라 확충에 나섭니다! 지역주민에게 양질의 보건<b>의료<\/b>서비스를 제공하기 위하여 6월 중에 2023년 농어촌 <b>의료<\/b>서비스 개선 공모사업을 신청하여 국비 확보에 나설... ",
+			"bloggername":"삼척시",
+			"bloggerlink":"https:\/\/blog.naver.com\/samcheokcityhall",
+			"postdate":"20220616"
+		},
+		{
+			"title":"[VIP동물<b>의료<\/b>센터] 고양이<b>의료<\/b>센터 GRAND OPEN 기념 세미나... ",
+			"link":"https:\/\/blog.naver.com\/vipah?Redirect=Log&logNo=222820696511",
+			"description":"VIP동물<b>의료<\/b>센터입니다. 지난 6월 16일, VIP동물<b>의료<\/b>센터 청담점에서 고양이<b>의료<\/b>센터를 오픈하게 되었습니다. 오로지 고양이만을 위한 공간으로 더욱 안전하고 쾌적한 진료환경과 회복환경을 구축하게... ",
+			"bloggername":"VIP동물의료센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/vipah",
+			"postdate":"20220720"
+		},
+		{
+			"title":"칠곡경북대병원 소아청소년 완화<b>의료<\/b>팀 '최우수 구연발표상' 수상",
+			"link":"https:\/\/blog.naver.com\/knumc2114?Redirect=Log&logNo=222831275212",
+			"description":"경북대학교어린이병원 소아청소년 완화<b>의료<\/b>팀(칠곡경북대병원 소아청소년 심장과 김여향 교수, 지미옥 간호사, 조혜은 간호사, 배수현 사회복지사-이하 ‘완화<b>의료<\/b>팀’)이 7월 2일 KT 대전 인재개발원에서 열린... ",
+			"bloggername":"칠곡경북대학교병원",
+			"bloggerlink":"https:\/\/blog.naver.com\/knumc2114",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[<b>의료<\/b>건강지킴이] 눈다래끼에 대한 진실과 거짓",
+			"link":"https:\/\/blog.naver.com\/kmedi6210?Redirect=Log&logNo=222820829707",
+			"description":"[<b>의료<\/b>건강지킴이] 눈다래끼에 대한 진실과 거짓 [눈다래끼란?] 눈꺼풀에 있는 분비샘에 기름 성분이... #한국<b>의료<\/b>분쟁조정중재원 #<b>의료<\/b>중재원 #카드뉴스 #<b>의료<\/b>건강지킴이 #건강상식 #생활건강 #눈다래끼... ",
+			"bloggername":"한국의료분쟁조정중재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmedi6210",
+			"postdate":"20220720"
+		},
+		{
+			"title":"미국의 보훈<b>의료<\/b>제도(3) - VISN: 혁신의 결과",
+			"link":"https:\/\/blog.naver.com\/bkkyyoo?Redirect=Log&logNo=222821703486",
+			"description":"1996년에 미국 보훈부와 미연방재정국은 보훈<b>의료<\/b>시스템에 대해 전례가 없는 대대적인 개혁을 시작하였다. 이 새로운 변화를 통해 경쟁적인 <b>의료<\/b>기관들을 22개의 통합서비스네트워크로 묶었으며, 이러한... ",
+			"bloggername":"유근영 명예교수",
+			"bloggerlink":"https:\/\/blog.naver.com\/bkkyyoo",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[<b>의료<\/b>건강지킴이] 대상포진, 얼마나 알고있나요?",
+			"link":"https:\/\/blog.naver.com\/kmedi6210?Redirect=Log&logNo=222817856391",
+			"description":"[<b>의료<\/b>건강지킴이] 대상포진, 얼마나 알고있나요? [대상포진이란?] 수두-대상포진 바이러스가 몸 속에... #한국<b>의료<\/b>분쟁조정중재원 #<b>의료<\/b>중재원 #카드뉴스 #<b>의료<\/b>건강지킴이 #건강상식 #생활건강 #대상포진 #수포... ",
+			"bloggername":"한국의료분쟁조정중재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmedi6210",
+			"postdate":"20220719"
+		},
+		{
+			"title":"<b>의료<\/b>광고 집행 시 주의해야할 점",
+			"link":"https:\/\/blog.naver.com\/mcgdc?Redirect=Log&logNo=222822225881",
+			"description":"<b>의료<\/b>광고는 <b>의료<\/b>법을 지켜서 진행해야 합니다. 하지만 이제 막 개원을 하는 곳들은 <b>의료<\/b>법에 대해 잘 모르고 있다가 민원이 들어오고 나서야 부랴부랴 뒤늦게 대처를 하곤 합니다. 가장 흔하게 실수하시는 것이... ",
+			"bloggername":"병원마케팅전문 에스크마케팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/mcgdc",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[<b>의료<\/b>기기 소개]  클라레 레이저",
+			"link":"https:\/\/blog.naver.com\/cutty8210?Redirect=Log&logNo=222807304459",
+			"description":"상담 <b>의료<\/b>기기의 신품ㆍ중고품 판매 \/ 매입 \/ 중개 all that dermatology and obesity #클라레레이저... 피부미용<b>의료<\/b>기기 #피부레이저컨설팅 #피부과<b>의료<\/b>장비컨설팅 #피부비만<b>의료<\/b>장비 #피부과<b>의료<\/b>기기... ",
+			"bloggername":"피부미용의료기기 상담 \/ 피부과 개원 컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/cutty8210",
+			"postdate":"20220711"
+		},
+		{
+			"title":"#세라젬<b>의료<\/b>기기 #트롯이벤트 #정동원",
+			"link":"https:\/\/blog.naver.com\/kjheh1128?Redirect=Log&logNo=222824888357",
+			"description":"어느 영상을 보다가 세라젬 <b>의료<\/b>기기에서 이벤트로 트로트가수들의 공연을 개최하는데 내가 좋아하는... 세라젬 <b>의료<\/b>기기 대리점은 까페를 겸하고 있으며 차를 마시면 세라젬<b>의료<\/b>기기 체험을 할 수 있는 것... ",
+			"bloggername":"노을~",
+			"bloggerlink":"https:\/\/blog.naver.com\/kjheh1128",
+			"postdate":"20220722"
+		},
+		{
+			"title":"[이벤트] <b>의료<\/b>기기산업 주간뉴스레터 구독하고! 소문내고!... ",
+			"link":"https:\/\/blog.naver.com\/khidiblog?Redirect=Log&logNo=222795231685",
+			"description":"<b>의료<\/b>기기산업 주간뉴스레터 구독하고! 소문내고! 선물받자! ★ 이벤트 참여 방법 Q1. 뉴스레터 구독 전이라면? 1. <b>의료<\/b>기기산업 주간 뉴스레터 구독하기(https:\/\/www.khidi.or.kr\/newsLetter... ",
+			"bloggername":"보건산업의 미래가치를 창출하는 산업진흥 전문기관",
+			"bloggerlink":"https:\/\/blog.naver.com\/khidiblog",
+			"postdate":"20220701"
+		},
+		{
+			"title":"[이벤트]<b>의료<\/b>중재원 유튜브 구독 이벤트",
+			"link":"https:\/\/blog.naver.com\/kmedi6210?Redirect=Log&logNo=222765265944",
+			"description":"<b>의료<\/b>중재원 이벤트 구독자를 모집합니다 한국<b>의료<\/b>분쟁조정중재원 유튜브 채널을 구독하고 널리 널리~ 홍보해 주세요! 여러분이 바로 홍보왕! 이벤트에 참여하시고 상품도 받아 가세요♥ &lt;이벤트 기간... ",
+			"bloggername":"한국의료분쟁조정중재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmedi6210",
+			"postdate":"20220608"
+		},
+		{
+			"title":"[이벤트] <b>의료<\/b>중재원 입소문 이벤트!",
+			"link":"https:\/\/blog.naver.com\/kmedi6210?Redirect=Log&logNo=222807632755",
+			"description":"<b>의료<\/b>중재원 이벤트 게시물을 공유해주세요! 한국<b>의료<\/b>분쟁조정중재원 블로그 게시물을 공유하여 널리 널리~ 홍보해 주세요! 여러분이 바로 홍보왕! 이벤트에 참여하시고 상품도 받아 가세요♥ &lt;이벤트... ",
+			"bloggername":"한국의료분쟁조정중재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmedi6210",
+			"postdate":"20220711"
+		},
+		{
+			"title":"[<b>의료<\/b>기기 소개] 엔코어프라임",
+			"link":"https:\/\/blog.naver.com\/cutty8210?Redirect=Log&logNo=222798130570",
+			"description":"상담 <b>의료<\/b>장비의 신품ㆍ중고품 판매 \/ 매입 \/ 중개 all that dermatology and obesity #NCOREPRIME #엔코어프라임 #근적외선리프팅기기 #얼굴리프팅 #얼굴타이트닝 #피부탄력 #피부톤개선 #피부과<b>의료<\/b>기기컨... ",
+			"bloggername":"피부ㆍ비만 의료장비 상담 \/ 피부과 개원 상담",
+			"bloggerlink":"https:\/\/blog.naver.com\/cutty8210",
+			"postdate":"20220703"
+		},
+		{
+			"title":"[<b>의료<\/b>건강지킴이] 세균에 의한 모낭 염증, 모낭염",
+			"link":"https:\/\/blog.naver.com\/kmedi6210?Redirect=Log&logNo=222829991757",
+			"description":"[<b>의료<\/b>건강지킴이] 세균에 의한 모낭 염증, 모낭염 [모낭염이란?] 모낭염은 세균(특히 포도상구균) 감염... #한국<b>의료<\/b>분쟁조정중재원 #<b>의료<\/b>중재원 #카드뉴스 #<b>의료<\/b>건강지킴이 #건강상식 #생활건강 #모낭염 #여드름... ",
+			"bloggername":"한국의료분쟁조정중재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmedi6210",
+			"postdate":"20220726"
+		},
+		{
+			"title":"2022년 우리나라 보건<b>의료<\/b>의 현주소는? 「OECD 보건통계... ",
+			"link":"https:\/\/blog.naver.com\/mohw2016?Redirect=Log&logNo=222831488914",
+			"description":"2022년 우리나라 보건<b>의료<\/b>의 현주소는? 「OECD 보건통계 2022」란? 국제사회에서의 우리나라의 보건<b>의료<\/b> 전반의 수준을 확인하고 보다 발전된 보건<b>의료<\/b>제도로 나아가기 위한 기초자료로 활용되는... ",
+			"bloggername":"[보건복지부] 따스한 메아리 따스아리",
+			"bloggerlink":"https:\/\/blog.naver.com\/mohw2016",
+			"postdate":"20220727"
+		},
+		{
+			"title":"해외 나갈 때, 코로나(PCR) 검사 싸게 하는 병원 '씨젠 <b>의료<\/b>재단'",
+			"link":"https:\/\/blog.naver.com\/kyushu_blog?Redirect=Log&logNo=222831404398",
+			"description":"이번에 씨젠<b>의료<\/b>재단 부산경남검사센터을 알기 전에는 딱 한번 부산 삼육병원에서 비싸게 검사를 받았었습니다. https:\/\/m.blog.naver.com\/kyushu_blog\/222584361545 #씨젠<b>의료<\/b>재단 #부산경남검사센터 는 부산... ",
+			"bloggername":"♥ 타비짱의 규슈블로그 ♥",
+			"bloggerlink":"https:\/\/blog.naver.com\/kyushu_blog",
+			"postdate":"20220727"
+		}
+	]
+}

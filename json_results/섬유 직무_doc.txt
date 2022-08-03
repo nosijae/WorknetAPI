@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:13 +0900",
+	"total":400,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>섬유<\/b>기계 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17869619",
+			"description":"  목차\n표제지=0,1,2\n차례=0,3,1\n1. 직종명:<b>섬유<\/b>기계=1,4,1\n2. 직종공 <b>직무<\/b>개요=1,4,2\n3. 직업 명세서=3,6,2\n4. 직"
+		},
+		{
+			"title":"<b>섬유<\/b> 및 의복분야 공학교육 기반구축을 위한 <b>직무<\/b>체계 개발 기초연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41684506",
+			"description":"A Basic Study on the Development of Skill System for Based on Engineering Education for the Areas of Textile and Clothing 본 연구는"
+		},
+		{
+			"title":"글로벌 소싱형 <b>섬유<\/b>기업의 <b>직무<\/b>분석을 통한 <b>섬유<\/b>공학 교육과정 개발 결",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16510267",
+			"description":"  표제지\n제출문\n목차\n연구결과보고서 3\n 1. 연구 목적 3\n 2. 연구 절차 4\n 3. <b>섬유<\/b>공학 산업 및 교육 현황 "
+		},
+		{
+			"title":"<b>섬유<\/b> 및 의복분야 공학교육 기반구축을 위한 <b>직무<\/b>체계 개발 기초연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594537219",
+			"description":" 본 연구는 <b>직무<\/b>능력표준 개발에서 기초적으로 검토되어야 하는 <b>직무<\/b>체계 중 <b>섬유<\/b> 및 의복분야의 직"
+		},
+		{
+			"title":"자동차 부품제조공장 근로자의 만성광범위통증과 <b>섬유<\/b>근통증후군의 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880242799",
+			"description":""
+		},
+		{
+			"title":"사회적 지원이 <b>섬유<\/b>산업 종사자의 <b>직무<\/b>스트레스 징후 및 <b>직무<\/b>성과에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11555462",
+			"description":"Effects of Social Support on the Job Stress Symptoms and Job Performance of Workers in the Textile Industry The pm-pose of this study w"
+		},
+		{
+			"title":"<b>섬유<\/b>패션기업 종사자의 <b>직무<\/b>스트레스 모델",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11555460",
+			"description":"A Job Stress Model of Workers in Fashion and Textile Industries   <b>섬유<\/b>패션기업종사자, <b>직무<\/b>스트레스, 유발요인, 징후"
+		},
+		{
+			"title":"개인적 특성에 따른 <b>섬유<\/b>패션산업 구성원의 <b>직무<\/b>스트레스 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594143664",
+			"description":"   <b>섬유<\/b>패션산업 종사자, 개인적 특성, <b>직무<\/b>스트레스요인, <b>직무<\/b>스트레스 징후, <b>직무<\/b>성과, workers in fashio"
+		},
+		{
+			"title":"<b>섬유<\/b>패션산업 종사자의 <b>직무<\/b>스트레스 요인, <b>직무<\/b>스트레스 징후 및 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11193239",
+			"description":"Job Stressors, Job Stress Symptoms and Job Performance of Workers in Fashion Industry The purpose of this study was to investigate job "
+		},
+		{
+			"title":"사회적 지원이 <b>섬유<\/b>산업 종사자의 <b>직무<\/b>스트레스 징후 및 <b>직무<\/b>성과에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594251802",
+			"description":"   social support, job stress symptom, job performance, textile or clothing companies, individual differences "
+		},
+		{
+			"title":"개인적 특성에 따른 <b>섬유<\/b>패션산업 구성원의 <b>직무<\/b>스트레스 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11205631",
+			"description":"Transactions : The Effeets of Personal Characteristics on Job Stress of Workers in Fashion and Textile Industries The purpose of this s"
+		},
+		{
+			"title":"<b>섬유<\/b>패션산업 종사자의 <b>직무<\/b>스트레스 요인, <b>직무<\/b>스트레스 징후 및 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595048992",
+			"description":"   <b>직무<\/b>스트레스, <b>직무<\/b>스트레스 요인, <b>직무<\/b>스트레스 징후, <b>직무<\/b>성과 "
+		},
+		{
+			"title":"<b>섬유<\/b>제품 제조분야의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10855867",
+			"description":"  모피선별원=82,82,1\n <b>직무<\/b>수행 내용=82,82,1\n <b>직무<\/b>수행 요건=83,83,1\n <b>직무<\/b>수행가능 장애유형=83,83,1\n 수행가"
+		},
+		{
+			"title":"<b>섬유<\/b>패션산업 종사자의 <b>직무<\/b>스트레스 요인, <b>직무<\/b>스트레스 징후 및 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846062409",
+			"description":"Job Stressors, Job Stress Symptoms and Job Performance of Workers in Fashion Industry   <b>직무<\/b>스트레스, job stress, <b>직무<\/b>스트레"
+		},
+		{
+			"title":"사회적 지원이 <b>섬유<\/b>산업 종사자의 <b>직무<\/b>스트레스 징후 및 <b>직무<\/b>성과에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846426949",
+			"description":"Effects of Social Support on the Job Stress Symptoms and Job Performance of Workers in the Textile Industry The pm-pose of this study w"
+		},
+		{
+			"title":"개인적 특성에 따른 <b>섬유<\/b>패션산업 구성원의 <b>직무<\/b>스트레스 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846064598",
+			"description":"Transactions : The Effeets of Personal Characteristics on Job Stress of Workers in Fashion and Textile Industries The purpose of this s"
+		},
+		{
+			"title":"조직분위기에 따른 <b>섬유<\/b>패션산업 구성원의 <b>직무<\/b>스트레스 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846075891",
+			"description":"The Effects of Organizational Climate on Job Stress of Workers in Fashion and Textile Industries 본 연구는 <b>섬유<\/b>패션산업 중"
+		},
+		{
+			"title":"조직분위기에 따른 <b>섬유<\/b>패션산업 구성원의 <b>직무<\/b>스트레스 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11252953",
+			"description":"The Effects of Organizational Climate on Job Stress of Workers in Fashion and Textile Industries 본 연구는 <b>섬유<\/b>패션산업 중"
+		},
+		{
+			"title":"<b>섬유<\/b>패션기업 종사자의 <b>직무<\/b>스트레스 모델",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594117845",
+			"description":"   job stress symptom, job performance, fashion and textile industries, job stress model "
+		},
+		{
+			"title":"<b>섬유<\/b>제품 제조분야의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880121743",
+			"description":""
+		},
+		{
+			"title":"<b>섬유<\/b>제품 제조분야의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=805590146",
+			"description":"   Medicine, Economic growth, Development economics "
+		},
+		{
+			"title":"중국진출 한·일 기업 현지종업원의 조직몰입도에 관한 연구 - 칭다오지",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420535254",
+			"description":"A Study on the Organizational Commitment of Local Employees in Korean and Japanese Firms in China This study focused on the organizatio"
+		},
+		{
+			"title":"중국진출 한·일 기업 현지종업원의 조직몰입도에 관한 연구 : 칭다오지",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77884823",
+			"description":"A Study on the Organizational Commitment of Local Employees in Korean and Japanese Firms in China: Focused Local workers Job Satisfacti"
+		},
+		{
+			"title":"<b>직무<\/b> 스트레스를 겪는 감정노동자를 위한 <b>섬유<\/b>매체 중심 미술치료 체험 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765752838",
+			"description":"  표제지\n목차\n국문요약 8\nI. 서론 10\n 1. 연구의 필요성 및 목적 10\n 2. 연구 문제 14\nII. 이론적 배경 15\n 1. "
+		},
+		{
+			"title":"<b>직무<\/b>발명의 성질과 범위 (職務發明의 성질과 범위)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12888050",
+			"description":"  목차\n職務發明의 성질과 범위 \/ 김홍균 1\n 1. 서론 1\n 2. <b>직무<\/b>발명의 성질 2\n  2.1. 사용자주의와 발명자"
+		},
+		{
+			"title":"패션 판매원의 <b>직무<\/b>적합성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11527676",
+			"description":"A Study on the Job Aptitudity of Fashion Salesperson 오늘날 시장에서는 제품 미학, 브랜딩 전략, 서비스 품질과 같"
+		},
+		{
+			"title":"<b>섬유<\/b>업체의 시장지향성이 사업성과와 <b>직무<\/b>만족에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594352835",
+			"description":"   시장지향성, 사업성과, <b>직무<\/b>만족, <b>섬유<\/b>업체 "
+		},
+		{
+			"title":"<b>섬유<\/b>업체의 시장지향성이 사업성과와 <b>직무<\/b>만족에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13617448",
+			"description":"The Effects of Market Orientation on Business Performance and Job Satisfaction in the Textile Firms-Focused on Textile Firms Located in"
+		},
+		{
+			"title":"한국과 독일 직업 교육 분석을 통한 한국 <b>섬유<\/b>⋅의류 도제교육에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881730748",
+			"description":"Suggestion of Implications for Korean Textiles and Clothing Apprenticeship Education Through the Analysis of Vocational Education in Ko"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준 및 국가역량체계를 기반으로 구성된 호주의 패션디자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420611403",
+			"description":"A Study on Australian Vocational Education in the Fashion Design Field Based on NCS and AQF 최근 국가<b>직무<\/b>능력표준을 개발"
+		},
+		{
+			"title":"<b>섬유<\/b>업체의 시장지향성이 사업성과와 <b>직무<\/b>만족에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842336400",
+			"description":""
+		},
+		{
+			"title":"<b>섬유<\/b>업체의 시장지향성이 사업성과와 <b>직무<\/b>만족에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845391186",
+			"description":"Transactions : Development and Evaluation of Smart Jacket with Embedded Wearable Device   Smart clothing, Wearable device, Jacket, Vibr"
+		},
+		{
+			"title":"기업풍토가 구성원의 <b>직무<\/b>태도에 미치는 영향에 관한 연구 : 마산지역 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79225391",
+			"description":"   기업풍토, 구성원, <b>직무<\/b>태도, 영향, 마산, <b>섬유<\/b> "
+		},
+		{
+			"title":"패션 판매원의 <b>직무<\/b>적합성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594667279",
+			"description":" 오늘날 시장에서는 제품 미학, 브랜딩 전략, 서비스 품질과 같은 감성적 요소들의 중요성이 점점 증"
+		},
+		{
+			"title":"<b>섬유<\/b>산업 종사자의 <b>섬유<\/b>산업에 대한 태도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11435117",
+			"description":"Transactions : Analysis of Workers` Attitudes toward Textile Industry   <b>섬유<\/b>산업, <b>직무<\/b>스트레스, <b>직무<\/b>성과, Attitude toward"
+		},
+		{
+			"title":"<b>섬유<\/b>산업 종사자의 <b>섬유<\/b>산업에 대한 태도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846112229",
+			"description":"Transactions : Analysis of Workers` Attitudes toward Textile Industry   Attitude toward textile industry, Personal characteristics, Job"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준 및 국가역량체계를 기반으로 구성된 호주의 패션디자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=112565138",
+			"description":"Research Reports : A Study on Australian Vocational Education in the Fashion Design Field Based on NCS and AQF 최근 국가<b>직무<\/b>능"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준 및 국가역량체계를 기반으로 구성된호주의 패션디자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880294673",
+			"description":"A Study on Australian Vocational Education in the Fashion Design Field Based on NCS and AQF 최근 국가<b>직무<\/b>능력표준을 개발"
+		},
+		{
+			"title":"<b>섬유<\/b> 디자인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17819713",
+			"description":"  목차\n표제지=0,1,2\n차례=0,3,1\n1. 직종명:<b>섬유<\/b> 디자인=1,4,1\n2. <b>직무<\/b> 수준별 직위=1,4,2\n3. 직업 명세서=3,6,2\n4."
+		},
+		{
+			"title":"유리<b>섬유<\/b>강화 플라스틱을 이용한 적층공정 근로자들의 스티렌 노출 평",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=597513205",
+			"description":" 연구목적: 이 연구는 노동부의 보건진단 명령에 의해 유리<b>섬유<\/b> 강화플라스틱(FRP)을 이용한 이중벽 탱"
+		},
+		{
+			"title":"<b>직무<\/b>특성이 정서적 몰입에 미치는 영향에 관한 연구 : 중국 석유회사 종",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79752404",
+			"description":" <b>직무<\/b>특성에 관한 연구는 주로 <b>직무<\/b>분석의 시점에 활용하며, <b>직무<\/b>를 담당하는 조직구성원의 심리상태"
+		},
+		{
+			"title":"<b>직무<\/b>스트레스에 관한 문헌적 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11264691",
+			"description":"Literature Review of Job Stress This study reviewed the literature pertaining to the cause and effects of job stress. Many definitions "
+		},
+		{
+			"title":"유리<b>섬유<\/b>강화 플라스틱을 이용한 적층공정 근로자들의 스티렌 노출 평",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=156616179",
+			"description":"Exposure to Styrene in the Lamination Processes with Fiberglass-Reinforced Plastics : Health Diagnosis Case Report 연구목적: 이 "
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준에 기반한 중등직업교육 개선 연구 : 건축과 사례를 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765749695",
+			"description":"(A)study on the improvement of secondary vocational education based on NCS : focused on the case of architecture department  표제지\n"
+		},
+		{
+			"title":"<b>섬유<\/b>기계보전",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17799998",
+			"description":"  목차\n표제지=0,1,1\n차례=0,2,1\n1.직종명=1,3,1\n2.<b>직무<\/b>수준별 직위=1,3,2\n3.직업 명세서=3,5,2\n4.<b>직무<\/b> 명세서=5,7,"
+		},
+		{
+			"title":"특허 소개 : <b>직무<\/b>발명(職務發明)의 성질과 범위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890040047",
+			"description":""
+		},
+		{
+			"title":"<b>직무<\/b>발명(職務發明)의 성질과 범위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594279070",
+			"description":""
+		},
+		{
+			"title":"패션 판매원의 <b>직무<\/b>적합성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878279048",
+			"description":"A Study on the Job Aptitudity of Fashion Salesperson 오늘날 시장에서는 제품 미학, 브랜딩 전략, 서비스 품질과 같"
+		},
+		{
+			"title":"2004년 중소기업생산현장 <b>직무<\/b>기피요인해소사업 개발장비 사례 -중소기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18331296",
+			"description":"  1. 사업개요\t\n2. 사업내용\t\t\t\t\t\t\t\t\t\n3. 사업 추진체계 및 절차\t\t\t\t\t\t\t\t\t\n4. 추진실적\t\t\t\t\t\t\t\t\t\n5. 기대효과\t\t\t\t\t\t\t\t"
+		},
+		{
+			"title":"일정한 보강<b>섬유<\/b> 굴곡이 있는 두꺼운 복합재료에서의 초음파 전파에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594680206",
+			"description":" 복합재료는 우수한 재료특성을 가지고 있어 기존의 금속 재료를 대신하여 많은 분야에서 사용되고 "
+		},
+		{
+			"title":"&lt; 제 6 발표장 &gt; 30F12 화상 분석을 이용한 <b>직무<\/b> 구성 인자의 객관적 측정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890033987",
+			"description":""
+		},
+		{
+			"title":"일정한 보강<b>섬유<\/b> 굴곡이 있는 두꺼운 복합재료에서의 초음파 전파에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10992271",
+			"description":"Ultrasound Wave Propagation in Thick Composites with Uniform Fiber Waviness 복합재료는 우수한 재료특성을 가지고 있어 "
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준 개발사업.2005, 2,국가<b>직무<\/b>능력표준 개발영역 분류",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16534756",
+			"description":"  표제지\n머리말\n목차\n【요약】 10\n제1장 서론 14\n 제1절 연구의 필요성 및 목적 14\n  1. 필요성 및 목적 14\n"
+		},
+		{
+			"title":"<b>섬유<\/b>업체의 이직이 생산성에 미치는 영향에 관한 연구 (纖維業體의 離職",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9048964",
+			"description":"  국문목차\n표제지 = 0,1,1\n목차 = i,2,1\n표목차 = ii,3,1\n도목차 = ii,3,1\nI. 서론 = 1,4,1\n 1. 문제의 제기 = 1,4,1\n 2"
+		},
+		{
+			"title":"지역<b>섬유<\/b>업체에 있어서 인사고과제도의 개선방향에 관한 연구 (地域纖",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=8994311",
+			"description":"  국문목차\n표제지 = 0,1,2\n목차 = 0,3,2\n표목차 = 0,5,1\n제1장 서론 = 1,6,1\n 제1절 연구의 목적 = 1,6,2\n 제2절 연"
+		},
+		{
+			"title":"<b>직무<\/b>분석.2006",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12921188",
+			"description":"  [표제지 등]\n목차\n01. 기계분야(제목없음) 4\n 1. 건축배관 (Architectural Pipe Fitting) \/ 정진영 ; 박영일 ; 박"
+		},
+		{
+			"title":"근로자의 <b>직무<\/b>만족을 통한 직장생활의 보람(QWL)에 관한 연구 (勤勞者의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=306224763",
+			"description":"(A) study on the improving quality of working life through workers&apos; job satisfaction The purpose of this paper is to analize the relati"
+		},
+		{
+			"title":"<b>직무<\/b>만족의 측정과 관련변인들의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=36773245",
+			"description":"A Study on the Measurement and Related Variables of the Job Satisfaction 본 연구는 <b>직무<\/b> 만족의 측정 및 관련 변인들과"
+		},
+		{
+			"title":"종업원 <b>직무<\/b>만족에 관한 연구 (從業員 職務滿足에 關한 硏究)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79293955",
+			"description":"(A) Study on the Job Satisfaction of Employees within K Company 아놀드와 펠드만에 의하면 1970년대와 1980년대의 경기"
+		},
+		{
+			"title":"(2016\/17) 경제발전경험 공유사업(KSP) 산업·무역 정책자문 : 우즈베키스탄 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561534259",
+			"description":"  표제지\n목차\n우즈베키스탄 KSP 사업의 진행과정 17\n총론 21\n제1장 우즈베키스탄 <b>섬유<\/b>산업 가치사슬 강"
+		},
+		{
+			"title":"한국형 석면 <b>직무<\/b>-노출 매트릭스 구축과 악성중피종 환자-대조군에서의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=439575917",
+			"description":"The Establishment of the Korean Asbestos Job-Exposure Matrix, and It’s Application to the Case-Control Study on Malignant Mesotheliom"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897422344",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875568588",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898418751",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886908233",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886789040",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881374831",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889863126",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877632267",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890586310",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873739621",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889163538",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884694084",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875220222",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897502364",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891017282",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896557573",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873130611",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888665997",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874401936",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888037889",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887450434",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898343352",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875337240",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891289237",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886777676",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887935591",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886372035",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890962023",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873234029",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873229298",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881949754",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890768599",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882669876",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890378080",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"경력자 <b>직무<\/b>활용 재취업 추천직업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875497346",
+			"description":"  표제지\n목차\n발간사 4\n들어가며 6\n일러두기 7\nPart.1. 경영·사무·금융·보험직 10\n 1. 경영지원 관리자 11"
+		},
+		{
+			"title":"우리나라 채용 분야에서의 NCS 활용 실태 분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846882330",
+			"description":"Analysis of NCS application for the Recruitment fields in Korea 인적자원개발체계를 내실화하기 위한 기제로 개발된 "
+		},
+		{
+			"title":"우리나라 채용 분야에서의 NCS 활용 실태 분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865516676",
+			"description":"Analysis of NCS application for the Recruitment fields in Korea 인적자원개발체계를 내실화하기 위한 기제로 개발된 "
+		},
+		{
+			"title":"특성화고등학교에서 텍스타일디자인과 염색수업연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886156410",
+			"description":"A Study on Textile Design and Dyeing Classes at Specialized High School 현재 2015개정교육과정에서 국가가 추구하는 인"
+		},
+		{
+			"title":"A Basic Study on the Development of Skill System for Based on Engineering Education for the Area",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=450411853",
+			"description":" 본 연구는 <b>직무<\/b>능력표준 개발에서 기초적으로 검토되어야 하는 <b>직무<\/b>체계 중 <b>섬유<\/b> 및 의복분야의 직"
+		}
+	]
+}

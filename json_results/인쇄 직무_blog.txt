@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:24 +0900",
+	"total":22705,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[<b>직무<\/b>인터뷰]RFID\/NFC\/<b>인쇄<\/b> 사업부 영업\/영업관리",
+			"link":"https:\/\/blog.naver.com\/emfosky?Redirect=Log&logNo=222432830957",
+			"description":"엠포플러스(주)의 주요 사업 중 하나인 RFID\/NFC 기술과 <b>인쇄<\/b> 제품 제작을 담당하고 있어요 Previous image Next image Q. 사업 2팀이 수행하고 있는 <b>직무<\/b>에 대해 설명 부탁드려요 사업2팀에서 담당하고 있는 서비스로는... ",
+			"bloggername":"엠포플러스",
+			"bloggerlink":"https:\/\/blog.naver.com\/emfosky",
+			"postdate":"20210715"
+		},
+		{
+			"title":"진례면 포장지소량<b>인쇄<\/b> 한의원블로그 전기안전관리<b>직무<\/b>고시... ",
+			"link":"https:\/\/blog.naver.com\/dinoserk349?Redirect=Log&logNo=222260390872",
+			"description":"#포장지소량<b>인쇄<\/b> 김소영, 셜록이 안고 딸바보된 ♥?오상진 늠름 옆태 공개든든하겠네. 원인을 확실히... 안산 파천무서흉몽지겁과 뗄 수 없는 연계선상의 서적 #전기안전관리<b>직무<\/b>고시 그러나 마침내 많은 수는... ",
+			"bloggername":"dinoserk349님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dinoserk349",
+			"postdate":"20210301"
+		},
+		{
+			"title":"[전주<b>직무<\/b>연수 자료집] <b>인쇄<\/b> 제본",
+			"link":"https:\/\/blog.naver.com\/cooli7942?Redirect=Log&logNo=222446347669",
+			"description":"박스포장~~ 표지 250g 아트지 내지 80g 밀크지 간지120 밍크지 이상 전주 <b>인쇄<\/b> 제본 후기 였습니다. 감사합니다. #전주디자인 #전주<b>인쇄<\/b> #전주제본 #전주<b>인쇄<\/b>제본 #전주<b>직무<\/b>연수자료집<b>인쇄<\/b> #전주연수자료집제본",
+			"bloggername":"꿈인 디자인 출력",
+			"bloggerlink":"https:\/\/blog.naver.com\/cooli7942",
+			"postdate":"20210726"
+		},
+		{
+			"title":"[<b>인쇄<\/b>디자인\/A2포스터]원데이 <b>직무<\/b>캠프 참여자모집 전단포스터",
+			"link":"https:\/\/blog.naver.com\/dfgroup11?Redirect=Log&logNo=222149599287",
+			"description":"원데이 <b>직무<\/b>캠프 참여자모집 전단포스터 [원데이 <b>직무<\/b>캠프 참여자모집 전단포스터] 안녕하세요!... 아트지 <b>인쇄<\/b> : 단면4도 ------------------------------------------------------ 디에프 그룹은 풍부한 프로젝트... ",
+			"bloggername":"디자인 커뮤니케이션 그룹 DF",
+			"bloggerlink":"https:\/\/blog.naver.com\/dfgroup11",
+			"postdate":"20201120"
+		},
+		{
+			"title":"편집디자이너 <b>직무<\/b>, <b>인쇄<\/b>발행물을 디자인하여 디지털매거진으로~",
+			"link":"https:\/\/blog.naver.com\/job_story1?Redirect=Log&logNo=221348353842",
+			"description":"편집디자이너 <b>직무<\/b>, <b>인쇄<\/b>발행물을 편집하고 디자인하여 디지털메거진으로~ 01. 편집디자이너로서 어떤 업무를 하시나요? 현재 페이퍼 잡지를 패드나 폰으로 볼 수 있는 디지털 매거진과 웹 기사를 편집... ",
+			"bloggername":"취업스토리",
+			"bloggerlink":"https:\/\/blog.naver.com\/job_story1",
+			"postdate":"20180829"
+		},
+		{
+			"title":"출판·<b>인쇄<\/b> 분야 국가<b>직무<\/b>능력표준(NCS) 확정 고시... ",
+			"link":"https:\/\/blog.naver.com\/parkisu007?Redirect=Log&logNo=220774113894",
+			"description":"출판·<b>인쇄<\/b> 분야 국가<b>직무<\/b>능력표준(NCS) 확정 고시(고용노동부, 2016.7.22.) [정리 ; 한국출판저작권연구소, 2016.7.28.] □ 고용노동부는 2016. 7. 22.자로 국가<b>직무<\/b>능력표준(NCS)을 확정... ",
+			"bloggername":"한국 출판 저작권 연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/parkisu007",
+			"postdate":"20160728"
+		},
+		{
+			"title":"마케팅<b>직무<\/b> 수건<b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/organicbird268?Redirect=Log&logNo=222691805261",
+			"description":"마케팅<b>직무<\/b> 수건<b>인쇄<\/b>",
+			"bloggername":"organicbird268님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/organicbird268",
+			"postdate":"20220405"
+		},
+		{
+			"title":"기업 <b>직무<\/b> 메뉴얼(매뉴얼) 책자 디자인 <b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/injung8844?Redirect=Log&logNo=221522029905",
+			"description":"기업 <b>직무<\/b> 메뉴얼(매뉴얼) 책자 디자인 <b>인쇄<\/b> 사서를 위한 영어자료 관련 매뉴얼 TYPE : PRINT DATE : 2014. 추억은 방울 방울 블로그의 도서관 세미나 자료 디자인 <b>인쇄<\/b>물들을 정리하며, 사서라는 직업은 꾸준한 공부와... ",
+			"bloggername":"인정기획",
+			"bloggerlink":"https:\/\/blog.naver.com\/injung8844",
+			"postdate":"20190425"
+		},
+		{
+			"title":"<b>직무<\/b>분야별 <b>직무<\/b>능력평가 NCS 18. 섬유·의복 \/ 22. <b>인쇄<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220617243458",
+			"description":"NCS 준비는 NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가와 함께 하세요~ NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 18 섬유·의복 22 <b>인쇄<\/b>·목 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.01.20. 리뷰보기",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160203"
+		},
+		{
+			"title":"<b>직무<\/b>고시서식 별지 제7호 열화상측정점검에서 서식의 <b>인쇄<\/b>출력... ",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=221513358316",
+			"description":"열화상점검이 1년에 4회이므로 위의 경우 4회*176장=704장을 다 <b>인 쇄<\/b>한다면 업무량이 엄청나며... 하였으며 <b>직무<\/b>고시서식과 점검자료, 프로그 램을 16GB USB에 그리고 전기실무서인 &quot;전기는 보인다&quot; 2권을... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20190414"
+		},
+		{
+			"title":"경기도<b>인쇄<\/b>문화협회, 디자이너 <b>직무<\/b>역량 강화를 위한 특강 실시",
+			"link":"https:\/\/printway.tistory.com\/2264",
+			"description":"월간<b>인쇄<\/b>계 경기도<b>인쇄<\/b>문화협회, 디자이너 <b>직무<\/b>역량 강화를 위한 특강 실시 본문 _NEWS_\/종합 경기도<b>인쇄<\/b>문화협회, 디자이너 <b>직무<\/b>역량 강화를 위한 특강 실시 월간<b>인쇄<\/b>계 2012.12.03 16:53... ",
+			"bloggername":"월간인쇄계",
+			"bloggerlink":"https:\/\/printway.tistory.com\/",
+			"postdate":"20121203"
+		},
+		{
+			"title":"실무교재제본,프레젠테이션제본,<b>직무<\/b>교재제본[모두카피]",
+			"link":"https:\/\/blog.naver.com\/moducopy1004?Redirect=Log&logNo=222808820197",
+			"description":"무광코팅 #<b>직무<\/b>센터교재 #무선제본 #책만들기 #제본 #PDF제본 #출력제본 #프레젠테이션제본 #제본 #<b>인쇄<\/b> #실무교재제본 #실무교재 #<b>직무<\/b>교재제본 으로 <b>직무<\/b>센터 에서 주문하신 실무교재 제본 입니다.",
+			"bloggername":"m o d u c o p y 1 0 0 4 ♡",
+			"bloggerlink":"https:\/\/blog.naver.com\/moducopy1004",
+			"postdate":"20220712"
+		},
+		{
+			"title":"문화예술, <b>인쇄<\/b>출판, 교육) <b>직무<\/b>수행계획서 작성 대행 안내",
+			"link":"https:\/\/blog.naver.com\/pcg44?Redirect=Log&logNo=221317232502",
+			"description":"국립박물관문화재단 정규직(기획사무, 문화예술, <b>인쇄<\/b>출판, 교육) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 10만원 : 3매 기준 \/ 3일 (공휴일 제외) ※ 서류 작성... ",
+			"bloggername":"사업계획서 & 제안서 & 기획서 & 회사소개서",
+			"bloggerlink":"https:\/\/blog.naver.com\/pcg44",
+			"postdate":"20180711"
+		},
+		{
+			"title":"전주 <b>직무<\/b> 교육 자료집 <b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/cooli7942?Redirect=Log&logNo=222035342649",
+			"description":"오늘은 전주 <b>직무<\/b>교육 자료집 <b>인쇄<\/b> 후기입니다. 표지 표지 250g 스노우 내지 80gl 밀크지 상단엔 강의 제목과 하단엔 주최 ppt 자료 슬라이드 2개씩 a4사이즈에 맞춰 넣었습니다. 일정표도 표지와 같은 이미지로... ",
+			"bloggername":"꿈인 디자인 출력",
+			"bloggerlink":"https:\/\/blog.naver.com\/cooli7942",
+			"postdate":"20200719"
+		},
+		{
+			"title":"교사 <b>직무<\/b>연수 행사 i9 고사양 데스크탑 설치 현장입니다.",
+			"link":"https:\/\/blog.naver.com\/chan8820?Redirect=Log&logNo=222820852313",
+			"description":"고등학교 교사 <b>직무<\/b>연수 화상회의 행사가 있어 그 행사에 사용 될 컴퓨터와 화상장비들을 임대... 복사+스캔+팩스+<b>인쇄<\/b> 모두 가능한 복합기지만 팩스는 굳이 사용하지 않으신다면 제외 하셔도 됩니다.... ",
+			"bloggername":"☏010-8484-1611",
+			"bloggerlink":"https:\/\/blog.naver.com\/chan8820",
+			"postdate":"20220720"
+		},
+		{
+			"title":"일러스트학원 <b>직무<\/b>능력 향상 과정",
+			"link":"https:\/\/blog.naver.com\/conan613?Redirect=Log&logNo=222718642156",
+			"description":"최근, 다양한 기업의 채용트렌드는 학력보다는 <b>직무<\/b>능력에 초점을 맞추고 있는데요. 아무리 가방끈이... 이왕 교육기관의 도움을 받는다면, 기획부터 디자인 편집 및 <b>인쇄<\/b>까지 모든 과정을 배울 수 있는... ",
+			"bloggername":"아우랑의 생활밀착형 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/conan613",
+			"postdate":"20220502"
+		},
+		{
+			"title":"점검기록표 <b>인쇄<\/b>, 태양광발전설비 점검기록표 <b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/sorae_sun?Redirect=Log&logNo=222820612593",
+			"description":"산업통상자원부는 이같은 내용의 '전기안전관리자 <b>직무<\/b>에 관한 고시'를 개정해 올해 1월 1일부터... 그래서인지 요즘 태양광발전설비 점검기록표와 전기자동차충전설비 점검기록표 <b>인쇄<\/b>가 증가하고 있습니다.... ",
+			"bloggername":"레헴하임",
+			"bloggerlink":"https:\/\/blog.naver.com\/sorae_sun",
+			"postdate":"20220720"
+		},
+		{
+			"title":"브이드림X에어클래스 중증장애인 <b>직무<\/b>교육 수강 Real... ",
+			"link":"https:\/\/blog.naver.com\/ejhk7981?Redirect=Log&logNo=222427944479",
+			"description":"날짜 2021년 7월 11일 일요일 날씨 맑음 제목 4강 <b>인쇄<\/b> 에어클래스 <b>직무<\/b>교육 강의 <b>인쇄<\/b> - 문서의 용지 여백, 방향, 크기, <b>인쇄<\/b> 영역, 페이지 나누기, <b>인쇄<\/b> 제목 등을 설정 페이지 레이아웃-&gt;페이지 설정 ❤️ 문서... ",
+			"bloggername":"빈방 - 누구나 와서 쉬는 곳...",
+			"bloggerlink":"https:\/\/blog.naver.com\/ejhk7981",
+			"postdate":"20210711"
+		},
+		{
+			"title":"상반기 기본과정 수강생 학습기간 일정, 혜택 (전동화<b>직무<\/b>)",
+			"link":"https:\/\/blog.naver.com\/0105kyh?Redirect=Log&logNo=222770548051",
+			"description":"우수 수료시 현대자동차 서류 면제 혜택을 주고, 또 수강과정을 통해 자동차 부문 <b>직무<\/b> 지식도... 발급 버튼을 누르면 바로 <b>인쇄<\/b>하는 페이지가 열리며 PDF로 저장이 가능하다. 이러한 정량적으로 증명할... ",
+			"bloggername":"Elena&apos;s Records 엘레나의 기록",
+			"bloggerlink":"https:\/\/blog.naver.com\/0105kyh",
+			"postdate":"20220613"
+		},
+		{
+			"title":"감사원 공업서기보(일반기계\/<b>인쇄<\/b>발간물 생산 업무) <b>직무<\/b>수행계... ",
+			"link":"https:\/\/ebizbrain.tistory.com\/8107",
+			"description":"감사원 공업서기보(일반기계\/<b>인쇄<\/b>발간물 생산 업무) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 10만원 : 3매 기준 \/ 3일 (공휴일 제외) ※ 서류 작성 기간은 의뢰인의... ",
+			"bloggername":"사업계획서\/제안서\/기획서\/보고서 :: 사업계획서\/제안서\/기획서\/보고서",
+			"bloggerlink":"https:\/\/ebizbrain.tistory.com\/",
+			"postdate":"20161220"
+		},
+		{
+			"title":"__최종<b>인쇄<\/b>)2018 계약업무<b>직무<\/b>교재",
+			"link":"https:\/\/blog.naver.com\/bunnyjsa?Redirect=Log&logNo=221379863366",
+			"description":"__최종<b>인쇄<\/b>)2018 계약업무<b>직무<\/b>교재.pdf 내 컴퓨터 저장",
+			"bloggername":"장풍이의 천국",
+			"bloggerlink":"https:\/\/blog.naver.com\/bunnyjsa",
+			"postdate":"20181018"
+		},
+		{
+			"title":"학생활동<b>직무<\/b>연수 교재... 교재_무선제본_복사\/제본\/<b>인쇄<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/takeonship?Redirect=Log&logNo=221139861990",
+			"description":"학생활동<b>직무<\/b>연수 교재_경북교육연수원 교재_무선제본_복사\/제본\/<b>인쇄<\/b>_모든카피_No.97 사이즈_16절 보통 16절사이즈면 B5로 많이들 하시는데 규격이 정해져 있다고 하셔서 16절 197 X 272 출력후 재단으로... ",
+			"bloggername":"구미제본_구미인쇄_모든카피",
+			"bloggerlink":"https:\/\/blog.naver.com\/takeonship",
+			"postdate":"20171114"
+		},
+		{
+			"title":"NCS기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 18 섬유.의복 \/ 22 <b>인쇄<\/b>.... ",
+			"link":"https:\/\/blog.naver.com\/witheos?Redirect=Log&logNo=220714611620",
+			"description":"★ 북마우스 추천도서 요약정보 ★ NCS기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 18 섬유.의복 \/ 22 <b>인쇄<\/b>.목재.가구.공예 [씨마스] 정가 23,000원 \/ 판매가 20,700원 NCS(국가<b>직무<\/b>능력표준) 기반의 채용 방식에 최적화된... ",
+			"bloggername":"인터넷서점 북마우스",
+			"bloggerlink":"https:\/\/blog.naver.com\/witheos",
+			"postdate":"20160520"
+		},
+		{
+			"title":"직원 단체선물,<b>직무<\/b> 교육\/워크숍 기념품",
+			"link":"https:\/\/blog.naver.com\/cutepbk0514?Redirect=Log&logNo=221783153958",
+			"description":"갈아 끼워 쓸 수 있는 a5사이즈의 메모지 + 볼펜까지 set 구성 메모지와 볼펜까지 있는 구성이니, 회사 직원 <b>직무<\/b> 교육기념품 으로도 완전 괜찮죠? 케이스 겉 표지 (앞, 뒷면)에 <b>인쇄<\/b> 하거나 저희 고객님처럼... ",
+			"bloggername":"▒스트레스 해소 대작전▒",
+			"bloggerlink":"https:\/\/blog.naver.com\/cutepbk0514",
+			"postdate":"20200123"
+		},
+		{
+			"title":"NCS기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 18: 섬유 의복 22: <b>인쇄<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/gosimart?Redirect=Log&logNo=220508525036",
+			"description":"NCS기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 18: 섬유 의복 22: <b>인쇄<\/b> 목재 가구 공예 (2016)[씨마스] 저자명 : NCS 채용 시험 연구회 | 출판사 : 씨마스 | 발행일 : 1453215600 | 페이지 : 416 정가 23,000 원판매가20... ",
+			"bloggername":"온라인교육 플랫폼 캠버스에듀",
+			"bloggerlink":"https:\/\/blog.naver.com\/gosimart",
+			"postdate":"20151014"
+		},
+		{
+			"title":"브이드림X에어클래스 중증장애인 <b>직무<\/b>교육 수강 Real... ",
+			"link":"https:\/\/blog.naver.com\/ejhk7981?Redirect=Log&logNo=222424231190",
+			"description":"&lt; ㅋㅋㅋ 에어클래스 <b>직무<\/b>교육 강의   <b>인쇄<\/b>하기 실행 = 메뉴-파일-&gt;<b>인쇄<\/b>하기 or 서식도구모음-<b>인쇄<\/b>하기 클릭 단축키 Alt+p!! ※ <b>인쇄<\/b> 단축키도 자주 쓰이니 외외두자!! 단축키를 많이 알면 업무 시 효율성과... ",
+			"bloggername":"빈방 - 누구나 와서 쉬는 곳...",
+			"bloggerlink":"https:\/\/blog.naver.com\/ejhk7981",
+			"postdate":"20210708"
+		},
+		{
+			"title":"화장품회사 구매<b>직무<\/b>, 나의 1년 기록",
+			"link":"https:\/\/blog.naver.com\/sht01140?Redirect=Log&logNo=222636669570",
+			"description":"화장품회사 구매<b>직무<\/b>는 무슨일해? 친구들한테 가장 많이 듣는질문 답하기 Written by 루샤 드뎌!  화장품... 단상자 <b>인쇄<\/b> 감리중 부자재 코팅 감리중 감리 보는중_jpg. #외근 #하루순삭 #머리는띵 감리가면 늘 페인트... ",
+			"bloggername":"일상을 기록하다, 루샤블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sht01140",
+			"postdate":"20220201"
+		},
+		{
+			"title":"2022년 고양맞춤형일자리학교 스마트<b>인쇄<\/b> 기능기술직 현장... ",
+			"link":"https:\/\/blog.naver.com\/goyang_jobs?Redirect=Log&logNo=222730881542",
+			"description":"지역특화 <b>인쇄<\/b>산업 구인난 해소 + 취업 성공 사업목표: 현장<b>직무<\/b> 기능기술직 양성으로 인력 부족난 해소 및 세대교체 사업대상:청년, 이·전직 중장년층, 폐업한 자영업자, 경력단절여성, 장기실업자 등... ",
+			"bloggername":"[고양시통합일자리센터] 고양시 일자리의 모든 것",
+			"bloggerlink":"https:\/\/blog.naver.com\/goyang_jobs",
+			"postdate":"20220513"
+		},
+		{
+			"title":"[업무 상식] 학교생활기록부 국가<b>직무<\/b>능력표준 이수 상황의... ",
+			"link":"https:\/\/blog.naver.com\/ssjmja?Redirect=Log&logNo=222727716375",
+			"description":"생활기록부를 <b>인쇄<\/b>해서 보면 4번째 항목에 [자격증 및 인증 취득상황]이라는게 있다. 그리고 [자격증 및 인증 취득상황] 의 세부 항목을 들여다 보면 다시 [자격증 및 인증 취득상황] 과 [국가<b>직무<\/b>능력표준... ",
+			"bloggername":"꿈빛",
+			"bloggerlink":"https:\/\/blog.naver.com\/ssjmja",
+			"postdate":"20220510"
+		},
+		{
+			"title":"<b>직무<\/b>교육)마케팅관련자격증 및 <b>직무<\/b>역량",
+			"link":"https:\/\/blog.naver.com\/think1999?Redirect=Log&logNo=222684444848",
+			"description":"마케터가 하는 일은 무엇인지 <b>직무<\/b>역량은 무엇인지 관련 자격증에는 뭐가 있는지 가장 궁금해... 2.<b>인쇄<\/b>나 전자매체에 적절한 마케팅, 광고캠페인을 개발하고 실행한다. 3.특정기업 또는 사업체에 대한... ",
+			"bloggername":"조이컬러",
+			"bloggerlink":"https:\/\/blog.naver.com\/think1999",
+			"postdate":"20220329"
+		},
+		{
+			"title":"불평형전류 개선의 예 (경남 부산 <b>직무<\/b>고시점검대행)",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=222395790900",
+			"description":"부산 해운대 30층 호텔옥상에 실외기유닛 점검중에 바라본 풍경 저희는 <b>직무<\/b>고시점검 자료의 <b>인쇄<\/b>본과 파일본을 usb에 저장해 드리고 있으며 차후 선임자가 전기점검과 관련된 사진이나 서류를... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20210612"
+		},
+		{
+			"title":"예방할수 있습니다(부산 경남 양산 김해 창원 <b>직무<\/b>고시점검대행)",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=222729168631",
+			"description":"레이져프린터로 <b>인쇄<\/b>와 같이 PDF파일까지 작성하며 엑셀 매크로프로그램을 사용한 부정확한... com\/knhitech\/222726455483 &amp; 경남 부산 김해 창원 양산 전기안전<b>직무<\/b>고시대행 http:\/\/knhitech.co.kr\/ 대구 경북... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20220511"
+		},
+		{
+			"title":"<b>인쇄<\/b>기사 필기와 실기시험 출제기준, 실기시험 수행준거와... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222704539583",
+			"description":"<b>인쇄<\/b>기사(Engineer Printing) 자격은 기능·기술 분야, <b>인쇄<\/b>ㆍ목재ㆍ가구ㆍ공예 <b>직무<\/b> 분야, <b>인쇄<\/b>ㆍ사진 중<b>직무<\/b> 분야 기사 등급 국가기술자격으로 2022년 현재 정부 관련 부처는 고용노동부, 자격검정 수탁... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220418"
+		},
+		{
+			"title":"전기안전종합정보시스템(부산 경남 전기<b>직무<\/b>고시점검대행)",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=222609939287",
+			"description":"전기안전종합정보시스템 https:\/\/www.kes.go.kr\/web\/index.do <b>직무<\/b>고시점검자료 업로드 저희가 <b>직무<\/b>고시점검을 하고나서 <b>인쇄<\/b>본과 파일본을 드리는 것은 미리 이렇게 될 것이라 예측을 하여서 입니다..... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20220101"
+		},
+		{
+			"title":"편집디자이너 <b>직무<\/b>가이드",
+			"link":"https:\/\/blog.naver.com\/icgreen2111?Redirect=Log&logNo=222831291816",
+			"description":"오늘 편집디자이너가 하는 <b>직무<\/b>에 대해 알아보도록 해요! 편집디자인을 할때 필수적인 디자인... 크게 <b>인쇄<\/b>, 웹, 브랜딩 디자인으로 나뉘어지는데 <b>인쇄<\/b>는 포스터, 책, 전단지, 카탈로그, 브로슈어, 패키지... ",
+			"bloggername":"인천그린컴퓨터아카데미",
+			"bloggerlink":"https:\/\/blog.naver.com\/icgreen2111",
+			"postdate":"20220727"
+		},
+		{
+			"title":"<b>인쇄<\/b>기능사 필기와 실기시험 출제기준, 실기시험 수행준거와... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222664246468",
+			"description":"<b>인쇄<\/b>기능사(Craftsman Printing) 자격은 기능·기술 분야, <b>인쇄<\/b>·목재·가구·공예 <b>직무<\/b> 분야, <b>인쇄<\/b>·사진 중<b>직무<\/b> 분야 기능사 등급 국가기술자격으로 2022년 현재 정부 관련 부처는 고용노동부, 자격검정 수탁... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220305"
+		},
+		{
+			"title":"[삼육대학교]2022년 <b>직무<\/b> 공통 교육_업무 효율 높이는 한글... ",
+			"link":"https:\/\/blog.naver.com\/h333j333?Redirect=Log&logNo=222815116842",
+			"description":"○ 주제 : 삼육대학교 교직원 <b>직무<\/b>교육_한글(HWP)활용 과정 ○ 일정 : 07.18(월) \/ 09:00~18:00 (8H)... 이미지 <b>인쇄<\/b> 스타일 개요 양식컨트롤 메일머지 ○ 실습예제 첨부파일 한글_8h.zip 파일 다운로드... ",
+			"bloggername":"오피스위즈(IT실무 강의)",
+			"bloggerlink":"https:\/\/blog.naver.com\/h333j333",
+			"postdate":"20220717"
+		},
+		{
+			"title":"외국계기업 <b>직무<\/b>설명서(JD) 1편 | Marketing Assistant... ",
+			"link":"https:\/\/blog.naver.com\/yoojun0?Redirect=Log&logNo=222576317684",
+			"description":"이번에는 외국계기업 파트별 <b>직무<\/b>설명서(JD) 이해하기(Marketing Assistant 마케팅... : DM(Direct mail) 준비 및 발송 \/ 브로쇼 준비 (콘텐츠 편집 \/그래픽 작업 \/ <b>인쇄<\/b> 업체 컨텍... ",
+			"bloggername":"1:1 외국계 취업전략 | 커리어랩 브라이언코치",
+			"bloggerlink":"https:\/\/blog.naver.com\/yoojun0",
+			"postdate":"20211123"
+		},
+		{
+			"title":"경산채용정보-(주)보근. 캐릭터카드 <b>인쇄<\/b> 사원 채용",
+			"link":"https:\/\/blog.naver.com\/fktu-hrd?Redirect=Log&logNo=222808556181",
+			"description":"&lt;캐릭터카드 <b>인쇄<\/b> 사원 모집&gt; <b>직무<\/b>내용 : 캐릭터 카드 제조에 따른 작업 일체 급여조건 : 월 240만원 이상 \/ 상여금 60% 근무시간 : 09:00~18:00 \/ 주5일근무 \/ 잔업시 잔업수당 별도 지급 통근버스운행 : 08시... ",
+			"bloggername":"행복품고(GO) 건강담(談)은 산업단지 일자리 지원사업",
+			"bloggerlink":"https:\/\/blog.naver.com\/fktu-hrd",
+			"postdate":"20220712"
+		},
+		{
+			"title":"병원코디네이터 <b>직무<\/b>와 필요한 기술",
+			"link":"https:\/\/blog.naver.com\/show10201?Redirect=Log&logNo=222820594071",
+			"description":"의무 및 책임 효과적인 병원 코디네이터 <b>직무<\/b> 설명을 작성하려면 먼저 자세한 의무, 책임 및 기대치를... 승인 및 거부된 감사 요청 전달 데이터베이스에 로그인하고 퇴원 요약 스프레드시트를 <b>인쇄<\/b>하고 해당... ",
+			"bloggername":":)",
+			"bloggerlink":"https:\/\/blog.naver.com\/show10201",
+			"postdate":"20220722"
+		},
+		{
+			"title":"安 &quot;<b>직무<\/b>대행 체제 흔들림 없이&quot;…김기현 &quot;이준석 복귀하면... ",
+			"link":"https:\/\/blog.naver.com\/kst3175?Redirect=Log&logNo=222822444344",
+			"description":"安 &quot;<b>직무<\/b>대행 체제 흔들림 없이&quot;…김기현 &quot;이준석 복귀하면 갈등 커져&quot;CBS노컷뉴스 오수정 기자 메일보내기 2022-07-21 10:51 뉴스듣기 0 페이스북 트위터 밴드 카카오톡 URL 폰트사이즈 - + <b>인쇄<\/b> 안철수 &quot;조기전대론... ",
+			"bloggername":"지구촌다문화 뉴스",
+			"bloggerlink":"https:\/\/blog.naver.com\/kst3175",
+			"postdate":"20220721"
+		},
+		{
+			"title":"1-2학년 담임교사 기초학력 <b>직무<\/b>연수(1)",
+			"link":"https:\/\/blog.naver.com\/commi0424?Redirect=Log&logNo=222769680071",
+			"description":"드디어 시작된 담임교사 <b>직무<\/b>연수... 3년 내에 이수한 경험이 있으면 원격연수로 대체해도 되는데... 곱셈구구 보기표 - 도안은 컬러 <b>인쇄<\/b>하고 아이스크림막대 2개를 붙여 만들 수 있어 간단해보이는 교구!... ",
+			"bloggername":"배우고 기록하며 성장하자!",
+			"bloggerlink":"https:\/\/blog.naver.com\/commi0424",
+			"postdate":"20220612"
+		},
+		{
+			"title":"요양보호사 <b>직무<\/b>교육 안내서&quot;<b>직무<\/b>-e음&quot;, e-book 출시!",
+			"link":"https:\/\/blog.naver.com\/nhis_ingyeong?Redirect=Log&logNo=222807571467",
+			"description":"인천경기지역본부-<b>직무<\/b>교육기관-재가기관-요양보호사를 연결하고, 처음부터 끝까지 연결되어지는 내용을 확인해보시길 바랍니다. ↓↓↓↓↓↓↓↓ (click) ↓↓↓↓↓↓↓↓↓ 큰 글씨 <b>인쇄<\/b>는 첨부파일(PC... ",
+			"bloggername":"건보 인천경기지역본부 \"당신과 함께, 장기요양\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/nhis_ingyeong",
+			"postdate":"20220711"
+		},
+		{
+			"title":"인천에 계신 선생님들의 <b>직무<\/b>연수를 영상으로! Part 2",
+			"link":"https:\/\/blog.naver.com\/classboshow?Redirect=Log&logNo=222790211388",
+			"description":"지난 포스팅에 이어 인천광역시교육청교육연수원에서 진행되었던 교사 <b>직무<\/b>연수 강의영상에 대해... 출판\/<b>인쇄<\/b> 디자인사업, 포토그래피 이미지 사업, 크라우드펀딩사업이 있습니다. 교육서비스 사업으로는... ",
+			"bloggername":"즐거운 미래가치 디자인 에듀테크 기업 클라스보쇼",
+			"bloggerlink":"https:\/\/blog.naver.com\/classboshow",
+			"postdate":"20220627"
+		},
+		{
+			"title":"[<b>인쇄<\/b>·출판·편집 채용] 출판사 취업 &amp; 합격스펙, 출신대학, 전공... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221389549310",
+			"description":"<b>인쇄<\/b>·출판·편집 <b>직무<\/b>에 관심 있는 분들은 집중해주세요~ <b>인쇄<\/b>·출판·편집 채용공고 <b>인쇄<\/b>·출판·편집에 관심이 있는 취준생들이 만나면 좋은 공고! - 예림당 : 예림교육 출판·편집 팀장급 및 팀원급 경력직 채용... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20181101"
+		},
+		{
+			"title":"전기<b>직무<\/b>고시 무정전점검... 28) 부산 경남 울산<b>직무<\/b>고시... ",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=222365182280",
+			"description":"있으며 <b>직무<\/b>고시서식은 <b>인쇄<\/b>본과 측정파일본을 usb에 저장 하여 드리고 있습니다........................... 장시간의 실무적인 측정점검으로 자료의 용량이 10Gb 고압 저압반 열화상측정... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20210524"
+		},
+		{
+			"title":"[<b>인쇄<\/b>·출판·편집 채용] 출판사 취업 합격스펙, 전공, 출신대학... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221390092009",
+			"description":"<b>인쇄<\/b>·출판·편집 <b>직무<\/b>에 관심 있는 분들은 집중해주세요~ <b>인쇄<\/b>·출판·편집 채용공고 <b>인쇄<\/b>·출판·편집 <b>직무<\/b>가 목표인 당신을 위해 준비했습니다. 채용공고는 놓치지 말고 챙겨보세요:) - 예림당 : 예림교육 출판... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20181102"
+		},
+		{
+			"title":"(NCS<b>직무<\/b>능력연구소 한국농어촌공사) 2022 하반기 All-New... ",
+			"link":"https:\/\/blog.naver.com\/ksh_5904?Redirect=Log&logNo=222800804043",
+			"description":"NCS<b>직무<\/b>능력연구소 출판사 시대고시기획 발행일 2022-08-10 판형 190x260\/314p ISBN 9791138327206 상세설명 친환경 99.9% 항균잉크(V-CLEAN99)로 <b>인쇄<\/b>한 안심도서! 한국농어촌공사 전직렬 NCS + 행정직·토목직... ",
+			"bloggername":"용봉서적(YBbook)",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksh_5904",
+			"postdate":"20220705"
+		},
+		{
+			"title":"전기직 전공 한전 <b>직무<\/b> 면접 PDF 자료",
+			"link":"https:\/\/blog.naver.com\/qjatlr2589?Redirect=Log&logNo=222505843590",
+			"description":"아이패드에 넣어서 보시거나 혹은 A4용지로 양면 <b>인쇄<\/b>를 하셔서 시간 나실 때 한 번씩 봐주시면 좋을 것 같습니다. 한전 <b>직무<\/b>면접뿐만 아니라 전기직 <b>직무<\/b>면접을 준비하시는 데 도움이 되었으면 좋겠습니다.... ",
+			"bloggername":"취준생 일기장",
+			"bloggerlink":"https:\/\/blog.naver.com\/qjatlr2589",
+			"postdate":"20210914"
+		},
+		{
+			"title":"「2022 서울형 뉴딜일자리 <b>인쇄<\/b> 전문인력 양성사업」 참여업체... ",
+			"link":"https:\/\/blog.naver.com\/spic8631?Redirect=Log&logNo=222729582818",
+			"description":"근로자(참여자)의 서울시 <b>직무<\/b>교육, 간담회 등 <b>인쇄<\/b> 전문인력으로 역량 강화를 위한 교육 참여 보장 라. 뉴딜일자리 사업종료 후 참여자 채용이 가능한 업체 마. 선발심사 및 현장평가(필요시) 시 대표자... ",
+			"bloggername":"서울인쇄조합",
+			"bloggerlink":"https:\/\/blog.naver.com\/spic8631",
+			"postdate":"20220512"
+		},
+		{
+			"title":"코로나19 관련 체온측정 예(부산 경남 전기안전<b>직무<\/b>고시점검대행)",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=222155601386",
+			"description":"어제 오늘 열화상측정 사진이 148장으로 일일이 한장 한장 툴스에서 재확인하여 서식으로 <b>인쇄<\/b>를 합니다.... 열화상카메라를 코로나19 관련하여 체온측정에 적합하다 설득하고 전기<b>직무<\/b>고시 점검에도 꼭... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20201126"
+		},
+		{
+			"title":"브이드림×에어클래스 중증장애인 <b>직무<\/b>교육 수강 Real... ",
+			"link":"https:\/\/blog.naver.com\/ejhk7981?Redirect=Log&logNo=222443007621",
+			"description":"날짜 2021년 7월 23일 금요일 날씨 맑음 제목 10강 슬라이드쇼와 <b>인쇄<\/b>저장 슬라이드 쇼 슬라이드쇼... 에어클래스 <b>직무<\/b>교육 강의.. 웹형식 진행을 선택하면 슬라이드쇼가 창크기에 맟춰 실행함\/슬라이드 일부... ",
+			"bloggername":"빈방 - 누구나 와서 쉬는 곳...",
+			"bloggerlink":"https:\/\/blog.naver.com\/ejhk7981",
+			"postdate":"20210723"
+		},
+		{
+			"title":"의료종사자 <b>직무<\/b>필수핵심 의료법 [최종평가]",
+			"link":"https:\/\/blog.naver.com\/duelistwonis?Redirect=Log&logNo=222793425764",
+			"description":"#의료종사자 #<b>직무<\/b>필수핵심 #의료법 #최종평가 1. 의료법인 설립허가 시 필요한 서류가 아닌 것은 ? 1.... 명찰은 <b>인쇄<\/b>, 각인(刻印), 부착, 자수(刺繡) 또는 이에 준하는 방법으로 만들어야 한다. 3. 명찰의 규격과... ",
+			"bloggername":"my romantic gene is dominant",
+			"bloggerlink":"https:\/\/blog.naver.com\/duelistwonis",
+			"postdate":"20220629"
+		},
+		{
+			"title":"6개년 기출+무료건보특강, NCS<b>직무<\/b>능력연구소, 시대고시기획",
+			"link":"https:\/\/blog.naver.com\/ksh_5904?Redirect=Log&logNo=222832607061",
+			"description":"NCS<b>직무<\/b>능력연구소 출판사 시대고시기획 발행일 2022-08-25 판형 190x260\/324p ISBN 9791138329231 상세설명 친환경 99.9% 항균잉크(V-CLEAN99)로 <b>인쇄<\/b>한 안심도서! 1. 기업 소개를 담은... ",
+			"bloggername":"용봉서적(ybbook)\/우체국 당일발송,스프링 분철",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksh_5904",
+			"postdate":"20220728"
+		},
+		{
+			"title":"(NCS<b>직무<\/b>능력연구소,주택도시보증공사) 2022 하반기 All-New... ",
+			"link":"https:\/\/blog.naver.com\/ksh_5904?Redirect=Log&logNo=222803470664",
+			"description":"NCS<b>직무<\/b>능력연구소 출판사 시대고시기획 발행일 2022-08-25 판형 190x260\/454p ISBN 9791138326834 상세설명 친환경 99.9% 항균잉크(V-CLEAN99)로 <b>인쇄<\/b>한 안심도서! [Add+] 주요 공기업 NCS(2022년... ",
+			"bloggername":"용봉서적(YBbook)",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksh_5904",
+			"postdate":"20220707"
+		},
+		{
+			"title":"[제7기 NCS 청년기자단] NCS 국가<b>직무<\/b>능력표준에 대해... ",
+			"link":"https:\/\/blog.naver.com\/sbsky1106?Redirect=Log&logNo=222698872014",
+			"description":"제조업뿐만 아니라 법률, 문화 예술 디자인 방송, 건설, 음식 서비스, <b>인쇄<\/b> 목재 등등! 한국고용직업분류(KECO)에 따라 분류 후 대분류, 중분류, 소분류, 세분류로 나뉘어 세세하게 해당 <b>직무<\/b>를 수행하기... ",
+			"bloggername":"BLOG",
+			"bloggerlink":"https:\/\/blog.naver.com\/sbsky1106",
+			"postdate":"20220412"
+		},
+		{
+			"title":"추자초등학교 배움터지킴이 안전조끼 및 반사우의 전사<b>인쇄<\/b>",
+			"link":"https:\/\/blog.naver.com\/tx9975072?Redirect=Log&logNo=222715507704",
+			"description":"우의 <b>인쇄<\/b> 마이독스는 중국에서 <b>직무<\/b>역으로 저렴하게 물품을 수입 공급할 뿐만아니라. <b>인쇄<\/b>에 관한 모든 설비들도 갖추고 있어서 저렴하게 <b>인쇄<\/b> 진행 가능합니다. 물론 유료고요... 구매수량에 따라 <b>인쇄<\/b>비용도... ",
+			"bloggername":"마이독스",
+			"bloggerlink":"https:\/\/blog.naver.com\/tx9975072",
+			"postdate":"20220503"
+		},
+		{
+			"title":"폐업한 사업장 해당<b>직무<\/b> 경력 인증",
+			"link":"https:\/\/blog.naver.com\/sun12m08d?Redirect=Log&logNo=222684101022",
+			"description":"해당 <b>직무<\/b>로 근무했던 사업장을 선택하시고 이력서 발급 부분에 직종포함 여부에 체크하시고 신청을 클릭~~ 그러면 아래와 같이 화면이 나옵니다. 증명원 출력 클릭~~ 그런다음 <b>인쇄<\/b>할 수 있도록 창이 나옵니다.... ",
+			"bloggername":"건강한 삶을 살자",
+			"bloggerlink":"https:\/\/blog.naver.com\/sun12m08d",
+			"postdate":"20220327"
+		},
+		{
+			"title":"온라인 홍보 마케팅 지원단 <b>직무<\/b>교육 (2022-06-07)",
+			"link":"https:\/\/blog.naver.com\/dosim_senior?Redirect=Log&logNo=222780783696",
+			"description":"● 온라인 홍보마케팅 지원 <b>직무<\/b>교육 ● 일시 : 2022.6. 7(화) 13:00 ~ 18:30 ● 장소 : 도심권센터 1층 배움터... 카페운영, 디자인마이러브\/디자인.<b>인쇄<\/b> 등 한국문화콘텐츠창작협동조합\/행사 및 이벤트 기획... ",
+			"bloggername":"서울시도심권50플러스센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/dosim_senior",
+			"postdate":"20220627"
+		},
+		{
+			"title":"현대자동차(주) 부산서비스센터 전기안전관리자 <b>직무<\/b>고시점검... ",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=221262429362",
+			"description":"USB저장본 <b>직무<\/b>고시서식별 <b>인쇄<\/b>본과 파일을 16GB USB에 담아 드립니다 그리고 열화상 프로그램과 전력측정, 누설전류프로그램도 측정데이터와 같이. 왜 분기, 반기 연차별로 하지 않는가 하면 실무적인... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20180427"
+		},
+		{
+			"title":"전기<b>직무<\/b>고시점검과 관련된... (부산 경남 울산 <b>직무<\/b>고시점검대행)",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=222395179732",
+			"description":"저희는 <b>직무<\/b>고시점검 자료의 <b>인쇄<\/b>본과 파일본을 usb에 저장해 드리고 있으며 차후 선임자가 전기점검과 관련된 사진이나 서류를 usb에 추가 저장하시면 됩니다....... 그리고 저희는 별도의 대용량... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20210612"
+		},
+		{
+			"title":"<b>직무<\/b>정보 - 북디자이너(책표지디자이너)에 대해 알아봐요",
+			"link":"https:\/\/blog.naver.com\/baeoomup?Redirect=Log&logNo=222787313703",
+			"description":"<b>직무<\/b>정보 - 북디자이너(책표지디자이너)에 대해 알아봐요 어제는 한차례 비가 쏟아지는데 우산들 잘... 하지만 <b>인쇄<\/b>미디어에서 멀티미디어로 시대로 전환되면서 출판물이 점차 감소하고 편집 관련 프로그램의... ",
+			"bloggername":"생동감 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/baeoomup",
+			"postdate":"20220624"
+		},
+		{
+			"title":"7월 12일 조간-국힘, 권성동 <b>직무<\/b>대행 체제로 내홍 수습",
+			"link":"https:\/\/blog.naver.com\/pok2032?Redirect=Log&logNo=222808137287",
+			"description":"(정치) -與<b>직무<\/b>대행 맡은 권성동 &quot;환골탈태할 것&quot; -홍준표 &quot;尹대통령, MB·이재용 등 대대적 사면해야... 손팻말 <b>인쇄<\/b> 다 세금으로 하는데다가 그냥 언론에 사진 한장 영상 한장면 나오자고 하는 퍼모먼스를 요즘... ",
+			"bloggername":"한윤태의 정알못가이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/pok2032",
+			"postdate":"20220712"
+		},
+		{
+			"title":"<b>인쇄<\/b>기사 취업및 시험일정",
+			"link":"https:\/\/blog.naver.com\/qkddkanro56?Redirect=Log&logNo=222747370900",
+			"description":"<b>인쇄<\/b>물검사, <b>인쇄<\/b>생산관리 등의 <b>직무<\/b> 수행하게 됩니다 주요 취업처로는 <b>인쇄<\/b>전문업체, 종합<b>인쇄<\/b> 및 출판업체, 스크린<b>인쇄<\/b>업체, 신문사 및 정기간행물 발간업체, 제판관련업체등에 취업이 가능한것으로... ",
+			"bloggername":"수미나라",
+			"bloggerlink":"https:\/\/blog.naver.com\/qkddkanro56",
+			"postdate":"20220526"
+		},
+		{
+			"title":"31일 일정 (부산 경남 김해밀양 창녕 함안전기<b>직무<\/b>고시점검)",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=222076752216",
+			"description":"한장한장의 사진을 재점검 해보고 <b>인쇄<\/b>하며 파일원본은 usb에 담아서 선임자에게 드리며................. 경남 부산 김해 창원전기<b>직무<\/b>고시점검대행 http:\/\/knhitech.co.kr\/ 대구 경북... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20200901"
+		},
+		{
+			"title":"현직자가 말하는 화장품BM의 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/na-_____-vv?Redirect=Log&logNo=222275955888",
+			"description":"매력적인 <b>직무<\/b>입니다 BM(Brand Manager) 상품 개발 <b>직무<\/b>로 브랜드 제품의 상품기획서부터 출시되기까지... 생산부터, <b>인쇄<\/b> 입히고, 사출, 캡핑까지 한방에 진행된 날이였답니다 그래서 운좋게(?) 완성된 용기 샘플을... ",
+			"bloggername":"숩닝의 뷰티레코드",
+			"bloggerlink":"https:\/\/blog.naver.com\/na-_____-vv",
+			"postdate":"20210315"
+		},
+		{
+			"title":"안전보건관리책임자 법정 <b>직무<\/b>교육 온라인으로 이수하세요!",
+			"link":"https:\/\/blog.naver.com\/ksea1004?Redirect=Log&logNo=220903227859",
+			"description":"■ 교육 수료 프로세스 온라인 회원가입 →수강신청→교육비 입금→온라인 학습→평가(시험) 및 설문→수료\/인쇄 집체 회원가입→수강신청→교육비 입금→교육기관으로 방문학습→수료\/<b>인쇄<\/b> ■ <b>직무<\/b>교육... ",
+			"bloggername":"대한안전교육협회 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksea1004",
+			"postdate":"20170105"
+		},
+		{
+			"title":"[코디네이터 <b>직무<\/b>]코디네이터가 하는일",
+			"link":"https:\/\/blog.naver.com\/alswn2th?Redirect=Log&logNo=222811480210",
+			"description":"피부진료응대시 진료실에 함께 들어가서 내용메모 및 요약 후 진단명으로 처방전 <b>인쇄<\/b> 4. 중간중간... 필요없는 <b>직무<\/b>이다 보니 20대 초반 선생님들이 많이 지원하는 편. 그러나 일이 힘들기 때문에 이직율도... ",
+			"bloggername":"피부과에서 근무하는 간호조무사",
+			"bloggerlink":"https:\/\/blog.naver.com\/alswn2th",
+			"postdate":"20220714"
+		},
+		{
+			"title":"NCS<b>직무<\/b>능력연구소 김현철 외, 시대고시기획",
+			"link":"https:\/\/blog.naver.com\/ksh_5904?Redirect=Log&logNo=222785890968",
+			"description":"NCS<b>직무<\/b>능력연구소 김현철 외 출판사 시대고시기획 발행일 2022-07-20 판형 210x260\/412p ISBN 9791138325790 상세설명 친환경 99.9% 항균잉크(V-CLEAN99)로 <b>인쇄<\/b>한 안심도서! 1. 2021~2020년 상황판단... ",
+			"bloggername":"용봉서적(YBbook)",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksh_5904",
+			"postdate":"20220623"
+		},
+		{
+			"title":"NCS학습모듈, 국가<b>직무<\/b>능력표준, 평생교육원 제본하기[모두카피]",
+			"link":"https:\/\/blog.naver.com\/moducopy1004?Redirect=Log&logNo=222022604179",
+			"description":"모두카피,<b>인쇄<\/b>소,국가<b>직무<\/b>능력표준제본하기,국비지원학원교재,한림공업고등학교 안녕하세요.모두카피입니다. 오늘 소개해드릴 교재는 한림공업고등학교에서 주문하신 NCS학습모듈... ",
+			"bloggername":"m o d u c o p y 1 0 0 4 ♡",
+			"bloggerlink":"https:\/\/blog.naver.com\/moducopy1004",
+			"postdate":"20200706"
+		},
+		{
+			"title":"한국조폐공사면접 : <b>직무<\/b>역량\/조직적합성면접 단기속성!",
+			"link":"https:\/\/blog.naver.com\/dltkd7979?Redirect=Log&logNo=222161352885",
+			"description":"일반전형은 행정사무 일반과 장애 총 4명 <b>인쇄<\/b>. 기계. 전자 <b>직무<\/b>는 10명, 제지기술 2명 고졸 전형에서는 <b>인쇄<\/b>. 기계, 전자 기술 분야로 총 7명으로 총 23명 인원을 채용 모집할 계획입니다 필기합격자분들은 12\/8-12... ",
+			"bloggername":"연희동사랑꾼story",
+			"bloggerlink":"https:\/\/blog.naver.com\/dltkd7979",
+			"postdate":"20201203"
+		},
+		{
+			"title":"[라이브] 2022 보건교사<b>직무<\/b>연수를 라이브로!",
+			"link":"https:\/\/blog.naver.com\/classboshow?Redirect=Log&logNo=222745598993",
+			"description":"오늘은 보건교사<b>직무<\/b>연수를 라이브로 진행한 이야기로 찾아뵙게 되었어요~ 클라스보쇼는 컨퍼런스... 대형현수막부터 쇼파, 책상, 각종 집기, 촬영 소품까지 준비하며 또한 대형 <b>인쇄<\/b>를 진행하여 각종 방송을... ",
+			"bloggername":"즐거운 미래가치 디자인 에듀테크 기업 클라스보쇼",
+			"bloggerlink":"https:\/\/blog.naver.com\/classboshow",
+			"postdate":"20220526"
+		},
+		{
+			"title":"[취업] 별정우체국 사무원 자소서 <b>직무<\/b>수행계획서 첨삭!",
+			"link":"https:\/\/blog.naver.com\/jw811p?Redirect=Log&logNo=222736978244",
+			"description":"오늘은 최근 진행했던 별정우체국 사무원 자소서 및 <b>직무<\/b>수행계획서 첨삭 후기를 공유합니다.... 구체적인 상황을 파악해보니 자기소개서랑 <b>직무<\/b>수행계획서 작성에 어려움을 느끼고 있었고, 이와 관련해서... ",
+			"bloggername":"일상취업연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/jw811p",
+			"postdate":"20220518"
+		},
+		{
+			"title":"GS리테일 <b>직무<\/b>수행 카드 바우처 홀더",
+			"link":"https:\/\/blog.naver.com\/redprintsupport?Redirect=Log&logNo=222548806586",
+			"description":"GS리테일 <b>직무<\/b>수행 카드 바우처 홀더 RedPrint POD : Printing On Demand 사 이 즈ㅣ 150mmx150mm 용 지ㅣ 딤플 뉴트럴그레이 200g <b>인 쇄<\/b>ㅣ 단면 먹1도 <b>인쇄<\/b> 후 가 공ㅣ 단면 먹박유광 재질특징 | 선명한 펠트 엠보무늬가... ",
+			"bloggername":"레드프린트 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/redprintsupport",
+			"postdate":"20211026"
+		},
+		{
+			"title":"**그룹사옥 전기안전관리자 <b>직무<\/b>고시점검 사진 - (경남... ",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=221316572647",
+			"description":"의견 <b>직무<\/b>고시서식의 <b>인쇄<\/b>본과 파일, 프로그램을 usb에 담아서 전달 총 3일간 진행예정이며 오늘은 수변전실을 중심으로 점검을 하였으며 내일은 지상층의 저압부를 점검할 예정입니다 점검을... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20180710"
+		},
+		{
+			"title":"7회+무료NCS특강, NCS<b>직무<\/b>능력연구소, 시대고시기획",
+			"link":"https:\/\/blog.naver.com\/ksh_5904?Redirect=Log&logNo=222791004748",
+			"description":"NCS<b>직무<\/b>능력연구소 출판사 시대고시기획 발행일 2022-08-30 판형 210x260\/564p ISBN 9791138327022 상세설명 친환경 99.9% 항균잉크(V-CLEAN99)로 <b>인쇄<\/b>한 안심도서! 1. 2022년 상반기 최신기출복원문제... ",
+			"bloggername":"용봉서적(YBbook)",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksh_5904",
+			"postdate":"20220627"
+		},
+		{
+			"title":"공기업에 취직하고 싶다면? NCS기반 공무직 <b>직무<\/b>이해 교육!",
+			"link":"https:\/\/blog.naver.com\/nkrf_blog?Redirect=Log&logNo=221591966350",
+			"description":"식품가공, <b>인쇄<\/b>·목재·가구·공예, 환경·에너지·안전, 농림어업 등)으로 나눈 뒤 중분류, 소분류, 세분류로 직업을 상세하게 구분해 각각의 직업에 어떤 <b>직무<\/b>능력이 필요한지 공개하고 각각의 학습모듈을... ",
+			"bloggername":"남북하나재단 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/nkrf_blog",
+			"postdate":"20190722"
+		},
+		{
+			"title":"코멘토 A&amp;R <b>직무<\/b> 체험 : 휴학 중 추천 프로그램",
+			"link":"https:\/\/blog.naver.com\/kshsunny0227?Redirect=Log&logNo=222667628209",
+			"description":"&lt;코멘토&gt; 프로그램 후기 아티스트 앨범 제작하는 A&amp;R <b>직무<\/b> : 앨범 컨셉 선정, 제작 일정 등 4학년을... 및 <b>인쇄<\/b>) 3) 홍보 마케팅 제작 일정 (내,외부 컨텐츠 제작 일정 및 릴리즈 일정, 언론홍보 일정, 쇼케이스... ",
+			"bloggername":"생산적인 인생",
+			"bloggerlink":"https:\/\/blog.naver.com\/kshsunny0227",
+			"postdate":"20220309"
+		},
+		{
+			"title":"전기안전관리자 <b>직무<\/b>고시점검을 저희는 이렇게 하고 있습니다",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=221716489559",
+			"description":"인하지만 <b>직무<\/b>고시서식 작성시 더 세세하게 살펴 봅니다...) 열화상측정은 고해상도의 플리어 T620 2대로 하며 서식 <b>인쇄<\/b>와 파일로 데이터를 usb에 저장해 드리고 있습니다. 저압절연저항점검은... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20191123"
+		},
+		{
+			"title":"한화 무역 <b>직무<\/b>분석 \/ 해외",
+			"link":"https:\/\/blog.naver.com\/e_c_g_g?Redirect=Log&logNo=220830987579",
+			"description":"해외 수출입 영업 (주)한화\/무역의 수출입영업 <b>직무<\/b>는 크게 여섯개 분야로 구분할 수 있습니다.... 또한, <b>인쇄<\/b>용지와 산업용지, 펄프를 취급하며 수출입 및 삼국무역, 국내 구매\/판매 등 다양한 형태로... ",
+			"bloggername":"Warehouse by hye",
+			"bloggerlink":"https:\/\/blog.naver.com\/e_c_g_g",
+			"postdate":"20161008"
+		},
+		{
+			"title":"전기안전관리자 <b>직무<\/b>고시점검대행업무지원용 보유계측기 현황... ",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=221453408454",
+			"description":"<b>직무<\/b>고시서식은 7개 의 항목으로 7개의 파일철에 <b>인쇄<\/b>본과 측정데이터 &amp; 현장사진 그리고 프로 그램을 usb 16GB에 저장하여 드리므로 선임자의 점검기술 향상을 도모할 수 있습니다................... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20190129"
+		},
+		{
+			"title":"[직장IN_꿀팁UP] 디자인 <b>직무<\/b> &amp; 게임 회사 취업 꿀팁 -&gt; <b>직무<\/b> 별... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221380786340",
+			"description":"<b>직무<\/b> 별 용어 정리 디자인 \/ 웹 · 게임 분야 디자인 블리드 (Bleed)Ⅰ사진이나 일러스트를... 하리꼬미Ⅰ<b>인쇄<\/b> 할 때 필름을 모아서 붙이는 것 웹 · 게임 ARPUⅠAverage Revenue Uer User 일정 기간... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20181019"
+		},
+		{
+			"title":"적정기준온도는? (경남 김해 장유 전기<b>직무<\/b>고시점검대행)",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=221690366735",
+			"description":"경남 김해 창원전기<b>직무<\/b>고시대행 http:\/\/knhitech.co.kr\/ 대구 경북 전기<b>직무<\/b>고시대행 https:\/\/blog.naver.com\/js_3249 <b>인쇄<\/b>본은 레이져프린터로 출력하며 정전시에만 보완이 가능한 열화부분은 사진만 보아도... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20191027"
+		},
+		{
+			"title":"한국조폐공사 채용 (2021하, <b>인쇄<\/b>기계기술21)",
+			"link":"https:\/\/pipexcel.tistory.com\/527",
+			"description":"komsco.recruiton.kr (3) 채용공고 (4) <b>직무<\/b>기술서 <b>인쇄<\/b>·기계기술.pdf 0.07MB (5) 자기소개서 항목 (6) 이전 채용공고 한국조폐공사 채용 (2020상, 기계전자기술 21) 기계전자기술... ",
+			"bloggername":"배관쟁이 :: 배관쟁이",
+			"bloggerlink":"https:\/\/pipexcel.tistory.com\/",
+			"postdate":"20211109"
+		},
+		{
+			"title":"2016년 전북은행 면접 후기 (토론면접 &amp; <b>직무<\/b>적합성면접... ",
+			"link":"https:\/\/blog.naver.com\/egg1940?Redirect=Log&logNo=220824116071",
+			"description":"2016년 전북은행 면접 후기 (토론면접 &amp; <b>직무<\/b>적합성면접 &amp; 인성면접) 안녕하세요, 햇반입니다! 이번에도... 처음에는 멋모르고(?) 미리 <b>인쇄<\/b>한 자소서를 보고 베꼈지만, 확인하시고는 바로 걷어가시네요... ^^;;... ",
+			"bloggername":"햇반의 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/egg1940",
+			"postdate":"20160929"
+		},
+		{
+			"title":"MS word 워드 단축키로 <b>직무<\/b>를 효율적으로!!",
+			"link":"https:\/\/blog.naver.com\/easyit119?Redirect=Log&logNo=222794361823",
+			"description":"잘 활용하셔서 <b>직무<\/b>를 효율적으로 하세요!! 단축키를 알면 작업할 때 훨씬 수월하지요.... F5 <b>인쇄<\/b> Ctrl + P <b>인쇄<\/b> 미리보기 Ctrl + F2 끝내기 Alt + F4 &lt;글꼴 단축키&gt; Ctrl+Q 단락 서식 제거 Ctrl... ",
+			"bloggername":"해운대창세기컴",
+			"bloggerlink":"https:\/\/blog.naver.com\/easyit119",
+			"postdate":"20220630"
+		},
+		{
+			"title":"고퀄리티 현수막 디자인 및 <b>인쇄<\/b> 잘하는 곳  _ 울산산업고 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/2742417?Redirect=Log&logNo=221176692436",
+			"description":"고퀄리티의 현수막 디자인 및 <b>인쇄<\/b> 잘하는 곳은 오렌지디자인!",
+			"bloggername":"orange story",
+			"bloggerlink":"https:\/\/blog.naver.com\/2742417",
+			"postdate":"20180103"
+		},
+		{
+			"title":"인천항만공사 ncs <b>직무<\/b>능력검사 후기, 사무행정\/경영지원... ",
+			"link":"https:\/\/blog.naver.com\/yunheekim1?Redirect=Log&logNo=220315835219",
+			"description":"신입이 <b>인쇄<\/b>와 관련한 질문을 하기 위한 것이였다. ㅁㅁ의 결과가 출력될 수 있게 하려면 어떻게 설명을 해줘야 하는가?] 이런 문제였구요! 기술 등의 전문적인 분야의 경우 <b>직무<\/b>능력검사가 인재를 채용하는데... ",
+			"bloggername":"방울콩언니의 일상블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/yunheekim1",
+			"postdate":"20150330"
+		},
+		{
+			"title":"<b>직무<\/b>고시점검대행 계약서의 검토(부산 경남 대구 경북<b>직무<\/b>고시... ",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=221936349429",
+			"description":"다 <b>인쇄<\/b>한다면 업무량이 엄청나 프린터기의 토너의 소비량 도 1개는 거뜬.................................. 경남 부산 김해 창원전기<b>직무<\/b>고시대행 http:\/\/knhitech.co.kr\/ 대구 경북... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20200429"
+		},
+		{
+			"title":"[세방(주) <b>직무<\/b> 인터뷰] 총무팀 김정원 사원",
+			"link":"https:\/\/blog.naver.com\/globalsebang21?Redirect=Log&logNo=221215057276",
+			"description":"<b>직무<\/b>인터뷰에서 일곱 번째로 찾아간 팀은 바로바로~ 총무팀입니다! 핵심을 꿰뚫는 예리함으로 문제를... 그리고 복합기에 개인 ID카드를 인식시키고 <b>인쇄<\/b>하는 방식으로 바꿈으로써 <b>인쇄<\/b>물이 섞이는 일을... ",
+			"bloggername":"세방(주) 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/globalsebang21",
+			"postdate":"20180223"
+		},
+		{
+			"title":"[자격증] <b>인쇄<\/b>기사 필기 실기 기출문제 \/ [다나와] 시험정보",
+			"link":"https:\/\/blog.naver.com\/soil_n?Redirect=Log&logNo=130141187651",
+			"description":"□ 변천과정 1991년 <b>인쇄<\/b>기사1급 신설 -&gt; 2008년 <b>인쇄<\/b>기사로 통합 □ 수행<b>직무<\/b> <b>인쇄<\/b>공정 계획수립, <b>인쇄<\/b>판의 제작, <b>인쇄<\/b>물의 검사, <b>인쇄<\/b>생산관리 등에 <b>직무<\/b>를 수행. □ 출제경향 잉크, 피<b>인쇄<\/b>체, <b>인쇄<\/b>기계... ",
+			"bloggername":"자격의 모든것",
+			"bloggerlink":"https:\/\/blog.naver.com\/soil_n",
+			"postdate":"20120625"
+		},
+		{
+			"title":"생산.품질관리 <b>직무<\/b>, 필요한 &apos;이 것&apos; 은?",
+			"link":"https:\/\/blog.naver.com\/joe9120?Redirect=Log&logNo=220036758979",
+			"description":"돈만 주면 된다고 하나봐요ㅎㅎ) 평소 생산관리, 품질관리 <b>직무<\/b>에 관심이 있던터라 수강료 15만원은... 자격증은 홈페이지에서 <b>인쇄<\/b>하시면 받을 수 있어요 참 쉽죠잉~ 아참! 식스시그마를 취득하는 이유는... ",
+			"bloggername":"나조의 나불로그 ♤",
+			"bloggerlink":"https:\/\/blog.naver.com\/joe9120",
+			"postdate":"20140621"
+		},
+		{
+			"title":"(전기안전관리자 <b>직무<\/b>고시점검) - 김해지역 전기안전관리대행",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=221391469321",
+			"description":"제1변전실 측정점검데이터가 3.5GB 됩니다 <b>직무<\/b>고시서식은 각 점검항목별로 7개로 세분화하여 <b>인쇄<\/b>하고 정리하여 만들며 측정 데이터와 현장사진 그리고 열화상, 전력품질 등 PC프로그램을 16GB usb에... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20181104"
+		},
+		{
+			"title":"<b>직무<\/b>능력이 쌓고싶다면... 유연<b>인쇄<\/b>전자\/반도체 디스플레이... ",
+			"link":"https:\/\/blog.naver.com\/ddobaki224?Redirect=Log&logNo=220732735252",
+			"description":"<b>직무<\/b>능력GoGo! 이 포스팅에 앞서 두번의 포스팅에 거쳐 전자부품연구원 전북지역본부의 &quot;유연<b>인쇄<\/b>전자\/반도체 디스플레이 핵심과정&quot;에 대해 소개를 드렸었는데요 ~!! 사업관련 홍보물을 첨부 드리면 더 이해가... ",
+			"bloggername":"전자부품연구원 전북지역본부-이공계전문기술연수",
+			"bloggerlink":"https:\/\/blog.naver.com\/ddobaki224",
+			"postdate":"20160610"
+		},
+		{
+			"title":"출력한 공문에는 관리 책임이 따릅니다\/ 원격 <b>직무<\/b>연수 추천",
+			"link":"https:\/\/blog.naver.com\/babodolmin?Redirect=Log&logNo=221862572842",
+			"description":"시도교육청별로 이러한 필수 연수를 모아서 한 번에 듣는 &quot;필수연수 패키지&quot; 같은 것도 있으니 참고하세요.) 이밖에도 선생님의 <b>직무<\/b>와 관련한 다양한 <b>직무<\/b>연수를 연간 60시간 이상 듣는 것을 권장하고 있으며... ",
+			"bloggername":"꿈을 닮아가는 사람, 우리가족행복연구소장",
+			"bloggerlink":"https:\/\/blog.naver.com\/babodolmin",
+			"postdate":"20200319"
+		},
+		{
+			"title":"[교육안내] 부동산 중개보조원 <b>직무<\/b>교육에 대한 교육내용 및... ",
+			"link":"https:\/\/blog.naver.com\/cjoin2010?Redirect=Log&logNo=220906691604",
+			"description":"다른 사무실로 이직을 했을때에도 → <b>직무<\/b>교육 수료증을 다시 <b>인쇄<\/b>만 하면 구청 등록이 가능한거죠. 서울 교육기관중 하나는 http:\/\/hrd.changjoin.co.kr 이에요. 여기는 핸드폰인증이나 계좌인증 진행하고 있네요.",
+			"bloggername":"유용한정보가 한가득",
+			"bloggerlink":"https:\/\/blog.naver.com\/cjoin2010",
+			"postdate":"20170109"
+		},
+		{
+			"title":"브이드림X에어클래스 중증장애인 <b>직무<\/b>교육 수강 Real... ",
+			"link":"https:\/\/blog.naver.com\/ejhk7981?Redirect=Log&logNo=222417790000",
+			"description":"파일 전송 및 <b>인쇄<\/b> 시 문서 배치가 바뀌어 설정 수정 요 편집 용지 간단 설정은 이 아이콘을 클릭 한다 에어클래스 <b>직무<\/b>교육 강의 편집 용지 여백을 너무 좁게 설정할 경우 <b>인쇄<\/b> 시 결과물이 좋지않다",
+			"bloggername":"빈방 - 누구나 와서 쉬는 곳...",
+			"bloggerlink":"https:\/\/blog.naver.com\/ejhk7981",
+			"postdate":"20210702"
+		},
+		{
+			"title":"보고서 작성 방법(경남 부산 경북 대구지역 전기<b>직무<\/b>고시대행점검)",
+			"link":"https:\/\/blog.naver.com\/knhitech?Redirect=Log&logNo=221563514980",
+			"description":"점검 후 서식작성과 <b>인쇄<\/b>출력을 한 뒤 측정파일은 순서대로 정리하 여서 다른 점검자료와 같이 usb 16G에 담아 드리고 있습니다... 전기안전관리자 <b>직무<\/b>고시대행점검 업무지원 (경남 부산 경북... ",
+			"bloggername":"경남.부산.울산.창원.김해전기안전관리자직무고시대행",
+			"bloggerlink":"https:\/\/blog.naver.com\/knhitech",
+			"postdate":"20190616"
+		},
+		{
+			"title":"코레일 채용 2018 코레일 NCS <b>직무<\/b>능력시험 고시넷 NCS 책추천",
+			"link":"https:\/\/blog.naver.com\/soransoran7?Redirect=Log&logNo=221226961482",
+			"description":"NCS <b>직무<\/b>능력의 항목은 의사소통능력 \/ 수리능력 \/ 문제해결능력 \/ 정보능력 4가지 분야가 있어요 2018년 올해 초에 <b>인쇄<\/b>,발행된 따끈따끈한 교재라 최근 기출문제들이 수록 되어 있어 이 책만 열심히 보면... ",
+			"bloggername":"소란의 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/soransoran7",
+			"postdate":"20180312"
+		},
+		{
+			"title":"알아두면 쓸모있는! 산업분야와 5대<b>직무<\/b>, ncs 국가<b>직무<\/b>능력표준",
+			"link":"https:\/\/blog.naver.com\/youthjobs?Redirect=Log&logNo=222656705169",
+			"description":"식품가공 <b>인쇄<\/b> 목재 가구 공예 환경 에너지 안전 농림어업 헉헉 정말 많죠? 우리 나라 직업을 이렇게 총 24가지로 분류하고있습니다. 그러면! 이중에 대표적인 <b>직무<\/b>는 어떤게 있을까요? 5대 대표<b>직무<\/b>를... ",
+			"bloggername":"청년취업공작소",
+			"bloggerlink":"https:\/\/blog.naver.com\/youthjobs",
+			"postdate":"20220224"
+		}
+	]
+}

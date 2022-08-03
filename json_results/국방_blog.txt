@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:18 +0900",
+	"total":1008053,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[M프렌즈] 육군과 함께하는 <b>국방<\/b>문화체험 코스",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222829889001",
+			"description":"육군과 함께하는 <b>국방<\/b>문화체험 코스 안녕하세요 여러분! M프렌즈7기 이창미입니다 오늘은 육군 홈페이지에 소개된 <b>국방<\/b>문화 체험코스 소개를 가지고 왔습니다. 육군 홈페이지에는 더 많은... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220726"
+		},
+		{
+			"title":"생활 속 제도 안내 2_교통안전, 교육-가족, 보건복지, <b>국방<\/b> 분야",
+			"link":"https:\/\/blog.naver.com\/arad93?Redirect=Log&logNo=222797422223",
+			"description":"분야, <b>국방<\/b> 분야에서 달라지는 제도에 대해 안내해 드리겠습니다. 교통안전 분야 1. 회전교차로... 신설 <b>국방<\/b> 분야 10. 군 사법제도 개편 성폭력범죄, 사망 범죄, 임대 전 범죄는 민간 법원에서 수사 및 재판을... ",
+			"bloggername":"▣ 제주백석 공인중개사사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/arad93",
+			"postdate":"20220705"
+		},
+		{
+			"title":"2011-2015 세계<b>국방<\/b> 지상로봇 획득동향",
+			"link":"https:\/\/richcat.tistory.com\/9814",
+			"description":"고 스몰미 한반도선진화재단 Honsun Foundation Small ME Www.smallme.co.kr 한선 프리미엄 리포트 Hansun Premium Report 주 제 : 2011~2015 세계 <b>국방<\/b> 지상로봇 획득 동향 발제자 : 강인원 <b>국방<\/b>기술품질원 방산정보팀 연구위원 일... ",
+			"bloggername":"리치캣의 현재 그리고 미래",
+			"bloggerlink":"https:\/\/richcat.tistory.com\/",
+			"postdate":"20220126"
+		},
+		{
+			"title":"군입대 장병이 알면 좋은 <b>국방<\/b>·병무 제도",
+			"link":"https:\/\/blog.naver.com\/ihappy4080?Redirect=Log&logNo=222795006465",
+			"description":"2022년 하반기부터 달라지는 <b>국방<\/b>·병무 제도 <b>국방<\/b>의 의무는 대한민국 남자라면 반드시 짊어져야 할 신성한 국민의 의무다. 아들을 군대에 보낸 부모나 입영을 앞두고 있는 20대 초반이라면 처음 경험하는 <b>국방<\/b>... ",
+			"bloggername":"이유없이 행복하라!",
+			"bloggerlink":"https:\/\/blog.naver.com\/ihappy4080",
+			"postdate":"20220713"
+		},
+		{
+			"title":"계룡세계군문화엑스포 2022 대한민국 <b>국방<\/b>도시에서 열리는... ",
+			"link":"https:\/\/withbeatles.tistory.com\/5936",
+			"description":"계룡시는 대한민국 <b>국방<\/b> 도시로 천혜의 자연경관을 바탕으로 <b>국방<\/b>의 핵심인 육군본부, 해군본부, 공군본부 뿐만 아니라 군 주요기관 및 시설이 위치해 전국 최대의 <b>국방<\/b> 분야 특성화 지역이다.... ",
+			"bloggername":"올려다보면 하늘 내려다보면 바다.",
+			"bloggerlink":"https:\/\/withbeatles.tistory.com\/",
+			"postdate":"20220618"
+		},
+		{
+			"title":"2022년 제4회 <b>국방<\/b>사업관리사 국가자격검정 시행계획 공고",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222812480892",
+			"description":"2022년 제4회 <b>국방<\/b>사업관리사 국가자격검정을 시행합니다! <b>국방<\/b>사업관리사란? <b>국방<\/b>사업관리사란 군인사법 제46조의4 및 동법 시행규칙 제83조의 3에 따라 방위사업청 방위사업교육원에서 시행하는... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220715"
+		},
+		{
+			"title":"통일 + 핵무기 + 자주<b>국방<\/b> + 국산품 + 노동",
+			"link":"https:\/\/blog.naver.com\/knock001?Redirect=Log&logNo=222802150751",
+			"description":"들어가며 만약 통일을 외치고 핵무기 무장에 성공하고 자주<b>국방<\/b>에 성공하고 한국인 모두가... Idx=2769&amp;Newsnumb=2018012769 통일을 외치고 자주<b>국방<\/b>에 성공하고 핵무장에 성공한 이웃이 이미 있을지... ",
+			"bloggername":"무르 의 공방",
+			"bloggerlink":"https:\/\/blog.naver.com\/knock001",
+			"postdate":"20220706"
+		},
+		{
+			"title":"따른 군 사법제도 개편 등 하반기 달라지는 사회‧문화‧<b>국방<\/b> 정책",
+			"link":"https:\/\/blog.naver.com\/mcst_pr?Redirect=Log&logNo=222817132609",
+			"description":"하반기 달라지는 것들 2.사회·문화·<b>국방<\/b> 주민등록증 모바일 확인서비스 시행, 온라인 청원 및 공개 청원 전면 시행 등 사회·문화·<b>국방<\/b> 분야 가운데 하반기에 달라지는 주요 내용을 살펴봤습니다. 이 같은... ",
+			"bloggername":"<공감> 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mcst_pr",
+			"postdate":"20220718"
+		},
+		{
+			"title":"[속보] 폴란드 <b>국방<\/b>장관, K2 전차 180대와 FA-50 경공격기 48대... ",
+			"link":"https:\/\/blog.naver.com\/orangeshirts?Redirect=Log&logNo=222824533720",
+			"description":"폴란드 언론 매체가 현지 시각 7월 22일, 폴란드의 Mariusz Błaszczak(부아쉬착) 부총리 겸 <b>국방<\/b>장관이 주간지 &quot;Sieci&quot; 와의 인터뷰에서 3개 편대 48대의 FA-50 경공격기와 K2 블랙팬서... ",
+			"bloggername":"이성찬 블로그 - Warfare Systems & Issues",
+			"bloggerlink":"https:\/\/blog.naver.com\/orangeshirts",
+			"postdate":"20220722"
+		},
+		{
+			"title":"2023학년도 군사학과 신입생 모집 및 군 간부(<b>국방<\/b>공무원)... ",
+			"link":"https:\/\/blog.naver.com\/ysth_news?Redirect=Log&logNo=222829167392",
+			"description":"#2023학년도 #군사학과신입생모집및군간부 #<b>국방<\/b>공무원진로 안내 경기과학기술대학교는 대한민국 정부가 설립하고 지원하는 대학으로서 1999년 산업발 전과 산업기술 수요에 부합하고 경쟁력 있는... ",
+			"bloggername":"서인고 꿈이루미",
+			"bloggerlink":"https:\/\/blog.naver.com\/ysth_news",
+			"postdate":"20220726"
+		},
+		{
+			"title":"에스토니아의 <b>국방<\/b> 로봇 전문업체'AI 로봇 탱크' 첫 실사격... ",
+			"link":"https:\/\/blog.naver.com\/vkm3000?Redirect=Log&logNo=222794428623",
+			"description":"에스토니아의 <b>국방<\/b> 로봇 전문업체'AI 로봇 탱크' 첫 실사격 영상 공개 ┃<b>국방<\/b> 로봇, 무인전투차량 첫 실사격 훈련 \/ '로봇 전투' 시대 성큼 우리 앞에 \/ 에스토니아의 <b>국방<\/b> 로봇 전문업체 제작 \/ ‘타입 엑스 로봇... ",
+			"bloggername":"서울1TV",
+			"bloggerlink":"https:\/\/blog.naver.com\/vkm3000",
+			"postdate":"20220630"
+		},
+		{
+			"title":"<b>국방<\/b>부, <b>국방<\/b> AI발전 모델 정립",
+			"link":"https:\/\/blog.naver.com\/kips1214?Redirect=Log&logNo=222824515513",
+			"description":"<b>국방<\/b>부는 22일 윤석열정부 <b>국방<\/b>분야 업무보고에서 ‘<b>국방<\/b>혁신 4.0을 통한 첨단과학기술軍 육성’ 측면에서, ‘<b>국방<\/b>AI 발전모델’을 정립하였으며, 이에 따라 우리 軍에 대한 AI 기술 적용을 단계적으로... ",
+			"bloggername":"로봇신문",
+			"bloggerlink":"https:\/\/blog.naver.com\/kips1214",
+			"postdate":"20220722"
+		},
+		{
+			"title":"2022대한민국 드론 UAM 박람회, '<b>국방<\/b>드론, 정찰드론, 타격드론... ",
+			"link":"https:\/\/blog.naver.com\/buildshop?Redirect=Log&logNo=222813201149",
+			"description":"2022대한민국 드론 UAM 박람회 2022대한민국 드론 UAM 박람회, '<b>국방<\/b>드론, 드론체험관, 드론레이스... 대한민국 공군, 육군, 해군 등 <b>국방<\/b>드론도 대거 전시되어 있습니다. 경품이벤트 체험행사 등도... ",
+			"bloggername":"3D프린터 메이커박스_3D프린팅 크리에이터",
+			"bloggerlink":"https:\/\/blog.naver.com\/buildshop",
+			"postdate":"20220715"
+		},
+		{
+			"title":"[M프렌즈] <b>국방<\/b> AI Specialist를 양성하기 위해서 <b>국방<\/b> AI... ",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222796232972",
+			"description":"<b>국방<\/b> AI Specialist를 양성하기 위해서 <b>국방<\/b> AI 교육대학을 개원하다. 안녕하세요~! M프렌즈 7기 심은미입니다. 4차 산업혁명으로 기술이 발전하면서 우리 너무나 편리한 시대를 살아가고 있죠? 특히... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220701"
+		},
+		{
+			"title":"<b>국방<\/b>법안은 올해 이민개혁의 마지막 기회가 될 수 있습니다.",
+			"link":"https:\/\/blog.naver.com\/elitevisa?Redirect=Log&logNo=222827578192",
+			"description":"<b>국방<\/b>법안은 올해 이민개혁의 마지막 기회가 될 수 있습니다. 수많은 법안과 협상에도 불구하고 연간 <b>국방<\/b> 법안에 대한 특정 수정 사항만 올해 의회에서 통과될 가능성이 높습니다. 지난주... ",
+			"bloggername":"미국 이민법전문 그늘집",
+			"bloggerlink":"https:\/\/blog.naver.com\/elitevisa",
+			"postdate":"20220725"
+		},
+		{
+			"title":"신문스크랩\/매일경제\/<b>국방<\/b>상호조달협정(RDP)\/한미원전동맹",
+			"link":"https:\/\/blog.naver.com\/ssonew214?Redirect=Log&logNo=222742553614",
+			"description":"오늘의 뉴스픽은 한미정상회담의 가장 큰 성과 중 하나로 <b>국방<\/b>상호조달협정(RDP)와 한미원전동맹이 기사로 나와서 공부해봤다. #한미정상회담 중 1)한국의 미<b>국방<\/b>산시장 수출 2) 한미원전공동수주 의... ",
+			"bloggername":"손유",
+			"bloggerlink":"https:\/\/blog.naver.com\/ssonew214",
+			"postdate":"20220523"
+		},
+		{
+			"title":"[제주ICC\/<b>국방<\/b>과학연구소\/카이스트] 2022... ",
+			"link":"https:\/\/blog.naver.com\/kkm7139?Redirect=Log&logNo=222768372046",
+			"description":"우리나라 <b>국방<\/b>과학기술 현재와 미래를 조망하는 무대가 마련됐습니다. <b>국방<\/b>과학연구소(ADD)와 한국과학기술원(KAIST)이 양일간 제주국제컨벤션센터에서 개최한 ‘2022 한국군사과학기술학회 종합학술대회’... ",
+			"bloggername":"한,영어MC 김경미 개인공간",
+			"bloggerlink":"https:\/\/blog.naver.com\/kkm7139",
+			"postdate":"20220611"
+		},
+		{
+			"title":"2030년 <b>국방<\/b>우주강국 달성을 위한 우주방위사업 발전... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222777348374",
+			"description":"2030 <b>국방<\/b>우주강국 달성을 위한 우주방위사업 발전 마스터플랜 2030년 <b>국방<\/b>우주강국 대한민국을 위해! 방위사업청은 '2030 <b>국방<\/b>우주강국 대한민국' 비전 달성을 위해 6대 추진전략, 24개 과제를 추진하고 있습니다.... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220617"
+		},
+		{
+			"title":"M-109를 이미 인도받았다 [ 우크라이나 <b>국방<\/b>장관 &quot;올렉시... ",
+			"link":"https:\/\/blog.naver.com\/sundin13?Redirect=Log&logNo=222752255302",
+			"description":"<b>국방<\/b>장관 올렉시 레즈니코프가 이미 물량이 일부 인도되었다고 하므로 얼마가 됐든 간에 도입은 되었고, 기존 공여 물량처럼 조만간 실물 사진을 볼 수 있을 것 같다. M109 자주포를 공여하기로 약속한... ",
+			"bloggername":"sundin의 HISTORY BASE",
+			"bloggerlink":"https:\/\/blog.naver.com\/sundin13",
+			"postdate":"20220530"
+		},
+		{
+			"title":"<b>국방<\/b>부_<b>국방<\/b> 인권모니터단_남원선 강사",
+			"link":"https:\/\/blog.naver.com\/funandgood?Redirect=Log&logNo=222714803232",
+			"description":"<b>국방<\/b>부_<b>국방<\/b> 인권모니터단_남원선 강사 2022년 새로운 활동을 소개합니다. 개인적으로 병역이행의 의무를 다 하고 있는 이들과 나라를 지키는 일을 직업으로 가진 분들의 교육에는 빠지지 않고 참여하는 편... ",
+			"bloggername":"휴먼와이즈 교육연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/funandgood",
+			"postdate":"20220428"
+		},
+		{
+			"title":"[유용원의 군사세계] 북핵 위협·병력 급감 해결할 열쇠, <b>국방<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/previewbooks?Redirect=Log&logNo=222783612395",
+			"description":"여기엔 <b>국방<\/b> AI를 비롯, 빅데이터, 드론, 로봇, 메타버스, 사물인터넷, 3D 프린팅 등이 망라돼 있다. 이 중 항상 가장 먼저 거론되는 것이 AI다. <b>국방<\/b> AI는 미래전에서 신속한 실전 대응과 관련해 강조되고 있는... ",
+			"bloggername":"프리뷰 좋은 책",
+			"bloggerlink":"https:\/\/blog.naver.com\/previewbooks",
+			"postdate":"20220622"
+		},
+		{
+			"title":"DARPA(미국 <b>국방<\/b>고등연구프로젝트사무국), OpFires... ",
+			"link":"https:\/\/blog.naver.com\/orangeshirts?Redirect=Log&logNo=222814094673",
+			"description":"미국의 DARPA(<b>국방<\/b>고등연구프로젝트사무국)은 지난 7월 13일, DARPA가 주도하여 개발중인 OpFires 극초음속미사일 시험 발사에 성공한 사실을 사무국 웹페이지에 게재했다.(1) 본... ",
+			"bloggername":"이성찬 블로그 - Warfare Systems & Issues",
+			"bloggerlink":"https:\/\/blog.naver.com\/orangeshirts",
+			"postdate":"20220716"
+		},
+		{
+			"title":"<b>국방<\/b>과학연구소, 자율터널탐사(ATE) 로봇 개발",
+			"link":"https:\/\/blog.naver.com\/ironman236?Redirect=Log&logNo=222784669831",
+			"description":"▲ ADD가 개발한 자율터널탐사로봇(사진=<b>국방<\/b>과학연구소) <b>국방<\/b>과학연구소(ADD, 소장 박종승)는 2019년부터 2022년 간 방위사업청의 핵심기술사업을 통해 자율터널탐사(ATE:Autonomous Tunnel Exploration) 기술을... ",
+			"bloggername":"아이언맨블러그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ironman236",
+			"postdate":"20220622"
+		},
+		{
+			"title":"찾아라 (웨딩홀 투어 2일차 - KR컨벤션 웨딩홀\/<b>국방<\/b>컨벤션)",
+			"link":"https:\/\/blog.naver.com\/h2shine?Redirect=Log&logNo=222806607149",
+			"description":"<b>국방<\/b>컨벤션 14시 집에서 가장 멀어서 고민했는데, 다녀왔다. 어두운 호텔 느낌의 홀을 보았는데 여기는 밝은 분위기였다. 근데, 진짜 홀이 이뻤다. 개인적으로 고려해볼까 했다. 외관이 으리으리 하고 웅장해서... ",
+			"bloggername":"햇살이의 우주",
+			"bloggerlink":"https:\/\/blog.naver.com\/h2shine",
+			"postdate":"20220712"
+		},
+		{
+			"title":"대구과학대학교 <b>국방<\/b>기술행정과 산업체 현장체험 실시",
+			"link":"https:\/\/blog.naver.com\/tsu_star?Redirect=Log&logNo=222807230706",
+			"description":"대구과학대학교 <b>국방<\/b>기술행정과 산업체 현장체험 실시 대구과학대학교 <b>국방<\/b>기술행정과가 전공지식과 실무중심 현장교육을 접목하기 위해 지난 5일부터 8일까지 3박 4일간 제주도에 위치한 해병대제9여단과... ",
+			"bloggername":"대구과학대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/tsu_star",
+			"postdate":"20220711"
+		},
+		{
+			"title":"[M프렌즈] 과학기술 강군의 초석을 쌓다, <b>국방<\/b> AI 교육 대학 개원!",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222796261375",
+			"description":"과학기술 강군의 초석을 쌓다, <b>국방<\/b> AI 교육 대학 개원! 여러분 안녕하세요~! <b>국방<\/b>부 M프렌즈 7기 조영빈입니다. 오늘은 국내 IT 업계의 최대 전진기지, 판교에 엠뿌들이 방문했는데요! 바로 성균관대학교 판교... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220701"
+		},
+		{
+			"title":"한미·미중 <b>국방<\/b>장관 ... '북한 문제' 논의",
+			"link":"https:\/\/blog.naver.com\/philo515?Redirect=Log&logNo=222771910049",
+			"description":"미국과 중국, 한국과 중국 등 <b>국방<\/b>장관들 간의 회동이 진행됐는데 거듭된 미사일 발사와 핵실험 준비... 중국의 <b>국방<\/b>장관들이 만났다. 바이든 행정부 출범 17개월 만에 처음으로, 양측은 미·중 안보 관계를... ",
+			"bloggername":"하얀구름 (philo515)",
+			"bloggerlink":"https:\/\/blog.naver.com\/philo515",
+			"postdate":"20220614"
+		},
+		{
+			"title":"국회입법조사처 사칭하여 '<b>국방<\/b>·외교·안보'분야 교수 해킹을... ",
+			"link":"https:\/\/blog.alyac.co.kr\/4826",
+			"description":"국회입법조사처를 사칭하여 '<b>국방<\/b>·외교·안보'분야 교수를 대상으로 진행중인 해킹 공격이... [그림 1] 수신자의 회신을 유도하는 피싱 메일 이번 공격은 '국회입법조사처 자문 요청' 의 제목으로 <b>국방<\/b>... ",
+			"bloggername":"이스트시큐리티 알약 블로그",
+			"bloggerlink":"https:\/\/blog.alyac.co.kr\/",
+			"postdate":"20220629"
+		},
+		{
+			"title":"방위사업청·육군·<b>국방<\/b>기술품질원 '육군 무기체계 운용성 향상... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222811284669",
+			"description":"방위사업청과 육군, <b>국방<\/b>기술품질원은 13일 경기도 양주시에 위치한 경기섬유종합지원센터에서 군... 콘퍼런스 제1부에서는 한국품질경영학회장을 역임한 김연성 인하대학교 교수가 ‘K-<b>국방<\/b> 운용성 향상을... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220714"
+		},
+		{
+			"title":"[첩보계 동향] 영국 <b>국방<\/b>정보국 &quot;와그너그룹, 우크라 동부서... ",
+			"link":"https:\/\/blog.naver.com\/cydogg?Redirect=Log&logNo=222817842637",
+			"description":"현지 18일 영국 <b>국방<\/b>정보국(DI)은 보고서를 통해 &quot;와그너그룹이 (루한스크주) 포파스나와 리시찬스크 점령을 비롯한 최근 전투에서 주요 역할을 한 것으로 보인다&quot;는 분석 내용을 내놨다. 보고서는 그러나 &quot;이... ",
+			"bloggername":"[폴리진] Spy Operations '세기의 첩보전' 출간",
+			"bloggerlink":"https:\/\/blog.naver.com\/cydogg",
+			"postdate":"20220719"
+		},
+		{
+			"title":"슬로바키아 <b>국방<\/b>장관,  우크라이나에 대한 MiG29  공여... ",
+			"link":"https:\/\/blog.naver.com\/sundin13?Redirect=Log&logNo=222829920913",
+			"description":"야로슬라프 나드 (슬로바키아 <b>국방<\/b>장관) 나드 장관은 이 항공기(MiG29 총 11기)는 선물로 제공할 수는 없고 동맹국 들이 제공하는 데는 적절한 보상이 필요하다고 언급했다. 《 ※ 슬로바키아의 이런 입장은... ",
+			"bloggername":"sundin의 HISTORY BASE",
+			"bloggerlink":"https:\/\/blog.naver.com\/sundin13",
+			"postdate":"20220726"
+		},
+		{
+			"title":"한국형 사드 L-SAM 시험발사 성공.. 자주<b>국방<\/b> 한 발 앞으로",
+			"link":"https:\/\/blog.naver.com\/jaemyunglee?Redirect=Log&logNo=222656719630",
+			"description":"자주<b>국방<\/b>과 경제 측면에서도 이롭습니다. 우리 손으로 초고난도의 첨단 무기를 얼마든지 개발할 수 있다는 데 커다란 자부심을 느낍니다. L-SAM 개발과 시험발사에 힘써주신 <b>국방<\/b>과학 연구소 관계자 여러분께... ",
+			"bloggername":"일하겠습니다",
+			"bloggerlink":"https:\/\/blog.naver.com\/jaemyunglee",
+			"postdate":"20220224"
+		},
+		{
+			"title":"한국<b>국방<\/b>연구원 채용 - 후반기 정규직\/무기계약직 등 채용ㄱ오고",
+			"link":"https:\/\/blog.naver.com\/incruit1?Redirect=Log&logNo=222829601141",
+			"description":"한국<b>국방<\/b>연구원 채용 - 후반기 정규직\/무기계약직 등 채용공고 안녕하세요. 취업비서 인크루트 입니다. 한국<b>국방<\/b>연구원 채용을 준비하시는 분들에게 현재 진행되고 있는 2022년도 한국<b>국방<\/b>연구원 후반기 정규직... ",
+			"bloggername":"인크루트 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/incruit1",
+			"postdate":"20220726"
+		},
+		{
+			"title":"[05.17] 제397회 임시회 <b>국방<\/b>위원회 제3차 전체회의 (현안보고... ",
+			"link":"https:\/\/blog.naver.com\/rediron2400?Redirect=Log&logNo=222735646649",
+			"description":"17(화), <b>국방<\/b>위원회 전체회의를 열어 소관 기관의 2022년도 추가경정예산안을 상정하고, <b>국방<\/b>부로부터 대통령 집무실 용산 이전 관련 현안 보고를 실시하였습니다. 윤석열 정부는 출범 직후 코로나-19로 인해... ",
+			"bloggername":"국회의원 민홍철(김해갑)",
+			"bloggerlink":"https:\/\/blog.naver.com\/rediron2400",
+			"postdate":"20220517"
+		},
+		{
+			"title":"<b>국방<\/b>전직교육원 제대군인 전직 교육, 근로기준법",
+			"link":"https:\/\/blog.naver.com\/imkey111?Redirect=Log&logNo=222817454638",
+			"description":"<b>국방<\/b>전직교육원 중기 복무 전직 교육 이번 차수는 <b>국방<\/b>전직원 교육원에서 오랜만에 대면으로 진행하였습니다. 주제는 꼭 알아야 할 근로기준법 근로계약부터 근로시간,임금,휴게 및 휴일, 근로관계종료... ",
+			"bloggername":"행복한 '커리어'는 행복한 '삶'을 만듭니다.",
+			"bloggerlink":"https:\/\/blog.naver.com\/imkey111",
+			"postdate":"20220718"
+		},
+		{
+			"title":"밀리터리프라모델, 자주<b>국방<\/b> 장갑차, 모형취미 1\/35",
+			"link":"https:\/\/blog.naver.com\/chorokei?Redirect=Log&logNo=222830164176",
+			"description":"아카데미과학 ACADEMY HOBBY MODEL KITS 밀리터리 자주<b>국방<\/b> 프라모델 13292 한국형 보병전투차... 자국의 <b>국방<\/b>력을 다시 되돌아 보는 요즘이라 우리나라의 <b>국방<\/b>과 관련한 밀리터리... ",
+			"bloggername":"엿장수 마음대로",
+			"bloggerlink":"https:\/\/blog.naver.com\/chorokei",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[M프렌즈] 자주<b>국방<\/b>의 1등 공신! <b>국방<\/b>과학연구소 본격 탐구",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222734416050",
+			"description":"자주<b>국방<\/b>의 1등 공신! <b>국방<\/b>과학연구소 본격 탐구 https:\/\/blog.naver.com\/ybcho316\/222747447899 여러분 안녕하세요~! <b>국방<\/b>부 M프렌즈 7기 조영빈입니다. 오늘은 대한민국 국군의 손과 발이... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220516"
+		},
+		{
+			"title":"[SNS 영어뉴스] 미국 비즈니스 스쿨 순위, <b>국방<\/b> 예산 규모 순위... ",
+			"link":"https:\/\/blog.naver.com\/pdongsoo?Redirect=Log&logNo=222742740059",
+			"description":"국가별 <b>국방<\/b>예산 규모 국가별 <b>국방<\/b>예산 (military budgets)을 인포그래픽으로 구현했네요 모두가 알다시피, 미국이 가장 많고, 그 뒤를 중국, 사우디 아라비아, 러시아 등이 뒤를 이으고 있는데, 친미... ",
+			"bloggername":"투자하고 블로그하는 아빠 클라이머",
+			"bloggerlink":"https:\/\/blog.naver.com\/pdongsoo",
+			"postdate":"20220523"
+		},
+		{
+			"title":"해병대 <b>국방<\/b>일보 기사 내용을 보면",
+			"link":"https:\/\/blog.naver.com\/ironman236?Redirect=Log&logNo=222809980030",
+			"description":"<b>국방<\/b>일보 해병대 기사 내용들은 타군에 비해 지면이 적은 건 이해하는데 부대별 교육훈련 분야 보다... 해병대가 예전부터 정훈, 홍보 쪽은 하드코어 수준이라 별 기대는 하지 않지만 <b>국방<\/b>일보를 95년 현역... ",
+			"bloggername":"아이언맨블러그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ironman236",
+			"postdate":"20220713"
+		},
+		{
+			"title":"한국로봇융합연구원, '2022 <b>국방<\/b>로봇경진대회' 참가자 모집",
+			"link":"https:\/\/blog.naver.com\/kips1214?Redirect=Log&logNo=222792250166",
+			"description":"▲ 행사 포스터 한국로봇융합연구원(원장 여준구)이 '아미 타이거(Army TIGER), 2022 육군참모총장배 <b>국방<\/b>로봇경진대회' 참가자를 모집한다. 이번 대회는 대한민국 <b>국방<\/b>로봇의 첨단화 및 획기적 발전을... ",
+			"bloggername":"로봇신문",
+			"bloggerlink":"https:\/\/blog.naver.com\/kips1214",
+			"postdate":"20220628"
+		},
+		{
+			"title":"대한민국 자주<b>국방<\/b>의 요람, <b>국방<\/b>과학연구소(ADD)에서 개발한... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222713042152",
+			"description":"대한민국 자구<b>국방<\/b>의 요람 <b>국방<\/b>과학연구소에서 개발한 미사일은? 출처 : <b>국방<\/b>일보 지난 2022년 4월 1일 서욱 <b>국방<\/b>부장관은 육군 미사일전략사령부 및 공군 미사일방어사령부 개편식을 주관했습니다. 서욱... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220427"
+		},
+		{
+			"title":"<b>국방<\/b>기술품질원 면접학원",
+			"link":"https:\/\/blog.naver.com\/ryusaewoon?Redirect=Log&logNo=222831063708",
+			"description":"오늘 <b>국방<\/b>기술품질원 면접 대상자를 발표하고, 일주일 후에는 면접 준비를 해야하는데요. <b>국방<\/b>기술품질원 면접 은 지원자들이 어려워하는 면접 유형으로 진행되기 때문에 짧은 시간에 스스로 준비하기에는... ",
+			"bloggername":"내일함께하는동행자",
+			"bloggerlink":"https:\/\/blog.naver.com\/ryusaewoon",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[세계소식] 미국, 청정에너지 생산기술 촉진 위해 <b>국방<\/b>물자생... ",
+			"link":"https:\/\/blog.naver.com\/energyinfoplaza?Redirect=Log&logNo=222767194693",
+			"description":"□ 미국, 청정에너지 생산기술 촉진 위해 <b>국방<\/b>물자생산법(DPA) 발동 ※ 美에너지부 보도자료(6.6) 원문 참조 ◦ 바이든 대통령은 자국 청정에너지 기술 개발 촉진을 위해 <b>국방<\/b>물자생산법(DPA)*를 발동... ",
+			"bloggername":"한국에너지정보문화재단",
+			"bloggerlink":"https:\/\/blog.naver.com\/energyinfoplaza",
+			"postdate":"20220613"
+		},
+		{
+			"title":"<b>국방<\/b>사업화 및 홍보까지, 울산<b>국방<\/b>벤처센터 협약기업 모집 안내",
+			"link":"https:\/\/blog.naver.com\/downstone2?Redirect=Log&logNo=222695372435",
+			"description":"<b>국방<\/b>사업화 및 홍보까지, 울산<b>국방<\/b>벤처센터 협약기업 모집 안내 안녕하세요, 경영지도법인 성장입니다. 오늘은 울산지역 <b>국방<\/b>벤처센터 협약기업 모집 대해 알려드리겠습니다. 울산에 위치한... ",
+			"bloggername":"경영지도법인 성장",
+			"bloggerlink":"https:\/\/blog.naver.com\/downstone2",
+			"postdate":"20220408"
+		},
+		{
+			"title":"미 <b>국방<\/b>부 7억달러 추가 군사원조 &amp;  영 <b>국방<\/b>장관 발표... ",
+			"link":"https:\/\/blog.naver.com\/sundin13?Redirect=Log&logNo=222757624837",
+			"description":"* 미<b>국방<\/b>부 보도자료(공개용) * 대포병레이더 &amp; 광역수색레이더(조기경보)나, M777 곡사포 탄약... 수량은 적시하지 않았으나 <b>국방<\/b>부 출입 언론인이 공개한 바로는 4대라고 한다. M-142 HIMARS는 설명이... ",
+			"bloggername":"sundin의 HISTORY BASE",
+			"bloggerlink":"https:\/\/blog.naver.com\/sundin13",
+			"postdate":"20220603"
+		},
+		{
+			"title":"<b>국방<\/b>(군사학)\/무기 용어 「부비트랩(booby trap)」 - 영어 뜻... ",
+			"link":"https:\/\/blog.naver.com\/amoayhwh?Redirect=Log&logNo=222791300520",
+			"description":"등장하는 <b>국방<\/b>(군사학)\/무기 용어 「부비트랩 (booby trap)」의 영어 뜻(의미)\/정의\/어원(유래)... 이제, 이러한 언어지식에 근거해서 <b>국방<\/b>(군사학)\/무기 용어 「부비트랩 (booby trap)」의 쉬운... ",
+			"bloggername":"토플ㅇ제2외국어",
+			"bloggerlink":"https:\/\/blog.naver.com\/amoayhwh",
+			"postdate":"20220627"
+		},
+		{
+			"title":"英<b>국방<\/b> &quot;러, 돈바스 공세 딜레마…인력 및 차량 손실 모두 커&quot;",
+			"link":"https:\/\/blog.naver.com\/woosi2000?Redirect=Log&logNo=222828167551",
+			"description":"英<b>국방<\/b> &quot;러, 돈바스 공세 딜레마…인력 및 차량 손실 모두 커&quot; 영국 <b>국방<\/b>부는 24일(현지시간) 트위터를 통해 우크라이나 동부 돈바스 지역과 남부 헤르손 지역에서 지지부진한 공방이 이어지고 있으며... ",
+			"bloggername":"空假中",
+			"bloggerlink":"https:\/\/blog.naver.com\/woosi2000",
+			"postdate":"20220725"
+		},
+		{
+			"title":"KF-21 첫 비행에 <b>국방<\/b>장관 등 대거 불참 이유는?",
+			"link":"https:\/\/blog.naver.com\/kst3175?Redirect=Log&logNo=222822453245",
+			"description":"KF-21 첫 비행에 <b>국방<\/b>장관 등 대거 불참 이유는? 등록 2022.07.21 11:47:44수정 2022.07.21 12:46:43 작게크게... ***@******.*** [서울=뉴시스] 박대로 기자 = 한국형 전투기 KF-21이 첫 비행에 성공했지만 <b>국방<\/b>부 장관 등... ",
+			"bloggername":"지구촌다문화 뉴스",
+			"bloggerlink":"https:\/\/blog.naver.com\/kst3175",
+			"postdate":"20220721"
+		},
+		{
+			"title":"#<b>국방<\/b>부 #제19차아시아안보회... 한-중 <b>국방<\/b>장관회담 개최",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222767782318",
+			"description":"제19차 아시아안보회의에 참가 중인 이종섭 <b>국방<\/b>부장관은 6월 10일 오후 웨이펑허(魏鳳和) 중국 <b>국방<\/b>부장의 요청으로 한·중 <b>국방<\/b>장관회담을 개최하였습니다. *2019년 11월 ADMM-plus 계기 한중 <b>국방<\/b>장관회담 이후... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220610"
+		},
+		{
+			"title":"제6회 <b>국방<\/b>과학기술 대제전 홍보기획전 참가업체 모집 공고",
+			"link":"https:\/\/blog.naver.com\/ash1106?Redirect=Log&logNo=222807796782",
+			"description":"내수 제6회 <b>국방<\/b>과학기술 대제전 홍보기획전 참가업체 모집 공고 2022.07.11 소관부처 방위사업청 수행기관 한<b>국방<\/b>위산업진흥회 신청기간 2022.06.07 ~ 2022.07.28 사업개요... ",
+			"bloggername":"정책정보, 지원사업, 캠핑, 경제 등 우빗(Ubit)거리다",
+			"bloggerlink":"https:\/\/blog.naver.com\/ash1106",
+			"postdate":"20220712"
+		},
+		{
+			"title":"대구과학대 <b>국방<\/b>기술행정과 국립영천호국원 봉사활동",
+			"link":"https:\/\/blog.naver.com\/tsu_star?Redirect=Log&logNo=222775615663",
+			"description":"대구과학대 <b>국방<\/b>기술행정과 국립영천호국원 봉사활동 대구과학대학교 <b>국방<\/b>기술행정과 호우회 동아리 학생들이 지난 15일 호국보훈 현장 탐방 및 봉사활동의 일환으로 국립영천호국원을 방문했어요.... ",
+			"bloggername":"대구과학대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/tsu_star",
+			"postdate":"20220616"
+		},
+		{
+			"title":"병영생활 고충처리하는 국민권익위원회 <b>국방<\/b>옴부즈만",
+			"link":"https:\/\/blog.naver.com\/loveacrc?Redirect=Log&logNo=222782140576",
+			"description":"병영생활 고충이 있다면 국민권익위원회 <b>국방<\/b>옴부즈만을 찾아주세요 - 6월 30일부터 현역장병 대상 <b>국방<\/b>옴부즈만 교육·홍보 실시 - 국민께 힘이 되는 든든한 국민 편 국민권익위원회와 <b>국방<\/b>부는 이번 6월... ",
+			"bloggername":"국민권익위원회",
+			"bloggerlink":"https:\/\/blog.naver.com\/loveacrc",
+			"postdate":"20220621"
+		},
+		{
+			"title":"자주<b>국방<\/b> “방산혁신기업 100 프로젝트”",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222715333228",
+			"description":"자주<b>국방<\/b> 방산혁신기업 100 프로젝트 안녕하세요!! 방위사업청 팔방미인 12기 윤현태 입니다!! 다름이... 출처 : <b>국방<\/b>일보 '방산혁신기업 100' 이란? 4차 산업혁명과 안보환경의 변화, 그리고 글로벌공급망의... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220429"
+		},
+		{
+			"title":"러 <b>국방<\/b>장관, 우크라 작전 강화 지시..&quot;로켓 공격 막아야&quot;",
+			"link":"https:\/\/blog.naver.com\/c1c1b1b1?Redirect=Log&logNo=222815059955",
+			"description":"[모스크바=AP\/뉴시스] 세르게이 쇼이구 러시아 <b>국방<\/b>장관이 지난 6월 29일(현지시간) 모스크바... [서울=뉴시스] 김예진 기자 = 세르게이 쇼이구 러시아 <b>국방<\/b>부 장관은 16일(현지시간) 우크라이나에 대한 작전을... ",
+			"bloggername":"천연피부약.눈물.식물성소금",
+			"bloggerlink":"https:\/\/blog.naver.com\/c1c1b1b1",
+			"postdate":"20220717"
+		},
+		{
+			"title":"대구과학대 <b>국방<\/b>기술행정과, 여성안전캠퍼스 규찰대 Army... ",
+			"link":"https:\/\/blog.naver.com\/khyoo3028?Redirect=Log&logNo=222718690613",
+			"description":"대구과학대 <b>국방<\/b>기술행정과, 여성안전캠퍼스 규찰대 Army Patrol 발대식 개최!! 이번 발대식을 통해... 이날 발대식에 이어 <b>국방<\/b>기술행정과 유근환 학과장의 불법촬영 예방을 위한 점검 매뉴얼 및 대학생 데이트... ",
+			"bloggername":"나라사랑! 취업해결! 유박사의 행정학 사랑!",
+			"bloggerlink":"https:\/\/blog.naver.com\/khyoo3028",
+			"postdate":"20220502"
+		},
+		{
+			"title":"&lt;제6회 <b>국방<\/b>과학기술대제전&gt;의 사전등록 인증 100% 당첨 이벤트!",
+			"link":"https:\/\/blog.naver.com\/4646462?Redirect=Log&logNo=222825516698",
+			"description":"개최되는 &lt;제6회 <b>국방<\/b>과학기술대제전&gt;의 사전등록 인증 100% 당첨 이벤트! 페이스북 사전등록을... 한다 #사전등록 #SNS인증이벤트 #<b>국방<\/b>과학기술대제전 https:\/\/m.blog.naver.com\/dapapr\/222824029032",
+			"bloggername":"4646462",
+			"bloggerlink":"https:\/\/blog.naver.com\/4646462",
+			"postdate":"20220723"
+		},
+		{
+			"title":"한국 <b>국방<\/b> 안보 포럼 통역",
+			"link":"https:\/\/blog.naver.com\/loisoh?Redirect=Log&logNo=222722761432",
+			"description":"지난 5월 4일에 있었던 <b>국방<\/b>안보포럼(KODEF) 주최 공군 전력 발전 방향 세미나에 록히드 마틴의... <b>국방<\/b> 분야는 워낙 전문적이고 배경지식이 많이 필요한 분야라서 통역하기 전에 몇 날 며칠을 준비한답니다.... ",
+			"bloggername":"Lois Explains",
+			"bloggerlink":"https:\/\/blog.naver.com\/loisoh",
+			"postdate":"20220506"
+		},
+		{
+			"title":"한·스웨덴 <b>국방<\/b>차관, 양국 교류협력 강화 공감대(2022)",
+			"link":"https:\/\/blog.naver.com\/ironman236?Redirect=Log&logNo=222774527377",
+			"description":"신범철 차관, 한반도 안보 상황 공유 린드 차관, 자국 외교·안보 기조 설명 고위급 교류·군사교육 등 다양한 논의 신범철(왼쪽) <b>국방<\/b>부 차관이 15일 얀 올로프 린드 스웨덴 <b>국방<\/b>부 차관과 <b>국방<\/b> 교류협력 방안을... ",
+			"bloggername":"아이언맨블러그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ironman236",
+			"postdate":"20220615"
+		},
+		{
+			"title":"신범철 <b>국방<\/b>부 차관, 제1차 한-영 <b>국방<\/b>전략대화 개최",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222818506703",
+			"description":"신범철 <b>국방<\/b>부차관이 18일(현지시각) 오후 영국 런던 <b>국방<\/b>부 앞에서 애나벨 골디 (Annabel Goldie) 영국 <b>국방<\/b>부 국무차관과 한-영국 <b>국방<\/b>전략대화를 앞두고 기념촬영을 하고 있는 모습입니다. □ 신범철... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220719"
+		},
+		{
+			"title":"<b>국방<\/b>기술진흥연구소, 성능 크게 향상된 국산 방탄헬멧 개발완료",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222743318586",
+			"description":"<b>국방<\/b>부와 <b>국방<\/b>기술진흥연구소(이하 국기연, 소장 임영일)는 신형 방탄헬멧을 개발 완료하였습니다. 국내 2개 업체(㈜ 효성, 경창산업)가 컨소시엄으로 2017년부터 연구개발에 착수하여 시험평가를 완료하였고... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220523"
+		},
+		{
+			"title":"방위사업청, 미래도전<b>국방<\/b>기술 추진방향 발표",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222687176215",
+			"description":"방위사업청은 30일 제1회 첨단기술사업 관리위원회를 개최, 미래도전<b>국방<\/b>기술 사업의 추진방향을 발표했습니다. 미래도전<b>국방<\/b>기술 사업은 미래전장(戰場)에 혁신을 가져올 게임체인저(Game Changer) 8대 기술*의... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220330"
+		},
+		{
+			"title":"미래 <b>국방<\/b> 우주력 건설의 원천기술 확보 초석을 다진다!... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222765724232",
+			"description":"방위사업청(청장 강은호)과 <b>국방<\/b>기술진흥연구소(소장 임영일, 이하 국기연)는 6월 9일(목)부터 7월 26일(화)까지 산학연을 대상으로 미래 <b>국방<\/b> 우주 분야 기초연구 「특화연구센터 운영 주관기관 선정」을... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220609"
+		},
+		{
+			"title":"군수품의 원활한 조달과 품질관리를 위한 &quot;<b>국방<\/b>표준종합정보... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222771381954",
+			"description":"위해 '<b>국방<\/b>표준종합정보시스템(KDSIS) 고도화' 사업을 추진합니다. 방위사업청은 무기체계 고도화에 따른 복잡하고 방대한 기술자료를 효율적으로 관리하고, 빠르게 발전하는 기술변경 사항을 <b>국방<\/b>규격에... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220613"
+		},
+		{
+			"title":"방위사업청, MZ세대에게 <b>국방<\/b>기술의 민간활용 멘토링  -‘<b>국방<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222803699278",
+			"description":"방위사업청(청장 엄동환)은‘제6회 <b>국방<\/b>과학기술대제전’의 주요행사인 ‘<b>국방<\/b> 기술을 활용한 창업경진대회’워크숍을 7월 4일(월) ~ 5일(화) 양일간 라마다동대문 호텔에서 개최했습니다. &lt;참고: 제6회... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220707"
+		},
+		{
+			"title":"#<b>국방<\/b>부#제19차아시아안보회... 한-호주 <b>국방<\/b>장관회담 개최",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222769885257",
+			"description":"이종섭 <b>국방<\/b>부 장관은 6월 12일 오전, 싱가포르에서 열린 제19차 아시아안보회의 (이하 ‘샹그릴라 대화’) 계기에 리처드 말스 (Richard Marles) 호주 부총리 겸 <b>국방<\/b>장관과 양자회담을 실시하고 한반도를 포함한... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220612"
+		},
+		{
+			"title":"자주<b>국방<\/b>을 위한 끝없는 도전! T-50 고등훈련기",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222777366205",
+			"description":"자주<b>국방<\/b>을 위한 끝없는 도전! T-50 고등훈련기 초음속기 개발은 왜 어려울까요? T-50은 국내에서 최초... 그럼에도 불구하고 초음속기는 자주<b>국방<\/b>의 중대한 이정표로서 반드시 개발해야 하는... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220617"
+		},
+		{
+			"title":"2022년 연구개발 장려금 신청서 접수 - <b>국방<\/b>분야 연구개발... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222796458450",
+			"description":"방위사업청은 <b>국방<\/b>분야에서 연구개발을 우수하게 수행한 연구인력에게 장려금을 지급하기 위해 7월... 진작하고, <b>국방<\/b>분야 연구개발의 활성화를 유도하기 위해 우수한 과제를 선정하여 장려금을 지급하는... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220701"
+		},
+		{
+			"title":"<b>국방<\/b>과학연구소, 미지의 장소에 길 여는 자율터널탐사 기술 확보",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222782760009",
+			"description":"<b>국방<\/b>과학연구소(ADD, 소장 박종승)는 ‘19년부터 ‘22년 간 방위사업청의 핵심기술사업을 통해... 새로 개발된 자율터널탐사 기술을 적용한 로봇은 향후 <b>국방<\/b> 분야에서 지하 시설작전, 도심전투 등에 투입돼... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220621"
+		},
+		{
+			"title":"국내 최대규모 <b>국방<\/b>과학 학술 교류의 장 개최  - 6월 9일... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222766073327",
+			"description":"우리나라 최대규모의 <b>국방<\/b>과학 학술대회가 열립니다. <b>국방<\/b>과학연구소(소장 박종승)와 KAIST(총장 이광형)는 ‘2022 한국군사과학기술학회(KIMST, 학회장 박종승) 종합학술대회’를 6월 9일부터 10일까지 이틀... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220609"
+		},
+		{
+			"title":"#<b>국방<\/b>부#제19차아시아안보회... 한미일 <b>국방<\/b>장관회담 개최",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222768750530",
+			"description":"이종섭 대한민국 <b>국방<\/b>부장관, 로이드 오스틴(Lloyd J. Austin III)미국 <b>국방<\/b>장관, 기시 노부오(Kishi Nobuo)일본 방위대신은 2022년 6월 11일, 싱가포르에서 3국 <b>국방<\/b>장관회담을 개최하였습니다. •3국 장관은 이번... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220611"
+		},
+		{
+			"title":"한미정상회담 공동성명 <b>국방<\/b>분야 주요내용",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222743240362",
+			"description":"21.) <b>국방<\/b>분야 주요내용입니다. 對韓(대한) 방위공약 한미상호방위조약에 따른 한국 방어와... 강조 <b>국방<\/b>과학기술 협력 <b>국방<\/b>상호조달협정에 대한 논의 개시를 포함하여 <b>국방<\/b> 부문 공급망, 공동 개발, 제조와 같은... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220523"
+		},
+		{
+			"title":"방위사업청 &amp; <b>국방<\/b>기술진흥연구소, 방산 중소기업의 해외시장... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222756425308",
+			"description":"방위사업청(청장 강은호)과 <b>국방<\/b>기술진흥연구소(소장 임영일)는 6월 2일(목)부터 3일(금)까지 서울 COEX에서 공동으로 『2022 절충교역 일대일 수출상담회』를 개최합니다. * 절충교역 : 해외로부터 무기나... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220602"
+		},
+		{
+			"title":"한-폴란드 <b>국방<\/b>장관회담 개최",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222752614809",
+			"description":"□ 이종섭 <b>국방<\/b>부 장관은 5월 30일 오후, 마리우슈 부아쉬착(Mariusz Blaszczak) 폴란드 <b>국방<\/b> 장관과 한-폴란드 <b>국방<\/b>장관회담을 갖고 양국 간 <b>국방<\/b>·방산협력 및 최근 안보 정세에 대한 의견을 교환하였습니다. □ 동... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220530"
+		},
+		{
+			"title":"<b>국방<\/b>과학연구소, 인공지능 기반 야지\/험지 자율주행 기술 개발",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222744073166",
+			"description":"<b>국방<\/b>과학연구소(ADD, 소장 박종승)는 딥러닝 기반 인공지능 기술을 활용해 야지\/험지에서의 자율주행 기술 개발을 성공했습니다. 이번 연구 성과는 ADD가 ’17년부터 ’21년까지 4년간 방위사업청의 핵심기술... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220524"
+		},
+		{
+			"title":"<b>국방<\/b> AI 플랫폼 개발은  'AI과학기술 강군'을 위한 기술... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222801182372",
+			"description":"<b>국방<\/b>기술진흥연구소는 지난 5월 중순부터 급변하는 <b>국방<\/b>과학기술 이슈에 대해 선제적이고 적극적으로 대응하기 위해 ‘국기연 이슈페이퍼’(KRIT Issue Paper)를 발간해 오고 있으며, 이번 이슈페이퍼(22-3호)... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220705"
+		},
+		{
+			"title":"#<b>국방<\/b>부#제19차아시아안보회... 한-미 <b>국방<\/b>장관회담 개최",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222768631189",
+			"description":"이종섭 <b>국방<\/b>부장관과 오스틴 (Lloyd J. Austin III)미국 <b>국방<\/b>장관은 6월 11일(토) 싱가포르에서 샹그릴라 안보대화 계기에 개최된 이번 한미 <b>국방<\/b>장관회담에서 ▴대북정책 공조 및 확장억제, ▴연합준비태세... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220611"
+		},
+		{
+			"title":"#<b>국방<\/b>부 #제19차아시아안보회... 한-캐나다 <b>국방<\/b>장관회담... ",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222767477974",
+			"description":"이종섭 <b>국방<\/b>부 장관이 10일 오전, 싱가포르에서 열린 제19차 아시아안보회의(일명 '샹그릴라 대화') 계기로 애니타 아난드(Anita Anand) 캐나다 <b>국방<\/b>장관과 양자회담을 실시하고 악수를 나누는 모습 이종섭... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220610"
+		},
+		{
+			"title":"#<b>국방<\/b>부 #제19차아시아안보회... 한-네덜란드 <b>국방<\/b>장관면담... ",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222769861398",
+			"description":"이종섭 <b>국방<\/b>부 장관은 6월 12일(일) 싱가포르에서 제19차 아시아안보회의(일명 샹그릴라 대화) 참석 계기에 카샤 올롱그렌(Kajsa Ollongren) 네덜란드 <b>국방<\/b>장관과 접견하고, 한반도를 포함한 지역 안보정세 및 양국... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220612"
+		},
+		{
+			"title":"법의 날에 만나는 <b>국방<\/b>과학 관련 법 이야기. <b>국방<\/b>과학기술혁신... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222710840919",
+			"description":"유용한 <b>국방<\/b>기술 정보를 알려주는 ‘<b>국방<\/b>기술정보통합서비스’ UMEX 유용한 <b>국방<\/b>기술 정보를 알려주는 ‘<b>국방<\/b>기술정보통합서비스’ 안녕하세요! 방위사업청 서포터즈 팔방미인 12기 최윤주입니다. 지난 2월... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220425"
+		},
+		{
+			"title":"민군 소통 확대 -산학연이 참여하는 제5차 <b>국방<\/b>기술포럼 개최-",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222793715879",
+			"description":"방위사업청은 29일 '무인자율기술을 활용한 미래전장을 혁신적으로 선도한다'는 슬로건으로 제5차 <b>국방<\/b>기술포럼을 서울대학교에서 개최했습니다. ‘미래<b>국방<\/b>혁신을 위한 무인자율기술 확보전략’을 주제로... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220629"
+		},
+		{
+			"title":"#<b>국방<\/b>부 #국정과제 ❛튼튼한 <b>국방<\/b>, 과학기술 강군❜",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222731312429",
+			"description":"「<b>국방<\/b>부 국정과제」 튼튼한 <b>국방<\/b> 과학기술 강군 자유·평화·번영 <b>국방<\/b>혁신 4.0 추진으로 AI 과학기술 강군을 육성하겠습니다! ✅ 대통령 직속 「<b>국방<\/b>혁신 4.0 민·관 합동위원회」설치 ✅ AI 기반의 유·무인 복합... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220513"
+		},
+		{
+			"title":"방위사업청, 방위산업 육성을 위한 <b>국방<\/b> 중소·벤처기업 대상... ",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222758049458",
+			"description":"방위사업청(청장 강은호)은 <b>국방<\/b> 중소·벤처기업을 대상으로 현장의 목소리 청취를 위해 2022년 6월 3일... 초청하여 <b>국방<\/b> 중소·벤처기업 지원정책을(방산혁신기업 100 선정, 부품국산화개발지원사업... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220603"
+		},
+		{
+			"title":"[국민참여 카드뉴스] <b>국방<\/b>일보 무공훈장 찾아주기 캠페인",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222602773988",
+			"description":"정부혁신 1번가와 함께하는 국민이 참여하는 카드뉴스 X <b>국방<\/b>부 2021 정부혁신 우수사례 카드뉴스 <b>국방<\/b>일보 무공훈장 찾아주기 캠페인 71년이 지난 전쟁, 남겨진 54,000 개의 무공훈장 6·25 전쟁 발발... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20211225"
+		},
+		{
+			"title":"[<b>국방<\/b>부 업무보고]윤석열정부 <b>국방<\/b>정책방향과 세부 추진과제 보고",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222824449217",
+			"description":"가속화 ◈ ｢<b>국방<\/b>AI센터｣창설(’24년), 유･무인 복합체계 시범부대 본격 가동 ◈ 전구급 연합연습 정상화, 연대급 이상 연합야외기동훈련 재개 □ <b>국방<\/b>부는 7월 22일 대통령실에서 윤석열정부 <b>국방<\/b>분야... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220722"
+		},
+		{
+			"title":"방위사업청, 2022 <b>국방<\/b> 공공데이터 활용 창업경진대회 개최",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222751895285",
+			"description":"방위사업청과 병무청은 <b>국방<\/b> 공공데이터를 활용한 창의적 비즈니스 모델 발굴과 창업 촉진을 위해 5월 30일(월)부터 7월 22일(금)까지 ‘2022 <b>국방<\/b> 공공데이터 활용 창업경진대회’를 개최합니다. 공모... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220530"
+		},
+		{
+			"title":"개발 성공! 해외의존도는 DOWN, 국내 <b>국방<\/b>기술 수준은 UP!",
+			"link":"https:\/\/blog.naver.com\/dapapr?Redirect=Log&logNo=222701553322",
+			"description":"또한 잠수함 주요 체계인 추진체계를 국산화하여 해외 의존도를 낮추고 국내 <b>국방<\/b>과학기술 수준을 한층 높이고 잠수함 운용 능력을 배가하며 국내방위사업 활성화에도 기여할 것입니다. 본 게시물은... ",
+			"bloggername":"\"팔방미인\" 방위사업청 대표 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dapapr",
+			"postdate":"20220415"
+		},
+		{
+			"title":"한미 <b>국방<\/b>장관 전화통화 (2022. 5. 25.)",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222746170578",
+			"description":"한미 <b>국방<\/b>장관 전화통화 2022. 5. 25. 이종섭 <b>국방<\/b>부장관은 2022년 5월 25일 12:30(워싱턴 시간 5. 24. 23:30), 로이드 오스틴(Lloyd J. Austin Ⅲ) 미국 <b>국방<\/b>부장관과 전화통화를 실시하고, 오늘 오전에 감행된 북한의... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220525"
+		},
+		{
+			"title":"한-스웨덴 <b>국방<\/b>차관회담 개최",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222774089777",
+			"description":"신범철 <b>국방<\/b>부차관은 6월 15일 오전, 얀 올로프 린드(Jan-Olof Lind) 스웨덴 <b>국방<\/b>차관과 한-스웨덴 <b>국방<\/b>차관회담을 갖고, 한반도 및 유럽 안보정세, 스웨덴의 <b>국방<\/b>정책 변화 및 양국 간 <b>국방<\/b>교류협력 등에 대해... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220615"
+		},
+		{
+			"title":"미국 <b>국방<\/b>고등연구계획국, 소형 무인항공기 공중 회수 성공... ",
+			"link":"https:\/\/blog.naver.com\/ironman236?Redirect=Log&logNo=222791156627",
+			"description":"출처=janes.com 미 <b>국방<\/b>고등연구계획국이 C-130A 수송기를 이용해 X-16A 그렘린스 소형 무인항공기를... <b>국방<\/b>고등연구계획국은 시험을 통해 공중에서 발진한 무인항공기가 적 방어체계를 무력화한 뒤 다시... ",
+			"bloggername":"아이언맨블러그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ironman236",
+			"postdate":"20220627"
+		},
+		{
+			"title":"#<b>국방<\/b>부 #제19차아시아안보회... 한-뉴질랜드 <b>국방<\/b>장관회담... ",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222767792576",
+			"description":"이종섭 <b>국방<\/b>부 장관은 6월 10일 오후, 싱가포르에서 열린 제19차 아시아안보회의 (이하 ‘샹그릴라 대화’) 계기에 피니 헤나레 (Peeni Henare) 뉴질랜드 <b>국방<\/b>장관과 양자회담을 실시하고 역내 안보 정세 및 양국 간... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220610"
+		},
+		{
+			"title":"대구과학대 <b>국방<\/b>기술행정과 진로 설계 특강 실시",
+			"link":"https:\/\/blog.naver.com\/tsu_star?Redirect=Log&logNo=222743182752",
+			"description":"대구과학대 <b>국방<\/b>기술행정과 진로 설계 특강 실시 대구과학대학교 <b>국방<\/b>기술행정과가 한별문화홀에서 학생 진로설계 및 역량 강화를 위해 육군3사관학교 생도대장 임국기 장군을 초청해 특강을 실시했어요.... ",
+			"bloggername":"대구과학대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/tsu_star",
+			"postdate":"20220523"
+		},
+		{
+			"title":"『<b>국방<\/b> Zoom In』 2022년 하반기 달라지는 <b>국방<\/b>업무",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222793336471",
+			"description":"2022년 하반기 달라지는 <b>국방<\/b>업무 1. 군사법원법 개정에 따른 군사법제도 개편 ☑ ① 군인 등이 범한... 군사법원을 <b>국방<\/b>부 장관 직속의 군사법원으로 통합 ☑ <b>국방<\/b>부 장관 및 각 군 참모총장 소속으로 검찰단을... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220630"
+		},
+		{
+			"title":"北 탄도 미사일 발사 관련 한미 <b>국방<\/b>장관 공조통화 결과",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222722077209",
+			"description":"서욱 <b>국방<\/b>부장관은 2022년 5월 5일, 로이드 오스틴 ( Lloyd J. Austin Ⅲ) 미국 <b>국방<\/b>부장관과 전화통화를 실시하고, 한미동맹의 굳건함과 양국 <b>국방<\/b>당국의 긴밀한 공조체제를 재확인하였습니다. 양 장관은 이번... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220505"
+		},
+		{
+			"title":"[보훈행사] 2022년 6월 <b>국방<\/b>, 보훈뉴스",
+			"link":"https:\/\/blog.naver.com\/fromage?Redirect=Log&logNo=222775121508",
+			"description":"<b>국방<\/b>, 보훈행사(06월) 6.3(금) 제3회 한국광복군 합동 추모제전(한국광복군기념사업회), 강북구수유리 무후선열묘소, 11:00 \/ 6.5(일) 구파 백정기 의사 순국 88주기 추모제(구파백정기의사기념사업회)... ",
+			"bloggername":"월간보훈뉴스",
+			"bloggerlink":"https:\/\/blog.naver.com\/fromage",
+			"postdate":"20220616"
+		},
+		{
+			"title":"극동대, 류인석 <b>국방<\/b>어학원장 초청 특강 진행",
+			"link":"https:\/\/blog.naver.com\/kdublog?Redirect=Log&logNo=222747614540",
+			"description":"극동대, 류인석 <b>국방<\/b>어학원장 초청 특강 진행 재학생 대상, ‘대한민국 군인’ 주제 특강 극동대학교(총장 류기일)는 교내 스마트-K 테크센터 대강당에서 류인석 <b>국방<\/b>어학원장을 초청해 특강을 가졌다고 25일... ",
+			"bloggername":"극동대학교 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kdublog",
+			"postdate":"20220526"
+		},
+		{
+			"title":"#<b>국방<\/b>부#제19차아시아안보회... 한-싱가포르 <b>국방<\/b>장관회담... ",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222767814249",
+			"description":"이종섭 <b>국방<\/b>부장관은 싱가포르에서 개최된 제19차아시아안보회의 (일명 샹그릴라대화) 참석을 계기로 6월 10일 응엥헨(NGEngHen) 싱가포르 <b>국방<\/b>장관과 회담을 개최하고, 한반도를 포함한 지역 안보정세와 양국... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220610"
+		},
+		{
+			"title":"국토안전관리원-<b>국방<\/b>시설본부 전라제주시설단 ‘군 시설물... ",
+			"link":"https:\/\/blog.naver.com\/leebangheui?Redirect=Log&logNo=222793685426",
+			"description":"국토안전관리원(원장 김일환, 이하 관리원)은 28일 <b>국방<\/b>시설본부 전라제주시설단(단장 김종민)과 호남 및 제주지역의 군 시설물 건설안전 확보를 위한 업무협약을 체결했다고 밝혔다. <b>국방<\/b>시설본부... ",
+			"bloggername":"BANGABANGA",
+			"bloggerlink":"https:\/\/blog.naver.com\/leebangheui",
+			"postdate":"20220629"
+		},
+		{
+			"title":"국토교통부-<b>국방<\/b>부, 미래항공 모빌리티 및 <b>국방<\/b>드론 발전을... ",
+			"link":"https:\/\/blog.naver.com\/kips1214?Redirect=Log&logNo=222831457982",
+			"description":"▲ 2022 대한민국 드론 UAM 박람회 모습 국토교통부와 <b>국방<\/b>부가 “드론ㆍ도심항공교통산업의 발전 및 과학기술 강군 육성”을 위해 손을 맞잡았다. 국토교통부와 <b>국방<\/b>부는 드론과 도심항공교통으로 대표되는... ",
+			"bloggername":"로봇신문",
+			"bloggerlink":"https:\/\/blog.naver.com\/kips1214",
+			"postdate":"20220727"
+		},
+		{
+			"title":"(M프렌즈) 우리나라 <b>국방<\/b>, 어떤 준비가 어떻게 필요한 것일까?",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222831484361",
+			"description":"우리나라 <b>국방<\/b>, 어떤 준비가 어떻게 필요한 것일까? 동고동락 여러분 안녕하세요~! <b>국방<\/b>부 온라인 서포터즈 M프렌즈 7기(1팀) 입니다. 지난 6월 21일 화요일 <b>국방<\/b>부에서는 2022 <b>국방<\/b>기획 정책 포럼이... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20220727"
+		},
+		{
+			"title":"보훈Ⅱ] 한국보훈복지의료공단 이사장 <b>국방<\/b>홍보원 <b>국방<\/b> FM 출연",
+			"link":"https:\/\/blog.naver.com\/bohun1102?Redirect=Log&logNo=222811546360",
+			"description":"한국보훈복지의료공단 이사장 <b>국방<\/b>홍보원 <b>국방<\/b> FM &lt;국민과 함께 국군과 함께&gt; 출연 지난 13일, 한국보훈복지의료공단 감신 이사장이 <b>국방<\/b>홍보원 <b>국방<\/b> FM 프로그램인 &lt;국민과 함께 국군과 함께&gt;에... ",
+			"bloggername":"한국보훈복지의료공단",
+			"bloggerlink":"https:\/\/blog.naver.com\/bohun1102",
+			"postdate":"20220714"
+		}
+	]
+}

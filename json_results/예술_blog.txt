@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:32 +0900",
+	"total":9598942,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"대부도 애견동반식당 풍경 닭해물탕 <b>예술<\/b>이야",
+			"link":"https:\/\/blog.naver.com\/jjjuues?Redirect=Log&logNo=222778735677",
+			"description":"대부도 애견동반식당 풍경 닭해물탕 <b>예술<\/b>이야 ♥ 안녕하세요~ 푸파입니다. 며칠 전 저희 가족이 여행을... 시켰는데 <b>예술<\/b>이야 <b>예술<\/b>!! 글 쓰는 지금 또 먹고 싶어서 미쳐요 ㅋㅋㅋ 비주얼 무엇... 기본 10가지... ",
+			"bloggername":"빵식이와 율무가 사는 집",
+			"bloggerlink":"https:\/\/blog.naver.com\/jjjuues",
+			"postdate":"20220618"
+		},
+		{
+			"title":"<b>예술<\/b>의 전당 카페 , 테라로사 방문 후기",
+			"link":"https:\/\/blog.naver.com\/sysy828?Redirect=Log&logNo=222827885066",
+			"description":"지난번 <b>예술<\/b>의 전당 근처에 방문을 하게 되었다가 시원한 커피가 당겨 방문을 하게 되었던 테라로사에... 이후로 <b>예술<\/b>의 전당 카페 테라로사가 두번째 방문이었어요 ! <b>예술<\/b>의 전당 카페 - 테라로사 방문 후기... ",
+			"bloggername":"ssosso's dairy.",
+			"bloggerlink":"https:\/\/blog.naver.com\/sysy828",
+			"postdate":"20220725"
+		},
+		{
+			"title":"가볼만한 곳 2022년 5월의 가오슝 駁二藝術特區 - 보얼<b>예술<\/b>특구",
+			"link":"https:\/\/blog.naver.com\/iii0216?Redirect=Log&logNo=222826902110",
+			"description":"2022년 5월 11일 다녀온 가오슝 보얼<b>예술<\/b>특구 駁二藝術特區 (중국어 발음 : 보얼이쑤터취) 엄청 늦어버렸지만 늦더라도 올려본다. 보얼<b>예술<\/b>특구에 대해 사전지식이라곤 하나도 없는 사람이 다녀온 후기. 대만에서... ",
+			"bloggername":"임쨩의 대만생활편",
+			"bloggerlink":"https:\/\/blog.naver.com\/iii0216",
+			"postdate":"20220724"
+		},
+		{
+			"title":"대만 가오슝 여행 정보_보얼<b>예술<\/b>특구, 치진섬",
+			"link":"https:\/\/blog.naver.com\/imboralee?Redirect=Log&logNo=222819196683",
+			"description":"대만 가오슝 가볼 만한 곳 과무사구, 보얼<b>예술<\/b>특구, 치진섬 1. 과무사구 \/ 구어무셔취 Guomao Community... 보얼<b>예술<\/b>특구 2. 보얼<b>예술<\/b>특구 The Pier-2 Art Centre 駁二藝術特區 추천&quot; 지하철 시지환 역 Sizihwan Station과... ",
+			"bloggername":"방랑자, 뽀라리",
+			"bloggerlink":"https:\/\/blog.naver.com\/imboralee",
+			"postdate":"20220726"
+		},
+		{
+			"title":"<b>예술<\/b>의전당 골드회원을 위한 music vacation ( 첼로 문태국... ",
+			"link":"https:\/\/blog.naver.com\/dktladl1?Redirect=Log&logNo=222827904459",
+			"description":"바로 <b>예술<\/b>의전당 유료회원인 골드회원 ㅋㅋㅋ 10만원이라는 연회비 때문에 가입을 망설이다 올해... 하나는 얼마전 진행되었던 <b>예술<\/b>의전당 골드회원을 위한 뮤직 베케이션 음악회 초대 이벤트였어요. 300명... ",
+			"bloggername":"아심이의 여행일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/dktladl1",
+			"postdate":"20220725"
+		},
+		{
+			"title":"미대유학? 졸업 후 취업이 잘되는, 싱가포르 <b>예술<\/b>대학 입학설명회",
+			"link":"https:\/\/blog.naver.com\/mongssing?Redirect=Log&logNo=222829897138",
+			"description":"국비지원과 취업보조 혜택을 받을 수 있는 곳 싱가포르 라셀 종합<b>예술<\/b>대학교의 입학설명회가... 특히 싱가포르 종합<b>예술<\/b>대학교 라셀 (LASALLE)의 경우한국 학생들에게도 국비지원와 취업보조 제도를... ",
+			"bloggername":"ⓜ 몽선생블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mongssing",
+			"postdate":"20220727"
+		},
+		{
+			"title":"옛 정취가 느껴지는 소박한 골목 안덕벌 <b>예술<\/b>의 거리",
+			"link":"https:\/\/blog.naver.com\/cjcityblog?Redirect=Log&logNo=222809954312",
+			"description":"청주 안덕벌 <b>예술<\/b>의 거리를 아시나요? 안덕벌 <b>예술<\/b>의 거리는 구 연초제조창의 조업중단으로 인한 급격한 인구감소와 상권 쇠퇴한 지역의 도시재생사업으로 문화·<b>예술<\/b>의 거리를 조성을 통한 유동인구 증가 및... ",
+			"bloggername":"청주시청 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/cjcityblog",
+			"postdate":"20220715"
+		},
+		{
+			"title":"<b>예술<\/b> 작품이 된 우주 이야기-우주와 <b>예술<\/b>이 만날 때",
+			"link":"https:\/\/blog.naver.com\/djenews?Redirect=Log&logNo=222785492572",
+			"description":"화성(Mars)을 갤러리 카페 이름으로 해서 과학과 <b>예술<\/b>이 접목한 전시를 주로 하겠구나 생각했습니다. 지금은 랩마스 아트갤러리란 이름에 딱 맞는 전시를 하고 있는데, &lt;우주와 <b>예술<\/b>이 만날 때&gt; 영상... ",
+			"bloggername":"대전광역시교육청",
+			"bloggerlink":"https:\/\/blog.naver.com\/djenews",
+			"postdate":"20220623"
+		},
+		{
+			"title":"음악과 <b>예술<\/b>과 호국정신이 깃든 인계<b>예술<\/b>공원 ☆",
+			"link":"https:\/\/blog.naver.com\/suwonloves?Redirect=Log&logNo=222820487040",
+			"description":"<b>예술<\/b>과 음악과 호국정신이 깃든 인계<b>예술<\/b>공원을 소개합니다. 수원시 인계동에 있는 <b>예술<\/b>공원은 이름에서 말하듯 <b>예술<\/b>을 공원에 접목했는데요. <b>예술<\/b>공원은 크게 음악과 <b>예술<\/b>과 현충 시설과 우거진 숲... ",
+			"bloggername":"도란도란 수원 e야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/suwonloves",
+			"postdate":"20220720"
+		},
+		{
+			"title":"[중랑문화재단]문화<b>예술<\/b>기획 직무 교육 강의 1회차",
+			"link":"https:\/\/blog.naver.com\/koreatheatre?Redirect=Log&logNo=222821144045",
+			"description":"7~8월은 기관에서 의뢰하는 문화<b>예술<\/b> 분야 특강이 많습니다. 오늘은 중랑문화재단에 강의 의뢰를 받아 다녀왔는데요. 뉴딜 일자리 사업 관련해 직무 교육을 진행하고 왔습니다. 뉴딜 일자리 사업은 문화<b>예술<\/b>... ",
+			"bloggername":"연긍정 월드",
+			"bloggerlink":"https:\/\/blog.naver.com\/koreatheatre",
+			"postdate":"20220720"
+		},
+		{
+			"title":"아름다운 풍경과 <b>예술<\/b>이 만나는 곳, 바람흔적 미술관",
+			"link":"https:\/\/blog.naver.com\/namhae_gun?Redirect=Log&logNo=222813555021",
+			"description":"바람흔적 미술관 아름다운 풍경과 <b>예술<\/b>이 만나는 '바람흔적 미술관' 이곳은 남해군 삼동면에 위치하여 바람을 테마로 수많은 바람개비를 비롯한 설치미술가 최영호 작가의 작품으로 만들어진 공간입니다.... ",
+			"bloggername":"남해랑 썸타자",
+			"bloggerlink":"https:\/\/blog.naver.com\/namhae_gun",
+			"postdate":"20220720"
+		},
+		{
+			"title":"안양 <b>예술<\/b>공원 - 삼성천 계곡",
+			"link":"https:\/\/blog.naver.com\/yamako0221?Redirect=Log&logNo=222817164961",
+			"description":"하구요 그래도 물놀이 신나고 좋데요~ 또 놀고 싶다네요 ㅋㅋㅋ 칠복이는 집에 오는길에 차에서 푹 잠들었어요 ㅋㅋ #안양 #안양<b>예술<\/b>공원 #삼성천계곡 #안양<b>예술<\/b>공원삼성천계곡 #물놀이 #계곡 #계곡에서물놀이",
+			"bloggername":"히히낭낭",
+			"bloggerlink":"https:\/\/blog.naver.com\/yamako0221",
+			"postdate":"20220718"
+		},
+		{
+			"title":"여수 <b>예술<\/b>랜드, 인스타 사진 명소",
+			"link":"https:\/\/blog.naver.com\/cheonrim?Redirect=Log&logNo=222819549112",
+			"description":"2018년 오픈한 여수 <b>예술<\/b>랜드도 그 중 하나입니다. 입구에 있는 건물 로비의 내부 장식과 구조가 범상치 않아 보입니다. <b>예술<\/b>랜드는 환상적인 바다 전망의 숙박시설과 함께 다양한 볼거리, 놀거리를 갖추고 있는... ",
+			"bloggername":"자연과 문화의 칼레이도스코프",
+			"bloggerlink":"https:\/\/blog.naver.com\/cheonrim",
+			"postdate":"20220719"
+		},
+		{
+			"title":"[전라도 여름휴가] 섬 자체가 <b>예술<\/b>작품! 낭만이 가득한 그림... ",
+			"link":"https:\/\/blog.naver.com\/tourgoheung?Redirect=Log&logNo=222822594666",
+			"description":"섬 자체가 <b>예술<\/b>작품이란 느낌이 드는 곳이랍니다. 연홍도에 가려면 신양 선착장에서 배를 타야 합니다. 편도는 1000원, 왕복은 2000원이고 시설관리 유지비로 대인은 3000원, 소인은 1000원을 받고 있는데요. 배에... ",
+			"bloggername":"고흥관광 공식블로그_고흥여행",
+			"bloggerlink":"https:\/\/blog.naver.com\/tourgoheung",
+			"postdate":"20220721"
+		},
+		{
+			"title":"<b>예술<\/b>로 나아가는 김해, 봄 스테이와 아름다운 길",
+			"link":"https:\/\/blog.naver.com\/mltmkr?Redirect=Log&logNo=222827863284",
+			"description":"봄 스테이 <b>예술<\/b>의 아름다움이 공존하는 곳 김해 봄 스테이 입구 인생의 가치를 어디에 둘 수 있을까요.... 봉황대길을 걷다 보면 만날 수 있는 봄 스테이는 <b>예술<\/b>거리로 가는 중간지점에 자리하고 있습니다. 봄... ",
+			"bloggername":"국토교통부",
+			"bloggerlink":"https:\/\/blog.naver.com\/mltmkr",
+			"postdate":"20220725"
+		},
+		{
+			"title":"담벼락에 핀 벽화 따라 걷는, 영천 도담<b>예술<\/b>산책길",
+			"link":"https:\/\/blog.naver.com\/pride_gb?Redirect=Log&logNo=222828084258",
+			"description":"담벼락에 핀 벽화 따라 걷는, 영천 도담<b>예술<\/b>산책길 영천의 도담<b>예술<\/b>산책길입니다. 화사한 벽화가 골목 가득하게 이어져서 벽화 구경하며 천천히 거닐 수 있는 산책길이에요. 우선 영천강변에 있는 갤러리 큐브를... ",
+			"bloggername":"경상북도 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/pride_gb",
+			"postdate":"20220725"
+		},
+		{
+			"title":"일상모음8 (뮤지컬 데스노트 \/ <b>예술<\/b>의 전당 백년옥)",
+			"link":"https:\/\/blog.naver.com\/luvvving?Redirect=Log&logNo=222824899993",
+			"description":"진지하게 블로그 때문에 외식하러 가야할 것 같다 뮤지컬 데스노트(<b>예술<\/b>의 전당) Previous image Next image... 보다보니 회전문 가능할것 같기두하고..어쩌면 또 보러갈지도 몰라 ㅋㅋㅋㅋㅋ [서초\/<b>예술<\/b>의 전당]... ",
+			"bloggername":"♥줴의 블로그♥",
+			"bloggerlink":"https:\/\/blog.naver.com\/luvvving",
+			"postdate":"20220722"
+		},
+		{
+			"title":"독일 중남부 소도시의 <b>예술<\/b>, 문화, 휴양 여행!",
+			"link":"https:\/\/blog.naver.com\/linkandleave?Redirect=Log&logNo=222822578552",
+			"description":"뮌헨 문화 <b>예술<\/b>의 중심지, 뮌헨 뮌헨은 오래전부터 '독일 문화의 수도'라 불려 왔습니다. 뮌헨 곳곳에... 당시 시대의 왕들은 문학과 미술, 음악, 건축 등과 같은 <b>예술<\/b> 분야에도 관심이 많아 다양한 건축 문화가... ",
+			"bloggername":"링켄리브 여행스토리",
+			"bloggerlink":"https:\/\/blog.naver.com\/linkandleave",
+			"postdate":"20220721"
+		},
+		{
+			"title":"뮤지컬 데스노트 - 홍광호 &amp; 김성철 페어 \/<b>예술<\/b>의 전당",
+			"link":"https:\/\/blog.naver.com\/rana0626?Redirect=Log&logNo=222821297777",
+			"description":"<b>예술<\/b>의 전당 오페라 극장에서 공연중인 데스노트 홍광호 &amp; 김성철 페어 홍광호 공연은 표 구하는 것도... <b>예술<\/b>의 전당은 데스노트를 보러 온 인파로 북적거렸다. 보통 공연장을 가서 로비에 있다 보면 공연의... ",
+			"bloggername":"슬 픈 중 독 자",
+			"bloggerlink":"https:\/\/blog.naver.com\/rana0626",
+			"postdate":"20220720"
+		},
+		{
+			"title":"가오슝(1) 대만 아침식사 | 보얼<b>예술<\/b>특구 | 페리타고 치진섬... ",
+			"link":"https:\/\/blog.naver.com\/mjmj9301?Redirect=Log&logNo=222830854873",
+			"description":"보얼 <b>예술<\/b> 특구로 이동… 9월의 가오슝 너무 덥다. 보얼 <b>예술<\/b>특구는 성수동 처럼 공장지대를 문화공간으로 바꾼 곳이다. 대만에는 이런 곳이 꽤 많다. 유명한 피어2 대만스러운 벽화 도저히 너무 더워서 카페로... ",
+			"bloggername":"쉬엄쉬엄 쉬어가자",
+			"bloggerlink":"https:\/\/blog.naver.com\/mjmj9301",
+			"postdate":"20220727"
+		},
+		{
+			"title":"목조각장 <b>예술<\/b>작품 만나는 목아박물관 즐길거리 가득",
+			"link":"https:\/\/blog.naver.com\/yeojuhangul?Redirect=Log&logNo=222828075224",
+			"description":"지역문화<b>예술<\/b>플랫폼육성사업 기획전 상여 망자의 작은 집이 개최되고 있습니다. 상여는 상례 때... 2층의 경우 사찰에서 만날 수 있는 불교문화제와 <b>예술<\/b>품들이 전시되고 3층은 목아 박찬수 선생의... ",
+			"bloggername":"여주시블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/yeojuhangul",
+			"postdate":"20220725"
+		},
+		{
+			"title":"경기도 데이트코스 숲속 힐링 산책 가능한 안양 <b>예술<\/b>공원",
+			"link":"https:\/\/blog.naver.com\/kokoun85?Redirect=Log&logNo=222822456916",
+			"description":"최근 자연과 함께 숲속 산책도 가능하고 <b>예술<\/b> 작품을 볼 수 있는 독특한 공원인 안양 <b>예술<\/b>공원을 다녀왔습니다. 안양 <b>예술<\/b>공원 경기도 안양시 만안구 <b>예술<\/b>공원로 131번길 7 안양<b>예술<\/b>공원은 여름이 되면 사람이... ",
+			"bloggername":"라파의 여행일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/kokoun85",
+			"postdate":"20220723"
+		},
+		{
+			"title":"[참가업체]<b>예술<\/b>융합교육센터_앱북을 활용한 단계별 온라인... ",
+			"link":"https:\/\/blog.naver.com\/childrenexpo?Redirect=Log&logNo=222831401065",
+			"description":"회사 소개 <b>예술<\/b>융합교육센터는 <b>예술<\/b>을 중심으로 한 국내 유일의 온라인 교육용 콘텐츠 개발을 목적으로 설립되었으며 전문가들로 구성되어 체계적이고 창의적인 프로그램 개발을 목적으로 연구하고 있습니다... ",
+			"bloggername":"에듀플러스위크",
+			"bloggerlink":"https:\/\/blog.naver.com\/childrenexpo",
+			"postdate":"20220727"
+		},
+		{
+			"title":"동성시장 문화<b>예술<\/b>공간을 한지로 밝히는 송금숙 한지공예가",
+			"link":"https:\/\/blog.naver.com\/daegu_news?Redirect=Log&logNo=222816820139",
+			"description":"대구 도심 속 시민형 <b>예술<\/b> 프로젝트를 진행하고 있는 동성<b>예술<\/b>문화공간의 대표이자 대구 한지공예가로 활발히 활동하고 계시는 송금숙 대표님을 만나보았습니다. Q. 자기소개 부탁드립니다. 안녕하세요.... ",
+			"bloggername":"대구광역시 공식 블로그♥",
+			"bloggerlink":"https:\/\/blog.naver.com\/daegu_news",
+			"postdate":"20220718"
+		},
+		{
+			"title":"보령 개화 <b>예술<\/b>공원 허브랜드",
+			"link":"https:\/\/blog.naver.com\/iitop?Redirect=Log&logNo=222818632152",
+			"description":"보령 개화<b>예술<\/b>공원 위치\/이용시간\/입장료 위치 충남 보령시 성주면 개화리 177-2 이용시간 09:00~18:00... 개화<b>예술<\/b>공원이 있는데요. 올라오는 길에 들렀다가 은근히 넓어서 조금 속도있게 빠르게 다녀봤었어요.... ",
+			"bloggername":"헤이신디",
+			"bloggerlink":"https:\/\/blog.naver.com\/iitop",
+			"postdate":"20220719"
+		},
+		{
+			"title":"20220701_“임윤찬은 시작일 뿐” … <b>예술<\/b>영재 수천명",
+			"link":"https:\/\/blog.naver.com\/wavata?Redirect=Log&logNo=222828707800",
+			"description":"뿐” … <b>예술<\/b>영재 수천명이 크고 있다 6 한국경제 O 동네학원이 찾아낸 ‘K클래식 원석’ … 한예종·기업이 보석으로 키워 7 한국경제 O 1인당 GDP 1만弗 늘 때마다 … 한국서 클래식 천재들이 등장했다 8... ",
+			"bloggername":"어린왕자 문명통찰",
+			"bloggerlink":"https:\/\/blog.naver.com\/wavata",
+			"postdate":"20220725"
+		},
+		{
+			"title":"『저항의 <b>예술<\/b>』",
+			"link":"https:\/\/blog.naver.com\/cara57?Redirect=Log&logNo=222820830113",
+			"description":"『저항의 <b>예술<\/b>』 -포스터로 읽는 100여 년 저항과 투쟁의 역사 조 리폰 지음 \/ 국네엠네스티 협력기획 \/ #씨네21북스 . . 물론 <b>예술<\/b>작품은 <b>예술<\/b>가에 의해 행해지고 의미를 부여받지만 이는 부분적으로 이루어지는... ",
+			"bloggername":"소피아의 책장",
+			"bloggerlink":"https:\/\/blog.naver.com\/cara57",
+			"postdate":"20220720"
+		},
+		{
+			"title":"&lt;관객<b>예술<\/b>학교&gt; 전통<b>예술<\/b>아카데미 현장스케치!",
+			"link":"https:\/\/blog.naver.com\/ntok2010?Redirect=Log&logNo=222822680889",
+			"description":"국립극장은 지난 4월부터 5월까지 &lt;관객<b>예술<\/b>학교&gt; '전통<b>예술<\/b>아카데미' 수강생을 모집했습니다. '전통<b>예술<\/b>아카데미'는 국립극장 전속단체 단원에게 전통<b>예술<\/b>의 기본기를 배울 수 있는 일반인 대상 실기 교육... ",
+			"bloggername":"국립극장 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ntok2010",
+			"postdate":"20220721"
+		},
+		{
+			"title":"나온 <b>예술<\/b> - 한국무용의 멋과 아름다움 「김나영<b>예술<\/b>단」",
+			"link":"https:\/\/blog.naver.com\/hope_city?Redirect=Log&logNo=222819026641",
+			"description":"이번 주 토요일에는 찾아가는 문화힐링 '2022년도 거리로 나온 <b>예술<\/b>'이 공연된다는 소식을 듣고 찾아가 보았습니다. 2022년도 거리로 나온 <b>예술<\/b>은 경기도와 의정부시 공동으로 주관하는 <b>예술<\/b>사업입니다.... ",
+			"bloggername":"의정부시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hope_city",
+			"postdate":"20220720"
+		},
+		{
+			"title":"서울문화<b>예술<\/b>교육 영상고등학교 <b>예술<\/b>원예수업 특성화고... ",
+			"link":"https:\/\/blog.naver.com\/miyaa1212?Redirect=Log&logNo=222823895618",
+			"description":"원예통합교육 '미미그라스' 서울 문화<b>예술<\/b>교육 프로그램, 단순하게 표현하는 수단을 넘어 스스로의 생각과 만나게되는 지점, 그 지점에서 피어오르는 고등학생들의 Creative를 마중할 시간입니다. <b>예술<\/b>과... ",
+			"bloggername":"원예통합교육 미미그라스",
+			"bloggerlink":"https:\/\/blog.naver.com\/miyaa1212",
+			"postdate":"20220722"
+		},
+		{
+			"title":"<b>예술<\/b>의 도시 비엔나, 오스트리아 여행",
+			"link":"https:\/\/blog.naver.com\/linkandleave?Redirect=Log&logNo=222824488644",
+			"description":"바로크 <b>예술<\/b>까지 다양한 작품을 만나볼 수 있어 문화 <b>예술<\/b>의 전 역사를 엿볼 수 있다고 해도 과언이 아닙니다. 특히 회화 작품들은 질적 수준에서 유럽 1,2위를 다툴 만큼 뛰어난 작품들이라고 합니다.... ",
+			"bloggername":"링켄리브 여행스토리",
+			"bloggerlink":"https:\/\/blog.naver.com\/linkandleave",
+			"postdate":"20220722"
+		},
+		{
+			"title":"대구학생<b>예술<\/b>창작터, 지역주민 초청의 날 운영",
+			"link":"https:\/\/blog.naver.com\/dgeduon?Redirect=Log&logNo=222820445889",
+			"description":"대구학생<b>예술<\/b>창작터는 7월 20일(수) 오후 6시부터 2시간 동안 ‘지역주민 초청의 날’을 운영합니다. ‘지역주민 초청의 날’은 올해 4월 개관한 대구학생<b>예술<\/b>창작터를 지역주민들에게 소개하고 지역사회... ",
+			"bloggername":"대구교육청, 미래를 배운다 함께 성장한다",
+			"bloggerlink":"https:\/\/blog.naver.com\/dgeduon",
+			"postdate":"20220720"
+		},
+		{
+			"title":"2022#52. 《저항의 <b>예술<\/b>》 조 리폰",
+			"link":"https:\/\/blog.naver.com\/jina502?Redirect=Log&logNo=222817607932",
+			"description":"&lt;저항의 <b>예술<\/b>&gt; 조 리폰 \/ 한겨레출판사 잘 쓰여진 좋은 글감이라도 하나의 이미지가 주는 전달력을... &lt;저항의 <b>예술<\/b>&gt;은 140여개의 포스터를 읽으며 당시의 인권운동의 역사와 투쟁의 뜨거움을 가까이 느껴볼 수... ",
+			"bloggername":"그녀의 독서일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/jina502",
+			"postdate":"20220718"
+		},
+		{
+			"title":"의령군 ‘일상으로 스며드는 문화 <b>예술<\/b>공연’ 행사 개최",
+			"link":"https:\/\/blog.naver.com\/uiryeonginfo?Redirect=Log&logNo=222828167036",
+			"description":"의령군 ‘일상으로 스며드는 문화 <b>예술<\/b>공연’ 행사 개최 의령군 블로그 기자단 조강유 의령군에서는 7월 6일부터 8월 31일까지 두 달 동안 ‘일상으로 스며드는 문화 <b>예술<\/b>공연’ 행사를 개최하고 있습니다.... ",
+			"bloggername":"경상남도 의령군 공식블로그 \"의령이야기\"",
+			"bloggerlink":"https:\/\/blog.naver.com\/uiryeonginfo",
+			"postdate":"20220725"
+		},
+		{
+			"title":"시원한 문화산책, 북구 문화<b>예술<\/b>회관",
+			"link":"https:\/\/blog.naver.com\/with_pen?Redirect=Log&logNo=222822642557",
+			"description":"바로 '북구 문화<b>예술<\/b>회관'이다. 매월 첫째 수요일이면 북구 문화<b>예술<\/b>회관에 주민들이 삼삼오오 모인다. 이곳에는 문화<b>예술<\/b>회관과 빙상장이 한 건물에 있다. 문화<b>예술<\/b>회관은 2층이고 빙상장은 1층으로, 두... ",
+			"bloggername":"부산광역시교육청",
+			"bloggerlink":"https:\/\/blog.naver.com\/with_pen",
+			"postdate":"20220721"
+		},
+		{
+			"title":"여름 휴가 가볼 만한 곳! 안양<b>예술<\/b>공원 계곡 물놀이 추천 코스 5",
+			"link":"https:\/\/blog.naver.com\/gyeonggi_gov?Redirect=Log&logNo=222828168955",
+			"description":"안양<b>예술<\/b>공원 계곡 물놀이 추천 코스 5 [안선영기자] 신나고 즐거운 여름방학이 시작되었습니다.... 당일치기로 가볍게 놀기 좋은 물놀이 명소, 경기도 안양 만안구에 자리한 안양<b>예술<\/b>공원 계곡을 소개합니다.... ",
+			"bloggername":"경기도 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gyeonggi_gov",
+			"postdate":"20220725"
+		},
+		{
+			"title":"종로문화재단 방학특강 <b>예술<\/b>교육프로그램 &lt;메타버스 무대제작... ",
+			"link":"https:\/\/blog.naver.com\/jn_jfac?Redirect=Log&logNo=222830987323",
+			"description":"아이들극장입니다:) 저희 아이들극장에서는 흥미로운 공연<b>예술<\/b>과 문화<b>예술<\/b>을 통해 아이들의 자율성과 창의성을 신장시키고 <b>예술<\/b>적 감수성을 자극시키는 다양한 문화<b>예술<\/b>교육을 진행하고 있습니다!... ",
+			"bloggername":"종로문화재단 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/jn_jfac",
+			"postdate":"20220727"
+		},
+		{
+			"title":"김포 전시회 김포아트홀 2022김포<b>예술<\/b>활동지원사업 지혜의 숲... ",
+			"link":"https:\/\/blog.naver.com\/gimpo2010?Redirect=Log&logNo=222830901124",
+			"description":"사우동에 위치한 김포아트홀은 김포시민의 삶의 질 향상과 문화<b>예술<\/b>의 진흥을 위해 건립된 김포시... 지역 <b>예술<\/b>인 및 <b>예술<\/b> 단체의 활동을 지원하고, 시민을 위한 양질의 문화 서비스를 제공하여 김포시... ",
+			"bloggername":"김포시청 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gimpo2010",
+			"postdate":"20220727"
+		},
+		{
+			"title":"<b>예술<\/b>의전당, 여름맞이 다양한 프로그램 개최",
+			"link":"https:\/\/blog.naver.com\/allthat_art?Redirect=Log&logNo=222804322454",
+			"description":"사회적 거리두기 종료 이후 처음으로 맞는 여름, <b>예술<\/b>의전당은 다양한 프로그램들로 관객들을... 함께 <b>예술<\/b>을 자유롭게 즐길 수 있는 애(愛)술인축제가 열린다. <b>예술<\/b>의전당 기획 프로그램인 '어린이 가족... ",
+			"bloggername":"올댓아트 뮤지컬",
+			"bloggerlink":"https:\/\/blog.naver.com\/allthat_art",
+			"postdate":"20220708"
+		},
+		{
+			"title":"[전시 소개] 2022 지역문화<b>예술<\/b>지원사업, 7월 전시 소개",
+			"link":"https:\/\/blog.naver.com\/daeguculture?Redirect=Log&logNo=222830784337",
+			"description":"대문지기입니당:-D 저희 대구문화재단은 <b>예술<\/b>인 창작 안전망 강화와 지역 <b>예술<\/b>계가 공감하는 현장 중심의 지원제도 실현을 위해 '지역문화<b>예술<\/b>지원사업'을 진행하고 있습니다 선정된 <b>예술<\/b>인과 <b>예술<\/b>단체의... ",
+			"bloggername":"(재)대구문화재단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daeguculture",
+			"postdate":"20220727"
+		},
+		{
+			"title":"지역주민과 함께하는 '오량 문화<b>예술<\/b> 페스티벌!'",
+			"link":"https:\/\/blog.naver.com\/djenews?Redirect=Log&logNo=222785850216",
+			"description":"문화<b>예술<\/b> 페스티벌’이 열렸습니다. 코로나19로 인해 몸과 마음이 지친 학생들을 비롯해 교사, 학부모, 지역주민들이 새로운 활력을 얻길 바라는 바람으로 기획했다고 합니다. '2022 오량 문화<b>예술<\/b> 페스티벌... ",
+			"bloggername":"대전광역시교육청",
+			"bloggerlink":"https:\/\/blog.naver.com\/djenews",
+			"postdate":"20220623"
+		},
+		{
+			"title":"&lt;문화<b>예술<\/b>을 활용한 ESG 경영 제안&gt; 기업설명회 다시보기",
+			"link":"https:\/\/blog.naver.com\/i_sfac?Redirect=Log&logNo=222811639857",
+			"description":"서울문화재단은 지난 7월 8일 &lt;문화<b>예술<\/b>을 활용한 ESG 경영 제안&gt; 기업 설명회를 개최하였다. 문화<b>예술<\/b>계에서 처음으로 시도한 이번 설명회는 팬데믹 이후 우리 사회 전반으로 확장되고 있는 지속가능한 경영... ",
+			"bloggername":"서울문화재단 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/i_sfac",
+			"postdate":"20220715"
+		},
+		{
+			"title":"[술술센터] <b>예술<\/b>생태랩: 쇼모스 신작 쇼케이스 연습 현장",
+			"link":"https:\/\/blog.naver.com\/ydpcf2014?Redirect=Log&logNo=222820978880",
+			"description":"<b>예술<\/b>생태랩입니다. <b>예술<\/b>생태랩 프로젝트 중 하나인 쇼모스 신작 쇼케이스 워크숍 현장을 다녀왔습니다! 쇼모스 신작 쇼케이스? 서커스, 마임, 마술, 연극 등의 장르에서 활동하는 공연<b>예술<\/b>가의 신작을 발표하는... ",
+			"bloggername":"영등포문화재단",
+			"bloggerlink":"https:\/\/blog.naver.com\/ydpcf2014",
+			"postdate":"20220720"
+		},
+		{
+			"title":"영아를 위한 따뜻한 문화<b>예술<\/b>공연 [배 안에서]",
+			"link":"https:\/\/blog.naver.com\/gyeyang_gu?Redirect=Log&logNo=222831225966",
+			"description":"인천 문화재단과 인천육아지원센터에서 영아들을 위해 문화<b>예술<\/b>공연을 준비했다고 합니다. 제목은... 상상이상 &lt;사람이 <b>예술<\/b>이 되는 空間(공간)&gt; 아이부터 어른까지 모든 관객을 존중하는 <b>예술<\/b>가들이 이상적인... ",
+			"bloggername":"계양구청 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gyeyang_gu",
+			"postdate":"20220727"
+		},
+		{
+			"title":"<b>예술<\/b>의전당 카페 프리퍼 인절미 티라미슈 레전설....",
+			"link":"https:\/\/blog.naver.com\/qkrdlszoq?Redirect=Log&logNo=222810153563",
+			"description":"오늘은 지난번에 다녀온 <b>예술<\/b>의전당 마일즈알드리지전 관람 후 갔었던 <b>예술<\/b>의전당 카페 내돈내산 방문 후기인데요. 제가 촬영 예약을 하고 간 것도 아니고, 주말이라 사람들이 너무 많아서 제대로 된 사진을... ",
+			"bloggername":"하이힐소년의 9cm 높은 뷰티 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/qkrdlszoq",
+			"postdate":"20220713"
+		},
+		{
+			"title":"냉면장인 임사부&amp;국밥 | 양이 푸짐한 안양<b>예술<\/b>공원 식당",
+			"link":"https:\/\/blog.naver.com\/misun3031000?Redirect=Log&logNo=222830733297",
+			"description":"퇴근하고 저녁먹으러 안양<b>예술<\/b>공원에 방문 했습니다.  냉면장인 임사부&amp;국밥 안양<b>예술<\/b>공원로 124 [영업시간] 10:00 ~ 21:00 \/ 매주 월요일 휴무 안양<b>예술<\/b>공원, 안양유원지 이쪽은 처음 가봤는데 길따라 쭉... ",
+			"bloggername":"Atelier 331",
+			"bloggerlink":"https:\/\/blog.naver.com\/misun3031000",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[모집] 진심대면_한 사람을 위한 <b>예술<\/b> <b>예술<\/b>가 모집!",
+			"link":"https:\/\/blog.naver.com\/e_afca?Redirect=Log&logNo=222822535080",
+			"description":"진심대면_한 사람을 위한 <b>예술<\/b> <b>예술<\/b>가 모집 기간 : 2022.7.18~7.29 분야_ 공연, 시각<b>예술<\/b>, 전통<b>예술<\/b>, 문학 등 &lt;한 사람을 위한 <b>예술<\/b>_진심대면&gt; 자료집을 펼치면 가장 먼저 정현종 시인의 &lt;방문객&gt;을 만날 수 있습니다.... ",
+			"bloggername":"안양문화예술재단",
+			"bloggerlink":"https:\/\/blog.naver.com\/e_afca",
+			"postdate":"20220721"
+		},
+		{
+			"title":"[강동구 기자단] 청년공방이 자리한 문화<b>예술<\/b>거리 '엔젤공방'",
+			"link":"https:\/\/blog.naver.com\/gangdongpr?Redirect=Log&logNo=222830827828",
+			"description":"청년공방이 자리한 문화<b>예술<\/b>거리 '엔젤공방' 강동구 성안로거리를 걷다보면 시선을 사로잡는 색색깔의... 기존에 성내동 통학로 주변의 변종업소를 걷어내고, 그 자리에 젊은 청년 <b>예술<\/b>가들이 운영하는 공방을... ",
+			"bloggername":"강동구 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gangdongpr",
+			"postdate":"20220727"
+		},
+		{
+			"title":"춤이기도, 노래이기도, 놀이이기도 한  전통<b>예술<\/b> &lt;꼭두각시... ",
+			"link":"https:\/\/blog.naver.com\/jump_arko?Redirect=Log&logNo=222803213834",
+			"description":"춤이기도, 노래이기도, 놀이이기도 한 전통<b>예술<\/b> 전통<b>예술<\/b> &lt;꼭두각시&gt; 네이버TV 라이브 2022년 7월 7일(목) 오후 8시 ▶일정 : 2022년 07월 07일(목) 오후 8시 ※ 티켓 판매 : 6\/24(금) ~ 7\/7(목) 오후 10시 ▶내용... ",
+			"bloggername":"예술의 향기",
+			"bloggerlink":"https:\/\/blog.naver.com\/jump_arko",
+			"postdate":"20220707"
+		},
+		{
+			"title":"[ 2022 대구 중구청 기자단 ] 특색 있는 대구의 <b>예술<\/b>거리... ",
+			"link":"https:\/\/blog.naver.com\/dgjunggu?Redirect=Log&logNo=222827963904",
+			"description":"Previous image Next image 대구 도심에 있는 약 630m의 일직선 길로 대구를 대표하는 문화 <b>예술<\/b>의 거리로서 크고 작은 화랑들이 모여 있던 곳이 1991년부터 문화 <b>예술<\/b>로 변모하였습니다. 중간중간 보이는 아름다운... ",
+			"bloggername":"대구광역시 중구청 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dgjunggu",
+			"postdate":"20220726"
+		},
+		{
+			"title":"서학<b>예술<\/b>마을도서관에서",
+			"link":"https:\/\/blog.naver.com\/heo3167?Redirect=Log&logNo=222824177141",
+			"description":"서학<b>예술<\/b>마을도서관에 다녀왔어요. 도서관여행코스는 아니지만, 새롭게 개관한 곳이라 무척 궁금했어요. 지난 번에 가려고 했는데, 갑자기 일이 생겨서 가지 못해서인지 계속 아쉬움이 남았었거든요. <b>예술<\/b>가들... ",
+			"bloggername":"오물락조물락 인생교실",
+			"bloggerlink":"https:\/\/blog.naver.com\/heo3167",
+			"postdate":"20220722"
+		},
+		{
+			"title":"[경기도] 경기아트센터 ‘2022 경기도 <b>예술<\/b>회복 지원사업’... ",
+			"link":"https:\/\/blog.naver.com\/fame7777?Redirect=Log&logNo=222830630371",
+			"description":"경기아트센터는 장기화된 코로나19로 어려움을 겪는 경기도내 <b>예술<\/b>단체 및 종사자들에게 지속적이고 안정적으로 <b>예술<\/b> 활동을 이어나갈 수 있도록, ‘2022 경기도 <b>예술<\/b>회복 지원사업’을 연간 진행한다.... ",
+			"bloggername":"경기 인천 라이프",
+			"bloggerlink":"https:\/\/blog.naver.com\/fame7777",
+			"postdate":"20220727"
+		},
+		{
+			"title":"여행) 미로<b>예술<\/b> 원주중앙시장 ft. 2022 원주 미로<b>예술<\/b> 프리마켓",
+			"link":"https:\/\/blog.naver.com\/jootime?Redirect=Log&logNo=222825384438",
+			"description":"(강원도 원주 여행) 미로<b>예술<\/b> 원주중앙시장 ft. 2022 원주 미로<b>예술<\/b> 프리마켓 #미로시장 at #원주중앙시장  강원도 #원주여행 을 떠난다면 꼭 방문해야 할 #도시재생 #청년사업 결실 맺은 #원주핫플레이스 로... ",
+			"bloggername":"예수님 안에서 숙성중인 시골쥐 김주영",
+			"bloggerlink":"https:\/\/blog.naver.com\/jootime",
+			"postdate":"20220723"
+		},
+		{
+			"title":"미래형 미술관의 새로운 <b>예술<\/b>공간, 대전시립미술관 아트라운지... ",
+			"link":"https:\/\/blog.naver.com\/storydaejeon?Redirect=Log&logNo=222825402421",
+			"description":"대전 시민들과 <b>예술<\/b>로 소통하는 문화<b>예술<\/b>단지 내 대전시립미술관을 방문했는데요. 2년마다 열리는 '2022 대전과학<b>예술<\/b>비엔날레(22.08.02.~10.30.)' 준비가 한창인 가운데 새로운 <b>예술<\/b>공간이 탄생했습니다.... ",
+			"bloggername":"대전광역시 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/storydaejeon",
+			"postdate":"20220723"
+		},
+		{
+			"title":"여름밤 수놓는 클래식 음악…<b>예술<\/b>의전당 여름음악축제 개막",
+			"link":"https:\/\/blog.naver.com\/allthat_art?Redirect=Log&logNo=222819004321",
+			"description":"2022 <b>예술<\/b>의전당 여름음악축제 포스터｜<b>예술<\/b>의전당 <b>예술<\/b>의전당이 개최하는 2022 <b>예술<\/b>의전당 여름음악축제가 8월 24일 개막한다. <b>예술<\/b>의전당 여름음악축제는 2021년 국내 클래식 음악계의 발전과 상생을 위해... ",
+			"bloggername":"올댓아트 뮤지컬",
+			"bloggerlink":"https:\/\/blog.naver.com\/allthat_art",
+			"postdate":"20220719"
+		},
+		{
+			"title":"<b>예술<\/b>과 기술매체의 앙상블 &lt;부산현대미술관 '그레이박스 이후'&gt;",
+			"link":"https:\/\/blog.naver.com\/mcstkorea?Redirect=Log&logNo=222809736643",
+			"description":"미래지향적인 <b>예술<\/b> 교육프로그램, 국제 네트워크와의 협력, 동시대 미술작품 수집, 학술행사’ 등... 지역과 <b>예술<\/b>, 세계와 미래를 연결하는 다각적인 활동을 추진하고 있습니다. 또한, 오늘날 과학기술을... ",
+			"bloggername":"도란도란 문화놀이터",
+			"bloggerlink":"https:\/\/blog.naver.com\/mcstkorea",
+			"postdate":"20220713"
+		},
+		{
+			"title":"AI 웹툰 그림 사례 - 인공지능 <b>예술<\/b>이 가능할까?",
+			"link":"https:\/\/blog.naver.com\/jobcard?Redirect=Log&logNo=222827668685",
+			"description":"오늘은 AI 웹툰 그림 사례 - 인공지능 <b>예술<\/b>이 가능할까? 에 대해 알아보겠습니다! 어떤 직업일까요? 이... 앞으로는 정말 AI그림, 인공지능 <b>예술<\/b>이 사람의 직업을 대체할 수도 있을 것 같아요. 현재 웹툰작가... ",
+			"bloggername":"-",
+			"bloggerlink":"https:\/\/blog.naver.com\/jobcard",
+			"postdate":"20220725"
+		},
+		{
+			"title":"커피 <b>예술<\/b>을 만나다 중랑도서관 문화교실 인문학의 향연",
+			"link":"https:\/\/blog.naver.com\/daheeprint?Redirect=Log&logNo=222827461439",
+			"description":"커피 <b>예술<\/b>을 만나다 중랑도서관 문화교실 인문학의 향연 선생님 책도 궁금하네요! 도서관간김에... 커피 <b>예술<\/b>을 만나다 중랑도서관 문화교실 인문학의 향연 저의 끊임없는 공부를 지켜봐주세요~ 커피도... ",
+			"bloggername":"트랜디함을 담아, 고디자인스튜디오",
+			"bloggerlink":"https:\/\/blog.naver.com\/daheeprint",
+			"postdate":"20220725"
+		},
+		{
+			"title":"정원 속 <b>예술<\/b> | 목포 이훈동 정원 &amp; 성옥기념관",
+			"link":"https:\/\/blog.naver.com\/kccf2007?Redirect=Log&logNo=222829507257",
+			"description":"등 <b>예술<\/b> 거장들의 작품들이 많습니다. 바로 옆의 제3전시실에는 현대 작품과 조각상을 전시하고... <b>예술<\/b>에 관심이 있으시거나 박물관을 좋아하시는 분들은 이 곳, 목포 이훈동 정원과 성옥기념관에서 즐거운... ",
+			"bloggername":"한국문화원연합회",
+			"bloggerlink":"https:\/\/blog.naver.com\/kccf2007",
+			"postdate":"20220726"
+		},
+		{
+			"title":"박물관에 놀러 온 <b>예술<\/b> FUN:장 2022 아트피크닉",
+			"link":"https:\/\/blog.naver.com\/dodreamgj?Redirect=Log&logNo=222771363583",
+			"description":"올해는 국립광주박물관에서 만나요~ 시민을 위한 문화<b>예술<\/b> 체험 축제! 아트피크닉이 개막했습니다~ 개막을 기다린 많은 시민들이 국립광주박물관을 찾았습니다. 올해 아트피크닉은 6월 11일부터 11월 12일까지... ",
+			"bloggername":"광주광역시",
+			"bloggerlink":"https:\/\/blog.naver.com\/dodreamgj",
+			"postdate":"20220613"
+		},
+		{
+			"title":"&lt;부산금정구맛집&gt; 부산국수맛집, 한식<b>예술<\/b>장인이 운영하는... ",
+			"link":"https:\/\/blog.naver.com\/fallwolf_?Redirect=Log&logNo=222826111578",
+			"description":"부산금정구맛집 부산국수맛집, 부산맛집 한식<b>예술<\/b>장인이 운영하는 남산동 #다온국수 요리하는 박쌤 오늘은 최근 박쌤 #최애맛집 으로 등극한 #한식<b>예술<\/b>장인 #황지연선생님 이 운영하시는 #다온국수 를 소개해... ",
+			"bloggername":"일상다반사 (日常茶飯事)",
+			"bloggerlink":"https:\/\/blog.naver.com\/fallwolf_",
+			"postdate":"20220723"
+		},
+		{
+			"title":"올 여름 흙으로 빚는 <b>예술<\/b>의 세계로",
+			"link":"https:\/\/blog.naver.com\/ghhamohamo?Redirect=Log&logNo=222806057249",
+			"description":"클레이아크란 흙(Clay)와 건축(Architecture)의 상호 관계적 협력을 의미하는 합성어로 과학과 <b>예술<\/b>... 체험관에서는 시민들이 흙을 직접 주물럭거리며 자신만의 <b>예술<\/b>작품을 만들어 직접 가마에 구울 수도... ",
+			"bloggername":"김해관광공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ghhamohamo",
+			"postdate":"20220712"
+		},
+		{
+			"title":"<b>예술<\/b>의전당 공연 피아노 얀 리시에츠키 w 쇼팽 녹턴 에튀드",
+			"link":"https:\/\/blog.naver.com\/eunpiri715?Redirect=Log&logNo=222827680889",
+			"description":"아이돌급인데 <b>예술<\/b>의전당 공연 현역에서 바이올린 아직도 켜고 있는 친구와 함께 관람하고 왔습니다. 시간은 좀 지났지만 아직도 그때의 여운은 한가득.. <b>예술<\/b>의전당 공연... ",
+			"bloggername":"당신 빼고 다 보는 공연, 전시",
+			"bloggerlink":"https:\/\/blog.naver.com\/eunpiri715",
+			"postdate":"20220727"
+		},
+		{
+			"title":"서울시 서초구 <b>예술<\/b>의전당 맛집 | 모짜르트502",
+			"link":"https:\/\/blog.naver.com\/curly_bear?Redirect=Log&logNo=222814613990",
+			"description":"<b>예술<\/b>의 전당 안에 있는 푸릇푸릇한 이탈리안 음식점 '모짜르트502' #모짜르트502 #<b>예술<\/b>의전당맛집 #서초구맛집 #서초맛집 #내돈내산 #내돈내먹 #이탈리안맛집 #<b>예술<\/b>의전당이탈리안 &lt;마일즈 알드리지... ",
+			"bloggername":"게으른 여행자의 지구일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/curly_bear",
+			"postdate":"20220716"
+		},
+		{
+			"title":"2022 홍대 거리에 <b>예술<\/b>더하기 신진<b>예술<\/b>가 모집 (2022-07... ",
+			"link":"https:\/\/blog.naver.com\/venice87?Redirect=Log&logNo=222817242678",
+			"description":"한국생활<b>예술<\/b>협회 주 소 &gt; 서울시 마포구 서강로11길 15 지하 연 락 처 &gt; ***-****-**** 이 메 일 &gt; **********@*****.*** 홈 페 이 지 &gt; https:\/\/www.instagram.com\/artonthest 2022 홍대 거리에 <b>예술<\/b>더하기... ",
+			"bloggername":"아트허브 blog",
+			"bloggerlink":"https:\/\/blog.naver.com\/venice87",
+			"postdate":"20220718"
+		},
+		{
+			"title":"서경대학교 <b>예술<\/b>교육원 모델학 전공 따라가 보자!",
+			"link":"https:\/\/blog.naver.com\/jung0744?Redirect=Log&logNo=222827803706",
+			"description":"서경대학교 <b>예술<\/b>교육원입니다. 모델 일이 궁금한 친구들은 모델 프로필 사진을 위한 촬영을 어떻게 하는지 궁금하실 텐데요, 마침 얼마 전, 두 군데의 포토 스튜디오에서 서경대학교 <b>예술<\/b>교육원 모델학 전공... ",
+			"bloggername":"서경대학교 예술교육원 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/jung0744",
+			"postdate":"20220725"
+		},
+		{
+			"title":"사진<b>예술<\/b> 2022년 8월호",
+			"link":"https:\/\/blog.naver.com\/koreaphotoart?Redirect=Log&logNo=222830955186",
+			"description":"월간 「사진<b>예술<\/b>」이 창간된지 33년 하고도 3개월이 지나 2022년 8월호로써 통권 400호를... 대한사진<b>예술<\/b>가협회 창립75주년기념 자료집 발간을 기념하며 김호영 고문을 만나 이야기를 나눈 내용을... ",
+			"bloggername":"월간 사진예술",
+			"bloggerlink":"https:\/\/blog.naver.com\/koreaphotoart",
+			"postdate":"20220727"
+		},
+		{
+			"title":"서울 공연 노들섬 문화가 흐르는 <b>예술<\/b>마당",
+			"link":"https:\/\/blog.naver.com\/jiny840706?Redirect=Log&logNo=222822511476",
+			"description":"흐르는 <b>예술<\/b>마당 입니다. 12월까지 매주 토요일 노들섬 잔디마당에서 공연이 열립니다. 홈페이지에... 흐르는 <b>예술<\/b>마당 홈페이지 7월 23일에는 경인고속도로 미쇼, 튠에이드 라는 팀이 출연합니다. 사진출처... ",
+			"bloggername":"Jiny's travel diary : )",
+			"bloggerlink":"https:\/\/blog.naver.com\/jiny840706",
+			"postdate":"20220721"
+		},
+		{
+			"title":"서귀포<b>예술<\/b>의전당에서 서귀포관악단 토요 힐링 콘서트를... ",
+			"link":"https:\/\/blog.naver.com\/seogwipo-si?Redirect=Log&logNo=222795175311",
+			"description":"서귀포시는 오는 7월 16일 오후 3시에 서귀포<b>예술<\/b>의 전당 대극장에서 제주특별자치도립 서귀포관악단... 서귀포<b>예술<\/b>의전당 대극장 관람비 전석 무료 공연 공연순서 서귀포관악단 트레이너 김동원 지휘 첫... ",
+			"bloggername":"서귀포시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/seogwipo-si",
+			"postdate":"20220630"
+		},
+		{
+			"title":"국립현대무용단 &lt;어린이 <b>예술<\/b> 워크숍&gt; 여름방학 프로그램 (7... ",
+			"link":"https:\/\/blog.naver.com\/kncdc3472?Redirect=Log&logNo=222817413023",
+			"description":"국립현대무용단 &lt;어린이 <b>예술<\/b> 워크숍&gt; 여름방학 프로그램 2022.7.25.(월) - 7.28.(목) ｜ 국립<b>예술<\/b>단체 공연연습장 국립현대무용단에서 보내는 신나는 여름방학! &lt;어린이 <b>예술<\/b> 워크숍&gt;에서, 현대무용이 궁금한... ",
+			"bloggername":"Korea National Contemporary Dance Company",
+			"bloggerlink":"https:\/\/blog.naver.com\/kncdc3472",
+			"postdate":"20220718"
+		},
+		{
+			"title":"<b>예술<\/b>을 사랑하는 세계 10개 도시 여행지 추천",
+			"link":"https:\/\/blog.naver.com\/jrkimceo?Redirect=Log&logNo=222799868499",
+			"description":"<b>예술<\/b>과 여행을 함께 사랑하십니까? 베를린과 뉴욕과 같은 거리 <b>예술<\/b>의 중심지부터 세계적으로 유명한 파리와 피렌체의 갤러리에 이르기까지 세계 곳곳에서 훌륭한 <b>예술<\/b> 작품을 찾을 수... ",
+			"bloggername":"jrkimceo님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/jrkimceo",
+			"postdate":"20220704"
+		},
+		{
+			"title":"안양 <b>예술<\/b> 공원 계곡 물놀이",
+			"link":"https:\/\/blog.naver.com\/archikhg?Redirect=Log&logNo=222829600433",
+			"description":"2022.07.24,, 안양 <b>예술<\/b> 공원 계곡 애들 방학도 했는데 계곡에 가고 싶다고 한다. 다음주에 여름 휴가를 남해로 갈 예정이라 먼 곳으로 가기도 뭐하고 가까운 안양 <b>예술<\/b> 공원 계곡으로 가보려 한다,, 인파가 붐비는... ",
+			"bloggername":"studio GA",
+			"bloggerlink":"https:\/\/blog.naver.com\/archikhg",
+			"postdate":"20220726"
+		},
+		{
+			"title":"[식당후기] 세종<b>예술<\/b>의전당 근처 맛집, 믹스토랑",
+			"link":"https:\/\/blog.naver.com\/shy486kgs?Redirect=Log&logNo=222824495847",
+			"description":"방문 세종<b>예술<\/b>의전당 근처 맛집 나성동 #믹스토랑 을 다녀왔습니다. 지인과 약속이 있어서 고운동 비바릴리랑 고민하다가 믹스토랑으로 정했습니다. 노란 간판의 #MIXTORANG 입니다. 이 건물 주차장에 주차가... ",
+			"bloggername":"꼬맹이 쑤의 엔도르핑 월드",
+			"bloggerlink":"https:\/\/blog.naver.com\/shy486kgs",
+			"postdate":"20220722"
+		},
+		{
+			"title":"2022년 <b>예술<\/b>의 전당 SAC on Screen 사업 안내",
+			"link":"https:\/\/blog.naver.com\/hongane2013?Redirect=Log&logNo=222804294677",
+			"description":"여러 가지 <b>예술<\/b>과 문화를 느껴본다는 건 항상 깨달음을 더해주는 거 같아요. 그런데 현실은 코로나의... 순천시에서는 시민들의 문화생활(여가생활)을 위해서 달 2회씩 문화<b>예술<\/b>회관에서 연극, 발레, 뮤지컬... ",
+			"bloggername":"순천시 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hongane2013",
+			"postdate":"20220708"
+		},
+		{
+			"title":"고즈넉하고 작은 <b>예술<\/b>동네 기장 대룡마을",
+			"link":"https:\/\/blog.naver.com\/bepa_sns?Redirect=Log&logNo=222794916782",
+			"description":"오늘은 고즈넉하고 작은 <b>예술<\/b>동네, 기장 대룡마을을 소개드리려 합니다. 고즈넉하고 작은 <b>예술<\/b>동네 기장 대룡마을 [주소] 부산 기장군 장안읍 오리 847-1 (대룡마을) 기장 장안읍에 위치하고 있는 작은 마을... ",
+			"bloggername":"부산경제진흥원 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/bepa_sns",
+			"postdate":"20220630"
+		},
+		{
+			"title":"2022 서면 <b>예술<\/b>난장 페스티벌 with Musical",
+			"link":"https:\/\/blog.naver.com\/bsjinlove?Redirect=Log&logNo=222820788365",
+			"description":"2022 서면 <b>예술<\/b>난장 페스티벌 2022. 7. 23.(토) ~ 24.(일) 서면 젊음의 거리 일원 부산 문화의 중심 서면에서 난장 &quot;판&quot;이 제대로 벌어집니다!! 전체 행사 안내입니다. 행사구간 안내입니다. 해당 구간을 잘 참고해... ",
+			"bloggername":"부산의 중심, 도약하는 부산진구",
+			"bloggerlink":"https:\/\/blog.naver.com\/bsjinlove",
+			"postdate":"20220720"
+		},
+		{
+			"title":"토요일엔 <b>예술<\/b>의 거리가 들썩! ‘Viva <b>예술<\/b>路’축제",
+			"link":"https:\/\/blog.naver.com\/dodreamgj?Redirect=Log&logNo=222774123479",
+			"description":"광주 궁동 <b>예술<\/b>의 거리를 무대로 하는 <b>예술<\/b>의 거리 축제, ‘Viva <b>예술<\/b>路’가 개막했습니다! ‘Viva <b>예술<\/b>路’로는 10월까지 매주 토요일 <b>예술<\/b>의 거리에서 열립니다. Viva! 비바는 이탈리아어로 기쁨과 찬사를... ",
+			"bloggername":"광주광역시",
+			"bloggerlink":"https:\/\/blog.naver.com\/dodreamgj",
+			"postdate":"20220615"
+		},
+		{
+			"title":"순천 문화<b>예술<\/b>워킹그룹 「시민 문화기획 활동가」를 모집합니다",
+			"link":"https:\/\/blog.naver.com\/dd9904?Redirect=Log&logNo=222829556761",
+			"description":"순천 문화<b>예술<\/b>워킹그룹 「시민 문화기획 활동가」를 모집합니다 ※ 순천 문화<b>예술<\/b>워킹그룹 · 순천에서 이루어지는 시민주도의 문화<b>예술<\/b> 프로그램 운영에 대한 활동방향을 함께 모색하는 시민 문화기획... ",
+			"bloggername":"순천문화의거리 디투",
+			"bloggerlink":"https:\/\/blog.naver.com\/dd9904",
+			"postdate":"20220726"
+		},
+		{
+			"title":"강원문화<b>예술<\/b>교육웹진 ‘잇다’ 구독자 이벤트",
+			"link":"https:\/\/blog.naver.com\/gogwcf?Redirect=Log&logNo=222830789801",
+			"description":"Previous image Next image ✨ 강원문화<b>예술<\/b>교육웹진 ‘잇다’ 구독자 이벤트 ✨ 웹진‘잇다’... (금) ✔참여방법: 아래의 구글폼으로 정답 제출 ★정답 힌트★ 강원문화<b>예술<\/b>교육웹진... ",
+			"bloggername":"강원문화재단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gogwcf",
+			"postdate":"20220727"
+		},
+		{
+			"title":"대전 유성구 행사, 문화 <b>예술<\/b>로 활기 넘치는 도심 '들썩들썩인... ",
+			"link":"https:\/\/blog.naver.com\/yuseonggu?Redirect=Log&logNo=222823947452",
+			"description":"대전 유성구 행사, 문화<b>예술<\/b>로 활기 넘치는 도심 '들썩들썩인 대전' 5월부터 대전의 이곳저곳에서 '2022... 매주 토요일, 지역 내 문화공간 형성을 통한 문화도시 환경 조성과 지역 아마추어와 전문<b>예술<\/b>인의... ",
+			"bloggername":"유성구 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/yuseonggu",
+			"postdate":"20220722"
+		},
+		{
+			"title":"제주 전시 문화<b>예술<\/b>공공수장고 제주도 비오는날 갈만한곳.... ",
+			"link":"https:\/\/blog.naver.com\/ilho6004?Redirect=Log&logNo=222822929315",
+			"description":"제주도 비오는날갈만한곳 문화<b>예술<\/b>공공수장고 는 제주미디어아트전시회 로 제주현대미술관 전시작품들을 미디어아트로 전시 중인 곳이다 그래서 제주현대미술관 부속건물에 있는 제주문화<b>예술<\/b>공공장고... ",
+			"bloggername":"어떻게 사는 게 좋아?",
+			"bloggerlink":"https:\/\/blog.naver.com\/ilho6004",
+			"postdate":"20220721"
+		},
+		{
+			"title":"학교<b>예술<\/b>교육, 언제 어디서나 즐기는 <b>예술<\/b>ON교실",
+			"link":"https:\/\/blog.naver.com\/moeblog?Redirect=Log&logNo=222782746771",
+			"description":"일상 회복과 함께 지난 2년간 잠시 멈췄던 학교 <b>예술<\/b>교육이 활기를 되찾았습니다. 학교 곳곳에서... 코로나19로 비대면 문화가 일상화되면서 대면 비대면 공간을 넘나든 <b>예술<\/b>교육이 확대되고 있는데요. 오늘은... ",
+			"bloggername":"교육부",
+			"bloggerlink":"https:\/\/blog.naver.com\/moeblog",
+			"postdate":"20220622"
+		},
+		{
+			"title":"[술술센터] <b>예술<\/b>생태랩: 문래어스의 '<b>예술<\/b>테마지도' 참여<b>예술<\/b>가... ",
+			"link":"https:\/\/blog.naver.com\/ydpcf2014?Redirect=Log&logNo=222829594033",
+			"description":"2022 <b>예술<\/b>활동 거점지역 활성화사업 <b>예술<\/b>생태랩 [문래어스]팀의 모집공고 소식을 전해드립니다. 문래어스 프로젝트 중 하나인 <b>예술<\/b>테마지도와 함께할 참여<b>예술<\/b>가를 모집합니다! 자세한 내용... ",
+			"bloggername":"영등포문화재단",
+			"bloggerlink":"https:\/\/blog.naver.com\/ydpcf2014",
+			"postdate":"20220726"
+		},
+		{
+			"title":"서울 근교 여름 여행지 추천 : 안양유원지(안양<b>예술<\/b>공원)에서... ",
+			"link":"https:\/\/blog.naver.com\/missedmemory?Redirect=Log&logNo=222830078785",
+			"description":"안양<b>예술<\/b>공원 대중교통으로 안양유원지 가는 법  1️⃣ 안양역에서 2번 마을버스 타고 '안양<b>예술<\/b>공원종점'에 내리기 2️⃣ 5530\/5626\/5713 버스 타고 안양<b>예술<\/b>공원 정류장에 내려 10분 정도 걸어가기 여러 방법이... ",
+			"bloggername":"서울에서 세계여행하기",
+			"bloggerlink":"https:\/\/blog.naver.com\/missedmemory",
+			"postdate":"20220726"
+		},
+		{
+			"title":"여수 <b>예술<\/b>의 섬 장도, 예울마루",
+			"link":"https:\/\/blog.naver.com\/cheonrim?Redirect=Log&logNo=222818404875",
+			"description":"장도는 GS칼텍스재단이 지역사회 공헌 사업으로 조성한 복합문화<b>예술<\/b>공간입니다. 그래서 '<b>예술<\/b>의 섬'이라고 합니다. 2019년에 개관했는데 개발 과정에서 삼국시대인 4세기의 집터와 옹기 등 유물이 발굴되기도... ",
+			"bloggername":"자연과 문화의 칼레이도스코프",
+			"bloggerlink":"https:\/\/blog.naver.com\/cheonrim",
+			"postdate":"20220719"
+		},
+		{
+			"title":"[문화<b>예술<\/b>경영학과] 문화<b>예술<\/b> 스피킹 Build-up 특강 진행",
+			"link":"https:\/\/blog.naver.com\/mykdu?Redirect=Log&logNo=222827927450",
+			"description":"문화<b>예술<\/b>경영학과에서는 재학생 및 예비 신·편입생의 문화적 감성과 <b>예술<\/b> 향유 능력을 키우기 위해 문화현장탐방 워크숍을 진행합니다!! ▶주제 문화<b>예술<\/b> 스피킹 Build-up ▶일시 7월 27일(수)~29일(금)... ",
+			"bloggername":"고려사이버대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/mykdu",
+			"postdate":"20220725"
+		},
+		{
+			"title":"숨겨왔던 나의 <b>예술<\/b>적 재능을 뽐내보자! 공무원 <b>예술<\/b>대전",
+			"link":"https:\/\/blog.naver.com\/mirae_saram?Redirect=Log&logNo=222821043810",
+			"description":"숨겨왔던 나의 <b>예술<\/b>적 재능을 뽐내보자, 사람나래와 함께 알아보는 공무원 <b>예술<\/b>대전! 글쓰기와 그림 그리기, 혹은 음악에 재능이 있다고 생각한다면 이 글을 주목해 주세요! 공무원이자, <b>예술<\/b>가의 *부캐를... ",
+			"bloggername":"대한민국 인사혁신처",
+			"bloggerlink":"https:\/\/blog.naver.com\/mirae_saram",
+			"postdate":"20220720"
+		},
+		{
+			"title":"헤세의 <b>예술<\/b>",
+			"link":"https:\/\/blog.naver.com\/bisanghara?Redirect=Log&logNo=222825364828",
+			"description":"헤세의 <b>예술<\/b> <b>예술<\/b>가는 삶을 피해 <b>예술<\/b>로 도피해서는 안 된다는 말이 있다. 그건 대체 무슨 뜻일까? <b>예술<\/b>가는 대체 왜 그래서는 안 된다는 말인가? <b>예술<\/b>가 입장에서 볼 때 <b>예술<\/b>이란 삶의 불충분한 면을 보충하고... ",
+			"bloggername":"디오니소스에 의한 파토스적 사고",
+			"bloggerlink":"https:\/\/blog.naver.com\/bisanghara",
+			"postdate":"20220723"
+		},
+		{
+			"title":"서평단 모집  &lt;그림으로 보는 모든 순간의 과학&gt; <b>예술<\/b>과 과학이... ",
+			"link":"https:\/\/blog.naver.com\/gybook?Redirect=Log&logNo=222827882169",
+			"description":"<b>예술<\/b>과 과학이 만난 세상에 단 하나뿐인 과학책 청소년부터 과학 마니아의 과학에 대한 호기심을 완. 벽. 히. 채워줄 &lt;그림으로 보는 모든 순간의 과학&gt;서평단을 모집합니다! ✨&lt;그림으로 보는 모든... ",
+			"bloggername":"김영사",
+			"bloggerlink":"https:\/\/blog.naver.com\/gybook",
+			"postdate":"20220725"
+		},
+		{
+			"title":"합천 경남<b>예술<\/b>창작센터 6인 6색 작가의 방을 소개합니다",
+			"link":"https:\/\/blog.naver.com\/gnfeel?Redirect=Log&logNo=222793489793",
+			"description":"합천 경남<b>예술<\/b>창작센터 6인 6색 작가의 방을 소개합니다 경남공감 6월호(글 김미영 사진 유근종) 경남<b>예술<\/b>창작센터 15기 입주작가들이 입주를 완료했다는 소식이 들려왔다. 최종 선정된 6인 6색 <b>예술<\/b>인의... ",
+			"bloggername":"경상남도 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gnfeel",
+			"postdate":"20220629"
+		},
+		{
+			"title":"모두가 기다린 광주의 즐거움, 대인<b>예술<\/b>야시장 개장!",
+			"link":"https:\/\/blog.naver.com\/dodreamgj?Redirect=Log&logNo=222803138842",
+			"description":"코로나19로 잠시 멈췄던 대인<b>예술<\/b>야시장이 남도 달밤 야시장이라는 새로운 이름으로 돌아왔습니다! 매주 토요일, 대인<b>예술<\/b>야시장에서 만나요! &lt; 운영기간 &gt; 2022.07.09.(토) ~ 11.26.(토) 매주 토요일 7월... ",
+			"bloggername":"광주광역시",
+			"bloggerlink":"https:\/\/blog.naver.com\/dodreamgj",
+			"postdate":"20220707"
+		},
+		{
+			"title":"문화파출소 청원, 하반기 문화<b>예술<\/b>교육프로그램&amp;나눔 수강생 모집",
+			"link":"https:\/\/blog.naver.com\/cjcityblog?Redirect=Log&logNo=222829752720",
+			"description":"8개 문화<b>예술<\/b>교육강좌&amp; 나눔(기부) 프로그램, 총 81명 모집 31일까지 홈페이지 및 방문 신청, 추첨... 강좌로, ‘<b>예술<\/b>여행 퀼트 바느질(공예)’, ‘신나는 카혼 연주(음악)’, ‘사진을 쓰고 詩를 찍다(문학)... ",
+			"bloggername":"청주시청 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/cjcityblog",
+			"postdate":"20220726"
+		},
+		{
+			"title":"「반 고흐, 그 위대한 여정」 in평택남부문화<b>예술<\/b>회관 (~7.31)",
+			"link":"https:\/\/blog.naver.com\/pt_story?Redirect=Log&logNo=222784133950",
+			"description":"평택남부문화<b>예술<\/b>회관 전시실에서 인상주의의 거장인 '빈센트 반 고흐'의 레프리카 작품 전시를 7월... 31(일) - 장소 : 남부문화<b>예술<\/b>회관 전시실 - 관람시간 : 10:00~18:00 (월요일 휴관) - 입장료 : 무료 - 문의... ",
+			"bloggername":"평택시",
+			"bloggerlink":"https:\/\/blog.naver.com\/pt_story",
+			"postdate":"20220622"
+		},
+		{
+			"title":"2022 찾아가는 문화<b>예술<\/b>공연 관람해 보세요~!",
+			"link":"https:\/\/blog.naver.com\/wowjejusi?Redirect=Log&logNo=222807372718",
+			"description":"제주시는 문화 소외계층의 일상 속 문화 향유를 지원하고, 지역 간 문화<b>예술<\/b> 격차를 해소하기 위해 「2022 찾아가는 문화<b>예술<\/b>공연」을 펼칩니다!  공연기간 2022년 10월 2일(일)까지, 토요일마다 진행... ",
+			"bloggername":"제주시청 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/wowjejusi",
+			"postdate":"20220711"
+		},
+		{
+			"title":"앤서니브라운전 @<b>예술<\/b>의전당 한가람미술관",
+			"link":"https:\/\/blog.naver.com\/stickwithsh?Redirect=Log&logNo=222815431380",
+			"description":"지난 번 <b>예술<\/b>의전당 그림책전 딸냄도 넘 좋아라 했고 집도 가깝고 (뭣보다 애랑.. 매번 뭐 하러 다니는... 앤서니브라운전 장소 : <b>예술<\/b>의전당 한가람뮤지엄 기간: 2022.04.28.(목) ~ 2022.08.31.(수) 시간: 10:00-19:00... ",
+			"bloggername":"Memoir of 팜제이",
+			"bloggerlink":"https:\/\/blog.naver.com\/stickwithsh",
+			"postdate":"20220717"
+		},
+		{
+			"title":"‘<b>예술<\/b>로 재창조’ 된 미추홀 풍경, 숭의창작갤러리 &lt;기록된 시선&gt;",
+			"link":"https:\/\/blog.naver.com\/tong_namgu?Redirect=Log&logNo=222800763832",
+			"description":"<b>예술<\/b>인의 창작과 소통 그리고 지역문화 활성화를 위해 만들어진 라온갤러리입니다. 숭의평화<b>예술<\/b>시장에 조성된 이곳은 지역 주민과 <b>예술<\/b> 작가들의 문화 공유가 이뤄지는 곳인데요. 바쁜 일상에 찾아온 잠깐의... ",
+			"bloggername":"골목골목까지 행복한 미추홀구",
+			"bloggerlink":"https:\/\/blog.naver.com\/tong_namgu",
+			"postdate":"20220705"
+		},
+		{
+			"title":"문화<b>예술<\/b>공간 : 경북 경산 꿈트리 [움:] 갤러리",
+			"link":"https:\/\/blog.naver.com\/gbdc04?Redirect=Log&logNo=222831469540",
+			"description":"저와 같은 생각을 가지신 분들 혹은 정말 <b>예술<\/b>을 사랑하시는 시민분들을 위해 오늘은 경북 경산시에... E-GROUND는 (Enjoyment&amp;Entertainment)의 약자로 문화 및 <b>예술<\/b>을 즐겁게 즐기라는 뜻을 담고 있습니다. 실제로... ",
+			"bloggername":"경상북도개발공사 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gbdc04",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[제주문화<b>예술<\/b>종합포털-제주인놀다] 7월 제주 문화가 있는 날ෆ",
+			"link":"https:\/\/blog.naver.com\/jcaf9814?Redirect=Log&logNo=222831411404",
+			"description":"제주인놀다 [제주문화<b>예술<\/b>종합포털-제주인놀다] 7월 제주 문화가 있는 날ෆ 제주의 모든 문화·공연... 서귀포<b>예술<\/b>의전당 제주도서관, 제주도영화관 문화가 있는 날 문화가있는날 문화가 있는 날은 국민이... ",
+			"bloggername":"제주문화예술재단",
+			"bloggerlink":"https:\/\/blog.naver.com\/jcaf9814",
+			"postdate":"20220727"
+		},
+		{
+			"title":"인천문화<b>예술<\/b>회관 8월 공연 안내",
+			"link":"https:\/\/blog.naver.com\/artspr?Redirect=Log&logNo=222831373903",
+			"description":"인천문화<b>예술<\/b>회관이 여러분들이 더위를 잊게 도와줄 공연들을 준비했습니다. 8월에 공연될 작품들... 인천문화<b>예술<\/b>회관 대공연장 합창의 매력 속으로 풍덩! 인천시립합창단의 &lt;합창의 매력에 빠져봐... ",
+			"bloggername":"인천문화예술회관",
+			"bloggerlink":"https:\/\/blog.naver.com\/artspr",
+			"postdate":"20220727"
+		},
+		{
+			"title":"[연수소식] 연수구립공공도서관, 도서관에서 만나는 문화<b>예술<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/yeonsulife?Redirect=Log&logNo=222829585802",
+			"description":"문화<b>예술<\/b>교육 공모사업’에 선정돼 오는 8월부터 연수청학, 송도국제어린이, 선학별빛도서관에서... 연수구립공공도서관 관계자는 “문화<b>예술<\/b>사를 통한 전문적인 문화<b>예술<\/b>교육으로 구민들의 문화욕구를... ",
+			"bloggername":"연수구 공식 블로그 행복투유",
+			"bloggerlink":"https:\/\/blog.naver.com\/yeonsulife",
+			"postdate":"20220726"
+		}
+	]
+}

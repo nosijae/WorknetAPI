@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:59 +0900",
+	"total":27580,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=778761&cid=42085&categoryId=42085",
+			"description":"<b>금융<\/b>이란 이자를 받고 자금을 융통하여 주는 것을 말한다. 즉 일정기간을 정하고, 앞으로 있을 원금의 상환과 이자변제에 대해 상대방을 신용하여 자금을 이전하는 것을 말한다. <b>금융<\/b>은 약속된 상환기간의 장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3379179&cid=47332&categoryId=47332",
+			"description":"돈을 필요로 하는 사람에게 자금을 원활하게 공급하여 경제 활동이 지속적으로 이루어지게 하는 활동",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794483&cid=46630&categoryId=46630",
+			"description":" 자금, 즉 화폐나 통화의 융통. [개설] 융통이란 유무상통(有無相通)하는 것을 말하는데, 현대의 경제사회는 화폐의 순환에 의해서 운영되고 있다. 1930년대 이후 세계적으로 관리통화제도가 채택된 뒤, 화폐와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_17\/20181218190943749_Y8QM1GPQY.jpg\/9a3a68e1-cb97-4b.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2413016&cid=51399&categoryId=51399",
+			"description":"휴대폰으로 은행, 증권 등 <b>금융<\/b>거래가 가능하고, 신용카드, 교통카드 통신사 멤버쉽 카드 대용으로도 사용할 수 있는 KT의 서비스입니다. 월정액(은행별 약 1천원)지불 시 데이터 요금 걱정없이 사용할 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_1\/20141229134102225_9QA29RZ8K.jpg\/fh2_137802_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2478&cid=43659&categoryId=43659",
+			"description":"<b>금융<\/b>이란 이자를 받고 자금을 융통하여 주는 것을 말한다. 즉 일정기간을 정하고, 앞으로 있을 원금을 상환과 이자변제에 대해 상대방을 신용하여 자금을 이전하는 것을 말한다. <b>금융<\/b>은 약속된 상환기간의 장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=469512&cid=42120&categoryId=42120",
+			"description":"<b>금융<\/b>이란 이자를 받고 자금을 융통해 주는 것을 말한다. 즉 일정기간을 정하고, 앞으로 있을 원금을 상환과 이자변제에 대해 상대방을 신용하여 자금을 이전하는 것을 말한다. <b>금융<\/b>은 약속된 상환기간의 장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070311&cid=40942&categoryId=31828",
+			"description":" <b>금융<\/b>시장에서의 자금의 수요·공급.  일반적으로는 자금의 융통·화폐의 대차(貸借), 구체적으로는 대부증권에 의한 자금의 대부나 참가증권(參加證券)에 의한 자금의 출자를 말한다. <b>금융<\/b>은 소비<b>금융<\/b>과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2067175&cid=50305&categoryId=50305",
+			"description":"자금을 융통하는 과정에서 통상적으로 이자가 붙어 자금의 융통이 이루어지는데, 이로 인해 <b>금융<\/b>을 흔히 일정 기간을 정하여 앞으로 있을 원금의 상환과 이자지급에 대해 상대방을 신용하고 자금을 이전하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=923118&cid=47326&categoryId=47326",
+			"description":"상품의 매매나 서비스를 제공하는 과정에서 필요한 자금을 융통하는 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3343769&cid=47334&categoryId=47334",
+			"description":"이자를 받고 자금을 융통하여 주는 것으로 자금의 수요와 공급을 말함",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1743145&cid=49211&categoryId=49211",
+			"description":"이자를 받고 자금을 융통하여 주는 것",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 경제\/<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49084",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%88%EC%9C%B5",
+			"description":"<b>금융<\/b> (金融, 영어: finance )은 금전의 융통이란 뜻으로, 주로 이자와 함께 자금을 빌리고 갚는 행위를 일컫는다. 일반적 경제 생활 중에선 은행, 증권 또는 보험업자등이 시장 주체(예를 들어 예금자, 증권... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=762175",
+			"description":"<b>금융<\/b>관련 모르는 단어, 어려운단어 모음",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=851809",
+			"description":"<b>금융<\/b>지식을 쌓습니다",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=396358",
+			"description":"<b>금융<\/b>업무관련 지식",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=4409",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"현명한 자산 관리",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000362&menu_id=81&contents_id=e7326a54-802e-40e0-b256-cfdacf09ec3d&svc_clss_id=CLSS0000017998&contents_openapi=naverdic",
+			"description":"있는 <b>금융<\/b> 및 실물자산을 말합니다 이와 같은 자산을 현명하게 관리하는 방법들을 알면 앞으로 발생할지도 모르는 사고와 재난에 합리적으로 대응할 수 있습니다 자산을 관리하는 방법에는 크게 저축을 토대로... ",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819071705778_804DH9IH1.jpg\/e7326a54-802e-40.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>금융<\/b> 회사가 하는 일",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2038892&cid=47305&categoryId=47305",
+			"description":"우리가 자주 이용하는 은행은 대표적인 <b>금융<\/b> 회사입니다. 또한, 보험 회사, 증권 회사, 상호 저축 은행, 신용 카드 회사, 협동조합 등도 <b>금융<\/b> 회사입니다. 이 단원에서는 <b>금융<\/b>의 의미와 여러 <b>금융<\/b> 회사가 하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>의 정의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2272866&cid=51299&categoryId=51303",
+			"description":"<b>금융<\/b>(Financing)이란 자금의 수요자(자금을 필요로 하는 자)에게 자금의 공급자가 자금을 화폐 및 <b>금융<\/b>자산으로 빌려 주는 것을 말한다(박유영, 2010). <b>금융<\/b>자산의 대처가 바로 <b>금융<\/b>이다. 또한 <b>금융<\/b>은 신용을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"론",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1088682&cid=40942&categoryId=31833",
+			"description":" 일반적으로 대출·<b>금융<\/b>·융자·차관 등을 뜻하는 말.  국제 간의 신용공여 및 자금조달을 비롯하여 증권·<b>금융<\/b>·무역 등의 거래에서 쓰이는 말이며, 현금 뿐만 아니라 자본재나 기술의 공여 등의 형태도 포함한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (하동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2661701&cid=51944&categoryId=54919",
+			"description":"[정의] 경상남도 하동군에 있는 <b>금융<\/b> 기관 및 <b>금융<\/b> 현황. [개설] <b>금융<\/b>은 경제상 자금의 수요·공급 관계, 즉 가치 이전의 수단으로서 통화(通貨)의 순환에서 발생되는 자금의 유통을 말한다. 가계, 기업, 정부 등의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150318134548004_M80I8EFCV.jpg\/GC034P1570.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>금융<\/b> (고창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2579456&cid=51945&categoryId=54972",
+			"description":"[개설] <b>금융<\/b>은 경제상 자금의 수요·공급 관계, 즉 가치 이전의 수단으로서 통화(通貨)의 순환에서 발생되는 자금의 유통을 말한다. 즉 가계, 기업, 정부 등의 경제 주체가 자금 모집을 통하여 자금을 배합하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2610018&cid=51950&categoryId=55234",
+			"description":"[개설] <b>금융<\/b>은 경제상 자금의 수요·공급 관계, 즉 가치 이전의 수단으로서 통화(通貨)의 순환에서 발생되는 자금의 유통을 말한다. 즉 가계, 기업, 정부 등의 경제 주체가 자금 모집을 통하여 자금을 배합하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (당진)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5148831&cid=60111&categoryId=60135",
+			"description":"[개설] <b>금융<\/b>이란 돈의 융통 또는 영리를 위하여 사용하는 화폐의 수요 공급 관계이다. 즉, 일정 기간을 정하고 앞으로 있을 원금의 상환과 이자 변제에 대해 상대방을 신용하여 자금을 이전하는 것을 말한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2574361&cid=51890&categoryId=53704",
+			"description":"[정의] 강원도 강릉 지역에서 이루어지는 <b>금융<\/b> 시장에서의 자금의 수요와 공급. [변천] 강릉 지역의 근대적 <b>금융<\/b> 기구로는 1889년 1월 15일 강릉시 경강로 2057[성내동 28번지]에 우체국이 설치되어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청주의 <b>금융<\/b> (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2643767&cid=51895&categoryId=53911",
+			"description":"[개설] <b>금융<\/b>이란 이자를 받고 자금을 융통하여 주는 것을 말한다. 즉 일정 기간을 정하고, 앞으로 있을 원금을 상환과 이자 변제를 통해 상대방에게 자금을 이전하는 것이라 할 수 있다. <b>금융<\/b>은 약속된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2614801&cid=51887&categoryId=53549",
+			"description":"[정의] 경기도 용인시에 있는 <b>금융<\/b>기관 및 <b>금융<\/b> 현황. [개설] <b>금융<\/b>은 경제상 가치 이전의 수단으로서 통화의 순환이 이루어지는 곳에서 발생되는 자금의 유통을 의미한다. 즉 가계, 기업, 정부 등의 경제 주체가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (안산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2605742&cid=51885&categoryId=53442",
+			"description":"[개설] <b>금융<\/b>은 경제상 자금의 수요·공급 관계, 즉 가치 이전의 수단으로서 통화(通貨)의 순환에서 발생되는 자금의 유통을 말한다. 즉 가계, 기업, 정부 등의 경제 주체가 자금 모집을 통하여 자금을 배합하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (남원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2591854&cid=51948&categoryId=55131",
+			"description":"[정의] 전라북도 남원시에 있는 <b>금융<\/b> 기관 및 <b>금융<\/b> 현황. [개설] <b>금융<\/b>이란 이자를 받고 자금을 융통하여 주는 것으로, 일정 기간을 정하고 앞으로 있을 원금을 상환과 이자 변제를 통해 상대방에게 자금을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진주의 <b>금융<\/b> (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2631549&cid=51942&categoryId=54807",
+			"description":"[개설] <b>금융<\/b>이란 자금, 즉 화폐의 융통을 말하는데, 현대 경제사회는 화폐의 순환, 즉 화폐의 흐름에 의해서 운영되고 있다. 화폐의 흐름은 산업적 유통과 <b>금융<\/b>적 유통으로 크게 나누어 생각할 수 있다. 전자에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (제주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2624791&cid=51955&categoryId=55497",
+			"description":"[개설] 경제가 발전하고 부가 축적됨에 따라 기업, 가계 등과 같은 경제 주체들의 <b>금융<\/b> 자산에 대한 수요가 증가하고 있다. 이런 <b>금융<\/b> 자산에 대한 수요 증가에 부응하기 위하여 <b>금융<\/b> 기관들은 <b>금융<\/b> 혁신을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (성남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2599883&cid=51884&categoryId=53390",
+			"description":"[개설] <b>금융<\/b>이란 이자를 받고 자금을 융통하여 주는 것을 말한다. 즉 일정 기간을 정하고, 앞으로 있을 원금을 상환과 이자 변제에 대해 상대방에게 자금을 이전하는 것이라 할 수 있다. <b>금융<\/b>은 약속된 상환... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (음성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2620231&cid=51892&categoryId=53764",
+			"description":"[개설] <b>금융<\/b>은 경제상 자금의 수요·공급 관계, 즉 가치 이전의 수단으로서 통화(通貨)의 순환에서 발생되는 자금의 유통을 말한다. 즉 가계, 기업, 정부 등의 경제 주체가 자금 모집을 통하여 자금을 배합하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (삼척)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5699266&cid=62938&categoryId=62962",
+			"description":"[정의] 강원도 삼척시에서 이루어지는 <b>금융<\/b>시장에서의 자금의 수요와 공급. [개설] <b>금융<\/b>은 타인에게서 자금을 빌리거나 타인에게 자금을 빌려주는 행위이다. 이러한 <b>금융<\/b>거래는 일시적인 자금 잉여와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (서귀포)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2657331&cid=51954&categoryId=55444",
+			"description":"[개설] 제주특별자치도 <b>금융<\/b>은 <b>금융<\/b>조합과 조선식산은행으로 출발하였다. 1970년 한국은행 제주지점이 설립되면서 제대로 된 <b>금융<\/b>기관을 갖추게 되었으며, 1970년대 이후 제주 감귤산업 및 관광산업 증대로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (양산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2607769&cid=51941&categoryId=54757",
+			"description":"[개설] <b>금융<\/b>이란 일반적으로는 자금의 융통, 화폐의 대차(貸借)를, 구체적으로는 대부증권에 의한 자금의 대부나 참가증권(參加證券)에 의한 자금의 출자를 말한다. 이러한 <b>금융<\/b> 업무를 수행하는 기관은 중앙... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (울진)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2618141&cid=51937&categoryId=54551",
+			"description":"[정의] 경상북도 울진군에 있는 <b>금융<\/b>관련 기관과 그 현황. [개설] 근대화 이전에는 계(契)가 오늘날의 <b>금융<\/b> 역할을 하였다. 계에는 저축을 하여 목돈을 마련하는 저축계, 계원이 자금을 거두고 이를 대출... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (부천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2596628&cid=51883&categoryId=53339",
+			"description":"[개설] <b>금융<\/b>은 경제 활동에서 은행, 증권사 또는 보험업체가 시장 주체(예금자·증권 투자자·보험자 등)로부터 자금을 모집하여 다른 시장 주체에 빌려주는 행위를 말한다. 또는 정부·개인·단체 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (예산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5705866&cid=63071&categoryId=63095",
+			"description":"[개설] 예산군의 <b>금융<\/b>은 예산군의 경제에서 일어나는 자금의 수요·공급 관계, 즉 가치 이전의 수단으로서 통화(通貨)의 순환에서 발생되는 자금의 유통을 말한다. 즉 가계, 기업, 정부 등의 경제 주체가 자금... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (진천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2634576&cid=51894&categoryId=53862",
+			"description":"[정의] 충청북도 진천군에 있는 <b>금융<\/b> 기관 및 <b>금융<\/b> 현황. [개설] <b>금융<\/b>은 경제상 자금의 수요·공급 관계, 즉 가치 이전의 수단으로서 통화(通貨)의 순환에서 발생되는 자금의 유통을 말한다. 즉 가계, 기업, 정부... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (안동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2604222&cid=51934&categoryId=54401",
+			"description":"[개설] <b>금융<\/b>은 경제상 자금의 수요·공급 관계, 즉 가치 이전의 수단으로서 통화(通貨)의 순환에서 발생되는 자금의 유통을 말한다. 즉 가계, 기업, 정부 등의 경제 주체가 자금 모집을 통하여 자금을 배합하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (영암)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2611384&cid=51951&categoryId=55289",
+			"description":"[개설] <b>금융<\/b>은 경제상 자금의 수요·공급 관계, 즉 가치 이전의 수단으로서 통화(通貨)의 순환에서 발생되는 자금의 유통을 말한다. 가계, 기업, 정부 등의 경제 주체가 자금 모집을 통하여 자금을 배합하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공주의 <b>금융<\/b> (공주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2580979&cid=51898&categoryId=54020",
+			"description":"[개설] <b>금융<\/b>은 경제상 자금의 수요·공급 관계, 즉 가치 이전의 수단으로서 통화(通貨)의 순환에서 발생되는 자금의 유통을 말한다. 즉 가계, 기업, 정부 등의 경제 주체가 자금 모집을 통하여 자금을 배합하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (서산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2599072&cid=51929&categoryId=54129",
+			"description":"[개설] <b>금융<\/b>은 경제상 가치 이전의 수단으로서 통화의 순환이 이루어지는 곳에서 발생되는 자금의 유통을 의미한다. 즉 가계, 기업, 정부 등의 경제 주체가 자금 모집을 통하여 자금을 배합하고 사용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (구미)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2586367&cid=51932&categoryId=54294",
+			"description":"[정의] 경상북도 구미시 <b>금융<\/b>시장에서의 자금의 수요와 공급. [변천] 우리나라 <b>금융<\/b>의 시작은 철기시대에 철(鐵)이 거래의 매개 수단으로 등장한 것에서부터 시작한다고 볼 수 있다. 이후 삼국시대에는 쌀... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (아산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5912685&cid=66498&categoryId=66522",
+			"description":"[개설] <b>금융<\/b>은 자금을 조달하고 지급하기 때문에 보험업과 같은 경제 활동으로 이해할 수 있다. 통계청의 한국표준산업분류에서도 <b>금융<\/b>업을 보험업과 함께 <b>금융<\/b> 및 보험업으로 분류한다. 아산시 총... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (화순)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2651669&cid=51953&categoryId=55389",
+			"description":"[화순군의 협동조합과 <b>금융<\/b> 조합] 화순군의 <b>금융<\/b> 부분은 1907년 「<b>금융<\/b> 조합 규칙」에 따라 1910년 능주 <b>금융<\/b> 조합, 1913년 동북 <b>금융<\/b> 조합, 1922년 화순 <b>금융<\/b> 조합이 각각 설립되었다. 이들 <b>금융<\/b> 조합은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진도의 <b>금융<\/b> (진도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2629779&cid=51952&categoryId=55342",
+			"description":"[정의] 자금의 수요와 공급이 이루어지는 <b>금융<\/b>시장. [개설] <b>금융<\/b>은 일반적으로 자금의 융통·화폐의 대차(貸借)를 말하며, 구체적으로는 대부증권에 의한 자금의 대부나 참가증권(參加證券)에 의한 자금의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b> (울릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2616818&cid=51936&categoryId=54503",
+			"description":"[<b>금융<\/b>기관] 울릉군의 경우 인문 지리적 특성과 산업 환경으로 인해 <b>금융<\/b> 기관이 많은 편은 아니다. 시중 은행이나 지방 은행과 같은 일반 은행은 없고, 1924년 만들어진 울릉<b>금융<\/b>조합의 전신이 되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"Finance",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2655137&cid=51884&categoryId=53390",
+			"description":"[Definition] The manipulation of the relationship between the supply and demand of money for the purpose of making a profit. [Details] ’Finance’ refers to the supplying of funds... ",
+			"thumbnail":""
+		},
+		{
+			"title":"역외<b>금융<\/b>\/현지<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=70386&cid=43667&categoryId=43667",
+			"description":"역외<b>금융<\/b>(Offshore Banking)이란 외국환은행이 비거주자로부터 외화자금을 조달하여 비거주자를 상대로 자금을 운용하는 거래를 의미한다. 역외<b>금융<\/b>거래를 영위하는 외국환은행은 동 거래를 일반거래와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>핍박·<b>금융<\/b>완만",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070336&cid=40942&categoryId=31828",
+			"description":" <b>금융<\/b>시장에 있어서의 자금상태.  자금의 수요가 공급보다 많아서 자금조달이 곤란한 경우를 <b>금융<\/b>핍박이라고 하고, 반대로 자금의 공급이 수요에 비하여 많아서 자금조달이 용이한 경우를 <b>금융<\/b>완만이라고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직접<b>금융<\/b> · 간접<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=779640&cid=42085&categoryId=42085",
+			"description":"투자자가 자기 스스로 기업에 대해 직접 대부해 주거나 기업의 주식 · 사채를 인수함으로써 이루어지는 <b>금융<\/b>을 직접<b>금융<\/b>이라 한다. 반면, 간접<b>금융<\/b>이란 투자자가 예금 · 금전신탁 · <b>금융<\/b>채의 인수 등으로 일단... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>완화 · <b>금융<\/b>긴축",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=778765&cid=42085&categoryId=42085",
+			"description":"<b>금융<\/b>시장에서 자금공급이 자금수요를 초과하여 자금조달이 용이한 상태를 <b>금융<\/b>완화라 하고, 그 반대의 경우를 <b>금융<\/b>긴축이라 한다. 여기에서는 <b>금융<\/b>완화를 중심으로 설명한다. <b>금융<\/b>완화는 계절적 요인과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자기<b>금융<\/b> · 타인<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=779470&cid=42085&categoryId=42085",
+			"description":"여러 가지 경제적 기능을 담당하는 <b>금융<\/b>은 분류기준에 따라 몇 개의 종류로 구분되고 있다. 자금의 조달방법에 따라 <b>금융<\/b>은 자기<b>금융<\/b>과 타인<b>금융<\/b>으로 나뉘어진다. 이 때 전자는 자기자본으로 소요자금을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내부<b>금융<\/b>˙외부<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1129709&cid=40942&categoryId=31821",
+			"description":"기업의 외부에서 조달하는 것이 외부<b>금융<\/b>이며, 기업 내부의 적립 ·유보로 조달하는 것이 내부<b>금융<\/b>(자기<b>금융<\/b>)이다. 기업은 기(期)마다의 이익금에서 배당금이나 세금을 제외한 나머지를 유보(내부유보)하는 것... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직접<b>금융<\/b>과 간접<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1184810&cid=40942&categoryId=31825",
+			"description":"운전자금의 대출은 이미 말한 바와 같이 원리적으로는 은행의 신용창조에 근거하는 것이므로, 거기서는 직접<b>금융<\/b>(자금의 사실 공급자인 은행과 그 수요자인 기업 사이의 <b>금융<\/b>)만이 행하여지게 된다. 이와는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"IP<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2276157&cid=43659&categoryId=43659",
+			"description":"지식재산을 중심으로 이뤄지는 각종 <b>금융<\/b>활동을 말한다. 특허를 담보로 이뤄지는 대출, 자산유동화 등이 대표적이다. 특허 전문기업에 대한 재무적 투자도 넓은 의미의 IP<b>금융<\/b>에 포함된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>위원회 <b>금융<\/b>연표",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=55763",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"직접 <b>금융<\/b>과 간접 <b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=943727&cid=47332&categoryId=47332",
+			"description":"<b>금융<\/b>시장에서 자금공급자로부터 자금수요자에게로 자금이 흘러가게 하는 방법에는 크게 직접 <b>금융<\/b>과 간접 <b>금융<\/b>이 있다. 직접 <b>금융<\/b>은 자금수요자가 자금공급자로부터 직접적으로 자금을 조달하는 방법으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"P2P<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2207695&cid=42107&categoryId=42107",
+			"description":"온라인을 통해 대출과 투자를 연결하는 대안<b>금융<\/b> 서비스. &quot;온라인투자연계<b>금융<\/b>업&quot;이라고 한다. 온라인을 통해 모든 대출과정을 자동화하여 지점운영비용, 인건비, 대출영업비용 등의 불필요한 경비 지출을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정책<b>금융<\/b>시대 <b>금융<\/b>연표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2814376&cid=55763&categoryId=55763",
+			"description":"[주요정책] || 1970년 ~ 1974년 ||| • 경부고속도로(428km) 개통(1970년) • 8 · 3 긴급조치, 사<b>금융<\/b>의 제도<b>금융<\/b>화(1972년) • 제4공화국 출범(1972년) • 중화학공업정책 추진 발표(1973년)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3880_000_1\/20150706173001834_JQ2HXRR4X.jpg\/bg17_7_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"개발<b>금융<\/b>시대 <b>금융<\/b>연표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2814375&cid=55763&categoryId=55763",
+			"description":"GATT 가입(1967년) • 외국은행 최초 서울 지점 개설(1967년) | [<b>금융<\/b>법령] || 1948년 ~ 1959년 ||| • 정부조직법(1948년), 한국은행법, 은행법(1950년) • 한국산업은행법(1953년) • 농업",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3880_000_1\/20150706173001833_D6H049BQD.jpg\/bg17_6_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>금융<\/b>겸업주의 \/ <b>금융<\/b>전업주의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1711304&cid=43667&categoryId=43667",
+			"description":" 한 <b>금융<\/b>회사가 은행, 증권 등 여러 <b>금융<\/b>서비스를 어디까지 취급하느냐에 따라 나눠지는 방식.  | 외국어 표기 | universal banking \/ specialized banking(영어) | 하나의 <b>금융<\/b>회사가 제공할 수 있는 업무의 종류를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"P2P <b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=930591&cid=43667&categoryId=43667",
+			"description":" '개인 대 개인 간의 <b>금융<\/b>'을 뜻하는 말로, 온라인을 통해 대출-투자를 연결하는 핀테크 서비스를 말한다.  | 외국어 표기 | Peer to Peer Finance(영어) | 인터넷 환경을 통해 투자자들과 좀 더 합리적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>개방화시대 <b>금융<\/b>연표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2814378&cid=55763&categoryId=55763",
+			"description":"[주요정책] || 1990년 ~ 1992년 ||| • 시장평균환율제도 도입(1990년) • 4단계 금리자유화 추진계획 발표(1991년) • 주식시장 개방 → 외국인 국내 주식투자(1992년) • 1단계 <b>금융<\/b>자율화 및... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3880_000_1\/20150706173002245_0TSBK9D26.jpg\/bg17_9_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>금융<\/b>자율화시대 <b>금융<\/b>연표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2814377&cid=55763&categoryId=55763",
+			"description":"안정화 대책 마련(1989년 12월 12일) | [<b>금융<\/b>법령] || 1980년 ~ 1984년 ||| • 독점규제 및 공정거래에 관한 법률(1980년) → <b>금융<\/b>업 포함(1984년) • <b>금융<\/b>실명거래에 관한 법률(1982년) | || 1985년 ~",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3880_000_1\/20150706173001857_7XCYNSPCA.jpg\/bg17_8_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>금융<\/b>채권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2061196&cid=42107&categoryId=42107",
+			"description":"은행, 증권사, 투자<b>금융<\/b>회사 등 <b>금융<\/b>기관이 발행하는 채권을 말한다. <b>금융<\/b>채권으로는 한국은행이 발행하는 통화안정증권, 주택은행이 발행하는 주택채권, 외환은행이 발행하는 외국환<b>금융<\/b>채권, 중소기업은행이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>자산",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2061193&cid=42107&categoryId=42107",
+			"description":"<b>금융<\/b>거래에는 대차관계가 발생하게 되는데 <b>금융<\/b>자산이란 이때의 <b>금융<\/b>적 청구권을 말하며 <b>금융<\/b>시장에서 이를 매개로 자금이 거래되므로 <b>금융<\/b>수단이라고도 한다. <b>금융<\/b>시장에서 거래되는 <b>금융<\/b>자산의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>허브",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=13204&cid=43659&categoryId=43659",
+			"description":"세계 유수의 다국적 기업과 <b>금융<\/b>기관들이 기업 및 <b>금융<\/b> 활동을 자유롭고 편하게 할 수 있도록 <b>금융<\/b>환경이나 투자인센티브 등을 제공하는 장소. 일반적으로 <b>금융<\/b>허브는 글로벌 <b>금융<\/b>허브, 역외... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>허브",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2063617&cid=42107&categoryId=42107",
+			"description":"세계 유수의 다국적 기업과 <b>금융<\/b>기관들이 기업 및 <b>금융<\/b> 활동을 자유롭고 편하게 할 수 있는 <b>금융<\/b>환경이나 투자인센티브 등을 제공하는 지역을 말한다. 일반적으로 <b>금융<\/b>허브는 글로벌 <b>금융<\/b>허브, 역외... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>자산",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2514&cid=43659&categoryId=43659",
+			"description":"<b>금융<\/b>거래에는 대차관계가 발생하게 되는데 <b>금융<\/b>자산이란 이때의 <b>금융<\/b>적 청구권을 말한다. <b>금융<\/b>시장에서 이를 매개로 자금이 거래되므로 <b>금융<\/b>수단이라고도 한다. 거래되는 <b>금융<\/b>자산의 종류에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>위원회 <b>금융<\/b>용어사전",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=55594",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>위원회 <b>금융<\/b>시장역사",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=55762",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"선별<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=779140&cid=42085&categoryId=42085",
+			"description":"불경기 혹은 <b>금융<\/b>핍박의 경우에 있어서 <b>금융<\/b>기관이 자기와 밀접한 관계에 있는 거래처 또는 건실한 회사와 부실한 회사를 엄선하여 건실한 회사에만 융자하는 것을 말한다. <b>금융<\/b>이 궁핍하여 <b>금융<\/b>기관의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>기관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=66637&cid=43667&categoryId=43667",
+			"description":" 자금의 수요자와 공급자에게 예금 및 대출 등의 각종 <b>금융<\/b> 서비스를 제공하는 기관을 말한다. 우리나라 <b>금융<\/b>기관의 종류에는 은행, 비은행예금 취급기관, 보험회사, <b>금융<\/b>투자회사, 기타 <b>금융<\/b>기기관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무역<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=301865&cid=43668&categoryId=43668",
+			"description":"무역<b>금융<\/b>은 수출상이 수출이행에 소요되는 자금을 필요한 시점에서 지원받는 선적 전 <b>금융<\/b>이며 사전<b>금융<\/b>을 말한다. 무역업 자격이 있는 업체가 수출하는 경우, 외국환은행으로부터 무역<b>금융<\/b>의 혜택을 받을 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직접<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=10017&cid=43659&categoryId=43659",
+			"description":"기업이 경영에 필요한 자금을 조달함에 있어서 사내에 유보되어 있는 내부자금으로 충당하는 것을 자기<b>금융<\/b>이라 하고 외부로부터 차입하게 될 때 이를 외부<b>금융<\/b>이라 한다. 외부<b>금융<\/b>은 다시 직접<b>금융<\/b>과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>기관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2061181&cid=42107&categoryId=42107",
+			"description":"<b>금융<\/b>기관이란 다른 부문을 위하여 <b>금융<\/b>자산을 창조하고 또 이들에게 필요한 자금을 빌려주는 역할을 하는 경제 단위를 말한다. <b>금융<\/b>기관은 그 기능에 따라 통화당국, 예금은행, 기타<b>금융<\/b>기관으로 나뉜다. 한편... ",
+			"thumbnail":""
+		},
+		{
+			"title":"간접<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=72452&cid=43667&categoryId=43667",
+			"description":"기업이 경영에 필요한 자금을 조달함에 있어서 사내에 유보되어 있는 내부자금으로 충당하는 것을 자기<b>금융<\/b>이라 하고 외부로부터 차입하게 될 때 이를 외부<b>금융<\/b>이라 한다. 외부<b>금융<\/b>은 다시 직접<b>금융<\/b>과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"간접<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1224&cid=43659&categoryId=43659",
+			"description":"직접<b>금융<\/b>에 대립되는 말로서 자금의 공급자와 수요자 사이에 은행 등 <b>금융<\/b>기관이 개재(介在)하는 <b>금융<\/b>방식을 말한다. 즉, <b>금융<\/b>기관이 일반 대중으로부터 예금을 받아 이를 자신의 명의로 필요한 사람에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도매<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=69458&cid=43667&categoryId=43667",
+			"description":"법인 또는 기관을 상대로 하는 거래를 기업<b>금융<\/b> 또는 도매<b>금융<\/b>(Wholesale Banking)이라 한다. 즉, 은행, <b>금융<\/b>회사로부터 대기업 등 기관투자가가 차입하는, 거래단위가 큰 <b>금융<\/b>자산을 'Wholesale Money... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직접<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062576&cid=42107&categoryId=42107",
+			"description":"직접<b>금융<\/b>은 기업이 자금조달을 할 때 <b>금융<\/b>기관을 개입시키지 않고 주식이나 회사채를 발행함으로써 투자자로부터 직접 자금을 조달하는 것을 말한다. 반면에 간접<b>금융<\/b>은 <b>금융<\/b>기관을 통하여 일반으로부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"간접<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1167861&cid=40942&categoryId=31825",
+			"description":" 자금의 공급자와 수요자 사이에 은행 등 <b>금융<\/b>기관이 개재하는 <b>금융<\/b>방식.  기업이 경영에 필요한 자금을 조달할 때 사내에 유보되어 있는 내부자금으로 충당하는 것을 내부<b>금융<\/b>이라 하고 외부로부터 차입하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제도<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1141105&cid=40942&categoryId=31825",
+			"description":" 공적인 <b>금융<\/b>기관에 의해 행해지는 <b>금융<\/b>.  사<b>금융<\/b> ·지하<b>금융<\/b>에 대비되는 개념이다. 법령 ·제도에 따라 정부 ·지방자치단체가 재정자금을 직접 융자하거나 또는 정부가 이자보전(利子補塡) ·채무보증 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>수지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=929907&cid=43667&categoryId=43667",
+			"description":" <b>금융<\/b>수입에서 <b>금융<\/b>비용을 뺀 차액.  | 외국어 표기 | 金融收支(한자) | <b>금융<\/b>수지는 기업이 <b>금융<\/b>으로 얻은 수입에서 <b>금융<\/b>비용을 뺀 금액으로, <b>금융<\/b>수입은 예금이나 유가증권 등 <b>금융<\/b>자산으로 취득하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>겸업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2485&cid=43659&categoryId=43659",
+			"description":"은행, 증권, 투신, 종금사 등 <b>금융<\/b>기관들이 서로의 업무영역에 구애받지 않고 자유롭게 <b>금융<\/b>상품을 취급하는 것을 말한다. 고객이 다양한 <b>금융<\/b>상품을 한 <b>금융<\/b>기관을 통해 구입하는 원스톱 쇼핑(one stop... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>수지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2061189&cid=42107&categoryId=42107",
+			"description":"기업의 이자수익이나 배당금수익 등 <b>금융<\/b>수입에서 차입금에 대한 이자와 어음할인료 등의 <b>금융<\/b>비용을 차감한 것으로 영업외손익을 구성하는 중요한 요소. 기업은 예금, 유가증권 등 <b>금융<\/b>자산을 운용하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>고시",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=13191&cid=43659&categoryId=43659",
+			"description":"대학가에서 경쟁이 치열한 국책 <b>금융<\/b> 기관의 입사 시험을 이르는 말. 한국은행, <b>금융<\/b>감독원, 산업은행, 수출입은행 예금보험공사 등 국책 <b>금융<\/b> 기관의 입사 시험을 대학가에서는 ‘<b>금융<\/b> 고시’로 부른다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현대 <b>금융<\/b>이론과 <b>금융<\/b>자산",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1184818&cid=40942&categoryId=31825",
+			"description":"이것들은 국내<b>금융<\/b>자산인데, 이것 이외에 금 및 대외채권으로 된 대외<b>금융<\/b>자산이 있다. 또, 걸리, 쇼에 의하면 <b>금융<\/b>자산에 대하여 주식 ·사채 등의 발행에 의하여 자금을 조달하는 직접<b>금융<\/b>에 의한 것을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>시장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2061190&cid=42107&categoryId=42107",
+			"description":"자금 공급자와 자금 수요자가 모여서 <b>금융<\/b>거래를 형성시키는 시장을 말하며 화폐시장이라고도 한다. <b>금융<\/b>시장의 예는 주식시장, 사채시장, 상품시장, 외환시장이다. 이러한 <b>금융<\/b>시장은 일반시장과는 달리 ①... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>조합",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=645252&cid=43126&categoryId=43126",
+			"description":" 대한제국 때의 서민<b>금융<\/b>기관.  <b>금융<\/b>조합은 대한제국 때에 설립된 서민<b>금융<\/b>기관이다. 1907년에 설립되어 1956년 7월에 대한민국의 농업은행의 모체가 된 서민<b>금융<\/b>기관으로 신협과 비슷한 성격이다. 대한제국... ",
+			"thumbnail":""
+		},
+		{
+			"title":"간접<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=572400&cid=46630&categoryId=46630",
+			"description":" 자금공급자와 자금수요자 사이에 은행 등 <b>금융<\/b> 중개 기관이 개재하는 <b>금융<\/b>시스템. [개설] <b>금융<\/b>거래는 자금공급자로부터 자금수요자로 자금이 이동하는 형태에 따라 직접<b>금융<\/b>과 간접<b>금융<\/b>으로 구분된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2529&cid=43659&categoryId=43659",
+			"description":"<b>금융<\/b>시장 및 <b>금융<\/b>기관과 이들을 형성하고 운영하는 법규와 관행을 총칭 하는 것이다. <b>금융<\/b>제도의 역할은 자금이 원활히 흐르도록 하는 것이다. 또 지급결제의 보장과 보험서비스 제공도 <b>금융<\/b>제도가 지니는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2066960&cid=42107&categoryId=42107",
+			"description":"수학적 방법론을 이용해 <b>금융<\/b>시장을 분석하거나 투자처를 결정하는 학문분야로 <b>금융<\/b>(finance)과 공학(engineering)의 합성어이다. 각종 경제·<b>금융<\/b> 데이터를 통계학을 이용해 가공하고, 여기에 근거해서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관치<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=12889&cid=43659&categoryId=43659",
+			"description":"정부가 <b>금융<\/b>을 지배하는 것을 뜻한다. 우리나라는 과거 국가 주도의 경제 성장을 거듭하면서 정부가 <b>금융<\/b>기관을 장악해 왔다. 1961년 군사정부는 ‘<b>금융<\/b>기관에 대한 임시조치법’의 제정과 ‘한국은행법’... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>수지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1202081&cid=40942&categoryId=31914",
+			"description":" 기업에서 수취이자나 배당금 등 <b>금융<\/b>수입에서 지불이자·어음할인료 등의 <b>금융<\/b>비용을 뺀 차액.  영업외손익을 구성하는 중요 요소이다. 기업은 예금·유가증권 등 <b>금융<\/b>자산을 보유하여 운용함으로써... ",
+			"thumbnail":""
+		},
+		{
+			"title":"관치<b>금융<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1201154&cid=40942&categoryId=31825",
+			"description":" 정부가 재량적 정치운용을 통해서 민간 <b>금융<\/b>기관에 참여함으로써 <b>금융<\/b>시장의 인사와 자금배분에 직접 개입하는 형태.  1961년 5·16군사정변 직후 경제개발계획 추진을 위한 국가자원의 효율적 동원을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>금융<\/b>수지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2504&cid=43659&categoryId=43659",
+			"description":"기업에 있어서 수취이자나 배당금 등 <b>금융<\/b>수입에서 지불이자나 어음할인료 등 <b>금융<\/b>비용을 뺀 수지로, 영업외손익을 구성하는 중요한 요소이다. 기업은 예금, 유가증권 등 <b>금융<\/b>자산을 보유하여 그 운용을 통해... ",
+			"thumbnail":""
+		}
+	]
+}

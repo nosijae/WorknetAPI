@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:22 +0900",
+	"total":286713,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>보건<\/b>복지포럼",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2517",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>사회연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2518",
+			"description":""
+		},
+		{
+			"title":"정신<b>보건<\/b>과사회사업",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4678",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>교육건강증진학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2511",
+			"description":""
+		},
+		{
+			"title":"한국<b>보건<\/b>간호학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5827",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>행정학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2529",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>과 사회과학",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2506",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>의료산업학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1043788",
+			"description":""
+		},
+		{
+			"title":"대한<b>보건<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1483",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>경제와 정책연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2500",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>정보통계학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5830",
+			"description":""
+		},
+		{
+			"title":"한국학교ㆍ지역<b>보건<\/b>교육학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=503321",
+			"description":""
+		},
+		{
+			"title":"안전<b>보건<\/b> 이슈리포트",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3566",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>물리 : hoken buturi (保健物理 : hoken buturi)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2859305",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>과복지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=54030",
+			"description":""
+		},
+		{
+			"title":"한국<b>보건<\/b>교육학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3244567",
+			"description":""
+		},
+		{
+			"title":"산업<b>보건<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2870",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>환경연구원보",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1049348",
+			"description":""
+		},
+		{
+			"title":"건강적사회결정인소재초급위생<b>보건<\/b>중적융입로경 (健康的社会决定因素",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=191343186",
+			"description":"Perspectives in Primary Care:A Conceptual Framework and Path for Integrating Social Determinants of Health Into Primary Care Practice  "
+		},
+		{
+			"title":"광주<b>보건<\/b>대학 논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2684012",
+			"description":""
+		},
+		{
+			"title":"한국임상<b>보건<\/b>과학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3099560",
+			"description":""
+		},
+		{
+			"title":"2020년 OECD <b>보건<\/b>통계를 통해 살펴본 우리의 <b>보건<\/b>의료 현황과 통계 정보 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650646343",
+			"description":"Current status of health care in the OECD health statistics 2020 and improvements of health statistics  목차\n2020년 OECD <b>보건<\/b>통"
+		},
+		{
+			"title":"<b>보건<\/b>계열 대학생의 사전연명의료의향서 태도 영향요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651626515",
+			"description":"Factors Influencing Health Department Students’ Attitudes towards Advance Medical Directives Objectives: The purpose of this study wa"
+		},
+		{
+			"title":"<b>보건<\/b>의료과학 (保健医療科学)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2859307",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>과학논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1556121",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>의료 빅데이터의 정책 현황과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=189103018",
+			"description":"National-Level Use of Health Care Big Data and Its Policy Implications 이 글은 국가 수준에서 <b>보건<\/b>의료 빅데이터의 자"
+		},
+		{
+			"title":"정신<b>보건<\/b>의 역사적 변화선상에서 본 우리나라 정신<b>보건<\/b>법의 문제와 개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12966263",
+			"description":"Mental Health Policy and Law in Korea 본 논문은 사회경제적 조건에 따라 변화하는 정신질환의 질병관과 그에 "
+		},
+		{
+			"title":"<b>보건<\/b>복지 빅 데이터 효율적 활용방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57050966",
+			"description":"Efficient Utilization of Big Data on Health &amp; Welfare 최근 인터넷과 소셜미디어의 확산으로 데이터량이 기하급수"
+		},
+		{
+			"title":"<b>보건<\/b>복지 데이터 활용 현황과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650646340",
+			"description":"  목차\n<b>보건<\/b>복지 데이터 활용 현황과 과제 \/ 임근찬 1\n [본문] 1 <b>보건<\/b>복지, <b>보건<\/b>의료데이터, 건강보험공"
+		},
+		{
+			"title":"지역사회정신<b>보건<\/b> 재활서비스에 대한 소비자 만족도, 자기효능감 및 삶",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16446176",
+			"description":"Service Satisfaction, Self-Efficacy, and Quality of Life Among Psychiatric Rehab Service Consumers 본 연구의 목적은 지역사회"
+		},
+		{
+			"title":"장애노인 가구의 과부담 <b>보건<\/b>의료비 결정요인에 관한 종단적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290013126",
+			"description":"The Longitudinal Study on the Factors of Catastrophic Health Expenditure Among Disabled Elderly Households 본 연구는 장애노인"
+		},
+		{
+			"title":"보육교사의 구강<b>보건<\/b>교육경험 인지도에 따른 구강<b>보건<\/b>지식의 관련성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41604555",
+			"description":"The Relationship between Oral Health Knowledge and Its Education Recognizance of Childcare Teacher 보육교사들의 구강<b>보건<\/b>경"
+		},
+		{
+			"title":"결혼 이주여성의 모자<b>보건<\/b> 및 모자영양 현황과 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32728648",
+			"description":"Maternal Health and Nutritional Status of Marriage-Based Women Immigrants in Korea and Policy Directions 인구의 구성과 변화 양"
+		},
+		{
+			"title":"초등학교 <b>보건<\/b>교사의 <b>보건<\/b>교육 실태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12547068",
+			"description":"Status of Health Education by Elementary School Nurses  목차\n초등학교 <b>보건<\/b>교사의 <b>보건<\/b>교육 실태 \/ 문정순 ; 송경애"
+		},
+		{
+			"title":"다문화가족의 건강 및 <b>보건<\/b>의료 실태와 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41672437",
+			"description":"Health Status of Marriage-based Immigrants in Korea and Policy Directions 우리나라는 다문화사회에 진입하고 있다. 통"
+		},
+		{
+			"title":"7차 교육과정 시행 후 초등 <b>보건<\/b>교사의 <b>보건<\/b>교육 실태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11526611",
+			"description":"A Descriptive Analysis on Health Education in Elementary School after Introduction of 7th Curriculum Modification Purpose : This study "
+		},
+		{
+			"title":"부산지역 초등학교 6학년 학생의 구강<b>보건<\/b>에 관한 지식, 태도, 행동과 구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11526637",
+			"description":"Relationships between Knowledge, Attitudes, and Behaviors about the Dental Health and the Dental Health Conditions in Elementary Studen"
+		},
+		{
+			"title":"우리나라공공<b>보건<\/b>의료의 문제점과 정책방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59541525",
+			"description":"Problem with and Policy Agenda for Public Health Services in Korea 공공<b>보건<\/b>의료를 강화하고 공공<b>보건<\/b>의료체계를 확"
+		},
+		{
+			"title":"학교<b>보건<\/b>연구 (学校保健研究)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2841008",
+			"description":""
+		},
+		{
+			"title":"4차 산업혁명에 대비한 <b>보건<\/b>복지 분야 데이터 주도 정책 추진 필요성과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561492927",
+			"description":"The Need and Direction for Data-Driven Health and Welfare Policies in the 4th Industrial Revolution 4차 산업혁명과 지능정보"
+		},
+		{
+			"title":"일부 고등학생들의 안전<b>보건<\/b>교육 및 안전사고 실태와 관련요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11199520",
+			"description":"The Status of Safety Accident and Safety Health Education and Risk Factors of Safety Accident among the selected High School Students  "
+		},
+		{
+			"title":"<b>보건<\/b>교육사 교과목의 개발과정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56435974",
+			"description":"  목차\n<b>보건<\/b>교육사 교과목의 개발과정 \/ 이주열 1\n 〈Abstract〉 1\n I. 서론 1\n II. <b>보건<\/b>교육사 국가자격제도"
+		},
+		{
+			"title":"<b>보건<\/b>복지분야 공공 빅데이터의 활용과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157472818",
+			"description":"Big Data and Its Applications in the Health and Welfare Sectors <b>보건<\/b>복지분야에는 건강보험 표본코호트DB, 유전인체"
+		},
+		{
+			"title":"지역사회정신<b>보건<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5033",
+			"description":""
+		},
+		{
+			"title":"한 장으로 보는 <b>보건<\/b>의료인력 20종",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897326566",
+			"description":"  1. 의사\n2. 치과의사\n3. 한의사\n4. 약사\n5. 한약사\n6. 간호사 \n7. 조산사\n8. 간호조무사 \n9. 임상병리사\n10. "
+		},
+		{
+			"title":"동남<b>보건<\/b>대학논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3292938",
+			"description":""
+		},
+		{
+			"title":"우리나라 <b>보건<\/b>복지 빅데이터 동향 및 활용 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=62679912",
+			"description":"  목차\n우리나라 <b>보건<\/b>복지 빅데이터 동향 및 활용 방안 \/ 송태민 1\n I. 서론 1\n II. 관련 연구 2\n  1. 빅데이"
+		},
+		{
+			"title":"정신<b>보건<\/b>에 종사하는 인력들의 소진(Burnout)의 현황과 대책",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=31830800",
+			"description":"The Current State of Burnout and Coping Strategies among Mental Health Staffs   소진, 대처 전략, 정신<b>보건<\/b>인력, burnout, cop"
+		},
+		{
+			"title":"한국 청소년의 구강<b>보건<\/b>의식행태와 치주건강상태의 연관성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78410521",
+			"description":"The relationship between oral health behaviors and periodontal health status of Korean adolescents OBJECTIVES: The purpose of this stud"
+		},
+		{
+			"title":"<b>보건<\/b>환경연구소논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2534",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>교육사 제도정립의 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13702656",
+			"description":"Recommendations of the Korean Society for Health Education and Promotion for Developing the Korean Credentialing Policy of Health Educa"
+		},
+		{
+			"title":"소셜빅데이터를 활용한 <b>보건<\/b>복지정책 동향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79120397",
+			"description":"Trend Analysis of Health and Welfare Policy Based on Social Big Data 대상자별, 분야별로 다양한 <b>보건<\/b>복지 정책이 요구"
+		},
+		{
+			"title":"산업구강<b>보건<\/b>학술지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2839",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>의료인에 대한 <b>보건<\/b>교육 정책",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13605950",
+			"description":"Health Education for Health Professionals The hospital setting provides many opportunities for health promotion. There are many health "
+		},
+		{
+			"title":"우리나라 학교<b>보건<\/b>교육의 현황과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13598338",
+			"description":"Future Directions of School Health Education Policy and Practice in Korea The purpose of this study was to identify the current problem"
+		},
+		{
+			"title":"블록체인(Blockchain) 기술 동향 및 <b>보건<\/b>복지 정보통계 분야 활용 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561707585",
+			"description":"The Direction for the Application of Blockchain Technology in the Health and Welfare Sector 비트코인 등 암호화폐에 대한 내"
+		},
+		{
+			"title":"장애인의 <b>보건<\/b>의료 실태와 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155243770",
+			"description":"Health Care for People with Disabilities: Current State and Policy Implications 장애인의 <b>보건<\/b>의료 실태와 관련한 공적 "
+		},
+		{
+			"title":"<b>보건<\/b> 의료용 기능성 게임의 효과적 개발 방향 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78408166",
+			"description":"An Overview of Using Serious Games for the Effective Development in Health and Medicine 기능성 게임은 현재 정부, 교육, 군"
+		},
+		{
+			"title":"제5차 국민<b>보건<\/b>의료실태조사 결과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897599379",
+			"description":""
+		},
+		{
+			"title":"서울시 일부 노인요양기관 종사자의 구강<b>보건<\/b>지식 및 행태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59528575",
+			"description":"Oral health knowledge and behavior among nursing home employees in Seoul, Korea OBJECTIVES: The aim of this study was to analyze the le"
+		},
+		{
+			"title":"전문대학에서의 NCS 직업기초능력 증진을 위한 교육프로그램 개발 : S 보",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187942608",
+			"description":" 본 연구는 국내 전문대학에 NCS기반 교육과정이 활발히 도입되는 상황에서 직업기초능력 중심의 교양"
+		},
+		{
+			"title":"<b>보건<\/b>의료 빅데이터의 정책 현황과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=189103018",
+			"description":"  목차\n<b>보건<\/b>의료 빅데이터의 정책 현황과 과제 \/ 강희정 1\n [요약] 1\n 1. 들어가며 1\n 2. <b>보건<\/b>의료 빅데이"
+		},
+		{
+			"title":"<b>보건<\/b>소의 건강증진사업을 위한 <b>보건<\/b>교육전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10911316",
+			"description":"Health Educations strategy for local health Department  목차\n<b>보건<\/b>소의 건강증진사업을 위한 <b>보건<\/b>교육전략 \/ 남정자"
+		},
+		{
+			"title":"기조발제 : 윤석열정부의 <b>보건<\/b>의료정책 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896914975",
+			"description":""
+		},
+		{
+			"title":"고신<b>보건<\/b>과학연구소보",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=534",
+			"description":""
+		},
+		{
+			"title":"세션 2. KOFIH : 포스트코로나시대 글로벌 <b>보건<\/b>의료 교육훈련사업 전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896914981",
+			"description":""
+		},
+		{
+			"title":"지역사회 청소년 정신 <b>보건<\/b>사업 모형 개발을 위한 학교적응 유연성 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=31832246",
+			"description":"Original Articles : A Study of Factors Influencing Increase of School Resilience for the Development of Adolescent Community Mental Hea"
+		},
+		{
+			"title":"성과 에이즈에 관한 <b>보건<\/b>교육 방법별 효과 측정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10945736",
+			"description":"Measurement of Effects of Health Education Methods on Sex and AIDS  목차\n성과 에이즈에 관한 <b>보건<\/b>교육 방법별 효과 측"
+		},
+		{
+			"title":"노인 돌봄의 연속성 측면에서 바라본 의료･<b>보건<\/b>･복지 서비스의 이용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562518540",
+			"description":"The Use and Coordination of the Medical, Public Health and Social Care Services for the Elderly in Terms of Continuum of Care 커뮤니"
+		},
+		{
+			"title":"2015 개정 <b>보건<\/b>교과 교육과정 방향 및 특징 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232436384",
+			"description":"Analysis of the direction and features of Health Education curriculum under the 2015 revised curriculum 본 연구는 2015년도 개정"
+		},
+		{
+			"title":"간호·<b>보건<\/b>계열 대학생의 성격유형, 자아탄력성 및 대학생활적응",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=695338575",
+			"description":""
+		},
+		{
+			"title":"우리나라 일부 청소년의 구강질환으로 인한 활동제한실태 및 구강<b>보건<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562287856",
+			"description":"Relationship between restricted activity due to oral diseases and oral health behaviors among adolescents OBJECTIVES: The purpose of th"
+		},
+		{
+			"title":"공공<b>보건<\/b>의료체계 현황과 발전방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41454313",
+			"description":"Public Health Care: Current Status and Improvement Options 공공<b>보건<\/b>의료부문은 시장기전보다 역할부여가 필요한 영"
+		},
+		{
+			"title":"<b>보건<\/b>복지 소식 광장",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907603",
+			"description":""
+		},
+		{
+			"title":"캐나다의 직업안전<b>보건<\/b>법상 작업거부권과 시사점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651443260",
+			"description":"Right to Refuse Unsafe Work: Canadian Occupational Health and Safety Legislation and Lessons for Korea 근로계약상의 의무이행"
+		},
+		{
+			"title":"<b>보건<\/b>계열 대학생의 학과만족도, 진로의사결정유형이 진로준비행동에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=127678471",
+			"description":"The Effects of Satisfaction in their Departments of Health College Students and the Types for Career Decision on Career Preparatory Beh"
+		},
+		{
+			"title":"UPLC-MS\/MS법측정항피노류<b>보건<\/b>식품중비법첨가적9종장양류화학약물 (UPLC-MS\/",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=713490806",
+			"description":""
+		},
+		{
+			"title":"2022 모자<b>보건<\/b>사업 안내",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896913275",
+			"description":""
+		},
+		{
+			"title":"COVID-19 치료와 모자<b>보건<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896913282",
+			"description":""
+		},
+		{
+			"title":"지역 <b>보건<\/b>복지 통합접근의 연계수단: 영국 커미셔닝을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58318130",
+			"description":"Tools of Linkage for Integrating Health and Social Care: Commissioning of UK 본 연구는 <b>보건<\/b>과 복지의 관계를 연계수단"
+		},
+		{
+			"title":"유튜브 온라인을 이용한 모자<b>보건<\/b> 소통",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896913279",
+			"description":""
+		},
+		{
+			"title":"모자<b>보건<\/b> 향상을 위한 법적 이슈 및 제언",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896913272",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>의료인을 대상으로 한 금연교육모형 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12547152",
+			"description":"Development of Educational Model for Health Professionals Regarding Smoking Cessation Objecive and Method: Smoking among health profess"
+		},
+		{
+			"title":"「모자<b>보건<\/b>법 시행령」일부개정령안 국무회의 의결(6.7.)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817894",
+			"description":""
+		},
+		{
+			"title":"2021 <b>보건<\/b>복지통계연보(통계표, 자료해설집)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875503723",
+			"description":"  2021 <b>보건<\/b>복지통계연보\n- 통계표\n- 지표해설집  "
+		},
+		{
+			"title":"GINI계수에 의한 주요 <b>보건<\/b>의료인력의 지역간 분포 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13703591",
+			"description":"Distributional Change in Major Health Manpower in Korea, ****~**** <b>보건<\/b>의료인력의 지역간 불균형 문제는 지속적으로 "
+		},
+		{
+			"title":"구강<b>보건<\/b>교육이 학령전기 아동의 구강<b>보건<\/b>지식과 구강위생상태에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=668168726",
+			"description":"   Nursing, Medicine, Health care, Dental hygiene, Dental health, Day care center "
+		},
+		{
+			"title":"<b>보건<\/b>복지정책에서의 빅데이터 활용 전략과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=690326249",
+			"description":""
+		},
+		{
+			"title":"소셜 빅데이터를 활용한 미래신호 예측 : <b>보건<\/b>복지 주요 정책과 이슈를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=189103015",
+			"description":"Using Social Big Data Predictive Future Signal: With Special Reference to the Major Policy Issues of Health and Welfare <b>보건<\/b>복지 "
+		},
+		{
+			"title":"전문가 경험 분석을 통한 발달장애인 <b>보건<\/b>복지 서비스 전달체계 개선방",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898228696",
+			"description":"Derivation of Improvement of Health and Welfare Delivery System from the Health and Welfare Expert’s Experience with Developmental Di"
+		},
+		{
+			"title":"일부 국군병사의 구강<b>보건<\/b> 지식, 태도 및 실천에 관한 조사연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18458247",
+			"description":"Knowledge, Attitude and Practice related to Dental Health among Some Korean Soldiers   국군병사, 구강<b>보건<\/b>, 지식, 태도, Dent"
+		},
+		{
+			"title":"<b>보건<\/b>복지연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2515",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>복지 소식 광장",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896910115",
+			"description":""
+		},
+		{
+			"title":"초등학교 <b>보건<\/b>교사의 직업정체성: 근거이론적 접근",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289615941",
+			"description":"Professional Identity of Elementary School Health Teachers: A Grounded Theory Approach 목적초등학교 <b>보건<\/b>교사의 직업정체"
+		},
+		{
+			"title":"초등학생의 dental IQ 수준과 구강<b>보건<\/b> 관리실태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11526686",
+			"description":"Dental IQ and Oral Health Care Status of Elementary School Students * 이 논문은 2002년도 인제대학교 학술연구조성비 "
+		},
+		{
+			"title":"국민 중심 <b>보건<\/b>의료체계 구축을 위한 통계 생산 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561492939",
+			"description":"The Challenge of Generating Statistics for a People-Centered Health Care System 국민을 <b>보건<\/b>의료체계의 중심에 세우는 것"
+		},
+		{
+			"title":"성인들의 구강<b>보건<\/b>과 건강·삶의 질의 관련성 연구 : 영남지역 일부 주민",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13697643",
+			"description":"Research about Relationship between the Quality of life, Oral Health and Total Health of adults The purpose of this research is to incr"
+		},
+		{
+			"title":"안전<b>보건<\/b>법령의 보호대상과 중대재해처벌법 적용의 문제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897794646",
+			"description":"The Subject of Protection of the Occupational Safety and Health Act and the Problem of the Application of the Serious Accidents Punishm"
+		},
+		{
+			"title":"산사、대조、구기、국화천연복합<b>보건<\/b>음료적공예연구 (山楂、大枣、枸",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=669835937",
+			"description":""
+		},
+		{
+			"title":"<b>보건<\/b>복지 소식 광장",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888500421",
+			"description":"Health and Welfare News in Brief <b>보건<\/b>복지부 2022년 1월 보도자료(http:\/\/www.mohw.go.kr\/front_new\/al\/sal\/0301ls.jsp?PAR_MENU_I"
+		}
+	]
+}

@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:10 +0900",
+	"total":78240,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3547816&cid=58613&categoryId=58614",
+			"description":"<b>재료<\/b>] 材 재목 재, 料 헤아릴 료 [한자풀이] 재목(材)을 헤아림(料). 된장찌개에는 어떤 <b>재료<\/b>가 들어가나요? 된장을 물에 풀고 쇠고기와 두부, 버섯 등을 넣고 끓인 후 파와 마늘 등을 넣으면 맛있는 된장찌개가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_3\/20170116152719847_4W4VRYPCH.jpg\/363_115470_14583.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6073625&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] ① 정해진 기하학적 형태를 갖지 않은 粉狀 · 粒狀 · 織雜狀 · 液狀 · 湖狀 등의 건축<b>재료<\/b>. ② 도면용 약어는 「MATL.」. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1646726&cid=50333&categoryId=50333",
+			"description":"물리적으로 변화하여 제품을 만드는 것.",
+			"thumbnail":""
+		},
+		{
+			"title":"원료",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415109&cid=68110&categoryId=68110",
+			"description":"어떤 물건을 만드는 데 들어가는 <b>재료<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%AC%EB%A3%8C",
+			"description":"<b>재료<\/b> (材料)는 물체를 구성하는 재질 즉 물질을 의미한다. 물이나 공기를 포함해서 돌, 나무 등은 모두 지구에서 흔한 <b>재료<\/b>다. 좁은 의미로는 생산이나 제조에 쓰이는 물리적인 원자재(원료)나 부품을 뜻하기도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=167943",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"머티어리얼",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=343149&cid=50321&categoryId=50321",
+			"description":"제품의 소재(素材), 원료, 제품을 만드는 자재를 뜻한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"은색 줄(Silver Streak, 실버 스트리크)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6451237&cid=63839&categoryId=63839",
+			"description":" 은선, 반짝이, 가스 등으로 다양하게 불리는 실버 스트리크(Silver Streak)는 사출 성형 시 용융된 수지가 금형 내부로 유입되는 과정에서 용융 수지 자체, 용융 수지가 흐르는 경계 면, 용융 수지와 금형의... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA3MjBfMjc3%2FMDAxNjI2NzQxNTc1NTc2.VUcDUtusNJhJligxJoHrAwEY-9kOSMdySVKImUF0LIMg.UuOf29pK7TXNZZ2m4-YHgRCNX0nDy6weY_GH-R8JuU0g.JPEG%2FITeDY0XUkDLt7fuzfdJa-iyr_ROM.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x316"
+		},
+		{
+			"title":"의료 <b>재료<\/b>, 미용 <b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2074008&cid=60229&categoryId=60229",
+			"description":"사람들은 아름다워지기 위해 체내에 화학 <b>재료<\/b>를 임플란트(보형물 삽입)하기도 하고 피부에 바르기도 한다. 임플란트 <b>재료<\/b>는 <b>재료<\/b>가 장시간 인체 내부에 머물게 되므로 시술하기 전에 안전성에 대해서 충분히... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062360&cid=50305&categoryId=50305",
+			"description":"제품의 제조에 직·간접적으로 투입된 <b>재료<\/b>의 비용으로서 기초<b>재료<\/b>재고액과 당기<b>재료<\/b>매입액의 합계액에서 기말<b>재료<\/b>재고액을 차감하는 형식으로 계산한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1103149&cid=40942&categoryId=32391",
+			"description":" 두 가지 이상의 <b>재료<\/b>가 조합되어 물리적·화학적으로 서로 다른 상(phase)을 형성하면서 보다 유효한 기능을 발현하는 <b>재료<\/b>를 말한다. 강화재의 구조에 따라 섬유강화 복합<b>재료<\/b>(fibrous... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기능<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070743&cid=40942&categoryId=32335",
+			"description":" 기존 <b>재료<\/b>의 용도인 구조용이 아닌 특수한 <b>재료<\/b> 고유의 기능을 지닌 여러 가지 <b>재료<\/b>들의 총칭.  보통 대량 생산되는 기존<b>재료<\/b>와 대별되어 소량, 고부가가치의 특성을 지닌다. 용도에 따라 전자<b>재료<\/b> ·자성<b>재료<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=9143&cid=43659&categoryId=43659",
+			"description":"반도체, 자성<b>재료<\/b> 등을 비롯 저항<b>재료<\/b>, 접점<b>재료<\/b>, 유전체<b>재료<\/b>, 도전의 료 등 전자기계에 사용되는 광범위한 <b>재료<\/b>. 기기의 고성능화, 소형·경량화, 고집적화 등의 요구에 대응해서 차차 신<b>재료<\/b>의 개발이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2276147&cid=43659&categoryId=43659",
+			"description":"나노<b>재료<\/b>는 초미세 크기의 단위 구조로 이루어진 물질을 총칭하는 것으로, 주로 단위 구조의 한 변의 길이가 1~100nm(나노미터) 범위인 물질을 말한다. 이것은 기존의 ㎛(마이크로미터) 크기의 물질과 비교했을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1224182&cid=40942&categoryId=32202",
+			"description":" 크기가 나노 스케일인 <b>재료<\/b>의 총칭으로 3차원적으로 볼 때 적어도 한 변의 길이가 100나노미터 이하 크기의 물질을 말하는데, 1980년초부터 나노<b>재료<\/b>에 관한 연구를 본격적으로 시작한 독일의 화학자... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중간<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062514&cid=42107&categoryId=42107",
+			"description":"원산지규정에서 사용하는 중간<b>재료<\/b>(intermediate materials)라는 용어는 중간재(intermediate products, input)라고도 하는데 이는 수직적으로 통합된 생산자가 비원산지<b>재료<\/b>를 사용하여 최종제품의 생산에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건축<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1058729&cid=40942&categoryId=32337",
+			"description":" 건축물에 사용되는 모든 <b>재료<\/b>의 총칭으로, 인류 역사상 각 시대별로 그 문화와 지리적인 조건에 따라 사용<b>재료<\/b>를 달리 하였으나, 수송수단이 발달하고 교통이 발달함에 따라 인공<b>재료<\/b> 생산이 발달되어 세계... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_16\/20180828130517471_LR8MTGJE0.jpg\/50782.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>재료<\/b>역학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1138837&cid=40942&categoryId=32351",
+			"description":" 구조물이나 공업<b>재료<\/b> 등의 역학적인 문제를 이론 및 실험적으로 연구하는 학문이다. 공학의 여러 분야에서 기초적으로 사용되는 학문으로 공업<b>재료<\/b>를 조사하여 <b>재료<\/b>의 성질을 파악해 사용하려는 목적에 맞게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1070224&cid=40942&categoryId=32269",
+			"description":" 공업에서 사용되는 금속으로 된 <b>재료<\/b>.  금속결합을 하고 상온에서 고체상태(예외:수은)이며, 고체상태에서 대부분 결정(crystal:동일 형태의 단위정[unit cell]이 3차원 공간에서 반복적으로 배열되어 있는 고체)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기초<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6416077&cid=68110&categoryId=68110",
+			"description":"적층(성층)제품의 골격을 이루는 <b>재료<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"역청<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415346&cid=68110&categoryId=68110",
+			"description":"비튜민을 주성분으로 하는 <b>재료<\/b>. 도로용 역청<b>재료<\/b>로써는 아스팔트나 타르 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"양열<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1124351&cid=40942&categoryId=31870",
+			"description":" 온상이나 임시모판에 사용되는 인공가온<b>재료<\/b>.  산화에 의하여 발열이 쉽게 되는 낙엽 ·볏짚 ·겨 ·두엄 등이 주로 쓰이며 화학제품도 쓰인다. 이들 <b>재료<\/b>는 미생물이 분해할 때 생기는 열을 열원으로 이용한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545707&cid=42279&categoryId=42279",
+			"description":" <b>재료<\/b>대장이란 <b>재료<\/b>의 입출고 내역을 효율적으로 관리하기 위하여 작성하는 양식이다.  <b>재료<\/b>는 물건을 만드는 데 들어가는 것을 의미한다. 따라서 <b>재료<\/b>대장은 <b>재료<\/b>의 입출고와 관련된 내용을 담는 것이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181547029_94UFY0XHR.jpg\/hb10_78581_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>재료<\/b>기호",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1138834&cid=40942&categoryId=32433",
+			"description":" KS규격으로 정해진 금속<b>재료<\/b>의 기호.  기계설계 등을 할 때 그 도면에 사용금속<b>재료<\/b>를 표시하기 위하여 KS규격으로 정해진 기호이다. 이 기호를 보면 <b>재료<\/b>의 종류·성질을 알 수 있으며, 영어나 로마자의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"절연<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1140025&cid=40942&categoryId=32373",
+			"description":" 전기나 열이 전달되지 않도록 하기 위해 사용하는 <b>재료<\/b>이며 기체·액체·고체로 나눌 수 있다.  기체로 된 절연<b>재료<\/b>는 공기 외에도 산소·질소·수소 등과 같은 일반기체도 양호한 절연<b>재료<\/b>가 된다. 액체로 된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=795443&cid=46637&categoryId=46637",
+			"description":" 공업<b>재료<\/b>의 제조공정, 성질, 구조 상호간의 관계를 연구하는 학문. [내용] <b>재료<\/b>에 관련되는 이전의 전통적인 고체물리학·역학·공정과학·물리화학·결정학 등 학문 상호간의 빈틈을 메워 주는 상호부조적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건축<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1726873&cid=49387&categoryId=49387",
+			"description":"우리나라에서 고대로부터 사용된 건축<b>재료<\/b>는 목재, 석재, 기와 및 벽돌, 진흙, 석회 등이 있다. 목재는 건축<b>재료<\/b>로 가장 많이 사용되었으나 우리나라 기후 특성상 좋은 재질을 가진 큰 목재를 얻기에 불리하였기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_25\/20130626230054104_DIHHF1IIW.jpg\/z2_cp02100624000.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>재료<\/b>시험",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1138835&cid=40942&categoryId=32335",
+			"description":" 공업적으로 사용되는 각종 <b>재료<\/b>의 전기적 시험, 기계적 시험, 물리적 시험, 화학적 시험의 총칭.  특히 기계공업에서는 기계적 시험을 <b>재료<\/b>시험이라고 한다. 공업상 사용하는 <b>재료<\/b>는 사용 전에 <b>재료<\/b>의 여러 가지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"흡음<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415607&cid=68110&categoryId=68110",
+			"description":"소리를 잘 흡수하는 <b>재료<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"불연<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6414944&cid=68110&categoryId=68110",
+			"description":"불에 타지 않는 <b>재료<\/b>. 콘크리트나 강재 등",
+			"thumbnail":""
+		},
+		{
+			"title":"기능<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2562&cid=43659&categoryId=43659",
+			"description":"금속, 플라스틱, 세라믹스 등 각종 소재 가운데 기능적인 특성에 이용가치가 있는 <b>재료<\/b>의 총칭. 전기, 자기, 광학 등의 특성 외에 내열성, 내식성(耐蝕性), 경도(硬度), 강도 등에 특색 있는 소재. 혹은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1620350&cid=50320&categoryId=50320",
+			"description":"<b>재료<\/b>표기계공학용어사전 도면상의 물품에 사용되고 있는 <b>재료<\/b>의 명세(明細)를 표로 작성한 것으로 규격이 정해져 있는 <b>재료<\/b>는 그 종류를 나타내는 기호를 기입한다. 외국어 표기 material list(영어)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>역학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5810592&cid=60217&categoryId=60217",
+			"description":"<b>재료<\/b>역학(Mechanics of materials, Strength of materials)은 응력과 변형이 있는 고체의 거동을 다루는 학문이다. 2차원으로 근사 될 수 있는 1차원 및 2차원 구조체의 거동을 고려하면서부터 이론적인 접근이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4447_000_1\/20190809184432542_NL60K6K5Z.jpg\/%25EC%259E%25AC%25.jpg?type=m160_160"
+		},
+		{
+			"title":"주<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=368807&cid=50317&categoryId=50317",
+			"description":"하나의 요리에서 중심이 되는 <b>재료<\/b>. 예를 들면 빵이나 케이크의 주<b>재료<\/b>는 밀가루이다. 일품요리 중에서 중심이 되는 것. 예를 들면 생선 뫼니에르 요리의 주<b>재료<\/b>는 생선이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=257407&cid=50304&categoryId=50304",
+			"description":"제품의 제조를 위하여 소비되는 물품의 원가를 <b>재료<\/b>비 또는 원료비라 한다. 또한 이것은 필요에 따라 주요<b>재료<\/b>, 부분품, 보조<b>재료<\/b>, 소모공구, 기구비품으로 구분한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>와 표현 (생활 속 <b>재료<\/b>)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451711&cid=51661&categoryId=51662",
+			"description":"[<b>재료<\/b>와 표현 (생활 속 <b>재료<\/b>)] 생활 주변에서 흔히 찾아 볼 수 있는 폐품을 이용한다. 폐품을 관찰해 무엇이 연상되는지 떠올리고, 작품을 정한다. 주제가 결정되면 각자가 만들 것을 분담한다. 우주도시를... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1871\/531C04F3A31FF3EC28E3E26B535F3A133C1_muploader_l_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"<b>재료<\/b>표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6073756&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] <b>재료<\/b>의 소요수량을 도면 및 시방서에 의해 산출 기록한 수량표. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		},
+		{
+			"title":"내열<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1075840&cid=40942&categoryId=32388",
+			"description":" 고온에서 사용할 수 있도록 특별히 만들어진 <b>재료<\/b>로 고온에서 사용할 수 있으려면 우선 그 <b>재료<\/b>의 녹는점이 높아야 하므로 금속으로 말하면 녹는점이 높은 금속을 베이스(base)로 하고, 여기에 고온에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자성<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1185786&cid=40942&categoryId=32388",
+			"description":" 자기적인 성질을 이용하는 금속<b>재료<\/b>의 총칭으로 대표적인 것으로는 녹음용 자기테이프나 영구 자석이 있다. 전기를 이용해서 열이나 빛을 발생시키는 히터나 전구는 전기저항체에 전기를 흘리면 열로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_58\/20181023223608724_FJFVPEWSZ.jpg\/28714.jpg?type=m160_160"
+		},
+		{
+			"title":"내화<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1075978&cid=40942&categoryId=31887",
+			"description":" 고온에서의 물리적, 화학적 영향에 견딜 수 있는 <b>재료<\/b>이다. 보통 실리콘, 알루미늄, 마그네슘, 지르코늄, 칼슘 등을 그 요소로 하는 고온의 녹는점을 갖는 산화물이나 탄화물, 규화물, 질화물도 존재한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=412925&cid=42327&categoryId=42327",
+			"description":"제품의 <b>재료<\/b>, 구입 부품ㆍ소모품ㆍ소모공구 등의 비용. 원가의 3요소의 하나.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2537_000_1\/20130723113553632_XWGL58MR4.jpg\/i2647.jpg?type=m160_160"
+		},
+		{
+			"title":"면<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5818959&cid=65669&categoryId=65669",
+			"description":"통나무를 제재하여 건축내외장재, 가구용재, 공예용재, 마루판재등의 판상<b>재료<\/b>로 사용한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2761251&cid=50307&categoryId=50307",
+			"description":"공사 또는 제조에 직접 · 간접으로 소요되는 <b>재료<\/b>나 소모품 등의 화폐적 가치. 원가 계산상의 일부 요소이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6073748&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] 가설 또는 공사목적물을 구성하는 비용. 또한, 덧붙여진 소재(素材) · 반제품 · 제품 등의 비용. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		},
+		{
+			"title":"주가<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062463&cid=42107&categoryId=42107",
+			"description":"주가<b>재료<\/b>란 주가를 움직이게 하는 구체적인 사건과 정보를 말한다. 일반적으로 주가<b>재료<\/b>는 구체적인 사건이나 뉴스 등의 정보로 전달되는데 그 중에서도 기업실적이 좋아질 듯한 정보가 주가에 있어서 가장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내화<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1167246&cid=40942&categoryId=32338",
+			"description":" 열을 받더라도 다만 표면만이 변질되는 정도여서 그 부분을 고치면 재사용이 가능한 <b>재료<\/b>를 말하는데, 돌이나 콘크리트가 대표적인 예이다.  돌이나 콘크리트와 같은 것을 말한다. 그러나 이것은 통상의 화재인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>와 표현2 (생활 속 <b>재료<\/b>)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2451735&cid=51661&categoryId=51662",
+			"description":"[<b>재료<\/b>와 표현2 (생활 속 <b>재료<\/b>)] 협동작품에 있어서 중요한 것은 작품 하나하나의 조화이다. 각자 자신이 만든 형태가 서로 잘 어울리는지 점검해야 하며 점검이 끝나면 작품의 주제와 형태를 고려해... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/19\/1963\/E3140413AF1F13E329B32F77E30C58C3742_muploader_l_480P_854_1024_128_logo.jpg#720x480#m"
+		},
+		{
+			"title":"복합<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4892&cid=43659&categoryId=43659",
+			"description":"몇 개의 소재를 결합하여 만든 고성능 <b>재료<\/b>. 대표적인 예로는 유리섬유와 수지를 복합시킨 유리섬유 강화 플라스틱을 들 수 있다. 또한 탄소섬유와 에폭시수지, 페놀수지 등을 결합시킨 탄소섬유 계통의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건축<b>재료<\/b>의 신건축과 신<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1190185&cid=40942&categoryId=32337",
+			"description":"재래의 중요 건축<b>재료<\/b>로 쓰였던 석재 ·목재 ·벽돌 등의 자연산 <b>재료<\/b>가 전반적으로 퇴보하고, 시멘트 ·철 ·유리 등의 인공<b>재료<\/b>를 사용함으로써 새로운 건축물 구성이 가능하게 되었다. 현대 과학과 공업의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545747&cid=42279&categoryId=42279",
+			"description":" <b>재료<\/b>계약서란 <b>재료<\/b>와 관련된 계약을 맺기 위해 작성하는 문서이다.  <b>재료<\/b>란 음식 사업에서는 음식의 <b>재료<\/b>인 식자재가 될 수 있고, 건설업에서는 건설 부자재 등이 있을 수 있다. <b>재료<\/b>계약서는 이러한 <b>재료<\/b>와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182213687_SAF81GZ5R.jpg\/hb10_79185_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"내마모<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1090994&cid=40942&categoryId=32388",
+			"description":" <b>재료<\/b> 고유 성질 혹은 특별한 처리를 하여 <b>재료<\/b> 사이의 미끄럼, 접촉압력에 대한 저항성이 큰 <b>재료<\/b>이다. 금속<b>재료<\/b>에 내마모성을 높일 수 있는 방법은 열처리, 표면처리, 경질크로뮴도금 등이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>수불부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545750&cid=42279&categoryId=42279",
+			"description":" <b>재료<\/b>수불부란 <b>재료<\/b>의 입출고 내역을 정리한 문서이다.  <b>재료<\/b>수불부는 기업에서 필요한 <b>재료<\/b>의 입출고 내역을 정리한 양식으로, 사업자의 성격에 따라 다르게 작성될 수 있다. 회사에서 물건을 들여오거나... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182214221_TF76AQY8G.jpg\/hb10_79188_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>재료<\/b>단가표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2045688&cid=42279&categoryId=42279",
+			"description":" 각 <b>재료<\/b>의 단가를 기록한 서식.  <b>재료<\/b>단가표란 특정 업종에서 표준적인 거래조건에 따라 산정한 <b>재료<\/b>의 단가를 표 형식으로 작성한 문서를 말한다. <b>재료<\/b>단가표에는 제품 생산을 위한 <b>재료<\/b>의 이름 등을 기입하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>보고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545749&cid=42279&categoryId=42279",
+			"description":" <b>재료<\/b>보고서란 <b>재료<\/b>와 관련된 사안을 보고하기 위해 작성하는 문서이다.  <b>재료<\/b>보고서란 <b>재료<\/b>와 관련한 사안에 대해 보고하기 위해 작성하는 문서로, <b>재료<\/b>보고서는 각 사업자의 성격에 따라 다르게 작성될 수... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182213834_ZV80O7HGP.jpg\/hb10_79187_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>재료<\/b>점검표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545751&cid=42279&categoryId=42279",
+			"description":" <b>재료<\/b>점검표란 <b>재료<\/b>의 점검 내용을 상세히 정리하여 기록한 문서이다.  <b>재료<\/b>점검표는 <b>재료<\/b>를 점검한 내용을 표 형식으로 작성한 양식을 말하며, <b>재료<\/b>점검표를 작성할 때에는 규격, 수량, 점검 항목, 점검기준... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228182214613_34VCIZZPL.jpg\/hb10_79189_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"간접<b>재료<\/b>비",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1055962&cid=40942&categoryId=31912",
+			"description":" 원가계산에서 생산된 각 제품에 간접적으로 배부되는 <b>재료<\/b>비.  생산되는 제품에 소비되어 그 제품의 원가로서 직접 부과할 수 있는 직접<b>재료<\/b>비 외의 <b>재료<\/b>비가 이에 해당된다. 이러한 <b>재료<\/b>비는 제품 전체 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가연성<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6415683&cid=68110&categoryId=68110",
+			"description":"불에 잘 타는 성질을 가진 <b>재료<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"난연성<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6416041&cid=68110&categoryId=68110",
+			"description":"불이 잘 붙지 않고, 불이 붙어도 잘 타지 않는 <b>재료<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>공학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2098148&cid=44414&categoryId=44414",
+			"description":"개념 및 정의] <b>재료<\/b>공학(材料工學, material engineering)이란 사회 전 분야에 걸쳐 널리 응용되는 공업<b>재료<\/b>를 체계적으로 이해하는 데 중요한 학문이다. 이미 사회에 진출하여 여러 산업에 종사하고 있는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>과학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%AC%EB%A3%8C%EA%B3%BC%ED%95%99",
+			"description":"<b>재료<\/b>과학 (材料科學, 영어: materials science ) 또는 신소재과학 (新素材科學)은 <b>재료<\/b>의 화학 · 물리적 속성을 다루는 학문이다. <b>재료<\/b>과학은 다음의 5가지 <b>재료<\/b>들을 포함하고 각각의 연구로 구분된다. 금속... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2098153&cid=44414&categoryId=44414",
+			"description":"개념 및 정의] 복합<b>재료<\/b>(複合材料, composite materials)란 두 종류 이상의 소재를 복합화한 <b>재료<\/b>를 말하지만 개념적으로는 두 종류 이상의 소재를 복합화한 후에 물리적·화학적으로 각각의 소재가 원래의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140702175320764_XN7KKZOLT.jpg\/z7_term142_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"건축<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6052661&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] ① 건축물에 쓰이는 <b>재료<\/b>의 총칭. ② 철 · 목재 · 시멘트 등을 비롯하여 거의 대부분의 물질이 포함됨. ③ 천연<b>재료<\/b> · 인공<b>재료<\/b>와 원료의 본질에 따라 유기 · 무기<b>재료<\/b>로 나누고, 용도에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기계<b>재료<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%B0%EA%B3%84%EC%9E%AC%EB%A3%8C",
+			"description":"기계<b>재료<\/b> 는 기계나 구조물의 제작에 사용되는 각종 <b>재료<\/b>를 말한다. 분류 금속과 비금속으로 크게 구분을 하며, 금속<b>재료<\/b>는 철(Fe)을 함유한 철강<b>재료<\/b>와 비철금속<b>재료<\/b>로 구분된다. 철강<b>재료<\/b>는 탄소의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=869579&cid=42388&categoryId=42388",
+			"description":"[신소재] 두 종류 이상의 기재(基材)를 조합하여 구성하는 것으로, 단일 <b>재료<\/b>로서는 얻을 수 없는 뛰어난 특성을 갖는 인공 <b>재료<\/b>이다. [해설] 강화재(强化材)와 매트릭스재의 뛰어난 특성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>시험",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=29615",
+			"description":"공업적으로 사용되는 각종 <b>재료<\/b>의 물리적·화학적·전기적·기계적 시험. 각종 기계와 구조물의설계·제작에서는 그것들이 사용되는 환경, 가해지는 하중(荷重)의 종류와 크기 등을 고려해 <b>재료<\/b>와 형상·크기를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3014_000_1\/20140408182211499_CMEJFWCDM.jpg\/20100823_WJ4C97G.jpg?type=m160_160"
+		},
+		{
+			"title":"치과<b>재료<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B9%98%EA%B3%BC%EC%9E%AC%EB%A3%8C",
+			"description":"치과 <b>재료<\/b> (dental material)란 치과에 적용하는 <b>재료<\/b>를 말한다. 치과<b>재료<\/b>로 사용하기 위해서는 생체 적합성이 필요하다. 생체 적합성 생체 적합성(Biocompatibility) 또는 생체친화성(bioaffinity)이란... ",
+			"thumbnail":""
+		},
+		{
+			"title":"복합<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1920563&cid=50326&categoryId=50326",
+			"description":"복합 <b>재료<\/b>화학용어사전 2조 이상의 <b>재료<\/b>를 조합하여 각 장점을 살리고 단점을 보완하여 단순 <b>재료<\/b>보다 우수한 기계적 또는 기능적 특성을 부여한 <b>재료<\/b>. 섬유 강화형, 입자분산 강화형 등이 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>역학",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=29623",
+			"description":"갖가지 공업 <b>재료<\/b>로 만들어지는 기계와 구조물 및 그 구성 부재(部材)가 여러 가지 외력(外力)을 받을 때의 역학적 거동, 곧 응력(應力)·변형·강도 등을 탄성학(彈性學)·소성학(塑性學)·<b>재료<\/b>강도학 등을 기초로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내화<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1919534&cid=50320&categoryId=50320",
+			"description":"내화<b>재료<\/b>광물자원용어사전 내화성을 가진 비금속 <b>재료<\/b>로 화재시에 조직이 변하지 않고 소정의 강도가 유지되며 타지 않는 <b>재료<\/b>. 규석, 점토, 마그네시아 등이 포함되어 있는 <b>재료<\/b>가 적당하다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"초전도<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1147113&cid=40942&categoryId=32240",
+			"description":" 초전도 특성을 가지고 있는 <b>재료<\/b>로, 다양한 형태로 가공하여 코일 등으로 만들어 사용한다. 현재 비교적 널리 사용되고 있는 초전도<b>재료<\/b>들의 온도 상한은 10~20K이다.  아주 저온에서 초전도현상을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>역학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%AC%EB%A3%8C%EC%97%AD%ED%95%99",
+			"description":"<b>재료<\/b>역학 (材料力學, Strength of materials, mechanics of materials)은 기계, 건축물, 다리 따위의 구조물을 이루는 <b>재료<\/b>의 역학적 성질을 연구하는 학문이다. <b>재료<\/b>역학의 주 목적은, 구조물의 안전한 설계에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보온<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6053759&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] ① 보온용으로 쓰이는 <b>재료<\/b>. ② 열의 침입 또는 방산을 방지하기 위하여 사용하는 <b>재료<\/b>. ③ 물질을 보온하는 성질은 물체의 안부분에 있는 기포와 주위의 상태에 따라 변하며, 보온효과와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>역학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1588594&cid=50333&categoryId=50333",
+			"description":"<b>재료<\/b> 역학자동차 용어사전 구조물이나 공업 <b>재료<\/b> 등의 역학적인 문제를 이론 및 실험적으로 연구하는 학문이다. 공학의 여러 분야에서 기초적으로 사용되는 학문으로, 공업 <b>재료<\/b>를 조사하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"난연<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6072685&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 한자 : 難燃材料 건설교통부장관이 정한 기준에 적합하며 불에 잘 타지 않는 특징을 가진 <b>재료<\/b> [구조] 중국어 : 難燃材料 일본어 : 難燃材料(nannenzairyō) 불붙기 어렵고 또한 불붙어서 연소가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"차음<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6055836&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] ① 차음성이 높은 <b>재료<\/b>, 즉 투과음이 적은 <b>재료<\/b>. ② 이는 재질이 단단하고 무거우며 정밀한 데 비해 흡음<b>재료<\/b>는 다공질 또는 섬유질임. ③ 차음이 필요한 방에 대해서는 평면계획상 음원과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내화<b>재료<\/b>",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=22918",
+			"description":"내화성을 가진 <b>재료<\/b>로서 고열에도 연화·용융 등 변화가 적고 강도·탄성 등 기계적 성질이 떨어지지 않는 <b>재료<\/b>. 1500℃ 이상의 고온에 견디며 내화점토·내화벽돌·내화모르타르·규석·고토 등이 이에 속한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"절연<b>재료<\/b>",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=29610",
+			"description":"필요한 회로 이외에는 전류가 흐르지 않도록 전기를 절연하는 <b>재료<\/b>. 염화비닐·합성고무·폴리에스테르·에폭시·실리콘 등 합성수지계의 <b>재료<\/b>가 널리 쓰인다.이들 합성수지는 황·파리핀·면사·유리 등 종전의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3014_000_1\/20140408182537268_QMAKD1DHL.jpg\/20100823_vfVS4aL.jpg?type=m160_160"
+		},
+		{
+			"title":"절연<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1620751&cid=50324&categoryId=50324",
+			"description":"절연 <b>재료<\/b>철도관련큰사전 전자(電子)의 이동을 차단(遮斷)하기 위한 <b>재료<\/b>. 그 종류는 매우 많고, 천연광물(운모, 석면 등)·자기(磁器)·유리 등의 무기물, 합성수지, 고무 등의 유기물 및 이들을 혼합... ",
+			"thumbnail":""
+		},
+		{
+			"title":"차음<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=392580&cid=42827&categoryId=42827",
+			"description":"소리를 차단하는 <b>재료<\/b>로, 일반적으로 치밀하고 질량이 많을수록 성능이 좋다. 콘크리트ㆍＡＬＳ판, 유리, 석면판 등. 차음성이 높은 <b>재료<\/b>, 즉 투과음이 적은 <b>재료<\/b>. 이는 재질이 단단하고 무거우며 정밀한데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"난연<b>재료<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%82%9C%EC%97%B0%EC%9E%AC%EB%A3%8C",
+			"description":"난연<b>재료<\/b> (難燃材料)는 불이 붙어도 연소가 잘 되지 않는 성질을 가진 <b>재료<\/b>를 이른다. 불에는 타지만 연소는 잘 되지 않는 <b>재료<\/b>인데, 연소 시 6분간의 화열(최고 온도 섭씨 약 500도)에서 변형, 발염, 파손이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>재료<\/b>과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3778904&cid=40942&categoryId=32391",
+			"description":"주로 고체 상태의 소재를 다루며 새로운 물성을 갖는 <b>재료<\/b>를 연구 및 개발하는 학문으로, 화학, 물리, 전기, 전자, 바이오 등의 학문을 융합한 과학 분야이다. 다루는 <b>재료<\/b>에 따라 금속, 세라믹, 유기 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"토목<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1597820&cid=50320&categoryId=50320",
+			"description":"토목<b>재료<\/b>광물자원용어사전 토목공사에 사용되는 각종 <b>재료<\/b>. 직접 구조물 또는 공작물의 <b>재료<\/b>로 사용되는 것은 물론 공사용 가설비로서 간접적으로 사용되는 <b>재료<\/b>까지 포함한다. 외국어 표기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"혼화<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6047058&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] 콘크리트 제조시 물 · 시멘트 · 골재 이외의 <b>재료<\/b>로서 필요에 따른 비빔(혼합)에 콘크리트의 성분으로서 첨가하는 <b>재료<\/b>의 총칭. 통칭 콘크리트의 성질 개선 · 공비의 절약을 위해 쓰임.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생체<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=428740&cid=60261&categoryId=60261",
+			"description":"의료용 장치, 인공장기에 사용하는 <b>재료<\/b> 중 인체의 정상적인 피부 외의 생체조직과 접촉하여 사용하는 <b>재료<\/b>의 총칭. 인체의 대부분 특정 장치나 인공장기로 대용하는 것이 가능할 것으로 보고 있다. 혈액도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가연<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6078558&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] ① 불에 타는 성질의 <b>재료<\/b>. ② 일반적으로 유기질 <b>재료<\/b>는 가연성 <b>재료<\/b>. ③ 불연<b>재료<\/b>. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		},
+		{
+			"title":"내열<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1919506&cid=50325&categoryId=50325",
+			"description":"내열<b>재료<\/b>산업안전대사전 내열<b>재료<\/b>는 일반적으로 360~1000℃에서 사용된다. 이 중에서 금속은 구조용으로서 고온강도, 내고온 산화성이 우수하다. 내식강은 내열적으로도 우수하다는데서 실수로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"노반<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=396546&cid=50320&categoryId=50320",
+			"description":"도로의 노반을 구성하는 <b>재료<\/b>. 함수량 변화의 영향, 동결(凍結) 융해작용을 잘 받지 않으며 입경분포가 좋은 것이 사용된다. 시멘트 또는 역청<b>재료<\/b>에 의하여 안정처리된 <b>재료<\/b>도 쓰인다. 강도 특성은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"불연<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1920769&cid=50320&categoryId=50320",
+			"description":"불연<b>재료<\/b>철도관련큰사전 불에 타지 않는 <b>재료<\/b>. 만일의 경우 열차화재는 많은 인명 피해 등 중대사고(重大事故)로 커질 우려가 있기 때문에 지하철 차량(地下鐵車輛)은 불연<b>재료<\/b>의 사용을 원칙으로 하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"불연<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=391444&cid=42827&categoryId=42827",
+			"description":"가열을 해도 연소하지 않는 <b>재료<\/b>로 콘크리트ㆍ기와ㆍ벽돌ㆍ석면판ㆍ철강ㆍ알루미늄ㆍ유리ㆍ모르타르ㆍ회반죽 그 밖에 이와 유사한 불연성의 <b>재료<\/b>를 말한다. 보통의 화재 온도하에는 <b>재료<\/b> 자체가 타지 않는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자성<b>재료<\/b>",
+			"link":"http:\/\/www.scienceall.com\/?post_type=dic&p=29388",
+			"description":"방위자침(方位磁針) · 자석핀 · 전자석 · 모터 · 발전기 · 스피커 · 변압기 또는 자기(磁氣)테이프 · 자기디스크 · 카드 등의 제품에서 자기적인 기능을 담당하는 <b>재료<\/b>. 자성<b>재료<\/b>로는 자성체, 즉 강한 자기를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3014_000_1\/20140408182100644_J1U0JA42Y.jpg\/20100820_6LnZm72.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>재료<\/b>시험",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6073746&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] ① <b>재료<\/b>의 강약에 대한 시험. ② 물리적 · 화학적 · 기계적 성질 · 구조 등을 조사하기 위해서 실시. 그러나 대개는 기계적인 성질만을 시험. ③ 인장(引張) · 압축 · 구부리기 · 틀기 · 전단... ",
+			"thumbnail":""
+		},
+		{
+			"title":"내수<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6074864&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] 물이 침투하는 것을 막아 <b>재료<\/b>가 파괴되거나 부식이 일어나지 않는 건축 <b>재료<\/b>. 벽돌, 자연석, 인조석, 콘크리트, 아스팔트, 도자기질 <b>재료<\/b>, 유리 따위가 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"항공기<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1161750&cid=40942&categoryId=32363",
+			"description":" 항공기를 제작하는 데 사용되는 가볍고 단단한 <b>재료<\/b>이며 초기에는 목재가 사용되기도 했으나 알루미늄합금, 타이타늄합금, 섬유강화플라스틱 등이 사용되고 있다.  비행기를 잘 뜨게 하려면 되도록 가볍게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"단열<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=506445&cid=42380&categoryId=42380",
+			"description":"단열<b>재료<\/b>는 단열을 목적으로 사용되는 <b>재료<\/b>를 말하며, 열율이 작고, 흡습ㆍ흡수성이 적고 내열도가 높으며 가볍고 난연성 등의 조건이 요구된다. 보온<b>재료<\/b>는 석면, 암면, 글래스 울, 규산 칼슘... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=397256&cid=50320&categoryId=50320",
+			"description":"토목, 건축 등 건설공사에 쓰이는 <b>재료<\/b>. 목재, 석재, 금속<b>재료<\/b>(주로 강재), 역청<b>재료<\/b>, 시멘트, 콘크리트 제품, 도료 등이 포함되는데 최근에는 합성수지 등도 사용되고 있다. 이들 <b>재료<\/b> 중 많은 것이 KS에 의하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자성<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=394712&cid=42441&categoryId=42441",
+			"description":"영구자석에 이용되는 경자성 <b>재료<\/b>(탄소강, 알니코5, Ba-ferrite, SmCo5, Nd2Fe14B)나 inductor, 자기 bulb, 전자석에 이용되는 연자성 <b>재료<\/b>(ferrite, 규소강, permalloy, 비정질 합금)와 자기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도장<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6076210&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] ① 도장용 <b>재료<\/b>의 총칭. ② 가구 · 건축물 등에 사용되고 있는 각종 <b>재료<\/b>의 표면에 바르거나 뿜어서 내식성 · 방부성 · 내후성 · 내화성 · 내열성 · 내화학성 · 내구성 등을 증가시키고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보냉<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6053120&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] 열의 발산과 침입을 방지하기 위하여 쓰이는 <b>재료<\/b>.→ 보온<b>재료<\/b>.",
+			"thumbnail":""
+		},
+		{
+			"title":"충전<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=480465&cid=60408&categoryId=55558",
+			"description":"치아의 실질결손을 보전할 목적으로 사용하는 <b>재료<\/b>이고 금박, 금-은-동합금, 은-주석-아연합금, 주석-암몬합금, 아말감, 도재(陶材), 시멘트 가타파차, 아크릴리크레딘등이 있다. 충전<b>재료<\/b>의 소요성질은 (1)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건식<b>재료<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6050494&cid=67350&categoryId=67350",
+			"description":"[<b>재료<\/b> 및 시공] 습식 <b>재료<\/b>에 대한 말로 현장에서 물을 쓰지 않고 시공하는 <b>재료<\/b>. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		}
+	]
+}

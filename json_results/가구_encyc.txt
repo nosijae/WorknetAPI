@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:34 +0900",
+	"total":22925,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794272&cid=46635&categoryId=46635",
+			"description":" 1인 단독 또는 2인 이상이 공동으로 취사․취침 등을 하며 생계를 영위하는 생활단위. [개설] 한 가족의 전체 가족원이 언제나 하나의 집단에 속하여 함께 생활하는 것은 아니다. 학업과 취업 등 여러 가지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794273&cid=46657&categoryId=46657",
+			"description":" 삶을 영위하는 데 필요한 생활도구. [개설] 의류의 수납에서 식품저장·운반·기거·휴식·동작에 이르기까지 없어서는 안 되는 귀중한 기물이다. 인간은 좀더 안락한 삶을 누리기 위하여 사용에 편한 갖가지... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20190418191000417_JZ5OY0SI2.jpg\/2b2d8d1f-a72c-42.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=564452&cid=46656&categoryId=46656",
+			"description":" 목조건축 구조부재의 짜임새 전체를 가리키는 건축용어. [내용] 지붕<b>가구<\/b>를 비롯 벽체<b>가구<\/b>(壁體架構 또는 軸部)·바닥틀·천장틀까지 포함시켜 말하기도 하며, 좁은 뜻으로는 지붕<b>가구<\/b>만을 일컫는다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20171103193942521_8H02Y4YVB.jpg\/c034dfd0-a59d-4b.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3573636&cid=59022&categoryId=59022",
+			"description":"또한 방 안에는 장롱(欌籠)을 비롯한 각종 <b>가구<\/b>들을 볼 수 있다. 그런데 조선 초기와 그 이전에 사용하던 <b>가구<\/b>는 널리 알려진 조선 후기 이후에 사용하던 <b>가구<\/b>와는 판이하게 달랐다. 온돌의 보급에 따라... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118155941815_JM84WGFFL.jpg\/01_255.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054248&cid=40942&categoryId=32339",
+			"description":" 부재를 서로 짜 맞추어서 조립하는 구조나 구조물로, 일반적으로 목조구조를 의미하는데, 한국 전통 목조건축에서의 <b>가구<\/b>는 기둥을 중심으로, 창방 ·평방 ·도리 ·서까래로 건축물의 틀을 구성한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_16\/20180828125512754_L2YUWWH6K.jpg\/29730.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=258822&cid=42635&categoryId=42635",
+			"description":" 실내에 설치하는 기구류의 총칭으로 생활공간 안에 갖추어져 일과 식사를 하는 데 쓰이는 책상과 탁자, 앉는 데 쓰이는 의자, 잠자는 데 쓰이는 침대, 물건을 보관하는데 쓰이는 상자, 선반, 뒤주 등이 해당.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2575_000_1\/20130702175601602_M8HQAH8WP.jpg\/i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054247&cid=40942&categoryId=31630",
+			"description":" 한집에서 기거하는 사람들로 구성된 사회경제적 단위.  인구학에서 사용하는 가장 기본적인 통계단위는 개인(個人) 또는 개체(個體)인데 이러한 개별인을 조사하는 조사단위로서 <b>가구<\/b>가 사용된다. 오늘날... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=390419&cid=42827&categoryId=42827",
+			"description":"<b>가구<\/b>의 분류를 건물의 용도에 따라 분류하면 주거용 <b>가구<\/b>(침대, 장롱, 소파, 화장대 등), 공공용<b>가구<\/b>(작업대, 벤치, 캐비닛, 사물함 등), 상업용 <b>가구<\/b>(백바, 카운터, 이ㆍ미용 의자, 진열대 등)와 <b>가구<\/b>구조에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>④",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6076536&cid=67350&categoryId=67350",
+			"description":"③ <b>가구<\/b>는 움직일 수 있는 것을 말하며, 고정된 것은 제외됨. ④ 한식 · 양식 2종이 있으며, 안락용(의자 · 침대 등) · 작업용(테이블 · 요리대 · 제도판 등) · 수장용(장롱 · 찬장 · 옷장 등)으로 나뉨.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2836047&cid=55761&categoryId=55761",
+			"description":"<b>가구<\/b>(架構)는 집을 만드는 뼈대의 얽기를 말한다. <b>가구<\/b>를 구성하는 주요 구조부재는 기둥과 보와 도리이다. 이 세 부재의 구성방식에 따라 <b>가구<\/b>법을 세분한다. 즉 목조건축을 구성하는 주요 구조부재가 어떤... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4002_000_1\/20150706151440188_1R18Z2EFG.jpg\/db6_99_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2327328&cid=58505&categoryId=58527",
+			"description":"후추과 식물인 <b>가구<\/b> Piper sarmentosum Roxb.의 전초이다. 맛은 쓰고 매우며 성질은 따뜻하다. 중초(中焦)를 따뜻하게 하여 한사(寒邪)를 몰아내고 풍사(風邪)를 없애며 이뇨 작용을 촉진하여 습사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3601_000_1\/20141104203701628_GPXRAGOK2.jpg\/jb3_44_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054246&cid=40942&categoryId=32157",
+			"description":" 실내에 배치하여 생활에 사용하는 도구의 총칭.  <b>가구<\/b>는 일반적으로는 의자나 책상같이 움직일 수 있는 것을 가리키지만, 넓은 뜻으로는 건물에 붙여 만든 옷장이나 벽난로 등도 포함된다. 영어의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_16\/20180828125350821_AQVBDR0J8.jpg\/28607.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054249&cid=40942&categoryId=32337",
+			"description":" 가로로 둘러싸인 시가지의 범위로, 도시계획에 있어서 토지이용·인구·배분·교통·공급 처리시설 등의 계획을 세우는 단위이며 도시의 행정·관리의 단위이다.  거주·생산·유통·소비 등의 도시생활이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6413905&cid=42094&categoryId=42094",
+			"description":"‘인구주택총조사’ 규칙에서는 1명이 단독으로 생계를 영위하거나 2명 이상이 공동으로 취사 · 취침 등을 하며 생계를 영위하는 생활 단위를 <b>가구<\/b>로 규정하고 있다. 이렇게 정해 놓은 <b>가구<\/b>라는 기준은 주택을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2398417&cid=58505&categoryId=58522",
+			"description":"여러개의 난형 또는 구형의 작은 장과가 돌기되어 있다. 질은 비교적 딱딱하고 약하여 꺾어지기 쉽다. 꺾인 면에서는 공 모양의 적갈색 씨를 볼 수 있다. 향기가 있고 맛은 아리다. <b>가구<\/b>(전형)",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3668_000_1\/20141210152828575_57CHAJMZX.jpg\/jb4_566_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3434321&cid=58456&categoryId=58456",
+			"description":"대표적인 조사 단위로는 경제통계부문의 ‘사업체’와 사회통계부문의 ‘<b>가구<\/b>’가 있다. 인구센서스나 가계조사 등 각종 사회통계의 조사단위인 <b>가구<\/b>는 “1인 또는 2인 이상이 모여 취사, 취침 등 생계를 같이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1520078&cid=42121&categoryId=42121",
+			"description":"사회학적 단위로서의 <b>가구<\/b>는 공통의 생활조건, 특히 주거나 식사준비를 위한 시설을 공유하는 한 사람 이상으로 구성되고 있다. 따라서 주로 친족유대에 의해 조직되고 있는 가족과는 다르다. 실질적으로는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=468329&cid=42120&categoryId=42120",
+			"description":"<b>가구<\/b>는 주거 및 생계를 공동으로 하는 생활단위이다. 세대구성에 따라 1친족<b>가구<\/b> 1<b>가구<\/b>주와 친족관계를 갖는 세대원 1비 친족<b>가구<\/b> 1<b>가구<\/b>주와 동거인 및 친족과 관계없는 가사사용인 또는 영업사용인 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=923764&cid=47326&categoryId=47326",
+			"description":"이동이 용이한 의자, 소파, 책상, 식탁뿐만 아니라 한자리에 배치하면 이동하지 않고 사용하는 침대, 장롱, 붙박이장 등이 <b>가구<\/b>에 속한다. Furniture라는 영어 단어는 ‘설비된 용구’라는 의미로 더 넓은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>②",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6076538&cid=67350&categoryId=67350",
+			"description":"② 목구조에서는 지붕<b>가구<\/b>, 벽체<b>가구<\/b> 등의 총칭. ③ '兩柱一衡謂之架'에서의 '架(시렁 가)'와 구조라는 뜻의 '構(얽을 구, 닥나무 구)'가 결합된 '집의 구조'를 의미하는 낱말. ④ 공간을 형성하는 목조건물의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6413906&cid=42094&categoryId=42094",
+			"description":"보통 블록이라 말하며 가곽(街廓)라고도 한다. 시가지를 계획할 때 여러 필지를 한 데 모아 구획을 만들어 사방이 도로에 싸이도록 한 하나의 구획이다. 필지, 획지, 부지 등과 다른 말이다. 보통 큰 길 가의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=893781&cid=42642&categoryId=42642",
+			"description":"지붕<b>가구<\/b>는 보, 도리, 대공 등의 기본부재로 이루어지며 이 기본부재는 서로간의 맞춤이나 형태 등에서 일정한 형식을 갖추고 있다. 일반적으로 지붕을 받치고 있는 도리의 수에 따라 3량가, 5량가, 7량가, 9량가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2054396&cid=50802&categoryId=50809",
+			"description":"조선시대의 실록이나 호적에서 호당 인원을 뜻하는 말로 쓰였던 ‘호구(戶口)’도 비가족원을 포함하므로 <b>가구<\/b>와 유사한 개념이라 할 수 있다. 잘못 쓴 예 8·15광복 당시 우리나라의 총 <b>가구<\/b>수는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6461206&cid=58453&categoryId=58453",
+			"description":"[정의] 1명이 단독으로 생계를 영위하거나 2명 이상이 공동으로 취사 · 취침을 하며 생계를 영위하는 생활 단위를 말한다. [해설] 혈연관계가 없는 사람도 포함될 수 있다는 점에서 가족과 다를 수 있고, 실제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=397973&cid=50350&categoryId=50350",
+			"description":"구획으로 한 개 혹은 그 이상의 획지(劃地)에 의하여 구성되는 것. <b>가구<\/b>(街區)의 형상은 구성하고 있는 획지의 형상, 배열, 가로망(街路網)의 구성 등에 따라 정해지는데 보통 직사각형으로 획지하고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5675064&cid=62841&categoryId=62841",
+			"description":" 거주와 가계를 공유하는 집단, 혹은 독신으로 거주하며 단독 생활을 하는 사람.  가족과는 달리 결혼이나 혈연관계 등에 대하여 고려하지 않은 채, 공간과 가계(경제적 협력)를 공유하는가에 따라 분류한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>①",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6076541&cid=67350&categoryId=67350",
+			"description":"[도시 및 단지] 가로에 의해 둘러싸인 일단의 구역. 도시조직을 형성하는 기본 단위로서, 건물 등이 입지하며, 일반적으로 여러 개의 필지로 구획됨.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=613590&cid=42322&categoryId=42322",
+			"description":"도로에 의해 크기마다 구획된 주택 등의 부지 <b>가구<\/b>",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1965_000_1\/20110511154544698_YOR79NPA3.jpg\/b388_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=78648&cid=41826&categoryId=41826",
+			"description":"왕명(王命)을 띠고 내려가는 사신(使臣)의 행차를 뜻하는 말. [참고어] 봉명사신(奉命使臣).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>③",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6076539&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 주택 내 거주하는 독립적인 생활 주체. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6076545&cid=67350&categoryId=67350",
+			"description":"[구조] 골조 참조. 참고 : 건축구조용어사전, 대한건축학회",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=665234&cid=50293&categoryId=50293",
+			"description":"[한자 뜻과 음] 옳을 가, 입 구. [풀이] 맛이 좋아 입에 맞음.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1546523&cid=46704&categoryId=46747",
+			"description":"",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3329_000_91\/20141110052104582_JUH6S45B0.jpg\/2011012518311547.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1760406&cid=49269&categoryId=49269",
+			"description":"&quot;집을 만드는 뼈대의 얽기를 말한다.&quot; <b>가구<\/b>에서 가장 중요한 구조부재는 기둥과 보, 도리 등이다. 이러한 부재가 어떤 형식으로 짜느냐하는 것이 <b>가구<\/b>구조이다. 이때 <b>가구<\/b>라 할 때는 정면 칸 수에 관계없이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_18\/20130624155522621_18VHU5VTY.jpg\/z2_cp04020015000.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2012678&cid=50826&categoryId=50826",
+			"description":"공간을 형성하는 목조 건물의 골격 구조. <b>가구<\/b>의 법식에 따라 단층(單層), 4중층(重層), 통층(通層)으로 구분되고, 규모에 따라 삼량가(三樑架), 오량가(五樑架), 칠량가(七樑架), 구량가(九樑架) 등으로 구분된다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%80%EA%B5%AC",
+			"description":"<b>가구<\/b> (家具, furniture)는 집안 살림에 쓰이는 각종 기구(器具)이다. <b>가구<\/b>의 구조는 붙박이식과 이동식의 두 가지가 있다. 붙박이식은 집을 지을 때 짜 넣고 고정시킨 것으로, 붙박이장·수납장 등이 있다. 벽면을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"[생활용품 하자] 주방용품이 변색됐어요",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6628891&cid=69440&categoryId=69440",
+			"description":" 주방용품을 구입한 후 1개월 이내에 품질·성능·기능상의 하자가 발생하거나 품질보증기간 이내에 정상적인 상태로 사용하다가 품질·성능·기능상의 하자가 발생한 경우 공정거래위원회의... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjA0MDVfMjcz%2FMDAxNjQ5MTE5NjYwMzU3.g-oI9TfoVckD55_c6BSUlAvI2Yh5jQEmPdys2FD6Xskg.rMw2UMJDNkV8Cbsu0QCm9DsZWYhN9I6tn258Bn7q56Ug.JPEG%2FIh8QjRliEN1Wcp9rtk4BsrMCpkKI.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x359"
+		},
+		{
+			"title":"세대 개념부터 파악하자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2401455&cid=51281&categoryId=51285",
+			"description":"이절세와 야무진은 고단수 세무사와의 만남에 상당히 고무되어 있었다. 그동안 어렵게만 느껴지던 부동산 세금을 이번 기회를 통해 잘 정리할 수 있을 거라는 생각이 들었기 때문이다. 그러던 어느 날 야무진은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3635_000_1\/20141123131402220_8XO7KXKHS.jpg\/bg14_13_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"블록, 구획, <b>가구<\/b>, 종횡 접합",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3473687&cid=58439&categoryId=58439",
+			"description":"① 컴퓨터 체계 또는 프로그램에서 보조 기억장치에 저장되어 있는 자료를 접근할 때 디스크 또는 테이프 등과 같은 보조기억장치에서 입출력 작업의 단위로 사용되는 하나의 기억장치 단위를 말한다. ②... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프레임",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=616835&cid=42322&categoryId=42322",
+			"description":"건축물에 작용하는 여러 가지 외력을 안전하게 지탱할 목적으로 부재를 접합하여 만든 골조. 부재의 조합 방법에 따라 라멘 · 트러스 · 아치 등이 있다. 프레임",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1965_000_1\/20110511154645871_BLP1NG7TH.jpg\/f539_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"내가 디자인하고 내가 만드는 <b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?searchId=au2830",
+			"description":"[목공 DIY]에 관한 백과 정보 제공.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b> (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2826480&cid=55772&categoryId=55810",
+			"description":"[개설] <b>가구<\/b>(家口)는 가족과 유사하게 사용되기도 하는 용어지만, 같은 공간에서 취사를 함께하고 있는 사람들이라는 의미의 <b>가구<\/b>와, 혈연과 결혼 및 입양으로 맺어져 같은 공간 내에 거주하는 가족의 개념은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b> 작품",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=46747",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 <b>가구<\/b>\/가전\/생활용품",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49055",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"갈건손",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3537779&cid=62066&categoryId=62066",
+			"description":" 원나라 때 의학자. [ 1. 부친의 가업인 의술을 전수받다] 장주(長洲, 현 장쑤(江蘇)성 쑤저우(蘇州)) 사람으로 자는 <b>가구<\/b>(可久)이다. 태어날 때부터 기이한 기운을 지녔다고 전하며, 생김새가 우람하고 남보다... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4094_000_1\/20161213121222962_KG5K6HK1H.jpg\/he39_0084_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"고<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5672706&cid=51399&categoryId=51399",
+			"description":"전통적인 형태의 <b>가구<\/b>로 고풍스러운 분위기를 연출합니다. 주로 한국에서 서식하는 나무를 이용해 만들며 나무의 거친 결을 그대로 살려 만들기 때문에 자연스러움을 느낄 수 있습니다. 짜맞춤 방식으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3745_000_5\/20180913105050765_RZREISLKM.gif\/fh2_135985_i1.gif?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>라",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%80%EA%B5%AC%EB%9D%BC",
+			"description":"<b>가구<\/b>라 ( 일본어: 神楽 카구라 [*] )는 일본 고유의 신앙인 신토에서 볼 수 있는 무악(舞樂, 춤과 연주, 노래 등)을 말한다. 개요 일본의 신사(神社)의 제례 등에서 주로 향연되며 드물게는 불교 사찰에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국전통<b>가구<\/b> 등화<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1761027&cid=49316&categoryId=49316",
+			"description":"등화구가 언제부터 쓰였는지 정확히 알 수는 없으나 선사시대 주거지에서 볼 수 있는 중앙노(爐)가 처음에는 취사와 난방기능을 겸비했으리라 추축된다. 등화기구는 불을 붙여 어두운 곳을 밝게 하는 등촉기구... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_8\/20130315211423669_D8Q5N4SFU.gif\/z2_cp04100030000.gif?type=m160_160"
+		},
+		{
+			"title":"1인 <b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3613387&cid=40942&categoryId=31615",
+			"description":" <b>가구<\/b>원이 한 명인 <b>가구<\/b>로, 2000년대 이후 결혼 시기가 늦춰지고 미혼율 및 이혼율 증가와 함께 사회가 고령화되면서 그 비중이 높아지고 있다. .  <b>가구<\/b>원이 한 명인 <b>가구<\/b>로 2000년대 이후... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_4\/20180509184400977_WGC57OHKC.gif\/1323089_0.gif?type=m160_160"
+		},
+		{
+			"title":"스틸<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1117355&cid=40942&categoryId=31895",
+			"description":" 금속<b>가구<\/b> 중에서 강재로 만든 <b>가구<\/b>의 총칭.  금속<b>가구<\/b>는 강재<b>가구<\/b>와 경금속<b>가구<\/b>로 분리되나, 실용상 대부분을 차지하고 있는 것은 전자이며, 후자는 특수한 용도에 한정되어 있다. 대표적인 것으로는 사무용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안방<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1761001&cid=49316&categoryId=49316",
+			"description":"각 <b>가구<\/b>에 마우스 오버시 <b>가구<\/b>의 명칭을 보실 수 있습니다. *주택평면 참고자료 - 제공된 공간은 의성 김씨종택 안채 및 무교동 신씨가 안채를 근거로 하되, <b>가구<\/b>를 보여주기 위하여 작성되었으므로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_1\/20130322165032469_YX0IIO1WA.jpg\/z2_cp04100003000.jpg?type=m160_160"
+		},
+		{
+			"title":"부엌<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1761003&cid=49316&categoryId=49316",
+			"description":"각 <b>가구<\/b>에 마우스 오버시 <b>가구<\/b>의 명칭을 보실 수 있습니다. * 주택평면 참고자료 - 제공된 공간은 서산 가영현 가옥 부엌 및 화성 박희석가 부엌을 근거로 하되, <b>가구<\/b>를 보여주기 위하여 작성되었으므로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_1\/20130322165039314_K0R36V0IB.jpg\/z2_cp04100005000.jpg?type=m160_160"
+		},
+		{
+			"title":"한계<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3408497&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | 限界家具(한자) | 처분 가능 소득에 대한 원리금 상환액 비중이 40% 이상이고, 금융부채가 금융자산보다 많은 <b>가구<\/b>를 말한다. 고위험<b>가구<\/b>(소득에서 원리금상환비율이 40%를 초과하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보통<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=14488&cid=43659&categoryId=43659",
+			"description":"<b>가구<\/b>주를 중심으로 혈족관계가 있는 사람끼리 모여 사는 <b>가구<\/b>로서 ① <b>가구<\/b>주와 그 가족만이 살고 있는 <b>가구<\/b>, ② <b>가구<\/b>주 및 그 가족과 친척 또는 그 밖의 사람(하숙생, 동거인,가정부, 머슴, 점원 등)이 같이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>배치",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1170229&cid=40942&categoryId=32149",
+			"description":" 가정에서 <b>가구<\/b>의 기능적인 배치.  <b>가구<\/b>는 인간생활을 편리하고 윤택하게 하기 위해 만들어진 것으로서 모든 <b>가구<\/b>는 각각의 목적과 기능을 가지고 있다. <b>가구<\/b>를 배치할 때 먼저 생각해야 할 점은, 그 기능을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농업<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2943&cid=43659&categoryId=43659",
+			"description":"농가라 함은 생계 또는 영리를 목적으로 다음 농가 정의의 각 호 중 어느 하나에 해당하는 농업을 경영하거나 농업에 종사하는 <b>가구<\/b>를 말하는데 이는 전업농가와 겸업농가로 나누어 진다. ① 조사시점... ",
+			"thumbnail":""
+		},
+		{
+			"title":"외래<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2022342&cid=50826&categoryId=50826",
+			"description":"강화도 조약 이후 문호개방의 근대화의 물결 속에서 제일 먼저 왕실의 생활이 서구화되어 궁궐 건축을 비롯한 실내장식, <b>가구<\/b>, 공예품 등이 서구식으로 변하였다.궁궐 건축이 입식생활로 변화되면서 자연히... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문방<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2017476&cid=50826&categoryId=50826",
+			"description":"사랑방 <b>가구<\/b> 중 문갑 , 탁자, 서안 등 책을 수납하고 책을 앉아서 읽을수 있는 책상류 <b>가구<\/b>가 이에 해당된다. 사랑방에 놓이는 <b>가구<\/b>들은 희박한 색채에 인위적인 장식을 피한 게 특징이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>가구<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EA%B0%80%EA%B5%AC",
+			"description":"한국<b>가구<\/b> 는 <b>가구<\/b>를 제조하는 코스닥 상장 기업이다. 1966년 설립되었다. 이 회사는 가정용 <b>가구<\/b>를 중심으로 사무용 <b>가구<\/b> 등을 제조 및 수입하여 판매한다. 계열회사로 식품류 도매 판매 회사인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부엌<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2018622&cid=50826&categoryId=50826",
+			"description":"그래서 부엌<b>가구<\/b>는 크게 주방에 사용된 종류와 음식을 나르는데 사용된 소반 종류로 나눌 수 있다.부엌의 기본 <b>가구<\/b>로는 찬장이나 찬탁 등이 있으며, 이들은 유기(鍮器)나 자기 등의 무거운 그릇을 겹겹이 쌓아... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>놀이",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5675063&cid=62841&categoryId=62841",
+			"description":" 동물, 꽃, <b>가구<\/b>와 같은 것을 사람에 대한 상징으로 선택해서 하는 놀이.  아동에게 친숙한 놀이로서, 자신이 묘사하고 싶은 인물에 대해 <b>가구<\/b>의 이름을 붙이는 등 은유적 방법을 써서 소개하는 놀이다. 새 과정을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>라",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3325583&cid=56785&categoryId=56785",
+			"description":"[정의 및 이칭] <b>가구<\/b>라(神樂)는 본래 신좌(神座)를 의미하는데, 신을 '<b>가구<\/b>라'에 초대해서 행하는 제사예능을 널리 <b>가구<\/b>라라고 부른다. 현재 일본에서 전승되고 있는 <b>가구<\/b>라는 궁중에서 행해지는 미<b>가구<\/b>라... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4122_000_1\/20151007170624006_59093UPU3.jpg\/ea38_6_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>라",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1529283&cid=62068&categoryId=62068&anchorTarget=TABLE_OF_CONTENT1#TABLE_OF_CONTENT1",
+			"description":"요<b>가구<\/b>라(夜神楽)미야자키현 다카치호 지방에 전해내려오는 <b>가구<\/b>라(神楽)로, 벼농사가 끝난 11월부터 다음 해 2월에 걸쳐 이 지방의 각지에서 주민들이 민가에 모여 마쓰리(祭り)를 펼친다. 강림한 신들이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3473702&cid=58439&categoryId=58439",
+			"description":"토지구획정리사업에 있어서 사업계획에서 정해진 공공용지 및 시행지구 지구계에 둘러싸인 택지구역을 <b>가구<\/b>라고 하며, 이 <b>가구<\/b>가 형성하는 다각형의 정점을 <b>가구<\/b>점이라 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>재",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6076525&cid=67350&categoryId=67350",
+			"description":"[재료 및 시공] ① <b>가구<\/b>를 만드는 재료. ② 종류-목재 · 철재 · 플라스틱재 등. ③ 목재의 <b>가구<\/b>재는 창호재와 함께 무절 곧은결의 것으로 결함이 없고 잘 건조된 것이 좋음. ④ 목재는 건축의 구조재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3657590&cid=42131&categoryId=42131",
+			"description":"행정처분은 집행력 · 공정력 등 특수한 효력이 있기 때문에 적절한 <b>가구<\/b>제가 인정되지 않을 경우 행정처분이 집행되어 원상회복이 불가능하게 되어 행정구제가 어렵게 되므로 본안판결이 있을때까지는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3440374&cid=43667&categoryId=43667",
+			"description":"이에 원고의 권리 또는 이익을 잠정적으로 보전하여, 소송지연으로 인한 불이익을 방지하는 장치로 <b>가구<\/b>제를 규정하고 있다. 행정소송의 <b>가구<\/b>제제도로는 침익적 행정처분에 대한 쟁송에 대응하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안방<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2021296&cid=50826&categoryId=50826",
+			"description":"규모가 큰 가옥의 경우 방 뒤쪽에 빈 칸 넓이의 골방을 들여서 장, 농 따위를 배치하기도 하고, 좀더 격을 갖춘 집은 방 측면에 방의 길이와 같은 2칸 길이의 측방을 두어 <b>가구<\/b>를 배치하고 침실로 이용하기도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스루<b>가구<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8A%A4%EB%A3%A8%EA%B0%80%EA%B5%AC",
+			"description":"스루<b>가구<\/b> ( 일본어: 駿河区 )는 2005년 4월 1일에 탄생한 시즈오카시의 행정구의 하나이다. 2003년 4월 1일에 옛 시미즈시와 합병하기 전의 옛 시즈오카 시역 중 도카이도 본선 이남 및 옛 오사다 촌역이 구역이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>재",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=390427&cid=50348&categoryId=50348",
+			"description":"<b>가구<\/b>를 만드는 재료로 목재, 철재, 플라스틱재 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>라",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2012681&cid=50826&categoryId=50826",
+			"description":"천황가와 관련이 깊은 신사에서 신을 모시기 위해 행하는 가무를 지칭한다. 사토<b>가구<\/b>라(里神樂)라고 하여 민간 신사 제의(祭儀)에서 연주하는 가무도 있다. 일본 전국 각지에 여러 종류가 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6461207&cid=58453&categoryId=58453",
+			"description":"[정의] 한 <b>가구<\/b>에서 함께 사는 모든 구성원을 말한다. 먼 친척, 친구, 가사도우미, 종업원 등 가족이 아닌 사람도 함께 살면 <b>가구<\/b>원에 포함한다. [해설] 조사기준시점 이전에 태어난 아이와 이후에 사망한 사람은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2327331&cid=58505&categoryId=58527",
+			"description":"달리 <b>가구<\/b>형증(可灸形證)이라고도 일컬음. 뜸을 뜨는 것이 좋은 병증. 허한증(虛寒證), 기허증(氣虛證), 혈허증(血虛證), 기체(氣滯) 또는 기울증(氣鬱證), 어혈증(瘀血證) 등이다. ※ 여러 가지 원인에 의한 통증... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금낭<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1235925&cid=40942&categoryId=32972",
+			"description":"<b>가구<\/b>금낭·금낭가제라고도 한다.  錦 : 비단 금 囊 : 주머니 낭 佳 : 아름다울 가 句 : 글귀 구 그대로 풀이하면, '비단 주머니 안에 있는 아름다운 시구(글)'를 뜻한다. 27살로 요절한 천재 시인 이하는 7살 때부터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"0.5인 <b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6156862&cid=43667&categoryId=43667",
+			"description":" 잦은 여행이나 출장 등으로 오랫동안 집을 비우는 1인 <b>가구<\/b>를 이르는 말로, 1인 <b>가구<\/b>보다 집에 머무르는 시간이 훨씬 더 짧은 싱글족들을 가리킨다.  출처: 게티이미지 코리아 0.5인 <b>가구<\/b>는 2곳 이상에 거처를... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMDExMTZfNTkg%2FMDAxNjA1NTAyOTcwNDAz.pw1ep37Y-_rakuqRPk215wwcRAJFYIGMBboTHvt_tjUg.egHAp-z_xkY18Vfj4BqWDS55Ghl02hcfY_3MMoBokYog.JPEG%2FIumjXam8Ng9UNtAtc9uHn8t3ruS4.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x405#c405"
+		},
+		{
+			"title":"0.5인 <b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6604837&cid=40942&categoryId=31630",
+			"description":" 1인 <b>가구<\/b> 중 집에 머무르는 시간이 많지 않은 사람들을 일컫는 용어.  한 <b>가구<\/b>(家口)에 부모나 형제, 배우자나 자녀 없이 혼자서 생활하는 <b>가구<\/b>를 1인 <b>가구<\/b>라고 한다. 현대 사회에서는 결혼 연령이 높아지고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>제",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1232119&cid=40942&categoryId=31693",
+			"description":"<b>가구<\/b>제란 이와 같은 상황을 방지하기 위하여 판결이 확정될 때까지 원고의 권리를 보전함으로써 승소판결이 원고의 실질적인 권리보호가 될 수 있도록 하기 위한 제도이다. 우리나라 행정소송법에서는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"창룽여유도<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5923016&cid=40942&categoryId=40000",
+			"description":" 중국 광둥성 광저우시에 있는 야생동물 테마파크이다. 사파리를 비롯하여 놀이시설과 레크리에이션 시설을 갖추었고, 다양한 공연을 관람할 수 있다. 2007년에 중국 국가 5A급 관광지로 선정되었다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"포지 <b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2027096&cid=50826&categoryId=50826",
+			"description":"그렇기 때문에 여인들은 조각천까지 모아 두었다가 여성 소품인 노리개나 수젓집 등을 만들기도 하고, 나아가서는 함이나 궤에 배접하여 견(絹)의 부드러운 질감과 아름다운 색채를 띤 <b>가구<\/b>도 제작하였다. 작은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"0.5인 <b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2044977&cid=43667&categoryId=43667",
+			"description":" 싱글족 가운데 2곳 이상에 거처를 두거나 잦은 여행과 출장으로 집을 오래 비우는 <b>가구<\/b>.  일주일 중 5일은 독립된 생활 공간에서 보내고 주말은 부모가 있는 집에 가서 가족들과 함께 시간을 보내거나, 주... ",
+			"thumbnail":""
+		},
+		{
+			"title":"0.5인 <b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2067338&cid=42107&categoryId=42107",
+			"description":"적극적인 여가활동을 만끽하느라 주말엔 늘 집을 비우는 사람도 여기에 속한다. 0.5인 <b>가구<\/b>가 1인 <b>가구<\/b>와 구분되는 가장 큰 특징은 집에 머무는 시간이 훨씬 더 짧다는 데 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"제로TV<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2045022&cid=43667&categoryId=43667",
+			"description":" 전통적인 방송서비스인 TV수상기를 전혀 이용하지 않는 <b>가구<\/b>.  TV수상기의 보유 여부에 관계 없이 전통적인 방송서비스를 전혀 이용하지 않는 <b>가구<\/b>, 즉 전통적인 의미인 TV가 아닌 다른 방식을 통해 방송... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>계약서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1827502&cid=42279&categoryId=42279",
+			"description":" <b>가구<\/b>계약서는 <b>가구<\/b>의 제작을 <b>가구<\/b>제작자에게 의뢰하고 대금결제 및 <b>가구<\/b>제작의 유의사항 등을 약정한 문서.  <b>가구<\/b> 제작 계약서는 <b>가구<\/b>업자에게 원하는 <b>가구<\/b>의 형태와 품목을 정해 주문 제작을 의뢰할 때... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128183153214_L4ACPLN7K.jpg\/hb10_38_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"1인 <b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6461250&cid=58453&categoryId=58453",
+			"description":"[정의] 혼자서 살림하는 <b>가구<\/b>를 말한다. [해설] 1인이 독립적으로 취사, 취침 등의 생계를 유지하는 <b>가구<\/b>를 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"사랑방<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1761002&cid=49316&categoryId=49316",
+			"description":"각 <b>가구<\/b>에 마우스 오버시 <b>가구<\/b>의 명칭을 보실 수 있습니다. * 주택평면 참고자료 - 제공된 공간은 의성 김씨종택 사랑채를 근거로 하되, <b>가구<\/b>를 보여주기 위하여 작성되었으므로 실제 공간과는 차이가 있음.",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_1\/20130322165039177_LCBDMUANU.jpg\/z2_cp04100004000.jpg?type=m160_160"
+		},
+		{
+			"title":"다자녀<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6224958&cid=43667&categoryId=43667",
+			"description":" 다자녀<b>가구<\/b>에 대한 일반적 정의는 없으나, '지방세특례제한법'이나 '주택공급에 관한 규칙' 등 개별 법률에 따르면 ‘3명 이상의 자녀를 둔 <b>가구<\/b>’로 정의할 수 있다. 다만 일부 지방자치단체에서는 2명... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTAyMTdfMzYg%2FMDAxNjEzNTQyMDM5OTY1.3W2YQKdKj4lHTMGrcuqg5Td5U6Xv8LB8u1vmj3rZD3Eg.5bB9C0oFURyjq_jiTFOMuh8X_NAn7MDFFq92gKetvtsg.JPEG%2FISUpbxfiv_KMI4y4CakYBRHHFDVk.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x303"
+		},
+		{
+			"title":"<b>가구<\/b>디자인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054251&cid=40942&categoryId=33074",
+			"description":" <b>가구<\/b>의 모양과 색깔등 관계되는 디자인.  생활에 필요한 <b>가구<\/b>는 실용성 위주로 만들어지나 디자인과 모양은 시대 및 민족의 문화 수준 등에 따라 다르다. 고대 이집트에서는 톱이 발명되면서부터 목재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>시방서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1827507&cid=42279&categoryId=42279",
+			"description":" <b>가구<\/b>공사에 대한 일반 사항, 재료, 제작, 시공 설치 등의 내용을 기록한 <b>가구<\/b>공사 인테리어 시공관련 서식.  시방서란 보통 설계도에서 표기가 불가능하지만, 반드시 표기해야 할 사항들을 별도로 구분하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128183217416_IJ6XEJGFB.jpg\/hb10_43_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>가구<\/b>수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029421&cid=42117&categoryId=42117",
+			"description":" 고객의 요구에 따라 <b>가구<\/b>의 부품을 교환하거나 수리한다. [수행직무] 고객으로부터 불만, 부가서비스 등을 접수하여 방문 계획을 수립하고 옷장, 책상, 소파 등 <b>가구<\/b>의 파손 부위를 수리한다. 대패, 끌 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사랑방<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2019050&cid=50826&categoryId=50826",
+			"description":"따라서 선비 사대부들은 유교의 윤리관에 합당한 청빈 검소한 성격의 사랑방을 꾸미기 위해 자연의 문목(紋木)을 이용한 <b>가구<\/b>를 선호하였으며 이러한 풍조는 일반인에게도 유행되기에 이르렀다.사랑방에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제로TV<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2075374&cid=50305&categoryId=50305",
+			"description":"TV수상기가 없거나 있어도 전통적인 방송서비스를 이용하지 않는 세대(<b>가구<\/b>)를 말한다. 스마트폰에 더 익숙한 젊은 층들이 과거의 TV를 조금씩 외면하고 중장년층 역시 스마트폰, 태블릿PC를 이용해 다양한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>시방서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3610748&cid=51373&categoryId=51373",
+			"description":" 인테리어 시공관련 <b>가구<\/b> 공사 시방서 문서.  <b>가구<\/b> 시방서는 지급자재가 아닌 <b>가구<\/b>류의 설치공사에 대하여 규정하고 있다. 시방서란 제품 또는 공사에 필요한 재료의 종류와 품질, 사용처, 시공 방법, 기일 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_7\/20170707142330845_IEK0RPRLP.jpg\/ba17_8347_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"일반<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6461103&cid=58453&categoryId=58453",
+			"description":"[정의] 1인 또는 2인 이상이 모여서 취사, 취침, 생계를 같이하는 단위인 <b>가구<\/b>중 외국인 <b>가구<\/b>와 집단<b>가구<\/b>를 제외한 <b>가구<\/b>를 말한다. [해설] ㆍ 일반<b>가구<\/b>에는 혈연가족관계로만 구성된 가족<b>가구<\/b>, 가족과 비혈연... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>가구<\/b>판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026051&cid=42117&categoryId=42117",
+			"description":" 사무용, 가정용, 주방용 <b>가구<\/b> 및 전통<b>가구<\/b> 등을 소비자에게 판매한다. [수행직무] 판매량, 재고량을 파악하고 유행하는 <b>가구<\/b>를 파악하여 도매업자에게 주문한다. 고객이 필요로 하는 용도와 크기, 디자인, 색상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"표준<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=473523&cid=42120&categoryId=42120",
+			"description":"하나의 모델로서 특정목적을 위해 이론적으로 표준화된 <b>가구<\/b>. 통계적 처리나 일정의 정책효과의 지표화, <b>가구<\/b>구조의 속성 검토에 유용하다. 표준 4인의 <b>가구<\/b>(37세 남, 33세 여, 8세 여, 5세 남)를 모델로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"목재<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182779&cid=40942&categoryId=32157",
+			"description":"오래 전부터 오늘날까지 가정에서 사용되는 <b>가구<\/b>의 대부분은 목재이다. 양식 <b>가구<\/b>의 재료로는 종래 졸참나무 ·너도밤나무 ·자작나무 ·벚나무 등의 광엽수 목재가 쓰였으나, 국내의 재료가 부족하여 현재는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_61\/20181026134218346_JC5PF1NRZ.jpg\/58273.jpg?type=m160_160"
+		},
+		{
+			"title":"강철<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1182780&cid=40942&categoryId=32157",
+			"description":"보통 강철<b>가구<\/b>라고 하는 것은 엷은 강판제 <b>가구<\/b>인데, 대표적인 것에는 사무용 책상·의자·캐비닛 등이 있다. 견고하고 내구성이 강하여, 작업용으로는 적합하나 가정용으로는 차고 딱딱한 감촉 때문에 환영받지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농업<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=469792&cid=42120&categoryId=42120",
+			"description":"농가라 함은 생계 또는 영리를 목적으로 다음 농가정의의 각 호 중 어느 하나에 해당하는 농업을 경영하거나 농업에 종사하는 <b>가구<\/b>를 말하는데 이는 전업농가와 겸업농가로 나누어진다. 1)조사시점 현재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지붕<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2836066&cid=55761&categoryId=55761",
+			"description":"지붕<b>가구<\/b>는 서까래 이상으로 지붕형태를 결정하는 <b>가구<\/b>부분을 가리킨다. 한국건축은 입면비례로 볼 때 지붕이 차지하는 비중이 대단히 크다. 그래서 지붕 형태를 결정하는 지붕<b>가구<\/b>에 구조적, 미적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4002_000_1\/20150706151929764_AWUFQZJCP.jpg\/db6_118_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"일반<b>가구<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=472046&cid=50298&categoryId=50298",
+			"description":"1인 또는 2인 이상이 모여서 취사, 취침 및 생계를 같이하는 단위인 <b>가구<\/b>중 외국인 <b>가구<\/b>와 집단<b>가구<\/b>를 제외한 <b>가구<\/b>를 말한다.",
+			"thumbnail":""
+		}
+	]
+}

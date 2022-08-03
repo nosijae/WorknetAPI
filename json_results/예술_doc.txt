@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:35 +0900",
+	"total":392601,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>예술<\/b>심리치료연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3832",
+			"description":""
+		},
+		{
+			"title":"한국인체<b>예술<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=9008",
+			"description":""
+		},
+		{
+			"title":"프랑스문화<b>예술<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5447",
+			"description":""
+		},
+		{
+			"title":"한국과학<b>예술<\/b>포럼",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3229929",
+			"description":""
+		},
+		{
+			"title":"<b>예술<\/b>인문사회 융합 멀티미디어 논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3303449",
+			"description":""
+		},
+		{
+			"title":"<b>예술<\/b>교육연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3823",
+			"description":""
+		},
+		{
+			"title":"문화<b>예술<\/b>교육연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3097078",
+			"description":""
+		},
+		{
+			"title":"한국미학<b>예술<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2312",
+			"description":""
+		},
+		{
+			"title":"<b>예술<\/b>경영연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3820",
+			"description":""
+		},
+		{
+			"title":"한국<b>예술<\/b>치료학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6138",
+			"description":""
+		},
+		{
+			"title":"영상<b>예술<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3789",
+			"description":""
+		},
+		{
+			"title":"동양<b>예술<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1984",
+			"description":""
+		},
+		{
+			"title":"문화<b>예술<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2147683",
+			"description":""
+		},
+		{
+			"title":"한국미용<b>예술<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=59257",
+			"description":""
+		},
+		{
+			"title":"문화<b>예술<\/b> 스폰서십을 통한 이미지 전이 효과 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650607974",
+			"description":"The analysis of image transfer effect through culture and arts sponsorship : 후원목적\/기업유형에 따른 기업이미지를 중"
+		},
+		{
+			"title":"모드니 <b>예술<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2133243",
+			"description":""
+		},
+		{
+			"title":"문화<b>예술<\/b>경영, 이론과 실제",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2139081",
+			"description":""
+		},
+		{
+			"title":"남북문화<b>예술<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1133",
+			"description":""
+		},
+		{
+			"title":"<b>예술<\/b>논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3824",
+			"description":""
+		},
+		{
+			"title":"한국문학과 <b>예술<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5776",
+			"description":""
+		},
+		{
+			"title":"<b>예술<\/b>과 미디어",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2685675",
+			"description":""
+		},
+		{
+			"title":"한국<b>예술<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1563152",
+			"description":""
+		},
+		{
+			"title":"문학<b>예술<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2140331",
+			"description":""
+		},
+		{
+			"title":"생활문화·<b>예술<\/b>논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1553397",
+			"description":""
+		},
+		{
+			"title":"미디어와 공연<b>예술<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3300090",
+			"description":""
+		},
+		{
+			"title":"<b>예술<\/b>교육을 통한 창의·인성교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56549733",
+			"description":"Creativity and Character Education Through Arts Education <b>예술<\/b>교육을 통해서 창의·인성교육을 함양할 수 있는가? "
+		},
+		{
+			"title":"창의적 융합인재에 관한 개념 틀 정립: 과학기술과 <b>예술<\/b> 융합 관점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74843004",
+			"description":"Building Conceptual Framework to Bring Up Talents Capable of Creative Fusion: From the Perspective of Fusion between Science and Techno"
+		},
+		{
+			"title":"종합<b>예술<\/b>과 음악학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=150462",
+			"description":""
+		},
+		{
+			"title":"댄스 리터러시 혹은 무용소양 - 문화<b>예술<\/b>교육으로서 무용교육의 목적 재",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289927640",
+			"description":"Dance Literacy - Reexamining the Purpose of Dance Education as Culture &amp; Art Education 21세기 선진국으로 진입하는 과정에"
+		},
+		{
+			"title":"<b>예술<\/b>문화연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=63574",
+			"description":""
+		},
+		{
+			"title":"문화<b>예술<\/b>콘텐츠",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2232",
+			"description":""
+		},
+		{
+			"title":"한국<b>예술<\/b>종합학교논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6137",
+			"description":""
+		},
+		{
+			"title":"<b>예술<\/b>논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3826",
+			"description":""
+		},
+		{
+			"title":"민족<b>예술<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2355",
+			"description":""
+		},
+		{
+			"title":"문화<b>예술<\/b>교육 프로그램이 아동복지시설 아동의 우울성향, 자아상, 정서",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41671893",
+			"description":"Effect of the Culture-Art Education Program on Depression, Self-Image, and Emotional Intelligence? 본 연구의 목적은 문화<b>예술<\/b>"
+		},
+		{
+			"title":"<b>예술<\/b>과학회논문지 (芸術科学会論文誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3208708",
+			"description":""
+		},
+		{
+			"title":"인문<b>예술<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2687141",
+			"description":""
+		},
+		{
+			"title":"문화<b>예술<\/b>축제 이미지의 선호도 차이분석 : '2002ㆍ2004 광주비엔날레' 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12454784",
+			"description":"Articles : Analysis of Differences in Image Preferences of Culture and Art Festival: Comparison of Two Consecutive Years of the Gwangju"
+		},
+		{
+			"title":"문화<b>예술<\/b>교육사 제도 정립을 위한 전문<b>예술<\/b>교육가(TA) 해외 사례 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232578188",
+			"description":"A case study on overseas teaching artists(TA) for establishing the system for ‘arts &amp; culture educator’ in Korea 2012년 문화예"
+		},
+		{
+			"title":"통합<b>예술<\/b>치료가 인터넷중독 고교생의 인터넷 사용조절과 자기통제에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77203478",
+			"description":"Effects of Integrative Arts Therapy on Internet Use Control and Self-Control of Internet Addictive High School Students 본 연구 목"
+		},
+		{
+			"title":"몽골 전통 공연 <b>예술<\/b> 국제 교류 현황 및 발전방안 : 기관 및 교육 분야를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650609805",
+			"description":"A study on the international exchange and development of traditional performing arts in Mongolia : analysis on the institution and educ"
+		},
+		{
+			"title":"동양<b>예술<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=65274",
+			"description":""
+		},
+		{
+			"title":"도서관에서의 통합형 문화<b>예술<\/b>교육 프로그램 모형 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16600332",
+			"description":"A Study on Developing Patterns for Integrated Culture and Arts Education Program in Libraries 도서관은 우리나라 국민들이 "
+		},
+		{
+			"title":"인격 형성과 학업성취도 향상을 위한 학교문화<b>예술<\/b>교육 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232578356",
+			"description":"Rethinking culture and arts education in a school setting: in terms of both forming quality characters and academic achievements 지금"
+		},
+		{
+			"title":"문화<b>예술<\/b> 활동이 청소년 정서에 미치는 영향- 생태학적 관점에서의 실증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562289698",
+			"description":"Effects of Arts &amp; Cultural Activities on the Emotional Development of Adolescents - An Empirical Study from an Ecological Perspective "
+		},
+		{
+			"title":"계획적 행동이론의 확장모델을 적용한 공연<b>예술<\/b>상품의 소비자 행동분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=157470485",
+			"description":"A Study of Consumer Behavior in Performing Arts by Using Extended Theory of Planned Behavior 공연<b>예술<\/b>상품의 고유 특성이 소"
+		},
+		{
+			"title":"‘<b>예술<\/b>의 사회적 영향’ 연구 분석과 정책적 함의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57811874",
+			"description":"Analysis of the Research Literature on &quot;Social Impact of the Arts&quot; and Consequent Implications for Policy 이 논문은 1993년부터 "
+		},
+		{
+			"title":"<b>예술<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2140223",
+			"description":""
+		},
+		{
+			"title":"문화유산을 활용한 문화<b>예술<\/b>교육의 가능성 탐색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289995436",
+			"description":"Exploring the Possibility of Culture and Art Education Utilized Cultural Heritage 본 연구의 목적은 문화유산의 올바른 이"
+		},
+		{
+			"title":"공공 <b>예술<\/b>지원과 <b>예술<\/b>의 공공성 : 영국의 경험",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11133233",
+			"description":"  차례=255,261,1\nI. 머리말=256,262,1\nII. 공공성 개념에 대한 이론적 고찰=257,263,4\nIII. <b>예술<\/b>을 위한 <b>예술<\/b>지원:"
+		},
+		{
+			"title":"교육연구에서 내러티브 탐구의 의의와 <b>예술<\/b>기반 연구로서의 가능성 탐",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79117702",
+			"description":"Arts-based narrative inquiry for research on education: Possibility and significance 교육연구 분야에서 내러티브 탐구에 "
+		},
+		{
+			"title":"한국 문화<b>예술<\/b>교육 연구 경향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289172120",
+			"description":"A Study of Academic Research Trend on Arts and Cultural Education 본 연구는 한국 문화<b>예술<\/b>교육의 학술담론을 이해하"
+		},
+		{
+			"title":"가상박물관을 활용한 학교문화<b>예술<\/b>교육 수업사례연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41664749",
+			"description":"A Case study on School Arts and Culture Education: A Virtual Museum-Based Interdisciplinary Class in An Elementary School 학교문화"
+		},
+		{
+			"title":"<b>예술<\/b>강사지원사업 정책목표와 <b>예술<\/b>강사 정체성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45455134",
+			"description":"A Study on Teaching Artists' Identity in the Artists in Schools Program and the Program’s Policy Goals 본 논문은 <b>예술<\/b>강사들"
+		},
+		{
+			"title":"국내외 과학과 <b>예술<\/b> 융합교육 프로그램 개발 동향 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=103110784",
+			"description":"The Analysis on Development Trends for Korean and Overseas Science and Arts Convergence Education Programs 이 연구는 과학과 예"
+		},
+		{
+			"title":"문화<b>예술<\/b>교육, 어떻게 해야 하나요? - 링컨센터 인스티튜트의 교육방법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289995467",
+			"description":"How is Arts and Culture Education provided? - Exploration on Teaching Methodology of Lincoln Center Institute 문화<b>예술<\/b>교육에 대"
+		},
+		{
+			"title":"증강현실과 <b>예술<\/b>의 융복합 수업모형 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187671178",
+			"description":"Developing a Convergent Class Model of Augmented Reality and Art 지식융합사회에서 요구되는 통섭적 사고력, 정보 및 "
+		},
+		{
+			"title":"창의적 융합인재교육(STEAM)을 위한 <b>예술<\/b>교육의 의미와 당위성에 대한 논",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=580486922",
+			"description":"A Discussion on the Meaning and Duty of Arts Education for the Creative STEAM Education 창의적 융합인재교육(STEAM)을 위한 "
+		},
+		{
+			"title":"고직<b>예술<\/b>설계교육“전업＋항목＋공작실”공학결합인재배양모식탐색여",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=658956910",
+			"description":""
+		},
+		{
+			"title":"창조적 장소자산으로서 <b>예술<\/b>자산의 유형과 사례 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78291712",
+			"description":"Case Study of Art Asset and Its Categories as Creative Place Asset 글로컬라이제이션의 시대가 도래함에 따라, 세계는"
+		},
+		{
+			"title":"교육과 <b>예술<\/b>의 통합적 실천도구로서의 타말파 표현<b>예술<\/b>치료의 현상학적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289995430",
+			"description":"A Study on the Phenomenological Viewpoint of Tamalpa Expressive Arts Therapy as a Practical Tool Integrating Education and Arts 이 연"
+		},
+		{
+			"title":"창조산업 클러스터의 형성과 발전의 거버넌스에 관한 연구: 미국 뉴욕 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45701091",
+			"description":"Governance of a Growing Creative Industry Cluster: A Case Study on Brooklyn in the US 미국 뉴욕의 브루클린은 한때 세계적"
+		},
+		{
+			"title":"<b>예술<\/b>교육에서의 <b>예술<\/b>과 도덕의 관계에 대한 미학적 탐구*- 듀이와 도이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16497323",
+			"description":"An Aesthetic Exploration on the Relation of Art and Morality in Art Education: Focused on Dewey and Deutsch 동서양을 막론하고 "
+		},
+		{
+			"title":"‘<b>예술<\/b>의 종말’ 그리고 ‘종말의 <b>예술<\/b>’ : 아서 단토의 《9\/11의 <b>예술<\/b>》",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898491312",
+			"description":"‘The End of Art’ and ‘The Art of the End’ : Notes on Arthur Danto’s The Art of 9\/11 Exhibition 본 논문은 미국의 미학"
+		},
+		{
+			"title":"포스트코로나 시대 비대면 공연<b>예술<\/b>의 전망과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765933753",
+			"description":"  목차\n포스트코로나 시대 비대면 공연<b>예술<\/b>의 전망과 과제 \/ 백선혜 ; 이정현 ; 조윤정 1\n [목차] 1\n 요약"
+		},
+		{
+			"title":"<b>예술<\/b>논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3295399",
+			"description":""
+		},
+		{
+			"title":"김정은 시대 북한 문화<b>예술<\/b>의 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57048664",
+			"description":"  목차\n김정은 시대 북한 문화<b>예술<\/b>의 변화 \/ 전영선 1\n I. 서론 1\n II. 2008년 이후의 문화동향 2\n  1. 문화를"
+		},
+		{
+			"title":"<b>예술<\/b> 교과 중심 융합인재교육(STEAM) 실천 방안 - 미술교과 수업 사례 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61702088",
+			"description":"A Study on Practice of, art centered STEAM Education 미래 사회가 ‘가상현실 사회’, ‘인공지능 사회’, ‘꿈과 "
+		},
+		{
+			"title":"초·중등학교 교과 통합형 문화<b>예술<\/b>교육 모형개발 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77204115",
+			"description":"   문화<b>예술<\/b>교육, 교과, <b>예술<\/b>, 통합교육, Arts &amp; Culture education, subject, arts, integrated education "
+		},
+		{
+			"title":"공연<b>예술<\/b>저널",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=65949",
+			"description":""
+		},
+		{
+			"title":"<b>예술<\/b>문화논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1553396",
+			"description":""
+		},
+		{
+			"title":"유치원과 초등학교 연계를 위한 교육과정 비교분석과 대안적 <b>예술<\/b>융합 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289995529",
+			"description":"A Search for Alternative Educational Activities Based on the Convergence of Arts and a Curriculum Analysis 본 연구는 유치원과 "
+		},
+		{
+			"title":"문화<b>예술<\/b>교육정책은 왜 혼란스러운가?: 문화<b>예술<\/b>교육정책 연구를 위한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420772390",
+			"description":"Why is Korean Arts and Culture Education Policy Confusing?: A Preliminary Study of Arts and Culture Education Policy in Sociology 이 "
+		},
+		{
+			"title":"과학영재를 위한 인문사회와 <b>예술<\/b>의 융합형 영재교육프로그램 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74838202",
+			"description":"Humanities &amp; Arts Program Development for Scientifically Gifted Children 지금까지 과학영재교육프로그램은 주로 과학"
+		},
+		{
+			"title":"문화<b>예술<\/b>활동 기반 교육의 의미와 구성주의적 학습 환경과의 관련성 탐",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=580486914",
+			"description":"Exploration on the Concept of Culture and Arts Activity-Based Education and its Relation to Constructivistic Learning Environment 본 "
+		},
+		{
+			"title":"공연<b>예술<\/b>콘텐츠의 가치와 융합적 구조 -공연<b>예술<\/b>실황영상을 중심으로-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594687853",
+			"description":" 본 연구는 공연<b>예술<\/b>의 제작 유통 과정을 콘텐츠진흥법상 기술 산업과의 융합형태를 살펴보고자 한다"
+		},
+		{
+			"title":"듀이 <b>예술<\/b>철학을 통해 본 교육적 경험의 의미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10906965",
+			"description":"  목차\n듀이 <b>예술<\/b>철학을 통해 본 교육적 경험의 의미 \/ 양은주 1\n I. 서론 : 학교 경험의 질적 문제 1\n II. "
+		},
+		{
+			"title":"연기<b>예술<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1120941",
+			"description":""
+		},
+		{
+			"title":"학교문화<b>예술<\/b>교육 활성화를 위한 방향성과 과제 : 영국의 사례를 통한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78414829",
+			"description":"Arts and Cultural Education at Schools: Implications from the English Case 본 연구는 영국의 학교문화<b>예술<\/b>교육의 시스"
+		},
+		{
+			"title":"공연<b>예술<\/b>소비에 영향을 미치는 요인에 대한 탐색적 연구: 공연<b>예술<\/b>교육",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=154003210",
+			"description":"An Exploratory Study of Selecting Performing Arts: Focusing on Consumer Education of Performing Arts 다른 상품과 달리 공연예"
+		},
+		{
+			"title":"NFT <b>예술<\/b>작품의 존재론적 의의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897374191",
+			"description":"The Ontological Significance of NFT Artwork NFT <b>예술<\/b>작품의 작품존재적 성격을 해명하고, NFT <b>예술<\/b>작품이 <b>예술<\/b>작"
+		},
+		{
+			"title":"문화<b>예술<\/b>교육프로그램의 파트너쉽 구축 요인에 관한 연구 : 학교와 지역",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16441175",
+			"description":"  목차\n문화<b>예술<\/b>교육프로그램의 파트너쉽 구축 요인에 관한 연구 : 학교와 지역사회 연계 문화<b>예술<\/b>교"
+		},
+		{
+			"title":"SF영화를 통해 본 포스트휴먼의 조건과 <b>예술<\/b>교육의 미래",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291042013",
+			"description":"Post-Humanism and the Future of Art Education as Identified through Science Fiction Movies 이 논문의 일차적 목적은 포스트"
+		},
+		{
+			"title":"대한미용문화<b>예술<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2711812",
+			"description":""
+		},
+		{
+			"title":"크라우드 펀딩을 활용한 시각<b>예술<\/b>전시 사례연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650610201",
+			"description":"Case studies of visual art exhibition held by crowd funding  표제지\n국문초록\n목차\nI. 서론 6\nII. 크라우드펀딩의 배경"
+		},
+		{
+			"title":"공공<b>예술<\/b>조직의 서비스전달체계와 <b>예술<\/b>성･공공성･효율성: 1957년 창단",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232458397",
+			"description":"Artistic Merit ･ Publicness ･ Efficiency and Service Delivery System of Public Art Organizations: Seoul Philharmonic Orchestra 공"
+		},
+		{
+			"title":"뉴욕 비영리 공연<b>예술<\/b> 단체의 <b>예술<\/b> 교육 프로그램 연구 : 씨어터 커뮤니",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898271149",
+			"description":"A Study on Arts Education Programs of Non-profit Performing Arts Organizations in New York City : Focused on Theatre Communications Gro"
+		},
+		{
+			"title":"문화산업 영역과 <b>예술<\/b>영역에 대한 정책목표들 양립가능성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11133234",
+			"description":"  차례=279,285,1\nI. 서론=280,286,1\nII. 문화산업 정책의 목표=281,287,4\nIII. 문화산업 정책 목표와 <b>예술<\/b>정책 목"
+		},
+		{
+			"title":"<b>예술<\/b> 생리학과 미래 <b>예술<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174656300",
+			"description":"Die Physiologie der Kunst und ‘die Kunst der Zukunft’ 이 논문의 목표는 니체의 <b>예술<\/b>종말론의 의미를 그의 ‘예"
+		},
+		{
+			"title":"관산월(關山月)의 <b>예술<\/b>창작 소고",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656235",
+			"description":"Little Examination for Guan Shan-yue's Art Creation 스케치와 사생작품은 화가의 생애와 <b>예술<\/b>이 축적된 증거이며, "
+		},
+		{
+			"title":"한국꽃<b>예술<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=67514",
+			"description":""
+		},
+		{
+			"title":"동아시아문화와<b>예술<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2133228",
+			"description":""
+		},
+		{
+			"title":"21세기 문화<b>예술<\/b>동향에 따른 장애아 미술교육 프로그램 모색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17581306",
+			"description":"In Search of Art Education Program for the Handicapped Children, Complying with the 21st Century Art and Culture Trends ① 기간: 200"
+		},
+		{
+			"title":"관객개발을 위한 <b>예술<\/b>교육과 그 효과에 관한 연구 : 미국과 한국의 공연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11663568",
+			"description":"  표제지\n국문요약\n목차\nⅠ. 서론 12\n 1. 연구의 배경 12\n  1) 취약한 공연<b>예술<\/b> 관객기반 12\n  2) 새로운 관"
+		},
+		{
+			"title":"우샤오팡(吳曉邦)의 신무용<b>예술<\/b>(新舞蹈藝術) 미학사상에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898390742",
+			"description":"A Study on the Aesthetics of New Dance Art by Wu XiaoBang 본 연구는 우샤오팡(吳曉邦)의 신무용<b>예술<\/b>의 미학사상을 "
+		},
+		{
+			"title":"조형<b>예술<\/b>연구 논문집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4772",
+			"description":""
+		},
+		{
+			"title":"창의적 융합인재양성. 왜 <b>예술<\/b>교육에 주목하는가?",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594401707",
+			"description":" 최근 창의적 융합인재양성을 위해 '<b>예술<\/b>교육'이 국내외적으로 크게 주목받고 있다. 한편 현재 국제사"
+		},
+		{
+			"title":"교기합작고직<b>예술<\/b>설계“공작실”제인재배양모식연구 (校企合作高职艺",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=658451970",
+			"description":""
+		},
+		{
+			"title":"문화<b>예술<\/b>지원 거버넌스 체계에 관한 비교 연구: 영국, 프랑스, 한국 사례",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=190011084",
+			"description":"A Comparative Study of Culture and Art Support Governance Systems: The Cases of the UK, France, and Korea 본 연구의 목적은 영"
+		},
+		{
+			"title":"<b>예술<\/b>문화",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1062013",
+			"description":""
+		}
+	]
+}

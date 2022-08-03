@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:28 +0900",
+	"total":99531,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1142425&cid=40942&categoryId=31534",
+			"description":" 무한(無限)·절대의 초인간적인 신을 숭배하고 신성하게 여겨 선악을 권계하고 행복을 얻고자 하는 일을 말한다.  인간의 정신문화 양식의 하나로 인간의 여러 가지 문제 중에서도 가장 기본적인 것에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=549548&cid=46649&categoryId=46649",
+			"description":" 초인간적 세계와 관련된 신념이나 의례 등으로 구성된 문화현상. [개설] <b>종교<\/b>는 정치·경제·사상·예술·과학 등 사회의 전 영역에 깊이 관련되어 있는, 절대적이며 궁극적인 가치 체계로서 기능해 왔다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20170812005403513_1M98ZLJP2.jpg\/00231ea5-27b0-43.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6584166&cid=47305&categoryId=47305",
+			"description":" 신, 절대적인 힘을 통하여 고민을 해결하고 삶의 근본 목적을 찾는 사회 제도. 여러 가지 <b>종교<\/b>가 있으며, <b>종교<\/b>는 그 사회의 생활 습관과 제도에 영향을 미친다. [<b>종교<\/b>의 시작] <b>종교<\/b>는 자연과 신에게 무언가를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1779_000_2\/20220113171446999_L5OB711F5.png\/bh6_123_i1.png?type=m160_160"
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2113918&cid=50765&categoryId=50778",
+			"description":"[[개요]] ‘<b>종교<\/b>’의 한자 의미는 ‘으뜸 되는 가르침’, 또는 ‘인간 삶의 근본법도’라는 의미로서 동양에서는 보통 ‘도(道)’라고 부른다. 불교는 《능가경》에서 ‘종(宗)’은 불교의 근본진리를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1717063&cid=41908&categoryId=41971",
+			"description":"<b>종교<\/b>의 개념. <b>종교<\/b>란 인간이 절대자(정신)를 의식함과 동시에 그것을 통해 절대자(정신)가 자기를 의식하는 사건이며, 절대적 정신, 즉 자기가 무엇인지를 알고 있는 정신의 하나의 형태이다. 이것은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=630913&cid=50766&categoryId=50794",
+			"description":"[<b>종교<\/b>를 어떻게 생각할 것인가] 1970년대, 달표면에 선 미국의 우주비행사 12명 중 3명이 지구에 귀환한 후 <b>종교<\/b>적 일에 전념했다. 신과 접촉한 경험을 이야기하고, 심령과학에 관심을 보이게 된 것이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5677178&cid=62841&categoryId=62841",
+			"description":" 통합된 체계 속에서 사람들에게 삶의 의미, 목적, 그리고 영적인 관계를 찾도록 도와주는 초월자에 대한 제도화되고 성문화된 신념의 표현.  인간의 정신문화양식의 하나로, 인간의 여러 가지 문제 중에서도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1521318&cid=42121&categoryId=42121",
+			"description":"사회학에서는 <b>종교<\/b>와 사회의 관계를 연구한다. 이 관계가 변증법적이라는 것이 <b>종교<\/b>사회학의 기초이다. 사회는 <b>종교<\/b>의 기원, 관행, 원리에 영향을 주며, 마찬가지로 <b>종교<\/b>는 사회적 행위에 영향을 미친다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1691217&cid=41908&categoryId=41930",
+			"description":"맑스가 <b>종교<\/b>에 대해 언제나 비판적인 입장에서 발언했다는 점에 대해서는 의심할 여지가 없다. 그가 <b>종교<\/b>적 신앙을 고백한 일이나 <b>종교<\/b>에 대한 경향을 드러낸 적은 한 번도 없다. 격렬한 <b>종교<\/b> 비판은 종종... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=729490&cid=42140&categoryId=42140",
+			"description":"부연하여, <b>종교<\/b>는 우리들 인간이 살고 있는 이 세계가 아니라 이 세계가 아닌 것, 이 세계의 타자(他者)에게 사고나 행동의 중심을 두는 것이다. 이 세계의 타자는 이 세계가 아니기 때문에 현재 이 세계에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=388679&cid=41978&categoryId=41985",
+			"description":"이데올로기의 한 부문으로 대중의 세계관ㆍ사회관의 근저를 관철하며 심정을 깊이 사로잡는 독특한 구조를 가지는데, 의식과 행동을 매우 강하게 규제하며 문화의 여러 영역에 널리 영향을 미치는 힘을 가지고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1713038&cid=41908&categoryId=41954",
+			"description":"칸트에게 있어 참된 <b>종교<\/b>는 도덕적 마음가짐에 기초한 도덕적 <b>종교<\/b>이며, 신을 순수 실천 이성의 이성신앙에 의해서 믿는 이성<b>종교<\/b>이다. 그리고 <b>종교<\/b>는 행복에 대한 희망에서 생겨나지만, 칸트에 의하면 참된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2376540&cid=50762&categoryId=51365",
+			"description":"<b>종교<\/b>는 원시시대부터 지금까지 인간사에 깊이 개입하여 왔다. <b>종교<\/b>의 기원에 대해 자연숭배설, 주물숭배, 애니미즘, 토테미즘, 사회의식설 등이 있으나, 기독교 신학에서는 하나님 중심의 계시<b>종교<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3550591&cid=58584&categoryId=58624",
+			"description":" 신이나 절대적인 힘을 통하여 인간의 고민을 해결하고 삶의 근본 목적을 찾는 문화 체계.  宗 근본 종, 敎 가르칠 교 <b>종교<\/b>는 신이나 절대적인 힘을 통하여 인간의 고민을 해결하고 삶의 근본 목적을 찾는 문화... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4751_000_5\/20170125111327957_9O8L21GCE.jpg\/172_78686_215334.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=944819&cid=47334&categoryId=47334",
+			"description":"<b>종교<\/b>는 일반적으로 크리스트교 · 불교 · 이슬람교 등과 같이 보편적인 윤리관에 기초하여, 국경과 민족을 초월하여 세계 여러 지역에 널리 퍼져 있는 보편 <b>종교<\/b>와 한국의 천교도 · 이스라엘의 유대교 · 인도의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0903_000_1\/20120130144650531_EV3CMQ2PI.jpg\/gc1_581_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=801180&cid=41978&categoryId=41982",
+			"description":"제임스는 일차적으로 퍼스의 아이디어를 계승, 확대 적용하여 그것을 단지 의미이론이 아니라 하나의 진리론으로 발전시켰다. 제임스는 과학적 개념에 대한 퍼스식의 이해 방식을 모든 신념으로 확대하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=512208&cid=42126&categoryId=42126",
+			"description":"그리고 이러한 신앙과 의존성 등은 같은 <b>종교<\/b>라 할지라도 민족의 심리적 성향들에 따라서 상이하다. <b>종교<\/b>는 대체적으로 자연숭배의 형태로 기원하며, 신에 대한 이해에 따라서 다신교·범신교·유일신교... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=410989&cid=43722&categoryId=43722",
+			"description":"종로구 내자동 71번지 부근 <b>종교<\/b>교회 앞에 놓여 있던 다리이다. 전해오는 말에 의하면 성종 때 연산군의 생모 윤씨의 폐비를 논의하기 위한 어전회의가 열렸는데, 당시 재상이었던 허종(許琮)과 그의 아우 허침... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=479071&cid=60408&categoryId=55558",
+			"description":"신앙의 대상이 되는 신의 수에 따라서 다신교 일신교 신자의 분포규모에 따라서 부족<b>종교<\/b>ㆍ민족<b>종교<\/b>ㆍ세계<b>종교<\/b> 발생의 시대에 따라서 원시<b>종교<\/b>ㆍ고대<b>종교<\/b>ㆍ신(흥)<b>종교<\/b> 등으로 분류된다. <b>종교<\/b>적 신념은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1838902&cid=49086&categoryId=49086",
+			"description":"성스러운 존재와 인간의 관계를 특징짓은 신념체계, 교리 및 의식.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2025104&cid=50826&categoryId=50826",
+			"description":"따라서 <b>종교<\/b>란 어떤 가르침의 중심적인 교설이라는 뜻이었던 것이 후세로 내려오면서, 초인간적이며 초자연적인 힘에 대한 인간의 경외.신앙의 총체적인 체계를 <b>종교<\/b>라고 하게 되었으며 영어 religion의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=41831",
+			"description":"기독교, 천주교, 불교, <b>종교<\/b> 일반, 기타<b>종교<\/b>.",
+			"thumbnail":""
+		},
+		{
+			"title":"비주얼사전 <b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=49086",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A2%85%EA%B5%90",
+			"description":"<b>종교<\/b> (宗敎)는 초월적, 선험적 또는 영적인 존재에 대한 믿음을 공유하는 이들로 이루어진 신앙 공동체와 그들이 가진 신앙 체계나 문화적 체계(cultural system)를 말한다. <b>종교<\/b>인들은 주로 초월적인 대상... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=1148260",
+			"description":"전통 신앙, 불교 등등 내가 관심있는 자료",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=85113",
+			"description":"<b>종교<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=26133",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2083593&cid=44411&categoryId=44411",
+			"description":"개념 및 정의] 흔히 <b>종교<\/b>(religion)라 하면 불교나 기독교 같은 특정 <b>종교<\/b> 전통을 떠올린다. 하지만 <b>종교<\/b>는 세계 어디에서나 다양한 형태로 나타나는 인류의 보편적 현상이다. 따라서 여러 <b>종교<\/b>들에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140602121314885_HCAL92KG4.jpg\/z4_term52_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>종교<\/b>교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=549549&cid=46615&categoryId=46615",
+			"description":" <b>종교<\/b>상의 지식·의례 등에 관한 교양을 비롯하여 <b>종교<\/b>적 정서를 함양하고 <b>종교<\/b>적 인격을 형성하기 위한 교육. [개설] <b>종교<\/b>의 의미나 개념에 관해서는 견해가 일치하지 않는다. 저명한 <b>종교<\/b>학자마다 각각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동서 문화와 철학: <b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=994681&cid=41893&categoryId=41901",
+			"description":"그러나 <b>종교<\/b>가 없는 사회는 결코 존재하지 않았다.”(베르그송, 『도덕과 <b>종교<\/b>의 두 원천』) 베르그송의 말처럼 <b>종교<\/b>가 인간사회에 보편적인 현상이지만, 서구나 인도와 비교할 때 특별히 <b>종교<\/b>의 역할이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b> 제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1718559&cid=47336&categoryId=47336",
+			"description":"요즘의 <b>종교<\/b> 의식도 크게 보면 이와 비슷하다. 이러한 몇 가지 형태에서 우리는 <b>종교<\/b>의 의미를 찾을 수 있다. <b>종교<\/b>에는 성스럽거나, 초자연적이고 초경험적인 존재나 세계와 같은 대상이 존재한다. 그리고 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"religion",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2076810&cid=41810&categoryId=41812",
+			"description":"religion(<b>종교<\/b>)은 라틴어로 '다시'라는 뜻의 re와 '묶다'는 뜻의 lig가 합쳐진 것으로, &quot;주의깊게 가르침의 뜻을 다시 바라본다&quot;는 뜻이다. '다시 묶다', '다시 연결시키다'는 뜻이라는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2474_000_1\/20140527122640775_EHQS75YU7.jpg\/hb12_405_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>종교<\/b>, 윤리, 세속 사회",
+			"link":"http:\/\/openlectures.naver.com\/contents?contents_id=110023",
+			"description":"이혁배 교수는 초월적 실재에 대한 믿음, 즉 성(聖)을 바라는 <b>종교<\/b>가 어떻게 욕망이 들끓고 갈등이 빈발하는 속(俗)과 만날 수 있는지 살펴본다. 특히 <b>종교<\/b>가 경제 체제와 부딪칠 때 어떠한 윤리가 필요한지... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/0283_000_4\/20170210104004396_0C660V1AL.jpg\/110023_44___608x.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>종교<\/b>(신학)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=729492&cid=42140&categoryId=42140",
+			"description":"한마디로 정의하기란 매우 어려운 용어지만 <b>종교<\/b>란 본질적으로는 신(神)과 인간의 관계 또는 교제에 관한 사항이라 할 수 있다. 성경의 입장에서 <b>종교<\/b>란 무엇인가를 알기 위해 아래에 나열한다. 『바울이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동서 문화와 철학: <b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=994555&cid=41893&categoryId=41901",
+			"description":"<b>종교<\/b>란, 양수명의 정의에 따르면, 이성적인 인식의 세계를 넘어서서 입론의 근거를 마련하여 정서·의지(情志) 방면에서 사람을 위로하고 격려하는 존재이다. 근대 중국에서는 근대 서구의 힘의 원천이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"종침교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=411000&cid=43722&categoryId=43722",
+			"description":"종로구 내자동 71번지 부근 <b>종교<\/b>교회 앞에 놓여 있던 다리이다. 전해오는 말에 의하면, 성종 때 연산군의 생모 윤씨의 폐비를 논의하기 위한 어전회의가 열렸는데, 당시 재상이었던 허종(許琮)과 그의 아우 허침... ",
+			"thumbnail":""
+		},
+		{
+			"title":"허무주의 현상: <b>종교<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=998227&cid=41908&categoryId=41917",
+			"description":"니체는 그리스도교와 불교를 허무주의-데카당스 <b>종교<\/b>로 이해한다.(KGW Ⅷ 2 11[373], 409쪽; 한글판 490쪽) 그 이유는 첫째, 이 두 <b>종교<\/b>의 목표가 현실의 삶에 대한 긍정과 사랑이 아니기 때문이다. 둘째... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의성의 <b>종교<\/b> (의성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2621014&cid=51938&categoryId=54600",
+			"description":"[정의] 경상북도 의성 지역에서 초월적 존재인 신을 통해 삶의 궁극적 의미를 추구하는 일체의 행위. [불교] 의성 지역에는 현재 1000년 이상 된 전통 사찰이 9개소나 된다. 이는 신라나 고려 시대에 이미... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150315115115642_8X5OE79IE.jpg\/GC052P00011.jpg?type=m160_160"
+		},
+		{
+			"title":"부산의 <b>종교<\/b> (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2822491&cid=55772&categoryId=55807",
+			"description":"[전근대의 부산 <b>종교<\/b>] 1. 선사 시대 부산 지역에서 <b>종교<\/b>의 흔적을 발견할 수 있는 시기는 신석기 시기부터이다. 이때의 사람들은 자연의 변화에 좌우되는 환경 속에서 살았기 때문에 자연에 대한 두려움과 다산... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718030953320_5SMWX7NRU.jpg\/GC042P08821.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>종교<\/b> (제천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2627786&cid=51893&categoryId=53809",
+			"description":"[정의] 충청북도 제천시에서 이루어지는 제반 신앙 행위의 총칭. [불교] 제천의 불교는 통일 신라 시대에 유행한 화엄종의 영향권 안에서 시작되었을 것으로 짐작된다. 즉 제천과 가까운 단양에 화엄 십찰 중의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150316015938314_EEJPEI3C2.jpg\/GC033P0001.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>종교<\/b> (하동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2660654&cid=51944&categoryId=54917",
+			"description":"[개설] <b>종교<\/b>는 신 또는 진리로 표현되는 절대적인 존재자를 숭배하며 근본적이라 믿는 것을 확고한 신념으로 받아들인다. 한국의 <b>종교<\/b>는 고대 무속 신앙으로부터 출발하여, 삼국 시대에는 유교, 불교, 도교가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150318141503829_0I0XY40BM.jpg\/GC034P2068.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>종교<\/b> (청도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2641258&cid=51939&categoryId=54650",
+			"description":"91여 개이며, 교직자 수는 370여 명, 등록된 신자 수는 4,800여 명이다. [유교] 조선의 개국과 동시에 불교를 억압하고 유교를 숭상하면서 지금의 유교의 뿌리를 조선 왕조에 둘 수 있다. 유교는 <b>종교<\/b>라기보다",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150317154027755_Y4IXGALU6.jpg\/GC055P03366.jpg?type=m160_160"
+		},
+		{
+			"title":"미추홀구의 <b>종교<\/b> (미추홀구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2622859&cid=51927&categoryId=53651",
+			"description":"[개설] <b>종교<\/b>란 인류의 역사만큼 오래된 것으로, 인간 문제의 궁극적 해결에 관련을 맺고 있는 다양한 형태의 신앙 행위를 말한다. 기존 <b>종교<\/b>의 개념에서는 교조․교리․의례․교단․신도 등이 체계적인 형식을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150315165824055_L5UUZ8ZNI.jpg\/GC047P00141.jpg?type=m160_160"
+		},
+		{
+			"title":"인천남구의 Religion",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2653510&cid=51927&categoryId=53651",
+			"description":"[Definition] It is a general term to define all religious activities takes place in Nam-gu, Incheon. [Establishment] The history of religion is as old as the history of human being. It... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330231001829_U5U2P34Q9.jpg\/EC047P00141.jpg?type=m160_160"
+		},
+		{
+			"title":"의성의 Religion",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2653370&cid=51938&categoryId=54600",
+			"description":"[Definition] All human actions to pursue meaningfulness of life through seeking knowledge of a supernatural being, God in Uiseong, Gyeongsangbuk-do. [Buddhism] In the region of Uiseong... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330221935336_LPPQC63JU.jpg\/EC052P00011.jpg?type=m160_160"
+		},
+		{
+			"title":"양주의 <b>종교<\/b> (양주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2658190&cid=51886&categoryId=53492",
+			"description":"[개설] <b>종교<\/b>는 인간이나 자연의 힘을 초월하는 존재에 관한 신앙을 가리키는 것이라 할 수 있다. 경기도 양주시에는 전통 시대부터 민간 신앙, 불교 등이 주민들의 신앙 대상이 되었으며, 1870년경 천주교... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150314111515280_Q19DRCPTW.jpg\/GC043P5180.jpg?type=m160_160"
+		},
+		{
+			"title":"영천의 Religion",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2653231&cid=51935&categoryId=54452",
+			"description":"[Definition] A cultural phenomenon to worship superhuman beings and to obtain happiness by admonishing the good and evil in Yeongcheon, Gyeongsangbuk-do [Summary] Various types of... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330203747904_ODTPBERDX.jpg\/EC051P00422.jpg?type=m160_160"
+		},
+		{
+			"title":"울릉의 Religion",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2656166&cid=51936&categoryId=54501",
+			"description":"[Definition] A generic term that refers to all religious activities in Ulleung-gun, Gyeongsangbuk-do. [Details] As of 2008, the religions which displayed the most considerable... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330214547495_09L5C281B.jpg\/EC015P1262.jpg?type=m160_160"
+		},
+		{
+			"title":"포천의 <b>종교<\/b> (포천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2648591&cid=51888&categoryId=53602",
+			"description":"따라서 지역 주민보다 주로 다른 지역 사람이 <b>종교<\/b> 단체를 이용하는 비율이 높게 나타난다. 그러나 아직도 마을마다 산신제를 지내는 등 전통적인 문화나 관습의 영향력이 강한 편이다. [읍면별 <b>종교<\/b> 단체... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b> (창원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2637042&cid=51943&categoryId=54859",
+			"description":"그리고 이것은 <b>종교<\/b> 부분에 대해서도 마찬가지이다. 통합 후 2010년 10월 현재 창원시청 문화 관광과에 등록되어 있는 <b>종교<\/b> 단체는 총 832곳이다. 통합되기 전 창원시 지역의 등록 자료에 의하면, <b>종교<\/b> 단체는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진주의 <b>종교<\/b> (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2633034&cid=51942&categoryId=54807",
+			"description":"[개설] 인간에게 <b>종교<\/b>가 필요한 이유는 인간이 스스로 한계를 갖는 유한한 존재라는 자각에서 기인한다. 특히 죽음에 대한 두려움과 사후세계에 대한 불안감이 매우 크기 때문에 전지전능(全知全能)하다고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진안의 <b>종교<\/b> (진안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2689916&cid=51949&categoryId=55181",
+			"description":"[개설] 전라북도 진안 지역의 <b>종교<\/b>는 역사 문화적으로 크게 세 부분으로 나눠 볼 수 있다. 첫째는 고대 시대에 중국이나 인도 등으로부터 전래된 불교·유교 등의 <b>종교<\/b>이다. 둘째는 조선 후기에 전래된 천주교의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"포천의 Religion",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2654084&cid=51888&categoryId=53602",
+			"description":"[Definition] An overview on the religion of the Pocheon region such as Buddhism, Confucianism, Catholicism, Protestantism and new religions. [Religious Culture by Townships] As Pocheon... ",
+			"thumbnail":""
+		},
+		{
+			"title":"남원의 <b>종교<\/b> (남원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2592302&cid=51948&categoryId=55129",
+			"description":"[개설] 남원 지역의 <b>종교<\/b>는 역사적으로 크게 세 부분으로 나누어진다. 첫째는 오래 전부터 민간인들 사이에 신앙되어 오는 민간신앙이다. 둘째는 삼국시대에 중국이나 인도 등으로부터 전래된 유교·도교... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b> (안동)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2604301&cid=51934&categoryId=54399",
+			"description":"[개설] <b>종교<\/b>의 역사는 인류의 역사만큼 오래되었으며, 현대에 이르기까지 모든 문화, 모든 민족에게서 보이는 문화 현상이다. <b>종교<\/b>는 정치·경제·사상·예술·과학 등 사회의 전 영역에 깊이 관련되어 있는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제주의 <b>종교<\/b> (제주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2626342&cid=51955&categoryId=55495",
+			"description":"[개설] 교리가 경전으로 출판되고, 의례 체계가 표준화되며, <b>종교<\/b> 지도자의 재생산 구조와 지도자와 일반 신도의 결합 구조가 공식 조직(formal organization)의 형태를 띠게 될 때, 보통 ‘<b>종교<\/b>’라고 이름 붙인다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무주의 <b>종교<\/b> (무주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5146503&cid=60026&categoryId=60047",
+			"description":"[개설] 전라북도 무주 지역 <b>종교<\/b>의 발전을 역사 문화적으로 크게 나눠 본다면, 첫째는 고대 시대에 중국이나 인도 등으로부터 전래된 불교(佛敎)·유교(儒敎) 등의 <b>종교<\/b>의 흐름, 둘째는 조선 후기 천주교의 전래와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경산의 <b>종교<\/b> (경산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6594964&cid=69588&categoryId=69609",
+			"description":"[개설] 경산 지역은 최초의 정치 집단인 압독국(押督國)이 세워졌을 때부터 원시 <b>종교<\/b> 활동이 있었을 것으로 추정된다. 다만, 이 시기 <b>종교<\/b>의 성격을 알 수 있는 유적이나 유물 등 자료가 아직까지 발견되지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"천안의 <b>종교<\/b> (천안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2570058&cid=51930&categoryId=54182",
+			"description":"[정의] 충청남도 천안 지역에서 신이나 초자연적인 절대자 또는 힘에 대한 특정한 믿음을 공유하는 이들이 가진 신앙 체계. [불교] 천안은 백제에 속했던 지역으로 384년(침류왕 원년) 동진의 마라난타를 통해... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150123205327767_HYHJ66S8J.jpg\/GC045P01953.jpg?type=m160_160"
+		},
+		{
+			"title":"영천의 <b>종교<\/b> (영천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2612112&cid=51935&categoryId=54452",
+			"description":"[개설] 우리나라는 삼국 이전 시기부터 근·현대에 이르기까지 다양한 형태의 <b>종교<\/b>가 등장하여 성장·발전·쇠퇴를 거듭하였고, 그 전개 과정에서 시대적·지역적 특성들이 나타나고 있다. 영천 지역의 <b>종교<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b> (논산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2594476&cid=51928&categoryId=54072",
+			"description":"[개설] 충청남도 논산 지역은 유교, 불교, 천주교 및 개신교뿐만 아니라 한국의 여러 신흥<b>종교<\/b>에 이르기까지 여러 가지 <b>종교<\/b>가 다양하게 발달되어 있는 지역이다. 특히 지난 100년은 초반에는 국가와 민족이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"거창의 <b>종교<\/b> (거창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4347777&cid=59782&categoryId=59803",
+			"description":"[정의] 경상남도 거창군에서 이루어지는 인간이나 자연의 힘을 초월하는 존재나 원리를 신앙하는 행위의 총칭. [불교] 경상남도 거창군에 불교가 들어온 시기는 신라 때로 추정된다. 이는 거창 지역의 고찰... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b> (구미)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2586746&cid=51932&categoryId=54292",
+			"description":"[정의] 경상북도 구미시에서 이루어지는 제반 신앙 행위. [불교] 구미 지역은 고대부터 불교가 번성했던 것으로 보인다. 금오산 일대에는 현존하는 수 개의 사찰과 함께 그 정상과 산록에 남아 있는 폐사지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"울릉의 <b>종교<\/b> (울릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2616948&cid=51936&categoryId=54501",
+			"description":"[개설] <b>종교<\/b>는 인간의 정신문화 양식의 하나로 인간의 여러 가지 문제 중에서도 가장 기본적인 것에 관하여 경험을 초월한 존재나 원리와 연결지어 의미를 부여하고 또 그 힘을 빌려 통상의 방법으로는 해결이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"함안의 <b>종교<\/b> (함안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4349638&cid=59699&categoryId=59720",
+			"description":"[개설] <b>종교<\/b>는 초자연적 존재 혹은 존재들에 대한 믿음, 그리고 그들의 힘을 빌어 이상적인 삶에 대한 소원을 달성하기 위해 행하는 각종 의식·의례 행위를 지칭한다. 2016년 10월 현재, 경상남도 함안군에는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"여수의 <b>종교<\/b> (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2608916&cid=51950&categoryId=55232",
+			"description":"[개설] 여수 지역에는 원시적인 무교(巫敎)에서부터 기독교·불교·유교에 이르기까지 다양한 <b>종교<\/b>가 분포되어 있다. 이 <b>종교<\/b>들은 때때로 지역민들이 실의와 좌절에 빠졌을 때 용기와 희망을 주기도 하고, 역사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가평의 <b>종교<\/b> (가평)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6444842&cid=68119&categoryId=68140",
+			"description":"[개설] <b>종교<\/b>는 나약한 인간이 스스로 해결할 수 없는 일을 신과 같은 초월적 존재에 의지하여 마음의 평온을 얻는 것을 말한다. <b>종교<\/b>는 교리가 정해진 것도 있지만 토테미즘이나 민간 신앙도 해당한다. 가평의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해남의 <b>종교<\/b> (해남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5933800&cid=66793&categoryId=66815",
+			"description":"[개설] 전라남도 해남군의 <b>종교<\/b>는 고대 시대에 중국과 인도에서 전래해 온 유교와 불교, 조선 말기 무렵 전래된 천주교와 개신교, 그리고 근현대에 출현한 신<b>종교<\/b> 등이 있다. [해남 지역의 개신교]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아산의 <b>종교<\/b> (아산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5913488&cid=66498&categoryId=66519",
+			"description":"유교는 삼국시대와 고려시대를 거쳐 조선에 이르는 동안 정치 이념이자 생활 규범으로 작용하여 <b>종교<\/b>적인 측면보다는 전통으로 중요한 기능을 하였다. 유교의 근간은 고려 말에 도입된 성리학이며, 최고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영주의 <b>종교<\/b> (영주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5947928&cid=66911&categoryId=66932",
+			"description":"이런 사실들을 <b>종교<\/b>적 측면에 대입시켜보면, 부족국가시대 영주에서는 주술사인 샤먼을 통한 토속신앙이 주류를 이루고 있었을 가능성을 추정할 수 있다. 이후 영주 지역의 <b>종교<\/b>는 우리나라 일반의 <b>종교<\/b> 역사와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"달성의 <b>종교<\/b> (달성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3597525&cid=59462&categoryId=59487",
+			"description":"그것이 우리가 보편적으로 <b>종교<\/b>라고 부르는 불교·유교·기독교·이슬람교와 같은 것이다. 우리나라의 신화를 보면, 부족 국가 시대에는 곰이나 호랑이 등에 정령을 부과한 토템 신앙이었다. 하지만 고대와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"함양의 <b>종교<\/b> (함양)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5870959&cid=66065&categoryId=66086",
+			"description":"[개설] <b>종교<\/b>란 ‘근본적인 가르침’을 뜻하는 것으로, ‘(절대자인) 신과 (그 추종자인) 인간의 재결합[Re(재)와 ligion(결합)의 합성어]’을 의미한다. 이런 결합은 초자연적인 현상에서 생겨나는 공포와 사후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b> (김천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2589027&cid=51933&categoryId=54345",
+			"description":"[개설] <b>종교<\/b>(宗敎)라는 말 자체는 믿음 혹은 신앙을 의미하는 것이 아니라 가르침 가운데 최고의 가르침을 의미하는 말이었다. ‘<b>종교<\/b>’라는 말은 한국 고전 문헌에서 그 용례를 찾아보아도 1800년대를 지나야... ",
+			"thumbnail":""
+		},
+		{
+			"title":"군산의 <b>종교<\/b> (군산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2688043&cid=51946&categoryId=55024",
+			"description":"[개설] 전라북도 군산 지역의 <b>종교<\/b>는 불교·유교·천주교·개신교를 비롯한 기성 <b>종교<\/b> 외에도 기성 <b>종교<\/b>에서 파생된 신흥 <b>종교<\/b>, 그리고 민족 신앙이 체계화되어 성립한 신흥 <b>종교<\/b> 등이 있어 다양한 <b>종교<\/b>들이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b> (칠곡)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2648370&cid=51940&categoryId=54704",
+			"description":"[정의] 경상북도 칠곡군에서 신이나 초자연적인 절대자에 대한 믿음을 통하여 삶에 대한 의미를 찾는 제반 신앙 행위의 총칭. [개설] 인류는 고대로부터 자연에 대하여 두려움을 가졌으며 이로 인해 하늘과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"삼척의 <b>종교<\/b> (삼척)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5698376&cid=62938&categoryId=62959",
+			"description":"[개설] <b>종교<\/b>는 인류 역사만큼이나 오래된 것으로, 인간의 삶 및 죽음과 관련된 문제들에 관한 궁극의 관심뿐만 아니라 경험을 해석할 수 있는 이해의 틀을 제공하기도 하면서 고통을 설명해 주는 해석 틀이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청송의 <b>종교<\/b> (청송)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5736463&cid=63640&categoryId=63661",
+			"description":"[개설] 지금 남아 있는 유적이나 유물, 또는 관습 등으로 미루어 볼 때 청송군에서의 <b>종교<\/b>는 우리나라 대부분 지역에서의 경향과 크게 다르지 않다. 즉, 부족국가시대에는 주술사인 샤먼을 통한 토속신앙이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"순천의 <b>종교<\/b> (순천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5958247&cid=67067&categoryId=67088",
+			"description":"[정의] 전라남도 순천 지역에 활동하고 있는 <b>종교<\/b> 분파의 총칭 [순천의 불교] 불교의 교조는 석가모니다. 석가모니는 29세에 출가하여 깨우침을 얻은 자[Buddha]가 되었다. 불교의 세계관은 만물이 변한다는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b> (부천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2596724&cid=51883&categoryId=53337",
+			"description":"[개설] <b>종교<\/b>란 인간 문제의 궁극적 해결에 관계를 갖고 있다고 믿어지고 있는 행위를 중심으로 하는 문화 현상이다. 현재 부천시에는 유교·불교·기독교 이외에도 다수의 신<b>종교<\/b>들이 자리 잡고 있으며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영암의 <b>종교<\/b> (영암)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2611526&cid=51951&categoryId=55287",
+			"description":"[정의] 전라남도 영암군에서 초월적인 존재 및 깨달은 존재, 혹은 신을 믿고 따르는 모든 신앙 행위. [천주교] 영암군에서 천주교 교인들이 모여 교우촌을 형성하기 시작한 것은 광복 이후이다. 1954년 4월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부안의 <b>종교<\/b> (부안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6588947&cid=69471&categoryId=69492",
+			"description":"[개설] <b>종교<\/b>는 초인간적인 신이나 절대자를 신앙하여 인간 생활의 고뇌와 불안, 삶과 죽음의 문제 등을 해결하고자 하는 정신문화의 소산이다. 전라북도 부안 지역의 <b>종교<\/b>는 원시 사회의 주술적 무교(巫敎)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세종시의 <b>종교<\/b> (세종시)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6121949&cid=67578&categoryId=67599",
+			"description":"[정의] 세종특별자치시에서 이루어지는 제반 신앙 행위의 총칭. [세종 지역의 신앙] 선사시대 충청남도 지역과 한반도를 대표하는 구석기 주거 유적지인 공주 석장리는 한반도에 구석기시대부터 사람이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b> (김제)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2587401&cid=51947&categoryId=55078",
+			"description":"또한 자세한 통계는 없으나 한때는 계룡산보다도 신<b>종교<\/b>가 많았다고 전해질 정도로 모악산을 중심으로 다양한 신<b>종교<\/b>가 성행하였고 현재까지도 그 전통이 이어지고 있다. [불교] 김제 지역 불교에 중대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"강릉의 <b>종교<\/b> (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2576094&cid=51890&categoryId=53702",
+			"description":"[강릉 지역의 <b>종교<\/b>사] 백두대간 동쪽에 위치한 영동지방 대부분이 그렇듯이 강릉 역시도 산악과 해안 지대로 이루어져 있다. 그래서 강릉에는 일찍부터 산악과 바다를 신성하게 여기고 숭배하는 <b>종교<\/b>적... ",
+			"thumbnail":""
+		},
+		{
+			"title":"강남구의 Religion",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2652590&cid=51878&categoryId=51901",
+			"description":"[Definition] A generic term for various religious activities taking place in Gangnam-gu, Seoul. [Buddhism] It is hard to know when Buddhism was adopted in the present day Gangnam-gu... ",
+			"thumbnail":""
+		},
+		{
+			"title":"강남구의 <b>종교<\/b> (강남구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2573100&cid=51878&categoryId=51901",
+			"description":"[정의] 서울특별시 강남구에서 행해지는 제반 신앙 행위의 총칭. [불교] 현재의 강남구 일대에 불교가 언제 수용되었는지는 분명치 않다. 다만, 384년 백제가 동진에서 온 호승(胡僧) 마라난타를 통해 불교를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"익산의 <b>종교<\/b> (익산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6198603&cid=67842&categoryId=67863",
+			"description":"[개설] 전라북도 익산시는 다양한 <b>종교<\/b>들의 문화와 역사, 유적이 어우러진 도시이다. 익산에는 불교 문화유산이 풍부하고, 개신교 인구가 제일 많으며, 한국의 자생 <b>종교<\/b>인 원불교 총부가 있다. 또한 한국인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진도의 <b>종교<\/b> (진도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2630662&cid=51952&categoryId=55342",
+			"description":"[개설] <b>종교<\/b>는 오랜 옛날부터 여러 변화를 거치면서 인간 생활에 많은 영향을 끼쳐 왔다. 첨단과학이 <b>종교<\/b>적 현상을 부정하는 오늘날에도 <b>종교<\/b>는 많은 사람들의 내적 생활에 영향을 끼치고 있다. 인간은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"양산의 <b>종교<\/b> (양산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2606648&cid=51941&categoryId=54755",
+			"description":"[개설] <b>종교<\/b>는 신이나 절대자를 인정하여 일정한 양식 아래 그것을 믿고, 숭배하고, 받듦으로써 마음의 평안과 행복을 얻고자하는 정신문화의 한 체계를 말한다. 한국의 다른 지역과 유사하게 경상남도 양산... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대구동구의 <b>종교<\/b> (대구동구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5781252&cid=59463&categoryId=64767",
+			"description":"[개설] <b>종교<\/b>라는 말은 원래 근본이 되는 가르침을 의미하는 불교어였다. 그런데 <b>종교<\/b>라는 말이 19세기 말 일본 메이지 시대에 독일어 ‘religion’의 번역어로 쓰이게 되면서 일반화된 것이다. 현재 ‘religion’... ",
+			"thumbnail":""
+		},
+		{
+			"title":"순창의 <b>종교<\/b> (순창)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2827499&cid=55683&categoryId=55685",
+			"description":"[개설] <b>종교<\/b>는 초인간적 신을 숭배하고 신앙하여 인생의 고뇌와 불안, 삶과 죽음의 문제 등을 해결하며 행복을 얻고자 하는 정신문화의 하나이다. <b>종교<\/b>는 교리나 의례에 따라 여러 가지 형태가 있는데, 정령... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음성의 <b>종교<\/b> (음성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2620564&cid=51892&categoryId=53762",
+			"description":"[개설] 한국사에서 외래 <b>종교<\/b>로서 처음 수용되었던 것은 불교였다. 고구려에 불교가 공식적으로 들어온 해는 372년(소수림왕 2)이고 백제는 384년(침류왕 1)이며 신라는 눌지왕 때이다. 불교는 이후 조선시대에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화순의 <b>종교<\/b> (화순)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2651829&cid=51953&categoryId=55387",
+			"description":"[개설] 화순군에서는 천주교와 개신교, 근래에는 원불교와 통일교를 비롯하여 다양한 <b>종교<\/b> 시설과 신자들이 있다. <b>종교<\/b>는 가장 오래된 문화이면서도 가장 오래 이어질 문화로 이야기되기도 한다. 인간의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공주의 <b>종교<\/b> (공주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2581087&cid=51898&categoryId=54018",
+			"description":"따라서 <b>종교<\/b>적으로도 다른 지역에 비해 활발한 활동이 전개되어왔을 뿐만 아니라 높은 <b>종교<\/b>적 인구밀도를 가지고 있다. 특히 공주 지역에 있는 계룡산은 우리나라 신<b>종교<\/b>에 있어 중요한 의미를 가지는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광명의 <b>종교<\/b> (광명)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2582072&cid=51882&categoryId=53288",
+			"description":"[개설] 광명 지역의 <b>종교<\/b> 역사는 도시화되기 이전 토박이 주민들이 관습적으로 믿어 왔던 토착 신앙에서부터 출발할 수 있다. 20세기 초 초가집에서 시작된 개신교 교회, 1956년 소하동에 설립된 불교 사찰... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>종교<\/b> (고령)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2576955&cid=51931&categoryId=54236",
+			"description":"[개설] <b>종교<\/b>는 초인간적 신이나 절대자를 숭배하고 신앙하여 인간 생활의 고뇌와 불안, 삶과 죽음의 문제 등을 해결하며 행복을 얻고자 하는 정신문화의 하나이며 초기에는 토테미즘(Totemism)·애니미즘... ",
+			"thumbnail":""
+		},
+		{
+			"title":"완주의 <b>종교<\/b> (완주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5869960&cid=65973&categoryId=65994",
+			"description":"[개설] <b>종교<\/b>는 초월적 신이나 절대자를 숭배하고 신앙하여 인간 생활의 고통과 불안, 삶과 죽음의 문제 등을 해결하며 행복을 얻고자 하는 정신문화의 소산이다. 우리나라에도 초기국가시대에는 주술적 무교... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철원의 <b>종교<\/b> (철원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6082808&cid=67394&categoryId=67415",
+			"description":"[개설] 강원도 철원 지역은 원시사회에 자연과 동물숭배 신앙이 존재했고, 무당을 주축으로 하는 샤머니즘을 토대로 제천의식이 이루어지는 등 고대사회부터 현재에 이르기까지 다양한 <b>종교<\/b> 문화를 이루고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"성남의 Religion",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2654982&cid=51884&categoryId=53388",
+			"description":"[Definition] The belief in and worship of a supreme transcendental being or power, especially a personal God or gods. [Details] Religious faith is generally associated with Christianity... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150330194418351_GAAFXDKVR.jpg\/EC001P0414.jpg?type=m160_160"
+		},
+		{
+			"title":"서산의 <b>종교<\/b> (서산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2598177&cid=51929&categoryId=54127",
+			"description":"[개설] 충청남도 서산 지역은 유교, 불교, 천주교, 개신교 등의 다양한 <b>종교<\/b>가 발달되어 있는 지역이다. 일제 강점기에는 신사 참배 등을 강요하면서 한국 <b>종교<\/b>계가 탄압을 받기도 하였으나, 이들 <b>종교<\/b>는... ",
+			"thumbnail":""
+		}
+	]
+}

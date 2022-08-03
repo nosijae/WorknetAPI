@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:37 +0900",
+	"total":3705,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[원주 생활] 여러분의 이야기를 들려주세요, 2020 <b>농림어업<\/b>총조... ",
+			"link":"https:\/\/blog.naver.com\/wonju_city?Redirect=Log&logNo=222133558238",
+			"description":"곧 실시될 <b>농림어업<\/b>총조사(11월23일~12월18일)를 위한 조사요원 모집 소식을 알려드립니다!... kr ※ 2020년 11월 9일(월) 18:00 이전 도착분에 한함 ◐ 선발방법 ① 1차 서류전형 : 당해 <b>직무<\/b>수행에 관련된... ",
+			"bloggername":"원주시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/wonju_city",
+			"postdate":"20201102"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 NCS 24. <b>농림어업<\/b> 문제집... ",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220619157557",
+			"description":"<b>직무<\/b>능력평가는 여러 난이도로 문제를 구성해 직업기초능력평가에 대비하기 좋게 만들었어요. NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가24 <b>농림<\/b>,<b>어업<\/b> 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.01.20. 리뷰보기",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160205"
+		},
+		{
+			"title":"NCS기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 24 <b>농림<\/b>.<b>어업<\/b> [씨마스]",
+			"link":"https:\/\/blog.naver.com\/witheos?Redirect=Log&logNo=220714578805",
+			"description":"24 <b>농림<\/b>·<b>어업<\/b> 1) NCS(국가<b>직무<\/b>능력표준)의 분류 체계_38 2) ‘24 <b>농림<\/b>·<b>어업<\/b>’의 하위 분류_39 3) ‘24 <b>농림<\/b>·<b>어업<\/b>’의 능력단위_39 4) 능력단위별로 요구되는 ‘지식·기술·태도’_44 5) 각 능력단위에 따른... ",
+			"bloggername":"인터넷서점 북마우스",
+			"bloggerlink":"https:\/\/blog.naver.com\/witheos",
+			"postdate":"20160520"
+		},
+		{
+			"title":"「2020 <b>농림어업<\/b>총조사 사후조사」 기간제근로자 및... ",
+			"link":"https:\/\/blog.naver.com\/gogogo8949?Redirect=Log&logNo=222200018619",
+			"description":"호남지방통계청 제주사무소에서는『2020 <b>농림어업<\/b>총조사 사후조사』관련 기간제근로자 및... 모집방법 □ 서류전형 (자기소개서 포함) ○ 당해 <b>직무<\/b>수행에 관련되는 응시자의 자격 등 소정의 기준에... ",
+			"bloggername":"관점디자이너님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gogogo8949",
+			"postdate":"20210107"
+		},
+		{
+			"title":"[창직 사례: 창직 아이디어: 6차 산업 신직업 소개: ] <b>농림어업<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/newjob777?Redirect=Log&logNo=220768285627",
+			"description":"[창직 사례: 신직업 소개: 6차 산업 직업] <b>농림어업<\/b>(동물, 식물 포함) 관련 신직업들: 할랄인증컨설턴트... [창직가능한 신직업 소개] 스마트팜구축자 창직 <b>직무<\/b>개요 비닐하우스의 환경을 모니터링하고 필요한... ",
+			"bloggername":"창직 모든것! 직업 만드는 남자, 이정원의 창직연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/newjob777",
+			"postdate":"20160721"
+		},
+		{
+			"title":"<b>농림<\/b>토양평가관리산업기사 필기 기출문제 자료집",
+			"link":"https:\/\/blog.naver.com\/geniech02?Redirect=Log&logNo=222800695177",
+			"description":"동일<b>직무<\/b>분야로는 경영 · 회계 · 사무 중 생산관리, 건설, 광업자원, 기계, 재료, 화학, 전기 · 전자 중 전자, <b>농림어업<\/b>, 안전관리 분야가 인정이 됩니다. 2022 <b>농림<\/b>토양평가관리산업기사 시험은 정기기사... ",
+			"bloggername":"10초전",
+			"bloggerlink":"https:\/\/blog.naver.com\/geniech02",
+			"postdate":"20220705"
+		},
+		{
+			"title":"Ncs국가 <b>직무<\/b>능력표준",
+			"link":"https:\/\/blog.naver.com\/kkk24242?Redirect=Log&logNo=222237476020",
+			"description":"산업현장에서 <b>직무<\/b>를 수행하기 위해 요구되는 지식.기술.태도 등의 내용을 국가가 체계화 한것 입니다 Ncs 학습모튤 검색 하시면 사업관리.운전운송.영업판매.기계.전기전자.<b>농림<\/b>\/<b>어업<\/b> 까지 다양한 정보를 제공해... ",
+			"bloggername":"살리고.com",
+			"bloggerlink":"https:\/\/blog.naver.com\/kkk24242",
+			"postdate":"20210209"
+		},
+		{
+			"title":"지적산업기사 시험 응시자격 및 수험정보 총정리",
+			"link":"https:\/\/blog.naver.com\/conan613?Redirect=Log&logNo=222697462229",
+			"description":"생산관리, 디자인, 광업자원, 기계 및 재료, 화학, 전기 및 전자, <b>농림어업<\/b>, 안전관리, 환경 및 에너지 관련 <b>직무<\/b>에 해당하고 있고요! 아무래도, 전공자의 응시비율이 높은 시험인데요. 전공자가 아니거나... ",
+			"bloggername":"아우랑의 생활밀착형 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/conan613",
+			"postdate":"20220411"
+		},
+		{
+			"title":"해양환경기사, 응시자격 및 수험정보!",
+			"link":"https:\/\/blog.naver.com\/jinyeol4?Redirect=Log&logNo=222738708273",
+			"description":"보편적으로 생산관리, 광업자원, <b>농림어업<\/b>, 환경 및 에너지 분야에서의 <b>직무<\/b> 경험이 인정되고 있습니다. 자격 제한이 까다로운 편이다보니, 사실상 응시자 대부분은 전공자인 편이에요. 시험과목도 전공과목과... ",
+			"bloggername":"어쩌다 재테크",
+			"bloggerlink":"https:\/\/blog.naver.com\/jinyeol4",
+			"postdate":"20220519"
+		},
+		{
+			"title":"[2022년도] <b>농림<\/b>토양평가관리산업기사 시험 일정 안내",
+			"link":"https:\/\/blog.naver.com\/dudals2056?Redirect=Log&logNo=222774660717",
+			"description":"동일<b>직무<\/b>분야: 경영 · 회계 · 사무 중 생산관리, 건설, 광업자원, 기계, 재료, 화학, 전기 · 전자 중 전자, <b>농림어업<\/b>, 안전관리 시험과목 및 검정방법 구분 시험과목 검정방법 필기시험 1. 토양학 2.... ",
+			"bloggername":"빵미니 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dudals2056",
+			"postdate":"20220616"
+		},
+		{
+			"title":"품질경영산업기사 시험과목 종류별 출제경향",
+			"link":"https:\/\/blog.naver.com\/kimws101?Redirect=Log&logNo=222674396134",
+			"description":"관련한 <b>직무<\/b> 능력을 향상하고자 제정된 국가기술자격으로, 한국산업인력공단에서 주관하고 있는... 인쇄\/목재\/가구\/공예, <b>농림어업<\/b>, 안전 관리, 환경\/에너지 등이 있죠. 자격증을 취득하고 나면 각 분야의... ",
+			"bloggername":"원똘이유 ♬",
+			"bloggerlink":"https:\/\/blog.naver.com\/kimws101",
+			"postdate":"20220316"
+		},
+		{
+			"title":"자연생태복원기사 응시자격 시험까지 전격분석!",
+			"link":"https:\/\/blog.naver.com\/htg5433?Redirect=Log&logNo=222804946410",
+			"description":"자격 시험을 만족하는 <b>직무<\/b>로는 건설, 토목, 조경, 건설 중 도시, 교통, 에너지 중 환경 <b>직무<\/b>, <b>농림어업<\/b>으로 크게 연관되어 있지 않는 분야까지 포함되어 있습니다. 하지만 경력 증명같은 경우는 조금 까다롭게... ",
+			"bloggername":"사랑이란이름으로",
+			"bloggerlink":"https:\/\/blog.naver.com\/htg5433",
+			"postdate":"20220708"
+		},
+		{
+			"title":"알아두면 쓸모있는! 산업분야와 5대<b>직무<\/b>, ncs 국가<b>직무<\/b>능력표준",
+			"link":"https:\/\/blog.naver.com\/youthjobs?Redirect=Log&logNo=222656705169",
+			"description":"안전 <b>농림어업<\/b> 헉헉 정말 많죠? 우리 나라 직업을 이렇게 총 24가지로 분류하고있습니다. 그러면! 이중에 대표적인 <b>직무<\/b>는 어떤게 있을까요? 5대 대표<b>직무<\/b>를 알아봅시다. 경영지원 \/ 영업마케팅 \/ 연구개발... ",
+			"bloggername":"청년취업공작소",
+			"bloggerlink":"https:\/\/blog.naver.com\/youthjobs",
+			"postdate":"20220224"
+		},
+		{
+			"title":"수질환경기사 필기, 실기 응시자격에 따른취득",
+			"link":"https:\/\/blog.naver.com\/bada522?Redirect=Log&logNo=222754717453",
+			"description":"동일<b>직무<\/b>분야에는 경영, 회계, 사무 중 생상관리, 건설, 광업자원, 기계, 재료. 화학, 전기전자 중 전자, <b>농림어업<\/b>, 안전관리가 있습니다. 하지만 비전공이신 분들이거나 고등학교만 졸업한 분들은 자격이... ",
+			"bloggername":"매일 그림 그리는 그녀",
+			"bloggerlink":"https:\/\/blog.naver.com\/bada522",
+			"postdate":"20220601"
+		},
+		{
+			"title":"공기업에 취직하고 싶다면? NCS기반 공무직 <b>직무<\/b>이해 교육!",
+			"link":"https:\/\/blog.naver.com\/nkrf_blog?Redirect=Log&logNo=221591966350",
+			"description":"환경·에너지·안전, <b>농림어업<\/b> 등)으로 나눈 뒤 중분류, 소분류, 세분류로 직업을 상세하게 구분해 각각의 직업에 어떤 <b>직무<\/b>능력이 필요한지 공개하고 각각의 학습모듈을 내려받을 수 있도록 했습니다.... ",
+			"bloggername":"남북하나재단 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/nkrf_blog",
+			"postdate":"20190722"
+		},
+		{
+			"title":"프리랜서(고용보험 미적용자) 출산급여 지원받기 _ 고용센터... ",
+			"link":"https:\/\/blog.naver.com\/kyjin3361?Redirect=Log&logNo=222729591982",
+			"description":"4인이하 <b>농림어업<\/b> ㆍ고용보험 피보험단위기간 180일 수급요건 미충족자 지원내용 : 총 150만원(월... 프리랜서 계약 서류: 프리랜서계약서(근로계약서X) 등 - 고용형태(프리랜서), <b>직무<\/b>, 근무기간, 계약일자... ",
+			"bloggername":"킴유의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kyjin3361",
+			"postdate":"20220512"
+		},
+		{
+			"title":"대기환경산업기사 자격 취득방법과 전망은?",
+			"link":"https:\/\/blog.naver.com\/youthhopefoundation?Redirect=Log&logNo=222697883749",
+			"description":"동일<b>직무<\/b> 분야: 전기 · 전자 중 전자, <b>농림어업<\/b>, 경영 · 회계 · 사무 중 생산관리, 건설, 광업자원, 기계, 재료, 화학, 안전관리 대기환경산업기사 시험과목 및 검정 방법은? 구분 시험과목 검정방법 및... ",
+			"bloggername":"청년재단 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/youthhopefoundation",
+			"postdate":"20220413"
+		},
+		{
+			"title":"가스산업기사 응시자격, 학력 경력 외에 다른 방법으로 갖춰요",
+			"link":"https:\/\/blog.naver.com\/tjdxor777?Redirect=Log&logNo=222817434667",
+			"description":"식품가공, <b>농림어업<\/b>, 안전 관리, 환경•에너지 등의 <b>직무<\/b> 분야와 관련된 학과는 인정받을 수 있습니다. 하지만, 관련 학과 또는 실무경력 두 가지 모두 해당되는 사항이 없다면, 평생교육법에 의거 41학점을... ",
+			"bloggername":"미래를 위한 준비 취업스펙",
+			"bloggerlink":"https:\/\/blog.naver.com\/tjdxor777",
+			"postdate":"20220718"
+		},
+		{
+			"title":"한국고용정보원의 『청년 <b>직무<\/b>기반 취업가이드』",
+			"link":"https:\/\/blog.naver.com\/kmh334a?Redirect=Log&logNo=222129824172",
+			"description":"건설 직무 Part 3. 제조 직무(기계·전기·전자·화학 등) Part 4. 정보통신 직무 Part 5. 서비스 직무 Ⅰ, Ⅱ Part 6. 환경 및 에너지 직무 Part 7. <b>농림<\/b>·<b>어업 직무<\/b> Part 8. 공무원, 군무원 및 직업군인 Ⅲ 부록 &gt; &gt;",
+			"bloggername":"역량중심 진로이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmh334a",
+			"postdate":"20201029"
+		},
+		{
+			"title":"NCS(국가<b>직무<\/b>능력표준, National Competency Standards)란?",
+			"link":"https:\/\/blog.naver.com\/innpeoplecompany?Redirect=Log&logNo=222612687994",
+			"description":"안녕하세요!ㅎ 오늘은 NCS(National Competency Standards, 국가<b>직무<\/b>능력표준)란 무엇인지 이해하기 쉽게... kr) 아래 이미지를 보시면 1번 사업관리에서부터 24번 <b>농림어업<\/b> 모듈까지 크게 24개의 대분류가 존재하는... ",
+			"bloggername":"원주교육[기업교육\/취업특강\/서비스컨설팅\/이미지]",
+			"bloggerlink":"https:\/\/blog.naver.com\/innpeoplecompany",
+			"postdate":"20220104"
+		},
+		{
+			"title":"<b>농림<\/b>토양평가관리산업기사 자격증 파헤치기",
+			"link":"https:\/\/blog.naver.com\/jjuny_7?Redirect=Log&logNo=222591848468",
+			"description":"동일<b>직무<\/b>분야는 다음과 같습니다. 경영 · 회계 · 사무 중 생산관리, 건설, 광업자원, 기계, 재료, 화학, 전기 · 전자 중 전자, <b>농림어업<\/b>, 안전관리 다음은 <b>농림<\/b>토양평가관리산업기사 시험과목, 검정방법... ",
+			"bloggername":"산기모",
+			"bloggerlink":"https:\/\/blog.naver.com\/jjuny_7",
+			"postdate":"20211210"
+		},
+		{
+			"title":"34. <b>농림<\/b>토양평가관리산업기사(필기) 시험후기(합격)",
+			"link":"https:\/\/blog.naver.com\/gkgkgkdmd?Redirect=Log&logNo=222491150497",
+			"description":"※ 동일<b>직무<\/b>분야 - 건설 - 경영 · 회계 · 사무 중 생산관리 - 광업자원 - 기계 - <b>농림어업<\/b> - 안전관리 - 전기 · 전자 중 전자 - 재료 - 화학 2. 시험과목 &lt;필기&gt; ① 토양학 ② 비료학 ③ 재배학원론 ④... ",
+			"bloggername":"Lineast님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gkgkgkdmd",
+			"postdate":"20210901"
+		},
+		{
+			"title":"&lt;핫뉴스*좋은 뉴스 골라읽기&gt;    □2022.07.11일□",
+			"link":"https:\/\/blog.naver.com\/ssyoung56?Redirect=Log&logNo=222807000174",
+			"description":"이에 따라 세종자치경찰위는 당분간 6명의 위원 중 최연장자인 김영길(65) 위원의 위원장 <b>직무<\/b> 대행... 4%)△ <b>농림어업<\/b>(4.7%P↓, 57.9%→53.2%, 부정평가 38.4%)△ 자영업(1.8%P↓, 44.7%→42.9%, 부정평가 53.2%). 배철호... ",
+			"bloggername":"행복으로의 동행 신수용닷컴",
+			"bloggerlink":"https:\/\/blog.naver.com\/ssyoung56",
+			"postdate":"20220711"
+		},
+		{
+			"title":"전기산업기사 준비기간과 유사<b>직무<\/b> 분야 및 전망을 알아보자!",
+			"link":"https:\/\/blog.naver.com\/hackersjapan?Redirect=Log&logNo=222557555579",
+			"description":"생산관리 분야의 유사 <b>직무<\/b> 분야를 보면, 건설, 광업자원, 기계, 재료, 화학, 섬유·의복, 정보통신, 식품가공, 인쇄·목재·가구·공예, <b>농림어업<\/b>, 안전관리, 환경·에너지 분야 및 군대 생산관리 분야에서는... ",
+			"bloggername":"해커스일본어 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hackersjapan",
+			"postdate":"20211103"
+		},
+		{
+			"title":"식물보호산업기사 자격요건, 나무의사를 희망한다면",
+			"link":"https:\/\/blog.naver.com\/rmiuottxz?Redirect=Log&logNo=222819105774",
+			"description":"있고 <b>직무<\/b>의 경우엔 토목, 조경, <b>농림어업<\/b>만 인정을 해주고 있습니다. 그러나 정확한 <b>직무<\/b>의 경우 Q넷에 문의해서 확인을 하는게 제일 올바르고 빠릅니다. 이제 본론으로 들어가서 응시조건을 충족하려면 어떻게... ",
+			"bloggername":"부동산정책",
+			"bloggerlink":"https:\/\/blog.naver.com\/rmiuottxz",
+			"postdate":"20220721"
+		},
+		{
+			"title":"초록빛 제주, <b>농림어업<\/b> 관련 생산직 및 관리직(고령자 우대)",
+			"link":"https:\/\/blog.naver.com\/film1369?Redirect=Log&logNo=100159544598",
+			"description":"모집직종<b>농림어업<\/b> 관련 단순종사원(235100) 관련직종기타 생산 관련 관리자<b>직무<\/b>내용다원관리(잡초제거,차수확차가공) 접수마감일채용시까지 고용형태기간의 정함이 없는 근로계약 \/ 파견근로 비희망... ",
+			"bloggername":"제주복지뉴스",
+			"bloggerlink":"https:\/\/blog.naver.com\/film1369",
+			"postdate":"20120604"
+		},
+		{
+			"title":"[직능현장] 체계적 학습계획과 이탈자 방지로 <b>직무<\/b>능력을 UP하다!",
+			"link":"https:\/\/upgrade-u.tistory.com\/3523",
+			"description":"전자·<b>농림어업<\/b> 등 다양한 분야의 47개사와 협약을 맺어 기업에 적합한 프로그램과 학습도구를 개발 및... 앞으로도 <b>직무<\/b>능력 중심의 교육으로 더 많은 인재를 양성 해나갈 수 있기를 바랍니다! [출처... ",
+			"bloggername":"직업능력개발블로그",
+			"bloggerlink":"https:\/\/upgrade-u.tistory.com\/",
+			"postdate":"20160829"
+		},
+		{
+			"title":"NCS 기반 직업기초능력평가 필기시험문제 24 <b>농림 어업<\/b>",
+			"link":"https:\/\/blog.naver.com\/gosimart?Redirect=Log&logNo=220998136170",
+			"description":"분류 <b>직무<\/b> 해설 - 24 <b>농림어업<\/b> _38 1) NCS(국가<b>직무<\/b>능력표준)의 분류 체계 _38 2) ‘24 <b>농림어업<\/b>’의 하위 분류 _39 3) ‘24 <b>농림어업<\/b>’의 능력단위 _39 4) 능력단위별로 요구되는 ‘지식·기술·태도’ _44... ",
+			"bloggername":"온라인교육 플랫폼 캠버스에듀",
+			"bloggerlink":"https:\/\/blog.naver.com\/gosimart",
+			"postdate":"20170504"
+		},
+		{
+			"title":"2021년까지 산림기사 자격검정 현황 (응시인원, 합격인원... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222802136852",
+			"description":"산림기사 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 임업 중직무 분야 기사 등급 국가기술자격으로 자격검정 시행기관은 한국산업인력공단입니다. 2021년까지 시행한 산림기사 연도별 자격검정 응시인원... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220706"
+		},
+		{
+			"title":"축산기사 필기와 실기시험 출제기준, 실기시험 수행준거... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222699563823",
+			"description":"축산기사(Engineer Livestock) 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 축산 중직무 분야 기사 등급 국가기술자격으로 2022년 현재 정부 관련 부처는 농림축산식품부, 자격검정 수탁 시행기관은... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220413"
+		},
+		{
+			"title":"국가자격증 &quot;소방기술사&quot; 응시자격 및 시험과목은?",
+			"link":"https:\/\/blog.naver.com\/leegon0628?Redirect=Log&logNo=222824461420",
+			"description":"등 *동일<b>직무<\/b>분야 : 생산관리, 건설, 광업자원, 기계, 재료, 화학, 섬유·의복, 전기·전자, 정보통신, 식품가공, <b>농림어업<\/b>, 환경·에너지 © dazu59, 출처 Pixabay 3. 소방기술사 시험과목 소방기술사... ",
+			"bloggername":"● 하늘심리상담센터 심리상담, 최면 ●",
+			"bloggerlink":"https:\/\/blog.naver.com\/leegon0628",
+			"postdate":"20220723"
+		},
+		{
+			"title":"중요한 건 <b>직무<\/b>? <b>직무<\/b>기반 직업추천 나갑니다!",
+			"link":"https:\/\/blog.naver.com\/work_net?Redirect=Log&logNo=222674260242",
+			"description":"사업관리, 경영·회계·사무, 보건·의료, 영업판매, 음식서비스, 정보통신, <b>농림어업<\/b> 등 직업을 갖고 하는 일이라고 보면 되는데요. <b>직무<\/b>의 종류도 많고, 이름만 들어서는 주요 업무에 대해 잘 모르겠다는... ",
+			"bloggername":"일하려는 당신을 위한 케어",
+			"bloggerlink":"https:\/\/blog.naver.com\/work_net",
+			"postdate":"20220316"
+		},
+		{
+			"title":"자격증추천 &lt;<b>농림<\/b>토양평가관리산업기사&gt;란? 시험정보\/2021년... ",
+			"link":"https:\/\/blog.naver.com\/cfof3s?Redirect=Log&logNo=222398833185",
+			"description":"등 *동일<b>직무<\/b>분야: 생산관리, 건설, 광업자원, 기계, 재료, 화학, 전자, <b>농림어업<\/b>, 안전관리 시험과목 시험과목 검정방법 합격기준 필기시험 1. 토양학 2. 비료학 3. 재배학원론 4. 분석화학기초 - 객관식... ",
+			"bloggername":"백곰의 인생",
+			"bloggerlink":"https:\/\/blog.naver.com\/cfof3s",
+			"postdate":"20210615"
+		},
+		{
+			"title":"어로산업기사 필기와 실기시험 출제기준, 실기시험 수행준거... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222691523919",
+			"description":"어로산업기사(Industrial Engineer Fishery) 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 어업 중직무 분야 산업기사 등급 국가기술자격으로 2022년 현재 정부 관련 부처는 해양수산부, 자격검정 수탁... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220404"
+		},
+		{
+			"title":"건설재료시험기사 필수적인 정보!",
+			"link":"https:\/\/blog.naver.com\/gks3155?Redirect=Log&logNo=222603717777",
+			"description":"동일 <b>직무<\/b> 분야로는 경영 회계 사무 중 생산관리, 문화 예술 디자인 방송 중 디자인, 광업자원, 화학, 전기전자, <b>농림어업<\/b>, 안전관리, 환경 에너지로 분류할 수 있습니다. 독학으로 할 수 있을까? 필기에서는... ",
+			"bloggername":"Tae Woo 의 정신세계",
+			"bloggerlink":"https:\/\/blog.naver.com\/gks3155",
+			"postdate":"20211224"
+		},
+		{
+			"title":"[취뽀 (취업뽀개기) : NCS] 국가 <b>직무<\/b> 능력 표준에 대해서... ",
+			"link":"https:\/\/blog.naver.com\/ihannam?Redirect=Log&logNo=221487474422",
+			"description":"<b>농림어업<\/b> NCS는 총 24개의 대분류로 나뉘는데요, 여기서 세부적으로 중분류, 소분류, 세분류를 통해 나에게 필요한 <b>직무<\/b>능력을 볼 수 있어요. 예로, 대분류 문화 · 예술 · 디자인 · 방송 대분류 &gt; 중분류... ",
+			"bloggername":"대전 · 충청 1등 사립대학, 한남대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ihannam",
+			"postdate":"20190313"
+		},
+		{
+			"title":"지적기사 필기 시험일정 및 공부방법, 응시자격 확인",
+			"link":"https:\/\/blog.naver.com\/edupdkorea?Redirect=Log&logNo=222672416689",
+			"description":"※ 동일<b>직무<\/b>분야 : 경영·회계·사무 중 생산관리, 문화·예술·디자인·방송 중 디자인, 광업자원, 기계, 재료, 화학, 전기·전자, <b>농림어업<\/b>, 안전관리, 환경·에너지 [시험과목 및 검정방법] [합격기준] ① 필기... ",
+			"bloggername":"에듀피디 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/edupdkorea",
+			"postdate":"20220314"
+		},
+		{
+			"title":"유기농업기사 필기와 실기시험 출제기준, 실기시험 수행준거... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222704565485",
+			"description":"유기농업기사(Engineer Organic Agriculture) 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 농업 중직무 분야 기사 등급 국가기술자격으로 2022년 현재 정부 관련 부처는 농림축산식품부, 자격검정 수탁... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220418"
+		},
+		{
+			"title":"축산산업기사 필기와 실기시험 출제기준, 실기시험 수행준거... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222682166195",
+			"description":"축산산업기사(Industrial Engineer Livestock) 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 축산 중직무 분야 산업기사 등급 국가기술자격으로 2022년 현재 정부 관련 부처는 농림축산식품부, 자격검정 수탁... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220324"
+		},
+		{
+			"title":"수산양식기사 필기와 실기시험 출제기준, 실기시험 수행준거... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222711462535",
+			"description":"수산양식기사 필기와 실기시험 출제기준, 실기시험 수행준거, 2022년 자격검정 일정 수산양식기사(Engineer Aquaculture) 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 어업 중직무 분야 기사 등급... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220426"
+		},
+		{
+			"title":"국가<b>직무<\/b>표준능력, 이것이 NCS다",
+			"link":"https:\/\/blog.naver.com\/heejinli?Redirect=Log&logNo=222682793744",
+			"description":"#국가<b>직무<\/b>표준능력 #NCS #일학습병행 #직업훈련 #블라인드채용 &lt;NCS, 국가<b>직무<\/b>표준능력이란... 섬유·의복 19.전기·전자 20.정보통신 21.식품가공 22.인쇄·목재·가구·공예 23.환경·에너지·안전 24.<b>농림어업<\/b>",
+			"bloggername":"인사관리, 조직갈등, 임금체계, 직장괴롭힘, 조정",
+			"bloggerlink":"https:\/\/blog.naver.com\/heejinli",
+			"postdate":"20220325"
+		},
+		{
+			"title":"한국애견연맹 국가<b>직무<\/b>능력표준 NCS 지정교육기관 EBS펫에듀... ",
+			"link":"https:\/\/blog.naver.com\/ebs_petedu?Redirect=Log&logNo=222570832456",
+			"description":"구체적 <b>직무<\/b>를 학습할 수 있도록 이론 및 실습과 관련된 내용을 상세하게 제시하고 있습니다. NCS에서 애완동물미용 세분류 에서 NCS 학습 모듈 자료를 다운로드하실 수 있습니다 24.<b>농림어업<\/b> &gt; 02.축산... ",
+			"bloggername":"펫에듀",
+			"bloggerlink":"https:\/\/blog.naver.com\/ebs_petedu",
+			"postdate":"20211117"
+		},
+		{
+			"title":"&lt;핫뉴스*좋은 뉴스 골라읽기&gt;    □2022.06.13일□",
+			"link":"https:\/\/blog.naver.com\/ssyoung56?Redirect=Log&logNo=222772244444",
+			"description":"직업별로 가정주부(5.4%P↓, 56.6%→51.2%), 무직\/은퇴\/기타(3.9%P↓, 55.2%→51.3%), 사무\/관리\/전문직(3.4%P↓, 46.1%→42.7%), 자영업(2.2%P↓, 51.4%→49.2%), 판매\/생산\/노무\/서비스직(1.2%P↓, 45.1%→43.9%), <b>농림어업<\/b>(4.1... ",
+			"bloggername":"행복으로의 동행 신수용닷컴",
+			"bloggerlink":"https:\/\/blog.naver.com\/ssyoung56",
+			"postdate":"20220614"
+		},
+		{
+			"title":"건설안전산업기사 2022년도 시험일정 및 취득방법",
+			"link":"https:\/\/blog.naver.com\/yewonenter?Redirect=Log&logNo=222589611642",
+			"description":"동일<b>직무<\/b>에 해당하는 분야는 경영·회계·사무 중 생산관리, 건설, 광업자원, 기계, 재료, 화학, 섬유·의복, 전기·전자, 정보통신, 식품가공, 인쇄·목재·가구·공예, <b>농림어업<\/b>, 환경·에너지 등 있어 해당하는... ",
+			"bloggername":"건설정보 네트워크",
+			"bloggerlink":"https:\/\/blog.naver.com\/yewonenter",
+			"postdate":"20211208"
+		},
+		{
+			"title":"날씨와 관련 된 <b>직무<\/b>에 취업할 수 있는 자격증?",
+			"link":"https:\/\/blog.naver.com\/fnfnfl1994?Redirect=Log&logNo=222742174196",
+			"description":"동일 <b>직무<\/b> 분야로는 경영,회계,사무 중 생산관리, 건설,기계,재료,화학,섬유,의복,전기와전자, 정보통신, 식품가공, 인쇄, 목재,가구,공예와 <b>농림어업<\/b>등이 포함되고 있습니다. 이 시험은 필기와 실기로 문제가... ",
+			"bloggername":"루리Dream",
+			"bloggerlink":"https:\/\/blog.naver.com\/fnfnfl1994",
+			"postdate":"20220522"
+		},
+		{
+			"title":"실내건축자격증 응시가능한 관련 학과와 경력인정 유사<b>직무<\/b> 범위",
+			"link":"https:\/\/blog.naver.com\/designuiv1?Redirect=Log&logNo=222682481592",
+			"description":"유사<b>직무<\/b> 범위 건설 건축 02. 경영·회계·사무 중 024. 생산관리 08. 문화·예술·디자인·방송 중 082. 디자인 15. 광업자원 16. 기계 17. 재료 18. 화학 20. 전기·전자 24. <b>농림어업<\/b> 25. 안전관리 26. 환경·에너지 토목... ",
+			"bloggername":"동방디자인학원 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/designuiv1",
+			"postdate":"20220325"
+		},
+		{
+			"title":"4급이상 공무원, <b>직무<\/b> 관련 주식취득 금지… 공직자윤리법... ",
+			"link":"https:\/\/blog.naver.com\/mirae_saram?Redirect=Log&logNo=221979465903",
+			"description":"4급(특정분야 7급) 이상 공무원에 대해 <b>직무<\/b> 관련 주식취득을 금지하는 「공직자윤리법 시행령」... 서비스, <b>농림어업<\/b>, 기능원, 기계조작, 단순노무 종사자로 재취업할 경우 취업심사 면제 재산등록‧ 취업심사... ",
+			"bloggername":"대한민국 인사혁신처",
+			"bloggerlink":"https:\/\/blog.naver.com\/mirae_saram",
+			"postdate":"20200526"
+		},
+		{
+			"title":"이원택 의원 국회 통과 노력한 ‘지방세특례제한법... ",
+			"link":"https:\/\/blog.naver.com\/leebangheui?Redirect=Log&logNo=222591123790",
+			"description":"현행 부정청탁금지법에서는 원활한 <b>직무<\/b>수행 또는 사교ㆍ의례 또는 부조의 목적으로 제공되는... 아울러 이날 함께 통과된 지방세특례제한법 개정안은 코로나19 장기화로 <b>농림어업<\/b> 분야의 경제활동이 크게... ",
+			"bloggername":"BANGABANGA",
+			"bloggerlink":"https:\/\/blog.naver.com\/leebangheui",
+			"postdate":"20211209"
+		},
+		{
+			"title":"산업안전산업기사 필기 실기 시험 응시자격",
+			"link":"https:\/\/blog.naver.com\/jumpsteady?Redirect=Log&logNo=222680300625",
+			"description":"(동일<b>직무<\/b>분야: 경영 · 회계 · 사무 중 생산관리, 건설, 광업자원, 기계, 재료, 화학, 섬유 · 의복, 전기 · 전자, 정보통신, 식품가공, 인쇄 · 목재 · 가구 · 공예, <b>농림어업<\/b>, 환경 · 에너지) 3) 온라인 수업... ",
+			"bloggername":"초록연못",
+			"bloggerlink":"https:\/\/blog.naver.com\/jumpsteady",
+			"postdate":"20220323"
+		},
+		{
+			"title":"[영등포 진로직업체험지원센터] 이색 자격증을 알아보자!... ",
+			"link":"https:\/\/blog.naver.com\/1318nabi?Redirect=Log&logNo=222693068706",
+			"description":"동일<b>직무<\/b>분야 : 건설, 광업자원, 기계, 재료, 화학, 섬유·의복, 전기·전자, 정보통신, 식품가공, 인쇄·목재·가구·공예, <b>농림어업<\/b>, 안전관리, 환경·에너지 포장산업기사 시험이란? 구분 시험 과목 검정방법... ",
+			"bloggername":"영등포 진로직업체험지원센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/1318nabi",
+			"postdate":"20220406"
+		},
+		{
+			"title":"산림기사\/산업기사 응시 자격 만들기",
+			"link":"https:\/\/blog.naver.com\/uni7472486?Redirect=Log&logNo=222793567292",
+			"description":"- 경영ㆍ회계ㆍ사무 - 생산관리 직무분야와 관련된 학과 - 건설 직무분야와 관련된 학과 - 광업자원 직무분야와 관련된 학과 - 24 <b>농림어업 직무<\/b>분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26... ",
+			"bloggername":"윤선생 학점교실",
+			"bloggerlink":"https:\/\/blog.naver.com\/uni7472486",
+			"postdate":"20220629"
+		},
+		{
+			"title":"개인사업자 법인전환 이런기업은 꼭 진행하세요",
+			"link":"https:\/\/blog.naver.com\/nhc016?Redirect=Log&logNo=222831236627",
+			"description":"도소매, <b>농림어업<\/b> 등은 수입 15억원 이상으로 국세청은 탈세를 근절하기 위해 지속적인 세무조사를... 성실신고 대상자 중 불성실 사업자는 소득세 가산은 물론이고 세무조사대상으로 선정되어 <b>직무<\/b>정지... ",
+			"bloggername":"비즈파트너 경영지원",
+			"bloggerlink":"https:\/\/blog.naver.com\/nhc016",
+			"postdate":"20220728"
+		},
+		{
+			"title":"식육처리기능사 필기와 실기시험 출제기준, 실기시험... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222671031402",
+			"description":"식육처리기능사(Craftsman Fabrication of Meats) 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 축산 중직무 분야 기능사 등급 국가기술자격으로 2022년 현재 정부 관련 부처는 농림축산식품부와... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220313"
+		},
+		{
+			"title":"[기상기사]기상전문가가 되기 위한 첫걸음, 기상기사 자격시험",
+			"link":"https:\/\/blog.naver.com\/weathercomz?Redirect=Log&logNo=222617934683",
+			"description":"동일<b>직무<\/b>분야 : 경영 · 회계 · 사무 중 생산관리, 건설, 기계, 재료, 화학, 섬유 · 의복, 전기 · 전자, 정보통신, 식품가공, 인쇄 · 목재 · 가구 · 공예, <b>농림어업<\/b> 국가공인기술자격인 만큼 누구나! 모두가!... ",
+			"bloggername":"The M 디엠아카데미",
+			"bloggerlink":"https:\/\/blog.naver.com\/weathercomz",
+			"postdate":"20220110"
+		},
+		{
+			"title":"식물보호기사 필기와 실기시험 출제기준, 실기시험... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222711437300",
+			"description":"식물보호기사(Engineer Plant Protection) 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 임업 중직무 분야... 농림해충학 3. 재배학원론 4. 농약학 5. 잡초방제학 [시험시간] 2시간 30분 (시험 시작 후 시험시간 1\/2... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220426"
+		},
+		{
+			"title":"유기농업기사 응시자격,비전공자도 준비할 수 있어요!",
+			"link":"https:\/\/blog.naver.com\/qpqydhtmd?Redirect=Log&logNo=222687881549",
+			"description":"- 02 경영ㆍ회계ㆍ사무 중 024 생산관리 직무분야와 관련된 학과 - 14 건설 직무분야와 관련된 학과 - 15 광업자원 직무분야와 관련된 학과 - 24 <b>농림어업 직무<\/b>분야와 관련된 학과 - 25 안전관리 직무분야와 관련된... ",
+			"bloggername":"전문학습설계팀 교육의달인",
+			"bloggerlink":"https:\/\/blog.naver.com\/qpqydhtmd",
+			"postdate":"20220331"
+		},
+		{
+			"title":"산업현장의 새로운 미래를 열어가는 &apos;국가<b>직무<\/b>능력표준... ",
+			"link":"https:\/\/upgrade-u.tistory.com\/2953",
+			"description":"<b>농림어업<\/b> 4 12 42 국가<b>직무<\/b>능력표준은 대분류 24개, 중분류 76개, 소분류 213개, 세분류 833개로 구성되는 다양한 산업분야의 <b>직무<\/b>에 대한 직업능력을 개발할 수 있게 되었습니다. 이러한 국가<b>직무<\/b>능력표준의... ",
+			"bloggername":"직업능력개발블로그",
+			"bloggerlink":"https:\/\/upgrade-u.tistory.com\/",
+			"postdate":"20141014"
+		},
+		{
+			"title":"건설재료시험기사의 업무와 관련 자격증은?",
+			"link":"https:\/\/blog.naver.com\/minariouu?Redirect=Log&logNo=222828080293",
+			"description":"그리고 동일<b>직무<\/b>분야로는 경영, 회계, 사무 중 생산관리, 문화, 예술, 디자인, 방송 중 디자인 ,광업자원, 기계, 재료, 화학, 전지, 전자, <b>농림어업<\/b>, 안전관리, 환경 및 에너지 등이 동일<b>직무<\/b>분야에 해당이 된다고... ",
+			"bloggername":"상어 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/minariouu",
+			"postdate":"20220725"
+		},
+		{
+			"title":"소방설비기사(전기), 전망 좋은 자격증 중 하나인 이유!",
+			"link":"https:\/\/blog.naver.com\/sjcu7?Redirect=Log&logNo=222360051858",
+			"description":"동일<b>직무<\/b> 분야는 경영, 회계, 건설, 기계, 화학, 섬유의복, 전기전자, 정보통신, 식품가공, 인쇄, <b>농림어업<\/b>, 환경, 에너지 등입니다. 자격증 취득 시 우대사항, 궁금하실 텐데요. 소방설비기사(전기) 자격증을... ",
+			"bloggername":"세종사이버대학교 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sjcu7",
+			"postdate":"20210521"
+		},
+		{
+			"title":"취업 자소서 <b>직무<\/b>수행계획서! 일반 사무 행정 <b>직무<\/b> 등",
+			"link":"https:\/\/blog.naver.com\/rforc10454?Redirect=Log&logNo=222768041392",
+			"description":"정보통신, <b>농림어업<\/b> 모집유형 : 신입\/경력 채용인원 : 22명 접수방법 : 온라인접수 문의처 : ☎02... 자 ○ <b>직무<\/b>별 가점 자격증 리스트 ○ 근로조건 - 근무시간 : 전일제 - 보수 ※ 일반 3급(경력) : 4,634... ",
+			"bloggername":"SKY출신 자기소개서 대필 작성",
+			"bloggerlink":"https:\/\/blog.naver.com\/rforc10454",
+			"postdate":"20220611"
+		},
+		{
+			"title":"소방설비산업기사 기계 실기 기출문제 복원 자료",
+			"link":"https:\/\/blog.naver.com\/signsign88?Redirect=Log&logNo=222820405280",
+			"description":"동일<b>직무<\/b>분야인 경영 · 회계 · 사무 중 생산관리, 건설, 광업자원, 기계, 재료, 화학, 섬유 · 의복, 전기 · 전자, 정보통신, 식품가공, 인쇄 · 목재 · 가구 · 공예, <b>농림어업<\/b>, 환경 · 에너지 분야에서의 2년 이상... ",
+			"bloggername":"4분전",
+			"bloggerlink":"https:\/\/blog.naver.com\/signsign88",
+			"postdate":"20220720"
+		},
+		{
+			"title":"실내건축기사 자격증 인테리어 취업에 필수일까 ?",
+			"link":"https:\/\/blog.naver.com\/pattyjo1556?Redirect=Log&logNo=222829783880",
+			"description":"동일<b>직무<\/b>분야 : 경영ㆍ회계ㆍ사무 중 생산관리, 문화ㆍ예술ㆍ디자인ㆍ방송 중 디자인, 광업자원, 기계, 재료, 화학, 전기ㆍ전자, <b>농림어업<\/b>, 안전관리, 환경ㆍ에너지 간단하게 응시자격과 합격 기준에 대해... ",
+			"bloggername":"브리또의 일상과 정보 공유",
+			"bloggerlink":"https:\/\/blog.naver.com\/pattyjo1556",
+			"postdate":"20220726"
+		},
+		{
+			"title":"해양환경기사 응시자격 \/ 비전공자도 응시하는 방법?",
+			"link":"https:\/\/blog.naver.com\/qpqydhtmd?Redirect=Log&logNo=222691406296",
+			"description":"전기ㆍ전자 직무분야와 관련된 학과 - 24 <b>농림어업 직무<\/b>분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경ㆍ에너지 직무분야와 관련된 학과 이렇게 해당이 된다고 합니다. 생각보다 많은 전공의... ",
+			"bloggername":"전문학습설계팀 교육의달인",
+			"bloggerlink":"https:\/\/blog.naver.com\/qpqydhtmd",
+			"postdate":"20220404"
+		},
+		{
+			"title":"[모집] WFK 코이카 자문단 25기 모집(~6\/16)",
+			"link":"https:\/\/blog.naver.com\/wfk2012?Redirect=Log&logNo=222767444192",
+			"description":"일반행정 <b>농림<\/b>수산 수산\/<b>어업<\/b>, 작물재배 ■ 모집 공고문 및 참고자료 첨부파일 붙임 1.... 지원서 작성 매뉴얼.pdf.pdf 파일 다운로드 ※ KOICA 자문단 25기 원격자문활동 <b>직무<\/b>기술서 등의... ",
+			"bloggername":"월드프렌즈코리아 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/wfk2012",
+			"postdate":"20220610"
+		},
+		{
+			"title":"건축산업기사 응시자격 서류 이렇게 준비하세요!",
+			"link":"https:\/\/blog.naver.com\/kisamaster1000?Redirect=Log&logNo=222811836672",
+			"description":"동일<b>직무<\/b> 분야로 구분되는 것은 경영·회계·사무 중 생산관리, 문화·예술·디자인·방송 중 디자인, 광업자원, 기계, 재료, 화학, 전기·전자, <b>농림어업<\/b>, 안전관리, 환경·에너지가 있습니다. 건축산업기사... ",
+			"bloggername":"자격증정보주는 기사마스터 기요미",
+			"bloggerlink":"https:\/\/blog.naver.com\/kisamaster1000",
+			"postdate":"20220714"
+		},
+		{
+			"title":"폐기물처리기사 응시자격\/비전공자도 빠른 기간에!",
+			"link":"https:\/\/blog.naver.com\/qpqydhtmd?Redirect=Log&logNo=222686906511",
+			"description":"전자 직무분야와 관련된 학과 - 24 <b>농림어업 직무<\/b>분야와 관련된 학과 - 25 안전관리 직무분야와 관련된 학과 - 26 환경․에너지 중 261 환경 직무분야와 관련된 학과 이렇게 해당이 됩니다. 관련 학과나 실무경력이... ",
+			"bloggername":"전문학습설계팀 교육의달인",
+			"bloggerlink":"https:\/\/blog.naver.com\/qpqydhtmd",
+			"postdate":"20220330"
+		},
+		{
+			"title":"Q. 공시생을 떨게 만드는 NCS의 정체는 뭐죠?",
+			"link":"https:\/\/blog.naver.com\/swinkim?Redirect=Log&logNo=222824944492",
+			"description":"NCS(국가<b>직무<\/b>능력표준, National Competency Standards)의 정의는 산업현장에서 <b>직무<\/b>를 수행하는 데 필요한... <b>농림어업<\/b> 4 13 54 예를들면 아래와 같이 정보통신의 직업군을 대분류 - 중분류 - 소분류 - 세분류까지... ",
+			"bloggername":"금손의 취미여행",
+			"bloggerlink":"https:\/\/blog.naver.com\/swinkim",
+			"postdate":"20220722"
+		},
+		{
+			"title":"2021년 기사, 산업기사 시험 일정, 시행회 (전기기사... ",
+			"link":"https:\/\/blog.naver.com\/rich100min?Redirect=Log&logNo=222158231032",
+			"description":"회 <b>직무<\/b>분야 종 목 명 시 행 회 기사 산업기사 서비스 기사 산업기사 서비스 환경･에너지 소음진동 2·4 2 섬유･의복 의류 2 ♤ <b>농림어업<\/b> 수산양식 1·3 3 안전관리 인간공학 1·3 ♤ 식품가공... ",
+			"bloggername":"블루레이",
+			"bloggerlink":"https:\/\/blog.naver.com\/rich100min",
+			"postdate":"20201130"
+		},
+		{
+			"title":"원예기능사 필기와 실기시험 출제기준, 실기시험 수행준거와... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222668897938",
+			"description":"원예기능사(Craftsman Horticulture) 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 농업 중직무 분야 기능사 등급 국가기술자격으로 2022년 현재 정부 관련 부처는 농촌진흥청, 자격검정 수탁 시행기관은... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220310"
+		},
+		{
+			"title":"자격제도, <b>직무<\/b>분야 - 꾸버기의 꿈 25. 직업상담사, 직업정보론",
+			"link":"https:\/\/blog.naver.com\/jakepark3?Redirect=Log&logNo=222243667587",
+			"description":"국가기술자격 종목 중 임산가공기사, 임업종묘기사, 산림기사가 공통으로 해당하는 <b>직무<\/b>분야는?('19.04) ① <b>농림어업<\/b> ② 건설 ③ 안전관리 ④ 환경ㆍ에너지 정답 1 ○ 출제 이력이 있는 <b>직무<\/b>분야 (종목을... ",
+			"bloggername":"꾸버기의 꿈 : 박정규강사의 N잡러로 평생현역 살기",
+			"bloggerlink":"https:\/\/blog.naver.com\/jakepark3",
+			"postdate":"20210313"
+		},
+		{
+			"title":"산업위생관리기사 학점은행제, 고졸 비전공자 자격 갖추는 방법",
+			"link":"https:\/\/blog.naver.com\/pds9194?Redirect=Log&logNo=222824357407",
+			"description":"식품가공, <b>농림어업<\/b>, 환경 · 에너지, 인쇄 · 목재 · 가구 · 공예 등이 있습니다. 관련전공으로 졸업했는지, 동일<b>직무<\/b> 분야로인지 큐넷으로 확인을 꼭 해보시기 바랍니다. 확인을 해봤는데 응시자격이... ",
+			"bloggername":"자격증서포트",
+			"bloggerlink":"https:\/\/blog.naver.com\/pds9194",
+			"postdate":"20220722"
+		},
+		{
+			"title":"종자기능사 실기 필답형 준비 중",
+			"link":"https:\/\/blog.naver.com\/seasohee?Redirect=Log&logNo=222295863762",
+			"description":"분야 <b>농림어업<\/b> 중<b>직무<\/b>분야 농업 자격 종목 종자기능사 적용 기간 2021.1.1.∼2024.12.31 ○<b>직무<\/b>내용 : 농작물의 새로운 품종개발을 위해서 교배ㆍ선발 등의 육종행위를 수행하고, 선발된 신품종의 가장 적합한... ",
+			"bloggername":"세 아이 엄마의 고창 큐어팜",
+			"bloggerlink":"https:\/\/blog.naver.com\/seasohee",
+			"postdate":"20210402"
+		},
+		{
+			"title":"<b>어업<\/b>생산관리기사 자료와 정보 (응시자격, 출제기준, 시험과목... ",
+			"link":"https:\/\/overmt.tistory.com\/853",
+			"description":"00:48 어업생산관리기사는 '기술·기능' 분야, '<b>농림어업<\/b>' <b>직무<\/b>분야, '어업' 중직무분야 기사 등급 국가기술자격으로 자격검정 시행기관은 한국산업인력공단입니다. 어업생산관리기사 자격증을 필기시험과... ",
+			"bloggername":"무지개의 행복 나누기",
+			"bloggerlink":"https:\/\/overmt.tistory.com\/",
+			"postdate":"20170908"
+		},
+		{
+			"title":"(공기업 취업자격증)(안전관리 <b>직무<\/b>) 공기업, 공공기관이 무조건... ",
+			"link":"https:\/\/blog.naver.com\/gongpros?Redirect=Log&logNo=222425484455",
+			"description":"인쇄ㆍ목재ㆍ가구ㆍ공예 직무분야와 관련된 학과 - 24 <b>농림어업 직무<\/b>분야와 관련된 학과 - 25 안전관리... 식품, 농림어업, 환경 등 관련 전공자들은 관련 안전 자격 취득이 가능할 것으로 보이니 적극 고려해... ",
+			"bloggername":"공프로(공기업\/공공기관 취업과 이직)",
+			"bloggerlink":"https:\/\/blog.naver.com\/gongpros",
+			"postdate":"20210713"
+		},
+		{
+			"title":"건설 관련 자격증 &quot;건설안전기사&quot; 2022 시험일정은?",
+			"link":"https:\/\/blog.naver.com\/leegon0628?Redirect=Log&logNo=222832622967",
+			"description":"분야) *동일 <b>직무<\/b> 분야 : 생산관리, 건설, 광업자원, 기계, 재료, 화학, 섬유·의복, 전기·전자, 정보통신, 식품가공, 인쇄·목재·가구·공예, <b>농림어업<\/b>, 환경·에너지 © sunburned_surveyor, 출처 Unsplash 3.... ",
+			"bloggername":"● 하늘심리상담센터 심리상담, 최면 ●",
+			"bloggerlink":"https:\/\/blog.naver.com\/leegon0628",
+			"postdate":"20220728"
+		},
+		{
+			"title":"수산양식기능사 필기와 실기시험 출제기준, 실기시험... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222671034295",
+			"description":"수산양식기능사(Craftsman Aquaculture) 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 어업 중직무 분야 기능사 등급 국가기술자격으로 2022년 현재 정부 관련 부처는 해양수산부, 자격검정 수탁 시행기관은... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220313"
+		},
+		{
+			"title":"소방설비기사 전기 실기 기출문제 필답형 자료",
+			"link":"https:\/\/blog.naver.com\/thty0516?Redirect=Log&logNo=222818203631",
+			"description":"소방설비기사와 동일<b>직무<\/b>로 인정되는 분야에는 경영 · 회계 · 사무 중 생산관리, 건설, 광업자원, 기계, 재료, 화학, 섬유 · 의복, 전기 · 전자, 정보통신, 식품가공, 인쇄 · 목재 · 가구 · 공예, <b>농림어업<\/b>, 환경... ",
+			"bloggername":"2분전",
+			"bloggerlink":"https:\/\/blog.naver.com\/thty0516",
+			"postdate":"20220719"
+		},
+		{
+			"title":"[건설안전산업기사 응시자격] 건안산기 비전공자 응시 가능?... ",
+			"link":"https:\/\/blog.naver.com\/g_master0?Redirect=Log&logNo=222801207475",
+			"description":"동일<b>직무<\/b>분야 : 경영, 회계, 사무 중 생산관리, 건설, 광업자원, 기계, 재료, 화학, 섬유, 의복, 전기, 전자, 정보통신, 식품가공, 인쇄, 목재, 가구, 공예, <b>농림어업<\/b>, 환경, 에너지 본인이 건설안전산업기사... ",
+			"bloggername":"산업마스터 - 안전 및 보건관리 취업\/현직자 정보",
+			"bloggerlink":"https:\/\/blog.naver.com\/g_master0",
+			"postdate":"20220705"
+		},
+		{
+			"title":"2021년까지 산림기능사 자격검정 현황 (응시인원, 합격인원... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222771207803",
+			"description":"산림기능사 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야, 임업 중직무 분야 기능사 등급 국가기술자격으로 자격검정 시행기관은 한국산업인력공단입니다. 2021년까지 시행한 산림기능사 연도별 자격검정... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20220613"
+		},
+		{
+			"title":"국가기술자격 유사<b>직무<\/b>분야 개정 적용",
+			"link":"https:\/\/tg1004.tistory.com\/1854",
+			"description":"반응형 2019년 국가기술자격 유사<b>직무<\/b>분야 개정 적용 2019년 국가기술자격법 시행규칙 개정에... <b>농림어업<\/b> 25. 안전관리 26. 환경ㆍ에너지 08. 문화ㆍ예술ㆍ디자인ㆍ방송 082. 디자인 14. 건설 중... ",
+			"bloggername":"닥공닷컴 :: 닥공닷컴",
+			"bloggerlink":"https:\/\/tg1004.tistory.com\/",
+			"postdate":"20190716"
+		},
+		{
+			"title":"[채용 <b>직무<\/b>분석] <b>농림<\/b>수산식품교육문화정보원",
+			"link":"https:\/\/blog.naver.com\/bluegreen0807?Redirect=Log&logNo=221471427540",
+			"description":"<b>농림<\/b>수산식품교육문화정보원에서 채용하는 <b>직무<\/b>를 분석해보자! (출처: 기관 홈페이지) 경영혁신본부, 인재양성본부, 농식품소비본부, 지식융합본부로 구성된다. 경영기획 전략을 수립하고 자원을 배분하고... ",
+			"bloggername":"직업도서관",
+			"bloggerlink":"https:\/\/blog.naver.com\/bluegreen0807",
+			"postdate":"20190221"
+		},
+		{
+			"title":"ncs 기본정보 :: 국가<b>직무<\/b>능력표준",
+			"link":"https:\/\/blog.naver.com\/speedauction1?Redirect=Log&logNo=222176705341",
+			"description":"ncs <b>직무<\/b>분야 24가지 사업관리 경영·회계·사무 금융보험 교육·자연·사회과학 식품가공 보건의료 사회복지종교 환경·에너지·안전 운전·운송 영업판매 경비청소 <b>농림어업<\/b> 음식서비스 건설 기계 재료... ",
+			"bloggername":"스피드옥션과 함께 배우는 부동산 경매의 모든 것!",
+			"bloggerlink":"https:\/\/blog.naver.com\/speedauction1",
+			"postdate":"20201221"
+		},
+		{
+			"title":"직업상담사 2급 직업정보론 국가기술자격 <b>직무<\/b>분야 관련... ",
+			"link":"https:\/\/blog.naver.com\/nikoniko88?Redirect=Log&logNo=221982224617",
+			"description":"국가기술자격 종목 중 임산가공기사, 임업종묘기사, 산림기사가 공통으로 해당하는 <b>직무<\/b>분야는? ① <b>농림어업<\/b> ② 건설 ③ 안전관리 ④ 환경・에너지 4. 국가기술자격종목과 그 <b>직무<\/b>분야의 연결이 틀린... ",
+			"bloggername":"반짝반짝 빛나는 blog*^^*",
+			"bloggerlink":"https:\/\/blog.naver.com\/nikoniko88",
+			"postdate":"20200528"
+		},
+		{
+			"title":"공통으로 해당하는 <b>직무<\/b>분야는? 19-2, 12-3[정보3] p.136",
+			"link":"https:\/\/blog.naver.com\/rhkrtjdaks1?Redirect=Log&logNo=221530107585",
+			"description":"19-2, 12-3[정보3] p.136 ㉮ 건설 ㉯ 농업임업 ㉰ 안전관리 ㉱ 환경·에너지 ☞㉯ &lt;해설&gt; ㉯ 임산가공기사, 임업종묘기사, 산림기사는 24 <b>농림어업<\/b>(<b>직무<\/b>분야) 중 243 임업(중직무분야)에 해당한다.... ",
+			"bloggername":"경제초보의 직업상담사 공부",
+			"bloggerlink":"https:\/\/blog.naver.com\/rhkrtjdaks1",
+			"postdate":"20190505"
+		},
+		{
+			"title":"신규 자영업자 사업자금 조달방법<b>농림어업<\/b>제외 2014년4월",
+			"link":"http:\/\/ksec.kr\/3612253971",
+			"description":"신규 자영업자 사업자금 조달방법<b>농림어업<\/b>제외 2014년4월 2014년 중소기업 진단비만을 핵심<b>직무<\/b>능력향상 지원 2013년형 재건축 따른 의 부동산정책의 공택 조달방안에 변화에 관. 융자금원리금 상해질병종합... ",
+			"bloggername":"케이에스이씨",
+			"bloggerlink":"http:\/\/ksec.kr\/",
+			"postdate":"20131011"
+		},
+		{
+			"title":"중소기업 훈련 지원, 국가<b>직무<\/b>능력표준",
+			"link":"https:\/\/bestlabor.tistory.com\/750",
+			"description":"<b>농림어업<\/b> &lt; 국가<b>직무<\/b>능력표준(NCS) 예시 &gt; ● 각 NCS에서는 필요로 하는 <b>직무<\/b>능력을 제시하고, <b>직무<\/b>수행에 필요한 지식, 기술, 태도 등을 구체적으로 제시 ● ‘가전기기 하드웨어 개발’ NCS의 내용... ",
+			"bloggername":"알기 쉽게 설명한 노동법",
+			"bloggerlink":"https:\/\/bestlabor.tistory.com\/",
+			"postdate":"20210729"
+		},
+		{
+			"title":"<b>농림<\/b>수산식부 전문가(법무행정, <b>어업<\/b>협상) 제한경쟁 특별채용",
+			"link":"https:\/\/blog.naver.com\/stock9999?Redirect=Log&logNo=110048070494",
+			"description":"한·일 <b>어업<\/b>협상시 한국정부의 통역 및 협상대변 - 행정사무관 : 법령 및 훈령 제·개정 : <b>농림<\/b>수산식... 제출서류 - 응시원서 - 이력서 - <b>직무<\/b>수행계획서 - 최종학교 졸업증명서 - 박사학위기(증서) 사본... ",
+			"bloggername":"證券과人生",
+			"bloggerlink":"https:\/\/blog.naver.com\/stock9999",
+			"postdate":"20090523"
+		},
+		{
+			"title":"이렇게 달라집니다! 공직자윤리법 &amp; 시행령 개정",
+			"link":"https:\/\/blog.naver.com\/mirae_saram?Redirect=Log&logNo=221989831092",
+			"description":"<b>직무<\/b>관련 주식 취득 불가 4급(특정 분야 7급) 이상 공무원은 <b>직무<\/b>와 관련된 주식을 새롭게 취득할 수... 서비스·<b>농림어업<\/b>·기능원·기계조작·단순노무종사자에 속하는 직업군 '현장·상황관리 업무 전담' 소방위... ",
+			"bloggername":"대한민국 인사혁신처",
+			"bloggerlink":"https:\/\/blog.naver.com\/mirae_saram",
+			"postdate":"20200604"
+		},
+		{
+			"title":"한국고용정보원, ‘청년 <b>직무<\/b>기반 취업가이드’ 발간",
+			"link":"https:\/\/blog.naver.com\/biz_data?Redirect=Log&logNo=222013831351",
+			"description":"에너지 △<b>농림<\/b>·<b>어업<\/b> △공무원, 군무원 및 직업군인 등 8대 직업 분야로 나눠 소개하고 있다. 관심 분야에 따라 △관련 직업 △주요 수행 <b>직무<\/b> △취업시 필요자격 및 역량 △4차 산업혁명 시대 트렌드 및... ",
+			"bloggername":"이너피플",
+			"bloggerlink":"https:\/\/blog.naver.com\/biz_data",
+			"postdate":"20200627"
+		},
+		{
+			"title":"임상시험코디네이터 등 청년 <b>직무<\/b>기반 취업가이드 발간",
+			"link":"https:\/\/blog.naver.com\/coricon?Redirect=Log&logNo=222015028220",
+			"description":"* 건설, 제조, 정보통신, 환경 및 에너지, <b>농림<\/b>·<b>어업<\/b>, 공무원·군무원 및 직업군인 등 관심 분야에 따라 ▲ 관련 직업 ▲ 주요 수행 <b>직무<\/b> ▲ 취업 시 필요 자격 및 역량 ▲ 4차 산업혁명 시대 트렌드 및... ",
+			"bloggername":"디지털_노마드",
+			"bloggerlink":"https:\/\/blog.naver.com\/coricon",
+			"postdate":"20200628"
+		},
+		{
+			"title":"임업종묘기사, 산림기사가 공통으로 해당하는 <b>직무<\/b>분야는? 12-3",
+			"link":"https:\/\/blog.naver.com\/rhkrtjdaks1?Redirect=Log&logNo=220697947101",
+			"description":"12-3, 19-2[정보3] p.136 ㉮ 건설 ㉯ 농업임업 ㉰ 안전관리 ㉱ 환경·에너지 ☞㉯ &lt;해설&gt; ㉯ 임산가공기사, 임업종묘기사, 산림기사는 24 <b>농림어업<\/b>(<b>직무<\/b>분야) 중 243 임업(중직무분야)에 해당한다. * Q... ",
+			"bloggername":"경제초보의 직업상담사 공부",
+			"bloggerlink":"https:\/\/blog.naver.com\/rhkrtjdaks1",
+			"postdate":"20160501"
+		},
+		{
+			"title":"나도 &apos;도시농업전문가&apos;가 되어볼까?! 양성교육 교육생 모집!",
+			"link":"https:\/\/blog.naver.com\/haechiseoul?Redirect=Log&logNo=221824333339",
+			"description":"신청기간 2020.2.25(화) 10:00~3.3(화) 17:00 신청자격 ① 「도시농업의 육성 및 지원에 관한 법률」 관련 도시농업 관련 국가기술자격 소지자, 또는 「국가기술자격법」 관련 <b>농림어업<\/b>(농업, 임업) <b>직무<\/b> 분야... ",
+			"bloggername":"서울특별시 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/haechiseoul",
+			"postdate":"20200226"
+		},
+		{
+			"title":"직업기초능력과 <b>직무<\/b>수행능력",
+			"link":"https:\/\/blog.naver.com\/giec2000?Redirect=Log&logNo=221302930106",
+			"description":"<b>농림어업 직무<\/b>수행능력 TIP 지금NCS를 반영하는 기관에서 직무수행능력 시험을 치른다면, ‘전공필기시험’을 본다고 생각하시면 됩니다. 이공계는 ‘전공서적’ 혹은 기사 시험을 준비하였다면 기사 문제를... ",
+			"bloggername":"국제정보교육원",
+			"bloggerlink":"https:\/\/blog.naver.com\/giec2000",
+			"postdate":"20180620"
+		},
+		{
+			"title":"전 알아두기 2)국가기술자격_응시자격_ 동일 및 유사<b>직무<\/b> 분야",
+			"link":"https:\/\/blog.naver.com\/catpark5?Redirect=Log&logNo=222245206672",
+			"description":"중<b>직무<\/b>분야(61) 02. 경영.회계.사무 14. 건설 15. 광업자원 16. 기계 17. 재료 18. 화학 19. 섬유·의복 20. 전기·전자 21. 정보통신 22. 식품가공 23. 인쇄·목재·가구·공예 24. <b>농림어업<\/b> 25. 안전관리... ",
+			"bloggername":"파크앤슬로우 park&slow",
+			"bloggerlink":"https:\/\/blog.naver.com\/catpark5",
+			"postdate":"20210216"
+		},
+		{
+			"title":"2022년 화훼장식산업기사 자격검정 시행, 시험 일정, 시험과목... ",
+			"link":"https:\/\/blog.naver.com\/gun08?Redirect=Log&logNo=222603014116",
+			"description":"화훼장식산업기사(Industrial Engineer Floral Design) 자격은 기능·기술 분야, <b>농림어업 직무<\/b> 분야 산업기사 등급 국가기술자격으로 2021년 현재 정부 관련 부처는 농림축산식품부, 2022년도 자격검정 수탁... ",
+			"bloggername":"행복한 만남 ─*:.☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/gun08",
+			"postdate":"20211223"
+		},
+		{
+			"title":"제7차 한국표준직업분류의 <b>직무<\/b>능력수준 중 제2직능 수준이... ",
+			"link":"https:\/\/blog.naver.com\/rhkrtjdaks1?Redirect=Log&logNo=222218603145",
+			"description":"제7차 한국표준직업분류의 <b>직무<\/b>능력수준 중 제2직능 수준이 요구되는 대분류는? 20-2 ㉮ 관리자... 6 <b>농림어업<\/b> 숙련 종사자 제2직능 수준 7 기능원 및 관련 기능 종사자 제2직능 수준 8 장치·기계조작 및... ",
+			"bloggername":"경제초보의 직업상담사 공부",
+			"bloggerlink":"https:\/\/blog.naver.com\/rhkrtjdaks1",
+			"postdate":"20210124"
+		},
+		{
+			"title":"청년과 지역기업을 잇다, 비대면·디지털 청년 일자리 사업에... ",
+			"link":"https:\/\/blog.naver.com\/gjcityi?Redirect=Log&logNo=222220700201",
+			"description":"산업(<b>농림어업<\/b>·제조업 등) 분야에서 디지털 기술을 활용한 <b>직무<\/b> * 온라인콘텐츠 제작·관리, 온라인플랫폼 구축, IT기술 활용, 빅데이터 분석, 비대면 고객지원업무, 홈페이지 제작·관리 등 - 단순 상담... ",
+			"bloggername":"광주시 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/gjcityi",
+			"postdate":"20210126"
+		},
+		{
+			"title":"건축산업기사 응시자격 알아보고 확실하게 시험 준비하자!!",
+			"link":"https:\/\/blog.naver.com\/julysailor?Redirect=Log&logNo=222647474642",
+			"description":"화학 직무분야 관련 학과 - <b>농림어업 직무<\/b>분야 관련 학과 - 안전관리 직무분야 관련 학과 건축산업기사 관련 학과 이렇게 알려드린 위의 학과와 연관이 되어있으면 관련학과 대학졸업자로 응시자격이... ",
+			"bloggername":"공부해서 취업하자",
+			"bloggerlink":"https:\/\/blog.naver.com\/julysailor",
+			"postdate":"20220214"
+		},
+		{
+			"title":"직업상담사 2급 실기 기출",
+			"link":"https:\/\/blog.naver.com\/sesikool?Redirect=Log&logNo=222830781872",
+			"description":"<b>직무<\/b>분석을 위한 방법을 5가지 쓰시오. 면관체설중요작업녹화 (최초) (2021년 1회, 2020년 4회, 20127년... 종사자 <b>농림 어업<\/b> 숙련 종사자 기능원 및 관련기능 종사자 장비 기계조작 및 조립 종사자 단순 종사자... ",
+			"bloggername":"계획된우연",
+			"bloggerlink":"https:\/\/blog.naver.com\/sesikool",
+			"postdate":"20220727"
+		},
+		{
+			"title":"직업능력개발 \/ 국가<b>직무<\/b>능력표준 (National... ",
+			"link":"https:\/\/blog.naver.com\/starnomu2?Redirect=Log&logNo=222393727024",
+			"description":"환경ㆍ에너지ㆍ안전 24.<b>농림어업<\/b> □ 국가<b>직무<\/b>능력표준(NCS) 예시 · 각 NCS에서는 필요로 하는 <b>직무<\/b>능력을 제시하고, <b>직무<\/b>수행에 필요한 지식, 기술, 태도 등을 구체적으로 제시] [예시: ‘가전기기... ",
+			"bloggername":"스타노무법인",
+			"bloggerlink":"https:\/\/blog.naver.com\/starnomu2",
+			"postdate":"20210611"
+		}
+	]
+}

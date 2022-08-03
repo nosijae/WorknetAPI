@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:03 +0900",
+	"total":89731,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[현대건설 면접] 2022년도 상반기 현대<b>건설 직무<\/b> 및 SPA면접 후기",
+			"link":"http:\/\/cafe.naver.com\/specup\/7018161",
+			"description":"자신의 역량과 경험이 현대<b>건설<\/b> 해당 <b>직무<\/b>에 어떤 도움이 될 지? ☑️간단한 면접 TIP은? 면접은 이어서 하는 것이 아닌 <b>직무<\/b>면접, 인터뷰 시간이 따로 배치되어 있기 때문에 이를 고려해서 스터디룸도 대관하시길... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"[서울 사당\/강남] 삼성물산 <b>건설<\/b> 임원, 전기 <b>직무<\/b> 스터디 모집",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11700590",
+			"description":"삼성물산 <b>건설<\/b> 전기<b>직무<\/b>, 임원 면접 스터디 모집합니다. 인원은 4명 계획중이며 제가 현직자라 평일은 6시반 이후 주 말 조율해서 운영할 계획입니다! 전기<b>직무<\/b>분들로만 구성하여 임원&amp;<b>직무<\/b> 면접 준비 하는것을... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"대우<b>건설<\/b> 채용 <b>직무<\/b>, 자소서 항목 4개 전문+서류대비 가이드북 신청, <b>건설<\/b>사 연봉 16위까지",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1863788",
+			"description":"대우<b>건설<\/b> 채용 상세 <b>직무<\/b>는 총 17깁니다. 토목부문에서 5개의 <b>직무<\/b>, 건축 부문에서 2개의 <b>직무<\/b> 기계부문에서 2개, 전기부문에서 2개 안전 1개 사무부문에서 5개의 <b>직무<\/b>를 모집합니다. 대우<b>건설<\/b> 채용... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"<b>건설<\/b>기술인 <b>직무<\/b> 교육",
+			"link":"http:\/\/cafe.naver.com\/skcarrier\/53205",
+			"description":"어제 (2022.6.24)는 광주광역시청 3층 대회의실에서 실시한 한국<b>건설<\/b>기술인협회 주최 <b>건설<\/b>기술인 <b>직무<\/b> 교육 다녀 왔습니다 .",
+			"cafename":"냉동공조인들의모임 냉동창고 에어컨 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/skcarrier"
+		},
+		{
+			"title":"현대<b>건설 직무<\/b>소개",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11174646",
+			"description":"현대<b>건설 직무<\/b>소개 부분 있잖아요 ㅠㅠㅠㅠ 저만 직무 보는 게 어렵나요,,,? 어떤 부서가 있는지 잘 모르겠어요 ㅠㅠ 그냥 인터뷰 형식으로만 올라와 있어서,,, 꼭 봐야할 이번주 독취사 인기글... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"영어 성적이 너무 안좋은데 이걸로는 커버가 안되겠죠..ㅠ(토목\/<b>건설<\/b>\/설계 <b>직무<\/b>)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11739625",
+			"description":"- 학교\/전공\/학점 : 지방국립\/토목\/3.58 - 어학점수 : 오픽 IL - 자격증 : 토목기사, <b>건설<\/b>안전기사 - 경력사항... 회사\/부서\/<b>직무<\/b> (하나만 선택해도 OK) 설계회사 도화, 한종 취업카페 회원수 1위, 독취사에서 받고 싶은 조언은?... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"대우<b>건설<\/b> 토목<b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1862114",
+			"description":"이번에 채용하는 대우<b>건설<\/b> 토목-시공 <b>직무<\/b>와 토목-건축토목의 <b>직무<\/b> 특성이 어떻게 다른건가요? 주변에 현직자가 안계셔서 물어볼 수가 없어서 궁금합니다 이번주 취업대학교 인기글 사회생활은... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"롯데<b>건설<\/b> 19개 <b>직무<\/b> 채용, 채용전형\/일정\/전형별 평가방식",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1818558",
+			"description":"롯데<b>건설<\/b> 채용 <b>직무<\/b> 전체는 아래 공고 게시물을 참고하세요~ https:\/\/cafe.naver.com\/bebettergirls\/1817677 무료인데 강의까지 제공되는 스터디! 5일 동안 빡세게! 삼성 GSAT 5일 완성 온라인 스터디 모집중 https:\/\/bit.ly... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"신동아<b>건설 직무<\/b> 관련 질문이요!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10751505",
+			"description":"안녕하세요 이제 대학 졸업예정자라 이곳저곳 보다가 신동아<b>건설<\/b> 이라는 회사를 보게 되었습니다. 지원<b>직무<\/b>에 기술과 사무로 나뉘어있는데 기술 전기랑 사무 현장관리의 하는일과 차이점을... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>건설<\/b>기술인 <b>직무<\/b>분야 중 '<b>건설<\/b>지원' 은 거의 쓰일 일이 없나요?",
+			"link":"http:\/\/cafe.naver.com\/0moo\/349651",
+			"description":"<b>건설<\/b>기술인협회 회원 가입하고 <b>직무<\/b>분야를 '건축' 으로 할 생각인데, 갑자기 궁금해졌습니다. 10개의 <b>직무<\/b>분야 중 '<b>건설<\/b>지원' 을 선택하게 되면 추후에 이직을 하거나 취업시 크게 도움될 일은 없겠죠?",
+			"cafename":"건설공무",
+			"cafeurl":"https:\/\/cafe.naver.com\/0moo"
+		},
+		{
+			"title":"<b>직무<\/b>교육(제조-&gt;<b>건설<\/b>) 이수 여부",
+			"link":"http:\/\/cafe.naver.com\/hksafety\/105106",
+			"description":"제조 쪽에 취업해서 신규 <b>직무<\/b>교육을 (제조업 및 기타업)으로 이수했는데 <b>건설<\/b>업으로 이직시 <b>직무<\/b>교육을 (<b>건설<\/b>업)으로 다시 받아야되나요? 있다가 나중에 보수를 (<b>건설<\/b>업)으로 받으면 안되나요?",
+			"cafename":"대한민국 건설현장 안전관리 비법 공유",
+			"cafeurl":"https:\/\/cafe.naver.com\/hksafety"
+		},
+		{
+			"title":"GS<b>건설<\/b> 인테리어 <b>직무<\/b> 쓰시는 분!",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1854012",
+			"description":"GS<b>건설<\/b> 인테리어 <b>직무<\/b> 쓰시는 분 있으신가요! 자소서 문항이 어려워서 너무 고민이 많네요ㅠㅠ특히 2번,,ㅠㅠㅠ 세후 220인데 나가는 돈이 145... https:\/\/cafe.naver.com\/bebettergirls\/1845010 연봉 6000...... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"29살 대기업 <b>건설직무<\/b> 스펙평가좀 부탁드려요",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7590534",
+			"description":"대기업 <b>건설 직무<\/b> 지원 (신입) -대림 현재 나의 스펙은? - 학교\/전공\/학점 : 한양\/ 건공\/ 3.6 - 어학점수 : 토스 6 - 자격증 : 건축기사 . mos master. Leed ga - 경력사항(알바,인턴 등) : 대기업건설 정규직 1년8개월 \/ 대기업건설... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"산업안전기사와 <b>건설<\/b>안전기사",
+			"link":"http:\/\/cafe.naver.com\/anjun\/940420",
+			"description":"<b>건설<\/b>시공 <b>직무<\/b>를 생각하고 있어서 건축기사를 취득 한 상황인데 산업안전기사를 합격한다는 전제하에 <b>건설<\/b>안전기사를 따는건 비효율적일까요? 혹시 <b>건설<\/b>시공 <b>직무<\/b>를 생각한다면 필요하거나 있으면 좋은 기사 추천... ",
+			"cafename":"산준모★산업안전기사｜위험물산업기사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anjun"
+		},
+		{
+			"title":"25살 <b>건설 직무<\/b> 스펙평가좀 부탁드립니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9480934",
+			"description":"입사 희망 회사\/부서\/<b>직무<\/b> (하나만 선택해도 OK) 대기업 <b>건설<\/b>회사들 또는 LH,SH... 취업카페 회원수 1위, 독취사 회원님들에게 받고 싶은 조언은? 1. 무엇을 더 준비해야 할까요? 전역하고 인턴 알바? 2. 방학 때 훈련받는다고... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"2022년 상반기 GS<b>건설<\/b> 합격후기입니다",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11759047",
+			"description":"(여러 군데 합격하셨다면 모두 작성도OK) - 합격시기 : 2022년 상반기 - 합격기업 : GS<b>건설<\/b> - <b>직무<\/b>\/부서 : 환경설계 - 응시 지원 자격(신입\/경력) : 신입 ✍미래의 후배님들을 위해 간단한 합격스펙을 공유해주세요. - 학교... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"25살 <b>건설직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/specup\/5936540",
+			"description":"※게시글 제목에 '원하는 <b>직무<\/b>'를 반드시 포함시켜주세요. 더 좋고 많은 댓글 조언을 받을 수 있습니다!... 포스코 <b>건설<\/b> 1군 <b>건설<\/b>사로 가고 싶습니다. 제가 방학중에는 rotc훈련 가고, 휴학을 못해서 인턴경험이 전무한... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"GS<b>건설<\/b> 채용 <b>직무<\/b> 관련해서",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1787060",
+			"description":"안녕하세요 GS<b>건설<\/b> 지원하려고 합니다! 플랜트 설계 아니면 건축수행 중에 고민중인데 둘 다 현장 나가는 <b>직무<\/b>이지요? <b>직무<\/b> 관련해서 정보가 좀 부족하네요..ㅠ 다들 좋은 결과 있길 바랍니다! 취업대학교... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"포스코<b>건설<\/b> 자소서 항목 총 4개 전문확인, 2021년 포스코 <b>건설<\/b> 채용<b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1726641",
+			"description":"이번 포스코<b>건설<\/b> 채용 <b>직무<\/b>와 채용전형도 함께 알려드리도록 하겠습니다. 포스코<b>건설<\/b> 자소서 접수일정은 4월 13일 ~ 5월 3일입니다. 포스코<b>건설<\/b> 채용 분야는 플랜트, 인프라, 건축, 안전입니다. 상세... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"롯데<b>건설<\/b> 채용 <b>직무<\/b> 총 7개! 어떤 <b>직무<\/b>가 있는지, 일정까지 확인해보세요.",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1766098",
+			"description":"21년 하반기 롯데<b>건설<\/b> 채용은 총 7개의 <b>직무<\/b>에서 채용이 진행됩니다. 토목시공, 건축시공, 설계\/인테리어, 기계시공, 안전, 주택영업, 경영지원직입니다. 필수 지원자격은 기본적으로 해당 <b>직무<\/b>의... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"포스코와 포스코 <b>건설 직무<\/b> 차이, 도와주세요 ㅠ",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/4831863",
+			"description":"포스코의 토목\/건축 분야에서 하는 <b>직무<\/b>와 포스코 <b>건설<\/b>의 토목\/건축에서 하는 <b>직무<\/b>가 어떻게 다른가요? 1. 포스코는 주로 공장, 플랜트를 얘기하는 건가요? 포스코 <b>건설<\/b>은 아파트라던지 일반 건축물을 얘기하는 건가요. 2.... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"포스코<b>건설 직무<\/b>적성검사 급질문이요..",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/2576300",
+			"description":"포스코<b>건설<\/b> 서류전형 합격자 인데요 안내문에 분석발표, 그룹토론, <b>직무<\/b>적합성평가, 조직적합성평가로 총 4가지 본다고 되어잇는데 <b>직무<\/b>적합성은 개인면접으로 약 10분 걸린다고 적혀있네요.. 이번에 포스코 <b>직무<\/b>적성... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>건설<\/b>기술자수첩 <b>직무<\/b>분야 전문분야 변경신고",
+			"link":"http:\/\/cafe.naver.com\/114er\/97285",
+			"description":"20년전 경력은 뗄방법도 없고 금일 과거 한국<b>건설<\/b>기술인협회 <b>건설<\/b>기술자 경력수첩상 <b>직무<\/b>분야변경해서 경력확인서 대신했고 다음주 전에 5년 다닌회사 경력확인서 받고 지금회사 경력확인서 받아서 다음주... ",
+			"cafename":"시설관리몰(M)",
+			"cafeurl":"https:\/\/cafe.naver.com\/114er"
+		},
+		{
+			"title":"금호<b>건설<\/b> 채용 <b>직무<\/b> 5개, 채용 자격요건과 우대사항까지 확인하세요!",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1691979",
+			"description":"금호<b>건설<\/b> 채용 <b>직무<\/b>와 자격요건까지 다 확인해보세요. 금호<b>건설<\/b> 채용시 전국 근무지인 <b>직무<\/b>는 2개입니다. 바로 시공\/건축설비와 안전관리입니다. 금호<b>건설<\/b> 채용 지원시 모집 전공이 정해져있고 시공... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"기계공학과 취업 및 자격증 리스트 의외로 다양하네요 !",
+			"link":"http:\/\/cafe.naver.com\/mdsv\/30772",
+			"description":"1️⃣ 경영,회계,사무 •직무분야 : 생산관리 ➢ 공장관리, 포장기술사(기사,산업기사) 품질관리기술사(기사,산업기사) 등 2️⃣ <b>건설<\/b> •<b>직무<\/b>분야: 건축 ➢ 건축구조기술사, 건축기계설비 건축기사(산업기사) 건축목공... ",
+			"cafename":"산업마스터-산업안전기사,위험물산업기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mdsv"
+		},
+		{
+			"title":"대학생 알바 및 인턴 등 방학에 할만한 활동 추천!",
+			"link":"http:\/\/cafe.naver.com\/specup\/7014635",
+			"description":"출처: 링커리어 <b>건설 직무<\/b>를 모집하며, 역시 인턴으로 채용됩니다~! 토목, 건축 및 주택 분야 전공자분들에게 솔깃한 내용이네요! 홈페이지에서 접수 가능해요!! 대학생 알바 추천 3 카카오i리스 출처: 링커리어... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"현대<b>건설<\/b> 토목 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10925011",
+			"description":"현대<b>건설<\/b> 토목 <b>직무<\/b> 몇개로 나눠나요? 보통 PJT이거나 인턴이던데 실제 정규직 전환 가능성이 진짜로 적나요?",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>건설<\/b>기술진흥법시행령 별표1 <b>건설<\/b>기술인의 <b>직무<\/b>분야 및 전문분야 관련 공고문작성",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/305273",
+			"description":"<b>건설<\/b>기술인의 <b>직무<\/b>분야 및 전문분야 중 다. 토목 1)토질지질 2)토목구조 도 제한하고 싶을때 공고문 작성을 어떻게 해야할지 모르겠습니다ㅜㅜ 위 1,2,3으로 참가자격제한하고 토질지질, 토목구조는 교육이수... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"롯데<b>건설<\/b> 채용 시작! 모집<b>직무<\/b>와 채용인원등 채용특징 확인해보세요.",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1763678",
+			"description":"롯데<b>건설<\/b> 채용 모집 <b>직무<\/b>에 대한 안내입니다. 이번 롯데<b>건설<\/b> 채용의 모집 부문은 토목시공, 건축시공, 설계\/인테리어, 기계시공, 안전(안전공학), 주택영업, 경영지원(현장) <b>직무<\/b>에석 각 각 인원을 모집하고... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"현대<b>건설<\/b> 채용 <b>직무<\/b>, 기업 인재상, 채용 전형일정까지 한번에 확인하세요",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1770521",
+			"description":"현대<b>건설<\/b> 채용인원은 총 000명 예정이며 현대<b>건설<\/b> 채용 <b>직무<\/b>는 12개입니다. 현대<b>건설<\/b> 채용 상세 <b>직무<\/b>는 토목, 건축, 건축설비, 건축토목, 건축조경, 건축영업, 플랜트 설비 플랜드전기계장, 안전, 기획... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"<b>건설<\/b>현장에서 어떤 <b>직무<\/b>가 가장 난이도가 높나요?",
+			"link":"http:\/\/cafe.naver.com\/hksafety\/74618",
+			"description":"<b>건설<\/b>현장에서 안전, 공무, 공사, 품질, 기계, 전기, 관리 등 보면 <b>건설<\/b>현장 어떤 <b>직무<\/b>가 보편적으로 <b>직무<\/b> 난이도가 높나요?",
+			"cafename":"대한민국 건설현장 안전관리 비법 공유",
+			"cafeurl":"https:\/\/cafe.naver.com\/hksafety"
+		},
+		{
+			"title":"현대<b>건설<\/b> 채용 9개 <b>직무<\/b> 모집! 채용형 인턴 모집합니다",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1854723",
+			"description":"토익, 토스, 오픽 중에 하나를 보유하고 계셔야하는데요 <b>직무<\/b>별 성적기준이 있습니다. https:\/\/cafe.naver.com\/bebettergirls\/1854567 현대<b>건설<\/b> 채용 채용 전형은 자소서 접수 -&gt; 인적성전형 -&gt; 면접전형 -&gt; 국내현장... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"금호<b>건설<\/b> 채용 시작! 연봉 꽤 세네요! 다양한 <b>직무<\/b>에 지원해보세용",
+			"link":"http:\/\/cafe.naver.com\/specup\/6601342",
+			"description":"금호<b>건설<\/b> 채용 <b>직무<\/b> 이번 금호<b>건설<\/b> 채용 <b>직무<\/b>는 시공이 전국지역으로 채용하고 있으며 그다음으로는 안전관리, 주택영업, 조경, 경영관리 등 다양한 문과-공대 <b>직무<\/b>를 뽑고 있습니다! 시공과 조경은 전공이 따로... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"롯데<b>건설<\/b> 플랜트 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11050360",
+			"description":"안녕하세요, 이번에 플랜트(토목) <b>직무<\/b> 지원자입니다. 어쩌다 롯데<b>건설<\/b> 면접까지 가게 되었네요... PT면접 주제를 전달 받았는데, 원래는 시공 쪽에 더 자신 있었던지라 플랜트는 사실 잘 모르겠습니다ㅠㅠ... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"동부<b>건설<\/b> 채용 마감 일주일도 안남았습니다! 채용<b>직무<\/b> 일정 확인하세요.",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1686651",
+			"description":"동부<b>건설<\/b> 채용 <b>직무<\/b>는 전 <b>직무<\/b>를 모집하며 채용인원은 0명이라고 합니다. 동부<b>건설<\/b> 채용 인원이 그렇게 많지는 않을 것 같지만 전체 <b>직무<\/b>를 모집하므로 많은 분들이 동부<b>건설<\/b> 채용에 지원하실듯... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"대우<b>건설 직무<\/b> 잡카페 들으신 분 계신가요?",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1862249",
+			"description":"들어보고 싶은데 생각보다 상세하게 할 질문이 없어서 고민이에요 들어보신 분 있으면 추천하시나용 이번주 취업대학교 인기글 사회생활은 5년차 정도인데 돈이 너무 안모이네요 https:\/\/cafe.... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"<b>건설<\/b>안전기사 취업 분야 알아보기",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/614724",
+			"description":"등의 <b>직무<\/b>를 합니다. <b>건설<\/b>안전기사 취업 분야는 대표적으로 <b>건설<\/b>안전관리자 입니다. <b>건설<\/b>안전관리자 선임 기준은 산업안전산업기사, 산업안전기사, <b>건설<\/b>안전산업기사, <b>건설<\/b>안전기사 자격증을... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"두산<b>건설<\/b> IT계열 사내분위기",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11781272",
+			"description":"두산<b>건설<\/b> IT<b>직무<\/b> 재직자분 계신가요? 사내 분위기 좀 알고 싶습니다. 꼭 봐야할 이번주 독취사 인기글 삼성 공채 드디어 합격했습니다. https:\/\/bit.ly\/3ucHMjK ★ 대기업 이정도일줄을... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"한화<b>건설<\/b> 채용 접수 곧 마감, 6개부문에서 채용한대요",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1808815",
+			"description":"한화<b>건설 직무<\/b> 상세 설명은 한화인 홈페이지에서 확인가능하십니다. https:\/\/cafe.naver.com\/bebettergirls\/1806211 취업대학교 인기 급상승 게시글 모음 회사 정리해고 되었습니다.. https:\/\/cafe.naver.com\/bebettergirls... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"롯데<b>건설 직무<\/b>문의",
+			"link":"http:\/\/cafe.naver.com\/specup\/3781672",
+			"description":"롯데<b>건설 직무<\/b> 중 건축주택영업과 CM사업본부가 있는데 차이가 무엇인가요? [클릭] 채용일정\/채용설명회\/연봉\/지원자격 등 취업 관련 정보를 한번에![클릭] 2015년 하반기 채용 관련 뉴스 총정리 ! 실시간 업데이트... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"[현대<b>건설<\/b>] 건축\/주택 분야별 채용 (~10\/20)",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/618455",
+			"description":"기업명: 현대<b>건설<\/b> 구인<b>직무<\/b>\/직위: 공고 내 모집분야 참고 입사지원서 제출기간: 2022.07.22(금) ~ 2022.10.20(목) 채용사이트 바로가기: [현대<b>건설<\/b>] 건축\/주택 분야별 채용 (~10\/20) 자세한 채용공고... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"[롯데<b>건설<\/b>] 부문별 정규직 채용 (~8\/10)",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/619985",
+			"description":"기업명: 롯데<b>건설<\/b> 구인<b>직무<\/b>\/직위: 공고 내 모집분야 참고 입사지원서 제출기간: 22.07.27(수) ~ 08.10(수) 18:00까지 채용사이트 바로가기: [롯데<b>건설<\/b>] 부문별 정규직 채용 (~8\/10) 자세한 채용공고... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"[금호<b>건설<\/b>] 분야별 정규직 채용 (~7\/29)",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/615357",
+			"description":"기업명: 금호<b>건설<\/b> 구인<b>직무<\/b>\/직위: 건축시공 \/ 기계시공 \/ 전기시공 \/ 토목시공 \/ 안전관리 등 입사지원서 제출기간: 22.07.20(수) ~ 07.29(금) 18:00까지 채용사이트 바로가기: [금호<b>건설<\/b>] 분야별... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"<b>건설<\/b>기술인 <b>직무<\/b>교육에 대해서 궁금합니다.",
+			"link":"http:\/\/cafe.naver.com\/tomokin\/797413",
+			"description":"그런데 <b>건설<\/b>사업관리 교육, 품질관리 교육을 추가적으로 들어야 하나요? <b>건설<\/b>사업관리는 공사감독 및 감리... 그리고 수질, 토목 두개의 <b>직무<\/b>가 있는데 둘다 승급교육을 해야 하나요? 아니면 하나만 승급해도 되나요? 교육... ",
+			"cafename":"토목을 좋아하는 사람들",
+			"cafeurl":"https:\/\/cafe.naver.com\/tomokin"
+		},
+		{
+			"title":"포스코<b>건설 직무<\/b>배치 아시는분!!(인턴해셧던분 부탁드려요)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/4165097",
+			"description":"포스코<b>건설 직무<\/b>배치는 회사임의인가요? 아니면 거의 본인의 의사여부를 존중해주나요? 직무배치에 대해서 아시는분 부탁드릴게요 참고로 기계입니다",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"포스코<b>건설 직무<\/b>적성검사 준비는 어떻게???",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/22000",
+			"description":"포스코<b>건설 직무<\/b>적성검사는 어떻게 준비를 해야하나요? 시중에 교재가 나와있지 않더라구요 아 그리고 GD, ST, OT로 나뉘어져서 면접을 실시하는 것으로 알고 있는데 ST에서 전공분야에 대한질문을 하는건가요? 조언... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"DL<b>건설<\/b> 복지, 채용 자소서 항목, 일정 및 절차 확인하세요",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1871762",
+			"description":"①DL<b>건설<\/b>과 해당 <b>직무<\/b>에 지원한 동기를 작성하고, ②지원한 <b>직무<\/b>를 수행함에 있어 필요한 역량은 무엇이라고 생각하며, ③자신이 해당 <b>직무<\/b>를 잘할 수 있는 근거를 구체적으로 서술해 주십시오. (최소... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"4월 롯데 채용중인 계열사&amp;<b>직무<\/b> 확인하고 가이드북 받아가세요",
+			"link":"http:\/\/cafe.naver.com\/specup\/6939560",
+			"description":"현재 롯데 채용에서는 신입으로 관광\/화학\/서비스\/유통\/<b>건설<\/b>, 제조 <b>직무<\/b>를 채용중입니다! 계열사 및 세부정보도 확인해보겠습니다~ 롯데 채용 신입에서는 롯데월드, 롯데케미칼, 롯데자이언츠, 롯데정보통신... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>건설<\/b>기계설비기사 자격증은 어떤 <b>직무<\/b>에 도움이 되나요?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11213747",
+			"description":"설비 <b>직무<\/b>에 <b>건설<\/b>기계설비기사 자격증 기입하는게 맞나 고민중입니다. 일반기계기사는 기입했습니다. 한국사능력검정시험 55회 정답 최초공개 ▶ https:\/\/bit.ly\/3mh9GId 꼭 봐야할 이번주 독취사 인기글... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[DL<b>건설<\/b>] 분야별 채용 (~7\/17)",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/611356",
+			"description":"기업명: DL<b>건설<\/b> 구인<b>직무<\/b>\/직위: 안전관리 \/ 건축시공 \/ 전기시공 \/ 설비시공 등 입사지원서 제출기간: 22.07.08(금) ~ 07.17(일) 채용사이트 바로가기: [DL<b>건설<\/b>] 분야별 채용 (~7\/17) 자세한... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"<b>건설<\/b> 구매 <b>직무<\/b> 취준생입니다. 원자재 가격 관련하여 질문드립니다!!",
+			"link":"http:\/\/cafe.naver.com\/gumecpm\/52533",
+			"description":"원자재 가격 상승은 <b>건설<\/b>업체에 구체적으로 어떤 영향을 미치나요? 또한 최근의 가격 상승과 러시아-우크라이나 전쟁, 그리고 화물연대의 파업은 어떠한 연관성이 있나요? 잠시 시간내어 답변해주시면 정말... ",
+			"cafename":"구매전문가",
+			"cafeurl":"https:\/\/cafe.naver.com\/gumecpm"
+		},
+		{
+			"title":"<b>건설<\/b>업,기술인보유 문의합니다.~",
+			"link":"http:\/\/cafe.naver.com\/0moo\/377487",
+			"description":"건설업에 기술자 보유기준이 5명이상(최소 중급이상2명, 그외 초급이상) 이던데 저희 임원2분이 <b>건설 직무<\/b>분야에는 초급이 되었는데 전문분야등급 건축시공에는 미달이더라구요 혹시 직무분야 초급으로 되어도, 건설업... ",
+			"cafename":"건설공무",
+			"cafeurl":"https:\/\/cafe.naver.com\/0moo"
+		},
+		{
+			"title":"<b>건설<\/b>기계 라는 곳인데 이 <b>직무<\/b>가 어떤거죠?",
+			"link":"http:\/\/cafe.naver.com\/serplove\/812551",
+			"description":"&lt; 아래 내용이 궁금합니다 회원님들의 지식을 나누어 주세요 &gt; 저는 영업지원만 했어서 <b>건설<\/b>업사업자관리 차량관리 세무관리 보험관리가 뭐어떤걸 말하는거죠?ㅜㅜ 주요사업을 보니 <b>건설<\/b>기계 지입 및 세무관리등... ",
+			"cafename":"경리나라 - 회계.경리 커뮤니티 No.1",
+			"cafeurl":"https:\/\/cafe.naver.com\/serplove"
+		},
+		{
+			"title":"DL<b>건설<\/b> 채용정보 알려드려요.",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/602040",
+			"description":"DL<b>건설<\/b> 채용 또한 <b>직무<\/b>관련 자격증을 우대하니 해당분야에 지원하실 분들 자격증까지 잊지 마시기 바랍니다. DL<b>건설<\/b> 채용 https:\/\/m.cafe.naver.com\/empirecity\/600047 ■□ 기사마스터 실시간 인기글... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"[청라지구]<b>건설<\/b>현장 공무보조 (여)사무원 구인합니다.",
+			"link":"http:\/\/cafe.naver.com\/0moo\/343528",
+			"description":"모집직종 : 단순 사무원 관련직종 : 경리 사무원(<b>건설<\/b>) <b>직무<\/b>내용 : 건설현장 공무 보조 사무원 1)공무보조 서류정리(수발신문서 정리) 2) 일용노무비 대장 월별 청구 및 관리 3) 사무용품 관리 4) 기타 사무실 관리... ",
+			"cafename":"건설공무",
+			"cafeurl":"https:\/\/cafe.naver.com\/0moo"
+		},
+		{
+			"title":"현대<b>건설<\/b> 문과 <b>직무<\/b> 스펙 아시는 분 있을까요?",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1772982",
+			"description":"현대<b>건설<\/b> 신입으로 문과 <b>직무<\/b> 갈 수 있을까요? 문과는 거의 경력이 있긴 해야 기회라도 올 것 같은데 혹시 스펙 아시는 분 있는 지 궁급합니다!! 취업대학교 인기 급상승 게시글 모음 1년 미만... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"연령별 평균연봉, 연봉 높은직업\/<b>직무<\/b> 총정리! 내 몸값 올리기 대작전",
+			"link":"http:\/\/cafe.naver.com\/allft1\/322180",
+			"description":"그 다음으로 <b>건설<\/b>, IT·인터넷 <b>직무<\/b>가 2위, 3위를 자리했죠. 순위 <b>직무<\/b> 평균연봉(만원) 1 연구개발·설계 4,429 2 <b>건설<\/b> 4,324 3 IT·인터넷 4,123 4 마케팅·광고·홍보 3,872 5 경영·사무 3,781 6 생산·제조 3,759 7 무역... ",
+			"cafename":"공인마스터-공인중개사,시험,청약,독학...",
+			"cafeurl":"https:\/\/cafe.naver.com\/allft1"
+		},
+		{
+			"title":"<b>건설<\/b>기술인협회 <b>직무<\/b>등록",
+			"link":"http:\/\/cafe.naver.com\/anjun\/767735",
+			"description":"그래서 <b>건설<\/b>기술인협회에 등록하고, <b>직무<\/b>를 입력해야 하는데 어느부분으로 입력을 해야 좀 더 나을지 모르겠더라구요. 이후에 공사팀에서 시공을 담당할 일은 없을거 같습니다. 품질로 입력을 해서 경력을 늘려야는지... ",
+			"cafename":"산준모★산업안전기사｜위험물산업기사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anjun"
+		},
+		{
+			"title":"현대<b>건설<\/b> 문과 <b>직무<\/b> 경력 없어도 뽑긴 뽑을까요?",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1772981",
+			"description":"현대<b>건설<\/b> 재무\/회계\/기획 쪽이 그나마 문과가 갈 수 있는 <b>직무<\/b> 같은데 경력이 없어도 뽑아주긴 할까요? 지원하는게 무의미 할 것 같아 걱정이네요. 문과는 요즘 정말 문송한 것 같네요ㅠㅠ... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"(서울, 강남) 코오롱글로벌 <b>건설직무<\/b> 스터디원 충원합니다",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/5991615",
+			"description":"스 터 디 모 집 세 부 사 항 지역(구체적으로) 서울 강남역 근처 인원 현 4명 모임횟수\/요일 일 월 화 스터디커리큘럼 공모전명 코오롱글로벌 <b>건설<\/b> 멤버전공 건축시공 및 토목<b>직무<\/b> 대상\/기타 카톡아이디 kilsiun 으로... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"대우<b>건설<\/b> 채용 접수 시작! 자소서 항목 총 4개 작성 가이드 받아가세요",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1859840",
+			"description":"대우<b>건설<\/b> 채용 <b>직무<\/b>는 크게 토목, 건축, 기계, 전기, 안전, 사무 부문에서 모집합니다! 상세 대우<b>건설<\/b> 채용 직누는 시공, 설계, 조경, 건축토목, 플랜트 토복, 플랜트 건축, 플랜트 기계, 기계설비, 플랜트... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"대우<b>건설<\/b> 채용 시작! 채용<b>직무<\/b>, 특징 한눈에 살펴보기!",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1718725",
+			"description":"또한 각 <b>직무<\/b>별 자격증 소지자는 우대되니 <b>직무<\/b>관련 자격증은 최대한 준비해서 지원해보셔야 할것 같습니다. 대우<b>건설<\/b> 채용은 온라인 잡카페도 운영될 예정입니다. 4월 5일 ~ 4월 7일까지 진행이 될 예정이며... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"신세계<b>건설 직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/859203",
+			"description":"신세계 <b>건설 직무<\/b>를 많이 뽑지는 않네요..ㅜㅜ 신세계 건설 건설사 중 괜찮은가요? Copyright ⓒ취업대학교 카페 All Rights Reserved.취업카페도 클래스를 따져라. 취업대학교 or not",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"(강남\/종로)대우<b>건설 직무<\/b>상관없이 모집합니다. (마감)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6774599",
+			"description":"스터디커리큘럼\/대외활동명\/공모전명대우<b>건설<\/b>\/협상\/실무진 모집 기준<b>직무<\/b>상관없음. 제발 꾸준히 참석하실분만^^ 참여방법 원하시는 장소(강남 또는 종로)\/지원<b>직무<\/b>\/성별\/카카오톡id 쪽지부탁드립니다.! * 꼭 읽어주세요!... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"서울 사당 삼성물산 <b>건설<\/b> 전기 <b>직무<\/b> 스터디 모집",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11019759",
+			"description":"삼성물산 <b>건설<\/b> 전기<b>직무<\/b>, 인성 면접 스터디 모집합니다. 인원은 4명 계획중이며 제가 현직자라 평일은 6시반 이후 주말 조율해서 운영할 계획입니다! <b>직무<\/b> 면접도 같이 준비하고싶어서 전기 <b>직무<\/b>이신 분들 연락... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"회사 선택에 도움을 부탁드려요,,( 관심있는 직종(의료기) vs 아예 용어 하나도 모르는 생 처음 직종(<b>건설<\/b>엔...",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11770364",
+			"description":"( 출근시간 많이 부담 됌 \/ 퇴근시간은 향후 앞당겨 질 수 있음) 관심이 전혀 없던 회사는 <b>건설<\/b>회사 입니다. <b>직무<\/b>는 관리팀이에요(인사관리, 현장에서 오는 서류관리 등). <b>건설<\/b>은 정말 기본 개념 상식이 하나~도 없습니다.... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"GS<b>건설<\/b> 1차 pt면접",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11694198",
+			"description":"안녕하세요~ 게시글은 처음 써보네요 ㅎㅎ 제가 gs<b>건설<\/b> 이공계 <b>직무<\/b> 면접을 보게 됐는데요, GS<b>건설<\/b>은 취업 관련 정보가 너무 부족하네요 ㅠㅠ 혹시 1차 pt면접 관련해서 tip 주실 수 있는 분 계시면... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"삼성물산 <b>건설<\/b>부문 <b>직무<\/b> 선택",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1644790",
+			"description":"삼성물산 <b>건설<\/b>부문 지원서 작성중인데요 <b>직무<\/b>\/ 직군 선택 항목이 없는 것 같아서요 ㅜㅜㅜ 원래 없는건가요..? ㅠㅠ 알려주세요 ㅜㅜ 취업대학교 인기 급상승 게시글 모음 [2020 상반기 삼성전자... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"산업안전자격증으로 <b>건설<\/b>안전<b>직무<\/b>할수있나욤?",
+			"link":"http:\/\/cafe.naver.com\/anjun\/729780",
+			"description":"<b>직무<\/b>내용 - 시설물의 안전 및 유지관리에 관한 특별법(안전점검 및 정밀안전진단) - <b>건설<\/b>기술 진흥법(<b>건설<\/b>공사 정기안전점검) - 시설물 안전성검토 - 건축물 유지관리 전문 산업안전기사자격으로는 이 <b>직무<\/b>를(<b>건설<\/b>안전진단)... ",
+			"cafename":"산준모★산업안전기사｜위험물산업기사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anjun"
+		},
+		{
+			"title":"건축, <b>건설<\/b>관련 산업 <b>직무<\/b> 스터디 구합니다",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11041831",
+			"description":"그래서 <b>건설<\/b>산업 분석이나 <b>직무<\/b>에 대한 분석 스터디를 해보고 싶습니다!! (자소서나 면접에 도움이 될 수 있도록,,!) 혹시 기존에 하고 계신 스터디 충원이 필요하시거나, 저와 같은 고민으로 스터디 하고 싶으신 분들... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"건축, <b>건설<\/b>관련직 산업, <b>직무<\/b> 스터디 구합니다!",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1958689",
+			"description":"그래서 <b>건설<\/b>산업 분석이나 <b>직무<\/b>에 대한 분석 스터디를 해보고 싶습니다!! (자소서나 면접에 도움이 될 수 있도록,,!) 혹시 기존에 하고 계신 스터디 충원이 필요하시거나, 저와 같은 고민으로 스터디 하고 싶으신 분들... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"삼성물산 <b>건설<\/b>부문 <b>직무<\/b>에 따른 채용지원 방법",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10811176",
+			"description":"삼성물산 <b>건설<\/b>부문 3급 신입사원 채용시 품질\/안전 <b>직무<\/b>는 어떻게 지원하나요 ? 처음에 기술직으로 지원하여 품질\/안전으로 지원 아니면 처음부터 품질\/안전 <b>직무<\/b>로 선택하여 지원하는지.. 혹은 품질... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"GS<b>건설 직무<\/b>~~",
+			"link":"http:\/\/cafe.naver.com\/specup\/392626",
+			"description":"GS<b>건설<\/b> 지원할때 <b>직무<\/b>관련 해당되는 전공에 보면 기계\/배관설계 파트에 토목전공자도 뽑던데 잘못된 건가요?...",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>건설<\/b>회사 경리 급여문의",
+			"link":"http:\/\/cafe.naver.com\/0moo\/376514",
+			"description":"<b>건설<\/b>회사 경리로 근무한지 얼마 안된 <b>건설<\/b>회사 병아리 경리입니다. 혹시 급여부분이 상승되기 위해 준비해두면 좋을 부분이 있을까요? 전공은 <b>건설<\/b>쪽이 아닌 세무회계입니다. 도움 되는 자격증이 있다면 어떤 자격증이... ",
+			"cafename":"건설공무",
+			"cafeurl":"https:\/\/cafe.naver.com\/0moo"
+		},
+		{
+			"title":"삼성물산 <b>건설<\/b>부문 <b>직무<\/b>면접 준비 어떻게 하시나요?",
+			"link":"http:\/\/cafe.naver.com\/specup\/6694048",
+			"description":"물산 <b>건설<\/b>부문 기계직인데 <b>직무<\/b>면접은 4대역학 기반으로 전공 준비하면 될까요?? 다들 어떻게 준비하세요? 아무것도 모르는 진짜 신입만 클릭하세요. https:\/\/bit.ly\/3huTS2h 스펙업이 5만원을 아낌없이... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"삼성 <b>직무<\/b>적합성평가 발표일은? 합격 스펙과 GSAT 정보 확인하기!",
+			"link":"http:\/\/cafe.naver.com\/winspec\/272195",
+			"description":"출처 : 스펙업 카페 21년 하반기 삼성물산(<b>건설<\/b>) 기술직 삼성 <b>직무<\/b>적합성평가 합격 스펙입니다! 지거국 기계과였고 학점은 3.5였다고 합니다. 어학 점수는 오픽 AL과 자격증으로는 <b>건설<\/b>기계설비기사, 컴활1급을 가지고... ",
+			"cafename":"윈스펙｜자기계발, 내일배움카드, 토익...",
+			"cafeurl":"https:\/\/cafe.naver.com\/winspec"
+		},
+		{
+			"title":"코오롱글로벌 <b>건설직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/specup\/5474055",
+			"description":"코오롱글로벌에 <b>건설<\/b>분야를 희망하는데 글로벌을 영어성적을 중요시 하지 않나요?영어 성적이 따로 자격조건에 없는데 그냥 우대사항인가요???아니면 글로벌 회사에 <b>건설<\/b>업이 그냥 있는지.. 궁금합니다. 2018... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>직무<\/b>능력검사 최적화 솔루션 인크루트웍스 Assess",
+			"link":"http:\/\/cafe.naver.com\/oonjun\/225340",
+			"description":"또 많은 대기업 중 대표적으로 현대<b>건설<\/b>, GS칼텍스, 포스코, 삼성메디슨, 대교, 서울우유, 쌍용<b>건설<\/b>, 현대, 대림, 오라클, 동서식품, 벽산 등이 이용을 하고 있습니다. 이렇게 많은 기업이 자체적으로 <b>직무<\/b>능력검사... ",
+			"cafename":"운준모★운전직 공무원 시험을 준비하...",
+			"cafeurl":"https:\/\/cafe.naver.com\/oonjun"
+		},
+		{
+			"title":"<b>건설직무<\/b>가 요즘 죽고 있나요?",
+			"link":"http:\/\/cafe.naver.com\/specup\/6083957",
+			"description":"현직자들 얘기 들어보면 <b>건설<\/b>회사 오지 말고 다른 분야를 준비하라는데 예전보다 상황이 많이 안좋은가요? 초봉 3900만원주는 첫 회사. 입사가 망설여지는 이유(클릭)학점 3.3 \/ <b>직무<\/b>경험없이 대기업 최종합격 썰... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"26세 남 <b>건설<\/b>(설비), 소방<b>직무<\/b>를 생각하고 있습니다. 스펙평가 부탁드려요! 조언도!",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1836597",
+			"description":"26세 남 <b>건설<\/b>(설비), 소방<b>직무<\/b>를 생각하고 있습니다. 스펙평가 부탁드려요! 조언도! 자격증 소방설비기사(기계분야) 위험물 산업기사 1급 소방안전관리자 한국사 능력검정 2급 운전면허 1종 보통 산업안전기사-필기합격... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"GS<b>건설<\/b> BM<b>직무<\/b> 아시는분?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10500628",
+			"description":"GS<b>건설<\/b> BM(비즈니스매니저) <b>직무<\/b>면 계약직인가요?정규직인가요? 아시는분 댓글 부탁드립니다ㅜㅜ 꼭 봐야할 이번주 독취사 인기글 * 연봉 1억을 포기하고 퇴사합니다. ▶ https:\/\/bit.ly\/2FKTuvq * 363개... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"반도체 후공정 test엔지니어 랑 <b>건설<\/b>회사 전기시공<b>직무<\/b> 중에 고민입니다",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11479544",
+			"description":"반도체 후공정 test엔지니어 랑 <b>건설<\/b>회사 전기시공<b>직무<\/b> 중에 고민입니다 지방4년제 전기공학 이수했는데 따로 큰 뜻은없구요 반도체는 워낙 산업성장성이 좋고 <b>건설<\/b> 전기시공<b>직무<\/b>로가면 가지고있는... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"대기업 인사담당 &quot;면접시 스펙보다 직무역량과 인성에 중점&quot;, <b>건설직무<\/b> 파악! 건설기술교육원 플랜트교육에...",
+			"link":"http:\/\/cafe.naver.com\/goondae\/1385581",
+			"description":"<b>건설<\/b> 취업을 목표로 하신다면, 이제는 이런 <b>직무<\/b>에 대한 기본적인 이해가 필수적이며 그래서 플랜트교육이 취업 전 필수과정으로 여겨지고 있는 이유입니다. 아직도 교육을 고민하고 계시다면, 기수료생들의 높은... ",
+			"cafename":"전대모 (대학생,레포트,토익,족보,스펙...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goondae"
+		},
+		{
+			"title":"<b>건설<\/b>기계\/생산품질 <b>직무<\/b>특강 강의 의뢰",
+			"link":"http:\/\/cafe.naver.com\/ak573\/644568",
+			"description":"일정 1.<b>건설<\/b>, 기계 <b>직무<\/b> 10월20일(화) 20-22시 2. 생산품질 <b>직무<\/b> 10월22일(목) 16-18시 괸련 <b>직무<\/b>특강 (관련<b>직무<\/b> 현전직자) 화상강의(ZOOM) 강사료 10만원\/1시간 프로필을 아래 메일로 보내주시면... ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"요리조리 읽어보는 자기소개서 성장과정 예시와 작성방법!",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1889993",
+			"description":"# 현대<b>건설<\/b> 공무<b>직무<\/b> 지원자의 성장과정 예시 상단의 자기소개서 성장과정 예시를 살펴보면 지원자 본인이 지원한 공무<b>직무<\/b>에 대해서 관심을 지니게 된 계기나 경험을 위주로 자신의 성장과정을 이야기하고 있다는... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"신세계 <b>건설 직무<\/b>분야 아시나요?",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/856951",
+			"description":"<b>건설<\/b>에서 세분화 되는 <b>직무<\/b>들에는 어떤 것들이 있나요? 그리고 신세계 그룹은 인적성이 없는건가요? Copyright ⓒ취업대학교 카페 All Rights Reserved.취업카페도 클래스를 따져라. 취업대학교 or not",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"<b>건설<\/b> 쪽 <b>직무<\/b> 고민",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/625982",
+			"description":"이번에 입사하게된 회사에서 <b>직무<\/b>를 선택해야되는데요 회사는 <b>건설<\/b>에 들어가는 시설을 주로 하는 회사입니다 난방배관 같은거요 대형 <b>건설<\/b>사들을 주로 상대합니다. 영업직 vs 공사관리직(현장직아님) 어느게 좀더 비전이... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>건설<\/b> - <b>직무<\/b>스트레스",
+			"link":"http:\/\/cafe.naver.com\/healthmanager1\/17623",
+			"description":"<b>건설<\/b>현장에 종사하는 보건관리자 입니다 <b>직무<\/b>스트레스 조사를 하려고 하는데 <b>직무<\/b>스트레스 설문지에 실명은 안쓰고 그냥 설문만 작성 후 공종별로 통계를 나누면 될까요 ???? <b>직무<\/b>스트레스 평가 후 스트레스 높은 단위는... ",
+			"cafename":"보건관리 실무 카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/healthmanager1"
+		},
+		{
+			"title":"<b>건설<\/b>현장에 처음 출근하는 <b>건설<\/b>안전기사 자격취득자",
+			"link":"http:\/\/cafe.naver.com\/hksafety\/100701",
+			"description":"안전관리자 선임후 <b>건설<\/b>안전 기초 의무 <b>직무<\/b>교육 신청방법 경로별 34시간+1시간 교육명칭 상세? 선임전 소급 교육후 사후 안전관리비 사용가능 여부? 2. 토목, 골조, 분리발주 형태 관급공사 현장 9월 사실상 착공전 7월... ",
+			"cafename":"대한민국 건설현장 안전관리 비법 공유",
+			"cafeurl":"https:\/\/cafe.naver.com\/hksafety"
+		},
+		{
+			"title":"[GS<b>건설<\/b>] <b>직무<\/b>소개",
+			"link":"http:\/\/cafe.naver.com\/specup\/337865",
+			"description":"좀더 자세한 <b>직무<\/b>업무 관련은 http:\/\/recruit.gsconst.co.kr\/",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"포스코와 포스코 <b>건설 직무<\/b> 차이, 부탁드립니다. ㅜㅜ",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/342734",
+			"description":"포스코의 토목\/건축 분야에서 하는 <b>직무<\/b>와 포스코 <b>건설<\/b>의 토목\/건축에서 하는 <b>직무<\/b>가 어떻게 다른가요? 1. 포스코는 주로 공장, 플랜트를 얘기하는 건가요? 포스코 <b>건설<\/b>은 아파트라던지 일반 건축물을 얘기하는 건가요. 2.... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"(주)지원<b>건설<\/b> 서울 중구 황학동 현장 안전관리자 모집합니다.[서울]",
+			"link":"http:\/\/cafe.naver.com\/hksafety\/55391",
+			"description":"※ 모집내용 업체명 : (주)지원<b>건설 직무<\/b> : 안전관리 ㄴ 담당업무 : 공동주택(오피스텔) 건설현장 안전관리 모집인원 : 안전관리자 1명 지원자격 : 경력 무관(신입 무관) ㄴ 나이 및 성별 : 무관 ㄴ 필수 사항... ",
+			"cafename":"대한민국 건설현장 안전관리 비법 공유",
+			"cafeurl":"https:\/\/cafe.naver.com\/hksafety"
+		},
+		{
+			"title":"지원<b>건설<\/b>(주) 서울 현장에서 (정규직)안전관리자를 모집합니다.",
+			"link":"http:\/\/cafe.naver.com\/anjun\/852158",
+			"description":"※ 모집내용 업체명 : (주)지원<b>건설 직무<\/b> : 안전관리 ㄴ 담당업무 : 공동주택(오피스텔) 건설현장 안전관리 모집인원 : 안전관리자 1명 지원자격 : 경력 무관(신입 무관) ㄴ 나이 및 성별 : 무관 ㄴ 필수 사항... ",
+			"cafename":"산준모★산업안전기사｜위험물산업기사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anjun"
+		},
+		{
+			"title":"SGC그룹 채용 에너지, 지주부문, 사업부문 채용 <b>직무<\/b>와 연봉 정보 알려드립니다",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1826717",
+			"description":"SGC그룹 채용 공고 전문 및 SGC 이테크<b>건설<\/b> 채용 <b>직무<\/b>는 아래 게시물을 참고해주시기 바랍니다. https:\/\/cafe.naver.com\/bebettergirls\/1825770 신입보다 연봉 낮은 경력직 https:\/\/cafe.naver.com\/bebettergirls\/1815857 32살... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"안전관리자 <b>건설<\/b>기술인협회 교육,<b>직무<\/b> 질문좀 드리겠습니다..",
+			"link":"http:\/\/cafe.naver.com\/hksafety\/55457",
+			"description":"현재 안전관리자로 근무 중인데 공단 <b>직무<\/b>교육 10시간 온라인으로 받았는데 24시간 집체교육을 타지역 까지... 그리고 <b>건설<\/b>기술연협회 최초교육?기본교육 이거는 맨날 협회사이트 가서 봐도 잘 모르는 부분이 있던데 둘중... ",
+			"cafename":"대한민국 건설현장 안전관리 비법 공유",
+			"cafeurl":"https:\/\/cafe.naver.com\/hksafety"
+		},
+		{
+			"title":"[현대<b>건설<\/b> 면접 후기] 2022년 상반기 현대<b>건설<\/b> 임원면접 후기",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11772527",
+			"description":"- 응시한 기업명 : 현대<b>건설<\/b> - 지원 <b>직무<\/b>\/직군명 : 사업관리 - 응시 지원 자격(신입\/경력) : 신입 - 일정,시간 및 장소 : 6월 22일, 13:00, 계동 현대<b>건설<\/b> 본사 지하 1층 - 전공 계열(인문\/이공) : 사회계열 - 지원자 전공 : 법학과... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"2021년 상반기 금호<b>건설<\/b> 최종합격자 15명의 합격 후기 모두 공개합니다!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11051922",
+			"description":"(여러 군데 합격하셨다면 모두 작성도OK) - 합격시기 : 2021년 3월 - 합격기업 : 금호<b>건설<\/b> - <b>직무<\/b>\/부서 : 건축시공\/토목시공\/전기시공\/경영관리\/주택영업\/조경 - 응시 지원 자격(신입\/경력) : 신입 ✍미래의 후배님들을 위해... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"포스코 <b>건설<\/b> 사무<b>직무<\/b> 면접 스터디",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7635289",
+			"description":"포스코<b>건설<\/b> 사무<b>직무<\/b> 면접스터디원 모집합니다. 혜화나 종로에서 진행할 예정입니다. 이번주 SK 인적성 끝나고 일요일 저녁부터 시작할 예정입니다. 되도록 면접경험 있으신 분이셨으면 좋겠습니다. 쪽지부탁드립니다! :)",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>건설<\/b>안전기술사 자격 알아보기",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/612426",
+			"description":"동일 및 유사 <b>직무<\/b>분야에서 9년 이상 실무에 종사 11. 외국에서 동일한 종목에 해당하는 자격을 취득한 사람 아래 링크에서 <b>건설<\/b>안전기술사 응시 자격 자가진단 방법 확인해보세요. https:\/\/cafe.naver.com... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"27살 기계공학과 <b>직무<\/b>경험? 토익\/토스?",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11801903",
+			"description":"<b>건설<\/b>기계설비기사 알바 : 2년전부터 편의점 주말알바 인턴 : 금형회사 2개월 체험형인턴 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 희망 회사\/<b>직무<\/b> : 중견기업... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		}
+	]
+}

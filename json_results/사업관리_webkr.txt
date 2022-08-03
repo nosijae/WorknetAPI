@@ -1,0 +1,388 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:51 +0900",
+	"total":334310635,
+	"start":1,
+	"display":76,
+	"items":[
+		{
+			"title":"스마트제조혁신추진단-스마트공장 <b>사업관리<\/b>시스템",
+			"link":"https:\/\/www.smart-factory.kr\/",
+			"description":"지원 <b>사업<\/b> 접수기간 2022-07-20 00:00 ~ 2022-08-19 00:00 접수신청... 지원<b>사업<\/b> 접수기간 2022-07-22 00:00 ~ 2022-08-19 00:00 접수신청 신청중... (계속<b>사업<\/b>) '21 K-스마트등대공장(2차년) 접수기간 2022-07-18 00:00"
+		},
+		{
+			"title":"중소기업인력지원<b>사업<\/b> 종합<b>관리<\/b>시스템",
+			"link":"https:\/\/www.smes.go.kr\/sanhakin\/",
+			"description":"성과공유, 특성화고, 계약학과, 기술사관, 산학맞춤, 산업기능요원, 인재육성, 주택특별공급 등 <b>사업관리<\/b> 및 채용정보를 <b>관리<\/b>"
+		},
+		{
+			"title":"<b>사업관리<\/b> | 한국재정정보원 &gt; 주요<b>사업<\/b> &gt; dBrain 운영 &gt; dBrain 주요기능 &gt; <b>사업관리<\/b>",
+			"link":"https:\/\/www.fis.kr\/ko\/major_biz\/dbrain_oper\/main_func\/business_mng",
+			"description":"위해 정책<b>사업<\/b> 중심의 프로그램별 예산체계를 2007년 도입 - 프로그램 예산제도란? 예산을 프로그램* 즉, <b>사업<\/b>단위로 묶어 편성하는 예산제도 * 동일한 정책을 수행하는 단위<b>사업<\/b>(activity\/project)의 묶음"
+		},
+		{
+			"title":"안전보건공단 안전투자혁신<b>사업<\/b>",
+			"link":"https:\/\/anto.kosha.or.kr\/",
+			"description":"산업 경쟁력을 강화하고, 안전한 일터의 기반을 다지기 위한 중소 산업을 대상으로 산업안전분야 혁신투자를 통해 안전한 <b>사업<\/b>장 만들기 ... "
+		},
+		{
+			"title":"서울육아종합지원센터 &gt; 보육지원 &gt; 대체교사 지원<b>사업<\/b> &gt; 대체교사 지원<b>사업<\/b> &gt; <b>사업 관리<\/b>",
+			"link":"https:\/\/seoul.childcare.go.kr\/lseoul\/d2_30000\/d2_30059\/d2_100000001\/d2_35900.jsp",
+			"description":"○ (<b>사업<\/b>기간) ‘22년 1월 ~ ’22년 12월 ○ (근로조건) 1일 8시간(월~금, 주40시간) 근무, 월급제 원칙... ‘22년 1월부터 적용 (자격) 보육교사, 장애영유아를 위한 보육교사, 특수교사 단, 자격 미소지자의 대체교사<b>관리<\/b>... "
+		},
+		{
+			"title":"자동차<b>관리<\/b>법 - 국가법령정보센터",
+			"link":"https:\/\/www.law.go.kr\/%EB%B2%95%EB%A0%B9\/%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B4%80%EB%A6%AC%EB%B2%95",
+			"description":"제1조(목적) 이 법은 자동차의 등록, 안전기준, 자기인증, 제작결함 시정, 점검, 정비, 검사 및 자동차<b>관리<\/b><b>사업<\/b> 등에 관한 사항을 정하여 자동차를 효율적으로 <b>관리<\/b>하고 자동차의 성능 및 안전을... "
+		},
+		{
+			"title":"<b>사업관리<\/b> - (주)한미기술",
+			"link":"http:\/\/www.hanmiks.co.kr\/?act=info.page&pcode=sub2_2",
+			"description":"<b>사업<\/b>분야 <b>사업관리<\/b> 철저한 <b>관리<\/b>를 통한 건물 기능유지 및 향상 24시간 365일 가동!! 행정<b>관리<\/b> <b>관리<\/b>비 부과 및 수납 연체료 등 회계<b>관리<\/b> 입주사 <b>관리<\/b> 주차장 수입 및 운영<b>관리<\/b> 민원통합<b>관리<\/b> 시설<b>관리<\/b> 각종설비... "
+		},
+		{
+			"title":"중소기업기술개발<b>사업<\/b> 종합<b>관리<\/b>시스템",
+			"link":"https:\/\/www.smtech.go.kr\/",
+			"description":"중소벤처기업부가 시행하는 중소기업기술개발지원<b>사업<\/b>의 신청, 협약, 연구비집행 등을 지원하는 종합<b>관리<\/b>시스템"
+		},
+		{
+			"title":"<b>사업 관리<\/b> - 악어디지털",
+			"link":"https:\/\/akuo.ai\/%EC%82%AC%EC%97%85-%EA%B4%80%EB%A6%AC\/",
+			"description":"주요업무 프로젝트 <b>사업관리<\/b> 전자화 센터 내 프로젝트 <b>관리<\/b> On Site 프로젝트 <b>관리<\/b> 자격요건 및 우대사항 유사<b>사업<\/b> 수행경험 프로젝트 <b>관리<\/b> 경험자 우대 지원방법 채용 사이트 지원 이메일 지원 jobs@akuo.ai... "
+		},
+		{
+			"title":"9개의 <b>사업 관리<\/b> 아이디어 | <b>사업 관리<\/b>, <b>사업<\/b>, 지식",
+			"link":"https:\/\/www.pinterest.com\/richmaker5375\/%EC%82%AC%EC%97%85-%EA%B4%80%EB%A6%AC\/",
+			"description":"2019. 2. 12 - Pinterest에서 Richmaker님의 보드 &quot;<b>사업 관리<\/b>&quot;을(를) 팔로우하세요. <b>사업 관리<\/b>, <b>사업<\/b>, 지식에 관한 아이디어를 더 확인해 보세요."
+		},
+		{
+			"title":"한국방송통신전파진흥원 <b>사업관리<\/b>시스템",
+			"link":"https:\/\/pms.kca.kr\/",
+			"description":"한국방송통신전파진흥원 <b>사업관리<\/b>시스템에 오신 것을 환영합니다."
+		},
+		{
+			"title":"식품의약품안전처 연구<b>관리<\/b>시스템",
+			"link":"https:\/\/rnd.mfds.go.kr\/",
+			"description":"연구<b>사업 관리<\/b>규정, 보고서 조회, 과제접수, <b>사업<\/b>공고 등 안내."
+		},
+		{
+			"title":"액화석유가스의안전<b>관리<\/b>및<b>사업<\/b>법 - 국가법령정보센터",
+			"link":"https:\/\/www.law.go.kr\/%EB%B2%95%EB%A0%B9\/%EC%95%A1%ED%99%94%EC%84%9D%EC%9C%A0%EA%B0%80%EC%8A%A4%EC%9D%98%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC%EB%B0%8F%EC%82%AC%EC%97%85%EB%B2%95",
+			"description":"제1조(목적) 이 법은 액화석유가스의 수출입ㆍ충전ㆍ저장ㆍ판매ㆍ사용 및 가스용품의 안전 <b>관리<\/b>에 관한 사항을 정하여 공공의 안전을 확보하고 액화석유가스<b>사업<\/b>을 합리적으로 조정하여 액화석유가스를 적정히... "
+		},
+		{
+			"title":"<b>사업관리<\/b>시스템",
+			"link":"https:\/\/pms.kofac.re.kr\/",
+			"description":"과학소통과 융합기반 창의사회구현 한국과학창의재단 <b>사업관리<\/b>시스템 확인서발급받기 아이디 비밀번호아이디찾기 | 비밀번호찾기 회원가입 로그인 공지사항 + 진행중인 공고 + 진행중인 공고가 없습니다."
+		},
+		{
+			"title":"나의 모든 <b>사업<\/b> 현황을 간편하게, 비즈넵",
+			"link":"https:\/\/bznav.com\/",
+			"description":"비즈넵으로 간편하게 매출, 지출, 세무, 회계 재무 <b>관리<\/b>하세요."
+		},
+		{
+			"title":"사회복지자원봉사인증<b>관리<\/b>",
+			"link":"https:\/\/www.vms.or.kr\/",
+			"description":"자원봉사, 인증<b>관리<\/b> 안내, 1004지역사회봉사단, 베이비부머봉사단, 통계정보, 봉사일감 등"
+		},
+		{
+			"title":"Pinterest 상의 <b>사업 관리<\/b>에 관한 아이디어 상위 17개개 | 리더쉽 개발 및 리더쉽",
+			"link":"https:\/\/kr.pinterest.com\/explore\/%EC%82%AC%EC%97%85-%EA%B4%80%EB%A6%AC\/",
+			"description":"전 세계의 아이디어 카탈로그인 Pinterest에서 <b>사업 관리<\/b>에 관한 아이디어를 찾고 저장하세요. | 리더쉽 개발 및 리더쉽에 대해 더 보기."
+		},
+		{
+			"title":"임산부 산전<b>관리<\/b> - 모자보건<b>사업<\/b> - 모자보건 - <b>사업<\/b>안내 - 보건소 - 양주시청",
+			"link":"https:\/\/www.yangju.go.kr\/health\/contents.do?key=1565",
+			"description":"임산부산전<b>관리<\/b> <b>사업<\/b>목적 임산부 및 예비신부의 산전, 산후<b>관리<\/b>를 실시하여 건강한 몸으로 건강한 아이를 낳아 잘 기르도록 하여 태아와 모성의 건강증진을 도모하기 위함 <b>사업<\/b>대상 양주시에 주소를 둔 임산부... "
+		},
+		{
+			"title":"한국환경공단",
+			"link":"https:\/\/www.keco.or.kr\/",
+			"description":"환경부 산하기관, 환경개선, 오염방지, 자원순환촉진 및 기후변화대응 온실가스 관련 <b>사업<\/b> 안내."
+		},
+		{
+			"title":"<b>사업관리<\/b> | Toyo-Korea - 도요엔지니어링 코리아",
+			"link":"https:\/\/www.toyo-eng.com\/kr\/ko\/services\/project_management\/",
+			"description":"프로젝트를 성공으로 이끌기 위해서는 주어진 조건을 전체적으로 조정 및 <b>관리<\/b>해야 됩니다. 그리고 프로젝트 실행 중에는 정기적으로 그 상황을 파악하고 분석하고 예측하고, 그것들을 고객이나 관계자에게 적기에... "
+		},
+		{
+			"title":"K-Startup 창업지원포털",
+			"link":"https:\/\/www.k-startup.go.kr\/",
+			"description":"중소벤처기업부 창업포털 사이트, <b>사업<\/b> 공고, 지원<b>사업<\/b> 정보 등 제공."
+		},
+		{
+			"title":"K-water",
+			"link":"https:\/\/www.kwater.or.kr\/",
+			"description":"K-water, 통합물<b>관리<\/b>, 수자원 및 상하수도, 물복지, 수변도시, 신재생에너지 등 <b>사업<\/b> 안내."
+		},
+		{
+			"title":"발달재활서비스 자격<b>관리<\/b><b>사업<\/b> - 중앙장애아동·발달장애인지원센터",
+			"link":"https:\/\/www.broso.or.kr\/cert\/main.do",
+			"description":"알려드립니다 [교과목이수자] 9회 교과목이수를 통한 자격인정 추진일정 2022-07-01 + 전체보기 전화 문의 발달재활서비스 자격<b>관리<\/b><b>사업<\/b>단 (자격인정 문의) 1544-6065 한국보건복지인력개발원 (전환교육 문의) 1833-3460 ... "
+		},
+		{
+			"title":"농촌진흥<b>사업<\/b>종합<b>관리<\/b>시스템",
+			"link":"http:\/\/atis.rda.go.kr\/",
+			"description":"농촌진흥<b>사업<\/b> 종합<b>관리<\/b>시스템, <b>사업<\/b>소개, 핵심전략과제, 예산현황, 연구성과현황 등 안내."
+		},
+		{
+			"title":"ITECH 산업기술R&amp;D정보포털",
+			"link":"https:\/\/itech.keit.re.kr\/",
+			"description":"쉽고 편리한 산업기술 R&amp;D 업무서비스 <b>사업<\/b>공고 보기 <b>사업<\/b>안내 보기 내게맞는 <b>사업<\/b>찾기 표준서식\/ 규정보기 탄소중립 R&amp;D 과제신청 나의수행 과제현황 수정연구개발계획서 협약신청 전자알림"
+		},
+		{
+			"title":"<b>사업관리<\/b> - 게임 직업이 되다 - 게임잡",
+			"link":"https:\/\/www.gamejob.co.kr\/Recruit\/joblist?menucode=duty&duty=28",
+			"description":"[엔씨소프트]<b>사업관리<\/b>\/기획 인력 모집 [PG\/LO&amp;S Dept] Service Policy Planning (신입) [PG\/PM Div] Business PM - PUBG BATTLEGROUNS (4년 이상) Communication Manager - PUBG BATTLEGROUNS (5년 이상) [PG\/LO&amp;S Dept] Mobile CS... "
+		},
+		{
+			"title":"HRDK 한국산업인력공단",
+			"link":"https:\/\/www.hrdkorea.or.kr\/",
+			"description":"직업능력개발, 국가자격, 외국인고용, 해외취업, 숙련기술, 국가직무능력표준, 일학습병행제."
+		},
+		{
+			"title":"국가암검진<b>사업<\/b> &gt; 국가암<b>관리<\/b><b>사업<\/b> 소개 &gt; 국가암<b>관리<\/b><b>사업<\/b> | 국립암센터",
+			"link":"https:\/\/www.ncc.re.kr\/main.ncc?uri=manage01_4",
+			"description":"암 <b>관리<\/b><b>사업<\/b>을 수행할 인력을 양성하고, 다양한 암검진 종사자에게 각 분야별 맞춤형 교육을 시행하여 국민의 기대수준에 부응하고 국가암검진<b>사업<\/b>에 대한 효율성을 높이고자 함 (1) 배경 및 필요성... "
+		},
+		{
+			"title":"외국인 고용 <b>관리<\/b>시스템",
+			"link":"https:\/\/www.eps.go.kr\/",
+			"description":"고용노동부 한국고용정보원 서비스, 고용허가제 소개, 취업, 고용절차 안내, <b>사업<\/b>주 서비스 제공."
+		},
+		{
+			"title":"양산시 보건소 | 임산부\/영유아 건강<b>관리<\/b><b>사업<\/b> | 모자보건<b>사업<\/b> | 보건<b>사업<\/b> - 양산시청",
+			"link":"https:\/\/www.yangsan.go.kr\/health\/contents.do?mId=0400000000",
+			"description":"건강<b>관리<\/b>팀 ☎392-6930 ※ 정확한 검사를 위하여 공복 6시간 후 검사 바람 : 산전기본검사(임산부에 해당)... 및 <b>관리<\/b> : 양산시에 주민등록을 둔 임신 14주~18주의 보건소 등록 임산부 태아 기형아 검사비... "
+		},
+		{
+			"title":"aT식품기업지원<b>관리<\/b>시스템:::",
+			"link":"https:\/\/www.foodbiz.or.kr\/",
+			"description":"at식품<b>사업관리<\/b> ... [식품 품질위생 단기역량제고 지원<b>사업<\/b>] 2022년 식품 품질 위생 단기역량제고 지원기업 모집공고(선착순) 2022.04.12 ~ 2022.08.31 [기타 지원<b>사업<\/b>] 2022년 하반기 농공상기업 국제식품박람회 참가업체 모집공고 2022.06.28 ~ 2022.07.18 "
+		},
+		{
+			"title":"| 구미보건소 - 구미시청",
+			"link":"http:\/\/www.gumi.go.kr\/health\/contents.do?mId=0309030700",
+			"description":"지원<b>사업<\/b> 지원대상자 증명서 또는 최근 3개월이내 발급된 진단서 미혼모 산모 : 한부모가족증명서 또는 가족관계증명서(상세) 및 혼인관계증명서(상세) 3. 1년이상 사실혼 확인이 가능한 공문서 1부 4. 3을 제출... "
+		},
+		{
+			"title":"매칭배정 - 한국농수산식품유통공사 &gt; 회원 로그인",
+			"link":"https:\/\/member.at.or.kr\/customer\/m100002\/login.action",
+			"description":" "
+		},
+		{
+			"title":"산모 · 신생아 건강<b>관리<\/b>사 지원<b>사업<\/b> &gt; 모자보건<b>사업<\/b> &gt; 보건<b>사업<\/b>안내 &gt; 대전 중구 보건소 - 대전광역시 중구청",
+			"link":"https:\/\/www.djjunggu.go.kr\/health\/sub04_07_03.do",
+			"description":"<b>사업<\/b>자등록증 - <b>사업<\/b>자 등록증이 있는 지역가입자의 경우 ⑦ 국가유공자 자녀, 해외 장기 체류 등으로 건강보험료 미납 시 관련 서류 제출 (보건소 문의 바람) 산모 및 신생아 건강<b>관리<\/b>를 위한 가정방문 서비스... "
+		},
+		{
+			"title":"소개 &lt; 의료비지원<b>사업<\/b> &lt; 지원<b>사업<\/b> &lt; 질병<b>관리<\/b>청 희귀질환 헬프라인",
+			"link":"https:\/\/helpline.kdca.go.kr\/cdchelp\/ph\/ptlcontents\/selectPtlConSent.do?schSno=110&menu=B0101",
+			"description":"소개 목적 및 지원범위 지원대상자 신청안내 지원항목 근거법령 희귀질환<b>관리<\/b>법 제12조 제13조, 같은 법... 의료비지원<b>사업<\/b>은 저소득층지원<b>사업<\/b>으로 환자가구와 부양의무자가구기준이 모두 만족하는 경우에... "
+		},
+		{
+			"title":"대한주택<b>관리<\/b>사협회",
+			"link":"http:\/\/www.khma.org\/",
+			"description":"협회소개,관련법령,장기수선계획,공제<b>사업<\/b>단,이행공제,교육장대관,세미나,워크샵,강연장,시험장"
+		},
+		{
+			"title":"<b>사업관리<\/b> - 가톨릭관동대학교창업지원단",
+			"link":"http:\/\/startup.cku.ac.kr\/board\/board_list.php?board_name=sub2_4&search_category=2017",
+			"description":"창업아이템<b>사업<\/b>화 <b>사업관리<\/b> <b>사업관리<\/b> <b>사업관리<\/b> 2016 2017 2018 홈페이지 바로가기 기업명 (주)정인그린빌 대표명 박성환 연락처 http:\/\/www.inzip.co.kr 033-261-1282 아이템명 건축물의 기울어짐 예측을 위한 IoT센서... "
+		},
+		{
+			"title":"행정안전부",
+			"link":"https:\/\/www.mois.go.kr\/",
+			"description":"행정안전부 홈페이지에 오신것을 환영합니다."
+		},
+		{
+			"title":"공지사항 : 부산광역시 체육시설<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/www.busan.go.kr\/stadium\/sfnotice",
+			"description":"7월 체육시설<b>관리<\/b><b>사업<\/b>소(아시아드,실내체육관,야구장,수영장) 행사 일정 변동알림(7.7자) [사직실내수영장] 경영풀장 일시 사용중단 안내 2022년 7월 실내체육관 보조경기장 무료개방 일정 변동 알림(6.30자... "
+		},
+		{
+			"title":"산모·신생아 건강<b>관리<\/b> 지원 &gt; 출산지원<b>사업<\/b> &gt; 주요<b>사업<\/b> &gt; - 세종특별자치시청",
+			"link":"https:\/\/www.sejong.go.kr\/health\/sub03_04_02.do",
+			"description":"세종특별자치시 보건소, 산모·신생아 건강<b>관리<\/b> 지원 &gt; 출산지원<b>사업<\/b> &gt; 주요<b>사업<\/b> &gt;"
+		},
+		{
+			"title":"산모\/신생아건강<b>관리<\/b>지원<b>사업<\/b> | <b>사업<\/b>별 소개 - 사회서비스 전자바우처",
+			"link":"https:\/\/www.socialservice.or.kr:444\/user\/htmlEditor\/view2.do?p_sn=7",
+			"description":"이용권 <b>관리<\/b>에 관한 법률」 「 저출산ㆍ고령사회기본법」 제8조 내지 제10조 「모자보건법」제15조의18출산 가정에 산모·신생아 <b>관리<\/b>사를 통한 가정방문 서비스를 지원하여 산모·신생아 건강<b>관리<\/b> 및... "
+		},
+		{
+			"title":"질병<b>관리<\/b>청 질병보건통합<b>관리<\/b>시스템",
+			"link":"https:\/\/is.kdca.go.kr\/",
+			"description":"보건소 및 예방접종 등록 병의원 업무지원 서비스, 접종 정보, 인플루엔자 일일보고 안내."
+		},
+		{
+			"title":"청주랜드<b>관리<\/b><b>사업<\/b>소",
+			"link":"http:\/\/www.cheongju.go.kr\/land\/index.do",
+			"description":"청주랜드, 어린이회관, 동물원, 놀이동산, 체험학습 등 안내."
+		},
+		{
+			"title":"질병<b>관리<\/b>청 예방접종도우미",
+			"link":"https:\/\/nip.kdca.go.kr\/",
+			"description":"질병<b>관리<\/b>청 운영, 신종인플루엔자, 결핵, B형간염, 독감예방접종 등 정보 제공 및 사전 예약, 접종내역 조회 등 제공."
+		},
+		{
+			"title":"산모신생아 건강<b>관리<\/b> 지원<b>사업<\/b>(산후도우미) : 관악구 보건소 - 관악구청",
+			"link":"https:\/\/www.gwanak.go.kr\/site\/health\/04\/10402020000002016051301.jsp",
+			"description":"홈 &gt; <b>사업<\/b>안내 &gt; 모자보건 &gt; 산모신생아 건강<b>관리<\/b> 지원<b>사업<\/b>(산후도우미)"
+		},
+		{
+			"title":"<b>사업관리<\/b> 다운로드 맞춤엑셀 쿠키",
+			"link":"https:\/\/www.coukey.co.kr\/10all\/010000L_webzine.php?catecode=10010000&vote_word=+%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC",
+			"description":"구성 : 거래처<b>관리<\/b>, 제품<b>관리<\/b>, 매입매출내역입력, 월별매입매출현황 이 제품은 거래처별 할인율을 별도<b>관리<\/b>를 적용한 매입매출을 <b>관리<\/b>할 수 있습니다."
+		},
+		{
+			"title":"<b>사업관리<\/b> 다운로드 맞춤엑셀 쿠키",
+			"link":"https:\/\/www.coukey.co.kr\/10all\/010000L_webzine.php?catecode=&vote_word=+%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC",
+			"description":"구성 : 거래처<b>관리<\/b>, 제품<b>관리<\/b>, 매입매출내역입력, 월별매입매출현황 이 제품은 거래처별 할인율을 별도<b>관리<\/b>를 적용한 매입매출을 <b>관리<\/b>할 수 있습니다."
+		},
+		{
+			"title":"산모·신생아건강<b>관리<\/b>지원 | 출산지원<b>사업<\/b> | 모자보건 | 보건<b>사업<\/b> | 부천시보건소",
+			"link":"https:\/\/pubhealth.bucheon.go.kr\/site\/homepage\/menu\/viewMenu?menuid=161004004003001",
+			"description":"(사회서비스 전자바우처 (https:\/\/www.socialservice.or.kr:444\/user\/svcsrch\/supply\/supplyList.do ) →서비스 검색 →제공기관 검색 →지역선택 &amp;산모신생아 건강<b>관리<\/b>사 체크 →조회)제공기관에 본인부담금을 납부합니다.... "
+		},
+		{
+			"title":"서울특별시 체육시설<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/stadium.seoul.go.kr\/",
+			"description":"서울 잠실 종합운동장, 각종 체육시설 소개, 경기, 행사일정, 입찰공고, 무료예식장 안내."
+		},
+		{
+			"title":"정비<b>사업<\/b> 정보몽땅",
+			"link":"https:\/\/cleanup.seoul.go.kr\/",
+			"description":"정비<b>사업<\/b> 정보몽땅 시민용 첫화면입니다."
+		},
+		{
+			"title":"Keit 한국산업기술평가<b>관리<\/b>원",
+			"link":"https:\/\/www.keit.re.kr\/",
+			"description":"산업통상자원부 산하기관, 평가원 소개, 기술 기획, 개발, 기반조성, 지역혁신 등 <b>사업<\/b> 안내."
+		},
+		{
+			"title":"임산부 건강<b>관리<\/b><b>사업<\/b> | 인천광역시 서구 보건소&gt;<b>사업<\/b>안내&gt;모자보건<b>사업<\/b>&gt;임산부 건강<b>관리<\/b><b>사업<\/b>",
+			"link":"https:\/\/www.seo.incheon.kr\/open_content\/clinic\/business\/mathernal_child\/pregnancy.jsp",
+			"description":"<b>사업<\/b>안내 모자보건<b>사업<\/b> 임산부 건강<b>관리<\/b><b>사업<\/b> 임산부 건강<b>관리<\/b><b>사업<\/b> 임산부 등록·<b>관리<\/b> 보건소 및 건강생활지원센터(완정, 석남, 가좌, 검단)에 등록된 임산부에 한해 지원가능합니다.... "
+		},
+		{
+			"title":"한국에너지공단 그린홈",
+			"link":"https:\/\/greenhome.kemco.or.kr\/",
+			"description":"여기는 한국에너지공단 그린홈 사이트입니다."
+		},
+		{
+			"title":"한국연구재단",
+			"link":"https:\/\/www.nrf.re.kr\/",
+			"description":"연구<b>사업<\/b>, 학술대회, 산학협력, 국책, 기초연구, 거대과학, 국제협력, 인력양성, 인문사회 등 수록."
+		},
+		{
+			"title":"국민건강보험공단",
+			"link":"https:\/\/www.nhis.or.kr\/",
+			"description":"제도소개, 사회보험통합징수, 보험급여, 건강검진, 노인장기요양보험, 사이버민원센터, 금연치료, 건강자료실 등 안내."
+		},
+		{
+			"title":"동물보호<b>관리<\/b>시스템 길고양이 중성화 <b>사업<\/b>",
+			"link":"https:\/\/www.animal.go.kr\/front\/community\/show.do?boardId=contents&seq=1&menuNo=4000000028",
+			"description":"⑦ <b>사업<\/b>시행 지정기관은 포획한 개체에 대하여 의 보호동물 개체<b>관리<\/b>카드 및의 보호동물 <b>관리<\/b>대장을 작성·<b>관리<\/b>하여야 한다.① 중성화 수술은 수의사가 하여야 한다. ② 중성화 수술은 포획을 기준으로 만 48시간... "
+		},
+		{
+			"title":"<b>사업관리<\/b> - 기술인\/기술IN\/건설뉴스, 산업뉴스, 토목뉴스,",
+			"link":"https:\/\/www.gisulin.kr\/news\/index.html?section=1&category=8",
+			"description":"목포종합경기장 조감도 ⓒ 목포시 목포시가 2022년 10월 예정인 전국체전을 위해 목포종합경기장 건립을 턴키방식으로 추...GTX-A 민간투자<b>사업<\/b> 노반공사 건설<b>사업관리<\/b>용역이 발주됐다. 한국도시철도공단은 GTX... "
+		},
+		{
+			"title":"국가연구안전정보시스템",
+			"link":"https:\/\/www.labs.go.kr\/",
+			"description":"기관 소개, 연구실 안전<b>관리<\/b>, 정책 및 <b>사업<\/b>, 뉴스, 보도자료 등 안내."
+		},
+		{
+			"title":"<b>사업관리<\/b> 프로, 기업, 채용 | 로켓펀치 - 비즈니스 네트워크",
+			"link":"https:\/\/www.rocketpunch.com\/tag\/saeobgwanri-dgv13s",
+			"description":"위택스 간단e시스템 연계 분석 및 설계, 개발, 테스트, 사용자 교육DB손해보험 전자문서<b>관리<\/b>시스템 재구축 <b>사업<\/b>에서 <b>사업관리<\/b> 및 품질<b>관리<\/b>자로써 일정<b>관리<\/b> 및 위험<b>관리<\/b>, 투입인력<b>관리<\/b>, 보안성 심의 관련... "
+		},
+		{
+			"title":"암환자의료비지원<b>사업<\/b> &gt; 국가암<b>관리<\/b><b>사업<\/b> 소개 &gt; 국가암<b>관리<\/b><b>사업<\/b> | 국립암센터",
+			"link":"https:\/\/www.ncc.re.kr\/main.ncc?uri=manage01_5",
+			"description":"암환자의료비지원<b>사업<\/b>은 저소득층 암환자를 대상으로 정부가 암으로 인한 의료비를 지원하는 <b>사업<\/b>입니다. 2002년 만 15세 이하 소아 백혈병 환자 지원<b>사업<\/b>으로 시작한 암환자의료비지원<b>사업<\/b>은 지속적으로... "
+		},
+		{
+			"title":"Home : 부산광역시 체육시설<b>관리<\/b><b>사업<\/b>소",
+			"link":"https:\/\/stadium.busan.go.kr\/",
+			"description":"공지사항 구덕운동장 주경기장 공사 시행 알림 강서체육공원 실내수영장 2022년 8월 수영강습 인터넷 접수 안내2022-07-20 [사직실내수영장] 2022년 8월 수영장 운영안내2022-07-19 2022년 8월 실내체육관"
+		},
+		{
+			"title":"국세청 홈택스",
+			"link":"https:\/\/www.hometax.go.kr\/",
+			"description":"조회·발급, 민원증명, 신청·제출, 신고·납부, 상담·제보, 연말정산, 전자세금계산서, 전자불복청구, 현금영수증"
+		},
+		{
+			"title":"한국에너지기술평가원 GENIE",
+			"link":"https:\/\/genie.ketep.re.kr\/",
+			"description":"에너지기술개발<b>사업<\/b> 신규지원대상과제 공고 [종료]2022년 에너지국제공동연구<b>사업<\/b>(노르웨이,체코) 신규지원 대상과제 공고 [종료]2022년도 상반기 에너지기술정책수립<b>사업<\/b>... "
+		},
+		{
+			"title":"방위<b>사업<\/b>청",
+			"link":"http:\/\/www.dapa.go.kr\/",
+			"description":"군수품관련 획득업무 및 행정정보공개제도 안내, 전자민원창구, 채용정보 등 수록."
+		},
+		{
+			"title":"서울특별시 한강<b>사업<\/b>본부",
+			"link":"https:\/\/hangang.seoul.go.kr\/",
+			"description":"한강공원 볼거리, 즐길거리, 시설이용방법 안내, 한강<b>사업<\/b>본부 및 한강의 역사 소개 등"
+		},
+		{
+			"title":"질병<b>관리<\/b>청",
+			"link":"https:\/\/www.kdca.go.kr\/",
+			"description":"질병<b>관리<\/b>청 공식 홈페이지, 감염병·건강정보, 정책정보, 연구개발 및 간행물·통계 정보를 제공합니다."
+		},
+		{
+			"title":"부산 엄궁 농산물 도매시장",
+			"link":"https:\/\/www.busan.go.kr\/egmarket\/index",
+			"description":"도매시장 안내, 실시간 경락, 거래가격, 반입물량, 출하지 정보 등 제공."
+		},
+		{
+			"title":"BrainKorea21 Four - 4단계 두뇌한국21",
+			"link":"https:\/\/bk21four.nrf.re.kr\/",
+			"description":"BK21 <b>사업관리<\/b> 실무자 워크숍 자료 공유 2022-06-13 [공모전] 4단계 BK21 대학원생 인권침해 및 연구장학금 공동<b>관리<\/b> 근절 공모작 저작권 검토요청 2022-06-10 [공지] 4단계 BK21 <b>사업<\/b> 2022년도 2분기 웹진 게재"
+		},
+		{
+			"title":"<b>사업관리<\/b> - 이엘에듀",
+			"link":"https:\/\/www.eledu.co.kr\/worker\/lecture.php?ParentCategory=57&Category=131",
+			"description":"나무가 아닌 숲을 보라! 리더십 스펙트럼의 비밀핵심만 콕! 프로젝트 <b>관리<\/b>(PM) 일반 새로운 기회와 도전, 지금 당장 아세안 공부하라-베트남 새로운 기회와 도전, 지금 당장 아세안 공부하라-태국"
+		},
+		{
+			"title":"Engi's CONPAPER :: 건설<b>사업관리<\/b>사자격검정시험 공고",
+			"link":"https:\/\/conpaper.tistory.com\/73997",
+			"description":"건설<b>사업관리<\/b>사자격검정시험 공고 우리 협회는 건설<b>사업관리<\/b>사자격<b>관리<\/b>·운영규정 제12조제2항의 의거 2019년도 건설<b>사업관리<\/b>사자격검정시험 시행계획을 붙임과 같이 공고합니다. 2018년 12월 26일 한국CM협회장.."
+		},
+		{
+			"title":"<b>사업관리<\/b> | PMinside",
+			"link":"http:\/\/pminside.com\/tag\/%EC%82%AC%EC%97%85%EA%B4%80%EB%A6%AC\/",
+			"description":"<b>사업관리<\/b>란? <b>사업<\/b> 생애주기와 단계 <b>사업 관리<\/b>자의 하드스킬과 소프트스킬 Module 2. 성공하는 <b>사업<\/b>, 실패하는 <b>사업<\/b> 성공 사례 분석 실패 사례 분석 Tower game으로 이해하는 <b>사업<\/b> 성공 요소 Module 3.... "
+		},
+		{
+			"title":"대한민국 대표 복지포털 '복지로'",
+			"link":"https:\/\/www.bokjiro.go.kr\/",
+			"description":"보건복지부 운영 복지포털 사이트, 복지서비스 소개 및 찾기, 온라인신청, 복지시설 검색, 복지소식 등 제공."
+		},
+		{
+			"title":"경기도청",
+			"link":"https:\/\/www.gg.go.kr\/",
+			"description":"경기도 안내, 경기도 산업경제, 무역기업, 생활문화, 여권발급, 환경정보 및 관련사이트 수록."
+		},
+		{
+			"title":"e나라도움",
+			"link":"https:\/\/www.gosims.go.kr\/",
+			"description":"국고보조금의 예산편성 교부 집행 정산등의 보조금 처리 전 과정을 전자화 정보화하여 통합 <b>관리<\/b> 함으로써 보조금 예산이 꼭 필요한 사람에게 효율적으로 쓰이도록 <b>관리<\/b>하는 시스템 ... "
+		},
+		{
+			"title":"영양군생태공원<b>사업<\/b>소",
+			"link":"http:\/\/np.yyg.go.kr\/",
+			"description":"영양군청 ... <b>사업<\/b>소 소개 <b>사업<\/b>소안내 인사말 연혁 <b>사업<\/b>소안내 시설현황 부서안내 찾아오시는길 청소년수련원 수련원안내 이용안내 시설안내 부대시설 수련원안내 프로그램 1박 2일 2박 3일 청소년수련활동인증프로그램 프로그램 수 "
+		},
+		{
+			"title":"주택<b>관리<\/b>공단",
+			"link":"https:\/\/www.kohom.or.kr\/",
+			"description":"공단 소개, 주택<b>관리<\/b>, 유지보수, 주거복지 등 <b>사업<\/b> 및 민원 서비스 안내."
+		}
+	]
+}

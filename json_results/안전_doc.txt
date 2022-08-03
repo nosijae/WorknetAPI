@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:45 +0900",
+	"total":702730,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>안전<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2873",
+			"description":""
+		},
+		{
+			"title":"해양환경<b>안전<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6743",
+			"description":""
+		},
+		{
+			"title":"대한<b>안전<\/b>경영과학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3562",
+			"description":""
+		},
+		{
+			"title":"재난<b>안전<\/b> 분야 IoT 융합 센싱 기술의 최신 동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650688599",
+			"description":"  목차\n재난<b>안전<\/b> 분야 IoT 융합 센싱 기술의 최신 동향 \/ 하상민 1\n I. 서론 1\n II. IoT 핵심 기술 1\n  2.1. 센"
+		},
+		{
+			"title":"<b>안전<\/b>보건 이슈리포트",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3566",
+			"description":""
+		},
+		{
+			"title":"행위<b>안전<\/b>“2-4”모형급기재매광<b>안전<\/b>관리중적응용 (行为安全“2-4”模型",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=744612403",
+			"description":"   Risk analysis (engineering), Organizational safety, Organizational behavior, Operations research, Management system, Liability, Engi"
+		},
+		{
+			"title":"재난<b>안전<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2611404",
+			"description":""
+		},
+		{
+			"title":"간호대학생의 환자<b>안전<\/b>에 대한 지식, 태도 및 수행자신감",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74825534",
+			"description":"Knowledge, Attitude, and Confidence on Patient Safety of Undergraduate Nursing Students 본 연구는 간호대학생의 환자<b>안전<\/b>"
+		},
+		{
+			"title":"양식<b>안전<\/b>시역하농업괄도규모경영여신형직업농민——우합궤제、국제경",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722220289",
+			"description":""
+		},
+		{
+			"title":"한국<b>안전<\/b>교육학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6068",
+			"description":""
+		},
+		{
+			"title":"&quot;K-방재를 기반으로 전 국민 안심사회를 만들겠습니다&quot; : 김계조 행정안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650673994",
+			"description":"  목차\n&quot;K-방재를 기반으로 전 국민 안심사회를 만들겠습니다&quot; : 김계조 행정<b>안전<\/b>부 재난<b>안전<\/b>관리본부"
+		},
+		{
+			"title":"중국식품질량<b>안전<\/b>박약환절、본질원인급관거공제점연구——기우1460개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=745753662",
+			"description":""
+		},
+		{
+			"title":"파서“2·4”대정전사고급대전망<b>안전<\/b>온정운행적계시 (巴西“2·4”大停",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=730005907",
+			"description":""
+		},
+		{
+			"title":"대학병원과 중소병원 간호사의 환자<b>안전<\/b>문화에 대한 인식과 환자<b>안전<\/b>간",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174246982",
+			"description":"A Comparative Study on Perception of Patient Safety Culture and Safety Care Activities: Comparing University Hospital Nurses and Small "
+		},
+		{
+			"title":"자율주행 종방향 기능 <b>안전<\/b>을 위한 적응 슬라이딩 모드 관측기 기반 가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650606668",
+			"description":"Adaptive sliding mode observer based fault tolerant control of acceleration and environment sensor for functional safety of longitudina"
+		},
+		{
+			"title":"지역사회 소방<b>안전<\/b>수준 관련 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650609149",
+			"description":"  표제지\n목차\n국문초록 7\nABSTRACT 9\nI. 서론 11\n 1. 연구의 배경 및 필요성 11\n 2. 연구의 목적 13\nII. 연구방"
+		},
+		{
+			"title":"식품<b>안전<\/b>사회공치：기업、정부여제삼방감관력량 (食品安全社会共治：",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=700546283",
+			"description":""
+		},
+		{
+			"title":"<b>안전<\/b>에 관한 그림책을 활용한 창의적 문제해결과정이 유아의 <b>안전<\/b> 문제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45702179",
+			"description":"The effects of the creative problem solving process using children’s safety picture-books on the safety problem solving abilities of "
+		},
+		{
+			"title":"기우“압력-상태-향응”모형적흑용강성생태<b>안전<\/b>평가연구 (基于“压力-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=655233255",
+			"description":""
+		},
+		{
+			"title":"환자<b>안전<\/b>문화 인식에 따른 <b>안전<\/b>사고발생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56520424",
+			"description":"Safety Accident Occurrence to Perceptions of Patient Safety Culture of Hospital Nurses 본 연구는 환자<b>안전<\/b>문화 인식에 따"
+		},
+		{
+			"title":"일부 고등학생들의 <b>안전<\/b>보건교육 및 <b>안전<\/b>사고 실태와 관련요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11199520",
+			"description":"The Status of Safety Accident and Safety Health Education and Risk Factors of Safety Accident among the selected High School Students  "
+		},
+		{
+			"title":"상황중심 유아<b>안전<\/b>교육 수업모형 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187748590",
+			"description":"  목차\n상황중심 유아<b>안전<\/b>교육 수업모형 개발 \/ 유구종 ; 한명옥 1\n [요약] 1\n I. 서론 2\n II. 연구방법 5\n  1"
+		},
+		{
+			"title":"영유아기 어머니들의 <b>안전<\/b>지식, <b>안전<\/b>인식과 <b>안전<\/b>실천과의 관계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58322551",
+			"description":"Relationship between Knowledge, Awareness and Practice on Safety of Mothers with Infant and Young Children 본 연구는 영유아들"
+		},
+		{
+			"title":"재난<b>안전<\/b>정보 공동활용을 위한 표준화 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=585770156",
+			"description":"A Study on Standardization of the Public Use of Disaster and Safety Information 최근 세계적으로 4차 산업혁명과 재난관"
+		},
+		{
+			"title":"유기채무、풍험상황여중국재정<b>안전<\/b>——겸륜중국재정풍험예경여공제리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=733862657",
+			"description":""
+		},
+		{
+			"title":"유아교육기관 유아 <b>안전<\/b>사고의 잠재적 요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74861258",
+			"description":"Oh! It could have been dangerous. - Research on potential factors of child safety accident In kindergartens - 본 연구는 유아교"
+		},
+		{
+			"title":"국민<b>안전<\/b> 강화 및 전기 <b>안전<\/b>관리시스템 마련 : '전기<b>안전<\/b>관리법'[시행 202",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898565788",
+			"description":"  목차\n국민<b>안전<\/b> 강화 및 전기 <b>안전<\/b>관리시스템 마련 : '전기<b>안전<\/b>관리법'[시행 2021.4.1.] \/ 박민선 1\n [머리"
+		},
+		{
+			"title":"환자<b>안전<\/b> 문화에 대한 의료 종사자의 인식과 경험",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=31847779",
+			"description":"Experience and Perception on Patient Safety Culture of Employees in Hospitals Purpose: The objectives of this study were to understand "
+		},
+		{
+			"title":"요양병원 및 노인요양시설 실태조사를 통한 피난<b>안전<\/b> 개선방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650608564",
+			"description":"  표제지\n목차\nI. 서론 11\n 1.1. 연구의 배경 및 목적 11\n 1.2. 연구의 범위 및 방법 14\nII. 요양병원 및 노인"
+		},
+		{
+			"title":"기우변권-물원분석모형적노공업기지구역생태<b>안전<\/b>동태예경연구——이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=717649848",
+			"description":""
+		},
+		{
+			"title":"이야기 만들기·극 연계활동이 유아의 <b>안전<\/b>지식 및 <b>안전<\/b>문제해결사고 능",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58322549",
+			"description":"The Effects of Story Making and Dramatization on Young Children’s Safety Knowledge and Safety Problem Solving Ability 본 연구의 "
+		},
+		{
+			"title":"캠핑 산업 성장과 야영장 <b>안전<\/b> 관리 대책",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177923332",
+			"description":"  목차\n캠핑 산업 성장과 야영장 <b>안전<\/b> 관리 대책 \/ 김윤영 ; 김송이 1\n 1. 캠핑 산업의 성장과 문제점 1\n 2"
+		},
+		{
+			"title":"한국 전공의들의 근무환경, 건강, 인식된 환자<b>안전<\/b>: 2014 전공의 근무환경",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=156142344",
+			"description":"Working Condition, Health and Perceived Patient Safety among Doctors in Training: 2014 Korean Interns &amp; Residents Survey 본 연구는 "
+		},
+		{
+			"title":"화재<b>안전<\/b>점검",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=60969",
+			"description":""
+		},
+		{
+			"title":"K-12 학교시설 <b>안전<\/b>요원의 CCTV 모니터링 업무 설정에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153347070",
+			"description":"A Study on the Definition of CCTV Monitoring Duty for K-12 School Safety People 최근 학교<b>안전<\/b>에 있어서 많은 제도적, 시"
+		},
+		{
+			"title":"천연식용색소적특성﹑응용、<b>안전<\/b>성평개급<b>안전<\/b>공제 (天然食用色素的特",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=746355227",
+			"description":""
+		},
+		{
+			"title":"학교의 <b>안전<\/b>교육 관련 특성이 청소년의 사고발생 예측에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11525272",
+			"description":"School Safety Education Factors Predicting Injury Prevalence Among Korean Adolescence  목차\n학교의 <b>안전<\/b>교육 관련 특성이 "
+		},
+		{
+			"title":"위험·재난 및 <b>안전<\/b> 개념에 대한 법이론적 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=154129337",
+			"description":"The Legal Theoretical Analysis of the Concept of Risk, Disaster and Safety 세월호 참사 이후 우리 사회에서는 위험, 재"
+		},
+		{
+			"title":"간호대학생의 환자<b>안전<\/b>관리활동에 영향을 미치는 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562144481",
+			"description":"Factors Influencing the Patient Safety Management Activity of Nursing Students 본 연구는 4학년 간호대학생을 대상으로 "
+		},
+		{
+			"title":"유아교사들의 <b>안전<\/b>에 대한 지식과 사고예방실천과의 관계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=421067958",
+			"description":"Relationship between Early Childhood TeachersKnowledge and Protective Practice on Safety The purpose of this study was to investigate t"
+		},
+		{
+			"title":"해운선사 <b>안전<\/b>관리 평가지표 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=706030119",
+			"description":""
+		},
+		{
+			"title":"부산과호이질량공제여<b>안전<\/b>관리 (妇产科护理质量控制与安全管理)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=700493281",
+			"description":""
+		},
+		{
+			"title":"천석“대수거”시대적신식<b>안전<\/b>여응대 (浅析“大数据”时代的信息安全",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=727619012",
+			"description":""
+		},
+		{
+			"title":"“몰유망낙<b>안전<\/b>취몰유국가<b>안전<\/b>,몰유신식화취몰유현대화”——해독습",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=695402014",
+			"description":""
+		},
+		{
+			"title":"조종사의 <b>안전<\/b>행동을 예측하는 조직의 <b>안전<\/b>문화와 개인의 <b>안전<\/b>태도 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18470349",
+			"description":"Linking organizational safety culture and individual safety attitude and motivation to pilot safety behavior: A multi-level analysis of"
+		},
+		{
+			"title":"징벌성배상책임적경합급기괄용——《침권책임법》제47조여《식품<b>안전<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=666485608",
+			"description":""
+		},
+		{
+			"title":"양식<b>안전<\/b>여“비필수진구”공제문제연구 (粮食安全与“非必需进口”控",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=727511297",
+			"description":""
+		},
+		{
+			"title":"지방 및 중앙정부의 재난<b>안전<\/b> 통신망 구축 전략에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78311700",
+			"description":"The Study on the Construction Strategy for the Integrated Wireless Network for Disaster and Safety 정부는 지난 2003년 대구지"
+		},
+		{
+			"title":"법규범의 발전과 판례― 프랑스민법상 ‘<b>안전<\/b>배려의무’와 ‘정보제공",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420524177",
+			"description":"La jurisprudence et le d veloppement des normes juridiques   계약, 법규범, 법원, <b>안전<\/b>배려의무, 정보제공의무, 판례,"
+		},
+		{
+			"title":"의료기관 인증 후 환자<b>안전<\/b> 및 질 관리 변화와 경영활동 변화 간의 관계:",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561770330",
+			"description":"Relationship between Changes of Patient Safety &amp; Medical Service Quality and Changes of Management Activity after Medical Institution A"
+		},
+		{
+			"title":"의료기관인증이 병원 근로자가 지각하는 환자<b>안전<\/b>과 질, 직무만족 및 조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290126849",
+			"description":"The impact of healthcare accreditation on patient safety and quality, job satisfaction and organizational commitment: about a general h"
+		},
+		{
+			"title":"장강유역（편）중요음용수수원지<b>안전<\/b>보장체표건설대책연구 (长江流域",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=726536342",
+			"description":""
+		},
+		{
+			"title":"초등학교 <b>안전<\/b>교육 실태와 발전방향에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58337984",
+			"description":"A Study on Safety Training Program at Elementary School ; with an Emphasis on Curriculum Changes Recently, children's deaths are found "
+		},
+		{
+			"title":"재난<b>안전<\/b>정보의 통합 관리를 위한 분류체계 현황분석 및 개선방안에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561521736",
+			"description":"A Study on the Analysis and Improvement of Classifications for Integrated Management of Disaster and Safety Information 본 연구는 "
+		},
+		{
+			"title":"보육시설 아동에 대한 교사의 <b>안전<\/b>교육 요구도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57611445",
+			"description":"The Degree of Safety Education Requirement for Younger Children in Child Daycare Center Teachers 본 연구를 통해 보육교사들"
+		},
+		{
+			"title":"건설<b>안전<\/b>사고 사전 예측을 위한 인공신경망 기법 적용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289351213",
+			"description":"Application of Artificial Neural Networks to Prediction of Construction Safety Accidents 2016년 3월에 인간과 인공지능간의 "
+		},
+		{
+			"title":"<b>안전<\/b>한 캠핑장 운영을 위한 정책적 개선방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74823646",
+			"description":"A study on the Improvement of Policy Direction for Safe Camping Ground Activities Recently, national leisure activities have increased "
+		},
+		{
+			"title":"국내 여객선 승객의 선박<b>안전<\/b> 의식조사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=421012767",
+			"description":"A Koreans’ consciousness survey on the onboard safety of domestic passenger ship 국내외 여객선, 크루즈선의 이용자는 "
+		},
+		{
+			"title":"환자<b>안전<\/b> 중심 간호인력 정책 도출을 위한 델파이 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78293363",
+			"description":"A Delphi Study to Elicit Policies for Nurse Workforce based on Patient Safety 본 연구는 2013년 2월 발표된 보건복지부의 "
+		},
+		{
+			"title":"한중 소비자의 식품<b>안전<\/b>인식과 위험지각 및 <b>안전<\/b>식품 추가지불의도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896637759",
+			"description":"Food Safety Perception, Perceived Risk, and Willingness to Pay for Safe Foods of Korean and Chinese Consumers 본 연구는 한국과 "
+		},
+		{
+			"title":"물류센터 <b>안전<\/b>인식과 <b>안전<\/b>현황에 대한 <b>안전<\/b>교육의 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896914111",
+			"description":"Effect of Safety Education on Safety Awareness and Safety Status of Logistics Centers 최근 물류센터 화재사고를 비롯하여 "
+		},
+		{
+			"title":"초등학생을 위한 교사용 <b>안전<\/b>교육 지침서 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420183534",
+			"description":"Development of a Safety Education Guideline Book for Teachers of Elementary School Students Purpose: The purpose of this study was to d"
+		},
+		{
+			"title":"병원 간호사가 지각하는 환자<b>안전<\/b> 관리 활동의 중요성 인식과 수행",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288864877",
+			"description":"Perception and Performance about Patient Safety Management for Hospital Nurses 본 연구의 목적은 병원 간호사의 환자<b>안전<\/b>"
+		},
+		{
+			"title":"건설업체의 정성적‧정량적 <b>안전<\/b>경영활동과 근로자의 <b>안전<\/b>의식이 <b>안전<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177270159",
+			"description":"The Influence of Qualitative and Quantitative Safety Management Activities and Employees' Safety Awareness on Safety Behavior in the Co"
+		},
+		{
+			"title":"쌍기간균、장구균、유간균화아포간균사연활균장용교낭치료만성복사적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=720862885",
+			"description":""
+		},
+		{
+			"title":"캐나다의 직업<b>안전<\/b>보건법상 작업거부권과 시사점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651443260",
+			"description":"Right to Refuse Unsafe Work: Canadian Occupational Health and Safety Legislation and Lessons for Korea 근로계약상의 의무이행"
+		},
+		{
+			"title":"병원조직구성원의 <b>안전<\/b>문화풍토와 <b>안전<\/b>이행에 대한 설명모형",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561489425",
+			"description":"A Structural Model of Safety Climate and Safety Compliance of Hospital Organization Employees 본 연구는 우리나라 병원조직"
+		},
+		{
+			"title":"초등학교 아동의 <b>안전<\/b>교육이 <b>안전<\/b> 생활 실천에 미치는 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420184215",
+			"description":"Effects of School Safety Education on Safety Behavior among Elementary School Students =Effects of School Safety Education on Safety Be"
+		},
+		{
+			"title":"병원의 환자<b>안전<\/b> 현황과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=234272223",
+			"description":"Current State and Challenges of Patient Safety in Hospitals 환자<b>안전<\/b>은 비교적 최근에 등장한 개념으로 환자 중심 "
+		},
+		{
+			"title":"연안여객선 <b>안전<\/b>공영제, 지방은행 설립 등 주제로 토론회 열려",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898565630",
+			"description":"  목차\n연안여객선 <b>안전<\/b>공영제, 지방은행 설립 등 주제로 토론회 열려 \/ 국회보 편 1\n 연안여객선 <b>안전<\/b>"
+		},
+		{
+			"title":"2008년-2010년연교육부고등학교<b>안전<\/b>공정학과교학지도위원회공작회의 (2008",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=99641934",
+			"description":""
+		},
+		{
+			"title":"영유아 부모를 위한 가정<b>안전<\/b>교육 프로그램 개발과 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16396154",
+			"description":"The Effectiveness of a Home Safety Program on Mothers' Knowledge, Attitude, and Practice to Safety Injury at Home   가정에서의안"
+		},
+		{
+			"title":"건강하고 <b>안전<\/b>한 식생활 식품<b>안전<\/b>나라와 함께",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898181223",
+			"description":"  식품<b>안전<\/b>나라 알아보기\n식품 알레르기 예방하기\n식중독 예방하기\n건강기능식품 알아보기\n비만 예방"
+		},
+		{
+			"title":"만3세와 만4세 누리과정 교사용 지도서에 나타난 유아 '<b>안전<\/b>교육' 활동의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594301126",
+			"description":" 본 연구는 만3세와 만4세 누리과정 교사용 지도서에 나타난 유아 '<b>안전<\/b>교육' 관련 내용을 분석준거에 "
+		},
+		{
+			"title":"산업재해예방 책임주체 확대에 따른 <b>안전<\/b>관리시스템 개선에 관한 연구 :",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650610473",
+			"description":"  표제지\n목차\n논문개요 11\n제1장 서론 13\n 제1절 연구배경 13\n 제2절 연구목적 14\n 제3절 연구범위 및 방법"
+		},
+		{
+			"title":"병원종사자의 조직 의사소통과 팀워크가 환자<b>안전<\/b>관리 중요성 인식 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561887374",
+			"description":"Effects of Organizational Communication and Team Work on the Perception of Importance and Activities on Patient Safety in General Hospi"
+		},
+		{
+			"title":"유아교사와 예비유아교사의 유아<b>안전<\/b>교육에 대한 개념도 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595120124",
+			"description":"An Analysis of Safety Education for Young Children: a Concept Map of Pre-service and In-service Teachers of Young Children 본 연구"
+		},
+		{
+			"title":"식품<b>안전<\/b>법체계의 근본문제 ― 법적 개념으로서 ‘식품<b>안전<\/b>’ 개념의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897601429",
+			"description":"Fundamental Problem of the Food Safety Law System — Establishment of ‘Food Safety’ as a Legal Concept — 이 연구는 식품법"
+		},
+		{
+			"title":"장애인의 주거 재난<b>안전<\/b> 실태 및 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=127677424",
+			"description":"Safety Practices and Policy Issues of Housing for the Disabled 최근 세월호 참사이후 재난<b>안전<\/b>에 대한 관심이 상당히"
+		},
+		{
+			"title":"한중 소비자의 식품<b>안전<\/b>인식과 위험지각 및 <b>안전<\/b>식품 추가지불의도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896908354",
+			"description":"Food Safety Perception, Perceived Risk, and Willingness to Pay for Safe Foods of Korean and Chinese Consumers 본 연구는 한국과 "
+		},
+		{
+			"title":"<b>안전<\/b>분위기 구성요소에 관한 실증적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78308220",
+			"description":"An Empirical Analysis on Safety Climate Constructs within Korean Companies 이 연구는 반복되는 사업장의 사망 재해 등 "
+		},
+		{
+			"title":"청장고원국가생태<b>안전<\/b>병장보호여건설 (青藏高原国家生态安全屏障保护",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=101385760",
+			"description":"Protection and Construction of the National Ecological Security Shelter Zone on Tibetan Plateau 青藏高原对我国乃至亚洲生态"
+		},
+		{
+			"title":"소비자신뢰와 구매단계별 식품<b>안전<\/b>추구행동에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77889767",
+			"description":"Consumer Trust and Food Safety Pursuit Behavior by Purchase Stage 삶의 질이 향상되면서 사람들의 <b>안전<\/b>에 대한 욕구는"
+		},
+		{
+			"title":"재난<b>안전<\/b>관련 산업 지원의 법적근거 마련 : 재난<b>안전<\/b>산업 진흥법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886411878",
+			"description":"  목차\n재난<b>안전<\/b>관련 산업 지원의 법적근거 마련 : 재난<b>안전<\/b>산업 진흥법 \/ 김성훈 1\n I. 입법 배경 1\n II. "
+		},
+		{
+			"title":"요양병원 간호사의 환자<b>안전<\/b>역량, <b>안전<\/b>통제감, 환자<b>안전<\/b>문화인식이 환",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650736942",
+			"description":"Effects of patient safety competency, safety control and perception of patient safety culture on patient safety nursing activities of n"
+		},
+		{
+			"title":"상황역할극 중심의 <b>안전<\/b>교육이 유아의 <b>안전<\/b>문제해결사고와 자기조절력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232458702",
+			"description":"The Influence of Situational Role Paly oriented Safety Education on Safety Problem Solving Ability and Self-regulation of Young Childre"
+		},
+		{
+			"title":"현장체험학습의 효율성 제고를 위한 <b>안전<\/b>대책 방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=128451251",
+			"description":"Study on Safety Measures to Improve Efficiency of the Field Experience Learning 본 연구의 목적은 현장체험학습이 교육목"
+		},
+		{
+			"title":"<b>안전<\/b>한 수소 신기술 활용을 위해 「수소 전주기 <b>안전<\/b>관리 종합계획」수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896817885",
+			"description":""
+		},
+		{
+			"title":"국내생태<b>안전<\/b>연구지지도보——기우Citespace적계량분석 (国内生态安全研",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=512745527",
+			"description":"The Knowledge Mapping of Domestic Ecological Security Research--Bibliometric Analysis Based on Citespace 以CSSCI中****-****年299篇"
+		},
+		{
+			"title":"학교 내 <b>안전<\/b>교육에 대한 초·중·고등학교 교사들의 인식 차이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=185831997",
+			"description":"A Comparison of Teacher Perception of Safety Education across Different Types of Korean Schools 본 연구는 2015년 한국의 학교 "
+		},
+		{
+			"title":"항공<b>안전<\/b> 위해요인 식별 및 효과적인 웹 시각화에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898271253",
+			"description":"A Study on the Identification of Aviation Safety Hazards and Its Effective Web Visualization 본 연구에서는 실제 항공기 운"
+		},
+		{
+			"title":"표준인증<b>안전<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2687775",
+			"description":""
+		},
+		{
+			"title":"군 <b>안전<\/b>교육과 <b>안전<\/b>의식이 <b>안전<\/b>성과에 미치는 영향에 관한 연구 - <b>안전<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891404961",
+			"description":"A Study on the Effect of Military Safety Education and Safety Consciousness on Safety Performance - Focusing on the Mediating Effect of"
+		},
+		{
+			"title":"병원의 환자<b>안전<\/b>문화 개선 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=234272236",
+			"description":"Ways of Improving Hospitals` Organizational Culture for Patient Safety 병원은 의료사고 발생을 감소하기 위해 실수 가"
+		},
+		{
+			"title":"재난<b>안전<\/b>정보 아카이브 구축을 위한 온라인 기록정보 현황분석 및 개선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291166530",
+			"description":"A study on Improvement and Analysis of Records Management Status for Disaster Safety Archives in Online Environment 재난에 대한 "
+		},
+		{
+			"title":"중소병원 수술실 간호사의 환자<b>안전<\/b>문화인식, 조직의사소통만족 및 환",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562324465",
+			"description":"Perception of Patient Safety Culture, Intra-Organizational Communication Satisfaction and Factors Influencing Patient Safety Nursing Ac"
+		},
+		{
+			"title":"&quot;국회의 <b>안전<\/b>과 질서유지에 최선 다할 것&quot; : 장훈 국회경비대 본부과장 [",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890342424",
+			"description":"  목차\n&quot;국회의 <b>안전<\/b>과 질서유지에 최선 다할 것&quot; : 장훈 국회경비대 본부과장 [인터뷰] \/ 장훈 ; 박민선"
+		},
+		{
+			"title":"노인요양시설의 환자<b>안전<\/b>문화 인식에 관한 귀납적 내용분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78322381",
+			"description":"Content Analysis of Patient Safety Culture in Nursing Homes Purpose: The purpose of this study was to identify experiences of incidents"
+		},
+		{
+			"title":"치위생(학)과 학생의 방사선<b>안전<\/b>관리에 대한 지식, 태도 및 행위",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177915186",
+			"description":"The Knowledge, Attitude and Behavior on the Radiation Safety Management for Dental Hygiene Major Students 목적: 국내 치위생학"
+		},
+		{
+			"title":"영국 건설<b>안전<\/b>제도 발전 과정의 시사점에 관한 연구 - CDM의 발주자와 안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890262727",
+			"description":"A Study on the Trends of the Construction Safety Regulations in UK - Focused on the Roles and Responsibilities of Clients and Safety Co"
+		}
+	]
+}

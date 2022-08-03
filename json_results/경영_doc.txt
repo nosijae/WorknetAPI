@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:53 +0900",
+	"total":462511,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"대한<b>경영<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1378",
+			"description":""
+		},
+		{
+			"title":"외식<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3872",
+			"description":""
+		},
+		{
+			"title":"관광<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1563216",
+			"description":""
+		},
+		{
+			"title":"한국스포츠산업·<b>경영<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5971",
+			"description":""
+		},
+		{
+			"title":"서비스<b>경영<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3006",
+			"description":""
+		},
+		{
+			"title":"기업<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=893",
+			"description":""
+		},
+		{
+			"title":"국제<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=899",
+			"description":""
+		},
+		{
+			"title":"한국가족자원<b>경영<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5551",
+			"description":""
+		},
+		{
+			"title":"지식<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5002",
+			"description":""
+		},
+		{
+			"title":"한국<b>경영<\/b>과학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5596",
+			"description":""
+		},
+		{
+			"title":"국제<b>경영<\/b>리뷰",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=9140",
+			"description":""
+		},
+		{
+			"title":"<b>경영<\/b>법률학회 <b>경영<\/b>법률",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=367",
+			"description":""
+		},
+		{
+			"title":"한국항공<b>경영<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=6504",
+			"description":""
+		},
+		{
+			"title":"산업<b>경영<\/b>시스템학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2822",
+			"description":""
+		},
+		{
+			"title":"한국병원<b>경영<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2687527",
+			"description":""
+		},
+		{
+			"title":"대한안전<b>경영<\/b>과학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3562",
+			"description":""
+		},
+		{
+			"title":"유통<b>경영<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=514879",
+			"description":""
+		},
+		{
+			"title":"고객만족<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=488",
+			"description":""
+		},
+		{
+			"title":"<b>경영<\/b>사학",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=370",
+			"description":""
+		},
+		{
+			"title":"전략<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4433",
+			"description":""
+		},
+		{
+			"title":"농업<b>경영<\/b>ㆍ정책연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2687692",
+			"description":""
+		},
+		{
+			"title":"<b>경영<\/b>컨설팅연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1045934",
+			"description":""
+		},
+		{
+			"title":"연세<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3738",
+			"description":""
+		},
+		{
+			"title":"신산업<b>경영<\/b>저널 Journal of New Industry and Business",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=372",
+			"description":""
+		},
+		{
+			"title":"로고스<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2076",
+			"description":""
+		},
+		{
+			"title":"<b>경영<\/b>경제연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2685858",
+			"description":""
+		},
+		{
+			"title":"POSRI<b>경영<\/b>경제연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2139745",
+			"description":""
+		},
+		{
+			"title":"서강<b>경영<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1061926",
+			"description":""
+		},
+		{
+			"title":"예술<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3820",
+			"description":""
+		},
+		{
+			"title":"한국<b>경영<\/b>공학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5835",
+			"description":""
+		},
+		{
+			"title":"윤리<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=52104",
+			"description":""
+		},
+		{
+			"title":"산학<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2901",
+			"description":""
+		},
+		{
+			"title":"산업과 <b>경영<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1050793",
+			"description":""
+		},
+		{
+			"title":"<b>경영<\/b>경제",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=337",
+			"description":""
+		},
+		{
+			"title":"한국국방<b>경영<\/b>분석학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5664",
+			"description":""
+		},
+		{
+			"title":"지방교육<b>경영<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4979",
+			"description":""
+		},
+		{
+			"title":"<b>경영<\/b>컨설팅리뷰",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1553381",
+			"description":""
+		},
+		{
+			"title":"규모경제、규모보수여농업괄도규모<b>경영<\/b>——기우아국량식생산적실증연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=738844990",
+			"description":""
+		},
+		{
+			"title":"문화예술<b>경영<\/b>, 이론과 실제",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2139081",
+			"description":""
+		},
+		{
+			"title":"한국축산<b>경영<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=62948",
+			"description":""
+		},
+		{
+			"title":"외국인투자자가 한국기업의 <b>경영<\/b> 및 지배구조에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420379009",
+			"description":"The role of foreign investors on the management and corporate governance of Korean companies 본 논문은 최근 논란이 되고 있"
+		},
+		{
+			"title":"산업<b>경영<\/b>논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2133372",
+			"description":""
+		},
+		{
+			"title":"<b>경영<\/b>법무",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=369",
+			"description":""
+		},
+		{
+			"title":"산업<b>경영<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=57130",
+			"description":""
+		},
+		{
+			"title":"양식안전시역하농업괄도규모<b>경영<\/b>여신형직업농민——우합궤제、국제경",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722220289",
+			"description":""
+		},
+		{
+			"title":"창의성<b>경영<\/b>의 구성차원과 <b>경영<\/b>성과와의 관련성에 관한 탐색적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11190788",
+			"description":"Creativity Management and Corporate Performance 오늘날 다양한 종류의 지식을 창조해내는 창의성이야말로 디지털"
+		},
+		{
+			"title":"북악<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2631",
+			"description":""
+		},
+		{
+			"title":"면향생태계통복무적삼림생태계통<b>경영<\/b>:현상、도전여전망 (面向生态系统",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=712994944",
+			"description":""
+		},
+		{
+			"title":"사회복지<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3096871",
+			"description":""
+		},
+		{
+			"title":"고몰입인적자원관리와 조직유효성의 관계에 있어서 지식<b>경영<\/b>의 조절효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11275960",
+			"description":"The Moderating Effects of Knowledge Management on the Relationship between High-Commitment HRM and Organizational Effectiveness; An Exp"
+		},
+		{
+			"title":"소농호：속성、뇌형、<b>경영<\/b>장태급기여현대농업함접 (小农户：属性、类",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=673832481",
+			"description":""
+		},
+		{
+			"title":"교육훈련비가 기업의 <b>경영<\/b>성과에 미치는 영향에 관한 연구－패널분석을",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290161834",
+			"description":"A Study on the Impact of the Educational and Training Expenses on the Firm Performance 본 연구에서는 기업의 인적자본과 "
+		},
+		{
+			"title":"인사관리시스템과 <b>경영<\/b>성과가 상호간에 미치는 영향에 대한 연구 : 제조",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11286735",
+			"description":"The Bilateral Relationship between Human Resource Management Systems and Firm Performance 사람이 경쟁력의 원천이 되는 글"
+		},
+		{
+			"title":"논“호연망＋농업”적신<b>경영<\/b>책략 (论“互联网＋农业”的新经营策略)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=709775247",
+			"description":""
+		},
+		{
+			"title":"산업과 <b>경영<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3257699",
+			"description":""
+		},
+		{
+			"title":"기업의 국제화가 <b>경영<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=46988432",
+			"description":"The Impact of Firm Internationalization on Performance 본 연구는 1995년부터 2009년까지 해외진출의 경험이 상대적으"
+		},
+		{
+			"title":"<b>경영<\/b> 경제 연구 (經營 經濟 硏究)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2687936",
+			"description":""
+		},
+		{
+			"title":"윤리<b>경영<\/b>과 조직유효성과의 관계에 있어서 신뢰의 역할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11525160",
+			"description":"The Role of Trust on the Relationship between Employees' Perception and Practice Attitude of Business Ethics and Organizational Effecti"
+		},
+		{
+			"title":"소나무 천연하종갱신과 인공조림의 <b>경영<\/b>효율성 비교 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651417603",
+			"description":"A Comparative Analysis of Management Efficiency Between Natural Regeneration and Plantation 본 연구는 천연하종갱신과 인공"
+		},
+		{
+			"title":"호텔<b>경영<\/b>형태에 따른 조직문화 특성이 조직몰입과 직무만족에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12869655",
+			"description":"Articles : Impacts of Organizational Culture Patterns by Hotel Management Systems on Organizational Commitment and Job Satisfaction As "
+		},
+		{
+			"title":"중소기업의 사회책임<b>경영<\/b>(CSR)이 <b>경영<\/b>활동과 기업성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45697987",
+			"description":"The Impact of SMEs’ Corporate Social Responsibility (CSR) on Business Activities and Performance 본 연구에서는 중소기업의 "
+		},
+		{
+			"title":"<b>경영<\/b>관리연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2687830",
+			"description":""
+		},
+		{
+			"title":"강원대학교<b>경영<\/b>과학연구소 <b>경영<\/b>과학연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=354",
+			"description":""
+		},
+		{
+			"title":"관광식음료<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=655",
+			"description":""
+		},
+		{
+			"title":"사회적기업의 특성 및 지원유형에 따른 성과차이 분석: 자율<b>경영<\/b>공시 사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77906165",
+			"description":"A Study on the Performance Difference depend on the Characteristics and Support Type of Social Enterprise: Focusing on the Social Enter"
+		},
+		{
+			"title":"핵심역량과 경쟁전략 간의 적합성이 <b>경영<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77884125",
+			"description":"Effects of the Alignment between Core Competence and Competitive Strategy on the Business Performance in the Hotel Industry 본 연구"
+		},
+		{
+			"title":"소유<b>경영<\/b>기업의 최고<b>경영<\/b>자 교체에 관한 실증연구: 소유<b>경영<\/b>자와 전문",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78335969",
+			"description":"CEO Turnover in Owner-managed firms: The Choice Between Owner-manager and Professional CEO 본 연구는 1994년부터 2004년까지 "
+		},
+		{
+			"title":"외식프랜차이즈 관계결속이 <b>경영<\/b>성과, 가맹점 만족 및 재계약의도에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16400263",
+			"description":"Influence of Relational Commitment of Food service Franchising on Management Performance, Franchisee Satisfactions and Re-contract This"
+		},
+		{
+			"title":"환경<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2172885",
+			"description":""
+		},
+		{
+			"title":"농업<b>경영<\/b>제도：제도저선、성질변지여창신공간——기우“농촌가정<b>경영<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=698302944",
+			"description":""
+		},
+		{
+			"title":"'학습'없는 e-Learning과 '지식'없는 지식<b>경영<\/b> : 지식생태학적 관점에서 다",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11140133",
+			"description":"‘학습’없는 e-Learning과 ‘지식’없는 지식<b>경영<\/b>: 지식생태학적 관점에서 다시 생각해보는 e-Learning과 "
+		},
+		{
+			"title":"기술창업기업의 기업가 역량과 기술사업화 능력이 <b>경영<\/b>성과에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56415369",
+			"description":"The Effects of Entrepreneur's Competence and Technology Commercialization Capabilities on Business Performance of Technology-based Star"
+		},
+		{
+			"title":"경쟁전략 및 <b>경영<\/b>혁신과 <b>경영<\/b>성과와의 관련성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11546296",
+			"description":"A Study on the Relationships Between Competitive Strategies, Business, Innovation, and Performance Management adopts a variety of innov"
+		},
+		{
+			"title":"환경<b>경영<\/b>시스템 인증획득이 기업의 재무성과에 미치는 영향에 대한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12422923",
+			"description":"A Study on the Effects of the Environmental Management System to the Corporate Financial Performance -Base on the ISO 14001 EMS- 본 "
+		},
+		{
+			"title":"소유<b>경영<\/b>기업과 전문<b>경영<\/b>기업의 소유지배괴리도와 기업가치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45698227",
+			"description":"Ownership-control Disparity and Corporate Value in Korea: The Consequences of Owner-managed and Agent-led Firm 본 연구는 대리인"
+		},
+		{
+			"title":"혁신활동이 기업성과에 미치는 영향 : 지식<b>경영<\/b>과 TQM 활동을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58334207",
+			"description":"Effect of Innovation Activities on Business Performances : Focused on KM and TQM 지식<b>경영<\/b>과 TQM 활동은 조직의 혁신을 이"
+		},
+		{
+			"title":"패밀리레스토랑 종사원의 직무만족에 따른 업체 <b>경영<\/b>성과(BSC)에 대한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16416786",
+			"description":"A Research Study on Management Performance(BSC) according to Employees’ Job Satisfaction in Family Restaurants The aim of this study "
+		},
+		{
+			"title":"신라대학교 경제<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1045286",
+			"description":""
+		},
+		{
+			"title":"<b>경영<\/b>행동과학 (経営行動科学)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3152042",
+			"description":""
+		},
+		{
+			"title":"정책\/<b>경영<\/b>보고서",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3091612",
+			"description":""
+		},
+		{
+			"title":"<b>경영<\/b>경제",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3257538",
+			"description":""
+		},
+		{
+			"title":"사회적기업가정신과 자기효능감이 사회적기업의 <b>경영<\/b>성과에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442079287",
+			"description":"The effect of social entrepreneurship and self-efficacy on the performance of social enterprises 본 연구는 사회적기업의 지"
+		},
+		{
+			"title":"SCM의 핵심성공요인(CSF)이 <b>경영<\/b>성과에 미치는 영향에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12950730",
+			"description":"A Study on the Effects of Critical Success Factors(CSF) to the Management Performance 본 연구는 성공적인 SCM의 전략적 운"
+		},
+		{
+			"title":"국제<b>경영<\/b>논집",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3145523",
+			"description":""
+		},
+		{
+			"title":"경제<b>경영<\/b>연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2685573",
+			"description":""
+		},
+		{
+			"title":"자원품부、요소체대여농업생산<b>경영<\/b>방식전형——이소、절량식생산위례",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=738481413",
+			"description":""
+		},
+		{
+			"title":"호텔기업의 지식<b>경영<\/b> 핵심요인과 지식공유문화가 종사원의 직무만족과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12871486",
+			"description":"Articles : Job Satisfaction and Organizational Commitment of Employees with Core Factors of Knowledge Management and Knowledge Sharing "
+		},
+		{
+			"title":"우리나라 기술혁신형 중소기업 선정 평가지표가 <b>경영<\/b>성과에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16563493",
+			"description":"A Study for the Impact of the Key Evaluation Indexes on the Business Performance in Korean Inno-Biz 본 연구는 기술혁신형 중"
+		},
+		{
+			"title":"연구논문(硏究論文) : 외식<b>경영<\/b>관련 학술지논문의 동향분석: 『외식<b>경영<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13983755",
+			"description":"Research Articles : Research Trends regarding Foodservice Management: Review of Journal of Foodservice Management Society of Korea The "
+		},
+		{
+			"title":"사회연결망 분석을 통한 사회혁신기업과 사회적 <b>경영<\/b>(Social Business) 사례 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420799482",
+			"description":"A case Study on Social Innovative Enterprise and Social Business by Social Network Analysis: focusing on Social Enterprises, Social Coo"
+		},
+		{
+			"title":"어린이집 원장의 <b>경영<\/b>형태가 보육교사의 직무만족도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=50895441",
+			"description":"A study of principals' management style in child-care centers perceived by teachers and their job satisfaction 본 연구는 어린이"
+		},
+		{
+			"title":"1997년 금융위기를 전후로 한 한국기업의 <b>경영<\/b>투명성 변화 : 재무분석가 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11390393",
+			"description":"The Change in Corporate Transparency Around Financial Crisis: Analysis Using Analysts’ Earnings Forecast Data 본 연구는 IBES 데"
+		},
+		{
+			"title":"기업지배구조가 보고이익의 질, <b>경영<\/b>성과 및 기업가치에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41596821",
+			"description":"  목차\n기업지배구조가 보고이익의 질, <b>경영<\/b>성과 및 기업가치에 미치는 영향 \/ 문상혁 ; 이화진 ; 지현"
+		},
+		{
+			"title":"“가정농장＋합작사”적농업산업화<b>경영<\/b>신모식：제도특성、생발궤제화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=705401278",
+			"description":""
+		},
+		{
+			"title":"중국특색농업규모<b>경영<\/b>“삼보주”전략——종“생산환절류전”도“<b>경영<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=739536494",
+			"description":""
+		},
+		{
+			"title":"기업의 혁신활동과 <b>경영<\/b>성과와의 관계 -국내 중소제조업을 중심으로-",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45684117",
+			"description":"A Study on the Relationship between Innovation Activity and Business Results -Focused on the Small and Medium Manufacturing Enterprises"
+		},
+		{
+			"title":"공공기관 <b>경영<\/b>평가 영향요인 연구: 공기업 임원의 정치적연결과 정치적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78298075",
+			"description":"Impacts of the Political Connectedness and Political Conflict of the Top Management Team on the Performance Evaluation of State-Owned E"
+		},
+		{
+			"title":"비영리조직의 <b>경영<\/b>효율성 측정치와 <b>경영<\/b>실적평가 결과간의 관련성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11118789",
+			"description":"  목차\n비영리조직의 <b>경영<\/b>효율성 측정치와 <b>경영<\/b>실적평가 결과간의 관련성 \/ 박상규 ; 김중길 1\n 요약 1\n"
+		},
+		{
+			"title":"기업지배구조와 <b>경영<\/b>성과 간의 관계에 대한 실증연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13801014",
+			"description":"The Empirical Study on the Relation between Corporate Governance and Firm Performance 기업지배구조 이슈가 IMF 외환위기와 "
+		},
+		{
+			"title":"<b>경영<\/b>대학원논총",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2132673",
+			"description":""
+		}
+	]
+}

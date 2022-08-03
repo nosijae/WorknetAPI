@@ -1,0 +1,74 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:50 +0900",
+	"total":6,
+	"start":1,
+	"display":6,
+	"items":[
+		{
+			"title":"NCS기반 직무분야별 직무능력평가 12 이용.숙박.여행.오락.스포츠",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32497234618",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3249723\/32497234618.20220521050653.jpg",
+			"author":"",
+			"discount":"20700",
+			"publisher":"씨마스",
+			"pubdate":"20160120",
+			"isbn":"9791156720560",
+			"description":"NCS(국가직무능력표준) 기반의 채용 방식에 최적화된 정보를 제공한다. 기업들의 최신 채용 공고를 제공하여 채용 시장의 변화와 동향을 파악할 수 있도록 하였고, NCS기반 입사 지원 서류의 작성 방법과 다양한 면접 사례를 제공하여 NCS 기반의 채용 방식에 대한 감을 잡을 수 있도록 해준다. 무엇보다 기존의 인.적성 검사와 전공시험을 대체하는 직업기초능력과 직무수행능력 필기시험에 완벽하게 대비할 수 있도록 다양한 실전 문제를 제공하고 있다."
+		},
+		{
+			"title":"NCS 아두이노를 이용한 펌웨어 개발 실무 (국가직무능력표준에 기반한)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32436141177",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3243614\/32436141177.20220527044216.jpg",
+			"author":"오상균",
+			"discount":"18810",
+			"publisher":"광문각",
+			"pubdate":"20170208",
+			"isbn":"9788970938226",
+			"description":"『NCS 아두이노를 이용한 펌웨어 개발 실무』는 오픈 소스 기반의 마이크로컨트롤러인 아두이노를 이용하여 펌웨어를 개발함에 있어, 국가직무능력표준에서 제시하고 있는 NCS의 능력단위를 교육훈련에서 학습할 수 있도록 구성한 교수·학습 자료인 NCS 학습 모듈을 기반으로 하여 집필되었다. 특히 NCS 학습 모듈 중에 기능명세서를 바탕으로 펌웨어 개발 환경을 구축하고 제품에 적용할 펌웨어의 설계, 구현, 검증을 수행하는 것을 목표로 하는 학습 모듈인 ‘LM1903020304_14v1 펌웨어 개발’에 기준하여 구성과 내용을 충실히 맞추고자 하였다."
+		},
+		{
+			"title":"NCS ATmega128을 이용한 펌웨어 개발 실무 (국가직무능력표준 기반)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32466899934",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3246689\/32466899934.20220527042558.jpg",
+			"author":"양정모",
+			"discount":"0",
+			"publisher":"광문각",
+			"pubdate":"20170317",
+			"isbn":"9788970938356",
+			"description":"▶ 이 책은 ATmega128을 이용한 펌웨어 개발 실무를 다룬 이론서입니다. ATmega128을 이용한 펌웨어 개발 실무의 기초적이고 전반적인 내용을 학습할 수 있도록 구성했습니다."
+		},
+		{
+			"title":"ERP PASS 정보관리사 인사 1급 2급(2019) (NCS 국가직무능력 표준, 2019 한국생산성본부 국가공인자격 시험대비, iCUBE(2.0)를 이용한 필기 & 실기 완전마스터)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32454864625",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3245486\/32454864625.20220527022817.jpg",
+			"author":"남영화",
+			"discount":"22500",
+			"publisher":"어울림",
+			"pubdate":"20190329",
+			"isbn":"9788962396843",
+			"description":"- 독자대상 : ERP정보관리사 준비생\n- 구성 및 특징 : \n① 최근 경향 반영\n② 학습 내용 체계적으로 구성"
+		},
+		{
+			"title":"3D 형상모델링작업 (CATIA를 이용한 국가직무능력표준 기계요소설계 직무분야)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32466960872",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3246696\/32466960872.20220530155209.jpg",
+			"author":"박한주",
+			"discount":"11700",
+			"publisher":"예문사",
+			"pubdate":"20170320",
+			"isbn":"9788927422099",
+			"description":"『3D 형상모델링작업』은 NCS 능력단위에 제시된 능력단위요소를 기준으로 내용을 구성하였다. 제1편 3D형상모델링작업 준비하기에서 환경설정 및 부가명령어, 도면형식을 설정하는 내용을 익힐 수 있으며, 제2편 3D형상모델링작업하기에서는 도면을 스케치한 후 치수 및 형상 구속을 적용한 후 3D형상모델링을 완성하고 오류 발생 시 수정하는 능력을 배양할 수 있도록 하였다."
+		},
+		{
+			"title":"NCS 기반 교육과정 개편 실무 매뉴얼 (국가직무능력표준(NCS)을 이용한 일·교육·자격의 연계)",
+			"link":"https:\/\/search.shopping.naver.com\/book\/catalog\/32489632920",
+			"image":"https:\/\/shopping-phinf.pstatic.net\/main_3248963\/32489632920.20220527023257.jpg",
+			"author":"두하우컨설팅(주)",
+			"discount":"11700",
+			"publisher":"두하우컨설팅",
+			"pubdate":"20140528",
+			"isbn":"9791195279708",
+			"description":"『NCS 기반 교육과정 개편 실무 매뉴얼』은 NCS를 활용하여 교육과정을 개편하거나 교과목을 개발하는데 있어 시행착오를 줄이고 현장적합성을 높이기 위한 실용적인 팁과 노하우를 제공하는 실천적 매뉴얼로서 특성화고 및 전문대학에서 NCS를 기반으로 교육과정을 개편하는데 있어 지침서가 되어 줄 것이다."
+		}
+	]
+}

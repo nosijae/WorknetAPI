@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:06 +0900",
+	"total":528,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>보험<\/b>설계사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025116&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>가입 가망고객에게 계약을 맺은 <b>보험<\/b>회사의 상품들 중 고객에게 적합한 <b>보험<\/b>상품을 안내하고 계약을 체결한다. [수행<b>직무<\/b>] <b>보험<\/b>가입대상자를 대상으로 각 <b>보험<\/b>상품의 종류와 특성을 설명한다. 개인 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>금지급원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025086&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>금의 만기지급, 중도지급, 중도해약, <b>보험<\/b>사고 등 <b>보험<\/b>금이 지급되어야 할 사유가 발생했을 때 <b>보험<\/b>금수령인에게 <b>보험<\/b>금을 지급한다. [수행<b>직무<\/b>] <b>보험<\/b>금청구서와 <b>보험<\/b>증권, 사고통지서, 손해감정서 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>금관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025083&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>금 지급에 관한 예산관리를 담당하며 고객에게 <b>보험<\/b>금이 착오 없이 지급되도록 하는 데 관련된 업무를 수행한다. [수행<b>직무<\/b>] <b>보험<\/b>금 관련 예산을 관리하고 <b>보험<\/b>금의 집행을 관리한다. <b>보험<\/b>계약자의 사망... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>금심사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025084&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>금 지급을 결정하기 위해 피<b>보험<\/b>자 면담, 사고현장 조사 등의 조사 및 <b>보험<\/b>금 심사업무를 수행한다. [수행<b>직무<\/b>] <b>보험<\/b>사고조사기법에 대한 지식을 숙지하고 사고가 자연적 사고인지 인위적 사고인지를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>료수납원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025104&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>계약자가 <b>보험<\/b>자에게 납입하는 <b>보험<\/b>료를 수납한다. [수행<b>직무<\/b>] <b>보험<\/b>료 수납과 관련한 제도 및 규정, 회사방침 등을 숙지하여 관련 업무를 수행한다. <b>보험<\/b>료를 지급하기 위해 지점에 방문한 <b>보험<\/b>계약자에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>사감독원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024671&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>관련 사업자의 회계, 세무, 계리, 법률, 재산운용 등에 관하여 관리·감독하는 업무를 수행한다. [수행<b>직무<\/b>] <b>보험<\/b>회사, 소속 대리점, 손해사정업자 등에 대한 감사를 실시하고 결과에 대한 조치와 사후관리를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>상품개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024961&cid=42117&categoryId=42117",
+			"description":" 새로운 <b>보험<\/b>상품에 대한 아이디어를 고안하여 신상품을 기획·개발한다. [수행<b>직무<\/b>] <b>보험<\/b>상품의 판매동향, 수요도, 시장성, 금리전망 등을 조사하여 신상품 개발에 관한 아이디어를 수집·고안하고 신상품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>계약심사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025081&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>계약관계자의 위험요소를 평가하여 위험에 따른 비용(<b>보험<\/b>료)을 산출하는 계약심사업무를 수행한다. [수행<b>직무<\/b>] <b>보험<\/b>제도의 정상적인 운용과 <b>보험<\/b>계약자 간의 공평성을 유지하기 위해 청약서상의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"보증<b>보험<\/b>구상사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025080&cid=42117&categoryId=42117",
+			"description":" 피<b>보험<\/b>자에게 보증<b>보험<\/b>에 따른 <b>보험<\/b>금을 지급할 사유가 발생하면 <b>보험<\/b>계약자와 연대보증인에 대한 구상권을 행사하여 구상채권(보증기금이 채무관계자에 대하여 법령 또는 계약에 따라 청구할 수 있는 모든... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>계리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024959&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>회사의 전반적인 위험을 분석·평가·진단하며 <b>보험<\/b>상품 개발에 대한 인·허가업무와 <b>보험<\/b>료 및 책임준비금 등을 산출한다. [수행<b>직무<\/b>] 국내외 <b>보험<\/b>상품 관련 제도를 조사하고, 소비자심리 및 <b>보험<\/b>료에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장<b>보험<\/b>민원상담원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024891&cid=42117&categoryId=42117",
+			"description":" 사회보장<b>보험<\/b>과 관련한 각종 질의에 대응하고 제도상담 및 안내를 한다. [수행<b>직무<\/b>] <b>보험<\/b>가입 이력 및 <b>보험<\/b>료 수납내역에 대해 안내한다. <b>보험<\/b>료율 및 <b>보험<\/b>료에 대한 의문사항과 불만사항을 접수하고 응대하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>고객불만처리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025082&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b> 관련 고객의 불만을 접수하고 처리한다. [수행<b>직무<\/b>] <b>보험<\/b> 관련 고객의 불만을 접수한다. 고객의 불만사항을 정기적으로 분석하고 대응책을 마련한다. 고객센터를 방문한 고객의 불만사항을 처리하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장<b>보험<\/b>민원상담원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024892&cid=42117&categoryId=42117",
+			"description":" 사회보장<b>보험<\/b>과 관련한 각종 질의에 대응하고 제도상담 및 안내를 한다. [수행<b>직무<\/b>] <b>보험<\/b>가입 이력 및 <b>보험<\/b>료 수납내역에 대해 안내한다. <b>보험<\/b>료율 및 <b>보험<\/b>료에 대한 의문사항과 불만사항을 접수하고 응대하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>중개인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025117&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>회사를 위하여 각기 다른 <b>보험<\/b>회사의 <b>보험<\/b>상품을 비교하여 <b>보험<\/b>계약자에게 <b>보험<\/b>상품을 추천하고 <b>보험<\/b>계약자와 <b>보험<\/b>사업자 사이에 독립적으로 <b>보험<\/b>계약 체결을 중개한다. [수행<b>직무<\/b>] 고객인 <b>보험<\/b>계약자의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>금지급관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025085&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>금 지급시스템을 유지·관리하기 위해 만기·중도·해약시스템을 관리하고 휴면<b>보험<\/b>금, 채권가압류계약 등을 관리한다. [수행<b>직무<\/b>] 새로운 <b>보험<\/b>상품의 추가를 위한 지급시스템을 구축한다. 기존 상품의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>신계약담당원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025089&cid=42117&categoryId=42117",
+			"description":" 신규 <b>보험<\/b>가입자의 <b>보험<\/b>청약(계약)서류를 접수하고 계약서 기재내용을 항목별로 확인·심사하여 착오된 부분을 정정처리한다. [수행<b>직무<\/b>] 신규 <b>보험<\/b>계약을 체결함에 있어 계약 관련 서류(청약서, 고지의무사항... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장<b>보험<\/b>급여원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025095&cid=42117&categoryId=42117",
+			"description":" 국민연금 및 건강<b>보험<\/b>·고용<b>보험<\/b>급여(구직급여)를 대상자에게 지급하고 관리한다. [수행<b>직무<\/b>] 건강<b>보험<\/b>의 급여 지급 및 관리를 위해 현금급여비(요양비, 출산비, 장제비, 장애인보장구 등)의 지급 및 환수를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"출처: 게티이미지 코리아 '신중년 적합<b>직무<\/b>'란 고용<b>보험<\/b>법 제20조 및 같은 법 시행령 제17조 등에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다.... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"산재<b>보험<\/b>사후보상관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025099&cid=42117&categoryId=42117",
+			"description":" 산재<b>보험<\/b>가입자의 급여사후 관련 통보서·신고서 등의 자료를 관리하고 적용대상을 확인한다. [수행<b>직무<\/b>] 산재<b>보험<\/b>가입자의 급여사후 관련 통보서 및 신고서를 접수하고 근로자의 재해를 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장<b>보험<\/b>급여심사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5936916&cid=42117&categoryId=42117",
+			"description":" 사회보장<b>보험<\/b>에 대한 <b>보험<\/b>금 지급 여부를 심사한다. [수행<b>직무<\/b>] 산재<b>보험<\/b>의 경우, 요양승인이나 요양기간 연장승인신청서의 접수내용을 확인하여 요양급여심의회의 상정 여부를 검토한다. 상정할 심의안건을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장<b>보험<\/b>급여심사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025094&cid=42117&categoryId=42117",
+			"description":" 사회보장<b>보험<\/b>에 대한 <b>보험<\/b>금 지급 여부를 심사한다. [수행<b>직무<\/b>] 산재<b>보험<\/b>의 경우, 요양승인이나 요양기간연장 승인신청서의 접수내용을 확인하여 요양급여심의회의 상정여부를 검토한다. 상정할 심의안건을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자동차<b>보험<\/b> 종류 알아보기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=988957&cid=42907&categoryId=42907",
+			"description":"보통 자동차를 구입하고 <b>보험<\/b>을 든다고 하면 운전자<b>보험<\/b>이 아닌 자동차<b>보험<\/b>을 말하는 것이다. 그렇다면 자동차<b>보험<\/b>에는 어떠한 종류가 있는지 알아보도록 하자. ▶ 책임<b>보험<\/b> 책임<b>보험<\/b>은 자동차를 구매하거나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024386&cid=42117&categoryId=42117",
+			"description":" 회사의 <b>보험<\/b>정책에 따라 <b>보험<\/b>인수 시 위험정도 평가와 청약서 검토를 통해 청약을 수락·거절하며, <b>보험<\/b>금 지급계획을 수립하고 종업원들을 지휘·감독한다. [수행<b>직무<\/b>] <b>보험<\/b>청약자의 재정적 지위, 나이, 직업... ",
+			"thumbnail":""
+		},
+		{
+			"title":"KB손해<b>보험<\/b>㈜",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=581076&cid=46630&categoryId=46630",
+			"description":" 1959년에 설립된 자동차<b>보험<\/b> 및 화재·해상·운송·상해<b>보험<\/b> 등을 주로 하는 손해<b>보험<\/b>회사. [연원 및 변천] 1962년 6월에는 범한해상화재<b>보험<\/b>주식회사로 상호를 변경하였으며, 1970년 4월 럭키그룹에 의하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>동향분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024960&cid=42117&categoryId=42117",
+			"description":" 국내외 <b>보험<\/b>시장의 동향을 조사·분석하여 <b>보험<\/b>수요 및 <b>보험<\/b>수요자동향을 분석·전망한다. [수행<b>직무<\/b>] 정부통계자료, 기관보고서, 언론보도, 학계보고서 및 논문 등 각종 자료를 수집하여 국내외 경제... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>시장분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024962&cid=42117&categoryId=42117",
+			"description":" 국내외 경제동향 및 <b>보험<\/b>시장을 조사·분석하여 <b>보험<\/b>상품 판매증가를 위한 전략을 수립한다. [수행<b>직무<\/b>] 국내외 경제동향을 조사·분석하여 <b>보험<\/b>시장의 구조와 변화를 분석한다. 새로운 <b>보험<\/b> 관련 제도를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"애견<b>보험<\/b>판매원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025118&cid=42117&categoryId=42117",
+			"description":" 고객들에게 애견<b>보험<\/b>상품을 설명하고 견주에게 적합한 <b>보험<\/b>을 판매한다. [수행<b>직무<\/b>] 고객에게 상담요청이 들어오면, 애견의 견종, 나이, 질병병력 등 애견에 대한 정보를 파악한다. <b>보험<\/b>상품에 대하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>대리점소장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024387&cid=42117&categoryId=42117",
+			"description":" 회사의 영업정책에 따라 영업점의 영업활동을 책임지고, <b>보험<\/b>모집인의 활동을 지휘·감독한다. [수행<b>직무<\/b>] 회사의 영업정책에 따라 영업점의 운영방침 및 업무계획을 수립한다. 연간·월간계획을 수립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"병원<b>보험<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664746&cid=42117&categoryId=42117",
+			"description":" 의료<b>보험<\/b>, 산재<b>보험<\/b>, 의료보호 및 의료봉사 적용대상 환자의 진료수가를 계산하여 계산서를 작성·발급한다. [수행<b>직무<\/b>] 환자의 수급자를 확인·접수한다. 환자의 이름, <b>보험<\/b>주, <b>보험<\/b>번호 및 의사의 진단자료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>통계담당원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024898&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>료수납현황, 체납입현황, <b>보험<\/b>금지급현황 등 <b>보험<\/b> 관련 통계자료를 파악하여 요청부서에 통보한다. [수행<b>직무<\/b>] 전산자료를 통해 지역별, 지점별, 영업소별, 상품별, 월별 <b>보험<\/b>료수납현황, 체납입현황... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>영업기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025090&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>상품 영업을 위한 계획을 수립하고 영업조직을 체계적으로 육성·관리한다. [수행<b>직무<\/b>] 조직별, 상품별, 대상별 <b>보험<\/b>영업실태에 따라 향후 영업대책과 세부계획을 수립한다. 기존의 계약자가 계약을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"예금<b>보험<\/b>공사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%88%EA%B8%88%EB%B3%B4%ED%97%98%EA%B3%B5%EC%82%AC",
+			"description":"감사 <b>직무<\/b>의 독립성 및 객관성을 위해 사장의 제청을 요하지 않고 주무부처인 금융위원회가 임면한다. 공사의 업무와 회계에 관한 사항을 감사하고, 감사 결과 징계 또는 변상 조치 등 중요한 사실이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>심사간호사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025480&cid=42117&categoryId=42117",
+			"description":" 진료내역의 적정성 여부를 심사·평가하고 의료의 질 향상을 위해 의료인과 의료소비자를 대상으로 <b>보험<\/b>기준과 의료의 적정성 기준에 대해 교육하거나 연구한다. [수행<b>직무<\/b>] 진료내역의 적정성 여부를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"[직업 변경 통지 의무]사무직에서 다른 일하게 됐는데 <b>보험<\/b>사에 알려야 할까요?",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6624758&cid=69440&categoryId=69440",
+			"description":" <b>보험<\/b>기간 중 <b>보험<\/b>계약자 또는 피<b>보험<\/b>자가 사고 발생의 위험이 현저하게 변경되거나 증가된 사실을 안 경우 즉시 <b>보험<\/b>회사에 알려야 한다. 피<b>보험<\/b>자가 직업이나 직종을 변경하는 경우에 그 사실을 통지해야... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjA1MjNfMjQ4%2FMDAxNjUzMjY4MzEzNTI5._8YYJ3b300_iqeQJ-b4I4KFcNIXYxxkPwOlOiv5QBL8g.zKa5Vhyt-QoIaf4aD_fkp4AN3JPRsu--4iJoW3M6_V8g.JPEG%2FIkLpAl4lml-jC4VLU3JHNLvbNwGQ.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"임원배상책임<b>보험<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=8553&cid=43659&categoryId=43659",
+			"description":"임원배상책임<b>보험<\/b>이란 주식회사의 임원이 <b>직무<\/b>수행과정에서 과실로 회사 및 제3자에 대해 법률상의 손해배상 책임을 짐에 따라 입게되는 손해를 보상해주는 <b>보험<\/b>상품이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>계리인",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%B4%ED%97%98%EA%B3%84%EB%A6%AC%EC%9D%B8",
+			"description":"해결하는 <b>직무<\/b>를 담당하는 사람을 말한다. <b>보험<\/b>의 종류 생명<b>보험<\/b>과 손해<b>보험<\/b> <b>보험<\/b>, <b>보험<\/b>사도 종류가 여러 가지다. 대개 <b>보험<\/b>회사가 거래하는 <b>보험<\/b> 계약의 성격과 내용에 따라 구분하는데, 그런 구분의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"임원배상책임<b>보험<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2079096&cid=50305&categoryId=50305",
+			"description":"회사임원이 <b>직무<\/b>를 수행하는 과정에서 부당행위나 태만, 실수 등으로 회사 및 제3자에 대해 법률상의 손해배상 책임을 지게 됨에 따라 입게 되는 손해를 보상해주는 <b>보험<\/b>. 임원 개인이 주주 또는 제3자에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b> 자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2780237&cid=51373&categoryId=51373",
+			"description":"[작성팁] • <b>보험<\/b> 자기소개서라 하더라도 여러 분야로 나뉘는 것이 보통이므로 해당 <b>직무<\/b>를 파악하고 이에 필요한 능력을 자기소개서에 녹여내야 한다. • <b>보험<\/b> 역시 금융 분야이므로 일반적인 사무직이라면... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508200302440_MM0P6TZZ2.jpg\/ba17_1309_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보험<\/b>사무지원사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025088&cid=42117&categoryId=42117",
+			"description":" <b>보험<\/b>체결 및 심사 등 본사와 지점 간의 업무를 지원한다. [수행<b>직무<\/b>] 지점을 방문한 고객을 안내한다. <b>보험<\/b>계약 체결사항을 컴퓨터에 입력한다. 본사의 지침이나 행정사항을 <b>보험<\/b>모집인에게 알려준다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>보유계약관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025087&cid=42117&categoryId=42117",
+			"description":" 보유계약 증감현황을 조사·분석하고 <b>보험<\/b>계약자의 요청에 따라 계약사항 변경업무를 한다. [수행<b>직무<\/b>] 보유계약 증감현황을 조사하여 <b>보험<\/b>상품별·유형별로 증감상황을 분석한다. 계약고가 과다하게 감소한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>영업실적분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025091&cid=42117&categoryId=42117",
+			"description":" 신계약, 수납, <b>보험<\/b>금지급, 대출 부문 등 <b>보험<\/b>영업실적을 기관별로 파악·분석하여 그 분석결과를 회사 경영기획자료로 활용하도록 관련 부서에 제공한다. [수행<b>직무<\/b>] 신계약 실적자료를 기관별로 취합... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>영업지원사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025092&cid=42117&categoryId=42117",
+			"description":" 지역별 시장성을 고려하여 신규 <b>보험<\/b>영업지점 및 영업소의 설치여건과 타당성을 검토하고 신규 개설·배치를 지원한다. [수행<b>직무<\/b>] 회사의 지점 및 영업소 관리규정이나 시행규칙에 따라 영업점 설치계획을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고용<b>보험<\/b>통계분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025265&cid=42117&categoryId=42117",
+			"description":" 고용<b>보험<\/b> 통계를 분석하여 노동이동, 일자리 변동 등 노동시장정보를 제공하고 개선점을 파악한다. [수행<b>직무<\/b>] 고용센터와 근로복지공단에서 입력되고 한국고용정보원에서 전산집계된 고용<b>보험<\/b> 데이터의 입력... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장<b>보험<\/b>료징수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025097&cid=42117&categoryId=42117",
+			"description":" 원활한 사회보장제도 실시를 위해 고용<b>보험<\/b> 및 산재<b>보험<\/b> 대상 사업자들로부터 <b>보험<\/b>료를 징수하고 관리한다. [수행<b>직무<\/b>] 국세청으로부터 정기적으로 고용<b>보험<\/b> 및 산재<b>보험<\/b>에 가입한 지역별 사업장목록을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장<b>보험<\/b>료부과원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025096&cid=42117&categoryId=42117",
+			"description":" 국민건강<b>보험<\/b> 및 국민연금 등에 대한 월 <b>보험<\/b>료·연금액을 부과하고 고지한다. [수행<b>직무<\/b>] 지역 및 직장가입자에 대한 납세소득신고에 기준한 <b>보험<\/b>요율을 적용하여 건강<b>보험<\/b>료 및 연금액을 부과 및 고지한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>보험<\/b>영업자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3382570&cid=42279&categoryId=42279",
+			"description":"특히 <b>보험<\/b>영업 자기소개서를 작성할 때에는 해당 <b>직무<\/b>와 관련한 경력 및 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510120655165_4UU8M99IR.jpg\/hb10_21536_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>보험<\/b>회사자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3382571&cid=42279&categoryId=42279",
+			"description":"특히 <b>보험<\/b>회사 자기소개서를 작성할 때에는 해당 <b>직무<\/b>와 관련한 경력 및 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후 포부 등을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510120655208_RIXB4TQHZ.jpg\/hb10_21537_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"사회보장<b>보험<\/b>가입자관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025093&cid=42117&categoryId=42117",
+			"description":" 고용<b>보험<\/b>, 산재<b>보험<\/b> 피<b>보험<\/b>자 및 국민건강<b>보험<\/b>, 국민연금 등의 사회보장<b>보험<\/b>가입자를 관리하기 위하여 사업장별 가입자의 취득·상실·변동사항을 파악하여 관리한다. [수행<b>직무<\/b>] 피<b>보험<\/b>자 및 가입자의 가입... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사법경찰관 <b>직무<\/b>수행",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2209750&cid=51088&categoryId=51088",
+			"description":"근로감독관은 ｢근로기준법｣이나 그 밖의 노동관계 법령 위반의 죄에 관하여 ｢사법경찰관리의 <b>직무<\/b>를 행할 자와 그 <b>직무<\/b>범위에 관한 법률｣에서 정하는 바에 따라 사법경찰관의 <b>직무<\/b>를 수행한다... ",
+			"thumbnail":""
+		},
+		{
+			"title":"DB자동차<b>보험<\/b>손해사정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=651364&cid=43167&categoryId=43167",
+			"description":"2008년 조사와 심사 업무를 분리하고 소액보상 <b>직무<\/b>급 제도를 도입했다. 2009년에 외제차를 전담하는 외제차보상부를 신설했다. 2017년 11월 상호를 DB자동차<b>보험<\/b>손해사정으로 변경했다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"[산재<b>보험<\/b> 가입 의무] 회사 작은데 꼭 산재<b>보험<\/b> 가입해야 할까요?",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6625219&cid=69440&categoryId=69440",
+			"description":" 「산업재해보상<b>보험<\/b>법」의 적용을 받는 사업의 사업주는 산업재해보상<b>보험<\/b>의 가입자가 된다. 근로자 1인 이상을 고용하고 있는 사업장은 의무적으로 가입해야 한다. 「산업재해보상<b>보험<\/b>법」의 적용 제외... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMjA0MjFfMTU2%2FMDAxNjUwNTA1NDczNDAy.PywRgYSSywUc68sZt5zmXVUReJ3qZc3dErk7iYQEohUg.tpAlHDGYeMVIrbKh5A40XA_76U-rKIyzmdItoyCgN7kg.JPEG%2FIt5GkeaHDaIYSBpkqsP1OeVhssMY.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b> 고용장려금",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446715&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | 新中年 適合職務 雇用奬勵金(한자) | 출처: 게티이미지 코리아 '신중년 적합<b>직무<\/b> 고용장려금'은 고용<b>보험<\/b>법 제20조 및 같은 법 시행령 제17조 제1항에 따라 신중년의 특성 및 경력 등을 감안했을... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfMTEy%2FMDAxNjIxMjMwNTc0NTEx.N1DEEnLwZdiOSLLZTegKyfV4vkSu7D7m3lXh8poBSKcg.9cE0PtwhvWOwJ0I7Tpofc2_K8pTpDRxSTD08oKZdVcIg.JPEG%2FIN_dP5aA3OMRmbbbvqTG8F2Rt1_Y.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"송무담당원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025100&cid=42117&categoryId=42117",
+			"description":" 사고가 발생하여 피<b>보험<\/b>자가 <b>보험<\/b>금 지급을 접수하면 손해상황을 확인하고 적정한 지불<b>보험<\/b>금을 산출한다. [수행<b>직무<\/b>] <b>보험<\/b>사고의 통보를 접수하면 <b>보험<\/b>계약사항과 손해청취보고서에 따른 사고내용을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"손해사정사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2849634&cid=55622&categoryId=55622&anchorTarget=TABLE_OF_CONTENT4#TABLE_OF_CONTENT4",
+			"description":"• <b>보험<\/b>사고의 손해액 및 <b>보험<\/b>금을 정하는 <b>직무<\/b>를 수행하며 <b>보험<\/b>사고 발생 시 그 손해액을 공정한 입장에서 평가하는 일을 합니다.• <b>보험<\/b> 관련 사고를 꼼꼼히 조사하고 사고 원인이나 손해 정도, 손해액을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경영 행정관련 직업의 세계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2849634&cid=55622&categoryId=55622",
+			"description":"[사회<b>보험<\/b>노무사] • 기업(특히 중소기업)의 고용<b>보험<\/b>, 건강<b>보험<\/b>, 후생연금, <b>보험<\/b> 등 사회<b>보험<\/b> 전반에 관계된 서류작성이나 제출을 대행합니다. • 일본에서 일본사회<b>보험<\/b>노무사가 되려면 사회<b>보험<\/b>노무사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4072_000_1\/20150831153847048_R63LJ222H.jpg\/l26_82_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"사회복지정책연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025276&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 사회<b>보험<\/b>(국민연금, 의료<b>보험<\/b>, 산업재해보상<b>보험<\/b>, 고용<b>보험<\/b>), 공적부조(생활보호, 의료보호, 기타 관련제도), 사회복지사업(청소년복지, 아동복지, 노인복지, 장애인복지, 부녀복지, 기타... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회복지정책연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025278&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 사회<b>보험<\/b>(국민연금, 의료<b>보험<\/b>, 산업재해보상<b>보험<\/b>, 고용<b>보험<\/b>), 공적부조(생활보호, 의료보호, 기타 관련 제도), 사회복지사업(청소년복지, 아동복지, 노인복지, 장애인복지, 부녀복지, 기타... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회보장사업장자격관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025098&cid=42117&categoryId=42117",
+			"description":" 사회보장<b>보험<\/b>(국민건강<b>보험<\/b>, 국민연금, 고용<b>보험<\/b>, 산재<b>보험<\/b>) 대상 사업장의 자격관리를 위하여 사업장 신규가입·탈퇴·변동현황을 파악하여 처리한다. [수행<b>직무<\/b>] 국민건강<b>보험<\/b>, 국민연금, 고용 및 산재<b>보험<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재<b>보험<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025102&cid=42117&categoryId=42117",
+			"description":" 신규가입된 <b>보험<\/b>을 재<b>보험<\/b>협약에 따라 국내외 신계약 가입과 유지계약에 대한 재<b>보험<\/b>료의 계산·지급과 재<b>보험<\/b>금의 청구업무를 수행한다. [수행<b>직무<\/b>] 재<b>보험<\/b>(<b>보험<\/b>사가 다른 <b>보험<\/b>사에 <b>보험<\/b>을 일부 추가로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"우정사업정보센터",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B0%EC%A0%95%EC%82%AC%EC%97%85%EC%A0%95%EB%B3%B4%EC%84%BC%ED%84%B0",
+			"description":"약 300여명의 공무원으로 구성 <b>직무<\/b> 우체국예금·우체국<b>보험<\/b>·우편환·우편대체 등에 관한 원부관리와 수불금의 계리·결산 우편·우체국금융 등 우정 관련 전산프로그램의 개발 및 운용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"손해사정사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%90%ED%95%B4%EC%82%AC%EC%A0%95%EC%82%AC",
+			"description":"손해사정사 (損害査定士, 영어: loss adjuster, claims adjuster )는 금융감독원에서 지도,감독하는 자격사로 <b>보험<\/b>사고의 손해액 및 <b>보험<\/b>금을 사정·보상하는 <b>직무<\/b>를 수행하며, <b>보험<\/b>사고 발생시 그 손해액을 공정한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위험평가사정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953484&cid=42117&categoryId=42117",
+			"description":" 심사확인된 청약서에 대해 위험평가기준표에 의거 해당 계약을 사정하여 계약심사를 한다. [수행<b>직무<\/b>] 심사확인이 완료된 청약서를 인수하여 위험평가기준표에 따라 해당 계약을 사정한다. 과거병력... ",
+			"thumbnail":""
+		},
+		{
+			"title":"손해사정사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024977&cid=42117&categoryId=42117",
+			"description":" 각종 <b>보험<\/b>사고 시 <b>보험<\/b>금심사원이 조사한 보상청구에 대해 심사하고, 사고원인을 조사하여 적정한 <b>보험<\/b>금을 산출하며 지급을 허가한다. [수행<b>직무<\/b>] 사고통보를 접수하면 손해발생사실을 확인하고, <b>보험<\/b>약관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금융기관지역사업부장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024383&cid=42117&categoryId=42117",
+			"description":" 지역사업부 관할 내의 금융지점 및 영업점의 업무를 총괄 관리한다. [수행<b>직무<\/b>] 금융기관(일반은행, 특수은행, 비은행예금취급기관, <b>보험<\/b>사, 증권사, 카드사 등)의 각 지역별 영업 및 판매실적을 분석하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"중앙고용정보관리소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=561339&cid=46625&categoryId=46625",
+			"description":" 직업지도기법의 개발·보급, 노동력 수급동향분석, <b>직무<\/b>분석기법의 개발·보급 및 고용<b>보험<\/b>전산에 관한 사무를 관장하던 노동부 소속기관. [내용] 1979년 7월에 국립중앙직업안정소로 설립하여 1995년 5월에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인터넷금융상품개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024966&cid=42117&categoryId=42117",
+			"description":" 인터넷비즈니스(E-business) 등 신사업 관련 신상품 및 서비스를 개발·운용하는 업무를 수행한다. [수행<b>직무<\/b>] 국내외 인터넷금융상품의 정보와 자료를 수집·분석한다. 인터넷 사업정책을 수립한다. 수익성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재무설계사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025119&cid=42117&categoryId=42117",
+			"description":" 고객의 생활환경, 재무상황 및 장래계획을 파악하여 고객의 생애주기에 적합한 금융 및 자산설계를 지원하고 <b>보험<\/b>상품, 펀드, 은행상품, 대출 등 고객에게 적합한 솔루션을 권유한다. [수행<b>직무<\/b>] 고객의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금융리스크매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024980&cid=42117&categoryId=42117",
+			"description":" 국내외 주식, 선물옵션, 채권, 자금, 외환시장 등에서 시장위험을 인식하여 분석하고 통제하는 일을 수행한다. [수행<b>직무<\/b>] 수학, 통계학, (금융)<b>보험<\/b>학, 경제학, 경영학 등 관련 지식 및 경제동향, 산업전반에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수신상품개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953580&cid=42117&categoryId=42117",
+			"description":" 수신상품(금융기관이 거래관계에 있는 다른 금융기관이나 고객으로부터 받는 신용·예금취급, 채권발행 등)을 개발하고, 수신 관련 제도 개선, 대고객 홍보기획 등의 업무를 수행한다. [수행<b>직무<\/b>] 국내외... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금융기관감독원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024979&cid=42117&categoryId=42117",
+			"description":" 금융회사 및 자본시장 등에 관하여 검사·감독하며, 금융소비자를 보호하고 분쟁을 조정한다. [수행<b>직무<\/b>] 은행, 비은행, 증권사, <b>보험<\/b>사, 금융지주회사 등의 인허가 및 경영건전성을 감독한다. 금융회사의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금융기관지점관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024995&cid=42117&categoryId=42117",
+			"description":" 지역사업부의 관할하에 있는 지점 및 점포의 운영과 실적을 관리하며 영업점교육을 실시하는 업무를 수행한다. [수행<b>직무<\/b>] 금융기관(일반은행, 특수은행, 비은행예금취급기관, <b>보험<\/b>사, 증권사, 카드사 등) 각... ",
+			"thumbnail":""
+		},
+		{
+			"title":"건설장비관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024698&cid=42117&categoryId=42117",
+			"description":" 건설공사에 사용되는 중장비, 차량, 기기류 등 장비의 등록, 검사, <b>보험<\/b>, 임대차업무를 수행한다. [수행<b>직무<\/b>] 신규 구입장비 및 해외 전입장비를 관할관청에 제증빙서류 및 등록신청서를 작성하여 등록신청한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무역사무원(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024776&cid=42117&categoryId=42117",
+			"description":" 무역절차의 흐름을 파악하여 원재료 및 상품의 수출입에 관련하여 수출입사전준비, 수출입위험관리, 수출입계약, 수출입운송<b>보험<\/b>, 수출입마케팅, 수출입통관, 수출입대금결제 등의 업무를 한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연금제도연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025286&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 사업장 및 지역가입자의 연금<b>보험<\/b>료 부과체계, 노령연금, 장애연금, 유족연금의 연금급여체계, 소득대체율 등의 실무적용 등에 관한 연구를 한다. 복지사업의 정책방향에 대한 조사 및 타당성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"병원수가원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024857&cid=42117&categoryId=42117",
+			"description":"건강<b>보험<\/b>이 적용되지 않는 비급여수가를 산정한다. 행위별수가, 포괄수가, 비급여수가를 계산하여 청구된 <b>보험<\/b>급여를 사정하고 기록·관리하며 계산서를 발급한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"병원행정사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024662&cid=42117&categoryId=42117",
+			"description":"평가, 인적자원관리, 급여관리, 재고관리 등 병원행정과 관련된 사무업무를 한다. <b>보험<\/b>급여 유형에 따라 진료비 지불 보증 업무를 한다. 건강<b>보험<\/b>심사평가원에 건강<b>보험<\/b> 급여 지원 관련 사실 의뢰 업무를 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"기업행정사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024656&cid=42117&categoryId=42117",
+			"description":"4대 사회<b>보험<\/b>관리, 급여관리, 비품 및 차량의 관리, 각종 사내행사를 계획·준비·집행하는 업무를 수행한다. 청사관리를 한다. 회사와 관련이 있는 협회, 조합, 단체에 관한 업무를 수행하기도 한다. 비서업무와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"차량사고처리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024826&cid=42117&categoryId=42117",
+			"description":"가해자 및 피해자와 면담하여 과실을 규명한다. 경찰서 및 <b>보험<\/b>회사와 협의하여 <b>보험<\/b> 및 보상에 필요한 서류자료를 준비·작성하여 이관한다. 대형사고의 경우 사고현장에 출동하여 사고상황을 파악한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"프라이빗뱅커",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953625&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 고객의 부동산관리, 연금이나 <b>보험<\/b> 등의 가입, 은퇴 후 재산상속 등을 컨설팅하고 이에 대한 설계를 한다. 고객들에게 예금, 적금, 펀드, 종신<b>보험<\/b> 등 각종 금융상품을 설명하고 가입권유 및 판매한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가스수송사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024778&cid=42117&categoryId=42117",
+			"description":"선박회사와 운임, <b>보험<\/b>, 지불방법 등의 수송계약을 체결한다. 수송일정에 따라 선박운항에 대해 관리한다. 수송과 관련된 시장상황을 조사하기 위해 자료를 수집·분석한다. 선박 및 항만 관련 행정업무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신용카드신사업기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025018&cid=42117&categoryId=42117",
+			"description":"문화(연극, 영화 티켓 등), <b>보험<\/b>가입, 통신판매, 여행사업, 모바일부분, 현금서비스, 리볼빙제도 등 다양한 사업 분야의 수익성, 시장성, 상품성, 기술적 실현가능성, 마케팅, 제휴할 상대기업의 현황 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"선박공무감독",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665063&cid=42117&categoryId=42117",
+			"description":"면접을 보고 선원을 채용한다. 선원 교육·훈련프로그램을 기획한다. 선상 안전 등 선원을 교육 및 훈련시킨다. 선원의 승선과 관련한 배치를 한다. 선박의 <b>보험<\/b>과 관련된 업무를 하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"직원교육계획안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355888&cid=51373&categoryId=51373",
+			"description":"회사의 <b>직무<\/b>교육이나 근로자 개인의 역량 향상을 위해 받게 되는 교육 훈련에 대한 정보를 기록하는 양식. 근로자는 교육을 통해 회사의 발전에 기여하거나 근로자 개인의 능력 향상을 도모할 수 있다. 교육... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209155101981_TT5R4QVR4.jpg\/ba17_2015_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"병원관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024410&cid=42117&categoryId=42117",
+			"description":"<b>보험<\/b>진료비 청구 내역을 검토하고 승인한다. 직원의 고용과 교육을 관장한다. 병원 건물과 시설물을 개선·확장하기 위하여 관계 직원 또는 단체들과 협의한다. 의사, 간호사, 관리직원들의 의료활동을 감독... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의약품인허가전문가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658372&cid=42117&categoryId=42117",
+			"description":"연구개발부터 <b>보험<\/b>약가 고시까지 일정 수립 및 관리, 개발 초기 경제성 여부 판단, <b>보험<\/b>약가 정책 수립 및 적정 <b>보험<\/b>약가 제시 등을 한다. 각국의 의약품 인허가 절차를 파악하고 규정에 맞는 신청서류 작성 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해무감독",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658481&cid=42117&categoryId=42117",
+			"description":"선상 안전 등과 관련하여 선원을 교육 및 훈련시킨다. 선원의 승선과 관련한 배치를 한다. 선박의 <b>보험<\/b>과 관련된 업무를 하기도 한다. 연차검사, SSAS TEST 등의 내외부 수검지원 업무를 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"폐차대행원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832820&cid=42117&categoryId=42117",
+			"description":"견인하고 폐차에 관련된 구비서류를 접수한다. 견인완료 후 차주에게 차량에 대한 대금을 지급한다. 말소등록을 완료한 후 차주에게 말소증명서를 송부한다. <b>보험<\/b>해지 및 승계에 관련된 업무를 처리한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"취업알선원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024936&cid=42117&categoryId=42117",
+			"description":"실업급여, 고용<b>보험<\/b> 등 각종 실업과 취업에 관련된 정부 지원 제도와 정책에 대해 설명한다. 기타 취업 관련 질의에 응답한다. 구인자와 구직자를 매칭하여 구직자를 알선한다. 취업 후 사후 관리를 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"경륜선수관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026188&cid=42117&categoryId=42117",
+			"description":"출주 당일 선수에게 출주일정을 통보하고 선수들의 유니폼, 번호 착용 및 부착상태, 안전모 착용 여부를 점검한다. 선수들의 <b>보험<\/b> 및 보상과 관련된 제반 업무 및 사고 시 응급조치와 병원 후송을 돕는다.",
+			"thumbnail":""
+		},
+		{
+			"title":"고객서비스만족도조사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658422&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 전자제품수리, 자동차<b>보험<\/b> 관련 업무, 은행 관련 업무 등 고객의 요청에 의해 수행된 유·무형 서비스에 대해 그 서비스가 완료된 후 서비스를 제공받은 고객을 대상으로 서비스비용, 응대시간... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연금재정추계분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025285&cid=42117&categoryId=42117",
+			"description":"연금<b>보험<\/b>의 다원화된 연금계산기초율(예정이율, 예정사망률, 예정사업비율, 예정승급률 등)을 감안하여 추계한다. 재정계산제도를 연구하고, 관련된 인구·경제·사회통계분석을 수행한다. 재정추계시스템을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대리운전기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025868&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 대리운전업체에 기사등록을 하고 수수료와 <b>보험<\/b>료를 납부한다. 대리운전 수요가 빈번하게 발생하는 지역에서 대기한다. 대리운전업체에서 전화로 보내주는 콜(고객의 출발지와 목적지, 전화번호... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경영관리학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025378&cid=42117&categoryId=42117",
+			"description":"학습과 취업, 각종 시험에 관한 상담을 한다. 교습과정으로 금융, <b>보험<\/b>, 유통, 부동산 등이 있으며 이러한 기술 분야 중 하나 또는 그 이상을 전문으로 지도한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"봉급명세표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545043&cid=42279&categoryId=42279",
+			"description":"봉급은 조직 구성원에게 <b>직무<\/b>의 종류와 책임 영역에 따라 지속적인 노무에 대한 대가로 지급되는 급여를 말한다. 또한 재직 기간별, 직위별, 호봉별로 봉급을 지급하게 된다. 명세서란 특정 업무상의 목적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181858835_50HM656PL.jpg\/hb10_78879_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"임상치과위생사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025491&cid=42117&categoryId=42117",
+			"description":"의료<b>보험<\/b>을 청구한다. 치과 치료자를 대상으로 진료 후 주의사항을 교육한다. 치과 내원자를 대상으로 개인구강건강관리를 위한 식이교육 및 구강보건교육을 실시한다. 치과위생 및 치료과정과 관련하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교육계획안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355951&cid=51373&categoryId=51373",
+			"description":"회사 근로자의 <b>직무<\/b>교육이나 근로자 개인의 역량 향상을 위해 시행하는 교육훈련에 대한 정보를 기록하는 양식. 근로자는 교육기관에서 교육을 시행하거나 원거리 교육을 통해 회사의 발전에 기여하거나... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209155319017_Z53XQ5O88.jpg\/ba17_2410_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"유람선운항사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024815&cid=42117&categoryId=42117",
+			"description":"선원의 <b>보험<\/b> 및 각종 증명서 관련 업무를 한다. 선박정기검사증서 등 문서를 작성 및 관리한다. 선박검사계획을 유람선운영관리자와 협의하여 수립한다. 검사 시에는 검사관과 동행하여 검사를 주관한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"복합운송주선인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024788&cid=42117&categoryId=42117",
+			"description":"화물의 통합 또는 분배업무를 수행하기 위하여 창고회사에 의뢰한다. 화주를 대신해서 화물<b>보험<\/b>에 관계되는 <b>보험<\/b>형태와 <b>보험<\/b>금액, <b>보험<\/b>조건 등을 수배한다. 운송과정에서",
+			"thumbnail":""
+		},
+		{
+			"title":"부동산신탁관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025961&cid=42117&categoryId=42117",
+			"description":"신탁물건을 유지·관리하기 위하여 관련 <b>보험<\/b>가입, 임차인모집, 임대보증금운용, 제세공과금의 납부, 건물의 유지·보수 등의 결산보고서를 작성한다. 신탁부동산의 운용에 따른 수익금을 배당한다. 부동산을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금융영업점이익관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024603&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 금융기관(일반은행, 특수은행, 비은행예금취급기관, <b>보험<\/b>사, 증권사, 카드사 등)의 각 지역점 및 영업점의 연간 이익목표 및 이익계획을 수립하고 그에 따른 월간 이익계획을 수립한다. 각 부문별... ",
+			"thumbnail":""
+		}
+	]
+}

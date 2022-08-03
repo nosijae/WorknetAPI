@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:53 +0900",
+	"total":1905460,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"전산<b>회계<\/b>1급 학습체계 정확히!",
+			"link":"https:\/\/blog.naver.com\/ilsin3460?Redirect=Log&logNo=222831393083",
+			"description":"대학교 1학년 때, 전공 수업으로 <b>회계<\/b> 수업을 들은 적이 있어요! 이 때 처음으로 거래의 8요소랑 차변과 대변, 그리고 재무 재표, 손익 계산서가 무엇인 지 알게 되었죠. 사실, 원래 가려고 했던 학과가 세무<b>회계<\/b>... ",
+			"bloggername":"¥•ㅡ•¥",
+			"bloggerlink":"https:\/\/blog.naver.com\/ilsin3460",
+			"postdate":"20220727"
+		},
+		{
+			"title":"<b>회계<\/b>관리2급 난이도 미리 대비해요!",
+			"link":"https:\/\/blog.naver.com\/ivkny?Redirect=Log&logNo=222827906032",
+			"description":"<b>회계<\/b>관리2급 난이도 미리 대비해요! 오래 전부터 <b>회계<\/b>공부를 해보고싶었는데 최근에 시간도 많이 생기고 자기개발을 해야겠다라는 생각에 <b>회계<\/b>관리2급을 준비하기 시작했어요!! <b>회계<\/b>관리2급 난이도는 어려운... ",
+			"bloggername":"GINGER LOG",
+			"bloggerlink":"https:\/\/blog.naver.com\/ivkny",
+			"postdate":"20220725"
+		},
+		{
+			"title":"<b>회계<\/b>관리 1급 합격 학습방법",
+			"link":"https:\/\/blog.naver.com\/darkminyoung?Redirect=Log&logNo=222829860640",
+			"description":"취득을 하게 되면 중간관리자나 <b>회계<\/b>실무자로서 여러 역할을 수행할 수 있습니다. 그렇다면 제가 <b>회계<\/b>관리 1급을 어떻게 취득하게 되었는지 그 과정에 대해서 소개해 드리겠습니다. 일단 저는 <b>회계<\/b>관리 1급 응시... ",
+			"bloggername":"MYCL",
+			"bloggerlink":"https:\/\/blog.naver.com\/darkminyoung",
+			"postdate":"20220726"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 합격했던 공부비결",
+			"link":"https:\/\/blog.naver.com\/627163?Redirect=Log&logNo=222828661490",
+			"description":"주변 친구들을 보니 <b>회계<\/b>학을 복수전공하는 경우도 있었는데, 저는 복전까지 했다가는 이도 저도 안 될... 친구들이나 선배들에게 물어물어 알아보니까 전산<b>회계<\/b>2급부터 시작하면 도움이 될 것 같다고 해서... ",
+			"bloggername":"일상블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/627163",
+			"postdate":"20220726"
+		},
+		{
+			"title":"<b>회계<\/b>관리1급 계획적인 학습노하우",
+			"link":"https:\/\/blog.naver.com\/willing7?Redirect=Log&logNo=222822221399",
+			"description":"<b>회계<\/b> 일을 하고 있지만 잊어버린 것도 많아서 일단은 <b>회계<\/b>관리1급부터 시작하기로 했습니다. 사실 마냥 쉬운 일은 아니었지만 제자리 보전과 더 나은 경력을 위해 단단히 마음을 먹었습니다. 그럼 제가 어떻게... ",
+			"bloggername":"공이 초크아트(대구맛집,카페)",
+			"bloggerlink":"https:\/\/blog.naver.com\/willing7",
+			"postdate":"20220721"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 단번에 합격한 공략법",
+			"link":"https:\/\/blog.naver.com\/sky00141?Redirect=Log&logNo=222817438158",
+			"description":"자격증 중에서 전산<b>회계<\/b>1급이 안정적인 취직에 도움이 된다는 정보를 얻었습니다. 저는 2급은 이미 가지고 있었는데요. 세무<b>회계<\/b> 자격을 난이도에 따라 나누면 전산<b>회계<\/b>2급 &lt; <b>회계<\/b>1급 &lt; 전산세무2급 &lt; 세무1급... ",
+			"bloggername":"Jay의 IT Security 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sky00141",
+			"postdate":"20220718"
+		},
+		{
+			"title":"<b>회계<\/b>관리1급 과목별 학습방법",
+			"link":"https:\/\/blog.naver.com\/hluvj1125?Redirect=Log&logNo=222821231963",
+			"description":"취득을 하게 되면 중간관리자나 <b>회계<\/b>실무자로서 다음에 역할을 하실 수 있습니다. 그럼 제가 <b>회계<\/b>관리1급을 어떻게 취득하게 되었는지 그 과정을 말씀드려 볼게요. 우선 저는 <b>회계<\/b>관리1급 응시 자격이... ",
+			"bloggername":"뽁's family의 일상 :)",
+			"bloggerlink":"https:\/\/blog.naver.com\/hluvj1125",
+			"postdate":"20220721"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 과목별 공부방법",
+			"link":"https:\/\/blog.naver.com\/kimws101?Redirect=Log&logNo=222753785256",
+			"description":"그렇게 무엇을 준비할지 고민하다가 저와 비슷한 시기에 취업준비를 시작한 친구 녀석이 전산<b>회계<\/b>1급 자격증 공부를 같이하자고 권했습니다. 전산<b>회계<\/b>1급은 공공기관 채용 시 우대사항에 해당이 되며... ",
+			"bloggername":"원똘이유 ♬",
+			"bloggerlink":"https:\/\/blog.naver.com\/kimws101",
+			"postdate":"20220531"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 반복학습의 효율성",
+			"link":"https:\/\/blog.naver.com\/whdmsp35?Redirect=Log&logNo=222782828698",
+			"description":"제가 전산<b>회계<\/b>1급 후기를 작성하기로 결심한 것도 이때문입니다. 완전히 정신적 독립을 하기 전에는... 그런데 저에게는 그것보다 선배의 조언으로 전산<b>회계<\/b>1급 자격증 취득이 훨씬 실용적인 준비였더라고요.... ",
+			"bloggername":"쪼와와의 소소한 일상,",
+			"bloggerlink":"https:\/\/blog.naver.com\/whdmsp35",
+			"postdate":"20220622"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 단기 학습 요령 잡기",
+			"link":"https:\/\/blog.naver.com\/arttiens79?Redirect=Log&logNo=222795309236",
+			"description":"만큼 <b>회계<\/b>라는 구체적인 진로를 정할 수 있었죠. 하지만, 실제 업무와 이론으로 배우는 점에는 차이가 있었기에 저는 좀 더 실전에 맞는 스펙을 만들어 놓고자 가장 먼저 전산<b>회계<\/b>1급을 취득해 보기로 했습니다.... ",
+			"bloggername":"깽콩이와 미술여행",
+			"bloggerlink":"https:\/\/blog.naver.com\/arttiens79",
+			"postdate":"20220630"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 단기간에 마쳤어요",
+			"link":"https:\/\/blog.naver.com\/tnrgml702?Redirect=Log&logNo=222828708567",
+			"description":"사수가 <b>회계<\/b> 파트까지 겸하고 계셔서 자연스럽게 해당 업무를 자주 접하게 되더라구요. 저도 사수의 영향을 받아서 그쪽 파트에 관심을 갖게 되었고, 기초부터 제대로 다져 놓으면 도움이 될 것 같아 전산<b>회계<\/b>2... ",
+			"bloggername":"달콤살벌한 쿠키네",
+			"bloggerlink":"https:\/\/blog.naver.com\/tnrgml702",
+			"postdate":"20220726"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 똑똑한 학습비결",
+			"link":"https:\/\/blog.naver.com\/hyunju7647?Redirect=Log&logNo=222817307291",
+			"description":"<b>회계<\/b> 관련 업무를 제대로 해본 적도 없고, 제 직종 분야도 아니지만 주식 공부하면서 자주 보게 되는 재무제표에 궁금증이 생겼어요. 또 <b>회계<\/b> 겸업 일을 하고 계시는 사수가 전산<b>회계<\/b>2급을 추천해서... ",
+			"bloggername":"슈퍼더블디",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyunju7647",
+			"postdate":"20220718"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 스펙쌓기 합격전략",
+			"link":"https:\/\/blog.naver.com\/eillen1?Redirect=Log&logNo=222803960607",
+			"description":"어떤 자격을 취득하면 좋을까 하다 <b>회계<\/b>나 세무 쪽에서 기본적인 전산<b>회계<\/b>1급을 취득하기로 마음을 먹어 꼼꼼하게 계획을 세우기 시작했습니다. (1) 응시자격 및 일정과 기간 전산<b>회계<\/b>1급은 응시 자격에 제한이... ",
+			"bloggername":"In's daily blog",
+			"bloggerlink":"https:\/\/blog.naver.com\/eillen1",
+			"postdate":"20220708"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 단기간 공부 과정",
+			"link":"https:\/\/blog.naver.com\/sky10041220?Redirect=Log&logNo=222812174734",
+			"description":"저는 전산<b>회계<\/b>1급 자격증과 함께 드디어 자리를 잡을 수 있었습니다. 오늘은 제가 공부했던 과정과... 전산<b>회계<\/b>1급 자격증을 손에 넣게 되면 아무래도 다양한 취업처에서 이점을 생각해볼 수 있습니다.... ",
+			"bloggername":"CRYSTAL",
+			"bloggerlink":"https:\/\/blog.naver.com\/sky10041220",
+			"postdate":"20220715"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 온라인강의로 입문하기",
+			"link":"https:\/\/blog.naver.com\/yunju1209?Redirect=Log&logNo=222829073589",
+			"description":"수학 하면 언제나 골치 아팠던 기억뿐이라 나중에 직장에서 <b>회계<\/b> 파트를 맡아서 일하게 될 줄은 꿈에도... 이때 많은 도움이 되어 줬던 게 전산<b>회계<\/b>2급이었는데, 오늘은 제가 시험 준비했던 내용에 대해 이야기를... ",
+			"bloggername":"MUSEMUSE",
+			"bloggerlink":"https:\/\/blog.naver.com\/yunju1209",
+			"postdate":"20220726"
+		},
+		{
+			"title":"<b>회계<\/b>관리1급 합격에 맞춘 공부전략",
+			"link":"https:\/\/blog.naver.com\/tndus7981?Redirect=Log&logNo=222821066032",
+			"description":"오늘은 제가 취득한 <b>회계<\/b>관리1급에 대한 정보와 공부한 전략에 대한 소개를 해보겠습니다! <b>회계<\/b>관리1급은? 재무 및 세무 분야에 대한 지식을 평가하는 시험으로 이 자격을 갖추면 기업의 관련 파트 업무의... ",
+			"bloggername":"반짝 반짝",
+			"bloggerlink":"https:\/\/blog.naver.com\/tndus7981",
+			"postdate":"20220721"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 합격을 위한 유리한 방법",
+			"link":"https:\/\/blog.naver.com\/heejunyk?Redirect=Log&logNo=222809026751",
+			"description":"<b>회계<\/b>에서 가장 먼저 드는 생각은 바로 수학입니다. 초등학교, 중학교, 고등학교를 보내오면서 성적에... 이랬던 제가 <b>회계<\/b> 분야에 관심을 갖게 될 줄은 전혀 몰랐어요. 제 커리어를 쌓기 위해 자격증을 얻어야... ",
+			"bloggername":"SJ_M & 디자인크림",
+			"bloggerlink":"https:\/\/blog.naver.com\/heejunyk",
+			"postdate":"20220712"
+		},
+		{
+			"title":"<b>회계<\/b>관리1급 핵심적인 공략비법",
+			"link":"https:\/\/blog.naver.com\/viastein?Redirect=Log&logNo=222821991978",
+			"description":"저는 이번 6월 25일 <b>회계<\/b>관리1급 98회 시험 통과한 대학생입니다. 비전공자이지만 관련 직종에 관심이... <b>회계<\/b>관리1급은 삼일<b>회계<\/b>법인에서 실시하는 국가공인 자격증 시험입니다. 세무나 재무 분야에 대한 지식을... ",
+			"bloggername":"다 함께 A!!",
+			"bloggerlink":"https:\/\/blog.naver.com\/viastein",
+			"postdate":"20220721"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 단기간 대비 요령",
+			"link":"https:\/\/blog.naver.com\/abungbung2?Redirect=Log&logNo=222828574701",
+			"description":"그렇다고 모든 것을 포기하고 오로지 공부에만 전념하고 싶지는 않아, 기존 생활을 유지하면서 전산<b>회계<\/b>1급 자격 과정을 밟기로 결심하게 되었어요. 전산<b>회계<\/b> 분야는 앞으로 더욱 전망이 좋아질 예정입니다.... ",
+			"bloggername":"박긍정여사의 삐뚤어진 상념",
+			"bloggerlink":"https:\/\/blog.naver.com\/abungbung2",
+			"postdate":"20220726"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 과목별 진행과정!",
+			"link":"https:\/\/blog.naver.com\/sky00141?Redirect=Log&logNo=222727442606",
+			"description":"그래서 힘을 내어 앞으로 어떻게 하면 괜찮은 회사에 들어갈까 고민하다가 전산<b>회계<\/b>1급에 눈을 돌렸어요. 이 라이센스를 가지고 있다면 <b>회계<\/b>법인이나 일반기업체의 세무부서, 국영기업체나 컨설팅회사 등... ",
+			"bloggername":"Jay의 IT Security 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sky00141",
+			"postdate":"20220510"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 실무대비 준비과정",
+			"link":"https:\/\/blog.naver.com\/godeung_a?Redirect=Log&logNo=222800208508",
+			"description":"저도 관심이 있는 분야로 직장을 구하기 위해서 자격증 공부를 알아보던 중에 전산<b>회계<\/b>1급에 도전하게 되었어요. 세무나 <b>회계<\/b>에 관심이 있었고 관련 분야로 직장도 구할 생각이었기 때문에 짧은 기간에... ",
+			"bloggername":"고등어블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/godeung_a",
+			"postdate":"20220704"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 빠르게 합격 달성한 과정",
+			"link":"https:\/\/blog.naver.com\/candies4?Redirect=Log&logNo=222821091522",
+			"description":"그래서 지금 가지고 있는 경력을 더 잘 살릴 수 있는 방안을 물색하다 추가적인 자격증 취득을 해보자 싶었고 그 결과 저는 하고 있던 일과 관련된 <b>회계<\/b>분야 중 전산<b>회계<\/b>2급을 취득해 보기로 했습니다. 제가 많은... ",
+			"bloggername":"Travel, Live and Love",
+			"bloggerlink":"https:\/\/blog.naver.com\/candies4",
+			"postdate":"20220720"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 정보 확인 후 대비한 TIP",
+			"link":"https:\/\/blog.naver.com\/gettost?Redirect=Log&logNo=222811706451",
+			"description":"그리고 그 과정에서는 전산<b>회계<\/b>1급 자격증이 확실한 활용도를 보인다는 것도 알게 되었는데요!... 전산<b>회계<\/b>1급 자격을 소지한 사람은 일단 취업에서 도움이 될 수 있습니다. 1) 공기업, 2) 중소기업 <b>회계<\/b>팀, 3)... ",
+			"bloggername":"Daniel's blog",
+			"bloggerlink":"https:\/\/blog.naver.com\/gettost",
+			"postdate":"20220715"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 효율성 있는 공부 전략",
+			"link":"https:\/\/blog.naver.com\/hyosun820605?Redirect=Log&logNo=222811691479",
+			"description":"지금은 전에 하던 일보다 훨씬 더 저의 적성에 맞는 <b>회계<\/b> 관련 업무를 맡고 있어요. 이 과정에서 제가 정말 필요하다고 생각했던 스펙은 바로 전산<b>회계<\/b>1급인데요. 아무래도 전공자가 아닌 입장에서 준비하는... ",
+			"bloggername":"♡ 류양의 HAPPY HOUSE♡",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyosun820605",
+			"postdate":"20220715"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 합격률 높여 학원없이 세무2급까지",
+			"link":"https:\/\/blog.naver.com\/ksr73411?Redirect=Log&logNo=222822833611",
+			"description":"전산<b>회계<\/b>1급합격률을 올려줄 수 있는 방법에 대해서 소개해드리도록 할게요. 제가 활용했던 방식이기도 한데요. 저는 교재와 인강을 병행하며 수월하게 학습할 수 있었어요. 해당 시험이 <b>회계<\/b> 분야에서 인기가... ",
+			"bloggername":"feel so blue...",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksr73411",
+			"postdate":"20220721"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 효율적인 학습전략",
+			"link":"https:\/\/blog.naver.com\/rktks6053?Redirect=Log&logNo=222828648584",
+			"description":"전산<b>회계<\/b>2급에 대한 정보를 알게 되었답니다. 초보자도 무난하게 딸 수 있는 자격증이라고 해서... 우선 제가 선택한 건 한국세무사회의 주관으로 진행되는 국가공인 민간자격으로, 세무<b>회계<\/b> 분야의 기초적인... ",
+			"bloggername":"Stand By Me",
+			"bloggerlink":"https:\/\/blog.naver.com\/rktks6053",
+			"postdate":"20220726"
+		},
+		{
+			"title":"<b>회계<\/b>관리2급 노베이스의 학습 노하우",
+			"link":"https:\/\/blog.naver.com\/sky10041220?Redirect=Log&logNo=222774788147",
+			"description":"시작하게 된 게 <b>회계<\/b>관리2급이었는데요. 결정한 이유는 간단했어요. 필기만 보는 시험을 찾고... 삼일<b>회계<\/b>법인에서 진행되는 공인 민간자격이고 응시자격에 따로 제한을 두고 있지 않았어요. 덕분에... ",
+			"bloggername":"CRYSTAL",
+			"bloggerlink":"https:\/\/blog.naver.com\/sky10041220",
+			"postdate":"20220616"
+		},
+		{
+			"title":"<b>회계<\/b>관리1급 올바른 준비과정",
+			"link":"https:\/\/blog.naver.com\/leehandl?Redirect=Log&logNo=222821623242",
+			"description":"저는 얼마 전 취득을 하게 된 <b>회계<\/b>관리1급에 대해서 이야기를 해보려고 해요. 일반적으로 생각하는... 저는 <b>회계<\/b>관리1급을 위해서 학원을 등록할 만큼 여유가 있지는 않았어요. 그래서 합리적이면서 도움을 받을... ",
+			"bloggername":"음악같은 삶을 향하여",
+			"bloggerlink":"https:\/\/blog.naver.com\/leehandl",
+			"postdate":"20220721"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 목표로 한 독학 과정",
+			"link":"https:\/\/blog.naver.com\/storm99m?Redirect=Log&logNo=222807629269",
+			"description":"아버지께서는 <b>회계<\/b> 업무가 주인 사무소를 운영하고 계십니다. 그래서 대학 졸업 후 바로 자신의 곁에서... 그래서 전문적인 이론을 알아내려고 전산<b>회계<\/b>1급 자격증에도 도전하게 되었습니다. 1) 이론과 실무로... ",
+			"bloggername":"i`m a Kelevra But thats Ok",
+			"bloggerlink":"https:\/\/blog.naver.com\/storm99m",
+			"postdate":"20220712"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 확실한 수업방향",
+			"link":"https:\/\/blog.naver.com\/ad21cc?Redirect=Log&logNo=222793539515",
+			"description":"그렇기 때문에 <b>회계<\/b>, 세무 분야에 취업을 해 전문적으로 <b>회계<\/b> 관련 업무를 수행하고자 하는 생각을 가지게 되었는데, 아무 기초 지식 없이 무작정 준비하는 것이 어려운 길이라고 생각하니 조금 망설여졌던 것도... ",
+			"bloggername":"아르미안의 일기장",
+			"bloggerlink":"https:\/\/blog.naver.com\/ad21cc",
+			"postdate":"20220629"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 효율 높인 학습 전략",
+			"link":"https:\/\/blog.naver.com\/blueangel823?Redirect=Log&logNo=222812267108",
+			"description":"그 결과 이때 전산<b>회계<\/b>1급과 같은 전문적인 스펙을 쌓는 것이 핵심이라는 것을 알게 되었습니다. 오늘은... 전산<b>회계<\/b>1급 시험과목은 1) 원리, 2) 원가, 3) 세무로 총 세 가지가 있습니다. 알려드린 순서에 따라서... ",
+			"bloggername":"인생 제 2막 1장",
+			"bloggerlink":"https:\/\/blog.naver.com\/blueangel823",
+			"postdate":"20220715"
+		},
+		{
+			"title":"ERP정보관리사 1급+2급 한번에 합격하는 방법(Feat.<b>회계<\/b>)",
+			"link":"https:\/\/blog.naver.com\/sunday9876?Redirect=Log&logNo=222819073543",
+			"description":"저는 제 전공과의 연계를 위해서 ERP정보관리사 모듈 중 <b>회계<\/b>를 선택했는데요. <b>회계<\/b>, 인사, 물류, 생산 등 여러 모듈이 있고, 4개 모두 취득하면 마스터 자격이 주어진다 해서 전부 준비할까 싶었지만, 우선은... ",
+			"bloggername":"단비네 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/sunday9876",
+			"postdate":"20220719"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 1개월의 도전 과정 정리",
+			"link":"https:\/\/blog.naver.com\/rosegkdms?Redirect=Log&logNo=222821268445",
+			"description":"전산<b>회계<\/b>1급 1개월의 도전 과정 정리 여러분 저 한 달 만에 직장 다니면서 전산<b>회계<\/b>1급을 취득을 했습니다! 저는 중소기업 총무팀에서 <b>회계<\/b> 관련 업무를 하는 30대 직장인입니다! 한 달 동안 직장 다니면서 저녁... ",
+			"bloggername":"오늘은 뭐할까",
+			"bloggerlink":"https:\/\/blog.naver.com\/rosegkdms",
+			"postdate":"20220720"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 단기간 학습 전략",
+			"link":"https:\/\/blog.naver.com\/ssoony88?Redirect=Log&logNo=222807637459",
+			"description":"그래서 그에 관한 대처를 위해 요새 많은 이가 준비한다는 전산<b>회계<\/b>1급을 노리게 되었는데요! <b>회계<\/b> 쪽에 관심이 있었던 건 아니지만, 그만큼 활용할 수 있는 범위가 크다는 선배들의 조언으로 적극 관심을... ",
+			"bloggername":"이런저런일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/ssoony88",
+			"postdate":"20220712"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 빠른 합격 전략",
+			"link":"https:\/\/blog.naver.com\/kimyeaji01?Redirect=Log&logNo=222804158584",
+			"description":"승진을 위한 조건으로 라이센스를 요구하고 있어서 전산<b>회계<\/b>1급을 준비했어요. 실무처리 능력이... 기준 점수 및 난이도 전산<b>회계<\/b>1급은 이론 30%와 실무 70%로 이루어져 있습니다. 이론이 필기에 해당하고 실무는... ",
+			"bloggername":"일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/kimyeaji01",
+			"postdate":"20220708"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 정보 및 학습법 알아보기",
+			"link":"https:\/\/blog.naver.com\/hye0_0?Redirect=Log&logNo=222807750768",
+			"description":"그렇게 저는 자격증을 대부분 둘러보게 되었으며, 전산<b>회계<\/b>1급을 선택했습니다. 그 이유는 관련... 전산<b>회계<\/b>1급 자격증이었습니다. 그리고 2) 절차로는 이론과 실무로 구성된 시험을 딱 한 번만 보는 건데요! 3)... ",
+			"bloggername":"소소한 으네로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hye0_0",
+			"postdate":"20220712"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 온라인 강의 활용한 TIP",
+			"link":"https:\/\/blog.naver.com\/gettost?Redirect=Log&logNo=222791101754",
+			"description":"모 기업의 <b>회계<\/b>팀으로 들어가게 되었으며, 그 과정에서 몇 개월을 관련 실무 수행을 하게 되었습니다.... 그래서 자격증이라도 따야겠다는 생각에 전산<b>회계<\/b>2급 시험에 도전하게 되었습니다. [ 한국세무사회에서... ",
+			"bloggername":"Daniel's blog",
+			"bloggerlink":"https:\/\/blog.naver.com\/gettost",
+			"postdate":"20220628"
+		},
+		{
+			"title":"<b>회계<\/b>관리1급난이도 강의로 시험준비",
+			"link":"https:\/\/blog.naver.com\/josw1992?Redirect=Log&logNo=222787480971",
+			"description":"어떻게 준비하는 게 좋을지 몰라서 고민하고 있었는데, 그러던 중 <b>회계<\/b>관리1급 취득하기로 결심하게 되었어요. <b>회계<\/b> 자격증이 취업에 도움이 되겠다 싶었고 실무에도 필요한 만큼 취업 과정에서 우대를 받을 수... ",
+			"bloggername":"돈을 쫓는 사람",
+			"bloggerlink":"https:\/\/blog.naver.com\/josw1992",
+			"postdate":"20220624"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 난이도 따라가는 학습",
+			"link":"https:\/\/blog.naver.com\/fiona90?Redirect=Log&logNo=222781397283",
+			"description":"전산<b>회계<\/b>1급 난이도를 보고 비전공자인 제가 준비하기에 괜찮다고 판단해서 공부를 해 보고자 결심했습니다. 전산<b>회계<\/b>1급 자격증은 전산세무<b>회계<\/b> 자격시험에 분류되어 있으며 취득 후 진출할 수 있는... ",
+			"bloggername":"피오나의 텃밭",
+			"bloggerlink":"https:\/\/blog.naver.com\/fiona90",
+			"postdate":"20220620"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 반복을 통한 점수향상",
+			"link":"https:\/\/blog.naver.com\/sweety4338?Redirect=Log&logNo=222775644485",
+			"description":"전산<b>회계<\/b>1급 자격증을 따는 것으로 결정했습니다. 저는 대학을 다니면서 <b>회계<\/b>를 배워보지 않아서 어렵지 않을까 생각했는데 친구들도 자기도 이거 준비하기 전에는 관련 학과를 나온 것도 아니고 막상 공부를... ",
+			"bloggername":"MY 지식@",
+			"bloggerlink":"https:\/\/blog.naver.com\/sweety4338",
+			"postdate":"20220616"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 3개월 학습방법 요약!",
+			"link":"https:\/\/blog.naver.com\/gywls5012?Redirect=Log&logNo=222813104871",
+			"description":"그래서 지난해부터 전산<b>회계<\/b>1급 자격증 취득을 해볼까? 고민을 했죠. 그리고 결국 올해 초 준비를... <b>회계<\/b>에 대해서 관심 있는 분들이 많고, 아무래도 유망직종이기에 시험을 보면 어떨까? 고민하시는 분들도... ",
+			"bloggername":"원두커피전국최저가판매\/세보커피머신수리as전문",
+			"bloggerlink":"https:\/\/blog.naver.com\/gywls5012",
+			"postdate":"20220715"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 출제방향 대비 공부방법!",
+			"link":"https:\/\/blog.naver.com\/parkrapp?Redirect=Log&logNo=222747754128",
+			"description":"어릴 때부터 무엇을 하고 싶었는지 곰곰이 생각해보는 시간을 가지고 난 후에야 전산<b>회계<\/b>1급 자격증... 전산<b>회계<\/b>1급 시험일정은 1년에 6번, 짝수달에 진행되고 있습니다. 2월, 4월, 6월, 8월, 10월, 12월까지 진행되고... ",
+			"bloggername":"황금빛 쭈롱월드",
+			"bloggerlink":"https:\/\/blog.naver.com\/parkrapp",
+			"postdate":"20220526"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 공부시간 활용한 결과!",
+			"link":"https:\/\/blog.naver.com\/adadoo132?Redirect=Log&logNo=222799990197",
+			"description":"전산<b>회계<\/b>2급에 해당했고, 요즘 기업에서도 자격증을 가지고 있는 사람들을 우대하는 경향이 있다고 했기에 도전해보기로 했죠. 그리고 저와 같은 초보자들도 단기간에 취득할 수 있는 <b>회계<\/b>쪽 으로 눈을 돌리기... ",
+			"bloggername":"우유(牛乳)보단 우유부단",
+			"bloggerlink":"https:\/\/blog.naver.com\/adadoo132",
+			"postdate":"20220704"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 대비한 공부 노하우",
+			"link":"https:\/\/blog.naver.com\/tkvkdldj926?Redirect=Log&logNo=222807882979",
+			"description":"평소 세무<b>회계<\/b> 분야에 상당한 관심을 보이는 1인이었습니다. 재정에 관한 부분을 관리하는 역할이... 복지도 그렇고 평판 또한 양호한 곳이었기에, <b>회계<\/b>팀 채용 기간을 노려 대비하게 되었는데요! 그렇기에... ",
+			"bloggername":"with you~♡",
+			"bloggerlink":"https:\/\/blog.naver.com\/tkvkdldj926",
+			"postdate":"20220712"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 인강 난이도 확실히 잡자",
+			"link":"https:\/\/blog.naver.com\/rodrha0103?Redirect=Log&logNo=222801050292",
+			"description":"그래서 시간을 낭비하지말고 취업에 도움이되는 자격증을 하나라도 더 취득해놓자라는 생각으로 전산<b>회계<\/b>2급 자격증부터 준비를 시작했습니다. 전산<b>회계<\/b>2급 시험은 응시자격에 제한이없어 누구나 응시할 수... ",
+			"bloggername":"Life is beautiful",
+			"bloggerlink":"https:\/\/blog.naver.com\/rodrha0103",
+			"postdate":"20220705"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 이론과 실무 개념 이해",
+			"link":"https:\/\/blog.naver.com\/kainnkainn?Redirect=Log&logNo=222798515268",
+			"description":"그래서 졸업하기 전에 전산<b>회계<\/b>1급을 취득해야겠다 마음을 먹었습니다. 그래야 나의 실력과 능력에... 저희 과에는 아예 없었고, <b>회계<\/b>하는 친구 중에서 몇 명 정도 있더라고요. 그래서 원하는 곳으로 입사하기... ",
+			"bloggername":"Hello, De Nature",
+			"bloggerlink":"https:\/\/blog.naver.com\/kainnkainn",
+			"postdate":"20220703"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 기초부터 다졌어요",
+			"link":"https:\/\/blog.naver.com\/lime333?Redirect=Log&logNo=222828808497",
+			"description":"제가 입사하게 된 부서는 <b>회계<\/b>팀이었고, 입사 초반에는 몇 개월 동안 실제 업무에 적응하느라고 꽤나... 경쟁력을 갖추기 위해서라면 실무경험 이외의 전문성을 키워 놓는 것이 좋을 것 같아 전산<b>회계<\/b>2급을... ",
+			"bloggername":"Under the Sea",
+			"bloggerlink":"https:\/\/blog.naver.com\/lime333",
+			"postdate":"20220726"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 합격률 높이는법!",
+			"link":"https:\/\/blog.naver.com\/hcy484?Redirect=Log&logNo=222819093945",
+			"description":"전산<b>회계<\/b>1급합격률을 높일 수 있는 방법에 대해 한 번 이야기 해볼까해요. 제가 공부한 방식이기도 한데요, 저는 교재와 인강을 통해 충분히 학습할 수 있었어요. 이 시험이 <b>회계<\/b> 분야에서 인기가 많은 시험이긴... ",
+			"bloggername":"사랑둥이 만두 & 짱구♥",
+			"bloggerlink":"https:\/\/blog.naver.com\/hcy484",
+			"postdate":"20220719"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 시험일정 자격증 후기",
+			"link":"https:\/\/blog.naver.com\/yoojink1004?Redirect=Log&logNo=222817306352",
+			"description":"전산<b>회계<\/b>2급 시험일정 자격증 후기 퇴사를 결정한 후 새로운 일을 알아보면서 <b>회계<\/b>라는 일을 알게 되었는데요. 기업에서 절대 빠지지 않고 활용하고 있는 것이 <b>회계<\/b>이고, 전산세무<b>회계<\/b> 프로그램을 다루면서... ",
+			"bloggername":"Black Aurora",
+			"bloggerlink":"https:\/\/blog.naver.com\/yoojink1004",
+			"postdate":"20220718"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 유형별 학습 비결",
+			"link":"https:\/\/blog.naver.com\/dntjd2930?Redirect=Log&logNo=222828391548",
+			"description":"그래서 최대한 일을 통해 자아 실현을 하는데 용이할 것 같은 <b>회계<\/b>, 세무 분야로 진로를 결정했어요. 사실 <b>회계<\/b>, 세무 분야가 이렇게 전망이 밝은줄은 몰랐는데, 양질의 일자리가 꾸준하게 공급되고... ",
+			"bloggername":"송암",
+			"bloggerlink":"https:\/\/blog.naver.com\/dntjd2930",
+			"postdate":"20220725"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급인강 난이도 극복한 공부",
+			"link":"https:\/\/blog.naver.com\/josw1992?Redirect=Log&logNo=222781302812",
+			"description":"취업에 성공하게 되었지만 업무에 대한 지식이 없어서 전산<b>회계<\/b>2급에 응시하게 되었습니다. 다양한 <b>회계<\/b>자격증 가운데 난이도가 쉽고, 시험범위도 많지 않다보니까 괜히 학원이나 전산<b>회계<\/b>2급인강에 돈을... ",
+			"bloggername":"돈을 쫓는 사람",
+			"bloggerlink":"https:\/\/blog.naver.com\/josw1992",
+			"postdate":"20220620"
+		},
+		{
+			"title":"<b>회계<\/b>관리1급 학습 플랜에 맞춰 대비하기",
+			"link":"https:\/\/blog.naver.com\/ilovejy0705?Redirect=Log&logNo=222774404849",
+			"description":"최근 제가 <b>회계<\/b>관리1급 과정들을 준비하게 되면서 어떻게 계획을 세워야 할까 많은 고민을 하게... <b>회계<\/b>관리1급은 두 가지 과목을 보게 됩니다. 1) 재무<b>회계<\/b> 2)세무<b>회계<\/b>에 대해서 배우게 되는데요. 한 과목별로... ",
+			"bloggername":"easy photo",
+			"bloggerlink":"https:\/\/blog.naver.com\/ilovejy0705",
+			"postdate":"20220616"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 실패를 극복한 공부방법",
+			"link":"https:\/\/blog.naver.com\/mind031?Redirect=Log&logNo=222830003546",
+			"description":"제가 준비한 자격증은 바로 전산<b>회계<\/b>1급인데요, 입사초반만 하더라도 전산세무<b>회계<\/b> 자격증 필요성을 느끼지 못할 정도로 기본적인 일을 했지만 석달이 지나니 조금씩 세분화된 업무를 담당하게 되었네요.... ",
+			"bloggername":"은수의 육아일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/mind031",
+			"postdate":"20220726"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 기초 반복학습의 중요성",
+			"link":"https:\/\/blog.naver.com\/bsideus?Redirect=Log&logNo=222799926053",
+			"description":"<b>회계<\/b>, 세무 분야로 취업을 희망하는 저에게 <b>회 계<\/b>자격증 종류 중 어떠한 자격을 취득하는 것이 이득일까 여러 시험 정보를 찾아보던 중 <b>회계<\/b>, 세무 합격 필독서를 접하게 되었어요. <b>회계<\/b>, 세무 합격 필독서는... ",
+			"bloggername":"┌ 익숙한 그 집 앞 。",
+			"bloggerlink":"https:\/\/blog.naver.com\/bsideus",
+			"postdate":"20220704"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 초보자 공부비법",
+			"link":"https:\/\/blog.naver.com\/nunco00?Redirect=Log&logNo=222822784010",
+			"description":"전산<b>회계<\/b>2급 초보자 공부비법 요즘같이 취업하기 어려운 시기에는 학력보다도 실력위주의 인재를 선발하는 추세라고 보는데요. 자격증의 가치가 그 어느 때보다 중요해졌기 때문에 <b>회계<\/b>나 세무 분야에... ",
+			"bloggername":"소소한 나",
+			"bloggerlink":"https:\/\/blog.naver.com\/nunco00",
+			"postdate":"20220721"
+		},
+		{
+			"title":"<b>회계<\/b>관리1급 전략적인 학습과정",
+			"link":"https:\/\/blog.naver.com\/dskt0505?Redirect=Log&logNo=222821267702",
+			"description":"그래서 오늘은 제가 취득한 <b>회계<\/b>관리1급에 대한 이야기를 해볼까 해요. 일상에서도 계획한 것을 이루고... 그래서 <b>회계<\/b>관리1급을 공부하기에 적합한 교재와 인강을 찾아봤는데요. 같은 분야를 준비했던 지인의... ",
+			"bloggername":"GRATITUDE",
+			"bloggerlink":"https:\/\/blog.naver.com\/dskt0505",
+			"postdate":"20220721"
+		},
+		{
+			"title":"전산<b>회계<\/b> 1급 합격률 고려했어요",
+			"link":"https:\/\/blog.naver.com\/darkminyoung?Redirect=Log&logNo=222821127647",
+			"description":"제가 취득하고 싶었던 전산<b>회계<\/b> 1급은 <b>회계<\/b>분야에서 정말 인기가 많은 자격증이라 전산<b>회계<\/b> 시험 후기만 확인해 봐도 취준생들 뿐만 아니라 실무자들 사이에서도 응시율이 상당히 높은 시험이었습니다.... ",
+			"bloggername":"MYCL",
+			"bloggerlink":"https:\/\/blog.naver.com\/darkminyoung",
+			"postdate":"20220720"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 합격률 대비한 접근",
+			"link":"https:\/\/blog.naver.com\/zkfldpssm?Redirect=Log&logNo=222818806649",
+			"description":"전산<b>회계<\/b> 자격증을 도전하고 있습니다. 시장에 존재하는 여러 자격증이 있었지만 그 중 전산세무<b>회계<\/b>를 선택한 배경에는 2019년 기준으로 한 해 28만명이 응시하였고 인사담당자에게 가장 인지도 있는 <b>회계<\/b>... ",
+			"bloggername":"이야기를 담다",
+			"bloggerlink":"https:\/\/blog.naver.com\/zkfldpssm",
+			"postdate":"20220719"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 인강 활용 난이도 공부기간 단축",
+			"link":"https:\/\/blog.naver.com\/princessnumb?Redirect=Log&logNo=222809690008",
+			"description":"학창시절부터 경제에 대해 관심이 많았기 때문에 오랜 고민 끝에 세무<b>회계<\/b>과에 진학하기로 결심했습니다. 대학진학을 앞둔 상황에서 대기업, 공기업, 공공기관 등에서 세무<b>회계<\/b> 학과 출신들이 우대 받을 수... ",
+			"bloggername":"반짝반짝 빛나는 ☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/princessnumb",
+			"postdate":"20220713"
+		},
+		{
+			"title":"정부지원금으로 <b>회계<\/b>프로그램 도입하기",
+			"link":"https:\/\/blog.naver.com\/abc020826?Redirect=Log&logNo=222807447367",
+			"description":"회사를 운영하면서 가장 중요하게 관리해야 하는 부분은 <b>회계<\/b>입니다. 경리가 서류 정리하고, 전표 등을 수기로 작성하던 시절이 지나 이제 모든 처리는 <b>회계<\/b>프로그램 통해 진행되는데요. 하지만... ",
+			"bloggername":"광야로 간 유앙나",
+			"bloggerlink":"https:\/\/blog.naver.com\/abc020826",
+			"postdate":"20220711"
+		},
+		{
+			"title":"개인사업자 장부작성을 돕는 인터넷세무<b>회계<\/b>프로그램",
+			"link":"https:\/\/blog.naver.com\/wltns8318?Redirect=Log&logNo=222802148802",
+			"description":"둘 다 인터넷세무<b>회계<\/b>프로그램을 이용하여 셀프 신고 가능합니다. 개인사업자 장부작성의 이유는 세금... 다음으로 개인사업자 스스로 직접 세무신고 할 수 있도록 되어 있는 인터넷세무<b>회계<\/b>프로그램 활용을... ",
+			"bloggername":"지수니의 생각창고",
+			"bloggerlink":"https:\/\/blog.naver.com\/wltns8318",
+			"postdate":"20220707"
+		},
+		{
+			"title":"<b>회계<\/b>관리1급 얼마나 공부해야 할까?",
+			"link":"https:\/\/blog.naver.com\/sojin8833?Redirect=Log&logNo=222817498914",
+			"description":"최근 취업에 용이한 <b>회계<\/b>관리1급 자격증이 각광을 받고 있습니다. 해당 자격증을 취득하고 현재는 관련... 보고 <b>회계<\/b>관리1급 자격증을 취득했는데요 혼자서 독학 할 때는 엄청 어렵게 느껴졌는데, 강의 도움을... ",
+			"bloggername":"제니휴먼리소스 김소진",
+			"bloggerlink":"https:\/\/blog.naver.com\/sojin8833",
+			"postdate":"20220718"
+		},
+		{
+			"title":"<b>회계<\/b>자격증 과목 별 학습방법 및 취업관련 자격증 종류",
+			"link":"https:\/\/blog.naver.com\/winter28?Redirect=Log&logNo=222824925342",
+			"description":"학습 전략을 잘 짜는 것도 합격의 길로 향하는 것 <b>회계<\/b>자격증 같은 경우에는 꾸준히 인기가 많은... 그리고 <b>회계<\/b>자격증 중에서 ERP<b>회계<\/b>2급 라이선스가 있는데 이는 전산2급보다 좀 더 수월하게 학습을 할 수... ",
+			"bloggername":"이런저런 두런두런",
+			"bloggerlink":"https:\/\/blog.naver.com\/winter28",
+			"postdate":"20220722"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 이해와 암기, 연습의 중요성",
+			"link":"https:\/\/blog.naver.com\/killlifes?Redirect=Log&logNo=222737220333",
+			"description":"그래서 가장 먼저 선택한 것이 전산세무<b>회계<\/b> 자격증이었고 전산<b>회계<\/b>1급에 도전하기로 결심했습니다. 비슷한 듯 다른 업무인지라 자격증이 하나쯤은 있어야겠더라고요. 그리고 남편 말에 의하면... ",
+			"bloggername":"Passion",
+			"bloggerlink":"https:\/\/blog.naver.com\/killlifes",
+			"postdate":"20220518"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 독학으로 성공하는 방법",
+			"link":"https:\/\/blog.naver.com\/reizn?Redirect=Log&logNo=222828173281",
+			"description":"때문에 <b>회계<\/b>학에도 정말 관심이 많습니당 ㅎㅎ 주식을 할때도 그렇구 항상 제2의 직업도 생각을 항상 하고있기 때문에 ㅠ.ㅠ 혹시 모를 미래를 대비해야 될 것 같다는 생각이 들더라고요. 저는 전공으로 <b>회계<\/b>를... ",
+			"bloggername":"부리공화국",
+			"bloggerlink":"https:\/\/blog.naver.com\/reizn",
+			"postdate":"20220725"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 난이도 분석해 공부하기",
+			"link":"https:\/\/blog.naver.com\/okeyai?Redirect=Log&logNo=222810033325",
+			"description":"전산<b>회계<\/b>2급 난이도 분석해 공부하기 서비스업에서 사무직으로 이직을 하기로 결심하고 <b>회계<\/b>자격증을 준비했어요. 지금은 전산<b>회계<\/b>1급과 전산세무2급을 준비하고 있는데 몇달 전만해도 전산<b>회계<\/b>2급난이도도... ",
+			"bloggername":"뉴스킨 HIGHLIGHT",
+			"bloggerlink":"https:\/\/blog.naver.com\/okeyai",
+			"postdate":"20220713"
+		},
+		{
+			"title":"전산<b>회계<\/b> 자격증 공부 비법",
+			"link":"https:\/\/blog.naver.com\/jive180?Redirect=Log&logNo=222828454376",
+			"description":"<b>회계<\/b> 관련 업무에 대한 배경 지식이 전혀 없고 전공한 과목도 아니지만 최근 주식 하락장을 겪으면서... 전산<b>회계<\/b>자격증을 취득해 놓으면 좋을 것 같다는 생각이 들더라고요. 주변에서 굳이 주식 때문에 40이... ",
+			"bloggername":"나능햐짭숙이",
+			"bloggerlink":"https:\/\/blog.naver.com\/jive180",
+			"postdate":"20220725"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 유형에 따른 준비과정",
+			"link":"https:\/\/blog.naver.com\/suksukii?Redirect=Log&logNo=222828282497",
+			"description":"그래서 저도 관련 분야중 첫번째 단계인 전산<b>회계<\/b>2급부터 취득하기로 했답니다. 한 번 취득해 놓으면 꼭... 관련 분야 시험은 전산세무1급 &gt; 전산세무2급 &gt; 전산<b>회계<\/b>1급 &gt; 전산<b>회계<\/b>2급 순서로 점점 난이도가... ",
+			"bloggername":"사랑은 나눌수록 더 풍성해진다..",
+			"bloggerlink":"https:\/\/blog.naver.com\/suksukii",
+			"postdate":"20220726"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 과목 및 준비방법",
+			"link":"https:\/\/blog.naver.com\/sns1350?Redirect=Log&logNo=222794829506",
+			"description":"그래서 전산<b>회계<\/b>2급 자격증을 준비하게 되었죠. 요즘은 많은 사람들이 직장만 다니는 건 아니에요.... 전산<b>회계<\/b>2급은 관련 전공자가 아니어도 예전부터 항상 취득을 해 놓으면 좋겠다는 생각을 했었거든요.... ",
+			"bloggername":"일상으로의 초대",
+			"bloggerlink":"https:\/\/blog.naver.com\/sns1350",
+			"postdate":"20220630"
+		},
+		{
+			"title":"강남컴퓨터학원 전산<b>회계<\/b>1급 한 번에 취득 비법!",
+			"link":"https:\/\/blog.naver.com\/jeongok8602?Redirect=Log&logNo=222785648864",
+			"description":"하는 일은 <b>회계<\/b>이지만 회사의 오랜 시스템으로.. 본인의 업무 외에도 타 업무를 1가지씩은 꼭 필수로... 전산<b>회계<\/b> 두 가지 과정을 추천해주셨어요. 사실 개발자인 저이기에 <b>회계<\/b>와는 정말 거리가 먼 직종이긴... ",
+			"bloggername":"호박공주맘의 시시콜콜",
+			"bloggerlink":"https:\/\/blog.naver.com\/jeongok8602",
+			"postdate":"20220623"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 이론 이해와 실무능력 향상",
+			"link":"https:\/\/blog.naver.com\/chinarainbow?Redirect=Log&logNo=222738948784",
+			"description":"저는 부모님이 원하는 경영학과에 진학했고 덕분에 <b>회계<\/b>부서에 취업할 수 있었습니다. 학점 관리는... 결국 전산<b>회계<\/b>1급 자격증에 도전하게 되었습니다. 자신감이 넘쳤던 저는 입사 후 6개월 정도 지나자... ",
+			"bloggername":"원더풀 라이프 하루",
+			"bloggerlink":"https:\/\/blog.naver.com\/chinarainbow",
+			"postdate":"20220520"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 선택 이유 및 준비 과정",
+			"link":"https:\/\/blog.naver.com\/whej335?Redirect=Log&logNo=222817151692",
+			"description":"&lt;전산<b>회계<\/b>1급은 어느 정도 수준의 급수인가&gt; 전산세무<b>회계<\/b> 등급은 총 4개로 구분됩니다. 전산<b>회계<\/b>2급이 가장 낮은 등급으로, 이론시험에서는 <b>회계<\/b>원리 하나만 봐요. 가장 기본적이며 기초적인 단계이기 때문에... ",
+			"bloggername":"EUNDAN's Talk",
+			"bloggerlink":"https:\/\/blog.naver.com\/whej335",
+			"postdate":"20220718"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 과목별 공부 요령",
+			"link":"https:\/\/blog.naver.com\/illein78?Redirect=Log&logNo=222811943676",
+			"description":"이때 저의 부족함은 무엇이었을지 분석을 하던 중, 저는 전산<b>회계<\/b>1급 자격을 소지하고 있다면 경쟁력이... 그러던 중에 전산<b>회계<\/b>1급 자격증을 소지하게 된다면 당연히 가치있는 이력서를 적을 수 있을 거라는... ",
+			"bloggername":"노리타 [경기도박물관]",
+			"bloggerlink":"https:\/\/blog.naver.com\/illein78",
+			"postdate":"20220715"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 단기간에 합격했던 공부비결",
+			"link":"https:\/\/blog.naver.com\/unophj?Redirect=Log&logNo=222830001746",
+			"description":"전산<b>회계<\/b>2급은 <b>회계<\/b> 공부를 처음 앞두고 있는 분들이 많이 응시하는 시험입니다. <b>회계<\/b>원리에 대한 내용으로만 문제가 출제되고 있기 때문에 난이도가 높지 않고, 기초<b>회계<\/b>에 해당하는 내용을 공부할 수 있기... ",
+			"bloggername":"삼남매 맘의 손으로 만드는 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/unophj",
+			"postdate":"20220726"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 빠른 승부봤던 비법",
+			"link":"https:\/\/blog.naver.com\/wjscnr1?Redirect=Log&logNo=222831008075",
+			"description":"&quot;전산<b>회계<\/b>2급 빠른 승부봤던 비법&quot; (쉼표 인용구) 대학교에 진학만 하면 걱정거리가 없을 거라고... 우연히 경험해봤던 사무직 아르바이트를 떠올려보니 꼼꼼한 성격에 <b>회계<\/b>일이 잘 맞겠다는 생각이 들었고... ",
+			"bloggername":"행복하게 살아가는 법",
+			"bloggerlink":"https:\/\/blog.naver.com\/wjscnr1",
+			"postdate":"20220727"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 과목별 분석과 방향",
+			"link":"https:\/\/blog.naver.com\/oreport?Redirect=Log&logNo=222809941646",
+			"description":"저는 취미도 없는 <b>회계<\/b>학과에 입학하여 등록금만 축내며 열심히 놀았던 사람입니다. 단지 대학... 제가 선택한 첫 관문이 전산<b>회계<\/b>1급 자격증이었어요. 친구, 선배들이 필수로 소지하고 있는 전산세무<b>회계<\/b>... ",
+			"bloggername":"Travel and Health & Life",
+			"bloggerlink":"https:\/\/blog.naver.com\/oreport",
+			"postdate":"20220713"
+		},
+		{
+			"title":"ERP정보관리사 <b>회계<\/b>1급 학습방향",
+			"link":"https:\/\/blog.naver.com\/abcdefg619?Redirect=Log&logNo=222802701351",
+			"description":"관심있던 <b>회계<\/b> 분야 자격증을 알아보다가 ERP정보관리사<b>회계<\/b>1급을 준비하게 되었어요. 많고 많은 자격증 중 ERP를 선택한 이유는 기업 업무 프로세스를 선행할 수 있는 유일한 자격증이라는 배경이 깔렸기... ",
+			"bloggername":"잡동사니 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/abcdefg619",
+			"postdate":"20220707"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급 자격증 취득해야 하는 이유",
+			"link":"https:\/\/blog.naver.com\/francoiskevi?Redirect=Log&logNo=222819483089",
+			"description":"필요한 <b>회계<\/b> 업무를 나름 잘 해냈었다는 것이 떠올랐고, 이 분야를 좀 더 심도 있게 공부하면 가능성이 있지 않을까 하는 결론에 다다랐어요. 실제로 <b>회계<\/b> 및 세무 관련 분야가 다양한데다가 회사에게는 상당히... ",
+			"bloggername":"Eat Well, Sleep Well & Live Better",
+			"bloggerlink":"https:\/\/blog.naver.com\/francoiskevi",
+			"postdate":"20220720"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 학원 비추합니다",
+			"link":"https:\/\/blog.naver.com\/ekdud0717?Redirect=Log&logNo=222807576314",
+			"description":"취준생일때 순조로운 취업을 위해 <b>회계<\/b> 관련 자격증을 알아보다가 비교끝에 전산세무<b>회계<\/b> 자격시험을 준비하게 되었습니다. 부동산 학과를 나왔지만 선택 과목이었기 때문에 세무 <b>회계<\/b>의 기본 용어조차... ",
+			"bloggername":"돈에죽고사는다요히",
+			"bloggerlink":"https:\/\/blog.naver.com\/ekdud0717",
+			"postdate":"20220711"
+		},
+		{
+			"title":"전산<b>회계<\/b>독학 시작-전산<b>회계<\/b>2급인강을 들어보았다",
+			"link":"https:\/\/blog.naver.com\/happyerica43?Redirect=Log&logNo=222814806188",
+			"description":"고등학교 들어가면서부터 수학포기자(=수포자)가 된 내가 직장에 와서 <b>회계<\/b> 공부를 하게될 줄은 몰랐는데 공시나 기업 ir보고서를 볼 때면 <b>회계<\/b> 공부의 필요성을 확실히 느끼긴 했다. <b>회계<\/b>용어를 아느냐마느냐... ",
+			"bloggername":"러마셀's 성장일기",
+			"bloggerlink":"https:\/\/blog.naver.com\/happyerica43",
+			"postdate":"20220717"
+		},
+		{
+			"title":"<b>회계<\/b>관리2급 난이도 및 철저한 공부 계획",
+			"link":"https:\/\/blog.naver.com\/flame11503?Redirect=Log&logNo=222828661314",
+			"description":"<b>회계<\/b>관리2급 공부에 도움이 되는 꿀팁들과 함께 학습 비법들을 확인해보려고 합니다. <b>회계<\/b> 시험을 준비하는 분들이 제 주위에서도 많이들 보이고 있는데 알아보니 이번 시험이 7월 30일 토요일에 시행이된다고... ",
+			"bloggername":"꾸꾸의 지구탐험",
+			"bloggerlink":"https:\/\/blog.naver.com\/flame11503",
+			"postdate":"20220725"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 튼튼한 기초 형성",
+			"link":"https:\/\/blog.naver.com\/jhshh?Redirect=Log&logNo=222801052063",
+			"description":"주어졌는데요, <b>회계<\/b>와 관련된 공부를 단 한번도 해본적이 없는 상황이었기 때문에 들어가니 여러... 그래서 빠르게 업무에 적응하기 위하여 프로그램 다루는 실력을 키울 수 있는 전산세무<b>회계<\/b> 자격시험을... ",
+			"bloggername":"모순 덩어리",
+			"bloggerlink":"https:\/\/blog.naver.com\/jhshh",
+			"postdate":"20220705"
+		},
+		{
+			"title":"[도서] 솔직히 <b>회계<\/b> 1도 모르겠습니다 : 아마존 재팬 <b>회계<\/b> 분야... ",
+			"link":"https:\/\/blog.naver.com\/777bubu?Redirect=Log&logNo=222824731916",
+			"description":"솔직히 <b>회계<\/b> 1도 모르겠습니다 저자 고야마 아키히로 출판 포레스트북스 발매 2022.07.13. 포레스트북스에서 출간한 '솔직히 <b>회계<\/b> 1도 모르겠습니다'입니다. <b>회계<\/b>는 비즈니스 언어라고 불릴 만큼 돈의 흐름을... ",
+			"bloggername":"직장인 나노의 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/777bubu",
+			"postdate":"20220722"
+		},
+		{
+			"title":"고야마 아키히로 - 솔직히 <b>회계<\/b> 1도 모르겠습니다",
+			"link":"https:\/\/blog.naver.com\/windwizard_?Redirect=Log&logNo=222830067295",
+			"description":"솔직히 <b>회계<\/b> 1도 모르겠습니다 저자 고야마 아키히로 출판 포레스트북스 발매 2022.07.13. 나는 책의 제목 그대로 <b>회계<\/b>에 관해 1도 모르는 독자였다. 어디서 주워들은 잡지식이 있을뿐 <b>회계<\/b> 용어나 <b>회계<\/b>에 관해... ",
+			"bloggername":"꿈꾸는 은빛 바람꽃",
+			"bloggerlink":"https:\/\/blog.naver.com\/windwizard_",
+			"postdate":"20220726"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급, 1급을 준비해보자",
+			"link":"https:\/\/blog.naver.com\/okeyai?Redirect=Log&logNo=222819480832",
+			"description":"제가 얘기하려고 하는 전산<b>회계<\/b>2급1급인데요, 그 중에서도 2급을 중심으로 한 번 얘기해볼게요. 이... 특히 전산<b>회계<\/b>2급은 교재와 제공되는 강의로도 충분히 공부 가능하다고 하니, 준비해볼까 생각중이던... ",
+			"bloggername":"뉴스킨 HIGHLIGHT",
+			"bloggerlink":"https:\/\/blog.naver.com\/okeyai",
+			"postdate":"20220719"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급1급 난이도를 격파하는 방법",
+			"link":"https:\/\/blog.naver.com\/nunco00?Redirect=Log&logNo=222795024309",
+			"description":"공부를 할 때 학원이 편한 사람이 있고 독학이 편한 사람이 있을 것 같아요~ 오늘은 전산<b>회계<\/b>2급을 중심으로 해서 전산<b>회계<\/b>2급1급 난이도를 함께 격파 가능한 방법에 대해 얘기해볼까 해요! 몰랐는데 이 시험은... ",
+			"bloggername":"소소한 나",
+			"bloggerlink":"https:\/\/blog.naver.com\/nunco00",
+			"postdate":"20220630"
+		},
+		{
+			"title":"<b>회계<\/b>관리1급 98회 가답안 빠른 결과확인!",
+			"link":"https:\/\/blog.naver.com\/hanul287?Redirect=Log&logNo=222786004662",
+			"description":"“<b>회계<\/b>관리1급 98회 가답안 빠른 결과확인!” 오지 않을 것만 같았던 <b>회계<\/b>관리1급 98회 시험이 드디오 오늘 치뤄지게 되었는데요. 오후 2시부터 3시 40분까지 총 100분동안 실시하는 시험이라서 꽤 긴장도 되실 것... ",
+			"bloggername":"피아노양쌤",
+			"bloggerlink":"https:\/\/blog.naver.com\/hanul287",
+			"postdate":"20220625"
+		},
+		{
+			"title":"국세청에서 부가세전자신고 절차 순서(<b>회계<\/b>프로그램데이타변환)",
+			"link":"https:\/\/blog.naver.com\/duzonon?Redirect=Log&logNo=222822364344",
+			"description":"신고서작성메뉴에서 예정고지세액확인 3.<b>회계<\/b>프로그램에서 작성된 전자신고파일을 생성합니다 4. 파일변환신고 메뉴를 통해서 <b>회계<\/b>프로그램으로 작성된 전자신고파일을 변환합니다 5.오류없이 전자신고변환이... ",
+			"bloggername":"더존 클라우드 ERP_(주)다인정보",
+			"bloggerlink":"https:\/\/blog.naver.com\/duzonon",
+			"postdate":"20220721"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급시험일정 -전산<b>회계<\/b>독학 한달 시작",
+			"link":"https:\/\/blog.naver.com\/flamenebula?Redirect=Log&logNo=222813240974",
+			"description":"그래서 전산<b>회계<\/b>2급시험일정을 저도 찾아보게되더라구요. 이때만 해도 제가 전산<b>회계<\/b>독학을 하게 될줄은 몰랐죠! 전산<b>회계<\/b>2급시험일정 2022 전산<b>회계<\/b>2급시험일정은 다음과 같습니다. 8월 6일(토) 10월 2일(일)... ",
+			"bloggername":"써니와 하리의 오감만족 탐험!",
+			"bloggerlink":"https:\/\/blog.naver.com\/flamenebula",
+			"postdate":"20220715"
+		},
+		{
+			"title":"만화로 배우는 재무<b>회계<\/b>, 그나마 쉬운편",
+			"link":"https:\/\/blog.naver.com\/100guswjd?Redirect=Log&logNo=222821194397",
+			"description":"만화로 배우는 재무<b>회계<\/b> 저자 이시노 유이치 출판 비전코리아 발매 2019.04.01. 만화로 보면 좀 쉽나 싶어서 읽은 재무<b>회계<\/b>책.^^ 중간중간에 만화가 없었으면 읽다가 덮었을 것 같지만.... 다행히 완독했다~ 역시... ",
+			"bloggername":"자유책",
+			"bloggerlink":"https:\/\/blog.naver.com\/100guswjd",
+			"postdate":"20220720"
+		},
+		{
+			"title":"제103회 한국세무사회 자격시험(전산<b>회계<\/b>, 전산세무)",
+			"link":"https:\/\/blog.naver.com\/kjca1114?Redirect=Log&logNo=222822752570",
+			"description":"저희 The국제직업전문학교는 한국세무사협회의 전산<b>회계<\/b>2급, 전산<b>회계<\/b>1급, 전산세무2급 자격증 시험의 가답안을 시험 종료후 누구보다 빠르게 여러분들께 알려드리고 있습니다. 매회차!! 제103회... ",
+			"bloggername":"THE국제직업전문학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/kjca1114",
+			"postdate":"20220721"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급난이도 인강과 교재로 이론은 확실하게",
+			"link":"https:\/\/blog.naver.com\/okeyai?Redirect=Log&logNo=222784191338",
+			"description":"전산<b>회계<\/b>1급난이도는 2급에 비해서 어려운 편이기 때문에 초시생분들이 공부를 한다면 전산<b>회계<\/b>1급인강을 함께 참고해서 학습을 하는것이 도움이 될 것 같습니다. 이번에 전산<b>회계<\/b>1급교재를 준비해서 공부를... ",
+			"bloggername":"뉴스킨 HIGHLIGHT",
+			"bloggerlink":"https:\/\/blog.naver.com\/okeyai",
+			"postdate":"20220622"
+		},
+		{
+			"title":"[고양시\/파주시] 일산전산<b>회계<\/b>학원에서 실무&amp;자격증&amp;취업성공",
+			"link":"https:\/\/blog.naver.com\/tjoeunis?Redirect=Log&logNo=222816887174",
+			"description":"[고양시\/파주시] 일산전산<b>회계<\/b>학원에서 실무&amp;자격증&amp;취업성공 세무<b>회계<\/b>분야 세무사 사무실 경리사무 등 이와 같은 업무를 하고 계신분이나 이 분야로의 취업(진출)을 희망하시는 분들은 알고... ",
+			"bloggername":"고양시국비지원 더조은컴퓨터아트학원 일산",
+			"bloggerlink":"https:\/\/blog.naver.com\/tjoeunis",
+			"postdate":"20220718"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급인강 전산세무<b>회계<\/b> 자격증 필기 실기 총 정리",
+			"link":"https:\/\/blog.naver.com\/thebenzecl?Redirect=Log&logNo=222827883921",
+			"description":"항상 좋은 정보 글 남겨드리려고 노력하고 있어요 : ) 오늘 여러분과 얘기해볼 주제는용~ ' 전산<b>회계<\/b>1급인강 ' 입니당 :-D 전산<b>회계<\/b> 자격시험! 세무사제도를 확립하여 납세자의 권익을 보호하고 원활한 세무행정... ",
+			"bloggername":"호잇의 룰루랄라",
+			"bloggerlink":"https:\/\/blog.naver.com\/thebenzecl",
+			"postdate":"20220725"
+		},
+		{
+			"title":"[자격증] 전산<b>회계<\/b> 2급 독학 및 합격 후기",
+			"link":"https:\/\/blog.naver.com\/pjy_106?Redirect=Log&logNo=222827302578",
+			"description":"전산<b>회계<\/b>에 도전해보기로 했다 어떤 교재가 좋은지 잘 모르겠어서 알라딘에서 판매량이 많은 해커스 전산<b>회계<\/b> 책으로 구매했고, 나중에 박쌤 이라는 교재와 인강이 유명하다는 것을 알게되어 교재는 이미... ",
+			"bloggername":"직장인의 슬기로운 자기계발",
+			"bloggerlink":"https:\/\/blog.naver.com\/pjy_106",
+			"postdate":"20220724"
+		},
+		{
+			"title":"2023년 신입생 학과 소개 - 경영<b>회계<\/b>서비스계열 전산세무<b>회계<\/b>과",
+			"link":"https:\/\/blog.naver.com\/with_yjc?Redirect=Log&logNo=222831159464",
+			"description":"오늘은 경영<b>회계<\/b>서비스계열의 #전산세무<b>회계<\/b>과를 소개해 드릴게요! 전산<b>회계<\/b>? 전산세무? 둘의 차이가 뭔가요? <b>회계<\/b> 안에서도 전산<b>회계<\/b>와 세무<b>회계<\/b> 이렇게 두 가지를 들어보셨나요? 전산<b>회계<\/b>는 <b>회계<\/b>적인... ",
+			"bloggername":"영진전문대학교 공식 블로그 ★ 전문대학 대표 브랜드",
+			"bloggerlink":"https:\/\/blog.naver.com\/with_yjc",
+			"postdate":"20220727"
+		},
+		{
+			"title":"전산<b>회계<\/b>1급독학 시험정보와 공부방법",
+			"link":"https:\/\/blog.naver.com\/skyktc?Redirect=Log&logNo=222817315498",
+			"description":"전산<b>회계<\/b>1급독학에 관한 소식입니다~~ 전산<b>회계<\/b>1급독학에 대해 소개해 드리기 전에 전산<b>회계<\/b>에 대해서 소개해드리도록 하겠습니다. 전산<b>회계<\/b>는 한국세무사회에서 시행하고 있는 국가공인 민간자격증인데요... ",
+			"bloggername":"스마트동스쿨 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/skyktc",
+			"postdate":"20220718"
+		},
+		{
+			"title":"심플한 무료 PPT 템플릿 경제 <b>회계<\/b> 피피티 까지!",
+			"link":"https:\/\/blog.naver.com\/jok6835?Redirect=Log&logNo=222797647151",
+			"description":"심플한 무료 PPT 템플릿 경제 <b>회계<\/b> 피피티 까지! 하단에 파일 비밀번호가 공개되어 있습니다! 발표를 할... 파포장인의 심플한 무료 PPT 템플릿 경제 <b>회계<\/b> 피피티 예시본을 소개해드리도록 하겠습니다. 아래... ",
+			"bloggername":"파포장인｜파워포인트 디자인의 모든 것",
+			"bloggerlink":"https:\/\/blog.naver.com\/jok6835",
+			"postdate":"20220704"
+		},
+		{
+			"title":"[강연 정보] 황이석 서울대 교수 - 경영의사결정 및 재무<b>회계<\/b>",
+			"link":"https:\/\/blog.naver.com\/influentials?Redirect=Log&logNo=222822643068",
+			"description":"● 강사: 황이석 (서울대학교 경영대학 교수) ● 일시: 2022년 7월 셋째 주 ● 주최: H 기업 ● 대상: 승진자 ● 주제: 경영의사결정 및 재무<b>회계<\/b> ● 키워드: #재무<b>회계<\/b> #경영성과 #재무전략 ■ 황이석 연사의... ",
+			"bloggername":"인플루엔셜",
+			"bloggerlink":"https:\/\/blog.naver.com\/influentials",
+			"postdate":"20220727"
+		},
+		{
+			"title":"전산<b>회계<\/b>2급 독학 단기간에 합격한 TIP",
+			"link":"https:\/\/blog.naver.com\/ivkny?Redirect=Log&logNo=222831131638",
+			"description":"전산<b>회계<\/b>2급 독학 단기간에 합격한 TIP 새로운 쪽으로 이직 준비를 하면서 전산<b>회계<\/b>2급을 공부했어요! 원래는 바로 1급을 취득하려고 했는데 비전공자에 <b>회계<\/b>를 처음 접하다보니 상당히 어렵더라고요. 그래서... ",
+			"bloggername":"GINGER LOG",
+			"bloggerlink":"https:\/\/blog.naver.com\/ivkny",
+			"postdate":"20220727"
+		}
+	]
+}

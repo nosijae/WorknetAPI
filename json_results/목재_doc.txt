@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:33 +0900",
+	"total":38764,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>목재<\/b>공학",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2153",
+			"description":""
+		},
+		{
+			"title":"<b>목재<\/b>보존 (木材保存)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3203309",
+			"description":""
+		},
+		{
+			"title":"<b>목재<\/b> 이용 트렌드 분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896910028",
+			"description":"A Study on Trend Analysis of Wood Use <b>목재<\/b> 이용에 대한 최근 흐름을 파악하고자 <b>목재<\/b> 이용 경향에 대한 설문조"
+		},
+		{
+			"title":"LCA 방법론을 활용한 커피박 자원화의 환경부하 저감효과 분석 : 환경성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896907426",
+			"description":"An analysis on the environmental load reduction effect of recycling coffee waste applying Life cycle assessment methodology: Environmen"
+		},
+		{
+			"title":"ACQ 약제의 <b>목재<\/b> 내 침투 및 부후 특성에 미치는 <b>목재<\/b> 조직의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78410113",
+			"description":"Penetration of ACQ Treatment and its Effect of Degradation on Wood Tissues (Structure) 구리계 보존제 처리에 대한 기초 자"
+		},
+		{
+			"title":"<b>목재<\/b>특화거리 조성에 따른 탄소저장효과 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896910036",
+			"description":"Analysis of Carbon Storage Effect according to Wood-Specialized Street Composition 도시목조화를 통해 <b>목재<\/b>친화도시를 조"
+		},
+		{
+			"title":"Investigation on the Awareness and Preference for Wood to Promote the Value of Wood: II. Awarene",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890021882",
+			"description":"Investigation on the Awareness and Preference for Wood to Promote the Value of Wood: II. Awareness of Wood Cultural Resources <b>목재<\/b>문"
+		},
+		{
+			"title":"국산<b>목재<\/b> 이용 확대를 위한 지역<b>목재<\/b> 이용제품 지정제도 운영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890139044",
+			"description":"Operation of the Local Wood-Use Products Designation System to Expand the Use of Domestic Wood 지구온난화가 심각해지면서 "
+		},
+		{
+			"title":"<b>목재<\/b>매체를 이용한 집단미술치료가 시설아동의 위축과 우울\/불안에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59529862",
+			"description":"The Effects of Group Art Therapy using Wood Materials on Withdrawal, Depression and Anxiety of Children at Day Nursery 본 연구는 "
+		},
+		{
+			"title":"건축물 실내<b>목재<\/b> 사용비율에 따른 온습도 변화연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909916",
+			"description":"A Study on the Changes in Temperature and Relative Humidity by Percentage of Wood Use in Building 친환경재료인 <b>목재<\/b>는 탄소"
+		},
+		{
+			"title":"조선후기 국용 <b>목재<\/b> 유통업자들의 관계망",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897656842",
+			"description":"The Multiplex Relationship between Distributors of Timber for Dynastic usage during the latter half of the Joseon period 조선후기 "
+		},
+		{
+			"title":"고열처리가 <b>목재<\/b>의 모관응축수 형성에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909970",
+			"description":"Effect of Heat-Treatment on the Formation of Capillary Condensed Water in Wood <b>목재<\/b> 고열처리는 <b>목재<\/b>에 고온(160～260℃)의"
+		},
+		{
+			"title":"국산<b>목재<\/b>의 순환이용 증진을 위한 물질흐름분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896910024",
+			"description":"A Study on Material Flow Analysis to Promote the Cascading Use of Domestic Wood 세계 주요 선진국들은 지구온난화에 대응"
+		},
+		{
+			"title":"광학적 인자에 따른 <b>목재<\/b>의 해부학적 특징 자동검출 시스템 성능 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909954",
+			"description":"Performance Assessment of Automated Detection System for Anatomical Features of Wood depending on Optical Parameters <b>목재<\/b> 수종 식"
+		},
+		{
+			"title":"의미연결망을 활용한 <b>목재<\/b>특성의 상관관계 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909971",
+			"description":"Correlation Analysis of Wood Characteristics Using Sematic Network 의미연결망 분석은 사회연결망(Social Network)에서 정"
+		},
+		{
+			"title":"<b>목재<\/b>이용 가치사슬분석에 따른 탄소저장량 증진효과 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909969",
+			"description":"Evaluation of Carbon Storage Enhancement Effect by Value Chain Analysis of Wood Utilization 전 세계는 탄소중립 사회로의 전"
+		},
+		{
+			"title":"열화 처리에 의한 <b>목재<\/b> 보존제의 목조문화재 적용성 평가 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891430739",
+			"description":"A Study on the Applicability of Wood Preservatives to Wooden Cultural Properties by Aging Treatment 목조문화재의 대부분은 외"
+		},
+		{
+			"title":"한반도에서 산출된 화석<b>목재<\/b>의 다양성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=150738698",
+			"description":"Diversity of Fossil Woods from the Korean Peninsula 한반도에서 산출되는 화석<b>목재<\/b>의 개요와 고식물학적 의미를 "
+		},
+		{
+			"title":"동등성능 철근콘크리트, 강재, <b>목재<\/b> 보의 온실가스 배출량 및 내재 에너",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909976",
+			"description":"Greenhouse Gas Emissions and Embodied Energy Analysis of Reinforced Concrete, Steel, and Timber Beam with Equivalent Structural Perform"
+		},
+		{
+			"title":"마이크로파와 열압프레스를 이용하여 제조한 압축<b>목재<\/b> 특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909974",
+			"description":"Characteristics of Compressed Wood Manufactured Using Microwave and Hot Press 최근 국내 <b>목재<\/b>를 효율적인 고부가가치화"
+		},
+		{
+			"title":"<b>목재<\/b> 가치 증진을 위한 <b>목재<\/b>에 대한 인식 및 선호도 조사: II. <b>목재<\/b>문화자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881581485",
+			"description":" <b>목재<\/b>문화 활성화 전략을 수립하기 위한 기초연구로써 일반인의 <b>목재<\/b>문화에 대한 인식정도와 유형별 "
+		},
+		{
+			"title":"Investigation on the Awareness and Preference for Wood Culture to Promote the Value of Wood: I. ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890021881",
+			"description":"Investigation on the Awareness and Preference for Wood Culture to Promote the Value of Wood: I. Awareness of Wood and Cultural Experien"
+		},
+		{
+			"title":"3축 CNC가공 기반의 <b>목재<\/b>를 이용한 가구연결구 디지털화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881527907",
+			"description":"Digitalization of Furniture Connector Using Wood Based on 3-axis CNC Processing <b>목재<\/b>가구는 기본적으로 지속가능한 친환"
+		},
+		{
+			"title":"<b>목재<\/b>문화자원 유형분류 및 <b>목재<\/b>이용 트렌드",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421671",
+			"description":"Type Classification of Wood Cultural Resources and Trend of Wood Use 건강하고 행복한 웰빙을 추구하는 생활방식의 확"
+		},
+		{
+			"title":"<b>목재<\/b>의 치수안정성 개선을 위한 진공가압 멜라민 수지함침처리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=696395671",
+			"description":"   Swelling, Shrinkage, Melamine, Composite material, Chemistry "
+		},
+		{
+			"title":"컴퓨터 비전과 딥러닝을 이용한 <b>목재<\/b> 결함의 검출 및 정량화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909925",
+			"description":"Detection and Quantification of Wood Defects Using Computer Vision and Deep Learning <b>목재<\/b> 표면 검사를 위해 컴퓨터 비전과"
+		},
+		{
+			"title":"노치 합판 전단접합부를 활용한 <b>목재<\/b>-콘크리트 합성 슬라브의 휨 성능",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909917",
+			"description":"Bending Performance of Timber-Concrete Composite Slab with a Notched Plywood Shear Connector 최근 중고층 목조건축물에 대한"
+		},
+		{
+			"title":"<b>목재<\/b>산업현황 및 한국임업진흥원 <b>목재<\/b>사업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421550",
+			"description":"Wood Industry Status and Wood Business of KOFPI 최근 우리나라의 <b>목재<\/b>산업은 건설경기가 침체되고 중국, 말레이"
+		},
+		{
+			"title":"<b>목재<\/b>연소에 의한 타르(Tar)의 화재발생 가능성 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890635642",
+			"description":"A Study on the Fire Possibility of Tar by Combustion of Woods 본 연구는 <b>목재<\/b> 연소생성물인 타르 및 목초액을 대상으"
+		},
+		{
+			"title":"<b>목재<\/b> 보존용 액상 접착제의 제조 및 물성 연구 - 젤라틴과 카라기난 합성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=876969221",
+			"description":"A Study on the Manufacture and Physical Properties of Liquid Adhesive for Wood Preservation - Focusing on the Synthesis of Gelatin and "
+		},
+		{
+			"title":"국내 <b>목재<\/b>산업의 국가경제 기여도와 성장요인 분해 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=848998541",
+			"description":"The Domestic Wood Industry’s Contribution to the National Economy and Its Growth Factors 본 연구에서는 <b>목재<\/b>산업의 지속"
+		},
+		{
+			"title":"<b>목재<\/b>의 가치증진을 위한 <b>목재<\/b>문화에 대한 인식 및 선호도 조사: I. <b>목재<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881581480",
+			"description":" 일반인의 <b>목재<\/b>에 대한 인식개선은 <b>목재<\/b>이용 확대를 통한 <b>목재<\/b>문화 정착이라는 목표를 달성하기 위하"
+		},
+		{
+			"title":"표면마감처리별 <b>목재<\/b>제품의 폼알데하이드 방출량 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896910002",
+			"description":"The Characteristics of Formaldehyde Emission according to Surface Treatment Methods and Raw Materials of Wood Products 최근 환경부"
+		},
+		{
+			"title":"<b>목재<\/b>문화자원의 유형 분류에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882606222",
+			"description":""
+		},
+		{
+			"title":"국내 <b>목재<\/b>부후균 유래의 개미산 탈수소화효소 탐색 및 기능 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909952",
+			"description":"Investigation and Characterization of Formate Dehydrogenase from Indigenous Wood-Rotting Fungi 최근 전지구적인 기후변화가 "
+		},
+		{
+			"title":"<b>목재<\/b>밀도와 방염처리방법에 따른 방염성능분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841346870",
+			"description":"Analysis of Flame-Retardant Performance Based on Wood Density and Flame-Retardant Treatment Method 이 연구를 위해 실생활 및 "
+		},
+		{
+			"title":"<b>목재<\/b>밀도와 방염처리방법에 따른 방염성능분석 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843045630",
+			"description":"Analysis of Flame-Retardant Performance Based on Wood Density and Flame-Retardant Treatment Method 이 연구를 위해 실생활 및 "
+		},
+		{
+			"title":"열처리가 <b>목재<\/b>의 내후성에 미치는 영향 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890138980",
+			"description":"Effect of Heat-Treatment on the Decay Resistance against Wood Rot Fungi <b>목재<\/b> 열처리는 ***~***℃ 범위 온도로 처리하여 "
+		},
+		{
+			"title":"열화 처리에 의한 <b>목재<\/b> 보존제의 목조문화재 적용성 평가 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=894854989",
+			"description":"A Study on the Applicability of Wood Preservatives to Wooden Cultural Properties by Aging Treatment Wooden cultural heritage are expose"
+		},
+		{
+			"title":"수용성 방염액 처리 <b>목재<\/b>의 방염 성능 및 가스유해성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561501951",
+			"description":"Analysis on the Flame-Retardant Performance and Hazards in Gas Products for Water-Soluble Flame-Retardant-Chemicals Treated Woods 본 "
+		},
+		{
+			"title":"임업· <b>목재<\/b>산업의 산업연관분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651400790",
+			"description":"Input-Output Analysis Focused on Forestry and Wood Industry in Korea 이 연구의 목적은 임업과 <b>목재<\/b>산업이 전체 경제에"
+		},
+		{
+			"title":"<b>목재<\/b> 횡단면의 흡음율과 약액 침투성과의 관계 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421614",
+			"description":"Analysis of the Relationship between the Sound-Absorbing Properties of the Cross-Section of Wood and the Penetration of Chemicals 일"
+		},
+		{
+			"title":"<b>목재<\/b>문화에 대한 인식 및 선호도 조사: Ⅰ. <b>목재<\/b>문화에 대한 인식",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890139042",
+			"description":"Investigation on Awareness and Preference for Wood Culture: Ⅰ. Awareness for Wood Culture <b>목재<\/b>이용을 문화로 정착시키기 "
+		},
+		{
+			"title":"마이크로파\/초음파처리에 의한 <b>목재<\/b>의 공극구조변화 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890138977",
+			"description":"Changes in the Pore Structure of Wood by Microwave\/Ultrasonic Treatment 활엽수의 횡단면의 공극구조를 투과성이 향상"
+		},
+		{
+			"title":"<b>목재<\/b>문화에 대한 인식 및 선호도 조사: Ⅱ. <b>목재<\/b>문화에 대한 선호와 요구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890139043",
+			"description":"Investigation on Awareness and Preference for Wood Culture: Ⅱ. Preference and Demand for Wood Culture <b>목재<\/b>문화의 확산전략 "
+		},
+		{
+			"title":"Pilodyn재안수활입<b>목재<\/b>성질평고중적응용 (Pilodyn在桉树活立木材性质评估",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=87724541",
+			"description":"Use of the pilodyn for assessing wood properties in standing trees of Eucalyptus clones 测定了建立在广西22个4年生桉树无"
+		},
+		{
+			"title":"<b>목재<\/b>산업 전문 인력의 역량",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421551",
+			"description":"Capability of an Expert in Wood Industry 동화의 글로벌사업장으로의 성장현황 및 목표를 살펴보고, 글로벌 지"
+		},
+		{
+			"title":"<b>목재<\/b> 리모델링에 따른 실내공기질 특성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890139041",
+			"description":"Analysis of Indoor Air Quality Characteristics to Wood Remodeling 현대인들은 하루 일과의 90% 이상을 실내에서 생활하"
+		},
+		{
+			"title":"CFRP Sheet로 보강된 원형 <b>목재<\/b>의 보강효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822342319",
+			"description":"Strengthening Effect of a Circular Wood Wrapped with a CFRP Sheet 최근 친환경 건축이 대두되고 있는 가운데, 목조건"
+		},
+		{
+			"title":"<b>목재<\/b>문화자원의 유형 분류에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873504238",
+			"description":" 최근 <b>목재<\/b>이용과 목공활동 등을 선호하는 사회적 분위기가 조성되고 있지만, 상대적으로 일반인이 "
+		},
+		{
+			"title":"<b>목재<\/b> 이용을 통한 복지시설의 환경개선 및 만족도 조사에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890139036",
+			"description":"A Study on the Environmental Improvement and Satisfaction Survey of Welfare Facilities by Using Wood 본 연구에서는 <b>목재<\/b>를 활"
+		},
+		{
+			"title":"저비중 <b>목재<\/b>의 공극구조에 따른 흡음특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846397154",
+			"description":"Sound Absorption Characteristics of Low Specific Gravity Woods Depending on Their Pore Structure 일반적으로 다공성 흡음재의"
+		},
+		{
+			"title":"과초산 처리에 의한 국산 유용 <b>목재<\/b> 유래 리그닌 화합물 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890139005",
+			"description":"Analysis of Lignin-Derived Compounds from Commercial Korean Wood Species by Peracetic Acid Treatment 리그닌은 자외선 및 일부 "
+		},
+		{
+			"title":"라디아타 소나무(Pinus radiata) 수피: <b>목재<\/b> 및 <b>목재<\/b> 관련 산업에 귀중한 자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846397105",
+			"description":"P inus radiata Bark: Will it Possibly be a Valuable Resource for the Wood and Wood-related Industry? 라디아타 소나무재는 근"
+		},
+		{
+			"title":"<b>목재<\/b> 종류별 연소특성 비교 및 데이터베이스 구축 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561626581",
+			"description":"Study on Comparison and Database for Combustibility of Various Wood Materials 국내 <b>목재<\/b> 생산량의 지속적인 증가에 따라 "
+		},
+		{
+			"title":"탄소중립을 위한 임업과 <b>목재<\/b>산업의 역할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890138945",
+			"description":"Role of Forest and Wood Industry for Carbon Neutrality 임업은 산림으로부터 <b>목재<\/b>를 비롯한 버섯, 유실수, 산나물, "
+		},
+		{
+			"title":"2050 탄소중립 사회 실현을 위한 <b>목재<\/b>산업의 역할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421552",
+			"description":"The role of the timber industry to realize a carbon-neutral society in 2050 최근 2050 탄소중립이 미래사회를 위한 거대"
+		},
+		{
+			"title":"<b>목재<\/b>이용 활성화를 위한 국립산림과학원의 연구개발 현황",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421549",
+			"description":"Current Status of Research and Development in National Institute of Forest Science for Activated Wood Utilization 최근의 기후변"
+		},
+		{
+			"title":"<b>목재<\/b> 보의 CFRP 판 보강 - 휨강도 평가에 대한 실험적 연구 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878615819",
+			"description":"Strengthening of Timber Beams Using CFRP Plates - Experimental Study on the Evaluation of Flexural Strength -   <b>목재<\/b>, 부착, 매립,"
+		},
+		{
+			"title":"탈리그닌처리에 의한 <b>목재<\/b>의 흡음성능과 구조적 특징의 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=607842468",
+			"description":"Changes of Sound Absorption Capability and Anatomical Features of Wood by Delignification Treatment <b>목재<\/b>에 대한 탈리그닌처리"
+		},
+		{
+			"title":"<b>목재<\/b> 표면 검사를 위한 기계 학습 적용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890138952",
+			"description":"Application of Machine Learning Techniques to Surface Inspection of Wood 최근 딥러닝을 비롯한 기계 학습의 눈부신 발"
+		},
+		{
+			"title":"참나무 시들음병 <b>목재<\/b>의 부후성 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909999",
+			"description":"Evaluation of Decay for Oak Wilt-Affected Logs 참나무 시들음병 고사목은 벌채훈증처리가 일반적인 방제 방법이"
+		},
+		{
+			"title":"한국산 <b>목재<\/b>부후균류의 분포상에 대한 연구 (2)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=31736791",
+			"description":"Floral Studies on Korean Wood - rotting Fungi (2)    "
+		},
+		{
+			"title":"합판 전단접합부를 활용한 <b>목재<\/b>-콘크리트 합성 슬라브의 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890138987",
+			"description":"Development of Timber-Concrete Composite Slab Consisting of Novel Plywood Shear Connector 본 연구는 국산 낙엽송 구조용 합"
+		},
+		{
+			"title":"국내 자생 <b>목재<\/b>부후균의 Alkaline Copper Quat(ACQ-2)에 대한 내성 특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421588",
+			"description":"Copper Tolerance of Wood Rot Fungi in Korea for Alkaline Copper Quat(ACQ-2) 일부 <b>목재<\/b>부후균은 구리에 대한 내성을 갖고"
+		},
+		{
+			"title":"딥러닝기반 수종식별체계 데이터셋확보를 위한 상용 <b>목재<\/b>제품의 수종식",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909965",
+			"description":"Wood Species Identification of Commercial Wood Products for Securing the Dataset of Deep-Learning Based Species Identification System ("
+		},
+		{
+			"title":"탄소중립과 <b>목재<\/b>산업 미래전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421553",
+			"description":"Carbon Neutrality and Future Strategies on Wood Industries 최근 미국, 영국, 일본, 캐나다 등 주요 국가에서 탄소중"
+		},
+		{
+			"title":"CFRP 판으로 매립보강된 <b>목재<\/b> 보의 휨거동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846405698",
+			"description":"Flexural Behavior of Timber Beams Strengthened with Near Surface Mounted CFRP Plates 본 연구에서는 CFRP 판을 NSM 공법으로 "
+		},
+		{
+			"title":"실내목질화 사용 <b>목재<\/b> 및 목시율 선호도에 관한 연구 - 초등학교를 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846901446",
+			"description":"A Study on the Preference for the Wood and Index of Woodenness in Indoor Wood Remodeling 본 연구는 초등학교에 <b>목재<\/b>를 활용"
+		},
+		{
+			"title":"화성 봉담읍 수영리 출토 <b>목재<\/b>유물의 보존처리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890139021",
+			"description":"Conservation for Waterlogged Wood Excavated from Bongdam Suyeong-ri, Hwaseong, Korea 화성 봉담읍 수영리 유적에서 출토된 "
+		},
+		{
+			"title":"국내 자생 <b>목재<\/b>부후균 생장에 미치는 구리의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421650",
+			"description":"Effect of Copper on the Growth of Wood Rot Fungi in Korea 구리 기반 수용성 <b>목재<\/b>보존제는 전 세계적으로 <b>목재<\/b>보존"
+		},
+		{
+			"title":"일제강점기 조선의 <b>목재<\/b>수급과 산림자원의 변화 - 빈약한 산림자원, 과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843036452",
+			"description":"Changes in Timber Supply-and-Demand, and Forest Resources of Joseon in the Japanese colonial period - Poor Forest Resources and Excessi"
+		},
+		{
+			"title":"영건의궤 기록을 활용한 조선후기 국용<b>목재<\/b>의 주요 수종 조사 및 해부학",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873504236",
+			"description":" 조선후기 국용<b>목재<\/b>에 사용된 수종을 파악하기 위하여 영건의궤 조선후기 11종의 영건에 명시된 수종"
+		},
+		{
+			"title":"국내 주요 <b>목재<\/b>의 단기적 기상열화에 의한 <b>목재<\/b>표면의 화학적 성상 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846397216",
+			"description":"Changes of Chemical Properties in Short Term Weathered Wood of Major Commercial Timbers by Region 국내에서 사용되는 주요 목"
+		},
+		{
+			"title":"우리나라 <b>목재<\/b>산업 진단과 미래전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846397106",
+			"description":"Current Conditions and Future Strategies on Wood Industries in Korea 우리나라는 녹화성공으로 OECD 평균을 상회하는 나"
+		},
+		{
+			"title":"도시목조화 활용 가능한 국내 <b>목재<\/b>자원량 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421677",
+			"description":"Analysis of Domestic Wood Resources Applicable for Wood Urbanism 도시목조화에 활용할 수 있는 국내 <b>목재<\/b>자원량을 조"
+		},
+		{
+			"title":"PID 제어가 적용된 <b>목재<\/b> 펠릿의 가스화를 통한 합성가스 조성 및 발열량 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879690944",
+			"description":"Change of Calorific Value and Composition of Producer Gas Obtained through the Fixed Bed Gasifier of Wood Pellets with PID Control   "
+		},
+		{
+			"title":"건축용 <b>목재<\/b> 및 목질재료의 난연 성능 향상 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561619392",
+			"description":"A Study on the Development of Fire-retardant Performance for Wood and Wood-based Materials in Buildings 본 연구에서는 국내 유"
+		},
+		{
+			"title":"충주 칠금동 제철유적지 출토<b>목재<\/b> 공업분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421673",
+			"description":"Proximate Analysis of Carbonized Wood in Chungju Chilgeum-dong Iron Manufacture 충북 충주 칠금동 392-5번지 주변 제철유적"
+		},
+		{
+			"title":"실내 건축마감용 <b>목재<\/b>의 스테인 처리에 따른 흡음 특성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890138981",
+			"description":"Sound Absorption Performance by Stain Treatment of Wood for Interior Finishing Material 실내에서 많은 시간을 보내는 현대"
+		},
+		{
+			"title":"국내 주요 <b>목재<\/b>의 단기적 기상열화에 의한 <b>목재<\/b>표면의 미세구조 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846397215",
+			"description":"Changes of Microstructure in Short Term Weathered Wood Surfaces of Major Commercial Timbers by Region 국내에서 사용되는 주요 "
+		},
+		{
+			"title":"열처리에 의한 <b>목재<\/b>의 특성 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846397096",
+			"description":"Changes in the Characteristics of Wood by Heat-Treatment <b>목재<\/b> 열처리는 <b>목재<\/b> 세포벽을 구성하는 주요 성분의 화학 "
+		},
+		{
+			"title":"일본의 <b>목재<\/b>산업 SCM 구축에 관한 사례연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=761123495",
+			"description":"A Case study on the structure of Supply Chain in the Japanese timber industry <b>목재<\/b>산업은 <b>목재<\/b>를 물리, 화학적으로 가공"
+		},
+		{
+			"title":"탄소중립도시 구현을 위한 <b>목재<\/b>특화거리 조성 방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421676",
+			"description":"A Study on the Timber Street for Carbon Neutral City 2020년 10월 ‘2050 탄소 중립 선언’ 이후 탄소중립을 위한 많은"
+		},
+		{
+			"title":"<b>목재<\/b> 홍여하의 전원시에 나타난 정서지향과 표현양상 (木齋 洪汝河의 田",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875248982",
+			"description":"Emotional Orientation and Expression Patterns of the Pastoral Poems(田園詩) by Mokjae(木齋) Hong Yeo-ha(洪汝河) 사람은 현"
+		},
+		{
+			"title":"<b>목재<\/b>데크 대체용 FRCM 복합재 데크패널 제작 기술 및 현장적용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890141603",
+			"description":"Manufacturing Technology and Field Application of FRCM Composite Deck Panel for Substitute Wood Deck    "
+		},
+		{
+			"title":"17세기, 18세기 영건의궤 국용<b>목재<\/b> 부재별 해부학적 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846421600",
+			"description":"Anatomical Analysis of Government-Supplied Wood Members Recorded in Yeonggeon-Uigwes of the 17th and 18th Centuries 조선후기 국용"
+		},
+		{
+			"title":"<b>목재<\/b>다면체 생산성향상 연구 : 정다면체를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822471345",
+			"description":"A study on productivity improvement of wood polyhedron : focusing on regular polyhedron   <b>목재<\/b>다면체, 생산성향상, CNC기계, "
+		},
+		{
+			"title":"Computed Radiograhpy (CR)를 통한 <b>목재<\/b> 수종별 X선 투과 이미지 해석을위한 기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843055424",
+			"description":"Preliminary Study (1) for Development of Computed Radiography (CR) Image Analysis according to X-ray Non-destructive Test by Wood Speci"
+		},
+		{
+			"title":"열중량 분석기를 이용한 <b>목재<\/b>펠릿 및 국내무연탄의 연소 특성 조사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420093496",
+			"description":"Study on the Combustion Characteristics of Wood-pellet and Korean Anthracite Using TGA 본 연구에서는 국내 상용 순환유동"
+		},
+		{
+			"title":"<b>목재<\/b>이용 확대를 위한 나무놀이터 운영방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890139037",
+			"description":"A Study on the Operation of a Wooden Playground to Expand the Use of Wood 본 연구에서는 지역마다 있는 놀이터 시설에 "
+		},
+		{
+			"title":"구조용 공학<b>목재<\/b>의 특성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880258746",
+			"description":"Analysis of Characteristics of Structural Engineered Wood   구조용 공학<b>목재<\/b>, 적층 방식, Structural Engineered Wood, Laminati"
+		},
+		{
+			"title":"탄소섬유판의 표면부착방법에 따른 <b>목재<\/b> 보의 휨거동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846405697",
+			"description":"Flexural Behavior of Timber Beams by Exterior Bonded Methods of CFRP Plates 본 연구에서는 고력볼트를 이용하여 <b>목재<\/b>에 "
+		},
+		{
+			"title":"<b>목재<\/b>문화체험장 조성에 따른 창의적 디자인교육 프로그램 개발에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843046041",
+			"description":"A Study on the Development of Creative Design Education Program According to the Creation of Wood Culture Experience Center 지구온"
+		},
+		{
+			"title":"<b>목재<\/b>연구자료 (木材研究資料)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3149668",
+			"description":""
+		},
+		{
+			"title":"국내 주요 <b>목재<\/b>의 단기적 기상열화에 의한 <b>목재<\/b>표면의 색상 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846397121",
+			"description":"Discoloration in the Short Term Weathered Woods of Major Commercial Timbers by Region 서울 및 제주도 지역에서 2종의 국산"
+		},
+		{
+			"title":"융복합 재생에너지 (대수층 계간축열, 수열히트펌프, <b>목재<\/b>팰릿보일러) ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890069842",
+			"description":"Study of zero-energy greenhouse using convergence renewable energy (Aquifer thermal energy storage, hydrothermal heat pump, wood pellet"
+		},
+		{
+			"title":"<b>목재<\/b> 홍여하의 교유 양상 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822369364",
+			"description":"A Study on Socialization Pattern of Mokjae Hong Yeo-ha: Focusing on his socialization poems 영남의 관료이자 문인인 木齋 洪"
+		},
+		{
+			"title":"폭쇄처리에 의한 <b>목재<\/b> 횡단면 흡음율과 섬유방향 투과성변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846397153",
+			"description":"Changes in Sound Absorption Capability and Air Permeability of Wood by Steam Explosion Treatment <b>목재<\/b>의 섬유방향 투과성이 "
+		},
+		{
+			"title":"Major Species and Anatomical Characteristics of the Wood Used for National Use Specified in Yeon",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890098117",
+			"description":"Major Species and Anatomical Characteristics of the Wood Used for National Use Specified in Yeonggeon-Uigwes of the Late Joseon Dynasty"
+		}
+	]
+}

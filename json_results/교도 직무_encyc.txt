@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:20 +0900",
+	"total":217,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>교도<\/b>관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%EB%8F%84%EA%B4%80",
+			"description":"수형자 중에 <b>직무<\/b>보조를 선발하여 <b>교도<\/b>관의 <b>직무<\/b>를 보조하며 이를 일본식 용어로 소지(작은 놈)라고 한다. <b>직무<\/b>보조가 주로 노무를 담당하며 <b>교도<\/b>관은 이에 대해 지시한다. 권한 2008년에 제정된 형집행법의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=524490&cid=46625&categoryId=46625",
+			"description":"<b>교도<\/b>관은 <b>직무<\/b>수행 상 필요한 때는 무기 또는 <b>교도<\/b>봉을 휴대할 수 있다. <b>교도<\/b>관 집무규칙에 정하는 <b>교도<\/b>관은 정복<b>교도<\/b>관 및 <b>교도<\/b>서의 <b>교도<\/b>업무에 종사하는 모든 공무원을 의미한다. 우리 나라에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1065408&cid=40942&categoryId=31689",
+			"description":"<b>교도<\/b>관은 <b>직무<\/b>수행상 필요한 때는 무기 또는 <b>교도<\/b>봉을 휴대할 수 있다. <b>교도<\/b>관 집무규칙(법무부령)에 정하는 <b>교도<\/b>관은 정복<b>교도<\/b>관 및 <b>교도<\/b>소의 <b>교도<\/b>업무에 종사하는 모든 공무원을 의미한다. <b>교도<\/b>관의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교정시설 경비<b>교도<\/b>대 설치법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1225453&cid=40942&categoryId=31701",
+			"description":"경비<b>교도<\/b>대 대원은 <b>직무<\/b>수행상 필요한 경우 경비지역 안에서 검문을 할 수 있었으며, 무기를 휴대하고 사용할 수 있었다. 무기 사용은 전시·사변 또는 무장공비의 출현으로 작전에 동원된 경우와 <b>교도<\/b>소... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025424&cid=42117&categoryId=42117",
+			"description":" <b>교도<\/b>소, 구치소, 보호감호소와 같은 교정시설에서 수용자를 관리·감독하고, 교정·교화하며, 교정행정 전반에 대한 정책방향 설정 및 이를 구체화하기 위한 제도 시행 등의 기획업무를 한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1171383&cid=40942&categoryId=33081",
+			"description":"교회는 그리스도로부터 사제직 ·예언직 ·왕직을 받았는데, 이 가운데 진리를 선포하는 임무를 예언직이라 하고, 이에 상응하는 권리 ·의무를 <b>교도<\/b>권이라 한다. 일찍이 그리스도는 이 진리를 선포하는 <b>직무<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교도<\/b>소장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837679&cid=42117&categoryId=42117",
+			"description":" <b>교도<\/b>소의 행정·사무를 총괄하고 소속 <b>교도<\/b>관 및 직원을 지휘·감독한다. [수행<b>직무<\/b>] 형의 집행 등 형행에 관한 사무와 미결수용자의 수용에 관한 업무를 관장한다. <b>교도<\/b>소 내 서무과, 보안과, 분류심사과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"주교회의",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A3%BC%EA%B5%90%ED%9A%8C%EC%9D%98",
+			"description":"주교들이 주교회의를 통하여 공동으로 그 <b>직무<\/b>를 수행할 때에 주교들의 <b>교도 직무<\/b>는 그 본질에 따라 총회에서 이루어져야 한다. 그 하위 기구들, 곧 상임위원회, 주교위원회 또는 그 밖의 사무국들은 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동방교회성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1171532&cid=40942&categoryId=31595",
+			"description":"즉, 동방교회의 고유한 문제뿐만 아니라 성좌에 위임된 일도 관장한다. 동방교회의 법률구조, <b>교도직무<\/b>·성화<b>직무<\/b>·통치<b>직무<\/b>에 관한 사항, 동방교회의 소속 신자들의 신분·권리와 의무 등에",
+			"thumbnail":""
+		},
+		{
+			"title":"교정 심리학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2070175&cid=41991&categoryId=41991",
+			"description":"교정 심리학자는 특별한 <b>직무<\/b> 환경으로 인해 윤리적인 문제 및 갈등을 경험한다. [ 2. 수용자의 기본 권리] 미국은 수용자의 다음과 같은 권리를 법으로 인정하고 있다(Bartol &#38; Bartol, 2011). 첫째, 수용자는 적절한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"징벌",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%95%EB%B2%8C",
+			"description":"하거나 <b>교도<\/b>관의 <b>직무<\/b>집행을 방해할 목적으로 거짓 사실을 신고하는 행위 그 밖에 시설의 안전과 질서유지를 위하여 법무부령인 형집행법 시행규칙으로 정하는 규율을 위반하는 행위 교정시설의 안전 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"베드로좌",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117264&cid=69168&categoryId=50853",
+			"description":"교황이 무류적인 결정을 내릴 때 ‘Ex Cathedra’(<b>교도<\/b>좌로부터)라는 표현을 사용한다. 왜냐하면 교황은 이러한 결정을 자신의 ‘좌’(座: 자리)에서 공표하기 때문이다. 그 때문에 가끔 교황으로 선출된 자가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김재진 (법조인)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%EC%9E%AC%EC%A7%84_(%EB%B2%95%EC%A1%B0%EC%9D%B8)",
+			"description":"서울민사지방법원 합의41부 재판장으로 재직하던 1992년 5월 30일에 <b>교도<\/b>관과 병원 관계자의 <b>직무<\/b> 태만 때문에 숨진 재소자의 유족들이 국가와 의료법인 선인의료재단을 상대로 낸 손해배상청구 소송에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"손병희",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=558051&cid=46623&categoryId=46623",
+			"description":"동학<b>교도<\/b>들은 성사(聖師), 천도교 제3세 교주, 교종(敎宗) 의암성사 또는 후천황씨(後天皇氏)라고도 불렀다. 충청북도 청원 출신. 손두흥(孫斗興)의 둘째 아들로 어머니는 둘째부인 최씨이며, 방정환(方定煥)은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20190514193714673_1SGKP9GQV.jpg\/6c592d1a-fa11-43.jpg?type=m160_160"
+		},
+		{
+			"title":"경호원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026068&cid=42117&categoryId=42117",
+			"description":"주차유도관리, 출동순찰경비, <b>교도<\/b>경비 등 경호경비를 한다. 통신장비, 감지·탐지장비, 방호장비, 호송·수송장비, 호신장비 등을 배치·지급하며 회수한다. 방어운전, 긴급피난운전, 미행추적 이탈운전 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"검찰총장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837677&cid=42117&categoryId=42117",
+			"description":" 대검찰청의 각종 사무 및 국내 검찰사무를 통할하며, 소관 검찰청의 검사 및 직원을 지휘·감독한다. [수행<b>직무<\/b>] 대검찰청 소속 차장검사 또는 부장검사 아래에 정책기획, 계획입안, 연구·조사, 심사·평가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소방서장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837681&cid=42117&categoryId=42117",
+			"description":" 소방서의 책임자로서 관내의 소방에 관한 사무를 총괄하고 소속 소방관 및 직원을 지휘·감독한다. [수행<b>직무<\/b>] 화재의 예방, 진압, 재난현장에서의 구조, 구급 업무와 소방활동, 화재조사, 의용소방대 운영 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰서장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837678&cid=42117&categoryId=42117",
+			"description":" 경찰서의 책임자로서 관내의 경찰업무에 관한 사무를 총괄하고 소속 경찰관 및 직원을 지휘·감독한다. [수행<b>직무<\/b>] 국민의 생명·신체 및 재산의 보호, 범죄의 예방·진압 및 수사, 치안 정보의 수집, 교통의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소년원교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025425&cid=42117&categoryId=42117",
+			"description":" 보호처분에 의하여 송치된 보호소년 및 위탁소년 등을 수용·보호하고 이들의 교정교육을 한다. [수행<b>직무<\/b>] 위탁한 소년을 수용·보호하고 이들의 분류심사, 인성교육, 상담조사 및 일반 중·고등학교 부적응... ",
+			"thumbnail":""
+		},
+		{
+			"title":"법원장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837680&cid=42117&categoryId=42117",
+			"description":" 법원의 사법사무를 총괄하고 소속 판사 및 직원을 지휘·감독한다. [수행<b>직무<\/b>] 각급 법원의 수장으로서 관할 법원의 사법행정사무(사법재판과 사법행정에 관한 사무)를 관장한다. 소속 공무원을 지휘... ",
+			"thumbnail":""
+		},
+		{
+			"title":"최익룡",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B5%9C%EC%9D%B5%EB%A3%A1",
+			"description":"경호비서관 <b>직무<\/b>대리·전속부관 <b>직무<\/b>대리 등으로 활동하면서 중화민국 둥베이 지방 지린 성 룽징에서 일본 간세 박생겸을 사살하는 등의 맹활약을 펼쳤으며 1920년 연도말 시절 대한국민회, 대한의민회... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기유각서",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B8%B0%EC%9C%A0%EA%B0%81%EC%84%9C",
+			"description":"대한제국의 지방 관청 및 신료(臣僚)들은 <b>직무<\/b>에 따라 사법 및 감옥의 사무에 대하여 한국에 주재한 일본 당국자의 지휘나 명령을 받고, 또 그를 보조하도록 한다. 일본 제국 정부는 대한제국의 사법 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교당",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110574&cid=50765&categoryId=50778",
+			"description":"대중교화의 장소로 <b>교도<\/b>와 인구의 집중지에 교당을 설치하고 <b>교도<\/b>의 일상생활에 응하도록 한다... ② 교당 임원은 <b>직무<\/b>분장에 의해 주어진 의무와 책임에 따라 처리한다. ③ 업무는 교당 임원간의 역할 분담과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감찰원장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110277&cid=50765&categoryId=50778",
+			"description":"일반<b>교도<\/b>에 대한 감찰 사무를 주관하며, 사무처장을 지휘 감독한다. 또한 감찰위원회 및 징계위원회에... 감찰원장이 유고한 때는 부원장이 <b>직무<\/b>를 대행하고, 부원장이 없거나 유고한 때에는 사무처장이 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"형사소송(형사소송규칙 통칙)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775526&cid=51373&categoryId=51373",
+			"description":"■ 통 칙 - 제152조(재소자의 상소장등의 처리) ① <b>교도<\/b>소장, 구치소장 또는 그 <b>직무<\/b>를 대리하는 자가 법 제344조 제1항의 규정에 의하여 상소장을 제출받은 때에는 그 제출받은 연월일을 상소장에 부기하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508172415041_OM906783E.jpg\/ba17_rd1787_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"학장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=532187&cid=46615&categoryId=46615",
+			"description":"[내용] 학장은 관직자도 아니고 봉록도 없는 데다 교수(敎授)에 비하여 차별대우를 받아 <b>직무<\/b>수행에... 세종 즉위년(1418)에는 생원·진사를 <b>교도<\/b>로 임명하였으나 사피자(辭避者)가 속출하게 되는 사례가 있어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원자보양관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=105011&cid=50293&categoryId=50293",
+			"description":"조선 시대 원자(元子)나 원손(元孫)의 보좌와 <b>교도<\/b>를 맡았던 보양청(輔養廳)의 한 벼슬. 정1품 이하 종2품 이상의 관원으로 임명하였음. 원자를 보필하면서 교육하는 <b>직무<\/b>를 담당하였음.",
+			"thumbnail":""
+		},
+		{
+			"title":"교황관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1623265&cid=69168&categoryId=50768",
+			"description":"교황이 쓰는 관. 맨 꼭대기의 십자가를 정점으로 3층을 이루고 있어 삼중관으로도 불린다. 3개의 층은 교황의 삼중 <b>직무<\/b>, 곧 통치권, 성품권, <b>교도<\/b>권을 뜻한다. 라틴어 표기는 영어 표기처럼 tiara이다.",
+			"thumbnail":""
+		},
+		{
+			"title":"Succession, Apostolic",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2370958&cid=69168&categoryId=51340",
+			"description":"이 <b>직무<\/b> 전승자들을 주교라고 하고 그 수장을 교황이라 한다. 주교들이 사도들의 후계자라는 것은 (1) 그들은 사도들의 <b>직무<\/b>를 행하며, (2) 그들의 <b>직무<\/b>는 사도로부터 연면히 전승받은 임명이며, (3) 그 연면성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서울지방교정청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%9C%EC%9A%B8%EC%A7%80%EB%B0%A9%EA%B5%90%EC%A0%95%EC%B2%AD",
+			"description":"<b>직무<\/b> 수용자의 수용·구금·규율·계호·이송·석방 및 보안에 관한 사항 <b>교도<\/b>소 및 구치소의 보안장비 및 방호에 관한 사항 수용자의 보건위생·의료 및 약제에 관한 사항과 순회진료반 설치·운영 <b>교도<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"불법체포, 불법감금죄",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B6%88%EB%B2%95%EC%B2%B4%ED%8F%AC,_%EB%B6%88%EB%B2%95%EA%B0%90%EA%B8%88%EC%A3%84",
+			"description":"'기타 인신구속(人身拘束)에 관한 <b>직무<\/b>를 행하는 자'란 <b>교도<\/b>소장·소년원장·산림주사·선장 등을 말하고, '보조하는 자'란 법원·경찰청의 서기와 서기보같이 그 <b>직무<\/b>상 보조자의 지위에 있는 자를 말하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대구지방교정청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EA%B5%AC%EC%A7%80%EB%B0%A9%EA%B5%90%EC%A0%95%EC%B2%AD",
+			"description":"<b>직무<\/b> 수용자의 수용·구금·규율·계호·이송·석방 및 보안에 관한 사항 <b>교도<\/b>소 및 구치소의 보안장비 및 방호에 관한 사항 수용자의 보건위생·의료 및 약제에 관한 사항과 순회진료반 설치·운영 <b>교도<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사목교서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1171300&cid=40942&categoryId=31582",
+			"description":"사목교서는 주교 고유의 사목권과 <b>교도<\/b>권의 표현이다. 제2차 바티칸 공의회는 주교를 ‘목자’요... 그러므로 주교는 목자로서, 그리고 교리의 스승으로서 그 <b>직무<\/b>를 수행하는데, 그 방법은 전례 중의 강론... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감찰원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110276&cid=50765&categoryId=50778",
+			"description":"출가ㆍ재가 <b>교도<\/b>의 선(善)ㆍ불선(不善)을 살펴 기강을 확립하고, 교법정신을 바탕으로 법치교단 정착과 <b>교도<\/b>들의 서원정신 환귀, 교단 화합풍토 조성의 역할을 하고 있다. [[감찰원의 구성 및 역할]] 감찰원은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"센터 파이어 피스톨 이십삼 미터 경기",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=450213&cid=50344&categoryId=50344",
+			"description":"실용 권총의 사용을 기본으로 하는 피스톨 경기로 과거에는 미국 룰에 의해 실시되었으나 현재는 국내에도 경찰관•<b>교도<\/b>관•철도 공안원•해양 경비대•마약 단속반•법무관 등 권총 소지가 인정되는 <b>직무<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"철도특별사법경찰의 제도적 취지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1962675&cid=42149&categoryId=42149",
+			"description":"특별사법경찰제도는 일반사법경찰권이 미치지 않는 영역에서 운영되어 「사법경찰관리의 <b>직무<\/b>를 행할 자와 <b>직무<\/b>범위에 관한 법률」에 그 <b>직무<\/b>의 범위가 특수한 사항 또는 지역에 한정되어 있다는 점을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"안희정",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%95%88%ED%9D%AC%EC%A0%95",
+			"description":"안양<b>교도<\/b>소에 구금됐다.(서울고등법원2018노2354) 상고심 2019년 2월 5일에 접수된 상고심을 맡은 대법원 2부(주심 김상환 대법관)는 7개월 만인 9월 9일에 &quot;성폭행 피해자의 대처 양상은 피해자의 성정이나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바티칸 시국의 국기",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%94%ED%8B%B0%EC%B9%B8_%EC%8B%9C%EA%B5%AD%EC%9D%98_%EA%B5%AD%EA%B8%B0",
+			"description":"국기는 정사각형이다. 삼중으로 이루어진 교황관은 통치권, 신품권, <b>교도<\/b>권 등 교황이 지닌 세 가지 <b>직무<\/b>를 나타낸다. 1925년에 바티칸 시국의 국기로 인정되었다. 교황령의 깃발들",
+			"thumbnail":""
+		},
+		{
+			"title":"로마 가톨릭교회의 교계제도",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%A1%9C%EB%A7%88_%EA%B0%80%ED%86%A8%EB%A6%AD%EA%B5%90%ED%9A%8C%EC%9D%98_%EA%B5%90%EA%B3%84%EC%A0%9C%EB%8F%84",
+			"description":"여기서 사제직은 예수 그리스도의 희생을 본받아 교회에 봉사하며 미사를 봉헌하는 <b>직무<\/b>이고, 사목직은 목자로써 평신도들을 이끌고 성사를 베푸는 <b>직무<\/b>, <b>교도<\/b>직은 사도단의 후계자인 주교단의 일원으로써... ",
+			"thumbnail":""
+		},
+		{
+			"title":"파커",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=632727&cid=50766&categoryId=50794",
+			"description":"이유로 <b>직무<\/b>를 박탈 당했다. 1558년 등위한 엘리자베스 1세에 의해서 캔터베리 대주교에 선출 되었고, 여왕의 뜻을 주축으로 가톨릭 <b>교도<\/b>와 급진적인 퓨리탄을 배척한 중도정책을 추진하였으며, 국왕지상법과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사업성적",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2111954&cid=50765&categoryId=50778",
+			"description":"원불교 <b>교도<\/b>가 교단과 세계에 정신ㆍ육신ㆍ물질로 공헌한 실적의 정도를 정특등부터 준5등까지... 맡은 <b>직무<\/b>를 수행한 것, 특별시상은 교단 일이나 자기가 맡은 일에 특별한 공로가 있는 것, 권장은 전무출신을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"샤롱",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=881988&cid=43671&categoryId=43671",
+			"description":"법률을 배우고 한때 변호사가 되었으나 그 후 교회 관계의 <b>직무<\/b>로 전환하여 여러 차례 종교 회의에... 이슬람 <b>교도<\/b>에 대하여 기독교의 진리를, 다른 종파에 대하여는 가톨릭의 진리를 변호하는 데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"불리 효과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2094168&cid=41991&categoryId=41991",
+			"description":" 공공 조직이 종업원을 선발할 때 다수 집단과 비교해 특정 소수 집단에 선발 비율의 차별이 있는 현상. [ 1. 개요] 특정 인사 선발 방법을 사용하여 선발한 결과, 다수 집단 구성원들에 비해 보호대상 집단의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"알제리의 대통령",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5775254&cid=44036&categoryId=50716",
+			"description":"○ 선출 - 알제리 국적(과거 외국 국적 취득 이력이 없어야 함)의 40세 이상 이슬람<b>교도<\/b>는 대통령... 야기로 <b>직무<\/b> 수행이 불가능할 경우, 하원의원 2\/3 이상의 찬성으로 상원의장이 45일간 대통령직 대행 가능",
+			"thumbnail":""
+		},
+		{
+			"title":"사법경찰",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1107394&cid=40942&categoryId=31721",
+			"description":" 경찰작용 중 범죄의 수사, 범인의 체포, 구속영장의 집행, 기타 법원·법관 또는 검사의 지휘에 의하여 행하는 작용.  행정경찰(行政警察)과 상대되는 개념이다. 그 구별은 유럽에서 유래한 것이나 영국... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미셰우 테메르",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AF%B8%EC%85%B0%EC%9A%B0_%ED%85%8C%EB%A9%94%EB%A5%B4",
+			"description":"1925년에 브라질로 이주한 레바논계 마론 전례 가톨릭<b>교도<\/b> 가문 출신이다. 상파울루 대학교에서... 2016년 5월 12일 지우마 호세프 前 대통령이 브라질 상원으로부터 탄핵 심판에 들어가면서 <b>직무<\/b>가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"형사소송(상소의 제기)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775132&cid=51373&categoryId=51373",
+			"description":"다만, <b>교도<\/b>소 또는 구치소에 있는 피고인에 대하여는 피고인이 상소제기 기간 내에 상소장을 <b>교도<\/b>소장 또는 구치소장 또는 그 <b>직무<\/b>를 대리하는 자에게 제출한 때에는 상소의 제기기간 내에 상소한 것으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508170843541_DBI31J4HU.jpg\/ba17_rd1431_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"'항소이유서'의 모든 것",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5147522&cid=59864&categoryId=59864",
+			"description":" 원심(1심) 재판에 불복하는 이유를 적은 서면.  | 구분 | 법률상식 | | | 적용분야 | 판례 및 소송 | 항소이유서 작성 방법 항소이유서 작성 시에는 아래 11가지 사유 중 하나를 적어야 한다. (형사소송법... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxODA0MDNfNDIg%2FMDAxNTIyNzM1MTU4MTAw.T2DhU1J2tPvwuvFMtUh3_pmtAPLMS2UkV_OARQQbGHYg.SBn3p89zSS5bDcTBfo_mx_PfW1MuPJZCmC71ynZwPikg.JPEG%2FICnVuksAkT9tA4TnSTZ6iqi7AJqY.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x396#c396"
+		},
+		{
+			"title":"교황",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110655&cid=50765&categoryId=50778",
+			"description":"교황의 <b>직무<\/b>는 크게 세 가지로, 예언자적 기능을 수행하는 <b>교도<\/b>권(敎道權), 사제직을 수행하는 신품권(神品權), 신국의 왕으로 교회를 다스리는 통치권(統治權)이 그것이다. 교황은 독신을 지키기 때문에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"형사소송(형사소송규칙 보칙)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775534&cid=51373&categoryId=51373",
+			"description":"3.&#62; - 제177조(재소자의 신청 기타 진술) <b>교도<\/b>소장, 구치소장 또는 그 <b>직무<\/b>를 대리하는 자는 <b>교도<\/b>소 또는 구치소에 있는 피고인이나 피의자가 법원 또는 판사에 대한 신청 기타 진술에 관한 서면을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508172438508_A7545LA5H.jpg\/ba17_rd1794_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"부동산등기(대표자의 자격 및 대리권을 증명하는 정보)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2774712&cid=51373&categoryId=51373",
+			"description":"한편 법인 대표자의 <b>직무<\/b>대행자가 등기를 신청하는 경우 등기기록에 <b>직무<\/b>대행자의 등기가 되어 있으면 법인등기사항증명서를 제출하면 된다(민법 제52조의2, 상법 제407조). ■ 대리권을 증명하는 정보... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508165203686_K2W8Z08NP.jpg\/ba17_rd1053_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"무흐타시브",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1095250&cid=40942&categoryId=31600",
+			"description":" 이슬람법에 의거하여 무슬림(이슬람<b>교도<\/b>)의 일상생활을 감독하는 관리.  칼리프 ·술탄 혹은 와지르[宰相]가 임명하며, 그 지위나 권한은 카디(법관)나 마잘림(재판소 장관)보다 낮은 편이었다. 그 <b>직무<\/b>는 8세기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"Deposit of Faith",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2361291&cid=69168&categoryId=51340",
+			"description":"이것을 <b>교도<\/b>권(magisterium)이라 하며, 교회는 이를 명확히 결정하여 가르칠 사명을 띠고 있다(1티모 6, 20; 2티모 1, 12; 2, 2). 이 신앙의 유산은 성령의 영도(靈導)하심으로 사람들의 입으로 전해졌고(口傳)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"오스만 제국: 종교 조직체와 밀라 제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1008122&cid=62100&categoryId=62100",
+			"description":"이와 같은 관료 조직에 버금가는 것이 곧 종교 조직이었다. 그 정상에는 이스탄불의 무프티(Mufti : 이슬람 율법가), 즉 세이훌 이슬람(Shaykh al-Islām : 이슬람의 장로)이 있었다. 이론상으로는 세이훌... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2067_000_1\/20120625140125365_AEFOJMI01.jpg\/hf18_81_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"변호사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=576290&cid=46625&categoryId=46625",
+			"description":"행함을 <b>직무<\/b>로 한다.”고 규정하고 있다. (1) 연 혁 조선시대에는 거래·소송을 모두 문서를 작성하여... 소송을 <b>교도<\/b>하거나 소장(訴狀)을 작성하는 것을 직업으로 하는 자가 생기게 되었다. 이것이 변호사제도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"메리 매컬리스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1233902&cid=40942&categoryId=34317",
+			"description":"부총장 <b>직무<\/b>대행으로 임명되었다. 1997년 10월에는 아헌(Bertie Ahern) 총리의 권유로 대통령 선거에 출마해, 피아나 페일당 후보로 '북아일랜드의 신<b>교도<\/b>와 구<b>교도<\/b> 간의 가교 구축'을 공약으로 내세워... ",
+			"thumbnail":""
+		},
+		{
+			"title":"근대주의",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117350&cid=69168&categoryId=50853",
+			"description":"그렇기 때문에 루아지는 <b>교도<\/b>권으로부터 학문이 독립되어야 한다는 요구를 제기하기도 하였다. 1903년 루아지의 저술들은 금서 목록에 올랐고, 루아지는 이러한 조치에 복종하였다. 그러나 교황 비오... ",
+			"thumbnail":""
+		},
+		{
+			"title":"굿럭 조너선",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%BF%EB%9F%AD_%EC%A1%B0%EB%84%88%EC%84%A0",
+			"description":"2007년 부통령에 당선되었고, 2010년 2월부터 우마루 야르아두아 대통령의 와병으로 대통령 <b>직무<\/b>를... 야르아두아 대통령의 상태는 악화되는 가운데, 2010년 1월 이슬람<b>교도<\/b>와 기독<b>교도<\/b> 사이의 유혈 충돌... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제갈량과 군사훈련",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2175643&cid=51057&categoryId=51057",
+			"description":"太宗曰, “諸葛亮言, ‘有制之兵, 無能之將, 不可敗也. 無制之兵, 有能之將, 不可勝也.’ 朕疑此談非極致之論.” 靖曰, “武侯有所激云耳. 臣按《孫子》 曰, ‘敎道不明, 吏卒無常, 陳兵縱橫, 曰亂.’... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교황청의 전체 운영 체계 및 구조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5764104&cid=64577&categoryId=64577",
+			"description":"[ 1. 교황청(The Holy See)] ○ 전 세계 가톨릭교회의 중심 및 대변자로서 지상 권력으로부터 독립 - 교황청은 세속국가와 동일시 취급되는 것을 원치 않아 문서상 'Country'로 표기하지 않음. ○ 지상... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2361_000_1\/20211217144101514_PLVYSPKPS.jpg\/gb254_9_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"거진출진",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110331&cid=50765&categoryId=50778",
+			"description":"[[개요]] 원불교의 재가<b>교도<\/b>로서, 〈교규〉의 정한 바에 따라 본교에 공헌하는 이를 말함. [[용어의 성립과 변천]] 원불교 초기에는 재가ㆍ출가 구분 없이 함께 공동생활하며 교리를 공부했다. 입선 기간은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도서검열인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1171518&cid=40942&categoryId=31584",
+			"description":" <b>교도<\/b>권에 의하여 제시되는 신앙과 도덕에 관한 교회의 가르침만을 염두에 두고 새로 출판하려는... 도서 검열인은 <b>직무<\/b>를 수행할 때 반드시 정실(情實)을 피해야 하며, 책의 내용을 판단하는 데 객관성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나희필",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%82%98%ED%9D%AC%ED%95%84",
+			"description":"생애 평안남도 용강군 출신 육군 사병 입대, 육군사관학교 <b>교도<\/b>대 전속 육군사관학교 <b>교도<\/b>대... 25 전쟁 때 수도경비사령부 제25연대 제2대대장 <b>직무<\/b>대리로 참전 1950년 6월 26일 6.25 전쟁 직후 의정부... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기욤 4세",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5662048&cid=40942&categoryId=34317",
+			"description":"특히 마리아 안나 공주는 유럽의 왕조 가문은 역사적으로 로마 가톨릭 <b>교도<\/b>였으므로 룩셈부르크의 왕조 역시 로마 가톨릭으로 개종해야 한다고 주장했다. 그러나 기욤 4세가 마리아 안나와 결혼하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제1차 아베 신조 내각 (개조)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%9C1%EC%B0%A8_%EC%95%84%EB%B2%A0_%EC%8B%A0%EC%A1%B0_%EB%82%B4%EA%B0%81_(%EA%B0%9C%EC%A1%B0)",
+			"description":"내각부 이외의 다른 성청(내각관방 포함)의 특명사항을 담당하는 국무대신의 <b>직무<\/b>는 꺾은 괄호... (일본어) <b>교도<\/b> 통신 뉴스 특집 아베 개조내각 (일본어) 아베 개조내각 : 특집 : YOMIURI ONLINE (일본어) Yahoo!... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제3대 배서스트 백작 헨리 배서스트",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%9C3%EB%8C%80_%EB%B0%B0%EC%84%9C%EC%8A%A4%ED%8A%B8_%EB%B0%B1%EC%9E%91_%ED%97%A8%EB%A6%AC_%EB%B0%B0%EC%84%9C%EC%8A%A4%ED%8A%B8",
+			"description":"배서스트는 유능한 장관이었으며, 반도 전쟁의 와중에 육군을 담당하는 각료로서의 <b>직무<\/b>를... 토리당 소속이면서도 가톨릭<b>교도<\/b> 해방령에 찬성의 입장을 취했지만, 제1차 선거법 개정안(Reform... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교황청 국기(교황기)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5764109&cid=64577&categoryId=64577",
+			"description":"지닌 의미에 대해서는 서로 다른 해석들이 존재한다. 일반적으로 신품권 · <b>교도<\/b>권 · 사목권 등 교황이 지닌 세 가지 <b>직무<\/b>를 뜻한다고 하지만, 추기경단의 단장이 새로 뽑힌 교황에게 이 삼층관을 씌워 주는",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2361_000_1\/20211209150201597_7ICWXX44V.jpg\/gb254_3_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"활짝 핀 중세의 스페인 문화 - 현왕 알폰소 10세(재위 1252~1284년)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2073189&cid=62111&categoryId=62111",
+			"description":"페르난도 3세는 유대<b>교도<\/b>와 가톨릭<b>교도<\/b>, 그리고 이슬람<b>교도<\/b>들이 함께 살아가면서 스페인을 발전시켜야 한다고 생각했다. 현왕 알폰소 10세는 선왕의 유업을 이어받아 중세 스페인의 문화와 언어 발전에 큰... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2908_000_1\/20140217155531750_SHZ1UK7HM.jpg\/hf30_21_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"Bishop",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2358958&cid=69168&categoryId=51340",
+			"description":"(聖化權), <b>교도<\/b>권(敎導權)을 가진다. 전 세계의 이들 으뜸은 교황이다. 주교는 그 직위에 따라 <b>직무<\/b>만 보좌하고 계승권이 없는 보좌주교(Auxiliary Bishop), 혹은 계승권을 가지고 있는 보좌역으로 대리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"Christi, Munera",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2360009&cid=69168&categoryId=51340",
+			"description":"예수 그리스도의 <b>직무<\/b>는 “모든 것을 회복”(에페 1, 10)시키시는 구세 임무에서 메시아로서의 <b>직무<\/b> 셋을 들 수 있다. 그것은 예언직(<b>교도<\/b>직)과 사제직과 왕직(王職)이다. 이 3직능은 이미 구약에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"박성철",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%95%EC%84%B1%EC%B2%A0",
+			"description":"제5군<b>교도<\/b> 제1대 청년대원으로 복무했다. 귀국 후 조선공산당에 가입하고, 해방 직후 숙천군 당위원회 책임비서였다. 1948년 조선인민군 대좌로 인민군 제3사단 참모장 <b>직무<\/b>대리였다가 소장으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공직의 분류",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=659463&cid=42152&categoryId=42152",
+			"description":"즉, 공직(公職)을 분류함에 있어서 사람[공무원]의 능력을 기준으로 한 구분과 <b>직무<\/b>[일]의 특성을... 부여된 <b>직무<\/b>(職務)의 종류와 난이도·책임도에 따라 공직을 종적·횡적으로 분류하는 방식이다. 그... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아리엘 샤론",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%95%84%EB%A6%AC%EC%97%98_%EC%83%A4%EB%A1%A0",
+			"description":"이슬람교에게는 하람 알샤리프로 알려진 성전의 산은 유대교와 이슬람<b>교도<\/b>들에게 둘다 성지였다.... 부총리 에후드 올메르트가 총리와 카디마의 <b>직무<\/b> 대행을 맡았다. 의회 선거가 3월에 실시되어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"형사소송(형사소송법 통칙)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775431&cid=51373&categoryId=51373",
+			"description":"- 제343조(상소 제기기간) ① 상소의 제기는 그 기간내에 서면으로 한다. ② 상소의 제기기간은 재판을 선고 또는 고지한 날로부터 진행한다. - 제344조(재소자에 대한 특칙) ① <b>교도<\/b>소 또는 구치",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508172040256_PVF9PYEEJ.jpg\/ba17_rd1700_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"비잔티움 제국",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=629552&cid=50766&categoryId=50794",
+			"description":"고대 로마제국 중세의 연속체(단, 수도는 콘스탄티노플. 구칭 비잔티움)에 대해서, 전자와 구별한다는 의미로 후대에 붙여진 명칭. 영어로는 Byzantine Empire. 동로마제국이라고도 한다. 양자는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"Juramentum",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2365012&cid=69168&categoryId=51340",
+			"description":"[라] 선서, 서약, 맹세. 교회법 1199조에 따르면 선서 또는 맹세는 하느님의 이름을 증인으로 내세워 진실을 약속하는 행위이다. 진실성(truth)의 증인으로서 하느님의 이름을 증인으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"쉴리와 앙리 4세의 기적",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1007105&cid=62118&categoryId=62118",
+			"description":"또, 대내적으로는 견직물, 유리, 그릇, 레이스, 융단 등의 공업을 일으켰다. 이 중에서 가장 유명한 것은 1601년 직물 공업으로 유명한 네덜란드에서 끌어들인 200명의 직물공을 파리 성벽 밖의 유명한 염색소... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2053_000_1\/20120622135544834_CU6ZI1DES.jpg\/hf20_128_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"모스크",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=629202&cid=50766&categoryId=50794",
+			"description":"이슬람 <b>교도<\/b>의 예배소, 예배당. 모스크라고 부르는 것은 서구어로, 아라비아어로는 마스지드(masjid)라고 하며, 예배의 가장 중요한 부분으로 이루어진 평복(平伏, 스쥬드)을 행하는 장소를 의미한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아흐메드 무힛딘 피리 레이스",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%95%84%ED%9D%90%EB%A9%94%EB%93%9C_%EB%AC%B4%ED%9E%9B%EB%94%98_%ED%94%BC%EB%A6%AC_%EB%A0%88%EC%9D%B4%EC%8A%A4",
+			"description":"젊은 무렵 숙부에 따라서 스페인에 병합되고 있던 안달루시아의 이슬람<b>교도<\/b>들을 구원하기 위해... 피리 레이스는 해군 군인으로서의 <b>직무<\/b>를 수행함과 동시에 상세한 세계 지도와 항해 안내서를 작성해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"그것이 알고싶다",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B7%B8%EA%B2%83%EC%9D%B4_%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4",
+			"description":"&quot;라는 이유로 위계에 의한 공무집행방해죄와 공동 건조물 침입죄로 기소되었다가 &quot;접견업무 담당 <b>교도<\/b>관의 구체적이고 현실적인 <b>직무<\/b>집행을 방해한 것이라고 볼 수 없었으며, 그 <b>교도<\/b>관의 감시와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"변호인선임권",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B3%80%ED%98%B8%EC%9D%B8%EC%84%A0%EC%9E%84%EA%B6%8C",
+			"description":"경찰관<b>직무<\/b>집행법상 장기3년이상의 징역에 해당하는 범죄의 혐의를 받는 피의자에 대해 보호장구를... 변호인이 미결수용자를 접견할 때 <b>교도<\/b>관이 그 내용을 청취할 수 없다. 영미법 미국법에 의하면 피고인은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"군사경찰",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1162716&cid=40942&categoryId=31740",
+			"description":"일반적으로 질서유지와 군기의 확립, 법률이나 명령 및 제규정의 시행, 범죄의 예방과 수사활동, 군 사법관할 지역 내에 있는 범인의 체포, 영창 ·<b>교도<\/b>소의 운용과 죄수의 <b>교도<\/b>, 도로표지와 교통통제... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_77\/20181120035117829_NKRCIFVZ9.jpg\/336512.jpg?type=m160_160"
+		},
+		{
+			"title":"Pastoral Theology",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2368030&cid=69168&categoryId=51340",
+			"description":"교회법과 달리 사목신학은 사목자의 <b>교도<\/b>권, 사제직, 사목직에 관한 의무를 집행하는 합목적적(合目的的) 방법을 제시한다. 사목신학의 근본 지침은 구약성서 예언과 지혜에 관한 5서(욥기, 잠언, 코헬렛... ",
+			"thumbnail":""
+		},
+		{
+			"title":"루이 리엘의 죽음",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2463468&cid=62125&categoryId=62125",
+			"description":"온타리오 주에 사는 영어권 개신<b>교도<\/b>들은 리엘의 행위는 반역죄에 해당되는 것이 분명하므로 마땅히 죽여야 한다고 주장했던 반면, 퀘벡 주에 사는 불어권 가톨릭 신자들은 리엘을 핍박받는 메티스의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3809_000_1\/20150306141954104_18QQM1WT2.jpg\/hf34_94_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"변호사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1102020&cid=40942&categoryId=31897",
+			"description":"<b>직무<\/b>의 범위는 해당 국가의 법제(法制)에 따라 다르다. 민사소송에서는 의뢰자의 대리인... 소송을 <b>교도<\/b>하거나 소장을 작성하는 것을 업으로 삼는 사람이 생기게 되었다. 대한제국 때인 1905년 변호사법과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"형사소송(국민의 형사재판 참여에 관한 법률 대상사건 및 관할)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2775598&cid=51373&categoryId=51373",
+			"description":"■ 대상사건 및 관할 - 제5조(대상사건) ① 다음 각 호에 정하는 사건을 국민참여재판의 대상사건(이하 '대상사건'이라 한다)으로 한다. 1. ｢형법｣제144조 제2항 후단(특수공무집행방해치사)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508172700761_97465FH21.jpg\/ba17_rd1851_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"교정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2110630&cid=50765&categoryId=50778",
+			"description":"[[개요]] 원불교의 교단 행정을 관장하는 중앙집행기관. 현재 기획실ㆍ정보전산실의 2실과 교화훈련부ㆍ총무부ㆍ재정산업부ㆍ교육부ㆍ공익복지부ㆍ문화사회부ㆍ국제부의 7부로 구성되어 있다. 교정원의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"강릉 지역 사회 교육 협의회 (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2574006&cid=51890&categoryId=53705",
+			"description":"[정의] 강원도 강릉시 옥천동에 있는 좋은 학교와 지역 사회를 만들기 위한 강릉 지역 교육자들의 협의체. [개설] 학교와 지역 사회가 유대를 강화하여 교육 환경을 개선하고 모두가 배우고 모두가 가르치는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%B0%B0",
+			"description":"통하여 <b>직무<\/b>를 수행하는 경찰활동 장비 경찰복 경찰복은 경찰관들이 근무나 행사시에 입는 제복이다.... 같이 보기 대한민국의 경찰, 대한민국 경찰청 공무원, 경찰관 계급, <b>교도<\/b>관 계급, 소방관 계급 경찰관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교황 수위권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117378&cid=69168&categoryId=50853",
+			"description":"초대 교회의 경우, 오늘날 우리가 사용하고 있는 ‘교황직’이라는 개념은 알려져 있지 않았다. 단지 교회의 주교들 가운데 특별한 지위를 누리고 있는 ‘로마의 주교’라는 개념만이 알려져 있었다. 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서일",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3573765&cid=59011&categoryId=59011",
+			"description":"우리 독립운동사에 빛나는 청산리전투를 아는 사람은 많아도 그 전투의 실질적 지도자인 서일 선생을 아는 사람은 많지 않다. 교육자 종교인 언론인이기도 했던 그는 만주지역에서 항일무장투쟁을 가장... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118160157470_4OO9NDRNN.jpg\/frame01_34.jpg?type=m160_160"
+		},
+		{
+			"title":"니토베 이나조",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3352889&cid=62070&categoryId=62087",
+			"description":"그러나 도쿄대학의 낮은 수준에 실망한 그는 결국 미국으로 건너가 존스홉킨스대학 대학원에서 경제학을 공부한다. 유학 시절 그가 프로테스탄트의 한 교파인 퀘이커 <b>교도<\/b>가 된 것은",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4242_000_1\/20160328111746336_WD4520BSX.jpg\/hb13_17_22_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"파키스탄 페르베즈 무샤라프 정권(1999.10~2008.3)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1048746&cid=43819&categoryId=43820",
+			"description":"무함마드 나와즈 샤리프(Muhammad Nawaz Sharif) 총리와 군부 간에 갈등이 계속되자, 1999년 10월 12일 페르베즈 무샤라프(Pervaiz Musharraf) 육군참모총장의 주도로 군사 쿠데타가 발생하였다. 쿠데타로 나와즈... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부활 (Воскресение)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5928930&cid=41773&categoryId=65745",
+			"description":" 19세기 러시아의 불합리한 사회 구조와 종교적 모순을 드러낸 문제작이자 ‘흔들리는 인간’에게서 부활의 가능성을 모색한 만년의 걸작.  | 원제 | Воскресение | | 지은이 | 레프... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMDAzMTBfMTA0%2FMDAxNTgzODQ3OTU5MzI4.GpmeRMge8FFeYm-8aVbjx6vCPKKpbU_G87X7XlWawUUg.Mr4LgsyQGhdO4Mqq0p20uy47o5NPwLumdFrRXYI2F3Yg.JPEG%2FING8tn8eMRgAgHMiFwLuYLPvCIn8.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#324x535"
+		},
+		{
+			"title":"국가유공자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525083&cid=46625&categoryId=46625",
+			"description":" 국가를 위해 공헌하거나 희생한 사람의 통칭. [내용] 국가유공자와 그 유족에게는 국가가 생활안전과 복지향상을 위해 그 공헌과 희생의 정도에 따라 연금·생활조정수당·간호수당·보철구(補綴具) 수당 및... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_9\/20180910192626988_NIM5SCUZ3.jpg\/92ce923d-a6c7-44.jpg?type=m160_160"
+		},
+		{
+			"title":"파키스탄의 정치제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1048750&cid=43819&categoryId=43820",
+			"description":"파키스탄의 정치체제는 2002년 8월 시행된 헌법개정에 따라 내각책임제이다. 대통령은 2008년 9월에 취임한 아시프 알리 자르다리(Asif Ali Zardari)이다. 파키스탄의 정치제도는 다음과 같이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교황관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%90%ED%99%A9%EA%B4%80",
+			"description":"일반적으로 신품권(1층), <b>교도<\/b>권(2층), 사목권(3층) 등 교황이 최고사제장으로서 지닌 세 가지 <b>직무<\/b>를 뜻한다고 보는 의견이 지배적이긴 하지만, ‘군주들의 아버지, 세계의 통치자, 우리의 구세주 예수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"존 F. 케네디 대통령이 남부 침례교회 지도자들에게 한 연설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1714363&cid=43938&categoryId=43943",
+			"description":"케네디와 종교 신세계로 이주해 온 신<b>교도<\/b>들은 가방 속에 천주교에 대한 뿌리 깊은 불신 등 다양한 것들을 담아 가지고 왔다. 천주<b>교도<\/b>들이 신세계의 초기 정착자에 속하기는 했지만, 나중에 미합중국이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"명이대방록: 환관의 축소",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=993996&cid=41884&categoryId=41892",
+			"description":"후세의 군주에게 무엇을 책망하겠는가? 정현이 주석한 『주례』에 “여어(女御)는 81명이 9일 동안 밤을 맡고, 세부(世婦)는 27명이 3일 동안 밤을 맡고, 구빈(九嬪)은 9명이 하룻밤을 맡고, 삼부인(三夫人)은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"로마 교황청",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5764070&cid=64577&categoryId=64577",
+			"description":"[ 1. 국무원(Secretariat of State)] ○ 국무원은 교황을 보좌하고 교황청 기구를 통괄하는 기능을 수행하며, 세 개의 부서로 분리 ○ 제1처(국무부, First Section for General Affairs)는 교황과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2361_000_1\/20211209162602376_8J8WG1A8E.png\/gb254_12_i1.png?type=m160_160"
+		}
+	]
+}

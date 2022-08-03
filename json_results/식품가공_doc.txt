@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:29 +0900",
+	"total":24612,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>식품 가공<\/b> 공정별 에너지 소비 특성 예측에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890108774",
+			"description":"A Study on the Prediction of Energy Consumption Characteristics by Food Processing Process   <b>식품가공<\/b>공정, 에너지다소비, FE"
+		},
+		{
+			"title":"<b>식품가공<\/b>공장의 가열 공정 에너지 절감을 위한 스팀 에너지 소비량 예측",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887908400",
+			"description":"Prediction of Steam Energy Consumption for Energy Saving in Food Processing Plant Heating Process The steam energy consumption of the h"
+		},
+		{
+			"title":"인도 <b>식품가공<\/b>산업 기업 특성이 수출활동에 영향을 미치는가?",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887306839",
+			"description":"Do Firm’s Activities Affect the Export Behavior in India’s Food Processing Industry? This paper examines the effects of cost effici"
+		},
+		{
+			"title":"두류 <b>식품가공<\/b> 부산물의 농업적 재활용을 위한 Paenibacillus sp. 균주의 최",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879621218",
+			"description":"Optimal Culture Conditions of Paenibacillus sp. for Agricultural Recycling of Bean Food Processing By-products   <b>식품가공<\/b>부산물,"
+		},
+		{
+			"title":"종안전영양각도간<b>식품가공<\/b>공예연구 (从安全营养角度看食品加工工艺研",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896433423",
+			"description":"Research on Food Processing Technology from the Perspective of Safety and Nutrition 本文具体分析了食品加工工艺的含义与"
+		},
+		{
+			"title":"고직《<b>식품가공<\/b>기술》실천교학적문제급개혁조시 (高职《食品加工技术",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=728714435",
+			"description":""
+		},
+		{
+			"title":"천담고양기조보선기술재<b>식품가공<\/b>중적응용현상 (浅谈高氧气调保鲜技术",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896451914",
+			"description":"Brief Discussion on the Application Status of High Oxygen Modified Atmosphere Preservation Technology in Food Processing 高氧气调"
+		},
+		{
+			"title":"도교다당<b>식품가공<\/b>공예연구 (桃胶多糖食品加工工艺研究)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896424576",
+			"description":" 桃胶中最主要的成分是多糖,含量高达80％以上,具有多糖类物质的一般性质,可治虚热作渴、血淋、利尿"
+		},
+		{
+			"title":"기우OBE혼합식교학모식재《<b>식품가공<\/b>여보장원리》중적응용연구 (基于OBE",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896354924",
+			"description":" 在中国新经济发展形势下,以学生学习效果为导向,以服务于当地特色经济发展的应用型人才为培养目标"
+		},
+		{
+			"title":"소맥호분층재<b>식품가공<\/b>중적응용여연구진전 (小麦糊粉层在食品加工中的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896458537",
+			"description":"Research advance and application of wheat aleurone in food processing 小麦糊粉层是麸皮的主要组成部分,在小麦加工成"
+		},
+		{
+			"title":"경상북도 수산<b>식품 가공<\/b>산업의 기업역량에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887310283",
+			"description":"A Competence of Seafood Processing Industry in Gyeongsangbuk-do Abstract The paper aims is to evaluate the competitiveness of corporate"
+		},
+		{
+			"title":"Super-SBM 모형을 이용한 수산<b>식품 가공<\/b>업체의 효율성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887309895",
+			"description":"A Study on the Efficiency of Seafood Processing Companies Based on Super-SBM Abstract This study is to analyze the efficiency of seafoo"
+		},
+		{
+			"title":"<b>식품가공<\/b>기계에 대한 재해분석 및 예방대책",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562391414",
+			"description":"Disaster Analysis and Prevention Measures due to Food Processing Machinery 신흥국들의 경제성장과 선진국들의 기능성, "
+		},
+		{
+			"title":"<b>식품 가공<\/b> 공정별 에너지 소비량 해석에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871713594",
+			"description":"A Study on the Analysis of Energy Consumption by Food Processing Process    "
+		},
+		{
+			"title":"<b>식품가공<\/b>기계에 대한 재해분석 및 예방대책",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594410479",
+			"description":" 신흥국들의 경제성장과 선진국들의 기능성, 편의성 <b>식품<\/b>에 대한 수요증가에 따라 다양한 <b>식품<\/b>에 대"
+		},
+		{
+			"title":"에너지 다소비 <b>식품가공<\/b>공정 FEMS 적용 에너지 소비 예측을 위한 데이터",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871713593",
+			"description":"Comparative study of data-mining models to predict energy consumption by applying FEMS in food processing factory    "
+		},
+		{
+			"title":"경상북도 수산<b>식품 가공<\/b>기업 지원제도의 저해요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877141946",
+			"description":"Identifying Constraints Factors of Supporting Policy for Seafood Processing Companies in Gyeongsangbuk-do Abstract The purpose of this "
+		},
+		{
+			"title":"무화과<b>식품가공<\/b>기술 (无花果食品加工技术)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877265368",
+			"description":""
+		},
+		{
+			"title":"<b>식품<\/b>방부자재<b>식품가공<\/b>중적응용분석 (食品防腐剂在食品加工中的应用分",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=847389760",
+			"description":""
+		},
+		{
+			"title":"<b>식품가공<\/b>공예우화급응용연구 (食品加工工艺优化及应用研究)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=837301423",
+			"description":""
+		},
+		{
+			"title":"<b>식품가공<\/b>중상용기계설비적기본공작원리여특성——《<b>식품<\/b>기계여설비》",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887230387",
+			"description":""
+		},
+		{
+			"title":"<b>식품가공<\/b>기계에 대한 재해분석 및 예방대책",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=531789872",
+			"description":"Disaster Analysis and Prevention Measures due to Food Processing Machinery 신흥국들의 경제성장과 선진국들의 기능성, "
+		},
+		{
+			"title":"종안전영양각도간<b>식품가공<\/b>공예연구 (从安全营养角度看食品加工工艺研",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872983223",
+			"description":""
+		},
+		{
+			"title":"<b>식품가공<\/b>기계지능화생산기술적발전연구 ——평《<b>식품가공<\/b>기계여설비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=827710910",
+			"description":""
+		},
+		{
+			"title":"<b>식품가공<\/b>안전풍험급질량안전제승조시 (食品加工安全风险及质量安全提",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866570652",
+			"description":""
+		},
+		{
+			"title":"정채부락막,상해<b>식품가공<\/b>포장연전대예수관 (精彩不落幕,上海食品加工",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873030905",
+			"description":""
+		},
+		{
+			"title":"AHP를 활용한 경상북도 수산<b>식품 가공<\/b>기업 지원제도의 중요도에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879162409",
+			"description":"Identifying Importance of Supporting Policy for Gyeongsangbuk-do Seafood Processing Companies Using AHP The purpose of this paper is to"
+		},
+		{
+			"title":"<b>식품가공<\/b>기술대<b>식품<\/b>안전급영양적영향탐토 (食品加工技术对食品安全及",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873062606",
+			"description":""
+		},
+		{
+			"title":"우화고직<b>식품가공<\/b>전업인재배양로경적연구 (优化高职食品加工专业人才",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=847361774",
+			"description":""
+		},
+		{
+			"title":"《<b>식품가공<\/b>기술》실천교학방법급고핵방법적탐토 (《食品加工技术》实",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=847346913",
+			"description":""
+		},
+		{
+			"title":"탐석자동강제화궤예일체화기술재<b>식품가공<\/b>중적응용 (探析自动控制和机",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841565254",
+			"description":""
+		},
+		{
+			"title":"기우재선개방과정적《홍배<b>식품가공<\/b>기술》혼합식교학모식연구 (基于在",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887224136",
+			"description":""
+		},
+		{
+			"title":"AHP를 활용한 경상북도 수산<b>식품 가공<\/b>기업 지원제도의 중요도에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866451956",
+			"description":"Identifying Importance of Supporting Policy forGyeongsangbuk-do Seafood Processing Companies Using AHP Abstract The purpose of this pap"
+		},
+		{
+			"title":"경상북도 수산<b>식품 가공<\/b>기업 지원제도 개선방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887703016",
+			"description":" Abstract\n\nThe purpose of this study is to reveal the structural problems and limitations of the support system for seafood processing "
+		},
+		{
+			"title":"고직<b>식품가공<\/b>전업인재배양특색적연구 (高职食品加工专业人才培养特色",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=829417564",
+			"description":" 人才培养特色是高职教育的核心,我国高职教育经过多年的发展,为国家经济建设和发展做出了巨大贡献"
+		},
+		{
+			"title":"고직원교교학실훈기지여《<b>식품가공<\/b>기술》과정리실일체화교학적결합여",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=847369484",
+			"description":""
+		},
+		{
+			"title":"진공냉동간조<b>식품가공<\/b>공예탐구 (真空冷冻干燥食品加工工艺探究)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841596406",
+			"description":" 真空冷冻干燥食品加工工艺具有普遍性的特点,随着食品加工技术水平不断提高,以及多样化生产设备逐"
+		},
+		{
+			"title":"저농도이양화록기체재<b>식품가공<\/b>대공간내살균효과적감측 (低浓度二氧化",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866664633",
+			"description":""
+		},
+		{
+			"title":"<b>식품가공<\/b>기술전업산교융합개혁신논 (食品加工技术专业产教融合改革新",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872901387",
+			"description":" 本文探讨食品加工制造产业的行业背景,分析食品加工技术专业产教融合各相关方的利益矛盾和改革需"
+		},
+		{
+			"title":"안전영양시각하적<b>식품가공<\/b>공예 (安全营养视角下的食品加工工艺)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841525296",
+			"description":" 食品安全和营养安全向来受到重视,随着全球人口总数的不断增多,安全营养视角下的食品加工工艺开始"
+		},
+		{
+			"title":"<b>식품가공<\/b>규범대<b>식품<\/b>안전적영향 (食品加工规范对食品安全的影响)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866645926",
+			"description":" 在我国社会经济高速发展背景下,人们生活质量也得到了有效提升,对食品的要求以及需求越来越高,在"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890424647",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862854681",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868831635",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886866564",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872875241",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882401748",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888212413",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886997175",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881560996",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891335548",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891099376",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889940195",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888762807",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886958079",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871388251",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885180860",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874133423",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=862837275",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887594838",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890622121",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865579074",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881038454",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886459629",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896673307",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891239784",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882894878",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874550830",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890810133",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873521197",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888376682",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889779854",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"Bacillus tequilensis 13018 균주와 두류<b>식품가공<\/b>부산물의 처리에 의한 식물 생",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898552065",
+			"description":"Plant growth promotion and suppression of Botrytis cinerea by treatment of Bacillus tequilensis 13018 with bean byproducts  표제지\nA"
+		},
+		{
+			"title":"기우영양곡물조찬<b>식품가공<\/b>공예차리연구 (基于营养谷物早餐食品加工工",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873086633",
+			"description":" 营养谷物早餐食品是一种营养价值高的即食或速煮食品,深受消费者欢迎.本文对营养谷物早餐食品的特"
+		},
+		{
+			"title":"속동<b>식품가공<\/b>공예우화급응용탐토 (速冻食品加工工艺优化及应用探讨)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877350106",
+			"description":" 经济社会发展我国居民饮食结构变化显著,这也为速冻食品行业发展创造了良好的机遇,近年来,相关调"
+		},
+		{
+			"title":"길림성중소<b>식품가공<\/b>기업성본공제연구 (吉林省中小食品加工企业成本控",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841453453",
+			"description":" 随着原材料和人工价格的上涨以及市场竞争的加剧,企业之间的竞争越来越激烈,企业的盈利空间进一步"
+		},
+		{
+			"title":"선식견유재<b>식품가공<\/b>중적응용여연구진전 (膳食纤维在食品加工中的应用",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841429867",
+			"description":" 围绕膳食纤维对人体健康的积极影响和相关要注意的事项进行研究,发现膳食纤维的功能较多,如可预防"
+		},
+		{
+			"title":"미파재<b>식품가공<\/b>중응용적문제화특수효과 (微波在食品加工中应用的问题",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877238338",
+			"description":" 食品加工是通过设备或工艺对食物进行加工处理,使其成为口感更好,对人体更加有益的产品.食品加工"
+		},
+		{
+			"title":"천석화학첨가자재<b>식품가공<\/b>중적응용 (浅析化学添加剂在食品加工中的应",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866654385",
+			"description":" 随着消费认知与消费水平的提升,人们对于便捷、营养、多元化的要求越来越高.为匹配市场对于食品产"
+		},
+		{
+			"title":"조사논문 : <b>식품가공<\/b>기술 e-Learning 콘텐츠 학습효과성 실험연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32727069",
+			"description":"Experimental Study of Food Processing Technology e-Learning Contents` Effects on Academic Achievement Progress of development and appli"
+		},
+		{
+			"title":"매공정기술급기재<b>식품가공<\/b>검측중적응용 (酶工程技术及其在食品加工检",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887102623",
+			"description":" 新陈代谢是生物生存发展的重要环节,而酶在生物新陈代谢中发挥着催化剂的作用.通过对酶进行深入研"
+		},
+		{
+			"title":"<b>식품가공<\/b>공예우화급응용탐토 (食品加工工艺优化及应用探讨)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841471357",
+			"description":" 经济的高速发展使得人们的生活水平持续提升,而食品加工工艺的优化和发展,能够更好地满足人们对食"
+		},
+		{
+			"title":"학교식당<b>식품가공<\/b>이물공제노경연구 (学校食堂食品加工异物控制路径研",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877298307",
+			"description":" 学校食堂的食品安全关系着学校内每一位师生的身心健康甚至生命安全,其重要性不言而喻,其中食品原"
+		},
+		{
+			"title":"지역<b>식품가공<\/b>업체의 경영성과분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10723598",
+			"description":"  목차=21,26,1\nI.머리말=21,26,3\nII.분석자료 및 방법=23,28,4\nIII.지역<b>식품가공<\/b>업체의 경영성과분석=26,31,2\n 1."
+		},
+		{
+			"title":"초고압기술재단백질<b>식품가공<\/b>중적응용 (超高压技术在蛋白质食品加工中",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872961257",
+			"description":" 随着国民对食品安全的重要性认知度进一步提升,食品生产技术水平开始受到越来越多人的关注.在诸多"
+		},
+		{
+			"title":"기우인자분석법적농부<b>식품가공<\/b>북상시공사경영적효평개 (基于因子分析",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=838622707",
+			"description":" 农副食品加工反映着我国现代化粮食的发展状况,分析我国农副食品加工业上市公司经营绩效现状,研究"
+		},
+		{
+			"title":"미생물재<b>식품가공<\/b>중적응용분석 (微生物在食品加工中的应用分析)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841435237",
+			"description":" 市场经济的发展背景下,人们的物质生活水平不断提高.当前阶段,食品供应市场非常繁荣,除了人们生活"
+		},
+		{
+			"title":"&quot;&quot;&quot;쌍고&quot;&quot;배경하<b>식품가공<\/b>기술전업정영인재배양적탐구&quot; (&quot;&quot;&quot;双高&quot;&quot;背景下",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841514768",
+			"description":" &quot;所谓的&quot;&quot;双高&quot;&quot;建设实际上是坚持&quot;&quot;高水平现代化高职院校建设&quot;&quot;及&quot;&quot;高水平特色专业群建设&quot;&quot;.坚持&quot;&quot;双"
+		},
+		{
+			"title":"고밀도CO2살균화둔매급기재<b>식품가공<\/b>중응용적연구진전 (高密度CO2杀菌和",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186444613",
+			"description":"Review on Inactivation of Microorganisms and Enzyme by Dense Phase Carbon Dioxide and the Application 总结近10年来国内外在高"
+		},
+		{
+			"title":"제고<b>식품가공<\/b>전업과교학질량적탐토 (提高食品加工专业课教学质量的探",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841586559",
+			"description":"Discussions on Improving the Teaching Quality of Food Processing Course 从以下几方面探讨了如何提高食品加工专业课教"
+		},
+		{
+			"title":"<b>식품가공<\/b>기술전업“쌍증”융통적실천여탐색 (食品加工技术专业“双证",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=667780389",
+			"description":""
+		},
+		{
+			"title":"《<b>식품가공<\/b>기술》과정창신형실천교학적탐색여실시 (《食品加工技术》",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=866616080",
+			"description":" 大学生创新实践能力的培养已成为当前高职教育亟需解决的问题.本文以《食品加工技术》实验项目开"
+		},
+		{
+			"title":"기우허의수적<b>식품가공<\/b>방진교호계통연구 (基于虚拟手的食品加工仿真交",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=847235092",
+			"description":"Research on Virtual Hand-based Interactive System for Food Processing Simulation 为解决食品加工仿真交互系统中手部交互"
+		},
+		{
+			"title":"<b>식품가공<\/b>전업미생물학실험과정교학개혁탐석 (食品加工专业微生物学实",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873061836",
+			"description":"Exploration and Analysis on the Teaching Reform of Food Microbiology Experiment Course 食品微生物学实验在食品加工等专业"
+		},
+		{
+			"title":"마령서<b>식품가공<\/b>현상급전망 (马铃薯食品加工现状及展望)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877345098",
+			"description":"Current Situation and Prospect of Potato Food Processing Research and Development 近年来,随着马铃薯作为第四大主粮战略"
+		},
+		{
+			"title":"현대학도제시각하<b>식품가공<\/b>기술전업교기쌍주체육인질량제승로경연구 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841492599",
+			"description":"Study on the Quality Improvement Path of Dual-Subject Cultivating Talents of Food Processing Technology Specialty from the Perspective "
+		},
+		{
+			"title":"현대<b>식품가공<\/b>기술진전과정번전과당수과체계건설연구 (现代食品加工技",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877272631",
+			"description":"Research on Construction of Flipped Classroom Teaching System of Modern Food Processing Technology Progress Course 翻转课堂教学"
+		},
+		{
+			"title":"해조산납도막재<b>식품가공<\/b>중적응용 (海藻酸钠涂膜在食品加工中的应用)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=847252718",
+			"description":"Application of Alginate Film in Food Processing 海藻酸钠作为一种提取物的副产品,多糖类,具有药物制剂辅料所需"
+		},
+		{
+			"title":"기우VR적<b>식품가공<\/b>생산선교학계통설계여실현 (基于VR的食品加工生产线教",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841437541",
+			"description":"Design and Implementation of Food Processing Production Line Teaching System Based on VR VR技术的不断发展,为食品加工行业"
+		},
+		{
+			"title":"현대학도제<b>식품가공<\/b>기술전업교기연합초생초공궤제연구 (现代学徒制食",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=836294700",
+			"description":" 近些年我国经济的发展速度是有目共睹的,这使得高校毕业生在就业方面的压力不断增加,再加上我国高"
+		}
+	]
+}

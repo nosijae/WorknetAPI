@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:15 +0900",
+	"total":5508,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1113842&cid=40942&categoryId=31611",
+			"description":" 화재를 예방·경계하거나 진압하고 화재, 재난·재해 그밖의 위급한 상황에서의 구조·구급활동 등을 통하여 국민의 생명·신체 및 재산을 보호하는 것을 말한다.  &#60;역사&#62; <b>소방<\/b>에 관한 기록은 삼국시대에까지... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_45\/20181009204327912_GIQCZTVZI.jpg\/79397.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=557662&cid=46625&categoryId=46625",
+			"description":" 화재를 예방, 경계하고 진압시키는 작용. [내용] 오늘날의 <b>소방<\/b>은 광역시장·도지사의 지휘 감독을 받아 <b>소방<\/b>본부장 또는 <b>소방<\/b>서장이 수행하며, 내무행정에 속한다. <b>소방<\/b>을 규율하는 법령으로는 「<b>소방<\/b>법」... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_9\/20180910212522185_P8JGO4611.jpg\/1854ebce-c187-4b.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=270180&cid=42641&categoryId=42641",
+			"description":"<b>소방<\/b>은 추출액을 그대로 사용하여 면을 염색시키면 황갈색으로 염착되는데, 통상적으로는 금속 매염법에 사용하는 것이 스펙트럼상 장파장의 색상을 얻을 수 있고(심색화라고 함), 가스 견뢰성도 좋다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2337258&cid=58505&categoryId=58527",
+			"description":"<b>소방<\/b>에는 대체로 4가지 내용이 포함되어 있다. (ㄱ) 약의 작용이 세지 않은 것. (ㄴ) 약의 가짓수가 적은 것. (ㄷ) 약의 양이 적으면서 여러 번 나누어 먹는 것. (ㄹ) 상초(上焦)의 병과 경한 병을 치료하는 것. ②... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6052038&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 국민의 생명, 신체 및 재산 보호를 위해 화재를 예방, 경계, 진압하고 재난 및 재해 등을 방지(防止)하는 행위를 말함. 참고 : 건축용어대사전, 기문당 \/ 건축학용어사전, 세화 [도시 및 단지]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=232381&cid=50365&categoryId=50365",
+			"description":"칠방(七方)의 하나로, 1. 병세가 가벼운 것을 치료하는 방제임 2. 상초(上焦)에 병이 들어서 치료할 때 약의 분량을 적게 하여 여러 번 복용하는 방법임. 3. 겸증(兼證)이 없을 때 약의 종류를 적게 하는 방법임.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=98520&cid=41826&categoryId=41826",
+			"description":"소결방면(疏決放免)의 준말. 죄인을 관대히 처결하여 석방해주는 일. [유사어] 소설(昭雪). 소탕(疏蕩).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=98519&cid=41826&categoryId=41826",
+			"description":"작은 나라라는 의미로, 조선 시대에 중국에 대하여 조선을 일컬을 때 쓰임. 소국(小國).",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=151003&cid=50331&categoryId=50331",
+			"description":"꿀벌이 꿀과 화분을 저장하거나 봉아를 양육하는 벌집의 육각형의 작은 방.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2337259&cid=58505&categoryId=58527",
+			"description":"소목(蘇木)을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9",
+			"description":"<b>소방<\/b> (消防)이란 <b>소방<\/b>관서에서 일상적으로 하는 업무로 화재를 예방․경계하거나 진압하고 그 밖의 <b>소방<\/b>활동, 즉 재난․재해 그 밖의 위급한 상황에서의 구조․구급활동 등을 통하여 국민의 생명․신체 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=135503",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2294528&cid=60227&categoryId=60227",
+			"description":"인도, 말레이 원산의 콩과의 저목(低木) Caesalpinia sappan L.의 심재(心材). 콩깍지를 끓여서 적색 염료로 하는 외에 심재는 생약으로 사용된다. 또 브라질, 가나, 서인도에서 산출되는 같은 과의 C. brasiliensis... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2822_000_2\/20140701135536459_Y0X83HHL8.jpg\/cc6_18247_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"김홍주",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1164498&cid=40942&categoryId=34387",
+			"description":" 조선 후기의 화가. 김정희의 유망한 문하생이었던 익로의 아들이다. 특히 사군자에 능하였으며 글씨는 추사체를 취했다. 《모란도병풍》 등의 작품이 있다.  본관 김해. 자 사경(士敬). 호 <b>소방<\/b>(小舫). 김정희... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청주의 <b>소방<\/b> (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2643807&cid=51895&categoryId=53911",
+			"description":"청주시의 화재, 재난, 구조를 위해 충청북도 <b>소방<\/b>본부 산하 청주서부<b>소방<\/b>서와 3개 <b>소방<\/b>파출소, 청주동부<b>소방<\/b>서와 4개 <b>소방<\/b>파출소가 있다. <b>소방<\/b>파출소는 화재를 예방·경계·진압하고 화재, 재난, 재해 그 밖의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> (제주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2625468&cid=51955&categoryId=55497",
+			"description":"[개설] <b>소방<\/b>의 개념은 어느 하나의 일률적인 확정의 개념이 아니고, 시대의 흐름이나 사회적 변화에 따라 다양한 개념으로 변천해왔다고 할 수 있다. 역사적으로 볼 때 <b>소방<\/b>의 업무는 있었으나, 조직화되고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진도의 <b>소방<\/b> (진도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2630253&cid=51952&categoryId=55342",
+			"description":"[개설] 근대적인 <b>소방<\/b>행정은 갑오개혁 당시로 거슬러 올라간다. 1894년 7월 14일 지금의 경찰청에 해당하는 경무청(警務廳)을 설치하고 행정경찰장정(行政警察章程)을 제정하여 치안업무뿐만 아니라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진주의 <b>소방<\/b> (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2632131&cid=51942&categoryId=54807",
+			"description":"[<b>소방<\/b>의 연원] 조선시대의 <b>소방<\/b>제도는 대체로 세종 무렵에 정비되었으나, 법제상으로는 세조 때의 『경국대전(經國大典)』에 의해 이미 확립되었다. <b>소방<\/b>을 뜻하는 용어로는 금화·구화·멸화·비화(禁火... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2575278&cid=51890&categoryId=53704",
+			"description":"[개설] 강릉 지역에서는 미군정령 제66호 및 강원도 <b>소방<\/b>위원회의 결정에 의거하여 1946년 12월 15일 <b>소방<\/b>서를 설치하여 지역 <b>소방<\/b>업무를 수행하였다. 그러나 1950년 5월 27일에는 대통령령 제361호 ‘시·도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> (음성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2620112&cid=51892&categoryId=53764",
+			"description":"[개설] <b>소방<\/b>이라는 용어의 사용과 근대적인 <b>소방<\/b> 행정은 갑오경장 이후부터이다. 1894년 7월 14일 지금의 경찰청에 해당하는 경무청(警務廳)을 설치하고 행정경찰장정(行政警察章程)을 제정하여 치안... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> (용인)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2614724&cid=51887&categoryId=53549",
+			"description":"[개설] <b>소방<\/b>은 기본적으로 화재를 예방·경계하고 진압하는 일로 정의된다. 그러나 실제로는 화재뿐만 아니라 수해, 지진 등의 재해나 그 밖의 위급한 상황에서 그 피해를 경감시키는 활동이나 구조·구급... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2609962&cid=51950&categoryId=55234",
+			"description":"[개설] <b>소방<\/b>이라는 용어의 사용과 근대적인 <b>소방<\/b> 행정은 갑오경장 이후부터이다. 1894년 7월 14일 지금의 경찰청에 해당하는 경무청(警務廳)을 설치하고 ‘행정경찰장정(行政警察章程)’을 제정하여 치안... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> (울릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2616793&cid=51936&categoryId=54503",
+			"description":"[개설] <b>소방<\/b>은 기본적으로 화재를 예방·경계하고 진압하는 일로 정의된다. 그러나 실제로는 화재뿐만 아니라 수해, 지진 등의 재해나 그 밖의 위급한 상황에서 그 피해를 경감시키는 활동이나 구조·구급 활동을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> (양산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2607966&cid=51941&categoryId=54757",
+			"description":"[개설] <b>소방<\/b>은 기본적으로 화재를 예방·경계하고 진압하는 일로 정의된다. 그러나 실제로는 화재뿐만 아니라 수해, 지진 등의 재해나 그 밖의 위급한 상황에서 그 피해를 경감시키는 활동이나 구조·구급... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025422&cid=42117&categoryId=42117",
+			"description":"<b>소방<\/b>시설을 점검·정비·확인하고, 건축물에 대한 안전도 검사 등의 화재예방활동을 한다. 위험물의 저장·취급 안전과 사고예방활동을 한다. 가스공급시설 등 위험물시설의 안전원을 지도·감독한다. 화재발생... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>청",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4125520&cid=50867&categoryId=50867",
+			"description":" <b>소방<\/b>에 관한 사무를 관장하는 행정안전부 산하의 중앙행정기관.  대한민국 정부 수립 초창기인 1948년 7월 17일 내무부 치안국에 <b>소방<\/b>과를 설치하여 <b>소방<\/b>행정에 관한 사무를 관장했다. 1950년 4월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>청",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1234232&cid=40942&categoryId=39699",
+			"description":" <b>소방<\/b>과 방재, 민방위 운영 및 안전 관리에 관한 사무를 관장하는 행정안전부 산하의 중앙행정기관.  1975년 8월 내무부에 설치된 민방위본부(민방위국·<b>소방<\/b>국)가 전신이었다. 민방위본부는 1995년 10월... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_77\/20181119195204642_SUCXL6VIL.jpg\/273276.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=926395&cid=42116&categoryId=42116",
+			"description":"[직업설명] <b>소방<\/b>관은 화재를 예방하거나 진압한다. 사고나 재난 발생 시 긴급구조 및 구급출동 등 국가의 인명을 구조하고 재산을 보호한다.화재 예방 활동으로 학교, 병원, 시장 등의 건축물 <b>소방<\/b>시설의 안전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>헬기 <b>소방<\/b>훈련장면",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5955492&cid=63403&categoryId=67043",
+			"description":"<b>소방<\/b>헬기 <b>소방<\/b>훈련장면",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_27\/20200610133828891_T974R7Y2W.jpg\/cGhvdG93YW5nfDM0.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1113847&cid=40942&categoryId=34670",
+			"description":" <b>소방<\/b>공무원의 교육훈련을 위하여 운영하는 교육훈련기관.  행정자치부장관 또는 시장·도지사의 소속하에 운영되고 있다. 교육훈련기관. <b>소방<\/b>학교는 현직 <b>소방<\/b>공무원 및 <b>소방<\/b>공무원 임용예정자에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해상<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1162051&cid=40942&categoryId=32417",
+			"description":" 해상에서 선박화재방제나 구난·구호, 연안의 육상<b>소방<\/b>대를 원조하는 등의 <b>소방<\/b>활동.  최근 산업경제의 발전과 무역·해운의 발달에 따라 선박·항만기구가 해마다 팽창되고, 창고·공장·석유류의 위험물... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>본부",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1170325&cid=40942&categoryId=31664",
+			"description":" 화재의 예방·진압 등 <b>소방<\/b>업무를 담당하는 서울특별시, 광역시 및 각 도의 하부조직.  1425년 최초의 <b>소방<\/b>기관인 수성금화도감이 설치되었고, 미군정기(1946~1948년)에는 중앙에 <b>소방<\/b>위원회(<b>소방<\/b>청)가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=557663&cid=46625&categoryId=46625",
+			"description":"[내용] <b>소방<\/b>관에 관한 법률은 1977년에 제정되었으나, 1982년 12월에 전면 개정되었다. <b>소방<\/b>관은 다른 공무원과는 별도의 절차에 의하여 임용되며, 인사의 자문을 위하여 독립된 인사위원회를 두고 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EA%B4%80",
+			"description":"<b>소방<\/b>관 (消防官, 영어: firefighter, fireman\/firewoman )은 화재를 예방·경계하거나 진압하고 화재, 재난·재해 그 밖의 위급한 상황에서의 구조·구급활동 등을 통하여 국민의 생명·신체 및 재산을 보호함으로써... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1113843&cid=40942&categoryId=33385",
+			"description":"<b>소방<\/b>관에 대한 제도는 조선시대의 공조(工曹)에 속한 수성금화사(修城禁火司)에서 찾을 수 있다. 그러나 오늘날과 같은 전문적인 <b>소방<\/b>관 제도와는 다르다. 전문적인 <b>소방<\/b>관이 설치된 것은 1920년 <b>소방<\/b>서가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_376\/20210617085709120_TTZ9010XM.jpg\/12034642.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>복",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EB%B3%B5",
+			"description":"<b>소방<\/b>복 (消防服)은 <b>소방<\/b>관이 <b>소방<\/b>을 할 때 착용하는 복장이다. 넓은 의미로는 <b>소방<\/b>모와 <b>소방<\/b>두건, <b>소방<\/b>화 및 <b>소방<\/b>장갑도 포함한다. 화재의 진압을 위해 <b>소방<\/b>을 할 때 불속에 뛰어들어야 하므로 <b>소방<\/b>하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047447&cid=42279&categoryId=42279",
+			"description":" <b>소방<\/b>시설 점검 결과를 일자별로 기재한 문서.  <b>소방<\/b>일지란 화재예방을 위해 <b>소방<\/b> 안전 상태를 점검하고, 그 내용을 기록하는 표 형식의 문서를 말한다. <b>소방<\/b>일지의 작성자는 각 점검 항목에 대한 결과를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129001927497_R9AZSB9KZ.jpg\/hb10_11148_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>등",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EB%93%B1",
+			"description":"<b>소방<\/b>등 (蕭方等, 528년 ~ 549년)은 중국 남북조 시대 양나라의 황족이다. 양 원제와 상동왕비 서소패(徐昭佩) 사이에서 태어난 맏아들이다. 생애 528년에 당시 상동왕(湘東王)이었던 소역의 맏아들로 태어났다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EC%82%AC",
+			"description":"<b>소방<\/b>사 (消防士, Firefighter )는 <b>소방<\/b>관 계급 중 <b>소방<\/b>사시보의 위, <b>소방<\/b>교의 아래로 비간부(<b>소방<\/b> 실무자)에 속한다. 9급 서기보에 해당하며, 경찰의 순경, 국군의 하사(부사관), 소위(장교)에 대응한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%ED%95%99",
+			"description":"<b>소방<\/b>학 은 국민의 생명, 신체 및 재산을 보호하는 국가의 <b>소방<\/b>활동에 관학 학문이다. <b>소방<\/b>학은 재난관리론, <b>소방<\/b>행정법, <b>소방<\/b>정책론, <b>소방<\/b>조직론 등을 포함하며 넓게는 스프링클러 등과 같은 <b>소방<\/b>시설 구조... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EC%B2%AD",
+			"description":"<b>소방<\/b>청 은 다음을 의미한다. 대한민국 <b>소방<\/b>청 일본 <b>소방<\/b>청 도쿄 <b>소방<\/b>청 뉴욕 <b>소방<\/b>청 같이 보기 제목에 &quot;<b>소방<\/b>청&quot; 항목을 포함한 모든 문서",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5676120&cid=62841&categoryId=62841",
+			"description":"<b>소방<\/b>관은 방법의 절차에는 크게 신경 쓰지 않고 유배된 감정에서 개인을 분리시키기 위해, 즉 개인을 돕는 데 필요한 것은 무엇이든 한다. <b>소방<\/b>관이 쓰는 방법에는 자해(self-mutilation), 엄청난 대식, 약물이나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>장",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EC%9E%A5",
+			"description":"<b>소방<\/b>장 (消防長, Fire Lieutenant )은 <b>소방<\/b>관 계급 중 <b>소방<\/b>교의 위, <b>소방<\/b>위의 아래로, 비간부(<b>소방<\/b> 실무자)에 속한다. 공무원의 7급 주사보,, 경찰의 경사, 국군의 상사(부사관), 대위(중대장)에 해당한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6052182&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] <b>소방<\/b>기본법 제2조에 정의된 조직체. <b>소방<\/b>공무원, 의무<b>소방<\/b>원, 의용<b>소방<\/b>대원을 말한다. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>대장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047404&cid=42279&categoryId=42279",
+			"description":" <b>소방<\/b> 시설물 관리에 관한 세부 사항을 기록한 문서.  <b>소방<\/b>대장이란 <b>소방<\/b> 시설물 관리에 필요한 세부 사항을 기재하는 표 형식의 문서를 말한다. <b>소방<\/b>대장 작성 시에는 시설물의 명칭과 용도를 비롯하여 설치... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129001817054_PKZZPELIY.jpg\/hb10_11104_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6052184&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] <b>소방<\/b>청 또는 산하 <b>소방<\/b>기관에 소속되어 <b>소방<\/b>관련 시설을 점검하고 화재예방 및 진화를 수행하는 인력. <b>소방<\/b>관 계급중의 하나로 9급 서기보에 해당. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2808553&cid=47305&categoryId=47305",
+			"description":"있나요?] · <b>소방<\/b>관은 나라의 일을 하는 공무원이기 때문에 <b>소방<\/b>공무원 시험에 합격을 해야 합니다. · 다른 사람들을 잘 도와주고 강인하며, 착한 마음씨를 가진 사람이라면 <b>소방<\/b>관이 될 수 있습니다. [예상... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3981_000_1\/20190405112353743_BUGL9OORA.jpg\/dbp08_45_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1838962&cid=49089&categoryId=49089",
+			"description":"[경보기(mandown alarm)] 강력한 신호를 내보냄으로써 <b>소방<\/b>관들이 불 속에서도 위치를 알 수 있도록 해 주는 장치. <b>소방<\/b>관이 수동으로, 혹은 일정 시간 부동자세로 있으면 자동으로 작동한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1592_000_3\/20130419182240524_B6AO5VWPQ.jpg\/z1_2008_i1_org.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b> 계급",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4396183&cid=43667&categoryId=43667",
+			"description":" <b>소방<\/b>공무원은 총 11계급으로 ▷<b>소방<\/b>총감(消防總監) ▷<b>소방<\/b>정감(消防正監) ▷<b>소방<\/b>감(消防監) ▷<b>소방<\/b>준감(消防准監) ▷<b>소방<\/b>정(消防正) ▷<b>소방<\/b>령(消防領) ▷<b>소방<\/b>경(消防警) ▷<b>소방<\/b>위(消防尉) ▷<b>소방<\/b>장... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA2MjFfMTcx%2FMDAxNjI0MjY0MzcxMjA1.b9-PuUuJHRLxppi7yCzPhHD33r2o8ww8XtRHfi_oBWog._pJo8S8jrawrdLKzG8CykNXZMtC6Gh72UQGhdpnghk4g.PNG%2FIQhw5NsiEhQ7fbvgTA26oEuuiXdg.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x74"
+		},
+		{
+			"title":"<b>소방<\/b>색",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=281118&cid=50345&categoryId=50345",
+			"description":"탁한 보랏빛의 적색. <b>소방<\/b>은 열대산의 콩과식물로 그 줄기의 심재(芯材)를 달여서 만드는 염료의 색.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>상",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=98521&cid=41826&categoryId=41826",
+			"description":"험한 길이나 좁은 길에서 쓰는 작은 상여(喪輿). 국장(國葬)이나 높은 관리들의 장사에 쓰였음. <b>소방<\/b>상의 제작법은 ≪국조오례서례(國朝五禮序例)≫ 권5 흉례(凶禮) 거여도설(車轝圖說)에 자세함.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=507304&cid=42380&categoryId=42380",
+			"description":"국내 <b>소방<\/b>법이 제정되었다. 특히 최근에는 석유류 등의 위험물이 다량으로 사용되고, 잡다한 회사ㆍ점포가 입주하고 있는 빌딩에 있어서 화재, 폭발, 석유콤비너트에 있어서 중유의 유출사고 또는 화재, 폭발... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의용<b>소방<\/b>대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=541025&cid=46625&categoryId=46625",
+			"description":" <b>소방<\/b>본부장 또는 <b>소방<\/b>서장이 관장하는 <b>소방<\/b>업무를 보조하기 위하여 서울특별시·광역시·시·읍·면에 설치된 일선의 <b>소방<\/b>조직. [내용] 의용<b>소방<\/b>대의 대원은 그 지역의 주민 중 희망하는 자로 구성한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>항공대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3577348&cid=58886&categoryId=58886",
+			"description":"<b>소방<\/b>차로 도로를 달려 화재 현장에서 <b>소방<\/b> 호스를 들고 뛰거나 위급 상황에 처한 환자를 구조해 병원으로 옮기는 구급대원들만 <b>소방<\/b>관은 아니다. 하늘을 누비는 <b>소방<\/b>관도 있다. <b>소방<\/b>항공대 대원들이 바로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118172529432_HWBSK4O7A.jpg\/a01_71.jpg?type=m160_160"
+		},
+		{
+			"title":"명예<b>소방<\/b>관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6504831&cid=67200&categoryId=67200",
+			"description":"함께 뉴스를 보며 시사용어의 뜻과 쓰임을 익혀보자구~ 안전사회 구현에 이바지했거나 <b>소방<\/b>행정 발전에 공로가 있다고 인정되는 이에게 주어지는 칭호예요. <b>소방<\/b>청은 2020년 4월부터 인명구조견처럼 사람을... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA5MTNfOTkg%2FMDAxNjMxNDkzNjQ1NTIw.H7QVW-mB9QFD_MNgwO08o8nnlR5Yu8gGd1dZc3r34Xwg.NQDKx0Le1-2FNZFj0G515l4XmAI1kkVjGm2-j4iki9Ig.JPEG%2FIK9gw-Lb5ulTKklEv_jSui7G1jcQ.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x399#c399"
+		},
+		{
+			"title":"<b>소방<\/b>상 1",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1751930&cid=49381&categoryId=49381",
+			"description":"• 콘텐츠명 : <b>소방<\/b>상(小方牀) • 제어번호 : cp0316ct0079 • 종류 : 2D 일러스트 • 참고문헌 : 국조상례보편 [설명] 대여(상여) 속에 관이 있고 관을 관을 올려 놓는데 사용된다. [추가설명] 국조오례의 설명... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_17\/20130624140127081_84G3Z2A97.jpg\/z2_cp03160592000.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>검사서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3545174&cid=42279&categoryId=42279",
+			"description":" <b>소방<\/b>검사서란 <b>소방<\/b>검사를 시행한 후 그 내용을 작성하는 문서이다.  <b>소방<\/b>은 화재를 진압하거나 예방하는 것이다. 따라서 <b>소방<\/b>검사서란 <b>소방<\/b>검사를 시행한 후 그 내용을 작성하는 문서이다. 회사 등 단체는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181941288_T62JND89B.jpg\/hb10_78944_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>상 2",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1751931&cid=49381&categoryId=49381",
+			"description":"• 콘텐츠명 : <b>소방<\/b>상(小方牀)-2 • 제어번호 : cp0316ct0080 • 종류 : 2D 일러스트 • 참고문헌 : 국조상례보편 국조오례의 설명 <b>소방<\/b>상(小方牀)은 재궁(梓宮)을 싣기 위한 것이다. <b>소방<\/b>상을 제작하는 법은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_17\/20130624140129476_BRFW8LE9A.jpg\/z2_cp03160593000.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>계획표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047396&cid=42279&categoryId=42279",
+			"description":"<b>소방<\/b>은 화재를 예방, 경계하거나 진압 후에 화재나 재난, 재해와 같은 위급한 상황에서 구조 및 구급활동 등을 벌이는 것을 말한다. <b>소방<\/b>의 궁극적인 목적은 국민의 생명과 신체, 재산을 보호하는 것이라고 할... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129001812139_R79P3LT96.jpg\/hb10_11096_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"의무<b>소방<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=298540&cid=60362&categoryId=60362",
+			"description":"국방부장관이 <b>소방<\/b>방제청장의 요청에 따라 화재의 경계․진압과 재난․재해발생시 구조․구급활동 등 <b>소방<\/b>업무를 보조하기 위하여 도입한 제도이다. 현역병으로 입영하여 군사교육을 마친 사람 중에서 추천... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>박물관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1207187&cid=40942&categoryId=34683",
+			"description":" 전라북도 전주시 덕진구 금암1동에 있는 <b>소방<\/b> 전문박물관.  연건평 89.1㎡, 총소장품 150점이다. 전주<b>소방<\/b>서 훈련탑 2층에 있다. 1993년 전주<b>소방<\/b>서에서 <b>소방<\/b>관련자료와 장비 등을 전시하여 <b>소방<\/b>의 역사를 널리... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_150\/20181207090144879_TZGG9FJ6K.jpg\/1761927.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>시방서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047407&cid=42279&categoryId=42279",
+			"description":" <b>소방<\/b> 공사 시행에 필요한 시공 기준 등을 명시한 문서.  시방서란 설계도 상에서 표기할 수 없지만, 반드시 표기해야 할 사항들을 별도로 구분하여 규정한 문서를 뜻한다. <b>소방<\/b>시방서란 <b>소방<\/b> 설비 공사와 관련된... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129001840577_O5MD4J4Y5.jpg\/hb10_11107_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>점검표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047449&cid=42279&categoryId=42279",
+			"description":" <b>소방<\/b> 시설 안전 점검에 관한 사항을 기록한 문서.  <b>소방<\/b>점검표란 화재예방을 위해 <b>소방<\/b> 안전 상태를 점검하여 기록하는 표 형식의 문서를 말한다. <b>소방<\/b>점검표의 작성자는 시설 점검과 관련된 세부 사항을 각... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_18\/20220722140118499_4BWMBGAXJ.png\/hb10_11150_i1.png?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>계획표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2781347&cid=51373&categoryId=51373",
+			"description":"<b>소방<\/b>계획표는 <b>소방<\/b>시설 설치와 유지 및 안전관리 등 <b>소방<\/b>안전관리 업무 전반에 관한 실천 방안을 기재한 표이다. <b>소방<\/b>계획표는 화제 예방과 화재 진압 시 인명과 재산을 화재로부터 적극 보호할 수 있는 제도적... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508203937462_LY040SI21.jpg\/ba17_11427_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>점검표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2780361&cid=51373&categoryId=51373",
+			"description":" <b>소방<\/b> 시설에 대하여 안전 점검을 실시하였음을 확인하기 위한 표.  <b>소방<\/b>점검은 시설의 관계자가 <b>소방<\/b>안전의 점검을 정기적으로 실시하는 것을 말한다. <b>소방<\/b>점검 표에는 화재예방을 대비해서 소화시설... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508200723446_OVWO3VLPI.jpg\/ba17_2424_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>본부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EB%B3%B8%EB%B6%80",
+			"description":"<b>소방<\/b>본부 (消防本部, Fire Department )는 <b>소방<\/b>을 담당하기 위해 설치된 관공서이다. 여러 나라에서는 <b>소방<\/b>국 (消防局, Fire Bureau)으로 번역하기도 한다. 대한민국의 <b>소방<\/b>본부 중앙<b>소방<\/b>본부와 지방<b>소방<\/b>본부가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>준감",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EC%A4%80%EA%B0%90",
+			"description":"<b>소방<\/b>준감 (消防準監, Fire Sub-deputy Chief )은 <b>소방<\/b>공무원 중 30여명 정도로 경무관 보다도 적다. <b>소방<\/b>정의 위, <b>소방<\/b>감의 아래로, 고위급 간부(<b>소방<\/b> 수뇌부)에 속한다. 공무원의 3급 부이사관 , 국군의 준장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%ED%95%99%EA%B5%90",
+			"description":"<b>소방<\/b>학교 (消防學校)는 <b>소방<\/b>관으로 양성하는 것을 목적으로 하는 학교이다. 대한민국 중앙<b>소방<\/b>학교 특별시·광역시의 <b>소방<\/b>학교 서울특별시 <b>소방<\/b>학교 인천광역시 <b>소방<\/b>안전학교 부산광역시 <b>소방<\/b>학교 광주광역시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>정감",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EC%A0%95%EA%B0%90",
+			"description":"<b>소방<\/b>정감 (消防正監, Fire Chief )은 대한민국 <b>소방<\/b>공무원 조직에서 단 네 사람만이 존재한다. <b>소방<\/b>감의 위, <b>소방<\/b>총감의 아래로, 고위급 간부(<b>소방<\/b> 수뇌부)에 속한다. 공무원의 1급 관리관,, 경찰의 치안정감... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>시설",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EC%8B%9C%EC%84%A4",
+			"description":"<b>소방<\/b>시설 (消防施設)은 화재를 탐지(감지)해서 통보함으로써 사람들을 보호하거나 대피시키고, 화재 초기단계에서 즉시 소화활동을 할 수 있도록 하며, 자동설비 또는 수동조작에 의해 화재진압을 할 수 있도록... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>총감",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EC%B4%9D%EA%B0%90",
+			"description":"<b>소방<\/b>총감 (消防總監, Fire Commander )은 <b>소방<\/b>관 계급 중 가장 높은 계급으로, <b>소방<\/b>청장으로 임명받게 된다. 차관급의 예우를 받게 되며, 치안총감(해양경찰청장 포함), 국군의 육, 해, 공군참모총장하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>의날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5772990&cid=40942&categoryId=32179",
+			"description":"1991년 12월 개정된 「<b>소방<\/b>기본법」에 근거해 제정되었다. 날짜는 매년 11월 9일이다. 재난 및 구급신고 번호인 119를 상징하는 의미가 있다. <b>소방<\/b>의 날은 과거 시행된 불조심 계몽행사에서 유래했다. 정부는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>부하",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EB%B6%80%ED%95%98",
+			"description":"<b>소방<\/b>부하 란 <b>소방<\/b>시설의 전력부하를 말한다. <b>소방<\/b>부하에는 <b>소방<\/b>시설 설치유지 및 안전관리에 관한 법률에 근거하여 설치되는 스프링클러소화설비 등 소화설비의 전력부하가 있고, 건축법에 의해 설치되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관창",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EA%B4%80%EC%B0%BD",
+			"description":"<b>소방<\/b>관창 은 <b>소방<\/b>호스(수관)에 연결하여 화재를 진압하는 데 사용하는 기구이다. 물의 분사를 만든 다음, 화점을 겨냥하여 사용한다. 수관이 꼬여 화재의 진압을 방해하는 것을 방지하는 효과도 있다. 참고 문헌... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일본 <b>소방<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%BC%EB%B3%B8_%EC%86%8C%EB%B0%A9%EC%B2%AD",
+			"description":"<b>소방<\/b>청 ( 일본어: 消防庁 しょうぼうちょう [*] , 영어: Fire and Disaster Management Agency , FDMA )은 일본의 국가<b>소방<\/b>업무를 통괄하기 위해 총무성 산하에 설치된 외청이다. 명칭을 혼동하기 쉬운 도쿄 <b>소방<\/b>청은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>맥과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2337262&cid=58505&categoryId=58527",
+			"description":"<b>소방<\/b>맥(小方脈)과 같은 뜻으로 쓰인다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> 박물관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1331304&cid=40942&categoryId=40721",
+			"description":"<b>소방<\/b> 장비와 기념물들을 전시하며, <b>소방<\/b>기기와 화재 진압의 역사를 살펴볼 수 있다.  오스트레일리아 뉴사우스웨일스주(州) 펜리스(Penrith)에 있는 박물관이다. <b>소방<\/b> 장비와 기념물들을 전시하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>시설",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6052189&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 화재예방,<b>소방<\/b>시설설치 · 유지및안전관리에 관한법률 시행령이 정하는 소화설비 · 경보설비 · 피난구조설비 · 소화용수설비 · 기타 소화활동 설비를 말함. 참고 : 건축용어대사전, 기문당",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> 박물관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=649056&cid=43128&categoryId=43128",
+			"description":" <b>소방<\/b>의 역사를 살필 수 있는 박물관으로 비락 소화기 등 다양한 소화기를 비롯해 <b>소방<\/b>차, <b>소방<\/b>호스 이동걸이, 망루종, 수동식 사이렌, 불조심 포스터 등이 전시돼 있다.  <b>소방<\/b> 박물관은 전라북도 전주시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"율리<b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=540503&cid=46649&categoryId=46649",
+			"description":"원래 문집이었으나 저자 자신이 이 문집이 한갓 웃음거리에 지나지 않는다 하여 ‘율리<b>소방<\/b>’이라 제목을 붙였다. 권1에 오언절시 38수, 칠언절시 150수, 오언사율 71수, 권2에 칠언사율 246수, 칠언고시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>호스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6619946&cid=64539&categoryId=69834",
+			"description":"스치듯 지난 일상의 시간",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_42\/20220520224946171_M9WF2YHLM.jpg\/Z29kbGltMDl8MzQ3.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>의 날",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1023295&cid=50221&categoryId=50232",
+			"description":"[내용] 화재를 예방, 경계하고 진압하는 작용을 <b>소방<\/b>(消防)이라고 한다. <b>소방<\/b>의 역사는 고대에서부터 시작되었는데 조선시대 『경국대전(經國大典)』에는 금화(禁火)로 명시되어 있다. 세종(世宗) 8년(1426)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>의 날",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%86%8C%EB%B0%A9%EC%9D%98_%EB%82%A0",
+			"description":"<b>소방<\/b>의 날 은 11월 9일이다. 국민의 안전의식과 화재에 대한 경각심을 높이고 안전문화의 정착을 위하여 매년 11월 9일을 <b>소방<\/b>의 날로 정하여 기념행사를 한다. 주관부처는 대한민국 <b>소방<\/b>청이다. 1948년 이후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"뉴욕 <b>소방<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%89%B4%EC%9A%95_%EC%86%8C%EB%B0%A9%EC%B2%AD",
+			"description":"뉴욕 <b>소방<\/b>청 ( 영어: New York City Fire Department 뉴욕시티 파이어 디파트먼트 [*] , FDNY )은 뉴욕의 <b>소방<\/b> 기관이다. 본부는 브루클린의 9메트로 테크센터 내에 있다. 뉴욕의 5개 행정구의 주민들에게 응급 처치를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도쿄 <b>소방<\/b>청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8F%84%EC%BF%84_%EC%86%8C%EB%B0%A9%EC%B2%AD",
+			"description":"도쿄 <b>소방<\/b>청 ( 일본어: 東京消防庁 도쿄쇼보초 [*] , 영어: Tokyo Fire Department , TFD )은 도쿄 도청의 내부 기관으로 도쿄 도 구부를 관할 구역으로 하는 <b>소방<\/b>본부이다. 산하에 10개 방면본부를 두고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> 수리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6052181&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 화재 진압을 위해 <b>소방<\/b>활동에서 사용하는 소화전. 방화수조, 하천 등을 말함 참고 : 건축학용어사전, 세화 [도시 및 단지] 화재, 수재등을 진압하기 위해 <b>소방<\/b> 활동시 사용하는 수리 시설 참고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"파괴 <b>소방<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6047833&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 연소가 확대되는 것을 저지하기위해 연소 중인 것이나 연소할 우려가 있는 것을 미리 파괴하는 <b>소방<\/b>전술의 하나. 참고 : 건축학용어사전, 세화 [계획 및 설계] 연소가 확대되는 것을 저지하기위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경상남도 <b>소방<\/b> 본부 의용 <b>소방<\/b>대 (창원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2639315&cid=51943&categoryId=54862",
+			"description":"[정의] 경상남도 창원시 의창구에 있는 의용 <b>소방<\/b> 단체. [개설] 17개 시군의 17개 의용 <b>소방<\/b>대 연합회로 구성된 경상남도 의용 <b>소방<\/b>대 연합회가 있다. 경상남도의 의용 <b>소방<\/b>대는 381개 시읍면대 1만 319명... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b> 계획",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6052047&cid=67350&categoryId=67350",
+			"description":"[계획 및 설계] 여러 사람이 근무, 거주하는 건물을 방화 · 피난 · <b>소방<\/b>에 관한 계획을 관리하는 것. 참고 : 건축학용어사전, 세화",
+			"thumbnail":""
+		},
+		{
+			"title":"중앙<b>소방<\/b>학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1201023&cid=40942&categoryId=34509",
+			"description":" <b>소방<\/b>공무원 및 <b>소방<\/b>공무원 임용예정자에게 <b>소방<\/b>직무에 관한 학술·기술·응용능력을 습득시키고 <b>소방<\/b>행정의 발전을 위한 조사·연구 및 구조구급 훈련을 관장하는 교육훈련기관.  1978년 7월 27일... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_380\/20210729085933664_9EAG427YU.jpg\/10865942.jpg?type=m160_160"
+		},
+		{
+			"title":"중앙<b>소방<\/b>학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=646008&cid=43124&categoryId=43124",
+			"description":" 행정안전부 <b>소방<\/b>청 소속의 <b>소방<\/b>공무원 양성 교육훈련기관.  1978년 7월 27일 <b>소방<\/b>학교 직제 공포(대통령령 제9106호)에 따라 같은 해 9월 4일 개교(경기도 수원시 파장동 184)했다. 1986년 12월 31일 현... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국<b>소방<\/b>방송",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1226813&cid=40942&categoryId=31759",
+			"description":" <b>소방<\/b>안전에 관한 유익한 정보와 화재·구조·구급 등 <b>소방<\/b> 현장의 소식을 제공할 목적으로 <b>소방<\/b>방재청에서 운영하는 인터넷방송.  <b>소방<\/b>방재청이 <b>소방<\/b>안전에 관한 유익한 정보와 화재·구조·구급 등 생생한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"불꽃 <b>소방<\/b>대",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B6%88%EA%BD%83_%EC%86%8C%EB%B0%A9%EB%8C%80",
+			"description":"불꽃 <b>소방<\/b>대 ( 일본어: 炎炎ノ消防隊 , 원제 : 염염 <b>소방<\/b>대)는 일본의 만화가인 오오쿠보 아츠시가 그린 만화이자 이를 원작으로 한 애니메이션이다. 주간 소년 매거진의 2015년 43호부터 연재를 시작하였다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>관리규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047400&cid=42279&categoryId=42279",
+			"description":" <b>소방<\/b>활동에 필요한 안전 관리 규정을 명시한 문서.  <b>소방<\/b>은 화재를 예방, 경계하거나 진압 후에 화재나 재난, 재해와 같은 위급한 상황에서 구조 및 구급활동 등을 벌이는 것을 말한다. <b>소방<\/b>의 궁극적인 목적은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129001816586_4BZW85FJQ.jpg\/hb10_11100_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"중앙<b>소방<\/b>본부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A4%91%EC%95%99%EC%86%8C%EB%B0%A9%EB%B3%B8%EB%B6%80",
+			"description":"중앙<b>소방<\/b>본부 는 대한민국 국민안전처 직속에서 <b>소방<\/b> 및 안전관리의 사무를 관장하는 대한민국의 행정 기관이었다. 2014년 <b>소방<\/b>방재청의 <b>소방<\/b>·구조·구급 업무를 인계받아 설치되었다. 서울특별시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>설비일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3382838&cid=42279&categoryId=42279",
+			"description":" <b>소방<\/b>설비일지란 <b>소방<\/b> 설비를 점검한 내용을 일별로 작성하는 서식이다.  화재 시에 <b>소방<\/b>의 역할을 수행하기 위해 설치되는 기기, 장치 및 용구를 <b>소방<\/b> 설비라 하며, 양동이나 건조사 등도 <b>소방<\/b> 설비에 포함된다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510121019164_AMS1F0J32.jpg\/hb10_21805_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"충청<b>소방<\/b>학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B6%A9%EC%B2%AD%EC%86%8C%EB%B0%A9%ED%95%99%EA%B5%90",
+			"description":"충청<b>소방<\/b>학교 (忠淸消防學校)는 충청남도, 충청북도, 대전광역시, 세종특별자치시를 관할하는 충청남도 <b>소방<\/b>본부 산하의 <b>소방<\/b>학교이다. 충청남도 천안시 동남구 유량동에 위치하고 있다. <b>소방<\/b>학교장은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>공무원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1227343&cid=40942&categoryId=31713",
+			"description":" 국가<b>소방<\/b>공무원과 지방<b>소방<\/b>공무원의 책임 및 직무의 중요성과 신분 및 근무조건의 특수성에 비추어 그 임용·교육훈련·복무·신분보장 등에 관해 국가공무원법과 지방공무원법에 대한 특례를 규정한 법... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>소방<\/b>안전일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047413&cid=42279&categoryId=42279",
+			"description":" <b>소방<\/b>안전 상태의 점검 결과를 일자별로 기재한 문서.  <b>소방<\/b>안전일지란 화재예방을 위해 <b>소방<\/b> 안전 상태를 점검하여 기록하는 표 형식의 문서를 말한다. <b>소방<\/b>안전일지의 작성자는 각 점검 항목에 대한 결과를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129001841831_CU3B3O253.jpg\/hb10_11113_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>소방<\/b>교육일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047403&cid=42279&categoryId=42279",
+			"description":" <b>소방<\/b> 교육을 시행하고 그 내용을 기재한 문서.  <b>소방<\/b>교육일지란 직원들을 대상으로 <b>소방<\/b>교육 및 훈련을 시행하고, 그 내용을 보고하기 위해 작성하는 문서를 말한다. 일지를 작성하는 담당자는 교육에 참가한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129001816976_Y10MEJ3MY.jpg\/hb10_11103_i1.jpg?type=m160_160"
+		}
+	]
+}

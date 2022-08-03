@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:37 +0900",
+	"total":881,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한은 대경본부, &quot;대구·경북 MZ세대 일자리 공급정책·근무환경 개선필요&quot;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220726_0001956939&cID=10810&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011327492?sid=102",
+			"description":"경북은 <b>농림어업<\/b>이 증가한 것으로 나타났다. 대구의 X세대는 금융·보험서비스업의 판매종사자가 감소하고... 특유의 <b>직무<\/b>생태계 조성 ▲MZ세대를 위한 MZ세대형 일자리 창출 및 창업지원 ▲지역 직업훈련 인프라... ",
+			"pubDate":"Tue, 26 Jul 2022 16:25:00 +0900"
+		},
+		{
+			"title":"정부부처 주간일정 및 보도계획(25~29일)",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022072409291524712",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004774509?sid=101",
+			"description":"(오전) *임금<b>직무<\/b>혁신포럼 개최(임금체계 개편 관련)(오후) 29일(금) *권기섭 고용부 차관, 미래 노동시장... 서울) ◆<b>농림<\/b>축산식품부 25일(월) *정황근 장관, 국장회의(오전9시30분, 세종) *김인중 차관, 국장회의... ",
+			"pubDate":"Sun, 24 Jul 2022 10:58:00 +0900"
+		},
+		{
+			"title":"[정부 주요 일정] 경제·사회부처 주간 일정 (7월 25일 ~ 29일)",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2156610",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2156610",
+			"description":"발표 △임금<b>직무<\/b>혁신포럼 개최(임금체계 개편 관련) 29일(금) △고용부 차관 14:00 미래 노동시장 연구회 워크숍(서울) ◇<b>농림<\/b>축산식품부 25일(월) △농식품부 장관 09:30 국장회의(세종) △농식품부 차관 09:30... ",
+			"pubDate":"Sun, 24 Jul 2022 09:52:00 +0900"
+		},
+		{
+			"title":"[카드뉴스] 강원도 주요뉴스 (7월 14일)",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=505902",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=505902",
+			"description":"둘째,&apos;지역내총생산 100조원&apos;은 반도체 등 미래산업 육성, <b>농림어업<\/b>․관광산업 고도화를 통해 강원도를... 통합 <b>직무<\/b>교육을 실시한다. 매년 실시되고 있는 지도자 교육은 배정학교 경기(배정)지도자와 지역일선에서... ",
+			"pubDate":"Thu, 14 Jul 2022 17:50:00 +0900"
+		},
+		{
+			"title":"Sh수협은행, <b>어업<\/b>인 금융지원 확대…금융부담 경감 지원 [은행오늘]",
+			"originallink":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=140893",
+			"link":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=140893",
+			"description":"아울러 수협은행은 <b>농림<\/b>수산업자신용보증기금과의 협력을 통해 담보력이 미약한 <b>어업<\/b>인과 수산업자의... &apos;Hana Waves&apos; 2기로 선발된 36명의 여성 리더들은 올해 말까지 △그룹 멘토링 △온라인 MBA △전문 <b>직무<\/b>과정... ",
+			"pubDate":"Thu, 14 Jul 2022 15:12:00 +0900"
+		},
+		{
+			"title":"[외국인 인력 대전환 모색하자-끝]④정부 통합관리체계 구축·일원화…이민청...",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20220707500021",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20220707500021",
+			"description":"김기문 중소기업중앙회장은 &quot;IT, 기술<b>직무<\/b> 등 숙련이 요구되는 분야에 수요자인 기업이 직접 국내 연수를... 행정안전부, <b>농림<\/b>축산식품부, 해양수산부 등이 긴밀하게 협동할 수 있는 체계가 필요하다. 이와 동시에 향후... ",
+			"pubDate":"Thu, 07 Jul 2022 08:46:00 +0900"
+		},
+		{
+			"title":"지난 5년간 고용 양극화와 노동력 유휴화 심화...민간부문 활력 제고 시급",
+			"originallink":"http:\/\/www.efnews.co.kr\/news\/articleView.html?idxno=97103",
+			"link":"http:\/\/www.efnews.co.kr\/news\/articleView.html?idxno=97103",
+			"description":"지난 5년간 업종별 고용 증가 기여율은 보건·사회복지서비스업 56.6%, <b>농림어업<\/b> 24.2%, 운수·창고업 19.1... 이어 &quot;네거티브 규제 원칙 확립, 규제관리시스템 도입 등 과감한 규제 혁파와 기간제·파견제도 개선, <b>직무<\/b>... ",
+			"pubDate":"Tue, 05 Jul 2022 12:34:00 +0900"
+		},
+		{
+			"title":"‘대도약, 전남 행복시대’ 도민 자긍심 높이겠다",
+			"originallink":"http:\/\/www.jndn.com\/article.php?aid=1656837353339718003",
+			"link":"http:\/\/www.jndn.com\/article.php?aid=1656837353339718003",
+			"description":"시·도지사 <b>직무<\/b>수행지지도에서 좋은 평가를 받았다. -선거 과정에서 많은 공약을 발표했다. 간단하게... ‘전남 사랑애 농<b>어업<\/b> 서포터즈’ 100만 명을 키울 계획이다. 농·<b>어업<\/b>의 공익적 가치를 지키고 전남 농수특산물을... ",
+			"pubDate":"Sun, 03 Jul 2022 17:38:00 +0900"
+		},
+		{
+			"title":"손병복 울진군수 취임사",
+			"originallink":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=130435",
+			"link":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=130435",
+			"description":"등 <b>농림어업<\/b>의 환경개선과 투자를 아끼지 않겠습니다. 현재 울진군에서 무엇보다 시급한 현안은 산불 피해를... 공무원의 기본 덕목 중 하나인 <b>직무<\/b>에 대한 전문성과 창의력을 갖추고 , 업무에 대한 주인의식으로... ",
+			"pubDate":"Sat, 02 Jul 2022 07:04:00 +0900"
+		},
+		{
+			"title":"울진군, 제48대 손병복 울진군수 취임",
+			"originallink":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=579755",
+			"link":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=579755",
+			"description":"등 <b>농림어업<\/b>의 환경개선과 투자를 아끼지 않겠습니다. 현재 울진군에서 무엇보다 시급한 현안은 산불 피해를... 공무원의 기본 덕목 중 하나인 <b>직무<\/b>에 대한 전문성과 창의력을 갖추고, 업무에 대한 주인의식으로... ",
+			"pubDate":"Fri, 01 Jul 2022 18:54:00 +0900"
+		},
+		{
+			"title":"[인사] 법무부 외",
+			"originallink":"http:\/\/www.readersnews.com\/news\/articleView.html?idxno=106143",
+			"link":"http:\/\/www.readersnews.com\/news\/articleView.html?idxno=106143",
+			"description":"이동희 ▲ &quot; <b>어업<\/b>진흥과장 박선우 ▲ 농산물원종장장 임연호 ▲ 감자종자진흥원장 최창환 ▲ 도로관리사업소장 김동균 ▲ 동물위생시험소장 서종억 ▲ 한해성수산자원센터소장 임순형 ▲ 총무행정관실 김순하 ■ <b>농림<\/b>축... ",
+			"pubDate":"Tue, 28 Jun 2022 17:58:00 +0900"
+		},
+		{
+			"title":"[인사] <b>농림<\/b>축산식품부, 강원도, 경기도소방재난본부, 경남 진주시",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=285271",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=285271",
+			"description":"◆<b>농림<\/b>축산식품부 과장급 전보 △축산정책국 축산경영과장 정재환 과장급 승진 △방역정책국... 배영주 △첨단산업국장 <b>직무<\/b>대리 김광진 △글로벌투자통상국장 <b>직무<\/b>대리 윤인재 △동해안권경제자유구역청 총괄본부장... ",
+			"pubDate":"Tue, 28 Jun 2022 17:34:00 +0900"
+		},
+		{
+			"title":"[오늘의 인사] 행정안전부·중앙선거관리위원회·광주은행 外",
+			"originallink":"http:\/\/www.mediapen.com\/news\/view\/734078",
+			"link":"http:\/\/www.mediapen.com\/news\/view\/734078",
+			"description":"이동희 ▲ &quot; <b>어업<\/b>진흥과장 박선우 ▲ 농산물원종장장 임연호 ▲ 감자종자진흥원장 최창환 ▲ 도로관리사업소장 김동균 ▲ 동물위생시험소장 서종억 ▲ 한해성수산자원센터소장 임순형 ▲ 총무행정관실 김순하 [<b>농림<\/b>축산... ",
+			"pubDate":"Mon, 27 Jun 2022 21:54:00 +0900"
+		},
+		{
+			"title":"새 정부 새 해수부가 풀어야 할 10대 수산 과제",
+			"originallink":"http:\/\/www.hdhy.co.kr\/news\/articleView.html?idxno=17150",
+			"link":"http:\/\/www.hdhy.co.kr\/news\/articleView.html?idxno=17150",
+			"description":"소속기관장까지 포함하더라도 전체 5명의 1급 중 수산청-<b>농림<\/b>수산식품부 출신은 한 명도 없다. 모두... 물론 장관 후보자는 집안이 <b>어업<\/b>을 했다고 피력하지만, <b>직무<\/b> 연관성이나 수산에 대한 애정도는 많이 떨어진다는... ",
+			"pubDate":"Tue, 14 Jun 2022 06:56:00 +0900"
+		},
+		{
+			"title":"(영상)경영계 &quot;최저임금 업종별 구분해야&quot;",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1128241&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1128241&inflow=N",
+			"description":"않다&quot;며 &quot;<b>농림어업<\/b>, 숙박·음식점업과 같이 최저임금 미만율이 과도하게 높은 일부 업종은 이미 노동 시장... 합리적인 구분 기준은 업종별(66.5%), <b>직무<\/b>별(47.2%), 규모별(28.9%), 연령별(11.8%), 지역별(7.5%) 순으로 조사됐다.... ",
+			"pubDate":"Mon, 13 Jun 2022 12:02:00 +0900"
+		},
+		{
+			"title":"2022년 6월 둘째주 금주의 채용정보",
+			"originallink":"https:\/\/misaeng.chosun.com\/site\/data\/html_dir\/2022\/06\/10\/2022061001173.html?utm_source=naver&utm_medium=referral&utm_campaign=misaeng",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003696756?sid=102",
+			"description":"서류전형에서는 입사준비도, <b>직무<\/b>수행력, 적극성, 전문성 등을 평가하며, 합격기준은 심사위원별... 안전,<b>농림어업<\/b>,연구 등 지원자격: 학력무관,대졸(2~3년),대졸(4년) 지원방법: 온라인 지원 KT&amp;G 접수기간: 2022.05.20~2022.... ",
+			"pubDate":"Fri, 10 Jun 2022 12:13:00 +0900"
+		},
+		{
+			"title":"[천지일보 이슈종합] 지방선거 마지막 유세·원숭이두창·밀양 산불·손실보전...",
+			"originallink":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=987134",
+			"link":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=987134",
+			"description":"31일 통계청 산업활동동향에 따르면 4월 전(全)산업 생산(계절조정·<b>농림어업<\/b> 제외) 지수는 116.4(2015년=100)로... ◆&apos;대통령 친인척 감찰&apos; 특별감찰관 폐지되나… &quot;견제약화, 재가동해야&quot;☞ 고위공직자범죄수사처와 <b>직무<\/b>가... ",
+			"pubDate":"Wed, 01 Jun 2022 07:02:00 +0900"
+		},
+		{
+			"title":"[충북지사 여론조사] 김영환 47.7% vs 노영민 36.6%",
+			"originallink":"https:\/\/www.cjb.co.kr\/home\/sub.php?menukey=61&mod=view&P_NO=220526517&PRO_CODE=99",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/655\/0000002234?sid=100",
+			"description":"&lt;그래픽3&gt; 직업별로는 노 후보가 화이트칼라 층인 사무, 관리, 전문직의 지지가 높았고 김 후보는 <b>농림어업<\/b>과 자영업, 기능직, 가정주부의 지지가 높았습니다. &lt;그래픽4&gt; 윤석열 대통령 <b>직무<\/b> 수행 지지도는 긍정이 66.5... ",
+			"pubDate":"Thu, 26 May 2022 21:21:00 +0900"
+		},
+		{
+			"title":"폭등 <b>어업<\/b>용 면세경유… 유가연동보조금 지급되나",
+			"originallink":"http:\/\/www.busan.com\/view\/busan\/view.php?code=2022052419081997353",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001157128?sid=101",
+			"description":"국회 <b>농림<\/b>축산식품해양수산위원회(이하 농해수위) 위성곤 위원장(<b>직무<\/b>대리)은 24일 “2022년도 제2차 추경(추가경정)예산에 ‘<b>어업<\/b>용 면세유 유가연동보조금 지원사업’이 반영돼야 한다”고 주장했다. 해양수산부와... ",
+			"pubDate":"Tue, 24 May 2022 19:14:00 +0900"
+		},
+		{
+			"title":"&quot;<b>어업<\/b>용 면세유 유가연동보조금 지원을&quot;",
+			"originallink":"http:\/\/www.agrinet.co.kr\/news\/articleView.html?idxno=309682",
+			"link":"http:\/\/www.agrinet.co.kr\/news\/articleView.html?idxno=309682",
+			"description":"<b>어업<\/b>용 면세유 가격 폭등으로 어민들의 고통이 커지고 있는 가운데, 국회 <b>농림<\/b>축산식품해양수산위원회 위성곤 위원장(<b>직무<\/b>대리)이 &quot;2022년도 제2차 추경예산에 <b>어업<\/b>용 면세유 유가연동 보조금 지원사업이 반영돼야... ",
+			"pubDate":"Tue, 24 May 2022 17:50:00 +0900"
+		},
+		{
+			"title":"위성곤 의원 <b>어업<\/b>용 면세유 보조금 지원 촉구",
+			"originallink":"http:\/\/www.jemin.com\/news\/articleView.html?idxno=737768",
+			"link":"http:\/\/www.jemin.com\/news\/articleView.html?idxno=737768",
+			"description":"위성곤 국회의원(서귀포시, 국회 <b>농림<\/b>축산식품해양수산위원장 <b>직무<\/b>대리)은 올해 제2차 정부 추가경정 예산에 <b>어업<\/b>용 면세유 유가연동 보조금 지원사업이 반영돼야 한다고 촉구했다. 정부는 대중교통과 물류업계 및... ",
+			"pubDate":"Tue, 24 May 2022 15:56:00 +0900"
+		},
+		{
+			"title":"위성곤 국회의원 &quot;<b>어업<\/b>용 면세유 유가연동보조금 지원&quot; 촉구",
+			"originallink":"http:\/\/www.jejuilbo.net\/news\/articleView.html?idxno=184184",
+			"link":"http:\/\/www.jejuilbo.net\/news\/articleView.html?idxno=184184",
+			"description":"국회 <b>농림<\/b>축산식품해양수산위원회(이하 농해수위) 위성곤 위원장(<b>직무<\/b>대리.사진)은 23일 &quot;2022년도 제2차 추경예산에 <b>어업<\/b>용 면세유 유가연동 보조금 지원사업이 반영돼야 한다&quot;라고 주장했다. 정부는 대중교통... ",
+			"pubDate":"Tue, 24 May 2022 14:50:00 +0900"
+		},
+		{
+			"title":"위성곤 의원 &quot;<b>어업<\/b>용 면세유 유가연동보조금 지원&quot; 촉구",
+			"originallink":"http:\/\/www.headlinejeju.co.kr\/news\/articleView.html?idxno=487038",
+			"link":"http:\/\/www.headlinejeju.co.kr\/news\/articleView.html?idxno=487038",
+			"description":"위성곤 의원 ⓒ헤드라인제주 국회 <b>농림<\/b>축산식품해양수산위원회 위성곤 위원장(<b>직무<\/b>대리)은 23일 올해 제2차 추경예산에 <b>어업<\/b>용 면세유 유가연동 보조금 지원사업 반영을 촉구했다. 위 의원에 따르면, 정부는 대중교통... ",
+			"pubDate":"Mon, 23 May 2022 20:28:00 +0900"
+		},
+		{
+			"title":"위성곤 의원 &quot;<b>어업<\/b>용 면세유 유가연동보조금 지원&quot; 촉구",
+			"originallink":"http:\/\/www.busan.com\/view\/busan\/view.php?code=2022052319231967718",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001156950?sid=101",
+			"description":"국회 <b>농림<\/b>축산식품해양수산위원회(이하 농해수위) 위성곤 위원장(<b>직무<\/b>대리)은 23일 “2022년도 제2차 추경예산에 <b>어업<\/b>용 면세유 유가연동 보조금 지원사업이 반영돼야 한다”고 주장했다. 이날 해양수산부와 위성곤... ",
+			"pubDate":"Mon, 23 May 2022 19:34:00 +0900"
+		},
+		{
+			"title":"유가 폭등에 <b>어업<\/b>인 면세유 고충 챙긴 위성곤 위원장",
+			"originallink":"http:\/\/www.jejusori.net\/news\/articleView.html?idxno=403842",
+			"link":"http:\/\/www.jejusori.net\/news\/articleView.html?idxno=403842",
+			"description":"ⓒ제주의소리 국회 <b>농림<\/b>축산식품해양수산위원회(이하 농해수위) 위성곤 위원장(<b>직무<\/b>대리)은 23일 &quot;올해 제2차 추경예산에 <b>어업<\/b>용 면세유 유가연동 보조금 지원 사업이 반영돼야 한다&quot;고 주장했다. 위성곤 위원장에... ",
+			"pubDate":"Mon, 23 May 2022 17:50:00 +0900"
+		},
+		{
+			"title":"정부 추경안, 코로나 최대 피해 농수산업 ‘외면’...“우린 국민 아닌가?” ...",
+			"originallink":"http:\/\/www.mediapen.com\/news\/view\/724275",
+			"link":"http:\/\/www.mediapen.com\/news\/view\/724275",
+			"description":"농·<b>어업<\/b>인들에게는 &apos;인색&apos;하기만 하다. <b>농림<\/b>축산식품부 청사\/사진=미디어펜 국회에 제출된 정부... 국회 <b>농림<\/b>축산식품해양수산위원회 위원장 <b>직무<\/b>대리인 더불어민주당 위성곤 의원도 이날 보도자료를 내고, 이번... ",
+			"pubDate":"Tue, 17 May 2022 09:54:00 +0900"
+		},
+		{
+			"title":"2022년 5월 첫째주 금주의 채용정보",
+			"originallink":"https:\/\/misaeng.chosun.com\/site\/data\/html_dir\/2022\/05\/04\/2022050401167.html?utm_source=naver&utm_medium=referral&utm_campaign=misaeng",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003689588?sid=102",
+			"description":"채용 과정은 1차 면접(<b>직무<\/b> 면접), 2차 면접(문화 적합성 면접), 3차면접(CEO 면접) 등의 과정으로 진행된다.... 안전,<b>농림어업<\/b>,연구 지원자격: 학력무관,대졸(4년),석사,박사 지원방법: 온라인 지원 -한국수출입은행... ",
+			"pubDate":"Thu, 05 May 2022 11:01:00 +0900"
+		},
+		{
+			"title":"조승환 &quot;복수차관제 도입해야…범정부차원 해양정책기구 필요&quot;",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=888122",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=888122",
+			"description":"조 후보자는 이날 국회 <b>농림<\/b>축산식품해양수산위원회의 인사청문회에서 더불어민주당 서삼석 의원이 &apos;정부조직법 개정을 통해 복수차관제 도입이 필요하냐&apos;고 물은 데 대해 &quot;수산자원 관리나 <b>어업<\/b>인 소득·복지 향상, 첨단... ",
+			"pubDate":"Wed, 04 May 2022 21:10:00 +0900"
+		},
+		{
+			"title":"조승환 &quot;범정부차원 해양정책기구 필요&quot;…“‘북항 사태’ 논란 잘 살펴보겠다...",
+			"originallink":"http:\/\/www.busan.com\/view\/busan\/view.php?code=2022050420235069124",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001154189?sid=101",
+			"description":"조 후보자는 이날 국회 <b>농림<\/b>축산식품해양수산위원회의 인사청문회에서 ‘미국과 일본 같이 대통령 또는... 관리나 <b>어업<\/b>인 소득·복지 향상, 첨단 양식수산 정책 수요 대응을 위해서는 (복수차관) 신설이 필요하다&quot;고... ",
+			"pubDate":"Wed, 04 May 2022 21:03:00 +0900"
+		},
+		{
+			"title":"조승환, 각종 의혹에 사과…&quot;어촌소멸 방지 1순위 정책&quot; (종합)",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03581766632325640",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005208018?sid=101",
+			"description":"이날 오전 10시에 열린 국회 <b>농림<\/b>축산식품해양수산위원회 인사청문회는 47분 만에 중단됐다. 조승환... 위성곤 위원장 <b>직무<\/b>대리는 이 문제를 논의하기 위해 오전 10시 53분 정회를 선언했다. 병역기피 부인…사무실 특혜는... ",
+			"pubDate":"Wed, 04 May 2022 20:27:00 +0900"
+		},
+		{
+			"title":"조승환 &quot;복수차관제 도입해야…범정부차원 해양정책기구 필요&quot;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220504161800003?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013158513?sid=100",
+			"description":"조 후보자는 이날 국회 <b>농림<\/b>축산식품해양수산위원회의 인사청문회에서 더불어민주당 서삼석 의원이 &apos;정부조직법 개정을 통해 복수차관제 도입이 필요하냐&apos;고 물은 데 대해 &quot;수산자원 관리나 <b>어업<\/b>인 소득·복지 향상, 첨단... ",
+			"pubDate":"Wed, 04 May 2022 20:02:00 +0900"
+		},
+		{
+			"title":"&apos;아빠찬스 의혹&apos; 조승환, 자료 못낸 이유가…&quot;애들이 MZ세대라&quot;",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022050414180167650",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004741970?sid=101",
+			"description":"━ &quot;CPTPP 결정에 <b>어업<\/b>인 의견 수렴 부족…후쿠시마 수입은 논의 대상 안돼&quot; ━ 국회 <b>농림<\/b>축산식품해양수산위... 등에 <b>직무<\/b>관련 부적절한 글을 올렸다는 지적 △해양수산과학기술진흥원장 시절 근무 중 행정사 교육을... ",
+			"pubDate":"Wed, 04 May 2022 16:50:00 +0900"
+		},
+		{
+			"title":"조승환 “CPTPP 가입취지 이해하지만…수산피해 별도 대책 필요해”",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1110717\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002601095?sid=101",
+			"description":"조 후보자는 이날 국회 <b>농림<\/b>축산식품해양수산위원회의 의원들의 &quot;CPTPP 가입 절차 진행 중인데, 후보자는... 또한 제주 출신의 위성곤 위원장 <b>직무<\/b>대리의 연안<b>어업<\/b>과 관련한 감척사업이 본래 수산자원 보호 등의 취지와... ",
+			"pubDate":"Wed, 04 May 2022 16:43:00 +0900"
+		},
+		{
+			"title":"이정식 후보 &quot;文정부 역대 최저실업률은 착시&quot;",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=397198&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004959366?sid=101",
+			"description":"이 후보자는 <b>직무<\/b>급제 등 임금체계 개편에 대해서도 &quot;노사가 자율적으로 결정할 문제&quot;라며 선을 그었다. 같은 날 국회 <b>농림<\/b>축산식품해양수산위원회에서 진행된 조승환 해수부 장관 후보자 인사청문회는 시작된 지 50여분... ",
+			"pubDate":"Wed, 04 May 2022 15:51:00 +0900"
+		},
+		{
+			"title":"[Who Is ?] 김진균 Sh수협은행 은행장",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=279839",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=279839",
+			"description":"어떤 <b>직무<\/b>에 맞는지를 서술하는 것이 포인트&quot;라고 말했다. △금리인하 요구 수용률 50%에도 못 미쳐 Sh수협은행의 2021년 금리인하 요구 수용률은 40%로 2016년의 절반에도 못 미치는 것으로 나타났다. 국회 <b>농림<\/b>축산식... ",
+			"pubDate":"Wed, 04 May 2022 08:40:00 +0900"
+		},
+		{
+			"title":"최저임금 차등적용 하자는 고용주 단체, 취지는 어디로?",
+			"originallink":"https:\/\/www.sisain.co.kr\/news\/articleView.html?idxno=47300",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/308\/0000030772?sid=100",
+			"description":"미만율’은 <b>농림어업<\/b>이 51.3%로 가장 높고, 숙박음식업이 42.6%로 뒤를 이었다(2020년). 이처럼 노동자의... 산업별 임금 교섭을 활성화해 자연스럽게 산업별 적정임금 수준이 형성되도록 환경을 조성하고, <b>직무<\/b> 가치에 대한... ",
+			"pubDate":"Thu, 28 Apr 2022 05:45:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 일정] &apos;인보사 사태&apos; 이우석 코오롱생명과학 대표 공판",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=110543",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=110543",
+			"description":"245호) <b>농림<\/b>축산식품해양수산위원회 <b>농림<\/b>축산식품법안심사소위(14:00 본관 501호) ▲ 더불어민주당... 경북<b>어업<\/b>기술센터) ▲ 제40차 대구스타트업 리더스포럼(16:00 대구창조경제혁신센터) [경남] ▲ 제394회 도의회... ",
+			"pubDate":"Wed, 27 Apr 2022 07:02:00 +0900"
+		},
+		{
+			"title":"[인사]강원도 2022년 4월 13일",
+			"originallink":"http:\/\/www.kwnews.co.kr\/nview.asp?aid=222041200033",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/087\/0000891050?sid=102",
+			"description":"동물방역과(<b>농림<\/b>축산식품부 파견) 최봉출(동물위생시험소 방역과장) △환동해본부 수산정책과(승진) 정선홍(환동해본부 수산정책과) △환동해본부 <b>어업<\/b>진흥과(승진) 박상덕(환동해본부 <b>어업<\/b>진흥과) △한해성수산자원센터... ",
+			"pubDate":"Wed, 13 Apr 2022 00:13:00 +0900"
+		},
+		{
+			"title":"[정부 주요 일정] 경제·사회부처 주간 일정 (4월 11일~15일)",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2122276",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2122276",
+			"description":"농업<b>어업<\/b>조사 결과(조간) 13일(수) △부총리 07:30 관계장관회의(비공개), 08:00 부동산시장 점검... 지원한다 ◇<b>농림<\/b>축산식품부 11일(월) △유엔 식량농업기구(FAO) 특별 이사회 참석 결과 △골칫거리 가축분뇨... ",
+			"pubDate":"Sun, 10 Apr 2022 09:36:00 +0900"
+		},
+		{
+			"title":"4차 산업시대 고령층 재취업, &quot;73세까지 일하고 싶어&quot;",
+			"originallink":"https:\/\/bravo.etoday.co.kr\/view\/atc_view.php?varAtcId=13309",
+			"link":"https:\/\/bravo.etoday.co.kr\/view\/atc_view.php?varAtcId=13309",
+			"description":"이어 도소매·숙박음식업(17.6%), <b>농림어업<\/b>(13.6%) 순으로 높았다. 직업별 분포를 보면, 단순노무종사자(25.6... 특히 데이터 보안, 항공(드론) 관련 <b>직무<\/b>가 늘어날 것으로 예상된다. 특히 4차 산업시대를 맞아 기업이... ",
+			"pubDate":"Tue, 29 Mar 2022 10:34:00 +0900"
+		},
+		{
+			"title":"[인사] 과학기술정보통신부 외",
+			"originallink":"http:\/\/www.readersnews.com\/news\/articleView.html?idxno=105173",
+			"link":"http:\/\/www.readersnews.com\/news\/articleView.html?idxno=105173",
+			"description":"사무국장(<b>직무<\/b>대리) 홍상의 ■ 기상청 ▲ 부산지방기상청장 김현경 ■ 제주대학교 ▲ 아라캠퍼스 부총장 겸... 임하수 ■ <b>농림<\/b>축산식품부 ◇ 국장급 개방형직위 임용 ▲ 국립종자원장 김기훈 ■ 국무조정실·국무총리비서실... ",
+			"pubDate":"Tue, 08 Mar 2022 17:56:00 +0900"
+		},
+		{
+			"title":"[인사종합] 산업부·해수부·농식품부 등",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=108529",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=108529",
+			"description":"승진 ▲<b>어업<\/b>정책과장 임태훈 ■ 과학기술정보통신부   ◇국장급 승진 ▲성과평가정책국장 오대현... 김영노 ■ <b>농림<\/b>축산식품부 ◇국장급 개방형직위 임용 ▲국립종자원장 김기훈 ■ 산림청  ◇고위공무원 승진... ",
+			"pubDate":"Tue, 08 Mar 2022 16:42:00 +0900"
+		},
+		{
+			"title":"[뉴스락 특별기획 ∣ 2022 공기업-공공기관 긴급진단 ⑮ 한국농수산식품유통공...",
+			"originallink":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=53885",
+			"link":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=53885",
+			"description":"대한 <b>직무<\/b>수행 실적을 평가했다. 평가단은 2020년도 역시 지난 2018년부터 강화된 사회적 가치(윤리경영... 위원장 △<b>농림어업<\/b> 및 국민 식생활발전포럼 상임 대표 △더불어민주당 AI 구제역확산방지특별위원장 △문재인... ",
+			"pubDate":"Tue, 08 Mar 2022 16:24:00 +0900"
+		},
+		{
+			"title":"[지자체 오늘 뉴스] 고양시 고창군 고흥군",
+			"originallink":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=373213",
+			"link":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=373213",
+			"description":"개인별 취업준비와 희망<b>직무<\/b>, 스펙에 맞는 컨설팅이 가능해 높은 만족도를 보이는 프로그램으로 연 최대... [고창군, 농식품부 40억원 &apos;발효식초산업 플랫폼 구축사업&apos; 선정] 고창식초 아카데미 고창군이 <b>농림<\/b>축산식품부... ",
+			"pubDate":"Fri, 04 Mar 2022 10:06:00 +0900"
+		},
+		{
+			"title":"신산업 인재 키우고 메가시티 추진… 지역경제 회생 ‘고군분투’ [지방을 살...",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/02\/23\/20220223515915.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003670306?sid=102",
+			"description":"최근 LG전자와 채용연계형 <b>직무<\/b>실습(인턴십)을 운영해 이 과정을 이수한 학생 20명 가운데 12명이 채용되기도... 지난해 통계청의 <b>농림어업<\/b>총조사 지역조사 결과에 따르면 전국 읍·면의 리(里) 단위 마을의 69.4%는 차량으로... ",
+			"pubDate":"Thu, 24 Feb 2022 06:03:00 +0900"
+		},
+		{
+			"title":"고령화 심화·식량안보 휘청… ‘선택직불제’로 파고 넘어야",
+			"originallink":"http:\/\/www.nongmin.com\/article\/ar_detail.htm?ar_id=613204",
+			"link":"http:\/\/www.nongmin.com\/article\/ar_detail.htm?ar_id=613204",
+			"description":"통계청이 지난해 내놓은 ‘2020년 <b>농림어업<\/b>총조사’에 따르면 경영주가 65세 이상인 농가는 58만곳으로... 손주호 국산밀산업협회 대표 <b>직무<\/b>대행은 “최근 수입 옥수수 통관가격이 사료용 기준으로 지난해 같은 때 대비... ",
+			"pubDate":"Wed, 23 Feb 2022 00:22:00 +0900"
+		},
+		{
+			"title":"비대면 수업, 산업체 맞춤형 전문인력 양성 &apos;제동&apos;",
+			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=650070",
+			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=650070",
+			"description":"산업체 등에서 요구하는 <b>직무<\/b>관련 능력을 제대로 갖추지 못하게 되면 취업에도 큰 영향을 끼치기... 여기에는 해외취업자와 <b>농림어업<\/b> 종사자, 개인 창작활동 종사자, 1인 창업자, 프리랜서 등도 모두 포함돼... ",
+			"pubDate":"Sun, 13 Feb 2022 19:02:00 +0900"
+		},
+		{
+			"title":"-4만명 vs +9만명…취업시장 ‘문송’ 갈수록 심해진다",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25038185",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003164249?sid=101",
+			"description":"그는 “국비 지원 교육이나 취업 연계 프로그램에는 IT·프로그래밍 등 이공계 <b>직무<\/b>가 많아 문과 <b>직무<\/b>... 반면에 ▶교육 ▶예술 ▶자연과학·수학·통계학 ▶정보통신기술 ▶공학·제조·건설 ▶<b>농림어업<\/b>·수의학 ▶보건... ",
+			"pubDate":"Wed, 05 Jan 2022 00:02:00 +0900"
+		},
+		{
+			"title":"코로나에 심화한 ‘문송합니다’…문과 전공 취업만 더 힘들어졌다",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25038075",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003164141?sid=101",
+			"description":"그렇다고 그동안 준비해 온 문과 <b>직무<\/b> 관련 자격증과 경력을 이제 와서 이공계로 바꿀 수도 없다. 그는... 반면 ▶교육 ▶예술 ▶자연과학ㆍ수학ㆍ통계학 ▶정보통신기술 ▶공학ㆍ제조ㆍ건설 ▶<b>농림어업<\/b>ㆍ수의학... ",
+			"pubDate":"Tue, 04 Jan 2022 15:15:00 +0900"
+		},
+		{
+			"title":"광주시장·전남지사 광주일보 신년 여론조사 긍정평가 배경은",
+			"originallink":"http:\/\/www.kwangju.co.kr\/article.php?aid=1641215400731643004",
+			"link":"http:\/\/www.kwangju.co.kr\/article.php?aid=1641215400731643004",
+			"description":"이 시장은 앞서 지난달 리얼미터가 발표한 ‘2021년 11월 광역자치 단체장(민선 7기 시도지사) <b>직무<\/b>수행... 2%)·농·임·<b>어업<\/b>(66.9%), 더불어민주당(70.2%) 지지층 등에서 평균보다 높게 나타났다. 현 김영록 전남지사의 도정... ",
+			"pubDate":"Mon, 03 Jan 2022 22:12:00 +0900"
+		},
+		{
+			"title":"정부 부처 주간일정 및 보도계획(3~7일)",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022010207405890690",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004690827?sid=101",
+			"description":"(오전) *연근해<b>어업<\/b> 구조개선 및 지원에 관한 법률 개정(오전) *항로표지 국가기술자격증 취득은 여기가... ◆<b>농림<\/b>축산식품부 3일(월) *지역 먹거리계획 추진 근거 마련을 위한 농업농촌 및 식품산업 기본법 개정안... ",
+			"pubDate":"Sun, 02 Jan 2022 14:19:00 +0900"
+		},
+		{
+			"title":"[신년사] 문제의 해법, 결국은 사람입니다.",
+			"originallink":"http:\/\/www.youngnong.co.kr\/news\/articleView.html?idxno=36467",
+			"link":"http:\/\/www.youngnong.co.kr\/news\/articleView.html?idxno=36467",
+			"description":"농ㆍ<b>어업<\/b> 이민비자 도입도 적극 추진할 예정이라고 합니다. 바야흐로 우리나라에 농업이민 시대가 열리는 것입니다. <b>농림<\/b>축산식품부 직원들이 &apos;농촌일손돕기&apos; 활동에 참여해 작업을 하고 있다. [사진=농식품부]... ",
+			"pubDate":"Sat, 01 Jan 2022 07:02:00 +0900"
+		},
+		{
+			"title":"[인사] 폴리뉴스 외",
+			"originallink":"http:\/\/www.readersnews.com\/news\/articleView.html?idxno=104711",
+			"link":"http:\/\/www.readersnews.com\/news\/articleView.html?idxno=104711",
+			"description":"이상훈(<b>어업<\/b>보상부장) ▲ 이주황(서울강남지사 부장) ▲ 김순곤(서울강남지사 부장) ▲ 한정옥(성남지사... 승진 ▲ <b>농림<\/b>축산국장 임승범 ▲ 기후환경국장 안재수 ▲ 해양수산국장 윤진섭 ▲ 정책기획관(<b>직무<\/b>대리) 김영관... ",
+			"pubDate":"Wed, 22 Dec 2021 17:58:00 +0900"
+		},
+		{
+			"title":"[12월 22일 인사] 국토교통부·한국수자원공사·국민권익위원회·광주시교육청...",
+			"originallink":"https:\/\/www.news2day.co.kr\/article\/20211222500244",
+			"link":"https:\/\/www.news2day.co.kr\/article\/20211222500244",
+			"description":"승진 ▷ <b>농림<\/b>축산국장 임승범 ▷ 기후환경국장 안재수 ▷ 해양수산국장 윤진섭 ▷ 정책기획관(<b>직무<\/b>대리)... 이상훈(<b>어업<\/b>보상부장) ▷ 이주황(서울강남지사 부장) ▷ 김순곤(서울강남지사 부장) ▷ 한정옥(성남지사 부장)... ",
+			"pubDate":"Wed, 22 Dec 2021 17:32:00 +0900"
+		},
+		{
+			"title":"KMI 원장 누가 될까…23일 이사회서 결정",
+			"originallink":"http:\/\/www.hdhy.co.kr\/news\/articleView.html?idxno=16121",
+			"link":"http:\/\/www.hdhy.co.kr\/news\/articleView.html?idxno=16121",
+			"description":"농<b>어업<\/b>인 삶의 질 향상 및 농어촌 지역개발실무위원회 위원으로 활동하고 있다. 부원장으로 원장 <b>직무<\/b>대행... 차관, <b>농림<\/b>축산식품부 차관, 산업통상자원부 차관, 보건복지부 제1차관 등 정부 부처 차관급이 참여하며... ",
+			"pubDate":"Wed, 22 Dec 2021 08:02:00 +0900"
+		},
+		{
+			"title":"이원택 의원의 노력 끝 &apos;지방세특례제한법`&apos;비료관리법&apos;&apos;부정청탁금지법&apos; 국회...",
+			"originallink":"https:\/\/www.ibuan.com\/news\/articleView.html?idxno=36194",
+			"link":"https:\/\/www.ibuan.com\/news\/articleView.html?idxno=36194",
+			"description":"현행 부정청탁금지법에서는 원활한 <b>직무<\/b>수행 또는 사교ㆍ의례 또는 부조의 목적으로 제공되는... 아울러 이날 함께 통과된 지방세특례제한법 개정안은 코로나19 장기화로 <b>농림어업<\/b> 분야의 경제활동이 크게 위축되고, 농가... ",
+			"pubDate":"Thu, 09 Dec 2021 18:18:00 +0900"
+		},
+		{
+			"title":"[해양수산 뉴스] 얼음 보는 인공위성 &apos;시력&apos; 높인다…극지연, 북극해빙 관측 ...",
+			"originallink":"http:\/\/www.busan.com\/view\/busan\/view.php?code=2021112411303228916",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001128973?sid=101",
+			"description":"(국회 <b>농림<\/b>축산식품해양수산위원회)과 (사)한국해양레저네트워크(구자중 이사장)가 공동주최하고... KMI 제공 ◆KMI, 12월 2일 ‘글로벌 수산물 디지털무역 심포지엄’ 개최 한국해양수산개발원(KMI, 원장 <b>직무<\/b>대행... ",
+			"pubDate":"Wed, 24 Nov 2021 16:28:00 +0900"
+		},
+		{
+			"title":"[경상시론]갈수록 중요해지는 중장년특화 맞춤형 교육훈련 지원",
+			"originallink":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=918695",
+			"link":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=918695",
+			"description":"나타나며, <b>농림어업<\/b> 종사자와 단순노무종사자 규모에서 다른 연령대에 비해 고령층의 증가가 두드러지게... 능력진단과 심층상담은 동시에 수행되어야 하고 이 과정을 통해 그들의 현재 <b>직무<\/b>능력을 점검하고 향후... ",
+			"pubDate":"Wed, 17 Nov 2021 00:12:00 +0900"
+		},
+		{
+			"title":"문재인 지지율 37.3%로 올라, 민주당 지지도 28.5% 국민의힘 42.5%",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=259605",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=259605",
+			"description":"3%가 &apos;문 대통령이 <b>직무<\/b>를 잘 수행하고 있다&apos;고 대답했다고 15일 밝혔다. 지난주 주간 집계보다 3.1%포인트... 부정평가는 50대와 열린민주당 지지층, <b>농림어업<\/b>·무직에서 높아진 것으로 조사됐다. 정당 지지도를... ",
+			"pubDate":"Mon, 15 Nov 2021 12:34:00 +0900"
+		},
+		{
+			"title":"높은 경제성장이 최상의 고용정책이다",
+			"originallink":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=216734",
+			"link":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=216734",
+			"description":"사업체노동력조사 대상에는 <b>농림어업<\/b>종사자 자영업자 가사도우미 노점상 등이 제외되어 있어... 이들은 <b>직무<\/b>훈련을 통해 쌓을 수 있는 업무지식과 기술을 획득할 기회를 상실하게 된다. 또한 나이가... ",
+			"pubDate":"Wed, 27 Oct 2021 10:56:00 +0900"
+		},
+		{
+			"title":"[Issue+] 2021 국정감사 - 해양수산부·소관기관 종합감사",
+			"originallink":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=217377",
+			"link":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=217377",
+			"description":"[사진=국회제공] 국회 <b>농림<\/b>축산식품해양수산위원회는 지난 21일 해양수산부의 종합감사를 갖고 수산·어촌... 윤재갑 의원(더불어민주, 해남·완도·진도)도 &quot;<b>어업<\/b>과 어촌의 소멸을 막기 위해서는 어촌진흥청이 필요하다... ",
+			"pubDate":"Tue, 26 Oct 2021 17:14:00 +0900"
+		},
+		{
+			"title":"[단독]주방·청소 등 단순 종사자, AI로 대체…일자리 700만개 사라진다",
+			"originallink":"https:\/\/www.khan.co.kr\/economy\/economy-general\/article\/202110191020001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003104553?sid=101",
+			"description":"<b>농림<\/b>·<b>어업<\/b> 관련 단순 종사자(80.6%), 식품가공 관련 기계 조작원(77.2%), 건물 관리원 및 검표원(73.6%), 물품... 앞서 2018년에 발표된 맥킨지 보고서는 국내 19개 산업 분야와 800개 이상의 직업, 2000개 이상의 <b>직무<\/b>를... ",
+			"pubDate":"Tue, 19 Oct 2021 10:21:00 +0900"
+		},
+		{
+			"title":"오늘 해경청 국정감사…&apos;北 피격 공무원 수사&apos; 쟁점",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20211012_0001610970&cID=13001&pID=13000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0010765585?sid=101",
+			"description":"국회 <b>농림<\/b>축산식품해양수산위원회는 13일 해양경찰청과 해양수산부 산하기관들에 대한 국정감사를... 지난해 9월21일 해수부 서해<b>어업<\/b>지도관리단 소속 공무원 A씨(47)는 소연평도 인근 해상에서 <b>어업<\/b>지도선에 승선해... ",
+			"pubDate":"Wed, 13 Oct 2021 06:00:00 +0900"
+		},
+		{
+			"title":"부안군의회, 325회 임시회 앞두고 의원간담회 열어…24개 안건 검토해",
+			"originallink":"https:\/\/www.ibuan.com\/news\/articleView.html?idxno=35639",
+			"link":"https:\/\/www.ibuan.com\/news\/articleView.html?idxno=35639",
+			"description":"재직자 <b>직무<\/b>능력 개발을 도모해 지역 경제 활성화에 이바지하는 것이다. &lt; 축산유통과&gt; ■ 2022년 전라북도 <b>농림<\/b>수산발전기금 출연 동의안 <b>농림어업<\/b> 관련 사업 지원자금에 대한... ",
+			"pubDate":"Tue, 12 Oct 2021 17:53:00 +0900"
+		},
+		{
+			"title":"&apos;청와대 앞 사람들&apos; 다시 만나니…&quot;코로나가 가장 걱정&quot;",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=958709&year=2021",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004862655?sid=102",
+			"description":"홍기복 한국마사회 제1노조 위원장을 만난 지난 7월 이후 국회 <b>농림<\/b>축산식품해양수산위원회에서는 관련... 코너에서 다뤘지만 경찰관<b>직무<\/b>집행법은 경찰관이 불심검문을 할 때 &quot;자신의 신분을 표시하는 증표를... ",
+			"pubDate":"Sat, 09 Oct 2021 13:45:00 +0900"
+		},
+		{
+			"title":"[해양수산부 국감] &quot;서해<b>어업<\/b>관리단 공무원 실종 월북이냐, 순직이냐?&quot;",
+			"originallink":"http:\/\/www.hdhy.co.kr\/news\/articleView.html?idxno=15705",
+			"link":"http:\/\/www.hdhy.co.kr\/news\/articleView.html?idxno=15705",
+			"description":"사진=박종면 기자 7일 국회 <b>농림<\/b>축산식품해양수산위원회(농해수위, 위원장 김태흠) 회의장에서 해양수산부... 서해<b>어업<\/b>관리단 소속 공무원 실종사건에 대해 <b>직무<\/b>유기하고 있다고 비판했다. 이 의원은 &quot;사고가 일어난 지... ",
+			"pubDate":"Fri, 08 Oct 2021 16:13:00 +0900"
+		},
+		{
+			"title":"해수부 공무원 월북 vs 순직…문성혁 장관 “아직 수사중”",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02148406629210624",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005053981?sid=101",
+			"description":"문성혁 장관은 이날 오전 국회 <b>농림<\/b>축산식품해양수산위원회 해수부 국정감사에서 “사고 380일이 지났는데 해양경찰정을 지휘해 월북인지 순직인지 발표하지 않냐”며 “장관으로서 <b>직무<\/b>유기”라는 이양수 국민의힘... ",
+			"pubDate":"Thu, 07 Oct 2021 10:47:00 +0900"
+		},
+		{
+			"title":"서울대생도 취업비상, “취업 힘들어요” 한숨",
+			"originallink":"http:\/\/www.munhwa.com\/news\/view.html?no=20211002MW102701541797",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002487431?sid=102",
+			"description":"서울대 총학생회 <b>직무<\/b>대행인 단과대학생회장연석회의 중앙집행위원회가 지난 8월 13~19일 재학생 1073명을... 취업자에는 <b>농림어업<\/b> 종사자, 개인 창작활동 종사자, 1인 창업자, 프리랜서 등도 포함돼 일반 기업체 취업률은... ",
+			"pubDate":"Sat, 02 Oct 2021 10:31:00 +0900"
+		},
+		{
+			"title":"서울대생도 &quot;취업 힘들어요&quot;…결국 요구한 이 제도",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1006484247&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0000924733?sid=102",
+			"description":"서울대 총학생회 <b>직무<\/b>대행인 단과대학생회장연석회의 중앙집행위원회가 지난 8월 13~19일 재학생 1천73명을... 취업자에는 <b>농림어업<\/b> 종사자, 개인 창작활동 종사자, 1인 창업자, 프리랜서 등도 포함돼 일반 기업체... ",
+			"pubDate":"Sat, 02 Oct 2021 09:55:00 +0900"
+		},
+		{
+			"title":"서울대 종교학과-철학과-정치외교학과 취업률 30%내외 불과...전공별 편차 커",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3045985",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3045985",
+			"description":"특히, 취업자에는 <b>농림어업<\/b> 종사자와 개인 창작활동 종사자, 1인 창업자, 프리랜서 등도 포함돼 일반... 이와 관련해, 서울대 총학생회 <b>직무<\/b>대행인 단과대학생회장연석회의 중앙집행위원회가 지난 8월 13~19일 재학생... ",
+			"pubDate":"Sat, 02 Oct 2021 09:38:00 +0900"
+		},
+		{
+			"title":"&apos;아! 서울대 마저&apos;···10명 중 7명 &apos;백수&apos; 학과 있다",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/22SL24OBYK",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0003968702?sid=102",
+			"description":"서울대 총학생회 <b>직무<\/b>대행인 단과대학생회장연석회의 중앙집행위원회가 지난 8월 13~19일 재학생 1,073명을... 취업자에는 <b>농림어업<\/b> 종사자, 개인 창작활동 종사자, 1인 창업자, 프리랜서 등도 포함돼 일반 기업체... ",
+			"pubDate":"Sat, 02 Oct 2021 09:18:00 +0900"
+		},
+		{
+			"title":"서울대생도 &quot;취업 힘들어요&quot;…졸업유예제 도입 요구 커져",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2021100202109958079002&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002699112?sid=102",
+			"description":"서울대 총학생회 <b>직무<\/b>대행인 단과대학생회장연석회의 중앙집행위원회가 지난 8월 13~19일 재학생 1073명을... 더구나 취업자에는 <b>농림어업<\/b> 종사자, 개인 창작활동 종사자, 1인 창업자, 프리랜서 등도 포함돼 있다. 일반... ",
+			"pubDate":"Sat, 02 Oct 2021 08:49:00 +0900"
+		},
+		{
+			"title":"서울대생도 &quot;취업 힘들어요&quot;…졸업유예제 도입 요구 커져",
+			"originallink":"http:\/\/yna.kr\/AKR20211001167100004?did=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0012655404?sid=102",
+			"description":"서울대 총학생회 <b>직무<\/b>대행인 단과대학생회장연석회의 중앙집행위원회가 지난 8월 13~19일 재학생 1천73명을... 취업자에는 <b>농림어업<\/b> 종사자, 개인 창작활동 종사자, 1인 창업자, 프리랜서 등도 포함돼 일반 기업체 취업률은... ",
+			"pubDate":"Sat, 02 Oct 2021 08:30:00 +0900"
+		},
+		{
+			"title":"김부겸 총리 <b>직무<\/b>수행 평가 고향 대구경북서 가장 낮아 [리얼미터]",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20210917010002329",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20210917010002329",
+			"description":"김부겸 국무총리의 <b>직무<\/b>수행에 대한 평가에서 부정 응답이 긍정 응답보다 높게 나타났다. 100점... 직업별로는 모든 직업에서 부정평가가 높았으며, 학생(부정평가 49.2% vs 긍정평가 24.8%), <b>농림어업<\/b>... ",
+			"pubDate":"Fri, 17 Sep 2021 10:28:00 +0900"
+		},
+		{
+			"title":"김부겸 총리 <b>직무<\/b>수행, 40대·진보층서 &apos;긍정평가&apos;",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1074784&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1074784&inflow=N",
+			"description":"뉴스토마토 = 박주용 기자 |  김부겸 국무총리에 대한 <b>직무<\/b>수행 평가 결과, 40대와 진보층에서... 이어 노동직(39.6%), <b>농림어업<\/b>(38.5%) 순으로 긍정평가가 높았다. 이번 조사는 유·무선 임의전화걸기 전화면접... ",
+			"pubDate":"Fri, 17 Sep 2021 10:06:00 +0900"
+		},
+		{
+			"title":"김 총리, <b>직무<\/b>수행 100점 만점에 43.5점…TK서 부정평가 과반",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20210917_0001587476&cID=10301&pID=10300",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0010726689?sid=100",
+			"description":"기사내용 요약리얼미터 8월 <b>직무<\/b>수행 평가 조사…&apos;긍정 37.9%, 부정 46.8%&apos; 정치적 고향 &apos;TK&apos;, 부정 평가... 직업별로는 모든 직업에서 부정평가가 높았으며, 학생(부정평가 49.2% vs 긍정평가 24.8%), <b>농림어업<\/b>... ",
+			"pubDate":"Fri, 17 Sep 2021 09:00:00 +0900"
+		},
+		{
+			"title":"문재인 국정수행 지지도 42.7%로 상승, 호남 영남 긍정평가 올라",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=250034",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=250034",
+			"description":"7%가 &apos;문 대통령이 <b>직무<\/b>를 잘 수행하고 있다&apos;고 대답했다고 13일 밝혔다. 지난주 주간 집계보다 1.0%포인트... 6%포인트, <b>농림어업<\/b>에서 6.0%포인트, 사무직에서 2.2%포인트 높아졌다. 정당 지지도를 보면 국민의힘은... ",
+			"pubDate":"Mon, 13 Sep 2021 11:26:00 +0900"
+		},
+		{
+			"title":"[뒷북비즈]OECD보다 노인 더 일하고 청년 덜 뽑는 한국···&quot;공공일자리로 코...",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/22RER7UUYQ",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0003960915?sid=101",
+			"description":"부문 별로는 민간부문(<b>농림어업<\/b> 제외)에서 43만7,000명 줄어든 반면, 공공부문에서는 16만6,000명... 경총은 &quot;향후 노동정책은 정규직에 대한 과도한 보호를 완화해 인력 운영의 유연성을 높이고, <b>직무<\/b>·성과 중심... ",
+			"pubDate":"Fri, 10 Sep 2021 06:01:00 +0900"
+		},
+		{
+			"title":"문재인 지지도 41.7%로 소폭 올라, 30대와 서울에서 긍정평가 높아져",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=248907",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=248907",
+			"description":"7%가 &apos;문 대통령이 <b>직무<\/b>를 잘 수행하고 있다&apos;고 대답했다고 6일 밝혔다. 지난주 주간 집계보다 0.4%포인트... 또 부정평가는 열린민주당 지지층에서 6.7%포인트, <b>농림어업<\/b>에서 5.7%포인트, 자영업에서 4.2%포인트... ",
+			"pubDate":"Mon, 06 Sep 2021 11:12:00 +0900"
+		},
+		{
+			"title":"[브리핑 충남] &apos;돌아온, 돌아와야 할 문화유산&apos; 사진전 개막",
+			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=552037",
+			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=552037",
+			"description":"농<b>어업<\/b>인의 손을 잡아줘야 한다&quot;며 &quot;그래야만 힘든 시기를 겪고 있는 농어민들에게 조금이나마 희망이 생길 것&quot;이라고 주장했다. 건의안은 대통령(비서실장), 국회의장, 국무총리, <b>농림<\/b>축산식품부장관, 해양수산부장관... ",
+			"pubDate":"Thu, 02 Sep 2021 09:04:00 +0900"
+		},
+		{
+			"title":"문재인 지지도 42%로 소폭 올라, 대구 경북 인천 경기 &apos;긍정&apos; 증가",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=245763",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=245763",
+			"description":"대통령이 <b>직무<\/b>를 잘 수행하고 있다&apos;고 대답했다고 16일 밝혔다. 지난주 주간 집계보다 0.5%포인트... 4%포인트, <b>농림어업<\/b>에서 3.0%포인트 상승했다. 정당 지지도를 보면 국민의힘은 지난주보다 0.5%포인트 내린 37.3%로... ",
+			"pubDate":"Mon, 16 Aug 2021 16:34:00 +0900"
+		},
+		{
+			"title":"소비자물가 반영 못하는 김영란법… 농어민들 &quot;명절만이라도 농축산물 선물가...",
+			"originallink":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=82485",
+			"link":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=82485",
+			"description":"공감한다&quot;며 &quot;공직자의 <b>직무<\/b> 관련 청렴도 제고라는 청탁금지법의 취지를 살리면서 농축수산물 소비를... 특히 <b>농림어업<\/b> 부문은 부가가치가 1조 1229억 원 감소하면서 큰 타격을 받았다. 특히 농축수산물업계는 코로나19... ",
+			"pubDate":"Fri, 13 Aug 2021 17:02:00 +0900"
+		},
+		{
+			"title":"경북·대구 외국인 취업자 수 증가세",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2080202",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2080202",
+			"description":"그러나 취업자들의 <b>직무<\/b> 수준은 낮은 것으로 분석됐다. 27일 한국은행 대구경북본부는 지역의 외국인... 위해서는 △광·제조업, <b>농림어업<\/b> 부문에 대한 외국인력의 안정적 공급을 위한 대책 수립 △연구개발인력 등... ",
+			"pubDate":"Wed, 28 Jul 2021 00:10:00 +0900"
+		},
+		{
+			"title":"한은 대구경북본부 &quot;지역 외국인근로자 늘어, 관련정책 강화해야&quot;",
+			"originallink":"https:\/\/news.imaeil.com\/Economy\/2021072716322111787",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000714111?sid=101",
+			"description":"대구경북지역 외국인 취업자는 광·제조업, <b>농림어업<\/b> 부문의 중소기업에 주로 종사하는 가운데, 대체로 <b>직무<\/b>수준이 낮은 것으로 나타났다. 한은은 대구경북 외국인근로자들이 국적별로는 베트남, 한국계 중국인... ",
+			"pubDate":"Tue, 27 Jul 2021 16:33:00 +0900"
+		},
+		{
+			"title":"“자연실업률 상승, 필립스곡선 복원” 주시하는 중앙은행들",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/economy\/economy_general\/1003048.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002552077?sid=101",
+			"description":"일자리를 전문 서비스·관리자 등 추상적 <b>직무<\/b>, 공장 근로자 등 단순 반복적 <b>직무<\/b>, <b>농림어업<\/b> 등 육체노동 <b>직무<\/b> 세 가지로 분류했을 때 경기 변동에 민감하면서 임금 변화가 큰 단순 일자리가 사라지면서 물가에 주는 영향이... ",
+			"pubDate":"Sun, 11 Jul 2021 16:58:00 +0900"
+		},
+		{
+			"title":"[기획] 위기의 수협사료 (上) 파행적 조직운영·부실한 내부통제에 영업력 &apos;휘...",
+			"originallink":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=213121",
+			"link":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=213121",
+			"description":"영업과정에서 발생한 문제인 만큼 <b>직무<\/b>에서 배제해야하는 상황이었다는 것이 수협사료의 설명이다. 이... 이에 비해 올해는 친환경양식<b>어업<\/b>직불제의 영향 등으로 <b>어업<\/b>인들의 배합사료 사용량이 늘었다. 실제로 <b>농림<\/b>축산... ",
+			"pubDate":"Tue, 06 Jul 2021 18:28:00 +0900"
+		},
+		{
+			"title":"[정부 주요 일정] 경제·사회부처 주간 일정 (7월 5~9일)",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2041463",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2041463",
+			"description":"(석간) ◇<b>농림<\/b>축산식품부 6일(화) △농식품부 장관 10:00 국무회의(세종) △제9회 도농교류의 날 행사 추진... IUU<b>어업<\/b> 원천 차단 6일(화) △해수부 장관 10:00 국무회의(세종) △해양사고의 조사 및 심판에 관한 법률... ",
+			"pubDate":"Sun, 04 Jul 2021 09:28:00 +0900"
+		},
+		{
+			"title":"문재인 지지도 38.3%로 내려, 충청과 부산울산경남 부정평가 늘어",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=234920",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=234920",
+			"description":"3%가 &apos;문 대통령이 <b>직무<\/b>를 잘 수행하고 있다&apos;고 대답했다고 7일 밝혔다. 지난주 주간집계보다 1.0%포인트... 4%포인트, <b>농림어업<\/b>에서 7.6%포인트, 무직에서 7.3%포인트 상승했다. 정당 지지율을 보면 국민의힘은 38.0... ",
+			"pubDate":"Mon, 07 Jun 2021 09:48:00 +0900"
+		},
+		{
+			"title":"[헤드라인] 금일부터 전월세신고제 시행 &apos;임대차 3법&apos; 본격화...野 &quot;국민 무시...",
+			"originallink":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=72613",
+			"link":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=72613",
+			"description":"통계청이은 31일 4월 산업활동동향을 발표, 지난달 전(全)산업생산(계절조정·<b>농림어업<\/b> 제외) 지수가 111.4... 【 청년일보=최시윤 기자 】 31일 오전 국회에서 열린 법제사법위원회 전체회의에서 법사위원장 <b>직무<\/b>대리인... ",
+			"pubDate":"Tue, 01 Jun 2021 00:00:00 +0900"
+		},
+		{
+			"title":"[정부 주요 일정] 경제·사회부처 주간 일정 (5월 24일 ~ 28일)",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2028495",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2028495",
+			"description":"(석간) ◇<b>농림<\/b>축산식품부 24일(월) △농촌형 성평등 전문강사 개시(석간) △농식품부, 태풍·호우·폭염... 국제<b>어업<\/b>관리 분과회의 개최 △제1기 등대서포터즈 모집 25일(화) △해수부 장관 10:00 국무회의(세종)... ",
+			"pubDate":"Sun, 23 May 2021 09:54:00 +0900"
+		},
+		{
+			"title":"소공연, 이수진 대표발의 최저임금 징벌적 손해배상 법안 강력 반대",
+			"originallink":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=501708",
+			"link":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=501708",
+			"description":"(회장 <b>직무<\/b>대행 김임용, 이하 소공연)는 13일 논평을 내고 최근 이수진 더불어민주당 국회의원(비례대표)이... 3%, <b>농림어업<\/b> 51.3%, 소상공인들이 주로 종사하는 숙박·음식업은 42.6%에 달한다”며 “숙박음식업의 미만율은... ",
+			"pubDate":"Thu, 13 May 2021 10:56:00 +0900"
+		},
+		{
+			"title":"정부부처 주간일정 및 보도계획(3~7일)",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2021050214205932358",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004581529?sid=101",
+			"description":"◆국무총리실 5월3일(월) 일정없음 5월4일(화) *홍남기 국무총리 <b>직무<\/b>대행, 국무회의(오전10시, 세종)... 가두리양식<b>어업<\/b> 면허기간 연장불허에 따른 손실보상에 관한 특별법 시행령 제정(오전) 5일(수) *6기 연안... ",
+			"pubDate":"Sun, 02 May 2021 14:23:00 +0900"
+		},
+		{
+			"title":"[가계부채 관리방안] ② 올 가계부채 총량 5~6%로 관리…非주담대 LTV 최대 7...",
+			"originallink":"http:\/\/www.inews24.com\/view\/1362930",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000595996?sid=101",
+			"description":"국무총리 <b>직무<\/b>대행 겸 경제부총리 주재로 29일 서울 여의도동 한국수출입은행 대회의실에서 열린 제34차... 다만 농축<b>어업<\/b>인 등 실수요자는 예외적으로 허용한다. 또 정부가 2023년 7월 차주 단위의 DSR 전면 도입에 차질이... ",
+			"pubDate":"Thu, 29 Apr 2021 14:31:00 +0900"
+		},
+		{
+			"title":"[시론담론] 코비드-19 팬데믹과 업무환경의 근접도",
+			"originallink":"http:\/\/www.jemin.com\/news\/articleView.html?idxno=716050",
+			"link":"http:\/\/www.jemin.com\/news\/articleView.html?idxno=716050",
+			"description":"환경에서 <b>직무<\/b>를 수행한다. 한편, 의료기사나 연구사, 약사 등은 현장에 설비된 특수 장비의 사용이 필요하기... 건설, <b>농림어업<\/b>은 54점 등으로 계량화 되었다. 노동시장에 대한 업무환경 근접도의 여파 근접도 수치가 높은... ",
+			"pubDate":"Tue, 27 Apr 2021 12:56:00 +0900"
+		},
+		{
+			"title":"코로나에 주저앉고 1년만에 제자리 돌아온 경제...1분기 1.6%↑",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2021042708361373594",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004578609?sid=101",
+			"description":"<b>농림어업<\/b>도 재배업을 중심으로 6.5% 증가했다. 건설업은 0.4% 증가로 전기(2.2%)보다 증가폭이 둔화됐다.... 국무총리 <b>직무<\/b>대행을 맡고 있는 홍남기 부총리 겸 기획재정부 장관은 페이스북을 통해 &quot;국내외 주요기관 및... ",
+			"pubDate":"Tue, 27 Apr 2021 08:54:00 +0900"
+		},
+		{
+			"title":"정부부처 주간일정 및 보도계획(26~30일)",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2021042512150919370",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004577796?sid=101",
+			"description":"◆국무총리실 26일(월) *홍남기 국무총리 <b>직무<\/b>대행 주례회동(오후12시,BH) *구윤철 국무조정실장 주례회동... (오후) *2020 <b>농림어업<\/b>총조사 결과(잠정)(오전) 28일(수) *홍남기 부총리, 중앙재난 안전대책본부회의... ",
+			"pubDate":"Sun, 25 Apr 2021 12:17:00 +0900"
+		},
+		{
+			"title":"성난 부동산 민심 수습 박차…종부세 완화 추진할까",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01462886629019400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0004910904?sid=101",
+			"description":"홍남기 국무총리 <b>직무<\/b>대행 겸 경제부총리가 지난 21일 서울 여의도 국회 본회의에서 질문에 답변하고... 2020 <b>농림어업<\/b>총조사 결과(잠정) 16:00 오갑원 전 통계청장 초청 강연회 실시 △28일(수) 06:00 재정포럼 2021년... ",
+			"pubDate":"Sat, 24 Apr 2021 11:44:00 +0900"
+		},
+		{
+			"title":"문재인 지지율 34.7%로 반등, 부산울산경남과 인천경기 상승",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=227396",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=227396",
+			"description":"7%가 &apos;문 대통령이 <b>직무<\/b>를 잘 수행하고 있다&apos;고 대답했다고 19일 밝혔다. 지난주 주간 집계보다 1.3%포인트... 4%포인트, <b>농림어업<\/b>에서 8.4%포인트, 무직에서 4.3%포인트, 노동직에서 2.5%포인트 올랐다. 이번 여론조사는... ",
+			"pubDate":"Mon, 19 Apr 2021 10:56:00 +0900"
+		},
+		{
+			"title":"[자격증이 경쟁력이다_자격부심] 자격증 하나로 전기 관련 분야 취업문 넓히기",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/22L2H8SE09",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0003896435?sid=101",
+			"description":"여기서 말하는 동일 <b>직무<\/b> 분야는 경영·회계·사무 중 생산관리, 건설, 광업자원, 기계, 재로, 화학, 섬유·의복, 전기·전자, 정보통신, 식품가공, 인쇄·목재·가구 농예, <b>농림어업<\/b>, 환경·에너지 등입니다. 4년제 대학교... ",
+			"pubDate":"Tue, 13 Apr 2021 13:15:00 +0900"
+		},
+		{
+			"title":"[자격증이 경쟁력이다_자격부심] 국민의 안전과 재산을 지키는 소방설비기사",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/22L082F3JE",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0003894708?sid=101",
+			"description":"여기서 말하는 동일 <b>직무<\/b> 분야는 경영·회계·사무 중 생산관리, 건설, 광업자원, 기계, 재로, 화학, 섬유·의복, 전기·전자, 정보통신, 식품가공, 인쇄·목재·가구 농예, <b>농림어업<\/b>, 환경·에너지 등입니다. 4년제 대학교... ",
+			"pubDate":"Thu, 08 Apr 2021 17:22:00 +0900"
+		}
+	]
+}

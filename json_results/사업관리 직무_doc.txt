@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Tue, 02 Aug 2022 16:42:13 +0900",
+	"total":10066,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"건설<b>사업관리<\/b> 현장조직의 조직구조가 조직문화 및 <b>직무<\/b>만족에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841273304",
+			"description":"Influences of Organizational Structure on Organizational Culture and Job Satisfaction in Construction Management Site Organizations 건"
+		},
+		{
+			"title":"건설<b>사업관리<\/b> 현장조직의 조직구조가 조직문화 및 <b>직무<\/b>만족에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842472497",
+			"description":"Influences of Organizational Structure on Organizational Culture and Job Satisfaction in Construction Management Site Organizations 건"
+		},
+		{
+			"title":"건설현장 건설<b>사업관리<\/b>기술자의 조직갈등과 <b>직무<\/b>스트레스 상관관계 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=754367833",
+			"description":"Correlation Analysis between Organization Conflict and Job Stress of Construction Manager in Construction Site 감리업무가 CM으로"
+		},
+		{
+			"title":"건설현장 건설<b>사업관리<\/b>기술자의 조직갈등과 <b>직무<\/b>스트레스 상관관계 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846399839",
+			"description":"Correlation Analysis between Organization Conflict and Job Stress of Construction Manager in Construction Site 감리업무가 CM으로"
+		},
+		{
+			"title":"건설<b>사업관리<\/b> 현장조직의 조직구조가 조직문화 및 <b>직무<\/b>만족에 미치는 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873478275",
+			"description":"Influences of Organizational Structure on Organizational Culture and Job Satisfaction in Construction Management Site Organizations 건"
+		},
+		{
+			"title":"건설현장 건설<b>사업관리<\/b>기술자의 조직갈등과 <b>직무<\/b>스트레스 상관관계 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873379002",
+			"description":"Correlation Analysis between Organization Conflict and Job Stress of Construction Manager in Construction Site 감리업무가 CM으로"
+		},
+		{
+			"title":"농기계임대<b>사업<\/b>소 근무인력의 역량 함양을 위한 교육 주제 탐색: 농기계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650558123",
+			"description":"Design of Training Program to Improve the Technical Skills of the Workers Employed by Agricultural Machinery Rental Office: Focused on "
+		},
+		{
+			"title":"영유아 건강<b>관리<\/b> <b>직무<\/b>에 대한 어린이집 교사의 중요도 인식과 실행수준",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562411929",
+			"description":"Child care center teacher&apos;s recognition of importance and performance level of health management job for young children  표제지\n목"
+		},
+		{
+			"title":"책임감리가 건설<b>사업관리<\/b>(CM)로 전환시 도입된 역량지수(ICEC)에 대한 도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220932981",
+			"description":"An Analysis of Perceptions of Road Construction Engineers on ICEC Framework at the time of System Transition from Responsibility Superv"
+		},
+		{
+			"title":"(2010)결핵<b>관리<\/b>지침 : 민간·공공협력 결핵<b>관리<\/b><b>사업<\/b> <b>직무<\/b>지침",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45275496",
+			"description":"  표제지\n목차\nI. 민간공공협력결핵<b>관리<\/b><b>사업<\/b>의 목적 5\n 1. 목적 7\n 2. 기본 방향 7\n  가. 등록<b>관리<\/b> 강화 7\n  "
+		},
+		{
+			"title":"건설<b>사업관리<\/b>자의 품질<b>관리<\/b> <b>직무<\/b> 역량에 영향을 미치는 요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594201660",
+			"description":" 오늘 날, 미국과 유럽의 선진 조직에서는 역량의 개념을 인사<b>관리<\/b>의 기초 정보로 활용하고 있다. 한"
+		},
+		{
+			"title":"건설<b>사업관리<\/b>자의 품질<b>관리<\/b> <b>직무<\/b> 역량에 영향을 미치는 요인 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=288791858",
+			"description":"Analysis of Factors Affecting Job Competency of Quality Management for a Construction Manager 오늘 날, 미국과 유럽의 선진 "
+		},
+		{
+			"title":"(2020년) 한센병<b>사업 관리<\/b>지침",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871595645",
+			"description":"  [표지]\n2020년 한센병<b>사업 관리<\/b>지침 안내문\n목차\nI. 총론 8\n 1. 개요 10\n 2. 수행체계 및 기관별 역할 10\n  1"
+		},
+		{
+			"title":"성인발달장애인의 사회적 자립능력 향상을 위한 보조기기 사후<b>관리<\/b> 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880552566",
+			"description":""
+		},
+		{
+			"title":"주미군수지원담당\/해외<b>사업관리<\/b>인원의 <b>직무<\/b>분석을 통한 필요성 및 인원",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=54679409",
+			"description":""
+		},
+		{
+			"title":"책임감리가 건설<b>사업관리<\/b>(CM)로 전환시 도입된 역량지수(ICEC)에 대한 도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594256865",
+			"description":" 본 연구(II)에서는 전 연구(I) 수행과정에 <b>직무<\/b>교육 훈련을 받고 있는 도로분야 건설기술자들이 질의"
+		},
+		{
+			"title":"건설<b>사업관리<\/b>용역의 해외진출 활성화를 위한 개선방안에 관한 연구 : 도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561743382",
+			"description":"  표제지\n목차\nI. 서론 8\n 1.1. 연구배경 및 목적 8\n 1.2. 연구범위 및 방법 10\nII. 이론적 고찰 12\n 2.1. 국내 "
+		},
+		{
+			"title":"맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 가구별 사례<b>관리<\/b> 강화를 위한 방문선임인력 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=88456665",
+			"description":"aaa * 영역1 - <b>직무<\/b> 표준화 자료 개발\n\n\n\n1. <b>직무<\/b>기술서 및 요건서 개발\n\n1) 공통(신규인력\/선임인력)\n\n2) 선"
+		},
+		{
+			"title":"노인대상 보건소 방문건강<b>관리<\/b><b>사업<\/b> 간호사의 역할과 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877224881",
+			"description":"Role and Task of Nurses in the Visiting Health Services at the Public Health Center: Focusing on the Elderly Purpose: The purpose of th"
+		},
+		{
+			"title":"책임감리가 건설<b>사업관리<\/b>(CM)로 전환시 도입된 역량지수(ICEC)에 대한 도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880529274",
+			"description":" 최근 책임감리제도가 CM제도로 전환되고 ICEC 등급체계가 도입되는 과정에 건설관련 단체들은 국토교"
+		},
+		{
+			"title":"교수체제 모형(ADDIE)을 적용한 통합건강증진<b>사업<\/b> <b>직무<\/b> 전문교육 프로그",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=235513988",
+			"description":" 본 연구에서는 통합건강증진<b>사업<\/b> 전문교육 프로그램에 교수체제 모형(ADDIE)을 적용한 프로그램을 개"
+		},
+		{
+			"title":"책임감리가 건설<b>사업관리<\/b>(CM)로 전환시 도입된 역량지수(ICEC)에 대한 도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877956847",
+			"description":" 본 연구(II)에서는 전 연구(I) 수행과정에 <b>직무<\/b>교육‧훈련을 받고 있는 도로분야 건설기술자들이 질의"
+		},
+		{
+			"title":"건설<b>사업관리<\/b>용역의 해외진출 활성화를 위한 개선방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=301777421",
+			"description":"A study on the measures for invigorating expansion of Korean construction management service overseas 본 연구는 건설<b>사업관리<\/b>"
+		},
+		{
+			"title":"의료급여 사례<b>관리<\/b><b>사업<\/b>의 <b>직무<\/b>분석 및 효율성 제고방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=88456434",
+			"description":"Job Analysis and Methods for Enhancing Efficiency of Medical Aid Client Managers 1. 의료급여<b>관리<\/b>사 표준<b>직무<\/b>(안) 도출\n\n-De"
+		},
+		{
+			"title":"사회복지기관의 사례<b>관리<\/b> <b>직무<\/b>실태 분석 : 수행빈도, 난이도를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=39160596",
+			"description":"Exploring Care Management Practice in Social Service Community Centers - From the Perspective of the Degree of Difficulty and Frequency"
+		},
+		{
+			"title":"보건소 대사증후군<b>관리<\/b><b>사업<\/b> 참여인력의 역할갈등, 조직몰입, <b>직무<\/b>만족 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594973198",
+			"description":"   역할갈등, 조직몰입, <b>직무<\/b>만족, 보건소 "
+		},
+		{
+			"title":"보건소 대사증후군<b>관리<\/b><b>사업<\/b> 참여인력의 역할갈등, 조직몰입, <b>직무<\/b>만족 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885071790",
+			"description":"The Relationship between Role Conflict, Job Satisfaction, and Organizational Commitment among Community Healthcare Workers of the Seoul"
+		},
+		{
+			"title":"사회복지기관의 사례<b>관리<\/b> <b>직무<\/b>실태 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879918198",
+			"description":" 사회복지현장에 있어서 사례<b>관리<\/b>의 수행이 요구되고 있는 가운데, 현장의 사례<b>관리<\/b>담당 사회복지사"
+		},
+		{
+			"title":"건설현장 건설<b>사업관리<\/b>기술자의 조직갈등과 <b>직무<\/b>스트레스 상관관계 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=647972220",
+			"description":"Correlation Analysis between Organization Conflict and Job Stress of Construction Manager in Construction Site 감리업무가 CM으로"
+		},
+		{
+			"title":"노인대상 보건소 방문건강<b>관리<\/b><b>사업<\/b> 간호사의 역할과 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887995088",
+			"description":"Role and Task of Nurses in the Visiting Health Services at the Public Health Center: Focusing on the Elderly    "
+		},
+		{
+			"title":"맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 전담간호사 <b>직무<\/b>분석을 통한 적정 업무량 산",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=88456582",
+			"description":" 1. 전문가팀을 구성하여 MECE 원칙에 입각하여 전담인력의 임무(duty), 과업(task), 과업요소(element)를 확"
+		},
+		{
+			"title":"보건소 대사증후군<b>관리<\/b><b>사업<\/b> 참여인력의 역할갈등, 조직몰입, <b>직무<\/b>만족 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879727219",
+			"description":"The Relationship between Role Conflict, Job Satisfaction, and Organizational Commitment among Community Healthcare Workers of the Seoul"
+		},
+		{
+			"title":"연구현장중심의 국가연구개발<b>사업 관리<\/b>제도 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=154180853",
+			"description":"  표제지\n제출문\n보고서 요약서\n요약문\n목차\n제1장 서론 16\n 제1절 연구의 필요성 16\n 제2절 연구목표 및 "
+		},
+		{
+			"title":"보건소 대사증후군<b>관리<\/b><b>사업<\/b> 참여인력의 역할갈등, 조직몰입, <b>직무<\/b>만족 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61700897",
+			"description":"The Relationship between Role Conflict, Job Satisfaction, and Organizational Commitment among Community Healthcare Workers of the Seoul"
+		},
+		{
+			"title":"군 시설공사 감리 및 건설<b>사업관리<\/b> 입찰참가자격사전심사 기준 개선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79749281",
+			"description":"Improvement of pre-qualification standards for military construction supervision and construction management services 최근 건설경"
+		},
+		{
+			"title":"건설<b>사업관리<\/b> 발전방향: 설계<b>관리<\/b>를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561242193",
+			"description":" 본 연구에서는 건설생산성 향상과 효율화를 도모하기 위해 건설<b>사업관리<\/b> 분야의 활성화가 요구되고 "
+		},
+		{
+			"title":"의료급여 사례<b>관리<\/b><b>사업<\/b>의 <b>직무<\/b>분석 및 효율성 제고 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13682348",
+			"description":"  표제지\n제출문\n요약문\nSUMMARY\n목차\n제1장 서론 17\n 제1절 연구의 필요성 17\n  1. 의료급여제도의 현황과 "
+		},
+		{
+			"title":"맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 활성화를 위한 <b>직무<\/b>교육 만족도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594940312",
+			"description":"   맞춤형 방문건강<b>관리<\/b><b>사업<\/b>, <b>직무<\/b>교육만족도 "
+		},
+		{
+			"title":"맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 활성화를 위한 <b>직무<\/b>교육 만족도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13605258",
+			"description":"A Study of Job Educational Satisfaction for Activating of Tailor Made Visiting Home Health Care   맞춤형방문건강<b>관리<\/b><b>사업<\/b>, "
+		},
+		{
+			"title":"업무서식 및 <b>사업관리<\/b> DB보완 및 전산자료를 이용한 핵심<b>사업<\/b>평가 보고",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=15537239",
+			"description":"  표제지\n제출문\n요약문\n목차\n제1장 연구의 배경 및 필요성 17\n 1. 연구의 배경 17\n 2. 연구의 필요성 17\n제"
+		},
+		{
+			"title":"보건소 맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 전문인력의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885071872",
+			"description":"Task Analysis of Managers in the Customized Visiting Health Services   Task performance and analysis, Home visits, Public health practi"
+		},
+		{
+			"title":"모자보건·가족계획 <b>사업관리<\/b>정보제도 개선방안연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=602390702",
+			"description":" 최근에 이르러 종래에 경제개발에 치중되어온 정부의 정책방향이 사회개발부문으로 확대됨에 따라"
+		},
+		{
+			"title":"우정<b>사업<\/b> 인적자원<b>관리<\/b> 운영 효율성 제고 방안에 관한 소고",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11394825",
+			"description":"  I. 서론=63,69,3\nII. 방법론=65,71,1\n 1. 설문 조사=65,71,2\n 2. 보완 조사=66,72,1\nIII. 우정<b>사업<\/b> 인적자원<b>관리<\/b> 현"
+		},
+		{
+			"title":"보건소 맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 전문인력의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594367703",
+			"description":"   <b>직무<\/b>분석, 방문간호, 보건소 "
+		},
+		{
+			"title":"맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 내 방문간호사의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594574839",
+			"description":"   <b>직무<\/b>, 분석, 방문간호사 "
+		},
+		{
+			"title":"지역사회 노인돌봄<b>사업<\/b> 사회복지사의 <b>직무<\/b>와 교육요구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=647191068",
+			"description":"Task Analysis of the Job Description of Elderly Care Service Manager and Needs for Job Training 본 연구는 지역사회 재가 노"
+		},
+		{
+			"title":"지역사회 노인돌봄<b>사업<\/b> 사회복지사의 <b>직무<\/b>와 교육요구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=648383180",
+			"description":"Task Analysis of the Job Description of Elderly Care Service Manager and Needs for Job Training 본 연구는 지역사회 재가 노"
+		},
+		{
+			"title":"어린이급식<b>관리<\/b>지원센터의 <b>사업<\/b>규모에 따른 직원의 <b>직무<\/b>중요도, <b>직무<\/b>수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=647256346",
+			"description":"Study on the Job Importance, Job Performance, Job Satisfaction, and Turnover Intention of Employees according to the Budget Size of Cen"
+		},
+		{
+			"title":"어린이급식<b>관리<\/b>지원센터의 <b>사업<\/b>규모에 따른 직원의 <b>직무<\/b>중요도, <b>직무<\/b>수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=668740041",
+			"description":"   Turnover intention, Psychology, Business administration "
+		},
+		{
+			"title":"보육교사의 영유아 건강<b>관리<\/b>에 대한 <b>직무<\/b>분석 및 인식조사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=185830619",
+			"description":"Job analysis and investigation of awareness on infant&apos;s health management of preschool teachers  표제지\n목차\n국문요약 11\nI. "
+		},
+		{
+			"title":"맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 내 방문간호사의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879258907",
+			"description":"Job Analysis of the Nurses Who Work in Customized Visiting Health Care Services using DACUM Technique Purpose: This study was performed"
+		},
+		{
+			"title":"지방보조금 담당공무원의 <b>직무<\/b>스트레스 연구 : 지방공무원의 인사<b>관리<\/b> ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561474693",
+			"description":"A Study on Job Stress of Local Government Subsidy Officers : Focusing on Improvement of Personnel Management of Local Public Officials "
+		},
+		{
+			"title":"어린이급식<b>관리<\/b>지원센터의 <b>사업<\/b>규모에 따른 직원의 <b>직무<\/b>중요도, <b>직무<\/b>수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880403705",
+			"description":"Study on the Job Importance, Job Performance, Job Satisfaction, and Turnover Intention of Employees according to the Budget Size of Cen"
+		},
+		{
+			"title":"공공부문 사례<b>관리<\/b> 수행인력의 <b>직무<\/b>만족도에 영향을 미치는 요인에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898929817",
+			"description":"A study on the factors affecting job satisfaction of personnel performing case management in the public sector  표제지\n목차\nABSTRA"
+		},
+		{
+			"title":"공공부문 사례<b>관리<\/b> 수행인력의 <b>직무<\/b>만족도에 영향을 미치는 요인에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896679568",
+			"description":"A study on the factors affecting job satisfaction of personnel performing case management in the public sector  표제지\n목차\nABSTRA"
+		},
+		{
+			"title":"공공부문 사례<b>관리<\/b> 수행인력의 <b>직무<\/b>만족도에 영향을 미치는 요인에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891400168",
+			"description":"A study on the factors affecting job satisfaction of personnel performing case management in the public sector  표제지\n목차\nABSTRA"
+		},
+		{
+			"title":"공공부문 사례<b>관리<\/b> 수행인력의 <b>직무<\/b>만족도에 영향을 미치는 요인에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898560759",
+			"description":"A study on the factors affecting job satisfaction of personnel performing case management in the public sector  표제지\n목차\nABSTRA"
+		},
+		{
+			"title":"공공부문 사례<b>관리<\/b> 수행인력의 <b>직무<\/b>만족도에 영향을 미치는 요인에 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=899295166",
+			"description":"A study on the factors affecting job satisfaction of personnel performing case management in the public sector  표제지\n목차\nABSTRA"
+		},
+		{
+			"title":"중소기업 생산현장 <b>직무<\/b>기피요인해소<b>사업 관리<\/b>지침",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18331227",
+			"description":"  1. 목적\t\r\n2. 적용범위 \t\t\t\t\t\t\t\t\t\r\n3. 주요용어 정의\t\t\t\t\t\t\t\t\t\r\n4. 추진체계\t\t\t\t\t\t\t\t\t\r\n5. 추진절차\t\t\t\t\t\t\t\t\t\r\n6. <b>사업<\/b>"
+		},
+		{
+			"title":"맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 내 방문간호사의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=177270974",
+			"description":"Job Analysis of the Nurses Who Work in Customized Visiting Health Care Services using DACUM Technique Purpose: This study was performed"
+		},
+		{
+			"title":"보건소 맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 전문인력의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890232505",
+			"description":"Task Analysis of Managers in the Customized Visiting Health Services The aim of this study was to analyze the tasks of managers who wer"
+		},
+		{
+			"title":"보건소 맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 전문인력의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845625113",
+			"description":"Task Analysis of Managers in the Customized Visiting Health Services The aim of this study was to analyze the tasks of managers who wer"
+		},
+		{
+			"title":"보건소 맞춤형 방문건강<b>관리<\/b><b>사업<\/b> 전문인력의 <b>직무<\/b>분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562298211",
+			"description":"Task Analysis of Managers in the Customized Visiting Health Services Purpose: The aim of this study was to analyze the tasks of manager"
+		},
+		{
+			"title":"국가연구개발<b>사업<\/b>에 따른 <b>직무<\/b>발명의 귀속과 활용에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=580543677",
+			"description":"A Study on the Ownership and Utilization of the Employee’s Invention of National R&amp;D Project : A Focus on Regulations on The Manageme"
+		},
+		{
+			"title":"어린이급식<b>관리<\/b>지원센터의 <b>사업<\/b>규모에 따른 직원의 <b>직무<\/b>중요도, <b>직무<\/b>수",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765712906",
+			"description":"Study on the Job Importance, Job Performance, Job Satisfaction, and Turnover Intention of Employees according to the Budget Size of Cen"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890766082",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875217755",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=899137159",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881372393",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889984149",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=899185871",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874399444",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886776386",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871671782",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888663477",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891283895",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871527637",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898488520",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889963141",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891345162",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891382566",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886369671",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875566137",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898416399",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889251538",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897417055",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890959508",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889860776",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875334798",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889965002",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873737005",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875494728",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873226640",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897545635",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887448072",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889161179",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887933216",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890375564",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=884691722",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		},
+		{
+			"title":"생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b> 지침서, 2021",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882667514",
+			"description":"  표제지\n목차\nI. 생애 초기 건강<b>관리<\/b> 시범<b>사업<\/b>의 개요 4\n 1. 산전·조기 아동기 개입의 필요성 6\n  가. 건"
+		}
+	]
+}

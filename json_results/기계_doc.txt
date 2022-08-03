@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:09 +0900",
+	"total":453790,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"대한<b>기계<\/b>학회논문집 A",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1411",
+			"description":""
+		},
+		{
+			"title":"대한<b>기계<\/b>학회논문집 B",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1417",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>공정학보 = Chinese journal of mechanical engineering. (机械工程学报 = Chinese jo",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2891848",
+			"description":""
+		},
+		{
+			"title":"일본<b>기계<\/b>학회논문집 C편 (日本機械学会論文集 C編)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2955976",
+			"description":""
+		},
+		{
+			"title":"일본<b>기계<\/b>학회논문집B편 (日本機械学会論文集B編)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2955974",
+			"description":""
+		},
+		{
+			"title":"한국<b>기계<\/b>가공학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5680",
+			"description":""
+		},
+		{
+			"title":"유체<b>기계<\/b>저널",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4004",
+			"description":""
+		},
+		{
+			"title":"한국<b>기계<\/b>기술학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=8857",
+			"description":""
+		},
+		{
+			"title":"일본<b>기계<\/b>학회논문집 (日本機械学会論文集)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3160704",
+			"description":""
+		},
+		{
+			"title":"대한<b>기계<\/b>학회저널",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1053",
+			"description":""
+		},
+		{
+			"title":"섬유<b>기계<\/b>학회지 (纖維機械學會誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2711350",
+			"description":""
+		},
+		{
+			"title":"농업<b>기계<\/b>학회지 =Journal of the Japanese society of agricultural machinery (農業機械",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2508523",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>산업",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1065326",
+			"description":""
+		},
+		{
+			"title":"기술정보 <b>기계<\/b>기술",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1048030",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>와 재료",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1065241",
+			"description":""
+		},
+		{
+			"title":"기우심도학습이론적<b>기계<\/b>장비대수거건강감측방법 (基于深度学习理论的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=499725318",
+			"description":"A Deep Learning-based Method for Machinery Health Monitoring with Big Data &quot;机械装备正在朝着高速、高精、高效方向发"
+		},
+		{
+			"title":"한국어 트위터의 감정 분류를 위한 <b>기계<\/b>학습의 실증적 비교",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74826091",
+			"description":"An Empirical Comparison of Machine Learning Models for Classifying Emotions in Korean Twitter 온라인에서의 글쓰기가 늘어나"
+		},
+		{
+			"title":"<b>기계<\/b>체조 채점규칙 변경에 따른 안마 연기내용 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13261749",
+			"description":" 본 연구는 새롭게 변경된 채점규칙에 따른 안마 연기내용을 면밀히 분석하여 다양하고 독창성 있는 "
+		},
+		{
+			"title":"기우“미과”배경하고직원교《<b>기계<\/b>제도》교학모식개혁탐석 (基于“微",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=721758478",
+			"description":""
+		},
+		{
+			"title":"고직《<b>기계<\/b>설계기초》과정항목화교학개혁실천 (高职《机械设计基础》",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=682030414",
+			"description":""
+		},
+		{
+			"title":"기우항목구동적《<b>기계<\/b>설계기초》과정개혁 (基于项目驱动的《机械设计",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=742697104",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>번역 담론에 대한 비판적 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561706348",
+			"description":"A Critical Look at Discourses on Machine Translation Machine translation (MT) has recently received much attention both in academia and"
+		},
+		{
+			"title":"대수거하<b>기계<\/b>지능고장진단적궤우여도전 (大数据下机械智能故障诊断的",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=517666506",
+			"description":"Opportunities and Challenges of Machinery Intelligent Fault Diagnosis in Big Data Era 机械故障是风力发电设备、航空发动"
+		},
+		{
+			"title":"고직＂<b>기계<\/b>제도여CAD＂과정교학개혁여실천 (高职＂机械制图与CAD＂课程",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=726388597",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>압실대토양질량、작물생장、토양생물급환경적영향 (机械压实对土",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=658529800",
+			"description":""
+		},
+		{
+			"title":"덕국응용과기대학（FH）응용형인재배양모식급<b>기계<\/b>시 (德国应用科技大",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=697156283",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>번역 결과물의 오류유형 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561706347",
+			"description":"An Analysis of Errors in Machine Translation Advancement in technology leads to rapid development of machine translation. On account of"
+		},
+		{
+			"title":"덕국“자주학습화능력도향”교학모식급<b>기계<\/b>시 (德国“自主学习和能力",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=733221271",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>고장진단기초연구“하거하종” (机械故障诊断基础研究“何去何从",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=219954687",
+			"description":"Basic Research on Machinery Fault Diagnosis—What is the Prescription 机械故障诊断是一门起源于20世纪60年代的新兴学"
+		},
+		{
+			"title":"<b>기계<\/b>번역 결과물의 오류유형 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=452166743",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>체조 선수의 마음챙김 기반 심리훈련(MBPST)의 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561519636",
+			"description":"The Effects of the Mindfulness-Based Psychological Skills Training(MBPST) on Gymnasts 목적: 본 연구의 목적은 엘리트 <b>기계<\/b>"
+		},
+		{
+			"title":"데이컴(DACUM) 기법을 활용한 <b>기계<\/b>·금속 교사의 직무 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594012633",
+			"description":" 이 연구는 데이컴(DACUM) 기법을 활용하여 <b>기계<\/b> 금속 교사의 직무(job)를 분석하는 것이다. 데이컴 직무 "
+		},
+		{
+			"title":"<b>기계<\/b>증기재압축기술(MVR)연구현상 (机械蒸汽再压缩技术(MVR)研究现状)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=722230364",
+			"description":""
+		},
+		{
+			"title":"화북극납통남연비양춘수연산기여질A형화강암류：연대학、지구화학급",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=674003504",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>합금화화진공예압소결FeCoCrNiMn고적합금적현미조직화력학성능 (机械",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=497861954",
+			"description":"Microstructure and mechanical properties of FeCoCrNiMn high-entropy alloy produced by mechanical alloying and vacuum hot pressing sinte"
+		},
+		{
+			"title":"다학제적 라이프스타일 개선 프로그램이 과체중 · 비만 중년여성의 건",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=677820981",
+			"description":"   Medicine "
+		},
+		{
+			"title":"<b>기계<\/b>공업 종사자의 작업복 착용 실태조사 연구 (機械工業 종사자의 작업",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11247959",
+			"description":"A Research of Worker`s Uniform in the Mechanical Industry The purpose of this study is to provide basic data for improvement in Working"
+		},
+		{
+			"title":"기우개진Hilbert-Huang변환적<b>기계<\/b>고장진단 (基于改进Hilbert-Huang变换的机械",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=223938804",
+			"description":"Machinery Fault Diagnosis Based on Improved Hilbert-Huang Transform Hilbert-Huang变换(Hilbert-Huangtransform,HHT)通过经验模式"
+		},
+		{
+			"title":"특허 <b>기계<\/b>번역 결과물의 평가 - KIPRIS의 무료 한영 <b>기계<\/b>번역을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291024583",
+			"description":"A Study on the evaluation of Korean-English patent machine translation–Focusing on KIPRIS K2E-PAT translation. This study aims at ass"
+		},
+		{
+			"title":"다중 인코더 구조를 활용한 <b>기계<\/b>번역 품질 예측",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897763811",
+			"description":"Quality Estimation of Machine Translation using Dual-Encoder Architecture sadfsㅁ<b>기계<\/b>번역 품질 예측은 <b>기계<\/b>가 번역 문장"
+		},
+		{
+			"title":"<b>기계<\/b>설계여연구 (机械设计与研究)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2891853",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>분해이급<b>기계<\/b>화학환원양화은제비은납미분말 (机械分解以及机械化",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220140218",
+			"description":"Preparation of nanostructure silver powders by mechanical decomposing and mechanochemical reduction of silver oxide 采用高速行星"
+		},
+		{
+			"title":"양화자-유황-환원성첨가제혼합분말적<b>기계<\/b>화학유화행위 (氧化锌-硫磺-还",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=220247681",
+			"description":"Mechano-chemical sulfidization of zinc oxide by grinding with sulfur and reductive additives 采用高能球磨技术研究氧化锌-"
+		},
+		{
+			"title":"농업<b>기계<\/b> 자격증 활성화 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896915356",
+			"description":""
+		},
+		{
+			"title":"2021년 유체<b>기계<\/b> 연구동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=895133567",
+			"description":""
+		},
+		{
+			"title":"고정밀 공작<b>기계<\/b> 이송장치의 정밀도 측정방법 및 불확도 요인에 관한 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=445446488",
+			"description":"A Study on the Measurement Method and Uncertainty Factors for Precision Inspection to Feed Unit of High Precision Machine Tool Very imp"
+		},
+		{
+			"title":"2021년 환경<b>기계<\/b> 분야 연구동향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=894284625",
+			"description":""
+		},
+		{
+			"title":"노화에 의한 호흡<b>기계<\/b>의 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186523114",
+			"description":"Aging of the respiratory system Changes in the respiratory system caused by aging generally include structural changes in the thoracic "
+		},
+		{
+			"title":"실내 이산화탄소 농도 예측을 위한 <b>기계<\/b>학습 모델 검증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651417702",
+			"description":"Verification of Machine Learning Algorithm for CO2 Prediction in Building The objective of this study is to develop prediction model of"
+		},
+		{
+			"title":"문법 정확도 평가(GAE): <b>기계<\/b> 번역 모델의 정량화된 정성 평가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897763622",
+			"description":"Grammar Accuracy Evaluation (GAE): Quantifiable Qualitative Evaluation of Machine Translation Models 자연어 생성은 시스템의 "
+		},
+		{
+			"title":"정밀 공작<b>기계<\/b>의 회전 영역별 진동 및 불평형량 감소에 따른 가공 정밀",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=752259742",
+			"description":"   Vibration, Roundness (object), Rotational speed, Rotation (mathematics), Noise, Mechanical engineering, Machining, Machine tool, Eng"
+		},
+		{
+			"title":"계층적 컨볼루션 신경망을 이용한 공작<b>기계<\/b>의 공구 상태 진단",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897763713",
+			"description":"Machine Tool State Monitoring Using Hierarchical Convolution Neural Network 공작<b>기계<\/b> 상태 진단은 <b>기계<\/b>의 상태를 자동으"
+		},
+		{
+			"title":"체격, 체력요인에 의한 남자 우수 <b>기계<\/b>체조 선수의 경기력 결정 요인 분",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13276610",
+			"description":" 본 연구는 남자 <b>기계<\/b>체조 상비군과 국가대표 선수의 <b>기계<\/b>체조 경기력에 영향을 미치는 체격 및 체력 "
+		},
+		{
+			"title":"인공 지능에서 인공 감정으로‒감정을 가진 <b>기계<\/b>는 실현가능한가?‒",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291019848",
+			"description":"Artificial intelligence and artificial emotions - Is an emotion robot realizable? - 인공 감정에 관한 철학적 탐구가 필요"
+		},
+		{
+			"title":"감응적 글쓰기로 담아낸 어느 유아교육-<b>기계<\/b>의 삶과 배움에 대한 자문화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896637879",
+			"description":"Autoethnography on an Early Childhood Education Machine’s Life and Learning Captured in Affective Writing 점수에 맞추어 피투 "
+		},
+		{
+			"title":"데이컴(DACUM) 기법을 활용한<b>기계<\/b>·금속 교사의 직무 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=174656700",
+			"description":"Job\/Occupational Analysis of Secondary Mechanical and Metallurgical Education Teachers Using the DACUM Methodology 이 연구는 데이"
+		},
+		{
+			"title":"<b>기계<\/b>설계제조급기자동화전업“3＋4”분단인재배양방안초탐 (机械设计",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=714320523",
+			"description":""
+		},
+		{
+			"title":"유체<b>기계<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2139454",
+			"description":""
+		},
+		{
+			"title":"여함량대AZ계열미합금<b>기계<\/b>가공성능적영향 (铝含量对AZ系列镁合金机械加",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=219907677",
+			"description":"Influence of Al content on machinability of AZ series Mg alloys 研究铝含量对AZ系列铸造铝合金机械加工性能的影响。"
+		},
+		{
+			"title":"기업국제화적조건、노경、모식급<b>기계<\/b>시 (企业国际化的条件、路径、模",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=660169143",
+			"description":""
+		},
+		{
+			"title":"XGBoost Regression <b>기계<\/b>학습을 이용한 제주도 지하수 염소이온 농도예측 연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898390907",
+			"description":"Prediction of chloride concentration in groundwater on Jeju Island using XGBoost regression machine learning <b>기계<\/b>학습은 현재 다"
+		},
+		{
+			"title":"이학과경새위대체，배양대학생적사종능력——이광서대학<b>기계<\/b>공정학원",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=737226382",
+			"description":""
+		},
+		{
+			"title":"일본<b>기계<\/b>학회관동지부총회강연회강연논문집 (日本機械学会関東支部総",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3160689",
+			"description":""
+		},
+		{
+			"title":"자동차, 건설<b>기계<\/b>, 항공기 등록의 법적 성격",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=235713333",
+			"description":"Legal Meaning of the Registration of Car, Construction Machinery, Aircraft 행정법상 등록의 법적 성격이 무엇인지에 대"
+		},
+		{
+			"title":"<b>기계<\/b>가고성설계적내함여체진 (机械可靠性设计的内涵与递进)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=225109749",
+			"description":"Connotation and Development of Mechanical Reliability-based Design 机械可靠性设计的基本任务是在故障物理学研究的"
+		},
+		{
+			"title":"고전문언문 <b>기계<\/b>번역의 현황과 과제 (古典文言文 <b>기계<\/b>번역의 현황과 과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873746666",
+			"description":"The machine translation status and assignments of Classical Chinese 이 글은 한문(고전문언문) <b>기계<\/b>번역의 현황을 살펴"
+		},
+		{
+			"title":"Redis 성능 향상을 위한 비선형 <b>기계<\/b>학습 기반의 파라미터 튜닝 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=894273302",
+			"description":"A Study on Parameter Tuning Based on Non-linear Machine Learning to Improve Redis Performance 인메모리 데이터베이스인 Redis"
+		},
+		{
+			"title":"몸과 <b>기계<\/b>의 경계 : 사이버네틱스, 인공생명, 온생명",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18653649",
+			"description":"  목차\n몸과 <b>기계<\/b>의 경계 : 사이버네틱스, 인공생명, 온생명 \/ 김재영 1\n 1. 글머리에 1\n 2. 몸: 사이버네"
+		},
+		{
+			"title":"시몽동의 기술철학에서 나타난 인간-<b>기계<\/b> 짝짓기의 가능성에 관해",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887309790",
+			"description":"Regarding the possibility of human-machine coupling in Simondon's philosophy of technology 이 논문은 도구성을 벗어나서 기"
+		},
+		{
+			"title":"산업현장 추락에 대한 <b>기계<\/b>학습 알고리즘 기반의 다집단 분류",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887309957",
+			"description":"Multi-class Classification of Industrial Fall from Height based on Machine Learning Algorithm 본 연구에서는 웨어러블 관성"
+		},
+		{
+			"title":"<b>기계<\/b>화학법제비적Al\/Ce복합양화물부대NiMo최화제적가경탈유활성 (机械化",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=176424308",
+			"description":"Hydrodesulfurization activities of NiMo catalysts supported on mechanochemically prepared Al-Ce mixed oxides 将Al和\/或Ce的硝酸盐"
+		},
+		{
+			"title":"<b>기계<\/b> 학습을 이용한 공동주택 가격 추정: 서울 강남구를 사례로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561694136",
+			"description":"Estimation of the Apartment Housing Price Using the Machine Learning Methods: The Case of Gangnam-gu, Seoul This study examines the app"
+		},
+		{
+			"title":"결합“탁월공정사교육배양계화”적국가특색전업건설——이계림전자과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=734614858",
+			"description":""
+		},
+		{
+			"title":"학부번역전공자의 <b>기계<\/b>번역 포스트에디팅, 무엇이 문제이고, 무엇을 가",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561603179",
+			"description":"What can we learn from trainee translators’ post-editing? The purpose of this study is two-fold: (1) to show what problems exist in m"
+		},
+		{
+			"title":"<b>기계<\/b>체조 선수의 마음챙김 기반 심리훈련(MBPST)의 효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420191268",
+			"description":"The Effects of the Mindfulness-Based Psychological Skills Training(MBPST) on Gymnasts 목적: 본 연구의 목적은 엘리트 <b>기계<\/b>"
+		},
+		{
+			"title":"언어적 특성과 서비스를 고려한 딥러닝 기반 한국어 방언 <b>기계<\/b>번역 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887309324",
+			"description":"Deep Learning based Korean Dialect Machine Translation Research Considering Linguistics Features and Service 본 논문은 방언 연"
+		},
+		{
+			"title":"면향공정능력배양적《<b>기계<\/b>공정공제기초》과정교학방법탐색 (面向工程",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=691307173",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b>번역과 인간번역, <b>기계<\/b>번역 사후편집본과 인간번역 감수본의 품질",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887974536",
+			"description":"A Comparative Evaluation of Machine Translation and Human Translation, and Post-edited Machine Translation and Revised Human Translatio"
+		},
+		{
+			"title":"한영 <b>기계<\/b>번역 포스트 에디팅에 대한 경험적 고찰: 학부 교육 과정 및 결",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561618950",
+			"description":"An Empirical Investigation of Kor-Eng Machine Translation Post-Editing: Focused on the Analysis of MT-PE of Undergraduates Given the si"
+		},
+		{
+			"title":"슬개대퇴증후군 환자의 체중부하 CT를 활용한 <b>기계<\/b>학습 기반 무릎 통증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638132",
+			"description":"Machine Learning-based Knee Pain Assessment Using the Upright CT of Patients with Patellofemoral Pain Patellofemoral pain (PFP), a comm"
+		},
+		{
+			"title":"<b>기계<\/b>학습 기반 접근관제구역 수용량 예측 모형",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886872123",
+			"description":"Machine Learning Based Capacity Prediction Model of Terminal Maneuvering Area 항공교통흐름관리의 목적은 공항 및 공역"
+		},
+		{
+			"title":"<b>기계<\/b>진동보조격광용복Fe-Cr-Si-B-C도층적현미조직급계면분포형태 (机械振",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=724733041",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b> 학습을 이용한 한의학 용어 유의어 사전 구축 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887633440",
+			"description":"A Strategy for Constructing the Thesaurus of Traditional East Asian Medicine (TEAM) Terms With Machine Learning 목적 : <b>기계<\/b> 학습"
+		},
+		{
+			"title":"구매기업의 공급기업관계지향성이 공급기업 통합활동과 운영성과 개선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155985318",
+			"description":"A Global Study of a Buying Firm’s Supplier Relationship Orientation, Supplier Integration, and Performance Improvement: Evidences fro"
+		},
+		{
+			"title":"포스트에디팅 측정지표를 통한 <b>기계<\/b>번역 오류 유형화 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561618948",
+			"description":"Revisiting Machine Translation Error Typology through Human Post-editing Post-editing refers to correcting and editing machine translat"
+		},
+		{
+			"title":"영국、미국、일본적생명교육실천급<b>기계<\/b>시 (英国、美国、日本的生命教",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=708102175",
+			"description":""
+		},
+		{
+			"title":"체육교사의 <b>기계<\/b>체조 수업 운영 부담 및 어려움과 개선방안: <b>기계<\/b>체조 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887307514",
+			"description":"The burden and difficulty of the artistic gymnastics class operation by physical education instructor and its improvement: Centered on "
+		},
+		{
+			"title":"BART 기반 <b>기계<\/b>학습 인과효과 추정 사례 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896638630",
+			"description":"A case study of estimating a causal effect using machine learning with Bayesian Additive Regression Trees The study aims to introduce a"
+		},
+		{
+			"title":"기우시변구간화천역모형적<b>기계<\/b>시변가고성분석방법 (基于时变区间和穿",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=456042727",
+			"description":"Time Variant Reliability Approach with Time-variant Interval and Upcrossing Model 现有机械时变可靠性模型主要以概率论"
+		},
+		{
+			"title":"단조 서포트벡터<b>기계<\/b>를 이용한 카플란-마이어 생존함수의 평활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57056190",
+			"description":"Smoothing Kaplan-Meier estimate using monotone suppot vector regression 서포트벡터<b>기계<\/b>는분류및비선형함수추정에서유"
+		},
+		{
+			"title":"중국<b>기계<\/b>설비행업경영적효평개급영향인소——기우초효율DEA-Tobit모형 (",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=751208106",
+			"description":""
+		},
+		{
+			"title":"4차 산업혁명 이후 건축분야 인공지능 연구동향 분석 - <b>기계<\/b>공학 분야와",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896615652",
+			"description":"Analysis of AI Research Trends in Architecture after the Fourth Industrial Revolution - Focused on Comparative Analysis of Mechanical E"
+		},
+		{
+			"title":"윤고교호동형교학대망적“계약”정신급<b>기계<\/b>시 (论高校互动型教学大纲",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=697935605",
+			"description":""
+		},
+		{
+			"title":"덕국“쌍원제”직업교육사자배양모식급<b>기계<\/b>시 (德国“双元制”职业教",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=666412081",
+			"description":""
+		},
+		{
+			"title":"학부 번역전공자의 구글 <b>기계<\/b>번역 포스트에디팅에 관한 현상학 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561625161",
+			"description":"A Phenomenological Study of Undergraduate Students’ Experiences of Machine Translation Post-editing This qualitative research describ"
+		},
+		{
+			"title":"가용진동두식<b>기계<\/b>진동세화Al-5%Cu여합김정립 (可熔振动头式机械振动细化",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=218045723",
+			"description":"Grain refinement of Al–5%Cu aluminum alloy under mechanical vibration using meltable vibrating probe 介绍一种机械振动细化"
+		},
+		{
+			"title":"<b>기계<\/b> 학습을 이용한 한의학 용어 유의어 사전 구축 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886942948",
+			"description":"A Strategy for Constructing the Thesaurus of Traditional East Asian Medicine (TEAM) Terms With Machine Learning 목적 : <b>기계<\/b> 학습"
+		},
+		{
+			"title":"한국어 의존 관계 분석과 자질 집합 분할을 이용한 <b>기계<\/b> 학습의 성능 개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=702864323",
+			"description":""
+		},
+		{
+			"title":"<b>기계<\/b> 부품의 품질 향상을 위한 부품 해석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896915484",
+			"description":"Analysis to Improve the Quality of Mechanical Parts 공작<b>기계<\/b>는 부품의 절단, 압축, 인발 및 트리밍 가공을 수행할 "
+		},
+		{
+			"title":"섬유<b>기계<\/b>학회지 (繊維機械學會誌)",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3200507",
+			"description":""
+		}
+	]
+}

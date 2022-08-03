@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:30 +0900",
+	"total":9348,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>사회복지<\/b>전담공무원 소진에 영향을 미치는 요인 - 개인적 특성, <b>직무<\/b>환",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13703625",
+			"description":"Determinants for the Burn-out of Social Welfare Government officials: Personal Characteristics, Work Environment Characteristics and Pr"
+		},
+		{
+			"title":"실천공동체 <b>사회복지<\/b>사의 지식창출과 공유가 <b>사회복지 직무<\/b>수행에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630760031",
+			"description":"The Effect of Knowledge Creation and Sharing on the Job Performance of Social Workers in the Community of Practice － Focusing on the "
+		},
+		{
+			"title":"실천공동체 <b>사회복지<\/b>사의 지식창출과 공유가 <b>사회복지 직무<\/b>수행에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880845785",
+			"description":"The Effect of Knowledge Creation and Sharing on the Job Performance of Social Workers in the Community of Practice － Focusing on the "
+		},
+		{
+			"title":"실천공동체 <b>사회복지<\/b>사의 지식창출과 공유가 <b>사회복지 직무<\/b>수행에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606808646",
+			"description":"The effect of knowledge creation and sharing of social welfare in the community of practice on the job performance of social welfare : "
+		},
+		{
+			"title":"<b>사회복지<\/b>서비스 질에 있어 <b>사회<\/b>복무요원과 <b>사회복지<\/b>사간 관계의 매개효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58314641",
+			"description":"The Study on the Mediated Effect of Public Service Workers and Social Workers about the Quality of Social Services: Based on Job Factor"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 임파워먼트가 서비스 질에 미치는 영향에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562516725",
+			"description":"Mediating Effects of Job Satisfaction in the Influence of Empowerment on Service Quality in Social Welfare Facility Workers 본 연구"
+		},
+		{
+			"title":"<b>사회복지<\/b>담당공무원의 전문성, <b>직무<\/b>환경, 소진에 관한 실태 및 지역별 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78377215",
+			"description":"A Study on the Condition and Regional Differences about the Professionalism, Work-Environment and Burn-out of Social-Welfare Officials "
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 집단문화가 구성원들의 조직시민행동에 미치는 영향: ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56415576",
+			"description":"Social Welfare Organization&apos;s Group Culture on Organizational Citizenship Behavior(OCB) of Employees: Focusing on the Mediating Effect "
+		},
+		{
+			"title":"<b>사회복지<\/b>조직 구성원의 임파워먼트와 조직 공정성 지각이 조직몰입과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=232457611",
+			"description":"Influences of Empowerment and Perception on Organizational Justice of Members in Social Welfare Organization Upon Organizational Commit"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 보수만족 및 <b>직무<\/b>스트레스가 <b>직무<\/b>만족 및 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289432290",
+			"description":"Exploring Effects of Job Stress and Pay Satisfaction on Job Satisfaction and Job Involvement Among Social Workers 한국 <b>사회<\/b>는 저"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 <b>직무<\/b>특성이 자기효능감에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=17584498",
+			"description":"The Influence on Self-Effectiveness by Job Feature for Organization Competence of Public Officers in charge of Social Welfare 본 연"
+		},
+		{
+			"title":"<b>사회복지<\/b>생활시설 종사자의 자기효능감과 요인별 <b>직무<\/b>만족이 전반적 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594699639",
+			"description":" 본 연구는 <b>사회복지<\/b>생활시설에 근무하는 종사자의 자기효능감과 요인별 <b>직무<\/b>만족이 전반적 <b>직무<\/b>만"
+		},
+		{
+			"title":"<b>사회복지<\/b>전문요원의 <b>직무<\/b>만족, 이직의도, Burnout에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=804329919",
+			"description":"   Political science, Media studies "
+		},
+		{
+			"title":"서울특별시 <b>사회복지<\/b>담당공무원의 감정노동이 <b>직무<\/b>스트레스와 <b>직무<\/b>소",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=62886432",
+			"description":"(A)study on the effect emotional labor on the job stress and job burnout of social work civil servant of SMG : focused on regulation ef"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 <b>직무<\/b>스트레스가 <b>직무<\/b>만족에 미치는 영향: <b>사회<\/b>적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=61703526",
+			"description":"The Effect of Job Stress on Job Satisfaction of Public Social Workers: Focused on the Moderating Effects of Social Capital 본 연구"
+		},
+		{
+			"title":"공공과 민간 <b>사회복지<\/b>종사자 전문성 인식차이와 <b>직무<\/b>몰입·<b>직무<\/b>성과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882690780",
+			"description":"Differences in the Perception of Professionalism of Public and Private Social Workers and Their Relationship with Job Commitment and Jo"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 일가정갈등이 이직의도에 미치는 영향 : 소진과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650689532",
+			"description":"Effects of work–family conflict among public social welfare officers on turnover intentions : focus on the mediating effects of exhau"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설의 조직윤리에 관한 연구: 윤리적 리더십, 조직윤리풍토, ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78319285",
+			"description":"A Study on Organizational Ethics of Social Welfare Agency: Relationship among Ethical Leadership, Ethical Climate, and Organizational E"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설의 복리후생 수준과 <b>사회복지<\/b>시설 종사자의 이직의도와의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562524440",
+			"description":"Fringe Benefits and Turnover Intention of Social Workers: Multiple Mediation Effects of Job Satisfaction and Self-Perceived Human Right"
+		},
+		{
+			"title":"도시·농촌간 <b>사회복지<\/b>전문요원의 <b>직무<\/b>수행과 <b>직무<\/b>만족에 관한 비교연",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878552245",
+			"description":"   Social science, Political science, Media studies, 도시, 농촌, <b>사회복지<\/b>전문요원, <b>직무<\/b>만족도 "
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 감정노동이 이직의도에 미치는 영향 연구 : <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77172034",
+			"description":"(The)influence of emotional labor on turnover intention of workers in social welfare facilities : focusing on the mediating effect of j"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 <b>사회복지<\/b>교육성과와 <b>직무<\/b>성과와의 관계 : 임파워",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562294925",
+			"description":"Relationship Between Outcomes of Social Welfare Education and Job Performance of Public Social Worker - Focusing on the Mediating Effec"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 일가치감이 <b>직무<\/b>스트레스에 미치는 영향과 감정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561755231",
+			"description":"How Public Social Workers&apos; Perceived Value of Work Influences on Their Job Stress and Moderating Effects of Emotional Labor 본 연구"
+		},
+		{
+			"title":"지역<b>사회복지<\/b>조직의 윤리경영이 조직몰입 및 <b>직무<\/b>만족에 미치는 영향에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=302628791",
+			"description":"A Study on the Effects of Ethical Managementin Community Welfare Organization onOrganizational Commitment and Job Satisfaction <b>사회<\/b>"
+		},
+		{
+			"title":"<b>사회복지<\/b> 종사자들의 셀프리더십과 임파워먼트와 <b>직무<\/b>만족 간의 인과관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56548631",
+			"description":"The Causal Relationships among the Employee&apos;s Self-leadership, the Empowerment and Job Satisfaction in Social Welfare Facilities 이 "
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 감정노동 선행요인과 결과요인에 관한 연구: 자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116458370",
+			"description":"Antecedents and Consequences of Emotional Labor in Employee of the Social Welfare Facilities : Focused on the Conservation of Resources"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 <b>사회복지<\/b>교육성과와 <b>직무<\/b>성과와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562294925",
+			"description":"Relationship between outcomes of social welfare education and job performance of public social worker 본 연구는 <b>사회복지<\/b>전담"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 개인-조직적합성과 개인-<b>직무<\/b>적합성이 <b>직무<\/b>열의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822313399",
+			"description":"The person-organization fit and the person-job fit of public officials in charge of social welfare impact on job enthusiasm : focused o"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 삶의 질 연구 : 노후준비 및 <b>직무<\/b>만족의 영향을 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57801460",
+			"description":"  표제지\n목차\n국문초록 6\nI. 서론 9\n 1. 연구의 필요성 및 목적 9\n 2. 연구문제 및 연구모형 14\nII. 이론적 "
+		},
+		{
+			"title":"공공 <b>사회복지<\/b>전달체계 내 통합사례관리 운영방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290309974",
+			"description":"The Study of Integrated Case Management in the Public Social Welfare Delivery System 본 연구는 공공 <b>사회복지<\/b>전달체계 내 "
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 개인-조직적합성과 개인-<b>직무<\/b>적합성이 <b>직무<\/b>열의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651406016",
+			"description":"The Person-organization Fit and the Person-job Fit of Public Officials in Charge of Social Welfare Impact on Job Enthusiasm: Focused on"
+		},
+		{
+			"title":"<b>사회복지<\/b>공무원의 <b>직무<\/b>스트레스와 소진과의 관계에서 마음챙김의 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865544291",
+			"description":"Relationship Between Job Stress and Burnout of Social Welfare Officials: The Mediating Effect of Mindfulness 본 연구는 <b>사회복지<\/b>"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 <b>사회복지<\/b>사의 감정노동이 <b>직무<\/b>성과에 미치는 영향 : 상사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843066021",
+			"description":"Effects of Emotional Labor on Job Performance of Social Welfare Workers in Social Welfare Facilities : Focused on the Mediation Effect "
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 일가정갈등이 이직의도에 미치는 영향 - 소진과 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=643643930",
+			"description":"Effects of Work–Family Conflict among Public Social Welfare Officers on Turnover Intentions – Focus on the Mediating Effects of Exh"
+		},
+		{
+			"title":"<b>사회복지<\/b>기관 종사자의 학습지향성이 <b>직무<\/b>만족에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594422784",
+			"description":" <b>사회복지<\/b>기관 종사자들은 업무의 특수성으로 인하여 그 어느 조직보다도 학습의 중요성이 강조되는 "
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 경력관리와 경력계획이 종사자의 <b>직무<\/b>태도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877724216",
+			"description":"Effects of Creer Management and Career Plan of Social Welfare Organization on the Social Worker;s Job Attitude    "
+		},
+		{
+			"title":"정신적 폭력이 <b>사회복지<\/b> 종사자의 이직의도에 미치는 영향 : <b>직무<\/b>스트레",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841284221",
+			"description":"The effects of mental violence on turnover intention in social workers : focused on the mediating effects of job stress and burnout   "
+		},
+		{
+			"title":"<b>사회복지<\/b>종사자가 지각한 인권보장 수준이 이직의도에 미치는 영향 : 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=604858190",
+			"description":"The Effects of the Level of Human Rights Perceived by Social Workers on Turnover Intention : Focusing on the Mediating Effect of Job Sa"
+		},
+		{
+			"title":"<b>사회복지<\/b>종사자가 지각한 인권보장 수준이 이직의도에 미치는 영향 : 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=638270833",
+			"description":"The Effects of the Level of Human Rights Perceived by Social Workers on Turnover Intention : Focusing on the Mediating Effect of Job Sa"
+		},
+		{
+			"title":"<b>사회복지<\/b>서비스 전달체계 개선에 관한 연구:시군구와 읍면동 <b>복지<\/b>담당",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78366767",
+			"description":"A Study on the Improvement in Social Welfare Services Delivery System: Focused on the job analysis of government employees who take a c"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설의 복리후생 수준과 <b>사회복지<\/b>시설 종사자의 이직의도와의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595106439",
+			"description":" 본 연구는 <b>사회복지<\/b>시설 종사자 근무 기관에서의 복리후생 수준이 <b>사회복지<\/b>시설 종사자의 이직의도"
+		},
+		{
+			"title":"<b>사회복지<\/b> 공무원의 심리적 자본이 <b>직무<\/b>성과에 미치는 영향 : 조직시민행",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=580658531",
+			"description":" 본 연구는 <b>사회복지<\/b> 공무원의 심리적 자본이 <b>직무<\/b>성과에 어떠한 영향을 미치며, 또한 그들의 심리적 "
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 <b>사회복지<\/b>사의 감정노동이 <b>직무<\/b>성과에 미치는 영향 : 상사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878464201",
+			"description":"Effects of Emotional Labor on Job Performance of Social Welfare Workers in Social Welfare Facilities : Focused on the Mediation Effect "
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 참여적 의사결정이 <b>직무<\/b>성과에 미치는 영향 : 구성원 민",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765790090",
+			"description":"The Influence of Participatory Decision Making of Social Welfare Organization on Job Performance : Mediating Effect of Member Agility "
+		},
+		{
+			"title":"<b>사회복지<\/b>시설장의 진정성 리더십이 <b>사회복지<\/b>사의 <b>직무<\/b>만족에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888011955",
+			"description":"The effect of authentic leadership of a head of a social welfare facilities on the job satisfaction of a social worker : mediator effec"
+		},
+		{
+			"title":"<b>사회복지<\/b>공무원의 <b>직무<\/b>스트레스와 소진과의 관계에서 마음챙김의 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890099239",
+			"description":"Relationship Between Job Stress and Burnout of Social Welfare Officials: The Mediating Effect of Mindfulness 본 연구는 <b>사회복지<\/b>"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 의사소통과 감정노동이 <b>직무<\/b>소진, <b>사회복지<\/b> 서비",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562407436",
+			"description":"Effects of communication and emotional labor experienced by social welfare officials on job burnout and social welfare service quality "
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 조직몰입이 <b>사회복지<\/b>서비스 질에 미치는 영향 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897425430",
+			"description":"A study on the effects of organizational commitment of social welfare facility workers on the quality of social welfare services : focu"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 조직몰입이 <b>사회복지<\/b>서비스 질에 미치는 영향 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897551521",
+			"description":"A study on the effects of organizational commitment of social welfare facility workers on the quality of social welfare services : focu"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 조직몰입이 <b>사회복지<\/b>서비스 질에 미치는 영향 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898556172",
+			"description":"A study on the effects of organizational commitment of social welfare facility workers on the quality of social welfare services : focu"
+		},
+		{
+			"title":"<b>사회복지<\/b> 담당공무원과 일반행정직 공무원의 <b>직무<\/b>스트레스에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630843014",
+			"description":"A Study on the Job Stress of Social Welfare Officials and Administrative Officials 본 연구는 <b>사회복지<\/b> 담당공무원과 일반"
+		},
+		{
+			"title":"<b>사회복지<\/b>담당공무원의 <b>직무<\/b>스트레스, <b>직무<\/b>만족, 이직의도의 수준 및 관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595041716",
+			"description":" 본 연구는 충남 북 지역의 주민센터에서 <b>사회복지<\/b> 업무를 담당하고 있는 공무원 291명을 대상으로 하"
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 조직문화가 <b>직무<\/b>만족에 미치는 영향 연구 : 조직몰입의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=153935222",
+			"description":"(A)study on the influence of organizational culture on job satisfaction of social welfare organization : focusing on the mediating effe"
+		},
+		{
+			"title":"특정영역 <b>사회복지<\/b>사의 <b>직무<\/b>소진 영향 요인 탐색 연구: <b>사회복지<\/b>시설 근",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843036481",
+			"description":"Study of the Factors Affecting Job Burnout for Specific-Sector Social Workers: Comparison with Social Workers in Social Welfare Facilit"
+		},
+		{
+			"title":"<b>사회복지<\/b> 공무원의 심리적 자본이 <b>직무<\/b>성과에 미치는 영향 : 조직시민행",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=596512455",
+			"description":"The Effect of Psychological Capital on the Job Performance among Public Servants in Social Work Services : Focusing on the Mediating Ro"
+		},
+		{
+			"title":"<b>사회복지<\/b>기관 <b>사회복지<\/b>사의 감정노동이 <b>직무<\/b>스트레스와 <b>직무<\/b>소진에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897269913",
+			"description":"The impact of emotional labor of social workers at social welfare institutions on job stress and job burnout : focusing on the mediatin"
+		},
+		{
+			"title":"<b>사회복지<\/b>기관 <b>사회복지<\/b>사의 감정노동이 <b>직무<\/b>스트레스와 <b>직무<\/b>소진에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897424772",
+			"description":"The impact of emotional labor of social workers at social welfare institutions on job stress and job burnout : focusing on the mediatin"
+		},
+		{
+			"title":"<b>사회복지<\/b>기관 <b>사회복지<\/b>사의 감정노동이 <b>직무<\/b>스트레스와 <b>직무<\/b>소진에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897331495",
+			"description":"The impact of emotional labor of social workers at social welfare institutions on job stress and job burnout : focusing on the mediatin"
+		},
+		{
+			"title":"<b>사회복지<\/b>기관 <b>사회복지<\/b>사의 감정노동이 <b>직무<\/b>스트레스와 <b>직무<\/b>소진에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898556278",
+			"description":"The impact of emotional labor of social workers at social welfare institutions on job stress and job burnout : focusing on the mediatin"
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 리더십이 <b>사회복지<\/b>사의 실천수행에 미치는 영향 : <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601769996",
+			"description":" 본 연구는 조직의 리더십과 <b>직무<\/b>환경이 <b>사회복지<\/b>사의 실천수행에 미치는 영향을 분석하였다. 자료수"
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 리더십이 <b>사회복지<\/b>사의 실천수행에 미치는 영향 : <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606910162",
+			"description":"Effects of leadership of social welfare organization on the practice performance of social workers : focused on work environment mediat"
+		},
+		{
+			"title":"정신적 폭력이 <b>사회복지<\/b> 종사자의 이직의도에 미치는 영향: <b>직무<\/b>스트레",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651617153",
+			"description":"The Effects of Mental Violence on Turnover Intention in Social Workers: Focused on the Mediating Effects of Job Stress and Burnout 사"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 전문성 향상을 위한 공무원교육원 <b>사회복지<\/b>교과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=558697416",
+			"description":"A Study on Way to Develop Curriculum of Official Institute&apos;s Social Training for Social Workers&apos; Professional Improvement 본 연구에"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 <b>직무<\/b>만족도에 관한 연구 : 경기도 <b>사회복지<\/b>전담",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=9346769",
+			"description":"  國文抄錄\n목차\n제1장 서론 13\n 제1절 연구의 목적 13\n 제2절 연구문제 16\n 제3절 연구의 범위 및 방법 17\n"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 간호사의 <b>직무<\/b>만족 및 조직몰입이 이직의도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11422577",
+			"description":"Effects of Job Satisfaction and Organizational Commitment on Nurse&apos;s Turnover Intention in the Social welfare Facilities Purpose: The p"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 감정노동과 <b>직무<\/b>성과 간 관계에서 우울감의 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=586672413",
+			"description":"A study on the mediating effect of depression in the relationship between emotional labor and job performance of the public social work"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 <b>사회복지<\/b>사의 감정노동이 <b>직무<\/b>성과에 미치는 영향 : 상사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873411564",
+			"description":"Effects of Emotional Labor on Job Performance of Social Welfare Workers in Social Welfare Facilities : Focused on the Mediation Effect "
+		},
+		{
+			"title":"<b>사회복지<\/b>시설종사자의 긍정심리자본이 행복감에 미치는 영향: 여가활동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=600212726",
+			"description":"The Effects of Positive Psychological Capital on Happiness of Employees of the Social Welfare Institution: The Dual Mediating Effects o"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설종사자의 긍정심리자본이 행복감에 미치는 영향: 여가활동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601771571",
+			"description":"The Effects of Positive Psychological Capital on Happiness of Employees of the Social Welfare Institution: The Dual Mediating Effects o"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 감정노동과 <b>직무<\/b>성과 간 관계에서 우울감의 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561397281",
+			"description":"A Study on the Mediating Effect of Depression in the Relationship between Emotional Labor and Job Performance of the Public Social Work"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설종사자의 긍정심리자본이 행복감에 미치는 영향: 여가활동",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606816172",
+			"description":"The Effects of Positive Psychological Capital on Happiness of Employees of the Social Welfare Institution: The Dual Mediating Effects o"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 감정노동과 <b>직무<\/b>성과 간 관계에서 우울감의 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562780613",
+			"description":"A Study on the Mediating Effect of Depression in the Relationship between Emotional Labor and Job Performance of the Public Social Work"
+		},
+		{
+			"title":"<b>사회복지<\/b>종사자의 소명의식이 이직의도에 미치는 영향 : <b>직무<\/b>스트레스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=645521422",
+			"description":"The effect of the social worker&apos;s sense of calling on turnover intention : the mediating eeffect[실은 effect] of job stress  표제"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 클라이언트의 폭력에 대한 종사자의 반응이 <b>직무<\/b>소진에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=593971315",
+			"description":" 이 연구는 <b>사회복지<\/b>시설에서 클라이언트 폭력에 따른 시설종사자의 부정적 반응이 <b>직무<\/b>소진에 미치"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 이직의도 영향요인에 관한 연구 : 대전광역시를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56399832",
+			"description":"  표제지\n목차\n제1장 서론 9\n 제1절 연구의 필요성 및 목적 9\n 제2절 연구범위 및 방법 12\n제2장 이론적 배"
+		},
+		{
+			"title":"고객만족과 <b>직무<\/b>만족이 조직성과에 미치는 영향분석: <b>사회복지<\/b>조직을 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595077895",
+			"description":"Analysis on Customer Satisfaction and Job Satisfaction to Organizational Performances : focused on community welfare organizations 영"
+		},
+		{
+			"title":"<b>사회복지<\/b>종사자가 지각한 인권보장 수준이 이직의도에 미치는 영향 : 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879473239",
+			"description":"The Effects of the Level of Human Rights Perceived by Social Workers on Turnover Intention : Focusing on the Mediating Effect of Job Sa"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자의 보수만족 및 <b>직무<\/b>스트레스가 <b>직무<\/b>만족 및 <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880262516",
+			"description":" 한국 <b>사회<\/b>는 저출산 고령화 시대로 진입함에 따라 <b>사회복지<\/b>서비스의 역할 및 기능은 계속해서 증대"
+		},
+		{
+			"title":"<b>사회복지<\/b>학과 대학생 <b>직무<\/b>역량척도 개발 및 타당화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=645486257",
+			"description":"A Study on the Development and Validation of Social Welfare Students’ Job Competency Scale 본 연구의 목적은 <b>사회복지<\/b>학과"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원이 인지한 클라이언트 폭력과 소진 간 관계에서 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=586671245",
+			"description":"A study on the mediating effect of job stress in the relationship between client violence perceived by public social worker and burnout"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원이 인지한 클라이언트 폭력과 소진 간 관계에서 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561397280",
+			"description":"A Study on the Mediating Effect of Job Stress in the Relationship between Client Violence Perceived by Public Social Worker and Burnout"
+		},
+		{
+			"title":"<b>사회복지<\/b>사의 <b>사회복지<\/b> 가치적합성이 <b>직무<\/b>만족과 조직몰입에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595047910",
+			"description":" 본 연구는 <b>사회복지<\/b>사가 인식하는 <b>사회복지<\/b>의 가치적합성이 그들의 <b>직무<\/b>만족과 조직몰입에 영향을 "
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 참여적 의사결정이 <b>직무<\/b>성과에 미치는 영향 : 구성원 민",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873478072",
+			"description":"The Influence of Participatory Decision Making of Social Welfare Organization on Job Performance : Mediating Effect of Member Agility "
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원이 인지한 클라이언트 폭력과 소진 간 관계에서 직",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562780608",
+			"description":"A Study on the Mediating Effect of Job Stress in the Relationship between Client Violence Perceived by Public Social Worker and Burnout"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 일가치감이 <b>직무<\/b>스트레스에 미치는 영향과 감정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442049375",
+			"description":"How Public Social Workers&apos; Perceived Value of Work Influences on Their Job Stress and Moderating Effects of Emotional Labor 본 연구"
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 참여적 의사결정이 <b>직무<\/b>성과에 미치는 영향 : 구성원 민",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879604960",
+			"description":"The Influence of Participatory Decision Making of Social Welfare Organization on Job Performance : Mediating Effect of Member Agility "
+		},
+		{
+			"title":"<b>사회복지<\/b>생활시설 종사자의 대인관계 기술과 <b>직무<\/b>스트레스에 관한 융합",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594552699",
+			"description":" 본 연구의 목적은 <b>사회복지<\/b>생활시설종사자의 대인관계기술 향상과 <b>직무<\/b>스트레스 감소를 위해 개발"
+		},
+		{
+			"title":"<b>사회복지<\/b>기관 종사자가 인식한 학습조직 수준이 조직몰입 및 <b>직무<\/b>만족",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562132062",
+			"description":"The Effects of Learning Organization Perceived by Social Worker on Organizational Commitment and Job Satisfaction 본 연구의 목적"
+		},
+		{
+			"title":"<b>사회복지<\/b> 공무원의 심리적 자본이 <b>직무<\/b>성과에 미치는 영향 : 조직시민행",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880163690",
+			"description":"The Effect of Psychological Capital on the Job Performance among Public Servants in Social Work Services : Focusing on the Mediating Ro"
+		},
+		{
+			"title":"[전문연구자] <b>사회복지<\/b>종사자의 고용지위에 따른 <b>직무<\/b>성과 결정요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880067457",
+			"description":""
+		},
+		{
+			"title":"<b>사회복지<\/b>기관 <b>사회복지<\/b>사의 감정노동이 <b>직무<\/b>스트레스와 <b>직무<\/b>소진에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=841366749",
+			"description":"The Impact of Emotional Labor of Social Workers at Social Welfare Institutions on Job Stress and Job Burnout : Focusing on the Mediatin"
+		},
+		{
+			"title":"<b>사회복지<\/b>조직의 리더십이 <b>사회복지<\/b>사의 실천수행에 미치는 영향 : <b>직무<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=607960641",
+			"description":"Effects of Leadership of Social Welfare Organization on the Practice Performance of Social Workers : Focused on Work Environment Mediat"
+		},
+		{
+			"title":"<b>사회복지<\/b> 담당공무원과 일반행정직 공무원의 <b>직무<\/b>스트레스에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878155406",
+			"description":"A Study on the Job Stress of Social Welfare Officials and Administrative Officials 본 연구는 <b>사회복지<\/b> 담당공무원과 일반"
+		},
+		{
+			"title":"지자체 <b>사회복지<\/b>공무원 <b>직무<\/b>분석 및 효율적 운영방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888505935",
+			"description":" · 본 연구는 지자체 <b>사회복지<\/b>공무원 <b>직무<\/b>분석을 토대로 전달체계 정상화를 위한 적정 소요인력 규모"
+		},
+		{
+			"title":"지역<b>사회복지<\/b>조직의 윤리경영이 조직몰입 및<b>직무<\/b>만족에 미치는 영향에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561619961",
+			"description":"A Study on the Effects of Ethical Managementin Community Welfare Organization onOrganizational Commitment and Job Satisfaction <b>사회<\/b>"
+		},
+		{
+			"title":"<b>사회복지<\/b>생활시설 종사자의 대인관계 기술과 <b>직무<\/b>스트레스에 관한 융합",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562323108",
+			"description":"A Convergence study on Interpersonal Relationship Skills and Job Stress among Social Welfare Residential Facility Worker: Focusing on I"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 자살생각에 영향을 미치는 요인 : <b>직무<\/b>스트레스, ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116455531",
+			"description":"(The)predictors of suicidal ideation thoughts among public welfare officials : focusing on job stress, depression, social support  표"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 <b>사회복지<\/b>교육성과와 <b>직무<\/b>성과와의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=734920184",
+			"description":""
+		},
+		{
+			"title":"조직문화는 <b>사회복지<\/b> 종사자의 <b>직무<\/b>소진에 영향을 미치는가? -리더-구성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=753258808",
+			"description":"Does the Organizational Culture Affect Job Burnout?: The Moderating Effect of the Leader-Member Exchange (LMX) 본 연구는 <b>사회<\/b>복"
+		},
+		{
+			"title":"아동<b>복지<\/b> 종사자들의 <b>직무<\/b> 스트레스 요인, 소진 및 이직의도의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78371077",
+			"description":"The Relationships among Work Stress, Burnout, and Turnover Intentions of Child Welfare Employees 본 연구는 아동<b>복지<\/b> 종사자"
+		}
+	]
+}

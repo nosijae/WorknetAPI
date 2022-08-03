@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:19 +0900",
+	"total":46849,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>직무<\/b>분석 및 직업<b>정보<\/b>-<b>통신<\/b>장비기사",
+			"link":"https:\/\/blog.naver.com\/kth7405?Redirect=Log&logNo=222744400185",
+			"description":"[발전<b>통신<\/b>원] ● 발전소의 보안설비, 인터넷, 사무자동화설비, 전력·<b>통신<\/b>설비 등 각종 <b>정보<\/b>·<b>통신<\/b>설비... 보통 고졸 이상의 <b>통신<\/b>, 전자관련 학과 전공자가 유리하다. <b>정보통신<\/b>, 전파<b>통신<\/b> 등의 관련 자격을... ",
+			"bloggername":"취업&진로&심리",
+			"bloggerlink":"https:\/\/blog.naver.com\/kth7405",
+			"postdate":"20220706"
+		},
+		{
+			"title":"[자소서 가이드] 롯데<b>정보통신<\/b> 2022년 1분기 전<b>직무<\/b> 경력... ",
+			"link":"https:\/\/blog.naver.com\/geniejinie?Redirect=Log&logNo=222618387582",
+			"description":"롯데<b>정보통신<\/b>의 다양한 미래 전략을 조사한 뒤, 그 중에서 지원 <b>직무<\/b>와 관련이 있고 지원자님의 경험을 조금이라도 활용할 수 있는 전략에서 세부 목표를 설정해주세요. 그래야 어느 정도 현실성 있는... ",
+			"bloggername":"취업\/대학원 자기소개서 첨삭",
+			"bloggerlink":"https:\/\/blog.naver.com\/geniejinie",
+			"postdate":"20220111"
+		},
+		{
+			"title":"궁금해서 알아본 <b>정보통신<\/b>기사 유사<b>직무<\/b>범위",
+			"link":"https:\/\/blog.naver.com\/coreliker?Redirect=Log&logNo=222676962015",
+			"description":"blog.naver.com #<b>통신<\/b>공사견적 #랜공사 #인테리어 #랜공사견적 #인터넷공사견적 #랜공사컨설팅 #랜공사비용 #사무실선정리 #사무실랜선공사 #랜선공사 #<b>정보통신<\/b>기사 #큐넷 #<b>정보통<\/b>시기사유사<b>직무<\/b>범위... ",
+			"bloggername":"구차장의 투명한 랜공사",
+			"bloggerlink":"https:\/\/blog.naver.com\/coreliker",
+			"postdate":"20220319"
+		},
+		{
+			"title":"DACUM 기법을 이용한 방위산업체 <b>정보통신<\/b>보안실무자 <b>직무<\/b>분석",
+			"link":"https:\/\/blog.naver.com\/jsstopjjh?Redirect=Log&logNo=222820421550",
+			"description":"첨부파일 DACUM기법을이용한방위산업체<b>정보통신<\/b>보안실무자<b>직무<\/b>분석.pdf 파일 다운로드 요 약 지식 <b>정보<\/b>화 사회가 심화되면서 <b>정보<\/b>보호에 대한 중요성이 날로 높아지고 있다. 최근 들어 개인<b>정보<\/b>와 핵심... ",
+			"bloggername":"전기적산 및 도면",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsstopjjh",
+			"postdate":"20220720"
+		},
+		{
+			"title":"KICC 한국<b>정보통신<\/b> 대관 <b>직무<\/b> 면접 후기",
+			"link":"https:\/\/blog.naver.com\/kashv?Redirect=Log&logNo=222675877081",
+			"description":"우리나라의 손꼽히는 VAN, PG 기업인 KICC 한국<b>정보통신<\/b> 대관(대외관계관리) <b>직무<\/b> 면접을 보게 되었습니다. 면접은 3:1로 진행되었습니다. 아! 면접관 한 분이 자기소개 도중 전화받으러 나가시고... ",
+			"bloggername":"아주 나이스한 일상",
+			"bloggerlink":"https:\/\/blog.naver.com\/kashv",
+			"postdate":"20220318"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업진흥원 정규직(일반직 및 전문직) 채용 <b>직무<\/b>역량면... ",
+			"link":"https:\/\/blog.naver.com\/onair_speech?Redirect=Log&logNo=222813554682",
+			"description":"채용 <b>직무<\/b>역량대비 <b>정보통신<\/b>산업진흥원 정규직(일반직 및 전문직) 채용 모의면접 관련 면접을 준비중이신가요? 위드스피치학원에서 시작하시기 바랍니다! 면접을 전략적으로 준비해보세요... ",
+			"bloggername":"위드스피치학원",
+			"bloggerlink":"https:\/\/blog.naver.com\/onair_speech",
+			"postdate":"20220716"
+		},
+		{
+			"title":"<b>직무<\/b> 이해_<b>통신<\/b> 정책_<b>정보통신<\/b>정책연구원",
+			"link":"https:\/\/blog.naver.com\/smiley2k?Redirect=Log&logNo=222587484716",
+			"description":"오늘은 <b>통신<\/b> 정책 <b>직무<\/b>에 대해 알아보겠습니다. 아래는 <b>정보통신<\/b>정책연구원 계약직연구원 채용공고를... 의사소통능력, 조직이해능력, 수리능력, 문제해결능력, 자기개발능력, 자원관리능력, <b>정보<\/b>능력... ",
+			"bloggername":"김컨의 즐거운 직딩 생활 가이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/smiley2k",
+			"postdate":"20211205"
+		},
+		{
+			"title":"[롯데<b>정보통신<\/b>] 1분기 전<b>직무<\/b> 신입 대규모 채용",
+			"link":"https:\/\/blog.naver.com\/hufseit?Redirect=Log&logNo=222618665986",
+			"description":"롯데<b>정보통신<\/b> 1분기 전<b>직무<\/b> 대규모 채용 ︎ 지원서 접수 ｜ - 접수기간 : 2022년 1월 10일(월) 09... UX기획, <b>정보<\/b>보안, 보안 엔지니어, 설비자동화 설계, PJT관리, 모빌리티 구축, IT기획\/IT영업... ",
+			"bloggername":"한국외국어대학교 EICC학과",
+			"bloggerlink":"https:\/\/blog.naver.com\/hufseit",
+			"postdate":"20220111"
+		},
+		{
+			"title":"한국중부발전 사무<b>직무<\/b> <b>정보통신<\/b> 발전화학 토목 건축 정규직... ",
+			"link":"https:\/\/blog.naver.com\/hyejin_1124?Redirect=Log&logNo=222633437435",
+			"description":"한국중부발전 사무직무 채용 첨부파일 한국중부발전 사무 직무기술서.pdf 파일 다운로드 2. 한국중부발전 정보통신 채용 첨부파일 한국중부발전 <b>정보통신 직무<\/b>기술서.pdf 파일 다운로드 3. 한국중부발전... ",
+			"bloggername":"취업컨설턴트 요나 | 취업상담소",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyejin_1124",
+			"postdate":"20220128"
+		},
+		{
+			"title":"한국<b>정보통신<\/b>자격협회, ‘IT <b>직무<\/b> 세미나’ 진행",
+			"link":"https:\/\/blog.naver.com\/lcnews9?Redirect=Log&logNo=222482861669",
+			"description":"‘IT <b>직무<\/b> 세미나(<b>정보<\/b>보호\/보안분야)’를 진행할 예정이다. 한국<b>정보통신<\/b>자격협회는 21세기 <b>정보<\/b>화시대에 발맞추어 <b>정보통신<\/b> 관련분야의 새로운 자격 종목개발 및 제도연구를 통하여 민간자격... ",
+			"bloggername":"라이센스뉴스(www.lcnews.co.kr)",
+			"bloggerlink":"https:\/\/blog.naver.com\/lcnews9",
+			"postdate":"20210825"
+		},
+		{
+			"title":"[비교과] 2021년 <b>직무<\/b>수행능력... 산림 \/ 종자 \/ <b>정보통신<\/b> )",
+			"link":"https:\/\/blog.naver.com\/gnu_jobs?Redirect=Log&logNo=222473905537",
+			"description":"「2021년 <b>직무<\/b>수행능력 필기대비(기술직) 과정」 수질환경 \/ 식물보호 \/ 산림 \/ 종자 \/ <b>정보통신<\/b> 기사 필기 및 실기 강좌 신청하고 기사 자격증 취득하러 갑시다... ",
+			"bloggername":"경상국립대학교 인재개발원",
+			"bloggerlink":"https:\/\/blog.naver.com\/gnu_jobs",
+			"postdate":"20210817"
+		},
+		{
+			"title":"과학기술<b>정보통신<\/b>부 임기제(연구성과 조사분석) <b>직무<\/b>수행계획... ",
+			"link":"https:\/\/blog.naver.com\/pcg44?Redirect=Log&logNo=222799910550",
+			"description":"한국예술종합학교 전통예술원 나눔센터 팀장, 과학기술<b>정보통신<\/b>부 임기제(연구성과 조사분석) <b>직무<\/b>수행계획서 작성 대행 안내 ⊙ 서류 작성 대행 비용 및 기간 안내 - 2매 : 5만원 \/ 3일 (주말... ",
+			"bloggername":"사업계획서 & 제안서 & 기획서 & 회사소개서",
+			"bloggerlink":"https:\/\/blog.naver.com\/pcg44",
+			"postdate":"20220704"
+		},
+		{
+			"title":"NCS<b>직무<\/b> - 20.<b>정보통신<\/b> &gt; 01.<b>정보<\/b>기술 &gt; 03.<b>정보<\/b>기술운영... ",
+			"link":"https:\/\/blog.naver.com\/feelgolmok?Redirect=Log&logNo=222778321797",
+			"description":"첨부파일 report-IT시스템관리.hwp 파일 다운로드 경로 20.<b>정보통신<\/b> &gt; 01.<b>정보<\/b>기술 &gt; 03.<b>정보<\/b>기술운영 &gt; 01.IT시스템관리 1 <b>직무<\/b> 정의 IT시스템관리는 시스템을 안정적이고 효율적으로 운영하고 관리하기... ",
+			"bloggername":"한걸음부터",
+			"bloggerlink":"https:\/\/blog.naver.com\/feelgolmok",
+			"postdate":"20220618"
+		},
+		{
+			"title":"과학기술<b>정보통신<\/b>부  현대인의 <b>직무<\/b>스트레스관리 - 하수희강사",
+			"link":"https:\/\/blog.naver.com\/save07?Redirect=Log&logNo=222078890689",
+			"description":"코로나로 힘든시기 극복을 위한 스트레스관리 중요합니다 #<b>직무<\/b>스트레스관리 #스트레스관리교육 #스트레스 교육강사 #<b>직무<\/b>스트레스힐링프로그램 #하수희강사 #하수희 #수컨설팅 #과학기술<b>정보통신<\/b>부",
+			"bloggername":"Soo consulting 기업교육.강사양성과정",
+			"bloggerlink":"https:\/\/blog.naver.com\/save07",
+			"postdate":"20200903"
+		},
+		{
+			"title":"[롯데<b>정보통신<\/b>] IT 영업 <b>직무<\/b> 역량 강화 교육",
+			"link":"https:\/\/blog.naver.com\/educom0830?Redirect=Log&logNo=222661943642",
+			"description":"롯데<b>정보통신<\/b> IT 영업 <b>직무<\/b> 역량 강화 교육을 진행했습니다. 2021년 11월 16일 ~ 19일 [롯데<b>정보통신<\/b>] IT 영업 <b>직무<\/b> 역량 강화 교육 롯데<b>정보통신<\/b> 교육장 1차 11월16일~17일 신용준강사 2차 11월18일... ",
+			"bloggername":"에듀콤교육연구소님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/educom0830",
+			"postdate":"20220302"
+		},
+		{
+			"title":"2021 롯데<b>정보통신<\/b> 신입... 포부, <b>직무<\/b>필요역량 및 관련경험... ",
+			"link":"https:\/\/blog.naver.com\/7am_study?Redirect=Log&logNo=222388146839",
+			"description":"롯데<b>정보통신<\/b>에 지원한 동기와, 입사 후 회사에서 이루고자 하는 포부를 기술해 주세요.(800자) 2. 지원한 <b>직무<\/b>에 가장 필요하다고 생각하는 역량과, 그와 관련된 프로젝트 혹은 <b>직무<\/b> 경험을 기술해... ",
+			"bloggername":"7AM스터디",
+			"bloggerlink":"https:\/\/blog.naver.com\/7am_study",
+			"postdate":"20210607"
+		},
+		{
+			"title":"NICE<b>정보통신<\/b> 신입\/경력 수시채용(~22.03.11) - <b>직무<\/b>\/직원... ",
+			"link":"https:\/\/blog.naver.com\/mma1992?Redirect=Log&logNo=222661625519",
+			"description":"NICE<b>정보통신<\/b>에서 신입\/경력사원 수시 채용을 하고 있네요. NICE<b>정보통신<\/b>은 VAN서비스: 카드사와 가맹점 간 Network망을 구축 및 신용카드 사용 승인 중계 등 카드사와 데이터 중계 역할 수행 PG서비스: 온라인... ",
+			"bloggername":"똥쟁이나나의 잡다한 Review",
+			"bloggerlink":"https:\/\/blog.naver.com\/mma1992",
+			"postdate":"20220302"
+		},
+		{
+			"title":"데이터통계 <b>정보<\/b>보호 직원 채용 그룹토론<b>직무<\/b>심층면접 합격을... ",
+			"link":"https:\/\/blog.naver.com\/ggcsproject?Redirect=Log&logNo=222607634742",
+			"description":"한국<b>정보통신<\/b>진흥협회 면접, 어떻게 준비하실건가요? 그룹토론 <b>직무<\/b> 심층면접까지, 정확한 분석과 명확한 <b>정보<\/b>없이 불분명한 내용으로 최종 합격자가 될 수 있는 기회를 꼭! 잡으세요! . . . 이케이스피치가 그... ",
+			"bloggername":"정진해야 하는 이유",
+			"bloggerlink":"https:\/\/blog.naver.com\/ggcsproject",
+			"postdate":"20211229"
+		},
+		{
+			"title":"<b>직무<\/b>능력표준)을 위해 한국방송<b>통신<\/b>전파진흥원과 <b>정보통신<\/b>기... ",
+			"link":"https:\/\/blog.naver.com\/qkrtmddn10?Redirect=Log&logNo=220034803404",
+			"description":"KCA는 정보통신기술사회와의 상호업무협약 체결로 6월부터 본격적인 NCS 개발에 착수하여 11월까지 무선 및 방송 6개 분야 국가직무능력표준 개발을 완료할 예정이다. 이번 협약은 KCA가 <b>정보통신 직무<\/b> 6개... ",
+			"bloggername":"쟁이와 함께하는 방송통신(기술)산책",
+			"bloggerlink":"https:\/\/blog.naver.com\/qkrtmddn10",
+			"postdate":"20140619"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 NCS 20. <b>정보통신<\/b> 문제집... ",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220618273429",
+			"description":"기본문제와 심화문제로 문제를 구성해 직업기초능력평가에 대비 할 수 있게 했습니다. NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가20 <b>정보통신<\/b> 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.01.20. 리뷰보기",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160204"
+		},
+		{
+			"title":"OJT의 체계적 실행을 위한 <b>직무<\/b>분석 워크숍 - 롯데<b>정보통신<\/b>",
+			"link":"https:\/\/blog.naver.com\/cnphr?Redirect=Log&logNo=220971427931",
+			"description":"롯데<b>정보통신<\/b> S-OJT를 위한 <b>직무<\/b>분석 워크숍이 열린 곳입니다. 시작을 알리는 슬라이드가 눈에 띄네요! 맛있는 다과와 함께 하는 워크숍 현장! 열심히 학습하기 위한 두꺼운 교재가 보이네요! 워크숍에서는... ",
+			"bloggername":"시앤피컨설팅 HR아카데미",
+			"bloggerlink":"https:\/\/blog.naver.com\/cnphr",
+			"postdate":"20170331"
+		},
+		{
+			"title":"[면접후기] 롯데<b>정보통신<\/b> SW <b>직무<\/b> 면접 후기",
+			"link":"https:\/\/life-with-coding.tistory.com\/472",
+			"description":"오늘은 롯데<b>정보통신<\/b> SW <b>직무<\/b> 면접 후기에 대해서 공유드리겠습니다 :D 채용 프로세스는 타 기업과 비슷하게 자소서-코테-면접(원데이) 로 진행됐습니다. 📌 1. 서류 제출 : 아래 문항과 같이 자소서 4개... ",
+			"bloggername":"코딩젤리",
+			"bloggerlink":"https:\/\/life-with-coding.tistory.com\/",
+			"postdate":"20211105"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사 합격률 따른 학습대비",
+			"link":"https:\/\/blog.naver.com\/ccchaa?Redirect=Log&logNo=222804839268",
+			"description":"한국방송<b>통신<\/b>전파진흥원에서 시행하며, 해당 시험을 보고 통과해야 그 자격을 취득할 수 있죠!... 필기과목에는 디지털전자회로, <b>정보통신<\/b>시스템, <b>정보통신<\/b>기기, <b>정보<\/b>전송공학, 전자계산기일반 및... ",
+			"bloggername":"Every day, Every moment",
+			"bloggerlink":"https:\/\/blog.naver.com\/ccchaa",
+			"postdate":"20220708"
+		},
+		{
+			"title":"[대보<b>정보통신<\/b>] 국군전역장병 신입사원 채용 소식",
+			"link":"https:\/\/blog.naver.com\/blogdaebo?Redirect=Log&logNo=222728502962",
+			"description":"그래서 조금 더 살펴보자면, 응용SW의 담당 업무를 조금 풀어보자면 ○ <b>정보<\/b>시스템 이행 및 안정화... 자격증, <b>정보통신<\/b>시설물 유지관리 <b>직무<\/b>는 네트워크관리사, PC마스터 등 HW 정비 관련 자격증 이 있다면 더... ",
+			"bloggername":"대보인사이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/blogdaebo",
+			"postdate":"20220511"
+		},
+		{
+			"title":"NCS <b>직무<\/b> - 20.<b>정보통신<\/b> &gt; 01.<b>정보<\/b>기술 &gt; 04.<b>정보<\/b>기술관리... ",
+			"link":"https:\/\/blog.naver.com\/feelgolmok?Redirect=Log&logNo=222778348407",
+			"description":"첨부파일 report - IT테스트 관리.hwp 파일 다운로드 <b>직무<\/b>정의 IT테스트는 테스트를 효과적으로 수행하기 위해 필요한 기획, 진단 컨설팅, 계획, 분석, 설계, 환경구축, 실 행, 완료 및 자동화를... ",
+			"bloggername":"한걸음부터",
+			"bloggerlink":"https:\/\/blog.naver.com\/feelgolmok",
+			"postdate":"20220618"
+		},
+		{
+			"title":"[사람인\/롯데<b>정보통신<\/b> 채용] 2019(하) 7월 IT<b>직무<\/b> 경력사원... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221581389274",
+			"description":"[롯데<b>정보통신<\/b>] 2019(하) 7월 IT<b>직무<\/b> 경력사원을 채용합니다. 이 기업에 관심이 있다면! ! 서둘러 지원해주세요 ☆ ▶ &lt;기업<b>정보<\/b>&gt; 확인하기 ◀ ▶ &lt;연봉&gt; 확인하기 ◀ ▶ &lt;자소서&gt; 확인하기 ◀ - 채용공고를... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20190709"
+		},
+		{
+			"title":"한국<b>정보통신<\/b>자격협회 “국내 CCTV 관제 및 운용 <b>직무<\/b>의 자격... ",
+			"link":"https:\/\/sisatime.tistory.com\/entry\/%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EC%9E%90%EA%B2%A9%ED%98%91%ED%9A%8C-%E2%80%9C%EA%B5%AD%EB%82%B4-CCTV-%EA%B4%80%EC%A0%9C-%EB%B0%8F-%EC%9A%B4%EC%9A%A9-%EC%A7%81%EB%AC%B4%EC%9D%98-%EC%9E%90%EA%B2%A9-%EC%9D%B8%EC%A6%9D-%EC%B2%B4%EA%B3%84%EC%99%80-%EC%A0%84%EB%AC%B8%EA%B4%80%EC%A0%9C%EC%9A%94%EC%9B%90-%EC%9C%A1%EC%84%B1-%ED%95%84%EC%9A%94%E2%80%9D",
+			"description":"운용 <b>직무<\/b>의 자격 인증 체계와 전문관제요원 육성이 필요하다고 밝혔다. ▲사진제공 = 한국<b>정보통신<\/b>자격협회 (c)시사타임즈 CCTV(영상<b>정보<\/b>)는 산업용, 교육용, 의료용, 교통관제용 감시, 방범용, 방재용 및... ",
+			"bloggername":"시사타임즈",
+			"bloggerlink":"https:\/\/sisatime.tistory.com\/",
+			"postdate":"20220315"
+		},
+		{
+			"title":"2021년 8월 롯데<b>정보통신<\/b>... 포부,<b>직무<\/b>역량 및 <b>직무<\/b>경험... ",
+			"link":"https:\/\/blog.naver.com\/7am_study?Redirect=Log&logNo=222482179304",
+			"description":"롯데<b>정보통신<\/b>에 지원한 동기와, 입사 후 회사에서 이루고자 하는 포부를 기술해 주세요.*(800자) 2. 지원한 <b>직무<\/b>에 가장 필요하다고 생각하는 역량과, 그와 관련된 프로젝트 혹은 <b>직무<\/b> 경험을... ",
+			"bloggername":"7AM스터디",
+			"bloggerlink":"https:\/\/blog.naver.com\/7am_study",
+			"postdate":"20210824"
+		},
+		{
+			"title":"[ICT <b>정보통신<\/b>] 4주차 <b>직무<\/b>전문과정",
+			"link":"https:\/\/blog.naver.com\/skdidimdol1?Redirect=Log&logNo=220618446344",
+			"description":"이 글을 쓰는 시점은 5주차인데요 <b>직무<\/b>전문교육을 들으며 느낀 점을 솔직하게 써보겠습니다~ 우리 ICT <b>정보통신<\/b>과정 4주차에는 1. MBTI W\/S 2. <b>통신<\/b>기본이론 3. Future Technology 이해( 5G, NFV) 4. 전송 기초이론 5. I\/R... ",
+			"bloggername":"SK 고용디딤돌 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/skdidimdol1",
+			"postdate":"20160204"
+		},
+		{
+			"title":"엔텍<b>정보통신 직무<\/b>소개 - OP\/ADMIN",
+			"link":"https:\/\/blog.naver.com\/ntinfo?Redirect=Log&logNo=221700500958",
+			"description":"아주 큰 강점이지요~ 오늘은 엔텍<b>정보통신<\/b>의 <b>직무<\/b>에 대해서 소개해드렸는데요~ 다음 시간에도 더 유용한 <b>정보<\/b>로 찾아뵙겠습니다!!! 일교차가 심한 날씨에 감기 조심하시구, 오늘 하루도 행복한 하루 보내세요~",
+			"bloggername":"(주)엔텍정보통신",
+			"bloggerlink":"https:\/\/blog.naver.com\/ntinfo",
+			"postdate":"20191107"
+		},
+		{
+			"title":"롯데<b>정보통신<\/b> 채용! 2022년 <b>정보<\/b>보안\/보안 엔지니어 <b>직무<\/b>(T4)... ",
+			"link":"https:\/\/blog.naver.com\/withspeech78?Redirect=Log&logNo=222649993052",
+			"description":"오늘은 롯데<b>정보통신<\/b> 2022년 <b>정보<\/b>보안\/보안 엔지니어 <b>직무<\/b>(T4) 신입사원 채용 면접을 알아보고자 합니다. 면접전형에 대해서 알아보겠습니다~ 롯데<b>정보통신<\/b> 면접은 역량면접과 인성(임원)면접이 실시되며... ",
+			"bloggername":"위드스피치학원[070-7501-5129]",
+			"bloggerlink":"https:\/\/blog.naver.com\/withspeech78",
+			"postdate":"20220217"
+		},
+		{
+			"title":"한국<b>정보통신<\/b>자격협회, ‘IT <b>직무<\/b> 세미나(On-Line)’ 진행",
+			"link":"https:\/\/blog.naver.com\/kmts9?Redirect=Log&logNo=222482270585",
+			"description":"‘IT <b>직무<\/b> 세미나(<b>정보<\/b>보호\/보안분야)’를 진행할 예정이라고 밝혔다. ▲사진제공 = 한국<b>정보통신<\/b>자격협회 (c)시사타임즈 한국<b>정보통신<\/b>자격협회 관계자에 따르면 “‘IT <b>직무<\/b> 세미나’는... ",
+			"bloggername":"시사타임즈",
+			"bloggerlink":"https:\/\/blog.naver.com\/kmts9",
+			"postdate":"20210824"
+		},
+		{
+			"title":"성남시 복지<b>정보통신<\/b>원 <b>직무<\/b>교육 및 7월 월례회의",
+			"link":"https:\/\/blog.naver.com\/isaak1122?Redirect=Log&logNo=220424341778",
+			"description":"2015-7-10 성남시 복지<b>정보통신<\/b>원 &quot;따슴피아&quot; <b>직무<\/b>교육 및 7월 월례회의 월례회의가 화요일 오전에서... <b>직무<\/b>교육으로 복지<b>통신<\/b>원의 글쓰기에 도움이 되는 &quot;김태욱 강사의 스토리텔링 기술&quot;에 대해 강의를... ",
+			"bloggername":"아름드리 나무처럼",
+			"bloggerlink":"https:\/\/blog.naver.com\/isaak1122",
+			"postdate":"20150719"
+		},
+		{
+			"title":"두산-<b>정보통신 직무<\/b>알아보기",
+			"link":"https:\/\/blog.naver.com\/mkkwon0602?Redirect=Log&logNo=80184588152",
+			"description":"Firmware,미들웨어 ,<b>통신<\/b> S\/W를 개발하고 최신의 상태로 유지보수 하는 업무(주)두산-<b>정보통신<\/b>-IT 시스템 개발 및 운영* 시스템 개발 및 운영은 고객이 <b>정보<\/b>시스템을 통하여 경영에 보다 높은 가치를... ",
+			"bloggername":"기업채용전문가 권누님의 독설 :)",
+			"bloggerlink":"https:\/\/blog.naver.com\/mkkwon0602",
+			"postdate":"20130312"
+		},
+		{
+			"title":"IT 컨설턴트 <b>정보통신<\/b>컨설턴트 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/sea9568?Redirect=Log&logNo=222804011719",
+			"description":"표준직업분류 정의 <b>정보통신<\/b>컨설턴트 및 감리원",
+			"bloggername":"next 1인 기업",
+			"bloggerlink":"https:\/\/blog.naver.com\/sea9568",
+			"postdate":"20220708"
+		},
+		{
+			"title":"NCS<b>직무<\/b> - 20.<b>정보통신<\/b> &gt; 01.<b>정보<\/b>기술 &gt; 06.<b>정보<\/b>보호 &gt; 01.... ",
+			"link":"https:\/\/blog.naver.com\/feelgolmok?Redirect=Log&logNo=222778411370",
+			"description":"#<b>정보<\/b>보호운영 첨부파일 report - <b>정보<\/b>보호관리운영.hwp 파일 다운로드 <b>직무<\/b>정의 <b>정보<\/b>보호관리·운영은 조직의 비전과 미션을 수행하기 위하여 <b>정보<\/b> 자산을 안정적으로 운영하는 데 필요 한 <b>정보<\/b>보호... ",
+			"bloggername":"한걸음부터",
+			"bloggerlink":"https:\/\/blog.naver.com\/feelgolmok",
+			"postdate":"20220618"
+		},
+		{
+			"title":"[채용 <b>직무<\/b>분석] <b>정보통신<\/b>정책연구원",
+			"link":"https:\/\/blog.naver.com\/bluegreen0807?Redirect=Log&logNo=221486751634",
+			"description":"<b>정보통신<\/b>정책연구원에서 채용하는 <b>직무<\/b>를 분석해보자! (출처: 기관 홈페이지) 기획조정실, ICT전략연구실, <b>통신<\/b>전파연구실, 방송미디어연구실, ICT통계<b>정보<\/b>연구실, 국제협력연구실, 경영전략연구실, 행정실로... ",
+			"bloggername":"직업도서관",
+			"bloggerlink":"https:\/\/blog.naver.com\/bluegreen0807",
+			"postdate":"20190313"
+		},
+		{
+			"title":"롯데<b>정보통신<\/b> 2022년 3월 보안 엔지니어 <b>직무<\/b>(T4) 신입사원... ",
+			"link":"https:\/\/qpscm1026.tistory.com\/577",
+			"description":"롯데<b>정보통신<\/b> 2022년 3월 보안 엔지니어 <b>직무<\/b>(T4) 신입사원 채용 접수기간 : 2022년 03월 24일 10:00 ~ 2022년 04월 03일 18:00D-8 ※ 방문, 우편, 팩스 등 오프라인 접수의 경우,『채용절차의 공정화에 관한 법률... ",
+			"bloggername":"공부하자 :: 공부하자",
+			"bloggerlink":"https:\/\/qpscm1026.tistory.com\/",
+			"postdate":"20220326"
+		},
+		{
+			"title":"<b>정보통신<\/b>공학 채용] 컴퓨터공학 채용! 합격스펙, 자소서, <b>직무<\/b>인... ",
+			"link":"https:\/\/blog.naver.com\/saraminapp?Redirect=Log&logNo=221329203648",
+			"description":"컴퓨터·<b>정보통신<\/b>공학 <b>직무<\/b>가 목표인 당신을 위해 준비했습니다. 채용공고는 놓치지 말고 챙겨보세요:) - SK하이닉스 : [경력] 반도체 생산<b>정보<\/b> 및 후 공정 스케줄링 시스템 개발 모집 - SK텔레콤 : [Expert] System... ",
+			"bloggername":"사람인공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/saraminapp",
+			"postdate":"20180730"
+		},
+		{
+			"title":"롯데<b>정보통신<\/b> 전<b>직무<\/b> 대규모 채용[경력\/신입] \/자소서 항목(신입... ",
+			"link":"https:\/\/blog.naver.com\/7am_study?Redirect=Log&logNo=222618604535",
+			"description":"롯데<b>정보통신<\/b> 전<b>직무<\/b> 대규모 채용[경력\/신입] 2022.01.10 11:48 ~ 2022.01.23 23:00 롯데<b>정보통신<\/b> 전<b>직무<\/b> 대규모 채용[경력\/신입] 모집분야 및 지원자격 자기소개서 항목(신입 : 각 항목당 700자 이내) 1. 지원... ",
+			"bloggername":"7AM스터디",
+			"bloggerlink":"https:\/\/blog.naver.com\/7am_study",
+			"postdate":"20220111"
+		},
+		{
+			"title":"2018 <b>정보통신<\/b>공학 기업<b>직무<\/b>특강",
+			"link":"https:\/\/blog.naver.com\/cbnuece?Redirect=Log&logNo=221398340948",
+			"description":"<b>정보통신<\/b>공학 필요 자격 3. <b>직무<\/b> <b>정보<\/b>찾기 4. <b>직무<\/b> 이해하기 5. NCS 직업분류를 통한 <b>직무<\/b> 이해 6. NCS <b>직무<\/b>기술서를 통한 <b>직무<\/b> 이해 7. <b>정보통신<\/b>공학 취업전략 8. 기업분석법 김정의 강사의 소개를 시작으로... ",
+			"bloggername":"충북대학교 전자정보대학",
+			"bloggerlink":"https:\/\/blog.naver.com\/cbnuece",
+			"postdate":"20181114"
+		},
+		{
+			"title":"23. <b>정보통신<\/b>기사",
+			"link":"https:\/\/blog.naver.com\/gisafirst?Redirect=Log&logNo=222280420961",
+			"description":"위하여 <b>정보통신<\/b>기사 자격제도가 제정되었다. 수행<b>직무<\/b> 및 평가기준 이러한 <b>정보통신<\/b>기사는... 한국방송<b>통신<\/b>전파진흥원 홈페이지에서 <b>정보통신<\/b>기사에 관련된 더 자세한 <b>정보<\/b>를 확인하실 수 있습니다.... ",
+			"bloggername":"기사퍼스트의 컴퓨터 자격증(정보처리, 사무자동화)",
+			"bloggerlink":"https:\/\/blog.naver.com\/gisafirst",
+			"postdate":"20210319"
+		},
+		{
+			"title":"[<b>직무<\/b>별 취업전략] STORY 2. <b>정보통신<\/b>(IT) <b>직무<\/b> 취업전략",
+			"link":"https:\/\/blog.naver.com\/anacondal?Redirect=Log&logNo=220738101201",
+			"description":"담당)업체, <b>통신<\/b>서비스 산업, 게임 산업 등이 있습니다. 이 외에도, 전자 산업과 자동차 산업 등... 통해 상세히 체험해보시기 바랍니다~ㅎㅎ &gt;&gt; <b>정보통신<\/b>(IT)<b>직무<\/b> 취업전략 (소프트웨어 <b>직무<\/b> 필요역량과 취업전략) &lt;&lt;",
+			"bloggername":"팩트 찾아 삼만리",
+			"bloggerlink":"https:\/\/blog.naver.com\/anacondal",
+			"postdate":"20160616"
+		},
+		{
+			"title":"한국<b>정보통신<\/b>공사협회 2016년도 시·도회 직원 <b>직무<\/b>교육 실시",
+			"link":"https:\/\/blog.naver.com\/kicaceo?Redirect=Log&logNo=220830395408",
+			"description":"<b>정보통신<\/b>공사협회(중앙회장 문창수)는 지난달 30일 중앙회 회의실에서 ‘2016년도 시·도회 직원 <b>직무<\/b>교... 아울러 <b>정보통신<\/b>공사업에 관한 <b>정보<\/b>를 제공하는 제증명 서류에 대해서도 제공하는 내용을 기존보다... ",
+			"bloggername":"한국정보통신공사협회",
+			"bloggerlink":"https:\/\/blog.naver.com\/kicaceo",
+			"postdate":"20161007"
+		},
+		{
+			"title":"나이스<b>정보통신<\/b> 인프라<b>직무<\/b> 합격 자기소개서 축약본",
+			"link":"https:\/\/larrykjohn.tistory.com\/34",
+			"description":"(후략) 나이스<b>정보통신<\/b> 인프라<b>직무<\/b> 합격 자기소개서 전체보기 2. 상세 경력사항 - 해당자에 한함, 비해당자는 &quot;해당사항 없음&quot;을 입력. (3000) [실무에 대한 호기심 - IDC센터 아르바이트] 직접 발로 뛰어보자는... ",
+			"bloggername":"나만의 도서관, 참조 레퍼런스 :: 나만의 도서관, 참조 레퍼런스",
+			"bloggerlink":"https:\/\/larrykjohn.tistory.com\/",
+			"postdate":"20181108"
+		},
+		{
+			"title":"국가<b>직무<\/b>능력표준(NCS) <b>정보통신<\/b>기기 개발 교육에 활용되는... ",
+			"link":"https:\/\/blog.naver.com\/h058?Redirect=Log&logNo=221012364586",
+			"description":"원문보기 국가<b>직무<\/b>능력표준(NCS) <b>정보통신<\/b>기기 개발 교육에 활용되는 보드마스터 국가<b>직무<\/b>능력표준 홈페이지 www.ncs.go.kr에서 NCS 및 학습모듈 검색으로 <b>정보통신<\/b>기기 개발을 선택한후 <b>정보통신<\/b>기기... ",
+			"bloggername":"인코어테크놀로지(주)",
+			"bloggerlink":"https:\/\/blog.naver.com\/h058",
+			"postdate":"20170523"
+		},
+		{
+			"title":"NCS <b>직무<\/b> - 20.<b>정보통신<\/b> &gt; 01.<b>정보<\/b>기술 &gt; 06.<b>정보<\/b>보호 &gt; 02.... ",
+			"link":"https:\/\/blog.naver.com\/feelgolmok?Redirect=Log&logNo=222778418179",
+			"description":"#<b>정보<\/b>보호진단·분석 첨부파일 report - <b>정보<\/b>보호진단분석.hwp 파일 다운로드 <b>직무<\/b>정의 <b>정보<\/b>보호진단·분석은 주요 <b>정보<\/b>자산을 보호하기 위한 보안진단과 위험평가를 수행하고 제품평가 인증... ",
+			"bloggername":"한걸음부터",
+			"bloggerlink":"https:\/\/blog.naver.com\/feelgolmok",
+			"postdate":"20220618"
+		},
+		{
+			"title":"IT<b>직무<\/b> \/ 서울근무 \/롯데<b>정보통신<\/b>\/SK하이닉스\/KT\/LG CNS... ",
+			"link":"https:\/\/blog.naver.com\/timeless947?Redirect=Log&logNo=221636708547",
+			"description":"임관하고 2년간은 부대에 남아서 퇴근하면 <b>통신<\/b>장비 공부하고 고치고 소대원들 면담하고 항상 9시... 롯데<b>정보통신<\/b>(서울 전역) 대학교때 같이 프로젝트도 해봤던 기업이기도 하고, 당시에 재밌는 서비스... ",
+			"bloggername":"외장하드",
+			"bloggerlink":"https:\/\/blog.naver.com\/timeless947",
+			"postdate":"20190902"
+		},
+		{
+			"title":"<b>정보통신<\/b>공학부 기업 및 <b>직무<\/b> 특강",
+			"link":"https:\/\/blog.naver.com\/cbnuece?Redirect=Log&logNo=221717588059",
+			"description":"지난 11월 21일 목요일 14시 E-10동 104호에서 <b>정보통신<\/b>공학부 4학년 재학생들을 대상으로 한 기업 및 직부... 있는 <b>직무<\/b>만 뽑을 것'이라는 부정적인 결과를 확인해 볼 수 있다고 하셨다. 채용전용이 수시로 바뀜에... ",
+			"bloggername":"충북대학교 전자정보대학",
+			"bloggerlink":"https:\/\/blog.naver.com\/cbnuece",
+			"postdate":"20191125"
+		},
+		{
+			"title":"NCS<b>직무<\/b> - 20.<b>정보통신<\/b> &gt; 01.<b>정보<\/b>기술 &gt; 06.<b>정보<\/b>보호 &gt; 03.... ",
+			"link":"https:\/\/blog.naver.com\/feelgolmok?Redirect=Log&logNo=222778403227",
+			"description":"#보안사고분석대응 첨부파일 report - 보안사고분석대응.hwp 파일 다운로드 <b>직무<\/b>정의 보안사고분석대응은 보안사고의 위협<b>정보<\/b>를 탐지하고, 시스템 복구와 예방 전략을 수립하는 일과 보안사 고로... ",
+			"bloggername":"한걸음부터",
+			"bloggerlink":"https:\/\/blog.naver.com\/feelgolmok",
+			"postdate":"20220618"
+		},
+		{
+			"title":"NCS<b>직무<\/b> -20.<b>정보통신<\/b> &gt; 01.<b>정보<\/b>기술 &gt; 06.<b>정보<\/b>보호 &gt; 07.... ",
+			"link":"https:\/\/blog.naver.com\/feelgolmok?Redirect=Log&logNo=222778355839",
+			"description":"첨부파일 report - 개인<b>정보<\/b>보호.hwp 파일 다운로드 <b>직무<\/b>정의 개인<b>정보<\/b>보호란 개인<b>정보<\/b>를 법령 등에 따라 생명주기별로 안전하게 보호하고 관리·운영하기 위한 기술적 , 물리적, 관리적 보호조치를... ",
+			"bloggername":"한걸음부터",
+			"bloggerlink":"https:\/\/blog.naver.com\/feelgolmok",
+			"postdate":"20220618"
+		},
+		{
+			"title":"NCS<b>직무<\/b> - 20.<b>정보통신<\/b> &gt; 01.<b>정보<\/b>기술 &gt; 06.<b>정보<\/b>보호 &gt; 08.... ",
+			"link":"https:\/\/blog.naver.com\/feelgolmok?Redirect=Log&logNo=222778394321",
+			"description":"#디지털포렌식 첨부파일 report - 디지털포렌식.hwp 파일 다운로드 <b>직무<\/b>정의 디지털포렌식은... 소 <b>정보<\/b>보호관리·운 영 2001060115_19v3 내부 보안 감사 수행 7 보안 감사 계획 수립하기 보안 감사... ",
+			"bloggername":"한걸음부터",
+			"bloggerlink":"https:\/\/blog.naver.com\/feelgolmok",
+			"postdate":"20220618"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사 실기 확실한 수험<b>정보<\/b>",
+			"link":"https:\/\/blog.naver.com\/hosm0516?Redirect=Log&logNo=222823288723",
+			"description":"시험의 경우에는 데이터 <b>통신<\/b> 및 컴퓨터 <b>통신<\/b>의 관리 기능이 필수적인 만큼, 이에 관한 전문적인 지식을 습득하고 뛰어난 인력을 양성하고자 제정되었다고 합니다. 즉, <b>정보통신<\/b>과 관련된 분야에서 <b>직무<\/b>를... ",
+			"bloggername":"내 사랑_",
+			"bloggerlink":"https:\/\/blog.naver.com\/hosm0516",
+			"postdate":"20220722"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사 시험일정 및 평가항목 확인!",
+			"link":"https:\/\/blog.naver.com\/conan613?Redirect=Log&logNo=222811752915",
+			"description":"전자<b>통신<\/b>공학, 전기<b>정보통신<\/b>공학, 전자<b>정보통신<\/b>공학, <b>정보<\/b>기술공학 등의 학과를 포함하고 있습니다. 마지막으로 경력 관련 기준에 따르면 동일하거나 유사한 <b>직무<\/b> 분야 현장에서 4년 이상의 실무경력을... ",
+			"bloggername":"아우랑의 생활밀착형 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/conan613",
+			"postdate":"20220715"
+		},
+		{
+			"title":"<b>정보통신<\/b>학과 : 가장 확실하게 진로를 설정하는 방법",
+			"link":"https:\/\/blog.naver.com\/urmyver?Redirect=Log&logNo=222787225954",
+			"description":"있는 <b>정보통신<\/b>학과는 학과의 이름처럼 인터넷 등을 통한 <b>통신<\/b>에 대한 부분과 회로 및 임베디드 등... 클라우드 컴퓨팅에 대한 자세한 <b>정보<\/b>는 아래 포스팅을 참고하세요. #취업 준비의 핵심 요소 진로에 대한... ",
+			"bloggername":"주들의 그리 대단하진 않지만 굉장한 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/urmyver",
+			"postdate":"20220624"
+		},
+		{
+			"title":"[대보<b>정보통신<\/b>] 3분기 경력직 공개 채용 진행 중!",
+			"link":"https:\/\/blog.naver.com\/blogdaebo?Redirect=Log&logNo=222812700619",
+			"description":"오늘은 3분기 경력직 공개채용에 나선 대보<b>정보통신<\/b>의 소식을 전해드립니다~ 대보인사이드... 위에 게시한 포스터에 상세 내용이 나와있으나, 조금 더 간략한 모집 <b>직무<\/b>에 관한 내용을 아래에 첨부 드릴 테니... ",
+			"bloggername":"대보인사이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/blogdaebo",
+			"postdate":"20220715"
+		},
+		{
+			"title":"중학생 진로 탐색, 국가<b>직무<\/b>능력표준(NCS)를 알아보자.... ",
+			"link":"https:\/\/blog.naver.com\/pinwheal?Redirect=Log&logNo=222811880624",
+			"description":"근로자의 <b>직무<\/b>역량과 능력에 따라 적정 임금 지급 현재 24개의 분류로 직업을 나누고 있다. 그중 블록체인에 관련된 내용만 따로 모아보았다. 20.<b>정보통신<\/b> &gt; 01.<b>정보<\/b>기술 &gt; 08.블록체인 &gt; 03.... ",
+			"bloggername":"온 가족이 브랜드인 동재 Family",
+			"bloggerlink":"https:\/\/blog.naver.com\/pinwheal",
+			"postdate":"20220715"
+		},
+		{
+			"title":"직업계고 채용연계형 <b>직무<\/b>교육과정 지원 사업 신설  - 직업계고... ",
+			"link":"https:\/\/blog.naver.com\/moeblog?Redirect=Log&logNo=222744118830",
+			"description":"첨부파일 [교육부 05-25(수) 조간보도자료] 직업계고 채용연계형 직문교육과정 지원 사업 신설.pdf 파일... 특히, 네이버클라우드, 교보<b>정보통신<\/b>, 메이필드호텔, 와이지-원, 조이시티게임 등 각 분야 주요... ",
+			"bloggername":"교육부",
+			"bloggerlink":"https:\/\/blog.naver.com\/moeblog",
+			"postdate":"20220524"
+		},
+		{
+			"title":"OO <b>정보통신<\/b> 승진자 과정 - 중간관리자 과정 (갈등관리 교육)",
+			"link":"https:\/\/blog.naver.com\/soso774545?Redirect=Log&logNo=222697136823",
+			"description":"OO <b>정보통신<\/b> 승진자 과정 - 중간관리자 과정 (갈등관리 교육) 지난 2022년 2월 23일. OO <b>정보통신<\/b> 과장 및... 및 <b>직무<\/b> 성격을 기반으로 이해관계가 발생할 수 밖에 없는 조직 내 특수한 상황을 조직문화적인... ",
+			"bloggername":"성과경영연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/soso774545",
+			"postdate":"20220411"
+		},
+		{
+			"title":"WISET 취업탐색 멘토링 - 멘토 팀 톺아보기 1편 <b>정보<\/b>\/<b>통신<\/b>",
+			"link":"https:\/\/blog.naver.com\/wisetter?Redirect=Log&logNo=222675468880",
+			"description":"1편 - <b>정보통신<\/b> 분야 7팀 현직자 멘토들이 진로탐색\/경력개발\/미래설계를 지원하는 WISET 취업탐색... 한국과학기술<b>정보<\/b>연구원 \/ 한국기계연구원 \/ 한국전자<b>통신<\/b>연구원 ▶ 멘토링 가능 전공 : 컴퓨터공학... ",
+			"bloggername":"한국여성과학기술인육성재단",
+			"bloggerlink":"https:\/\/blog.naver.com\/wisetter",
+			"postdate":"20220318"
+		},
+		{
+			"title":"[면접복기\/후기]나이스<b>정보통신<\/b> 택스리펀드 기획 및 운영",
+			"link":"https:\/\/blog.naver.com\/rbqjagodsla?Redirect=Log&logNo=222826109918",
+			"description":"공고 나이스<b>정보통신<\/b> 22년도 상반기 수시채용 공고가 2022년 5월 23일 0시 ~ 2022년 6월 3일 17시까지 올라왔었습니다. 저는 택스리펀드 기획 및 운영이라는 <b>직무<\/b>로 지원하였습니다. 자소서 문항은 사실상... ",
+			"bloggername":"범쓰의 감치는 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/rbqjagodsla",
+			"postdate":"20220723"
+		},
+		{
+			"title":"직업계고 학생에 맞춤형 <b>직무<\/b>교육…취업연계까지",
+			"link":"https:\/\/blog.naver.com\/mirae_saram?Redirect=Log&logNo=222746064525",
+			"description":"교육부는 다음 달부터 ‘직업계고 채용연계형 <b>직무<\/b>교육과정 지원’ 사업을 운영한다고 24일... 네이버클라우드, 교보<b>정보통신<\/b>, 메이필드호텔, 와이지-원, 조이시티게임 등 각 분야 주요 선도기업과... ",
+			"bloggername":"대한민국 인사혁신처",
+			"bloggerlink":"https:\/\/blog.naver.com\/mirae_saram",
+			"postdate":"20220525"
+		},
+		{
+			"title":"<b>정보통신<\/b>기술사 준비",
+			"link":"https:\/\/singah.tistory.com\/3913",
+			"description":"반응형 :: <b>정보통신<\/b>기술사 준비 <b>정보통신<\/b>기술사를 제외한 <b>통신<\/b>자격을 모두 갖추고 있는지라, 이제... 이런일을 하게 되는데, 시험의 기준도 <b>직무<\/b>수행에 나와 있는 내용이다. 응시자격은? 로 되어 있다.... ",
+			"bloggername":"싱아의 날마다 시트콤~♪",
+			"bloggerlink":"https:\/\/singah.tistory.com\/",
+			"postdate":"20211226"
+		},
+		{
+			"title":"2022 신중년 적합<b>직무<\/b> 고용장려금(신중년 일자리 고용장려금)",
+			"link":"https:\/\/blog.naver.com\/ybm7979?Redirect=Log&logNo=222771377473",
+			"description":"경영 사무 관련 전문직\/사무직부터 연구관련, <b>정보통신<\/b>, 공학, 기계 등 지원<b>직무<\/b>가 있고 기타 사회복지... 기업<b>정보<\/b> 제3자 제공 동의서(해당자에 한함)...등이 있고 4. 심사우대 입증서류 (해당자에 한함)... ",
+			"bloggername":"우리들 노무사",
+			"bloggerlink":"https:\/\/blog.naver.com\/ybm7979",
+			"postdate":"20220613"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사 (<b>정보통신<\/b>기술사) 필기 실기 총정리",
+			"link":"https:\/\/blog.naver.com\/rojisu0820?Redirect=Log&logNo=222830928829",
+			"description":"하여 '<b>정보통신<\/b>'에 대한 시스템을 구축 및 설계를 하고 운영과 함께 유지보수에 대한 <b>직무<\/b>를 수행하게... 및 <b>정보<\/b>설비기준 실기과목 <b>정보통신<\/b>실무 <b>정보통신<\/b>기술사 필기과목 무선, 유선<b>통신<\/b>망의 설계, 시공... ",
+			"bloggername":"교육리뷰어 디나제이&apos;blog",
+			"bloggerlink":"https:\/\/blog.naver.com\/rojisu0820",
+			"postdate":"20220727"
+		},
+		{
+			"title":"과기정통부, 올해 <b>정보통신<\/b>기술 분야 대학생들 345명 대상... ",
+			"link":"https:\/\/blog.naver.com\/kys3623?Redirect=Log&logNo=222681663912",
+			"description":"<b>정보통신<\/b>기술학점연계프로젝트인턴십 <b>정보통신<\/b> 관련학과 대학생이 국내외 기업에서 제안한 <b>정보통신<\/b>기술관련 <b>직무<\/b> 중심 인턴십을 수행하고 이를 학점으로 인정받도록 지원하여 이론과 실무 역량을... ",
+			"bloggername":"알아두면 좋은 것들",
+			"bloggerlink":"https:\/\/blog.naver.com\/kys3623",
+			"postdate":"20220324"
+		},
+		{
+			"title":"메타버스 창작 프로젝트 지원사업 공고_과학기술<b>정보통신<\/b>부",
+			"link":"https:\/\/blog.naver.com\/ash1106?Redirect=Log&logNo=222766251814",
+			"description":"경영 2022년 메타버스 창작 프로젝트 지원사업 공고 2022.06.09 소관부처 과학기술<b>정보통신<\/b>부... 소요비용, <b>직무<\/b> 교육비 등을 지원해 드리는 사업입니다. ☞ 국내 메타버스 콘텐츠ㆍ서비스 개발기업... ",
+			"bloggername":"정책정보, 지원사업, 캠핑, 경제 등 우빗(Ubit)거리다",
+			"bloggerlink":"https:\/\/blog.naver.com\/ash1106",
+			"postdate":"20220609"
+		},
+		{
+			"title":"대보<b>정보통신<\/b>, 공채13기 신입사원_입사 현장 스케치",
+			"link":"https:\/\/blog.naver.com\/blogdaebo?Redirect=Log&logNo=222577484861",
+			"description":"얼마 전 진행되었던 대보<b>정보통신<\/b> 공채 13기 채용에는 SW 개발, 교통사업 수행, 경영관리 <b>직무<\/b>를 모집했습니다! 서류 전형과 인\/적성검사 전형을 통과한 지원자들은 강남구 수서동에 위치한 대보그룹 본사에서... ",
+			"bloggername":"대보인사이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/blogdaebo",
+			"postdate":"20211125"
+		},
+		{
+			"title":"<b>정보통신<\/b>학과 취업 전공대비에 관한 모든것",
+			"link":"https:\/\/blog.naver.com\/ridesafe?Redirect=Log&logNo=222561395036",
+			"description":"전자<b>통신<\/b>실험 ... <b>정보통신<\/b>학과의 커리큘럼의 큰 틀로 보자면, 컴퓨터시스템과 네트워크 분야의... 있지만, <b>정보<\/b> 시스템 운영 및 개발\/<b>정보통신<\/b> 및 네트워크분야\/무인자동차개발\/금융권\/방송국 및 제작회사... ",
+			"bloggername":"비비디 바비디 부",
+			"bloggerlink":"https:\/\/blog.naver.com\/ridesafe",
+			"postdate":"20211107"
+		},
+		{
+			"title":"NIPA <b>정보통신<\/b>산업진흥원 채용 공고 및 자소서 항목, 연봉... ",
+			"link":"https:\/\/blog.naver.com\/juvess?Redirect=Log&logNo=222793687756",
+			"description":"모든 분야는 관련 업무의 전공자 또는 경험\/경력자를 우대한다고 하오니 <b>직무<\/b>기술서를 참고하시어... NIPA <b>정보통신<\/b>산업진흥원 채용 대비 알아두면 좋은 <b>정보<\/b> <b>정보통신<\/b>산업진흥법에 의거하여 <b>정보통신<\/b>산업의... ",
+			"bloggername":"공박사: 오늘의 채용공고는 뭘까요? 공기업 채용 분석",
+			"bloggerlink":"https:\/\/blog.naver.com\/juvess",
+			"postdate":"20220629"
+		},
+		{
+			"title":"소방공무원 <b>정보통신<\/b> 하는일 부터 되는 방법",
+			"link":"https:\/\/blog.naver.com\/topedu_?Redirect=Log&logNo=222822436472",
+			"description":"소방공무원<b>정보통신<\/b>하는일 ✔️ 종합상황실 <b>정보통신<\/b> &amp; <b>정보<\/b>보호 ✔️ <b>정보<\/b>관리팀 배치, 긴급구조 시스템 유지관리, 각종 프로그래밍 개발 등 ✔️ 지휘 센터 유.무선 <b>통신<\/b> 장비 운영과 소방서 <b>정보통신<\/b>... ",
+			"bloggername":"탑에듀 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/topedu_",
+			"postdate":"20220721"
+		},
+		{
+			"title":"직원과 기업 모두를 위한 <b>직무<\/b>발명제도!",
+			"link":"https:\/\/blog.naver.com\/kipracafe?Redirect=Log&logNo=222794635656",
+			"description":"과학기술<b>정보통신<\/b>부 등) ④ SGI서울보증 (보증한도 확대 및 보험료 할인) 자세한 내용은 아래 링크를 통해 확인해주세요~! 특허청 – <b>직무<\/b>발명제도 https:\/\/www.kipo.go.kr\/ko\/kpoContentView.do?menuCd=SCD0200260 오늘은 기업과... ",
+			"bloggername":"한국지식재산보호원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kipracafe",
+			"postdate":"20220630"
+		},
+		{
+			"title":"2021년 IBK시스템 IT<b>직무<\/b> 신입직원 30명 채용\/기업은행 자회사",
+			"link":"https:\/\/blog.naver.com\/tradepeople?Redirect=Log&logNo=222405420338",
+			"description":"2021년 IBK시스템 IT<b>직무<\/b> 신입직원 채용 *지원기간: 2021. 06. 21(월) ∼ 07. 05(월) *모집구분 IT<b>직무<\/b> 신입... 서비스업 -광고 대행업 및 광고매체 판매업 -그 외 기타 <b>정보<\/b> 서비스업 -<b>정보통신<\/b>공사업 등이 있다.",
+			"bloggername":"취크루트",
+			"bloggerlink":"https:\/\/blog.naver.com\/tradepeople",
+			"postdate":"20210621"
+		},
+		{
+			"title":"부서별 <b>직무<\/b>로 알아보는 진로탐색 | 나는 어떤일이 좋을까?",
+			"link":"https:\/\/blog.naver.com\/queen0326?Redirect=Log&logNo=222649023151",
+			"description":"또한, 지속적으로 프로세스 및 서비스 개선이 필요하기 때문에, IT신기술에 대해 적극적으로 수용하고 습득하려는 노력이 필요한 <b>직무<\/b>에요. ▶ IT 부서 관련 전공 : 컴퓨터 공학, <b>정보통신<\/b>, <b>정보<\/b>보안, 경영<b>정보<\/b>학... ",
+			"bloggername":"베리해피한 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/queen0326",
+			"postdate":"20220217"
+		},
+		{
+			"title":"주요<b>정보통신<\/b>기반시설 취약점 점검 가이드 인트로",
+			"link":"https:\/\/blog.naver.com\/sky00141?Redirect=Log&logNo=222725018137",
+			"description":"제가 지금 하고 있는 업무인 보안 컨설팅을 하기 이전부터 소위 주통기라고 부르는 &quot;주요<b>정보통신<\/b>기반... 그래서 보안 업체에서 처음 취약점 점검 업무를 하거나 기술적 컨설팅 <b>직무<\/b>로 취업 준비를 하는 분들도... ",
+			"bloggername":"Jay의 IT Security 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sky00141",
+			"postdate":"20220508"
+		},
+		{
+			"title":"클라우드 엔지니어 : <b>직무<\/b> 개요 및 취업에 필요한 스펙",
+			"link":"https:\/\/blog.naver.com\/urmyver?Redirect=Log&logNo=222588303457",
+			"description":"#클라우드 엔지니어 <b>직무<\/b> 개요 클라우드 엔지니어는 클라우드 컴퓨팅 기술을 기반으로 서버를... 클라우드 엔지니어와 연관성이 높은 내용들은 대분류로 나누어보았을 때 프로그래밍과 네트워크(<b>정보통신<\/b>) 및... ",
+			"bloggername":"주들의 그리 대단하진 않지만 굉장한 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/urmyver",
+			"postdate":"20211206"
+		},
+		{
+			"title":"소방공무원 <b>정보통신<\/b> 하는 일 및 시험<b>정보<\/b>",
+			"link":"https:\/\/blog.naver.com\/jh99129?Redirect=Log&logNo=222822618515",
+			"description":"소방공무원 <b>정보통신<\/b> 업무 담당자는 <b>통신<\/b>망을 이용하여 음성, 문자, 영상 및 데이터 같은 <b>정보<\/b>를... 특히 면접에서는 소방<b>직무<\/b> 특수성이 반영된 문항을 물어볼 예정이라고하니 끝까지 긴장을 놓칠 수 없을 것... ",
+			"bloggername":"걸어다니는 인간비타Min",
+			"bloggerlink":"https:\/\/blog.naver.com\/jh99129",
+			"postdate":"20220721"
+		},
+		{
+			"title":"직업계고 학생에 맞춤형 <b>직무<\/b>교육…취업연계까지",
+			"link":"https:\/\/blog.naver.com\/introdo?Redirect=Log&logNo=222745056530",
+			"description":"이어 “올해 처음 실시되는 채용연계형 <b>직무<\/b>교육과정을 통해 참여 학생들이 산업과 사회의 변화에 유연하게 대응해 취업까지 이어질 수 있을 것으로 기대한다”고 덧붙였다. [출처<b>정보<\/b>: 대한민국 정책브리핑... ",
+			"bloggername":"아름답게 만드는 세상 풍경",
+			"bloggerlink":"https:\/\/blog.naver.com\/introdo",
+			"postdate":"20220525"
+		},
+		{
+			"title":"[5월 3일] 이종호 과학기술<b>정보통신<\/b>부 장관 후보자 인사청문회",
+			"link":"https:\/\/blog.naver.com\/ewon33?Redirect=Log&logNo=222719613608",
+			"description":"오늘 과학기술<b>정보통신<\/b>부 이종호 장관 후보자 인사청문회가 열렸습니다. 전문성, <b>직무<\/b>수행능력, 도덕성 등에 대해 검증하는 시간이 될 것입니다. 저는 위원장으로서 위원들의 질의를 통해 위원들이 후보자를... ",
+			"bloggername":"이원욱의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ewon33",
+			"postdate":"20220503"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사 자격증 취득에 대해서",
+			"link":"https:\/\/blog.naver.com\/zano0201?Redirect=Log&logNo=222808721312",
+			"description":"관한 <b>직무<\/b>를 수행을 하실 것으로 예상됩니다. 그렇기 때문에 많은 분들이 <b>통신<\/b>기기, 네트워크 시스템 및 <b>정보통신<\/b>설비 업체 및 공공기관, <b>정보통신<\/b>설비를 공사·설치하는 기업체 및 공공기관, 전기<b>통신<\/b>공사... ",
+			"bloggername":"바람이 불어 내 마음도 실려갔으면..",
+			"bloggerlink":"https:\/\/blog.naver.com\/zano0201",
+			"postdate":"20220712"
+		},
+		{
+			"title":"1인당 총 960만 원 지원! | 신중년 적합<b>직무<\/b> 고용지원금",
+			"link":"https:\/\/blog.naver.com\/dowon2038?Redirect=Log&logNo=222818624240",
+			"description":"<b>정보<\/b>마당(www.mme.or.kr)에서 발급한 '중견기업 확인서'를 통해 확인해 보세요.  신중년 적합<b>직무<\/b>*가... 적합<b>직무<\/b>를 크게 분류하면 다음과 같습니다. - 경영\/사무관련 전문직 및 사무직, 연구 관련직, <b>정보통신<\/b>... ",
+			"bloggername":"노무법인 도원 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dowon2038",
+			"postdate":"20220719"
+		},
+		{
+			"title":"22년 06월 28일(화) BC의 종목분석(SGC에너지,롯데<b>정보통신<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/evertmo?Redirect=Log&logNo=222792602847",
+			"description":"7% 상승 '미소'(핀포인트뉴스) 올해 1분기 IT<b>직무<\/b> 최다 검색어, 신입은 'java', 경력직은 '전산'(데이터솜) 삼성전자, 3000명 넘는 미래 개발자 육성…&quot;IT생태계 저변 확대&quot;(뉴스1) 기타<b>정보<\/b>... ",
+			"bloggername":"BC와 발전하는 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/evertmo",
+			"postdate":"20220628"
+		},
+		{
+			"title":"<b>정보통신<\/b>산업진흥원 채용... (경영지원, <b>정보통신<\/b>사업지원... ",
+			"link":"https:\/\/blog.naver.com\/gongja0123?Redirect=Log&logNo=222802883770",
+			"description":"연봉 <b>정보<\/b>(평균연봉, 근속연수, 신입사원 초봉) 2021년 상반기 <b>정보통신<\/b>산업진흥원 경쟁률 및 합격률 입니다. <b>직무<\/b>당 모집 규모가 크지 않다보니 경쟁률이 치열했는데요. 본인의 역량 그리고 지원 <b>직무<\/b>에 대한... ",
+			"bloggername":"공자면접 l 공기업 자소서 면접",
+			"bloggerlink":"https:\/\/blog.naver.com\/gongja0123",
+			"postdate":"20220707"
+		},
+		{
+			"title":"- <b>직무<\/b> 중심 3D프린팅 실무교육 참가자 모집 (미취업자 대상)",
+			"link":"https:\/\/blog.naver.com\/prototech?Redirect=Log&logNo=222792271818",
+			"description":"오늘은 과학기술<b>정보통신<\/b>부의 지원으로 <b>정보통신<\/b>산업진흥원과 3D융합산업협회가 주관하는 무료... org 3D프린팅 전주기 3D프린팅 핵심<b>직무<\/b> ▶ 어플리케이션 엔지니어 고객이 원하는 제품을 제작하기... ",
+			"bloggername":"3D 프린팅 토탈 솔루션 전문기업 프로토텍",
+			"bloggerlink":"https:\/\/blog.naver.com\/prototech",
+			"postdate":"20220628"
+		},
+		{
+			"title":"[아무튼 대보 출근] 대보<b>정보통신<\/b>, 재경팀 막내 성총무 사원",
+			"link":"https:\/\/blog.naver.com\/blogdaebo?Redirect=Log&logNo=222686097450",
+			"description":"대보인사이드 아무튼 대보 출근 세 번째 순서로 대보<b>정보통신<\/b>의 경영본부 재경팀 막내 성총무 사원의 하루, 재밌으셨나요!? 다음에는 다른 <b>직무<\/b> 사원과 함께 다시 돌아오겠습니다!",
+			"bloggername":"대보인사이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/blogdaebo",
+			"postdate":"20220329"
+		},
+		{
+			"title":"2021 하반기 <b>정보통신<\/b>산업진흥원 글로벌사업 위촉직 면접 후기",
+			"link":"https:\/\/blog.naver.com\/doyun7878?Redirect=Log&logNo=222675538102",
+			"description":"개인<b>정보<\/b>가 노출되어 질문만 공개합니다. ■ 채용과정: 서류(5배수) → 면접(1명 채용) ■ 지원부문: 위촉직_사업관리(글로벌사업) ■ 일시: 2021. 12. 2.(목), 14:40 ■ 장소: 진천 <b>정보통신<\/b>산업진흥원 본원 6층... ",
+			"bloggername":"DDURRUN",
+			"bloggerlink":"https:\/\/blog.naver.com\/doyun7878",
+			"postdate":"20220317"
+		},
+		{
+			"title":"[KDB산업은행]  2021년 3차 청년인턴 전산 <b>직무<\/b> 서류 합격 후기",
+			"link":"https:\/\/blog.naver.com\/hongmi117?Redirect=Log&logNo=222592005294",
+			"description":"산업은행 인턴 준비하며 전산관련 <b>정보<\/b>가 너무 없었고,, 그로 인한 많은 어려움이 있었기 때문에 다음... 5과목 , <b>정보통신<\/b>학과에서 수강한 과목 5과목으로 기입했습니다. <b>직무<\/b>관련 주요내용은 수업계획서를... ",
+			"bloggername":"DABI STORY",
+			"bloggerlink":"https:\/\/blog.naver.com\/hongmi117",
+			"postdate":"20211210"
+		},
+		{
+			"title":"<b>정보통신<\/b>기사 응시자격 안 될 때 갖추는 방법!",
+			"link":"https:\/\/blog.naver.com\/moct2000?Redirect=Log&logNo=222805950764",
+			"description":"저는 <b>정보통신<\/b>기사 시험 조건을 맞추려고 학점은행제라고 하는 제도를 활용했었던 고OO이라고 합니다.... 언젠가부터 문득 떠올랐던 생각인데 사무직도 나쁘지 않은 <b>직무<\/b>긴 하지만 조금 더 전문적인 일을 해보고... ",
+			"bloggername":"세모네모동그라미",
+			"bloggerlink":"https:\/\/blog.naver.com\/moct2000",
+			"postdate":"20220710"
+		},
+		{
+			"title":"롯데<b>정보통신<\/b> 면접 후기 자료 및 전형방식, 롯정통 면접질문... ",
+			"link":"https:\/\/blog.naver.com\/power2know?Redirect=Log&logNo=222782561767",
+			"description":"필요한 <b>정보<\/b>와 자료를 요약하여 올려봅니다. 롯데<b>정보통신<\/b> 면접스터디에 참조하고 취업 최종 관문... 이슈, <b>직무<\/b>내용(취업전략 &gt; <b>직무<\/b>사전) 등을 볼 수 있어요. 또 대기업 인사실무자가 진행하는... ",
+			"bloggername":"지식플랜트",
+			"bloggerlink":"https:\/\/blog.naver.com\/power2know",
+			"postdate":"20220621"
+		},
+		{
+			"title":"[M-프렌즈] 공군 <b>정보통신<\/b> 특기 ‘공군의 <b>통신<\/b>은 우리가 맡는다!’",
+			"link":"https:\/\/blog.naver.com\/mnd9090?Redirect=Log&logNo=222550932446",
+			"description":"병 <b>정보통신<\/b> 특기군에는 <b>정보<\/b>체계관리, 보안체계관리, 지상레이다체계정비, 무선<b>통신<\/b>체계정비... 부사관의 특기와 겹치는 이유는 <b>정보통신<\/b> 특기병의 주 임무가 부사관의 <b>직무<\/b>를 보조하는... ",
+			"bloggername":"국방부 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/mnd9090",
+			"postdate":"20211028"
+		},
+		{
+			"title":"<b>정보통신<\/b>공학부 기업 <b>직무<\/b> 분석 특강",
+			"link":"https:\/\/blog.naver.com\/cbnuece?Redirect=Log&logNo=221717726803",
+			"description":"지난 11월 19일 E8-2 101호에서 <b>정보통신<\/b>공학부 3학년을 대상으로 기업, <b>직무<\/b> 분석 특강이 진행되었다.... 마지막으로 전하시며 특강은 마무리 되었다. 전자<b>정보<\/b>대학 <b>정보통신<\/b>공학부 송상호 기자 *********@*****.***",
+			"bloggername":"충북대학교 전자정보대학",
+			"bloggerlink":"https:\/\/blog.naver.com\/cbnuece",
+			"postdate":"20191125"
+		},
+		{
+			"title":"[서류합격] 롯데<b>정보통신<\/b> Programming, 회사와 <b>직무<\/b>가 무엇을... ",
+			"link":"https:\/\/blog.naver.com\/bs_im?Redirect=Log&logNo=221171224004",
+			"description":"이번에는 롯데<b>정보통신<\/b> IT, Programming <b>직무<\/b>를 통해 IT 기업을 지원하시는 분들이 주의하셔야 될 점을 말씀드리겠습니다. 1. IT를 전공했다고 해도 회사마다 쓰임이 다릅니다. 컴공, 컴퓨터공학을 전공하신... ",
+			"bloggername":"패러다임 취업설계사무소",
+			"bloggerlink":"https:\/\/blog.naver.com\/bs_im",
+			"postdate":"20171226"
+		},
+		{
+			"title":"[채용 <b>직무<\/b>분석] <b>정보통신<\/b>산업진흥원",
+			"link":"https:\/\/blog.naver.com\/bluegreen0807?Redirect=Log&logNo=221471591527",
+			"description":"<b>정보통신<\/b>산업진흥원에서 채용하는 <b>직무<\/b>를 분석해보자! (출처: 기관 홈페이지) 전략기획단, 사업지원단... IT기획 <b>정보<\/b>기술 아키텍처를 수립하고 시행한다. 시스템관리 <b>정보<\/b>화 인프라를 도입하고 운영하고... ",
+			"bloggername":"직업도서관",
+			"bloggerlink":"https:\/\/blog.naver.com\/bluegreen0807",
+			"postdate":"20190222"
+		},
+		{
+			"title":"경상남도교육청 지방임기제공무원(<b>정보통신<\/b>) <b>직무<\/b>수행계획서... ",
+			"link":"https:\/\/ebizbrain.tistory.com\/9168",
+			"description":"경상남도교육청 지방임기제공무원(<b>정보통신<\/b>) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 10만원 : 5매 기준 \/ 3일 (공휴일 제외) ※ 서류 작성 기간은 의뢰인의 사정에... ",
+			"bloggername":"사업계획서\/제안서\/기획서\/보고서 :: 사업계획서\/제안서\/기획서\/보고서",
+			"bloggerlink":"https:\/\/ebizbrain.tistory.com\/",
+			"postdate":"20170504"
+		},
+		{
+			"title":"신입사원 채용공고 \/2차 필기전형 NCS기반 <b>직무<\/b>적성검사",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220524160715",
+			"description":"경영·회계·사무의 직무능력이 필요합니다. 한전KPS의 사무직 전산분야는 NCS 분류 20. <b>정보통신 직무<\/b>능력에 해당해요. 한전KPS의 UAE 분야의 기계분야와 전기분야, 계측제어 분야입니다.... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20151031"
+		},
+		{
+			"title":"[롯데정보통신] 롯데<b>정보통신 직무<\/b> \/ 선배들의 회사생활",
+			"link":"https:\/\/blog.naver.com\/hyeha00?Redirect=Log&logNo=150146059544",
+			"description":"롯데<b>정보통신<\/b> 회사와 <b>직무<\/b>에 대해 파악하고 있는데 회사 홈페이지에서 <b>직무<\/b>에 대해 파악하는데 한계가 있더라구요 ㅠ_ㅠ 그래서 구글링 하던 중 롯데<b>정보통신<\/b> 블로그를 발견했습니다 : ) 업데이트를 안하시는... ",
+			"bloggername":"행복한루나의 다락방",
+			"bloggerlink":"https:\/\/blog.naver.com\/hyeha00",
+			"postdate":"20120828"
+		},
+		{
+			"title":"[<b>정보통신<\/b>산업진흥원] [국가<b>직무<\/b>능력표준개발] 2010년... ",
+			"link":"https:\/\/blog.naver.com\/ddi2009?Redirect=Log&logNo=20108811254",
+			"description":"전자, ⑥<b>정보통신<\/b> 나. 지원규모 : 과제당 63백만원 내외(3개 분야 내외) 다. 지원대상 : 국가<b>직무<\/b>표준의 개발역량이 있는 대학, 연구소, 협회 등 라. 지원기간 : 협약일 ~ 2011.2.28. 마. 지원내용 : 인건비... ",
+			"bloggername":"연구개발특구진흥재단 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ddi2009",
+			"postdate":"20100702"
+		},
+		{
+			"title":"읍내<b>정보통신<\/b>학교, 학교폭력예방 <b>직무<\/b>연수 교원 초청... ",
+			"link":"https:\/\/blog.naver.com\/kbinews?Redirect=Log&logNo=221615220310",
+			"description":"읍내<b>정보통신<\/b>학교, 학교폭력예방 <b>직무<\/b>연수 교원 초청 업무설명회 개최 2019년 08월 13일 (화) 16:58 입력 읍내<b>정보통신<\/b>학교(원장 황계연)은 최근 학교폭력예방 <b>직무<\/b>연수에 참여한 대구광역시교육청 관할 교사... ",
+			"bloggername":"강북인터넷뉴스",
+			"bloggerlink":"https:\/\/blog.naver.com\/kbinews",
+			"postdate":"20190813"
+		},
+		{
+			"title":"읍내<b>정보통신<\/b>학교, 학교폭력예방 <b>직무<\/b>연수 교원 초청... ",
+			"link":"https:\/\/blog.naver.com\/kbinews?Redirect=Log&logNo=221330161886",
+			"description":"법무부 읍내<b>정보통신<\/b>학교(교장 이형섭)는 2018학년도 제1차 학교폭력예방 <b>직무<\/b>연수에 참여한 대구지역 초등교사 17명을 초청해 업무설명회를 개최했다. 이번 설명회는 교사들의 소년사건처리절차, 소년원 업무... ",
+			"bloggername":"강북인터넷뉴스",
+			"bloggerlink":"https:\/\/blog.naver.com\/kbinews",
+			"postdate":"20180731"
+		},
+		{
+			"title":"<b>정보통신<\/b> 실무역량 평가에 대한 사례연구",
+			"link":"https:\/\/blog.naver.com\/jsstopjjh?Redirect=Log&logNo=222820424038",
+			"description":"특정 <b>직무<\/b>나 직위에 상관없이 비즈니스 요구에 따른 문제를 해결하고 업무 를 성공적으로... 하는 <b>정보 통신<\/b>산업진흥원(이후, <b>정보통신<\/b>기술진흥센터)으로 전담기관을 지정하여 <b>정보통신<\/b> 실무역량평가... ",
+			"bloggername":"전기적산 및 도면",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsstopjjh",
+			"postdate":"20220720"
+		}
+	]
+}

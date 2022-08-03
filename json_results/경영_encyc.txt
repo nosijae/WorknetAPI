@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:31:52 +0900",
+	"total":47022,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566688&cid=46630&categoryId=46630",
+			"description":" 일정한 목적을 달성하기 위하여 인적·물적 자원을 결합한 조직, 또는 그 활동. [개설] <b>경영<\/b>이라는 낱말 자체에는 여러 가지 뜻이 있어서 사람에 따라 견해가 다양하다. <b>경영<\/b>을 ‘상점이나 공장·농장과 가정을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20170812001445223_KKBWKSSML.jpg\/bb35195c-05c9-41.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060182&cid=40942&categoryId=31909",
+			"description":" 재정을 제외한 가계·기업 기타 국민경제를 구성하는 개별경제의 단위.  <b>경영<\/b>은 <b>경영<\/b>학의 연구대상을 이루는 것으로, <b>경영<\/b>학의 방법론의 상이에 따라 여러 가지 의미로 사용된다. 개별경제학... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=334557&cid=41708&categoryId=41737",
+			"description":"[줄거리(사이버 문학광장 제공)] 신축한 아파트 사무실에 나가는 최무경은 장래를 약속한 청년이 있는 아가씨다. 그런데 그 청년은 대학 졸업 후 증권회사 조사부에 근무하던 중에 사상범으로 잡혀 들어가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060181&cid=40942&categoryId=31984",
+			"description":" 일정한 거리를 정해진 영법으로 역영하여 그 속도를 겨루는 경기이다.  <b>경영<\/b>은 자유형·평영·접영·배영·계영·개인혼영·혼계영·혼성 혼계영·마라톤의 세부 종목으로 나뉘며, 거리별로 종목이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1520137&cid=42121&categoryId=42121",
+			"description":"조정, 계획, 통제와 같은 <b>경영<\/b>자의 활동을 가리키는 것 이외에도 공장산업의 <b>경영<\/b>책임자의 의미로 쓰이며, 또한 사용자로서의 경제적 활동을 하는 모든 층을 말하기도 한다. 어떤 사람은 고급<b>경영<\/b>자와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1164819&cid=40942&categoryId=31748",
+			"description":" 명나라의 중앙 수비군.  영락제(永樂帝) 때 오군영(五軍營) ·삼천영(三千營) ·신기영(神機營)의 삼대영(三大營)을 <b>경영<\/b>으로 하고, 병사는 경위(京衛) 및 지방위소(地方衛所)에서 선발하였다. 그러나 1449년에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2390235&cid=50762&categoryId=51387",
+			"description":"계획이나 규모를 세워 일을 추진해감(construction). 어떤 일을 도모(의논)하거나 결심함. 성경에서는 악인들의 사악한 도모(창 11:6)나 국가의 책략(시 2:1; 행 4:25)을 가리키는 말로 사용되었다. 한편, 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=440815&cid=42081&categoryId=42081",
+			"description":"기록관의 사명을 달성하기 위하여 수행하는 모든 활동, 또는 기록관 내 · 외부(<b>경영<\/b> 환경)에서 기록관과 관련하여 이루어지는 모든 활동을 <b>경영<\/b> 활동이라고 할 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060180&cid=40942&categoryId=33383",
+			"description":" 조선시대 서울에 있던 군영.  훈련도감(訓鍊都監)·금위영(禁衛營)·어영청(御營廳)·수어청(守禦廳)·총융청(摠戎廳)·용호영(龍虎營) 등을 통틀어 일컫던 말이다. 훈련도감·금위영·어영청은 삼영(三營)이라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=80696&cid=41826&categoryId=41826",
+			"description":"조선 시대 서울에 소재한 군영을 총칭하는 용어. 조선 후기에는 수도의 군영(軍營)으로 훈련도감(訓鍊都監)•금위영(禁衛營)•어영청(御營廳)•수어청(守禦廳)•총융청(總戎廳)•용호영(龍虎營) 등이 있었음.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2798566&cid=55598&categoryId=55598",
+			"description":"변이나 중앙에서 구상한 바에 따라 일정한 규모로 세력을 구축하고 집을 짓는 일. *중앙을 크게 ∼하다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=123471&cid=50331&categoryId=50331",
+			"description":"경제를 지속하기 위하여 베푼 작업상의 조직.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2792683&cid=51280&categoryId=51353",
+			"description":"",
+			"thumbnail":""
+		},
+		{
+			"title":"경제\/<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/list.naver?categoryId=42084",
+			"description":"시장의 흐름이 보이는 경제 법칙 101, 경제학사전, 계획하는 삶이 아름답다, Basic 고교생을 위한 정치경제 용어사전, 고등학교 생활금융, 금융감독용어사전, 금융위원회 금융시장역사, 금융위원회 금융연표... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"http:\/\/people.aks.ac.kr\/view.jsp?id=PPL_2SNR_A9999_1_0017108",
+			"description":"생몰년 미상. 본관은 청주(淸州).\n관직은 이찬(伊湌)을 지냈다. 700년(효소왕 9)에 반란을 꾀하였다가 죽임을 당하였다. 이 사건에 연좌되어 698년에 중시로 임명되었던 김순원(金順元)이 파면되었다. 반란의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%98%81",
+			"description":"<b>경영<\/b> (經營, 영어: management )이란 '조직에 관한 의사결정을 행하는 행동'을 말한다. <b>경영<\/b>이라는 말은 대한민국의 학계나 실업계에서 그 개념이 극히 모호하게 또 추상적으로 사용되고 있다. <b>경영<\/b>한다는 것은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=906938",
+			"description":"마케팅",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/tlist\/list.naver?listId=1028184",
+			"description":"<b>경영<\/b>",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2165383&cid=60556&categoryId=60556",
+			"description":"작품소개 연재 지면에 ‘<b>경영<\/b>(經營) 김남천(金南天)’이라고 표기되어 있다. 「낭비」(인문평론1940.2-1941.2. 11회 미완), 「맥」(춘추1941.2)과 연작 관계에 있는 중편소설이다. 전향을 거쳐 친일로 나아갈 것임을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3110_000_1\/20140527105935797_6THZGWQRX.jpg\/eb695_21_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1662194&cid=60558&categoryId=60558",
+			"description":"畫師經營有深意 豈爲目前克細娛(화사<b>경영<\/b>유심의 기위목전극세오 ; 화공의 구상에 깊은 뜻이 있었으니, 다만 어찌 눈앞의 자잘한 오락에서였으랴.)&#60;이선제李先齊 격옹도擊瓮圖&#62;",
+			"thumbnail":""
+		},
+		{
+			"title":"날씨가 우리 생활에 미치는 영향",
+			"link":"http:\/\/www.edunet.net\/nedu\/contsvc\/viewWkstCont.do?clss_id=CLSS0000000363&menu_id=82&contents_id=fs_a0000-2015-0702-0000-000000000117&svc_clss_id=CLSS0000055944&contents_openapi=naverdic",
+			"description":"여러 분야에서 날씨와 우리 생활 사이의 관계를 예를 통해 살펴보고, 이를 이용하여 돈을 버는 날씨 <b>경영<\/b>을 이해한다.",
+			"thumbnail":"https:\/\/openapi-dbscthumb.phinf.naver.net\/4011_000_3\/20170819070143991_BRZYGA0IR.jpg\/e5_sci_07_18_img.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1571627&cid=62044&categoryId=62044",
+			"description":"32대 효소왕(孝昭王) 때 이찬(伊湌). 경현(慶玄)이라고도 한다. 동왕 9년(700년) 모반하다가 복주(伏誅)되었다.",
+			"thumbnail":""
+		},
+		{
+			"title":"스위밍 레이스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=450567&cid=50344&categoryId=50344",
+			"description":"규정된 거리를 규정된 <b>경영<\/b> 종목으로 헤엄치는 데 소요된 시간으로 등위를 결정하는 수영 경기.",
+			"thumbnail":""
+		},
+		{
+			"title":"산림<b>경영<\/b>\/<b>경영<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5824831&cid=65669&categoryId=65669",
+			"description":"<b>경영<\/b>체계와 구조 및 계획, 현장 작업 등 산림자원 및 기업의 운영 및 <b>경영<\/b>에 책임이 있는 사람",
+			"thumbnail":""
+		},
+		{
+			"title":"M<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=18676&cid=43659&categoryId=43659",
+			"description":"메커니즘 <b>경영<\/b>. 기업 내 개별 요소인 주체, 환경, 자원 간의 상호작용 원리를 파악해 각 기업 고유의 경쟁력 확보에 활용하는 <b>경영<\/b>기법.",
+			"thumbnail":""
+		},
+		{
+			"title":"e<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=416&cid=43659&categoryId=43659",
+			"description":"인터넷이 전세계를 지배하는 시대에 기업<b>경영<\/b>에서도 새로운 패러다임이 필요해졌다. e비즈니스 시대에 맞는 새로운 <b>경영<\/b> 패러다임을 e<b>경영<\/b>이라 한다. e비즈니스 시대에 맞는 인사, 조직, 생산, 물류, 마케팅... ",
+			"thumbnail":""
+		},
+		{
+			"title":"e-<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=18313&cid=43659&categoryId=43659",
+			"description":"컴퓨터 및 인터넷의 확산을 통한 디지털 시대의 도래와 더불어 기업<b>경영<\/b>도 시대적 변화에 맞는 새로운 <b>경영<\/b> 패러다임을 필요로 하고 있으며 이를 e<b>경영<\/b>이라고 말한다.즉, e-비즈니스 시대에 맞는 인사·조직... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>층",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1577&cid=43659&categoryId=43659",
+			"description":"기업<b>경영<\/b>은 어떤 조직 밑에서 행해지고, 이 <b>경영<\/b>기구는 사장을 정점으로 하여 일반종업원을 기저로 한 피라밋형이 되며, 관리를 위하여 상부에서 하부에 이르기까지 몇 개의 계층이 설치되어 있다. 이와 같은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060222&cid=40942&categoryId=31850",
+			"description":" 기업 <b>경영<\/b>에 관하여 최고의 의사결정을 내리고, <b>경영<\/b>활동의 전체적 수행을 지휘 ·감독하는 사람이나 또는 기관.  그 기능은 임시적 기능과 경상적(經常的) 기능으로 이루어진다. 임시적 기능은 기업의 설립... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=440816&cid=42081&categoryId=42081",
+			"description":"기록관의 사명을 달성하기 위하여 수행하는 모든 활동을 <b>경영<\/b> 활동이라고 본다면, 이런 맥락에서 기록관 직원은 모두 어떤 시점에서는 <b>경영<\/b>자로서 활동하게 된다. 그러나 기록관 조직 도표에서 상위층에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>성",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060208&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>적 생산의 기술적 ·사회적 합리성.  즉, 영리적 상품생산의 사업체로서의 기업 자본주의 <b>경영<\/b>에 있어서의 상품생산의 합리성을 뜻하는 말이다. 그런데 이 합리성에 관해서는 몇 가지 구별을 발견할 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060195&cid=40942&categoryId=31909",
+			"description":" 기업가가 자기 기업체를 관리 ·<b>경영<\/b>하는 권리.  그러나 법률상으로 독립된 명확한 개념의 권리는 아니다. 제2차 세계대전 후 노동조합운동이 본격화되고 노동조합측이 기업<b>경영<\/b>에의 개입을 요구하기 시작하자... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566689&cid=46630&categoryId=46630",
+			"description":" 기업의 목적달성을 위해서 <b>경영<\/b>활동을 계획·지휘·조정하는 기업의 관리주체. [내용] 한 나라의 경제성장과 발전은 기업의 성과에 의존되고 또 기업의 성장·발전은 <b>경영<\/b>자의 능력에 크게 의존하고 있다. 뿐만... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20170812001445223_KKBWKSSML.jpg\/bb35195c-05c9-41.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2060985&cid=42107&categoryId=42107",
+			"description":"<b>경영<\/b>진에 배타적으로 속하고 단체교섭협약의 대상이 되지 않는 권리를 말한다. 회사는 여러 가지 의사결정을 내려야 한다. 재무, 인사, 투자, 배당 등 수없이 많은 결정이 내려지고 이를 집행하여 그 결과를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=566690&cid=46630&categoryId=46630",
+			"description":" 기업의 <b>경영<\/b>현상을 관찰하여 거기에 존재하는 법칙을 밝혀 내고 그것을 실천적 목적에 활용하기 위한 학문. [내용] 상업학 혹은 상업론에서 비롯되었다는 설이 일반적이며, 비교적 새로운 학문이기 때문에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"린<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2063864&cid=50305&categoryId=50305",
+			"description":"&quot;얇은&quot; 또는 &quot;마른&quot; 이라는 lean이란 단어에서 출발한 신<b>경영<\/b> 기법을 말한다. 자재구매에서 생산, 재고관리, 판매에 이르기까지 전 과정에서 낭비요소를 최소화한다는 개념이다. 도요타 자동차 생산 시스템... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=778596&cid=42085&categoryId=42085",
+			"description":"따라서 기업은 영리경제, 생산경제라는 특징을 갖고 있으며, <b>경영<\/b>학이란 기업을 대상으로 그 운영원리를 연구하는 학문이다. 한편 <b>경영<\/b>이란 개념은 여러 가지 형태로 사용되고 있는데, 이는 행동개념과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"펀 <b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5674564&cid=62841&categoryId=62841",
+			"description":" 유머<b>경영<\/b>을 말하는 것으로서, <b>경영<\/b>자가 재미를 통한 리더십을 발휘해서 직원의 자발적 참여, 헌신, 창의력 등을 유도하는 관리방식.  펀 <b>경영<\/b>은 직장을 신나는 일터로 만들어 직원의 사기를 높임으로써... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>조직과 <b>경영<\/b>관리조직",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1183216&cid=40942&categoryId=31909",
+			"description":"<b>경영<\/b>관리조직은 <b>경영<\/b>자와 관리자로 구성되며, <b>경영<\/b>의 의사결정과 그 지시, 집행상의 감독 ·보고 등을 원활하게 해 나가야 한다. 이 조직은 <b>경영<\/b>규모의 확대, <b>경영<\/b>내용의 복잡화와 함께 팽창하여 계층화(階層化)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>협의회의 <b>경영<\/b>조직법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1222869&cid=40942&categoryId=31720",
+			"description":"<b>경영<\/b>협의회는 종업원 5명 이상의 업체에 설치하게 되어 있으며, 근로자 및 직원 중에서 선출된 피고용자의 대표로 구성된다. 일반적인 임무는, ① 기업 및 종업원 전원에게 유익한 제반 시책을 사용자에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"린 <b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=20281&cid=43659&categoryId=43659",
+			"description":"1990년 <b>경영<\/b>학자인 워맥과 존스가 공동 연구작인 ‘세상을 바꾼 방식’에서 처음 사용한 용어로 1996년 MIT가 중심이 되어 실행 모델을 개발한 것이 대중화의 기초가 됐다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>감사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060184&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>비판과 <b>경영<\/b>지도를 목적으로 하는 <b>경영<\/b>자를 위한 감사.  경제감사(經濟監査)라고도 한다. <b>경영<\/b>자가 기업의 <b>경영<\/b>활동을 합리적으로 관리통제(管理統制)하여, <b>경영<\/b>의 경제성을 증진하기 위한 수단으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위탁<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=70922&cid=43667&categoryId=43667",
+			"description":"위탁<b>경영<\/b>이란 기업체가 <b>경영<\/b>에 관한 노하우를 가지고 있는 제3자에게 회사 <b>경영<\/b>을 위탁하는 것이다. 일반적으로 위탁<b>경영<\/b>은 소유회사와 <b>경영<\/b>회사가 위탁<b>경영<\/b>계약을 체결함으로써 <b>경영<\/b>을 전문으로 하는 회사가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가족<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=12369&cid=43659&categoryId=43659",
+			"description":"창업자 또는 CEO(최고<b>경영<\/b>자)가 자신의 가족이나 친인척 등을 주요한 <b>경영<\/b>에 참여시켜 <b>경영<\/b>활동을 하는 것. 본래 가족<b>경영<\/b>은 가족이 기업<b>경영<\/b>에 참여함으로써 효율적인 조직운영이 가능하도록 하는 의도를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>정책",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060232&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>자가 설정하는 <b>경영<\/b>의 기본방침.  여기서의 기본방침이란 방향 제시를 위한 일정한 목적의 설정만이 아니라, 그 목적을 추구 ·실현시키기 위한 방법이나 수단의 설정을 포함한다. 이러한 방법 ·수단의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>목표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437185&cid=42279&categoryId=42279",
+			"description":" <b>경영<\/b>목표란 기업 및 매장을 <b>경영<\/b>하며 세운 목표이다.  기업이나 사업 등을 운영하고 관리하는 것을 <b>경영<\/b>이라 하며, <b>경영<\/b>은 작게는 개인이 운영하는 매장에서부터 크게는 대기업, 국가에 이르기까지를 포괄하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_18\/20220721171457007_KJ0CJS9SO.png\/hb10_72095_i1.png?type=m160_160"
+		},
+		{
+			"title":"품질<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062847&cid=42107&categoryId=42107",
+			"description":"품질<b>경영<\/b>이란 최고<b>경영<\/b>자의 리더십 아래 품질을 <b>경영<\/b>의 최우선 과제로 하는 것이 원칙이다. 즉, 품질<b>경영<\/b>은 고객만족을 통한 기업의 장기적인 성공은 물론 <b>경영<\/b>활동 전반에 걸쳐 모든... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>규정",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3437146&cid=42279&categoryId=42279",
+			"description":" <b>경영<\/b>규정이란 <b>경영<\/b>에 관한 규정을 기재한 서식이다.  <b>경영<\/b>이란 일정한 목적을 달성하기 위하여 인적, 물적 자원을 결합한 조직 또는 그 활동을 이르며, 어떤 일을 계획적 또는 체계적으로 운용, 관리한다는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902181002271_WY01ORFL2.jpg\/hb10_72176_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>감사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2060983&cid=50305&categoryId=50305",
+			"description":"개별기준으로 <b>경영<\/b>자를 평가함으로써 <b>경영<\/b>자의 자질을 검토하는 방법. <b>경영<\/b>감사는 개별공헌을 토대로 한 조직의 전체 <b>경영<\/b>시스템을 평가하는 데 이용될 수 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>혁신",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=12607&cid=43659&categoryId=43659",
+			"description":"기술혁신에 수반하여 필연적으로 일어나는 <b>경영<\/b>상의 전반적인 혁신. 혁신의 기본은, 개성적인 <b>경영<\/b>이념을 밑바탕으로 한 <b>경영<\/b>전략과 시스템화이다. 대량의 정보를 컴퓨터에 의하여 즉각적으로 처리하고, <b>경영<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060190&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>에서 업무수행을 효과적으로 행할 수 있게 <b>경영<\/b>조직을 체계적으로 운영하는 것.  <b>경영<\/b>상에서의 각종 업무수행이 <b>경영<\/b>목적을 위하여 가장 효과적으로 행해질 수 있도록 여러 가지 시책을 체계적으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>수학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060210&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>과정의 여러 현상의 이해와 통제를 수학적인 수법을 사용하여 전개하려는 <b>경영<\/b>학의 한 영역.  오퍼레이션 리서치(operations research:OR)나 <b>경영<\/b>과학에서의 선형계획법(線形計劃法:LP) ·재고관리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>감사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1553&cid=43659&categoryId=43659",
+			"description":"<b>경영<\/b>감사는 근대적인 내부감사의 일종으로, 독일의 기업 감사와 유사한 내용의 것이다. 그러나 정확히 말하면 <b>경영<\/b>감사의 의미와 내용에 관하여는 일정한 개념구성이 되어 있는 것이 아니다. <b>경영<\/b>감사가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농가<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1077617&cid=40942&categoryId=31870",
+			"description":" 기업적 <b>경영<\/b>과 대립되는 개념.  농가<b>경영<\/b>은 3가지 특징을 가진다. ① <b>경영<\/b>과 가계가 미분리된 상태이며, ② 그 <b>경영<\/b>이 대체로 가족노동에 의존해 있고, ③ 영농의 목적이 이윤획득에 있지 않고 대부분이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>형태",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060244&cid=40942&categoryId=31909",
+			"description":" 기업<b>경영<\/b>의 제도적 형태.  <b>경영<\/b>체(經營體)의 활동은 일정한 행동원리에 따라 진행되고, 또한 지속적인 행동원리에 따라 <b>경영<\/b>활동이 전개된다. 따라서, <b>경영<\/b>활동은 지속적인 성격을 지니게 되고, 구체적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1556&cid=43659&categoryId=43659",
+			"description":"<b>경영<\/b>조직체를 만들고 그것을 운영하는 일. 이 <b>경영<\/b>관리의 기능은 ① 계획 ② 조직 ③ 지휘 ④ 조정 ⑤ 통제 등 다섯 가지 요소로 이루어진다고 한다. <b>경영<\/b>의 대규모화에 따라서 <b>경영<\/b> 직능이 전문화 되기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>통계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060239&cid=40942&categoryId=31609",
+			"description":" <b>경영<\/b>에 관계되는 여러 통계자료.  기업 <b>경영<\/b>과 관련한 통계자료로서, 이러한 자료를 이용하여 기업방침을 정하고 <b>경영<\/b>관리(經營管理)의 방법을 연구하는 학문이 <b>경영<\/b>통계학이다. <b>경영<\/b>통계를 적절히 입수하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마하<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2099054&cid=43667&categoryId=43667",
+			"description":" 이건희 삼성회장의 <b>경영<\/b>철학으로 한계를 돌파하는 <b>경영<\/b>을 말함.  | 외국어 표기 | mach經營 | 이건희 삼성회장이 2002년 처음 언급한 용어로, 비행기가 음속을 돌파하기 위해서는 설계부터 엔진, 부품, 소재 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1067101&cid=40942&categoryId=31917",
+			"description":" 기업이 국제적인 <b>경영<\/b>활동을 하는 일.  다국적 기업이나 수출지향기업인 경우 국제적인 <b>경영<\/b>활동의 기본적인 선택안 중에 대외적인 것으로는 상품 수출, 기술 및 플랜트 수출, 해외 생산 등이 있고, 대내적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=778594&cid=42085&categoryId=42085",
+			"description":"광의로는 <b>경영<\/b>의 재무활동뿐만 아니라 생산 · 판매 · 관리 등을 포함하는 모든 <b>경영<\/b>활동의 분석을 말하나 보통은 주로 <b>경영<\/b>의 재무구조 및 재무활동에 한정하는 협의의 의미로 쓰인다. 대차대조표, 손익계산서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"주축<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1143060&cid=40942&categoryId=31877",
+			"description":" 축산을 주로 하는 농업<b>경영<\/b>.  축산물 수입이 거의 과반수 이상을 차지하고 있는 <b>경영<\/b>이다. 이에 반해 벼농사 또는 다른 부문에 종속적으로 <b>경영<\/b>되는 경우를 부업(축산)<b>경영<\/b>이라고 하고, 적어도 하나의 노동력이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"황제<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=300822&cid=50304&categoryId=50304",
+			"description":" 절대전제<b>경영<\/b>의 권한을 행하고 있는 재벌들의 기업운영을 가리켜 황제 <b>경영<\/b>이라 한다.  절대전제<b>경영<\/b>의 권한을 행하고 있는 재벌들의 기업운영을 가리켜 황제 <b>경영<\/b>이라 한다. 적은 지분을 가지고 계열사를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"윤리<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=71123&cid=43667&categoryId=43667",
+			"description":"윤리<b>경영<\/b>이란 회사<b>경영<\/b> 및 기업활동에 있어 '기업윤리'를 최우선 가치로 생각하며, 투명하고 공정하며 합리적인 업무 수행을 추구하는 <b>경영<\/b>정신이다. 이익의 극대화가 기업의 목적이지만, 기업의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>전략",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3436735&cid=42279&categoryId=42279",
+			"description":" <b>경영<\/b>전략이란 <b>경영<\/b>을 효율적이고 체계적으로 진행하기 위한 책략이다.  <b>경영<\/b>이란 기초를 닦고 계획을 세워 어떤 일을 해 나가는 것을 의미하며, 일반적으로 기업이나 사업 등을 관리하고 운영하는 것을 말한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_18\/20220721171438868_PKWRGL783.png\/hb10_73004_i1.png?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>조직",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060233&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>목적을 달성하기 위하여 필요한 여러 활동을 많은 <b>경영<\/b>구성원에게 분담시키고 그 관계들을 규정하며, 여러 활동이 전체적으로 유효하게 이루어지도록 통합한 협동활동 시스템.  <b>경영<\/b>조직의 첫째 요소는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>자원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=12604&cid=43659&categoryId=43659",
+			"description":"기업<b>경영<\/b>의 토대를 총력적(總力的)으로 굳히기 위한 자원의 집합. <b>경영<\/b>자원은 자본 ·생산설비 등의 재물(財物)이나 인적 자원 등 유형자원(有形資源)만을 가리키는 것은 아니다. 이 밖에도 기업이 가진 고유의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>과학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060189&cid=40942&categoryId=31909",
+			"description":" 오퍼레이션 리서치(operations research:OR)를 중심으로 계량경제학적 분석이나 통계적 분석과 같은 수학적 기법에 의해서 <b>경영<\/b>현상을 해명하려는 넓은 의미의 <b>경영<\/b>학의 한 분야.  <b>경영<\/b>과학은 <b>경영<\/b>결정문제에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"품질<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=73641&cid=43667&categoryId=43667",
+			"description":"| 외국어 표기 | QM(영어) | 품질<b>경영<\/b>(quality management)이란 품질을 통해 기업 우위성을 확보하는 한편 고객만족, 인간성 존중을 바탕으로 전 사원이 혁신과 개선에 참여해 경쟁력을 키우는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>재무",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060229&cid=40942&categoryId=31913",
+			"description":" <b>경영<\/b>에 있어서 생산요소의 하나인 자본의 문제를 다루는 영역.  일반적으로, 전통적인 <b>경영<\/b>재무를 좁은 의미의 <b>경영<\/b>재무라고 하고, 이것과 재무관리를 합쳐서 넓은 의미의 <b>경영<\/b>재무라고 한다. 그 범위와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>이념",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060219&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>자가 기업을 영위하는 데 있어 지침이 되는 기본적인 의식.  <b>경영<\/b>신조·<b>경영<\/b>철학이라고도 한다. 즉, 기업이 사회적 존재 이유를 표시하고 <b>경영<\/b>활동을 방향짓게 하는 기업의 신조를 말한다. <b>경영<\/b>이념은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"분사<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1198695&cid=40942&categoryId=31910",
+			"description":" 하나의 대기업을 몇 개의 소규모 기업으로 나누어 <b>경영<\/b>하는 일.  조직이 방대해진 거대 기업이 <b>경영<\/b>다각화를 통하여 조직의 활성화를 도모하기 위하여 채택하는 <b>경영<\/b> 기법이다. 대기업의 광범위한 업무 분야를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>입지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060221&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>의 지역적 문제를 이론적으로 파악하는 일.  기업 또는 공업이 특정 장소에 입지하는 것은, 일반적으로 그 장소가 다른 장소보다 그 기업 또는 공업에 대하여 생산비 ·품질 및 수익 등에 있어서 유리한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"감량<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1056440&cid=40942&categoryId=31909",
+			"description":" 경제불황을 극복하기 위하여 <b>경영<\/b>규모를 축소시키는 <b>경영<\/b>.  경비절감, 인원축소, 비채산성부문의 폐쇄, 설비투자의 억제, 차입금의 변제 등을 통하여 기업의 체질을 개선한다. 비만증인 사람이 살을 내려... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수평<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6333&cid=43659&categoryId=43659",
+			"description":"상·하간 권력 차이에 바탕을 둔 수직적 분업이 아니라 동료와 고객, 공급자간의 정보교환에 바탕을 둔 수평적 협업에 의한 <b>경영<\/b>을 말한다. 이는 21세기 산업질서에 부합하는 신기업<b>경영<\/b>으로 모든 불필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2060984&cid=42107&categoryId=42107",
+			"description":"금융사고나 부실대출 등으로 <b>경영<\/b>상태가 극히 악화된 상호신용금고에 대해 감독기관이 취하는 조치. 부도위기에 몰린 기업체가 법원에 신청하는 법정관리와 유사한 개념이다. 상호신용금고법에서는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>윤리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060214&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>목적 달성을 위한 수단의 선택에 있어서 고려해야 할 도덕적 도리와 규범.  <b>경영<\/b>이념이 <b>경영<\/b>자의 가치관이나 태도를 반영하여 형성되는 궁극적인 <b>경영<\/b>목적을 가리키는 데 대해서, <b>경영<\/b>윤리는 주로 수단의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"분사<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5059&cid=43659&categoryId=43659",
+			"description":"조직이 방대해진 기업이 <b>경영<\/b>다각화로 활성화를 기하기 위해 몇 개의 기업으로 조직을 분할하는 일. 분사<b>경영<\/b>의 장점으로는 ① 책임체계의 명확화 ② 연구개발의 효율화 ③ 세제상의 이점 등이 있다. 그러나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"차입<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2062596&cid=42107&categoryId=42107",
+			"description":"회사의 <b>경영<\/b>이 과도한 부채를 기반으로 이루어지는 것을 말한다. 사실상 차입<b>경영<\/b>이란 독립적인 용어라고 보기는 어렵다. 그러나 우리나라의 경우 기업들이 과도한 부채를 끌어들여 수익성을 무시한 채... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>자원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060226&cid=40942&categoryId=31909",
+			"description":" 기업<b>경영<\/b>의 토대를 총력적으로 굳히기 위한 자원의 집합.  <b>경영<\/b>자원은 자본 ·생산설비 등의 재물(財物)이나 인적 자원 등 유형자원(有形資源)만을 가리키는 것은 아니다. 이 밖에도 기업이 가진 고유의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>교육",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060194&cid=40942&categoryId=31911",
+			"description":" 조직으로서의 <b>경영<\/b>이 전체 구성원의 능력계발을 목적으로 행하는 교육의 총칭.  <b>경영<\/b>교육은 <b>경영<\/b>성과를 향상시키는 것을 직접목표로 하지만, 단지 이것만을 위한 것이 아니라, 인생의 대부분을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"녹색<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2066149&cid=50305&categoryId=50305",
+			"description":"기업이 <b>경영<\/b>활동에서 자원과 에너지를 절약하고 효율적으로 이용하며 온실가스 배출 및 환경오염의 발생을 최소화하면서 사회적, 윤리적 책임을 다하는 <b>경영<\/b>을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"나노<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2064277&cid=50305&categoryId=50305",
+			"description":"작은 활동들을 잘 파악하여 이를 보다 큰 차원에서 결합·응용함으로써 보다 높은 <b>경영<\/b>효율 달성을 주장한다. 창조·지식<b>경영<\/b>과 함께 주 30시간의 업무행위와 10시간의 학습행위를 목표로 한 스피드... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수평<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1722031&cid=40942&categoryId=31909",
+			"description":" 직위 등의 서열 중심이 아니라 철저히 업무과정을 중심으로 운영하는 <b>경영<\/b>기법을 가리킨다.  기업문화, 조직구조, 운영시스템, 기업전략 등 <b>경영<\/b>전반에 있어 수평적 접근을 꾀하는 <b>경영<\/b>기법이다. 조직 내부의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>비율",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060204&cid=40942&categoryId=31909",
+			"description":" 기업의 <b>경영<\/b>활동을 나타내는 계량적 수치 간의 여러 관계를 비율로 표시한 것.  <b>경영<\/b>비율은 기업 전체 또는 각 부문의 <b>경영<\/b>효율이나 생산성 및 유동성을 진단하여 문제를 발견하고, 이를 통제하는 데... ",
+			"thumbnail":""
+		},
+		{
+			"title":"계량<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060777&cid=40942&categoryId=31909",
+			"description":" <b>경영<\/b>활동에 통계적·수학적 방법을 도입하여 계량적 분석을 기초로 계획 또는 통제를 하는 일.  계량<b>경영<\/b>은 계량경제의 발달과 같이, 컴퓨터의 대두로 <b>경영<\/b>의 숫자적 파악 및 분석이 가능해짐에 따라 비롯된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"다각<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1078886&cid=40942&categoryId=31909",
+			"description":" 제품이나 시장, 또는 그 쌍방의 새로운 분야로 진출하여 기업의 성장을 꾀하는 <b>경영<\/b>방식.  좁은 뜻으로는 한 기업이 서로 관련이 없는 시장을 가진 제품이나 서비스를 병렬적으로 생산하는 <b>경영<\/b>방식이다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>지표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3436801&cid=42279&categoryId=42279",
+			"description":" <b>경영<\/b>지표란 효율적이고 성공적인 <b>경영<\/b>을 위한 기준이나 방향성을 나타내는 지표이다.  <b>경영<\/b>이란 여러 가지 의미로 사용되나 일반적으로 기업이나 사업을 관리하고 운영하는 것을 의미한다. <b>경영<\/b>의 목표는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902180031762_M8AO30S17.jpg\/hb10_72886_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"현장<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2080102&cid=50305&categoryId=50305",
+			"description":"<b>경영<\/b>진이 현장을 방문해 현장직원과 의사소통을 늘림으로써 빠르게 의사결정을 하도록 하는 <b>경영<\/b>기법이다. 톰 피터스와 로버트 워터맨이 그들의 저서인 초우량 기업의 조건‘에서 소개한 개념이다. 저자는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수평<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=930946&cid=43667&categoryId=43667",
+			"description":" 동료, 고객 등 수평적 협력을 위주로 하는 <b>경영<\/b>.  | 외국어 표기 | 水平經營(한자) horizontal management(영어) | 상하의 관계보다는 동료와 고객, 공급자 간의 정보교환에 바탕을 둔 수평적인 협업에 의한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자본<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=299757&cid=43665&categoryId=43665",
+			"description":" 부채금융과는 반대되는 말로 기업이 주식 등 소유지분을 매각하여 자금을 조달하는<b>경영<\/b>을 말한다.  부채금융과는 반대되는 말로 기업이 주식 등 소유지분을 매각하여 자금을 조달하는<b>경영<\/b>을 말한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>계획",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060187&cid=40942&categoryId=31909",
+			"description":" 기업이 환경의 변화에 대응하면서 장래의 <b>경영<\/b>활동에 관하여 의사결정을 행하고 행동예정을 구체적으로 표현하는 일.  넓은 뜻으로는 기업<b>경영<\/b>에 관한 모든 계획을 말하지만, 좁은 뜻으로는 그러한 계획들... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%98%81%ED%95%99",
+			"description":"<b>경영<\/b>학 (經營學, 영어: business administration )은 기업의 <b>경영<\/b>을 위한 학문으로, 20세기 산업 구조가 복잡해지고 수많은 기업들 사이에 경쟁이 치열해짐에 따라서 실제 회사 <b>경영<\/b>에 필요로 하는 지식의 체계화와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1600195&cid=50304&categoryId=50304",
+			"description":"<b>경영<\/b>권사회복지학사전 <b>경영<\/b>체에 있어서의 <b>경영<\/b>자의 권한을 가리키는 말이다. 내용적으로는 대외적과 대내적의 두 가지로 구분된다. 대내적 <b>경영<\/b>권이란 <b>경영<\/b>내부의 근로자, 즉 종업원 및 그 집단에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"현장<b>경영<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=17857&cid=43659&categoryId=43659",
+			"description":"의사결정권을 가진 리더(<b>경영<\/b>층)가 직접 현장을 방문하여 업무수행의 진척도, 중요한 과제 해결을 위한 의사결정을 3현주의(현장에서, 현물을 보고, 현상을 파악하여)에 의하여 빠르게 처리하는 현장<b>경영<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2083612&cid=44412&categoryId=44412",
+			"description":"개념 및 정의] [ 1) <b>경영<\/b>학의 등장] <b>경영<\/b>학(經營學, business administration)은 중세 가내수공업인 길드 경제시대를 지나 1760년대 영국과 서유럽을 중심으로 산업혁명이 성공하고 새로운 형태의 산업 경제가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140509142911094_C0F15N2OM.jpg\/z5_term31_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>경영<\/b>자주",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=12606&cid=43659&categoryId=43659",
+			"description":"기업의 자금조달을 위해 <b>경영<\/b>자에게 취득하도록 하는 주식. 기업이 자금조달을 보다 용이하게 하기 위하여, 배당 등 주식의 전환에 있어서 보통주보다 하위의 주식을 발행하여 발기인·<b>경영<\/b>자·대주주 등에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>권",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2208621&cid=51088&categoryId=51088",
+			"description":"<b>경영<\/b>권이란 사용자가 기업<b>경영<\/b>에 필요한 기업시설의 관리·운영 및 인사 등에 관하여 가지는 권리로, 근로자가 관여할 수 없는 배타적인 권리라고 말하여진다. ｢헌법｣ 제33조제1항에 따른 근로자의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1060240&cid=40942&categoryId=31909",
+			"description":"이러한 의미의 <b>경영<\/b>학에는 이 정의에 해당하는 조직체 일반(기업 ·관청 ·학교 ·교회 ·노동조합 ·군대 등)을 연구하는 넓은 의미의 <b>경영<\/b>학, 즉 일반<b>경영<\/b>학과 기업(企業)이라는 특정조직체인 생산조직체만을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>참가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1575&cid=43659&categoryId=43659",
+			"description":"<b>경영<\/b>민주화의 사고방식에 따라 근로자가 <b>경영<\/b>에 참가하는 일을 말하는데 관리참가, 분배참가, 자본참가 등 세 가지 형태가 있다. ① 관리참가라는 것은 종업원의 대표가 <b>경영<\/b>자에게 이의 주장을 신청하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>경영<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2074638&cid=42107&categoryId=42107",
+			"description":"기업<b>경영<\/b>의 성적을 관찰하는 것으로서 대차대조표, 손익계산서, 기타 재무제표 내용을 분석, 검토하여 사업 재정상의 건전성과 <b>경영<\/b>상의 수익성을 판단하는 것을 말한다. 기업의 건강진단은 기업의 가계부라 할... ",
+			"thumbnail":""
+		}
+	]
+}

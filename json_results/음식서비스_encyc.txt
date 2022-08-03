@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:03 +0900",
+	"total":3297,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>서비스<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=794953&cid=46631&categoryId=46631",
+			"description":"주로 <b>서비스<\/b>를 제공하는 모든 업종이 포함된다. 이에 포함되는 활동은 대체로 다음과 같은 특징이 있다. 첫째, 다른 활동이 생산물을 통하여 우회적·간접적으로 인간의 욕망을 충족시켜 주는 데 대하여, <b>서비스<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b> 순서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1611490&cid=50346&categoryId=50346",
+			"description":"외국어 표기 Service Sequence(영어), ~順序(한자) 분야 레스토랑 및 조리 <b>서비스<\/b> 순서외식용어해설 <b>음식서비스<\/b>의 순서. 외국어 표기 Service Sequence",
+			"thumbnail":""
+		},
+		{
+			"title":"곤충 <b>음식<\/b> 개발자 · 조리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5759053&cid=64518&categoryId=64518",
+			"description":"[어느 분야에서 활동하나요?] [관련 직업] 곤충 <b>음식<\/b> 개발자 · 조리사와 관련된 직업으로는 <b>음식 서비스<\/b> 분야의 요리연구가, 한식 · 중식 · 일식 · 양식 조리사, 그리고 공학 분야의 식품공학 기술자 등이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5779_000_1\/20190513120438204_BA29BXEHJ.png\/ba26_6_i5.png?type=m160_160"
+		},
+		{
+			"title":"국영 <b>음식<\/b>점과 사영 <b>음식<\/b>점의 차이",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1978248&cid=48193&categoryId=48291",
+			"description":"그러나 경영체제가 국영이고 경쟁의식이 부족하다보니 종업원들의 <b>서비스<\/b> 정신이 부족하고 <b>음식<\/b>의 내용이 매너리즘에 빠지고 맛이 하향 평준화된다는 단점도 있었다. 그러다가 개혁개방 후 개인들이 경영하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2730_000_1\/20130904114711225_HQM5HLXKX.jpg\/fb27_29_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>음식<\/b>점접객원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664701&cid=42117&categoryId=42117",
+			"description":" <b>음식<\/b>점에서 고객에게 <b>음식<\/b> 및 <b>서비스<\/b>를 제공한다. [수행직무] 업무시간 전에 용모 및 복장을 단정히 하고 근무에 필요한 준비를 한다. <b>음식<\/b>점에 들어온 고객에게 인사를 하고 자리를 안내한다. 고객에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b> 실무",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5701818&cid=42726&categoryId=63056",
+			"description":"<b>서비스<\/b>의 사전적 의미는 ‘생산된 재화를 운반, 배급하거나 생산 및 소비에 필요한 노무를 제공한다’로 되어 있다. 판매 현장에서 낮은 질의 <b>서비스<\/b>가 제공되는 몇 가지 원인이 있다. 첫째, 외식 산업의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5693_000_1\/20181207141118286_XWWLTQG4H.jpg\/fe108_47_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>음식<\/b> 배달",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%8C%EC%8B%9D_%EB%B0%B0%EB%8B%AC",
+			"description":"일부 국가에서는 <b>음식<\/b> 배달 <b>서비스<\/b>에 팁을 포함하는 일이 관습화되어 있다. <b>음식<\/b> 배달의 다른 면에는 식당, 카페테리아, 의료 시설 등에 대한 케이터링, 도매 외식 <b>서비스<\/b> 배달이 포함된다. 역사 최초의 <b>음식<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>음식<\/b>점 (시흥)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5758134&cid=63856&categoryId=63880",
+			"description":"[정의] 경기도 시흥시에서 <b>음식<\/b>물을 만들어 팔거나 사서 먹을 수 있는 가게. [개설] 시흥시의 숙박·<b>음식<\/b>점업 사업체 수와 종사자 수는 인구 증가율과 함께 증가하였다. 외식 인구가 늘어나면서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b>업 (제천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2628894&cid=51893&categoryId=53811",
+			"description":"[정의] 충청북도 제천시의 산업 중 <b>서비스<\/b>의 제공을 사업으로 영위하고 있는 업종. [개설] <b>서비스<\/b>업이란 시대에 따라 그 구분이 달라진다. 가장 일반적인 설명은 유형의 상품을 제공하면 제조업으로, 무형의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150316045439456_UKVRT9L1Y.jpg\/GC033P2691.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b>업 (남원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2591862&cid=51948&categoryId=55131",
+			"description":"[정의] 전라북도 남원시에서 물자의 생산과는 직접적인 관계가 없는 노무·편의 등의 <b>서비스<\/b>를 제공하는 산업. [개설] <b>서비스<\/b>업은 1차 산업인 농업·수산업이나 2차 산업인 공업과 대비되는 3차 산업으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"레스토랑 <b>음식<\/b>을 자전거로 배달한다",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3580281&cid=58784&categoryId=58788",
+			"description":"바로 테이크잇이지(Take eat easy) <b>음식<\/b> 배달 시스템이다. 2013년 10월 브뤼셀에서 첫 <b>서비스<\/b>를 시행한 테이크잇이지는 온라인 주문을 통해 레스토랑에서 판매하는 <b>음식<\/b>을 고객에게 배달해주는, 이른바 O2O(Online... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118190214584_UHGX7JKRX.jpg\/07_62.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b>업 (부천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2596647&cid=51883&categoryId=53339",
+			"description":"[개설] <b>서비스<\/b>업인 3차 산업은 건설업, 상업(도·소매업), 운수, 통신, 보관업, 기타 <b>서비스<\/b>업(<b>음식<\/b>, 숙박업, 이·미용업), 전기, 수도, 가스업 등으로 나눌 수 있다. 부천 지역의 3차 산업이 괄목할 만한 비율을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"러시안 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=465304&cid=50305&categoryId=50305",
+			"description":"러시안 <b>서비스<\/b>는 <b>음식<\/b>이 주방에서 준비되고 요리사에 의해 은쟁반에 올려지면, 웨이터가 고객에게 <b>서비스<\/b>한다. 러시안 <b>서비스<\/b>는 연회행사에 많이 이용되는 형태로 일정한 시간에 많은 인원을 <b>서비스<\/b>할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔<b>서비스<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970586&cid=42114&categoryId=42114",
+			"description":" 호텔<b>서비스<\/b>사란 산업인력공단에서 시행하는 호텔<b>서비스<\/b>사 시험에 합격한 후 그 자격을 취득한 자를 말한다. 응시자는 객관식 필기시험과 면접시험을 통과해야 한다. [ 1. 기본정보] (1) 자격분류... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100911771_69YBRPWUK.jpg\/da6_193_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"청주의 <b>서비스<\/b>업 (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2644107&cid=51895&categoryId=53911",
+			"description":"[정의] 생산이나 상품의 유통과는 직접적인 관계가 없는 노무·편의 따위를 제공하는 업종. [개설] 일반적으로 용역(service)이라 함은 타인을 위하여 하는 봉사활동을 뜻하며 경제학에서도 토지·자본... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위치기반<b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1232842&cid=40942&categoryId=32379",
+			"description":" 이동통신망이나 위성항법장치(GPS) 등을 통해 얻은 위치정보를 바탕으로 이용자에게 여러 가지 <b>서비스<\/b>를 제공하는 <b>서비스<\/b> 시스템.  약칭은 'LBS'이다. 휴대폰 속에 기지국이나 위성항법장치(GPS)와 연결되는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위치기반<b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=300143&cid=43665&categoryId=43665",
+			"description":"경보 통지 <b>서비스<\/b>, 지름길을 찾을 수 있는 교통정보 <b>서비스<\/b>, 주변의 백화점 · 의료기관 · 극장 · <b>음식<\/b>점 등 생활정보 <b>서비스<\/b>, 이동 중에 정보가 제공되는 텔레매틱스 <b>서비스<\/b> 등 각종 <b>서비스<\/b>가 가능하다.",
+			"thumbnail":""
+		},
+		{
+			"title":"소도시와 대도시의 <b>서비스<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2441388&cid=51636&categoryId=51636",
+			"description":"[소도시와 대도시의 <b>서비스<\/b>업] 소도시는 숙박 및 <b>음식<\/b>점 등 소비자 <b>서비스<\/b>업이 발달한다. 대도시는 소비자 서비업과 함께 생산자 <b>서비스<\/b>업이 발달한다. 최근 소득 증대와 생활 수준 향상에 따른 <b>서비스<\/b>... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/image.rmcnmv\/tvcast\/2015\/01\/14\/334\/531C04F3A33EF34C6AE37347137040B3746_muploader_b_480P_854_1024_128_logo.jpg#1920x1080#m"
+		},
+		{
+			"title":"<b>음식<\/b>점 (도봉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2595985&cid=51880&categoryId=53241",
+			"description":"[정의] 서울특별시 도봉구에서 다양한 <b>음식<\/b>물을 조리하여 판매하는 곳. [개설] <b>음식<\/b>점은 일반적으로 식당이라고 불린다. 배달 전문점이나 테이크아웃 전문점도 식당이라 불리기도 하지만, 보통은 손님이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"온디맨드 O2O <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2810366&cid=42107&categoryId=42107",
+			"description":"스마트폰 등으로 상품이나 <b>서비스<\/b> 주문을 받아 오프라인으로 해결해주는 <b>서비스<\/b>. 배달<b>음식<\/b>주문앱 카카오택시앱 등 <b>음식<\/b> 배달과 교통수단부터 배송·물류, 가사, 숙박까지 다양한 <b>서비스<\/b>가 등장하고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b>업 (음성)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2620239&cid=51892&categoryId=53764",
+			"description":"<b>서비스<\/b>업에는 도·소매업, 숙박 및 <b>음식<\/b>점업, 운수업, 통신업, 금융 및 보험업, 부동산 및 임대업, 교육 <b>서비스<\/b>업, 보건 및 사회복지사업, 오락 문화 및 운동 관련 <b>서비스<\/b>업 등이 포함된다. <b>서비스<\/b>업은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"숙박 및 <b>음식<\/b>점업 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2825071&cid=55772&categoryId=55810",
+			"description":"[정의] 부산광역시의 산업 중 숙박 시설이나 <b>음식<\/b>점 운영과 관련된 업종. [개설] 숙박업은 일반 대중 또는 특정 회원에게 각종 형태의 숙박 시설, 캠프장 및 캠핑 시설 등을 단기적으로 제공하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718080408693_YKO1L9C6O.jpg\/GC042P20860.jpg?type=m160_160"
+		},
+		{
+			"title":"소비자 <b>서비스<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5883342&cid=40942&categoryId=31897",
+			"description":"소비자 <b>서비스<\/b>업에는 소매업, <b>음식<\/b>점업, 숙박업, 관광업, 개인 <b>서비스<\/b>업 등이 포함되며 일상 생활과 밀접한 관련을 맺고 있다. 사람들이 자주 이용하는 편의점이나 슈퍼마켓 등이 소비자 <b>서비스<\/b>업의 대표적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"패밀리 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=464243&cid=50305&categoryId=50305",
+			"description":"아메리칸 <b>서비스<\/b>를 변형한 스타일로 가장 단조로운 <b>서비스<\/b> 방식이다. <b>음식<\/b>은 주방에서 이루어져 볼(Bowl)이나 플레이트(Plate)에 서브가 되며 고객 스스로 요리를 분배하며 종사원의 관심도 적으며 숙련되지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"말라카 추천 <b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6174811&cid=67006&categoryId=67789",
+			"description":"다른 메뉴들도 더없이 맛있고 저렴하니 다양한 바바노냐 <b>음식<\/b>에 도전해보자. 마무리로 쉴 새 없이 얼음을 갈아야 할 정도로 인기 있는 바바 첸돌(Baba Chendol)도 꼭 먹어보자. 주소 : 88, Jalan Hang... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_11\/20201127115856582_0WQLHTBSD.jpg\/fb292_12_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"아부다비 추천 <b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6540509&cid=67006&categoryId=69304",
+			"description":"일반 식탁과 좌식 테이블 모두를 이용할 수 있으며, <b>서비스<\/b>는 훌륭하고 <b>음식<\/b>은 더욱 좋다. 주요 메뉴로는 고기 또는 생선을 곁들인 잡곡밥 ‘마즈보스(majbous)’, 삶거나 갈라지거나 거칠게 갈린... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_15\/20211111110656997_8TC8WU5ZH.jpg\/fb478_12_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b>업 (강릉)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2575192&cid=51890&categoryId=53704",
+			"description":"구체적으로는 도소매업, <b>음식<\/b> 및 숙박업, 부동산 및 임대업, 유통업, 금융업, 컨설팅업, 사업<b>서비스<\/b>업, 의료업 등이 포함된다. 특히 현대에 이르러 <b>서비스<\/b>업은 급격히 확대되어 거의 모든 산업과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=635693&cid=48193&categoryId=48297",
+			"description":"즉, 손님을 객실로 안내하든지 손님에게 <b>음식<\/b>을 대접하는 행위는 물론이고 같이 일하는 동료에게 베풀어주는 친절도 <b>서비스<\/b>에 포함. ②수요자의 요구에 적합한 가치가 있는 것(직접 또는 간접)을 어떤 형태로든... ",
+			"thumbnail":""
+		},
+		{
+			"title":"푸드테크의 중심, 배달 앱 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5728465&cid=51648&categoryId=63595",
+			"description":"[푸드테크의 중심, 배달 앱 <b>서비스<\/b>] &quot;<b>음식<\/b>과 기술의 합성어, 푸드테크. 배달, 맞춤형 레시피, <b>음식<\/b>추천, 모바일 식권등 다양한 분야 포함하고 있는 푸드테크는 특히 배달 앱이 큰 비중을 &quot;(동영상 출처... ",
+			"thumbnail":"https:\/\/phinf.pstatic.net\/tvcast\/20160616_229\/uCVLL_14660390334099TiDL_JPEG\/531C05F35305F36C5B33BE0EA3151323586_muploader_o_480P_854_1024_128_logo.jpg#1920x1080#m"
+		},
+		{
+			"title":"부자 <b>음식<\/b>점 사업자의 부가세 처리 방법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2401557&cid=51281&categoryId=51286",
+			"description":"최복심 씨는 서울 강남에서 샤브샤브 <b>음식<\/b>점을 운영하고 있다. 그런데 요즘 세금 문제로 고민이 많다.... 으으” [<b>음식<\/b>점업과 부가세의 관계] <b>음식<\/b>점을 운영하거나 소매업 등을 운영하는 사람이 가장 신경 쓰는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"주5일 근무제와 <b>서비스<\/b> 산업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2060867&cid=47334&categoryId=47334",
+			"description":"근무 시간이 줄어들면서 집이나 여가지에서 가족이나 친구들과 지내는 시간이 늘어나게 되었는데, 이와 관련하여 도심의 <b>음식<\/b>점, 시내버스와 택시, 유선 전화 등의 경우 매출이 줄어든 반면, 여행업, 철도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"아르바인 순례자에게 베푸는 <b>서비스<\/b>와 환대",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6028949&cid=62348&categoryId=62505",
+			"description":"‘아르바인 순례자에게 베푸는 <b>서비스<\/b>와 환대(Provision of services and hospitality during the Arba'in visitation)’는 방문객과 순례자의 행렬이 모여드는 성스러운 도시 카르발라(Karbala)가 위치한 이라크... ",
+			"thumbnail":"https:\/\/video-phinf.pstatic.net\/20200805_105\/1596598637495YXzMU_JPEG\/f3c6b5c2-d6cc-11ea-8068-a0369ff94f34_03.jpg#1280x720#m"
+		},
+		{
+			"title":"<b>서비스<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5711&cid=43659&categoryId=43659",
+			"description":"예컨대 <b>서비스<\/b>업에는 도\/소매업이나 <b>음식<\/b>\/숙박업에서부터 유통업 금융업 컨설팅업 의료업 등 부가가치가 높은 부문까지 포함된다. <b>서비스<\/b>업은 그 자체적으로 부가가치를 창출하는 것은 물론 제조업 부문의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>음식<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%8C%EC%8B%9D",
+			"description":"<b>음식<\/b> (飮食) 또는 먹을거리 는 식품과 음료를 총칭하는 것으로, 식품을 조리하거나 가공해 먹을 수... 슈퍼마켓은 쇼핑 카트를 이용하여 쇼핑을 하는 셀프 <b>서비스<\/b>로 운영되었으며, 규모의 경제와 직원 비용... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1838873&cid=49082&categoryId=49082",
+			"description":"고객들이 돈을 지불하고 자신들의 식탁에 앉아서 점포 내에서 준비한 <b>음식<\/b>을 제공받을 수 있는 상업 시설. <b>음식<\/b>점의 품질과 가격은 메뉴에 따라 다양하다. [냉장 진열장(refrigerated display case)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1592_000_3\/20130419181322398_6VEMIDMSJ.jpg\/z1_1919_i1_org.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=471084&cid=42120&categoryId=42120",
+			"description":"가령 <b>서비스<\/b>업에는 도 \/ 소매업이나 <b>음식<\/b> \/ 숙박업에서부터 유통업 금융업 컨설팅업 의료업 등 부가가치가 높은 부문까지 포함된다. <b>서비스<\/b>업은 그 자체적으로 부가가치를 창출하는 것은 물론 제조업부문의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기도폐색의 원인이 된 <b>음식<\/b>물의 흡입 및 섭취",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2353608&cid=60408&categoryId=51344",
+			"description":"포함 W79 <b>음식<\/b>물[뼈나 씨를 포함]에 의한 질식 포함 W79 <b>음식<\/b>물[뼈나 씨를 포함]에 의한 질식 포함 W79 <b>음식<\/b>물[뼈나 씨를 포함]에 의한 질식 포함 W79 [모든] <b>음식<\/b>물의 (기도로) 흡입 NOS 포함 W79... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>음식<\/b>배달원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837810&cid=42117&categoryId=42117",
+			"description":" 각종 <b>음식<\/b>점에서 고객의 주문에 따라 <b>음식<\/b>을 배달한다. [수행직무] 고객으로부터 <b>음식<\/b>배달을 주문받는다. 배달할 <b>음식<\/b>과 수저 등을 준비한다. 배달장소를 확인한다. 자전거, 오토바이 등을 운전하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>음식<\/b>남녀",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2074116&cid=42621&categoryId=44441",
+			"description":" 대만 출신의 세계적인 거장인 리안 감독의 초기작. 노년의 수석 요리사 주사부와 장성한 세딸의 이야기를 통해 결혼과 가족관의 차이에서 비롯된 세대간의 긴장을 다루었다. 경쾌하고 속도감 있는 서사... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2879_000_1\/20140422154239958_MT1BBFFD6.jpg\/ef6_321_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b>제안서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1829920&cid=42279&categoryId=42279",
+			"description":"<b>서비스<\/b> 업종의 유형별 분류를 살펴보면 유통<b>서비스<\/b>는 도소매업, 물류업, 창고업 등으로 분류, 소비자 <b>서비스<\/b>는 <b>음식<\/b>업, 숙박업, 개인<b>서비스<\/b>(미용, 세탁) 등으로 분류, 생산자 <b>서비스<\/b>는 사업 <b>서비스<\/b>(법률, 회계... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_17\/20210715142001357_LVVATK0U5.jpg\/hb10_2464_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>음식<\/b>점 (해남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5933825&cid=66793&categoryId=66818",
+			"description":"[정의] 전라남도 해남군에서 사람들에게 <b>음식<\/b>을 판매하거나 제공하는 <b>서비스<\/b> 및 시설. [개설] 해남의 땅끝마을에서는 계절별로 다양한 수산물을 즐길 수 있는데, 청정해역에서 건져 올린 신선한 생선의 회... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카트<b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=634193&cid=48193&categoryId=48297",
+			"description":"①Cart <b>서비스<\/b>는 주방에서 고객이 요구하는 종류의 <b>음식<\/b>과 그 재료를 Cart에 싣고 고객의 테이블까지 와서 고객이 보는 앞에서 직접 조리를 하여 제공하는 <b>서비스<\/b> 형태이다. 일명 French... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>음식<\/b>점 (고령)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2578205&cid=51931&categoryId=54238",
+			"description":"<b>음식<\/b>점의 종류 및 요리 내용과 방법, 맛, <b>서비스<\/b>의 질 등은 그 지역의 토산 먹을거리와 <b>음식<\/b> 문화 및 인심의 정도를 엿보게 해 준다. 관광이 성한 최근에는 지역마다 향토<b>음식<\/b>을 비",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>음식<\/b>점 (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2632377&cid=51942&categoryId=54807",
+			"description":"[정의] <b>음식<\/b>물을 조리하여 판매하는 곳. [개설] <b>음식<\/b>점이 우리 사회에 언제부터 생겼는지 확실히 알 수는 없으나 우리의 의식주생활의 기틀이 잡힌 때부터라고 추측된다. 문헌상으로는 김유신(金庾信)이 ‘천관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"셀프 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=465371&cid=50305&categoryId=50305",
+			"description":"호텔에서의 연회 <b>서비스<\/b>와 뷔페식당의 <b>서비스<\/b> 방식 또는 단체고객의 아침식사 및 브런치(brunch) 스타일로 각자 자기가 좋아하는 <b>음식<\/b>을 가져다 먹는 식이며, 만들어 놓은 <b>음식<\/b>을 직접 가져다 먹기 때문에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1978369&cid=42859&categoryId=42859",
+			"description":"단, <b>음식<\/b>을 배달해 준 보이에게는 $1~2 정도의 팁을 주도록 한다. 모닝콜 <b>서비스<\/b>(Morning Call Service) | 아침 일찍 일어나야 하거나 잠시 눈을 붙일 경우 모닝콜 <b>서비스<\/b>를 이용하면 편리하다. “Please wake... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2730_000_1\/20130905154631444_TL77B1SOO.jpg\/fb29_39_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"급식 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=469530&cid=42120&categoryId=42120",
+			"description":"힘들어 <b>음식<\/b>을 잘 먹지 못하고 영양부족이 되는 경우가 많다. 이에 대응해서 노인복지관이나 경노회관에 노인들이 함께 모여 같이 식사하거나 또는 순회급식차로 매일 필요한 식사를 배달받는 <b>서비스<\/b>이다. 이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생태계 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5842235&cid=63057&categoryId=63057",
+			"description":"[ 사례\/응용 ] 생태계 <b>서비스<\/b> 중 공급 <b>서비스<\/b>(provisioning service)는 바다에서 잡은 물고기, 숲에서 채취한 과일과 같은 <b>음식<\/b>, 약용 식물, 섬유, 연료, 식수, 그리고 농경 생태계에서 경작한 농산물이 포함된다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5561_000_1\/20191016170722126_ISQ1DB3AH.jpg\/%25EB%25AC%25B8%25.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b> 로봇",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2454761&cid=42346&categoryId=42346",
+			"description":"제품 생산 라인에 사용되는 다관절 로봇은 산업용 로봇이나, <b>음식<\/b>을 먹도록 도와주는 유사 다관절 로봇은 <b>서비스<\/b> 로봇이다. 수술 로봇, 재활 로봇, 휠체어 로봇, 청소 로봇, 교육용 로봇 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b>업 (양산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2607783&cid=51941&categoryId=54757",
+			"description":"그러나 좁은 의미로는 상업 즉 도·소매업을 제외한 숙박·<b>음식<\/b>, 운수, 통신, 금융·보험, 부동산·임대, 사업 <b>서비스<\/b>, 행정·국방, 교육 <b>서비스<\/b>, 보건·복지, 오락·문화, 공공·개인, 가사 <b>서비스<\/b> 등이 이에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b>업 (여수)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2610024&cid=51950&categoryId=55234",
+			"description":"그러나 좁은 의미로는 상업 즉 도·소매업을 제외한 숙박 및 <b>음식<\/b>점업, 운수업, 통신업, 금융 및 보험업, 부동산 및 임대업, 사업 <b>서비스<\/b>업, 공공 행정·국방·사회 보장 행정, 교육 <b>서비스<\/b>업, 보건·복지, 오락... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b>업 (구미)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2586376&cid=51932&categoryId=54294",
+			"description":"구체적으로는 도소매업, <b>음식<\/b> 및 숙박업, 부동산 및 임대업, 유통업, 금융업, 컨설팅업, 사업<b>서비스<\/b>업, 의료업 등이 포함된다. 특히 현대에 이르러 <b>서비스<\/b>업이 급격히 확대되어 거의 모든 산업과 관련되어 있으며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>음식<\/b>의 번안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3580526&cid=59546&categoryId=59546",
+			"description":"&#60;출처 : 셔터스톡&#62; [ 돈가스의 계보 ] 우리가 즐겨 먹는 돈가스는 독일·오스트리아의 슈니첼, 영국·미국의 커틀릿, 일본의 가쓰레쓰로 이어지는 계보의 끝자리를 차지한다. 얇게 썬 고기에 빵가루를 묻혀... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118191435382_NBZHF6J6V.jpg\/1_166.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b>업 (철원)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6084008&cid=67394&categoryId=67418",
+			"description":"[정의] 강원도 철원군 내에서 유형의 재산을 제공하는 농림 어업, 제조업 외에 무형의 재화 및 <b>서비스<\/b>를 제공하는 산업. [개설] 강원도 철원군의 산업 구조는 <b>서비스<\/b>업이 가장 높은 비중으로 구성되어... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b>업 (고령)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2577930&cid=51931&categoryId=54238",
+			"description":"예컨대 <b>서비스<\/b>업에는 도·소매업이나 숙박·<b>음식<\/b>업에서부터 유통업, 정보통신업, 금융업, 컨설팅업, 의료업 등 부가 가치가 높은 부문까지 포함된다. <b>서비스<\/b>업이 중요한 이유는 그 자체적으로 부가 가치를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b>업 (영천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2613083&cid=51935&categoryId=54454",
+			"description":"예컨대 <b>서비스<\/b>업에는 도·소매업이나 숙박·<b>음식<\/b>업에서부터 유통업·정보통신업·금융업·컨설팅업·의료업 등 부가 가치가 높은 부문까지 포함된다. <b>서비스<\/b>업이 중요한 이유는 그 자체적으로 부가 가치를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b>매뉴얼",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2778631&cid=51373&categoryId=51373",
+			"description":"<b>서비스<\/b> 매뉴얼은 고객이나 업종에 따라 다르게 적용되며 <b>음식<\/b>점이나 병원 백화점 등 주로 고객이 주체인 경우에 매뉴얼을 정하여 활용된다. 매뉴얼 수칙에 따라 고객 유지와 고객 확보가 되기도 한다. [작성팁]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508191151287_IY08NDTTS.jpg\/ba17_6669_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b>업 (제주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2625423&cid=51955&categoryId=55497",
+			"description":"[정의] 제주특별자치도 제주시에서 물자의 생산 대신에 <b>서비스<\/b>를 제공하는 산업. [개설] 제1차 산업인 농업·수산업이나 제2차 산업인 경공업에 대비되는 개념으로, 여관이나 하숙 따위의 숙박 설비... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b>업 (성남)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2599930&cid=51884&categoryId=53390",
+			"description":"<b>서비스<\/b>업의 범위는 매우 넓고, 단순 노동에서부터 광범위한 지식이 요구되는 것까지 다양하여 도소매업, <b>음식<\/b> 및 숙박업, 부동산 및 임대업 등에서부터 유통업, 금융업, 컨설팅업, 사업<b>서비스<\/b>업, 의료업 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프렌치 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=464331&cid=48193&categoryId=48297",
+			"description":"프렌치 <b>서비스<\/b>는 유럽의 유족들이 좋은 <b>음식<\/b>을 원하거나 시간적 여유가 있는 사람들이 즐기는 전형적인 우아한 <b>서비스<\/b>이다. 고객 앞에서 <b>서비스<\/b>하는 종업원은 숙련되고 세련된 솜씨로 간단한 <b>음식<\/b>을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"테이블 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=465562&cid=48193&categoryId=48297",
+			"description":"테이블 <b>서비스<\/b>는 대개의 경우 손님의 오른쪽에서 식사를 서브하고, 손님의 오른쪽으로부터 빈 그룻을 철거하는 것이 상식이다. <b>음식<\/b>도 주방으로부터 접시에 담겨져 나오거나, 쟁반(Tray)이나 왜건(Wagon)에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"셀프<b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=280997&cid=50345&categoryId=50345",
+			"description":"대중 <b>음식<\/b>점･슈퍼마켓･대형 할인 의류 판매 유통점 등의 자급식 판매 방법을 말한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"암만 추천 <b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6547233&cid=67006&categoryId=69414",
+			"description":" 암만의 주요 거리에서는 요르단의 전통 <b>음식<\/b>뿐만 아니라, 피쉬 앤 칩스 등 서양의 영향을 받은 다채로운 <b>음식<\/b>을 찾을 수 있다. 따라서 세계의 여행자들이 고향의 <b>음식<\/b>을 쉽게 접할 수 있는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_15\/20211129173940369_DDAAIVLJA.jpg\/fb495_14_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"향토 <b>음식<\/b> (제천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2629200&cid=51893&categoryId=53811",
+			"description":"[정의] 충청북도 제천 지역에만 오랫동안 전해 내려오는 조리법으로 만든 특별한 <b>음식<\/b>. [개설] 향토 <b>음식<\/b>은 제천 지역만이 가지는 고유한 지역민의 정서와 환경, 자연 조건에서 성장된 식재료, 지역민이 지닌... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150316041619512_6DZEWCXLE.jpg\/GC033P2106.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>음식<\/b>의 번안 4",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3580573&cid=59546&categoryId=59546",
+			"description":"&#60;출처 : 셔터스톡&#62; [ <b>음식<\/b> 문화의 어제와 오늘 ] 식품업의 역사에도 번안이 깃들어 있다. 식민지 시대에 가내수공업이나 영세 공업에서 출발한 기업들은 1950년대에 국가에 귀속되어 있던 일제의 생산수단을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118191731520_PN0YGVA8K.jpg\/1_198.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b>왜건",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1111138&cid=40942&categoryId=32154",
+			"description":" 부엌과 식탁사이에 <b>음식<\/b>과 기타 식사에 필요한 물건을 운반할 때 쓰는 바퀴가 달린 운반기구.  간단한 서랍과 수건걸이 등이 달려 있는 것도 있는데, 재료로 알루미늄이나 스테인리스강(鋼), 또는 나무와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_350\/20190418065008664_WWIC0T25H.jpg\/10315270.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>음식<\/b>점 (미추홀구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2624268&cid=51927&categoryId=53653",
+			"description":"인천광역시 미추홀구청에서는 <b>음식<\/b> 문화 개선 및 좋은 식당 실천 강화와 친절 <b>서비스<\/b> 등 위생 수준 향상을 위한 교육 및 지원 등을 추진하고 있다. 그 대표적인 예가 모범 <b>음식<\/b>점 지정 사업, 외국인 이용이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150315170409028_XHO9CP4ZZ.jpg\/GC047P00226.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b> 타월",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=465387&cid=42109&categoryId=42109",
+			"description":"이것은 수저류, 접시류, 글라스류를 마지막 손질(Polish)할 때 혹은 뜨거운 접시나 기물 등을 받쳐들 때, <b>음식<\/b>을 엎질렀을 때, 혹은 식탁 위에 빵 부스러기를 쓸어낼 때 쓰이며, 이것은 위생수건이기 때문에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"바쿠 추천 <b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6547387&cid=67006&categoryId=69429",
+			"description":"[바쿠 BEST 추천 <b>음식<\/b>점] [무제이 쉬르반샤(Muzey Shirvanshah)] 맛있는 아제르바이잔 요리, 훌륭한 <b>서비스<\/b>는 물론, 박물관과 같은 고풍적인 인테리어로 많은 이들의 사랑을 받고 있는 <b>음식<\/b>점이다. 장시간 대기를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_15\/20211129170930826_TFA7Y0PQD.jpg\/fb506_14_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"아메리칸 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=633866&cid=48193&categoryId=48297",
+			"description":"일반적으로 주방에서 <b>음식<\/b>을 접시에 담아 서브되기 때문에 많은 고객을 상대할 수 있으며 빠른 <b>서비스<\/b>를 추구하는 장점도 있으나, <b>음식<\/b>이 비교적 빨리 식기 때문에 고객의 미각을 돋구지 못하는 단점도... ",
+			"thumbnail":""
+		},
+		{
+			"title":"파무칼레 추천 <b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6540797&cid=67006&categoryId=69315",
+			"description":"이곳 <b>음식<\/b>점들에서는 튀르키예의 전통 <b>음식<\/b>뿐 아니라 손님을 환대하는 전통적인 방식과 고품질의 <b>서비스<\/b> 등을 잘 갖추고 있다. 파무칼레에 방문 시 꼭 방문해야 할 <b>음식<\/b>점 네 곳을 추천한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_15\/20211111113442323_WPVAUJ610.jpg\/fb487_14_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>서비스<\/b> 디바이스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3386822&cid=58369&categoryId=58369",
+			"description":"냉장고나 세탁기는 각각 <b>음식<\/b>물을 신선하게 유지하거나 빨래를 빨아주는 고유한 기능을 제공하는 장치이지 <b>서비스<\/b>가 아니었다.반면, 냉장고에 보관할 <b>음식<\/b>물을 온라인으로 구매하거나 세탁소에서 빨래를 대신... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4410_000_1\/20160427155041690_US1OOZVEG.jpg\/s_sm1_15_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>음식<\/b>점 특수계획",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2268919&cid=51331&categoryId=51333",
+			"description":"일손부족의 대책과 간이 식당을 위해 셀프<b>서비스<\/b>는 효과적이다. 중요한 것은 쾌적한 분위기보다도 순조로운 영업의 흐름이다(입구-<b>서비스<\/b>쟁반-셀프<b>서비스<\/b>-계산대-식당-출구). 왜냐하면 보통레스토랑에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1913_000_1\/20120629181526506_AYFH06ED0.jpg\/db3_306_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"간편결제<b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5687696&cid=43667&categoryId=43667",
+			"description":"결제 <b>서비스<\/b>를 말한다. 공인인증서와 같은 복잡한 결제 절차 없이 사전 인증 등의 간단한 방식만으로 결제를 지원하는 시스템이다. <b>서비스<\/b> 운용 업체마다 절차상 약간의 차이가 있지만 대부분 휴대폰 가입... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAxODExMjlfMjUy%2FMDAxNTQzNDcyMjQ5NzIy.nY7ux2yWrPxaq5vVugdLgGQAWHwudjEJc-b70UetrQ8g.PZlXxaQgnWLavvvCWveBntIcY1ElSIa30U8RwmbsiM8g.JPEG%2FInEs_sEeEzVkmamnuck2LGvj_ego.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x385#c385"
+		},
+		{
+			"title":"잉글리시 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=464203&cid=50346&categoryId=50346",
+			"description":"<b>음식<\/b>이 주방에서 식탁으로 직접 <b>서비스<\/b>되어 가정에서의 Platter(큰 쟁반)에 담긴 식사형태와 비슷하다. 즉 주빈이 테이블을 돌며 고객에게 요리를 제공하거나 요리를 돌려가며 고객이 직접 담는 방법으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소비성 <b>서비스<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2063957&cid=50305&categoryId=50305",
+			"description":"호텔업과 여관업(관광진흥법에 의한 관광숙박업 제외), 식품위생법에 의한 단란주점영업 및 유흥주점영업(외국인전용 유흥<b>음식<\/b>점영업 및 관광유흥<b>음식<\/b>점 제외), 도박장(외국인전용 카지노 및 폐광카지노 제외)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>서비스<\/b> 거부 공격",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3431879&cid=58437&categoryId=58437",
+			"description":"물론 집기를 부수는 것도, 식재료 공급을 끊는 것도, 나쁜 재료를 <b>음식<\/b>에 몰래 섞는 것도 <b>서비스<\/b> 거부 공격이 될 수 있다. 마찬가지로 서버나 네트워크에서의 <b>서비스<\/b> 거부 공격도 무척 다양하다. 이 절에서는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4520_000_1\/20160721171848070_XD5DPBODS.jpg\/ka27_68_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"유통<b>서비스<\/b>업 (가평)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6445379&cid=68119&categoryId=68143",
+			"description":"업종별 비중을 살펴보면 숙박업 및 <b>음식<\/b>점업이 사업체와 종사자 수 모두에서 가장 높은 비중을 보여주어 가평군 유통<b>서비스<\/b>업에서 많은 부분이 숙박업 및 <b>음식<\/b>점업에서 차지하고 있는 것을 알 수 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가정봉사원<b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=468387&cid=50298&categoryId=50298",
+			"description":"클라이언트 자신의 가정에서 행해지는 건강 또는 사회복지<b>서비스<\/b> 프로그램으로 1-2명의 봉사원이 <b>음식<\/b>수발, 준비, 세탁, 청소와 약간의 간호<b>서비스<\/b>를 제공하는 것을 말한다. 가정봉사원은 보통 공공단체... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일본의 <b>음식<\/b>문화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1833092&cid=42999&categoryId=42999",
+			"description":"일상적인 <b>음식<\/b>을 말한다. 밥을 짓고, 국을 끓이고, 야채를 절이거나 부침을 만들고, 생선을 굽는 등의 평범한 것에서부터, 특별히 정성을 들여서 복잡하게 조리하는 <b>음식<\/b>에 이르기까지 가정 요리에도 여러... ",
+			"thumbnail":""
+		},
+		{
+			"title":"청주의 <b>음식<\/b>점 (청주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2642280&cid=51895&categoryId=53911",
+			"description":"[정의] 충청북도 청주시에서 사람들에게 <b>음식<\/b>을 판매하거나 제공하는 <b>서비스<\/b> 및 시설. [개설] 한국표준산업분류표상의 <b>음식<\/b>점업이란 ‘접객시설을 갖춘 구내에서 또는 특정장소에서 소비할 수 있도록 조리된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"모바일 RFID <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3435103&cid=58462&categoryId=58462",
+			"description":"이렇게 대부분의 사람들이 언제나 들고 다니는 휴대폰과 RFID 리더가 결합되면 새로운 <b>서비스<\/b>를 제공할 수 있을 것이라는 생각이 모바일 RFID <b>서비스<\/b>를 탄생시켰다. 다시 말해 우리는 소위 유비쿼터스 시대를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4557_000_1\/20160817135943392_VFXBYDY8B.jpg\/ka32_15_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"담양 <b>음식<\/b>테마거리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4368364&cid=42856&categoryId=42856",
+			"description":"<b>음식<\/b>의 맛과 종류 뿐만 아니라, 위생의 높은 질과 친절한 접객<b>서비스<\/b> 등 관광환대에 이바지하며 <b>음식<\/b>관광의 기준을 높이고 있다. [이용안내] [이용시간] 각 <b>음식<\/b>업장마다 다름 [문의및안내] 061... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2818_000_20\/20171225053341585_RYX8B92WS.jpg\/1044242_image2_1.jpg?type=m160_160"
+		},
+		{
+			"title":"와인문화 <b>서비스<\/b>업",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1784156&cid=49275&categoryId=49275",
+			"description":"소믈리에란 단어 자체는 고객들에게 와인 혹은 일반적인 음료에서 선택의 폭을 넓혀주고 올바른 <b>서비스<\/b>를 제공해주는 사람을 지칭하는 대명사이다. 이들 각자가 맡은 책임과 경험을 통하여 소믈리에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1694_000_19\/20130316081144438_V8JW8EKI7.jpg\/z2_cp05230113000.jpg?type=m160_160"
+		},
+		{
+			"title":"코스프레계 <b>음식<\/b>점",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%BD%94%EC%8A%A4%ED%94%84%EB%A0%88%EA%B3%84_%EC%9D%8C%EC%8B%9D%EC%A0%90",
+			"description":"접객하는 <b>음식<\/b>점을 집사 킷사(執事喫茶)라고 부른다. 여성 점원이 남장 코스프레를 하고 접객하는 왕자 킷사(王子喫茶)와 갸르송 킷사(ギャルソン喫茶)도 있다. <b>서비스<\/b> 개념으로는 치유를 테마로 한 가게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"셀프<b>서비스<\/b>식 식당",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1838875&cid=49082&categoryId=49082",
+			"description":"[오르되브르와 찬 요리 \/ 전채와 찬 요리(hors d’oeuvres and cold food)] [샐러드(salads)] [셀프<b>서비스<\/b>용 진열대(self-service display case)] 고객이 스스로 <b>음식<\/b>을 가져다",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1592_000_3\/20130419181324608_OZFE36BJU.jpg\/z1_1921_i1_org.jpg?type=m160_160"
+		},
+		{
+			"title":"영국의 전통<b>음식<\/b>들",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953312&cid=67006&categoryId=67021",
+			"description":"맛에 대한 기대치가 높지 않은 영국<b>음식<\/b>이지만 알고 보면 맛있는 전통<b>음식<\/b>들이 있다. 특히 그 역사와 유래를 알고 맛본다면 즐거운 미식 체험이 될 것이다. [피시 앤 칩스(Fish and Chips)] 영국의 전통적인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_1\/20200603180941436_E9LCA6ZMD.jpg\/fb77_13_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"욀뤼데니즈 추천 <b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6596397&cid=67006&categoryId=69687",
+			"description":"[카와 카와(Cawa Cawa)의 혼합 그릴 <b>음식<\/b>] 카와 카와는 해안가에서 다양한 메뉴와 훌륭한 <b>서비스<\/b>를 제공한다. 위층 테이블에서는 아름다운 푸른 바다를 감상할 수 있고, 아래층에서는 해변의 멋진 전망을 즐길... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_16\/20220228105205037_VMGQ553D2.jpg\/fb545_11_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"앙카라 추천 <b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6596468&cid=67006&categoryId=69688",
+			"description":"[콜리오즈(Kolyoz)] 앙카라에는 해산물을 다루는 맛있는 식당들이 많이 있다. 마을 최고 생선 레스토랑 중 하나로, 다양한 생선 구이 요리뿐 아니라 정어리로 속을 채운 덩굴 잎과 우유로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_16\/20220228105549630_LHK45S6JP.jpg\/fb546_12_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"운영 관리와 <b>서비스<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5701820&cid=42726&categoryId=63056",
+			"description":"1. 술과 주례 2. 술과 <b>음식<\/b>의 페어링 PLUS PAGE 05. 술과 한식의 페어링 3. 술잔과 술병 4. 제공 방법 5. <b>서비스<\/b> 실무 6. 원가 관리 7. 매장 관리 8. 판매 홍보 기술 SUMMARY NOTE",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5693_000_1\/20181207133644326_EJUZZCM59.jpg\/fe108_41_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"진도의 <b>서비스<\/b>업 (진도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2630207&cid=51952&categoryId=55342",
+			"description":"[정의] 비물질적 생산물을 제공하는 업종. [개설] <b>서비스<\/b>업은 생산이나 상품의 유통에는 직접 관계없이 노무·편의 따위를 제공하는 업종을 통틀어 일컫는 말이다. 따라서 분류상 다양한 업종을 포함하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공주의 <b>서비스<\/b>업 (공주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2580981&cid=51898&categoryId=54020",
+			"description":"그러나 좁은 의미로는 상업, 즉 도·소매업을 제외한 숙박 및 <b>음식<\/b>점업, 운수·창고 및 통신업, 금융·보험업, 부동산·임대업, 사업 <b>서비스<\/b>업,교육 <b>서비스<\/b>업, 보건·복지업, 기타 공공 사회·개인 <b>서비스<\/b>업... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영국의 <b>음식<\/b>과 문화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2805406&cid=42807&categoryId=55604",
+			"description":"‘하루 동안에 4계절이 있다’라고 영국의 날씨를 표현한 유명한 말이 있다. 이것처럼 영국의 날씨는 변덕스럽기 그지없다. 겨울에는 특히 안개가 자주 끼고 흐린 날이 많은 데 10월 말이 지나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시그나기 추천 <b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6590910&cid=67006&categoryId=69578",
+			"description":"[카헤티안 하우스 바키렐레비(Kakhetian House Vakirelebi)] 시그나기의 대표 와인 하우스에서 운영하는 레스토랑으로, 맛있는 홈메이드 <b>음식<\/b>과 와인, 달콤하고 친절한 <b>서비스<\/b>가 여행자를 매료시키는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_16\/20220125114135713_DSXHVYEJ1.jpg\/fb537_11_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"마라케슈 추천 <b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6516389&cid=67006&categoryId=69288",
+			"description":"마라케슈의 대표 <b>음식<\/b> 타진(Tajine)과 쿠스쿠스(Couscous)와 같은 모로코 전통 요리를 맛볼 수 있는... 고급 레스토랑에서는 일반적으로 <b>서비스<\/b> 요금이 추가되며, 만약 <b>서비스<\/b> 요금이 추가되지... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_15\/20211101161547807_R211VZMJK.jpg\/fb476_13_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"병원 공급<b>서비스<\/b>영역",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2268971&cid=51331&categoryId=51333",
+			"description":"임상상, 급식상 그리고 기술상의 공급<b>서비스<\/b>는 분리된 공급<b>서비스<\/b>동 또는 날개이거나 또는 중앙동 안에서 중립적인 공급ㆍ회수<b>서비스<\/b>층에 의해 이루어진다. 유틸리트 구내의 주위에 통합하며 방위는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/1913_000_1\/20120628185453791_HIP8NSQYR.jpg\/db3_358_i6.jpg?type=m160_160"
+		},
+		{
+			"title":"상파울루 추천 <b>음식<\/b>점",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6599743&cid=67006&categoryId=69805",
+			"description":"존재해 <b>음식<\/b>의 천국이라 불릴 만큼 맛있는 레스토랑들이 많다. 이곳은 체인점으로 운영되고... 돼지고기를 넣은 국수를 맛보려는 손님들로 연일 북적거리며, 친절한 <b>서비스<\/b>가 제공된다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5885_000_16\/20220401105933623_JRWEVG81C.jpg\/fb568_15_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"필리핀의 <b>음식<\/b>과 문화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2805389&cid=42807&categoryId=55604",
+			"description":"필리핀 <b>음식<\/b>은 말레이시아, 중국, 스페인, 미국요리의 매력적인 혼합이다. 햄버거, 핫도그, 오믈렛은 이 나라 어디를 가든 널리 퍼져 있는 인기 있는 <b>음식<\/b>이다. 필리핀 <b>음식<\/b>은 종류가 다양하지만 모든 사람이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스위스의 <b>음식<\/b>과 문화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2805411&cid=42807&categoryId=55604",
+			"description":"스위스를 방문하는 사람들은 이 나라의 매력은 발달된 관광시설에 있다고 생각한다. 물론 스위스의 주된 소득원은 해외에서 이 나라를 방문하는 관광객으로부터 나온다. 상대적으로 스위스 국민의 창의적인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3910_000_1\/20150512104453870_ELJ5N6XI2.jpg\/fe75_60_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"폴란드의 <b>음식<\/b>과 문화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2805408&cid=42807&categoryId=55604",
+			"description":"폴란드는 주로 평야가 있으며 중앙에는 많은 부분이 저지대이다. 남쪽에는 카파티안 산맥 남동쪽에는 수데탄 산으로 상당히 높은 산악지형을 이루고 있다. 전체적으로 500m 이상인 지역은 전 국토의 3%에... ",
+			"thumbnail":""
+		}
+	]
+}

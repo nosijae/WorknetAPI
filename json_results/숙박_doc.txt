@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:55 +0900",
+	"total":11971,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"공유경제 활성화의 이슈와 쟁점 : 공유<b>숙박<\/b>의 제도화 논의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=578590140",
+			"description":"  목차\n공유경제 활성화의 이슈와 쟁점 : 공유<b>숙박<\/b>의 제도화 논의 \/ 안희자 1\n 1. 공유경제의 최근 동향 "
+		},
+		{
+			"title":"외국인관광 도시민박업을 통해 본 공유<b>숙박<\/b>의 문제점과 정책방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561815552",
+			"description":"  목차\n외국인관광 도시민박업을 통해 본 공유<b>숙박<\/b>의 문제점과 정책방향 \/ 김형곤 1\n 1. 들어가며 1\n 2. "
+		},
+		{
+			"title":"공유형 <b>숙박<\/b>의 플랫폼 서비스 속성이 이용객의 만족 및 행동의도에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888385643",
+			"description":"The Effects of Platform Services Attributes of Shared Accommodation on the Guest Satisfaction and Behavioral Intention 목적: <b>숙박<\/b>"
+		},
+		{
+			"title":"공유형 <b>숙박<\/b>의 플랫폼 서비스 속성이 이용객의 만족 및 행동의도에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888164558",
+			"description":"The Effects of Platform Services Attributes of Shared Accommodation on the Guest Satisfaction and Behavioral Intention 목적: <b>숙박<\/b>"
+		},
+		{
+			"title":"디지털전환 기반의 <b>숙박<\/b>예약 서비스 경쟁우위전략: 사례연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887353002",
+			"description":"A Study on Digital Transformation Competitive Strategy of Accommodation Reservation Service Industry: A Case Study 오늘날 고객과 "
+		},
+		{
+			"title":"중국관광객 수용태세 및 <b>숙박<\/b>시설 확충방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56413820",
+			"description":"  목차\n중국관광객 수용태세 및 <b>숙박<\/b>시설 확충방안 \/ 구본상 1\n 1. 중국관광객 방한 현황 1\n  가. 방문객 "
+		},
+		{
+			"title":"<b>숙박<\/b> 공유플랫폼 용이성, 유용성, 개인화 서비스, <b>숙박<\/b>서비스 품질이 소",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843047381",
+			"description":"Effects of Social Exclusion and Resultant Psychological Reaction on Relative Preference for Utilitarian Products(vs. Hedonic Products) "
+		},
+		{
+			"title":"공유<b>숙박<\/b> 품질 측정 척도의 개발",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897131548",
+			"description":"Development of quality measurement scales for home sharing lodging This study has attempted to develop scales for measuring the quality"
+		},
+		{
+			"title":"공유 <b>숙박<\/b> 소비자 경험의 구성 요소에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=894271459",
+			"description":"A Study on the Components of Shared Accommodation Consumer Experience The popularity of Airbnb has dramatically affected the accommodat"
+		},
+		{
+			"title":"공유<b>숙박<\/b>서비스의 요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843030675",
+			"description":"A Study on the Factors of Shared Accommodation Services 본 연구의 목적은 중국의 공유경제 시장에서 소비자들의 지"
+		},
+		{
+			"title":"온라인서비스 제공자로서의 <b>숙박<\/b>공유 플랫폼의 책임: 에어비앤비를 중",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881870523",
+			"description":"Responsibility of accommodation sharing platform as an online service provider: focused on Airbnb 본 연구에서는 공유경제의 "
+		},
+		{
+			"title":"<b>숙박<\/b>플랫폼 서비스의 유용성과 사용 편의성, 신뢰도, 구매의도에 따른 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873327270",
+			"description":"The Structural Impact of Perceived Usefulness and Ease of Use, Trust, Purchase intention the Accommodation Platform Service; Based on T"
+		},
+		{
+			"title":"폐교를 활용한 체험활동 <b>숙박<\/b>시설의 공간계획 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594381713",
+			"description":"   폐교, 체험활동, <b>숙박<\/b>시설, 학교시설 표준설계, 제주 "
+		},
+		{
+			"title":"지역의 공유 경제 활성화를 위한 사회적 자본 증진 방안: 공유<b>숙박<\/b>의 소",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=187690942",
+			"description":"nderstanding about the relationship between sharing economy and social capital: Focusing on the consumption experience and consumption "
+		},
+		{
+			"title":"<b>숙박<\/b>예약플랫폼 서비스품질이 사용의도에 미치는 영향: 플랫폼 신뢰전",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843049581",
+			"description":"A Study of Service Quality of Lodging Online Platform on Intention to Use – Focusing Trust transfer   Lodging Online Platform, Servic"
+		},
+		{
+			"title":"새로운 <b>숙박<\/b> 트랜드와 그에 따른 정책 방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=595349651",
+			"description":"  목차\n새로운 <b>숙박<\/b> 트랜드와 그에 따른 정책 방향 \/ 박호운 1\n 1. 들어가기 1\n 2. 관광과 <b>숙박<\/b> 경제 규모 "
+		},
+		{
+			"title":"온라인 구전의 휴리스틱 특성이 공유<b>숙박<\/b> 인기도에 미치는 영향: 중국 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878524020",
+			"description":"   온라인 구전, 공유<b>숙박<\/b>, 휴리스틱 속성, <b>숙박<\/b>인기도, 공유경제, Tujia.com "
+		},
+		{
+			"title":"제 4차 산업혁명 시대 관광산업의 대응방안 : <b>숙박<\/b>, 교통, 결제 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561815511",
+			"description":"  목차\n제 4차 산업혁명 시대 관광산업의 대응방안 : <b>숙박<\/b>, 교통, 결제 중심으로 \/ 구철모 1\n 1. 모빌리티"
+		},
+		{
+			"title":"공유<b>숙박<\/b>의 법⋅제도에 관한 한국\/일본 비교 사례연구:에어비앤비(Airbnb)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=848997702",
+			"description":"An In-depth Comparative Case Study of Korea\/Japan in Legal System of Shared Accommodations: Focused on Airbnb 공유<b>숙박<\/b> 플랫폼 "
+		},
+		{
+			"title":"국공립자연휴양림 <b>숙박<\/b>시설의 중간영역 공간구성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880531677",
+			"description":"A Study on the Space Composition of Intermediate Area of National and Public Natural Recreation Forest Accommodation Facilities   국"
+		},
+		{
+			"title":"국내 중저가<b>숙박<\/b>시설에 대한 외국인 FIT의 선택속성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11004255",
+			"description":"A Study on the Choice Attributes of Foreign Independent Tourists to Medium and Low-priced Accommodations  목차\n국내 중저가<b>숙박<\/b>"
+		},
+		{
+			"title":"공유<b>숙박<\/b>서비스의 요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880376630",
+			"description":"A Study on the Factors of Shared Accommodation Services 본 연구의 목적은 중국의 공유경제 시장에서 소비자들의 지"
+		},
+		{
+			"title":"<b>숙박<\/b> 및 외식산업에서의 회사규모 조절효과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290155623",
+			"description":"Moderating effect of firm size between franchising and firm value in lodging and restaurant The purpose of this research was to examine"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 소비가치와 소비위험이 공유<b>숙박<\/b> 공급 참여의도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601391467",
+			"description":" 본 연구는 유휴자원을 활용하여 새로운 소득을 발생시킬 수 있는 공유경제의 기본원리에 주목하여 "
+		},
+		{
+			"title":"고객 물건의 멸실 또는 훼손에 대한 <b>숙박<\/b>업자의 책임 — DCFR 및 독일 민",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822339518",
+			"description":"Liability of a hotel-keeper for loss or damage of a thing brought to the hotel by guest — Focused on the rules of DCFR and German Civ"
+		},
+		{
+			"title":"자연휴양림 <b>숙박<\/b>시설 이용자의 이용동기와 만족도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12457344",
+			"description":"Articles : A Study on the User`s Motivation and Satisfaction for the Recreation Forest Targeting the lodgers at the recreation forests,"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 소비가치와 소비위험이 공유<b>숙박<\/b> 공급 참여의도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=601611225",
+			"description":"The Effects of Consumption Values and Consumption Risks on the Intention to Provide Bedroom Sharing Service: With the Moderating Effect"
+		},
+		{
+			"title":"<b>숙박<\/b> 공유플랫폼 용이성, 유용성, 개인화 서비스, <b>숙박<\/b>서비스 품질이 소",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822732693",
+			"description":"Effects of Social Exclusion and Resultant Psychological Reaction on Relative Preference for Utilitarian Products(vs. Hedonic Products) "
+		},
+		{
+			"title":"공유<b>숙박<\/b> 소비가치와 소비위험이 공유<b>숙박<\/b> 공급 참여의도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606911488",
+			"description":"The Effects of Consumption Values and Consumption Risks on the Intention to Provide Bedroom Sharing Service: With the Moderating Effect"
+		},
+		{
+			"title":"중국소비자의 <b>숙박<\/b>공유서비스에 대한 기술수용, 지각된 위험, 서비스품",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=753255638",
+			"description":"The Effect of Technology Acceptance, Perceived Risk, and Service Quality on the Use Attitude and Reuse Intention of Accommodation Shari"
+		},
+		{
+			"title":"초고층 주거 및 <b>숙박<\/b>시설의 수직동선계획 전문가시스템을 위한 알고리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290125934",
+			"description":"Development of an Algorithm to Build an Expert System for Vertical Transportation Planning in High-rise Housings and Hotels This study "
+		},
+		{
+			"title":"진정한 공유<b>숙박<\/b> 실현을 위한 입법적 과제와 쟁점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765822588",
+			"description":"Legislative Tasks and Issues for Realizing True House Sharing Model 현재 문화체육관광부, 보건복지부, 농림축산식품"
+		},
+		{
+			"title":"<b>숙박<\/b>예약서비스 환경에서 e-서비스스케이프가 고객충성도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765702836",
+			"description":"The effect of e-servicescape on customer loyalty in the accommodation reservation service: Focused on Korea-China comparison 온라인 "
+		},
+		{
+			"title":"<b>숙박<\/b>예약서비스 환경에서 e-서비스스케이프가 고객충성도에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765822652",
+			"description":"The effect of e-servicescape on customer loyalty in the accommodation reservation service: Focused on Korea-China comparison 온라인 "
+		},
+		{
+			"title":"코로나19로 인한 관광객의 위험지각이 관광지 <b>숙박<\/b>시설의 선택의도에 미",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765736629",
+			"description":"The effect of tourists’ risk perception due to the COVID-19 on choice intention of accommodations in tourist sites 한국뿐만 아"
+		},
+		{
+			"title":"코로나19 이후 제주지역 <b>숙박<\/b>업 변화 및 시사점: <b>숙박<\/b> 미시데이터를 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890436425",
+			"description":""
+		},
+		{
+			"title":"<b>숙박<\/b>공유 플랫폼의 지각된 위험이 재구매의도에 미치는 영향관계 : 계획",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890424041",
+			"description":"Influence relationship of perceived risk of accommodation sharing platform on repurchase intention : focus on the theory of planning be"
+		},
+		{
+			"title":"<b>숙박<\/b>공유 플랫폼의 지각된 위험이 재구매의도에 미치는 영향관계 : 계획",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890809527",
+			"description":"Influence relationship of perceived risk of accommodation sharing platform on repurchase intention : focus on the theory of planning be"
+		},
+		{
+			"title":"<b>숙박<\/b>공유 플랫폼의 지각된 위험이 재구매의도에 미치는 영향관계 : 계획",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890621515",
+			"description":"Influence relationship of perceived risk of accommodation sharing platform on repurchase intention : focus on the theory of planning be"
+		},
+		{
+			"title":"<b>숙박<\/b>공유 플랫폼의 지각된 위험이 재구매의도에 미치는 영향관계 : 계획",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891285710",
+			"description":"Influence relationship of perceived risk of accommodation sharing platform on repurchase intention : focus on the theory of planning be"
+		},
+		{
+			"title":"<b>숙박<\/b>공유 플랫폼의 지각된 위험이 재구매의도에 미치는 영향관계 : 계획",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896672748",
+			"description":"Influence relationship of perceived risk of accommodation sharing platform on repurchase intention : focus on the theory of planning be"
+		},
+		{
+			"title":"<b>숙박<\/b>공유 플랫폼의 지각된 위험이 재구매의도에 미치는 영향관계 : 계획",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891334942",
+			"description":"Influence relationship of perceived risk of accommodation sharing platform on repurchase intention : focus on the theory of planning be"
+		},
+		{
+			"title":"<b>숙박<\/b>공유 플랫폼의 지각된 위험이 재구매의도에 미치는 영향관계 : 계획",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891098770",
+			"description":"Influence relationship of perceived risk of accommodation sharing platform on repurchase intention : focus on the theory of planning be"
+		},
+		{
+			"title":"<b>숙박<\/b>공유 플랫폼의 지각된 위험이 재구매의도에 미치는 영향관계 : 계획",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898551459",
+			"description":"Influence relationship of perceived risk of accommodation sharing platform on repurchase intention : focus on the theory of planning be"
+		},
+		{
+			"title":"일본의 민박에 관한 새로운 법적제도 : 주택<b>숙박<\/b>사업법을 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561844102",
+			"description":"  목차\n일본의 민박에 관한 새로운 법적제도 : 주택<b>숙박<\/b>사업법을 중심으로 \/ 김경석 1\n I. 주택<b>숙박<\/b>사업"
+		},
+		{
+			"title":"통합적 <b>숙박<\/b>정책 추진체계 구축",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562356904",
+			"description":"  목차\n통합적 <b>숙박<\/b>정책 추진체계 구축 \/ 최승묵 1\n 1. 들어가며 1\n 2. <b>숙박<\/b>수요 특성 및 공급 현황 1\n 3. "
+		},
+		{
+			"title":"<b>숙박<\/b>예약플랫폼 서비스품질이 사용의도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843679384",
+			"description":"A Study of Service Quality of Lodging Online Platform on Intention to Use – Focusing Trust transfer The purpose of this study is to i"
+		},
+		{
+			"title":"온라인 <b>숙박<\/b>플랫폼 이용객의 지각된 위험이 신뢰, 만족, 재구매 의도에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896915115",
+			"description":""
+		},
+		{
+			"title":"관광객의 공유<b>숙박<\/b>경험이 지각된 가치, 지각된 위험, 이용의도 및 추천",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887356531",
+			"description":" 새로운 형태의 여행을 경험하고 싶은 관광객의 심리가 확대되면서 공유경제\n를 기반으로 한 공유숙"
+		},
+		{
+			"title":"가치-태도-행동 모델에 기반한 공유<b>숙박<\/b>에 대한 소비자행동의 이해: 에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561886295",
+			"description":"Understanding Consumer Behavior on Shared Accommodation Based on Value-Attitude-Behavior Hierarchy Model: Focusing on Airbnb 본 연구"
+		},
+		{
+			"title":"<b>숙박<\/b>시설의 지각된 가치가 관광만족도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594118044",
+			"description":" 본 연구는 <b>숙박<\/b>시설의 이용에 따라 이용하는 관광자의 지각된 가치는 관광만족도에 관한 연구에 분"
+		},
+		{
+			"title":"한국형 커뮤니티 <b>숙박<\/b>공유 플랫폼,코자자",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=186561717",
+			"description":"  목차\n한국형 커뮤니티 <b>숙박<\/b>공유 플랫폼,코자자 \/ 조산구 1\n <b>숙박<\/b>공유의 급부상 1\n <b>숙박<\/b>공유 플랫폼의 "
+		},
+		{
+			"title":"비교연구를 통한 새로운 공유<b>숙박<\/b> 서비스 모델 제안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846882585",
+			"description":"Propose on Sharing Accommodation Service Model through Comparison Research In the context of Sharing Accommodation has become a new typ"
+		},
+		{
+			"title":"청년 리더를 키우는 글로벌 일자리, <b>숙박<\/b> 예약 플랫폼 아고다 [인터뷰]",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=597572056",
+			"description":"  목차\n청년 리더를 키우는 글로벌 일자리, <b>숙박<\/b> 예약 플랫폼 아고다 [인터뷰] \/ 오희아 ; 신지영 ; 박은"
+		},
+		{
+			"title":"국내 문화체험 <b>숙박<\/b>시설 서비스운영 매뉴얼 도입 필요성에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561477341",
+			"description":"Importance of Adopting a Service Operation Manual at Cultural Experience Lodging Facilities 본 연구의 목적은 국내외에서 문"
+		},
+		{
+			"title":"개선된 IoT기반 제연시스템의 <b>숙박<\/b>시설 적용에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865533565",
+			"description":"A study on the application of improved IoT- based smoke control system to lodging facilities fires 본 연구는 국내 소규모 숙"
+		},
+		{
+			"title":"코로나 시대의 경주지역 <b>숙박<\/b>산업 활성화 방안에 관한 이해관계자 인식 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880988672",
+			"description":"A Study on Stakeholders’ Perceptions on Revitalization of Gyeongju Accommodation Industry in Covid 19: Focused on FGI (In-Depth Inter"
+		},
+		{
+			"title":"코로나 시대의 경주지역 <b>숙박<\/b>산업 활성화 방안에 관한 이해관계자 인식 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878580935",
+			"description":"A study on stakeholders&quot; Perceptions on Revitalization of Gyeongju Accommodation Industry in Covid 19: Focused on FGI (In-Depth Intervi"
+		},
+		{
+			"title":"코로나 시대의 경주지역 <b>숙박<\/b>산업 활성화 방안에 관한 이해관계자 인식 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822782570",
+			"description":"A Study on Stakeholders' Perceptions on Revitalization of Gyeongju Accommodation Industry in Covid 19: Focused on FGI (In-Depth Intervi"
+		},
+		{
+			"title":"목표지향행동모델을 적용한 <b>숙박<\/b>앱 서비스 이용의도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442213272",
+			"description":"A Study on Behavioral Intention of Accommodation App Service Using the Model of Goal-Directed Behavior  I. 서 론\nII. 이론적 배경"
+		},
+		{
+			"title":"공유<b>숙박<\/b>이 아파트 임대료에 미치는 영향에 관한 연구 - 서울 강남구 아",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889238547",
+			"description":"The Influence of Shared Accommodation on Housing Rent 공유<b>숙박<\/b>으로 대표되는 에어비앤비(Airbnb)는 2020년 12월 미국 "
+		},
+		{
+			"title":"고객 물건의 멸실 또는 훼손에 대한 <b>숙박<\/b>업자의 책임 ― DCFR 및 독일 민",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842511794",
+			"description":"Liability of a hotel-keeper for loss or damage of a thing brought to the hotel by guest - Focused on the rules of DCFR and German Civil"
+		},
+		{
+			"title":"<b>숙박<\/b>예약 플랫폼과 고객만족 재이용의도 추천의도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888543303",
+			"description":"The Study of customer satisfaction and reuse intention and recommendation intention on the accommodation booking platform  제 1 장  "
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886948521",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873495178",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889934627",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890779958",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843010316",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885174789",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888206845",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889774286",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888371114",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890593652",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882393801",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891302722",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874523163",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865573203",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871382665",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881555396",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896644486",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882889225",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886962661",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888734357",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891068073",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891233430",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880133437",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886838641",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872869446",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887566385",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868825968",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874127857",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890396174",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886431830",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 선택속성의 만족도가 충성도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=898517278",
+			"description":"Impacts of selection attributes satisfaction for shared accommodation on loyalty  표제지\n국문초록\n목차\n제1장 서론 11\n 제1"
+		},
+		{
+			"title":"경제정책불확실성과 <b>숙박<\/b>업체의 재무성과의 관계에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888420777",
+			"description":"A study on the relationship between economic policy uncertainty and financial performance of lodging firms 본 연구는 경제정책"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 공급자의 소득세 과세문제에 대한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=638312695",
+			"description":"A Study on the Income Tax Taxation Problem of Shared Accommodation Providers 우리나라는 2019년 개정세법을 통해 공유경"
+		},
+		{
+			"title":"제주도 <b>숙박<\/b>산업의 수익률을 결정하는 구조적 요인",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=653969101",
+			"description":"Five Forces Model on the Lodging Industry of Jeju Island and Its Profitability Determinants 제주도 <b>숙박<\/b>산업은 고도성장에"
+		},
+		{
+			"title":"<b>숙박<\/b>앱서비스 시장에서의 소비자보호를 위한 제언",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=235836318",
+			"description":"A Proposal for the Consumer Protection in Hotel App. O2O Business Market 최근의 인터넷기술 발전과 휴대폰 등 모바일기"
+		},
+		{
+			"title":"최적화 공유<b>숙박<\/b> APP 서비스 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846728468",
+			"description":"Research on Optimization Service of Sharing Accommodation APP   서비스 디자인, 공유<b>숙박<\/b> APP, 최적화 서비스, Service des"
+		},
+		{
+			"title":"공유<b>숙박<\/b> 서비스의 구조적 요인들이 이용의도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765780275",
+			"description":"The Effects of Structural Factors on Intention-to-Use of Shared Accommodation Services 본 연구는 공유<b>숙박<\/b> 서비스의 주요 "
+		}
+	]
+}

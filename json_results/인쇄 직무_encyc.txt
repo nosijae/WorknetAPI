@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:24 +0900",
+	"total":449,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"도자기<b>인쇄<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029452&cid=42117&categoryId=42117",
+			"description":" 도기류와 자기접시 등에 도안을 <b>인쇄<\/b>하는 기계를 운전·조작한다. [수행<b>직무<\/b>] <b>인쇄<\/b>할 도자기의 종류, 규격, <b>인쇄<\/b>부위, <b>인쇄<\/b>문양 및 도안을 작업지시서와 비교하여 확인한다. <b>인쇄<\/b>기의 작동 여부를 점검한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>물우송원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025930&cid=42117&categoryId=42117",
+			"description":" 신문, 정기간행물, 책자 등 각종 <b>인쇄<\/b>물을 우송·배달한다. [수행<b>직무<\/b>] <b>인쇄<\/b>물을 손이나 포장기를 사용하여 일정 수량씩 모은다. 발송처가 쓰인 종이를 올려놓고 포장한다. 포장된 <b>인쇄<\/b>물의 포장지에 주소를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기타<b>인쇄<\/b>물<b>인쇄<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029230&cid=42117&categoryId=42117",
+			"description":" 안내장, 명함, 스티커 및 기타 <b>인쇄<\/b>물을 <b>인쇄<\/b>·제작하기 위하여 장식이나 문구를 도안하고 자동<b>인쇄<\/b>기를 조작한다. [수행<b>직무<\/b>] 고객과 <b>인쇄<\/b>물의 디자인을 상의하거나 미리 준비된 디자인 중에서 선택한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"오프셋<b>인쇄<\/b>기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029244&cid=42117&categoryId=42117",
+			"description":" 문자, 그림, 표 등을 책자, 신문, 상업<b>인쇄<\/b>물, 포장<b>인쇄<\/b>물과 같은 <b>인쇄<\/b>물로 제작하기 위하여 오프셋<b>인쇄<\/b>기를 조작한다. [수행<b>직무<\/b>] <b>인쇄<\/b>판을 <b>인쇄<\/b>기의 실린더에 걸고, 배합잉크를 잉크통에 투입한다. 수동 휠을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054097&cid=42114&categoryId=42114",
+			"description":"자격종목은 ‘<b>인쇄<\/b>기능사’ 자격으로 통합되어 시행되고 있다. (2) 주요 업무 ① <b>인쇄<\/b>기능사는 서적, 광고지, 특수피<b>인쇄<\/b>체 등의 <b>인쇄<\/b>물을 제작하는 <b>직무<\/b>를 담당한다. ② 잉크, 피<b>인쇄<\/b>체, <b>인쇄<\/b>",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20181116121836392_K6C3ZYBWK.jpg\/da6_511_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>인쇄<\/b>교정기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029248&cid=42117&categoryId=42117",
+			"description":" <b>인쇄<\/b>의 여부를 최종 결정하기 위해 소부된 <b>인쇄<\/b>판을 시쇄하여 확인하는 교정기를 조작한다. [수행<b>직무<\/b>] 교정 <b>인쇄<\/b>할 판을 접수하고 대장에 기재한다. 교정기에 소부판을 끼우고 세척한다. <b>인쇄<\/b>판이 끼워진... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>물우송관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024816&cid=42117&categoryId=42117",
+			"description":" 신문, 정기간행물, 책자 등 각종 <b>인쇄<\/b>물을 우송하거나 배달하기 위한 제반 업무를 수행하는 작업원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 각종 <b>인쇄<\/b>물을 배달 및 우송하기 위한 세부작업계획과 목록을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>기계정비원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=4394792&cid=42117&categoryId=42117",
+			"description":" 서적·신문 및 각종 <b>인쇄<\/b>물을 <b>인쇄<\/b>하는 자동 및 반자동 <b>인쇄<\/b>기를 검사하고 이상이 있으면 수리한다. [수행<b>직무<\/b>] 가동 중인 <b>인쇄<\/b>기의 작동상태와 <b>인쇄<\/b>상태를 점검하고 필요한 조정을 한다. 일정한 주기로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"실크<b>인쇄<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029243&cid=42117&categoryId=42117",
+			"description":" 플라스틱 제품에 회사명, 제품명 등을 <b>인쇄<\/b>하기 위하여 실크<b>인쇄<\/b>틀을 교정한 후 <b>인쇄<\/b>기를 조작·관리한다. [수행<b>직무<\/b>] 성형이 완료된 제품을 작업장소로 운반한다. <b>인쇄<\/b>에 필요한 잉크 및 실크<b>인쇄<\/b>틀을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>영업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658413&cid=42117&categoryId=42117",
+			"description":" 고객에게 <b>인쇄<\/b> 및 출판에 관한 정보를 제공하고 주문을 받는 등 판촉 및 영업활동을 한다. [수행<b>직무<\/b>] 고객을 방문하여 <b>인쇄<\/b>범위, <b>인쇄<\/b> 및 제책가격, 출판물의 종류 등 <b>인쇄<\/b>·출판에 관한 정보를 제공한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스크린<b>인쇄<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029241&cid=42117&categoryId=42117",
+			"description":" 제조된 스크린 틀을 이용하여 종이, 금속, 직물 및 기타 합성수지 제품에 도안이나 문자를 <b>인쇄<\/b>한다. [수행<b>직무<\/b>] 일정 규격의 천(Silk)에 유제를 도포한다. 유기용제로 처리된 천을 건조시킨다. <b>인쇄<\/b>할 내용이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054098&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>인쇄<\/b>기사 ① <b>인쇄<\/b>기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>인쇄<\/b>기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>인쇄<\/b>기사 자격은 최근 <b>인쇄<\/b>수준이 향상되고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20210622161938530_IPPT6XBYW.jpg\/da6_512_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"점역도서<b>인쇄<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029254&cid=42117&categoryId=42117",
+			"description":" 점자로 번역된 점역문서를 <b>인쇄<\/b>·제책·발송한다. [수행<b>직무<\/b>] 점역사가 송부한 컴퓨터 파일의 문자, 그림, 수식 등을 확인하여 관련 컴퓨터로 읽어 들인다. 프린터 용지를 프린터에 공급하고 점자에 손상이 가지... ",
+			"thumbnail":""
+		},
+		{
+			"title":"광디스크<b>인쇄<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029228&cid=42117&categoryId=42117",
+			"description":" 복제가 완료된 광디스크의 표면에 <b>인쇄<\/b>기를 사용하여 각종 이미지를 <b>인쇄<\/b>한다. [수행<b>직무<\/b>] 작업지시서를 보고 <b>인쇄<\/b>할 광디스크의 품목과 수량을 확인한다. 투명한 광디스크(CD, DVD)에 <b>인쇄<\/b>가 가능하도록... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>잉크배합원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029251&cid=42117&categoryId=42117",
+			"description":" 원하는 색상, 문양 등을 <b>인쇄<\/b>물에 재현하고 <b>인쇄<\/b>의 질을 향상시키기 위하여 <b>인쇄<\/b>잉크와 용제를 배합하여 조색한다. [수행<b>직무<\/b>] 생산계획에 따른 작업지시 사항을 확인한다. 주문사양에 맞게 배합하기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리<b>인쇄<\/b>장식원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029246&cid=42117&categoryId=42117",
+			"description":" 성형이 완료된 유리기물에 상표, 상품명 및 도안을 <b>인쇄<\/b>하기 위하여 <b>인쇄<\/b>장치를 운전, 조작한다. [수행<b>직무<\/b>] 작업지시서에 따라 <b>인쇄<\/b>로 장식할 유리종류 및 형태, 규격, 도안을 확인한다. 도안스크린, 안료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"활판<b>인쇄<\/b>기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029225&cid=42117&categoryId=42117",
+			"description":" 주조된 활자체를 <b>인쇄<\/b>용 판으로 만들어 <b>인쇄<\/b>하는 <b>인쇄<\/b>기를 조작한다. [수행<b>직무<\/b>] 작업지시서에 의하여 활자를 <b>인쇄<\/b>용 판에 끼워 제작한다. 용지를 정돈하여 적치대에 적치한다. <b>인쇄<\/b>용 판을 <b>인쇄<\/b>기에 <b>인쇄<\/b>할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"특수<b>인쇄<\/b>기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029261&cid=42117&categoryId=42117",
+			"description":" 은행권, 여권, 증권 및 채권 등 각종 특수 <b>인쇄<\/b>물을 <b>인쇄<\/b>하기 위하여 특수 <b>인쇄<\/b>기를 조작한다. [수행<b>직무<\/b>] 작업지시에 의하여 <b>인쇄<\/b>판, 잉크, 용지 및 견본을 준비한다. 용지를 정돈하여 투입구에 적치한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"점자<b>인쇄<\/b>기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029255&cid=42117&categoryId=42117",
+			"description":" 점자로 번역된 문서를 대량으로 <b>인쇄<\/b>하기 위하여 제판하고 <b>인쇄<\/b>한다. [수행<b>직무<\/b>] 점역된 문서를 점자제판기를 조작하여 알루미늄판에 새긴다. 제판된 알루미늄판을 점자교정사에게 의뢰하여 교정을 받는다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문자판실크<b>인쇄<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029233&cid=42117&categoryId=42117",
+			"description":" 명세서에 명시된 모양을 내기 위해 <b>인쇄<\/b>장비를 사용하여 시계의 문자판 표면에 실크<b>인쇄<\/b>를 한다. [수행<b>직무<\/b>] 작업명세서와 도면을 보고 실크<b>인쇄<\/b> 할 문자판의 규격, 형태, 두께 등을 확인한다. 실크<b>인쇄<\/b>기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054099&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① <b>인쇄<\/b>물은 종이를 비롯한 다양한 피<b>인쇄<\/b>체에 화상을 복제하여 지식과 정보를 미적·감각적으로 신속하게, 대량으로, 값싸게 그리고 정확하게 전달, 보존하는 역할을 하는 대중... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203713367_MR4VOIO90.jpg\/da6_513_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"플렉소<b>인쇄<\/b>기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658470&cid=42117&categoryId=42117",
+			"description":" 플렉소 <b>인쇄<\/b>기를 조작하여 각종 <b>인쇄<\/b>물을 <b>인쇄<\/b>한다. [수행<b>직무<\/b>] 작업지시서에 의해 견본에 맞는 고무 볼록판 또는 수지를 준비한다. 플렉소 <b>인쇄<\/b>기의 각 부위(잉크 냄 롤러, 아닐록스 롤러(Anilox Roller), 판통... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>물재단기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029250&cid=42117&categoryId=42117",
+			"description":" <b>인쇄<\/b>가 완료된 <b>인쇄<\/b>물을 재단기를 이용하여 제본규격에 맞게 재단한다. [수행<b>직무<\/b>] 작업지시서의 재단규격에 대한 내용을 확인한다. <b>인쇄<\/b>물의 재단 폭 및 깊이를 맞추기 위하여 재단기의 절단가이드, 칼날... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>기조작원(무늬롤)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029249&cid=42117&categoryId=42117",
+			"description":" 플라스틱 필름이나 시트 등에 다양한 무늬와 색깔을 <b>인쇄<\/b> 또는 압착하는 장비를 조작·관리한다. [수행<b>직무<\/b>] 작업지시서에 따라 호이스트를 사용하여 <b>인쇄<\/b>할 모양의 무늬롤을 <b>인쇄<\/b>기의 샤프트에 걸어 끼운다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"그라비어<b>인쇄<\/b>기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029229&cid=42117&categoryId=42117",
+			"description":" 비닐필름, 지류 등의 <b>인쇄<\/b>원단에 단색 또는 다색을 <b>인쇄<\/b>하기 위하여 그라비어(Gravure)<b>인쇄<\/b>기를 조작한다. [수행<b>직무<\/b>] 작업지시서를 확인하고 <b>인쇄<\/b> 작업에 필요한 각종 사항을 검토한다. <b>인쇄<\/b> 장치, 잉크장치... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>기실린더조각원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664861&cid=42117&categoryId=42117",
+			"description":" 그라비어<b>인쇄<\/b>용 실린더에 필름상태의 <b>인쇄<\/b>내용을 재현시켜 조각하기 위하여 실린더조각기를 조작한다. [수행<b>직무<\/b>] 문자와 그림으로 형성된 필름을 조각기드럼에 적절하게 부착한다. 조각도가 설치된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>기실린더도금원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027081&cid=42117&categoryId=42117",
+			"description":" 그라비어 <b>인쇄<\/b>용 실린더를 조각할 수 있도록 동·니켈·크롬 등으로 철 실린더에 도금한다. [수행<b>직무<\/b>] 도금할 철 실린더의 유지를 제거하기 위하여 유기용제로 세척한다. 전기도금 장치에 세척된 철 실린더를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>기실린더연마원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658632&cid=42117&categoryId=42117",
+			"description":" 동 도금을 마친 그라비어 <b>인쇄<\/b>용 실린더의 면을 균일하게 하기 위하여 연마기계를 사용하여 연마한다. [수행<b>직무<\/b>] 연마할 실린더를 물로 세척한다. 연마기의 원심 사이에 실린더를 고정한다. 실린더 규격에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>회로기판연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953597&cid=42117&categoryId=42117",
+			"description":" 반도체, 콘덴서 등 각종 반도체 부품을 고정하고 회로를 연결하는 기판을 연구·개발한다. [수행<b>직무<\/b>] 도체 및 절연체의 특성을 검토하여 다층회로기판의 회로선폭 및 두께 등을 결정하고 도체와 절연체의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사철기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029237&cid=42117&categoryId=42117",
+			"description":" 낱장으로 취합된 <b>인쇄<\/b>물을 책으로 제조하기 위하여 실로 꿰매거나 중앙부분에 철심을 박는 사철기 및 중철기를 조작한다. [수행<b>직무<\/b>] <b>인쇄<\/b>물의 규격에 따라서 적재판의 크기를 조절한다. 책의 두께와 크기에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"출판물검수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658484&cid=42117&categoryId=42117",
+			"description":" 서적, 신문, 잡지, 안내책자와 같은 출판물의 <b>인쇄<\/b>상태, 제본상태, <b>인쇄<\/b>내용 등을 검사한다. [수행<b>직무<\/b>] <b>인쇄<\/b>물의 제본공정별로 견본을 수집한다. <b>인쇄<\/b>물의 절단상태, 스테이플, 엮음상태, 장합상태 등 외형을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고무판제작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027642&cid=42117&categoryId=42117",
+			"description":" 직물, 포장박스, 목재 및 기타 여러 가지 재료에 도안과 문자를 <b>인쇄<\/b>하는데 사용되는 고무판 또는 합성수지판을 제작한다. [수행<b>직무<\/b>] <b>인쇄<\/b>롤러의 둘레 또는 도안 및 문구의 규격에 맞추어 고무판을 칼로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사진제판원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029267&cid=42117&categoryId=42117",
+			"description":" 문자, 사진 등 원고용 필름을 <b>인쇄<\/b>규격에 맞추어 재단·배열하여 제판용 필름으로 현상한다. [수행<b>직무<\/b>] <b>인쇄<\/b>할 원고 및 필름도안을 준비하고 제작할 제판의 내용과 비교하여 동일하게 규격, 색상, 문안내용을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"금속자원재생원료가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027094&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 폐<b>인쇄<\/b>회로(PCB)기판 등의 금속자원재생원료를 시험분석 결과를 바탕으로 동일 금속함량별로 분류하여 파쇄기에 넣어 적당한 크기로 분쇄한다. 분쇄된 원료를 금속함량별로 보관한다. 납품 시... ",
+			"thumbnail":""
+		},
+		{
+			"title":"폐자재금속자원재생원료시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664702&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 폐<b>인쇄<\/b>회로(PCB)기판, 도금 후폐수 슬러지 등의 원자재를 샘플링한다. 분석할 시료형상과 균일성을 검사한다. 금속의 종류에 따라 분석방법에 적합하도록 전처리한다. 이온화, X선조사, 고온용융... ",
+			"thumbnail":""
+		},
+		{
+			"title":"표지합지원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029263&cid=42117&categoryId=42117",
+			"description":" 한 권의 책으로 완성하기 위하여 성책된 <b>인쇄<\/b>물과 표지를 합지하는 기계를 조작한다. [수행<b>직무<\/b>] 표지와 <b>인쇄<\/b>물을 합지하기 위한 작업내용을 숙지한다. 합지할 규격에 맞게 정확히 <b>인쇄<\/b>물과 표지가 접합될 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장합기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029252&cid=42117&categoryId=42117",
+			"description":" 한 책 분의 쪽수가 순서대로 이어가도록 접지된 각 접장들을 겹쳐 모으는 장합(張合:정합)기를 조작한다. [수행<b>직무<\/b>] 접지된 <b>인쇄<\/b>물을 삽지부에 제책 페이지 순서에 맞추어 적재하도록 장합보조원에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대지기계조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029231&cid=42117&categoryId=42117",
+			"description":" 앨범 또는 수첩용 특수책자의 대지(내지)를 제작하기 위하여 대지기계를 조작한다. [수행<b>직무<\/b>] 대지에 <b>인쇄<\/b>할 문양과 같은 금형을 대지기계에 부착한다. 접착제를 수령하여 통에 투입하고 접착제 이송... ",
+			"thumbnail":""
+		},
+		{
+			"title":"웨이퍼전극형성장비조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028453&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 스크린 표면 <b>인쇄<\/b>를 통해 전 단계에서 전극을 형성하기 위한 작업이 완료된 웨이퍼들을 이동시킨다. 이동이 된 웨이퍼가 담긴 카세트를 장비로 투입한다. 컴퓨터를 조작하여 레이저가 이용이 된 전극... ",
+			"thumbnail":""
+		},
+		{
+			"title":"디지털제판원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029232&cid=42117&categoryId=42117",
+			"description":" 컴퓨터로 작업한 데이터를 <b>인쇄<\/b>판에 출력하는 CTP(Computer To Plate)시스템을 운영한다. [수행<b>직무<\/b>] 컴퓨터 화면상에서 <b>인쇄<\/b>원고를 편집하고 출력기(출력할 파일을 PDF로 변환·출력하여 컬러 등을 보정함)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"편집디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658487&cid=42117&categoryId=42117",
+			"description":" 각종 <b>인쇄<\/b>물의 표지 및 본문을 구성하고 디자인한다. [수행<b>직무<\/b>] 출판하고자 하는 <b>인쇄<\/b>물의 내용 및 고객의 요구를 파악하고 표지 및 본문 구성에 대한 디자인을 구상한다. 책자, 포스터, 브로슈어 등 출판물의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경<b>인쇄<\/b>기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029227&cid=42117&categoryId=42117",
+			"description":" 소량의 부수를 신속하게 <b>인쇄<\/b>하기 위하여 마스터<b>인쇄<\/b>기를 조작한다. [수행<b>직무<\/b>] 편집된 자료를 출판물편집자나 편집디자이너에게 인수받는다. <b>인쇄<\/b>할 내용을 확인하고 편집물을 <b>인쇄<\/b>용 판을 제작하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"접지기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029256&cid=42117&categoryId=42117",
+			"description":" 재단된 <b>인쇄<\/b>물을 페이지 순서로 접어주기 위하여 접지기를 조작한다. [수행<b>직무<\/b>] 작업지시서에 따른 접지 종류 및 고려사항 등의 작업내용을 확인한다. 접지기계 및 종이흡입기, 종이누름기 등의 부속기계가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사진제판반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029236&cid=42117&categoryId=42117",
+			"description":" <b>인쇄<\/b>할 사진 및 원고를 촬영하여 <b>인쇄<\/b>용 판으로 제작하는 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 사진제판에 관련된 기술을 작업자에게 교육한다. 확대경을 사용하여 작업지시서 또는 고객의 주문... ",
+			"thumbnail":""
+		},
+		{
+			"title":"색박기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029238&cid=42117&categoryId=42117",
+			"description":" 가죽, 직물, 종이, 플라스틱 및 여러 재료 위에 문자나 도안을 금, 은, 카본, 청, 적 등의 색상을 입히기 위하여 박프레스기를 조작한다. [수행<b>직무<\/b>] 작업지시서에 따라 <b>인쇄<\/b>할 문양의 금형을 프레스에 고정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문자판전사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029234&cid=42117&categoryId=42117",
+			"description":" <b>인쇄<\/b>장비를 사용하여 시계의 시자, 분 및 초궤도, 회사명을 시계문자판에 새긴다. [수행<b>직무<\/b>] 작업지시서에 따라 전사할 문자판의 규격, 형태, 수량을 확인한다. 전자<b>인쇄<\/b>기, 잉크, 주걱, 문자판 등의 원료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"코팅기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029260&cid=42117&categoryId=42117",
+			"description":" 비닐, 합성수지(PVC) 등의 각종 도포용 필름을 이용하여 <b>인쇄<\/b>물의 표면에 표면광택, 잉크변색방지 및 방습 등의 효과를 내기 위하여 가공하는 코팅기를 조작한다. [수행<b>직무<\/b>] 생산계획에 따라 <b>인쇄<\/b>물에 도포할... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직물상표표시원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029259&cid=42117&categoryId=42117",
+			"description":" 천의 뒷면에 상품명을 <b>인쇄<\/b>하는 기계를 조작한다. [수행<b>직무<\/b>] 천의 유형에 따라 지시된 비율로 혼합통에 <b>인쇄<\/b>용 잉크와 물을 붓는다. 혼합통과 픽업롤러(Pick-up Roller)의 밑에 있는 물통 사이에서 잉크를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소부원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029240&cid=42117&categoryId=42117",
+			"description":" 배열된 원고용 필름을 아연판, 알루미늄판 등의 <b>인쇄<\/b>용 판으로 제작한다. [수행<b>직무<\/b>] 소부할 필름원판을 수령한다. 필름과 부착할 시트를 작업대 위에 겹쳐놓고 네 귀퉁이를 테이프로 고정한다. 필름을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"견출기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029226&cid=42117&categoryId=42117",
+			"description":" 전화메모수첩이나 수첩 등에 ㄱ·ㄴ·ㄷ, 가·나·다, A·B·C 등의 순서에 맞추어 찾아보기 쉽도록 필요 없는 부분을 잘라내는 기계를 조작한다. [수행<b>직무<\/b>] 견출할 수첩이나 전화메모지 등을 수령하여 작업대로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전사기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029253&cid=42117&categoryId=42117",
+			"description":" 문자, 문양 등을 <b>인쇄<\/b>한 전사지(轉寫紙:Transfer-paper)로 도자기, 천, 플라스틱, 금속과 같은 피<b>인쇄<\/b>체에 <b>인쇄<\/b>하는 전사기를 조작한다. [수행<b>직무<\/b>] 작업표에 따라서 전사지 두루마리를 선택하여 릴에 놓는다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신문제작국장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024424&cid=42117&categoryId=42117",
+			"description":" 편집된 신문기사 및 광고를 지면에 <b>인쇄<\/b>하는 작업원들의 활동을 관리·감독한다. [수행<b>직무<\/b>] 신문발행에 따른 제작방침 및 <b>인쇄<\/b>계획을 수립하여 관련 부서에 전달한다. 제작공정에 관한 전반적인 업무사항을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유가증권디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025695&cid=42117&categoryId=42117",
+			"description":" 컴퓨터그래픽을 이용하여 화폐 및 각종 유가증권의 원도를 디자인한다. [수행<b>직무<\/b>] 보안용지설계 및 <b>인쇄<\/b>방법, 위변조방지기법에 대하여 숙지한다. 화폐, 상품권, 수표, 어음 등 각종 유가증권 및 보안<b>인쇄<\/b>물에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"증착기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029371&cid=42117&categoryId=42117",
+			"description":" 종이, 합성수지필름, <b>인쇄<\/b>물과 같은 재료의 표면을 가공하기 위하여 알루미늄 등으로 증착하는 설비를 조작한다. [수행<b>직무<\/b>] 작업지시서의 작업내용을 숙지한다. 작업에 필요한 종이, 합성수지필름, <b>인쇄<\/b>물과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"벽지견본책제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029235&cid=42117&categoryId=42117",
+			"description":" 제조된 벽지의 종류와 규격별로 견본을 채취하여 견본책을 만든다. [수행<b>직무<\/b>] 벽지 보급 및 판매에 사용할 견본책을 만들기 위하여 벽지제품의 규격·무늬·지질별로 견본을 채취한다. 채취된 견본을 일정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유리장식원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029550&cid=42117&categoryId=42117",
+			"description":" 판유리 및 유리컵 등의 유리제품에 도안이나 문양을 새기기 위해 유리장식용 필름 및 유리 장식용 전사지를 부착하거나 실크스크린(Silk Screen)<b>인쇄<\/b>기를 조작하여 유리표면에 <b>인쇄<\/b>한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자동납땜기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028456&cid=42117&categoryId=42117",
+			"description":" <b>인쇄<\/b>회로기판에 삽입된 전자부품을 <b>인쇄<\/b>회로기판에 연결하기 위해 자동으로 납땜하는 기기를 조작한다. [수행<b>직무<\/b>] 일정량의 납괴를 기계의 납조에 집어넣어 전원을 공급하여 용융시킨다. 온도계, 비중계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자삽기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028457&cid=42117&categoryId=42117",
+			"description":" <b>인쇄<\/b>회로기판에 트랜지스터·다이오드·콘덴서 등 전자부품을 자동으로 삽입하는 기계를 조작한다. [수행<b>직무<\/b>] 자재부서로부터 자재를 수령하여 이상 유무를 확인하고 작업지도서·프로그램철·부품목록 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>인쇄<\/b>타발기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029397&cid=42117&categoryId=42117",
+			"description":" 종이컵, 종이접시, 우유팩 등과 같은 각종 지기제조용 블랭크(Blank)를 제조하기 위하여 코팅 처리된 원지를 지시된 규격으로 재단하고 <b>인쇄<\/b>하기 위한 <b>인쇄<\/b>·타발기를 조작한다. [수행<b>직무<\/b>] 기계의 권취기에 롤... ",
+			"thumbnail":""
+		},
+		{
+			"title":"위변조방지기술개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027151&cid=42117&categoryId=42117",
+			"description":" 지폐·유가증권·여권 등의 위·변조 방지를 위한 기술, 물질 및 요소를 개선·개발하기 위한 제반 연구업무를 수행한다. [수행<b>직무<\/b>] 위·변조에 사용되는 칼라복사기, 칼라프린터 등의 기술 및 기기의 동향을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"낙인기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029568&cid=42117&categoryId=42117",
+			"description":" 제작된 고무호스에 회사명, 품명, 상표 등을 <b>인쇄<\/b>하는 낙인기계를 조작한다. [수행<b>직무<\/b>] 완성된 호스 제품을 낙인기 하판에 투입한 후 상판의 덮개를 덮는다. 롤러 등을 이용하여 호스 제품의 먼지를 제거한 후... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이동통신단말보드개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028638&cid=42117&categoryId=42117",
+			"description":" 이동통신 단말제품에 사용되는 회로를 설계하고 <b>인쇄<\/b>회로기판(PCB:Printed Circuit Board)을 개발한다. [수행<b>직무<\/b>] 이동통신 단말제품의 기획의도에 맞는 베이스밴드(Baseband:특정 반송파를 변조하기 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경보기조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028506&cid=42117&categoryId=42117",
+			"description":" 설계도면에 따라 경보용으로 사용되는 <b>인쇄<\/b>회로기판 및 케이스 등의 반조립 부품을 조립한다. [수행<b>직무<\/b>] 작업지시서와 설계도면의 작업내용을 정확히 이해한다. <b>인쇄<\/b>회로기판에 집적회로소자(IC)·트랜지스터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무전기조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028517&cid=42117&categoryId=42117",
+			"description":" 각종 전자부품이 조립된 <b>인쇄<\/b>회로기판을 일정 모양으로 사출·성형된 케이스에 조립한다. [수행<b>직무<\/b>] 회로기판과 전자부품으로 결선·납땜·조립된 부품에 절연재베이스를 부착시킨다. 작업지시서에 따라... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이동통신단말안테나개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028641&cid=42117&categoryId=42117",
+			"description":" 이동통신 단말제품에 사용되는 안테나를 설계하고, 회로설계 및 <b>인쇄<\/b>회로기판(PCB:Printed Circuit Board)을 개발 및 제작한다. [수행<b>직무<\/b>] 이동통신 단말제품의 기획의도에 맞는 RF부품을 선정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"플라즈마영상패널형광체형성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028434&cid=42117&categoryId=42117",
+			"description":" PDP 하판의 격판들 사이에 RGB(red green blue) 형광체를 순서대로 도포하기 위한 형광체<b>인쇄<\/b>기를 조작한다. [수행<b>직무<\/b>] 격벽이 형성된 하판에 형광체를 도포하기 위해 이동시킨다. 연속적인 형광체의 도포를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"플라즈마영상패널유전체생성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028429&cid=42117&categoryId=42117",
+			"description":" 어드레스 전극이 형성된 PDP(Plasma Display Panel) 하판에 유전체를 형성하기 위하여 <b>인쇄<\/b>, 건조, 소성을 반복 수행한다. [수행<b>직무<\/b>] 어드레스 전극이 형성된 글라스에 유전층을 형성하기 위해 이동시킨다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음향기기조정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028565&cid=42117&categoryId=42117",
+			"description":" 음향기기제조 공정 중 조립되어 완성된 제품의 <b>인쇄<\/b>회로기판(PCB)을 성능에 필요한 명세서 내용에 따라 출력전압 및 주파수 등을 조정한다. [수행<b>직무<\/b>] 조립이 완성된 <b>인쇄<\/b>회로기판(PCB:Printed Circuit Board)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"박막트랜지스터러빙기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028439&cid=42117&categoryId=42117",
+			"description":" <b>인쇄<\/b>가 된 배향막 위를 천(Rubbing Cloth)에 의해 일정한 힘과 속도, 방향으로 문질러 골을 만드는 러빙(Rubbing)장치를 조작한다. [수행<b>직무<\/b>] 클린룸에 입장하기 위하여 방진복을 착용한다. 세정과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"편집장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832833&cid=42117&categoryId=42117",
+			"description":" 신문, 잡지, 책 등 각종 출판물을 발간하기 위한 취재·편집 업무를 총괄 관리하고 관련 종사자들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 정치·경제·사회·교육 등 취재 및 편집 분야에 따라 편집계획 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"출판물편집자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832834&cid=42117&categoryId=42117",
+			"description":" 사전, 학습지, 교과서, 단행본, 사보, 잡지 등의 출판물에 수록될 원고를 편집·조정한다. [수행<b>직무<\/b>] 출판물 편집장 및 부서 책임자와 협의한 편집 방침에 따라 잡지취재기자나 작가가 작성한 원고를 검토... ",
+			"thumbnail":""
+		},
+		{
+			"title":"플라즈마영상패널어드레스전극형성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028428&cid=42117&categoryId=42117",
+			"description":" PDP(Plasma Display Panel) 하판에 방전 선택용 어드레스 전극을 <b>인쇄<\/b> 방식으로 형성하기 위한 공정을 수행한다. [수행<b>직무<\/b>] 투명전극(ITO) 막이 없이 바로 어드레스 전극을 형성하도록 글라스를 이동시킨다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"점자교정사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024935&cid=42117&categoryId=42117",
+			"description":" 점자로 출력된 자료나 점자 파일을 원본 자료와 대조하여 오기, 누락, 첨가 등 오류를 수정하고, 한국 점자 규정과 한글맞춤법에 의거하여 교정한다. [수행<b>직무<\/b>] 원본 자료와 점역본을 대조하기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지우개제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027670&cid=42117&categoryId=42117",
+			"description":" 지우개를 제조하기 위하여 원료를 분쇄·압출하고 규격에 맞게 절단하는 일을 한다. [수행<b>직무<\/b>] 가소화(찌는 작업)되어 일정 크기로 잘라진 원료(천연고무, 합성고무, 친환경 재료 등)를 분쇄기에 투입한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전자기판기능검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026313&cid=42117&categoryId=42117",
+			"description":" 영상기기, 음향기기, 사무기기 등 각종 전자제품에 장착되는 전자부품이 조립된 <b>인쇄<\/b>회로기판을 기능검사장비를 이용하여 검사·측정·시험한다. [수행<b>직무<\/b>] 기판기능검사장비에 검사프로그램을 로드(Load)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수삽원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028545&cid=42117&categoryId=42117",
+			"description":" 전자회로기판을 제조하기 위해 집적회로·트랜지스터·고주파코일·저항·콘덴서 등 전자부품을 <b>인쇄<\/b>회로기판에 삽입한다. [수행<b>직무<\/b>] 부품의 리드를 수동공구와 손으로 구부리거나 리드가 구부러진 부품을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"납땜수정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027017&cid=42117&categoryId=42117",
+			"description":" 불합격된 <b>인쇄<\/b>회로 기판에 조립된 전자부품의 선을 절단하거나 납땜이 되지 않은 부위에 납땜을 하고 불량으로 판정된 기판을 모아 작업장소로 이동한다. [수행<b>직무<\/b>] 작업지도표를 보고 공정의 위치를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산업응용기술학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025371&cid=42117&categoryId=42117",
+			"description":" 산업응용기술계열학원에서 수강생들에게 특정교과에 대한 이론과 기술을 강의하고 자격·면허취득에 필요한 전문과목을 지도한다. [수행<b>직무<\/b>] 수강생들에게 기본이론, 재료 및 부품, 작업방법, 절차, 도구... ",
+			"thumbnail":""
+		},
+		{
+			"title":"종이제품시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832688&cid=42117&categoryId=42117",
+			"description":" 품질규격에 맞는 종이제품 생산을 위하여 투입되는 각종 원·부자재, 반제품 및 완성제품을 시험·검사한다. [수행<b>직무<\/b>] 검사품목항목에 따라 시험·검사할 내용을 확인한다. 시험·검사하는 품목 및 방법에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재제조토너카트리지품질시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027604&cid=42117&categoryId=42117",
+			"description":"여러 가지 화상농도(백지종이에 프린트된 부위의 비율)로 <b>인쇄<\/b>물을 출력한다. <b>인쇄<\/b>물에 흰점(<b>인쇄<\/b>되지 않은 부위), 검은점(<b>인쇄<\/b>되지 않아야 할 곳의 점), 고르지 않은 <b>인쇄<\/b>농도(닥터블레이드 손상 시 나타남), 줄... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자동스크린날염기운전원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027960&cid=42117&categoryId=42117",
+			"description":"<b>인쇄<\/b>도수에 따라 소요되는 색상을 파악하고 <b>인쇄<\/b>용 페이스트를 준비한다. 각각의 색상이 지정된 간격으로 날염되도록 스크린의 위치를 조정하는 나사를 돌려 장치한다. 날염용 페이스트의 고르지 못한 흐름을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"음반케이스디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025696&cid=42117&categoryId=42117",
+			"description":"수정되어 완료된 표지 및 케이스 등의 디자인을 <b>인쇄<\/b>필름으로 제작하거나 CTP(Computer To Plate) 출력한다. 제작된 <b>인쇄<\/b>필름을 <b>인쇄<\/b>소에 제공하고 <b>인쇄<\/b>제작을 한다. <b>인쇄<\/b>과정에 나타난 문제점을 <b>인쇄<\/b>소와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"벽지디자이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025690&cid=42117&categoryId=42117",
+			"description":"계절·자사의 <b>인쇄<\/b>능력·기계수준 등을 고려하여 새롭게 만들 벽지를 디자인한다. 견본품을 만들어 품평회를 실시한다. 품평회에서 제안·건의된 내용을 참고하여 견본 책을 수정하거나 변경한다. 제품생산에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"라벨부착기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029571&cid=42117&categoryId=42117",
+			"description":"하고 부착된 라벨을 제거하기 위해서 물이나 유기용제로 씻기도 한다. <b>인쇄<\/b>기능이 있는 라벨부착기계를 사용하는 경우 기계의 제어판에 생산번호, 생산시간 등 <b>인쇄<\/b>할 내용을 입력하고 <b>인쇄<\/b>하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"감시용카메라수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028321&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 케이스의 이상 유무를 확인하고 제작된 <b>인쇄<\/b>회로기판을 검사 지그에 삽입한다. 오실로스코프·패턴지그·테스터기 등을 사용하여 <b>인쇄<\/b>회로기판을 검사하고 잘못된 부분을 수리한다. 카메라에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시계부품도장원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028549&cid=42117&categoryId=42117",
+			"description":"<b>인쇄<\/b>기에 <b>인쇄<\/b>지그와 <b>인쇄<\/b>원판을 설치하여 중심을 맞춘다. <b>인쇄<\/b>원판에 잉크를 칠하고 고무 롤러를 이용하여 <b>인쇄<\/b>침을 부분 도장한다. 문자판을 보호하기 위해 분무기를 사용하여 래커(Lacquer:도료의 하나)로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"캔제품검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029038&cid=42117&categoryId=42117",
+			"description":"근무자, 날짜, 날인 등의 <b>인쇄<\/b>에 사용되는 자동<b>인쇄<\/b>기의 작업진행 상황을 모니터링한다. 매 시간 제품의 중량미달 여부 등을 검사하고 생산량 등을 기록한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"기계포장원(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029566&cid=42117&categoryId=42117",
+			"description":"케이스, 박스, 마분지, 잉크, 라벨과 같은 재료의 과부족 상태를 확인하고 보충한다. 포장이 완료된 포장지에 <b>인쇄<\/b>기로 상품종류, 무게 등을 <b>인쇄<\/b>한다. 포장 완료된 제품 중 샘플을 채취하여 검사를 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"서지학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025259&cid=42117&categoryId=42117",
+			"description":"특정판의 모든 도서를 조사하여 <b>인쇄<\/b>인과 출판인이 처음에 내려고 하였던 이상본의 물리적인 상태를 확정한다. <b>인쇄<\/b>된 문자와 쓰인 물건의 같고 다름을 분석한다. 도서의 작성연대를 파악한다. 도서를 분석하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"벽지제조반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029361&cid=42117&categoryId=42117",
+			"description":"작업에 사용되는 코팅기, 발포기, <b>인쇄<\/b>기, 실크기, 합지기 등의 설비를 점검하고 유지·관리한다. 표준작업명세에 따라 지시된 작업이 이루어지는지 작업원과 함께 작업하며 작업상황을 관찰하고 작업내용을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"문자판조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028519&cid=42117&categoryId=42117",
+			"description":"문자판에 숫자 또는 숫자표시를 접착제를 사용하여 부착한다. 문자판에 무늬·숫자·회사명을 <b>인쇄<\/b>하기도 한다. 문자판의 오염, 긁힌 자국, <b>인쇄<\/b>된 무늬의 상태 및 치수 등이 명세서와 일치하는가를 확인한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"유선전화기조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028561&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 각종 부품이 삽입되고 납땜되어진 <b>인쇄<\/b>회로기판을 단말기의 케이스에 조립하고 기타 부분품들을 공구를 사용하여 조립한다. 자동삽입기에 의해 삽입되지 못하는 부품소자를 <b>인쇄<\/b>회로기판에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"궐련제조기조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029056&cid=42117&categoryId=42117",
+			"description":"일정량의 담배가 제조되면 컨베이어에 포장담배박스를 적재하고 수시로 접착제, <b>인쇄<\/b>잉크의 충전량을 확인한다. 작업이 완료되면 각초의 투입량, 필터 및 팁페이퍼의 사용량, 접착제, <b>인쇄<\/b>잉크의 소모량 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"플라즈마영상패널투명유전극생성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028432&cid=42117&categoryId=42117",
+			"description":"투명유전층을 형성하기 위하여 <b>인쇄<\/b>를 여러 번 반복하거나 슬릿코터를 이용하여 한 번에 코팅을 하는 방법 등을 사용한다. 글라스 페이스트를 <b>인쇄<\/b>장비에 투입하고 컴퓨터를 조작하여 <b>인쇄<\/b>한다. <b>인쇄<\/b>한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"플라즈마영상패널버스전극형성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028426&cid=42117&categoryId=42117",
+			"description":"BUS전극을 형성하기 위하여 감광성 은(Ag) 페이스트를 재료로 페이스트 <b>인쇄<\/b>를 하기 위한 준비를 한다. <b>인쇄<\/b>기를 조작하여 먼저 흑색 페이스트를 <b>인쇄<\/b>하고 건조기로 건조한 다음, <b>인쇄<\/b>기를 조작하여 은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"점역사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024920&cid=42117&categoryId=42117",
+			"description":"점역교정사에게 의뢰하여 한국 점자 규정에 맞게 교정하도록 한다. 교정을 마친 자료는 <b>인쇄<\/b>를 위해 점자<b>인쇄<\/b>원에게 전달한다. 그림, 지도, 그래프 등은 시각장애인이 이해할 수 있도록 글로 풀이해 설명한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"안경테조립원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029587&cid=42117&categoryId=42117",
+			"description":"수출물량의 경우 안경테를 보호하기 위하여 도수 없는 렌즈를 안경테에 끼워 넣는다. <b>인쇄<\/b>기를 사용하여 안경다리 팁 위에 업체명, 제품번호 등의 문구를 <b>인쇄<\/b>하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"콘덴서가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953570&cid=42117&categoryId=42117",
+			"description":"실크스크린 <b>인쇄<\/b>장비를 사용하여 전극재료를 조각 위에 도포한다. <b>인쇄<\/b>된 조각을 순서대로 쌓거나 적층하기 위해서 적층프레스를 사용하여 압착시킨다. 자동절단기를 사용하여 적층물을 작은 조각(Chip)으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027748&cid=42117&categoryId=42117",
+			"description":"몸체에 드릴로 밸브구멍을 뚫는다. 접착력과 외관을 향상시키기 위해 공기주입기와 주형을 사용하여 다림질한다. 실크<b>인쇄<\/b>기·고주파<b>인쇄<\/b>기·분무기 등을 사용하여 공에 전사무늬를 넣거나 상표를 붙인다.",
+			"thumbnail":""
+		},
+		{
+			"title":"도선사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024862&cid=42117&categoryId=42117",
+			"description":"거리 및 시간, 톤수에 따른 도선선료를 컴퓨터상으로 계산된 결과를 <b>인쇄<\/b>하여 각 선사대리점에 요금을 청구한다. 청구내역에 따라 수금하고 수금한다. 일정기간 동안의 도선실적을 입력하여 도선사에게... ",
+			"thumbnail":""
+		}
+	]
+}

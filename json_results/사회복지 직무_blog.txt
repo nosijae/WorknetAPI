@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:27 +0900",
+	"total":66394,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"2022년 2학기 입시안내 : <b>사회복지<\/b>학과 <b>사회복지<\/b>사 <b>직무<\/b>와... ",
+			"link":"https:\/\/blog.naver.com\/kcublog?Redirect=Log&logNo=222756533329",
+			"description":"등 <b>사회<\/b>적\/개인적인 문제를 겪는 사람들에게 도움을 주는 역할을 하며 사무 행정, <b>사회복지<\/b> 관련 프로그램 구축 및 실행, <b>복지<\/b> 대상자 관리 및 상담, 자원봉사지 및 후원관리 등의 세부적인 업무를 수행하게... ",
+			"bloggername":"숭실사이버대학교 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kcublog",
+			"postdate":"20220608"
+		},
+		{
+			"title":"대체인력 기초<b>직무<\/b>훈련(<b>사회복지<\/b>과정) - 상담,기타서비스",
+			"link":"https:\/\/blog.naver.com\/womancenter?Redirect=Log&logNo=222406549427",
+			"description":"대체인력 기초<b>직무<\/b>훈련(<b>사회복지<\/b>과정) [동래여성인력개발센터] 상담, 기타서비스 동래여성인력개발센터 http:\/\/www.womancenter.or.kr\/ 교육기간 2021-06-28 ~ 2021-07-09 (10일\/40시간) 요일\/시간 매주 월,화,수,목,금... ",
+			"bloggername":"동래여성인력개발센터 여성취업의 출발지",
+			"bloggerlink":"https:\/\/blog.naver.com\/womancenter",
+			"postdate":"20210622"
+		},
+		{
+			"title":"2022 <b>사회복지<\/b>시설 <b>직무<\/b>교육 강의&lt;상담자자세와 기법&gt;",
+			"link":"https:\/\/blog.naver.com\/ksilver94?Redirect=Log&logNo=222767460283",
+			"description":"마포구 보사노인<b>복지<\/b>센터 직원 <b>직무<\/b>교육 <b>사회복지<\/b>현장에서의 상담자의 자세와 기법에 대해 알아보고, 사례회의도 수퍼비전도 함께 진행하였다. 공감을 넘어서 상담자는 수인을 할 수 있어야 한다. 수용하고... ",
+			"bloggername":"더배움클래스",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksilver94",
+			"postdate":"20220610"
+		},
+		{
+			"title":"<b>사회복지<\/b>사 역할과 업무 <b>직무<\/b>정보가 필요하다면?",
+			"link":"https:\/\/blog.naver.com\/qweyy1010?Redirect=Log&logNo=222820807663",
+			"description":"▼ <b>사회복지<\/b>사 역할과 업무 <b>직무<\/b>정보가 필요하다면? 뿐만 아니라 <b>사회복지<\/b>사 역할은 학교에서도 필요한데요! 교육부에서 주관하고 있는 교육<b>복지<\/b>우선지원사업을 진행하기도 하구요! 교육<b>복지<\/b>사, 지역<b>사회<\/b>교육... ",
+			"bloggername":"학은모-학점은행제 전문카페 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/qweyy1010",
+			"postdate":"20220722"
+		},
+		{
+			"title":"요양병원 <b>직무<\/b>교육 강사양성 파견 <b>사회복지<\/b> 간호 CS서비스 파트",
+			"link":"https:\/\/blog.naver.com\/4134jjh?Redirect=Log&logNo=222286786640",
+			"description":"이 과정 마치고 나면 #CS서비스강사자격증 도 드리니 완전 땡 잡은거지요 &lt;3 27(토)&gt; 서울 과정 자세히 안내해드리겠습니다 #강사파견의무화 #<b>직무<\/b>교육강사양성과정 안내합니다 #<b>사회복지<\/b>사 #간호(조무)사... ",
+			"bloggername":"힐링건강행복소통교육전문 강사양성과파견01094314134",
+			"bloggerlink":"https:\/\/blog.naver.com\/4134jjh",
+			"postdate":"20210325"
+		},
+		{
+			"title":"<b>사회복지<\/b>행정론 - <b>직무<\/b>소진과 딜레마",
+			"link":"https:\/\/blog.naver.com\/hs10138?Redirect=Log&logNo=222744576336",
+			"description":"지역<b>사회<\/b> 안에서 여성의 리더십을 인정받을 수 있는가? <b>직무<\/b> 관련 딜레마에 대한 <b>사회복지<\/b>사의 반응... 정부의 신자유주의 정책으로 <b>복지<\/b>지출이 줄어들고 있다고 한다. 이럴수록 <b>사회복지<\/b>사의 역할이 더욱이... ",
+			"bloggername":"준영임의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hs10138",
+			"postdate":"20220524"
+		},
+		{
+			"title":"우울과 <b>직무<\/b>스트레스에 미치는 영향[<b>사회<\/b>적지지조절효과]",
+			"link":"https:\/\/blog.naver.com\/k4553341?Redirect=Log&logNo=222779534322",
+			"description":"강점 : 정신보건<b>사회복지<\/b>사의 감정노동과 우울, <b>직무<\/b>스트레스 간의 관계에서 <b>사회<\/b>적 지지의 조절효과를 확인하였다는 점에서 의의가 있다. 9.약점: 첫째, 정신보건<b>사회복지<\/b>사가 인식하는 감정노동의 수준을... ",
+			"bloggername":"대전 경산노인주간보호센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/k4553341",
+			"postdate":"20220619"
+		},
+		{
+			"title":"수원시 권선구, <b>사회복지<\/b>공무원 <b>직무<\/b>능력 향상 위한 1:1 눈높이... ",
+			"link":"https:\/\/blog.naver.com\/ksunfamily?Redirect=Log&logNo=222641884735",
+			"description":"수원시 권선구, <b>사회복지<\/b>공무원 <b>직무<\/b>능력 향상 위한 1:1 눈높이 교육 실시 수원시 권선구(구청장 이귀만)는 1월 정기인사 이동으로 인한 업무공백을 최소화하고자 지난 8일 <b>사회<\/b>보장급여 통합조사 및 관리를... ",
+			"bloggername":"사람 사는 권선, 행복 e야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksunfamily",
+			"postdate":"20220208"
+		},
+		{
+			"title":"<b>직무<\/b>교육 이미지메이킹 아동학대예방교육 청솔종합<b>사회복지<\/b>관",
+			"link":"https:\/\/blog.naver.com\/kiskis9663?Redirect=Log&logNo=222358869803",
+			"description":"청솔종합<b>사회복지<\/b>관 노인일자리 사업 <b>직무<\/b>교육으로 10시~12시 이미지메이킹 13시~15시 아동학대 예방교육 15~17시 이미지메이킹 이라는 주제로 10시부터 5시까지 풀강의를 했답니다 <b>사회<\/b>적 거리두기로 인하여... ",
+			"bloggername":"웃음,율동,감성을 디자인하는 김인숙강사의 힐링타임",
+			"bloggerlink":"https:\/\/blog.naver.com\/kiskis9663",
+			"postdate":"20210520"
+		},
+		{
+			"title":"NPONews 38번째[<b>사회복지<\/b>사의 <b>직무<\/b>교육 만족도와... ",
+			"link":"https:\/\/blog.naver.com\/visionejej?Redirect=Log&logNo=222724852383",
+			"description":"제목: <b>사회복지<\/b>사의 <b>직무<\/b>교육 만족도와 임파워먼트가 조직몰입에 미치는 영향 강사: 박영복 시인(작가.... 고령화 시대에 <b>복지<\/b>국가 되기 위해서라도 학교에서는 교육 자체를 좀 더 전문성 있게 교육했으면... ",
+			"bloggername":"기대 앤j 의 운동과 독서 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/visionejej",
+			"postdate":"20220508"
+		},
+		{
+			"title":"<b>사회복지<\/b>사 <b>직무<\/b>와 종류 살펴보기!",
+			"link":"https:\/\/blog.naver.com\/hanpro2676?Redirect=Log&logNo=222679667666",
+			"description":"등 <b>사회<\/b>적\/개인적인 문제를 겪는 사람들에게 도움을 주는 역할을 합니다. 사무 행정 관련 일부터... 일반적인 <b>복지<\/b> 시설이나 학교, 병원에서 <b>사회복지<\/b> 관련 <b>직무<\/b>는 갈수록 T.O가 늘어나고 있습니다. 따로 정년이... ",
+			"bloggername":"김연어의 학습바다",
+			"bloggerlink":"https:\/\/blog.naver.com\/hanpro2676",
+			"postdate":"20220322"
+		},
+		{
+			"title":"<b>사회복지 직무<\/b>수행과... 대해 사회복지조직 관리자의 역할에... ",
+			"link":"https:\/\/blog.naver.com\/instezjnngb021?Redirect=Log&logNo=222710835184",
+			"description":"대해 사회복지조직 관리자의 역할에 대하여 3가지 <b>사회복지 직무<\/b>수행과 관련하여 소진의 3가지... 한국 사회에서 연간 시험의 무게가 다시 한 번 강조됐다.서울행정법원은 지난 10일 대학수학능력시험... ",
+			"bloggername":"instezjnngb021님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/instezjnngb021",
+			"postdate":"20220425"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 연혁 및 <b>직무<\/b>내용과 <b>직무<\/b>수행에서의... ",
+			"link":"https:\/\/blog.naver.com\/mj0147won?Redirect=Log&logNo=222609562254",
+			"description":"발굴·연계 • <b>복지<\/b>·고용·교육·문화 등 주민생활지원서비스 제공 그러나 <b>사회복지<\/b>전담공무원의 <b>직무<\/b> 수행과 관련하여 제기되는 문제점은 첫째, 공공부조업무, <b>사회<\/b>서비스 바우처 사업, 주민생활지원... ",
+			"bloggername":"juju가 사는 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/mj0147won",
+			"postdate":"20211231"
+		},
+		{
+			"title":"안성시, <b>사회복지<\/b> 담당공무원 역량 강화 <b>직무<\/b>교육",
+			"link":"https:\/\/blog.naver.com\/kbc5995?Redirect=Log&logNo=222710095002",
+			"description":"대상으로 <b>사회복지<\/b>업무 역량 강화를 위한 <b>직무<\/b>교육을 실시했다. 이날 교육에서는 오는 6월에 도입될 새로운 <b>사회<\/b>보장 정보시스템의 개선된 기능과 변화된 내용 및 국민기초생활보장제도의 부양의무자 완화에... ",
+			"bloggername":"서울일보\/뉴스타운\/수도일보\/시사통신\/도민일보",
+			"bloggerlink":"https:\/\/blog.naver.com\/kbc5995",
+			"postdate":"20220424"
+		},
+		{
+			"title":"노인<b>복지<\/b>관 <b>사회복지<\/b>사가 하는일-#3- <b>직무<\/b>교육받기",
+			"link":"https:\/\/blog.naver.com\/vidia9?Redirect=Log&logNo=222701951136",
+			"description":"오늘은 30명의 <b>사회복지<\/b>사가 <b>직무<\/b>교육을 받을 예정이다. 제주도에서 오신 분, 강릉에서 오신 분... 열심히 공부한 흔적 근처 식당과 카페도 참고하라고 프린트물을 주는 센스 있는 독거노인 종합지원센터 <b>복지<\/b>... ",
+			"bloggername":"블로그로 인생2막",
+			"bloggerlink":"https:\/\/blog.naver.com\/vidia9",
+			"postdate":"20220415"
+		},
+		{
+			"title":"노인학대 법정의무교육 <b>사회복지 직무<\/b>교육 박정웅강사",
+			"link":"https:\/\/blog.naver.com\/opensos55?Redirect=Log&logNo=222273203465",
+			"description":"자기방임 사회적으로 약자라 분류되는 어린 아이들과 노년층을 보호하는 것은 당연한 일이라 하겠습니다. 요양보호사 노인 인권 노인학대 법정의무교육 <b>사회복지 직무<\/b>교육 박정웅강사 요양보호사 노인 인권... ",
+			"bloggername":"열린감정코칭연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/opensos55",
+			"postdate":"20210312"
+		},
+		{
+			"title":"양산부산대병원 NCS 기반 <b>직무<\/b>설명서 : <b>사회복지<\/b>사",
+			"link":"https:\/\/blog.naver.com\/ricefield?Redirect=Log&logNo=222747875475",
+			"description":"보건의료-<b>복지<\/b> 관련 사업수행 <b>직무<\/b>수행 내용 ○(심리·<b>사회<\/b>적 문제해결) 심리<b>사회<\/b>적 문제의 원인 조사... <b>사회복지<\/b>사 #의료<b>사회복지<\/b>사 #<b>사회복지<\/b> #<b>사회복지<\/b>면담 #공공<b>복지<\/b> #채용 #NCS #채용 #<b>직무<\/b>기술서",
+			"bloggername":"커리어 마라톤",
+			"bloggerlink":"https:\/\/blog.naver.com\/ricefield",
+			"postdate":"20220526"
+		},
+		{
+			"title":"다운<b>복지<\/b>관\/다운증후군 서울시 <b>사회복지<\/b>기금 서비스<b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/downwelfare?Redirect=Log&logNo=222154217728",
+			"description":"이였습니다 #다운<b>복지<\/b>관 #다운증후군 #직업지원 #<b>사회복지<\/b>기금 #공모사업 #인재양성과정 #서비스<b>직무<\/b> #바리스타2급 #카페음료기초반 #제과제빵훈련 #조립포장훈련 #카페실전운영반 글쓴이 : 직업지원팀... ",
+			"bloggername":"다운과 함께 누리는 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/downwelfare",
+			"postdate":"20201125"
+		},
+		{
+			"title":"[<b>사회복<\/b>무요원 사이버교육 : 기본<b>직무<\/b>교육 <b>사회복지<\/b>과정]",
+			"link":"https:\/\/blog.naver.com\/jo-mg1215?Redirect=Log&logNo=222045599818",
+			"description":"'라는 생각과 당황스럽더라고요 알고보니 <b>사회복<\/b>무요원 중 <b>사회복지<\/b> 시설에서 근무하는 분들은 <b>직무<\/b>교... 1년 안에는 기본<b>직무<\/b>교육, 1년 후에는 심화<b>직무<\/b>교육을 나뉘는데요. 원래는 한국보건<b>복지<\/b>인력개발원... ",
+			"bloggername":"글쓰는 조새의 끄적이는 공간",
+			"bloggerlink":"https:\/\/blog.naver.com\/jo-mg1215",
+			"postdate":"20200730"
+		},
+		{
+			"title":"학교<b>사회복지<\/b>사의 역할과 기능 및 학교<b>사회복지<\/b>사의 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/eoteg71357?Redirect=Log&logNo=222824351083",
+			"description":"학교<b>사회복지<\/b>사의 역할과 기능 및 학교<b>사회복지<\/b>사의 <b>직무<\/b>  레포트 참고자료 받으러가기  가입 시... 지역<b>사회<\/b>가 수행하는 노력을 조정하고 영향을 미치는 활동이다. 프리만은 학교<b>사회복지<\/b>사가 교육제도의... ",
+			"bloggername":"eoteg71357님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/eoteg71357",
+			"postdate":"20220722"
+		},
+		{
+			"title":"서울시 <b>복지<\/b>직 공무원의 <b>직무<\/b> 전문성 강화! <b>사회복지<\/b> 보수교육... ",
+			"link":"https:\/\/blog.naver.com\/swf1004?Redirect=Log&logNo=222594212392",
+			"description":"서울시와 서울<b>복지<\/b>교육센터에서는 서울시 <b>복지<\/b>직 공무원의 <b>직무<\/b> 전문성 강화를 위해서 <b>사회복지<\/b> 보수교육을 공공부문으로 확대했습니다. 어떤 부분에서 확대되었는지 함께 확인해볼까요? 서울시 <b>복지<\/b>직... ",
+			"bloggername":"서울시복지재단 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/swf1004",
+			"postdate":"20211213"
+		},
+		{
+			"title":"2022년 안성시<b>사회복지<\/b>협의회 <b>사회복지<\/b>종사자<b>직무<\/b>교육... ",
+			"link":"https:\/\/blog.naver.com\/sw6757676?Redirect=Log&logNo=222801078712",
+			"description":"관리되는 <b>사회복지<\/b>현장이 되었으면 좋겠고, 장애인, 비장애인 모두에게 좋은 <b>사회<\/b>가 되었으면 좋겠다고... 종사자들의 <b>직무<\/b>역량 강화를 지원하기 위해 다양한 주제의 <b>사회복지<\/b>종사자 <b>직무<\/b>교육을 진행하고 있다.",
+			"bloggername":"안성시사회복지협의회님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sw6757676",
+			"postdate":"20220705"
+		},
+		{
+			"title":"의료<b>사회복지<\/b>실천의 역할 및 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/ploolp6806?Redirect=Log&logNo=222751216215",
+			"description":"※ 미국의료<b>사회복지<\/b>사 협회 표준의료<b>사회복지<\/b>서비스 ※ 미국<b>사회복지<\/b>사협회가 의료<b>사회복지<\/b>사에게 기대하는 4가지 기능 ※ 우리나라의 경우 의료<b>사회복지<\/b>사의 주요 <b>직무<\/b>는 의료환경의 변화와 <b>사회<\/b>적... ",
+			"bloggername":"한 걸음(one step at a step)",
+			"bloggerlink":"https:\/\/blog.naver.com\/ploolp6806",
+			"postdate":"20220529"
+		},
+		{
+			"title":"<b>사회복지<\/b>행정에 있어서... 설명하고, <b>직무<\/b>연구와 <b>직무<\/b>관리... ",
+			"link":"https:\/\/blog.naver.com\/virtue14784?Redirect=Log&logNo=222739807517",
+			"description":"<b>직무<\/b>연구와 <b>직무<\/b>관리 영역에서 특별히 중요하다고 생각되는 단계에 대해 &gt;&gt; 레포트, 토론 자료 문의 &lt;&lt; &gt;&gt; 레포트, 토론 자료 문의 &lt;&lt; 통상 <b>사회복지<\/b>정책은 <b>복지<\/b><b>사회<\/b> 지향을 위한 국가의 기본 정책이라고 할 수... ",
+			"bloggername":"virtue14784님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/virtue14784",
+			"postdate":"20220520"
+		},
+		{
+			"title":"[취업] <b>사회복지<\/b> 임기제 공무원 자소서 및 <b>직무<\/b>수행계획서 첨삭... ",
+			"link":"https:\/\/blog.naver.com\/jw811p?Redirect=Log&logNo=222639764403",
+			"description":"사회복지 임기제 공무원에 응시하시는 지원자에게 직무수행계획서 첨삭 문의가 왔습니다. 지원자는 현재 <b>사회복지 직무<\/b>수행계획서 초안이 없는 상태로 5매 이내의 분량을 작성해야 했습니다. 설 연휴가 걸린... ",
+			"bloggername":"일상취업연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/jw811p",
+			"postdate":"20220205"
+		},
+		{
+			"title":"<b>사회복지<\/b>기관에서 <b>직무<\/b>수행상 문제점과 처리",
+			"link":"https:\/\/blog.naver.com\/mj0147won?Redirect=Log&logNo=222695436055",
+			"description":"<b>사회복지<\/b>기관에서 <b>직무<\/b>수행상 문제점과 처리 <b>사회복지<\/b>기관의 직원들은 자신에게 부여된 <b>직무<\/b>를 수행하면서 여러 가지 문제에 직면한다. 이를 <b>직무<\/b>수행상의 문제점(employee performance problems)이라고 한다.... ",
+			"bloggername":"juju가 사는 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/mj0147won",
+			"postdate":"20220408"
+		},
+		{
+			"title":"<b>사회복지<\/b>법인 감사의 선임 및 <b>직무<\/b>범위",
+			"link":"https:\/\/blog.naver.com\/goodwinner75?Redirect=Log&logNo=222515177983",
+			"description":"<b>사회복지<\/b>사업법상 <b>사회복지<\/b>법인의 감사는 법인의 재산이나 업무집행상태의 적정여부를 조사... 이<b>사회<\/b>에 보고하는 일(행정기관의 직권조사 가능사항). 2. 대외적 업무 - 법인의 <b>직무<\/b>, 재산상황 감사 결과, 위법... ",
+			"bloggername":"비영리법인전문 바른행정사 [010-2765-5410]",
+			"bloggerlink":"https:\/\/blog.naver.com\/goodwinner75",
+			"postdate":"20210925"
+		},
+		{
+			"title":"<b>사회복지<\/b>행정에 있어서... 설명하고, <b>직무<\/b>연구와 <b>직무<\/b>관리... ",
+			"link":"https:\/\/blog.naver.com\/vgktw24566?Redirect=Log&logNo=222753957751",
+			"description":"<b>사회복지<\/b>행정에 있어서 인적자원관리의 특징에 대해 설명하고, <b>직무<\/b>연구와 <b>직무<\/b>관리 영역에서 특별히 중요하다고 생각되는 단계에 대해 자신의 생각 <b>사회복지<\/b>행정에 있어서 인적자원관리의 특징에 대해... ",
+			"bloggername":"vgktw24566님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/vgktw24566",
+			"postdate":"20220531"
+		},
+		{
+			"title":"<b>사회복지<\/b>행정에 있어서... 설명하고, <b>직무<\/b>연구와 <b>직무<\/b>관리... ",
+			"link":"https:\/\/blog.naver.com\/whdalsdl4159?Redirect=Log&logNo=222765223636",
+			"description":"<b>사회복지<\/b>행정에 있어서 인적자원관리의 특징에 대해 설명하고, <b>직무<\/b>연구와 <b>직무<\/b>관리 영역에서 특별히 중요하닥 생각되는 단계에 대해 자신의 생각을 논하시오 본문 내용 현대<b>사회<\/b>의 급속한 진화와 다양한... ",
+			"bloggername":"whdalsdl4159님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/whdalsdl4159",
+			"postdate":"20220608"
+		},
+		{
+			"title":"노인일자리 아동학대예방 <b>직무<\/b>교육 청솔종합<b>사회복지<\/b>관",
+			"link":"https:\/\/blog.naver.com\/kiskis9663?Redirect=Log&logNo=222190072190",
+			"description":"아동 돌보기 노인일자리 사업을 하고 계시는 어르신들을 위한 아동학대예방 <b>직무<\/b>교육을 위해 청솔종합<b>사회복지<\/b>관 다녀 왔답니다 이 포스팅은 <b>사회<\/b>적 거리두기 격상 전의 강의임을 알려 드립니다 코로나 19이후... ",
+			"bloggername":"웃음,율동,감성을 디자인하는 김인숙강사의 힐링타임",
+			"bloggerlink":"https:\/\/blog.naver.com\/kiskis9663",
+			"postdate":"20201230"
+		},
+		{
+			"title":"2022년 1차 <b>사회복지<\/b>자원봉사 (온라인) <b>직무<\/b>능력향상교육... ",
+			"link":"https:\/\/blog.naver.com\/fpsk1202?Redirect=Log&logNo=222650067271",
+			"description":"board_seq=1301779 첨부파일 [공문] 2022년 <b>사회복지<\/b>자원봉사 <b>직무<\/b>능력향상교육(1차) 안내.pdf 파일 다운로드 첨부파일 [붙임] 2022년 1차 <b>사회복지<\/b>자원봉사 <b>직무<\/b>능력향상교육 안내.hwp 파일 다운로드... ",
+			"bloggername":"항즉기(항상♡즉시♡기쁘게♡)",
+			"bloggerlink":"https:\/\/blog.naver.com\/fpsk1202",
+			"postdate":"20220217"
+		},
+		{
+			"title":"<b>사회복지<\/b> 전담공무원의 도입배경과 목적 및 <b>직무<\/b>범위",
+			"link":"https:\/\/blog.naver.com\/ionill1712?Redirect=Log&logNo=222829229195",
+			"description":"위해 1987년도에 배치되기 시작한 <b>사회복지<\/b>전문요원이 <b>직무<\/b>를 수행하고 있다. <b>사회복지<\/b> 전문 인력은 1986년 9월 대도시의 저소득층 밀집 지역 <b>사회<\/b> 중 하나에 국가 <b>복지<\/b>를 증진하기 위한 조치를 취하기로 결정했다.",
+			"bloggername":"아이온님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ionill1712",
+			"postdate":"20220726"
+		},
+		{
+			"title":"[의료<b>사회복지<\/b>론] 의료<b>사회<\/b>사업 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/rkddkwl0083?Redirect=Log&logNo=222639037230",
+			"description":"의료<b>사회복지<\/b>사 <b>직무<\/b>분류와 <b>직무<\/b>내용 - 의료<b>사회복지<\/b>사의 <b>직무<\/b>는 <b>사회<\/b>사업 임상 차원, 행정 차원, 교육 및 연구조사 차원으로 분류할 수 있음 ⇒ <b>사회<\/b>사업 임상 차원에는 심리 · <b>사회<\/b> · 정신적 문제해결, 경제적... ",
+			"bloggername":"예리미의 하루&한끼",
+			"bloggerlink":"https:\/\/blog.naver.com\/rkddkwl0083",
+			"postdate":"20220204"
+		},
+		{
+			"title":"<b>사회복지<\/b>전담공무원의 <b>직무<\/b>와 역할",
+			"link":"https:\/\/blog.naver.com\/rladltkr1125?Redirect=Log&logNo=222617067938",
+			"description":"이렇게 많은 역할 중 <b>사회복지<\/b>전담공무원들이 많이 담당하는 업무는 <b>사회복지<\/b>전담공무원의 <b>복지<\/b>급여와 같은 소득유지 업무(income maintenance)와 가정방문, 사례관리, 지역<b>사회<\/b> 자원 연계와 같은... ",
+			"bloggername":"복지를 말하다",
+			"bloggerlink":"https:\/\/blog.naver.com\/rladltkr1125",
+			"postdate":"20220109"
+		},
+		{
+			"title":"<b>사회복지<\/b>행정에 있어서... 설명하고, <b>직무<\/b>연구와 <b>직무<\/b>관리... ",
+			"link":"https:\/\/blog.naver.com\/narrate12471?Redirect=Log&logNo=222795991340",
+			"description":"<b>사회복지<\/b>행정에 있어서 인적자원관리의 특징에 대해 설명하고, <b>직무<\/b>연구와 <b>직무<\/b>관리 영역에서 특별히... 무료 자료요청 여기 클릭 무료 자료요청 여기 클릭 본문 내용 급격히 변화하는 현대 <b>사회<\/b>의 환경과... ",
+			"bloggername":"narrate12471님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/narrate12471",
+			"postdate":"20220701"
+		},
+		{
+			"title":"[경단예방] <b>직무<\/b>부스팅데이-<b>사회복지<\/b>사 역량강화특강",
+			"link":"https:\/\/blog.naver.com\/kwoman2060?Redirect=Log&logNo=222550016299",
+			"description":"2021년 경력단절예방사업 &lt;<b>직무<\/b>부스팅데이&gt; 참여자 모집 -<b>사회복지<\/b> 분야 종사자 역량강화, 자기개발 특강- 1. 교육대상 <b>사회복지<\/b> 실천에 관심이 많으신 분, <b>사회복지<\/b> 분야 종사자, <b>사회복지<\/b>사... ",
+			"bloggername":"관악여성인력개발센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/kwoman2060",
+			"postdate":"20211027"
+		},
+		{
+			"title":"<b>사회복지<\/b>시설 종사자 <b>직무<\/b>교육 의무화 추진",
+			"link":"https:\/\/blog.naver.com\/handicapinews?Redirect=Log&logNo=222500592823",
+			"description":"<b>사회복지<\/b>시설은 아동, 노인, 장애인 등 <b>사회<\/b>적 약자를 위해 운영되는 시설이다. 하지만 안타깝게도 이런... 채용한 <b>사회복지<\/b>사에게 미리 이용자 특성에 대한 이해를 돕는 <b>직무<\/b> 교육을 의무화하고, 국가와... ",
+			"bloggername":"장애인생활신문 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/handicapinews",
+			"postdate":"20210909"
+		},
+		{
+			"title":"<b>사회복지<\/b>행정에 있어서... 설명하고, <b>직무<\/b>연구와 <b>직무<\/b>관리... ",
+			"link":"https:\/\/blog.naver.com\/plug0mpy?Redirect=Log&logNo=222780754293",
+			"description":"<b>사회복지<\/b>행정에 있어서 인적자원관리의 특징에 대해 설명하고, <b>직무<\/b>연구와 <b>직무<\/b>관리 영역에서.hwp <b>사회복지<\/b>행정에 있어서 인적자원관리의 특징에 대해 설명하고, <b>직무<\/b>연구와... <b>사회복지<\/b>행정에 있어서... ",
+			"bloggername":"plug0mpy님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/plug0mpy",
+			"postdate":"20220620"
+		},
+		{
+			"title":"청주<b>복지<\/b>소식 <b>직무<\/b>외상 <b>사회복지<\/b>종사자  지금 여기 주목!",
+			"link":"https:\/\/blog.naver.com\/sooa031101?Redirect=Log&logNo=222552730286",
+			"description":"이용자로부터 폭언과 폭행 등을 당해 신체적, 정신적 피해를 호소하는 <b>복지<\/b>종사자분들이 크게 늘어나고 있는 요즘 청주<b>복지<\/b>재단에서 <b>직무<\/b>외상으로 힘드신 <b>사회복지<\/b>종사자분들 업무 회복을 위해 상담지원하고... ",
+			"bloggername":"일상디자인",
+			"bloggerlink":"https:\/\/blog.naver.com\/sooa031101",
+			"postdate":"20211029"
+		},
+		{
+			"title":"2022년 구미시 <b>사회복지<\/b>담당 공무원 <b>직무<\/b>교육 실시",
+			"link":"https:\/\/blog.naver.com\/komo5659?Redirect=Log&logNo=222687789355",
+			"description":"구미시(시장 장세용)는 3월 30일(수)부터 3월 31일(목)까지 2일간 구미성리학역사관 야은관에서 본청 및 읍면동 <b>복지<\/b>담당 공무원 100여명을 대상으로 2022년 <b>사회복지<\/b>담당 공무원 <b>직무<\/b>교육을 실시한다. 이번 교육은... ",
+			"bloggername":"K채널",
+			"bloggerlink":"https:\/\/blog.naver.com\/komo5659",
+			"postdate":"20220331"
+		},
+		{
+			"title":"2021년 안성시<b>사회복지<\/b>협의회 <b>사회복지<\/b>종사자 <b>직무<\/b>교육... ",
+			"link":"https:\/\/blog.naver.com\/sw6757676?Redirect=Log&logNo=222596152224",
+			"description":"인한 <b>복지<\/b>현장의 변화에 대비하고 역량을 강화하는 뜻깊은 시간이 되었다. □ 안성시<b>사회복지<\/b>협의회(사무국장 허숙)는 인사말에서 “코로나19라는 <b>사회<\/b>적 위기 상황으로 인해 비대면으로만 뵙다가 이렇게... ",
+			"bloggername":"안성시사회복지협의회님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sw6757676",
+			"postdate":"20211215"
+		},
+		{
+			"title":"<b>사회복지<\/b>·종교 <b>직무<\/b> 분류",
+			"link":"https:\/\/blog.naver.com\/myc0818?Redirect=Log&logNo=222579229300",
+			"description":"통해 <b>사회<\/b>문제와 욕구를 파악하여 주민조직화, 자원 개발, 지역<b>사회복지<\/b>계획 수립, 정책제안을 추진함으로써 주민의 <b>복지<\/b>를 가능하게 하는 일이다. ∙<b>사회복지<\/b> 조직운영 <b>사회복지<\/b>행정이란 <b>사회복지<\/b> 조직(시설... ",
+			"bloggername":"myc0818님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/myc0818",
+			"postdate":"20211126"
+		},
+		{
+			"title":"요양시설 <b>사회복지<\/b>시설 #종사자<b>직무<\/b>교육강사 #<b>사회복지<\/b>사... ",
+			"link":"https:\/\/blog.naver.com\/rlarudwl0415?Redirect=Log&logNo=222290314749",
+			"description":"#<b>사회복지<\/b>시설 #요양시설 #종사자<b>직무<\/b>교육 은 지속적으로 진행하는 #법정의무교육 이랍니다 . . 초고령<b>사회<\/b>로 진행되고 있는 우리나라 . . 전국적으로 요양시설도 늘어나고 있는데요 . . <b>사회복지<\/b> 요양시설... ",
+			"bloggername":"노후준비와치매예방",
+			"bloggerlink":"https:\/\/blog.naver.com\/rlarudwl0415",
+			"postdate":"20210328"
+		},
+		{
+			"title":"보건행정직- <b>사회복지<\/b>사 <b>직무<\/b>수행계획서 작성 - 송아름컨설턴트",
+			"link":"https:\/\/blog.naver.com\/lsflove?Redirect=Log&logNo=222159690002",
+			"description":"<b>사회복지<\/b>분야 지원자예요. 자소서와 <b>직무<\/b>수행계획서 받아보시고 감탄하셨다고 이렇게.. 선물을 ^^ 비용 다 내시고도 이렇게 예쁜 마음 표현해 주셔서 감사합니다! 진짜 제 성격이 대충하는 성격이 못되서 의뢰... ",
+			"bloggername":"Inspirer 송아름컨설턴트(Career & Life consultant)",
+			"bloggerlink":"https:\/\/blog.naver.com\/lsflove",
+			"postdate":"20201201"
+		},
+		{
+			"title":"[<b>사회복지<\/b>공동모금회] 2022... (인적성검사\/<b>직무<\/b>능력평가)",
+			"link":"https:\/\/blog.naver.com\/dlwodls309?Redirect=Log&logNo=222699862951",
+			"description":"기대없이 확인했는데 첫 합격의 기쁨을 맛보았다,,, 기쁨도 잠시 첫 인적성 검사에 <b>직무<\/b>능력평가까지 준비할 시간은 단 4일 뿐이었다. 급하게 <b>사회복지<\/b>사 1급 때 만들어둔 요약본 출력해서 공부했다. 혹시... ",
+			"bloggername":"Ready",
+			"bloggerlink":"https:\/\/blog.naver.com\/dlwodls309",
+			"postdate":"20220413"
+		},
+		{
+			"title":"<b>사회복지<\/b>학 자료 학교<b>사회복지<\/b>사의 역할과 <b>직무<\/b> 다운로드",
+			"link":"https:\/\/blog.naver.com\/soojung88765aa?Redirect=Log&logNo=222668565582",
+			"description":"파일문서.zip <b>사회복지<\/b>학 자료 학교<b>사회복지<\/b>사의 역할과 <b>직무<\/b> 학교<b>사회복지<\/b>사의 역할과 <b>직무<\/b>란... 학교<b>사회복지<\/b>에 대한 교육계와 <b>사회복지<\/b>계의 올바른 역할인식을 하고자, 셋째, 최근 교육<b>복지<\/b>법안과... ",
+			"bloggername":"soojung88765aa님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/soojung88765aa",
+			"postdate":"20220310"
+		},
+		{
+			"title":"<b>사회복지<\/b>협의회 채용] 정규직\/무기계약직\/계약직 면접, <b>직무<\/b>마... ",
+			"link":"https:\/\/blog.naver.com\/onair_speech?Redirect=Log&logNo=222752485571",
+			"description":"금융<b>복지<\/b> 소외계층을 발굴하고 지원하는 업무를 합니다. 그리고 한국<b>사회복지<\/b>협의회은 GSK컨슈머헬스케어와 MOU를 맺었습니다. 이 외에도 지역<b>사회<\/b>공헌 인정재 활성화를 위해서도 노력을 하고 있습니다.... ",
+			"bloggername":"위드스피치학원",
+			"bloggerlink":"https:\/\/blog.naver.com\/onair_speech",
+			"postdate":"20220530"
+		},
+		{
+			"title":"자신이 <b>사회복지<\/b>기관장이라면 <b>사회복지<\/b>사의 <b>직무<\/b>만족을 높이고... ",
+			"link":"https:\/\/blog.naver.com\/kuru9207?Redirect=Log&logNo=222796467216",
+			"description":"자신이 <b>사회복지<\/b>기관장이라면 <b>사회복지<\/b>사의 <b>직무<\/b>만족을 높이고, 소진을 막기 위해 어떠한 방법을 취할 것인지 의견 자신이 <b>사회복지<\/b>기관장이라면 <b>사회복지<\/b>사의 <b>직무<\/b>만족을 높이고, 소진을 막기 위해 어떠한... ",
+			"bloggername":"나비처럼",
+			"bloggerlink":"https:\/\/blog.naver.com\/kuru9207",
+			"postdate":"20220701"
+		},
+		{
+			"title":"[대학 뉴스]거제대학교 <b>사회복지<\/b>과, 여름방학 기간 <b>직무<\/b>역량강... ",
+			"link":"https:\/\/blog.naver.com\/koje-college90?Redirect=Log&logNo=222793918465",
+			"description":"진행되었습니다 #취업 #핫플레이스 #거제대학교 #2022 #<b>사회복지<\/b>과 #<b>직무<\/b>역량강화 #영상편집 #여름방학 #특강 #거제 #대학교 #전문대 #대학생 #장학금 #맛집 #고등학생 #고3 #수험생 #예비고3 #학부모 #직장인... ",
+			"bloggername":"거제대학교 KOJE UNIVERSITY",
+			"bloggerlink":"https:\/\/blog.naver.com\/koje-college90",
+			"postdate":"20220629"
+		},
+		{
+			"title":"12까지ㅣ<b>사회<\/b>공헌 및 재단운영 <b>직무<\/b>ㅣ<b>사회복지<\/b>사1급... ",
+			"link":"https:\/\/blog.naver.com\/cherish_unme2021?Redirect=Log&logNo=222756432043",
+			"description":"채용공고 확인 22년 상반기 SPC행복한재단 채용 구체적인 채용공고, <b>직무<\/b>소개는 여기서... 400자) <b>사회복지<\/b> 관련 학과 전공하신 문과생, 혹은 관련 봉사나 단체 근무 경험이 있는 문과생... ",
+			"bloggername":"호감부자 당근쌤의 대기업 취업 컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/cherish_unme2021",
+			"postdate":"20220602"
+		},
+		{
+			"title":"<b>사회복지<\/b>사의 소진을 예방하고 <b>직무<\/b>만족을 높이기 위한 방안에... ",
+			"link":"https:\/\/blog.naver.com\/vbeukaf611?Redirect=Log&logNo=222807803576",
+			"description":"<b>사회복지<\/b>사의 소진을 예방하고 <b>직무<\/b>만족을 높이기 위한 방안에 대해 논하시오. ▲ 레포트 무료 참고자료 받으러가기 ▲ <b>사회복지<\/b>사의 소진을 예방하고... ",
+			"bloggername":"vbeukaf611님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/vbeukaf611",
+			"postdate":"20220711"
+		},
+		{
+			"title":"[취업] 한국선진학교 <b>사회복지<\/b>서기 공무원 <b>직무<\/b>수행계획서... ",
+			"link":"https:\/\/blog.naver.com\/jw811p?Redirect=Log&logNo=222746236459",
+			"description":"첨삭 과정을 안내 받고, 진행을 결정 4. 차별화 된 첨삭으로 막막함을 해소 5. 합격 가능성 높인 서류 지원 완료 공무원 <b>사회복지<\/b>서기 <b>직무<\/b>수행계획서 첨삭 문의 일상취업연구소 https:\/\/open.kakao.com\/o\/sn9MlNAc",
+			"bloggername":"일상취업연구소",
+			"bloggerlink":"https:\/\/blog.naver.com\/jw811p",
+			"postdate":"20220525"
+		},
+		{
+			"title":"[학교<b>사회복지<\/b>론] 학교<b>사회복지<\/b>사의 역할과 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/rkddkwl0083?Redirect=Log&logNo=222661428871",
+			"description":"학교<b>사회복지<\/b>사의 <b>직무<\/b> - 학생에 대한 <b>사회복지<\/b>서비스 - 가정-학교-지역<b>사회<\/b>의 연계 - 가정에 대한 <b>사회복지<\/b>서비스 - 교사와의 협력적 활동 - 사례관리 - 정책결정 지원과 행정 - 전문적 활동 출처... ",
+			"bloggername":"예리미의 하루&한끼",
+			"bloggerlink":"https:\/\/blog.naver.com\/rkddkwl0083",
+			"postdate":"20220302"
+		},
+		{
+			"title":"<b>사회복지<\/b>사 자기소개서 <b>직무<\/b>수행계획서 첨삭 작성 서류합격... ",
+			"link":"https:\/\/blog.naver.com\/rhdygksd?Redirect=Log&logNo=222646090614",
+			"description":"<b>사회복지<\/b>사 자기소개서 <b>직무<\/b>수행계획서 첨삭 작성 서류합격(2022) 포스팅입니다. <b>사회복지<\/b>사의 경우, 각종 공공기관, 병원, 시청 및 구청들 채용건으로 요청이 많습니다. 주로 자기소개서, <b>직무<\/b>수행계획서를... ",
+			"bloggername":"자기소개서마스터",
+			"bloggerlink":"https:\/\/blog.naver.com\/rhdygksd",
+			"postdate":"20220213"
+		},
+		{
+			"title":"[강의전문노무사\/김태미노무사] <b>사회복지<\/b>시설 종사자_<b>직무<\/b>역량... ",
+			"link":"https:\/\/blog.naver.com\/haesongnomu?Redirect=Log&logNo=222715443863",
+			"description":"#인천광역시 #<b>사회복지<\/b> #공공기관 #<b>직무<\/b>역량강화교육 다른 노무관련 상담을 원하시는 경우 해송노무사사무소로 문의주시면 이와 관련한 전문 상담을 받아보실 수 있습니다. 감사합니다! 문의전화 032) 428-0567",
+			"bloggername":"병원전문 노무사",
+			"bloggerlink":"https:\/\/blog.naver.com\/haesongnomu",
+			"postdate":"20220429"
+		},
+		{
+			"title":"학교<b>사회복지<\/b>사의 역할과 <b>직무<\/b>에 대해 설명하시오.",
+			"link":"https:\/\/blog.naver.com\/maide71135?Redirect=Log&logNo=222704532580",
+			"description":"학교<b>사회복지<\/b>사의 역할과 <b>직무<\/b>에 대해 설명하시오. 학교<b>사회복지<\/b>사는 학생들과 상담진행 업무를 주로 하게 되는데 학생들이 지닌 심리적, 정서적, <b>사회<\/b>적 문제를 해결할 수 있도록 프로그램으로의 연계를... ",
+			"bloggername":"과제도우미 이선생",
+			"bloggerlink":"https:\/\/blog.naver.com\/maide71135",
+			"postdate":"20220418"
+		},
+		{
+			"title":"<b>사회복지<\/b>공무원 <b>직무<\/b>부터 확인해야 합니다",
+			"link":"https:\/\/biscuitlee.tistory.com\/65",
+			"description":"9급 <b>사회복지<\/b>공무원은 행정 분야의 관리와 집행을 담당하고 보건<b>복지<\/b>부에 소속되어 있습니다 공무원으로써 가져야 하는 많은 의무 중 특히 법령을 준수하며 성실히 <b>직무<\/b>를 수행하고 국민 전체의 봉사자로서... ",
+			"bloggername":"고삼이의 수능 전략 연구소 :: 고삼이의 수능 전략 연구소",
+			"bloggerlink":"https:\/\/biscuitlee.tistory.com\/",
+			"postdate":"20170103"
+		},
+		{
+			"title":"2011 <b>사회복지 직무<\/b>능력 “실무중심형” 회계교육",
+			"link":"https:\/\/blog.naver.com\/poulus?Redirect=Log&logNo=10110186932",
+			"description":"안성시사회복지협의회 한창섭 회장은 “복지시설의 효율적이고 투명한 운영에 대한 사회적 필요성이... 투명한 복지시설 행정을 실현하기 위해 마련했다”고 말하며, “앞으로도 정기적으로 <b>사회복지 직무<\/b>능... ",
+			"bloggername":"스마트안성",
+			"bloggerlink":"https:\/\/blog.naver.com\/poulus",
+			"postdate":"20110530"
+		},
+		{
+			"title":"국비지원학원 전공자 <b>직무<\/b>경험 쌓는 계기",
+			"link":"https:\/\/blog.naver.com\/iiwish?Redirect=Log&logNo=222802804699",
+			"description":"국가에서 <b>사회<\/b>초년생, 재취업 희망자 등을 대상으로 전문 <b>직무<\/b>교육을 수료할 수 있도록 해주는 교육원이에요. 국비지원학원 과정은 국가기간전략산업, K디지털 등 IT분야와 <b>사회복지<\/b>, 요양, 설계사 등... ",
+			"bloggername":"with 포인트쌤",
+			"bloggerlink":"https:\/\/blog.naver.com\/iiwish",
+			"postdate":"20220706"
+		},
+		{
+			"title":"2011 <b>사회복지 직무<\/b>능력 “실무중심형” 회계교육",
+			"link":"https:\/\/blog.naver.com\/fame7777?Redirect=Log&logNo=50112477238",
+			"description":"2011 <b>사회복지 직무<\/b>능력 “실무중심형” 회계교육 효율적이고 투명한 운영에 대한 요구에 부응... 안성시사회복지협의회 한창섭 회장은 “복지시설의 효율적이고 투명한 운영에 대한 사회적 필요성이 점차... ",
+			"bloggername":"경기 인천 라이프",
+			"bloggerlink":"https:\/\/blog.naver.com\/fame7777",
+			"postdate":"20110530"
+		},
+		{
+			"title":"[파워포인트 교육] 전라남도<b>사회복지<\/b>협의회 <b>직무<\/b>역량강화교육... ",
+			"link":"https:\/\/blog.naver.com\/sangsan23?Redirect=Log&logNo=221695054861",
+			"description":"[파워포인트 교육] 전라남도<b>사회복지<\/b>협의회 <b>직무<\/b>역량강화교육 파워포인트_김봉정 강사 안녕하세요 Microsoft PowerPoint MVP 김봉정 강사입니다. 2019년 10월 16일 전라남도 목포에서 전라남도 <b>사회복지<\/b>협의회... ",
+			"bloggername":"프레젠테이션 컨설턴트 조운자룡",
+			"bloggerlink":"https:\/\/blog.naver.com\/sangsan23",
+			"postdate":"20191101"
+		},
+		{
+			"title":"<b>사회복지<\/b>단체 SNS강사 [후원활동,<b>직무<\/b>교육] 재미있는 강의... ",
+			"link":"https:\/\/blog.naver.com\/advisor1976?Redirect=Log&logNo=221708644798",
+			"description":"<b>사회복지<\/b>단체 SNS강사 [후원활동,<b>직무<\/b>교육] 재미있는 강의 김석현 <b>사회복지<\/b>사님 30여 분들을 모시고 후원활동을 위한 SNS강의를 하고 왔습니다. 의무교육을 받으시는 분들을 모시고 강의를 하는 것이 듣는 분도... ",
+			"bloggername":"한국온라인마케팅진흥원 \/ 창업컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/advisor1976",
+			"postdate":"20191115"
+		},
+		{
+			"title":"광주 서구, 동 <b>사회복지<\/b>담당 사례관리 <b>직무<\/b> 교육",
+			"link":"https:\/\/blog.naver.com\/sbpark1391?Redirect=Log&logNo=220711991212",
+			"description":"동 <b>사회복지<\/b>담당 사례관리 <b>직무<\/b>교육 보건<b>복지<\/b>부는 2016년 업무보고에서 읍면동 <b>복지<\/b> 기능을 대폭... 국가는 <b>사회<\/b>보장, <b>사회복지<\/b>의 증진에 노력할 의무를 진다(헌법 제34조) 2. 사례관리란? 그림을 클릭하시면... ",
+			"bloggername":"Park&apos;s Family Blog",
+			"bloggerlink":"https:\/\/blog.naver.com\/sbpark1391",
+			"postdate":"20160517"
+		},
+		{
+			"title":"<b>사회복지<\/b>법인 이사의 <b>직무<\/b>",
+			"link":"https:\/\/blog.naver.com\/khn5298?Redirect=Log&logNo=221351389882",
+			"description":"<b>사회복지<\/b>법인 이사의 <b>직무<\/b> <b>사회복지<\/b>법인의 이사는 대외적으로 법인을 대표하고 대내적으로는 법인의 업무를 집행하는 필수기관입니다. <b>사회복지<\/b>법인 이상의 정수는 대표이사를 포함하여 7인 이상으로... ",
+			"bloggername":"김하나행정사사무소010-9386-5296",
+			"bloggerlink":"https:\/\/blog.naver.com\/khn5298",
+			"postdate":"20180903"
+		},
+		{
+			"title":"직업\/<b>직무<\/b> 파헤치기 [취뽀협성 - <b>사회복지<\/b>사 편]",
+			"link":"https:\/\/blog.naver.com\/hssarang2016?Redirect=Log&logNo=221242945369",
+			"description":"분들의 <b>사회<\/b>적 문제들을 해결하기 위해 많은 노력을 기울이는 <b>직무<\/b>입니다. 여기서 <b>사회복지<\/b>사가... 이 밖에도 많은 일들을 하지만 <b>사회복지<\/b>사가 해야 할 가장 중요한 업무는 <b>복지<\/b> 대상자와 그 가족들에 대한... ",
+			"bloggername":"협성대스타와 함께하는 협성대학교 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/hssarang2016",
+			"postdate":"20180402"
+		},
+		{
+			"title":"2014 <b>직무<\/b>능력향상 외부교육(한국<b>사회복지<\/b>협의회)에... ",
+			"link":"https:\/\/blog.naver.com\/bakbht?Redirect=Log&logNo=207531653",
+			"description":"2014 <b>직무<\/b>능력향상 외부교육(한국<b>사회복지<\/b>협의회)에 참여했습니다. 푸른나무청예단 법인운영팀에서는... (최영식 <b>사회복지<\/b>법인 즈믄해 대표)과 인사관리실무(정영일 이랜드<b>복지<\/b>재단 사무국장) 2일차는... ",
+			"bloggername":"푸른나무재단 (청소년폭력예방재단)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bakbht",
+			"postdate":"20140404"
+		},
+		{
+			"title":"시민<b>사회<\/b>수석실 선임행정관 전선영 동문 (<b>사회복지<\/b> 89) 인터뷰... ",
+			"link":"https:\/\/blog.naver.com\/seoul_womens?Redirect=Log&logNo=222807463605",
+			"description":"시민<b>사회<\/b>수석실의 기능을 대폭 강화하였습니다. 현재 종교다문화비서관이 공석으로 제가 비서관 <b>직무<\/b>대리로서 종교, 다문화, 재외동포, <b>사회복지<\/b> NGO 분야를 총괄하고 있고, 종교다문화비서관실에는 저 외에... ",
+			"bloggername":"서울여자대학교 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/seoul_womens",
+			"postdate":"20220719"
+		},
+		{
+			"title":"<b>사회복지<\/b>사1급 난이도에 따른 공부과정",
+			"link":"https:\/\/blog.naver.com\/rae77?Redirect=Log&logNo=222710992563",
+			"description":"지역<b>사회복지<\/b>론도 지역<b>사회<\/b> 동향을 확인하는 유형, 정책론은 <b>복지<\/b>정책과 <b>사회<\/b>보장을 묻는 문제가... 이론도 중요하지만, 업무 특성상 현장업무도 많은 <b>직무<\/b>로 학습자가 이러한 내용을 잘 숙지했는가... ",
+			"bloggername":"NEW WORLD! (언택트 뉴노멀 세상)",
+			"bloggerlink":"https:\/\/blog.naver.com\/rae77",
+			"postdate":"20220425"
+		},
+		{
+			"title":"[부산] <b>사회복지<\/b>시설 종사자 <b>직무<\/b>분석 연구",
+			"link":"https:\/\/jshever.tistory.com\/424",
+			"description":"부산<b>복지<\/b>개발원 정책개발팀에서 발표한 2010년 &quot;<b>사회복지<\/b>시설 종사자 <b>직무<\/b>분석 연구&quot; 자료입니다. 조사 결과에 대해 완벽히 공감하는 것은 아니지만, 공식적인 연구결과인 만큼 타당도가 높을... ",
+			"bloggername":"Social Welfare Thorn News, 福智衍, 복지비틀기 :: Social Welfare Thorn News, 福智衍, 복지비틀기",
+			"bloggerlink":"https:\/\/jshever.tistory.com\/",
+			"postdate":"20120717"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 NCS 07. <b>사회복지<\/b>·종교... ",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220611450090",
+			"description":"NCS 공부는 NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가를 추천합니다~ NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 07 <b>사회복지<\/b>.종교 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.01.20. 리뷰보기",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160128"
+		},
+		{
+			"title":"#치매예방교육(뇌건강해피교실)#<b>사회복지<\/b>기관(<b>직무<\/b>교육.... ",
+			"link":"https:\/\/blog.naver.com\/slsdudehdud?Redirect=Log&logNo=221696166163",
+			"description":"월요일 동두천시노인<b>복지<\/b>관 생명숲 기억키움학교 레크리에이션 10시30분 강의를 시작으로 고양시... 담당하는 <b>사회복지<\/b>사나 작업치료사 선생님들의 달라진 모습이 예쁩니다 현장에서 학습자님들의 피드백을... ",
+			"bloggername":"#치매예방#직업훈련#실버강사교육.파견.컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/slsdudehdud",
+			"postdate":"20191102"
+		},
+		{
+			"title":"<b>사회복지<\/b>학과",
+			"link":"https:\/\/blog.naver.com\/sau2011?Redirect=Log&logNo=222785631309",
+			"description":"노인<b>복지<\/b>관, 요양원, 주간보호센터, 시니어클럽 ∙ 지역<b>사회<\/b> : 지역<b>사회복지<\/b>관, 지역자활센터... 안산시초지종합<b>사회복지<\/b>관을 방문하여 <b>사회복지<\/b>현장을 이해하고 정보를 교류하고 있다. <b>직무<\/b>역량 기반... ",
+			"bloggername":"신안산대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/sau2011",
+			"postdate":"20220623"
+		},
+		{
+			"title":"<b>직무<\/b>교육 #소양교육 <b>직무<\/b>역량강화교육(<b>사회복지<\/b>사\/요양보호사... ",
+			"link":"https:\/\/blog.naver.com\/slsdudehdud?Redirect=Log&logNo=221810176168",
+			"description":"#<b>직무<\/b>교육 #소양교육 #<b>직무<\/b>역량강화교육(<b>사회복지<\/b>사\/요양보호사\/자원봉사자\/작업치료사\/건강가정사... 권영옥원장 안녕하세요 시니어토탈경영연구원 원장권영옥입니다 장기요양기관의 강의를 시작으로 <b>복지<\/b>관... ",
+			"bloggername":"#치매예방#직업훈련#실버강사교육.파견.컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/slsdudehdud",
+			"postdate":"20200215"
+		},
+		{
+			"title":"[대학 뉴스] 후진학선도형사업 <b>사회복지<\/b>사 <b>직무<\/b>향상교육 진행",
+			"link":"https:\/\/blog.naver.com\/koje-college90?Redirect=Log&logNo=221799886948",
+			"description":"거제대학교(총장 조욱성)는 2월 1일(토) 후진학선도형 사업인 평생직업교육의 일환으로 <b>사회복지<\/b>사 <b>직무<\/b>... 지역<b>사회<\/b>와 산업계의 연계를 강화하기 위해 2019년부터 3년간 추진하는 교육부 재정지원 사업이다.",
+			"bloggername":"거제대학교 KOJE UNIVERSITY",
+			"bloggerlink":"https:\/\/blog.naver.com\/koje-college90",
+			"postdate":"20200207"
+		},
+		{
+			"title":"노인<b>사회<\/b>활동지원사업 <b>직무<\/b>교... 한솔종합<b>사회복지<\/b>관 2차특강",
+			"link":"https:\/\/blog.naver.com\/kiskis9663?Redirect=Log&logNo=220726931106",
+			"description":"노인<b>사회<\/b>활동지원사업 <b>직무<\/b>교육및 활동교육으로 한솔종합<b>복지<\/b>관에서 이틀에 걸쳐 특강이... 한솔종합<b>사회복지<\/b>관에서 노인<b>사회<\/b>활동지원사업 <b>직무<\/b>교육및 활동교육을 그동안은 지루한 이론수업으로 하셔... ",
+			"bloggername":"웃음,율동,감성을 디자인하는 김인숙강사의 힐링타임",
+			"bloggerlink":"https:\/\/blog.naver.com\/kiskis9663",
+			"postdate":"20160603"
+		},
+		{
+			"title":"동신대 <b>사회복지<\/b>학과·뷰티미용학과 &apos;진로·취업 <b>직무<\/b>특화 특강&apos;",
+			"link":"https:\/\/blog.naver.com\/dsublog?Redirect=Log&logNo=221700467544",
+			"description":"기능과 역할 및 <b>사회복지<\/b> 전공 학생들의 건강가정사 자격취득과 취업안내’, ‘색과 향기를 이용해서 몸과 마음을 디자인하다’를 주제로 각각 2019년 진로·취업 <b>직무<\/b>특화 특강을 실시했어요.",
+			"bloggername":"동신대학교 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dsublog",
+			"postdate":"20191107"
+		},
+		{
+			"title":"[<b>사회<\/b>공헌<b>직무<\/b>] 기업의 <b>사회복지<\/b> 쪽으로 진로를 정하고 싶은데... ",
+			"link":"https:\/\/blog.naver.com\/itdaaworld?Redirect=Log&logNo=220770860262",
+			"description":"[기업 <b>사회<\/b>공헌 <b>직무<\/b> 현직자 멘토 답변] 안녕하세요. 제가 이전 <b>복지<\/b>사업, CSR 사업을 했던 경험을 토대로 정리를 조금 해드리겠습니다. 일단 공통점은 둘 다 의미가 있습니다. 단, <b>사회복지<\/b>관은 기획, 관리, 운영... ",
+			"bloggername":"잇다 (itdaa) 공식 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/itdaaworld",
+			"postdate":"20160730"
+		},
+		{
+			"title":"[충북일보] 오제세, <b>사회복지<\/b>시설종사자 100명 중 7명만 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/ojs0126?Redirect=Log&logNo=221119570879",
+			"description":"보건<b>복지<\/b>인력개발원(이하 개발원)으로부터 제출받은 자료에 따르면 지난해 <b>사회복지<\/b>시설종사자 618,649명 중 41,135명(6.6%)만이 <b>직무<\/b>교육을 이수했습니다. 2016년 보건<b>복지<\/b> 관련 산업 종사자는 254만4... ",
+			"bloggername":"충북발전 오제세",
+			"bloggerlink":"https:\/\/blog.naver.com\/ojs0126",
+			"postdate":"20171018"
+		},
+		{
+			"title":"<b>사회복지<\/b>학과 2018 서울 보육교사 보수교육 원장<b>직무<\/b> 교육.",
+			"link":"https:\/\/blog.naver.com\/ocublog?Redirect=Log&logNo=221402496727",
+			"description":"OCU <b>사회복지<\/b>학과 2018 보육교사 보수교육 원장<b>직무<\/b> 안녕하세요. 한국열린사이버대학교 <b>사회복지<\/b>학과 입니다. 올해 초 한국열린사이버대학교는 서울시에서 보육교사 보수교육 위탁 기관 으로 선정된 바... ",
+			"bloggername":"200만이 선택한 한국열린사이버대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/ocublog",
+			"postdate":"20181120"
+		},
+		{
+			"title":"<b>사회복지<\/b>학과 2018 서울 보육교사 보수교육 일반<b>직무<\/b> 교육.",
+			"link":"https:\/\/blog.naver.com\/ocublog?Redirect=Log&logNo=221402497754",
+			"description":"▼▼▼ ◆ <b>사회복지<\/b>학과 보육교사 <b>직무<\/b> 교육 실시! ◆ 보육교사 1급 승급교육 후기! 이번 주말에는 그동안 주말에 진행되었던 보육교사 2급 승급 교육을 끝으로 올해 한국열린사이버대학교에서 진행되는... ",
+			"bloggername":"200만이 선택한 한국열린사이버대학교",
+			"bloggerlink":"https:\/\/blog.naver.com\/ocublog",
+			"postdate":"20181120"
+		},
+		{
+			"title":"[언론보도]인력개발원 신규 <b>사회복지<\/b>공무원 <b>직무<\/b>매뉴얼... ",
+			"link":"https:\/\/blog.naver.com\/kohipr?Redirect=Log&logNo=220178229598",
+			"description":"충청일보 인력개발원 신규 <b>사회복지<\/b>공무원 <b>직무<\/b>매뉴얼 발간 보건<b>복지<\/b>부와 한국보건<b>복지<\/b>인력개발원(이하 인력개발원)은 20일 신규 <b>사회복지<\/b>공무원들의 조기 업무적응을 돕기 위한 '읍면동 주요 <b>복지<\/b>사업... ",
+			"bloggername":"한국보건복지인재원",
+			"bloggerlink":"https:\/\/blog.naver.com\/kohipr",
+			"postdate":"20141111"
+		},
+		{
+			"title":"(정책기획단 <b>사회복지<\/b>보건, 지역경제, 환경) <b>직무<\/b>수행계획서... ",
+			"link":"https:\/\/ebizbrain.tistory.com\/15963",
+			"description":"근로<b>복지<\/b>공단 상임이사(보험재정이사), 광진구 임기제(정책기획단 <b>사회복지<\/b>보건, 지역경제, 환경)<b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 20만원 : 10매 기준 \/ 3일... ",
+			"bloggername":"사업계획서\/제안서\/기획서\/보고서 :: 사업계획서\/제안서\/기획서\/보고서",
+			"bloggerlink":"https:\/\/ebizbrain.tistory.com\/",
+			"postdate":"20210731"
+		},
+		{
+			"title":"한국<b>사회복지<\/b>협의회, <b>사회복지<\/b>자원봉사 담당자 <b>직무<\/b>교육 실시",
+			"link":"https:\/\/blog.naver.com\/ksg2028?Redirect=Log&logNo=220567610893",
+			"description":"한국<b>사회복지<\/b>협의회, <b>사회복지<\/b>자원봉사 담당자 <b>직무<\/b>교육 실시 제3차 <b>사회복지<\/b>자원봉사관리본부 담당자·지역<b>사회<\/b>봉사단 코디네이터 <b>직무<\/b>교육 한국<b>사회복지<\/b>협의회(회장 차흥봉) 자원봉사사업단은... ",
+			"bloggername":"365타임즈",
+			"bloggerlink":"https:\/\/blog.naver.com\/ksg2028",
+			"postdate":"20151214"
+		},
+		{
+			"title":"협회회원시설대상 <b>직무<\/b>교육(2016.10.11 광주시 <b>사회복지<\/b>회... ",
+			"link":"https:\/\/blog.naver.com\/ycpyonav?Redirect=Log&logNo=220841197730",
+			"description":"엔젤시스템입니다 ~ ^0^ 저희 엔젤시스템은 지난 11일, 광주시 <b>사회복지<\/b>회관에서 <b>직무<\/b>교육을... 장기 요양 시설의 파트너로 끊임없는 노력을 할 것이며 노인<b>복지<\/b>의 선도적 기업이 될 것을 약속합니다. 감사합니다.",
+			"bloggername":"주식회사 유니포스",
+			"bloggerlink":"https:\/\/blog.naver.com\/ycpyonav",
+			"postdate":"20161020"
+		},
+		{
+			"title":"[<b>사회복지<\/b>학과][<b>사회복지<\/b>사]장애학생지원사업 <b>직무<\/b>지도원 모집... ",
+			"link":"https:\/\/blog.naver.com\/yunjin70?Redirect=Log&logNo=50139355721",
+			"description":"사업장(<b>복지<\/b>시설)에서 1년 이상 근로한 자 ○ 주요업무 : 장애학생 <b>직무<\/b>지도(출․퇴근 지도, 작업지도, 문제행동 지도, 적절한 <b>사회<\/b>성 지도, 사업체에서 필요로 하는 전반적인 것 등) ○ 배치장소... ",
+			"bloggername":"디지털서울문화예술대학교 사회복지학과",
+			"bloggerlink":"https:\/\/blog.naver.com\/yunjin70",
+			"postdate":"20120419"
+		},
+		{
+			"title":"[<b>사회복지<\/b>교육_취업교육... 시장진입혀사업단 <b>직무<\/b>역량강화교육... ",
+			"link":"https:\/\/blog.naver.com\/lmw1005?Redirect=Log&logNo=50183826274",
+			"description":"[<b>사회복지<\/b>교육_취업교육_고객만족서비스_소통] 일시 : 2013년 11월 25일 09:00-18:00 장소 : 보령지역자활센터 과정명: 자활근로자 시장진입혀사업단 <b>직무<\/b>역량강화교육_위드원 이미원 보령지역자활센터 교육에... ",
+			"bloggername":"이미원의 생생 강의 스토리",
+			"bloggerlink":"https:\/\/blog.naver.com\/lmw1005",
+			"postdate":"20131125"
+		},
+		{
+			"title":"<b>사회<\/b>활동지원사업 <b>직무<\/b>스트레... 힐링세미나 중림종합<b>사회복지<\/b>관",
+			"link":"https:\/\/blog.naver.com\/kiskis9663?Redirect=Log&logNo=220854159359",
+			"description":"중림종합<b>사회복지<\/b>관을 둘러보고는 <b>복지<\/b>관 시설이 너무나 좋아 교육담담 선생님께 한마디 합니다... 중림종합<b>사회복지<\/b>관 노인일자리및 <b>사회<\/b>활동지원사업 <b>직무<\/b>스트레스관리 힐링세미나에 대한 반가운 메일이... ",
+			"bloggername":"웃음,율동,감성을 디자인하는 김인숙강사의 힐링타임",
+			"bloggerlink":"https:\/\/blog.naver.com\/kiskis9663",
+			"postdate":"20161105"
+		},
+		{
+			"title":"오산대학교 전공 <b>직무<\/b> 체험 뭉쳐야 간다4 미션 실용<b>사회복지<\/b>과... ",
+			"link":"https:\/\/blog.naver.com\/osanblog?Redirect=Log&logNo=221771205825",
+			"description":"실용<b>사회복지<\/b>과의 &quot;오빠왔음&quot;조의 전공<b>직무<\/b>여행기 이었습니다. 전공<b>직무<\/b>여행을 통하여 얻는 정보를 통해 <b>사회<\/b>에 진출 하기전 다양한 경험과 깨달음을 얻게 되어 좋은 경험이었다고 생각됩니다!",
+			"bloggername":"오산대학교 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/osanblog",
+			"postdate":"20200114"
+		},
+		{
+			"title":"#치매예방교육#심폐소생술#요양윈.<b>사회복지<\/b>기관-<b>직무<\/b>교육.... ",
+			"link":"https:\/\/blog.naver.com\/slsdudehdud?Redirect=Log&logNo=221682789684",
+			"description":"여의도<b>복지<\/b>관에서 10회기 단기특강으로 열리고 있습니다 국가자격 노인스포츠지도사이며 <b>사회복지<\/b>사... 건강하고 <b>사회<\/b>를 건강하게 하는데 무엇이라도 하고싶다 하십니다 마음이 열려있으니 의지가 피어납니다... ",
+			"bloggername":"#치매예방#직업훈련#실버강사교육.파견.컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/slsdudehdud",
+			"postdate":"20191019"
+		},
+		{
+			"title":"광주시 지역<b>사회복지<\/b>협의체 <b>직무<\/b>관련 워크샵\/웃음치료... ",
+			"link":"https:\/\/blog.naver.com\/alwk101?Redirect=Log&logNo=220271330378",
+			"description":"광주시 지역<b>사회복지<\/b>협의체 <b>직무<\/b>관련 워크샵 민.관이 하나가된 대표협의체\/실무협의체 그리고 각 분과위원장님과 위원들을 위한 웃음치료\/레크레이션\/ 특강하고 왔습니다~~ 참석하신 분들이 각 기관의... ",
+			"bloggername":"실버소양교육전문강사 010-8791-1256",
+			"bloggerlink":"https:\/\/blog.naver.com\/alwk101",
+			"postdate":"20150212"
+		},
+		{
+			"title":"노인<b>사회<\/b>활동 지원사업 <b>직무<\/b>... 한솔종합<b>사회복지<\/b>관 1차특강",
+			"link":"https:\/\/blog.naver.com\/kiskis9663?Redirect=Log&logNo=220725546462",
+			"description":"한솔종합<b>사회복지<\/b>관 노인<b>사회<\/b>활동 지원사업 <b>직무<\/b>교육및 활동교육 담담교육 <b>복지<\/b>사선생님이셔요 어르신들의 교육 프로그램도 대충 준비하지 않고 어찌나 꼼꼼하게 챙기시는지 감동 그자체네요 어르신들을... ",
+			"bloggername":"웃음,율동,감성을 디자인하는 김인숙강사의 힐링타임",
+			"bloggerlink":"https:\/\/blog.naver.com\/kiskis9663",
+			"postdate":"20160602"
+		},
+		{
+			"title":"춘천효자종합<b>사회복지<\/b>관 (노인<b>복지<\/b>센터 요양보호사 <b>직무<\/b>교육)... ",
+			"link":"https:\/\/blog.naver.com\/h042179?Redirect=Log&logNo=222018242676",
+			"description":"과 함께 스트레칭 체조도 함께 춘천노인<b>복지<\/b>센터 춘천효자종합<b>사회복지<\/b>관 요양보호사 선생님들과 함께 <b>직무<\/b>교육 진행하고 다음을 기약하고 한연숙강사 인사 나누고 왔어요 https:\/\/m.blog.naver.com\/h042179\/222010320312",
+			"bloggername":"한연숙 강사",
+			"bloggerlink":"https:\/\/blog.naver.com\/h042179",
+			"postdate":"20200701"
+		},
+		{
+			"title":"<b>직무<\/b>(사무직) 특강 Ⅰ편_<b>사회복지<\/b>분야 제안서 작성법",
+			"link":"https:\/\/blog.naver.com\/ujb_job?Redirect=Log&logNo=221401408622",
+			"description":"의정부일자리센터에서는 2018년 <b>직무<\/b>별 취업특강으로 <b>사회복지<\/b>사, 직업상담사, 일반 사무 구직자를... ☞ ☞ 강의 주요 내용은 (지역) <b>사회<\/b> 문제의 발견, 프로포절의 필요성, <b>사회복지<\/b> 프로포절의 중요성... ",
+			"bloggername":"의정부일자리센터 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ujb_job",
+			"postdate":"20181119"
+		},
+		{
+			"title":"[시리즈] 요즘 MZ세대 <b>사회복지<\/b>사의 생각은? 구로 청년 또래... ",
+			"link":"https:\/\/johntony.tistory.com\/463",
+			"description":"MZ세대 현직 그리고 예비 <b>사회복지<\/b>사와의 <b>직무<\/b> 멘토링. 그 두번째 시간이 얼마 전 온라인으로 진행되었었는데요. '자기소개서'와 '이력서'를 어떻게하면 잘 담아낼지 &lt;서울시 공유<b>복지<\/b>플랫폼&gt; Wish 아흔번째 현장... ",
+			"bloggername":"SocialWelfare StoryTeller 조형준",
+			"bloggerlink":"https:\/\/johntony.tistory.com\/",
+			"postdate":"20210923"
+		},
+		{
+			"title":"더 이상은 No! [<b>사회복지<\/b> 노동자 직장갑질 예방워크숍]",
+			"link":"https:\/\/johntony.tistory.com\/531",
+			"description":"&lt;서울시 공유<b>복지<\/b>플랫폼&gt; Wish 108번째 현장 스케치는 여깁니다. * 본 글은 [<b>사회복지<\/b> 노동자 직장갑질 예방워크숍]을 주최한 공공운수<b>사회<\/b>서비스노조 <b>사회복지<\/b>지부 서울경기지역지회 관계자의 사전동의를 받아... ",
+			"bloggername":"SocialWelfare StoryTeller 조형준",
+			"bloggerlink":"https:\/\/johntony.tistory.com\/",
+			"postdate":"20220430"
+		},
+		{
+			"title":"어르신일자리사업 <b>직무<\/b>교육 평화종합<b>사회복지<\/b>관 큰모임터에는... ",
+			"link":"https:\/\/blog.naver.com\/kiskis9663?Redirect=Log&logNo=220537474255",
+			"description":"어르신일자리사업 <b>직무<\/b>교육 평화종합<b>사회복지<\/b>관 큰모임터에는 액션리더십의 뜨거운 열기 수능이 있는날은 어김없이 날이 쌀쌀해지는데 올해는 춥지 않아 정말 다행이였어요 수고 많이 했어요 모두모두... ",
+			"bloggername":"웃음,율동,감성을 디자인하는 김인숙강사의 힐링타임",
+			"bloggerlink":"https:\/\/blog.naver.com\/kiskis9663",
+			"postdate":"20151112"
+		},
+		{
+			"title":"파주시, 새내기 <b>사회복지<\/b> 공무원 <b>직무<\/b>능력 높인다!",
+			"link":"http:\/\/www.vision21.kr\/news\/article.html?no=166496",
+			"description":"파주 홈 경기도소식 파주 파주시, 새내기 <b>사회복지<\/b> 공무원 <b>직무<\/b>능력 높인다! 3일간 선배 공무원 경험... 신규 <b>사회복지<\/b> 공무원 40명은 선배공무원과 <b>사회<\/b>보장 급여 절차, <b>복지<\/b>대상자 발굴 등 현장에서... ",
+			"bloggername":"비전21뉴스",
+			"bloggerlink":"http:\/\/www.vision21.kr\/",
+			"postdate":"20211202"
+		},
+		{
+			"title":"한국<b>사회복지<\/b>협의회 인재유형별<b>직무<\/b>분석 특강을 마치고",
+			"link":"https:\/\/blog.naver.com\/leeshieun?Redirect=Log&logNo=20202753727",
+			"description":"한국<b>사회복지<\/b>협의회는 특별히 애착이 많이가는 공공기관이다. 이 기관을 통해 많은 강의를 했었고... 이번 강의를 통해 다시 한국<b>사회복지<\/b>협의회에서 강의를 시작하니 옛 생각도 나고 더 잘하고 싶다는 의욕도... ",
+			"bloggername":"커뮤니케이션 코칭센터(휴먼스킬연구소)",
+			"bloggerlink":"https:\/\/blog.naver.com\/leeshieun",
+			"postdate":"20140108"
+		},
+		{
+			"title":"구미시 <b>사회복지<\/b>분야 공무원 140여명, 전문 <b>직무<\/b>교육 실시",
+			"link":"https:\/\/blog.naver.com\/flower_im?Redirect=Log&logNo=221251316794",
+			"description":"선진 복지구미 실현 ” 사회복지분야 공무원 전문 직무교육 실시 <b>사회복지 직무<\/b>능력 향상으로... 전문 직무교육을 실시했다. 이번 교육은 현대사회의 빠른 변화로 인하여 사회양극화 현상이 심화되어가고... ",
+			"bloggername":"한국유통신문 블로그(미담 제보 01035469865)",
+			"bloggerlink":"https:\/\/blog.naver.com\/flower_im",
+			"postdate":"20180412"
+		},
+		{
+			"title":"정신보건 <b>사회복지<\/b>사의 <b>직무<\/b>탈진: 메타분석",
+			"link":"https:\/\/blog.naver.com\/omed22?Redirect=Log&logNo=220930144215",
+			"description":"번아웃(탈진)은 정신보건 <b>사회복지<\/b>사들에게 유행처럼 번지고 있다. 번아웃은 직장인... 이 간격을 매우기위해 정신보건 <b>사회복지<\/b>사에 대한 번아웃치료법들의 효과에 대한... ",
+			"bloggername":"은빛연어의 마음처방전",
+			"bloggerlink":"https:\/\/blog.naver.com\/omed22",
+			"postdate":"20170208"
+		}
+	]
+}

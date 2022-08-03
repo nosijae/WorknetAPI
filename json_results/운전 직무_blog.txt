@@ -1,0 +1,808 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:40 +0900",
+	"total":105843,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>직무<\/b>수행계획서_<b>운전<\/b> <b>운전<\/b>서기보 <b>직무<\/b> 이해 ㅣ 여객운송 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/smiley2k?Redirect=Log&logNo=222653422544",
+			"description":"NCS에서는 여객운송이라고 더 넓은 표현을 사용해서 운전 운전서기보 직무를 설명하고 있습니다. <b>운전 직무<\/b>에 대해서 직무수행계획서를 작성할 때는 딱 이것만은 알고 시작해야 합니다. 운전 운전서기보... ",
+			"bloggername":"김컨의 즐거운 직딩 생활 가이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/smiley2k",
+			"postdate":"20220221"
+		},
+		{
+			"title":"[계약후알릴의무, 통지의무] 보험가입 후 직업, <b>직무<\/b>, <b>운전<\/b>여부... ",
+			"link":"https:\/\/blog.naver.com\/osc2001?Redirect=Log&logNo=222756321783",
+			"description":"또는 <b>직무<\/b>, <b>운전<\/b>여부 등 보험회사에 가입 당시부터 다르게 알린경우라고 하면 다르게 알린사항으로 인해 사고가 발생 시 청구한 보험금에 대하여 보험회사는 지급책임이 없습니다. 하지만 계약당시 직업에... ",
+			"bloggername":"보상의 모든 것",
+			"bloggerlink":"https:\/\/blog.naver.com\/osc2001",
+			"postdate":"20220602"
+		},
+		{
+			"title":"안산음주<b>운전<\/b>변호사 공무원 <b>직무<\/b>에도 문제가",
+			"link":"https:\/\/blog.naver.com\/dnjsrb791?Redirect=Log&logNo=222605814169",
+			"description":"음주<b>운전<\/b> 자체가 위중한 사안이기도 하고, 공무원이 위중한 사안의 중심이 되었다는 것이 문제입니다.... 국가공무원법이나 이법에 따른 명령위반, <b>직무<\/b>상 의무위반, <b>직무<\/b>태만, <b>직무<\/b> 내외 불문하고 체면 혹은... ",
+			"bloggername":"dnjsrb791님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/dnjsrb791",
+			"postdate":"20211227"
+		},
+		{
+			"title":"타워크레인<b>운전<\/b>기능사 국가자격증 안전하게 <b>직무<\/b>를 수행",
+			"link":"https:\/\/blog.naver.com\/7u5yhrtg56?Redirect=Log&logNo=222302381872",
+			"description":"중 <b>운전<\/b> 등의 <b>직무<\/b>를 안전하게 수행하도록 하기 위해 해당 자격을 제정하게 되었습니다. 타워크레인을 <b>운전<\/b>하여 건설 현장, 조선소 등에서 제정하게 된 이유와 동일한 <b>직무<\/b>를 수행한다고 보시면 좋을 것... ",
+			"bloggername":"하이드림",
+			"bloggerlink":"https:\/\/blog.naver.com\/7u5yhrtg56",
+			"postdate":"20210407"
+		},
+		{
+			"title":"<b>운전직무<\/b>경력 있으면 이런 도움이!",
+			"link":"https:\/\/blog.naver.com\/drive_gong?Redirect=Log&logNo=222652936859",
+			"description":"<b>운전직무<\/b>경력으로 운전직공무원에 어떻게 지원할 수 있을지 확인해보겠습니다. →→2021년 지역별 경쟁률 및 합격선 <b>운전직무<\/b>경력 활용하는 방법 <b>운전직무<\/b>경력이 있다면 운전직공무원에 응시할 자격이... ",
+			"bloggername":"운전공 님의 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/drive_gong",
+			"postdate":"20220220"
+		},
+		{
+			"title":"<b>운전<\/b>서기보 <b>운전<\/b>직 자기소개서 <b>직무<\/b>수행계획서 첨삭... ",
+			"link":"https:\/\/blog.naver.com\/rhdygksd?Redirect=Log&logNo=222367306029",
+			"description":"대학교에서도 <b>운전직무<\/b> 채용이 다수 있습니다. 기본적으로 자기소개서 \/ 직무수행계획서를 작성해야... 경력기술서 #운전직직무수행계획서 #학업계획서 #대기업 #중견기업 #공공기관 #자유양식 #잡리더컨설팅... ",
+			"bloggername":"자기소개서마스터",
+			"bloggerlink":"https:\/\/blog.naver.com\/rhdygksd",
+			"postdate":"20210526"
+		},
+		{
+			"title":"안전관리자,보건관리자,버스전용차로관리,<b>운전 직무<\/b>수행계획서... ",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222556042681",
+			"description":"기간 <b>직무<\/b>내용 안전관리자 (운영지원과) 시간선택제 임기제 다급 (주35시간) 1명 2년... 유지관리 <b>운전<\/b> (의회사무처) 시간선택제 임기제 마급 (주35시간) 1명 2년 ◦ 의회 의전차량(대형버스 포함) <b>운전<\/b>·관리... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20211102"
+		},
+		{
+			"title":"MOU 업무협력 협약! 2022 철도 <b>운전<\/b>\/관제 <b>직무<\/b>적성 개발 워크숍",
+			"link":"https:\/\/blog.naver.com\/nmsok2?Redirect=Log&logNo=222758369763",
+			"description":"[코레일 명예기자단] 코레일 송원대학교 업무협력 협약 소식 2022 철도 <b>운전<\/b>\/관제 <b>직무<\/b>적성 개발 워크숍 01 코레일 &amp; 송원대학교 업무협력 협약 2022년 5월 24일 화요일에 송원대학교 학생회관에서 '철도 <b>운전<\/b>\/관제... ",
+			"bloggername":"맛있는뉴스",
+			"bloggerlink":"https:\/\/blog.naver.com\/nmsok2",
+			"postdate":"20220603"
+		},
+		{
+			"title":"위반, 직업 변경, <b>직무<\/b> 변경, <b>운전<\/b>여부 변경, 보험 해지, 담보 제한)",
+			"link":"https:\/\/blog.naver.com\/wnsdncjswo20?Redirect=Log&logNo=222680404083",
+			"description":"여기서 말하는 <b>직무<\/b>란?! 직책이나 직업상 책임을 지고 담당하여 맡은 일을 말합니다. 2. 보험증권 등에 기재된 피보험자의 <b>운전<\/b> 목적이 변경된 경우 - 자가용에서 영업용으로 변경 - 영업용에서 자가용으로 변경... ",
+			"bloggername":"한국보험금융 채움에셋",
+			"bloggerlink":"https:\/\/blog.naver.com\/wnsdncjswo20",
+			"postdate":"20220323"
+		},
+		{
+			"title":"[희망리턴패키지 추천 <b>직무<\/b>] 버스<b>운전<\/b>기사 (버스<b>운전<\/b>종사자)",
+			"link":"https:\/\/blog.naver.com\/edu_plan?Redirect=Log&logNo=222431064335",
+			"description":"버스<b>운전<\/b>종사자 분들도 최대 근무시간이 단축되면서 관련 추가 채용이 많이 이루어지고 있습니다. 그래서 오늘은 버스(시내, 마을버스) <b>운전<\/b> 종사자로 취업하기 위해 갖춰야 하는 자격사항에 대해... ",
+			"bloggername":"희망리턴패키지 취업을 부탁해",
+			"bloggerlink":"https:\/\/blog.naver.com\/edu_plan",
+			"postdate":"20210714"
+		},
+		{
+			"title":"<b>직무<\/b> 선정 &amp; 자격증 취득 - 오픽\/CS리더스관리사\/<b>운전<\/b>면허2... ",
+			"link":"https:\/\/blog.naver.com\/owner_0828?Redirect=Log&logNo=222792127000",
+			"description":"<b>운전<\/b>면허 2종 보통 취득 영업 <b>직무<\/b>를 생각하자마자 ASAP으로 따야했던 <b>운전<\/b>면허. 나이가 스물중반이 넘어가지만 난 <b>운전<\/b>면허가 없었다... <b>운전<\/b>을 무서워하기보다는 지병(?)이 있었어서 평생 딸 일 없을 줄... ",
+			"bloggername":"오너의 청춘공장",
+			"bloggerlink":"https:\/\/blog.naver.com\/owner_0828",
+			"postdate":"20220628"
+		},
+		{
+			"title":"서산시, 음주<b>운전<\/b>·<b>직무<\/b>태만 등 공직기강 특별감찰",
+			"link":"https:\/\/blog.naver.com\/freshair9080?Redirect=Log&logNo=222802175152",
+			"description":"암행감찰로 진행되는 특별감찰은 음주<b>운전<\/b>, <b>직무<\/b>태만, 품위유지 위반, 금품․향응수수, 출장·초과근무, 당직·비상근무 실태 등이다. 특히, 휴가 및 추석명절 분위기에 편승하지 않도록 계도해 나갈 예정이다.... ",
+			"bloggername":"경제적 자유를 향해서 ~",
+			"bloggerlink":"https:\/\/blog.naver.com\/freshair9080",
+			"postdate":"20220706"
+		},
+		{
+			"title":"금지 원종성 음주<b>운전<\/b> 엄금 <b>직무<\/b>태만 복지부동 금지 민원처리 청렴",
+			"link":"https:\/\/blog.naver.com\/agpeople?Redirect=Log&logNo=222832285456",
+			"description":"주요내용은 ▲금품 및 향응 수수 금지 ▲음주<b>운전<\/b> 절대 엄금 ▲휴가철 분위기를 편승한 <b>직무<\/b>태만, 복지부동 금지 ▲민원처리 지연, 생활민원 소홀 등 소극행정 금지 ▲코로나19 방역수칙 준수 철저 등 5가지다.... ",
+			"bloggername":"충북의 소리",
+			"bloggerlink":"https:\/\/blog.naver.com\/agpeople",
+			"postdate":"20220728"
+		},
+		{
+			"title":"공무원 <b>운전 직무<\/b>수행 계획서 DownLoad",
+			"link":"https:\/\/blog.naver.com\/ken720?Redirect=Log&logNo=222767951770",
+			"description":"xid=a&amp;kid=b&amp;pk=20122940&amp;sid=qew132&amp;key= [문서정보] 문서분량 : 4 Page 파일종류 : HWP 파일 자료제목 : 공무원 <b>운전 직무<\/b>수행 계획서 파일이름 : 계획서[2].hwp 키워드 : 공무원,<b>운전<\/b>,<b>직무<\/b>수행... ",
+			"bloggername":"ken720님의블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/ken720",
+			"postdate":"20220610"
+		},
+		{
+			"title":"레과장 <b>직무<\/b>변경: 낮에는 <b>운전<\/b> 밤에는 메일쓰는 바쁜 일상과... ",
+			"link":"https:\/\/blog.naver.com\/rabbitbag?Redirect=Log&logNo=222585788391",
+			"description":"내년부터 필드세일즈로 <b>직무<\/b>를 변경하게 되었다. 항상 세일즈를 해보고 싶었는데 드디어 마케팅 -&gt; PM... 나는 집에서 약 한 시간 넘게 <b>운전<\/b>해서 왔는데 차가 갑자기 이렇게 심정지가 올 수도 있나? 안산까지는... ",
+			"bloggername":"레이라의 낭만핑크라이프 ♬ :D",
+			"bloggerlink":"https:\/\/blog.naver.com\/rabbitbag",
+			"postdate":"20211203"
+		},
+		{
+			"title":"김순득 &quot;음주<b>운전<\/b> 신고를 받고... 관한 일련의 <b>직무<\/b>집행 과정인지&quot;",
+			"link":"https:\/\/blog.naver.com\/adjuster2626?Redirect=Log&logNo=222328508643",
+			"description":"관한 <b>직무<\/b> 중 ‘<b>운전<\/b>’ 여부 확인을 위한 임의동행 요구에 해당하고, 피고인이 차량에서 내리자마자 도주한 것을 임의동행 요구에 대한 거부로 보더라도, 경찰관이 음주측정에 관한 <b>직무<\/b>를 계속하기 위하여... ",
+			"bloggername":"법무법인 세화(052-700-7474) 김순득변호사",
+			"bloggerlink":"https:\/\/blog.naver.com\/adjuster2626",
+			"postdate":"20210430"
+		},
+		{
+			"title":"공정<b>운전<\/b>, 설비안전 <b>직무<\/b>\/ 자소서 작성 방법\/화공엔지니어... ",
+			"link":"https:\/\/blog.naver.com\/career_o?Redirect=Log&logNo=222199002323",
+			"description":"모집 분야는 총 00명이고, 그중 '공정<b>운전<\/b>'<b>직무<\/b> 채용이 가장 많습니다. 공정운전, 설비\/안전 직무설명을 간략하게 해드리자면, 석유화학 회사는 기계\/전기\/화공\/안전 관련 전공자 분들을 기능직으로... ",
+			"bloggername":"공대선배의 자소서\/면접 컨설팅",
+			"bloggerlink":"https:\/\/blog.naver.com\/career_o",
+			"postdate":"20210107"
+		},
+		{
+			"title":"채용, <b>운전<\/b>서기보 자기소개서 <b>직무<\/b>수행계획서 작성, 첨삭 대행!... ",
+			"link":"https:\/\/blog.naver.com\/rhdygksk?Redirect=Log&logNo=222339479774",
+			"description":"<b>운전<\/b>직자기소개서대필 #<b>운전<\/b>서기보자소서대필 #자기소개서첨삭후기 #자소서첨삭후기 #자기소개서대필후기 #자소서대필후기 #채용 #취업 #취준 #취준생 #경력기술서 #<b>직무<\/b>수행계획서 #이력서 #신입 #경력... ",
+			"bloggername":"자소서헬프",
+			"bloggerlink":"https:\/\/blog.naver.com\/rhdygksk",
+			"postdate":"20210506"
+		},
+		{
+			"title":"국민권익위원회 <b>운전<\/b>서기보(<b>운전<\/b>직9급) <b>직무<\/b>수행계획서... ",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222804675434",
+			"description":"우대요건(<b>운전<\/b>관련 근무경력, <b>직무<\/b>관련 자격증, 무사고 <b>운전<\/b>경력 등) 나. 2차 시험 : 면접시험 ○ 서류전형 합격자를 대상으로 면접을 통해 공무원임용시험령 제5조에 따른 당해 <b>직무<\/b>수행에 필요한 능력 등... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20220708"
+		},
+		{
+			"title":"왕복 <b>운전<\/b> 6시간, <b>직무<\/b>연수 강의 6시간..피로와 힐링의 공존.",
+			"link":"https:\/\/blog.naver.com\/bsgyo?Redirect=Log&logNo=222620374545",
+			"description":"갈 때는 <b>운전<\/b>하면서 일출을 봤고,,, 집에 올 때는 <b>운전<\/b>하면서 일몰을 봤네요.....ㅎ 연수원 건물 내에 이런 공간도 있었습니다. 생각해보면 광주교육연수원은 시설 규모가 엄청 큰데... 우리 연수원에도 이런... ",
+			"bloggername":"박기오의 영어공부&일상 (English Study&Daily Life)",
+			"bloggerlink":"https:\/\/blog.naver.com\/bsgyo",
+			"postdate":"20220113"
+		},
+		{
+			"title":"<b>운전<\/b>직 공무원이 음주<b>운전<\/b>으로 <b>운전<\/b>면허가 취소되어 담당<b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/jhyo0227?Redirect=Log&logNo=222697336646",
+			"description":"&quot; &quot;해당 직급, 직위에서 <b>직무<\/b>를 수행하는 데 필요한 자격증의 효력이 없어지거나 면허가 취소되어 담당 <b>직무<\/b>를 수행할 수 없게 되었을 때&quot; 입니다. 소청인 주장 요지 ①소청인은 <b>운전<\/b>원에 종사하는 자로... ",
+			"bloggername":"행정심판전문행정사",
+			"bloggerlink":"https:\/\/blog.naver.com\/jhyo0227",
+			"postdate":"20220411"
+		},
+		{
+			"title":"코레일경험면접 <b>직무<\/b>상황면접 사무영업 <b>운전<\/b> 차량 토목 건축... ",
+			"link":"https:\/\/blog.naver.com\/rinbi0?Redirect=Log&logNo=222131055601",
+			"description":"코레일경험면접 <b>직무<\/b>상황면접 사무영업 <b>운전<\/b> 차량 토목 건축 전기통신 면접 코레일 채용 합격 후기 면접 기출 모음 코레일입사 안녕하세요. 당톡 쌤 입니다. 우선 필기전형을 무사히 통과하고 면접전형까지... ",
+			"bloggername":"DT당톡스피치학원 면접",
+			"bloggerlink":"https:\/\/blog.naver.com\/rinbi0",
+			"postdate":"20201030"
+		},
+		{
+			"title":"물류\/포워딩 <b>직무<\/b> 전담마크 멘토링 후기 (feat. 지게차<b>운전<\/b>기... ",
+			"link":"https:\/\/blog.naver.com\/onlypublicrelation?Redirect=Log&logNo=222615276026",
+			"description":"상담을 받을 때 멘토님께서 '물류 <b>직무<\/b>에 한해 지게차<b>운전<\/b>기능사를 따두면 좋다'는 말씀을 해주셨는데요 (멘토님께서 꼭 따라고 하진 않으셨지만 이런 것도 있으니 관심이 있으면 따보라는 뉘앙스로... ",
+			"bloggername":"B급 스펙으로 밥 벌어 먹고 살기",
+			"bloggerlink":"https:\/\/blog.naver.com\/onlypublicrelation",
+			"postdate":"20220107"
+		},
+		{
+			"title":"대리<b>운전<\/b>기사 <b>직무<\/b> 교육 실시",
+			"link":"https:\/\/blog.naver.com\/hanamtr11?Redirect=Log&logNo=222675240947",
+			"description":"대리<b>운전<\/b>기사 <b>직무<\/b> 교육을 실시합니다. 관심있는 분들의 많은 참여 바랍니다.",
+			"bloggername":"&apos;하남시이동노동자쉼터&apos;",
+			"bloggerlink":"https:\/\/blog.naver.com\/hanamtr11",
+			"postdate":"20220317"
+		},
+		{
+			"title":"총무 <b>직무<\/b> 지원 시 <b>운전<\/b>면허\/실력 은 필수요소인가요?",
+			"link":"https:\/\/blog.naver.com\/kil8853?Redirect=Log&logNo=220853618930",
+			"description":"하지만, 총무,영업,기술영업 <b>직무<\/b>는 말할것도 없고 인사\/개발\/재무\/회계 등등 모든 <b>직무<\/b>에서 <b>운전<\/b>실력은 필요하답니다. 실제로 총무<b>직무<\/b>를 수행하다보면 법인차량은 모든 <b>직무<\/b>에서 다 사용하는걸 알 수 있죠.... ",
+			"bloggername":"취업의신 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kil8853",
+			"postdate":"20161104"
+		},
+		{
+			"title":"<b>직무<\/b>수행계획서_보건관리 <b>직무<\/b> 이해 ㅣ 보건관리자 <b>직무<\/b> 설명",
+			"link":"https:\/\/blog.naver.com\/smiley2k?Redirect=Log&logNo=222670926814",
+			"description":"<b>운전<\/b> <b>운전<\/b>서기보 <b>직무<\/b>수행계획서 예시 및 작성 따라하기 [PDF파일 전자책] + 한글파일로 된 예시1편 일반사무 행정 <b>직무<\/b>수행계획서 예시 및 작성 따라하기 [PDF파일 전자책] + 한글 파일로 된 예시 1편 사회복지... ",
+			"bloggername":"김컨의 즐거운 직딩 생활 가이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/smiley2k",
+			"postdate":"20220312"
+		},
+		{
+			"title":"쿠팡맨 체력, <b>운전<\/b>, <b>직무<\/b> 테스트 알아볼까요",
+			"link":"https:\/\/lastark.tistory.com\/668",
+			"description":"쿠팡맨 체력, <b>운전<\/b>, <b>직무<\/b> 테스트 알아볼까요 꽤나 오래 전부터 로켓배송이라는 서비스를 바탕으로 고객들에게 택배를 받아볼 수 있는 기쁨을 빠르게 전달하는 쿠팡이 인기를 끌고 있습니다. 또한 이를 배달하는... ",
+			"bloggername":"꾸밈없는 이야기",
+			"bloggerlink":"https:\/\/lastark.tistory.com\/",
+			"postdate":"20190730"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 1일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221869210875",
+			"description":"석유화학공정<b>운전 직무<\/b>교육에 지원하여 면접을 본 후 합격하였습니다. 3월2일부로 개강 예정이었던 한국폴리텍대학교 울산캠퍼스 석유화학공정운전 교육이 코로나19로 계속 연기되면서 드디어 3월23일 비대면... ",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200323"
+		},
+		{
+			"title":"<b>운전<\/b>서기보 자기소개서, <b>운전<\/b>선기보 <b>직무<\/b>수행계획서... ",
+			"link":"https:\/\/blog.naver.com\/rhdygksd?Redirect=Log&logNo=221916552433",
+			"description":"#<b>운전<\/b>서기보자소서#<b>운전<\/b>직공무원자기소개서#<b>운전<\/b>직자소서첨삭#<b>운전<\/b>서기보자기소개서첨삭#<b>직무<\/b>수행계획서#취업준비#서류합격#서류인증#대기업#공채#면접#면접후기#<b>운전<\/b>직<b>직무<\/b>수행계획서#취업#대학교... ",
+			"bloggername":"자기소개서마스터",
+			"bloggerlink":"https:\/\/blog.naver.com\/rhdygksd",
+			"postdate":"20200419"
+		},
+		{
+			"title":"전북대학교 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서,자기소개서 대행안내",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222698606370",
+			"description":"<b>운전<\/b>서기보) 경력경쟁채용시험을 다음과 같이 공고하여 시행하오니 유능한 인재의 많은 응시 바랍니다. 2022년 4월 7일 전북대학교총장 채용(예정)직급 채용 인원 담당예정업무 임용 예정일 <b>운전<\/b>서기보... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20220412"
+		},
+		{
+			"title":"<b>운전<\/b> 서기보 <b>직무<\/b>수행계획서 작성법",
+			"link":"https:\/\/blog.naver.com\/mdmanse?Redirect=Log&logNo=221608747606",
+			"description":"<b>직무<\/b>수행계획서 작성법 중, <b>운전<\/b> 서기보 또는 <b>운전<\/b>직 <b>직무<\/b>수행계획서 작성법에 대한 포스트입니다. 계획서를 잘 쓰기 위해서는 먼저 공고문을 분석해야 하는데 <b>운전<\/b> 서기보 채용에 있어 공고에 명시된... ",
+			"bloggername":"DMF",
+			"bloggerlink":"https:\/\/blog.naver.com\/mdmanse",
+			"postdate":"20190807"
+		},
+		{
+			"title":"<b>운전<\/b> 서기보 <b>직무<\/b>수행계획서 첨삭 사례",
+			"link":"https:\/\/blog.naver.com\/sai16?Redirect=Log&logNo=220919151797",
+			"description":"최근에는 <b>운전<\/b> 서기보 자기소개서 및 <b>직무<\/b>수행계획서(1page)를 첨삭했습니다. 합격 기원합니다. <b>직무<\/b>수행계획서 관련 유료 첨삭을 진행하고 싶으신 분들은 kyg9051로 카톡! 주세요. 이메일 또는 댓글도... ",
+			"bloggername":"제이의 &apos;글&apos;다방 <잡로드>",
+			"bloggerlink":"https:\/\/blog.naver.com\/sai16",
+			"postdate":"20170124"
+		},
+		{
+			"title":"[대전국비지원]지게차<b>운전직무<\/b>입문과정 입교식",
+			"link":"https:\/\/blog.naver.com\/daehan7111?Redirect=Log&logNo=220919007582",
+			"description":"안녕하세요 설을 몇일 앞둔 1월24일 , 지게차<b>운전직무<\/b>입문과정 입교식을 진행했습니다. 과정명 : 지게차<b>운전 직무<\/b>입문과정 훈련기간 : 17.01.24 ~ 17.03.10 (150H) 추운날씨에도 불구하고 많은 분들께서 수강을... ",
+			"bloggername":"대한중장비운전학원 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daehan7111",
+			"postdate":"20170124"
+		},
+		{
+			"title":"NCS 면접서 \/ 09.<b>운전<\/b>·운송 분야 <b>직무<\/b>수행능력... ",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220706824754",
+			"description":"NCS 면접서 \/ 09.<b>운전<\/b>·운송 분야 <b>직무<\/b>수행능력 + <b>직무<\/b>중심 평가 대비 NCS 기반 <b>직무<\/b>수행능력+<b>직무<\/b>중심면접 평가 9 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.05.10. 리뷰보기 NCS 면접서 시리즈!... ",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160511"
+		},
+		{
+			"title":"【법원】 판사 3명, 불륜· 음주<b>운전<\/b>· <b>직무<\/b>위반으로 징계",
+			"link":"https:\/\/blog.naver.com\/esejong1?Redirect=Log&logNo=221807187142",
+			"description":"신수용 대기자 승인 2019.12.11 14:30 [e세종경제= 신수용대기자] 불륜 판사, 음주<b>운전<\/b> 판사. <b>직무<\/b>위반 판사...판사 3명이 징계를 받았다. 11일 법조계에 따르면 대법원은 법관징계위원회를 열어 이들 판사 3명에... ",
+			"bloggername":"e세종경제신문",
+			"bloggerlink":"https:\/\/blog.naver.com\/esejong1",
+			"postdate":"20200213"
+		},
+		{
+			"title":"국립국악고등학교 공무원 9급(<b>운전<\/b>) <b>직무<\/b>수행계획서 작성 대행... ",
+			"link":"https:\/\/blog.naver.com\/pcg44?Redirect=Log&logNo=221182753141",
+			"description":"국립국악고등학교 공무원 9급(<b>운전<\/b>) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 5만원 : 2매 기준 \/ 3일 (공휴일 제외) ※ 서류 작성 기간은 의뢰인의 사정에 따라... ",
+			"bloggername":"사업계획서 & 제안서 & 기획서 & 회사소개서",
+			"bloggerlink":"https:\/\/blog.naver.com\/pcg44",
+			"postdate":"20180111"
+		},
+		{
+			"title":"지게차<b>운전 직무<\/b>기술서",
+			"link":"https:\/\/blog.naver.com\/clark6591?Redirect=Log&logNo=222549832677",
+			"description":"",
+			"bloggername":"클라크지게차 직업훈련 교육학원",
+			"bloggerlink":"https:\/\/blog.naver.com\/clark6591",
+			"postdate":"20211027"
+		},
+		{
+			"title":"(그냥 생각나서 써보는) 경영지원 <b>직무<\/b>로 취업에 도움이 되는... ",
+			"link":"https:\/\/blog.naver.com\/sonyloves?Redirect=Log&logNo=222831745374",
+			"description":"결론부터 적자면 인사: 노무사 재무\/회계: 회계사, 세무사 법무: 변호사 구매: CPSM 총무: <b>운전<\/b>면허증, (공인중개사) * 총무는 <b>직무<\/b>에 따라서 차이가 있지만 1) <b>운전<\/b>면허 (가능하면 1종) 2) 산업안전기사... ",
+			"bloggername":"평범한 직장인의 투자\/공부 이야기",
+			"bloggerlink":"https:\/\/blog.naver.com\/sonyloves",
+			"postdate":"20220727"
+		},
+		{
+			"title":"<b>직무<\/b>편 - 슈퍼바이저",
+			"link":"https:\/\/blog.naver.com\/kil8853?Redirect=Log&logNo=222388718592",
+			"description":"자격증보다는 정성적인 경력이 더 중요한 <b>직무<\/b>이지만, <b>운전<\/b>면허증이 있으면 좋습니다. 보통 슈퍼바이저는 본인이 맡은 지역 내에서 움직이게 되는 일이 잦고, 체력적으로 소모가 큽니다. ㅠㅠ 체력뿐만 아니라..... ",
+			"bloggername":"취업의신 블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/kil8853",
+			"postdate":"20210607"
+		},
+		{
+			"title":"<b>직무<\/b>수행계획서_홍보 온라인 홍보 <b>직무<\/b> 이해 ㅣ 홍보 <b>직무<\/b> 설명",
+			"link":"https:\/\/blog.naver.com\/smiley2k?Redirect=Log&logNo=222667555357",
+			"description":"예시 및 작성법 * <b>운전<\/b> <b>운전<\/b>서기보 <b>직무<\/b>수행계획서 예시 및 작성법 * 일반사무 행정 <b>직무<\/b>수행계획서 예시 및 작성법 * 사회복지 <b>직무<\/b>수행계획서 예시 및 작성법 * 재무 회계 <b>직무<\/b>수행계획서 예시 및 작성법",
+			"bloggername":"김컨의 즐거운 직딩 생활 가이드",
+			"bloggerlink":"https:\/\/blog.naver.com\/smiley2k",
+			"postdate":"20220309"
+		},
+		{
+			"title":"춘천지방검찰청 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서,자기소개서 대행안내",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222325080519",
+			"description":"춘천지방검찰청에서는 2021년도 제1회 일반직공무원(<b>운전<\/b>서기보) 경력경쟁채용시험 시행계획을... 있음 <b>직무<\/b>수행계획서와 자기소개서 대행을 원하시는 분들은 아래로 들어가셔서 신청하십시오!... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20210427"
+		},
+		{
+			"title":"창원보훈지청 일반직공무원(<b>운전<\/b>서기보) <b>직무<\/b>수행계획서 작성... ",
+			"link":"https:\/\/ebizbrain.tistory.com\/798",
+			"description":"창원보훈지청 일반직공무원(<b>운전<\/b>서기보) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 5만원 : 2매 기준 \/ 3일 (공휴일 제외) ※ 서류 작성 기간은 의뢰인의 사정에 따라... ",
+			"bloggername":"사업계획서\/제안서\/기획서\/보고서 :: 사업계획서\/제안서\/기획서\/보고서",
+			"bloggerlink":"https:\/\/ebizbrain.tistory.com\/",
+			"postdate":"20140806"
+		},
+		{
+			"title":"&apos;만취 <b>운전<\/b>·<b>직무<\/b> 태만&apos; 현직 검사 2명 1개월 감봉 징계",
+			"link":"https:\/\/blog.naver.com\/korailyj?Redirect=Log&logNo=220625415886",
+			"description":"'만취 <b>운전<\/b>·<b>직무<\/b> 태만' 현직 검사 2명 1개월 감봉 징계 2016.02.12 오전 10:31 법무부가 음주운전을 하고 직무를 태만히 한 지방검찰청 검사들을 징계했다 전주지검 김모 검사(42)는 지난해 9월18일 술에... ",
+			"bloggername":"청렴교육원",
+			"bloggerlink":"https:\/\/blog.naver.com\/korailyj",
+			"postdate":"20160213"
+		},
+		{
+			"title":"<b>운전<\/b>서기보 <b>직무<\/b>수행계획서 작성 가이드",
+			"link":"https:\/\/blog.naver.com\/place86?Redirect=Log&logNo=220835620181",
+			"description":"<b>운전<\/b>서기보 <b>직무<\/b>수행계획서 작성가이드 1 작성분량 <b>운전<\/b>직 서기보의 경우 작성분량은 1페이지 분량이 가장 많습니다. 2페이지에서 최대 3페이지까지 작성을 해보았는데요. 3페이지는 7년 동안 2회뿐이고... ",
+			"bloggername":"오아시스 디자인",
+			"bloggerlink":"https:\/\/blog.naver.com\/place86",
+			"postdate":"20161013"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 23일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221925644781",
+			"description":"금일 4월 23일 목요일 강의는 공정<b>운전<\/b>실무와 화공품질관리 강의를 학습하였습니다. 공정<b>운전<\/b>실무 5주차 강의는 석유화학 제품 생산 주요 공정 <b>운전<\/b>(증류공정)에 대해 학습할 수 있었습니다. 1. 증류 공정의... ",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200424"
+		},
+		{
+			"title":"[대전국비지원]지게차<b>운전직무<\/b>입문과정 사전설명회",
+			"link":"https:\/\/blog.naver.com\/daehan7111?Redirect=Log&logNo=220915198363",
+			"description":"오늘은 대한중장비운전학원 실업자과정 중 지게차<b>운전직무<\/b>입문과정의 사전설명회가 있었습니다. 사전설명은 공명선 상담선생님이 진행하셨구요 . 한용동 원장님께서, 면담과 과정설명 추가해주셨습니다.... ",
+			"bloggername":"대한중장비운전학원 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daehan7111",
+			"postdate":"20170119"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 NCS 09. <b>운전<\/b>·운송 책 추천!",
+			"link":"https:\/\/blog.naver.com\/bosungabi?Redirect=Log&logNo=220612218751",
+			"description":"<b>운전<\/b>·운송을 요구할 경우 <b>직무<\/b>기술서를 미리 볼 수 있어요. NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가 09 <b>운전<\/b>.운송 작가 NCS 채용 시험 연구회 출판 씨마스 발매 2016.01.20. 리뷰보기",
+			"bloggername":"수험서의 명가 씨마스",
+			"bloggerlink":"https:\/\/blog.naver.com\/bosungabi",
+			"postdate":"20160129"
+		},
+		{
+			"title":"최근 <b>운전<\/b> 서기보 자소서 및 <b>직무<\/b>수행계획서 첨삭",
+			"link":"https:\/\/blog.naver.com\/sai16?Redirect=Log&logNo=220952786453",
+			"description":"최근에 메일로 의뢰가 들어와 <b>운전<\/b> 서기보 자소서 및 <b>직무<\/b>수행계획서를 첨삭했습니다. ^^ <b>운전<\/b> 서기보 자소서 및 <b>직무<\/b>수행계획서 첨삭을 의뢰하고 싶은 분들은 *****@*****.***로 메일을 주시거나... ",
+			"bloggername":"제이의 &apos;글&apos;다방 <잡로드>",
+			"bloggerlink":"https:\/\/blog.naver.com\/sai16",
+			"postdate":"20170308"
+		},
+		{
+			"title":"법무부, 비위검사 솜방망이 처벌 금품 수수, 음주<b>운전<\/b>, <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/skrlxo325?Redirect=Log&logNo=100091048024",
+			"description":"법무부, 비위검사 솜방망이 처벌 금품 수수, 음주<b>운전<\/b>, <b>직무<\/b> 태만 등 징계나 경고 처분 2009-10-14 07:11 CBS정치부 곽인숙 기자 법무부가 검사들의 비리나 규정 위반 행위에 대부분 경고나 주의 등 관대한... ",
+			"bloggername":"★ ROGUE STATES ☆",
+			"bloggerlink":"https:\/\/blog.naver.com\/skrlxo325",
+			"postdate":"20091014"
+		},
+		{
+			"title":"충남교육청 교육연수원\/ 안전<b>운전 직무<\/b>능력향상연수... ",
+			"link":"https:\/\/blog.naver.com\/yeesul88?Redirect=Log&logNo=221607089566",
+			"description":"교육청 2.300회 강의경력 * 교사.지방공무원 <b>직무<\/b>에 딱 맞는 맞춤식강의 * 전국교육연수원 연수생이 선택한 우수강사선정! * 강의에도 품질이있습니다. 전문지식과 풍부한경험. 축척된전문기술로 교육연수의... ",
+			"bloggername":"한국안전교육센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/yeesul88",
+			"postdate":"20190806"
+		},
+		{
+			"title":"<b>운전<\/b>서기보 자기소개서, <b>직무<\/b>수행계획서 작업 완료!",
+			"link":"https:\/\/blog.naver.com\/ohrunis?Redirect=Log&logNo=222670015322",
+			"description":"<b>운전<\/b>서기보 자기소개서, <b>직무<\/b>수행계획서 작업 완료해 드렸습니다. <b>운전<\/b>서기보와 방호서기보 양식은 기관마다 많이 다르지 않습니다. 대동소이합니다. 처음 만들 때 잘 만들어 두면 기관명 등만 바꿔서 계속... ",
+			"bloggername":"따뜻한 첨삭선생",
+			"bloggerlink":"https:\/\/blog.naver.com\/ohrunis",
+			"postdate":"20220311"
+		},
+		{
+			"title":"국무조정실,국무총리비서실 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서... ",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222579950490",
+			"description":"<b>직무<\/b>수행계획서, 관련 분야 근무경력, 무사고이력 등 ② 2차시험 : 면접시험 ※ 1차시험 합격자에 한하여 실시 ㅇ 서류전형 합격자를 대상으로 면접을 통해 공무원임용시험령 제5조에 따른 당해 <b>직무<\/b>수행... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20211127"
+		},
+		{
+			"title":"2021년 하반기 한국철도공사 신입사원 및 체험형인턴...<b>직무<\/b>소... ",
+			"link":"https:\/\/blog.naver.com\/ricefield?Redirect=Log&logNo=222560929439",
+			"description":"세부 공고 내용 확인 및 접수방법 - 한국철도공사 채용 홈페이지 바로가기 https:\/\/korail.cairos.co.kr\/korail\/1108\/ 토목 장비분야 채용 전형절차별 세부사항 #철도장비<b>운전<\/b> #<b>직무<\/b>소개서 #직무기술서 #코레일... ",
+			"bloggername":"커리어 마라톤",
+			"bloggerlink":"https:\/\/blog.naver.com\/ricefield",
+			"postdate":"20211107"
+		},
+		{
+			"title":"경기도 지게차 <b>운전<\/b>... 기업연계 <b>직무<\/b>훈련 프로그램 교육생... ",
+			"link":"https:\/\/simplelife100.tistory.com\/293",
+			"description":"26 태그 경기도 4060 중장년층 직업 훈련 교육, 경기도 경비지도사 양성 교육, 경기도 병원행정사무원 교육, 경기도 지게차 <b>운전<\/b> 교육, 업연계 <b>직무<\/b>훈련 프로그램 교육생 모집 '정보\/교육&amp;생활' Related... ",
+			"bloggername":"일등 정보",
+			"bloggerlink":"https:\/\/simplelife100.tistory.com\/",
+			"postdate":"20200922"
+		},
+		{
+			"title":"조달청 <b>운전<\/b>원(<b>운전<\/b>서기보) <b>직무<\/b>수행계획서 작성 대행 안내",
+			"link":"https:\/\/ebizbrain.tistory.com\/443",
+			"description":"조달청 <b>운전<\/b>원(<b>운전<\/b>서기보) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 5만원 : 1매 기준 \/ 3일 (공휴일 제외) ※ 서류 작성 기간은 의뢰인의 사정에 따라 조정(단축)... ",
+			"bloggername":"사업계획서\/제안서\/기획서\/보고서 :: 사업계획서\/제안서\/기획서\/보고서",
+			"bloggerlink":"https:\/\/ebizbrain.tistory.com\/",
+			"postdate":"20140619"
+		},
+		{
+			"title":"전력분석 490kW 기동 및 <b>운전<\/b> 참고자료. (<b>직무<\/b>고시점검... ",
+			"link":"https:\/\/blog.naver.com\/mgb2002?Redirect=Log&logNo=222002686952",
+			"description":"3상 유도전동기 기동 및 <b>운전<\/b> 참고 자료입니다. 점검시 1~4호기 중 1대가 최대 부하로 <b>운전<\/b>되고 있어 과부하로 인한 소손이 우려되어, VCB, VC, 리액터 등 정밀 점검 실시하였습니다. 전기적인 문제로는... ",
+			"bloggername":"◇ 목이 마르기전에 우물을 파라 ◇",
+			"bloggerlink":"https:\/\/blog.naver.com\/mgb2002",
+			"postdate":"20200616"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 13일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221897551475",
+			"description":"프로젝트실습의 강의 주제는 탈염기의 <b>운전<\/b> 변수 분석입니다. 먼저 원유 처리량에 따른 공정 영향을... 일반적으로 총 처리 원유 중 슬롭 오일(Slop oil) 함량이 2%를 넘지 않게 <b>운전<\/b>한다. 그리고 탈염기 <b>운전<\/b>... ",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200408"
+		},
+		{
+			"title":"[대전 중장비학원-국비지원] 굴삭기<b>운전직무<\/b>입문과정 입교준비",
+			"link":"https:\/\/blog.naver.com\/daehan7111?Redirect=Log&logNo=220875974442",
+			"description":"못들어오는 수강생분들~~ 좌절하지 마세요^^ 1월에는 지게차 , 굴삭기<b>운전 직무<\/b>입문과정 입교식이 있습니다. 국비지원으로 중장비를 배우고 싶으신 분들은 대한중장비운전학원으로 전화주세요 ~~ (042-673-2003)",
+			"bloggername":"대한중장비운전학원 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daehan7111",
+			"postdate":"20161202"
+		},
+		{
+			"title":"동북지방통계청 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서 대행안내",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222309938031",
+			"description":"2021년도 동북지방통계청 <b>운전<\/b>서기보 경력경쟁채용시험 계획을 다음과 같이 공고하오니 역량 있는... 배포 <b>직무<\/b>수행계획서와 자기소개서 대행을 원하시는 분들은 아래로 들어가셔서 신청하십시오!... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20210414"
+		},
+		{
+			"title":"전주교도소 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서, 자기소개서 대행안내",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222578243983",
+			"description":"<b>운전<\/b> <b>운전<\/b>서기보 (9급) 1명 전주교도소 복지과 ❍ 공용차량(대형버스 포함) 운행 및 점검·유지관리 ❍ 기타 교정행정에 관한 사항 등 ※ 자세한 담당예정업무 및 관련분야는 【붙임】<b>직무<\/b>기술서 참조... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20211125"
+		},
+		{
+			"title":"수원지방검찰청 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서, 자기소개서... ",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222666088130",
+			"description":"수원지방검찰청 2022년도 제2회 일반직공무원(<b>운전<\/b>서기보) 경력경쟁채용시험을 다음과 같이 공고합니다. 2022년 3월 7일 수원지방검찰청검사장 채용분야 채용직급 인원 담당업무 근무예정지 <b>운전<\/b>... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20220307"
+		},
+		{
+			"title":"국가보훈처 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서, 자기소개서 대행안내",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222565822724",
+			"description":"표지에 ‘<b>운전<\/b>서기보 공무원 응시원서 재중’ 기재 ※ 등기우편접수는 ‘접수 마감일(11.18.) 18:00이전 소인분’에 한하여 유효한 접수분 으로 인정하며, 택배·전자우편·퀵서비스 통한 접수는 하지... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20211112"
+		},
+		{
+			"title":"국무조정실.국무총리비서실 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서... ",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222299292797",
+			"description":"국무조정실 공고 제2021-37호 국무조정실·국무총리비서실 <b>운전<\/b>서기보 경력경쟁채용 공고 국무조정실... 30107 <b>직무<\/b>수행계획서와 자기소개서 대행을 원하시는 분들은 아래로 들어가셔서 신청하십시오!... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20210405"
+		},
+		{
+			"title":"국가공무원인재개발원 <b>운전<\/b>서기보(<b>운전<\/b>9급공무원) <b>직무<\/b>수행계... ",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222767023967",
+			"description":"<b>운전<\/b>9급 공무원을 신규 채용하고자 하오니 유능한 인재의 많은 응시를 바랍니다. 2022년 6월 9일 국가공무원인재개발원장 1. 채용분야 및 직급 채용분야 채용직급 채용인원 근무예정지 <b>운전<\/b> <b>운전<\/b>서기보... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20220610"
+		},
+		{
+			"title":"국가인권위원회 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서,자기소개서 대행안내",
+			"link":"https:\/\/blog.naver.com\/jsresume6?Redirect=Log&logNo=222556023882",
+			"description":"국가인권위원회에서는 다음과 같이 일반직공무원(<b>운전<\/b>서기보) 경력경쟁채용시험을 공고하오니... 공무원채용담당 (<b>운전<\/b>서기보 응시원서 재중 표기) 대행을 원하시는 분들은 아래로 들어가셔서... ",
+			"bloggername":"취업정보센터",
+			"bloggerlink":"https:\/\/blog.naver.com\/jsresume6",
+			"postdate":"20211102"
+		},
+		{
+			"title":"[대전국비지원학원] 지게차, 굴삭기 <b>운전직무<\/b>입문과정(1기)... ",
+			"link":"https:\/\/blog.naver.com\/daehan7111?Redirect=Log&logNo=220900788473",
+			"description":"대한중장비운전학원은 국비과정을 진행하고있어요 . 내일배움카드 발급진행하시면 과정에 참여하실수있어요 . 12월 30일 (금)에는 16년 11월 19일에 시작한 지게차, 굴삭기 <b>운전직무<\/b>입문과정 수료식이... ",
+			"bloggername":"대한중장비운전학원 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/daehan7111",
+			"postdate":"20170102"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 18일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221912264658",
+			"description":"금일 4월 16일 목요일 수업으로 공정<b>운전<\/b>실무와 화공품질관리 강의를 학습하였습니다. 공정<b>운전<\/b>실무 4주차 강의 주제는 석유화학 제품 생산 주요 공정 <b>운전<\/b>입니다. 석유화학공정에는 4가지로서 '원료 공급... ",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200417"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 4일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221874480114",
+			"description":"금일 3월 26일 목요일 수업으로 공정<b>운전<\/b>실무와 화공품질관리 2가지 수업을 수강하였습니다. 공정<b>운전<\/b>실무 교육의 목표 화학공정 설비의 <b>운전<\/b>원으로서 갖추어야 할 마음 자세와 안전 <b>운전<\/b>을 위한 공정 <b>운전<\/b>... ",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200326"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 14일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221899656137",
+			"description":"금일 4월 9일 목요일에는 공정<b>운전<\/b>실무와 화공품질관리 과목을 학습하였습니다. 교수님들께서 PPT자료 외에도 유튜브나 동영상을 통해서 교육을 해주셔서 더욱 쉽게 학습할 수 있었습니다. 공정<b>운전<\/b>실무... ",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200409"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 19일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221919352417",
+			"description":"Preflash Column 장점 1) Tower <b>운전<\/b>압력 감소 2) Pump\/열교환기 Design Pressure 감소 3) Heater Load 감소 4)... A-Tower <b>운전<\/b>압력 상승 2) 에너지 효율 낮음 3) Foaming 및 Liquid Carry Over로 A-Tower Hunting 발생 기능... ",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200420"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 22일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221925545624",
+			"description":"수요일 강의 중 하나인 공정<b>운전<\/b>실무 강의는 PPT로 보았는데 교수님 음성이 나오지 않아 학습을 할 수... 장치 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 설비유지관리 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200423"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 20일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221919438332",
+			"description":"띔 3) 양이온(Cation) 전자를 잃었을 경우 양전하를 띔 ex) 이온을 알고 있을 때 이온성 화합물의 화학식 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 기초화학개론 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200420"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 5일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221876826870",
+			"description":"공정<b>운전<\/b> 및 유지보수 능력을 증대하도록 한다. 원유의 특징 1) 열량이 높은, 불순물이 적음 2)... 불림 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 화공도면실무 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200327"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 3일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221873155038",
+			"description":"프로젝트실습 비대면강의로 교수님께서 올려주신 '석유제품제조공정과 공정<b>운전<\/b>' 강의안을 통해... 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 프로젝트실습 및 유틸리티관리... ",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200325"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 10일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221888774255",
+			"description":"분석 소요 기간 파악 3. 전처리 및 분석소요 시간을 고려하여 비용 산출 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 화공품질관리 및 위험물안전 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200403"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 8일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221886711642",
+			"description":"보일러에서 생산한 스팀을 사용장소에 공급해 주는 관로에 부착된 품목 등으로 구성되어있습니다. 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 프로젝트실습 및 설비유지관리 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200402"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 2일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221870600829",
+			"description":"그리고 부식성이 있고 피부를 손상시키며 증기는 인체에 유해합니다. 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 직업과 사회 및 석유화학개론 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200324"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 16일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221906720039",
+			"description":"D인 원형 관에서 부피유속(Q)을 흐름의 단면적(A)으로 나누면 평균유속(u)을 구할 수 있다. 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 기초화학개론 및 화학공정양론 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200413"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 6일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221881994254",
+			"description":"외우는 것이 아니라 최외각 전자의 수가 원자의 특성을 나타내기 때문에 반드시 외우라고 하셨습니다. 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 화공양론 및 기초화학개론 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200330"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 9일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221886928407",
+			"description":"금일 4월 2일 목요일 수업으로 공정<b>운전<\/b>실무와 화공도면실무 강의를 학습하였습니다. 공정<b>운전<\/b>실무 2주차 강의는 화학공정<b>운전<\/b>에 필요한 환경 점검에 대한 내용을 배웠습니다. 작업환경이란?... ",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200402"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 15일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221902955443",
+			"description":"나오는 잔사유를 감압증류하여 가벼운 경질유분을 제거시킨 감압잔사유로부터 생산됩니다. 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 위험물안전 및 화공도면실무 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200411"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 21일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221920833389",
+			"description":"(OH-)과 반응할 수 있는 물질의 양 산 또는 염기 의 1당량의 질량 = g분자량\/(H+ 또는 OH- 갯수) 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화학공정<b>운전<\/b> 직업과사회 및 화학공정양론 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200421"
+		},
+		{
+			"title":"시정연설문 작성, 대외협력(<b>운전<\/b>)) <b>직무<\/b>수행계획서 작성 대행 안내",
+			"link":"https:\/\/ebizbrain.tistory.com\/1849",
+			"description":"부산광역시 지방임기제공무원(해양정책 개발, 시정연설문 작성, 대외협력(<b>운전<\/b>)) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 10만원 : 5매 기준 \/ 3일 (공휴일 제외)... ",
+			"bloggername":"사업계획서\/제안서\/기획서\/보고서 :: 사업계획서\/제안서\/기획서\/보고서",
+			"bloggerlink":"https:\/\/ebizbrain.tistory.com\/",
+			"postdate":"20150109"
+		},
+		{
+			"title":"[한전KPS] 정규직(송전,기계,전기,계측,잠수,<b>운전<\/b>)\/~4.12",
+			"link":"https:\/\/blog.naver.com\/winofwar?Redirect=Log&logNo=222685316118",
+			"description":"(6직급 운전) 1종 대형면허 취득 후 기업체 <b>운전직무<\/b>(차종무관) 수행경력 2년 이상 우대내용 □ (공통)보훈대상자, 장애인, 저소득계층, 다문화가정의 자녀, 북한이탈주민, 이전지역인재, 우수인턴 선발자... ",
+			"bloggername":"공공기관 채용정보 공유",
+			"bloggerlink":"https:\/\/blog.naver.com\/winofwar",
+			"postdate":"20220328"
+		},
+		{
+			"title":"관리, 청년창업 지원, <b>운전<\/b>) <b>직무<\/b>수행계획서 작성 대행 안내",
+			"link":"https:\/\/ebizbrain.tistory.com\/3056",
+			"description":"광명시 지방임기제공무원(광명동굴 편익시설 조리, 광명동굴 운영요원 관리, 청년창업 지원, <b>운전<\/b>) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 10만원 : 3매 기준 \/ 3일... ",
+			"bloggername":"사업계획서\/제안서\/기획서\/보고서 :: 사업계획서\/제안서\/기획서\/보고서",
+			"bloggerlink":"https:\/\/ebizbrain.tistory.com\/",
+			"postdate":"20150622"
+		},
+		{
+			"title":"한국폴리텍 울산캠퍼스 석유화학공정<b>운전 직무<\/b>교육 24일차",
+			"link":"https:\/\/blog.naver.com\/operator6551?Redirect=Log&logNo=221933309982",
+			"description":"통계열역학을 기반으로 이론적으로 가장 좋은 배경을 가지고 있음 ( Z = 압축인자) 3) 반데르 발스 상태방정식 출처_ 한국폴리텍대학교 울산캠퍼스 에너지화학공정과 석유화하공정<b>운전<\/b> 화공도면실무 참조",
+			"bloggername":"석유화학 및 장치산업 꿈나무",
+			"bloggerlink":"https:\/\/blog.naver.com\/operator6551",
+			"postdate":"20200428"
+		},
+		{
+			"title":"밀양구치소 일반직공무원(<b>운전<\/b>서기보) <b>직무<\/b>수행계획서 작성... ",
+			"link":"https:\/\/blog.naver.com\/pcg44?Redirect=Log&logNo=221190965040",
+			"description":"밀양구치소 일반직공무원(<b>운전<\/b>서기보) <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 5만원 : 2매 기준 \/ 3일 (공휴일 제외) ※ 서류 작성 기간은 의뢰인의 사정에 따라... ",
+			"bloggername":"사업계획서 & 제안서 & 기획서 & 회사소개서",
+			"bloggerlink":"https:\/\/blog.naver.com\/pcg44",
+			"postdate":"20180122"
+		},
+		{
+			"title":"사업 (고도화)창업팀 협력기관 소개 -한국대리<b>운전<\/b>협동조합편-",
+			"link":"https:\/\/blog.naver.com\/coop_2012?Redirect=Log&logNo=221926838125",
+			"description":"한국대리운전협동조합은 노동자 중심의 직무교육을 운영하고 있고, 320페이지 대리<b>운전 직무<\/b>안내서와 카드뉴스형 교육자료 600카드, 대리운전 지리정보 검색 전용앱을 통해 팀학습 커뮤니티 모델을 구축한 바... ",
+			"bloggername":"협동조합 공식블로그",
+			"bloggerlink":"https:\/\/blog.naver.com\/coop_2012",
+			"postdate":"20200424"
+		},
+		{
+			"title":"산업통상자원부 군산자유무역지역관리원 <b>운전<\/b>서기보 <b>직무<\/b>수행... ",
+			"link":"https:\/\/blog.naver.com\/pcg44?Redirect=Log&logNo=221182778038",
+			"description":"산업통상자원부 군산자유무역지역관리원 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 10만원 : 5매 기준 \/ 3일 (공휴일 제외) ※ 서류 작성 기간은... ",
+			"bloggername":"사업계획서 & 제안서 & 기획서 & 회사소개서",
+			"bloggerlink":"https:\/\/blog.naver.com\/pcg44",
+			"postdate":"20180111"
+		},
+		{
+			"title":"옥천소방서, 음주<b>운전<\/b> 근절 <b>직무<\/b>교육 가져",
+			"link":"https:\/\/ksson108.tistory.com\/2989",
+			"description":"[불교공뉴스-옥천] 옥천소방서에서는 지난 3일 전 직원이 참석한 가운데 음주<b>운전<\/b> 근절을 위한 <b>직무<\/b>교육을 가졌다. 이번 교육은 최근 사회적 물의를 일으키고 있는 음주<b>운전<\/b> 실태를 통하여... ",
+			"bloggername":"불교공뉴스 TV",
+			"bloggerlink":"https:\/\/ksson108.tistory.com\/",
+			"postdate":"20160204"
+		},
+		{
+			"title":"방적공장 중 <b>운전<\/b>보전이라는 <b>직무<\/b>가 있나요?",
+			"link":"https:\/\/blog.naver.com\/ch02025?Redirect=Log&logNo=30186746143",
+			"description":"[질문 요지] 방적공장 중 <b>운전<\/b>보전이라는 <b>직무<\/b>가 있나요? 아시는분 어떤일인지 설명해주실수 있으신가요? [답 변] 갈마 어떤직조메 있으신 분이 왜 묻는지를 알고 싶습니다. 당연히 <b>운전<\/b>보전이란직종이... ",
+			"bloggername":"♥멋쟁이 신사(ch02025)♥ 행복 블로그^0^",
+			"bloggerlink":"https:\/\/blog.naver.com\/ch02025",
+			"postdate":"20140311"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>수행능력+<b>직무<\/b>중심면접 평가. 9: <b>운전<\/b> 운송",
+			"link":"https:\/\/blog.naver.com\/gosimart?Redirect=Log&logNo=220698942384",
+			"description":"‘자동차 <b>운전<\/b>·운송’ <b>직무<\/b> 관련 면접 질문 문항 03. ‘철도 <b>운전<\/b>·운송’ <b>직무<\/b> 관련 면접 질문 문항 04. ‘선박 <b>운전<\/b>·운송’ <b>직무<\/b> 관련 면접 질문 문항 05. ‘항공기 <b>운전<\/b>·운송’ <b>직무<\/b> 관련 면접 질문... ",
+			"bloggername":"온라인교육 플랫폼 캠버스에듀",
+			"bloggerlink":"https:\/\/blog.naver.com\/gosimart",
+			"postdate":"20160502"
+		},
+		{
+			"title":"아산교육지원청, 조리·<b>운전<\/b> 직렬대상 <b>직무<\/b>연수",
+			"link":"https:\/\/blog.naver.com\/lyjsimon?Redirect=Log&logNo=220783337818",
+			"description":"아산교육지원청(교육장 김준표)은 여름 방학을 맞아 학교 일선에서 학생들의 식품 안전과 통학차량 운행에 힘쓰는 조리사와 <b>운전<\/b>원들을 대상으로 지난 8일과 9일 2일간에 걸쳐 '2016년 조리·<b>운전<\/b> 직렬 대상 <b>직무<\/b>... ",
+			"bloggername":"아름다운 세상",
+			"bloggerlink":"https:\/\/blog.naver.com\/lyjsimon",
+			"postdate":"20160809"
+		},
+		{
+			"title":"음주 <b>운전<\/b> 검사, 3개월간 <b>직무<\/b> 정지",
+			"link":"https:\/\/blog.naver.com\/jugangyopo?Redirect=Log&logNo=140115416556",
+			"description":"음주 <b>운전<\/b> 검사, 3개월간 <b>직무<\/b> 정지 루벤 깐디아 아마릴랴 검찰총장은 음주 <b>운전<\/b>으로 물의를 일으킨 아동 청소년과의 루스 떼레시따 빠에스 검사에게 3개월 정직과 급여 정지 판정을 내렸다. 음주 측정 당시... ",
+			"bloggername":"파라과이 네트워크 - PARAGUAY NETWORK",
+			"bloggerlink":"https:\/\/blog.naver.com\/jugangyopo",
+			"postdate":"20100928"
+		},
+		{
+			"title":"감사원 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서 작성 대행 안내",
+			"link":"https:\/\/ebizbrain.tistory.com\/1678",
+			"description":"감사원 <b>운전<\/b>서기보 <b>직무<\/b>수행계획서 작성 대행 안내 ● 서류 작성 대행 비용 및 기간 안내 - 10만원 : 3매 기준 \/ 3일 (공휴일 제외) ※ 서류 작성 기간은 의뢰인의 사정에 따라 조정(단축)... ",
+			"bloggername":"사업계획서\/제안서\/기획서\/보고서 :: 사업계획서\/제안서\/기획서\/보고서",
+			"bloggerlink":"https:\/\/ebizbrain.tistory.com\/",
+			"postdate":"20141218"
+		},
+		{
+			"title":"<b>운전<\/b>서기보) 경력경쟁채용시험에서 가장 중요한 <b>직무<\/b>수행계획... ",
+			"link":"https:\/\/blog.naver.com\/oregonking?Redirect=Log&logNo=220912513562",
+			"description":"경주교도소 일반직공무원(<b>운전<\/b>서기보) 채용에서 가장 중요한 것은 바로 경주교도소 일반직공무원(<b>운전<\/b>서기보) <b>직무<\/b>수행계획서입니다~ 경주교도소 일반직공무원(<b>운전<\/b>서기보) <b>직무<\/b>수행계획서는 시험공고에... ",
+			"bloggername":"직무수행계획서, 자기소개서 전문 에스엠씨지코리아",
+			"bloggerlink":"https:\/\/blog.naver.com\/oregonking",
+			"postdate":"20170116"
+		},
+		{
+			"title":"지게차<b>운전 직무<\/b>기술서",
+			"link":"https:\/\/blog.naver.com\/clark777?Redirect=Log&logNo=222302832981",
+			"description":"",
+			"bloggername":"클라크지게차직업훈련교육학원 1800-6591",
+			"bloggerlink":"https:\/\/blog.naver.com\/clark777",
+			"postdate":"20210408"
+		},
+		{
+			"title":"슬기로운 대리<b>운전<\/b> 1기 교육 및 멘토링 시작 (2022.5.17~)",
+			"link":"https:\/\/blog.naver.com\/busanmobileworker?Redirect=Log&logNo=222802735676",
+			"description":"대리운전 초보 기사들을 위한 카부기 상호공제회의 &lt;슬기로운 대리<b>운전<\/b>&gt; <b>직무<\/b>교육이 2022년 5월 17일 화요일 새벽에 부산 이동플랫폼노동자지원센터 도담도담에서 열렸다. 12명의 교육생과 8명의 멘토가... ",
+			"bloggername":"카부기상호공제회",
+			"bloggerlink":"https:\/\/blog.naver.com\/busanmobileworker",
+			"postdate":"20220706"
+		},
+		{
+			"title":"한국철도공사 채용, <b>직무<\/b>별 하는 일 알아보고 내가 지원할 <b>직무<\/b>... ",
+			"link":"https:\/\/blog.naver.com\/giveapeck?Redirect=Log&logNo=222051079284",
+			"description":"운전 열차를 직접 운전해보는 꿈을 키운 분들이라면 한 번쯤 고려해봤을 직무죠? <b>운전 직무<\/b>는 철도차량에 관한 전문적 지식과 기술을 가지고 운전 및 보조 업무를 담당해 여객과 화물을 안전하게 수송하는... ",
+			"bloggername":"1위 해커스잡",
+			"bloggerlink":"https:\/\/blog.naver.com\/giveapeck",
+			"postdate":"20200804"
+		},
+		{
+			"title":"(의무사무관,보건연구사,<b>운전<\/b>서기보) 합격을 위한 <b>직무<\/b>수행계... ",
+			"link":"https:\/\/blog.naver.com\/oregonking?Redirect=Log&logNo=220919975205",
+			"description":"국립과학수사연구원 의무사무관, 보건연구사, <b>운전<\/b>서기보 채용에서 가장 중요한 것은 바로 <b>직무<\/b>수행계획서입니다:) 국립과학수사연구원 의무사무관, 보건연구사, <b>운전<\/b>서기보 <b>직무<\/b>수행계획서는... ",
+			"bloggername":"직무수행계획서, 자기소개서 전문 에스엠씨지코리아",
+			"bloggerlink":"https:\/\/blog.naver.com\/oregonking",
+			"postdate":"20170125"
+		}
+	]
+}

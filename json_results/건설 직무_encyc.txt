@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:02 +0900",
+	"total":1422,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>건설<\/b> 자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355350&cid=51373&categoryId=51373",
+			"description":"<b>건설<\/b>회사 및 <b>건설 직무<\/b>분야로 취업하기 위해 작성하는 문서 중 하나로, 성장 과정, 성격, 학창시절, 경력, 지원 동기, 포부 등을 중심으로 자신을 소개하는 서류를 <b>건설<\/b> 자기소개서라고 한다. 자기소개서는 한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209151850913_YL8SS1X0I.jpg\/ba17_51_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>공제조합",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1058605&cid=40942&categoryId=34709",
+			"description":"1999년 충청북도 충주시 노은면에 <b>건설<\/b>기술자 <b>직무<\/b>교육을 위한 <b>건설<\/b>경영연수원을 개원하였다. 조직은 기획부 ·신규사업부·총무부·정보시스템부·영업지원부·공제사업부·관리부·신용조사부·연수원... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_16\/20180828144653939_1UYBESOCD.jpg\/704412.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>경영연수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1344092&cid=40942&categoryId=37154",
+			"description":"<b>건설<\/b>인재양성을 위한 교육과 <b>건설<\/b>기술자의 <b>직무<\/b> 교육을 위한 프로그램을 운영하며 <b>건설<\/b>산업 종사자의 복지증진을 위해 숙박시설을 대여한다. 교육시설과 부대시설 임대사업도 하고 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>도서관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024924&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>공사도면 및 문서 등의 <b>건설<\/b>관련 자료들을 유지·관리하는 사무원과 도서관리시스템을 관리·담당하는 사무원의 활동을 관리·감독한다. [수행<b>직무<\/b>] <b>건설<\/b>관련 자료에 대한 조사, 수집, 분석 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>사업관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627240&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>공사 발주자의 입장에서 <b>건설<\/b>공사의 기본구상 및 타당성 조사·관리, 계약관리, 설계관리, 사업비관리, 공정관리, 품질관리, 안전관리, 환경관리, 준공 후 사후관리 등을 수행하여 <b>건설<\/b>공사를 원활히 진행... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>안전관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664883&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>현장에서 작업원의 안전과 <b>건설<\/b>재해요인 예측, 재해예방 등을 위하여 각종 설비의 안전성 확보 및 안전관리를 위한 제반 업무를 수행한다. [수행<b>직무<\/b>] <b>건설<\/b>재해예방을 위한 세부계획을 수립한다. 안전기술... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>코디네이터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026268&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>회사의 상품개발팀에 소속되어 <b>건설<\/b>프로젝트의 선정부터 입주에 이르는 모든 과정이 원활히 이루어지도록 참여한 전문가들의 의견을 조율하고 조언하며 프로젝트를 관리하는 일을 한다. [수행<b>직무<\/b>]... ",
+			"thumbnail":""
+		},
+		{
+			"title":"친환경<b>건설<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953549&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>과정에서 발생하는 이산화탄소를 최소화하고 <b>건설<\/b>폐기물을 감소시킬 수 있는 기술과 방안을 연구·개발한다. [수행<b>직무<\/b>] <b>건설<\/b>과정에서 배출되는 이산화탄소를 최소화하고 <b>건설<\/b>폐기물을 감소시키기 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>자료구축사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024926&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>공사도면, 문서 및 자료를 수집하여 필요로 하는 관련 사무원 및 기술자에게 정보를 제공하기 위하여 자료를 정리·입력한다. [수행<b>직무<\/b>] <b>건설<\/b> 관련 기술동향이나 토목기술 등을 일간지, 정기간행물 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>회사자기소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3381561&cid=42279&categoryId=42279",
+			"description":"특히 <b>건설<\/b>회사 자기소개서를 작성할 때에는 <b>건설<\/b>회사의 해당 <b>직무<\/b>와 관련한 경력 및 특기 사항, 자격증 등을 구체적으로 기재하는 것이 좋으며, 이력서에서 확인할 수 없는 성장 과정이나 지원 동기, 입사 후... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510115404381_OV95RAUKQ.jpg\/hb10_20527_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>할석공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665169&cid=42117&categoryId=42117",
+			"description":" 도로, 궤도, 가스, 수도, 전기, 건축, 토목 등의 공사현장에서 압축공기 및 유압식 핸드브레이커(Hand Breaker)를 사용하여 콘크리트, 벽돌, 지반 등을 파쇄 및 절삭한다. [수행<b>직무<\/b>] 파쇄대상물의 위치 및 강약... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>안전기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053957&cid=42114&categoryId=42114",
+			"description":" <b>건설<\/b>안전기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>건설<\/b>안전기사 시험에 합격하여 그 자격을 취득한 자를 말한다. <b>건설<\/b>안전기사 시험은 필기시험과 실기시험으로 이루어지며, 필기시험은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20211214142753380_7434HIV45.jpg\/da6_371_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>단순노무자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658437&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>현장에서 <b>건설<\/b>기능공(목공, 철근공, 콘크리트공, 배관공 등)의 작업을 지원하고 보조하며, 기능을 요하지 않는 잡역에 종사한다. [수행<b>직무<\/b>] 철근, 벽돌, 시멘트 몰탈 등 공사자재를 정리한다. 공사자재를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>기계검사원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026512&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>현장의 재해를 사전에 예방하기 위하여 <b>건설<\/b>기계의 등록사항과 동일성을 확인하고 성능 및 안전도를 검사한다. [수행<b>직무<\/b>] 검사신청서를 지역·일정별로 분류한다. 버니어캘리퍼스, 테스트해머, 반사경... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b> 만족",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4_%EB%A7%8C%EC%A1%B1",
+			"description":"<b>직무<\/b> 만족 (職務 滿足, job satisfaction)은 개인이 <b>직무<\/b>와 관련된 평가의 결과로 얻을 수 있는 감정의... 예를 들어 부서에 대해 <b>건설<\/b>적으로 진술하거나 타인의 작업에 대해 개인적인 관심을 표현하면서 개선을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>산업과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917490&cid=44346&categoryId=44346",
+			"description":"[학과특성] 도시<b>건설<\/b>과는 도시ㆍ<b>건설<\/b> 분야를 이끌어 갈 전문인을 양성하기 위하여 컴퓨터 활용능력, 실험실습교육, 현장<b>직무<\/b> 능력의 실무 교육에 중점을 두어 수업이 진행된다는 특징이 있습니다. 시설물의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":"<b>건설<\/b> 관련 기술(엔지니어) 및 기능직 ▷운전·운송 기능직 ▷공학 관련 기술(엔지니어) 및 시험원 ▷기계·금속 관련 기능직 ▷전기·전자 관련 기능직 ▷화학·의료·식품·기타 기능직 ▷신직업 ▷기타 <b>직무<\/b>... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>건설<\/b>기계정비원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658884&cid=42117&categoryId=42117",
+			"description":" 중장비의 원활한 작동과 운행을 유지하기 위하여 엔진계통과 램프, 배선, 배터리 등의 전기계통과 변속기·기어 등의 전달계통의 부속품 및 장치를 분해하고 수리·교체·정비한다. [수행<b>직무<\/b>] 각종 중장비의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>기계설비기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053950&cid=42114&categoryId=42114",
+			"description":"② <b>건설<\/b>기계설비기사 자격은 <b>건설<\/b>기계의 기술향상을 통한 <b>건설<\/b>사업의 원활한 수행을 위하여 기계에 관한 공학적인 이론을 바탕으로 <b>건설<\/b>현장의 플랜트 기계설비의 설계, 제작, 견적, 시공, 감리 등의 <b>직무<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724153703374_JPI0NORFQ.jpg\/da6_364_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>안전산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053959&cid=42114&categoryId=42114",
+			"description":"예방계획 수립, 작업환경의 점검 및 개선, 유해 위험방지 등의 안전에 관한 기술적인 사항을 관리하며 <b>건설<\/b>물이나 설비작업의 위험에 따른 응급조치, 안전장치 및 보호구의 정기점검, 정비 등의 <b>직무<\/b>를 수",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326185013085_EW5CGU0T4.jpg\/da6_373_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>자료관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024925&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>공사도면 및 문서 등의 <b>건설<\/b> 관련 자료들을 대상으로 영구 또는 반영구 보존자료로 제작을 의뢰하고 관리하는 일을 한다. [수행<b>직무<\/b>] 입찰결과 낙찰된 공사 관련 문서 및 도면, 시공한 준공정산서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>기계기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053951&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요   ① 기계는 자동차, 전기, 전자, 통신, 항공우주, 조선, 해양, 화학, 환경, <b>건설<\/b>, 농업 등 산업 전반에 응용되고 있으며, 최근 <b>건설<\/b>기계는 <b>건설<\/b>공사에 더욱 적극적으로 이용되고 있다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203230735_U0NGRERQL.jpg\/da6_365_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>안전기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053958&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>건설<\/b>안전기술사 ① <b>건설<\/b>안전기술사란 <b>건설<\/b>안전기술사 시험의 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>건설<\/b>안전기술사 시험에 합격하여 그 자격을 취득한 자를 말한다. ②... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210420180417515_BKK96VN1X.jpg\/da6_372_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>장비관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024698&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>공사에 사용되는 중장비, 차량, 기기류 등 장비의 등록, 검사, 보험, 임대차업무를 수행한다. [수행<b>직무<\/b>] 신규 구입장비 및 해외 전입장비를 관할관청에 제증빙서류 및 등록신청서를 작성하여 등록신청한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>구조연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665128&cid=42117&categoryId=42117",
+			"description":" 교량, 댐 등의 토목분야와 주택 및 상업용 빌딩 등 건축분야의 구조물에 발생하는 구조적 현상이나 구조물의 거동을 예측하고 실험하여 안전성 및 실용성을 확보할 수 있도록 이론과 실제를 연구한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>기술자경력신고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6512397&cid=51373&categoryId=51373",
+			"description":" <b>건설<\/b>기술자 경력을 신청하기 위해 작성하는 신고서 양식.  <b>건설<\/b>기술자 경력 신고서는 국가 기술 자격법에 따라 <b>건설<\/b> 분야에 관한 기술 자격시험에 합격하여 면허증을 받은 경력기술자의 경력을 신청하고자... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015143659505_AY0FOOT50.jpg\/ba17_38731_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>기계정비기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053955&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① 기계는 자동차, 전기, 전자, 통신, 항공우주, 조선, 해양, 화학, 환경, <b>건설<\/b>, 농업 등 산업 전반에 응용되고 있으며, 최근 <b>건설<\/b>기계는 <b>건설<\/b>공사에 더욱 적극적으로 이용되고 있다. ②... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203238264_40FLP5F8O.jpg\/da6_369_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>현장교통정리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026503&cid=42117&categoryId=42117",
+			"description":" 도로, 댐, 다리 등의 <b>건설<\/b>현장에서 작업이 원활히 진행되도록 차량 및 인원을 통제한다. [수행<b>직무<\/b>] 차량의 소통이 원활하게 이루어지도록 깃발이나 호루라기를 이용하여 교통을 통제한다. 공사장으로 진... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>기계운전학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025356&cid=42117&categoryId=42117",
+			"description":" 수강생들을 대상으로 지게차, 굴삭기, 기중기, 로더 등의 <b>건설<\/b>기계 운전에 대한 이론 및 실기에 대하여 강의한다. [수행<b>직무<\/b>] 수강생들을 대상으로 지게차, 굴삭기, 기중기, 로더(Loader) 등 <b>건설<\/b>기계의 이론과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>재료시험기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970406&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 : 부실공사에 의한 막대한 인명 및 재산피해를 미연에 방지하기 위해서 <b>건설<\/b>현장의 기초공사에 필요한 토질검사를 실시하고, <b>건설<\/b>현장에서 사용되는 <b>건설<\/b>재료가 배합설계도의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120703181601313_PCBR6CIK6.jpg\/da6_12_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"대한<b>건설<\/b>기계협회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EA%B1%B4%EC%84%A4%EA%B8%B0%EA%B3%84%ED%98%91%ED%9A%8C",
+			"description":"6월 <b>건설<\/b>기계운전·정비 국가<b>직무<\/b>능력표준(NCS) 개발기관 지정 2014년 9월 <b>건설<\/b>기계대여계약신고 시스템 구축 2014년 7월 <b>건설<\/b>기계 임대료체납 및 민원신고센터 설치(국토교통부 승인) 주요 업무... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>장비운영사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024699&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>중장비, 차량, 중기류 등의 <b>건설<\/b>용 기계와 장비를 사용·관리하기 위하여 공사현장 간 또는 국내외 간의 중기전용계획을 수립·추진한다. [수행<b>직무<\/b>] 각 현장의 장비소요계획을 접수·분석하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>자재관리사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024697&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>공사현장에서 필요한 각종 자재를 효율적으로 지원·공급하기 위하여 소요계획을 수립하고 적정재고량을 유지·관리한다. [수행<b>직무<\/b>] 현장에서 필요한 각종 자재의 내역과 용도를 조사·분석하여 연간... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>기계설비산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053952&cid=42114&categoryId=42114",
+			"description":"② <b>건설<\/b>기계설비기사 자격은 <b>건설<\/b>기계의 기술향상을 통한 <b>건설<\/b>사업의 원활한 수행을 위하여 기계에 관한 공학적인 이론을 바탕으로 <b>건설<\/b>현장의 플랜트 기계설비의 설계, 제작, 견적, 시공, 감리 등의 <b>직무<\/b>를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200724153703563_3TD626YMA.jpg\/da6_366_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"해외<b>건설<\/b>인력선발사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658480&cid=42117&categoryId=42117",
+			"description":" 해외사업장이나 <b>건설<\/b>현장에 필요한 인력수급을 위하여 해외현장 요청에 부합된 인력을 선발한다. [수행<b>직무<\/b>] 각 해외사업장이나 <b>건설<\/b>현장 등으로부터 인력소요계획서를 접수받고 선발대상인원을 산출한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>기계정비기능장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053954&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요 ① 기계는 자동차, 전기, 전자, 통신, 항공우주, 조선, 해양, 화학, 환경, <b>건설<\/b>, 농업 등 산업 전반에 응용되고 있으며, 최근 <b>건설<\/b>기계는 <b>건설<\/b>공사에 더욱 적극적으로 이용되고 있다. ②... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203235019_KPFJMMBJG.jpg\/da6_368_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>기계정비기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053953&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>건설<\/b>기계정비기능사 ① <b>건설<\/b>기계정비기능사란 산업인력공단에서 시행하는 <b>건설<\/b>기계정비기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>건설<\/b>기계의 기술향상을 통한 <b>건설<\/b>사업의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180801161524117_I2UVB77YT.jpg\/da6_367_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>재료시험기능사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970405&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>건설<\/b>재료시험기능사 ① <b>건설<\/b>재료시험기능사란 산업인력공단에서 시행하는 <b>건설<\/b>재료시험기능사 시험에 합격하여 그 자격을 취득한 자를 말한다. ② <b>건설<\/b>재료시험기능사는 이를 예방하기... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191008997_XTT4HX3EX.jpg\/da6_11_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>건설<\/b>기계정비산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053956&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) <b>건설<\/b>기계정비산업기사 ① 기계설계산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>건설<\/b>기계정비산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. ②... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20211214142753173_GZU53DE28.jpg\/da6_370_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"한국<b>건설<\/b>기술연구원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EA%B1%B4%EC%84%A4%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%9B%90",
+			"description":"연구용역을 총괄 수행하고 있는 한국<b>건설<\/b>기술연구원 우효섭 부원장(원장 <b>직무<\/b>대행)은 &quot;김이태 연구원이 개인적으로 업무에 대한 과중한 부담을 갖고 있었던 것 같다&quot;고 말했다. 우효섭 부원장은 &quot;현재... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한<b>건설<\/b>기계매매협회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EA%B1%B4%EC%84%A4%EA%B8%B0%EA%B3%84%EB%A7%A4%EB%A7%A4%ED%98%91%ED%9A%8C",
+			"description":"도지회 설립 1998년 3월 17일 제2대 회장 라정현 선임 2000년 9월 5일 엄만복 회장<b>직무<\/b>대행 선임 2001년 3월 16일 제3대 엄만복회장(광복<b>건설<\/b>기계매매상사) 취임 2003년 11월 19일 장찬수 회장<b>직무<\/b>대행 선임... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>건설<\/b>재료시험산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970407&cid=42114&categoryId=42114",
+			"description":"자격정보] (1) 자격 개요   ① <b>건설<\/b>재료는 토목공사, 건축공사 등 각종 건축물의 기초가 되고, 건축물의 견고함과 내구성을 좌우한다.   ② <b>건설<\/b>현장에서 사용되는 <b>건설<\/b>재료가 배합설계도의 강도와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120703181601310_8EFV7RTEZ.jpg\/da6_13_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"해외<b>건설<\/b>인력송출사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024648&cid=42117&categoryId=42117",
+			"description":" 해외현장에서 필요한 기능인력을 송출하기 위하여 비자발급·항공권 발급 등의 업무를 수행한다. [수행<b>직무<\/b>] 비자신청 시 나라별로 필요한 서류를 신청하고 발급받는다. 항공권 예약 시 출장일시, 기간... ",
+			"thumbnail":""
+		},
+		{
+			"title":"궁전 구석에 <b>건설<\/b>해 놓은 분수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808606&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘... 분수를 <b>건설<\/b>해 놓았다. 알함브라 궁전 아래와 건너편 언덕을 따라 조성되어 있는 알바이신 구역은 스페인에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222538427_D3KGFJQ8F.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"대한민국의 행정중심복합도시<b>건설<\/b>청 차장",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%96%89%EC%A0%95%EC%A4%91%EC%8B%AC%EB%B3%B5%ED%95%A9%EB%8F%84%EC%8B%9C%EA%B1%B4%EC%84%A4%EC%B2%AD_%EC%B0%A8%EC%9E%A5",
+			"description":"역할 행정중심복합도시<b>건설<\/b>청 차장은 청장을 보좌하여 소관사무를 처리하고 소속공무원을 지휘·감독하며, 청장이 사고로 <b>직무<\/b>를 수행할 수 없으면 그 <b>직무<\/b>를 대행한다. 역대 차장 행정중심복합도시<b>건설<\/b>추진단... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방어 목적으로 <b>건설<\/b>한 알함브라 궁전 성벽",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808612&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘... 분수를 <b>건설<\/b>해 놓았다. 알함브라 궁전 아래와 건너편 언덕을 따라 조성되어 있는 알바이신 구역은 스페인에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222403357_GVZ6FK33E.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"적군의 공격을 방어할 목적으로 <b>건설<\/b>해 놓은 이중 성벽",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808615&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘... 분수를 <b>건설<\/b>해 놓았다. 알함브라 궁전 아래와 건너편 언덕을 따라 조성되어 있는 알바이신 구역은 스페인에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222351107_7RO16G47L.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"적의 공격에 대비해 <b>건설<\/b>해 놓은 알함브라 궁전 서쪽 망루",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5808614&cid=63538&categoryId=65518",
+			"description":"알함브라 궁전과 헤네랄리페 유산은 아랍의 통치자들이 어떤 공간에서 <b>직무<\/b>와 생활을 했는지 잘... 분수를 <b>건설<\/b>해 놓았다. 알함브라 궁전 아래와 건너편 언덕을 따라 조성되어 있는 알바이신 구역은 스페인에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5701_000_3\/20190802222423353_XEU6L8T8J.jpg\/ZGlsb3M1OXwzNDcy.jpg?type=m160_160"
+		},
+		{
+			"title":"산업안전지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2809905&cid=42114&categoryId=42114",
+			"description":"(2) 주요 특징 ① 산업안전지도사는 기계안전, 전기안전, 화공안전, <b>건설<\/b>안전 분야로 구성된 국가전문자격으로 일종의 개인사업 면허자격이다. '1인 기업'의 자격으로 <b>건설<\/b>현장의 안전대행 업무를 수행한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191200146_MGGUBKGRK.jpg\/da6_754_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"산업보건지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2809904&cid=42114&categoryId=42114",
+			"description":" 산업보건지도사란 산업인력공단에서 시행하는 산업보건지도사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자격에는 제한이 없다. 응시자는 1차, 2차 필기시험과 3차 면접시험 3단계를 통과해야... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191200037_CBEI3LDPG.jpg\/da6_753_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"서울지방국토관리청",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%9C%EC%9A%B8%EC%A7%80%EB%B0%A9%EA%B5%AD%ED%86%A0%EA%B4%80%EB%A6%AC%EC%B2%AD",
+			"description":"<b>직무<\/b> <b>건설<\/b> 관련 기술자자격의 취소 또는 정지처분 각종 <b>건설<\/b>공사·용역의 계약관리 국가산업단지의 관리에 따른 행정처분 <b>건설<\/b>공사에 따른 용지매수 및 지장물 보상 도로<b>건설<\/b>사업에 관한 측량·조사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한동수",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EB%8F%99%EC%88%98",
+			"description":"대구광역시 도시철도<b>건설<\/b>본부장을 지냈으며 제 45~47대 대한민국 경상북도 청송군수이다. 학력 청송초등학교 졸업 청송중학교 졸업 대구공업고등학교 토목과(1964년 ~ 1966년)→ 부설... ",
+			"thumbnail":""
+		},
+		{
+			"title":"포스코",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%8F%AC%EC%8A%A4%EC%BD%94",
+			"description":"2008년 11월, 정준양(생산기술부문장) 대표이사 사장이 포스코<b>건설<\/b> 사장<b>직무<\/b>대행으로 선임되면서 대표이사직을 사임했다. 이에 따라 포스코는 3인 대표이사 체제에서 이구택 회장, 윤석만 사장 등 2명이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"김건호 (1945년)",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%EA%B1%B4%ED%98%B8_(1945%EB%85%84)",
+			"description":"김건호 (金建鎬, 1945년 8월 30일 ( 1945-08-30 ) ~ )는 대한민국의 행정관료 겸 기업가이다. 생애 유년 시절과 성장 그는 경상북도 상주에서 출생하였으며 지난날 한때 서울에서 잠시 유아기를 보낸... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이향렬",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B4%ED%96%A5%EB%A0%AC",
+			"description":"1997년 3월 6일 - <b>건설<\/b>교통부 차관보 겸 차관 <b>직무<\/b>대행 서리 1997년 3월 19일 - <b>건설<\/b>교통부 차관 <b>직무<\/b>대행 서리 퇴임. 1999년 1월 12일 - <b>건설<\/b>교통부 차관보 퇴임. 부산교통공단 이사장 제1대... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공사현장관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024431&cid=42117&categoryId=42117",
+			"description":" 토목·건축·설비 등 <b>건설<\/b>공사의 시공 및 시공감독 업무를 수행하고, 공사현장작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] <b>건설<\/b>장비와 자재, 공사에 투입할 인원, 공사시간 등의 세부적인 공정을 계획한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공사입찰기술사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024599&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>공사의 수주입찰서류를 작성·접수하고, 공사계약을 위한 서류를 준비한다. [수행<b>직무<\/b>] <b>건설<\/b>공사견적사무원에게 입찰용 견적서를 전달받아 접수하고 검토한다. 입찰에 필요한 서류를 준비하여 발주처에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"서비스·경험디자인 기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6197204&cid=42114&categoryId=42114",
+			"description":"② 서비스·경험 만족을 위해 사용자 중심의 디자인 사고를 기반으로 통합적인 프로세스를 활용하여 서비스·경험 디자인 콘셉트와 모델을 개발하고 운영하는 <b>직무<\/b>를 수행한다. [ 3. 시험정보] (1) 응시자격... ",
+			"thumbnail":""
+		},
+		{
+			"title":"일용직재직증명서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6511946&cid=51373&categoryId=51373",
+			"description":"일용직이란 하루 단위로 근로를 계약하여 근무를 하고 임금을 받는 직위 또는 <b>직무<\/b>를 의미하는 것으로 주로 <b>건설<\/b>업 등의 <b>직무<\/b>에서 일용직을 고용하고 있다. 일용직은 직증명서란 해당 근로자의 재직사항을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_8\/20211015144841588_4CK1QJUAJ.jpg\/ba17_39277_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"합동군사대학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%A9%EB%8F%99%EA%B5%B0%EC%82%AC%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"교육과정 합동기본 정규과정(교육기간: 48주) 내용: 장차 군사전문가로서 협동 및 합동 ㆍ연합작전 수행과 군사력 <b>건설<\/b>을 선도하는 <b>직무<\/b>수행능력 함양 대상: 육, 해, 공군 소령 합동기본 단기과정(교육기간... ",
+			"thumbnail":""
+		},
+		{
+			"title":"송전전공",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028307&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 송전선로 <b>건설<\/b>계획에 따른 철탑 설치를 위해 굴착하고 기초공사를 한다. 철탑을 구성하는 금구류를 운반하여 설계도면에 맞게 조립하여 세운다. 철탑에 애자장치를 취부하고 전선을 가선하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소음진동기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664757&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 각종 <b>건설<\/b>현장의 시공상 발생하는 소음, 진동으로 인한 민원이 발생하면 현장에 투입하여 소음계, 진동계, 주파수 분석계 등을 이용하여 측정하고 대처방안을 제시하여 민원을 해결한다. 화약에 의한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"자연생태복원산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054113&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 자연생태복원산업기사란 응시자격을 갖춘... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191130472_QF0JIRD8J.jpg\/da6_527_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"품질경영산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053928&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 품질경영이란 일반적으로 시장성이 높은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203147653_IF86421YR.jpg\/da6_342_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"자연생태복원기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054112&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 급격한 도시화, 산업화, 공업화로 인한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203741381_YFEF46MX8.jpg\/da6_526_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"포장산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053922&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 포장산업기사 ① 포장산업기사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20210402085745674_AE8B9YNOY.jpg\/da6_336_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"포장기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053920&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날 포장은 포장재료로 사용되는 종이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203126127_YRK5C731J.jpg\/da6_334_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"건축물에너지평가사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3595335&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가전문자격증 (2) 시행기관 : 에너지관리공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : bea.kemco.or.kr [ 2. 자격정보] (1) 건축물에너지평가사 ① 건축물에너지평가사란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200925184009605_X5AVIEQVO.jpg\/da6_823_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"자연환경관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054114&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 급격한 도시화, 산업화, 공업화로 인한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203746399_KYHENROKC.jpg\/da6_528_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"토양환경기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054179&cid=42114&categoryId=42114",
+			"description":"(2) 주요 업무 ① 토양환경기사는 토양 및 지하수를 채취하여 토양오염도 측정기를 이용하여 시험, 분석하고 중금속 및 기름 등의 오염분포도를 파악하는 <b>직무<\/b>를 수행한다. ② 화약약품처리나 열처리... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190819181340115_3ADDYF0VT.jpg\/da6_593_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"품질관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053929&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날과 같은 무한 경쟁시대에는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203149895_Z47I2MKW8.jpg\/da6_343_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"토양환경기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054180&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 과다한 농약사용, 화학비료사용, 각종 생활... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716204017642_3QLTMQG72.jpg\/da6_594_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"제품디자인기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053888&cid=42114&categoryId=42114",
+			"description":"② 이에 따라 제품디자인에 관한 이론을 바탕으로 산업현장에서 요구되는 관련<b>직무<\/b>를 수행할 수 있는 지식과 실무경력을 갖춘 전문기술인력을 양성하기 위해 제품디자인기술사 자격제도가 제정되었다. (2)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203022599_4UHAMNBLT.jpg\/da6_302_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"제품디자인기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053887&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날 국제 경쟁에서 제품개발은 성능이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203020709_CIYVL4XL4.jpg\/da6_301_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"제품디자인산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053889&cid=42114&categoryId=42114",
+			"description":"심리적 욕구 충족시킬 수 있도록 다양한 조사 · 분석을 통하여 각종 공업제품의 의장을 창조하고 개발하는 등의 업무를 수행한다. (3) 과정평가형 자격제도 ① 과정평가형 자격이란 국가<b>직무<\/b>능력표준(NC",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191103432_9TYPMIHVO.jpg\/da6_303_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"컬러리스트기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053913&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 컬러리스트기사 ① 컬러리스트기사란 응시자격을 갖춘... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191132217_1RZMHNCIA.jpg\/da6_327_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"포장기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053921&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 오늘날 포장은 포장재료로 사용되는 종이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203129302_5PVWMYYA9.jpg\/da6_335_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"품질경영기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053927&cid=42114&categoryId=42114",
+			"description":" 품질경영기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 품질경영기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과하여야 한다. [ 1. 기본정보] (1)... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220321100650482_JCJW08Q6B.jpg\/da6_341_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"식물보호산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054063&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 식물보호산업기사 ① 식물보호산업기사란 응시자격을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20190530191130964_Z65993Z8T.jpg\/da6_477_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"컬러리스트산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053914&cid=42114&categoryId=42114",
+			"description":" 컬러리스트산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 컬러리스트산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 검정방식은 기존의 검정형과 과정평가형이 병행하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20170712203815735_7Z907SOGD.jpg\/da6_328_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"시각디자인산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053871&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 시각디자인산업기사   ① 시각디자인산업기사란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20170712203752033_BY7ZZ4J5A.jpg\/da6_285_i4.jpg?type=m160_160"
+		},
+		{
+			"title":"철도운송산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970542&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요   ① 철도운송산업기사란... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120717191800678_ZGHF2A9RT.jpg\/da6_149_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"시각디자인기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053870&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 과학기술의 발전과 새로운 매체의 등장으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716202944215_QWCRSMA1N.jpg\/da6_284_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"공장관리기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1053843&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 공장관리기술사란 응시자격을 갖춘 자가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20180521135311292_SBQWKACH4.jpg\/da6_257_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"생물분류기사(식물)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054033&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 차세대 신산업 창출의 원동력이 될 BT(Bio... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203504745_H42ENN9Z8.jpg\/da6_447_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"생물분류기사(동물)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054032&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 차세대 신산업 창출의 원동력이 될 BT(Bio... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203503124_Q1L1681WI.jpg\/da6_446_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"안전관리선임계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2048445&cid=42279&categoryId=42279",
+			"description":"선임계란 <b>건설<\/b> 현장 등에서 특정 <b>직무<\/b>의 사람을 선임한 사실을 증명하기 위해 작성하는 서류를 지칭한다. 안전관리선임계란 현장에서 안전관리 업무를 수행할 안전관리인을 선임하고, 그 내용을 발주 기관에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129005005105_2ZXZR9FO1.jpg\/hb10_12157_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"안전관리자 선임계",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2048471&cid=42279&categoryId=42279",
+			"description":"선임계란 <b>건설<\/b> 현장 등에서 특정 <b>직무<\/b>의 사람을 선임한 사실을 증명하기 위해 작성하는 서류를 지칭한다. 안전관리자 선임계란 현장에서 안전관리 업무를 수행할 안전관리인을 선임하고, 그 내용을 발주 기관에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129005034250_GOKSSGG5Q.jpg\/hb10_12183_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"대한민국 형법 제129조",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%ED%98%95%EB%B2%95_%EC%A0%9C129%EC%A1%B0",
+			"description":"재건축조합장의 경우 도시 및 주거환경정비법에 의해 공무원으로 의제되므로, <b>건설<\/b>업자들이 재건축조합장에게 <b>직무<\/b>와 관련하여 금전을 제공하였다면 별도의 부정한 청탁이 존재하지 않더라도 뇌물공여죄가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한전산업개발",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EC%A0%84%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C",
+			"description":"05 인도네시아 찌레본2 화력발전소 연료환경설비 시운전 사업 수주(현대<b>건설<\/b>) 2020. 04 <b>직무<\/b>발명보상우수기업 인증(특허청) 2020. 03 하암태양광발전소(999kWp) 상업 운전 개시 2020. 01... ",
+			"thumbnail":""
+		},
+		{
+			"title":"홍준표",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%99%8D%EC%A4%80%ED%91%9C",
+			"description":"홍준표는 시민단체인 적폐청산과 민주사회<b>건설<\/b> 경남운동본부로부터 <b>직무<\/b> 유기, 직권 남용 혐의로 고발되었으나 창원지방검찰청은 2017년 7월 2일에 무혐의 처분을 내렸다. 돼지 발정제 논란 2005년에 발행된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원자력기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025825&cid=42117&categoryId=42117",
+			"description":" 원자력발전소 <b>건설<\/b> 시 안전성 및 신뢰성 확보를 위하여 엄격한 관리로 원자력 관련 제 규정, 규격 및 품질보증 요구조건에 따라 1차 계통(발전기, 터빈 등과 관련된 시설물)의 설비시공을 관리·감독하는 <b>직무<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"발전환경연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025817&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 발전설비의 <b>건설<\/b> 및 운영이 대기, 수질, 토양, 해양 등에 미치는 영향을 규명하기 위해 발전소 주변의 환경영향평가를 실시하여 오염정도를 분석하고, 영향 최소화 방안에 대해 연구한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사제단",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1171313&cid=40942&categoryId=31585",
+			"description":"합의체적으로 주교를 보필하는 구실을 하였고, 이때 진정한 모습의 사제단이 형성되었다. 교회가 발전하여 시골로 확산되면서 사제들이 신자들을 다스리는 <b>직무<\/b> 수행이 필요하게 되자 사제단과 분리되는",
+			"thumbnail":""
+		},
+		{
+			"title":"중장비운전보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026465&cid=42117&categoryId=42117",
+			"description":" <b>건설<\/b>공사 현장에서 작업 목적에 따라 각종 중장비를 운전하는 운전원을 보조한다. [수행<b>직무<\/b>] 수공구나 동력공구를 사용하여 각종 작업장치를 설치하고 부속품의 마모 및 손상 유무를 확인한다. 물체나... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화약밀봉보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026510&cid=42117&categoryId=42117",
+			"description":" 천공된 천공구에 화약을 장전한 후 폭발력을 높이기 위하여 밀봉하는 모래주머니를 제작한다. [수행<b>직무<\/b>] 작업에 필요한 모래와 비닐주머니를 준비한다. 준비한 비닐을 일정 규격으로 자른 후 밑부분을 묶는다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"토공반장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026476&cid=42117&categoryId=42117",
+			"description":" 고속도로·일반도로·관개수로·댐·건축 등의 <b>건설<\/b>공사에서 절토 및 성토, 평탄작업 등의 토공작업을 관리하고, 토공작업원을 감독·조정한다. [수행<b>직무<\/b>] 공사시방서나 도면을 읽고 작업공정표를 작성한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전송시설기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028648&cid=42117&categoryId=42117",
+			"description":" 전송시설의 <b>건설<\/b>공사를 관리하고, <b>건설<\/b>된 전송시설의 안정적 운영관리업무를 수행하고, 전송 관련 기술개발 및 표준화 관련 업무를 수행한다. [수행<b>직무<\/b>] 전송시설 설비투자 기본계획, 신기술개발 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"동력윈치조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025878&cid=42117&categoryId=42117",
+			"description":" 건축이나 토목공사 시 지상에 있는 모래·벽돌·시멘트 등의 <b>건설<\/b>자재를 지하 또는 고층높이로 운반하기 위하여 줄을 감아주는 견인·인양장치를 조작한다. [수행<b>직무<\/b>] 버튼이나 스타칭을 눌러 원동기 시동을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"항만해안설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953619&cid=42117&categoryId=42117",
+			"description":" 항만 및 해안구조물의 <b>건설<\/b> 또는 보수를 위한 계획수립 및 설계를 하고 공사감리를 한다. [수행<b>직무<\/b>] 항만의 외곽시설, 하역시설, 접안시설, 입항교통시설, 보안신호 및 기타 해안구조물의 <b>건설<\/b>목적과 특성을... ",
+			"thumbnail":""
+		}
+	]
+}

@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:33 +0900",
+	"total":132688,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"사내행사 이벤트 조직문화 담당",
+			"link":"http:\/\/cafe.naver.com\/ak573\/726039",
+			"description":"조직문화 <b>직무<\/b>로 입사하신분들 커리어 잘 이어지시나요? 조직문화 <b>직무<\/b>자체는 재미있을것같은데 이런 <b>직무<\/b>가 있는 회사가 많지 않아서 이직이 어렵고 퇴사후 물경력이 되지 않을까 걱정됩니다ㅠ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"사내 <b>문화<\/b> 제도 혁신 (또는 <b>직무<\/b> 혁신) 아이디어 공모전... 진행하고 계신 곳 있으실까요?",
+			"link":"http:\/\/cafe.naver.com\/ak573\/727736",
+			"description":"저희가 사내 <b>문화<\/b>, 제도 혁신 (또는 <b>직무<\/b> 혁신) 아이디어 공모전을 진행하려고 하는데, 첫 진행을 위한 기획을 하다보니 여러 부분에서 부족한 부분이 많은 것 같습니다. 혹시 재직하시는 곳에서 이러한 여러 아이디어... ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"<b>직무<\/b>교육\/신입OJT\/조직문화 교육",
+			"link":"http:\/\/cafe.naver.com\/ak573\/723515",
+			"description":"안녕하세요. <b>직무<\/b>\/OJT\/조직문화 개선 등 교육커리큘럼 공유 부탁드립니다. 감사합니다.",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"기업<b>문화 직무<\/b> 질문",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6639475",
+			"description":"기업<b>문화 직무<\/b>는 관련 경험에 어떤걸 적으면 될까요? 기업문화라는게 홍보\/총무 다 포함된 의미같은데.. 어떤 부분을 어필하면 좋을지 감이 잘 안잡혀서요.. 아시는분들 팁공유좀 부탁드립니다 ㅠㅠ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"기업<b>문화 직무<\/b>..",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6371710",
+			"description":"기업<b>문화 직무<\/b> 관련하여 정보를 주실 수 있으신 분 있으신가요..? 학위논문 같은거 검색해서 보고 있는데 잘 모르겠네요..",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"경영지원 <b>직무<\/b> <b>문화<\/b>기획",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1589118",
+			"description":"경영지원 <b>직무<\/b> <b>문화<\/b>기획 부서는 어떤 업무를 수행하는 건가요? ※ 2020년 기업별 자소서\/인적성\/면접 가이드&amp;가이드북 리스트 &gt; 클릭 공기업 NCS + 전공 무제한 수강! 교재지원금까지 · [취준생] 31살에 대학원... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"<b>문화<\/b>재단 준비하시는 분들 <b>직무<\/b>수행계획서",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2180268",
+			"description":"<b>문화<\/b>재단을 목표로 하고 있는데 <b>직무<\/b>수행계획서를 작성하라고 하더라고요. 취준생이 뭘 안다고 ㅠㅠ 참고 할만한 곳이 있을까요? 도움을 구합니다~!",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>문화<\/b>도시 사업 <b>직무<\/b> 면접 보신 분 계신가요..?",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2021703",
+			"description":"이번에 <b>문화<\/b>도시 사업 기간제 근로자 면접을 보게 되었는데 전혀 모르는 <b>직무<\/b>여서 걱정이됩니다 ㅠㅠ 혹시 비슷한 분야나 <b>문화<\/b>재단쪽 면접을 보신 분들 후기가 궁금해서 질문 남깁니다...!",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"종로<b>문화<\/b>재단 <b>직무<\/b>기술서",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1944259",
+			"description":"이번에 종로<b>문화<\/b>재단에 지원하려고하는데 <b>직무<\/b>기술서 샘플양식같은게 있을까요.. 너무 막막하네요.ㅠ.;ㅠ. 도움 부탁드립니다.",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>직무<\/b>설계, 조직문화 고민",
+			"link":"http:\/\/cafe.naver.com\/ak573\/698209",
+			"description":"프로젝트로 <b>문화<\/b>행사, 국제심포지엄 등도 합니다. 업력은 10년정도되었는데 일이 점점 규모가 커지고 범위가... 처음부터 <b>직무<\/b>설계를 정확히하고 업무분장을 정확하게 나누고하는 괴정을 경험해본적이없어서 어떻게... ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"<b>문화<\/b>재단 채용공고 확인 및 합격 스펙도 정리해드릴게요!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1914059",
+			"description":"<b>문화<\/b>재단 채용 준비하시는 분들께, 오늘은 채용중인 <b>문화<\/b>재단 공고 몇가지와 <b>문화<\/b>재단 <b>직무<\/b> 및 합격스펙을 공유해드리려고 합니다! <b>문화<\/b>재단 채용 준비하시는 분들께 도움이 되었으면 좋겠습니다. 그렇다면 먼저... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"인사<b>직무<\/b> 쌩신입을 뽑나요?",
+			"link":"http:\/\/cafe.naver.com\/ak573\/647236",
+			"description":"안녕하세요 인사<b>직무<\/b> 지원 희망하는 취준생입니다 가지고 있는 자격증은 토익 850+ 컴활 1급 4대보험관리사 이렇게 있고 인사<b>직무<\/b>에서 내세울 만한 경력은 없습니다. 유사<b>직무<\/b>로 카페 매니저 1년정도한 게 다네요. 그때... ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"<b>문화<\/b>예술 <b>직무<\/b>능력평가가 뭘까요?",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1783965",
+			"description":"이번에 예술의전당 ncs 필기 보러가는데 <b>문화<\/b>예술 <b>직무<\/b>능력평가가 적혀있네요. 그냥 다른 기업과 비슷한걸까요? 꼭 봐야할 공취사 BEST 인기글 ⏰[11월 5주] 마감 임박! 공기업 &amp; 공공기관 정규직... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"★서울연구원 현직자와 진로 상담 및 연구<b>직무<\/b>에 대한 실제 이야기★ 들을 수 있는 기회가 있어 공유 드려요...",
+			"link":"http:\/\/cafe.naver.com\/daehakwon\/105836",
+			"description":"19개 <b>직무<\/b> ▴연구(공공건축\/투자, 도시계획\/도시정보\/빅데이터, 산업\/경제 등), ▴교통, ▴기업지원(R&amp;D, 인프라), ▴기획, ▴마케팅, ▴디지털 역량강화, ▴디지털 콘텐츠 기획, ▴<b>문화<\/b>예술 기획행정(거버넌스, 교육... ",
+			"cafename":"대학원 입학을 준비하는 사람들의 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/daehakwon"
+		},
+		{
+			"title":"EAP 업체 추천 받아요! (견적 및 제안 요청)",
+			"link":"http:\/\/cafe.naver.com\/ak573\/711707",
+			"description":"안녕하세요 자회사 포함 1,000명 규모의 반도체 중견기업에서 조직문화 <b>직무<\/b>를 담당하고 있는 직원입니다. 회사에서 이번에 조직문화 개선 목적으로 직장인 지원 프로그램, EAP를 도입하고자 합니다. 임직원의... ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"자기소개서 특기사항 예시! <b>직무<\/b>로 연결짓는 작성방법 ㄱㄱ!",
+			"link":"http:\/\/cafe.naver.com\/specup\/7029220",
+			"description":"최대한 <b>직무<\/b>와 관련된 내용을 녹여내는 것이 중요합니다! 자기소개서 특기사항 예시 자기소개서 특기사항 예시 1. 광고 대행사를 지원할 경우 창의적 사고를 하려면 풍부하고 다양한 <b>문화<\/b>생활을 즐기는 것이 중요하기... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>문화<\/b>재단 인성 및 <b>직무<\/b>능력검사 조언구해요(긴급ㅠㅠ)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/10771620",
+			"description":"<b>문화<\/b>재단 1차 서류 통과되서 2차 인성 검사(20분)와 <b>직무<\/b>능력검사(60분) 한다고 나와있는데요 혹시 경험 해보신분 계신가요? 사일밖에 남지 않아서 참고서를 사기도 애매하고 이렇게 인성검사 <b>직무<\/b>검사 따로... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"채용이 어렵습니다. 저희는 이렇게 접근하고 있습니다.",
+			"link":"http:\/\/cafe.naver.com\/ak573\/713687",
+			"description":"저희는 <b>직무<\/b>는 다양한데 그러다 보니 회사규모가 작은 곳들에서는 이런 회사가 드물기에 이 점이 강점이였고... 네이버 블로그에 회사에 조직문화, <b>직무<\/b>에 대한 인터뷰, 기술분야에 대한 소개하는 자료 등을 올리는... ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"별내면장 김현태~축하드립니다",
+			"link":"http:\/\/cafe.naver.com\/ourcity\/127933",
+			"description":"강호갑 ▲ <b>문화<\/b>관광과장 <b>직무<\/b>대리 이주연 ▲ 주차관리과장 <b>직무<\/b>대리 엄승호 ▲ 도서관정책과장 <b>직무<\/b>대리 조영범 ▲ 별내동 도시건축과장 <b>직무<\/b>대리 홍우성 ▲ 와부읍 복지지원과장 <b>직무<\/b>대리 장동단 ▲ 일자리복지과장... ",
+			"cafename":"살기좋은 청학리-살청",
+			"cafeurl":"https:\/\/cafe.naver.com\/ourcity"
+		},
+		{
+			"title":"<b>문화<\/b>예술 <b>직무<\/b> 준비 어떻게 해야할까요...",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1171896",
+			"description":"공백기 동안 학은제를 통해 학사학위를 받은 상태이며 <b>직무<\/b> 관련한 컬러리스트 산업기사. itq oa master.... 마케팅, <b>문화<\/b>, 예술 조직이 있는 공기업을 찾고 입사 요건을 찾아본 결과 공인영어성적, ncs가 필수고 한국사... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>문화<\/b>재단 <b>직무<\/b>수행계획서 쓰는 요령좀 알려주세요ㅠ",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1476178",
+			"description":"<b>문화<\/b>재단에 이력서를 넣으려고하니 생소한 <b>직무<\/b>수행계획서라는게 있는데 아무리 찾아봐도 자료를 찾을수 없고 막막해서 이렇게 글 써봅니다",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>문화<\/b>해설안내원 <b>직무<\/b>교육자 모집공고",
+			"link":"http:\/\/cafe.naver.com\/hanbora\/77563",
+			"description":"【3월 맞춤<b>직무<\/b>교육】<b>문화<\/b>해설안내원 관내 <b>문화<\/b>시설 현장방문 및 체험학습 활성화에 따라 <b>문화<\/b>해설안내원의 채용수요가 꾸준히 증가하고 있어, 여성구직자 취업지원을 위한 취업맞춤 <b>직무<\/b>교육을 실시하고자... ",
+			"cafename":"용인 한보라마을",
+			"cafeurl":"https:\/\/cafe.naver.com\/hanbora"
+		},
+		{
+			"title":"25 여 <b>문화<\/b>재단 목표입니다!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1547667",
+			"description":"기타사항 취업보호대상자(국가유공자자녀) ☑️목표기업 <b>문화<\/b>재단 ☑️희망<b>직무<\/b> 예술행정직 또는 마케팅, 예술교육사업관련<b>직무<\/b> <b>문화<\/b>재단을 제일 목표로 하고 있고, 관련 다른 공기업도 도전해보고 싶은데 비슷한... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"<b>문화<\/b>재단 기간제 계약직 선택 고민",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2107822",
+			"description":"ㄱㄱ<b>문화<\/b>재단 원하는 <b>직무<\/b>(추후 경력 확장이 가능할 것으로 보이는) ㅅㅇ<b>문화<\/b>재단 원하지 않는 <b>직무<\/b> 둘 다 합격했는데, 선택에 도움 주실 수 있을까요? ㄱㄱ: (11개월) 팀이 맘에 들고 사람들 좋음, 이직시 <b>문화<\/b>예술행정... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"광주<b>문화<\/b>재단 채용(~4\/25), 채용<b>직무<\/b>,인원,일정 체크하세요!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1084860",
+			"description":"2019년 1회 신입채용인데요!광주<b>문화<\/b>재단 채용 <b>직무<\/b>는 일반행정, 전산, <b>문화<\/b>예술행정, 기획이네요!채용인원이 근데 진짜 적어요...<b>직무<\/b>별로 채용인원은 1명입니다.광주<b>문화<\/b>재단 채용 공고 보니까시보임용 기간이라고... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"<b>문화<\/b>콘텐츠, <b>문화<\/b> 기획의 <b>직무<\/b>\/ 진로가 궁금합니다.",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/8299635",
+			"description":"<b>문화<\/b>콘텐츠, <b>문화<\/b> 기획의 <b>직무<\/b>\/ 진로가 궁금합니다. 전공살려서 가신 분들은 어디로 취업하셨나요?? 독취사 BEST 글 더보기! [인적성] KT인적성 후기 [44] [인적성] 공채 대비를 위한 점검! - 인적성 준비 [31] [취준생]... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"조직문화 관련 대학원 추천드려요",
+			"link":"http:\/\/cafe.naver.com\/ak573\/577514",
+			"description":"안녕하세요~ 조직문화 <b>직무<\/b> 관련하여 더 깊이 있게 알고 싶어서 업무 끝나고 대학원 공부를 하고 싶습니다. 혹시 추천해주실만한 대학, 교수님 계시면 부탁드려요^^ 감사합니다~",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"회사 1,2 골라주세요.. 대기업 계열사 마케팅or 채용<b>직무<\/b> vs 외국계 대기업 계열사 총무비서",
+			"link":"http:\/\/cafe.naver.com\/workee\/995486",
+			"description":"대기업 계열사 마케팅 홍보 or 채용 <b>직무<\/b> - 둘중에 하나 골라서 갈 수 있고 홍보는 관련 기사 검토하고... 수평적 <b>문화<\/b>와 복리후생 다양함 (휴가일수\/휴가사용\/복지포인트 등) - 한국계 대겹보다는 고용안정성이 떨어지고... ",
+			"cafename":"직장인 탐구생활",
+			"cafeurl":"https:\/\/cafe.naver.com\/workee"
+		},
+		{
+			"title":"공기업 체험형 인턴 6월 채용공고 확인하기",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2645601",
+			"description":"체험에 무게를 두는 인턴이기에 기업의 <b>문화<\/b>와 <b>직무<\/b>를 체험해볼 수 있는 좋은 기회입니다. 보통 공기업 체험형 인턴 기간은 대학생 방학 기간과 겹치기에 공기업 취업을 꿈꾸는 분들에게도 좋은 경험이 될... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"spc <b>직무<\/b> 기업<b>문화<\/b>!! 우대사항 미치는 정도?!!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6365886",
+			"description":"이번 공채 spc 중에 <b>직무<\/b> 기업<b>문화<\/b>가 서비스 마인드 우수자, spc 그룹 경험 우대인데 제가 spc계열사 아르바이트를 한번도 안해봤거든요 근데 다른 <b>직무<\/b>가 아니라 <b>직무<\/b>자체가 기업<b>문화<\/b>라서 spc그룹에서 아르바이트를... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"대전<b>문화<\/b>재단",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2645143",
+			"description":"- 응시한 기업명 : 대전<b>문화<\/b>재단 - 지원 <b>직무<\/b>\/직군명 : 예술행정 - 응시 지원 자격(신입\/경력) : 신입공채 - 시험시간 및 장소 : 대학교 - 결시율 : 80퍼 참석 - 내가 생각하는 난이도는?(10점 만점) : 7점? 넘... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"[재단법인 포항<b>문화<\/b>재단 채용] 2022년 제5회 경력직원 채용 (~06\/15)",
+			"link":"http:\/\/cafe.naver.com\/snswjdghktkdl\/66217",
+			"description":"예정 <b>직무<\/b> 분야 ▪ <b>문화<\/b>예술진흥법 제1장제2조에 명시된 <b>문화<\/b>예술, <b>문화<\/b>산업, <b>문화<\/b>시설 등에 관련된 분야 ▪ <b>문화<\/b>예술기획, 예술경영, <b>문화<\/b>(관광․축제) 콘텐츠, 공연 및 전시 분야 ▪ <b>문화<\/b>예술관련 홍보 및 마케팅... ",
+			"cafename":"엔준모 - 엔터테인먼트,취업,채용,기획...",
+			"cafeurl":"https:\/\/cafe.naver.com\/snswjdghktkdl"
+		},
+		{
+			"title":"선배님들! mr <b>직무<\/b>, 장교 출신을 좋게 봐주시나요?",
+			"link":"http:\/\/cafe.naver.com\/gsk\/220487",
+			"description":"제약 mr <b>직무<\/b>에 있어서 회사의 입장에서는 1. 장교출신 지원자를 좋게 보나요? 2. 장교출신 지원자의 어떤 점을 좋아하시나요? 3. 추가해야할 스펙이 있을까요? 대략적인 스펙은 국숭세단 상경 \/ 학점 2.5 \/ 토스 lv.7... ",
+			"cafename":"제약회사에 대한 모든것! \/ 제약바이오...",
+			"cafeurl":"https:\/\/cafe.naver.com\/gsk"
+		},
+		{
+			"title":"26 여자 스펙 평가 부탁드립니다. (<b>문화<\/b>재단)",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1622239",
+			"description":"없음 ☑️희망<b>직무<\/b> <b>문화<\/b>정책 <b>문화<\/b>예술 코레일\/한전 등 주요공기업 합격썰 모음 https:\/\/vo.la\/kv0yZ 가장 빠른 공취사 채용속보 알림방 https:\/\/bit.ly\/2XuJuwr ※회원님들의 콘텐츠 및 게시글의 저작권은 작성자와... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"[한국<b>문화<\/b>예술교육진흥원 채용] 정규직\/무기계약직\/계약직 신입 (교육나눔\/경영기획\/홍보·국제협력\/교육기...",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2186436",
+			"description":"[한국<b>문화<\/b>예술교육진흥원 채용] 정규직\/무기계약직\/계약직 신입 (교육나눔\/경영기획\/홍보·국제협력... 입사지원서 작성시 유의사항.hwp 파일 다운로드 첨부파일 22-4차 직원 채용분야 <b>직무<\/b>기술서.hwp 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"AI면접 단계별 팁 정보 정리해보았습니다 :)",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1826961",
+			"description":"AI면접 AI면접 : 인공지능을 활용해 지원자의 역량을 평가하는 기술 위 문장으로 요약하여 소개할 수 있는 AI면접은 지원자의 성향, 역량이 기업 <b>문화<\/b>, <b>직무<\/b>에 적합한지 파악하는 방식으로 이루어집니다. 사람이... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"<b>문화<\/b>재단 인성, <b>직무<\/b>적성검사는 어떻게 이뤄지나요?",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2173417",
+			"description":"문외한이라 궁금해요 교재나 인강이 따로 있나요??",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"조직신뢰, 위계적 조직문화, <b>직무<\/b>소진, <b>직무<\/b>몰입 및 이직의도의 관계에 대한 다집단 경로분석",
+			"link":"http:\/\/cafe.naver.com\/hanomusa\/22221",
+			"description":"첨부파일 202108271424079.pdf 파일 다운로드 이 연구는 <b>직무<\/b>요구-자원 모형(JD-R)을 적용하여 기업의 산업 특성을 고려한 다집단 경로분석을 통해 제조업과 비제조업 종사자의 조직신뢰, 위계적 조직문화, <b>직무<\/b>소진, <b>직무<\/b>몰입... ",
+			"cafename":"[하은지노무사] 하노무사 인사잘한다",
+			"cafeurl":"https:\/\/cafe.naver.com\/hanomusa"
+		},
+		{
+			"title":"<b>문화<\/b>재단 운영행정 <b>직무<\/b>능력시험 및 인적성 필기시험에 대해서",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1177399",
+			"description":"<b>문화<\/b>재단 운영행정 <b>직무<\/b>능력시험 및 인적성 필기시험에 대해서 궁금합니다 ㅠㅠ 아무리 검색해도 정보가 너무 없네요 채용공고에는 <b>직무<\/b>능력시험 및 인적성 필기시험을 2시간 정도 본다고 되어 있는데 NCS인건지... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"[자소서 첨삭] 우아한 형제들 조직문화 <b>직무<\/b> 첨삭 부탁드립니다.",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/1620341",
+			"description":"우아한 형제들에 지원한 동기와 희망 <b>직무<\/b>에 대한 본인의 경쟁력을 자유롭게 말씀해 주세요. 2가지 경쟁력을 바탕으로 한 조직문화 기획 노인과 함께하는 이색 CSR을 진행하는 우아한 형제들을 보며, 지역과 함께, 사회와... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"[종로<b>문화<\/b>재단 채용] 정규직\/무기계약직 신입\/경력 (<b>문화<\/b>예술행정) (~4.6)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2126816",
+			"description":"종로<b>문화<\/b>재단 채용 전형절차는 서류전형-면접전형으로 이루어진다고 합니다. 첨부파일 [붙임] 입사지원서 양식.hwp 파일 다운로드 첨부파일 [붙임] <b>직무<\/b>기술서_<b>문화<\/b>예술행정_22년 3차.pdf 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"고양시 통합채용 (고양<b>문화<\/b>재단) 최종합격 후기",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1991673",
+			"description":"전공 및 <b>직무<\/b>는 <b>문화<\/b>예술 분야이고, 혹시나 하여 자세히는 밝히지 않음을 양해 부탁드립니다 :) 이런 글을 쓸 날이 올거라고 생각하지 못했는데, 이 일을 시작하고 5년만에 자리를 잡게 되니 정말 감회가 새롭고 아직도... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"2022 현대모비스 채용중인 <b>직무<\/b> 총정리!",
+			"link":"http:\/\/cafe.naver.com\/specup\/6947612",
+			"description":"2022 현대모비스 채용중인 <b>직무<\/b> 총정리! 여러분 안녕하세요~ 얼마전 현대모비스 채용공고 올라온 사실 다들 알고 계셨나요~? 이번 시간에는 현대모비스 채용 <b>직무<\/b>에 대해 알아보겠습니다! 현대모비스 채용(feat.... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"SPC 기업<b>문화<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/6366945",
+			"description":"SPC 기업 <b>문화 직무<\/b>가 정확히 어떤 것인지 아는 분 계신가요?",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"직장 다니면서 <b>문화<\/b>재단 준비",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2034833",
+			"description":"<b>문화<\/b>기획 \/ <b>문화<\/b>사업운영 <b>직무<\/b>로 가고싶습니다. 현재는 컴활 2급 \/ 디자인관련 자격증( 포토샵 등등 있지만 활용은 불가 ..) 컴활 1급 \/ 한국사 \/ 사회조사분석사 \/ <b>문화<\/b>예술관련 강의수료 등등을 준비하려고하는데... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"순천시 민선 8기 첫 정기인사 명단",
+			"link":"http:\/\/cafe.naver.com\/ludypang\/398968",
+			"description":"남제동장 <b>직무<\/b>대리 봉종채(<b>문화<\/b>유산과 <b>문화<\/b>재시설팀장) ▲ 5급 전보 : 22명 - 기획예산실장 양효정(평생교육과장), 감사실장 채연석(총무과장), 홍보실장 손정순(외서면장) - 총무과장 유형익(박람회조직위 행정지원부장)... ",
+			"cafename":"여순광 돈되는 부동산 정보(여수,순천...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ludypang"
+		},
+		{
+			"title":"국비지원 100%, <b>직무<\/b> 교육, 조직문화 교육 최고의 교육과 후기",
+			"link":"http:\/\/cafe.naver.com\/navergongka\/10269",
+			"description":"<b>직무<\/b> 교육, 조직문화 교육 <b>문화<\/b>가 바뀌면 미래가 바뀝니다. 그리고 이는 저희 한국중앙인재개발원과 함께 함으로써 가능합니다. <b>직무<\/b> 교육, 조직문화 교육 <b>직무<\/b> 교육, 조직문화 교육 거기서 끝이 아닙니다.이 모든 것을... ",
+			"cafename":"직원교육,기업교육 100% 국비지원",
+			"cafeurl":"https:\/\/cafe.naver.com\/navergongka"
+		},
+		{
+			"title":"(인천) 대창스틸, 금문철강 생산<b>직무<\/b>에 대해서 궁금합니다.",
+			"link":"http:\/\/cafe.naver.com\/dkqdus\/279801",
+			"description":"대창스틸, 금문철강 생산<b>직무<\/b>에 대해서 궁금합니다. 대창스틸 (인천) 기업의 <b>문화<\/b>, 연봉, 복지, 업무강도 궁금합니다. 금문철강 (인천) 기업의 <b>문화<\/b>, 연봉, 복지, 업무강도 궁금합니다. 선배님들 조언 부탁드립니다. 감사합니다.",
+			"cafename":"예비철강인",
+			"cafeurl":"https:\/\/cafe.naver.com\/dkqdus"
+		},
+		{
+			"title":"농림수산식품교육<b>문화<\/b>정보원 <b>직무<\/b>성격검사",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1046229",
+			"description":"온라인으로 실시한 <b>직무<\/b>성격검사 불합격했는데 기준이 뭔가요?...ㅠㅠㅠ 그냥 마음 가볍게 체크하면 되는건줄 알았는데 불합격떠서 너무 멘붕입니다ㅜㅜ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"[모집] 서울시 공기업 궁금한 사람 모여라! 현직자와 함께하는 <b>직무<\/b> 멘토링, 청춘잡(Job)담(Talk) (~7\/31)",
+			"link":"http:\/\/cafe.naver.com\/outcampus\/673632",
+			"description":"19개 <b>직무<\/b> ▴경영지원, ▴교통, ▴기업지원(R&amp;D, 인프라), ▴기획, ▴마케팅, ▴디지털 역량강화, ▴디지털 콘텐츠 기획, ▴<b>문화<\/b>예술 기획행정(거버넌스, 교육, 생활<b>문화<\/b>, 축제), ▴보건(간호사), ▴신용보증... ",
+			"cafename":"[아웃캠퍼스] 대학생 공모전 대외활동...",
+			"cafeurl":"https:\/\/cafe.naver.com\/outcampus"
+		},
+		{
+			"title":"[서울시자원봉사센터] 서울시 공기업 궁금한 사람 모여라! 현직자와 함께하는 <b>직무<\/b> 멘토링, 청춘잡(Job)담(...",
+			"link":"http:\/\/cafe.naver.com\/specup\/7028108",
+			"description":"19개 <b>직무<\/b> ▴경영지원, ▴교통, ▴기업지원(R&amp;D, 인프라), ▴기획, ▴마케팅, ▴디지털 역량강화, ▴디지털 콘텐츠 기획, ▴<b>문화<\/b>예술 기획행정(거버넌스, 교육, 생활<b>문화<\/b>, 축제), ▴보건(간호사), ▴신용보증... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"[성동<b>문화<\/b>재단 채용] 정규직\/계약직 신입\/경력 (홍보영상\/시설관리\/사서) (~5.9)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2146370",
+			"description":"성동<b>문화<\/b>재단 채용 전형절차는 정규직 : 서류전형-인성검사-면접전형, 계약직 : 서류전형-면접전형으로 이루어진다고 합니다. 온라인 접수 https:\/\/bit.ly\/3OM4nMP 첨부파일 <b>직무<\/b>표준(성동<b>문화<\/b>재단).pdf 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"인사 컨설팅 제안서 부탁드립니다",
+			"link":"http:\/\/cafe.naver.com\/ak573\/692009",
+			"description":"일반적인 인사제도에 대한 컨설팅 의뢰할 경우 기간 및 비용에 대해 견적의뢰 (채용, 인사평가, 조직문화, <b>직무<\/b>관리, 보상 등) 2. 인사 관련하여 정기적인 자문 서비스 계약도 가능한지 (예를 들어 주 1~2회 방문시 얼마... ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"2022 해커스 NCS 지역농협 6급 통합 기본서 인적성 및 <b>직무<\/b>능력평가",
+			"link":"http:\/\/cafe.naver.com\/real21\/1689815",
+			"description":"의사소통에서 단어 문제를 제외하면 공기업 NCS 문제들과 유사해서 다른 기업을 준비하더라도 챙겨보기 좋은 기본서라고 생각한다! #해커스NCS #해커스 #베스트셀러 #인적성 #<b>직무<\/b>능력평가 #<b>문화<\/b>충전 #서평이벤트",
+			"cafename":"문화충전200%(문화를 사랑하는 사람들...",
+			"cafeurl":"https:\/\/cafe.naver.com\/real21"
+		},
+		{
+			"title":"한국콘텐츠진흥원 <b>문화<\/b>체육관광 연구개발 기술기획책임자(PD) 채용 <b>직무<\/b> 설명 및 공고문",
+			"link":"http:\/\/cafe.naver.com\/tourexpert\/4563",
+			"description":"모집인원을 <b>직무<\/b>분야, <b>문화<\/b>예술, <b>문화<\/b>융복합(관광포함), 스포츠, 저작권으로 나타낸 표 <b>직무<\/b>분야1. <b>문화<\/b>예술2. <b>문화<\/b>융복합(관광포함)3. 스포츠4. 저작권모집인원1 명1 명1 명1 명1. <b>문화<\/b>예술PD ◎ 자격사항 • <b>문화<\/b>예술... ",
+			"cafename":"관광전문직 공무원 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/tourexpert"
+		},
+		{
+			"title":"세종시<b>문화<\/b>재단 채용 관련 정보들 정리하여 공유드립니다!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1332135",
+			"description":"이번 세종시<b>문화<\/b>재단 채용은 일반행정, <b>문화<\/b>행정 <b>직무<\/b>로 채용을 진행하고 있습니다.세종시<b>문화<\/b>재단 채용 <b>직무<\/b>별 직급 및 채용인원은 아래를 참고해주세요. 또한 세종시<b>문화<\/b>재단 채용 <b>직무<\/b>별 담당내용은 아래와... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"서울<b>문화<\/b>재단 채용공고 떴는데 정규직 27명 모집한다네요 연봉자료랑 참고!",
+			"link":"http:\/\/cafe.naver.com\/specup\/6298547",
+			"description":"기간제 계약직도 12명 모집하니 서울<b>문화<\/b>재단 채용공고 확인 후준비하셔서 서울<b>문화<\/b>재단 채용 신청하세욥 :) 접수기간 : 4월 6일 ~ 13일 18:00 모집<b>직무<\/b> : <b>문화<\/b>예술 기획 및 행정, 계약, 축제, 재무회계, 인사, 예술기획... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"[한국전통<b>문화<\/b>전당 채용] 정규직 신입\/경력 (한지산업\/시설관리) (~7.21)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2185275",
+			"description":"한국전통<b>문화<\/b>전당 채용 전형절차는 서류전형-인적성검사-면접전형으로 이루어진다고 합니다. 첨부파일 <b>직무<\/b>설명자료.pdf 파일 다운로드 첨부파일 직원(일반직 운영직)제출서류-응시원서 등.hwp 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"NCS 새책 국가<b>직무<\/b>능력표준 (<b>문화<\/b> 예술 디자인 방송)",
+			"link":"http:\/\/cafe.naver.com\/joonggonara\/502048018",
+			"description":"개인거래(판매), 판매완료, 가격 15,000원, 직접결제, 네이버페이, NCS 새책 국가<b>직무<\/b>능력표준 (<b>문화<\/b> 예술 디자인 방송), NCS 국가<b>직무<\/b>능력표즌 새책 (<b>문화<\/b> 예술 디자인 방송)정가 2만 3천 원택포 1만 5천원에 팔아요.",
+			"cafename":"중고나라",
+			"cafeurl":"https:\/\/cafe.naver.com\/joonggonara"
+		},
+		{
+			"title":"2022 서울문자통역서비스 이용안내",
+			"link":"http:\/\/cafe.naver.com\/imslp\/73831",
+			"description":"교육, <b>직무<\/b>활동, <b>문화<\/b>생활 등 다양한 영역에서 자유롭게 이용하실 수 있습니다. 신청 및 문의는 카카오톡 플러스친구 [서울문자통역]으로 연락 주세요! 이 서비스는 복권기금위원회의 사업비 지원으로 운영되며... ",
+			"cafename":"언특모(언어치료\/언어재활\/언어재활사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/imslp"
+		},
+		{
+			"title":"<b>직무<\/b> 경험 인턴으로 쌓자! 한국<b>문화<\/b>관광연구원 채용정보",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/9493776",
+			"description":"한국<b>문화<\/b>관광연구원 채용에 관심이 있으시거나 해당 <b>직무<\/b>를 경험해보고 싶으신 분은 9월 3일의 마감일을 잘 준수하여 이번 한국<b>문화<\/b>관광연구원 채용에 지원해보세요 :) 한국<b>문화<\/b>관광연구원채용... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>문화<\/b>예술교육진흥원 면접후기",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/2654402",
+			"description":"- 응시한 기업명 : 한국<b>문화<\/b>예술교육진흥원 - 지원 <b>직무<\/b>\/직군명 : 사무행정 - 응시 지원 자격(신입\/경력) : 신입 - 시험시간 및 장소 : 한국<b>문화<\/b>예술교육진흥원 본사, 1시~2시쯤 - 결시율 : 100% 참석(부서마다... ",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"2022 서울문자통역서비스 이용안내",
+			"link":"http:\/\/cafe.naver.com\/samsunghandicap\/170366",
+			"description":"교육, <b>직무<\/b>활동, <b>문화<\/b>생활 등 다양한 영역에서 자유롭게 이용하실 수 있습니다. 신청 및 문의는 카카오톡 플러스친구 [서울문자통역]으로 연락 주세요! 이 서비스는 복권기금위원회의 사업비 지원으로 운영되며... ",
+			"cafename":"[삼.장.사]삼십만 장애인이 취업하는 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/samsunghandicap"
+		},
+		{
+			"title":"NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가(<b>문화<\/b>, 방송)",
+			"link":"http:\/\/cafe.naver.com\/cosmania\/19257379",
+			"description":"개인거래(판매), 판매완료, 가격 18,000원, 직접결제, NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가(<b>문화<\/b>, 방송), 1. 한국사 능력검정시험(판매 완료) 2. NCS 기반 <b>직무<\/b>분야별 <b>직무<\/b>능력평가(씨마스)- 08 <b>문화<\/b> 예술 디자인 방송... ",
+			"cafename":"카페 파우더룸 [ 화장품.뷰티.쇼핑.일...",
+			"cafeurl":"https:\/\/cafe.naver.com\/cosmania"
+		},
+		{
+			"title":"다들 경기<b>문화<\/b>재단 <b>직무<\/b>수행계획서 제출하셨나요??",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/671513",
+			"description":"필기를 공부하려고 공고를 다시 보다보니<b>직무<\/b>수행계획서를 제출해야 한다는 안내가 있네요...서류 제출할 때, <b>직무<\/b>수행계획서 비스무리한 거는 작성한 기억이 없는데ㅜㅜ서류 전형 때 제출하는 거 맞나요...?아니면 필기... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>문화<\/b>재단쪽요!",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1459466",
+			"description":"<b>문화<\/b>재단쪽을 준비하고 있는데 . 인적성에서 부터 머뭇 거리네요 혹시 내일 있을 오산<b>문화<\/b>재단 행정 가시는분 계실까요 ? 흑흑 ...",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"4월 롯데 채용중인 계열사&amp;<b>직무<\/b> 확인하고 가이드북 받아가세요",
+			"link":"http:\/\/cafe.naver.com\/specup\/6939560",
+			"description":"계열사&amp;<b>직무<\/b> 확인하고 가이드북 받아가세요 여러분 롯데 채용에서는 '월간롯데 스카우드'로 달마다 채용이 진행된다는 사실! 다들 알고 계셨나요? 오늘은 4월 월간롯데 스카우트 공고 계열사와 <b>직무<\/b> 확인하며... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"NCS 온라인 <b>직무<\/b>교육 - <b>문화<\/b>예술외교법무 (2020.03.10 업데이트)",
+			"link":"http:\/\/cafe.naver.com\/skynet1211\/8564",
+			"description":"[코리아취업아카데미 온라인 <b>직무<\/b> 교육]NCS온라인 <b>직무<\/b> 교육 - <b>문화<\/b>예술외교법무 안녕하세요코리아취업아카데미입니다 성공적인 공기업 취업을 대비해코리아취업아카데미에서 제공해드리는NCS 온라인 <b>직무<\/b> 교육의... ",
+			"cafename":"코리아취업아카데미 대기업 및 기업별...",
+			"cafeurl":"https:\/\/cafe.naver.com\/skynet1211"
+		},
+		{
+			"title":"조직문화와 구성원들의 <b>직무<\/b>만족및몰입도",
+			"link":"http:\/\/cafe.naver.com\/ak573\/325341",
+			"description":"한국직업능력개발원 전문연구원 조희경님이 작성한 조직문화와 구성원들의 <b>직무<\/b>만족 및 조직몰입도에 관한 논문입니다. 참조하여주시기 바랍니다.",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"강남<b>문화<\/b>재단 인적성 검사",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1664065",
+			"description":"<b>문화<\/b>재단 <b>직무<\/b>가 경력을 많이 요하기도 하고,<b>문화<\/b>재단 등을 준비하시는 분들 중에는경력 및 학력이 높으신 분들이 워낙 많기 때문에어떤 경력을 쌓아야 하나 참고할 겸 공고를 살펴보았는데 마침 경력이 필수가 아닌... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"인천에 거주하시는 회원분들~",
+			"link":"http:\/\/cafe.naver.com\/wlsals1106\/63609",
+			"description":"수행<b>직무<\/b> - (<b>문화<\/b>예술활동) 장애인이 미술, 사진, 음악, 연극 등 다양한 <b>문화<\/b>예술 활동 참여 창작활동 ·그리기, 글쓰기, 연주하기 등 전반적인 <b>문화<\/b>예술 활동 또는 보조업무수행, 장애인이 직접 자신의 생각, 소망 등을... ",
+			"cafename":"척수야 ! 사랑해",
+			"cafeurl":"https:\/\/cafe.naver.com\/wlsals1106"
+		},
+		{
+			"title":"[신길자 선생님] 독취사 면접 스터디 1일차 과제",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11469074",
+			"description":"- 면접에서는 발표식 말하기보다 대화식 말하기 - 인사규정 시행세칙 검토 - 기업<b>문화<\/b>와 인재상에 어울리는지, <b>직무<\/b> 역량을 가졌는지, 성장 가능성 확인 - 분야에 대해 덜 준비되어 있어도 회사에 대한 애정, 인품, 자신의... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"조직문화 전문가 분들의 의견을 구합니다.",
+			"link":"http:\/\/cafe.naver.com\/ak573\/679070",
+			"description":"조직문화 컨설턴트로 활동하는 힐링펭귄 입니다. 그간 글로벌 기업의 프로젝트나 조직문화 개선에 큰 뜻을 품은 국내 대기업의 컨설팅 업무를 담당했는데요... 조직문화 업무를 처음부터 끝까지 리딩하고, 조직문화 개선을... ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"서울<b>문화<\/b>재단 채용 및 자소서 확인해보세요!",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2139090",
+			"description":"정규직 - 운영지원직으로 설비 <b>직무<\/b>를 채용하고요. 기간제계약직으로 삼일로 창고극장, 생활<b>문화<\/b>팀, 예술지원팀, 지역<b>문화<\/b>팀, 연희<b>문화<\/b>창작촌 구분으로 채용합니다. 여기서 유의할 점은! 각 서울<b>문화<\/b>재단 채용 구분에 따라... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>직무<\/b>수행계획서 예시와 함께 [<b>직무<\/b>수행계획서] 작성법 알아봅시다!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1615084",
+			"description":"<b>직무<\/b>수행계획서 예시와 함께 [<b>직무<\/b>수행계획서] 작성법 알아봅시다! 서류전형 시 자기소개서 말고도... la\/fDCtn 공기업 직원이 알려주는 기업<b>문화<\/b> 썰..너무 애잔.. https:\/\/vo.la\/VoJ2i ※회원님들의 콘텐츠 및 게시글의... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"영어 성적이 너무 안좋은데 이걸로는 커버가 안되겠죠..ㅠ(토목\/건설\/설계 <b>직무<\/b>)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11739625",
+			"description":"봉사동아리 <b>문화<\/b>국장 - 수상경력 : 현장실습 표창(총장상), 최우수 일손 단체부분 대상( 충청북도청) - 기타사항 : - 추가 계획 : 입사 희망 회사\/부서\/<b>직무<\/b> (하나만 선택해도 OK) 설계회사 도화, 한종 취업카페 회원수 1위... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[고양<b>문화<\/b>재단 채용] ★총 19명 채용!! 정규직\/무기계약직 신입\/경력 (기술\/<b>문화<\/b>예술\/사업운영\/행정지원) (...",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1955362",
+			"description":"고양<b>문화<\/b>재단 채용인원은 19명 입니다. 고양<b>문화<\/b>재단 채용 전형절차는 서류전형-필기전형-면접전형으로 이루어진다고 합니다. 온라인 접수 https:\/\/bit.ly\/3uTr736 첨부파일 고양<b>문화<\/b>재단 <b>직무<\/b>기술서.zip 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"고용노동부 무료지원 [<b>문화<\/b>예술분야 <b>직무<\/b>상담 \/ 이력서,자소서가이드] 참여자를 모집합니다 :)",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1791106",
+			"description":"고용노동부 무료지원 [<b>문화<\/b>예술분야 <b>직무<\/b>상담 \/ 이력서,자소서가이드] 참여자를 모집합니다 :) JOB콕밥 1:1<b>직무<\/b>상담 <b>문화<\/b>예술기획자편! &quot;<b>문화<\/b>재단 취업 준비 잘 하고 있는 걸까?&quot; &quot;예술행정에... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"<b>문화<\/b>센터 오감놀이 강사 구해요",
+			"link":"http:\/\/cafe.naver.com\/msbabys\/4360891",
+			"description":"직장명: <b>문화<\/b>센터 유아수업 강사 근무지: 대전 \/ 대전 인근 업무 및 조건: 운전가능, 자차소유, 애기키우는 맘 대환영 우대사항 : 유아교육학, 해당<b>직무<\/b> 근무경험 대전인근은 유류대보조함 근무조건: 주 5일근무 (<b>문화<\/b>센... ",
+			"cafename":"대전세종맘스베이비(대세맘,대전맘,세...",
+			"cafeurl":"https:\/\/cafe.naver.com\/msbabys"
+		},
+		{
+			"title":"하반기 취업 스터디_기업 분석 및 모의 면접 스터디 모집합니다(마케팅\/MD<b>직무<\/b> 우대)",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/11787806",
+			"description":"내용 -기업 및 <b>직무<\/b> 분석 -AI 면접, 모의 면접 연습\/ 면접 예상 답변 후 피드백 -기업 공채\/전환형 인턴 면접... 역사<b>문화<\/b>학과(주전공),의류학과(복수전공) (영업MD\/기획MD\/온라인MD) - 공간연출전공 (VMD) 이렇게 4명... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"[엄마수학기자단] &quot;한국사와 예술로 만나는 수학&quot;<b>직무<\/b>연수에 다녀왔습니다^^~*",
+			"link":"http:\/\/cafe.naver.com\/spielmathe\/17743",
+			"description":"이런 날씨에도 수학을 좋아하는 엄마수학기자단의 활동은 계속 이어집니다^^ 저는 오늘 수학<b>문화직무<\/b>연수에 엄마수학기자단으로 참관수업을 다녀왔습니다~~ 한국사와 수학의 만남!!! 제목부터가 심상치않네요.... 특히... ",
+			"cafename":"슈필마테",
+			"cafeurl":"https:\/\/cafe.naver.com\/spielmathe"
+		},
+		{
+			"title":"용인<b>문화<\/b>재단 안전직 면접후기",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2175178",
+			"description":"응시기업 : 용인<b>문화<\/b>재단 응시직렬 : 안전 시험장소 : 용인아트센터 지하1층 면접실 시험시간 : 2022-06-23 15:00... 그리고 향후 안전<b>직무<\/b> 상황면접대처에 대한 큰 힌트를 얻은것 같습니다. 오늘 제 생일인데 안 좋은 소식을... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"[고양 꽃<b>문화<\/b>박물관] 큐레이터 모집",
+			"link":"http:\/\/cafe.naver.com\/hbrm\/63862",
+			"description":"우리 꽃 <b>문화<\/b>박물관 [<b>직무<\/b>내용] - 박물관 전시, 창소년교육, 프로그램개발 등 박물관 일반업무 외 꽃<b>문화<\/b>연구 [모집인원] : 여성1명 [자격면허] : ⓐ 박물관 및 미술관 정학예사 3급 이상 (전공분야 제한없음)... ",
+			"cafename":"큐레이터세상",
+			"cafeurl":"https:\/\/cafe.naver.com\/hbrm"
+		},
+		{
+			"title":"[성남<b>문화<\/b>재단 채용] 정규직 신입\/경력 (전산운영\/공연기획\/전시기획\/기계시설\/무대음향\/무대조명\/무대기계...",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2005515",
+			"description":"성남<b>문화<\/b>재단 채용인원은 7명 입니다. 성남<b>문화<\/b>재단 채용 전형절차는 필기전형-서류전형-면접전형으로 이루어진다고 합니다. 온라인 접수 https:\/\/bit.ly\/3fKzYyt 첨부파일 (성남<b>문화<\/b>재단)<b>직무<\/b>기술서.pdf 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"[D-1] 마음은 이미 입사~♬ 미리 알고 미리 준비하자! 서울시 공공기관 온라인 <b>직무<\/b> 멘토링 '랜선잡담'_★",
+			"link":"http:\/\/cafe.naver.com\/goondae\/2421744",
+			"description":"8.(목) ■ 서울<b>문화<\/b>재단 ■ 관광 산업 발전을 위해 지속가능한 국제 관광도시를 구현하고, 시민과 함께 서울관광의 변화와 도약을 이끄는 관광전문기관 [<b>직무<\/b>] - <b>문화<\/b>예술행정, 인사, 홍보, <b>문화<\/b>예술기획(생활<b>문화<\/b>... ",
+			"cafename":"전대모 (대학생,레포트,토익,족보,스펙...",
+			"cafeurl":"https:\/\/cafe.naver.com\/goondae"
+		},
+		{
+			"title":"[성북<b>문화<\/b>재단 채용] 정규직 신입 (시설관리-기계) (~4.15)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1933662",
+			"description":"우편 및 방문 접수 서울 성북구 아리랑로12길 4, 3층 - 성북<b>문화<\/b>재단 행정지원팀 인사담당자 앞 첨부파일 붙임2 성북<b>문화<\/b>재단 입사지원서20200217최종.hwp 파일 다운로드 첨부파일 붙임3 성북<b>문화<\/b>재단 <b>직무<\/b>수행방안 18... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>직무<\/b>교육(에듀ㅍㅇ), 그외 스펙",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1729490",
+			"description":"현스펙 인서울 컴공 3.9(4.5만점) 26여 정보처리기사, 한국사2급, 운전면허증 패스트푸드 아르바이트 경력 3년 ncs 8번(<b>문화<\/b>예술) <b>직무<\/b>교육 243시간 공단 5개월 인턴 중 ------------------------------------------- 계획 8월 전산회계... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>문화<\/b>예술 <b>직무<\/b>",
+			"link":"http:\/\/cafe.naver.com\/dakchi\/1503486",
+			"description":"준비하시는 분들 NCS 어떻게 공부하고 계시나요 일단 한국관광공사껄로 준비하면될까요 ㅜㅜㅜㅜㅜ 마땅히 나와있는것도 없고 참 애매하네요 휴 <b>문화<\/b>예술 공공기관 하고계신분들 도움좀 !!",
+			"cafename":"공취모★공기업NCS,공공기관취업,코레...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dakchi"
+		},
+		{
+			"title":"수원 청년들을 위한 <b>직무<\/b> 토크콘서트 참여자 모집",
+			"link":"http:\/\/cafe.naver.com\/1djr163\/14645",
+			"description":"수원 청년들을 위한 <b>직무<\/b> 토크콘서트 참여자 모집 수원시청년지원센터는 ‘전·현직자가 들려주는... 6일 ‘영업관리’ 분야 현직자를 시작으로 13일 ‘공기업’(<b>문화<\/b>예술기획), 20일 ‘마케팅’(브랜드·디지털)... ",
+			"cafename":"[화성에 반하다] 화성\/수원\/오산 부동...",
+			"cafeurl":"https:\/\/cafe.naver.com\/1djr163"
+		},
+		{
+			"title":"[성북<b>문화<\/b>재단 채용] 정규직 신입 (시설관리-기계) (~4.15.)",
+			"link":"http:\/\/cafe.naver.com\/kos6370\/94646",
+			"description":"첨부파일 붙임2_성북<b>문화<\/b>재단_입사지원서20200217최종2.hwp 파일 다운로드 첨부파일 붙임3_성북<b>문화<\/b>재단_<b>직무<\/b>수행방안_18_04기준_최종양식.hwp 파일 다운로드 [성북<b>문화<\/b>재단 채용] 정규직 신입 (시설관리-기계)... ",
+			"cafename":"가냉보열",
+			"cafeurl":"https:\/\/cafe.naver.com\/kos6370"
+		},
+		{
+			"title":"[원주<b>문화<\/b>재단 채용] 정규직 신입\/경력 (기술\/행정) (~8.6)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2001937",
+			"description":"세부적으로는, 조명감독\/전기\/기계\/건축\/소방\/<b>문화<\/b>예술\/회계 <b>직무<\/b>의 채용을 진행 중입니다. 총 인원 9명의 정규직 채용을 진행 중이오니 많은 분들의 관심 부탁드립니다 :) 다음은 원주<b>문화<\/b>재단 채용전형입니다.... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"[제천<b>문화<\/b>재단 채용] 정규직 경력 (<b>문화<\/b>콘텐츠\/영상) (~3\/22)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1917656",
+			"description":"우선 제천<b>문화<\/b>재단 채용직렬입니다 <b>문화<\/b>콘텐츠\/영상 <b>직무<\/b>를 수행하는 인원 1명을 채용 중에 있습니다. 지방공기업인 제천<b>문화<\/b>재단에서 정규직 채용을 진행 중이오니 영상 제작의 경력이 있으신 분들은 관심... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"2021 충청남도역사<b>문화<\/b>연구원 채용 인원부터 직렬 등 살펴봐요",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1912498",
+			"description":"첨부파일 충청남도역사<b>문화<\/b>연구원 채용 제출서류.hwp 파일 다운로드 첨부파일 충청남도역사<b>문화<\/b>연구원 <b>직무<\/b>설명서.pdf 파일 다운로드 이상 충청남도역사<b>문화<\/b>연구원 채용에 대해서 자세히 알아 보았습니다!",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"[성북<b>문화<\/b>재단 채용] ★내일마감! 정규직 경력 (기계) (~01.08)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/1862648",
+			"description":"자세한 정보가 필요하신 회원님은 첨부 파일을 확인해주세요 첨부파일 붙임2 성북<b>문화<\/b>재단 입사지원서20200217최종.hwp 파일 다운로드 첨부파일 붙임3 성북<b>문화<\/b>재단 <b>직무<\/b>수행방안 18 04기준 최종양식.hwp 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"대면\/비대면 조직문화 활성화 문의",
+			"link":"http:\/\/cafe.naver.com\/ak573\/727824",
+			"description":"안녕하세요. 30명규모의 IT회사이며 20~-30대로 대부분 이루어져있습니다. 사내분위기가 조용한 편이라, 어떻게 하면 조직문화를 활성화 시킬 수 있을지 고민을 하고 있습니다. 아이디어 공유 부탁드립니다. 감사합니다.",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"입사지원동기 찐 합격자들이 쓴 합격샘플",
+			"link":"http:\/\/cafe.naver.com\/ohohohs\/109083",
+			"description":"입사지원동기 찐 합격자들이 쓴 합격샘플 지원동기는 지원자가 지원한 회사와 해당 <b>직무<\/b>를 얼마나 제대로 파악하고 있는지를 알아보기 위함입니다. '지원자가 회사에 지원한 이유', '지원하는 회사와 해당 <b>직무<\/b>에 대한... ",
+			"cafename":"군준모★군무원 시험을 준비하는 사람...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ohohohs"
+		},
+		{
+			"title":"[자소서 장점 예시] 자소서 장점 쓰는거 어떻게 하냐고요? 작성방법 예시로 알려드립니다~!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1941126",
+			"description":"한국<b>문화<\/b>정보원, 코레일 공기업으로 알아보았는데요! 큰 틀에서 여러분들이 얼마나 잘 <b>직무<\/b>와 연관짓느냐가 중요할 것 같습니다. 지금까지 자소서 장점 예시와 그 작성방법에 대해 알아보았는데요. 그 밖의 공기업... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"㈜아이헤리티지(생각하는 박물관) 역사<b>문화<\/b> 교육강사 채용",
+			"link":"http:\/\/cafe.naver.com\/booheong\/215530",
+			"description":"역사<b>문화<\/b> 관련 전공자 (3) 주말 및 공휴일 근무 가능하신 분 (4) 우대사항 : 관련 <b>직무<\/b> 경험자, 한국사능력검정시험 자격증 보유 4) 근무조건 (1) 근무요일 및 시간 : 평일 \/ 주말 협의 가능, 교육 진행 일정에 따라 상이... ",
+			"cafename":"【부흥】네이버 대표 역사 카페",
+			"cafeurl":"https:\/\/cafe.naver.com\/booheong"
+		},
+		{
+			"title":"[원주<b>문화<\/b>재단 채용] 정규직 신입\/경력 (기계\/세무회계) (~6.19)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2168259",
+			"description":"원주<b>문화<\/b>재단 채용 전형절차는 서류전형-필기전형-면접전형으로 이루어진다고 합니다. 온라인 접수 https:\/\/bit.ly\/3xqWXqe 첨부파일 2. 2022. 5. 모집분야 <b>직무<\/b>설명서(세무회계).hwp 파일 다운로드 첨부파일 2. 2022. 5.... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"한국<b>문화<\/b>예술위원회 채용형 인턴 모집! 일반직 6급 전환형 채용입니다.",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1803673",
+			"description":"<b>직무<\/b>기초평가는 25문항 내외로 60분 <b>직무<\/b>심화평가는 <b>문화<\/b>예술 관련 분야의 주제 논술형으로 1~2문항 90분입니다. <b>직무<\/b>기초평가가 30% <b>직무<\/b>심화평가가 70% 입니다. 한국<b>문화<\/b>예술위원회 채용 공고 전문은 아래... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		}
+	]
+}

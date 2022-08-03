@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:58 +0900",
+	"total":368,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>스포츠<\/b>에이전트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025800&cid=42117&categoryId=42117",
+			"description":" <b>스포츠<\/b> 선수의 협상, 계약, 이적, 마케팅 등의 업무를 대리하고 각종 관리서비스를 제공한다. [수행<b>직무<\/b>] <b>스포츠<\/b> 선수 계약에 관련된 법률, <b>스포츠<\/b> 협회 및 단체의 규정·규약, 국내외 <b>스포츠<\/b> 시장의 동향, 경기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b>애널리스트",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627241&cid=42117&categoryId=42117",
+			"description":" 경기력 향상을 위해 각종 <b>스포츠<\/b> 경기의 모든 요소를 수치적 데이터로 기록하고 이를 분석하여 제공한다. [수행<b>직무<\/b>] <b>스포츠<\/b> 경기력, 건강 및 운동 정보, <b>스포츠<\/b> 산업 시장 등 <b>스포츠<\/b>와 관련한 모든 현상을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b>사회학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025281&cid=42117&categoryId=42117",
+			"description":" <b>스포츠<\/b>의 사회적 기능이나 사회와의 관련성, <b>스포츠<\/b>팀의 조직사회 등에 대해 연구한다. [수행<b>직무<\/b>] <b>스포츠<\/b> 장면에서 일어나는 행동유형 및 사회화과정과의 관계에 대해 연구한다. <b>스포츠<\/b>의 사회적 기능에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b>클라이밍강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665147&cid=42117&categoryId=42117",
+			"description":" 실내외 인공암벽등반 시설에서 수강생에게 <b>스포츠<\/b>클라이밍(Sports Climbing)을 교육한다. [수행<b>직무<\/b>] <b>스포츠<\/b>클라이밍 교육반을 편성하고 교육프로그램을 운영한다. 인공암벽등반시설(산악 등지에서 경험할 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이<b>스포츠<\/b>심판",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832803&cid=42117&categoryId=42117",
+			"description":" e<b>스포츠<\/b> 경기에서 경기규칙을 적용하여 공정하게 경기를 진행한다. [수행<b>직무<\/b>] e<b>스포츠<\/b> 경기장 시설 및 환경을 점검하여 불공정한 요소를 배제한다. 정해진 규칙에 따라 경기를 진행한다. 경기를 판정하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b>프로그램프로듀서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025737&cid=42117&categoryId=42117",
+			"description":" <b>스포츠<\/b>프로그램(<b>스포츠<\/b> 뉴스, <b>스포츠<\/b> 종합 프로그램, <b>스포츠<\/b> 경기 중계 등)을 기획·총괄하고 관련 종사원들의 활동을 조정한다. [수행<b>직무<\/b>] <b>스포츠<\/b> 뉴스를 기획·제작하는 경우, 경기나 행사가 열리는 장소와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이<b>스포츠<\/b>마케터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627191&cid=42117&categoryId=42117",
+			"description":" 이<b>스포츠<\/b> 대회 기획 및 운영을 통해 게임을 홍보한다. [수행<b>직무<\/b>] 이<b>스포츠<\/b> 대회 운영 시스템을 개발하고 홍보 이벤트를 기획한다. 사업 팀, 디자인팀, 운영 팀, 게임 개발팀과의 협업을 통해 리그 방식을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이<b>스포츠<\/b>경기단체사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024631&cid=42117&categoryId=42117",
+			"description":" e<b>스포츠<\/b> 경기단체에서 e<b>스포츠<\/b> 종목선정, 대회운영, 경기규정 및 제도, 선수등록 및 관리에 대한 제반 사무 및 행정업무를 수행한다. [수행<b>직무<\/b>] e<b>스포츠<\/b> 관련 위원회를 기획하고 운영한다. 위원회의 의결에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b>심리상담사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658686&cid=42117&categoryId=42117",
+			"description":" 상담과 교육을 통해 운동선수와 <b>스포츠<\/b> 참가자의 목표설정, 자기관리, 실수 및 불안 극복, 자신감 회복 등을 지원함으로써 운동과 <b>스포츠<\/b>의 지속 동기를 강화하고 수행능력을 향상시키도록 도와준다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b>경영관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=970480&cid=42114&categoryId=42114",
+			"description":"② <b>스포츠<\/b>경영관리사 자격제도는 <b>스포츠<\/b>경영관리 분야에서의 올바른 <b>직무<\/b>활동을 위하여 <b>스포츠<\/b>경영관리 분야의 전문가를 양성하기 위하여 2005년에 신설되었다. (2) 자격특징 ① <b>스포츠<\/b>경영관리사 자격은... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20191023185801620_7UI70BFYC.jpg\/da6_87_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"e<b>스포츠<\/b>기자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025599&cid=42117&categoryId=42117",
+			"description":" e<b>스포츠<\/b> 리그 현장 및 선수들을 취재하여 기사를 작성하고 e<b>스포츠<\/b> 포털사이트에 게시한다. [수행<b>직무<\/b>] 경기 프리뷰를 리뷰한다. 팀전력, 동향 등을 분석한다. 주목되는 경기 및 선수를 파악한다. 해설자 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b>마케터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658669&cid=42117&categoryId=42117",
+			"description":" <b>스포츠<\/b>팀 및 기업이 <b>스포츠<\/b>마케팅을 통해 인지도 향상 및 이미지 개선을 할 수 있도록 <b>스포츠<\/b>와 관련된 각종 행사지원, 선수지원, <b>스포츠<\/b>용품 판매 등을 대행한다. [수행<b>직무<\/b>] 소비자의 의식과 행태를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프로 <b>스포츠<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=456666&cid=42876&categoryId=42876",
+			"description":"직업으로서 하는 <b>스포츠<\/b>. 즉 개성을 발휘하여 보다 고도한 플레이를 경쟁함으로써 사회에 서비스를 제공하고, 그 대가로서 생계 유지를 위한 보수를 획득하는 <b>스포츠<\/b>이다. 또 이러한 직업 경기자를 프로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b>정책연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025282&cid=42117&categoryId=42117",
+			"description":" <b>스포츠<\/b>정책수립에 관한 기초연구를 수행한다. [수행<b>직무<\/b>] 국민체육진흥법에 따른 국민체육진흥계획의 수립 및 평가에 대해 연구한다. 법, 재원, 인력, 조직, 시설 등 체육기반조성에 관해 연구한다. 전문체육... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b> 조직화",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3543525&cid=42266&categoryId=58494",
+			"description":"[<b>스포츠<\/b> 조직화] <b>스포츠<\/b> 조직화(sports organizing)란 <b>스포츠<\/b> 산업과 연관돼 있으면서, 조직 내 목표 달성을 위해 <b>직무<\/b>를 배열하고 구조화하는 것을 뜻한다. <b>스포츠<\/b> 조직은 다음과 같은 특성이 있다. 첫째... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4004_000_1\/20160922141104727_DPLOC3KYL.jpg\/s_ei314_9_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>스포츠<\/b>용품수리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029542&cid=42117&categoryId=42117",
+			"description":" 소비자로부터 축구화, 테니스라켓, 골프채, 야구공 등 <b>스포츠<\/b>용품의 수선을 의뢰받아 육안 및 착용 등으로 테스트하여 문제점을 확인하고 제품을 수선한다. [수행<b>직무<\/b>] 수선을 의뢰받은 <b>스포츠<\/b>용품을 확인한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이<b>스포츠<\/b>맵제작자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028712&cid=42117&categoryId=42117",
+			"description":" 컴퓨터게임대회인 이<b>스포츠<\/b>(E-Sports)에 사용되는 경기 맵을 제작한다. [수행<b>직무<\/b>] 방송국 등의 대회관계자와 맵에 대한 기본적인 방향을 정한다. 맵에서 주로 쓰일 전략이나 경기형태 등에 대해 논의한다. 맵... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b> 조직의 인적자원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3543526&cid=42266&categoryId=58494",
+			"description":"급변하는 시대적 흐름에 맞춰 합리적 인적 자산 관리를 위해 <b>직무<\/b> 분석과 <b>직무<\/b> 평가를 한다.유연하고 지속적인 제도적 보완책을 통해 다양성과 포용성의 조직 문화를 이룰 수 있다. [인적자원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b> 조직의 동기부여",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3543528&cid=42266&categoryId=58494",
+			"description":"<b>스포츠<\/b> 분야에서 동기부여는 많은 사례를 찾아 볼 수 있다. 예를 들면 올림픽 메달의 대가인 포상금과 연금, 월드컵 본선 진출에 따른 포상금, 병역 혜택 등은 선수단에게 큰 동기부여 효과로 작용하고 있다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b> 조직 평가와 관리",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3543530&cid=42266&categoryId=58494",
+			"description":"첼라두라이는 <b>스포츠<\/b> 경영의 기능으로 계획, 조직, 통솔, 평가를 제시했다. 계획에 따라 착수된... [<b>스포츠<\/b> 조직 평가] 조직과 경영은 무엇인가? 다시 근원적인 질문으로 돌아왔다. 특정 목적 달성을 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>스포츠<\/b> 조직의 커뮤니케이션",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3543529&cid=42266&categoryId=58494",
+			"description":"조직 내 원활한 업무 협조를 위해 수신자 입장을 고려한 의사소통이 매우 중요하다.<b>스포츠<\/b> 3.0 시장에서 소비자를 유인하고 감동 이상의 가치를 제공하기 위해선 경제적 플랫폼으로서 성장한 소셜 미디어와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제주특별자치도 댄스<b>스포츠<\/b>연맹 (제주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2626051&cid=51955&categoryId=55498",
+			"description":"[정의] 제주특별자치도 제주시 이도2동에 있는 제주특별자치도 체육회 산하 댄스<b>스포츠<\/b> 단체. [설립목적] 댄스<b>스포츠<\/b>의 확산 및 보급을 위해 각종 댄스<b>스포츠<\/b> 경기를 통해 도민 체력 증진과 건전하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"태국 취업 비자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6197931&cid=67745&categoryId=67961",
+			"description":" 90일간 체류 가능한 비이민 비자로 투자, 영업 목적 입국자를 대상으로 한다. [개요] 전시회 참가\/해외 비즈니스 미팅 출장 등의 목적이 아닌 판촉 행사 개최 등의 목적으로 체류 시에는 체류 기간과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5932_000_1\/20210106170632984_NBCOWYYM6.jpg\/gb288_9_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"김용상",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B9%80%EC%9A%A9%EC%83%81",
+			"description":"1968년부터 서울신문 기자로 일하다 2002년 <b>스포츠<\/b>서울 사장 <b>직무<\/b>대행을 끝으로 퇴직, 지금은 소설가로 활동하고 있다. 주요 경력 1968년 서울신문 입사 1988년~97년 <b>스포츠<\/b>서울 문화부장, 체육1부장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프로게임단코치",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832859&cid=42117&categoryId=42117",
+			"description":" 프로게임단 감독의 지휘에 따라 선수를 관리하고 훈련시킨다. [수행<b>직무<\/b>] e<b>스포츠<\/b> 프로게임단의 훈련계획, 선수선발 및 퇴출, 출전선수에 대한 의견을 제시한다. 상대 선수 및 게임단의 전력을 분석하고 전략을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"프로게임단감독",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832858&cid=42117&categoryId=42117",
+			"description":" 프로게임단의 선수를 관리하고 훈련시키며 코치 등 관련 종사자를 감독·지휘한다. [수행<b>직무<\/b>] e<b>스포츠<\/b> 프로게임단의 코치, 선수, 사무국과 협의하여 훈련계획, 선수선발 및 퇴출, 출전선수 등을 결정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"앙리 드 바예라투르",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%95%99%EB%A6%AC_%EB%93%9C_%EB%B0%94%EC%98%88%EB%9D%BC%ED%88%AC%EB%A5%B4",
+			"description":"그는 벨기에에서 <b>스포츠<\/b> 조직과 함께 <b>직무<\/b>가 할당되었고, 1906년 벨기에 올림픽 위원회를 공동 창립하였다. 그는 1908년 런던 올림픽과 1912년 스톡홀름 올림픽에서 벨기에의 참가 조종을 위하여 책임이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마리나운영원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026220&cid=42117&categoryId=42117",
+			"description":" 마리나 시설을 유지·관리하고 이용 선박에 접안, 계류 등 관련 서비스를 제공한다. [수행<b>직무<\/b>] 마리나 시설(<b>스포츠<\/b> 또는 레크리에이션용 요트, 모터보트 등의 선박을 위한 항구)의 선석 배정 현황을 관리한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생체역학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025201&cid=42117&categoryId=42117",
+			"description":" <b>스포츠<\/b>장비(또는 운동화)와 기구를 개발하기 위해 인체운동과 <b>스포츠<\/b>용구와의 역학관계를 연구한다. [수행<b>직무<\/b>] 영상분석시스템, 지면반력측정시스템, 실시간동작분석시스템 등을 사용하여 인체를 측정하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해설위원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5908758&cid=42117&categoryId=42117",
+			"description":" 보도방송을 위하여 정치, 경제, 사회, <b>스포츠<\/b> 등 여러 분야의 현상들을 분석하고 논평한다. [수행<b>직무<\/b>] 정치, 경제, 사회, <b>스포츠<\/b> 등 각 분야에서 발생하는 현상에 관련된 정보를 수집·분석하여 보도자료를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운동코치",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832857&cid=42117&categoryId=42117",
+			"description":" 선수의 기량 향상을 위해 가르칠 운동기술의 시범을 보여주면서 선수를 개인적으로 또는 집단적으로 지도한다. [수행<b>직무<\/b>] 운동수행 시 발생할 수 있는 <b>스포츠<\/b> 상해를 줄이기 위한 예방법을 지도한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경기기록분석원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026197&cid=42117&categoryId=42117",
+			"description":" 선수와 팀의 경기 자료를 수집, 관찰, 기록, 분석 및 평가하여 이용자의 목적에 맞게 서비스를 제공한다. [수행<b>직무<\/b>] 경기를 하는 선수, 팀, 경기와 관련된 영상이나 자료를 경기기록지, 경기전산프로그램 등... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경기장아나운서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025751&cid=42117&categoryId=42117",
+			"description":" 방송장비를 사용하여 운동경기의 상황을 관중들에게 알린다. [수행<b>직무<\/b>] 심판이나 운동경기기록원으로부터 경기상황을 접수한다. 선수명단, 교체선수, 판정내용 등을 방송장비를 이용하여 관중에게 알린다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"회원관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5664848&cid=42117&categoryId=42117",
+			"description":" 오락시설이나 특정 강습에 참가하려는 참가자를 모집하고 각종 회원관리업무를 수행한다. [수행<b>직무<\/b>] 각종 강습회의 기간, 장소, 회비에 관한 내용을 계획하고 회원에게 통보한다. 회원을 모집하기 위하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대중무용수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025657&cid=42117&categoryId=42117",
+			"description":" 관객을 대상으로 대중음악에 맞추어 춤을 춘다. [수행<b>직무<\/b>] 안무가에게 춤 동작을 배우고 음악에 맞추어 동작을 연습한다. 혼자 또는 단체로 관객에게 여흥을 제공하기 위하여 대중음악에 맞추어 힙합댄스... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사진기자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025623&cid=42117&categoryId=42117",
+			"description":" 신문이나 잡지에 게재하기 위하여 뉴스, <b>스포츠<\/b>, 연예 또는 흥미를 끌 만한 사건·장소·인물 및 기타 장면을 사진으로 제공하기 위하여 사진기로 촬영한다. [수행<b>직무<\/b>] 독자의 관심과 흥미를 불러일으킬 수 있는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"체육지도자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6479195&cid=43667&categoryId=43667",
+			"description":" 학교·직장·지역사회 또는 체육단체 등에서 체육을 지도할 수 있도록 국민체육진흥법에 따라 ▷<b>스포츠<\/b>지도사 ▷건강운동관리사 ▷장애인<b>스포츠<\/b>지도사 ▷유소년<b>스포츠<\/b>지도사 ▷노인<b>스포츠<\/b>지도사 중 어느... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA4MzFfMjY4%2FMDAxNjMwMzkwNTM2OTY0.lqL3m5DnMrbwj3MlhvW--z_5DyLZwBuPwvVGepV7xQgg.HBp6iPm7HbHpdTxowo4PEichJeoEvz4Jn0Cttyf2zAEg.JPEG%2FI0RciuJfpjoQ1uxFhqP0_4mse2zg.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"방송기자재배정원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024715&cid=42117&categoryId=42117",
+			"description":"<b>스포츠<\/b>중계, 현장중계, 스튜디오, 녹화방송, 생방송 등에 적합한 카메라, 중계차, 스튜디오, 각종 기자재의 사용일정을 확인하고 배정한다. 파손된 방송기자재의 수량과 상태를 확인하고 방송기기정비원에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"드론개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028168&cid=42117&categoryId=42117",
+			"description":"군사, 촬영, <b>스포츠<\/b>, 관측, 감시, 정보통신, 광고, 배달 등 다양한 응용분야에서 임무를 수행하는 데 필요한 응용장치(영상장치, 애플리케이션, 센서, 액추에이터, 액세서리, 시뮬레이션 장치 등)를 연구... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운동생리학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025218&cid=42117&categoryId=42117",
+			"description":"<b>스포츠<\/b>상해 예방 및 재활, 영양 및 건강에 대해 연구한다. 기타 연구원(일반)들이 수행하는 일반적인 활동을 한다. 그 외에 연구원(일반)이 수행하는 일반적인 업무를 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"방송카메라강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5665262&cid=42117&categoryId=42117",
+			"description":"ENG카메라, 6mm카메라, TV카메라, <b>스포츠<\/b> 중계 카메라 등 각종 카메라에 대한 기초 및 이론에 대하여 강의한다. 디지털 방송에 관한 이론수업을 진행한다. 음향 및 조명에 대한 이론교육 및 실습을 진행한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인터넷기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028713&cid=42117&categoryId=42117",
+			"description":"웹페이지 메뉴(뉴스, <b>스포츠<\/b>, 웹진 등의 콘텐츠 등) 업데이트를 기획한다. 상품에 대한 내용물 게시를 기획한다. 웹페이지를 통한 회사홍보를 기획하기도 한다. 웹페이지의 데이터베이스를 관리한다. 회원의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"가정의학과전문의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025427&cid=42117&categoryId=42117",
+			"description":"환자에게 관련 전문의를 소개·추천한다. 진료하는 세부과목에 따라 건강증진과, 건강검진과, 노인의학과, <b>스포츠<\/b>의학과, 갱년기의학과, 여행자의학과 진료를 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"암벽화수선원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953452&cid=42117&categoryId=42117",
+			"description":"다목적용, 일반용, <b>스포츠<\/b>클라이밍용, 에징용, 프릭션용, 크랙등반용 등 암벽화의 종류와 제조사 및 제품별로 다양한 수선용 소재를 준비한다. 밑창의 마모 정도, 손상부분을 확인하고 수선방법을 결정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"판촉매체기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024586&cid=42117&categoryId=42117",
+			"description":"이벤트미디어(<b>스포츠<\/b>대회, 콘서트, 사인회, 전람회 등) 등을 선정한다. 판촉전개 시책의 실시일정 계획과 효과측정 계획을 세운다. 판촉전략사양서와 실시계획사양서를 작성하여 실시 후 효과를 측정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"웹서비스기획원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028710&cid=42117&categoryId=42117",
+			"description":"홈페이지상의 메뉴인 뉴스, <b>스포츠<\/b>, 웹진 등의 콘텐츠 업데이트(Update) 기획을 한다. 부가통신서비스상품의 일부분에 대해 개제할 내용을 기획한다. 웹페이지를 통한 회사홍보서비스 및 홍보를 기획한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"재활의학과전문의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025443&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 신경 병변(뇌졸중 및 뇌손상, 척수손상, 근육병, 뇌성마비, 치매 외), 근골격계 병변 및 통증 질환(척추, 관절, <b>스포츠<\/b> 손상), 발달장애 및 노화, 암과 심폐질환 등으로 기능이 저하된 환자를 대상으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방송리포터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025755&cid=42117&categoryId=42117",
+			"description":"취재내용을 녹음 또는 녹화하거나 생방송으로 보도한다. 취재 원고를 작성하거나 편집하기도 한다. 정치, 경제, 사회, 문화, 교통, <b>스포츠<\/b> 등의 특정한 분야를 전문적으로 담당하기도 한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"방송콘텐츠기획판매자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627169&cid=42117&categoryId=42117",
+			"description":"자사의 방송콘텐츠(드라마, 다큐멘터리, 쇼프로그램, <b>스포츠<\/b> 중계 등)를 시청하고 시청률, 시나리오, 출연배우 등 관련 자료를 수집하여 마케팅자료로 정리한다. 해외방송국 또는 수입업자와 가격 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운동선수스카우터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832830&cid=42117&categoryId=42117",
+			"description":" 구단과 연고를 맺은 고등학교, 대학교를 방문하여 우수한 선수를 소개받거나 발굴한다. [수행<b>직무<\/b>] 고등학교, 대학교 소속의 운동선수들이 참가하는 대회 경기에 참관하여 기량이 뛰어나거나 성장잠재력이... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경마중계소관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024497&cid=42117&categoryId=42117",
+			"description":" 비디오장치를 이용하여 경마경주를 중계하는 경마중계소를 관리한다. [수행<b>직무<\/b>] 경마 시행정보에 따라 경마중계소의 업무계획을 수립한다. 마권의 구입, 승식, 환급과 기타 경마시행과정에 대하여 고객에게... ",
+			"thumbnail":""
+		},
+		{
+			"title":"산림레포츠지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6624621&cid=42114&categoryId=42114",
+			"description":" 산림레포츠지도사는 생활<b>스포츠<\/b>지도사, 전문<b>스포츠<\/b>지도사와 같은 체육지도자 자격(건강운동관리사 제외)을 보유한 사람이 산림레포츠지도사 양성교육기관에서 10일간 교육(총 75시간)을 이수하면... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_2\/20220616101601492_5F41OSHQN.jpg\/da6_979_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경륜선수관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026188&cid=42117&categoryId=42117",
+			"description":" 경주에 참가하는 경륜선수가 최고의 컨디션을 갖출 수 있도록 입소지역 내에서 선수들의 활동을 관리한다. [수행<b>직무<\/b>] 경기 출주가 확정된 선수들의 명단을 확인하여 출주 가능 여부를 파악한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"골프장코스관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024498&cid=42117&categoryId=42117",
+			"description":" 골프장 코스의 잔디를 관리하며 코스관리원의 활동을 조정 및 감독한다. [수행<b>직무<\/b>] 잔디의 종류에 따른 토양 및 기후에 맞추어 잔디 관리계획을 세운다. 코스를 순찰하며 병충해 및 문제가 있는 코스에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"필라테스강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832705&cid=42117&categoryId=42117",
+			"description":" 필라테스(Pilates) 교육프로그램을 운영하며 강습생을 지도한다. [수행<b>직무<\/b>] 강습생과 상담하여 운동목표, 통증부위, 기초신체지수 등을 파악하고 적절한 운동 프로그램을 권유한다. 다양한 필라테스... ",
+			"thumbnail":""
+		},
+		{
+			"title":"인공암벽시설관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832855&cid=42117&categoryId=42117",
+			"description":" 인공암벽시설(실내외에 인공으로 만들어진 암벽 구조물)을 운영·관리한다. [수행<b>직무<\/b>] 인공암벽시설의 운영시간을 관리하고 무단사용을 금지한다. 등반자가 안전장비(안전벨트, 로프, 퀵드로우, 암벽화... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운동선수트레이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026213&cid=42117&categoryId=42117",
+			"description":" 아마추어운동선수나 직업운동선수들에게 각종 경기에서 최상의 운동능력을 발휘하도록 신체상태를 점검하고 트레이닝을 시킨다. [수행<b>직무<\/b>] 운동감독이나 운동선수코치와 협의하여 종목, 포지션, 선수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"재활승마지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832708&cid=42117&categoryId=42117",
+			"description":" 신체적, 정신적 장애를 가진 사람을 대상으로 말을 활용한 활동을 지도하기 위해 재활승마의 계획, 운영, 관리, 평가 등을 수행한다. [수행<b>직무<\/b>] 재활승마를 위한 운영 계획을 수립하고 대회협력을 추진하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"회원모집영업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658435&cid=42117&categoryId=42117",
+			"description":" <b>스포츠<\/b>나 오락시설 등을 이용하려는 회원을 모집하기 위한 영업활동을 한다. [수행<b>직무<\/b>] 모집하려는 회원의 대상, 제공하는 서비스의 종류와 특징, 모집인원, 회원의 등급, 가입기간, 회원의 자격과 권리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운동선수매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832828&cid=42117&categoryId=42117",
+			"description":" 운동선수 및 선수단이 최상의 운동능력을 유지하도록 트레이닝 스케줄, 휴식, 건강, 숙박, 차량 이동 등에 대한 제반 사항을 관리한다. [수행<b>직무<\/b>] 개별 운동선수에 대해 트레이닝 시간, 건강상태, 휴식시간... ",
+			"thumbnail":""
+		},
+		{
+			"title":"승마교관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025811&cid=42117&categoryId=42117",
+			"description":" 승마경기에 참가하는 승마선수를 대상으로 경기기술을 지도하거나 레저로 승마를 배우는 강습생을 교육한다. [수행<b>직무<\/b>] 마장마술, 장애물비월경기, 크로스컨트리, 종합마술 등의 경기에 참가하는 승마선수를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"헬스트레이너",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832704&cid=42117&categoryId=42117",
+			"description":" 헬스클럽 등에서 개인의 체력을 증진하고 신체를 단련하도록 지도한다. [수행<b>직무<\/b>] 운동의학적 지식을 활용하여 개인 또는 단체의 운동을 지도한다. 개인의 신체적 특징, 환경, 운동목적을 파악하고 적절한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"골프경기진행자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026218&cid=42117&categoryId=42117",
+			"description":" 골프장에서 여러 팀의 고객들이 경기를 원활히 진행할 수 있도록 경기 진행상황과 속도를 조종한다. [수행<b>직무<\/b>] 예약자를 확인하고 예약 순서에 맞춰 일정한 시차를 두고 경기를 진행시킨다. 경기 지연을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"MCN크리에이터커뮤니티매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025798&cid=42117&categoryId=42117",
+			"description":" 1인 창작자를 도와 채널에 동영상을 업로드하고 시청자와 소통한다. [수행<b>직무<\/b>] 1인 창작자가 제작한 콘텐츠를 채널에 업로드한다. 콘텐츠의 제목, 미리보기, 헤시테그(Hashtag)를 입력한다. 시청자의 반응을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"케이블카운영관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024506&cid=42117&categoryId=42117",
+			"description":" 고객 및 화물을 이동시키는 케이블카의 운행 및 안전을 총괄 관리하고 관련 종사자들의 활동을 관리한다. [수행<b>직무<\/b>] 케이블카의 운영 현황을 파악한다. 고객의 안전 및 서비스를 위해 종사원에 대한 업무조정... ",
+			"thumbnail":""
+		},
+		{
+			"title":"골프장캐디",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026219&cid=42117&categoryId=42117",
+			"description":" 골프장에서 고객이 원활한 경기를 할 수 있도록 도와주고 골프백을 운반하거나 카트를 이동시킨다. [수행<b>직무<\/b>] 고객의 골프백을 카트에 싣고 경기 중인 고객을 따라다니며 용도에 맞는 골프채를 건네준다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"골프피터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026215&cid=42117&categoryId=42117",
+			"description":" 고객의 신체, 골프스윙분석 결과 등을 고려하여 클럽, 우드, 아이언 등 골프채를 추천하거나 개인에 맞춰 맞춤형 제품을 제작하거나 수리한다. [수행<b>직무<\/b>] 스윙 분석장비를 통해 고객의 강도, 거리, 방향, 스윙... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832707&cid=42117&categoryId=42117",
+			"description":" 경주를 할 수 있도록 경주마를 훈련시키고 마필의 경주능력을 향상시킬 수 있도록 사육·관리한다. [수행<b>직무<\/b>] 준비운동, 보, 구보, 습보, 조교운동과 연습시합을 통하여 경주용 말이 되도록 훈련시킨다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"디지털인플루언서관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025799&cid=42117&categoryId=42117",
+			"description":" 파워블로거나 1인 방송 진행자 등의 인플루언서(Influencer)를 섭외하고 관리한다. [수행<b>직무<\/b>] 화장품, 게임, 음식, 생활 소비용품, 여행 등 분야별 인플루언서를 섭외하고 목록으로 만든다. 소속된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경기장관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024496&cid=42117&categoryId=42117",
+			"description":" 육상경기장, 축구장, 농구장, 야구장, 경마장, 각종 실내경기장 등 경기장의 운영·유지·관리를 총괄하고, 관련 작업원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 경기장 운영에 필요한 인력, 장비, 예산 등에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운동경기정찰원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026222&cid=42117&categoryId=42117",
+			"description":" 경기 전에 상대팀의 경기를 관찰·분석하여 대응방법을 구상할 수 있도록 상대팀의 전력을 분석하여 운동선수코치에게 보고한다. [수행<b>직무<\/b>] 다음에 상대할 팀의 경기를 관찰하고 경기내용을 분석한다. 선수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유람선운영관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024503&cid=42117&categoryId=42117",
+			"description":" 유람선 운항과 관련 시설 운영을 총괄 관리하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 유람선의 운행일정, 승객 수 및 특성 등을 확인하여 필요 승선인원을 계획한다. 기상 환경, 승객 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"응원단원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026223&cid=42117&categoryId=42117",
+			"description":" 운동경기 중 소속팀의 사기를 북돋우기 위하여 응원을 한다. [수행<b>직무<\/b>] 경기가 시작되기 전에 소속팀의 선수명단을 확인하고 명단이나 구호를 사전에 미리 암기한다. 응원복을 착용하고 확성기와 응원도구를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"도시민박운영자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024499&cid=42117&categoryId=42117",
+			"description":" 관광객 대상의 민박사업을 기획하거나 직접 민박을 운영한다. [수행<b>직무<\/b>] 도시지역에 거주하고 있는 주택을 이용하여 외국인 관광객에게 한국의 가정문화를 체험할 수 있도록 숙식 등을 제공한다. 한국문화와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마장취체위원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026221&cid=42117&categoryId=42117",
+			"description":" 경마에 필요한 설비와 예시장을 관리하고 경기를 취체(取締:규칙, 법령, 명령 따위를 지키도록 통제)한다. [수행<b>직무<\/b>] 출입문의 개폐 여부와 주로상의 이물질 방치 여부 등을 점검한다. 경마프로그램을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유원지관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024504&cid=42117&categoryId=42117",
+			"description":" 오락용 승차기구 시설을 갖춘 유원지에 대한 운영 및 관리를 총괄하고, 관련 종사원들의 활동을 조정한다. [수행<b>직무<\/b>] 오락시설 이용, 동·하절기 개장시간, 행사개최 등 유원지 운영에 대한 계획을 수립한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔현관지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837683&cid=42117&categoryId=42117",
+			"description":" 호텔투숙객의 객실 배정·퇴실을 관장하고, 호텔현관종사원들의 업무를 지시·감독한다. [수행<b>직무<\/b>] 호텔 투숙의 예약상황을 검토하여 예약처리지침을 전달한다. 고객의 예약여부를 확인하여 객실을 배정해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"레크리에이션진행자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025808&cid=42117&categoryId=42117",
+			"description":" 모임 및 행사에서 오락프로그램을 계획하고 진행한다. [수행<b>직무<\/b>] 기업체, 학교, 복지기관 등 레크리에이션 진행을 의뢰하는 단체와 협의하여 진행을 위한 계획표를 작성한다. 모임의 성격, 장소, 시간, 인원수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔총지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024509&cid=42117&categoryId=42117",
+			"description":" 호텔의 숙박시설과 각종 부대시설에서 종사하는 종업원들의 업무를 감독·조정하고 제반 업무를 총괄 지휘한다. [수행<b>직무<\/b>] 호텔의 효율적인 운영을 위하여 종업원의 업무를 관리하고 고객 접대서비스의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"MCN크리에이터매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837799&cid=42117&categoryId=42117",
+			"description":" 1인 창작자와 계약을 체결하고 콘텐츠의 기획 및 제작을 지원하며, 홍보, 저작권 관리, 프로모션, 수익 창출 및 마케팅 업무를 수행한다. [수행<b>직무<\/b>] 공모, 이벤트 등을 통해 신규 창작자를 선발하거나 유망한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"등산강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026216&cid=42117&categoryId=42117",
+			"description":" 등산교육기관에서 산을 오르는 기술과 장비의 사용법, 등산안전 대책 등을 교육한다. [수행<b>직무<\/b>] 교육반을 편성하고 관리한다. 교육교재와 실습용 장비를 관리한다. 교육일정에 따라 일반등산이론(체온보전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔객실관리지배인",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024507&cid=42117&categoryId=42117",
+			"description":" 호텔 객실부의 운영을 계획·유지·관리하고, 객실정비 및 비품·집기 등을 관리·감독한다. [수행<b>직무<\/b>] 호텔 객실부의 연간 운영계획을 수립한다. 객실부의 서비스 상태를 유지·관리한다. 객실부의 효율적인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"웃음지도사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026214&cid=42117&categoryId=42117",
+			"description":" 일반인을 포함하여 환자들이 웃음을 통해 심신의 건강을 유지하고 병환에서 회복하도록 웃음 프로그램을 개발, 운영하고 교육한다. [수행<b>직무<\/b>] 취업, 회사 내 스트레스, 다양한 대인관계에서 오는 불안과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"운동시설관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024501&cid=42117&categoryId=42117",
+			"description":" 일반 대중의 체력단련과 특수운동의 기술연마를 위하여 제공되는 운동설비를 운영·유지·관리하는 업무를 총괄하고, 관련 종사원들의 활동을 감독·조정한다. [수행<b>직무<\/b>] 정구장, 수영장, 골프장, 탁구장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"호텔레비뉴매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024508&cid=42117&categoryId=42117",
+			"description":" 호텔, 리조트 등에서 수익을 극대화하기 위해 객실 및 서비스의 예약률을 예측하고 시장상황에 따라 가격과 예약률을 탄력적으로 운영한다. [수행<b>직무<\/b>] 고객의 정보(다양한 구매 시나리오, 과거 고객... ",
+			"thumbnail":""
+		},
+		{
+			"title":"체육학원강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832706&cid=42117&categoryId=42117",
+			"description":" 개인 또는 단체를 대상으로 건강유지 및 기분전환, 육체기능 강화, 힘의 증진 등을 위한 각종 운동 종목의 운동방법을 전문적으로 지도한다. [수행<b>직무<\/b>] 수강생의 능력 및 수준을 평가하고 이에 따라 등급을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마필관리사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3576665&cid=58886&categoryId=58886",
+			"description":"말을 이용한 <b>스포츠<\/b>는 ‘귀족 <b>스포츠<\/b>’로 분류된다. 말 산업은 일자리를 많이 창출하는 장점을 가지고 있다. 2012년 10월 미 상원의원 존 보나킥이 한 콘퍼런스에 참석해 “(현재 미국이 당면한) 일자리... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118170426605_JB9CF5FVL.jpg\/a01_61.jpg?type=m160_160"
+		},
+		{
+			"title":"로프강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026212&cid=42117&categoryId=42117",
+			"description":" 빌딩관리, 건설현장, 교량작업, 선박건조, 수목관리, 구조작업, 군, 경찰 등에서 로프를 사용하는 고소작업자에게 로프 관련 기술, 장비사용법 등을 교육한다. [수행<b>직무<\/b>] 교육교재, 실습교재 및 장비, 실습장을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연예인매니저",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832829&cid=42117&categoryId=42117",
+			"description":" 연예인의 이미지를 종합적으로 관리하고 연예인의 활동일정을 계획하며 조정한다. [수행<b>직무<\/b>] 연예인의 활동일정을 관리하고 출연작품 선정을 위해 연예인과 협의한다. 출연을 제의한 영화사, 방송국, 기업체... ",
+			"thumbnail":""
+		},
+		{
+			"title":"카지노관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024505&cid=42117&categoryId=42117",
+			"description":" 카지노의 운영 및 관리 업무를 총괄하고 종사원의 활동을 감독·조정한다. [수행<b>직무<\/b>] 카지노의 영업준칙를 준수하기 위하여 카지노종사원을 지도하고 업무를 감독·조정한다. 카지노 내 칩의 유통상태를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경주편성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026205&cid=42117&categoryId=42117",
+			"description":" 경륜 및 경정에 출주하는 선수를 선정하고 경주를 편성한다. [수행<b>직무<\/b>] 경륜 및 경정선수들의 기량 및 전법, 특성, 경기성적, 훈련 및 기존의 경주내용 등을 파악하여 분석한다. 경주운영관리 관련 프로그램을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"방송아나운서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025756&cid=42117&categoryId=42117",
+			"description":" 텔레비전, 라디오, 케이블 및 인터넷 방송 등을 통하여 뉴스, 공보 및 기타 고지사항을 전달하고 프로그램을 진행한다. [수행<b>직무<\/b>] 국내·외에서 발생한 모든 사건을 진행순서에 따라 보도한다. 취재기자를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수렵장작업원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029685&cid=42117&categoryId=42117",
+			"description":" 수렵을 위한 동물 및 조류를 번식·사육·방사하고 수렵활동을 보조한다. [수행<b>직무<\/b>] 수렵장에서 야생의 알을 수집하고 부화기를 사용하여 부화한다. 새장, 우리, 수렵장의 시설 및 장비를 수선하고 관리한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경륜주로심판원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026200&cid=42117&categoryId=42117",
+			"description":" 경륜 경주 시 경주 시작을 알리고 선수의 위반행위를 감시한다. [수행<b>직무<\/b>] 시합 전 경륜선수에게 유의사항을 전달하고 출발준비를 확인한다. 경륜종합심판원의 신호에 따라 출발기를 조작하여 경륜선수를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수렵장관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029684&cid=42117&categoryId=42117",
+			"description":" 꿩, 메추리, 멧돼지, 고라니 등의 수렵동물을 번식·사육·방사하는 수렵장을 관리한다. [수행<b>직무<\/b>] 수렵동물의 번식 및 사육관리 계획을 수립하고 이행한다. 먹이 및 사료 공급, 알의 수집 및 부화, 울타리 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경륜종합심판원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026199&cid=42117&categoryId=42117",
+			"description":" 결승선에 도착한 경륜선수의 도착시간을 측정하여 순위를 결정한다. [수행<b>직무<\/b>] 경주에 참가하는 경륜선수의 출전 여부를 확인하고 출발을 통보한다. 심판실에 설치되어 있는 모니터를 통해 경주 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"승용조랑말관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029660&cid=42117&categoryId=42117",
+			"description":" 유원지, 공원, 관광농원, 관광지 등에서 고객이 조랑말을 타는 것을 돕고 조랑말을 관리한다. [수행<b>직무<\/b>] 고객에게 조랑말을 타는 것을 권한다. 안전하게 조랑말을 타는 방법을 설명하고 고객이 타고 내리는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스마트섬유연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658705&cid=42117&categoryId=42117",
+			"description":" 패션, 헬스케어, 의료, <b>스포츠<\/b> 등 다양한 분야에서 사용되는 스마트섬유를 연구·개발한다. [수행<b>직무<\/b>] 섬유와 전자재료를 접목시켜 안정성을 확보하는 기술과 스마트섬유 회로설계기술, 스마트섬유와 IT기기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경마재결보조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024909&cid=42117&categoryId=42117",
+			"description":" 경마에 관련된 제반 업무를 수행하고 재결위원의 업무를 보조한다. [수행<b>직무<\/b>] 출마표와 착순심판통지에 의거하여 경주명, 날짜, 등위, 날씨, 거리, 경주기록, 기수명, 부담중량, 마체중량 등의 기록을 전산에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"피트보스",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5832672&cid=42117&categoryId=42117",
+			"description":" 카지노 영업장의 한 구역(피트)을 총괄하고 게임진행을 관장한다. [수행<b>직무<\/b>] 담당 피트(14개 이하의 게임테이블로 구성된 2~3개의 플로어) 내에서 이루어지는 모든 행위를 감독·지휘한다. 영업장 상황을... ",
+			"thumbnail":""
+		}
+	]
+}

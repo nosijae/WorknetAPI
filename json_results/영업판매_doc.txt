@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:46 +0900",
+	"total":7344,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>영업<\/b>사원 <b>판매<\/b>행동의 동기적 요인에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878339227",
+			"description":" <b>영업<\/b>사원의 <b>판매<\/b>성과는 기업 매출과 직결되기 때문에 이론적으로나 실무적으로 매우 중요한 변수이"
+		},
+		{
+			"title":"은행 방카슈랑스 <b>영업<\/b> 불완전<b>판매<\/b> 적발 : 사실과 다른 상품설명으로 소",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=154191720",
+			"description":"  목차\n은행 방카슈랑스 <b>영업<\/b> 불완전<b>판매<\/b> 적발 : 사실과 다른 상품설명으로 소비자 손해보거나 '꺾기'"
+		},
+		{
+			"title":"CRM 정보의 질, 적응적 <b>판매<\/b>행위 및 <b>영업<\/b>사원 성과 -고객관계의 질을 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594053095",
+			"description":"Information Quality of CRM, Adaptive Selling Behavior and Salesperson Performance: The Mediating Role of Quality of Customer Relationsh"
+		},
+		{
+			"title":"상품 <b>판매<\/b>를 위한 <b>영업<\/b>사원의 적응적 <b>판매<\/b> 행동과 지각된 조직적 지원이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56418037",
+			"description":"The Effects of Salesperson's Adaptive Selling Behavior and Perceived Organizational Support for Product Sale on Rapport 본 연구는 "
+		},
+		{
+			"title":"B2B산업에서 구매자의 커뮤니케이션 스타일이 <b>영업<\/b>사원의 <b>판매<\/b> 영향전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880517340",
+			"description":""
+		},
+		{
+			"title":"성공적인 가치기반<b>판매<\/b>를 위한 <b>영업<\/b>활동 프레임워크 구성과 <b>영업<\/b>활동 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765487805",
+			"description":"A Case Study on the Composition of the Sales Activity Framework and the Elements of Sales Activity for Successful Value-based Selling "
+		},
+		{
+			"title":"<b>영업<\/b>사원의 관계<b>판매<\/b>행동이 관계품질과 고객자산 구성요소에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=176757939",
+			"description":"The Effects of Salesperson Relationship Selling Behavior on Relationship Quality and Customer Equity Drivers 본 연구는 보험설계"
+		},
+		{
+			"title":"기업의 <b>영업<\/b> 전략이 <b>영업<\/b>사원의 가치기반<b>판매<\/b>와 성과에 미치는 영향: 의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=753255744",
+			"description":"The Influence of Corporate Sales Strategy on Value-Based Selling and Performance of Salesforce: Focused on the Medical Industry B2B 산"
+		},
+		{
+			"title":"리조트 MICE <b>영업<\/b>사원의 <b>판매<\/b>설득전술이 관계품질과 장기적 관계지향성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630771491",
+			"description":"The Effect of Sellers‘ Influence Tactics of Resort MICE Salesperson on Relationship Quality and Long-term Relationship Orientation "
+		},
+		{
+			"title":"통신시장의 <b>판매<\/b><b>영업<\/b> 관련 이론 및 규제 이슈.",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822118502",
+			"description":""
+		},
+		{
+			"title":"제조업체의 파워원천별 <b>영업<\/b>정책이 대리점의 <b>판매<\/b>의지에 미치는 영향에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=579076712",
+			"description":"A Study on the Impacts of Manufacture's Sales Policy of Each Power Source on Sales Will by Agency 본 연구는 제조업체의 파원"
+		},
+		{
+			"title":"화장품 방문<b>판매<\/b> 채널에서 방판조직의 <b>판매<\/b>관련 역량이 <b>영업<\/b>사원의 판",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880722330",
+			"description":""
+		},
+		{
+			"title":"리조트 MICE <b>영업<\/b>사원의 <b>판매<\/b>설득전술이 관계품질과 장기적 관계지향성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=690664055",
+			"description":""
+		},
+		{
+			"title":"성공적인 가치기반<b>판매<\/b>를 위한 <b>영업<\/b>활동 프레임워크 구성과 <b>영업<\/b>활동 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846417563",
+			"description":"A Case Study on the Composition of the Sales Activity Framework and the Elements of Sales Activity for Successful Value-based Selling "
+		},
+		{
+			"title":"제약유통채널에서 <b>영업<\/b>사원에 대한 통제가 <b>판매<\/b>지향적 <b>판매<\/b>와 고객지향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289079533",
+			"description":"Differential Effect of Control Mechanism Toward Salesperson on SOCO behaviors and Sales Performance in Pharmaceutical Distribution Chan"
+		},
+		{
+			"title":"제약유통채널에서 <b>영업<\/b>사원에 대한 통제가 <b>판매<\/b>지향적 <b>판매<\/b>와 고객지향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880311135",
+			"description":"Differential Effect of Control Mechanism Toward Salesperson on SOCO behaviors and Sales Performance in Pharmaceutical Distribution Chan"
+		},
+		{
+			"title":"리더십유형에 따른 조직구성원의 조직몰입과 자기효능감이 조직<b>영업<\/b>성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74805325",
+			"description":"(A)study of the effects on the relationship between the type of leadership and organizational commitment, self-efficacy, and sales perf"
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865559876",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842996638",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888161024",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891179986",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888357975",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886896112",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890885854",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891219752",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873440233",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874114730",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872854952",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888861359",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882374346",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882875951",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889921485",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=871369232",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889761144",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890526916",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881203667",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887662587",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881540482",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890655587",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887341984",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868807105",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886973779",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897105973",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874670994",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891362666",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=885030433",
+			"description":"A case study on the composition of the sales activity framework and the elements of sales activity for successful value-based selling  "
+		},
+		{
+			"title":"제약유통채널에서 <b>영업<\/b>사원에 대한 통제시스템이 고객지향적 <b>판매<\/b>와 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420891050",
+			"description":"The Effect of Salesperson Control System on Customer-oriented Selling Behaviors and Sales Performance in Pharmaceutical Distribution Ch"
+		},
+		{
+			"title":"통신시장의 <b>판매<\/b><b>영업<\/b> 관련 이론 및 규제 이슈",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=602394367",
+			"description":" 본 연구의 목표는 통신시장에서 그 간 체계적인 분석이 미비하였던 <b>판매<\/b><b>영업<\/b>(marketing)관련 유통조직, "
+		},
+		{
+			"title":"여성 방문<b>판매<\/b><b>영업<\/b>리더의 리더십유형이 직무만족, 직무몰입, <b>영업<\/b>성과",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79698425",
+			"description":" 아동전집류 방문<b>판매<\/b>시장의 특수성에 비추어 아동전집류 방문<b>판매<\/b><b>영업<\/b>리더의 리더십의 효과를 논할"
+		},
+		{
+			"title":"CRM 정보의 질, 적응적 <b>판매<\/b>행위 및 <b>영업<\/b>사원 성과 -고객관계의 질을 매개",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594053095",
+			"description":" 본 연구는 CRM 정보의 질과 적응적 <b>판매<\/b>행위가 <b>영업<\/b>사원의 성과에 미치는 영향력을 살펴보고자 하였"
+		},
+		{
+			"title":"리조트 MICE <b>영업<\/b>사원의 <b>판매<\/b>설득전술이 관계품질과 장기적 관계지향성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890148544",
+			"description":"The Effect of Sellers‘ Influence Tactics of Resort MICE Salesperson on Relationship Quality and Long-term Relationship Orientation "
+		},
+		{
+			"title":"은행의 대외<b>영업<\/b>과 방문<b>판매<\/b>법 적용에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291165694",
+			"description":"A Legal Analysis on Bank’s Business Activities Outside its Premises and its applicability of Door-to-Door Sales Act 고객이 예·"
+		},
+		{
+			"title":"기업의 <b>영업<\/b> 전략이 <b>영업<\/b>사원의 가치기반<b>판매<\/b>와 성과에 미치는 영향 : ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=761179441",
+			"description":"The Influence of Corporate Sales Strategy on Value-Based Selling and Performance of Salesforce : Focused on the Medical Industry B2B "
+		},
+		{
+			"title":"리조트 MICE <b>영업<\/b>사원의 <b>판매<\/b>설득전술이 관계품질과 장기적 관계지향성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630707263",
+			"description":"The Effect of Sellers‘ Influence Tactics of Resort MICE Salesperson on Relationship Quality and Long-term Relationship Orientation "
+		},
+		{
+			"title":"방문<b>판매<\/b> <b>영업<\/b>의 지역거점 구조 개선에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880144934",
+			"description":" 고객을 직접 만나 상담하는 방문<b>판매<\/b> <b>영업<\/b>에서는 잠재적인 매출이 일어날 수 있는 장소에 대한 정보"
+		},
+		{
+			"title":"성공적인 가치기반<b>판매<\/b>를 위한 <b>영업<\/b>활동 프레임워크 구성과 <b>영업<\/b>활동 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873416171",
+			"description":"A Case Study on the Composition of the Sales Activity Framework and the Elements of Sales Activity for Successful Value-based Selling "
+		},
+		{
+			"title":"방문<b>판매<\/b> <b>영업<\/b>의 지역거점 구조 개선에 관한 연구 : 공간통계기법을 이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=37749948",
+			"description":"Improving the Location of Door-to-Door Sales Service Branches -a Spatial Statistical Approach- 고객을 직접 만나 상담하는 방"
+		},
+		{
+			"title":"카드사 DCDS 불완전<b>판매<\/b> 등 <b>영업<\/b>관행 개선",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=190030593",
+			"description":"  목차\n카드사 DCDS 불완전<b>판매<\/b> 등 <b>영업<\/b>관행 개선 \/ 금융감독원 편 1\n 「제1차 국민체감 20대 금융관행 개"
+		},
+		{
+			"title":"산업재 유통경로에서 <b>영업<\/b>사원의 적응적 <b>판매<\/b>행동이 고객자산과 고객충",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=886738390",
+			"description":"A Study on the Effect of Salesperson's Adaptive Selling Behavior on Customer Equity and Customer Loyalty in the Distribution Channel of"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 <b>판매<\/b>-고객지향성(SOCO)이 적응<b>판매<\/b>와 성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879486285",
+			"description":""
+		},
+		{
+			"title":"거래적 리더 행동이 <b>영업<\/b>사원의 적응적 <b>판매<\/b>에 미치는 영향 : 전문적 통",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561912952",
+			"description":"The effect of transactional leader behavior on adaptive selling of salesperson : focused on the moderating effect of professional contr"
+		},
+		{
+			"title":"한국 가전제품 <b>영업<\/b>사원의 <b>판매<\/b>실패 귀인에 따른 <b>판매<\/b>성과의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77189517",
+			"description":"The Influence of Sales Failure Attribution on Sales Performance of Home Appliance Salespeople in Korea 본 연구의 목적은 국내 "
+		},
+		{
+			"title":"온라인 상품 <b>판매<\/b>를 위한 <b>영업<\/b>사원의 커뮤니케이션 스타일이 레포와 구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877224039",
+			"description":"基于网购背景下销售员沟通方式对融洽关系和顾客购买行为影响研究 1998年, 世纪互联通讯技术有限公"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 <b>판매<\/b>행동이 고객자산에 미치는 영향에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=498318679",
+			"description":""
+		},
+		{
+			"title":"지각된 조직 기억이 <b>영업<\/b>성과에 미치는 영향 : <b>영업<\/b>사원의 적응적 <b>판매<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561710462",
+			"description":"The Impact of Organizational Memory on Sales Performance : The mediating role of salesperson adaptive selling behavior 기업환경의 "
+		},
+		{
+			"title":"변혁적 및 거래적 리더십의 동기부여 효과에 대한 직무만족의 조절 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79512427",
+			"description":"  국문목차\n표제지=0,1,3\n목차=i,4,2\n표목차=iii,6,1\n그림 목차=iv,7,1\n제1장 서론=1,8,1\n 제1절 연구의 목적=1,8,3"
+		},
+		{
+			"title":"자동차 <b>영업<\/b>사원의 적응적 <b>판매<\/b>행위가 <b>영업<\/b>성과에 미치는 영향에 관한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=744267348",
+			"description":"   Statistical hypothesis testing, Path analysis (statistics), Multilevel model, Moderation, Marketing, Cronbach's alpha, Business "
+		},
+		{
+			"title":"제약유통채널에서 <b>영업<\/b>사원에 대한 통제시스템이 고객지향적 <b>판매<\/b>와 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873373258",
+			"description":"The Effect of Salesperson Control System on Customer-oriented Selling Behaviors and Sales Performance in Pharmaceutical Distribution Ch"
+		},
+		{
+			"title":"카드사의 <b>영업<\/b>레버리지 효과에 미치는 <b>판매<\/b>관리비의 영향력 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=647188064",
+			"description":"The Study on the Effect of General Sales Management Expenses on Degree of Operating Leverage in Korean Credit Card Firms 본 연구는 "
+		},
+		{
+			"title":"<b>영업<\/b>사원의 조직동일시가 고객지향적 <b>판매<\/b>에 미치는 영향: 고용형태의 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289684554",
+			"description":"The Effect of Sales People’s Organizational Identification on Customer-oriented Selling and Performance : Focused on Moderating Effec"
+		},
+		{
+			"title":"제약<b>영업<\/b>사원의 성격특성이 고객지향성과 <b>판매<\/b>지향성 그리고 장∙단기",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561518955",
+			"description":"Differential Effect of Salesperson’s Personality on Selling Orientation–Customer Orientation and Sales Performance:Focused on Pharm"
+		},
+		{
+			"title":"컨설턴트의 관계 <b>판매<\/b> 행동이 <b>영업<\/b> 성과 및 직무 만족에 미치는 영향에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=606847988",
+			"description":"A study on the effect of management consultants' relationship selling on their consultancy sales performance and job satisfaction : wit"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 적응적 <b>판매<\/b>능력과 고객만족 사이에서 일시적인 협력관계 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=178122635",
+			"description":"Research on the mediator role of temporary partnering between salespeople's adaptive selling ability and customer satisfaction 과거"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 적응적 <b>판매<\/b>능력과 고객만족 사이에서 일시적인 협력관계 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878838762",
+			"description":"Research on the mediator role of temporary partnering between salespeople&quot;s adaptive selling ability and customer satisfaction 과거"
+		},
+		{
+			"title":"<b>영업<\/b>성과에 대한 <b>영업<\/b>사원의 학습활동, 적응적 <b>판매<\/b>, 직무만족의 영향력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290871390",
+			"description":"The Impact of Salesperson Learning, Adaptive Selling Behaviors, and Job Satisfaction on Sales Performance <b>영업<\/b>사원의 효율적인 "
+		},
+		{
+			"title":"<b>판매<\/b> 및 <b>영업<\/b> 서비스직 종사자의 조직지원인식, 조직일체감 및 기회주의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561809663",
+			"description":"A Study on the Relationship between Salesperson's Perceived Organizational Support, Organizational Identification, and Opportunism This"
+		},
+		{
+			"title":"한국 가전제품 <b>영업<\/b>사원의 <b>판매<\/b>실패 귀인에 따른 <b>판매<\/b>성과의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=675609158",
+			"description":""
+		},
+		{
+			"title":"<b>판매<\/b> 및 <b>영업<\/b> 서비스직 종사자의 조직지원인식, 조직일체감 및 기회주의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877747227",
+			"description":"A Study on the Relationship between Salesperson’s Perceived Organizational Support, Organizational Identification, and Opportunism Th"
+		},
+		{
+			"title":"한국 가전제품 <b>영업<\/b>사원의 <b>판매<\/b>실패 귀인에 따른 <b>판매<\/b>성과의 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=878192373",
+			"description":"The Influence of Sales Failure Attribution on Sales Performance of Home Appliance Salespeople in Korea 본 연구의 목적은 국내 "
+		},
+		{
+			"title":"행복한 <b>영업<\/b>사원은 성과가 더 높은가? : 창의적 <b>판매<\/b>행동과 고객지향성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=291898745",
+			"description":"Do Happy Salespersons Show Higher Performance? : The Mediating Effect of Creative Selling Behavior and Customer Orientation <b>영업<\/b>사"
+		},
+		{
+			"title":"국내자동차<b>영업<\/b>사원의 <b>영업<\/b>역량이 <b>판매<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=296918709",
+			"description":" &lt;Abstract&gt;\n\nThe Effect of Korean Car Dealers' Sales Competency on Sales Performance\n\n-Moderating Effect of the Leader Trust-\n\nThis stu"
+		},
+		{
+			"title":"CRM 정보의 질, 적응력 <b>판매<\/b>행위 및 <b>영업<\/b>사원 성과 : 고객관계의 질을 매",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16393606",
+			"description":"Information Quality of CRM, Adaptive Selling Behavior and Salesperson Performance: The Mediating Role of Quality of the Customer Relati"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 고객지향적 <b>판매<\/b>와 적응적 <b>판매<\/b>가 기회주의에 미치는 차별",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=602302674",
+			"description":"  1. Introduction\n\n2. Background Theory &amp; Literature Review\n\n3. Conceptual Framework Hypothesis\n\n4. Sample Analysis &amp; Hypothesis Test\n\n"
+		},
+		{
+			"title":"청소년에 대한 주류<b>판매<\/b>와 <b>영업<\/b>허가의 취소",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845635512",
+			"description":""
+		},
+		{
+			"title":"청소년에 대한 주류<b>판매<\/b>와 <b>영업<\/b>허가의 취소",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=256481878",
+			"description":""
+		},
+		{
+			"title":"성공적인 가치 기반 <b>판매<\/b>를 위한 <b>영업<\/b> 활동 프레임워크 구성과 <b>영업<\/b> 활",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=825437508",
+			"description":" 가치 기반 <b>판매<\/b>는 기업 고객을 대상으로 상품과 서비스를 공급하는 <b>판매<\/b> 기업에게 <b>영업<\/b> 수행의 효율"
+		},
+		{
+			"title":"지각된 조직 기억이 <b>영업<\/b>성과에 미치는 영향 : <b>영업<\/b>사원의 적응적 <b>판매<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=761179332",
+			"description":"The Impact of Organizational Memory on Sales Performance : The mediating role of salesperson adaptive selling behavior 기업환경의 "
+		},
+		{
+			"title":"<b>영업<\/b>사원의 관계<b>판매<\/b>행동이 관계품질과 고객자산 구성요소에 미치는 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=715941474",
+			"description":"   Relationship equity, Psychology, Customer orientation, Business management, Business administration "
+		},
+		{
+			"title":"기업의 <b>판매<\/b>역량이 성과에 미치는 영향: <b>영업<\/b>사원의 기업에 대한 가치관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765737450",
+			"description":"The Effect of a Company's Sales Capacity on Performance:Focusing on the Value Congruence between the Salesperson and the Company and th"
+		},
+		{
+			"title":"기업의 <b>판매<\/b>역량이 성과에 미치는 영향: <b>영업<\/b>사원의 기업에 대한 가치관",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=880993769",
+			"description":"The Effect of a Company&quot;s Sales Capacity on Performance: Focusing on the Value Congruence between the Salesperson and the Company and t"
+		},
+		{
+			"title":"<b>영업<\/b>사원의 <b>판매<\/b>활동이 적응성 및 <b>영업<\/b>성과에 미치는 영향에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=182049431",
+			"description":" 치열한 비즈니스 경쟁환경에서 기업들은 과거와 같이 상품 및 서비스 만으로 경쟁우위를 유지하기가"
+		},
+		{
+			"title":"<b>판매<\/b>관리비 집중도와 <b>영업<\/b> 레버리지가 원가 비대칭성에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=879407923",
+			"description":"The Effect of Selling, General, and Administrative Intensity and Operating Leverage on Cost Asymmetry 본 연구는 한국거래소의 "
+		},
+		{
+			"title":"<b>영업<\/b>사원의 관계신념이 적응적 <b>판매<\/b> 및 <b>판매<\/b>성과에 미치는 영향 : 보험",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420770804",
+			"description":"The Impacts of Salesperson's Relationship Beliefs on Adaptive Selling and Sales Performance: Moderating Effect of Insurance Salesperson"
+		},
+		{
+			"title":"방문<b>판매<\/b> 거래선 담당 <b>영업<\/b>사원의 현장직무 교육프로그램 개발 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=127466253",
+			"description":" 이 연구는 교육공학 관점에서 화장품 방문<b>판매<\/b> 거래선을 담당하는 <b>영업<\/b>사원의 거래선 육성과 <b>영업<\/b>성"
+		},
+		{
+			"title":"상품 <b>판매<\/b>를 위한 <b>영업<\/b>사원의 적응적 <b>판매<\/b> 행동과 지각된 조직적 지원이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=749428880",
+			"description":""
+		},
+		{
+			"title":"관계<b>판매<\/b>행동 및 직무만족, 조직몰입이 <b>영업<\/b>사원의 순이익 및 생산성에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=638272057",
+			"description":"Effects of Relationship Sales Behavior, Job Satisfaction, and Organizational Commitment on Salesperson＇s Net Income and Productivity "
+		},
+		{
+			"title":"제조업체의 파워원천별 <b>영업<\/b>정책이 대리점의 <b>판매<\/b>의지에 미치는 영향에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=443654717",
+			"description":"A Study on the Impacts of Manufacture's Sales Policy of Each Power Source on Sales Will by Agency 본 연구는 제조업체의 파원"
+		},
+		{
+			"title":"통제유형이 적응적 <b>판매<\/b>행동과 <b>영업<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=79123562",
+			"description":"Effects of Control Types on Adaptive Selling Behavior and Sales Performance <b>영업<\/b>사원의 <b>영업<\/b>행동은 <b>영업<\/b>사원의 개인성"
+		},
+		{
+			"title":"제조업체의 파워원천별 <b>영업<\/b>정책이 대리점의 <b>판매<\/b>의지에 미치는 영향에",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594012764",
+			"description":" 본 연구는 제조업체의 파원원천에 나타난 <b>영업<\/b>정책을 이용하여 지역<b>판매<\/b> 대리점의 <b>판매<\/b>의지에 미치"
+		},
+		{
+			"title":"통제유형이 적응적 <b>판매<\/b>행동과 <b>영업<\/b>성과에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=845701012",
+			"description":"Effects of Control Types on Adaptive Selling Behavior and Sales Performance <b>영업<\/b>사원의 <b>영업<\/b>행동은 <b>영업<\/b>사원의 개인성"
+		}
+	]
+}

@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:08 +0900",
+	"total":9558,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>직무<\/b><b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=298624&cid=60362&categoryId=60362",
+			"description":"❍ 병역법 제33조의2(소양 및 <b>직무<\/b><b>교육<\/b> 등) ② 관계 중앙행정기관의 장은 제26조 제1항 제1호 및 제2호에 따른 공익근무요원에 대하여 담당<b>직무<\/b>를 효과적으로 수행할 수 있는 능력을 배양하는 데 필요한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b><b>교육<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383893&cid=42279&categoryId=42279",
+			"description":" <b>직무<\/b><b>교육<\/b>일지란 회사 내 <b>직무<\/b> <b>교육<\/b>의 내용을 일별로 기록한 서식이다.  기관이나 기업 또는 단체에서 직원들의 업무 능력 향상을 도모하고자 해당 업무 및 활동에 관한 <b>교육<\/b>을 일정 기간 진행하는데 이를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122325008_ULELW5S7M.jpg\/hb10_22862_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b><b>교육<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2777967&cid=51373&categoryId=51373",
+			"description":" <b>직무<\/b><b>교육<\/b> 내용을 작성하여 관리하는 일지.  <b>직무<\/b><b>교육<\/b>을 진행한 후 진행한 <b>교육<\/b> 내용을 작성하기 위해 사용되는 문서가 <b>직무<\/b><b>교육<\/b> 일지이다. 어떤 <b>교육<\/b>을 했는지 등의 사실을 증명하기 위하여 작성하여 보관되고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508185014950_2T3W111KI.jpg\/ba17_31495_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경비원<b>직무<\/b><b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3436906&cid=42279&categoryId=42279",
+			"description":" 경비원<b>직무<\/b><b>교육<\/b>이란 경비원을 대상으로 한 <b>직무<\/b><b>교육<\/b>에 대한 전반적인 내용을 기재한 문서이다.  조직의 자질 향상을 지향하고 그 조직에 속하는 멤버의 <b>교육<\/b> 필요성에 따라서 계획, 실천되는 <b>교육<\/b>을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_14\/20160902180317683_1NZ3OHY4K.jpg\/hb10_72698_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b><b>교육<\/b>일정표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2780250&cid=51373&categoryId=51373",
+			"description":" <b>직무<\/b><b>교육<\/b>의 일정을 확인할 수 있는 표 형식의 문서.  <b>직무<\/b><b>교육<\/b>은 회사의 직원에게 <b>직무<\/b>에 대한 <b>교육<\/b>을 함으로써 회사 업무 수행에 필요한 지식과 능력을 향상시켜 개인 역량을 강화하고 나아가 회사의 발전을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508200339620_5B2K9YZ3Y.jpg\/ba17_1417_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b><b>교육<\/b>일정표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047759&cid=42279&categoryId=42279",
+			"description":" 회사 내에서 실시하는 <b>직무<\/b> <b>교육<\/b>의 일정을 기록한 서식.  <b>직무<\/b><b>교육<\/b>은 조직의 자질향상을 지향하고 그 조직 구성원의 <b>교육<\/b> 필요성에 따라서 계획, 실천되는 <b>교육<\/b>이다. <b>직무<\/b><b>교육<\/b>일정표는 이러한 <b>교육<\/b>을 차질 없이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129002853470_KUHVL5Q7O.jpg\/hb10_11466_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"사내<b>직무<\/b><b>교육<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3382663&cid=42279&categoryId=42279",
+			"description":" 사내<b>직무<\/b><b>교육<\/b>일지란 회사 내 <b>직무<\/b> <b>교육<\/b>의 내용을 일별로 기록한 서식이다.  기관이나 기업 또는 단체에서 직원들의 업무 능력 향상을 도모하고자 해당 업무 및 활동에 관한 <b>교육<\/b>을 진행하고, 그 내용을 일별로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510120802840_SV13JQQ51.jpg\/hb10_21630_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"현장<b>직무<\/b><b>교육<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2049850&cid=42279&categoryId=42279",
+			"description":" 회사 내에서 실시하는 <b>직무<\/b> <b>교육<\/b>의 내용을 기록한 문서.  현장<b>직무<\/b><b>교육<\/b>일지는 직원들의 업무 능력 향상을 도모하고자 회사에서 실시하는 <b>교육<\/b>으로서, 이에 대한 내용을 일자별로 기록한 문서를... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129021346216_Y4PF2XBIB.jpg\/hb10_13570_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"사내<b>직무<\/b><b>교육<\/b>일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2777850&cid=51373&categoryId=51373",
+			"description":" 사내 <b>직무<\/b><b>교육<\/b> 내용을 작성하여 관리하는 일지.  사내 <b>직무<\/b><b>교육<\/b>을 진행한 후 진행한 <b>교육<\/b> 내용을 작성하기 위해 사용되는 문서가 사내 <b>직무<\/b><b>교육<\/b> 일지이다. 어떤 <b>교육<\/b>을 했는지 등의 사실을 증명하기 위하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508184630732_XYEHB85UT.jpg\/ba17_30908_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>향상 <b>교육<\/b>일정표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831242&cid=42279&categoryId=42279",
+			"description":" <b>직무<\/b>수행에 필요한 지식과 소양 <b>교육<\/b>을 행하기 위해 일정을 표로 짜 놓은 서식.  <b>직무<\/b><b>교육<\/b>은 조직의 자질향상을 지향하고 그 조직 구성원의 <b>교육<\/b> 필요성에 따라서 계획, 실천되는 <b>교육<\/b>이다. <b>직무<\/b>향상... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128210038879_64WL0C5U8.jpg\/hb10_3789_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b><b>교육<\/b> 수강신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2801015&cid=42279&categoryId=42279",
+			"description":" 산업안전보건법 시행규칙에 의한 <b>직무<\/b><b>교육<\/b> 수강신청서 행정서식.  산업안전보건법 시행규칙 [시행 2014. 3. 13.] [고용노동부령 제99호, 2014. 3. 12., 일부개정]에 의한 [서식 2] <b>직무<\/b><b>교육<\/b> 수강신청서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150605112733043_PB80O8UUT.jpg\/hb10_15413_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b><b>교육<\/b> 소집연기원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2801468&cid=42279&categoryId=42279",
+			"description":" 농어촌 등 보건의료를 위한 특별조치법 시행규칙에 의한 <b>직무<\/b><b>교육<\/b> 소집연기원 행정서식.  농어촌 등 보건의료를 위한 특별조치법 시행규칙 [시행 2013. 1. 23.] [보건복지부령 제176호, 2013. 1. 23.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150605114307112_7Y9V57XOG.jpg\/hb10_15866_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b><b>교육<\/b> 소집통지서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2801469&cid=42279&categoryId=42279",
+			"description":" 농어촌 등 보건의료를 위한 특별조치법 시행규칙에 의한 <b>직무<\/b><b>교육<\/b> 소집통지서 행정서식.  농어촌 등 보건의료를 위한 특별조치법 시행규칙 [시행 2013. 1. 23.] [보건복지부령 제176호, 2013. 1. 23.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150605114308298_QKA9QDQV5.jpg\/hb10_15867_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b><b>교육<\/b>위탁기관 신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2831549&cid=42279&categoryId=42279",
+			"description":" 산업안전보건법 시행규칙에 의한 <b>직무<\/b><b>교육<\/b>위탁기관 신청서 행정서식.  산업안전보건법 시행규칙 [시행 2014. 3. 13.] [고용노동부령 제99호, 2014. 3. 12., 일부개정]에 의한 [서식 9의7] <b>직무<\/b><b>교육<\/b>위탁기관... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723172033548_GTS2YMEMG.jpg\/hb10_17983_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b><b>교육<\/b> 위탁기관 등록증",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2832169&cid=42279&categoryId=42279",
+			"description":" 산업안전보건법 시행규칙에 의한 <b>직무<\/b><b>교육<\/b> 위탁기관 등록증 행정서식.  산업안전보건법 시행규칙 [시행 2014. 3. 13.] [고용노동부령 제99호, 2014. 3. 12., 일부개정]에 의한 [서식 9의8] <b>직무<\/b><b>교육<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_5\/20150723180844268_OB7UCQWXS.jpg\/hb10_18603_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b><b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=479631&cid=60408&categoryId=55558",
+			"description":"조직의 자질향상을 지향하고 그 조직에 속하는 멤버의 <b>교육<\/b>필요성에 따라서 계획, 실천되는 <b>교육<\/b>으로 내용은 조직에 따라 다르다. 새롭게 채용한 멤버가 하루라도 빨리 그 시설, 조직에 익숙해져서 <b>직무<\/b>를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>향상 <b>교육<\/b>일정표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2780595&cid=51373&categoryId=51373",
+			"description":" <b>직무<\/b>의 수행능력을 향상시키기 위한 <b>교육<\/b>일정을 표로 기재한 문서.  <b>직무<\/b>향상 <b>교육<\/b>은 직원의 능력을 개발하여 업무 수행에 필요한 지식과 능력을 향상함으로써 개인 역량을 강화하기 위해 시행된다. 이러한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_5\/20150508201455813_G1L2Z8XDE.jpg\/ba17_4638_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"보수<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=298593&cid=60362&categoryId=60362",
+			"description":"❍ 병역법 제33조의2(소양 및 <b>직무<\/b><b>교육<\/b> 등) ③ 제26조 제1항 제1호 및 제2호에 따른 공익근무요원이 정당한 사유 없이 복무를 이탈하거나 제33조 제1항 각 호의 어느 하나에 해당하는 경우 병무청장이 보수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직장<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=795561&cid=46615&categoryId=46615",
+			"description":"또한 훈련목적에 따라 승진훈련과 전직훈련으로 구분되며, 훈련내용은 <b>직무<\/b><b>교육<\/b>·교양<b>교육<\/b>·정신<b>교육<\/b>으로 나눌 수 있다. 훈련대상자가 그 기능을 가지고 있느냐의 여부에 따라 기초훈련(또는 양성훈련)과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사회<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=578972&cid=46615&categoryId=46615",
+			"description":" 국가가 학력을 인정하는 제도적 정규 <b>교육<\/b>기관 외에 사회에서 행해지는 조직적 <b>교육<\/b>활동. [개설] [사회<b>교육<\/b>의 정의] 사회<b>교육<\/b>의 정의는 구구할 뿐만 아니라 사회<b>교육<\/b>을 의미하는 용어들도 다양하다. 이에... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_17\/20190329215639047_LN8QEFV21.jpg\/837cb4af-afd9-4c.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>과정명세서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2177980&cid=51072&categoryId=51072",
+			"description":"일반적으로 <b>교육<\/b>체계의 구성요소는 경영이념, 비전, HRD 전략, 전체 및 계층<b>교육<\/b>과 <b>직무<\/b><b>교육<\/b>에 대한 <b>교육<\/b>체계도, 학습로드맵, <b>교육<\/b>과정명세서 등을 포함한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"환경보전<b>교육<\/b>센터 (시흥)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5757917&cid=63856&categoryId=63881",
+			"description":"[정의] 경기도 시흥시 하중동에 있는 (사)한국환경보전실천<b>교육<\/b>회의 부설 <b>교육<\/b>기관. [개설] 환경보전<b>교육<\/b>센터는 기존의 이론 <b>교육<\/b> 위주의 환경 <b>교육<\/b>, 생물 분류 형태의 환경 <b>교육<\/b>, 인간 중심적 환경 <b>교육<\/b>을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"사내<b>교육<\/b> <b>교육<\/b>성적표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1829731&cid=42279&categoryId=42279",
+			"description":"사내<b>교육<\/b>은 보통 그 회사의 직원으로서 최소한 갖추어야 할 소양에 관한 <b>교육<\/b>이 될 수도 있고, 소관 업무를 진행하는 데 필요한 <b>직무<\/b> <b>교육<\/b>이 될 수도 있다. 사내<b>교육<\/b> <b>교육<\/b>성적표는 추후 직원평가 및 각종... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128195928287_M1VMBVSNC.jpg\/hb10_2275_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"경상남도<b>교육<\/b>청 <b>교육<\/b>연수원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1202918&cid=40942&categoryId=38271",
+			"description":" 경상남도<b>교육<\/b>청 산하의 교직원 연수기관.  1987년 8월 설립이 승인되어 1988년 1월 경상남도<b>교육<\/b>연수원 설치 조례가 공포되고 7월에 개원했다. 2019년 3월 경상남도<b>교육<\/b>청 <b>교육<\/b>연수원으로 명칭을 변경하였다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"소양<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=298608&cid=60362&categoryId=60362",
+			"description":"❍ 병역법 제33조의2(소양 및 <b>직무<\/b><b>교육<\/b> 등) ① 병무청장 또는 지방병무청장은 제26조 제1항 제1호 및 제2호에 따른 사회복무요원에 대하여 공무수행자로서 갖추어야 할 정신자세 확립을 위한 소양<b>교육<\/b>을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직업<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=561949&cid=46615&categoryId=46615",
+			"description":" 취업을 목표로 당해 직업이 요구하는 지식과 기술 및 태도를 습득하기 위한 <b>교육<\/b>. [내용] 일반적으로... 학교<b>교육<\/b>, 사회<b>교육<\/b> 그리고 일의 현장을 통해서 능력을 개발하는 <b>교육<\/b>이라고 정의된다. 직업<b>교육<\/b>에 대한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_17\/20190329215716115_RXJCLRI4Y.jpg\/fd189509-f365-43.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>계획안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355951&cid=51373&categoryId=51373",
+			"description":"회사 근로자의 <b>직무<\/b><b>교육<\/b>이나 근로자 개인의 역량 향상을 위해 시행하는 <b>교육<\/b>훈련에 대한 정보를 기록하는 양식. 근로자는 <b>교육<\/b>기관에서 <b>교육<\/b>을 시행하거나 원거리 <b>교육<\/b>을 통해 회사의 발전에 기여하거나... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209155319017_Z53XQ5O88.jpg\/ba17_2410_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>평가지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3544713&cid=42279&categoryId=42279",
+			"description":"회사 차원의 <b>직무<\/b> <b>교육<\/b>이 될 수도 있고, 개인적인 차원에서 스스로 자기 능력을 개발하기 위해 받는 <b>교육<\/b>이 될 수도 있다. 회사는 이러한 <b>교육<\/b>훈련을 통해 사원의 자질과 능력을 개발하고 업무 수행에 필요한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_15\/20161228181755987_WQW5XXSMW.jpg\/hb10_78780_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828260&cid=42279&categoryId=42279",
+			"description":"회사 차원의 <b>직무<\/b> <b>교육<\/b>이 될 수도 있고, 개인적인 차원에서 스스로 자기 능력을 개발하기 위해 받는 <b>교육<\/b>이 될 수도 있다. 회사는 이러한 <b>교육<\/b>훈련을 통해 사원의 자질과 능력을 개발하고 업무수행에 필요한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_18\/20220722134339944_H1SK91NA4.png\/hb10_796_i1.png?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>계획안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828261&cid=42279&categoryId=42279",
+			"description":"회사 차원의 <b>직무<\/b> <b>교육<\/b>이 될 수도 있고, 개인적인 차원에서 스스로 자기 능력을 개발하기 위해 받는 <b>교육<\/b>이 될 수도 있다. 회사는 이러한 <b>교육<\/b>훈련을 통해 사원의 자질과 능력을 개발하고 업무수행에 필요한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128190117944_U03F49ZEB.jpg\/hb10_797_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>역량",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2178803&cid=51072&categoryId=51072",
+			"description":"들어 <b>직무<\/b>수행에 필요한 지식, 전문성, 특정한 스킬 등이 포함된다. <b>직무<\/b>역량은 <b>직무<\/b><b>교육<\/b>을 통하여 바람직한 수준으로까지 발전시킬 수 있으며, 이는 조직 내에서 실시되는 각종 <b>교육<\/b>훈련을 통하여 이루어진다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>학교수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025122&cid=42117&categoryId=42117",
+			"description":" 대학에서 초·중등교사 및 <b>교육<\/b>전문가를 양성할 목적으로 <b>교육<\/b>, 어학, 사회, 종교, 수학, 과학, 실업, 공학, 예체능 분야의 이론과 지식을 강의하고 관련 학문을 연구한다. [수행<b>직무<\/b>] 대학에서 대학생들을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>성적표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828267&cid=42279&categoryId=42279",
+			"description":"사내<b>교육<\/b>은 보통 그 회사의 직원으로서 최소한 갖추어야 할 소양에 관한 <b>교육<\/b>이 될 수도 있고, 소관 업무를 진행하는 데 필요한 <b>직무<\/b> <b>교육<\/b>이 될 수도 있다. 따라서 이러한 문서를 작성하여 누가 어떤 <b>교육<\/b>을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128190133015_Q5ZMZSV7B.jpg\/hb10_803_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"당뇨<b>교육<\/b>자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025475&cid=42117&categoryId=42117",
+			"description":" 당뇨병 고위험군(당뇨병 전단계) 또는 당뇨병을 진단받는 사람을 대상으로 질환에 대한 정보를 제공하고 효율적인 당뇨병 자가관리에 필요한 내용과 관리 목표, 그리고 <b>교육<\/b>프로그램을 구성하여 이를 통하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2378048&cid=50762&categoryId=51367",
+			"description":"감리교회의 교회법인 권리장정 제3편(조직과 행정법) 제2장(교회법) 제6절(개체교회 사역자) 27조, 28조, 29조에는 <b>교육<\/b>사의 자격, <b>교육<\/b>사의 임면, <b>교육<\/b>사의 <b>직무<\/b>가 규정되어 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b> 훈련",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=659484&cid=42152&categoryId=42152",
+			"description":"다시 말해서 <b>교육<\/b>훈련이란 공무원이 국민의 수임자(受任者)로서 행정의 목표를 보다 효과적으로 달성할 수 있도록 <b>직무<\/b>수행에 필요한 지식과 기술을 공무원에게 제공함과 아울러, 국민 전체의 봉사자로서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>훈련규칙",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2778840&cid=51373&categoryId=51373",
+			"description":"<b>교육<\/b>훈련은 <b>직무<\/b>를 수행하는 데 필요한 <b>교육<\/b>을 통해 조직 구성원들이 효율적인 업무를 수행하기 위한 훈련을 말한다. 업무 <b>교육<\/b>과 함께 구성원의 인격을 형성하고 지식과 교양을 갖추기 위한 <b>교육<\/b>도 포함된다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_2\/20150508191831088_KBVEZCOIA.jpg\/ba17_7451_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"ojt<b>교육<\/b>보고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355742&cid=51373&categoryId=51373",
+			"description":"OJT는 일반적으로 회사에 입사한 사원을 대상으로 회사방침이나 부서 소개, <b>직무<\/b><b>교육<\/b>, 회사 내 예절 등 업무에 대한 전반적인 <b>교육<\/b>이 진행된다. OJT를 통해 신입사원은 조직구성원으로서의 자세와 담당... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209154531963_W923RCGCA.jpg\/ba17_1258_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"안전보건<b>교육<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6469015&cid=43667&categoryId=43667",
+			"description":"실시하는 <b>교육<\/b>을 말한다. 사업주는 근로자를 채용하거나 작업내용을 변경할 때, 근로자를 유해하거나 위험한 작업에 채용하거나 그 작업으로 작업내용을 변경할 때 등의 상황에서 안전보건<b>교육<\/b>을 시행해야... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA3MDlfOTEg%2FMDAxNjI1ODA3MTA0NTk1.SQnmu6GNihBb1mrJUQczButFJCCp38btRKeZqawI-Z4g.AaFhwXWWFC1yZomp7PtIYKlRFt0HigcBseiD2K8Wx9Ug.JPEG%2FIFgEpiPbb-mX1W5yNhXg8jVrAhtk.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x359"
+		},
+		{
+			"title":"환경<b>교육<\/b>강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953573&cid=42117&categoryId=42117",
+			"description":" 환경오염 및 기후변화에 따른 변화와 일상생활에서의 실천 등을 이론과 사례, 체험 등을 통해 환경<b>교육<\/b>을 실시한다. [수행<b>직무<\/b>] 환경과 기후변화에 대한 올바른 지식과 일상생활에서의 환경보호에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>체계도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2177988&cid=51072&categoryId=51072",
+			"description":"그 이외에도 조직 내 각 직급별로 요구되는 역량을 세분화하여 보여주는 계층<b>교육<\/b>에 대한 체계도, 조직 내 각 부서의 <b>직무<\/b>별로 요구되는 특정 역량을 세분화하여 보여주는 <b>직무<\/b><b>교육<\/b> 체계도 등이 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"박물관<b>교육<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025387&cid=42117&categoryId=42117",
+			"description":" 다양한 박물관에서 관련 분야의 <b>교육<\/b>프로그램을 개발하고 운영한다. [수행<b>직무<\/b>] 미술, 무용, 음악, 과학, 동물, 민속, 고궁, 문화재, 역사, 만화, 영화, 국악 등 박물관의 분야에 따라 <b>교육<\/b>주제를 정한다. 해당... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경찰<b>교육<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1961082&cid=42149&categoryId=42149",
+			"description":"경찰<b>교육<\/b>원의 주요기능은 간부후보생과 초급간부반 필수기본<b>교육<\/b> 및 일선 현장에서 필요로 하는 <b>직무<\/b><b>교육<\/b>이다. 경찰간부후보생을 선발해 1년간 <b>교육<\/b>훈련 후 경위로 임용하는 중요한 과제를 담당하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>훈련계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828273&cid=42279&categoryId=42279",
+			"description":"<b>교육<\/b>의 종류는 그 목적에 따라 <b>직무<\/b> <b>교육<\/b>, 안전 <b>교육<\/b>, 전산 <b>교육<\/b>, 어학 <b>교육<\/b> 등이 있으며 이러한 <b>교육<\/b>은 사내에서 혹은 외부 <b>교육<\/b> 기관에서 받을 수 있다. 담당자는 이렇게 여러 가지 종류의 <b>교육<\/b> 계획을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128190145438_AEHKPHE3L.jpg\/hb10_809_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>훈련계획표",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828274&cid=42279&categoryId=42279",
+			"description":"<b>교육<\/b>의 종류는 그 목적에 따라 <b>직무<\/b> <b>교육<\/b>, 안전 <b>교육<\/b>, 전산 <b>교육<\/b>, 어학 <b>교육<\/b> 등이 있으며 이러한 <b>교육<\/b>은 사내에서 혹은 외부 <b>교육<\/b> 기관에서 받을 수 있다. 담당자는 이렇게 여러 가지 종류의 <b>교육<\/b> 계획을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128190147479_UIB1TUXRY.jpg\/hb10_810_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>내용소감문",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3381909&cid=42279&categoryId=42279",
+			"description":"그것은 회사 차원의 <b>직무<\/b> <b>교육<\/b>이 될 수도 있고, 개인적 차원에서 스스로 자기 능력을 개발하기 위해 받는 <b>교육<\/b>이 될 수도 있다. 회사는 이러한 <b>교육<\/b>훈련을 통해 사원의 자질과 능력을 개발하고 업무 수행 능력을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510115821941_C5W0GG4P8.jpg\/hb10_20875_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>계획보고서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3381908&cid=42279&categoryId=42279",
+			"description":"그러한 <b>교육<\/b>은 회사 차원의 <b>직무<\/b> <b>교육<\/b>이 될 수도 있고, 개인적 차원에서 스스로 자기 능력을 개발하기 위해 받는 <b>교육<\/b>이 될 수도 있다. 회사는 이러한 <b>교육<\/b>훈련을 통해 사원의 자질과 능력을 개발하고 업무 수행... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510115821458_2MUQTFCSY.jpg\/hb10_20874_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"직원<b>교육<\/b>계획안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2355888&cid=51373&categoryId=51373",
+			"description":"회사의 <b>직무<\/b><b>교육<\/b>이나 근로자 개인의 역량 향상을 위해 받게 되는 <b>교육<\/b> 훈련에 대한 정보를 기록하는 양식. 근로자는 <b>교육<\/b>을 통해 회사의 발전에 기여하거나 근로자 개인의 능력 향상을 도모할 수 있다. <b>교육<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209155101981_TT5R4QVR4.jpg\/ba17_2015_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"영업<b>교육<\/b>계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1925401&cid=42279&categoryId=42279",
+			"description":"회사는 직원들을 대상으로 한 <b>직무<\/b> <b>교육<\/b>을 통해 사원의 자질과 능력을 개발하고 업무수행에 필요한 지식과 능력을 향상시킬 수 있다. 영업<b>교육<\/b>계획서란 영업 관련 <b>교육<\/b>을 시행하기에 앞서 이에 대한 연간... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128215150474_DVTQVVSXY.jpg\/hb10_5742_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"증권<b>교육<\/b>담당원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024644&cid=42117&categoryId=42117",
+			"description":" 증권 및 선물옵션시장과 관련한 <b>교육<\/b>자료를 마련하고 <b>교육<\/b>을 실시한다. [수행<b>직무<\/b>] 증권 관련 기관의 임직원, 투자자 등 <b>교육<\/b>대상별로 별도의 강의안 및 교재를 작성한다. 증권 관련 기관의 임직원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"직원<b>교육<\/b>계획안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1831245&cid=42279&categoryId=42279",
+			"description":"회사 차원의 <b>직무<\/b> <b>교육<\/b>이 될 수도 있고, 개인적인 차원에서 스스로 자기 능력을 개발하기 위해 받는 <b>교육<\/b>이 될 수도 있다. 회사는 이러한 <b>교육<\/b>훈련을 통해 사원의 자질과 능력을 개발하고 업무수행에 필요한... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128210045124_KSJF8NFH1.jpg\/hb10_3792_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"교통안전<b>교육<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837729&cid=42117&categoryId=42117",
+			"description":" 교통안전 의식전환을 통한 선진 교통문화를 이룩하기 위하여 체계적이고 과학적인 <b>교육<\/b>을 시행한다. [수행<b>직무<\/b>] 교통안전<b>교육<\/b>의 기본계획을 수립하고 시행한다. 국민의 교통안전의식 함양을 위해 교통안전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"연간 <b>교육<\/b>계획안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2356254&cid=51373&categoryId=51373",
+			"description":"회사 근로자의 <b>직무<\/b><b>교육<\/b>이나 근로자 개인의 역량 향상을 위해 시행하는 <b>교육<\/b>훈련에 대한 정보를 기록하는 양식. 근로자는 <b>교육<\/b>기관에서 <b>교육<\/b>을 시행하거나 원거리 <b>교육<\/b>을 통해 회사의 발전에 기여하거나... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209160458341_8O0JZHLJJ.jpg\/ba17_4408_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"평생<b>교육<\/b>사",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%8F%89%EC%83%9D%EA%B5%90%EC%9C%A1%EC%82%AC",
+			"description":"그에 따라 평생<b>교육<\/b> 종사자 중 일정 자격 요건을 갖춘 전문 인력을 지징하는 명칭이 사회<b>교육<\/b>전문요원에서 평생<b>교육<\/b>사 로 바뀌었다., 평생<b>교육<\/b>사의 <b>직무<\/b> 평생<b>교육<\/b>사는 평생<b>교육<\/b>의 기획·진행·분석·평가 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"군사<b>교육<\/b>교관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1029735&cid=42117&categoryId=42117",
+			"description":" 대학에서 예비장교 후보생들의 군사훈련 및 생활지도, 자질<b>교육<\/b>을 담당한다. [수행<b>직무<\/b>] 대학에서 예비장교 후보생들을 대상으로 군사학 기초이론, 전쟁사, 지휘통솔 등 군사학 이론을 가르친다. 하계, 동계... ",
+			"thumbnail":""
+		},
+		{
+			"title":"미추홀구 지역 문화 예술 <b>교육<\/b> 지원 센터 (미추홀구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2623945&cid=51927&categoryId=53653",
+			"description":"[정의] 인천광역시 미추홀구에 개설된 문화 예술 <b>교육<\/b> 활성화 지원 기구. [개설] 문화 체육 관광부 및 한국 문화 예술 <b>교육<\/b> 진흥원이 기초 단위 ‘지역 문화 예술 <b>교육<\/b> 지원 센터’로 미추홀 학산 문화원을... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150315195023392_YMHI28B2R.jpg\/GC047P03003.jpg?type=m160_160"
+		},
+		{
+			"title":"미국의 <b>교육<\/b>",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AF%B8%EA%B5%AD%EC%9D%98_%EA%B5%90%EC%9C%A1",
+			"description":"예를 들면, 주는 공립학교제도의 수립과 유지, 공사립 학교에 관한 규칙의 제정, 교과과정·교직원·학교건축 등에 관한 최저기준의 설정, 지방학구의 설치·폐지, 지방<b>교육<\/b>구의 <b>직무<\/b>권한의 한계 등을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국노동<b>교육<\/b>원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1227303&cid=40942&categoryId=31705",
+			"description":"<b>교육<\/b>원은 노사관계 당사자와 공무원 및 그밖의 일반국민 등에 대한 노동<b>교육<\/b>, 노동행정에 종사하는 공무원 등 노동 관련업무 종사자에 대한 <b>직무<\/b><b>교육<\/b>, 노동<b>교육<\/b>사업을 행하는 자에 대한 지원 및 육성... ",
+			"thumbnail":""
+		},
+		{
+			"title":"교통안전<b>교육<\/b>강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025382&cid=42117&categoryId=42117",
+			"description":" 교통안전에 대해 강의하고 <b>교육<\/b>자료를 작성한다. [수행<b>직무<\/b>] 신규면허 취득자, 법규위반자, 교통사고 대상자를 대상으로 교통안전에 대해 <b>교육<\/b>한다. 교통안전 <b>교육<\/b>을 위한 자료를 제작한다. 외부기관에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"맹인적응<b>교육<\/b>교사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025344&cid=42117&categoryId=42117",
+			"description":" 맹인들의 생활적응과 사회복귀를 위하여 보행훈련, 일상생활훈련, 의사소통훈련, 감각훈련 등을 지도·<b>교육<\/b>한다. [수행<b>직무<\/b>] 맹인들의 안전과 독립을 위하여 실제 환경이나 꾸며진 이동환경을 통해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립특수<b>교육<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=525180&cid=46615&categoryId=46615",
+			"description":" 충청남도 아산시 배방읍 장재리에 있는 <b>교육<\/b>부 직속 특수<b>교육<\/b>기관. [내용] 1994년 5월 설립되었다. 소외 계층에 대한 복지 수혜를 확대시킴으로써 명실상부한 복지국가를 구현하려는 국가의 시책과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_5\/20170812090446161_V7O00APSM.jpg\/89e685c4-5d43-45.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>연수기관강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025381&cid=42117&categoryId=42117",
+			"description":" 각 소속기관으로부터 추천받은 연수대상자를 대상으로 각 과정을 <b>교육<\/b>한다. [수행<b>직무<\/b>] 각 소속기관별, 과정별 연수대상자를 대상으로 <b>교육<\/b>을 실시한다. 기본적인 항목별 설명을 비롯하여 각종 정책 및 시스템... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국고용노동<b>교육<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1201040&cid=40942&categoryId=34496",
+			"description":"고용노동부 직원의 <b>직무<\/b><b>교육<\/b>과 공무원·교원·공공기관 등의 공공부문 고용노동<b>교육<\/b>, 취약계층 <b>교육<\/b> 훈련을 수행하는 <b>교육<\/b>기관이다. 경기도 광주시 오포읍에 있다. 1989년 10월 24일 재단법인... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_149\/20181205023241799_4JXYA2L5H.jpg\/922505.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b> (제천)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2627794&cid=51893&categoryId=53809",
+			"description":"[정의] 충청북도 제천 지역에서 이루어지고 있는 인간으로서의 삶을 영위하는 데 필요한 것을 가르치고 배우는 모든 행위. [개설] 제천 지역의 경우 해방 이전에는 초등 <b>교육<\/b>이 겨우 보급되는 상황에서 일반... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150316023240800_K5CECM6ZP.jpg\/GC033P0509.jpg?type=m160_160"
+		},
+		{
+			"title":"가스안전<b>교육<\/b>사무원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024637&cid=42117&categoryId=42117",
+			"description":" 가스 관련 종사자들의 안전<b>교육<\/b>계획을 수립·추진하고, <b>교육<\/b>프로그램을 운영·관리하며, <b>교육<\/b>성과를 분석한다. [수행<b>직무<\/b>] <b>교육<\/b>수요를 조사하고 안전<b>교육<\/b>의 시행계획을 수립한다. 안전<b>교육<\/b>운영 기본지침을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"기업체<b>직무<\/b>훈련강사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658822&cid=42117&categoryId=42117",
+			"description":" <b>직무<\/b>능력 향상을 위하여 기업체 직원들을 대상으로 <b>교육<\/b>한다. [수행<b>직무<\/b>] 인사·조직, 생산 및 품질관리, 생산기술, 유통·물류, HRD·리더십 등 각 훈련과정에 따라 기업체 직원들을 대상으로 <b>교육<\/b>한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국고용노동<b>교육<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=645317&cid=43126&categoryId=43126",
+			"description":" 고용 · 노동 분야에서 전문적이고 체계적인 <b>교육<\/b>을 위해 설립된 <b>교육<\/b> 기관으로 고용노동부 산하의 공공기관.  한국고용노동<b>교육<\/b>원은 고용과 노동 분야에 대한 <b>교육<\/b>을 주력 사업으로 하는 <b>교육<\/b> 훈련... ",
+			"thumbnail":""
+		},
+		{
+			"title":"장애인정보화<b>교육<\/b>사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025345&cid=42117&categoryId=42117",
+			"description":" 시각장애인에게 워드사용법, 프로그램작성법 등 정보화 <b>교육<\/b>을 실시한다. [수행<b>직무<\/b>] 화면내용을 읽어주는 스크린리더, 센스리더(Sense Reader) 등과 모니터 화면의 글자를 확대해주는 줌텍스트의 사용법을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농촌<b>교육<\/b>농장운영자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837728&cid=42117&categoryId=42117",
+			"description":" 농업·농촌의 자원을 활용하여 학생들과 일반들에게 학습과 쉼을 제공하기 위하여 <b>교육<\/b>농장을 설계하고 각종 <b>교육<\/b>프로그램을 기획, 개발 및 운영한다. [수행<b>직무<\/b>] 농업·농촌의 자원을 활용하여 농촌<b>교육<\/b>... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>프로그램계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3381934&cid=42279&categoryId=42279",
+			"description":" <b>교육<\/b>프로그램계획서란 <b>교육<\/b> 프로그램에 대한 운영 계획을 작성한 문서이다.  <b>교육<\/b>프로그램 계획서란 향후 운영하고자 하는 <b>교육<\/b> 프로그램에 대한 구체적인 계획을 명시한 문서를 말한다. <b>교육<\/b>프로그램... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_18\/20220722140637365_IZKK0MPCJ.png\/hb10_20900_i1.png?type=m160_160"
+		},
+		{
+			"title":"우정공무원<b>교육<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9A%B0%EC%A0%95%EA%B3%B5%EB%AC%B4%EC%9B%90%EA%B5%90%EC%9C%A1%EC%9B%90",
+			"description":"<b>직무<\/b> <b>교육<\/b>훈련에 관한 계획의 수립 <b>교육<\/b>훈련수요의 조사 및 <b>교육<\/b>훈련제도의 연구 <b>교육<\/b>훈련과정과 교과편성 및 교수요목의 제정 <b>교육<\/b>생의 <b>교육<\/b>훈련성적평가 및 <b>교육<\/b>훈련성과의 분석... ",
+			"thumbnail":""
+		},
+		{
+			"title":"정신과행정\/<b>교육<\/b>학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117524&cid=44416&categoryId=44416",
+			"description":"개념 및 정의] 정신과행정\/<b>교육<\/b>학(精神科行政\/敎育學, mental administration\/pedagogy)은 정신보건법이... 대한 <b>교육<\/b>적 영향 등을 다루는 학문이다. 각 나라의 정신보건법에 포함되는 내용은 그 나라의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140707132047609_PIV49O9GI.jpg\/z8_term161_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"고객서비스<b>교육<\/b>담당원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025379&cid=42117&categoryId=42117",
+			"description":" CS(Customer Satisfaction) 의식을 강화하기 위해 고객응대기법, 창구섭외기법, 고객관리기법, 환경개선 <b>교육<\/b>을 한다. [수행<b>직무<\/b>] 고객만족도 조사를 실시하여 여수신 고객에 대한 평가, 서비스 실태에 대한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"충청남도 공무원<b>교육<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84_%EA%B3%B5%EB%AC%B4%EC%9B%90%EA%B5%90%EC%9C%A1%EC%9B%90",
+			"description":"충청남도공무원<b>교육<\/b>원 (忠淸南道公務員敎育院)은 충청남도청 소속 공무원의 <b>교육<\/b>훈련과 <b>직무<\/b><b>교육<\/b>을 위하여 충청남도청 산하에 설치된 직속기관이다. <b>교육<\/b>원장은 지방부이사관으로 보한다. 연혁 1963년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"진도의 평생<b>교육<\/b> (진도)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2630714&cid=51952&categoryId=55342",
+			"description":"대신에 실업계 고등학교가 1개교 있으며, 행정기관과 협동조합, 사회단체 등에서 평생<b>교육<\/b>의 일환으로 직업능력의 향상 또는 강화를 위한 일련의 <b>직무<\/b><b>교육<\/b>을 실시하고 있다. [현황] 제도권의 평생<b>교육<\/b> 관련... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국제<b>직무<\/b>교환기구",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EC%A0%9C%EC%A7%81%EB%AC%B4%EA%B5%90%ED%99%98%EA%B8%B0%EA%B5%AC",
+			"description":"주요 활동 세계를 통한 인재 공유, 인재 개발 및 창조적 <b>교육<\/b> 글로벌 <b>직무<\/b> 교환을 위한 기타 온라인 사업 <b>교육<\/b> 사각지대 퇴치 멤버십 모든 정회원은 기구에서 동등한 권리와 의무를 가진다. 한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경기도평화<b>교육<\/b>연수원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EA%B8%B0%EB%8F%84%ED%8F%89%ED%99%94%EA%B5%90%EC%9C%A1%EC%97%B0%EC%88%98%EC%9B%90",
+			"description":"경기도평화<b>교육<\/b>연수원 (京畿道平和敎育硏修院)은 경기도<b>교육<\/b>청 소속 교직원의 국가관·교직관의 확립 및 자질을 기르고, 치유와 회복을 통한 <b>교육<\/b>과 <b>직무<\/b>능력의 향상을 위하여 경기도<b>교육<\/b>청 산하에 설치된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"경상북도지방공무원<b>교육<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%EC%A7%80%EB%B0%A9%EA%B3%B5%EB%AC%B4%EC%9B%90%EA%B5%90%EC%9C%A1%EC%9B%90",
+			"description":"경상북도지방공무원<b>교육<\/b>원 (慶尙北道地方公務員敎育院, Gyeongbuk Officals Training Institute )은 경상북도청 소속의 지방공무원의 <b>교육<\/b>훈련과 <b>직무<\/b><b>교육<\/b>을 위해 경상북도청 산하에 설치된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전라남도 지방공무원<b>교육<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84_%EC%A7%80%EB%B0%A9%EA%B3%B5%EB%AC%B4%EC%9B%90%EA%B5%90%EC%9C%A1%EC%9B%90",
+			"description":"전라남도 지방공무원<b>교육<\/b>원 (全羅南道 地方公務員敎育院, Jeollanam-do Local Offical Traning Institute )은 전라남도청 소속 공무원의 <b>교육<\/b>훈련과 <b>직무<\/b><b>교육<\/b> 사무를 관장하기 위하여 전라남도청 산하에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"공무원<b>교육<\/b>원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=523511&cid=46615&categoryId=46615",
+			"description":" 공무원에게 <b>직무<\/b>를 효과적으로 수행할 수 있는 능력과 기능을 배양할 목적으로 <b>교육<\/b>훈련을 실시하는 기관. [내용] 1973년 3월에 공포된 「공무원<b>교육<\/b>훈련법」(1995년 4차 개정, 법률제4871호)에 의거하여... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_1\/20190629022012764_6WDC7MVLL.jpg\/10d99f52-ad7a-43.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>연구관",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025135&cid=42117&categoryId=42117",
+			"description":" <b>교육<\/b>연구기관, 시청각<b>교육<\/b>원 등에서 학교<b>교육<\/b>의 문제점을 조사·연구하고, <b>교육<\/b>연구사의 활동을 지도·감독한다. [수행<b>직무<\/b>] <b>교육<\/b>연구사의 <b>교육<\/b>연구 활동을 조직하고 운영·관리한다. 현장<b>교육<\/b>의 문제점을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>분석",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5676503&cid=62841&categoryId=62841",
+			"description":"이후 1980년대 노동부에서 직업훈련연구소, 중앙직업훈련원, 한국검정공단, 한국경영자총연합회 등의 직원을 대상으로 <b>직무<\/b>분석<b>교육<\/b>을 실시하여 총 12명의 <b>직무<\/b>분석전문가를 배출하였다. 이후 1981~1997년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>소개서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3383894&cid=42279&categoryId=42279",
+			"description":" <b>직무<\/b>소개서란 자신이 맡은 일을 소개하기 위한 문서이다.  <b>직무<\/b>란 직책이나 직업상에서 책임을 지고 담당하여 맡은 사무로, 직급에 따라 부여되는 일을 의미한다. <b>직무<\/b>소개서는 이러한 <b>직무<\/b>에 대해 소개하는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_6\/20160510122325044_Y437XQNCE.jpg\/hb10_22863_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>공무원법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1065545&cid=40942&categoryId=31702",
+			"description":" <b>교육<\/b>을 통해 국민 전체에 봉사하는 <b>교육<\/b>공무원의 <b>직무<\/b>와 책임의 특수성에 비추어 그 자격·임용·보수·연수 및 신분보장 등에 관해 <b>교육<\/b>공무원에 적용할 국가공무원법 및 지방공무원법에 대한 특례를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"전라북도 <b>교육<\/b>연수원 (익산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6198119&cid=67842&categoryId=67867",
+			"description":"[설립 목적] 전라북도 지역 교원 연수와 재<b>교육<\/b>을 담당하며, <b>직무<\/b> 연수 및 원격 연수 등 교원의 재<b>교육<\/b> 기능을 수행하기 위하여 설립되었다. [변천] 1985년 설립을 승인받아 1986년 전라북도 교원연수원 설치... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>훈련일지",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2356540&cid=51373&categoryId=51373",
+			"description":"조직의 효율적인 목표 달성을 위해 조직구성원들의 <b>직무<\/b> 수행 능력이 향상되어야 한다. <b>교육<\/b>훈련은 <b>직무<\/b> 수행에 도움을 줄 수 있는 필요 지식과 기술을 습득하기 위해 시행하고 있다. 지식이나 기술뿐만이... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209161533609_CL1DAF0IX.jpg\/ba17_7684_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>교육<\/b>훈련일보",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2356802&cid=51373&categoryId=51373",
+			"description":"<b>교육<\/b>훈련이란 업무를 수행하는데 갖춰야 할 <b>직무<\/b>능력을 향상시킬 수 있는 지식과 기술을 습득하는 것이다. 구성원의 업무 <b>교육<\/b>을 통해 성과를 높이고 회사 발전을 위해 실시하고 있다. <b>교육<\/b>참여자는 <b>교육<\/b>... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3703_000_1\/20141209162537466_LDDLOWJ07.jpg\/ba17_12355_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>직무<\/b>명세서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1594679&cid=50304&categoryId=50304",
+			"description":"<b>직무<\/b>명세서<b>교육<\/b>학용어사전 <b>직무<\/b>분석을 통해서 얻어진 구체적인 <b>직무<\/b>내용을 밝혀둔 문서. 예컨대 ① <b>직무<\/b>내용, ② 노동부담, ③ 노동환경, ④ 위험도, ⑤ <b>직무<\/b>조건, ⑥ 결과책임, ⑦ 지도책임, ⑧... ",
+			"thumbnail":""
+		},
+		{
+			"title":"울산대학교 평생<b>교육<\/b>원 (울산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5784684&cid=64862&categoryId=65055",
+			"description":"[정의] 울산광역시 남구 무거동에 있는 울산대학교의 평생 <b>교육<\/b> 기관. [설립 목적] 울산대학교 평생<b>교육<\/b>원은 대학의 평생 <b>교육<\/b> 기능을 확대하고, 지역 사회의 다양한 평생 <b>교육<\/b> 프로그램을 개발하며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>명세서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2178793&cid=51072&categoryId=51072",
+			"description":"여기에는 <b>교육<\/b>수준, <b>직무<\/b>경험 등이 포함되며 주로 모집과 선발에 활용된다. <b>직무<\/b>수행을 위하여 개인이 갖추어야 할 인적요건에 중점을 둔다는 관점에서 <b>직무<\/b>기술서와 차이가 있다.",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>평가",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1594680&cid=50304&categoryId=50304",
+			"description":"<b>직무<\/b>평가사회복지학사전 <b>직무<\/b>평가란 직위분류제의 수립과정에서, 책임도·곤란도 등 직위의 상대적 가치 또는 비중을 기준으로 하여 직위의 등급을 결정하는 것을 말한다. 한편 <b>직무<\/b>분석이란 직위를 <b>직무<\/b>의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"조달<b>교육<\/b>원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A1%B0%EB%8B%AC%EA%B5%90%EC%9C%A1%EC%9B%90",
+			"description":"<b>직무<\/b> 조달<b>교육<\/b>훈련계획의 수립 및 시행 소속 공무원에 대한 <b>교육<\/b> 조달 수요기관 및 민간업체의 조달 또는 납품업무 종사자에 대한 조달<b>교육<\/b> 조달청 계약관 및 원가분석관 자격에 관한 사항 연혁... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>간 훈련",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%A7%81%EB%AC%B4%EA%B0%84_%ED%9B%88%EB%A0%A8",
+			"description":"업무 및 산업현장 또는 기업<b>교육<\/b>등에서 <b>직무<\/b>간 훈련 ( 영어: On the Job Training , 직장내 훈련, 현장 훈련)은 <b>직무<\/b> 중에 이루어지는 <b>교육<\/b>훈련이다. 현업에서는 흔히 OJT 라고 줄여 부른다. <b>직무<\/b> 이외의 시간 또는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>훈련신청서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1828276&cid=42279&categoryId=42279",
+			"description":"<b>교육<\/b>훈련이란 <b>직무<\/b>분석을 통해 나온 결과를 토대로 과학적이고 합리적인 방법으로 신입사원 및 기존 근로자의 자질과 능력을 개발하고 향상시키는 <b>교육<\/b>과정을 말한다. <b>교육<\/b>훈련을 함으로써 근로자의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150128190154545_HN878I4KF.jpg\/hb10_812_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"국가민방위 재난안전<b>교육<\/b>원 (천안)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2571079&cid=51930&categoryId=54185",
+			"description":"[정의] 충청남도 천안시 동남구 유량동에 있는 국민안전처 소속 <b>교육<\/b> 훈련 기관. [개설] 국가민방위 재난안전<b>교육<\/b>원은 국민안전처 소속 기관으로 민방위와 방재 분야의 공무원과 민간 전문 인력을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627209&cid=42117&categoryId=42117",
+			"description":" 시·도<b>교육<\/b>청 소속 지역 <b>교육<\/b>지원청의 소속 각급 학교(유치원, 초등학교, 중학교 등)의 <b>교육<\/b> 및 학습활동에 관한 사무를 관장한다. [수행<b>직무<\/b>] 관할 <b>교육<\/b>지원청에 배정된 <b>교육<\/b>비 특별회계의 범위 내에서 예산을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>교육<\/b>장",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024355&cid=42117&categoryId=42117",
+			"description":" 시·도<b>교육<\/b>청 소속 지역<b>교육<\/b>청의 소속 각급 학교(유치원, 초등학교, 중학교 등)의 <b>교육<\/b> 및 학습활동에 관한 사무를 관장한다. [수행<b>직무<\/b>] 관할 <b>교육<\/b>청에 배정된 <b>교육<\/b>비 특별회계의 범위 내에서 예산을 관리... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>직무<\/b>연수계획서",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2047774&cid=42279&categoryId=42279",
+			"description":"<b>직무<\/b>연수의 목적에는 해당 <b>직무<\/b>에 대하여 <b>교육<\/b>을 통해 <b>직무<\/b>에 대해서 숙지하고, <b>직무<\/b>의 특징을 학습하도록 하는 데 있다. 또 <b>직무<\/b>에 필요한 지식과 기술 등에 대한 정보를 확보하도록 하는 것도 <b>직무<\/b>연수의... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2453_000_1\/20150129002916975_8VWDPOCZB.jpg\/hb10_11482_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"인천 KCEM 보육 교사 <b>교육<\/b>원 (미추홀구)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2624130&cid=51927&categoryId=53654",
+			"description":"[정의] 인천광역시 미추홀구에 있는 보육 전문가를 양성하기 위한 평생 <b>교육<\/b> 기관. [설립 목적] 현대 사회는 산업화, 도시화 등의 급격한 변화에 따라 여성의 사회 활동이 증대되어 여성의 취업률도... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_1\/20150315183939955_2A2ZLXZ9R.jpg\/GC047P01858.jpg?type=m160_160"
+		},
+		{
+			"title":"공무원<b>교육<\/b>훈련법",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1203521&cid=40942&categoryId=31713",
+			"description":"공무원의 <b>교육<\/b>훈련과 <b>직무<\/b>분야별 전문 <b>교육<\/b>훈련의 실시를 위하여 관계 중앙 행정기관의 장 소속하에 전문 <b>교육<\/b>훈련 기관을 설치할 수 있다. 중앙 행정기관의 장 및 공무원 <b>교육<\/b>훈련 기관의 장은 자체... ",
+			"thumbnail":""
+		}
+	]
+}

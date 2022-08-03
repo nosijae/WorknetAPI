@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:33:38 +0900",
+	"total":14018901,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"[#금융톡톡] KB국민은행, KB골든라이프센터 잠실·종로·분당센터 오픈·하나...",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604432",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=604432",
+			"description":"하나금융그룹은 ESG보고서를 통해 <b>환경<\/b>(Environmental), 사회(Social), 지배구조(Governance) 중심의 지속가능경영... 확대 ▲친<b>환경<\/b> 투자확대를 위한 KAIST와 인공광합성 협약체결 등을 주요 ESG활동으로 소개했다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"ECO NFT, 한국애니메이션예술인협회와 업무 협약",
+			"originallink":"http:\/\/www.tgdaily.co.kr\/news\/articleView.html?idxno=318372",
+			"link":"http:\/\/www.tgdaily.co.kr\/news\/articleView.html?idxno=318372",
+			"description":"다양한 <b>환경<\/b>보호산업에 투자하는 신개념 NFT 플랫폼이다. 최근 국내 인기 캐릭터인 '테테루'를 시작으로... 소개하고, <b>환경<\/b>보호와 관련된 대회 개최와 작가들의 NFT 교육도 추진하겠다&quot;고 밝혔다. [더게임스데일리 ]",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"&quot;한여름 밤, 모험의 세계로&quot; 내장산 문화광장 야간 경관조명 연출",
+			"originallink":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=846011",
+			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=846011",
+			"description":"시는 유등 전시 기간 안전한 관람 <b>환경<\/b>을 조성하기 위해 상시 안전요원을 현장에 배치하는 등 안전사고 예방에 총력을 다할 예정이다. 이학수 시장은 &quot;여름방학과 휴가철을 맞아 새로운 볼거리 제공을 위해 다양한... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"퍼블리시-람다256,파트너십 체결…웹 3.0 뉴스 생태계 활성화 협력",
+			"originallink":"http:\/\/www.betanews.net:8080\/article\/1349454.html",
+			"link":"http:\/\/www.betanews.net:8080\/article\/1349454.html",
+			"description":"퍼블리시 권성민 대표는 “현재 진행 중인 Web 3.0 <b>환경<\/b>은 인터넷 미디어와 콘텐츠, 커머스 등 전 영역에 탈중앙화라는 새로운 패러다임과 수익구조를 도모할 수 있게 될 것”이라며, “람다256과의 파트너십을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"&quot;울릉도 해야 할 일 많다&quot; 남기고 …이준석 국민의 힘 대표 울릉도 떠났다",
+			"originallink":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=935173",
+			"link":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=935173",
+			"description":"울릉도 먹는 물 사업에도 관심을 보이고 &quot;제주도 삼다수 처럼 개발하면 울릉군에 재정적으로 도움일 될 것&quot;이라며 &quot;규제 철폐 등 <b>환경<\/b>부가 전향적으로 판단했으면 좋겠다&quot;고 글을 올렸다. 이 대표는 지난 25일 오전... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"포스코, 동반성장 프로그램을 통해 벤처생태계 조성에 앞장",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016435",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016435",
+			"description":"인한 <b>환경<\/b>오염 문제를 접할 때마다 철강 기술과 접목해 해결하는 방법을 고민했고, 슬래그 기술 개발과 강건... 플라스틱과 슬래그를 주원료로 하는 친<b>환경<\/b> 복합 소재인 슬래스틱(Slastic, slag+폐 plastic)을 비롯해 슬래그를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"제주도, 아동친화도시 조성에 4236억원 투입",
+			"originallink":"http:\/\/www.jejuilbo.net\/news\/articleView.html?idxno=187845",
+			"link":"http:\/\/www.jejuilbo.net\/news\/articleView.html?idxno=187845",
+			"description":"또 안전과 보호 영역에는 408억원, 주거(가정) <b>환경<\/b> 분야에는 328억원, 교육<b>환경<\/b> 분야에는 112억원, 놀이와 여가 분야에는 41억원, 참여와 시민의식 분야에는 12억원이 편성됐다. 제주도는 매년 7월마다 아동친화예산서를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"[유통경제 이슈] 휠라(FILA), 해양 보호 의미 담은 '비치코밍 컬렉션’ 출시 ...",
+			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202207271828016095204ead0791_12",
+			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202207271828016095204ead0791_12",
+			"description":"레저와 함께 <b>환경<\/b>보호에도 앞장서는 MZ세대들의 새로운 취미인 '비치코밍'이 신선한 바람을 일으키고 있기... 휠라 관계자는 &quot;본격적인 바캉스 시즌을 맞아 MZ세대 사이 <b>환경<\/b>을 위한 지속 가능 활동으로 떠오른... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"野 “尹 ‘대통령 처음’ 표현 부적절”… 韓 총리 “盧도 못 해먹겠다 발언”",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20220727500215&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003290518?sid=100",
+			"description":"이에 한 총리는 “제가 모셨던 노무현 대통령님께서도 국회에서 본인이 생각하는 정책들이 잘 진척되지 않는 <b>환경<\/b>이 되니 ‘정말 못 해먹겠다’ 이런 말씀도 한 적이 있는 것으로 안다”고 응수했다. 앞서 윤 대통령은... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"LG화학, 2Q 영업이익 8785억원…전년比 59%↓",
+			"originallink":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=58324",
+			"link":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=58324",
+			"description":"환율 <b>환경<\/b> 등으로 수익성도 개선됐다. 생명과학 부문은 매출 2217억 원, 영업이익 242억 원을 기록했다.... 경영 <b>환경<\/b>이 지속됐지만, 차별화된 제품 포트폴리오 기반의 석유화학 사업과 큰 폭의 매출 성장, 수익성이... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"후오비코리아, 국제 표준 정보보호 인증·개인정보보호인증 획득",
+			"originallink":"http:\/\/www.coindeskkorea.com\/news\/articleView.html?idxno=80570",
+			"link":"http:\/\/www.coindeskkorea.com\/news\/articleView.html?idxno=80570",
+			"description":"최준용 후오비코리아 대표는 &quot;가상자산 투자자의 개인정보 보호, 글로벌 비즈니스 <b>환경<\/b>에서도 신뢰성 있는 플랫폼으로 거듭날 수 있도록 최선을 다할 것&quot;이라고 말했다. 인증, 후오비코리아",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"[주하영 365칼럼] 관계와 단절, 정체성을 향한 질문...연극 '카사노바'",
+			"originallink":"http:\/\/www.interview365.com\/news\/articleView.html?idxno=102923",
+			"link":"http:\/\/www.interview365.com\/news\/articleView.html?idxno=102923",
+			"description":"\/사진=국립정동극장 서스펙트 컬쳐의 연출을 맡아 온 이토는 현대인의 삶을 구성하는 외면과 내면의 갈등과 대립, 현대인들이 성취하기를 원하는 것과 실제 성취가 가능한 것, 반면에 주변 혹은 <b>환경<\/b>의 억압으로 인해... ",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"[정기인사] 서귀포시, 4급 및 6급 이하 직급별 승진대상 인원 공개",
+			"originallink":"http:\/\/www.headlinejeju.co.kr\/news\/articleView.html?idxno=492664",
+			"link":"http:\/\/www.headlinejeju.co.kr\/news\/articleView.html?idxno=492664",
+			"description":"1명(3명) △농업(일반농업) 1명(4명) △농업(축산) 1명(2명) △녹지 1명(1명) △해양수산 3명(4명) △보건 2명(6명) △<b>환경<\/b> 3명(8명) △시설(토목) 4명(6명) △시설(건축) 3명(8명) △운전 1명(2명). &lt;헤드라인제주&gt;",
+			"pubDate":"Wed, 27 Jul 2022 18:32:00 +0900"
+		},
+		{
+			"title":"정성우 의무원장, 병협 인천시병원회장 취임",
+			"originallink":"http:\/\/www.bosa.co.kr\/news\/articleView.html?idxno=2178168",
+			"link":"http:\/\/www.bosa.co.kr\/news\/articleView.html?idxno=2178168",
+			"description":"정성우 신임 대한병원협회 인천시병원회장은 &quot;막중한 소임을 다하기 위해 '상생'이라는 단어로 다같이 발전하는 병원회를 만들겠다&quot;며 &quot;의료 <b>환경<\/b>에서 시대정신과 패러다임의 변화에 따른 정책 및 합리적인 대응 방안을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:30:00 +0900"
+		},
+		{
+			"title":"퍼블리시-람다256, 뉴스 생태계 활성화 위해 맞손",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202207270180",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202207270180",
+			"description":"람다256은 국내 최대 디지털 자산 거래소 업비트를 운영하는 두나무의 자회사로, 클라우드 기반의 친<b>환경<\/b>... 권성민 퍼블리시 대표는 “현재 진행 중인 ‘웹 3.0’ <b>환경<\/b>은 인터넷 미디어와 콘텐츠, 커머스 등 전 영역에... ",
+			"pubDate":"Wed, 27 Jul 2022 18:30:00 +0900"
+		},
+		{
+			"title":"낙동강청, 창원시 석동정수장 유충 관련 현장기술지원팀 활동결과",
+			"originallink":"https:\/\/www.sisa-news.com\/news\/article.html?no=207065",
+			"link":"https:\/\/www.sisa-news.com\/news\/article.html?no=207065",
+			"description":" <b>환경<\/b>부 낙동강유역<b>환경<\/b>청과 한국수자원공사(K-water) 낙동강수도지원센터로 구성된 현장기술지원팀은 지난 7월 8일부터 창원시 석동정수장의 수돗물 생산공정 전반을 대상으로 유충서식 여부 및 각종 시설의 적정 운영... ",
+			"pubDate":"Wed, 27 Jul 2022 18:30:00 +0900"
+		},
+		{
+			"title":"“‘메리퀴어’와 ‘남의연애’ 제작한 SKT·유영상 사장, ‘선 넘었다’”",
+			"originallink":"https:\/\/www.christiantoday.co.kr\/news\/349088",
+			"link":"https:\/\/www.christiantoday.co.kr\/news\/349088",
+			"description":"우리는 식품오염 또는 <b>환경<\/b>오염과 차원이 다른 해악을 끼치는 동성애물의 범람을 심각히 인식하고 있다. SKT 유영상 대표이사는 만일 본인의 자식과 손자손녀가 웨이브의 ‘메리퀴어’와 ‘남의연애’ 등과 같은 해로운... ",
+			"pubDate":"Wed, 27 Jul 2022 18:30:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 2021년 ESG 보고서 발간",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20220727182603959836846677e3_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20220727182603959836846677e3_1\/article.html",
+			"description":"ESG(<b>환경<\/b>·사회적 책무·기업지배구조 개선) 활동 내용과 성과를 담은 '2021 ESG 보고서'를 발간했다고 밝혔다. 이번 보고서에는 기후변화 대응을 위한 SBTi(과학적 기반 감축 목표 이니셔티브) 수립, 친<b>환경<\/b> 투자 확대를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:30:00 +0900"
+		},
+		{
+			"title":"산청군 '맘쓰허그 장난감도서관' 개소",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1586940",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1586940",
+			"description":"군 관계자는 &quot;장난감도서관 운영으로 육아가정의 경제적 부담을 더는 것은 물론 자원절약으로 인한 <b>환경<\/b>보호 효과도 있을 것으로 기대된다&quot;며 &quot;맘쓰허그 장난감도서관 운영을 계기로 지속적으로 영유아 복지사업을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:30:00 +0900"
+		},
+		{
+			"title":"'7월 28일은 간염의 날'…간암 환자의 85%, BㆍC형 간염 탓",
+			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2022072718260004878?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000688511?sid=103",
+			"description":"권정현 교수는 “A형 간염은 예전에는 예방백신이 없어 접종할 수 없었지만 <b>환경<\/b>위생이 개선되면서 A형 간염 바이러스에 노출되지 않았던 20~40대가 취약 계층”이라며 “실제 국내 A형 간염 발생의 절반이 20~30대에서... ",
+			"pubDate":"Wed, 27 Jul 2022 18:30:00 +0900"
+		},
+		{
+			"title":"한덕수 &quot;盧, 못해 먹겠다 한 적도&quot;...野 &quot;배은망덕&quot;",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0101_202207271829007785",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001769411?sid=100",
+			"description":"그러면서 대개 정권 초기에 본인이 이제까지 익숙하던 <b>환경<\/b>이 아닌 상황에서 본인이 행동하는 분위기가 적절하지 않을 때 그런 말씀을 하지 않았나 싶다고 설명했습니다. 한 총리의 발언에 민주당은 윤 대통령의 실언을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:29:00 +0900"
+		},
+		{
+			"title":"태영건설, 정규직 신입·경력사원 공개 채용···서류접수 다음달 16일까지",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509920",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509920",
+			"description":"경력사원 모집부문은 △토목 △건축시공 △기계 △전기 △현장관리 △해외시공 △CS △<b>환경<\/b>사업 △<b>환경<\/b>기술개발 △토목영업 △건축기술 △건축견적 △시행도급 △정비사업 △회계\/세무 △경영관리 △IR\/공정위 △IT... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"경북도-제주도 '해녀' 매개로 해양 인문교류 활성화 나선다",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220727010003480",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220727010003480",
+			"description":"협약서에는 두 도간 해양 인문 교류를 강화하는 것 외에도 섬 생태관광 활성화, 공동 해양<b>환경<\/b>사업 추진도 담는다. 주목되는 것은 울릉도·독도의 세계자연유산 등재를 위한 공동 노력, 동해안 해녀문화의 체계적 전승... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"경북도 <b>환경<\/b>친화적 자동차 기반 확충",
+			"originallink":"https:\/\/bit.ly\/3oyHssk",
+			"link":"https:\/\/bit.ly\/3oyHssk",
+			"description":"경북도가 전기차와 수소차 등 <b>환경<\/b>친화적 자동차 보급을 늘리기 위해 전용주차구역과 충전시설 등을 확대할... 공간에 <b>환경<\/b>친화적 자동차 전용구역과 충전시설을 의무적으로 설치할 계획입니다. 또 충전시설 보급... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"교보생명, 폐현수막 신발주머니로 업사이클링",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580794",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580794",
+			"description":"교보생명 임직원들은 직접 신발주머니에 <b>환경<\/b>과 관련된 그림을 그리고 색색으로 칠해 특별함을 불어넣었다.... 체육 꿈나무를 조기에 발굴·육성하는 것과 함께 올해는 지속가능성에 초점을 두고 ESG(<b>환경<\/b>·사회·지배구조)... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"[이슈인터뷰] 국민의힘 구자근 국회의원(구미갑) 대담",
+			"originallink":"https:\/\/bit.ly\/3S3e5vO",
+			"link":"https:\/\/bit.ly\/3S3e5vO",
+			"description":"국회 산자위·여당 원내부대표..의정활동 계획은?) - 새 정부에 거는 국민 기대 커..산업<b>환경<\/b> 어려운 실정 - 정부 대통령실 찾아..통합신공항 SOC 사업 지원 요청 - '북구미IC-군위JC 고속도로·KTX 구미역 정차' 건의 - 지역기업... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"英 폭염 꺾이자 최악의 가뭄위기… “머리 매일 감지 말고, 호스로 물 주지 마...",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/07\/27\/20220727522915.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003719561?sid=104",
+			"description":"영국 정부는 이날 농업단체와 <b>환경<\/b> 전문가, 정부 관계자 등으로 구성된 영국 <b>환경<\/b>청 산하 가뭄 대응 전담기구인 NDG(National Drought Group) 회의를 열고 대응방안을 논의했다. 당초 이 회의는 오는 10월 예정됐으나 상황의... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"[위클리오늘] 대교, 2년 연속 '나홀로' 적자···배당에만 몰두?",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509940",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=509940",
+			"description":"(표=신유림 기자) 대교 관계자는 &quot;코로나19 사회적 거리두기에 따른 수업 제한 영향&quot;이라고 밝혔으나 나머지 회사들도 같은 <b>환경<\/b>이었다는 점을 고려하면 수긍할 수 없는 대목이다. 대교는 올해 들어서도 적자... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"고성찬 팀장 &quot;종량제 봉투 인센티브, 도민 관심 증폭...삼다수 페트병 절반 이...",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075800",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3075800",
+			"description":"증가하면서 <b>환경<\/b> 문제도 대두되고 있습니다. 특히 투명 페트병 재질은 고품질 기능성 섬유로 재탄생이... 또한 일요일과 <b>환경<\/b> 관련 기념일은 재활용 데이라 하여 1kg당 종량제 봉투 2매를 교환해드리고 있고요. 이 날은... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"부산지방국세청, 납세자보호담당관 공간소통 포럼 개최",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016425",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016425",
+			"description":"부산청은 앞으로도 낮은 자세와 열린 마음으로 납세자가 쉽고 편안하게 소통할 수 있는 <b>환경<\/b>을 만들어가고 적극행정으로 지역경제의 회복과 도약을 세정차원에서 뒷받침해 나갈 계획이다.  조영돌",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"찜통더위에 야외근로자 숨 막혀",
+			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=925271",
+			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=925271",
+			"description":"충청권 대부분의 지역에 폭염주의보가 내려진 가운데 야외근로자들의 작업<b>환경<\/b>에 빨간불이 켜졌다. 장시간 뜨거운 <b>환경<\/b>에 노출돼 온열질환 위험에 무방비로 노출됐다. 폭염 시 야외 활동을 자제하고 물, 그늘, 휴식... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"전주자연생태관, '탄소중립' 건물 변신",
+			"originallink":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=846145",
+			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=846145",
+			"description":"민선식 전주시 복지<b>환경<\/b>국장은 &quot;공공부문 탄소중립모델 발굴 사업으로 자연생태관이 리모델링되면 탄소중립 실현을 위한 선도적인 건물의 거점이 될 것&quot;이라며 &quot;기존 전시위주의 관람에서 직접 참여하고 체험할 수 있는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"한 총리 “노무현도 ‘못해 먹겠다’ 말해” 두둔…민주 “배은망덕”",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20220727500214&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003290516?sid=100",
+			"description":"않는 <b>환경<\/b>이 되니 ‘못 해 먹겠다’ 이런 말씀도 한 적 있는 것으로 안다”고 말하며 두둔했다. 한 총리는 27일... 익숙하던 <b>환경<\/b>(과 달리) 본인 행동이 적절하지 않을 때 그런 말씀을 하시지 않았나 싶다”라고 밝혔다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:27:00 +0900"
+		},
+		{
+			"title":"[종합] LGD, 2분기 영업손실 4883억원…LCD 구조조정 '속도'",
+			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=243292",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002129557?sid=105",
+			"description":"이어 김 CFO는 “글로벌 경제와 사업<b>환경<\/b>의 불확실성이 높은 상황이지만 사업구조 고도화와 차별적 강점을 보유하고 있는 대형 OLED와 IT부문의 시장 지배력 강화하겠다”며 “수주형 사업 적극 육성‧전개하고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:27:00 +0900"
+		},
+		{
+			"title":"토종 OTT '왓챠' 투자 난항에 구조조정…매각설까지",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220727_0001958712&cID=13005&pID=13100",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011330381?sid=105",
+			"description":"기사내용 요약 경제<b>환경<\/b> 악화·투자 어려움 겪으면서 사업구조 개편 두 자릿수 인력 감축 단행…신사업 추진도 잠정 보류 [서울=뉴시스] 심지혜 기자 = 국내 토종 온라인동영상서비스(OTT) 왓챠가 몸집 줄이기에... ",
+			"pubDate":"Wed, 27 Jul 2022 18:27:00 +0900"
+		},
+		{
+			"title":"[B tv 대구뉴스]형편 어려워 집 수리 엄두도 못냈는데…고맙습니다",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=65&p_no=144119",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=65&p_no=144119",
+			"description":"안그렇습니까?&quot; 서구청은 어려운 형편 때문에 집수리는 엄두도 내지 못했던 가구를 대상으로 주거<b>환경<\/b>... 그분들 <b>환경<\/b>을 개선시켜주고자 시작하게 됐고요. 다른 주택에 사는 분들이 여건이 좋아지는 상황에서 이분들은... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"세븐나이츠 레볼루션, 넷마블 약점 극복 '키카드'",
+			"originallink":"https:\/\/www.gametoc.co.kr\/news\/articleView.html?idxno=67381",
+			"link":"https:\/\/www.gametoc.co.kr\/news\/articleView.html?idxno=67381",
+			"description":"'페이트\/그랜드 오더' 등으로 모두 국내외 유명 IP를 모바일 <b>환경<\/b>에 최적화시키거나 퍼블리싱 게임이다. 2020년 11월 출시된 '세븐나이츠2'가 국내 구글 최고 매출 2위까지 오르는 성과를 냈지만 원작에는 미치지 못했다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"권남주 캠코 사장, '회생기업 자금대여' 100번째 기업 방문해 애로사항 청취",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8323",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8323",
+			"description":"권남주 캠코 사장은 &quot;고금리, 고환율, 고물가 등 중소기업의 경영 <b>환경<\/b>이 갈수록 어려워지고 있다&quot;며, &quot;앞으로 DIP금융을 통한 운전자금 지원, 경영컨설팅, 보증지원 등 종합지원 프로그램을 제공해 기업의 경영... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"중진공 전남본부, 업사이클링 물품 기부",
+			"originallink":"http:\/\/www.jndn.com\/article.php?aid=1658913756341515004",
+			"link":"http:\/\/www.jndn.com\/article.php?aid=1658913756341515004",
+			"description":"중소벤처기업진흥공단 전남지역본부는 최근 <b>환경<\/b>보호와 자원 순환의 의미를 되새기기 위해 헌옷과... 통해 <b>환경<\/b>보호에 기여할 수 있어 뜻깊었다”며 “앞으로도 ESG경영 인식 확산을 위한 다양한 활동을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"교보생명, 폐현수막 업사이클링 신발주머니 제작...ESG경영 실천",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8339",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8339",
+			"description":"교보생명 임직원들은 직접 신발주머니에 <b>환경<\/b>과 관련된 그림을 그리고, 색색으로 칠해 특별함을 불어넣었다.... 체육꿈나무를 조기에 발굴∙육성하는 것과 함께 올해는 지속가능성에 초점을 두고, ESG 관점의 친<b>환경<\/b>... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"&quot;22분기 연속 흑자&quot;…삼성엔지니어링, 2Q 영업이익 1535억원·전년 比 2.1% ↑",
+			"originallink":"http:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=128799",
+			"link":"http:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=128799",
+			"description":"삼성엔지니어링 관계자는 &quot;불확실한 대외<b>환경<\/b> 속에서도 철저한 프로젝트 관리와 자동화, 모듈화 등... 산업<b>환경<\/b> 부문도 안정적 수익구조를 이어가는 등 외형 성장과 함께 견고한 실적 흐름을 보이고 있다&quot;고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"포항시, 경로당 쿨루프 시공사업으로 어르신 시원한 여름나기 지원",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517424",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517424",
+			"description":"포항시 신정혁 <b>환경<\/b>정책과장은 &quot;폭염으로부터 시민들의 건강을 보호하고 에너지를 절약할 뿐만 아니라 탄소중립에도 기여할 수 있는 다양한 사업들을 발굴하는 데 최선을 다하겠다&quot;라고 밝혔다.",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"광동제약, 제16회 대한민국 패키징 대전 ‘한국생산기술연구원장상’",
+			"originallink":"https:\/\/www.christiantoday.co.kr\/news\/349087",
+			"link":"https:\/\/www.christiantoday.co.kr\/news\/349087",
+			"description":"있어 <b>환경<\/b> 친화적인 디자인이라는 점에서도 높은 점수를 받았다. 광동제약은 지난해 11월 해당 디자인 구조... 광동제약 관계자는 “그동안 광동제약은 디자인혁신실을 운영하며 소비자와 <b>환경<\/b>을 위한 지속가능한... ",
+			"pubDate":"Wed, 27 Jul 2022 18:26:00 +0900"
+		},
+		{
+			"title":"부산지방국세청 납세자보호관 공감소통 포럼",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271824072680",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874258?sid=102",
+			"description":"부산국세청청은 앞으로도 낮은 자세와 열린 마음으로 납세자가 쉽고 편안하게 소통할 수 있는 <b>환경<\/b>을 만들어가고 적극행정으로 지역경제의 회복과 도약을 세정차원에서 뒷받침해 나가기로 했다.",
+			"pubDate":"Wed, 27 Jul 2022 18:25:00 +0900"
+		},
+		{
+			"title":"[아!이뉴스] 과방위, 첫 전체회의 '반쪽'…라이엇, 여섯번째 환수유물 '보록'...",
+			"originallink":"http:\/\/www.inews24.com\/view\/1504871",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000688231?sid=105",
+			"description":"위한 <b>환경<\/b>을 조성해 나갈 방침이다. 지원반에 포함된 3개 부처는 정기 회의를 통해 SW산업협회를 통해... 이러한 활동이 단발성 행사에 그치지 않고 장기적으로 실질적인 시장<b>환경<\/b> 개선이 나타날 수 있도록 노력하겠다고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, ESG보고서 발간...&quot;지난해 2조6227억원 규모 사회적 성과&quot;",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8338",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8338",
+			"description":"하나금융은 ESG보고서를 통해 <b>환경<\/b>, 사회, 지배구조 중심의 지속가능경영 활동과 성과를 사회, 이웃... 확대 ▲친<b>환경<\/b> 투자확대를 위한 KAIST와 인공광합성 협약체결 등을 주요 ESG활동으로 소개했다. 특히 <b>환경<\/b>... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"한수원, 원전 압력방출밸브 국산화 첫걸음...산·학·연 협력",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8336",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8336",
+			"description":"POSRV는 작동 <b>환경<\/b> 기준이 매우 엄격하고 높은 신뢰성이 요구되는 등 기술장벽이 높아 해외 3개 기업이 세계 시장을 독점하고 있다. 국내 기술 확보가 시급한 상황이나 중소기업 단독으로는 개발이 어려운 상황이다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"대구 중구 치매안심센터, 대봉2·남산4동 치매안심마을서 운영위원회 개최",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=389817",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=389817",
+			"description":"일반 국민들도 치매에 대한 두려움 없이 살아갈 수 있는 치매 친화적 지역사회 <b>환경<\/b>을 조성하고자 한다.... 있는 <b>환경<\/b>을 조성하겠다&quot;고 했다. 한지연기자 jiyeon6@idaegu.co.kr 대구 중구치매안심센터가 지난 7일과 20일... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"[게임뉴스] 스마일게이트 'CFS 썸머 챔피언십' 개최 외 주요 소식",
+			"originallink":"http:\/\/www.gamevu.co.kr\/news\/articleView.html?idxno=23682",
+			"link":"http:\/\/www.gamevu.co.kr\/news\/articleView.html?idxno=23682",
+			"description":"일본 개발사 팔콤과 협업하여 개발한 게임으로, 원작의 방대한 세계관과 전통 시스템을 모바일 <b>환경<\/b>에서 구현한 것이 특징이다. - 그라비티는 '라그나로크' 서비스 20주년을 기념한 신규 타이틀 '라그나로크 아레나'를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"[미디어·경제논단] 공급망 생태계 복원은 난망이나, 감투 중독자 양산 일상화",
+			"originallink":"http:\/\/www.newscj.com\/article\/20220727580586",
+			"link":"http:\/\/www.newscj.com\/article\/20220727580586",
+			"description":"노동시장의 이중구조는 결국 뿌리산업, 소부장(소재, 부품, 장비)의 공급망 <b>환경<\/b>을 갈수록 악화시킨다. 그와 더불어 한국 자유주의 시장경제는 위기를 맞고, 세계 공급망 생태계에서 점점 경쟁력을 잃어간다. 문재인... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"LG디플, 2년 만에 적자 전환...&quot;글로벌 공급망 이슈 직격타&quot;",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8331",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=8331",
+			"description":"LG디스플레이 김성현 CFO(최고재무책임자)는 &quot;글로벌 경제와 사업<b>환경<\/b>의 불확실성이 높은 상황이지만 사업구조 고도화, 운영 효율화, 재고 관리, 투자효율화 강화 활동을 통해 변화에 탄력적으로 대응하고 리스크를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"'도시재생사업' 전면 수정... 지역 경제거점 조성·일자리 창출에 집중",
+			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=853166",
+			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=853166",
+			"description":"기존 정부에서 주로 추진했던 도로 포장이나 벽화 그리기, 박물관 및 문화 공간 조성 등은 실질적인 주거<b>환경<\/b> 개선과 거리가 멀다는 지적이 있어왔다. 국토교통부는 27일 향후 도시재생사업을 추진해 나갈 기본 방침이 담긴... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"원자잿값·인건비 상승에 전기료 폭탄까지… 뿌리기업 &quot;눈앞 캄캄&quot;",
+			"originallink":"http:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2015876",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000020481?sid=101",
+			"description":"여기에 기후<b>환경<\/b>요금을 ㎾h당 2원 올리고, 연료비 조정단가도 연간 한도치인 5원까지 인상할 가능성이 크다. 한전은 또 기준연료비 조정, 연료비 미수금 정산제도 도입 등을 요구하고 있다. 결과적으로 ㎾h당 최대 30원... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"'제주 자원순환클러스터 산업단지' 조성 본격화",
+			"originallink":"http:\/\/www.jejuilbo.net\/news\/articleView.html?idxno=187840",
+			"link":"http:\/\/www.jejuilbo.net\/news\/articleView.html?idxno=187840",
+			"description":"제주특별자치도는 자원순환클러스터 산업단지 계획 수립을 위한 조사설계 용역과 <b>환경<\/b>영향평가 용역에 착수했다고 27일 밝혔다. 자원순환클러스터는 폐플라스틱·비닐, 폐배터리, 태양광 패널 등 미래 폐자원의 재활용을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"[정기인사] 제주시, 6급 이하 직급별 승진대상 인원 공개",
+			"originallink":"http:\/\/www.headlinejeju.co.kr\/news\/articleView.html?idxno=492663",
+			"link":"http:\/\/www.headlinejeju.co.kr\/news\/articleView.html?idxno=492663",
+			"description":"(2명) △<b>환경<\/b> 1명(3명) △시설(토목) 3명(11명) △시설(건축) 1명(4명) △시설(도시계획) 1명(1명)... (3명) △<b>환경<\/b> 2명(8명) △시설(토목) 5명(15명) △시설(건축) 3명(11명) △운전 2명(3명) ◆ 소수직렬 통합 6급 이하... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"제주 어장 어지럽히는 해적생물로 천연섬유 만든다",
+			"originallink":"http:\/\/www.jejumaeil.net\/news\/articleView.html?idxno=317804",
+			"link":"http:\/\/www.jejumaeil.net\/news\/articleView.html?idxno=317804",
+			"description":"친<b>환경<\/b> 섬유 개발 스타트업인 쿨베어스는 최근 제주시 김녕·북촌어촌계와 원활한 해적생물 공급을 위한 업무협약(MOU)을 체결했다. 어장 생태계를 어지럽히는 성게·불가사리가 최근 제주에서 친<b>환경<\/b> 섬유 소재로 활용되고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:24:00 +0900"
+		},
+		{
+			"title":"도드람양돈, 중복맞이 삼계탕 나눔행사 진행",
+			"originallink":"http:\/\/www.nongmin.com\/article\/ar_detail.htm?seq_id=360057",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/662\/0000004174?sid=101",
+			"description":"이번 행사는 무더위와 장마로 어려움을 겪는 지역 어르신의 원기회복을 도움으로써 지역사회와 상생하는 ESG(<b>환경<\/b>ㆍ사회ㆍ지배구조) 경영을 실천하고자 마련됐다. 도드람양돈은 이번 행사 외에도 지역 어르신을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:23:00 +0900"
+		},
+		{
+			"title":"'아플라톡신 초과 검출' 한식된장 2개 제품 판매 중단 및 회수",
+			"originallink":"https:\/\/mdtoday.co.kr\/news\/view\/1065604042796247",
+			"link":"https:\/\/mdtoday.co.kr\/news\/view\/1065604042796247",
+			"description":"된장을 담글 때 개방된 <b>환경<\/b>에서 발효시킬 경우 유해 곰팡이에 의도치 않게 오염되어 생성될 수 있다. 식약처는 해당 제품을 신속히 회수하도록 조치했으며, 해당 제품을 구매한 소비자는 섭취를 중단하고 구입처에... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"한덕수 “노 전 대통령도 ‘못 해 먹겠다” 얘기해“…민주당 ”배은망덕“",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5519305&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011310006?sid=100",
+			"description":"없는 <b>환경<\/b>이 되니까 ‘못 해 먹겠다’ 얘기하신 적도 있다”고 말했습니다. 한덕수 총리는 오늘(27일)... 익숙하던 <b>환경<\/b>이 아닌 상황에서 분위기가 적절치 않을 때 그런 말씀을 하지 않았나 싶다”고 했습니다. 민주당은 한... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"공룡 세계로의 초대 '끝나지 않은 모험'",
+			"originallink":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=846345",
+			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=846345",
+			"description":"아이들에게 <b>환경<\/b>의 소중함을 알려주며 교육적 가치를 직접 체험하는 계기가 될 것이다. 2022공룡엑스포의 화석전시관은 육식공룡에 초점을 두고 전시를 준비하고 있다. 티라노사우루스 두개골, 스피노사우루스 골격 화석... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"식약처, ‘아플라톡신 초과 검출’ 한식된장 2개 판매 중단·회수",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5519304&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011310005?sid=102",
+			"description":"다량 섭취 시 출혈, 설사, 간경변 등이 나타날 수 있으며, 된장을 담글 때 개방된 <b>환경<\/b>에서 발효시킬 경우 유해 곰팡이에 의도치 않게 오염돼 생성될 수 있다고 식약처는 설명했습니다. 식약처는 식품 관련 불법 행위를... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"“지속가능한 성장으로 지역경제 활성화 주축 되길”",
+			"originallink":"http:\/\/www.jndn.com\/article.php?aid=1658913539341514004",
+			"link":"http:\/\/www.jndn.com\/article.php?aid=1658913539341514004",
+			"description":"좋은 <b>환경<\/b>을 만들도록 총력을 다하겠다”고 말했다. 올해는 대통령 표창 1명, 국무총리 표창 2명, 광주시장 표창 5명 등 총 47명(광주 28명·전남 19명)에 대해 산업훈장과 포장을 비롯해 총 653점의 포상이 수여됐다. 대통령... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"포항시, 폭염 취약계층 시원한 여름나기 '쿨루프' 지원",
+			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490271",
+			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490271",
+			"description":"신정혁 <b>환경<\/b>정책과장은 &quot;폭염으로부터 시민들의 건강을 보호하고 에너지를 절약할 뿐만 아니라 탄소중립에도 기여할 수 있는 다양한 사업들을 발굴하는 데 최선을 다하겠다&quot;라고 밝혔다.",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"금리인상 앞두고 미국 경기침체 온다 전망 ↑",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220727163848327",
+			"link":"https:\/\/www.ajunews.com\/view\/20220727163848327",
+			"description":"고린차스 수석은 &quot;현재 <b>환경<\/b>은 미국이 경기침체를 피할 가능성이 매우 낮을 수 있음을 시사한다. 이는 매우 협소한 경로가 될 것&quot;이라고 말했다. 고린차스 수석은 심지어 작은 충격조차도 미국이 경기침체로 기울도록... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"尹 대통령 첫 직속위 국민통합위 출범…국민통합 국정운영 최우선 가치",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220727010003510",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220727010003510",
+			"description":"한정화 한양대 명예교수, 이수형 서울대 국제대학원 교수, 김희정 '째깍악어' 스타트업 대표 등이 함께 참여해 기업 상생<b>환경<\/b>과 경제 격차 개선 방안을 모색할 계획이다.더불어민주당 이재명 상임고문의 사법시험 동기인... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"문경 치매안심센터-문경관광진흥공단, 산림치유사업 '어깨동무'",
+			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490262",
+			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490262",
+			"description":"산림치유는 숲이 가진 다양한 자연<b>환경<\/b> 요소를 활용하여 인체의 면역력을 높이고 신체와 정신건강을... 치매극복<b>환경<\/b>을 조성하고 치매예방 및 치유프로그램을 운영할 계획이라고 덧붙였다. 보건소 관계자는&quot;이번 상호... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"장마 끝 폭염 시작…맥주‧아이스커피는 더위에 '백해무익'(百害無益)",
+			"originallink":"http:\/\/www.koreahealthlog.com\/news\/articleView.html?idxno=32545",
+			"link":"http:\/\/www.koreahealthlog.com\/news\/articleView.html?idxno=32545",
+			"description":"뜨거운 <b>환경<\/b>에 장시간 노출되면 두통과 어지러움‧근육경련‧의식저하 등의 증상을 보인다. 심하면 생명이... 폭염 등 고온<b>환경<\/b>에 노출되면 우리 몸은 피부 혈관을 확장한다. 혈류량을 증가시키고 땀을 흘리는 등 생리적... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"한국체육산업개발, 27일 자율 경영혁신 워크숍 개최",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=81637882621",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=81637882621",
+			"description":"경영혁신추진단은 새정부 국정운영방향에 따른 공공기관 효율화·재정건정성 강화요구 확대 및 사업범위 조정 등 대내·외 경영<b>환경<\/b> 변화대응을 하기 위한 기업활동으로, 한국체육산업개발은 2022년도를 기존의 관행에서... ",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"구미시, 사회복지 미래화 추진 위한 메타버스 강의",
+			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490267",
+			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490267",
+			"description":"박경하 사회복지국장은 &quot;이번 회의를 통해 복지분야에만 한정하지 않고 구미시 전반적인 정책발전에 도움이 될 수 있는 사업을 제시하여 미래 지향적 행정의 초석을 다지겠다&quot;며 복지<b>환경<\/b> 개선 의지를 강조했다.",
+			"pubDate":"Wed, 27 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"[fn광장] 존 리를 보는 또다른 시선",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271820033033",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874251?sid=110",
+			"description":"그동안 존 리 전 대표는 금융교육과 <b>환경<\/b>·사회·지배구조(ESG)의 전도사 역할을 자처하였다. 그의 유튜브의 강연 내용을 보면 금방 알 수가 있다. ESG 중에서도 존 리 전 대표가 가장 중요하게 생각한 부분은 여성 문제였다.... ",
+			"pubDate":"Wed, 27 Jul 2022 18:21:00 +0900"
+		},
+		{
+			"title":"SKC, 2022 지속가능경영보고서 발간",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220727000969",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220727000969",
+			"description":"투명한 <b>환경<\/b>, 사회, 지배구조(ESG) 경영을 강조했다. SKC는 이날 지속가능경영보고서를 발간하고 홈페이지... SKC는 파이낸셜그룹을 대상으로 SKC의 ESG 이슈를 파악하고 <b>환경<\/b> 및 사회 영향도 결과와 종합해 올해... ",
+			"pubDate":"Wed, 27 Jul 2022 18:21:00 +0900"
+		},
+		{
+			"title":"[특별기고] 면세한도 상향의 경제효과",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271820080558",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874252?sid=110",
+			"description":"대내외적 <b>환경<\/b>변화로 인해 면세산업은 더 이상 '황금알을 낳는 거위'가 아니라 정책적 측면에서 점검하고 관리해야 하는 대상이 되고 있다. 면세산업의 성장은 국내 관광산업 활성화와 직결되는 등 경제적 파급효과가... ",
+			"pubDate":"Wed, 27 Jul 2022 18:21:00 +0900"
+		},
+		{
+			"title":"김대권 보로노이 대표, 파이프라인 확대 기술수출로 실력 증명한다",
+			"originallink":"http:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=97936",
+			"link":"http:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=97936",
+			"description":"외부적인 <b>환경<\/b> 요인으로 투자자들의 심리가 위축됐기 때문이라는 분석이 지배적이었다. 재도전 끝에 지난 6월 24일 발행가액(공모가) 4만원으로 코스닥 시장에 상장됐다. 증권신고서 상 발행 총액은 520억원(보퉁주)... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, '2021 ESG보고서' 발간",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580793",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1580793",
+			"description":"하나금융그룹은 지난 1년간 그룹의 ESG(<b>환경<\/b>·사회·지배구조) 활동 내용과 성과를 담은 '2021 ESG보고서'를 발간했다고 27일 밝혔다. 하나금융그룹은 ESG보고서를 통해 <b>환경<\/b>(Environmental)과 사회(Social), 지배구조... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"조현일 경산시장, 출산장려금 지원 대폭 확대 밝혀",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016411",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016411",
+			"description":"조 시장은 &quot;경산시의 미래이자 보물인 아이를 낳고 키우기 좋은 육아 <b>환경<\/b>을 조성하도록 노력 하겠다&quot;며, &quot;저 출산에 대한 인구감소에 대응하기 위해 출산 친화적 분위기를 조성하는 시책을 마련하는 등 시민 중심 행복... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"국민의힘·금투협, 현장 간담회…&quot;자본시장 규제 개선해야&quot;",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20220727181518569236846677e3_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20220727181518569236846677e3_1\/article.html",
+			"description":"나 회장은 &quot;최근 대내외 경제·금융<b>환경<\/b>은 녹록지 않은 상황&quot;이라며 &quot;코로나19 재확산 조짐까지 보여 경기침체 우려가 더욱 커지고 있는 실정&quot;이라고 말했다. 이어 &quot;새 정부의 경제정책 방향 중 1순위는 민간중심 역동 경제... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"[핫 키워드] 다시 주목받는 용산국제업무지구",
+			"originallink":"http:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=97963",
+			"link":"http:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=97963",
+			"description":"그동안 국제업무지구 사업이 무산된 데에는 금융위기 등 외부 <b>환경<\/b> 변화에 따른 리스크가 컸기 때문이다.... 생활<b>환경<\/b>의 '녹지생태도시' ▲세계로 연결되는 사통팔달의 3차원 '입체교통도시' ▲첨단 스마트기술 혁신의... ",
+			"pubDate":"Wed, 27 Jul 2022 18:20:00 +0900"
+		},
+		{
+			"title":"[내일날씨] 낮 최고 35도 찜통더위 계속…곳곳 소나기(종합)",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4755720",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006244735?sid=103",
+			"description":"동안 기온이 일시적으로 낮아지겠지만 비가 그친 뒤엔 기온이 다시 오르고 습도가 높아 무덥겠다. <b>환경<\/b>부 산하 한국<b>환경<\/b>공단 등에 따르면 미세먼지는 원활한 대기확산으로 전 권역에서 '좋음' 수준을 보이겠다.",
+			"pubDate":"Wed, 27 Jul 2022 18:19:00 +0900"
+		},
+		{
+			"title":"[인사] 경북도",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220727000994",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220727000994",
+			"description":"최돈우·류정아·도한우 △보건<b>환경<\/b>연구원 <b>환경<\/b>조사과장 직무대리 이준호.먹는물검사과장 직무대리 박순길 △안동농수산물검사소장 직무대리 박명섭 ◇ 5급 전보 △감사관실 서남덕 △청년정책관실 이미향... ",
+			"pubDate":"Wed, 27 Jul 2022 18:19:00 +0900"
+		},
+		{
+			"title":"삼다수, 수질 검사만 연간 2만회… “출시 이래 수질 변화 없다”",
+			"originallink":"https:\/\/biz.chosun.com\/distribution\/food\/2022\/07\/27\/U5Q4E7IELRFU3OKITGB433AOGU\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000830416?sid=103",
+			"description":"<b>환경<\/b>부의 먹는물관리법에 의해 연간 2274건의 검사를 받아야 하지만 이보다 940%가량 많은 횟수의 수질... 또 공장의 제품 생산 과정에서도 엄격한 기준을 적용하기 위해 생산 및 품질 관리, 식품 안전 관리, <b>환경<\/b>... ",
+			"pubDate":"Wed, 27 Jul 2022 18:19:00 +0900"
+		},
+		{
+			"title":"野 &quot;尹 실언 감싸려 노무현 대통령 이용, 한 총리 배은망덕&quot;",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5793930",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003669164?sid=100",
+			"description":"않는 <b>환경<\/b>이 되니 '못 해 먹겠다' 이런 말씀도 한 적 있는 것으로 안다&quot;고 답했다. 또 &quot;대통령 초기에 여러 가지로 지금까지 익숙하던 <b>환경<\/b>(과 달리) 본인이 행동하는 분위기가 적절하지 않을 때 그런 말씀을 하시지 않았나... ",
+			"pubDate":"Wed, 27 Jul 2022 18:19:00 +0900"
+		},
+		{
+			"title":"&quot;메타버스 신사업 진흥? 오히려 정부가 발목 잡는다&quot;",
+			"originallink":"https:\/\/byline.network\/?p=9004111222479340",
+			"link":"https:\/\/byline.network\/?p=9004111222479340",
+			"description":"조영준 게임블록 대표이사는 “우리나라가 메타버스 시장에서 자생하기 위해서는 P2E(Play to earn, 돈 버는 게임) 사업에 대한 무조건적인 부정적 인식을 버려야 한다”며 “관련 사업을 전개할 수 있는 <b>환경<\/b>이 만들어진다면... ",
+			"pubDate":"Wed, 27 Jul 2022 18:18:00 +0900"
+		},
+		{
+			"title":"포항시, '하반기 운행경유차 저감장치 부착 지원사업' 신청 받아",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517407",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2517407",
+			"description":"신청 방법으로는 자동차 배출가스 종합전산시스템을 통한 인터넷 신청 혹은 시청 <b>환경<\/b>정책과에... 정부는 기후변화 대응과 탄소중립을 목표로 미래 친<b>환경<\/b> 수소경제로의 신속전환을 진행 중에 있다. 신정혁 포항시... ",
+			"pubDate":"Wed, 27 Jul 2022 18:18:00 +0900"
+		},
+		{
+			"title":"[마감종합기사] 상한가 5종목, 무상증자 이슈 속 지투파워·엔지켐생명과학 등...",
+			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=925262",
+			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=925262",
+			"description":"뉴인텍은 하이브리드차와 전기차 등 친<b>환경<\/b>차에 들어가는 커패시터(축전지) 전문 제조업체다.... 자연과<b>환경<\/b>, 아미노로직스, 피엔케이피부임상연구센타, 대동기어, 아이스크림에듀, 노터스, 위지트... ",
+			"pubDate":"Wed, 27 Jul 2022 18:18:00 +0900"
+		},
+		{
+			"title":"野 “尹 ‘대통령 처음’ 발언 적절했나”… 韓총리 “盧는 ‘못 해먹겠다’ ...",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/07\/27\/20220727521642.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003719554?sid=100",
+			"description":"한 총리는 “제가 모신 노무현 대통령도 국회에서 본인이 생각한 정책들이 잘 진전될 수 없는 <b>환경<\/b>이 되자 ‘정말 뭐 못 해먹겠다’ 이런 말씀도 한 것으로 알고 있다”고 되받았다. 그는 노무현정부의 마지막 총리였다. 한... ",
+			"pubDate":"Wed, 27 Jul 2022 18:17:00 +0900"
+		},
+		{
+			"title":"한국타이어, 독립유공자 위한 '기부마라톤' 후원",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207271816455196",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004874241?sid=101",
+			"description":"기부금 및 캠페인 수익금 전액은 한국해비타트를 통해 독립유공자 후손의 주거<b>환경<\/b> 개선 사업에 쓰인다. 개인 참가 희망자는 총 3500명 모집한다. 코스는 삼일절(3월 1일), 광복을 되찾은 해(1945년), 광복절(8월 15일)... ",
+			"pubDate":"Wed, 27 Jul 2022 18:17:00 +0900"
+		},
+		{
+			"title":"포스코, 벤처생태계 조성 '앞장'",
+			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490258",
+			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=490258",
+			"description":"플라스틱과 슬래그를 주원료로 하는 친<b>환경<\/b> 복합 소재인 슬래스틱을 비롯해 슬래그를 고분자 복합소재의... 박영준 이옴텍 대표는 &quot;폐플라스틱으로 인한 <b>환경<\/b>오염 문제를 접할 때마다 철강기술과 접목해 해결하는 방법을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"[B tv 인천뉴스] 서구, <b>환경<\/b>오염행위 특별 감시·단속",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=144118",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=144118",
+			"description":"서구가 이달 28일부터 다음달 31일까지 <b>환경<\/b>오염행위에 대한 특별 단속을 벌입니다. 구는 우선 이달 말까지 단속 계획을 알리고, 자체 점검을 할 수 있도록 계도 활동을 벌입니다. 8월부터는 집중 단속을 벌이고... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"PS VR2엔 '투시 보기'와 '내 모습 방송' 기능이 포함된다",
+			"originallink":"https:\/\/www.gamemeca.com\/mv.php?inflow=naver_s&gid=1683169",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/356\/0000054911?sid=004",
+			"description":"사용자 지정 플레이 영역은 PS VR2 Sense 컨트롤러 및 내장된 카메라를 사용해 방을 스캔하고 플레이 영역을 지정해 개개인의 플레이 스타일과 방 <b>환경<\/b>에 맞출 수 있는 기능이다. 설정한 경계에 몸이 가까워지면... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"컴투스 컴프야2022, 홈런로얄 시즌2 업데이트",
+			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20220727163426",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002263750?sid=105",
+			"description":"기존 낮 시간대 보다 투구가 보다 명확하게 보일 수 있는 밤 시간대의 <b>환경<\/b>으로 UI를 변경했다. 이 밖에도 실제 KBO리그의 스케줄과 함께 플레이를 즐길 수 있는 ‘리그 모드’의 최상위 버전인 ‘하드 모드’의 진입... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"프라이탁, 100% 생분해 가능한 트럭 방수포 개발 시범 운행 나서",
+			"originallink":"http:\/\/www.apparelnews.co.kr\/news\/news_view\/?idx=199486",
+			"link":"http:\/\/www.apparelnews.co.kr\/news\/news_view\/?idx=199486",
+			"description":"△'바이오 버전'은 친<b>환경<\/b> 합성 섬유와 전분 소재 플라스틱 코팅 결합을 이용한다. △'잠재력 버전'은 TPU((열가소성 폴리우레탄) <b>환경<\/b> 호르몬이 없는 무독성 소재며 재활용 가능한 친<b>환경<\/b> 소재)를 PES(폴리에스테르) 소재... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"CJ온스타일, 중소 협력사 'ESG 경영' 지원 나선다",
+			"originallink":"http:\/\/www.sportsq.co.kr\/news\/articleView.html?idxno=442346",
+			"link":"http:\/\/www.sportsq.co.kr\/news\/articleView.html?idxno=442346",
+			"description":"CJ온스타일은 동반성장위원회(이하 동반위)와 이달 27일 '2022 협력사 ESG(친<b>환경<\/b>·사회적·지배구조 개선)... (KOTRA) △<b>환경<\/b>·에너지 기술 지원 등 인센티브도 제공된다. 이와 함께 참가기업은 CJ온스타일 협력사 지원... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"[B tv 인천뉴스] 옹진군, 2023년 주거<b>환경<\/b> 개선사업 신청 접수",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=144116",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=144116",
+			"description":"옹진군은 8월 한 달간 각 면사무소를 통해 내년도 주거<b>환경<\/b> 개선사업 신청을 받습니다. 주거<b>환경<\/b> 개선사업은 북도면과 덕적면, 자월면, 영흥면 등 근해도서의 노후 주택 주거<b>환경<\/b> 개선을 군에서 지원하는... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"원자력<b>환경<\/b>공단, 육군종합정비창과 방폐물관리 MOU 체결",
+			"originallink":"http:\/\/www.epj.co.kr\/news\/articleView.html?idxno=30907",
+			"link":"http:\/\/www.epj.co.kr\/news\/articleView.html?idxno=30907",
+			"description":"차성수 원자력<b>환경<\/b>공단 이사장(왼쪽)과 이기중 육군종합정비창장(오른쪽)이 방폐물관리에 관한 상호협력 및 기술지원에 관한 협약을 체결하며 기념사진을 촬영하고 있다.  한국원자력<b>환경<\/b>공단(이사장 차성수)은 7월 27일... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"[B tv 인천뉴스] 강화군 어린이집 아동, 내년부터 영어 무료 교육",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=144111",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=144111",
+			"description":"지난해 행안부가 지정한 인구 감소 지역에 포함된 강화군은 보육 <b>환경<\/b> 개선을 통한 출산율 늘리기에 안간힘을 쓰고 있습니다. 이번 어린이집 외국어 교육 역시 그 일환으로 추진되는 사업입니다. 재선에 성공한... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"SKC, 2022 지속가능경영보고서 발간…2030년 온실가스 배출량 42% 감축",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016491",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220727010016491",
+			"description":"파악하고 <b>환경<\/b> 및 사회 영향도 결과와 종합해 올해 보고서를 구성했다.SKC는 파이낸셜스토리 섹션에서 2016년 이후 딥체인지를 추진하며 거둔 성과와 3대 성장축으로 삼은 이차전지와 반도체, 친<b>환경<\/b> 소재 사업의... ",
+			"pubDate":"Wed, 27 Jul 2022 18:16:00 +0900"
+		},
+		{
+			"title":"고양특례시장직 인수위원회, 8대 분야 62개 정책 과제 제시",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022072718153700123",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005124310?sid=102",
+			"description":"주거 <b>환경<\/b> 등 도시를 체계적으로 정비해 나갈 필요가 있다&quot;고 제시했다. 인수위는 민선 8기 시정 방향과... 김수삼 인수위원장은 &quot;고양특례시는 기업친화적인 경제도시로 전환할 것을 제안한다&quot;며, &quot;경제도시로 <b>환경<\/b>을... ",
+			"pubDate":"Wed, 27 Jul 2022 18:15:00 +0900"
+		},
+		{
+			"title":"23톤 중국 로켓 잔해, 다음 주 낙하…한국 영토도 가능성 있어",
+			"originallink":"https:\/\/www.hankyung.com\/international\/article\/2022072783107",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004729975?sid=104",
+			"description":"우주 쓰레기가 인간에게 미치는 위험은 극히 적지만, 사람이 거주하는 지역에 떨어질 경우 <b>환경<\/b>이나 건물 등에 해를 가할 수 있는 것으로 알려졌다. 실제로 중국이 2020년 5월 창정5B를 발사했을 때, 잔해 일부가... ",
+			"pubDate":"Wed, 27 Jul 2022 18:15:00 +0900"
+		},
+		{
+			"title":"박강수 마포구청장“창릉지구 레미콘 공장 현천동 이전 백지화&quot;",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022072718140675747",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005124309?sid=102",
+			"description":"비산먼지, <b>환경<\/b>오염 등 피해를 고스란히 입게 될 것이 자명함에도 마포구 등 주변 지역 관계기관과 아무런... 등 <b>환경<\/b> 위해 시설을 이전하는 것은 눈앞의 문제해결에만 치중한 미봉책”이라 지적했다. 아울러 “마포구... ",
+			"pubDate":"Wed, 27 Jul 2022 18:15:00 +0900"
+		},
+		{
+			"title":"'국회 신고식' 나선 박순애 &quot;박사 논문, 저널에 내는 게 관례&quot;",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022072717240184439",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004776106?sid=102",
+			"description":"서 의원실에 따르면 박 부총리는 2002년 박사학위 논문이었던 '<b>환경<\/b>정책에 대한 주민의 지지와 <b>환경<\/b>친화적 행위의 결정요인'이라는 제목의 논문을 한국정치학회보에 게재했다. 하지만 2012년 이 논문은... ",
+			"pubDate":"Wed, 27 Jul 2022 18:14:00 +0900"
+		}
+	]
+}

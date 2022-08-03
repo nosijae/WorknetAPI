@@ -1,0 +1,608 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:05:10 +0900",
+	"total":104,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>바이오<\/b>농약연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658763&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>바이오<\/b>농약 개발을 위해 토양, 하천 등에서 유용 미생물을 분리하여 식물 병해충 방제작용이 있는지 여부를 탐색한다. 분자 생물학적 방식 등을 활용하여 미생물을 동정(생물의 종류와 이름을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>물류운영원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024785&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] <b>바이오<\/b>물류 고객(병원, 의학연구소, 의학실험실, 제약회사, 임상시험센터 등)과 면담하여 물류계약을 체결한다. 이송할 물품의 종류, 수량, 중량, 부피, 포장방법, 유지할 온도, 이동거리, 지역, 국가... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>의약품공정개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658761&cid=42117&categoryId=42117",
+			"description":" <b>바이오<\/b>의약품의 효율적인 생산을 위해 배양, 정제, 충진 등의 공정을 개발한다. [수행<b>직무<\/b>] <b>바이오<\/b>의약품의 제조지시서와 품질관리기준을 검토하여 효율적인 생산 공정조건을 수립한다. 생산현장과 생산기술... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>의약품분석법개발원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658759&cid=42117&categoryId=42117",
+			"description":" <b>바이오<\/b>의약품의 이화학적·생물학적 특성을 이용하여 연구, 개발, 생산 과정에서 사용되는 분석방법을 개발한다. [수행<b>직무<\/b>] <b>바이오<\/b>의약품의 구조적 특성과 다변성, 생산공정과 유통과정에서 품질에 영향을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신중년 적합<b>직무<\/b>",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6446761&cid=43667&categoryId=43667",
+			"description":" 고용보험법 및 같은 법 시행령에 따라 신중년의 특성 및 경력 등을 감안했을 때, 신중년이 노동시장에 재진입하는 데 적합한 <b>직무<\/b>를 의미한다. 고용노동부가 선정한 신중년 적합<b>직무<\/b>로는 경영·사무 관련... ",
+			"thumbnail":"https:\/\/dthumb-phinf.pstatic.net\/?src=%22https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTA1MTdfOTAg%2FMDAxNjIxMjQxMTEzNzAx.zhtUefP2GsZTAeHaTuG6y--9kMaXw9TlyX8eaaG-IDAg.Us_maKJT1lCDu4E9pYNs9ZaxqVSTRenrMYT1HGSSYf0g.JPEG%2FIj7--M7yhF0_69wBxtWDqQTzrzr0.jpg%3Ftype%3Dm4500_4500_fst%22&type=w540#540x360"
+		},
+		{
+			"title":"<b>바이오<\/b>가스플랜트발전시스템기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028173&cid=42117&categoryId=42117",
+			"description":" <b>바이오<\/b>가스발전플랜트의 각종 기계제어시스템을 설치한다. [수행<b>직무<\/b>] <b>바이오<\/b>가스로부터 전력을 생산하기 위해 <b>바이오<\/b>가스플랜트에 보일러, 터빈발전기, 콘트롤러 등을 설치한다. <b>바이오<\/b>가스의 생산 및 저장... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>데이터",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5741094&cid=40942&categoryId=31909",
+			"description":"<b>바이오<\/b>데이터는 여러 연구들을 통해 직원들의 <b>직무<\/b>태도나 행동, <b>직무<\/b>성과를 예측하는 것으로 밝혀져 직원선발 도구의 하나로 활용되고 있다. 기업은 자신이 원하는 <b>직무<\/b>태도나 <b>직무<\/b>성과를 내는 직원들과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노<b>바이오<\/b>연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025180&cid=42117&categoryId=42117",
+			"description":" 생명체를 구성하는 <b>바이오<\/b> 물질을 나노미터 크기의 수준에서 조작·제어하고 연구·분석한다. [수행<b>직무<\/b>] 단백질칩, DNA칩, 랩온어칩(Lab on a Chip:<b>바이오<\/b>칩의 일종으로 손톱만 한 크기의 칩 하나로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>에너지연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025820&cid=42117&categoryId=42117",
+			"description":" <b>바이오<\/b>매스(동식물성 자원 및 그 파생 물질)로부터 열화학적 또는 생물학적 기술에 의한 에너지 및 연료(메탄, <b>바이오<\/b>디젤, <b>바이오<\/b>에탄올, 수소, 합성가스 등)의 생산 기술을 연구·개발한다. [수행<b>직무<\/b>] 동... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>농약제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658773&cid=42117&categoryId=42117",
+			"description":" 발효, 배양, 추출, 정제, 제형화 등을 통해 <b>바이오<\/b>농약을 제조한다. [수행<b>직무<\/b>] 작업지시서에 따라 유효미생물을 준비한다. 제품에 따라 냉동된 미생물을 해동하여 플라스크에 배지를 넣어 배양하기도 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"해양<b>바이오<\/b>에너지연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025253&cid=42117&categoryId=42117",
+			"description":" 해양자원을 활용한 해양<b>바이오<\/b>에너지의 개발 및 생산에 관해 연구한다. [수행<b>직무<\/b>] 해양자원인 우뭇가사리, 구멍파갈래 등 해조류를 포함한 해양생명을 정제·발효하여 생산하는 <b>바이오<\/b>에너지(해조류... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>플라스틱연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658733&cid=42117&categoryId=42117",
+			"description":" 미생물과 이산화탄소로 분해되는 생분해성 플라스틱이나 식물자원을 원료로 한 <b>바이오<\/b>매스 플라스틱을 연구·개발한다. [수행<b>직무<\/b>] 다양한 작물계, 목질계, 해조류 등을 대상으로 분해가 되는 고분자와... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>화학제품제조기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900723&cid=42114&categoryId=42114",
+			"description":" <b>바이오<\/b>화학제품제조기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>바이오<\/b>화학제품제조기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자는 필기시험과 실기시험을 통과해야 한다.... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191954224_AH1T3AS4K.jpg\/da6_906_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>가스플랜트유지관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027466&cid=42117&categoryId=42117",
+			"description":" <b>바이오<\/b>가스를 이용해 전력을 생산하는 <b>바이오<\/b>가스 플랜트의 각종 시설과 설비를 유지·관리한다. [수행<b>직무<\/b>] 간이소각기, 탈취분사 시설, 전력생산시설, 외곽헤더관 등 <b>바이오<\/b>가스를 이용해 전력을 생산하기... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>세라믹재료가공원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658772&cid=42117&categoryId=42117",
+			"description":" 연마, 기계가공, CNC가공 등의 작업을 수행하여 <b>바이오<\/b>세라믹 재료를 만든다. [수행<b>직무<\/b>] 작업표준서, 도면 및 제조지시서에 따라 작업순서를 확인하고 가공작업 방법, 측정 및 수정방법을 결정한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>의약품배지제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027582&cid=42117&categoryId=42117",
+			"description":" <b>바이오<\/b>의약품 생산을 위해 미생물이나 세포를 배양하기 위해 영양공급원인 배지를 제조한다. [수행<b>직무<\/b>] 제조지시서에 따라 제조할 배지의 종류에 따른 정량의 원·부자재를 준비한다. 교반기 내부를 살균하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>가스플랜트설계기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1028174&cid=42117&categoryId=42117",
+			"description":" <b>바이오<\/b>가스발전플랜트의 각종 기계제어시스템을 설계하고 개발한다. [수행<b>직무<\/b>] 저류조, 혐기소화조, 가스저장조, 토양악취저감시스템, 열병합발전시스템 등 <b>바이오<\/b>가스플랜트시설의 시스템을 연구하고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>세라믹재료성형원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658771&cid=42117&categoryId=42117",
+			"description":" 사출, 프레스, 슬립캐스팅, 냉간정수압성형(CIP) 등의 공정을 수행하여 <b>바이오<\/b>세라믹재료를 성형한다. [수행<b>직무<\/b>] 작업 방법에 따라 사출성형 공정(점성을 가진 원료를 희망하는 형상을 가진 틀 안에 압력을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>세라믹재료시험원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658769&cid=42117&categoryId=42117",
+			"description":" <b>바이오<\/b>세라믹재료의 적절한 제조·판매를 위해 물리, 화학, 생물학적 안정성 및 성능을 시험한다. [수행<b>직무<\/b>] 생체재료의 제조 및 품질관리기준(GMP:Good Manufacturing Practice, 의료기기, 의약품 및 화장품 등의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>세라믹재료포장원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658766&cid=42117&categoryId=42117",
+			"description":" 생체재료를 제시된 유효기간 내에 안전하게 보존하기 위한 세척, 포장, 라벨링, 멸균, 클린룸 관리 업무를 수행한다. [수행<b>직무<\/b>] 생체재료의 종류에 따라 세척방법을 확인한다. 세척제의 종류, 양, 비율... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>세라믹재료합성원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658764&cid=42117&categoryId=42117",
+			"description":" 생체재료의 적절한 제조를 위해 필요한 원료분말을 선정하고, 분말특성 확인, 분쇄, 과립화 및 혼합·안료배합을 한다. [수행<b>직무<\/b>] 제품 생산에 필요한 원료(지르코니아, 알루미나, 용매 등)의 적합 유무를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>화학제품제조산업기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5900720&cid=42114&categoryId=42114",
+			"description":" <b>바이오<\/b>화학제품제조산업기사란 응시자격을 갖춘 자가 산업인력공단에서 시행하는 <b>바이오<\/b>화학제품제조산업기사 시험에 합격하여 그 자격을 취득한 자를 말한다. 응시자격에는 제한이 있다. 응시자는... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20200326191952601_RYAOUUVSU.jpg\/da6_907_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"<b>바이오<\/b>세라믹재료소결원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658770&cid=42117&categoryId=42117",
+			"description":" 세라믹 분말 성형체를 열처리하여 제품에 필요한 기계적 특성을 부여하는 소결체 공정을 수행한다. [수행<b>직무<\/b>] 소결로(상압소결로, 가압소결로, 분위기소결로, 진공소결로), 성형품 운반대차, 소결로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>세라믹재료탈지원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658767&cid=42117&categoryId=42117",
+			"description":" 생체세라믹 재료의 제품 형상을 제조하기 위해 분말과 성형물에 존재하는 바인더를 제거하는 공정작업을 수행한다. [수행<b>직무<\/b>] 성형체에 존재하는 고분자 바인더 물질을 용매를 사용하여 제거하는... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>세라믹재료용융원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658768&cid=42117&categoryId=42117",
+			"description":" 결정화 유리의 적절한 제조를 위해 배치설계(원재료 조성에 따른 용융재료 조성을 배합), 용융성형, 결정화 열처리 공정을 수행한다. [수행<b>직무<\/b>] 원재료의 조성에 따라 산술적 근사법, 모의 방정식 및... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>의약품완충액제조원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658762&cid=42117&categoryId=42117",
+			"description":" <b>바이오<\/b>의약품 생산을 위해 세포 등 배양액으로부터 치료단백질을 분리하기 위해 정제공정에 사용되는 완충액을 제조한다. [수행<b>직무<\/b>] 제조지시서에 따라 제조할 완충액(Buffer)의 종류에 따른 정량의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"<b>바이오<\/b>세라믹재료품질관리원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658765&cid=42117&categoryId=42117",
+			"description":" 수요자의 요구에 적합한 품질의 생체재료를 합리적으로 생산하기 위해 수입·공정·출하검사 및 밸리데이션업무를 수행한다. [수행<b>직무<\/b>] 고품질의 생체재료를 합리적으로 생산하기 위해 수입검사... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노공학기술자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026912&cid=42117&categoryId=42117",
+			"description":" 나노기술을 활용하여 전자(소자), <b>바이오<\/b>, 소재, 공장장비 및 측정기기 등의 개발, 개선, 시험 등에 적용한다. [수행<b>직무<\/b>] 나노미터(십억 분의 일) 단위의 조작을 통해 기존의 전자, <b>바이오<\/b>, 소재, 장비 및 기기에... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노화학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837691&cid=42117&categoryId=42117",
+			"description":" 나노미터 수준의 크기를 가지는 유기 및 무기합성 고분입자의 합성과 물성, 그리고 그 활용을 연구한다. [수행<b>직무<\/b>] 나노소재화학(Nanomaterials Chemistry)분야의 경우, 나노 크기의 소재를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"융합화학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837695&cid=42117&categoryId=42117",
+			"description":" 화학과 인접학문과의 경계에서 도출된 새로운 지식을 기반으로 다양한 응용분야에 대한 분자과학적인 기초지식과 원천기술을 연구·개발한다. [수행<b>직무<\/b>] 환경화학(Environmental Chemistry)분야의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"매립가스정제원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027464&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 매립가스(Landfill Gas) 플랜트의 포집설비를 이용해 수집된 <b>바이오<\/b>가스(메탄, 이산화탄소, 질소, 암모니아, 일산화탄소, 황화수소 등)에서 메탄가스를 추출하기 위해 전처리설비와 정제설비를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노기반기술연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026913&cid=42117&categoryId=42117",
+			"description":"소재, 소자, <b>바이오<\/b>기술 등 각종 다른 산업과의 융합기술에 대해 연구·개발한다. 나노구조 물질의 생산 및 나노구조물질과 나노복합재료의 제조, 복잡한 규모의 나노구조물질의 제조 등 단계별 연구를 한다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노소재연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1026915&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 생활용품, 환경 관련 제품, <b>바이오<\/b>분야 등 각종 분야에 사용되는 탄소나노튜브(CNT), 은나노, 광촉매, 고강도·초경량 소재, 연료전지 소재, 각종 촉매물질, 의학용 소재 등을 연구·개발한다. 기타... ",
+			"thumbnail":""
+		},
+		{
+			"title":"매립가스발전장치조작원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027463&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 제어패널에 수치를 입력해 전처리과정을 거쳐 정제된 <b>바이오<\/b>가스를 보일러에 공급하고 스팀터빈기를 가동한다. 발전기를 가동해 전력을 생산하고 생산된 전력을 송전설비로 보내기 위해... ",
+			"thumbnail":""
+		},
+		{
+			"title":"센서개발자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5953354&cid=42117&categoryId=42117",
+			"description":"열, 빛, 습기, 압력 등을 가하였을 때 발생하는 물리적·화학적 특성 등을 연구하여 온도센서, 습도센서, 초음파센서, 가속도센서, 적외선센서, <b>바이오<\/b>센서, 이미지센서 등을 개발한다. 인텔리전트센서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"신재생에너지사업관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1024363&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] 태양광, 태양열, <b>바이오<\/b>, 풍력, (소)수력, 해양, 폐기물, 지열, 연료전지, 석탄액화가스화 및 중질잔사유가스화, 수소에너지 등의 신·재생에너지를 이용한 발전소를 개발 및 운영하여 생산한 전기를... ",
+			"thumbnail":""
+		},
+		{
+			"title":"매립가스포집원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1027465&cid=42117&categoryId=42117",
+			"description":"침출수분리시설을 이용해 매립가스 내 침출수를 분리한다. 가스 포집률을 높이기 위해 가스정과 포집스테이션의 모니터링과 제어를 한다. 포집된 <b>바이오<\/b>가스를 전기 생산을 위한 보일러로 이송한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"생명과학연구관리자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6627254&cid=42117&categoryId=42117",
+			"description":"[수행<b>직무<\/b>] DNA 조작을 통해 신물질 탐색 실험을 하거나, 실험동물의 체세포나 혈액을 분리 및 조작 실험을 통해 새로운 생물의약품, 생물화학제품, <b>바이오<\/b>식품 등의 신제품 개발 업무를 관리한다. 진행 중인... ",
+			"thumbnail":""
+		},
+		{
+			"title":"곤충연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025175&cid=42117&categoryId=42117",
+			"description":"새로운 농업작목을 구축하기 위한 연구를 한다. 곤충단백질의 <b>바이오<\/b>소재 개발 및 곤충산물의 신소재 개발을 위한 소재응용연구를 한다. 그 외에 연구원(일반)이 수행하는 일반적인 업무를 수행한다.",
+			"thumbnail":""
+		},
+		{
+			"title":"한국폴리텍대학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1346968&cid=40942&categoryId=34668",
+			"description":"재직자 <b>직무<\/b>능력향상 훈련 등을 실시하는 실무중심의 직업중심대학 전국 8개 대학(35개 캠퍼스)로... 한국폴리텍특성화대학(<b>바이오<\/b>캠퍼스, 섬유패션캠퍼스, 항공캠퍼스, 신기술교육원) 등 8개 대학(35개... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2765_000_1\/20220630065938864_8RLPTJA2A.jpg\/8671296.jpg?type=m160_160"
+		},
+		{
+			"title":"한국폴리텍대학",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%ED%8F%B4%EB%A6%AC%ED%85%8D%EB%8C%80%ED%95%99",
+			"description":"학위과정 이외에도 직업능력개발을 위한 기능사과정, 산업체 근로자를 위한 재직자<b>직무<\/b>능력향상훈련, 취약계층을 위한 실업자훈련 등을 운영하고 있다. 운영 주체는 학교법인 한국폴리텍이며... ",
+			"thumbnail":""
+		},
+		{
+			"title":"약학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025213&cid=42117&categoryId=42117",
+			"description":" 생물체의 기관, 조직 및 생명작용에 영향을 미치는 의약품 및 기타 물질의 효과를 연구하여 의약품을 연구·개발한다. [수행<b>직무<\/b>] 실험용 동물을 이용하여 혈액순환, 호흡, 소화 및 기타 생명작용과정 등 기관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"단백질의약품연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025184&cid=42117&categoryId=42117",
+			"description":" 단백질의약품을 개발하기 위해 치료 후보물질의 치료효과를 발굴하고 치료단백질을 생산하기 위해 세포주를 개발하고 구축한다. [수행<b>직무<\/b>] 단백질의약품을 개발하기 위해 사람이나 다른 생물체에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"수산공학연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025206&cid=42117&categoryId=42117",
+			"description":" 어업기술, 어구, 양식시설 및 어장시설 등을 공학적으로 연구하고 관련 장비나 시설 등을 개발한다. [수행<b>직무<\/b>] 연구대상 어류를 선정한다. 문헌조사나 사례조사를 통해 연구·개발계획을 수립한다. 모형을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"농업환경생태연구원",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3658807&cid=42117&categoryId=42117",
+			"description":" 각종 환경오염 및 기후변화로부터 농업환경 및 생태계를 보전하기 위한 연구를 한다. [수행<b>직무<\/b>] 토양과 농작물에 대한 유해물질조사 및 안전기준을 설정한다. 각종 유해물질에 대한 농작물 피해분석을 통한... ",
+			"thumbnail":""
+		},
+		{
+			"title":"민지연",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AF%BC%EC%A7%80%EC%97%B0",
+			"description":"주요 경력 2006 미스코리아 서울 美 학력 한국과기대 <b>바이오<\/b>시스템학과(부전공: 산업디자인학)... 의전행정비서관 <b>직무<\/b>대리(2012년 6월 15일 ~ 2012년 8월 29일) 대경대 모델학과 겸임교수(2013년 8월... ",
+			"thumbnail":""
+		},
+		{
+			"title":"부산광역시 과학교육원 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2822249&cid=55785&categoryId=56540",
+			"description":"[정의] 부산광역시 연제구 연산동에 있는 과학 교육 지원 기관. [설립 목적] 부산광역시 과학교육원은 미래 사회를 선도하는 창의 인재 육성과 초·중·고등학교 과학 기술 교육의 내실화를 위해 학생... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718044618357_YMRANOV97.jpg\/GC042P10303.jpg?type=m160_160"
+		},
+		{
+			"title":"국립식량과학원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%EC%8B%9D%EB%9F%89%EA%B3%BC%ED%95%99%EC%9B%90",
+			"description":"식량작물·사료작물·풋거름작물·<b>바이오<\/b>에너지작물 등의 품종개량, 재배법개선, 생산 환경 및... <b>직무<\/b> 시험연구사업, 예산·성과관리, 대외협력 및 홍보의 계획 및 조정 보안, 관인관수, 인사, 급여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립축산과학원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%EC%B6%95%EC%82%B0%EA%B3%BC%ED%95%99%EC%9B%90",
+			"description":"<b>직무<\/b> 동물생명공학을 이용한 <b>바이오<\/b> 신소재 개발 동물유전자원의 다양성 확보 및 고부가가치 축산물 개발 기후변화대응 미래 축산기술 개발 축산물의 안정생산기술 개발 축산물의 경쟁력 제고... ",
+			"thumbnail":""
+		},
+		{
+			"title":"나노 공학자",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6471907&cid=40942&categoryId=32391",
+			"description":"나노기술을 연구하고 실현시키는 나노 공학자의 주된 <b>직무<\/b>는 기존에 사용하는 각종 제품에 나노기술을 적용하여 효용성을 높이는 것이다. 나노 소재 기술 및 인간 유전체 기능 연구, 생체 기능 조절 물질... ",
+			"thumbnail":""
+		},
+		{
+			"title":"제약공학과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917810&cid=44346&categoryId=44346",
+			"description":"[학과개요] 제약공학은 기존의 화학합성 의약품뿐만 아니라 생물의약품, 향장품 및 건강식품과 연관된 제약산업, 화장품산업, 건강식품산업의 발전 및 인류복지에 기여할 수 있는 학문 분야입니다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화공기술사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054196&cid=42114&categoryId=42114",
+			"description":"산업, <b>바이오<\/b>산업, 의료산업, 식량산업 등으로 확대되고 있다. ② 화학공업의 발전을 위한 제반환경을 조성하기 위해 공학적인 이론을 바탕으로 산업현장에서 <b>직무<\/b>를 수행할 수 있는 전문지식과... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716204049381_Y3DN1GFPL.jpg\/da6_610_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"김천생명과학고등학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=658397&cid=46615&categoryId=46615",
+			"description":"수상 및 1996년 학교기관종합평가 최우수교로 선정되어 표창받은 바 있다. 2006년에는 경상북도 교육청 고시 제2006-6호에 의거 특성화 고등학교로 지정(<b>바이오<\/b>식품가공과, 농업유통정보과) 되었고,",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2644_000_9\/20180910194053200_M10LRI0HS.jpg\/2b83ff46-5f3a-44.jpg?type=m160_160"
+		},
+		{
+			"title":"대구테크노파크",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%EA%B5%AC%ED%85%8C%ED%81%AC%EB%85%B8%ED%8C%8C%ED%81%AC",
+			"description":"모바일융합센터 <b>바이오<\/b>헬스융합센터 한방산업지원센터 경북대학교센터 계명대학교센터... 경찰은 그러나 이들 가운데 해외 골프여행에 동반했던 대통령직인수위원회 관계자 이모(39)씨에 대해 &quot;<b>직무<\/b>관... ",
+			"thumbnail":""
+		},
+		{
+			"title":"황영기",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%99%A9%EC%98%81%EA%B8%B0",
+			"description":"01 ~ 2012 차<b>바이오<\/b>앤디오스텍 대표이사 회장 2012.08 ~ 2015.01 법무법인 세종 고문 2015.02 ~ 2018.02... 이유로 '<b>직무<\/b>정지 상당의 징계'를 확정했다. 황영기는 9월 23일에 KB금융지주 회장 자리에 대하여... ",
+			"thumbnail":""
+		},
+		{
+			"title":"과정평가형 자격 제도",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3433882&cid=42114&categoryId=42114",
+			"description":"(국가<b>직무<\/b>능력표준) 기반으로 설계된 교육훈련과정을 체계적으로 이수하고 내부 및 외부 평가를... ② NCS(National Competency Standards)란 산업현장에서 <b>직무<\/b>를 성공적으로 수행하기 위해 요구되는 지식... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20160825171103864_WZ62VI0FG.jpg\/da6_796_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"신재생에너지발전설비기능사(태양광)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2456538&cid=42114&categoryId=42114",
+			"description":"보수하는 <b>직무<\/b>이다. (2) 주요 업무 ① 신재생에너지발전설비 기능사(태양광)는 신재생에너지 발전소나 모든 건물 및 시설의 신재생에너지발전시스템 설계 및 인허가, 신재생에너지발전설비 시공 및 감독... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20170712203700334_QEVOOAWRR.jpg\/da6_731_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"벤처 기업 지원 사업 (부산)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2824189&cid=55772&categoryId=55810",
+			"description":"[정의] 부산광역시가 시행하는 벤처 기업 육성 정책. [부산광역시의 벤처 기업 현황] 부산은 중소 벤처 기업이 대부분을 차지하는 기업 구조를 보여 주고 있다. 따라서 부산 경제는 국내외적으로... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/3764_000_4\/20150718114737023_DHFYSIHL3.jpg\/GC042P23584.jpg?type=m160_160"
+		},
+		{
+			"title":"국가기술표준원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EA%B0%80%EA%B8%B0%EC%88%A0%ED%91%9C%EC%A4%80%EC%9B%90",
+			"description":"<b>직무<\/b> 국가표준 정책 및 산업표준화 정책의 수립·운영, 국가표준제도 확립의 지원 제품의... 기계융합산업표준과 <b>바이오<\/b>화학서비스표준과 제품안전정책과 제품시장관리과 제품안전정보과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국폴리텍대학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=870759&cid=43142&categoryId=43142",
+			"description":" 전문 직업인을 양성하는 고용노동부 산하의 국책특수대학으로, 전국 8개 대학 35개 캠퍼스로 이루어져 있다.  한국폴리텍대학의 설립근거는 「근로자직업능력개발법」 제39조(기능대학의 설립) &quot;국가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2351_000_1\/20111222183729837_ZIXZ2ELH5.jpg\/749.jpg?type=m160_160"
+		},
+		{
+			"title":"신재생에너지발전설비산업기사(태양광)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2456537&cid=42114&categoryId=42114",
+			"description":"시설등의 기획, 설계, 시공, 운영, 유지 및 보수와 관련된 복합적인 기초기술 및 기능업무를 수행하는 <b>직무<\/b>를 한다. (2) 주요 업무 ① 신재생에너지발전설비산업기사(태양광)는 신재생에너지 발전소나 모든",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20170713195327970_Q0JHPM7SO.jpg\/da6_730_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"자연과학교수",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1837685&cid=42117&categoryId=42117",
+			"description":" 대학에서 자연과학 분야의 전문가를 양성하기 위해 물리학, 수학, 화학, 생명과학, 지구과학, 환경학 등에 대한 이론과 지식을 강의하고 관련 학문을 연구한다. [수행<b>직무<\/b>] 대학에서 대학생들을 대상으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립정신건강센터",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%EC%A0%95%EC%8B%A0%EA%B1%B4%EA%B0%95%EC%84%BC%ED%84%B0",
+			"description":"<b>직무<\/b> 정신질환 예방 및 진료 정신질환 진료 관련 조사 연구, 지표 및 표준 개발·보급 국가... 이번 협약은 국립정신건강연구원, 의료행정타운, 의료<b>바이오<\/b>비즈니스센터로 구성된... ",
+			"thumbnail":""
+		},
+		{
+			"title":"지자체-대학 협력기반 지역혁신",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6605134&cid=69317&categoryId=69317",
+			"description":" 지자체, 대학, 다양한 지역혁신기관이 플랫폼을 구축하고, 지역별 여건에 맞는 '지역혁신모델'을 자율적으로 개발·운영하는 것을 지원하는 사업이다. [ 1. 지자체-대학 협력기반 지역혁신(RIS)이란]... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5971_000_1\/20220503161148043_FCE9E6V48.jpg\/bd4_98_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"인재양성 정책 혁신방안",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6605137&cid=69317&categoryId=69317",
+			"description":" 산업구조 변화에 대응하고 청년인재의 성장을 적극적으로 지원하기 위한 재정지원, 제도개선, 범부처 협력체계 구축과 관련된 과제를 담은 정책 방안이다. [ 1. 인재양성 정책 혁신방안이란?] 산업구조... ",
+			"thumbnail":""
+		},
+		{
+			"title":"한국폴리텍Ⅵ대학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=871176&cid=43142&categoryId=43142",
+			"description":" 한국폴리텍대학 대구캠퍼스, 구미캠퍼스, 남대구캠퍼스, 포항캠퍼스, 영주캠퍼스, 영남융합기술캠퍼스 등 6곳의 캠퍼스로 구성된 국책특수대학.  한국폴리텍Ⅵ대학은 대구캠퍼스, 구미캠퍼스, 남대구캠퍼스... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2351_000_1\/20150615104705246_8SPC7RGR7.jpg\/1167.jpg?type=m160_160"
+		},
+		{
+			"title":"경상국립대학교 (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2631517&cid=51942&categoryId=54810",
+			"description":"1980년 3월 1일 종합대학으로 승격하였고, 2015년 12월 16일 총장 <b>직무<\/b>대리 정병훈 교수가 총장직을 수행하고 있다. 2021년 3월 경남과학기술대학교와 통합되면서 경상국립대학교로 명칭이 변경되었다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"생물공학기사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054031&cid=42114&categoryId=42114",
+			"description":"[ 1. 기본정보] (1) 자격분류 : 국가기술자격증 (2) 시행기관 : 한국산업인력공단 (3) 응시자격 : 제한 있음 (4) 홈페이지 : www.Q-net.or.kr [ 2. 자격정보] (1) 자격 개요 ① 생물공학은 의약, 화학, 환경, 식품, 에너지... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203502481_EWMMRVAZ6.jpg\/da6_445_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"한국국제대학교 (진주)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2632640&cid=51942&categoryId=54810",
+			"description":"[정의] 경상남도 진주시 문산읍 상문리에 있는 사립 종합대학교. [교육목표\/교훈] 교육(敎育)과 선교(宣敎)를 건학이념으로, 성실(誠實)·창의(創意)·봉사(奉仕)의 교육이념을 바탕으로 하여 학문과... ",
+			"thumbnail":""
+		},
+		{
+			"title":"원광대학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9B%90%EA%B4%91%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"빅데이터금융통계학부 <b>바이오<\/b>나노화학부 반도체·디스플레이학부 생명과학부 스포츠과학부... 학교기업 원광테크노마켓은 대학의 국가<b>직무<\/b>능력(NCS)에 기반한 학생들의 취·창업 역량와 Self Marketing 능력... ",
+			"thumbnail":""
+		},
+		{
+			"title":"마이클 비숍",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5894384&cid=61232&categoryId=61232",
+			"description":"마이클 비숍 (출처: WIKIMEDIA) [목차] 1.<b>바이오<\/b>그래피 2.핵심 연구 3.수상 경력 및 저서 4.관련용어 5.집필 6.감수 7.참고문헌 [ <b>바이오<\/b>그래피 ] 존 마이클 비숍은 1936년 2월 22일에 루터교 목사의 아들",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5282_000_1\/20191220144711953_CSIA1Y8PX.jpg\/Nci-vol-8172-300.jpg?type=m160_160"
+		},
+		{
+			"title":"생물분류기사(식물)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1054033&cid=42114&categoryId=42114",
+			"description":"기술이고, <b>바이오<\/b>공학기술은 식량문제를 해결하고, 신약을 개발하는 등 삶의 질을 변화시킬 수 있는 미래의 주목받는 산업이다. ② 지구온난화 및 오존층 파괴 등으로 인하여 지구생태계가 위협받고... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2147_000_1\/20120716203504745_H42ENN9Z8.jpg\/da6_447_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"국가지식재산위원회",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EA%B0%80%EC%A7%80%EC%8B%9D%EC%9E%AC%EC%82%B0%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"T\/F, <b>직무<\/b>발명보상제도 활성화 관계기관 합동 T\/F 구성 2013년 4월 19일 - 지식재산 가치평가 및... 결과', '<b>바이오<\/b>산업 분야 IP 쟁점 및 개선방향(안)', '<b>바이오<\/b>산업 IP 특별전문위원회 구성·운영 계획(안)... ",
+			"thumbnail":""
+		},
+		{
+			"title":"화학공업과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=917925&cid=44346&categoryId=44346",
+			"description":"[학과특성] 화학공업과는 화학공정 운전원으로서 공정관리, 공정안전, 유지보수기술, 설비정보를 이용하여 예방정비, 일반정비, 기기의 수명예측을 하는 <b>직무<\/b>능력을 습득할 수 있습니다. 또한 석유제품... ",
+			"thumbnail":""
+		},
+		{
+			"title":"국립농업과학원",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B5%AD%EB%A6%BD%EB%86%8D%EC%97%85%EA%B3%BC%ED%95%99%EC%9B%90",
+			"description":"<b>직무<\/b> 시험연구사업, 예산·성과관리, 대외협력 및 홍보의 계획 및 조정 보안, 관인관수, 인사, 급여... 내병충성 <b>바이오<\/b> 신작물 개발 농용 미생물 관련 고부가가치 신기능성 소재개발 연구 유전자 변형... ",
+			"thumbnail":""
+		},
+		{
+			"title":"의사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3578815&cid=58886&categoryId=58886",
+			"description":"[ 한국 의료의 중추적인 역할을 하는 전문 직업인 ] 의사는 ‘의술과 약으로 병을 치료·진찰하는 것을 직업으로 삼는 사람’이라고 국어사전에 정의하고 있다. 현행 의료법에서 의사의 임무는 ‘의료와... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118180858471_5WNX70ZZR.jpg\/01_435.jpg?type=m160_160"
+		},
+		{
+			"title":"기술영업원(일반)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=1025931&cid=42117&categoryId=42117",
+			"description":" 산업용장비, 정보통신장비, 그 외의 부품이나 제품, 설비의 사용법이나 보수(A\/S) 등 기술에 관한 전문적 지식을 활용하여 기계나 장비, 설비 등을 판매하고 고객에게 기술적인 지도를 수행한다. [수행<b>직무<\/b>] 기존... ",
+			"thumbnail":""
+		},
+		{
+			"title":"이승만 탄핵과 임정 지도체제의 개편",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2829607&cid=62049&categoryId=62049&anchorTarget=TABLE_OF_CONTENT7#TABLE_OF_CONTENT7",
+			"description":"이승만은 외교를 구실로 하여 <b>직무<\/b>지를 마음대로 떠나 있은 지 5년에, 바다 멀리 한쪽에 혼자 떨어져... 못할 <b>바이오<\/b> 살아 있는 충용의 소망이 아니라. 고로 주문과 같이 심판함.(『대한민국임시정부공보』... ",
+			"thumbnail":""
+		},
+		{
+			"title":"스트레스의학",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2117554&cid=44416&categoryId=44416",
+			"description":"개념 및 정의] 직장인들은 복잡한 사회생활을 하는 동안 각종 업무로 인한 <b>직무<\/b>스트레스를 느낀다고 호소한다. 또한 입시 시험을 앞두고 압박감을 느끼는 수험생의 스트레스도 적지 않다. 가정생활에서... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2906_000_1\/20140702173905333_RTPHJ1OVG.jpg\/z8_term191_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"인제대학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9D%B8%EC%A0%9C%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"및 <b>바이오<\/b>텍 빌리지 기공식 (제 2공학관 : 지하2층, 지상 7층, 연면적 3,138평 \/ <b>바이오<\/b>텍 빌리지 : 지하 2층, 지상 11층, 연면적 3,450평) 2005년 2월 : 기초대학 신설 2006년 3월 : 2007학년도 모집단위... ",
+			"thumbnail":""
+		},
+		{
+			"title":"유한대학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9C%A0%ED%95%9C%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"유한생명<b>바이오<\/b>학과, 의료뷰티학과가 신설되었으며 총 4개의 계열, 6개의 학부, 34개의 학과가... 05\/01 <b>직무<\/b>위탁교육 운영기관 선정 04\/01 시니어 기술창업스쿨 지원사업 선정 2016년 12\/05 학사학위... ",
+			"thumbnail":""
+		},
+		{
+			"title":"뷰티미용학과",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=5682576&cid=44346&categoryId=44346",
+			"description":"뷰티미용학과는 헤어, 피부미용, 특수분장 및 메이크업, 네일 아티스트 등 다양한 <b>직무<\/b> 분야에서 활약할 수 있는 뷰티 전문가 양성을 교육목표로 두고 있습니다. [학과특성] 뷰티산업의 발전에 따라 뷰티산업의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"2006년 7월",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/2006%EB%85%84_7%EC%9B%94",
+			"description":"KBS 노조는 6월 30일로 공식 임기가 끝났지만 후임자가 선임되지 않아 방송법에 따라 <b>직무<\/b>를... 대한민국 정부는 <b>바이오<\/b>디젤 5% 혼합한 경유 판매를 의무화하기로 하였다. 2006년 축구 월드컵, 8강전... ",
+			"thumbnail":""
+		},
+		{
+			"title":"임창열",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%9E%84%EC%B0%BD%EC%97%B4",
+			"description":"알앤엘<b>바이오<\/b> 회장 2006 열린우리당 상임위원 2007 세종대학교 경영학과 전임강사 2007 대통합민주신당 상임고문 2010 알엔엘<b>바이오<\/b> 고문 2011 경기일보 대표이사 회장 2012.04 ㈔경기언론인클럽... ",
+			"thumbnail":""
+		},
+		{
+			"title":"대한민국 보건복지부",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%B3%B4%EA%B1%B4%EB%B3%B5%EC%A7%80%EB%B6%80",
+			"description":"첨단<b>바이오<\/b>의약품 심의위원회 사무국 장관의 관장 사무를 지원하는 책임운영기관 국립정신건강센터, 국립나주병원, 국립부곡병원, 국립춘천병원, 국립공주병원, 국립재활원 소속 자문위원회 정원... ",
+			"thumbnail":""
+		},
+		{
+			"title":"그린 잡",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3577643&cid=58886&categoryId=58886",
+			"description":"끊임없이 동기를 부여하고 <b>직무<\/b>에 대한 만족도를 높일 수 있는 것이 그린 잡의 가장 큰 장점이다. 독일 바이에른주 한 도시에서 태양전지판 설치전문가 들이 설치 작업",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/4749_000_1\/20170118173318045_T1DTMYPOY.jpg\/a01_134.jpg?type=m160_160"
+		},
+		{
+			"title":"한국방송통신대학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"농업생명과학과, <b>바이오<\/b>정보학과, 환경보건시스템학과, 청소년교육학과) 2011년 8월 31일... 총장<b>직무<\/b>대리 체제 시행 2016년 1월 18일 서울지역대학 서부학습센터가 서울 은평구 대조동의... ",
+			"thumbnail":""
+		},
+		{
+			"title":"심리요법",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%8B%AC%EB%A6%AC%EC%9A%94%EB%B2%95",
+			"description":"돕는 <b>직무<\/b>를 말한다. 교육 현재 심리 치료자들은 매우 다양한 치료 방법을 사용한다. 정서적 지지, 설득, 조건 형성 절차, 이완 훈련, 역할 연기, 약물 치료, <b>바이오<\/b>피드백, 집단 치료... ",
+			"thumbnail":""
+		},
+		{
+			"title":"주아부(한글 번역문)",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=3406953&cid=62144&categoryId=62248",
+			"description":"&#60;오나라와 초나라, 7국의 난과 주아부의 공로&#62; 조후 주아부가 하내군수일 때 허부(許負)가 그의 관상을 보고는 “그대는 3년 뒤 후작을 받을 것이고, 후작이 된 뒤 8년 뒤 장상이 되어 나라의 대권을 쥐게 되어 그... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2666_000_1\/20130716124458559_GX3PT22YU.jpg\/ha21_134_i2.jpg?type=m160_160"
+		},
+		{
+			"title":"강릉원주대학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B0%95%EB%A6%89%EC%9B%90%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"해양 <b>바이오<\/b> 산업에 특화된 강릉원주대학교는 별도의 사업단을 설립하여 전문적으로 사업을... 2017년 기준으로, 사회과학대학의 반선섭 박사가 총장 <b>직무<\/b>를 수행중이며, 임기는 2020년까지 유지된다.... ",
+			"thumbnail":""
+		},
+		{
+			"title":"영화 미술의 역사",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2275855&cid=42219&categoryId=51200",
+			"description":"[영화 미술] 영화라는 매체에는 내러티브를 구성하기 위해 필연적으로 ‘인물’과 ‘공간’이 존재한다. 영화의 주제에 따라 인물과 공간을 시각적으로 구현하기 위해 특정한 시각화 단계가... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/2157_000_1\/20141113212409146_DNHN6A8YE.jpg\/m195_4_i1.jpg?type=m160_160"
+		},
+		{
+			"title":"기술정책",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2165006&cid=44418&categoryId=44418",
+			"description":"[ 1. 개념 및 정의] 기술정책(技術政策, technology policy)은 기술혁신(技術革新, technological innovation)과 기술수준의 제고를 위하여 정부가 행하는 일련의 정책들을 지칭한다. 기술정책은... ",
+			"thumbnail":""
+		},
+		{
+			"title":"무급노동",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%AC%B4%EA%B8%89%EB%85%B8%EB%8F%99",
+			"description":"돌보면서 <b>직무<\/b> 경력을 쌓으려는 여성들의 끊임없는 투쟁이다. 여성들은 시간과 돈을 어디에 투자할지... 더불어, <b>바이오<\/b> 가스 생산에 투자하는 것은 실내 공기 오염 감소로 이어진다는 점에서 대안이 될 수... ",
+			"thumbnail":""
+		},
+		{
+			"title":"고려대학교 세종캠퍼스",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90_%EC%84%B8%EC%A2%85%EC%BA%A0%ED%8D%BC%EC%8A%A4",
+			"description":"서창부총장 <b>직무<\/b>대리 전병훈 교수 취임 (6\/21) 1994년 9월 1일 : 서창부총장에 김해천 교수 취임... 건강<b>바이오<\/b>식품사업단 신설 2009년 12월 16일 : 세종교양교육원 설치 2010년 1월 1일 : 종합인력개발센터... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세계무역기구",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%B8%EA%B3%84%EB%AC%B4%EC%97%AD%EA%B8%B0%EA%B5%AC",
+			"description":"대신하여 <b>직무<\/b>를 행할 권리가 있다. 이사회는 세계무역기구의 모든 사무를 각료회의를 대신하여... 협정인, &quot;<b>바이오<\/b> 안전성에 관한 카르타헤나 의정서&quot; 역시 위험에 빠질 우려가 있다. 연혁 1986년~1994년... ",
+			"thumbnail":""
+		},
+		{
+			"title":"세종대학교",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%84%B8%EC%A2%85%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"2012년 <b>바이오<\/b>자원공학전공, 정보보호학과, 자유전공학부, 국방시스템공학과, 2013년... 해외<b>직무<\/b>체험방문학생 세종대학교 해외<b>직무<\/b>체험방문학생 프로그램은 <b>직무<\/b>관련 수업 및 교육 후 세계기업 현장에서... ",
+			"thumbnail":""
+		},
+		{
+			"title":"오세훈",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EC%98%A4%EC%84%B8%ED%9B%88",
+			"description":"서울특별시장으로서의 <b>직무<\/b>를 수행하기 시작했다. 창의 시정 2006년 7월 서울시 공무원이 업무수행... 서울 <b>바이오<\/b>펀드 조성 오세훈 시장은 민선 5기 핵심 공약으로 GRDP(지역내총생산) 4만불 달성을... ",
+			"thumbnail":""
+		},
+		{
+			"title":"시카고대학교",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=6209713&cid=67966&categoryId=67966",
+			"description":" 시카고대학교는 미국 일리노이주 시카고에 있는 사립 연구중심 종합대학교이다. 1890년에 설립된 이 학교의 주 캠퍼스는 시카고의 하이드파크 인근에 위치해 있다. 주요 대학평가기관들로부터 세계... ",
+			"thumbnail":"http:\/\/openapi-dbscthumb.phinf.naver.net\/5940_000_1\/20210122130903130_F0CZ9GT8O.jpg\/University+of+Ch.jpg?type=m160_160"
+		},
+		{
+			"title":"임시정부 리더십 문제로 어려움을 겪다",
+			"link":"https:\/\/terms.naver.com\/entry.naver?docId=2829607&cid=62049&categoryId=62049",
+			"description":"[인구세와 애국금의 모집] 임시정부의 존립과 활동을 위해 우선 해결해야 할 문제는 재정이었다. 임정은 창립 초기에는 상하이에 도착하는 주요 인물들이 가지고 온 자금이나 국내에서 전달해온 자금으로... ",
+			"thumbnail":""
+		},
+		{
+			"title":"브라질",
+			"link":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B8%8C%EB%9D%BC%EC%A7%88",
+			"description":"대통령의 <b>직무<\/b> 활동이 정지되었으며, 동년 8월 31일에 탄핵되었다. 이후 미셰우 테메르가 대통령으로... 사탕수수는 설탕의 원료가 될뿐만 아니라, <b>바이오<\/b> 에탄올로 정제하여 휘발유의 대체 연료로 사용하고... ",
+			"thumbnail":""
+		}
+	]
+}

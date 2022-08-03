@@ -1,0 +1,708 @@
+{
+	"lastBuildDate":"Thu, 28 Jul 2022 17:04:46 +0900",
+	"total":36293,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"<b>경비직무<\/b>교육 . 온라인 무료 교육 진행 도와드립니다.",
+			"link":"http:\/\/cafe.naver.com\/amoapt\/912751",
+			"description":"법정의무교육 및 <b>경비직무<\/b>교육 중대재해처벌법(22.01.27) 시행으로 <b>경비직무<\/b>교육이 강화되었습니다. 경비업법에 의거하여 매 월 4시간씩 수료하셔야 하는 교육. 경비업 특성 상 흩어져서 근무하시는 경우가 많아... ",
+			"cafename":"전국 아파트\/주상복합 관리자등의 모임...",
+			"cafeurl":"https:\/\/cafe.naver.com\/amoapt"
+		},
+		{
+			"title":"특정업무<b>경비<\/b>(<b>직무<\/b>수행경비) 지급 관련",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/273172",
+			"description":"- 다만, 파견근무자(근무조정 포함)도 특정업무<b>경비<\/b> 지급대상의 <b>직무<\/b>를 수행하는 경우에는 <b>경비<\/b>를 지급할 수 있으며 <b>경비<\/b>지급 기관은 직책급 업무수행<b>경비<\/b> 지급규정을 준용한다. 전입자의 경우에는 8월 특정업무<b>경비<\/b>를... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"경.지.사 자격증보유시 특수<b>경비직무<\/b>교육",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/43654",
+			"description":"특수<b>경비<\/b> 근무중입니다 경.지.사 자격증 보유하고있는데 <b>직무<\/b>교육받아야 하는지요??",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"아파트 <b>경비<\/b>원 모집",
+			"link":"http:\/\/cafe.naver.com\/glove\/7573906",
+			"description":"-구인 : 경비원 1명 모집 -근무형태 : 격일제 16시간 근무 -만 62세 이하 -<b>경비직무<\/b>교육 이수자 -22년 8월 1일부터 근무가능자 ☆지원방법 이.사.주 지참 방문 요망 -문의 상동벽산블루밍 관리사무실 T. 633-4264",
+			"cafename":"[거사모] 거제도 대표 카페 - 여행,펜...",
+			"cafeurl":"https:\/\/cafe.naver.com\/glove"
+		},
+		{
+			"title":"[여주일자리센터]중장년 계층을 위한 시설<b>경비 직무<\/b>프로그램 모집",
+			"link":"http:\/\/cafe.naver.com\/yeojumam\/133934",
+			"description":"평소 경비직으로 관심이 많으셨는데 경력이 없어서 망설이셨던 중장년분들은 시설<b>경비 직무<\/b>프로그램에 참가하시면 도움되실거에요 :) 이외에 궁금하신 사항은 주저하지마시고 전화주세요~ T. 031-887-2691~4",
+			"cafename":"헬로 여주맘",
+			"cafeurl":"https:\/\/cafe.naver.com\/yeojumam"
+		},
+		{
+			"title":"특정업무<b>경비<\/b>에 대해서 질문이 있습니다.",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/310522",
+			"description":"왜 금액이 다른건가요? 어떤 기준이 되는 것이 있었는지 궁금합니다. 그리고 위 담당외 다른<b>직무<\/b>로 특정업무<b>경비<\/b> 지급하는 시군사례나 특정업무<b>경비<\/b> 금액이 다른 시군사례가 있는지 궁금합니다.",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 <b>직무<\/b>교육 위임?사항",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/39733",
+			"description":"<b>직무<\/b>교육 :<b>경비<\/b>업자의 책임으로 선임된 <b>경비<\/b>지도사가 규정에 따라 계획을 수립하여 실시하고 선임된 <b>경비<\/b>지도사는 <b>직무<\/b>교육에 필요한 강의를 다음의 어느 하나에 해당하는 사람을 지정하여 수행하게 할 수 있다. 이 경우... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"아파트 <b>경비<\/b>원의 업무 (<b>경비<\/b>업무)",
+			"link":"http:\/\/cafe.naver.com\/gangnama5\/26911",
+			"description":"아파트 <b>경비<\/b>원의 업무(<b>직무<\/b>)는 <b>경비<\/b>업법과 공동주택관리법에 규정되어 있다고 합니다. <b>경비<\/b>원에게 <b>경비<\/b> 고유 <b>직무<\/b>외 다른 일을 시킬 수 없지만 아파트(공동주택)에선 몇 가지 추가 <b>직무<\/b>를 수행하도록 개정되었다고 합니다.... ",
+			"cafename":"강남 힐스테이트 입주자 모임",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangnama5"
+		},
+		{
+			"title":"<b>경비 직무<\/b>교육에 관하여..",
+			"link":"http:\/\/cafe.naver.com\/outsourcingis2\/7449",
+			"description":"매월 <b>경비 직무<\/b>교육을 실시하는데 매년 같은 내용으로 해도 되는건지 궁금합니다. 1년치 교육자료를 매년 매뭘 같은 내용으로 해도 무방한지 아니면 매년 매월 다른 자료로 교육을 해야하는지 궁금합니다.",
+			"cafename":"아웃소싱을 사랑하는 모임 #취업버스 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/outsourcingis2"
+		},
+		{
+			"title":"<b>경비<\/b>지도사의 <b>직무<\/b>중",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/40887",
+			"description":"원래 법제처 내용으로 <b>경비<\/b>지도사 <b>직무<\/b>중 <b>경비<\/b>현장에 배치된 <b>경비<\/b>원에 대한 순회점검 및 감독인데 경호원도 해당이 되는건가요??",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"<b>직무<\/b>수행<b>경비<\/b> 소모품 사용시 증빙자료",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/229021",
+			"description":"<b>직무<\/b>수행<b>경비<\/b>를 기관간섭외 외, 기타 <b>직무<\/b>관련 소규모지출 등을 충당하기 위해 사용가능하다고 사업지침에 나와있습니다. <b>직무<\/b>수행<b>경비<\/b>로 복사용지를 구매하려는데요, 증빙자료를 <b>직무<\/b>수행<b>경비<\/b>의 경우&gt;&gt; 품의서와... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"일반경비와 기계<b>경비 직무<\/b>교육",
+			"link":"http:\/\/cafe.naver.com\/ksia\/11185",
+			"description":"그런데 궁금한 것이 일반<b>경비<\/b>지도사가 기계<b>경비<\/b>업 관련된 <b>경비<\/b>원을 <b>직무<\/b>교육해도 문제가 안되는지 궁금합니다. 물론 당연히 기계<b>경비<\/b>지도사는 별도로 있구요 각 출장소별로 일반<b>경비<\/b>지도사가 상근하고 있는데... ",
+			"cafename":"한국경비지도사동우회",
+			"cafeurl":"https:\/\/cafe.naver.com\/ksia"
+		},
+		{
+			"title":"출동경비나 호송<b>경비 직무<\/b> 해보신분 계신가요?",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/48045",
+			"description":"각각 장단점 알수있을까요? 알려주시면 감사합니다!!",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"부서장님과 주무계장(일상<b>경비<\/b>출납원)님 부재시 회계업무처리?",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/296872",
+			"description":"부서장님이나 일상<b>경비<\/b>출납원이신 주무계장님께서 연가나 출장으로 부재중이실때, 하루정도 자리비우실때는 당일 반드시 지출을 해야하는 건이 없다면 굳이 회계관계공무원 <b>직무<\/b>대리 지정\/ 일상<b>경비<\/b>출납원 <b>직무<\/b>대리 지정... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"[광주광역시광주문화재단 채용] 무기계약직 신입 (<b>경비<\/b>\/청소) (~1.14)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2084127",
+			"description":"서류전형-인적성검사-면접전형으로 이루어진다고 합니다. 첨부파일 응시원서 제출서류(서식).hwp 파일 다운로드 첨부파일 <b>직무<\/b>(<b>경비<\/b>) 설명자료.hwp 파일 다운로드 첨부파일 <b>직무<\/b>(청소) 설명자료.hwp 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>경비<\/b>지도사<b>직무<\/b>교육..",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/52102",
+			"description":"이제 하는데가 강동구밖에 없나요?",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"특경 <b>직무<\/b>교육에 대해서.",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/52018",
+			"description":"특수<b>경비<\/b>원 <b>직무<\/b>교육 시킬수있는 사람이 (<b>경비<\/b>지도사 , 현장관리자(자격증×), 외부강사) 정도로 카페에서 본거 같은데... 혹시 주야 교대근무하는 조장(자격증×)이 조원들을 <b>직무<\/b>교육 시키는것이 가능한걸까요?",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"▶<b>경비<\/b> 경찰은 어떤 <b>직무<\/b>를 수행할까?",
+			"link":"http:\/\/cafe.naver.com\/tocop\/680044",
+			"description":"▶<b>경비<\/b>경찰이란? <b>경비<\/b>경찰이란 국가의 비상사태 또는 긴급 중요사태 등 각종 <b>경비<\/b>사태가 발생하거나... ▽경찰 <b>직무<\/b>에 대해서 더 자세히 알고싶으시다면?▽ [긴급] 2020년 경찰공무원 채용시험 계획 http... ",
+			"cafename":"경수모★경찰공무원 시험\/일정\/과목\/가...",
+			"cafeurl":"https:\/\/cafe.naver.com\/tocop"
+		},
+		{
+			"title":"시설준비를 하다 공기업 <b>경비<\/b> 면접대기중요",
+			"link":"http:\/\/cafe.naver.com\/114er\/124920",
+			"description":"면접 대기중이군요 근무는 주주야야비비이구요 야간 5시간 쉬고 대략 3000정도군요 <b>직무<\/b>급제라고하더라구요 시설준비해서 취업이 더좋을지 <b>경비<\/b>로 가야할지.. 그래도 시설 경력 쌓는게 좋을지.. 고민이라 글남겨요",
+			"cafename":"시설관리몰(M)",
+			"cafeurl":"https:\/\/cafe.naver.com\/114er"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 <b>직무<\/b>...",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/17154",
+			"description":"<b>경비<\/b>지도사 <b>직무<\/b> 중에 월1회 이상인게 <b>경비<\/b>원의 지도 감독 교육에 관한 계획수립 실시 <b>경비<\/b>현장에 배치된 <b>경비<\/b>원에 대한 순회점검 및 감독 오<b>경비<\/b> 방지 등을 위한 기기관리의 감독(기계<b>경비<\/b>지도사) 요 3가지가 맞나요?",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"<b>직무<\/b>대리로 인한 <b>직무<\/b>수행<b>경비<\/b> 및 시간외 중복지급 문의",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/125517",
+			"description":"먼저 항상 많은 도움 받고 있어 감사드리며 저희 팀장님께서 부장 <b>직무<\/b>대리로 인사발령처리를 했는데 부장부터 <b>직무<\/b>수행<b>경비<\/b>를 지급하도록 되어있어 부장<b>직무<\/b>대리로 <b>직무<\/b>수행<b>경비<\/b>를 받고 팀장까지 받을 수 있는... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"50대 취업 공기업 무기계약직도 알아보세요!",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2166723",
+			"description":"50대 중반에 취업했다고 가정하면 <b>경비<\/b>\/미화 <b>직무<\/b>로 취업할 경우 거의 2배를 더 다닐 수 있습니다. <b>경비<\/b>\/미화 <b>직무<\/b>는 채용 시 경력 \/ 자격 \/ 교육사항 등을 보고, 대부분은 서류전형 &gt; 면접전형으로 채용하되 간혹... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"한국수자원공사 실무직(특수<b>경비<\/b>) 문의 드립니다.",
+			"link":"http:\/\/cafe.naver.com\/mr9600\/56834",
+			"description":"특수경비직을 채용하는대 수자원공사 직원으로 들어가는건가요 ?카페 글들을 찾아보니 급여가 너무짜다 처우가 다르다 이런 내용들을 봤는대수자원공사 실무직(특수<b>경비<\/b>) <b>직무<\/b>에 대해서 아시는분 계시면 정보 좀... ",
+			"cafename":"공꿈사-공공기관,무기계약직,방호직,청...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mr9600"
+		},
+		{
+			"title":"나이대별 2위를 차지한 <b>직무<\/b> 경리, 회계, 재무! 경리구직관련 소식은 어디서?",
+			"link":"http:\/\/cafe.naver.com\/min1230\/13536",
+			"description":"잡코리아가 올해 구직활동을 한 ‘구직자의 이력서 직무’를 연령대별로 분석한 결과 50대이상 구직자들이 희망하는 취업분야는 ‘시설관리·<b>경비<\/b>’ <b>직무<\/b>로 조사됐고 20대와 30대는 ‘사무직’을, 40대는 ‘생산현장... ",
+			"cafename":"주단모,주택관리사시험과목,무료인강,...",
+			"cafeurl":"https:\/\/cafe.naver.com\/min1230"
+		},
+		{
+			"title":"서강전문학교 통합<b>경비<\/b>교육 실시! 신임<b>경비<\/b>교육부터 <b>직무<\/b>교육,<b>경비<\/b>지도사국비지원에 취업연계까지 한 번에!...",
+			"link":"http:\/\/cafe.naver.com\/sgbodyguard\/909",
+			"description":"이번에 경비지도사자격증\/신변보호사자격증이 국비지원을 받을 수 있는 자격증이 되면서 서강전문학교에서는 신임경비교육을 이수한 분들이 <b>경비직무<\/b>교육과 국비지원 경비지도사\/신변보호사까지 한 번에 경호경비의... ",
+			"cafename":"서강전문학교 경찰경호학과",
+			"cafeurl":"https:\/\/cafe.naver.com\/sgbodyguard"
+		},
+		{
+			"title":"<b>경비<\/b>지도자격증 보유자 <b>직무<\/b>교육 받아야하나요??",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/43653",
+			"description":"특수<b>경비<\/b>로 근무중입니다 경.지.사 자격증있는데 <b>직무<\/b>교육을 받아야하는지요?",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 적정급여 문의",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/20122",
+			"description":"<b>경비직무<\/b>교육 (7개현장) 3. 순회점검(1개현장) 4. 경찰서 경비점검시 대비등 5. 기타 업무 이럴경우 경력1년정도 또는 없더라도 군출신이나 2년제대학 관련학과 나온사람의 급여는 어느정도여야 할까요? 회사와 직원의... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"<b>직무<\/b>수행<b>경비<\/b> 문의드립니다",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/161403",
+			"description":"안녕하세요 저희 팀장님이 4월20일자로 승진하셔서 타지역으로 발령나셨습니다 이미 1일날 업무수행<b>경비<\/b>를... 그리고 따로 <b>직무<\/b>대리 문서가 나온 건 없는데 누구에게 <b>직무<\/b>대리비를 드려야 할까요 답변 꼭 부탁드립니다",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"<b>직무<\/b>수행<b>경비<\/b>의 범위",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/157864",
+			"description":"안녕하세요. 제가 있는 지자체 재무회계규칙에 <b>직무<\/b>수행<b>경비<\/b>는 품의를 생략할 수 있는 것으로 되어있는데, <b>직무<\/b>수행<b>경비<\/b>가 어디까지 포함되는지 궁금합니다. 관용차 유류구입이 <b>직무<\/b>수행<b>경비<\/b>에 포함되는지요?",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"특정업무<b>경비<\/b>와 특수<b>직무<\/b>수당은 다른 분야인가요?",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/138191",
+			"description":"다름이아니라 특정업무<b>경비<\/b>(대민지원비)와 특수<b>직무<\/b>수당은 다른 분야인가요..? 개인급여에 특수<b>직무<\/b>수당으로 돈이 들어오고 있으면, 대민지원<b>경비<\/b>와는 중복으로 봐야할까요..?",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"예산 초보 질문드립니다.(<b>직무<\/b>수행<b>경비<\/b>의 산출기초 변경)",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/127911",
+			"description":"2017년 본예산 편성 시 시간선택임기제 보수 편성은 하였으나, <b>직무<\/b>수행<b>경비<\/b> 중 직책급업무수행<b>경비<\/b>와 특정업무수행<b>경비<\/b>의 편성을 누락하였습니다. 현재 기 편성해놓은 일반직 및 청원경찰의 직책급업무수행<b>경비<\/b>와... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"인강을 통한 <b>직무<\/b>교육과 <b>경비<\/b>지도사의 존재에 대해 질문드려요",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/25653",
+			"description":"안녕하세요 현재 금융권에서 보안업무에 종사하고있습니다.다름이 아니라 이번 4월부터 저희 회사 <b>직무<\/b>교육을 인터넷 강의로 실시한다기에 여기 계시는 현직 <b>경비<\/b>지도사님들 <b>경비<\/b>업자분들께 여쭤보려합니다. 최근 법... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 월1회 <b>경비<\/b>원 <b>직무<\/b>교육",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/10335",
+			"description":"본 질문은 <b>경비<\/b>업법 시행규칙 제 13조 일반<b>경비<\/b>원에 대한 <b>직무<\/b>교육 시간 월 4시간에 대한 질문입니다. 금번 상반기 관할경찰서 <b>경비<\/b>업체 지도점검에서 도출된 문제로 일반<b>경비<\/b>원은 상기 규정에 따라 월 4시간... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"<b>직무<\/b>대리의 <b>직무<\/b>대행 직책급업무수행<b>경비<\/b> 지급 가능한가요??",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/138802",
+			"description":"주무계장님이 직책급업무수행<b>경비<\/b>를 받을려면 <b>직무<\/b>대리규정 제5조 3항에 의해 <b>직무<\/b>대리자를 다시지정받아야 하는건 아닌지.. 소장님으로 발령받아서 오신게 아니라 <b>직무<\/b>대리로 발령받으신경우 별도의 <b>직무<\/b>대리... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"월 4회 실시하는 일반 <b>경비<\/b>원 <b>직무<\/b>교육은 <b>경비<\/b>지도사만 가능한 건 가요?",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/16698",
+			"description":"<b>경비<\/b>업자나 현장대리인은 이제 못하는 건가요? 저희 사업장은 <b>경비<\/b>지도사 <b>직무<\/b>교육 일지 외 자체적으로 <b>직무<\/b>교육일지라고 비치하여 월 4회 교육하고 있는데 이렇게 되면 법령 위반인 걸까요?",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"<b>경비<\/b>아저씨 여름 휴가비",
+			"link":"http:\/\/cafe.naver.com\/youido\/204552",
+			"description":"물론 반장이 걷으러 다니는것은 아니고 <b>경비<\/b>아저씨가 받고 체크 합니다. 그런데 휴가도 갈 수 없는 사정에 여름휴가비라고 따로 생기는 것도 없는 경우라 갑자기 황당하다는 생각이 드네요. 물론 사정이 좋을때는 따로... ",
+			"cafename":"여의도 사람과 건물",
+			"cafeurl":"https:\/\/cafe.naver.com\/youido"
+		},
+		{
+			"title":"예술의전당 채용공고 확인하기",
+			"link":"http:\/\/cafe.naver.com\/specup\/6718828",
+			"description":"예술의전당 채용페이지에 각 직무별 임금도 확인할 수 있는데요 미화직무는 월 210만원, 보안<b>경비직무<\/b>는 월 230만원, 주차직무는 월 200만원, 시설지원직무는 월 240만원, 하우스매니저 보조직무는 월 220만원... ",
+			"cafename":"스펙업｜취업,대학생,인턴,대기업,공기...",
+			"cafeurl":"https:\/\/cafe.naver.com\/specup"
+		},
+		{
+			"title":"<b>직무<\/b>수행<b>경비<\/b> 관련",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/9025",
+			"description":"<b>직무<\/b>수행<b>경비<\/b> 중 특정업무<b>경비<\/b> 관련입니다. 특정업무<b>경비<\/b>를 월정액으로 지급하는 경우, 월중에 인사이동 사항이 발생하면 기지급한 월정액을 반납조치하여야 하는지요? 만약 반납조치해야 한다면 어떠한 형식으로... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"일상<b>경비<\/b> 교부 신청 e호조 전산 절차 문의",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/293846",
+			"description":"<b>직무<\/b>수행<b>경비<\/b>: 204-01, 204-02, 204-03 공공요금: 201-02, 401-03 제세공과금: 201-02, 401-03 인건비: 101-01, 101-02 여비: 202-01, 202-02 ※ 확인 제외 품의유형: 일상<b>경비<\/b> 교부 일상<b>경비<\/b> 교부니까 바로 [58002] 품의등록에서... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 <b>직무<\/b> 관련 질문입니다.",
+			"link":"http:\/\/cafe.naver.com\/mirungg\/2676",
+			"description":"Q: <b>경비<\/b>지도사의 <b>직무<\/b> 중 '월 1회 이상' 수행하는 <b>직무<\/b>와 '주 1회 이상' 수해아는 <b>직무<\/b>의 구분이 있나요? 제가 보고있는 [시대고시] 책에서는 월 1회 이상 수행하는 걸로 되어있는 '순회점검' 등의 <b>직무<\/b>가 요약본에는 주 1회... ",
+			"cafename":"경단모｜경비지도사 시험을 단기간에 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mirungg"
+		},
+		{
+			"title":"<b>직무<\/b>온라인교육 미이수자..",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/52431",
+			"description":"아니다 우리는 나이가 좀있거나 암튼 미이수자에대해 <b>직무<\/b>교육을 진행했다.. 언성이 좀 오고가고했습니다. 본청에서 지도사 확인서 쓰라고해서 거부하니.. <b>경비<\/b>원들한데 일일이 전화걸고 그중한명에 <b>경비<\/b>원이... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 <b>직무<\/b>교육에 필요한 강의",
+			"link":"http:\/\/cafe.naver.com\/mirungg\/3344",
+			"description":"문제 풀던 중에 [ <b>경비<\/b>지도사는 <b>직무<\/b>교육에 필요한 강의를 <b>경비<\/b>업체의 임원을 지정하여 수행하게 할 수 있다. ] 위에 내용이 옳은 내용이라고 되어있고 해설이 [시행령 제18조 제4항] 이라고 되어있는데 시행령... ",
+			"cafename":"경단모｜경비지도사 시험을 단기간에 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mirungg"
+		},
+		{
+			"title":"3월 <b>경비<\/b>지도사 순회점검, <b>직무<\/b>교육 방역 지침 관련",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/51878",
+			"description":"관할구역이 서울 송파서인 업체중 문서 받으신분 공유 부탁드립니다. 송파경찰서 담당자는 보냈는데 왜 거기만 못받았다고 하느냐? 고 해서, 다시 보내달라고 말을 못했네요... 을 입장이다보니 강하게 얘기 못해서... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"현직에서 배우는 전기 안전관리자 <b>직무<\/b>고시 및 전기기사 취득후 선임에 대하여",
+			"link":"http:\/\/cafe.naver.com\/empirecity\/614977",
+			"description":"요즘 개인적인 일로 공부를 잠시 놓고 있으니 마음이 답답 하네요 오늘은 몇년전부터 시작된 <b>직무<\/b> 고시 및... 회사 <b>경비<\/b> 하다가 노후로 자격증 따신분들은 기사 경력 이라도 채워서 해야 그나마 사고를 방지 하고 안전한... ",
+			"cafename":"기사마스터-전기기사,기능사,산업안전...",
+			"cafeurl":"https:\/\/cafe.naver.com\/empirecity"
+		},
+		{
+			"title":"일상<b>경비<\/b> 지출서류",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/265789",
+			"description":"<b>직무<\/b>수행<b>경비<\/b> 6. 법령 및 조례에 의한 의무적 <b>경비<\/b> 7. 축·조의금, 위문금, 사례금, 시상금 8. 삭제 &lt;2008. 2. 18.&gt; 9. 의정활동비 여기서 일상<b>경비<\/b>는 일상<b>경비<\/b>로 나가는 모든 지출을 말하는 건가요?? 그럼 일상<b>경비<\/b>로 지출할 때... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"<b>직무<\/b>고시",
+			"link":"http:\/\/cafe.naver.com\/amoapt\/918243",
+			"description":"과장님들 <b>직무<\/b>고시 하고계신분들 있나요? 어찌 해야할지 막막 하네요... 전기검사시 확인 하나요",
+			"cafename":"전국 아파트\/주상복합 관리자등의 모임...",
+			"cafeurl":"https:\/\/cafe.naver.com\/amoapt"
+		},
+		{
+			"title":"(주)엠티에스- <b>경비<\/b>지도사 및 사업장 관리자(경기 안성시) ~01. 25",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/14745",
+			"description":"현장 <b>경비 직무<\/b>교육관리 또는 영업장 관리를 1년이상 경험 있으신 분을 모집합니다.. 모집기간 : 2014.01.08~2014.01.25. 모집업무 : 영업계약지 근무자 노무관리 및 경비원 직무교육 주된근무지 : 경기도 안성시 공도읍... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"주)디즈텍 <b>경비<\/b>지도사 업무(현장관리및 순회<b>직무<\/b>점검)",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/20041",
+			"description":"작성자 관리자작성일 2015-02-25○회사명 : (주)디즈텍 ○<b>직무<\/b>내용 : <b>경비<\/b>지도사 업무(현장관리및 순회<b>직무<\/b>점검) ○채용조건 : <b>경비<\/b>지도사 자격증 필수, 월급 200만원 이상 ○연락처 : 051-552-2722 ○마감일... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"[시청자미디어재단 채용] 무기계약직\/계약직 신입 (<b>경비<\/b>\/방송미디어\/모니터링) (~3.18)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2117589",
+			"description":"시청자미디어재단 채용 전형절차는 서류전형-면접전형으로 이루어진다고 합니다. 첨부파일 <b>직무<\/b>기술서(시청자권익증진 및 모니터링).hwp 파일 다운로드 첨부파일 <b>직무<\/b>기술서(<b>경비<\/b>).hwp 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"시청자미디어재단 무기계약직 <b>경비<\/b> 직원 채용 공고 (~3월29일)",
+			"link":"http:\/\/cafe.naver.com\/mr9600\/120738",
+			"description":"첨부파일 채용공고(제2022-채용-04호).hwp 파일 다운로드 첨부파일 <b>직무<\/b>기술서(<b>경비<\/b>) (3).hwp 파일 다운로드",
+			"cafename":"공꿈사-공공기관,무기계약직,방호직,청...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mr9600"
+		},
+		{
+			"title":"정문 <b>경비<\/b>분 어이 없네요 #단지주차문제",
+			"link":"http:\/\/cafe.naver.com\/backhyun20130828\/67587",
+			"description":"&quot;그게 말이 되냐&quot; 되물었더니 &quot;아 신경쓰지마라, 여기선 그냥 보내줘도 안에서 <b>경비<\/b>들이 단속한다&quot;고 말같지도 않은 소리를 하네요. 입주자들이 주차때문에 아우성을 치는데 정문에서 <b>직무<\/b>유기를 하는게 말이 됩니까. 현재... ",
+			"cafename":"백현마을 3,4단지 놀이터 \/ 3단지,4단...",
+			"cafeurl":"https:\/\/cafe.naver.com\/backhyun20130828"
+		},
+		{
+			"title":"<b>경비<\/b>원의 교육이 행안부령 인가요 대통령령 인가요??",
+			"link":"http:\/\/cafe.naver.com\/mirungg\/11516",
+			"description":"책마다 다른거 같아서 대통령령에 따라 일반경비원은 24시간 특수경비원은 88시간 직무교육은 4시간 특수<b>경비 직무<\/b>교육은 6시간이 맞죠??",
+			"cafename":"경단모｜경비지도사 시험을 단기간에 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mirungg"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 자격증 보유자가 일반 <b>경비<\/b>원으로 취직시 인터넷 <b>직무<\/b>교육 받아야하나요?",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/37266",
+			"description":"<b>경비<\/b>지도사 자격증 보유자가 일반 <b>경비<\/b>원으로 취직시 인터넷 <b>직무<\/b>교육 받아야하나요?",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"아파트 <b>경비<\/b>원 모집",
+			"link":"http:\/\/cafe.naver.com\/glove\/7280441",
+			"description":"-구인 : 경비원 1명 모집 -근무형태 : 격일제 16시간 근무 -만 62세 이하 -<b>경비직무<\/b>교육 이수자 -22년 1월 1일부터 근무가능자 ☆지원방법 이력서 팩스 접수 fax. 638-4264 메일접수 *******@*****.*** *면접 별도... ",
+			"cafename":"[거사모] 거제도 대표 카페 - 여행,펜...",
+			"cafeurl":"https:\/\/cafe.naver.com\/glove"
+		},
+		{
+			"title":"접대비 <b>경비<\/b>처리와 한도액 계산",
+			"link":"http:\/\/cafe.naver.com\/aclove\/384062",
+			"description":"경우는 <b>경비<\/b>로 인정받을 수 없다. [사례] 접대비 해당하는 주요 사례 ∙ 회의비 중 통상 개최 장소 이외에서... 접대비 <b>경비<\/b>처리 시 꼭 주의할 사항 ∙ 신용카드 사용내역 중 주말 및 공휴일 사용금액과 주소지 근처에서... ",
+			"cafename":"경리-회계 직장인들의 쉼터",
+			"cafeurl":"https:\/\/cafe.naver.com\/aclove"
+		},
+		{
+			"title":"<b>경비<\/b>교육 <b>직무<\/b>교육 교안 1년 자료",
+			"link":"http:\/\/cafe.naver.com\/outsourcingis2\/1235",
+			"description":"<b>경비<\/b>교육 <b>직무<\/b>교육안 1년 자료 제목만 있는 것입니다. 참고하셔도 무방합니다. 허접의 극치 ~~~",
+			"cafename":"아웃소싱을 사랑하는 모임 #취업버스 ...",
+			"cafeurl":"https:\/\/cafe.naver.com\/outsourcingis2"
+		},
+		{
+			"title":"농협사료 계약직에 대해 질문있슴돠",
+			"link":"http:\/\/cafe.naver.com\/nhhnhh\/336653",
+			"description":"이번에 농협사료 계약직 떠서 지원하려고 합니다 1.계약직 직무가 계근 및 경비 입니다 정규직을 하기 위해 계약직을 지원하는건데 혹시 계근 및 <b>경비 직무<\/b>도 정규직이 가능한가요?? 2.농협사료 계약직 1년이상 근무하면... ",
+			"cafename":"농준모 : 농협(은행 중앙회 지역)채용...",
+			"cafeurl":"https:\/\/cafe.naver.com\/nhhnhh"
+		},
+		{
+			"title":"[한국세라믹기술원 채용] 무기계약직 신입\/경력 (연구지원\/기록물관리\/시설관리총괄\/전기\/<b>경비<\/b>) (~8.8)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2188758",
+			"description":"[한국세라믹기술원 채용] 무기계약직 신입\/경력 (연구지원\/기록물관리\/시설관리총괄\/전기\/<b>경비<\/b>) (~8.8)... 온라인 접수 https:\/\/bit.ly\/3zyp7SN 첨부파일 무기계약직 <b>직무<\/b>설명자료.hwp 파일 다운로드 첨부파일 응시원서.... ",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 <b>직무<\/b>중..",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/7617",
+			"description":"제가 작년에 출시된 <b>경비<\/b>업법 책을 공부하고 있는데 지도사의 <b>직무<\/b>중 교육 계획 수립.실시의 경우는 월 1회 이상이고 나머지 <b>직무<\/b>도 월 1회 이상이지만 2011년 6월 30일 이후엔 주 1회 이상으로 바뀌었다고 나와있는데... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 <b>경비<\/b>원 <b>직무<\/b> 가능여부에 대해서 질문드립니다.",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/16024",
+			"description":"선임한 <b>경비<\/b>지도사를 준관리자급으로 지정하여 <b>경비<\/b>지도사의 <b>직무<\/b>인 <b>경비<\/b>원의 지도․감독․교육을 실시할 수 있는 여건을 마련하도록 노력하여야 한다. 다만, 준관리자급이란 <b>경비<\/b>원을 지도감독할 수 있는 임원... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"일경 신임 교육 유효 기간에 관하여 문의 드립니다.",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/52479",
+			"description":"신임<b>경비<\/b>교육받고 후에... 공무직<b>경비<\/b>원으로 3년이상을 근무했습니다. 이것은 유효기간이 지난것으로 판단되어 일반기업 <b>경비<\/b>원 취업시에 다시 교육을 받아야 하는 것으로 아는데요.. 이 때 고용자 측에서 <b>경비<\/b>교육이수증... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"<b>경비<\/b>지도사는 <b>직무<\/b>교육 안받아도 되나요?",
+			"link":"http:\/\/cafe.naver.com\/ksia\/13800",
+			"description":"배치신고된 <b>경비<\/b>원이 <b>경비<\/b>지도사 업무도 같이하고 있는데요 이렇게되면 그 <b>경비<\/b>원은 <b>직무<\/b>교육 대상이 아닌가요?",
+			"cafename":"한국경비지도사동우회",
+			"cafeurl":"https:\/\/cafe.naver.com\/ksia"
+		},
+		{
+			"title":"연령별 평균연봉, 연봉 높은직업\/<b>직무<\/b> 총정리! 내 몸값 올리기 대작전",
+			"link":"http:\/\/cafe.naver.com\/allft1\/322180",
+			"description":"모르면 손해뿐인 2022년 청년정책 연령별 평균연봉, 연봉 높은직업\/<b>직무<\/b> 대공개! 취업&amp;이직욕구 폭발... 가장 낮은 평균연봉으로는 미용·여행·숙박·음식·<b>경비<\/b>·청소직이 3,077만원으로 나타났고, 예술... ",
+			"cafename":"공인마스터-공인중개사,시험,청약,독학...",
+			"cafeurl":"https:\/\/cafe.naver.com\/allft1"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 <b>직무<\/b>교육??",
+			"link":"http:\/\/cafe.naver.com\/ksia\/2063",
+			"description":"명확하지가 않아서 회원님들께 도움요청드려요,,, 물론 이런문제야 안나오겠지만,,,^^ 용역 <b>경비<\/b>지도사의 <b>직무<\/b>교육에 대한 설명이다. 가장 관련이 적은 것은? 1. <b>직무<\/b>교육시간은 매년 1회 8시간이다. 2. <b>직무<\/b>교육... ",
+			"cafename":"한국경비지도사동우회",
+			"cafeurl":"https:\/\/cafe.naver.com\/ksia"
+		},
+		{
+			"title":"<b>경비<\/b>지도사의 <b>직무<\/b>관련입니다.",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/39389",
+			"description":"[*제 13조 2항] : 일반 <b>경비<\/b>원에 대한 <b>직무<\/b>교육의 과목은 일반 <b>경비<\/b>원의 <b>직무<\/b>수행에 필요한 이론ㆍ실무과목, 그 밖에 정신교양 등으로 한다. 라는 법률이있는데요. 저기에서 정신교양 이란 타 교양과목으로, &quot; 재해나, 윤리... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"인천공항 보안<b>직무<\/b> 재직자분 계신가요?!",
+			"link":"http:\/\/cafe.naver.com\/dokchi\/7215958",
+			"description":"이번주, 취업컨설팅 관련처에서 추천<b>직무<\/b> 들어왔는데, 인천공항 보안<b>경비<\/b>\/검색<b>직무<\/b> 업체들이네요~ 올해말 제2여객터미널 준공으로 구직소요가 많네요- 제가 지원하려는 분야는 보안<b>경비<\/b>\/검색분야인데 총 7개 회사에서... ",
+			"cafename":"독취사-취업,대학생,대기업,공기업,GS...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dokchi"
+		},
+		{
+			"title":"<b>직무<\/b>에 충실한 <b>경비<\/b>",
+			"link":"http:\/\/cafe.naver.com\/truckerking\/433307",
+			"description":"장재 싣고 왔는데 <b>경비<\/b>가 현장 진입 못하게 하네요 어제 보고 받은게 없다고 좁은 이면 도로에서 대기중 <b>경비<\/b>왈 조금 있으면 신고 들어가서 차 빼야 한다고 하네요 자기일에 충실한 <b>경비<\/b> 이네요",
+			"cafename":"영운모\/화물\/화물운송\/영업용화물차\/화...",
+			"cafeurl":"https:\/\/cafe.naver.com\/truckerking"
+		},
+		{
+			"title":"관리소장,<b>경비<\/b>아저씨,윗집 다 똑같은 사람들",
+			"link":"http:\/\/cafe.naver.com\/ihatenoise\/171040",
+			"description":"&quot; 이러고 끊으시네요ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ <b>경비<\/b>아저씨의 <b>직무<\/b>가 어디서부터 어디까지인지 정확히 모르겠어서 강력하게 요구는 못하겠습니다만 나참..ㅋㅋ 찾아가면 불법이니 중재를 아파트 관리자체내에서 하는거... ",
+			"cafename":"층간소음과 피해자 쉼터",
+			"cafeurl":"https:\/\/cafe.naver.com\/ihatenoise"
+		},
+		{
+			"title":"204 <b>직무<\/b>수행<b>경비<\/b> 관련 문의",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/161638",
+			"description":"이 경우, 204-03 특정업무<b>경비<\/b>.. 인가요? 204-01 직책급업무수행<b>경비<\/b> \/\/204-02 직급보조비 인가요. e나라도움 상 예산서를 세워야 하는데 어떤 과목으로 해야할지 헷갈립니다. 원래 있던 급여에서 20만원 씩 추가로 받고... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"호구단지(<b>경비<\/b>) 하나 추가 입니다",
+			"link":"http:\/\/cafe.naver.com\/casa114\/43119",
+			"description":"시스템<b>경비<\/b>비 7000원 월 600만원 업체로 상납 중이십니다 용감한 회장님이시네요 <b>경비<\/b>5명인데 1년총이 2억8천입니다 월 2000씩 나가는 용감한 신축단지 주민이 그냥 바보인거죠 세대당 <b>경비<\/b>비가 3만원 안되니 싼줄... ",
+			"cafename":"아파트 비리 척결 운동본부",
+			"cafeurl":"https:\/\/cafe.naver.com\/casa114"
+		},
+		{
+			"title":"일상<b>경비<\/b> 교부 요청이나 출장비 지급 할 때요. 항상 지출품의 탭에서 지출결의요청을 하는 건가요?",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/302290",
+			"description":"일상<b>경비<\/b> 교부 신청할 때는 지출결의요청을 했던 기억이 나는데, 출장비 지급(개인카드로 결제했을 시)할 때도 그런가요? 3. 해결사례 ※ 답변이 없거나 다른방법으로 처리한 경우 사후작성",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"(급)<b>직무<\/b>대리 1개월 미만 직책급업무수행<b>경비<\/b> 질문",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/223913",
+			"description":"^^ 직책급 업무수행<b>경비<\/b> 관련한 질문이있어서 질의를 올립니다. 작년 12.31. 자 과장 퇴직으로 20.1.14. 인사발령까지 주무팀장님이 <b>직무<\/b>대리를 하였습니다. 1.14. 인사발령으로 타 과로 가시게 되면서 세출예산 집행기준에... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"회사에서 일상<b>경비<\/b>·일반지출 업무",
+			"link":"http:\/\/cafe.naver.com\/parksamaccount\/386891",
+			"description":"제가 전산회계 1급은 땄지만 실경험은 하나도 없는데요. <b>직무<\/b>내용에 일상<b>경비<\/b>·일반지출 업무가 있는데 많이 힘든가요?ㅠㅜㅠㅜㅠ",
+			"cafename":"박쌤 전산회계",
+			"cafeurl":"https:\/\/cafe.naver.com\/parksamaccount"
+		},
+		{
+			"title":"대한무역투자진흥공사 채용 시작! 모집<b>직무<\/b>, 자격조건등 핵심특징 알아보기.",
+			"link":"http:\/\/cafe.naver.com\/bebettergirls\/1745701",
+			"description":"모집 <b>직무<\/b>로는 미화, <b>경비<\/b>(일반), <b>경비<\/b>(보훈)으로 총 7명을 채용 예정에 있습니다. 다음은 대한무역투자진흥공사 채용 자격조건에 대한 안내입니다. 일반 채용의 경우 어학점수에 제한컷이 있습니다. 토익... ",
+			"cafename":"취업대학교#대기업,공기업,GSAT,NCS,인...",
+			"cafeurl":"https:\/\/cafe.naver.com\/bebettergirls"
+		},
+		{
+			"title":"<b>경비<\/b>지도사의 <b>직무<\/b> 및 선임에 관한 내용",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/451",
+			"description":"②제1항의 규정에 의하여 선임된 <b>경비<\/b>지도사의 <b>직무<\/b>는 다음과 같다. 1. <b>경비<\/b>원의 지도·감독·교육에 관한 계획의 수립·실시 및 그 기록의 유지 2. <b>경비<\/b>현장에 배치된 <b>경비<\/b>원에 대한 순회점검 및 감독 3. 경찰기관 및... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"이력서를 쓰려고 하는데 <b>경비직무<\/b> 마스터랑 경비원 신임교육이랑 별개인가요??",
+			"link":"http:\/\/cafe.naver.com\/lobbymanager\/50084",
+			"description":"<b>경비직무<\/b>마스터는 이수한적이 있고 수료증이 있는데 이걸 경비원신임교육에 이수라고 해야할지 미이수라 해야할지 모르겠네요아시는분 답변 부탁드립니다",
+			"cafename":"일자리닷컴 by (주)자비스inc",
+			"cafeurl":"https:\/\/cafe.naver.com\/lobbymanager"
+		},
+		{
+			"title":"특사경 수당(특정업무수행<b>경비<\/b>) 지급 관련",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/274072",
+			"description":"다름아니라 지방자치단체 예산편성 운영기준이 일부개정됨에 따라 특사경 수당을 지급받을수 있게 되어 과 서무담당에게 말하여 수당 받고 있습니다.(1월부터 소급) 지급내역 보니 총무과 예산 중 <b>직무<\/b>수행<b>경비<\/b>... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"회사 자체<b>경비<\/b> 관련",
+			"link":"http:\/\/cafe.naver.com\/kyungbi\/3500",
+			"description":"그리고 자체경비도 용역경비처럼 <b>경비 직무<\/b>교육이나 순회점검 등을 시행하고 관할경찰서에 신고해야 하는지요??? 전문가님들의 조언 부탁드립니다. ○ 질문요지 1. 회사에서 직영으로 운영하는 자체경비(보안요원... ",
+			"cafename":"경비지도사 사랑방",
+			"cafeurl":"https:\/\/cafe.naver.com\/kyungbi"
+		},
+		{
+			"title":"[우체국시설관리단] 봉화우체국 금융<b>경비<\/b> 채용(~05\/25)",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1366076",
+			"description":"[우체국시설관리단] 봉화우체국 금융<b>경비<\/b> 채용 (~05\/25) ▶ 접수기간 : 2020.05.19(화) ~ 2020.05.25(월)▶ 모집<b>직무<\/b> : 금융<b>경비<\/b>▶ 고용형태 : 무기계약직▶ 전형절차 : 서류전형 - 면접전형 - 최종합격 ★지원동기 잘... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"특수<b>경비<\/b>원 <b>경비<\/b>지도사 선임되면 <b>직무<\/b>교육을 안받는다고 알고있습니다",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/42837",
+			"description":"월6시간 <b>직무<\/b>교육 제외가 되고 상.하반기 사격도 안받나요?",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"특수<b>직무<\/b>수당, 특정업무수당, 특정업무<b>경비<\/b>",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/213566",
+			"description":"특정업무수당, : 복지업무수당, 민원업무수당 특정업무<b>경비<\/b> : 대민활동비, 세무수당, 감사수당, 특수<b>직무<\/b>수당 도 있던데.. 위 세개 항목이 너무 헷갈립니다.",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"<b>경비<\/b>지도사 초청 <b>경비<\/b>원 <b>직무<\/b>교육 설명회",
+			"link":"http:\/\/cafe.naver.com\/ksia\/13190",
+			"description":"<b>경비<\/b>회사 하반기 지도점검 수검요령과 <b>경비<\/b>원 온라인\/우편통신교육 도입설명회 2017년도 하반기 <b>경비<\/b>회사 지도점검 준비 및 수검요령에 대한 안내와 <b>경비<\/b>원 <b>직무<\/b>교육(온라인 및 우편통신교육 ) 도입에... ",
+			"cafename":"한국경비지도사동우회",
+			"cafeurl":"https:\/\/cafe.naver.com\/ksia"
+		},
+		{
+			"title":"안녕하세요. 중고신입 <b>직무<\/b>고민중입니다...",
+			"link":"http:\/\/cafe.naver.com\/power119\/860995",
+			"description":"한 중소기업 3년 재직중이며 대리<b>직무<\/b>를 맡고있는 직장인입니다. 지금 업무하고있는 <b>직무<\/b>가 애매모호해서 퇴사 후 새<b>직무<\/b>를 찾기 위해서 알아보고 있습니다.. 현재는 서비스엔지니어링 업무를 진행하고 있고 정비 및 개발... ",
+			"cafename":"전기박사",
+			"cafeurl":"https:\/\/cafe.naver.com\/power119"
+		},
+		{
+			"title":"[우체국시설관리단] 영덕영해우체국 금융<b>경비<\/b> 채용(~05\/25)",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1366080",
+			"description":"[우체국시설관리단] 영덕영해우체국 금융<b>경비<\/b> 채용 (~05\/25) ▶ 접수기간 : 2020.05.19(화) ~ 2020.05.25(월)▶ 모집<b>직무<\/b> : 금융<b>경비<\/b>▶ 고용형태 : 무기계약직▶ 전형절차 : 서류전형 - 면접전형 - 최종합격 ★지원동기... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"인천공항<b>경비<\/b> 신입 및 경력 직원 모집",
+			"link":"http:\/\/cafe.naver.com\/lovepilot\/63193",
+			"description":"신입 및 경력 직원 모집 기업명 인천공항<b>경비<\/b> 업종 기업규모 설립년도 연매출액 홈페이지 근로자수 명 업체명인천공항<b>경비<\/b> 지역인천 <b>직무<\/b>기타 근무형태정규직 지원자격 경력 관계없음 학력 관계없음 근무조건 지역... ",
+			"cafename":"항꿈모 [조종사,관제사,승무원,정비사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/lovepilot"
+		},
+		{
+			"title":"상근 <b>경비<\/b>지도사 분들께 휴직자 배치\/폐지 관련 질문드립니다..",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/52004",
+			"description":"단도직입적으로, 각 업체에서 휴직<b>경비<\/b>원 발생 시 <b>경비<\/b>원 배치\/폐지신고 어떻게 처리하시는지요?? <b>직무<\/b>교육 문제도 있고, 순회점검 문제도 있고, 범죄경력조회 문제도 있고 여러가지 문제가 겹치다보니 어떻게... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"신입 연봉 약 3400만원!! 인천공항<b>경비<\/b> 채용합니다!!",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1355840",
+			"description":"인천공항<b>경비<\/b> 채용 모집<b>직무<\/b>는재무, 회계, 노사관리, 기획, 예산, 총무 등입니다.모두 정규직으로 채용되네요. 인천공항<b>경비<\/b> 채용 전형절차는서류전형 - 필기전형 - 면접전형입니다. 인천공항<b>경비<\/b> 채용... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"의회사무기구(특수<b>직무<\/b>수당)와 대민활동비(특정업무<b>경비<\/b>)병급",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/234064",
+			"description":"의회사무기구(특수<b>직무<\/b>수당)와 대민활동비(특정업무<b>경비<\/b>) 병급 가능하다고 판단이 되는데 고수님들 병급 가능하죠???",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"진짜 궁금해서 그러는데 <b>직무<\/b>교육은 누가하나요?",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/22820",
+			"description":"<b>경비<\/b>지도사 <b>직무<\/b>에는 <b>경비<\/b>원의 지도,감독,교육에 관한 계획의 수립,실시 및 기록의 유지에 따라 <b>경비<\/b>원에 대한 교육을 실시하고, 행정자치부령으로 정하는 <b>경비<\/b>원 <b>직무<\/b>교육 실시대장에 그 내용을 기록하여 2년간... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"급여산정~",
+			"link":"http:\/\/cafe.naver.com\/ak573\/720384",
+			"description":"총급여(<b>직무<\/b>: 건물 <b>경비<\/b>) 월1,500,000 1,500,000 \/9,160 = 164 시간 최저시급 맟쳐 주셔면 참좋을텐데 월급을 (8시간 최저시급되면) 이면 젋은 사람으로 채용하신다고 ㅜㅜ 기존에 계신 <b>경비<\/b>어른신으로 \\1,500,000 근무조건... ",
+			"cafename":"HR Professional[인사쟁이]가 보는 실...",
+			"cafeurl":"https:\/\/cafe.naver.com\/ak573"
+		},
+		{
+			"title":"공무원 <b>직무<\/b> 중에 예산,회계 업무 헬인가요?",
+			"link":"http:\/\/cafe.naver.com\/dieselmania\/38858387",
+			"description":"지인 일반행정직인데 초임발령되자마자 구청 예산,회계 업무 맡게 됐는데 일이 많이 고되보이더라고요 예산회계업무는 대체로 혼자서 맡는건가요?...",
+			"cafename":"●디젤매니아● 대한민국 일등 패션 커...",
+			"cafeurl":"https:\/\/cafe.naver.com\/dieselmania"
+		},
+		{
+			"title":"★총14명 [인천항보안공사 채용] 무기계약직 신입 (특수<b>경비<\/b>) (~7.4)",
+			"link":"http:\/\/cafe.naver.com\/studentstudyhard\/2172370",
+			"description":"hwp 파일 다운로드 첨부파일 붙임3 자기소개서(양식).hwp 파일 다운로드 첨부파일 붙임4 개인정보수집동의서.hwp 파일 다운로드 첨부파일 붙임5 NCS 기반 채용 <b>직무<\/b> 설명자료(특수<b>경비<\/b>원).hwp 파일 다운로드",
+			"cafename":"공준모★공기업채용,공사공단취업,교직...",
+			"cafeurl":"https:\/\/cafe.naver.com\/studentstudyhard"
+		},
+		{
+			"title":"안전관리자 <b>직무<\/b>교육에 대해서 자문을 구해봅니다",
+			"link":"http:\/\/cafe.naver.com\/anjun\/367083",
+			"description":"안녕하세요 건설안전산업기사 취득후 철콘 단종업체에 취업을 했고 안전관리자 선임 후 3개월 이내 <b>직무<\/b>교육을 받아야되서 <b>직무<\/b>교육을 받을 계획입니다 <b>직무<\/b>교육 <b>경비<\/b>에 관련하여 궁금한게 있습니다 보통 교육비+<b>경비<\/b>를... ",
+			"cafename":"산준모★산업안전기사｜위험물산업기사...",
+			"cafeurl":"https:\/\/cafe.naver.com\/anjun"
+		},
+		{
+			"title":"인천공항<b>경비<\/b> 채용 정보 및 연봉 정보도 공유 :D",
+			"link":"http:\/\/cafe.naver.com\/uccplus\/1470073",
+			"description":"인천공항<b>경비<\/b> 채용 모집<b>직무<\/b>는 경영기획그룹, 관리지원그룹, 감사그룹 이렇게 인천공항<b>경비<\/b> 채용이 이뤄지고있어요. 그럼 인천공항<b>경비<\/b> 채용 정보 알려드릴게요! 이렇게 인천공항<b>경비<\/b> 채용 공고... ",
+			"cafename":"공취사│공기업,공공기관,공무원,민경...",
+			"cafeurl":"https:\/\/cafe.naver.com\/uccplus"
+		},
+		{
+			"title":"일상<b>경비<\/b>지급품의 전자결재연계 제외대상?",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/180297",
+			"description":"<b>직무<\/b>수행<b>경비<\/b> &lt;개정 98?12?28, 08?2?18&gt; 2. &lt;삭제 94?3?30&gt; 3. 공공요금 4. 제세공과금 5. &lt;삭제 04?8?23&gt; 6. &lt;삭제 08?2?18&gt; 7. 인건비&lt;개정 08?2?18&gt; 8. 여비 9. &lt;삭제 98?12?28&gt; 10. 일상<b>경비<\/b> 교부&lt;신설 14.11.14&gt; 해당항목은 전자결재... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"기계<b>경비<\/b>지도사님...",
+			"link":"http:\/\/cafe.naver.com\/tgrees\/11581",
+			"description":"제가현재 일반시설에서 <b>경비<\/b>지도사 <b>직무<\/b>수행 하고있습니다 기계<b>경비<\/b>지도사 취득할려구 공부중인데 맘처럼 쉽지않네요 기계<b>경비<\/b>지도사 <b>직무<\/b>는 어떤<b>직무<\/b>수행하시나요 기계만지나여? 일반시설에만 있어서 기계치인데... ",
+			"cafename":"경비지도사 권익 협의회",
+			"cafeurl":"https:\/\/cafe.naver.com\/tgrees"
+		},
+		{
+			"title":"특수<b>경비<\/b> 면접질문",
+			"link":"http:\/\/cafe.naver.com\/mr9600\/119398",
+			"description":"자신이가진 역량이 <b>직무<\/b>에 어떻게 활용되겠습니까? 3. 특수<b>경비<\/b>원이 하지말아야할 금지사항 몇가지는? 무기관리 수칙과 사용가능한 예외적 상황은? 4. 특수<b>경비<\/b>원의 자질에 대해 아는대로 말하세요? 5. 부당한지시가... ",
+			"cafename":"공꿈사-공공기관,무기계약직,방호직,청...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mr9600"
+		},
+		{
+			"title":"<b>직무<\/b>대리시 직책급업무수행<b>경비<\/b> 지급 관련",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/167519",
+			"description":"세출예산집행기준에 보면 <b>직무<\/b>대리시 직책급업무수행<b>경비<\/b>를 지급할수 있다고 되어있는데 <b>직무<\/b>대리를 1개월이하로 할경우에도 지급이 가능한건지 궁금합니다 ㅠ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"재무관의 <b>직무<\/b>위임 규정에관하여",
+			"link":"http:\/\/cafe.naver.com\/gangseogu\/182705",
+			"description":"급여 등 인건비, 일반운영비, 여비, <b>직무<\/b>수행<b>경비<\/b>, 업무추진비, 공공요금, 제세공과금 그밖의 법령 또는 조례에 따른 의무적 <b>경비<\/b>의 지출과 일상<b>경비<\/b>의 교부. 라고 되어있는데. 그밖의 법령 또는 조례는 어떻게... ",
+			"cafename":"예산회계실무",
+			"cafeurl":"https:\/\/cafe.naver.com\/gangseogu"
+		},
+		{
+			"title":"별정우체국연금관리단 신규직 <b>경비<\/b> 2명 등 직원 7명 블라인즈 채용 재공고 (~12월22일)",
+			"link":"http:\/\/cafe.naver.com\/mr9600\/116093",
+			"description":"첨부파일 2021년도 신규 직원(공무직) 채용 재공고(시설,<b>경비<\/b>,미화).pdf 파일 다운로드 첨부파일 신규직원(공무직_시설,<b>경비<\/b>,미화) 채용공고 서류(<b>직무<\/b>기술서, 심사기준 등).pdf 파일 다운로드",
+			"cafename":"공꿈사-공공기관,무기계약직,방호직,청...",
+			"cafeurl":"https:\/\/cafe.naver.com\/mr9600"
+		}
+	]
+}

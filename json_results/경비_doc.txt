@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:49 +0900",
+	"total":44942,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국경호<b>경비<\/b>학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1043319",
+			"description":""
+		},
+		{
+			"title":"미군정 법령체제와 국방<b>경비<\/b>법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13276539",
+			"description":"The Legal System under the American Military Occupation and the Legality of the Articles for the Government of Korean Constabulary   th"
+		},
+		{
+			"title":"민간<b>경비<\/b> 규제에 관한 연구 : 미국 사례를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12451877",
+			"description":"A Study on the Regulation of Private Security in the U. S. A 국내 민간<b>경비<\/b>는 최근 20여 년간 고속성장을 거듭하면서"
+		},
+		{
+			"title":"현행 「<b>경비<\/b>업법」상 <b>경비<\/b>개념과 <b>경비<\/b>업무 해석의 한계 및 민간보안산",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594917144",
+			"description":" <b>경비<\/b>업법은 1976년 &quot;용역<b>경비<\/b>업법&quot;으로 제정된 이래 수많은 일부개정작업이 이루어져 왔다. 이러한 개"
+		},
+		{
+			"title":"민간<b>경비<\/b>업체의 연구개발 및 교육훈련에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532386",
+			"description":"A Study on the Private Security Corporation's Management - With R&amp;D. Education and Training System - The concerns and demands about cri"
+		},
+		{
+			"title":"민간<b>경비<\/b> 성장에 대한 인과적 분석 : 경제, 범죄율, 경찰력",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11535953",
+			"description":"민간<b>경비<\/b> 성장에 대한 인과적 분석: 경제, 범죄율, 경찰력 1980년대 이후 국내 민간<b>경비<\/b> 산업이 비약적"
+		},
+		{
+			"title":"민간<b>경비<\/b>산업의 실효적 법개정 사안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=579070118",
+			"description":"A Study on the Effective Law Revision for Private Security Industry 민간<b>경비<\/b>산업은 미래 성장산업으로 세계적으로 주"
+		},
+		{
+			"title":"치안공조와 민간<b>경비<\/b>산업육성을 위한<b>경비<\/b>업법 진단과 발전방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78405973",
+			"description":"Diagnosis of the private security industry law and development direction for the coordination of police and private security 치안공"
+		},
+		{
+			"title":"민간<b>경비<\/b>에 나타난 사회적 특징에 관한 연구: 한·일 제도의 비교를 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887980577",
+			"description":"A Study on the Social Characteristics of Private Expenses: Focusing on the comparison of Korea-Japan systems 한국은 매스 미디어"
+		},
+		{
+			"title":"민간<b>경비<\/b>와 경찰의 협력시스템에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56561646",
+			"description":"A Study on the System for the Cooperation Between Private Security and the Police 이 연구에서는 공권력의 한계, 민영화, "
+		},
+		{
+			"title":"민간<b>경비<\/b>규제 한·영 비교연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=13618273",
+			"description":"Comparative Study of Private Security in Korea and Unites Kingdom  목차\n민간<b>경비<\/b>규제 한·영 비교연구 \/ 노호래 1\n [Titl"
+		},
+		{
+			"title":"시민참여 대규모행사시 민간<b>경비<\/b>의 역할에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11246765",
+			"description":"A Study on Role of Private Security at Mass Crowd Event 우리나라는 선진외국에 비해 행사안전보다 행사진행이나 "
+		},
+		{
+			"title":"한국 민간<b>경비<\/b>산업의 과제와 전망",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532178",
+			"description":"Issues and prospect of Korean Private Security Industry 사회의 범죄예방 및 통제, 그리고 질서유지라는 치안행정서"
+		},
+		{
+			"title":"중국고등교육생균교육<b>경비<\/b>：저수평、만증장、불균형 (中国高等教育生",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=710632845",
+			"description":""
+		},
+		{
+			"title":"민간<b>경비<\/b> 채용과정의 문제점 및 개선방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877220816",
+			"description":"A Study on the Problems and Improvement Plans of the Private Security Recruitment Process 민간<b>경비<\/b>는 경찰과 범죄예방이라"
+		},
+		{
+			"title":"<b>경비<\/b>지도사의 교육훈련체제에 대한 <b>경비<\/b>업자의 의식에 관한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10899578",
+			"description":"A Study on Security Industry Employers of Consciousness in Training Security Guard Instructors In this study, I made actual analysis th"
+		},
+		{
+			"title":"일본 <b>경비<\/b>업체의 여성 <b>경비<\/b>원 채용 장해요인에 관한 연구: 시설<b>경비<\/b> 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843032856",
+			"description":"A Study on the Obstacles of Hiring Femail Security Guards in Japanese Security Companies: Focus on Facility Security and Traffic Securi"
+		},
+		{
+			"title":"4차 산업혁명에 따른 민간<b>경비<\/b>의 스마트치안 도입 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882041543",
+			"description":"A Study on the Introduction of SMART policing of Private Expenses in accordance with the Fourth Industrial Revolution 이 연구는 4"
+		},
+		{
+			"title":"지역 무질서가 범죄두려움에 미치는 영향 - 민간<b>경비<\/b>의 조절효과 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594080749",
+			"description":" 사회 안전과 관련해 범죄두려움의 중요성이 날로 더해가는 현실에서 민간<b>경비<\/b>의 활용이 범죄두려움"
+		},
+		{
+			"title":"데이트폭력 피해자 보호를 위한 경찰과 민간<b>경비<\/b>의 협력방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897583866",
+			"description":"Cooperation between the Police and Private Security for the Protection of Dating Violence Victims In not a small number of cases, simpl"
+		},
+		{
+			"title":"한국 민간<b>경비<\/b> 관련법제 단일화 논의 - <b>경비<\/b>업법과 청원경찰법을 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45943447",
+			"description":"A Study on Unification of Legislation related to Private Security  Abstract\n I. 서론\n II. 이론적 배경\n  1. 민간<b>경비<\/b>의 의"
+		},
+		{
+			"title":"경찰과 민간<b>경비<\/b>의 전략적 제휴 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442205291",
+			"description":"A Study on Strategic Alliance between Police and Private Security  Ⅰ. 서 론 \nⅡ. 전략적 제휴의 이론적 배경 \nⅢ. 범죄"
+		},
+		{
+			"title":"지역사회와 민간<b>경비<\/b>제도(산업)의 활용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10899631",
+			"description":"A Study on the Application of Privite Security Industry in Communities  I. 서론=423,429,2\nII. 지역사회를 위한 세큐리티기"
+		},
+		{
+			"title":"비정규노동센터의 조직적ㆍ제도적 실험: 아파트 <b>경비<\/b>노동자 조직화를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887611897",
+			"description":" 본 연구는 평등을 촉진하는 선분배의 맥락에서 비정규노동센터의 아파트 <b>경비<\/b>노동자 조직화 사례에 "
+		},
+		{
+			"title":"국회 경호·<b>경비<\/b> 체제 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56563359",
+			"description":"Plans for Improving the Security\/Protection System of the National Assembly 국회의사당은 국가운영을 위한 가장 중요한 "
+		},
+		{
+			"title":"<b>경비<\/b>지도사제도의 발전방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420242849",
+			"description":"A Study on the Development Plans of Security Instructor System 2014년 통계청 사회조사보고서에 따르면 우리 사회의 "
+		},
+		{
+			"title":"<b>경비<\/b>지도사 제도의 발전방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=41460420",
+			"description":"A Study on the Improvement of Security Guard Supervisor System <b>경비<\/b>지도사는 <b>경비<\/b>업무를 직접 수행하는 <b>경비<\/b>원을 지"
+		},
+		{
+			"title":"범죄 발생과 <b>경비<\/b>업체 주가 간의 관계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77183396",
+			"description":"The Relationship between the Major Crimes' Incidence and the Security Company's Stock Price 본 연구는 살인, 강도, 강간, 절"
+		},
+		{
+			"title":"특수<b>경비<\/b>제도의 발전방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16446244",
+			"description":"A study on develop plan for special security system 21세기 사회에 진입하면서 시민의 안전한 삶을 위협하는 범죄"
+		},
+		{
+			"title":"전침연합<b>경비<\/b>지속성기도정압통기（nCPAP）치료조색성수면호흡잠정저통",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=718471360",
+			"description":""
+		},
+		{
+			"title":"지역 재난관리 역량 강화를 위한 민간<b>경비<\/b>의 활용 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882041542",
+			"description":"Utilization of Private Security to Enhance the Local Disaster Management 오늘날 우리나라의 재난관리 시스템은 정부 주"
+		},
+		{
+			"title":"<b>경비<\/b>지속정압통기치료임신합병중중도조색성수면호흡잠정저통기종합정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=724164865",
+			"description":""
+		},
+		{
+			"title":"'보건의료인력지원법', 아파트 <b>경비<\/b>노동자 고용 안정 등 주제로 토론회 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843939408",
+			"description":"  목차\n'보건의료인력지원법', 아파트 <b>경비<\/b>노동자 고용 안정 등 주제로 토론회 열려 : 일하는 국회 공"
+		},
+		{
+			"title":"민간<b>경비<\/b>조직 구성원의 조직공정성이 조직시민행동 및 조직성과에 미치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877220760",
+			"description":"Effects of Organizational Justice of Members of Private Security Companies on Organizational Citizenship Behavior and Organizational Pe"
+		},
+		{
+			"title":"국가중요시설의 기계<b>경비<\/b>시스템 적용 모델에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12957873",
+			"description":"A Study on the Electronic Security System Model for Special Security Needed Facilities  목차\n국가중요시설의 기계<b>경비<\/b>시스"
+		},
+		{
+			"title":"심리적 안정 확보를 통한 민간<b>경비<\/b>산업의 발전방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58325085",
+			"description":" 민간<b>경비<\/b> 산업의 수단이 인력을 기반으로 한 형태에서 감지센서와 CCTV 등의 기계<b>경비<\/b>로 변화함에 따"
+		},
+		{
+			"title":"세계 <b>경비<\/b>시장에서 전개되는 <b>경비<\/b>업무 국제규격의 통일화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843053883",
+			"description":"Unification of International Standards for Security Services in the Global Security Guard Market 2015년 9월 <b>경비<\/b>업의 사업전개"
+		},
+		{
+			"title":"민간<b>경비<\/b> 교육제도 개선방안에 관한 연구 -일반<b>경비<\/b>원 신임교육 중심으",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896909261",
+			"description":"A Study on the Improvement Measures for the Private Security Education System -Focusing on the Education for Newly Appointed General Se"
+		},
+		{
+			"title":"서울특별시 교육<b>경비<\/b>보조금의 공평성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881045043",
+			"description":"An Analysis of Equity on Education Financein Seoul Metropolitan Government 본 연구는 최근 지속적으로 증가하고 있는 서"
+		},
+		{
+			"title":"충청남도 기초자치단체 교육<b>경비<\/b> 보조사업 제한의 유효성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865544273",
+			"description":"A Study on the Validity of the Restriction of Educational Expenses Assistance Projects in Chungcheongnam-do Provincial Government 본 "
+		},
+		{
+			"title":"기계<b>경비<\/b>실습실 설치 및 운영의 발전방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59537523",
+			"description":"Proposals for the Installation and Operation of Electronic Security Lab 1970년대 미국 전자공학의 발달에 힘입어 기계경"
+		},
+		{
+			"title":"민간<b>경비<\/b> 산업의 경영환경(SWOT)분석과 활성화 전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765932899",
+			"description":"The Activation Strategy and Diagnostic Issues through Business Environment (SWOT) Analysis for Private Security Industry 본 연구는 "
+		},
+		{
+			"title":"서울특별시 교육<b>경비<\/b>보조금의 공평성 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=877223901",
+			"description":"An Analysis of Equity on Education Financein Seoul Metropolitan Government 본 연구는 최근 지속적으로 증가하고 있는 서"
+		},
+		{
+			"title":"시설<b>경비<\/b> 및 물리보안 용어에 대한 빅데이터 분석: 인식 및 정서를 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897583533",
+			"description":"Big Data Analysis on the Term Facility Security and the Term Physical Security: Focusing on Awareness and Sentiment The private securit"
+		},
+		{
+			"title":"기계<b>경비<\/b>원의 <b>경비<\/b>능력이 직무만족에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=846905555",
+			"description":"A Study on Electronic Security Guard’s Security Performance on Job Satisfaction 연구목적: 이 연구는 기계비원의 <b>경비<\/b>능"
+		},
+		{
+			"title":"치안서비스 공동생산자론에 입각한 <b>경비<\/b> 근무자들의 지역경찰제에 대한",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882041538",
+			"description":"Effect of Security Guards’ Perception of Local Police System on Fear of Crime Based on the Co-producers of Public Security Service "
+		},
+		{
+			"title":"민간<b>경비<\/b>업체의 드론 <b>경비<\/b>업무 도입에 관한장애요인 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630777308",
+			"description":"A Study on the Obstacle Factor Regarding the Drone Security Business Introduction in a Private Security Company  Ⅰ. 서 론\n\nⅡ. 드"
+		},
+		{
+			"title":"Cam-Shift 알고리즘을 이용한 <b>경비<\/b>드론 융합서비스 기법",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594833515",
+			"description":" 최근 첨단산업이 발달함에 따라 일상생활의 다양한 부분에서 드론의 이용이 급격하게 발전되어 지고"
+		},
+		{
+			"title":"해양사고 신속대응을 위한 k-평균 군집화 기반 <b>경비<\/b>함정 최적배치",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=561541773",
+			"description":"Optimal Arrangement of Patrol Ships based on k-Means Clustering for Quick Response of Marine Accidents 현 <b>경비<\/b> 함정의 위치는 "
+		},
+		{
+			"title":"한국민간<b>경비<\/b>산업의 발전과 활용에 관한 연구 (韓國民間警備産業의 發",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10516111",
+			"description":"A Study on the Development and Application of Private Security Industry in Korea  I. 서론=31,35,1\n 1. 연구의 목적=31,35,3\n 2. "
+		},
+		{
+			"title":"자치경찰제 시행에 따른 민간<b>경비<\/b> 협력 강화방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882041546",
+			"description":"Measures to strengthen cooperation with private security in accordance with the implementation of the autonomous police system 2021년 "
+		},
+		{
+			"title":"그들은 왜 목숨을 걸고 아파트를 지켜야 하나요? : 입주민 갑질에 시달리",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650694652",
+			"description":"  목차\n그들은 왜 목숨을 걸고 아파트를 지켜야 하나요? : 입주민 갑질에 시달리는 <b>경비<\/b> 노동자 \/ 김보"
+		},
+		{
+			"title":"민간<b>경비<\/b>규제 한영 비교분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420700837",
+			"description":" 영국(United Kingdom)의 인구는 205년 중반 현재 대략 6,020만명이고 5,040만명이 잉글랜드(England)에 거주한다"
+		},
+		{
+			"title":"공공부문 <b>경비<\/b>업무 도급에 따른 도급인의 업무지시권 — 국가중요시설 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843032528",
+			"description":"The ordering party’s right of instruction in the use of contract security guards in the public sector — Focusing on special securit"
+		},
+		{
+			"title":"경호<b>경비<\/b>제도 활성화를 위한 공인탐정제도의 필요성에 관한 연구: 전문",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897583575",
+			"description":"A Study on the Necessity of the Authorized Detective System to Revitalize the Security Guard System: Based on the Expert Delphi Intervi"
+		},
+		{
+			"title":"공동주택 <b>경비<\/b>업무에 대한 <b>경비<\/b>업법 적용의 비판적 검토",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=868710384",
+			"description":"A Critical Review of the Application of the SECURITY SERVICES INDUSTRY ACT to the Security Service of Multi-family Housing 공동주택"
+		},
+		{
+			"title":"민간<b>경비<\/b>에 대한 분류 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594008591",
+			"description":" 본 연구는 2015년 기준으로 전국 16개 지역별 <b>경비<\/b>업체수(법인수), <b>경비<\/b>원수 등 민간<b>경비<\/b> 규모, 그리고 "
+		},
+		{
+			"title":"<b>경비<\/b>분야 국가직무능력표준(NCS) 개발에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594888225",
+			"description":" 지식정보사회의 산업현장에서 필요로 하는 인재상은 지식과 실무를 겸비한 차별화된 전문직업인을 "
+		},
+		{
+			"title":"&quot;유엔사 <b>경비<\/b>대대는 한미동맹의 상징&quot; : 최진용(중령) JSA<b>경비<\/b>대대장, 릭 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=650675797",
+			"description":"  목차\n유엔사 <b>경비<\/b>대대는 한미동맹의 상징 : 최진용(중령) JSA<b>경비<\/b>대대장 ; 릭 루스(중령) 유엔사 <b>경비<\/b>"
+		},
+		{
+			"title":"코로나바이러스감염증-19 팬데믹 시대 민간<b>경비<\/b> 업무 환경에 대한 질적",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882041541",
+			"description":"A qualitative study on the working environment of private security in the era of COVID-19 pandemic: for access control private security"
+		},
+		{
+			"title":"<b>경비<\/b>행장의 예상편익과 가치평가에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=822144155",
+			"description":"A Study on the Benefits and Valuation of an Airfield 본 연구는 <b>경비<\/b>행장의 건설로 예상되는 편익을 추정하고 그 "
+		},
+		{
+			"title":"일반<b>경비<\/b>지도사와 일본 <b>경비<\/b>원지도교육책임자 비교를 통한 정책적 시사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=579069546",
+			"description":"Political Implications based on the Comparative Study of the Regular Security Instructor and Security Instructor in Japan <b>경비<\/b>원의 "
+		},
+		{
+			"title":"해양<b>경비<\/b> 서비스 품질 개선을 위한 해양<b>경비<\/b>사 제도에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58315341",
+			"description":"A Study on the Marine Civil Guard Officer to Enhance the Quality of Maritime Security Services 해상 및 해안에서 공<b>경비<\/b>를 보"
+		},
+		{
+			"title":"공동주택 <b>경비<\/b>업무에 대한 <b>경비<\/b>업법 적용의 비판적 검토: 법령해석례, ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=848399548",
+			"description":"A Critical Review of the Application of the SECURITY SERVICES INDUSTRY ACT to the Security Service of Multi-family Housing 공동주택"
+		},
+		{
+			"title":"일본 <b>경비<\/b>업체의 여성 <b>경비<\/b>원 채용 장해요인에 관한 연구: 시설<b>경비<\/b> 및 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=842518023",
+			"description":"A Study on the Obstacles of Hiring Femail Security Guards in Japanese Security Companies: Focus on Facility Security and Traffic Securi"
+		},
+		{
+			"title":"스마트 오피스 환경에서 시설<b>경비<\/b>의 운영 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630777305",
+			"description":"Operation Plan of Facility Security inSmart Office Environment  Ⅰ. 서 론\n\nⅡ. 이론적 논의\n\nⅢ. 시설<b>경비<\/b>의 운영 현황"
+		},
+		{
+			"title":"테러방지를 위한 민간<b>경비<\/b>의 역할과 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594964522",
+			"description":" 이 논문에서는 인간정보 역할의 중요성이 제기되고 있는 상황에서 테러방지를 위한 보완책으로 민간"
+		},
+		{
+			"title":"죽음에 이른 중고령 <b>경비<\/b>·청소노동자의 근로환경에 관한 질적 사례연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=894665098",
+			"description":"A qualitative case study on the working environment of middle-aged and elderly security and cleaning workers who died: Focusing on medi"
+		},
+		{
+			"title":"비정규노동센터의 조직적ㆍ제도적 실험: 아파트 <b>경비<\/b>노동자 조직화를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890230307",
+			"description":"OrganizationalㆍInstitutional Experimentation of Worker Center: Focusing on Organizing Apartment Security Workers 본 연구는 평등"
+		},
+		{
+			"title":"항만시설 <b>경비<\/b>보안제도의 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11543477",
+			"description":"  I. 머리말=41,45,2\nII. 항만시설 <b>경비<\/b>보안 관련법률 분석=42,46,4\nIII. 우리나라 항만별 시설<b>경비<\/b> 보안 현황"
+		},
+		{
+			"title":"1인당 국민소득 1만불시점의 한·일 민간<b>경비<\/b>산업 비교 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532416",
+			"description":"A Comparative Study of Private Security Industry Between Korea and Japan in the Viewpoint of 10,000 Dollar Income Per Person This study"
+		},
+		{
+			"title":"4차 산업혁명과 민간<b>경비<\/b>의 역할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=442205289",
+			"description":"The Fourth Industrial Revolution and Role of Private Security  Ⅰ. 서 론 \nⅡ. 이론적 논의 \nⅢ. 경찰무도 교육의 실태"
+		},
+		{
+			"title":"범죄예방을 위한 경찰과 민간<b>경비<\/b>의 협력방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56561616",
+			"description":"Collaboration System Between Public Police and Private Security for the Crime Prevention 본 연구의 목적은 범죄예방의 효율"
+		},
+		{
+			"title":"첨단기술의 해사환경에 대한 효율적인 해양<b>경비<\/b>활동 방안 연구 : 자율운",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889904946",
+			"description":"Analysis and Study of Efficient Maritime Security Activities for the Changed Maritime Environment Based on Advanced Technology: Focusin"
+		},
+		{
+			"title":"민간<b>경비<\/b> 교육의 문제점 및 발전방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77183406",
+			"description":"A Study on the Problems and Development of Private Security Education 민간<b>경비<\/b>와 경찰의 관계가 보다 중요하게 논의되"
+		},
+		{
+			"title":"교통유도<b>경비<\/b> 제도의 도입에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56561563",
+			"description":"A Study on the Plan to Introduce Traffic Flagger System 교통유도<b>경비<\/b>업무는 도로에 접속한 공사현장 및 사람과 차"
+		},
+		{
+			"title":"최근 입법된 해양<b>경비<\/b>법의 내용과 문제점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57057038",
+			"description":"  목차\n최근 입법된 해양<b>경비<\/b>법의 내용과 문제점 \/ 김종구 1\n 요약 1\n Abstract 1\n 1. 머리말 1\n 2. 해양<b>경비<\/b>"
+		},
+		{
+			"title":"범죄에 대한 두려움이 민간<b>경비<\/b> 선택에 미치는 영향에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594599935",
+			"description":" 인간은 경제적 요인, 물리적 환경 요인, 사회적 환경요인, 미디어에 의한 영향 등 이루 셀 수 없을 만"
+		},
+		{
+			"title":"해양<b>경비<\/b>법상 추적과 나포의 법적 성격에 관한 고찰",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843464376",
+			"description":"A Study on the Legal Characteristics of the Hot Pursuit and Arrest in the Maritime Policing Act 해양<b>경비<\/b>법  은 해양경찰 경"
+		},
+		{
+			"title":"기계<b>경비<\/b>시스템의 발전을 위한 AI 응용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891404944",
+			"description":"Application of AI for the Development of Machine Security Systems 제4차 산업혁명은 세계의 경제와 산업을 혁신적으로"
+		},
+		{
+			"title":"브랜드부문 통합대상 홈오토메이션 제조, 홈네트워크, 무인<b>경비<\/b>시스템",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890149777",
+			"description":""
+		},
+		{
+			"title":"민간<b>경비<\/b>업무의 발전방안 연구 : 이벤트 <b>경비<\/b>업무를 중심으로",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=562391704",
+			"description":"A Study on Development of Private Security Service : Focused on event security service  목차\n민간<b>경비<\/b>업무의 발전방안 연"
+		},
+		{
+			"title":"협력치안체제구축과 민간<b>경비<\/b>의 역할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594505347",
+			"description":" 오늘날 국민들의 삶을 질을 위협하는 범죄문제에 효과적으로 대처하기 위해서는 지역사회의 다양한 "
+		},
+		{
+			"title":"전략적 인적자원관리가 인적자원 유연성 및 조직성과에 미치는 영향에 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=848399467",
+			"description":"A Study on the Effects of Strategic Human Resource Management on Human Resource Flexibility and Organizational Performance 본 연구"
+		},
+		{
+			"title":"국가 중요시설<b>경비<\/b>종사자들의 직무스트레스가 조직몰입에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11532174",
+			"description":"Articles : An Empirical Study of the Impacts On Security Guardians` Work-related Stresses for National Facilities to Organizational Com"
+		},
+		{
+			"title":"첨단기술의 해사환경에 대한 효율적인 해양<b>경비<\/b>활동 방안 연구: 자율운",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888075672",
+			"description":"Analysis and Study of Efficient Maritime Security Activities for the Changed Maritime Environment Based on Advanced Technology: Focusin"
+		},
+		{
+			"title":"언어 네트워크 분석(Semantic Network Analysis)을 활용한 민간<b>경비<\/b> 분야의 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594634136",
+			"description":" 이 연구는 민간<b>경비<\/b> 분야에 대한 연구 경향을 살펴봄으로써 민간<b>경비<\/b> 분야의 발전 방향을 제시하고"
+		},
+		{
+			"title":"「해양<b>경비<\/b>법」검토와 발전방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=765931334",
+			"description":"The Examination and Development Plan of Maritime Policing Act 2012년 8월 23일에 시행예정인「해양<b>경비<\/b>법」은 해상에"
+		},
+		{
+			"title":"지역 재난관리 역량 강화를 위한 민간<b>경비<\/b>의 활용 방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=874519113",
+			"description":"Utilization of Private Security to Enhance the Local Disaster Management Today, private security has an important role to play in all t"
+		},
+		{
+			"title":"교쇄수내정고정법재개방성<b>경비<\/b>골골절치료중적응용 (交锁髓内钉固定法",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=716089876",
+			"description":"   Traditional medicine, Medicine "
+		},
+		{
+			"title":"노동조합에 대한 <b>경비<\/b>원조 관련 입법적 규율의 변화와 해석론",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888164495",
+			"description":"Changes in Legal Regulation and Interpretative Views on the Financial Support to Trade Union The clauses in relation to the financial s"
+		},
+		{
+			"title":"후족부 정렬 영상과 전후방 촬영 영상에서 <b>경비<\/b>인대결합과 관련된 방사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=890794609",
+			"description":"Comparison of radiographic parameters of syndesmosis in the hindfoot alignment and anteroposterior views  표제지\n목차\n국문 요"
+		},
+		{
+			"title":"후족부 정렬 영상과 전후방 촬영 영상에서 <b>경비<\/b>인대결합과 관련된 방사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865571206",
+			"description":"Comparison of radiographic parameters of syndesmosis in the hindfoot alignment and anteroposterior views  표제지\n목차\n국문 요"
+		},
+		{
+			"title":"후족부 정렬 영상과 전후방 촬영 영상에서 <b>경비<\/b>인대결합과 관련된 방사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888204790",
+			"description":"Comparison of radiographic parameters of syndesmosis in the hindfoot alignment and anteroposterior views  표제지\n목차\n국문 요"
+		},
+		{
+			"title":"후족부 정렬 영상과 전후방 촬영 영상에서 <b>경비<\/b>인대결합과 관련된 방사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=843008400",
+			"description":"Comparison of radiographic parameters of syndesmosis in the hindfoot alignment and anteroposterior views  표제지\n목차\n국문 요"
+		},
+		{
+			"title":"후족부 정렬 영상과 전후방 촬영 영상에서 <b>경비<\/b>인대결합과 관련된 방사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887581033",
+			"description":"Comparison of radiographic parameters of syndesmosis in the hindfoot alignment and anteroposterior views  표제지\n목차\n국문 요"
+		},
+		{
+			"title":"후족부 정렬 영상과 전후방 촬영 영상에서 <b>경비<\/b>인대결합과 관련된 방사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=888749005",
+			"description":"Comparison of radiographic parameters of syndesmosis in the hindfoot alignment and anteroposterior views  표제지\n목차\n국문 요"
+		},
+		{
+			"title":"후족부 정렬 영상과 전후방 촬영 영상에서 <b>경비<\/b>인대결합과 관련된 방사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896658031",
+			"description":"Comparison of radiographic parameters of syndesmosis in the hindfoot alignment and anteroposterior views  표제지\n목차\n국문 요"
+		},
+		{
+			"title":"후족부 정렬 영상과 전후방 촬영 영상에서 <b>경비<\/b>인대결합과 관련된 방사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=872867073",
+			"description":"Comparison of radiographic parameters of syndesmosis in the hindfoot alignment and anteroposterior views  표제지\n목차\n국문 요"
+		},
+		{
+			"title":"후족부 정렬 영상과 전후방 촬영 영상에서 <b>경비<\/b>인대결합과 관련된 방사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=873486436",
+			"description":"Comparison of radiographic parameters of syndesmosis in the hindfoot alignment and anteroposterior views  표제지\n목차\n국문 요"
+		}
+	]
+}

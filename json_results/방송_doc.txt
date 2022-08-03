@@ -1,0 +1,508 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:40 +0900",
+	"total":112309,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"한국<b>방송<\/b>학보",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=5822",
+			"description":""
+		},
+		{
+			"title":"<b>방송<\/b>통신연구",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1049133",
+			"description":""
+		},
+		{
+			"title":"<b>방송<\/b>공학회논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3300378",
+			"description":""
+		},
+		{
+			"title":"한국인터넷<b>방송<\/b>통신학회 논문지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1022130",
+			"description":""
+		},
+		{
+			"title":"신문과 <b>방송<\/b>",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1051744",
+			"description":""
+		},
+		{
+			"title":"한국<b>방송<\/b>공학회지",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=966521",
+			"description":""
+		},
+		{
+			"title":"<b>방송<\/b>문화",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=59858",
+			"description":""
+		},
+		{
+			"title":"시청자 프로그램 품질 평가가 채널 브랜드 자산에 미치는 영향-경쟁적 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220252",
+			"description":"Program Quality and Channel Brand Equity forthe Public Service Broadcasters    "
+		},
+		{
+			"title":"전파<b>방송<\/b>통신저널",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=4539",
+			"description":""
+		},
+		{
+			"title":"<b>방송<\/b>통신전파저널",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2141880",
+			"description":""
+		},
+		{
+			"title":"미국<b>방송<\/b>협회(NAB) 자율심의 제도의 변천과정: 한국 <b>방송<\/b>심의제도에 던지",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289891375",
+			"description":"The history of the NAB's Code of Conduct:Implications on the Korean broadcasting deliberation system 현재 <b>방송<\/b>환경은 빠른 속"
+		},
+		{
+			"title":"헌법상 <b>방송<\/b>의 자유보장을 위한 현행 <b>방송<\/b>심의제도의 문제점과 개선방",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=59539330",
+			"description":"The legal problems of korean broadcasting standard for the guarantee of constitutional freedom of broadcasting 현행법상의 <b>방송<\/b>"
+		},
+		{
+			"title":"<b>방송<\/b>클립동영상 이용이 <b>방송<\/b> 시청의도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=233330407",
+			"description":"Effects of Using Shot Clip on the Broadcasting Viewing Intention 본 연구에서는 <b>방송<\/b>클립동영상 이용이 VOD 구매의도"
+		},
+		{
+			"title":"<b>방송<\/b>과 기술",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2414",
+			"description":""
+		},
+		{
+			"title":"공영<b>방송<\/b>의 새로운 정체성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220177",
+			"description":"A New model for the distinctivness of PSB This study suggests a new role model for Public Service Broadcasting (PSB) in the context of "
+		},
+		{
+			"title":"경쟁적 <b>방송<\/b>환경에서 민영<b>방송<\/b>의 프로그램 품질평가에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220266",
+			"description":"A Study of the Audiences' Evaluation of Television Program Quality for a Private Broadcasting Station in Competitive Broadcasting Envir"
+		},
+		{
+			"title":"<b>방송<\/b>클립동영상 이용이 <b>방송<\/b> 시청의도에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594647397",
+			"description":" 본 연구에서는 <b>방송<\/b>클립동영상 이용이 VOD 구매의도와 본<b>방송<\/b> 시청의도에 영향을 줄 수 있는지를 살"
+		},
+		{
+			"title":"<b>방송<\/b>시장에서의 금지행위 규제의 문제점과 개선방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16590877",
+			"description":"  목차\n<b>방송<\/b>시장에서의 금지행위 규제의 문제점과 개선방안 \/ 홍대식 1\n I. 논의의 배경과 범위 1\n  1. 논"
+		},
+		{
+			"title":"<b>방송<\/b> · 통신 융합의 사회적 맥락",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290334575",
+			"description":"The Social Context of the Convergence of Broadcasting and Telecommunication    "
+		},
+		{
+			"title":"<b>방송<\/b>·통신 통합법 제정과 유료<b>방송<\/b>시장 쟁점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32696595",
+			"description":"  목차\n<b>방송<\/b>·통신 통합법 제정과 유료<b>방송<\/b>시장 쟁점 \/ 이상식 1\n 〈국문초록〉 1\n I. 서론 1\n II. 최근 입"
+		},
+		{
+			"title":"미국 실시간 <b>방송<\/b> OTT 서비스 현황",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56998566",
+			"description":"  목차\n미국 실시간 <b>방송<\/b> OTT 서비스 현황 \/ 이기훈 1\n 1. 개요 1\n 2. 미국의 주요 실시간 <b>방송<\/b> OTT 서비스 2\n"
+		},
+		{
+			"title":"신주(예약권)의 제3자 배정에 의한 경영권 방어의 적법성 : 일본<b>방송<\/b> 사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=12494392",
+			"description":"  목차\n新株(豫約權)의 第3者 配定에 의한 經營權 防禦의 適法性 : 일본<b>방송<\/b> 사건에 비추어 본 일본 판"
+		},
+		{
+			"title":"온라인 개인 게임 <b>방송<\/b>의 스토리텔링 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78291511",
+			"description":"Analysis of Storytelling in On-line Personal Game Broadcasting 본 연구의 목적은 온라인 개인 게임 <b>방송<\/b>에 나타난 스"
+		},
+		{
+			"title":"<b>방송<\/b>산업의 현황과 <b>방송<\/b>저작권의 과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77871008",
+			"description":"Broadcasting Industry and Emerging Issues in Broadcast Copyright <b>방송<\/b>의 제작과 유통 환경이 급격하게 변화하는 시대"
+		},
+		{
+			"title":"스마트TV 등장에 따른 유료<b>방송<\/b> 사업자의 대응",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47050225",
+			"description":"  목차\n스마트TV 등장에 따른 유료<b>방송<\/b> 사업자의 대응 \/ 유선실 1\n [요약] 1\n I. 서론 1\n II. 유료<b>방송<\/b> 사업"
+		},
+		{
+			"title":"공영<b>방송<\/b>의 공적 책무성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220178",
+			"description":"Public Accountability in Public Broadcasting System This study develops the concept of 'accountability' as a practical standard for the"
+		},
+		{
+			"title":"<b>방송<\/b>접근권 보장을 위한 장애인<b>방송<\/b> 서비스 정책 현황 분석 : 한국과 영",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57391408",
+			"description":"  목차\n<b>방송<\/b>접근권 보장을 위한 장애인<b>방송<\/b> 서비스 정책 현황 분석 : 한국과 영국의 장애인<b>방송<\/b> 서비"
+		},
+		{
+			"title":"<b>방송<\/b>프로그램 전\/후 CM의 광고노출효과 비교연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=10822412",
+			"description":"  목차\n<b>방송<\/b>프로그램 전\/후 CM의 광고노출효과 비교연구 \/ 이규완 ; 박원기 1\n [요약] 1\n 1. 문제의 제기 1\n"
+		},
+		{
+			"title":"패싯분석 기법을 적용한 <b>방송<\/b>자료의 내용 구조화에 관한 연구: 시사보도",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=116465064",
+			"description":"A Faceted Classification Analysis of TV content: Using News and Current Affairs Programs 본 연구에서는 <b>방송<\/b>자료에 대한 지"
+		},
+		{
+			"title":"미디어 컨버전스 시대 공영<b>방송<\/b>의 역할과 규제체계",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45698437",
+			"description":"  목차\n미디어 컨버전스 시대 공영<b>방송<\/b>의 역할과 규제체계 \/ 황근 1\n 국문초록 1\n I. 머리말 1\n II. 컨버전"
+		},
+		{
+			"title":"EU 집행위원회의 공영<b>방송<\/b> 재원 규제: EU 국가보조 금지 법규와 공영<b>방송<\/b>",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896637582",
+			"description":"European Commission Control of State Aid to Public Service Broadcasting 수신료 등 공영<b>방송<\/b>의 공적 재원에 대한 EU 집행"
+		},
+		{
+			"title":"디지털케이블<b>방송<\/b>의 잠재적 수용자 특성에 관한 연구 - 케이블<b>방송<\/b> 가입",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220231",
+			"description":"The Study on Characteristics of Potential Digital Cable Subscribers 본 연구에서는 미디어 이용과 충족 논의를 기본 모"
+		},
+		{
+			"title":"<b>방송<\/b> 영상자료의 온라인 기록정보서비스에 관한 연구 : 공영<b>방송<\/b>을 중심",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=651076066",
+			"description":"A study on the online information services of broadcasting video data : focusing on public broadcasting  목차\n<b>방송<\/b> 영상자료의 "
+		},
+		{
+			"title":"노모파견용공관제여<b>방송<\/b>지평형——겸석《노동합동법》제58조제2관 (劳",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=699539421",
+			"description":""
+		},
+		{
+			"title":"<b>방송<\/b> 개발",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=3232239",
+			"description":""
+		},
+		{
+			"title":"<b>방송<\/b>이율관제、이윤율균등화여실체기업“탈실향허” (放松利率管制、",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=662769727",
+			"description":""
+		},
+		{
+			"title":"<b>방송<\/b>산업의 구조변화와 규제 쟁점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32708470",
+			"description":"  목차\n<b>방송<\/b>산업의 구조변화와 규제 쟁점 \/ 김영주 1\n 〈국문초록〉 1\n I. 문제제기 1\n II. <b>방송<\/b>산업의 구"
+		},
+		{
+			"title":"프랑스 공영<b>방송<\/b>법 제정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32695243",
+			"description":"French Public Television Act 본 연구는 프랑스 공영<b>방송<\/b>법 제정의 배경과 과정, 그리고 공영<b>방송<\/b>법 제정이 "
+		},
+		{
+			"title":"<b>방송<\/b>통신 통합법의 정책방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32709952",
+			"description":"  목차\n<b>방송<\/b>통신 통합법의 정책방향 \/ 염용섭 1\n 〈국문초록〉 1\n I. <b>방송<\/b>통신 환경변화와 규제 1\n  1. 들"
+		},
+		{
+			"title":"<b>방송<\/b>작가",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=1120868",
+			"description":""
+		},
+		{
+			"title":"&quot;국회<b>방송<\/b>이 한발 더 가까이 다가갑니다&quot; : 국회<b>방송<\/b> 채널번호 단일화 성",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=881429350",
+			"description":"  목차\n&quot;국회<b>방송<\/b>이 한발 더 가까이 다가갑니다&quot; : 국회<b>방송<\/b> 채널번호 단일화 성과와 의의 \/ 임광기 1\n ["
+		},
+		{
+			"title":"<b>방송<\/b> · 통신 융합에 따른 법제도적 정비방안 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290334576",
+			"description":"A study on Korean Business Regulatory Model due to Convergence of Broadcasting and Telecommunications Services    "
+		},
+		{
+			"title":"데이터 <b>방송<\/b>의 현황과 정책과제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220270",
+			"description":"A Study on the Current Condition and Policy of Data Broadcasting 데이터 <b>방송<\/b>은 <b>방송<\/b>의 디지털화에 따라서 등장하게 "
+		},
+		{
+			"title":"국제 <b>방송<\/b>프로그램의 유통구조와 한국<b>방송<\/b>프로그램 수출전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220206",
+			"description":"The Economics of Korean Television Programsin the Global Market    "
+		},
+		{
+			"title":"<b>방송<\/b>공익의 개념적 파생에 대한 칸트 윤리학적 논의",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=20016459",
+			"description":"The Kantian Ethical Approach to Conceptual Derivation of 'Public Interests' in the Television Industry and Policy Discourse <b>방송<\/b>시"
+		},
+		{
+			"title":"스포츠 <b>방송<\/b>의 수용자 복지 관점에서 바라본 2012년 런던 하계 올림픽 방",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77895078",
+			"description":"Joint Broadcast Methods of the 2012 London Olympic Games: An Audience Welfare Perspective 본 연구는 2012 런던올림픽 <b>방송<\/b>방"
+		},
+		{
+			"title":"지역<b>방송<\/b> 뉴스 특성, 구성방식과 지역성 구현과의 관계 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=15291367",
+			"description":"The Characters of News in Local Broadcasting and the Realization of Locality 이 연구는 지역<b>방송<\/b> 뉴스의 특성과 구성방"
+		},
+		{
+			"title":"씨름경기 중계<b>방송<\/b> 시청이 시청몰입과 시청형태에 미치는 영향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78329486",
+			"description":"The effect of Ssireum relay broadcasting on the viewing flow and viewers' type 이 연구는 씨름경기 중계<b>방송<\/b> 시청이 시청"
+		},
+		{
+			"title":"<b>방송<\/b>·통신분야에서의 이용자보호법제 : 독일의 법제와 시사점",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45698417",
+			"description":"  목차\n<b>방송<\/b>·통신분야에서의 이용자보호법제 : 독일의 법제와 시사점 \/ 장경원 1\n 국문초록 1\n I. 들어"
+		},
+		{
+			"title":"독일 공영<b>방송<\/b>에서의 <b>방송<\/b>수신료의 의미, 기능 그리고 결정과정",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18519960",
+			"description":"  목차\n독일 공영<b>방송<\/b>에서의 <b>방송<\/b>수신료의 의미, 기능 그리고 결정과정 \/ 최우정 1\n [목차] 1\n I. 들어가"
+		},
+		{
+			"title":"<b>방송<\/b>·통신 융합에 따른 규제체계 전환의 정책방향",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220276",
+			"description":"The Regulatory Framework Shift Policy Under the Convergence 본 연구는 융합 환경에 조응하기 위한 수평적 규제체계 "
+		},
+		{
+			"title":"독일 공영<b>방송<\/b>의 재원구조와 <b>방송<\/b>재정수요조사심의위원회(KEF)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77891310",
+			"description":"The Financial Structure of German Public Broadcasting System and KEF 이 논문은 독일 <b>방송<\/b>의 핵심을 이루고 있는 공영"
+		},
+		{
+			"title":"일본, '정보통신법(가칭)' 무산 원인과 통신·<b>방송<\/b> 관련법 주요 개정 내용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=47050202",
+			"description":"  목차\n일본, '정보통신법(가칭)' 무산 원인과 통신·<b>방송<\/b> 관련법 주요 개정 내용 \/ 박민성 1\n [요약] 1\n I."
+		},
+		{
+			"title":"지상파<b>방송<\/b> 규제의 현황과 <b>방송<\/b>법 개정의 쟁점 및 전망",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=32706985",
+			"description":"  목차\n지상파<b>방송<\/b> 규제의 현황과 <b>방송<\/b>법 개정의 쟁점 및 전망 \/ 정인숙 1\n 〈국문초록〉 1\n I. 논의의 "
+		},
+		{
+			"title":"지역<b>방송<\/b> 채널 브랜드와 뉴스편성 전략: 채널 브랜드 자산의 구성과 효",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420934669",
+			"description":"Channel Brand Equity: Construction, Effect and Strategy: Local Channel Brand Management &amp; News Programming This project is to explore a"
+		},
+		{
+			"title":"서유럽 <b>방송<\/b>의 공정성 원칙과 규제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16607977",
+			"description":"Impartiality, Pluralism and Honesty 이 글은 영국과 프랑스의 사례를 구체적으로 살펴봄으로써 한국 <b>방송<\/b>의 공"
+		},
+		{
+			"title":"<b>방송<\/b> 언어의 외래어 사용 실태",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=85992353",
+			"description":"The Actual Conditions of Loan Words in Broadcasting Language  1. 머리말\n 2. <b>방송<\/b> 언어의 외래어 사용 실태 분석\n  2.1. "
+		},
+		{
+			"title":"지상파 민영 <b>방송<\/b>의 소유 규제 완화가 <b>방송<\/b> 시장에 미치는 영향에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889239839",
+			"description":"A Study on the Effect of Deregulation of Ownership of Terrestrial Private Broadcasting on the Broadcasting Market 최근 일부 지역 "
+		},
+		{
+			"title":"<b>방송<\/b> · 통신 융합과 수용자의 미디어 이용행태의 변화",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290334570",
+			"description":"Media Converfence and Audience Media Use Patterns    "
+		},
+		{
+			"title":"외주 제작 시장과 스타 시스템의 왜곡 성장: <b>방송<\/b> 공경제(公經濟)에서 방",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420934677",
+			"description":"A Contradictory Development of Independent Production Market and the Star System This article examines the role and power of independen"
+		},
+		{
+			"title":"지역<b>방송<\/b>의 지역성 변화: 개념적 접근",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=594699641",
+			"description":" 장소, 공간, 문화가 하나의 '동형체'였던 전근대시기에 지역(적 정체)성은 모든 정체성을 통합한 하나"
+		},
+		{
+			"title":"공영<b>방송<\/b>의 재원 - 수신료 법제와 정책을 중심으로 -",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=289891380",
+			"description":"Financing for Public Service Broadcasting-Focusing on the Law and Policy of Receiving Fee- The premise of raising the licence fee is th"
+		},
+		{
+			"title":"인터넷 개인<b>방송<\/b> 시청공동체 특성에 관한 탐색적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=707085840",
+			"description":""
+		},
+		{
+			"title":"<b>방송<\/b> 콘텐츠의 수익 창출 구조에 대한 연구-드라마 &lt;올인&gt;을 중심으로_",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220251",
+			"description":"Revenue model of TV contents: Study focused on drama &lt;All in&gt;    "
+		},
+		{
+			"title":"지상파 <b>방송<\/b>의 성별 인력구조와 <b>방송<\/b>내용의 성차별성과의 관계에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=16566299",
+			"description":"  목차\n지상파 <b>방송<\/b>의 성별 인력구조와 <b>방송<\/b>내용의 성차별성과의 관계에 대한 논의 \/ 이수연 1\n [요약] "
+		},
+		{
+			"title":"새로운 <b>방송<\/b>질서와 <b>방송<\/b>규제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74811409",
+			"description":"Changes in Telecommunications Regulations <b>방송<\/b>통신 분야의 기술발전과 경쟁조건들은 시시각각 내용이 변하면서"
+		},
+		{
+			"title":"<b>방송<\/b>콘텐츠 유통과 저작권",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220239",
+			"description":"Flow of Broadcasting Contents and Copyrights This study deals with what copyrights issues are involved in the flow of broadcasting cont"
+		},
+		{
+			"title":"한국 <b>방송<\/b>에서 초기 컴퓨터 활용에 관한 연구 : 선거 개표<b>방송<\/b> 변천사를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=891351229",
+			"description":"A study on the early computer utilization in Korean broadcasting : focusing on the history of election broadcasting(****-****)  목차\n"
+		},
+		{
+			"title":"디지털 시대의 교육, 정보, <b>방송<\/b>의 관계모색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=11140127",
+			"description":"Research on Relationship Between Education, Information, Broadcasting In Digital Generation 유사 사고정교화(elaborating)수정"
+		},
+		{
+			"title":"모바일 메신저를 이용한 양방향 <b>방송<\/b>서비스",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=78424771",
+			"description":"Interactive Broadcasting Service Using Mobile Messenger 최근 미디어기술의 발전은 전통적 <b>방송<\/b>방식의 체계를 변화"
+		},
+		{
+			"title":"동향과 전망 : <b>방송<\/b>ㆍ통신ㆍ전파",
+			"link":"http:\/\/academic.naver.com\/journal.naver?journal_id=2688580",
+			"description":""
+		},
+		{
+			"title":"주한미군<b>방송<\/b>(WVTP)의 등장과 영향(1945～1950)",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420426840",
+			"description":"The Beginning of Armed Forces Radio in Korea(WVTP) and Its Influences(1945～1950) 해방이 되고 미군이 진주하면서 바로 "
+		},
+		{
+			"title":"융합환경에서의 <b>방송<\/b>통신사업 분류체계와 진입규제",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45698410",
+			"description":"  목차\n융합환경에서의 <b>방송<\/b>통신사업 분류체계와 진입규제 \/ 박동욱 1\n 국문초록 1\n I. 서론 1\n II. 국내 "
+		},
+		{
+			"title":"<b>방송<\/b>프로그램의 성과에 영향을 미치는 요인 분석 : 프로그램의 질, 수용",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220274",
+			"description":"Elements Affecting the Performance of Broadcast Programs: Program Quality, Audience, and Economic Performances 본 연구의 목적은 "
+		},
+		{
+			"title":"<b>방송<\/b>시장에서의 공정경쟁 기본원칙과 불공정거래행위 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290334572",
+			"description":"Competition Regulation Policy in Korean Broadcasting Market    "
+		},
+		{
+			"title":"<b>방송<\/b>위원회의 주의 · 경고 및 권고에 관한 행정법적 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290334587",
+			"description":"A Study of Caution, Warning, and Recommendation by Korean Broadcasting Commission in View of Administrative Law    "
+		},
+		{
+			"title":"한국 <b>방송<\/b>에서 초기 컴퓨터 활용에 관한 연구: 선거 개표<b>방송<\/b> 변천사를 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=882775876",
+			"description":"A Study on the Early Computer Utilization in Korean Broadcasting: Focusing on the History of Election Broadcasting(****-****) 오늘날"
+		},
+		{
+			"title":"장애인 <b>방송<\/b> 접근권 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=77208600",
+			"description":"Broadcast Accessibility for People with Disabilities - focus on Description Video Services for People with Visual Impairments 현대를"
+		},
+		{
+			"title":"<b>방송<\/b>프로그램포맷의 저작권법상 보호방안",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=57382124",
+			"description":"  목차\n<b>방송<\/b>프로그램포맷의 저작권법상 보호방안 \/ 김대규 1\n [요약] 1\n I. 들어가며 2\n II. <b>방송<\/b>프로그램"
+		},
+		{
+			"title":"공영<b>방송<\/b> 수신료 지불 의사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=74817676",
+			"description":"Willingness to pay for license fee of public broadcasting service focusing on perception of audience welfare 이 연구는 공영<b>방송<\/b>"
+		},
+		{
+			"title":"지상파 <b>방송<\/b> 프로그램 유통 전략의 특성에 관한 연구: 매체 다변화와 시",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420934597",
+			"description":"Windowing Strategies of Korean Broadcasting Networks: A Choice between Media Diversification and Intertemporal Price Discrimination In "
+		},
+		{
+			"title":"지역<b>방송<\/b> 공동제작 프로그램의 특성과 활성화 방안 연구: 제주지역 지상",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887309279",
+			"description":"A Study on the Characteristics and Activation of Local Broadcasting Co-production Programs: Focusing on terrestrial broadcasting in Jej"
+		},
+		{
+			"title":"<b>방송<\/b>통신위원회의 법집행절차 개선방향에 관한 연구 : 행정절차에 대한 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=45744396",
+			"description":"  목차\n<b>방송<\/b>통신위원회의 법집행절차 개선방향에 관한 연구 : 행정절차에 대한 對審主義 접목의 의의"
+		},
+		{
+			"title":"게임 관련 온라인 개인 <b>방송<\/b> 시장 동향과 트위치(Twitch) 사업자 전략",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=630799246",
+			"description":"  목차\n게임 관련 온라인 개인 <b>방송<\/b> 시장 동향과 트위치(Twitch) 사업자 전략 \/ 이선희 1\n 1. 서론 1\n 2. 게"
+		},
+		{
+			"title":"1980년대 중후반기 유선<b>방송<\/b> 관련법 제정과 <b>방송<\/b>영상산업계의 반응",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=875249095",
+			"description":"The Enactment of the Cable TV Broadcasting-Related Laws in the mid to late 1980s and the Reaction of the Broadcasting and Video Industr"
+		},
+		{
+			"title":"유료<b>방송<\/b> 규제 개선 및 중소종합유선<b>방송<\/b>사업자 지원을 위한 법령 개정 ",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887344313",
+			"description":""
+		},
+		{
+			"title":"디지털 <b>방송<\/b>산업의 향후 전망과 경제적 파급효과 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=18467770",
+			"description":"The Prospects and Economic Impacts of Digital Broadcasting Industry 기존의 아날로그 <b>방송<\/b>이 디지털 <b>방송<\/b>으로 전환되"
+		},
+		{
+			"title":"유료<b>방송<\/b>시장 관련지역시장 획정 논의: 점유율 접근",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=889239984",
+			"description":"Geographic Market Definition in Multi-channel Broadcasting Service: Market Share Approach 유료<b>방송<\/b>의 관련지역시장은 과거"
+		},
+		{
+			"title":"유료<b>방송<\/b> 결합상품의 시장영향에 대한 경제학적 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=56553120",
+			"description":"Impacts of IPTV-satellite bundling on the pay-TV market <b>방송<\/b>과 <b>방송<\/b>을 결합한 상품인 OTS의 등장으로 국내 유료TV 방"
+		},
+		{
+			"title":"<b>방송<\/b>프로그램 저작권 이용실태 분석",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=290220240",
+			"description":"A Study on The Use of Copyright in Korea Broadcast Program Marktet With the changes of the environment surrounding copyright caused by "
+		},
+		{
+			"title":"USRP기반 채널 적응형 개인<b>방송<\/b>시스템 구현 및 검증",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=897735770",
+			"description":"Implementation and Verification of Channel Adaptive Private Broadcasting System Based on USRP 본 연구에서는 ATSC 기반 무선통"
+		},
+		{
+			"title":"EBS 영어교육<b>방송<\/b>을 활용한 초등학생의 자기 주도적 영어 학습능력 신장",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=58338499",
+			"description":"A Study on Elementary Students’ Self-Directed Learning by Using EBS English (EBSe) 본 연구에서는 학생들의 다양한 영어 "
+		},
+		{
+			"title":"MPEG-2 기반 지상파 2HD 서비스를 위한 주사 방식별 객관적 화질 측정 및 시",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=155230366",
+			"description":"A Study on Measurement of Objective Image Quality by Scanning Type for MPEG-2-based Terrestrial 2HD Service and Application on Experime"
+		},
+		{
+			"title":"“과학기술·정보통신 분야 현안 해결해 대한민국 4차 산업혁명 성공 이",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887993962",
+			"description":"  목차\n&quot;과학기술·정보통신 분야 현안 해결해 대한민국 4차 산업혁명 성공 이끌 것&quot; : 박성중 과학기술"
+		},
+		{
+			"title":"인터넷 개인 <b>방송<\/b> 진행자들의 일탈 <b>방송<\/b>의도에 영향을 미치는 요인: 시",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=896404208",
+			"description":"Factors Affecting Deviation Broadcasting Intentions of Internet Personal Broadcasting Jockey: From the Perspective of the Social Pressu"
+		},
+		{
+			"title":"지상파 <b>방송<\/b>심의를 둘러싼 영향력 집단의 갈등과 심의개선의 모색",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420934681",
+			"description":"A Study on the Social Conflict of Content Regulation in the Field of Korean Terrestrial TV Program This article examines the social con"
+		},
+		{
+			"title":"Additive DEA 모형을 이용한 지상파<b>방송<\/b>사업자와 종합편성 <b>방송<\/b>채널사용사",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=865514562",
+			"description":"Efficiency Analysis of Terrestrial Broadcasters and Comprehensive Programming Program Providers by Additive DEA 우리나라 전체 방"
+		},
+		{
+			"title":"<b>방송<\/b>의 공정성 확보를 위한 제도적 개선방안에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=420165250",
+			"description":"A Study on Institutional Reform to Secure Fairness in Broadcasting Program This study aims to point out problems of current deliberatio"
+		},
+		{
+			"title":"“글로벌 기술 패권 경쟁 시대 선제적 대응으로 대한민국 발전에 일조할",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887993963",
+			"description":"  목차\n&quot;글로벌 기술 패권 경쟁 시대 선제적 대응으로 대한민국 발전에 일조할 것&quot; : 조승래 과학기술"
+		},
+		{
+			"title":"공공데이터와 IoT 센싱 데이터를 활용한 경보<b>방송<\/b> 방법에 관한 연구",
+			"link":"http:\/\/academic.naver.com\/article.naver?doc_id=887307656",
+			"description":"A study on alarm broadcasting method using public data and IoT sensing data 사회가 발전하고 복잡해짐에 따라 재난의 종"
+		}
+	]
+}

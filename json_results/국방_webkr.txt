@@ -1,0 +1,373 @@
+{
+	"lastBuildDate":"Wed, 27 Jul 2022 18:32:20 +0900",
+	"total":58208115,
+	"start":1,
+	"display":73,
+	"items":[
+		{
+			"title":"<b>국방<\/b>위원회 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%EC%9C%84%EC%9B%90%ED%9A%8C",
+			"description":"대한민국 국회의 상임위원회. <b>국방<\/b>위원회는 <b>국방<\/b>부 소관에 속하는 사항을 담당한다(국회법 제37조 제1항 제8호)."
+		},
+		{
+			"title":"<b>국방<\/b>대학교 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%EB%8C%80%ED%95%99%EA%B5%90",
+			"description":"대한민국 국군에서 상급 이상인 영관급 장교나 안보 관련 부서 공무원에게 안보 및 육·해·공 합동연합작전 수행능력을 갖출 군사 교육을 하기 위한 학교. 총장은 소장이 보임된다. 역대 총장 중 46대 총장까지는 중장이 보임되었으나 47대 김종철 총장부터 소장이 보임되기 시작했다."
+		},
+		{
+			"title":"방위사업청 <b>국방<\/b>전자조달시스템",
+			"link":"http:\/\/www.d2b.go.kr\/",
+			"description":"국내, 국외 조달, 용역, 시설공사, 원가자료, 전자입찰, 계약시스템 등 정보 제공, 이용방법 안내."
+		},
+		{
+			"title":"<b>국방<\/b>부",
+			"link":"http:\/\/www.mnd.go.kr\/",
+			"description":"조직 및 장관 소개, 전자민원창구, <b>국방<\/b>신고센터, 법령자료 등 제공."
+		},
+		{
+			"title":"대한민국 <b>국방<\/b>부장관 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EA%B5%AD%EB%B0%A9%EB%B6%80%EC%9E%A5%EA%B4%80",
+			"description":"국무위원의 일원이기에 문민통제 원칙에 따라 현직 군인은 임명될 수 없지만, 보통 일반인(민간인)들이 아닌 예비역 대장 출신이 임명된다. 말만 문민통제이지 현직 군인이 <b>국방<\/b>부 장관이 되는 것과 별반 다르지 않다. 이는 4성 장군이 군복 벗자마자 바로 <b>국방<\/b>부장관으로 부임하는데에 기인한다. 미국, 영국, 독..."
+		},
+		{
+			"title":"<b>국방<\/b>전력발전업무훈령 - 국가법령정보센터",
+			"link":"https:\/\/www.law.go.kr\/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99\/%EA%B5%AD%EB%B0%A9%EC%A0%84%EB%A0%A5%EB%B0%9C%EC%A0%84%EC%97%85%EB%AC%B4%ED%9B%88%EB%A0%B9",
+			"description":"<b>국방<\/b>부본부(이하 &quot;<b>국방<\/b>부&quot;라 한다) 2. 합동참모본부(이하 &quot;합참&quot;이라 한다) 3. 육군ㆍ해군ㆍ공군(이하... <b>국방<\/b>과학연구소(이하 &quot;국과연&quot;이라 한다)와 방위산업기술지원센터(이하 &quot;방산기술센터&quot;라 한다) 6.... "
+		},
+		{
+			"title":"<b>국방<\/b>기술진흥연구소",
+			"link":"https:\/\/www.krit.re.kr\/",
+			"description":"<b>국방<\/b>기술과 방위산업 혁신을 선도하는 연구기관"
+		},
+		{
+			"title":"미국 <b>국방<\/b>부 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%AF%B8%EA%B5%AD%20%EA%B5%AD%EB%B0%A9%EB%B6%80",
+			"description":"미합중국 <b>국방<\/b>부(美合衆國 國防部, The United States Department of Defense, DoD)는 미합중국의 국가안보 를 담당하는 부서로 미군과 직접적으로 관련된 모든 정부 기관의 직무를 조정하고 감독하는 책임을 맡는 연방정부 기관이다."
+		},
+		{
+			"title":"<b>국방<\/b> - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9",
+			"description":"개요 <b>국방<\/b>(國防) [국빵] 「명사」 외국의 침략에 대비 태세를 갖추고 국토를 방위하는 일.... defense \/ 國防 외국으로부터 나라를 지키는 일. 2. 관련 문서 <b>국방<\/b>군 <b>국방<\/b>부, <b>국방<\/b>장관 <b>국방<\/b>비, <b>국방<\/b>세 자주<b>국방<\/b>"
+		},
+		{
+			"title":"<b>국방<\/b> | 정치 | 연합뉴스",
+			"link":"https:\/\/www.yna.co.kr\/politics\/defense",
+			"description":"한 총리 &quot;北, 도발 안 멈춰…한미동맹·튼튼한 <b>국방<\/b>으로 안보 지킬 것... 튼튼한 <b>국방<\/b>으로 안보 굳건히 지키겠다&quot; 6·25 유엔군 참전의 날 기념식 (서울=연합뉴스) 한혜원... (서울=연합뉴스) 하채림 기자 = <b>국방<\/b>부... "
+		},
+		{
+			"title":"<b>국방<\/b>부 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%EB%B6%80",
+			"description":"國防部 \/ Ministry of Defence <b>국방<\/b> 및 군사에 관한 사무를 관장하는 국가행정조직으로 일반적으로 국가가 보유한 군대 전체의 최고행정기관으로, <b>국방<\/b>부는 전군에 대한 행정업무는 물론 군 최고통수권자의 명을 받아서 군에게 명령을 내리는 조직이다."
+		},
+		{
+			"title":"대한민국 <b>국방<\/b>부 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EA%B5%AD%EB%B0%A9%EB%B6%80",
+			"description":"대한민국의 <b>국방<\/b>업무와 군사업무를 담당하는 국가 행정 조직이며 청사는 서울특별시용산구에 있다."
+		},
+		{
+			"title":"<b>국방<\/b>TV - <b>국방<\/b>홍보원",
+			"link":"https:\/\/tv.dema.mil.kr\/web\/tv\/main.do",
+			"description":"<b>국방<\/b>TV <b>국방<\/b>FM <b>국방<\/b>일보 <b>국방<\/b>누리 편성표 시청안내 종영프로그램 TV 다시보기 영상자료실 현역 보도담당\/기자소개 으랏차차 한국독립전쟁사 2022.01.26 ~ <b>국방<\/b>매거진 2015.09.19... "
+		},
+		{
+			"title":"<b>국방<\/b>전직교육원",
+			"link":"https:\/\/www.moti.or.kr\/",
+			"description":"전역예정간부 전직지원교육, 취업지원, 재취업, 사회복귀."
+		},
+		{
+			"title":"<b>국방<\/b>위원회",
+			"link":"https:\/\/defense.na.go.kr:444\/",
+			"description":"위원회 및 국정감사 일정, 계류의안, 예산안, 청원처리 등 수록."
+		},
+		{
+			"title":"신인균의 <b>국방<\/b>TV - YouTube",
+			"link":"https:\/\/www.youtube.com\/channel\/UCbgqDFODvh-q38ouzoKKkVA",
+			"description":"약 107만 명의 구독자를 보유한 신인균의 <b>국방<\/b>TV의 유튜브. 약 2.1천 개의 동영상이 있습니다"
+		},
+		{
+			"title":"<b>국방<\/b>TV",
+			"link":"https:\/\/tv.dema.mil.kr\/",
+			"description":"<b>국방<\/b>홍보원 국군방송, TV \/ FM 프로그램 소개 등 제공."
+		},
+		{
+			"title":"<b>국방<\/b>예산 추이 - e-나라지표 지표조회상세",
+			"link":"https:\/\/www.index.go.kr\/potal\/main\/EachDtlPageDetail.do?idx_cd=1699",
+			"description":"그래프\/통계표 ○ 그래프 - 정부재정대비 <b>국방<\/b>비 점유율추이 출처 : <b>국방<\/b>부 (연도별 예산서)... * 방위사업청 개청('06년) 이후 <b>국방<\/b>비는 전력운영비(<b>국방<\/b>부)와 방위력개선비(방위사업청)으로 구분... "
+		},
+		{
+			"title":"<b>국방<\/b> - 세상을 보는 눈, 글로벌 미디어 - 세계일보",
+			"link":"https:\/\/www.segye.com\/newsList\/0101010700000",
+			"description":"고위급 <b>국방<\/b>정책회의체 복원에 나선다. 25일 군 당국에 따르면, <b>국방<\/b>부는 2018년 말 이후 사실상 중단된... 앞서 지난 22일 <b>국방<\/b>부는 윤석열 대통령에게 <b>국방<\/b>부와 각 군이 일본과의 고위급 교류와 정례회의체 운영을... "
+		},
+		{
+			"title":"<b>국방<\/b>전산정보원",
+			"link":"http:\/\/ndisc.mnd.go.kr\/",
+			"description":"기관소개, 법령정보, 민원신청, 공지사항 등 제공."
+		},
+		{
+			"title":"<b>국방<\/b>기술품질원",
+			"link":"https:\/\/www.dtaq.re.kr\/",
+			"description":"군수품의 품질보증과 미래 무기체계 개발에 필요한 <b>국방<\/b>과학기술 기획을 수행하는 전문연구기관"
+		},
+		{
+			"title":"<b>국방<\/b>예산 추이 - <b>국방<\/b>부",
+			"link":"https:\/\/www.mnd.go.kr\/mbshome\/mbs\/mnd\/subview.jsp?id=mnd_010401020000",
+			"description":"탭 열기 정부재정과 <b>국방<\/b>예산 <b>국방<\/b>예산 추이 세계 <b>국방<\/b>비 비교 <b>국방<\/b>예산 추이 연도별 <b>국방<\/b>비 배분 추이[본예산 기준] (단위: 억 원, %) 연도별 <b>국방<\/b>비... "
+		},
+		{
+			"title":"KIDA 한국<b>국방<\/b>연구원",
+			"link":"https:\/\/www.kida.re.kr\/",
+			"description":"18 정기간행물 [<b>국방<\/b>정책연구] 인공지능과 빅데이터를 활용한 예지 정비 적용 방안에 관한 연구 2022.07.15 정기간행물 [<b>국방<\/b>정책연구]... 세계분쟁정보 <b>국방<\/b>예산통계 인재채용 교육과정 정보공개"
+		},
+		{
+			"title":"한국민족문화대백과 <b>국방<\/b> - 네이버 지식백과",
+			"link":"https:\/\/terms.naver.com\/list.nhn?cid=46628&categoryId=46628",
+			"description":"한국민족문화대백과 <b>국방<\/b>에 관한 정보 제공"
+		},
+		{
+			"title":"군무원 채용관리 시스템",
+			"link":"http:\/\/recruit.mnd.go.kr\/",
+			"description":"군무원 채용정보, 시험안내, 원서접수 및 서류전형, 필기시험, 합격자 발표 등 안내."
+		},
+		{
+			"title":"<b>국방<\/b>장관 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%EC%9E%A5%EA%B4%80",
+			"description":"Minister of National Defense , Secretary of Defense 혹은 Secretary of State for Defence Department"
+		},
+		{
+			"title":"<b>국방<\/b>일보",
+			"link":"http:\/\/kookbang.dema.mil.kr\/",
+			"description":"<b>국방<\/b>부 발행 일간지, 병영칼럼, <b>국방<\/b>정책, 부대탐방, 군사소식, 지난기사보기 등 제공."
+		},
+		{
+			"title":"<b>국방<\/b>대학교",
+			"link":"https:\/\/www.kndu.ac.kr\/",
+			"description":"대학 소개, 교육과정, 부설기관, 대학 생활 등 수록."
+		},
+		{
+			"title":"<b>국방<\/b>과학연구소",
+			"link":"http:\/\/www.add.re.kr\/",
+			"description":"연구소 소개, 무기체계, 기술개발, 시험평가 등 연구개발 및 <b>국방<\/b>과학과 안내."
+		},
+		{
+			"title":"<b>국방<\/b> | 정치 | 중앙일보",
+			"link":"https:\/\/www.joongang.co.kr\/politics\/nk",
+			"description":"아파치 등 헬기 34대 동원…기관·로켓포 500발로 표적 타격 참가 전력은 공격 헬기 AH-64E 아파치 가디언 16대, 기동 헬기 UH-60P 블랙호크 13대, 수송 헬기 CH-47D 치누크 5대 등 34대로, 여단급 규모다.... "
+		},
+		{
+			"title":"<b>국방<\/b>FM - <b>국방<\/b>홍보원",
+			"link":"https:\/\/radio.dema.mil.kr\/web\/fm\/main.do",
+			"description":"<b>국방<\/b>TV <b>국방<\/b>FM <b>국방<\/b>일보 <b>국방<\/b>누리 편성표 시청안내 종영프로그램 TV 다시보기 영상자료실 현역 보도담당\/기자소개 당신의 프렌즈 이다경입니다 2019.04.08 ~ 동엽 미자의 행복한... "
+		},
+		{
+			"title":"<b>국방<\/b> : 고양시청 &gt; 전자민원 &gt; 분야별민원 &gt; <b>국방<\/b>",
+			"link":"http:\/\/www.goyang.go.kr\/www\/www02\/www02_4\/www02_4_3.jsp",
+			"description":"법규나 제도 또는 <b>국방<\/b>업무의 특성상 불가피하게 민원을 해결하여 드리지 못할 경우에는 넓은 마음으로 이해하여 주시기 바랍니다. 모범이 되고 자랑스러운 직원을 알려 주시면 널리 전파 하여... "
+		},
+		{
+			"title":"(사)한국<b>국방<\/b>MICE연구원",
+			"link":"http:\/\/kdmi.kr\/",
+			"description":"<b>국방<\/b>안보ㆍ정부 관련 MICE 자문, 에어쇼ㆍ무기전력화 행사 기획, 국제회의, 전시사업"
+		},
+		{
+			"title":"대한민국 <b>국방<\/b>부차관 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EA%B5%AD%EB%B0%A9%EB%B6%80%EC%B0%A8%EA%B4%80",
+			"description":"대한민국 <b>국방<\/b>부의 2인자이며 대한민국 국군 통수권자인 대통령의 명을 받아 <b>국방<\/b>에 관한 사무를 관장하고 군정권과 군령권을 통수하는 <b>국방<\/b>부장관을 보좌한다."
+		},
+		{
+			"title":"<b>국방<\/b>컨벤션",
+			"link":"https:\/\/www.mndconvention.co.kr\/",
+			"description":"서울특별시 용산구 용산동 위치, 웨딩홀, 피로연장, 연회장. <b>국방<\/b>회관 확장 이전, 스드메, 용산구 웨딩홀"
+		},
+		{
+			"title":"<b>국방<\/b>부 트위터 대변인 | 트위터",
+			"link":"https:\/\/twitter.com\/ROK_MND",
+			"description":"약 5.2만 명의 팔로워를 보유한 <b>국방<\/b>부 트위터 대변인의 트위터. 약 1만 개의 트윗이 있습니다. 국민과 함께 만드는 강한 <b>국방<\/b>! 대한민국 <b>국방<\/b>부 공식 트위터에 오신 것을 환영합니다. &quot;강함은 정신에서 깨어나고"
+		},
+		{
+			"title":"<b>국방<\/b>정보본부 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%EC%A0%95%EB%B3%B4%EB%B3%B8%EB%B6%80",
+			"description":"대한민국 <b>국방<\/b>부 직할부대로 대한민국 국군의 정보기관이다."
+		},
+		{
+			"title":"App Store에서 제공하는 <b>국방<\/b>모바일보안",
+			"link":"https:\/\/apps.apple.com\/kr\/app\/%EA%B5%AD%EB%B0%A9%EB%AA%A8%EB%B0%94%EC%9D%BC%EB%B3%B4%EC%95%88\/id1485356492",
+			"description":"<b>국방<\/b>모바일보안의 리뷰를 읽고 고객 평점을 비교할 수 있습니다. 스크린샷을 보고 자세한 내용을 확인해 보세요. <b>국방<\/b>모바일보안 항목을 다운로드하고 iPhone, iPad 및 iPod touch에서 즐겨보세요."
+		},
+		{
+			"title":"<b>국방<\/b>개혁",
+			"link":"http:\/\/reform.mnd.go.kr\/",
+			"description":"<b>국방<\/b>개혁2.0 소개, 비전, 목표, 추진방향 등 제공."
+		},
+		{
+			"title":"DTiMS 열린정보마당",
+			"link":"https:\/\/dtims.krit.re.kr\/",
+			"description":"기술이전정보 검색, <b>국방<\/b>전력지원체계, 핵심기술과제 공모 등 제공."
+		},
+		{
+			"title":"<b>국방<\/b>비 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%EB%B9%84",
+			"description":"<b>국방<\/b>비(國防費)는 국가의 군대를 유지하는 데 지출되는 모든 비용을 말한다."
+		},
+		{
+			"title":"<b>국방<\/b>부 - <b>국방<\/b>일보",
+			"link":"https:\/\/kookbang.dema.mil.kr\/newsWeb\/BBSMSTR_000000010021\/list.do",
+			"description":"오늘의 전체기사 2022.07.25 (월) <b>국방<\/b>부 육군 해군·해병대 공군 합참·한미연합 방위사업 병무·보훈 포커스 기타 HOME&gt;<b>국방<\/b>&gt;<b>국방<\/b>부"
+		},
+		{
+			"title":"<b>국방<\/b>헬프콜 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%ED%97%AC%ED%94%84%EC%BD%9C",
+			"description":"<b>국방<\/b>부 조사본부에서 운영하는 대한민국 국군 내부의 병영생활고충상담, 성폭력 신고 및 상담, 군범죄 신고 및 상담을 위한 통합센터이다."
+		},
+		{
+			"title":"세계 <b>국방<\/b>비 비교 - <b>국방<\/b>부",
+			"link":"https:\/\/www.mnd.go.kr\/mbshome\/mbs\/mnd\/subview.jsp?id=mnd_010401030000",
+			"description":"정부재정과 <b>국방<\/b>예산 <b>국방<\/b>예산 추이 세계 <b>국방<\/b>비 비교 세계 <b>국방<\/b>비 비교 주요국 <b>국방<\/b>비 대한민국, 미국, 일본, 러시아, 중국, 대만, 영국, 프랑스, 독일, 사우디아라비아... "
+		},
+		{
+			"title":"<b>국방<\/b>복지포털",
+			"link":"https:\/\/www.imnd.or.kr\/",
+			"description":"<b>국방<\/b>부, 군 복지시설소개, 복지 이용안내, <b>국방<\/b>복지카드, 법무상담 등 정보 수록."
+		},
+		{
+			"title":"이용안내 - <b>국방<\/b>부",
+			"link":"https:\/\/www.mnd.go.kr\/mbshome\/mbs\/mnd\/subview.jsp?id=mnd_030501000000",
+			"description":"<b>국방<\/b>신고센터 소개 신고전화일반 02)748-6925 \/ 군용 900-6925 신고인일반인, 군인, 군무원, 공무원... 04383)<b>국방<\/b>부 감사관실 <b>국방<\/b>신고센터 <b>국방<\/b>신고센터에서는 이런 일을 하고 있습니다. 군 내 구타 또는 체벌... "
+		},
+		{
+			"title":"GDP 대비 <b>국방<\/b>비 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/GDP%20%EB%8C%80%EB%B9%84%20%EA%B5%AD%EB%B0%A9%EB%B9%84",
+			"description":"대한민국의 <b>국방<\/b>비는 각종 시장규모 등을 예측할 때 비교 대상으로 잘 쓰인다."
+		},
+		{
+			"title":"2022 첨단<b>국방<\/b>산업전",
+			"link":"http:\/\/www.hi-defense.or.kr\/",
+			"description":"방위산업, <b>국방<\/b>, <b>국방<\/b>산업, 첨단<b>국방<\/b>산업전, 육군교육사령부, <b>국방<\/b>기술품질원, 군활용성간담회, 전력지원, 첨단군사기술"
+		},
+		{
+			"title":"<b>국방<\/b>부 조사본부 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%EB%B6%80%20%EC%A1%B0%EC%82%AC%EB%B3%B8%EB%B6%80",
+			"description":"군내 범죄 수사 및 예방 등의 업무를 담당하는 <b>국방<\/b>부 직할 국군 최고위 수사기관이다."
+		},
+		{
+			"title":"<b>국방<\/b>개혁 2.0 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%EA%B0%9C%ED%98%81%202.0",
+			"description":"2018년7월 27일 발표된 문재인 정부의 <b>국방<\/b>개혁안이다. 박근혜 정부의 <b>국방<\/b>개혁안이었던 <b>국방<\/b>개혁 기본계획(2014~2030)을 대체했다."
+		},
+		{
+			"title":"<b>국방<\/b>헬프콜(sos)1303",
+			"link":"https:\/\/helpcall.mnd.mil.kr\/",
+			"description":"병영생활 고충상담, 군범죄·성폭력 신고\/상담"
+		},
+		{
+			"title":"<b>국방<\/b> - 천지일보 - 새 시대 희망언론",
+			"link":"http:\/\/www.newscj.com\/news\/articleList.html?sc_sub_section_code=S2N158&view_type=sm",
+			"description":"군기령 개정 추진할듯 <b>국방<\/b>부 장관의 국립현충원 참배 현장에 육·해·공군기와 함께 해병대기가 처음으로 함께 배치됐다.이종섭 <b>국방<\/b>부... 참배 현장 사진을 보면 태극기와 육군기, 공군기, 해군기, 합참기, <b>국방<\/b>... "
+		},
+		{
+			"title":"세계 <b>국방<\/b>비 순위 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EC%84%B8%EA%B3%84%20%EA%B5%AD%EB%B0%A9%EB%B9%84%20%EC%88%9C%EC%9C%84",
+			"description":"전 세계 국가들이 지출하는 <b>국방<\/b>비 순위를 말한다. 출처: 영어 위키피디아"
+		},
+		{
+			"title":"민원신청 - <b>국방<\/b>부",
+			"link":"https:\/\/www.mnd.go.kr\/mbshome\/mbs\/mnd\/subview.jsp?id=mnd_030200000000",
+			"description":"<b>국방<\/b>부 합참 육군 해군 공군 증빙서류 신청 시 유의사항 병적(군번)확인 신청시 대상자의 입대당시... 발급 신청 바로가기 담당부서 : <b>국방<\/b>민원상담센터 전화번호 : 1577-9090 국민신문고 시스템 이용문의 : 1600-8172"
+		},
+		{
+			"title":"<b>국방<\/b> - 동아일보",
+			"link":"https:\/\/www.donga.com\/news\/List\/List_0001",
+			"description":"문홍식 <b>국방<\/b>부 부대변인은 21일 정례 브리핑에서 “새 정부... 공개했다… <b>국방<\/b>부가 22일 윤석열 대통령에게 ‘한국형 3축 체계’ 확충 방안과 한미연합연습·훈련 강화 방안 등을 보고한다. 21일 <b>국방<\/b>... "
+		},
+		{
+			"title":"<b>국방<\/b>부 유해발굴감식단",
+			"link":"https:\/\/www.withcountry.mil.kr\/",
+			"description":"6.25전쟁 전사자 유해발굴사업소개, 연도별 발굴결과, 유가족찾기, 제보접수 안내."
+		},
+		{
+			"title":"<b>국방<\/b>관리대학원 - <b>국방<\/b>대학교",
+			"link":"https:\/\/www.kndu.ac.kr\/ndmc\/index.do",
+			"description":"안보정책, 군사전략, <b>국방<\/b>관리, <b>국방<\/b>과학의 이론과 실무적 응용력을 겸비한 전문요원 양성"
+		},
+		{
+			"title":"<b>국방<\/b>홍보원",
+			"link":"http:\/\/www.dema.mil.kr\/",
+			"description":"<b>국방<\/b>일보, 국군방송TV 및 라디오, <b>국방<\/b>저널, <b>국방<\/b>화보 등 간행물, 민원 안내."
+		},
+		{
+			"title":"2020년 <b>국방<\/b>백서 - 대한민국 <b>국방<\/b>부",
+			"link":"https:\/\/www.mnd.go.kr\/cop\/pblictn\/selectPublicationUser.do?siteId=mnd&componentId=14&publicationSeq=897&id=mnd_040501000000",
+			"description":"2020 <b>국방<\/b>백서는 1967년 이후 24번째로 발간되는 백서로 총 8장의 본문으로 구성되었습니다. 지난 2년간의 <b>국방<\/b>정책 성과와 향후 <b>국방<\/b>정책 방향을 제시하였습니다. 보기 2020 <b>국방<\/b>백서_영문(전체)e-BookPDF... "
+		},
+		{
+			"title":"GDP대비 <b>국방<\/b>비 3퍼센트 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/GDP%EB%8C%80%EB%B9%84%20%EA%B5%AD%EB%B0%A9%EB%B9%84%203%ED%8D%BC%EC%84%BC%ED%8A%B8",
+			"description":"<b>국방<\/b>비가 GDP 대비 3% 정도가 돼야 강력한 군사력을 가질 수 있다는 주장이다."
+		},
+		{
+			"title":"제2창군 수준의 「<b>국방<\/b>혁신 4.0」 추진으로 AI 과학기술 강군육성 - <b>국방<\/b>부",
+			"link":"https:\/\/www.mnd.go.kr\/mbshome\/mbs\/mnd\/subview.jsp?id=mnd_010302010000",
+			"description":"제2창군 수준의 「<b>국방<\/b>혁신 4.0」 추진으로 AI 과학기술 강군육성 북 핵·미사일 위협 대응 능력의 획기적 보강한·미 군사동맹 강화 및 <b>국방<\/b>... 수준으로 <b>국방<\/b> 태세 전반 재설계, AI 과학기술강군 육성 AI 기반의 유... "
+		},
+		{
+			"title":"20페이지 - 세상을 보는 다른 눈 &quot;뷰스앤뉴스&quot;",
+			"link":"https:\/\/www.viewsnnews.com\/section?c=NAF",
+			"description":"\/ 남가희 기자 <b>국방<\/b>부는 11일 지난 2020년 9월 발생한 고 이대준 씨... 및 <b>국방<\/b>부 등을 대상으로 감사에 착수했다. 감사원은 이날... \/ 최병성 기자 중국과 러시아 군용기 여러 대가 24일 독도 인근 한<b>국방<\/b>공식별구역... "
+		},
+		{
+			"title":"정치 - 아시아투데이",
+			"link":"https:\/\/www.asiatoday.co.kr\/kn_section.php?d1=2&d2=5",
+			"description":"이 청장은 <b>국방<\/b>개혁 추진 등 현역병 감축에 따라 예비전력의 중요성이 더욱 강조되는 시기에,..25일 경기도 이천시 육군항공사령부에서 열린 대규모 항공작전 훈련에서 AH-64E 아파치 가디언 공격헬기가... "
+		},
+		{
+			"title":"<b>국방<\/b>홍보원 블로그 어울림",
+			"link":"https:\/\/demaclub.tistory.com\/",
+			"description":"<b>국방<\/b>홍보원은 <b>국방<\/b>TV, <b>국방<\/b>FM, <b>국방<\/b>일보, <b>국방<\/b>저널 등 군 홍보매체를 운영하고 있습니다."
+		},
+		{
+			"title":"2022 <b>국방<\/b>부 업무보고",
+			"link":"https:\/\/www.mnd.go.kr\/mbshome\/mbs\/plan\/",
+			"description":"전방위 <b>국방<\/b>태세 확립과 한반도 평화정착 보장굳건한 한미동맹 기반 위에 전작권 전환 가속화 추진 우리 軍은 전방위 안보위협에 대비한 <b>국방<\/b>태세를 확립한 가운데, '강한 안보, 자랑스러운 군, 함께하는 <b>국방<\/b>'을... "
+		},
+		{
+			"title":"2018년 <b>국방<\/b>백서 - 정책자료집",
+			"link":"https:\/\/www.mnd.go.kr\/cop\/pblictn\/selectPublicationUser.do?siteId=mnd&componentId=14&publicationSeq=835&id=mnd_020704000000",
+			"description":"「2018 <b>국방<\/b>백서」는 1967년 이후 23번째로 발간되는 백서로 2016년과 동일한 총 7장의 본문으로 구성되었습니다. 지난 2년간의 <b>국방<\/b>정책 성과와 향후 <b>국방<\/b>정책 방향을 제시하였습니다. 보기 2018... "
+		},
+		{
+			"title":"<b>국방<\/b>부 군사편찬연구소",
+			"link":"http:\/\/www.imhc.mil.kr\/",
+			"description":"연구소 소개, 보도자료, 사업계획, 소장도서 검색 제공."
+		},
+		{
+			"title":"기타 - <b>국방<\/b>일보 &gt; <b>국방<\/b>",
+			"link":"https:\/\/kookbang.dema.mil.kr\/kookbangWeb\/list.do?parent_bbs_id=BBSMSTR_000000000138",
+			"description":"<b>국방<\/b>일보 주요메뉴 ㆍ 전체기사 ㆍ <b>국방<\/b>부\/국직 ㆍ 합참\/한미연합 ㆍ 육군 ㆍ 해군\/해병대 ㆍ 공군 ㆍ 기타 홈 &gt; <b>국방<\/b> &gt; 기타 오늘의 주요뉴스 등록된 뉴스가 없습니다. 더보기&gt; HOT PHOTO 많이 본 기사 인기검색어... "
+		},
+		{
+			"title":"[전문기자 칼럼]<b>국방<\/b>홍보원장, 편향된 정치성향 드러내나 - 메트로신문",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20200421500202",
+			"description":"문형철 기자 자화상. 예비역 육군소령으로 군사문화 칼럼리스트로 활동 중이다. 최근 군안팎에서는 민간출신 박창식 <b>국방<\/b>홍보원장을 놓고 말들이 많다. 최근 그는 편향적 이념을 군에 투사하고 있다는 지적이 청와대 국민청원을 통해 올라왔다. 민간 언론인 출신이라 홍보원 운영이"
+		},
+		{
+			"title":"사실 앞에 겸손한 민영 종합 뉴스통신사 뉴스1",
+			"link":"https:\/\/www.news1.kr\/categories\/?55",
+			"description":"있다는 <b>국방<\/b>부의 주장과 배치되는 사실을 찾지 못했다는 감사 결과를 발표했다. 감사원은… 미국... 미 <b>국방<\/b>부 산하 <b>국방<\/b>안보협력국(DSCA)는 지난 25일(현지시간)… 합동참모본부는 31일 경계력 보강을 위해 육군... "
+		},
+		{
+			"title":"<b>국방<\/b>부 퀘스트 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%EB%B6%80%20%ED%80%98%EC%8A%A4%ED%8A%B8",
+			"description":"대한민국에서 병역의 의무를 수행하기 위한 일련의 과정을 게임에 빗대어 표현하는 밈이다. 게임라인이라는 잡지가 1998년 9월호에서 군바리 퀘스트라고 표현한 예도 있다."
+		},
+		{
+			"title":"<b>국방<\/b>홍보원 홍보지원대 - 나무위키",
+			"link":"https:\/\/namu.wiki\/w\/%EA%B5%AD%EB%B0%A9%ED%99%8D%EB%B3%B4%EC%9B%90%20%ED%99%8D%EB%B3%B4%EC%A7%80%EC%9B%90%EB%8C%80",
+			"description":"대한민국 국군에서 위문공연 등을 담당했던 홍보 부대로 지금은 폐지되었다. 과거에는 '문화선전대(=문선대)' 라고 부르던 바로 그곳이다."
+		},
+		{
+			"title":"U.S. Department of Defense",
+			"link":"https:\/\/www.defense.gov\/",
+			"description":"The Department of Defense is America's largest government agency. Our mission is to provide the military forces needed to deter war and ensure our nation's security."
+		}
+	]
+}
